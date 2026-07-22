@@ -3549,6 +3549,386 @@ const curriculum: DayContent[] = [
      {q:"What word describes taking an active part in your community?", options:["Civic participation","A concept unrelated to community","A math term","A weather pattern"], answer:0}
    ]},
 ]},
+{day:91, label:"Day 91 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Understanding Tone and Mood", summary:"Grade 3 Language strand: tone is the author’s attitude toward a topic, and mood is the feeling a story creates in the reader; word choice and description often shape both.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call the author’s attitude toward a topic in a piece of writing?", options:["Tone","A concept unrelated to reading","The title of the book","The page number"], answer:0},
+     {q:"What do we call the feeling a story creates in the reader?", options:["Tone","The glossary","Mood","A concept unrelated to reading"], answer:2},
+     {q:"If a story uses words like gloomy, dark, and silent, what kind of mood is it likely creating?", options:["No mood at all","A sad or eerie mood","A concept unrelated to mood","A cheerful, sunny mood"], answer:1},
+     {q:"Why might an author choose words like sparkling and joyful to describe a scene?", options:["To create a happy, cheerful mood for the reader","This concept has no connection to storytelling","Word choice never affects a story’s mood","To make the scene feel sad and gloomy"], answer:0},
+     {q:"Why is it useful for readers to notice an author’s tone?", options:["Readers should always ignore an author’s tone","Tone never adds any meaning to a text","This concept has no connection to reading comprehension","It helps them understand how the author feels about the topic"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Primary and Secondary Data Sources", summary:"Grade 3 Math strand: primary data is collected firsthand, such as through a survey you conduct yourself, while secondary data is collected by someone else and found in another source, like a book or website.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call data you collect yourself, such as through your own survey?", options:["Secondary data","Estimated data","A concept unrelated to data","Primary data"], answer:3},
+     {q:"What do we call data that was already collected by someone else, such as in a book?", options:["Primary data","A concept unrelated to data","Secondary data","Estimated data"], answer:2},
+     {q:"If you count how many students in your class like pizza, is that primary or secondary data?", options:["Primary data","Neither kind of data","Cannot tell","Secondary data"], answer:0},
+     {q:"If you look up the population of Toronto in an encyclopedia, is that primary or secondary data?", options:["Primary data","Neither kind of data","Secondary data","Cannot tell"], answer:2},
+     {q:"Why might a scientist choose to collect primary data instead of using secondary data?", options:["Primary data is never useful for answering questions","This concept has no connection to data collection","To get information that directly answers their specific question","Secondary data is always more accurate than primary data"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Life Cycle of a Frog: From Egg to Adult", summary:"Grade 3 Science strand: a frog’s life cycle includes several stages -- egg, tadpole, tadpole with legs, and adult frog -- a process called metamorphosis.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the first stage of a frog’s life cycle?", options:["Tadpole","Adult frog","Egg","A concept unrelated to life cycles"], answer:2},
+     {q:"What do we call a baby frog that lives in water and has a tail?", options:["An adult frog","A larva of a butterfly","A tadpole","A concept unrelated to frogs"], answer:2},
+     {q:"What is the name for the process of major body changes a frog goes through?", options:["Photosynthesis","Hibernation","A concept unrelated to frogs","Metamorphosis"], answer:3},
+     {q:"Why does a tadpole need to live in water while a fully grown frog can live on land?", options:["Tadpoles and adult frogs breathe in exactly the same way","This concept has no connection to a frog’s life cycle","Adult frogs can never leave the water","A tadpole breathes with gills like a fish, while an adult frog develops lungs"], answer:3},
+     {q:"Why is understanding a frog’s life cycle useful for protecting wetland habitats?", options:["A frog’s life cycle has no connection to its habitat","Frogs never actually need any specific habitat","This concept has no relevance to protecting wetlands","It helps us know what conditions frogs need at each stage to survive"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: United Empire Loyalists and the Founding of Ontario", summary:"Grade 3 Social Studies strand: United Empire Loyalists were settlers who remained loyal to Britain during the American Revolution and moved north to what is now Ontario, helping to found many early communities.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call settlers who stayed loyal to Britain during the American Revolution and moved north?", options:["A concept unrelated to Canadian history","Early trading partners","United Empire Loyalists","Confederation delegates"], answer:2},
+     {q:"Where did many United Empire Loyalists settle after leaving the newly formed United States?", options:["A concept unrelated to settlement","In what is now Ontario","In what is now Mexico","Nowhere, they all returned to Britain"], answer:1},
+     {q:"Did the United Empire Loyalists help found many early communities in Ontario?", options:["They only settled in another country","No, they never settled anywhere in Ontario","A concept unrelated to Ontario’s history","Yes"], answer:3},
+     {q:"Why did United Empire Loyalists leave their homes to move north?", options:["This concept has no connection to the American Revolution","They wanted to remain part of Britain rather than join the new United States","They were forced to leave for no particular reason","They wanted to join the new United States government"], answer:1},
+     {q:"Why is the story of the United Empire Loyalists an important part of Ontario’s history?", options:["This concept has no relevance to social studies","The United Empire Loyalists have no connection to Ontario’s history","This event never actually affected Ontario","It explains why and how many of Ontario’s earliest communities were founded"], answer:3}
+   ]},
+]},
+{day:92, label:"Day 92 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Irregular Plural Nouns", summary:"Grade 3 Language strand: most nouns become plural by adding -s or -es, but irregular plural nouns change in unusual ways, such as child becoming children or mouse becoming mice.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is the plural form of the word child?", options:["Children","Childies","Childs","Childes"], answer:0},
+     {q:"What is the plural form of the word mouse?", options:["Mices","Mousies","Mouses","Mice"], answer:3},
+     {q:"What is the plural form of the word foot?", options:["Feet","Foots","Footes","Feets"], answer:0},
+     {q:"Most nouns become plural by adding which ending?", options:["-ing","-ed","-s or -es","A concept unrelated to plural nouns"], answer:2},
+     {q:"Why do irregular plural nouns need to be memorized rather than following the usual -s rule?", options:["All nouns become plural in exactly the same way","This concept has no connection to grammar","Irregular plural nouns always follow the -s rule perfectly","Because they change in unusual ways that don’t follow the normal pattern"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Classifying Quadrilaterals", summary:"Grade 3 Math strand: a quadrilateral is any shape with four sides, and can be classified into types such as squares, rectangles, rhombuses, and trapezoids based on their side lengths and angles.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"How many sides does a quadrilateral have?", options:["6","3","5","4"], answer:3},
+     {q:"Which of these is a quadrilateral with four equal sides and four right angles?", options:["A square","A circle","A triangle","A pentagon"], answer:0},
+     {q:"Which of these is a quadrilateral with two pairs of equal opposite sides and four right angles?", options:["A rectangle","A triangle","A hexagon","A pentagon"], answer:0},
+     {q:"Which of these shapes is NOT a quadrilateral?", options:["A rectangle","A square","A trapezoid","A triangle"], answer:3},
+     {q:"Why might a trapezoid be classified differently from a square?", options:["A trapezoid and a square are always the exact same shape","A trapezoid has five sides while a square has four","A trapezoid only has one pair of parallel sides, unlike a square","This concept has no connection to classifying shapes"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Freshwater Habitats in Ontario: Lakes and Wetlands", summary:"Grade 3 Science strand: Ontario has many freshwater habitats, including lakes, rivers, and wetlands, that provide homes for fish, birds, insects, and plants.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Name one type of freshwater habitat found in Ontario, such as a lake.", options:["A coral reef","A concept unrelated to habitats","A desert","A lake"], answer:3},
+     {q:"Do wetlands provide homes for fish, birds, and insects?", options:["Yes","Only fish can live in wetlands","No, wetlands support no living things","A concept unrelated to habitats"], answer:0},
+     {q:"What do we call an area of land that is covered by shallow water for at least part of the year?", options:["A concept unrelated to habitats","A mountain","A wetland","A desert"], answer:2},
+     {q:"Why are wetlands important for many different kinds of living things?", options:["Wetlands never provide any resources for living things","Only one single species can ever live in a wetland","They provide food, water, and shelter for a wide variety of species","This concept has no connection to habitats"], answer:2},
+     {q:"Why might pollution in a lake harm many different kinds of living things at once?", options:["This concept has no connection to freshwater habitats","Only plants are ever affected by water pollution","Pollution in a lake never affects any living things","Many species depend on the same water for food, shelter, and survival"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The War of 1812 in Upper Canada", summary:"Grade 3 Social Studies strand: the War of 1812 was a conflict between Britain and the United States, fought partly in Upper Canada (now Ontario), where settlers and Indigenous allies helped defend the colony.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call the war fought between Britain and the United States that took place partly in Upper Canada?", options:["A concept unrelated to Canadian history","The War of 1812","World War One","The American Revolution"], answer:1},
+     {q:"What was Ontario called during the time of the War of 1812?", options:["Upper Canada","Lower Canada","New France","A concept unrelated to Ontario’s history"], answer:0},
+     {q:"Did settlers and Indigenous allies help defend Upper Canada during the War of 1812?", options:["Yes","No, no one defended Upper Canada","Only soldiers from another country defended it","A concept unrelated to the War of 1812"], answer:0},
+     {q:"Why was Upper Canada an important location during the War of 1812?", options:["Upper Canada had no border with the United States","Upper Canada was located far away from any fighting","It bordered the United States and was the site of several battles","This concept has no connection to the War of 1812"], answer:2},
+     {q:"Why is the War of 1812 still remembered as an important event in Ontario’s history?", options:["This event never actually affected Upper Canada","The War of 1812 has no connection to Ontario’s history","It helped shape the border and identity of the colony that later became Ontario","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:93, label:"Day 93 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Homographs", summary:"Grade 3 Language strand: a homograph is a word that is spelled the same as another word but has a different meaning, such as bat (the animal) and bat (used in baseball).",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call two words that are spelled the same but have different meanings?", options:["A concept unrelated to vocabulary","Synonyms","Homographs","Antonyms"], answer:2},
+     {q:"Which of these is an example of a homograph?", options:["Jump","Bat","Slowly","Happy"], answer:1},
+     {q:"In the sentence I saw a bat fly at night, which meaning of bat is being used?", options:["A type of hat","A concept unrelated to the sentence","A piece of sports equipment","A flying animal"], answer:3},
+     {q:"In the sentence She swung the bat and hit the ball, which meaning of bat is being used?", options:["A type of hat","A concept unrelated to the sentence","A piece of sports equipment","A flying animal"], answer:2},
+     {q:"Why is it important to use context clues when reading a homograph?", options:["Context clues never help with understanding homographs","Homographs only ever have one possible meaning","Context clues help you figure out which meaning of the word is intended","This concept has no connection to reading comprehension"], answer:2}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Comparing Ways to Pay", summary:"Grade 3 Math strand: people can pay for goods and services in different ways, such as cash, debit cards, or e-transfers, and each method has its own advantages.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Name one way people can pay for something, such as cash.", options:["Cash","A weather forecast","A math equation","A concept unrelated to paying for things"], answer:0},
+     {q:"What do we call a card that takes money directly from your bank account when you pay?", options:["A debit card","A birthday card","A concept unrelated to paying for things","A library card"], answer:0},
+     {q:"What do we call sending money electronically from one bank account to another?", options:["A concept unrelated to paying for things","An e-transfer","A text message","A phone call"], answer:1},
+     {q:"Why might someone choose to pay with a debit card instead of cash?", options:["Debit cards are never accepted anywhere","This concept has no connection to paying for things","Cash is always the only way to pay for something","It can be more convenient and does not require carrying paper money"], answer:3},
+     {q:"Why is it useful to understand different ways to pay for things?", options:["It helps people choose the payment method that works best for a situation","There is only ever one way to pay for anything","Understanding payment methods is never useful","This concept has no connection to financial literacy"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Desert Adaptations: Surviving Extreme Heat and Dryness", summary:"Grade 3 Science strand: desert plants and animals have special adaptations, such as storing water or being active at night, that help them survive extreme heat and very little rainfall.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Name one challenge desert plants and animals must survive, such as extreme heat.", options:["Extremely cold winters only","A concept unrelated to deserts","Constant flooding","Extreme heat"], answer:3},
+     {q:"Why might a cactus have thick, waxy skin?", options:["This concept has no connection to desert plants","Thick skin has no purpose for a cactus","To attract more rainfall","To help it store and retain water"], answer:3},
+     {q:"Why might many desert animals be active mainly at night?", options:["Nighttime in the desert is hotter than daytime","To avoid the extreme heat of the day","This concept has no connection to desert adaptations","Desert animals are never active at any time"], answer:1},
+     {q:"Why do desert plants often have very long or wide-spreading roots?", options:["Desert plants never actually need water","Long roots have no connection to finding water","To collect as much of the limited rainfall as possible","This concept has no connection to desert adaptations"], answer:2},
+     {q:"Why is it important for desert organisms to have adaptations for surviving with little water?", options:["This concept has no relevance to desert ecosystems","Deserts actually receive more rainfall than any other habitat","Desert organisms never actually need water to survive","Because deserts receive very little rainfall, and water is hard to find"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Black Loyalists and Early Black Communities in Ontario", summary:"Grade 3 Social Studies strand: Black Loyalists were formerly enslaved and free Black people who supported Britain during the American Revolution and settled in early Canadian communities, including areas of what is now Ontario.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call formerly enslaved and free Black people who supported Britain during the American Revolution?", options:["Confederation delegates","Black Loyalists","A concept unrelated to Canadian history","Fur traders"], answer:1},
+     {q:"Did some Black Loyalists settle in communities in what is now Ontario?", options:["Yes","They only settled in another country","A concept unrelated to Ontario’s history","No, none ever settled in Ontario"], answer:0},
+     {q:"Black Loyalists mainly arrived in Canada around the time of which event?", options:["The building of the railway","A concept unrelated to Canadian history","The American Revolution","World War Two"], answer:2},
+     {q:"Why did Black Loyalists choose to leave the newly formed United States?", options:["This concept has no connection to the American Revolution","They were promised freedom and land for supporting Britain","They were forced to leave for no particular reason","They wanted to join the new United States government"], answer:1},
+     {q:"Why is learning about Black Loyalists important for understanding Ontario’s early history?", options:["This event never actually affected Ontario","Black Loyalists have no connection to Ontario’s history","It shows the diverse groups of people who helped build early communities in the region","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:94, label:"Day 94 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Persuasive Poster", summary:"Grade 3 Language strand: a persuasive poster uses a strong slogan, bold images, and convincing reasons to make the reader take action or agree with an idea.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What kind of writing uses a slogan and images to convince someone to take action?", options:["A persuasive poster","A concept unrelated to writing","A grocery list","A weather report"], answer:0},
+     {q:"What do we call a short, catchy phrase used on a poster to grab attention?", options:["A slogan","A concept unrelated to writing","A footnote","A glossary"], answer:0},
+     {q:"Should a persuasive poster include convincing reasons to support its message?", options:["Yes","Reasons never belong on a poster","No, a poster should never give any reasons","A concept unrelated to persuasive writing"], answer:0},
+     {q:"Why might a persuasive poster use bold images along with words?", options:["Words alone are always more persuasive than images","This concept has no connection to persuasive writing","Images never add anything to a persuasive poster","Images can quickly grab attention and support the poster’s message"], answer:3},
+     {q:"Which of these would most likely appear on a persuasive poster about recycling?", options:["The water cycle has three main stages.","A triangle has three sides.","Save our planet — recycle today!","Add 4 and 5 to get 9."], answer:2}
+   ]},
+  {subject:"Math", title:"Number: Fact Families for Addition and Subtraction", summary:"Grade 3 Math strand: a fact family is a group of related addition and subtraction facts that use the same three numbers, such as 4 + 5 = 9, 5 + 4 = 9, 9 - 4 = 5, and 9 - 5 = 4.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call a group of related addition and subtraction facts using the same three numbers?", options:["A fact family","A place value chart","A concept unrelated to number sense","A number line"], answer:0},
+     {q:"If 6 + 3 = 9 is part of a fact family, which of these also belongs to that same fact family?", options:["6 - 3 = 9","9 + 3 = 12","9 - 3 = 6","3 - 6 = 9"], answer:2},
+     {q:"Which three numbers make up the fact family that includes 7 + 2 = 9?", options:["9, 2, and 11","7, 9, and 16","7, 2, and 9","7, 2, and 14"], answer:2},
+     {q:"Why are fact families useful for learning subtraction facts?", options:["Knowing an addition fact can help you quickly find its related subtraction facts","Addition and subtraction facts are never related to each other","Fact families never help with subtraction","This concept has no connection to number sense"], answer:0},
+     {q:"Which equation completes this fact family: 8 + 5 = 13, 5 + 8 = 13, 13 - 5 = 8, ___?", options:["13 + 8 = 21","8 - 5 = 13","5 - 8 = 13","13 - 8 = 5"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Structures That Withstand Earthquakes", summary:"Grade 3 Science strand: engineers design structures with special features, such as flexible materials and strong foundations, to help buildings withstand the shaking caused by earthquakes.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What natural event can cause the ground and buildings to shake suddenly?", options:["A concept unrelated to structures","Photosynthesis","An earthquake","A tide"], answer:2},
+     {q:"Name one feature engineers might use to help a building withstand an earthquake, such as a strong ___.", options:["A concept unrelated to structures","Paint colour","Window curtain","Foundation"], answer:3},
+     {q:"Might flexible materials help a building bend slightly instead of breaking during an earthquake?", options:["No, flexible materials always make buildings weaker","A concept unrelated to structures","Buildings can never bend at all","Yes"], answer:3},
+     {q:"Why do engineers test building designs before constructing them in earthquake-prone areas?", options:["To make sure the structure can safely withstand shaking and protect people inside","This concept has no connection to structures","Testing building designs is never necessary","Engineers never need to consider earthquakes"], answer:0},
+     {q:"Why might a taller building need different earthquake protection than a short one?", options:["This concept has no connection to structures","Taller buildings never sway during an earthquake","Taller buildings sway more during shaking and need special design features to stay stable","Short buildings always need more protection than tall ones"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Religious Diversity in Ontario Communities", summary:"Grade 3 Social Studies strand: Ontario communities include people who practise many different religions, such as Christianity, Islam, Judaism, Hinduism, Sikhism, and Buddhism, reflecting the province’s diversity.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Name one religion practised by people in Ontario communities, such as Christianity.", options:["Christianity","A sport","A type of government","A concept unrelated to religion"], answer:0},
+     {q:"Does Ontario include people who practise many different religions?", options:["Yes","No, everyone in Ontario practises the exact same religion","Religion has no connection to Ontario’s communities","A concept unrelated to Ontario’s communities"], answer:0},
+     {q:"What word describes a community that includes people of many different religions?", options:["A concept unrelated to community","Isolated","Uniform","Religiously diverse"], answer:3},
+     {q:"Why might a city have places of worship from several different religions?", options:["Cities never include people from different religious backgrounds","Because the community includes people from many different religious backgrounds","Only one religion is ever allowed in a city","This concept has no connection to Ontario’s communities"], answer:1},
+     {q:"Why is it important for communities to respect religious diversity?", options:["This concept has no relevance to social studies","So everyone feels welcome and free to practise their own beliefs","Communities function better when only one religion is allowed","Respecting religious diversity has no benefit to a community"], answer:1}
+   ]},
+]},
+{day:95, label:"Day 95 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Author’s Craft — Word Choice", summary:"Grade 3 Language strand: word choice, also called diction, is how an author selects specific words to create meaning, feeling, or imagery in a text.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call an author’s choice of specific words to create meaning or feeling?", options:["Word choice","A concept unrelated to reading","The index","The table of contents"], answer:0},
+     {q:"If an author writes the puppy scampered instead of the puppy walked, what feeling does the word scampered add?", options:["A sense of boredom","A concept unrelated to word choice","No feeling at all","A sense of playfulness or energy"], answer:3},
+     {q:"Why might an author choose the word enormous instead of the word big?", options:["Word choice never affects how a reader imagines a scene","This concept has no connection to an author’s craft","Enormous and big always mean completely different things","To create a stronger, more vivid image for the reader"], answer:3},
+     {q:"Why is word choice an important part of an author’s craft?", options:["Specific words can create a clearer or more powerful image than general words","All words create the exact same feeling in a reader","Word choice never affects a piece of writing","This concept has no connection to reading or writing"], answer:0},
+     {q:"Which sentence uses the most vivid word choice?", options:["The weather was bad outside.","The thunder roared across the dark sky.","It was not a nice day.","The sky had some clouds."], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Estimating Length in Centimetres and Metres", summary:"Grade 3 Math strand: students estimate the length of everyday objects using centimetres and metres before measuring, building a sense of these units.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which unit would you most likely use to measure the length of a pencil?", options:["Litres","Centimetres","Kilometres","Metres"], answer:1},
+     {q:"Which unit would you most likely use to measure the length of a classroom?", options:["Centimetres","Kilograms","Metres","Millilitres"], answer:2},
+     {q:"About how long is a standard door, roughly 2 ___?", options:["Kilometres","Centimetres","Metres","Litres"], answer:2},
+     {q:"Estimating a measurement before you measure helps you ___.", options:["Check whether your final measurement makes sense","A concept unrelated to measurement","Guarantee the exact measurement without a tool","Avoid ever measuring the object at all"], answer:0},
+     {q:"Which is the better estimate for the length of a paperclip: 3 centimetres or 3 metres?", options:["3 metres","Neither is a reasonable estimate","Both are equally good estimates","3 centimetres"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Ferns and Mosses: Plants Without Seeds", summary:"Grade 3 Science strand: not all plants grow from seeds; ferns and mosses reproduce using tiny spores instead, and they thrive in damp, shady environments.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Do ferns and mosses reproduce using seeds or spores?", options:["Seeds","A concept unrelated to plant reproduction","Neither seeds nor spores","Spores"], answer:3},
+     {q:"What kind of environment do ferns and mosses usually thrive in?", options:["Damp, shady environments","A concept unrelated to plant habitats","The ocean floor","Dry, sunny deserts"], answer:0},
+     {q:"Name one type of plant that reproduces without seeds, such as a ___.", options:["Fern","Sunflower","Apple tree","A concept unrelated to plants"], answer:0},
+     {q:"Why might mosses commonly be found growing on the shady side of rocks or trees?", options:["Because mosses thrive in damp, shady conditions","Mosses only grow in extremely sunny, dry places","Mosses never actually need moisture","This concept has no connection to how mosses grow"], answer:0},
+     {q:"Why is it useful for scientists to classify plants by how they reproduce?", options:["This concept has no relevance to plant science","It helps them understand the different ways plants have adapted to grow and spread","How a plant reproduces has no connection to classifying it","All plants reproduce in exactly the same way"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Trade Between Ontario and the United States", summary:"Grade 3 Social Studies strand: Ontario trades many goods and services with the United States, its neighbouring country, exchanging products like cars, food, and machinery across the border.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Name the country that borders Ontario and trades goods with it.", options:["The United States","Australia","A concept unrelated to trade","France"], answer:0},
+     {q:"Name one type of good Ontario might trade with the United States, such as cars.", options:["Ocean water","Cars","Wild animals","A concept unrelated to trade"], answer:1},
+     {q:"Does Ontario exchange goods and services with the United States across the border?", options:["No, Ontario never trades with the United States","Yes","Only one single product is ever traded","A concept unrelated to Ontario’s economy"], answer:1},
+     {q:"Why is trade with the United States important for Ontario’s economy?", options:["This concept has no relevance to Ontario’s economy","Ontario never actually trades with any other country","Trade with the United States has no connection to Ontario’s economy","It creates jobs and allows goods to be bought and sold across the border"], answer:3},
+     {q:"Why might Ontario and the United States trade so many goods with each other?", options:["Ontario and the United States do not share any border","This concept has no connection to trade","They share a long border, making transportation of goods easier and faster","Sharing a border makes trade impossible"], answer:2}
+   ]},
+]},
+{day:96, label:"Day 96 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Possessive Nouns", summary:"Grade 3 Language strand: a possessive noun shows ownership, usually formed by adding an apostrophe and an -s, as in the dog’s bone, meaning the bone belongs to the dog.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does a possessive noun show?", options:["A concept unrelated to grammar","Ownership","A question","A silent letter"], answer:1},
+     {q:"How do you usually form a possessive noun for a singular noun?", options:["Add -ing","A concept unrelated to grammar","Add an apostrophe and an -s","Add -ed"], answer:2},
+     {q:"Which of these correctly shows that the ball belongs to the girl?", options:["The girl ball’s","The girl’s ball","Girl the ball’s","The girls ball"], answer:1},
+     {q:"In the phrase the cat’s tail, what does the apostrophe and s show?", options:["That the tail belongs to the cat","That there are many cats","A concept unrelated to grammar","That the cat is running"], answer:0},
+     {q:"Why is it important to place the apostrophe correctly in a possessive noun?", options:["Possessive nouns never actually use an apostrophe","Apostrophe placement never matters in writing","This concept has no connection to grammar","Incorrect placement can confuse who owns what, or make the noun look plural instead"], answer:3}
+   ]},
+  {subject:"Math", title:"Number: Ordering Numbers to 10 000", summary:"Grade 3 Math strand: students order a set of numbers up to 10 000 from least to greatest or greatest to least, using place value to compare digits.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which of these numbers is the smallest: 4 502, 4 250, 4 025?", options:["4 250","They are all equal","4 502","4 025"], answer:3},
+     {q:"Put these numbers in order from least to greatest: 6 300, 6 030, 6 003.", options:["6 003, 6 300, 6 030","6 003, 6 030, 6 300","6 300, 6 030, 6 003","6 030, 6 003, 6 300"], answer:1},
+     {q:"Which of these numbers is the greatest: 8 900, 8 090, 8 009?", options:["They are all equal","8 900","8 090","8 009"], answer:1},
+     {q:"When ordering numbers, which digit should you compare first?", options:["The digit with the highest place value","The last digit only","The digit with the lowest place value","A concept unrelated to place value"], answer:0},
+     {q:"Why is understanding place value important when ordering large numbers?", options:["Numbers can be ordered without ever comparing digits","This concept has no relevance to number sense","Place value has no connection to ordering numbers","It helps you correctly compare digits to find which number is greater or smaller"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Difference Between Insects and Spiders", summary:"Grade 3 Science strand: insects have six legs and three body parts, while spiders (arachnids) have eight legs and two body parts, helping scientists classify them into different animal groups.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"How many legs does an insect have?", options:["Six","Eight","Four","Ten"], answer:0},
+     {q:"How many legs does a spider have?", options:["Four","Six","Eight","Ten"], answer:2},
+     {q:"How many main body parts does an insect have?", options:["Three","Four","Two","Five"], answer:0},
+     {q:"Is a spider classified as an insect or an arachnid?", options:["An insect","A mammal","A concept unrelated to classification","An arachnid"], answer:3},
+     {q:"Why is the number of legs a useful clue for classifying an animal as an insect or a spider?", options:["This concept has no connection to classifying animals","It is an easy, visible feature that reliably tells the two groups apart","Insects and spiders always have the exact same number of legs","The number of legs never helps classify an animal"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Recycling and Waste Management Programs in Ontario", summary:"Grade 3 Social Studies strand: Ontario municipalities run recycling and waste management programs, such as blue box and green bin collection, to help reduce the amount of garbage sent to landfills.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call the coloured bin many Ontario homes use to collect recyclable materials?", options:["The red bin","A concept unrelated to recycling","The blue box","The green bin"], answer:2},
+     {q:"What is one purpose of a municipal recycling program?", options:["To reduce the amount of garbage sent to landfills","To increase the amount of garbage sent to landfills","A concept unrelated to municipal programs","To stop people from throwing anything away"], answer:0},
+     {q:"Name one program that helps manage food waste in some Ontario communities.", options:["The green bin program","The library program","A concept unrelated to waste management","The blue box program"], answer:0},
+     {q:"Why do municipalities organize waste management programs instead of leaving it up to each household?", options:["This concept has no relevance to communities","It ensures waste is handled safely, consistently, and effectively for the whole community","Waste management has no connection to municipal government","Households always manage waste better without any program"], answer:1},
+     {q:"Why is reducing the amount of garbage sent to landfills beneficial for the environment?", options:["It helps conserve land and reduces pollution from decomposing waste","Reducing garbage has no benefit to the environment","This concept has no connection to waste management","Landfills never actually cause any pollution"], answer:0}
+   ]},
+]},
+{day:97, label:"Day 97 — Tue", subjects:[
+  {subject:"Language", title:"Oral Communication: Storytelling with Expression", summary:"Grade 3 Language strand: effective storytelling uses expression, such as changing your voice, volume, and pace, to bring characters and events to life for listeners.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"Name one way a storyteller can use expression, such as changing their ___.", options:["Math equation","Voice","Homework","A concept unrelated to storytelling"], answer:1},
+     {q:"Why might a storyteller speak more quietly during a suspenseful moment?", options:["This concept has no connection to storytelling","To build tension and keep listeners engaged","Suspenseful moments should always be spoken loudly","Quiet speaking never adds anything to a story"], answer:1},
+     {q:"Why might a storyteller change the pace of their speech during an exciting chase scene?", options:["This concept has no connection to oral storytelling","Changing pace never affects how a story feels","To make the moment feel faster and more exciting for listeners","A chase scene should always be told very slowly"], answer:2},
+     {q:"Why is using expression important when telling a story aloud?", options:["Expression never adds anything to a story told aloud","Storytellers should always speak in a flat, unchanging voice","This concept has no connection to oral communication","It helps bring characters and events to life for the listener"], answer:3},
+     {q:"Which of these best shows a storyteller using expression?", options:["Speaking in an excited, quick voice during an action scene","Speaking in the exact same flat tone the whole time","Whispering the entire story from start to finish","Reading silently without saying anything aloud"], answer:0}
+   ]},
+  {subject:"Math", title:"Multiplication: Estimating Products", summary:"Grade 3 Math strand: students estimate the product of a multiplication problem by rounding numbers first, giving a quick sense of whether an answer is reasonable.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"To estimate a product, what should you do to the numbers first?", options:["Ignore them completely","A concept unrelated to estimating","Round them","Divide them"], answer:2},
+     {q:"Which is the best estimate for 29 times 4, after rounding 29 to the nearest ten?", options:["150","120","90","100"], answer:1},
+     {q:"Which is the best estimate for 6 times 51, after rounding 51 to the nearest ten?", options:["350","250","300","200"], answer:2},
+     {q:"Why is estimating a product before solving useful?", options:["This concept has no connection to multiplication","Estimating always gives the exact correct answer","It helps you check whether your final answer is reasonable","Estimating a product is never useful"], answer:2},
+     {q:"If you estimate 19 times 3 by rounding 19 to 20, what is your estimate?", options:["57","60","50","63"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Coral Reefs: Ocean Ecosystems Full of Life", summary:"Grade 3 Science strand: coral reefs are ocean ecosystems built by tiny living animals called coral polyps, providing habitat for a huge variety of fish and other sea creatures.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What tiny living animals build coral reefs?", options:["Fish","Coral polyps","A concept unrelated to ocean ecosystems","Seaweed"], answer:1},
+     {q:"Do coral reefs provide habitat for many fish and other sea creatures?", options:["No, coral reefs support no living things","Only one single fish can ever live on a reef","Yes","A concept unrelated to ocean ecosystems"], answer:2},
+     {q:"Where are coral reefs found, in fresh water or salt water?", options:["Neither fresh nor salt water","A concept unrelated to coral reefs","Salt water, in the ocean","Fresh water, in lakes"], answer:2},
+     {q:"Why are coral reefs sometimes called the rainforests of the ocean?", options:["Coral reefs actually contain trees just like a rainforest","They support an enormous variety of living things, similar to a rainforest on land","This concept has no connection to coral reefs","Coral reefs support almost no living things at all"], answer:1},
+     {q:"Why might warmer ocean water be harmful to coral reefs?", options:["Ocean temperature never actually affects coral reefs","It can stress the coral and cause a harmful process called coral bleaching","This concept has no connection to coral reefs","Warmer water always helps coral grow faster with no downside"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Public Libraries as Community Spaces", summary:"Grade 3 Social Studies strand: public libraries are free community spaces that offer books, technology, and programs, supporting learning and connection for people of all ages.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call a free community space that offers books and programs to the public?", options:["A private office","A factory","A concept unrelated to community spaces","A public library"], answer:3},
+     {q:"Name one thing a public library might offer besides books, such as ___.", options:["A concept unrelated to libraries","Sports cars","Farm animals","Computers"], answer:3},
+     {q:"Can people of all ages use a public library?", options:["Only children are allowed","Yes","No, only adults are allowed","A concept unrelated to public libraries"], answer:1},
+     {q:"Why are public libraries valuable to a community?", options:["Public libraries have no value to a community","Libraries only benefit one single person","This concept has no connection to community spaces","They offer free access to information, technology, and learning for everyone"], answer:3},
+     {q:"Why might a public library host programs like storytime or homework help?", options:["Libraries never offer any programs at all","To support learning and connection for different members of the community","Programs at a library never help anyone learn","This concept has no relevance to community spaces"], answer:1}
+   ]},
+]},
+{day:98, label:"Day 98 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Portmanteau (Blended) Words", summary:"Grade 3 Language strand: a portmanteau, or blended word, is created by combining parts of two words to make a new word with a combined meaning, such as brunch from breakfast and lunch.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call a word made by blending parts of two other words together?", options:["A portmanteau, or blended word","A synonym","A homophone","A concept unrelated to vocabulary"], answer:0},
+     {q:"The word brunch is a blend of which two words?", options:["A concept unrelated to blended words","Bread and lunch","Breakfast and dinner","Breakfast and lunch"], answer:3},
+     {q:"The word smog is a blend of which two words?", options:["Smoke and frog","A concept unrelated to blended words","Smoke and fog","Small and fog"], answer:2},
+     {q:"Why might people create a blended word like brunch instead of using two separate words?", options:["Blended words never actually mean anything","Blended words always confuse the reader with no purpose","It is a quick way to describe something that combines both ideas","This concept has no connection to vocabulary"], answer:2},
+     {q:"Which of these is an example of a blended word?", options:["Happy, meaning glad","Motel, from motor and hotel","Jump, meaning to leap","Slowly, describing how something moves"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: Predicting and Testing Outcomes with a Spinner", summary:"Grade 3 Math strand: students make predictions about the likely outcome of spinning a spinner, then test their predictions by spinning it many times and recording the results.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What tool can be used to test predictions about chance, such as a ___?", options:["A concept unrelated to probability","Spinner","A ruler","A calendar"], answer:1},
+     {q:"If a spinner has 4 equal sections coloured red, blue, green, and yellow, is each colour equally likely?", options:["Only blue can ever be spun","Yes","A concept unrelated to probability","No, red is always more likely"], answer:1},
+     {q:"If you spin a spinner 20 times, is it likely that every single spin will land on the exact same colour?", options:["Yes, it is guaranteed","The spinner will always stop working","A concept unrelated to probability","No, it is unlikely"], answer:3},
+     {q:"Why do we test a prediction by spinning many times instead of just once?", options:["Testing multiple times is never useful","This concept has no connection to probability","Testing many times gives a better idea of the true likelihood of each outcome","One single spin always gives a perfectly accurate result"], answer:2},
+     {q:"If a spinner has 3 equal sections and 2 are blue while 1 is red, which colour is more likely to be spun?", options:["Blue","Neither colour can ever be spun","Red","They are equally likely"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Difference Between Deciduous and Coniferous Trees", summary:"Grade 3 Science strand: deciduous trees lose their broad leaves each fall, while coniferous trees keep their needle-like leaves year-round and often produce cones.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Do deciduous trees lose their leaves in the fall?", options:["Only coniferous trees lose their leaves","No, deciduous trees keep every leaf all year","A concept unrelated to trees","Yes"], answer:3},
+     {q:"Do coniferous trees usually keep their leaves year-round?", options:["Yes","Coniferous trees have no leaves at all","No, coniferous trees lose all their leaves every fall","A concept unrelated to trees"], answer:0},
+     {q:"What shape are the leaves of most coniferous trees?", options:["Broad and flat","Needle-like","Round like a circle","A concept unrelated to trees"], answer:1},
+     {q:"Name one thing coniferous trees often produce, such as ___.", options:["Flowers only","Nothing at all","Cones","A concept unrelated to trees"], answer:2},
+     {q:"Why might coniferous trees be better suited to survive harsh winters than deciduous trees?", options:["Needle-like leaves have no connection to surviving winter","Their needle-like leaves lose less water and can stay on the tree through winter","Coniferous trees always die during winter","This concept has no connection to tree adaptations"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Sports and Recreation in Ontario Communities", summary:"Grade 3 Social Studies strand: sports and recreation programs, such as community sports leagues and public parks, help bring Ontario communities together and support healthy, active living.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Name one type of recreation program a community might offer, such as a ___.", options:["A concept unrelated to recreation","A tax form","A traffic law","Sports league"], answer:3},
+     {q:"Do public parks give community members a place for recreation?", options:["Yes","Parks are only for looking at, never for playing","A concept unrelated to communities","No, parks have no connection to recreation"], answer:0},
+     {q:"What is one benefit of community sports and recreation programs?", options:["They discourage people from being active","They support healthy, active living","A concept unrelated to recreation","They have no benefit to a community"], answer:1},
+     {q:"Why might a municipality build public parks and recreation centres?", options:["Parks and recreation centres serve no purpose at all","This concept has no connection to community planning","To give community members places to be active and connect with each other","Municipalities never build any recreation spaces"], answer:2},
+     {q:"Why can joining a community sports team help someone feel more connected to their community?", options:["This concept has no relevance to community life","It creates opportunities to meet neighbours and build friendships through shared activities","Joining a sports team never helps anyone feel connected","Sports teams always keep people apart from each other"], answer:1}
+   ]},
+]},
+{day:99, label:"Day 99 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Text Features — Table of Contents and Index", summary:"Grade 3 Language strand: a table of contents lists the sections of a book in order at the front, while an index at the back lists topics alphabetically with page numbers to help readers find information quickly.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"Where would you usually find a table of contents in a book, the front or the back?", options:["The back","The front","In the middle only","A concept unrelated to books"], answer:1},
+     {q:"Where would you usually find an index in a book, the front or the back?", options:["A concept unrelated to books","In the middle only","The back","The front"], answer:2},
+     {q:"Is an index organized alphabetically?", options:["Yes","A concept unrelated to text features","No, it is organized randomly","It is organized by page length"], answer:0},
+     {q:"Why might a reader use a table of contents before reading a whole non-fiction book?", options:["Readers should never look at a table of contents","To quickly see what sections are inside and find a specific one","This concept has no connection to reading non-fiction","A table of contents never helps a reader find information"], answer:1},
+     {q:"Why is an index especially useful when looking for information on one specific topic?", options:["An index is always identical to the table of contents","This concept has no connection to text features","An index never lists any useful information","It lists topics alphabetically with page numbers, so you can find them quickly"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Perimeter of Regular Polygons", summary:"Grade 3 Math strand: a regular polygon has sides that are all the same length, so its perimeter can be found by multiplying the length of one side by the number of sides.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call a polygon whose sides are all the same length?", options:["A concept unrelated to geometry","A regular polygon","A circle","An irregular polygon"], answer:1},
+     {q:"If a regular pentagon has sides of 4 cm each, what is its perimeter?", options:["9 cm","16 cm","20 cm","24 cm"], answer:2},
+     {q:"If a regular hexagon has sides of 3 cm each, what is its perimeter?", options:["9 cm","21 cm","15 cm","18 cm"], answer:3},
+     {q:"To find the perimeter of a regular polygon, you can multiply the side length by the ___.", options:["A concept unrelated to perimeter","Area of the shape","Number of angles only","Number of sides"], answer:3},
+     {q:"If a square (a regular polygon) has a perimeter of 24 cm, how long is each side?", options:["6 cm","24 cm","12 cm","4 cm"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: How Roots, Stems, and Leaves Work Together", summary:"Grade 3 Science strand: a plant’s roots, stem, and leaves work together as a system, with roots absorbing water, stems transporting it, and leaves using sunlight to make food.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What part of a plant absorbs water from the soil?", options:["A concept unrelated to plants","The leaves","The roots","The flower"], answer:2},
+     {q:"What part of a plant transports water from the roots to the leaves?", options:["The flower","A concept unrelated to plants","The seed","The stem"], answer:3},
+     {q:"What part of a plant uses sunlight to make food?", options:["The stem","The leaves","The roots","A concept unrelated to plants"], answer:1},
+     {q:"Why do roots, stems, and leaves need to work together as a system?", options:["Each part depends on the others to help the whole plant survive and grow","The parts of a plant never actually depend on each other","This concept has no connection to plant biology","A plant can survive with only one of these parts working"], answer:0},
+     {q:"Why might a plant wilt if its stem is damaged?", options:["This concept has no relevance to plant biology","A damaged stem has no connection to how a plant gets water","A damaged stem cannot properly transport water from the roots to the leaves","Stems never actually transport anything in a plant"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: How Ontario’s Population Has Grown Over Time", summary:"Grade 3 Social Studies strand: Ontario’s population has grown significantly over time due to factors such as immigration, higher birth rates, and people moving to cities for jobs.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Name one factor that can cause a province’s population to grow, such as ___.", options:["A concept unrelated to population","A weather pattern","A math equation","Immigration"], answer:3},
+     {q:"Has Ontario’s population grown significantly over time?", options:["A concept unrelated to population growth","Yes","Ontario’s population has only ever shrunk","No, Ontario’s population has never changed"], answer:1},
+     {q:"Why might people move to Ontario’s cities in search of jobs?", options:["Jobs are never found in cities","This concept has no connection to population growth","Cities never offer any job opportunities","Cities often offer more job opportunities in different industries"], answer:3},
+     {q:"Why is understanding population growth useful for planning a community’s future?", options:["Population growth has no connection to community planning","Governments never need to plan for population changes","This concept has no relevance to Ontario","It helps governments plan for schools, housing, and services that a growing population will need"], answer:3},
+     {q:"Why might a growing population lead to the building of more schools and hospitals in a community?", options:["More people means a greater need for services like education and healthcare","A growing population never affects the need for services","Schools and hospitals are never built due to population growth","This concept has no connection to community planning"], answer:0}
+   ]},
+]},
+{day:100, label:"Day 100 — Fri", subjects:[
+  {subject:"Language", title:"Review: Tone, Grammar, and Vocabulary", summary:"Grade 3 Language strand review: students revisit tone and mood, irregular plural nouns, homographs, possessive nouns, and portmanteau words.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call the author’s attitude toward a topic in a piece of writing?", options:["A concept unrelated to reading","The page number","Tone","The title of the book"], answer:2},
+     {q:"What is the plural form of the word child?", options:["Childs","Childes","Childies","Children"], answer:3},
+     {q:"What do we call two words that are spelled the same but have different meanings?", options:["A concept unrelated to vocabulary","Homographs","Synonyms","Antonyms"], answer:1},
+     {q:"What does a possessive noun show?", options:["A concept unrelated to grammar","A silent letter","Ownership","A question"], answer:2},
+     {q:"What do we call a word made by blending parts of two other words together?", options:["A concept unrelated to vocabulary","A synonym","A homophone","A portmanteau, or blended word"], answer:3}
+   ]},
+  {subject:"Math", title:"Review: Data, Geometry, and Number Sense", summary:"Grade 3 Math strand review: students revisit primary and secondary data, classifying quadrilaterals, fact families, ordering numbers to 10 000, and perimeter of regular polygons.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call data you collect yourself, such as through your own survey?", options:["Primary data","A concept unrelated to data","Estimated data","Secondary data"], answer:0},
+     {q:"How many sides does a quadrilateral have?", options:["6","4","5","3"], answer:1},
+     {q:"What do we call a group of related addition and subtraction facts using the same three numbers?", options:["A fact family","A concept unrelated to number sense","A number line","A place value chart"], answer:0},
+     {q:"Which of these numbers is the smallest: 4 502, 4 250, 4 025?", options:["4 250","4 025","4 502","They are all equal"], answer:1},
+     {q:"What do we call a polygon whose sides are all the same length?", options:["A circle","A regular polygon","An irregular polygon","A concept unrelated to geometry"], answer:1}
+   ]},
+  {subject:"Science", title:"Review: Life Cycles, Habitats, and Plant Science", summary:"Grade 3 Science strand review: students revisit frog life cycles, desert adaptations, insects versus spiders, deciduous versus coniferous trees, and how plant parts work together.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the first stage of a frog’s life cycle?", options:["Adult frog","Egg","A concept unrelated to life cycles","Tadpole"], answer:1},
+     {q:"Name one challenge desert plants and animals must survive, such as extreme heat.", options:["Extremely cold winters only","A concept unrelated to deserts","Constant flooding","Extreme heat"], answer:3},
+     {q:"How many legs does an insect have?", options:["Ten","Eight","Six","Four"], answer:2},
+     {q:"Do deciduous trees lose their leaves in the fall?", options:["A concept unrelated to trees","Yes","Only coniferous trees lose their leaves","No, deciduous trees keep every leaf all year"], answer:1},
+     {q:"What part of a plant absorbs water from the soil?", options:["A concept unrelated to plants","The roots","The flower","The leaves"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Ontario History and Community Life", summary:"Grade 3 Social Studies strand review: students revisit United Empire Loyalists, Black Loyalists, recycling programs, public libraries, and Ontario’s population growth.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call settlers who stayed loyal to Britain during the American Revolution and moved north?", options:["Early trading partners","Confederation delegates","United Empire Loyalists","A concept unrelated to Canadian history"], answer:2},
+     {q:"What do we call formerly enslaved and free Black people who supported Britain during the American Revolution?", options:["Black Loyalists","A concept unrelated to Canadian history","Fur traders","Confederation delegates"], answer:0},
+     {q:"What do we call the coloured bin many Ontario homes use to collect recyclable materials?", options:["The red bin","A concept unrelated to recycling","The blue box","The green bin"], answer:2},
+     {q:"What do we call a free community space that offers books and programs to the public?", options:["A public library","A factory","A concept unrelated to community spaces","A private office"], answer:0},
+     {q:"Name one factor that can cause a province’s population to grow, such as ___.", options:["Immigration","A concept unrelated to population","A math equation","A weather pattern"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;

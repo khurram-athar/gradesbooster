@@ -4761,6 +4761,586 @@ const curriculum: DayContent[] = [
      {prompt:"What do we call the different parts that make up Canada?", answers:["provinces and territories","provinces","territories"]}
    ]},
 ]},
+{day:91, label:"Day 91 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -ot Words", summary:"Students explore the -ot word family, learning that changing the first letter of words like hot, pot, and dot creates new rhyming words that share the same ending sound.",
+   resourceLabel:"YouTube: Word Families: -ot Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ot%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word rhymes with hot?", options:["Cup","Dog","Sun","Pot"], answer:3},
+     {q:"Change the h in hot to d. What new word do you make?", options:["Dog","Din","Dot","Dad"], answer:2},
+     {q:"Which of these words is part of the -ot word family?", options:["Cop","Cat","Cut","Cot"], answer:3},
+     {q:"Words in the -ot family all end with the same ___.", options:["Sound","Colour","Picture","Number"], answer:0},
+     {q:"Which word does not belong in the -ot word family?", options:["Hot","Sun","Dot","Pot"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Change the h in hot to p. What new word do you make?", answers:["pot"]},
+     {prompt:"Change the p in pot to d. What new word do you make?", answers:["dot"]},
+     {prompt:"Name one more word that rhymes with hot, pot, and dot.", answers:["not","cot","lot","jot"]}
+   ]},
+  {subject:"Math", title:"Subitizing: Knowing Amounts Without Counting", summary:"Students practise subitizing, which means looking at a small group of dots or objects and knowing how many there are right away without counting one by one.",
+   resourceLabel:"YouTube: Subitizing: Knowing Amounts Without Counting", resourceUrl:"https://www.youtube.com/results?search_query=Subitizing%3A%20Knowing%20Amounts%20Without%20Counting%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call knowing how many objects are in a group without counting one by one?", options:["Sorting","Subitizing","Measuring","Erasing"], answer:1},
+     {q:"If you instantly know a group of 2 dots has 2 without counting, what skill are you using?", options:["Estimating length","Sorting","Subitizing","Skip counting"], answer:2},
+     {q:"Why is subitizing a helpful math skill?", options:["It only works with big numbers","It replaces counting forever","It makes numbers disappear","It helps us know an amount quickly"], answer:3},
+     {q:"Which group size is easiest to subitize without counting?", options:["A group with no objects","A small group like 3","A huge group like 100","An invisible group"], answer:1},
+     {q:"Subitizing works best with ___ groups of objects.", options:["Invisible","Enormous","Small","Moving"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call knowing how many objects are in a small group without counting?", answers:["subitizing"]},
+     {prompt:"If you see a group of 3 dots arranged like a triangle, can you know it is 3 without counting?", answers:["yes"]},
+     {prompt:"Name one way subitizing can help us in math, like being faster at counting.", answers:["being faster","quick counting","saving time"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Chicken: Egg to Hen", summary:"Students learn that a chicken begins life inside an egg, hatches into a fluffy chick, and grows through several stages into a fully grown hen or rooster.",
+   resourceLabel:"YouTube: Life Cycle of a Chicken: Egg to Hen", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Chicken%3A%20Egg%20to%20Hen%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a baby chick hatch out of?", options:["An egg","A rock","A flower","A shell of sand"], answer:0},
+     {q:"What is a baby chicken called right after it hatches?", options:["A kit","A calf","A cub","A chick"], answer:3},
+     {q:"Put these in order: egg, chick, ___.", options:["A grown hen or rooster","Nothing at all","A fish","Only more eggs"], answer:0},
+     {q:"A life cycle shows how a living thing ___.", options:["Grows and changes over time","Turns into a rock","Never changes at all","Disappears completely"], answer:0},
+     {q:"Which of these is part of a chicken life cycle?", options:["Rainbow","Sandcastle","Cloud","Egg"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a baby chick hatch out of?", answers:["egg","an egg"]},
+     {prompt:"What is a baby chicken called right after it hatches?", answers:["chick","a chick"]},
+     {prompt:"Name one stage in the life cycle of a chicken, like egg or chick.", answers:["egg","chick","hen","rooster"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Farmers: Growing the Food We Eat", summary:"Students learn about the job of a farmer, a community helper who grows crops and raises animals so families can have food to eat.",
+   resourceLabel:"YouTube: Our Farmers: Growing the Food We Eat", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Farmers%3A%20Growing%20the%20Food%20We%20Eat%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a person who grows crops and raises animals for food?", options:["A dentist","A mayor","A farmer","A librarian"], answer:2},
+     {q:"Which of these might a farmer grow?", options:["Books","Cars","Corn","Shoes"], answer:2},
+     {q:"Why is a farmer an important community helper?", options:["They fix broken pipes","They grow the food that many people eat","They deliver mail","They teach at school"], answer:1},
+     {q:"Where does a farmer usually work?", options:["In a hospital","On a farm","In a bank","In a library"], answer:1},
+     {q:"Food on our table often begins its journey at a ___.", options:["Bank","School","Farm","Museum"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a person who grows crops and raises animals for food?", answers:["farmer"]},
+     {prompt:"Name one thing a farmer might grow, like corn or wheat.", answers:["corn","wheat","vegetables","fruit"]},
+     {prompt:"Does the food we eat often start on a farm?", answers:["yes"]}
+   ]},
+]},
+{day:92, label:"Day 92 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -et Words", summary:"Students explore the -et word family, learning that changing the first letter of words like wet, pet, and net creates new rhyming words that share the same ending sound.",
+   resourceLabel:"YouTube: Word Families: -et Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-et%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word rhymes with wet?", options:["Dog","Sun","Cup","Pet"], answer:3},
+     {q:"Change the w in wet to n. What new word do you make?", options:["Nap","Nut","Nod","Net"], answer:3},
+     {q:"Which of these words is part of the -et word family?", options:["Jam","Jet","Jog","Jab"], answer:1},
+     {q:"Words in the -et family all end with the same ___.", options:["Colour","Number","Sound","Picture"], answer:2},
+     {q:"Which word does not belong in the -et word family?", options:["Wet","Net","Sun","Pet"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Change the w in wet to p. What new word do you make?", answers:["pet"]},
+     {prompt:"Change the p in pet to n. What new word do you make?", answers:["net"]},
+     {prompt:"Name one more word that rhymes with wet, pet, and net.", answers:["jet","met","set","get"]}
+   ]},
+  {subject:"Math", title:"One-to-One Correspondence: Touching and Counting Carefully", summary:"Students practise one-to-one correspondence, touching each object exactly once while saying one number word, so the last number said tells how many objects there are in total.",
+   resourceLabel:"YouTube: One-to-One Correspondence: Touching and Counting Carefully", resourceUrl:"https://www.youtube.com/results?search_query=One-to-One%20Correspondence%3A%20Touching%20and%20Counting%20Carefully%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to use one-to-one correspondence while counting?", options:["Never touching the objects","Counting only the biggest object","Touching every object many times","Touching each object exactly once as you count"], answer:3},
+     {q:"If you touch 4 toys once each while counting, what is the last number you say?", options:["4","5","1","3"], answer:0},
+     {q:"Why is touching each object only once important while counting?", options:["It has no effect on counting","It makes counting take longer for no reason","It changes how many objects there are","It helps you count accurately without mistakes"], answer:3},
+     {q:"If you skip touching one object while counting a group, what might happen?", options:["You will always get the right answer","Nothing changes at all","The objects will disappear","You might count one too few"], answer:3},
+     {q:"The last number word you say while counting objects one by one tells you ___.", options:["The colour of the objects","Nothing useful","The shape of the objects","How many objects there are in all"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"When counting objects, should you touch each one only one time?", answers:["yes"]},
+     {prompt:"If you count 5 blocks by touching each one once, what number do you say last?", answers:["5","five"]},
+     {prompt:"What might happen if you touch one block two times while counting?", answers:["you get the wrong count","wrong answer","miscount"]}
+   ]},
+  {subject:"Science", title:"Pond Habitats: Life In and Around the Water", summary:"Students learn that a pond is a small habitat of still water where animals such as frogs, ducks, and fish live in or near the water together.",
+   resourceLabel:"YouTube: Pond Habitats: Life In and Around the Water", resourceUrl:"https://www.youtube.com/results?search_query=Pond%20Habitats%3A%20Life%20In%20and%20Around%20the%20Water%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a pond?", options:["A dry desert","A small habitat of still water","A huge ocean","A snowy mountain"], answer:1},
+     {q:"Which animal is commonly found living in or near a pond?", options:["A camel","A lion","A frog","A polar bear"], answer:2},
+     {q:"What kind of water does a pond usually have?", options:["Still, calm water","Boiling hot water","No water at all","Giant crashing waves"], answer:0},
+     {q:"Why might ducks like living near a pond?", options:["Ponds have no water for ducks","Ducks only live in deserts","They can swim, find food, and rest near the water","Ducks never go near water"], answer:2},
+     {q:"A pond is an example of a ___.", options:["Story character","Habitat","Number","Colour"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a small habitat of still water where frogs and ducks might live?", answers:["pond","a pond"]},
+     {prompt:"Name one animal that can live in or near a pond, like a frog or duck.", answers:["frog","duck","fish"]},
+     {prompt:"Is a pond usually made of moving ocean waves or still water?", answers:["still water"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Construction Workers: Building Our Community", summary:"Students learn about the job of a construction worker, a community helper who builds and repairs houses, schools, and other important buildings.",
+   resourceLabel:"YouTube: Our Construction Workers: Building Our Community", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Construction%20Workers%3A%20Building%20Our%20Community%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a worker who builds and repairs buildings?", options:["A librarian","A construction worker","A mayor","A farmer"], answer:1},
+     {q:"Which of these might a construction worker build?", options:["A house","A poem","A recipe","A song"], answer:0},
+     {q:"Why do construction workers often wear hard hats?", options:["To keep their heads safe while they work","Hats are only for decoration","Hats make buildings taller","Construction workers never wear hats"], answer:0},
+     {q:"Which tool might a construction worker use?", options:["A stethoscope","A hammer","A library card","A cash register"], answer:1},
+     {q:"Construction workers help our community by ___.", options:["Growing food","Delivering mail","Teaching at school","Building and repairing important places"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call a worker who builds and repairs buildings?", answers:["construction worker"]},
+     {prompt:"Name one thing a construction worker might build, like a house or school.", answers:["house","school","building"]},
+     {prompt:"Do construction workers often wear a hard hat to stay safe?", answers:["yes"]}
+   ]},
+]},
+{day:93, label:"Day 93 — Wed", subjects:[
+  {subject:"Language", title:"Making New Words: Adding -es", summary:"Students learn that adding -es to some words, such as changing box to boxes or wish to wishes, shows there is more than one.",
+   resourceLabel:"YouTube: Making New Words: Adding -es", resourceUrl:"https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-es%20kindergarten%20educational",
+   quiz:[
+     {q:"Add -es to the word box. What new word do you make?", options:["Boxs","Boxes","Boxen","Boxies"], answer:1},
+     {q:"Add -es to the word wish. What new word do you make?", options:["Wishies","Wishes","Wishs","Wish"], answer:1},
+     {q:"Adding -es to a word usually shows there is ___.", options:["Only one","A colour","More than one","No amount"], answer:2},
+     {q:"Which word correctly shows more than one dish?", options:["Dish","Dishs","Dishies","Dishes"], answer:3},
+     {q:"Which word correctly shows more than one bus?", options:["Buses","Busies","Bus","Buss"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Add -es to the word box. What new word do you make?", answers:["boxes"]},
+     {prompt:"Add -es to the word wish. What new word do you make?", answers:["wishes"]},
+     {prompt:"Does adding -es to a word usually mean there is only one, or more than one?", answers:["more than one"]}
+   ]},
+  {subject:"Math", title:"Position Words: Above, Below, Inside, and Outside", summary:"Students learn positional language, describing where an object is located using words such as above, below, inside, and outside.",
+   resourceLabel:"YouTube: Position Words: Above, Below, Inside, and Outside", resourceUrl:"https://www.youtube.com/results?search_query=Position%20Words%3A%20Above%2C%20Below%2C%20Inside%2C%20and%20Outside%20kindergarten%20educational",
+   quiz:[
+     {q:"If a cloud is floating over a house, where is the cloud?", options:["Above the house","Below the house","Inside the house","Under the ground"], answer:0},
+     {q:"If a ball is sitting under a table, where is the ball?", options:["Above the table","Inside the table","Below the table","Outside the room"], answer:2},
+     {q:"If a book is inside a backpack, where is the book?", options:["Above the backpack","Inside the backpack","Below the backpack","Outside the backpack"], answer:1},
+     {q:"If a dog is standing outside a doghouse, where is the dog?", options:["Outside the doghouse","Below the doghouse","Above the doghouse","Inside the doghouse"], answer:0},
+     {q:"Position words like above and below help us describe ___.", options:["Where something is located","What sound something makes","What colour something is","How heavy something is"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"If a bird is flying over a tree, is the bird above or below the tree?", answers:["above"]},
+     {prompt:"If a toy is in a box, is the toy inside or outside the box?", answers:["inside"]},
+     {prompt:"Name one positional word that describes where something is, like above or below.", answers:["above","below","inside","outside"]}
+   ]},
+  {subject:"Science", title:"Mountain Habitats: Life High Up", summary:"Students learn that a mountain is a tall landform habitat where the air is cooler near the top, and animals such as mountain goats and eagles are suited to living there.",
+   resourceLabel:"YouTube: Mountain Habitats: Life High Up", resourceUrl:"https://www.youtube.com/results?search_query=Mountain%20Habitats%3A%20Life%20High%20Up%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a mountain?", options:["A deep ocean","A very tall landform habitat","A flat desert","A small pond"], answer:1},
+     {q:"Which animal is well suited to living on a mountain?", options:["A mountain goat","A camel","A fish","A whale"], answer:0},
+     {q:"How is the air near the top of a mountain usually different from the bottom?", options:["It never changes at all","It is always hotter near the top","It is cooler near the top","It disappears near the top"], answer:2},
+     {q:"Why might a mountain goat be good at climbing steep rocky slopes?", options:["Mountain goats only live in oceans","Mountain goats cannot climb at all","Mountain goats avoid rocky places","Its body and feet are suited for climbing safely"], answer:3},
+     {q:"A mountain is an example of a ___.", options:["Number","Colour","Story character","Habitat"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call a very tall landform where some animals live?", answers:["mountain","a mountain"]},
+     {prompt:"Name one animal that can live on a mountain, like a mountain goat or eagle.", answers:["mountain goat","eagle"]},
+     {prompt:"Is the air near the top of a mountain usually cooler or warmer than at the bottom?", answers:["cooler"]}
+   ]},
+  {subject:"SocialStudies", title:"Remembrance Day: Honouring Those Who Served", summary:"Students learn that Remembrance Day is a special day in Canada when people wear poppies and take a moment of silence to honour and remember soldiers who served the country.",
+   resourceLabel:"YouTube: Remembrance Day: Honouring Those Who Served", resourceUrl:"https://www.youtube.com/results?search_query=Remembrance%20Day%3A%20Honouring%20Those%20Who%20Served%20kindergarten%20educational",
+   quiz:[
+     {q:"What red flower do people often wear on Remembrance Day?", options:["A poppy","A daisy","A tulip","A rose"], answer:0},
+     {q:"What do people do during a moment of silence on Remembrance Day?", options:["Play games","Sing loudly","Ignore the day completely","Stay quiet and think about soldiers who served"], answer:3},
+     {q:"Why is Remembrance Day an important day in Canada?", options:["It is only for adults","It honours and remembers soldiers who served the country","It celebrates a birthday","It has no meaning at all"], answer:1},
+     {q:"When is Remembrance Day observed each year in Canada?", options:["July 1","October 31","January 1","November 11"], answer:3},
+     {q:"Wearing a poppy on Remembrance Day is a way to show ___.", options:["Anger","Respect and remembrance","Confusion","Excitement about a party"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What red flower do people often wear on Remembrance Day?", answers:["poppy","a poppy"]},
+     {prompt:"What day of the year is Remembrance Day, if you know it?", answers:["November 11","November 11th"]},
+     {prompt:"Do people take a quiet moment of silence on Remembrance Day to remember soldiers?", answers:["yes"]}
+   ]},
+]},
+{day:94, label:"Day 94 — Thu", subjects:[
+  {subject:"Language", title:"Compare and Contrast: How Two Things Are Different", summary:"Students practise comparing and contrasting two things, such as two animals or two characters, by describing how they are alike and how they are different.",
+   resourceLabel:"YouTube: Compare and Contrast: How Two Things Are Different", resourceUrl:"https://www.youtube.com/results?search_query=Compare%20and%20Contrast%3A%20How%20Two%20Things%20Are%20Different%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to compare two things?", options:["To look at how they are alike","To ignore them completely","To make them disappear","To throw them away"], answer:0},
+     {q:"What does it mean to contrast two things?", options:["To look at how they are different","To make them exactly the same","To hide them","To ignore them completely"], answer:0},
+     {q:"Which of these is a way a cat and a dog might be alike?", options:["Both can fly","Both are plants","Both are animals","Both live in water"], answer:2},
+     {q:"Which of these is a way a cat and a dog might be different?", options:["The sounds they make","They are both pets","They both have fur","They are both animals"], answer:0},
+     {q:"Comparing and contrasting two characters in a story helps readers understand ___.", options:["Only the colour of the cover","Nothing about the story","How the characters are alike and different","Only the title of the book"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If you compare a cat and a dog, name one way they are alike.", answers:["both animals","both have fur","both are pets"]},
+     {prompt:"If you compare a cat and a dog, name one way they are different.", answers:["different sounds","different size","cat meows dog barks"]},
+     {prompt:"What word describes looking at how two things are alike?", answers:["compare","comparing"]}
+   ]},
+  {subject:"Math", title:"3D Shapes: Faces, Edges, and Corners", summary:"Students explore three-dimensional shapes such as cubes and spheres, learning to describe them using the words faces, edges, and corners.",
+   resourceLabel:"YouTube: 3D Shapes: Faces, Edges, and Corners", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Faces%2C%20Edges%2C%20and%20Corners%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the flat sides of a 3D shape?", options:["Corners","Edges","Faces","Colours"], answer:2},
+     {q:"What do we call the pointy points on a 3D shape, like on a cube?", options:["Circles","Faces","Corners","Lines"], answer:2},
+     {q:"How many flat faces does a cube have?", options:["6","2","8","4"], answer:0},
+     {q:"Does a sphere, like a ball, have any flat faces?", options:["Yes, it has 2 faces","Yes, it has 4 faces","No, it is completely round","Yes, it has 6 faces"], answer:2},
+     {q:"An edge on a 3D shape is best described as ___.", options:["The line where two faces meet","A round curve only","A pointy corner","A flat side"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the flat sides of a 3D shape, like the sides of a cube?", answers:["faces"]},
+     {prompt:"What do we call the pointy corners of a 3D shape, like the corners of a cube?", answers:["corners","vertices"]},
+     {prompt:"Does a sphere, like a ball, have any flat faces?", answers:["no"]}
+   ]},
+  {subject:"Science", title:"Gravity: Why Things Fall Down", summary:"Students learn that gravity is an invisible force that pulls objects down toward the ground, which is why a dropped ball falls instead of floating up.",
+   resourceLabel:"YouTube: Gravity: Why Things Fall Down", resourceUrl:"https://www.youtube.com/results?search_query=Gravity%3A%20Why%20Things%20Fall%20Down%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the invisible force that pulls objects down?", options:["Sound","Gravity","Light","Wind"], answer:1},
+     {q:"If you drop a toy, what happens because of gravity?", options:["It falls down to the ground","It disappears completely","It turns into a different toy","It floats up into the sky"], answer:0},
+     {q:"Which of these would gravity pull down if dropped?", options:["Sunlight","A cloud","A ball","A shadow"], answer:2},
+     {q:"Why do objects on Earth usually stay on the ground instead of floating away?", options:["Objects choose to stay down","There is no gravity on Earth","Gravity pushes them up","Gravity pulls them down"], answer:3},
+     {q:"Gravity is best described as a force that pulls objects ___.", options:["Down toward the ground","Nowhere at all","Sideways only","Up into the sky"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the invisible force that pulls objects down toward the ground?", answers:["gravity"]},
+     {prompt:"If you drop a ball, does it fall down or float up?", answers:["falls down","down"]},
+     {prompt:"Name one object that would fall down if you dropped it, like a ball or a book.", answers:["ball","book","toy"]}
+   ]},
+  {subject:"SocialStudies", title:"Laws and Rules: Why Communities Need Them", summary:"Students learn that communities create laws and rules, bigger than classroom rules, to help keep everyone safe and to help people treat each other fairly.",
+   resourceLabel:"YouTube: Laws and Rules: Why Communities Need Them", resourceUrl:"https://www.youtube.com/results?search_query=Laws%20and%20Rules%3A%20Why%20Communities%20Need%20Them%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the rules that a whole community or country follows?", options:["Laws","Colours","Songs","Stories"], answer:0},
+     {q:"Why do communities create laws?", options:["To help keep everyone safe and treated fairly","To stop people from having fun","Laws have no real purpose","To make life more confusing"], answer:0},
+     {q:"Which of these is an example of a law that keeps people safe?", options:["Running across a busy street","Littering in the park","Ignoring traffic signals","Stopping at a red traffic light"], answer:3},
+     {q:"Who is expected to follow the laws in a community?", options:["No one has to follow laws","Everyone in the community","Only adults","Only children"], answer:1},
+     {q:"Laws help a community stay ___.", options:["Impossible to live in","Confusing and unsafe","Unfair to some people","Safe and fair for everyone"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call the rules a whole community or country follows?", answers:["laws"]},
+     {prompt:"Name one reason communities have laws, like keeping people safe.", answers:["keeping people safe","fairness"]},
+     {prompt:"Should everyone in a community follow the same laws?", answers:["yes"]}
+   ]},
+]},
+{day:95, label:"Day 95 — Fri", subjects:[
+  {subject:"Language", title:"Punctuation: Capital Letters at the Start of a Sentence", summary:"Students learn that every written sentence begins with a capital letter, which signals to a reader that a new sentence is starting.",
+   resourceLabel:"YouTube: Punctuation: Capital Letters at the Start of a Sentence", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Capital%20Letters%20at%20the%20Start%20of%20a%20Sentence%20kindergarten%20educational",
+   quiz:[
+     {q:"What kind of letter should begin every written sentence?", options:["A lowercase letter","A picture","A number","A capital letter"], answer:3},
+     {q:"Which of these correctly starts a sentence?", options:["The sun is bright.","the sun is bright.","sun is bright the","THE sun is bright"], answer:0},
+     {q:"Why do sentences begin with a capital letter?", options:["It has no purpose at all","It is only used at the end of a sentence","It signals to the reader that a new sentence is starting","It makes words harder to read"], answer:2},
+     {q:"Which of these sentences correctly begins with a capital letter?", options:["birds can fly.","BIRDS can fly","birds Can Fly","Birds can fly."], answer:3},
+     {q:"A capital letter at the beginning of a sentence is a print concept that helps readers know ___.", options:["Where a new sentence begins","Where a sentence ends","What colour to use","How loud to read"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Should the first word of a sentence start with a capital letter or a lowercase letter?", answers:["capital letter"]},
+     {prompt:"Which of these correctly starts a sentence: the dog runs, or The dog runs?", answers:["The dog runs"]},
+     {prompt:"What does a capital letter at the start of a sentence tell a reader?", answers:["a new sentence is starting","new sentence"]}
+   ]},
+  {subject:"Math", title:"Covering Space: Filling a Shape with Tiles", summary:"Students explore early measurement of area by covering a flat shape, like a rectangle, with small tiles or squares and counting how many tiles it takes to fill the space completely.",
+   resourceLabel:"YouTube: Covering Space: Filling a Shape with Tiles", resourceUrl:"https://www.youtube.com/results?search_query=Covering%20Space%3A%20Filling%20a%20Shape%20with%20Tiles%20kindergarten%20educational",
+   quiz:[
+     {q:"What are we doing when we fill a flat shape completely with small tiles?", options:["Erasing the shape","Measuring the weight","Measuring the temperature","Covering the space"], answer:3},
+     {q:"If it takes 8 small tiles to completely cover a rectangle, how many tiles were used?", options:["8","2","10","4"], answer:0},
+     {q:"Would a bigger shape need more tiles or fewer tiles to cover it completely?", options:["The exact same number always","Fewer tiles","No tiles at all","More tiles"], answer:3},
+     {q:"Why might we count how many tiles cover a shape?", options:["Tiles have no connection to measurement","To measure the shapes colour","To measure and compare how much space the shape takes up","To measure how loud the shape is"], answer:2},
+     {q:"Covering a shape with tiles and counting them is an early way to measure ___.", options:["Weight","Temperature","Area, or how much space a shape covers","Sound"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call small shapes, like squares, used to fill up a flat space?", answers:["tiles"]},
+     {prompt:"If it takes 6 small tiles to fill a shape completely, how many tiles cover the shape?", answers:["6","six"]},
+     {prompt:"Would a bigger shape usually need more tiles or fewer tiles to fill it completely?", answers:["more tiles","more"]}
+   ]},
+  {subject:"Science", title:"Static Electricity: Making Things Stick", summary:"Students explore static electricity by rubbing objects, such as a balloon on hair, to discover how this invisible force can make light objects stick together or attract to each other.",
+   resourceLabel:"YouTube: Static Electricity: Making Things Stick", resourceUrl:"https://www.youtube.com/results?search_query=Static%20Electricity%3A%20Making%20Things%20Stick%20kindergarten%20educational",
+   quiz:[
+     {q:"What invisible force can make a rubbed balloon stick to a wall?", options:["Gravity","Magnetism only","Sound","Static electricity"], answer:3},
+     {q:"What might happen if you rub a balloon on your hair?", options:["Nothing happens at all","Your hair turns a new colour","Your hair disappears","Your hair might stick up toward the balloon"], answer:3},
+     {q:"Which of these could you rub to help create static electricity?", options:["A rock","Water","A shadow","A balloon"], answer:3},
+     {q:"Static electricity is an example of an invisible ___.", options:["Colour","Force","Sound","Smell"], answer:1},
+     {q:"Why does a rubbed balloon sometimes stick to a wall for a little while?", options:["Static electricity pulls it toward the wall","Gravity pushes it sideways","The balloon becomes glue","The wall is magnetic"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What invisible force can make a rubbed balloon stick to a wall?", answers:["static electricity"]},
+     {prompt:"If you rub a balloon on your hair, what might happen to your hair?", answers:["it sticks up","stands up","sticks to the balloon"]},
+     {prompt:"Name one object you might rub to create static electricity, like a balloon.", answers:["balloon","a balloon"]}
+   ]},
+  {subject:"SocialStudies", title:"Emergency Vehicles: Sirens and Flashing Lights", summary:"Students learn to identify emergency vehicles, such as ambulances, fire trucks, and police cars, and understand that their sirens and flashing lights warn others to make way quickly.",
+   resourceLabel:"YouTube: Emergency Vehicles: Sirens and Flashing Lights", resourceUrl:"https://www.youtube.com/results?search_query=Emergency%20Vehicles%3A%20Sirens%20and%20Flashing%20Lights%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is an emergency vehicle?", options:["A school bus","An ambulance","A taxi","A delivery truck"], answer:1},
+     {q:"What do emergency vehicles use to warn others they are coming?", options:["Silence","Sirens and flashing lights","Music","Nothing at all"], answer:1},
+     {q:"What should drivers do when they hear an emergency vehicle siren?", options:["Make way and let it pass safely","Stop and block the road","Speed up to race it","Ignore the siren completely"], answer:0},
+     {q:"Which emergency vehicle helps put out fires?", options:["A school bus","A fire truck","A police car","An ambulance"], answer:1},
+     {q:"Why is it important for emergency vehicles to move quickly through traffic?", options:["They are just driving for fun","They never need to hurry","They may be rushing to help someone in danger","Emergency vehicles are not important"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one type of emergency vehicle, like an ambulance or fire truck.", answers:["ambulance","fire truck","police car"]},
+     {prompt:"What do emergency vehicles use to warn people to make way, like a loud sound?", answers:["sirens","flashing lights"]},
+     {prompt:"Should cars pull over and make way when they hear an emergency vehicle siren?", answers:["yes"]}
+   ]},
+]},
+{day:96, label:"Day 96 — Mon", subjects:[
+  {subject:"Language", title:"Cause and Effect: Why Things Happen in a Story", summary:"Students learn to identify cause and effect in stories, understanding that a cause is why something happens and an effect is what happens as a result.",
+   resourceLabel:"YouTube: Cause and Effect: Why Things Happen in a Story", resourceUrl:"https://www.youtube.com/results?search_query=Cause%20and%20Effect%3A%20Why%20Things%20Happen%20in%20a%20Story%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the reason why something happens in a story?", options:["The effect","The title","The cover","The cause"], answer:3},
+     {q:"What do we call what happens as a result of an event in a story?", options:["The author","The cause","The setting","The effect"], answer:3},
+     {q:"If a character waters a plant and it grows, what is the cause?", options:["Watering the plant","The characters name","The plant growing","The title of the story"], answer:0},
+     {q:"If a character waters a plant and it grows, what is the effect?", options:["Watering the plant","The plant growing","The title of the story","The characters name"], answer:1},
+     {q:"Understanding cause and effect helps readers see how events in a story are ___.", options:["Connected to each other","Never related at all","Always random","Impossible to understand"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"If a character forgets an umbrella and gets wet in the rain, what is the cause?", answers:["forgetting the umbrella"]},
+     {prompt:"If a character forgets an umbrella and gets wet in the rain, what is the effect?", answers:["getting wet"]},
+     {prompt:"What word describes why something happens in a story?", answers:["cause"]}
+   ]},
+  {subject:"Math", title:"Ways to Make 5: Number Combinations", summary:"Students explore different combinations of two numbers that add together to make 5, such as 1 and 4, or 2 and 3, building an early understanding of number composition.",
+   resourceLabel:"YouTube: Ways to Make 5: Number Combinations", resourceUrl:"https://www.youtube.com/results?search_query=Ways%20to%20Make%205%3A%20Number%20Combinations%20kindergarten%20educational",
+   quiz:[
+     {q:"Which two numbers add together to make 5?", options:["3 and 3","2 and 4","2 and 3","1 and 1"], answer:2},
+     {q:"Which two numbers add together to make 5?", options:["1 and 4","2 and 2","4 and 4","1 and 5"], answer:0},
+     {q:"Does 0 plus 5 also equal 5?", options:["Yes","Cannot tell","Only sometimes","No"], answer:0},
+     {q:"Which pair of numbers does NOT add together to make 5?", options:["0 and 5","2 and 3","1 and 4","2 and 4"], answer:3},
+     {q:"Learning different ways to make 5 helps us understand that a number can be made of ___.", options:["Only one possible combination","No smaller numbers at all","Different smaller number combinations","Only itself and zero"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What two numbers can you add together to make 5, using 2 and another number?", answers:["2 and 3","3"]},
+     {prompt:"What two numbers can you add together to make 5, using 1 and another number?", answers:["1 and 4","4"]},
+     {prompt:"Can 5 and 0 also add together to make 5?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"The Moon: Watching It Change Shape", summary:"Students learn that the moon appears to change shape over about a month, moving through phases such as a full circle, a half circle, and a thin crescent.",
+   resourceLabel:"YouTube: The Moon: Watching It Change Shape", resourceUrl:"https://www.youtube.com/results?search_query=The%20Moon%3A%20Watching%20It%20Change%20Shape%20kindergarten%20educational",
+   quiz:[
+     {q:"What object in the night sky appears to change shape over about a month?", options:["A star","The sun","A cloud","The moon"], answer:3},
+     {q:"Which of these is a shape the moon can appear to be?", options:["A triangle","A square","A crescent","A rectangle"], answer:2},
+     {q:"Does the moon change shape quickly in one night, or slowly over many days?", options:["It changes every second","It never changes","Quickly in one night","Slowly over many days"], answer:3},
+     {q:"What do we call the different shapes the moon appears to take, like full or crescent?", options:["Seasons","Life cycles","Phases of the moon","Habitats"], answer:2},
+     {q:"Watching the moon change shape over time is an example of studying ___.", options:["Story characters","Living things only","Community helpers","Earth and space"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What object in the night sky appears to change shape over about a month?", answers:["the moon","moon"]},
+     {prompt:"Name one shape the moon might look like, such as a full circle or a crescent.", answers:["full circle","full moon","crescent","half circle"]},
+     {prompt:"Does the moon appear to change shape slowly over many days?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"City Life and Country Life: Comparing Communities", summary:"Students compare city life and country life, learning that a city has many tall buildings and busy streets, while the country has more open land, farms, and fewer buildings.",
+   resourceLabel:"YouTube: City Life and Country Life: Comparing Communities", resourceUrl:"https://www.youtube.com/results?search_query=City%20Life%20and%20Country%20Life%3A%20Comparing%20Communities%20kindergarten%20educational",
+   quiz:[
+     {q:"Where would you expect to see many tall buildings close together?", options:["In a city","In the country","Only in the mountains","Only at the beach"], answer:0},
+     {q:"Where would you expect to see wide open farmland with fewer buildings?", options:["In a city","Only in space","Only underwater","In the country"], answer:3},
+     {q:"Which of these is more common in the country than in a busy city?", options:["Tall skyscrapers","Crowded subways","Wide open farmland","Very busy streets"], answer:2},
+     {q:"Why might a family choose to live in the country instead of a city?", options:["They may enjoy more open space and quiet","The country has no benefits at all","Country living has no differences from the city","Cities have no buildings at all"], answer:0},
+     {q:"Comparing city life and country life helps us understand that communities can be ___.", options:["Exactly the same everywhere","Impossible to compare","Only found in one place","Different from each other in many ways"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Would you expect to see many tall buildings in a city or in the country?", answers:["city"]},
+     {prompt:"Would you expect to see wide open farmland in a city or in the country?", answers:["country"]},
+     {prompt:"Name one difference between city life and country life.", answers:["more buildings in the city","more open land in the country","busier streets in the city"]}
+   ]},
+]},
+{day:97, label:"Day 97 — Tue", subjects:[
+  {subject:"Language", title:"Story Mood: How a Story Makes Us Feel", summary:"Students learn that a story can have a mood, or overall feeling, such as happy, spooky, or exciting, often created through the words and pictures an author chooses.",
+   resourceLabel:"YouTube: Story Mood: How a Story Makes Us Feel", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Mood%3A%20How%20a%20Story%20Makes%20Us%20Feel%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the overall feeling a story gives its reader?", options:["The cover","The title","The mood","The author"], answer:2},
+     {q:"If a story uses bright pictures and cheerful words, what mood might it have?", options:["A sad mood","A happy mood","A spooky mood","An angry mood"], answer:1},
+     {q:"If a story uses dark pictures and quiet, mysterious words, what mood might it have?", options:["A calm sunny mood","A spooky mood","A happy mood","A silly mood"], answer:1},
+     {q:"What helps create the mood of a story?", options:["Only the page numbers","The words and pictures an author chooses","Nothing at all","Only the title"], answer:1},
+     {q:"Noticing the mood of a story helps readers understand ___.", options:["How the story makes them feel","Nothing about the story","Only how many pages are in the book","Only the name of the author"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes the overall feeling a story gives us, like happy or spooky?", answers:["mood"]},
+     {prompt:"If a story has dark pictures and quiet words, might its mood feel spooky or cheerful?", answers:["spooky"]},
+     {prompt:"Name one mood a story could have, like happy or exciting.", answers:["happy","spooky","exciting","calm"]}
+   ]},
+  {subject:"Math", title:"Comparing Height: Taller and Shorter", summary:"Students compare the height of objects and people, using the words taller and shorter to describe which one measures more or less from bottom to top.",
+   resourceLabel:"YouTube: Comparing Height: Taller and Shorter", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Height%3A%20Taller%20and%20Shorter%20kindergarten%20educational",
+   quiz:[
+     {q:"If one building measures more from bottom to top than another, it is ___.", options:["Shorter","Heavier","Wider","Taller"], answer:3},
+     {q:"If a plant measures less from bottom to top than a tree, the plant is ___.", options:["Heavier","Taller","Shorter","Wider"], answer:2},
+     {q:"Which of these words compares how tall two things are?", options:["Sweeter","Louder","Colder","Taller"], answer:3},
+     {q:"If a giraffe is taller than a dog, what does that tell us?", options:["The giraffe weighs less","The dog is louder","The giraffe is quieter","The giraffe measures more from bottom to top"], answer:3},
+     {q:"Comparing height means comparing how ___ two things are.", options:["Loud","Colourful","Tall","Salty"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If one tree is bigger from bottom to top than another tree, is it taller or shorter?", answers:["taller"]},
+     {prompt:"If you are smaller from bottom to top than a grown-up, are you taller or shorter than them?", answers:["shorter"]},
+     {prompt:"Name one word we use to compare how tall two things are, like taller or shorter.", answers:["taller","shorter"]}
+   ]},
+  {subject:"Science", title:"Germs: Staying Healthy and Washing Our Hands", summary:"Students learn that germs are tiny living things too small to see that can make us sick, and that washing our hands with soap and water helps remove germs and keep us healthy.",
+   resourceLabel:"YouTube: Germs: Staying Healthy and Washing Our Hands", resourceUrl:"https://www.youtube.com/results?search_query=Germs%3A%20Staying%20Healthy%20and%20Washing%20Our%20Hands%20kindergarten%20educational",
+   quiz:[
+     {q:"What are germs?", options:["Large visible bugs","Tiny living things too small to see that can make us sick","Types of clouds","Colourful rocks"], answer:1},
+     {q:"What can help remove germs from our hands?", options:["Washing with soap and water","Wiping hands on clothing only","Ignoring dirty hands","Never washing at all"], answer:0},
+     {q:"Why is it important to wash our hands before eating?", options:["Washing hands has no benefit","Germs are never found on hands","It helps remove germs and keep us healthy","Washing hands makes us sick"], answer:2},
+     {q:"Which of these is a good time to wash our hands?", options:["Only once a year","Never at all","Only when hands look shiny","After using the washroom"], answer:3},
+     {q:"Washing our hands with soap and water helps us ___.", options:["Change colour","Stay healthy by removing germs","Grow taller","Hear better"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What tiny living things, too small to see, can sometimes make us sick?", answers:["germs"]},
+     {prompt:"Name one way to help remove germs from our hands, like washing with soap.", answers:["washing hands","soap and water"]},
+     {prompt:"Can washing our hands help us stay healthy?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Ottawa: The Capital City of Canada", summary:"Students learn that Ottawa is the capital city of Canada, the special city where important decisions for the whole country are made.",
+   resourceLabel:"YouTube: Ottawa: The Capital City of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Ottawa%3A%20The%20Capital%20City%20of%20Canada%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the capital city of Canada?", options:["Montreal","Vancouver","Ottawa","Toronto"], answer:2},
+     {q:"What is special about a capital city like Ottawa?", options:["Important decisions for the whole country are made there","It has no buildings at all","No one lives there","It is the smallest town in the country"], answer:0},
+     {q:"Ottawa is the capital city of which country?", options:["The United States","Mexico","France","Canada"], answer:3},
+     {q:"Which of these best describes Ottawa?", options:["A mountain range","The capital city of Canada","A type of animal","A tiny island"], answer:1},
+     {q:"Learning about a capital city like Ottawa helps us understand more about our ___.", options:["Favourite foods","Weather","Country","Favourite games"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is the capital city of Canada?", answers:["Ottawa"]},
+     {prompt:"Is Ottawa a small village or a capital city?", answers:["capital city"]},
+     {prompt:"Do important decisions for the whole country get made in the capital city?", answers:["yes"]}
+   ]},
+]},
+{day:98, label:"Day 98 — Wed", subjects:[
+  {subject:"Language", title:"Environmental Print: Reading Signs and Labels", summary:"Students learn to recognize environmental print, the words and symbols found on everyday signs and labels, such as a stop sign or a cereal box, that help us understand our surroundings.",
+   resourceLabel:"YouTube: Environmental Print: Reading Signs and Labels", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Print%3A%20Reading%20Signs%20and%20Labels%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the words and symbols found on everyday signs and labels?", options:["Environmental print","A story problem","Poetry","Fiction"], answer:0},
+     {q:"Which of these is an example of environmental print?", options:["A stop sign","A bedtime story","A poem","A song"], answer:0},
+     {q:"Why is it helpful to recognize environmental print?", options:["It only appears in books","It is only found at school","It helps us understand our surroundings, like safety signs","It has no real use"], answer:2},
+     {q:"Where might you see environmental print?", options:["Only inside a library book","Only in a song","On a cereal box","Only in a poem"], answer:2},
+     {q:"Environmental print often uses ___ to give people quick information.", options:["Only pictures with no words","Words and symbols","Only colours","Only numbers"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call the words and symbols on everyday signs, like a stop sign?", answers:["environmental print"]},
+     {prompt:"Name one place you might see environmental print, like a cereal box or street sign.", answers:["cereal box","street sign","stop sign"]},
+     {prompt:"Can reading signs and labels help us understand what is around us?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Money: Loonies and Toonies (Dollar Coins)", summary:"Students learn to identify the loonie, a coin worth one dollar, and the toonie, a coin worth two dollars, two important Canadian coins used for buying things.",
+   resourceLabel:"YouTube: Money: Loonies and Toonies (Dollar Coins)", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Loonies%20and%20Toonies%20%28Dollar%20Coins%29%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the name of the Canadian coin worth one dollar?", options:["A dime","A toonie","A loonie","A penny"], answer:2},
+     {q:"What is the name of the Canadian coin worth two dollars?", options:["A loonie","A toonie","A quarter","A nickel"], answer:1},
+     {q:"Which coin is worth more, a loonie or a toonie?", options:["A toonie","A loonie","Cannot tell","They are equal"], answer:0},
+     {q:"If you have 1 loonie and 1 toonie, how many dollars do you have in total?", options:["1","2","3","4"], answer:2},
+     {q:"Loonies and toonies are both examples of Canadian ___.", options:["Stamps","Stickers","Dollar coins","Paper bills"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is the name of the Canadian coin worth one dollar?", answers:["loonie"]},
+     {prompt:"What is the name of the Canadian coin worth two dollars?", answers:["toonie"]},
+     {prompt:"Is a toonie worth more than a loonie?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Fossils: Clues from Long Ago", summary:"Students learn that a fossil is the preserved trace or remains of a plant or animal that lived a very long time ago, giving us clues about life on Earth in the past.",
+   resourceLabel:"YouTube: Fossils: Clues from Long Ago", resourceUrl:"https://www.youtube.com/results?search_query=Fossils%3A%20Clues%20from%20Long%20Ago%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a fossil?", options:["A new type of rock candy","The preserved trace of a plant or animal from long ago","A living animal today","A type of cloud"], answer:1},
+     {q:"What can fossils teach scientists?", options:["Todays traffic patterns","Clues about life on Earth in the past","How to bake bread","Todays weather forecast"], answer:1},
+     {q:"Which animal is commonly known from fossils found in rocks?", options:["A classroom hamster","A dinosaur","A pet goldfish","A modern house cat"], answer:1},
+     {q:"Where might scientists search to find fossils?", options:["In a rainbow","In the clouds","In the ocean waves only","In rocks and the ground"], answer:3},
+     {q:"A fossil is best described as a clue about ___.", options:["Life long ago","Nothing important","Todays weather","Tomorrow only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the preserved trace of a plant or animal that lived long ago?", answers:["fossil","a fossil"]},
+     {prompt:"Can fossils give us clues about animals that lived a very long time ago, like dinosaurs?", answers:["yes"]},
+     {prompt:"Name one place scientists might search to find fossils, like in rocks.", answers:["rocks","the ground","in the earth"]}
+   ]},
+  {subject:"SocialStudies", title:"Weather Safety: Being Prepared for Storms", summary:"Students learn simple ways to stay safe during storms, such as going indoors when thunder is heard and listening to a trusted adult for instructions.",
+   resourceLabel:"YouTube: Weather Safety: Being Prepared for Storms", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Safety%3A%20Being%20Prepared%20for%20Storms%20kindergarten%20educational",
+   quiz:[
+     {q:"What should you do if you hear thunder while playing outside?", options:["Ignore the thunder completely","Keep playing outside","Stand under a tall tree","Go indoors right away"], answer:3},
+     {q:"Who should you listen to for instructions during a storm?", options:["No one at all","A trusted adult","A stranger","Another child"], answer:1},
+     {q:"Why is it important to go indoors during a thunderstorm?", options:["Storms are never dangerous","Storms have no effect on safety","Staying outside is always safer","To stay safe from lightning and heavy rain"], answer:3},
+     {q:"Which of these shows good weather safety?", options:["Ignoring storm warnings","Going inside when a storm starts","Standing outside during lightning","Playing in flooded streets"], answer:1},
+     {q:"Being prepared for storms helps keep our community ___.", options:["Unprepared","Safe","Confused","In danger"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If you hear thunder outside, should you go indoors or stay outside?", answers:["go indoors","indoors"]},
+     {prompt:"Who should you listen to for instructions to stay safe during a storm?", answers:["trusted adult","an adult"]},
+     {prompt:"Name one way to stay safe during a storm, like going indoors.", answers:["going indoors","staying inside","listening to an adult"]}
+   ]},
+]},
+{day:99, label:"Day 99 — Thu", subjects:[
+  {subject:"Language", title:"Sentence Building: Putting Words in Order", summary:"Students practise sentence building, learning that words must be arranged in a sensible order for a sentence to make sense and be understood by a reader.",
+   resourceLabel:"YouTube: Sentence Building: Putting Words in Order", resourceUrl:"https://www.youtube.com/results?search_query=Sentence%20Building%3A%20Putting%20Words%20in%20Order%20kindergarten%20educational",
+   quiz:[
+     {q:"Why does word order matter in a sentence?", options:["Only the last word matters","Word order never matters","Sentences do not need any order","It helps the sentence make sense to a reader"], answer:3},
+     {q:"Which of these word groups is in the correct order to make sense?", options:["The sleeps cat","Sleeps cat the","The cat sleeps","Cat the sleeps"], answer:2},
+     {q:"Which of these word groups is NOT in a sensible order?", options:["She likes apples","The dog is happy","Runs dog the","The dog runs"], answer:2},
+     {q:"Putting words in a sensible order helps a reader ___.", options:["Understand what the sentence means","Become confused on purpose","Change the meaning randomly","Ignore the sentence"], answer:0},
+     {q:"Which sentence is correctly ordered?", options:["Cream ice like I","Like I cream ice","I like ice cream","Ice I cream like"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Put these words in order to make a sentence: dog, the, runs.", answers:["The dog runs","the dog runs"]},
+     {prompt:"Does word order matter for a sentence to make sense?", answers:["yes"]},
+     {prompt:"Name one word that could start a simple sentence about a cat, like The.", answers:["The","the"]}
+   ]},
+  {subject:"Math", title:"2D Shapes: Triangle and Rectangle", summary:"Students explore two flat shapes, the triangle, with three straight sides, and the rectangle, with four straight sides and four corners, describing their attributes.",
+   resourceLabel:"YouTube: 2D Shapes: Triangle and Rectangle", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%3A%20Triangle%20and%20Rectangle%20kindergarten%20educational",
+   quiz:[
+     {q:"How many straight sides does a triangle have?", options:["3","2","4","5"], answer:0},
+     {q:"How many straight sides does a rectangle have?", options:["2","3","4","5"], answer:2},
+     {q:"How many corners does a rectangle have?", options:["5","4","2","3"], answer:1},
+     {q:"Which of these shapes has exactly three sides?", options:["A square only","A circle","A triangle","A rectangle"], answer:2},
+     {q:"A rectangle is best described as a shape with four sides and ___.", options:["No corners","Three corners","One corner","Four corners"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many straight sides does a triangle have?", answers:["3","three"]},
+     {prompt:"How many straight sides does a rectangle have?", answers:["4","four"]},
+     {prompt:"Does a rectangle have four corners?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Erosion: How Wind and Water Change the Land", summary:"Students learn that erosion happens when wind or water slowly wears away and moves bits of soil or rock, gradually changing the shape of the land over time.",
+   resourceLabel:"YouTube: Erosion: How Wind and Water Change the Land", resourceUrl:"https://www.youtube.com/results?search_query=Erosion%3A%20How%20Wind%20and%20Water%20Change%20the%20Land%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call it when wind or water slowly wears away soil or rock?", options:["Migration","Camouflage","Germination","Erosion"], answer:3},
+     {q:"Which of these can cause erosion?", options:["A quiet room","Flowing water","A sleeping cat","A book"], answer:1},
+     {q:"Does erosion usually happen quickly or slowly?", options:["Slowly, over a long time","Instantly, in one second","It never happens","Only during winter"], answer:0},
+     {q:"What can happen to land over a long time because of erosion?", options:["It turns into water","Its shape can slowly change","It disappears in one second","It always stays exactly the same"], answer:1},
+     {q:"Erosion is caused by natural forces such as wind and ___.", options:["Water","Colour","Light","Sound"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call it when wind or water slowly wears away soil or rock?", answers:["erosion"]},
+     {prompt:"Name one thing that can cause erosion, like wind or water.", answers:["wind","water"]},
+     {prompt:"Does erosion happen quickly in one second, or slowly over time?", answers:["slowly over time"]}
+   ]},
+  {subject:"SocialStudies", title:"Being a Global Citizen: Caring About the Whole World", summary:"Students learn that being a global citizen means caring not only about our own community but also about people, animals, and places all around the whole world.",
+   resourceLabel:"YouTube: Being a Global Citizen: Caring About the Whole World", resourceUrl:"https://www.youtube.com/results?search_query=Being%20a%20Global%20Citizen%3A%20Caring%20About%20the%20Whole%20World%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to be a global citizen?", options:["To only care about your own street","To never help anyone","To ignore other countries","To care about people and places all around the world"], answer:3},
+     {q:"Which of these shows being a good global citizen?", options:["Ignoring people in other countries","Caring for the environment we all share","Littering on purpose","Wasting resources carelessly"], answer:1},
+     {q:"Why might it be important to care about the whole world, not just our own community?", options:["Caring about the world is not important","Our actions can affect people and places everywhere","Only our own street matters","Other places have no connection to us"], answer:1},
+     {q:"Which of these is an example of global citizenship?", options:["Ignoring problems in other countries","Learning about and respecting other cultures","Being unkind to people who are different","Refusing to learn about other places"], answer:1},
+     {q:"Being a global citizen means thinking about how our choices affect ___.", options:["Nothing at all","Only ourselves","Only our closest friends","People and places everywhere"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call someone who cares about people and places all around the world?", answers:["global citizen"]},
+     {prompt:"Name one way to show care for the whole world, like helping the environment.", answers:["helping the environment","being kind to others","recycling"]},
+     {prompt:"Do global citizens care about places beyond just their own community?", answers:["yes"]}
+   ]},
+]},
+{day:100, label:"Day 100 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Word Families, Punctuation, and Comprehension", summary:"Students review recent Language skills: the -ot and -et word families, adding -es, comparing and contrasting, capital letters, cause and effect, story mood, environmental print, and sentence building.",
+   resourceLabel:"YouTube: Language Review: Word Families, Punctuation, and Comprehension", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Families%2C%20Punctuation%2C%20and%20Comprehension%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word rhymes with hot?", options:["Cup","Sun","Pot","Dog"], answer:2},
+     {q:"Add -es to the word wish. What new word do you make?", options:["Wish","Wishes","Wishies","Wishs"], answer:1},
+     {q:"What do we call the reason why something happens in a story?", options:["The cause","The effect","The title","The cover"], answer:0},
+     {q:"What do we call the overall feeling a story gives its reader?", options:["The title","The author","The mood","The cover"], answer:2},
+     {q:"What do we call the words and symbols found on everyday signs and labels?", options:["A story problem","Poetry","Environmental print","Fiction"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Change the h in hot to p. What new word do you make?", answers:["pot"]},
+     {prompt:"Add -es to the word box. What new word do you make?", answers:["boxes"]},
+     {prompt:"What kind of letter should begin every written sentence?", answers:["capital letter"]}
+   ]},
+  {subject:"Math", title:"Math Review: Subitizing, Shapes, and Number Sense", summary:"Students review recent Math skills: subitizing, one-to-one correspondence, position words, 3D shapes, covering space with tiles, ways to make 5, comparing height, money, and 2D shapes.",
+   resourceLabel:"YouTube: Math Review: Subitizing, Shapes, and Number Sense", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Subitizing%2C%20Shapes%2C%20and%20Number%20Sense%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call knowing how many objects are in a group without counting one by one?", options:["Measuring","Erasing","Sorting","Subitizing"], answer:3},
+     {q:"How many flat faces does a cube have?", options:["2","6","8","4"], answer:1},
+     {q:"Which two numbers add together to make 5?", options:["1 and 1","2 and 3","2 and 4","3 and 3"], answer:1},
+     {q:"What is the name of the Canadian coin worth one dollar?", options:["A loonie","A dime","A penny","A toonie"], answer:0},
+     {q:"How many straight sides does a triangle have?", options:["4","5","2","3"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call knowing how many objects are in a small group without counting?", answers:["subitizing"]},
+     {prompt:"What do we call the flat sides of a 3D shape?", answers:["faces"]},
+     {prompt:"Which two numbers add together to make 5, using 2 and another number?", answers:["2 and 3","3"]}
+   ]},
+  {subject:"Science", title:"Science Review: Habitats, Earth, and Staying Healthy", summary:"Students review recent Science topics: the chicken life cycle, pond and mountain habitats, gravity, static electricity, the moon, germs, fossils, and erosion.",
+   resourceLabel:"YouTube: Science Review: Habitats, Earth, and Staying Healthy", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Habitats%2C%20Earth%2C%20and%20Staying%20Healthy%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a baby chick hatch out of?", options:["An egg","A shell of sand","A rock","A flower"], answer:0},
+     {q:"What is a pond?", options:["A small habitat of still water","A dry desert","A huge ocean","A snowy mountain"], answer:0},
+     {q:"What do we call the invisible force that pulls objects down?", options:["Wind","Gravity","Light","Sound"], answer:1},
+     {q:"What can help remove germs from our hands?", options:["Never washing at all","Wiping hands on clothing only","Washing with soap and water","Ignoring dirty hands"], answer:2},
+     {q:"What do we call it when wind or water slowly wears away soil or rock?", options:["Migration","Erosion","Germination","Camouflage"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a baby chick hatch out of?", answers:["egg","an egg"]},
+     {prompt:"What do we call the invisible force that pulls objects down?", answers:["gravity"]},
+     {prompt:"What are germs?", answers:["tiny living things","tiny things that make us sick"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Helpers, Laws, and Our Country", summary:"Students review recent Social Studies topics: farmers, construction workers, Remembrance Day, laws and rules, emergency vehicles, city and country life, Ottawa, weather safety, and global citizenship.",
+   resourceLabel:"YouTube: Social Studies Review: Helpers, Laws, and Our Country", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Laws%2C%20and%20Our%20Country%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a person who grows crops and raises animals for food?", options:["A dentist","A farmer","A librarian","A mayor"], answer:1},
+     {q:"Why do communities create laws?", options:["Laws have no real purpose","To make life more confusing","To help keep everyone safe and treated fairly","To stop people from having fun"], answer:2},
+     {q:"What should drivers do when they hear an emergency vehicle siren?", options:["Speed up to race it","Make way and let it pass safely","Ignore the siren completely","Stop and block the road"], answer:1},
+     {q:"What is the capital city of Canada?", options:["Montreal","Vancouver","Ottawa","Toronto"], answer:2},
+     {q:"What does it mean to be a global citizen?", options:["To care about people and places all around the world","To ignore other countries","To never help anyone","To only care about your own street"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call a person who grows crops and raises animals for food?", answers:["farmer"]},
+     {prompt:"What red flower do people often wear on Remembrance Day?", answers:["poppy","a poppy"]},
+     {prompt:"What is the capital city of Canada?", answers:["Ottawa"]}
+   ]},
+]},
 ];
 
 export default curriculum;

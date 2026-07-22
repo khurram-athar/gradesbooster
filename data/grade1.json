@@ -27474,5 +27474,3292 @@
         ]
       }
     ]
+  },
+  {
+    "day": 91,
+    "label": "Day 91 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vowel Teams: ie and igh (Long I Sound)",
+        "summary": "Students learn that the letters ie and igh can each spell the long i sound, as in pie and tie, and in night and light.",
+        "resourceLabel": "YouTube: Vowel Teams: ie and igh (Long I Sound)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ie%20and%20igh%20%28Long%20I%20Sound%29%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the long i sound spelled ie?",
+            "options": [
+              "Pit",
+              "Pie",
+              "Sit",
+              "Pin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the long i sound spelled igh?",
+            "options": [
+              "Light",
+              "Sit",
+              "Fin",
+              "Pig"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The letters ie in a word like pie usually make what sound?",
+            "options": [
+              "The short i sound",
+              "The long o sound",
+              "The short e sound",
+              "The long i sound"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word has the same igh spelling as night?",
+            "options": [
+              "Big",
+              "Bright",
+              "Bin",
+              "Bit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Knowing that ie and igh can both spell long i helps readers ___.",
+            "options": [
+              "Never try any new sound",
+              "Skip every word with these letters",
+              "Only ever guess the short i sound",
+              "Try the long i sound when they see these spellings"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does the ie in pie make the long i sound or the short i sound?",
+            "answers": [
+              "long i sound",
+              "long i"
+            ]
+          },
+          {
+            "prompt": "Does the igh in night make the long i sound or the short i sound?",
+            "answers": [
+              "long i sound",
+              "long i"
+            ]
+          },
+          {
+            "prompt": "Name one more word with the igh spelling for long i, like night or light.",
+            "answers": [
+              "night",
+              "light",
+              "might",
+              "right",
+              "sight",
+              "bright"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Numbers to 200: Counting Beyond 150",
+        "summary": "Students extend their number sense from 150 to 200, learning to read, write, and count numbers in this range using their understanding of tens and ones.",
+        "resourceLabel": "YouTube: Numbers to 200: Counting Beyond 150",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20to%20200%3A%20Counting%20Beyond%20150%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 159?",
+            "options": [
+              "161",
+              "169",
+              "150",
+              "160"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number comes right after 189?",
+            "options": [
+              "199",
+              "190",
+              "191",
+              "180"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number is greater, 175 or 157?",
+            "options": [
+              "157",
+              "175",
+              "They are equal",
+              "Cannot tell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The number 200 has how many hundreds?",
+            "options": [
+              "2",
+              "1",
+              "200",
+              "20"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Counting to 200 builds on our understanding of ___.",
+            "options": [
+              "Tens and ones",
+              "Only colours",
+              "Only shapes",
+              "Only time"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 169?",
+            "answers": [
+              "170",
+              "one hundred seventy"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 199?",
+            "answers": [
+              "200",
+              "two hundred"
+            ]
+          },
+          {
+            "prompt": "Is 182 greater than or less than 178?",
+            "answers": [
+              "greater than",
+              "greater"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Heart: A Muscle That Pumps Blood",
+        "summary": "Students learn that the heart is a strong muscle inside our chest that pumps blood through our body, delivering the oxygen and nutrients our body needs.",
+        "resourceLabel": "YouTube: Our Heart: A Muscle That Pumps Blood",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Heart%3A%20A%20Muscle%20That%20Pumps%20Blood%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the heart?",
+            "options": [
+              "A type of food",
+              "A bone in our leg",
+              "A part of our ear",
+              "A strong muscle that pumps blood"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where is the heart located?",
+            "options": [
+              "Inside our ear",
+              "Outside our body",
+              "Inside our foot",
+              "Inside our chest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does blood carry to the rest of our body?",
+            "options": [
+              "Oxygen and nutrients",
+              "Only air",
+              "Only water",
+              "Nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the heart an important muscle?",
+            "options": [
+              "It pumps blood that our whole body needs",
+              "It has no real job",
+              "It only helps us see",
+              "It only helps us hear"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The heart is best described as a muscle that ___.",
+            "options": [
+              "Helps us smell",
+              "Helps us think",
+              "Pumps blood through our body",
+              "Helps us taste"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part pumps blood through our body?",
+            "answers": [
+              "heart"
+            ]
+          },
+          {
+            "prompt": "Is the heart a muscle?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Does blood carry oxygen to the rest of our body?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Land Acknowledgements: Respecting Indigenous Territory",
+        "summary": "Students learn that a land acknowledgement is a statement recognizing the Indigenous Peoples who have cared for the land now called Canada since long before settlers arrived.",
+        "resourceLabel": "YouTube: Land Acknowledgements: Respecting Indigenous Territory",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Land%20Acknowledgements%3A%20Respecting%20Indigenous%20Territory%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A type of building",
+              "A statement that recognizes Indigenous Peoples connected to the land",
+              "A kind of food",
+              "A rule about traffic safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do schools and communities share land acknowledgements?",
+            "options": [
+              "To show respect for Indigenous Peoples and their long connection to the land",
+              "To ignore the history of the land",
+              "Land acknowledgements have no meaning at all",
+              "To replace Indigenous history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Have Indigenous Peoples lived on and cared for this land for a short time or a long time?",
+            "options": [
+              "They have never lived here",
+              "A very long time",
+              "One week",
+              "A single year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Listening to a land acknowledgement helps us ___.",
+            "options": [
+              "Ignore the past completely",
+              "Learn nothing new",
+              "Forget about Indigenous Peoples",
+              "Remember and respect Indigenous history"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A land acknowledgement is one way communities show ___.",
+            "options": [
+              "Carelessness",
+              "Disrespect",
+              "Respect",
+              "Confusion"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a statement that recognizes the Indigenous Peoples connected to a land?",
+            "answers": [
+              "land acknowledgement"
+            ]
+          },
+          {
+            "prompt": "Have Indigenous Peoples cared for the land now called Canada for a very long time?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Why might a school say a land acknowledgement at an assembly?",
+            "answers": [
+              "to show respect",
+              "to honour Indigenous Peoples",
+              "respect"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "label": "Day 92 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Contractions: Joining Two Words Into One",
+        "summary": "Students learn that a contraction joins two words together into a shorter word, using an apostrophe in place of missing letters, such as do not becoming dont and I am becoming Im.",
+        "resourceLabel": "YouTube: Contractions: Joining Two Words Into One",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Contractions%3A%20Joining%20Two%20Words%20Into%20One%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a contraction?",
+            "options": [
+              "A word with no vowels",
+              "A shorter word made by joining two words together",
+              "A type of punctuation mark",
+              "A word that means the opposite"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is the contraction for do not?",
+            "options": [
+              "Did",
+              "Dont",
+              "Does",
+              "Doing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is the contraction for I am?",
+            "options": [
+              "Im",
+              "Was",
+              "Are",
+              "Am"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is the contraction for cannot?",
+            "options": [
+              "Cane",
+              "Canned",
+              "Cant",
+              "Cans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A contraction uses an apostrophe to show that ___.",
+            "options": [
+              "Some letters have been left out",
+              "Extra letters have been added",
+              "The word is very long",
+              "The word is a question"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a shorter word made by joining two words together, like dont?",
+            "answers": [
+              "contraction"
+            ]
+          },
+          {
+            "prompt": "Join the words do and not together. What contraction do you make?",
+            "answers": [
+              "dont"
+            ]
+          },
+          {
+            "prompt": "Join the words I and am together. What contraction do you make?",
+            "answers": [
+              "Im"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Doubles Plus One: A Mental Math Strategy",
+        "summary": "Students learn the doubles plus one strategy, using a known doubles fact like 5 plus 5 to quickly solve a nearby fact like 5 plus 6 by adding one more.",
+        "resourceLabel": "YouTube: Doubles Plus One: A Mental Math Strategy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Doubles%20Plus%20One%3A%20A%20Mental%20Math%20Strategy%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 4 plus 4?",
+            "options": [
+              "9",
+              "6",
+              "7",
+              "8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using doubles plus one, what is 4 plus 5?",
+            "options": [
+              "8",
+              "7",
+              "9",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which doubles fact helps solve 7 plus 8?",
+            "options": [
+              "7 plus 6",
+              "8 plus 8",
+              "7 plus 7",
+              "9 plus 9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The doubles plus one strategy works when two numbers are ___.",
+            "options": [
+              "Both equal to zero",
+              "Right next to each other, like 6 and 7",
+              "Both equal to ten",
+              "Very far apart"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using doubles plus one, what is 8 plus 9?",
+            "options": [
+              "15",
+              "17",
+              "16",
+              "18"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 5 plus 5?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "Using doubles plus one, what is 5 plus 6?",
+            "answers": [
+              "11",
+              "eleven"
+            ]
+          },
+          {
+            "prompt": "What double fact helps you solve 6 plus 7?",
+            "answers": [
+              "6 plus 6",
+              "6+6"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Brain: The Bodys Control Centre",
+        "summary": "Students learn that the brain is the control centre of our body, located inside our head, helping us think, learn, move, and feel.",
+        "resourceLabel": "YouTube: Our Brain: The Bodys Control Centre",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Brain%3A%20The%20Bodys%20Control%20Centre%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the brain?",
+            "options": [
+              "The control centre of our body",
+              "A type of muscle only",
+              "A part of our foot",
+              "A bone in our arm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is the brain located?",
+            "options": [
+              "Inside our foot",
+              "Outside our body",
+              "Inside our head",
+              "Inside our chest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these does our brain help us do?",
+            "options": [
+              "Only grow hair",
+              "Think, learn, and move",
+              "Only digest food",
+              "Only breathe"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the brain an important body part?",
+            "options": [
+              "It controls how our whole body works",
+              "It only helps us smell",
+              "It has no real job",
+              "It only helps us taste"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Our brain is best described as the bodys ___.",
+            "options": [
+              "Source of food",
+              "Source of water",
+              "Control centre",
+              "Storage for clothes"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part is the control centre of our body?",
+            "answers": [
+              "brain"
+            ]
+          },
+          {
+            "prompt": "Where is our brain located?",
+            "answers": [
+              "inside our head",
+              "head"
+            ]
+          },
+          {
+            "prompt": "Does our brain help us think and learn?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Levels of Leadership: Mayor, Premier, and Prime Minister",
+        "summary": "Students learn that Canada has different levels of leadership, with a mayor leading a city or town, a premier leading a province, and a prime minister leading the whole country.",
+        "resourceLabel": "YouTube: Levels of Leadership: Mayor, Premier, and Prime Minister",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Levels%20of%20Leadership%3A%20Mayor%2C%20Premier%2C%20and%20Prime%20Minister%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Who is the leader of a city or town?",
+            "options": [
+              "A prime minister",
+              "A mayor",
+              "A principal",
+              "A premier"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who is the leader of a province, like Ontario?",
+            "options": [
+              "A teacher",
+              "A premier",
+              "A prime minister",
+              "A mayor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who is the leader of the whole country of Canada?",
+            "options": [
+              "A premier",
+              "A prime minister",
+              "A librarian",
+              "A mayor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does Canada have different levels of leadership?",
+            "options": [
+              "To help make decisions for cities, provinces, and the whole country",
+              "Only one leader is needed for everything",
+              "Levels of leadership have no purpose",
+              "Leaders never make any decisions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A mayor is most similar to a premier because both ___.",
+            "options": [
+              "Only work at city hall",
+              "Lead and make decisions for the place they represent",
+              "Only work outside Canada",
+              "Have no responsibilities at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who leads a city or town?",
+            "answers": [
+              "mayor"
+            ]
+          },
+          {
+            "prompt": "Who leads a province, like Ontario?",
+            "answers": [
+              "premier"
+            ]
+          },
+          {
+            "prompt": "Who leads the whole country of Canada?",
+            "answers": [
+              "prime minister"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "label": "Day 93 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Root Words: Finding the Base Word Inside",
+        "summary": "Students learn that a root word, or base word, is the simplest form of a word before prefixes or suffixes are added, such as play inside playing or replay.",
+        "resourceLabel": "YouTube: Root Words: Finding the Base Word Inside",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Root%20Words%3A%20Finding%20the%20Base%20Word%20Inside%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a root word?",
+            "options": [
+              "A punctuation mark",
+              "The simplest form of a word before endings are added",
+              "A number word",
+              "A word with no meaning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the root word inside jumping?",
+            "options": [
+              "Ing",
+              "Jump",
+              "Jum",
+              "Jumping"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the root word inside replay?",
+            "options": [
+              "Ply",
+              "Play",
+              "Re",
+              "Replay"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the root word inside careless?",
+            "options": [
+              "Less",
+              "Careless",
+              "Car",
+              "Care"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Finding the root word inside a longer word can help readers ___.",
+            "options": [
+              "Make the word longer",
+              "Never read the word again",
+              "Understand the meaning of the whole word",
+              "Forget the meaning of the word"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the simplest form of a word before endings are added?",
+            "answers": [
+              "root word",
+              "base word"
+            ]
+          },
+          {
+            "prompt": "What is the root word inside the word playing?",
+            "answers": [
+              "play"
+            ]
+          },
+          {
+            "prompt": "What is the root word inside the word jumped?",
+            "answers": [
+              "jump"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Probability Language - Likely, Unlikely, Certain, and Impossible",
+        "summary": "Students learn probability words such as likely, unlikely, certain, and impossible to describe how probable it is that something will happen.",
+        "resourceLabel": "YouTube: Data Management: Probability Language - Likely, Unlikely, Certain, and Impossible",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%20Management%3A%20Probability%20Language%20-%20Likely%2C%20Unlikely%2C%20Certain%2C%20and%20Impossible%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What word describes something that will definitely happen?",
+            "options": [
+              "Unlikely",
+              "Impossible",
+              "Certain",
+              "Maybe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word describes something that can never happen?",
+            "options": [
+              "Probable",
+              "Likely",
+              "Impossible",
+              "Certain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is it likely or unlikely that the sun will rise tomorrow?",
+            "options": [
+              "Impossible",
+              "Unlikely",
+              "Certain never",
+              "Likely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is it likely or unlikely that a cat will fly like a bird?",
+            "options": [
+              "It happens every day",
+              "Likely",
+              "Certain",
+              "Unlikely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Probability words help us describe ___.",
+            "options": [
+              "Only the weather",
+              "How probable it is that something will happen",
+              "Only numbers to 10",
+              "Only the time of day"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes something that will definitely happen?",
+            "answers": [
+              "certain"
+            ]
+          },
+          {
+            "prompt": "What word describes something that will never happen?",
+            "answers": [
+              "impossible"
+            ]
+          },
+          {
+            "prompt": "Is it likely or unlikely that it will snow in July in Ontario?",
+            "answers": [
+              "unlikely"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Icebergs and Glaciers: Frozen Water",
+        "summary": "Students learn that glaciers are huge, slow-moving masses of ice, and that icebergs are large chunks of ice that break off glaciers and float in the ocean.",
+        "resourceLabel": "YouTube: Icebergs and Glaciers: Frozen Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Icebergs%20and%20Glaciers%3A%20Frozen%20Water%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a glacier?",
+            "options": [
+              "A kind of desert",
+              "A type of cloud",
+              "A huge, slow-moving mass of ice",
+              "A warm ocean current"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an iceberg?",
+            "options": [
+              "A type of fish",
+              "A large chunk of ice floating in the ocean",
+              "A kind of mountain made of sand",
+              "A cloud formation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do icebergs come from?",
+            "options": [
+              "They form from sand",
+              "They fall from the sun",
+              "They break off from glaciers",
+              "They grow from seeds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where would you most likely find glaciers and icebergs?",
+            "options": [
+              "Very cold places on Earth",
+              "Inside a volcano",
+              "In a rainforest",
+              "Very hot deserts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Icebergs and glaciers are both made of ___.",
+            "options": [
+              "Liquid water only",
+              "Sand and soil",
+              "Frozen water",
+              "Melted rock"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a huge, slow-moving mass of ice?",
+            "answers": [
+              "glacier"
+            ]
+          },
+          {
+            "prompt": "What do we call a large chunk of ice floating in the ocean?",
+            "answers": [
+              "iceberg"
+            ]
+          },
+          {
+            "prompt": "Do icebergs break off from glaciers?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Voting: How Communities Make Decisions Together",
+        "summary": "Students learn that voting is a way for people in a community to share their opinion and help choose leaders or make decisions together.",
+        "resourceLabel": "YouTube: Voting: How Communities Make Decisions Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Voting%3A%20How%20Communities%20Make%20Decisions%20Together%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is voting?",
+            "options": [
+              "A rule about traffic safety",
+              "A way for people to share their choice and help make a decision",
+              "A way to ignore other peoples opinions",
+              "A type of food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a community use voting to help choose?",
+            "options": [
+              "Their leaders",
+              "The weather",
+              "The season",
+              "The time of day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is voting a fair way to make decisions?",
+            "options": [
+              "It lets everyone share their opinion and be heard",
+              "Only one person ever gets to decide",
+              "Voting has no real purpose",
+              "Voting ignores what most people want"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a class voting together?",
+            "options": [
+              "Ignoring everyones opinion",
+              "Choosing a class pet by counting votes",
+              "One student deciding alone for everyone",
+              "Flipping a coin without asking anyone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Voting helps a community make decisions ___.",
+            "options": [
+              "Without anyone participating",
+              "Randomly, with no input",
+              "Together, in a fair way",
+              "In a way that ignores most people"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call sharing your choice to help make a decision, like choosing a leader?",
+            "answers": [
+              "voting",
+              "vote"
+            ]
+          },
+          {
+            "prompt": "Can voting help a community choose its leaders?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one thing a class might vote on, like a class pet or a game.",
+            "answers": [
+              "class pet",
+              "a game",
+              "a book"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "label": "Day 94 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Alliteration: Repeating Beginning Sounds",
+        "summary": "Students learn that alliteration is when several words close together start with the same sound, such as in silly snakes slither, which authors use to make writing fun to read.",
+        "resourceLabel": "YouTube: Alliteration: Repeating Beginning Sounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Alliteration%3A%20Repeating%20Beginning%20Sounds%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "A word with no vowels",
+              "A type of punctuation mark",
+              "When words close together start with the same sound",
+              "A word that means the opposite of another word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which phrase is an example of alliteration?",
+            "options": [
+              "Big blue balloons",
+              "It is a sunny day",
+              "The dog ran fast",
+              "She likes apples"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the phrase five funny frogs, what sound repeats?",
+            "options": [
+              "The f sound",
+              "The t sound",
+              "The b sound",
+              "The s sound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use alliteration in a poem?",
+            "options": [
+              "Alliteration makes writing boring",
+              "It has no effect on how writing sounds",
+              "Alliteration is never used in poems",
+              "To make the writing fun and interesting to read"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words could join silly snake to make alliteration?",
+            "options": [
+              "Jump",
+              "Slither",
+              "Run",
+              "Hop"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call it when several words close together start with the same sound?",
+            "answers": [
+              "alliteration"
+            ]
+          },
+          {
+            "prompt": "In the phrase silly snakes slither, what sound repeats at the beginning of each word?",
+            "answers": [
+              "s sound",
+              "s"
+            ]
+          },
+          {
+            "prompt": "Make up your own short alliteration phrase using words that start with the same sound.",
+            "answers": [
+              "big brown bear",
+              "happy hopping hare",
+              "tall tiger tiptoes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Growing Patterns: Patterns That Get Bigger",
+        "summary": "Students learn to recognize and extend growing patterns, where each step adds more objects or a larger number than the step before, such as 2, 4, 6, 8.",
+        "resourceLabel": "YouTube: Growing Patterns: Patterns That Get Bigger",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Growing%20Patterns%3A%20Patterns%20That%20Get%20Bigger%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a growing pattern?",
+            "options": [
+              "A pattern where each step gets bigger",
+              "A pattern that only uses colours",
+              "A pattern that always stays the same",
+              "A pattern with no numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the growing pattern 1, 2, 3, 4, what comes next?",
+            "options": [
+              "5",
+              "3",
+              "1",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the growing pattern 5, 10, 15, 20, what comes next?",
+            "options": [
+              "30",
+              "21",
+              "24",
+              "25"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a growing pattern?",
+            "options": [
+              "5, 5, 5, 5",
+              "3, 6, 9, 12",
+              "2, 2, 2, 2",
+              "Red, blue, red, blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A growing pattern is different from a repeating pattern because a growing pattern ___.",
+            "options": [
+              "Always repeats the exact same steps",
+              "Never changes at all",
+              "Changes and gets bigger each step",
+              "Only uses shapes"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the growing pattern 2, 4, 6, 8, what number comes next?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "In a growing pattern, does each step usually get bigger or stay the same?",
+            "answers": [
+              "bigger"
+            ]
+          },
+          {
+            "prompt": "Make your own growing pattern starting at 1 and adding 2 each time.",
+            "answers": [
+              "1, 3, 5, 7",
+              "1,3,5,7"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Adaptation: How Animals Survive in Their Habitat",
+        "summary": "Students learn that an adaptation is a special feature or behaviour that helps an animal survive in its habitat, such as thick fur for warmth or sharp claws for digging.",
+        "resourceLabel": "YouTube: Adaptation: How Animals Survive in Their Habitat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adaptation%3A%20How%20Animals%20Survive%20in%20Their%20Habitat%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an adaptation?",
+            "options": [
+              "A place where animals shop",
+              "A type of food animals eat only once",
+              "A special feature or behaviour that helps an animal survive",
+              "A rule animals must follow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an adaptation?",
+            "options": [
+              "A cloud in the sky",
+              "Thick fur that keeps a polar bear warm",
+              "A toy in a store",
+              "A rock sitting still"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a desert animal have large ears?",
+            "options": [
+              "Large ears make animals heavier",
+              "Large ears only help animals hear music",
+              "Large ears can help release heat and keep the animal cool",
+              "Large ears have no purpose at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An adaptation helps an animal do what in its habitat?",
+            "options": [
+              "Disappear completely",
+              "Become a plant",
+              "Survive",
+              "Stop needing food"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sharp claws that help an animal dig are an example of a ___.",
+            "options": [
+              "Rock formation",
+              "Adaptation",
+              "Weather pattern",
+              "Season"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a special feature that helps an animal survive?",
+            "answers": [
+              "adaptation"
+            ]
+          },
+          {
+            "prompt": "Name one adaptation that helps an animal stay warm, like thick fur.",
+            "answers": [
+              "thick fur",
+              "fur"
+            ]
+          },
+          {
+            "prompt": "Do adaptations help animals survive in their habitat?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Classroom Jobs: Helping Our Classroom Run Smoothly",
+        "summary": "Students learn that classroom jobs, such as line leader or paper passer, give students a responsibility that helps their classroom community run smoothly each day.",
+        "resourceLabel": "YouTube: Classroom Jobs: Helping Our Classroom Run Smoothly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Classroom%20Jobs%3A%20Helping%20Our%20Classroom%20Run%20Smoothly%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a classroom job?",
+            "options": [
+              "A job only adults can do",
+              "A job that pays money",
+              "A rule about traffic safety",
+              "A responsibility that helps the classroom run smoothly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a classroom job?",
+            "options": [
+              "Firefighter",
+              "Doctor",
+              "Mayor",
+              "Line leader"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do teachers give students classroom jobs?",
+            "options": [
+              "To help everyone share responsibility for the classroom",
+              "Classroom jobs have no purpose",
+              "Only the teacher should ever help",
+              "Jobs make the classroom messier"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is a classroom job similar to a job in the wider community?",
+            "options": [
+              "Community jobs are never real responsibilities",
+              "Classroom jobs pay a salary just like community jobs",
+              "They have no similarities at all",
+              "Both involve a responsibility that helps others"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Taking turns with classroom jobs teaches students about ___.",
+            "options": [
+              "Responsibility and teamwork",
+              "Working alone always",
+              "Avoiding chores",
+              "Ignoring others"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a job in the classroom, like line leader?",
+            "answers": [
+              "classroom job"
+            ]
+          },
+          {
+            "prompt": "Name one classroom job, like line leader or paper passer.",
+            "answers": [
+              "line leader",
+              "paper passer",
+              "helper"
+            ]
+          },
+          {
+            "prompt": "Do classroom jobs help the classroom run smoothly?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "label": "Day 95 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Text Features: Captions and Diagrams",
+        "summary": "Students learn that non-fiction books often use captions, short sentences under a picture, and diagrams, labeled drawings, to give readers extra information about a topic.",
+        "resourceLabel": "YouTube: Text Features: Captions and Diagrams",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Captions%20and%20Diagrams%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a caption?",
+            "options": [
+              "A kind of punctuation mark",
+              "A title at the top of a book",
+              "A short sentence written under a picture",
+              "A number on a page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a diagram?",
+            "options": [
+              "A made-up story",
+              "A type of chapter title",
+              "A labeled drawing that explains something",
+              "A book cover"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a non-fiction book include a diagram of a plant?",
+            "options": [
+              "To show and label the parts of a plant clearly",
+              "Diagrams are only used in fiction books",
+              "To confuse the reader on purpose",
+              "Diagrams never help explain a topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a text feature that gives extra information about a picture?",
+            "options": [
+              "A made-up character",
+              "A caption",
+              "A talking dragon",
+              "A fairy godmother"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Captions and diagrams help readers ___.",
+            "options": [
+              "Avoid reading the book entirely",
+              "Get more confused about a topic",
+              "Understand a topic more clearly",
+              "Skip all of the pictures"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a short sentence written under a picture?",
+            "answers": [
+              "caption"
+            ]
+          },
+          {
+            "prompt": "What do we call a labeled drawing that explains something?",
+            "answers": [
+              "diagram"
+            ]
+          },
+          {
+            "prompt": "Can captions and diagrams give readers extra information about a topic?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "3D Shapes: Faces, Edges, and Vertices",
+        "summary": "Students build on earlier learning about 3D shapes by identifying and counting their faces, edges, and vertices, such as a cube having 6 faces, 12 edges, and 8 vertices.",
+        "resourceLabel": "YouTube: 3D Shapes: Faces, Edges, and Vertices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Faces%2C%20Edges%2C%20and%20Vertices%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call the flat surfaces of a 3D shape?",
+            "options": [
+              "Faces",
+              "Corners only",
+              "Vertices",
+              "Edges"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the line where two faces of a 3D shape meet?",
+            "options": [
+              "A curve",
+              "An edge",
+              "A face",
+              "A vertex"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many faces does a cube have?",
+            "options": [
+              "6",
+              "12",
+              "4",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many vertices does a cube have?",
+            "options": [
+              "12",
+              "4",
+              "6",
+              "8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting faces, edges, and vertices helps us describe a 3D shapes ___.",
+            "options": [
+              "Smell",
+              "Weight",
+              "Attributes",
+              "Colour only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the flat surfaces on a 3D shape?",
+            "answers": [
+              "faces"
+            ]
+          },
+          {
+            "prompt": "What do we call the corners on a 3D shape?",
+            "answers": [
+              "vertices",
+              "corners"
+            ]
+          },
+          {
+            "prompt": "How many faces does a cube have?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Dinosaurs: Animals from Long Ago",
+        "summary": "Students learn that dinosaurs were animals that lived on Earth a very long time ago, and that scientists learn about them by studying fossils found in rock.",
+        "resourceLabel": "YouTube: Dinosaurs: Animals from Long Ago",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Dinosaurs%3A%20Animals%20from%20Long%20Ago%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What were dinosaurs?",
+            "options": [
+              "A type of plant",
+              "A kind of cloud",
+              "Animals that lived on Earth a very long time ago",
+              "Animals that live in cities today"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do scientists learn about dinosaurs?",
+            "options": [
+              "By watching dinosaurs on farms",
+              "By asking dinosaurs directly",
+              "Dinosaurs are impossible to study",
+              "By studying fossils found in rock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are dinosaurs alive on Earth today?",
+            "options": [
+              "Yes, they live in oceans",
+              "Yes, they live in cities",
+              "No, they lived long ago",
+              "Yes, they live in deserts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a fossil?",
+            "options": [
+              "A living dinosaur",
+              "A kind of cloud",
+              "A trace or remains of a living thing from long ago, preserved in rock",
+              "A type of modern toy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning about dinosaurs helps scientists understand ___.",
+            "options": [
+              "How to cook food",
+              "What life on Earth was like long ago",
+              "What the weather will be tomorrow",
+              "How to build houses"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes animals that lived on Earth a very long time ago, like dinosaurs?",
+            "answers": [
+              "dinosaurs"
+            ]
+          },
+          {
+            "prompt": "What do scientists study to learn about dinosaurs?",
+            "answers": [
+              "fossils"
+            ]
+          },
+          {
+            "prompt": "Are dinosaurs alive on Earth today?",
+            "answers": [
+              "no"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Public Signs and Symbols: Understanding Signs Around Us",
+        "summary": "Students learn that public signs and symbols, such as a stop sign or a washroom symbol, use shapes, colours, and pictures to share important information quickly.",
+        "resourceLabel": "YouTube: Public Signs and Symbols: Understanding Signs Around Us",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Public%20Signs%20and%20Symbols%3A%20Understanding%20Signs%20Around%20Us%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a public sign?",
+            "options": [
+              "A type of story",
+              "A kind of song",
+              "A sign that shares important information using shapes, colours, or pictures",
+              "A private note between friends"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What shape is a stop sign?",
+            "options": [
+              "A square",
+              "A circle",
+              "A triangle",
+              "An octagon, with eight sides"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What colour is a stop sign?",
+            "options": [
+              "Green",
+              "Blue",
+              "Yellow",
+              "Red"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do many signs use pictures instead of only words?",
+            "options": [
+              "So people who speak different languages can understand them quickly",
+              "Pictures make signs harder to understand",
+              "Words are always better than pictures",
+              "Signs never need to be understood quickly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Public signs and symbols help keep communities ___.",
+            "options": [
+              "Unsafe",
+              "Safe and informed",
+              "Uninformed",
+              "Confused"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What shape is a stop sign?",
+            "answers": [
+              "octagon",
+              "eight-sided shape"
+            ]
+          },
+          {
+            "prompt": "What colour is a stop sign?",
+            "answers": [
+              "red"
+            ]
+          },
+          {
+            "prompt": "Why do public signs often use pictures instead of only words?",
+            "answers": [
+              "so everyone can understand quickly",
+              "pictures are easy to understand"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "label": "Day 96 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Persuasive Writing: Convincing Someone With Words",
+        "summary": "Students learn that persuasive writing tries to convince a reader to agree with an idea or take an action, using reasons that support the writers opinion.",
+        "resourceLabel": "YouTube: Persuasive Writing: Convincing Someone With Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Persuasive%20Writing%3A%20Convincing%20Someone%20With%20Words%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is persuasive writing?",
+            "options": [
+              "Writing that only tells a made-up story",
+              "Writing that only lists facts with no reasons",
+              "Writing that tries to convince a reader to agree with an idea",
+              "Writing with no opinions at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is an example of persuasive writing?",
+            "options": [
+              "Water is wet",
+              "Our class should get a pet because it teaches responsibility",
+              "A dog has four legs",
+              "The sky is blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do writers include reasons in persuasive writing?",
+            "options": [
+              "To support their opinion and convince the reader",
+              "Reasons are never needed in persuasive writing",
+              "Persuasive writing never has an opinion",
+              "Reasons make an argument weaker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might you find in a persuasive letter asking for a class trip to the zoo?",
+            "options": [
+              "A list of random numbers",
+              "A made-up fairy tale",
+              "Reasons why the trip would be fun and educational",
+              "A drawing with no words"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Persuasive writing is meant to ___.",
+            "options": [
+              "Share facts with no opinions at all",
+              "Convince the reader to agree with an idea",
+              "Confuse the reader completely",
+              "Only entertain with silly jokes"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of writing tries to convince a reader to agree with an idea?",
+            "answers": [
+              "persuasive writing",
+              "persuasive"
+            ]
+          },
+          {
+            "prompt": "Name one reason you might give to persuade someone to get a class pet.",
+            "answers": [
+              "it teaches responsibility",
+              "pets are fun",
+              "it teaches caring"
+            ]
+          },
+          {
+            "prompt": "Should persuasive writing include reasons that support the writers opinion?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Sharing a Group of Objects Equally",
+        "summary": "Students learn to find halves and quarters of a group of objects, such as sharing 8 counters equally between 2 people so that each person gets an equal share.",
+        "resourceLabel": "YouTube: Fractions: Sharing a Group of Objects Equally",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Sharing%20a%20Group%20of%20Objects%20Equally%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If you share 6 counters equally between 2 people, how many does each person get?",
+            "options": [
+              "3",
+              "6",
+              "2",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you share 10 counters equally between 2 people, how many does each person get?",
+            "options": [
+              "6",
+              "10",
+              "4",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you share 8 counters equally among 4 people, how many does each person get?",
+            "options": [
+              "2",
+              "8",
+              "4",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When sharing a group of objects to find half, each share must be ___.",
+            "options": [
+              "Different sizes",
+              "Ignored",
+              "Equal",
+              "As big as possible for one person"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sharing 12 apples equally between 2 friends is the same as finding ___ of 12.",
+            "options": [
+              "A quarter",
+              "Double",
+              "Half",
+              "A third"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you share 8 counters equally between 2 people, how many does each person get?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "If you share 12 counters equally between 2 people, how many does each person get?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "Why must each share be equal when finding half of a group?",
+            "answers": [
+              "so it is fair",
+              "so each person gets the same amount"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Static Electricity: Why Balloons Stick to Walls",
+        "summary": "Students learn that rubbing certain objects together, like a balloon on hair, can create static electricity, a tiny electric charge that can make objects stick together or attract.",
+        "resourceLabel": "YouTube: Static Electricity: Why Balloons Stick to Walls",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Static%20Electricity%3A%20Why%20Balloons%20Stick%20to%20Walls%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is static electricity?",
+            "options": [
+              "A sound animals make",
+              "A type of weather",
+              "A tiny electric charge made by rubbing certain objects together",
+              "A kind of plant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen if you rub a balloon on your hair and hold it near a wall?",
+            "options": [
+              "The balloon will disappear",
+              "Nothing can ever happen",
+              "The wall will change colour",
+              "The balloon might stick to the wall"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Static electricity is created by ___.",
+            "options": [
+              "Rubbing certain objects together",
+              "Boiling water",
+              "Planting seeds",
+              "Freezing water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might you notice because of static electricity?",
+            "options": [
+              "Water freezing into ice",
+              "A rock changing colour",
+              "A plant growing taller",
+              "Your hair standing up after rubbing a balloon on it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Static electricity is an example of a topic scientists study called ___.",
+            "options": [
+              "Plant growth",
+              "Energy",
+              "Animal habitats",
+              "Weather"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the tiny electric charge made when you rub a balloon on your hair?",
+            "answers": [
+              "static electricity"
+            ]
+          },
+          {
+            "prompt": "Can static electricity make a balloon stick to a wall?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What did you rub the balloon on to create static electricity, like hair?",
+            "answers": [
+              "hair"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Thanksgiving in Canada: A Time to Give Thanks",
+        "summary": "Students learn that Thanksgiving is a Canadian holiday in October when families gather to give thanks for the harvest and for the good things in their lives.",
+        "resourceLabel": "YouTube: Thanksgiving in Canada: A Time to Give Thanks",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Thanksgiving%20in%20Canada%3A%20A%20Time%20to%20Give%20Thanks%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is Thanksgiving?",
+            "options": [
+              "A type of school subject",
+              "A holiday only celebrated in the summer",
+              "A rule about traffic safety",
+              "A Canadian holiday when people give thanks for the harvest and good things in life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what month is Thanksgiving celebrated in Canada?",
+            "options": [
+              "February",
+              "December",
+              "July",
+              "October"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do many families do together on Thanksgiving?",
+            "options": [
+              "Gather and share a meal together",
+              "Stay apart from each other",
+              "Ignore each other completely",
+              "Go to school"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might people give thanks on Thanksgiving?",
+            "options": [
+              "People never give thanks on this holiday",
+              "Giving thanks has no meaning at all",
+              "Thanksgiving has nothing to do with gratitude",
+              "To appreciate the good things in their lives, like family and food"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Thanksgiving is an example of a Canadian ___.",
+            "options": [
+              "Kind of building",
+              "Rule about safety",
+              "Holiday and tradition",
+              "Type of currency"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What Canadian holiday in October is a time to give thanks?",
+            "answers": [
+              "Thanksgiving"
+            ]
+          },
+          {
+            "prompt": "Do families often gather together on Thanksgiving?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one thing you might feel thankful for.",
+            "answers": [
+              "family",
+              "food",
+              "friends",
+              "home"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "label": "Day 97 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Endings: Writing a New Ending for a Tale",
+        "summary": "Students practise writing a new ending for a familiar story, using their imagination to change what happens after the storys problem while keeping the characters and setting the same.",
+        "resourceLabel": "YouTube: Story Endings: Writing a New Ending for a Tale",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Endings%3A%20Writing%20a%20New%20Ending%20for%20a%20Tale%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to write a new ending for a story?",
+            "options": [
+              "To remove the characters completely",
+              "To copy the original ending exactly",
+              "To change the beginning of the story only",
+              "To imagine and write a different way the story could finish"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When writing a new ending, what usually stays the same?",
+            "options": [
+              "The characters and setting",
+              "The title of a different book",
+              "The entire plot from the beginning",
+              "Nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of writing a new ending?",
+            "options": [
+              "Drawing the book cover",
+              "Imagining the lost puppy finds a new friend instead of going home",
+              "Reading the story silently",
+              "Copying the story word for word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is writing a new ending a useful creative writing skill?",
+            "options": [
+              "New endings are never useful to practise",
+              "Writers should never imagine different outcomes",
+              "It lets writers use their imagination and understand story structure",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Writing a new story ending is an example of ___ writing.",
+            "options": [
+              "Instructional",
+              "Persuasive only",
+              "Factual only",
+              "Creative"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What part of a story can you change when you write a new ending?",
+            "answers": [
+              "what happens after the problem",
+              "the ending"
+            ]
+          },
+          {
+            "prompt": "Should the characters usually stay the same when you write a new ending?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Write one new ending idea for a story about a lost puppy finding its way home.",
+            "answers": [
+              "the puppy finds a new friend",
+              "the puppy is rescued by a kind stranger",
+              "the puppy finds its way home a different way"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Trading Coins for Equal Value",
+        "summary": "Students learn that coins of different values can be traded for an equal amount, such as trading 5 pennies for 1 nickel or 2 nickels for 1 dime.",
+        "resourceLabel": "YouTube: Money: Trading Coins for Equal Value",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Trading%20Coins%20for%20Equal%20Value%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many pennies equal the value of 1 nickel?",
+            "options": [
+              "1",
+              "2",
+              "10",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many nickels equal the value of 1 dime?",
+            "options": [
+              "5",
+              "10",
+              "2",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many pennies equal the value of 1 dime?",
+            "options": [
+              "2",
+              "10",
+              "5",
+              "1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Trading coins for equal value means the coins ___.",
+            "options": [
+              "Are worth the same amount even though they look different",
+              "Always look exactly the same",
+              "Cannot ever be exchanged",
+              "Have no value at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to know that coins can be traded for equal value?",
+            "options": [
+              "This concept has no connection to money",
+              "Trading coins never helps with money skills",
+              "It helps us understand different ways to make the same amount of money",
+              "Coins can never equal the same value"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many pennies can be traded for 1 nickel?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "How many nickels can be traded for 1 dime?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          },
+          {
+            "prompt": "If you trade 10 pennies, how many dimes worth of value do you have?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Muscles: Helping Us Move and Stay Strong",
+        "summary": "Students learn that muscles are body parts that stretch and squeeze to help us move, working together with our bones to let us run, jump, and lift things.",
+        "resourceLabel": "YouTube: Our Muscles: Helping Us Move and Stay Strong",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Muscles%3A%20Helping%20Us%20Move%20and%20Stay%20Strong%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are muscles?",
+            "options": [
+              "Bones that support our body",
+              "A type of food",
+              "Body parts that stretch and squeeze to help us move",
+              "Parts of our brain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do muscles work together with to help us move?",
+            "options": [
+              "Our bones",
+              "Our hair",
+              "Our nails",
+              "Our teeth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these activities uses your muscles?",
+            "options": [
+              "Sleeping only",
+              "Thinking quietly",
+              "Sitting completely still",
+              "Running and jumping"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to exercise our muscles?",
+            "options": [
+              "Muscles never need exercise",
+              "Exercise weakens our muscles",
+              "It helps keep our muscles strong and healthy",
+              "This concept has no connection to health"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Our muscles are best described as body parts that help us ___.",
+            "options": [
+              "See colours",
+              "Taste food",
+              "Hear sounds",
+              "Move and stay strong"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body parts stretch and squeeze to help us move?",
+            "answers": [
+              "muscles"
+            ]
+          },
+          {
+            "prompt": "Do muscles work together with our bones to help us move?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one activity that uses your muscles, like running or jumping.",
+            "answers": [
+              "running",
+              "jumping",
+              "lifting"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Remembrance Day: Honouring Those Who Served",
+        "summary": "Students learn that Remembrance Day, on November 11, is a day when Canadians wear a poppy and take a moment of silence to honour those who served in the military.",
+        "resourceLabel": "YouTube: Remembrance Day: Honouring Those Who Served",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Remembrance%20Day%3A%20Honouring%20Those%20Who%20Served%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is Remembrance Day?",
+            "options": [
+              "A type of school subject",
+              "A day to honour those who served in the military",
+              "A day to celebrate a birthday",
+              "A rule about traffic safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On what date is Remembrance Day observed?",
+            "options": [
+              "October 12",
+              "July 1",
+              "December 25",
+              "November 11"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What flower do people often wear on Remembrance Day?",
+            "options": [
+              "A sunflower",
+              "A rose",
+              "A poppy",
+              "A tulip"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do many Canadians do at 11 oclock on Remembrance Day?",
+            "options": [
+              "Have a large parade with loud music",
+              "Take a moment of silence",
+              "Go to school as usual with no changes",
+              "Ignore the day completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Remembrance Day helps Canadians ___.",
+            "options": [
+              "Celebrate a harvest",
+              "Ignore Canadian history",
+              "Honour and remember those who served",
+              "Forget about the past"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On what date is Remembrance Day observed in Canada?",
+            "answers": [
+              "November 11",
+              "Nov 11"
+            ]
+          },
+          {
+            "prompt": "What flower do people often wear to honour Remembrance Day?",
+            "answers": [
+              "poppy"
+            ]
+          },
+          {
+            "prompt": "Do Canadians take a moment of silence on Remembrance Day?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "label": "Day 98 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Nonsense Words: Practising Phonics Skills",
+        "summary": "Students practise decoding nonsense words, made-up words that follow real spelling patterns, such as zin or plob, to strengthen their phonics skills without relying on word memory.",
+        "resourceLabel": "YouTube: Nonsense Words: Practising Phonics Skills",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nonsense%20Words%3A%20Practising%20Phonics%20Skills%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a nonsense word?",
+            "options": [
+              "A real word with a meaning",
+              "A made-up word that follows real spelling patterns",
+              "A type of sentence",
+              "A punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do readers practise sounding out nonsense words?",
+            "options": [
+              "This concept has no connection to reading",
+              "Nonsense words are never useful to practise",
+              "Nonsense words have real meanings to memorize",
+              "To strengthen phonics skills without relying on memory"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a nonsense word?",
+            "options": [
+              "Zop",
+              "Sun",
+              "Cat",
+              "Dog"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When sounding out the nonsense word plim, which sound comes first?",
+            "options": [
+              "The pl sound",
+              "The i sound",
+              "The m sound",
+              "The silent e sound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Practising nonsense words helps readers focus on ___.",
+            "options": [
+              "Ignoring letter sounds completely",
+              "Sounding out letters and patterns, not memorized meaning",
+              "Only memorizing whole words",
+              "Skipping every unfamiliar word"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a made-up word that follows real spelling patterns, like zin?",
+            "answers": [
+              "nonsense word"
+            ]
+          },
+          {
+            "prompt": "Can sounding out a nonsense word help you practise phonics skills?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Make up your own nonsense word using the -at family pattern.",
+            "answers": [
+              "zat",
+              "plat",
+              "frat"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measuring Mass: Heavier, Lighter, and Balancing",
+        "summary": "Students use a balance scale to compare the mass of two objects, learning that the side that tips down holds the object with greater mass, or is heavier.",
+        "resourceLabel": "YouTube: Measuring Mass: Heavier, Lighter, and Balancing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Mass%3A%20Heavier%2C%20Lighter%2C%20and%20Balancing%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What tool can be used to compare the mass of two objects?",
+            "options": [
+              "A ruler",
+              "A thermometer",
+              "A clock",
+              "A balance scale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a balance scale, what happens to the side with the heavier object?",
+            "options": [
+              "It stays perfectly still",
+              "It tips up",
+              "It disappears",
+              "It tips down"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a balance scale is level with an object on each side, what does that tell us?",
+            "options": [
+              "The scale is broken",
+              "One object is much heavier",
+              "One object is much lighter",
+              "Both objects have the same mass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words describes an object with more mass than another?",
+            "options": [
+              "Longer",
+              "Shorter",
+              "Lighter",
+              "Heavier"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using a balance scale helps us compare ___.",
+            "options": [
+              "Time",
+              "Mass",
+              "Sound",
+              "Colour"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool can help you compare the mass of two objects?",
+            "answers": [
+              "balance scale",
+              "scale"
+            ]
+          },
+          {
+            "prompt": "On a balance scale, does the heavier object tip down or up?",
+            "answers": [
+              "down"
+            ]
+          },
+          {
+            "prompt": "If two objects balance evenly, are they the same mass or different mass?",
+            "answers": [
+              "same mass",
+              "the same"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Water Conservation: Saving Our Water",
+        "summary": "Students learn simple ways to conserve water, such as turning off the tap while brushing teeth, to help protect this important resource for people, plants, and animals.",
+        "resourceLabel": "YouTube: Water Conservation: Saving Our Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Water%20Conservation%3A%20Saving%20Our%20Water%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is water conservation?",
+            "options": [
+              "A kind of weather",
+              "A type of ocean animal",
+              "Using water carefully and saving it for the future",
+              "Wasting as much water as possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a way to save water?",
+            "options": [
+              "Turning off the tap while brushing your teeth",
+              "Filling a pool every single day",
+              "Leaving the tap running all day",
+              "Watering a garden during a rainstorm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to save water?",
+            "options": [
+              "Saving water has no benefit",
+              "Water is not important at all",
+              "We will never run out of water anywhere",
+              "Water is an important resource that people, plants, and animals need"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these living things need water to survive?",
+            "options": [
+              "Nothing needs water",
+              "Only plants",
+              "Only people",
+              "People, plants, and animals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Turning off the tap while brushing your teeth is an example of ___.",
+            "options": [
+              "Water conservation",
+              "Wasting water",
+              "Ignoring the environment",
+              "Water pollution"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes using less water and protecting it, like turning off a tap?",
+            "answers": [
+              "water conservation",
+              "conservation"
+            ]
+          },
+          {
+            "prompt": "Name one way to save water, like turning off the tap while brushing teeth.",
+            "answers": [
+              "turning off the tap",
+              "turn off the tap"
+            ]
+          },
+          {
+            "prompt": "Do people, plants, and animals all need water?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Money From Around the World: Comparing Currencies",
+        "summary": "Students learn that different countries use different money, called currency, such as the Canadian dollar in Canada and the US dollar in the United States.",
+        "resourceLabel": "YouTube: Money From Around the World: Comparing Currencies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%20From%20Around%20the%20World%3A%20Comparing%20Currencies%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is currency?",
+            "options": [
+              "The money used in a country",
+              "A type of food",
+              "A rule about traffic safety",
+              "A kind of building"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name of the currency used in Canada?",
+            "options": [
+              "The yen",
+              "The Canadian dollar",
+              "The euro",
+              "The peso"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do all countries use the exact same currency?",
+            "options": [
+              "Money is the same everywhere",
+              "Yes, every country uses the same money",
+              "No, different countries often use different currencies",
+              "Only Canada has currency"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a traveller need to exchange their money when visiting another country?",
+            "options": [
+              "Currency has no connection to travel",
+              "Because different countries use different currencies",
+              "All countries accept only Canadian dollars",
+              "Money never needs to be exchanged"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Comparing currencies from different countries helps us understand that the world has ___.",
+            "options": [
+              "Many different countries with their own money",
+              "No difference between countries at all",
+              "Only one type of money everywhere",
+              "No connection between countries"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes the money used in a country?",
+            "answers": [
+              "currency"
+            ]
+          },
+          {
+            "prompt": "What is the name of the currency used in Canada?",
+            "answers": [
+              "Canadian dollar",
+              "dollar"
+            ]
+          },
+          {
+            "prompt": "Do different countries often use different currencies?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "label": "Day 99 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Point of View: Whose Story Is It?",
+        "summary": "Students learn that point of view describes who is telling a story, and that a story can be told from a characters point of view using words like I and me.",
+        "resourceLabel": "YouTube: Point of View: Whose Story Is It?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Point%20of%20View%3A%20Whose%20Story%20Is%20It%3F%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is point of view?",
+            "options": [
+              "The title of a book",
+              "The number of pages in a book",
+              "The setting of a story",
+              "Who is telling a story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a story uses the words I and me, it is likely told from ___.",
+            "options": [
+              "The readers point of view only",
+              "No point of view at all",
+              "A characters point of view",
+              "A random strangers point of view"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might two characters in the same story see events differently?",
+            "options": [
+              "Characters never have their own feelings",
+              "Point of view never changes how a story feels",
+              "All characters always think exactly the same way",
+              "Each character has their own point of view and feelings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Thinking about point of view helps readers understand ___.",
+            "options": [
+              "How a character feels about the story events",
+              "Nothing about the story",
+              "Only the page numbers",
+              "Only the cover of the book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might change depending on a storys point of view?",
+            "options": [
+              "The number of chapters",
+              "The title of the book only",
+              "How events in the story are described",
+              "The colour of the cover"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What word describes who is telling a story?",
+            "answers": [
+              "point of view"
+            ]
+          },
+          {
+            "prompt": "If a story uses the words I and me, whose point of view is it likely told from?",
+            "answers": [
+              "a characters",
+              "the characters"
+            ]
+          },
+          {
+            "prompt": "Can two characters in the same story have different points of view?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Addition and Subtraction: Choosing the Best Strategy",
+        "summary": "Students review addition and subtraction strategies, such as counting on, making ten, doubles, and counting back, and practise choosing the strategy that works best for a given problem.",
+        "resourceLabel": "YouTube: Addition and Subtraction: Choosing the Best Strategy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%3A%20Choosing%20the%20Best%20Strategy%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which strategy works well for solving 8 plus 8?",
+            "options": [
+              "Counting back",
+              "None of these",
+              "Skip counting by 10s",
+              "Doubles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which strategy works well for solving 9 plus 4?",
+            "options": [
+              "Doubling only",
+              "Counting by 5s",
+              "Measuring",
+              "Making ten"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which strategy works well for solving 10 minus 3?",
+            "options": [
+              "Doubles",
+              "Making ten",
+              "Skip counting by 10s",
+              "Counting back"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it helpful to know more than one addition or subtraction strategy?",
+            "options": [
+              "Knowing strategies has no benefit",
+              "Different problems can be solved more easily with different strategies",
+              "Strategies never help solve problems",
+              "Only one strategy ever works for every problem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Choosing the best strategy for a problem means picking the one that ___.",
+            "options": [
+              "Takes the longest amount of time",
+              "Has nothing to do with the numbers involved",
+              "Is always the same no matter the problem",
+              "Makes the problem easiest to solve"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one addition strategy you have learned, like making ten or doubles.",
+            "answers": [
+              "making ten",
+              "doubles",
+              "counting on"
+            ]
+          },
+          {
+            "prompt": "Name one subtraction strategy you have learned, like counting back.",
+            "answers": [
+              "counting back"
+            ]
+          },
+          {
+            "prompt": "Which strategy would work well for solving 9 plus 9?",
+            "answers": [
+              "doubles"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sound Vibrations: How Sound Travels",
+        "summary": "Students build on earlier learning about sound by exploring how sound is made by vibrations, tiny fast back and forth movements, that travel through air to our ears.",
+        "resourceLabel": "YouTube: Sound Vibrations: How Sound Travels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sound%20Vibrations%3A%20How%20Sound%20Travels%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What makes sound?",
+            "options": [
+              "Sunlight",
+              "Cold air only",
+              "Vibrations",
+              "Water freezing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are vibrations?",
+            "options": [
+              "Tiny fast back and forth movements",
+              "A kind of rock",
+              "A type of cloud",
+              "A colour of light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does sound travel to our ears?",
+            "options": [
+              "It travels through sunlight",
+              "Sound cannot travel at all",
+              "It travels through solid rock only",
+              "It travels through the air as vibrations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you pluck a guitar string, what might you feel?",
+            "options": [
+              "The string disappearing",
+              "Nothing at all",
+              "The string vibrating",
+              "The string turning into liquid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Understanding vibrations helps us understand how ___.",
+            "options": [
+              "Rocks form",
+              "Water freezes",
+              "Sound is made and how it travels",
+              "Plants grow"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the tiny fast back and forth movements that make sound?",
+            "answers": [
+              "vibrations"
+            ]
+          },
+          {
+            "prompt": "Do vibrations travel through air to reach our ears?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If you pluck a guitar string, can you sometimes feel it vibrate?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Recycling, Reusing, and Reducing: The Three Rs",
+        "summary": "Students learn the three Rs, reduce, reuse, and recycle, as three ways people in a community can help take care of the environment and produce less waste.",
+        "resourceLabel": "YouTube: Recycling, Reusing, and Reducing: The Three Rs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Recycling%2C%20Reusing%2C%20and%20Reducing%3A%20The%20Three%20Rs%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are the three Rs?",
+            "options": [
+              "Reduce, reuse, and recycle",
+              "Run, ride, and roll",
+              "Read, write, and run",
+              "Rest, relax, and repeat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to reduce?",
+            "options": [
+              "To use something one time only",
+              "To ignore the environment",
+              "To throw everything away",
+              "To use less of something"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean to reuse something?",
+            "options": [
+              "To buy a brand new one every time",
+              "To use it again instead of throwing it away",
+              "To ignore it completely",
+              "To throw it away immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of recycling?",
+            "options": [
+              "Putting a used paper in a recycling bin to be made into new paper",
+              "Wasting water",
+              "Leaving litter on the ground",
+              "Throwing a can into the garbage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Practising the three Rs helps a community ___.",
+            "options": [
+              "Produce less waste and care for the environment",
+              "Ignore environmental care",
+              "Produce more waste",
+              "Harm the environment"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name the three Rs that help take care of the environment.",
+            "answers": [
+              "reduce, reuse, recycle",
+              "reduce reuse recycle"
+            ]
+          },
+          {
+            "prompt": "What does it mean to reuse something?",
+            "answers": [
+              "use it again",
+              "use again"
+            ]
+          },
+          {
+            "prompt": "Do the three Rs help produce less waste?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "label": "Day 100 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Vowel Teams, Word Parts, and Story Craft",
+        "summary": "Students review recent Language skills: the ie and igh vowel teams, contractions, root words, alliteration, text features, persuasive writing, story endings, nonsense words, and point of view.",
+        "resourceLabel": "YouTube: Language Review: Vowel Teams, Word Parts, and Story Craft",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Vowel%20Teams%2C%20Word%20Parts%2C%20and%20Story%20Craft%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the long i sound spelled ie?",
+            "options": [
+              "Sit",
+              "Pie",
+              "Pin",
+              "Pit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a contraction?",
+            "options": [
+              "A type of punctuation mark",
+              "A word with no vowels",
+              "A word that means the opposite",
+              "A shorter word made by joining two words together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "When words close together start with the same sound",
+              "A word with no vowels",
+              "A type of punctuation mark",
+              "A word that means the opposite of another word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is persuasive writing?",
+            "options": [
+              "Writing that tries to convince a reader to agree with an idea",
+              "Writing that only lists facts with no reasons",
+              "Writing with no opinions at all",
+              "Writing that only tells a made-up story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is point of view?",
+            "options": [
+              "The number of pages in a book",
+              "The title of a book",
+              "Who is telling a story",
+              "The setting of a story"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does the igh in night make the long i sound or the short i sound?",
+            "answers": [
+              "long i sound",
+              "long i"
+            ]
+          },
+          {
+            "prompt": "What do we call a shorter word made by joining two words together, like dont?",
+            "answers": [
+              "contraction"
+            ]
+          },
+          {
+            "prompt": "What do we call the simplest form of a word before endings are added?",
+            "answers": [
+              "root word",
+              "base word"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Numbers, Patterns, and Strategies",
+        "summary": "Students review recent Math skills: numbers to 200, doubles plus one, probability language, growing patterns, 3D shape attributes, fractions of a group, trading coins, measuring mass, and choosing addition and subtraction strategies.",
+        "resourceLabel": "YouTube: Math Review: Numbers, Patterns, and Strategies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Patterns%2C%20and%20Strategies%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 159?",
+            "options": [
+              "169",
+              "161",
+              "160",
+              "150"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What word describes something that will definitely happen?",
+            "options": [
+              "Maybe",
+              "Certain",
+              "Unlikely",
+              "Impossible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many faces does a cube have?",
+            "options": [
+              "4",
+              "12",
+              "8",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many pennies equal the value of 1 nickel?",
+            "options": [
+              "1",
+              "5",
+              "10",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which strategy works well for solving 8 plus 8?",
+            "options": [
+              "Doubles",
+              "Skip counting by 10s",
+              "Counting back",
+              "None of these"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 169?",
+            "answers": [
+              "170",
+              "one hundred seventy"
+            ]
+          },
+          {
+            "prompt": "What is 5 plus 5?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "What word describes something that will definitely happen?",
+            "answers": [
+              "certain"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Our Bodies, Earth, and Energy",
+        "summary": "Students review recent Science topics: our heart, our brain, icebergs and glaciers, animal adaptation, dinosaurs, static electricity, our muscles, water conservation, and sound vibrations.",
+        "resourceLabel": "YouTube: Science Review: Our Bodies, Earth, and Energy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Earth%2C%20and%20Energy%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the heart?",
+            "options": [
+              "A strong muscle that pumps blood",
+              "A bone in our leg",
+              "A part of our ear",
+              "A type of food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a glacier?",
+            "options": [
+              "A warm ocean current",
+              "A huge, slow-moving mass of ice",
+              "A type of cloud",
+              "A kind of desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What were dinosaurs?",
+            "options": [
+              "Animals that lived on Earth a very long time ago",
+              "A kind of cloud",
+              "Animals that live in cities today",
+              "A type of plant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are muscles?",
+            "options": [
+              "Body parts that stretch and squeeze to help us move",
+              "Bones that support our body",
+              "A type of food",
+              "Parts of our brain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes sound?",
+            "options": [
+              "Sunlight",
+              "Cold air only",
+              "Water freezing",
+              "Vibrations"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part pumps blood through our body?",
+            "answers": [
+              "heart"
+            ]
+          },
+          {
+            "prompt": "What body part is the control centre of our body?",
+            "answers": [
+              "brain"
+            ]
+          },
+          {
+            "prompt": "What do we call a special feature that helps an animal survive?",
+            "answers": [
+              "adaptation"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Leadership, Traditions, and Caring for Our World",
+        "summary": "Students review recent Social Studies topics: land acknowledgements, levels of leadership, voting, classroom jobs, public signs, Thanksgiving, Remembrance Day, currencies around the world, and the three Rs.",
+        "resourceLabel": "YouTube: Social Studies Review: Leadership, Traditions, and Caring for Our World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Leadership%2C%20Traditions%2C%20and%20Caring%20for%20Our%20World%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A statement that recognizes Indigenous Peoples connected to the land",
+              "A rule about traffic safety",
+              "A type of building",
+              "A kind of food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who is the leader of a city or town?",
+            "options": [
+              "A prime minister",
+              "A premier",
+              "A principal",
+              "A mayor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is voting?",
+            "options": [
+              "A type of food",
+              "A way for people to share their choice and help make a decision",
+              "A way to ignore other peoples opinions",
+              "A rule about traffic safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is Thanksgiving?",
+            "options": [
+              "A holiday only celebrated in the summer",
+              "A Canadian holiday when people give thanks for the harvest and good things in life",
+              "A type of school subject",
+              "A rule about traffic safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the three Rs?",
+            "options": [
+              "Read, write, and run",
+              "Rest, relax, and repeat",
+              "Reduce, reuse, and recycle",
+              "Run, ride, and roll"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a statement that recognizes the Indigenous Peoples connected to a land?",
+            "answers": [
+              "land acknowledgement"
+            ]
+          },
+          {
+            "prompt": "Who leads a city or town?",
+            "answers": [
+              "mayor"
+            ]
+          },
+          {
+            "prompt": "What are the three Rs that help take care of the environment?",
+            "answers": [
+              "reduce, reuse, recycle",
+              "reduce reuse recycle"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -21908,5 +21908,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 91,
+    "label": "Day 91 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Similes",
+        "summary": "Grade 5 Language strand: a simile is a figure of speech that compares two unlike things using the words like or as, such as brave as a lion or fast like the wind.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What do we call a comparison between two unlike things that uses the word like or as?",
+            "options": [
+              "A prefix",
+              "A concept unrelated to figurative language",
+              "A homophone",
+              "A simile"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence contains a simile?",
+            "options": [
+              "Her smile was as bright as the sun.",
+              "She smiled at her friend.",
+              "The sun rose over the hill.",
+              "Her smile lit up the room."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a simile always use the word like or as to make its comparison?",
+            "options": [
+              "Yes",
+              "A concept unrelated to similes",
+              "Similes only ever use the word than",
+              "No, a simile never compares anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use a simile instead of stating a plain description?",
+            "options": [
+              "Similes never add any meaning to writing",
+              "Similes always make a description less clear",
+              "It creates a vivid picture by connecting an idea to something familiar",
+              "This concept has no connection to figurative language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a simile?",
+            "options": [
+              "The wind howled loudly.",
+              "The wolf howled at the wind.",
+              "The wind is a wolf.",
+              "The wind howled like a wolf."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Triangles by Angles and Sides",
+        "summary": "Grade 5 Math strand: triangles can be classified by their sides, such as equilateral, isosceles, and scalene, and by their angles, such as acute, right, and obtuse.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call a triangle with all three sides equal in length?",
+            "options": [
+              "A scalene triangle",
+              "An equilateral triangle",
+              "An obtuse triangle",
+              "A right triangle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a triangle with exactly two equal sides?",
+            "options": [
+              "An equilateral triangle",
+              "An isosceles triangle",
+              "A concept unrelated to triangles",
+              "A scalene triangle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call a triangle with no equal sides at all?",
+            "options": [
+              "A scalene triangle",
+              "An equilateral triangle",
+              "A right triangle",
+              "An isosceles triangle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a triangle that contains one 90-degree angle?",
+            "options": [
+              "An obtuse triangle",
+              "An equilateral triangle",
+              "A right triangle",
+              "An acute triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might it be useful to classify triangles by both their sides and their angles?",
+            "options": [
+              "It gives a more complete and precise description of a triangle’s shape",
+              "This concept has no connection to geometry",
+              "A triangle can only ever be described one single way",
+              "Classifying triangles never gives any useful information"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Endocrine System and Hormones",
+        "summary": "Grade 5 Science strand: the endocrine system is a network of glands, such as the thyroid and pituitary gland, that release hormones into the bloodstream to regulate processes like growth and metabolism.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the body system made up of glands that release hormones into the bloodstream?",
+            "options": [
+              "The digestive system",
+              "The endocrine system",
+              "A concept unrelated to the body",
+              "The skeletal system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the chemical messengers released by glands in the endocrine system called?",
+            "options": [
+              "Hormones",
+              "Antibodies",
+              "Enzymes",
+              "A concept unrelated to the endocrine system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one gland that is part of the endocrine system, such as the thyroid.",
+            "options": [
+              "The thyroid gland",
+              "A concept unrelated to the endocrine system",
+              "The stomach",
+              "The lungs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for hormones to travel through the bloodstream to reach different parts of the body?",
+            "options": [
+              "Hormones never travel anywhere in the body",
+              "This concept has no connection to the endocrine system",
+              "It allows glands to send signals that regulate processes throughout the whole body",
+              "The bloodstream has no connection to hormones at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a problem with the endocrine system affect a person’s growth or energy levels?",
+            "options": [
+              "This concept has no relevance to science",
+              "Hormones help control processes like growth and metabolism, so imbalances can cause noticeable effects",
+              "Growth and metabolism are never controlled by hormones",
+              "The endocrine system has no effect on growth or energy at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Music and Film Industry and National Culture",
+        "summary": "Grade 5 Social Studies strand: Canada has a thriving music and film industry, with Canadian content rules helping ensure Canadian stories, music, and voices are shared with audiences at home and abroad.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call rules that help ensure Canadian stories and music are shared with audiences, sometimes known as Canadian content rules?",
+            "options": [
+              "A concept unrelated to Canadian culture",
+              "A concept with no real name",
+              "Canadian content rules",
+              "International trade tariffs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does Canada have its own music and film industry?",
+            "options": [
+              "Yes",
+              "Only other countries make music and films",
+              "No, Canada has never produced any music or films",
+              "A concept unrelated to Canadian culture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can Canadian musicians and filmmakers find success both in Canada and internationally?",
+            "options": [
+              "Success is only possible outside of Canada",
+              "No, Canadian artists never find success anywhere",
+              "A concept unrelated to Canada",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Canadian content rules be important for supporting Canadian culture?",
+            "options": [
+              "They help ensure Canadian creators and stories get a chance to be seen and heard",
+              "This concept has no relevance to social studies",
+              "These rules have no connection to supporting culture",
+              "Canadian content rules always block Canadian stories from being shared"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a strong music and film industry help build a sense of national identity?",
+            "options": [
+              "National identity is never influenced by art or culture",
+              "Shared stories, songs, and films can reflect and connect people’s experiences across the country",
+              "This concept has no connection to Canadian culture",
+              "Music and film have no connection to national identity"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "label": "Day 92 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Coordinating and Subordinating Conjunctions",
+        "summary": "Grade 5 Language strand: a coordinating conjunction, such as and, but, or, joins two equal ideas, while a subordinating conjunction, such as because, although, or when, joins a dependent clause to an independent clause.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Which of these is a coordinating conjunction?",
+            "options": [
+              "Although",
+              "Since",
+              "Because",
+              "But"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a subordinating conjunction?",
+            "options": [
+              "And",
+              "But",
+              "Because",
+              "Or"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a coordinating conjunction join two equal, independent ideas?",
+            "options": [
+              "Yes",
+              "A concept unrelated to grammar",
+              "Coordinating conjunctions never join anything",
+              "No, it always joins a dependent clause only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence Although it was raining, we went outside, what type of conjunction is although?",
+            "options": [
+              "A coordinating conjunction",
+              "A preposition",
+              "A subordinating conjunction",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a subordinating conjunction like because in a sentence?",
+            "options": [
+              "Subordinating conjunctions never connect any ideas",
+              "It can show a reason or cause-and-effect relationship between two ideas",
+              "This concept has no connection to grammar",
+              "Subordinating conjunctions only ever join two equal independent ideas"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Area of Triangles and Parallelograms",
+        "summary": "Grade 5 Math strand: students learn that the area of a triangle equals one half of its base times its height, and the area of a parallelogram equals its base times its height.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is the formula for the area of a parallelogram?",
+            "options": [
+              "Base times height",
+              "Base divided by height",
+              "Base plus height",
+              "Half of base times height"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the formula for the area of a triangle?",
+            "options": [
+              "Base plus height",
+              "Base times height",
+              "Base divided by height",
+              "One half of base times height"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a triangle has a base of 8 cm and a height of 5 cm, what is its area?",
+            "options": [
+              "10 square cm",
+              "20 square cm",
+              "13 square cm",
+              "40 square cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a parallelogram has a base of 6 cm and a height of 4 cm, what is its area?",
+            "options": [
+              "10 square cm",
+              "20 square cm",
+              "12 square cm",
+              "24 square cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the area of a triangle formula include multiplying by one half?",
+            "options": [
+              "A triangle is exactly half of a parallelogram with the same base and height",
+              "A triangle and a parallelogram always have the exact same area formula",
+              "Multiplying by one half never has any connection to a triangle’s area",
+              "This concept has no connection to geometry"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Plate Tectonics and Continental Drift",
+        "summary": "Grade 5 Science strand: Earth’s crust is broken into large plates that move very slowly over time, a process that can cause earthquakes, form mountains, and create volcanoes at plate boundaries.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the large sections of Earth’s crust that move very slowly over time?",
+            "options": [
+              "Tectonic plates",
+              "Ocean currents",
+              "Weather systems",
+              "A concept unrelated to Earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can the movement of tectonic plates cause earthquakes?",
+            "options": [
+              "A concept unrelated to plate tectonics",
+              "No, tectonic plates have no connection to earthquakes",
+              "Yes",
+              "Earthquakes only ever happen underwater"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can mountains form where tectonic plates push against each other?",
+            "options": [
+              "Mountains only form from volcanoes, never from plate movement",
+              "A concept unrelated to plate tectonics",
+              "Yes",
+              "No, mountains never form because of tectonic plates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might volcanoes often be found near the edges of tectonic plates?",
+            "options": [
+              "Volcanoes have no connection to tectonic plates at all",
+              "Plate boundaries can create openings where melted rock from inside Earth reaches the surface",
+              "Volcanoes are found only in the exact centre of a tectonic plate",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists say plate movement happens very slowly, often just centimetres per year?",
+            "options": [
+              "This concept has no connection to plate tectonics",
+              "The plates are extremely large and heavy, so they shift gradually over a very long time",
+              "Plate movement happens instantly with no gradual process",
+              "Tectonic plates actually move at extremely fast speeds"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How Provinces and Territories Joined Confederation Over Time",
+        "summary": "Grade 5 Social Studies strand: Canada began in 1867 with four provinces and grew over time as other provinces and territories, such as British Columbia in 1871 and Newfoundland in 1949, joined Confederation.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "How many provinces originally joined together to form Canada in 1867?",
+            "options": [
+              "Four",
+              "Ten",
+              "Six",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which province was the last to join Confederation, in 1949?",
+            "options": [
+              "Manitoba",
+              "Newfoundland",
+              "British Columbia",
+              "Prince Edward Island"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Did Canada grow by adding new provinces and territories after 1867?",
+            "options": [
+              "No new provinces have ever joined Canada",
+              "No, Canada has always had the exact same provinces since 1867",
+              "A concept unrelated to Confederation",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a province have chosen to join Confederation years after 1867 rather than right away?",
+            "options": [
+              "Joining Confederation was never an actual choice for any province",
+              "Each province had its own reasons and negotiations before deciding to join Canada",
+              "This concept has no connection to Canadian history",
+              "Every province was forced to join in the exact same year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to know the order in which provinces and territories joined Confederation?",
+            "options": [
+              "All provinces and territories joined in the exact same instant",
+              "It helps explain how Canada grew and changed shape over time",
+              "The order provinces joined has no connection to Canadian history",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "label": "Day 93 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Plot Structure",
+        "summary": "Grade 5 Language strand: plot structure describes the shape of a story, including the exposition, rising action, climax, falling action, and resolution.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is the term for the part of a story where the main conflict reaches its most intense point?",
+            "options": [
+              "The resolution",
+              "The falling action",
+              "The exposition",
+              "The climax"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the term for the part of a story that introduces the characters and setting?",
+            "options": [
+              "The exposition",
+              "The rising action",
+              "The resolution",
+              "The climax"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the term for the part of a story where the conflict is finally solved?",
+            "options": [
+              "The climax",
+              "The resolution",
+              "The exposition",
+              "The rising action"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the rising action happen before or after the climax of a story?",
+            "options": [
+              "After",
+              "Rising action never happens in a story",
+              "A concept unrelated to plot structure",
+              "Before"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might understanding plot structure help a reader predict what will happen next in a story?",
+            "options": [
+              "This concept has no connection to reading comprehension",
+              "Recognizing the stages of a plot can signal whether tension is building or being resolved",
+              "Every story follows a completely random, unpredictable structure",
+              "Plot structure never gives any clues about a story"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Multiplying and Dividing Whole Numbers by Powers of Ten",
+        "summary": "Grade 5 Math strand: multiplying a whole number by a power of ten, such as 10, 100, or 1000, shifts its digits to the left, while dividing shifts its digits to the right.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is 45 multiplied by 10?",
+            "options": [
+              "450",
+              "4500",
+              "45",
+              "4.5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 45 multiplied by 100?",
+            "options": [
+              "4.5",
+              "4500",
+              "450",
+              "45000"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 4500 divided by 100?",
+            "options": [
+              "450",
+              "45",
+              "45000",
+              "4.5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When you multiply a whole number by a power of ten, what happens to its digits?",
+            "options": [
+              "They shift to the right",
+              "A concept unrelated to place value",
+              "Nothing happens to the digits at all",
+              "They shift to the left"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to recognize the pattern of multiplying and dividing by powers of ten?",
+            "options": [
+              "This pattern never applies to whole numbers",
+              "Powers of ten never affect how digits are arranged",
+              "This concept has no connection to number sense",
+              "It allows you to solve these problems quickly using place value, without long multiplication"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Energy: Kinetic and Potential Energy",
+        "summary": "Grade 5 Science strand: kinetic energy is the energy of motion, such as a rolling ball, while potential energy is stored energy based on position, such as a ball held at the top of a hill.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the energy of motion, such as a rolling ball has?",
+            "options": [
+              "Kinetic energy",
+              "Chemical energy",
+              "A concept unrelated to energy",
+              "Potential energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call stored energy based on an object’s position, such as a ball held at the top of a hill?",
+            "options": [
+              "A concept unrelated to energy",
+              "Sound energy",
+              "Kinetic energy",
+              "Potential energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When a ball rolls down a hill, does its potential energy change into kinetic energy?",
+            "options": [
+              "No, potential energy never changes into kinetic energy",
+              "A concept unrelated to energy",
+              "The ball loses all of its energy instantly",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does an object held high above the ground have more potential energy than one on the ground?",
+            "options": [
+              "This concept has no relevance to science",
+              "Its higher position gives it more stored energy that could be released if it falls",
+              "Height has no connection to potential energy",
+              "Objects on the ground always have more potential energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a roller coaster at the top of a hill be a good example of potential energy changing into kinetic energy?",
+            "options": [
+              "Roller coasters never involve any changes in energy",
+              "A roller coaster has the same amount of energy at every point on the track",
+              "This concept has no connection to kinetic and potential energy",
+              "As the coaster drops, its stored potential energy converts into the energy of motion"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Royal Canadian Mounted Police and Its History",
+        "summary": "Grade 5 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, began in 1873 as the North-West Mounted Police and has grown into Canada’s national police force, recognized worldwide by its red uniform.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Royal Canadian Marine Patrol",
+              "A concept unrelated to Canadian history",
+              "Royal Canadian Mounted Police",
+              "Regional Canadian Municipal Patrol"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the RCMP originally called when it was founded in 1873?",
+            "options": [
+              "A concept unrelated to the RCMP",
+              "The Royal Guard",
+              "The Canadian Border Patrol",
+              "The North-West Mounted Police"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is the RCMP recognized around the world by its red uniform?",
+            "options": [
+              "No, the RCMP has never had a distinctive uniform",
+              "The RCMP wears the exact same uniform as every other police force",
+              "Yes",
+              "A concept unrelated to the RCMP"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the RCMP be considered an important symbol of Canada, in addition to being a police force?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Its uniform and history are widely recognized as part of Canadian identity",
+              "The RCMP has no connection to Canadian identity at all",
+              "Police forces are never associated with a country’s identity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a national police force like the RCMP have different responsibilities than a local police department?",
+            "options": [
+              "National and local police forces always have identical responsibilities",
+              "A national force may handle matters that cross provincial or territorial boundaries",
+              "This concept has no connection to Canadian government",
+              "A national police force never has any responsibilities at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "label": "Day 94 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Poetry: Elements of Poetry (Rhyme, Rhythm, and Stanza)",
+        "summary": "Grade 5 Language strand: poems often use rhyme, the repetition of similar ending sounds, rhythm, a pattern of beats, and stanzas, groups of lines organized like paragraphs.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What do we call the repetition of similar ending sounds in a poem?",
+            "options": [
+              "Rhyme",
+              "A stanza",
+              "Rhythm",
+              "A concept unrelated to poetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a group of lines in a poem, organized like a paragraph?",
+            "options": [
+              "A concept unrelated to poetry",
+              "A rhyme",
+              "A stanza",
+              "A syllable"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the pattern of beats or stresses in a poem?",
+            "options": [
+              "A metaphor",
+              "A concept unrelated to poetry",
+              "Rhythm",
+              "A stanza"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the lines The cat sat on the mat, which words rhyme?",
+            "options": [
+              "Sat and the",
+              "Cat and sat",
+              "The and on",
+              "Cat and mat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a poet use rhythm to help create a certain feeling in a poem?",
+            "options": [
+              "Every poem has the exact same rhythm",
+              "Rhythm never affects how a poem feels to read",
+              "A steady or changing pattern of beats can affect the mood or pace of the poem",
+              "This concept has no connection to poetry"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Tree Diagrams and Sample Space",
+        "summary": "Grade 5 Math strand: a tree diagram lists all possible outcomes of an event, called the sample space, such as showing all combinations when flipping a coin and rolling a die.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call the list of all possible outcomes of an event?",
+            "options": [
+              "A concept unrelated to probability",
+              "The median",
+              "The mean",
+              "The sample space"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a diagram called that branches out to show all possible outcomes of an event?",
+            "options": [
+              "A tree diagram",
+              "A bar graph",
+              "A concept unrelated to probability",
+              "A pictograph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many total outcomes are there when flipping a coin (2 outcomes) and rolling a six-sided die (6 outcomes)?",
+            "options": [
+              "8",
+              "12",
+              "6",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you flip a coin twice, how many total outcomes are in the sample space?",
+            "options": [
+              "4",
+              "2",
+              "6",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a tree diagram be helpful for solving a probability problem with two events?",
+            "options": [
+              "Tree diagrams never help with organizing outcomes",
+              "A sample space can never actually be shown in a diagram",
+              "This concept has no connection to data management",
+              "It organizes every possible combination clearly, making outcomes easier to count"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Human Ear and How We Hear",
+        "summary": "Grade 5 Science strand: the ear collects sound waves in the outer ear, vibrates the eardrum in the middle ear, and converts those vibrations into nerve signals in the inner ear, which the brain interprets as sound.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What part of the ear vibrates when sound waves reach it?",
+            "options": [
+              "The eardrum",
+              "The outer ear only",
+              "The nose",
+              "A concept unrelated to hearing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where are sound waves first collected before travelling further into the ear?",
+            "options": [
+              "A concept unrelated to the ear",
+              "The inner ear",
+              "The brain",
+              "The outer ear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What part of the ear converts vibrations into nerve signals that the brain can interpret?",
+            "options": [
+              "The inner ear",
+              "A concept unrelated to hearing",
+              "The eyebrow",
+              "The outer ear"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for the eardrum to vibrate when sound waves reach it?",
+            "options": [
+              "This concept has no relevance to science",
+              "The vibrations are the first step in turning sound waves into signals the brain can understand",
+              "Sound can be heard without any vibration occurring at all",
+              "The eardrum has no connection to how we hear sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might loud noises over a long period of time damage a person’s hearing?",
+            "options": [
+              "The ear is completely unaffected by any sound, no matter how loud",
+              "Loud noises never have any effect on hearing",
+              "Strong vibrations can harm the delicate structures inside the ear that detect sound",
+              "This concept has no connection to the human ear"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Federal and Provincial Division of Powers in Canada",
+        "summary": "Grade 5 Social Studies strand: Canada’s Constitution divides responsibilities between the federal government, which handles matters like national defence and currency, and provincial governments, which handle matters like education and health care.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Which level of government is typically responsible for national defence and currency?",
+            "options": [
+              "The provincial government",
+              "A concept unrelated to Canadian government",
+              "The federal government",
+              "The municipal government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which level of government is typically responsible for education and health care?",
+            "options": [
+              "The provincial government",
+              "No level of government handles these areas",
+              "A concept unrelated to Canadian government",
+              "The federal government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does Canada’s Constitution divide responsibilities between federal and provincial governments?",
+            "options": [
+              "No, only one level of government exists in Canada",
+              "Responsibilities are never divided in Canada",
+              "Yes",
+              "A concept unrelated to Canadian government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might it make sense for education to be handled at the provincial level rather than the federal level?",
+            "options": [
+              "Every province in Canada must have an identical education system by law",
+              "This concept has no relevance to social studies",
+              "Education has no connection to any level of government",
+              "Provinces can design education systems suited to their own populations and needs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for a country like Canada to divide responsibilities between different levels of government?",
+            "options": [
+              "This concept has no connection to Canadian government",
+              "It allows different levels of government to focus on issues at the right scale, from national to local",
+              "A single level of government could handle every responsibility equally well",
+              "Dividing responsibilities never has any benefit"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "label": "Day 95 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Myth or Legend",
+        "summary": "Grade 5 Language strand: a myth is a traditional story that often explains natural events or features gods and heroes, while a legend is a traditional story often based loosely on real people or events.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What do we call a traditional story that often explains a natural event and features gods or heroes?",
+            "options": [
+              "A concept unrelated to writing",
+              "A grocery list",
+              "A recipe",
+              "A myth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call a traditional story often based loosely on real people or events?",
+            "options": [
+              "A weather report",
+              "A concept unrelated to writing",
+              "A legend",
+              "A myth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Might a myth be used to explain something in nature, such as why the seasons change?",
+            "options": [
+              "No, myths never explain anything about nature",
+              "A concept unrelated to myths",
+              "Yes",
+              "Myths only ever describe modern technology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might ancient cultures have created myths to explain natural events, like thunderstorms?",
+            "options": [
+              "Ancient cultures always had complete scientific explanations already",
+              "Storytelling offered an understandable explanation before scientific knowledge was available",
+              "Myths were never created to explain anything",
+              "This concept has no connection to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is most likely the beginning of a legend?",
+            "options": [
+              "Add two cups of flour to the bowl.",
+              "Multiply 6 by 7 to find the answer.",
+              "The weather today will be sunny with a light breeze.",
+              "Long ago, a brave warrior was said to have defended the village."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Quadrilaterals",
+        "summary": "Grade 5 Math strand: quadrilaterals can be classified by their properties, such as a square with four equal sides and four right angles, or a trapezoid with only one pair of parallel sides.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call a quadrilateral with four equal sides and four right angles?",
+            "options": [
+              "A square",
+              "A concept unrelated to quadrilaterals",
+              "A trapezoid",
+              "A rhombus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a quadrilateral with only one pair of parallel sides?",
+            "options": [
+              "A rectangle",
+              "A trapezoid",
+              "A rhombus",
+              "A square"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a rectangle always have four right angles?",
+            "options": [
+              "A concept unrelated to quadrilaterals",
+              "No, a rectangle never has any right angles",
+              "Yes",
+              "A rectangle has exactly two right angles only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a quadrilateral with four equal sides, but not necessarily four right angles?",
+            "options": [
+              "A rhombus",
+              "A square",
+              "A trapezoid",
+              "A concept unrelated to quadrilaterals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a square be considered a special type of rectangle?",
+            "options": [
+              "A square has all the properties of a rectangle, plus four equal sides",
+              "A square and a rectangle share no properties at all",
+              "This concept has no connection to geometry",
+              "A square never has four right angles"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Decomposers and Nutrient Cycling in Ecosystems",
+        "summary": "Grade 5 Science strand: decomposers, such as fungi, bacteria, and worms, break down dead plants and animals, returning nutrients to the soil so they can be used again by living things.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call organisms, such as fungi and bacteria, that break down dead plants and animals?",
+            "options": [
+              "Decomposers",
+              "Producers",
+              "Predators",
+              "A concept unrelated to ecosystems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one example of a decomposer, such as fungi or worms.",
+            "options": [
+              "Fungi",
+              "A lion",
+              "A concept unrelated to decomposers",
+              "A hawk"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do decomposers return to the soil as they break down dead organisms?",
+            "options": [
+              "A concept unrelated to decomposers",
+              "Only water",
+              "Nothing at all",
+              "Nutrients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are decomposers an essential part of an ecosystem’s nutrient cycle?",
+            "options": [
+              "This concept has no relevance to science",
+              "Decomposers have no connection to nutrient cycles",
+              "They recycle nutrients from dead organisms so living things can use them again",
+              "Nutrients never need to be recycled in an ecosystem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an ecosystem struggle if it suddenly had no decomposers at all?",
+            "options": [
+              "Decomposers have no effect on how an ecosystem functions",
+              "Dead plants and animals would not break down, and nutrients would not return to the soil",
+              "This concept has no connection to decomposers",
+              "An ecosystem would function exactly the same without any decomposers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Bank of Canada and Canada’s Monetary System",
+        "summary": "Grade 5 Social Studies strand: the Bank of Canada is the country’s central bank, responsible for issuing currency and setting policies that help keep prices and the economy stable.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is the name of Canada’s central bank?",
+            "options": [
+              "A bank from a different country",
+              "The Bank of Canada",
+              "A private company only",
+              "A concept unrelated to Canadian government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the Bank of Canada responsible for issuing Canada’s currency?",
+            "options": [
+              "Yes",
+              "Only individual citizens issue currency",
+              "A concept unrelated to the Bank of Canada",
+              "No, the Bank of Canada has no connection to currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the Bank of Canada help set policies to keep prices and the economy stable?",
+            "options": [
+              "Yes",
+              "No, the Bank of Canada has no role in the economy",
+              "A concept unrelated to Canada’s monetary system",
+              "Prices are never affected by any government policy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a country need a central bank like the Bank of Canada?",
+            "options": [
+              "It helps manage the money supply and keep the economy stable for everyone",
+              "A central bank has no useful purpose",
+              "This concept has no relevance to social studies",
+              "Every country manages its economy without any central bank"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might rising prices across the country be a concern that the Bank of Canada tries to manage?",
+            "options": [
+              "Rising prices never have any effect on people’s daily lives",
+              "The Bank of Canada has no responsibility for the cost of goods",
+              "This concept has no connection to the Bank of Canada",
+              "Rapidly rising prices can make it harder for people to afford everyday goods and services"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "label": "Day 96 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Synonyms and Antonyms",
+        "summary": "Grade 5 Language strand: a synonym is a word that means the same, or nearly the same, as another word, while an antonym is a word that means the opposite of another word.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What do we call a word that means the same, or nearly the same, as another word?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A homophone",
+              "A synonym",
+              "An antonym"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call a word that means the opposite of another word?",
+            "options": [
+              "A synonym",
+              "An antonym",
+              "A concept unrelated to vocabulary",
+              "A prefix"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a synonym for happy?",
+            "options": [
+              "Angry",
+              "Sad",
+              "Joyful",
+              "Tired"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an antonym for large?",
+            "options": [
+              "Giant",
+              "Small",
+              "Big",
+              "Huge"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a thesaurus be a useful tool when looking for synonyms while writing?",
+            "options": [
+              "This concept has no connection to vocabulary",
+              "A thesaurus only ever lists antonyms, never synonyms",
+              "It lists words with similar meanings, helping a writer choose more precise or varied language",
+              "A thesaurus never lists any synonyms"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Surface Area of Triangular Prisms",
+        "summary": "Grade 5 Math strand: the surface area of a triangular prism is found by adding the areas of its two triangular bases and its three rectangular sides.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "How many triangular faces does a triangular prism have?",
+            "options": [
+              "3",
+              "4",
+              "1",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many rectangular faces does a triangular prism typically have?",
+            "options": [
+              "2",
+              "4",
+              "3",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find the surface area of a triangular prism, what should you do with the areas of all its faces?",
+            "options": [
+              "Subtract them from each other",
+              "Multiply them together",
+              "A concept unrelated to surface area",
+              "Add them together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the two triangular faces of a prism each have an area of 6 square cm, and the three rectangular faces have areas of 10, 10, and 8 square cm, what is the total surface area?",
+            "options": [
+              "28 square cm",
+              "40 square cm",
+              "34 square cm",
+              "22 square cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to know how to calculate the surface area of a triangular prism?",
+            "options": [
+              "This concept has no connection to measurement",
+              "A triangular prism never actually has any measurable surface area",
+              "Surface area calculations never apply to any real objects",
+              "It helps determine how much material is needed to cover or build an object shaped like the prism"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Structures: Why Triangles Are the Strongest Shape",
+        "summary": "Grade 5 Science strand: triangles are considered the strongest basic shape used in structures because their fixed angles resist bending and distribute force evenly, unlike squares, which can collapse into a slanted shape under pressure.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which basic shape is considered the strongest for use in structures like bridges?",
+            "options": [
+              "A square",
+              "A circle",
+              "A triangle",
+              "A concept unrelated to structures"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can a square shape collapse into a slanted shape more easily than a triangle under pressure?",
+            "options": [
+              "Squares and triangles are always equally strong",
+              "A concept unrelated to structures",
+              "No, a square is always stronger than a triangle",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do the fixed angles of a triangle help it resist bending?",
+            "options": [
+              "No, a triangle’s angles have no effect on its strength",
+              "Triangles have no fixed angles at all",
+              "A concept unrelated to structures",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might engineers use triangle shapes, like trusses, when designing bridges?",
+            "options": [
+              "Triangles distribute force evenly and hold their shape well under pressure",
+              "Triangles have no benefit in structural design",
+              "This concept has no relevance to science",
+              "Bridges are never built using triangle shapes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a structure built only with square shapes need extra bracing for stability?",
+            "options": [
+              "Square shapes never need any extra support",
+              "This concept has no connection to structures",
+              "Squares can shift and lean under force unless something, like a diagonal brace, holds their shape",
+              "Square shapes are always stronger than triangle shapes"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canada’s Universal Health Care System",
+        "summary": "Grade 5 Social Studies strand: Canada has a publicly funded health care system, guided by the Canada Health Act, which provides medically necessary care to residents regardless of their ability to pay.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What do we call a health care system that is publicly funded and available to all residents?",
+            "options": [
+              "A concept unrelated to Canadian government",
+              "A system available only to wealthy citizens",
+              "A privately owned system only",
+              "A universal health care system"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the name of the federal law that guides Canada’s health care system?",
+            "options": [
+              "The Canada Health Act",
+              "A concept unrelated to health care",
+              "A provincial law with no federal connection",
+              "The Canadian Constitution only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does Canada’s health care system aim to provide care regardless of a person’s ability to pay?",
+            "options": [
+              "Health care in Canada is never provided to anyone",
+              "A concept unrelated to health care",
+              "No, only wealthy people can access health care in Canada",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a universal health care system be considered important for a country’s population?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "A universal health care system never actually provides any care",
+              "Universal health care has no connection to people’s well-being",
+              "It can help ensure that people receive necessary medical care regardless of their income"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is health care in Canada mainly delivered by provincial governments, even though it follows a federal law?",
+            "options": [
+              "The federal government directly runs every hospital in Canada",
+              "Health care is a provincial responsibility, so each province manages its own delivery system",
+              "This concept has no connection to Canadian government",
+              "Health care is never actually managed by any level of government"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "label": "Day 97 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Protagonist and Antagonist",
+        "summary": "Grade 5 Language strand: the protagonist is the main character a story follows, while the antagonist is the character or force that opposes the protagonist and creates conflict.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What do we call the main character a story follows?",
+            "options": [
+              "The setting",
+              "The antagonist",
+              "The protagonist",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the character or force that opposes the main character?",
+            "options": [
+              "A concept unrelated to reading",
+              "The protagonist",
+              "The narrator",
+              "The antagonist"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the antagonist typically create conflict for the protagonist?",
+            "options": [
+              "No, the antagonist never creates any conflict",
+              "The antagonist always helps the protagonist",
+              "Yes",
+              "A concept unrelated to reading comprehension"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a story feel less interesting without a clear antagonist or obstacle for the protagonist?",
+            "options": [
+              "A story never needs any conflict to be interesting",
+              "Antagonists never have any effect on a story’s plot",
+              "Conflict often drives the plot and keeps readers engaged in what happens next",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can an antagonist sometimes be a force, such as a storm, rather than a person?",
+            "options": [
+              "Yes",
+              "A concept unrelated to reading",
+              "No, an antagonist must always be a person",
+              "A story can never have a non-human antagonist"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Integers in Real-Life Contexts",
+        "summary": "Grade 5 Math strand: integers can represent real-life situations, such as temperatures below zero shown as negative numbers or elevations below sea level shown as negative numbers.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "If the temperature is 5 degrees below zero, how would this be written as an integer?",
+            "options": [
+              "-5",
+              "5",
+              "-10",
+              "0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a location is 100 metres below sea level, how would this elevation be written as an integer?",
+            "options": [
+              "-1",
+              "0",
+              "100",
+              "-100"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which temperature is colder: -8 degrees or -3 degrees?",
+            "options": [
+              "-8 degrees",
+              "-3 degrees",
+              "A concept unrelated to integers",
+              "They are the same temperature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the temperature rises from -6 degrees to -2 degrees, by how many degrees did it increase?",
+            "options": [
+              "4 degrees",
+              "2 degrees",
+              "8 degrees",
+              "6 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are negative integers useful for describing real-world measurements like temperature or elevation?",
+            "options": [
+              "This concept has no connection to number sense",
+              "Temperatures and elevations can never go below zero",
+              "Negative integers have no real-world use at all",
+              "They allow values below a starting point, like zero or sea level, to be represented clearly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Camouflage and Animal Defense Mechanisms",
+        "summary": "Grade 5 Science strand: many animals rely on defense mechanisms, such as camouflage that blends them into their surroundings, warning colours, or physical features like spines, to avoid predators.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call it when an animal’s colouring or pattern helps it blend into its surroundings?",
+            "options": [
+              "A concept unrelated to adaptations",
+              "Hibernation",
+              "Migration",
+              "Camouflage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one physical feature an animal might use to defend itself, such as spines.",
+            "options": [
+              "A pleasant smell",
+              "A soft texture",
+              "Spines",
+              "A concept unrelated to animal defenses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can bright warning colours on an animal signal to predators that it may be dangerous or unpleasant to eat?",
+            "options": [
+              "A concept unrelated to animal defenses",
+              "Bright colours always attract predators intentionally",
+              "No, warning colours never signal anything to predators",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might camouflage be especially useful for an animal trying to avoid a predator?",
+            "options": [
+              "Camouflage never helps an animal avoid being seen",
+              "Blending into the environment can make the animal harder for a predator to notice",
+              "Predators can always see camouflaged animals with no difficulty",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might different animals in the same habitat have developed very different defense mechanisms?",
+            "options": [
+              "Different body types and behaviours can lead to different effective strategies for survival",
+              "Defense mechanisms never vary between different animal species",
+              "All animals in the same habitat always use the exact same defense mechanism",
+              "This concept has no connection to animal defenses"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Criminal Law vs Civil Law in the Canadian Justice System",
+        "summary": "Grade 5 Social Studies strand: criminal law deals with actions considered offences against society, such as theft, prosecuted by the government, while civil law deals with disputes between individuals or groups, such as contract disagreements.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What type of law deals with actions considered offences against society, such as theft?",
+            "options": [
+              "International law",
+              "A concept unrelated to the justice system",
+              "Civil law",
+              "Criminal law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of law deals with disputes between individuals or groups, such as contract disagreements?",
+            "options": [
+              "Criminal law",
+              "Constitutional law",
+              "Civil law",
+              "A concept unrelated to the justice system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a criminal law case, who typically prosecutes the accused person?",
+            "options": [
+              "Only the victim personally",
+              "No one prosecutes in a criminal case",
+              "The government",
+              "A concept unrelated to criminal law"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a disagreement over a broken contract between two businesses be handled as a civil law matter?",
+            "options": [
+              "All disagreements between businesses are automatically criminal matters",
+              "It is a dispute between parties rather than an offence against society as a whole",
+              "This concept has no connection to the justice system",
+              "Contract disagreements are never handled through any legal process"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for a justice system to separate criminal law from civil law?",
+            "options": [
+              "It allows different types of legal issues to be handled with rules suited to their purpose",
+              "Criminal law and civil law are always handled in the exact same way",
+              "This concept has no relevance to social studies",
+              "Separating criminal and civil law never has any benefit"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "label": "Day 98 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Capitalization Rules",
+        "summary": "Grade 5 Language strand: capitalization rules include capitalizing the first word of a sentence, proper nouns, titles, the pronoun I, and the days of the week and months of the year.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Which of these should always be capitalized, no matter where it appears in a sentence?",
+            "options": [
+              "A verb like run",
+              "The pronoun I",
+              "A common noun like dog",
+              "An adjective like happy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Should the first word of a sentence always be capitalized?",
+            "options": [
+              "No, the first word is never capitalized",
+              "Only questions require capitalization",
+              "Yes",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a proper noun that should be capitalized?",
+            "options": [
+              "street",
+              "Toronto",
+              "city",
+              "building"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Should the days of the week, such as Monday, be capitalized?",
+            "options": [
+              "Only some days of the week are capitalized",
+              "Yes",
+              "No, days of the week are never capitalized",
+              "A concept unrelated to capitalization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to capitalize proper nouns, like the names of specific people or places?",
+            "options": [
+              "This concept has no connection to grammar",
+              "Capitalization never provides any useful information to a reader",
+              "Proper nouns and common nouns are always treated exactly the same way",
+              "It helps distinguish specific, named things from general, common nouns"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Simple Budgeting for a Savings Goal",
+        "summary": "Grade 5 Math strand: students learn to create a simple budget by tracking income and expenses to figure out how much money can be saved toward a specific goal over time.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call a plan that tracks income and expenses to help manage money?",
+            "options": [
+              "A budget",
+              "A concept unrelated to financial literacy",
+              "A recipe",
+              "A map"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you earn 20 dollars a week in allowance and spend 12 dollars, how much can you save each week?",
+            "options": [
+              "8 dollars",
+              "20 dollars",
+              "12 dollars",
+              "32 dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you save 5 dollars a week, how many weeks will it take to save 30 dollars?",
+            "options": [
+              "6 weeks",
+              "10 weeks",
+              "30 weeks",
+              "5 weeks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the term for money you receive, such as allowance or gifts?",
+            "options": [
+              "A concept unrelated to budgeting",
+              "Income",
+              "An expense",
+              "A loan"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to set a savings goal before you start budgeting your money?",
+            "options": [
+              "A clear goal can help you decide how much to save and how long it might take",
+              "This concept has no connection to financial literacy",
+              "Savings goals never help with budgeting money",
+              "A budget is never affected by having a specific goal"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Coral Reefs and Marine Ecosystems",
+        "summary": "Grade 5 Science strand: coral reefs are built by tiny living organisms called coral polyps and support a huge variety of marine life, but they are sensitive to changes in ocean temperature.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What tiny living organisms build coral reefs?",
+            "options": [
+              "Fish",
+              "A concept unrelated to marine ecosystems",
+              "Coral polyps",
+              "Whales"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do coral reefs support a large variety of marine life?",
+            "options": [
+              "Only one single species lives in coral reefs",
+              "Yes",
+              "A concept unrelated to coral reefs",
+              "No, coral reefs support no marine life at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are coral reefs sensitive to changes in ocean temperature?",
+            "options": [
+              "Yes",
+              "Ocean temperature has no connection to marine ecosystems",
+              "No, coral reefs are never affected by temperature",
+              "A concept unrelated to coral reefs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might rising ocean temperatures be harmful to coral reefs?",
+            "options": [
+              "Warmer water can stress coral polyps, sometimes causing coral bleaching and reef damage",
+              "Rising temperatures never have any effect on coral reefs",
+              "This concept has no relevance to science",
+              "Coral reefs always grow faster in warmer ocean water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are coral reefs sometimes described as important habitats for ocean life?",
+            "options": [
+              "This concept has no connection to marine ecosystems",
+              "Coral reefs provide no habitat value for any marine species",
+              "They provide shelter, food, and breeding grounds for many different marine species",
+              "Marine life never depends on coral reefs in any way"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Group of Seven and Canadian Landscape Art",
+        "summary": "Grade 5 Social Studies strand: the Group of Seven was a collection of Canadian painters in the early 1900s known for their bold depictions of Canada’s wilderness, helping shape a distinct Canadian artistic identity.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What was the name of the group of Canadian painters known for depicting Canada’s wilderness in the early 1900s?",
+            "options": [
+              "A concept unrelated to Canadian art",
+              "A sports league",
+              "The Group of Seven",
+              "A modern film studio"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Did the Group of Seven often paint scenes of Canada’s natural landscapes?",
+            "options": [
+              "They painted only city skylines from other countries",
+              "A concept unrelated to Canadian art",
+              "Yes",
+              "No, the Group of Seven never painted landscapes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Around what time period was the Group of Seven active?",
+            "options": [
+              "A concept unrelated to Canadian art history",
+              "The present day only",
+              "The early 1900s",
+              "The 1600s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the Group of Seven’s paintings have helped shape a distinct Canadian artistic identity?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "The Group of Seven never painted anything related to Canada",
+              "Their bold depictions of Canadian wilderness offered a new way of representing the country through art",
+              "Their paintings had no connection to Canadian identity at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might studying historical art movements, like the Group of Seven, help students understand a country’s culture?",
+            "options": [
+              "Art has no connection to understanding a country’s culture",
+              "This concept has no connection to social studies",
+              "Art can reflect how people at a certain time viewed and valued their surroundings",
+              "Historical art movements never reveal anything about a culture"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "label": "Day 99 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Note-Taking and Paraphrasing",
+        "summary": "Grade 5 Language strand: note-taking involves recording key words and ideas rather than full sentences, while paraphrasing means restating information in your own words without copying the original text.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What does it mean to paraphrase information from a text?",
+            "options": [
+              "Copying it word for word",
+              "A concept unrelated to writing",
+              "Ignoring the information completely",
+              "Restating it in your own words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When taking notes, should you usually write full sentences or key words and ideas?",
+            "options": [
+              "Full sentences only",
+              "Key words and ideas",
+              "A concept unrelated to note-taking",
+              "Nothing at all should be written"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to paraphrase rather than copy text directly when researching a topic?",
+            "options": [
+              "Copying text directly is always the preferred method for research",
+              "This concept has no connection to writing",
+              "It shows understanding of the material and avoids copying someone else’s exact words",
+              "Paraphrasing is never useful when researching a topic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of good note-taking?",
+            "options": [
+              "Writing nothing down at all",
+              "Writing short phrases like frogs: cold-blooded, live in water and land",
+              "Copying every single word from the textbook",
+              "Drawing only a picture with no words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might organized notes be especially helpful when writing a research report later?",
+            "options": [
+              "They make it easier to find and organize key information without searching the entire original source again",
+              "A research report can only ever be written without using any notes",
+              "Notes never help when writing a report",
+              "This concept has no connection to writing"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Volume of Composite Rectangular Figures",
+        "summary": "Grade 5 Math strand: to find the volume of a composite figure made of rectangular prisms, students break the shape into smaller rectangular prisms, find each volume, and add them together.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "To find the volume of a composite figure, what should you do first?",
+            "options": [
+              "Break it into smaller rectangular prisms",
+              "Ignore part of the shape entirely",
+              "A concept unrelated to volume",
+              "Multiply every measurement by ten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After finding the volume of each smaller prism in a composite figure, what should you do next?",
+            "options": [
+              "Multiply the volumes together",
+              "Subtract the volumes from each other",
+              "Add the volumes together",
+              "A concept unrelated to volume"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a composite figure is made of two rectangular prisms with volumes of 24 cubic cm and 18 cubic cm, what is the total volume?",
+            "options": [
+              "432 cubic cm",
+              "42 cubic cm",
+              "24 cubic cm",
+              "18 cubic cm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a composite figure is made of three prisms with volumes of 10, 15, and 5 cubic cm, what is the total volume?",
+            "options": [
+              "15 cubic cm",
+              "20 cubic cm",
+              "25 cubic cm",
+              "30 cubic cm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it helpful to break a composite figure into smaller, simpler shapes before finding its volume?",
+            "options": [
+              "This concept has no connection to geometry",
+              "Breaking a shape apart never helps with finding its volume",
+              "Composite figures can never actually be separated into smaller shapes",
+              "It is easier to calculate the volume of simple shapes and then combine the results"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Microorganisms: Bacteria, Viruses, and Fungi",
+        "summary": "Grade 5 Science strand: microorganisms, including bacteria, viruses, and fungi, are tiny living or non-living things, some of which can cause illness while others help with processes like decomposition and fermentation.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call tiny organisms, such as bacteria and fungi, that are often too small to see without a microscope?",
+            "options": [
+              "Microorganisms",
+              "Reptiles",
+              "Mammals",
+              "A concept unrelated to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one type of microorganism, such as bacteria.",
+            "options": [
+              "A dog",
+              "A bird",
+              "A concept unrelated to microorganisms",
+              "Bacteria"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can some microorganisms be helpful, such as by aiding in decomposition or fermentation?",
+            "options": [
+              "A concept unrelated to microorganisms",
+              "Microorganisms never have any function at all",
+              "No, all microorganisms are always harmful",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might some microorganisms, like certain bacteria and viruses, cause illness in humans?",
+            "options": [
+              "This concept has no relevance to science",
+              "Illness is never connected to microorganisms in any way",
+              "They can multiply inside the body and disrupt normal bodily functions",
+              "Microorganisms never cause any illness"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to understand that not all microorganisms are harmful?",
+            "options": [
+              "This concept has no connection to science",
+              "It helps recognize that many microorganisms play beneficial roles, like helping break down waste",
+              "All microorganisms behave in exactly the same harmful way",
+              "Understanding microorganisms never has any usefulness"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian National Holidays and Celebrations",
+        "summary": "Grade 5 Social Studies strand: Canada observes national holidays, such as Canada Day on July 1 and Remembrance Day on November 11, which mark important events and values in the country’s history.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "On what date is Canada Day celebrated?",
+            "options": [
+              "July 1",
+              "November 11",
+              "December 25",
+              "January 1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On what date is Remembrance Day observed in Canada?",
+            "options": [
+              "November 11",
+              "September 1",
+              "October 31",
+              "July 1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does Canada Day mark an important event in the country’s history?",
+            "options": [
+              "No, Canada Day has no historical significance",
+              "Canada Day is not an actual holiday",
+              "A concept unrelated to Canadian holidays",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Remembrance Day be an important day for many Canadians to observe?",
+            "options": [
+              "Remembrance Day has no meaning or purpose",
+              "Remembrance Day only celebrates a sports event",
+              "It honours the sacrifices of those who served in wars and conflicts",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might national holidays help bring people across a country together?",
+            "options": [
+              "National holidays never bring communities together in any way",
+              "This concept has no connection to Canadian identity",
+              "They give communities a shared occasion to reflect on or celebrate common history and values",
+              "Every Canadian celebrates each holiday in a completely different, unrelated way"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "label": "Day 100 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Figurative Language, Grammar, and Reading (Days 91-99)",
+        "summary": "Grade 5 Language strand review: students revisit similes, conjunctions, plot structure, elements of poetry, writing a myth or legend, synonyms and antonyms, protagonist and antagonist, capitalization rules, and note-taking and paraphrasing.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What do we call a comparison between two unlike things that uses the word like or as?",
+            "options": [
+              "A homophone",
+              "A concept unrelated to figurative language",
+              "A simile",
+              "A prefix"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a subordinating conjunction?",
+            "options": [
+              "But",
+              "Because",
+              "And",
+              "Or"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the term for the part of a story where the main conflict reaches its most intense point?",
+            "options": [
+              "The climax",
+              "The falling action",
+              "The resolution",
+              "The exposition"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a word that means the opposite of another word?",
+            "options": [
+              "A synonym",
+              "An antonym",
+              "A concept unrelated to vocabulary",
+              "A prefix"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the main character a story follows?",
+            "options": [
+              "A concept unrelated to reading",
+              "The protagonist",
+              "The setting",
+              "The antagonist"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Geometry, Number Sense, and Financial Literacy (Days 91-99)",
+        "summary": "Grade 5 Math strand review: students revisit classifying triangles and quadrilaterals, area of triangles and parallelograms, powers of ten, tree diagrams, surface area of triangular prisms, integers in real life, budgeting, and composite volume.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What do we call a triangle with all three sides equal in length?",
+            "options": [
+              "A scalene triangle",
+              "An equilateral triangle",
+              "A right triangle",
+              "An obtuse triangle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the formula for the area of a triangle?",
+            "options": [
+              "Base plus height",
+              "Base times height",
+              "One half of base times height",
+              "Base divided by height"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 45 multiplied by 100?",
+            "options": [
+              "450",
+              "4.5",
+              "4500",
+              "45000"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the temperature is 5 degrees below zero, how would this be written as an integer?",
+            "options": [
+              "-10",
+              "0",
+              "5",
+              "-5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To find the volume of a composite figure, what should you do first?",
+            "options": [
+              "Ignore part of the shape entirely",
+              "Break it into smaller rectangular prisms",
+              "Multiply every measurement by ten",
+              "A concept unrelated to volume"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Body Systems, Earth Science, and Life Science (Days 91-99)",
+        "summary": "Grade 5 Science strand review: students revisit the endocrine system, plate tectonics, kinetic and potential energy, the human ear, decomposers, why triangles are the strongest shape, camouflage, coral reefs, and microorganisms.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do we call the body system made up of glands that release hormones into the bloodstream?",
+            "options": [
+              "The digestive system",
+              "The skeletal system",
+              "The endocrine system",
+              "A concept unrelated to the body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the large sections of Earth’s crust that move very slowly over time?",
+            "options": [
+              "Ocean currents",
+              "Weather systems",
+              "Tectonic plates",
+              "A concept unrelated to Earth science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the energy of motion, such as a rolling ball has?",
+            "options": [
+              "Chemical energy",
+              "Kinetic energy",
+              "A concept unrelated to energy",
+              "Potential energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call organisms, such as fungi and bacteria, that break down dead plants and animals?",
+            "options": [
+              "Predators",
+              "Producers",
+              "A concept unrelated to ecosystems",
+              "Decomposers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tiny living organisms build coral reefs?",
+            "options": [
+              "Fish",
+              "Coral polyps",
+              "Whales",
+              "A concept unrelated to marine ecosystems"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Canadian Institutions, History, and Culture (Days 91-99)",
+        "summary": "Grade 5 Social Studies strand review: students revisit Canada’s music and film industry, provinces joining Confederation, the RCMP, division of powers, the Bank of Canada, universal health care, criminal versus civil law, the Group of Seven, and national holidays.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Which province was the last to join Confederation, in 1949?",
+            "options": [
+              "British Columbia",
+              "Manitoba",
+              "Prince Edward Island",
+              "Newfoundland"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Royal Canadian Marine Patrol",
+              "Royal Canadian Mounted Police",
+              "Regional Canadian Municipal Patrol",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the name of Canada’s central bank?",
+            "options": [
+              "A concept unrelated to Canadian government",
+              "A bank from a different country",
+              "A private company only",
+              "The Bank of Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of law deals with actions considered offences against society, such as theft?",
+            "options": [
+              "Civil law",
+              "Criminal law",
+              "A concept unrelated to the justice system",
+              "International law"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On what date is Canada Day celebrated?",
+            "options": [
+              "December 25",
+              "January 1",
+              "November 11",
+              "July 1"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]

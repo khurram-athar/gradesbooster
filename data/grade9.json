@@ -21904,5 +21904,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 91,
+    "label": "Day 91 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Allegory in Literature",
+        "summary": "Grade 9 Language strand: an allegory is a narrative in which characters, settings, and events symbolically represent deeper moral, political, or social meanings beyond the literal story.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is an allegory?",
+            "options": [
+              "A factual news report",
+              "A concept unrelated to reading",
+              "A narrative whose characters and events symbolically represent deeper meanings",
+              "A type of poem with no symbolic meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does an allegory operate on both a literal and a symbolic level at the same time?",
+            "options": [
+              "Symbolic meaning has no connection to allegory",
+              "Yes",
+              "No, an allegory only ever has one literal meaning",
+              "A concept unrelated to allegory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of an allegorical story?",
+            "options": [
+              "A weather report describing tomorrow’s forecast",
+              "A grocery list of items to buy",
+              "A textbook chapter on cell biology",
+              "A story where farm animals represent political leaders and social classes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author choose allegory instead of stating a message directly?",
+            "options": [
+              "This concept has no connection to literature",
+              "Allegories always state their message directly with no symbolism at all",
+              "It allows complex political or moral ideas to be explored indirectly through symbolic story elements",
+              "Allegory never allows an author to explore any idea indirectly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is recognizing allegory useful when analyzing classic literature?",
+            "options": [
+              "It reveals a deeper layer of commentary the author intends beyond the surface-level plot",
+              "Every story is an allegory with no distinction between literal and symbolic meaning",
+              "This concept has no relevance to reading comprehension",
+              "Allegory never adds any deeper meaning to a story"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Exponent Laws: Zero and Negative Exponents",
+        "summary": "Grade 9 Math strand: any nonzero base raised to the exponent zero equals 1, and a negative exponent indicates the reciprocal of the base raised to the corresponding positive exponent.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What does any nonzero number raised to the exponent zero equal?",
+            "options": [
+              "0",
+              "A concept unrelated to exponents",
+              "The base itself",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a negative exponent indicate the reciprocal of the base raised to the positive exponent?",
+            "options": [
+              "No, negative exponents never involve a reciprocal",
+              "A negative exponent always makes the result negative",
+              "Yes",
+              "A concept unrelated to negative exponents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the value of 5 to the power of 0?",
+            "options": [
+              "0",
+              "A concept unrelated to exponents",
+              "5",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the value of 2 to the power of negative 3?",
+            "options": [
+              "-8",
+              "1/8",
+              "8",
+              "-1/8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding zero and negative exponents useful when simplifying algebraic expressions?",
+            "options": [
+              "Zero and negative exponents never appear in algebraic expressions",
+              "It allows expressions with any integer exponent to be simplified consistently using the same exponent rules",
+              "This concept has no connection to math",
+              "Negative exponents always make an expression impossible to simplify"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Chemical vs Physical Changes: Identifying the Difference",
+        "summary": "Grade 9 Science strand: a physical change alters a substance’s form without changing its chemical composition, while a chemical change produces one or more new substances with different properties.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What happens to a substance’s chemical composition during a physical change?",
+            "options": [
+              "It is destroyed entirely",
+              "A concept unrelated to physical changes",
+              "It always changes completely",
+              "It stays the same"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a chemical change produce one or more new substances?",
+            "options": [
+              "No, chemical changes never produce any new substance",
+              "New substances only ever form during a physical change",
+              "Yes",
+              "A concept unrelated to chemical changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a chemical change?",
+            "options": [
+              "Cutting a sheet of paper in half",
+              "Melting an ice cube",
+              "Burning a piece of paper",
+              "Dissolving sugar in water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the rusting of iron considered a chemical change rather than a physical change?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "Rusting never changes the chemical composition of iron",
+              "Rust and iron are always exactly the same substance",
+              "Iron reacts with oxygen to form a new substance, iron oxide, with different properties"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful for scientists to distinguish between physical and chemical changes when studying a reaction?",
+            "options": [
+              "It helps identify whether a new substance has actually formed or whether the material has simply changed form",
+              "This concept has no relevance to science",
+              "Distinguishing between the two types of change never provides any useful information",
+              "Physical and chemical changes are always identical with no real difference"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Economic Geography: Special Economic Zones (SEZs)",
+        "summary": "Grade 9 Social Studies strand: a Special Economic Zone is a designated area within a country that offers reduced taxes and looser regulations to attract foreign investment and boost trade and manufacturing.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What is a Special Economic Zone?",
+            "options": [
+              "A region with no economic activity at all",
+              "A concept unrelated to geography",
+              "An area where all trade is banned",
+              "A designated area offering reduced taxes and looser regulations to attract investment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are Special Economic Zones often designed to attract foreign investment?",
+            "options": [
+              "A concept unrelated to economic geography",
+              "No, Special Economic Zones never attract any investment",
+              "Yes",
+              "Foreign investment has no connection to Special Economic Zones"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do Special Economic Zones typically offer reduced taxes compared to the rest of the country?",
+            "options": [
+              "Tax rates never differ between an SEZ and the rest of a country",
+              "Yes",
+              "A concept unrelated to Special Economic Zones",
+              "No, taxes are always higher inside a Special Economic Zone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country establish a Special Economic Zone near a major port?",
+            "options": [
+              "This concept has no connection to geography",
+              "Special Economic Zones are never located near ports or trade routes",
+              "Ports have no connection to how a Special Economic Zone functions",
+              "Proximity to a port can make it easier and cheaper to import materials and export manufactured goods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might critics raise concerns about labour conditions in some Special Economic Zones?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Special Economic Zones always have the strongest labour protections in a country",
+              "Labour conditions are never affected by regulatory differences in an SEZ",
+              "Looser regulations designed to attract business could sometimes result in weaker protections for workers"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "label": "Day 92 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Definition Essay",
+        "summary": "Grade 9 Language strand: a definition essay explores the meaning of a complex or abstract term in depth, often using examples, comparisons, and context to clarify what the term truly means.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What does a definition essay explore in depth?",
+            "options": [
+              "A step-by-step recipe",
+              "The meaning of a complex or abstract term",
+              "A weather forecast",
+              "A concept unrelated to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Might a definition essay use examples and comparisons to clarify a term’s meaning?",
+            "options": [
+              "Examples are never useful for defining a term",
+              "A concept unrelated to definition essays",
+              "No, definition essays never use examples",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these terms would be a strong subject for a definition essay?",
+            "options": [
+              "Courage",
+              "A grocery list",
+              "The number 7",
+              "A recipe for soup"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use a personal anecdote when writing a definition essay about a term like resilience?",
+            "options": [
+              "This concept has no connection to writing",
+              "Definition essays should never include any examples or stories",
+              "Personal anecdotes never help explain an abstract term",
+              "A real example can make an abstract concept more concrete and relatable for readers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can defining an abstract term like justice be more challenging than defining a concrete term like chair?",
+            "options": [
+              "Abstract terms always have exactly one universally agreed meaning",
+              "Concrete and abstract terms are always equally easy to define",
+              "Abstract terms can carry different meanings and interpretations depending on context and perspective",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Graphing Quadratic Functions in Vertex Form",
+        "summary": "Grade 9 Math strand: a quadratic function written in vertex form, y = a(x-h)^2 + k, reveals the vertex of the parabola at the point (h,k), making it easy to graph transformations directly.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "In vertex form, y = a(x-h)^2 + k, what point does (h,k) represent?",
+            "options": [
+              "The x-intercepts only",
+              "The y-intercept only",
+              "A concept unrelated to quadratics",
+              "The vertex of the parabola"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the value of a in vertex form affect whether a parabola opens upward or downward?",
+            "options": [
+              "A concept unrelated to vertex form",
+              "A parabola always opens upward no matter the value of a",
+              "Yes",
+              "No, the value of a never affects the direction a parabola opens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the vertex of the parabola y = (x-3)^2 + 4?",
+            "options": [
+              "(-3, 4)",
+              "(3, 4)",
+              "(4, 3)",
+              "(3, -4)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a is negative in vertex form, which direction does the parabola open?",
+            "options": [
+              "Sideways",
+              "A concept unrelated to vertex form",
+              "Upward",
+              "Downward"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is vertex form useful for quickly graphing a quadratic function compared to standard form?",
+            "options": [
+              "Standard form and vertex form always require exactly the same amount of work to graph",
+              "Vertex form never makes graphing a parabola any easier",
+              "It directly shows the vertex coordinates, making it easier to plot the parabola’s key point right away",
+              "This concept has no connection to math"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Law of Conservation of Mass",
+        "summary": "Grade 9 Science strand: the law of conservation of mass states that mass is neither created nor destroyed in a chemical reaction, so the total mass of reactants equals the total mass of products.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What does the law of conservation of mass state?",
+            "options": [
+              "Mass is neither created nor destroyed in a chemical reaction",
+              "A concept unrelated to chemistry",
+              "Mass always increases during a chemical reaction",
+              "Mass always disappears completely during a reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Should the total mass of reactants equal the total mass of products in a chemical reaction?",
+            "options": [
+              "Yes",
+              "A concept unrelated to conservation of mass",
+              "No, the mass of products is always different from reactants",
+              "Mass is never conserved in any chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 10 grams of reactants are used in a closed chemical reaction, what should the total mass of products equal?",
+            "options": [
+              "0 grams",
+              "20 grams",
+              "10 grams",
+              "5 grams"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a reaction that produces gas appear to lose mass if conducted in an open container?",
+            "options": [
+              "Gas produced in a reaction never actually has any mass",
+              "This concept has no connection to conservation of mass",
+              "Mass is only conserved in reactions that happen in an open container",
+              "The gas produced can escape into the air, so its mass is no longer measured within the container"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the law of conservation of mass important when balancing chemical equations?",
+            "options": [
+              "Balancing equations has no connection to the conservation of mass",
+              "Chemical equations never need to account for the mass of atoms involved",
+              "It ensures the same number of atoms of each element appears on both sides of the equation",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Geography of Border Walls and Migration Control",
+        "summary": "Grade 9 Social Studies strand: countries sometimes construct physical border walls or barriers to control the movement of people and goods, raising geographic questions about security, economics, and human rights.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What is one reason a country might construct a physical border wall?",
+            "options": [
+              "A concept unrelated to geography",
+              "To increase tourism in a neighbouring country",
+              "To control the movement of people and goods across a border",
+              "To eliminate the need for any border at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do border walls raise questions about security, economics, and human rights?",
+            "options": [
+              "No, border walls raise no questions of any kind",
+              "Human rights have no connection to border policy",
+              "A concept unrelated to border geography",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can the geography of a border, such as mountains or rivers, affect where a wall or barrier is built?",
+            "options": [
+              "A concept unrelated to border walls",
+              "No, geography never affects where a border barrier is placed",
+              "Every border barrier is built in a perfectly flat, identical landscape",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might building a border wall across a natural landscape, like a desert or forest, create environmental concerns?",
+            "options": [
+              "It can disrupt wildlife migration routes and fragment natural ecosystems",
+              "Wildlife is never affected by human-made structures at a border",
+              "Border walls never have any effect on the surrounding environment",
+              "This concept has no connection to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do geographers study the economic impact of border walls on communities living near a boundary?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Restricted movement can affect trade, jobs, and daily life for people living in border communities",
+              "Communities near a border are never affected by changes in border policy",
+              "Border walls never have any economic effect on nearby communities"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "label": "Day 93 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Gerunds, Infinitives, and Verbals",
+        "summary": "Grade 9 Language strand: a verbal is a word formed from a verb that functions as another part of speech, including gerunds (verb + ing acting as a noun) and infinitives (to + verb acting as a noun, adjective, or adverb).",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is a verbal?",
+            "options": [
+              "A concept unrelated to grammar",
+              "A word formed from a verb that functions as another part of speech",
+              "A word that can never be formed from a verb",
+              "A punctuation mark used at the end of a sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a gerund typically end in the letters -ing and function as a noun?",
+            "options": [
+              "A gerund always functions as a verb, never as a noun",
+              "A concept unrelated to gerunds",
+              "Yes",
+              "No, a gerund never ends in -ing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence Swimming is my favourite hobby, which word is the gerund?",
+            "options": [
+              "Favourite",
+              "Is",
+              "Swimming",
+              "Hobby"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence She wants to travel next summer, which words form the infinitive?",
+            "options": [
+              "She wants",
+              "Next summer",
+              "To travel",
+              "Wants to"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding verbals like gerunds and infinitives useful for writing varied, sophisticated sentences?",
+            "options": [
+              "This concept has no connection to grammar",
+              "Verbals never add any variety to a sentence",
+              "Every sentence must use a verbal in exactly the same way",
+              "It allows a writer to use verb forms flexibly as nouns, adjectives, or adverbs for greater sentence variety"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measures of Central Tendency: Mean, Median, and Mode",
+        "summary": "Grade 9 Math strand: mean, median, and mode are three measures of central tendency used to describe the typical or central value of a data set, each useful in different situations.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What are mean, median, and mode examples of?",
+            "options": [
+              "A concept unrelated to statistics",
+              "Measures of central tendency",
+              "Measures of angle size",
+              "Measures of area only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the mean of a data set calculated by adding all values and dividing by the number of values?",
+            "options": [
+              "Yes",
+              "A concept unrelated to the mean",
+              "No, the mean is never calculated this way",
+              "The mean is always the largest value in a data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the median of the data set 3, 7, 9, 12, 15?",
+            "options": [
+              "12",
+              "9",
+              "7",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the mode of the data set 2, 4, 4, 6, 8?",
+            "options": [
+              "8",
+              "6",
+              "4",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the median be a more useful measure than the mean for a data set with an extreme outlier?",
+            "options": [
+              "The median is not affected by extreme values the way the mean can be, giving a more typical picture of the data",
+              "The median is always affected more by outliers than the mean",
+              "This concept has no connection to statistics",
+              "Outliers never affect any measure of central tendency"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Taxonomy and Classification of Living Things",
+        "summary": "Grade 9 Science strand: taxonomy is the scientific system for classifying living things into a hierarchy of groups, from broad categories like kingdom down to specific species, based on shared characteristics.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What is taxonomy?",
+            "options": [
+              "A concept unrelated to biology",
+              "A method for measuring the speed of chemical reactions",
+              "The scientific system for classifying living things into groups",
+              "A system for naming rock formations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does taxonomy classify living things based on shared characteristics?",
+            "options": [
+              "Yes",
+              "Shared characteristics have no connection to classification",
+              "A concept unrelated to taxonomy",
+              "No, taxonomy classifies living things completely randomly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is the broadest, most general level in the taxonomic hierarchy?",
+            "options": [
+              "Family",
+              "Genus",
+              "Species",
+              "Kingdom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might two organisms be placed in the same genus but different species?",
+            "options": [
+              "They may share many characteristics but still have enough differences to be considered distinct species",
+              "This concept has no connection to taxonomy",
+              "Genus and species always refer to exactly the same classification level",
+              "Organisms in the same genus are always identical with no differences at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a standardized taxonomic classification system useful for scientists around the world?",
+            "options": [
+              "A standardized classification system provides no benefit to scientific communication",
+              "It allows scientists from different countries and languages to consistently identify and communicate about the same organism",
+              "Every scientist uses a completely different, incompatible naming system",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Urban Gentrification and Neighbourhood Change",
+        "summary": "Grade 9 Social Studies strand: gentrification is a process in which rising property values and new investment in a lower-income urban neighbourhood attract wealthier residents, often displacing long-time residents.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What is gentrification?",
+            "options": [
+              "A process that always lowers property values in a neighbourhood",
+              "A government policy that bans any new construction",
+              "A concept unrelated to geography",
+              "A process where rising property values and investment attract wealthier residents to a lower-income neighbourhood"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can gentrification sometimes lead to the displacement of long-time residents?",
+            "options": [
+              "No, gentrification never displaces any residents",
+              "Long-time residents are never affected by rising property values",
+              "Yes",
+              "A concept unrelated to gentrification"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does gentrification typically involve new investment flowing into a neighbourhood?",
+            "options": [
+              "A concept unrelated to gentrification",
+              "Yes",
+              "Investment has no connection to gentrification",
+              "No, gentrification always involves less investment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might long-time, lower-income residents struggle to remain in a gentrifying neighbourhood?",
+            "options": [
+              "Rising rents and property taxes driven by new investment can make housing unaffordable for them",
+              "Gentrification always makes housing cheaper for existing residents",
+              "Rent and property taxes never change as a neighbourhood gentrifies",
+              "This concept has no connection to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is gentrification considered a complex geographic and social issue?",
+            "options": [
+              "Every resident of a gentrifying neighbourhood is affected in exactly the same way",
+              "It can bring new investment and amenities while also raising concerns about fairness and displacement of existing communities",
+              "Gentrification has no positive or negative effects of any kind",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "label": "Day 94 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Euphemism and Doublespeak",
+        "summary": "Grade 9 Language strand: a euphemism is a mild or indirect word used in place of a harsher or blunter one, while doublespeak intentionally uses vague or misleading language to obscure an unpleasant truth.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is a euphemism?",
+            "options": [
+              "A mild or indirect word used in place of a harsher one",
+              "A type of punctuation mark",
+              "A word that always makes something sound more shocking",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does doublespeak intentionally use vague or misleading language?",
+            "options": [
+              "No, doublespeak is always perfectly clear and direct",
+              "Doublespeak has no connection to language at all",
+              "A concept unrelated to doublespeak",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these phrases is an example of a euphemism for being fired from a job?",
+            "options": [
+              "Promoted to manager",
+              "Given a raise",
+              "Let go",
+              "Hired full-time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a company use doublespeak, like calling layoffs a rightsizing initiative, in an official announcement?",
+            "options": [
+              "Doublespeak never changes how an announcement is perceived",
+              "Rightsizing initiative is always a completely literal, transparent phrase",
+              "It can soften or obscure an unpleasant truth to make it sound less negative to the audience",
+              "This concept has no connection to vocabulary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for readers to recognize euphemism and doublespeak in media and political language?",
+            "options": [
+              "This concept has no relevance to vocabulary study",
+              "Recognizing these techniques helps readers understand the true meaning behind carefully chosen words",
+              "Euphemism and doublespeak never affect how a message is understood",
+              "Every word in the English language carries exactly one meaning with no nuance"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Understanding Income Tax Basics",
+        "summary": "Grade 9 Math strand: income tax is a percentage of a person’s earnings paid to the government, often calculated using a progressive system where higher portions of income are taxed at higher rates.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What is income tax?",
+            "options": [
+              "A fee charged only when purchasing groceries",
+              "A percentage of a person’s earnings paid to the government",
+              "A one-time payment made only once in a lifetime",
+              "A concept unrelated to financial literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a progressive tax system, do higher portions of income get taxed at higher rates?",
+            "options": [
+              "No, every portion of income is always taxed at exactly the same rate",
+              "A concept unrelated to progressive taxation",
+              "Higher income is always taxed at a lower rate than lower income",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a person earns 40000 dollars and pays 15 percent in income tax, roughly how much tax do they owe?",
+            "options": [
+              "6000 dollars",
+              "4000 dollars",
+              "15000 dollars",
+              "400 dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might understanding your gross income versus your net (after-tax) income be important when creating a budget?",
+            "options": [
+              "Net income reflects the actual amount available to spend after taxes are deducted",
+              "Gross and net income always refer to the exact same amount",
+              "This concept has no connection to financial literacy",
+              "Taxes never affect how much money a person actually receives"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding how income tax works useful for planning personal finances as a young adult?",
+            "options": [
+              "Income tax never has any effect on how much money a person can spend",
+              "This concept has no connection to financial literacy",
+              "Every person pays the exact same fixed amount of tax regardless of income",
+              "It helps a person accurately estimate how much of their earnings they will actually take home to spend or save"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Series and Parallel Circuits",
+        "summary": "Grade 9 Science strand: in a series circuit, components are connected along a single path so current flows through each in turn, while in a parallel circuit, components are connected along multiple paths, each with the same voltage.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "In a series circuit, are components connected along a single path?",
+            "options": [
+              "A series circuit has no path for current at all",
+              "No, series circuits always have multiple separate paths",
+              "A concept unrelated to circuits",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a parallel circuit, do components each receive the same voltage?",
+            "options": [
+              "A concept unrelated to parallel circuits",
+              "No, voltage is never the same across components in a parallel circuit",
+              "Parallel circuits never allow current to flow through more than one path",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If one light bulb burns out in a series circuit, what typically happens to the other bulbs?",
+            "options": [
+              "They also stop working, since the single path is broken",
+              "They continue working normally with no change at all",
+              "A concept unrelated to series circuits",
+              "They immediately become brighter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do most household electrical outlets use parallel circuits rather than series circuits?",
+            "options": [
+              "This concept has no connection to circuits",
+              "Parallel circuits allow each device to operate independently, so one device turning off does not affect the others",
+              "Parallel circuits always cause every device in a home to stop working together",
+              "Series circuits are always used in household wiring instead of parallel circuits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding the difference between series and parallel circuits important for designing electrical systems?",
+            "options": [
+              "The type of circuit used never has any effect on how a device functions",
+              "Series and parallel circuits always behave in exactly the same way",
+              "This concept has no relevance to science",
+              "It helps engineers choose the right circuit type based on how components should function independently or together"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Geography of Critical Mineral Mining for Batteries and EVs",
+        "summary": "Grade 9 Social Studies strand: critical minerals such as lithium and cobalt are essential for manufacturing batteries used in electric vehicles, and their mining is concentrated in specific regions of the world, raising geographic and economic questions.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "Name one critical mineral used in manufacturing electric vehicle batteries.",
+            "options": [
+              "A concept unrelated to critical minerals",
+              "Lithium",
+              "Oxygen",
+              "Table salt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the mining of critical minerals like lithium and cobalt concentrated in specific regions of the world?",
+            "options": [
+              "Yes",
+              "A concept unrelated to critical mineral geography",
+              "Mining location has no connection to critical minerals",
+              "No, critical minerals are mined evenly across every country in the world"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Are critical minerals essential for manufacturing batteries used in electric vehicles?",
+            "options": [
+              "A concept unrelated to critical minerals",
+              "Yes",
+              "No, electric vehicle batteries require no critical minerals at all",
+              "Electric vehicles never use any type of battery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country with large deposits of critical minerals gain significant economic and geopolitical influence?",
+            "options": [
+              "Countries with critical mineral deposits never gain any economic advantage from them",
+              "Critical minerals have no connection to global battery production",
+              "Global demand for battery technology creates strong reliance on countries that supply these essential minerals",
+              "This concept has no connection to geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the mining of critical minerals raise environmental and social concerns in some regions?",
+            "options": [
+              "Extraction sites are always located far from any ecosystem or community",
+              "This concept has no relevance to social studies",
+              "Mining critical minerals never has any environmental or social impact",
+              "Mining operations can disrupt local ecosystems and communities near extraction sites"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "label": "Day 95 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Allusion in Literature",
+        "summary": "Grade 9 Language strand: an allusion is a brief, indirect reference to a person, event, or work from history, mythology, or another text, adding layers of meaning for readers who recognize the connection.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A detailed, direct explanation of a topic",
+              "A concept unrelated to reading",
+              "A brief, indirect reference to a person, event, or work from history or another text",
+              "A type of punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can recognizing an allusion add layers of meaning to a reader’s understanding of a text?",
+            "options": [
+              "Yes",
+              "No, recognizing an allusion never adds any meaning",
+              "Allusions never connect to anything outside the text itself",
+              "A concept unrelated to allusion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these sentences contains an allusion to Greek mythology?",
+            "options": [
+              "She walked quickly to the store.",
+              "The weather was cold and rainy.",
+              "His pride was his Achilles’ heel.",
+              "He ate breakfast before school."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use an allusion to a well-known historical event instead of explaining the idea in full detail?",
+            "options": [
+              "It can efficiently convey complex meaning by relying on a reader’s existing knowledge",
+              "Allusions never help an author communicate an idea efficiently",
+              "This concept has no connection to literature",
+              "Allusions always require lengthy additional explanation to be understood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a reader unfamiliar with the Bible or Greek mythology miss the full meaning of certain allusions in classic literature?",
+            "options": [
+              "Understanding an allusion depends on recognizing the reference it is drawing from",
+              "Allusions never depend on any outside knowledge to be understood",
+              "This concept has no relevance to reading comprehension",
+              "Every reader automatically understands every allusion regardless of their background knowledge"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Trigonometry: Angle of Elevation and Depression",
+        "summary": "Grade 9 Math strand: the angle of elevation is the angle measured upward from a horizontal line to an object, while the angle of depression is measured downward, both used to solve real-world trigonometry problems.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What is the angle of elevation measured from?",
+            "options": [
+              "A vertical line downward to an object",
+              "A horizontal line upward to an object",
+              "A concept unrelated to trigonometry",
+              "The ground directly below an object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the angle of depression measured downward from a horizontal line?",
+            "options": [
+              "A concept unrelated to angle of depression",
+              "Yes",
+              "The angle of depression has no connection to horizontal lines",
+              "No, the angle of depression is always measured upward"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a person looks up at a bird flying above them, are they measuring an angle of elevation or depression?",
+            "options": [
+              "Neither type of angle",
+              "Angle of elevation",
+              "A concept unrelated to trigonometry",
+              "Angle of depression"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a person standing on a cliff looks down at a boat in the water, are they measuring an angle of elevation or depression?",
+            "options": [
+              "Neither type of angle",
+              "Angle of depression",
+              "Angle of elevation",
+              "A concept unrelated to trigonometry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are angle of elevation and depression problems useful for calculating the height of a tall object, like a building?",
+            "options": [
+              "These angles are never useful for calculating height or distance",
+              "This concept has no connection to math",
+              "Height can only ever be measured with a direct physical measurement, never trigonometry",
+              "They allow trigonometric ratios to be used to find an unknown height or distance using a known angle and distance"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Biodiversity and Ecosystem Stability",
+        "summary": "Grade 9 Science strand: biodiversity refers to the variety of species within an ecosystem, and higher biodiversity generally makes an ecosystem more resilient and stable in the face of environmental change.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What does biodiversity refer to?",
+            "options": [
+              "A concept unrelated to biology",
+              "The total number of rocks in an ecosystem",
+              "The average temperature of an ecosystem",
+              "The variety of species within an ecosystem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does higher biodiversity generally make an ecosystem more resilient to environmental change?",
+            "options": [
+              "Yes",
+              "A concept unrelated to biodiversity",
+              "Higher biodiversity always makes an ecosystem less stable",
+              "No, biodiversity never affects an ecosystem’s resilience"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a forest has many different species of plants, animals, and insects, is it considered to have high or low biodiversity?",
+            "options": [
+              "Low biodiversity",
+              "A concept unrelated to biodiversity",
+              "No biodiversity at all",
+              "High biodiversity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an ecosystem with low biodiversity be more vulnerable to collapse if one species disappears?",
+            "options": [
+              "This concept has no connection to biodiversity",
+              "Low biodiversity always makes an ecosystem more stable and resilient",
+              "Fewer species means the ecosystem may rely heavily on a small number of species to maintain balance",
+              "The number of species in an ecosystem never affects its stability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do conservationists prioritize protecting areas with high biodiversity, such as rainforests?",
+            "options": [
+              "High biodiversity areas provide no ecological benefit worth protecting",
+              "This concept has no relevance to science",
+              "Every ecosystem in the world has exactly the same level of biodiversity",
+              "These areas support a wide range of species and ecological functions that are difficult to replace once lost"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Geography of Data Centres and Cloud Computing Infrastructure",
+        "summary": "Grade 9 Social Studies strand: data centres are large facilities that store and process the world’s digital information, and their physical location is influenced by factors like climate, energy availability, and internet connectivity.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What do data centres store and process?",
+            "options": [
+              "Only physical paper documents",
+              "The world’s digital information",
+              "A concept unrelated to geography",
+              "Only handwritten letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can climate influence where a data centre is built?",
+            "options": [
+              "No, climate has no connection to data centre location",
+              "A concept unrelated to data centre geography",
+              "Yes",
+              "Every data centre is built in exactly the same climate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does energy availability play a role in choosing a location for a data centre?",
+            "options": [
+              "Yes",
+              "Energy availability has no connection to geography",
+              "No, data centres require no energy at all",
+              "A concept unrelated to data centres"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a data centre be built in a region with a naturally cool climate?",
+            "options": [
+              "This concept has no connection to geography",
+              "Data centres never generate any heat that needs to be managed",
+              "Cooler temperatures can reduce the energy needed to keep servers from overheating",
+              "A cool climate has no effect on how much energy a data centre uses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is reliable internet connectivity an important geographic factor when selecting a location for a data centre?",
+            "options": [
+              "Internet connectivity never affects how well a data centre can operate",
+              "Data centres need fast, stable connections to transmit information efficiently to users around the world",
+              "Data centres can function perfectly without any internet connection at all",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "label": "Day 96 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Scene: Dialogue and Stage Directions",
+        "summary": "Grade 9 Language strand: writing a scene for a play or script requires realistic dialogue and clear stage directions that tell actors how to move, speak, or express emotion.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What do stage directions tell actors?",
+            "options": [
+              "How to move, speak, or express emotion",
+              "What the audience should eat during the show",
+              "A concept unrelated to writing",
+              "The exact ticket price for the performance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a well-written scene typically include both dialogue and stage directions?",
+            "options": [
+              "Dialogue is never included in a script",
+              "No, scenes never include stage directions",
+              "A concept unrelated to script writing",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a stage direction?",
+            "options": [
+              "Once upon a time, in a small village.",
+              "The chemical formula for water is H2O.",
+              "(She crosses the room and slams the door.)",
+              "I cannot believe you did that!"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for dialogue in a scene to sound realistic and natural?",
+            "options": [
+              "Realistic dialogue helps an audience believe in the characters and become engaged in the story",
+              "This concept has no connection to writing",
+              "Dialogue never needs to sound realistic to be effective",
+              "Audiences are never affected by how dialogue sounds in a scene"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a playwright use stage directions sparingly, allowing actors some room for interpretation?",
+            "options": [
+              "It gives actors creative freedom to bring their own choices to a performance",
+              "Stage directions must always describe every single movement in exact detail",
+              "This concept has no connection to writing",
+              "Actors are never allowed to make any of their own creative choices"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Converting Between Forms of a Linear Equation",
+        "summary": "Grade 9 Math strand: a linear equation can be written in slope-intercept form (y = mx + b), standard form (Ax + By = C), or point-slope form, and converting between these forms uses algebraic manipulation.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "In slope-intercept form, y = mx + b, what does the value of b represent?",
+            "options": [
+              "A concept unrelated to linear equations",
+              "The y-intercept",
+              "The slope of the line",
+              "The x-intercept"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In slope-intercept form, does the value of m represent the slope of the line?",
+            "options": [
+              "A concept unrelated to slope-intercept form",
+              "Yes",
+              "The slope is always represented by b, not m",
+              "No, m never represents the slope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the slope-intercept form of the equation 2x + y = 8?",
+            "options": [
+              "y = 2x - 8",
+              "y = -2x + 8",
+              "y = -2x - 8",
+              "y = 2x + 8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the y-intercept of the line y = 3x - 5?",
+            "options": [
+              "5",
+              "3",
+              "-5",
+              "-3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might converting a linear equation from standard form to slope-intercept form be useful when graphing?",
+            "options": [
+              "Slope-intercept form directly shows the slope and y-intercept, making it easier to plot the line",
+              "This concept has no connection to math",
+              "Converting between forms never makes graphing a line any easier",
+              "Standard form and slope-intercept form always require the exact same steps to graph"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Earthquakes and Seismic Waves",
+        "summary": "Grade 9 Science strand: an earthquake occurs when built-up stress along a fault line is suddenly released, generating seismic waves that travel through the Earth and are measured using instruments like seismographs.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What causes an earthquake?",
+            "options": [
+              "A sudden increase in ocean temperature",
+              "A concept unrelated to earth science",
+              "The moon passing in front of the sun",
+              "Built-up stress along a fault line being suddenly released"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do seismic waves travel through the Earth during an earthquake?",
+            "options": [
+              "No, seismic waves never travel through the Earth",
+              "A concept unrelated to earthquakes",
+              "Yes",
+              "Earthquakes never produce any type of wave"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What instrument is used to measure seismic waves during an earthquake?",
+            "options": [
+              "A concept unrelated to earthquakes",
+              "A thermometer",
+              "A seismograph",
+              "A barometer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do earthquakes often occur along fault lines near tectonic plate boundaries?",
+            "options": [
+              "This concept has no connection to earthquakes",
+              "Fault lines never experience any buildup of geological stress",
+              "Tectonic plate boundaries never generate any earthquakes",
+              "Stress builds up as tectonic plates push, pull, or slide against each other at these boundaries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is studying seismic waves useful for scientists trying to understand the Earth’s interior structure?",
+            "options": [
+              "This concept has no relevance to science",
+              "The way seismic waves travel and change speed through different materials reveals information about the layers beneath the surface",
+              "The Earth’s interior structure has already been fully mapped with no further study needed",
+              "Seismic waves never provide any information about the Earth’s interior"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Urban Agriculture and Vertical Farming",
+        "summary": "Grade 9 Social Studies strand: urban agriculture involves growing food within city environments, including vertical farms that stack crops in layers to maximize food production in limited urban space.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does urban agriculture involve?",
+            "options": [
+              "Growing food only in remote rural areas",
+              "Growing food within city environments",
+              "Building shopping malls in cities",
+              "A concept unrelated to geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do vertical farms stack crops in layers to maximize food production?",
+            "options": [
+              "A concept unrelated to vertical farming",
+              "Vertical farms only ever grow crops underground",
+              "No, vertical farms never stack crops in layers",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is limited space a challenge that urban agriculture and vertical farming aim to address?",
+            "options": [
+              "No, cities always have unlimited space for traditional farming",
+              "Yes",
+              "A concept unrelated to urban agriculture",
+              "Space availability has no connection to urban agriculture"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might vertical farming be an appealing solution for growing food in a densely populated city?",
+            "options": [
+              "It allows more food to be grown within a small physical footprint by using vertical space efficiently",
+              "Cities never face any challenges related to growing or accessing food",
+              "This concept has no connection to geography",
+              "Vertical farming always requires more land than traditional farming"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might urban agriculture help reduce the distance food travels from farm to consumer?",
+            "options": [
+              "Growing food directly within a city can shorten the transportation distance compared to importing from distant rural farms",
+              "Urban agriculture always increases the distance food must travel",
+              "This concept has no relevance to social studies",
+              "Food transportation distance never has any connection to where it is grown"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "label": "Day 97 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Memes and Internet Culture",
+        "summary": "Grade 9 Language strand: memes spread ideas, humour, or commentary through images, text, or videos that are rapidly shared and remixed online, making them a powerful and fast-evolving form of media communication.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What do memes typically spread through images, text, or video?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Only formal academic research",
+              "Only official government announcements",
+              "Ideas, humour, or commentary"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are memes often rapidly shared and remixed online?",
+            "options": [
+              "Memes only exist in printed newspapers",
+              "No, memes are never shared or remixed",
+              "A concept unrelated to memes",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best describes a meme?",
+            "options": [
+              "A humorous image with text that is widely shared and often remixed online",
+              "A lengthy academic research paper",
+              "A formal legal document",
+              "A weather forecast report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a meme be an effective way to spread a political or social message quickly?",
+            "options": [
+              "This concept has no connection to media literacy",
+              "Memes are never used to communicate any kind of message",
+              "Its simple, humorous format can be easily understood and shared widely across social media",
+              "Memes always take a long time to understand and share"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to think critically about the message or bias behind a meme before sharing it?",
+            "options": [
+              "Memes can spread misinformation or oversimplify complex issues despite their casual, humorous tone",
+              "This concept has no relevance to media literacy",
+              "Every meme is always completely accurate and unbiased",
+              "Memes never contain any bias or misleading information"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Independent and Dependent Events",
+        "summary": "Grade 9 Math strand: two events are independent if the outcome of one does not affect the other, while events are dependent if the outcome of one event changes the probability of the other.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean for two events to be independent?",
+            "options": [
+              "A concept unrelated to probability",
+              "The outcome of one event does not affect the other",
+              "The outcome of one event always determines the other",
+              "Independent events can never both occur"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the outcome of one dependent event change the probability of the other event occurring?",
+            "options": [
+              "Yes",
+              "Dependent events are always identical to independent events",
+              "A concept unrelated to dependent events",
+              "No, dependent events never affect each other’s probability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is flipping a coin twice in a row an example of independent or dependent events?",
+            "options": [
+              "Independent events",
+              "A concept unrelated to probability",
+              "Dependent events",
+              "Neither type of event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is drawing two cards from a deck without replacing the first card an example of independent or dependent events?",
+            "options": [
+              "Neither type of event",
+              "Independent events",
+              "A concept unrelated to probability",
+              "Dependent events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to determine whether events are independent or dependent before calculating their combined probability?",
+            "options": [
+              "Whether events are independent or dependent never affects how probability is calculated",
+              "Independent and dependent events are always calculated using the exact same method",
+              "The correct method for calculating combined probability differs depending on whether events affect one another",
+              "This concept has no connection to math"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Genetically Modified Organisms in Agriculture",
+        "summary": "Grade 9 Science strand: a genetically modified organism (GMO) has had its DNA altered using biotechnology, often to increase crop yield, resist pests, or improve nutritional content in agriculture.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What is a genetically modified organism?",
+            "options": [
+              "An organism found only in the ocean",
+              "An organism that has had its DNA altered using biotechnology",
+              "An organism that has never had any change to its DNA",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are GMO crops sometimes modified to resist pests?",
+            "options": [
+              "Yes",
+              "No, GMO crops are never modified to resist pests",
+              "A concept unrelated to genetically modified organisms",
+              "Pest resistance has no connection to genetic modification"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can genetic modification be used to improve the nutritional content of a crop?",
+            "options": [
+              "A concept unrelated to GMOs",
+              "Yes",
+              "No, genetic modification never affects nutritional content",
+              "Nutritional content is never connected to a crop’s genetics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a farmer choose to plant a genetically modified crop that is resistant to a specific pest?",
+            "options": [
+              "It could reduce crop loss and the need for certain pesticides",
+              "GMO crops always require significantly more pesticide use",
+              "Pest resistance has no effect on a farmer’s crop yield",
+              "This concept has no connection to agriculture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do GMOs remain a topic of ongoing public debate and scientific research?",
+            "options": [
+              "This concept has no relevance to science",
+              "Every question about GMOs has already been completely and permanently resolved",
+              "GMOs have no connection to any public debate or scientific research",
+              "Questions about long-term environmental effects, food safety, and ethics continue to be studied and discussed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Geography of Air Pollution and Smog in Cities",
+        "summary": "Grade 9 Social Studies strand: air pollution and smog often accumulate in cities due to vehicle emissions, industrial activity, and geographic factors like surrounding mountains that trap polluted air.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "Name one source of air pollution in a city, such as vehicle emissions.",
+            "options": [
+              "A concept unrelated to air pollution",
+              "Fresh mountain air",
+              "Vehicle emissions",
+              "Rainfall"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can geographic factors, such as surrounding mountains, contribute to trapping polluted air in a city?",
+            "options": [
+              "Yes",
+              "No, geography never affects how air pollution accumulates",
+              "A concept unrelated to air pollution geography",
+              "Mountains always disperse polluted air instantly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is industrial activity a common contributor to air pollution in urban areas?",
+            "options": [
+              "Industrial activity always improves air quality",
+              "No, industrial activity has no connection to air pollution",
+              "A concept unrelated to urban air pollution",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a city located in a valley surrounded by mountains experience worse smog than a city on an open plain?",
+            "options": [
+              "Surrounding mountains can trap polluted air, preventing it from dispersing as easily",
+              "Mountains never have any effect on how air pollution spreads or settles",
+              "This concept has no connection to geography",
+              "Valleys always have better air quality than open plains"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding the geographic causes of smog important for city planners trying to improve air quality?",
+            "options": [
+              "Every city experiences air pollution in exactly the same way regardless of geography",
+              "It helps identify effective strategies, such as regulating traffic or industry, based on local geographic conditions",
+              "This concept has no relevance to social studies",
+              "Geographic causes of smog never provide any useful information for city planning"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "label": "Day 98 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Cohesion and Transitional Phrases",
+        "summary": "Grade 9 Language strand: cohesion refers to how smoothly ideas connect within and between paragraphs, often achieved through transitional phrases like however, therefore, and in addition.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What does cohesion refer to in writing?",
+            "options": [
+              "The font size used in a document",
+              "The exact number of words in a sentence",
+              "A concept unrelated to grammar",
+              "How smoothly ideas connect within and between paragraphs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can transitional phrases like however and therefore help create cohesion in writing?",
+            "options": [
+              "Cohesion has no connection to transitional phrases",
+              "A concept unrelated to cohesion",
+              "Yes",
+              "No, transitional phrases never help connect ideas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these words could be used as a transitional phrase to show contrast between two ideas?",
+            "options": [
+              "However",
+              "Additionally",
+              "Also",
+              "And"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer add the transitional phrase therefore before a conclusion in a paragraph?",
+            "options": [
+              "Therefore never signals any kind of logical connection between ideas",
+              "This concept has no connection to grammar",
+              "It signals to the reader that a logical conclusion follows from the previous evidence or reasoning",
+              "Transitional phrases always confuse readers rather than helping them"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is strong cohesion important for helping a reader follow an essay’s argument from paragraph to paragraph?",
+            "options": [
+              "It creates a clear, logical flow that helps the reader understand how ideas relate to one another",
+              "This concept has no relevance to writing",
+              "Paragraphs never need to connect logically to one another",
+              "Cohesion never affects how easily a reader can follow an argument"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Interval Notation and Number Lines",
+        "summary": "Grade 9 Math strand: interval notation is a concise way to represent a range of values on a number line, using brackets to show whether endpoints are included or excluded from the set.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What does interval notation represent?",
+            "options": [
+              "A concept unrelated to math",
+              "A single, exact numerical value",
+              "The angle measure of a triangle",
+              "A range of values on a number line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In interval notation, does a square bracket indicate that an endpoint is included in the set?",
+            "options": [
+              "Yes",
+              "A concept unrelated to interval notation",
+              "No, a square bracket always indicates an endpoint is excluded",
+              "Brackets have no connection to whether an endpoint is included"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the interval notation (2, 5] represent?",
+            "options": [
+              "All numbers less than 2 and greater than 5",
+              "All numbers greater than 2 and up to and including 5",
+              "All numbers greater than or equal to 2 and less than 5",
+              "Only the numbers 2 and 5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which type of bracket is used in interval notation to show that an endpoint is excluded from the set?",
+            "options": [
+              "A concept unrelated to interval notation",
+              "A round parenthesis",
+              "A curly brace",
+              "A square bracket"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is interval notation useful for describing the solution to an inequality, such as x is greater than 3?",
+            "options": [
+              "Interval notation never helps represent the solution to an inequality",
+              "This concept has no connection to math",
+              "It provides a clear, standardized way to represent a continuous range of solutions",
+              "Inequalities can never be represented using interval notation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Chemical Bonding: Metallic Bonds and Alloys",
+        "summary": "Grade 9 Science strand: a metallic bond forms when metal atoms share a sea of freely moving electrons, giving metals properties like conductivity and malleability, and an alloy is a mixture of two or more metals with enhanced properties.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What forms a metallic bond?",
+            "options": [
+              "Metal atoms sharing a sea of freely moving electrons",
+              "A metal atom completely losing all of its electrons permanently",
+              "Two nonmetal atoms sharing a single electron pair",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do metallic bonds help explain why metals conduct electricity well?",
+            "options": [
+              "Yes",
+              "No, metallic bonds have no connection to electrical conductivity",
+              "A concept unrelated to metallic bonding",
+              "Metals never conduct electricity under any circumstances"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an alloy?",
+            "options": [
+              "A mixture of two or more metals with enhanced properties",
+              "A concept unrelated to metallic bonding",
+              "A type of gas found in the atmosphere",
+              "A single, pure metal element with no mixture at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might steel, an alloy of iron and carbon, be stronger than pure iron alone?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "Steel and pure iron always have exactly the same physical properties",
+              "Alloys are always weaker than the pure metals used to create them",
+              "Adding carbon can disrupt the arrangement of metal atoms, making it harder for layers to slide past each other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the malleability of metals, allowing them to be shaped without breaking, explained by the structure of metallic bonding?",
+            "options": [
+              "This concept has no relevance to science",
+              "Metals are never able to be shaped or bent under any circumstances",
+              "The freely moving electrons allow metal atoms to shift position relative to each other without breaking the overall bond",
+              "Malleability has no connection to how metallic bonds are structured"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Geography of International Aid and Development",
+        "summary": "Grade 9 Social Studies strand: international aid involves the transfer of resources, funding, or expertise from wealthier countries or organizations to support development in lower-income regions, shaped by geographic need and access.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does international aid involve transferring to support development?",
+            "options": [
+              "Nothing at all connected to development",
+              "Resources, funding, or expertise",
+              "A concept unrelated to geography",
+              "Only military equipment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is international aid often directed toward lower-income regions with significant development needs?",
+            "options": [
+              "Development needs have no connection to where aid is sent",
+              "A concept unrelated to international aid",
+              "No, international aid is never directed toward any specific region",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can geographic factors, such as accessibility, affect how effectively aid reaches a region?",
+            "options": [
+              "Yes",
+              "No, geography never affects how aid is delivered",
+              "Every region is equally accessible for delivering aid",
+              "A concept unrelated to international aid geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might aid delivery be more challenging in a remote, mountainous region compared to a well-connected urban area?",
+            "options": [
+              "Terrain and infrastructure never affect how aid is delivered",
+              "Limited infrastructure and difficult terrain can make transporting resources and expertise more difficult",
+              "This concept has no connection to geography",
+              "Remote regions are always easier to deliver aid to than urban areas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do geographers study the effectiveness of international aid programs in different regions?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Understanding what works in different geographic and social contexts helps improve future aid efforts",
+              "The effectiveness of aid programs never depends on geographic context",
+              "Every aid program works in exactly the same way regardless of location"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "label": "Day 99 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Circular and Non-Linear Narrative Structure",
+        "summary": "Grade 9 Language strand: a non-linear narrative presents events out of chronological order, and a circular narrative structure returns to its opening scene or idea by the end, shaping how readers interpret meaning.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What does a non-linear narrative present events out of?",
+            "options": [
+              "Numerical order only",
+              "Chronological order",
+              "Alphabetical order",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a circular narrative structure return to its opening scene or idea by the end of the story?",
+            "options": [
+              "Yes",
+              "Circular narratives always end in a completely random place with no connection to the start",
+              "No, circular narratives never return to their opening scene",
+              "A concept unrelated to circular narratives"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these describes a non-linear narrative structure?",
+            "options": [
+              "A story told in perfect chronological order from start to finish",
+              "A story with absolutely no plot of any kind",
+              "A story that jumps between different points in time rather than moving straight from beginning to end",
+              "A recipe listing steps in order"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use a non-linear structure to tell a story about a character’s memory or trauma?",
+            "options": [
+              "This concept has no connection to literature",
+              "It can mimic how memories are often experienced out of order, adding psychological depth",
+              "A non-linear structure never adds any depth to how a story is understood",
+              "Stories about memory must always be told in strict chronological order"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a circular narrative structure leave a reader with a different understanding of the opening scene once they reach the end?",
+            "options": [
+              "A circular structure never changes how a reader understands the opening scene",
+              "The ending of a circular narrative never connects back to its beginning",
+              "New information revealed throughout the story can change how the reader interprets the earlier scene",
+              "This concept has no relevance to reading comprehension"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Systems of Equations Graphically",
+        "summary": "Grade 9 Math strand: a system of two linear equations can be solved graphically by plotting both lines and identifying the point where they intersect, which represents the solution that satisfies both equations.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "When solving a system of equations graphically, what does the point of intersection represent?",
+            "options": [
+              "The y-intercept of only one equation",
+              "The solution that satisfies both equations",
+              "A concept unrelated to systems of equations",
+              "A point that satisfies neither equation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If two lines in a system are parallel and never intersect, does the system have a solution?",
+            "options": [
+              "Parallel lines always have infinitely many solutions",
+              "Yes, parallel lines always have exactly one solution",
+              "A concept unrelated to systems of equations",
+              "No"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If two lines intersect at the point (3, 2), what is the solution to that system of equations?",
+            "options": [
+              "x = 3, y = 2",
+              "A concept unrelated to systems of equations",
+              "x = 0, y = 0",
+              "x = 2, y = 3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two equations in a system produce the exact same line when graphed, how many solutions does the system have?",
+            "options": [
+              "No solution at all",
+              "A concept unrelated to systems of equations",
+              "Infinitely many solutions",
+              "Exactly one solution"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might solving a system of equations graphically be a useful way to check an answer found using substitution or elimination?",
+            "options": [
+              "Graphical and algebraic methods always produce different answers for the same system",
+              "Seeing the point of intersection visually can confirm whether the algebraic solution is accurate",
+              "This concept has no connection to math",
+              "Graphing a system never helps verify an algebraic solution"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Fossil Fuels: Formation and Environmental Impact",
+        "summary": "Grade 9 Science strand: fossil fuels such as coal, oil, and natural gas form over millions of years from the remains of ancient organisms, and burning them releases greenhouse gases that contribute to climate change.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What do fossil fuels form from?",
+            "options": [
+              "A concept unrelated to earth science",
+              "The remains of ancient organisms",
+              "Pure water evaporated from the ocean",
+              "Freshly grown plants harvested this year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does burning fossil fuels release greenhouse gases into the atmosphere?",
+            "options": [
+              "Yes",
+              "A concept unrelated to fossil fuels",
+              "Greenhouse gases have no connection to fossil fuel combustion",
+              "No, burning fossil fuels never releases any gases"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one example of a fossil fuel.",
+            "options": [
+              "A concept unrelated to fossil fuels",
+              "Wind energy",
+              "Coal",
+              "Solar energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does it take millions of years for fossil fuels to form?",
+            "options": [
+              "Fossil fuels are not related to any ancient organic material at all",
+              "They form from ancient organic material subjected to heat and pressure underground over an extremely long time",
+              "This concept has no connection to earth science",
+              "Fossil fuels can form within just a few days under any conditions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are scientists concerned about the long-term environmental impact of continuing to burn fossil fuels?",
+            "options": [
+              "Greenhouse gases released from fossil fuels have no effect on global temperatures",
+              "This concept has no relevance to science",
+              "Burning fossil fuels has no connection to climate change of any kind",
+              "The greenhouse gases released can trap heat in the atmosphere, contributing to long-term climate change"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Cultural Diffusion and the Globalization of Cuisine",
+        "summary": "Grade 9 Social Studies strand: cultural diffusion is the spread of cultural elements, such as food, from one region to another, and globalization has accelerated how cuisines from around the world blend and spread internationally.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What is cultural diffusion?",
+            "options": [
+              "A method for measuring rainfall",
+              "The spread of cultural elements, such as food, from one region to another",
+              "A concept unrelated to geography",
+              "A process that only ever occurs within a single isolated village"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Has globalization accelerated how cuisines from different regions blend and spread internationally?",
+            "options": [
+              "No, globalization has no connection to how cuisine spreads",
+              "Cuisine never spreads between different regions or cultures",
+              "A concept unrelated to cultural diffusion",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of cultural diffusion through food?",
+            "options": [
+              "A dish that no one has ever eaten outside of one household",
+              "A recipe that has never left its country of origin",
+              "A pizza restaurant from Italy becoming popular in many countries around the world",
+              "A single family cooking a meal only for themselves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might immigration contribute significantly to the cultural diffusion of cuisine in a city?",
+            "options": [
+              "Immigration never has any connection to how food culture develops in a city",
+              "This concept has no connection to geography",
+              "Immigrants often bring traditional recipes and cooking practices that can become part of the local food culture",
+              "Cuisine never changes as a result of new people moving into a region"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might some critics raise concerns about the loss of authenticity as a traditional cuisine becomes globalized?",
+            "options": [
+              "Adapting a dish for new markets can sometimes change or simplify its original ingredients, methods, or meaning",
+              "Globalized cuisine is always identical to its original, traditional form with no changes at all",
+              "Authenticity has no connection to how a cuisine spreads internationally",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "label": "Day 100 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Allegory, Grammar, Vocabulary, and Narrative Structure (Days 91-99)",
+        "summary": "Grade 9 Language strand review: students revisit allegory, gerunds and infinitives, allusion, memes and internet culture, and non-linear narrative structure.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is an allegory?",
+            "options": [
+              "A type of poem with no symbolic meaning",
+              "A factual news report",
+              "A concept unrelated to reading",
+              "A narrative whose characters and events symbolically represent deeper meanings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a verbal?",
+            "options": [
+              "A punctuation mark used at the end of a sentence",
+              "A concept unrelated to grammar",
+              "A word formed from a verb that functions as another part of speech",
+              "A word that can never be formed from a verb"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A type of punctuation mark",
+              "A concept unrelated to reading",
+              "A detailed, direct explanation of a topic",
+              "A brief, indirect reference to a person, event, or work from history or another text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are memes often rapidly shared and remixed online?",
+            "options": [
+              "Memes only exist in printed newspapers",
+              "No, memes are never shared or remixed",
+              "Yes",
+              "A concept unrelated to memes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a non-linear narrative present events out of?",
+            "options": [
+              "Alphabetical order",
+              "Numerical order only",
+              "Chronological order",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Exponents, Quadratics, Statistics, and Systems (Days 91-99)",
+        "summary": "Grade 9 Math strand review: students revisit zero and negative exponents, vertex form of quadratics, mean/median/mode, independent and dependent events, and solving systems graphically.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What does any nonzero number raised to the exponent zero equal?",
+            "options": [
+              "A concept unrelated to exponents",
+              "0",
+              "1",
+              "The base itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In vertex form, y = a(x-h)^2 + k, what point does (h,k) represent?",
+            "options": [
+              "The y-intercept only",
+              "The vertex of the parabola",
+              "A concept unrelated to quadratics",
+              "The x-intercepts only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are mean, median, and mode examples of?",
+            "options": [
+              "A concept unrelated to statistics",
+              "Measures of central tendency",
+              "Measures of angle size",
+              "Measures of area only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean for two events to be independent?",
+            "options": [
+              "The outcome of one event always determines the other",
+              "A concept unrelated to probability",
+              "The outcome of one event does not affect the other",
+              "Independent events can never both occur"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When solving a system of equations graphically, what does the point of intersection represent?",
+            "options": [
+              "A point that satisfies neither equation",
+              "The y-intercept of only one equation",
+              "A concept unrelated to systems of equations",
+              "The solution that satisfies both equations"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Chemistry, Biology, Physics, and Earth Science (Days 91-99)",
+        "summary": "Grade 9 Science strand review: students revisit physical vs chemical changes, taxonomy and classification, biodiversity and ecosystem stability, GMOs in agriculture, and fossil fuel formation and impact.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What happens to a substance’s chemical composition during a physical change?",
+            "options": [
+              "It always changes completely",
+              "A concept unrelated to physical changes",
+              "It stays the same",
+              "It is destroyed entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is taxonomy?",
+            "options": [
+              "A method for measuring the speed of chemical reactions",
+              "The scientific system for classifying living things into groups",
+              "A system for naming rock formations",
+              "A concept unrelated to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does biodiversity refer to?",
+            "options": [
+              "The variety of species within an ecosystem",
+              "A concept unrelated to biology",
+              "The total number of rocks in an ecosystem",
+              "The average temperature of an ecosystem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a genetically modified organism?",
+            "options": [
+              "A concept unrelated to biology",
+              "An organism that has never had any change to its DNA",
+              "An organism that has had its DNA altered using biotechnology",
+              "An organism found only in the ocean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do fossil fuels form from?",
+            "options": [
+              "The remains of ancient organisms",
+              "A concept unrelated to earth science",
+              "Pure water evaporated from the ocean",
+              "Freshly grown plants harvested this year"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Economic and Urban Geography (Days 91-99)",
+        "summary": "Grade 9 Social Studies strand review: students revisit Special Economic Zones, urban gentrification, data centres and cloud computing, urban agriculture, and cultural diffusion of cuisine.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What is a Special Economic Zone?",
+            "options": [
+              "A region with no economic activity at all",
+              "A designated area offering reduced taxes and looser regulations to attract investment",
+              "An area where all trade is banned",
+              "A concept unrelated to geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is gentrification?",
+            "options": [
+              "A process where rising property values and investment attract wealthier residents to a lower-income neighbourhood",
+              "A process that always lowers property values in a neighbourhood",
+              "A government policy that bans any new construction",
+              "A concept unrelated to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do data centres store and process?",
+            "options": [
+              "Only physical paper documents",
+              "A concept unrelated to geography",
+              "Only handwritten letters",
+              "The world’s digital information"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does urban agriculture involve?",
+            "options": [
+              "Growing food within city environments",
+              "Building shopping malls in cities",
+              "Growing food only in remote rural areas",
+              "A concept unrelated to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is cultural diffusion?",
+            "options": [
+              "A method for measuring rainfall",
+              "A concept unrelated to geography",
+              "A process that only ever occurs within a single isolated village",
+              "The spread of cultural elements, such as food, from one region to another"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]

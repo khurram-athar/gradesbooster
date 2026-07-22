@@ -3544,6 +3544,386 @@ const curriculum: DayContent[] = [
      {q:"How many Calls to Action did the Truth and Reconciliation Commission release?", options:["10","94","50","150"], answer:1}
    ]},
 ]},
+{day:91, label:"Day 91 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Frame Narratives", summary:"Grade 8 Language strand: a frame narrative is a story that contains another story within it, using an outer frame, such as a narrator recounting a tale, to introduce and enclose the inner story.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a frame narrative?", options:["A poem written in a fixed rhyme scheme","A concept unrelated to reading","A story that contains another story within it","A story with only one single event and no characters"], answer:2},
+     {q:"Does a frame narrative use an outer story to introduce an inner story?", options:["No, a frame narrative never contains more than one story","A concept unrelated to frame narratives","Yes","The inner story always comes before the outer frame"], answer:2},
+     {q:"Which of these best describes the outer part of a frame narrative?", options:["A glossary of unfamiliar words","A concept unrelated to frame narratives","The frame, which introduces and encloses the inner story","The climax of the inner story only"], answer:2},
+     {q:"Why might an author use a frame narrative to tell a story?", options:["Frame narratives always confuse readers with no added meaning","This concept has no connection to literature","It can add context, perspective, or a reason for why the inner story is being told","A frame narrative never adds any context to a story"], answer:2},
+     {q:"Why might a frame narrative change how readers interpret the inner story?", options:["Inner stories are always understood exactly the same regardless of framing","The outer narrator’s perspective can shape how trustworthy or meaningful the inner story feels","This concept has no relevance to reading comprehension","The outer narrator never has any effect on how a story is understood"], answer:1}
+   ]},
+  {subject:"Math", title:"Introduction to Logarithms", summary:"Grade 8 Math strand: a logarithm is the inverse operation of exponentiation, answering the question of what exponent a given base must be raised to in order to produce a certain number.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is a logarithm the inverse operation of?", options:["Addition","Division only","A concept unrelated to math","Exponentiation"], answer:3},
+     {q:"Does a logarithm answer what exponent a base must be raised to in order to reach a certain number?", options:["No, logarithms have no connection to exponents","A concept unrelated to logarithms","Yes","Logarithms only ever apply to subtraction"], answer:2},
+     {q:"What is the logarithm base 10 of 100?", options:["100","20","2","10"], answer:2},
+     {q:"Why might logarithms be useful for solving an equation where the unknown value is an exponent?", options:["This concept has no connection to algebra","Logarithms never help with solving any type of equation","They allow you to isolate and solve directly for the exponent","Exponents can never be solved for using any mathematical method"], answer:2},
+     {q:"Why are logarithms used to measure things like earthquake magnitude on the Richter scale?", options:["Earthquake magnitude is never measured using any mathematical scale","Logarithms have no connection to measuring real-world phenomena","This concept has no relevance to math","They can compress an enormous range of values into a more manageable scale"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Volcanoes and Types of Volcanic Eruptions", summary:"Grade 8 Science strand: a volcano is an opening in Earth’s crust where molten rock, gas, and ash can escape, with eruptions ranging from slow-flowing effusive events to violent, explosive ones.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is a volcano?", options:["An opening in Earth’s crust where molten rock, gas, and ash can escape","A concept unrelated to earth science","A large flat area with no geological activity","A type of cloud formation"], answer:0},
+     {q:"Does magma become known as lava once it reaches Earth’s surface?", options:["A concept unrelated to volcanoes","Yes","Lava only exists underground, never on the surface","No, magma and lava are never related terms"], answer:1},
+     {q:"Name one type of volcanic eruption, such as effusive or explosive.", options:["Explosive","Photosynthetic","Evaporative","A concept unrelated to volcanoes"], answer:0},
+     {q:"Why might a volcano with thick, sticky magma tend to erupt more explosively than one with thin, runny magma?", options:["Thin magma always causes the most violent eruptions","This concept has no connection to earth science","Magma thickness never has any effect on how a volcano erupts","Thick magma traps gases more easily, building pressure until it is released suddenly"], answer:3},
+     {q:"Why do scientists monitor volcanoes for signs like gas emissions and small earthquakes?", options:["Volcanic eruptions always happen with absolutely no warning signs","Monitoring volcanoes never provides any useful information","These signs can help predict when an eruption may be about to occur","This concept has no relevance to science"], answer:2}
+   ]},
+  {subject:"History", title:"The Halibut Treaty of 1923 and Canada’s Growing Independence", summary:"Grade 8 History strand: the Halibut Treaty of 1923 was the first international treaty negotiated and signed independently by Canada, without direct British involvement, marking a step toward full Canadian autonomy in foreign affairs.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Halibut Treaty signed?", options:["1867","1945","1923","1867"], answer:2},
+     {q:"Was the Halibut Treaty the first international treaty negotiated and signed independently by Canada?", options:["No, Canada had already signed many treaties fully on its own before this","A concept unrelated to the Halibut Treaty","This treaty was actually signed entirely by Britain, not Canada","Yes"], answer:3},
+     {q:"Did the Halibut Treaty involve direct British involvement in the negotiations?", options:["Yes, Britain led every part of the negotiations","No","A concept unrelated to the Halibut Treaty","Britain and Canada negotiated the treaty together equally"], answer:1},
+     {q:"Why might the Halibut Treaty be considered an important step toward Canadian autonomy?", options:["It showed Canada could conduct its own foreign relations without depending on Britain to negotiate on its behalf","The treaty had no real significance for Canadian independence","This concept has no connection to Canadian history","Canada’s foreign policy never changed as a result of this treaty"], answer:0},
+     {q:"Why is it valuable for students to study early steps toward Canadian independence, like the Halibut Treaty?", options:["Canada’s foreign policy has never changed throughout its history","This concept has no relevance to History","It helps show how Canada gradually gained control over its own foreign policy and international relationships","Early steps toward independence have no relevance to understanding Canada today"], answer:2}
+   ]},
+]},
+{day:92, label:"Day 92 — Tue", subjects:[
+  {subject:"Language", title:"Writing: The Elegy and Tribute Writing", summary:"Grade 8 Language strand: an elegy is a reflective piece of writing, often a poem, that mourns or honours someone who has died, expressing both grief and appreciation for their life.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does an elegy typically do?", options:["Describes the steps of a science experiment","A concept unrelated to writing","Advertises a product for sale","Mourns or honours someone who has died"], answer:3},
+     {q:"Is an elegy often written in poem form?", options:["Elegies are always written as recipes","A concept unrelated to elegies","Yes","No, elegies are never written as poems"], answer:2},
+     {q:"Does an elegy typically express both grief and appreciation for a person’s life?", options:["No, an elegy never expresses any emotion","An elegy only ever expresses anger","Yes","A concept unrelated to elegies"], answer:2},
+     {q:"Why might a writer include specific memories or qualities of a person in an elegy?", options:["It personalizes the tribute and helps readers understand what made that person special","Specific memories never add anything meaningful to a tribute","This concept has no connection to writing","Elegies should never mention any specific details about a person"], answer:0},
+     {q:"Why might reading elegies help students understand how writers process loss?", options:["This concept has no relevance to writing","Loss and grief are never explored through written work","It shows how emotion and reflection can be shaped into meaningful, structured writing","Elegies never reveal anything about how writers process emotion"], answer:2}
+   ]},
+  {subject:"Math", title:"Polynomial Long Division", summary:"Grade 8 Math strand: polynomial long division is a method for dividing a polynomial by another polynomial of equal or lesser degree, following a process similar to long division with numbers.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does polynomial long division do?", options:["Adds a list of polynomials together","Divides a polynomial by another polynomial","A concept unrelated to algebra","Multiplies two polynomials together"], answer:1},
+     {q:"Is polynomial long division similar in process to long division with numbers?", options:["A concept unrelated to polynomial long division","No, the two processes share no similarities at all","Polynomial long division never involves any division at all","Yes"], answer:3},
+     {q:"What do you call the polynomial left over after a division that does not divide evenly?", options:["The coefficient","The product","A concept unrelated to polynomial division","The remainder"], answer:3},
+     {q:"Why might polynomial long division be useful when factoring a polynomial?", options:["This concept has no connection to algebra","It can help confirm whether a given expression is a factor and simplify the polynomial","Polynomial long division never helps with factoring in any way","Factoring and division are always completely unrelated processes"], answer:1},
+     {q:"Why is it important to arrange terms in order of degree before starting polynomial long division?", options:["This concept has no connection to polynomial long division","Working in order of degree keeps the process organized and prevents errors when combining terms","The order of terms never has any effect on the division process","Terms should always be arranged in a completely random order"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Physics of Radioactivity and Nuclear Decay", summary:"Grade 8 Science strand: radioactivity occurs when unstable atomic nuclei release energy and particles over time, a process called nuclear decay, which can be used to help determine the age of ancient materials.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What occurs when unstable atomic nuclei release energy and particles?", options:["A concept unrelated to physics","Radioactivity","Evaporation","Photosynthesis"], answer:1},
+     {q:"Is the process of an unstable nucleus gradually releasing energy called nuclear decay?", options:["This process is only ever called condensation","Yes","No, this process has no specific scientific name","A concept unrelated to radioactivity"], answer:1},
+     {q:"Can nuclear decay be used to help determine the age of ancient materials?", options:["Nuclear decay only ever applies to living organisms","A concept unrelated to nuclear decay","Yes","No, nuclear decay has no connection to dating materials"], answer:2},
+     {q:"Why might scientists use a radioactive isotope’s half-life to estimate the age of a fossil?", options:["Fossils never contain any radioactive material to measure","The predictable decay rate allows scientists to calculate how much time has passed","Half-life has no connection to estimating the age of any material","This concept has no connection to radioactivity"], answer:1},
+     {q:"Why is radioactive material considered potentially hazardous to living things?", options:["The energy and particles released can damage cells and biological tissue","Radioactive material never has any effect on living cells","This concept has no relevance to science","Radioactivity only ever affects non-living objects like rocks"], answer:0}
+   ]},
+  {subject:"History", title:"The Chanak Affair of 1922", summary:"Grade 8 History strand: the Chanak Affair of 1922 occurred when Britain asked Canada for military support in a conflict with Turkey, and Canada’s decision to consult Parliament rather than automatically agreeing signalled a new independence in foreign policy.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year did the Chanak Affair take place?", options:["1867","1970","1945","1922"], answer:3},
+     {q:"Did Britain ask Canada for military support during the Chanak Affair?", options:["Canada asked Britain for support instead","No, Britain never asked Canada for any support","Yes","A concept unrelated to the Chanak Affair"], answer:2},
+     {q:"Did Canada automatically agree to send troops without consulting Parliament?", options:["Yes, Canada agreed immediately with no discussion at all","Parliament was never involved in Canadian decisions at this time","No","A concept unrelated to the Chanak Affair"], answer:2},
+     {q:"Why might Canada’s decision to consult Parliament during the Chanak Affair be seen as a shift in its relationship with Britain?", options:["It showed Canada was beginning to make its own foreign policy decisions rather than automatically following Britain’s requests","Canada had always made every foreign policy decision independently before this event","This concept has no connection to Canadian history","This decision had no effect on Canada’s relationship with Britain"], answer:0},
+     {q:"Why is the Chanak Affair considered an important early example of Canadian foreign policy independence?", options:["Canada’s foreign policy decisions were never influenced by this event","It set a precedent that Canada would decide for itself whether to become involved in international conflicts","This concept has no relevance to History","The Chanak Affair had no lasting significance in Canadian history"], answer:1}
+   ]},
+]},
+{day:93, label:"Day 93 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Appositives and Nonrestrictive Elements", summary:"Grade 8 Language strand: an appositive is a noun or noun phrase that renames or explains another noun beside it, and nonrestrictive appositives are set off with commas because they add extra, non-essential information.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does an appositive do?", options:["Introduces a new paragraph","Renames or explains a noun beside it","Replaces a verb in a sentence","A concept unrelated to grammar"], answer:1},
+     {q:"Are nonrestrictive appositives typically set off with commas?", options:["A concept unrelated to appositives","Yes","No, nonrestrictive appositives never use commas","Nonrestrictive appositives always use quotation marks instead"], answer:1},
+     {q:"Which sentence correctly uses a nonrestrictive appositive?", options:["Very kind, is my teacher Ms. Lee.","Kind my teacher Ms. Lee is very.","My teacher Ms. Lee is very kind is helpful.","My teacher, Ms. Lee, is very kind."], answer:3},
+     {q:"Why is a nonrestrictive appositive considered non-essential information?", options:["This concept has no connection to grammar","Nonrestrictive appositives always change the entire meaning of a sentence","Removing a nonrestrictive appositive always makes a sentence incomplete","The sentence would still make sense and keep its core meaning without it"], answer:3},
+     {q:"Why might removing the commas around an appositive change how a sentence reads?", options:["Appositives are never affected by punctuation in any way","Commas never have any effect on how a sentence is read","This concept has no connection to grammar","Commas signal that the appositive is extra information rather than essential to identifying the noun"], answer:3}
+   ]},
+  {subject:"Math", title:"Introduction to Function Notation, Domain, and Range", summary:"Grade 8 Math strand: function notation, such as f(x), represents the output of a function for a given input, while the domain is the set of possible inputs and the range is the set of possible outputs.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does function notation like f(x) represent?", options:["A random number with no connection to the function","A concept unrelated to algebra","The output of a function for a given input","The name of a variable with no other meaning"], answer:2},
+     {q:"What is the domain of a function?", options:["A concept unrelated to functions","A single fixed number only","The set of possible outputs","The set of possible inputs"], answer:3},
+     {q:"What is the range of a function?", options:["The set of possible inputs","The set of possible outputs","A concept unrelated to functions","A single fixed number only"], answer:1},
+     {q:"If f(x) = x + 2, what is f(3)?", options:["5","3","6","2"], answer:0},
+     {q:"Why is function notation useful for describing a relationship between two variables?", options:["It clearly shows how an output value depends on a specific input value","This concept has no connection to algebra","Function notation never shows any relationship between variables","Inputs and outputs are always completely unrelated to each other"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Biomechanics: How Muscles and Bones Work Together", summary:"Grade 8 Science strand: biomechanics studies how muscles, bones, and joints work together as levers to produce movement, with muscles contracting to pull on bones across a joint.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does biomechanics study?", options:["A concept unrelated to science","How plants absorb sunlight","How rocks form deep underground","How muscles, bones, and joints work together to produce movement"], answer:3},
+     {q:"Do muscles contract to pull on bones across a joint?", options:["Yes","Muscles only ever push bones, never pull them","No, muscles never connect to bones in any way","A concept unrelated to biomechanics"], answer:0},
+     {q:"What connects muscle to bone, allowing force to be transferred?", options:["A concept unrelated to biomechanics","A tendon","A vein","A nerve ending only"], answer:1},
+     {q:"Why might the arrangement of muscles and bones in the body be compared to a system of levers?", options:["Levers have no similarities to how the human body moves","This concept has no connection to biomechanics","Because they work together to produce and amplify force and movement around a joint","Muscles and bones never work together in any coordinated way"], answer:2},
+     {q:"Why is understanding biomechanics useful for designing prosthetic limbs?", options:["It helps engineers replicate how natural muscles and joints move to create functional, effective devices","Biomechanics has no connection to designing prosthetic limbs","Prosthetic limbs are designed with no consideration of how the body moves","This concept has no relevance to science"], answer:0}
+   ]},
+  {subject:"History", title:"The Balfour Declaration of 1926", summary:"Grade 8 History strand: the Balfour Declaration of 1926 formally recognized Canada and other British dominions as autonomous communities equal in status to Britain, laying the groundwork for the later Statute of Westminster.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Balfour Declaration issued?", options:["1867","1945","1970","1926"], answer:3},
+     {q:"Did the Balfour Declaration recognize dominions like Canada as equal in status to Britain?", options:["No, it declared dominions to be entirely subordinate to Britain","A concept unrelated to the Balfour Declaration","The declaration had no connection to Canada at all","Yes"], answer:3},
+     {q:"Did the Balfour Declaration lay groundwork for the later Statute of Westminster?", options:["Yes","The Statute of Westminster came many centuries before this declaration","A concept unrelated to the Balfour Declaration","No, the two events had no connection to each other"], answer:0},
+     {q:"Why might the Balfour Declaration be considered a major milestone in Canada’s path to independence?", options:["It formally recognized Canada’s equal status, paving the way for full legal autonomy","The declaration had no real effect on Canada’s independence","This concept has no connection to Canadian history","Canada’s status within the British Empire never changed after this declaration"], answer:0},
+     {q:"Why is it useful for students to understand the connection between the Balfour Declaration and later Canadian autonomy?", options:["Canadian autonomy developed instantly with no connection to earlier events","The Balfour Declaration has no relevance to understanding Canadian independence","It shows how Canadian independence developed gradually through a series of connected historical milestones","This concept has no relevance to History"], answer:2}
+   ]},
+]},
+{day:94, label:"Day 94 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Neologisms and Language Change", summary:"Grade 8 Language strand: a neologism is a newly coined word or expression that enters a language, often created to describe new technology, culture, or ideas.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a neologism?", options:["A word that has existed unchanged for centuries","A newly coined word or expression","A concept unrelated to vocabulary","A grammatical rule with no connection to words"], answer:1},
+     {q:"Are neologisms often created to describe new technology or ideas?", options:["Neologisms only ever describe ancient historical events","No, neologisms are never connected to new ideas or technology","A concept unrelated to neologisms","Yes"], answer:3},
+     {q:"Which of these is an example of a modern neologism?", options:["Table","Selfie","Run","Tree"], answer:1},
+     {q:"Why might a neologism become widely used in everyday language?", options:["New words are always immediately rejected by every speaker","Neologisms are never actually adopted into common usage","It fills a need in the language for describing something new","This concept has no connection to vocabulary"], answer:2},
+     {q:"Why does language change over time as new neologisms are adopted?", options:["This concept has no relevance to vocabulary","New words have no effect on how a language develops","Language never changes for any reason over time","Language evolves to reflect the changing needs, culture, and technology of its speakers"], answer:3}
+   ]},
+  {subject:"Math", title:"The Fibonacci Sequence and the Golden Ratio", summary:"Grade 8 Math strand: the Fibonacci sequence is a pattern where each number is the sum of the two numbers before it, and as the sequence grows, the ratio between consecutive terms approaches the golden ratio.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"In the Fibonacci sequence, how is each new number formed?", options:["By subtracting the previous two numbers","By multiplying the previous number by 2","By adding the two numbers before it","A concept unrelated to the Fibonacci sequence"], answer:2},
+     {q:"What comes next in the sequence 0, 1, 1, 2, 3, 5, 8?", options:["13","11","10","15"], answer:0},
+     {q:"Does the ratio between consecutive Fibonacci terms approach the golden ratio as the sequence grows?", options:["The ratio becomes completely random as the sequence grows","Yes","A concept unrelated to the Fibonacci sequence","No, the ratio never approaches any particular value"], answer:1},
+     {q:"Why is the Fibonacci sequence considered a recursive pattern?", options:["Each term depends on the values of previous terms","This concept has no connection to math","Every term in the sequence is chosen at random","Recursive patterns never depend on any previous values"], answer:0},
+     {q:"Why might the golden ratio and Fibonacci-like patterns appear in nature, such as in spiral shells or flower petals?", options:["These patterns often emerge from efficient natural growth processes","The golden ratio never actually appears anywhere in nature","This concept has no relevance to math","Flower petals and shells never follow any mathematical pattern"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Physics of Flight and Aerodynamics", summary:"Grade 8 Science strand: aerodynamics studies how air moves around objects, and flight depends on four forces, lift, weight, thrust, and drag, working together to allow an aircraft to rise and move forward.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does aerodynamics study?", options:["How plants grow toward sunlight","How air moves around objects","A concept unrelated to physics","How rocks form over time"], answer:1},
+     {q:"Name one of the four forces involved in flight, such as lift or drag.", options:["Friction only, with no other force involved","A concept unrelated to flight","Magnetism","Lift"], answer:3},
+     {q:"Does lift need to be greater than weight for an aircraft to rise into the air?", options:["A concept unrelated to aerodynamics","Lift and weight have no connection to whether a plane rises","No, weight always needs to be greater than lift to rise","Yes"], answer:3},
+     {q:"Why is the shape of an airplane wing, called an airfoil, important for generating lift?", options:["Its curved shape helps create a pressure difference between the air above and below the wing","The shape of a wing never has any effect on generating lift","This concept has no connection to aerodynamics","Airplane wings are always shaped as perfectly flat rectangles"], answer:0},
+     {q:"Why must thrust overcome drag for an aircraft to increase its speed?", options:["Drag is a resisting force that opposes an aircraft’s forward motion","Drag never has any effect on how fast an aircraft can travel","This concept has no relevance to science","Thrust and drag always work in exactly the same direction"], answer:0}
+   ]},
+  {subject:"History", title:"Clifford Sifton and the Settlement of the Canadian Prairies", summary:"Grade 8 History strand: as Minister of the Interior in the early 1900s, Clifford Sifton launched an aggressive immigration campaign to attract settlers to the Canadian Prairies, significantly shaping the region’s development.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What government position did Clifford Sifton hold?", options:["Minister of the Interior","A concept unrelated to Canadian history","Governor General","Prime Minister"], answer:0},
+     {q:"Did Clifford Sifton launch a campaign to attract settlers to the Canadian Prairies?", options:["Yes","Sifton had no connection to immigration policy at all","A concept unrelated to Clifford Sifton","No, Sifton discouraged all settlement of the Prairies"], answer:0},
+     {q:"Around what time period was Clifford Sifton active in this role?", options:["The early 1900s","The 1700s","A concept unrelated to Canadian history","The 1990s"], answer:0},
+     {q:"Why might Sifton’s immigration campaign have specifically targeted farmers from certain regions, like Eastern Europe?", options:["This concept has no connection to Canadian history","Sifton’s campaign never targeted any specific group of people","Farmers from Eastern Europe were never welcomed into Canada during this period","He believed farmers experienced with harsh climates would be well-suited to settling and working the Prairies"], answer:3},
+     {q:"Why is Sifton’s immigration policy considered significant to the development of Western Canada?", options:["It brought a large wave of settlers whose farming and communities shaped the region’s growth","Sifton’s policy had no lasting effect on Western Canada","This concept has no relevance to History","The Prairies remained completely unsettled throughout this entire period"], answer:0}
+   ]},
+]},
+{day:95, label:"Day 95 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Epistolary Novels", summary:"Grade 8 Language strand: an epistolary novel tells its story through a series of documents, such as letters, diary entries, or emails, rather than through traditional third-person narration.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What format does an epistolary novel use to tell its story?", options:["A concept unrelated to reading","A single uninterrupted narration with no documents at all","A collection of unrelated recipes","A series of documents such as letters or diary entries"], answer:3},
+     {q:"Does an epistolary novel typically use traditional third-person narration?", options:["No","Epistolary novels never include any narration of any kind","Yes, epistolary novels always use traditional third-person narration","A concept unrelated to epistolary novels"], answer:0},
+     {q:"Name one type of document that might appear in an epistolary novel.", options:["A grocery list with no story content","A math worksheet","Letters","A concept unrelated to epistolary novels"], answer:2},
+     {q:"Why might an epistolary novel feel more personal or intimate to readers?", options:["Readers experience events directly through a character’s own written words and perspective","Letters and diary entries never reveal anything about a character’s feelings","Epistolary novels never feel personal or intimate to readers","This concept has no connection to literature"], answer:0},
+     {q:"Why might using multiple letter-writers in an epistolary novel add complexity to the story?", options:["Multiple letter-writers never add any complexity to a story","This concept has no connection to reading comprehension","An epistolary novel can only ever include a single letter-writer","It can present multiple perspectives on the same events, revealing different viewpoints and biases"], answer:3}
+   ]},
+  {subject:"Math", title:"Probability Trees and Multi-Stage Events", summary:"Grade 8 Math strand: a probability tree diagram maps out all possible outcomes of a multi-stage event, with branches showing each possible result and the probabilities multiplied along each path.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does a probability tree diagram map out?", options:["The average of a set of numbers","All possible outcomes of a multi-stage event","Only a single outcome with no branches","A concept unrelated to probability"], answer:1},
+     {q:"In a probability tree, are probabilities multiplied along each path to find a combined outcome?", options:["Yes","Probabilities have no connection to how a tree diagram works","A concept unrelated to probability trees","No, probabilities are always added along each path instead"], answer:0},
+     {q:"What does each branch in a probability tree represent?", options:["A fixed, unchanging number","The total sample size only","A possible outcome at that stage","A concept unrelated to probability trees"], answer:2},
+     {q:"Why might a probability tree be useful for solving a problem involving two coin flips in a row?", options:["It visually organizes every possible combination of outcomes across both flips","This concept has no connection to probability","Coin flips can never be represented using a tree diagram","A probability tree never helps organize outcomes of multiple events"], answer:0},
+     {q:"Why is multiplying probabilities along a branch path a valid way to find the probability of a sequence of events?", options:["Multiplying probabilities never gives any meaningful result","Sequences of events never have any combined probability at all","It reflects the combined likelihood of independent events happening one after another","This concept has no relevance to probability"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Cybersecurity: The Science of Data Encryption", summary:"Grade 8 Science strand: encryption is a process that uses mathematical algorithms to convert readable data into a coded format, helping protect information as it is transmitted or stored electronically.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does encryption use to convert readable data into a coded format?", options:["Mathematical algorithms","Physical locks and keys only","A concept unrelated to encryption","Random guessing with no formula"], answer:0},
+     {q:"Does encryption help protect information as it is transmitted or stored?", options:["Encryption only ever makes information easier to access","A concept unrelated to encryption","No, encryption has no effect on protecting information","Yes"], answer:3},
+     {q:"What is the term for encrypted data before it is decoded back into a readable format?", options:["Metadata","Plaintext","Ciphertext","A concept unrelated to encryption"], answer:2},
+     {q:"Why might a website use encryption when a user enters personal information, like a password?", options:["It helps prevent unauthorized parties from reading the information if it is intercepted","Encryption never has any effect on protecting personal information","Websites never need to protect any information entered by users","This concept has no connection to cybersecurity"], answer:0},
+     {q:"Why is a decryption key necessary to reverse the encryption process?", options:["Encrypted data can always be read without any special key","This concept has no relevance to science","Without the correct key, encrypted data cannot be converted back into its original, readable form","A decryption key never has any effect on reversing encryption"], answer:2}
+   ]},
+  {subject:"History", title:"The Group of Seven and Canadian National Identity", summary:"Grade 8 History strand: the Group of Seven was a collective of Canadian landscape painters formed in the 1920s whose distinct artistic style helped shape a sense of Canadian national identity through depictions of the country’s wilderness.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What type of artists made up the Group of Seven?", options:["Portrait photographers","A concept unrelated to Canadian history","Landscape painters","Classical musicians"], answer:2},
+     {q:"Was the Group of Seven formed in the 1920s?", options:["Yes","No, the Group of Seven was formed in the 1700s","A concept unrelated to the Group of Seven","The Group of Seven has never actually existed"], answer:0},
+     {q:"Did the Group of Seven often depict Canada’s wilderness in their paintings?", options:["Their paintings never depicted any natural landscapes","Yes","A concept unrelated to the Group of Seven","No, they only painted scenes from other countries"], answer:1},
+     {q:"Why might the Group of Seven’s paintings have helped shape a distinct sense of Canadian identity?", options:["Their paintings had no connection to Canadian identity at all","Their artwork celebrated Canada’s unique landscapes in a style separate from European artistic traditions","The Group of Seven copied European painting styles exactly","This concept has no connection to Canadian history"], answer:1},
+     {q:"Why is art, like that of the Group of Seven, considered an important part of studying a country’s history?", options:["Studying art never reveals anything about a country’s culture","Art can reflect and shape how a nation sees itself and its culture during a particular era","Art has no connection to how a country understands its own history","This concept has no relevance to History"], answer:1}
+   ]},
+]},
+{day:96, label:"Day 96 — Mon", subjects:[
+  {subject:"Language", title:"Media Literacy: Evaluating Sponsored Content and Native Advertising", summary:"Grade 8 Language strand: sponsored content, or native advertising, is paid promotional material designed to look like regular articles or posts, making it important for readers to identify when content is actually an advertisement.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is sponsored content designed to resemble?", options:["A dictionary entry","A concept unrelated to media literacy","A blank page with no content","Regular articles or posts"], answer:3},
+     {q:"Is sponsored content a form of paid advertising?", options:["Yes","Sponsored content is always completely unpaid","No, sponsored content is never connected to advertising","A concept unrelated to sponsored content"], answer:0},
+     {q:"Why is it important for readers to identify sponsored content?", options:["Sponsored content never has any bias or promotional intent","This concept has no connection to media literacy","It may present a biased or promotional viewpoint disguised as neutral information","Readers never need to consider who paid for a piece of content"], answer:2},
+     {q:"Why might companies choose native advertising instead of a traditional, clearly labeled ad?", options:["This concept has no connection to media literacy","Native advertising is never used by any company","Traditional ads and native advertising are always identical in every way","It can feel more trustworthy or engaging to readers who might not realize it is an advertisement"], answer:3},
+     {q:"Why should readers look for disclosure labels, like sponsored, before trusting online content?", options:["All online content is always completely free of any bias","These labels help readers judge whether they are viewing an unbiased source","This concept has no relevance to media literacy","Disclosure labels never provide any useful information to readers"], answer:1}
+   ]},
+  {subject:"Math", title:"Introduction to Piecewise Functions", summary:"Grade 8 Math strand: a piecewise function is defined by different expressions or rules depending on which interval the input value falls into, allowing a single function to model changing behaviour.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What defines a piecewise function?", options:["A concept unrelated to functions","Different expressions or rules depending on the interval of the input","A function with no defined output at all","A single rule that applies to every possible input"], answer:1},
+     {q:"Can a piecewise function use more than one rule depending on the input value?", options:["No, a piecewise function can only ever use one single rule","Yes","A concept unrelated to piecewise functions","Piecewise functions never actually have any defined rules"], answer:1},
+     {q:"Why might a piecewise function be useful for modeling a phone plan with different rates for different amounts of data usage?", options:["Piecewise functions never help model real-world pricing situations","It can represent different pricing rules that apply depending on the specific value of usage","This concept has no connection to math","Phone plans always charge the exact same rate no matter how much data is used"], answer:1},
+     {q:"If a piecewise function uses one rule for x less than 0 and another for x greater than or equal to 0, which rule applies when x equals 5?", options:["A concept unrelated to piecewise functions","The rule for x less than 0","The rule for x greater than or equal to 0","Neither rule applies when x equals 5"], answer:2},
+     {q:"Why might real-world situations, like tax brackets, be modeled using piecewise functions?", options:["This concept has no relevance to math","The rate or rule applied changes depending on which range a value falls into","Every tax bracket always applies the exact same fixed rate","Tax brackets are never modeled using any type of mathematical function"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Human Digestive System and Nutrient Absorption", summary:"Grade 8 Science strand: the digestive system breaks down food into smaller molecules through mechanical and chemical processes, allowing nutrients to be absorbed into the bloodstream, primarily in the small intestine.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does the digestive system break food down into?", options:["Larger, more complex molecules","A concept unrelated to biology","Smaller molecules","Only water and gas"], answer:2},
+     {q:"Does nutrient absorption primarily occur in the small intestine?", options:["No, nutrient absorption never occurs anywhere in the digestive system","Absorption only ever occurs in the mouth","Yes","A concept unrelated to digestion"], answer:2},
+     {q:"Name one process, mechanical or chemical, involved in digestion.", options:["Photosynthesis","A concept unrelated to digestion","Chemical digestion using enzymes","Evaporation"], answer:2},
+     {q:"Why does food need to be broken down into smaller molecules before it can be absorbed into the bloodstream?", options:["This concept has no connection to biology","Only sufficiently small molecules can pass through the intestinal lining into the blood","The size of food molecules never has any effect on absorption","Large, unbroken food particles are always absorbed directly into the blood"], answer:1},
+     {q:"Why are enzymes important for the chemical digestion of food?", options:["This concept has no relevance to science","Chemical digestion happens with no help from enzymes at all","Enzymes never play any role in the digestive process","Enzymes speed up the breakdown of large food molecules into smaller, absorbable ones"], answer:3}
+   ]},
+  {subject:"History", title:"The Progressive Party and Farmer Political Movements of the 1920s", summary:"Grade 8 History strand: the Progressive Party emerged in the 1920s as farmers across Canada organized politically to address concerns such as high freight rates and tariffs that they felt unfairly favoured Eastern industry.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what decade did the Progressive Party emerge in Canada?", options:["A concept unrelated to Canadian history","The 1800s","The 1990s","The 1920s"], answer:3},
+     {q:"Did farmers form the Progressive Party to address concerns like tariffs and freight rates?", options:["No, the Progressive Party had no connection to farmers at all","The Progressive Party was formed entirely by factory owners","A concept unrelated to the Progressive Party","Yes"], answer:3},
+     {q:"Did the Progressive Party believe existing policies unfairly favoured Eastern industry?", options:["Yes","A concept unrelated to the Progressive Party","The Progressive Party had no opinion on federal economic policy","No, the Progressive Party believed policies were completely fair to everyone"], answer:0},
+     {q:"Why might farmers in Western Canada have felt that federal policies unfairly benefited industries in the East?", options:["This concept has no connection to Canadian history","Federal policies never had any effect on farmers in Western Canada","Tariffs and freight rates had no connection to the cost of farming","Tariffs raised the cost of goods farmers needed, while freight rates made shipping their crops more expensive"], answer:3},
+     {q:"Why is the rise of the Progressive Party significant for understanding Canadian political history in the 1920s?", options:["This concept has no relevance to History","Political movements in Canada were never shaped by regional economic tensions","The Progressive Party had no lasting significance in Canadian political history","It reflected growing regional and economic tensions that shaped new political movements outside the traditional parties"], answer:3}
+   ]},
+]},
+{day:97, label:"Day 97 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Worldbuilding in Speculative Fiction", summary:"Grade 8 Language strand: worldbuilding is the process of creating a fictional setting with consistent rules, geography, history, or technology, giving speculative fiction stories a believable foundation.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is worldbuilding?", options:["Writing a story with absolutely no setting at all","Copying an existing real-world city exactly","A concept unrelated to writing","Creating a fictional setting with consistent rules and details"], answer:3},
+     {q:"Does worldbuilding often include details like geography, history, or technology?", options:["Worldbuilding only ever focuses on character names","A concept unrelated to worldbuilding","Yes","No, worldbuilding never includes any details about a setting"], answer:2},
+     {q:"Why is consistency important in worldbuilding?", options:["Fictional worlds are always more interesting when their rules keep changing randomly","Consistency never matters when building a fictional world","Inconsistent rules can confuse readers and break their trust in the story","This concept has no connection to writing"], answer:2},
+     {q:"Why might a speculative fiction writer create detailed rules for how magic or technology works in their world?", options:["It helps make the fictional world feel believable and logical, even though it does not exist in reality","This concept has no connection to writing","Detailed rules never make a fictional world feel more believable","Magic and technology never need any explanation in fiction"], answer:0},
+     {q:"Why might readers become more immersed in a story with strong worldbuilding?", options:["A well-developed setting can make a fictional world feel real and easier to imagine","Strong worldbuilding never has any effect on how immersed a reader feels","Readers are always equally immersed no matter how a setting is described","This concept has no relevance to writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Coordinate Proofs in Geometry", summary:"Grade 8 Math strand: a coordinate proof uses algebra and points on a coordinate plane, along with formulas like distance and slope, to prove geometric properties, such as whether a shape is a parallelogram.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What tools does a coordinate proof use to prove geometric properties?", options:["A concept unrelated to geometry","Only a protractor and no calculations","Guesswork with no formulas involved","Algebra and points on a coordinate plane"], answer:3},
+     {q:"Can the distance formula be used in a coordinate proof to compare side lengths?", options:["A concept unrelated to coordinate proofs","Yes","No, the distance formula has no connection to coordinate proofs","Side lengths can never be calculated using coordinates"], answer:1},
+     {q:"Which formula could help prove that two sides of a shape are parallel in a coordinate proof?", options:["A concept unrelated to coordinate proofs","The area formula","The volume formula","The slope formula"], answer:3},
+     {q:"Why might a coordinate proof be useful for showing that a quadrilateral is a rectangle?", options:["It can confirm properties like equal diagonals or right angles using calculated values","Coordinate proofs never help confirm any properties of a shape","This concept has no connection to geometry","Rectangles can never be proven using algebra or coordinates"], answer:0},
+     {q:"Why is combining algebra with geometry useful for proving properties that might be hard to see visually?", options:["This concept has no relevance to math","Visual appearance is always sufficient proof of a geometric property","Combining algebra and geometry never provides any useful evidence","Calculations provide precise, provable evidence rather than relying only on appearance"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Symbiosis: Mutualism, Commensalism, and Parasitism", summary:"Grade 8 Science strand: symbiosis describes close, long-term relationships between two different species, which can be classified as mutualism, commensalism, or parasitism depending on how each species is affected.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does symbiosis describe?", options:["A single species living completely alone","Close, long-term relationships between two different species","A concept unrelated to biology","The process of a species becoming extinct"], answer:1},
+     {q:"In mutualism, do both species benefit from the relationship?", options:["Yes","Mutualism always harms both species involved","A concept unrelated to symbiosis","No, in mutualism only one species ever benefits"], answer:0},
+     {q:"In parasitism, is one species harmed while the other benefits?", options:["Parasitism never involves any harm to either species","A concept unrelated to symbiosis","Yes","No, in parasitism both species always benefit equally"], answer:2},
+     {q:"Why might a clownfish and sea anemone relationship be classified as mutualism?", options:["This concept has no connection to symbiosis","The clownfish gains protection while the anemone benefits from the clownfish’s presence, such as cleaning or defense","This relationship provides no benefit to either the clownfish or the anemone","The clownfish and anemone have no relationship with each other at all"], answer:1},
+     {q:"Why is understanding symbiotic relationships important for studying ecosystems?", options:["Species in an ecosystem never interact with each other in any way","This concept has no relevance to science","Symbiotic relationships never have any effect on an ecosystem","These relationships can affect the survival and behaviour of species throughout a food web"], answer:3}
+   ]},
+  {subject:"History", title:"The Formation of the United Church of Canada", summary:"Grade 8 History strand: the United Church of Canada was formed in 1925 through the merger of the Methodist, Congregationalist, and most Presbyterian churches, becoming one of the largest Protestant denominations in the country.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the United Church of Canada formed?", options:["1970","1945","1925","1867"], answer:2},
+     {q:"Was the United Church of Canada formed through a merger of multiple existing churches?", options:["No, it was formed as a completely new religion with no prior connections","Yes","It was formed by splitting one large church into smaller pieces","A concept unrelated to the United Church of Canada"], answer:1},
+     {q:"Name one church that merged to form the United Church of Canada.", options:["Islamic","A concept unrelated to the United Church of Canada","Methodist","Buddhist"], answer:2},
+     {q:"Why might church leaders in the 1920s have chosen to merge into a single, unified church?", options:["Merging churches never provides any practical benefit","Combining resources and congregations could strengthen their ability to serve communities across the country","Church leaders in the 1920s had no interest in working together","This concept has no connection to Canadian history"], answer:1},
+     {q:"Why is the formation of the United Church of Canada considered a significant event in Canadian religious and social history?", options:["Religious institutions in Canada have never changed or merged throughout history","This concept has no relevance to History","This event had no lasting significance in Canadian history","It created one of the largest religious institutions in Canada, reflecting a major shift in the country’s religious landscape"], answer:3}
+   ]},
+]},
+{day:98, label:"Day 98 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Subordinate Clauses and Complex Sentences", summary:"Grade 8 Language strand: a subordinate clause has a subject and verb but cannot stand alone as a complete sentence, and combining it with an independent clause creates a complex sentence.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"Can a subordinate clause stand alone as a complete sentence?", options:["No","Subordinate clauses never contain a subject or verb","Yes, a subordinate clause is always a complete sentence on its own","A concept unrelated to grammar"], answer:0},
+     {q:"Does a subordinate clause have both a subject and a verb?", options:["A subordinate clause only ever contains a single noun","Yes","A concept unrelated to subordinate clauses","No, a subordinate clause never contains a subject or verb"], answer:1},
+     {q:"What type of sentence is formed by combining a subordinate clause with an independent clause?", options:["A list with no connected ideas","A sentence fragment with no meaning","A complex sentence","A concept unrelated to grammar"], answer:2},
+     {q:"Which sentence contains a subordinate clause?", options:["Although it was raining, we went outside.","It was raining outside today.","We went outside today.","Raining, outside, we, today."], answer:0},
+     {q:"Why might using subordinate clauses help a writer show relationships between ideas, like cause and effect?", options:["Cause and effect can never be expressed using clauses of any kind","Subordinate clauses never show any relationship between ideas","This concept has no connection to grammar","Subordinate clauses can signal how one idea depends on, contrasts with, or leads to another"], answer:3}
+   ]},
+  {subject:"Math", title:"Simplifying and Multiplying Rational Expressions", summary:"Grade 8 Math strand: a rational expression is a fraction containing polynomials, and simplifying or multiplying these expressions involves factoring and cancelling common factors, similar to working with numerical fractions.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is a rational expression?", options:["A fraction containing polynomials","A geometric shape with straight sides","A whole number with no fraction involved","A concept unrelated to algebra"], answer:0},
+     {q:"Does simplifying a rational expression often involve factoring?", options:["A concept unrelated to rational expressions","No, factoring is never used when simplifying a rational expression","Simplifying a rational expression never changes its form in any way","Yes"], answer:3},
+     {q:"When multiplying two rational expressions, what can you do with common factors?", options:["A concept unrelated to rational expressions","Cancel them out","Multiply them by zero","Always leave them completely unchanged"], answer:1},
+     {q:"Why is factoring an important first step before simplifying a rational expression?", options:["Rational expressions can never actually be simplified in any way","It reveals common factors in the numerator and denominator that can be cancelled","This concept has no connection to algebra","Factoring never reveals any useful information about a rational expression"], answer:1},
+     {q:"Why must you be careful about values that make a rational expression’s denominator equal to zero?", options:["Every possible value can always be safely substituted into a rational expression","Division by zero is undefined, so those values must be excluded from the domain","A denominator of zero never causes any problem in a rational expression","This concept has no connection to rational expressions"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Weather Fronts and Air Masses", summary:"Grade 8 Science strand: an air mass is a large body of air with a fairly uniform temperature and humidity, and a front forms where two different air masses meet, often causing changes in weather.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is an air mass?", options:["A single small cloud with no size at all","A type of ocean current","A concept unrelated to earth science","A large body of air with fairly uniform temperature and humidity"], answer:3},
+     {q:"Does a front form where two different air masses meet?", options:["No, fronts have no connection to air masses at all","Yes","Fronts only ever form over open ocean water","A concept unrelated to weather fronts"], answer:1},
+     {q:"Name one type of front, such as a cold front or warm front.", options:["Solid front","A concept unrelated to weather fronts","Cold front","Electric front"], answer:2},
+     {q:"Why might a cold front moving into a region cause sudden, intense weather changes?", options:["This concept has no connection to earth science","Air masses never actually move or interact with each other","Cold fronts never cause any noticeable change in the weather","A dense, fast-moving cold air mass can quickly push under and displace a warmer air mass, causing rapid changes"], answer:3},
+     {q:"Why do meteorologists track the movement of air masses and fronts to help forecast weather?", options:["Tracking air masses never provides any useful weather information","Understanding how these systems move can help predict upcoming changes in temperature and precipitation","Weather forecasting has no connection to air masses or fronts","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"History", title:"The Bluenose and Maritime Canadian Identity", summary:"Grade 8 History strand: the Bluenose was a Canadian racing schooner built in Nova Scotia in 1921 that became a symbol of Maritime pride and skill, later depicted on the Canadian dime.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Bluenose built?", options:["1867","1945","1921","1970"], answer:2},
+     {q:"Was the Bluenose built in Nova Scotia?", options:["Yes","No, the Bluenose was built in British Columbia","The Bluenose was built in a country outside Canada","A concept unrelated to the Bluenose"], answer:0},
+     {q:"Is the Bluenose depicted on a Canadian coin?", options:["Only paper currency has ever featured the Bluenose","A concept unrelated to the Bluenose","No, the Bluenose has never appeared on any Canadian currency","Yes"], answer:3},
+     {q:"Why might the Bluenose have become a symbol of pride for Maritime Canadians?", options:["Its racing success showcased the shipbuilding and sailing skill associated with the Maritime provinces","The Bluenose had no connection to Maritime pride or identity","This concept has no connection to Canadian history","The Bluenose was never actually a successful racing ship"], answer:0},
+     {q:"Why is it meaningful that an image of the Bluenose still appears on Canadian currency today?", options:["Canadian currency has never featured any historical ships or symbols","It reflects how a piece of regional history can become a lasting part of national identity and symbolism","This concept has no relevance to History","The Bluenose’s image has no connection to Canadian identity today"], answer:1}
+   ]},
+]},
+{day:99, label:"Day 99 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Motif and Recurring Imagery", summary:"Grade 8 Language strand: a motif is a recurring image, symbol, or idea that appears throughout a text, reinforcing its central themes each time it reappears.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a motif?", options:["A recurring image, symbol, or idea in a text","A single event that happens only once in a story","A concept unrelated to reading","The title of a book with no deeper meaning"], answer:0},
+     {q:"Does a motif appear only once in a text?", options:["Yes, a motif can only ever appear a single time","Motifs never actually appear anywhere within a text","No","A concept unrelated to motifs"], answer:2},
+     {q:"Why might a motif reinforce a text’s central themes?", options:["Its repeated appearance draws attention to a meaningful pattern","A motif never has any connection to a text’s themes","Repeated images or ideas never carry any deeper meaning","This concept has no connection to reading comprehension"], answer:0},
+     {q:"Why might an author repeat a specific image, like light or darkness, throughout a story?", options:["To reinforce meaning or connect it to a broader theme each time it appears","Authors never intentionally repeat images or symbols in their writing","This concept has no connection to literature","Repeating an image never adds any meaning to a story"], answer:0},
+     {q:"Why is recognizing motifs useful when analyzing a longer novel?", options:["It can reveal patterns that connect separate parts of the story into a unified theme","This concept has no relevance to reading comprehension","Recognizing motifs never helps with understanding a longer novel","Motifs never connect to any other part of a story"], answer:0}
+   ]},
+  {subject:"Math", title:"Introduction to the Unit Circle", summary:"Grade 8 Math strand: the unit circle is a circle with a radius of one centred at the origin, used to define sine and cosine values for different angles based on the coordinates of points on the circle.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is the radius of the unit circle?", options:["10","1","100","0"], answer:1},
+     {q:"Is the unit circle centred at the origin?", options:["No, the unit circle is never centred at the origin","A concept unrelated to the unit circle","Yes","The unit circle has no fixed centre point at all"], answer:2},
+     {q:"What do the coordinates of a point on the unit circle represent?", options:["The cosine and sine values of the angle","The radius of a completely different circle","The area enclosed by the circle","A concept unrelated to the unit circle"], answer:0},
+     {q:"Why is the unit circle a useful tool for understanding sine and cosine values beyond right triangles?", options:["It allows angles greater than 90 degrees to still have defined sine and cosine values","Sine and cosine only ever apply to angles inside a right triangle","The unit circle never helps define sine or cosine for any angle","This concept has no connection to math"], answer:0},
+     {q:"Why does the unit circle have a radius of exactly one?", options:["The radius of the unit circle has no effect on any calculations","A radius of one simplifies calculations, since the coordinates directly equal the cosine and sine values","This concept has no relevance to math","A radius of one was chosen completely at random with no mathematical reason"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Science of Sleep and Circadian Rhythms", summary:"Grade 8 Science strand: a circadian rhythm is an internal, roughly 24-hour biological clock that regulates sleep and wake cycles, influenced by external cues such as light and darkness.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is a circadian rhythm?", options:["A type of external weather pattern","An internal, roughly 24-hour biological clock","A device used to measure temperature","A concept unrelated to biology"], answer:1},
+     {q:"Does a circadian rhythm regulate sleep and wake cycles?", options:["Yes","Circadian rhythms only ever regulate digestion","A concept unrelated to circadian rhythms","No, circadian rhythms have no connection to sleep at all"], answer:0},
+     {q:"Name one external cue that can influence circadian rhythms.", options:["A favourite colour","Light","A type of food with no biological effect","A concept unrelated to circadian rhythms"], answer:1},
+     {q:"Why might exposure to bright screens before bed disrupt a person’s circadian rhythm?", options:["Bright screens never have any effect on a person’s circadian rhythm","This concept has no connection to biology","Sleep-related hormones are never affected by any external light source","Light exposure can signal to the brain that it is still daytime, delaying the release of sleep-related hormones"], answer:3},
+     {q:"Why is maintaining a consistent circadian rhythm considered important for overall health?", options:["A person’s circadian rhythm has no connection to their overall health","Circadian rhythms never actually affect any part of the human body","This concept has no relevance to science","Disruptions to this internal clock have been linked to problems with sleep quality, mood, and other body functions"], answer:3}
+   ]},
+  {subject:"History", title:"The King-Byng Affair of 1926", summary:"Grade 8 History strand: the King-Byng Affair of 1926 was a constitutional crisis in which Governor General Lord Byng refused Prime Minister Mackenzie King’s request to dissolve Parliament, raising questions about the limits of the Governor General’s power.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year did the King-Byng Affair take place?", options:["1867","1945","1926","1970"], answer:2},
+     {q:"Did Governor General Lord Byng refuse a request from Prime Minister Mackenzie King?", options:["No, Lord Byng agreed immediately to every request King made","Yes","Lord Byng had no interactions with Mackenzie King at all","A concept unrelated to the King-Byng Affair"], answer:1},
+     {q:"Was the request King made to dissolve Parliament?", options:["Yes","No, King never made any request involving Parliament","King requested that Byng resign from his position instead","A concept unrelated to the King-Byng Affair"], answer:0},
+     {q:"Why might the King-Byng Affair have raised questions about the limits of the Governor General’s power?", options:["The Governor General’s powers were never a topic of discussion in Canada","It was unclear whether the Governor General should have the authority to override the elected prime minister’s request","The King-Byng Affair never raised any questions about government power","This concept has no connection to Canadian history"], answer:1},
+     {q:"Why is the King-Byng Affair considered an important event in the development of Canadian constitutional convention?", options:["The roles of the Governor General and prime minister were never affected by this event","It helped clarify expectations about the relationship between the Governor General and an elected government going forward","The King-Byng Affair had no lasting effect on Canadian government or convention","This concept has no relevance to History"], answer:1}
+   ]},
+]},
+{day:100, label:"Day 100 — Fri", subjects:[
+  {subject:"Language", title:"Review: Language Arts and Grammar (Days 91-99)", summary:"Grade 8 Language strand review: students revisit frame narratives, elegy and tribute writing, appositives, neologisms, epistolary novels, sponsored content, worldbuilding, subordinate clauses, and motif.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a frame narrative?", options:["A story with only one single event and no characters","A concept unrelated to reading","A story that contains another story within it","A poem written in a fixed rhyme scheme"], answer:2},
+     {q:"What does an elegy typically do?", options:["A concept unrelated to writing","Mourns or honours someone who has died","Describes the steps of a science experiment","Advertises a product for sale"], answer:1},
+     {q:"What is a neologism?", options:["A grammatical rule with no connection to words","A newly coined word or expression","A word that has existed unchanged for centuries","A concept unrelated to vocabulary"], answer:1},
+     {q:"What format does an epistolary novel use to tell its story?", options:["A single uninterrupted narration with no documents at all","A concept unrelated to reading","A series of documents such as letters or diary entries","A collection of unrelated recipes"], answer:2},
+     {q:"What is a motif?", options:["A concept unrelated to reading","A single event that happens only once in a story","The title of a book with no deeper meaning","A recurring image, symbol, or idea in a text"], answer:3}
+   ]},
+  {subject:"Math", title:"Review: Advanced Algebra, Functions, and Geometry (Days 91-99)", summary:"Grade 8 Math strand review: students revisit logarithms, polynomial long division, function notation, the Fibonacci sequence, probability trees, piecewise functions, coordinate proofs, rational expressions, and the unit circle.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is a logarithm the inverse operation of?", options:["Division only","Addition","Exponentiation","A concept unrelated to math"], answer:2},
+     {q:"What does function notation like f(x) represent?", options:["The name of a variable with no other meaning","A random number with no connection to the function","A concept unrelated to algebra","The output of a function for a given input"], answer:3},
+     {q:"In the Fibonacci sequence, how is each new number formed?", options:["By multiplying the previous number by 2","By subtracting the previous two numbers","A concept unrelated to the Fibonacci sequence","By adding the two numbers before it"], answer:3},
+     {q:"What defines a piecewise function?", options:["A concept unrelated to functions","A function with no defined output at all","A single rule that applies to every possible input","Different expressions or rules depending on the interval of the input"], answer:3},
+     {q:"What is the radius of the unit circle?", options:["10","100","0","1"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Earth Science, Human Biology, and Technology (Days 91-99)", summary:"Grade 8 Science strand review: students revisit volcanoes, radioactivity, biomechanics, aerodynamics, data encryption, the digestive system, symbiosis, weather fronts, and circadian rhythms.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is a volcano?", options:["A large flat area with no geological activity","A concept unrelated to earth science","An opening in Earth’s crust where molten rock, gas, and ash can escape","A type of cloud formation"], answer:2},
+     {q:"What occurs when unstable atomic nuclei release energy and particles?", options:["Radioactivity","Photosynthesis","A concept unrelated to physics","Evaporation"], answer:0},
+     {q:"What does biomechanics study?", options:["How rocks form deep underground","A concept unrelated to science","How plants absorb sunlight","How muscles, bones, and joints work together to produce movement"], answer:3},
+     {q:"What does symbiosis describe?", options:["A concept unrelated to biology","The process of a species becoming extinct","Close, long-term relationships between two different species","A single species living completely alone"], answer:2},
+     {q:"What is a circadian rhythm?", options:["A device used to measure temperature","A concept unrelated to biology","A type of external weather pattern","An internal, roughly 24-hour biological clock"], answer:3}
+   ]},
+  {subject:"History", title:"Review: Canadian Autonomy and Identity in the 1920s (Days 91-99)", summary:"Grade 8 History strand review: students revisit the Halibut Treaty, the Chanak Affair, the Balfour Declaration, Clifford Sifton, the Group of Seven, the Progressive Party, the United Church of Canada, the Bluenose, and the King-Byng Affair.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Halibut Treaty signed?", options:["1945","1867","1923","1867"], answer:2},
+     {q:"In what year did the Chanak Affair take place?", options:["1970","1945","1922","1867"], answer:2},
+     {q:"In what year was the Balfour Declaration issued?", options:["1926","1970","1945","1867"], answer:0},
+     {q:"What type of artists made up the Group of Seven?", options:["Landscape painters","A concept unrelated to Canadian history","Portrait photographers","Classical musicians"], answer:0},
+     {q:"In what year did the King-Byng Affair take place?", options:["1867","1926","1945","1970"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;

@@ -21897,5 +21897,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 91,
+    "label": "Day 91 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Satire and Parody",
+        "summary": "Grade 10 English strand: satire uses humour, irony, or exaggeration to criticize human folly or societal flaws, while parody imitates a specific work or style for comic or critical effect.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does satire typically use to criticize human folly or societal flaws?",
+            "options": [
+              "Silence and blank pages",
+              "Only strictly factual, neutral reporting",
+              "A concept unrelated to reading",
+              "Humour, irony, or exaggeration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a parody typically imitate?",
+            "options": [
+              "Nothing at all; it is entirely original",
+              "Only non-fiction textbooks",
+              "A specific work or style, for comic or critical effect",
+              "A concept unrelated to satire"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can satire be used to critique political or social issues?",
+            "options": [
+              "Satire only ever discusses unrelated fictional worlds",
+              "No, satire never engages with political or social issues",
+              "A concept unrelated to satire",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose satire instead of a direct, serious essay to critique a social issue?",
+            "options": [
+              "Exaggeration and humour can make a critique more memorable and engaging while still making a serious point",
+              "Satire can never actually communicate a serious point",
+              "This concept has no connection to reading",
+              "Direct essays are always more effective than satire at critiquing an issue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is recognizing parody important when reading a text that closely imitates another well-known work?",
+            "options": [
+              "Parody never depends on the reader recognizing an imitated work",
+              "Recognizing the imitation helps a reader understand the humour or critique being made through the comparison",
+              "A parody is always completely unrelated to any other existing work",
+              "This concept has no relevance to reading comprehension"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Matrices: Determinants and Inverses of 2x2 Matrices",
+        "summary": "Grade 10 Math strand: the determinant of a 2x2 matrix is calculated as ad minus bc, and a matrix has an inverse only when its determinant is not zero.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "For a 2x2 matrix with entries a, b, c, d, how is the determinant calculated?",
+            "options": [
+              "a plus d minus b minus c",
+              "ad minus bc",
+              "A concept unrelated to matrices",
+              "Always exactly zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a 2x2 matrix have an inverse when its determinant equals zero?",
+            "options": [
+              "Yes, every matrix always has an inverse",
+              "The determinant never affects whether an inverse exists",
+              "No",
+              "A concept unrelated to determinants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the determinant of the matrix with a=4, b=2, c=3, d=1?",
+            "options": [
+              "0",
+              "10",
+              "2",
+              "-2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is checking the determinant an important first step before trying to find a matrix inverse?",
+            "options": [
+              "Every matrix inverse can be found regardless of its determinant value",
+              "If the determinant is zero, the matrix has no inverse, so calculating further would be pointless",
+              "The determinant never has any connection to whether an inverse exists",
+              "This concept has no connection to math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are matrix inverses useful for solving systems of linear equations written in matrix form?",
+            "options": [
+              "This concept has no connection to matrices",
+              "Matrix inverses have no connection to solving systems of equations",
+              "Multiplying by the inverse matrix isolates the variable matrix, similar to dividing in ordinary algebra",
+              "Systems of equations can never be represented using matrices"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Types of Chemical Reactions",
+        "summary": "Grade 10 Science strand: chemical reactions can be classified into types such as synthesis, decomposition, single displacement, double displacement, and combustion, based on how reactants rearrange into products.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Name one type of chemical reaction, such as synthesis.",
+            "options": [
+              "Synthesis",
+              "Osmosis",
+              "Photosynthesis only",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a synthesis reaction, do two or more substances combine to form a single product?",
+            "options": [
+              "Synthesis reactions only ever break a single substance apart",
+              "No, synthesis reactions never combine substances",
+              "A concept unrelated to synthesis reactions",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens in a decomposition reaction?",
+            "options": [
+              "A single compound breaks down into two or more simpler substances",
+              "Two elements combine to form a single compound",
+              "Nothing changes at all",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is classifying a reaction type useful before predicting its products?",
+            "options": [
+              "Recognizing the reaction type helps predict how the reactants will rearrange into products",
+              "This concept has no connection to chemistry",
+              "Classifying a reaction type never helps predict its products",
+              "All chemical reactions always produce identical products regardless of type"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is combustion considered a special type of chemical reaction in everyday life?",
+            "options": [
+              "Combustion reactions never involve oxygen as a reactant",
+              "Combustion reactions never release any energy",
+              "This concept has no relevance to chemistry",
+              "It releases energy quickly, typically as heat and light, and commonly involves a fuel reacting with oxygen"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Riel Rebellions and the Métis Resistance",
+        "summary": "Grade 10 History strand: Louis Riel led the Métis in the Red River Resistance of 1869-70 and the North-West Rebellion of 1885, resisting the loss of Métis land and rights as Canada expanded westward.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Who led the Métis resistance movements in 1869-70 and 1885?",
+            "options": [
+              "A figure with no connection to the Métis",
+              "A British colonial governor",
+              "Louis Riel",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What were the Métis resisting as Canada expanded westward?",
+            "options": [
+              "A concept unrelated to the Riel Rebellions",
+              "A change in the national flag",
+              "The loss of their land and rights",
+              "An increase in taxes on eastern provinces only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Did the Red River Resistance take place around 1869-70?",
+            "options": [
+              "No, it took place in the 1950s",
+              "Yes",
+              "A concept unrelated to Canadian history",
+              "The Red River Resistance never actually occurred"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the westward expansion of Canada in the late 1800s have created tension with Métis communities?",
+            "options": [
+              "This concept has no relevance to Canadian history",
+              "Expansion threatened Métis land, way of life, and political control in the region",
+              "Métis communities were never affected by any government policy",
+              "Westward expansion had no effect on Métis communities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Louis Riel a significant and debated figure in Canadian history?",
+            "options": [
+              "This concept has no relevance to history",
+              "Louis Riel is remembered only as a minor, unimportant historical figure",
+              "He is remembered both as a rebel executed for treason and as a founder of Manitoba and defender of Métis rights",
+              "Louis Riel has no lasting significance in Canadian history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "label": "Day 92 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Elegy and Tribute Writing",
+        "summary": "Grade 10 English strand: an elegy is a reflective piece of writing, often a poem, that mourns or honours someone who has died, balancing grief with celebration of their life.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does an elegy typically mourn or honour?",
+            "options": [
+              "A future event that has not yet happened",
+              "A concept unrelated to writing",
+              "A fictional character with no real-world basis",
+              "Someone who has died"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does an elegy often balance grief with celebration of a person’s life?",
+            "options": [
+              "No, an elegy only ever expresses celebration with no grief at all",
+              "A concept unrelated to elegies",
+              "An elegy never reflects on a person’s life in any way",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is most likely to be a line from an elegy?",
+            "options": [
+              "Add 12 and 9 to find the sum.",
+              "Though you are gone, your kindness still lights every room we shared.",
+              "The mitochondria is the powerhouse of the cell.",
+              "Turn left at the second traffic light."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer include specific personal memories when writing a tribute to someone who has died?",
+            "options": [
+              "Specific personal memories never add anything meaningful to a tribute",
+              "Tributes should always avoid mentioning any personal details",
+              "Specific memories help capture the person’s unique character and the impact they had on others",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is tone especially important to consider when writing an elegy or tribute?",
+            "options": [
+              "Tone has no effect on how a tribute or elegy is received",
+              "An elegy should always sound completely detached and impersonal",
+              "A thoughtful tone can honour the person’s memory while still feeling genuine and heartfelt",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Trigonometric Identities: Double-Angle Formulas",
+        "summary": "Grade 10 Math strand: double-angle formulas express trigonometric functions of twice an angle, such as sin(2x) equals 2 sin(x) cos(x), in terms of functions of the original angle.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the double-angle formula for sine express?",
+            "options": [
+              "A concept unrelated to trigonometry",
+              "The area of a triangle",
+              "Only the value of x itself",
+              "sin(2x) in terms of sin(x) and cos(x)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the double-angle identity for sine?",
+            "options": [
+              "sin(2x) = 2 sin(x) cos(x)",
+              "sin(2x) = 2 sin(x)",
+              "sin(2x) = cos(x) squared",
+              "sin(2x) = sin(x) + cos(x)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can double-angle formulas help simplify a trigonometric expression involving 2x?",
+            "options": [
+              "Double-angle formulas only apply to angles smaller than 2x",
+              "No, double-angle formulas never simplify any expression",
+              "A concept unrelated to trigonometric identities",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a double-angle formula be useful when solving a trigonometric equation that contains both sin(x) and sin(2x)?",
+            "options": [
+              "Double-angle formulas never help when solving equations with multiple angle measures",
+              "Equations with sin(2x) can never be simplified using any identity",
+              "This concept has no connection to math",
+              "Rewriting sin(2x) in terms of sin(x) and cos(x) allows the whole equation to be expressed using a single angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are trigonometric identities like the double-angle formulas useful tools in calculus and physics applications?",
+            "options": [
+              "Trigonometric identities have no application outside of pure geometry problems",
+              "Calculus and physics never involve any trigonometric expressions",
+              "This concept has no relevance to trigonometry",
+              "They allow complex trigonometric expressions to be rewritten in simpler, more manageable forms"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: The Digestive System",
+        "summary": "Grade 10 Science strand: the digestive system breaks down food into nutrients through mechanical and chemical processes across organs including the stomach, small intestine, and large intestine.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does the digestive system break food down into?",
+            "options": [
+              "A concept unrelated to biology",
+              "Nutrients",
+              "Only heat energy",
+              "Solid bone tissue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one organ involved in digestion, such as the stomach.",
+            "options": [
+              "A concept unrelated to the digestive system",
+              "The kidneys",
+              "The stomach",
+              "The lungs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does digestion involve both mechanical and chemical processes?",
+            "options": [
+              "Yes",
+              "Digestion never involves any chemical breakdown of food",
+              "A concept unrelated to digestion",
+              "No, digestion is purely a mechanical process with no chemical component"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does food need to be broken down into smaller nutrient molecules before the body can use it?",
+            "options": [
+              "This concept has no connection to biology",
+              "The body can absorb whole, unbroken pieces of food directly",
+              "Smaller molecules can be absorbed into the bloodstream and used by cells for energy and growth",
+              "Food never needs to be broken down for the body to use it"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the small intestine considered the primary site of nutrient absorption?",
+            "options": [
+              "The small intestine has no role in absorbing any nutrients",
+              "Its large surface area, created by structures like villi, allows for efficient absorption into the bloodstream",
+              "This concept has no relevance to biology",
+              "Nutrient absorption occurs entirely within the stomach instead"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The National Policy and Canadian Economic Nationalism",
+        "summary": "Grade 10 History strand: introduced by Sir John A. Macdonald in 1879, the National Policy used protective tariffs, railway expansion, and western settlement to build a self-sufficient Canadian economy.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Who introduced the National Policy in 1879?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Sir John A. Macdonald",
+              "A figure with no connection to Canadian economic policy",
+              "A foreign head of state"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one tool used by the National Policy, such as protective tariffs.",
+            "options": [
+              "Protective tariffs",
+              "A concept unrelated to the National Policy",
+              "A ban on all Canadian manufacturing",
+              "An immediate free trade agreement with Britain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the National Policy aim to build a more self-sufficient Canadian economy?",
+            "options": [
+              "Yes",
+              "No, the National Policy aimed to weaken the Canadian economy",
+              "A concept unrelated to the National Policy",
+              "Economic self-sufficiency was never a goal of Canadian policy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might protective tariffs have been used to encourage the growth of Canadian manufacturing?",
+            "options": [
+              "Protective tariffs never had any effect on domestic manufacturing",
+              "Tariffs raised the cost of imported goods, making domestically made products more competitive",
+              "Tariffs only ever applied to goods leaving Canada, not entering it",
+              "This concept has no relevance to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why was railway expansion considered a key part of the National Policy’s vision for Canada?",
+            "options": [
+              "The National Policy focused exclusively on foreign policy, not infrastructure",
+              "Railway expansion had no connection to Canada’s economic development",
+              "This concept has no relevance to history",
+              "A transcontinental railway could connect settlers, resources, and markets across the young country"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "label": "Day 93 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Conditional Sentences and Hypotheticals",
+        "summary": "Grade 10 English strand: conditional sentences express a cause-and-effect relationship using an if-clause and a result clause, ranging from real possibilities to purely hypothetical situations.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a conditional sentence typically express?",
+            "options": [
+              "A list of unrelated facts",
+              "A cause-and-effect relationship using an if-clause",
+              "A question with no possible answer",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of a hypothetical conditional?",
+            "options": [
+              "The exam starts at nine o’clock.",
+              "If I had studied harder, I would have passed the exam.",
+              "I studied for the exam yesterday.",
+              "She passed the exam easily."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do conditional sentences always describe situations that are guaranteed to happen?",
+            "options": [
+              "Yes, every conditional sentence describes a guaranteed outcome",
+              "Conditional sentences never describe any kind of possibility",
+              "No",
+              "A concept unrelated to conditional sentences"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a hypothetical conditional sentence to explore an alternate outcome in a story?",
+            "options": [
+              "This concept has no connection to writing",
+              "Hypothetical conditionals never add anything meaningful to a story",
+              "Alternate outcomes can never be expressed using conditional sentences",
+              "It allows the writer to explore what might have happened under different circumstances"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is verb tense important to get right within a conditional sentence?",
+            "options": [
+              "Correct tense usage clarifies whether the situation is realistic, hypothetical, or impossible",
+              "All conditional sentences use the exact same verb tense regardless of meaning",
+              "Verb tense has no effect on the meaning of a conditional sentence",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometric Series: Sum to n Terms",
+        "summary": "Grade 10 Math strand: a geometric series is the sum of terms in a geometric sequence, calculated using the formula S(n) equals a times (1 minus r to the n) divided by (1 minus r), where r is the common ratio.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is a geometric series?",
+            "options": [
+              "The sum of terms in a geometric sequence",
+              "A single isolated term in a sequence",
+              "A concept unrelated to sequences",
+              "A sequence that has no defined pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the geometric series formula, what does r represent?",
+            "options": [
+              "The number of terms in the sequence",
+              "A concept unrelated to geometric series",
+              "The common ratio between terms",
+              "The first term of the sequence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the sum of the first three terms of the geometric sequence 2, 4, 8?",
+            "options": [
+              "16",
+              "14",
+              "6",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the common ratio an essential piece of information when calculating a geometric series sum?",
+            "options": [
+              "The ratio determines how quickly each term grows or shrinks, directly affecting the total sum",
+              "A geometric series can be summed without knowing its common ratio",
+              "This concept has no connection to math",
+              "The common ratio has no effect on the sum of a geometric series"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might understanding geometric series be useful for calculating total compound interest earned over several years?",
+            "options": [
+              "Compound interest grows by a constant ratio each period, matching the structure of a geometric series",
+              "Compound interest always grows by a constant amount, not a constant ratio",
+              "Geometric series have no connection to compound interest calculations",
+              "This concept has no connection to sequences"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: The Photoelectric Effect and Quantum Physics Basics",
+        "summary": "Grade 10 Science strand: the photoelectric effect occurs when light striking a metal surface ejects electrons, providing early evidence that light behaves as discrete packets of energy called photons.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What happens during the photoelectric effect?",
+            "options": [
+              "A magnet attracts a piece of metal",
+              "Light striking a metal surface ejects electrons",
+              "A concept unrelated to physics",
+              "A metal surface absorbs sound waves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What name is given to the discrete packets of energy that make up light, evidenced by the photoelectric effect?",
+            "options": [
+              "Photons",
+              "Protons",
+              "Neutrons",
+              "A concept unrelated to quantum physics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the photoelectric effect provide early evidence that light has particle-like properties?",
+            "options": [
+              "A concept unrelated to the photoelectric effect",
+              "No, it provided no evidence about the nature of light at all",
+              "Yes",
+              "It proved light behaves only as a continuous wave with no particle properties"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why was the photoelectric effect difficult to explain using only a classical wave model of light?",
+            "options": [
+              "This concept has no connection to physics",
+              "The wave model of light perfectly explained every aspect of the photoelectric effect",
+              "The photoelectric effect has nothing to do with how light behaves",
+              "A pure wave model could not account for the immediate ejection of electrons regardless of light intensity at certain frequencies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the photoelectric effect considered an important foundation for the development of quantum physics?",
+            "options": [
+              "This concept has no relevance to physics",
+              "Quantum physics developed with no connection to any experimental evidence",
+              "The photoelectric effect had no influence on the development of quantum physics",
+              "It helped demonstrate that energy can be transferred in discrete quantized packets rather than continuously"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Klondike Gold Rush",
+        "summary": "Grade 10 History strand: the Klondike Gold Rush of 1896-99 drew tens of thousands of prospectors to the Yukon, spurring rapid settlement, infrastructure development, and Yukon’s creation as a separate territory in 1898.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what region did the Klondike Gold Rush take place?",
+            "options": [
+              "The Yukon",
+              "The Maritime provinces",
+              "Southern Ontario",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What drew tens of thousands of prospectors to the Yukon in the late 1890s?",
+            "options": [
+              "A concept unrelated to the Klondike Gold Rush",
+              "A newly built university",
+              "A major sporting event",
+              "The discovery of gold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did the Yukon become a separate territory partly because of the Gold Rush’s rapid population growth?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Yes",
+              "No, the Yukon’s territorial status had no connection to the Gold Rush",
+              "The Yukon has never been recognized as a distinct territory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the sudden arrival of tens of thousands of prospectors have created urgent infrastructure challenges in the Yukon?",
+            "options": [
+              "This concept has no relevance to Canadian history",
+              "The Yukon already had extensive infrastructure in place before the Gold Rush began",
+              "A rapid population increase never creates any infrastructure challenges",
+              "Existing settlements were not prepared to house, feed, and transport such a rapid and massive increase in population"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Klondike Gold Rush often studied alongside its impact on Indigenous peoples of the Yukon?",
+            "options": [
+              "The Gold Rush had no effect on Indigenous peoples living in the Yukon",
+              "The rapid influx of newcomers significantly disrupted the land, resources, and ways of life of local Indigenous communities",
+              "This concept has no relevance to history",
+              "Indigenous communities were not present in the Yukon before the Gold Rush"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "label": "Day 94 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Road Novel and Journey Narratives",
+        "summary": "Grade 10 English strand: the road novel follows a character’s physical journey, often paralleling an internal journey of self-discovery, growth, or transformation.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What kind of journey does a road novel typically follow?",
+            "options": [
+              "A physical journey that often parallels an internal one",
+              "A journey that takes place entirely in a single room",
+              "A journey with no characters involved at all",
+              "A concept unrelated to literature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can a road novel’s physical journey parallel a character’s internal growth or transformation?",
+            "options": [
+              "Yes",
+              "No, a road novel’s journey never connects to internal growth",
+              "Physical and internal journeys are always completely unrelated in fiction",
+              "A concept unrelated to road novels"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a road novel use travel through unfamiliar places to reveal something about a character?",
+            "options": [
+              "Unfamiliar places never reveal anything meaningful about a character",
+              "A road novel’s setting never has any effect on its characters",
+              "New environments and challenges can force a character to confront their assumptions and grow",
+              "This concept has no connection to literature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these best reflects a common structure of a road novel?",
+            "options": [
+              "A character sets out on a journey and returns changed by what they experienced along the way.",
+              "A character never leaves their home throughout the entire story.",
+              "A textbook chapter listing historical dates with no narrative.",
+              "A story told entirely through a series of unrelated recipes."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might studying the road novel genre help readers understand how setting can shape a story’s themes?",
+            "options": [
+              "This concept has no relevance to literature",
+              "Road novels never actually involve any change in setting",
+              "The changing landscapes and encounters along the journey often directly connect to the novel’s central themes",
+              "Setting never has any connection to a story’s themes in a road novel"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: Correlation vs Causation",
+        "summary": "Grade 10 Math strand: correlation describes a relationship between two variables, but correlation alone does not prove that one variable causes the other to change.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does correlation describe between two variables?",
+            "options": [
+              "A guarantee that one variable causes the other",
+              "A concept unrelated to statistics",
+              "A relationship or pattern between them",
+              "The exact numerical value of both variables"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does correlation alone prove that one variable causes changes in the other?",
+            "options": [
+              "A concept unrelated to correlation",
+              "Yes, correlation always proves causation",
+              "No",
+              "Causation can never be studied using statistics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If ice cream sales and drowning incidents both rise in summer, what does this most likely represent?",
+            "options": [
+              "A correlation caused by a third factor (warm weather), not direct causation",
+              "Proof that ice cream sales cause drowning incidents",
+              "Proof that drowning incidents cause ice cream sales",
+              "A concept unrelated to statistics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to consider other possible explanations before concluding that one variable causes another?",
+            "options": [
+              "Every correlation always has a single, obvious direct cause",
+              "This concept has no connection to statistics",
+              "A third, unconsidered variable might actually be responsible for changes in both variables being studied",
+              "Considering other explanations never matters when analyzing a correlation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists design controlled experiments rather than relying only on correlational data to establish causation?",
+            "options": [
+              "Controlled experiments can isolate variables and rule out other explanations in a way correlational data alone cannot",
+              "Correlational data always provides definitive proof of causation on its own",
+              "Controlled experiments never provide any advantage over correlational data",
+              "This concept has no connection to statistics"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: The Carbon Cycle",
+        "summary": "Grade 10 Science strand: the carbon cycle describes how carbon moves between the atmosphere, oceans, living organisms, and the earth through processes such as photosynthesis, respiration, and combustion.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does the carbon cycle describe?",
+            "options": [
+              "How electricity flows through a circuit",
+              "How carbon moves between the atmosphere, oceans, organisms, and the earth",
+              "A concept unrelated to earth science",
+              "How rocks form deep underground only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one process involved in the carbon cycle, such as photosynthesis.",
+            "options": [
+              "Photosynthesis",
+              "Magnetism",
+              "Refraction",
+              "A concept unrelated to the carbon cycle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does burning fossil fuels release carbon into the atmosphere?",
+            "options": [
+              "A concept unrelated to the carbon cycle",
+              "No, burning fossil fuels never releases carbon into the atmosphere",
+              "Yes",
+              "Fossil fuels contain no carbon at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might increased combustion of fossil fuels disrupt the natural balance of the carbon cycle?",
+            "options": [
+              "The carbon cycle is entirely unaffected by any human activity",
+              "This concept has no connection to earth science",
+              "Combustion of fossil fuels never affects the balance of the carbon cycle",
+              "It releases stored carbon into the atmosphere faster than natural processes can absorb it, increasing atmospheric carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are oceans and forests often described as important carbon sinks?",
+            "options": [
+              "They absorb and store significant amounts of atmospheric carbon dioxide, helping regulate the carbon cycle",
+              "Carbon sinks have no connection to the overall carbon cycle",
+              "This concept has no relevance to earth science",
+              "Oceans and forests never absorb or store any carbon"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Underground Railroad and Early Black Communities in Canada",
+        "summary": "Grade 10 History strand: the Underground Railroad was a network of secret routes and safe houses that helped freedom seekers escape enslavement in the United States, with many settling and building communities in Canada.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Underground Railroad?",
+            "options": [
+              "A network of secret routes and safe houses helping freedom seekers escape enslavement",
+              "A government program to build new highways",
+              "A literal underground train system built in Canada",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where did many freedom seekers who used the Underground Railroad settle?",
+            "options": [
+              "In Canada",
+              "Exclusively in the southern United States",
+              "Nowhere; freedom seekers never actually reached any destination",
+              "A concept unrelated to the Underground Railroad"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did some freedom seekers build lasting Black communities in Canada after arriving?",
+            "options": [
+              "A concept unrelated to the Underground Railroad",
+              "All freedom seekers immediately returned to the United States",
+              "No, no lasting communities were ever established in Canada",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might Canada have been an appealing destination for freedom seekers travelling the Underground Railroad?",
+            "options": [
+              "The Underground Railroad had no connection to Canada whatsoever",
+              "Slavery had been abolished across the British Empire, offering freedom seekers legal protection from enslavement",
+              "This concept has no relevance to Canadian history",
+              "Canada offered no legal protection or safety for freedom seekers at the time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is studying the history of early Black communities in Canada important for understanding the country’s full history?",
+            "options": [
+              "Black Canadian history has no connection to the broader story of Canada",
+              "Early Black communities in Canada have no historical significance",
+              "This concept has no relevance to history",
+              "It reveals a significant part of Canada’s past often underrepresented in broader historical narratives"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "label": "Day 95 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: The Toast and Ceremonial Speech",
+        "summary": "Grade 10 English strand: a ceremonial speech, such as a toast, marks a special occasion by honouring a person or event, typically balancing sincerity, brevity, and an appropriate tone.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a ceremonial speech, such as a toast, typically mark?",
+            "options": [
+              "A routine, everyday announcement",
+              "A formal complaint about a product",
+              "A concept unrelated to oral communication",
+              "A special occasion, honouring a person or event"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Should a ceremonial speech generally balance sincerity, brevity, and an appropriate tone?",
+            "options": [
+              "Yes",
+              "No, ceremonial speeches should always be as long as possible",
+              "Tone never matters in a ceremonial speech",
+              "A concept unrelated to ceremonial speeches"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these would most likely appear in a wedding toast?",
+            "options": [
+              "The mitochondria is the powerhouse of the cell.",
+              "Turn to page forty-two in your textbook.",
+              "I have watched their friendship grow into something truly special, and I could not be prouder to celebrate them today.",
+              "Please submit your assignment by Friday at noon."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a speaker share a brief, specific anecdote in a toast rather than only general praise?",
+            "options": [
+              "Specific anecdotes never add anything meaningful to a toast",
+              "This concept has no connection to oral communication",
+              "General praise is always more effective than a specific story",
+              "A specific anecdote can make the tribute feel more personal, genuine, and memorable to the audience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is knowing your audience especially important when preparing a ceremonial speech?",
+            "options": [
+              "Understanding the audience helps the speaker choose appropriate tone, references, and length for the occasion",
+              "The audience never affects how a ceremonial speech should be prepared",
+              "This concept has no relevance to oral communication",
+              "Every ceremonial speech should be delivered in exactly the same way regardless of audience"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Tree Diagrams and Compound Events",
+        "summary": "Grade 10 Math strand: a probability tree diagram visually maps out all possible outcomes of a sequence of events, making it easier to calculate the probability of compound events.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a probability tree diagram help visualize?",
+            "options": [
+              "Only the outcome of a single isolated event",
+              "A concept unrelated to probability",
+              "The area of a geometric shape",
+              "All possible outcomes of a sequence of events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a coin is flipped twice, how many total outcome branches appear at the end of a tree diagram?",
+            "options": [
+              "Four",
+              "Eight",
+              "One",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find the probability of a specific path through a tree diagram, what operation is typically used on the branch probabilities?",
+            "options": [
+              "Subtraction",
+              "Addition",
+              "A concept unrelated to tree diagrams",
+              "Multiplication"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a tree diagram be especially helpful when calculating the probability of a specific sequence of independent events?",
+            "options": [
+              "Sequences of events can never be represented visually",
+              "This concept has no connection to math",
+              "It organizes each stage of the event clearly, making it easier to multiply the correct branch probabilities together",
+              "Tree diagrams never help with calculating probabilities of a sequence of events"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a tree diagram become impractical for events with a very large number of possible outcomes?",
+            "options": [
+              "This concept has no connection to probability",
+              "The number of outcomes never affects how practical a tree diagram is",
+              "The diagram would need so many branches that it becomes difficult to draw and read clearly",
+              "Tree diagrams work equally well no matter how many outcomes are involved"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: World Biomes",
+        "summary": "Grade 10 Science strand: a biome is a large region characterized by its climate, and the plant and animal communities adapted to it, such as tundra, taiga, grassland, desert, and rainforest.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is a biome primarily characterized by?",
+            "options": [
+              "Only the colour of its soil",
+              "The number of humans who live there",
+              "A concept unrelated to biology",
+              "Its climate, and the plants and animals adapted to it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one type of biome, such as tundra.",
+            "options": [
+              "A single species of animal",
+              "A concept unrelated to biomes",
+              "A concept unrelated to Earth’s regions",
+              "Tundra"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are organisms in a specific biome typically adapted to survive its particular climate conditions?",
+            "options": [
+              "No, organisms are never adapted to their biome’s climate",
+              "A concept unrelated to biomes",
+              "Climate has no connection to which organisms live in a biome",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might animals in a desert biome have adaptations for conserving water?",
+            "options": [
+              "Desert animals never need any special adaptations to survive",
+              "Desert biomes typically receive very little rainfall, so water conservation improves an organism’s chance of survival",
+              "This concept has no connection to biology",
+              "Deserts always receive plentiful rainfall throughout the year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding biomes useful for predicting how climate change might affect different regions of the world?",
+            "options": [
+              "Since biomes are defined by climate, shifting climate patterns could alter which species can survive in a given region",
+              "This concept has no relevance to biology",
+              "Biomes have no connection to climate and are therefore unaffected by climate change",
+              "Every biome responds to climate change in exactly the same way"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Fenian Raids and Pre-Confederation Defence",
+        "summary": "Grade 10 History strand: the Fenian Raids of the 1860s, a series of small-scale attacks by Irish-American militants along the Canadian border, heightened concerns about defence and helped push the colonies toward Confederation.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Who carried out the Fenian Raids of the 1860s?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Irish-American militants",
+              "The British Royal Navy",
+              "French colonial forces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where did the Fenian Raids generally take place?",
+            "options": [
+              "Deep within the Arctic",
+              "Along the Canadian border",
+              "A concept unrelated to the Fenian Raids",
+              "Exclusively in British Columbia"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Did the Fenian Raids heighten concerns about colonial defence in British North America?",
+            "options": [
+              "Yes",
+              "Defence was never a consideration for the colonies at this time",
+              "No, the raids caused no concern about defence at all",
+              "A concept unrelated to the Fenian Raids"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the threat posed by the Fenian Raids have encouraged the British North American colonies to consider uniting?",
+            "options": [
+              "Individual colonies were always better equipped for defence than a unified one",
+              "A larger, united colony could organize a stronger, more coordinated defence than several separate small colonies",
+              "This concept has no relevance to Canadian history",
+              "The threat of the raids had no influence on colonial unification efforts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are the Fenian Raids often mentioned alongside the broader story of Confederation in 1867?",
+            "options": [
+              "The Fenian Raids have no connection to the story of Confederation",
+              "This concept has no relevance to history",
+              "They are considered one of several factors that pushed the colonies toward seeking greater unity and security",
+              "Confederation occurred with no external pressures influencing the decision"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "label": "Day 96 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Multiple Narrators",
+        "summary": "Grade 10 English strand: stories told through multiple narrators present the same events from different perspectives, allowing readers to compare viewpoints and assess each narrator’s reliability.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What can multiple narrators present in a story?",
+            "options": [
+              "Only a single, unchanging viewpoint",
+              "A concept unrelated to reading",
+              "A story with no characters at all",
+              "The same events from different perspectives"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can comparing multiple narrators help readers assess each narrator’s reliability?",
+            "options": [
+              "A concept unrelated to multiple narrators",
+              "No, comparing narrators never reveals anything about reliability",
+              "All narrators are always equally reliable by default",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author use multiple narrators instead of a single narrator to tell a story?",
+            "options": [
+              "It allows readers to see a fuller, more complex picture of events and characters",
+              "This concept has no connection to reading",
+              "Multiple narrators never add anything meaningful to how a story is told",
+              "A single narrator always provides a more complete picture than multiple narrators"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two narrators describe the same conversation very differently, what might a careful reader conclude?",
+            "options": [
+              "The two descriptions must both be entirely accurate with no difference at all",
+              "At least one narrator’s perspective, memory, or bias is shaping how they describe the event",
+              "Differences between narrators never provide any useful insight",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is tracking whose perspective is being presented important when reading a multi-narrator novel?",
+            "options": [
+              "Understanding which narrator is speaking helps readers correctly interpret events, tone, and bias in that section",
+              "It never matters whose perspective is being presented in a multi-narrator novel",
+              "This concept has no relevance to reading comprehension",
+              "Every narrator in a novel always presents the exact same interpretation of events"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Functions: Composition of Functions",
+        "summary": "Grade 10 Math strand: function composition combines two functions by applying one function to the output of another, written as f(g(x)), evaluating g(x) first.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "In the composition f(g(x)), which function is evaluated first?",
+            "options": [
+              "A concept unrelated to function composition",
+              "f(x)",
+              "g(x)",
+              "Neither function is ever evaluated"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If f(x) = x + 3 and g(x) = 2x, what is f(g(2))?",
+            "options": [
+              "7",
+              "5",
+              "4",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does function composition combine two functions by using the output of one as the input of the other?",
+            "options": [
+              "Yes",
+              "Composition always adds the two functions together instead",
+              "A concept unrelated to function composition",
+              "No, function composition never uses one function’s output as another’s input"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the order of functions important when evaluating a composition like f(g(x))?",
+            "options": [
+              "f(g(x)) and g(f(x)) always produce exactly the same result",
+              "This concept has no connection to math",
+              "The order of functions never affects the result of a composition",
+              "Changing the order can produce a completely different result, since g(x) is evaluated before applying f"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might function composition be useful for modelling a real-world process with multiple sequential steps, such as a discount followed by a tax?",
+            "options": [
+              "Function composition has no application to modelling multi-step real-world processes",
+              "This concept has no connection to functions",
+              "Each function can represent one step, and composing them models applying the steps in the correct sequential order",
+              "Multi-step processes can never be represented using function composition"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Electric Power and Energy Consumption",
+        "summary": "Grade 10 Science strand: electric power, measured in watts, describes the rate at which electrical energy is transferred or converted, and energy consumption over time is often billed in kilowatt-hours.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "In what unit is electric power typically measured?",
+            "options": [
+              "A concept unrelated to physics",
+              "Litres",
+              "Metres",
+              "Watts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does electric power describe?",
+            "options": [
+              "A concept unrelated to electric power",
+              "The total distance travelled by an electric current",
+              "The rate at which electrical energy is transferred or converted",
+              "The colour of an electrical wire"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is electricity consumption on a household bill commonly measured in kilowatt-hours?",
+            "options": [
+              "Electricity bills are always measured only in watts, never kilowatt-hours",
+              "A concept unrelated to energy consumption",
+              "No, household electricity bills never use any unit of measurement",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might leaving a high-power appliance running for many hours significantly increase an electricity bill?",
+            "options": [
+              "The length of time an appliance runs never affects total energy consumption",
+              "Electricity bills are calculated using only the appliance’s power rating, ignoring time",
+              "Total energy consumed depends on both the power rating and the length of time the appliance runs",
+              "This concept has no connection to physics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding electric power and energy consumption useful for making decisions about home energy efficiency?",
+            "options": [
+              "Energy consumption is identical for every appliance regardless of its power rating",
+              "Electric power has no connection to household energy efficiency decisions",
+              "This concept has no relevance to physics",
+              "It helps identify which appliances use the most energy, informing choices that can reduce electricity costs"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in the Boer War",
+        "summary": "Grade 10 History strand: Canada sent volunteer troops to support Britain in the South African (Boer) War of 1899-1902, marking one of the first times Canada contributed forces to a British imperial conflict overseas.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Which country did Canada send troops to support during the Boer War?",
+            "options": [
+              "Britain",
+              "A concept unrelated to Canadian history",
+              "The United States",
+              "A country with no connection to the Boer War"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what years did the Boer War take place?",
+            "options": [
+              "1812-1815",
+              "1945-1948",
+              "A concept unrelated to the Boer War",
+              "1899-1902"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Was the Boer War one of the first conflicts in which Canada sent troops overseas as part of a British imperial effort?",
+            "options": [
+              "No, Canada had already sent troops overseas many times before this",
+              "Canada never sent any troops to support Britain in this conflict",
+              "Yes",
+              "A concept unrelated to the Boer War"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canada’s decision to send volunteer troops to the Boer War have sparked debate at home?",
+            "options": [
+              "Some Canadians felt a strong loyalty to Britain, while others questioned involvement in a conflict distant from Canadian interests",
+              "The decision to send troops was entirely uncontroversial and unanimous",
+              "No Canadians held any opinion at all about sending troops overseas",
+              "This concept has no relevance to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Canada’s involvement in the Boer War often seen as an early step in the development of Canadian foreign policy?",
+            "options": [
+              "The Boer War had no connection to the development of Canadian foreign policy",
+              "This concept has no relevance to history",
+              "Canadian foreign policy has never been influenced by military involvement decisions",
+              "It raised early questions about how much independence Canada should exercise in decisions about overseas military involvement"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "label": "Day 97 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Historical Fiction Short Story",
+        "summary": "Grade 10 English strand: historical fiction blends invented characters and plot with accurate historical settings and events, requiring research to balance creativity with authenticity.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does historical fiction typically blend?",
+            "options": [
+              "A concept unrelated to writing",
+              "Only real events with no invented elements at all",
+              "Invented characters and plot with accurate historical settings and events",
+              "Random, unrelated topics with no research involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does writing historical fiction typically require research into a real historical period?",
+            "options": [
+              "A concept unrelated to historical fiction",
+              "Yes",
+              "No, historical fiction requires no research whatsoever",
+              "Research is only needed for non-fiction, never fiction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer research small, everyday details of a historical period, such as clothing or food, before writing a story set in that era?",
+            "options": [
+              "Readers never notice or care about historical accuracy in fiction",
+              "Accurate details help create a believable, immersive setting for readers",
+              "Small details about daily life never matter when writing historical fiction",
+              "This concept has no connection to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must a historical fiction writer balance creative invention with factual accuracy?",
+            "options": [
+              "Historical accuracy never matters as long as the story is entertaining",
+              "Straying too far from established facts can undermine the story’s credibility, while too little creativity can feel like a dry report",
+              "Creative invention and factual accuracy are never both required at the same time",
+              "This concept has no connection to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might historical fiction be a valuable way to help readers connect emotionally with a past event?",
+            "options": [
+              "Following an individual character’s experience can make a distant historical event feel personal and relatable",
+              "Emotional connection is only ever possible through non-fiction writing",
+              "This concept has no relevance to writing",
+              "Historical fiction never helps readers connect emotionally with the past"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Similar Triangles and Indirect Measurement",
+        "summary": "Grade 10 Math strand: similar triangles have equal corresponding angles and proportional sides, allowing indirect measurement of heights or distances that are difficult to measure directly.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is true of the corresponding angles in similar triangles?",
+            "options": [
+              "They always add up to 180 degrees combined",
+              "They are always right angles",
+              "A concept unrelated to geometry",
+              "They are equal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is true of the corresponding sides in similar triangles?",
+            "options": [
+              "They have no relationship to each other",
+              "They are always exactly equal in length",
+              "They are proportional",
+              "A concept unrelated to similar triangles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can similar triangles be used to indirectly measure the height of a tall object, like a tree?",
+            "options": [
+              "Indirect measurement is only possible using a measuring tape",
+              "No, similar triangles can never be used for indirect measurement",
+              "A concept unrelated to indirect measurement",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the shadow method, using similar triangles, a practical way to measure the height of a very tall building?",
+            "options": [
+              "Similar triangles have no connection to measuring shadows or heights",
+              "This concept has no connection to geometry",
+              "The shadow method never provides an accurate estimate of height",
+              "It avoids the need to physically climb or directly measure the building by comparing proportional shadow lengths instead"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must the ground be level and the sun’s angle be accounted for when using shadows and similar triangles to estimate height?",
+            "options": [
+              "Ground conditions and light angle never have any effect on this measurement method",
+              "Shadows are always exactly proportional regardless of any outside conditions",
+              "Uneven ground or an inconsistent light angle could distort the shadow lengths, leading to an inaccurate proportional comparison",
+              "This concept has no connection to math"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Ideal Gas Law",
+        "summary": "Grade 10 Science strand: the ideal gas law, PV equals nRT, relates a gas’s pressure, volume, amount, and temperature, extending the individual gas laws into a single combined relationship.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What four quantities does the ideal gas law relate?",
+            "options": [
+              "Only mass and colour",
+              "Pressure, volume, amount of gas, and temperature",
+              "Only the size and shape of the container",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the letter R represent in the ideal gas law equation?",
+            "options": [
+              "The universal gas constant",
+              "The exact temperature of the gas",
+              "The mass of the gas sample",
+              "A concept unrelated to the ideal gas law"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the ideal gas law combine relationships found in the individual gas laws, like Boyle’s and Charles’s laws?",
+            "options": [
+              "No, the ideal gas law has no connection to the individual gas laws",
+              "A concept unrelated to the ideal gas law",
+              "Yes",
+              "The individual gas laws are completely unrelated to pressure, volume, or temperature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the ideal gas law considered more broadly useful than any single individual gas law on its own?",
+            "options": [
+              "The ideal gas law is never more useful than the individual gas laws",
+              "This concept has no connection to chemistry",
+              "The ideal gas law can only be applied when every variable is already known",
+              "It allows multiple variables to be related and solved for at once, rather than holding all but two quantities constant"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might real gases behave slightly differently from what the ideal gas law predicts under very high pressure or low temperature?",
+            "options": [
+              "This concept has no relevance to chemistry",
+              "Real gas particles have volume and intermolecular forces that the ideal gas law’s simplified assumptions do not fully account for",
+              "Real gases always behave in exactly the same way the ideal gas law predicts under every condition",
+              "Pressure and temperature never have any effect on how closely a gas follows the ideal gas law"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Regina Manifesto and the Founding of the CCF",
+        "summary": "Grade 10 History strand: the Co-operative Commonwealth Federation, founded in 1932 and outlined in the 1933 Regina Manifesto, called for economic planning and social welfare reforms in response to the hardships of the Great Depression.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What political movement was outlined in the 1933 Regina Manifesto?",
+            "options": [
+              "A regional business association",
+              "A movement with no connection to Canadian politics",
+              "The Co-operative Commonwealth Federation (CCF)",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What economic hardship influenced the founding of the CCF?",
+            "options": [
+              "The Great Depression",
+              "A temporary shortage of imported goods",
+              "A period of Canadian economic prosperity with no hardship at all",
+              "A concept unrelated to the CCF"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the Regina Manifesto call for economic planning and social welfare reforms?",
+            "options": [
+              "No, it called for the elimination of all government involvement in the economy",
+              "Social welfare reform was never part of the CCF’s platform",
+              "A concept unrelated to the Regina Manifesto",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might widespread economic hardship during the Great Depression have encouraged support for a new political movement like the CCF?",
+            "options": [
+              "This concept has no relevance to Canadian history",
+              "Many Canadians facing unemployment and poverty sought new political solutions beyond the existing major parties",
+              "The Great Depression had no connection to the founding of the CCF",
+              "Economic hardship never influences interest in new political movements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the CCF considered significant in the broader history of Canadian social policy?",
+            "options": [
+              "This concept has no relevance to history",
+              "The CCF had no lasting influence on later Canadian social policy",
+              "Many of its early proposals influenced later Canadian social programs, including aspects of the welfare state",
+              "Canadian social programs developed with no connection to earlier political movements"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "label": "Day 98 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: The Subjunctive Mood",
+        "summary": "Grade 10 English strand: the subjunctive mood expresses wishes, hypothetical situations, or demands, often appearing after phrases like if I were or it is important that.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does the subjunctive mood typically express?",
+            "options": [
+              "Wishes, hypothetical situations, or demands",
+              "Questions with a definite yes or no answer",
+              "Only simple, factual statements",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses the subjunctive mood?",
+            "options": [
+              "If I were taller, I would join the basketball team.",
+              "If I was taller, I would join the basketball team.",
+              "If I am taller, I would join the basketball team.",
+              "If I will be taller, I would join the basketball team."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the subjunctive mood often appear after phrases like it is important that?",
+            "options": [
+              "A concept unrelated to the subjunctive mood",
+              "That phrase always requires the simple past tense instead",
+              "Yes",
+              "No, the subjunctive mood never follows such phrases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use the subjunctive mood when describing a wish or an unreal situation?",
+            "options": [
+              "The subjunctive mood never signals anything different from a regular factual statement",
+              "Wishes and hypothetical situations are always expressed using the simple present tense",
+              "The subjunctive mood signals to readers that the situation being described is hypothetical, not factual",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might correctly using the subjunctive mood strengthen formal or academic writing?",
+            "options": [
+              "The subjunctive mood has no effect on the quality or clarity of formal writing",
+              "It shows precise control over grammar and clearly distinguishes hypothetical ideas from stated facts",
+              "Formal writing should always avoid using the subjunctive mood entirely",
+              "This concept has no connection to writing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Exponential and Logarithmic Equations: Solving Techniques",
+        "summary": "Grade 10 Math strand: exponential equations can be solved by matching bases or applying logarithms to both sides, while logarithmic equations are often solved by rewriting them in exponential form.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is one method for solving an exponential equation when both sides can be written with the same base?",
+            "options": [
+              "Always assuming the answer is zero",
+              "Ignoring the exponents completely",
+              "Matching bases and setting the exponents equal",
+              "A concept unrelated to exponential equations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Solve for x: 2 to the power of x equals 8.",
+            "options": [
+              "4",
+              "3",
+              "8",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one common method for solving a logarithmic equation?",
+            "options": [
+              "Rewriting it in exponential form",
+              "Ignoring the logarithm entirely",
+              "Always assuming x equals one",
+              "A concept unrelated to logarithmic equations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might applying a logarithm to both sides of an exponential equation be useful when the bases cannot easily be matched?",
+            "options": [
+              "This concept has no connection to math",
+              "Applying a logarithm never helps solve an exponential equation",
+              "Logarithms allow the variable exponent to be brought down and solved using regular algebraic steps",
+              "Exponential equations can only ever be solved by guessing and checking"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is checking a solution important after solving a logarithmic equation?",
+            "options": [
+              "This concept has no connection to logarithms",
+              "Every possible numerical solution is always valid for a logarithmic equation",
+              "Logarithms are undefined for zero or negative values, so a solution must be checked to ensure it is valid",
+              "Solutions to logarithmic equations never need to be checked for validity"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Protein Synthesis",
+        "summary": "Grade 10 Science strand: protein synthesis occurs through transcription, where DNA is copied into messenger RNA, and translation, where that RNA is used to assemble a specific sequence of amino acids into a protein.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What are the two main stages of protein synthesis?",
+            "options": [
+              "Digestion and absorption",
+              "Transcription and translation",
+              "A concept unrelated to biology",
+              "Mitosis and meiosis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens during transcription?",
+            "options": [
+              "A cell divides into two identical cells",
+              "DNA is copied into messenger RNA",
+              "A concept unrelated to protein synthesis",
+              "A protein is broken down into amino acids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does translation involve assembling amino acids into a protein based on an RNA sequence?",
+            "options": [
+              "Amino acids are assembled with no connection to RNA at all",
+              "Yes",
+              "A concept unrelated to translation",
+              "No, translation never involves assembling amino acids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the order of amino acids assembled during translation so important to a protein’s final function?",
+            "options": [
+              "Proteins function identically regardless of their amino acid sequence",
+              "The order of amino acids never has any effect on how a protein functions",
+              "This concept has no connection to biology",
+              "The specific sequence determines how the protein folds and functions, so errors can disrupt that function"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding protein synthesis important for understanding how genetic mutations can affect an organism?",
+            "options": [
+              "A mutation in DNA can change the RNA sequence and ultimately the protein produced, potentially altering its function",
+              "Proteins are produced identically regardless of any change in the underlying DNA",
+              "Genetic mutations never have any connection to protein synthesis",
+              "This concept has no relevance to biology"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Pacific Scandal and Early Political Corruption",
+        "summary": "Grade 10 History strand: the Pacific Scandal of 1873 involved allegations that Sir John A. Macdonald’s government accepted funds in exchange for railway contracts, leading to his government’s resignation.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Pacific Scandal of 1873 involve allegations of?",
+            "options": [
+              "A disagreement about the national anthem",
+              "A dispute over provincial boundaries",
+              "A concept unrelated to Canadian history",
+              "Accepting funds in exchange for railway contracts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who was the prime minister whose government was implicated in the Pacific Scandal?",
+            "options": [
+              "A prime minister with no connection to this scandal",
+              "Sir John A. Macdonald",
+              "A concept unrelated to the Pacific Scandal",
+              "A provincial premier, not a prime minister"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Did the Pacific Scandal lead to the resignation of Macdonald’s government?",
+            "options": [
+              "No, the government faced no consequences at all",
+              "The scandal had no effect on Macdonald’s government whatsoever",
+              "A concept unrelated to the Pacific Scandal",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might allegations of accepting funds in exchange for railway contracts have been especially damaging to public trust in government at the time?",
+            "options": [
+              "This concept has no relevance to Canadian history",
+              "It suggested that major national infrastructure decisions could be influenced by private financial interests rather than the public good",
+              "Allegations like this never affect public trust in government",
+              "Railway contracts had no connection to public trust in government decisions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Pacific Scandal often referenced when discussing the importance of political accountability in Canadian history?",
+            "options": [
+              "Canadian governments have never faced any consequences for alleged wrongdoing",
+              "It illustrates an early example of a government facing real consequences for alleged corruption",
+              "This concept has no relevance to history",
+              "The Pacific Scandal has no connection to discussions of political accountability"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "label": "Day 99 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Environmental and Eco-Fiction",
+        "summary": "Grade 10 English strand: eco-fiction explores humanity’s relationship with the natural world, often examining environmental crisis, conservation, or the consequences of humanity’s impact on ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does eco-fiction typically explore?",
+            "options": [
+              "Historical battles with no environmental themes",
+              "Only unrelated fantasy worlds with no connection to nature",
+              "A concept unrelated to literature",
+              "Humanity’s relationship with the natural world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can eco-fiction examine the consequences of humanity’s impact on ecosystems?",
+            "options": [
+              "Environmental themes are never present in eco-fiction",
+              "No, eco-fiction never addresses humanity’s impact on ecosystems",
+              "Yes",
+              "A concept unrelated to eco-fiction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author write eco-fiction to raise awareness about an environmental issue rather than write a non-fiction article?",
+            "options": [
+              "Non-fiction articles are always more effective than fiction at raising awareness",
+              "This concept has no connection to literature",
+              "A compelling story can create emotional engagement that makes an environmental issue feel more urgent and personal",
+              "Fiction can never raise awareness about a real environmental issue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these best reflects a typical theme found in eco-fiction?",
+            "options": [
+              "A community grapples with the long-term consequences of a polluted river on their way of life.",
+              "A recipe for baking bread from scratch.",
+              "A weather forecast for the coming week.",
+              "A step-by-step guide to assembling furniture."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might studying eco-fiction be valuable for understanding both literary techniques and real-world environmental issues?",
+            "options": [
+              "This concept has no relevance to literature",
+              "Literary techniques and environmental issues can never be studied together",
+              "It combines careful analysis of storytelling with meaningful engagement in pressing real-world environmental concerns",
+              "Eco-fiction has no connection to real-world environmental issues"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Mortgages and Loan Amortization Schedules",
+        "summary": "Grade 10 Math strand: a mortgage is a long-term loan for purchasing property, and an amortization schedule shows how each payment is split between interest and principal over the life of the loan.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is a mortgage generally used for?",
+            "options": [
+              "Purchasing property",
+              "A concept unrelated to financial literacy",
+              "Buying groceries",
+              "Paying for a single meal at a restaurant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an amortization schedule show?",
+            "options": [
+              "A concept unrelated to amortization",
+              "Only the total number of payments remaining",
+              "How each payment is split between interest and principal over time",
+              "The exact market value of a home"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the early years of a typical mortgage, does a larger portion of each payment usually go toward interest rather than principal?",
+            "options": [
+              "Every payment goes entirely toward the principal from the very first month",
+              "Yes",
+              "A concept unrelated to amortization schedules",
+              "No, the payment is always split evenly between interest and principal every month"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding an amortization schedule useful for someone considering paying extra toward their mortgage principal?",
+            "options": [
+              "Paying extra toward the principal never has any effect on a loan",
+              "This concept has no connection to financial literacy",
+              "It shows how extra principal payments can reduce total interest paid and shorten the loan’s overall length",
+              "Amortization schedules never show any connection between extra payments and total interest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might comparing mortgages with different interest rates and terms be an important skill for making a major financial decision?",
+            "options": [
+              "Interest rate and loan term never affect the total cost of a mortgage",
+              "Every mortgage costs exactly the same regardless of its rate or term",
+              "This concept has no relevance to financial literacy",
+              "Small differences in rate or term can significantly change the total amount of interest paid over the life of the loan"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Weather Systems and Air Masses",
+        "summary": "Grade 10 Science strand: weather systems form from the interaction of air masses with different temperature and moisture characteristics, with fronts marking the boundaries where these air masses meet.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What forms when air masses with different temperature and moisture characteristics interact?",
+            "options": [
+              "Only ocean currents",
+              "Volcanic eruptions",
+              "A concept unrelated to earth science",
+              "Weather systems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What term describes the boundary where two different air masses meet?",
+            "options": [
+              "A biome",
+              "A front",
+              "A concept unrelated to weather systems",
+              "A watershed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can a cold front bring sudden, intense weather changes as it passes through a region?",
+            "options": [
+              "Yes",
+              "No, cold fronts never cause any noticeable weather changes",
+              "A concept unrelated to weather systems",
+              "Weather is never affected by the movement of air masses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a warm front typically bring more gradual weather changes compared to a fast-moving cold front?",
+            "options": [
+              "All fronts move and behave in exactly the same way",
+              "Warm air tends to rise slowly over the retreating cooler air, producing a more gradual transition",
+              "This concept has no connection to earth science",
+              "Warm fronts never produce any noticeable difference from cold fronts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is tracking the movement of air masses and fronts important for weather forecasting?",
+            "options": [
+              "Understanding how air masses interact helps predict upcoming changes in temperature, precipitation, and storms",
+              "This concept has no relevance to earth science",
+              "Weather forecasting never relies on tracking any atmospheric patterns",
+              "Air masses and fronts have no connection to predicting future weather"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Canada’s Role in the League of Nations",
+        "summary": "Grade 10 History strand: Canada joined the League of Nations after the First World War as a founding member with its own seat, marking an early step toward greater independence in Canadian foreign policy.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What international organization did Canada join as a founding member after the First World War?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "The Commonwealth of Nations, founded at the same time",
+              "An organization with no connection to postwar diplomacy",
+              "The League of Nations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did Canada have its own seat in the League of Nations, separate from Britain?",
+            "options": [
+              "A concept unrelated to the League of Nations",
+              "Yes",
+              "No, Canada was never granted its own seat",
+              "Only Britain was permitted to represent Canada at the League"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is Canada’s membership in the League of Nations often seen as an early step toward greater independence in foreign policy?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Yes",
+              "Canadian foreign policy remained entirely controlled by Britain regardless of this membership",
+              "No, it had no connection to Canadian independence in foreign affairs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might having its own seat in the League of Nations have been significant for Canada’s international status?",
+            "options": [
+              "Canada’s international status remained completely unchanged by this membership",
+              "It signalled growing recognition of Canada as a distinct international actor, separate from Britain",
+              "This concept has no relevance to Canadian history",
+              "Having a separate seat had no effect on how Canada was viewed internationally"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canada’s early involvement in the League of Nations often studied alongside its later role in founding the United Nations?",
+            "options": [
+              "This concept has no relevance to history",
+              "Canada’s involvement in the League of Nations has no connection to its later role in the United Nations",
+              "Canada played no role at all in founding the United Nations",
+              "It shows a continuing pattern of Canadian engagement in international cooperation and diplomacy across the twentieth century"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "label": "Day 100 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Review: Satire, Style, and Narrative Craft (Days 91-99)",
+        "summary": "Grade 10 English strand review: students revisit satire and parody, the elegy, conditional sentences, the road novel, ceremonial speeches, multiple narrators, historical fiction, the subjunctive mood, and eco-fiction.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What literary technique uses humour, irony, or exaggeration to criticize society?",
+            "options": [
+              "A blank page",
+              "A strictly factual news report",
+              "Satire",
+              "A concept unrelated to literature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of writing mourns or honours someone who has died?",
+            "options": [
+              "A grocery list",
+              "An elegy",
+              "A weather report",
+              "A concept unrelated to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of sentence uses an if-clause to express a hypothetical situation?",
+            "options": [
+              "A conditional sentence",
+              "A concept unrelated to grammar",
+              "A sentence with no verb at all",
+              "A single-word sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What genre of fiction follows a physical journey that often parallels internal growth?",
+            "options": [
+              "A concept unrelated to literature",
+              "A phone directory",
+              "The road novel",
+              "A cookbook"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What grammatical mood expresses wishes or hypothetical situations, as in if I were?",
+            "options": [
+              "No mood exists in English grammar",
+              "A concept unrelated to grammar",
+              "The subjunctive mood",
+              "The indicative mood only"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Matrices, Trigonometry, Series, and Functions (Days 91-99)",
+        "summary": "Grade 10 Math strand review: students revisit matrix determinants, double-angle trig identities, geometric series, correlation versus causation, probability trees, function composition, similar triangles, exponential/logarithmic equations, and mortgages.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "For a 2x2 matrix with entries a, b, c, d, how is the determinant calculated?",
+            "options": [
+              "A concept unrelated to matrices",
+              "Always exactly one",
+              "a plus d",
+              "ad minus bc"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the double-angle identity for sine?",
+            "options": [
+              "sin(2x) = sin(x) + cos(x)",
+              "sin(2x) = 2 sin(x) cos(x)",
+              "sin(2x) = cos(x) squared",
+              "A concept unrelated to trigonometry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does correlation alone prove that one variable causes another to change?",
+            "options": [
+              "Causation can never be studied at all",
+              "No",
+              "Yes, correlation always proves causation",
+              "A concept unrelated to statistics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the composition f(g(x)), which function is evaluated first?",
+            "options": [
+              "g(x)",
+              "Neither function is evaluated",
+              "A concept unrelated to function composition",
+              "f(x)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is true of the corresponding sides in similar triangles?",
+            "options": [
+              "They are always exactly equal",
+              "They have no relationship to each other",
+              "A concept unrelated to geometry",
+              "They are proportional"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Chemistry, Biology, Physics, and Earth Science (Days 91-99)",
+        "summary": "Grade 10 Science strand review: students revisit reaction types, the digestive system, the photoelectric effect, the carbon cycle, world biomes, electric power, the ideal gas law, protein synthesis, and weather systems.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Name one type of chemical reaction, such as synthesis.",
+            "options": [
+              "Synthesis",
+              "A concept unrelated to chemistry",
+              "Osmosis",
+              "Photosynthesis only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the digestive system break food down into?",
+            "options": [
+              "Nutrients",
+              "A concept unrelated to biology",
+              "Only heat energy",
+              "Solid bone tissue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens during the photoelectric effect?",
+            "options": [
+              "A magnet attracts a piece of metal",
+              "Light striking a metal surface ejects electrons",
+              "A concept unrelated to physics",
+              "A metal surface absorbs sound waves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the two main stages of protein synthesis?",
+            "options": [
+              "A concept unrelated to biology",
+              "Mitosis and meiosis",
+              "Transcription and translation",
+              "Digestion and absorption"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What term describes the boundary where two different air masses meet?",
+            "options": [
+              "A biome",
+              "A front",
+              "A concept unrelated to weather systems",
+              "A watershed"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Review: Confederation-Era to Interwar Canadian History (Days 91-99)",
+        "summary": "Grade 10 History strand review: students revisit the Riel Rebellions, the National Policy, the Klondike Gold Rush, the Underground Railroad in Canada, the Fenian Raids, the Boer War, the Regina Manifesto and CCF, the Pacific Scandal, and the League of Nations.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Who led the Métis resistance movements in 1869-70 and 1885?",
+            "options": [
+              "A figure with no connection to the Métis",
+              "Louis Riel",
+              "A concept unrelated to Canadian history",
+              "A British colonial governor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What economic policy did Sir John A. Macdonald introduce in 1879?",
+            "options": [
+              "A policy with no connection to the economy",
+              "A concept unrelated to Canadian history",
+              "The National Policy",
+              "A free trade agreement with France"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What discovery drew tens of thousands of prospectors to the Yukon in the 1890s?",
+            "options": [
+              "A concept unrelated to the Klondike Gold Rush",
+              "Gold",
+              "Oil",
+              "Coal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What political movement was outlined in the 1933 Regina Manifesto?",
+            "options": [
+              "A regional business association",
+              "A movement with no connection to Canadian politics",
+              "The Co-operative Commonwealth Federation (CCF)",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What international organization did Canada join as a founding member after the First World War?",
+            "options": [
+              "The League of Nations",
+              "An organization with no connection to postwar diplomacy",
+              "The Commonwealth of Nations",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]

@@ -3549,6 +3549,386 @@ const curriculum: DayContent[] = [
      {q:"What do countries often join to set shared rules for international trade?", options:["Trade organizations or agreements","A local sports league","A concept unrelated to global trade","A single school club"], answer:0}
    ]},
 ]},
+{day:91, label:"Day 91 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Verb Tenses — Past, Present, and Future", summary:"Grade 4 Language strand: verb tense tells when an action happens — past tense describes something that already happened, present tense describes something happening now, and future tense describes something that will happen.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which verb tense describes an action that already happened?", options:["Past tense","A concept unrelated to grammar","Future tense","Present tense"], answer:0},
+     {q:"Which sentence uses the future tense?", options:["A concept unrelated to grammar","She will walk to school tomorrow.","She walked to school yesterday.","She walks to school every day."], answer:1},
+     {q:"Which sentence uses the present tense?", options:["He played soccer last Saturday.","A concept unrelated to grammar","He plays soccer every Saturday.","He will play soccer next Saturday."], answer:2},
+     {q:"Why is it important to use consistent verb tense throughout a piece of writing?", options:["Mixing tenses always makes writing easier to understand","This concept has no connection to writing","It helps the reader clearly understand when events are happening","Verb tense never affects how clear a sentence is"], answer:2},
+     {q:"Which sentence correctly uses the past tense of the verb jump?", options:["A concept unrelated to grammar","Yesterday, the frog jumped into the pond.","Yesterday, the frog jumps into the pond.","Yesterday, the frog will jump into the pond."], answer:1}
+   ]},
+  {subject:"Math", title:"Fractions: Subtracting Mixed Numbers", summary:"Grade 4 Math strand: students learn to subtract one mixed number from another, such as finding 3 and 3 fourths minus 1 and 1 fourth, by subtracting the whole numbers and the fractions separately.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is 3 and 3 fourths minus 1 and 1 fourth?", options:["3 and 2 fourths","1 and 2 fourths","2 and 4 fourths","2 and 2 fourths"], answer:3},
+     {q:"What is 5 and 2 fifths minus 2 and 1 fifth?", options:["3 and 1 fifth","3 and 3 fifths","4 and 1 fifth","2 and 1 fifth"], answer:0},
+     {q:"What is 4 and 5 sixths minus 2 and 2 sixths?", options:["2 and 3 sixths","1 and 3 sixths","3 and 3 sixths","2 and 5 sixths"], answer:0},
+     {q:"When subtracting mixed numbers, what should you subtract first?", options:["Only the fractions, ignoring the whole numbers completely","Neither part should ever be subtracted","The whole numbers and the fractions can each be subtracted separately","Only the whole numbers, ignoring the fractions completely"], answer:2},
+     {q:"What is 6 and 3 fourths minus 4 and 1 fourth?", options:["2 and 1 fourth","3 and 2 fourths","2 and 4 fourths","2 and 2 fourths"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Structures: Shell, Frame, and Solid Structures", summary:"Grade 4 Science strand: structures can be built as shell structures with a strong outer covering and hollow inside, frame structures made of connected beams or rods, or solid structures that are filled all the way through.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call a structure with a strong outer covering and a hollow inside?", options:["A shell structure","A frame structure","A solid structure","A concept unrelated to structures"], answer:0},
+     {q:"What do we call a structure made of connected beams or rods?", options:["A shell structure","A frame structure","A solid structure","A concept unrelated to structures"], answer:1},
+     {q:"Is a solid structure, such as a dam, filled all the way through?", options:["No, solid structures are always hollow","Solid structures have no material inside them at all","Yes","A concept unrelated to structures"], answer:2},
+     {q:"Why might an egg be considered an example of a shell structure?", options:["This concept has no relevance to science","Its strong outer covering protects the hollow space inside","An egg has no connection to structures","An egg is completely solid all the way through"], answer:1},
+     {q:"Why might engineers choose a frame structure, like a bicycle frame, instead of a solid structure?", options:["Frame structures are always heavier than solid structures","This concept has no connection to structures","Frame structures are never used for anything real","A frame can be strong while using less material and being lighter"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Ancient Inca Civilization", summary:"Grade 4 Social Studies strand: the Inca civilization built a large empire along the Andes Mountains in South America, known for its capital city Cusco, extensive road system, and the mountaintop city of Machu Picchu.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Where did the Inca civilization build its empire?", options:["In what is now Mexico","Along the Andes Mountains in South America","A concept unrelated to ancient civilizations","In what is now Canada"], answer:1},
+     {q:"What was the name of the Inca capital city?", options:["Tenochtitlan","Cusco","A concept unrelated to the Inca","Athens"], answer:1},
+     {q:"What famous mountaintop city did the Inca build?", options:["A concept unrelated to the Inca","Ottawa","Machu Picchu","Rome"], answer:2},
+     {q:"Why might the Inca’s extensive road system have been important to their empire?", options:["Roads have no connection to ancient empires","This concept has no relevance to social studies","It likely helped connect distant regions for trade, travel, and communication","The Inca never built any roads at all"], answer:2},
+     {q:"Why do historians consider the Inca’s ability to build in the mountains impressive?", options:["This concept has no relevance to social studies","Building in mountains has no connection to history","The Inca never built anything in the mountains","They constructed lasting stone structures on difficult, high-altitude terrain"], answer:3}
+   ]},
+]},
+{day:92, label:"Day 92 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Understanding Foreshadowing", summary:"Grade 4 Language strand: foreshadowing is when an author gives a hint or clue early in a story about something that will happen later, building suspense for the reader.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call a hint an author gives early in a story about something that will happen later?", options:["A synonym","A metaphor","A concept unrelated to reading","Foreshadowing"], answer:3},
+     {q:"Does foreshadowing usually appear near the beginning or end of a story?", options:["Near the beginning","Near the end","Foreshadowing never appears anywhere in a story","A concept unrelated to foreshadowing"], answer:0},
+     {q:"What feeling can foreshadowing help build in a reader?", options:["Confusion with no purpose","A concept unrelated to reading","Boredom","Suspense"], answer:3},
+     {q:"Why might an author use foreshadowing instead of simply stating what will happen?", options:["Authors should never give any hints about future events","It keeps readers curious and engaged as they wait to see what happens","This concept has no connection to storytelling","Foreshadowing never affects how a reader feels"], answer:1},
+     {q:"If a story shows dark storm clouds gathering just before a character sets sail, what might this foreshadow?", options:["A completely happy, uneventful trip","Trouble or danger ahead on the journey","Nothing at all connected to the plot","A concept unrelated to the story"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Representing Numbers in Expanded Form", summary:"Grade 4 Math strand: students learn to write a number in expanded form by showing the value of each digit, such as writing 3,482 as 3,000 plus 400 plus 80 plus 2.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is 3,482 written in expanded form?", options:["3,000 + 480 + 2","3,000 + 400 + 80 + 2","300 + 400 + 80 + 2","3,000 + 40 + 8 + 2"], answer:1},
+     {q:"What is 5,791 written in expanded form?", options:["5,000 + 791","5,000 + 700 + 90 + 1","500 + 700 + 90 + 1","5,000 + 70 + 9 + 1"], answer:1},
+     {q:"What number is represented by 2,000 + 300 + 40 + 5?", options:["2,435","2,345","23,45","2,354"], answer:1},
+     {q:"Why is expanded form useful for understanding a number like 4,672?", options:["It shows the value that each digit represents based on its place","Expanded form always hides the value of a number","Expanded form never shows any useful information","This concept has no connection to place value"], answer:0},
+     {q:"What number is represented by 6,000 + 200 + 10 + 9?", options:["6,219","6,129","6,291","6,912"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Matter: Methods for Separating Mixtures", summary:"Grade 4 Science strand: mixtures can be separated using methods such as filtering, which uses a strainer to catch solid pieces, or evaporation, which lets a liquid dry up and leaves behind the solid that was dissolved in it.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What method uses a strainer to catch solid pieces out of a mixture?", options:["A concept unrelated to mixtures","Evaporation","Filtering","Freezing"], answer:2},
+     {q:"What method lets a liquid dry up to leave behind a dissolved solid?", options:["Evaporation","A concept unrelated to mixtures","Melting","Filtering"], answer:0},
+     {q:"Could you use filtering to separate sand from water?", options:["No, filtering never separates sand from water","Filtering only works on gases","A concept unrelated to mixtures","Yes"], answer:3},
+     {q:"Why might evaporation be a good method for separating salt from salt water?", options:["This concept has no relevance to science","Evaporation always removes the salt instead of the water","The water dries up and leaves the solid salt behind","Evaporation has no connection to separating mixtures"], answer:2},
+     {q:"Why is it useful to know different ways to separate mixtures?", options:["It helps us recover or clean useful materials from a combined mixture","Mixtures can never actually be separated","Separating mixtures never has any real use","This concept has no connection to matter"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Constitution and the Charter of Rights and Freedoms", summary:"Grade 4 Social Studies strand: Canada’s Constitution is the country’s highest set of laws, and it includes the Canadian Charter of Rights and Freedoms, which protects basic rights such as freedom of speech and equality for all Canadians.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What do we call the country’s highest set of laws?", options:["The Constitution","A school handbook","A concept unrelated to government","A local bylaw"], answer:0},
+     {q:"What part of the Constitution protects basic rights like freedom of speech?", options:["A concept unrelated to Canadian law","A provincial sports league rule","The Canadian Charter of Rights and Freedoms","A single city’s parking bylaw"], answer:2},
+     {q:"Does the Charter protect equality for all Canadians?", options:["Only some Canadians have any rights at all","Yes","No, the Charter protects no one","A concept unrelated to rights"], answer:1},
+     {q:"Why might it be important for a country to have a constitution?", options:["This concept has no connection to government","A constitution never affects how a country is governed","It sets out the basic rules and rights that guide how the country is governed","Countries never need any basic laws at all"], answer:2},
+     {q:"Why might freedom of speech, protected by the Charter, be important in a democracy?", options:["Freedom of speech has no connection to democracy","Citizens are never allowed to share opinions in a democracy","It allows citizens to share their opinions and ideas openly","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:93, label:"Day 93 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Shades of Meaning", summary:"Grade 4 Language strand: many words have similar meanings but different shades of meaning, such as happy, glad, and thrilled, which all describe positive feelings but with different levels of intensity.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call words with similar meanings but different levels of intensity, like happy, glad, and thrilled?", options:["Homophones","Prefixes","A concept unrelated to vocabulary","Shades of meaning"], answer:3},
+     {q:"Which word suggests the strongest level of happiness?", options:["A concept unrelated to shades of meaning","Glad","Content","Thrilled"], answer:3},
+     {q:"Which word suggests a milder feeling of being upset than furious?", options:["A concept unrelated to shades of meaning","Furious","Annoyed","Enraged"], answer:2},
+     {q:"Why might a writer choose the word enormous instead of big?", options:["Word choice never changes how a sentence feels","Enormous conveys a stronger, more precise shade of meaning","Enormous and big always mean exactly opposite things","This concept has no connection to vocabulary"], answer:1},
+     {q:"Which word shows the mildest shade of meaning for cold?", options:["A concept unrelated to shades of meaning","Freezing","Frigid","Cool"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Adding and Subtracting Money Amounts", summary:"Grade 4 Math strand: students learn to add and subtract amounts of money with dollars and cents, such as finding the total cost of two items or the change owed after a purchase.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is 4 dollars 25 cents plus 2 dollars 50 cents?", options:["6 dollars 50 cents","6 dollars 75 cents","7 dollars 25 cents","6 dollars 25 cents"], answer:1},
+     {q:"What is 10 dollars minus 3 dollars 40 cents?", options:["6 dollars 40 cents","6 dollars 60 cents","7 dollars 60 cents","7 dollars 40 cents"], answer:1},
+     {q:"If a book costs 8 dollars 15 cents and a pen costs 1 dollar 20 cents, what is the total cost?", options:["8 dollars 35 cents","10 dollars 35 cents","9 dollars 15 cents","9 dollars 35 cents"], answer:3},
+     {q:"Why is it important to line up dollars and cents correctly when adding money amounts?", options:["Dollars and cents can be mixed up with no effect on the answer","This concept has no connection to adding money","Lining up money amounts never matters","It keeps the place value correct so the total is accurate"], answer:3},
+     {q:"If you pay 20 dollars for an item that costs 14 dollars 75 cents, how much change should you receive?", options:["6 dollars 25 cents","5 dollars 75 cents","5 dollars 25 cents","4 dollars 25 cents"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Energy: Potential and Kinetic Energy", summary:"Grade 4 Science strand: potential energy is stored energy an object has because of its position, such as a ball held up high, while kinetic energy is the energy of motion, such as that same ball falling or rolling.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call stored energy an object has because of its position?", options:["A concept unrelated to energy","Sound energy","Potential energy","Kinetic energy"], answer:2},
+     {q:"What do we call the energy of motion?", options:["Light energy","A concept unrelated to energy","Kinetic energy","Potential energy"], answer:2},
+     {q:"Does a ball held up high have potential energy?", options:["Yes","No, a held ball never has any energy","A concept unrelated to energy","Only moving objects can have any energy at all"], answer:0},
+     {q:"Why does a ball rolling down a hill have kinetic energy?", options:["A rolling ball never actually has any energy","This concept has no relevance to science","Kinetic energy has no connection to motion","It is in motion, and motion is what kinetic energy describes"], answer:3},
+     {q:"Why might a roller coaster at the top of a hill have a lot of potential energy?", options:["This concept has no relevance to science","Its high position stores energy that can convert to motion as it descends","Height has no connection to potential energy","A roller coaster never has any stored energy"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: How Canadians Vote: Federal Elections", summary:"Grade 4 Social Studies strand: in a federal election, Canadian citizens who are eighteen or older can vote for a candidate to represent their riding in the House of Commons, helping decide who leads the country.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"How old must a Canadian citizen typically be to vote in a federal election?", options:["Any age at all","A concept unrelated to elections","Only sixteen or older","Eighteen or older"], answer:3},
+     {q:"What do voters choose in a federal election?", options:["A local sports team captain","A new school principal","A candidate to represent their riding","A concept unrelated to elections"], answer:2},
+     {q:"Where do elected federal representatives sit to make decisions for the country?", options:["A private company office","A concept unrelated to government","The House of Commons","A local town hall only"], answer:2},
+     {q:"Why is voting an important responsibility for eligible citizens in a democracy?", options:["This concept has no connection to democracy","Voting never actually affects who leads a country","Citizens have no role in choosing their government","It gives citizens a voice in choosing who leads and represents them"], answer:3},
+     {q:"Why might elections be held regularly instead of only once?", options:["Elections never need to happen more than once","This concept has no relevance to social studies","Regular elections let citizens choose new leaders and hold them accountable","Leaders are never accountable to citizens in a democracy"], answer:2}
+   ]},
+]},
+{day:94, label:"Day 94 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Sentence Fragments and Run-on Sentences", summary:"Grade 4 Language strand: a sentence fragment is an incomplete sentence missing a subject or verb, while a run-on sentence incorrectly joins two or more complete sentences together without proper punctuation.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call an incomplete sentence that is missing a subject or verb?", options:["A complete sentence","A concept unrelated to grammar","A run-on sentence","A sentence fragment"], answer:3},
+     {q:"What do we call two or more complete sentences incorrectly joined without proper punctuation?", options:["A run-on sentence","A compound word","A concept unrelated to grammar","A sentence fragment"], answer:0},
+     {q:"Which of these is a sentence fragment?", options:["A concept unrelated to grammar","Running to the store.","She ran to the store, and then she came home.","She ran to the store."], answer:1},
+     {q:"Why is it important to fix run-on sentences in your writing?", options:["Readers always understand run-on sentences perfectly","This concept has no connection to writing clearly","It helps readers understand where one idea ends and another begins","Run-on sentences never cause any confusion for readers"], answer:2},
+     {q:"Which sentence correctly fixes this run-on: I like pizza I like pasta too?", options:["I like pizza, and I like pasta too.","I like, pizza I like pasta too.","I like pizza I like pasta too","A concept unrelated to grammar"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Choosing an Appropriate Graph", summary:"Grade 4 Math strand: students learn that different graphs suit different data, such as bar graphs for comparing categories, line graphs for showing change over time, and circle graphs for showing parts of a whole.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Which type of graph is best for comparing amounts in different categories?", options:["A bar graph","A circle graph","A concept unrelated to data","A line graph"], answer:0},
+     {q:"Which type of graph is best for showing how something changes over time?", options:["A pictograph","A bar graph","A concept unrelated to data","A line graph"], answer:3},
+     {q:"Which type of graph is best for showing parts of a whole, like percentages of a budget?", options:["A concept unrelated to data","A line graph","A bar graph","A circle graph"], answer:3},
+     {q:"Why might a scientist use a line graph to track a plant’s height over several weeks?", options:["A line graph clearly shows how a value changes over time","This concept has no connection to data management","Line graphs never show any change over time","A line graph only works for comparing separate categories"], answer:0},
+     {q:"Why is it important to choose the right type of graph for your data?", options:["All graphs always show exactly the same information","Choosing a graph type never affects how clear data is","The right graph makes the data easier to understand and compare","This concept has no relevance to math"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Weather: Types of Precipitation", summary:"Grade 4 Science strand: precipitation is water that falls from clouds to the ground in different forms, including rain, snow, sleet, and hail, depending on the temperature of the air it falls through.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call water that falls from clouds to the ground?", options:["Condensation","A concept unrelated to weather","Precipitation","Evaporation"], answer:2},
+     {q:"Name one form of precipitation, such as snow.", options:["A concept unrelated to precipitation","Wind","Sunshine","Snow"], answer:3},
+     {q:"Is hail a form of precipitation made of small balls of ice?", options:["No, hail is never made of ice","Hail only falls as a liquid","A concept unrelated to precipitation","Yes"], answer:3},
+     {q:"Why might rain turn into snow as it falls?", options:["The air it falls through can be cold enough to freeze the water","This concept has no relevance to science","Temperature has no connection to the type of precipitation","Rain always stays exactly the same no matter the temperature"], answer:0},
+     {q:"Why is sleet sometimes tricky to predict compared to rain or snow?", options:["This concept has no relevance to weather","It forms when precipitation partly melts and then refreezes as it falls","Sleet always falls in exactly the same way as snow","Sleet has no connection to temperature changes in the air"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Group of Seven: Canadian Landscape Painters", summary:"Grade 4 Social Studies strand: the Group of Seven was a collection of Canadian artists in the early twentieth century known for painting Canada’s rugged wilderness landscapes, helping shape a distinct Canadian artistic identity.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What was the Group of Seven known for painting?", options:["Ancient Roman ruins","City skylines in Europe","Canada’s rugged wilderness landscapes","A concept unrelated to Canadian art"], answer:2},
+     {q:"When did the Group of Seven create most of their well-known work?", options:["The early twentieth century","A concept unrelated to Canadian history","The eighteenth century","The twenty-first century"], answer:0},
+     {q:"Did the Group of Seven help shape a distinct Canadian artistic identity?", options:["A concept unrelated to art","No, they had no effect on Canadian art","Yes","They only painted portraits of world leaders"], answer:2},
+     {q:"Why might the Group of Seven have chosen to paint Canada’s wilderness instead of European scenes?", options:["European scenes and Canadian wilderness look exactly the same","This concept has no connection to Canadian art","They wanted to capture and celebrate Canada’s own unique landscapes","They had no interest in Canada’s landscapes at all"], answer:2},
+     {q:"Why do many Canadians still recognize the Group of Seven’s paintings today?", options:["Their paintings have been completely forgotten by everyone","Their artwork remains an important and celebrated part of Canadian culture","This concept has no relevance to social studies","Canadian art has no connection to Canadian identity"], answer:1}
+   ]},
+]},
+{day:95, label:"Day 95 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Writing a Biography", summary:"Grade 4 Language strand: a biography is a true account of a real person’s life written by someone else, often including important events, achievements, and challenges the person experienced.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call a true account of a real person’s life written by someone else?", options:["A weather report","A biography","A recipe","A concept unrelated to writing"], answer:1},
+     {q:"Should a biography include important events and achievements from the person’s life?", options:["No, biographies never include real events","A concept unrelated to writing","Only fictional events belong in a biography","Yes"], answer:3},
+     {q:"Is a biography written by the person about their own life, or by someone else?", options:["A concept unrelated to writing","By someone else","By the person about their own life","Biographies are never written by anyone"], answer:1},
+     {q:"Why might a biography include the challenges a person faced, not just their achievements?", options:["Challenges have no connection to understanding a person’s life","It gives a fuller, more honest picture of the person’s life","A biography should only ever describe perfect events","This concept has no connection to writing a biography"], answer:1},
+     {q:"Which of these would most likely appear in a biography of a famous scientist?", options:["A made-up story about a dragon","A recipe for baking bread","A description of the discoveries and struggles that shaped their career","A list of unrelated math equations"], answer:2}
+   ]},
+  {subject:"Math", title:"Probability: Certain, Impossible, and Equally Likely Events", summary:"Grade 4 Math strand: an event is certain if it will definitely happen, impossible if it can never happen, and equally likely if it has the same chance of happening as another outcome, such as flipping heads or tails on a fair coin.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What do we call an event that will definitely happen?", options:["Unlikely","A concept unrelated to probability","Impossible","Certain"], answer:3},
+     {q:"What do we call an event that can never happen?", options:["Likely","A concept unrelated to probability","Certain","Impossible"], answer:3},
+     {q:"Is flipping heads or tails on a fair coin an example of equally likely outcomes?", options:["A coin can never land on either side","No, one outcome is always more likely than the other","Yes","A concept unrelated to probability"], answer:2},
+     {q:"Why is rolling a 7 on a standard 6-sided die considered impossible?", options:["This concept has no connection to probability","Rolling a 7 happens very often on a 6-sided die","Every number is equally likely to appear, including 7","A standard die only has the numbers 1 through 6, so 7 can never appear"], answer:3},
+     {q:"Why is it certain that the Sun will rise tomorrow?", options:["This event has never actually happened before","This concept has no relevance to probability","The Sun rising is only a possible, not certain, event","It happens every single day without exception, based on the Earth’s rotation"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Rocks and Minerals: Everyday Uses", summary:"Grade 4 Science strand: rocks and minerals are used in many everyday products and structures, such as limestone in buildings, graphite in pencils, and quartz in glass and electronics.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Name one everyday product made using a mineral, such as pencils made with graphite.", options:["Pencils made with graphite","A concept unrelated to rocks and minerals","Bread made with flour","Clothing made only from cotton"], answer:0},
+     {q:"What type of rock is often used in building construction, such as limestone?", options:["A concept unrelated to rocks and minerals","Only plastic","Only wood","Limestone"], answer:3},
+     {q:"Is quartz a mineral used in making glass?", options:["Yes","Glass is never made using minerals","No, quartz has no connection to glass","A concept unrelated to minerals"], answer:0},
+     {q:"Why might it be important to study where useful rocks and minerals come from?", options:["This concept has no relevance to science","It helps us understand how to responsibly find and use these natural resources","Rocks and minerals have no connection to everyday products","Useful rocks and minerals never actually run out"], answer:1},
+     {q:"Why might electronics companies be interested in minerals like quartz?", options:["This concept has no relevance to science","Minerals are never used in making electronics","Certain minerals have properties useful for building electronic components","Electronics are made entirely without any natural materials"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of the Governor General in Canada", summary:"Grade 4 Social Studies strand: the Governor General is the representative of the Crown in Canada, performing ceremonial duties such as opening Parliament and formally approving new laws.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Who does the Governor General represent in Canada?", options:["A single province only","A concept unrelated to government","A foreign country’s president","The Crown"], answer:3},
+     {q:"Name one ceremonial duty of the Governor General, such as opening Parliament.", options:["Opening Parliament","Running a local business","Coaching a sports team","A concept unrelated to government"], answer:0},
+     {q:"Does the Governor General formally approve new laws passed by Parliament?", options:["No, the Governor General has no role in approving laws","Yes","A concept unrelated to government","Only mayors approve laws in Canada"], answer:1},
+     {q:"Why might the role of the Governor General be considered mostly ceremonial today?", options:["The Governor General personally makes every government decision alone","This concept has no connection to Canadian government","Canada has no connection to the Crown at all","Elected leaders, not the Governor General, make most day-to-day political decisions"], answer:3},
+     {q:"Why might it be useful for students to learn about the Governor General’s role?", options:["Canada’s government has no formal structure at all","The Governor General has no relevance to understanding government","It helps explain how Canada’s system of government is structured","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:96, label:"Day 96 — Mon", subjects:[
+  {subject:"Language", title:"Figurative Language: Assonance and Consonance", summary:"Grade 4 Language strand: assonance is the repetition of vowel sounds within nearby words, such as the ee sound in fleet feet, while consonance is the repetition of consonant sounds, such as the t sound in pitter patter.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call the repetition of vowel sounds within nearby words?", options:["Alliteration","Assonance","Consonance","A concept unrelated to figurative language"], answer:1},
+     {q:"What do we call the repetition of consonant sounds within nearby words?", options:["Assonance","A concept unrelated to figurative language","A metaphor","Consonance"], answer:3},
+     {q:"Which phrase is an example of assonance?", options:["Fleet feet","Silent slippers","A concept unrelated to figurative language","Big blue balloon"], answer:0},
+     {q:"Why might a poet use assonance or consonance in their writing?", options:["These sound patterns can make a poem more musical and memorable","Sound patterns are never used in poetry","Assonance and consonance never affect how a poem sounds","This concept has no connection to figurative language"], answer:0},
+     {q:"Which phrase is an example of consonance, repeating a consonant sound?", options:["Bright sunshine","A concept unrelated to figurative language","Pitter patter","Loud thunder"], answer:2}
+   ]},
+  {subject:"Math", title:"Fractions: Ordering Fractions with Different Denominators", summary:"Grade 4 Math strand: students learn to order fractions with different denominators from least to greatest by finding a common denominator or comparing them to a benchmark like one half.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"To order fractions with different denominators, what can you find to help compare them?", options:["The largest possible denominator only","A common numerator only","A concept unrelated to fractions","A common denominator"], answer:3},
+     {q:"Which fraction is greater, 1 half or 1 third?", options:["1 half","Cannot be compared","They are equal","1 third"], answer:0},
+     {q:"Which list correctly orders these fractions from least to greatest: 1 fourth, 1 half, 3 fourths?", options:["3 fourths, 1 fourth, 1 half","1 half, 1 fourth, 3 fourths","3 fourths, 1 half, 1 fourth","1 fourth, 1 half, 3 fourths"], answer:3},
+     {q:"Why is one half often used as a helpful benchmark when comparing fractions?", options:["Benchmarks never help with comparing numbers","It gives an easy reference point to decide if a fraction is bigger or smaller","This concept has no connection to ordering fractions","One half can never be used to compare fractions"], answer:1},
+     {q:"Which fraction is closest to one whole: 1 fourth, 1 half, or 3 fourths?", options:["1 half","3 fourths","1 fourth","They are all exactly equal to one whole"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Simple Machines: The Wedge", summary:"Grade 4 Science strand: a wedge is a simple machine with a thick end that tapers to a thin edge, used to push things apart or cut through materials, such as an axe blade or a doorstop.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What shape does a wedge have, with a thick end tapering to what?", options:["A concept unrelated to simple machines","A perfectly flat surface","A perfect circle","A thin edge"], answer:3},
+     {q:"Name one example of a wedge, such as an axe blade.", options:["A concept unrelated to simple machines","An axe blade","A round wheel","A flat table top"], answer:1},
+     {q:"Can a wedge be used to push things apart or cut through materials?", options:["No, a wedge is never used for cutting or splitting","Yes","A concept unrelated to wedges","A wedge can only be used to hold a door open forever"], answer:1},
+     {q:"Why might a doorstop shaped like a wedge work well to hold a door in place?", options:["This concept has no relevance to science","Its tapered shape can wedge tightly against the floor and door","A doorstop shaped like a wedge can never actually work","A wedge shape has no connection to holding objects in place"], answer:1},
+     {q:"Why is a wedge considered a simple machine, similar to a lever or pulley?", options:["This concept has no connection to simple machines","It changes the amount or direction of force needed to do work","Simple machines never make any task easier","A wedge never changes how much force is needed"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Public Services and Community Institutions", summary:"Grade 4 Social Studies strand: public services such as libraries, hospitals, and fire departments are funded by government and community resources to meet the needs of everyone in a community.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Name one public service that meets a community’s needs, such as a library.", options:["A single person’s home","A concept unrelated to community services","A private amusement park","A library"], answer:3},
+     {q:"Are public services like hospitals typically funded by government and community resources?", options:["Yes","A concept unrelated to public services","Public services are always fully paid for by one single family","No, public services are never funded by the community"], answer:0},
+     {q:"What public service responds quickly to fires and emergencies?", options:["A concept unrelated to public services","A local toy store","A private bakery","The fire department"], answer:3},
+     {q:"Why might a community choose to fund a public library instead of leaving it to private businesses?", options:["This concept has no connection to public services","It ensures that books and resources are accessible to everyone, regardless of income","Only wealthy people are ever allowed to use a library","Public libraries have no benefit to a community"], answer:1},
+     {q:"Why are public services like hospitals and fire departments important to a community?", options:["Communities never actually need this kind of support","This concept has no relevance to social studies","They provide essential care and safety that benefit all community members","Public services have no real impact on a community"], answer:2}
+   ]},
+]},
+{day:97, label:"Day 97 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Modal Verbs", summary:"Grade 4 Language strand: modal verbs, such as can, could, should, and must, are helping verbs that express ability, possibility, permission, or necessity.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call helping verbs such as can, could, should, and must?", options:["Adjectives","Modal verbs","A concept unrelated to grammar","Nouns"], answer:1},
+     {q:"Which modal verb expresses ability, as in I can swim?", options:["Can","A concept unrelated to grammar","Was","Must"], answer:0},
+     {q:"Which modal verb expresses necessity, as in You must wear a helmet?", options:["Could","Must","A concept unrelated to grammar","Ran"], answer:1},
+     {q:"Why might a writer use should instead of must in a sentence giving advice?", options:["Should and must always mean exactly the same thing","Should suggests a recommendation, while must suggests a requirement","Modal verbs never change the meaning of a sentence","This concept has no connection to grammar"], answer:1},
+     {q:"Which sentence correctly uses a modal verb to ask for permission?", options:["Pencil your borrow may I?","I pencil borrow may.","May I borrow your pencil?","A concept unrelated to grammar"], answer:2}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Sales Tax (GST/HST)", summary:"Grade 4 Math strand: sales tax is an extra percentage added to the price of many goods and services, such as the HST in Ontario, which increases the total amount a customer pays at checkout.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What do we call the extra percentage added to the price of many goods and services?", options:["Sales tax","A refund","A concept unrelated to money","A discount"], answer:0},
+     {q:"What is the name of the sales tax charged in Ontario?", options:["ATM","GDP","HST","A concept unrelated to finance"], answer:2},
+     {q:"Does sales tax increase or decrease the total amount a customer pays?", options:["A concept unrelated to sales tax","Increase","Sales tax has no effect on the total","Decrease"], answer:1},
+     {q:"Why might the price shown on a store shelf be different from the amount you actually pay at checkout?", options:["Store prices never change at checkout","This concept has no connection to sales tax","Sales tax always lowers the amount you pay","Sales tax is often added to the shelf price at checkout"], answer:3},
+     {q:"If an item costs 10 dollars and 1 dollar 30 cents in sales tax is added, what is the total cost?", options:["10 dollars 30 cents","9 dollars 70 cents","11 dollars 30 cents","11 dollars"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Space: The Moon’s Effect on Earth — Tides", summary:"Grade 4 Science strand: the Moon’s gravity pulls on Earth’s oceans, causing tides, the regular rising and falling of sea levels along coastlines.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What causes tides, the regular rising and falling of sea levels?", options:["The Moon’s gravity pulling on Earth’s oceans","A concept unrelated to tides","The Sun’s heat warming the oceans","Wind blowing across the ocean surface only"], answer:0},
+     {q:"Do tides cause sea levels along coastlines to rise and fall?", options:["A concept unrelated to tides","Tides only affect rivers, never oceans","No, sea levels never change","Yes"], answer:3},
+     {q:"What force from the Moon is mainly responsible for tides?", options:["Gravity","Wind","A concept unrelated to tides","Sunlight"], answer:0},
+     {q:"Why might coastal communities need to know the tide schedule?", options:["This concept has no relevance to science","Tide schedules never change and do not need tracking","Tides can affect boating, fishing, and beach safety","Tides have no connection to coastal communities"], answer:2},
+     {q:"Why does the Moon, despite being far away, have a noticeable effect on Earth’s oceans?", options:["The Moon has no gravitational pull at all","Distance always makes gravity completely disappear","Its gravitational pull is strong enough to move huge amounts of ocean water","This concept has no relevance to science"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of Non-Governmental Organizations (NGOs)", summary:"Grade 4 Social Studies strand: a non-governmental organization, or NGO, is a group that is not run by the government and works to help people or protect the environment, such as providing disaster relief or supporting education.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What does NGO stand for?", options:["Non-governmental organization","National government office","A concept unrelated to organizations","New government operation"], answer:0},
+     {q:"Is an NGO run by the government?", options:["Yes, NGOs are always run by the government","No","A concept unrelated to NGOs","NGOs are the same thing as a national government"], answer:1},
+     {q:"Name one type of work an NGO might do, such as disaster relief.", options:["Running a private restaurant","Selling video games","Disaster relief","A concept unrelated to NGOs"], answer:2},
+     {q:"Why might people choose to support an NGO that helps with education in other countries?", options:["It can help provide resources and opportunities where they are needed most","This concept has no connection to global issues","Education has no connection to community wellbeing","NGOs never actually help anyone"], answer:0},
+     {q:"Why might NGOs work alongside governments instead of replacing them?", options:["NGOs can offer additional support and expertise that complements government efforts","NGOs and governments never work together","NGOs always try to replace a country’s government","This concept has no relevance to social studies"], answer:0}
+   ]},
+]},
+{day:98, label:"Day 98 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Understanding Flashback in Narratives", summary:"Grade 4 Language strand: a flashback is when a story pauses its current events to show something that happened earlier, helping readers understand a character’s past or the reasons behind their actions.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call it when a story pauses to show something that happened earlier?", options:["A summary","A concept unrelated to reading","A foreshadow","A flashback"], answer:3},
+     {q:"Can a flashback help readers understand a character’s past?", options:["No, flashbacks never explain anything about a character","Yes","Flashbacks only describe future events","A concept unrelated to reading"], answer:1},
+     {q:"Does a flashback show events from before or after the current point in the story?", options:["Before","Flashbacks show no events at all","A concept unrelated to reading","After"], answer:0},
+     {q:"Why might an author use a flashback to explain why a character is afraid of dogs?", options:["A character’s fear can never be explained by past events","This concept has no connection to storytelling","Flashbacks never explain a character’s feelings","It can reveal a past experience that caused the character’s fear"], answer:3},
+     {q:"Which of these is most likely a signal that a flashback is beginning in a story?", options:["The story ends with no further explanation","A concept unrelated to the story","A character orders food at a restaurant","The narrator suddenly describes an event from years earlier"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Perimeter of Regular Polygons Using Formulas", summary:"Grade 4 Math strand: students learn to find the perimeter of a regular polygon, where all sides are equal, by multiplying the length of one side by the number of sides.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"How do you find the perimeter of a regular polygon?", options:["Add the length of only two sides","Multiply the length of one side by the number of sides","A concept unrelated to geometry","Divide the length of one side by the number of sides"], answer:1},
+     {q:"What is the perimeter of a regular pentagon with sides of 6 cm?", options:["25 cm","24 cm","36 cm","30 cm"], answer:3},
+     {q:"What is the perimeter of a square with sides of 8 cm?", options:["40 cm","32 cm","16 cm","24 cm"], answer:1},
+     {q:"Why does multiplying work as a shortcut for finding the perimeter of a regular polygon?", options:["Multiplication never works for finding perimeter","This concept has no connection to geometry","All the sides are equal, so adding them repeatedly is the same as multiplying","Regular polygons never have equal sides"], answer:2},
+     {q:"What is the perimeter of a regular hexagon with sides of 5 cm?", options:["30 cm","35 cm","20 cm","25 cm"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Forces: Streamlining and Reducing Drag in Water", summary:"Grade 4 Science strand: streamlining is shaping an object to move smoothly through water with less resistance, called drag, which is why boats and fish often have narrow, smooth, pointed shapes.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call the force that resists an object’s motion through water?", options:["A concept unrelated to forces","Magnetism","Gravity","Drag"], answer:3},
+     {q:"What do we call shaping an object to move smoothly through water with less resistance?", options:["Streamlining","Evaporation","Erosion","A concept unrelated to forces"], answer:0},
+     {q:"Do fish often have narrow, smooth, pointed shapes to help them move through water?", options:["Fish are always shaped like perfect cubes","Yes","A concept unrelated to streamlining","No, fish shapes have no connection to moving through water"], answer:1},
+     {q:"Why might boat designers shape a hull to be narrow and smooth?", options:["A wide, blocky shape always moves fastest through water","A streamlined shape reduces drag, helping the boat move faster and more efficiently","This concept has no relevance to science","Boat shape has no connection to how fast it can travel"], answer:1},
+     {q:"Why might a wide, flat object experience more drag moving through water than a narrow, pointed one?", options:["It pushes against more water at once, increasing resistance","This concept has no relevance to forces","Flat objects always move through water with no resistance at all","Shape never affects how much resistance an object experiences"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Agricultural Regions and Food Production", summary:"Grade 4 Social Studies strand: Canada has distinct agricultural regions, such as the Prairies for grain farming and the Niagara region for fruit growing, which produce much of the country’s food.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Which Canadian region is known for grain farming, such as wheat?", options:["The Arctic tundra","The Prairies","A concept unrelated to agriculture","The deep ocean"], answer:1},
+     {q:"Which Ontario region is known for growing fruit, such as grapes and peaches?", options:["The far north","A city’s downtown core","The Niagara region","A concept unrelated to agriculture"], answer:2},
+     {q:"Do different regions of Canada grow different types of food based on their climate and land?", options:["Climate never affects what can be grown","Yes","A concept unrelated to agriculture","No, every region of Canada grows exactly the same food"], answer:1},
+     {q:"Why might farmers in the Prairies focus on growing grain crops like wheat?", options:["This concept has no relevance to social studies","The flat land and climate of the Prairies are well suited to grain farming","The Prairies have no connection to farming","Grain crops can only be grown in mountains"], answer:1},
+     {q:"Why is it important for Canada to have multiple agricultural regions producing different foods?", options:["This concept has no relevance to social studies","Having multiple agricultural regions has no benefit to Canada","Canada does not need to grow its own food","It helps provide a variety of food and supports the country’s food supply"], answer:3}
+   ]},
+]},
+{day:99, label:"Day 99 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing an Interview", summary:"Grade 4 Language strand: writing an interview involves preparing clear questions in advance and recording a person’s answers accurately, often used in non-fiction writing like newspaper articles.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What should a writer prepare in advance before conducting an interview?", options:["A concept unrelated to writing","A fictional story","Clear questions","A drawing with no connection to the topic"], answer:2},
+     {q:"What is the goal of recording a person’s answers during an interview?", options:["To ignore what the person actually says","To make up new answers instead","To record their answers accurately","A concept unrelated to writing"], answer:2},
+     {q:"Is an interview often used in non-fiction writing, like newspaper articles?", options:["Yes","No, interviews are never used in non-fiction writing","A concept unrelated to writing","Interviews are only used in fictional stories"], answer:0},
+     {q:"Why might a reporter ask open-ended questions during an interview instead of only yes-or-no questions?", options:["This concept has no connection to interviewing","Yes-or-no questions always provide the most detail","Open-ended questions can lead to more detailed and useful answers","Open-ended questions never provide any useful information"], answer:2},
+     {q:"Which of these would most likely be a good interview question for a local firefighter?", options:["What made you want to become a firefighter?","Add 3 and 4 to get 7.","What is the chemical symbol for water?","A triangle has three sides."], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Divisibility Rules (2, 5, and 10)", summary:"Grade 4 Math strand: divisibility rules help determine if a number can be divided evenly by another number, such as a number being divisible by 2 if it ends in an even digit, by 5 if it ends in 0 or 5, and by 10 if it ends in 0.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"A number is divisible by 2 if it ends in what kind of digit?", options:["An odd digit","An even digit","A concept unrelated to divisibility","Any digit except zero"], answer:1},
+     {q:"A number is divisible by 5 if it ends in which digits?", options:["6 or 8","2 or 4","0 or 5","1 or 3"], answer:2},
+     {q:"A number is divisible by 10 if it ends in which digit?", options:["5","1","0","2"], answer:2},
+     {q:"Why are divisibility rules useful when working with larger numbers?", options:["Divisibility rules never help with checking numbers","This concept has no connection to number sense","Divisibility rules only work for very small numbers","They let you quickly check if a number divides evenly without doing full division"], answer:3},
+     {q:"Is the number 340 divisible by both 2 and 5?", options:["Yes","No, 340 is divisible by neither 2 nor 5","340 is divisible by 5 only, never by 2","A concept unrelated to divisibility"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Ecosystems: Keystone Species", summary:"Grade 4 Science strand: a keystone species is a species that has a very large effect on its ecosystem compared to its numbers, such as a sea otter controlling sea urchin populations to protect kelp forests.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call a species that has a very large effect on its ecosystem compared to its numbers?", options:["An invasive species","A concept unrelated to ecosystems","A keystone species","A domesticated species"], answer:2},
+     {q:"Name one example of a keystone species, such as the sea otter.", options:["The sea otter","A house cat","A concept unrelated to keystone species","A farm chicken"], answer:0},
+     {q:"Can removing a keystone species cause major changes throughout an ecosystem?", options:["Keystone species have no real impact on their ecosystem","Yes","No, removing any species never affects an ecosystem","A concept unrelated to ecosystems"], answer:1},
+     {q:"Why might sea otters be important for protecting kelp forests?", options:["Kelp forests grow better without any otters present","Sea otters have no connection to kelp forests","This concept has no relevance to science","They control sea urchin populations that would otherwise overeat the kelp"], answer:3},
+     {q:"Why do scientists pay special attention to keystone species when protecting an ecosystem?", options:["Losing a keystone species can cause much bigger changes than losing other species","Keystone species are never actually important to an ecosystem","This concept has no relevance to science","All species have exactly the same impact on an ecosystem"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The St. Lawrence Seaway and Its Importance to Trade", summary:"Grade 4 Social Studies strand: the St. Lawrence Seaway is a system of canals and locks that allows large ships to travel between the Atlantic Ocean and the Great Lakes, supporting trade across central Canada.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is the St. Lawrence Seaway a system of?", options:["Deserts and dunes","A concept unrelated to geography","Mountains and valleys","Canals and locks"], answer:3},
+     {q:"What does the St. Lawrence Seaway allow large ships to travel between?", options:["Two cities within the same province","A concept unrelated to trade","The Pacific Ocean and the Arctic Ocean","The Atlantic Ocean and the Great Lakes"], answer:3},
+     {q:"Does the St. Lawrence Seaway support trade across central Canada?", options:["The Seaway only supports trade in one small town","Yes","A concept unrelated to the Seaway","No, the Seaway has no connection to trade"], answer:1},
+     {q:"Why are locks an important part of the St. Lawrence Seaway?", options:["They raise and lower ships to different water levels along the route","This concept has no relevance to social studies","Locks are only used to stop ships from moving at all","Locks have no function within the Seaway"], answer:0},
+     {q:"Why might the St. Lawrence Seaway be considered important to Canada’s economy?", options:["This concept has no relevance to social studies","Goods can never be transported using the Seaway","The Seaway has no connection to Canada’s economy","It allows goods to be shipped efficiently between inland regions and international markets"], answer:3}
+   ]},
+]},
+{day:100, label:"Day 100 — Fri", subjects:[
+  {subject:"Language", title:"Review: Vocabulary, Grammar, and Reading Skills (Days 91-99)", summary:"Grade 4 Language strand review: students revisit verb tenses, foreshadowing, shades of meaning, sentence fragments and run-ons, biography writing, assonance and consonance, modal verbs, flashback, and interview writing.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which verb tense describes an action that already happened?", options:["A concept unrelated to grammar","Past tense","Future tense","Present tense"], answer:1},
+     {q:"What do we call words with similar meanings but different levels of intensity, like happy, glad, and thrilled?", options:["Prefixes","A concept unrelated to vocabulary","Homophones","Shades of meaning"], answer:3},
+     {q:"What do we call a true account of a real person’s life written by someone else?", options:["A biography","A recipe","A concept unrelated to writing","A weather report"], answer:0},
+     {q:"What do we call helping verbs such as can, could, should, and must?", options:["Modal verbs","Adjectives","Nouns","A concept unrelated to grammar"], answer:0},
+     {q:"What should a writer prepare in advance before conducting an interview?", options:["A fictional story","A drawing with no connection to the topic","Clear questions","A concept unrelated to writing"], answer:2}
+   ]},
+  {subject:"Math", title:"Review: Fractions, Number Sense, and Data (Days 91-99)", summary:"Grade 4 Math strand review: students revisit subtracting mixed numbers, expanded form, adding and subtracting money, choosing appropriate graphs, probability terms, ordering fractions, sales tax, perimeter of regular polygons, and divisibility rules.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is 3 and 3 fourths minus 1 and 1 fourth?", options:["2 and 2 fourths","1 and 2 fourths","3 and 2 fourths","2 and 4 fourths"], answer:0},
+     {q:"What is 4 dollars 25 cents plus 2 dollars 50 cents?", options:["6 dollars 75 cents","6 dollars 25 cents","6 dollars 50 cents","7 dollars 25 cents"], answer:0},
+     {q:"What do we call an event that will definitely happen?", options:["Unlikely","Certain","Impossible","A concept unrelated to probability"], answer:1},
+     {q:"What do we call the extra percentage added to the price of many goods and services?", options:["Sales tax","A concept unrelated to money","A discount","A refund"], answer:0},
+     {q:"A number is divisible by 2 if it ends in what kind of digit?", options:["An even digit","A concept unrelated to divisibility","An odd digit","Any digit except zero"], answer:0}
+   ]},
+  {subject:"Science", title:"Review: Structures, Matter, Energy, and Earth and Space Systems (Days 91-99)", summary:"Grade 4 Science strand review: students revisit shell/frame/solid structures, separating mixtures, potential and kinetic energy, precipitation, rocks and minerals, the wedge, tides, drag in water, and keystone species.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call a structure with a strong outer covering and a hollow inside?", options:["A shell structure","A frame structure","A concept unrelated to structures","A solid structure"], answer:0},
+     {q:"What do we call stored energy an object has because of its position?", options:["A concept unrelated to energy","Kinetic energy","Potential energy","Sound energy"], answer:2},
+     {q:"Name one everyday product made using a mineral, such as pencils made with graphite.", options:["Pencils made with graphite","Bread made with flour","Clothing made only from cotton","A concept unrelated to rocks and minerals"], answer:0},
+     {q:"What causes tides, the regular rising and falling of sea levels?", options:["Wind blowing across the ocean surface only","The Sun’s heat warming the oceans","The Moon’s gravity pulling on Earth’s oceans","A concept unrelated to tides"], answer:2},
+     {q:"What do we call a species that has a very large effect on its ecosystem compared to its numbers?", options:["An invasive species","A concept unrelated to ecosystems","A domesticated species","A keystone species"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Review: Ancient Societies, Government, and Canadian Geography (Days 91-99)", summary:"Grade 4 Social Studies strand review: students revisit the Inca civilization, the Constitution and Charter, federal elections, the Group of Seven, the Governor General, public services, NGOs, agricultural regions, and the St. Lawrence Seaway.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Where did the Inca civilization build its empire?", options:["A concept unrelated to ancient civilizations","In what is now Canada","Along the Andes Mountains in South America","In what is now Mexico"], answer:2},
+     {q:"How old must a Canadian citizen typically be to vote in a federal election?", options:["Only sixteen or older","Any age at all","Eighteen or older","A concept unrelated to elections"], answer:2},
+     {q:"Who does the Governor General represent in Canada?", options:["A single province only","A concept unrelated to government","The Crown","A foreign country’s president"], answer:2},
+     {q:"What does NGO stand for?", options:["National government office","A concept unrelated to organizations","New government operation","Non-governmental organization"], answer:3},
+     {q:"What is the St. Lawrence Seaway a system of?", options:["Canals and locks","A concept unrelated to geography","Mountains and valleys","Deserts and dunes"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;

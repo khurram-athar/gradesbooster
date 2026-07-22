@@ -21898,5 +21898,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 91,
+    "label": "Day 91 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Postcolonial Novel and Writing Back to Empire",
+        "summary": "Grade 11 English strand: postcolonial literature examines the lasting cultural, political, and psychological effects of colonialism, often reclaiming narrative voice from the perspective of formerly colonized peoples.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does postcolonial literature often examine?",
+            "options": [
+              "A concept unrelated to literature",
+              "Only the geography of a fictional setting",
+              "The exact publication date of a novel",
+              "The lasting cultural, political, and psychological effects of colonialism"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does postcolonial literature often reclaim narrative voice from the perspective of formerly colonized peoples?",
+            "options": [
+              "A concept unrelated to postcolonial literature",
+              "No, postcolonial literature never considers whose perspective is centred",
+              "Yes",
+              "Colonialism has no connection to this genre of literature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a postcolonial author retell a well-known story from the perspective of a colonized character rather than the colonizer?",
+            "options": [
+              "Postcolonial authors never revisit existing stories or narratives",
+              "To challenge a dominant narrative and offer a perspective that had previously been silenced or marginalized",
+              "Retelling a story from a different perspective never changes its meaning",
+              "This concept has no connection to literature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would most likely appear in a postcolonial novel?",
+            "options": [
+              "A detailed recipe for baking bread.",
+              "A user manual for assembling furniture.",
+              "A weather report for the upcoming week.",
+              "A character grappling with how colonial rule reshaped her homeland’s language, land, and identity."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is postcolonial literature considered valuable for understanding global history?",
+            "options": [
+              "Colonialism has never had any lasting cultural or political effects",
+              "It offers perspectives often excluded from traditional historical accounts, deepening understanding of colonialism’s lasting impact",
+              "Postcolonial literature has no connection to understanding history",
+              "This concept has no relevance to literature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Functions: Operations on Functions — Sum, Difference, Product, and Quotient",
+        "summary": "Grade 11 Functions strand: functions can be combined using the operations of addition, subtraction, multiplication, and division to create new functions, with the domain of the result restricted by any original domain restrictions.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "Which operations can be used to combine two functions into a new function?",
+            "options": [
+              "Only addition, with no other operation permitted",
+              "Addition, subtraction, multiplication, and division",
+              "None, since functions can never be combined",
+              "A concept unrelated to functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f of x equals x plus 2, and g of x equals x minus 2, what is the sum function, f plus g, evaluated at x?",
+            "options": [
+              "x squared minus 4",
+              "2x",
+              "0",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If f of x equals 2x, and g of x equals x plus 3, what is the product function, f times g, evaluated at x?",
+            "options": [
+              "2x squared plus 6x",
+              "2x plus 3",
+              "x squared plus 3",
+              "6x"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must the domain of the quotient function, f divided by g, exclude values where g of x equals zero?",
+            "options": [
+              "The domain of a quotient function is never affected by the value of g of x",
+              "Division by zero is undefined, so those x-values cannot be part of the quotient function’s domain",
+              "Quotient functions are always defined for every possible value of x",
+              "This concept has no connection to functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might combining two functions through addition be useful when modelling total revenue as the sum of two income sources?",
+            "options": [
+              "Adding the two functions produces a single function representing the combined total at every value of x",
+              "Revenue from two different sources can never be modelled using functions",
+              "This concept has no relevance to functions",
+              "Adding two functions together never produces a meaningful new function"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Thermoregulation in Endotherms and Ectotherms",
+        "summary": "Grade 11 Biology strand: endotherms generate their own body heat internally to maintain a stable body temperature, while ectotherms rely primarily on external environmental sources to regulate their body temperature.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What do endotherms use to maintain a stable body temperature?",
+            "options": [
+              "Only heat absorbed from the surrounding environment",
+              "Heat generated internally by their own metabolism",
+              "A concept unrelated to biology",
+              "Nothing at all related to temperature regulation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do ectotherms rely primarily on external sources of heat to regulate their body temperature?",
+            "options": [
+              "A concept unrelated to thermoregulation",
+              "Body temperature regulation is never relevant to ectotherms",
+              "No, ectotherms always generate all of their own body heat internally",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a reptile bask in the sun during cool mornings before becoming active?",
+            "options": [
+              "This concept has no connection to biology",
+              "As an ectotherm, it needs external heat to raise its body temperature enough for its muscles and metabolism to function efficiently",
+              "Reptiles never need any external heat source to become active",
+              "Basking in the sun has no effect on a reptile’s body temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these animals would most likely be classified as an endotherm?",
+            "options": [
+              "A frog whose body temperature always matches its surroundings.",
+              "A snake that becomes sluggish and inactive in cold weather.",
+              "A mammal that generates heat internally to stay warm even in cold winter temperatures.",
+              "A lizard that must move to a sunny rock to warm up before moving."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might endothermy allow an animal to remain active across a wider range of environmental temperatures than ectothermy?",
+            "options": [
+              "Body temperature has no connection to how active an animal can be",
+              "This concept has no relevance to biology",
+              "Endothermy never provides any advantage over ectothermy in varying temperatures",
+              "Generating heat internally lets an endotherm maintain a stable body temperature regardless of surrounding conditions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Atomic Structure — Electron Configuration and Orbital Diagrams",
+        "summary": "Grade 11 Chemistry strand: electron configuration describes how electrons are arranged within an atom’s orbitals, following the aufbau principle, Hund’s rule, and the Pauli exclusion principle.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does electron configuration describe?",
+            "options": [
+              "The exact colour an element appears in solid form",
+              "Only the mass of an atom’s nucleus",
+              "How electrons are arranged within an atom’s orbitals",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does the aufbau principle state that electrons fill the lowest-energy orbitals first?",
+            "options": [
+              "Electrons always fill the highest-energy orbitals first",
+              "No, the aufbau principle has no connection to how orbitals are filled",
+              "Yes",
+              "A concept unrelated to electron configuration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "According to the Pauli exclusion principle, can two electrons in the same orbital have identical sets of quantum numbers?",
+            "options": [
+              "A concept unrelated to the Pauli exclusion principle",
+              "Quantum numbers have no connection to electrons within an orbital",
+              "No",
+              "Yes, two electrons in the same orbital always share identical quantum numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does Hund’s rule state that electrons fill separate orbitals within a subshell individually before pairing up?",
+            "options": [
+              "Electrons always pair up in the same orbital before filling any other orbital",
+              "This concept has no connection to chemistry",
+              "Electrons repel each other, so occupying separate orbitals singly first minimizes repulsion and results in a lower-energy, more stable configuration",
+              "Hund’s rule has no relationship to how electrons are distributed among orbitals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding electron configuration useful for predicting an element’s chemical behaviour?",
+            "options": [
+              "The arrangement of valence electrons largely determines how an atom will bond and react with other atoms",
+              "Electron configuration has no connection to how an atom behaves chemically",
+              "This concept has no relevance to chemistry",
+              "An element’s chemical behaviour is never related to its electron arrangement"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 92,
+    "label": "Day 92 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Personal Diary and Journal as Literary Form",
+        "summary": "Grade 11 English strand: the personal diary or journal is a literary form built on intimate, first-person reflection, often unfolding without a predetermined audience and capturing a writer’s immediate thoughts and reactions over time.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does the personal diary or journal typically capture?",
+            "options": [
+              "Only a summary of unrelated news events",
+              "A concept unrelated to writing",
+              "A formal argument intended for publication",
+              "A writer’s immediate thoughts and reactions over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is a diary usually written from a first-person perspective?",
+            "options": [
+              "Yes",
+              "A concept unrelated to diaries or journals",
+              "First-person perspective has no connection to this literary form",
+              "No, diaries are never written from a first-person perspective"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a diary entry feel more raw or unfiltered than a polished personal essay?",
+            "options": [
+              "This concept has no connection to writing",
+              "A diary entry is never written with any personal reflection at all",
+              "A diary is often written without the expectation of a wide audience, allowing for more immediate, unedited reflection",
+              "Diary entries are always more polished and formal than personal essays"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these best exemplifies a diary entry?",
+            "options": [
+              "The chemical formula for methane is CH4.",
+              "Today I could not stop thinking about the argument we had, and I still do not know what to say to her.",
+              "The train departs at exactly noon.",
+              "Add 12 and 8 to get 20."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might historians value diaries written during significant historical events?",
+            "options": [
+              "Historical events are never reflected in personal diaries or journals",
+              "Diaries provide no useful information to historians studying past events",
+              "They can offer an intimate, first-hand perspective on how ordinary individuals experienced and reacted to those events",
+              "This concept has no relevance to writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Algebra: Synthetic Division and the Remainder Theorem",
+        "summary": "Grade 11 Functions strand: synthetic division offers a streamlined method for dividing a polynomial by a linear binomial, and the remainder theorem states that the remainder of this division equals the polynomial evaluated at the binomial’s root.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does synthetic division streamline?",
+            "options": [
+              "Graphing a function on a coordinate plane",
+              "Multiplying two large polynomials together",
+              "A concept unrelated to functions",
+              "Dividing a polynomial by a linear binomial"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to the remainder theorem, does the remainder of dividing a polynomial by (x minus a) equal the polynomial evaluated at x equals a?",
+            "options": [
+              "No, the remainder theorem has no connection to evaluating a polynomial",
+              "Yes",
+              "The remainder is always zero regardless of the polynomial or divisor",
+              "A concept unrelated to synthetic division"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a polynomial P of x is divided by (x minus 2) and the remainder is 0, is (x minus 2) a factor of P of x?",
+            "options": [
+              "Factors of a polynomial are never related to division remainders",
+              "A concept unrelated to the remainder theorem",
+              "No, a remainder of zero never indicates a factor of the polynomial",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is synthetic division typically faster than long division when dividing a polynomial by a simple linear binomial?",
+            "options": [
+              "Synthetic division requires more steps than traditional long division",
+              "This concept has no connection to functions",
+              "Synthetic division is never faster than standard long division",
+              "It uses only the coefficients of the polynomial and a streamlined series of arithmetic steps rather than the full long-division process"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the remainder theorem useful for testing whether a given value is a root of a polynomial without fully factoring it?",
+            "options": [
+              "Evaluating the polynomial at that value instantly reveals whether the remainder is zero, indicating a root",
+              "Testing for a root always requires fully factoring the entire polynomial first",
+              "This concept has no relevance to functions",
+              "The remainder theorem never helps identify whether a value is a root"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Molecular Biology: The Operon Model and Prokaryotic Gene Regulation",
+        "summary": "Grade 11 Biology strand: the operon model explains how prokaryotic cells switch groups of related genes on or off together in response to environmental conditions, using a shared promoter and operator to control transcription.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does the operon model explain in prokaryotic cells?",
+            "options": [
+              "How groups of related genes are switched on or off together",
+              "How cells physically divide during mitosis",
+              "A concept unrelated to biology",
+              "How a single unrelated protein is broken down"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does an operon typically include a shared promoter and operator controlling nearby genes?",
+            "options": [
+              "Yes",
+              "No, an operon never involves any shared promoter or operator",
+              "A concept unrelated to the operon model",
+              "Promoters and operators have no connection to gene regulation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the classic lac operon, does the presence of lactose typically switch on the genes needed to digest it?",
+            "options": [
+              "A concept unrelated to prokaryotic gene regulation",
+              "No, lactose has no connection to activating the lac operon",
+              "The lac operon genes are always active regardless of lactose presence",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it efficient for a bacterium to regulate several related genes together as a single operon rather than individually?",
+            "options": [
+              "Genes involved in the same metabolic pathway are needed at the same time, so controlling them together allows a faster, coordinated response",
+              "This concept has no connection to biology",
+              "Regulating genes together as an operon never provides any efficiency benefit",
+              "Bacteria never need to coordinate the expression of multiple genes at once"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the operon model considered a foundational concept in understanding prokaryotic gene regulation?",
+            "options": [
+              "It reveals how bacteria efficiently respond to changing environmental conditions by coordinating gene expression",
+              "Prokaryotic gene regulation never involves any environmental response",
+              "The operon model has no connection to how bacteria respond to their environment",
+              "This concept has no relevance to biology"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Sunscreen and UV Photoprotection",
+        "summary": "Grade 11 Chemistry strand: sunscreens rely on chemical compounds that either absorb ultraviolet radiation and release it as heat or physically reflect and scatter it away from the skin.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What do chemical sunscreen compounds primarily do with absorbed ultraviolet radiation?",
+            "options": [
+              "Store it permanently within the skin",
+              "A concept unrelated to chemistry",
+              "Absorb it and release it as heat",
+              "Convert it directly into visible light"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do physical, or mineral, sunscreens work primarily by reflecting and scattering ultraviolet radiation?",
+            "options": [
+              "No, physical sunscreens never reflect or scatter any radiation",
+              "A concept unrelated to sunscreen chemistry",
+              "Physical sunscreens work by absorbing radiation exclusively, never reflecting it",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can prolonged exposure to unprotected ultraviolet radiation damage skin cells?",
+            "options": [
+              "Skin cells are never affected by any type of radiation",
+              "Yes",
+              "A concept unrelated to UV photoprotection",
+              "No, ultraviolet radiation never causes any damage to skin cells"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a sunscreen combine multiple active ingredients to protect against both UVA and UVB radiation?",
+            "options": [
+              "Combining multiple ingredients in a sunscreen never improves its protective ability",
+              "Different compounds absorb or block different wavelength ranges, so combining them provides broader protection",
+              "UVA and UVB radiation are always blocked equally well by any single ingredient",
+              "This concept has no connection to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the chemical stability of a sunscreen’s active ingredients important for its effectiveness over time?",
+            "options": [
+              "An unstable compound could break down under sunlight exposure, reducing its ability to continue absorbing or blocking UV radiation",
+              "Chemical stability has no connection to how well a sunscreen continues to work",
+              "This concept has no relevance to chemistry",
+              "Sunscreen ingredients never break down or change under sunlight exposure"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "label": "Day 93 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Poetry: The Sonnet Form — Petrarchan and Shakespearean",
+        "summary": "Grade 11 English strand: the sonnet is a fourteen-line poem with a fixed rhyme scheme, traditionally following either the Petrarchan structure of an octave and sestet or the Shakespearean structure of three quatrains and a closing couplet.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "How many lines does a traditional sonnet contain?",
+            "options": [
+              "Fourteen",
+              "A concept unrelated to poetry",
+              "Ten",
+              "Twenty"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the Shakespearean sonnet traditionally end with a closing couplet?",
+            "options": [
+              "Yes",
+              "A concept unrelated to the sonnet form",
+              "No, the Shakespearean sonnet never ends with a couplet",
+              "A closing couplet has no connection to sonnet structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is the Petrarchan sonnet traditionally divided into an octave and a sestet?",
+            "options": [
+              "A concept unrelated to Petrarchan sonnets",
+              "Yes",
+              "No, the Petrarchan sonnet has no fixed structural divisions",
+              "An octave and sestet only ever appear in Shakespearean sonnets"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a poet choose the Shakespearean sonnet form’s closing couplet to deliver a surprising twist or resolution?",
+            "options": [
+              "This concept has no connection to poetry",
+              "The couplet’s compact, rhymed final statement can create a sharp shift in tone or meaning after the preceding quatrains",
+              "A closing couplet never creates any shift in tone or meaning",
+              "The closing couplet always simply repeats the sonnet’s opening line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why has the sonnet remained a popular poetic form across centuries?",
+            "options": [
+              "This concept has no relevance to poetry",
+              "Poets have never adapted the sonnet form for any new purpose",
+              "Its fixed structure offers a disciplined framework that many poets have adapted to explore a wide range of themes",
+              "The sonnet form has no connection to any themes explored by poets"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Trigonometry: Sum and Difference Identities",
+        "summary": "Grade 11 Functions strand: sum and difference identities express the sine, cosine, or tangent of the sum or difference of two angles in terms of the trigonometric functions of each individual angle.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What do sum and difference identities express?",
+            "options": [
+              "The area of a triangle with two known angles",
+              "A concept unrelated to trigonometry",
+              "Only the value of a single, unrelated angle",
+              "The sine, cosine, or tangent of the sum or difference of two angles, in terms of the individual angles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the sum identity for cosine of A plus B, in terms of the trigonometric functions of A and B individually?",
+            "options": [
+              "cosine A plus cosine B",
+              "sine A sine B plus cosine A cosine B",
+              "sine A cosine B plus cosine A sine B",
+              "cosine A cosine B minus sine A sine B"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can sum and difference identities be used to find the exact value of sine of 75 degrees using sine and cosine of 45 and 30 degrees?",
+            "options": [
+              "No, sum and difference identities can never be used to find exact trigonometric values",
+              "Yes",
+              "Exact trigonometric values can only ever be found using a calculator",
+              "A concept unrelated to trigonometric identities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are sum and difference identities useful for finding exact trigonometric values of angles that are not standard reference angles?",
+            "options": [
+              "This concept has no connection to trigonometry",
+              "Sum and difference identities only work for angles that are already standard reference angles",
+              "They allow such an angle to be rewritten as a sum or difference of two angles whose exact trigonometric values are already known",
+              "These identities never help in finding the exact value of any angle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why must a student keep careful track of positive and negative signs when applying the sum and difference identities?",
+            "options": [
+              "This concept has no relevance to trigonometry",
+              "Sum and difference identities never involve any subtraction of terms",
+              "Signs never affect the outcome when applying these trigonometric identities",
+              "A sign error would produce an entirely different value, since the identities involve both addition and subtraction of terms"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Plant Biology: Chemical and Structural Defences Against Herbivory",
+        "summary": "Grade 11 Biology strand: plants have evolved chemical defences, such as toxins and deterrent compounds, alongside structural defences, such as thorns and tough leaves, to reduce damage from herbivores.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What are two broad categories of plant defences against herbivory?",
+            "options": [
+              "Only defences involving rapid movement",
+              "A concept unrelated to biology",
+              "Chemical defences and structural defences",
+              "Only defences based on colour and scent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Might a plant produce toxic compounds to deter herbivores from eating its leaves?",
+            "options": [
+              "No, plants never produce any chemical compounds to deter herbivores",
+              "Yes",
+              "A concept unrelated to plant defences",
+              "Toxic compounds have no connection to plant herbivore defence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are thorns considered a structural defence against herbivory?",
+            "options": [
+              "No, thorns have no defensive function in plants",
+              "Yes",
+              "Thorns are only ever used by plants to attract pollinators",
+              "A concept unrelated to structural defences"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a plant evolve a bitter-tasting chemical compound in its leaves over many generations?",
+            "options": [
+              "Herbivores that avoid bitter-tasting leaves would leave more of the plant intact, favouring the survival of plants producing that compound",
+              "Bitter-tasting compounds never provide any survival advantage to a plant",
+              "This concept has no connection to biology",
+              "Herbivores are never influenced by the taste of the plants they eat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might some herbivores evolve resistance to a plant’s chemical defences over time?",
+            "options": [
+              "Plant chemical defences never create any evolutionary pressure on herbivores",
+              "An evolutionary arms race can occur, where herbivores that tolerate a toxin gain access to a food source that competitors cannot use",
+              "This concept has no relevance to biology",
+              "Herbivores can never evolve any resistance to a plant’s chemical defences"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Materials Chemistry: Semiconductors and Doping",
+        "summary": "Grade 11 Chemistry strand: semiconductors are materials with electrical conductivity between that of conductors and insulators, and doping introduces small amounts of impurity atoms to precisely control that conductivity.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "Where does a semiconductor’s electrical conductivity typically fall?",
+            "options": [
+              "Always exactly equal to that of a perfect conductor",
+              "Between that of a conductor and an insulator",
+              "A concept unrelated to chemistry",
+              "Always exactly equal to that of a perfect insulator"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does doping involve introducing small amounts of impurity atoms into a semiconductor?",
+            "options": [
+              "Yes",
+              "A concept unrelated to semiconductors",
+              "No, doping never involves adding any impurity atoms",
+              "Impurity atoms have no connection to a semiconductor’s properties"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can doping be used to increase a semiconductor’s electrical conductivity?",
+            "options": [
+              "A concept unrelated to doping",
+              "No, doping always decreases a semiconductor’s conductivity to zero",
+              "Conductivity is never affected by doping a semiconductor",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might adding an impurity atom with an extra valence electron increase a semiconductor’s conductivity?",
+            "options": [
+              "Valence electrons have no relationship to how electrical current moves through a material",
+              "An extra valence electron never has any effect on conductivity",
+              "The additional electron is not needed for bonding and becomes free to move, carrying electrical current more readily",
+              "This concept has no connection to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are semiconductors, rather than pure conductors or insulators, essential to modern electronic devices?",
+            "options": [
+              "Conductors and insulators are always more useful than semiconductors in every electronic application",
+              "Semiconductors have no practical application in modern electronic devices",
+              "This concept has no relevance to chemistry",
+              "Their conductivity can be precisely controlled through doping, allowing engineers to build components like transistors that switch and amplify signals"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "label": "Day 94 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Rhetoric: Anaphora, Chiasmus, and Parallelism",
+        "summary": "Grade 11 English strand: rhetorical schemes such as anaphora, chiasmus, and parallelism use deliberate patterns of repetition and structure to make a speaker’s or writer’s language more memorable and persuasive.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What do rhetorical schemes like anaphora and parallelism rely on?",
+            "options": [
+              "A concept unrelated to rhetoric",
+              "Random, unstructured word choices",
+              "Only unrelated facts and statistics",
+              "Deliberate patterns of repetition and structure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does anaphora involve repeating a word or phrase at the beginning of successive clauses or sentences?",
+            "options": [
+              "Yes",
+              "No, anaphora never involves repeating any word or phrase",
+              "Repetition has no connection to anaphora as a rhetorical device",
+              "A concept unrelated to rhetorical schemes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does chiasmus involve reversing the grammatical structure of a phrase in its second half?",
+            "options": [
+              "Yes",
+              "No, chiasmus never involves reversing any grammatical structure",
+              "Grammatical structure has no connection to chiasmus",
+              "A concept unrelated to chiasmus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best illustrates anaphora?",
+            "options": [
+              "The train departs the station at nine o’clock.",
+              "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields.",
+              "Add 12 and 8 to get 20.",
+              "The chemical symbol for sodium is Na."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a speaker use parallelism when listing several related ideas in a persuasive speech?",
+            "options": [
+              "This concept has no connection to rhetoric",
+              "A persuasive speech is always more effective without any repeated structure",
+              "The repeated grammatical structure creates rhythm and makes the ideas easier for an audience to follow and remember",
+              "Parallelism never has any effect on how an audience follows or remembers ideas"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: Matrices — Determinants and the Inverse of a 2×2 Matrix",
+        "summary": "Grade 11 Functions strand: the determinant of a 2×2 matrix is a single value calculated from its entries, and a matrix has an inverse only when its determinant is non-zero.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is the determinant of a 2 by 2 matrix?",
+            "options": [
+              "A single value calculated from the matrix’s entries",
+              "A concept unrelated to matrices",
+              "A completely new matrix with unrelated entries",
+              "Always equal to zero regardless of the matrix"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a 2 by 2 matrix have an inverse only when its determinant is non-zero?",
+            "options": [
+              "A concept unrelated to matrix determinants",
+              "A matrix’s inverse is never related to its determinant",
+              "Yes",
+              "No, every matrix has an inverse regardless of its determinant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For a 2 by 2 matrix with entries a and b in the top row and c and d in the bottom row, what is the formula for its determinant?",
+            "options": [
+              "ad plus bc",
+              "ac minus bd",
+              "ad minus bc",
+              "ab minus cd"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a matrix with a determinant of zero fail to have an inverse?",
+            "options": [
+              "A zero determinant means the matrix inverse formula would require dividing by zero, which is undefined",
+              "This concept has no connection to matrices",
+              "A matrix with a determinant of zero always has an inverse just like any other matrix",
+              "Determinants have no relationship to whether a matrix inverse exists"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the ability to find a matrix’s inverse useful for solving a system of linear equations written in matrix form?",
+            "options": [
+              "A matrix inverse is never useful for solving any system of linear equations",
+              "Multiplying both sides of the matrix equation by the inverse isolates the variable matrix, revealing the solution",
+              "This concept has no relevance to functions",
+              "Systems of linear equations can never be represented using matrices"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Ecology: Population Growth Models — Exponential and Logistic Growth",
+        "summary": "Grade 11 Biology strand: exponential growth models describe a population increasing without limit under ideal conditions, while logistic growth models incorporate a carrying capacity that slows growth as resources become limited.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does an exponential growth model assume about a population’s growth?",
+            "options": [
+              "That it increases without limit under ideal conditions",
+              "That it always decreases steadily over time",
+              "A concept unrelated to biology",
+              "That population size never changes at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does a logistic growth model incorporate a carrying capacity?",
+            "options": [
+              "A concept unrelated to population growth models",
+              "No, logistic growth models never incorporate a carrying capacity",
+              "Yes",
+              "Carrying capacity has no connection to any population growth model"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does population growth typically slow down as a population approaches its environment’s carrying capacity in a logistic model?",
+            "options": [
+              "Carrying capacity never has any effect on the rate of population growth",
+              "A concept unrelated to logistic growth",
+              "Yes",
+              "No, population growth always accelerates near the carrying capacity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a population’s growth curve shift from exponential to logistic as resources like food and space become limited?",
+            "options": [
+              "Competition for limited resources increases as population size grows, slowing the rate of increase",
+              "Limited resources never have any effect on a population’s rate of growth",
+              "This concept has no connection to biology",
+              "A population’s growth rate is always constant regardless of available resources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the logistic growth model generally considered more realistic than the exponential model for most natural populations?",
+            "options": [
+              "Real environments have finite resources, which eventually limit population growth rather than allowing it to increase indefinitely",
+              "Natural populations can always grow indefinitely without any resource limitations",
+              "This concept has no relevance to biology",
+              "The logistic growth model has no connection to how real populations actually grow"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Organic Chemistry: Chirality and Optical Isomers",
+        "summary": "Grade 11 Chemistry strand: a chiral molecule has a non-superimposable mirror image, producing optical isomers, called enantiomers, that can rotate plane-polarized light in opposite directions.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does a chiral molecule have?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "An identical structure to every other molecule of its kind",
+              "No mirror image whatsoever",
+              "A non-superimposable mirror image"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are the two mirror-image forms of a chiral molecule called enantiomers?",
+            "options": [
+              "No, mirror-image forms of a chiral molecule have no special name",
+              "A concept unrelated to chirality",
+              "Enantiomers have no connection to chiral molecules",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can enantiomers rotate plane-polarized light in opposite directions from one another?",
+            "options": [
+              "No, enantiomers never have any effect on plane-polarized light",
+              "Enantiomers always rotate plane-polarized light in exactly the same direction",
+              "Yes",
+              "A concept unrelated to optical isomers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a carbon atom bonded to four different groups typically create a chiral centre in a molecule?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "A carbon atom bonded to four different groups never creates a chiral centre",
+              "Such an arrangement usually has no internal symmetry, so its mirror image cannot be rotated to match the original",
+              "Chirality has no relationship to the arrangement of groups bonded to a carbon atom"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is chirality an important consideration in the development of pharmaceutical drugs?",
+            "options": [
+              "Chirality has no connection to how a pharmaceutical drug behaves in the body",
+              "This concept has no relevance to chemistry",
+              "Enantiomers of the same drug always have identical effects on the body",
+              "Two enantiomers of the same drug can have very different biological effects in the body, so their distinct behaviour must be tested separately"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "label": "Day 95 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Parable and the Fable as Moral Narrative",
+        "summary": "Grade 11 English strand: parables and fables are brief narrative forms that use a simple story, often featuring animals or ordinary people, to illustrate a moral lesson or universal truth.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What do parables and fables typically use a simple story to illustrate?",
+            "options": [
+              "A concept unrelated to literature",
+              "Only an unrelated historical event",
+              "A detailed scientific process",
+              "A moral lesson or universal truth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do fables often feature animals as characters that behave like humans?",
+            "options": [
+              "Animal characters have no connection to this narrative form",
+              "A concept unrelated to fables",
+              "Yes",
+              "No, fables never feature animals as characters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Are parables and fables generally brief narrative forms?",
+            "options": [
+              "A concept unrelated to parables and fables",
+              "Length has no connection to how these narrative forms are defined",
+              "Yes",
+              "No, parables and fables are always extremely long narratives"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these best exemplifies a fable?",
+            "options": [
+              "A weather report for the upcoming week.",
+              "A tortoise defeats a boastful hare in a race by moving slowly and steadily.",
+              "A detailed recipe for baking bread.",
+              "A user manual for assembling furniture."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose to teach a moral lesson through a fable rather than stating it directly as advice?",
+            "options": [
+              "Stating a lesson directly as advice is always more memorable than telling a story",
+              "A memorable story can make an abstract lesson more engaging and easier to understand than a direct statement",
+              "A fable never makes a moral lesson easier to understand",
+              "This concept has no connection to literature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Statistics: The Law of Large Numbers and Simulation",
+        "summary": "Grade 11 Functions strand: the law of large numbers states that as the number of trials in a random experiment increases, the experimental probability tends to converge toward the theoretical probability.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the law of large numbers describe?",
+            "options": [
+              "How a single trial always determines the exact probability",
+              "A concept unrelated to statistics",
+              "How experimental probability tends to converge toward theoretical probability as trials increase",
+              "How theoretical probability changes with every single trial"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does flipping a fair coin many more times generally bring the experimental proportion of heads closer to 50 percent?",
+            "options": [
+              "No, flipping a coin more times never brings the results closer to the theoretical probability",
+              "Yes",
+              "The number of coin flips never affects the observed proportion of heads",
+              "A concept unrelated to the law of large numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can a simulation be used to estimate a probability that would be difficult to calculate directly?",
+            "options": [
+              "A concept unrelated to simulation",
+              "No, simulations are never useful for estimating probabilities",
+              "Simulations only ever produce completely inaccurate probability estimates",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might the experimental probability from only 10 coin flips differ noticeably from the theoretical probability of 50 percent?",
+            "options": [
+              "This concept has no connection to statistics",
+              "With a small number of trials, random variation has a much larger relative effect on the observed results",
+              "Random variation never has any effect on the outcome of a small number of trials",
+              "A small number of trials always produces results identical to the theoretical probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the law of large numbers an important justification for using simulations to estimate probabilities?",
+            "options": [
+              "This concept has no relevance to statistics",
+              "The law of large numbers has no connection to why simulations are considered reliable",
+              "Simulations never become more accurate no matter how many trials are run",
+              "It shows that running a very large number of trials produces results that reliably approximate the true probability"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Ecology: Bioaccumulation and Biomagnification in Food Webs",
+        "summary": "Grade 11 Biology strand: bioaccumulation describes how a toxin builds up within an individual organism over time, while biomagnification describes how that toxin’s concentration increases at each successive trophic level in a food web.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does bioaccumulation describe?",
+            "options": [
+              "How a toxin instantly disappears from an organism’s body",
+              "How a toxin builds up within an individual organism over time",
+              "A concept unrelated to biology",
+              "How energy flows between different ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does biomagnification describe increasing toxin concentration at higher trophic levels?",
+            "options": [
+              "A concept unrelated to biomagnification",
+              "Toxin concentration never changes between trophic levels",
+              "No, biomagnification has no connection to trophic levels",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are top predators generally at greater risk from biomagnified toxins than organisms lower on the food chain?",
+            "options": [
+              "No, top predators are never at any greater risk from biomagnified toxins",
+              "A concept unrelated to bioaccumulation and biomagnification",
+              "Risk from toxins is always identical across every trophic level",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a toxin like mercury reach dangerously high concentrations in large predatory fish, even in relatively clean water?",
+            "options": [
+              "Each predator eats many smaller organisms containing the toxin, causing it to accumulate at increasingly higher concentrations up the food chain",
+              "This concept has no connection to biology",
+              "Predatory fish are never affected by toxins present in their prey",
+              "Mercury concentrations never increase as they move up a food chain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding biomagnification important for setting guidelines on fish consumption?",
+            "options": [
+              "This concept has no relevance to biology",
+              "All fish species contain exactly the same concentration of toxins regardless of diet",
+              "It helps identify which species, often top predators, are more likely to contain unsafe concentrations of accumulated toxins",
+              "Biomagnification has no connection to fish consumption guidelines"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Materials Chemistry: Carbon Allotropes — Graphite, Diamond, and Graphene",
+        "summary": "Grade 11 Chemistry strand: carbon allotropes such as graphite, diamond, and graphene are composed entirely of carbon atoms, but their differing bonding arrangements give them dramatically different physical properties.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What are carbon allotropes composed entirely of?",
+            "options": [
+              "Only hydrogen and oxygen atoms",
+              "A concept unrelated to chemistry",
+              "Carbon atoms",
+              "A mixture of several different elements"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do graphite, diamond, and graphene have dramatically different physical properties despite being made of the same element?",
+            "options": [
+              "No, these three carbon allotropes always have identical physical properties",
+              "Yes",
+              "A concept unrelated to carbon allotropes",
+              "Physical properties have no connection to how carbon atoms are bonded"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is diamond, with its rigid three-dimensional bonding structure, extremely hard?",
+            "options": [
+              "A concept unrelated to diamond’s structure",
+              "Yes",
+              "No, diamond is actually one of the softest known materials",
+              "Hardness has no connection to a material’s bonding structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does graphite conduct electricity while diamond does not, despite both being pure carbon?",
+            "options": [
+              "Electrical conductivity has no relationship to how carbon atoms are bonded together",
+              "This concept has no connection to chemistry",
+              "Graphite’s layered structure includes delocalized electrons that can move freely, while diamond’s electrons are all locked into fixed covalent bonds",
+              "Graphite and diamond always conduct electricity in exactly the same way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is graphene, a single layer of graphite, considered a material of significant scientific interest?",
+            "options": [
+              "Its unique two-dimensional structure gives it exceptional strength and electrical conductivity for its minimal thickness",
+              "This concept has no relevance to chemistry",
+              "Graphene has no unusual properties compared to ordinary graphite",
+              "A single layer of graphite is never considered scientifically significant"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "label": "Day 96 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Public Service Announcement and Advocacy Writing",
+        "summary": "Grade 11 English strand: a public service announcement uses concise, persuasive language and a clear call to action to raise awareness of a social issue and encourage a specific audience response.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does a public service announcement use to raise awareness of a social issue?",
+            "options": [
+              "Concise, persuasive language and a clear call to action",
+              "A neutral tone with no persuasive intent at all",
+              "A concept unrelated to writing",
+              "Only lengthy, unrelated statistics with no clear message"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does an effective public service announcement typically include a clear call to action?",
+            "options": [
+              "Yes",
+              "A concept unrelated to advocacy writing",
+              "No, public service announcements never include any call to action",
+              "A call to action is never relevant to this type of writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is a public service announcement generally intended to encourage a specific audience response?",
+            "options": [
+              "Yes",
+              "No, public service announcements are never intended to influence audience behaviour",
+              "A concept unrelated to public service announcements",
+              "Audience response is never a consideration in this form of writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a public service announcement about road safety use a brief, urgent tone rather than a long, detailed explanation?",
+            "options": [
+              "Long, detailed explanations are always more effective in this type of writing",
+              "A brief, urgent tone never helps a message capture an audience’s attention",
+              "A short, urgent message is more likely to capture attention and be remembered quickly by a broad audience",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is identifying a target audience important when writing an effective public service announcement?",
+            "options": [
+              "This concept has no relevance to writing",
+              "Language, tone, and examples can be tailored to resonate with a specific audience, increasing the message’s persuasive impact",
+              "Identifying a target audience never affects how persuasive a message is",
+              "A public service announcement is always equally effective regardless of its intended audience"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Functions: Laws of Exponents and Rational Exponents",
+        "summary": "Grade 11 Functions strand: the laws of exponents describe how to simplify expressions involving powers, and a rational exponent expresses a root, such as a square or cube root, using fractional notation.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What do the laws of exponents describe?",
+            "options": [
+              "A concept unrelated to functions",
+              "How to convert a fraction into a decimal",
+              "How to simplify expressions involving powers",
+              "How to graph a linear equation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a rational exponent express a root using fractional notation?",
+            "options": [
+              "No, rational exponents have no connection to expressing roots",
+              "Fractional notation is never used to express a root",
+              "A concept unrelated to rational exponents",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does x raised to the power of one-half represent?",
+            "options": [
+              "The square root of x",
+              "The cube root of x",
+              "x squared",
+              "x multiplied by one-half"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does multiplying two powers with the same base result in adding their exponents?",
+            "options": [
+              "Multiplying powers with the same base never involves adding the exponents",
+              "This concept has no connection to functions",
+              "The exponents of two powers being multiplied are always subtracted, never added",
+              "Multiplying repeated factors of the same base combines the total count of that factor being multiplied together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is rewriting a radical expression using a rational exponent often useful when simplifying complex algebraic expressions?",
+            "options": [
+              "Radical expressions can never be rewritten using exponent notation",
+              "Rational exponents allow the standard laws of exponents to be applied directly, rather than working with radical notation",
+              "Rewriting a radical expression as a rational exponent never simplifies an algebraic expression",
+              "This concept has no relevance to functions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Evolution: Convergent and Divergent Evolution",
+        "summary": "Grade 11 Biology strand: convergent evolution occurs when unrelated species independently evolve similar traits in response to similar environmental pressures, while divergent evolution occurs when related species evolve increasingly different traits over time.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does convergent evolution describe?",
+            "options": [
+              "A concept unrelated to biology",
+              "A single species remaining completely unchanged over time",
+              "Two species merging into a single new species",
+              "Unrelated species independently evolving similar traits"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does divergent evolution describe related species evolving increasingly different traits over time?",
+            "options": [
+              "A concept unrelated to divergent evolution",
+              "Yes",
+              "No, divergent evolution has no connection to how related species change over time",
+              "Related species always remain identical to one another over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are the wings of bats and the wings of birds often cited as an example of convergent evolution?",
+            "options": [
+              "Yes",
+              "No, bat and bird wings share no evolutionary similarities worth studying",
+              "A concept unrelated to convergent evolution",
+              "Bats and birds are always considered closely related species with shared ancestry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might unrelated species living in similar environments, such as sharks and dolphins, independently evolve a similar streamlined body shape?",
+            "options": [
+              "This concept has no connection to biology",
+              "Similar environmental pressures, like moving efficiently through water, can favour similar adaptations even in unrelated lineages",
+              "Body shape has no connection to how an organism moves through its environment",
+              "Unrelated species living in similar environments never develop any similar traits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is comparing convergent and divergent evolution useful for understanding how environmental pressures shape species over time?",
+            "options": [
+              "Environmental pressures never have any influence on how a species evolves",
+              "Comparing convergent and divergent evolution provides no insight into how species change over time",
+              "It highlights how similar pressures can produce similar traits in unrelated species, while shared ancestry can still lead to divergence under different pressures",
+              "This concept has no relevance to biology"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Analytical Chemistry: Acid-Base Indicators and Colour Change Theory",
+        "summary": "Grade 11 Chemistry strand: an acid-base indicator is a weak acid or base that changes colour over a specific pH range because its protonated and deprotonated forms absorb different wavelengths of light.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is an acid-base indicator?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "A weak acid or base that changes colour over a specific pH range",
+              "A strong acid that never changes colour under any conditions",
+              "A neutral compound with no relationship to pH"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do an indicator’s protonated and deprotonated forms typically absorb different wavelengths of light?",
+            "options": [
+              "Yes",
+              "A concept unrelated to acid-base indicators",
+              "No, an indicator’s protonated and deprotonated forms always absorb identical wavelengths of light",
+              "Wavelength absorption has no connection to why an indicator changes colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can different indicators change colour at different pH ranges?",
+            "options": [
+              "Yes",
+              "No, every acid-base indicator changes colour at exactly the same pH",
+              "A concept unrelated to indicator chemistry",
+              "pH has no connection to when an indicator changes colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a chemist choose a specific indicator, like phenolphthalein, for a particular titration?",
+            "options": [
+              "The indicator’s colour-change range should closely match the pH at the titration’s equivalence point for an accurate result",
+              "This concept has no connection to chemistry",
+              "The choice of indicator never affects the accuracy of a titration",
+              "Every indicator produces identical results regardless of the titration being performed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding the chemical mechanism behind an indicator’s colour change useful for interpreting titration results accurately?",
+            "options": [
+              "The chemical mechanism behind an indicator’s colour change has no connection to titration accuracy",
+              "It helps explain why the colour change occurs at a specific pH, allowing more precise determination of the endpoint",
+              "Titration endpoints can never be determined using a colour-change indicator",
+              "This concept has no relevance to chemistry"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "label": "Day 97 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literary Criticism: Introduction to Feminist Reading",
+        "summary": "Grade 11 English strand: a feminist reading of a text examines how gender roles, power dynamics, and the representation of women shape the story’s meaning, characters, and themes.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does a feminist reading of a text examine?",
+            "options": [
+              "The font and formatting used in a printed edition",
+              "How gender roles, power dynamics, and the representation of women shape the text’s meaning",
+              "Only the exact publication date of a text",
+              "A concept unrelated to literary criticism"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Might a feminist reading consider how female characters are represented compared to male characters?",
+            "options": [
+              "Yes",
+              "No, a feminist reading never compares how different characters are represented",
+              "A concept unrelated to feminist literary criticism",
+              "Character representation is never relevant to this critical approach"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can a feminist reading of a historical text reveal assumptions about gender that reflect the era in which it was written?",
+            "options": [
+              "A concept unrelated to feminist reading",
+              "The era in which a text was written has no connection to its portrayal of gender",
+              "No, historical texts never reflect any assumptions about gender",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these questions would a feminist critic likely ask about a novel?",
+            "options": [
+              "How are the female characters’ choices and agency portrayed compared to the male characters?",
+              "What year was the author born?",
+              "What font was used in the original printed edition?",
+              "How many chapters does this novel contain?"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might feminist literary criticism be considered a valuable lens for re-examining classic works of literature?",
+            "options": [
+              "Feminist literary criticism has no connection to how gender roles are portrayed in literature",
+              "This concept has no relevance to literary criticism",
+              "Classic works of literature never contain any assumptions about gender worth examining",
+              "It can reveal previously overlooked assumptions about gender roles and power embedded within a text"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Optimization: Linear Programming with Systems of Inequalities",
+        "summary": "Grade 11 Functions strand: linear programming uses a system of linear inequalities to define a feasible region, within which the maximum or minimum value of an objective function typically occurs at a vertex.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does a system of linear inequalities define in linear programming?",
+            "options": [
+              "An equation with no possible solution at all",
+              "A single fixed point with no other possible solutions",
+              "A concept unrelated to functions",
+              "A feasible region"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the maximum or minimum value of the objective function in linear programming typically occur at a vertex of the feasible region?",
+            "options": [
+              "A concept unrelated to linear programming",
+              "The objective function’s extreme values are always found at the exact centre of the feasible region",
+              "No, the maximum or minimum value is never located at a vertex",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can linear programming be used to find the most cost-effective combination of resources given certain constraints?",
+            "options": [
+              "Yes",
+              "Cost-effectiveness can never be determined using systems of inequalities",
+              "No, linear programming has no application in resource allocation problems",
+              "A concept unrelated to linear programming"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is graphing the system of inequalities a useful first step in solving a linear programming problem?",
+            "options": [
+              "It visually identifies the feasible region, narrowing down the possible solutions to a manageable set of vertices to test",
+              "The feasible region can never be represented graphically",
+              "This concept has no connection to functions",
+              "Graphing a system of inequalities never helps identify possible solutions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a manufacturing company use linear programming to determine how many units of two products to produce?",
+            "options": [
+              "Linear programming has no practical application for a manufacturing company",
+              "Production decisions are never influenced by constraints on materials or labour",
+              "It can find the combination that maximizes profit while respecting constraints like available materials, labour, or time",
+              "This concept has no relevance to functions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Genetics: Linked Genes and Genetic Recombination",
+        "summary": "Grade 11 Biology strand: linked genes are located close together on the same chromosome and tend to be inherited together, though genetic recombination during meiosis can separate them, with recombination frequency related to their physical distance apart.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What are linked genes?",
+            "options": [
+              "A concept unrelated to biology",
+              "Genes located close together on the same chromosome that tend to be inherited together",
+              "Genes that never affect any inherited trait",
+              "Genes located on completely different chromosomes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can genetic recombination during meiosis separate linked genes?",
+            "options": [
+              "Meiosis has no connection to the separation of linked genes",
+              "A concept unrelated to genetic recombination",
+              "No, genetic recombination never separates linked genes",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is recombination frequency between two linked genes generally related to how physically close together they are on a chromosome?",
+            "options": [
+              "No, recombination frequency has no connection to a gene’s physical location",
+              "A concept unrelated to linked genes",
+              "Yes",
+              "Physical distance between genes never affects how often they are separated"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are genes located very close together on a chromosome less likely to be separated by recombination than genes located far apart?",
+            "options": [
+              "Genes located close together are always separated by recombination just as often as distant genes",
+              "This concept has no connection to biology",
+              "Crossing over is less likely to occur between two points that are physically close together on the same chromosome",
+              "Crossing over occurs at exactly the same rate regardless of a gene’s physical location"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is recombination frequency useful to geneticists constructing a chromosome map?",
+            "options": [
+              "Recombination frequency has no connection to mapping the location of genes on a chromosome",
+              "This concept has no relevance to biology",
+              "Chromosome maps can never be constructed using information about gene recombination",
+              "It provides an estimate of the relative distance between genes, helping to determine their order and spacing along a chromosome"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Metallurgy — Extracting Metals from Their Ores",
+        "summary": "Grade 11 Chemistry strand: metallurgy involves extracting metals from their ores through processes such as roasting, smelting, and electrolysis, often requiring a reduction reaction to convert metal compounds into pure metal.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does metallurgy involve?",
+            "options": [
+              "Extracting metals from their ores",
+              "Only measuring the temperature of a chemical reaction",
+              "A concept unrelated to chemistry",
+              "Growing crystals from a saturated solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can smelting be used as a process to extract metal from its ore?",
+            "options": [
+              "A concept unrelated to metallurgy",
+              "Smelting only ever separates two liquids, never extracts a metal",
+              "No, smelting has no connection to extracting metal from ore",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does extracting a pure metal from its compound in an ore often require a reduction reaction?",
+            "options": [
+              "Yes",
+              "Reduction reactions are never relevant to metal extraction",
+              "No, extracting a metal from its ore never involves any reduction reaction",
+              "A concept unrelated to metallurgy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a highly reactive metal, such as aluminum, require electrolysis rather than simple heating to be extracted from its ore?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "Highly reactive metals never require any special process to be extracted from their ores",
+              "Simple heating is always sufficient to extract any metal, regardless of its reactivity",
+              "Highly reactive metals form very stable compounds that require a strong external source of energy, like an electric current, to reduce them to pure metal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is efficient metallurgical extraction important for industries that rely on large quantities of refined metal?",
+            "options": [
+              "More efficient extraction processes can reduce energy use, cost, and environmental impact while producing usable metal from raw ore",
+              "Efficient metallurgical extraction has no connection to industrial cost or environmental impact",
+              "This concept has no relevance to chemistry",
+              "Metal extraction processes never have any effect on the environment"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "label": "Day 98 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: Spoken Word and Performance Poetry",
+        "summary": "Grade 11 English strand: spoken word and performance poetry are composed to be delivered aloud, relying on rhythm, vocal emphasis, and physical delivery to convey meaning alongside the words themselves.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What are spoken word and performance poetry composed to be?",
+            "options": [
+              "Printed exclusively in academic textbooks",
+              "A concept unrelated to oral communication",
+              "Only read silently by a single reader",
+              "Delivered aloud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does performance poetry rely on rhythm and vocal emphasis to help convey meaning?",
+            "options": [
+              "A concept unrelated to spoken word poetry",
+              "No, performance poetry never relies on rhythm or vocal emphasis",
+              "Rhythm and vocal emphasis have no connection to conveying meaning in this art form",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can physical delivery, such as gesture and pacing, affect how a performance poem is understood by an audience?",
+            "options": [
+              "No, physical delivery never affects how an audience understands a poem",
+              "A concept unrelated to performance poetry",
+              "Yes",
+              "Gesture and pacing are never relevant to performance poetry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a spoken word poet repeat a key phrase with increasing intensity throughout a performance?",
+            "options": [
+              "Repeating a phrase with increasing intensity never has any effect on a performance",
+              "Vocal repetition and rising intensity can build emotional momentum and emphasize the phrase’s central importance",
+              "Emotional momentum is never something a spoken word performance can build",
+              "This concept has no connection to oral communication"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is performance poetry sometimes considered a distinct art form from poetry meant primarily to be read silently on a page?",
+            "options": [
+              "Its meaning depends heavily on the live, aural, and physical elements of delivery, not just the words themselves",
+              "Performance poetry has no meaningful difference from poetry read silently on a page",
+              "This concept has no relevance to oral communication",
+              "The words themselves are always the only element that matters in any form of poetry"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Functions: Rate of Change of Polynomial Functions — Finite Differences",
+        "summary": "Grade 11 Functions strand: the method of finite differences uses a table of equally spaced values to determine the degree of a polynomial function, since the nth differences of an nth-degree polynomial are constant.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the method of finite differences use to determine a polynomial’s degree?",
+            "options": [
+              "A table of equally spaced values",
+              "A single isolated data point with no surrounding values",
+              "The exact colour of a graphed function’s line",
+              "A concept unrelated to functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For an nth-degree polynomial, are the nth differences constant?",
+            "options": [
+              "No, the nth differences of an nth-degree polynomial are never constant",
+              "A concept unrelated to finite differences",
+              "Yes",
+              "The degree of a polynomial has no connection to its finite differences"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the first differences in a table of values are constant, is the underlying function linear?",
+            "options": [
+              "No, constant first differences never indicate a linear function",
+              "Yes",
+              "A concept unrelated to finite differences",
+              "Constant first differences always indicate a quadratic function instead"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does finding constant second differences in a table of values indicate that the underlying function is quadratic?",
+            "options": [
+              "This concept has no connection to functions",
+              "Constant second differences never indicate anything about the type of underlying function",
+              "A quadratic function’s rate of change itself changes at a constant rate, so taking differences of the differences produces a constant value",
+              "Second differences are never used to identify the degree of a polynomial function"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the method of finite differences useful when working with a table of data rather than an explicit function equation?",
+            "options": [
+              "Finite differences are never useful when only a table of data is available",
+              "Identifying a polynomial’s degree always requires knowing its equation beforehand",
+              "This concept has no relevance to functions",
+              "It allows the degree of the underlying polynomial to be identified directly from patterns in the data, without needing to know the function’s equation in advance"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Microbiology: Viral Replication Cycles — Lytic and Lysogenic",
+        "summary": "Grade 11 Biology strand: viruses replicate within a host cell through either the lytic cycle, which quickly destroys the host cell to release new viruses, or the lysogenic cycle, which integrates viral genetic material into the host genome before later becoming active.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does the lytic cycle of viral replication do to the host cell?",
+            "options": [
+              "A concept unrelated to biology",
+              "Leaves it completely unaffected and unchanged",
+              "Quickly destroys it to release new viruses",
+              "Permanently repairs any existing cell damage"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does the lysogenic cycle involve integrating viral genetic material into the host genome?",
+            "options": [
+              "The host genome is never involved in the lysogenic cycle",
+              "A concept unrelated to viral replication",
+              "Yes",
+              "No, the lysogenic cycle never integrates any genetic material into the host"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can a virus in the lysogenic cycle remain dormant within a host for an extended period before becoming active?",
+            "options": [
+              "A concept unrelated to lysogenic replication",
+              "No, a virus in the lysogenic cycle is always immediately active",
+              "Dormancy is never a feature of viral replication cycles",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a virus following the lysogenic cycle eventually switch to the lytic cycle under certain conditions, such as host cell stress?",
+            "options": [
+              "Environmental triggers can activate the dormant viral genetic material, prompting it to begin actively replicating and producing new viruses",
+              "Host cell stress never has any effect on dormant viral genetic material",
+              "A virus following the lysogenic cycle can never switch to the lytic cycle under any circumstances",
+              "This concept has no connection to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding the difference between the lytic and lysogenic cycles important for developing antiviral treatments?",
+            "options": [
+              "This concept has no relevance to biology",
+              "All viruses replicate using exactly the same strategy regardless of species",
+              "Different replication strategies may require different approaches to detect, prevent, or interrupt viral activity within the host",
+              "The lytic and lysogenic cycles have no connection to how antiviral treatments are developed"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Haber-Bosch Process and Industrial Equilibrium",
+        "summary": "Grade 11 Chemistry strand: the Haber-Bosch process synthesizes ammonia from nitrogen and hydrogen gas, applying principles of chemical equilibrium and Le Chatelier’s principle to maximize industrial yield under carefully controlled temperature and pressure.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does the Haber-Bosch process synthesize?",
+            "options": [
+              "Pure oxygen gas from water",
+              "Table salt from sodium and chlorine only",
+              "Ammonia, from nitrogen and hydrogen gas",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does the Haber-Bosch process apply principles of chemical equilibrium to maximize yield?",
+            "options": [
+              "A concept unrelated to industrial chemistry",
+              "No, the Haber-Bosch process has no connection to chemical equilibrium",
+              "Chemical equilibrium is never relevant to industrial ammonia production",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is temperature and pressure carefully controlled in the Haber-Bosch process to improve ammonia yield?",
+            "options": [
+              "A concept unrelated to the Haber-Bosch process",
+              "Yes",
+              "No, temperature and pressure have no effect on ammonia yield",
+              "Ammonia yield is never affected by reaction conditions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might increasing pressure help shift the Haber-Bosch equilibrium toward producing more ammonia?",
+            "options": [
+              "Increasing pressure never has any effect on the position of a chemical equilibrium",
+              "Le Chatelier’s principle has no relationship to how pressure affects a reaction at equilibrium",
+              "This concept has no connection to chemistry",
+              "According to Le Chatelier’s principle, increasing pressure favours the side of the reaction with fewer gas molecules, which is the ammonia product side"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Haber-Bosch process considered one of the most significant achievements in industrial chemistry?",
+            "options": [
+              "Ammonia produced by this process has never been used for any practical purpose",
+              "This concept has no relevance to chemistry",
+              "The Haber-Bosch process has no connection to agricultural production",
+              "It enabled the large-scale production of ammonia for fertilizer, dramatically increasing global agricultural output"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 99,
+    "label": "Day 99 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Allusion and Intertextuality in Fiction",
+        "summary": "Grade 11 English strand: allusion is a brief reference to another text, event, or figure, and intertextuality describes how texts gain meaning through their relationships and connections with other texts.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A complete retelling of an entire unrelated story",
+              "A brief reference to another text, event, or figure",
+              "A concept unrelated to literature",
+              "A footnote explaining a word’s dictionary definition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does intertextuality describe how texts gain meaning through connections with other texts?",
+            "options": [
+              "Texts never gain meaning through any relationship with other texts",
+              "No, intertextuality has no connection to how texts relate to one another",
+              "A concept unrelated to intertextuality",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Might recognizing an allusion deepen a reader’s understanding of a passage’s meaning?",
+            "options": [
+              "No, recognizing an allusion never affects how a reader understands a passage",
+              "Yes",
+              "A concept unrelated to allusion",
+              "A passage’s meaning is never influenced by references to other texts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these sentences contains a clear literary allusion?",
+            "options": [
+              "The train departs at exactly noon.",
+              "Their journey felt like a modern odyssey, full of unexpected trials at every turn.",
+              "The chemical formula for methane is CH4.",
+              "Add 12 and 8 to get 20."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use allusion to reference a well-known myth rather than fully explaining the connection they intend?",
+            "options": [
+              "Allusion never adds any depth or meaning to a piece of writing",
+              "This concept has no connection to literature",
+              "A concise reference can evoke rich, shared associations for readers already familiar with the original source, adding depth without lengthy explanation",
+              "Authors always fully explain every reference they make within a text"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Number Theory: Prime Factorization and the Fundamental Theorem of Arithmetic",
+        "summary": "Grade 11 Functions strand: the fundamental theorem of arithmetic states that every integer greater than 1 can be expressed as a unique product of prime factors, forming the basis of prime factorization.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the fundamental theorem of arithmetic state?",
+            "options": [
+              "A concept unrelated to number theory",
+              "Prime numbers cannot be multiplied together under any circumstances",
+              "Every integer can be divided evenly by exactly two other numbers",
+              "Every integer greater than 1 can be expressed as a unique product of prime factors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is the prime factorization of a given integer unique, aside from the order of the factors?",
+            "options": [
+              "A concept unrelated to prime factorization",
+              "No, a single integer can have many completely different prime factorizations",
+              "Yes",
+              "Prime factorization is never unique for any given integer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the prime factorization of 60?",
+            "options": [
+              "2 squared times 3 times 5",
+              "2 times 3 times 5 squared",
+              "2 times 3 squared times 5",
+              "2 times 5 times 7"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is 1 excluded from being considered a prime number in the context of the fundamental theorem of arithmetic?",
+            "options": [
+              "This concept has no connection to number theory",
+              "Excluding 1 from the primes has no effect on the uniqueness of prime factorization",
+              "Including 1 as a prime would allow infinitely many different factorizations of the same integer, violating the uniqueness of prime factorization",
+              "1 is always classified as the smallest prime number in every mathematical context"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is prime factorization a useful tool for finding the greatest common factor of two integers?",
+            "options": [
+              "Comparing the shared prime factors between two factorizations reveals the largest factor common to both integers",
+              "Prime factorization has no connection to finding a greatest common factor",
+              "The greatest common factor of two integers can never be determined using their prime factorizations",
+              "This concept has no relevance to functions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Human Biology: The Special Senses — Hearing and Balance",
+        "summary": "Grade 11 Biology strand: the inner ear contains structures responsible for both hearing, through the cochlea’s conversion of sound vibrations into nerve impulses, and balance, through the vestibular system’s detection of head position and movement.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What structure in the inner ear converts sound vibrations into nerve impulses?",
+            "options": [
+              "The eardrum alone",
+              "A concept unrelated to biology",
+              "The outer ear canal",
+              "The cochlea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the vestibular system help detect head position and movement?",
+            "options": [
+              "A concept unrelated to the special senses",
+              "Yes",
+              "No, the vestibular system has no connection to detecting head position or movement",
+              "Head position and movement are never detected by any structure in the ear"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is the sense of balance controlled by structures located in the inner ear?",
+            "options": [
+              "Yes",
+              "No, balance is controlled entirely by structures located outside the ear",
+              "The inner ear has no connection to a person’s sense of balance",
+              "A concept unrelated to human biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might damage to the inner ear affect both a person’s hearing and their sense of balance?",
+            "options": [
+              "Damage to the inner ear never affects hearing or balance in any way",
+              "The cochlea and the vestibular system are both located within the inner ear, so damage to this region can disrupt either or both functions",
+              "This concept has no connection to biology",
+              "Hearing and balance are controlled by completely separate, unrelated organs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding the structures of the inner ear important for diagnosing conditions that cause dizziness or vertigo?",
+            "options": [
+              "Balance disorders are never related to any structure located within the ear",
+              "Many balance disorders originate from disruptions in the vestibular system, so identifying the affected structure can guide accurate diagnosis and treatment",
+              "This concept has no relevance to biology",
+              "The structures of the inner ear have no connection to conditions causing dizziness or vertigo"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Agricultural Chemistry — Fertilizers and Soil Nutrients",
+        "summary": "Grade 11 Chemistry strand: fertilizers supply essential plant nutrients, particularly nitrogen, phosphorus, and potassium, in chemical forms that plant roots can readily absorb from the soil.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What three essential nutrients do many fertilizers supply, abbreviated NPK?",
+            "options": [
+              "Sodium, chlorine, and calcium",
+              "Nitrogen, phosphorus, and potassium",
+              "A concept unrelated to chemistry",
+              "Carbon, hydrogen, and oxygen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are fertilizer nutrients typically provided in chemical forms that plant roots can readily absorb?",
+            "options": [
+              "Plant roots are never able to absorb any nutrients from fertilizer",
+              "No, fertilizer nutrients are never in a form that plant roots can absorb",
+              "A concept unrelated to agricultural chemistry",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can excessive fertilizer use contribute to nutrient runoff into nearby water systems?",
+            "options": [
+              "A concept unrelated to agricultural chemistry",
+              "Nutrient runoff has no connection to how much fertilizer is applied",
+              "Yes",
+              "No, fertilizer use never has any effect on nearby water systems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a farmer test soil nutrient levels before applying fertilizer to a field?",
+            "options": [
+              "Testing soil nutrient levels never provides any useful information for a farmer",
+              "Fertilizer should always be applied in the same amount regardless of existing soil nutrients",
+              "Testing reveals which nutrients are already sufficient and which are lacking, allowing more precise and efficient fertilizer application",
+              "This concept has no connection to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is nutrient runoff from over-fertilized fields a significant concern for nearby aquatic ecosystems?",
+            "options": [
+              "Nutrient runoff has no connection to the health of nearby aquatic ecosystems",
+              "Algal blooms are never linked to excess nutrients entering a body of water",
+              "Excess nutrients entering waterways can trigger algal blooms that deplete oxygen and harm aquatic life",
+              "This concept has no relevance to chemistry"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 100,
+    "label": "Day 100 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Review: Postcolonialism, Rhetoric, and Literary Form (Days 91-99)",
+        "summary": "Grade 11 English strand review: students revisit the postcolonial novel, the personal diary and journal, the sonnet form, rhetorical schemes, the parable and fable, public service announcements, feminist reading, spoken word poetry, and allusion.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does postcolonial literature often examine?",
+            "options": [
+              "The exact publication date of a novel",
+              "The lasting cultural, political, and psychological effects of colonialism",
+              "A concept unrelated to literature",
+              "Only the geography of a fictional setting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many lines does a traditional sonnet contain?",
+            "options": [
+              "Twenty",
+              "A concept unrelated to poetry",
+              "Ten",
+              "Fourteen"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does anaphora involve repeating a word or phrase at the beginning of successive clauses or sentences?",
+            "options": [
+              "A concept unrelated to rhetorical schemes",
+              "Repetition has no connection to anaphora as a rhetorical device",
+              "Yes",
+              "No, anaphora never involves repeating any word or phrase"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a feminist reading of a text examine?",
+            "options": [
+              "A concept unrelated to literary criticism",
+              "How gender roles, power dynamics, and the representation of women shape the text’s meaning",
+              "The font and formatting used in a printed edition",
+              "Only the exact publication date of a text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A complete retelling of an entire unrelated story",
+              "A brief reference to another text, event, or figure",
+              "A footnote explaining a word’s dictionary definition",
+              "A concept unrelated to literature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Review: Functions, Matrices, and Number Theory (Days 91-99)",
+        "summary": "Grade 11 Functions strand review: students revisit operations on functions, synthetic division and the remainder theorem, sum and difference identities, matrix determinants, the law of large numbers, laws of exponents, linear programming, finite differences, and prime factorization.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "Which operations can be used to combine two functions into a new function?",
+            "options": [
+              "Addition, subtraction, multiplication, and division",
+              "Only addition, with no other operation permitted",
+              "None, since functions can never be combined",
+              "A concept unrelated to functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does synthetic division streamline?",
+            "options": [
+              "A concept unrelated to functions",
+              "Dividing a polynomial by a linear binomial",
+              "Graphing a function on a coordinate plane",
+              "Multiplying two large polynomials together"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For a 2 by 2 matrix with entries a and b in the top row and c and d in the bottom row, what is the formula for its determinant?",
+            "options": [
+              "ad plus bc",
+              "ac minus bd",
+              "ab minus cd",
+              "ad minus bc"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a system of linear inequalities define in linear programming?",
+            "options": [
+              "A feasible region",
+              "A single fixed point with no other possible solutions",
+              "An equation with no possible solution at all",
+              "A concept unrelated to functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the fundamental theorem of arithmetic state?",
+            "options": [
+              "Every integer greater than 1 can be expressed as a unique product of prime factors",
+              "A concept unrelated to number theory",
+              "Every integer can be divided evenly by exactly two other numbers",
+              "Prime numbers cannot be multiplied together under any circumstances"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Review: Physiology, Genetics, and Ecology (Days 91-99)",
+        "summary": "Grade 11 Biology strand review: students revisit thermoregulation, the operon model, plant defences against herbivory, population growth models, bioaccumulation and biomagnification, convergent and divergent evolution, linked genes, viral replication cycles, and the special senses.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What do endotherms use to maintain a stable body temperature?",
+            "options": [
+              "A concept unrelated to biology",
+              "Only heat absorbed from the surrounding environment",
+              "Heat generated internally by their own metabolism",
+              "Nothing at all related to temperature regulation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the operon model explain in prokaryotic cells?",
+            "options": [
+              "How groups of related genes are switched on or off together",
+              "How cells physically divide during mitosis",
+              "How a single unrelated protein is broken down",
+              "A concept unrelated to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does bioaccumulation describe?",
+            "options": [
+              "How a toxin instantly disappears from an organism’s body",
+              "How energy flows between different ecosystems",
+              "A concept unrelated to biology",
+              "How a toxin builds up within an individual organism over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are linked genes?",
+            "options": [
+              "A concept unrelated to biology",
+              "Genes that never affect any inherited trait",
+              "Genes located close together on the same chromosome that tend to be inherited together",
+              "Genes located on completely different chromosomes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structure in the inner ear converts sound vibrations into nerve impulses?",
+            "options": [
+              "The cochlea",
+              "The eardrum alone",
+              "A concept unrelated to biology",
+              "The outer ear canal"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Review: Atomic Structure, Materials, and Industrial Chemistry (Days 91-99)",
+        "summary": "Grade 11 Chemistry strand review: students revisit electron configuration, sunscreen chemistry, semiconductors and doping, chirality, carbon allotropes, acid-base indicators, metallurgy, the Haber-Bosch process, and agricultural chemistry.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does electron configuration describe?",
+            "options": [
+              "How electrons are arranged within an atom’s orbitals",
+              "Only the mass of an atom’s nucleus",
+              "The exact colour an element appears in solid form",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where does a semiconductor’s electrical conductivity typically fall?",
+            "options": [
+              "Always exactly equal to that of a perfect insulator",
+              "A concept unrelated to chemistry",
+              "Between that of a conductor and an insulator",
+              "Always exactly equal to that of a perfect conductor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a chiral molecule have?",
+            "options": [
+              "No mirror image whatsoever",
+              "A non-superimposable mirror image",
+              "An identical structure to every other molecule of its kind",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does metallurgy involve?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Growing crystals from a saturated solution",
+              "Only measuring the temperature of a chemical reaction",
+              "Extracting metals from their ores"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What three essential nutrients do many fertilizers supply, abbreviated NPK?",
+            "options": [
+              "Sodium, chlorine, and calcium",
+              "Carbon, hydrogen, and oxygen",
+              "Nitrogen, phosphorus, and potassium",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]

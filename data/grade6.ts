@@ -3546,6 +3546,386 @@ const curriculum: DayContent[] = [
      {q:"What has social media become a tool for in recent years?", options:["Modern activism","Only entertainment, with no other use","Nothing beyond casual conversation","A concept unrelated to social issues"], answer:0}
    ]},
 ]},
+{day:91, label:"Day 91 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Understanding Verbal, Situational, and Dramatic Irony", summary:"Grade 6 Language strand: irony occurs when there is a gap between what is expected and what actually happens, and can take the form of verbal irony (saying the opposite of what is meant), situational irony (an unexpected outcome), or dramatic irony (the audience knows something a character does not).",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is irony?", options:["A concept unrelated to reading","A synonym for a simile","A type of punctuation mark","A gap between what is expected and what actually happens"], answer:3},
+     {q:"If a character says Great weather! during a thunderstorm, what type of irony is this?", options:["Dramatic irony","A concept unrelated to irony","Situational irony","Verbal irony"], answer:3},
+     {q:"If the audience knows a character is walking into a trap but the character does not, what type of irony is this?", options:["Verbal irony","A concept unrelated to irony","Dramatic irony","Situational irony"], answer:2},
+     {q:"A fire station burning down would be an example of which type of irony?", options:["Dramatic irony","Situational irony","Verbal irony","A concept unrelated to irony"], answer:1},
+     {q:"Why might an author use dramatic irony to build suspense in a story?", options:["Readers should never know more than a character in a story","Knowing more than a character does can make readers anxious about what will happen next","Dramatic irony never creates any suspense for readers","This concept has no connection to reading comprehension"], answer:1}
+   ]},
+  {subject:"Math", title:"Adding and Subtracting Integers on a Number Line", summary:"Grade 6 Math strand: adding and subtracting integers can be modelled on a number line, where adding a positive number moves right and adding a negative number, or subtracting a positive number, moves left.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"On a number line, which direction does adding a positive number move you?", options:["Right","Left","A concept unrelated to integers","It does not move you at all"], answer:0},
+     {q:"On a number line, which direction does adding a negative number move you?", options:["Left","It does not move you at all","A concept unrelated to integers","Right"], answer:0},
+     {q:"What is negative 3 plus 5?", options:["-2","8","2","-8"], answer:2},
+     {q:"What is 4 minus 7?", options:["-11","11","-3","3"], answer:2},
+     {q:"Why can a number line be a useful tool for adding and subtracting integers?", options:["Number lines never help with understanding integer operations","Integers can never be represented on a number line","It gives a visual way to track movement in a positive or negative direction","This concept has no connection to math"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Endocrine System and Hormones", summary:"Grade 6 Science strand: the endocrine system is made up of glands that release hormones, chemical messengers that travel through the blood to control body processes such as growth, energy use, and mood.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does the endocrine system release into the body?", options:["Hormones","Only oxygen","A concept unrelated to the human body","Only blood cells"], answer:0},
+     {q:"How do hormones travel through the body?", options:["Hormones never travel anywhere in the body","Through the digestive system only","Through the blood","A concept unrelated to hormones"], answer:2},
+     {q:"Can hormones affect processes like growth and mood?", options:["Yes","Hormones only affect breathing","A concept unrelated to hormones","No, hormones have no effect on the body"], answer:0},
+     {q:"Why might a gland releasing too much or too little of a hormone cause health problems?", options:["The body works exactly the same no matter the hormone levels","Hormones help regulate important body processes, so an imbalance can disrupt how the body functions","Hormone levels never affect health in any way","This concept has no connection to biology"], answer:1},
+     {q:"Why do scientists describe hormones as chemical messengers?", options:["Hormones are identical to nerve cells","They carry signals from glands to other parts of the body that need to respond","Hormones never carry any kind of signal","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Truth and Reconciliation Commission of Canada", summary:"Grade 6 Social Studies strand: the Truth and Reconciliation Commission was established to document the experiences of Indigenous survivors of residential schools and to make recommendations, known as Calls to Action, toward reconciliation in Canada.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did the Truth and Reconciliation Commission document?", options:["The founding of Canadian cities","The experiences of Indigenous survivors of residential schools","A concept unrelated to Canadian history","The history of Canadian sports"], answer:1},
+     {q:"What are the Commission’s recommendations for reconciliation known as?", options:["Trade Agreements","Provincial Laws","A concept unrelated to the Commission","Calls to Action"], answer:3},
+     {q:"Was the Truth and Reconciliation Commission focused on Indigenous experiences in Canada?", options:["Yes","A concept unrelated to Canadian history","No, it focused only on international trade","It had no connection to Indigenous peoples"], answer:0},
+     {q:"Why might listening to survivor testimonies have been an important part of the Commission’s work?", options:["The Commission ignored the experiences of survivors entirely","Survivor testimonies were never included in the Commission’s work","It helped create an accurate record of history and acknowledge the harm experienced by survivors","This concept has no connection to social studies"], answer:2},
+     {q:"Why is reconciliation described as an ongoing process rather than a single completed event?", options:["Reconciliation was fully completed the moment the Commission ended","Rebuilding trust and addressing historical harms takes sustained effort over time","This concept has no relevance to social studies","Reconciliation has no connection to Indigenous and non-Indigenous relationships"], answer:1}
+   ]},
+]},
+{day:92, label:"Day 92 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Gerunds and Infinitives", summary:"Grade 6 Language strand: a gerund is a verb form ending in -ing that acts as a noun, such as swimming in Swimming is fun, while an infinitive is the word to plus a verb, such as to swim, which can also act as a noun.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a gerund?", options:["A word that describes a noun","A concept unrelated to grammar","A punctuation mark","A verb form ending in -ing that acts as a noun"], answer:3},
+     {q:"What is an infinitive?", options:["The word to plus a verb","A concept unrelated to grammar","A verb form ending in -ing only","A type of punctuation mark"], answer:0},
+     {q:"In the sentence Swimming is fun, what part of speech is swimming acting as?", options:["A noun","A preposition","A concept unrelated to grammar","An adjective"], answer:0},
+     {q:"Which sentence correctly uses an infinitive?", options:["She wants to read every night.","To she wants read every night.","She wants reading every night to.","She wants read to every night."], answer:0},
+     {q:"Why might a writer use a gerund instead of a regular verb in a sentence?", options:["Regular verbs and gerunds are always exactly the same","A gerund allows an action to function as the subject or object of a sentence","This concept has no connection to grammar","Gerunds can never function as a subject or object"], answer:1}
+   ]},
+  {subject:"Math", title:"Data: Box-and-Whisker Plots and Data Spread", summary:"Grade 6 Math strand: a box-and-whisker plot displays how data is spread out using five key values: the minimum, first quartile, median, third quartile, and maximum.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a box-and-whisker plot display?", options:["Only the mean of a data set","How data is spread out","A concept unrelated to data management","Nothing about a data set"], answer:1},
+     {q:"Name one of the five key values shown in a box-and-whisker plot.", options:["The name of the data set","The colour of the data","A concept unrelated to box-and-whisker plots","The median"], answer:3},
+     {q:"In a box-and-whisker plot, what does the line inside the box represent?", options:["The minimum only","The maximum only","The median","A concept unrelated to box-and-whisker plots"], answer:2},
+     {q:"If a box-and-whisker plot has a very long whisker on one side, what might that suggest?", options:["This concept has no connection to data spread","There may be some values spread far from the rest of the data","The data is always perfectly even on both sides","A long whisker means there is no data at all"], answer:1},
+     {q:"Why might a box-and-whisker plot be useful for comparing two data sets?", options:["This concept has no connection to math","Box-and-whisker plots can never be used to compare data sets","It shows the spread and middle values of each set side by side for easy comparison","Box-and-whisker plots only work with a single data value"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Biomes of the World: Desert, Tundra, Rainforest, and Grassland", summary:"Grade 6 Science strand: a biome is a large region with a distinct climate, plants, and animals, such as a desert with little rainfall, a tundra with frozen ground, a rainforest with dense vegetation, or a grassland with wide open plains.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a biome?", options:["A large region with a distinct climate, plants, and animals","A single type of rock","A single species of animal","A concept unrelated to Earth science"], answer:0},
+     {q:"Which biome typically has very little rainfall?", options:["Wetland","Desert","Rainforest","A concept unrelated to biomes"], answer:1},
+     {q:"Which biome has permanently frozen ground called permafrost?", options:["A concept unrelated to biomes","Rainforest","Desert","Tundra"], answer:3},
+     {q:"Why do plants and animals in a rainforest differ so much from those in a desert?", options:["Climate has no effect on which living things survive in a region","This concept has no connection to biology","Each biome’s climate and available resources shape which living things can survive there","Every biome has the exact same plants and animals"], answer:2},
+     {q:"Why is understanding biomes important for conservation efforts?", options:["This concept has no relevance to science","Different biomes require different strategies to protect their unique species and habitats","Biomes never need any kind of conservation effort","All biomes require the exact same conservation strategy"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: UNESCO World Heritage Sites and Cultural Preservation", summary:"Grade 6 Social Studies strand: a UNESCO World Heritage Site is a place recognized for its outstanding cultural, historical, or natural significance, and is protected to help preserve it for future generations.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is a UNESCO World Heritage Site?", options:["A concept unrelated to global heritage","A type of modern shopping centre","A place with no historical significance at all","A place recognized for outstanding cultural, historical, or natural significance"], answer:3},
+     {q:"Why are World Heritage Sites given special protection?", options:["To make them harder for anyone to visit","To help preserve them for future generations","Protection has no connection to World Heritage Sites","A concept unrelated to cultural preservation"], answer:1},
+     {q:"Can a World Heritage Site be a natural landmark rather than a human-made structure?", options:["Yes","No, only human-made structures can be listed","A concept unrelated to World Heritage Sites","Natural landmarks are never recognized in any way"], answer:0},
+     {q:"Why might countries around the world choose to work together to identify and protect these sites?", options:["Cultural and natural heritage is considered valuable to all of humanity, not just one country","This concept has no connection to social studies","Heritage sites only matter to the country where they are located","Countries never cooperate on protecting heritage sites"], answer:0},
+     {q:"Why might tourism at a World Heritage Site present both benefits and challenges?", options:["Heritage sites are never visited by tourists","This concept has no relevance to social studies","Tourism can support the local economy but may also put pressure on fragile sites","Tourism never has any effect on a heritage site"], answer:2}
+   ]},
+]},
+{day:93, label:"Day 93 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Crafting a Persuasive Speech", summary:"Grade 6 Language strand: a persuasive speech uses a clear position, strong evidence, and rhetorical techniques to convince a live audience to agree with the speaker’s viewpoint or take a specific action.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is the main goal of a persuasive speech?", options:["To simply describe an event with no opinion","To entertain an audience with no message at all","A concept unrelated to writing","To convince a live audience to agree with a viewpoint or take action"], answer:3},
+     {q:"Should a persuasive speech include supporting evidence?", options:["A concept unrelated to persuasive writing","No, persuasive speeches never include evidence","Evidence is only used in fictional stories","Yes"], answer:3},
+     {q:"Why might a persuasive speech benefit from a strong, memorable opening?", options:["This concept has no connection to writing","Persuasive speeches should always begin with unrelated information","A strong opening never affects how an audience responds","It can quickly capture the audience’s attention and set up the main argument"], answer:3},
+     {q:"Which of these is most likely a strong closing line for a persuasive speech?", options:["The recipe calls for two cups of flour.","Join me in making our school a greener place, starting today.","Chapter one begins with a young girl in a forest.","The weather today is sunny with a chance of clouds."], answer:1},
+     {q:"Why might a speaker use repetition of a key phrase throughout a persuasive speech?", options:["Persuasive speeches should never repeat any words or phrases","Repeating a phrase can help the main message stick in the audience’s memory","This concept has no connection to persuasive writing","Repetition never has any effect on an audience"], answer:1}
+   ]},
+  {subject:"Math", title:"Congruent Figures and Congruence Transformations", summary:"Grade 6 Math strand: congruent figures are shapes that are exactly the same size and shape, and can be shown to be congruent using transformations like translations, reflections, and rotations that do not change size.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does it mean for two figures to be congruent?", options:["They are exactly the same size and shape","A concept unrelated to geometry","They share only one matching side","They are the same shape but different sizes"], answer:0},
+     {q:"Name one type of transformation that can show two figures are congruent.", options:["A concept unrelated to congruence","A colour change","A resizing that changes area","A reflection"], answer:3},
+     {q:"Does a translation, reflection, or rotation change the size of a figure?", options:["A concept unrelated to transformations","Yes, it always halves the size","Yes, it always doubles the size","No"], answer:3},
+     {q:"If a triangle is reflected across a line, is the resulting triangle congruent to the original?", options:["Reflections never produce a matching shape","Yes","A concept unrelated to congruence","No, reflections always change a shape’s size"], answer:1},
+     {q:"Why is understanding congruence useful in fields like construction or design?", options:["Construction never requires identical shapes or parts","This concept has no connection to geometry","It helps ensure that parts made to the same specifications will fit together correctly","Congruence has no real-world application at all"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Extinction and Endangered Species Conservation", summary:"Grade 6 Science strand: extinction occurs when a species no longer exists anywhere on Earth, and conservation efforts aim to protect endangered species, those at serious risk of extinction, through habitat protection and other measures.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does extinction mean for a species?", options:["A concept unrelated to biology","It has grown in population everywhere","It no longer exists anywhere on Earth","It has moved to a new habitat"], answer:2},
+     {q:"What do we call a species at serious risk of extinction?", options:["An endangered species","A dominant species","A concept unrelated to conservation","An invasive species"], answer:0},
+     {q:"Can habitat protection help prevent a species from becoming extinct?", options:["Yes","No, habitat protection has no effect on extinction","A concept unrelated to conservation","Habitat protection always increases extinction risk"], answer:0},
+     {q:"Why might the loss of a single species affect an entire ecosystem?", options:["This concept has no connection to biology","Ecosystems never depend on more than one species","Species are often interconnected, so losing one can disrupt food webs and other relationships","Losing one species never affects any other living things"], answer:2},
+     {q:"Why do conservationists study the causes of a species’ decline before creating a protection plan?", options:["Every endangered species faces exactly the same threats","The causes of decline are never relevant to conservation planning","Understanding the specific threats helps target the most effective conservation strategies","This concept has no relevance to science"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Ancient Nubia: Kingdoms Along the Nile", summary:"Grade 6 Social Studies strand: ancient Nubia was home to a series of powerful kingdoms south of Egypt along the Nile River, known for skilled ironworking, extensive trade networks, and, during the Kingdom of Kush, even ruling over Egypt itself.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"Where was ancient Nubia located?", options:["North of Rome","In present-day South America","South of Egypt along the Nile River","A concept unrelated to ancient history"], answer:2},
+     {q:"What skill was ancient Nubia known for?", options:["A concept unrelated to Nubia","Manufacturing cars","Ironworking","Building skyscrapers"], answer:2},
+     {q:"Did the Kingdom of Kush, a Nubian kingdom, ever rule over Egypt?", options:["Egypt and Nubia never interacted at all","Yes","No, Nubia never had any connection to Egypt","A concept unrelated to Nubian history"], answer:1},
+     {q:"Why might Nubia’s location along the Nile River have supported extensive trade networks?", options:["This concept has no connection to Nubian history","Nubia had no access to any waterways at all","Rivers never provide any benefit for trade","The river provided a natural route for transporting goods and connecting distant regions"], answer:3},
+     {q:"Why is it important for students to learn about African civilizations like ancient Nubia alongside better-known ones like ancient Egypt?", options:["It gives a fuller and more accurate picture of the achievements of ancient African societies","This concept has no relevance to social studies","Only ancient Egypt is worth studying in African history","Ancient Nubia had no notable achievements of its own"], answer:0}
+   ]},
+]},
+{day:94, label:"Day 94 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Hyperbole and Understatement", summary:"Grade 6 Language strand: hyperbole is exaggeration used for emphasis or humour, such as I have told you a million times, while understatement makes something seem less significant than it is, such as calling a hurricane a bit windy.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is hyperbole?", options:["A comparison using like or as","A concept unrelated to vocabulary","Exaggeration used for emphasis or humour","A word that sounds like its meaning"], answer:2},
+     {q:"What is understatement?", options:["Making something seem more significant than it is","Making something seem less significant than it is","A word borrowed from another language","A concept unrelated to vocabulary"], answer:1},
+     {q:"Which of these is an example of hyperbole?", options:["The sky is blue today.","She walked to the store.","I have told you a million times.","The book has 200 pages."], answer:2},
+     {q:"Which of these is an example of understatement?", options:["Calling a hurricane the worst storm in history","A concept unrelated to understatement","Describing a hurricane using only exact wind speeds","Calling a hurricane a bit windy"], answer:3},
+     {q:"Why might a writer use hyperbole or understatement instead of a literal description?", options:["Literal descriptions and exaggerations always create the exact same effect","This concept has no connection to writing","Hyperbole and understatement never affect the tone of a text","They can create humour, emphasis, or a particular tone that a literal description might not achieve"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Calculating Sales Tax and Total Cost", summary:"Grade 6 Math strand: sales tax is a percentage added to the price of goods or services at the time of purchase, and the total cost is found by adding the tax amount to the original price.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is sales tax?", options:["A concept unrelated to shopping","A percentage added to the price of goods or services","A fee charged only once a year","A discount subtracted from the price"], answer:1},
+     {q:"To find the total cost of an item, what do you add to the original price?", options:["A concept unrelated to sales tax","The store’s address","Nothing at all","The sales tax amount"], answer:3},
+     {q:"If an item costs 20 dollars and the sales tax is 10 percent, how much is the tax amount?", options:["2 dollars","10 dollars","20 dollars","22 dollars"], answer:0},
+     {q:"If an item costs 20 dollars and the sales tax is 10 percent, what is the total cost?", options:["2 dollars","22 dollars","20 dollars","30 dollars"], answer:1},
+     {q:"Why is it useful to estimate sales tax before making a purchase?", options:["Sales tax never affects the final amount paid","It helps shoppers know the actual amount they will need to pay, not just the listed price","This concept has no connection to financial literacy","The listed price is always exactly what a shopper pays"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Excretory System and Waste Removal in the Body", summary:"Grade 6 Science strand: the excretory system, including the kidneys, removes waste products and excess water from the blood, forming urine, which helps keep the body’s internal environment balanced.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is the job of the excretory system?", options:["A concept unrelated to the human body","To remove waste products and excess water from the blood","To digest food","To pump blood throughout the body"], answer:1},
+     {q:"Name one organ that is part of the excretory system.", options:["A concept unrelated to the excretory system","The brain","The kidneys","The lungs only"], answer:2},
+     {q:"Does the excretory system help form urine?", options:["Yes","Urine is formed by the digestive system instead","No, urine has no connection to the excretory system","A concept unrelated to the excretory system"], answer:0},
+     {q:"Why is it important for the body to remove waste products from the blood?", options:["This concept has no connection to biology","The blood never contains any waste products","Built-up waste could become harmful if it is not regularly filtered out","Waste products in the blood never cause any harm"], answer:2},
+     {q:"Why might drinking enough water support the excretory system’s function?", options:["Water has no effect on how the kidneys function","This concept has no relevance to science","Water helps the kidneys filter waste efficiently and helps form urine","The excretory system works better without any water at all"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Structure and Role of the Canadian Senate", summary:"Grade 6 Social Studies strand: the Canadian Senate is the upper house of Parliament, made up of appointed members who review, debate, and can propose changes to bills before they become law.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Canadian Senate?", options:["A municipal council","A concept unrelated to government","The upper house of Parliament","A provincial court"], answer:2},
+     {q:"Are members of the Senate appointed or elected?", options:["A concept unrelated to the Senate","Elected","Neither appointed nor elected","Appointed"], answer:3},
+     {q:"Can the Senate review and debate bills before they become law?", options:["A concept unrelated to the Senate","No, the Senate has no role in reviewing bills","Yes","Only the House of Commons is allowed to review bills"], answer:2},
+     {q:"Why might having a Senate review bills already passed by the House of Commons be useful?", options:["Bills never need to be reviewed more than once","It provides an additional layer of scrutiny that could catch problems before a bill becomes law","A second review of a bill never serves any purpose","This concept has no connection to Canadian government"], answer:1},
+     {q:"Why do some Canadians debate whether Senators should be appointed or elected?", options:["People have different views on which method best ensures the Senate is fair and accountable","The method of choosing Senators has never changed or been debated","No one in Canada has ever discussed how Senators are chosen","This concept has no relevance to social studies"], answer:0}
+   ]},
+]},
+{day:95, label:"Day 95 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Recognizing Propaganda Techniques", summary:"Grade 6 Language strand: propaganda uses techniques such as emotional appeals, repetition, and bandwagon messaging (suggesting everyone else is doing something) to influence people’s opinions, often without presenting balanced information.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is propaganda used to do?", options:["Entertain readers with no persuasive goal","A concept unrelated to media literacy","Influence people’s opinions","Provide only balanced, neutral information"], answer:2},
+     {q:"Name one technique used in propaganda, such as repetition or emotional appeals.", options:["Page numbers","A concept unrelated to propaganda","Footnotes","Repetition"], answer:3},
+     {q:"What is bandwagon messaging?", options:["A technique used only in fictional stories","A concept unrelated to propaganda","A method of presenting only balanced facts","Suggesting everyone else is doing something to encourage you to join in"], answer:3},
+     {q:"Does propaganda typically present a fully balanced view of an issue?", options:["Propaganda never expresses any kind of viewpoint","A concept unrelated to propaganda","No","Yes, propaganda always presents every side equally"], answer:2},
+     {q:"Why is it important for readers to recognize propaganda techniques in media?", options:["This concept has no connection to media literacy","Recognizing these techniques helps readers think critically instead of being easily persuaded","Propaganda techniques never actually influence how people think","Readers never need to evaluate the messages they encounter"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: Independent and Dependent Events", summary:"Grade 6 Math strand: an independent event is one where the outcome does not affect another event, like flipping a coin twice, while a dependent event is one where the outcome does affect another, like drawing cards without replacement.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is an independent event?", options:["An event whose outcome does not affect another event","An event that never has any outcome","A concept unrelated to probability","An event that always affects another event"], answer:0},
+     {q:"What is a dependent event?", options:["An event whose outcome does affect another event","An event that never affects anything else","A concept unrelated to probability","An event with no possible outcomes"], answer:0},
+     {q:"Is flipping a coin twice an example of independent or dependent events?", options:["Neither independent nor dependent","Dependent","Independent","A concept unrelated to probability"], answer:2},
+     {q:"Is drawing two cards from a deck without replacing the first card an example of independent or dependent events?", options:["Neither independent nor dependent","A concept unrelated to probability","Independent","Dependent"], answer:3},
+     {q:"Why does removing a card from a deck without replacing it change the probability of the next draw?", options:["This concept has no connection to probability","The deck always has the exact same number of cards no matter what","Removing a card never affects the probability of future draws","There are fewer total cards left, so the chances for each remaining card change"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Science of Recycling and Waste Reduction", summary:"Grade 6 Science strand: recycling processes used materials like paper, glass, and plastic so they can be made into new products, reducing the need for new raw materials and helping lower the amount of waste sent to landfills.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does recycling do with used materials?", options:["Buries them permanently underground","Destroys them completely with no further use","Processes them so they can be made into new products","A concept unrelated to waste management"], answer:2},
+     {q:"Name one material that can commonly be recycled, such as paper or glass.", options:["Nothing can be recycled","Food scraps only","A concept unrelated to recycling","Paper"], answer:3},
+     {q:"Can recycling help reduce the need for new raw materials?", options:["Recycling always increases the need for raw materials","No, recycling never reduces the need for raw materials","A concept unrelated to recycling","Yes"], answer:3},
+     {q:"Why might reducing the amount of waste sent to landfills be beneficial for the environment?", options:["Reducing landfill waste always harms the environment more","This concept has no connection to science","Landfills have no impact on the environment at all","Landfills can take up land and release harmful substances as waste breaks down"], answer:3},
+     {q:"Why do some products carry a recycling symbol showing what type of material they are made of?", options:["This concept has no relevance to science","Products are never labelled with any information about their materials","The recycling symbol has no connection to sorting materials","It helps people sort materials correctly so they can be properly recycled"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Global Population Growth and Demographic Change", summary:"Grade 6 Social Studies strand: global population growth refers to the increasing number of people living on Earth over time, and demographic change describes shifts in factors like age, location, and family size within populations.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What does global population growth refer to?", options:["The number of animals living on Earth","The increasing number of people living on Earth over time","A concept unrelated to geography","A decrease in the number of people on Earth"], answer:1},
+     {q:"What does demographic change describe?", options:["A concept unrelated to population studies","Shifts in factors like age, location, and family size within populations","Changes in the weather only","Changes in ocean currents only"], answer:1},
+     {q:"Can demographic change include shifts in where people choose to live?", options:["People never move to new locations","A concept unrelated to demographic change","Yes","No, demographic change never involves where people live"], answer:2},
+     {q:"Why might rapid population growth in a region create challenges for resources like housing and water?", options:["Resources are always unlimited no matter the population size","A larger population increases demand for limited resources, which can strain supply","This concept has no connection to social studies","Population growth never affects the demand for resources"], answer:1},
+     {q:"Why do governments and organizations study demographic trends when planning for the future?", options:["Demographic trends have no use in planning for the future","Population data is never used for any kind of planning","Understanding population changes helps plan for needs like schools, healthcare, and infrastructure","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:96, label:"Day 96 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Character Motivation", summary:"Grade 6 Language strand: character motivation refers to the reasons behind a character’s actions and decisions in a story, which readers can infer from the character’s words, thoughts, and behaviour.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does character motivation refer to?", options:["The setting where a story takes place","The reasons behind a character’s actions and decisions","A concept unrelated to reading","The title of a story"], answer:1},
+     {q:"Can readers infer a character’s motivation from their words and actions?", options:["A concept unrelated to character motivation","No, motivation can never be inferred from a story","Only the author can ever know a character’s motivation","Yes"], answer:3},
+     {q:"Why might understanding a character’s motivation help readers predict what they will do next?", options:["This concept has no connection to reading comprehension","Predicting a character’s actions never requires understanding motivation","Knowing what a character wants can help explain and anticipate their future choices","Character motivation never affects a character’s future choices"], answer:2},
+     {q:"If a character steals food because their family is starving, what might this reveal about their motivation?", options:["They are acting out of desperation to help their family survive","The character is acting purely for entertainment","They have no reason at all for their actions","This concept has no connection to character motivation"], answer:0},
+     {q:"Why might two characters react differently to the same event in a story?", options:["All characters always react in exactly the same way to any event","A character’s motivation never influences how they react to events","Each character may have different motivations, values, or experiences shaping their response","This concept has no relevance to reading comprehension"], answer:2}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Between Units of Capacity and Mass", summary:"Grade 6 Math strand: converting between units of capacity, such as millilitres and litres, and units of mass, such as grams and kilograms, requires multiplying or dividing by powers of ten, since the metric system is based on tens.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"How many millilitres are in 1 litre?", options:["10","1000","10000","100"], answer:1},
+     {q:"How many grams are in 1 kilogram?", options:["10","100","10000","1000"], answer:3},
+     {q:"To convert from litres to millilitres, do you multiply or divide?", options:["A concept unrelated to unit conversion","Divide","Neither multiply nor divide","Multiply"], answer:3},
+     {q:"If a bottle holds 2 litres of water, how many millilitres does it hold?", options:["2000 millilitres","20000 millilitres","20 millilitres","200 millilitres"], answer:0},
+     {q:"Why is it useful to be able to convert between units like grams and kilograms in everyday life, such as cooking?", options:["Recipes and packaging often use different units, so conversion helps measure ingredients accurately","Every recipe always uses the exact same unit of measurement","Unit conversion never applies to everyday tasks like cooking","This concept has no connection to math"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Camouflage and Mimicry as Survival Adaptations", summary:"Grade 6 Science strand: camouflage allows an animal to blend into its surroundings to avoid predators or sneak up on prey, while mimicry occurs when one species evolves to resemble another, often to gain protection.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does camouflage allow an animal to do?", options:["Blend into its surroundings","A concept unrelated to biology","Grow larger than its predators","Change its species completely"], answer:0},
+     {q:"What is mimicry?", options:["When an animal changes colour permanently","When a species disappears completely","A concept unrelated to survival adaptations","When one species evolves to resemble another"], answer:3},
+     {q:"Can camouflage help an animal avoid predators?", options:["Camouflage only helps an animal find food, never avoid danger","No, camouflage has no connection to avoiding predators","Yes","A concept unrelated to camouflage"], answer:2},
+     {q:"Why might a harmless insect evolve to resemble a dangerous or bad-tasting species?", options:["Mimicry always makes an animal more visible to predators","Predators may avoid it, mistaking it for the dangerous species it resembles","Resembling another species never provides any protection","This concept has no connection to biology"], answer:1},
+     {q:"Why are camouflage and mimicry considered examples of adaptations that develop over generations?", options:["These traits are gradually shaped by natural selection because they improve survival and reproduction","This concept has no relevance to science","Camouflage and mimicry never provide any survival advantage","These traits appear instantly in a single animal with no connection to generations"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s National Parks and Conservation History", summary:"Grade 6 Social Studies strand: Canada’s national parks system, including Banff, the first national park established in 1885, protects significant natural areas for conservation, recreation, and future generations to enjoy.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was Canada’s first national park, established in 1885?", options:["A concept unrelated to Canadian geography","Algonquin","Banff","Jasper"], answer:2},
+     {q:"What is one purpose of Canada’s national parks?", options:["Removing wildlife permanently","A concept unrelated to national parks","Conservation of significant natural areas","Only industrial development"], answer:2},
+     {q:"Are national parks intended to be protected for future generations?", options:["Yes","A concept unrelated to conservation","National parks are meant to be temporary only","No, national parks have no connection to future generations"], answer:0},
+     {q:"Why might governments choose to set aside land as a protected national park instead of allowing it to be developed?", options:["National parks are never connected to protecting the environment","Protecting the land can preserve unique ecosystems and natural beauty for the public to enjoy","Setting aside protected land never has any environmental benefit","This concept has no connection to social studies"], answer:1},
+     {q:"Why might a national park need rules limiting activities like hunting or building?", options:["Hunting and building never have any impact on a natural area","National parks never need any kind of rules","Rules can help protect wildlife and habitats from being damaged or disturbed","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:97, label:"Day 97 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Paraphrasing and Avoiding Plagiarism", summary:"Grade 6 Language strand: paraphrasing means restating information from a source in your own words while keeping the original meaning, and is an important skill for avoiding plagiarism, which is presenting someone else’s work as your own.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does paraphrasing mean?", options:["Restating information from a source in your own words","Deleting information from a source entirely","A concept unrelated to writing","Copying a source word for word with no changes"], answer:0},
+     {q:"What is plagiarism?", options:["Properly crediting a source for information used","Presenting someone else’s work as your own","A concept unrelated to writing","Summarizing a text in your own words with credit given"], answer:1},
+     {q:"Does paraphrasing require keeping the original meaning of the source?", options:["A concept unrelated to paraphrasing","Yes","Meaning is never important when paraphrasing","No, paraphrasing always changes the original meaning"], answer:1},
+     {q:"Why is paraphrasing considered an important skill for avoiding plagiarism?", options:["Paraphrasing never actually helps avoid plagiarism","This concept has no connection to writing","The only way to avoid plagiarism is to never use any outside sources","It allows a writer to use information from a source while expressing it in their own words"], answer:3},
+     {q:"Why should a writer still credit a source, even after paraphrasing its information?", options:["The ideas still originally came from another source and deserve proper credit","Paraphrased information never needs to be credited to anyone","Crediting a source is only necessary when copying it word for word","This concept has no relevance to writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Choosing the Best Graph to Display Data", summary:"Grade 6 Math strand: choosing an appropriate graph, such as a bar graph for comparing categories, a line graph for showing change over time, or a circle graph for showing parts of a whole, helps data be communicated clearly.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"Which type of graph is best for comparing categories, such as favourite fruits among students?", options:["A bar graph","A concept unrelated to graphs","No graph is ever useful for this purpose","A line graph"], answer:0},
+     {q:"Which type of graph is best for showing change over time, such as temperature across a week?", options:["No graph is ever useful for this purpose","A bar graph","A concept unrelated to graphs","A line graph"], answer:3},
+     {q:"Which type of graph is best for showing parts of a whole, such as percentages of a budget?", options:["A circle graph","A concept unrelated to graphs","No graph is ever useful for this purpose","A line graph"], answer:0},
+     {q:"Why might choosing the wrong type of graph make data harder to understand?", options:["Every type of graph works equally well for any kind of data","The type of graph chosen never affects how clearly data is understood","Some graphs are not designed to clearly show certain kinds of patterns or comparisons","This concept has no connection to data management"], answer:2},
+     {q:"Why is it important to think about your audience when choosing how to display data?", options:["This concept has no relevance to data management","Graphs are never meant to communicate information to an audience","The audience never affects which graph should be chosen","A well-chosen graph can make the data’s message clear and easy for the audience to interpret"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Igneous, Sedimentary, and Metamorphic Rocks", summary:"Grade 6 Science strand: rocks are classified into three types based on how they form: igneous rocks form from cooled magma or lava, sedimentary rocks form from compressed layers of sediment, and metamorphic rocks form when existing rock is changed by heat and pressure.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"How do igneous rocks form?", options:["From existing rock changed by heat and pressure","A concept unrelated to geology","From cooled magma or lava","From compressed layers of sediment"], answer:2},
+     {q:"How do sedimentary rocks form?", options:["From cooled magma or lava","A concept unrelated to geology","From existing rock changed by heat and pressure","From compressed layers of sediment"], answer:3},
+     {q:"How do metamorphic rocks form?", options:["From compressed layers of sediment","A concept unrelated to geology","From existing rock changed by heat and pressure","From cooled magma or lava"], answer:2},
+     {q:"Why might a sedimentary rock sometimes contain visible layers?", options:["This concept has no connection to geology","Layers only ever appear in igneous rocks","It forms as sediment is deposited and compressed over time, often in distinct layers","Sedimentary rocks never contain any layers"], answer:2},
+     {q:"Why do geologists study the type of rock found in a region?", options:["All rocks are identical no matter how or where they formed","This concept has no relevance to science","The type of rock found in a region never reveals any useful information","The rock type can reveal information about the area’s geological history and processes"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Spread of World Religions Through Trade and Migration", summary:"Grade 6 Social Studies strand: major world religions, such as Buddhism, Christianity, and Islam, spread to new regions over centuries through trade routes, migration, and cultural exchange, shaping societies far from where each religion began.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"Name one way that world religions have historically spread to new regions.", options:["Trade routes","Only through modern air travel","Religions have never spread anywhere","A concept unrelated to religious history"], answer:0},
+     {q:"Did trade routes play a role in spreading religions like Buddhism and Islam?", options:["No, trade routes never had any connection to religion","Religions have only ever spread within a single region","A concept unrelated to world religions","Yes"], answer:3},
+     {q:"Can migration contribute to the spread of a religion to a new area?", options:["No, migration never spreads religious beliefs","Yes","Religions can only be spread through conquest","A concept unrelated to migration"], answer:1},
+     {q:"Why might merchants travelling along trade routes have helped spread religious beliefs to new regions?", options:["As they traded goods, they also shared ideas, customs, and beliefs with the people they met","Trade routes were only ever used to transport food","Merchants only ever traded goods with no exchange of ideas","This concept has no connection to social studies"], answer:0},
+     {q:"Why is understanding the spread of world religions helpful for understanding global cultures today?", options:["This concept has no relevance to social studies","Religious beliefs never had any influence on culture","World religions have no connection to any modern society","Many modern societies were shaped by religious traditions that arrived through historical trade and migration"], answer:3}
+   ]},
+]},
+{day:98, label:"Day 98 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Myths and Legends Across Cultures", summary:"Grade 6 Language strand: myths are traditional stories, often involving gods or supernatural events, used to explain the natural world or cultural beliefs, while legends are stories based on real people or events that have grown to include exaggerated details.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a myth?", options:["A traditional story often involving gods or supernatural events","A factual news report","A concept unrelated to reading","A type of scientific textbook"], answer:0},
+     {q:"What is a legend?", options:["A type of grammar rule","A story based on real people or events that has grown to include exaggerated details","A story with absolutely no connection to real events","A concept unrelated to reading"], answer:1},
+     {q:"Are myths and legends found across many different cultures around the world?", options:["A concept unrelated to myths and legends","Yes","No, only one single culture has ever created any myths","Myths and legends only exist in modern stories"], answer:1},
+     {q:"Why might ancient cultures have used myths to explain natural events, like thunderstorms?", options:["Myths offered an understandable explanation for events that were not yet scientifically understood","Myths never attempted to explain any natural events","Ancient cultures never told any kind of story","This concept has no connection to reading comprehension"], answer:0},
+     {q:"Why might comparing myths and legends from different cultures reveal shared human values?", options:["This concept has no relevance to reading comprehension","Every culture’s stories are always completely unrelated in theme","Many cultures create stories that reflect similar hopes, fears, or lessons despite being separate from one another","Myths and legends from different cultures never share anything in common"], answer:2}
+   ]},
+  {subject:"Math", title:"Patterning and Algebra: Line Graphs and Analyzing Trends Over Time", summary:"Grade 6 Math strand: a line graph shows how a quantity changes over time, and analyzing its trend, whether it is increasing, decreasing, or staying steady, helps identify patterns in the data.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a line graph typically show?", options:["A concept unrelated to graphs","The colours of different categories","Only a single number with no time element","How a quantity changes over time"], answer:3},
+     {q:"If a line graph is sloping upward from left to right, what trend does this show?", options:["No trend at all","A concept unrelated to line graphs","An increasing trend","A decreasing trend"], answer:2},
+     {q:"If a line graph is sloping downward from left to right, what trend does this show?", options:["A decreasing trend","A concept unrelated to line graphs","No trend at all","An increasing trend"], answer:0},
+     {q:"If a line graph stays flat over a period of time, what does this suggest about the data?", options:["The quantity stayed roughly steady during that period","The quantity increased dramatically during that period","The quantity decreased dramatically during that period","A concept unrelated to line graphs"], answer:0},
+     {q:"Why might a scientist use a line graph to track data like daily temperature over a month?", options:["This concept has no connection to math","It makes it easy to visually identify trends and changes in the data over time","Line graphs never help identify any trends in data","Temperature data can never be tracked using a graph"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Wind Energy and Turbine Design", summary:"Grade 6 Science strand: wind turbines convert the kinetic energy of moving air into electricity, using blades shaped to spin efficiently and a generator that transforms this spinning motion into usable electrical power.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What do wind turbines convert into electricity?", options:["A concept unrelated to renewable energy","The heat energy of sunlight","The chemical energy of coal","The kinetic energy of moving air"], answer:3},
+     {q:"What part of a wind turbine transforms spinning motion into electrical power?", options:["The generator","The blades alone, with no other part needed","A concept unrelated to wind turbines","The tower foundation"], answer:0},
+     {q:"Are wind turbine blades specially shaped to help them spin efficiently?", options:["No, the shape of the blades has no effect on efficiency","Blades are always shaped like perfect squares","A concept unrelated to turbine design","Yes"], answer:3},
+     {q:"Why might wind turbines be placed in open areas with strong, consistent winds?", options:["Wind speed has no effect on how much electricity a turbine generates","Wind turbines work equally well in areas with no wind at all","This concept has no connection to renewable energy","Stronger and steadier wind allows turbines to generate more electricity efficiently"], answer:3},
+     {q:"Why is wind energy considered a renewable resource?", options:["Wind energy has no connection to renewable resources","Wind is naturally and continuously produced by weather patterns, so it does not run out","This concept has no relevance to science","Wind energy relies on a limited resource that will eventually run out"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of Non-Governmental Organizations in Global Aid", summary:"Grade 6 Social Studies strand: non-governmental organizations, or NGOs, are independent groups that work to provide aid, support development, or advocate for causes such as health, education, or human rights around the world.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What does NGO stand for?", options:["National Government Office","A concept unrelated to global aid","Non-governmental organization","New Global Organization"], answer:2},
+     {q:"Are NGOs typically run by governments or independent of them?", options:["Directly run by governments","NGOs do not exist anywhere","A concept unrelated to NGOs","Independent of governments"], answer:3},
+     {q:"Name one cause an NGO might work to support, such as health or education.", options:["Only sports competitions","Only entertainment","A concept unrelated to NGOs","Health"], answer:3},
+     {q:"Why might an NGO be able to respond quickly to a crisis, such as a natural disaster, in another country?", options:["This concept has no connection to social studies","Only national governments are ever allowed to help during a crisis","Many NGOs are organized specifically to mobilize resources and volunteers for urgent humanitarian needs","NGOs never respond to any kind of crisis"], answer:2},
+     {q:"Why might NGOs work alongside governments rather than replacing them entirely?", options:["This concept has no relevance to social studies","NGOs always operate completely independently with no cooperation from anyone","NGOs and governments never work together on anything","Governments and NGOs can each bring different resources and strengths to addressing a problem"], answer:3}
+   ]},
+]},
+{day:99, label:"Day 99 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Formal and Informal Register", summary:"Grade 6 Language strand: register refers to the level of formality in language, with formal register used in situations like essays or speeches to a large audience, and informal register used in casual conversations with friends.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does register refer to in language?", options:["The topic of a piece of writing","The level of formality in language","The number of words in a sentence","A concept unrelated to grammar"], answer:1},
+     {q:"Which register would most likely be used in a formal essay?", options:["A concept unrelated to register","Neither formal nor informal register","Formal register","Informal register"], answer:2},
+     {q:"Which register would most likely be used in a text message to a close friend?", options:["Neither formal nor informal register","Formal register","A concept unrelated to register","Informal register"], answer:3},
+     {q:"Which sentence uses a more formal register?", options:["Hey, can you fill me in on this?","What’s up with this thing?","Gimme the details, please.","I would like to request additional information regarding this matter."], answer:3},
+     {q:"Why is it important to choose the appropriate register for a given audience and purpose?", options:["Register never affects how a message is received by an audience","The same exact register should always be used in every situation","This concept has no connection to grammar","Using the right level of formality helps communicate effectively and appropriately for the situation"], answer:3}
+   ]},
+  {subject:"Math", title:"Patterning and Algebra: Representing Patterns with Tables, Graphs, and Expressions", summary:"Grade 6 Math strand: a pattern can be represented in multiple ways, using a table of values, a graph, or an algebraic expression, and being able to move between these representations builds a deeper understanding of the relationship.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"Name one way a pattern can be represented, besides a list of numbers.", options:["A grocery list","A dictionary definition","A table of values","A concept unrelated to patterning"], answer:2},
+     {q:"If a pattern increases by 3 each time starting at 2, what is the algebraic expression for the nth term, using n starting at 1?", options:["3n","n plus 3","3n plus 1","3n minus 1"], answer:3},
+     {q:"Using the expression 3n minus 1, what is the value of the pattern when n equals 4?", options:["12","11","13","9"], answer:1},
+     {q:"Why might representing a pattern as a graph be helpful, in addition to a table of values?", options:["A graph can visually show how quickly or in what way the pattern is changing","Graphs never provide any additional information about a pattern","This concept has no connection to math","A table and a graph always show completely different information"], answer:0},
+     {q:"Why is it useful to be able to write an algebraic expression for a pattern instead of only listing terms?", options:["An expression allows you to quickly calculate any term in the pattern without listing every value","Listing every term is always faster than using an expression","Algebraic expressions never help with finding pattern terms","This concept has no connection to patterning"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Biomimicry: Nature-Inspired Technology and Design", summary:"Grade 6 Science strand: biomimicry is the practice of studying nature’s designs, such as how a bird’s wing or a shark’s skin works, and applying those ideas to solve human engineering and design challenges.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is biomimicry?", options:["The practice of studying nature’s designs to solve human engineering challenges","A process of creating entirely artificial materials with no natural inspiration","A method of destroying natural habitats for research","A concept unrelated to science"], answer:0},
+     {q:"Name one natural feature that has inspired human technology, such as a bird’s wing.", options:["A brick wall","A bird’s wing","A plastic bottle","A concept unrelated to biomimicry"], answer:1},
+     {q:"Does biomimicry involve studying how living things solve problems in nature?", options:["A concept unrelated to biomimicry","Yes","No, biomimicry has no connection to living things","Biomimicry only studies non-living objects"], answer:1},
+     {q:"Why might engineers study how a shark’s skin reduces drag in water?", options:["A shark’s skin has no possible engineering application","This natural design could inspire more efficient materials for swimsuits or ship hulls","Sharks have no unique physical features worth studying","This concept has no connection to biomimicry"], answer:1},
+     {q:"Why might biomimicry be considered a valuable approach for solving modern design challenges?", options:["Nature has never developed any efficient solutions to any problem","Nature has developed efficient solutions to many problems over millions of years of evolution","This concept has no relevance to science","Human-made designs are always better than anything found in nature"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Role in International Development and Foreign Aid", summary:"Grade 6 Social Studies strand: Canada provides international development assistance and foreign aid to support other countries with challenges such as poverty, education, and health care, often working with international partners.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is one purpose of Canada’s international development assistance?", options:["To increase poverty in other countries","To support other countries facing challenges like poverty or health care needs","A concept unrelated to Canadian foreign policy","To prevent any country from receiving help"], answer:1},
+     {q:"Does Canada often work with international partners when providing foreign aid?", options:["Yes","No, Canada never works with any other countries or organizations","A concept unrelated to foreign aid","Canada only provides aid within its own borders"], answer:0},
+     {q:"Name one challenge that foreign aid might help address, such as poverty or education.", options:["Poverty","A concept unrelated to foreign aid","Space exploration","Weather patterns"], answer:0},
+     {q:"Why might Canada choose to provide foreign aid to countries facing a humanitarian crisis?", options:["Supporting other nations in times of need can save lives and reflects a commitment to global cooperation","This concept has no connection to social studies","Foreign aid never actually helps any country in need","Canada has no reason to ever help another country"], answer:0},
+     {q:"Why might critics debate how foreign aid should be spent or distributed?", options:["No one has ever debated how foreign aid should be used","Foreign aid is always spent in exactly the same way in every situation","This concept has no relevance to social studies","People may have different views on which approaches most effectively and fairly help those in need"], answer:3}
+   ]},
+]},
+{day:100, label:"Day 100 — Fri", subjects:[
+  {subject:"Language", title:"Review: Irony, Grammar, Speeches, and Media Literacy (Days 91-99)", summary:"Grade 6 Language strand review: students revisit irony, gerunds and infinitives, persuasive speeches, hyperbole and understatement, propaganda techniques, character motivation, paraphrasing, myths and legends, and formal versus informal register.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is irony?", options:["A concept unrelated to reading","A type of punctuation mark","A gap between what is expected and what actually happens","A synonym for a simile"], answer:2},
+     {q:"What is a gerund?", options:["A punctuation mark","A word that describes a noun","A concept unrelated to grammar","A verb form ending in -ing that acts as a noun"], answer:3},
+     {q:"What is the main goal of a persuasive speech?", options:["A concept unrelated to writing","To simply describe an event with no opinion","To convince a live audience to agree with a viewpoint or take action","To entertain an audience with no message at all"], answer:2},
+     {q:"What does paraphrasing mean?", options:["Copying a source word for word with no changes","A concept unrelated to writing","Deleting information from a source entirely","Restating information from a source in your own words"], answer:3},
+     {q:"What does register refer to in language?", options:["The level of formality in language","The number of words in a sentence","A concept unrelated to grammar","The topic of a piece of writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Review: Integers, Data, Geometry, and Patterning (Days 91-99)", summary:"Grade 6 Math strand review: students revisit adding and subtracting integers, box-and-whisker plots, congruent figures, sales tax, independent and dependent events, unit conversion, choosing graphs, line graphs, and representing patterns.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is negative 3 plus 5?", options:["-8","2","-2","8"], answer:1},
+     {q:"What does a box-and-whisker plot display?", options:["How data is spread out","A concept unrelated to data management","Nothing about a data set","Only the mean of a data set"], answer:0},
+     {q:"What does it mean for two figures to be congruent?", options:["They are exactly the same size and shape","A concept unrelated to geometry","They share only one matching side","They are the same shape but different sizes"], answer:0},
+     {q:"What is an independent event?", options:["A concept unrelated to probability","An event whose outcome does not affect another event","An event that never has any outcome","An event that always affects another event"], answer:1},
+     {q:"What does a line graph typically show?", options:["How a quantity changes over time","Only a single number with no time element","A concept unrelated to graphs","The colours of different categories"], answer:0}
+   ]},
+  {subject:"Science", title:"Review: Body Systems, Biomes, and Sustainability (Days 91-99)", summary:"Grade 6 Science strand review: students revisit the endocrine system, world biomes, extinction and endangered species, the excretory system, recycling, camouflage and mimicry, rock types, wind energy, and biomimicry.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does the endocrine system release into the body?", options:["A concept unrelated to the human body","Hormones","Only blood cells","Only oxygen"], answer:1},
+     {q:"What is a biome?", options:["A single type of rock","A large region with a distinct climate, plants, and animals","A single species of animal","A concept unrelated to Earth science"], answer:1},
+     {q:"What does extinction mean for a species?", options:["It has moved to a new habitat","It no longer exists anywhere on Earth","It has grown in population everywhere","A concept unrelated to biology"], answer:1},
+     {q:"What do wind turbines convert into electricity?", options:["The kinetic energy of moving air","The chemical energy of coal","A concept unrelated to renewable energy","The heat energy of sunlight"], answer:0},
+     {q:"What is biomimicry?", options:["A process of creating entirely artificial materials with no natural inspiration","A concept unrelated to science","The practice of studying nature’s designs to solve human engineering challenges","A method of destroying natural habitats for research"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Review: Canadian Government, Global Heritage, and International Cooperation (Days 91-99)", summary:"Grade 6 Social Studies strand review: students revisit the Truth and Reconciliation Commission, UNESCO World Heritage Sites, ancient Nubia, the Canadian Senate, global population growth, national parks, world religions, NGOs, and foreign aid.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did the Truth and Reconciliation Commission document?", options:["The founding of Canadian cities","A concept unrelated to Canadian history","The experiences of Indigenous survivors of residential schools","The history of Canadian sports"], answer:2},
+     {q:"What is a UNESCO World Heritage Site?", options:["A concept unrelated to global heritage","A place with no historical significance at all","A place recognized for outstanding cultural, historical, or natural significance","A type of modern shopping centre"], answer:2},
+     {q:"What is the Canadian Senate?", options:["The upper house of Parliament","A municipal council","A concept unrelated to government","A provincial court"], answer:0},
+     {q:"What was Canada’s first national park, established in 1885?", options:["Algonquin","Banff","A concept unrelated to Canadian geography","Jasper"], answer:1},
+     {q:"What does NGO stand for?", options:["Non-governmental organization","A concept unrelated to global aid","New Global Organization","National Government Office"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;

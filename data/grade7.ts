@@ -3549,6 +3549,386 @@ const curriculum: DayContent[] = [
      {q:"What is a credit union?", options:["A private company owned by a single wealthy investor","A government tax office","A cooperative financial institution owned by its members","A concept unrelated to finance"], answer:2}
    ]},
 ]},
+{day:91, label:"Day 91 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Appositives and Appositive Phrases", summary:"Grade 7 Language strand: an appositive is a noun or noun phrase placed beside another noun to rename or add detail about it, such as a golden retriever in My dog, a golden retriever, is friendly.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does an appositive do?", options:["Ends a sentence with a question mark","Renames or adds detail about a nearby noun","Turns a noun into a verb","A concept unrelated to grammar"], answer:1},
+     {q:"In the sentence My teacher, Ms. Chen, is very kind, what is the appositive?", options:["A concept unrelated to appositives","My teacher","Ms. Chen","Is very kind"], answer:2},
+     {q:"Is an appositive that is not essential to a sentence’s meaning usually set off by commas?", options:["A concept unrelated to appositives","Yes","Commas are only ever used at the end of a sentence","No, appositives are never set off by commas"], answer:1},
+     {q:"Which sentence correctly uses an appositive?", options:["My friend Maria, a talented artist, painted the mural.","My friend a talented artist Maria painted the mural.","Painted a talented the mural artist Maria friend my.","My a talented friend artist painted Maria the mural."], answer:0},
+     {q:"Why might a writer use an appositive instead of writing a separate sentence to explain a noun?", options:["This concept has no connection to grammar","Separate sentences are always clearer than an appositive","Appositives always make writing longer and less clear","It can add detail more smoothly without breaking the flow of the sentence"], answer:3}
+   ]},
+  {subject:"Math", title:"Solving Systems of Equations by Elimination", summary:"Grade 7 Math strand: the elimination method solves a system of two equations by adding or subtracting the equations to cancel out one variable, making it possible to solve for the other.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"In the elimination method, what is added or subtracted to cancel out a variable?", options:["A concept unrelated to systems of equations","The two equations in the system","Only the variables, never the equations","A single number chosen at random"], answer:1},
+     {q:"If you add x plus y equals 10 and x minus y equals 4, what do you get after the y terms cancel?", options:["2x equals 6","2y equals 14","2x equals 14","x equals 4"], answer:2},
+     {q:"Before adding or subtracting two equations, might you need to multiply one equation to match coefficients?", options:["Multiplying equations is never allowed in algebra","Yes","No, equations can never be multiplied in elimination","A concept unrelated to elimination"], answer:1},
+     {q:"Why might elimination be a useful method for solving a system of equations?", options:["Elimination only works when equations have no variables at all","It can remove one variable entirely, leaving a simpler equation to solve","This concept has no connection to algebra","Elimination never simplifies a system of equations"], answer:1},
+     {q:"If 2x plus y equals 12 and y equals 2, what is the value of x?", options:["12","2","5","10"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Series and Parallel Circuits", summary:"Grade 7 Science strand: in a series circuit, components are connected along a single path so current flows through each one in turn, while in a parallel circuit, components are connected along separate branches.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"In a series circuit, how are components connected?", options:["They are not connected at all","A concept unrelated to circuits","Along a single path","Along many separate branches"], answer:2},
+     {q:"In a parallel circuit, how are components connected?", options:["They are never connected to a power source","Along a single path only","Along separate branches","A concept unrelated to circuits"], answer:2},
+     {q:"If one bulb burns out in a series circuit, do the other bulbs typically stop working too?", options:["A concept unrelated to circuits","Yes","The other bulbs always get brighter instead","No, the other bulbs are never affected"], answer:1},
+     {q:"Why might a parallel circuit be useful in a house, where you want lights to work independently?", options:["Each branch can operate even if another branch stops working","Parallel circuits never allow more than one device to be connected","Parallel circuits always stop working completely if one bulb burns out","This concept has no connection to circuits"], answer:0},
+     {q:"Why is understanding the difference between series and parallel circuits useful for designing electrical systems?", options:["The difference between the two circuit types never matters in design","It helps engineers choose the right circuit type for how a device should behave","Series and parallel circuits always behave in exactly the same way","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Klondike Gold Rush", summary:"Grade 7 Social Studies strand: the Klondike Gold Rush of the late 1890s drew thousands of prospectors to the Yukon in search of gold, dramatically shaping the region’s population and economy.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What did the Klondike Gold Rush draw thousands of people to the Yukon in search of?", options:["A concept unrelated to Canadian history","Farmland","Gold","Oil"], answer:2},
+     {q:"Around what decade did the Klondike Gold Rush take place?", options:["A concept unrelated to the Klondike Gold Rush","The 1600s","The 2000s","The 1890s"], answer:3},
+     {q:"Did the Klondike Gold Rush significantly increase the population of the Yukon?", options:["A concept unrelated to the Klondike Gold Rush","Yes","No, the population of the Yukon never changed","The Yukon lost all of its population during this time"], answer:1},
+     {q:"Why might towns like Dawson City have grown rapidly during the Klondike Gold Rush?", options:["Dawson City existed long before any gold was discovered","No towns ever grew during the Klondike Gold Rush","Prospectors and businesses moved in quickly to support the sudden rush for gold","This concept has no connection to Canadian history"], answer:2},
+     {q:"Why might the journey to the Klondike gold fields have been extremely difficult for prospectors?", options:["Prospectors often had to travel through harsh, remote terrain with limited supplies","This concept has no relevance to social studies","The journey to the Klondike was always simple and required no supplies","The gold fields were located in an easily accessible city centre"], answer:0}
+   ]},
+]},
+{day:92, label:"Day 92 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Idioms and Their Origins", summary:"Grade 7 Language strand: an idiom is a phrase whose meaning cannot be understood from the literal meaning of its individual words, such as break the ice, and many idioms have interesting historical origins.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is an idiom?", options:["A phrase that always means exactly what it literally says","A concept unrelated to vocabulary","A word that is spelled exactly as it sounds","A phrase whose meaning cannot be understood from its individual words"], answer:3},
+     {q:"What does the idiom break the ice typically mean?", options:["A concept unrelated to idioms","To end a friendship suddenly","To ease tension and start a conversation","To literally break a piece of ice"], answer:2},
+     {q:"Do many idioms have interesting historical origins?", options:["Idioms are only ever invented within the last year","Yes","No, idioms never have any historical origin","A concept unrelated to idioms"], answer:1},
+     {q:"Why might understanding idioms be especially challenging for someone learning a new language?", options:["The literal words often do not match the phrase’s actual meaning","Every language uses the exact same idioms","This concept has no connection to vocabulary","Idioms always mean exactly what their individual words say"], answer:0},
+     {q:"Why might a writer use an idiom instead of a plain, literal description?", options:["Idioms are never used in everyday conversation","An idiom can add colour and familiarity to everyday language","Idioms always make writing harder to understand for everyone","This concept has no connection to vocabulary"], answer:1}
+   ]},
+  {subject:"Math", title:"Factoring Polynomials Using the GCF", summary:"Grade 7 Math strand: factoring a polynomial using the greatest common factor means finding the largest expression that divides evenly into every term, then writing the polynomial as that factor times what remains.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does factoring a polynomial using the GCF involve finding?", options:["The smallest possible number in the polynomial","A random number with no connection to the terms","The largest expression that divides evenly into every term","A concept unrelated to factoring"], answer:2},
+     {q:"What is the GCF of the terms in 6x plus 9?", options:["6","2","3","9"], answer:2},
+     {q:"After factoring 6x plus 9 using its GCF, what expression do you get?", options:["6 times (x plus 9)","3 times (2x plus 9)","9 times (6x plus 1)","3 times (2x plus 3)"], answer:3},
+     {q:"Why is factoring out the GCF often the first step when simplifying a polynomial expression?", options:["This concept has no connection to algebra","It can make the expression simpler and easier to work with in later steps","Factoring out the GCF never simplifies an expression","The GCF should always be factored out last, never first"], answer:1},
+     {q:"What is the GCF of the terms in 4x squared plus 8x?", options:["4x","8x","x","4"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Meiosis and Genetic Diversity", summary:"Grade 7 Science strand: meiosis is a type of cell division that produces reproductive cells with half the usual number of chromosomes, increasing genetic diversity among offspring.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does meiosis produce?", options:["Cells that are identical in every possible way","Reproductive cells with half the usual number of chromosomes","Cells with double the usual number of chromosomes","A concept unrelated to biology"], answer:1},
+     {q:"Does meiosis increase genetic diversity among offspring?", options:["Yes","A concept unrelated to meiosis","Meiosis makes every offspring genetically identical","No, meiosis has no connection to genetic diversity"], answer:0},
+     {q:"Is meiosis a type of cell division?", options:["No, meiosis is not connected to cell division","Meiosis only happens in plants, never in animals","A concept unrelated to meiosis","Yes"], answer:3},
+     {q:"Why might genetic diversity produced by meiosis be important for a species’ survival?", options:["Every member of a species should have identical genes to survive","Genetic diversity has no effect on a species’ ability to survive","This concept has no connection to biology","Greater variation can help a population adapt to changing conditions over time"], answer:3},
+     {q:"Why do reproductive cells need half the usual number of chromosomes before fertilization occurs?", options:["So that when two reproductive cells combine, the offspring has the normal full number of chromosomes","Reproductive cells never actually combine with each other","Offspring always end up with far too many chromosomes","This concept has no relevance to science"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Sixties Scoop", summary:"Grade 7 Social Studies strand: the Sixties Scoop refers to a period from the 1960s through the 1980s when many Indigenous children in Canada were removed from their families and placed with non-Indigenous foster or adoptive families.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What does the term Sixties Scoop refer to?", options:["A period when many Indigenous children were removed from their families and placed with non-Indigenous families","A concept unrelated to Canadian history","A sports competition held in the 1960s","A type of government tax program"], answer:0},
+     {q:"Did the Sixties Scoop mainly affect Indigenous children in Canada?", options:["A concept unrelated to the Sixties Scoop","It affected only adult members of the government","No, it had no connection to Indigenous communities","Yes"], answer:3},
+     {q:"Did the Sixties Scoop continue beyond the 1960s, into later decades?", options:["A concept unrelated to the Sixties Scoop","No, it lasted for only a single year","It ended before the 1960s even began","Yes"], answer:3},
+     {q:"Why is the Sixties Scoop considered a significant and painful part of Canadian history?", options:["It had no lasting impact on any families or communities","This concept has no relevance to social studies","It separated many Indigenous children from their families, culture, and communities","Every child involved remained closely connected to their birth family"], answer:2},
+     {q:"Why might learning about the Sixties Scoop be important for understanding reconciliation efforts in Canada today?", options:["Reconciliation efforts have no connection to Indigenous history at all","It helps explain some of the historical harms that reconciliation efforts aim to address","The Sixties Scoop has no connection to reconciliation efforts","This concept has no relevance to Canadian history"], answer:1}
+   ]},
+]},
+{day:93, label:"Day 93 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Epistolary Structure in Literature", summary:"Grade 7 Language strand: an epistolary text tells its story through a series of documents, such as letters, diary entries, or emails, offering readers a personal, first-hand view of events.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is an epistolary text?", options:["A text with no characters at all","A text written entirely in rhyme","A concept unrelated to reading","A text that tells its story through documents like letters or diary entries"], answer:3},
+     {q:"Can diary entries be used to tell a story in an epistolary text?", options:["Diary entries are only ever used in nonfiction","No, diary entries can never be used in a story","Yes","A concept unrelated to epistolary structure"], answer:2},
+     {q:"Does an epistolary structure often give readers a personal, first-hand view of events?", options:["Epistolary texts always describe events from a distant, impersonal view","A concept unrelated to epistolary structure","Yes","No, epistolary texts never offer a personal view"], answer:2},
+     {q:"Why might an author choose to tell a story through letters instead of traditional narration?", options:["Letters never add any personal connection to a story","It can create an intimate, personal connection between the reader and the character’s voice","Traditional narration is always more personal than letters","This concept has no connection to literature"], answer:1},
+     {q:"Why might reading multiple characters’ letters in an epistolary novel reveal different perspectives on the same event?", options:["Every letter in an epistolary novel always describes the exact same perspective","Epistolary novels never include more than one character’s writing","This concept has no relevance to reading comprehension","Each letter reflects the personal viewpoint and knowledge of the person writing it"], answer:3}
+   ]},
+  {subject:"Math", title:"Scale Factor and Similar Figures: Area and Volume Ratios", summary:"Grade 7 Math strand: when two figures are similar with a given scale factor, their areas are related by the square of the scale factor, and the volumes of similar solids are related by the cube of the scale factor.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"If two similar figures have a scale factor of 2, by what factor are their areas related?", options:["8, the cube of 2","2, the same as the scale factor","4, the square of 2","6, double the scale factor"], answer:2},
+     {q:"If two similar solids have a scale factor of 3, by what factor are their volumes related?", options:["6, double the scale factor","9, the square of 3","3, the same as the scale factor","27, the cube of 3"], answer:3},
+     {q:"Are the areas of similar figures related by the square of the scale factor?", options:["Areas are always identical no matter the scale factor","A concept unrelated to similar figures","No, areas are never related to the scale factor","Yes"], answer:3},
+     {q:"Why might doubling the side lengths of a cube more than double its volume?", options:["Volume only ever depends on a single dimension","Volume never changes no matter how the side lengths change","Volume depends on three dimensions, so scaling affects it by the cube of the scale factor","This concept has no connection to geometry"], answer:2},
+     {q:"If a small similar figure has an area of 5 square cm and the scale factor to a larger figure is 2, what is the larger figure’s area?", options:["20 square cm","25 square cm","5 square cm","10 square cm"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Chemical Bonding: Ionic and Covalent Bonds", summary:"Grade 7 Science strand: atoms form chemical bonds by either transferring electrons to form ionic bonds or sharing electrons to form covalent bonds, allowing them to combine into stable compounds.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What happens during the formation of an ionic bond?", options:["Electrons are transferred between atoms","Atoms never interact with each other at all","Protons are transferred between atoms","A concept unrelated to chemistry"], answer:0},
+     {q:"What happens during the formation of a covalent bond?", options:["A concept unrelated to chemical bonding","Neutrons are shared between atoms","Electrons are shared between atoms","Electrons are always transferred completely"], answer:2},
+     {q:"Do atoms form chemical bonds to become more stable compounds?", options:["A concept unrelated to chemical bonding","Atoms never combine to form compounds","No, chemical bonds never lead to stability","Yes"], answer:3},
+     {q:"Why might table salt, formed from sodium and chlorine, be an example of an ionic bond?", options:["Sodium transfers an electron to chlorine, creating oppositely charged ions that attract each other","Table salt is formed without any exchange of electrons","This concept has no connection to chemistry","Sodium and chlorine never interact with each other in any way"], answer:0},
+     {q:"Why is understanding chemical bonding useful for predicting how substances will behave?", options:["This concept has no relevance to science","All chemical bonds produce compounds with identical properties","The type of bond can affect a substance’s properties, like melting point or conductivity","Chemical bonding never affects the properties of a substance"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Statute of Westminster and Canadian Independence", summary:"Grade 7 Social Studies strand: the Statute of Westminster of 1931 granted Canada and other British Dominions greater legislative independence from Britain, marking an important step toward full Canadian sovereignty.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What did the Statute of Westminster grant to Canada and other British Dominions?", options:["Greater legislative independence from Britain","A concept unrelated to Canadian history","Complete control over the British monarchy","A new national flag"], answer:0},
+     {q:"In what year was the Statute of Westminster passed?", options:["1867","1931","1982","1756"], answer:1},
+     {q:"Did the Statute of Westminster mark an important step toward full Canadian sovereignty?", options:["Yes","A concept unrelated to the Statute of Westminster","No, it had no connection to Canadian sovereignty","It reduced Canada’s independence instead of increasing it"], answer:0},
+     {q:"Why might the Statute of Westminster be considered a significant milestone in Canadian history?", options:["This concept has no relevance to social studies","It allowed Canada to pass its own laws without needing approval from Britain","Canada gained no legislative powers of any kind from this statute","It had no effect on how Canada could pass its own laws"], answer:1},
+     {q:"Why might full legislative independence have taken Canada many decades to fully achieve after 1931?", options:["Some aspects of Canada’s constitution still required action by the British Parliament until later reforms","This concept has no connection to Canadian history","Britain never had any remaining role in Canadian law after 1931","Canada achieved complete independence in every respect immediately in 1931"], answer:0}
+   ]},
+]},
+{day:94, label:"Day 94 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Resume and Cover Letter", summary:"Grade 7 Language strand: a resume summarizes a person’s skills, education, and experience, while a cover letter introduces the applicant and explains why they are a strong fit for a specific opportunity.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does a resume summarize?", options:["A person’s favourite movies","A concept unrelated to writing","A weather forecast for the week","A person’s skills, education, and experience"], answer:3},
+     {q:"What does a cover letter typically explain?", options:["A recipe for a meal","A concept unrelated to writing","The plot of a novel","Why the applicant is a strong fit for a specific opportunity"], answer:3},
+     {q:"Should a resume typically be organized and easy to skim quickly?", options:["Yes","A concept unrelated to resumes","Resumes are always written as a single unbroken paragraph","No, a resume should never be organized"], answer:0},
+     {q:"Why might a cover letter be tailored to a specific job or opportunity rather than written generically?", options:["This concept has no connection to writing","A tailored letter can show the reader exactly how the applicant’s skills match their specific needs","Cover letters should never mention a specific job or opportunity","A generic cover letter is always more effective than a tailored one"], answer:1},
+     {q:"Which of these is most likely a sentence from a cover letter?", options:["The chemical symbol for oxygen is O.","Once upon a time, in a faraway kingdom.","I am confident my experience organizing school events makes me a strong fit for this role.","Add 5 and 9 to get 14."], answer:2}
+   ]},
+  {subject:"Math", title:"Probability: Odds vs Probability", summary:"Grade 7 Math strand: probability compares the number of favourable outcomes to all possible outcomes, while odds compare the number of favourable outcomes to unfavourable outcomes, a related but different ratio.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does probability compare?", options:["Favourable outcomes to unfavourable outcomes only","Favourable outcomes to all possible outcomes","A concept unrelated to probability","Two completely unrelated numbers"], answer:1},
+     {q:"What do odds compare?", options:["Favourable outcomes to unfavourable outcomes","The total number of trials only","A concept unrelated to odds","Favourable outcomes to all possible outcomes"], answer:0},
+     {q:"If a bag has 3 red marbles and 7 total marbles, what is the probability of drawing a red marble?", options:["3 out of 7","4 out of 7","3 out of 4","7 out of 3"], answer:0},
+     {q:"Using the same bag of 3 red marbles and 7 total marbles, what are the odds of drawing a red marble, comparing red to non-red?", options:["4 to 3","3 to 4","7 to 3","3 to 7"], answer:1},
+     {q:"Why is it important to know whether a stated ratio represents probability or odds?", options:["Odds and probability never appear in real-world situations","Probability and odds are always calculated in exactly the same way","This concept has no connection to math","They are calculated differently and can be easily confused if not clearly understood"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Osmosis and Diffusion in Cells", summary:"Grade 7 Science strand: diffusion is the movement of particles from an area of high concentration to low concentration, while osmosis is the diffusion of water specifically across a cell membrane.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is diffusion?", options:["The movement of particles from high to low concentration","The movement of particles from low to high concentration only","A concept unrelated to biology","A process where particles never move at all"], answer:0},
+     {q:"What is osmosis specifically the diffusion of?", options:["Solid particles across a wall","Water across a cell membrane","A concept unrelated to osmosis","Electricity across a wire"], answer:1},
+     {q:"Does diffusion generally continue until particles are evenly spread out?", options:["No, diffusion never leads to an even spread of particles","Yes","A concept unrelated to diffusion","Particles always stay clustered in one small area forever"], answer:1},
+     {q:"Why might a plant cell placed in very salty water lose water through osmosis?", options:["Salty water always causes a cell to gain water instead of losing it","Water tends to move toward the area with a higher concentration of dissolved particles, like salt","This concept has no connection to biology","Water never moves in or out of a plant cell"], answer:1},
+     {q:"Why is understanding osmosis important for understanding how cells stay healthy?", options:["Cells never need to regulate the water inside or around them","This concept has no relevance to science","Water movement has no effect on how a cell functions","Cells rely on a balanced movement of water to maintain their proper shape and function"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Komagata Maru Incident", summary:"Grade 7 Social Studies strand: in 1914, the ship Komagata Maru carrying South Asian immigrants was turned away from Vancouver due to discriminatory immigration laws, an event that reflects a difficult period in Canadian immigration history.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Komagata Maru?", options:["A concept unrelated to Canadian history","A type of Canadian currency","A famous Canadian railway line","A ship carrying South Asian immigrants turned away from Vancouver in 1914"], answer:3},
+     {q:"In what year did the Komagata Maru incident occur?", options:["1756","1867","1914","1982"], answer:2},
+     {q:"Was the Komagata Maru turned away from Canada due to discriminatory immigration laws?", options:["No, the ship was welcomed without any restrictions","A concept unrelated to the Komagata Maru","Yes","Immigration laws had no connection to this event"], answer:2},
+     {q:"Why is the Komagata Maru incident considered an important part of Canadian immigration history?", options:["This event had no connection to immigration policy at all","It highlights a period when discriminatory laws limited immigration based on national origin","The event shows that all immigrants were always welcomed equally at that time","This concept has no relevance to social studies"], answer:1},
+     {q:"Why might learning about events like the Komagata Maru incident be valuable for understanding Canada’s history of immigration policy?", options:["Canadian immigration policy has never changed throughout history","This event has no connection to any later immigration policies","It shows how immigration laws have changed and helps explain ongoing efforts toward fairness today","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:95, label:"Day 95 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Infographics and Data Visualization", summary:"Grade 7 Language strand: an infographic combines images, charts, and brief text to present information visually, and analyzing one involves evaluating whether its design accurately and clearly represents the data.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does an infographic combine to present information?", options:["Images, charts, and brief text","Only long paragraphs of text","Only numbers with no visuals at all","A concept unrelated to media literacy"], answer:0},
+     {q:"Is evaluating whether a chart accurately represents data an important part of analyzing an infographic?", options:["No, accuracy never matters when analyzing an infographic","Infographics are never based on any real data","A concept unrelated to infographics","Yes"], answer:3},
+     {q:"Can a poorly designed chart mislead readers, even if the underlying data is accurate?", options:["A concept unrelated to data visualization","No, chart design never affects how readers interpret data","Yes","Every chart design always represents data with perfect clarity"], answer:2},
+     {q:"Why might a designer choose to use a bar graph instead of a large block of text to present statistics?", options:["Infographics are never used to communicate statistics","This concept has no connection to media literacy","A visual format can often make complex information easier and quicker to understand","Visual formats always make information harder to understand"], answer:2},
+     {q:"Why is it important for readers to think critically about the source of an infographic before trusting its claims?", options:["The source of an infographic never affects how trustworthy it is","This concept has no relevance to media literacy","Infographics are always completely free of any bias","The creator’s purpose or bias could affect how the data is selected or presented"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Two-Way Frequency Tables", summary:"Grade 7 Math strand: a two-way frequency table organizes data about two categorical variables at once, showing how the categories relate to each other in a grid of rows and columns.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a two-way frequency table organize data about?", options:["Only a single variable","Two categorical variables at once","A concept unrelated to data","No variables at all"], answer:1},
+     {q:"Is a two-way frequency table typically organized into rows and columns?", options:["A concept unrelated to frequency tables","No, it is never organized into rows and columns","It only ever has a single row with no columns","Yes"], answer:3},
+     {q:"If a two-way table shows favourite sport by grade level, what two categorical variables does it compare?", options:["Favourite sport and grade level","Only grade level, with no other variable","Only favourite sport, with no other variable","A concept unrelated to two-way tables"], answer:0},
+     {q:"Why might a two-way frequency table be useful for spotting a relationship between two variables?", options:["A two-way table can only ever show a single variable at a time","Two-way tables never reveal any relationship between variables","It organizes the data so patterns between the two categories become easier to see","This concept has no connection to data analysis"], answer:2},
+     {q:"If a two-way table shows that 15 students who play soccer also play basketball, where would that number appear?", options:["A concept unrelated to two-way tables","In the cell where the soccer row and basketball column intersect","Outside of the table entirely","Only in the table’s title"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Camouflage and Animal Defense Mechanisms", summary:"Grade 7 Science strand: camouflage is an adaptation that helps an organism blend into its surroundings, one of many defense mechanisms, such as mimicry or warning colouration, that help animals avoid predators.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is camouflage?", options:["A behaviour that makes an animal easier to spot","An adaptation that helps an organism blend into its surroundings","A loud sound an animal makes to attract predators","A concept unrelated to biology"], answer:1},
+     {q:"Name one other type of animal defense mechanism besides camouflage, such as mimicry.", options:["Mimicry","Loud colours meant to attract every predator","Standing perfectly still in bright open spaces","A concept unrelated to defense mechanisms"], answer:0},
+     {q:"Can warning colouration help signal to predators that an animal might be dangerous or unpleasant to eat?", options:["Yes","No, warning colouration never signals anything to predators","Warning colouration always attracts predators instead of warning them","A concept unrelated to warning colouration"], answer:0},
+     {q:"Why might a harmless species evolve to look similar to a dangerous species, a strategy called mimicry?", options:["This concept has no connection to biology","Predators may avoid the harmless species if it resembles something dangerous","Mimicry never provides any benefit to a harmless species","Predators are never fooled by an animal’s appearance"], answer:1},
+     {q:"Why is camouflage considered an evolutionary advantage for many prey species?", options:["This concept has no relevance to science","Camouflage never helps a prey species avoid being caught","Blending into the environment can make it harder for predators to spot and catch them","Predators can always see camouflaged animals with no difficulty"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Involvement in the Afghanistan War", summary:"Grade 7 Social Studies strand: Canada took part in the international military and humanitarian mission in Afghanistan following the events of September 11, 2001, marking one of its longest overseas military engagements.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Following what major event did Canada take part in the international mission in Afghanistan?", options:["A concept unrelated to Canadian history","The Berlin Airlift","The Suez Crisis","The events of September 11, 2001"], answer:3},
+     {q:"Was Canada’s mission in Afghanistan one of its longest overseas military engagements?", options:["A concept unrelated to the Afghanistan War","No, Canada was never involved in Afghanistan","The mission lasted only a single day","Yes"], answer:3},
+     {q:"Did Canada’s involvement in Afghanistan include both military and humanitarian efforts?", options:["A concept unrelated to Canada’s Afghanistan mission","No, Canada’s role was never connected to humanitarian efforts","Yes","Canada’s role was purely economic, with no military component"], answer:2},
+     {q:"Why might Canada’s long engagement in Afghanistan be considered a significant topic in recent Canadian history?", options:["It involved major commitments of Canadian troops, resources, and public debate over the mission’s goals","Canada never sent any troops or resources to Afghanistan","This mission had no lasting significance in Canadian history","This concept has no relevance to social studies"], answer:0},
+     {q:"Why might historians study the effects of Canada’s Afghanistan mission on both Afghanistan and Canada?", options:["This concept has no relevance to social studies","Long military missions never have any lasting effects on either country","The effects of this mission are considered completely unimportant to study","Understanding a mission’s long-term effects can inform future decisions about international engagement"], answer:3}
+   ]},
+]},
+{day:96, label:"Day 96 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Correlative Conjunctions", summary:"Grade 7 Language strand: correlative conjunctions are pairs of words that work together to connect equal parts of a sentence, such as either/or, neither/nor, and both/and.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What are correlative conjunctions?", options:["A concept unrelated to grammar","Pairs of words that work together to connect equal parts of a sentence","A punctuation mark used only in questions","A single word used to end a sentence"], answer:1},
+     {q:"Which of these is an example of a correlative conjunction pair?", options:["Either/or","A concept unrelated to correlative conjunctions","Run/jump","Quickly/slowly"], answer:0},
+     {q:"Does the pair neither/nor function as a correlative conjunction?", options:["Yes","No, neither/nor is never used as a correlative conjunction","Neither/nor can only be used at the start of a paragraph","A concept unrelated to correlative conjunctions"], answer:0},
+     {q:"Which sentence correctly uses a correlative conjunction pair?", options:["Both she a sandwich and salad wants lunch for.","She wants both a sandwich a salad for lunch.","She wants a sandwich both and a salad lunch for.","She wants both a sandwich and a salad for lunch."], answer:3},
+     {q:"Why is it important to keep the two parts of a sentence grammatically parallel when using correlative conjunctions?", options:["It keeps the sentence clear and balanced, avoiding confusing or awkward phrasing","Parallel structure never matters when using correlative conjunctions","This concept has no connection to grammar","Correlative conjunctions should always connect unequal or mismatched parts"], answer:0}
+   ]},
+  {subject:"Math", title:"Negative Exponents and Their Meaning", summary:"Grade 7 Math strand: a negative exponent indicates the reciprocal of the base raised to the positive version of that exponent, such as 2 to the power of negative 2 being equal to 1 over 2 squared.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a negative exponent indicate?", options:["A concept unrelated to exponents","The base multiplied by negative one","The reciprocal of the base raised to the positive version of that exponent","A number that must always equal zero"], answer:2},
+     {q:"What is 2 to the power of negative 2 equal to?", options:["1 over 4","4","1 over 2","-4"], answer:0},
+     {q:"What is 5 to the power of negative 1 equal to?", options:["-5","1 over 25","1 over 5","5"], answer:2},
+     {q:"Why might a negative exponent be useful for expressing very small numbers, such as in scientific notation?", options:["It allows small values to be written in a compact form based on powers of ten","Negative exponents always represent extremely large numbers instead","Negative exponents are never used in scientific notation","This concept has no connection to math"], answer:0},
+     {q:"What is 10 to the power of negative 3 equal to?", options:["1 over 100","-1000","1 over 1000","1000"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Tidal and Geothermal Energy", summary:"Grade 7 Science strand: tidal energy harnesses the movement of ocean tides to generate electricity, while geothermal energy uses heat from deep within the Earth, both offering renewable alternatives to fossil fuels.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does tidal energy harness to generate electricity?", options:["The movement of ocean tides","The heat from deep within the Earth","The light from the Sun","A concept unrelated to renewable energy"], answer:0},
+     {q:"What does geothermal energy use to generate power?", options:["The movement of ocean tides","A concept unrelated to geothermal energy","Heat from deep within the Earth","Wind blowing across open land"], answer:2},
+     {q:"Are both tidal and geothermal energy considered renewable alternatives to fossil fuels?", options:["No, neither is considered renewable","Both rely entirely on burning coal","A concept unrelated to renewable energy","Yes"], answer:3},
+     {q:"Why might a coastal region be well suited to generating tidal energy?", options:["Tidal energy can only be generated in landlocked regions","Coastal areas experience the regular rise and fall of ocean tides needed to generate power","This concept has no connection to renewable energy","Tides never occur near coastal regions"], answer:1},
+     {q:"Why might geothermal energy provide a more constant power supply than solar or wind energy?", options:["Geothermal energy is only available during daylight hours","Heat from within the Earth is available continuously, regardless of weather or time of day","This concept has no relevance to science","Geothermal energy depends entirely on wind conditions"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The 1995 Quebec Referendum", summary:"Grade 7 Social Studies strand: the 1995 Quebec Referendum asked Quebec voters whether the province should pursue sovereignty from Canada, resulting in a very close vote to remain part of the country.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What did the 1995 Quebec Referendum ask voters to decide?", options:["A concept unrelated to Canadian history","Whether to build a new highway system","Whether to change the national anthem","Whether Quebec should pursue sovereignty from Canada"], answer:3},
+     {q:"In what year did this referendum take place?", options:["1867","1995","1931","1756"], answer:1},
+     {q:"Was the result of the 1995 Quebec Referendum a very close vote to remain part of Canada?", options:["No, the vote was not close at all","The vote resulted in Quebec immediately leaving Canada","Yes","A concept unrelated to the referendum"], answer:2},
+     {q:"Why might the 1995 Quebec Referendum be considered a significant moment in Canadian history?", options:["The referendum had no impact on discussions about Canadian unity","This concept has no relevance to social studies","The referendum result was never close or significant in any way","It highlighted deep questions about national unity and Quebec’s place within Canada"], answer:3},
+     {q:"Why might the close result of the referendum have led to continued discussions about Quebec’s role in Confederation?", options:["A close result always ends any further discussion on an issue","This concept has no connection to social studies","A narrow outcome suggested many voters remained divided on the question of sovereignty","The referendum result was unanimous, with no division among voters"], answer:2}
+   ]},
+]},
+{day:97, label:"Day 97 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Subtext in Dialogue", summary:"Grade 7 Language strand: subtext is the underlying meaning beneath a character’s spoken words, often revealing true feelings or intentions that differ from what is literally being said.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is subtext?", options:["The exact literal meaning of every word spoken","A footnote added to explain a difficult word","The underlying meaning beneath a character’s spoken words","A concept unrelated to reading"], answer:2},
+     {q:"Can subtext reveal feelings that differ from what a character literally says?", options:["Yes","A concept unrelated to subtext","Characters always say exactly what they truly feel","No, subtext never reveals any hidden feelings"], answer:0},
+     {q:"If a character says I am fine through gritted teeth while clearly upset, is this an example of subtext?", options:["A concept unrelated to reading","No, this is not an example of subtext","Subtext never appears in dialogue like this","Yes"], answer:3},
+     {q:"Why might an author use subtext instead of having a character state their feelings directly?", options:["Characters should always state their feelings directly and plainly","Subtext never adds any realism to a story","It can create a more realistic, nuanced portrayal of how people actually communicate","This concept has no connection to literature"], answer:2},
+     {q:"Why is paying attention to subtext an important reading skill when analyzing a story’s characters?", options:["This concept has no relevance to reading comprehension","It can help readers understand a character’s true motivations beyond their literal words","A character’s literal words always reveal their complete truth","Subtext has no connection to understanding a character’s motivations"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Taxes and Payroll Deductions", summary:"Grade 7 Math strand: payroll deductions are amounts subtracted from an employee’s gross pay, such as income tax, that result in the smaller net pay amount the employee actually receives.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What are payroll deductions?", options:["Extra bonus money added to a paycheque","Amounts subtracted from an employee’s gross pay","A type of savings account","A concept unrelated to financial literacy"], answer:1},
+     {q:"What do we call the amount of pay an employee actually receives after deductions?", options:["Net pay","Gross pay","A concept unrelated to payroll","Overtime pay"], answer:0},
+     {q:"Is income tax typically one example of a payroll deduction?", options:["Yes","Income tax is always paid separately with no connection to payroll","No, income tax is never deducted from pay","A concept unrelated to payroll deductions"], answer:0},
+     {q:"If an employee’s gross pay is 800 dollars and deductions total 150 dollars, what is their net pay?", options:["650 dollars","150 dollars","950 dollars","800 dollars"], answer:0},
+     {q:"Why is it important to understand the difference between gross pay and net pay when planning a budget?", options:["This concept has no connection to financial literacy","Gross pay and net pay are always exactly the same amount","Net pay reflects the actual amount available to spend or save, not the full amount earned","Budgeting never requires knowing the difference between these two amounts"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Life Cycle of Stars", summary:"Grade 7 Science strand: stars form from clouds of gas and dust, spend most of their life fusing hydrogen into helium, and eventually change dramatically, ending as a white dwarf, neutron star, or black hole depending on their mass.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What do stars form from?", options:["Solid rock formations","Pure liquid water","Clouds of gas and dust","A concept unrelated to astronomy"], answer:2},
+     {q:"What do stars spend most of their life fusing together?", options:["Iron into gold","Hydrogen into helium","Oxygen into carbon","A concept unrelated to stars"], answer:1},
+     {q:"Can a star’s mass affect what it eventually becomes at the end of its life?", options:["No, a star’s mass never affects its final stage","Yes","A concept unrelated to the life cycle of stars","Every star ends its life in exactly the same way"], answer:1},
+     {q:"Why might a very massive star end its life as a black hole rather than a white dwarf?", options:["Massive stars never collapse at the end of their life","This concept has no connection to astronomy","Every star, regardless of mass, becomes a white dwarf","Extremely massive stars can collapse under their own gravity into an incredibly dense object"], answer:3},
+     {q:"Why do scientists study the life cycle of stars to better understand the universe?", options:["This concept has no relevance to science","The life cycle of stars has no connection to understanding the universe","Stars never change or evolve in any way over time","It can reveal how elements are formed and how galaxies change over time"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Space Program: Canadarm and Astronauts", summary:"Grade 7 Social Studies strand: Canada has contributed to international space exploration through technologies like the Canadarm robotic arm and through Canadian astronauts who have taken part in missions to space.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is the Canadarm?", options:["A type of Canadian aircraft used only on Earth","A robotic arm technology developed by Canada for space missions","A Canadian food brand","A concept unrelated to Canadian history"], answer:1},
+     {q:"Have Canadian astronauts taken part in missions to space?", options:["Yes","A concept unrelated to Canada’s space program","No, no Canadian has ever travelled to space","Only astronauts from other countries have ever gone to space"], answer:0},
+     {q:"Has Canada contributed technology to international space exploration efforts?", options:["A concept unrelated to Canada’s space program","Yes","No, Canada has never contributed any space technology","Canada has only ever observed space exploration from a distance"], answer:1},
+     {q:"Why might Canada’s contribution of the Canadarm be considered an important part of its space program?", options:["Canada’s space program has never included any technological contributions","This concept has no relevance to social studies","The Canadarm was never actually used on any space mission","It showcased Canadian engineering and became a recognizable part of international space missions"], answer:3},
+     {q:"Why might international collaboration, such as sharing technology and astronauts, be valuable for space exploration?", options:["Every country conducts space missions completely independently with no cooperation","International collaboration never benefits space exploration efforts","Combining resources and expertise from multiple countries can achieve more than any single country alone","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:98, label:"Day 98 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing an Eyewitness News Report", summary:"Grade 7 Language strand: an eyewitness news report describes an event from a firsthand perspective, focusing on factual details such as who, what, when, where, and why, while maintaining a clear and objective tone.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does an eyewitness news report describe?", options:["A fictional story with no real events","A concept unrelated to writing","A recipe for cooking a meal","An event from a firsthand perspective"], answer:3},
+     {q:"Should an eyewitness news report focus on factual details, like who, what, when, where, and why?", options:["A concept unrelated to news reports","Only opinions should be included, with no facts","Yes","No, factual details are never included"], answer:2},
+     {q:"Should an eyewitness news report typically maintain a clear and objective tone?", options:["Tone never matters in a news report","Yes","No, it should always be written with strong personal bias","A concept unrelated to news reports"], answer:1},
+     {q:"Why might a news reporter avoid including personal opinions in an eyewitness report?", options:["Objectivity helps readers trust that the report accurately reflects what actually happened","News reports should never include any factual information","Personal opinions always make a news report more trustworthy","This concept has no connection to writing"], answer:0},
+     {q:"Which of these sentences sounds most like it belongs in an eyewitness news report?", options:["Witnesses said the fire began shortly after 6 p.m. near the corner store.","Add 12 and 8 to get 20.","I believe kindness should guide every decision I make.","Once upon a time, in a faraway kingdom."], answer:0}
+   ]},
+  {subject:"Math", title:"The Pythagorean Theorem in Three Dimensions", summary:"Grade 7 Math strand: the Pythagorean theorem can be extended into three dimensions to find the diagonal length of a rectangular prism, using the length, width, and height of the shape.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What can the Pythagorean theorem help find when extended into three dimensions?", options:["A concept unrelated to geometry","The weight of a rectangular prism","The colour of a rectangular prism","The diagonal length of a rectangular prism"], answer:3},
+     {q:"What three measurements of a rectangular prism are used to find its diagonal length?", options:["Length, width, and height","A concept unrelated to the Pythagorean theorem","Only the height and colour","Only the length"], answer:0},
+     {q:"Is finding a diagonal in three dimensions related to the same principle used to find the hypotenuse of a right triangle?", options:["Diagonals in three dimensions have nothing to do with right triangles","A concept unrelated to the Pythagorean theorem","No, the two concepts are never related","Yes"], answer:3},
+     {q:"Why might an engineer need to calculate the diagonal length of a rectangular box?", options:["Diagonal length is never useful information for engineers","Rectangular boxes never have a diagonal length at all","It can help determine whether a long object will fit diagonally inside the box","This concept has no connection to geometry"], answer:2},
+     {q:"If a rectangular prism has a length of 3, width of 4, and height of 12, what is its space diagonal, using length squared plus width squared plus height squared under a square root?", options:["144","25","13","19"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Bacteria vs Viruses", summary:"Grade 7 Science strand: bacteria are single-celled living organisms that can reproduce on their own, while viruses are not considered fully alive and can only reproduce by infecting a host cell.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What are bacteria?", options:["Single-celled living organisms that can reproduce on their own","Non-living particles that require a host to reproduce","A type of plant found only in forests","A concept unrelated to biology"], answer:0},
+     {q:"Can viruses reproduce on their own, without a host cell?", options:["Yes, viruses always reproduce entirely on their own","A concept unrelated to viruses","Viruses never reproduce under any circumstances","No"], answer:3},
+     {q:"Are bacteria generally considered single-celled living organisms?", options:["A concept unrelated to bacteria","Yes","Bacteria are always made up of many cells","No, bacteria are never considered living organisms"], answer:1},
+     {q:"Why might doctors treat a bacterial infection with antibiotics but not a viral infection?", options:["Antibiotics target processes specific to living bacterial cells, which viruses do not have","This concept has no connection to biology","Antibiotics are always equally effective against both bacteria and viruses","Bacterial infections and viral infections are always treated in exactly the same way"], answer:0},
+     {q:"Why is understanding the difference between bacteria and viruses important for public health?", options:["This concept has no relevance to science","The difference between bacteria and viruses has no relevance to public health","Bacteria and viruses always require identical treatment methods","It helps determine the most effective treatment and prevention strategies for different infections"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Chinese Head Tax and Exclusion Act", summary:"Grade 7 Social Studies strand: the Canadian government imposed a Chinese Head Tax starting in 1885 and later passed the Chinese Exclusion Act in 1923, discriminatory policies that severely restricted Chinese immigration to Canada.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Chinese Head Tax?", options:["A fee imposed on Chinese immigrants entering Canada","A concept unrelated to Canadian history","A tax on imported tea","A tax placed on all Canadian citizens equally"], answer:0},
+     {q:"In what year did the Canadian government begin imposing the Chinese Head Tax?", options:["1756","1995","1885","1931"], answer:2},
+     {q:"Did the Chinese Exclusion Act of 1923 severely restrict Chinese immigration to Canada?", options:["It made Chinese immigration easier than ever before","Yes","No, it had no effect on Chinese immigration","A concept unrelated to the Chinese Exclusion Act"], answer:1},
+     {q:"Why are the Chinese Head Tax and Exclusion Act considered discriminatory policies?", options:["These policies applied equally to every immigrant group without exception","These laws had no connection to immigration policy at all","They specifically targeted and restricted people based on their Chinese origin","This concept has no relevance to social studies"], answer:2},
+     {q:"Why might the Canadian government’s later formal apology for these policies be considered significant?", options:["This concept has no relevance to Canadian history","The government has never acknowledged these historical policies","It acknowledged the historical harm caused by discriminatory immigration laws","An apology for these policies would have no significance at all"], answer:2}
+   ]},
+]},
+{day:99, label:"Day 99 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Euphemisms and Doublespeak", summary:"Grade 7 Language strand: a euphemism is a mild or indirect word used in place of a harsher or more blunt one, while doublespeak is language deliberately used to disguise or distort the true meaning of a statement.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a euphemism?", options:["A concept unrelated to vocabulary","A type of punctuation mark","A word that always makes a statement sound more blunt","A mild or indirect word used in place of a harsher one"], answer:3},
+     {q:"What is doublespeak?", options:["A concept unrelated to doublespeak","Language deliberately used to disguise or distort the true meaning of a statement","Language that is always perfectly clear and direct","A word repeated exactly twice in a sentence"], answer:1},
+     {q:"Is passed away considered a euphemism for died?", options:["A concept unrelated to euphemisms","No, passed away is never considered a euphemism","Passed away is a harsher term than died","Yes"], answer:3},
+     {q:"Why might a company use doublespeak when describing layoffs, such as calling them rightsizing?", options:["It can soften or obscure the true impact of a difficult decision","Doublespeak never changes how a difficult decision is perceived","Rightsizing is always a more blunt term than layoffs","This concept has no connection to vocabulary"], answer:0},
+     {q:"Why is it important for readers to recognize euphemisms and doublespeak in persuasive or official language?", options:["This concept has no relevance to vocabulary","Euphemisms and doublespeak are never used in real communication","Recognizing these terms never helps with understanding a message","It helps them understand the real meaning behind softened or misleading language"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Identifying Misleading Graphs and Statistics", summary:"Grade 7 Math strand: a misleading graph can distort how data is perceived, such as by starting a scale at a value other than zero or using inconsistent intervals, making differences look larger or smaller than they really are.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What can a misleading graph distort?", options:["A concept unrelated to data","The exact numerical values only, never perception","How data is perceived","Nothing at all, since graphs are always accurate"], answer:2},
+     {q:"Can starting a graph’s scale at a value other than zero make a difference appear larger than it really is?", options:["No, the starting value of a scale never affects how a graph looks","Yes","A concept unrelated to misleading graphs","Graphs are never affected by where a scale begins"], answer:1},
+     {q:"Can using inconsistent intervals on a graph’s axis make data misleading?", options:["Yes","No, interval size never affects how data appears on a graph","A concept unrelated to graphs","Every graph always uses identical, consistent intervals"], answer:0},
+     {q:"Why might someone intentionally create a misleading graph when presenting data?", options:["To make a certain conclusion appear stronger or more dramatic than the data actually supports","Misleading graphs always accurately reflect every detail of the data","Misleading graphs are never created intentionally","This concept has no connection to data analysis"], answer:0},
+     {q:"Why is it important to carefully examine the scale and labels on a graph before drawing conclusions from it?", options:["This concept has no relevance to math","Every graph is guaranteed to be completely accurate and unbiased","A distorted scale or unclear label can lead to an inaccurate understanding of the data","The scale and labels on a graph never affect how it should be interpreted"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Excretory System: Kidneys and Waste Removal", summary:"Grade 7 Science strand: the excretory system, including the kidneys, filters waste products and excess water from the blood, producing urine that removes these substances from the body.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is the main role of the excretory system?", options:["Pumping blood throughout the body","Breaking down food in the stomach","Filtering waste products and excess water from the blood","A concept unrelated to biology"], answer:2},
+     {q:"What organ is a major part of the excretory system, filtering the blood?", options:["The stomach","The lungs","A concept unrelated to the excretory system","The kidneys"], answer:3},
+     {q:"Does the excretory system produce urine to remove waste from the body?", options:["No, urine has no connection to waste removal","Yes","The excretory system never removes any waste from the body","A concept unrelated to the excretory system"], answer:1},
+     {q:"Why is it important for the kidneys to filter excess water and waste from the blood regularly?", options:["The kidneys have no actual role in filtering the blood","Buildup of waste products in the blood could become harmful to the body over time","Waste products in the blood are never harmful to the body","This concept has no connection to biology"], answer:1},
+     {q:"Why might drinking enough water each day support healthy kidney function?", options:["Water intake has no effect on how the kidneys function","This concept has no relevance to science","The kidneys function identically regardless of how much water a person drinks","Adequate water helps the kidneys effectively filter waste and produce urine"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Oka Crisis and Indigenous Land Rights", summary:"Grade 7 Social Studies strand: the Oka Crisis of 1990 was a land dispute between the Mohawk community of Kanesatake and the town of Oka, Quebec, that drew national attention to Indigenous land rights in Canada.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Oka Crisis?", options:["A dispute over a new highway in British Columbia","A land dispute between the Mohawk community of Kanesatake and the town of Oka","A concept unrelated to Canadian history","A trade disagreement between Canada and the United States"], answer:1},
+     {q:"In what year did the Oka Crisis occur?", options:["1990","1867","1756","1931"], answer:0},
+     {q:"Did the Oka Crisis draw national attention to Indigenous land rights in Canada?", options:["The crisis was completely ignored by the entire country","A concept unrelated to the Oka Crisis","No, the crisis had no connection to Indigenous land rights","Yes"], answer:3},
+     {q:"Why might the Oka Crisis be considered an important moment in the history of Indigenous rights in Canada?", options:["It highlighted long-standing land disputes and brought greater public awareness to Indigenous concerns","This concept has no relevance to social studies","The event had no connection to land or territory of any kind","This event had no lasting impact on discussions of Indigenous rights"], answer:0},
+     {q:"Why might land disputes like the Oka Crisis still be relevant to understanding Indigenous rights today?", options:["This concept has no relevance to Canadian history","Every land dispute in Canadian history has already been completely resolved","Indigenous land rights are no longer a topic of discussion in Canada","Many land claims and treaty rights remain important and unresolved issues in Canada"], answer:3}
+   ]},
+]},
+{day:100, label:"Day 100 — Fri", subjects:[
+  {subject:"Language", title:"Review: Grammar, Vocabulary, and Media Literacy (Days 91-99)", summary:"Grade 7 Language strand review: students revisit appositives, idioms, epistolary structure, resumes and cover letters, infographics, correlative conjunctions, subtext, eyewitness reports, and euphemisms.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does an appositive do?", options:["A concept unrelated to grammar","Ends a sentence with a question mark","Turns a noun into a verb","Renames or adds detail about a nearby noun"], answer:3},
+     {q:"What is an idiom?", options:["A phrase that always means exactly what it literally says","A phrase whose meaning cannot be understood from its individual words","A word that is spelled exactly as it sounds","A concept unrelated to vocabulary"], answer:1},
+     {q:"What is an epistolary text?", options:["A text written entirely in rhyme","A concept unrelated to reading","A text with no characters at all","A text that tells its story through documents like letters or diary entries"], answer:3},
+     {q:"What are correlative conjunctions?", options:["Pairs of words that work together to connect equal parts of a sentence","A concept unrelated to grammar","A punctuation mark used only in questions","A single word used to end a sentence"], answer:0},
+     {q:"What is a euphemism?", options:["A mild or indirect word used in place of a harsher one","A type of punctuation mark","A word that always makes a statement sound more blunt","A concept unrelated to vocabulary"], answer:0}
+   ]},
+  {subject:"Math", title:"Review: Algebra, Geometry, and Data (Days 91-99)", summary:"Grade 7 Math strand review: students revisit solving systems by elimination, factoring using the GCF, odds vs probability, negative exponents, the Pythagorean theorem in three dimensions, and misleading graphs.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"In the elimination method, what is added or subtracted to cancel out a variable?", options:["The two equations in the system","A single number chosen at random","A concept unrelated to systems of equations","Only the variables, never the equations"], answer:0},
+     {q:"What does factoring a polynomial using the GCF involve finding?", options:["A random number with no connection to the terms","The largest expression that divides evenly into every term","A concept unrelated to factoring","The smallest possible number in the polynomial"], answer:1},
+     {q:"What do odds compare?", options:["A concept unrelated to odds","The total number of trials only","Favourable outcomes to all possible outcomes","Favourable outcomes to unfavourable outcomes"], answer:3},
+     {q:"What does a negative exponent indicate?", options:["A number that must always equal zero","A concept unrelated to exponents","The reciprocal of the base raised to the positive version of that exponent","The base multiplied by negative one"], answer:2},
+     {q:"What can a misleading graph distort?", options:["The exact numerical values only, never perception","A concept unrelated to data","Nothing at all, since graphs are always accurate","How data is perceived"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Physics, Biology, and Space Science (Days 91-99)", summary:"Grade 7 Science strand review: students revisit series and parallel circuits, meiosis, chemical bonding, osmosis, camouflage, tidal and geothermal energy, the life cycle of stars, bacteria vs viruses, and the excretory system.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"In a series circuit, how are components connected?", options:["Along many separate branches","Along a single path","A concept unrelated to circuits","They are not connected at all"], answer:1},
+     {q:"What does meiosis produce?", options:["Cells that are identical in every possible way","Reproductive cells with half the usual number of chromosomes","A concept unrelated to biology","Cells with double the usual number of chromosomes"], answer:1},
+     {q:"What happens during the formation of an ionic bond?", options:["Electrons are transferred between atoms","Protons are transferred between atoms","A concept unrelated to chemistry","Atoms never interact with each other at all"], answer:0},
+     {q:"What do stars spend most of their life fusing together?", options:["Iron into gold","Oxygen into carbon","A concept unrelated to stars","Hydrogen into helium"], answer:3},
+     {q:"What are bacteria?", options:["Non-living particles that require a host to reproduce","Single-celled living organisms that can reproduce on their own","A concept unrelated to biology","A type of plant found only in forests"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Canadian History and Identity (Days 91-99)", summary:"Grade 7 Social Studies strand review: students revisit the Klondike Gold Rush, the Sixties Scoop, the Statute of Westminster, the Komagata Maru incident, the Afghanistan War, the Quebec Referendum, and the Oka Crisis.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What did the Klondike Gold Rush draw thousands of people to the Yukon in search of?", options:["Oil","A concept unrelated to Canadian history","Gold","Farmland"], answer:2},
+     {q:"What does the term Sixties Scoop refer to?", options:["A type of government tax program","A concept unrelated to Canadian history","A period when many Indigenous children were removed from their families and placed with non-Indigenous families","A sports competition held in the 1960s"], answer:2},
+     {q:"What did the Statute of Westminster grant to Canada and other British Dominions?", options:["Greater legislative independence from Britain","A new national flag","Complete control over the British monarchy","A concept unrelated to Canadian history"], answer:0},
+     {q:"What was the Komagata Maru?", options:["A concept unrelated to Canadian history","A famous Canadian railway line","A type of Canadian currency","A ship carrying South Asian immigrants turned away from Vancouver in 1914"], answer:3},
+     {q:"What was the Oka Crisis?", options:["A dispute over a new highway in British Columbia","A trade disagreement between Canada and the United States","A land dispute between the Mohawk community of Kanesatake and the town of Oka","A concept unrelated to Canadian history"], answer:2}
+   ]},
+]},
 ];
 
 export default curriculum;

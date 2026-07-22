@@ -4761,6 +4761,586 @@ const curriculum: DayContent[] = [
      {prompt:"What is a non-profit organization?", answers:["a group that uses donations to help people or causes","a group that helps people"]}
    ]},
 ]},
+{day:91, label:"Day 91 — Mon", subjects:[
+  {subject:"Language", title:"Personification: Giving Human Traits to Objects", summary:"Ontario Grade 2 Language strand: students learn that personification gives human qualities to an animal, object, or idea, such as saying the wind whispered or the sun smiled, to make writing more vivid.",
+   resourceLabel:"YouTube: Personification: Giving Human Traits to Objects", resourceUrl:"https://www.youtube.com/results?search_query=Personification%3A%20Giving%20Human%20Traits%20to%20Objects%20grade%202%20educational",
+   quiz:[
+     {q:"What is personification?", options:["A type of punctuation mark","Giving human qualities to an object, animal, or idea","A word that names a person only","A sentence with no meaning at all"], answer:1},
+     {q:"Which sentence is an example of personification?", options:["The stars winked at us from the sky.","The stars are far away in the sky.","The sky has many stars in it.","The sky was dark and clear."], answer:0},
+     {q:"In the sentence the old car groaned as it started, what is being given a human quality?", options:["The key","The car","The driver","The road"], answer:1},
+     {q:"Why might a writer use personification in a story?", options:["To make objects and animals feel more alive and interesting","Personification is only used in math","Personification has no purpose in writing","Personification makes writing harder to understand"], answer:0},
+     {q:"Which of these gives a human trait to the wind?", options:["The wind can be strong or gentle.","The wind is a type of weather.","The wind howled angrily through the trees.","The wind blows from the west today."], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call it when a writer gives human qualities to an object, like saying the wind whispered?", answers:["personification"]},
+     {prompt:"In the sentence the leaves danced in the breeze, what human action is given to the leaves?", answers:["dancing","danced"]},
+     {prompt:"Does personification make writing more vivid and interesting?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Multiplication Facts: 8s and 9s", summary:"Ontario Grade 2 Number strand: students practise and memorize multiplication facts for the 8 and 9 times tables, building on earlier work with the 2s, 3s, 4s, 5s, 6s, 7s, and 10s times tables.",
+   resourceLabel:"YouTube: Multiplication Facts: 8s and 9s", resourceUrl:"https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%208s%20and%209s%20grade%202%20educational",
+   quiz:[
+     {q:"What is 8 times 4?", options:["32","36","28","24"], answer:0},
+     {q:"What is 9 times 3?", options:["30","27","18","24"], answer:1},
+     {q:"What is 8 times 6?", options:["54","48","42","40"], answer:1},
+     {q:"What is 9 times 5?", options:["45","36","50","40"], answer:0},
+     {q:"What is 9 times 9?", options:["99","81","90","72"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is 8 times 3?", answers:["24","twenty-four"]},
+     {prompt:"What is 9 times 2?", answers:["18","eighteen"]},
+     {prompt:"What is 8 times 5?", answers:["40","forty"]}
+   ]},
+  {subject:"Science", title:"Vertebrates and Invertebrates: Animals With and Without Backbones", summary:"Ontario Grade 2 Life Systems strand: students learn that animals with a backbone are called vertebrates, such as fish and birds, while animals without a backbone, such as insects and worms, are called invertebrates.",
+   resourceLabel:"YouTube: Vertebrates and Invertebrates: Animals With and Without Backbones", resourceUrl:"https://www.youtube.com/results?search_query=Vertebrates%20and%20Invertebrates%3A%20Animals%20With%20and%20Without%20Backbones%20grade%202%20educational",
+   quiz:[
+     {q:"What is a vertebrate?", options:["An animal that lives only in water","An animal that has no bones at all","An animal that has a backbone","A plant with a stem"], answer:2},
+     {q:"What is an invertebrate?", options:["An animal that always has fur","An animal that does not have a backbone","An animal that can fly","A type of rock"], answer:1},
+     {q:"Which of these is a vertebrate?", options:["A snail","A spider","A fish","A worm"], answer:2},
+     {q:"Which of these is an invertebrate?", options:["A fish","An insect","A dog","A bird"], answer:1},
+     {q:"Vertebrates and invertebrates are grouped based on whether they have a ___.", options:["Colour","Backbone","Home","Tail"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call an animal that has a backbone?", answers:["vertebrate"]},
+     {prompt:"What do we call an animal that does not have a backbone?", answers:["invertebrate"]},
+     {prompt:"Is a worm a vertebrate or an invertebrate?", answers:["invertebrate"]}
+   ]},
+  {subject:"SocialStudies", title:"Provincial and Territorial Symbols: Flowers, Birds, and Flags", summary:"Ontario Grade 2 Social Studies strand: students learn that each Canadian province and territory has its own symbols, such as an official flower, bird, and flag, that represent its identity.",
+   resourceLabel:"YouTube: Provincial and Territorial Symbols: Flowers, Birds, and Flags", resourceUrl:"https://www.youtube.com/results?search_query=Provincial%20and%20Territorial%20Symbols%3A%20Flowers%2C%20Birds%2C%20and%20Flags%20grade%202%20educational",
+   quiz:[
+     {q:"Which of these is an example of a provincial symbol?", options:["A single citys nickname","An official provincial flower","A national anthem only","A type of homework"], answer:1},
+     {q:"Why might a province choose an official bird or flower?", options:["To represent something special about that province","Provinces are not allowed to have symbols","Every province must use the exact same symbols","Symbols have no connection to a province"], answer:0},
+     {q:"What is the official flower of Ontario?", options:["The rose","The tulip","The trillium","The sunflower"], answer:2},
+     {q:"Provincial flags are usually flown alongside the ___.", options:["Flag of another country","Canadian flag","No other flag at all","Flag of a different city only"], answer:1},
+     {q:"Learning about provincial symbols helps us understand ___.", options:["What makes each province unique","That every province is identical","That only Ontario has symbols","That symbols are not important"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one kind of symbol a province might have, like a flower or a flag.", answers:["flower","flag","bird"]},
+     {prompt:"Does each Canadian province and territory have its own set of symbols?", answers:["yes"]},
+     {prompt:"What is the official flower of Ontario?", answers:["trillium"]}
+   ]},
+]},
+{day:92, label:"Day 92 — Tue", subjects:[
+  {subject:"Language", title:"Irregular Plural Nouns: Special Cases Like Mice and Geese", summary:"Ontario Grade 2 Language strand: students learn that some plural nouns do not simply add -s or -es, but change in a special way, such as mouse becoming mice, goose becoming geese, and child becoming children.",
+   resourceLabel:"YouTube: Irregular Plural Nouns: Special Cases Like Mice and Geese", resourceUrl:"https://www.youtube.com/results?search_query=Irregular%20Plural%20Nouns%3A%20Special%20Cases%20Like%20Mice%20and%20Geese%20grade%202%20educational",
+   quiz:[
+     {q:"What is the plural of mouse?", options:["Mousees","Mouses","Mices","Mice"], answer:3},
+     {q:"What is the plural of tooth?", options:["Teeth","Toothes","Tooths","Teeths"], answer:0},
+     {q:"What is the plural of foot?", options:["Foots","Feets","Footes","Feet"], answer:3},
+     {q:"What is the plural of child?", options:["Childrens","Childs","Children","Childes"], answer:2},
+     {q:"Words like mice and geese are called irregular plurals because they ___.", options:["Are not real words","Always add -s at the end","Never change at all","Do not simply add -s or -es"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the plural form of the word mouse?", answers:["mice"]},
+     {prompt:"What is the plural form of the word child?", answers:["children"]},
+     {prompt:"What is the plural form of the word goose?", answers:["geese"]}
+   ]},
+  {subject:"Math", title:"Division with Remainders: When Sharing Does Not Come Out Even", summary:"Ontario Grade 2 Number strand: students learn that when a group of objects cannot be shared equally, there may be some left over, called a remainder, such as sharing 10 stickers among 3 friends leaving 1 remainder.",
+   resourceLabel:"YouTube: Division with Remainders: When Sharing Does Not Come Out Even", resourceUrl:"https://www.youtube.com/results?search_query=Division%20with%20Remainders%3A%20When%20Sharing%20Does%20Not%20Come%20Out%20Even%20grade%202%20educational",
+   quiz:[
+     {q:"If 9 cookies are shared equally among 4 people, how many cookies are left over?", options:["1","3","0","2"], answer:0},
+     {q:"If 13 marbles are shared equally among 3 people, how many marbles are left over?", options:["3","0","2","1"], answer:3},
+     {q:"What do we call the amount left over after sharing equally?", options:["A product","A factor","A remainder","A sum"], answer:2},
+     {q:"If 8 crayons are shared equally among 2 people, is there a remainder?", options:["Yes, there are 3 left over","Yes, there are 2 left over","No, they share evenly","Yes, there is 1 left over"], answer:2},
+     {q:"If 11 grapes are shared equally among 5 people, how many grapes are left over?", options:["0","1","2","3"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If 10 stickers are shared equally among 3 friends, how many are left over as a remainder?", answers:["1","one"]},
+     {prompt:"What do we call the amount left over when a group cannot be shared equally?", answers:["remainder"]},
+     {prompt:"If 7 apples are shared equally among 2 people, how many apples are left over?", answers:["1","one"]}
+   ]},
+  {subject:"Science", title:"The Nervous System: How Our Brain Sends Messages", summary:"Ontario Grade 2 Life Systems strand: students learn that our nervous system, made up of the brain, spinal cord, and nerves, sends messages through our body so we can think, feel, and move.",
+   resourceLabel:"YouTube: The Nervous System: How Our Brain Sends Messages", resourceUrl:"https://www.youtube.com/results?search_query=The%20Nervous%20System%3A%20How%20Our%20Brain%20Sends%20Messages%20grade%202%20educational",
+   quiz:[
+     {q:"What is the main job of the nervous system?", options:["To send messages through the body","To digest our food","To pump blood through the body","To help us breathe only"], answer:0},
+     {q:"Which organ is the control centre of the nervous system?", options:["The lungs","The skin","The stomach","The brain"], answer:3},
+     {q:"What connects the brain to the rest of the body to send messages?", options:["Blood only","Muscles only","Nerves","Bones only"], answer:2},
+     {q:"If you touch something hot, what helps you feel pain and pull your hand away quickly?", options:["Your circulatory system only","Your skeletal system only","Your digestive system","Your nervous system"], answer:3},
+     {q:"The spinal cord is best described as a pathway that ___.", options:["Filters air we breathe","Breaks down food for energy","Carries messages between the brain and body","Pumps blood to the heart"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What organ is the control centre of our nervous system?", answers:["brain"]},
+     {prompt:"Name one part of the nervous system besides the brain, like the spinal cord or nerves.", answers:["spinal cord","nerves"]},
+     {prompt:"Does our nervous system help us feel, think, and move?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Levels of Leadership: Prime Minister, Premier, and Mayor", summary:"Ontario Grade 2 Social Studies strand: students learn that Canada has leaders at different levels of government, including the Prime Minister for the country, a Premier for each province, and a mayor for a city or town.",
+   resourceLabel:"YouTube: Levels of Leadership: Prime Minister, Premier, and Mayor", resourceUrl:"https://www.youtube.com/results?search_query=Levels%20of%20Leadership%3A%20Prime%20Minister%2C%20Premier%2C%20and%20Mayor%20grade%202%20educational",
+   quiz:[
+     {q:"Who leads the entire country of Canada?", options:["The premier","The principal","The mayor","The prime minister"], answer:3},
+     {q:"Who leads a province, such as Ontario?", options:["The mayor","The prime minister","The premier","The governor"], answer:2},
+     {q:"Who leads a city or town?", options:["The mayor","The prime minister","The principal","The premier"], answer:0},
+     {q:"Why does Canada have leaders at different levels?", options:["Leaders at different levels never work together","This concept has no connection to Canada","Different levels of government handle different responsibilities","Only one leader is needed for everything"], answer:2},
+     {q:"Which leader is responsible for decisions about a single city, like fixing local roads?", options:["The premier","A senator","The mayor","The prime minister"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Who is the leader of the whole country of Canada?", answers:["prime minister"]},
+     {prompt:"Who is the leader of a province, like Ontario?", answers:["premier"]},
+     {prompt:"Who is the leader of a city or town?", answers:["mayor"]}
+   ]},
+]},
+{day:93, label:"Day 93 — Wed", subjects:[
+  {subject:"Language", title:"Making Inferences: Reading Between the Lines", summary:"Ontario Grade 2 Reading strand: students learn to make an inference by using clues from the text along with what they already know to figure out something the author does not state directly.",
+   resourceLabel:"YouTube: Making Inferences: Reading Between the Lines", resourceUrl:"https://www.youtube.com/results?search_query=Making%20Inferences%3A%20Reading%20Between%20the%20Lines%20grade%202%20educational",
+   quiz:[
+     {q:"What is an inference?", options:["A sentence copied exactly from the text","A word written in bold letters","A conclusion made using text clues and what you already know","The title of a book"], answer:2},
+     {q:"If a character is smiling and jumping up and down, what might you infer about how they feel?", options:["They feel nothing at all","They feel sick","They feel happy or excited","They feel angry"], answer:2},
+     {q:"Which clue would help you infer that it is raining outside?", options:["Characters are wearing sunglasses","Characters are carrying umbrellas and wearing raincoats","Characters are building a snowman","Characters are swimming in a pool"], answer:1},
+     {q:"Why is making inferences an important reading skill?", options:["Making inferences means ignoring the text completely","It has no connection to understanding a story","Inferences are always stated directly by the author","It helps readers understand ideas the author does not state directly"], answer:3},
+     {q:"Making an inference is different from a fact because an inference is ___.", options:["Always written in the text exactly as shown","Never based on any clues at all","The same thing as a fact","A conclusion based on clues, not something directly stated"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call figuring out something the author does not state directly, using clues?", answers:["inference","making an inference"]},
+     {prompt:"If a character is shivering and wearing a coat, what might you infer about the weather?", answers:["it is cold","cold"]},
+     {prompt:"Do readers use clues from the text and what they already know to make an inference?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Naming Fraction Parts: Numerator and Denominator", summary:"Ontario Grade 2 Number strand: students learn the vocabulary for the parts of a fraction, where the denominator shows how many equal parts a whole is divided into, and the numerator shows how many of those parts are being counted.",
+   resourceLabel:"YouTube: Naming Fraction Parts: Numerator and Denominator", resourceUrl:"https://www.youtube.com/results?search_query=Naming%20Fraction%20Parts%3A%20Numerator%20and%20Denominator%20grade%202%20educational",
+   quiz:[
+     {q:"In the fraction 2 over 5, what is the numerator?", options:["5","7","3","2"], answer:3},
+     {q:"In the fraction 2 over 5, what is the denominator?", options:["2","7","5","3"], answer:2},
+     {q:"What does the denominator of a fraction tell us?", options:["The exact colour of the shape","How many equal parts the whole is divided into","The total number of shapes","How many parts are shaded or counted"], answer:1},
+     {q:"What does the numerator of a fraction tell us?", options:["How many of the equal parts are being counted","The name of the shape","The size of the whole shape","How many parts the whole is divided into"], answer:0},
+     {q:"In the fraction 1 over 2, what does the number 2 represent?", options:["Only 2 parts are shaded","The shape is 2 centimetres long","The whole is divided into 2 equal parts","The shape has 2 corners"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"In the fraction 3 over 4, what number is the numerator?", answers:["3","three"]},
+     {prompt:"In the fraction 3 over 4, what number is the denominator?", answers:["4","four"]},
+     {prompt:"Does the denominator show how many equal parts a whole is divided into?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Layers of the Earth: Crust, Mantle, and Core", summary:"Ontario Grade 2 Earth and Space Systems strand: students learn that the Earth is made of layers, including the outer crust we live on, the hot mantle beneath it, and the core at the very centre.",
+   resourceLabel:"YouTube: Layers of the Earth: Crust, Mantle, and Core", resourceUrl:"https://www.youtube.com/results?search_query=Layers%20of%20the%20Earth%3A%20Crust%2C%20Mantle%2C%20and%20Core%20grade%202%20educational",
+   quiz:[
+     {q:"What is the outermost layer of the Earth called?", options:["The core","The atmosphere","The mantle","The crust"], answer:3},
+     {q:"What is the layer at the very centre of the Earth called?", options:["The crust","The core","The mantle","The surface"], answer:1},
+     {q:"Which layer of the Earth is located between the crust and the core?", options:["The atmosphere","The soil","The mantle","The ocean"], answer:2},
+     {q:"Which layer of the Earth do people, animals, and plants live on?", options:["The ocean floor only","The mantle","The core","The crust"], answer:3},
+     {q:"The layers of the Earth are best described as being arranged from the ___ to the very centre.", options:["Sky downward","Centre outward only","Ocean upward","Outside surface inward"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the outer layer of the Earth called, the one we live on?", answers:["crust"]},
+     {prompt:"What is the very centre layer of the Earth called?", answers:["core"]},
+     {prompt:"Is the mantle located between the crust and the core?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Voting and Elections: How We Choose Our Leaders", summary:"Ontario Grade 2 Social Studies strand: students learn that in an election, people vote to choose their leaders, such as a mayor or prime minister, and that the person with the most votes usually wins.",
+   resourceLabel:"YouTube: Voting and Elections: How We Choose Our Leaders", resourceUrl:"https://www.youtube.com/results?search_query=Voting%20and%20Elections%3A%20How%20We%20Choose%20Our%20Leaders%20grade%202%20educational",
+   quiz:[
+     {q:"What is an election?", options:["A type of holiday celebration","A kind of school assignment","A game played at recess","An event where people vote to choose their leaders"], answer:3},
+     {q:"What does it mean to vote?", options:["To build something out of blocks","To draw a picture of a leader","To mark your choice for a leader or decision","To ignore an important decision"], answer:2},
+     {q:"In most elections, who usually wins?", options:["The tallest person","The person with the most votes","The person who votes last","The person who does not run at all"], answer:1},
+     {q:"Why is voting an important part of choosing leaders?", options:["Elections never actually happen","Only one single person is allowed to decide","Voting has no effect on who becomes a leader","It lets many people have a say in who leads them"], answer:3},
+     {q:"Elections allow citizens to ___.", options:["Avoid all responsibility for their community","Ignore their communitys leadership","Help choose who represents them","Prevent leaders from ever changing"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call the event where people choose their leaders by voting?", answers:["election"]},
+     {prompt:"What do we call marking a choice for a leader during an election?", answers:["voting","a vote"]},
+     {prompt:"Does the leader with the most votes usually win an election?", answers:["yes"]}
+   ]},
+]},
+{day:94, label:"Day 94 — Thu", subjects:[
+  {subject:"Language", title:"Using a Table of Contents and Index", summary:"Ontario Grade 2 Reading strand: students learn that a table of contents at the front of a book lists chapters and page numbers, while an index at the back lists topics in alphabetical order to help readers find information quickly.",
+   resourceLabel:"YouTube: Using a Table of Contents and Index", resourceUrl:"https://www.youtube.com/results?search_query=Using%20a%20Table%20of%20Contents%20and%20Index%20grade%202%20educational",
+   quiz:[
+     {q:"What is a table of contents?", options:["A drawing on the cover of a book","A list of chapters and page numbers at the front of a book","A summary of the whole book","A list of every word in a book"], answer:1},
+     {q:"What is an index?", options:["A picture of the main character","An alphabetical list of topics and their page numbers at the back of a book","A list of chapters at the front of a book","The name of the author"], answer:1},
+     {q:"If you wanted to quickly find which chapter starts on page 20, which part of the book would help?", options:["The back cover","The table of contents","The title page","The index"], answer:1},
+     {q:"If you wanted to find every page that mentions volcanoes, which part of the book would help most?", options:["The dedication page","The front cover","The table of contents","The index"], answer:3},
+     {q:"Both a table of contents and an index help readers ___.", options:["Draw new pictures for the book","Ignore the book completely","Memorize the entire book","Find information in a book quickly"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Where in a book would you usually find a table of contents, the front or the back?", answers:["front"]},
+     {prompt:"Where in a book would you usually find an index, the front or the back?", answers:["back"]},
+     {prompt:"Is an index organized in alphabetical order?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Rounding to the Nearest Hundred", summary:"Ontario Grade 2 Number strand: students learn to round three-digit numbers to the nearest hundred by looking at the tens digit, building on earlier work rounding to the nearest ten.",
+   resourceLabel:"YouTube: Rounding to the Nearest Hundred", resourceUrl:"https://www.youtube.com/results?search_query=Rounding%20to%20the%20Nearest%20Hundred%20grade%202%20educational",
+   quiz:[
+     {q:"What is 180 rounded to the nearest hundred?", options:["200","190","100","180"], answer:0},
+     {q:"What is 620 rounded to the nearest hundred?", options:["500","600","650","700"], answer:1},
+     {q:"What is 750 rounded to the nearest hundred?", options:["800","750","600","700"], answer:0},
+     {q:"To round a number to the nearest hundred, which digit do we look at?", options:["The thousands digit","The ones digit","The tens digit","The first letter"], answer:2},
+     {q:"What is 910 rounded to the nearest hundred?", options:["910","900","800","1000"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is 340 rounded to the nearest hundred?", answers:["300","three hundred"]},
+     {prompt:"What is 470 rounded to the nearest hundred?", answers:["500","five hundred"]},
+     {prompt:"What is 250 rounded to the nearest hundred?", answers:["300","three hundred"]}
+   ]},
+  {subject:"Science", title:"Volcanoes: When Earth Crust Erupts", summary:"Ontario Grade 2 Earth and Space Systems strand: students learn that a volcano is an opening in the Earth crust where hot melted rock, called magma, can erupt onto the surface as lava.",
+   resourceLabel:"YouTube: Volcanoes: When Earth Crust Erupts", resourceUrl:"https://www.youtube.com/results?search_query=Volcanoes%3A%20When%20Earth%20Crust%20Erupts%20grade%202%20educational",
+   quiz:[
+     {q:"What is a volcano?", options:["A type of large lake","An opening in the Earth crust where melted rock can erupt","A kind of ocean current","A very tall, cold mountain only"], answer:1},
+     {q:"What is magma?", options:["Hot melted rock found underground","A kind of soil","Cold hard rock found on the surface","A type of cloud"], answer:0},
+     {q:"What do we call magma once it erupts onto the surface?", options:["Sediment","Ash only","Mist","Lava"], answer:3},
+     {q:"Why might a volcanic eruption be dangerous?", options:["Eruptions have no effect on the surrounding area","Lava is always cool to the touch","Hot lava and ash can spread over a wide area","Volcanoes never actually erupt"], answer:2},
+     {q:"A volcano is best described as a place where the Earth crust can ___.", options:["Release hot melted rock","Disappear entirely","Freeze completely solid","Turn into water"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call an opening in the Earth crust where hot melted rock can erupt?", answers:["volcano"]},
+     {prompt:"What do we call hot melted rock while it is still underground?", answers:["magma"]},
+     {prompt:"What do we call hot melted rock once it erupts onto the surface?", answers:["lava"]}
+   ]},
+  {subject:"SocialStudies", title:"The Fur Trade: An Early Canadian Industry", summary:"Ontario Grade 2 Social Studies strand: students learn that the fur trade was an early industry in Canadian history, where Indigenous peoples and European traders exchanged furs, such as beaver pelts, for goods.",
+   resourceLabel:"YouTube: The Fur Trade: An Early Canadian Industry", resourceUrl:"https://www.youtube.com/results?search_query=The%20Fur%20Trade%3A%20An%20Early%20Canadian%20Industry%20grade%202%20educational",
+   quiz:[
+     {q:"What was the fur trade?", options:["A kind of school subject","A modern clothing store","A type of Canadian sport","An early industry where furs were exchanged for goods"], answer:3},
+     {q:"Which animal fur was especially important during the fur trade?", options:["The elephant","The beaver","The kangaroo","The lion"], answer:1},
+     {q:"Who took part in the fur trade in early Canada?", options:["No one actually took part","Only modern-day shoppers","Indigenous peoples and European traders","Only people living in cities today"], answer:2},
+     {q:"Why was the fur trade important to early Canadian history?", options:["It only happened in a different country","It has no connection to Canadian history","It never actually involved any trading","It shaped trade relationships and early settlements"], answer:3},
+     {q:"The fur trade is an example of people exchanging goods, which we call ___.", options:["Trading","Building","Farming","Voting"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What animal fur was especially valuable during the fur trade?", answers:["beaver"]},
+     {prompt:"Did Indigenous peoples and European traders exchange goods during the fur trade?", answers:["yes"]},
+     {prompt:"What word describes trading goods like furs for other items?", answers:["trade","trading"]}
+   ]},
+]},
+{day:95, label:"Day 95 — Fri", subjects:[
+  {subject:"Language", title:"Prefixes: dis- and mis-", summary:"Ontario Grade 2 Language strand: students learn that adding the prefix dis- or mis- to a word can change its meaning to the opposite or to something done incorrectly, such as agree becoming disagree and spell becoming misspell.",
+   resourceLabel:"YouTube: Prefixes: dis- and mis-", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20dis-%20and%20mis-%20grade%202%20educational",
+   quiz:[
+     {q:"What does adding dis- to the word agree create?", options:["Agreement, a completely unrelated noun","Disagree, meaning the opposite of agree","A word with no real meaning","Agreeing, a different verb form"], answer:1},
+     {q:"What does adding mis- to the word spell create?", options:["Spelling, a different verb form","Misspell, meaning to spell incorrectly","Spellful, an unrelated word","A word with no real meaning"], answer:1},
+     {q:"Which word means the opposite of obey?", options:["Reobey","Obeyness","Disobey","Obeyful"], answer:2},
+     {q:"Which word means to understand something incorrectly?", options:["Understandful","Disunderstand","Reunderstand","Misunderstand"], answer:3},
+     {q:"Adding dis- or mis- to a word usually changes its meaning to show ___.", options:["A brighter colour","A faster speed","A larger size","The opposite or an incorrect action"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Add dis- to the word agree. What new word do you make?", answers:["disagree"]},
+     {prompt:"Add mis- to the word spell. What new word do you make?", answers:["misspell"]},
+     {prompt:"Does adding dis- to a word often make it mean the opposite?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Equivalent Fractions: Different Names for the Same Amount", summary:"Ontario Grade 2 Number strand: students learn that two fractions can be equivalent, meaning they name the same amount, such as one half being the same amount as two quarters.",
+   resourceLabel:"YouTube: Equivalent Fractions: Different Names for the Same Amount", resourceUrl:"https://www.youtube.com/results?search_query=Equivalent%20Fractions%3A%20Different%20Names%20for%20the%20Same%20Amount%20grade%202%20educational",
+   quiz:[
+     {q:"Which fraction is equivalent to one half?", options:["One third","Two quarters","Three quarters","One quarter"], answer:1},
+     {q:"What does it mean for two fractions to be equivalent?", options:["They always look exactly the same on paper","They name the same amount","One fraction must be larger","They can never be compared"], answer:1},
+     {q:"If a pizza is cut into 4 equal slices and you eat 2, what fraction is equivalent to what you ate?", options:["One half","One quarter","One third","Three quarters"], answer:0},
+     {q:"Two fractions can look different but still be ___.", options:["Equivalent, naming the same amount","Impossible to compare","Always the exact same numbers","Always unrelated to each other"], answer:0},
+     {q:"Which of these shows an equivalent fraction pair?", options:["One third and one half","One quarter and three quarters","One half and two quarters","One half and one quarter"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Is one half the same amount as two quarters?", answers:["yes"]},
+     {prompt:"What word describes two fractions that name the same amount?", answers:["equivalent"]},
+     {prompt:"Is two quarters equivalent to one half?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Animal Body Coverings: Fur, Feathers, Scales, and Skin", summary:"Ontario Grade 2 Life Systems strand: students learn that animals have different body coverings, such as fur, feathers, scales, or smooth skin, which help protect them and suit the environment they live in.",
+   resourceLabel:"YouTube: Animal Body Coverings: Fur, Feathers, Scales, and Skin", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Body%20Coverings%3A%20Fur%2C%20Feathers%2C%20Scales%2C%20and%20Skin%20grade%202%20educational",
+   quiz:[
+     {q:"Which animal body covering do birds usually have?", options:["Scales","Shells","Fur","Feathers"], answer:3},
+     {q:"Which animal body covering do fish usually have?", options:["Fur","Scales","Wool","Feathers"], answer:1},
+     {q:"Which animal body covering do mammals like bears usually have?", options:["Feathers","Fur","Scales","Shells"], answer:1},
+     {q:"Why do animals have different body coverings?", options:["To help protect them and suit their environment","Body coverings only affect how an animal looks","All animals have the exact same body covering","Body coverings have no real purpose"], answer:0},
+     {q:"A frog usually has what kind of body covering?", options:["Thick fur","Hard scales like a fish","Smooth, moist skin","Feathers"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one type of body covering an animal might have, like fur or feathers.", answers:["fur","feathers","scales","skin"]},
+     {prompt:"Do birds usually have feathers as their body covering?", answers:["yes"]},
+     {prompt:"Do fish usually have scales as their body covering?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Treaties: Agreements Between Indigenous Peoples and Newcomers", summary:"Ontario Grade 2 Social Studies strand: students learn that a treaty is a formal agreement, often about sharing land and resources, that was made between Indigenous peoples and newcomers to Canada.",
+   resourceLabel:"YouTube: Treaties: Agreements Between Indigenous Peoples and Newcomers", resourceUrl:"https://www.youtube.com/results?search_query=Treaties%3A%20Agreements%20Between%20Indigenous%20Peoples%20and%20Newcomers%20grade%202%20educational",
+   quiz:[
+     {q:"What is a treaty?", options:["A type of Canadian sport","A kind of school subject","A formal agreement, often about sharing land and resources","A holiday celebrated in December"], answer:2},
+     {q:"Who were treaties in Canadian history often made between?", options:["Only people from a different country entirely","No one, they never actually happened","Indigenous peoples and newcomers","Only people living in one single city"], answer:2},
+     {q:"What might a treaty be an agreement about?", options:["What food to eat for breakfast","Sharing land and resources","Which sports team wins a game","What clothes to wear each day"], answer:1},
+     {q:"Why are treaties an important part of Canadian history?", options:["They have no connection to Canadian history","They only affected people outside of Canada","They shaped relationships between Indigenous peoples and newcomers","They were never actually followed by anyone"], answer:2},
+     {q:"Learning about treaties helps students understand ___.", options:["Important agreements in Canadian history","Nothing relevant about Canada","Only how to read a map","Only modern-day sports rules"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes a formal agreement about sharing land and resources?", answers:["treaty"]},
+     {prompt:"Were treaties made between Indigenous peoples and newcomers to Canada?", answers:["yes"]},
+     {prompt:"Do treaties often involve agreements about land?", answers:["yes"]}
+   ]},
+]},
+{day:96, label:"Day 96 — Mon", subjects:[
+  {subject:"Language", title:"Suffixes: Adding -ly to Turn Adjectives into Adverbs", summary:"Ontario Grade 2 Language strand: students learn that adding the suffix -ly to many adjectives creates an adverb, describing how an action is done, such as quiet becoming quietly and slow becoming slowly.",
+   resourceLabel:"YouTube: Suffixes: Adding -ly to Turn Adjectives into Adverbs", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-ly%20to%20Turn%20Adjectives%20into%20Adverbs%20grade%202%20educational",
+   quiz:[
+     {q:"What does adding -ly to the word slow create?", options:["Sloth, an unrelated word","Slower, a comparing word","Slowly, an adverb describing how something is done","Slowness, a different noun"], answer:2},
+     {q:"Which word is an adverb formed by adding -ly?", options:["Quieter","Quietly","Quietness","Quiet"], answer:1},
+     {q:"In the sentence she ran quickly, what does the word quickly describe?", options:["How she ran","Where she is going","Who she is","What she is wearing"], answer:0},
+     {q:"Add -ly to the word careful. What new word do you make?", options:["Carefully","Carefuler","Carefulness","Careless"], answer:0},
+     {q:"Adding -ly to an adjective usually creates a word that describes ___.", options:["A person or place","A colour only","How an action happens","A number of objects"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Add -ly to the word quiet. What new word do you make?", answers:["quietly"]},
+     {prompt:"Add -ly to the word slow. What new word do you make?", answers:["slowly"]},
+     {prompt:"Does an adverb ending in -ly usually describe how an action is done?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Multi-Step Word Problems: Addition and Subtraction Together", summary:"Ontario Grade 2 Number strand: students learn to solve word problems that require more than one step, such as adding two amounts together and then subtracting a third amount, to find a final answer.",
+   resourceLabel:"YouTube: Multi-Step Word Problems: Addition and Subtraction Together", resourceUrl:"https://www.youtube.com/results?search_query=Multi-Step%20Word%20Problems%3A%20Addition%20and%20Subtraction%20Together%20grade%202%20educational",
+   quiz:[
+     {q:"A boy has 6 marbles, finds 5 more, then loses 4. How many marbles does he have now?", options:["6","11","8","7"], answer:3},
+     {q:"A class has 12 pencils, gets 8 more, then gives away 6. How many pencils are left?", options:["14","6","12","20"], answer:0},
+     {q:"A farmer has 20 eggs, sells 9, then collects 5 more. How many eggs does the farmer have now?", options:["16","25","15","11"], answer:0},
+     {q:"What is the first step when solving a multi-step word problem?", options:["Skipping the problem entirely","Only reading the last sentence","Guessing the answer with no plan","Figuring out what the problem is asking and what steps are needed"], answer:3},
+     {q:"A store has 15 toys, sells 7, then receives 10 more. How many toys does the store have now?", options:["15","18","25","8"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If you have 5 apples, get 4 more, then give away 3, how many apples do you have left?", answers:["6","six"]},
+     {prompt:"What does a multi-step word problem require you to do?", answers:["more than one step","more than one operation"]},
+     {prompt:"If you start with 10 stickers, get 5 more, then use 2, how many stickers are left?", answers:["13","thirteen"]}
+   ]},
+  {subject:"Science", title:"Symbiosis: When Living Things Help Each Other", summary:"Ontario Grade 2 Life Systems strand: students learn that symbiosis is a close relationship between two different living things, such as bees and flowers, where one or both living things benefit.",
+   resourceLabel:"YouTube: Symbiosis: When Living Things Help Each Other", resourceUrl:"https://www.youtube.com/results?search_query=Symbiosis%3A%20When%20Living%20Things%20Help%20Each%20Other%20grade%202%20educational",
+   quiz:[
+     {q:"What is symbiosis?", options:["A type of rock formation","A single living thing with no relationships","A kind of weather pattern","A close relationship between two different living things"], answer:3},
+     {q:"Which of these is an example of symbiosis?", options:["A cloud floating in the sky","A river flowing downhill","Bees collecting nectar and pollinating flowers","A rock sitting in a field"], answer:2},
+     {q:"How do flowers benefit when bees visit them?", options:["Flowers have no connection to bees","Flowers are harmed every time a bee visits","Bees help spread pollen so flowers can make seeds","Bees never actually visit flowers"], answer:2},
+     {q:"How do bees benefit from visiting flowers?", options:["Bees are harmed by visiting flowers","Bees gain nothing at all from flowers","Bees only visit flowers for shelter","Bees collect nectar from flowers for food"], answer:3},
+     {q:"Symbiosis shows that living things in nature are often ___.", options:["Connected and can help each other","Completely unrelated to each other","Never able to interact at all","Always in danger from each other"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes a close relationship between two different living things?", answers:["symbiosis"]},
+     {prompt:"Name one pair of living things that help each other, like bees and flowers.", answers:["bees and flowers"]},
+     {prompt:"Can symbiosis benefit one or both living things involved?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"The United Nations: Countries Working Together", summary:"Ontario Grade 2 Social Studies strand: students learn that the United Nations is a group made up of many countries, including Canada, that work together to solve world problems and keep peace.",
+   resourceLabel:"YouTube: The United Nations: Countries Working Together", resourceUrl:"https://www.youtube.com/results?search_query=The%20United%20Nations%3A%20Countries%20Working%20Together%20grade%202%20educational",
+   quiz:[
+     {q:"What is the United Nations?", options:["A single countrys government only","A kind of school club","A type of sports league","A group of many countries that work together to solve world problems"], answer:3},
+     {q:"Is Canada a member of the United Nations?", options:["Only some Canadian cities are members","Canada left the United Nations long ago","No, Canada has never joined","Yes, Canada is a member"], answer:3},
+     {q:"What is one goal of the United Nations?", options:["To end all forms of cooperation","To stop countries from ever meeting","To help keep peace around the world","To make every country identical"], answer:2},
+     {q:"Why might countries choose to work together through an organization like the United Nations?", options:["Countries never benefit from working together","This concept has no connection to global citizenship","Working together can help solve problems that affect many countries","Only one single country can solve world problems alone"], answer:2},
+     {q:"The United Nations is best described as an organization that helps countries ___.", options:["Cooperate on shared world problems","Avoid working together at all costs","Compete against each other constantly","Ignore problems in other countries"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the group made up of many countries working together?", answers:["United Nations"]},
+     {prompt:"Is Canada a member of the United Nations?", answers:["yes"]},
+     {prompt:"Does the United Nations try to help keep peace around the world?", answers:["yes"]}
+   ]},
+]},
+{day:97, label:"Day 97 — Tue", subjects:[
+  {subject:"Language", title:"Sentence Variety: Combining Short and Long Sentences", summary:"Ontario Grade 2 Writing strand: students learn that mixing short and long sentences in a piece of writing creates sentence variety, which can make writing more interesting to read.",
+   resourceLabel:"YouTube: Sentence Variety: Combining Short and Long Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Sentence%20Variety%3A%20Combining%20Short%20and%20Long%20Sentences%20grade%202%20educational",
+   quiz:[
+     {q:"What is sentence variety?", options:["Using only short sentences","Mixing short and long sentences in writing","Using only long sentences","Never using any punctuation"], answer:1},
+     {q:"Why might a writer use sentence variety?", options:["Sentence variety makes writing harder to read","To make writing more interesting to read","Writers should always use the exact same sentence length","Sentence variety has no purpose in writing"], answer:1},
+     {q:"Which set of sentences shows good sentence variety?", options:["The dog ran. Excited and full of energy, it bounded across the yard chasing the ball.","Dog. Dog ran. Dog jumped. Dog barked.","The dog ran fast fast fast fast fast.","The dog ran. The dog jumped. The dog barked. The dog played."], answer:0},
+     {q:"What might happen if a writer only uses short, choppy sentences?", options:["The writing always sounds more interesting","Short sentences are always better than long ones","This has no effect on how writing sounds","The writing might sound repetitive or robotic"], answer:3},
+     {q:"Using a mix of sentence lengths can help writing sound more ___.", options:["Repetitive and boring","Confusing and unclear","Natural and engaging","Impossible to read"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call mixing short and long sentences in writing?", answers:["sentence variety"]},
+     {prompt:"Can using only short sentences over and over make writing sound choppy?", answers:["yes"]},
+     {prompt:"Does sentence variety help make writing more interesting to read?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Conducting a Survey and Graphing the Results", summary:"Ontario Grade 2 Data strand: students learn to collect data by asking classmates a survey question, then organize and display the results using a graph, such as a bar graph or pictograph.",
+   resourceLabel:"YouTube: Conducting a Survey and Graphing the Results", resourceUrl:"https://www.youtube.com/results?search_query=Conducting%20a%20Survey%20and%20Graphing%20the%20Results%20grade%202%20educational",
+   quiz:[
+     {q:"What is a survey?", options:["A question asked to collect information from people","A kind of math equation","A type of graph only","A drawing of a shape"], answer:0},
+     {q:"After conducting a survey about favourite fruits, what is a good next step?", options:["Organize the results and display them on a graph","Ask the exact same question forever","Ignore what people said","Throw away all the answers"], answer:0},
+     {q:"Which of these could be a good survey question for a class?", options:["What is 5 plus 5?","What colour is the sky today?","What is your favourite season?","What is the capital of France?"], answer:2},
+     {q:"Why is it useful to graph the results of a survey?", options:["A graph makes the results easier to see and compare","Surveys should never be graphed","Graphs make survey results harder to understand","Graphing has no connection to data"], answer:0},
+     {q:"Collecting survey data and graphing it is part of the ___ strand in math.", options:["Patterning","Data","Geometry","Measurement"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call asking people a question to collect information?", answers:["a survey"]},
+     {prompt:"After collecting survey data, what can be used to display the results?", answers:["a graph","a bar graph","a pictograph"]},
+     {prompt:"Does a survey help us collect information from a group of people?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"How Animals Communicate: Sounds, Signals, and Body Language", summary:"Ontario Grade 2 Life Systems strand: students learn that animals communicate with each other using sounds, body language, and signals, such as a dog wagging its tail or a bird singing a song.",
+   resourceLabel:"YouTube: How Animals Communicate: Sounds, Signals, and Body Language", resourceUrl:"https://www.youtube.com/results?search_query=How%20Animals%20Communicate%3A%20Sounds%2C%20Signals%2C%20and%20Body%20Language%20grade%202%20educational",
+   quiz:[
+     {q:"Which of these is a way animals communicate?", options:["Using a telephone","Reading a book","Writing a letter","Making sounds"], answer:3},
+     {q:"What might a dog wagging its tail be communicating?", options:["That it cannot see anything","That it is asleep","That it feels happy or excited","That it is a different animal"], answer:2},
+     {q:"Why might a bird sing a song?", options:["Birds never make any sounds","Only humans can communicate with sound","To communicate with other birds","Singing has no purpose for birds"], answer:2},
+     {q:"Which of these is an example of animal body language?", options:["A cat with closed eyes","A cat arching its back when scared","A cat sleeping quietly","A cat eating its food"], answer:1},
+     {q:"Animal communication helps animals ___.", options:["Warn others, find mates, or protect their group","Ignore danger completely","Never interact with other animals","Avoid all other animals forever"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one way an animal might communicate, like making a sound or using body language.", answers:["sound","body language"]},
+     {prompt:"Can a wagging tail be a way a dog communicates?", answers:["yes"]},
+     {prompt:"Do animals use sounds to communicate with each other?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Agriculture Regions: What Grows Where", summary:"Ontario Grade 2 Social Studies strand: students learn that different regions of Canada grow different crops and raise different animals based on their climate and land, such as wheat on the Prairies and fruit in Ontario.",
+   resourceLabel:"YouTube: Canadian Agriculture Regions: What Grows Where", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Agriculture%20Regions%3A%20What%20Grows%20Where%20grade%202%20educational",
+   quiz:[
+     {q:"Which crop is commonly grown on the Canadian Prairies?", options:["Pineapples","Bananas","Coconuts","Wheat"], answer:3},
+     {q:"Why does the Prairie region grow so much wheat?", options:["Its flat land and climate are well suited to growing grain crops","Wheat cannot grow anywhere in Canada","The Prairies have no farmland at all","The Prairies are covered entirely in ice year-round"], answer:0},
+     {q:"What helps farmers decide what crops to grow in a region?", options:["The climate and type of land in that region","The name of the province only","The colour of the sky","Farmers never consider climate or land"], answer:0},
+     {q:"Which of these is grown in parts of Ontario?", options:["Fruit, such as apples and peaches","Only bananas","Only rice","Only coconuts"], answer:0},
+     {q:"Comparing farming across Canadian regions helps us understand ___.", options:["That farming does not exist in Canada","That every region grows the exact same crops","That climate has no effect on farming","How climate and land affect what people grow"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one crop grown in a Canadian region, like wheat on the Prairies.", answers:["wheat"]},
+     {prompt:"Does the type of crop grown in a region depend on its climate and land?", answers:["yes"]},
+     {prompt:"Name one fruit or crop commonly grown in Ontario.", answers:["fruit","corn","apples"]}
+   ]},
+]},
+{day:98, label:"Day 98 — Wed", subjects:[
+  {subject:"Language", title:"Personal Narrative Writing: Telling a True Story About Yourself", summary:"Ontario Grade 2 Writing strand: students learn to write a personal narrative, a true story about something that happened to them, told in order with a beginning, middle, and end, and including their own feelings.",
+   resourceLabel:"YouTube: Personal Narrative Writing: Telling a True Story About Yourself", resourceUrl:"https://www.youtube.com/results?search_query=Personal%20Narrative%20Writing%3A%20Telling%20a%20True%20Story%20About%20Yourself%20grade%202%20educational",
+   quiz:[
+     {q:"What is a personal narrative?", options:["A made-up story about dragons","A true story about something that happened to the writer","A drawing with no words","A list of math facts"], answer:1},
+     {q:"Which of these would be a good topic for a personal narrative?", options:["The life cycle of a butterfly","The capital city of Ontario","A time you visited your grandparents","How to multiply two numbers"], answer:2},
+     {q:"Why might a writer include their own feelings in a personal narrative?", options:["Feelings should never be included in writing","It helps readers understand the experience more fully","Personal narratives cannot include any feelings","This concept has no connection to narrative writing"], answer:1},
+     {q:"A personal narrative is different from a book review because a narrative ___.", options:["Only reviews someone elses book","Tells a true story about the writer","Is always about a made-up character","Never includes any events"], answer:1},
+     {q:"A well organized personal narrative usually has a ___.", options:["Only a title page","No clear order at all","Only a middle","Beginning, middle, and end"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What kind of writing tells a true story about something that happened to you?", answers:["personal narrative"]},
+     {prompt:"Should a personal narrative be told in order, with a beginning, middle, and end?", answers:["yes"]},
+     {prompt:"Can a personal narrative include how you felt during the event?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Problem Solving: Choosing the Right Operation", summary:"Ontario Grade 2 Number strand: students learn to read a word problem carefully and decide whether to add, subtract, multiply, or divide based on the clues and the question being asked.",
+   resourceLabel:"YouTube: Problem Solving: Choosing the Right Operation", resourceUrl:"https://www.youtube.com/results?search_query=Problem%20Solving%3A%20Choosing%20the%20Right%20Operation%20grade%202%20educational",
+   quiz:[
+     {q:"If a problem asks how many items are left after some are given away, which operation should you use?", options:["Subtraction","Addition","Multiplication","Division"], answer:0},
+     {q:"If a problem asks for the total after combining two groups, which operation should you use?", options:["Comparison","Addition","Subtraction","Division"], answer:1},
+     {q:"If a problem asks how many items are in 4 equal groups of 5, which operation should you use?", options:["Subtraction","Addition of only one number","Division","Multiplication"], answer:3},
+     {q:"If a problem asks how many equal groups can be made when sharing 20 items among 4 friends, which operation should you use?", options:["Addition","Multiplication","Subtraction","Division"], answer:3},
+     {q:"Why is it important to read a word problem carefully before solving it?", options:["Reading carefully has no effect on solving problems","Every problem always uses the same operation","The words in a problem never matter","It helps you choose the correct operation to use"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If a word problem asks how many are left, which operation might you use?", answers:["subtraction","subtract"]},
+     {prompt:"If a word problem asks for a total when joining groups together, which operation might you use?", answers:["addition","add"]},
+     {prompt:"If a word problem asks how many equal groups can be made from a total, which operation might you use?", answers:["division","divide"]}
+   ]},
+  {subject:"Science", title:"Extreme Weather: Storms and Severe Conditions", summary:"Ontario Grade 2 Earth and Space Systems strand: students learn about extreme weather events, such as thunderstorms, blizzards, and high winds, and how people can stay safe when severe weather happens.",
+   resourceLabel:"YouTube: Extreme Weather: Storms and Severe Conditions", resourceUrl:"https://www.youtube.com/results?search_query=Extreme%20Weather%3A%20Storms%20and%20Severe%20Conditions%20grade%202%20educational",
+   quiz:[
+     {q:"Which of these is an example of extreme weather?", options:["A light cloud","A gentle breeze","A calm, sunny day","A thunderstorm"], answer:3},
+     {q:"What is a blizzard?", options:["A warm, sunny day","A calm winter morning","A light rain shower","A severe snowstorm with strong winds"], answer:3},
+     {q:"Why is it important to know about extreme weather?", options:["Extreme weather never actually happens","Extreme weather is never dangerous","So people can prepare and stay safe","Knowing about weather has no benefit"], answer:2},
+     {q:"Which of these is a safe action during a thunderstorm?", options:["Staying indoors away from windows","Swimming in an open lake","Flying a kite outside","Standing under a tall tree outside"], answer:0},
+     {q:"Extreme weather events can include storms with ___.", options:["Only gentle breezes","No weather at all","Strong winds, heavy snow, or thunder and lightning","Only clear blue skies"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one type of extreme weather, like a thunderstorm or blizzard.", answers:["thunderstorm","blizzard"]},
+     {prompt:"Can extreme weather include very strong winds?", answers:["yes"]},
+     {prompt:"Is it important to stay safe during severe weather?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Canada and Its Neighbour: Sharing a Border with the United States", summary:"Ontario Grade 2 Social Studies strand: students learn that Canada shares a long border with the United States, its neighbouring country to the south, and that people, goods, and ideas often cross between the two countries.",
+   resourceLabel:"YouTube: Canada and Its Neighbour: Sharing a Border with the United States", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20Its%20Neighbour%3A%20Sharing%20a%20Border%20with%20the%20United%20States%20grade%202%20educational",
+   quiz:[
+     {q:"Which country shares a long border with Canada to the south?", options:["Brazil","Mexico","The United States","France"], answer:2},
+     {q:"What might cross the border between Canada and the United States?", options:["Only animals cross the border","People, goods, and ideas","Only mail crosses the border","Nothing ever crosses the border"], answer:1},
+     {q:"Why might Canada and the United States work together on some issues?", options:["The two countries have no connection at all","Neighbouring countries never work together","They are located on opposite sides of the world","They are close neighbours who share a long border"], answer:3},
+     {q:"Sharing a border with another country can lead to shared ___.", options:["Trade and travel between the two countries","Two countries becoming exactly identical","No interaction of any kind","A complete lack of any connection"], answer:0},
+     {q:"Canada is located ___ of the United States.", options:["East","North","West","South"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What country is located just south of Canada, sharing a long border?", answers:["United States"]},
+     {prompt:"Do people and goods sometimes cross the border between Canada and the United States?", answers:["yes"]},
+     {prompt:"Is the United States a neighbouring country of Canada?", answers:["yes"]}
+   ]},
+]},
+{day:99, label:"Day 99 — Thu", subjects:[
+  {subject:"Language", title:"Comparing Fiction and Nonfiction Texts", summary:"Ontario Grade 2 Reading strand: students learn to compare fiction texts, which tell made-up stories, with nonfiction texts, which give true facts and information about real topics.",
+   resourceLabel:"YouTube: Comparing Fiction and Nonfiction Texts", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Fiction%20and%20Nonfiction%20Texts%20grade%202%20educational",
+   quiz:[
+     {q:"What is fiction?", options:["A list of numbers","A text that gives only true facts","A made-up story that is not literally true","A drawing with no text"], answer:2},
+     {q:"What is nonfiction?", options:["A text that gives true facts and information","A made-up story about talking animals","A story that is always false","A poem with no real meaning"], answer:0},
+     {q:"Which of these is most likely a nonfiction book?", options:["A book about a talking dragon","A book about a magic castle","A book about how volcanoes form","A book about a wizard school"], answer:2},
+     {q:"Which of these is most likely a fiction book?", options:["A book explaining the water cycle","A book about famous Canadian inventors","A book about how plants grow","A story about a superhero with magic powers"], answer:3},
+     {q:"Comparing fiction and nonfiction helps readers understand ___.", options:["The difference between made-up stories and true information","That only fiction books exist","That every book is exactly the same","That fiction and nonfiction have no differences"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Does a fiction text tell a made-up story or give true facts?", answers:["made-up story","a made-up story"]},
+     {prompt:"Does a nonfiction text give true facts about a real topic?", answers:["yes"]},
+     {prompt:"Is a book about dragons flying likely to be fiction or nonfiction?", answers:["fiction"]}
+   ]},
+  {subject:"Math", title:"Problem Solving: Choosing the Right Operation (Applied Practice)", summary:"Ontario Grade 2 Number strand: students apply their understanding of addition, subtraction, multiplication, and division to solve a variety of real-life word problems by first identifying what operation is needed.",
+   resourceLabel:"YouTube: Problem Solving: Choosing the Right Operation (Applied Practice)", resourceUrl:"https://www.youtube.com/results?search_query=Problem%20Solving%3A%20Choosing%20the%20Right%20Operation%20%28Applied%20Practice%29%20grade%202%20educational",
+   quiz:[
+     {q:"If 3 friends each have 4 stickers, how many stickers do they have altogether?", options:["12","9","7","15"], answer:0},
+     {q:"If a baker makes 24 muffins and sells 15, how many muffins are left?", options:["9","39","15","24"], answer:0},
+     {q:"If 18 crayons are shared equally among 3 children, how many crayons does each child get?", options:["15","21","6","3"], answer:2},
+     {q:"A problem states a class collected 45 cans on Monday and 30 more on Tuesday. What operation finds the total?", options:["Multiplication","Division","Subtraction","Addition"], answer:3},
+     {q:"Applying the correct operation to a real-life problem helps us find the ___.", options:["Longest possible answer","Accurate and reasonable answer","Answer with no connection to the problem","Least accurate answer possible"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If a problem asks how many stickers 3 friends have altogether if each has 4, which operation would you use?", answers:["multiplication","multiply"]},
+     {prompt:"If a problem asks how many are left after some are used, which operation would you use?", answers:["subtraction","subtract"]},
+     {prompt:"Why is it helpful to identify the operation before solving a word problem?", answers:["it helps you solve it correctly","to solve correctly"]}
+   ]},
+  {subject:"Science", title:"Ecosystems: How Living and Non-Living Things Work Together", summary:"Ontario Grade 2 Life Systems strand: students learn that an ecosystem is made up of living things, such as plants and animals, and non-living things, such as water, air, and soil, all interacting together in one place.",
+   resourceLabel:"YouTube: Ecosystems: How Living and Non-Living Things Work Together", resourceUrl:"https://www.youtube.com/results?search_query=Ecosystems%3A%20How%20Living%20and%20Non-Living%20Things%20Work%20Together%20grade%202%20educational",
+   quiz:[
+     {q:"What is an ecosystem?", options:["A single plant growing alone","Only the rocks and water in a place","Living and non-living things interacting together in one place","Only the living things in a forest"], answer:2},
+     {q:"Which of these is a non-living part of an ecosystem?", options:["A bird","Soil","A tree","A fish"], answer:1},
+     {q:"Which of these is a living part of an ecosystem?", options:["A plant","Water","Sunlight","Air"], answer:0},
+     {q:"Why do living things in an ecosystem depend on non-living things?", options:["They need things like water, air, and sunlight to survive","Non-living things have no effect on living things","Living things need nothing from their surroundings","This concept has no connection to ecosystems"], answer:0},
+     {q:"An ecosystem is best described as a place where living and non-living things ___.", options:["Have no connection whatsoever","Never interact with each other at all","Interact and depend on each other","Exist completely separately"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What word describes living and non-living things interacting together in one place?", answers:["ecosystem"]},
+     {prompt:"Name one non-living part of an ecosystem, like water or soil.", answers:["water","air","soil"]},
+     {prompt:"Do living things in an ecosystem depend on non-living things like water and air?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Peacekeeping: Helping Keep the Peace Around the World", summary:"Ontario Grade 2 Social Studies strand: students learn that Canada has a history of sending peacekeepers to help calm conflicts and support peace in other parts of the world.",
+   resourceLabel:"YouTube: Canadian Peacekeeping: Helping Keep the Peace Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Peacekeeping%3A%20Helping%20Keep%20the%20Peace%20Around%20the%20World%20grade%202%20educational",
+   quiz:[
+     {q:"What is a peacekeeper?", options:["A person sent to help calm conflict and support peace","A type of weather forecaster","A person who starts conflicts","A person who ignores world events"], answer:0},
+     {q:"Has Canada historically taken part in peacekeeping missions?", options:["No, Canada has never taken part","Peacekeeping has never existed","Yes, Canada has a history of peacekeeping","Only other countries take part in peacekeeping"], answer:2},
+     {q:"Why might a country send peacekeepers to another region?", options:["To help support peace during a conflict","To ignore problems happening elsewhere","Peacekeepers have no real purpose","To make a conflict worse"], answer:0},
+     {q:"Peacekeeping is connected to which broader idea learned in social studies?", options:["Countries always working alone","Ignoring problems in other countries","Avoiding all international cooperation","Countries working together, like through the United Nations"], answer:3},
+     {q:"Canadian peacekeepers are best described as people who help ___.", options:["Stay only within Canadian borders","Avoid helping anyone at all","Support peace in other parts of the world","Create new conflicts around the world"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What word describes people sent to help calm conflict and support peace?", answers:["peacekeepers"]},
+     {prompt:"Has Canada sent peacekeepers to help in other parts of the world?", answers:["yes"]},
+     {prompt:"Does peacekeeping aim to support peace during a conflict?", answers:["yes"]}
+   ]},
+]},
+{day:100, label:"Day 100 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Figurative Language, Word Parts, and Text Types", summary:"Students review recent Language skills: personification, irregular plural nouns, making inferences, using a table of contents and index, prefixes dis- and mis-, suffixes -ly, sentence variety, personal narrative writing, and comparing fiction and nonfiction.",
+   resourceLabel:"YouTube: Language Review: Figurative Language, Word Parts, and Text Types", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Figurative%20Language%2C%20Word%20Parts%2C%20and%20Text%20Types%20grade%202%20educational",
+   quiz:[
+     {q:"Which sentence is an example of personification?", options:["The stars winked at us from the sky.","The stars are far away in the sky.","The sky was dark and clear.","The sky has many stars in it."], answer:0},
+     {q:"What is the plural of tooth?", options:["Teeths","Toothes","Tooths","Teeth"], answer:3},
+     {q:"Which word means the opposite of obey?", options:["Obeyful","Disobey","Reobey","Obeyness"], answer:1},
+     {q:"What is a personal narrative?", options:["A made-up story about dragons","A drawing with no words","A list of math facts","A true story about something that happened to the writer"], answer:3},
+     {q:"Which of these is most likely a nonfiction book?", options:["A book about a talking dragon","A book about how volcanoes form","A book about a magic castle","A book about a wizard school"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call giving human qualities to an object, like saying the wind whispered?", answers:["personification"]},
+     {prompt:"What is the plural form of the word mouse?", answers:["mice"]},
+     {prompt:"What is an inference?", answers:["a conclusion made using text clues and what you already know","a conclusion using clues"]}
+   ]},
+  {subject:"Math", title:"Math Review: Multiplication, Fractions, and Problem Solving", summary:"Students review recent Math skills: multiplication facts for 8s and 9s, division with remainders, naming fraction parts, rounding to the nearest hundred, equivalent fractions, multi-step word problems, surveys and graphing, and choosing the right operation.",
+   resourceLabel:"YouTube: Math Review: Multiplication, Fractions, and Problem Solving", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Fractions%2C%20and%20Problem%20Solving%20grade%202%20educational",
+   quiz:[
+     {q:"What is 9 times 3?", options:["30","18","24","27"], answer:3},
+     {q:"What is 620 rounded to the nearest hundred?", options:["650","500","600","700"], answer:2},
+     {q:"Which fraction is equivalent to one half?", options:["Three quarters","One quarter","One third","Two quarters"], answer:3},
+     {q:"A boy has 6 marbles, finds 5 more, then loses 4. How many marbles does he have now?", options:["7","6","11","8"], answer:0},
+     {q:"If a problem asks for the total after combining two groups, which operation should you use?", options:["Addition","Comparison","Subtraction","Division"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is 8 times 4?", answers:["32","thirty-two"]},
+     {prompt:"What do we call the amount left over when a group cannot be shared equally?", answers:["remainder"]},
+     {prompt:"In the fraction 3 over 4, what number is the numerator?", answers:["3","three"]}
+   ]},
+  {subject:"Science", title:"Science Review: Animals, Earth, and Ecosystems", summary:"Students review recent Science topics: vertebrates and invertebrates, the nervous system, layers of the Earth, volcanoes, animal body coverings, symbiosis, how animals communicate, extreme weather, and ecosystems.",
+   resourceLabel:"YouTube: Science Review: Animals, Earth, and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Earth%2C%20and%20Ecosystems%20grade%202%20educational",
+   quiz:[
+     {q:"Which of these is a vertebrate?", options:["A spider","A fish","A snail","A worm"], answer:1},
+     {q:"What is a volcano?", options:["A kind of ocean current","An opening in the Earth crust where melted rock can erupt","A type of large lake","A very tall, cold mountain only"], answer:1},
+     {q:"Which animal body covering do birds usually have?", options:["Shells","Feathers","Scales","Fur"], answer:1},
+     {q:"Which of these is an example of extreme weather?", options:["A thunderstorm","A calm, sunny day","A gentle breeze","A light cloud"], answer:0},
+     {q:"What is an ecosystem?", options:["A single plant growing alone","Only the living things in a forest","Only the rocks and water in a place","Living and non-living things interacting together in one place"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call an animal that has a backbone?", answers:["vertebrate"]},
+     {prompt:"What is the outer layer of the Earth called, the one we live on?", answers:["crust"]},
+     {prompt:"What word describes a close relationship between two different living things?", answers:["symbiosis"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Government, History, and Geography", summary:"Students review recent Social Studies topics: provincial and territorial symbols, levels of leadership, voting and elections, the fur trade, treaties, the United Nations, Canadian agriculture regions, Canada and the United States, and peacekeeping.",
+   resourceLabel:"YouTube: Social Studies Review: Government, History, and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20History%2C%20and%20Geography%20grade%202%20educational",
+   quiz:[
+     {q:"Who leads a province, such as Ontario?", options:["The governor","The mayor","The prime minister","The premier"], answer:3},
+     {q:"Which animal fur was especially important during the fur trade?", options:["The kangaroo","The elephant","The lion","The beaver"], answer:3},
+     {q:"What is the United Nations?", options:["A group of many countries that work together to solve world problems","A single countrys government only","A kind of school club","A type of sports league"], answer:0},
+     {q:"Which crop is commonly grown on the Canadian Prairies?", options:["Bananas","Wheat","Coconuts","Pineapples"], answer:1},
+     {q:"Which country shares a long border with Canada to the south?", options:["Mexico","The United States","Brazil","France"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Who leads the entire country of Canada?", answers:["prime minister"]},
+     {prompt:"What is an election?", answers:["an event where people vote to choose their leaders","people vote to choose leaders"]},
+     {prompt:"What is a treaty?", answers:["a formal agreement, often about sharing land and resources","a formal agreement"]}
+   ]},
+]},
 ];
 
 export default curriculum;
