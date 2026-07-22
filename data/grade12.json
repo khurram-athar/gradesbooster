@@ -7690,6 +7690,7 @@
         "summary": "Grade 12 Advanced Functions strand: matrices provide a systematic method for solving systems of linear equations, often using techniques like row reduction to find the values that satisfy all equations simultaneously.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=seet9VyHo3Q",
         "quiz": [
           {
             "q": "Matrices provide a systematic method for solving ___.",
@@ -9384,6 +9385,7 @@
         "summary": "Grade 12 Advanced Functions strand review: this lesson revisits matrices, solving systems with matrices, rational inequalities, parametric equations, polar coordinates, and mathematical induction.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=m6c6dlmUT1c",
         "quiz": [
           {
             "q": "A matrix is best described as ___.",
@@ -9868,6 +9870,7 @@
         "summary": "Grade 12 Advanced Functions strand: the determinant of a matrix is a single number that reveals key properties, including whether the matrix has an inverse, which can be used to solve systems of equations.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=GuFvSwriy1Q",
         "quiz": [
           {
             "q": "The determinant of a matrix is ___.",
@@ -13498,6 +13501,7 @@
         "summary": "Grade 12 Advanced Functions strand: a transformation matrix can rotate, reflect, or scale points in the plane, and multiplying a point’s coordinate vector by the matrix produces the coordinates of the transformed point.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=XkY2DOUCWMU",
         "quiz": [
           {
             "q": "A transformation matrix can rotate, reflect, or ___ points in the plane.",
@@ -18338,6 +18342,7 @@
         "summary": "Grade 12 Advanced Functions strand: a Markov chain models a system that moves between a finite set of states, where the probability of moving to the next state depends only on the current state, with these probabilities organized into a transition matrix used to project the system’s behaviour forward.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=1GKtfgwf3ig",
         "quiz": [
           {
             "q": "A Markov chain models a system that moves between a finite set of ___.",

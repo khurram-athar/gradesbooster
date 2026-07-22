@@ -1311,6 +1311,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Systems of Equations: Solving with Matrices", summary:"Grade 12 Advanced Functions strand: matrices provide a systematic method for solving systems of linear equations, often using techniques like row reduction to find the values that satisfy all equations simultaneously.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=seet9VyHo3Q",
    quiz:[
      {q:"Matrices provide a systematic method for solving ___.", options:["A concept unrelated to solving equations","Only a single equation, with no system involved","Systems of linear equations","Data with no connection to linear relationships"], answer:2},
      {q:"Row reduction is a technique used to ___.", options:["Only change the colour of a matrix’s display","Simplify a matrix to help solve a system of equations","Add unnecessary complexity to a matrix with no benefit","A process unrelated to solving systems of equations"], answer:1},
@@ -1577,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Review: Matrices, Parametric, and Polar Concepts", summary:"Grade 12 Advanced Functions strand review: this lesson revisits matrices, solving systems with matrices, rational inequalities, parametric equations, polar coordinates, and mathematical induction.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=m6c6dlmUT1c",
    quiz:[
      {q:"A matrix is best described as ___.", options:["A rectangular array of numbers organized in rows and columns","A single number with no organized structure","Only a graph with no numerical values","A concept unrelated to organizing numerical data"], answer:0},
      {q:"Parametric equations define x and y coordinates separately in terms of a ___.", options:["Third variable, called a parameter","Single, fixed constant with no variation","Concept entirely unrelated to coordinates","Colour, with no connection to numerical values"], answer:0},
@@ -1653,6 +1655,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Matrices: Determinants and Inverses", summary:"Grade 12 Advanced Functions strand: the determinant of a matrix is a single number that reveals key properties, including whether the matrix has an inverse, which can be used to solve systems of equations.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=GuFvSwriy1Q",
    quiz:[
      {q:"The determinant of a matrix is ___.", options:["A completely separate matrix with no connection to the original","Always equal to zero for every matrix","A concept unrelated to matrices","A single number that reveals key properties of the matrix"], answer:3},
      {q:"A matrix has an inverse only if its determinant is ___.", options:["Not equal to zero","Always equal to exactly zero","A negative number in every single case","A factor entirely unrelated to whether an inverse exists"], answer:0},
@@ -2223,6 +2226,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Matrices: Applications to Transformations in the Plane", summary:"Grade 12 Advanced Functions strand: a transformation matrix can rotate, reflect, or scale points in the plane, and multiplying a point’s coordinate vector by the matrix produces the coordinates of the transformed point.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=XkY2DOUCWMU",
    quiz:[
      {q:"A transformation matrix can rotate, reflect, or ___ points in the plane.", options:["A concept unrelated to matrix transformations","Permanently erase, with no way to recover the original points","Convert into a completely different, unrelated shape with no geometric relationship","Scale"], answer:3},
      {q:"Multiplying a point’s coordinate vector by a transformation matrix produces the coordinates of the ___.", options:["A concept unrelated to matrix transformations","Transformed point","Original, completely unchanged point","Matrix’s determinant exclusively, with no connection to the point’s new location"], answer:1},
@@ -2983,6 +2987,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Functions: Markov Chains and Transition Matrices", summary:"Grade 12 Advanced Functions strand: a Markov chain models a system that moves between a finite set of states, where the probability of moving to the next state depends only on the current state, with these probabilities organized into a transition matrix used to project the system’s behaviour forward.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=1GKtfgwf3ig",
    quiz:[
      {q:"A Markov chain models a system that moves between a finite set of ___.", options:["States","Colours, a concept unrelated to how a Markov chain is structured","A concept unrelated to this mathematical model","Constants, a concept unrelated to how a Markov chain is structured"], answer:0},
      {q:"In a Markov chain, the probability of moving to the next state depends only on the ___ state.", options:["A concept unrelated to how a Markov chain’s probabilities work","Final, an inaccurate description of this defining memoryless property","Very first, an inaccurate description of this defining memoryless property","Current"], answer:3},

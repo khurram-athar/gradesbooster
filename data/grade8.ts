@@ -2216,6 +2216,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"Language", title:"Writing: The Personal Narrative Essay", summary:"Grade 8 Writing strand: a personal narrative essay recounts a meaningful experience from the writer’s life, using descriptive detail, a clear sequence of events, and reflection on what the experience taught them.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=Mq--Db6S09I",
    quiz:[
      {q:"A personal narrative essay recounts ___.", options:["A concept unrelated to this type of writing","A meaningful experience from the writer’s own life","A completely fictional story with no connection to the writer","Only factual, impersonal information with no story involved"], answer:1},
      {q:"An effective personal narrative often includes ___.", options:["A concept unrelated to personal narratives","A random, unordered collection of unrelated events","No details or descriptions of any kind","Descriptive detail and a clear sequence of events"], answer:3},

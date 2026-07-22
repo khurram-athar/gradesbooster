@@ -1552,6 +1552,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Renewable Energy: Solar, Wind, and Hydro Technologies", summary:"Ontario Grade 6 Science Matter and Energy strand: technologies like solar panels, wind turbines, and hydroelectric dams harness renewable natural energy sources to generate electricity with reduced environmental impact.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=XpF9zc57HAE",
    quiz:[
      {q:"Solar panel technology captures energy from ___.", options:["Underground heat only","Wind","Sunlight","Ocean tides only"], answer:2},
      {q:"Wind turbine technology captures energy from ___.", options:["Sunlight","Underground heat","Coal combustion","The motion of wind"], answer:3},
