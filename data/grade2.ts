@@ -4,7 +4,7 @@ const curriculum: DayContent[] = [
 {day:1, label:"Day 1 — Mon", subjects:[
   {subject:"Language", title:"Short Vowel Sounds", summary:"Practice blending short vowel sounds (a, e, i, o, u) in simple words like cat, bed, pig, hop, sun — a Grade 1 foundation skill Grade 2 builds on.",
    resourceLabel:"YouTube: Short Vowel Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Short%20Vowel%20Sounds%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=69qq1D3j8w8",
+   videoUrl:"https://www.youtube.com/watch?v=-EbzKgs6Aiw",
    quiz:[
      {q:"Which word has the short 'a' sound?", options:["car","cake","cat","cane"], answer:2},
      {q:"Which word has the short 'i' sound?", options:["pig","pie","pine","pi"], answer:0},
@@ -86,7 +86,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Growth and Changes in Animals", summary:"Ontario Life Systems strand for Grade 2: animals grow and change through life cycles and need certain things to survive.",
    resourceLabel:"YouTube: Growth and Changes in Animals", resourceUrl:"https://www.youtube.com/results?search_query=Growth%20and%20Changes%20in%20Animals%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=sipMwrk2E9A",
+   videoUrl:"https://www.youtube.com/watch?v=LHcQWk1dHzk",
    quiz:[
      {q:"What is a life cycle?", options:["The stages of an animal's growth","A type of bicycle","A season","A kind of food"], answer:0},
      {q:"A caterpillar changes into a...", options:["Frog","Fish","Bird","Butterfly or moth"], answer:3},
@@ -138,7 +138,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities Around the World", summary:"Ontario People & Environment strand: communities around the world look different based on climate, land, and culture, but all communities help meet people's needs.",
    resourceLabel:"YouTube: Communities Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Communities%20Around%20the%20World%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lPS7OBjgOdk",
+   videoUrl:"https://www.youtube.com/watch?v=A96dvMFqxk4",
    quiz:[
      {q:"Why do communities around the world look different?", options:["Random chance only","No reason","Different climates, land, and cultures","They are all the same"], answer:2},
      {q:"A community near the ocean might rely on...", options:["Fishing","Desert farming only","Nothing special","Snowplowing year round"], answer:0},
@@ -338,7 +338,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Changes in Matter: Melting and Freezing", summary:"Matter can change state — solids can melt into liquids, and liquids can freeze into solids.",
    resourceLabel:"YouTube: Changes in Matter: Melting and Freezing", resourceUrl:"https://www.youtube.com/results?search_query=Changes%20in%20Matter%3A%20Melting%20and%20Freezing%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=C1JXhzgvUIA",
+   videoUrl:"https://www.youtube.com/watch?v=ZnizM4qb06I",
    quiz:[
      {q:"What happens to ice when it gets warm?", options:["Nothing happens","It melts into water","It disappears completely","It becomes a gas instantly"], answer:1},
      {q:"What happens to water when it gets very cold?", options:["It freezes into ice","It disappears","Nothing happens","It becomes a gas"], answer:0},
@@ -432,7 +432,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of community, traditions, maps, rules, jobs, and types of communities.",
    resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=wqZRGHva1iE",
+   videoUrl:"https://www.youtube.com/watch?v=4Ub0dIC4ezw",
    quiz:[
      {q:"A community is a group of people who...", options:["Live and help each other","Only work","Never meet","Live alone"], answer:0},
      {q:"What does a map legend explain?", options:["Nothing","A story","Symbols on the map","The weather"], answer:2},
@@ -454,7 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition Within 100 (No Regrouping)", summary:"We can add two-digit numbers by adding the tens together and the ones together, like 32 + 15 = 47.",
    resourceLabel:"YouTube: Addition Within 100 (No Regrouping)", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28No%20Regrouping%29%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Q9sLfMrH8_w",
+   videoUrl:"https://www.youtube.com/watch?v=c4xw9DqOKH4",
    quiz:[
      {q:"23 + 14 = ?", options:["36","38","37","27"], answer:2},
      {q:"41 + 25 = ?", options:["64","65","56","66"], answer:3},
@@ -674,7 +674,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Materials", summary:"Materials have properties that describe what they are like — hard or soft, rough or smooth, flexible or stiff, shiny or dull. These properties help us decide how to use them.",
    resourceLabel:"YouTube: Properties of Materials", resourceUrl:"https://www.youtube.com/results?search_query=Properties%20of%20Materials%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=iOfS7hoTwM0",
+   videoUrl:"https://www.youtube.com/watch?v=veUUii1U8-o",
    quiz:[
      {q:"Which word describes a surface you might feel on sandpaper?", options:["Smooth","Wet","Rough","Soft"], answer:2},
      {q:"A material that can bend without breaking is called...", options:["Flexible","Stiff","Heavy","Hard"], answer:0},
@@ -800,7 +800,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Parts of the Human Body", summary:"Our body has many parts that work together: head, shoulders, arms, hands, chest, stomach, legs, knees, and feet. Each part has an important job.",
    resourceLabel:"YouTube: Parts of the Human Body", resourceUrl:"https://www.youtube.com/results?search_query=Parts%20of%20the%20Human%20Body%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=AHQGNb0zBgg",
+   videoUrl:"https://www.youtube.com/watch?v=B3Fv2X8EKfE",
    quiz:[
      {q:"Which body part helps you walk and run?", options:["Arms","Ears","Nose","Legs and feet"], answer:3},
      {q:"What does your heart do?", options:["Helps you move your arms","Helps you see","Helps you smell","Pumps blood through your body"], answer:3},
@@ -832,7 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Patterns, Fractions, Graphs & Equal Groups", summary:"Mixed review of growing/shrinking patterns, fractions, reading graphs, and equal groups.",
    resourceLabel:"YouTube: Review: Patterns, Fractions, Graphs & Equal Groups", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Patterns%2C%20Fractions%2C%20Graphs%20%26%20Equal%20Groups%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-OyBdgTgQzE",
+   videoUrl:"https://www.youtube.com/watch?v=gzFbUZ8VjEg",
    quiz:[
      {q:"What comes next: 4, 8, 12, 16, __?", options:["19","20","22","18"], answer:1},
      {q:"A pizza cut into 4 equal parts — each part is...", options:["One whole","One third","One quarter","One half"], answer:2},
@@ -852,7 +852,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Money, Continents, Environment & Citizenship", summary:"Mixed review of money and trading, continents and oceans, caring for the environment, and good citizenship.",
    resourceLabel:"YouTube: Review: Money, Continents, Environment & Citizenship", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Money%2C%20Continents%2C%20Environment%20%26%20Citizenship%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=wqZRGHva1iE",
+   videoUrl:"https://www.youtube.com/watch?v=FVQhFIF2-tI",
    quiz:[
      {q:"What is bartering?", options:["Saving coins","Trading goods without money","Buying things with money","Spending all money"], answer:1},
      {q:"How many continents are there?", options:["8","7","6","5"], answer:1},
@@ -1084,7 +1084,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition Within 100 (Review and Challenge)", summary:"Practice adding two-digit numbers. Remember to add the ones first, then the tens. Some questions will challenge your thinking!",
    resourceLabel:"YouTube: Addition Within 100 (Review and Challenge)", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28Review%20and%20Challenge%29%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lPOJeo3qj48",
+   videoUrl:"https://www.youtube.com/watch?v=YdF_A1O006Q",
    quiz:[
      {q:"45 + 32 = ?", options:["67","76","77","78"], answer:2},
      {q:"63 + 15 = ?", options:["77","79","88","78"], answer:3},
@@ -1104,7 +1104,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"People and the Environment: Making a Difference", summary:"People can both harm and help the environment. Pollution harms nature, but acts like planting trees, picking up litter, and saving energy help protect it for future generations.",
    resourceLabel:"YouTube: People and the Environment: Making a Difference", resourceUrl:"https://www.youtube.com/results?search_query=People%20and%20the%20Environment%3A%20Making%20a%20Difference%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=7qkaz8ChelI",
+   videoUrl:"https://www.youtube.com/watch?v=belXC_IoW4o",
    quiz:[
      {q:"Which human action HARMS the environment?", options:["Picking up litter","Planting trees","Dumping garbage in a river","Using reusable bags"], answer:2},
      {q:"Which action helps protect the environment for future generations?", options:["Wasting electricity","Burning waste in the open air","Littering","Planting trees and gardens"], answer:3},
@@ -1242,7 +1242,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Day 30 Final Review — mixed questions from Days 26–29", subjects:[
   {subject:"Language", title:"Final Review: Retelling, Describing Words, Details & Poetry", summary:"Mixed review of retelling stories, using describing words, reading for details, and simple poetry.",
    resourceLabel:"YouTube: Final Review: Retelling, Describing Words, Details & Poetry", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Retelling%2C%20Describing%20Words%2C%20Details%20%26%20Poetry%20grade%202%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=xcizQGHb1DI",
+   videoUrl:"https://www.youtube.com/watch?v=w33-m8-geuM",
    quiz:[
      {q:"When retelling a story, what should you include?", options:["Characters, setting, and solution","Only the title","Random details","Only the last event"], answer:0},
      {q:"Which word is a describing word (adjective)?", options:["Jump","Fluffy","Run","Quickly"], answer:1},
