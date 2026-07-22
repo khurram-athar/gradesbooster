@@ -1268,6 +1268,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Rational Functions", summary:"Grade 10 Functions strand: a rational function is a fraction where the numerator and denominator are polynomials, often producing graphs with asymptotes where the function is undefined.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=XjnSuz5iswQ",
    quiz:[
      {q:"A rational function is best described as ___.", options:["A linear equation with no fractional component","A function with no fractions involved","A function that is always undefined","A fraction where the numerator and denominator are polynomials"], answer:3},
      {q:"An asymptote on a rational function’s graph represents ___.", options:["A value the graph approaches but never actually reaches","A point where the graph always crosses the x-axis","The exact centre of the graph","A value unrelated to the function’s behaviour"], answer:0},
@@ -1277,6 +1278,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Solutions and Concentration", summary:"Grade 10 Chemistry strand: a solution is a homogeneous mixture, and its concentration describes how much solute is dissolved in a given amount of solvent, often measured in units like molarity.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=dYwdi4Vifkw",
    quiz:[
      {q:"A solution is best described as ___.", options:["A pure substance with only one type of particle","A mixture that always separates into visible layers","A homogeneous mixture of substances","A mixture unrelated to dissolving"], answer:2},
      {q:"Concentration describes ___.", options:["The exact colour of a solution","The temperature of a solution only","A property unrelated to dissolved substances","How much solute is dissolved in a given amount of solvent"], answer:3},
@@ -1286,6 +1288,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Peacekeeping Missions: Case Studies", summary:"Grade 10 History strand: examining specific Canadian peacekeeping missions, such as those in Cyprus or the former Yugoslavia, illustrates the practical challenges and impact of Canada’s international peacekeeping role.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=_SzpgL1g8RA",
    quiz:[
      {q:"Case studies of Canadian peacekeeping missions help illustrate ___.", options:["Issues unrelated to international relations","Missions that never actually took place","The practical challenges and impact of peacekeeping efforts","A topic entirely unrelated to Canadian history"], answer:2},
      {q:"Canadian peacekeeping missions have historically taken place in regions such as ___.", options:["Cyprus and the former Yugoslavia","No international regions at all","Only within Canada’s own borders","A location entirely unrelated to peacekeeping efforts"], answer:0},

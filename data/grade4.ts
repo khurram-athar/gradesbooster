@@ -1274,6 +1274,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Rounding and Estimating", summary:"Ontario Grade 4 Number strand: rounding numbers to the nearest ten, hundred, or thousand makes estimating sums, differences, and totals faster and easier to check for reasonableness.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=RfNxTxjZy8s",
    quiz:[
      {q:"Round 3,482 to the nearest thousand.", options:["4,000","3,000","3,500","3,482"], answer:0},
      {q:"Round 6,251 to the nearest hundred.", options:["6,000","6,300","6,200","6,250"], answer:1},
@@ -1283,6 +1284,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Species at Risk in Canadian Ecosystems", summary:"Ontario Grade 4 Science Life Systems strand: species at risk are plants or animals in Canada facing possible extinction, often due to habitat loss, pollution, or climate change, and conservation programs work to protect them.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=w4Xw0M2QWJ4",
    quiz:[
      {q:"A species at risk is one that is ___.", options:["Facing possible extinction","Found only in aquariums","No longer affected by its environment","Extremely abundant everywhere"], answer:0},
      {q:"Which is a common cause of species becoming at risk?", options:["Too many predators being removed by nature naturally","Nothing affects species survival","Habitat loss","Too much protected land"], answer:2},
@@ -1304,6 +1306,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Comparative and Superlative Adjectives", summary:"Ontario Grade 4 Writing strand: comparative adjectives (bigger, faster) compare two things, while superlative adjectives (biggest, fastest) compare three or more things, often adding -er or -est.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=hI7x3uXh4pA",
    quiz:[
      {q:"Which is the comparative form of tall?", options:["Tallest","Tallness","Taller","Tall"], answer:2},
      {q:"Which is the superlative form of fast?", options:["Faster","Fastest","Fast","Fastly"], answer:1},
@@ -1313,6 +1316,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying by 10, 100, and 1,000", summary:"Ontario Grade 4 Number strand: multiplying a whole number by 10, 100, or 1,000 shifts its digits left, adding that many zeros, such as 25 times 100 equals 2,500.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=SG4gX-VGzog",
    quiz:[
      {q:"What is 34 multiplied by 10?", options:["34","34,000","340","3,400"], answer:2},
      {q:"What is 56 multiplied by 100?", options:["5,600","56","560","56,000"], answer:0},
@@ -1322,6 +1326,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Changes of State: Melting, Freezing, and Evaporating", summary:"Ontario Grade 4 Science Matter and Energy strand: matter changes state through processes like melting (solid to liquid), freezing (liquid to solid), and evaporating (liquid to gas), usually caused by adding or removing heat.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=4Y7eVoxObh0",
    quiz:[
      {q:"Melting occurs when a solid changes into a ___ after gaining heat.", options:["Gas","Liquid","Different solid","Nothing changes"], answer:1},
      {q:"Freezing occurs when a liquid changes into a solid after ___ heat.", options:["Gaining","Creating","Ignoring","Losing"], answer:3},
@@ -1331,6 +1336,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient China", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient China developed along the Yellow and Yangtze rivers, and is known for early inventions such as paper, silk production, and the Great Wall.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5tqot7MU_84",
    quiz:[
      {q:"Ancient China developed along which rivers?", options:["The Amazon and Mississippi","The Tigris and Euphrates","The Yellow and Yangtze","The Nile and Congo"], answer:2},
      {q:"Which invention is credited to Ancient China?", options:["The printing press in Europe","Modern electricity","The wheel only","Paper"], answer:3},

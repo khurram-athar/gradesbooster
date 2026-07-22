@@ -1270,6 +1270,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding and Subtracting Mixed Numbers", summary:"Ontario Grade 5 Number strand: adding or subtracting mixed numbers involves combining the whole numbers and the fractions separately, and regrouping when a fraction sum is improper.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=h7Vs7uUPZrE",
    quiz:[
      {q:"What is 2 and 1/4 plus 1 and 2/4?", options:["3 and 1/4","3 and 2/4","4 and 1/4","3 and 3/4"], answer:3},
      {q:"What is 5 and 3/5 minus 2 and 1/5?", options:["3 and 2/5","2 and 2/5","7 and 2/5","3 and 4/5"], answer:0},
@@ -1279,6 +1280,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Levers and Mechanical Advantage", summary:"Ontario Grade 5 Science Structures and Mechanisms strand: a lever provides mechanical advantage by multiplying the force applied, depending on where the fulcrum is placed relative to the load and effort.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=K_Co8mVNLSA",
    quiz:[
      {q:"Mechanical advantage refers to ___.", options:["The colour of a machine","How many parts a machine has","How a machine multiplies the force applied to it","How heavy a machine is"], answer:2},
      {q:"On a lever, the fixed point it pivots around is called the ___.", options:["Fulcrum","Load","Effort","Axle"], answer:0},
@@ -1288,6 +1290,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The War of 1812", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: the War of 1812 was fought between the United States and Britain (including its colonies in what is now Canada), with First Nations allies playing a significant role in defending Canadian territory.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=RD149V3Bako",
    quiz:[
      {q:"The War of 1812 was fought mainly between which two sides?", options:["Spain and Portugal","Canada and France","The United States and Britain (including its Canadian colonies)","Canada and Britain"], answer:2},
      {q:"Which group played a significant role in defending Canadian territory during the War of 1812?", options:["Astronauts","The Ancient Romans","No one else was involved","First Nations allies"], answer:3},
@@ -1299,6 +1302,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Active and Passive Voice", summary:"Ontario Grade 5 Writing strand: in active voice, the subject performs the action (the dog chased the ball), while in passive voice, the subject receives the action (the ball was chased by the dog).",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=OkSv_HdfyLg",
    quiz:[
      {q:"Which sentence is written in active voice?", options:["The ball was kicked by Sam.","The ball had been kicked.","Sam kicked the ball.","The ball is being kicked."], answer:2},
      {q:"Which sentence is written in passive voice?", options:["The cat chased the mouse.","The mouse was chased by the cat.","The cat is chasing the mouse.","The cat will chase the mouse."], answer:1},
@@ -1308,6 +1312,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Dividing Fractions by Whole Numbers", summary:"Ontario Grade 5 Number strand: dividing a fraction by a whole number means splitting that fraction into that many equal parts, which can be found by multiplying the denominator by the whole number.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=65Dvc5njCRg",
    quiz:[
      {q:"What is 1/2 divided by 2?", options:["1/8","1/2","1/4","2/2"], answer:2},
      {q:"What is 3/4 divided by 3?", options:["9/4","1/4","3/12","1/2"], answer:1},
@@ -1317,6 +1322,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Density and Buoyancy", summary:"Ontario Grade 5 Science Matter and Energy strand: density is how tightly packed an object’s mass is within its volume, and buoyancy is the upward force that determines whether an object floats or sinks in a liquid.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=C5oPI5iI-Kg",
    quiz:[
      {q:"Density is best described as ___.", options:["How much mass is packed into a given volume","The colour of an object","How heavy an object feels only","The temperature of an object"], answer:0},
      {q:"An object will generally float in water if its density is ___ than water.", options:["Density has no effect on floating","Greater","Less","Exactly equal in every case"], answer:2},
@@ -1326,6 +1332,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Rebellions of 1837", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: the Rebellions of 1837 in Upper and Lower Canada were uprisings by reformers seeking more democratic, accountable government, led in part by figures like William Lyon Mackenzie.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=RdGy5dHgkCU",
    quiz:[
      {q:"The Rebellions of 1837 mainly took place in ___.", options:["British Columbia","The Arctic","The United States","Upper and Lower Canada"], answer:3},
      {q:"Reformers involved in the Rebellions of 1837 were seeking ___.", options:["No government at all","Less democratic government","More democratic, accountable government","A return to earlier colonial rule with no changes"], answer:2},

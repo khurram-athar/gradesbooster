@@ -1260,6 +1260,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Archetypes in Literature", summary:"Grade 9 Reading strand: an archetype is a recurring character type, symbol, or pattern found across many stories and cultures, such as the hero, the mentor, or the journey.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=7_0Qt2iEN_E",
    quiz:[
      {q:"An archetype is best described as ___.", options:["A grammar rule","A recurring character type or pattern found across many stories","A completely unique element found in only one story ever written","A type of punctuation mark"], answer:1},
      {q:"Which is an example of a common literary archetype?", options:["The hero","A random unrelated number","A specific character’s exact birthday","A single unrelated punctuation mark"], answer:0},
@@ -1269,6 +1270,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Quadratic Relations", summary:"Grade 9 Algebra strand: a quadratic relation, in the form y equals ax squared plus bx plus c, produces a U-shaped graph called a parabola, distinct from the straight-line graph of a linear relation.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=BvV_UXRdLlw",
    quiz:[
      {q:"A quadratic relation is written in the form ___.", options:["y equals a plus b","y equals a divided by x","y equals ax squared plus bx plus c","y equals mx plus b"], answer:2},
      {q:"The graph of a quadratic relation is called a ___.", options:["Circle","Hyperbola","Parabola","Straight line"], answer:2},
@@ -1278,6 +1280,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Mole Concept and Molar Mass", summary:"Grade 9 Science Chemistry strand: a mole is a unit used to count extremely large numbers of particles, such as atoms or molecules, and molar mass relates the mass of a substance to the number of moles present.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=fwUHO7RyYcc",
    quiz:[
      {q:"A mole is a unit used to ___.", options:["Count extremely large numbers of particles, like atoms or molecules","Measure the volume of a solid object","Measure temperature","Count the number of chemical elements only"], answer:0},
      {q:"Molar mass relates ___.", options:["The mass of a substance to the number of moles present","A substance’s mass to its exact age","Only the colour of a substance","The temperature of a substance to its volume"], answer:0},
@@ -1287,6 +1290,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geopolitics: Understanding Borders and Territorial Disputes", summary:"Grade 9 Social Studies (Geography) strand: geopolitics examines how geography, borders, and territorial disputes influence political relationships and power between countries and regions.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=CgaZGbzFK1s",
    quiz:[
      {q:"Geopolitics examines how ___ influence political relationships between countries.", options:["Only music and art","A topic unrelated to political relationships","Weather patterns exclusively, with no other factors","Geography, borders, and territory"], answer:3},
      {q:"A territorial dispute occurs when ___.", options:["All countries agree completely on every border","A dispute is unrelated to geography","Two or more parties disagree over control of a particular area of land","No disagreements about land ever occur"], answer:2},

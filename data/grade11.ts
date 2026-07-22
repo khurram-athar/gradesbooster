@@ -1260,6 +1260,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"English", title:"Literary Analysis: Symbolism and Allegory in the Novel", summary:"Grade 11 English strand: symbolism uses objects or images to represent deeper ideas, while allegory extends this technique so that an entire narrative carries a second, often moral or political, meaning.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=bi4RnS6EKHQ",
    quiz:[
      {q:"Symbolism uses objects or images to represent ___.", options:["A concept unrelated to meaning","Deeper ideas beyond their literal meaning","Nothing beyond their physical description","Only their literal, surface-level meaning"], answer:1},
      {q:"An allegory extends symbolism so that ___.", options:["No part of the narrative has any additional meaning","The story’s literal plot is its only meaning","Only a single object carries any symbolic weight","An entire narrative carries a second, deeper meaning"], answer:3},
@@ -1269,6 +1270,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Piecewise Functions and Their Applications", summary:"Grade 11 Functions strand: a piecewise function is defined by different expressions over different intervals of its domain, often used to model real-world situations that behave differently under different conditions.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=8mHW_IgZcuo",
    quiz:[
      {q:"A piecewise function is defined by ___.", options:["No defined expression at all","A single expression that applies to the entire domain","Different expressions over different intervals of its domain","A concept unrelated to domain intervals"], answer:2},
      {q:"Which is an example of a real-world situation that could be modelled with a piecewise function?", options:["A cell phone plan with different rates based on usage tiers","A situation that can only ever be modelled with one single equation","A situation with a constant rate that never changes","A scenario with no connection to changing conditions"], answer:0},
@@ -1278,6 +1280,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Microbiology: Bacteria, Viruses, and Immunity", summary:"Grade 11 Biology strand: microbiology examines the structure and function of bacteria and viruses, along with how the immune system responds to and defends against these pathogens.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=6fGT83e36yc",
    quiz:[
      {q:"Microbiology examines the structure and function of ___.", options:["Only plants, with no connection to microorganisms","Bacteria and viruses","Only large mammals, with no connection to microorganisms","A field unrelated to biology"], answer:1},
      {q:"A key structural difference between bacteria and viruses is that bacteria are ___.", options:["Never able to reproduce under any circumstances","Not made of any cells at all, unlike viruses","Identical in structure to viruses in every way","Living cells, while viruses require a host cell to reproduce"], answer:3},
@@ -1287,6 +1290,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Gas Laws: Boyle’s, Charles’s, and the Combined Gas Law", summary:"Grade 11 Chemistry strand: gas laws describe the mathematical relationships between a gas’s pressure, volume, and temperature, with Boyle’s Law, Charles’s Law, and the Combined Gas Law each describing specific relationships.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=kzESbNoNTn4",
    quiz:[
      {q:"Boyle’s Law describes the relationship between a gas’s ___.", options:["A relationship unrelated to gas behaviour","Pressure and volume, at constant temperature","Mass and colour","Only temperature, with no connection to pressure"], answer:1},
      {q:"Charles’s Law describes the relationship between a gas’s ___.", options:["Colour and mass","Only pressure, with no connection to temperature","Volume and temperature, at constant pressure","A relationship unrelated to gas behaviour"], answer:2},

@@ -1259,6 +1259,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Symbolism and Allegory", summary:"Ontario Grade 7 Reading strand: symbolism uses an object or image to represent a deeper idea, while an allegory is an entire story in which characters and events represent broader meanings, often moral or political.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=INxr56t9yAA",
    quiz:[
      {q:"An allegory is best described as ___.", options:["A type of punctuation mark","A single symbolic object","A grammar rule","An entire story where characters and events represent broader meanings"], answer:3},
      {q:"Symbolism differs from allegory in that symbolism ___.", options:["Never appears in literature","Usually involves a specific object or image representing an idea, rather than an entire story","Only applies to poetry","Is always identical to allegory"], answer:1},
@@ -1268,6 +1269,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Simplifying and Expanding Algebraic Expressions", summary:"Ontario Grade 7 Algebra strand: simplifying an expression means combining like terms, while expanding involves using the distributive property to remove parentheses, such as 2(x + 3) becoming 2x + 6.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=BqOf_1PI_lo",
    quiz:[
      {q:"Simplify: 3x + 5x.", options:["3x + 5","8x","8x squared","15x"], answer:1},
      {q:"Expand: 2(x + 3).", options:["2x + 6","x + 6","2x + 5","2x + 3"], answer:0},
@@ -1277,6 +1279,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cell Division and Growth", summary:"Ontario Grade 7 Science Life Systems strand: cell division allows organisms to grow, repair tissue, and reproduce, with mitosis producing two identical cells from one original cell.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=P9no_XzGbqw",
    quiz:[
      {q:"Cell division allows organisms to ___.", options:["Lose all genetic material","Stop all biological processes","Shrink permanently","Grow and repair tissue"], answer:3},
      {q:"Mitosis results in ___.", options:["A cell that immediately disappears","Two identical cells from one original cell","No new cells being produced","The complete destruction of a cell"], answer:1},
@@ -1286,6 +1289,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Great Depression and Its Impact on Canada", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: the Great Depression of the 1930s brought severe economic hardship to Canada, including widespread unemployment, leading to major changes in government policy and social programs.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=7nziFLnbot0",
    quiz:[
      {q:"The Great Depression occurred mainly during which decade?", options:["1950s","1890s","1980s","1930s"], answer:3},
      {q:"A major effect of the Great Depression in Canada was ___.", options:["No effect on Canadian society","Immediate prosperity for all Canadians","A booming economy with no challenges","Widespread unemployment and economic hardship"], answer:3},
@@ -1297,6 +1301,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Writing: Literary Analysis Essay", summary:"Ontario Grade 7 Writing strand: a literary analysis essay closely examines elements of a text, such as character, theme, or symbolism, supporting a clear interpretation with evidence from the text.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=sFSFVhq0Av8",
    quiz:[
      {q:"A literary analysis essay focuses on ___.", options:["Only summarizing the plot with no analysis","Closely examining elements of a text with supporting evidence","Ignoring the text entirely","Copying passages with no interpretation"], answer:1},
      {q:"Which is an example of a literary element that might be analyzed in an essay?", options:["The book’s price","The font size","Symbolism or theme","The publisher’s address"], answer:2},
@@ -1306,6 +1311,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Multi-Step Equations", summary:"Ontario Grade 7 Algebra strand: solving a multi-step equation involves combining like terms, using the distributive property if needed, and then applying inverse operations to isolate the variable.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=jzarPTOGoMw",
    quiz:[
      {q:"Solve for x: 2x + 3x + 5 = 25.", options:["x = 20","x = 4","x = 5","x = 6"], answer:1},
      {q:"Solve for y: 3(y + 2) = 21.", options:["y = 9","y = 7","y = 5","y = 15"], answer:2},
@@ -1315,6 +1321,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Photosynthesis and Cellular Respiration", summary:"Ontario Grade 7 Science Life Systems strand: photosynthesis converts sunlight into stored energy in plants, while cellular respiration releases that stored energy for cells to use, forming a connected cycle.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=BsVIPnIeYFs",
    quiz:[
      {q:"Photosynthesis converts ___ into stored chemical energy.", options:["Heat only","Sound","Sunlight","Electricity"], answer:2},
      {q:"Cellular respiration releases energy stored in ___.", options:["Rocks","Air alone","Water only","Glucose"], answer:3},
@@ -1324,6 +1331,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada in World War II", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: Canada played a significant role in World War II, contributing troops, resources, and industrial production, which also led to major social changes at home.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=9wRAk6Oq0-I",
    quiz:[
      {q:"Canada contributed to World War II through ___.", options:["Only diplomatic letters with no other support","Troops, resources, and industrial production","A single soldier with no broader involvement","No involvement at all"], answer:1},
      {q:"World War II led to significant social changes in Canada, such as ___.", options:["Increased roles for women in the workforce","A complete halt to all industry","No changes to Canadian society","The end of all international relationships"], answer:0},

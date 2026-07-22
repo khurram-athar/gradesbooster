@@ -1305,6 +1305,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Reading: Making Connections", summary:"Ontario Grade 3 Reading strand: strong readers make connections between a text and themselves (text-to-self), other texts (text-to-text), or the wider world (text-to-world) to deepen understanding.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=jl8yEmdocvU",
    quiz:[
      {q:"A text-to-self connection means the reader ___.", options:["Ignores the text completely","Compares the text to a news event","Compares the text to another book","Relates the text to their own life or experiences"], answer:3},
      {q:"A text-to-world connection means relating a text to ___.", options:["Only the reader's pet","Events or issues happening in the wider world","A completely unrelated topic","Nothing at all"], answer:1},
@@ -1314,6 +1315,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing and Ordering 3-Digit Numbers", summary:"Ontario Grade 3 Number strand: students compare 3-digit numbers by looking at the hundreds digit first, then tens, then ones, and order sets of numbers from least to greatest.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=bg3FTgTmfkE",
    quiz:[
      {q:"Which is greater: 452 or 425?", options:["452","Cannot tell","They are equal","425"], answer:0},
      {q:"Order from least to greatest: 318, 138, 381.", options:["318, 138, 381","138, 381, 318","381, 318, 138","138, 318, 381"], answer:3},
@@ -1323,6 +1325,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Growth and Changes in Plants: Pollination and Seed Dispersal", summary:"Ontario Grade 3 Science Life Systems strand: pollination moves pollen from flower to flower (often by insects like bees), and seed dispersal spreads seeds by wind, animals, or water so new plants can grow in new places.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=YOPd3pjJy9E",
    quiz:[
      {q:"Which insect commonly helps pollinate flowers?", options:["Ladybugs only","Bees","Spiders","Ants"], answer:1},
      {q:"Pollination is the process of ___.", options:["Watering plants","Moving pollen between flowers to help make seeds","Removing leaves","Cutting down trees"], answer:1},
@@ -1332,6 +1335,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Regions of Canada: The Prairies", summary:"Ontario Grade 3 Social Studies People and Environments strand: the Prairies are a large, flat region in central Canada known for rich farmland, wheat and canola fields, and wide-open grasslands.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=MemTUkuOvHE",
    quiz:[
      {q:"The Prairie region is known for being ___.", options:["Made mostly of islands","Covered in rainforest","Flat, with rich farmland","Mountainous and rocky"], answer:2},
      {q:"Which crops are commonly grown on the Prairies?", options:["Wheat and canola","Coconuts and bananas","Coffee beans","Pineapples"], answer:0},

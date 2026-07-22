@@ -1278,6 +1278,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Continuity and the Intermediate Value Theorem", summary:"Grade 12 Calculus strand: the Intermediate Value Theorem states that if a function is continuous on a closed interval, it must take on every value between its endpoint values at least once within that interval.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=5kh7uMeOFaU",
    quiz:[
      {q:"The Intermediate Value Theorem applies to a function that is ___.", options:["Undefined across its entire domain","Continuous on a closed interval","A concept unrelated to continuity","Discontinuous at every point within the interval"], answer:1},
      {q:"According to the Intermediate Value Theorem, a continuous function on a closed interval must take on ___.", options:["A value entirely unrelated to its endpoints","Only the exact values at its two endpoints, and no values between them","Every value between its endpoint values at least once","No values at all within that interval"], answer:2},
@@ -1287,6 +1288,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Rotational Motion and Torque", summary:"Grade 12 Physics strand: rotational motion describes objects spinning around an axis, and torque is the rotational equivalent of force, describing how effectively a force causes an object to rotate.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=Yh67FKQL310",
    quiz:[
      {q:"Rotational motion describes objects that are ___.", options:["Completely stationary with no movement at all","A concept unrelated to motion","Moving only in a perfectly straight line","Spinning around an axis"], answer:3},
      {q:"Torque is best described as the rotational equivalent of ___.", options:["A concept unrelated to rotational motion","Mass","Only colour, with no connection to motion","Force"], answer:3},

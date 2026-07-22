@@ -7503,6 +7503,7 @@
         "summary": "Grade 12 Calculus strand: the Intermediate Value Theorem states that if a function is continuous on a closed interval, it must take on every value between its endpoint values at least once within that interval.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=5kh7uMeOFaU",
         "quiz": [
           {
             "q": "The Intermediate Value Theorem applies to a function that is ___.",
@@ -7562,6 +7563,7 @@
         "summary": "Grade 12 Physics strand: rotational motion describes objects spinning around an axis, and torque is the rotational equivalent of force, describing how effectively a force causes an object to rotate.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=Yh67FKQL310",
         "quiz": [
           {
             "q": "Rotational motion describes objects that are ___.",

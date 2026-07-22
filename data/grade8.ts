@@ -1260,6 +1260,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Grammar: Advanced Punctuation (Em Dashes, Colons, Semicolons)", summary:"Grade 8 Writing strand: advanced punctuation marks like em dashes, colons, and semicolons each serve distinct purposes, such as adding emphasis, introducing a list, or joining closely related independent clauses.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=OfmmcXJzQGM",
    quiz:[
      {q:"An em dash is often used to ___.", options:["Add emphasis or a dramatic pause","Never appear in formal writing","Indicate the end of a paragraph only","Replace every period in a text"], answer:0},
      {q:"A colon is commonly used to ___.", options:["Replace a comma in every instance","End every sentence","Begin a sentence","Introduce a list or explanation"], answer:3},
@@ -1269,6 +1270,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Systems of Equations by Substitution", summary:"Grade 8 Algebra strand: the substitution method solves a system of equations by solving one equation for a variable, then substituting that expression into the other equation.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=uzyd_mIJaoc",
    quiz:[
      {q:"The substitution method involves ___.", options:["Adding both equations together with no other steps","Solving one equation for a variable, then substituting it into the other equation","Graphing both equations with no algebraic steps","Ignoring one of the two equations entirely"], answer:1},
      {q:"Solve the system using substitution: y = x + 2 and x + y = 10.", options:["x = 6, y = 8","x = 8, y = 10","x = 4, y = 6","x = 2, y = 4"], answer:2},
@@ -1278,6 +1280,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Genetics: Punnett Squares and Inheritance Patterns", summary:"Grade 8 Science Life Systems strand: a Punnett square is a diagram used to predict the possible combinations of genes offspring might inherit from their parents, based on dominant and recessive traits.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=BRMcTdKNpOA",
    quiz:[
      {q:"A Punnett square is used to ___.", options:["Determine an organism’s habitat","Predict possible gene combinations in offspring","Measure the size of an organism","Calculate an organism’s age"], answer:1},
      {q:"A dominant trait is one that ___.", options:["Is never expressed under any circumstances","Only appears when two recessive genes are present","Is expressed even if only one copy of the gene is present","Has no connection to genetics"], answer:2},
@@ -1287,6 +1290,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Fenian Raids and Early Canadian Defence", summary:"Grade 8 History strand: the Fenian Raids were a series of attacks on British North America in the 1860s by Irish-American groups, which highlighted the need for stronger colonial defence and contributed to discussions about Confederation.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=rI9VMGY6Y-A",
    quiz:[
      {q:"The Fenian Raids occurred primarily during which decade?", options:["1900s","1810s","1950s","1860s"], answer:3},
      {q:"The Fenian Raids were carried out by ___.", options:["The Spanish military","The French government","A Canadian political party","Irish-American groups"], answer:3},
@@ -1307,6 +1311,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Trigonometric Ratios (SOH-CAH-TOA)", summary:"Grade 8 Geometry strand (pre-high-school extension): the trigonometric ratios sine, cosine, and tangent relate the angles of a right triangle to the ratios of its side lengths, often remembered using SOH-CAH-TOA.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=TVUShslXDGI",
    quiz:[
      {q:"In a right triangle, sine is defined as ___.", options:["Opposite over adjacent","Hypotenuse over opposite","Adjacent over hypotenuse","Opposite over hypotenuse"], answer:3},
      {q:"In a right triangle, cosine is defined as ___.", options:["Opposite over adjacent","Opposite over hypotenuse","Hypotenuse over adjacent","Adjacent over hypotenuse"], answer:3},

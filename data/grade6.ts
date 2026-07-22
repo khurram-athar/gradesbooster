@@ -1260,6 +1260,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Tone and Bias in Nonfiction", summary:"Ontario Grade 6 Reading strand: tone is the author’s attitude toward a topic, and analyzing tone alongside word choice can reveal bias in a nonfiction text.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=DX4_JtlHyls",
    quiz:[
      {q:"Tone in a text refers to ___.", options:["The publisher’s name","The font style used","The page count of the text","The author’s attitude toward the topic"], answer:3},
      {q:"Which word choice might suggest a critical tone toward a decision?", options:["Thoughtful","Careful","Reckless","Balanced"], answer:2},
@@ -1269,6 +1270,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ratio Tables and Scaling", summary:"Ontario Grade 6 Number strand: a ratio table shows equivalent ratios by scaling a ratio up or down, keeping the relationship between the two quantities consistent.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ZgUCbr4fiXM",
    quiz:[
      {q:"If a recipe uses a ratio of 2 cups flour to 1 cup sugar, how much sugar is needed for 6 cups of flour?", options:["3 cups","6 cups","2 cups","4 cups"], answer:0},
      {q:"A ratio table shows ___.", options:["Equivalent ratios scaled up or down consistently","Unrelated random numbers","Data with no numeric relationship","Only one single ratio with no scaling"], answer:0},
@@ -1278,6 +1280,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Water Cycle and Its Impact on Climate", summary:"Ontario Grade 6 Science Earth and Space Systems strand: the water cycle, including evaporation, condensation, and precipitation, moves water through the atmosphere and land, playing a key role in shaping regional climate.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=jd9IkWp1TbU",
    quiz:[
      {q:"Evaporation in the water cycle refers to ___.", options:["Water falling as precipitation","Water flowing underground only","Water freezing into ice","Water changing from a liquid into a gas"], answer:3},
      {q:"Condensation in the water cycle refers to ___.", options:["Ice melting into liquid water","Water evaporating into the air","Water flowing into rivers","Water vapour changing into liquid water droplets"], answer:3},
@@ -1287,6 +1290,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Vikings and Early Norse Exploration", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the Vikings were Norse seafarers from Scandinavia who explored, traded, and settled across parts of Europe and even reached North America around 1000 CE.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=KevkiNa6OaI",
    quiz:[
      {q:"The Vikings originated from which region?", options:["East Asia","South America","North Africa","Scandinavia"], answer:3},
      {q:"Vikings were known for their skill in ___.", options:["Building pyramids","Space travel","Seafaring and exploration","Desert farming"], answer:2},
@@ -1298,6 +1302,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Writing: Compare and Contrast Essay", summary:"Ontario Grade 6 Writing strand: a compare and contrast essay examines the similarities and differences between two subjects, often organized point-by-point or subject-by-subject.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=_usTs4UkPOo",
    quiz:[
      {q:"A compare and contrast essay focuses on ___.", options:["Only the similarities between two subjects","A single subject only","The similarities and differences between two subjects","A completely unrelated topic"], answer:2},
      {q:"One way to organize a compare and contrast essay is ___.", options:["Only using bullet points with no essay structure","Point-by-point or subject-by-subject","By ignoring one of the two subjects","Randomly with no structure"], answer:1},
@@ -1307,6 +1312,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Two-Step Equations", summary:"Ontario Grade 6 Algebra strand: a two-step equation requires two inverse operations to isolate the variable, typically undoing addition or subtraction first, then multiplication or division.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ltk6cCKz1lU",
    quiz:[
      {q:"Solve for x: 2x + 3 = 11.", options:["x = 7","x = 14","x = 4","x = 3"], answer:2},
      {q:"Solve for y: 3y minus 5 = 10.", options:["y = 3","y = 45","y = 5","y = 15"], answer:2},
@@ -1325,6 +1331,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Silk Road: Trade and Cultural Exchange", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the Silk Road was a network of trade routes connecting Asia, the Middle East, and Europe, enabling the exchange of goods, ideas, and culture for centuries.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=gOqP-1givLc",
    quiz:[
      {q:"The Silk Road primarily connected which regions?", options:["Asia, the Middle East, and Europe","Only Australia and Antarctica","A single isolated region with no connections","Only North America and South America"], answer:0},
      {q:"The Silk Road gets its name from ___.", options:["A single city named Silk","The trade of silk and other valuable goods","A modern highway system","A specific road built entirely of silk fabric"], answer:1},
