@@ -424,7 +424,7 @@ const curriculum: DayContent[] = [
 {day:11, label:"Day 11 — Mon", subjects:[
   {subject:"Language", title:"Grammar: Adverbs", summary:"Grade 4 Language strand: adverbs modify verbs, adjectives, or other adverbs. They tell how, when, where, or to what degree something happens.",
    resourceLabel:"YouTube: Grammar: Adverbs", resourceUrl:"https://www.youtube.com/results?search_query=Grammar%3A%20Adverbs%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=cAHgn61uXog",
+   videoUrl:"https://www.youtube.com/watch?v=r66DZ5MOzBg",
    quiz:[
      {q:"An adverb modifies a ___.", options:["preposition only","verb, adjective, or another adverb","noun only","pronoun only"], answer:1},
      {q:"Which word is an adverb in: She spoke softly?", options:["She","spoke","(no adverb)","softly"], answer:3},
@@ -822,7 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: The Solar System", summary:"Grade 4 Science Earth strand: our solar system has the Sun at its centre and 8 planets, plus moons, asteroids, and comets orbiting it.",
    resourceLabel:"YouTube: Space: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Space%3A%20The%20Solar%20System%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=7XseVrmpkUU",
+   videoUrl:"https://www.youtube.com/watch?v=Qd6nLM2QlWw",
    quiz:[
      {q:"How many planets are in our solar system?", options:["9","7","8","10"], answer:2},
      {q:"What is at the centre of our solar system?", options:["The Moon","The Sun","Earth","Jupiter"], answer:1},
