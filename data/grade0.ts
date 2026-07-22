@@ -180,7 +180,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Community Helpers: Police and Firefighters", summary:"Students learn how police officers keep communities safe and how firefighters protect people and property. Both are important community helpers.",
    resourceLabel:"YouTube: Community Helpers: Police and Firefighters", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%3A%20Police%20and%20Firefighters%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=H2mjK20_3xM",
+   videoUrl:"https://www.youtube.com/watch?v=MDhfKlbkzs4",
    quiz:[
      {q:"What do police officers do?", options:["Keep communities safe and uphold laws","Deliver mail","Fix buildings","Teach in schools"], answer:0},
      {q:"What do firefighters do?", options:["Teach children to read","Only drive trucks","Protect people from fires","Only put out campfires"], answer:2},
@@ -222,7 +222,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My School Community", summary:"Students explore the school as a community. They identify key helpers: principal, teacher, custodian, librarian, and secretary.",
    resourceLabel:"YouTube: My School Community", resourceUrl:"https://www.youtube.com/results?search_query=My%20School%20Community%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
+   videoUrl:"https://www.youtube.com/watch?v=srlhUBYJ1YQ",
    quiz:[
      {q:"Who is the leader of a school?", options:["The librarian","The principal","The custodian","The student"], answer:1},
      {q:"What is a teacher's main role?", options:["Help students learn","Fix the building","Answer phones","Cook food"], answer:0},
@@ -254,7 +254,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pets and Their Needs", summary:"Students explore common pets (dog, cat, fish, bird) and their needs: food, water, shelter, exercise, and love.",
    resourceLabel:"YouTube: Pets and Their Needs", resourceUrl:"https://www.youtube.com/results?search_query=Pets%20and%20Their%20Needs%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=m2MibjJgyjs",
+   videoUrl:"https://www.youtube.com/watch?v=iLrW05LHMzI",
    quiz:[
      {q:"What do all pets need to stay healthy?", options:["Only food","Only a bed","Food, water, shelter, and care","Only toys"], answer:2},
      {q:"Why do dogs need daily exercise?", options:["They do not","Only puppies need exercise","Only for big dogs","Exercise keeps them healthy and happy"], answer:3},
@@ -380,7 +380,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Winter Season", summary:"Students explore characteristics of winter in Ontario: cold temperatures, ice and snow, shorter days, and how animals and plants respond.",
    resourceLabel:"YouTube: Winter Season", resourceUrl:"https://www.youtube.com/results?search_query=Winter%20Season%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=e19bGkyRJLg",
+   videoUrl:"https://www.youtube.com/watch?v=AFJMVC_5Q7o",
    quiz:[
      {q:"What is winter like in Ontario?", options:["Always rainy","Very hot and sunny","Never changes","Cold with snow and ice"], answer:3},
      {q:"In winter, deciduous trees (like maples) ___.", options:["stay green","grow new leaves","lose their leaves (they fell in autumn)","bloom with flowers"], answer:2},
@@ -590,7 +590,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Spring Season", summary:"Students explore characteristics of spring in Ontario: warming temperatures, returning birds, blossoming plants, and rain showers.",
    resourceLabel:"YouTube: Spring Season", resourceUrl:"https://www.youtube.com/results?search_query=Spring%20Season%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=1hPCeJKhl-4",
+   videoUrl:"https://www.youtube.com/watch?v=9aNEosV3Lkk",
    quiz:[
      {q:"What season comes after winter?", options:["Autumn","Summer","Rainy season","Spring"], answer:3},
      {q:"In spring, plants ___.", options:["start growing again","die off","go dormant","have no change"], answer:0},
@@ -674,7 +674,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Push and Pull: Forces", summary:"Students explore how pushing and pulling are forces that move objects. They observe that heavier objects need more force.",
    resourceLabel:"YouTube: Push and Pull: Forces", resourceUrl:"https://www.youtube.com/results?search_query=Push%20and%20Pull%3A%20Forces%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=GXedKUqEGJE",
+   videoUrl:"https://www.youtube.com/watch?v=ZLDUrPaLQWE",
    quiz:[
      {q:"A push moves an object ___ you.", options:["away from","beside","under","toward"], answer:0},
      {q:"A pull moves an object ___ you.", options:["beside","under","away from","toward"], answer:3},
@@ -684,7 +684,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Our School Community", summary:"Students explore the school as a community. They identify helpers such as the principal, caretaker, librarian, and office staff.",
    resourceLabel:"YouTube: Our School Community", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Community%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
+   videoUrl:"https://www.youtube.com/watch?v=srlhUBYJ1YQ",
    quiz:[
      {q:"Who is the leader of a school?", options:["Teacher","Principal","Caretaker","Librarian"], answer:1},
      {q:"What does a librarian do?", options:["Help with books and reading","Cook food","Fix the building","Drive the bus"], answer:0},
@@ -716,7 +716,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sinking and Floating", summary:"Students predict and test whether objects sink or float in water, discovering that shape and material affect floating.",
    resourceLabel:"YouTube: Sinking and Floating", resourceUrl:"https://www.youtube.com/results?search_query=Sinking%20and%20Floating%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=vo_uzrSzY9k",
+   videoUrl:"https://www.youtube.com/watch?v=eQuW8G2QV_Q",
    quiz:[
      {q:"An object that stays on top of water ___.", options:["floats","disappears","sinks","dissolves"], answer:0},
      {q:"An object that goes to the bottom of water ___.", options:["floats","melts","dissolves","sinks"], answer:3},
@@ -936,7 +936,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Helping at Home", summary:"Students explore how family members share responsibilities at home: cooking, cleaning, caring for younger siblings, and yard work.",
    resourceLabel:"YouTube: Helping at Home", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20at%20Home%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
+   videoUrl:"https://www.youtube.com/watch?v=f3dkTFsQHx8",
    quiz:[
      {q:"Responsibilities at home are ___.", options:["optional extras","only chores for children","only for adults","tasks all family members share"], answer:3},
      {q:"Which is an example of helping at home?", options:["Cleaning up after yourself","Watching TV all day","Eating all the snacks","Leaving your toys everywhere"], answer:0},
@@ -978,7 +978,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Weather and Our Lives", summary:"Students explore how weather affects daily decisions: what to wear, what activities to do, and how communities prepare for extreme weather.",
    resourceLabel:"YouTube: Weather and Our Lives", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20Our%20Lives%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=oPq42NB2aTA",
+   videoUrl:"https://www.youtube.com/watch?v=Uo8lbeVVb4M",
    quiz:[
      {q:"Weather affects what we ___.", options:["read","eat for breakfast","wear and what activities we do","dream about"], answer:2},
      {q:"On a rainy day you would wear ___.", options:["a t-shirt and shorts","a raincoat and boots","nothing different","a swimsuit"], answer:1},
@@ -1146,7 +1146,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Special Days and Celebrations", summary:"Students explore special days celebrated in their community and around the world, recognising that different cultures celebrate in unique ways.",
    resourceLabel:"YouTube: Special Days and Celebrations", resourceUrl:"https://www.youtube.com/results?search_query=Special%20Days%20and%20Celebrations%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lGC0zxgRNJQ",
+   videoUrl:"https://www.youtube.com/watch?v=_ztsyv0WLWE",
    quiz:[
      {q:"A celebration is ___.", options:["a special occasion people mark","a type of building","a type of food","a school subject"], answer:0},
      {q:"Which is a Canadian celebration?", options:["Canada Day (July 1)","Chinese New Year","Eid al-Fitr (Islamic)","Diwali (Hindu/Sikh)"], answer:0},
@@ -1168,7 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Stories", summary:"Students create and solve simple addition and subtraction number stories using pictures and equations.",
    resourceLabel:"YouTube: Number Stories", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Stories%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=nRVRFmAZD-Q",
+   videoUrl:"https://www.youtube.com/watch?v=NW0E-UwtZx0",
    quiz:[
      {q:"A number story is ___.", options:["a book about numbers","a fairy tale","a maths problem described in words","only about counting"], answer:2},
      {q:"There are 3 birds on a branch. 2 more land. How many now?", options:["3","5","4","6"], answer:1},
@@ -1200,7 +1200,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Rhyming Words", summary:"Students identify and generate rhyming words. Rhyming words have the same ending sound (e.g., cat/hat, dog/log, play/day).",
    resourceLabel:"YouTube: Rhyming Words", resourceUrl:"https://www.youtube.com/results?search_query=Rhyming%20Words%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=cY7JggN5M-U",
+   videoUrl:"https://www.youtube.com/watch?v=4PW3_LErVZk",
    quiz:[
      {q:"Rhyming words have the same ___.", options:["beginning sound","middle sound","ending sound","number of letters"], answer:2},
      {q:"Which word rhymes with CAT?", options:["Hat","Dog","Sun","Cup"], answer:0},
@@ -1242,7 +1242,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Alphabet Review and Simple Reading", summary:"Students review all 26 letters, their sounds, and demonstrate early reading of simple CVC (consonant-vowel-consonant) words.",
    resourceLabel:"YouTube: Alphabet Review and Simple Reading", resourceUrl:"https://www.youtube.com/results?search_query=Alphabet%20Review%20and%20Simple%20Reading%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RiYzD1h-YVQ",
+   videoUrl:"https://www.youtube.com/watch?v=tKsIi1MH4lw",
    quiz:[
      {q:"How many letters are in the English alphabet?", options:["24","26","25","27"], answer:1},
      {q:"Which is a vowel?", options:["B","C","D","E"], answer:3},
@@ -1262,7 +1262,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Students review all Kindergarten science: living and non-living, plants, animals, seasons, weather, forces, and materials.",
    resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
+   videoUrl:"https://www.youtube.com/watch?v=4HeeCYVqf3U",
    quiz:[
      {q:"A plant is a ___ thing.", options:["both","living","non-living","neither"], answer:1},
      {q:"Animals need food, water, shelter, and air. These are called ___.", options:["Extras","Options","Wants","Needs"], answer:3},
