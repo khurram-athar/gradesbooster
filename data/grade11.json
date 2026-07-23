@@ -7202,6 +7202,7 @@
         "summary": "A final celebration of mathematical achievement and reflection on the role of mathematics in the world.",
         "resourceLabel": "YouTube: Grade 11 Functions: Final Day",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%2011%20Functions%3A%20Final%20Day%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Sw9O7el5HVU",
         "quiz": [
           {
             "q": "Mathematics is universal because ___.",
@@ -7261,6 +7262,7 @@
         "summary": "A final celebration of the living world and our place in it.",
         "resourceLabel": "YouTube: Grade 11 Biology: Final Day",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%2011%20Biology%3A%20Final%20Day%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=icQAkF1yxTE",
         "quiz": [
           {
             "q": "The central message of Grade 11 Biology is ___.",
@@ -7320,6 +7322,7 @@
         "summary": "A final celebration of chemistry's place in understanding and improving the world.",
         "resourceLabel": "YouTube: Grade 11 Chemistry: Final Day",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%2011%20Chemistry%3A%20Final%20Day%20grade%2011%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=cQ4mxWeQCQU",
         "quiz": [
           {
             "q": "The most profound idea in chemistry is ___.",
@@ -7631,6 +7634,7 @@
         "summary": "Grade 11 English strand: a research proposal outlines a planned area of inquiry, including a clear research question, its significance, and an initial approach for investigating it.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=166FXhGd9T4",
         "quiz": [
           {
             "q": "A research proposal outlines ___.",
@@ -7690,6 +7694,7 @@
         "summary": "Grade 11 Functions strand: the unit circle is a circle with a radius of one used to define trigonometric ratios for any angle, and radian measure is an alternative way of measuring angles based on arc length.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=57VrEiEPD1I",
         "quiz": [
           {
             "q": "The unit circle has a radius of ___.",
@@ -7749,6 +7754,7 @@
         "summary": "Grade 11 Biology strand: CRISPR is a genetic engineering technology that allows scientists to precisely edit DNA sequences, offering powerful applications in medicine, agriculture, and research.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=CDw4WPng2iE",
         "quiz": [
           {
             "q": "CRISPR is a technology used to ___.",
@@ -7808,6 +7814,7 @@
         "summary": "Grade 11 Chemistry strand: VSEPR (Valence Shell Electron Pair Repulsion) theory predicts the three-dimensional shape of a molecule based on the repulsion between electron pairs surrounding a central atom.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=VBfq02D9Pv0",
         "quiz": [
           {
             "q": "VSEPR theory predicts a molecule’s ___.",

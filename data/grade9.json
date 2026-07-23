@@ -7149,6 +7149,7 @@
         "summary": "Mixed review of essay structures, audience/purpose, revision strategies, and integrating counter-arguments.",
         "resourceLabel": "YouTube: Final Review: Compare/Contrast, Audience, Revising, and Argument Structure",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Compare%2FContrast%2C%20Audience%2C%20Revising%2C%20and%20Argument%20Structure%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=hvMSeg1s7uc",
         "quiz": [
           {
             "q": "In a point-by-point compare-and-contrast essay, each paragraph focuses on...",
@@ -7208,6 +7209,7 @@
         "summary": "Mixed review of midpoint and distance, unit rates, proportions, fraction equations, and combined probability.",
         "resourceLabel": "YouTube: Final Review: Coordinate Geometry, Rates, Fractions in Algebra, and Probability",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Coordinate%20Geometry%2C%20Rates%2C%20Fractions%20in%20Algebra%2C%20and%20Probability%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=A_zfwH1oto8",
         "quiz": [
           {
             "q": "The midpoint of the segment from (0, 2) to (6, 8) is...",
@@ -7267,6 +7269,7 @@
         "summary": "Mixed review of heredity, biogeochemical cycles, pollution types, and experimental design.",
         "resourceLabel": "YouTube: Final Review: DNA, Carbon/Nitrogen Cycles, Pollution, and Scientific Method",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20DNA%2C%20Carbon%2FNitrogen%20Cycles%2C%20Pollution%2C%20and%20Scientific%20Method%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UY1VMqc_OQ0",
         "quiz": [
           {
             "q": "Genes are segments of DNA that carry instructions for...",
@@ -7326,6 +7329,7 @@
         "summary": "Mixed review of protected areas, disease geography, waste management, and geographic inquiry project design.",
         "resourceLabel": "YouTube: Final Review: Conservation, Public Health Geography, Circular Economy, and Inquiry Design",
         "resourceUrl": "https://www.youtube.com/results?search_query=Final%20Review%3A%20Conservation%2C%20Public%20Health%20Geography%2C%20Circular%20Economy%2C%20and%20Inquiry%20Design%20grade%209%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zCRKvDyyHmI",
         "quiz": [
           {
             "q": "National parks are established primarily to...",
@@ -7637,6 +7641,7 @@
         "summary": "Grade 9 Writing strand: a literary response essay presents a reader’s interpretation of a text, supported by evidence and analysis, expressing a personal yet well-reasoned perspective.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=olgDaGLZXx8",
         "quiz": [
           {
             "q": "A literary response essay presents ___.",
@@ -7696,6 +7701,7 @@
         "summary": "Grade 9 Algebra strand: solving a quadratic equation by factoring involves rewriting it as a product of two binomials, then using the zero product property to find the solutions.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=qeByhTF8WEw",
         "quiz": [
           {
             "q": "The zero product property states that if two factors multiply to zero, then ___.",
@@ -7755,6 +7761,7 @@
         "summary": "Grade 9 Science Physics strand: Newton’s three laws of motion describe inertia, the relationship between force, mass, and acceleration, and the principle that every action has an equal and opposite reaction.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=-w6oW1ut4Dw",
         "quiz": [
           {
             "q": "Newton’s first law describes the concept of ___.",
@@ -7814,6 +7821,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: sustainable urban planning aims to balance growing populations with environmental protection, efficient transportation, and quality of life, illustrated through real-world city case studies.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=ZMn-bCdThEg",
         "quiz": [
           {
             "q": "Sustainable urban planning aims to balance population growth with ___.",
@@ -24320,6 +24328,2426 @@
               "The spread of cultural elements, such as food, from one region to another"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 101,
+    "label": "Day 101 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Personification and Pathetic Fallacy",
+        "summary": "Grade 9 Language strand: personification gives human qualities to non-human things, and pathetic fallacy is a specific form of personification in which nature or the weather reflects a character’s emotions.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is personification?",
+            "options": [
+              "A type of formal persuasive essay",
+              "A device that removes all emotion from a poem",
+              "A concept unrelated to reading",
+              "A literary device that gives human qualities to non-human things"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is pathetic fallacy a specific form of personification involving nature or weather?",
+            "options": [
+              "No, pathetic fallacy never involves nature or weather",
+              "Personification has no connection to pathetic fallacy",
+              "Yes",
+              "A concept unrelated to pathetic fallacy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is an example of pathetic fallacy?",
+            "options": [
+              "He finished his homework before dinner.",
+              "She walked quickly to the store.",
+              "The thermometer read twenty degrees.",
+              "The angry storm clashed against the windows."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author use pathetic fallacy to describe a storm during a character’s moment of grief?",
+            "options": [
+              "It can mirror the character’s internal emotional state through the external natural world",
+              "Pathetic fallacy never connects a character’s emotions to the setting",
+              "This concept has no connection to literature",
+              "Weather description is always completely unrelated to a character’s feelings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is recognizing personification useful when analyzing a poem’s mood?",
+            "options": [
+              "Personification never affects how a reader feels about a scene",
+              "It reveals how the poet uses human traits to shape how readers feel about a scene or object",
+              "Every poem uses personification in exactly the same way",
+              "This concept has no relevance to reading comprehension"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Factoring Trinomials of the Form x^2 + bx + c",
+        "summary": "Grade 9 Math strand: a trinomial of the form x^2 + bx + c can be factored into two binomials by finding two numbers that multiply to c and add to b.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "When factoring x^2 + bx + c, what must the two numbers multiply to?",
+            "options": [
+              "b",
+              "c",
+              "A concept unrelated to factoring",
+              "x"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Must the two numbers used to factor x^2 + bx + c also add to b?",
+            "options": [
+              "No, the two numbers never need to add to b",
+              "The two numbers must always add to c instead",
+              "Yes",
+              "A concept unrelated to factoring trinomials"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the factored form of x^2 + 5x + 6?",
+            "options": [
+              "(x+2)(x+4)",
+              "(x-2)(x-3)",
+              "(x+1)(x+6)",
+              "(x+2)(x+3)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the factored form of x^2 - 7x + 12?",
+            "options": [
+              "(x-1)(x-12)",
+              "(x-3)(x-4)",
+              "(x+3)(x+4)",
+              "(x-2)(x-6)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is checking a factored answer by expanding it back out useful?",
+            "options": [
+              "This concept has no connection to math",
+              "Expanding a factored answer never reveals any errors",
+              "It confirms the product matches the original trinomial, catching arithmetic errors",
+              "Factored expressions never need to be checked for accuracy"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Volcanoes and Volcanic Activity",
+        "summary": "Grade 9 Science strand: a volcano forms when magma from within the Earth rises to the surface, often at tectonic plate boundaries, and erupts as lava, ash, or gas.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What is magma called once it reaches the Earth’s surface?",
+            "options": [
+              "Lava",
+              "Ash only",
+              "A concept unrelated to volcanoes",
+              "Sediment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do volcanoes often form at tectonic plate boundaries?",
+            "options": [
+              "Tectonic plates have no connection to volcanoes",
+              "No, volcanoes never form near plate boundaries",
+              "A concept unrelated to volcanic activity",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is commonly released during a volcanic eruption?",
+            "options": [
+              "Lava, ash, and gas",
+              "Only fresh water",
+              "Only oxygen",
+              "A concept unrelated to volcanoes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a volcano near a subduction zone erupt more explosively than one at a hot spot?",
+            "options": [
+              "Thicker, gas-rich magma at subduction zones can build up more pressure before erupting",
+              "This concept has no connection to volcanoes",
+              "Subduction zone volcanoes never build up any pressure at all",
+              "Hot spot volcanoes always erupt more explosively than subduction zone volcanoes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do scientists monitor volcanic activity closely in densely populated regions?",
+            "options": [
+              "Volcanic eruptions never pose any risk to nearby communities",
+              "Monitoring volcanic activity provides no useful information for public safety",
+              "This concept has no relevance to science",
+              "Monitoring helps predict eruptions and protect nearby communities from lava, ash, and gas hazards"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ecological Footprint: Measuring Human Impact on the Planet",
+        "summary": "Grade 9 Social Studies strand: an ecological footprint measures the amount of land and resources required to support a person’s lifestyle and absorb their waste, allowing comparisons of environmental impact.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does an ecological footprint measure?",
+            "options": [
+              "A concept unrelated to geography",
+              "The average temperature of a region",
+              "The land and resources required to support a lifestyle and absorb its waste",
+              "The total population of a country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can ecological footprints be used to compare environmental impact between countries?",
+            "options": [
+              "A concept unrelated to ecological footprint",
+              "No, ecological footprints can never be compared between countries",
+              "Yes",
+              "Environmental impact has no connection to ecological footprint"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would likely increase a person’s ecological footprint?",
+            "options": [
+              "Walking instead of driving",
+              "Frequent air travel and high meat consumption",
+              "Growing your own vegetables",
+              "Using public transit regularly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might people in wealthier countries generally have larger ecological footprints than people in lower-income countries?",
+            "options": [
+              "This concept has no connection to geography",
+              "Higher consumption of resources, energy, and goods increases the demand placed on the environment",
+              "Wealth has no effect on how many resources a person consumes",
+              "Wealthier countries always have smaller ecological footprints than lower-income countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding ecological footprint useful for planning sustainable communities?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Sustainable communities never need to consider resource consumption",
+              "It helps identify areas where resource consumption and waste can be reduced",
+              "Ecological footprint provides no useful information for sustainability planning"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "label": "Day 102 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Structuring a Formal Debate Speech",
+        "summary": "Grade 9 Language strand: a formal debate speech presents a clear claim supported by evidence and reasoning, while also anticipating and addressing counter-arguments from the opposing side.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What must a formal debate speech present?",
+            "options": [
+              "A list of unrelated facts with no argument",
+              "A concept unrelated to writing",
+              "A summary of the opposing team’s schedule",
+              "A clear claim supported by evidence and reasoning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Should a debate speech anticipate counter-arguments from the opposing side?",
+            "options": [
+              "No, a debate speech should never consider the opposing side",
+              "A concept unrelated to debate speeches",
+              "Counter-arguments have no connection to a formal debate",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best opens a formal debate speech?",
+            "options": [
+              "A list of unrelated statistics with no context",
+              "A clear statement of the position being argued",
+              "A joke with no connection to the topic",
+              "A description of the debate venue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a debater address a counter-argument before the opposing side raises it?",
+            "options": [
+              "Addressing counter-arguments always weakens a debater’s position",
+              "Debaters should never acknowledge any opposing viewpoint",
+              "It demonstrates the speaker has considered other views, strengthening their credibility",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is using credible evidence important in a formal debate speech?",
+            "options": [
+              "Credible evidence never strengthens a persuasive argument",
+              "A debate speech never requires any supporting evidence",
+              "It makes the argument more persuasive and trustworthy to the audience and judges",
+              "This concept has no relevance to writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Exponent Laws: Multiplying and Dividing Powers with the Same Base",
+        "summary": "Grade 9 Math strand: when multiplying powers with the same base, add the exponents; when dividing powers with the same base, subtract the exponents.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "When multiplying powers with the same base, what operation is performed on the exponents?",
+            "options": [
+              "A concept unrelated to exponents",
+              "They are multiplied together",
+              "They are subtracted",
+              "They are added"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When dividing powers with the same base, are the exponents subtracted?",
+            "options": [
+              "Yes",
+              "A concept unrelated to dividing powers",
+              "The exponents are always added instead when dividing",
+              "No, exponents are never subtracted when dividing powers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is x^4 multiplied by x^3 equal to?",
+            "options": [
+              "x^43",
+              "x^12",
+              "x^1",
+              "x^7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is x^8 divided by x^3 equal to?",
+            "options": [
+              "x^11",
+              "x^24",
+              "x^2",
+              "x^5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must the bases be the same before adding or subtracting exponents using these laws?",
+            "options": [
+              "The bases never need to match to use these exponent laws",
+              "Exponent laws work identically regardless of whether the bases match",
+              "This concept has no connection to math",
+              "These exponent laws only apply when multiplying or dividing identical bases"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Naming Chemical Compounds: Ionic and Molecular Nomenclature",
+        "summary": "Grade 9 Science strand: ionic compounds are named using the metal name followed by the nonmetal name with an -ide ending, while molecular compounds use prefixes to indicate the number of atoms of each element.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "How is an ionic compound like sodium chloride typically named?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Metal name followed by the nonmetal name with an -ide ending",
+              "Two nonmetal names joined with no ending change",
+              "Only the chemical formula, with no written name"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do molecular compound names use prefixes like mono-, di-, and tri- to show the number of atoms?",
+            "options": [
+              "No, molecular compound names never use prefixes",
+              "Prefixes are only ever used for ionic compounds",
+              "Yes",
+              "A concept unrelated to molecular nomenclature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the correct molecular name for CO2?",
+            "options": [
+              "Carbon dioxide",
+              "Carbon monoxide",
+              "Dicarbon oxide",
+              "Carbon oxide"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does table salt use the ending -ide rather than the element’s usual name chlorine?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "Chlorine and chloride always refer to exactly the same thing with no naming difference",
+              "The -ide ending is the naming convention for the negative ion formed from chlorine in a compound",
+              "The -ide ending is never used when naming a compound"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a standardized naming system important for chemical compounds?",
+            "options": [
+              "A standardized naming system provides no benefit to scientific communication",
+              "It ensures scientists everywhere can identify the same compound regardless of language",
+              "This concept has no relevance to science",
+              "Every scientist uses a completely different, incompatible naming system"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Geography of Hydroelectric Power and Dam Construction",
+        "summary": "Grade 9 Social Studies strand: hydroelectric power generates electricity by using flowing or falling water to turn turbines, and building large dams to harness this resource can reshape rivers, ecosystems, and communities.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does hydroelectric power use to generate electricity?",
+            "options": [
+              "Burning coal to heat water into steam",
+              "Flowing or falling water turning turbines",
+              "A concept unrelated to geography",
+              "Wind passing over large blades"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can constructing a large dam reshape ecosystems and displace nearby communities?",
+            "options": [
+              "Yes",
+              "No, dam construction never affects ecosystems or communities",
+              "Communities are never affected by the construction of a dam",
+              "A concept unrelated to hydroelectric geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which geographic feature is generally required to generate significant hydroelectric power?",
+            "options": [
+              "A river with sufficient flow and elevation change",
+              "A flat desert with no water source",
+              "A concept unrelated to hydroelectric power",
+              "A calm lake with no water movement at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a hydroelectric dam be built in a mountainous region rather than a flat plain?",
+            "options": [
+              "Mountainous regions never provide any advantage for generating hydroelectric power",
+              "Steep elevation change provides more force to generate power as water falls",
+              "Flat plains always generate more hydroelectric power than mountainous regions",
+              "This concept has no connection to geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do some communities oppose the construction of large hydroelectric dams?",
+            "options": [
+              "Communities are always in favour of every dam project with no concerns",
+              "Hydroelectric dams never have any impact on land or wildlife",
+              "This concept has no relevance to social studies",
+              "Dams can flood land, displace residents, and disrupt fish and wildlife habitats"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "label": "Day 103 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Comma Splices and Fused Sentences",
+        "summary": "Grade 9 Language strand: a comma splice incorrectly joins two independent clauses with only a comma, and a fused sentence joins two independent clauses with no punctuation at all; both can be corrected with a period, semicolon, or coordinating conjunction.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is a comma splice?",
+            "options": [
+              "A sentence with no punctuation errors at all",
+              "Two independent clauses joined incorrectly by only a comma",
+              "A single independent clause with a period at the end",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a fused sentence join two independent clauses with no punctuation at all?",
+            "options": [
+              "A concept unrelated to fused sentences",
+              "Yes",
+              "No, a fused sentence always includes a semicolon",
+              "Fused sentences never join two independent clauses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of a comma splice?",
+            "options": [
+              "I love reading, and I read every night.",
+              "I love reading; I read every night.",
+              "I love reading, I read every night.",
+              "I love reading. I read every night."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these correctly fixes a comma splice?",
+            "options": [
+              "Removing all punctuation from the sentence entirely",
+              "Adding a second comma right after the first one",
+              "Replacing the comma with a colon in every case",
+              "Replacing the comma with a semicolon or period, or adding a coordinating conjunction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is recognizing comma splices and fused sentences important for clear writing?",
+            "options": [
+              "It helps readers see where one complete thought ends and another begins",
+              "Every sentence must contain a comma splice to be grammatically correct",
+              "These errors never affect how clearly a reader understands a sentence",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Frequency Tables and Histograms",
+        "summary": "Grade 9 Math strand: a frequency table organizes data into intervals and counts how many values fall in each interval, and a histogram displays this data as connected bars with no gaps between them.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What does a frequency table organize?",
+            "options": [
+              "Data into intervals with a count of how many values fall in each",
+              "A single value repeated many times with no intervals",
+              "A concept unrelated to data management",
+              "Only the largest and smallest values in a data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do the bars in a histogram touch with no gaps between them?",
+            "options": [
+              "No, histogram bars always have gaps between them",
+              "A concept unrelated to histograms",
+              "Yes",
+              "Histograms never use bars of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a frequency table with test scores grouped in intervals of 10, which interval would a score of 85 belong to?",
+            "options": [
+              "90-99",
+              "80-89",
+              "60-69",
+              "70-79"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a histogram differ from a bar graph of categorical data?",
+            "options": [
+              "Histogram bars touch to show continuous numerical intervals, while bar graph bars are usually separated for distinct categories",
+              "Bar graphs are always used for continuous numerical data instead of histograms",
+              "This concept has no connection to math",
+              "Histograms and bar graphs are always exactly identical with no differences"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a histogram useful for visualizing the distribution of a large data set?",
+            "options": [
+              "It shows the shape and spread of the data at a glance, including where most values cluster",
+              "Histograms can only be used for data sets with fewer than five values",
+              "A histogram never reveals any information about how data is distributed",
+              "This concept has no connection to math"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Cell Transport: Diffusion and Osmosis",
+        "summary": "Grade 9 Science strand: diffusion is the movement of particles from an area of higher concentration to lower concentration, and osmosis is the diffusion of water specifically across a semi-permeable membrane.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "A process that only occurs inside solid rocks",
+              "The movement of particles from an area of higher concentration to lower concentration",
+              "A concept unrelated to biology",
+              "The movement of particles from lower to higher concentration only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Is osmosis specifically the diffusion of water across a semi-permeable membrane?",
+            "options": [
+              "Yes",
+              "Osmosis only ever involves the movement of oxygen gas",
+              "No, osmosis never involves the movement of water",
+              "A concept unrelated to osmosis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of diffusion?",
+            "options": [
+              "A book resting on a shelf",
+              "A rock sitting motionless on the ground",
+              "Perfume scent gradually spreading through a room",
+              "A car parked in a driveway"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a plant cell placed in salty water lose water through osmosis?",
+            "options": [
+              "This concept has no connection to biology",
+              "Water always moves into a cell placed in salty water",
+              "Salt concentration never affects the movement of water across a membrane",
+              "Water moves from inside the cell, where water concentration is higher, to the saltier solution outside, where it is lower"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is diffusion important for cells to obtain oxygen and nutrients?",
+            "options": [
+              "This concept has no relevance to science",
+              "Cells always require large amounts of energy to move oxygen and nutrients in by diffusion",
+              "Diffusion never allows any particles to cross a cell membrane",
+              "It allows particles to move passively across cell membranes without requiring extra cellular energy"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Aging Populations and the Dependency Ratio",
+        "summary": "Grade 9 Social Studies strand: an aging population has a growing proportion of older residents, which raises the dependency ratio, the comparison of dependents (young and elderly) to the working-age population.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does the dependency ratio compare?",
+            "options": [
+              "The number of dependents to the working-age population",
+              "The total land area to the total population",
+              "A concept unrelated to population geography",
+              "The number of cities to the number of provinces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does an aging population increase the elderly portion of the dependency ratio?",
+            "options": [
+              "A concept unrelated to aging populations",
+              "No, an aging population never affects the dependency ratio",
+              "The dependency ratio has no connection to a country’s age structure",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these countries would likely have a high dependency ratio due to an aging population?",
+            "options": [
+              "A concept unrelated to dependency ratio",
+              "A country with a large elderly population and a low birth rate",
+              "A country with mostly working-age adults and few elderly residents",
+              "A country with no population data available"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country with an aging population face economic challenges related to healthcare and pensions?",
+            "options": [
+              "This concept has no connection to geography",
+              "Elderly populations never require healthcare or pension support",
+              "Aging populations never create any additional economic demands",
+              "Fewer working-age people are left to support the costs of a larger elderly population needing services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do some countries with aging populations encourage immigration of working-age people?",
+            "options": [
+              "Immigration never affects a country’s dependency ratio",
+              "It can help balance the dependency ratio and support continued economic productivity",
+              "This concept has no relevance to social studies",
+              "Working-age immigrants never contribute to a country’s workforce"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "label": "Day 104 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Loaded Language and Propaganda Techniques",
+        "summary": "Grade 9 Language strand: loaded language uses emotionally charged words to influence opinion, and propaganda techniques such as bandwagon and glittering generalities use loaded language to persuade audiences beyond logical argument.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What does loaded language use to influence opinion?",
+            "options": [
+              "Emotionally charged words",
+              "Neutral, factual statistics only",
+              "Only formal, technical terminology",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Does the bandwagon propaganda technique appeal to a desire to join the majority?",
+            "options": [
+              "Yes",
+              "No, the bandwagon technique never appeals to a sense of belonging",
+              "The bandwagon technique only ever appeals to logic",
+              "A concept unrelated to propaganda techniques"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which phrase is an example of loaded language?",
+            "options": [
+              "The government",
+              "The national leadership",
+              "The criminal regime",
+              "The elected officials"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an advertisement use the glittering generalities technique, pairing a product with vague positive words like freedom or greatness?",
+            "options": [
+              "It can create positive associations with the product without providing specific evidence",
+              "Glittering generalities always provide detailed factual evidence for a claim",
+              "This technique never has any persuasive effect on an audience",
+              "This concept has no connection to vocabulary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to identify loaded language and propaganda techniques when evaluating a persuasive text?",
+            "options": [
+              "This concept has no relevance to vocabulary study",
+              "Every persuasive text relies exclusively on factual evidence with no emotional appeal",
+              "It helps readers separate emotional appeal from factual evidence and sound reasoning",
+              "Loaded language and propaganda techniques never affect how a message is perceived"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Percent Change: Increase and Decrease Applications",
+        "summary": "Grade 9 Math strand: percent change measures the relative increase or decrease between an original value and a new value, calculated as the difference divided by the original value and expressed as a percent.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "How is percent change generally calculated?",
+            "options": [
+              "The new value divided by 100",
+              "A concept unrelated to percent change",
+              "The difference between the new and original value, divided by the original value, times 100",
+              "The original value divided by the new value"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a positive percent change indicate an increase from the original value?",
+            "options": [
+              "A concept unrelated to percent change",
+              "No, a positive percent change always indicates a decrease",
+              "Yes",
+              "Percent change is never positive or negative"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a shirt’s price rises from 40 dollars to 50 dollars, what is the percent increase?",
+            "options": [
+              "25 percent",
+              "10 percent",
+              "50 percent",
+              "20 percent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a population drops from 200 to 150, what is the percent decrease?",
+            "options": [
+              "33 percent",
+              "75 percent",
+              "25 percent",
+              "50 percent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is percent change more useful than the raw numerical difference when comparing changes across data sets of different sizes?",
+            "options": [
+              "It expresses change relative to the original size, making comparisons fair across different scales",
+              "The raw numerical difference always gives a more accurate comparison than percent change",
+              "Percent change never provides a fair way to compare data sets of different sizes",
+              "This concept has no connection to math"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Food Chains, Food Webs, and Energy Pyramids",
+        "summary": "Grade 9 Science strand: a food chain shows a single path of energy transfer between organisms, a food web connects multiple interlinked food chains, and an energy pyramid shows that available energy decreases at each higher trophic level.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What does a food chain show?",
+            "options": [
+              "The total mass of every organism in an ecosystem",
+              "A single path of energy transfer between organisms",
+              "A concept unrelated to biology",
+              "The temperature changes within an ecosystem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a food web connect multiple interlinked food chains?",
+            "options": [
+              "Yes",
+              "A concept unrelated to food webs",
+              "Food webs and food chains always refer to exactly the same single path",
+              "No, a food web never connects more than one food chain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In an energy pyramid, does available energy decrease or increase at each higher trophic level?",
+            "options": [
+              "A concept unrelated to energy pyramids",
+              "It increases",
+              "It decreases",
+              "It stays exactly the same at every level"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do food webs give a more accurate picture of ecosystem relationships than a single food chain?",
+            "options": [
+              "Food webs never provide any more detail than a single food chain",
+              "This concept has no connection to biology",
+              "A single food chain always shows every relationship in an ecosystem accurately",
+              "Most organisms eat and are eaten by more than one species, so multiple interconnected paths exist"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does only a small fraction of energy transfer from one trophic level to the next in an energy pyramid?",
+            "options": [
+              "Most energy is lost as heat through life processes like movement and metabolism at each level",
+              "Energy pyramids never involve any loss of energy between levels",
+              "This concept has no relevance to science",
+              "All of the energy at one trophic level is always transferred completely to the next"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Informal Economy in Developing Regions",
+        "summary": "Grade 9 Social Studies strand: the informal economy consists of unregulated, untaxed economic activity, such as street vending or unlicensed labour, which forms a significant part of the workforce in many developing regions.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What is the informal economy made up of?",
+            "options": [
+              "Unregulated, untaxed economic activity",
+              "Only activity that occurs in wealthy countries",
+              "Only large, government-registered corporations",
+              "A concept unrelated to economic geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is street vending a common example of informal economic activity?",
+            "options": [
+              "Yes",
+              "Street vending has no connection to informal economic activity",
+              "A concept unrelated to the informal economy",
+              "No, street vending is always formally regulated and taxed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes informal economic work?",
+            "options": [
+              "A concept unrelated to economic geography",
+              "Work performed only within large multinational corporations",
+              "Fully licensed work with complete government oversight",
+              "Unlicensed, untaxed labour that operates outside government regulation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might informal economy workers lack access to benefits like healthcare or pensions?",
+            "options": [
+              "Benefits like healthcare are never connected to a worker’s employment status",
+              "Their work is unregistered and untaxed, placing it outside formal labour protections",
+              "This concept has no connection to geography",
+              "Informal economy workers always receive the same benefits as formal employees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the informal economy make it difficult for governments to accurately measure a country’s total economic activity?",
+            "options": [
+              "Governments never face any difficulty measuring economic activity",
+              "The informal economy is always fully included in official government statistics",
+              "This concept has no relevance to social studies",
+              "Informal transactions go unreported and untaxed, so they are excluded from official statistics"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "label": "Day 105 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Hyperbole and Understatement",
+        "summary": "Grade 9 Language strand: hyperbole is deliberate exaggeration for emphasis or effect, while understatement deliberately minimizes the importance of something, often for ironic or humorous effect.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "A precise, literal description with no exaggeration",
+              "A type of formal citation",
+              "A concept unrelated to reading",
+              "Deliberate exaggeration for emphasis or effect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does understatement deliberately minimize the importance of something?",
+            "options": [
+              "Yes",
+              "No, understatement always exaggerates the importance of something",
+              "Understatement has no connection to how a statement is expressed",
+              "A concept unrelated to understatement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these sentences is an example of hyperbole?",
+            "options": [
+              "I have told you twice to clean your room.",
+              "Your room needs some tidying.",
+              "I have told you a million times to clean your room.",
+              "Please clean your room today."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these sentences is an example of understatement?",
+            "options": [
+              "Describing a hurricane as an extremely dangerous storm",
+              "Describing a light rain shower as a torrential downpour",
+              "Describing a calm day as a hurricane",
+              "Describing a hurricane as a bit of a breeze"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use understatement to describe a serious or tragic event?",
+            "options": [
+              "It can create an ironic contrast that highlights the event’s true severity through restraint",
+              "Understatement always makes a serious event seem more dramatic and exaggerated",
+              "This concept has no connection to reading",
+              "Understatement never affects how a reader perceives a described event"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Solving Multi-Step Linear Equations with Fractions and Decimals",
+        "summary": "Grade 9 Math strand: solving multi-step linear equations containing fractions or decimals often requires clearing them first by multiplying every term by a common denominator or power of ten before isolating the variable.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What is a common first step when solving an equation containing fractions?",
+            "options": [
+              "Immediately divide every term by zero",
+              "A concept unrelated to solving equations",
+              "Ignore the fractions and solve only with the whole numbers present",
+              "Multiply every term by the common denominator to clear the fractions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can multiplying every term of an equation with decimals by a power of ten clear the decimals?",
+            "options": [
+              "Yes",
+              "A concept unrelated to solving equations",
+              "Multiplying by a power of ten always creates more decimals",
+              "No, decimals in an equation can never be cleared"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Solve for x: x/2 + 3 = 7.",
+            "options": [
+              "x = 2",
+              "x = 4",
+              "x = 10",
+              "x = 8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solve for x: 0.5x - 1 = 4.",
+            "options": [
+              "x = 3",
+              "x = 8",
+              "x = 10",
+              "x = 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is clearing fractions or decimals from an equation before solving often helpful?",
+            "options": [
+              "This concept has no connection to math",
+              "Equations with fractions or decimals can never be solved using this method",
+              "It simplifies the equation into whole numbers, reducing the chance of arithmetic errors",
+              "Clearing fractions or decimals always makes an equation harder to solve"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Particle Theory of Matter and Changes of State",
+        "summary": "Grade 9 Science strand: the particle theory of matter states that all matter is made of tiny particles in constant motion with spaces between them, and changes of state occur as energy is added or removed, altering particle motion and spacing.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "According to the particle theory of matter, what is all matter made of?",
+            "options": [
+              "A single continuous substance with no particles",
+              "Only visible solid chunks with no motion",
+              "A concept unrelated to chemistry",
+              "Tiny particles in constant motion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do particles have spaces between them according to the particle theory of matter?",
+            "options": [
+              "Spacing between particles has no connection to the particle theory",
+              "No, particles are always packed with absolutely no space between them",
+              "A concept unrelated to the particle theory",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to particle motion when energy is added to a solid, causing it to melt?",
+            "options": [
+              "Particles stop moving completely",
+              "A concept unrelated to changes of state",
+              "Particles move closer together and slow down",
+              "Particles move faster and spread further apart"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do gas particles have more space between them than particles in a solid?",
+            "options": [
+              "Gas particles always have less energy than particles in a solid",
+              "Gas particles have much more energy and move more freely, spreading further apart",
+              "This concept has no connection to chemistry",
+              "The spacing between particles never changes between different states of matter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the particle theory of matter useful for explaining why gases can be compressed but solids generally cannot?",
+            "options": [
+              "Gas particles have large spaces between them that can be pushed closer together, while solid particles are already tightly packed",
+              "This concept has no relevance to science",
+              "Gases and solids always compress in exactly the same way",
+              "Solids can always be compressed far more easily than gases"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Separatist Movements and Political Geography",
+        "summary": "Grade 9 Social Studies strand: a separatist movement seeks independence or greater autonomy for a region within a larger country, often rooted in a distinct cultural, linguistic, or economic identity.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does a separatist movement typically seek for a region within a larger country?",
+            "options": [
+              "Complete elimination of all regional governments",
+              "Independence or greater autonomy",
+              "A concept unrelated to political geography",
+              "Total merger with a neighbouring country’s government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can separatist movements be rooted in a region’s distinct cultural or linguistic identity?",
+            "options": [
+              "No, separatist movements never relate to culture or language",
+              "Yes",
+              "A concept unrelated to separatist movements",
+              "Cultural identity has no connection to political geography"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a factor that commonly motivates a separatist movement?",
+            "options": [
+              "A region having a distinct language, culture, or history from the rest of the country",
+              "A region having no population of its own",
+              "A region having identical culture and language to the rest of the country",
+              "A concept unrelated to political geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a region with strong economic resources support a separatist movement?",
+            "options": [
+              "Separatist movements only occur in regions with no economic resources",
+              "Residents may feel they contribute more wealth than they receive back in return",
+              "This concept has no connection to geography",
+              "Economically strong regions never support separatist movements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do political geographers study separatist movements around the world?",
+            "options": [
+              "Separatist movements never provide any useful information to political geographers",
+              "This concept has no relevance to social studies",
+              "Understanding regional identity and autonomy conflicts helps explain how national borders and governance can change over time",
+              "National borders never change as a result of separatist movements"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "label": "Day 106 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Bildungsroman — Coming-of-Age Narrative Elements",
+        "summary": "Grade 9 Language strand: a bildungsroman is a coming-of-age narrative that traces a young protagonist’s psychological and moral growth from youth to maturity, often through a formative experience or journey.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What does a bildungsroman trace?",
+            "options": [
+              "The complete history of a fictional nation",
+              "A concept unrelated to writing",
+              "A detailed scientific report",
+              "A young protagonist’s psychological and moral growth from youth to maturity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a bildungsroman typically follow a formative experience or journey?",
+            "options": [
+              "A concept unrelated to bildungsroman",
+              "No, a bildungsroman never involves any kind of journey or experience",
+              "Formative experiences have no connection to this narrative form",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best describes a bildungsroman’s central protagonist?",
+            "options": [
+              "A young character who grows and changes significantly over the story",
+              "A concept unrelated to writing",
+              "A fully mature adult who never changes throughout the story",
+              "A minor character with no role in the plot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a coming-of-age story often include a mentor figure who guides the protagonist?",
+            "options": [
+              "Mentor figures never appear in coming-of-age stories",
+              "Mentors can provide wisdom or challenges that support the protagonist’s growth and self-discovery",
+              "A mentor always prevents a protagonist from growing or changing",
+              "This concept has no connection to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the ending of a bildungsroman important for showing the protagonist’s development?",
+            "options": [
+              "It typically reveals how the character has matured or changed compared to who they were at the beginning",
+              "The ending of a bildungsroman never reflects any character growth",
+              "This concept has no relevance to writing",
+              "A bildungsroman’s protagonist is always exactly the same at the end as at the beginning"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "The Number of Solutions to a Linear System (None, One, or Infinite)",
+        "summary": "Grade 9 Math strand: a system of two linear equations can have exactly one solution, no solution, or infinitely many solutions, depending on whether the lines intersect, are parallel, or are identical.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "How many solutions does a linear system have if the two lines intersect at a single point?",
+            "options": [
+              "A concept unrelated to systems of equations",
+              "No solution",
+              "One solution",
+              "Infinitely many solutions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does a system with two parallel, non-identical lines have no solution?",
+            "options": [
+              "Yes",
+              "A concept unrelated to parallel lines",
+              "Parallel lines always produce infinitely many solutions",
+              "No, parallel non-identical lines always have exactly one solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many solutions exist if both equations in a system graph as the exact same line?",
+            "options": [
+              "Infinitely many solutions",
+              "A concept unrelated to systems of equations",
+              "No solution at all",
+              "Exactly one solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two lines in a system have the same slope but different y-intercepts, how many solutions does the system have?",
+            "options": [
+              "A concept unrelated to systems of equations",
+              "Infinitely many solutions",
+              "Exactly one solution",
+              "No solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to compare the slopes and y-intercepts of two equations before graphing them to solve a system?",
+            "options": [
+              "Comparing slopes and y-intercepts never provides any useful information about a system",
+              "This concept has no connection to math",
+              "It allows you to predict how many solutions the system will have without graphing",
+              "The number of solutions to a system can never be predicted before graphing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Lenses and the Formation of Images (Concave and Convex)",
+        "summary": "Grade 9 Science strand: a convex lens curves outward and converges light rays to form an image, while a concave lens curves inward and diverges light rays, and a lens’s shape determines how it bends light.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "Does a convex lens curve outward?",
+            "options": [
+              "A concept unrelated to lenses",
+              "No, a convex lens always curves inward",
+              "Convex lenses have no defined curvature",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a concave lens diverge light rays?",
+            "options": [
+              "A concept unrelated to concave lenses",
+              "No, a concave lens always converges light rays",
+              "Yes",
+              "Concave lenses never affect the path of light"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which type of lens is commonly used to correct farsightedness by converging light?",
+            "options": [
+              "Neither type of lens is ever used for vision correction",
+              "A concept unrelated to lenses",
+              "A concave lens",
+              "A convex lens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a convex lens cause light rays passing through it to converge at a focal point?",
+            "options": [
+              "A convex lens always spreads light rays further apart",
+              "Convex lenses never bend light rays in any direction",
+              "Its outward curve bends parallel light rays inward toward a common point",
+              "This concept has no connection to science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a concave lens be used to correct nearsightedness?",
+            "options": [
+              "Concave lenses always converge light exactly like a convex lens",
+              "Concave lenses never have any effect on how light enters the eye",
+              "This concept has no relevance to science",
+              "It diverges light rays before they enter the eye, adjusting where the image comes into focus on the retina"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Resource Curse: Natural Wealth and Economic Underdevelopment",
+        "summary": "Grade 9 Social Studies strand: the resource curse describes a phenomenon in which countries rich in valuable natural resources sometimes experience slower economic growth, corruption, or conflict rather than widespread prosperity.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does the resource curse describe?",
+            "options": [
+              "Countries rich in natural resources sometimes experiencing slower growth, corruption, or conflict",
+              "Countries with no natural resources always becoming extremely wealthy",
+              "A curse placed on a country by a foreign government",
+              "A concept unrelated to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can the resource curse involve increased corruption in a resource-rich country?",
+            "options": [
+              "No, the resource curse never involves any corruption",
+              "Corruption has no connection to natural resource wealth",
+              "A concept unrelated to the resource curse",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these outcomes is commonly associated with the resource curse?",
+            "options": [
+              "Natural resource wealth always being distributed equally among all citizens",
+              "Resource-rich countries always avoiding any economic instability",
+              "Wealth becoming concentrated among a small elite rather than benefiting the wider population",
+              "A concept unrelated to the resource curse"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country overly dependent on exporting a single natural resource, like oil, be vulnerable to economic instability?",
+            "options": [
+              "Its economy can be heavily affected by global price fluctuations for that resource",
+              "Countries exporting a single resource are always more economically stable",
+              "Global price changes never affect a country’s economy in any way",
+              "This concept has no connection to geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do some resource-rich countries pursue economic diversification to avoid the resource curse?",
+            "options": [
+              "Economic diversification never helps a country avoid instability",
+              "This concept has no relevance to social studies",
+              "Countries dependent on a single resource are always the most economically stable",
+              "Reducing dependence on a single resource and its volatile market value promotes more stable growth"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "label": "Day 107 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Apostrophes for Possession and Contraction",
+        "summary": "Grade 9 Language strand: an apostrophe shows possession by adding an apostrophe and s to a singular noun or just an apostrophe after a plural noun ending in s, and it also marks the missing letters in a contraction.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "How is possession typically shown for a singular noun?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Add only an s with no apostrophe",
+              "Add an apostrophe and s",
+              "Add an apostrophe at the very start of the word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does an apostrophe in a contraction mark missing letters?",
+            "options": [
+              "A concept unrelated to contractions",
+              "Yes",
+              "No, apostrophes in contractions never mark missing letters",
+              "Contractions never contain an apostrophe"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these correctly shows possession for a plural noun ending in s, like the dogs?",
+            "options": [
+              "The dogs toys’",
+              "The dogs’ toys",
+              "The dog’s toys",
+              "The dogs’s toys"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the contraction it’s stand for?",
+            "options": [
+              "Belonging to it",
+              "It is",
+              "It was",
+              "A concept unrelated to contractions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to distinguish between its (possessive) and it’s (contraction) in formal writing?",
+            "options": [
+              "Using the wrong form changes the meaning and signals a grammatical error to careful readers",
+              "Formal writing never requires distinguishing between these two words",
+              "This concept has no connection to grammar",
+              "The two words are always completely interchangeable with no difference in meaning"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying and Dividing Rational Expressions",
+        "summary": "Grade 9 Math strand: multiplying rational expressions involves multiplying numerators and denominators and then simplifying common factors, while dividing rational expressions involves multiplying by the reciprocal of the divisor.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "When multiplying rational expressions, what should be done after multiplying the numerators and denominators?",
+            "options": [
+              "Immediately add the two denominators together",
+              "Discard the denominators entirely",
+              "A concept unrelated to rational expressions",
+              "Simplify by cancelling common factors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When dividing rational expressions, do you multiply by the reciprocal of the divisor?",
+            "options": [
+              "Division of rational expressions always requires finding a common denominator instead",
+              "No, dividing rational expressions never involves a reciprocal",
+              "Yes",
+              "A concept unrelated to dividing rational expressions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Simplify: (x/2) multiplied by (4/x).",
+            "options": [
+              "8/x",
+              "x",
+              "4",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Simplify: (x/3) divided by (x/6).",
+            "options": [
+              "3",
+              "6",
+              "1/2",
+              "2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is factoring often a necessary first step before multiplying or dividing rational expressions?",
+            "options": [
+              "Factoring never helps simplify a rational expression",
+              "Rational expressions can never be simplified through factoring",
+              "Factoring reveals common factors that can be cancelled to simplify the expression",
+              "This concept has no connection to math"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Weather Systems: Air Masses and Fronts",
+        "summary": "Grade 9 Science strand: an air mass is a large body of air with fairly uniform temperature and humidity, and a front forms where two different air masses meet, often producing changes in weather.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What is an air mass?",
+            "options": [
+              "A single raindrop falling from a cloud",
+              "A large body of air with fairly uniform temperature and humidity",
+              "A small pocket of gas found underground",
+              "A concept unrelated to earth science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a front form where two different air masses meet?",
+            "options": [
+              "Yes",
+              "Air masses never interact with one another",
+              "No, a front never forms where air masses meet",
+              "A concept unrelated to weather fronts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of front forms when a cold air mass pushes under and lifts a warm air mass?",
+            "options": [
+              "A warm front",
+              "A concept unrelated to weather systems",
+              "A cold front",
+              "A stationary front"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do fronts often bring precipitation and changing weather conditions?",
+            "options": [
+              "Fronts never have any effect on precipitation or weather conditions",
+              "This concept has no connection to earth science",
+              "Air masses always have exactly the same temperature and humidity when they meet",
+              "Warm air rising over cooler air can cool and condense, forming clouds and precipitation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might meteorologists track the movement of air masses to forecast upcoming weather?",
+            "options": [
+              "This concept has no relevance to science",
+              "The temperature and humidity of an approaching air mass strongly influence future weather conditions",
+              "Air masses never provide any information useful for forecasting weather",
+              "Weather conditions are never influenced by the movement of air masses"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Smart Cities: Technology and Urban Planning Innovation",
+        "summary": "Grade 9 Social Studies strand: a smart city uses digital technology and data collection, such as sensors and connected infrastructure, to improve services like transportation, energy use, and public safety.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does a smart city use to improve urban services?",
+            "options": [
+              "A complete absence of any infrastructure",
+              "A concept unrelated to urban geography",
+              "Digital technology and data collection",
+              "Only traditional paper-based record keeping"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can smart city sensors help manage traffic flow and energy use?",
+            "options": [
+              "Yes",
+              "Traffic flow and energy use are never influenced by technology",
+              "A concept unrelated to smart cities",
+              "No, smart city sensors never have any connection to traffic or energy use"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of smart city technology?",
+            "options": [
+              "A traditional printed city map with no digital features",
+              "A city with no connected infrastructure of any kind",
+              "A concept unrelated to smart cities",
+              "Traffic lights that adjust automatically based on real-time congestion data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a smart city use connected sensors to monitor water or energy usage across the city?",
+            "options": [
+              "This concept has no connection to geography",
+              "It allows planners to identify inefficiencies and respond quickly to problems like leaks or outages",
+              "Smart city sensors are never used to monitor resource usage",
+              "Monitoring water and energy usage never provides any useful information to city planners"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do some critics raise privacy concerns about smart city technology?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Smart city technology never collects any data about residents",
+              "Extensive data collection about residents’ movements and habits could be misused or inadequately protected",
+              "Privacy concerns have no connection to how smart city technology operates"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "label": "Day 108 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Juxtaposition in Literature",
+        "summary": "Grade 9 Language strand: juxtaposition places two contrasting ideas, characters, or images side by side to highlight their differences and create deeper meaning for the reader.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What does juxtaposition place side by side?",
+            "options": [
+              "Two contrasting ideas, characters, or images",
+              "A single idea repeated multiple times",
+              "Two identical, unrelated grammar rules",
+              "A concept unrelated to reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can juxtaposition highlight differences to create deeper meaning?",
+            "options": [
+              "Yes",
+              "No, juxtaposition never highlights any differences",
+              "A concept unrelated to juxtaposition",
+              "Contrasting ideas placed together never create additional meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of juxtaposition?",
+            "options": [
+              "Listing a character’s daily schedule in chronological order",
+              "Describing the weather with no reference to any character",
+              "Describing a wealthy character’s mansion right after describing a poor character’s shack",
+              "Describing the same character’s mansion twice in a row"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author juxtapose a peaceful setting with a violent event?",
+            "options": [
+              "Juxtaposing a peaceful setting with a violent event never affects a reader’s emotional response",
+              "Peaceful and violent scenes can never be placed near each other in a story",
+              "The contrast can intensify the emotional impact of the violent event on the reader",
+              "This concept has no connection to literature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is recognizing juxtaposition useful when analyzing a text’s themes?",
+            "options": [
+              "Juxtaposition never reveals any deeper meaning about a text’s themes",
+              "The contrast between two elements often reveals the author’s underlying commentary or message",
+              "Every element in a story is always presented in complete isolation with no contrast",
+              "This concept has no relevance to reading comprehension"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Scale Diagrams and Scale Factor",
+        "summary": "Grade 9 Math strand: a scale diagram represents a real object using a proportional scale factor, and the scale factor is the ratio between the diagram’s dimensions and the actual object’s dimensions.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What does a scale diagram use to represent a real object?",
+            "options": [
+              "An object drawn without any consistent proportions",
+              "A completely random, unrelated set of dimensions",
+              "A proportional scale factor",
+              "A concept unrelated to measurement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the scale factor the ratio between a diagram’s dimensions and the actual object’s dimensions?",
+            "options": [
+              "No, the scale factor never compares a diagram to the real object",
+              "Yes",
+              "Scale factor only ever applies to three-dimensional objects",
+              "A concept unrelated to scale factor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a map has a scale of 1 cm to 5 km, how many kilometres does 3 cm on the map represent?",
+            "options": [
+              "15 km",
+              "8 km",
+              "5 km",
+              "3 km"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a model car has a scale factor of 1:20, and the model is 10 cm long, how long is the real car?",
+            "options": [
+              "10 cm",
+              "20 cm",
+              "200 cm",
+              "2000 cm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding scale factor important when reading a blueprint or map?",
+            "options": [
+              "This concept has no connection to math",
+              "Blueprints and maps never use a consistent scale factor",
+              "It allows accurate real-world measurements to be calculated from a smaller proportional drawing",
+              "Scale factor never allows any real-world measurements to be calculated"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Excretory System and Waste Removal",
+        "summary": "Grade 9 Science strand: the excretory system removes metabolic waste products from the body, with the kidneys filtering blood to remove urea and excess water, forming urine.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What does the excretory system remove from the body?",
+            "options": [
+              "Only undigested food particles",
+              "Metabolic waste products",
+              "A concept unrelated to biology",
+              "Only oxygen from the lungs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do the kidneys filter blood to remove urea and excess water?",
+            "options": [
+              "Urea and water are never removed by the kidneys",
+              "Yes",
+              "A concept unrelated to the excretory system",
+              "No, the kidneys never filter blood"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What waste product do the kidneys filter out of the blood to form urine?",
+            "options": [
+              "Oxygen",
+              "Urea",
+              "A concept unrelated to the excretory system",
+              "Glucose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the excretory system important for maintaining homeostasis in the body?",
+            "options": [
+              "Homeostasis is maintained entirely without any involvement from the excretory system",
+              "The excretory system never has any connection to maintaining stable internal conditions",
+              "This concept has no connection to biology",
+              "It removes waste and helps regulate water and ion balance, keeping internal conditions stable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might dehydration affect how concentrated a person’s urine appears?",
+            "options": [
+              "With less water available, the kidneys conserve water, producing more concentrated urine",
+              "The kidneys always produce urine of exactly the same concentration regardless of hydration",
+              "Dehydration never affects the concentration of a person’s urine",
+              "This concept has no relevance to science"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ocean Plastic Pollution and Marine Debris",
+        "summary": "Grade 9 Social Studies strand: ocean plastic pollution accumulates as human waste enters waterways and travels via ocean currents, often collecting in large garbage patches that harm marine ecosystems and coastal economies.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "How does plastic pollution often enter the ocean?",
+            "options": [
+              "Only through direct dumping from ships and nothing else",
+              "Plastic materializing directly within ocean water with no outside source",
+              "A concept unrelated to geography",
+              "Waste travelling through waterways and rivers into the sea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do ocean currents help transport plastic debris into large collection zones?",
+            "options": [
+              "A concept unrelated to marine debris",
+              "Yes",
+              "No, ocean currents never transport any debris",
+              "Plastic debris always stays exactly where it entered the ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What term describes a large area where ocean currents accumulate floating plastic debris?",
+            "options": [
+              "A coral reef",
+              "A continental shelf",
+              "A concept unrelated to marine pollution",
+              "A garbage patch"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might marine plastic pollution be especially harmful to sea turtles and seabirds?",
+            "options": [
+              "This concept has no connection to geography",
+              "They can mistake plastic debris for food, ingesting it, or become entangled in it",
+              "Sea turtles and seabirds are never affected by plastic debris in the ocean",
+              "Plastic debris always sinks immediately and never affects marine wildlife"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is ocean plastic pollution considered a geographic issue that crosses national borders?",
+            "options": [
+              "Ocean currents never carry pollution beyond the country where it entered the water",
+              "Ocean currents can carry debris far from its original source, affecting coastlines and countries far away",
+              "This concept has no relevance to social studies",
+              "Ocean plastic pollution always stays within the borders of the country where it originated"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "label": "Day 109 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Fact vs Opinion in News Reporting",
+        "summary": "Grade 9 Language strand: a fact is a statement that can be verified as true or false with evidence, while an opinion expresses a personal belief or judgment, and distinguishing them is essential for evaluating news reporting.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What can a fact be verified with?",
+            "options": [
+              "A guess with no supporting information",
+              "Personal feelings alone",
+              "A concept unrelated to media literacy",
+              "Evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does an opinion express a personal belief or judgment?",
+            "options": [
+              "Opinions are always identical to verifiable facts",
+              "No, an opinion never expresses a personal belief",
+              "Yes",
+              "A concept unrelated to opinions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a fact rather than an opinion?",
+            "options": [
+              "The meeting should have been shorter.",
+              "That was the best meeting ever held.",
+              "The meeting started at 9 a.m.",
+              "The meeting was far too long and boring."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a news article blend fact and opinion in a way that misleads readers?",
+            "options": [
+              "Presenting opinion using confident, factual-sounding language can make it seem more objective than it is",
+              "Blending fact and opinion never affects how a reader interprets a news article",
+              "News articles are always required by law to separate fact and opinion clearly",
+              "This concept has no connection to media literacy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is distinguishing fact from opinion an important media literacy skill?",
+            "options": [
+              "This concept has no relevance to media literacy",
+              "Every statement in a news report is always either entirely fact or entirely opinion with no ambiguity",
+              "It helps readers evaluate the reliability and objectivity of the information they consume",
+              "Distinguishing fact from opinion never helps a reader evaluate information"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Simplifying Cube Roots and Higher-Order Radicals",
+        "summary": "Grade 9 Math strand: a cube root asks what number multiplied by itself three times equals the radicand, and higher-order radicals extend this idea to nth roots, simplified by identifying perfect nth-power factors.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "What does a cube root ask you to find?",
+            "options": [
+              "A number that, multiplied by itself three times, equals the radicand",
+              "A concept unrelated to radicals",
+              "A number that, multiplied by itself twice, equals the radicand",
+              "The largest factor of a given number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can higher-order radicals be simplified by identifying perfect nth-power factors?",
+            "options": [
+              "A concept unrelated to higher-order radicals",
+              "No, higher-order radicals can never be simplified",
+              "Yes",
+              "Simplifying radicals only ever applies to square roots"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the cube root of 27?",
+            "options": [
+              "27",
+              "3",
+              "6",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the cube root of 64?",
+            "options": [
+              "32",
+              "16",
+              "4",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a cube root produce a negative result while a square root of a positive number cannot?",
+            "options": [
+              "Cube roots and square roots always behave in exactly the same way with negative numbers",
+              "A cube root can never produce a negative result under any circumstances",
+              "This concept has no connection to math",
+              "A negative number multiplied by itself an odd number of times remains negative, unlike squaring which always gives a positive result"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Cell Division: Mitosis and Meiosis",
+        "summary": "Grade 9 Science strand: mitosis produces two genetically identical daughter cells for growth and repair, while meiosis produces four genetically unique reproductive cells (gametes) with half the chromosome number.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What does mitosis produce?",
+            "options": [
+              "Four genetically unique reproductive cells",
+              "A single cell with double the original chromosome number",
+              "A concept unrelated to biology",
+              "Two genetically identical daughter cells"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does meiosis produce reproductive cells with half the chromosome number?",
+            "options": [
+              "No, meiosis never changes the number of chromosomes",
+              "Yes",
+              "A concept unrelated to meiosis",
+              "Meiosis always doubles the chromosome number instead"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which type of cell division is used for growth and tissue repair?",
+            "options": [
+              "Mitosis",
+              "Meiosis",
+              "A concept unrelated to cell division",
+              "Neither mitosis nor meiosis is ever used for growth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does meiosis produce four genetically unique cells rather than two identical ones?",
+            "options": [
+              "Genetic recombination never occurs during meiosis",
+              "It involves genetic recombination and independent assortment, creating unique combinations of chromosomes",
+              "This concept has no connection to biology",
+              "Meiosis always produces cells that are perfectly identical to one another"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important that gametes produced by meiosis have half the normal chromosome number?",
+            "options": [
+              "So that when two gametes combine during fertilization, the resulting offspring has the correct full chromosome number",
+              "This concept has no relevance to science",
+              "Fertilization always results in offspring with double the normal chromosome number",
+              "Gametes never need to have a reduced chromosome number for reproduction to work"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Geography of Renewable Wind Energy Siting",
+        "summary": "Grade 9 Social Studies strand: wind energy generation depends heavily on geographic siting factors such as consistent wind speed, open land or offshore location, and proximity to transmission infrastructure.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What geographic factor is essential for effective wind energy generation?",
+            "options": [
+              "A region with no wind at all",
+              "A densely forested valley with no open space",
+              "A concept unrelated to geography",
+              "Consistent wind speed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can wind turbines be sited offshore to take advantage of strong, consistent ocean winds?",
+            "options": [
+              "A concept unrelated to wind energy siting",
+              "Yes",
+              "No, wind turbines can never be placed offshore",
+              "Offshore locations never provide any advantage for wind energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these locations would likely be well-suited for a wind farm?",
+            "options": [
+              "A concept unrelated to wind energy",
+              "An open plain or coastal area with strong, steady winds",
+              "A densely populated downtown core with tall buildings",
+              "A sheltered valley with little to no wind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might wind turbines be sited far from residential areas despite being a clean energy source?",
+            "options": [
+              "Wind turbines are always required by law to be built next to residential neighbourhoods",
+              "Concerns about noise, visual impact, and effects on local wildlife can make nearby communities hesitant",
+              "This concept has no connection to geography",
+              "Wind turbines never raise any concerns among nearby residents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is proximity to transmission infrastructure an important siting consideration for a wind farm?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Transmission infrastructure never affects where a wind farm should be built",
+              "Wind farms never need to be connected to any electrical grid",
+              "Electricity generated must be efficiently transported to where it will be consumed, requiring nearby grid connections"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "label": "Day 110 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Personification, Grammar, Figurative Language, and Media Literacy (Days 101-109)",
+        "summary": "Grade 9 Language strand review: students revisit personification and pathetic fallacy, comma splices and fused sentences, hyperbole and understatement, apostrophes for possession and contraction, and fact vs opinion in news reporting.",
+        "resourceLabel": "TVO Learn: Grade 9 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-english",
+        "quiz": [
+          {
+            "q": "What is personification?",
+            "options": [
+              "A type of formal persuasive essay",
+              "A concept unrelated to reading",
+              "A literary device that gives human qualities to non-human things",
+              "A device that removes all emotion from a poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a comma splice?",
+            "options": [
+              "A single independent clause with a period at the end",
+              "Two independent clauses joined incorrectly by only a comma",
+              "A concept unrelated to grammar",
+              "A sentence with no punctuation errors at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "Deliberate exaggeration for emphasis or effect",
+              "A precise, literal description with no exaggeration",
+              "A concept unrelated to reading",
+              "A type of formal citation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is possession typically shown for a singular noun?",
+            "options": [
+              "Add only an s with no apostrophe",
+              "Add an apostrophe at the very start of the word",
+              "Add an apostrophe and s",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can a fact be verified with?",
+            "options": [
+              "A guess with no supporting information",
+              "Personal feelings alone",
+              "Evidence",
+              "A concept unrelated to media literacy"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Factoring, Data Management, Equations, and Radicals (Days 101-109)",
+        "summary": "Grade 9 Math strand review: students revisit factoring trinomials, frequency tables and histograms, solving multi-step equations with fractions and decimals, multiplying and dividing rational expressions, and simplifying cube roots.",
+        "resourceLabel": "TVO Learn: Grade 9 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "quiz": [
+          {
+            "q": "When factoring x^2 + bx + c, what must the two numbers multiply to?",
+            "options": [
+              "A concept unrelated to factoring",
+              "x",
+              "b",
+              "c"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a frequency table organize?",
+            "options": [
+              "A single value repeated many times with no intervals",
+              "Data into intervals with a count of how many values fall in each",
+              "Only the largest and smallest values in a data set",
+              "A concept unrelated to data management"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common first step when solving an equation containing fractions?",
+            "options": [
+              "Ignore the fractions and solve only with the whole numbers present",
+              "Multiply every term by the common denominator to clear the fractions",
+              "Immediately divide every term by zero",
+              "A concept unrelated to solving equations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When multiplying rational expressions, what should be done after multiplying the numerators and denominators?",
+            "options": [
+              "Simplify by cancelling common factors",
+              "Discard the denominators entirely",
+              "A concept unrelated to rational expressions",
+              "Immediately add the two denominators together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a cube root ask you to find?",
+            "options": [
+              "A number that, multiplied by itself twice, equals the radicand",
+              "The largest factor of a given number",
+              "A concept unrelated to radicals",
+              "A number that, multiplied by itself three times, equals the radicand"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Earth Science, Biology, Chemistry, and Physics (Days 101-109)",
+        "summary": "Grade 9 Science strand review: students revisit volcanoes and volcanic activity, cell transport by diffusion and osmosis, the particle theory of matter, weather systems, and cell division by mitosis and meiosis.",
+        "resourceLabel": "TVO Learn: Grade 9 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-science",
+        "quiz": [
+          {
+            "q": "What is magma called once it reaches the Earth’s surface?",
+            "options": [
+              "Lava",
+              "Sediment",
+              "Ash only",
+              "A concept unrelated to volcanoes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "The movement of particles from an area of higher concentration to lower concentration",
+              "A concept unrelated to biology",
+              "The movement of particles from lower to higher concentration only",
+              "A process that only occurs inside solid rocks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the particle theory of matter, what is all matter made of?",
+            "options": [
+              "Only visible solid chunks with no motion",
+              "Tiny particles in constant motion",
+              "A concept unrelated to chemistry",
+              "A single continuous substance with no particles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an air mass?",
+            "options": [
+              "A concept unrelated to earth science",
+              "A small pocket of gas found underground",
+              "A large body of air with fairly uniform temperature and humidity",
+              "A single raindrop falling from a cloud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does mitosis produce?",
+            "options": [
+              "Four genetically unique reproductive cells",
+              "Two genetically identical daughter cells",
+              "A concept unrelated to biology",
+              "A single cell with double the original chromosome number"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: Geography and Global Issues (Days 101-109)",
+        "summary": "Grade 9 Social Studies strand review: students revisit ecological footprint, aging populations and the dependency ratio, separatist movements, smart cities, and the geography of wind energy siting.",
+        "resourceLabel": "TVO Learn: Grade 9 Geography",
+        "resourceUrl": "https://tvolearn.com/pages/grade-9-geography",
+        "quiz": [
+          {
+            "q": "What does an ecological footprint measure?",
+            "options": [
+              "A concept unrelated to geography",
+              "The land and resources required to support a lifestyle and absorb its waste",
+              "The total population of a country",
+              "The average temperature of a region"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the dependency ratio compare?",
+            "options": [
+              "A concept unrelated to population geography",
+              "The number of cities to the number of provinces",
+              "The number of dependents to the working-age population",
+              "The total land area to the total population"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a separatist movement typically seek for a region within a larger country?",
+            "options": [
+              "Complete elimination of all regional governments",
+              "Independence or greater autonomy",
+              "A concept unrelated to political geography",
+              "Total merger with a neighbouring country’s government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a smart city use to improve urban services?",
+            "options": [
+              "A complete absence of any infrastructure",
+              "A concept unrelated to urban geography",
+              "Digital technology and data collection",
+              "Only traditional paper-based record keeping"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What geographic factor is essential for effective wind energy generation?",
+            "options": [
+              "Consistent wind speed",
+              "A concept unrelated to geography",
+              "A densely forested valley with no open space",
+              "A region with no wind at all"
+            ],
+            "answer": 0
           }
         ]
       }

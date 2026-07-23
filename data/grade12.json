@@ -7202,6 +7202,7 @@
         "summary": "Students celebrate completing two of Ontario's most rigorous mathematics courses and look ahead with confidence.",
         "resourceLabel": "Khan Academy: Encouragement for Math Students",
         "resourceUrl": "https://www.youtube.com/watch?v=riXcZT2ICjA",
+        "videoUrl": "https://www.youtube.com/watch?v=riXcZT2ICjA",
         "quiz": [
           {
             "q": "Completing both Advanced Functions and Calculus in Grade 12 demonstrates ___.",
@@ -7320,6 +7321,7 @@
         "summary": "Students celebrate completing Grade 12 Physics and look ahead to university and the world of physics.",
         "resourceLabel": "Crash Course Physics: Celebration",
         "resourceUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
+        "videoUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
         "quiz": [
           {
             "q": "Grade 12 Physics has given you ___.",
@@ -7631,6 +7633,7 @@
         "summary": "Grade 12 English strand: feminist literary criticism examines how gender shapes the representation of characters, themes, and power dynamics within a text, often questioning traditional or patriarchal narrative structures.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=-Ic7cJuaBtU",
         "quiz": [
           {
             "q": "Feminist literary criticism examines how ___ shapes a text.",
@@ -7750,6 +7753,7 @@
         "summary": "Grade 12 Calculus strand: each inverse trigonometric function, such as arcsine or arctangent, has a specific derivative formula that can be applied when differentiating expressions involving these functions.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=KbYW9FDm-Zk",
         "quiz": [
           {
             "q": "Inverse trigonometric functions include functions such as ___.",
@@ -7809,6 +7813,7 @@
         "summary": "Grade 12 Physics strand: angular momentum describes the rotational analog of linear momentum, and the law of conservation of angular momentum states that it remains constant in a system with no external torque acting on it.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=WzjIMuf-yuo",
         "quiz": [
           {
             "q": "Angular momentum is best described as the rotational analog of ___.",

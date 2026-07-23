@@ -1231,6 +1231,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Grade 11 Functions: Final Day", summary:"A final celebration of mathematical achievement and reflection on the role of mathematics in the world.",
    resourceLabel:"YouTube: Grade 11 Functions: Final Day", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Functions%3A%20Final%20Day%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Sw9O7el5HVU",
    quiz:[
      {q:"Mathematics is universal because ___.", options:["mathematical truths are independent of who discovers them","it has no cultural history","only European cultures developed mathematics","it is the same in all cultures"], answer:0},
      {q:"The most important thing mathematics teaches beyond its content is ___.", options:["that there is always one right method","that speed is the key mathematical skill","that some people are 'math people' and others aren't","struggling, retrying, and understanding"], answer:3},
@@ -1240,6 +1241,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Grade 11 Biology: Final Day", summary:"A final celebration of the living world and our place in it.",
    resourceLabel:"YouTube: Grade 11 Biology: Final Day", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Biology%3A%20Final%20Day%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=icQAkF1yxTE",
    quiz:[
      {q:"The central message of Grade 11 Biology is ___.", options:["life is one: all share DNA and ATP","only to prepare for Grade 12","life is simple if you understand the right formulas","only to memorise scientific facts"], answer:0},
      {q:"Understanding evolution changes your relationship to other species because ___.", options:["it suggests humans are unimportant","it reveals kinship","other species are competitors only","it makes you feel superior to simpler organisms"], answer:1},
@@ -1249,6 +1251,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Grade 11 Chemistry: Final Day", summary:"A final celebration of chemistry's place in understanding and improving the world.",
    resourceLabel:"YouTube: Grade 11 Chemistry: Final Day", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20Chemistry%3A%20Final%20Day%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cQ4mxWeQCQU",
    quiz:[
      {q:"The most profound idea in chemistry is ___.", options:["only electronegativity","that matter's nature is transformation","the periodic table","the mole concept"], answer:1},
      {q:"Chemistry connects to every other science because ___.", options:["all sciences rely on chemistry","chemistry and biology are entirely separate","physics and biology have nothing to do with chemistry","chemistry only studies non-living matter"], answer:0},
@@ -1302,6 +1305,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"English", title:"Writing: The University-Style Research Proposal", summary:"Grade 11 English strand: a research proposal outlines a planned area of inquiry, including a clear research question, its significance, and an initial approach for investigating it.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=166FXhGd9T4",
    quiz:[
      {q:"A research proposal outlines ___.", options:["A topic entirely unrelated to research","A summary of someone else’s already-published research","A completed research project with no further steps planned","A planned area of inquiry, including a research question"], answer:3},
      {q:"Why should a research proposal clearly state its research question?", options:["It defines the specific focus and direction of the planned investigation","A research question is unnecessary in a proposal","Stating a clear question always makes a proposal weaker","Research proposals should never include a specific question"], answer:0},
@@ -1311,6 +1315,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Trigonometry: The Unit Circle and Radian Measure", summary:"Grade 11 Functions strand: the unit circle is a circle with a radius of one used to define trigonometric ratios for any angle, and radian measure is an alternative way of measuring angles based on arc length.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=57VrEiEPD1I",
    quiz:[
      {q:"The unit circle has a radius of ___.", options:["A value unrelated to trigonometry","Zero","A value that varies depending on the angle","One"], answer:3},
      {q:"Radian measure defines an angle based on ___.", options:["Only the number of degrees, with no connection to arc length","The colour of the angle","Arc length relative to the circle’s radius","A measurement unrelated to circles"], answer:2},
@@ -1320,6 +1325,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Genetics: Genetic Engineering and CRISPR", summary:"Grade 11 Biology strand: CRISPR is a genetic engineering technology that allows scientists to precisely edit DNA sequences, offering powerful applications in medicine, agriculture, and research.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=CDw4WPng2iE",
    quiz:[
      {q:"CRISPR is a technology used to ___.", options:["Only observe DNA, with no ability to change it","Replace the need for any genetic material","Precisely edit DNA sequences","A process entirely unrelated to genetics"], answer:2},
      {q:"Which is a potential application of CRISPR technology?", options:["An application entirely unrelated to genetics or medicine","A technology that has no practical applications","Correcting a genetic mutation that causes disease","A use with no connection to DNA editing"], answer:2},
@@ -1329,6 +1335,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemical Bonding: Molecular Shapes and VSEPR Theory", summary:"Grade 11 Chemistry strand: VSEPR (Valence Shell Electron Pair Repulsion) theory predicts the three-dimensional shape of a molecule based on the repulsion between electron pairs surrounding a central atom.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=VBfq02D9Pv0",
    quiz:[
      {q:"VSEPR theory predicts a molecule’s ___.", options:["Colour","Mass","A property unrelated to molecular structure","Three-dimensional shape"], answer:3},
      {q:"VSEPR theory is based on the idea that electron pairs around a central atom ___.", options:["Have no effect on a molecule’s shape","Always attract each other with no repulsion involved","Never influence how a molecule is arranged","Repel each other and arrange themselves to minimize this repulsion"], answer:3},

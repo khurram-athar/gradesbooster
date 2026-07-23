@@ -1231,6 +1231,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Grade 12 Mathematics: Final Day Celebration", summary:"Students celebrate completing two of Ontario's most rigorous mathematics courses and look ahead with confidence.",
    resourceLabel:"Khan Academy: Encouragement for Math Students", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
+   videoUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
    quiz:[
      {q:"Completing both Advanced Functions and Calculus in Grade 12 demonstrates ___.", options:["nothing about future capabilities","genuine mathematical maturity","only good test-taking strategy","only that you like mathematics"], answer:1},
      {q:"The discipline of solving a difficult mathematics problem translates to ___.", options:["nothing outside mathematics","only to science and engineering","any field needing persistence and rigor","only future mathematics problems"], answer:2},
@@ -1249,6 +1250,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Grade 12 Physics: Final Day", summary:"Students celebrate completing Grade 12 Physics and look ahead to university and the world of physics.",
    resourceLabel:"Crash Course Physics: Celebration", resourceUrl:"https://www.youtube.com/watch?v=pGj9isFr21U",
+   videoUrl:"https://www.youtube.com/watch?v=pGj9isFr21U",
    quiz:[
      {q:"Grade 12 Physics has given you ___.", options:["only a foundation for university physics","a way of seeing the world","only laboratory skills","only a set of formulas to memorise"], answer:1},
      {q:"The greatest physicists (Newton, Faraday, Maxwell, Einstein, Bohr, Feynman) were unified by ___.", options:["only mathematical genius","deep curiosity about how the world works","only experimental skill","only theoretical creativity"], answer:1},
@@ -1302,6 +1304,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"English", title:"Literature: Feminist Literary Criticism", summary:"Grade 12 English strand: feminist literary criticism examines how gender shapes the representation of characters, themes, and power dynamics within a text, often questioning traditional or patriarchal narrative structures.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=-Ic7cJuaBtU",
    quiz:[
      {q:"Feminist literary criticism examines how ___ shapes a text.", options:["Only the physical setting, with no connection to gender","The publication date exclusively","Gender","A factor entirely unrelated to representation or power"], answer:2},
      {q:"This critical approach often questions ___.", options:["Only grammar and punctuation choices","Traditional or patriarchal narrative structures","A concept unrelated to gender or power dynamics","The physical formatting of a printed text"], answer:1},
@@ -1321,6 +1324,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Derivatives of Inverse Trigonometric Functions", summary:"Grade 12 Calculus strand: each inverse trigonometric function, such as arcsine or arctangent, has a specific derivative formula that can be applied when differentiating expressions involving these functions.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=KbYW9FDm-Zk",
    quiz:[
      {q:"Inverse trigonometric functions include functions such as ___.", options:["Arcsine and arctangent","A concept unrelated to trigonometry","Only sine and cosine, with no inverse functions involved","Functions with no connection to angles"], answer:0},
      {q:"Each inverse trigonometric function has ___.", options:["A specific derivative formula","A derivative identical to every other function","No defined derivative under any circumstances","A formula entirely unrelated to differentiation"], answer:0},
@@ -1330,6 +1334,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Angular Momentum and Conservation", summary:"Grade 12 Physics strand: angular momentum describes the rotational analog of linear momentum, and the law of conservation of angular momentum states that it remains constant in a system with no external torque acting on it.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=WzjIMuf-yuo",
    quiz:[
      {q:"Angular momentum is best described as the rotational analog of ___.", options:["A concept unrelated to momentum","Electric charge","Only mass, with no connection to motion","Linear momentum"], answer:3},
      {q:"The law of conservation of angular momentum states that it remains constant when ___.", options:["No external torque acts on a system","A concept unrelated to torque or motion","An external torque is constantly applied to a system","A system has no mass at all"], answer:0},

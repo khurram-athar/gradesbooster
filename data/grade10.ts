@@ -1168,6 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Story: A Continuing Narrative", summary:"Students write a final historical essay on the most significant development in Canadian history and its relevance to their lives as future citizens.",
    resourceLabel:"YouTube: Canada's Story: A Continuing Narrative", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Story%3A%20A%20Continuing%20Narrative%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kLftACjahgA",
    quiz:[
      {q:"Canada's most significant unresolved historical challenge is ___.", options:["the 1867 Confederation debt","Canadian state and Indigenous relations","the implementation of Responsible Government","WWI conscription crisis"], answer:1},
      {q:"The Charter of Rights and Freedoms (1982) is significant because ___.", options:["it was Canada's first constitution","it only affects criminal law","it was only a ceremonial change","it made Canada a rights-based democracy"], answer:3},
@@ -1230,6 +1231,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Grade 10 Math: Final Celebration and Reflection", summary:"A final review and reflection on mathematical growth, connecting the year's learning to lifelong mathematical thinking.",
    resourceLabel:"YouTube: Grade 10 Math: Final Celebration and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2010%20Math%3A%20Final%20Celebration%20and%20Reflection%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vSfKV5rlPRs",
    quiz:[
      {q:"The most useful mathematical idea from Grade 10 for daily life is ___.", options:["the Cosine Law","the quadratic formula specifically","factoring polynomials","the concept of function"], answer:3},
      {q:"Mathematical confidence is built by ___.", options:["working through mistakes and persisting","only memorising formulas","avoiding all challenging problems","only solving easy problems"], answer:0},
@@ -1248,6 +1250,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Future: Your Role as a Citizen", summary:"A final reflection on Canadian history, citizenship, and the responsibilities of the Grade 10 generation.",
    resourceLabel:"YouTube: Canada's Future: Your Role as a Citizen", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Future%3A%20Your%20Role%20as%20a%20Citizen%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OrpFA3qfc0E",
    quiz:[
      {q:"Canada's most important strength as you enter adulthood is ___.", options:["its commitment","only its natural resources","only its geography","its military power"], answer:0},
      {q:"The generation entering high school now will determine ___.", options:["reconciliation and democracy's future","nothing important about Canada's future","only economic outcomes","only their personal futures"], answer:0},
@@ -1301,6 +1304,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"English", title:"Writing: The Personal Narrative for Applications", summary:"Grade 10 English strand: a personal narrative written for applications highlights meaningful experiences and personal growth, using vivid detail and reflection to give readers insight into the writer’s character.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=z0uXjL2IdeU",
    quiz:[
      {q:"A personal narrative for applications is meant to ___.", options:["Highlight meaningful experiences and personal growth","Avoid any reflection on the writer’s experiences","Describe a completely unrelated topic","Summarize only factual, impersonal information"], answer:0},
      {q:"Why might this type of narrative use vivid, specific detail?", options:["It helps readers connect with and understand the writer’s experience more fully","Specific detail has no effect on how a narrative is received","Vivid detail always weakens this type of writing","This type of writing should avoid all descriptive detail"], answer:0},
@@ -1310,6 +1314,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Trigonometric Equations", summary:"Grade 10 Trigonometry strand: solving a trigonometric equation involves finding the angle or angles that satisfy a given trigonometric ratio, often using inverse trigonometric functions.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=VMAMARmmDac",
    quiz:[
      {q:"To solve a trigonometric equation for an unknown angle, you often use ___.", options:["Only addition, with no trigonometry involved","The Pythagorean theorem exclusively","An inverse trigonometric function","A method unrelated to trigonometric ratios"], answer:2},
      {q:"If sine of an angle equals 0.5, which function would help find the angle?", options:["Inverse sine","Inverse tangent","Inverse cosine","A function unrelated to trigonometry"], answer:0},
@@ -1319,6 +1324,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Cellular Respiration and Photosynthesis in Depth", summary:"Grade 10 Biology strand: cellular respiration and photosynthesis are complementary processes -- photosynthesis captures and stores energy from sunlight, while cellular respiration releases that stored energy for cells to use.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=eJ9Zjc-jdys",
    quiz:[
      {q:"Photosynthesis captures and stores energy from ___.", options:["Sunlight","Sound waves","A source unrelated to light energy","Only heat, with no connection to light"], answer:0},
      {q:"Cellular respiration releases energy stored in ___.", options:["A source unrelated to stored chemical energy","Glucose","Only water, with no connection to glucose","Oxygen alone, with no other molecules involved"], answer:1},

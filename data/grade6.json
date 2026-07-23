@@ -7202,6 +7202,7 @@
         "summary": "Students consolidate key Grade 6 math concepts: ratios, percentages, integers, algebra, geometry, measurement, and data.",
         "resourceLabel": "YouTube: Grade 6 Math Year Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%206%20Math%20Year%20Review%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Z2gVyW71fp4",
         "quiz": [
           {
             "q": "Simplify the ratio 15:25.",
@@ -7320,6 +7321,7 @@
         "summary": "Students review ancient civilisations, exploration, WWI and WWII, and Canada's development into a modern nation.",
         "resourceLabel": "YouTube: Grade 6 Social Studies Year Review",
         "resourceUrl": "https://www.youtube.com/results?search_query=Grade%206%20Social%20Studies%20Year%20Review%20grade%206%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=HvfTOwbx-S4",
         "quiz": [
           {
             "q": "Which ancient civilisation first developed democracy?",
@@ -24317,6 +24319,2426 @@
               "A concept unrelated to global aid",
               "New Global Organization",
               "National Government Office"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 101,
+    "label": "Day 101 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Direct and Indirect (Reported) Speech",
+        "summary": "Grade 6 Language strand: direct speech reports a speaker’s exact words, usually set off by quotation marks, while indirect (reported) speech restates what was said without quotation marks and typically shifts the pronouns and verb tense.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does direct speech do?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Changes a sentence into a question",
+              "Removes all punctuation from a sentence",
+              "Reports a speaker’s exact words, usually in quotation marks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does indirect (reported) speech do?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Removes the subject from a sentence",
+              "Always keeps the exact same words as direct speech",
+              "Restates what was said without quotation marks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sam said, I am tired right now is an example of which type of speech?",
+            "options": [
+              "Indirect speech",
+              "Neither direct nor indirect speech",
+              "Direct speech",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly rewrites Sam said, I am tired right now as indirect speech?",
+            "options": [
+              "Tired right now, said Sam.",
+              "Sam said that he was tired.",
+              "Sam said, I am tired right now.",
+              "Sam is saying tired now."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose indirect speech instead of direct speech when summarizing a long conversation?",
+            "options": [
+              "Indirect speech requires quotation marks around every sentence",
+              "It allows the writer to condense what was said without quoting every exact word",
+              "Indirect speech always uses more words than direct speech",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Prime and Composite Numbers",
+        "summary": "Grade 6 Math strand: a prime number has exactly two factors, 1 and itself, while a composite number has more than two factors; the number 1 is neither prime nor composite.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is a prime number?",
+            "options": [
+              "A number with exactly two factors, 1 and itself",
+              "A number with more than two factors",
+              "A concept unrelated to number sense",
+              "A number that is always even"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a composite number?",
+            "options": [
+              "A number with more than two factors",
+              "A number that is always odd",
+              "A concept unrelated to number sense",
+              "A number with exactly two factors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is the number 7 prime or composite?",
+            "options": [
+              "Composite",
+              "A concept unrelated to number sense",
+              "Prime",
+              "Neither prime nor composite"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the number 12 prime or composite?",
+            "options": [
+              "Neither prime nor composite",
+              "A concept unrelated to number sense",
+              "Composite",
+              "Prime"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the number 2 the only even prime number?",
+            "options": [
+              "Even numbers can never have any factors at all",
+              "All even numbers are prime numbers",
+              "Every other even number can be divided evenly by 2, giving it more than two factors",
+              "This concept has no connection to number sense"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Lymphatic System: Fighting Infection and Maintaining Fluid Balance",
+        "summary": "Grade 6 Science strand: the lymphatic system is a network of vessels and nodes that collects excess fluid from body tissues, filters out harmful substances, and helps the immune system fight infection.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the lymphatic system collect from body tissues?",
+            "options": [
+              "Excess fluid",
+              "Only hair follicles",
+              "A concept unrelated to the human body",
+              "Only bone cells"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do lymph nodes help do to harmful substances passing through them?",
+            "options": [
+              "Turn them into bone",
+              "Multiply them",
+              "Filter them out",
+              "A concept unrelated to the lymphatic system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does the lymphatic system help the immune system fight infection?",
+            "options": [
+              "Yes",
+              "Only the skeletal system fights infection",
+              "A concept unrelated to the lymphatic system",
+              "No, the lymphatic system has no role in fighting infection"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might lymph nodes swell when a person has an infection?",
+            "options": [
+              "Lymph nodes only swell when a person is perfectly healthy",
+              "They are working harder to filter out and fight the germs causing the infection",
+              "Swelling in lymph nodes never has any connection to infection",
+              "This concept has no connection to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for the body to have a system that returns excess fluid from tissues back into the bloodstream?",
+            "options": [
+              "The body never has any excess fluid in its tissues",
+              "Without it, fluid could build up in tissues and cause swelling and other problems",
+              "Excess fluid in tissues never causes any problems for the body",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ancient Persia: The Achaemenid Empire",
+        "summary": "Grade 6 Social Studies strand: the Achaemenid Empire of ancient Persia was one of the largest empires in the ancient world, known for its extensive road system, tolerance of local customs, and administrative organization into provinces called satrapies.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Achaemenid Empire?",
+            "options": [
+              "A modern country in North America",
+              "One of the largest empires in the ancient world, centred in ancient Persia",
+              "A concept unrelated to ancient history",
+              "A small city-state with no influence beyond its borders"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What were the provinces of the Achaemenid Empire called?",
+            "options": [
+              "A concept unrelated to Persian history",
+              "Territories only found in Egypt",
+              "Boroughs",
+              "Satrapies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Was the Achaemenid Empire known for building an extensive road system?",
+            "options": [
+              "Yes",
+              "A concept unrelated to ancient Persia",
+              "No, the empire never built any roads",
+              "Roads were only built much later by other empires"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might tolerating the customs and religions of conquered peoples have helped the Achaemenid Empire stay stable?",
+            "options": [
+              "The empire never conquered any other peoples",
+              "Tolerating other customs always made the empire weaker",
+              "Allowing local traditions to continue could reduce resistance and rebellion across a large empire",
+              "This concept has no connection to ancient history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a well-organized road system have been important for governing such a large empire?",
+            "options": [
+              "Roads never had any effect on how easily an empire could be governed",
+              "It allowed messages, soldiers, and goods to move quickly across vast distances",
+              "This concept has no relevance to social studies",
+              "The empire had no need to communicate across its territory"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "label": "Day 102 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Main Idea and Supporting Details",
+        "summary": "Grade 6 Language strand: the main idea is the central point a text is making, while supporting details are the facts, examples, and explanations that develop and prove that main idea.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is the main idea of a text?",
+            "options": [
+              "A concept unrelated to reading",
+              "A minor detail mentioned only once",
+              "The title of the text only",
+              "The central point the text is making"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are supporting details?",
+            "options": [
+              "Facts, examples, and explanations that develop the main idea",
+              "A concept unrelated to reading",
+              "Ideas that contradict the main idea",
+              "Random information with no purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is the main idea of a paragraph often found?",
+            "options": [
+              "In the topic sentence, often at the beginning",
+              "Never written anywhere in the paragraph",
+              "A concept unrelated to reading",
+              "Only in the very last word of the paragraph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a paragraph is about the benefits of recycling, which sentence would most likely be a supporting detail?",
+            "options": [
+              "Recycling one aluminum can saves enough energy to run a television for hours.",
+              "My favourite colour is blue.",
+              "The weather today is sunny.",
+              "The store closes at nine."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful for readers to distinguish between the main idea and supporting details?",
+            "options": [
+              "Every sentence in a text is always equally important",
+              "It helps readers understand what a text is really about instead of getting lost in minor facts",
+              "This concept has no connection to reading comprehension",
+              "Supporting details are always more important than the main idea"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rounding Decimals to a Given Place Value",
+        "summary": "Grade 6 Math strand: rounding a decimal to a given place value means finding the closest value at that place, using the digit to the right to decide whether to round up or keep the digit the same.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "When rounding, if the digit to the right is 5 or greater, what do you do to the digit being rounded?",
+            "options": [
+              "Round it down by one",
+              "Round it up by one",
+              "A concept unrelated to rounding",
+              "Leave it exactly the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When rounding, if the digit to the right is less than 5, what do you do to the digit being rounded?",
+            "options": [
+              "Remove it entirely",
+              "A concept unrelated to rounding",
+              "Round it up by one",
+              "Leave it the same"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 4.67 rounded to the nearest tenth?",
+            "options": [
+              "4.6",
+              "5.0",
+              "4.7",
+              "4.0"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 12.34 rounded to the nearest whole number?",
+            "options": [
+              "12.3",
+              "12",
+              "13",
+              "12.4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a store round prices to the nearest cent instead of using many decimal places?",
+            "options": [
+              "This concept has no connection to math",
+              "Rounding prices never makes them easier to understand",
+              "It keeps prices simple and easy for customers to understand and pay",
+              "Stores never need to display prices with any decimal places"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Tides: How the Moon and Sun Affect Earth’s Oceans",
+        "summary": "Grade 6 Science strand: tides are the regular rise and fall of ocean water levels, caused mainly by the gravitational pull of the Moon, with the Sun also playing a smaller role.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are tides?",
+            "options": [
+              "The regular rise and fall of ocean water levels",
+              "A type of ocean current unrelated to gravity",
+              "A permanent rise in sea level",
+              "A concept unrelated to Earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main cause of tides on Earth?",
+            "options": [
+              "The temperature of the air above the ocean",
+              "The gravitational pull of the Moon",
+              "The colour of the ocean water",
+              "A concept unrelated to tides"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the Sun also have an effect on Earth’s tides?",
+            "options": [
+              "A concept unrelated to tides",
+              "No, the Sun has no effect on tides at all",
+              "Only the Sun affects tides, not the Moon",
+              "Yes, though a smaller effect than the Moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do most coastal areas experience two high tides and two low tides each day?",
+            "options": [
+              "The ocean’s water level never changes throughout the day",
+              "This concept has no connection to Earth science",
+              "Earth’s rotation moves different areas through the bulges of water pulled by the Moon’s gravity",
+              "Tides never follow any kind of regular daily pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might especially high tides occur when the Sun, Moon, and Earth are aligned?",
+            "options": [
+              "This concept has no relevance to science",
+              "The combined gravitational pull of the Sun and Moon creates a stronger effect on the ocean",
+              "Alignment of the Sun and Moon has no connection to tides",
+              "The Sun and Moon’s gravity always cancel each other out completely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Land Acknowledgements: Purpose and Practice",
+        "summary": "Grade 6 Social Studies strand: a land acknowledgement is a statement recognizing the traditional Indigenous territory on which an event or activity takes place, intended to honour Indigenous peoples’ historic and ongoing connection to the land.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A map showing provincial borders",
+              "A legal document transferring land ownership",
+              "A statement recognizing the traditional Indigenous territory of a place"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one purpose of a land acknowledgement?",
+            "options": [
+              "To erase the history of Indigenous peoples",
+              "To honour Indigenous peoples’ historic and ongoing connection to the land",
+              "To determine new provincial boundaries",
+              "A concept unrelated to land acknowledgements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are land acknowledgements often given at the start of public events and school gatherings?",
+            "options": [
+              "Yes",
+              "No, they are never given at any type of event",
+              "A concept unrelated to land acknowledgements",
+              "They are only used in courtrooms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might learning the name of the traditional territory a school is on be an important step for students?",
+            "options": [
+              "It builds awareness and respect for the Indigenous history connected to that specific place",
+              "This concept has no connection to social studies",
+              "Every school in Canada is built on the exact same territory",
+              "Learning about traditional territory has no connection to Indigenous history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do some people say a land acknowledgement should be paired with meaningful action, not just words?",
+            "options": [
+              "Land acknowledgements have no connection to reconciliation",
+              "This concept has no relevance to social studies",
+              "Genuine respect and reconciliation involve ongoing effort, not only a spoken statement",
+              "A spoken acknowledgement always accomplishes everything on its own"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "label": "Day 103 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Book Review",
+        "summary": "Grade 6 Language strand: a book review summarizes a text without revealing major plot twists, evaluates its strengths and weaknesses, and gives the reviewer’s opinion supported by specific examples from the book.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a book review typically include?",
+            "options": [
+              "Only a list of characters’ names",
+              "A word-for-word copy of the book’s first chapter",
+              "A concept unrelated to writing",
+              "A summary, an evaluation, and the reviewer’s supported opinion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Should a book review reveal major plot twists or the ending?",
+            "options": [
+              "A concept unrelated to book reviews",
+              "Yes, a review must always reveal the entire ending",
+              "Book reviews never contain any information about the plot",
+              "No, it should generally avoid spoiling major twists or the ending"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should a book review include specific examples from the text?",
+            "options": [
+              "A concept unrelated to writing",
+              "A review should never mention anything from the actual book",
+              "Examples are never necessary in a book review",
+              "Examples help support and prove the reviewer’s opinions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence sounds most like it belongs in a book review?",
+            "options": [
+              "The store is having a sale this weekend.",
+              "The pacing in the middle chapters felt slow, but the ending made up for it.",
+              "Water boils at 100 degrees Celsius.",
+              "The bus arrives at eight in the morning."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reviewer’s personal opinion still be considered valuable even though other readers might disagree?",
+            "options": [
+              "A book review must always match every other reader’s opinion exactly",
+              "A well-supported opinion can still give useful insight, even if not everyone shares the same view",
+              "This concept has no connection to writing",
+              "Opinions in a review are never useful to other readers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: The Angle Sum of a Triangle",
+        "summary": "Grade 6 Math strand: the three interior angles of any triangle always add up to 180 degrees, a fact that can be used to find a missing angle when the other two are known.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What do the three interior angles of any triangle always add up to?",
+            "options": [
+              "180 degrees",
+              "90 degrees",
+              "270 degrees",
+              "360 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a triangle has angles of 60 degrees and 70 degrees, what is the measure of the third angle?",
+            "options": [
+              "60 degrees",
+              "40 degrees",
+              "70 degrees",
+              "50 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a triangle has one angle measuring 90 degrees, what do the other two angles add up to?",
+            "options": [
+              "270 degrees",
+              "45 degrees",
+              "180 degrees",
+              "90 degrees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a triangle have two angles that each measure 100 degrees?",
+            "options": [
+              "Triangles never have a limit on their angle measures",
+              "No, because the angles would add up to more than 180 degrees",
+              "A concept unrelated to geometry",
+              "Yes, this is a completely normal triangle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is knowing that a triangle’s angles always sum to 180 degrees useful for solving geometry problems?",
+            "options": [
+              "The angles of a triangle can add up to any number at all",
+              "This concept has no connection to math",
+              "It allows you to calculate a missing angle when the other two angles are known",
+              "This rule never helps solve any kind of geometry problem"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Levers: The Three Classes and Their Mechanical Advantage",
+        "summary": "Grade 6 Science strand: a lever is a simple machine made of a rigid bar that pivots on a fixed point called a fulcrum, and levers are classified into three classes based on the relative positions of the fulcrum, the effort, and the load.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a lever?",
+            "options": [
+              "A concept unrelated to simple machines",
+              "A tool used only for cutting",
+              "A simple machine made of a rigid bar that pivots on a fulcrum",
+              "A machine that only spins in circles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the fixed point that a lever pivots on called?",
+            "options": [
+              "The fulcrum",
+              "A concept unrelated to levers",
+              "The load",
+              "The effort"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many classes of levers are there, based on the positions of the fulcrum, effort, and load?",
+            "options": [
+              "Three",
+              "Two",
+              "A concept unrelated to levers",
+              "Five"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a first-class lever, such as a see-saw, where is the fulcrum located?",
+            "options": [
+              "A concept unrelated to levers",
+              "There is no fulcrum in a first-class lever",
+              "Between the effort and the load",
+              "At one end, with the effort in the middle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might using a lever make it easier to lift a heavy object?",
+            "options": [
+              "A lever always requires more force than lifting an object directly",
+              "Levers never make lifting a heavy object any easier",
+              "A lever can multiply the force applied, allowing a smaller effort to move a larger load",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Urban and Rural Communities in Canada",
+        "summary": "Grade 6 Social Studies strand: urban communities are densely populated areas such as cities with many services close together, while rural communities are less densely populated areas often centred around farming or resource industries, and each type of community faces different opportunities and challenges.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is an urban community?",
+            "options": [
+              "A sparsely populated farming area",
+              "A community with no people at all",
+              "A densely populated area, such as a city",
+              "A concept unrelated to Canadian geography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a rural community?",
+            "options": [
+              "A concept unrelated to communities",
+              "A community found only underwater",
+              "A less densely populated area, often centred around farming or resource industries",
+              "A densely populated downtown city core"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Are services like hospitals and public transit typically closer together in urban areas?",
+            "options": [
+              "Cities never have any public services",
+              "Yes",
+              "No, services are always farther apart in cities",
+              "A concept unrelated to urban communities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might people living in a rural community need to travel farther to access certain services, like a large hospital?",
+            "options": [
+              "This concept has no connection to social studies",
+              "Services are distributed identically in every community type",
+              "Rural communities always have more services than cities",
+              "Rural areas have lower population density, so specialized services are often located farther apart"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might understanding the differences between urban and rural communities help with planning things like infrastructure and services?",
+            "options": [
+              "Different communities have different needs, so planning should reflect those differences",
+              "This concept has no relevance to social studies",
+              "Infrastructure planning never considers where people live",
+              "Every community in Canada has identical needs regardless of location"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "label": "Day 104 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Homophones and Commonly Confused Word Pairs",
+        "summary": "Grade 6 Language strand: homophones are words that sound the same but have different spellings and meanings, such as their, there, and they’re, and recognizing them helps writers choose the correct word for their meaning.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What are homophones?",
+            "options": [
+              "Words that mean the exact same thing",
+              "Words that are spelled the same but sound different",
+              "Words that sound the same but have different spellings and meanings",
+              "A concept unrelated to vocabulary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which group of words are homophones of each other?",
+            "options": [
+              "Happy, sad, angry",
+              "Their, there, they’re",
+              "Blue, green, red",
+              "Run, jump, walk"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses the correct homophone? The books belong ___ the students.",
+            "options": [
+              "too",
+              "two",
+              "to",
+              "A concept unrelated to homophones"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses the correct homophone? ___ going to the store later today.",
+            "options": [
+              "Their",
+              "A concept unrelated to homophones",
+              "There",
+              "They’re"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for writers to choose the correct homophone when writing?",
+            "options": [
+              "All homophones can be used interchangeably with no difference in meaning",
+              "This concept has no connection to vocabulary",
+              "Homophones never affect how a reader understands a sentence",
+              "Using the wrong homophone can confuse readers or change the meaning of a sentence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Area of a Trapezoid",
+        "summary": "Grade 6 Math strand: the area of a trapezoid is found using the formula one half times the sum of the two parallel sides, called bases, multiplied by the height between them.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What shape has exactly one pair of parallel sides, called bases?",
+            "options": [
+              "A concept unrelated to geometry",
+              "A trapezoid",
+              "A circle",
+              "A square"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the formula for the area of a trapezoid?",
+            "options": [
+              "Side times side",
+              "Base times height only, with no other terms",
+              "Length times width",
+              "One half times the sum of the two bases, times the height"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a trapezoid has bases of 6 and 10 and a height of 4, what is its area?",
+            "options": [
+              "32",
+              "40",
+              "60",
+              "16"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the trapezoid area formula, what does the height measure?",
+            "options": [
+              "A concept unrelated to trapezoids",
+              "The perpendicular distance between the two parallel bases",
+              "The length of the longer base only",
+              "The total perimeter of the shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the trapezoid area formula add the two bases together before multiplying?",
+            "options": [
+              "Adding the bases together never has any effect on finding the area",
+              "Averaging the two parallel side lengths accounts for the shape’s sloped, non-parallel sides",
+              "This concept has no connection to math",
+              "A trapezoid’s area only depends on its height, not its bases"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Coral Reefs: Biodiversity Hotspots Under Threat",
+        "summary": "Grade 6 Science strand: coral reefs are built by tiny animals called coral polyps and support an enormous diversity of marine life, but they are threatened by rising ocean temperatures, pollution, and ocean acidification.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "A concept unrelated to marine biology",
+              "Tiny animals called coral polyps",
+              "Plants growing on the ocean floor",
+              "Large fish swimming in groups"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are coral reefs described as biodiversity hotspots?",
+            "options": [
+              "They contain almost no living organisms",
+              "Biodiversity has no connection to coral reefs",
+              "They support an enormous diversity of marine life",
+              "A concept unrelated to coral reefs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one threat facing coral reefs today, such as rising ocean temperatures.",
+            "options": [
+              "Rising ocean temperatures",
+              "Too much cold water only",
+              "A concept unrelated to coral reefs",
+              "Coral reefs face no threats at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is coral bleaching, which can occur when ocean water becomes too warm?",
+            "options": [
+              "A concept unrelated to coral reefs",
+              "When coral polyps multiply rapidly in warm water",
+              "When stressed coral expels the colourful algae living inside it, turning white",
+              "When coral grows extra colourful algae"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might protecting coral reefs be important for both ocean life and coastal communities?",
+            "options": [
+              "Coral reefs have no connection to any other living things or communities",
+              "This concept has no relevance to science",
+              "Reefs provide habitat for countless species and can also protect shorelines from strong waves",
+              "Coral reefs provide no benefit to anything outside the reef itself"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Group of Seven and Canadian Artistic Identity",
+        "summary": "Grade 6 Social Studies strand: the Group of Seven was a collective of Canadian landscape painters in the early twentieth century whose bold depictions of the Canadian wilderness helped shape a distinct sense of Canadian artistic identity.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Group of Seven?",
+            "options": [
+              "A political party in early Canada",
+              "A concept unrelated to Canadian history",
+              "A collective of Canadian landscape painters",
+              "A group of Canadian hockey players"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the Group of Seven mainly paint?",
+            "options": [
+              "A concept unrelated to the Group of Seven",
+              "Portraits of European royalty",
+              "City skylines outside of Canada",
+              "The Canadian wilderness and landscapes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did the Group of Seven’s work help shape a distinct Canadian artistic identity?",
+            "options": [
+              "A concept unrelated to Canadian art",
+              "No, their work had no connection to Canadian identity",
+              "Yes",
+              "They only painted subjects from outside Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the Group of Seven have chosen to paint the rugged Canadian landscape instead of following European artistic traditions?",
+            "options": [
+              "European artistic traditions had no influence on any Canadian painters",
+              "They wanted to create art that reflected Canada’s own unique natural environment and identity",
+              "They were required by law to paint only landscapes",
+              "This concept has no connection to social studies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is studying artists like the Group of Seven considered part of understanding Canadian heritage and identity?",
+            "options": [
+              "Art can reflect and shape how a country understands and represents itself",
+              "The Group of Seven’s paintings had no lasting influence on Canadian culture",
+              "Art has no connection to a country’s heritage or identity",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "label": "Day 105 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Memes and Internet Culture",
+        "summary": "Grade 6 Language strand: a meme is an image, video, or piece of text, often humorous, that spreads rapidly online and is frequently remixed, and analyzing memes critically helps readers consider their intended message, audience, and possible bias.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a meme?",
+            "options": [
+              "A type of textbook used in schools",
+              "A concept unrelated to media literacy",
+              "An image, video, or piece of text that spreads rapidly online, often humorous",
+              "A formal news article written by a journalist"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Are memes often remixed or changed as they spread online?",
+            "options": [
+              "Memes can only ever be viewed once and then disappear",
+              "No, memes are never changed once they are created",
+              "A concept unrelated to memes",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might it be important to think critically about a meme’s intended message?",
+            "options": [
+              "Every meme is always completely accurate and unbiased",
+              "A concept unrelated to media literacy",
+              "Memes never contain any kind of message or opinion",
+              "Memes can shape opinions quickly, even if the information in them is not accurate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a meme spread faster than a lengthy news article?",
+            "options": [
+              "News articles are never shared online",
+              "This concept has no connection to media literacy",
+              "Memes are often short, visual, and easy to quickly share and understand",
+              "Memes always take longer to read than full news articles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should readers consider the original source of a meme before believing its message?",
+            "options": [
+              "This concept has no relevance to media literacy",
+              "A meme’s creator may have a particular bias or agenda that shapes the message",
+              "The source of a meme never affects how trustworthy it is",
+              "Memes are always created by official news organizations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Constructing and Interpreting Histograms",
+        "summary": "Grade 6 Math strand: a histogram is a type of bar graph that displays the frequency of numerical data grouped into equal intervals, with bars touching to show that the data is continuous.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a histogram display?",
+            "options": [
+              "The frequency of numerical data grouped into equal intervals",
+              "The exact location of each data point on a map",
+              "A concept unrelated to data management",
+              "Only the names of categories with no numerical data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a histogram, do the bars typically touch each other?",
+            "options": [
+              "Yes, to show the data is continuous",
+              "No, there is always a gap between every bar",
+              "A concept unrelated to histograms",
+              "Bars in a histogram are never used at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must the intervals, or groups, in a histogram be?",
+            "options": [
+              "Always exactly one unit wide",
+              "Random and unequal in size",
+              "Equal in size",
+              "A concept unrelated to histograms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a histogram shows the tallest bar for the interval 10 to 19 years old, what does this suggest?",
+            "options": [
+              "Every age range has the exact same number of data values",
+              "A concept unrelated to histograms",
+              "No data values fall within that age range",
+              "More data values fall within that age range than any other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a histogram be more useful than a simple list of numbers for understanding a large data set?",
+            "options": [
+              "This concept has no connection to data management",
+              "A list of numbers always shows patterns more clearly than any graph",
+              "Histograms never help show any patterns in data",
+              "It visually shows the distribution and patterns in the data at a glance"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Cloud Types and Reading the Sky for Weather Clues",
+        "summary": "Grade 6 Science strand: clouds form when water vapour condenses in the atmosphere, and different cloud types, such as puffy cumulus clouds, wispy cirrus clouds, and flat stratus clouds, can give clues about upcoming weather.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What causes clouds to form?",
+            "options": [
+              "The ocean freezing completely",
+              "Rocks breaking down on the ground",
+              "Water vapour condensing in the atmosphere",
+              "A concept unrelated to weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are puffy, cotton-like clouds usually called?",
+            "options": [
+              "Stratus clouds",
+              "A concept unrelated to cloud types",
+              "Cirrus clouds",
+              "Cumulus clouds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are thin, wispy, high-altitude clouds usually called?",
+            "options": [
+              "Stratus clouds",
+              "Cumulus clouds",
+              "A concept unrelated to cloud types",
+              "Cirrus clouds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are flat, grey clouds that often cover the whole sky usually called?",
+            "options": [
+              "Cirrus clouds",
+              "A concept unrelated to cloud types",
+              "Cumulus clouds",
+              "Stratus clouds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might tall, dark cumulonimbus clouds signal that a thunderstorm is approaching?",
+            "options": [
+              "This concept has no connection to science",
+              "Cloud shape never gives any clue about upcoming weather",
+              "These clouds are always a sign of clear, sunny weather",
+              "These clouds form from strong upward air currents that also produce heavy rain and lightning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The October Crisis and the War Measures Act",
+        "summary": "Grade 6 Social Studies strand: the October Crisis of 1970 was a period of political turmoil in Quebec involving kidnappings by a militant group, leading the federal government to invoke the War Measures Act, which temporarily suspended certain civil liberties.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "In what decade did the October Crisis take place?",
+            "options": [
+              "The 1990s",
+              "The 1970s",
+              "A concept unrelated to Canadian history",
+              "The 1920s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What Canadian province was at the centre of the October Crisis?",
+            "options": [
+              "British Columbia",
+              "Quebec",
+              "A concept unrelated to the October Crisis",
+              "Nova Scotia"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What federal law did the government invoke during the October Crisis?",
+            "options": [
+              "The Constitution Act",
+              "A concept unrelated to the October Crisis",
+              "The War Measures Act",
+              "The Multiculturalism Act"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why was the government’s use of the War Measures Act controversial?",
+            "options": [
+              "The Act was never actually used during the crisis",
+              "It temporarily suspended certain civil liberties, such as the right to be free from arrest without charge",
+              "This concept has no connection to Canadian history",
+              "The Act had no real effect on anyone’s rights"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians still debate the government’s response to the October Crisis today?",
+            "options": [
+              "No one has ever discussed the government’s response to the crisis",
+              "The events of the October Crisis had no lasting impact on Canada",
+              "People weigh differently the need for public safety against the importance of protecting civil liberties",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "label": "Day 106 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Possessive Nouns and Apostrophe Use",
+        "summary": "Grade 6 Language strand: a possessive noun shows ownership, formed by adding an apostrophe and s to a singular noun (the dog’s bone) or just an apostrophe to a plural noun ending in s (the dogs’ bones).",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a possessive noun show?",
+            "options": [
+              "A question",
+              "Ownership",
+              "A concept unrelated to grammar",
+              "A negative statement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do you usually make a singular noun possessive?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Add only an s",
+              "Add an apostrophe only, with no s",
+              "Add an apostrophe and s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do you usually make a plural noun that already ends in s possessive?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Remove the s entirely",
+              "Add only an apostrophe",
+              "Add an apostrophe and another s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a possessive noun?",
+            "options": [
+              "The dog’s bone is buried in the yard.",
+              "The dog’ bone is buried in the yard.",
+              "The dogs bone is buried in the yard.",
+              "The dog bones is buried in the yard."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might mixing up its and it’s be a common grammar mistake for writers?",
+            "options": [
+              "These two words are never confused by writers",
+              "Its and it’s always mean exactly the same thing",
+              "It’s is a contraction of it is, while its shows possession, and the words sound identical",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Understanding Currency Exchange Rates",
+        "summary": "Grade 6 Math strand: a currency exchange rate tells you how much one country’s currency is worth in terms of another, and multiplying an amount by the exchange rate lets you convert between currencies.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a currency exchange rate tell you?",
+            "options": [
+              "A concept unrelated to financial literacy",
+              "How much one country’s currency is worth in terms of another",
+              "The exact price of every item in a store",
+              "The total population of a country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the exchange rate is 1 Canadian dollar equals 0.75 US dollars, how many US dollars would 10 Canadian dollars be worth?",
+            "options": [
+              "13.30 US dollars",
+              "10.75 US dollars",
+              "0.75 US dollars",
+              "7.50 US dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To convert an amount of money to another currency, what do you typically do with the exchange rate?",
+            "options": [
+              "A concept unrelated to currency exchange",
+              "Always subtract the exchange rate",
+              "Ignore the exchange rate completely",
+              "Multiply the amount by the exchange rate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do exchange rates between currencies stay exactly the same forever?",
+            "options": [
+              "No, they can change daily based on economic factors",
+              "Exchange rates are only updated once every ten years",
+              "A concept unrelated to exchange rates",
+              "Yes, exchange rates never change once they are set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a Canadian family planning a trip abroad want to check the current exchange rate before they go?",
+            "options": [
+              "It helps them understand how much their money will actually be worth in the country they are visiting",
+              "Every country in the world uses the exact same currency",
+              "Exchange rates never affect how much a traveller can buy abroad",
+              "This concept has no connection to financial literacy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Tsunamis: Causes and Effects",
+        "summary": "Grade 6 Science strand: a tsunami is a series of powerful ocean waves usually triggered by an underwater earthquake, volcanic eruption, or landslide, capable of causing severe flooding and damage when it reaches shore.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a tsunami?",
+            "options": [
+              "A series of powerful ocean waves",
+              "A concept unrelated to Earth science",
+              "A slow-moving glacier",
+              "A type of desert sandstorm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What commonly triggers a tsunami?",
+            "options": [
+              "A sudden drop in air temperature",
+              "A change in the colour of the ocean",
+              "A concept unrelated to tsunamis",
+              "An underwater earthquake"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a volcanic eruption also trigger a tsunami?",
+            "options": [
+              "Volcanoes have no connection to the ocean",
+              "No, only earthquakes can ever trigger a tsunami",
+              "Yes",
+              "A concept unrelated to tsunamis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a tsunami cause severe flooding when it reaches shore?",
+            "options": [
+              "Tsunamis never actually reach the shore",
+              "The wave can carry an enormous amount of water onto the land very quickly",
+              "Tsunami waves are always smaller than normal ocean waves",
+              "This concept has no connection to Earth science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do coastal communities in earthquake-prone regions often have tsunami warning systems?",
+            "options": [
+              "Early warning can give people time to move to higher ground before a tsunami arrives",
+              "This concept has no relevance to science",
+              "Tsunamis always happen with no warning signs beforehand",
+              "Warning systems never provide any useful information about tsunamis"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Japanese Canadian Internment During World War II",
+        "summary": "Grade 6 Social Studies strand: during World War II, the Canadian government forcibly relocated and interned thousands of Japanese Canadians, seizing their property, in a policy now recognized as a serious violation of their rights.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "During which conflict were Japanese Canadians forcibly interned by the Canadian government?",
+            "options": [
+              "World War I",
+              "A concept unrelated to Canadian history",
+              "World War II",
+              "The Cold War"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happened to the property of many interned Japanese Canadians?",
+            "options": [
+              "It was left completely untouched",
+              "A concept unrelated to internment",
+              "It was seized by the government",
+              "It was carefully protected and returned immediately"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the internment of Japanese Canadians now recognized as a violation of their rights?",
+            "options": [
+              "Yes",
+              "A concept unrelated to Japanese Canadian history",
+              "This event never actually happened",
+              "No, it is considered to have been entirely justified"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the Canadian government’s wartime fears have led to unjust treatment of Japanese Canadians?",
+            "options": [
+              "Japanese Canadians were treated exactly the same as all other Canadians during the war",
+              "Fear and prejudice during wartime led to policies that violated the rights of an entire community based on ancestry",
+              "The government’s actions had no connection to fear or prejudice",
+              "This concept has no connection to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for students to learn about historical injustices like Japanese Canadian internment?",
+            "options": [
+              "This event has no connection to how Canada addresses rights today",
+              "Learning about past injustices serves no purpose today",
+              "Understanding past injustices can help prevent similar mistakes and support reconciliation efforts",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "label": "Day 107 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Effective Interviewing Techniques",
+        "summary": "Grade 6 Language strand: effective interviewing involves preparing open-ended questions in advance, listening actively to responses, and asking thoughtful follow-up questions to gather detailed information from the person being interviewed.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What type of questions should be prepared in advance for an effective interview?",
+            "options": [
+              "Open-ended questions",
+              "No questions should ever be prepared in advance",
+              "A concept unrelated to oral communication",
+              "Questions that can only be answered with yes or no"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is active listening important during an interview?",
+            "options": [
+              "Active listening never affects the quality of an interview",
+              "It helps the interviewer respond thoughtfully and ask good follow-up questions",
+              "A concept unrelated to interviewing",
+              "Interviewers should never listen to the person’s answers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a follow-up question?",
+            "options": [
+              "A concept unrelated to interviewing",
+              "A question that digs deeper into a previous answer",
+              "A question that has nothing to do with the topic",
+              "The very first question asked in an interview"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is most likely an open-ended interview question?",
+            "options": [
+              "Did you compete?",
+              "Are you tired?",
+              "Is it Tuesday?",
+              "What was the most challenging part of training for the competition?"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might preparing questions in advance still leave room for spontaneous follow-up questions during an interview?",
+            "options": [
+              "Unexpected or interesting answers may lead to new questions that were not planned beforehand",
+              "An interview should never include any questions beyond the ones prepared in advance",
+              "Follow-up questions are never useful during an interview",
+              "This concept has no connection to oral communication"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ratios in Recipes: Scaling Quantities Up and Down",
+        "summary": "Grade 6 Math strand: scaling a recipe means multiplying every ingredient amount by the same ratio to increase or decrease the number of servings while keeping the proportions the same.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean to scale a recipe?",
+            "options": [
+              "To multiply every ingredient amount by the same ratio to change the number of servings",
+              "A concept unrelated to ratios",
+              "To remove all measurements from the recipe",
+              "To change only one ingredient while keeping the others the same"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a recipe for 4 servings needs 2 cups of flour, how much flour is needed to make 8 servings?",
+            "options": [
+              "8 cups",
+              "2 cups",
+              "6 cups",
+              "4 cups"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a recipe for 6 servings needs 3 eggs, how many eggs are needed for 2 servings?",
+            "options": [
+              "1 egg",
+              "3 eggs",
+              "6 eggs",
+              "2 eggs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must every ingredient be scaled by the same ratio when adjusting a recipe’s serving size?",
+            "options": [
+              "A recipe’s proportions never affect how it turns out",
+              "Ingredients never need to be scaled by the same amount",
+              "Changing the ratio between ingredients would alter the taste and texture of the final dish",
+              "This concept has no connection to math"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding ratios useful when doubling or halving a recipe for a family gathering?",
+            "options": [
+              "This concept has no relevance to math",
+              "A recipe always tastes the same no matter how the ingredients are adjusted",
+              "Ratios have no real-world application in cooking",
+              "It ensures the dish keeps the same flavour and texture no matter how many servings are made"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Bird Migration: Navigation and Survival",
+        "summary": "Grade 6 Science strand: many bird species migrate long distances each year to find better food sources and nesting conditions, using cues such as the position of the sun and stars, Earth’s magnetic field, and landmarks to navigate.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why do many bird species migrate?",
+            "options": [
+              "Migration serves no purpose for birds",
+              "A concept unrelated to bird behaviour",
+              "To find better food sources and nesting conditions",
+              "To avoid ever having to build a nest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one cue that migrating birds may use to navigate, such as the position of the sun.",
+            "options": [
+              "A concept unrelated to bird migration",
+              "The colour of the ocean",
+              "The taste of the water",
+              "The position of the sun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can migrating birds use Earth’s magnetic field to help them navigate?",
+            "options": [
+              "Only fish can sense Earth’s magnetic field",
+              "A concept unrelated to bird migration",
+              "Yes",
+              "No, birds have no way of sensing Earth’s magnetic field"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might birds that migrate in large flocks have a survival advantage over birds that migrate alone?",
+            "options": [
+              "This concept has no connection to biology",
+              "Birds that migrate alone always survive better than those in flocks",
+              "Travelling in a flock can help birds conserve energy and better watch for predators",
+              "Flying in a flock never provides any benefit to migrating birds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might climate change and habitat loss pose a serious threat to migratory bird species?",
+            "options": [
+              "Bird migration routes never depend on environmental conditions",
+              "This concept has no relevance to science",
+              "Migratory birds are never affected by changes to their environment",
+              "These changes can disrupt the food sources and stopover habitats birds depend on during their journey"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The World Health Organization and Global Health",
+        "summary": "Grade 6 Social Studies strand: the World Health Organization is an agency of the United Nations that works to coordinate international responses to health emergencies, promote disease prevention, and improve health outcomes worldwide.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is the World Health Organization an agency of?",
+            "options": [
+              "The United Nations",
+              "A private for-profit company",
+              "A concept unrelated to global health",
+              "A single country’s government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one goal of the World Health Organization?",
+            "options": [
+              "Preventing all countries from communicating about health issues",
+              "Increasing the spread of disease worldwide",
+              "A concept unrelated to global health",
+              "Coordinating international responses to health emergencies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the World Health Organization work with countries around the world on disease prevention?",
+            "options": [
+              "No, it only works within a single country",
+              "Yes",
+              "The organization has no connection to disease prevention",
+              "A concept unrelated to the World Health Organization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might it be important for countries to cooperate through an organization like the World Health Organization during a global health emergency?",
+            "options": [
+              "Diseases can spread across borders, so a coordinated international response can be more effective",
+              "Countries never benefit from cooperating on health issues",
+              "Diseases never spread beyond the borders of a single country",
+              "This concept has no connection to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the World Health Organization also focus on long-term goals, like improving access to clean water and vaccines?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Access to clean water and vaccines has no effect on public health",
+              "Preventing illness has no connection to improving global health",
+              "Preventing illness before it starts can improve health outcomes more effectively than only treating emergencies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "label": "Day 108 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Sequencing Events and Chronological Order",
+        "summary": "Grade 6 Language strand: sequencing means identifying the order in which events happen in a text, and chronological order arranges events from earliest to latest using clues like dates, time words, and transitions.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does sequencing mean in reading?",
+            "options": [
+              "Identifying the order in which events happen",
+              "Identifying the setting of a story",
+              "A concept unrelated to reading",
+              "Identifying the main character of a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does chronological order arrange events by?",
+            "options": [
+              "In a completely random order",
+              "From earliest to latest",
+              "From least to most important",
+              "A concept unrelated to sequencing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a time word or transition that signals sequence, such as first, next, or finally?",
+            "options": [
+              "Blue",
+              "Next",
+              "A concept unrelated to sequencing",
+              "Happy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a recipe or set of instructions typically be written in chronological order?",
+            "options": [
+              "Following the steps in the correct order is necessary for the task to work correctly",
+              "The order of steps in instructions never matters",
+              "Instructions are usually written with no particular order at all",
+              "This concept has no connection to reading comprehension"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose to tell a story out of chronological order, using flashbacks, instead of a straightforward sequence?",
+            "options": [
+              "This concept has no relevance to reading comprehension",
+              "All stories must always be told in strict chronological order",
+              "It can build suspense or reveal important background information at a strategic moment",
+              "Telling a story out of order never has any effect on the reader"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rate Problems: Speed, Distance, and Time",
+        "summary": "Grade 6 Math strand: speed is a rate that compares distance travelled to the time it takes, calculated using the formula speed equals distance divided by time, which can be rearranged to solve for distance or time.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is speed?",
+            "options": [
+              "A concept unrelated to rates",
+              "The total time spent travelling with no reference to distance",
+              "The total distance travelled with no reference to time",
+              "A rate that compares distance travelled to time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the formula for speed?",
+            "options": [
+              "A concept unrelated to rate problems",
+              "Speed equals distance times time",
+              "Speed equals distance divided by time",
+              "Speed equals time divided by distance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a car travels 150 kilometres in 3 hours, what is its speed?",
+            "options": [
+              "50 kilometres per hour",
+              "3 kilometres per hour",
+              "147 kilometres per hour",
+              "450 kilometres per hour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a cyclist travels at 20 kilometres per hour for 2 hours, how far do they travel?",
+            "options": [
+              "40 kilometres",
+              "20 kilometres",
+              "22 kilometres",
+              "10 kilometres"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding rates like speed useful for planning a road trip?",
+            "options": [
+              "This concept has no connection to math",
+              "It helps estimate how long a journey will take based on the distance and expected speed",
+              "Speed has no connection to how long a trip will take",
+              "Distance and time are never related to each other in any way"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Greenhouse Effect and Global Warming",
+        "summary": "Grade 6 Science strand: the greenhouse effect occurs when gases in the atmosphere, such as carbon dioxide, trap heat from the sun near Earth’s surface, and human activities that increase these gases are contributing to global warming.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the greenhouse effect do?",
+            "options": [
+              "A concept unrelated to Earth science",
+              "Cools Earth’s surface rapidly",
+              "Removes all heat from the atmosphere",
+              "Traps heat from the sun near Earth’s surface"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one gas that contributes to the greenhouse effect, such as carbon dioxide.",
+            "options": [
+              "Carbon dioxide",
+              "A concept unrelated to the greenhouse effect",
+              "Pure oxygen only",
+              "Only water in its solid form"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Are human activities, such as burning fossil fuels, increasing the amount of greenhouse gases in the atmosphere?",
+            "options": [
+              "No, human activities have no effect on greenhouse gases",
+              "Greenhouse gases can never increase in the atmosphere",
+              "A concept unrelated to global warming",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the greenhouse effect itself considered a naturally necessary process for life on Earth?",
+            "options": [
+              "The greenhouse effect has never had any role in keeping Earth warm",
+              "Earth would be exactly the same temperature with no atmosphere at all",
+              "This concept has no connection to science",
+              "Without any greenhouse effect, Earth would be far too cold to support most life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are scientists concerned about the enhanced greenhouse effect caused by human activity?",
+            "options": [
+              "Global temperatures never change no matter the amount of greenhouse gases",
+              "Extra greenhouse gases trap additional heat, contributing to rising global temperatures and climate change",
+              "This concept has no relevance to science",
+              "Extra greenhouse gases have no effect on global temperatures"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Arctic Sovereignty and a Changing North",
+        "summary": "Grade 6 Social Studies strand: Arctic sovereignty refers to a country’s recognized authority over its northern territories and waters, an issue of growing importance for Canada as melting sea ice opens new shipping routes and raises questions about resource access.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does Arctic sovereignty refer to?",
+            "options": [
+              "A treaty about ocean fishing only",
+              "A concept unrelated to Canadian geography",
+              "A country’s recognized authority over its northern territories and waters",
+              "A type of Arctic wildlife"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why has Arctic sovereignty become a more prominent issue in recent years?",
+            "options": [
+              "The Arctic has become colder and completely inaccessible",
+              "Interest in the Arctic has completely disappeared",
+              "A concept unrelated to Arctic sovereignty",
+              "Melting sea ice is opening new shipping routes and access to resources"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does Canada claim sovereignty over parts of the Arctic?",
+            "options": [
+              "Canada has given up all claims to northern territory",
+              "A concept unrelated to Canadian geography",
+              "No, Canada has no territory in the Arctic",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might new Arctic shipping routes created by melting sea ice raise questions between different countries?",
+            "options": [
+              "This concept has no connection to social studies",
+              "Only one country has ever shown any interest in the Arctic",
+              "Multiple countries may have different views on who controls or can use these newly accessible waters",
+              "New shipping routes have no connection to questions of ownership or control"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Indigenous communities in the North have an important perspective on decisions about Arctic sovereignty and development?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Decisions about the Arctic never affect the people who live there",
+              "Indigenous communities have no connection to the Arctic region",
+              "They have long-standing knowledge of and connections to the land that can inform sustainable decision-making"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "label": "Day 109 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Diary or Journal Entry",
+        "summary": "Grade 6 Language strand: a diary or journal entry is a personal, first-person reflection on events and feelings, often dated, that allows a writer to explore their thoughts in an informal, honest voice.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What point of view is typically used in a diary or journal entry?",
+            "options": [
+              "Second person",
+              "First person",
+              "Third person",
+              "A concept unrelated to writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do diary and journal entries usually include at the top?",
+            "options": [
+              "A concept unrelated to journal writing",
+              "A table of contents",
+              "A date",
+              "A bibliography"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the tone of a diary entry usually formal or informal?",
+            "options": [
+              "Diary entries never have any particular tone",
+              "Always extremely formal",
+              "A concept unrelated to diary writing",
+              "Informal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence sounds most like it belongs in a diary entry?",
+            "options": [
+              "The report outlines quarterly sales figures for the company.",
+              "This textbook chapter covers the water cycle.",
+              "The recipe requires two cups of sugar.",
+              "Dear diary, today was such a strange and exciting day, I can barely believe it happened."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might writing in a diary help someone process their thoughts and feelings about an event?",
+            "options": [
+              "Writing about an event never helps a person understand their feelings",
+              "Diaries are only ever used to record facts with no personal reflection",
+              "This concept has no connection to writing",
+              "Putting thoughts into words can help a person reflect on and better understand their own experiences"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Complementary Events",
+        "summary": "Grade 6 Math strand: two events are complementary if together they cover all possible outcomes and cannot both happen at the same time, so their probabilities always add up to 1, or 100 percent.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean for two events to be complementary?",
+            "options": [
+              "A concept unrelated to probability",
+              "They never have any connection to each other",
+              "Together they cover all possible outcomes and cannot both happen at once",
+              "They can both happen at exactly the same time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do the probabilities of two complementary events always add up to?",
+            "options": [
+              "A concept unrelated to complementary events",
+              "2",
+              "0",
+              "1, or 100 percent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the probability of rain tomorrow is 30 percent, what is the probability that it will not rain?",
+            "options": [
+              "30 percent",
+              "70 percent",
+              "0 percent",
+              "100 percent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Are rolling an even number and rolling an odd number on a standard die complementary events?",
+            "options": [
+              "Yes",
+              "No, these events are unrelated",
+              "A concept unrelated to probability",
+              "These events can happen at the same time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the concept of complementary events useful when calculating probability?",
+            "options": [
+              "If you know the probability of one event, you can quickly find the probability of it not happening",
+              "The probabilities of complementary events are never related to each other",
+              "Complementary events never help with calculating probability",
+              "This concept has no connection to math"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Composting: Turning Waste into Soil Nutrients",
+        "summary": "Grade 6 Science strand: composting is the natural process by which decomposers such as bacteria, fungi, and worms break down organic waste like food scraps and yard trimmings into nutrient-rich soil.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is composting?",
+            "options": [
+              "The natural process of breaking down organic waste into nutrient-rich soil",
+              "A process that destroys all organic material with no result",
+              "A method of freezing food waste indefinitely",
+              "A concept unrelated to science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one type of decomposer involved in composting, such as bacteria or worms.",
+            "options": [
+              "Only metal objects",
+              "Bacteria",
+              "Only plastic materials",
+              "A concept unrelated to composting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one type of material that can typically be composted, such as food scraps.",
+            "options": [
+              "Glass bottles",
+              "Food scraps",
+              "A concept unrelated to composting",
+              "Metal cans"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might adding compost to garden soil help plants grow better?",
+            "options": [
+              "Compost removes all nutrients from soil",
+              "Compost adds nutrients that enrich the soil and support healthy plant growth",
+              "Compost has no effect on how well plants grow",
+              "This concept has no connection to biology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is composting considered a beneficial alternative to sending food waste to a landfill?",
+            "options": [
+              "Composting always produces more waste than sending it to a landfill",
+              "It recycles nutrients back into the soil instead of letting waste take up space and produce landfill gases",
+              "This concept has no relevance to science",
+              "Food waste in a landfill provides the exact same benefit as composting"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Trans-Canada Highway and National Infrastructure",
+        "summary": "Grade 6 Social Studies strand: the Trans-Canada Highway is a highway system stretching across all ten provinces, completed in the 1960s, that improved transportation, trade, and connections between communities across the country.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Trans-Canada Highway?",
+            "options": [
+              "A railway built in the nineteenth century",
+              "A highway system stretching across all ten provinces",
+              "A concept unrelated to Canadian geography",
+              "A single highway found only in Ontario"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In approximately what decade was the Trans-Canada Highway completed?",
+            "options": [
+              "The 1960s",
+              "The 1800s",
+              "A concept unrelated to Canadian history",
+              "The 2010s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the completion of the Trans-Canada Highway improve transportation and trade across the country?",
+            "options": [
+              "Yes",
+              "No, it had no effect on transportation or trade",
+              "It only connected two cities in one province",
+              "A concept unrelated to the Trans-Canada Highway"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a national highway system be considered important infrastructure for a large country like Canada?",
+            "options": [
+              "It helps connect distant communities and supports the movement of people and goods across the country",
+              "This concept has no connection to social studies",
+              "A national highway system has no benefit for a large country",
+              "Canada’s provinces have no need to be connected to one another"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might building infrastructure like the Trans-Canada Highway have been a significant engineering challenge?",
+            "options": [
+              "Canada’s landscape is completely flat and uniform from coast to coast",
+              "Highways never need to account for the geography they cross",
+              "This concept has no relevance to social studies",
+              "It had to cross a vast and varied landscape, including mountains, forests, and rugged terrain"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "label": "Day 110 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Review: Grammar, Reading, and Media Literacy (Days 101-109)",
+        "summary": "Grade 6 Language strand review: students revisit direct and indirect speech, main idea and supporting details, book reviews, homophones, meme analysis, possessive nouns, interviewing techniques, sequencing, and diary writing.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does direct speech do?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Removes all punctuation from a sentence",
+              "Reports a speaker’s exact words, usually in quotation marks",
+              "Changes a sentence into a question"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main idea of a text?",
+            "options": [
+              "The title of the text only",
+              "A concept unrelated to reading",
+              "A minor detail mentioned only once",
+              "The central point the text is making"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are homophones?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "Words that are spelled the same but sound different",
+              "Words that sound the same but have different spellings and meanings",
+              "Words that mean the exact same thing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a possessive noun show?",
+            "options": [
+              "A question",
+              "A concept unrelated to grammar",
+              "A negative statement",
+              "Ownership"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does sequencing mean in reading?",
+            "options": [
+              "Identifying the order in which events happen",
+              "Identifying the setting of a story",
+              "A concept unrelated to reading",
+              "Identifying the main character of a story"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Review: Number Sense, Geometry, Data, and Probability (Days 101-109)",
+        "summary": "Grade 6 Math strand review: students revisit prime and composite numbers, rounding decimals, the angle sum of a triangle, area of a trapezoid, histograms, currency exchange rates, recipe ratios, rate problems, and complementary events.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is a prime number?",
+            "options": [
+              "A number that is always even",
+              "A number with exactly two factors, 1 and itself",
+              "A number with more than two factors",
+              "A concept unrelated to number sense"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do the three interior angles of any triangle always add up to?",
+            "options": [
+              "180 degrees",
+              "90 degrees",
+              "270 degrees",
+              "360 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the formula for the area of a trapezoid?",
+            "options": [
+              "One half times the sum of the two bases, times the height",
+              "Side times side",
+              "Base times height only, with no other terms",
+              "Length times width"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the formula for speed?",
+            "options": [
+              "Speed equals distance times time",
+              "Speed equals distance divided by time",
+              "A concept unrelated to rate problems",
+              "Speed equals time divided by distance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do the probabilities of two complementary events always add up to?",
+            "options": [
+              "1, or 100 percent",
+              "0",
+              "2",
+              "A concept unrelated to complementary events"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Review: Human Body, Earth Science, and Ecology (Days 101-109)",
+        "summary": "Grade 6 Science strand review: students revisit the lymphatic system, tides, levers, coral reefs, cloud types, tsunamis, bird migration, the greenhouse effect, and composting.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the lymphatic system collect from body tissues?",
+            "options": [
+              "A concept unrelated to the human body",
+              "Excess fluid",
+              "Only bone cells",
+              "Only hair follicles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main cause of tides on Earth?",
+            "options": [
+              "The colour of the ocean water",
+              "The gravitational pull of the Moon",
+              "The temperature of the air above the ocean",
+              "A concept unrelated to tides"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a lever?",
+            "options": [
+              "A machine that only spins in circles",
+              "A simple machine made of a rigid bar that pivots on a fulcrum",
+              "A tool used only for cutting",
+              "A concept unrelated to simple machines"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a tsunami?",
+            "options": [
+              "A series of powerful ocean waves",
+              "A slow-moving glacier",
+              "A concept unrelated to Earth science",
+              "A type of desert sandstorm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the greenhouse effect do?",
+            "options": [
+              "Cools Earth’s surface rapidly",
+              "A concept unrelated to Earth science",
+              "Traps heat from the sun near Earth’s surface",
+              "Removes all heat from the atmosphere"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Review: World History, Canadian Identity, and Global Issues (Days 101-109)",
+        "summary": "Grade 6 Social Studies strand review: students revisit ancient Persia, land acknowledgements, urban and rural communities, the Group of Seven, the October Crisis, Japanese Canadian internment, the World Health Organization, Arctic sovereignty, and the Trans-Canada Highway.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Achaemenid Empire?",
+            "options": [
+              "A modern country in North America",
+              "A concept unrelated to ancient history",
+              "One of the largest empires in the ancient world, centred in ancient Persia",
+              "A small city-state with no influence beyond its borders"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A legal document transferring land ownership",
+              "A statement recognizing the traditional Indigenous territory of a place",
+              "A map showing provincial borders"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What federal law did the government invoke during the October Crisis?",
+            "options": [
+              "The War Measures Act",
+              "The Constitution Act",
+              "A concept unrelated to the October Crisis",
+              "The Multiculturalism Act"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the World Health Organization an agency of?",
+            "options": [
+              "A concept unrelated to global health",
+              "The United Nations",
+              "A single country’s government",
+              "A private for-profit company"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Trans-Canada Highway?",
+            "options": [
+              "A highway system stretching across all ten provinces",
+              "A concept unrelated to Canadian geography",
+              "A railway built in the nineteenth century",
+              "A single highway found only in Ontario"
             ],
             "answer": 0
           }

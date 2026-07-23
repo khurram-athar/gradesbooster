@@ -1231,6 +1231,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Money, Patterns, Rounding, and Composite Shapes", summary:"Mixed review of financial literacy, patterning, rounding decimals, and composite shapes.",
    resourceLabel:"YouTube: Final Review: Money, Patterns, Rounding, and Composite Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Money%2C%20Patterns%2C%20Rounding%2C%20and%20Composite%20Shapes%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=g6RVCWwysfM",
    quiz:[
      {q:"A monthly budget has $50 income and $65 in planned expenses. What does this indicate?", options:["A $15 deficit, spending more than earned","There is no way to know","A $15 surplus","The budget is balanced"], answer:0},
      {q:"A pattern rule is 'multiply by 3, then subtract 1,' starting at 2. What is the second term?", options:["5","8","6","7"], answer:0},
@@ -1240,6 +1241,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Resources, Stewardship, Moon Phases, and Ecosystems", summary:"Mixed review of renewable/non-renewable resources, environmental stewardship, moon phases, and energy pyramids.",
    resourceLabel:"YouTube: Final Review: Resources, Stewardship, Moon Phases, and Ecosystems", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Resources%2C%20Stewardship%2C%20Moon%20Phases%2C%20and%20Ecosystems%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=n_-dYpQ80w8",
    quiz:[
      {q:"Why might a country invest heavily in solar and wind energy despite higher upfront costs?", options:["They don't run out and pollute less","Solar and wind are always cheaper immediately","They have no environmental benefit","Non-renewables are unlimited"], answer:0},
      {q:"A school starts a composting program. How does this support environmental stewardship?", options:["It increases pollution","It only affects the budget","It has no environmental benefit","It cuts waste and enriches the soil"], answer:3},
@@ -1249,6 +1251,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Environment, Historical Figures, Rural/Urban Life, and the UN", summary:"Mixed review of environmental issues in Canada, historical figures, rural/urban life, and Canada's role in world organizations.",
    resourceLabel:"YouTube: Final Review: Environment, Historical Figures, Rural/Urban Life, and the UN", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Environment%2C%20Historical%20Figures%2C%20Rural%2FUrban%20Life%2C%20and%20the%20UN%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YRxNQPmj1-8",
    quiz:[
      {q:"Why is melting Arctic ice a concern that affects more than just the Arctic region itself?", options:["It only affects animals living in the Arctic","It has no effect beyond the Arctic","It raises sea levels worldwide","Melting ice has no connection to climate"], answer:2},
      {q:"Why is Laura Secord remembered as significant in Canadian history despite not being a soldier?", options:["Her warning helped shape history","She was a formal government official","She has no historical significance","She led an army into battle personally"], answer:0},
@@ -3923,6 +3926,386 @@ const curriculum: DayContent[] = [
      {q:"What is the name of Canada’s central bank?", options:["A concept unrelated to Canadian government","A bank from a different country","A private company only","The Bank of Canada"], answer:3},
      {q:"What type of law deals with actions considered offences against society, such as theft?", options:["Civil law","Criminal law","A concept unrelated to the justice system","International law"], answer:1},
      {q:"On what date is Canada Day celebrated?", options:["December 25","January 1","November 11","July 1"], answer:3}
+   ]},
+]},
+{day:101, label:"Day 101 — Mon", subjects:[
+  {subject:"Language", title:"Oral Communication: Active Listening and Effective Speaking", summary:"Grade 5 Language strand: active listening means giving full attention, avoiding interruptions, and asking clarifying questions, while effective speaking includes clear volume, appropriate pacing, and eye contact with an audience.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is one key habit of an active listener during a conversation?", options:["Thinking only about your next turn to speak","Looking at a phone while someone talks","Interrupting to share your own story","Giving full attention to the speaker"], answer:3},
+     {q:"Which of these is an example of a clarifying question a listener might ask?", options:["I already know everything you are saying.","That has nothing to do with anything.","Could you explain what you meant by that?","Why are you even talking to me?"], answer:2},
+     {q:"Does making eye contact with an audience usually help hold their attention during a speech?", options:["Audiences prefer speakers who never look at them","No, eye contact never affects an audience","A concept unrelated to speaking","Yes"], answer:3},
+     {q:"Why might a speaker practise adjusting their volume and pacing before giving a speech?", options:["It helps the audience hear and understand the ideas clearly","Volume and pacing never affect how a speech is understood","This concept has no connection to oral communication","A speech is always understood no matter how it is delivered"], answer:0},
+     {q:"Why is active listening considered an important skill during a class discussion?", options:["Active listening never helps anyone understand a discussion","It helps you understand others’ ideas and respond thoughtfully","A good listener never needs to pay attention to a speaker","This concept has no relevance to oral communication"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Reading and Writing Numbers to One Million", summary:"Grade 5 Math strand: students read, write, and represent whole numbers up to one million, understanding that each digit’s place value, from ones to hundred thousands, determines its worth.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"In the number 452,367, what is the value of the digit 4?", options:["4,000","400,000","40,000","4"], answer:1},
+     {q:"How is the number four hundred thousand, two hundred fifteen written using digits?", options:["40,215","4,000,215","400,215","4,215"], answer:2},
+     {q:"Which number is greater: 356,204 or 356,240?", options:["A concept unrelated to place value","They are equal","356,204","356,240"], answer:3},
+     {q:"Why is a comma often used when writing numbers like 1,000,000?", options:["A comma always changes the value of a number","It helps separate groups of thousands, making large numbers easier to read","Commas never make large numbers easier to read","This concept has no connection to number sense"], answer:1},
+     {q:"Why is understanding place value important when comparing very large numbers?", options:["This concept has no relevance to number sense","Place value never affects how numbers compare to each other","It shows which digits carry the most value, making comparisons accurate","Large numbers can never actually be compared to one another"], answer:2}
+   ]},
+  {subject:"Science", title:"Structures: Tension and Compression Forces", summary:"Grade 5 Science strand: structures experience tension, a pulling or stretching force, and compression, a pushing or squeezing force, and engineers design structures to withstand both.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do we call a force that pulls or stretches a material?", options:["Tension","Friction","A concept unrelated to structures","Compression"], answer:0},
+     {q:"What do we call a force that pushes or squeezes a material?", options:["Gravity","Tension","A concept unrelated to structures","Compression"], answer:3},
+     {q:"When you stretch a rubber band, is it experiencing tension?", options:["Yes","No, a stretched rubber band experiences no force","Stretching only ever causes compression","A concept unrelated to structures"], answer:0},
+     {q:"Why might an engineer need to consider both tension and compression when designing a bridge?", options:["Different parts of a bridge experience different forces, and materials must withstand both","This concept has no relevance to science","Bridges never experience tension or compression","Only tension ever affects a bridge, never compression"], answer:0},
+     {q:"Why might a material that resists compression well still fail under tension?", options:["Tension and compression are always identical forces","Every material resists tension and compression in exactly the same way","This concept has no connection to structures","A material can respond differently to pulling forces than to pushing forces"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Provincial Flags, Coats of Arms, and Emblems Across Canada", summary:"Grade 5 Social Studies strand: each Canadian province and territory has its own flag, coat of arms, and emblems, such as an official flower or bird, that reflect its unique history and identity.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Does each Canadian province have its own official flag?", options:["A concept unrelated to Canadian identity","Only some provinces are allowed to have flags","Yes","No, all provinces share one identical flag"], answer:2},
+     {q:"What is a coat of arms used to represent?", options:["A concept unrelated to Canadian symbols","A type of Canadian currency","A province, territory, or country’s identity and history","A federal law"], answer:2},
+     {q:"Which of these is an example of a provincial emblem?", options:["A national anthem","An official provincial flower","A federal tax rate","A type of currency"], answer:1},
+     {q:"Why might a province choose specific symbols, like a flower or bird, to represent it?", options:["This concept has no relevance to social studies","These symbols can reflect the province’s natural environment, history, or values","Every province is required to use the exact same symbols","Provincial symbols never have any meaning behind them"], answer:1},
+     {q:"Why might comparing provincial flags and emblems help students understand Canada’s diversity?", options:["This concept has no connection to Canadian identity","All provinces have always had identical histories and symbols","Each province’s unique symbols can reflect its distinct history and regional identity","Provincial symbols never reveal anything about a region"], answer:2}
+   ]},
+]},
+{day:102, label:"Day 102 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Apostrophes for Possession and Contractions", summary:"Grade 5 Language strand: an apostrophe can show possession, as in the dog’s bone, or form a contraction by replacing missing letters, as in do not becoming don’t.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does an apostrophe show in the phrase the cat’s toy?", options:["A contraction of two words","A concept unrelated to grammar","That the sentence is a question","Possession, that the toy belongs to the cat"], answer:3},
+     {q:"What is the contraction for do not?", options:["Dont","Do’nt","Do not’","Don’t"], answer:3},
+     {q:"Which sentence correctly shows possession?", options:["The girls backpack’s were left on the bus.","The girls’ backpacks were left on the bus.","The girl’s’s backpacks were left on the bus.","The girls backpacks were left on the bus, apostrophe."], answer:1},
+     {q:"Why is it important to place an apostrophe correctly when showing possession for a plural noun, like the students’ books?", options:["Apostrophe placement never changes the meaning of a sentence","Apostrophes are never used with plural nouns","It shows that the books belong to more than one student","This concept has no connection to grammar"], answer:2},
+     {q:"Why might mixing up its and it’s be a common grammar mistake?", options:["Its and it’s always mean the exact same thing","Apostrophes never change the meaning of the word its","Its shows possession while it’s is a contraction for it is, and they sound identical","This concept has no relevance to grammar"], answer:2}
+   ]},
+  {subject:"Math", title:"Data Management: Range and Outliers in a Data Set", summary:"Grade 5 Math strand: the range of a data set is the difference between its greatest and least values, and an outlier is a value that is much higher or lower than the rest of the data.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"How do you calculate the range of a data set?", options:["Multiply the greatest and least values","A concept unrelated to data management","Add all the values together","Subtract the least value from the greatest value"], answer:3},
+     {q:"What is the range of this data set: 4, 7, 9, 12, 15?", options:["11","4","9","15"], answer:0},
+     {q:"What do we call a value in a data set that is much higher or lower than the rest?", options:["A concept unrelated to data management","The mean","The mode","An outlier"], answer:3},
+     {q:"In the data set 2, 3, 5, 4, 50, which value is most likely an outlier?", options:["2","4","3","50"], answer:3},
+     {q:"Why might an outlier affect how accurately the mean represents a data set?", options:["Outliers never have any effect on the mean of a data set","The mean is always identical whether or not an outlier is present","This concept has no connection to data management","A very high or low value can pull the mean away from where most of the data actually falls"], answer:3}
+   ]},
+  {subject:"Science", title:"Simple Machines: The Screw and the Wedge", summary:"Grade 5 Science strand: the screw is a simple machine made of an inclined plane wrapped around a cylinder, and the wedge is two inclined planes joined together, both used to make work easier.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What simple machine is made of an inclined plane wrapped around a cylinder?", options:["A lever","A screw","A wedge","A pulley"], answer:1},
+     {q:"What simple machine is made of two inclined planes joined back to back?", options:["A screw","A wheel and axle","A wedge","A lever"], answer:2},
+     {q:"Is an axe blade an example of a wedge?", options:["Yes","An axe blade is always classified as a lever","A concept unrelated to simple machines","No, an axe blade is never considered a wedge"], answer:0},
+     {q:"Why might a screw be useful for holding two pieces of wood together?", options:["This concept has no relevance to science","A screw and a nail work in exactly the same way","Its spiral shape grips the wood tightly as it turns, resisting being pulled out","A screw never actually holds materials together"], answer:2},
+     {q:"Why might a wedge, such as a doorstop, be effective at holding something in place?", options:["A wedge never applies any force to an object","Its angled shape converts a small push into a strong force that resists movement","This concept has no connection to simple machines","A wedge only works when it is shaped like a circle"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Canadian Senate and Its Role in Parliament", summary:"Grade 5 Social Studies strand: the Senate is the appointed upper house of Canada’s Parliament that reviews, debates, and can amend bills passed by the elected House of Commons before they become law.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the name of the appointed upper house of Canada’s Parliament?", options:["The House of Commons","The Senate","A concept unrelated to Canadian government","The Supreme Court"], answer:1},
+     {q:"Are members of the Senate elected by the public in the same way as Members of Parliament?", options:["No, senators are appointed","Yes, senators are elected the exact same way","Senators are chosen by a public lottery","A concept unrelated to Canadian government"], answer:0},
+     {q:"What is one task the Senate performs with bills passed by the House of Commons?", options:["Reviewing and debating the bills","Ignoring the bills completely","A concept unrelated to the Senate","Cancelling all federal elections"], answer:0},
+     {q:"Why might Canada’s Parliament have two separate houses, the Senate and the House of Commons, to review laws?", options:["Two houses never add any extra review to the law-making process","Having two houses allows for extra review and debate before a bill becomes law","Only one house is ever involved in passing a law in Canada","This concept has no relevance to social studies"], answer:1},
+     {q:"Why might it matter that senators are appointed rather than elected?", options:["Appointed and elected officials always have identical public roles","Whether senators are appointed or elected never has any significance","This concept has no connection to Canadian government","It can shape the way the public views their role compared to elected representatives"], answer:3}
+   ]},
+]},
+{day:103, label:"Day 103 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Problem-and-Solution Text Structure", summary:"Grade 5 Language strand: problem-and-solution is a nonfiction text structure in which an author presents a problem and then describes one or more solutions to address it.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does a problem-and-solution text structure present to the reader?", options:["Only a list of unrelated facts","A problem and one or more ways to solve it","A story with no real conflict","A concept unrelated to text structure"], answer:1},
+     {q:"Which of these sentences signals a problem-and-solution structure?", options:["She woke up and ate breakfast.","Plastic pollution harms oceans, but recycling programs can help reduce it.","The sun rose over the calm lake.","Yesterday was sunny and warm."], answer:1},
+     {q:"Might a nonfiction article about a city’s traffic problems describe possible solutions, like new bus routes?", options:["No, articles about problems never mention any solutions","Solutions are never included in nonfiction writing","Yes","A concept unrelated to text structure"], answer:2},
+     {q:"Why might recognizing a problem-and-solution structure help a reader understand a nonfiction article?", options:["This concept has no connection to reading comprehension","Recognizing this structure never helps with understanding a text","Problems and solutions are never related to each other in a text","It helps the reader see how the issue is connected to proposed fixes"], answer:3},
+     {q:"Why might an author choose a problem-and-solution structure instead of simply describing events in order?", options:["It can clearly show why an issue matters and what might be done about it","Describing events in order is the only structure an author can ever use","This structure never helps communicate an idea clearly","This concept has no relevance to reading"], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Calculating Sales Tax and Discounts", summary:"Grade 5 Math strand: students calculate sales tax as a percentage added to a purchase price, and calculate a discount as a percentage subtracted from the original price of an item.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"If an item costs 20 dollars and the sales tax is 10 percent, how much tax is added?", options:["2 dollars","10 dollars","20 dollars","1 dollar"], answer:0},
+     {q:"If a 40 dollar item is discounted by 25 percent, how much is the discount?", options:["25 dollars","15 dollars","10 dollars","4 dollars"], answer:2},
+     {q:"After a 25 percent discount on a 40 dollar item, what is the new price?", options:["15 dollars","30 dollars","35 dollars","25 dollars"], answer:1},
+     {q:"Why is it useful to know how to calculate sales tax before making a purchase?", options:["It helps you know the total amount you will actually need to pay","Sales tax is always exactly the same as the original price","This concept has no connection to financial literacy","Sales tax never changes the total amount owed"], answer:0},
+     {q:"Why might a store advertise a discount as a percentage rather than a fixed dollar amount?", options:["A percentage discount can apply proportionally to items of any original price","A percentage discount always means the item becomes free","Percentages never actually represent a real discount","This concept has no relevance to financial literacy"], answer:0}
+   ]},
+  {subject:"Science", title:"Life Systems: Migration and Hibernation as Survival Strategies", summary:"Grade 5 Science strand: some animals survive seasonal changes through migration, traveling to a different location, or hibernation, entering a deep, energy-saving sleep during cold months.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do we call it when an animal travels to a different location to survive seasonal changes?", options:["Metamorphosis","Migration","A concept unrelated to survival strategies","Hibernation"], answer:1},
+     {q:"What do we call a deep, energy-saving sleep some animals enter during cold months?", options:["Hibernation","Pollination","Migration","A concept unrelated to survival strategies"], answer:0},
+     {q:"Do many Canada geese migrate south for the winter?", options:["A concept unrelated to migration","No, Canada geese never migrate","Yes","Canada geese hibernate instead of migrating"], answer:2},
+     {q:"Why might hibernation help an animal, like a bear, survive winter when food is scarce?", options:["This concept has no relevance to science","Hibernation never helps an animal conserve energy","Animals need more food while hibernating than while active","Slowing the body’s functions during hibernation reduces the need for food and energy"], answer:3},
+     {q:"Why might migration be a risky but necessary survival strategy for some animals?", options:["This concept has no connection to survival strategies","Animals that migrate always stay in exactly the same location","Migration never involves any risk or benefit to an animal","Traveling long distances uses energy and faces dangers, but it leads to better food or climate conditions"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Role of Lieutenant Governors in the Provinces", summary:"Grade 5 Social Studies strand: a Lieutenant Governor is the monarch’s representative in a province, performing ceremonial duties and formally granting royal assent to provincial laws.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the title of the monarch’s representative in a Canadian province?", options:["The Lieutenant Governor","The Prime Minister","The Governor General","The Premier"], answer:0},
+     {q:"Does a Lieutenant Governor formally grant royal assent to provincial laws?", options:["A concept unrelated to Canadian government","No, a Lieutenant Governor has no role in provincial laws","Only the Prime Minister can approve provincial laws","Yes"], answer:3},
+     {q:"Is the role of Lieutenant Governor mainly ceremonial rather than a role that makes daily political decisions?", options:["A concept unrelated to Canadian government","Yes","No, the Lieutenant Governor makes every daily political decision","The Lieutenant Governor has no duties at all"], answer:1},
+     {q:"Why might a province have a Lieutenant Governor as well as a Premier?", options:["This concept has no relevance to social studies","A province never needs any representative of the monarch","These two roles are always exactly identical","The Lieutenant Governor represents the monarch while the Premier leads the elected government"], answer:3},
+     {q:"Why is it useful to compare the role of a Lieutenant Governor with the role of Canada’s Governor General?", options:["Comparing these roles never reveals anything about Canadian government","It helps show how similar ceremonial roles exist at both the federal and provincial levels","This concept has no connection to social studies","The Lieutenant Governor and Governor General have completely unrelated jobs with no similarities"], answer:1}
+   ]},
+]},
+{day:104, label:"Day 104 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Compound Words and Their Meanings", summary:"Grade 5 Language strand: a compound word is formed by joining two smaller words together, such as sunflower or backpack, and its meaning is often related to the meanings of both original words.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What do we call a word formed by joining two smaller words together?", options:["A compound word","A synonym","A concept unrelated to vocabulary","An antonym"], answer:0},
+     {q:"Which of these is an example of a compound word?", options:["Backpack","Running","Careful","Happier"], answer:0},
+     {q:"Is the word sunflower formed by joining the words sun and flower?", options:["No, sunflower is not a compound word","Sunflower has no connection to the words sun or flower","Yes","A concept unrelated to compound words"], answer:2},
+     {q:"Why might understanding the two smaller words in a compound word help you figure out its meaning?", options:["The meanings of the smaller words often relate to the meaning of the whole compound word","The smaller words in a compound word never relate to its meaning","Compound words never have any connection to the words that form them","This concept has no connection to vocabulary"], answer:0},
+     {q:"Why might the compound word butterfly be a tricky example of this pattern?", options:["This concept has no relevance to vocabulary","Every compound word’s meaning is always completely obvious from its parts","Its meaning is not simply butter plus fly, so context and memorization also matter","Butterfly is not actually a compound word at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Between Metric Units of Capacity and Mass", summary:"Grade 5 Math strand: students convert between metric units of capacity, such as millilitres and litres, and mass, such as grams and kilograms, using the relationship that 1000 of the smaller unit equals 1 of the larger unit.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"How many millilitres are in 1 litre?", options:["100","10","1000","10000"], answer:2},
+     {q:"How many grams are in 1 kilogram?", options:["10","100","1000","10000"], answer:2},
+     {q:"How many litres is 3000 millilitres?", options:["3 litres","30 litres","0.3 litres","300 litres"], answer:0},
+     {q:"How many kilograms is 5000 grams?", options:["0.5 kilograms","500 kilograms","5 kilograms","50 kilograms"], answer:2},
+     {q:"Why is it useful to know that 1000 millilitres equals 1 litre when solving measurement problems?", options:["It allows you to convert between the two units quickly and accurately","Millilitres and litres are never actually related to each other","This relationship never helps with converting between units","This concept has no connection to measurement"], answer:0}
+   ]},
+  {subject:"Science", title:"Life Systems: How the Body’s Systems Work Together", summary:"Grade 5 Science strand: the body’s organ systems, such as the circulatory, respiratory, and digestive systems, work together so that one system’s output often becomes another system’s input, keeping the whole body functioning.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Which two body systems work closely together to deliver oxygen to the blood?", options:["The digestive and skeletal systems","The circulatory and respiratory systems","A concept unrelated to body systems","The nervous and excretory systems only"], answer:1},
+     {q:"Does the digestive system provide nutrients that the circulatory system then carries to the rest of the body?", options:["Yes","A concept unrelated to body systems","The circulatory system only carries oxygen, never nutrients","No, these two systems never interact"], answer:0},
+     {q:"Can a problem in one body system sometimes affect how another system functions?", options:["A concept unrelated to body systems","No, body systems always function completely independently","Yes","Body systems never have any connection to one another"], answer:2},
+     {q:"Why might scientists describe the human body as a system of interconnected systems rather than separate parts?", options:["Every body system works in complete isolation from the others","This concept has no relevance to science","Body systems never actually depend on one another","Each system depends on others to carry out its job, so they must work together"], answer:3},
+     {q:"Why might understanding how body systems work together help explain why exercise affects more than just the muscles?", options:["Exercise can also increase heart rate and breathing, showing multiple systems responding together","Only one single body system is ever involved in physical activity","This concept has no connection to body systems","Exercise never has any effect beyond the muscular system"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Canadian Shield: Geography and Geology", summary:"Grade 5 Social Studies strand: the Canadian Shield is a vast region of ancient rock covering much of central and northern Canada, rich in minerals and shaped by glaciers during the last ice age.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What do we call the vast region of ancient rock covering much of central and northern Canada?", options:["The Canadian Shield","The Great Plains","The Rocky Mountains","A concept unrelated to Canadian geography"], answer:0},
+     {q:"Is the Canadian Shield known for containing valuable mineral deposits?", options:["Yes","Minerals are only ever found outside the Canadian Shield","A concept unrelated to Canadian geography","No, the Canadian Shield contains no valuable resources"], answer:0},
+     {q:"Did glaciers help shape the landscape of the Canadian Shield during the last ice age?", options:["A concept unrelated to Canadian geography","The Canadian Shield formed only in the last hundred years","No, glaciers never affected the Canadian Shield","Yes"], answer:3},
+     {q:"Why might mining be an important economic activity in areas of the Canadian Shield?", options:["The Canadian Shield has never had any economic importance","The region contains rich mineral deposits that can be extracted and used","This concept has no relevance to social studies","Mining has no connection to the Canadian Shield’s geology"], answer:1},
+     {q:"Why is the Canadian Shield considered one of the oldest geological regions on Earth?", options:["Rock in the Canadian Shield is no different in age from anywhere else","The Canadian Shield formed only very recently, geologically speaking","This concept has no connection to Canadian geography","Its rock formations date back billions of years, among the oldest known rock on the planet"], answer:3}
+   ]},
+]},
+{day:105, label:"Day 105 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Writing a Formal Letter or Email", summary:"Grade 5 Language strand: a formal letter or email follows conventions such as a polite greeting, clear purpose, respectful tone, and formal closing, and is used when writing to someone like a principal or a company.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Which greeting would be most appropriate to open a formal letter to a principal?", options:["Hey there,","What’s up,","Yo,","Dear Principal Smith,"], answer:3},
+     {q:"Which of these would be an appropriate formal closing for a letter?", options:["Sincerely,","Later,","See ya,","Bye for now,"], answer:0},
+     {q:"Should a formal letter to a company generally use a respectful, polite tone?", options:["No, formal letters should always sound rude","Tone never matters in a formal letter","Yes","A concept unrelated to writing"], answer:2},
+     {q:"Why is it important to clearly state your purpose near the beginning of a formal letter or email?", options:["Stating a purpose never helps a reader understand a letter","This concept has no connection to writing","A formal letter should never explain why it was written","It helps the reader quickly understand why you are writing and what you need"], answer:3},
+     {q:"Why might a student choose to write a formal email instead of a casual message when contacting a teacher about a serious concern?", options:["A formal tone shows respect and helps the message be taken seriously","Formal writing is never appropriate for contacting a teacher","This concept has no relevance to writing","Casual and formal writing are always treated exactly the same way"], answer:0}
+   ]},
+  {subject:"Math", title:"Algebra: Describing and Extending Pattern Rules in Words", summary:"Grade 5 Math strand: a pattern rule describes in words how a sequence changes from one term to the next, such as start at 3 and add 4 each time, and can be used to extend or predict future terms.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is the pattern rule for the sequence 3, 7, 11, 15?", options:["Start at 3 and add 3 each time","Start at 3 and multiply by 4 each time","Start at 3 and subtract 4 each time","Start at 3 and add 4 each time"], answer:3},
+     {q:"Using the rule start at 2 and add 5 each time, what are the first four terms?", options:["2, 7, 12, 17","2, 7, 14, 21","5, 10, 15, 20","2, 5, 10, 15"], answer:0},
+     {q:"What is the next term in the sequence 4, 8, 12, 16, ___?", options:["22","18","24","20"], answer:3},
+     {q:"Why is it useful to describe a pattern rule in words rather than just listing numbers?", options:["Number sequences can never be described using words","This concept has no connection to algebra","A word rule can be used to predict any future term without listing every number first","A word rule never helps predict future terms"], answer:2},
+     {q:"Why might two different pattern rules sometimes produce the same first few terms but different later terms?", options:["This concept has no relevance to algebra","All pattern rules always produce identical sequences forever","Different rules can coincidentally match for a few terms before the patterns diverge","Two different pattern rules can never share the same first terms"], answer:2}
+   ]},
+  {subject:"Science", title:"Structures: The Role of Foundations in Buildings", summary:"Grade 5 Science strand: a foundation is the base of a structure that transfers its weight safely into the ground, providing stability and preventing sinking, shifting, or collapse.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do we call the base of a structure that transfers its weight into the ground?", options:["A truss","A concept unrelated to structures","A beam","A foundation"], answer:3},
+     {q:"Does a strong foundation help prevent a building from sinking or shifting over time?", options:["Foundations only ever make a building weaker","No, a foundation never affects a building’s stability","A concept unrelated to structures","Yes"], answer:3},
+     {q:"Would a building on soft, unstable ground typically need a stronger foundation than one on solid rock?", options:["No, ground type never affects foundation strength","A concept unrelated to structures","All buildings need exactly the same foundation regardless of ground type","Yes"], answer:3},
+     {q:"Why might engineers dig deep into the ground before laying a building’s foundation?", options:["Digging deep never has any effect on a building’s stability","Reaching stable ground helps ensure the structure will not sink or shift over time","This concept has no relevance to science","Foundations are always built directly on top of loose soil with no digging"], answer:1},
+     {q:"Why is a strong foundation especially important for a tall building, like a skyscraper?", options:["A taller, heavier structure places greater pressure on the ground, requiring more support","This concept has no connection to structures","Tall buildings need less foundation support than short ones","The height of a building never affects how much foundation support it needs"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Boreal Forest Region", summary:"Grade 5 Social Studies strand: the boreal forest is a vast region of coniferous trees stretching across much of northern Canada, providing habitat for wildlife and supporting the forestry industry.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What type of trees mostly make up Canada’s boreal forest?", options:["Only cactus plants","Coniferous trees","A concept unrelated to Canadian geography","Only tropical palm trees"], answer:1},
+     {q:"Does the boreal forest stretch across a large part of northern Canada?", options:["No, the boreal forest covers only a tiny area","Yes","A concept unrelated to Canadian geography","The boreal forest does not exist in Canada"], answer:1},
+     {q:"Can the boreal forest provide habitat for wildlife, such as moose and wolves?", options:["Yes","Only fish live in the boreal forest region","No, the boreal forest supports no wildlife at all","A concept unrelated to the boreal forest"], answer:0},
+     {q:"Why might the forestry industry be closely connected to Canada’s boreal forest region?", options:["The boreal forest contains no trees suitable for forestry","The vast coniferous forest provides a major source of wood and forest products","This concept has no relevance to social studies","The forestry industry has no connection to the boreal forest at all"], answer:1},
+     {q:"Why is it important to manage the boreal forest sustainably, considering both wildlife and industry?", options:["Sustainable management never affects wildlife or industry","This concept has no connection to Canadian geography","Balancing resource use with habitat protection helps the forest support people and wildlife long term","The boreal forest requires no management at all"], answer:2}
+   ]},
+]},
+{day:106, label:"Day 106 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Comma Usage in Lists, Dates, and Addresses", summary:"Grade 5 Language strand: commas are used to separate items in a list, to separate the day from the year in a date, and to separate parts of an address, such as a city from a province.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Where should a comma be placed in the list apples, oranges and bananas to correctly separate all three items?", options:["Apples oranges, and bananas","Apples, oranges and, bananas","Apples oranges and bananas","Apples, oranges, and bananas"], answer:3},
+     {q:"Which of these correctly uses a comma in a date?", options:["July 1 2026,","July, 1 2026","July, 1, 2026,","July 1, 2026"], answer:3},
+     {q:"Which of these correctly uses a comma in an address?", options:["Toronto, Ontario","Toronto, Ontario,,","Toronto Ontario,",",Toronto Ontario"], answer:0},
+     {q:"Why is it important to use commas correctly when listing several items in a sentence?", options:["Commas never make a list of items easier to read","It helps the reader clearly tell where one item ends and the next begins","Lists are always clear whether or not commas are used","This concept has no connection to grammar"], answer:1},
+     {q:"Why might leaving out a comma in a date or address make a sentence confusing?", options:["Without the comma, the different parts of the information can blend together unclearly","Missing commas never cause any confusion in a sentence","This concept has no relevance to grammar","Dates and addresses never actually require any commas"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Representing 3D Objects Using Top, Front, and Side Views", summary:"Grade 5 Math strand: a three-dimensional object can be represented on paper by drawing its top view, front view, and side view, showing what the shape looks like from each direction.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What do we call the drawing that shows what a 3D object looks like when viewed from directly above?", options:["The side view","The front view","The top view","A concept unrelated to geometry"], answer:2},
+     {q:"How many different standard views are typically used to represent a 3D object on paper: top, front, and ___?", options:["Side","Diagonal","Bottom","Back"], answer:0},
+     {q:"Would the top view of a cube typically look like a square?", options:["Yes","A cube has no top view at all","A concept unrelated to geometry","No, the top view of a cube is never a square"], answer:0},
+     {q:"Why might an engineer use top, front, and side views instead of just one drawing to represent an object?", options:["One single view always shows every detail of a 3D object","This concept has no connection to geometry","Using multiple views never provides any extra information about a shape","Multiple views together give a complete and accurate picture of the object’s shape"], answer:3},
+     {q:"Why might two different 3D objects have the same top view but different front views?", options:["Two different objects can never share the same view from any direction","This concept has no relevance to geometry","Objects can share the same outline from one direction while differing in shape from another","The top view of an object always reveals its entire three-dimensional shape"], answer:2}
+   ]},
+  {subject:"Science", title:"Matter and Energy: Properties of Recyclable Materials", summary:"Grade 5 Science strand: materials such as paper, plastic, metal, and glass have different properties that determine how they can be recycled and reused, helping conserve natural resources.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Which of these materials can typically be recycled?", options:["Nothing can ever be recycled","A concept unrelated to recycling","Materials are never separated by type","Glass"], answer:3},
+     {q:"Why might metal be a material that can be recycled many times without losing quality?", options:["This concept has no relevance to science","Metal can never be melted down or reshaped","Metal can often be melted down and reshaped repeatedly without breaking down","Metal loses all of its properties the first time it is recycled"], answer:2},
+     {q:"Does sorting recyclable materials, like separating glass from plastic, help the recycling process?", options:["All materials are recycled using the exact same process regardless of type","A concept unrelated to recyclable materials","No, sorting materials never helps with recycling","Yes"], answer:3},
+     {q:"Why is understanding the properties of different materials important for recycling programs?", options:["Material properties never affect how something is recycled","All materials are processed in an identical way no matter their properties","Different materials require different recycling processes based on their properties","This concept has no connection to matter and energy"], answer:2},
+     {q:"Why might recycling paper help conserve natural resources, such as trees?", options:["Paper can never actually be made from recycled materials","Recycling paper never has any effect on how many trees are used","This concept has no relevance to science","Reusing paper fibres reduces the need to cut down new trees to make paper"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"How Federal Elections Work: The Role of Elections Canada", summary:"Grade 5 Social Studies strand: Elections Canada is the independent agency responsible for organizing federal elections, ensuring eligible voters can cast ballots and that results are counted fairly.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the name of the independent agency responsible for organizing federal elections in Canada?", options:["Elections Canada","The Bank of Canada","The Supreme Court of Canada","A concept unrelated to Canadian government"], answer:0},
+     {q:"Is Elections Canada responsible for making sure federal election results are counted fairly?", options:["No, Elections Canada has no role in counting votes","Election results are never actually counted in Canada","A concept unrelated to elections","Yes"], answer:3},
+     {q:"Must a person typically be a certain age and a Canadian citizen to vote in a federal election?", options:["No, anyone of any age or citizenship can vote","Voting rules are never enforced in Canada","Yes","A concept unrelated to Canadian elections"], answer:2},
+     {q:"Why might it be important for an agency like Elections Canada to be independent from any political party?", options:["Independence helps ensure elections are run fairly, without favouring one party over another","Elections in Canada are always run directly by political parties themselves","An independent agency never has any advantage in running elections fairly","This concept has no relevance to social studies"], answer:0},
+     {q:"Why does Elections Canada work to make voting accessible, such as through advance polls or mail-in ballots?", options:["Accessible voting options never help more people participate in elections","This concept has no connection to Canadian government","Elections Canada only allows voting on a single specific day with no other options","Making voting more accessible helps more eligible citizens participate in choosing their government"], answer:3}
+   ]},
+]},
+{day:107, label:"Day 107 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Recognizing an Unreliable Narrator", summary:"Grade 5 Language strand: an unreliable narrator is a storyteller whose account of events may be incomplete, biased, or inaccurate, requiring readers to think critically about what is really happening.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What do we call a narrator whose account of events may be biased or inaccurate?", options:["A concept unrelated to reading","A reliable narrator","An unreliable narrator","A third-person narrator only"], answer:2},
+     {q:"Might a narrator’s young age or strong emotions be a reason readers should question what they say?", options:["A concept unrelated to reading","Yes","No, a narrator’s age or emotions never affect how believable they are","Narrators are always completely truthful no matter what"], answer:1},
+     {q:"Should readers sometimes compare a narrator’s claims with other clues in the story to check accuracy?", options:["Clues in a story never reveal anything about a narrator","Yes","No, readers should never question anything a narrator says","A concept unrelated to reading comprehension"], answer:1},
+     {q:"Why might an author choose to use an unreliable narrator instead of a completely truthful one?", options:["Unreliable narrators never add anything interesting to a story","It can create suspense or surprise as readers piece together the real story","A narrator’s reliability never affects how a reader experiences a story","This concept has no connection to reading comprehension"], answer:1},
+     {q:"Why is it important for readers to think critically when a story is told from only one character’s point of view?", options:["That character’s perspective might leave out details or show bias that affects the full picture","Readers never need to think critically about who is telling a story","This concept has no relevance to reading","A single point of view always shows every important detail with no bias"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Constructing and Interpreting Double Bar Graphs", summary:"Grade 5 Math strand: a double bar graph displays two related sets of data side by side for each category, making it easy to compare values, such as sales in two different months.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is the purpose of a double bar graph?", options:["To show only one set of data","To display data as a single line","A concept unrelated to data management","To compare two related sets of data side by side"], answer:3},
+     {q:"In a double bar graph comparing rainfall in two cities, how many bars would typically appear for each month?", options:["3","1","2","4"], answer:2},
+     {q:"Would a double bar graph be a good choice for comparing test scores between two different classes?", options:["Double bar graphs can only show one number at a time","No, double bar graphs cannot compare two groups","A concept unrelated to data management","Yes"], answer:3},
+     {q:"Why might a double bar graph be more useful than two separate single bar graphs when comparing data?", options:["Two separate graphs always show information more clearly than one combined graph","This concept has no connection to data management","A double bar graph never makes comparing data easier","It allows for an easier direct comparison between related values side by side"], answer:3},
+     {q:"Why is a clear legend important when reading a double bar graph?", options:["A legend never helps explain what a graph is showing","Double bar graphs never actually need a legend to be understood","It helps the reader know which colour or pattern represents which set of data","This concept has no relevance to data management"], answer:2}
+   ]},
+  {subject:"Science", title:"Earth and Space Systems: How Fossil Fuels Form Over Time", summary:"Grade 5 Science strand: fossil fuels, such as coal, oil, and natural gas, form over millions of years from the buried remains of ancient plants and animals under heat and pressure.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Approximately how long does it take for fossil fuels to form underground?", options:["A few days","Millions of years","A few weeks","One year"], answer:1},
+     {q:"What are fossil fuels formed from?", options:["The buried remains of ancient plants and animals","Rainwater and snow","Freshly cut wood","A concept unrelated to fossil fuels"], answer:0},
+     {q:"Name one example of a fossil fuel.", options:["A concept unrelated to fossil fuels","Wind","Coal","Sunlight"], answer:2},
+     {q:"Why are fossil fuels considered a non-renewable resource?", options:["Fossil fuels can be created again within a few days","This concept has no relevance to science","Fossil fuels are never actually used up once extracted","They take millions of years to form, far longer than they can be replaced through use"], answer:3},
+     {q:"Why might heat and pressure underground be important parts of how fossil fuels form?", options:["This concept has no connection to Earth and Space systems","They gradually transform buried organic remains into coal, oil, or natural gas over time","Heat and pressure never play any role in forming fossil fuels","Fossil fuels form instantly with no heat or pressure required"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Canadian Coast Guard and Maritime Safety", summary:"Grade 5 Social Studies strand: the Canadian Coast Guard is a federal agency responsible for maritime safety, search and rescue at sea, and protecting Canada’s waterways along its coasts and inland lakes.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the name of the federal agency responsible for maritime safety in Canada?", options:["The Bank of Canada","A concept unrelated to Canadian government","The Canadian Coast Guard","The Royal Canadian Mounted Police"], answer:2},
+     {q:"Is search and rescue at sea one of the responsibilities of the Canadian Coast Guard?", options:["Yes","Search and rescue is handled only by private companies","A concept unrelated to maritime safety","No, the Coast Guard has no role in search and rescue"], answer:0},
+     {q:"Does the Canadian Coast Guard help protect Canada’s waterways, including inland lakes?", options:["No, the Coast Guard only ever operates on land","Canada has no inland lakes to protect","A concept unrelated to the Coast Guard","Yes"], answer:3},
+     {q:"Why might Canada need a Coast Guard given its long coastlines and many waterways?", options:["This concept has no relevance to social studies","Its vast coastlines and waterways require an agency dedicated to safety and emergency response on the water","Maritime safety is never actually a concern for a country like Canada","Canada has no coastlines or waterways that need protecting"], answer:1},
+     {q:"Why is it useful for the Coast Guard to work separately from, but alongside, other agencies like the RCMP?", options:["This concept has no connection to Canadian government","Separate agencies never need to work together in any way","Different agencies can focus on their specific areas of responsibility, such as maritime safety versus policing","The Coast Guard and the RCMP always perform the exact same duties"], answer:2}
+   ]},
+]},
+{day:108, label:"Day 108 — Wed", subjects:[
+  {subject:"Language", title:"Media Literacy: Point of View and Bias in News Media", summary:"Grade 5 Language strand: news media can present information from a particular point of view, and recognizing bias means noticing when word choice, story selection, or tone favours one perspective over another.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does it mean when a news story shows bias?", options:["It favours one perspective over another","It contains no opinions of any kind","It presents every viewpoint with perfect balance","A concept unrelated to media literacy"], answer:0},
+     {q:"Which of these might be a sign of bias in a news article?", options:["Using strongly emotional words to describe only one side of an issue","Including facts and multiple viewpoints","Citing several different reliable sources","Presenting statistics from a study"], answer:0},
+     {q:"Can two different news sources report on the same event but present it from different points of view?", options:["A concept unrelated to media literacy","News sources are never allowed to have different perspectives","Yes","No, all news sources always report events identically"], answer:2},
+     {q:"Why is it helpful to compare multiple news sources when researching a topic?", options:["Comparing sources never reveals anything useful about a topic","Every news source always reports the exact same information in the exact same way","It can reveal different perspectives and help identify potential bias in any single source","This concept has no connection to media literacy"], answer:2},
+     {q:"Why might word choice, like calling a group protesters versus rioters, reveal a media source’s point of view?", options:["Word choice never affects how a reader interprets a news story","Different words can create very different impressions of the same event for readers","All words used in news stories carry the exact same meaning","This concept has no relevance to media literacy"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Reading Thermometers and Temperature in Celsius", summary:"Grade 5 Math strand: students read temperatures on a Celsius thermometer, understanding that water freezes at 0 degrees Celsius and boils at 100 degrees Celsius, and can calculate temperature changes.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"At what temperature does water freeze on the Celsius scale?", options:["212 degrees Celsius","32 degrees Celsius","0 degrees Celsius","100 degrees Celsius"], answer:2},
+     {q:"At what temperature does water boil on the Celsius scale?", options:["0 degrees Celsius","100 degrees Celsius","212 degrees Celsius","50 degrees Celsius"], answer:1},
+     {q:"If the temperature rises from 12 degrees Celsius to 19 degrees Celsius, by how many degrees did it increase?", options:["7 degrees","5 degrees","12 degrees","9 degrees"], answer:0},
+     {q:"If the temperature is 3 degrees Celsius and drops by 8 degrees, what is the new temperature?", options:["-11 degrees Celsius","5 degrees Celsius","-5 degrees Celsius","11 degrees Celsius"], answer:2},
+     {q:"Why is it useful to know key reference points, like water’s freezing and boiling points, when reading a Celsius thermometer?", options:["This concept has no connection to measurement","Water freezes and boils at the exact same temperature","They give helpful benchmarks for estimating and understanding other temperature readings","These reference points never help with reading a thermometer"], answer:2}
+   ]},
+  {subject:"Science", title:"Life Systems: Symbiotic Relationships in Nature", summary:"Grade 5 Science strand: symbiosis describes close relationships between different species, including mutualism where both benefit, commensalism where one benefits without harming the other, and parasitism where one benefits at the other’s expense.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do we call a close relationship between two different species in nature?", options:["A food chain","A symbiotic relationship","A concept unrelated to ecosystems","A migration pattern"], answer:1},
+     {q:"What type of symbiotic relationship benefits both species involved?", options:["Commensalism only harms both species","Mutualism","A concept unrelated to symbiosis","Parasitism"], answer:1},
+     {q:"In a parasitic relationship, does one organism typically benefit at the expense of the other?", options:["Neither organism is ever affected in a parasitic relationship","Yes","A concept unrelated to symbiosis","No, both organisms are always harmed equally"], answer:1},
+     {q:"Why might bees and flowers be considered an example of a mutualistic relationship?", options:["Only the flower benefits while the bee is harmed","Bees and flowers never actually interact with each other","This concept has no relevance to science","Bees get nectar for food while flowers get help spreading pollen to reproduce"], answer:3},
+     {q:"Why might understanding symbiotic relationships help explain how removing one species can affect an entire ecosystem?", options:["Species that depend on each other closely can be strongly affected if one of them disappears","Removing one species never has any effect on other species","Species in an ecosystem are never actually connected to one another","This concept has no connection to life systems"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Free Trade Agreements: NAFTA and CUSMA", summary:"Grade 5 Social Studies strand: Canada, the United States, and Mexico have signed free trade agreements, first NAFTA and later CUSMA, which reduce trade barriers and shape how goods move between the three countries.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does NAFTA stand for?", options:["The New American Farming and Trade Act","The National Fair Trade Association","A concept unrelated to Canadian trade","The North American Free Trade Agreement"], answer:3},
+     {q:"Which three countries are part of the trade agreement known as CUSMA?", options:["Canada, Mexico, and Brazil","Canada, the United States, and Mexico","Canada, France, and the United States","The United States, Mexico, and China"], answer:1},
+     {q:"Does a free trade agreement generally aim to reduce barriers to trade between countries, such as tariffs?", options:["No, free trade agreements always increase trade barriers","Trade agreements never affect how goods move between countries","A concept unrelated to trade agreements","Yes"], answer:3},
+     {q:"Why might Canada benefit from having a free trade agreement with its neighbouring countries?", options:["This concept has no relevance to social studies","It can make it easier and more affordable to buy and sell goods across borders","Free trade agreements never provide any economic benefit","Trade agreements always make goods more expensive for everyone"], answer:1},
+     {q:"Why did CUSMA eventually replace NAFTA as the trade agreement between the three countries?", options:["Trade agreements between countries are never renegotiated or replaced","The countries renegotiated updated terms that better reflected current trade needs","This concept has no connection to Canadian trade","CUSMA and NAFTA are actually the exact same unchanged agreement"], answer:1}
+   ]},
+]},
+{day:109, label:"Day 109 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Types of Adverbs and Their Functions", summary:"Grade 5 Language strand: adverbs can describe manner, such as quickly, time, such as yesterday, place, such as outside, or frequency, such as often, and typically modify a verb, adjective, or another adverb.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What type of adverb does the word quickly describe?", options:["Frequency","Time","Place","Manner"], answer:3},
+     {q:"What type of adverb does the word yesterday describe?", options:["Frequency","Manner","Time","Place"], answer:2},
+     {q:"In the sentence She often sings loudly, which word is an adverb of frequency?", options:["She","Loudly","Often","Sings"], answer:2},
+     {q:"Why might a writer use an adverb of manner, like carefully, to describe an action?", options:["It gives the reader a clearer picture of how the action is being performed","Adverbs of manner never add any detail to a sentence","Describing how an action happens is never useful in writing","This concept has no connection to grammar"], answer:0},
+     {q:"Why is it useful to know that adverbs can modify adjectives, not just verbs, such as in extremely tall?", options:["This concept has no relevance to grammar","Adjectives are never modified by any other part of speech","It shows adverbs can add detail to many different parts of a sentence, not only actions","Adverbs can only ever modify verbs and nothing else"], answer:2}
+   ]},
+  {subject:"Math", title:"Number Sense: Estimating Products and Quotients", summary:"Grade 5 Math strand: students estimate products and quotients by rounding numbers to a convenient value before multiplying or dividing, helping check whether an exact answer is reasonable.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"To estimate the product of 48 times 22, which rounded numbers might you use?", options:["50 times 20","40 times 30","48 times 22 exactly","50 times 30"], answer:0},
+     {q:"Using the estimate 50 times 20, what is the estimated product?", options:["10000","100","1000","500"], answer:2},
+     {q:"To estimate 396 divided by 4, which rounded number might you use for 396?", options:["500","400","300","390"], answer:1},
+     {q:"Why is estimating useful before solving a multiplication or division problem with exact numbers?", options:["An estimate is always identical to the exact answer","This concept has no connection to number sense","It helps you check whether your final exact answer seems reasonable","Estimating never helps determine whether an answer makes sense"], answer:2},
+     {q:"Why might rounding both numbers in a multiplication problem make estimation quicker, even though it changes the exact values?", options:["Rounding numbers never makes a calculation easier","An estimate must always use the exact original numbers","This concept has no relevance to number sense","Rounded numbers are easier to multiply mentally while still giving a reasonably close answer"], answer:3}
+   ]},
+  {subject:"Science", title:"Matter and Energy: How Materials Absorb or Reflect Sound", summary:"Grade 5 Science strand: soft, porous materials like foam tend to absorb sound waves and reduce echo, while hard, smooth surfaces like glass or tile tend to reflect sound waves, which can create echoes.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What type of material tends to absorb sound waves and reduce echo?", options:["Hard, smooth surfaces like glass","Materials never affect how sound behaves","A concept unrelated to sound","Soft, porous materials like foam"], answer:3},
+     {q:"What type of surface tends to reflect sound waves, sometimes creating an echo?", options:["Soft, porous materials like foam","Hard, smooth surfaces like tile or glass","A concept unrelated to sound","No surfaces ever reflect sound"], answer:1},
+     {q:"Would a room with soft carpets and curtains typically have less echo than a room with bare walls and tile floors?", options:["Yes","No, soft materials never reduce echo","A concept unrelated to sound","Echo is unaffected by the materials in a room"], answer:0},
+     {q:"Why might recording studios use soft, foam panels on their walls?", options:["Foam panels are used only for decoration and never affect sound","The foam absorbs sound waves, reducing unwanted echo during recordings","This concept has no relevance to science","Foam panels have no effect on sound in a room"], answer:1},
+     {q:"Why might a large, empty gymnasium with hard walls and floors sound especially echoey?", options:["The hard, smooth surfaces reflect sound waves repeatedly instead of absorbing them","This concept has no connection to matter and energy","Echo is never affected by the surfaces or size of a room","Hard surfaces always absorb sound completely, preventing any echo"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Canada’s Forestry Industry and Its Economic Importance", summary:"Grade 5 Social Studies strand: Canada’s forestry industry harvests wood from its vast forests to produce products like lumber and paper, providing jobs and economic activity in many regions, especially in British Columbia and Quebec.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does Canada’s forestry industry primarily harvest from its forests?", options:["Fish","A concept unrelated to forestry","Minerals","Wood"], answer:3},
+     {q:"Name one product made from wood harvested by the forestry industry.", options:["Steel","Lumber","A concept unrelated to forestry","Plastic"], answer:1},
+     {q:"Does the forestry industry provide jobs and economic activity in regions like British Columbia and Quebec?", options:["A concept unrelated to forestry","Yes","Forestry has no economic importance in Canada","No, the forestry industry provides no jobs anywhere in Canada"], answer:1},
+     {q:"Why might the forestry industry be especially important to communities located near large forested areas?", options:["Forested regions never provide any economic opportunities","Nearby forests can provide a steady source of jobs and resources for local economies","This concept has no relevance to social studies","The forestry industry never has any connection to nearby communities"], answer:1},
+     {q:"Why is sustainable forest management, such as replanting trees, important for the long-term future of the forestry industry?", options:["This concept has no connection to Canada’s forestry industry","Sustainable management never affects the future of an industry","Forests regrow instantly with no need for replanting or management","It helps ensure forests can continue producing wood resources for future generations"], answer:3}
+   ]},
+]},
+{day:110, label:"Day 110 — Fri", subjects:[
+  {subject:"Language", title:"Review: Oral Communication, Grammar, and Reading (Days 101-109)", summary:"Grade 5 Language strand review: students revisit active listening and speaking, apostrophes, problem-and-solution text structure, compound words, formal letters, comma usage, unreliable narrators, media bias, and types of adverbs.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is one key habit of an active listener during a conversation?", options:["Thinking only about your next turn to speak","Interrupting to share your own story","Giving full attention to the speaker","Looking at a phone while someone talks"], answer:2},
+     {q:"What is the contraction for do not?", options:["Do not’","Don’t","Do’nt","Dont"], answer:1},
+     {q:"What does a problem-and-solution text structure present to the reader?", options:["A problem and one or more ways to solve it","Only a list of unrelated facts","A concept unrelated to text structure","A story with no real conflict"], answer:0},
+     {q:"What do we call a word formed by joining two smaller words together?", options:["A synonym","A concept unrelated to vocabulary","A compound word","An antonym"], answer:2},
+     {q:"What do we call a narrator whose account of events may be biased or inaccurate?", options:["A third-person narrator only","A reliable narrator","An unreliable narrator","A concept unrelated to reading"], answer:2}
+   ]},
+  {subject:"Math", title:"Review: Number Sense, Data, Financial Literacy, and Geometry (Days 101-109)", summary:"Grade 5 Math strand review: students revisit place value to one million, range and outliers, sales tax and discounts, converting metric capacity and mass, pattern rules, 3D object views, double bar graphs, Celsius thermometers, and estimation.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"In the number 452,367, what is the value of the digit 4?", options:["40,000","4","4,000","400,000"], answer:3},
+     {q:"How do you calculate the range of a data set?", options:["Add all the values together","Subtract the least value from the greatest value","A concept unrelated to data management","Multiply the greatest and least values"], answer:1},
+     {q:"If an item costs 20 dollars and the sales tax is 10 percent, how much tax is added?", options:["1 dollar","2 dollars","10 dollars","20 dollars"], answer:1},
+     {q:"How many millilitres are in 1 litre?", options:["1000","10000","10","100"], answer:0},
+     {q:"At what temperature does water freeze on the Celsius scale?", options:["32 degrees Celsius","212 degrees Celsius","100 degrees Celsius","0 degrees Celsius"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Structures, Life Systems, and Matter and Energy (Days 101-109)", summary:"Grade 5 Science strand review: students revisit tension and compression, the screw and the wedge, migration and hibernation, fossil fuel formation, and symbiotic relationships.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What do we call a force that pulls or stretches a material?", options:["Tension","Compression","Friction","A concept unrelated to structures"], answer:0},
+     {q:"What simple machine is made of an inclined plane wrapped around a cylinder?", options:["A screw","A lever","A wedge","A pulley"], answer:0},
+     {q:"What do we call it when an animal travels to a different location to survive seasonal changes?", options:["Metamorphosis","Migration","A concept unrelated to survival strategies","Hibernation"], answer:1},
+     {q:"Approximately how long does it take for fossil fuels to form underground?", options:["One year","A few weeks","Millions of years","A few days"], answer:2},
+     {q:"What do we call a close relationship between two different species in nature?", options:["A food chain","A symbiotic relationship","A concept unrelated to ecosystems","A migration pattern"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Government Structures, Geography, and Economy (Days 101-109)", summary:"Grade 5 Social Studies strand review: students revisit provincial symbols, the Senate, the Canadian Shield, Elections Canada, and Canada’s forestry industry.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Does each Canadian province have its own official flag?", options:["A concept unrelated to Canadian identity","Yes","No, all provinces share one identical flag","Only some provinces are allowed to have flags"], answer:1},
+     {q:"What is the name of the appointed upper house of Canada’s Parliament?", options:["A concept unrelated to Canadian government","The House of Commons","The Senate","The Supreme Court"], answer:2},
+     {q:"What do we call the vast region of ancient rock covering much of central and northern Canada?", options:["The Rocky Mountains","The Canadian Shield","A concept unrelated to Canadian geography","The Great Plains"], answer:1},
+     {q:"What is the name of the independent agency responsible for organizing federal elections in Canada?", options:["The Supreme Court of Canada","A concept unrelated to Canadian government","Elections Canada","The Bank of Canada"], answer:2},
+     {q:"What does Canada’s forestry industry primarily harvest from its forests?", options:["Wood","Minerals","A concept unrelated to forestry","Fish"], answer:0}
    ]},
 ]},
 ];
