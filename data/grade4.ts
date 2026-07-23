@@ -3929,6 +3929,386 @@ const curriculum: DayContent[] = [
      {q:"What is the St. Lawrence Seaway a system of?", options:["Canals and locks","A concept unrelated to geography","Mountains and valleys","Deserts and dunes"], answer:0}
    ]},
 ]},
+{day:101, label:"Day 101 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Types of Nouns — Common, Proper, Collective, and Abstract", summary:"Grade 4 Language strand: nouns can be common (a general name like city), proper (a specific name like Toronto, always capitalized), collective (a name for a group like team or flock), or abstract (a name for an idea or feeling like happiness).",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call a noun that names a specific person, place, or thing and starts with a capital letter?", options:["A concept unrelated to grammar","A common noun","A collective noun","A proper noun"], answer:3},
+     {q:"What do we call a noun that names a group of people or things, such as team or flock?", options:["A proper noun","A concept unrelated to grammar","A collective noun","An abstract noun"], answer:2},
+     {q:"What do we call a noun that names an idea or feeling, such as happiness or courage?", options:["A concept unrelated to grammar","A common noun","A proper noun","An abstract noun"], answer:3},
+     {q:"Why is dog considered a common noun while Rex is a proper noun?", options:["Rex names one specific dog, while dog names any dog in general","Common nouns and proper nouns always mean exactly the same thing","This concept has no connection to grammar","Proper nouns are never capitalized"], answer:0},
+     {q:"Which sentence correctly uses a collective noun?", options:["The herds of cow walked across field cows.","The herd of cows walked across the field.","Herd cow the field walked across.","A concept unrelated to grammar"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Even and Odd Numbers and Their Properties", summary:"Grade 4 Math strand: even numbers can be split into two equal groups and end in 0, 2, 4, 6, or 8, while odd numbers cannot be split evenly and end in 1, 3, 5, 7, or 9.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Which digit endings always make a number even?", options:["1, 3, 5, 7, or 9","0, 2, 4, 6, or 8","A concept unrelated to number sense","Only 0"], answer:1},
+     {q:"Is the number 47 even or odd?", options:["Even","Neither even nor odd","Odd","A concept unrelated to number sense"], answer:2},
+     {q:"When you add two even numbers, such as 4 plus 6, is the sum always even?", options:["The sum is never a whole number","A concept unrelated to number sense","No, the sum is always odd","Yes"], answer:3},
+     {q:"Why is 8 considered an even number?", options:["8 has no relationship to grouping at all","It can be split into two equal groups with none left over","It can never be divided evenly","This concept has no connection to number sense"], answer:1},
+     {q:"Which of these numbers is odd?", options:["60","54","53","72"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Structures: Forces Acting on Structures — Tension and Compression", summary:"Grade 4 Science strand: structures experience tension, a pulling or stretching force, and compression, a pushing or squeezing force, and engineers design structures to withstand both.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call a pulling or stretching force on a structure?", options:["Tension","Friction","A concept unrelated to structures","Compression"], answer:0},
+     {q:"What do we call a pushing or squeezing force on a structure?", options:["Gravity","Tension","A concept unrelated to structures","Compression"], answer:3},
+     {q:"Is a rope holding up a swing under tension as it stretches?", options:["Yes","No, ropes are never under tension","Ropes only experience compression","A concept unrelated to structures"], answer:0},
+     {q:"Why must engineers design bridges to withstand both tension and compression?", options:["Different parts of a bridge experience different forces as weight moves across it","This concept has no connection to structures","Bridges never experience any forces at all","Tension and compression never occur in real structures"], answer:0},
+     {q:"Which example shows compression?", options:["A kite string blowing loosely in the wind","A rope being stretched by a swing","A concept unrelated to structures","A stack of books pressing down on a table"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Indus Valley Civilization", summary:"Grade 4 Social Studies strand: the Indus Valley civilization developed along the Indus River in present-day Pakistan and India, known for well-planned cities such as Mohenjo-daro that had organized streets and drainage systems.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Along which river did the Indus Valley civilization develop?", options:["A concept unrelated to ancient civilizations","The Amazon River","The Indus River","The Nile River"], answer:2},
+     {q:"Name a well-planned city built by the Indus Valley civilization.", options:["Rome","A concept unrelated to the Indus Valley","Mohenjo-daro","Athens"], answer:2},
+     {q:"Was the Indus Valley civilization known for organized city planning, including drainage systems?", options:["No, its cities had no planning at all","Yes","A concept unrelated to the Indus Valley","Its cities had no streets or buildings"], answer:1},
+     {q:"Why do historians consider the Indus Valley’s drainage systems impressive?", options:["This concept has no relevance to social studies","They show advanced engineering skill for such an early civilization","The Indus Valley civilization never built anything at all","Drainage systems have no connection to ancient engineering"], answer:1},
+     {q:"In which present-day countries was the Indus Valley civilization located?", options:["A concept unrelated to the Indus Valley","Canada and the United States","Pakistan and India","Mexico and Peru"], answer:2}
+   ]},
+]},
+{day:102, label:"Day 102 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Drawing Conclusions", summary:"Grade 4 Language strand: drawing conclusions means using clues from the text along with what you already know to figure out something the author does not state directly.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call using text clues and prior knowledge to figure out something an author does not state directly?", options:["A concept unrelated to reading","A summary","A prediction about the weather","Drawing a conclusion"], answer:3},
+     {q:"If a character grabs an umbrella and puts on rain boots before leaving, what conclusion can you draw?", options:["It is a sunny, dry day","A concept unrelated to the story","Nothing at all can be concluded","It is probably raining or about to rain"], answer:3},
+     {q:"Do readers usually need clues from the text to draw an accurate conclusion?", options:["No, conclusions never need any evidence","Yes","A concept unrelated to reading","Conclusions are always stated directly by the author"], answer:1},
+     {q:"Why might drawing conclusions make reading more enjoyable?", options:["Drawing conclusions never adds anything to reading","Conclusions always ruin the ending of a story","It lets readers think more deeply and make connections beyond the words on the page","This concept has no connection to reading"], answer:2},
+     {q:"If a character’s hands are shaking and their face is pale before a test, what conclusion can you draw?", options:["They are probably very relaxed","They feel nothing at all","They are probably nervous or scared","A concept unrelated to the story"], answer:2}
+   ]},
+  {subject:"Math", title:"Number Sense: Negative Numbers in Everyday Contexts", summary:"Grade 4 Math strand: negative numbers are numbers less than zero, often used to describe situations such as temperatures below freezing or an elevation below sea level.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What do we call a number less than zero?", options:["A concept unrelated to number sense","A fraction","A positive number","A negative number"], answer:3},
+     {q:"Which temperature is colder: -5 degrees or 2 degrees?", options:["-5 degrees","They are equally cold","Cannot be compared","2 degrees"], answer:0},
+     {q:"On a number line, negative numbers are found in which direction from zero?", options:["Straight up","To the right","A concept unrelated to number sense","To the left"], answer:3},
+     {q:"Why is it useful to represent temperatures below freezing with negative numbers?", options:["Negative numbers never represent real values","Temperatures can never actually go below zero","This concept has no connection to number sense","It gives an accurate way to show values that are less than zero"], answer:3},
+     {q:"Which of these numbers is the coldest?", options:["-2","5","0","-10"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Earth and Space: Layers of the Earth", summary:"Grade 4 Science strand: Earth is made of layers, including the crust we live on, the mantle beneath it, and the core at the very centre, which has an outer and an inner part.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is the name of Earth’s outermost layer, where we live?", options:["A concept unrelated to Earth’s layers","The crust","The mantle","The core"], answer:1},
+     {q:"Which layer lies directly beneath the crust?", options:["The crust","The atmosphere","The mantle","A concept unrelated to Earth’s layers"], answer:2},
+     {q:"What is the name of the layer at the very centre of the Earth?", options:["The core","The mantle","A concept unrelated to Earth’s layers","The crust"], answer:0},
+     {q:"Why is the crust often compared to the thin skin of an apple?", options:["This concept has no connection to Earth’s layers","The crust and the core are exactly the same thickness","It is a very thin layer compared to the much thicker layers beneath it","The crust is actually the thickest layer of the Earth"], answer:2},
+     {q:"Does Earth’s core have both an outer and an inner part?", options:["No, the core has only one part","Yes","A concept unrelated to Earth’s layers","The core has no connection to Earth’s structure"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Ancient Kingdoms of West Africa — Ghana, Mali, and Songhai", summary:"Grade 4 Social Studies strand: the West African kingdoms of Ghana, Mali, and Songhai grew wealthy and powerful through trade in gold and salt across the Sahara Desert.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Name one ancient kingdom of West Africa.", options:["A concept unrelated to West Africa","Mali","Rome","Athens"], answer:1},
+     {q:"What resources helped these West African kingdoms grow wealthy?", options:["Gold and salt","Oil and coal","Rice and tea","A concept unrelated to trade"], answer:0},
+     {q:"Across which desert did much of this trade take place?", options:["The Sahara Desert","The Gobi Desert","A concept unrelated to West Africa","The Arctic tundra"], answer:0},
+     {q:"Why might control of trade routes have helped these kingdoms grow powerful?", options:["Trade routes never affected how powerful a kingdom became","It let them profit from and manage the flow of valuable goods like gold and salt","These kingdoms had no connection to trade at all","This concept has no connection to West African history"], answer:1},
+     {q:"Were Ghana, Mali, and Songhai all located in the same general region of Africa?", options:["They were located only in modern-day Canada","No, they were located on different continents","A concept unrelated to West Africa","Yes"], answer:3}
+   ]},
+]},
+{day:103, label:"Day 103 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Relative Pronouns — Who, Which, and That", summary:"Grade 4 Language strand: relative pronouns such as who, which, and that connect a describing clause to a noun, with who used for people and which or that often used for things.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which relative pronoun is typically used to describe people?", options:["Which","Who","A concept unrelated to grammar","It"], answer:1},
+     {q:"Which sentence correctly uses a relative pronoun?", options:["Borrowed I book that excellent was.","The book that I borrowed was excellent.","The book who I borrowed was excellent.","A concept unrelated to grammar"], answer:1},
+     {q:"Which relative pronoun would best complete: The scientist ___ discovered the cure was famous.", options:["which","it","who","A concept unrelated to grammar"], answer:2},
+     {q:"Why do writers use relative pronouns like who and which?", options:["This concept has no connection to grammar","Relative pronouns never add any information to a sentence","Relative pronouns always begin a brand new sentence","They connect extra descriptive information to a noun in the same sentence"], answer:3},
+     {q:"Which relative pronoun usually describes a thing rather than a person?", options:["Which","Whom is only used for animals","Who","A concept unrelated to grammar"], answer:0}
+   ]},
+  {subject:"Math", title:"Algebra: Solving Equations with an Unknown Value", summary:"Grade 4 Math strand: students learn to find the value of an unknown, often shown as a letter or symbol, in a simple equation, such as solving n plus 5 equals 12 for n.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is the value of n in n plus 5 equals 12?", options:["7","17","5","12"], answer:0},
+     {q:"What is the value of x in x minus 3 equals 9?", options:["6","3","12","9"], answer:2},
+     {q:"What is the value of y in y times 4 equals 20?", options:["24","5","80","16"], answer:1},
+     {q:"Why is it helpful to check your answer by substituting it back into the equation?", options:["It confirms whether the value makes the equation true","Substituting a value always makes an equation false","This concept has no connection to algebra","Checking an answer never actually proves anything"], answer:0},
+     {q:"What is the value of a in 6 plus a equals 14?", options:["8","14","20","6"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Light: Opaque, Translucent, and Transparent Materials", summary:"Grade 4 Science strand: materials can be transparent, letting light pass through clearly like glass; translucent, letting some light through like wax paper; or opaque, blocking light completely like wood.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call a material that lets light pass through clearly, like glass?", options:["A concept unrelated to light","Transparent","Translucent","Opaque"], answer:1},
+     {q:"What do we call a material that blocks light completely?", options:["Opaque","A concept unrelated to light","Transparent","Translucent"], answer:0},
+     {q:"What do we call a material that lets some light through but blurs what is on the other side, like wax paper?", options:["Transparent","Opaque","Translucent","A concept unrelated to light"], answer:2},
+     {q:"Why are windows usually made from a transparent material?", options:["This concept has no connection to light","Transparent materials always block all light","Windows are never made from transparent materials","It allows light and a clear view to pass through easily"], answer:3},
+     {q:"Which of these is a good example of an opaque material?", options:["Wax paper","A concept unrelated to light","Clear glass","Wood"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: United Empire Loyalists", summary:"Grade 4 Social Studies strand: United Empire Loyalists were colonists who remained loyal to Britain during the American Revolution and moved north to settle in what is now Canada.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Who were the United Empire Loyalists?", options:["Colonists who remained loyal to Britain and moved to Canada","Explorers from Spain","A concept unrelated to Canadian history","Colonists who fought against Britain"], answer:0},
+     {q:"During which conflict did many Loyalists move north to Canada?", options:["A concept unrelated to Loyalists","The War of the Roses","World War One","The American Revolution"], answer:3},
+     {q:"Did the arrival of Loyalists help shape early settlement in what is now Canada?", options:["A concept unrelated to Loyalists","Yes","No, Loyalists had no effect on early Canada","Loyalists never actually settled anywhere"], answer:1},
+     {q:"Why is the resettlement of Loyalists in areas like present-day Ontario significant?", options:["This concept has no connection to Canadian history","Population growth has no connection to settlement","Loyalists never settled in what is now Ontario","It contributed to population growth and the development of new communities"], answer:3},
+     {q:"Where did most Loyalists live before moving north?", options:["Western Europe","The thirteen American colonies","A concept unrelated to Loyalists","South America"], answer:1}
+   ]},
+]},
+{day:104, label:"Day 104 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Understanding Irony", summary:"Grade 4 Language strand: irony occurs when what actually happens is different from what a reader or character expects, often creating humour or surprise.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call it when what happens is different from what is expected?", options:["Irony","A concept unrelated to reading","A summary","A metaphor"], answer:0},
+     {q:"If a fire station burns down, what makes this situation ironic?", options:["A place meant to fight fires was destroyed by one","The fire station is very old","Fire stations always catch fire eventually","A concept unrelated to the story"], answer:0},
+     {q:"Can irony create humour or surprise for a reader?", options:["No, irony never creates any reaction","Irony always makes a story boring","Yes","A concept unrelated to irony"], answer:2},
+     {q:"Why might an author use irony in a story?", options:["It can add surprise or humour by showing an unexpected outcome","Irony never affects how a reader feels","Authors should never include unexpected outcomes","This concept has no connection to storytelling"], answer:0},
+     {q:"Which situation is an example of irony?", options:["A concept unrelated to the story","A baker bakes bread every day.","A traffic officer gets a parking ticket.","A student studies hard and passes a test."], answer:2}
+   ]},
+  {subject:"Math", title:"Measurement: Area of Rectangles Using a Formula", summary:"Grade 4 Math strand: students learn to find the area of a rectangle by multiplying its length by its width, with the result measured in square units.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What formula finds the area of a rectangle?", options:["Length plus width","A concept unrelated to measurement","Length times width","Length minus width"], answer:2},
+     {q:"What is the area of a rectangle with a length of 6 cm and a width of 4 cm?", options:["10 square cm","20 square cm","24 square cm","28 square cm"], answer:2},
+     {q:"What is the area of a rectangle with a length of 9 cm and a width of 3 cm?", options:["27 square cm","24 square cm","30 square cm","12 square cm"], answer:0},
+     {q:"Why is area measured in square units, such as square centimetres?", options:["Area is always measured using only whole numbers with no units","This concept has no connection to measurement","It describes how much flat, two-dimensional surface a shape covers","Square units never actually describe any surface"], answer:2},
+     {q:"What is the area of a square with sides of 5 cm?", options:["25 square cm","15 square cm","20 square cm","10 square cm"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Simple Machines: Fixed and Movable Pulleys", summary:"Grade 4 Science strand: a fixed pulley is attached in one place and changes the direction of a force, while a movable pulley moves with the load and helps reduce the force needed to lift it.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What type of pulley stays attached in one place and changes the direction of a force?", options:["A movable pulley","A fixed pulley","A concept unrelated to simple machines","A lever"], answer:1},
+     {q:"What type of pulley moves with the load and helps reduce the force needed to lift it?", options:["A movable pulley","A concept unrelated to simple machines","A wedge","A fixed pulley"], answer:0},
+     {q:"Does a flag pole typically use a fixed pulley to raise the flag?", options:["A concept unrelated to pulleys","No, flag poles never use pulleys","Yes","Flag poles only use movable pulleys"], answer:2},
+     {q:"Why might a movable pulley make it easier to lift a heavy load?", options:["Movable pulleys never actually help lift anything","This concept has no connection to simple machines","A movable pulley always makes an object heavier","It can reduce the amount of force needed compared to lifting the load directly"], answer:3},
+     {q:"Which of these is an example of a fixed pulley in use?", options:["The rope and pulley on a flag pole","A wedge splitting wood","A concept unrelated to pulleys","A wheelbarrow being pushed"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The War of 1812", summary:"Grade 4 Social Studies strand: the War of 1812 was fought between the United States and Britain, with many battles taking place in Canada, helping shape a shared sense of identity among settlers, Indigenous allies, and British soldiers.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Which two sides fought in the War of 1812, with Canada as a major battleground?", options:["The United States and Britain","Canada and Mexico","France and Spain","A concept unrelated to the War of 1812"], answer:0},
+     {q:"Where did many battles of the War of 1812 take place?", options:["In what is now Canada","In Australia","A concept unrelated to the War of 1812","In South America"], answer:0},
+     {q:"Did Indigenous allies play an important role in the War of 1812?", options:["A concept unrelated to the War of 1812","The war involved no allies of any kind","No, Indigenous peoples had no role in the war","Yes"], answer:3},
+     {q:"Why is the War of 1812 seen as important to the growth of a shared identity among people in Canada?", options:["No one living in Canada was affected by the war","Settlers, Indigenous allies, and British soldiers worked together to defend the same territory","This concept has no relevance to social studies","The war had no connection to identity in Canada"], answer:1},
+     {q:"In approximately what time period did the War of 1812 take place?", options:["The late 1700s","The early 1900s","A concept unrelated to the War of 1812","The early 1800s"], answer:3}
+   ]},
+]},
+{day:105, label:"Day 105 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Writing a Research Report", summary:"Grade 4 Language strand: writing a research report involves choosing a topic, gathering facts from reliable sources, organizing information under headings, and citing where the information came from.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is usually the first step in writing a research report?", options:["Writing the conclusion first","Skipping straight to citing sources","A concept unrelated to writing","Choosing a topic"], answer:3},
+     {q:"Why should a research report use reliable sources of information?", options:["To make sure the information shared is accurate and trustworthy","Reliable sources never actually matter in research","Any source, reliable or not, works equally well","This concept has no connection to writing"], answer:0},
+     {q:"What can help organize the information in a research report?", options:["Random order with no structure","Rhyming lines","Headings","A concept unrelated to writing"], answer:2},
+     {q:"Why is it important to cite where information came from in a research report?", options:["Citing sources never matters in a research report","This concept has no connection to writing","Citations always confuse a reader","It gives credit to the original source and shows the information is trustworthy"], answer:3},
+     {q:"Which of these would most likely appear in a research report about volcanoes?", options:["Facts about how volcanoes form and erupt","A made-up story about a dragon","A grocery list","A poem about the ocean"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Rotational Symmetry", summary:"Grade 4 Math strand: a shape has rotational symmetry if it looks the same after being turned less than a full circle around its centre point, such as a square looking the same after a quarter turn.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What do we call a shape that looks the same after being turned less than a full circle around its centre?", options:["A shape with no symmetry at all","A concept unrelated to geometry","An irregular polygon","A shape with rotational symmetry"], answer:3},
+     {q:"Does a square have rotational symmetry?", options:["Yes","A concept unrelated to geometry","Only circles can have symmetry","No, squares never have any symmetry"], answer:0},
+     {q:"How many times does a square look the same during one full turn?", options:["8 times","2 times","1 time","4 times"], answer:3},
+     {q:"Why might a pinwheel design be a good example of rotational symmetry?", options:["Pinwheels never actually spin or turn","This concept has no relevance to geometry","Its repeating pattern looks the same after each partial turn around the centre","A pinwheel has no connection to rotational symmetry"], answer:2},
+     {q:"Which shape most likely has rotational symmetry?", options:["A concept unrelated to geometry","A random, irregular blob shape","A regular hexagon","A scalene triangle with three different side lengths"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Rocks and Minerals: Testing Properties — Hardness, Lustre, and Streak", summary:"Grade 4 Science strand: scientists identify minerals by testing physical properties such as hardness (resistance to scratching), lustre (how the surface reflects light), and streak (the colour left behind when scratched on a tile).",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What test measures a mineral’s resistance to scratching?", options:["A streak test","A taste test","A concept unrelated to minerals","A hardness test"], answer:3},
+     {q:"What test describes how a mineral’s surface reflects light?", options:["A smell test","A hardness test","A concept unrelated to minerals","A lustre test"], answer:3},
+     {q:"What test looks at the colour a mineral leaves behind when scratched on a tile?", options:["A hardness test","A concept unrelated to minerals","A taste test","A streak test"], answer:3},
+     {q:"Why can a harder mineral scratch a softer one during a hardness test?", options:["Hardness never affects whether one mineral can scratch another","Its particles resist being worn away more than the softer mineral’s do","This concept has no connection to minerals","Softer minerals always scratch harder ones instead"], answer:1},
+     {q:"Which word describes a mineral with a shiny, metal-like lustre?", options:["Metallic","A concept unrelated to minerals","Dull","Transparent"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Underground Railroad and Canada", summary:"Grade 4 Social Studies strand: the Underground Railroad was a secret network of routes and safe houses that helped enslaved people from the United States escape to freedom, with many settling in Canada.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What was the Underground Railroad?", options:["An actual underground train system","A secret network of routes and safe houses","A concept unrelated to Canadian history","A government building in Ottawa"], answer:1},
+     {q:"Who used the Underground Railroad to seek freedom?", options:["Tourists visiting Canada","Enslaved people escaping to freedom","A concept unrelated to the Underground Railroad","Soldiers travelling to battle"], answer:1},
+     {q:"Did many freedom seekers who used the Underground Railroad settle in Canada?", options:["Yes","They only settled in Mexico","No, no one who used it ever reached Canada","A concept unrelated to the Underground Railroad"], answer:0},
+     {q:"Why was Canada seen as a safe destination for freedom seekers?", options:["Canada was the only place slavery still existed","Slavery had been abolished there, offering safety and freedom","This concept has no relevance to social studies","Canada had no connection to the Underground Railroad"], answer:1},
+     {q:"Was the Underground Railroad an actual railroad with tracks and trains?", options:["Yes, it had real trains running underground","A concept unrelated to the Underground Railroad","No, it was a network of secret routes, not literal train tracks","It was a railroad built entirely in Canada"], answer:2}
+   ]},
+]},
+{day:106, label:"Day 106 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Number Prefixes — Uni-, Bi-, Tri-, and Quad-", summary:"Grade 4 Language strand: number prefixes such as uni-, bi-, tri-, and quad- attach to the beginning of words to show how many, as in unicycle, bicycle, triangle, and quadrilateral.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which prefix means one, as in unicycle?", options:["Bi-","Tri-","Quad-","Uni-"], answer:3},
+     {q:"Which prefix means two, as in bicycle?", options:["Tri-","Uni-","Quad-","Bi-"], answer:3},
+     {q:"Which prefix means three, as in triangle?", options:["Tri-","Bi-","Uni-","Quad-"], answer:0},
+     {q:"Why does the word quadrilateral describe a shape with four sides?", options:["The prefix quad- means one hundred","The prefix quad- means four, matching the number of sides","Quadrilateral has no connection to number prefixes","This concept has no connection to vocabulary"], answer:1},
+     {q:"Which word uses a prefix meaning two?", options:["Bicycle","Unicycle","Triangle","Quadrilateral"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Collecting Data Through Surveys", summary:"Grade 4 Math strand: students learn to design a simple survey question, collect responses from classmates, and organize the results into a table or graph.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is a survey used to do?", options:["A concept unrelated to data management","Predict the weather","Collect information or opinions from a group of people","Measure the length of an object"], answer:2},
+     {q:"Why should a good survey question be clear and easy to understand?", options:["It helps people answer accurately, which leads to more useful results","This concept has no connection to data management","Confusing questions always produce the most useful data","Clear questions never affect the quality of survey results"], answer:0},
+     {q:"What should you do with survey responses after collecting them?", options:["Organize them into a table or graph","Ignore them completely","A concept unrelated to data management","Throw them away immediately"], answer:0},
+     {q:"Why is organizing survey data into a graph helpful?", options:["Graphs always hide the true results of a survey","This concept has no connection to surveys","Organizing data never makes results easier to understand","It makes it easier to see patterns and compare results at a glance"], answer:3},
+     {q:"Which of these is an example of a good survey question?", options:["A concept unrelated to surveys","A random string of unrelated numbers","What is your favourite fruit?","A statement with no question at all"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Ocean and Coastal Ecosystems", summary:"Grade 4 Science strand: ocean and coastal ecosystems include tide pools, coral reefs, and open water habitats that support a wide variety of plants and animals adapted to salty water.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call a shoreline habitat that fills and empties with the rise and fall of tides?", options:["A concept unrelated to ecosystems","A desert","A tundra","A tide pool"], answer:3},
+     {q:"What colourful underwater ecosystem is built by tiny ocean animals?", options:["A concept unrelated to ecosystems","A prairie","A coral reef","A rainforest canopy"], answer:2},
+     {q:"Are ocean organisms usually adapted to survive in salty water?", options:["Only freshwater organisms live in oceans","A concept unrelated to ecosystems","No, ocean organisms cannot survive in salt water","Yes"], answer:3},
+     {q:"Why might a tide pool be considered a challenging habitat for the organisms living there?", options:["Tide pool conditions never change at all","Tide pools are always exactly the same as the open ocean","Conditions like water level and temperature change constantly as tides rise and fall","This concept has no relevance to science"], answer:2},
+     {q:"Which of these is an example of an ocean or coastal ecosystem?", options:["A desert dune","A mountain forest","A concept unrelated to ecosystems","A coral reef"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Justice System and Courts", summary:"Grade 4 Social Studies strand: Canada’s justice system includes courts that interpret and apply laws, with judges making rulings and everyone having the right to a fair trial.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is the main role of courts in Canada’s justice system?", options:["To interpret and apply the law","To build roads and bridges","To collect garbage in a community","A concept unrelated to government"], answer:0},
+     {q:"Who typically makes rulings in a courtroom?", options:["A mayor","A store manager","A concept unrelated to the justice system","A judge"], answer:3},
+     {q:"Does everyone in Canada have the right to a fair trial?", options:["No, only some people have this right","Fair trials are never guaranteed to anyone","Yes","A concept unrelated to the justice system"], answer:2},
+     {q:"Why are fair trials an important part of Canada’s justice system?", options:["They help protect people’s basic rights and ensure justice is applied fairly","Trials in Canada are never actually fair","Fair trials have no connection to protecting anyone’s rights","This concept has no relevance to social studies"], answer:0},
+     {q:"Which of these is part of Canada’s justice system?", options:["A grocery store","A concept unrelated to government","A movie theatre","A courtroom"], answer:3}
+   ]},
+]},
+{day:107, label:"Day 107 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Direct and Indirect Speech", summary:"Grade 4 Language strand: direct speech repeats a person’s exact words, while indirect (reported) speech tells what someone said without quoting their exact words.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call speech that repeats a person’s exact words?", options:["A concept unrelated to grammar","Indirect speech","Direct speech","A run-on sentence"], answer:2},
+     {q:"What do we call speech that reports what someone said without quoting their exact words?", options:["A concept unrelated to grammar","Indirect speech","Direct speech","A sentence fragment"], answer:1},
+     {q:"Which sentence is written in direct speech, repeating the speaker’s exact words?", options:["Hungry, said Maria, was I.","Maria said, I am hungry.","Maria said she was hungry.","A concept unrelated to grammar"], answer:1},
+     {q:"Why do quotation marks matter when writing direct speech?", options:["Quotation marks never affect how a sentence is understood","They show exactly which words were spoken by the person","Quotation marks are only used for titles of books","This concept has no connection to grammar"], answer:1},
+     {q:"Which sentence correctly rewrites I will go, said Tom, as indirect speech?", options:["Tom said he would go.","Go will I said Tom.","A concept unrelated to grammar","Tom said, I will go."], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Ways to Pay for Goods and Services", summary:"Grade 4 Math strand: people can pay for goods and services using cash, debit cards, or credit cards, and each method has its own advantages and things to keep track of.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Name one way people can pay for goods besides cash.", options:["A concept unrelated to money","Only barter is possible","Nothing else exists","A debit card"], answer:3},
+     {q:"What is cash?", options:["A digital password","A type of bank account only","Physical money, such as coins and bills","A concept unrelated to money"], answer:2},
+     {q:"Why should people keep track of their spending when using a debit or credit card?", options:["Cards always show your exact balance with no effort","Keeping track of spending never matters with cards","This concept has no connection to financial literacy","To avoid spending more money than they have"], answer:3},
+     {q:"Why might a business accept multiple ways to pay, such as cash and debit?", options:["Accepting multiple payment methods is never useful","This concept has no relevance to financial literacy","Businesses never accept more than one payment method","It makes shopping more convenient for different customers"], answer:3},
+     {q:"Which of these is an example of paying with cash?", options:["Tapping a card on a machine","Entering a password online","Handing the cashier coins and bills","A concept unrelated to money"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Sound: Pitch and Volume", summary:"Grade 4 Science strand: pitch describes how high or low a sound is and depends on how fast an object vibrates, while volume describes how loud or soft a sound is and depends on the size of the vibration.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call the description of how high or low a sound is?", options:["Volume","Pitch","Echo","A concept unrelated to sound"], answer:1},
+     {q:"What do we call the description of how loud or soft a sound is?", options:["Volume","Frequency alone","Pitch","A concept unrelated to sound"], answer:0},
+     {q:"Does a faster vibration usually produce a higher or lower pitch?", options:["A lower pitch","A concept unrelated to sound","A higher pitch","Vibration speed never affects pitch"], answer:2},
+     {q:"Why does plucking a guitar string harder mainly change its volume rather than its pitch?", options:["Plucking harder always changes the pitch instead of the volume","This concept has no connection to sound","Volume and pitch are always exactly the same thing","A harder pluck creates a bigger vibration, which makes the sound louder"], answer:3},
+     {q:"Which is more likely to have a higher pitch: a small bell or a big drum?", options:["They always sound exactly the same","A small bell","A big drum","A concept unrelated to sound"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Metis Nation and the Red River Resistance", summary:"Grade 4 Social Studies strand: the Metis are a distinct Indigenous people with mixed First Nations and European ancestry, and the Red River Resistance, led by Louis Riel, was a stand to protect Metis land and rights in present-day Manitoba.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Who are the Metis?", options:["A group with no connection to Canada","A concept unrelated to Canadian history","A distinct Indigenous people with mixed First Nations and European ancestry","A group of European settlers only"], answer:2},
+     {q:"Who led the Red River Resistance?", options:["Louis Riel","Queen Victoria","A concept unrelated to the Red River Resistance","John A. Macdonald"], answer:0},
+     {q:"What were the Metis trying to protect during the Red River Resistance?", options:["A foreign country’s border","A sports championship","A concept unrelated to the Red River Resistance","Their land and rights"], answer:3},
+     {q:"Why is the Red River Resistance considered an important event in Canadian history?", options:["This concept has no relevance to social studies","It involved Indigenous peoples standing up for their rights and way of life","It was an event that took place outside of Canada","It had no connection to Indigenous rights in Canada"], answer:1},
+     {q:"In which present-day province did the Red River Resistance mostly take place?", options:["A concept unrelated to the Red River Resistance","British Columbia","Manitoba","Nova Scotia"], answer:2}
+   ]},
+]},
+{day:108, label:"Day 108 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Identifying Text Structure — Sequence, Cause-Effect, and Problem-Solution", summary:"Grade 4 Language strand: nonfiction authors organize ideas using text structures such as sequence (order of events), cause-and-effect (why something happens), and problem-solution (a challenge and how it is solved).",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What text structure organizes events in the order they happened?", options:["Sequence","Problem-solution","Cause-and-effect","A concept unrelated to reading"], answer:0},
+     {q:"What text structure explains why something happens and what results from it?", options:["Cause-and-effect","Sequence","A concept unrelated to reading","Problem-solution"], answer:0},
+     {q:"What text structure describes a challenge and how it was solved?", options:["A concept unrelated to reading","Cause-and-effect","Problem-solution","Sequence"], answer:2},
+     {q:"Why might recognizing text structure help a reader understand a nonfiction article?", options:["Text structure never affects how clear an article is","All nonfiction articles are organized in exactly the same way","It shows how the ideas in the article are organized and connected","This concept has no connection to reading"], answer:2},
+     {q:"Which text structure would a recipe most likely use?", options:["Cause-and-effect","Sequence","Problem-solution","A concept unrelated to reading"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Skip Counting by 25s, 50s, and 100s", summary:"Grade 4 Math strand: skip counting by 25s, 50s, and 100s helps students count large groups of objects or amounts of money quickly, recognizing patterns such as 25, 50, 75, 100.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Skip count by 25s: 25, 50, 75, ___", options:["125","85","100","90"], answer:2},
+     {q:"Skip count by 50s: 50, 100, 150, ___", options:["175","200","225","160"], answer:1},
+     {q:"Skip count by 100s: 300, 400, 500, ___", options:["600","550","650","510"], answer:0},
+     {q:"Why is skip counting by 25s especially helpful when counting quarters?", options:["This concept has no connection to number sense","Skip counting by 25 never relates to money in any way","Each quarter is worth 25 cents, so skip counting by 25 matches their value","Quarters are always worth exactly 100 cents each"], answer:2},
+     {q:"Which sequence correctly skip counts by 50s?", options:["100, 200, 400, 800","100, 110, 120, 130","100, 150, 200, 250","100, 125, 150, 175"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Light: Natural and Artificial Light Sources", summary:"Grade 4 Science strand: natural light sources, such as the Sun and fire, produce light without human-made technology, while artificial light sources, such as light bulbs and flashlights, are created by people.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Name a natural source of light.", options:["A light bulb","The Sun","A concept unrelated to light","A flashlight"], answer:1},
+     {q:"Name an artificial source of light.", options:["A campfire made by lightning","A light bulb","A concept unrelated to light","The Sun"], answer:1},
+     {q:"Is the Sun a natural or artificial light source?", options:["Neither natural nor artificial","Natural","A concept unrelated to light","Artificial"], answer:1},
+     {q:"Why did humans create artificial light sources such as light bulbs?", options:["Humans never actually created any light sources","Artificial light sources have no real purpose","This concept has no connection to light","To see and work in places or times without natural light"], answer:3},
+     {q:"Which of these is an example of artificial light?", options:["A flashlight","A bolt of lightning","The Sun","A concept unrelated to light"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The History of the Canadian Flag", summary:"Grade 4 Social Studies strand: Canada adopted its current red and white maple leaf flag in 1965, replacing earlier flags and becoming a distinct national symbol chosen after public debate.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"In what year was Canada’s current maple leaf flag officially adopted?", options:["2000","1867","1812","1965"], answer:3},
+     {q:"What symbol appears on the Canadian flag?", options:["A concept unrelated to Canadian symbols","A maple leaf","An eagle","A lion"], answer:1},
+     {q:"What two colours appear on the Canadian flag?", options:["Blue and gold","Green and yellow","A concept unrelated to Canadian symbols","Red and white"], answer:3},
+     {q:"Why might having a distinct national flag help strengthen a country’s identity?", options:["This concept has no relevance to social studies","It gives citizens a shared symbol to recognize and take pride in","A flag never has any connection to national identity","Flags are never associated with any country"], answer:1},
+     {q:"Did choosing Canada’s current flag involve public debate before it was adopted?", options:["The flag has never actually changed since Confederation","Yes","A concept unrelated to Canadian history","No, the flag was chosen with no discussion at all"], answer:1}
+   ]},
+]},
+{day:109, label:"Day 109 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Diary Entry from a Historical Perspective", summary:"Grade 4 Language strand: writing a diary entry from a historical perspective means imagining you are a person from the past and describing daily events, thoughts, and feelings in the first person, based on accurate historical details.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Whose point of view does a historical diary entry usually use?", options:["No point of view at all","Third person, describing someone else entirely","A concept unrelated to writing","First person, as if you are the historical person"], answer:3},
+     {q:"Why might a writer research real historical details before writing a diary entry from the past?", options:["Diary entries should always ignore real facts","Historical accuracy never matters in this kind of writing","It helps make the entry accurate and believable","This concept has no connection to writing"], answer:2},
+     {q:"Does a historical diary entry usually use the word I to describe thoughts and feelings?", options:["Diary entries only describe other people’s feelings","A concept unrelated to writing","Yes","No, diary entries never use the word I"], answer:2},
+     {q:"Why is it important to include accurate historical details in this kind of diary entry?", options:["It helps readers understand what daily life was really like in that time period","Historical details never help a reader understand the past","Made-up details are always more accurate than real ones","This concept has no connection to writing"], answer:0},
+     {q:"Which of these would most likely appear in a diary entry written from the perspective of a Loyalist settler?", options:["A concept unrelated to the topic","A summary of a video game","A description of the long journey north and building a new home","A description of riding in a car to school"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Classifying Prisms and Pyramids", summary:"Grade 4 Math strand: prisms have two matching parallel bases connected by rectangular faces, while pyramids have one base and triangular faces that meet at a single point called the apex.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What shape do the side faces of a pyramid meet at?", options:["A single point, called the apex","A concept unrelated to geometry","Two separate points","They never meet at all"], answer:0},
+     {q:"How many matching parallel bases does a prism have?", options:["Three","One","Two","Four"], answer:2},
+     {q:"What shape are the side faces of most prisms?", options:["Triangles only","Rectangles","A concept unrelated to geometry","Circles"], answer:1},
+     {q:"How can you tell a triangular prism apart from a triangular pyramid?", options:["A pyramid always has two identical bases like a prism","This concept has no connection to geometry","A prism has two triangular bases connected by rectangles, while a pyramid has one base and triangular sides meeting at a point","Prisms and pyramids are always exactly the same shape"], answer:2},
+     {q:"Which of these is an example of a pyramid?", options:["A shape with two rectangular bases and four rectangular sides","A perfect sphere","A concept unrelated to geometry","A shape with a square base and four triangular faces meeting at a point"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Soil: Types of Soil — Sand, Silt, Clay, and Loam", summary:"Grade 4 Science strand: soil types include sandy soil with large particles that drain quickly, clay soil with tiny particles that hold water, silt with medium-sized particles, and loam, a balanced mixture good for growing plants.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Which soil type has the largest particles and drains water quickly?", options:["Clay soil","Loam","A concept unrelated to soil","Sandy soil"], answer:3},
+     {q:"Which soil type holds water well because of its tiny particles?", options:["Sandy soil","Clay soil","A concept unrelated to soil","Silt"], answer:1},
+     {q:"Which soil type is a balanced mixture often considered best for growing plants?", options:["Loam","Sandy soil","A concept unrelated to soil","Pure clay"], answer:0},
+     {q:"Why might farmers often prefer loam soil for growing crops?", options:["Loam is the only soil type that exists","It balances good drainage with the ability to hold enough water and nutrients","This concept has no connection to soil","Loam soil never actually helps plants grow"], answer:1},
+     {q:"Which soil type has particles that are between the size of sand and clay particles?", options:["Silt","A concept unrelated to soil","Sandy soil","Loam"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Contributions to Space Exploration", summary:"Grade 4 Social Studies strand: Canada has contributed to space exploration through the Canadarm robotic arm and Canadian astronauts who have travelled to space, including on the International Space Station.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is the name of the famous robotic arm Canada contributed to space missions?", options:["Spacebot","Starlink","A concept unrelated to space exploration","Canadarm"], answer:3},
+     {q:"Name a place Canadian astronauts have travelled to in space.", options:["A concept unrelated to space exploration","The International Space Station","The surface of Mars","The Moon’s surface"], answer:1},
+     {q:"Has Canada made significant contributions to space technology?", options:["A concept unrelated to space exploration","Yes","Canada has no space program at all","No, Canada has never contributed to space technology"], answer:1},
+     {q:"Why is the Canadarm considered an important Canadian contribution to space exploration?", options:["The Canadarm was never actually used in space","It helped with tasks like satellite repair, showing Canada’s role in space engineering","This concept has no relevance to social studies","The Canadarm has no connection to space missions"], answer:1},
+     {q:"What do we call a Canadian who travels to space as part of a mission?", options:["A concept unrelated to space exploration","A pilot only","A tourist","An astronaut"], answer:3}
+   ]},
+]},
+{day:110, label:"Day 110 — Fri", subjects:[
+  {subject:"Language", title:"Review: Vocabulary, Grammar, and Reading Skills (Days 101-109)", summary:"Grade 4 Language strand review: students revisit types of nouns, drawing conclusions, relative pronouns, irony, writing a research report, number prefixes, direct and indirect speech, identifying text structure, and writing a diary entry from a historical perspective.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What do we call a noun that names a specific person, place, or thing and starts with a capital letter?", options:["A concept unrelated to grammar","A collective noun","A proper noun","A common noun"], answer:2},
+     {q:"What do we call using text clues and prior knowledge to figure out something an author does not state directly?", options:["A prediction about the weather","Drawing a conclusion","A summary","A concept unrelated to reading"], answer:1},
+     {q:"What do we call it when what happens is different from what is expected?", options:["Irony","A concept unrelated to reading","A metaphor","A summary"], answer:0},
+     {q:"What do we call speech that repeats a person’s exact words?", options:["Indirect speech","A run-on sentence","Direct speech","A concept unrelated to grammar"], answer:2},
+     {q:"What text structure organizes events in the order they happened?", options:["Problem-solution","Cause-and-effect","Sequence","A concept unrelated to reading"], answer:2}
+   ]},
+  {subject:"Math", title:"Review: Number Sense, Algebra, and Measurement (Days 101-109)", summary:"Grade 4 Math strand review: students revisit even and odd numbers, negative numbers, solving equations with an unknown, area of rectangles using a formula, rotational symmetry, collecting data through surveys, ways to pay for goods and services, skip counting by 25s/50s/100s, and classifying prisms and pyramids.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Is the number 47 even or odd?", options:["A concept unrelated to number sense","Neither even nor odd","Even","Odd"], answer:3},
+     {q:"What is the value of n in n plus 5 equals 12?", options:["17","7","12","5"], answer:1},
+     {q:"What formula finds the area of a rectangle?", options:["Length minus width","Length times width","Length plus width","A concept unrelated to measurement"], answer:1},
+     {q:"What do we call a shape that looks the same after being turned less than a full circle around its centre?", options:["A shape with rotational symmetry","An irregular polygon","A concept unrelated to geometry","A shape with no symmetry at all"], answer:0},
+     {q:"How many matching parallel bases does a prism have?", options:["One","Four","Three","Two"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Structures, Earth and Space, Light, and Soil (Days 101-109)", summary:"Grade 4 Science strand review: students revisit tension and compression, layers of the Earth, opaque/translucent/transparent materials, fixed and movable pulleys, testing rock and mineral properties, ocean and coastal ecosystems, pitch and volume, natural and artificial light sources, and types of soil.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What do we call a pulling or stretching force on a structure?", options:["Tension","Compression","Friction","A concept unrelated to structures"], answer:0},
+     {q:"What is the name of Earth’s outermost layer, where we live?", options:["The crust","A concept unrelated to Earth’s layers","The mantle","The core"], answer:0},
+     {q:"What do we call a material that blocks light completely?", options:["A concept unrelated to light","Opaque","Translucent","Transparent"], answer:1},
+     {q:"What do we call the description of how high or low a sound is?", options:["A concept unrelated to sound","Echo","Pitch","Volume"], answer:2},
+     {q:"Which soil type is a balanced mixture often considered best for growing plants?", options:["Sandy soil","Loam","A concept unrelated to soil","Pure clay"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Ancient Civilizations and Canadian History (Days 101-109)", summary:"Grade 4 Social Studies strand review: students revisit the Indus Valley civilization, West African kingdoms, United Empire Loyalists, the War of 1812, the Underground Railroad, Canada’s justice system, the Metis Nation and the Red River Resistance, the history of the Canadian flag, and Canada’s contributions to space exploration.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Along which river did the Indus Valley civilization develop?", options:["A concept unrelated to ancient civilizations","The Indus River","The Nile River","The Amazon River"], answer:1},
+     {q:"What resources helped the West African kingdoms of Ghana, Mali, and Songhai grow wealthy?", options:["A concept unrelated to trade","Oil and coal","Gold and salt","Rice and tea"], answer:2},
+     {q:"Who were the United Empire Loyalists?", options:["Colonists who fought against Britain","Colonists who remained loyal to Britain and moved to Canada","A concept unrelated to Canadian history","Explorers from Spain"], answer:1},
+     {q:"Who led the Red River Resistance?", options:["Queen Victoria","A concept unrelated to the Red River Resistance","Louis Riel","John A. Macdonald"], answer:2},
+     {q:"In what year was Canada’s current maple leaf flag officially adopted?", options:["1965","1812","2000","1867"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;

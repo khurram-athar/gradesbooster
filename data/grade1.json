@@ -30761,5 +30761,3356 @@
         ]
       }
     ]
+  },
+  {
+    "day": 101,
+    "label": "Day 101 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Possessive Nouns: Showing Ownership with s",
+        "summary": "Students learn that adding an apostrophe and s to a noun shows that something belongs to someone, as in the dogs bone or Sams hat.",
+        "resourceLabel": "YouTube: Possessive Nouns: Showing Ownership with s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Possessive%20Nouns%3A%20Showing%20Ownership%20with%20s%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which phrase shows that the ball belongs to Mia?",
+            "options": [
+              "Mia ball",
+              "The ball Mia",
+              "Ball Mia",
+              "Mias ball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does adding an apostrophe and s to a name usually show?",
+            "options": [
+              "That the word is plural only",
+              "Nothing at all",
+              "That the word is a question",
+              "That something belongs to that person"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which phrase correctly shows the cats toy?",
+            "options": [
+              "cats toys toy",
+              "cat toy s",
+              "cats toy",
+              "toy cats"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the teachers desk, who owns the desk?",
+            "options": [
+              "The principal",
+              "The student",
+              "No one",
+              "The teacher"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to know how to show ownership in writing?",
+            "options": [
+              "It changes the meaning of every sentence",
+              "It has no real use",
+              "It helps readers understand who something belongs to",
+              "It makes words longer for no reason"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we add to a name to show it owns something, like Sam s hat?",
+            "answers": [
+              "apostrophe s",
+              "s"
+            ]
+          },
+          {
+            "prompt": "In the dogs bone, who owns the bone?",
+            "answers": [
+              "the dog"
+            ]
+          },
+          {
+            "prompt": "Say a short phrase that shows something belongs to your friend.",
+            "answers": [
+              "my friends toy",
+              "my friends book",
+              "my friends pencil",
+              "my friends bag"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Place Value: Hundreds, Tens, and Ones to 200",
+        "summary": "Students build on their understanding of tens and ones to include hundreds, learning that numbers past 100 have one hundred plus some tens and ones.",
+        "resourceLabel": "YouTube: Place Value: Hundreds, Tens, and Ones to 200",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Place%20Value%3A%20Hundreds%2C%20Tens%2C%20and%20Ones%20to%20200%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "In the number 174, how many hundreds are there?",
+            "options": [
+              "0",
+              "7",
+              "4",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the number 138, how many tens are there?",
+            "options": [
+              "3",
+              "8",
+              "1",
+              "0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the number 192, how many ones are there?",
+            "options": [
+              "9",
+              "2",
+              "0",
+              "1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 100 plus 40 plus 5?",
+            "options": [
+              "154",
+              "145",
+              "105",
+              "140"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do we group numbers into hundreds, tens, and ones?",
+            "options": [
+              "It makes larger numbers easier to read and understand",
+              "It makes numbers harder to understand",
+              "It only works for small numbers",
+              "It has no real purpose"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the number 156, how many hundreds are there?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "In the number 156, how many tens are there?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "In the number 156, how many ones are there?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Skin: Protecting Our Body",
+        "summary": "Students learn that skin is the largest organ of our body, and it protects us from germs, helps us feel touch, and helps control our body temperature.",
+        "resourceLabel": "YouTube: Our Skin: Protecting Our Body",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Skin%3A%20Protecting%20Our%20Body%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the largest organ of our body?",
+            "options": [
+              "Brain",
+              "Heart",
+              "Skin",
+              "Lungs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does our skin help protect us from?",
+            "options": [
+              "Loud sounds only",
+              "Bright light only",
+              "Nothing at all",
+              "Germs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can our skin help us feel?",
+            "options": [
+              "Touch, heat, and cold",
+              "Only taste",
+              "Only sound",
+              "Only smell"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to keep our skin clean?",
+            "options": [
+              "To make us taller",
+              "It has no real reason",
+              "To help stop germs from making us sick",
+              "To make our skin a different colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What covers almost our entire body and protects what is inside?",
+            "options": [
+              "Our clothes only",
+              "Our bones only",
+              "Our skin",
+              "Our hair only"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the largest organ of our body?",
+            "answers": [
+              "skin"
+            ]
+          },
+          {
+            "prompt": "Does our skin help protect us from germs?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one thing our skin helps us feel, like touch.",
+            "answers": [
+              "touch",
+              "heat",
+              "cold",
+              "pain"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Municipal Services: Water, Garbage, and Roads",
+        "summary": "Students learn that local governments provide municipal services like clean water, garbage pickup, and road repairs that help keep a community running smoothly.",
+        "resourceLabel": "YouTube: Our Municipal Services: Water, Garbage, and Roads",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Municipal%20Services%3A%20Water%2C%20Garbage%2C%20and%20Roads%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a municipal service?",
+            "options": [
+              "A kind of weather",
+              "A type of food",
+              "A service a local government provides, like garbage pickup",
+              "A toy sold in stores"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who usually provides services like road repairs in a town?",
+            "options": [
+              "The local government",
+              "A single family",
+              "A visiting tourist",
+              "No one at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is clean water an important municipal service?",
+            "options": [
+              "It is never actually needed",
+              "It is only used for washing cars",
+              "People need clean water to stay healthy",
+              "It has no real importance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen without regular garbage pickup?",
+            "options": [
+              "Streets would become cleaner",
+              "Garbage would build up in the community",
+              "Water would become dirtier only",
+              "Nothing would change at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do communities rely on many different municipal services together?",
+            "options": [
+              "Each service helps keep the community safe, clean, and running smoothly",
+              "Communities never actually need any services",
+              "One single service can meet every need",
+              "Municipal services are optional and unimportant"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one municipal service, like garbage pickup.",
+            "answers": [
+              "garbage pickup",
+              "clean water",
+              "road repairs"
+            ]
+          },
+          {
+            "prompt": "Who usually provides municipal services like garbage pickup?",
+            "answers": [
+              "the local government",
+              "the town",
+              "the city"
+            ]
+          },
+          {
+            "prompt": "Why do communities need clean water?",
+            "answers": [
+              "to stay healthy",
+              "to drink safely",
+              "for health"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "label": "Day 102 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading Comprehension: Sequencing in Nonfiction",
+        "summary": "Students learn to identify the order of steps or events in a nonfiction text, using clue words like first, next, then, and last.",
+        "resourceLabel": "YouTube: Reading Comprehension: Sequencing in Nonfiction",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Comprehension%3A%20Sequencing%20in%20Nonfiction%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word is a clue that something happens first?",
+            "options": [
+              "First",
+              "Jump",
+              "Cat",
+              "Blue"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do writers use words like first, next, and last in a nonfiction text?",
+            "options": [
+              "To show the order in which things happen",
+              "To confuse the reader",
+              "To make the text longer for no reason",
+              "To add extra pictures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a recipe, which step usually comes before mixing the ingredients?",
+            "options": [
+              "Gathering the ingredients",
+              "Washing the dishes",
+              "Eating the food",
+              "Serving the food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a text says last, we know the step or event described is ___.",
+            "options": [
+              "Not part of any order",
+              "At the end of the sequence",
+              "At the very beginning",
+              "In the middle only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding sequence helpful when following instructions?",
+            "options": [
+              "It only matters for stories, not instructions",
+              "It has no real use",
+              "It helps us complete steps in the correct order",
+              "It makes instructions harder to follow"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one clue word that shows order in a nonfiction text, like first.",
+            "answers": [
+              "first",
+              "next",
+              "then",
+              "last"
+            ]
+          },
+          {
+            "prompt": "Why do nonfiction texts often use words like first and next?",
+            "answers": [
+              "to show the order of steps",
+              "to show sequence"
+            ]
+          },
+          {
+            "prompt": "What comes right after first in a sequence?",
+            "answers": [
+              "next",
+              "then"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Two-Digit Addition Without Regrouping",
+        "summary": "Students learn to add two two-digit numbers by adding the ones together and the tens together, without needing to regroup.",
+        "resourceLabel": "YouTube: Two-Digit Addition Without Regrouping",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Two-Digit%20Addition%20Without%20Regrouping%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 12 plus 24?",
+            "options": [
+              "35",
+              "38",
+              "36",
+              "34"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 41 plus 27?",
+            "options": [
+              "68",
+              "69",
+              "67",
+              "66"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When adding 34 plus 15, what do we add first?",
+            "options": [
+              "Nothing at all",
+              "The ones digits, 4 and 5",
+              "The whole numbers randomly",
+              "The tens digits only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 53 plus 26?",
+            "options": [
+              "78",
+              "79",
+              "80",
+              "77"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to add the ones and tens separately?",
+            "options": [
+              "It has no real benefit",
+              "It makes the problem impossible to solve",
+              "It only works for one-digit numbers",
+              "It breaks the problem into smaller, easier steps"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 23 plus 15?",
+            "answers": [
+              "38",
+              "thirty-eight"
+            ]
+          },
+          {
+            "prompt": "What is 42 plus 31?",
+            "answers": [
+              "73",
+              "seventy-three"
+            ]
+          },
+          {
+            "prompt": "When adding two-digit numbers, which digits do we add together first?",
+            "answers": [
+              "the ones",
+              "ones digits"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Owls: Nocturnal Birds of Prey",
+        "summary": "Students learn that owls are birds that hunt at night, using sharp eyesight, quiet flight, and strong hearing to find small animals to eat.",
+        "resourceLabel": "YouTube: Owls: Nocturnal Birds of Prey",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Owls%3A%20Nocturnal%20Birds%20of%20Prey%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "When do owls usually hunt for food?",
+            "options": [
+              "At night",
+              "Only underwater",
+              "Never",
+              "Only at noon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What helps an owl fly quietly to sneak up on prey?",
+            "options": [
+              "A long tail only",
+              "Special soft feathers",
+              "Loud wings",
+              "Bright colours"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What sense helps an owl find small animals in the dark?",
+            "options": [
+              "No senses at all",
+              "Strong hearing",
+              "Smell only",
+              "Taste only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call an animal, like an owl, that hunts other animals for food?",
+            "options": [
+              "A pet",
+              "A plant",
+              "A predator",
+              "A prey animal only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are an owls adaptations, like quiet flight and sharp eyesight, useful for night hunting?",
+            "options": [
+              "They have no real purpose",
+              "They help the owl find and catch food in the dark",
+              "They only help the owl during the day",
+              "They make the owl slower"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Do owls usually hunt during the day or at night?",
+            "answers": [
+              "at night"
+            ]
+          },
+          {
+            "prompt": "Name one thing that helps an owl hunt, like sharp eyesight.",
+            "answers": [
+              "sharp eyesight",
+              "quiet flight",
+              "strong hearing"
+            ]
+          },
+          {
+            "prompt": "What do we call an animal that hunts other animals for food?",
+            "answers": [
+              "predator"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadas Territories: The North",
+        "summary": "Students learn that Canada has three territories in the north - Yukon, Northwest Territories, and Nunavut - with cold climates and unique communities.",
+        "resourceLabel": "YouTube: Canadas Territories: The North",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Territories%3A%20The%20North%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many territories does Canada have?",
+            "options": [
+              "Three",
+              "Ten",
+              "One",
+              "Thirteen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is one of Canadas three territories?",
+            "options": [
+              "Quebec",
+              "Manitoba",
+              "Nunavut",
+              "Alberta"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where in Canada are the three territories located?",
+            "options": [
+              "In the far south",
+              "In the north",
+              "On the west coast only",
+              "In the middle of the country only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is often true about the climate in Canadas territories?",
+            "options": [
+              "It never changes throughout the year",
+              "It is generally cold, especially in winter",
+              "It has no connection to the seasons",
+              "It is always hot and dry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might communities in the territories have unique ways of life compared to southern Canada?",
+            "options": [
+              "Every part of Canada has the exact same way of life",
+              "Their cold climate and remote location shape how people live, travel, and get food",
+              "The climate and location have no effect on daily life",
+              "Communities in the territories never adapt to their environment"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one of Canadas three territories.",
+            "answers": [
+              "Yukon",
+              "Northwest Territories",
+              "Nunavut"
+            ]
+          },
+          {
+            "prompt": "How many territories does Canada have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "Are Canadas territories generally located in the north or south?",
+            "answers": [
+              "the north"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "label": "Day 103 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Exclamatory Sentences: Showing Strong Feeling",
+        "summary": "Students learn that an exclamatory sentence shows strong feeling, like excitement or surprise, and ends with an exclamation mark.",
+        "resourceLabel": "YouTube: Exclamatory Sentences: Showing Strong Feeling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exclamatory%20Sentences%3A%20Showing%20Strong%20Feeling%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which sentence is an exclamatory sentence?",
+            "options": [
+              "We won the game!",
+              "We might win the game",
+              "Did we win the game?",
+              "We won the game."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an exclamatory sentence usually show?",
+            "options": [
+              "A calm, quiet fact only",
+              "Strong feeling, like excitement or surprise",
+              "Nothing at all",
+              "A question with no answer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which punctuation mark ends an exclamatory sentence?",
+            "options": [
+              "A period",
+              "A comma",
+              "A question mark",
+              "An exclamation mark"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence shows surprise using an exclamation mark?",
+            "options": [
+              "Wow, look at that rainbow!",
+              "Is that a rainbow?",
+              "Rainbows form after rain",
+              "The rainbow has colours."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use an exclamatory sentence in a story?",
+            "options": [
+              "To end the story",
+              "To ask the reader a question",
+              "To show a character feels excited or surprised",
+              "To make the sentence longer for no reason"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What punctuation mark ends an exclamatory sentence?",
+            "answers": [
+              "exclamation mark",
+              "!"
+            ]
+          },
+          {
+            "prompt": "What kind of feeling does an exclamatory sentence often show?",
+            "answers": [
+              "strong feeling",
+              "excitement"
+            ]
+          },
+          {
+            "prompt": "Say a short exclamatory sentence about something fun.",
+            "answers": [
+              "That was so fun!",
+              "We won the game!",
+              "I love this!"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Two-Digit Subtraction Without Regrouping",
+        "summary": "Students learn to subtract two-digit numbers by subtracting the ones and the tens separately, without needing to regroup.",
+        "resourceLabel": "YouTube: Two-Digit Subtraction Without Regrouping",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Two-Digit%20Subtraction%20Without%20Regrouping%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 39 minus 16?",
+            "options": [
+              "23",
+              "22",
+              "25",
+              "24"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 58 minus 27?",
+            "options": [
+              "29",
+              "31",
+              "30",
+              "32"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When subtracting 45 minus 12, what do we subtract first?",
+            "options": [
+              "Nothing at all",
+              "The whole numbers randomly",
+              "The ones digits, 5 minus 2",
+              "The tens digits only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 76 minus 34?",
+            "options": [
+              "41",
+              "40",
+              "42",
+              "43"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it helpful to subtract the ones and tens separately?",
+            "options": [
+              "It makes the problem impossible to solve",
+              "It has no real benefit",
+              "It breaks the problem into smaller, easier steps",
+              "It only works for one-digit numbers"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 48 minus 15?",
+            "answers": [
+              "33",
+              "thirty-three"
+            ]
+          },
+          {
+            "prompt": "What is 67 minus 24?",
+            "answers": [
+              "43",
+              "forty-three"
+            ]
+          },
+          {
+            "prompt": "When subtracting two-digit numbers, which digits do we subtract first?",
+            "answers": [
+              "the ones",
+              "ones digits"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bats: Flying Mammals of the Night",
+        "summary": "Students learn that bats are mammals that can fly, are active at night, and many kinds use echolocation, or sound bouncing back, to find food in the dark.",
+        "resourceLabel": "YouTube: Bats: Flying Mammals of the Night",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bats%3A%20Flying%20Mammals%20of%20the%20Night%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What kind of animal is a bat?",
+            "options": [
+              "An insect",
+              "A mammal",
+              "A fish",
+              "A reptile"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When are bats usually most active?",
+            "options": [
+              "At night",
+              "Only at noon",
+              "Only underwater",
+              "Never"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is echolocation?",
+            "options": [
+              "A type of bright light",
+              "A place where bats sleep",
+              "A kind of food bats eat",
+              "Using sound that bounces back to find things in the dark"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do many bats rest during the day?",
+            "options": [
+              "In the middle of a busy road",
+              "In caves or hanging upside down in trees",
+              "Underwater",
+              "Floating in the sky"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is echolocation useful for a bat flying at night?",
+            "options": [
+              "It has no real use for a bat",
+              "It helps the bat find food and avoid obstacles in the dark",
+              "It only helps a bat see colours",
+              "It stops a bat from flying at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Are bats mammals or insects?",
+            "answers": [
+              "mammals"
+            ]
+          },
+          {
+            "prompt": "Are bats usually active during the day or at night?",
+            "answers": [
+              "at night"
+            ]
+          },
+          {
+            "prompt": "What do we call the way some bats use sound to find food in the dark?",
+            "answers": [
+              "echolocation"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Trading and Bartering Long Ago",
+        "summary": "Students learn that before money was commonly used, people often traded goods directly with each other, a practice called bartering.",
+        "resourceLabel": "YouTube: Trading and Bartering Long Ago",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trading%20and%20Bartering%20Long%20Ago%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is bartering?",
+            "options": [
+              "Giving goods away for free",
+              "A type of modern online shopping",
+              "Buying goods only with coins",
+              "Trading goods directly without using money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did people use bartering before money became common?",
+            "options": [
+              "A concept unrelated to trading",
+              "Yes",
+              "Bartering was never used by anyone",
+              "No, money has always been used"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of bartering?",
+            "options": [
+              "Ordering something online",
+              "Trading eggs for a loaf of bread",
+              "Withdrawing money from a bank",
+              "Paying with a credit card"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might bartering have been useful before money was widely used?",
+            "options": [
+              "It had no real purpose",
+              "It required people to use only money",
+              "It made trading goods impossible",
+              "It let people exchange goods they needed without using coins or bills"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might money have eventually become more common than bartering?",
+            "options": [
+              "People stopped needing to trade at all",
+              "Bartering was always more convenient than money",
+              "Money made trading much harder than bartering",
+              "Money made it easier to trade without needing to find someone who wanted exactly what you had"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call trading goods directly, without using money?",
+            "answers": [
+              "bartering"
+            ]
+          },
+          {
+            "prompt": "Did people use bartering before money was common?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Give an example of a barter, like trading eggs for bread.",
+            "answers": [
+              "trading eggs for bread",
+              "trading vegetables for milk",
+              "trading wood for food"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "label": "Day 104 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -ock and -uck",
+        "summary": "Students learn to read and build words in the -ock and -uck word families, such as rock, clock, duck, and truck.",
+        "resourceLabel": "YouTube: Word Families: -ock and -uck",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ock%20and%20-uck%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -ock word family?",
+            "options": [
+              "Truck",
+              "Luck",
+              "Duck",
+              "Clock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word belongs to the -uck word family?",
+            "options": [
+              "Rock",
+              "Lock",
+              "Sock",
+              "Truck"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word rhymes with sock?",
+            "options": [
+              "Duck",
+              "Luck",
+              "Rock",
+              "Truck"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word rhymes with stuck?",
+            "options": [
+              "Lock",
+              "Truck",
+              "Rock",
+              "Sock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to learn word families like -ock and -uck?",
+            "options": [
+              "They make reading more confusing",
+              "Word families never help with reading",
+              "Knowing one word helps us read and spell other words with the same pattern",
+              "They only work for one single word"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a word in the -ock family, like rock.",
+            "answers": [
+              "rock",
+              "clock",
+              "sock",
+              "lock"
+            ]
+          },
+          {
+            "prompt": "Name a word in the -uck family, like duck.",
+            "answers": [
+              "duck",
+              "truck",
+              "luck",
+              "stuck"
+            ]
+          },
+          {
+            "prompt": "What sound do rock and clock share at the end?",
+            "answers": [
+              "ock",
+              "-ock"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Line Plots with Simple Objects",
+        "summary": "Students learn to organize simple data using a line plot, placing an X above a number or category for each object counted.",
+        "resourceLabel": "YouTube: Data: Line Plots with Simple Objects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Line%20Plots%20with%20Simple%20Objects%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "On a line plot, what symbol is often used to show one item?",
+            "options": [
+              "A word only",
+              "A circle only",
+              "A triangle only",
+              "An X"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If four students chose apples as their favourite fruit, how many Xs would appear above apples on a line plot?",
+            "options": [
+              "One",
+              "Ten",
+              "Four",
+              "Two"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a line plot help us do with data?",
+            "options": [
+              "Organize and count information visually",
+              "Make numbers disappear",
+              "Hide information from view",
+              "Replace numbers with pictures only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a line plot shows 5 Xs above the number 3, what does that tell us?",
+            "options": [
+              "Five items or people are linked to the number 3",
+              "The number 3 was never counted",
+              "Nothing at all",
+              "Only one item was counted"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might we use a line plot instead of just listing numbers?",
+            "options": [
+              "It hides all the information",
+              "It makes counting harder",
+              "It has no real purpose",
+              "It makes patterns in the data easier to see at a glance"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a line plot, what do we place above a number to show a count?",
+            "answers": [
+              "an X",
+              "a mark"
+            ]
+          },
+          {
+            "prompt": "What kind of information can a line plot show?",
+            "answers": [
+              "data",
+              "counts of things"
+            ]
+          },
+          {
+            "prompt": "If three children have 2 pets, how many Xs go above the number 2?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Life Cycle of a Frog",
+        "summary": "Students learn that a frog begins life as an egg, hatches into a tadpole that lives in water, and slowly grows legs and lungs to become an adult frog.",
+        "resourceLabel": "YouTube: The Life Cycle of a Frog",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Life%20Cycle%20of%20a%20Frog%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the first stage of a frogs life cycle?",
+            "options": [
+              "Egg",
+              "Tadpole",
+              "Froglet",
+              "Adult frog"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a young frog that lives in water and has a tail?",
+            "options": [
+              "An egg",
+              "A tadpole",
+              "A froglet only",
+              "A pollywog only, with no other name"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a tadpole breathe using gills or lungs at first?",
+            "options": [
+              "Lungs only",
+              "Gills",
+              "Both equally from the very start",
+              "Neither gills nor lungs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What changes happen as a tadpole grows into an adult frog?",
+            "options": [
+              "Nothing changes at all",
+              "It shrinks smaller and smaller",
+              "It grows legs and develops lungs for breathing air",
+              "It grows a longer tail only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do frogs usually lay their eggs in water?",
+            "options": [
+              "Tadpoles need to live in water until they develop lungs and legs",
+              "Frogs never actually lay eggs",
+              "Frog eggs can only survive on dry land",
+              "Water has no connection to a frogs life cycle"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the first stage of a frogs life cycle?",
+            "answers": [
+              "egg"
+            ]
+          },
+          {
+            "prompt": "What do we call a young frog that lives in water and has a tail?",
+            "answers": [
+              "tadpole"
+            ]
+          },
+          {
+            "prompt": "Does a tadpole slowly grow legs as it changes into a frog?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Community Centres: Places to Play and Learn",
+        "summary": "Students learn that community centres are public buildings where people can take part in sports, classes, and activities together.",
+        "resourceLabel": "YouTube: Community Centres: Places to Play and Learn",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Centres%3A%20Places%20to%20Play%20and%20Learn%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a community centre?",
+            "options": [
+              "A public building where people take part in activities together",
+              "A type of grocery store",
+              "A private home",
+              "A kind of vehicle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which activity might happen at a community centre?",
+            "options": [
+              "Growing crops on a large farm",
+              "Building a skyscraper",
+              "Landing an airplane",
+              "A sports class"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who is usually welcome to use a community centre?",
+            "options": [
+              "Only government leaders",
+              "People in the community",
+              "Only one single family",
+              "No one at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a community centre be an important place for a neighbourhood?",
+            "options": [
+              "It has no real benefit to a community",
+              "It gives people a shared space to connect, learn, and stay active",
+              "It keeps people from meeting each other",
+              "It is only used once a year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might community centres offer many different kinds of classes and activities?",
+            "options": [
+              "Because only one activity is ever allowed",
+              "To make sure no one can use the building",
+              "Community centres never offer any activities",
+              "To meet the different interests and needs of everyone in the community"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a community centre?",
+            "answers": [
+              "a public building for activities",
+              "a place to play and learn"
+            ]
+          },
+          {
+            "prompt": "Name one activity you might do at a community centre.",
+            "answers": [
+              "sports",
+              "take a class",
+              "play games"
+            ]
+          },
+          {
+            "prompt": "Are community centres open to everyone in the community?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "label": "Day 105 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Setting the Scene: Describing Where a Story Happens",
+        "summary": "Students learn that the setting of a story tells us where and when a story takes place, and authors use describing words to help readers picture it.",
+        "resourceLabel": "YouTube: Setting the Scene: Describing Where a Story Happens",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Setting%20the%20Scene%3A%20Describing%20Where%20a%20Story%20Happens%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does the setting of a story describe?",
+            "options": [
+              "Where and when the story takes place",
+              "Nothing important",
+              "Only the ending of the story",
+              "Only the main character"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence describes a setting?",
+            "options": [
+              "He felt very happy.",
+              "She ran quickly to the door.",
+              "They laughed together.",
+              "The forest was dark and quiet at night."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author use describing words when writing about a setting?",
+            "options": [
+              "To confuse the reader",
+              "To help readers picture the place in their minds",
+              "To remove all characters from the story",
+              "To make the story shorter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a story setting?",
+            "options": [
+              "A feeling of excitement",
+              "A character named Sam",
+              "An action like jumping",
+              "A snowy mountain in winter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding the setting helpful when reading a story?",
+            "options": [
+              "Settings are never described in stories",
+              "It only matters for the title of a book",
+              "It helps readers understand where and when events are happening",
+              "It has no connection to understanding a story"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does the setting of a story tell us?",
+            "answers": [
+              "where and when it happens",
+              "where a story takes place"
+            ]
+          },
+          {
+            "prompt": "Name a word that could describe a story setting, like sunny or snowy.",
+            "answers": [
+              "sunny",
+              "snowy",
+              "dark",
+              "busy"
+            ]
+          },
+          {
+            "prompt": "Why do authors describe the setting of a story?",
+            "answers": [
+              "to help readers picture it",
+              "to help us imagine the place"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparing 2D and 3D Shapes",
+        "summary": "Students compare flat 2D shapes, like circles and squares, with solid 3D shapes, like spheres and cubes, noticing how 3D shapes take up space.",
+        "resourceLabel": "YouTube: Comparing 2D and 3D Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%202D%20and%203D%20Shapes%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a 2D shape?",
+            "options": [
+              "A square",
+              "A sphere",
+              "A cube",
+              "A cone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a 3D shape?",
+            "options": [
+              "A circle",
+              "A triangle",
+              "A sphere",
+              "A rectangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one difference between a 2D shape and a 3D shape?",
+            "options": [
+              "A 3D shape is always smaller",
+              "A 2D shape always has more sides",
+              "There is no real difference at all",
+              "A 3D shape takes up space, while a 2D shape is flat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which 3D shape looks like a ball?",
+            "options": [
+              "A sphere",
+              "A cylinder",
+              "A cube",
+              "A cone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might we compare 2D and 3D shapes when learning geometry?",
+            "options": [
+              "It has no real purpose",
+              "It only matters for very old students",
+              "Shapes are never compared in math",
+              "It helps us notice how flat shapes and solid shapes are different"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is a circle a 2D shape or a 3D shape?",
+            "answers": [
+              "2D shape",
+              "2D"
+            ]
+          },
+          {
+            "prompt": "Is a sphere a 2D shape or a 3D shape?",
+            "answers": [
+              "3D shape",
+              "3D"
+            ]
+          },
+          {
+            "prompt": "Name one 3D shape, like a cube.",
+            "answers": [
+              "cube",
+              "sphere",
+              "cone",
+              "cylinder"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Penguins: Birds That Cannot Fly",
+        "summary": "Students learn that penguins are birds that cannot fly, but instead use their wings like flippers to swim well in cold ocean water.",
+        "resourceLabel": "YouTube: Penguins: Birds That Cannot Fly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Penguins%3A%20Birds%20That%20Cannot%20Fly%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Can penguins fly through the air?",
+            "options": [
+              "Only in summer",
+              "No",
+              "Yes, very high",
+              "Only at night"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do penguins use their wings for?",
+            "options": [
+              "Digging underground",
+              "Flying very high",
+              "Swimming, like flippers",
+              "Nothing at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of climate do most penguins live in?",
+            "options": [
+              "Tropical rainforests",
+              "Cold climates",
+              "Underground caves only",
+              "Hot deserts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are penguins good swimmers even though they cannot fly?",
+            "options": [
+              "Their wings are too small to help them at all",
+              "Penguins use their beaks to swim instead of wings",
+              "Their wings act like flippers, helping them move well through water",
+              "Penguins never actually enter water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might being unable to fly not be a problem for a penguin?",
+            "options": [
+              "Penguins get the food and safety they need by swimming instead",
+              "Penguins need to fly to find any food",
+              "Flying is the only way any bird can survive",
+              "Not flying always makes an animal unable to survive"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Can penguins fly?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "What do penguins use their wings for instead of flying?",
+            "answers": [
+              "swimming",
+              "to swim"
+            ]
+          },
+          {
+            "prompt": "Do penguins usually live in cold or warm places?",
+            "answers": [
+              "cold places",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Winter Celebrations Around the World",
+        "summary": "Students learn that people around the world celebrate different winter holidays and traditions, such as lighting candles or sharing special meals.",
+        "resourceLabel": "YouTube: Winter Celebrations Around the World",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Winter%20Celebrations%20Around%20the%20World%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What might families do during a winter celebration?",
+            "options": [
+              "Light candles or share a special meal",
+              "Avoid any traditions",
+              "Stay apart from family",
+              "Ignore each other completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do different cultures around the world celebrate different winter holidays?",
+            "options": [
+              "Winter holidays do not exist anywhere",
+              "A concept unrelated to winter celebrations",
+              "No, every culture celebrates in the exact same way",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might learning about other cultures winter celebrations be interesting?",
+            "options": [
+              "It has no real value at all",
+              "Winter celebrations are only found in one single country",
+              "Every culture celebrates in an identical way",
+              "It helps us understand and appreciate different traditions around the world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a winter tradition?",
+            "options": [
+              "Lighting candles together as a family",
+              "Harvesting summer crops",
+              "Swimming at an outdoor beach",
+              "Planting a garden in July"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do many winter celebrations include gathering with family or community?",
+            "options": [
+              "Coming together helps people feel connected and share warmth during the cold season",
+              "Winter celebrations always keep people apart",
+              "Families never gather during winter",
+              "Gathering with others has no connection to winter celebrations"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one thing people might do during a winter celebration, like light candles.",
+            "answers": [
+              "light candles",
+              "share a meal",
+              "sing songs"
+            ]
+          },
+          {
+            "prompt": "Do different cultures celebrate different winter holidays?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Why do families gather during winter celebrations?",
+            "answers": [
+              "to be together",
+              "to celebrate together"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "label": "Day 106 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Blends: fr, tr, pr",
+        "summary": "Students learn to read and spell words that begin with the consonant blends fr, tr, and pr, hearing each consonant sound in the blend.",
+        "resourceLabel": "YouTube: Blends: fr, tr, pr",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Blends%3A%20fr%2C%20tr%2C%20pr%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word starts with the fr blend?",
+            "options": [
+              "Tree",
+              "Frog",
+              "Prize",
+              "Snail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word starts with the tr blend?",
+            "options": [
+              "Frog",
+              "Print",
+              "Train",
+              "Snail"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word starts with the pr blend?",
+            "options": [
+              "Snail",
+              "Train",
+              "Prize",
+              "Frog"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the word tree, which two letters make the beginning blend?",
+            "options": [
+              "tr",
+              "ee",
+              "re",
+              "tt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it helpful to practise blends like fr, tr, and pr?",
+            "options": [
+              "Blends never appear in real words",
+              "It makes reading more difficult",
+              "It only matters for one single word",
+              "It helps us read and spell many new words that start the same way"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a word that starts with the fr blend, like frog.",
+            "answers": [
+              "frog",
+              "fry",
+              "free",
+              "friend"
+            ]
+          },
+          {
+            "prompt": "Name a word that starts with the tr blend, like tree.",
+            "answers": [
+              "tree",
+              "train",
+              "truck",
+              "trip"
+            ]
+          },
+          {
+            "prompt": "Name a word that starts with the pr blend, like present.",
+            "answers": [
+              "present",
+              "pretty",
+              "print",
+              "prize"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Before Measuring",
+        "summary": "Students practise making a reasonable guess, or estimate, about a length or amount before measuring it exactly, then compare their estimate to the real measurement.",
+        "resourceLabel": "YouTube: Estimating Before Measuring",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Before%20Measuring%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an estimate?",
+            "options": [
+              "A reasonable guess made before measuring exactly",
+              "An exact measurement with no guessing",
+              "A kind of number pattern",
+              "A type of shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone estimate the length of a table before measuring it with a ruler?",
+            "options": [
+              "Estimating always gives the exact same number as measuring",
+              "It gives a reasonable idea of the length before checking the exact size",
+              "It replaces the need to ever measure at all",
+              "Estimating has no real purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you estimate a book is about 20 cubes long, what should you do next to check?",
+            "options": [
+              "Never measure the book at all",
+              "Ignore the estimate completely",
+              "Change the size of the book",
+              "Measure the book with the cubes to see how close the estimate was"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is an estimate expected to be the exact same as a real measurement every time?",
+            "options": [
+              "No, but it should be reasonably close",
+              "An estimate has no connection to a real measurement",
+              "Estimates are always wildly different from real measurements",
+              "Yes, it must be exactly the same every time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is practising estimation a useful math skill in everyday life?",
+            "options": [
+              "It has no use in everyday life",
+              "Estimating is only useful for very large numbers",
+              "It replaces the need for exact measurements forever",
+              "It helps us make quick, reasonable guesses about size or amount"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a reasonable guess made before measuring?",
+            "answers": [
+              "an estimate",
+              "estimate"
+            ]
+          },
+          {
+            "prompt": "Why might we estimate before measuring something exactly?",
+            "answers": [
+              "to make a smart guess first",
+              "to practise guessing"
+            ]
+          },
+          {
+            "prompt": "If you guess a pencil is about 10 cubes long, what is that guess called?",
+            "answers": [
+              "an estimate",
+              "estimate"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Simple Circuits: How a Light Bulb Turns On",
+        "summary": "Students learn that a simple circuit needs a battery, a wire, and a light bulb connected in a loop for electricity to flow and make the bulb light up.",
+        "resourceLabel": "YouTube: Simple Circuits: How a Light Bulb Turns On",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Circuits%3A%20How%20a%20Light%20Bulb%20Turns%20On%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is needed to make a simple circuit light up a bulb?",
+            "options": [
+              "Nothing at all",
+              "Only water",
+              "A battery, a wire, and a light bulb connected in a loop",
+              "Only a light bulb by itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens when a circuit is broken, or not connected in a full loop?",
+            "options": [
+              "The light bulb always stays lit",
+              "The battery disappears",
+              "The light bulb does not light up",
+              "Nothing changes at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What provides the electricity in a simple circuit like this?",
+            "options": [
+              "The battery",
+              "The air around it",
+              "The light bulb",
+              "The wire alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must the wire, battery, and bulb be connected in a complete loop?",
+            "options": [
+              "A complete loop has no effect on whether the bulb lights up",
+              "Electricity can flow even without a complete loop",
+              "Electricity needs an unbroken path to flow all the way around and light the bulb",
+              "The bulb lights up only when the loop is broken"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is learning about simple circuits useful for understanding everyday electronics?",
+            "options": [
+              "Electronics never use anything like a circuit",
+              "This concept only applies to one single light bulb",
+              "Circuits have no connection to everyday electronics",
+              "Many devices use circuits made of a power source, wires, and a part like a bulb"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one part needed to make a simple circuit, like a battery.",
+            "answers": [
+              "battery",
+              "wire",
+              "light bulb"
+            ]
+          },
+          {
+            "prompt": "Does electricity need to flow in a complete loop to light a bulb?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What happens to a light bulb when a circuit is complete?",
+            "answers": [
+              "it lights up",
+              "it turns on"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How Goods Travel: From Factory to Store",
+        "summary": "Students learn that many goods travel a long journey, from being made in a factory, to being shipped by truck, train, or boat, before arriving at a store.",
+        "resourceLabel": "YouTube: How Goods Travel: From Factory to Store",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Goods%20Travel%3A%20From%20Factory%20to%20Store%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Where are many goods first made?",
+            "options": [
+              "Inside a store only",
+              "In a factory",
+              "Underground caves only",
+              "On the moon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one way that goods might travel from a factory to a store.",
+            "options": [
+              "By walking alone",
+              "By floating in the air",
+              "By truck",
+              "By teleporting instantly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a good travel a long distance before reaching a store shelf?",
+            "options": [
+              "Goods never actually need to travel anywhere",
+              "Goods are always made right inside the store",
+              "Stores make every good themselves",
+              "It may be made far away and needs to be shipped to where people will buy it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might slow down or speed up how quickly goods travel to a store?",
+            "options": [
+              "Nothing ever affects how goods travel",
+              "The colour of the goods",
+              "The distance travelled and the type of transportation used",
+              "The weather has no effect on transportation at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding how goods travel helpful for understanding what we buy?",
+            "options": [
+              "Goods appear in stores with no journey at all",
+              "This concept only applies to food items",
+              "It helps us see the journey and effort behind everyday items in a store",
+              "It has no connection to the items we buy"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where are many goods first made?",
+            "answers": [
+              "a factory",
+              "in a factory"
+            ]
+          },
+          {
+            "prompt": "Name one way goods might travel to a store, like by truck.",
+            "answers": [
+              "by truck",
+              "by train",
+              "by boat"
+            ]
+          },
+          {
+            "prompt": "Where do goods usually end up after their journey?",
+            "answers": [
+              "a store",
+              "at the store"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "label": "Day 107 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Common and Proper Nouns",
+        "summary": "Students learn that a common noun names a general person, place, or thing, while a proper noun names a specific one and begins with a capital letter.",
+        "resourceLabel": "YouTube: Common and Proper Nouns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Common%20and%20Proper%20Nouns%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a proper noun?",
+            "options": [
+              "school",
+              "dog",
+              "city",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a common noun?",
+            "options": [
+              "Monday",
+              "Toronto",
+              "Canada",
+              "Dog"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is true about proper nouns?",
+            "options": [
+              "They only name animals",
+              "They name a specific person, place, or thing and start with a capital letter",
+              "They never appear in sentences",
+              "They are always lowercase"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a proper noun correctly?",
+            "options": [
+              "We visited Toronto last summer.",
+              "We visited a City last summer.",
+              "We visited the CITY last summer.",
+              "We visited toronto last summer."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to capitalize proper nouns in writing?",
+            "options": [
+              "It changes the meaning of a common noun",
+              "It makes every sentence a question",
+              "It shows the reader that the word names something specific",
+              "Capital letters have no real purpose"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Does a proper noun begin with a capital letter?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Is dog a common noun or a proper noun?",
+            "answers": [
+              "common noun",
+              "common"
+            ]
+          },
+          {
+            "prompt": "Is Toronto a common noun or a proper noun?",
+            "answers": [
+              "proper noun",
+              "proper"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Counting Forward and Backward Within 200",
+        "summary": "Students practise counting forward and backward by ones within 200, strengthening their understanding of how numbers increase and decrease in order.",
+        "resourceLabel": "YouTube: Counting Forward and Backward Within 200",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Forward%20and%20Backward%20Within%20200%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right before 120?",
+            "options": [
+              "110",
+              "119",
+              "121",
+              "118"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right after 168?",
+            "options": [
+              "178",
+              "167",
+              "170",
+              "169"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting backward from 175, what comes next: 175, 174, ___?",
+            "options": [
+              "176",
+              "180",
+              "173",
+              "172"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Counting forward from 196, what comes next: 196, 197, ___?",
+            "options": [
+              "200",
+              "199",
+              "195",
+              "198"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is practising counting forward and backward a useful math skill?",
+            "options": [
+              "Counting backward is never actually useful",
+              "It only matters for very large numbers",
+              "It has no connection to understanding numbers",
+              "It builds a strong understanding of how numbers relate and increase or decrease"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right before 150?",
+            "answers": [
+              "149",
+              "one hundred forty-nine"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 199?",
+            "answers": [
+              "200",
+              "two hundred"
+            ]
+          },
+          {
+            "prompt": "Count backward from 103 by ones: 103, 102, ___.",
+            "answers": [
+              "101",
+              "one hundred one"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Wind: Moving Air We Cannot See",
+        "summary": "Students learn that wind is moving air, which we cannot see but can feel, and observe through moving leaves, flags, and clouds.",
+        "resourceLabel": "YouTube: Wind: Moving Air We Cannot See",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wind%3A%20Moving%20Air%20We%20Cannot%20See%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is wind?",
+            "options": [
+              "Frozen water",
+              "Moving air",
+              "A kind of light",
+              "A type of cloud"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can we see wind directly with our eyes?",
+            "options": [
+              "No, but we can feel it and see its effects",
+              "Wind has no effect on anything around us",
+              "Wind can only be heard, never felt",
+              "Yes, wind is always clearly visible"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these shows us that wind is blowing?",
+            "options": [
+              "A closed door with no movement",
+              "A book resting on a table",
+              "Leaves moving on a tree",
+              "A rock sitting still"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can we feel wind even though we cannot see it?",
+            "options": [
+              "Moving air pushes against our skin, even though air itself is invisible",
+              "We can always see wind clearly, just like water",
+              "Wind is not actually real",
+              "Wind only exists indoors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a flag be a good way to notice wind outside?",
+            "options": [
+              "Wind has no effect on flags",
+              "A flag moves and waves when air pushes against it, showing the wind is blowing",
+              "Flags never move because of wind",
+              "Flags only move when there is no wind at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Can we see wind directly?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "What is wind?",
+            "answers": [
+              "moving air",
+              "air that moves"
+            ]
+          },
+          {
+            "prompt": "Name one thing that shows us wind is blowing, like moving leaves.",
+            "answers": [
+              "moving leaves",
+              "a flag waving",
+              "moving clouds"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadas Two Official Languages: English and French",
+        "summary": "Students learn that Canada has two official languages, English and French, and that both languages are used in government documents and services.",
+        "resourceLabel": "YouTube: Canadas Two Official Languages: English and French",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Two%20Official%20Languages%3A%20English%20and%20French%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many official languages does Canada have?",
+            "options": [
+              "Two",
+              "One",
+              "Ten",
+              "Five"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two languages are Canadas official languages?",
+            "options": [
+              "French and German",
+              "English and French",
+              "English only",
+              "English and Spanish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might you see both English and French used together in Canada?",
+            "options": [
+              "On government documents and signs",
+              "Only in one single province",
+              "Only on private restaurant menus",
+              "Nowhere at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does Canada have two official languages?",
+            "options": [
+              "Every country in the world has exactly two official languages",
+              "Only one language has ever been used in Canada",
+              "It has no historical reason at all",
+              "It reflects Canadas history with both English and French-speaking communities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might learning about Canadas official languages help us understand the country better?",
+            "options": [
+              "It shows part of the history and diversity of communities across Canada",
+              "Official languages have no real importance",
+              "Canada has never had any official languages",
+              "It has no connection to understanding Canada"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one of Canadas two official languages.",
+            "answers": [
+              "English",
+              "French"
+            ]
+          },
+          {
+            "prompt": "How many official languages does Canada have?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          },
+          {
+            "prompt": "Are both English and French used in Canadian government services?",
+            "answers": [
+              "yes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "label": "Day 108 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Problem and Solution",
+        "summary": "Students learn to identify the problem a character faces in a story and the solution, or how the character solves it, by the end.",
+        "resourceLabel": "YouTube: Story Problem and Solution",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Problem%20and%20Solution%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the problem in a story?",
+            "options": [
+              "The name of the author",
+              "The very last word in the story",
+              "The cover picture of the book",
+              "The trouble or challenge a character faces"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the solution in a story?",
+            "options": [
+              "A list of characters",
+              "The setting of the story",
+              "The title of the book",
+              "How the character solves the problem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do most stories include both a problem and a solution?",
+            "options": [
+              "A solution never matters in a story",
+              "It gives the story a clear plot that keeps readers interested",
+              "Stories never actually need a problem",
+              "It makes the story less interesting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a character loses their dog and then finds it, what is the solution?",
+            "options": [
+              "Finding the dog",
+              "Losing the dog",
+              "The title of the story",
+              "The characters name"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is identifying the problem and solution helpful when retelling a story?",
+            "options": [
+              "It has no connection to understanding a story",
+              "It leaves out the most important parts of the story",
+              "Problems and solutions never appear in stories",
+              "It helps summarize the most important parts of what happened"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the trouble a character faces in a story?",
+            "answers": [
+              "the problem",
+              "a problem"
+            ]
+          },
+          {
+            "prompt": "What do we call how a character fixes the trouble in a story?",
+            "answers": [
+              "the solution",
+              "a solution"
+            ]
+          },
+          {
+            "prompt": "Why do most stories include a problem and a solution?",
+            "answers": [
+              "to make the story interesting",
+              "so the story has a plot"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fact Families to 20",
+        "summary": "Students explore fact families, sets of related addition and subtraction facts that use the same three numbers, extending their work to numbers within 20.",
+        "resourceLabel": "YouTube: Fact Families to 20",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fact%20Families%20to%2020%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If 9 plus 6 equals 15, which subtraction fact belongs to the same fact family?",
+            "options": [
+              "9 minus 6 equals 3",
+              "15 minus 6 equals 9",
+              "6 minus 9 equals 3",
+              "15 minus 9 equals 15"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which three numbers make up the fact family with 7, 8, and 15?",
+            "options": [
+              "8 minus 7 equals 1",
+              "15 plus 15 equals 30",
+              "7 plus 15 equals 22",
+              "7 plus 8 equals 15, 15 minus 7 equals 8, 15 minus 8 equals 7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do all the facts in one fact family have in common?",
+            "options": [
+              "They are never related to each other",
+              "They always use completely different numbers",
+              "They use the same three numbers",
+              "They only include addition facts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If 5 plus 12 equals 17, what is 17 minus 12?",
+            "options": [
+              "17",
+              "12",
+              "29",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are fact families a helpful way to learn addition and subtraction together?",
+            "options": [
+              "They show how addition and subtraction facts are connected using the same numbers",
+              "They make addition and subtraction completely unrelated",
+              "They have no real use in math",
+              "They only work for numbers larger than 100"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If 8 plus 9 equals 17, what subtraction fact is in the same fact family?",
+            "answers": [
+              "17 minus 9 equals 8",
+              "17 minus 8 equals 9"
+            ]
+          },
+          {
+            "prompt": "Do fact families use the same three numbers in different addition and subtraction facts?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "If 6 plus 7 equals 13, name one more fact in that fact family.",
+            "answers": [
+              "7 plus 6 equals 13",
+              "13 minus 6 equals 7",
+              "13 minus 7 equals 6"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Tracks: Footprints in the Snow",
+        "summary": "Students learn that many animals leave tracks, or footprints, in snow or mud, and that the shape and size of tracks can help us identify which animal made them.",
+        "resourceLabel": "YouTube: Animal Tracks: Footprints in the Snow",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Tracks%3A%20Footprints%20in%20the%20Snow%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are animal tracks?",
+            "options": [
+              "A sound an animal makes",
+              "A type of animal food",
+              "Footprints an animal leaves behind",
+              "A kind of animal home"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might animal tracks be easiest to see?",
+            "options": [
+              "Inside a closed box",
+              "On a cloudy sky",
+              "In the middle of a lake",
+              "In snow or soft mud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can the shape and size of a track help scientists?",
+            "options": [
+              "It tells us the animals favourite food",
+              "It can help identify which animal made the track",
+              "It only shows the weather",
+              "It never gives any useful information"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a rabbit track look different from a deer track?",
+            "options": [
+              "Tracks never show any differences between animals",
+              "Rabbits and deer never leave any tracks",
+              "All animal feet are exactly the same shape",
+              "Different animals have differently shaped and sized feet"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists sometimes study animal tracks instead of the animals themselves?",
+            "options": [
+              "Tracks give no useful information at all",
+              "Animals never leave any tracks behind",
+              "Studying tracks is always less useful than seeing the animal",
+              "Tracks can show which animals visited an area even if the animal itself is not seen"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the footprints an animal leaves behind?",
+            "answers": [
+              "tracks",
+              "animal tracks"
+            ]
+          },
+          {
+            "prompt": "Can the shape of a track help us know which animal made it?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "Name one place animal tracks are easy to see, like in snow.",
+            "answers": [
+              "snow",
+              "mud"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Helping New Students Feel Welcome at School",
+        "summary": "Students learn simple ways to help new students feel welcome at school, such as introducing themselves, sharing information, and including others in games.",
+        "resourceLabel": "YouTube: Helping New Students Feel Welcome at School",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Helping%20New%20Students%20Feel%20Welcome%20at%20School%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is one way to help a new student feel welcome?",
+            "options": [
+              "Excluding them from games",
+              "Ignoring them completely",
+              "Avoiding eye contact",
+              "Introducing yourself and saying hello"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a new student feel nervous on their first day at a school?",
+            "options": [
+              "New students never feel nervous at all",
+              "Being new never has any effect on how someone feels",
+              "Everything, like the building and the people, is new to them",
+              "They already know everyone at the school"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can inviting a new student to play a game help them?",
+            "options": [
+              "Games have no connection to feeling welcome",
+              "It helps them feel included and make new friends",
+              "It has no effect on how they feel",
+              "It always makes them feel more left out"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is being kind to new students an important part of being a good classmate?",
+            "options": [
+              "It helps everyone feel safe, included, and ready to learn together",
+              "New students never need any extra kindness",
+              "Only teachers need to be kind to new students",
+              "Kindness has no real effect on a classroom"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might sharing simple information, like where the library is, help a new student?",
+            "options": [
+              "Sharing information never helps anyone feel comfortable",
+              "It helps them feel more comfortable and confident finding their way around",
+              "New students already know where everything is",
+              "This kind of help has no real value"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one way to help a new student feel welcome, like introducing yourself.",
+            "answers": [
+              "introducing yourself",
+              "saying hello",
+              "including them in a game"
+            ]
+          },
+          {
+            "prompt": "Why might a new student feel nervous on their first day?",
+            "answers": [
+              "everything is new to them",
+              "they do not know anyone yet"
+            ]
+          },
+          {
+            "prompt": "How can including someone in a game help them feel welcome?",
+            "answers": [
+              "it helps them feel included",
+              "it makes them feel part of the group"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "label": "Day 109 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Author Message: What Is the Story Teaching Us",
+        "summary": "Students learn to think about the message or lesson an author wants readers to take away from a story, sometimes called the moral or big idea.",
+        "resourceLabel": "YouTube: Author Message: What Is the Story Teaching Us",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Author%20Message%3A%20What%20Is%20the%20Story%20Teaching%20Us%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an author message in a story?",
+            "options": [
+              "The colour of the book cover",
+              "The lesson or big idea the author wants readers to take away",
+              "The name of the main character",
+              "The number of pages in the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author write a story about a character who learns to be kind?",
+            "options": [
+              "Authors never include any lessons in stories",
+              "To teach readers a lesson about kindness",
+              "To confuse the reader on purpose",
+              "To make the story longer for no reason"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is most likely a story message?",
+            "options": [
+              "The story was published last year.",
+              "The sky is blue.",
+              "Being honest is important, even when it is hard.",
+              "The book has one hundred pages."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is thinking about an author message helpful when reading a story?",
+            "options": [
+              "It only matters for very short stories",
+              "Stories never actually have any message",
+              "It helps readers understand a deeper meaning, not just the events",
+              "It has no connection to understanding a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might two readers find slightly different messages in the same story?",
+            "options": [
+              "Stories never have more than one possible meaning",
+              "Messages are printed directly on the last page of every book",
+              "Readers can connect a story to their own experiences in different ways",
+              "Every reader must always find the exact same message"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call the lesson or big idea an author wants us to learn?",
+            "answers": [
+              "the message",
+              "the moral"
+            ]
+          },
+          {
+            "prompt": "Why might an author write a story with a message?",
+            "answers": [
+              "to teach the reader something",
+              "to share a lesson"
+            ]
+          },
+          {
+            "prompt": "Name a possible message a story about sharing might teach.",
+            "answers": [
+              "sharing is kind",
+              "it is good to share"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Combining Coins and Bills to Make an Amount",
+        "summary": "Students practise combining different coins, like nickels and dimes, along with a one-dollar bill, to make a specific total amount of money.",
+        "resourceLabel": "YouTube: Combining Coins and Bills to Make an Amount",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Combining%20Coins%20and%20Bills%20to%20Make%20an%20Amount%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How much is one dime worth?",
+            "options": [
+              "5 cents",
+              "25 cents",
+              "10 cents",
+              "1 cent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you have 2 dimes and 1 nickel, how much money do you have?",
+            "options": [
+              "30 cents",
+              "25 cents",
+              "20 cents",
+              "15 cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you have a one-dollar bill and 3 dimes, how much money do you have in total?",
+            "options": [
+              "30 cents only",
+              "3 dollars and 10 cents",
+              "1 dollar and 30 cents",
+              "1 dollar and 3 cents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which combination of coins makes exactly 15 cents?",
+            "options": [
+              "One dime and one nickel",
+              "Three nickels and a dime",
+              "Two dimes",
+              "One dime alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to practise combining coins and bills to make an amount?",
+            "options": [
+              "It helps us understand how to pay for things in everyday life",
+              "This skill is only useful for very large amounts of money",
+              "Coins and bills are never actually combined in real life",
+              "It has no connection to using money"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many cents is one dime worth?",
+            "answers": [
+              "10",
+              "ten cents"
+            ]
+          },
+          {
+            "prompt": "How many cents is one nickel worth?",
+            "answers": [
+              "5",
+              "five cents"
+            ]
+          },
+          {
+            "prompt": "If you have one dollar bill and one dime, how much money do you have in total?",
+            "answers": [
+              "1 dollar and 10 cents",
+              "$1.10"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ants: Tiny but Mighty Workers",
+        "summary": "Students learn that ants are insects that live and work together in large colonies, sharing jobs like gathering food, building tunnels, and caring for young ants.",
+        "resourceLabel": "YouTube: Ants: Tiny but Mighty Workers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ants%3A%20Tiny%20but%20Mighty%20Workers%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What kind of animal is an ant?",
+            "options": [
+              "A bird",
+              "A reptile",
+              "An insect",
+              "A mammal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do ants usually live alone or in large groups?",
+            "options": [
+              "Only in pairs of two",
+              "Ants never live anywhere at all",
+              "In large groups called colonies",
+              "Always completely alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Name one job that ants might share within their colony.",
+            "options": [
+              "Gathering food",
+              "Flying airplanes",
+              "Building houses out of bricks",
+              "Driving cars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might ants be able to carry objects much heavier than their own body?",
+            "options": [
+              "Ants have strong muscles compared to their small size",
+              "Ants only carry things lighter than a single grain of sand",
+              "Ants are never able to carry anything at all",
+              "This has no connection to how ants are built"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is working together in a colony helpful for ants?",
+            "options": [
+              "Colonies have no real purpose for ants",
+              "Working together never helps any animal survive",
+              "Sharing jobs helps the whole colony survive and find enough food",
+              "Ants always work completely alone with no cooperation"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Are ants insects or mammals?",
+            "answers": [
+              "insects"
+            ]
+          },
+          {
+            "prompt": "Do ants usually live alone or in large groups called colonies?",
+            "answers": [
+              "in large groups",
+              "colonies"
+            ]
+          },
+          {
+            "prompt": "Name one job an ant might do, like gathering food.",
+            "answers": [
+              "gathering food",
+              "building tunnels",
+              "caring for young ants"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Taking Care of Shared Spaces: Parks and Playgrounds",
+        "summary": "Students learn that parks and playgrounds are shared spaces that everyone in a community can enjoy, and that taking care of them helps keep them nice for everyone.",
+        "resourceLabel": "YouTube: Taking Care of Shared Spaces: Parks and Playgrounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Taking%20Care%20of%20Shared%20Spaces%3A%20Parks%20and%20Playgrounds%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a shared space, like a park or playground?",
+            "options": [
+              "A space no one is allowed to enter",
+              "A space only one family is allowed to use",
+              "A private backyard",
+              "A place everyone in the community can use and enjoy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to take care of shared spaces like parks?",
+            "options": [
+              "Taking care of shared spaces has no real benefit",
+              "So they stay clean and enjoyable for everyone in the community",
+              "Shared spaces never need any care at all",
+              "Only one person is responsible for a whole park"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a way to help take care of a playground?",
+            "options": [
+              "Ignoring any mess that is made",
+              "Picking up litter and putting it in the bin",
+              "Breaking playground equipment on purpose",
+              "Leaving garbage on the ground"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a park feel less enjoyable if people do not take care of it?",
+            "options": [
+              "Taking care of a park never changes how it feels to visit",
+              "Litter or damage can make the space unpleasant or unsafe to use",
+              "Parks are never affected by how people treat them",
+              "A messy park always feels exactly the same as a clean one"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is caring for shared spaces considered a responsibility of the whole community?",
+            "options": [
+              "Community members have no role in caring for shared spaces",
+              "Shared spaces have no connection to the community",
+              "Everyone uses and benefits from these spaces, so everyone can help keep them nice",
+              "Only city workers are ever responsible for shared spaces"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one shared space in a community, like a park.",
+            "answers": [
+              "a park",
+              "a playground"
+            ]
+          },
+          {
+            "prompt": "Why should we take care of shared spaces like parks?",
+            "answers": [
+              "so everyone can enjoy them",
+              "to keep them nice for everyone"
+            ]
+          },
+          {
+            "prompt": "Name one way to take care of a park, like picking up litter.",
+            "answers": [
+              "picking up litter",
+              "not littering",
+              "being gentle with equipment"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "label": "Day 110 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Nouns, Sentences, and Story Elements",
+        "summary": "Students review recent Language topics: possessive nouns, sequencing in nonfiction, exclamatory sentences, word families, setting, blends, common and proper nouns, story problem and solution, and author message.",
+        "resourceLabel": "YouTube: Language Review: Nouns, Sentences, and Story Elements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Nouns%2C%20Sentences%2C%20and%20Story%20Elements%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which phrase correctly shows ownership?",
+            "options": [
+              "Ball Mia",
+              "The ball Mia",
+              "Mia ball",
+              "Mias ball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is exclamatory?",
+            "options": [
+              "We might win",
+              "We won the game!",
+              "We won the game.",
+              "Did we win?"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a proper noun?",
+            "options": [
+              "Toronto",
+              "city",
+              "school",
+              "dog"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call the trouble a character faces in a story?",
+            "options": [
+              "The author",
+              "The title",
+              "The cover",
+              "The problem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call the lesson an author wants readers to learn?",
+            "options": [
+              "The setting only",
+              "The cover colour",
+              "The message",
+              "The page number"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we add to a name to show ownership, like Sams hat?",
+            "answers": [
+              "apostrophe s",
+              "s"
+            ]
+          },
+          {
+            "prompt": "What punctuation mark ends an exclamatory sentence?",
+            "answers": [
+              "exclamation mark",
+              "!"
+            ]
+          },
+          {
+            "prompt": "What does the setting of a story tell us?",
+            "answers": [
+              "where and when it happens",
+              "where a story takes place"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Place Value, Operations, and Data",
+        "summary": "Students review recent Math topics: place value to 200, two-digit addition and subtraction, line plots, comparing 2D and 3D shapes, estimating, counting to 200, fact families, and combining coins.",
+        "resourceLabel": "YouTube: Math Review: Place Value, Operations, and Data",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Place%20Value%2C%20Operations%2C%20and%20Data%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "In the number 174, how many hundreds are there?",
+            "options": [
+              "7",
+              "0",
+              "4",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 12 plus 24?",
+            "options": [
+              "34",
+              "35",
+              "36",
+              "38"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a 3D shape?",
+            "options": [
+              "A rectangle",
+              "A sphere",
+              "A circle",
+              "A triangle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an estimate?",
+            "options": [
+              "A reasonable guess made before measuring exactly",
+              "A type of shape",
+              "An exact measurement",
+              "A number pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 8 plus 9 equals 17, what subtraction fact is in the same fact family?",
+            "options": [
+              "17 minus 9 equals 8",
+              "8 minus 9 equals negative 1",
+              "17 minus 8 equals 9 only",
+              "9 minus 8 equals 1"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "In the number 156, how many hundreds are there?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "What is 23 plus 15?",
+            "answers": [
+              "38",
+              "thirty-eight"
+            ]
+          },
+          {
+            "prompt": "How many cents is one dime worth?",
+            "answers": [
+              "10",
+              "ten cents"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Our Bodies, Animals, and Energy",
+        "summary": "Students review recent Science topics: skin, owls, bats, frog life cycles, penguins, simple circuits, wind, animal tracks, and ants.",
+        "resourceLabel": "YouTube: Science Review: Our Bodies, Animals, and Energy",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Animals%2C%20and%20Energy%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the largest organ of our body?",
+            "options": [
+              "Brain",
+              "Skin",
+              "Heart",
+              "Lungs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When do owls usually hunt for food?",
+            "options": [
+              "Only at noon",
+              "At night",
+              "Only underwater",
+              "Never"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the first stage of a frogs life cycle?",
+            "options": [
+              "Adult frog",
+              "Froglet",
+              "Egg",
+              "Tadpole"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can penguins fly through the air?",
+            "options": [
+              "Only at night",
+              "Only in summer",
+              "No",
+              "Yes, very high"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of animal is an ant?",
+            "options": [
+              "An insect",
+              "A mammal",
+              "A bird",
+              "A reptile"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the largest organ of our body?",
+            "answers": [
+              "skin"
+            ]
+          },
+          {
+            "prompt": "Do bats use echolocation to find food in the dark?",
+            "answers": [
+              "yes"
+            ]
+          },
+          {
+            "prompt": "What is wind?",
+            "answers": [
+              "moving air",
+              "air that moves"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Community, Money, and Culture",
+        "summary": "Students review recent Social Studies topics: municipal services, Canadas territories, bartering, community centres, winter celebrations, official languages, and shared spaces.",
+        "resourceLabel": "YouTube: Social Studies Review: Community, Money, and Culture",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%2C%20Money%2C%20and%20Culture%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a municipal service?",
+            "options": [
+              "A service a local government provides, like garbage pickup",
+              "A type of food",
+              "A toy sold in stores",
+              "A kind of weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many territories does Canada have?",
+            "options": [
+              "Three",
+              "Ten",
+              "Thirteen",
+              "One"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is bartering?",
+            "options": [
+              "Giving goods away for free",
+              "A type of modern online shopping",
+              "Buying goods only with coins",
+              "Trading goods directly without using money"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which two languages are Canadas official languages?",
+            "options": [
+              "English and Spanish",
+              "English only",
+              "French and German",
+              "English and French"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to take care of shared spaces like parks?",
+            "options": [
+              "Taking care of shared spaces has no real benefit",
+              "Shared spaces never need any care at all",
+              "Only one person is responsible for a whole park",
+              "So they stay clean and enjoyable for everyone in the community"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one municipal service, like garbage pickup.",
+            "answers": [
+              "garbage pickup",
+              "clean water",
+              "road repairs"
+            ]
+          },
+          {
+            "prompt": "How many official languages does Canada have?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          },
+          {
+            "prompt": "Name one shared space in a community, like a park.",
+            "answers": [
+              "a park",
+              "a playground"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]

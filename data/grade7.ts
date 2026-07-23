@@ -3929,6 +3929,386 @@ const curriculum: DayContent[] = [
      {q:"What was the Oka Crisis?", options:["A dispute over a new highway in British Columbia","A trade disagreement between Canada and the United States","A land dispute between the Mohawk community of Kanesatake and the town of Oka","A concept unrelated to Canadian history"], answer:2}
    ]},
 ]},
+{day:101, label:"Day 101 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Participial Phrases", summary:"Grade 7 Language strand: a participial phrase begins with a present or past participle, a verb ending in -ing or -ed, and acts as an adjective to describe a noun, such as Laughing loudly, the children ran across the yard.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does a participial phrase begin with?", options:["A prepositional phrase only","A present or past participle","A coordinating conjunction","A concept unrelated to grammar"], answer:1},
+     {q:"In the sentence Exhausted from the race, Maria collapsed on the couch, what is the participial phrase?", options:["A concept unrelated to participial phrases","Maria collapsed","Exhausted from the race","On the couch"], answer:2},
+     {q:"Does a participial phrase function as an adjective, describing a noun?", options:["A concept unrelated to participial phrases","Yes","It always functions as an adverb only","No, it always functions as a verb"], answer:1},
+     {q:"Why might a writer use a participial phrase instead of two separate short sentences?", options:["It can combine related ideas smoothly and add descriptive detail","Participial phrases always make writing choppier","This concept has no connection to grammar","Two short sentences are always clearer than one combined sentence"], answer:0},
+     {q:"Which sentence correctly uses a participial phrase?", options:["The dog running chased down hill the ball.","Down the hill running chased the dog ball.","Running down the hill the dog the ball chased.","Running down the hill, the dog chased the ball."], answer:3}
+   ]},
+  {subject:"Math", title:"Multiplying a Monomial by a Polynomial", summary:"Grade 7 Math strand: to multiply a monomial by a polynomial, the distributive property is applied so that the monomial multiplies every term inside the polynomial, such as 3x times (2x plus 5) equals 6x squared plus 15x.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What property is applied when multiplying a monomial by a polynomial?", options:["A concept unrelated to algebra","The distributive property","The property of subtraction","The associative property only"], answer:1},
+     {q:"What is 3x times (2x plus 5)?", options:["5x squared plus 15","6x plus 15x","6x squared plus 15x","2x squared plus 5x"], answer:2},
+     {q:"Does the monomial need to multiply every single term inside the polynomial?", options:["Only the last term needs to be multiplied","Yes","No, only the first term needs to be multiplied","A concept unrelated to multiplying polynomials"], answer:1},
+     {q:"Why is it important to keep track of signs when multiplying a monomial by a polynomial containing subtraction?", options:["Subtraction is never involved in this type of problem","A missed negative sign can change the value of a term in the result","This concept has no connection to algebra","Signs never affect the result of multiplication"], answer:1},
+     {q:"What is 4y times (y minus 3)?", options:["y squared minus 12y","4y squared minus 3","4y squared minus 12y","4y minus 12y"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Electromagnetic Spectrum and Visible Light", summary:"Grade 7 Science strand: the electromagnetic spectrum is the full range of electromagnetic waves, from radio waves to gamma rays, and visible light is only the small portion of that spectrum that human eyes can detect.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is the electromagnetic spectrum?", options:["A tool used only to measure temperature","A concept unrelated to science","The full range of electromagnetic waves, from radio waves to gamma rays","A single type of visible light only"], answer:2},
+     {q:"Is visible light only a small portion of the entire electromagnetic spectrum?", options:["Visible light and the spectrum are unrelated ideas","No, visible light makes up the entire spectrum","Yes","A concept unrelated to the electromagnetic spectrum"], answer:2},
+     {q:"Which of these has a longer wavelength than visible light?", options:["X-rays","Radio waves","Ultraviolet light","Gamma rays"], answer:1},
+     {q:"Why can humans see visible light but not other parts of the electromagnetic spectrum, like radio waves?", options:["Human eyes contain receptors that only respond to a narrow range of wavelengths","Radio waves and visible light are exactly the same thing","Human eyes can detect every part of the electromagnetic spectrum equally","This concept has no connection to biology"], answer:0},
+     {q:"Why might doctors use X-rays, a higher-energy part of the spectrum, to see inside the human body?", options:["X-rays are never able to pass through any part of the human body","X-rays can pass through soft tissue but are absorbed by denser material like bone, creating an image","X-rays and visible light behave in exactly the same way inside the body","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Winnipeg General Strike of 1919", summary:"Grade 7 Social Studies strand: the Winnipeg General Strike of 1919 was a massive labour strike in which tens of thousands of workers walked off their jobs to demand better wages, working conditions, and the right to collective bargaining.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Winnipeg General Strike of 1919?", options:["A concept unrelated to Canadian history","A sports competition held across the prairies","A massive labour strike where tens of thousands of workers walked off their jobs","A festival celebrating the founding of Winnipeg"], answer:2},
+     {q:"In what year did the Winnipeg General Strike take place?", options:["1931","1867","1867","1919"], answer:3},
+     {q:"Did workers in the strike demand better wages and working conditions?", options:["A concept unrelated to the Winnipeg General Strike","Yes","No, workers had no demands at all","Workers were protesting a change to the school calendar"], answer:1},
+     {q:"Why might the Winnipeg General Strike be considered an important moment in Canadian labour history?", options:["The strike involved only a handful of workers with no impact","It had no lasting effect on labour rights in Canada","It showed the scale of worker frustration and helped shape future labour rights movements in Canada","This concept has no relevance to social studies"], answer:2},
+     {q:"Why might a strike involving tens of thousands of workers have significantly disrupted the city of Winnipeg?", options:["Essential services and businesses could not operate normally without workers on the job","This concept has no connection to Canadian history","A strike of this size never affects how a city functions","Only a single business in Winnipeg was affected by the strike"], answer:0}
+   ]},
+]},
+{day:102, label:"Day 102 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Onomatopoeia and Sound Devices", summary:"Grade 7 Language strand: onomatopoeia is a word that imitates the sound it describes, such as buzz or crash, and is one of several sound devices writers use, along with alliteration and assonance, to create vivid imagery.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is onomatopoeia?", options:["A word that always rhymes with another word","A concept unrelated to vocabulary","A word with no connection to sound at all","A word that imitates the sound it describes"], answer:3},
+     {q:"Which of these words is an example of onomatopoeia?", options:["Quickly","Beautiful","Buzz","Happy"], answer:2},
+     {q:"Is alliteration another example of a sound device used in writing?", options:["Alliteration only appears in mathematics texts","Yes","No, alliteration is never considered a sound device","A concept unrelated to sound devices"], answer:1},
+     {q:"Why might a poet use onomatopoeia when describing a thunderstorm?", options:["It can help readers imagine the actual sounds of the storm more vividly","Onomatopoeia is only used in scientific writing","This concept has no connection to vocabulary","Onomatopoeia never adds any vividness to writing"], answer:0},
+     {q:"Which sentence uses onomatopoeia?", options:["The bacon smelled good.","The bacon sizzled in the pan.","The bacon cooked in the pan.","The bacon was on the pan."], answer:1}
+   ]},
+  {subject:"Math", title:"Central Angles and Arcs of a Circle", summary:"Grade 7 Math strand: a central angle is an angle whose vertex is at the centre of a circle, and the arc it creates has a measure equal to the central angle, allowing students to relate angle measure to a fraction of the circle.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"Where is the vertex of a central angle located?", options:["Outside of the circle entirely","On the outer edge of a circle","At the centre of a circle","A concept unrelated to circles"], answer:2},
+     {q:"Is the measure of an arc equal to the measure of its corresponding central angle?", options:["No, an arc and its central angle are never related","An arc is always twice the measure of its central angle","Yes","A concept unrelated to central angles"], answer:2},
+     {q:"If a central angle measures 90 degrees, what fraction of the full circle does its arc represent?", options:["One third","One half","One eighth","One quarter"], answer:3},
+     {q:"Why might understanding central angles help when calculating the length of an arc?", options:["This concept has no connection to geometry","The central angle tells you what fraction of the full circle’s circumference the arc represents","Central angles never relate to the length of an arc","Arc length can only be measured using a ruler, never an angle"], answer:1},
+     {q:"If a full circle is 360 degrees and a central angle measures 60 degrees, what fraction of the circle does that angle represent?", options:["One sixth","One quarter","One half","One third"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Cloud Types and Precipitation", summary:"Grade 7 Science strand: clouds form when water vapour condenses around tiny particles in the air, and different cloud types, such as cumulus, stratus, and cirrus, can indicate different weather patterns and types of precipitation.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What happens when water vapour condenses around tiny particles in the air?", options:["The temperature always drops to freezing","Clouds form","The air becomes completely dry","A concept unrelated to weather"], answer:1},
+     {q:"Which cloud type is often associated with fair weather and a puffy, cotton-like appearance?", options:["Cumulus","Stratus","Nimbus only","Cirrus"], answer:0},
+     {q:"Can different cloud types indicate different weather patterns?", options:["No, cloud type never relates to weather patterns","Every cloud type always predicts the exact same weather","A concept unrelated to clouds","Yes"], answer:3},
+     {q:"Why might dark, thick clouds often signal an approaching storm?", options:["Cloud thickness has no relationship to precipitation","Dark clouds never contain any moisture at all","This concept has no connection to weather","Thicker clouds can hold more moisture, which may fall as rain or other precipitation"], answer:3},
+     {q:"Why do cirrus clouds, found high in the atmosphere, often look thin and wispy?", options:["They are made mostly of ice crystals at a high altitude where temperatures are very cold","Cirrus clouds are always found at ground level","Cirrus clouds are made entirely of liquid water droplets","This concept has no relevance to science"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Halifax Explosion of 1917", summary:"Grade 7 Social Studies strand: the Halifax Explosion of 1917 occurred when two ships collided in Halifax Harbour, one carrying wartime explosives, causing a massive blast that devastated the city and killed nearly 2,000 people.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What caused the Halifax Explosion of 1917?", options:["Two ships collided in Halifax Harbour, one carrying wartime explosives","A concept unrelated to Canadian history","A severe winter storm destroyed the harbour","A fire started in a downtown bakery"], answer:0},
+     {q:"In what year did the Halifax Explosion occur?", options:["1931","1990","1867","1917"], answer:3},
+     {q:"Did the explosion cause significant devastation to the city of Halifax?", options:["A concept unrelated to the Halifax Explosion","No, the city was completely unaffected","Only a small area outside the city was affected","Yes"], answer:3},
+     {q:"Why might the Halifax Explosion be considered one of the largest man-made explosions before the nuclear age?", options:["The explosion released almost no energy at all","This concept has no relevance to social studies","The blast released an enormous amount of energy that flattened much of the city’s north end","The explosion had no lasting effect on the city"], answer:2},
+     {q:"Why might communities across Canada and beyond have sent aid to Halifax after the explosion?", options:["The explosion caused no injuries or damage requiring aid","The scale of destruction and loss of life created an urgent need for emergency support","No aid was ever sent to Halifax after the explosion","This concept has no connection to Canadian history"], answer:1}
+   ]},
+]},
+{day:103, label:"Day 103 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Allusion in Literature", summary:"Grade 7 Language strand: an allusion is a brief reference to a person, place, event, or work of literature that a writer expects the reader to recognize, adding deeper meaning without lengthy explanation.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is an allusion?", options:["A long, detailed explanation of an idea","A footnote that defines a difficult word","A concept unrelated to reading","A brief reference to a person, place, event, or work of literature"], answer:3},
+     {q:"Does an allusion typically rely on the reader already recognizing the reference?", options:["Allusions always explain themselves in full detail","No, allusions never require any background knowledge","Yes","A concept unrelated to allusion"], answer:2},
+     {q:"If a story describes a character’s difficult journey as an odyssey, what classic work is likely being alluded to?", options:["A recent news article","A concept unrelated to allusion","Homer’s Odyssey","A modern comic book"], answer:2},
+     {q:"Why might a writer use allusion instead of explaining an idea in full detail?", options:["Allusion never adds any meaning to a text","It can add deeper meaning quickly by connecting to something readers already know","Explaining an idea in full detail is always more effective than allusion","This concept has no connection to literature"], answer:1},
+     {q:"Why might an allusion fail to add meaning for a reader unfamiliar with the reference?", options:["Allusions always work regardless of a reader’s background knowledge","Every reader automatically recognizes every allusion in a text","This concept has no relevance to reading comprehension","The reader may miss the deeper connection the writer intended to create"], answer:3}
+   ]},
+  {subject:"Math", title:"Solving Equations Using the Distributive Property", summary:"Grade 7 Math strand: some equations require applying the distributive property to remove brackets before combining like terms and isolating the variable, such as solving 2 times (x plus 3) equals 10.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What must often be applied before combining like terms in an equation with brackets?", options:["A concept unrelated to algebra","The commutative property only","The distributive property","A random guess at the variable value"], answer:2},
+     {q:"What is 2 times (x plus 3) after distributing?", options:["2x plus 5","x plus 6","2x plus 3","2x plus 6"], answer:3},
+     {q:"After distributing, does solving the equation usually involve isolating the variable?", options:["Isolating the variable is never necessary in algebra","A concept unrelated to solving equations","No, the variable should always stay mixed with other terms","Yes"], answer:3},
+     {q:"Why might skipping the distributive property lead to an incorrect solution when solving an equation with brackets?", options:["Brackets never affect how an equation should be solved","Skipping this step never changes the final answer","Terms inside the brackets would not be properly multiplied by the number outside","This concept has no connection to algebra"], answer:2},
+     {q:"Solve for x: 3 times (x minus 2) equals 12.", options:["x equals 6","x equals 2","x equals 10","x equals 4"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Renewable Energy: Biomass and Biofuels", summary:"Grade 7 Science strand: biomass energy comes from burning or converting organic material, such as plants and waste, into usable energy, and biofuels are liquid fuels made from that organic material as a renewable alternative to fossil fuels.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does biomass energy come from?", options:["Organic material, such as plants and waste","Only fossil fuels like coal and oil","Nuclear reactions inside a reactor","A concept unrelated to renewable energy"], answer:0},
+     {q:"What are biofuels?", options:["A concept unrelated to biofuels","A type of non-renewable fossil fuel","Liquid fuels made from organic material","Solid rocks used to generate heat"], answer:2},
+     {q:"Are biofuels considered a renewable alternative to fossil fuels?", options:["A concept unrelated to biofuels","Biofuels have no connection to renewable energy","No, biofuels are considered non-renewable","Yes"], answer:3},
+     {q:"Why might crop waste be a useful source of biomass energy?", options:["It can be converted into energy instead of being discarded, reducing waste","Crop waste always has to be sent directly to a landfill","This concept has no connection to renewable energy","Crop waste can never be converted into usable energy"], answer:0},
+     {q:"Why might some critics raise concerns about using food crops to produce large amounts of biofuel?", options:["This concept has no relevance to science","Biofuels are always produced without using any farmland","Using farmland for fuel crops instead of food crops could affect food supply and prices","Growing crops for fuel never has any effect on food supply"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Japanese Canadian Internment During World War II", summary:"Grade 7 Social Studies strand: during World War II, the Canadian government forcibly relocated and interned thousands of Japanese Canadians, confiscating their property, an event now recognized as a serious violation of civil rights.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What happened to thousands of Japanese Canadians during World War II?", options:["They were forcibly relocated and interned by the Canadian government","A concept unrelated to Canadian history","They were given additional land and property","They were granted full voting rights for the first time"], answer:0},
+     {q:"During which conflict did the internment of Japanese Canadians take place?", options:["World War I","World War II","The Korean War","The Cold War"], answer:1},
+     {q:"Did the Canadian government confiscate property belonging to interned Japanese Canadians?", options:["Yes","A concept unrelated to Japanese Canadian internment","No, all property was left untouched","Property was only confiscated from other countries, not Canada"], answer:0},
+     {q:"Why is the internment of Japanese Canadians now recognized as a serious violation of civil rights?", options:["This concept has no relevance to social studies","Citizens were imprisoned and stripped of their property without being charged with any crime","Internment had no effect on the rights of those involved","Every interned person had committed a serious crime"], answer:1},
+     {q:"Why might the Canadian government’s later formal apology for this event be considered significant?", options:["It acknowledged the historical injustice and aimed to provide some measure of restitution to survivors","This concept has no relevance to Canadian history","The government has never acknowledged this event in any way","An apology for this event would have no significance at all"], answer:0}
+   ]},
+]},
+{day:104, label:"Day 104 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Descriptive Essay Using Sensory Details", summary:"Grade 7 Language strand: a descriptive essay uses sensory details, appealing to sight, sound, smell, taste, and touch, to help readers vividly picture a person, place, or experience.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does a descriptive essay primarily use to help readers picture something vividly?", options:["Only statistics and numbers","A concept unrelated to writing","A list of dictionary definitions","Sensory details"], answer:3},
+     {q:"Which of these senses might a descriptive essay appeal to?", options:["A concept unrelated to the senses","Only sight, never any other sense","None of the five senses","Smell"], answer:3},
+     {q:"Should a descriptive essay generally include specific, vivid language rather than vague statements?", options:["Yes","A concept unrelated to descriptive writing","Specific language should always be avoided in essays","No, vague statements are always preferred"], answer:0},
+     {q:"Why might a writer describe the crunch of leaves underfoot rather than simply saying it was fall?", options:["This concept has no connection to writing","Specific sensory details create a more vivid and memorable picture for the reader","Sensory details never make writing more vivid","General statements always create a stronger image than specific details"], answer:1},
+     {q:"Which sentence best demonstrates a sensory detail in descriptive writing?", options:["The beach was nice.","I like going outside.","The salty ocean breeze stung my cheeks as waves crashed nearby.","I went to the beach yesterday."], answer:2}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Unit Rates and Comparison Shopping", summary:"Grade 7 Math strand: a unit rate expresses a cost or quantity per single unit, such as price per 100 grams, allowing shoppers to compare products of different sizes to determine the better value.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a unit rate express?", options:["The total price of every item combined","A cost or quantity per single unit","A concept unrelated to financial literacy","The weight of a product only"], answer:1},
+     {q:"Why are unit rates useful when comparison shopping?", options:["They allow shoppers to compare products of different sizes fairly","Unit rates only apply to a single specific store","This concept has no connection to shopping","Unit rates make it impossible to compare products"], answer:0},
+     {q:"If a 500 g box of cereal costs 5 dollars, what is the unit rate per 100 g?", options:["1 dollar per 100 g","2 dollars per 100 g","5 dollars per 100 g","50 cents per 100 g"], answer:0},
+     {q:"Between a 2 L bottle of juice for 4 dollars and a 3 L bottle for 5 dollars, which has the lower unit rate per litre?", options:["It cannot be determined from this information","The 3 L bottle for 5 dollars","They have the exact same unit rate","The 2 L bottle for 4 dollars"], answer:1},
+     {q:"Why might calculating unit rates help a shopper make a more informed decision than simply comparing total prices?", options:["Unit rates are never useful for making shopping decisions","Total price always gives the exact same information as a unit rate","This concept has no connection to financial literacy","Total price alone does not account for differences in package size"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Enzymes as Biological Catalysts", summary:"Grade 7 Science strand: enzymes are proteins that act as biological catalysts, speeding up chemical reactions in the body, such as breaking down food during digestion, without being used up in the process.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What are enzymes?", options:["Proteins that act as biological catalysts","Minerals found only in rocks","A concept unrelated to biology","A type of carbohydrate found in bread"], answer:0},
+     {q:"What do enzymes do to chemical reactions in the body?", options:["Slow them down permanently","Speed them up","A concept unrelated to enzymes","Stop them from happening entirely"], answer:1},
+     {q:"Is an enzyme used up during the chemical reaction it speeds up?", options:["Yes, enzymes are always used up completely","No","A concept unrelated to enzymes","Enzymes disappear entirely after a single reaction"], answer:1},
+     {q:"Why might enzymes in saliva help begin the digestion of food before it even reaches the stomach?", options:["Digestion only begins after food reaches the stomach","They start breaking down certain molecules, like starches, as soon as food is chewed","This concept has no connection to biology","Saliva never contains any enzymes at all"], answer:1},
+     {q:"Why might a change in temperature affect how well an enzyme functions?", options:["Enzymes always function identically at any temperature","This concept has no relevance to science","Temperature never has any effect on how an enzyme works","Enzymes often work best within a specific temperature range, and extreme temperatures can change their shape"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Bill of Rights (1960)", summary:"Grade 7 Social Studies strand: the Canadian Bill of Rights, passed in 1960, was one of the first federal laws to protect individual rights and freedoms in Canada, later influencing the creation of the Charter of Rights and Freedoms in 1982.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In what year was the Canadian Bill of Rights passed?", options:["1931","1867","1982","1960"], answer:3},
+     {q:"What did the Canadian Bill of Rights aim to protect?", options:["Foreign trade agreements","Provincial boundaries","Individual rights and freedoms","A concept unrelated to Canadian history"], answer:2},
+     {q:"Did the Canadian Bill of Rights later influence the creation of the Charter of Rights and Freedoms?", options:["No, the two documents are completely unrelated","A concept unrelated to the Canadian Bill of Rights","Yes","The Charter was created decades before the Bill of Rights"], answer:2},
+     {q:"Why might the Canadian Bill of Rights be considered an important step even though it had some limitations compared to the later Charter?", options:["It had no impact whatsoever on Canadian law","It was one of the first federal laws to formally recognize the protection of individual rights in Canada","It removed all individual rights that existed before 1960","This concept has no relevance to social studies"], answer:1},
+     {q:"Why might a law that only applied to federal matters have been seen as limited protection for all Canadians?", options:["Provincial laws were always automatically covered by federal legislation","Every Canadian law applies equally to federal and provincial matters","Provincial laws and matters were not covered, leaving some rights issues unaddressed","This concept has no connection to Canadian history"], answer:2}
+   ]},
+]},
+{day:105, label:"Day 105 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Political Cartoons", summary:"Grade 7 Language strand: a political cartoon uses images, symbols, and exaggeration to express an opinion about a current event or issue, requiring readers to interpret visual clues alongside any text.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does a political cartoon use to express an opinion?", options:["Images, symbols, and exaggeration","Only long paragraphs of formal text","A detailed bibliography of sources","A concept unrelated to media literacy"], answer:0},
+     {q:"Does interpreting a political cartoon often require understanding symbols?", options:["No, symbols are never used in political cartoons","Political cartoons never contain any hidden meaning","A concept unrelated to political cartoons","Yes"], answer:3},
+     {q:"Why might a cartoonist use exaggeration when drawing a political figure?", options:["This concept has no connection to media literacy","Exaggeration never adds meaning to a cartoon","It can emphasize a particular trait or point of view for humorous or critical effect","Cartoonists are required to draw figures with total realism"], answer:2},
+     {q:"Why is background knowledge of a current event often necessary to fully understand a political cartoon?", options:["Every viewer understands a political cartoon in exactly the same way regardless of context","This concept has no relevance to media literacy","The cartoon’s meaning often depends on recognizing the specific issue or people being referenced","Political cartoons never reference any real events"], answer:2},
+     {q:"Which of these is most likely a feature found in a political cartoon?", options:["A detailed scientific diagram","A recipe for a meal","A weather forecast map","A caricature of a public figure with exaggerated features"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Histograms and Grouped Frequency Data", summary:"Grade 7 Math strand: a histogram displays grouped numerical data as adjacent bars, where each bar represents a range of values, making it useful for showing the distribution of continuous data such as test scores or heights.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a histogram display?", options:["A single number with no other data","Grouped numerical data as adjacent bars","A concept unrelated to data","Only categorical data with no numerical values"], answer:1},
+     {q:"In a histogram, what does each bar typically represent?", options:["A concept unrelated to histograms","A single exact value only","A completely unrelated category","A range of values"], answer:3},
+     {q:"Are the bars in a histogram usually drawn touching each other, without gaps?", options:["Yes","Histograms never use bars of any kind","No, histogram bars always have large gaps between them","A concept unrelated to histograms"], answer:0},
+     {q:"Why might a histogram be useful for displaying a large set of continuous data, like the heights of 100 students?", options:["Continuous data can never be displayed using a histogram","Histograms make large data sets impossible to interpret","Grouping the data into ranges makes patterns easier to see than listing every individual value","This concept has no connection to data analysis"], answer:2},
+     {q:"Why is a histogram different from a bar graph that compares separate categories?", options:["This concept has no relevance to math","A histogram groups continuous numerical data into ranges rather than comparing distinct categories","A histogram and a bar graph are always exactly the same thing","A histogram can only display a single data value at a time"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Mineral Identification and Properties", summary:"Grade 7 Science strand: minerals can be identified by testing physical properties such as hardness, streak colour, and lustre, allowing scientists to distinguish between different minerals even when they look similar.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What can be tested to help identify a mineral?", options:["The mineral’s distance from the ocean","Physical properties such as hardness, streak colour, and lustre","Only the mineral’s exact weight in grams","A concept unrelated to earth science"], answer:1},
+     {q:"What is streak colour?", options:["The colour of the powder left when a mineral is scratched across a rough surface","A concept unrelated to minerals","The colour of a mineral seen from a distance","The colour of a mineral only when wet"], answer:0},
+     {q:"Can two minerals that look similar in colour sometimes be told apart using a hardness test?", options:["Yes","No, hardness never helps distinguish between minerals","Colour is the only property that ever matters","A concept unrelated to mineral identification"], answer:0},
+     {q:"Why might a geologist use the Mohs hardness scale when identifying an unknown mineral?", options:["This concept has no relevance to science","It provides a standard way to compare how easily a mineral can be scratched","The Mohs scale has no connection to identifying minerals","Hardness can only be measured using a microscope"], answer:1},
+     {q:"Why is testing multiple properties, rather than just one, often necessary to correctly identify a mineral?", options:["This concept has no connection to earth science","A single property is always enough to identify any mineral","Some minerals can share one property, like colour, but differ in others, like hardness or lustre","Minerals never share any properties with one another"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Indian Act and Its Historical Impact", summary:"Grade 7 Social Studies strand: the Indian Act, first passed in 1876, is Canadian federal legislation that has controlled many aspects of the lives of First Nations peoples, and its ongoing impact remains an important part of understanding Indigenous rights today.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is the Indian Act?", options:["A concept unrelated to Canadian history","A trade agreement between Canada and another country","A provincial law about highway construction","Canadian federal legislation that has controlled many aspects of the lives of First Nations peoples"], answer:3},
+     {q:"In what year was the Indian Act first passed?", options:["1995","1931","1756","1876"], answer:3},
+     {q:"Does the Indian Act continue to have an impact on Indigenous rights today?", options:["A concept unrelated to the Indian Act","No, the Indian Act was repealed long ago and has no impact","Yes","The Indian Act has never affected Indigenous peoples in any way"], answer:2},
+     {q:"Why might the Indian Act be considered a controversial piece of legislation in Canadian history?", options:["It gave the federal government significant control over the lives of First Nations peoples without their consent","It had no effect on the daily lives of First Nations peoples","It was created entirely by First Nations peoples for their own benefit","This concept has no relevance to social studies"], answer:0},
+     {q:"Why is understanding the Indian Act important for learning about the relationship between the Canadian government and Indigenous peoples?", options:["This concept has no relevance to Canadian history","The relationship between the government and Indigenous peoples has never involved any legislation","The Indian Act has no connection to Indigenous rights or self-government","It helps explain many of the historical policies and ongoing issues affecting Indigenous rights and self-government"], answer:3}
+   ]},
+]},
+{day:106, label:"Day 106 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Using Ellipses and Parentheses", summary:"Grade 7 Language strand: an ellipsis, three spaced dots, shows that words have been omitted or a thought trails off, while parentheses set off extra, non-essential information within a sentence.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does an ellipsis show?", options:["A concept unrelated to grammar","That words have been omitted or a thought trails off","That a word has been spelled incorrectly","That a sentence must always end immediately"], answer:1},
+     {q:"What do parentheses set off in a sentence?", options:["Extra, non-essential information","A concept unrelated to parentheses","A sentence’s subject only","The single most important word in a sentence"], answer:0},
+     {q:"Is an ellipsis typically made up of three spaced dots?", options:["Yes","No, an ellipsis is always a single dash","An ellipsis is always exactly five dots","A concept unrelated to ellipses"], answer:0},
+     {q:"Why might a writer use parentheses to add a brief fact instead of writing a whole new sentence?", options:["Parentheses should never be used to add extra information","Parentheses always make a sentence harder to understand","This concept has no connection to grammar","It can add relevant detail without interrupting the main flow of the sentence"], answer:3},
+     {q:"Which sentence correctly uses parentheses?", options:["My favourite city (which I have visited twice) is Vancouver.","My favourite city which I have visited twice is Vancouver (.)","My (favourite) city which I have visited twice is Vancouver.","My favourite city (is Vancouver which I have visited twice)"], answer:0}
+   ]},
+  {subject:"Math", title:"The Exterior Angle Theorem for Triangles", summary:"Grade 7 Math strand: the exterior angle theorem states that an exterior angle of a triangle is equal to the sum of the two non-adjacent interior angles, providing a shortcut for solving certain angle problems.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does the exterior angle theorem state?", options:["A concept unrelated to geometry","An exterior angle is always smaller than any interior angle","An exterior angle of a triangle equals the sum of the two non-adjacent interior angles","All exterior angles of a triangle are always equal to 90 degrees"], answer:2},
+     {q:"If the two non-adjacent interior angles of a triangle measure 50 degrees and 60 degrees, what is the exterior angle?", options:["110 degrees","100 degrees","120 degrees","130 degrees"], answer:0},
+     {q:"Is an exterior angle formed by extending one side of a triangle?", options:["A concept unrelated to exterior angles","An exterior angle is always located inside the triangle","Yes","No, an exterior angle is never formed this way"], answer:2},
+     {q:"Why might the exterior angle theorem be a useful shortcut instead of always using the fact that interior angles sum to 180 degrees?", options:["It allows a missing angle to be found directly without extra subtraction steps","The interior angles of a triangle never actually sum to 180 degrees","The exterior angle theorem never simplifies solving for a missing angle","This concept has no connection to geometry"], answer:0},
+     {q:"If an exterior angle measures 130 degrees and one non-adjacent interior angle measures 70 degrees, what is the other non-adjacent interior angle?", options:["70 degrees","80 degrees","60 degrees","50 degrees"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Pendulums and Periodic Motion", summary:"Grade 7 Science strand: a pendulum swings back and forth in a repeating pattern called periodic motion, and the time it takes to complete one full swing, called its period, depends mainly on the length of the pendulum.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is periodic motion?", options:["A repeating pattern of motion, like a pendulum swinging back and forth","Motion that only ever happens once","Motion that never follows any pattern","A concept unrelated to physics"], answer:0},
+     {q:"What is the period of a pendulum?", options:["The exact height of the pendulum’s swing","A concept unrelated to pendulums","The time it takes to complete one full swing","The colour of the pendulum’s string"], answer:2},
+     {q:"Does the length of a pendulum mainly affect its period?", options:["No, the length of a pendulum never affects its period","Only the colour of a pendulum affects its period","A concept unrelated to pendulums","Yes"], answer:3},
+     {q:"Why might a longer pendulum take more time to complete one full swing than a shorter pendulum?", options:["Pendulum length has no effect on how far it must travel","A longer pendulum has farther to travel in each swing, increasing the time of its period","This concept has no connection to physics","A longer pendulum always swings at exactly the same speed as a shorter one"], answer:1},
+     {q:"Why do old mechanical clocks sometimes use a pendulum to help keep accurate time?", options:["A pendulum’s period changes randomly and cannot be relied upon","A pendulum’s period stays fairly consistent, allowing it to reliably mark equal intervals of time","This concept has no relevance to science","Pendulums have never been used in any type of clock"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Numbered Treaties and Treaty Rights", summary:"Grade 7 Social Studies strand: the Numbered Treaties were a series of agreements made between the Canadian government and First Nations between 1871 and 1921, addressing land use and rights, though their interpretation and fulfillment remain important ongoing issues.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What were the Numbered Treaties?", options:["A concept unrelated to Canadian history","A list of provincial highway numbers","A set of trade tariffs with the United States","A series of agreements made between the Canadian government and First Nations"], answer:3},
+     {q:"Between what years were the Numbered Treaties signed?", options:["1600 and 1700","1871 and 1921","1980 and 2000","1812 and 1815"], answer:1},
+     {q:"Did the Numbered Treaties address issues related to land use and rights?", options:["No, the treaties had no connection to land at all","The treaties only addressed matters of foreign trade","Yes","A concept unrelated to the Numbered Treaties"], answer:2},
+     {q:"Why do questions about the interpretation and fulfillment of the Numbered Treaties remain important today?", options:["Every detail of the treaties has already been fully resolved with no disagreement","This concept has no relevance to social studies","The Numbered Treaties have no connection to Indigenous rights today","Disagreements about what was originally promised continue to affect Indigenous rights and land claims"], answer:3},
+     {q:"Why might First Nations and the Canadian government sometimes have different understandings of what a treaty promised?", options:["Every treaty was always understood in exactly the same way by all parties","This concept has no connection to Canadian history","Oral agreements and written text may not have fully matched the original spoken intentions of all parties","Treaties were always written and agreed upon with no possibility of misunderstanding"], answer:2}
+   ]},
+]},
+{day:107, label:"Day 107 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Colloquialisms and Regional Dialects", summary:"Grade 7 Language strand: a colloquialism is an informal word or expression used in everyday conversation that may be specific to a particular region or dialect, such as pop versus soda for a carbonated drink.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a colloquialism?", options:["A formal term used only in academic writing","A word that has only one possible meaning","An informal word or expression used in everyday conversation","A concept unrelated to vocabulary"], answer:2},
+     {q:"Can a colloquialism vary depending on the region or dialect where it is used?", options:["Yes","A concept unrelated to colloquialisms","Colloquialisms never change based on location","No, colloquialisms are always identical everywhere"], answer:0},
+     {q:"Which of these word pairs is an example of regional colloquial variation for the same object?", options:["Run and jump","Book and pencil","Happy and sad","Pop and soda"], answer:3},
+     {q:"Why might a colloquialism be considered less appropriate in a formal essay than in casual conversation?", options:["Formal writing never has any expectations about word choice","Colloquialisms are always required in formal essays","Formal writing typically favours standard, widely understood language over informal regional expressions","This concept has no connection to vocabulary"], answer:2},
+     {q:"Why might understanding colloquialisms help someone communicate more naturally with people from a different region?", options:["This concept has no relevance to vocabulary","Recognizing regional expressions can help avoid confusion and connect more easily with local speech patterns","Every region of the world uses identical colloquial expressions","Colloquialisms never affect how people understand each other"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: Mutually Exclusive Events", summary:"Grade 7 Math strand: two events are mutually exclusive if they cannot both happen at the same time, such as rolling a single die and getting both an even number and a 5, and their combined probability is found by adding their individual probabilities.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does it mean for two events to be mutually exclusive?", options:["They always happen at the exact same time","They cannot both happen at the same time","They have no connection to each other whatsoever","A concept unrelated to probability"], answer:1},
+     {q:"If you roll a single die, can rolling an even number and rolling a 5 happen at the same time?", options:["No","Yes, they can always happen together","A concept unrelated to mutually exclusive events","Rolling a die never produces an even number"], answer:0},
+     {q:"How do you find the probability of two mutually exclusive events happening?", options:["Add their individual probabilities","Subtract one probability from the other","Multiply their individual probabilities together","A concept unrelated to probability"], answer:0},
+     {q:"On a single die roll, what is the probability of rolling a 2 or a 3?", options:["2 out of 6","3 out of 6","4 out of 6","1 out of 6"], answer:0},
+     {q:"Why might drawing a red card or a black card from a standard deck be considered mutually exclusive events?", options:["This concept has no connection to probability","A single card is always both red and black at once","A single card cannot be both red and black at the same time","Red and black cards never appear in a standard deck"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Biomagnification of Toxins in Food Chains", summary:"Grade 7 Science strand: biomagnification is the process by which the concentration of a toxin increases at each higher level of a food chain, meaning top predators often accumulate the highest levels of harmful substances.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is biomagnification?", options:["The process by which a toxin disappears completely from an ecosystem","A process that only affects plants, never animals","The process by which the concentration of a toxin increases at each higher level of a food chain","A concept unrelated to biology"], answer:2},
+     {q:"Which organisms in a food chain often accumulate the highest levels of a toxin through biomagnification?", options:["Organisms that never eat any other living things","Top predators","The smallest organisms only","A concept unrelated to biomagnification"], answer:1},
+     {q:"Does the concentration of a toxin generally increase as it moves up a food chain?", options:["No, toxin concentration always decreases up a food chain","Yes","A concept unrelated to biomagnification","Toxin concentration never changes throughout a food chain"], answer:1},
+     {q:"Why might a small amount of a pollutant in water become a much bigger problem for a large predator fish?", options:["Pollutants in water never affect any organism in a food chain","This concept has no connection to biology","Predator fish are always immune to any toxin in their environment","Each organism the predator eats may already contain some of the toxin, so the amount adds up over time"], answer:3},
+     {q:"Why is biomagnification an important concept for understanding the effects of pollution on ecosystems?", options:["This concept has no relevance to science","Biomagnification has no connection to the effects of pollution","Pollution only ever affects the very first organism it touches","It shows how even low levels of pollution can seriously harm organisms higher up the food chain"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The St. Lawrence Seaway and Its Economic Impact", summary:"Grade 7 Social Studies strand: the St. Lawrence Seaway is a system of canals and locks that allows ocean-going ships to travel deep into the interior of North America, greatly boosting trade and industry along the Great Lakes region.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is the St. Lawrence Seaway?", options:["A mountain range along the Canada-US border","A system of canals and locks that allows ships to travel deep into the interior of North America","A national park located in northern Ontario","A concept unrelated to Canadian history"], answer:1},
+     {q:"Does the St. Lawrence Seaway allow ocean-going ships to reach the Great Lakes region?", options:["Yes","A concept unrelated to the St. Lawrence Seaway","No, ships can never reach the Great Lakes from the ocean","The Great Lakes are not connected to the seaway in any way"], answer:0},
+     {q:"What effect has the St. Lawrence Seaway had on trade and industry in the Great Lakes region?", options:["A concept unrelated to the St. Lawrence Seaway","It greatly boosted trade and industry","It had no effect on trade or industry at all","It caused trade and industry in the region to disappear entirely"], answer:1},
+     {q:"Why might locks be a necessary part of the St. Lawrence Seaway’s design?", options:["Water levels along the seaway are always exactly the same everywhere","This concept has no connection to social studies","Locks are only used to prevent ships from entering the waterway","Locks allow ships to be raised or lowered to different water levels along the waterway"], answer:3},
+     {q:"Why might the St. Lawrence Seaway be considered an important joint project between Canada and the United States?", options:["The seaway was built entirely without any international cooperation","Only one country benefits from the seaway, with no involvement from the other","Both countries share the waterway and benefit economically from the trade it supports","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:108, label:"Day 108 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Understanding Genre Conventions in Mystery Fiction", summary:"Grade 7 Language strand: mystery fiction follows certain genre conventions, such as a central puzzle or crime, clues planted throughout the story, red herrings, and a detective or investigator who solves the case.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is often at the centre of a mystery story?", options:["A detailed description of the weather","A concept unrelated to reading","A recipe that characters follow","A puzzle or crime to be solved"], answer:3},
+     {q:"What is a red herring in a mystery story?", options:["A concept unrelated to mystery fiction","The main setting of the story","A clue meant to mislead the reader or investigator","The final solution to the mystery"], answer:2},
+     {q:"Does mystery fiction typically include clues planted throughout the story?", options:["Clues only ever appear at the very end of the story","Yes","No, clues are never included in mystery fiction","A concept unrelated to mystery fiction"], answer:1},
+     {q:"Why might an author include a red herring in a mystery story?", options:["It can build suspense by making readers suspect the wrong solution","Red herrings are never used in mystery fiction","A red herring always reveals the true solution immediately","This concept has no connection to literature"], answer:0},
+     {q:"Why is recognizing genre conventions, like clues and red herrings, helpful when reading a mystery story?", options:["It helps readers actively look for evidence and try to solve the puzzle alongside the characters","This concept has no relevance to reading comprehension","Mystery stories never follow any recognizable conventions","Genre conventions never help a reader understand a mystery story"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Theory: Perfect Cubes and Cube Roots", summary:"Grade 7 Math strand: a perfect cube is a number produced by multiplying an integer by itself three times, such as 8 being 2 cubed, and the cube root reverses that operation to find the original number.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is a perfect cube?", options:["A concept unrelated to number theory","A number that can never be divided evenly","Any number that is divisible by 3","A number produced by multiplying an integer by itself three times"], answer:3},
+     {q:"What is 2 cubed?", options:["8","4","9","6"], answer:0},
+     {q:"What does the cube root of a number find?", options:["The number doubled and then tripled","A concept unrelated to cube roots","The sum of a number added to itself three times","The original number that was multiplied by itself three times"], answer:3},
+     {q:"What is the cube root of 27?", options:["9","6","3","27"], answer:2},
+     {q:"Why is 10 not a perfect cube?", options:["This concept has no connection to math","10 is always considered both a perfect cube and a perfect square","No whole number multiplied by itself three times equals 10","Every number is automatically considered a perfect cube"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Animal Migration Patterns and Navigation", summary:"Grade 7 Science strand: many animals migrate long distances between habitats on a seasonal basis, using natural cues such as the position of the sun, Earth’s magnetic field, and landmarks to navigate accurately.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is animal migration?", options:["Movement of animals over long distances between habitats on a seasonal basis","A permanent move to a single habitat with no return","Movement that only ever happens within a single small area","A concept unrelated to biology"], answer:0},
+     {q:"Name one natural cue animals may use to navigate during migration.", options:["A concept unrelated to migration","Random guessing with no natural cues","Following a printed map","Earth’s magnetic field"], answer:3},
+     {q:"Can the position of the sun help some animals navigate during migration?", options:["A concept unrelated to animal migration","Yes","Only artificial light can help animals navigate","No, the position of the sun never helps with navigation"], answer:1},
+     {q:"Why might birds migrate south for the winter?", options:["To find warmer temperatures and more available food sources","This concept has no connection to biology","Birds never migrate for any reason","Migrating south always makes conditions colder for birds"], answer:0},
+     {q:"Why might scientists study animal migration patterns to help with conservation efforts?", options:["This concept has no relevance to science","Migration patterns have no connection to conservation efforts","Protecting habitats never requires understanding where animals travel","Understanding migration routes can help protect the habitats animals depend on along their journey"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Peacekeeping Mission in Rwanda", summary:"Grade 7 Social Studies strand: in 1994, Canadian General Roméo Dallaire led a United Nations peacekeeping mission in Rwanda during a devastating genocide, an experience that later shaped important conversations about the limits and responsibilities of peacekeeping.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Who led the United Nations peacekeeping mission in Rwanda in 1994?", options:["Canadian General Roméo Dallaire","A concept unrelated to Canadian history","A member of the Canadian Senate","A Canadian prime minister"], answer:0},
+     {q:"In what year did the Rwandan genocide and the peacekeeping mission take place?", options:["1960","1931","1994","1917"], answer:2},
+     {q:"Did the peacekeeping mission in Rwanda take place during a devastating genocide?", options:["The mission took place decades after the genocide ended","Yes","No, the mission had no connection to any genocide","A concept unrelated to the Rwanda mission"], answer:1},
+     {q:"Why might the events in Rwanda have shaped later conversations about the responsibilities of international peacekeeping?", options:["The mission had no impact on how peacekeeping is discussed today","Peacekeeping missions never face any challenges or limitations","The mission highlighted the challenges peacekeepers faced when given limited resources and authority to prevent mass violence","This concept has no relevance to social studies"], answer:2},
+     {q:"Why might learning about Canada’s role in Rwanda be important for understanding the history of Canadian peacekeeping?", options:["This concept has no relevance to Canadian history","Peacekeeping missions have no connection to Canadian history at all","It shows both the significant challenges and the moral responsibility involved in international peacekeeping efforts","Canada has never played any role in international peacekeeping"], answer:2}
+   ]},
+]},
+{day:109, label:"Day 109 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Letter to the Editor", summary:"Grade 7 Language strand: a letter to the editor expresses a writer’s opinion on a current issue in a newspaper or publication, using a clear argument, supporting evidence, and a respectful, persuasive tone.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does a letter to the editor typically express?", options:["A concept unrelated to writing","The plot summary of a novel","A recipe for a favourite meal","A writer’s opinion on a current issue"], answer:3},
+     {q:"Should a letter to the editor generally include supporting evidence for its argument?", options:["A concept unrelated to letters to the editor","Yes","No, evidence should never be included","Only opinions with no evidence should ever be included"], answer:1},
+     {q:"Is a respectful, persuasive tone generally appropriate for a letter to the editor?", options:["A concept unrelated to tone in writing","No, an angry, disrespectful tone is always preferred","Tone never matters when writing a letter to the editor","Yes"], answer:3},
+     {q:"Why might someone write a letter to the editor instead of only discussing an issue with friends?", options:["It can reach a wider audience and potentially influence public opinion or policy","A letter to the editor never reaches anyone beyond the writer’s friends","Discussing an issue with friends always has a bigger impact than publishing a letter","This concept has no connection to writing"], answer:0},
+     {q:"Which of these sentences sounds most like the opening of a letter to the editor?", options:["Add 15 and 20 to get 35.","The chemical symbol for gold is Au.","Once upon a time, in a faraway kingdom.","I am writing to express my concern about the proposed changes to our local park."], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Scatter Plots and Line of Best Fit", summary:"Grade 7 Math strand: a scatter plot displays the relationship between two numerical variables as points on a graph, and a line of best fit can be drawn to estimate the overall trend in the data.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a scatter plot display?", options:["A concept unrelated to data","A single category with no numerical data","The relationship between two numerical variables as points on a graph","A list of names with no numbers at all"], answer:2},
+     {q:"What does a line of best fit help estimate?", options:["The exact value of every single data point","The overall trend in the data","A concept unrelated to scatter plots","The colour used to display the data"], answer:1},
+     {q:"Can a scatter plot help reveal whether two variables have a positive, negative, or no relationship?", options:["Yes","No, scatter plots never reveal any relationship between variables","A concept unrelated to scatter plots","Scatter plots can only display a single variable at a time"], answer:0},
+     {q:"Why might a line of best fit not pass through every single point on a scatter plot?", options:["It represents the general trend of the data rather than every exact value","Scatter plots never contain more than one data point","A line of best fit is required to pass through every single point","This concept has no connection to data analysis"], answer:0},
+     {q:"If a scatter plot shows that as study time increases, test scores tend to increase, what kind of relationship does this suggest?", options:["No relationship at all","An impossible relationship to determine","A positive relationship","A negative relationship"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Soil Composition and Horizons", summary:"Grade 7 Science strand: soil is composed of weathered rock, organic matter, water, and air, and is typically organized into distinct layers called horizons, each with different composition and properties.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is soil composed of?", options:["Only solid rock with nothing else","Purely liquid water with no solid material","Weathered rock, organic matter, water, and air","A concept unrelated to earth science"], answer:2},
+     {q:"What are the distinct layers of soil called?", options:["Tectonic plates","Strata clouds","A concept unrelated to soil","Horizons"], answer:3},
+     {q:"Do different soil horizons typically have different composition and properties?", options:["No, every soil horizon is always identical","Yes","Soil horizons never differ from one region to another","A concept unrelated to soil horizons"], answer:1},
+     {q:"Why is the topmost layer of soil, often rich in organic matter, especially important for plant growth?", options:["Plants only ever get nutrients from deep underground layers","It typically contains the most nutrients that plants need to grow","The topmost layer never contains any nutrients at all","This concept has no connection to biology"], answer:1},
+     {q:"Why might soil composition vary significantly between different regions?", options:["Soil composition is always exactly the same everywhere on Earth","This concept has no relevance to science","Climate and rock material never have any effect on soil formation","Differences in climate, parent rock material, and organic activity affect how soil forms in each region"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Shield: Geology and Geography", summary:"Grade 7 Social Studies strand: the Canadian Shield is a vast region of ancient rock covering much of central and eastern Canada, rich in minerals but generally poor for large-scale farming due to its thin, rocky soil.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What is the Canadian Shield?", options:["A mountain range along the Pacific coast","A vast region of ancient rock covering much of central and eastern Canada","A concept unrelated to Canadian geography","A large freshwater lake in northern Ontario"], answer:1},
+     {q:"Is the Canadian Shield generally rich in minerals?", options:["Yes","No, the Canadian Shield contains no minerals at all","Minerals are only found outside of the Canadian Shield","A concept unrelated to the Canadian Shield"], answer:0},
+     {q:"Is the Canadian Shield generally well suited for large-scale farming?", options:["Farming has never been attempted anywhere near the Canadian Shield","A concept unrelated to the Canadian Shield","Yes, it is considered ideal for large-scale farming","No"], answer:3},
+     {q:"Why might the Canadian Shield’s thin, rocky soil make large-scale farming difficult in that region?", options:["Thin soil provides limited nutrients and depth for crops to grow successfully","This concept has no connection to geography","Rocky soil has no effect on how well crops can grow","Thin soil always provides unlimited nutrients for crops"], answer:0},
+     {q:"Why is the Canadian Shield considered economically important despite its limitations for farming?", options:["This concept has no relevance to social studies","The Canadian Shield has no economic importance of any kind","Mining has never taken place anywhere within the Canadian Shield","Its mineral resources support significant mining industries across the region"], answer:3}
+   ]},
+]},
+{day:110, label:"Day 110 — Fri", subjects:[
+  {subject:"Language", title:"Review: Grammar, Vocabulary, and Reading (Days 101-109)", summary:"Grade 7 Language strand review: students revisit participial phrases, allusion, political cartoons, colloquialisms, and letters to the editor.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does a participial phrase begin with?", options:["A concept unrelated to grammar","A prepositional phrase only","A coordinating conjunction","A present or past participle"], answer:3},
+     {q:"What is an allusion?", options:["A footnote that defines a difficult word","A brief reference to a person, place, event, or work of literature","A long, detailed explanation of an idea","A concept unrelated to reading"], answer:1},
+     {q:"What does a political cartoon use to express an opinion?", options:["A detailed bibliography of sources","A concept unrelated to media literacy","Only long paragraphs of formal text","Images, symbols, and exaggeration"], answer:3},
+     {q:"What is a colloquialism?", options:["An informal word or expression used in everyday conversation","A concept unrelated to vocabulary","A word that has only one possible meaning","A formal term used only in academic writing"], answer:0},
+     {q:"What does a letter to the editor typically express?", options:["A writer’s opinion on a current issue","The plot summary of a novel","A recipe for a favourite meal","A concept unrelated to writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Review: Algebra, Geometry, and Data (Days 101-109)", summary:"Grade 7 Math strand review: students revisit multiplying a monomial by a polynomial, the distributive property, histograms, mutually exclusive events, and scatter plots.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What property is applied when multiplying a monomial by a polynomial?", options:["The distributive property","The associative property only","A concept unrelated to algebra","The property of subtraction"], answer:0},
+     {q:"What must often be applied before combining like terms in an equation with brackets?", options:["The commutative property only","The distributive property","A concept unrelated to algebra","A random guess at the variable value"], answer:1},
+     {q:"What does a histogram display?", options:["A concept unrelated to data","Only categorical data with no numerical values","A single number with no other data","Grouped numerical data as adjacent bars"], answer:3},
+     {q:"What does it mean for two events to be mutually exclusive?", options:["They always happen at the exact same time","A concept unrelated to probability","They cannot both happen at the same time","They have no connection to each other whatsoever"], answer:2},
+     {q:"What does a scatter plot display?", options:["A single category with no numerical data","A concept unrelated to data","A list of names with no numbers at all","The relationship between two numerical variables as points on a graph"], answer:3}
+   ]},
+  {subject:"Science", title:"Review: Physics, Chemistry, and Earth Science (Days 101-109)", summary:"Grade 7 Science strand review: students revisit the electromagnetic spectrum, biomass and biofuels, mineral identification, biomagnification, and soil composition.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is the electromagnetic spectrum?", options:["A single type of visible light only","The full range of electromagnetic waves, from radio waves to gamma rays","A concept unrelated to science","A tool used only to measure temperature"], answer:1},
+     {q:"What does biomass energy come from?", options:["Nuclear reactions inside a reactor","Organic material, such as plants and waste","A concept unrelated to renewable energy","Only fossil fuels like coal and oil"], answer:1},
+     {q:"What can be tested to help identify a mineral?", options:["Physical properties such as hardness, streak colour, and lustre","The mineral’s distance from the ocean","A concept unrelated to earth science","Only the mineral’s exact weight in grams"], answer:0},
+     {q:"What is biomagnification?", options:["A process that only affects plants, never animals","The process by which a toxin disappears completely from an ecosystem","A concept unrelated to biology","The process by which the concentration of a toxin increases at each higher level of a food chain"], answer:3},
+     {q:"What is soil composed of?", options:["Only solid rock with nothing else","Weathered rock, organic matter, water, and air","A concept unrelated to earth science","Purely liquid water with no solid material"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Canadian History and Society (Days 101-109)", summary:"Grade 7 Social Studies strand review: students revisit the Winnipeg General Strike, Japanese Canadian internment, the Indian Act, the St. Lawrence Seaway, and the Canadian Shield.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Winnipeg General Strike of 1919?", options:["A festival celebrating the founding of Winnipeg","A concept unrelated to Canadian history","A massive labour strike where tens of thousands of workers walked off their jobs","A sports competition held across the prairies"], answer:2},
+     {q:"What happened to thousands of Japanese Canadians during World War II?", options:["They were granted full voting rights for the first time","A concept unrelated to Canadian history","They were forcibly relocated and interned by the Canadian government","They were given additional land and property"], answer:2},
+     {q:"What is the Indian Act?", options:["Canadian federal legislation that has controlled many aspects of the lives of First Nations peoples","A provincial law about highway construction","A trade agreement between Canada and another country","A concept unrelated to Canadian history"], answer:0},
+     {q:"What is the St. Lawrence Seaway?", options:["A concept unrelated to Canadian history","A national park located in northern Ontario","A mountain range along the Canada-US border","A system of canals and locks that allows ships to travel deep into the interior of North America"], answer:3},
+     {q:"What is the Canadian Shield?", options:["A mountain range along the Pacific coast","A large freshwater lake in northern Ontario","A vast region of ancient rock covering much of central and eastern Canada","A concept unrelated to Canadian geography"], answer:2}
+   ]},
+]},
 ];
 
 export default curriculum;

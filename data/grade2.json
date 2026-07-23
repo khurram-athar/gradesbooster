@@ -30781,5 +30781,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 101,
+    "label": "Day 101 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Subjects and Predicates: The Two Parts of a Sentence",
+        "summary": "Ontario Grade 2 Language strand: students learn that every complete sentence has two main parts, a subject that names who or what the sentence is about, and a predicate that tells what the subject does or is.",
+        "resourceLabel": "YouTube: Subjects and Predicates: The Two Parts of a Sentence",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Subjects%20and%20Predicates%3A%20The%20Two%20Parts%20of%20a%20Sentence%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the subject of a sentence?",
+            "options": [
+              "A punctuation mark at the end",
+              "The part that names who or what the sentence is about",
+              "The part that tells what the subject does",
+              "A describing word only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the predicate of a sentence?",
+            "options": [
+              "The part that tells what the subject does or is",
+              "The part that names who the sentence is about",
+              "A question mark",
+              "The first word of the sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence The dog ran fast, what is the subject?",
+            "options": [
+              "ran",
+              "The dog",
+              "ran fast",
+              "fast"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence The dog ran fast, what is the predicate?",
+            "options": [
+              "ran fast",
+              "fast only",
+              "dog",
+              "The dog"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a sentence need both a subject and a predicate?",
+            "options": [
+              "To use more punctuation",
+              "To be a longer sentence",
+              "To be a complete thought",
+              "To sound louder"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication Facts: 0s, 1s, and 10s",
+        "summary": "Ontario Grade 2 Number strand: students practise and memorize multiplication facts for the 0, 1, and 10 times tables, learning that any number multiplied by 0 equals 0, any number multiplied by 1 stays the same, and multiplying by 10 adds a zero.",
+        "resourceLabel": "YouTube: Multiplication Facts: 0s, 1s, and 10s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplication%20Facts%3A%200s%2C%201s%2C%20and%2010s%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 5 times 0?",
+            "options": [
+              "0",
+              "10",
+              "5",
+              "50"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 7 times 1?",
+            "options": [
+              "8",
+              "7",
+              "17",
+              "0"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 6 times 10?",
+            "options": [
+              "6",
+              "60",
+              "16",
+              "610"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 9 times 0?",
+            "options": [
+              "0",
+              "19",
+              "90",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens when you multiply any number by 1?",
+            "options": [
+              "The number becomes 10",
+              "The number stays the same",
+              "The number doubles",
+              "The number becomes 0"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Weathering: How Rocks Slowly Break Down",
+        "summary": "Ontario Grade 2 Earth and Space Systems strand: students learn that weathering is the slow breaking down of rocks by wind, water, ice, and changes in temperature over a long period of time.",
+        "resourceLabel": "YouTube: Weathering: How Rocks Slowly Break Down",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weathering%3A%20How%20Rocks%20Slowly%20Break%20Down%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is weathering?",
+            "options": [
+              "A type of severe storm",
+              "The movement of soil from one place to another",
+              "The slow breaking down of rocks by wind, water, and ice",
+              "The melting of snow in spring"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these can cause weathering?",
+            "options": [
+              "A calm, sunny day",
+              "Wind and water",
+              "A quiet forest",
+              "A clear night sky"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does weathering happen quickly or slowly?",
+            "options": [
+              "Only underwater",
+              "Only during an earthquake",
+              "Slowly, over a long time",
+              "Instantly, in one second"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can freezing and thawing water crack a rock?",
+            "options": [
+              "Rocks never contain any cracks",
+              "Water seeps into cracks, freezes, expands, and breaks the rock apart",
+              "Freezing has no effect on rocks",
+              "Water always makes rocks stronger"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Weathering is best described as a process that ___.",
+            "options": [
+              "Turns rocks into water",
+              "Breaks rocks into smaller pieces over time",
+              "Has no effect on the Earth crust",
+              "Builds new mountains instantly"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Terry Fox: A Canadian Hero and His Marathon of Hope",
+        "summary": "Ontario Grade 2 Social Studies Heritage and Identity strand: students learn about Terry Fox, a young Canadian who ran across much of Canada to raise money for cancer research in a journey called the Marathon of Hope.",
+        "resourceLabel": "YouTube: Terry Fox: A Canadian Hero and His Marathon of Hope",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Terry%20Fox%3A%20A%20Canadian%20Hero%20and%20His%20Marathon%20of%20Hope%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What did Terry Fox call his run across Canada?",
+            "options": [
+              "The Freedom Run",
+              "The Marathon of Hope",
+              "The Great Canadian Walk",
+              "The Race for Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did Terry Fox run across Canada?",
+            "options": [
+              "To raise money for cancer research",
+              "To win a race",
+              "To become famous",
+              "To visit every province for fun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What challenge did Terry Fox face during his run?",
+            "options": [
+              "He could not swim",
+              "He had never travelled before",
+              "He ran with one leg after losing the other to cancer",
+              "He ran only around his own house"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Communities across Canada still honour Terry Fox by ___.",
+            "options": [
+              "Ignoring his story completely",
+              "Holding an annual run to raise money for cancer research",
+              "Forgetting his journey each year",
+              "Only remembering him in one city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Terry Fox considered a Canadian hero?",
+            "options": [
+              "He showed courage and inspired others to help a cause bigger than himself",
+              "He was the fastest runner in the world",
+              "He only ran for his own benefit",
+              "He never faced any challenges"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 102,
+    "label": "Day 102 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Articles: Using A, An, and The Correctly",
+        "summary": "Ontario Grade 2 Language strand: students learn that the articles a and an come before a noun to mean any one example, using a before a consonant sound and an before a vowel sound, while the comes before a noun to mean one specific thing.",
+        "resourceLabel": "YouTube: Articles: Using A, An, and The Correctly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Articles%3A%20Using%20A%2C%20An%2C%20and%20The%20Correctly%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which article is used before a word that starts with a vowel sound, like apple?",
+            "options": [
+              "the",
+              "a",
+              "no article needed",
+              "an"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which article is used before a word that starts with a consonant sound, like dog?",
+            "options": [
+              "a",
+              "no article needed",
+              "an",
+              "the"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses the correct article?",
+            "options": [
+              "She ate a apple.",
+              "She ate the apple an.",
+              "She ate apple a.",
+              "She ate an apple."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses the correct article?",
+            "options": [
+              "He read the a book.",
+              "He read an book.",
+              "He read a book.",
+              "He read book a."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When do we use the word the before a noun?",
+            "options": [
+              "Only at the start of a sentence",
+              "When we mean any example at all",
+              "Only before vowel sounds",
+              "When we mean one specific thing"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Composing and Decomposing 2D Shapes",
+        "summary": "Ontario Grade 2 Geometry strand: students learn to compose new shapes by combining smaller two-dimensional shapes, and decompose a larger shape into smaller shapes, such as building a square from two triangles.",
+        "resourceLabel": "YouTube: Composing and Decomposing 2D Shapes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Composing%20and%20Decomposing%202D%20Shapes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to compose a shape?",
+            "options": [
+              "To combine smaller shapes to make a new shape",
+              "To erase a shape completely",
+              "To colour a shape a single colour",
+              "To draw a shape with no sides"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to decompose a shape?",
+            "options": [
+              "To make a shape disappear",
+              "To measure the perimeter of a shape",
+              "To combine shapes into a bigger one",
+              "To break a larger shape into smaller shapes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Two triangles put together can compose which shape?",
+            "options": [
+              "A circle",
+              "A straight line only",
+              "A square or rectangle",
+              "A single point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you cut a rectangle in half diagonally, what shapes do you get?",
+            "options": [
+              "Two hexagons",
+              "Two squares only",
+              "Two triangles",
+              "Two circles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Composing and decomposing shapes helps students understand ___.",
+            "options": [
+              "That only one shape exists",
+              "How shapes relate to and can form other shapes",
+              "That shapes never change",
+              "That shapes cannot be combined"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Movement: Fins, Wings, and Legs",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that animals have different body structures, such as fins, wings, and legs, that help them move in the specific environment where they live.",
+        "resourceLabel": "YouTube: Animal Movement: Fins, Wings, and Legs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Movement%3A%20Fins%2C%20Wings%2C%20and%20Legs%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What body part helps a fish move through water?",
+            "options": [
+              "Fins",
+              "Legs",
+              "Wings",
+              "Feathers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What body part helps a bird fly through the air?",
+            "options": [
+              "Gills",
+              "Roots",
+              "Fins",
+              "Wings"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What body part helps most mammals walk and run on land?",
+            "options": [
+              "Scales",
+              "Fins",
+              "Legs",
+              "Wings"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do different animals have different movement structures?",
+            "options": [
+              "Only birds are able to move at all",
+              "Movement structures have no real purpose",
+              "All animals move in the exact same way",
+              "To help them move well in the place they live"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A frog has strong back legs mainly to help it ___.",
+            "options": [
+              "Stay still forever",
+              "Swim using fins only",
+              "Jump long distances",
+              "Fly through the air"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "What Is a Democracy? Citizens Have a Voice in Decisions",
+        "summary": "Ontario Grade 2 Social Studies strand: students learn that in a democracy, citizens have a say in decisions and choose their leaders through voting, and that Canada is a democratic country.",
+        "resourceLabel": "YouTube: What Is a Democracy? Citizens Have a Voice in Decisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=What%20Is%20a%20Democracy%3F%20Citizens%20Have%20a%20Voice%20in%20Decisions%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a democracy?",
+            "options": [
+              "A place where only one person makes every decision",
+              "A system where citizens cannot vote",
+              "A system with no leaders at all",
+              "A system where citizens have a voice and vote for their leaders"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is Canada a democratic country?",
+            "options": [
+              "Only some Canadian cities are democracies",
+              "No, Canada has never been a democracy",
+              "Yes, Canada is a democracy",
+              "Canada stopped being a democracy long ago"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do citizens in a democracy have a say in decisions?",
+            "options": [
+              "By voting in elections",
+              "By letting only one family decide",
+              "By ignoring all elections",
+              "By never taking part in anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is voting an important part of a democracy?",
+            "options": [
+              "Only leaders are allowed to vote",
+              "Voting is not connected to democracy",
+              "It lets citizens choose who represents them",
+              "Voting has no effect on decisions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a democracy, decisions are usually made by ___.",
+            "options": [
+              "Ignoring what citizens want",
+              "A small group with no elections",
+              "Listening to the voice of many citizens",
+              "One single unelected ruler"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 103,
+    "label": "Day 103 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Verb Tenses: Talking About Past, Present, and Future",
+        "summary": "Ontario Grade 2 Language strand: students learn that verbs change form to show when an action happens, using past tense for something already done, present tense for something happening now, and future tense for something that will happen.",
+        "resourceLabel": "YouTube: Verb Tenses: Talking About Past, Present, and Future",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Verb%20Tenses%3A%20Talking%20About%20Past%2C%20Present%2C%20and%20Future%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which sentence is in the past tense?",
+            "options": [
+              "She will walk to school.",
+              "She walks to school.",
+              "She walked to school.",
+              "She is walking to school."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is in the present tense?",
+            "options": [
+              "He had played soccer.",
+              "He played soccer yesterday.",
+              "He plays soccer every day.",
+              "He will play soccer tomorrow."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is in the future tense?",
+            "options": [
+              "They visited the zoo yesterday.",
+              "They will visit the zoo tomorrow.",
+              "They visit the zoo often.",
+              "They were visiting the zoo."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word signals that a sentence is talking about the future?",
+            "options": [
+              "already",
+              "yesterday",
+              "now",
+              "will"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Changing a verb tense helps a reader understand ___.",
+            "options": [
+              "What colour something is",
+              "How many people are in a story",
+              "Where a story takes place",
+              "When an action happens"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Patterns on a Hundred Chart",
+        "summary": "Ontario Grade 2 Patterning strand: students explore a hundred chart to find and describe number patterns, such as columns increasing by 10 going down and rows increasing by 1 going across.",
+        "resourceLabel": "YouTube: Number Patterns on a Hundred Chart",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Patterns%20on%20a%20Hundred%20Chart%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "On a hundred chart, what happens to a number as you move down one row?",
+            "options": [
+              "It increases by 1",
+              "It decreases by 10",
+              "It stays the same",
+              "It increases by 10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a hundred chart, what happens to a number as you move one space to the right?",
+            "options": [
+              "It increases by 10",
+              "It decreases by 1",
+              "It increases by 1",
+              "It stays the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a hundred chart, if you are on 24 and move down one row, what number do you land on?",
+            "options": [
+              "23",
+              "34",
+              "14",
+              "25"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a hundred chart, if you are on 47 and move one space to the right, what number do you land on?",
+            "options": [
+              "48",
+              "37",
+              "46",
+              "57"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A hundred chart helps students see number patterns because ___.",
+            "options": [
+              "Numbers are placed in random order",
+              "It only shows even numbers",
+              "Numbers are arranged in a clear, organized grid",
+              "It only shows odd numbers"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Food Webs: Connecting Many Food Chains",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that a food web shows how many food chains connect together, because most animals eat more than one kind of food and are eaten by more than one predator.",
+        "resourceLabel": "YouTube: Food Webs: Connecting Many Food Chains",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Food%20Webs%3A%20Connecting%20Many%20Food%20Chains%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a food web?",
+            "options": [
+              "A spider web found in a garden",
+              "A chart of animal habitats only",
+              "A single line showing one animal eating one plant",
+              "Many connected food chains showing how animals eat different things"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists use a food web instead of just one food chain?",
+            "options": [
+              "Every animal eats the exact same food",
+              "Most animals eat more than one kind of food",
+              "Food chains never connect to each other",
+              "A food web only shows plants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a food web, an animal that eats both plants and other animals is called a ___.",
+            "options": [
+              "Producer only",
+              "Non-living thing",
+              "Omnivore",
+              "Decomposer only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen to a food web if one type of animal disappeared?",
+            "options": [
+              "Food webs cannot be affected by changes",
+              "Every other animal would disappear instantly",
+              "Nothing would change at all",
+              "It could affect the other animals connected to it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A food web is best described as a way to show ___.",
+            "options": [
+              "A single unrelated fact about one animal",
+              "That animals never depend on other living things",
+              "That plants have no role in an ecosystem",
+              "How living things in an ecosystem depend on each other for food"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Provincial and Territorial Capital Cities",
+        "summary": "Ontario Grade 2 Social Studies strand: students learn that each Canadian province and territory has its own capital city, such as Toronto for Ontario and Ottawa as the capital of the whole country.",
+        "resourceLabel": "YouTube: Provincial and Territorial Capital Cities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Provincial%20and%20Territorial%20Capital%20Cities%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the capital city of Ontario?",
+            "options": [
+              "Ottawa",
+              "Montreal",
+              "Vancouver",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the capital city of Canada?",
+            "options": [
+              "Calgary",
+              "Winnipeg",
+              "Ottawa",
+              "Toronto"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the main city where the government of a province or country is based?",
+            "options": [
+              "A border town",
+              "A capital city",
+              "A suburb",
+              "A rural area"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does each province and territory have its own capital city?",
+            "options": [
+              "Capitals are chosen at random every year",
+              "Every province shares the exact same capital",
+              "Capital cities have no real purpose",
+              "It is where the provincial or territorial government meets and works"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is Ottawa located in the province of Ontario?",
+            "options": [
+              "No, Ottawa is located in Quebec",
+              "Ottawa is not located in any province",
+              "Yes, Ottawa is located in Ontario",
+              "Ottawa is a separate country"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 104,
+    "label": "Day 104 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Using Illustrations to Understand a Story",
+        "summary": "Ontario Grade 2 Reading strand: students learn to use illustrations and pictures alongside the words in a text to build and confirm their understanding of characters, setting, and events.",
+        "resourceLabel": "YouTube: Using Illustrations to Understand a Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Illustrations%20to%20Understand%20a%20Story%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why might a reader look at the illustrations in a book?",
+            "options": [
+              "To ignore the words completely",
+              "To help understand the story better",
+              "Pictures have no connection to the story",
+              "Illustrations never help understanding"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the words in a story do not explain what a character looks like, where might a reader find clues?",
+            "options": [
+              "The title page only",
+              "The illustrations",
+              "The back cover only",
+              "The table of contents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Illustrations can help a reader understand ___.",
+            "options": [
+              "Only the price of the book",
+              "The setting, characters, and mood of a story",
+              "Nothing about the story at all",
+              "Only the title of the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a picture shows dark clouds and rain, what might that tell a reader about the setting?",
+            "options": [
+              "The picture has no meaning",
+              "The story takes place indoors only",
+              "The weather is sunny and warm",
+              "The weather is stormy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Using illustrations along with the text is a strategy that helps readers ___.",
+            "options": [
+              "Avoid understanding the story",
+              "Skip reading the words entirely",
+              "Ignore important story details",
+              "Understand and enjoy a story more fully"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Length Before Measuring",
+        "summary": "Ontario Grade 2 Measurement strand: students learn to make a reasonable estimate of an object length before measuring it with a ruler or measuring tape, then compare the estimate to the actual measurement.",
+        "resourceLabel": "YouTube: Estimating Length Before Measuring",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Length%20Before%20Measuring%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to estimate a length?",
+            "options": [
+              "To make a reasonable guess before measuring",
+              "To draw a picture of an object",
+              "To measure something perfectly the first time",
+              "To ignore the size of an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to estimate before measuring?",
+            "options": [
+              "Estimating has no purpose in math",
+              "It helps you check if your measurement makes sense",
+              "Estimating replaces the need to measure",
+              "Estimating always gives the exact answer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which tool would you use to check an estimate of length?",
+            "options": [
+              "A ruler or measuring tape",
+              "A thermometer",
+              "A scale for mass",
+              "A clock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you estimate a pencil is about 15 centimetres long, what should you do next?",
+            "options": [
+              "Assume your estimate is always exact",
+              "Never measure it at all",
+              "Measure it with a ruler to check your estimate",
+              "Throw away the pencil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A good estimate of length should be ___.",
+            "options": [
+              "Always much too small",
+              "Reasonably close to the actual measurement",
+              "Always much too large",
+              "Always exactly correct"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Tundra Habitats: Life in the Cold",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that the tundra is a cold habitat with very few trees, where specially adapted plants and animals, such as arctic foxes and caribou, survive harsh winters.",
+        "resourceLabel": "YouTube: Tundra Habitats: Life in the Cold",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Tundra%20Habitats%3A%20Life%20in%20the%20Cold%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a tundra?",
+            "options": [
+              "A hot, wet rainforest",
+              "A cold habitat with very few trees",
+              "A deep ocean habitat",
+              "A warm desert habitat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal is adapted to live in the tundra?",
+            "options": [
+              "Arctic fox",
+              "Parrot",
+              "Elephant",
+              "Monkey"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do few trees grow in the tundra?",
+            "options": [
+              "Trees are not affected by climate",
+              "The tundra is always too hot for trees",
+              "Tundra soil has too much sunlight",
+              "The ground is frozen and the climate is very cold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might a thick white coat help an animal survive in the tundra?",
+            "options": [
+              "It helps the animal swim faster",
+              "It has no useful purpose",
+              "It keeps the animal warm and helps it blend into the snow",
+              "It makes the animal colder"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The tundra is best described as a habitat where living things must adapt to ___.",
+            "options": [
+              "Very cold temperatures and short growing seasons",
+              "Constant heavy rainfall",
+              "Extremely hot and humid weather",
+              "Deep ocean water pressure"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "First Nations, Inuit, and Metis: Three Distinct Indigenous Peoples",
+        "summary": "Ontario Grade 2 Social Studies Heritage and Identity strand: students learn that Indigenous peoples in Canada include three distinct groups, First Nations, Inuit, and Metis, each with its own history, languages, and traditions.",
+        "resourceLabel": "YouTube: First Nations, Inuit, and Metis: Three Distinct Indigenous Peoples",
+        "resourceUrl": "https://www.youtube.com/results?search_query=First%20Nations%2C%20Inuit%2C%20and%20Metis%3A%20Three%20Distinct%20Indigenous%20Peoples%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are the three distinct groups of Indigenous peoples in Canada?",
+            "options": [
+              "Provinces, cities, and towns",
+              "Settlers, explorers, and traders",
+              "Farmers, teachers, and mayors",
+              "First Nations, Inuit, and Metis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do First Nations, Inuit, and Metis peoples each have their own history and traditions?",
+            "options": [
+              "No, all three groups are exactly the same",
+              "Yes, each group has its own history and traditions",
+              "Only Inuit have traditions",
+              "Only First Nations have traditions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which Indigenous group has traditionally lived in the Arctic regions of Canada?",
+            "options": [
+              "None of these groups",
+              "Only Metis",
+              "Inuit",
+              "Only First Nations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to learn that Indigenous peoples are not all the same group?",
+            "options": [
+              "Learning about differences is not useful",
+              "All Indigenous peoples are identical",
+              "Only one Indigenous group exists in Canada",
+              "Each group has its own distinct culture and identity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The word Metis describes people who have ___.",
+            "options": [
+              "Mixed Indigenous and European ancestry and their own distinct culture",
+              "Only recently arrived in Canada",
+              "No connection to Indigenous history at all",
+              "Only European ancestry"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 105,
+    "label": "Day 105 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Compare and Contrast: How Two Things Are Alike and Different",
+        "summary": "Ontario Grade 2 Reading strand: students learn to compare and contrast two texts, characters, or ideas by describing how they are alike and how they are different.",
+        "resourceLabel": "YouTube: Compare and Contrast: How Two Things Are Alike and Different",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compare%20and%20Contrast%3A%20How%20Two%20Things%20Are%20Alike%20and%20Different%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to compare two things?",
+            "options": [
+              "To draw a picture of them",
+              "To describe how they are alike",
+              "To ignore both things",
+              "To describe how they are different only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to contrast two things?",
+            "options": [
+              "To describe how they are exactly the same",
+              "To describe how they are different",
+              "To measure their size",
+              "To combine them into one thing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of comparing two story characters?",
+            "options": [
+              "One character is a girl and one is a boy",
+              "One book has pictures and one does not",
+              "Both characters are brave and kind",
+              "One story is short and one is long"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of contrasting two story characters?",
+            "options": [
+              "Both characters have a pet dog",
+              "Both characters live in the same town",
+              "Both characters like to read",
+              "One character is shy while the other is outgoing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Comparing and contrasting helps readers ___.",
+            "options": [
+              "Avoid thinking about a story",
+              "Read only one book at a time",
+              "Ignore important details in a text",
+              "Understand how ideas or characters relate to each other"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Interpreting Bar Graphs with a Scale of More Than One",
+        "summary": "Ontario Grade 2 Data strand: students learn to read a bar graph where each square or unit on the scale represents more than one item, such as a scale where each square stands for two or five objects.",
+        "resourceLabel": "YouTube: Interpreting Bar Graphs with a Scale of More Than One",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Interpreting%20Bar%20Graphs%20with%20a%20Scale%20of%20More%20Than%20One%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "On a bar graph where each square represents 2 items, how many items does a bar of 3 squares show?",
+            "options": [
+              "5",
+              "6",
+              "2",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a bar graph where each square represents 5 items, how many items does a bar of 4 squares show?",
+            "options": [
+              "9",
+              "20",
+              "25",
+              "15"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a bar graph use a scale where each square represents more than one item?",
+            "options": [
+              "To fit larger amounts of data on the graph clearly",
+              "To make the graph impossible to read",
+              "To make the data smaller than it really is",
+              "Scales never represent more than one item"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a bar graph scale shows each square equals 10, and a bar has 5 squares, what total does the bar represent?",
+            "options": [
+              "50",
+              "5",
+              "10",
+              "15"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Before reading the bars on a graph, what should you check first?",
+            "options": [
+              "The title of the classroom",
+              "The time of day",
+              "The scale, to see what each square represents",
+              "The colour of the bars only"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Skin: Protecting Our Bodies",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that the skin is the outer covering of our body that protects us from germs and injury, helps control body temperature, and lets us feel touch.",
+        "resourceLabel": "YouTube: The Skin: Protecting Our Bodies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Skin%3A%20Protecting%20Our%20Bodies%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is one important job of the skin?",
+            "options": [
+              "Breaking down food for energy",
+              "Sending messages to the brain only",
+              "Pumping blood through the body",
+              "Protecting the body from germs and injury"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the skin help us sense the world around us?",
+            "options": [
+              "It lets us see colours",
+              "It lets us feel touch, such as heat, cold, and pressure",
+              "It lets us taste flavours",
+              "It lets us hear sounds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the skin help control body temperature?",
+            "options": [
+              "By making us hungry",
+              "By sweating to cool us down when we are hot",
+              "By helping us digest food",
+              "By helping us breathe air"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to keep a cut on the skin clean?",
+            "options": [
+              "To help prevent germs from entering the body",
+              "Germs cannot enter through skin",
+              "Cleaning a cut has no purpose",
+              "Cuts on skin are never a concern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The skin is best described as the body organ that ___.",
+            "options": [
+              "Pumps blood to every organ",
+              "Only controls how we move",
+              "Covers and protects the body",
+              "Digests the food we eat"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "National Emblems of Canada: The Coat of Arms and Other Symbols",
+        "summary": "Ontario Grade 2 Social Studies strand: students learn that Canada has official national emblems, including the Coat of Arms, that represent the history and identity of the country beyond the more familiar flag and anthem.",
+        "resourceLabel": "YouTube: National Emblems of Canada: The Coat of Arms and Other Symbols",
+        "resourceUrl": "https://www.youtube.com/results?search_query=National%20Emblems%20of%20Canada%3A%20The%20Coat%20of%20Arms%20and%20Other%20Symbols%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Coat of Arms of Canada?",
+            "options": [
+              "A type of Canadian clothing",
+              "A famous Canadian mountain",
+              "An official emblem that represents the history and identity of Canada",
+              "A Canadian sports team logo"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a Canadian national emblem?",
+            "options": [
+              "A single citys local logo",
+              "A private company logo",
+              "The Coat of Arms",
+              "A students favourite toy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do countries have official emblems like a Coat of Arms?",
+            "options": [
+              "Emblems have no real meaning",
+              "To represent the history and values of the country",
+              "Only provinces are allowed emblems",
+              "Countries are not allowed emblems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "National emblems are different from a national flag because they ___.",
+            "options": [
+              "Are always exactly the same as a flag",
+              "Have no connection to a country at all",
+              "Can include more detailed symbols and images",
+              "Cannot be used by a country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning about national emblems helps students understand ___.",
+            "options": [
+              "Symbols that represent Canadian history and identity",
+              "That Canada has no symbols at all",
+              "That only flags represent countries",
+              "That symbols are unimportant"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 106,
+    "label": "Day 106 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Following Multi-Step Written Directions",
+        "summary": "Ontario Grade 2 Reading and Writing strands: students learn to read and follow written directions that have more than one step, completing each step in the correct order to finish a task successfully.",
+        "resourceLabel": "YouTube: Following Multi-Step Written Directions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Following%20Multi-Step%20Written%20Directions%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a multi-step direction?",
+            "options": [
+              "A direction that never needs to be followed",
+              "A direction with only one step",
+              "A direction with more than one step to follow",
+              "A direction with no steps at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to follow the steps of a direction in order?",
+            "options": [
+              "Steps should always be skipped",
+              "Completing steps out of order can lead to mistakes",
+              "Directions do not need to be read carefully",
+              "Order never matters when following directions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a direction says first colour the circle, then cut it out, what should you do first?",
+            "options": [
+              "Colour the circle",
+              "Skip both steps",
+              "Do both steps at the same time",
+              "Cut it out"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a good strategy before starting a multi-step task?",
+            "options": [
+              "Read all the directions carefully before beginning",
+              "Start immediately without reading anything",
+              "Ignore the directions completely",
+              "Only read the very last step"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Following multi-step directions carefully helps you ___.",
+            "options": [
+              "Finish a task incorrectly",
+              "Avoid understanding the task",
+              "Complete a task correctly and in the right order",
+              "Skip important steps"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ordering Numbers to 1000",
+        "summary": "Ontario Grade 2 Number strand: students learn to order a set of three-digit numbers from least to greatest or greatest to least by comparing the hundreds, tens, and ones digits.",
+        "resourceLabel": "YouTube: Ordering Numbers to 1000",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ordering%20Numbers%20to%201000%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which set of numbers is ordered from least to greatest?",
+            "options": [
+              "489, 356, 214",
+              "214, 489, 356",
+              "356, 214, 489",
+              "214, 356, 489"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number is the greatest: 342, 423, or 234?",
+            "options": [
+              "423",
+              "They are all equal",
+              "342",
+              "234"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which number is the least: 567, 675, or 756?",
+            "options": [
+              "567",
+              "They are all equal",
+              "675",
+              "756"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When ordering three-digit numbers, which digit should you compare first?",
+            "options": [
+              "The ones digit",
+              "The last letter",
+              "The tens digit",
+              "The hundreds digit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which set of numbers is ordered from greatest to least?",
+            "options": [
+              "415, 623, 812",
+              "812, 623, 415",
+              "623, 415, 812",
+              "812, 415, 623"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Camouflage vs Mimicry: Two Ways Animals Stay Safe",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that camouflage lets an animal blend into its surroundings to hide, while mimicry lets a harmless animal look like a dangerous one to scare away predators.",
+        "resourceLabel": "YouTube: Camouflage vs Mimicry: Two Ways Animals Stay Safe",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Camouflage%20vs%20Mimicry%3A%20Two%20Ways%20Animals%20Stay%20Safe%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "When an animal looks like a different, dangerous animal",
+              "When an animal grows larger",
+              "When an animal changes its habitat",
+              "When an animal blends into its surroundings to hide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is mimicry?",
+            "options": [
+              "When an animal grows a new colour every day",
+              "When an animal hides underground forever",
+              "When a harmless animal looks like a dangerous one to stay safe",
+              "When an animal blends perfectly into a rock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A stick insect that looks like a twig is an example of ___.",
+            "options": [
+              "Hibernation",
+              "Mimicry",
+              "Camouflage",
+              "Migration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A harmless fly that looks like a stinging wasp is an example of ___.",
+            "options": [
+              "Camouflage",
+              "Migration",
+              "Hibernation",
+              "Mimicry"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Both camouflage and mimicry help animals ___.",
+            "options": [
+              "Avoid being caught by predators",
+              "Fly faster through the air",
+              "Find water more easily",
+              "Grow bigger more quickly"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Languages of the World: How People Communicate Differently",
+        "summary": "Ontario Grade 2 Social Studies People and Environments strand: students learn that people around the world speak many different languages, and that Canada itself has two official languages, English and French.",
+        "resourceLabel": "YouTube: Languages of the World: How People Communicate Differently",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Languages%20of%20the%20World%3A%20How%20People%20Communicate%20Differently%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are the two official languages of Canada?",
+            "options": [
+              "English and Spanish",
+              "English and Mandarin",
+              "French and German",
+              "English and French"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do different countries around the world often speak different languages?",
+            "options": [
+              "Language has no connection to culture",
+              "Countries are not allowed different languages",
+              "Every country in the world speaks the exact same language",
+              "Language is often connected to a country history and culture"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one way people can communicate even if they do not speak the same language?",
+            "options": [
+              "By speaking louder in their own language",
+              "By refusing to interact",
+              "Using gestures, pictures, or a translator",
+              "It is impossible to communicate at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning about different languages around the world helps students understand ___.",
+            "options": [
+              "That only one language exists",
+              "That language does not matter",
+              "That people communicate in many different ways",
+              "That every language sounds the same"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In Canada, French is especially widely spoken in which province?",
+            "options": [
+              "Quebec",
+              "Newfoundland and Labrador",
+              "British Columbia",
+              "Alberta"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 107,
+    "label": "Day 107 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Mood: How a Story Makes Us Feel",
+        "summary": "Ontario Grade 2 Reading strand: students learn that mood is the feeling a story creates for the reader, such as happy, scary, or calm, built through word choice, setting, and events.",
+        "resourceLabel": "YouTube: Story Mood: How a Story Makes Us Feel",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Mood%3A%20How%20a%20Story%20Makes%20Us%20Feel%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the mood of a story?",
+            "options": [
+              "The title of the story",
+              "The feeling a story creates for the reader",
+              "The number of characters in a story",
+              "The length of the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which words might create a scary mood in a story?",
+            "options": [
+              "Sunny, cheerful, and bright",
+              "Dark, creaking, and shadowy",
+              "Colourful, happy, and playful",
+              "Warm, friendly, and calm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which words might create a happy mood in a story?",
+            "options": [
+              "Bright, cheerful, and sunny",
+              "Frightening, eerie, and strange",
+              "Silent, empty, and grey",
+              "Dark, gloomy, and cold"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can a writer create mood in a story?",
+            "options": [
+              "By using no words at all",
+              "By avoiding all descriptions",
+              "Mood cannot be created by a writer",
+              "By choosing specific words and details"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Understanding the mood of a story helps readers ___.",
+            "options": [
+              "Skip reading the story entirely",
+              "Ignore the events of the story",
+              "Connect more deeply with how the story feels",
+              "Avoid understanding the characters"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Locating Numbers on a Number Line to 1000",
+        "summary": "Ontario Grade 2 Number strand: students learn to locate and compare three-digit numbers on a number line, understanding that numbers further to the right are greater in value.",
+        "resourceLabel": "YouTube: Locating Numbers on a Number Line to 1000",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Locating%20Numbers%20on%20a%20Number%20Line%20to%201000%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "On a number line, numbers further to the right are ___.",
+            "options": [
+              "Greater in value",
+              "Always negative",
+              "Smaller in value",
+              "Always equal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a number line from 0 to 1000, which number would be closer to 1000: 850 or 350?",
+            "options": [
+              "850",
+              "Neither number fits on the line",
+              "They are equally close",
+              "350"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you locate 400 and 600 on a number line, which number is further to the right?",
+            "options": [
+              "Both are in the same spot",
+              "Neither can be placed",
+              "600",
+              "400"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A number line can help you find a number that is ___.",
+            "options": [
+              "Between two other numbers",
+              "Always the smallest number",
+              "Impossible to compare",
+              "Always the largest number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where would the number 500 be located on a number line from 0 to 1000?",
+            "options": [
+              "Off the number line completely",
+              "Exactly in the middle",
+              "At the very end",
+              "At the very start"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycle of an Insect: From Egg to Adult",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that many insects go through a life cycle with several stages, such as egg, larva, pupa, and adult, changing form as they grow.",
+        "resourceLabel": "YouTube: Life Cycle of an Insect: From Egg to Adult",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20an%20Insect%3A%20From%20Egg%20to%20Adult%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is usually the first stage in an insect life cycle?",
+            "options": [
+              "Larva",
+              "Adult",
+              "Pupa",
+              "Egg"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the larva stage of an insect life cycle?",
+            "options": [
+              "The stage where the insect lays eggs",
+              "The final adult stage",
+              "A young, worm-like stage that hatches from an egg",
+              "A stage that never actually happens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During the pupa stage, what is happening inside the insect?",
+            "options": [
+              "It is laying new eggs",
+              "It is migrating to a new country",
+              "Its body is changing into its adult form",
+              "It is hunting for food actively"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these correctly orders the stages of many insect life cycles?",
+            "options": [
+              "Larva, adult, egg, pupa",
+              "Egg, larva, pupa, adult",
+              "Adult, egg, larva, pupa",
+              "Pupa, adult, egg, larva"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is learning about insect life cycles useful?",
+            "options": [
+              "It helps us understand how insects grow and change over time",
+              "All insects look the same their entire life",
+              "Insects never actually change form",
+              "Life cycles have no connection to insects"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Underground Railroad: A Journey to Freedom",
+        "summary": "Ontario Grade 2 Social Studies Heritage and Identity strand: students learn that the Underground Railroad was a secret network of routes and safe houses that helped freedom seekers travel to Canada to escape slavery.",
+        "resourceLabel": "YouTube: The Underground Railroad: A Journey to Freedom",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%3A%20A%20Journey%20to%20Freedom%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What was the Underground Railroad?",
+            "options": [
+              "A modern subway system",
+              "An actual railroad built underground",
+              "A type of Canadian sports league",
+              "A secret network of routes and safe houses to help freedom seekers reach Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did freedom seekers travel along the Underground Railroad?",
+            "options": [
+              "To escape slavery and reach freedom in Canada",
+              "To attend a school in another country",
+              "To visit family for a short trip",
+              "To go on a vacation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did the Underground Railroad involve an actual train running underground?",
+            "options": [
+              "No, it was a network of secret routes and safe houses",
+              "It was a type of airplane route",
+              "Yes, it was a real underground train",
+              "It was a type of Canadian highway"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might people helping freedom seekers along the route need to keep it secret?",
+            "options": [
+              "To protect the freedom seekers from being caught",
+              "Secrecy was not important at all",
+              "Everyone already knew every detail",
+              "It was not dangerous for anyone involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Underground Railroad is an important part of history because it shows ___.",
+            "options": [
+              "That helping others was not valued",
+              "That freedom was never an important idea",
+              "That Canada played no role in this history",
+              "People helping others reach freedom and safety"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 108,
+    "label": "Day 108 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Using Transition Words: First, Next, Then, Finally",
+        "summary": "Ontario Grade 2 Writing strand: students learn to use transition words such as first, next, then, and finally to show the order of events clearly when writing instructions or telling a story.",
+        "resourceLabel": "YouTube: Using Transition Words: First, Next, Then, Finally",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20Transition%20Words%3A%20First%2C%20Next%2C%20Then%2C%20Finally%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a transition word?",
+            "options": [
+              "A word that names a person",
+              "A word that shows the order of events",
+              "A word used only in math",
+              "A word that describes a colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which transition word would you use to show what happens at the very beginning?",
+            "options": [
+              "Finally",
+              "Then",
+              "First",
+              "Before that"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which transition word would you use to show what happens at the very end?",
+            "options": [
+              "First",
+              "Finally",
+              "Next",
+              "Before"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are transition words helpful in writing instructions?",
+            "options": [
+              "They make instructions harder to follow",
+              "They help the reader follow the correct order of steps",
+              "They only belong in math problems",
+              "They are never used in writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a transition word?",
+            "options": [
+              "Sugar flour first mix together the.",
+              "The first together mix flour sugar.",
+              "Mix flour sugar first the together.",
+              "First, mix the flour and sugar together."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Mental Math Strategies: Doubling and Halving",
+        "summary": "Ontario Grade 2 Number strand: students learn mental math strategies for doubling a number, such as thinking of 7 plus 7, and for halving a number, such as sharing 14 into two equal groups.",
+        "resourceLabel": "YouTube: Mental Math Strategies: Doubling and Halving",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mental%20Math%20Strategies%3A%20Doubling%20and%20Halving%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to double a number?",
+            "options": [
+              "To add the number to itself",
+              "To cut the number in half",
+              "To multiply the number by 0",
+              "To subtract 1 from the number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is double 6?",
+            "options": [
+              "6",
+              "12",
+              "8",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to halve a number?",
+            "options": [
+              "To add the number to itself",
+              "To round the number up",
+              "To multiply the number by 10",
+              "To split the number into two equal parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is half of 16?",
+            "options": [
+              "12",
+              "6",
+              "10",
+              "8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Doubling and halving are useful mental math strategies because they help you ___.",
+            "options": [
+              "Avoid using numbers at all",
+              "Only work with written calculations",
+              "Never solve a problem correctly",
+              "Solve problems quickly in your head"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Exoskeletons and Endoskeletons: Two Kinds of Body Support",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that some animals, like insects, have a hard outer covering called an exoskeleton for support, while other animals, like humans, have an internal skeleton called an endoskeleton.",
+        "resourceLabel": "YouTube: Exoskeletons and Endoskeletons: Two Kinds of Body Support",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Exoskeletons%20and%20Endoskeletons%3A%20Two%20Kinds%20of%20Body%20Support%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is an exoskeleton?",
+            "options": [
+              "A soft, flexible skin only",
+              "A type of plant root",
+              "A skeleton found inside the body",
+              "A hard outer covering that supports and protects an animal body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an endoskeleton?",
+            "options": [
+              "A hard covering found outside the body",
+              "A body covering made of feathers",
+              "A type of leaf",
+              "A skeleton found inside the body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals has an exoskeleton?",
+            "options": [
+              "A dog",
+              "A bird",
+              "An insect",
+              "A human"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these animals has an endoskeleton?",
+            "options": [
+              "A human",
+              "A crab",
+              "A spider",
+              "An insect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Both exoskeletons and endoskeletons help an animal by ___.",
+            "options": [
+              "Helping the animal breathe underwater only",
+              "Preventing the animal from moving at all",
+              "Providing support and protection for the body",
+              "Making the animal invisible"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Map Scale: Understanding How Maps Show Real Distances",
+        "summary": "Ontario Grade 2 Social Studies strand: students learn that a map scale shows how a distance on a map compares to the real distance in the world, helping map readers estimate how far apart places actually are.",
+        "resourceLabel": "YouTube: Map Scale: Understanding How Maps Show Real Distances",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Map%20Scale%3A%20Understanding%20How%20Maps%20Show%20Real%20Distances%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a map scale?",
+            "options": [
+              "A picture of a compass",
+              "A drawing of a mountain",
+              "A tool that shows how map distance compares to real distance",
+              "A list of city names"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do maps include a scale?",
+            "options": [
+              "To make the map more colourful",
+              "To help readers estimate real distances between places",
+              "To replace the map legend",
+              "Scales have no purpose on a map"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a map scale shows that 1 centimetre equals 10 kilometres, what does 3 centimetres on the map represent?",
+            "options": [
+              "10 kilometres",
+              "13 kilometres",
+              "3 kilometres",
+              "30 kilometres"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which map tool helps you understand what symbols mean, working alongside the scale?",
+            "options": [
+              "The map legend",
+              "The title only",
+              "The border only",
+              "The compass rose only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Understanding map scale helps students ___.",
+            "options": [
+              "Make maps less useful",
+              "Estimate how far apart real places are",
+              "Avoid using maps altogether",
+              "Ignore distances between places"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 109,
+    "label": "Day 109 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing a Descriptive Paragraph Using the Five Senses",
+        "summary": "Ontario Grade 2 Writing strand: students learn to write a descriptive paragraph that uses details from the five senses, sight, sound, smell, taste, and touch, to help readers picture what is being described.",
+        "resourceLabel": "YouTube: Writing a Descriptive Paragraph Using the Five Senses",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Descriptive%20Paragraph%20Using%20the%20Five%20Senses%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a descriptive paragraph?",
+            "options": [
+              "A list of math facts",
+              "A paragraph with no details at all",
+              "A paragraph that uses details to help readers picture something",
+              "A paragraph that only asks questions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sense would help you describe how fresh bread smells?",
+            "options": [
+              "Smell",
+              "Sight",
+              "Taste",
+              "Hearing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses a sense detail about sound?",
+            "options": [
+              "The leaves were bright orange.",
+              "The leaves felt dry and crisp.",
+              "The leaves crunched loudly under our feet.",
+              "The leaves tasted bitter."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers use sensory details in descriptive writing?",
+            "options": [
+              "Sensory details make writing less interesting",
+              "Descriptive writing should avoid all details",
+              "Sensory details have no purpose in writing",
+              "To help readers imagine the experience more vividly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these uses the sense of touch in a description?",
+            "options": [
+              "The blanket felt soft and warm.",
+              "The blanket made a rustling sound.",
+              "The blanket was bright red.",
+              "The blanket smelled like flowers."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Congruent Shapes: Same Size and Same Shape",
+        "summary": "Ontario Grade 2 Geometry strand: students learn that two shapes are congruent when they are exactly the same size and the same shape, even if they are turned or flipped in a different direction.",
+        "resourceLabel": "YouTube: Congruent Shapes: Same Size and Same Shape",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Congruent%20Shapes%3A%20Same%20Size%20and%20Same%20Shape%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean for two shapes to be congruent?",
+            "options": [
+              "They are exactly the same size and shape",
+              "They have different sizes but the same shape",
+              "They are the same colour only",
+              "They have the same size but different shapes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you flip a congruent shape over, is it still congruent to the original?",
+            "options": [
+              "Yes, flipping does not change its size or shape",
+              "No, flipping always changes the shape",
+              "Flipping always makes it larger",
+              "Flipping always makes it smaller"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which pair of shapes would be congruent?",
+            "options": [
+              "A large square and a small square",
+              "A triangle and a circle",
+              "Two triangles that are the exact same size and shape",
+              "A rectangle and a square"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Turning a shape to face a different direction ___ its congruence to the original.",
+            "options": [
+              "Always erases",
+              "Always doubles",
+              "Always changes",
+              "Does not change"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Identifying congruent shapes helps students understand ___.",
+            "options": [
+              "That congruent shapes must be different colours",
+              "That shapes can be equal in size and shape even when turned",
+              "That size never matters when comparing shapes",
+              "That all shapes are always congruent"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Seed Dispersal: How Plants Spread Their Seeds",
+        "summary": "Ontario Grade 2 Life Systems strand: students learn that plants disperse, or spread, their seeds in different ways, such as wind carrying light seeds, water carrying floating seeds, and animals carrying seeds in fur or after eating fruit.",
+        "resourceLabel": "YouTube: Seed Dispersal: How Plants Spread Their Seeds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Seed%20Dispersal%3A%20How%20Plants%20Spread%20Their%20Seeds%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean for a plant to disperse its seeds?",
+            "options": [
+              "To turn its seeds into flowers",
+              "To stop making seeds completely",
+              "To spread its seeds to new places",
+              "To keep all its seeds in one spot forever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might wind help disperse seeds?",
+            "options": [
+              "By burying seeds underground",
+              "By carrying light seeds through the air to new places",
+              "Wind never affects seeds at all",
+              "By turning seeds into water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How might an animal help disperse the seeds of a plant?",
+            "options": [
+              "By carrying seeds in its fur or eating fruit and dropping seeds elsewhere",
+              "By destroying every seed it touches",
+              "Animals never interact with seeds",
+              "By keeping seeds in one exact spot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is seed dispersal important for a plant?",
+            "options": [
+              "It helps new plants grow in new places without overcrowding the parent plant",
+              "It stops new plants from ever growing",
+              "Seed dispersal has no benefit to a plant",
+              "It only helps animals, not plants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a way that water can disperse seeds?",
+            "options": [
+              "Water only affects fully grown plants",
+              "Water never carries seeds anywhere",
+              "Carrying floating seeds downstream to a new location",
+              "Water always destroys every seed"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How Communities Help Each Other After a Disaster",
+        "summary": "Ontario Grade 2 Social Studies strand: students learn that when a disaster such as a flood or storm affects a community, neighbours, volunteers, and organizations often work together to help people recover and rebuild.",
+        "resourceLabel": "YouTube: How Communities Help Each Other After a Disaster",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Communities%20Help%20Each%20Other%20After%20a%20Disaster%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is one way communities help each other after a disaster?",
+            "options": [
+              "Neighbours and volunteers work together to help people recover",
+              "No one is ever able to help after a disaster",
+              "Communities always ignore people in need",
+              "Disasters never affect communities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a natural disaster?",
+            "options": [
+              "A quiet sunny afternoon",
+              "A regular school day",
+              "A flood",
+              "A calm lake"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might volunteers collect food and supplies after a disaster?",
+            "options": [
+              "To help people who lost their homes or belongings",
+              "Only governments are allowed to help",
+              "Supplies are not needed after a disaster",
+              "Volunteers never collect supplies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one way people can prepare before a disaster happens?",
+            "options": [
+              "Ignoring the possibility of a disaster",
+              "Refusing to plan for emergencies",
+              "Avoiding all safety information",
+              "Making an emergency plan and kit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Communities that help each other after a disaster show the importance of ___.",
+            "options": [
+              "Avoiding community involvement",
+              "Ignoring people who need assistance",
+              "Cooperation and caring for one another",
+              "Working alone with no help from others"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 110,
+    "label": "Day 110 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Sentences, Grammar, and Story Comprehension",
+        "summary": "Students review recent Language skills: subjects and predicates, articles a/an/the, verb tenses, using illustrations to understand a story, comparing and contrasting texts, following multi-step directions, story mood, transition words, and writing descriptive paragraphs using the five senses.",
+        "resourceLabel": "YouTube: Language Review: Sentences, Grammar, and Story Comprehension",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Sentences%2C%20Grammar%2C%20and%20Story%20Comprehension%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the subject of a sentence?",
+            "options": [
+              "The part that names who or what the sentence is about",
+              "The part that tells what the subject does",
+              "A punctuation mark at the end",
+              "A describing word only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses the correct article?",
+            "options": [
+              "She ate the apple an.",
+              "She ate apple a.",
+              "She ate a apple.",
+              "She ate an apple."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is in the future tense?",
+            "options": [
+              "They visit the zoo often.",
+              "They will visit the zoo tomorrow.",
+              "They visited the zoo yesterday.",
+              "They were visiting the zoo."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to contrast two things?",
+            "options": [
+              "To describe how they are exactly the same",
+              "To measure their size",
+              "To combine them into one thing",
+              "To describe how they are different"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do writers use sensory details in descriptive writing?",
+            "options": [
+              "Sensory details make writing less interesting",
+              "To help readers imagine the experience more vividly",
+              "Descriptive writing should avoid all details",
+              "Sensory details have no purpose in writing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Multiplication, Geometry, and Number Sense",
+        "summary": "Students review recent Math skills: multiplication facts for 0s, 1s, and 10s, composing and decomposing 2D shapes, number patterns on a hundred chart, estimating length, interpreting bar graphs with a scale, ordering numbers to 1000, locating numbers on a number line, doubling and halving, and congruent shapes.",
+        "resourceLabel": "YouTube: Math Review: Multiplication, Geometry, and Number Sense",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Geometry%2C%20and%20Number%20Sense%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 6 times 10?",
+            "options": [
+              "6",
+              "610",
+              "16",
+              "60"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a hundred chart, what happens to a number as you move down one row?",
+            "options": [
+              "It decreases by 10",
+              "It stays the same",
+              "It increases by 10",
+              "It increases by 1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is the greatest: 342, 423, or 234?",
+            "options": [
+              "234",
+              "342",
+              "They are all equal",
+              "423"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is half of 16?",
+            "options": [
+              "8",
+              "6",
+              "12",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for two shapes to be congruent?",
+            "options": [
+              "They are exactly the same size and shape",
+              "They have the same size but different shapes",
+              "They are the same colour only",
+              "They have different sizes but the same shape"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Earth, Animals, and Plants",
+        "summary": "Students review recent Science topics: weathering, animal movement, food webs, tundra habitats, the skin, camouflage and mimicry, insect life cycles, exoskeletons and endoskeletons, and seed dispersal.",
+        "resourceLabel": "YouTube: Science Review: Earth, Animals, and Plants",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Earth%2C%20Animals%2C%20and%20Plants%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is weathering?",
+            "options": [
+              "A type of severe storm",
+              "The slow breaking down of rocks by wind, water, and ice",
+              "The melting of snow in spring",
+              "The movement of soil from one place to another"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a food web?",
+            "options": [
+              "A chart of animal habitats only",
+              "Many connected food chains showing how animals eat different things",
+              "A single line showing one animal eating one plant",
+              "A spider web found in a garden"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one important job of the skin?",
+            "options": [
+              "Sending messages to the brain only",
+              "Protecting the body from germs and injury",
+              "Breaking down food for energy",
+              "Pumping blood through the body"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is mimicry?",
+            "options": [
+              "When a harmless animal looks like a dangerous one to stay safe",
+              "When an animal blends perfectly into a rock",
+              "When an animal grows a new colour every day",
+              "When an animal hides underground forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an exoskeleton?",
+            "options": [
+              "A soft, flexible skin only",
+              "A skeleton found inside the body",
+              "A type of plant root",
+              "A hard outer covering that supports and protects an animal body"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Canadian Heritage, Government, and Geography",
+        "summary": "Students review recent Social Studies topics: Terry Fox, democracy, provincial and territorial capital cities, First Nations, Inuit, and Metis peoples, national emblems, languages of the world, the Underground Railroad, map scale, and communities helping after a disaster.",
+        "resourceLabel": "YouTube: Social Studies Review: Canadian Heritage, Government, and Geography",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Canadian%20Heritage%2C%20Government%2C%20and%20Geography%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What did Terry Fox call his run across Canada?",
+            "options": [
+              "The Freedom Run",
+              "The Great Canadian Walk",
+              "The Race for Canada",
+              "The Marathon of Hope"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a democracy?",
+            "options": [
+              "A system where citizens cannot vote",
+              "A system with no leaders at all",
+              "A place where only one person makes every decision",
+              "A system where citizens have a voice and vote for their leaders"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are the three distinct groups of Indigenous peoples in Canada?",
+            "options": [
+              "First Nations, Inuit, and Metis",
+              "Settlers, explorers, and traders",
+              "Provinces, cities, and towns",
+              "Farmers, teachers, and mayors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Underground Railroad?",
+            "options": [
+              "An actual railroad built underground",
+              "A secret network of routes and safe houses to help freedom seekers reach Canada",
+              "A type of Canadian sports league",
+              "A modern subway system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one way communities help each other after a disaster?",
+            "options": [
+              "Communities always ignore people in need",
+              "Neighbours and volunteers work together to help people recover",
+              "No one is ever able to help after a disaster",
+              "Disasters never affect communities"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]

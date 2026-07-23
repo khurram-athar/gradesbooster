@@ -5341,6 +5341,586 @@ const curriculum: DayContent[] = [
      {prompt:"What is the capital city of Canada?", answers:["Ottawa"]}
    ]},
 ]},
+{day:101, label:"Day 101 — Mon", subjects:[
+  {subject:"Language", title:"Punctuation: Periods at the End of a Sentence", summary:"Students learn that a sentence usually ends with a small dot called a period, which tells a reader to stop and pause before starting the next sentence.",
+   resourceLabel:"YouTube: Punctuation: Periods at the End of a Sentence", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Periods%20at%20the%20End%20of%20a%20Sentence%20kindergarten%20educational",
+   quiz:[
+     {q:"What small dot do we put at the end of a telling sentence?", options:["A comma","A question mark","An exclamation mark","A period"], answer:3},
+     {q:"Which sentence correctly ends with a period?", options:["I like dogs","I like dogs?","I like dogs.","I like dogs!"], answer:2},
+     {q:"What does a period tell a reader to do?", options:["Start singing","Read louder","Skip the sentence","Stop and pause before the next sentence"], answer:3},
+     {q:"Which of these sentences is missing an ending mark?", options:["The sun is hot","The sun is hot.","The sun is hot!","Is the sun hot?"], answer:0},
+     {q:"A period is used at the end of a ___.", options:["Story title","Telling sentence","Book cover","Character name"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What small dot do we put at the end of a telling sentence?", answers:["period","a period"]},
+     {prompt:"Look at the sentence I see a cat. What mark comes right after the word cat?", answers:["period",".","a period"]},
+     {prompt:"Does a period tell a reader to stop and pause?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Venn Diagrams: Sorting into Two Groups", summary:"Students learn to use a Venn diagram, two overlapping circles, to sort objects into groups based on whether they share a certain attribute, like colour or shape.",
+   resourceLabel:"YouTube: Venn Diagrams: Sorting into Two Groups", resourceUrl:"https://www.youtube.com/results?search_query=Venn%20Diagrams%3A%20Sorting%20into%20Two%20Groups%20kindergarten%20educational",
+   quiz:[
+     {q:"What shape do we usually use to sort objects into two groups on a Venn diagram?", options:["One square","Two overlapping circles","A triangle","A straight line"], answer:1},
+     {q:"If you sort toys by colour using a Venn diagram, what are you grouping toys by?", options:["Their weight","Their smell","Their colour","Their sound"], answer:2},
+     {q:"Where would an object go if it belongs in both circles of a Venn diagram?", options:["Only in the right circle","Only in the left circle","Outside both circles","In the middle part where the circles overlap"], answer:3},
+     {q:"A Venn diagram helps us ___.", options:["Count to 100","Sort and compare objects into groups","Measure how loud something is","Tell time"], answer:1},
+     {q:"Which of these could you sort using a Venn diagram?", options:["A song","A single number","Toys sorted by colour and shape","A shadow"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If a Venn diagram has two circles, how many groups can objects be sorted into using them?", answers:["two","2"]},
+     {prompt:"Name one way you could sort toys into two circles, like by colour or shape.", answers:["colour","shape","size"]},
+     {prompt:"If an object fits in both circles, where might it go in a Venn diagram?", answers:["in the middle","overlapping part","where the circles overlap"]}
+   ]},
+  {subject:"Science", title:"Our Nose: Smelling Good and Bad Smells", summary:"Students learn that the nose is the body part used for smelling, helping us notice good smells like flowers and warning smells like smoke.",
+   resourceLabel:"YouTube: Our Nose: Smelling Good and Bad Smells", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Nose%3A%20Smelling%20Good%20and%20Bad%20Smells%20kindergarten%20educational",
+   quiz:[
+     {q:"What body part do we use to smell things?", options:["Nose","Elbow","Eyes","Ears"], answer:0},
+     {q:"Which of these is an example of a pleasant smell?", options:["Skunk spray","Burning smoke","Rotten food","Fresh flowers"], answer:3},
+     {q:"Why might the smell of smoke be an important warning smell?", options:["It can warn us that there might be a fire","It always smells nice","It tells us to eat lunch","It has no meaning at all"], answer:0},
+     {q:"Which of these smells might warn us that food has gone bad?", options:["A sour, rotten smell","A fresh bread smell","A sweet flower smell","No smell change at all"], answer:0},
+     {q:"Our nose is one of our five ___.", options:["Shapes","Bones","Colours","Senses"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What body part do we use to smell things?", answers:["nose"]},
+     {prompt:"Name one smell that might be pleasant, like flowers or fresh bread.", answers:["flowers","fresh bread","cookies"]},
+     {prompt:"Can a smell, like smoke, warn us that something might be unsafe?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Crossing Guard: Helping Us Cross Safely", summary:"Students learn about the job of a crossing guard, a community helper who stands at busy streets to help children and families cross safely on their way to and from school.",
+   resourceLabel:"YouTube: Our Crossing Guard: Helping Us Cross Safely", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Crossing%20Guard%3A%20Helping%20Us%20Cross%20Safely%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a helper who stops traffic so people can cross the street safely?", options:["A farmer","A mayor","A crossing guard","A librarian"], answer:2},
+     {q:"Where does a crossing guard usually stand to help people?", options:["Inside a bakery","Inside a library","At a busy street or crosswalk","On a mountain"], answer:2},
+     {q:"What should you do when a crossing guard signals it is safe to cross?", options:["Run without looking","Cross carefully while watching for cars","Ignore the signal","Stay in the middle of the street"], answer:1},
+     {q:"Why is a crossing guard an important community helper?", options:["They grow food","They help keep people safe while crossing busy streets","They fix broken pipes","They deliver mail"], answer:1},
+     {q:"A crossing guard often helps children get to and from ___ safely.", options:["A boat","A cave","School","The moon"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a helper who stops traffic so we can cross the street safely?", answers:["crossing guard"]},
+     {prompt:"Where does a crossing guard often stand to help people cross safely?", answers:["at a busy street","near school","at a crosswalk"]},
+     {prompt:"Should we listen to and follow a crossing guard signal before crossing?", answers:["yes"]}
+   ]},
+]},
+{day:102, label:"Day 102 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -ap Words", summary:"Students explore the -ap word family, learning that changing the first letter of words like cap, map, and tap creates new rhyming words that share the same ending sound.",
+   resourceLabel:"YouTube: Word Families: -ap Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ap%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word rhymes with cap?", options:["Dog","Sun","Cup","Map"], answer:3},
+     {q:"Change the c in cap to n. What new word do you make?", options:["Nut","Net","Nod","Nap"], answer:3},
+     {q:"Which of these words is part of the -ap word family?", options:["Top","Tap","Tip","Tub"], answer:1},
+     {q:"Words in the -ap family all end with the same ___.", options:["Colour","Number","Sound","Picture"], answer:2},
+     {q:"Which word does not belong in the -ap word family?", options:["Cap","Tap","Sun","Map"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Change the c in cap to m. What new word do you make?", answers:["map"]},
+     {prompt:"Change the m in map to t. What new word do you make?", answers:["tap"]},
+     {prompt:"Name one more word that rhymes with cap, map, and tap.", answers:["nap","lap","sap","clap"]}
+   ]},
+  {subject:"Math", title:"3D Shapes: Which Ones Roll, Stack, or Slide", summary:"Students explore 3D shapes by testing whether each one rolls, like a sphere, stacks, like a cube, or slides, like the flat face of a cylinder.",
+   resourceLabel:"YouTube: 3D Shapes: Which Ones Roll, Stack, or Slide", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Which%20Ones%20Roll%2C%20Stack%2C%20or%20Slide%20kindergarten%20educational",
+   quiz:[
+     {q:"Which 3D shape rolls easily because it is round all over?", options:["Cone standing up","Rectangular prism","Cube","Sphere"], answer:3},
+     {q:"Why can a cube stack easily on top of another cube?", options:["It has flat faces","It has no faces","It rolls away","It is round"], answer:0},
+     {q:"Which 3D shape can both roll and stack, depending on how it is placed?", options:["None of these","A sphere only","A cube only","A cylinder"], answer:3},
+     {q:"Which shape would NOT roll well because it has flat faces and corners?", options:["A sphere","A round marble","A ball","A cube"], answer:3},
+     {q:"Testing whether shapes roll, stack, or slide helps us learn about their ___.", options:["Colours","Sounds","Smells","Attributes"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Would a round sphere, like a ball, roll or stay still?", answers:["roll"]},
+     {prompt:"Would a cube, with flat faces, be easy to stack on top of another cube?", answers:["yes"]},
+     {prompt:"Name one 3D shape that can roll, like a sphere or cylinder.", answers:["sphere","cylinder","ball"]}
+   ]},
+  {subject:"Science", title:"Forest Habitats: Trees and Wildlife", summary:"Students learn that a forest is a habitat full of many trees, where animals such as squirrels, deer, and owls find food and shelter among the branches and leaves.",
+   resourceLabel:"YouTube: Forest Habitats: Trees and Wildlife", resourceUrl:"https://www.youtube.com/results?search_query=Forest%20Habitats%3A%20Trees%20and%20Wildlife%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a forest?", options:["A small pond","A habitat full of many trees","A dry desert","A deep ocean"], answer:1},
+     {q:"Which animal is commonly found living in a forest?", options:["A camel","A polar bear","A squirrel","A shark"], answer:2},
+     {q:"Why might a forest be a good habitat for many animals?", options:["It offers trees for food and shelter","It never has any plants","It is always underwater","It has no trees at all"], answer:0},
+     {q:"What do forest animals like owls use trees for?", options:["Making sand","Building roads","Finding food and shelter","Swimming"], answer:2},
+     {q:"A forest is an example of a ___.", options:["Story character","Habitat","Number","Colour"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a habitat that is full of many trees?", answers:["forest","a forest"]},
+     {prompt:"Name one animal that might live in a forest, like a squirrel or owl.", answers:["squirrel","owl","deer"]},
+     {prompt:"Do forest animals often use trees for food and shelter?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Thanksgiving: A Time to Give Thanks", summary:"Students learn that Thanksgiving is a Canadian holiday in the fall when families gather together to share a meal and give thanks for the good things in their lives.",
+   resourceLabel:"YouTube: Thanksgiving: A Time to Give Thanks", resourceUrl:"https://www.youtube.com/results?search_query=Thanksgiving%3A%20A%20Time%20to%20Give%20Thanks%20kindergarten%20educational",
+   quiz:[
+     {q:"In what season does Canadian Thanksgiving take place?", options:["Winter","Fall","Spring","Summer"], answer:1},
+     {q:"What do families often do together on Thanksgiving?", options:["Share a meal and give thanks","Go ice skating","Build snowmen","Plant a garden"], answer:0},
+     {q:"What is the main idea of Thanksgiving?", options:["Giving thanks for good things in our lives","Buying new toys","Sleeping all day","Cleaning the whole house"], answer:0},
+     {q:"Which of these is often part of a Thanksgiving celebration?", options:["Wearing costumes to trick or treat","A family gathering with a special meal","Watching fireworks at midnight","Giving out valentines"], answer:1},
+     {q:"Thanksgiving reminds us to feel ___ for the good things we have.", options:["Afraid","Angry","Bored","Thankful"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What season does Canadian Thanksgiving happen in?", answers:["fall","autumn"]},
+     {prompt:"Name one thing families might do together on Thanksgiving, like sharing a meal.", answers:["share a meal","eat together","give thanks"]},
+     {prompt:"Is Thanksgiving a time to give thanks for good things in our lives?", answers:["yes"]}
+   ]},
+]},
+{day:103, label:"Day 103 — Wed", subjects:[
+  {subject:"Language", title:"Word Families: -in Words", summary:"Students explore the -in word family, learning that changing the first letter of words like pin, win, and fin creates new rhyming words that share the same ending sound.",
+   resourceLabel:"YouTube: Word Families: -in Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-in%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word rhymes with pin?", options:["Dog","Win","Cup","Sun"], answer:1},
+     {q:"Change the p in pin to f. What new word do you make?", options:["Fun","Fin","Fan","Fig"], answer:1},
+     {q:"Which of these words is part of the -in word family?", options:["Bat","Bit","Bin","But"], answer:2},
+     {q:"Words in the -in family all end with the same ___.", options:["Picture","Colour","Number","Sound"], answer:3},
+     {q:"Which word does not belong in the -in word family?", options:["Sun","Fin","Pin","Win"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Change the p in pin to w. What new word do you make?", answers:["win"]},
+     {prompt:"Change the w in win to f. What new word do you make?", answers:["fin"]},
+     {prompt:"Name one more word that rhymes with pin, win, and fin.", answers:["bin","chin","tin","din"]}
+   ]},
+  {subject:"Math", title:"Calendar: Months of the Year", summary:"Students learn that a year is divided into twelve months, such as January and July, and that a calendar helps us keep track of days, weeks, and months.",
+   resourceLabel:"YouTube: Calendar: Months of the Year", resourceUrl:"https://www.youtube.com/results?search_query=Calendar%3A%20Months%20of%20the%20Year%20kindergarten%20educational",
+   quiz:[
+     {q:"How many months are there in one year?", options:["12","7","4","52"], answer:0},
+     {q:"Which of these is a month of the year?", options:["Monday","Summer","July","Morning"], answer:2},
+     {q:"What tool helps us keep track of days, weeks, and months?", options:["A thermometer","A calendar","A scale","A ruler"], answer:1},
+     {q:"Which month often comes right after December, starting a new year?", options:["January","March","October","June"], answer:0},
+     {q:"A year is made up of twelve ___.", options:["Months","Minutes only","Days only","Hours only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"How many months are there in a year?", answers:["12","twelve"]},
+     {prompt:"Name one month of the year, like January or July.", answers:["January","February","March","April","May","June","July","August","September","October","November","December"]},
+     {prompt:"Does a calendar help us keep track of days and months?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Types of Precipitation: Rain, Snow, and Hail", summary:"Students learn that precipitation is water that falls from clouds in different forms, such as rain, snow, and hail, depending on the temperature outside.",
+   resourceLabel:"YouTube: Types of Precipitation: Rain, Snow, and Hail", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Precipitation%3A%20Rain%2C%20Snow%2C%20and%20Hail%20kindergarten%20educational",
+   quiz:[
+     {q:"What word describes water falling from clouds, such as rain or snow?", options:["Camouflage","Precipitation","Gravity","Erosion"], answer:1},
+     {q:"Which type of precipitation usually falls when the weather is very cold?", options:["Snow","Fog only","Warm rain","Sunshine"], answer:0},
+     {q:"Which type of precipitation falls as small balls of ice?", options:["Snowflakes only","Warm rain","Hail","Fog"], answer:2},
+     {q:"What usually causes precipitation to fall as snow instead of rain?", options:["No clouds at all","Very hot temperatures","Bright sunshine","Cold temperatures"], answer:3},
+     {q:"Rain, snow, and hail are all types of ___.", options:["Life cycles","Forces","Habitats","Precipitation"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What word describes water falling from clouds, like rain or snow?", answers:["precipitation"]},
+     {prompt:"Name one type of precipitation that falls when it is very cold, like snow.", answers:["snow"]},
+     {prompt:"Does rain usually fall when the weather is warm rather than freezing?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Prime Minister: Leading Our Country", summary:"Students learn that the Prime Minister is the leader chosen to help make important decisions for the whole country of Canada.",
+   resourceLabel:"YouTube: Our Prime Minister: Leading Our Country", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Prime%20Minister%3A%20Leading%20Our%20Country%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the leader who helps make important decisions for all of Canada?", options:["The Prime Minister","The Farmer","The Librarian","The Mayor"], answer:0},
+     {q:"How is the Prime Minister different from a mayor?", options:["A mayor leads the whole country","They have the exact same job","Neither one leads anything","The Prime Minister leads the whole country while a mayor leads a town or city"], answer:3},
+     {q:"Which of these best describes the job of the Prime Minister?", options:["Growing food on a farm","Helping make important decisions for Canada","Delivering mail across town","Teaching kindergarten class"], answer:1},
+     {q:"Where does the Prime Minister help make decisions for our country?", options:["Nowhere at all","Only in one small town","In another country only","In Canada"], answer:3},
+     {q:"Learning about the Prime Minister helps us understand more about our ___.", options:["Favourite foods","Country","Favourite games","Weather"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call the leader who helps make important decisions for all of Canada?", answers:["Prime Minister","the Prime Minister"]},
+     {prompt:"Is a mayor the leader of a town, or the leader of the whole country?", answers:["a town","town"]},
+     {prompt:"Does the Prime Minister help make decisions for the whole country?", answers:["yes"]}
+   ]},
+]},
+{day:104, label:"Day 104 — Thu", subjects:[
+  {subject:"Language", title:"Making New Words: Adding -er", summary:"Students learn that adding -er to some words, such as changing tall to taller or small to smaller, helps compare two things.",
+   resourceLabel:"YouTube: Making New Words: Adding -er", resourceUrl:"https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-er%20kindergarten%20educational",
+   quiz:[
+     {q:"Add -er to the word tall. What new word do you make?", options:["Taller","Tallier","Tallen","Tall"], answer:0},
+     {q:"Add -er to the word small. What new word do you make?", options:["Smaller","Smallier","Smallen","Small"], answer:0},
+     {q:"Adding -er to a word like fast usually helps us ___.", options:["Name a colour","Tell time","Compare two things","Count objects"], answer:2},
+     {q:"Which word correctly compares two things using -er?", options:["Faster","Fastier","Fasten","Fasting"], answer:0},
+     {q:"Which sentence correctly uses a word with -er to compare two dogs?", options:["The big dog is bigly the small dog","The big dog is bigness the small dog","The big dog is bigger than the small dog","The big dog is big than the small dog"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Add -er to the word tall. What new word do you make?", answers:["taller"]},
+     {prompt:"Add -er to the word small. What new word do you make?", answers:["smaller"]},
+     {prompt:"Does adding -er to a word often help us compare two things, like which is bigger?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Counting Backwards from 10 to 1", summary:"Students practise counting backwards, starting at 10 and saying each number in order down to 1, a skill often used during a countdown.",
+   resourceLabel:"YouTube: Counting Backwards from 10 to 1", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20Backwards%20from%2010%20to%201%20kindergarten%20educational",
+   quiz:[
+     {q:"If you count backwards starting at 10, what number comes next?", options:["11","8","9","7"], answer:2},
+     {q:"If you count backwards from 5, what number comes right after 5?", options:["3","6","4","10"], answer:2},
+     {q:"What is the last number you say when counting backwards down to 1?", options:["1","0","10","2"], answer:0},
+     {q:"Counting backwards from 10 to 1 is often used during a ___.", options:["Story","Recipe","Countdown","Song"], answer:2},
+     {q:"Which list correctly shows numbers counting backwards from 5?", options:["5, 4, 3, 2, 1","1, 3, 5, 2, 4","1, 2, 3, 4, 5","5, 3, 1, 2, 4"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"If you count backwards starting at 10, what number comes right after 10?", answers:["9","nine"]},
+     {prompt:"If you count backwards from 5, what number comes right after 5?", answers:["4","four"]},
+     {prompt:"What is the last number you say when counting backwards all the way down to 1?", answers:["1","one"]}
+   ]},
+  {subject:"Science", title:"Seed Dispersal: How Seeds Travel", summary:"Students learn that seed dispersal happens when seeds travel away from the parent plant by wind, water, or animals, helping new plants grow in new places.",
+   resourceLabel:"YouTube: Seed Dispersal: How Seeds Travel", resourceUrl:"https://www.youtube.com/results?search_query=Seed%20Dispersal%3A%20How%20Seeds%20Travel%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call seeds travelling away from the parent plant?", options:["Erosion","Seed dispersal","Gravity","Migration"], answer:1},
+     {q:"Which of these can carry a seed to a new place?", options:["Wind","A number","A sound","A shadow"], answer:0},
+     {q:"How might an animal help disperse a seed?", options:["By ignoring the seed completely","By eating the whole plant only","By carrying the seed to a new spot","By freezing the seed forever"], answer:2},
+     {q:"Why is seed dispersal helpful for plants?", options:["It has no purpose at all","It destroys all seeds","It stops plants from ever growing","It helps new plants grow in new places"], answer:3},
+     {q:"Seeds can travel by wind, water, or ___.", options:["Animals","Colours","Shadows","Sound waves"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes seeds travelling away from the parent plant?", answers:["seed dispersal","dispersal"]},
+     {prompt:"Name one way a seed might travel to a new place, like by wind or by an animal.", answers:["wind","water","animal"]},
+     {prompt:"Can seeds travelling to new places help new plants grow there?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Goods and Services: What People Make and Do", summary:"Students learn the difference between goods, which are things people make or grow, and services, which are helpful jobs people do for others.",
+   resourceLabel:"YouTube: Goods and Services: What People Make and Do", resourceUrl:"https://www.youtube.com/results?search_query=Goods%20and%20Services%3A%20What%20People%20Make%20and%20Do%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call things that people make or grow, like bread or toys?", options:["Goods","Habitats","Services","Laws"], answer:0},
+     {q:"What do we call helpful jobs people do for others, like fixing a car?", options:["Services","Fossils","Habitats","Goods"], answer:0},
+     {q:"Which of these is an example of a good?", options:["A doctor visit","A bus ride","A haircut","A loaf of bread"], answer:3},
+     {q:"Which of these is an example of a service?", options:["A book","A haircut from a hairdresser","A bag of apples","A toy car"], answer:1},
+     {q:"Farmers who grow food and hairdressers who cut hair both help our community by providing ___.", options:["Only stories","Laws only","Only games","Goods and services"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What word describes things that people make or grow, like bread or toys?", answers:["goods"]},
+     {prompt:"What word describes helpful jobs people do for others, like cutting hair?", answers:["services"]},
+     {prompt:"Is a loaf of bread an example of a good or a service?", answers:["good","a good"]}
+   ]},
+]},
+{day:105, label:"Day 105 — Fri", subjects:[
+  {subject:"Language", title:"Uppercase and Lowercase Letters: Matching Big and Small", summary:"Students learn to match uppercase, or capital, letters with their lowercase partners, such as matching a big B with a small b.",
+   resourceLabel:"YouTube: Uppercase and Lowercase Letters: Matching Big and Small", resourceUrl:"https://www.youtube.com/results?search_query=Uppercase%20and%20Lowercase%20Letters%3A%20Matching%20Big%20and%20Small%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a big letter, like B?", options:["Lowercase","Numeral","Punctuation","Uppercase"], answer:3},
+     {q:"What do we call a small letter, like b?", options:["Lowercase","Uppercase","Numeral","Punctuation"], answer:0},
+     {q:"Which of these is the lowercase match for the uppercase letter M?", options:["N","B","m","W"], answer:2},
+     {q:"Which of these is the uppercase match for the lowercase letter t?", options:["F","L","J","T"], answer:3},
+     {q:"Uppercase letters are often used at the ___ of a sentence or name.", options:["Beginning","End only","Middle only","Never used"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call a big letter, like B, at the start of a name?", answers:["uppercase","capital letter"]},
+     {prompt:"What do we call a small letter, like b, used in the middle of a word?", answers:["lowercase"]},
+     {prompt:"Does the uppercase letter A match with the lowercase letter a?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Money: Comparing Values of Coins", summary:"Students compare the values of Canadian coins, learning that some coins, like a quarter, are worth more than others, like a nickel, even if they look similar in size.",
+   resourceLabel:"YouTube: Money: Comparing Values of Coins", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Comparing%20Values%20of%20Coins%20kindergarten%20educational",
+   quiz:[
+     {q:"Which coin is worth more, a quarter or a nickel?", options:["A nickel","They are equal","Cannot tell","A quarter"], answer:3},
+     {q:"Which of these is a Canadian coin?", options:["A dime","A button","A rock","A leaf"], answer:0},
+     {q:"Does a coin size always tell us its value?", options:["Only paper money has value","Yes, bigger coins are always worth more","Coins have no value at all","No, some small coins are worth more than bigger ones"], answer:3},
+     {q:"Which coin is worth the least amount of money?", options:["A loonie","A quarter","A penny","A dime"], answer:2},
+     {q:"Comparing coin values helps us understand ___.", options:["What day it is","What the weather is","How much money we have","How tall we are"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Is a quarter worth more or less than a nickel?", answers:["more"]},
+     {prompt:"Name one Canadian coin, like a penny, nickel, dime, or quarter.", answers:["penny","nickel","dime","quarter"]},
+     {prompt:"Does a bigger looking coin always have a bigger value?", answers:["no"]}
+   ]},
+  {subject:"Science", title:"Animal Groups: Herds, Flocks, and Packs", summary:"Students learn that many animals live and travel together in groups, such as a herd of deer, a flock of birds, or a pack of wolves, which can help keep them safe.",
+   resourceLabel:"YouTube: Animal Groups: Herds, Flocks, and Packs", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Groups%3A%20Herds%2C%20Flocks%2C%20and%20Packs%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a group of birds flying together?", options:["A herd","A pod","A pack","A flock"], answer:3},
+     {q:"What do we call a group of wolves living together?", options:["A school","A flock","A herd","A pack"], answer:3},
+     {q:"What do we call a group of deer moving together?", options:["A flock","A pack","A pod","A herd"], answer:3},
+     {q:"Why might animals live together in groups?", options:["It always makes them louder","It can help keep them safer","Groups have no benefit","It makes them slower"], answer:1},
+     {q:"Herds, flocks, and packs are all examples of animal ___.", options:["Groups","Fossils","Habitats","Life cycles"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call a group of birds flying together?", answers:["flock"]},
+     {prompt:"What do we call a group of wolves living together?", answers:["pack"]},
+     {prompt:"Can living in a group help keep animals safer?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Pharmacist: Helping Us Stay Healthy", summary:"Students learn about the job of a pharmacist, a community helper who works at a pharmacy and helps prepare the medicine that doctors say people need.",
+   resourceLabel:"YouTube: Our Pharmacist: Helping Us Stay Healthy", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Pharmacist%3A%20Helping%20Us%20Stay%20Healthy%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a helper who prepares medicine at a pharmacy?", options:["A librarian","A pharmacist","A farmer","A mayor"], answer:1},
+     {q:"Where does a pharmacist usually work?", options:["In a library","At a pharmacy","On a farm","At a museum"], answer:1},
+     {q:"Why is a pharmacist an important community helper?", options:["They help prepare medicine that keeps people healthy","They build houses","They deliver mail","They grow food"], answer:0},
+     {q:"Who usually tells a pharmacist what medicine a person needs?", options:["A crossing guard","A doctor","A farmer","A librarian"], answer:1},
+     {q:"A pharmacist helps our community stay ___.", options:["Confused","Unsafe","Healthy","Hungry"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do we call a helper who prepares medicine at a pharmacy?", answers:["pharmacist"]},
+     {prompt:"Where does a pharmacist usually work?", answers:["pharmacy","a pharmacy"]},
+     {prompt:"Does a pharmacist help people stay healthy?", answers:["yes"]}
+   ]},
+]},
+{day:106, label:"Day 106 — Mon", subjects:[
+  {subject:"Language", title:"Story Solutions: How Problems Get Solved", summary:"Students learn that many stories have a problem faced by a character and a solution, which is how the character solves or fixes that problem by the end.",
+   resourceLabel:"YouTube: Story Solutions: How Problems Get Solved", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Solutions%3A%20How%20Problems%20Get%20Solved%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call how a character fixes a problem in a story?", options:["The problem","The title","The cover","The solution"], answer:3},
+     {q:"If a character is lost and then finds their way home, what is the solution?", options:["The characters name","Getting lost","The title of the book","Finding the way home"], answer:3},
+     {q:"Why do authors often include a solution at the end of a story?", options:["To show how the characters problem gets fixed","Solutions are never included in stories","To make the story longer for no reason","To confuse the reader"], answer:0},
+     {q:"Which of these is an example of a story solution?", options:["A character never notices any problem","A character asks a friend for help and solves the problem","A story with no problem at all","A story with no characters"], answer:1},
+     {q:"Understanding story solutions helps readers see how a problem gets ___.", options:["Solved","Ignored","Hidden","Forgotten"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes how a character fixes a problem in a story?", answers:["solution"]},
+     {prompt:"If a character loses a toy and then finds it again, what is the solution?", answers:["finding the toy","finding it"]},
+     {prompt:"Do most stories show a problem and then a solution?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Measurement: Comparing Capacity (Holds More or Less)", summary:"Students compare the capacity of different containers, learning to describe which container holds more and which holds less using water or sand.",
+   resourceLabel:"YouTube: Measurement: Comparing Capacity (Holds More or Less)", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Capacity%20%28Holds%20More%20or%20Less%29%20kindergarten%20educational",
+   quiz:[
+     {q:"What word describes how much a container can hold?", options:["Length","Weight","Capacity","Colour"], answer:2},
+     {q:"If a bucket holds more water than a cup, the bucket has a ___ capacity.", options:["Bigger","Equal","No","Smaller"], answer:0},
+     {q:"How could you test which of two containers holds more water?", options:["Fill each one and compare","Count their corners","Measure their colour","Weigh them on a scale only"], answer:0},
+     {q:"If two containers hold the exact same amount of water, their capacities are ___.", options:["Unknown forever","Impossible to compare","Very different","Equal"], answer:3},
+     {q:"Comparing capacity helps us understand how much a container can ___.", options:["Weigh","Cost","Hold","Sound like"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If one cup holds more water than another cup, which one has a bigger capacity?", answers:["the cup that holds more","the bigger cup"]},
+     {prompt:"Name one word used to compare how much two containers can hold, like more or less.", answers:["more","less"]},
+     {prompt:"Could you use sand or water to test which container holds more?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Simple Machines: Screws and Wedges", summary:"Students learn about two more simple machines, a screw, which is a spiral ramp that holds things together, and a wedge, which is a shape used to split or cut things apart.",
+   resourceLabel:"YouTube: Simple Machines: Screws and Wedges", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Screws%20and%20Wedges%20kindergarten%20educational",
+   quiz:[
+     {q:"What simple machine has a spiral shape and helps hold things together?", options:["A lever","A wheel","A pulley","A screw"], answer:3},
+     {q:"What simple machine is shaped like a triangle and helps cut or split things apart?", options:["A wheel","A screw","A wedge","A ramp"], answer:2},
+     {q:"Which of these tools uses a wedge shape to cut?", options:["A wheel","A pulley rope","A screwdriver","An axe"], answer:3},
+     {q:"Where might you find a screw being used?", options:["Floating in the sky","Swimming in the ocean","Holding pieces of furniture together","Growing in a garden"], answer:2},
+     {q:"Screws and wedges are both examples of ___.", options:["Weather tools","Habitats","Life cycles","Simple machines"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What simple machine has a spiral shape and helps hold things together, like in wood?", answers:["screw"]},
+     {prompt:"What simple machine is shaped like a triangle and helps cut or split things, like an axe?", answers:["wedge"]},
+     {prompt:"Name one place you might see a screw being used.", answers:["furniture","wood","toys"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Garbage Collectors: Keeping Streets Tidy", summary:"Students learn about the job of a garbage collector, a community helper who picks up garbage and recycling from homes so streets and neighbourhoods stay clean.",
+   resourceLabel:"YouTube: Our Garbage Collectors: Keeping Streets Tidy", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Garbage%20Collectors%3A%20Keeping%20Streets%20Tidy%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a helper who picks up garbage from homes?", options:["A garbage collector","A librarian","A pharmacist","A farmer"], answer:0},
+     {q:"Why is the job of a garbage collector important for a community?", options:["It has no real purpose","It only happens once a year","It makes streets messier","It helps keep streets and neighbourhoods clean"], answer:3},
+     {q:"What might a garbage collector pick up from homes, besides garbage?", options:["Books","Mail","Recycling","Medicine"], answer:2},
+     {q:"What might a neighbourhood look like without garbage collectors?", options:["Messy and full of trash","Full of flowers only","Perfectly clean forever","Exactly the same as always"], answer:0},
+     {q:"Garbage collectors help keep our community ___.", options:["Loud","Confusing","Unsafe","Clean and tidy"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call a helper who picks up garbage from homes?", answers:["garbage collector"]},
+     {prompt:"Why is it helpful for garbage collectors to pick up trash regularly?", answers:["keeps streets clean","stays tidy"]},
+     {prompt:"Do garbage collectors help keep our neighbourhood clean?", answers:["yes"]}
+   ]},
+]},
+{day:107, label:"Day 107 — Tue", subjects:[
+  {subject:"Language", title:"Nonfiction Clues: Labels and Photographs in Books", summary:"Students learn that nonfiction books often use labels and photographs to give readers true information and help explain real people, places, or things.",
+   resourceLabel:"YouTube: Nonfiction Clues: Labels and Photographs in Books", resourceUrl:"https://www.youtube.com/results?search_query=Nonfiction%20Clues%3A%20Labels%20and%20Photographs%20in%20Books%20kindergarten%20educational",
+   quiz:[
+     {q:"What kind of book gives readers true information about real people, places, or things?", options:["A poem only","A fiction book","A nonfiction book","A song only"], answer:2},
+     {q:"What kind of pictures do nonfiction books often use to show real things clearly?", options:["No pictures at all","Photographs","Made-up cartoon drawings only","Only maps"], answer:1},
+     {q:"What do we call words that name parts of a picture, like the parts of a flower?", options:["Punctuation","Labels","Titles","Rhymes"], answer:1},
+     {q:"Why might a nonfiction book about animals use photographs?", options:["To make the book longer for no reason","To show readers what the real animal looks like","To confuse the reader","Photographs are never used in nonfiction books"], answer:1},
+     {q:"Labels and photographs are examples of clues found in ___ books.", options:["Nonfiction","Fairy tale","Poetry","Fiction"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What kind of pictures do nonfiction books often use to show real things?", answers:["photographs","photos"]},
+     {prompt:"What do we call words that name parts of a picture, like labelling parts of a flower?", answers:["labels"]},
+     {prompt:"Do nonfiction books give readers true information?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Number Bonds: Ways to Make 6", summary:"Students explore different combinations of two numbers that add together to make 6, such as 1 and 5, or 2 and 4, building an understanding of number composition.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 6", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%206%20kindergarten%20educational",
+   quiz:[
+     {q:"Which two numbers add together to make 6?", options:["2 and 5","1 and 1","3 and 4","2 and 4"], answer:3},
+     {q:"Which two numbers add together to make 6?", options:["5 and 5","1 and 6","1 and 5","2 and 2"], answer:2},
+     {q:"Does 3 plus 3 also equal 6?", options:["Cannot tell","No","Only sometimes","Yes"], answer:3},
+     {q:"Which pair of numbers does NOT add together to make 6?", options:["3 and 3","2 and 4","1 and 5","2 and 5"], answer:3},
+     {q:"Learning different ways to make 6 helps us understand that a number can be made of ___.", options:["Only one possible combination","Only itself and zero","Different smaller number combinations","No smaller numbers at all"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What two numbers can you add together to make 6, using 2 and another number?", answers:["2 and 4","4"]},
+     {prompt:"What two numbers can you add together to make 6, using 1 and another number?", answers:["1 and 5","5"]},
+     {prompt:"Can 3 and 3 also add together to make 6?", answers:["yes"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Human: Baby to Adult", summary:"Students learn that humans grow and change through stages of life, starting as a baby, growing into a child, then a teenager, and eventually a grown adult.",
+   resourceLabel:"YouTube: Life Cycle of a Human: Baby to Adult", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Human%3A%20Baby%20to%20Adult%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a very young human right after being born?", options:["A cub","A baby","A calf","A chick"], answer:1},
+     {q:"Put these life stages in order: baby, child, ___.", options:["Teenager and then adult","Egg","Only more babies","Nothing at all"], answer:0},
+     {q:"What happens to humans as they move through the stages of life?", options:["They never change at all","They turn into a different animal","They grow and change over time","They disappear completely"], answer:2},
+     {q:"Which of these is a stage in the human life cycle?", options:["Fossil","Habitat","Erosion","Child"], answer:3},
+     {q:"Learning about human life stages helps us understand how people ___.", options:["Never grow at all","Grow and change over time","Stay exactly the same forever","Live only underwater"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a very young human right after being born?", answers:["baby"]},
+     {prompt:"Name one stage a human grows through, like baby, child, or adult.", answers:["baby","child","teenager","adult"]},
+     {prompt:"Do humans grow and change as they get older?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Knowing My Information: Name, Address, and Phone Number", summary:"Students learn why it is helpful and safe to know important personal information, such as their full name, home address, and a family phone number.",
+   resourceLabel:"YouTube: Knowing My Information: Name, Address, and Phone Number", resourceUrl:"https://www.youtube.com/results?search_query=Knowing%20My%20Information%3A%20Name%2C%20Address%2C%20and%20Phone%20Number%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is important personal information to know for safety?", options:["Your favourite toy","Your favourite song","Your home address","Your favourite colour"], answer:2},
+     {q:"Why is it helpful to know a family phone number?", options:["It can help a trusted adult contact your family if you need help","It should always be kept secret from everyone","It is only useful for playing games","It has no real purpose"], answer:0},
+     {q:"Who should you share your important personal information with if you need help?", options:["Anyone who asks","No one at all","A stranger","A trusted adult, like a parent, teacher, or police officer"], answer:3},
+     {q:"Which of these is an example of personal information?", options:["A story you read","Your full name","A song you like","The weather today"], answer:1},
+     {q:"Knowing your name, address, and phone number can help keep you ___.", options:["Bored","Confused","Safe","Hungry"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one important piece of information you should know about yourself, like your full name.", answers:["full name","name","address","phone number"]},
+     {prompt:"Why might it help to know your home address?", answers:["to find home","if you get lost","for safety"]},
+     {prompt:"Should you know a family phone number in case you need help?", answers:["yes"]}
+   ]},
+]},
+{day:108, label:"Day 108 — Wed", subjects:[
+  {subject:"Language", title:"Asking Questions: Wondering About a Story", summary:"Students practise asking questions before, during, and after reading a story, wondering about characters, events, and what might happen next.",
+   resourceLabel:"YouTube: Asking Questions: Wondering About a Story", resourceUrl:"https://www.youtube.com/results?search_query=Asking%20Questions%3A%20Wondering%20About%20a%20Story%20kindergarten%20educational",
+   quiz:[
+     {q:"Why might a reader ask questions before starting a story?", options:["To wonder what the story might be about","To skip the whole book","Questions are never helpful","To ignore the story"], answer:0},
+     {q:"Which of these is a good question to ask while reading a story?", options:["Why did the character do that","What is your favourite colour","What did you eat for breakfast","How tall are you"], answer:0},
+     {q:"Asking questions while reading can help a reader ___.", options:["Make the story disappear","Read more slowly for no reason","Understand the story better","Forget the story completely"], answer:2},
+     {q:"Which of these is a question you might ask after finishing a story?", options:["What is your shoe size","What is the weather","What happened at the end","What day is it today"], answer:2},
+     {q:"Wondering about characters, events, and what happens next is part of ___.", options:["Ignoring a story","Asking questions about a story","Counting pages only","Writing your name"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one question you might ask before reading a story, like what will happen.", answers:["what will happen","who is in it"]},
+     {prompt:"Name one question you might ask about a character in a story.", answers:["what does the character like","why did the character do that"]},
+     {prompt:"Can asking questions help us understand a story better?", answers:["yes"]}
+   ]},
+  {subject:"Math", title:"Position Words: Left and Right", summary:"Students learn positional language, using the words left and right to describe the direction or side that an object or person is on.",
+   resourceLabel:"YouTube: Position Words: Left and Right", resourceUrl:"https://www.youtube.com/results?search_query=Position%20Words%3A%20Left%20and%20Right%20kindergarten%20educational",
+   quiz:[
+     {q:"If a cup is sitting on the left side of a table, where is the cup?", options:["Below the table","On the right side","On the left side","Above the table"], answer:2},
+     {q:"If you point to the right, which direction are you pointing?", options:["To the left side","To the right side","Straight down","Straight up"], answer:1},
+     {q:"Which of these words describes a side or direction?", options:["Left","Loud","Cold","Sweet"], answer:0},
+     {q:"If a book is on your right side, where would you reach to find it?", options:["Above your head","To your left","To your right","Below your feet"], answer:2},
+     {q:"Position words like left and right help us describe ___.", options:["How heavy something is","What sound something makes","Where something is located","What colour something is"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If you raise the hand you write with, is that usually your left or right hand for most people?", answers:["right"]},
+     {prompt:"If a ball is sitting on the left side of a table, is it on the left side or the right side?", answers:["left"]},
+     {prompt:"Name one position word that tells direction, like left or right.", answers:["left","right"]}
+   ]},
+  {subject:"Science", title:"Food Groups: Eating a Balanced Diet", summary:"Students learn that healthy eating includes different food groups, such as fruits, vegetables, grains, and proteins, and that eating a variety of foods helps our bodies stay strong.",
+   resourceLabel:"YouTube: Food Groups: Eating a Balanced Diet", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Groups%3A%20Eating%20a%20Balanced%20Diet%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is a food group?", options:["Toys","Vegetables","Colours","Shapes"], answer:1},
+     {q:"Why is it healthy to eat foods from different food groups?", options:["Eating only one food group is always healthier","It helps our bodies get what they need to stay strong","It has no effect on our bodies","It makes food taste worse"], answer:1},
+     {q:"Which of these is an example of a fruit?", options:["A piece of chicken","An apple","A slice of bread","A carrot"], answer:1},
+     {q:"Which of these is an example of a vegetable?", options:["A grape","An apple","A banana","A carrot"], answer:3},
+     {q:"Eating a balanced diet means eating ___.", options:["A variety of foods from different food groups","Only sweet treats","Only one kind of food","No food at all"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one food group, like fruits or vegetables.", answers:["fruits","vegetables","grains","proteins"]},
+     {prompt:"Does eating a variety of different foods help our bodies stay strong?", answers:["yes"]},
+     {prompt:"Name one healthy food you could eat from the fruit group.", answers:["apple","banana","orange"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Local Zoo: Learning About Animals", summary:"Students learn that a zoo is a community place where people can visit and learn about animals from around the world while zookeepers care for their needs.",
+   resourceLabel:"YouTube: Our Local Zoo: Learning About Animals", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Local%20Zoo%3A%20Learning%20About%20Animals%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a place where people can visit and learn about animals?", options:["A bank","A library","A bakery","A zoo"], answer:3},
+     {q:"Who takes care of the animals living at a zoo?", options:["A pharmacist","A zookeeper","A librarian","A mayor"], answer:1},
+     {q:"Why might families enjoy visiting a zoo?", options:["Zoos have no animals at all","Zoos are always closed","Zoos are only for adults","They can see and learn about animals from around the world"], answer:3},
+     {q:"What is one job a zookeeper might do?", options:["Growing crops","Feeding and caring for the animals","Delivering mail","Fixing cars"], answer:1},
+     {q:"A zoo helps our community by ___.", options:["Growing vegetables","Teaching people about animals","Delivering packages","Selling bread"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call a place where people can visit and learn about animals?", answers:["zoo","a zoo"]},
+     {prompt:"Who takes care of the animals at a zoo?", answers:["zookeeper","zookeepers"]},
+     {prompt:"Can visiting a zoo help us learn about animals from around the world?", answers:["yes"]}
+   ]},
+]},
+{day:109, label:"Day 109 — Thu", subjects:[
+  {subject:"Language", title:"Print Concepts: Return Sweep (Reading Top to Bottom)", summary:"Students learn about the return sweep, the way a reader eyes move from the end of one line of text back to the start of the next line below it.",
+   resourceLabel:"YouTube: Print Concepts: Return Sweep (Reading Top to Bottom)", resourceUrl:"https://www.youtube.com/results?search_query=Print%20Concepts%3A%20Return%20Sweep%20%28Reading%20Top%20to%20Bottom%29%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the eye movement from the end of one line of text back to the start of the next line?", options:["The author","The title","The cover","The return sweep"], answer:3},
+     {q:"After finishing a line of text, where should a readers eyes move next?", options:["Up to the top of the page only","Back to the very first word of the book","Down to the start of the next line","Off the page completely"], answer:2},
+     {q:"Do we usually read a page from top to bottom?", options:["Never","Only sometimes","Yes","No"], answer:2},
+     {q:"Why is the return sweep an important print concept for new readers?", options:["It helps readers know where to continue reading next","It has no real purpose","It tells us the title of the book","It only matters for pictures"], answer:0},
+     {q:"Understanding the return sweep helps readers follow the text in the correct ___.", options:["Volume","Smell","Order","Colour"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"After reading to the end of a line of text, where do our eyes move next?", answers:["down to the next line","next line"]},
+     {prompt:"Do we read a page from top to bottom, one line after another?", answers:["yes"]},
+     {prompt:"What do we call the eye movement from the end of one line back to the start of the next line?", answers:["return sweep"]}
+   ]},
+  {subject:"Math", title:"Writing Numerals: Forming Numbers 0 to 10", summary:"Students practise writing numerals from 0 to 10, learning to form each number shape correctly with a pencil or crayon.",
+   resourceLabel:"YouTube: Writing Numerals: Forming Numbers 0 to 10", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Numerals%3A%20Forming%20Numbers%200%20to%2010%20kindergarten%20educational",
+   quiz:[
+     {q:"Which numeral comes right after 4?", options:["5","3","6","7"], answer:0},
+     {q:"Which numeral shows zero, meaning none at all?", options:["10","1","0","9"], answer:2},
+     {q:"When writing numerals, it is helpful to practise forming each ___ correctly.", options:["Song","Number shape","Sound","Colour"], answer:1},
+     {q:"Which numeral comes right before 10?", options:["7","11","9","8"], answer:2},
+     {q:"Writing numerals from 0 to 10 helps us practise ___.", options:["Singing a song","Naming colours","Drawing animals","Forming numbers correctly"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Write the numeral that comes right after 4.", answers:["5"]},
+     {prompt:"Write the numeral that shows zero, meaning none at all.", answers:["0"]},
+     {prompt:"Name one numeral between 0 and 10 that you can practise writing.", answers:["1","2","3","4","5","6","7","8","9","10"]}
+   ]},
+  {subject:"Science", title:"Endangered Animals: Protecting Wildlife", summary:"Students learn that an endangered animal is one with very few left in the wild, and that people can help protect these animals by caring for their habitats.",
+   resourceLabel:"YouTube: Endangered Animals: Protecting Wildlife", resourceUrl:"https://www.youtube.com/results?search_query=Endangered%20Animals%3A%20Protecting%20Wildlife%20kindergarten%20educational",
+   quiz:[
+     {q:"What word describes an animal with very few left in the wild?", options:["Nocturnal","Camouflaged","Migrating","Endangered"], answer:3},
+     {q:"Which of these could help protect an endangered animal?", options:["Destroying its habitat","Taking care of its natural habitat","Ignoring the animal completely","Hunting the animal for fun"], answer:1},
+     {q:"Why might people want to protect endangered animals?", options:["So the animals do not disappear forever","Endangered animals are not important","Protecting animals has no purpose","Endangered animals are not real"], answer:0},
+     {q:"Which of these is a reason an animal might become endangered?", options:["Living too long","Losing its natural habitat","Eating too much food","Having too many babies"], answer:1},
+     {q:"Learning about endangered animals helps us understand how to ___.", options:["Care for and protect wildlife","Destroy habitats","Hunt more animals","Ignore all animals"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What word describes an animal with very few left in the wild?", answers:["endangered"]},
+     {prompt:"Name one way people can help protect endangered animals, like caring for habitats.", answers:["caring for habitats","protecting habitats"]},
+     {prompt:"Is it important to help protect animals that are endangered?", answers:["yes"]}
+   ]},
+  {subject:"SocialStudies", title:"Fire Safety: What to Do If There Is a Fire", summary:"Students learn simple fire safety steps, such as staying low to avoid smoke, using stop drop and roll if clothing catches fire, and getting to a safe meeting spot outside.",
+   resourceLabel:"YouTube: Fire Safety: What to Do If There Is a Fire", resourceUrl:"https://www.youtube.com/results?search_query=Fire%20Safety%3A%20What%20to%20Do%20If%20There%20Is%20a%20Fire%20kindergarten%20educational",
+   quiz:[
+     {q:"What three steps should you do if your clothing catches fire?", options:["Run as fast as you can","Shout and wave your arms","Hide under a bed","Stop, drop, and roll"], answer:3},
+     {q:"Why should you stay low to the ground during a fire?", options:["To hide from friends","To avoid breathing in smoke","To find toys faster","It has no purpose"], answer:1},
+     {q:"Why does a family practise a fire safety plan with a meeting spot outside?", options:["Meeting spots are not important","So everyone knows where to gather safely if there is a fire","To confuse family members","To play a fun game"], answer:1},
+     {q:"Which of these shows good fire safety?", options:["Playing with matches","Practising stop, drop, and roll","Ignoring a smoke alarm","Hiding in a closet during a fire"], answer:1},
+     {q:"Learning fire safety steps helps keep our family ___.", options:["Unprepared","Confused","In danger","Safe"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What three steps should you do if your clothing catches fire?", answers:["stop drop and roll","stop, drop, and roll"]},
+     {prompt:"Should you stay low to the ground to avoid breathing in smoke during a fire?", answers:["yes"]},
+     {prompt:"Where should your family meet if you ever need to leave your home during a fire?", answers:["a safe meeting spot","meeting spot outside"]}
+   ]},
+]},
+{day:110, label:"Day 110 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Punctuation, Word Families, and Story Skills", summary:"Students review recent Language skills: periods, the -ap and -in word families, adding -er, uppercase and lowercase letters, story solutions, nonfiction clues, asking questions, and the return sweep.",
+   resourceLabel:"YouTube: Language Review: Punctuation, Word Families, and Story Skills", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Punctuation%2C%20Word%20Families%2C%20and%20Story%20Skills%20kindergarten%20educational",
+   quiz:[
+     {q:"What small dot do we put at the end of a telling sentence?", options:["A comma","An exclamation mark","A period","A question mark"], answer:2},
+     {q:"Which word rhymes with pin?", options:["Cup","Win","Sun","Dog"], answer:1},
+     {q:"Add -er to the word tall. What new word do you make?", options:["Taller","Tallier","Tall","Tallen"], answer:0},
+     {q:"What do we call how a character fixes a problem in a story?", options:["The problem","The cover","The solution","The title"], answer:2},
+     {q:"What do we call the eye movement from the end of one line of text back to the start of the next line?", options:["The author","The title","The return sweep","The cover"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What small dot do we put at the end of a telling sentence?", answers:["period","a period"]},
+     {prompt:"Change the c in cap to m. What new word do you make?", answers:["map"]},
+     {prompt:"What do we call a big letter, like B?", answers:["uppercase","capital letter"]}
+   ]},
+  {subject:"Math", title:"Math Review: Sorting, Shapes, and Number Sense", summary:"Students review recent Math skills: Venn diagrams, 3D shapes that roll or stack, the calendar, counting backwards, comparing coin values, capacity, number bonds to 6, position words, and writing numerals.",
+   resourceLabel:"YouTube: Math Review: Sorting, Shapes, and Number Sense", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Sorting%2C%20Shapes%2C%20and%20Number%20Sense%20kindergarten%20educational",
+   quiz:[
+     {q:"What shape do we usually use to sort objects into two groups on a Venn diagram?", options:["A triangle","A straight line","One square","Two overlapping circles"], answer:3},
+     {q:"Which 3D shape rolls easily because it is round all over?", options:["Cube","Sphere","Rectangular prism","Cone standing up"], answer:1},
+     {q:"How many months are there in one year?", options:["52","12","7","4"], answer:1},
+     {q:"Which coin is worth more, a quarter or a nickel?", options:["A quarter","Cannot tell","They are equal","A nickel"], answer:0},
+     {q:"Which numeral comes right after 4?", options:["6","7","3","5"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What shape do we usually use to sort objects into two groups on a Venn diagram?", answers:["two overlapping circles","circles"]},
+     {prompt:"How many months are there in a year?", answers:["12","twelve"]},
+     {prompt:"Which two numbers add together to make 6, using 2 and another number?", answers:["2 and 4","4"]}
+   ]},
+  {subject:"Science", title:"Science Review: Bodies, Habitats, and Nature", summary:"Students review recent Science topics: our nose, forest habitats, precipitation, seed dispersal, animal groups, screws and wedges, the human life cycle, food groups, and endangered animals.",
+   resourceLabel:"YouTube: Science Review: Bodies, Habitats, and Nature", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Habitats%2C%20and%20Nature%20kindergarten%20educational",
+   quiz:[
+     {q:"What body part do we use to smell things?", options:["Nose","Ears","Elbow","Eyes"], answer:0},
+     {q:"What is a forest?", options:["A habitat full of many trees","A small pond","A dry desert","A deep ocean"], answer:0},
+     {q:"What do we call a group of wolves living together?", options:["A school","A pack","A herd","A flock"], answer:1},
+     {q:"Which of these is a food group?", options:["Colours","Shapes","Vegetables","Toys"], answer:2},
+     {q:"What word describes an animal with very few left in the wild?", options:["Nocturnal","Endangered","Migrating","Camouflaged"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What body part do we use to smell things?", answers:["nose"]},
+     {prompt:"What is a forest?", answers:["a habitat full of trees","habitat with trees"]},
+     {prompt:"What word describes an animal with very few left in the wild?", answers:["endangered"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Helpers, Holidays, and Our Country", summary:"Students review recent Social Studies topics: crossing guards, Thanksgiving, the Prime Minister, goods and services, pharmacists, garbage collectors, personal information safety, the local zoo, and fire safety.",
+   resourceLabel:"YouTube: Social Studies Review: Helpers, Holidays, and Our Country", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Holidays%2C%20and%20Our%20Country%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call a helper who stops traffic so people can cross the street safely?", options:["A farmer","A crossing guard","A librarian","A mayor"], answer:1},
+     {q:"In what season does Canadian Thanksgiving take place?", options:["Spring","Winter","Fall","Summer"], answer:2},
+     {q:"What do we call the leader who helps make important decisions for all of Canada?", options:["The Mayor","The Prime Minister","The Librarian","The Farmer"], answer:1},
+     {q:"What do we call a helper who prepares medicine at a pharmacy?", options:["A mayor","A farmer","A pharmacist","A librarian"], answer:2},
+     {q:"What do we call a place where people can visit and learn about animals?", options:["A zoo","A bakery","A bank","A library"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call a helper who stops traffic so we can cross the street safely?", answers:["crossing guard"]},
+     {prompt:"What do we call the leader who helps make important decisions for all of Canada?", answers:["Prime Minister","the Prime Minister"]},
+     {prompt:"What do we call things that people make or grow, like bread or toys?", answers:["goods"]}
+   ]},
+]},
 ];
 
 export default curriculum;
