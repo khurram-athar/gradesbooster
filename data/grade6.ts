@@ -592,7 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"Language", title:"Writing a Research Report: Organization and Citation", summary:"Ontario Writing strand: a well-organized research report has an introduction, body sections with headings, and a conclusion. Proper citation gives credit to sources and avoids plagiarism.",
    resourceLabel:"YouTube: Writing a Research Report: Organization and Citation", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Research%20Report%3A%20Organization%20and%20Citation%20grade%206%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=yt6zuQbETMI",
+   videoUrl:"https://www.youtube.com/watch?v=CZnYQJ0ZX9A",
    quiz:[
      {q:"When paraphrasing a source in your report, you should:", options:["Copy the exact words and put them in quotes","Only use the information if it agrees with your thesis","Not cite it since you used your own words","Rewrite the idea in your own words and still cite the source"], answer:3},
      {q:"The introduction of a research report should:", options:["List all sources","Include all your conclusions","Be the longest section","Hook the reader and state the focus"], answer:3},
@@ -916,7 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The British Empire and Colonialism", summary:"Students examine how Britain built a global empire through trade, military power, and colonisation, and explore the complex consequences for colonised peoples.",
    resourceLabel:"YouTube: The British Empire and Colonialism", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Empire%20and%20Colonialism%20grade%206%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=VcnSsEVsrf0",
+   videoUrl:"https://www.youtube.com/watch?v=Mnws0xna2To",
    quiz:[
      {q:"At its height, the British Empire was ___.", options:["only in Asia","the largest empire in history","only in Africa","only in North America"], answer:1},
      {q:"Colonialism involved ___.", options:["controlling and exploiting territory","only sending aid","only building roads abroad","only trading with other nations"], answer:0},
@@ -1231,7 +1231,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Grade 6 Math Year Review", summary:"Students consolidate key Grade 6 math concepts: ratios, percentages, integers, algebra, geometry, measurement, and data.",
    resourceLabel:"YouTube: Grade 6 Math Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Math%20Year%20Review%20grade%206%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Z2gVyW71fp4",
+   videoUrl:"https://www.youtube.com/watch?v=RnR57m46c8U",
    quiz:[
      {q:"Simplify the ratio 15:25.", options:["5:3","1:5","15:25","3:5"], answer:3},
      {q:"What is 30% of 150?", options:["45","30","40","50"], answer:0},

@@ -24,7 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces Acting on Structures", summary:"Ontario Grade 5 Science strand: structures must withstand forces like tension, compression, and load to stay stable.",
    resourceLabel:"YouTube: Forces Acting on Structures", resourceUrl:"https://www.youtube.com/results?search_query=Forces%20Acting%20on%20Structures%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=3dU3OSFQNCo",
+   videoUrl:"https://www.youtube.com/watch?v=MyFRTBisBLA",
    quiz:[
      {q:"An engineer designs a bridge that must support heavy trucks. Which forces matter most?", options:["Neither — bridges don't experience forces","Only tension","Only compression","Both tension and compression"], answer:3},
      {q:"Why do bridges and towers often use triangular shapes instead of squares?", options:["A triangle holds its shape better","Squares aren't allowed in construction","Triangles always use less material","Triangles are cheaper to build"], answer:0},
@@ -276,7 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Human Body Systems Overview", summary:"Ontario Grade 5 Life Systems strand: the digestive, respiratory, circulatory, and skeletal-muscular systems work together to keep us alive and moving.",
    resourceLabel:"YouTube: Human Body Systems Overview", resourceUrl:"https://www.youtube.com/results?search_query=Human%20Body%20Systems%20Overview%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=AHQGNb0zBgg",
+   videoUrl:"https://www.youtube.com/watch?v=0JDCViWGn-0",
    quiz:[
      {q:"After you eat, which TWO systems work together most directly to get nutrients to your muscles?", options:["Skeletal and respiratory systems","Only the digestive system alone","Digestive and circulatory systems","Only the muscular system alone"], answer:2},
      {q:"If the respiratory system fails to bring in enough oxygen, which OTHER system is most directly affected?", options:["The skeletal system, since bones need oxygen to grow","The circulatory system, since blood carries oxygen through the body","No other system would be affected","The digestive system, since it doesn't rely on oxygen"], answer:1},
@@ -360,7 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Human Body and Energy", summary:"Recap of body systems and how they work together, plus energy transformations.",
    resourceLabel:"YouTube: Review: Human Body and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Human%20Body%20and%20Energy%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=AHQGNb0zBgg",
+   videoUrl:"https://www.youtube.com/watch?v=0JDCViWGn-0",
    quiz:[
      {q:"Which correctly pairs a body system with a related everyday activity?", options:["Respiratory system — breathing deeply before a race","Digestive system — filtering air","Circulatory system — chewing food","Skeletal system — pumping blood"], answer:0},
      {q:"A toaster converts electrical energy mostly into which form, and is this ever 100% efficient?", options:["Sound energy; yes, always 100% efficient","Mechanical energy; no energy is ever lost","Light energy; yes, always 100% efficient","Heat energy; no, some energy is always lost as unusable forms"], answer:3},
@@ -382,7 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: Language Skills", summary:"Mixed review of parts of speech, fact/opinion, figurative language, and paragraph structure.",
    resourceLabel:"YouTube: Final Review: Language Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Language%20Skills%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=gybAlzzE_lU",
+   videoUrl:"https://www.youtube.com/watch?v=RFZQMaGupaU",
    quiz:[
      {q:"'The stars winked at us from the velvet sky' uses which figurative technique?", options:["A fact about astronomy","Personification of the stars","A simile using 'like' or 'as'","Onomatopoeia"], answer:1},
      {q:"Which sentence blends a fact with an opinion?", options:["Maple trees grow in Canada.","Maple syrup is a liquid.","The tastiest topping comes from trees.","Maple syrup comes from maple trees."], answer:2},
@@ -392,7 +392,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Math Skills", summary:"Mixed review of fractions, decimals, area/perimeter, and volume.",
    resourceLabel:"YouTube: Final Review: Math Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Math%20Skills%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=g6RVCWwysfM",
+   videoUrl:"https://www.youtube.com/watch?v=2UEUWC313QY",
    quiz:[
      {q:"A rectangle has an area of 30 cm² and a width of 5 cm. What is its length?", options:["5 cm","6 cm","35 cm","25 cm"], answer:1},
      {q:"What is 0.25 written as a fraction in simplest form?", options:["1/4","2/5","1/5","1/2"], answer:0},
@@ -402,7 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of structures, matter, energy, and the human body.",
    resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=JeFHosvD03I",
+   videoUrl:"https://www.youtube.com/watch?v=DyKU6TmN4CE",
    quiz:[
      {q:"Which scenario involves compression?", options:["Stretching a rubber band","Sitting down on a cushion","A kite string pulled taut","A rope holding up a swing"], answer:1},
      {q:"Melting ice into water is what type of change, and is it reversible?", options:["Physical change; no, it can never be reversed","Physical change; yes, it can be reversed by freezing again","Chemical change; no, it cannot be reversed","Chemical change; yes, always reversible"], answer:1},
@@ -412,7 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Social Studies Skills", summary:"Mixed review of early Canada, Indigenous peoples, government, and physical regions.",
    resourceLabel:"YouTube: Final Review: Social Studies Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Social%20Studies%20Skills%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=DNPkc0nhcg8",
+   videoUrl:"https://www.youtube.com/watch?v=WDbjZm3RD3E",
    quiz:[
      {q:"Which three groups make up Indigenous peoples in Canada, and how do they differ?", options:["Settlers, Explorers, and Pioneers — recent immigrant groups","Only Inuit — the only Indigenous group in Canada","First Nations, Métis, and Inuit — each with distinct histories, languages, and cultures","Only First Nations — a single unified group"], answer:2},
      {q:"Which branch of government would be responsible if a new law were being debated and voted on?", options:["Legislative","Judicial","None","Executive"], answer:0},
@@ -592,7 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Review day: mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Idioms, Word Meanings, and Purpose", summary:"Mixed review of idioms, multiple-meaning words, author's purpose, and summarizing.",
    resourceLabel:"YouTube: Review: Idioms, Word Meanings, and Purpose", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Idioms%2C%20Word%20Meanings%2C%20and%20Purpose%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=cdhtf66xvVs",
+   videoUrl:"https://www.youtube.com/watch?v=AtphJso3OTc",
    quiz:[
      {q:"A story describes a character 'burning the midnight oil' before a big test. What does this reveal about the character?", options:["They are literally starting a fire, showing carelessness","They feel sleepy, showing laziness","They are cooking dinner, showing hunger","They are working late into the night, showing dedication"], answer:3},
      {q:"In 'The plane will bank sharply to the left,' the word 'bank' means...", options:["A pile of snow","The land beside a river","To tilt or turn at an angle","A financial institution"], answer:2},
@@ -622,7 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Fur Trade, Underground Railroad, and Immigration", summary:"Mixed review of the fur trade economy, the Underground Railroad, immigration, and multiculturalism.",
    resourceLabel:"YouTube: Review: Fur Trade, Underground Railroad, and Immigration", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Fur%20Trade%2C%20Underground%20Railroad%2C%20and%20Immigration%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RRhjqqe750A",
+   videoUrl:"https://www.youtube.com/watch?v=5zmOwgqkcec",
    quiz:[
      {q:"Why were beaver pelts the most valuable resource in the fur trade, rather than something like corn?", options:["Beaver fur was fashionable in Europe","There was no demand for any furs","Beaver pelts were used directly as currency","Corn could not be grown in Canada"], answer:0},
      {q:"How did the Underground Railroad help people seeking freedom, despite not being an actual railway?", options:["It was only a symbolic name with no real function","It transported goods, not people","It provided a secret network of routes and safe houses to reach freedom","It was a literal underground train system"], answer:2},
@@ -706,7 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Arctic: Geography and Peoples", summary:"The Arctic region of Canada has a unique cold climate, tundra landscape, and is home to Inuit communities with rich traditions.",
    resourceLabel:"YouTube: The Arctic: Geography and Peoples", resourceUrl:"https://www.youtube.com/results?search_query=The%20Arctic%3A%20Geography%20and%20Peoples%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=k8crQumncTE",
+   videoUrl:"https://www.youtube.com/watch?v=0_Il1-U2TRA",
    quiz:[
      {q:"Why has traditional Inuit knowledge been essential for survival in the Arctic environment?", options:["Arctic survival requires no special knowledge","It has no practical use","It only applies to farming","It offers skills for extreme cold"], answer:3},
      {q:"How does the Arctic's tundra landscape affect what kinds of building and infrastructure are possible there?", options:["Tundra has no effect on construction","There are no environmental challenges to building","The tundra allows unlimited large-scale farming","Permafrost and extreme cold require specialized construction methods"], answer:3},
@@ -748,7 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Canada's Provinces", summary:"Canada's provinces each have their own capital cities, geography, and key features that make them unique.",
    resourceLabel:"YouTube: Comparing Canada's Provinces", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Canada%27s%20Provinces%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=vCfqg9GrB_0",
    quiz:[
      {q:"Why might Alberta's economy differ significantly from Prince Edward Island's, based on geography?", options:["Geography has no effect on provincial economies","PEI has more oil resources than Alberta","Both provinces have identical economies","Alberta has oil; PEI has farming"], answer:3},
      {q:"Why does Quebec's French-speaking majority make it culturally distinct among Canadian provinces?", options:["This has no historical basis","Quebec has no distinct culture","All provinces are entirely French-speaking","It ties to New France heritage"], answer:3},
@@ -812,7 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Fractions, Ratios, Grids, and Angles", summary:"Mixed review of multiplying fractions, ratios, coordinate grids, and angles.",
    resourceLabel:"YouTube: Review: Fractions, Ratios, Grids, and Angles", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Fractions%2C%20Ratios%2C%20Grids%2C%20and%20Angles%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=6BhIbszLYjE",
+   videoUrl:"https://www.youtube.com/watch?v=RQ2nYUBVvqI",
    quiz:[
      {q:"A recipe needs 3/4 cup of oil per batch. How much oil is needed for 4 batches?", options:["3/16 cups","12/16 cups","4/3 cups","3 cups"], answer:3},
      {q:"A ratio of cats to dogs at a shelter is 3:5. If there are 15 cats, how many dogs are there?", options:["20","25","9","30"], answer:1},
@@ -844,7 +844,7 @@ const curriculum: DayContent[] = [
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"Language", title:"Descriptive Writing with Sensory Details", summary:"Descriptive writing uses sensory details — sight, sound, smell, taste, and touch — to help readers picture a scene vividly.",
    resourceLabel:"YouTube: Descriptive Writing with Sensory Details", resourceUrl:"https://www.youtube.com/results?search_query=Descriptive%20Writing%20with%20Sensory%20Details%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=kKb6fZRAEEU",
+   videoUrl:"https://www.youtube.com/watch?v=ttVT7YMtQmo",
    quiz:[
      {q:"Which revision adds the MOST effective sensory detail to 'The forest was quiet'?", options:["The forest was quiet, which was good.","Silent but for leaves and an owl call.","The forest was quiet and nice.","The forest existed and was quiet."], answer:1},
      {q:"A writer describes a bakery scene using only sight ('the bread was golden'). What would improve the description?", options:["Only using longer words","Removing all description entirely","Adding details from smell and warmth","Repeating the same sentence"], answer:2},
@@ -916,7 +916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of the Great Lakes", summary:"The Great Lakes — Superior, Michigan, Huron, Erie, and Ontario — form a major freshwater system shared between Canada and the United States.",
    resourceLabel:"YouTube: Geography of the Great Lakes", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20the%20Great%20Lakes%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=AvSHdCGpF3A",
+   videoUrl:"https://www.youtube.com/watch?v=thliEG0B5BE",
    quiz:[
      {q:"Why are the Great Lakes considered vital to both Canada's and the United States' economies?", options:["They have no economic significance","They are located entirely within one country","They provide shipping and fresh water","They only benefit Canada"], answer:2},
      {q:"Which factor makes the Great Lakes an important source of freshwater for millions of people?", options:["They are too small to matter","They are located in a desert region","They are made of saltwater like oceans","They hold a large portion of the world's surface freshwater"], answer:3},
@@ -958,7 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Trade Between Canada and Other Countries", summary:"Canada trades goods and resources with countries around the world, which supports jobs and the economy.",
    resourceLabel:"YouTube: Trade Between Canada and Other Countries", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20Between%20Canada%20and%20Other%20Countries%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
+   videoUrl:"https://www.youtube.com/watch?v=a-yVNNF00r8",
    quiz:[
      {q:"Why might Canada import bananas rather than growing them domestically?", options:["Canada has too many bananas already","Canada's climate can't grow bananas","Imports are illegal in Canada","Bananas cannot be transported"], answer:1},
      {q:"How does international trade generally benefit both countries involved in an exchange?", options:["Only the importing country benefits","Only the exporting country benefits","Trade never benefits either country","Each country gets what it can't make"], answer:3},
@@ -1032,7 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Circuits, Digestion, Food Chains, and Adaptations", summary:"Mixed review of electrical circuits, the digestive system, food chains, and adaptations.",
    resourceLabel:"YouTube: Review: Circuits, Digestion, Food Chains, and Adaptations", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Circuits%2C%20Digestion%2C%20Food%20Chains%2C%20and%20Adaptations%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=CeOhB87DEeU",
+   videoUrl:"https://www.youtube.com/watch?v=n3OWsRFtTeI",
    quiz:[
      {q:"A light bulb doesn't light up even though the battery is connected. Which problem would MOST likely explain this?", options:["The wire is made of copper","The circuit path is open or broken somewhere","The switch is closed","Too much electricity is flowing"], answer:1},
      {q:"Why is the small intestine the main site of nutrient absorption rather than the stomach?", options:["The stomach absorbs everything first","The small intestine doesn't touch food","Absorption happens in the mouth","It's built for absorbing nutrients"], answer:3},
@@ -1042,7 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Voting, Great Lakes, Trade, and Local Government", summary:"Mixed review of voting and elections, the Great Lakes, international trade, and local government.",
    resourceLabel:"YouTube: Review: Voting, Great Lakes, Trade, and Local Government", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Voting%2C%20Great%20Lakes%2C%20Trade%2C%20and%20Local%20Government%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=BjdF8WAza5U",
+   videoUrl:"https://www.youtube.com/watch?v=WpJSP2q5-M4",
    quiz:[
      {q:"Why might low voter turnout be a concern for a democracy?", options:["Elections need no voters to be valid","Decisions may not reflect most views","Fewer voters give fairer results","It has no effect on outcomes"], answer:1},
      {q:"Why are the Great Lakes vital to both Canada's and the United States' economies?", options:["They provide shipping and fresh water","They have no economic significance","They are located in one country only","They only benefit Canada"], answer:0},
@@ -1222,6 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri (Final Review)", reviewNote:"Final review day: mixed questions from Days 26–29, getting ready for Grade 5 in September!", subjects:[
   {subject:"Language", title:"Final Review: Comparing Texts, Sequence, Editing, and Word Skills", summary:"Mixed review of comparing texts, chronological order, revising/editing, and dictionary/thesaurus skills.",
    resourceLabel:"YouTube: Final Review: Comparing Texts, Sequence, Editing, and Word Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Comparing%20Texts%2C%20Sequence%2C%20Editing%2C%20and%20Word%20Skills%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cqebXUsZShU",
    quiz:[
      {q:"Two articles describe the same wildfire — one focuses on economic losses, the other on environmental impact. What does this reveal?", options:["Authors can focus on different aspects","This comparison teaches nothing","Both describe entirely separate events","Only one article can be correct"], answer:0},
      {q:"Why might a historian use a timeline instead of a random list of events?", options:["A timeline shows order and cause-effect","Timelines have no advantage","Timelines remove all dates","Random lists are always clearer"], answer:0},
@@ -1231,7 +1232,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Money, Patterns, Rounding, and Composite Shapes", summary:"Mixed review of financial literacy, patterning, rounding decimals, and composite shapes.",
    resourceLabel:"YouTube: Final Review: Money, Patterns, Rounding, and Composite Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Money%2C%20Patterns%2C%20Rounding%2C%20and%20Composite%20Shapes%20grade%205%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=g6RVCWwysfM",
+   videoUrl:"https://www.youtube.com/watch?v=rBpsauKXPfs",
    quiz:[
      {q:"A monthly budget has $50 income and $65 in planned expenses. What does this indicate?", options:["A $15 deficit, spending more than earned","There is no way to know","A $15 surplus","The budget is balanced"], answer:0},
      {q:"A pattern rule is 'multiply by 3, then subtract 1,' starting at 2. What is the second term?", options:["5","8","6","7"], answer:0},
