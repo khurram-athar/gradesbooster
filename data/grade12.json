@@ -7143,6 +7143,7 @@
         "summary": "A final day celebrating the intellectual journey of Grade 12 — reflecting on growth, looking ahead to university and life, and recognising what has been accomplished.",
         "resourceLabel": "TED-Ed: Literature",
         "resourceUrl": "https://www.youtube.com/watch?v=jTDkTt1UTXM",
+        "videoUrl": "https://www.youtube.com/watch?v=jTDkTt1UTXM",
         "quiz": [
           {
             "q": "The most important thing accomplished in Grade 12 is ___.",
@@ -7262,6 +7263,7 @@
         "summary": "Students celebrate completing Grade 12 Calculus, having built the tools of differential and integral calculus that Newton and Leibniz used to describe a changing universe.",
         "resourceLabel": "3Blue1Brown: Essence of Calculus",
         "resourceUrl": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
+        "videoUrl": "https://www.youtube.com/watch?v=WUvTyaaNkzM",
         "quiz": [
           {
             "q": "Grade 12 Calculus has given you the tools to describe ___.",

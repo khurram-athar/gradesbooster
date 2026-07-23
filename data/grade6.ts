@@ -1241,6 +1241,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Grade 6 Science Year Review", summary:"Students review all Grade 6 science strands: biodiversity, flight, electricity, optics, and Earth systems.",
    resourceLabel:"YouTube: Grade 6 Science Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%206%20Science%20Year%20Review%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=REtd-KbZ_28",
    quiz:[
      {q:"Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species — this is the ___.", options:["rock cycle","electromagnetic spectrum","biological classification (taxonomy)","water cycle"], answer:2},
      {q:"The four forces of flight are ___.", options:["lift, weight, thrust, drag","air, gravity, speed, angle","push, pull, up, down","force, mass, acceleration, velocity"], answer:0},

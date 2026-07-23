@@ -1222,6 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"English", title:"Grade 12 Celebration: A Year of Growth", summary:"A final day celebrating the intellectual journey of Grade 12 — reflecting on growth, looking ahead to university and life, and recognising what has been accomplished.",
    resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=jTDkTt1UTXM",
+   videoUrl:"https://www.youtube.com/watch?v=jTDkTt1UTXM",
    quiz:[
      {q:"The most important thing accomplished in Grade 12 is ___.", options:["only university preparation","only skill development","genuine intellectual growth","a high grade average"], answer:2},
      {q:"University marks a transition from ___.", options:["high school content to harder content","guided learning to independent intellectual life","being assessed to never being assessed again","one set of rules to another set of rules"], answer:1},
@@ -1241,6 +1242,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Grade 12 Calculus: Final Day", summary:"Students celebrate completing Grade 12 Calculus, having built the tools of differential and integral calculus that Newton and Leibniz used to describe a changing universe.",
    resourceLabel:"3Blue1Brown: Essence of Calculus", resourceUrl:"https://www.youtube.com/watch?v=WUvTyaaNkzM",
+   videoUrl:"https://www.youtube.com/watch?v=WUvTyaaNkzM",
    quiz:[
      {q:"Grade 12 Calculus has given you the tools to describe ___.", options:["A changing universe -- rates of change and accumulation","Only static, unchanging quantities","Only algebraic manipulation with no application","Only geometric shapes and their areas"], answer:0},
      {q:"Newton and Leibniz, who independently developed calculus, were driven by ___.", options:["Only a desire to pass examinations","Only abstract number theory with no application","The need to describe motion and continuous change","Only geometry problems involving triangles"], answer:2},

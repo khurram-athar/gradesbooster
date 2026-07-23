@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Subject-Verb Agreement", summary:"Ontario Grade 3 Writing strand: the subject and verb in a sentence must agree in number -- singular subjects take singular verbs (the dog runs) and plural subjects take plural verbs (the dogs run).",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=YqIJnvl9pL0",
    quiz:[
      {q:"Which sentence has correct subject-verb agreement?", options:["The dog run fast.","The dogs is running fast.","The dogs runs fast.","The dog runs fast."], answer:3},
      {q:"Choose the correct verb: The cats ___ in the yard.", options:["played playing","playing","plays","play"], answer:3},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Mass (Grams and Kilograms)", summary:"Ontario Grade 3 Measurement strand: mass is measured in grams (g) for lighter objects and kilograms (kg) for heavier objects, using a balance scale to compare.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ss4TEbiro6s",
    quiz:[
      {q:"Which unit would best measure the mass of an apple?", options:["Metres","Grams","Litres","Kilograms"], answer:1},
      {q:"Which unit would best measure the mass of a large dog?", options:["Grams","Kilograms","Millilitres","Centimetres"], answer:1},
@@ -1375,6 +1377,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Regions of Canada: The Rocky Mountains", summary:"Ontario Grade 3 Social Studies People and Environments strand: the Rocky Mountains are a tall, rugged mountain range in western Canada, home to diverse wildlife and important for tourism.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=MemTUkuOvHE",
    quiz:[
      {q:"The Rocky Mountains are located mainly in ___.", options:["Northern Ontario","Eastern Canada","Western Canada","The Atlantic provinces"], answer:2},
      {q:"Which best describes the Rocky Mountains?", options:["Flat and grassy","Tall and rugged","Underwater","Covered entirely in sand"], answer:1},
@@ -3927,6 +3930,386 @@ const curriculum: DayContent[] = [
      {q:"What do we call the coloured bin many Ontario homes use to collect recyclable materials?", options:["The red bin","A concept unrelated to recycling","The blue box","The green bin"], answer:2},
      {q:"What do we call a free community space that offers books and programs to the public?", options:["A public library","A factory","A concept unrelated to community spaces","A private office"], answer:0},
      {q:"Name one factor that can cause a province’s population to grow, such as ___.", options:["Immigration","A concept unrelated to population","A math equation","A weather pattern"], answer:0}
+   ]},
+]},
+{day:101, label:"Day 101 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Commas in Dates and Addresses", summary:"Grade 3 Language strand: commas are used to separate the day and year in a date, and to separate parts of an address, such as a city and province.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"In the date July 22, 2026, where should the comma be placed?", options:["Between the day and the year","Between the month and the day","At the very end","Nowhere, dates never use commas"], answer:0},
+     {q:"Which of these addresses uses a comma correctly?", options:["Toronto Ontario,",", Toronto Ontario","Toronto, Ontario","Toronto Ontario"], answer:2},
+     {q:"When writing a full date with a month, day, and year, which two parts are separated by a comma?", options:["Commas are never used in dates","The day and the year","The year and itself","The month and the day"], answer:1},
+     {q:"Why do writers use a comma between a city and a province in an address?", options:["To clearly separate the two different pieces of information","This concept has no connection to writing","Commas never belong in an address","A comma changes the meaning of the city name"], answer:0},
+     {q:"Which sentence uses commas correctly?", options:["My birthday is, May 3 2017.","My birthday is May, 3 2017.","My birthday is May 3 2017,.","My birthday is May 3, 2017."], answer:3}
+   ]},
+  {subject:"Math", title:"Number: Rounding to the Nearest 1000", summary:"Grade 3 Math strand: to round a number to the nearest 1000, look at the hundreds digit -- if it is 5 or more, round up to the next 1000; if it is less than 5, round down.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which digit do you look at to round a number to the nearest 1000?", options:["The ones digit","A concept unrelated to rounding","The tens digit","The hundreds digit"], answer:3},
+     {q:"Round 3 621 to the nearest 1000.", options:["3 000","3 600","4 000","3 700"], answer:2},
+     {q:"Round 5 289 to the nearest 1000.", options:["5 000","5 300","5 900","6 000"], answer:0},
+     {q:"Round 7 950 to the nearest 1000.", options:["7 000","7 900","8 000","8 100"], answer:2},
+     {q:"Why is rounding to the nearest 1000 useful when working with large numbers?", options:["Rounding never makes large numbers easier to understand","This concept has no connection to number sense","It gives a quick, simpler estimate that is easier to work with","Rounding always gives the exact same number you started with"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Bird Adaptations for Flight", summary:"Grade 3 Science strand: birds have special adaptations for flight, such as lightweight hollow bones, feathers, and strong wing muscles, that help them fly efficiently.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What kind of bones do birds have that help them fly?", options:["Heavy solid bones","A concept unrelated to birds","Lightweight hollow bones","No bones at all"], answer:2},
+     {q:"What covers a bird’s body and helps it fly?", options:["Fur","A concept unrelated to birds","Feathers","Scales"], answer:2},
+     {q:"What do birds need strong muscles for, besides walking?", options:["A concept unrelated to birds","Digging burrows","Swimming underwater only","Flapping their wings to fly"], answer:3},
+     {q:"Why do hollow bones help birds fly more easily?", options:["Hollow bones make a bird’s body much heavier","This concept has no connection to flight","Hollow bones have no effect on a bird’s weight","They make a bird’s body lighter, which makes flying easier"], answer:3},
+     {q:"Why might a bird’s wing shape affect how well it can fly?", options:["Wing shape never affects how a bird flies","All birds have the exact same wing shape","This concept has no connection to bird adaptations","Different wing shapes help birds fly in different ways, such as gliding or quick turns"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Niagara Escarpment — A Unique Ontario Landform", summary:"Grade 3 Social Studies strand: the Niagara Escarpment is a long, rocky ridge that stretches across parts of Ontario, providing habitats for many plants and animals and including well-known sites such as Niagara Falls.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call a long, rocky ridge of land such as the Niagara Escarpment?", options:["A concept unrelated to geography","A type of currency","A landform","A type of government"], answer:2},
+     {q:"Does the Niagara Escarpment provide habitats for plants and animals?", options:["A concept unrelated to Ontario’s geography","Yes","No, nothing lives on the Niagara Escarpment","Only fish live there"], answer:1},
+     {q:"Which well-known waterfall is connected to the Niagara Escarpment?", options:["No waterfall is connected to it","A concept unrelated to Ontario landmarks","A waterfall in another country only","Niagara Falls"], answer:3},
+     {q:"Why might the Niagara Escarpment be an important area to protect?", options:["This concept has no relevance to Ontario’s geography","It provides habitat for many species and includes unique natural features","The Niagara Escarpment has no connection to Ontario’s environment","Protecting landforms is never important"], answer:1},
+     {q:"Why is the Niagara Escarpment considered a special landform in Ontario?", options:["The Niagara Escarpment does not actually exist in Ontario","It is exactly the same as every other piece of land in Ontario","This concept has no relevance to Ontario’s geography","It stretches a long distance and includes unique rock formations and habitats not found everywhere"], answer:3}
+   ]},
+]},
+{day:102, label:"Day 102 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Suffixes -ful and -less", summary:"Grade 3 Language strand: the suffix -ful means full of, as in joyful, while the suffix -less means without, as in fearless.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does the suffix -ful mean?", options:["Full of","After","Without","Before"], answer:0},
+     {q:"What does the suffix -less mean?", options:["Again","Not yet","Full of","Without"], answer:3},
+     {q:"What does the word fearless mean?", options:["Without fear","Full of fear","A concept unrelated to suffixes","Before fear"], answer:0},
+     {q:"What does the word joyful mean?", options:["Without joy","A concept unrelated to suffixes","Full of joy","After joy"], answer:2},
+     {q:"Why is it helpful to know that -ful means full of and -less means without?", options:["All words ending in -ful or -less mean the same thing","This concept has no connection to vocabulary","These suffixes never change a word’s meaning","It helps you figure out the meaning of new words that use these suffixes"], answer:3}
+   ]},
+  {subject:"Math", title:"Fractions: Comparing Fractions with the Same Numerator", summary:"Grade 3 Math strand: when two fractions have the same numerator, the fraction with the smaller denominator is greater, because the whole is divided into fewer, larger pieces.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which fraction is greater: 1/3 or 1/5?", options:["Cannot tell","1/5","They are equal","1/3"], answer:3},
+     {q:"Which fraction is greater: 2/4 or 2/6?", options:["2/4","Cannot tell","2/6","They are equal"], answer:0},
+     {q:"When two fractions have the same numerator, which one is larger?", options:["The one with the smaller denominator","The one with the larger denominator","A concept unrelated to fractions","They are always equal"], answer:0},
+     {q:"Which fraction is greater: 3/8 or 3/10?", options:["They are equal","3/10","Cannot tell","3/8"], answer:3},
+     {q:"Why is 1/4 greater than 1/8 even though 8 is a bigger number than 4?", options:["1/4 and 1/8 are always exactly equal","A bigger denominator always means a bigger fraction","A whole divided into 4 pieces makes each piece bigger than a whole divided into 8 pieces","This concept has no connection to fractions"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Ocean Habitats and Life in the Open Sea", summary:"Grade 3 Science strand: the open ocean is a vast saltwater habitat where organisms such as fish, whales, and plankton live at different depths, each adapted to its own conditions.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Is ocean water salt water or fresh water?", options:["Neither salt nor fresh water","Fresh water","A concept unrelated to oceans","Salt water"], answer:3},
+     {q:"Name one animal that lives in the open ocean, such as a ___.", options:["Whale","A forest owl","A concept unrelated to oceans","A desert lizard"], answer:0},
+     {q:"What do we call the tiny floating organisms that many ocean animals eat?", options:["A concept unrelated to oceans","Seaweed only","Plankton","Coral"], answer:2},
+     {q:"Why might ocean animals be adapted to living at different depths of water?", options:["Every part of the ocean has the exact same conditions","Depth never affects where an ocean animal can live","Conditions like light and pressure change at different depths, so animals adapt to survive there","This concept has no connection to ocean habitats"], answer:2},
+     {q:"Why is the open ocean considered a huge habitat?", options:["This concept has no relevance to habitats","The open ocean is smaller than a single lake","The open ocean supports no living things at all","It covers a large area and supports many different kinds of living things"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada’s Two Official Languages — English and French", summary:"Grade 3 Social Studies strand: Canada has two official languages, English and French, meaning federal government services must be offered in both languages across the country.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What are Canada’s two official languages?", options:["A concept unrelated to Canada","English and French","French and German","English and Spanish"], answer:1},
+     {q:"Must federal government services in Canada be offered in both official languages?", options:["Yes","Only in French","No, only in English","A concept unrelated to Canada’s government"], answer:0},
+     {q:"What word describes a country, like Canada, that has two official languages?", options:["Bilingual","Monolingual","Multilingual","A concept unrelated to language"], answer:0},
+     {q:"Why does Canada have two official languages instead of just one?", options:["Only one language has ever been spoken in Canada","Canada has never had any connection to the French language","It reflects the country’s history with English- and French-speaking communities","This concept has no relevance to Canadian identity"], answer:2},
+     {q:"Why might a federal government office in Ottawa print documents in both English and French?", options:["This concept has no connection to Canada’s official languages","Printing documents in two languages is never useful","So that all citizens can access information in an official language they understand","Only English speakers are allowed to access government documents"], answer:2}
+   ]},
+]},
+{day:103, label:"Day 103 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Text Features — Bold Print and Glossary", summary:"Grade 3 Language strand: bold print highlights important words in a non-fiction text, and a glossary at the back of the book explains what those words mean.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call print that is darker and thicker than the rest of the text?", options:["A caption","Italics","Bold print","A footnote"], answer:2},
+     {q:"Where would you look to find the meaning of a bold word in a book?", options:["A concept unrelated to text features","The glossary","The table of contents","The cover"], answer:1},
+     {q:"Where is a glossary usually found in a book?", options:["A concept unrelated to books","In the middle only","At the front","At the back"], answer:3},
+     {q:"Why might an author use bold print for certain words in a text?", options:["Bold print is only ever used by accident","This concept has no connection to reading non-fiction","To show the reader that those words are especially important","Bold print never highlights anything important"], answer:2},
+     {q:"Why is a glossary a useful text feature for readers?", options:["A glossary never explains any words","A glossary is always identical to the index","It explains the meaning of difficult or important words in the book","This concept has no connection to text features"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Comparing Angles to a Right Angle", summary:"Grade 3 Math strand: an angle can be described as smaller than, equal to, or greater than a right angle -- angles smaller than a right angle are acute, and angles greater than a right angle are obtuse.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call an angle that is exactly the same size as a right angle?", options:["A right angle","A concept unrelated to angles","An obtuse angle","An acute angle"], answer:0},
+     {q:"What do we call an angle that is smaller than a right angle?", options:["An acute angle","A concept unrelated to angles","An obtuse angle","A right angle"], answer:0},
+     {q:"What do we call an angle that is greater than a right angle?", options:["An acute angle","An obtuse angle","A concept unrelated to angles","A right angle"], answer:1},
+     {q:"A right angle looks like the corner of a ___.", options:["Circle","A concept unrelated to angles","Cone","Square"], answer:3},
+     {q:"Why is comparing an angle to a right angle a useful way to describe it?", options:["A right angle is an easy, familiar reference for judging whether other angles are smaller or larger","All angles are always exactly the same size","Right angles are never useful for comparing shapes","This concept has no connection to geometry"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Herbivores, Carnivores, and Omnivores", summary:"Grade 3 Science strand: animals can be classified by what they eat -- herbivores eat only plants, carnivores eat only other animals, and omnivores eat both plants and animals.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What do we call an animal that eats only plants?", options:["A concept unrelated to animal diets","A carnivore","An omnivore","A herbivore"], answer:3},
+     {q:"What do we call an animal that eats only other animals?", options:["An omnivore","A concept unrelated to animal diets","A herbivore","A carnivore"], answer:3},
+     {q:"What do we call an animal that eats both plants and animals?", options:["A concept unrelated to animal diets","An omnivore","A carnivore","A herbivore"], answer:1},
+     {q:"Is a rabbit, which eats only plants, a herbivore or a carnivore?", options:["A carnivore","A concept unrelated to animal diets","A herbivore","An omnivore"], answer:2},
+     {q:"Why is classifying animals by their diet useful to scientists?", options:["This concept has no relevance to classifying animals","An animal’s diet has no connection to its role in an ecosystem","All animals eat exactly the same things","It helps scientists understand an animal’s role in its ecosystem and food chain"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Ontario’s Provincial Parks and Conservation Areas", summary:"Grade 3 Social Studies strand: Ontario has many provincial parks and conservation areas that protect natural habitats while offering people places to camp, hike, and learn about nature.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is one purpose of a provincial park?", options:["A concept unrelated to conservation","To protect natural habitats","To build more factories","To remove all trees and plants"], answer:1},
+     {q:"Name one activity people might do in a provincial park.", options:["Hiking","Voting in an election","Filing taxes","A concept unrelated to parks"], answer:0},
+     {q:"Do provincial parks help protect wildlife habitats?", options:["No, provincial parks harm all wildlife","A concept unrelated to conservation","Yes","Provincial parks have no habitats at all"], answer:2},
+     {q:"Why might Ontario set aside land as protected provincial parks instead of allowing all land to be developed?", options:["This concept has no relevance to conservation","To preserve natural habitats and give people a place to enjoy nature","Protecting land is never beneficial to a province","Provincial parks serve no purpose at all"], answer:1},
+     {q:"Why are conservation areas important for future generations?", options:["This concept has no relevance to Ontario’s environment","Conservation areas have no connection to future generations","They help make sure natural spaces and wildlife are protected for people to enjoy in the future","Protecting nature today has no effect on the future"], answer:2}
+   ]},
+]},
+{day:104, label:"Day 104 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Thank-You Note", summary:"Grade 3 Language strand: a thank-you note is a short, polite piece of writing that names the gift or favour, explains why the writer is grateful, and includes a friendly closing.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is the purpose of a thank-you note?", options:["To politely express gratitude for a gift or favour","To ask someone a question","A concept unrelated to writing","To complain about something"], answer:0},
+     {q:"What should a thank-you note usually name?", options:["The gift or favour received","A concept unrelated to thank-you notes","A math problem","The weather"], answer:0},
+     {q:"Which of these is a friendly closing you might use at the end of a thank-you note?", options:["Sincerely, Maya","The end","A concept unrelated to closings","4 + 4 = 8"], answer:0},
+     {q:"Why is it important to explain why you are grateful in a thank-you note?", options:["A thank-you note should never mention the gift","This concept has no connection to writing a thank-you note","Explaining your gratitude never matters","It shows the other person that their gift or favour truly mattered to you"], answer:3},
+     {q:"Which sentence would fit well in a thank-you note?", options:["Add 5 and 3 to get 8.","The water cycle has several stages.","Thank you for the book — I loved reading it!","A triangle has three sides."], answer:2}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Calculating Sales Tax on Purchases", summary:"Grade 3 Math strand: sales tax is a small extra amount added to the price of many goods and services, and shoppers can estimate the total cost by adding the tax to the price.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call the extra amount added to the price of many purchases?", options:["Sales tax","A refund","A concept unrelated to shopping","A discount"], answer:0},
+     {q:"If an item costs 10 dollars and the tax adds 1 dollar, what is the total cost?", options:["10 dollars","9 dollars","11 dollars","12 dollars"], answer:2},
+     {q:"Is sales tax added before or after the price of an item?", options:["A concept unrelated to sales tax","Sales tax is never related to price","After (it is added to the price)","Before (it is subtracted from the price)"], answer:2},
+     {q:"If an item costs 5 dollars and the tax adds 65 cents, about how much will you pay in total?", options:["About 5 dollars and 65 cents","Exactly 5 dollars","About 4 dollars","About 6 dollars and 65 cents"], answer:0},
+     {q:"Why is it useful to estimate the total cost, including tax, before buying something?", options:["Estimating the total cost is never useful","This concept has no connection to financial literacy","Sales tax never actually changes the total you pay","It helps you make sure you have enough money to pay for the item"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Rainforest Ecosystems and Biodiversity", summary:"Grade 3 Science strand: rainforests are warm, wet ecosystems with tall trees and dense plant growth that support an extremely high biodiversity, or variety of living things.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What kind of climate does a rainforest usually have?", options:["A concept unrelated to rainforests","Cold and wet","Warm and wet","Cold and dry"], answer:2},
+     {q:"What word describes the huge variety of living things found in a rainforest?", options:["A concept unrelated to ecosystems","Uniformity","Scarcity","Biodiversity"], answer:3},
+     {q:"Do rainforests usually have tall trees and dense plant growth?", options:["No, rainforests have no plants","A concept unrelated to rainforests","Rainforests only have short grass","Yes"], answer:3},
+     {q:"Why do rainforests support such a high biodiversity of plants and animals?", options:["Their warm, wet climate provides ideal conditions for many species to thrive","This concept has no connection to biodiversity","Rainforests provide the worst possible conditions for living things","Rainforests never actually support any living things"], answer:0},
+     {q:"Why is protecting rainforests important for the whole planet?", options:["This concept has no relevance to ecosystems","Rainforests have no effect on the rest of the planet","Rainforests are home to a huge number of species and help regulate the Earth’s climate","Protecting rainforests has never been considered important"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Trans-Canada Highway and Travel Across the Country", summary:"Grade 3 Social Studies strand: the Trans-Canada Highway is a long road system that connects communities across the entire country, making it possible to travel by car from coast to coast.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the Trans-Canada Highway?", options:["A long road system connecting communities across Canada","A waterway used only by boats","A concept unrelated to transportation","A type of railway"], answer:0},
+     {q:"Does the Trans-Canada Highway connect communities from coast to coast?", options:["Yes","No, it only connects two cities","It exists in only one province","A concept unrelated to transportation"], answer:0},
+     {q:"What kind of vehicles mainly use the Trans-Canada Highway?", options:["Boats","Airplanes","A concept unrelated to transportation","Cars and trucks"], answer:3},
+     {q:"Why is the Trans-Canada Highway important for connecting communities?", options:["The Trans-Canada Highway has no connection to travel","It allows people and goods to travel by road across long distances between provinces","It only connects communities within one single city","This concept has no relevance to Canadian communities"], answer:1},
+     {q:"Why might a trucking company rely on the Trans-Canada Highway to deliver goods?", options:["The Trans-Canada Highway does not allow trucks to use it","It provides a direct road route to transport goods to communities across the country","This concept has no connection to trade and transportation","Trucking companies never use highways to deliver goods"], answer:1}
+   ]},
+]},
+{day:105, label:"Day 105 — Fri", subjects:[
+  {subject:"Language", title:"Oral Communication: Understanding Body Language and Tone of Voice", summary:"Grade 3 Language strand: listeners can understand a speaker’s feelings not just from their words, but also from body language, such as facial expressions and gestures, and tone of voice.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call the way a speaker uses their face and gestures to communicate?", options:["Body language","A concept unrelated to communication","A footnote","A glossary"], answer:0},
+     {q:"What do we call how a speaker’s voice sounds, such as happy or angry?", options:["A concept unrelated to communication","A caption","A table of contents","Tone of voice"], answer:3},
+     {q:"If a speaker crosses their arms and frowns, what might this body language suggest?", options:["That they feel excited and joyful","A concept unrelated to body language","Nothing at all","That they feel upset or unhappy"], answer:3},
+     {q:"Why is it useful to pay attention to a speaker’s tone of voice, not just their words?", options:["Tone of voice can reveal feelings that the words alone might not show","Words always mean the exact same thing no matter the tone","Tone of voice never adds any meaning to speech","This concept has no connection to oral communication"], answer:0},
+     {q:"Which of these is an example of positive body language while listening?", options:["Turning away and looking at the floor","Nodding and making eye contact","Talking over the speaker","Walking out of the room"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Introducing Volume with Non-Standard Units", summary:"Grade 3 Math strand: volume is the amount of space an object takes up, and students can compare and measure volume using non-standard units, such as counting how many small cubes fill a container.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call the amount of space an object takes up?", options:["A concept unrelated to measurement","Volume","Area","Perimeter"], answer:1},
+     {q:"Which of these could be used as a non-standard unit to measure volume?", options:["A concept unrelated to measurement","A thermometer","Small cubes","A calendar"], answer:2},
+     {q:"If it takes 12 small cubes to fill Box A and 20 small cubes to fill Box B, which box has a greater volume?", options:["They have equal volume","Box A","Box B","Cannot tell"], answer:2},
+     {q:"Why might you count how many cubes fit inside a container to measure its volume?", options:["It shows how much space is inside the container","This concept has no connection to measurement","Cubes can only be used to measure length","Counting cubes never tells you anything about volume"], answer:0},
+     {q:"Why is it useful to compare volume using the same-sized unit each time?", options:["Using the same-sized unit is never useful","Different-sized units always give the exact same result","This concept has no connection to measuring volume","It makes the comparison fair and accurate between different containers"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Mimicry in the Animal Kingdom", summary:"Grade 3 Science strand: mimicry is an adaptation in which one species evolves to look like another species, often to avoid being eaten by predators.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What do we call it when one species evolves to look like another species?", options:["Camouflage","A concept unrelated to adaptations","Hibernation","Mimicry"], answer:3},
+     {q:"Why might a harmless insect evolve to look like a dangerous, stinging insect?", options:["To trick predators into leaving it alone","A concept unrelated to mimicry","It has no effect on predators at all","To attract more predators"], answer:0},
+     {q:"Is mimicry an example of an adaptation that helps an animal survive?", options:["Yes","No, mimicry never helps an animal survive","A concept unrelated to adaptations","Mimicry always harms the animal that uses it"], answer:0},
+     {q:"What is the main difference between mimicry and camouflage?", options:["Mimicry means looking like another species, while camouflage means blending into the surroundings","Mimicry and camouflage always mean the exact same thing","Camouflage means looking like another species","This concept has no connection to animal adaptations"], answer:0},
+     {q:"Why is mimicry considered a helpful survival adaptation?", options:["This concept has no relevance to survival","It can fool predators into avoiding an animal that is actually harmless","Mimicry never affects whether a predator attacks an animal","Mimicry always makes an animal easier for predators to catch"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Emergency Services That Keep Communities Safe", summary:"Grade 3 Social Studies strand: emergency services, such as police, firefighters, and paramedics, respond quickly to keep people safe during emergencies in their community.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Name one type of emergency service, such as ___.", options:["Firefighters","A cashier","A concept unrelated to emergency services","A librarian"], answer:0},
+     {q:"What is the main job of paramedics?", options:["To teach students","To provide emergency medical care","A concept unrelated to emergency services","To fix roads"], answer:1},
+     {q:"What number can people in Canada call in an emergency to reach police, fire, or paramedics?", options:["A concept unrelated to emergency services","911","555","123"], answer:1},
+     {q:"Why do communities need emergency services to be able to respond quickly?", options:["Emergencies never require any kind of help","This concept has no relevance to community safety","Emergency services never need to respond quickly","Fast responses can help protect people’s safety and even save lives"], answer:3},
+     {q:"Why might a community train many different kinds of emergency responders, such as police, firefighters, and paramedics?", options:["Every emergency requires the exact same kind of help","This concept has no connection to community safety","Different emergencies need different kinds of help and expertise","Communities never actually need emergency responders"], answer:2}
+   ]},
+]},
+{day:106, label:"Day 106 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Plural Possessive Nouns", summary:"Grade 3 Language strand: a plural possessive noun shows that something belongs to more than one owner, usually formed by adding an apostrophe after the -s, as in the dogs’ bones.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"How do you usually form a possessive noun for a plural noun that already ends in -s?", options:["Add -ing","Add an apostrophe after the s","Add an apostrophe and another s","A concept unrelated to grammar"], answer:1},
+     {q:"Which of these correctly shows that a ball belongs to more than one girl?", options:["The girl’s ball","Girls ball","The girls’ ball","The girls’s ball"], answer:2},
+     {q:"In the phrase the dogs’ bones, how many dogs own the bones?", options:["A concept unrelated to grammar","More than one dog","No dogs at all","Exactly one dog"], answer:1},
+     {q:"Why does the apostrophe placement change between a singular and a plural possessive noun?", options:["It shows whether one owner or more than one owner possesses something","Apostrophe placement never changes for possessive nouns","This concept has no connection to grammar","Plural possessive nouns never actually use an apostrophe"], answer:0},
+     {q:"Which sentence correctly shows that a toy belongs to more than one child?", options:["The childrens toy was on the floor.","The childs’ toy was on the floor.","The child’s toy belongs to many children.","The children’s toy was on the floor."], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Finding the Mode of a Data Set", summary:"Grade 3 Math strand: the mode of a data set is the value that appears most often, which can help describe what is most common or typical in a set of data.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call the value that appears most often in a data set?", options:["A concept unrelated to data","The total","The range","The mode"], answer:3},
+     {q:"In the data set 2, 3, 3, 5, 3, 7, what is the mode?", options:["2","3","5","7"], answer:1},
+     {q:"In the data set 4, 4, 6, 8, 8, 8, what is the mode?", options:["There is no mode","8","4","6"], answer:1},
+     {q:"If every value in a data set appears exactly once, does the data set have a mode?", options:["No, there is no mode","A concept unrelated to data","Yes, the mode is the first number","Yes, the mode is the last number"], answer:0},
+     {q:"Why is the mode a useful piece of information about a data set?", options:["The mode is always the same as the total of all the numbers","This concept has no connection to data management","The mode never tells us anything useful about data","It shows which value is the most common or popular in the data"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: How Our Bodies Use Simple Machines", summary:"Grade 3 Science strand: the human body uses simple machines, such as levers, in everyday movement -- for example, the arm acts like a lever when bending at the elbow to lift something.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What simple machine does your arm act like when you bend it to lift something?", options:["A lever","A pulley","A wheel-and-axle","A concept unrelated to simple machines"], answer:0},
+     {q:"What body part acts as the pivot point, or fulcrum, when your arm bends like a lever?", options:["A concept unrelated to the body","The fingertip","The elbow","The hair"], answer:2},
+     {q:"Which simple machine can be compared to the way your jaw works when you bite and chew?", options:["A lever","A pulley","A wheel-and-axle","A concept unrelated to simple machines"], answer:0},
+     {q:"Why is it useful to compare parts of the human body to simple machines?", options:["Comparing the body to machines never helps us understand movement","The human body never actually uses any force to move","This concept has no connection to simple machines","It helps us understand how our bodies use force to move and do work"], answer:3},
+     {q:"Why might understanding your arm as a lever help you lift objects more easily?", options:["This concept has no relevance to simple machines","It can help you understand how bending your elbow changes the force needed to lift something","Levers always make lifting an object more difficult","Understanding levers never helps with lifting objects"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Wind and Solar Energy Projects in Ontario", summary:"Grade 3 Social Studies strand: Ontario uses natural resources like wind and sunlight to generate renewable energy, building wind turbines and solar panels that provide power to communities.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Name one natural resource used to generate renewable energy in Ontario.", options:["Concrete","Plastic","Wind","A concept unrelated to energy"], answer:2},
+     {q:"What structure captures wind to generate electricity?", options:["A wind turbine","A concept unrelated to energy","A library","A bridge"], answer:0},
+     {q:"What captures sunlight to generate electricity?", options:["A solar panel","A subway train","A garbage truck","A concept unrelated to energy"], answer:0},
+     {q:"Why might Ontario communities build wind and solar energy projects?", options:["Ontario has no access to wind or sunlight","To generate power using renewable resources instead of resources that can run out","Wind and solar energy projects have no benefit to communities","This concept has no relevance to natural resources"], answer:1},
+     {q:"Why is renewable energy, like wind and solar power, valuable for the future?", options:["It can be used again and again without running out, unlike some other resources","Renewable energy runs out permanently after a single use","This concept has no relevance to Ontario’s resources","Renewable energy has no connection to the future"], answer:0}
+   ]},
+]},
+{day:107, label:"Day 107 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Making Inferences from Illustrations", summary:"Grade 3 Language strand: readers can make inferences, or educated guesses, about a story by looking closely at illustrations and combining clues from the pictures with the words in the text.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call an educated guess based on clues in a text or picture?", options:["A footnote","An inference","A glossary","A concept unrelated to reading"], answer:1},
+     {q:"What can readers use, besides the words, to help make an inference about a story?", options:["The back cover price","Illustrations","The publisher’s name","A concept unrelated to reading"], answer:1},
+     {q:"If an illustration shows a character smiling and holding a trophy, what might you infer about how the character feels?", options:["A concept unrelated to inferences","That the character feels sad","That the character feels proud or happy","That the character feels nothing at all"], answer:2},
+     {q:"Why might a reader look closely at an illustration instead of just reading the words?", options:["Illustrations never add extra information to a story","Words always tell you everything a picture shows","This concept has no connection to reading comprehension","Illustrations can give extra clues about characters, setting, and mood"], answer:3},
+     {q:"Why is making inferences an important reading skill?", options:["It helps readers understand ideas that are not directly stated in the text","Making inferences is never useful while reading","Every detail in a story is always stated directly","This concept has no connection to reading strategies"], answer:0}
+   ]},
+  {subject:"Math", title:"Multiplication: Properties of Multiplying by 0 and 1", summary:"Grade 3 Math strand: any number multiplied by 1 stays the same, and any number multiplied by 0 equals 0 -- these are called the identity property and the zero property of multiplication.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is 7 multiplied by 1?", options:["1","8","7","0"], answer:2},
+     {q:"What is 9 multiplied by 0?", options:["1","0","90","9"], answer:1},
+     {q:"What do we call the rule that any number times 1 equals that same number?", options:["A concept unrelated to multiplication","The zero property of multiplication","The identity property of multiplication","The distributive property"], answer:2},
+     {q:"What do we call the rule that any number times 0 equals 0?", options:["A concept unrelated to multiplication","The commutative property","The zero property of multiplication","The identity property of multiplication"], answer:2},
+     {q:"Why does multiplying any number by 0 always give a result of 0?", options:["Multiplying by 0 always doubles the original number","Multiplying by 0 means taking that number zero times, leaving nothing","This concept has no connection to multiplication","Multiplying by 0 always gives the exact same number you started with"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Complete vs Incomplete Metamorphosis in Insects", summary:"Grade 3 Science strand: insects such as butterflies undergo complete metamorphosis with four distinct stages, while insects such as grasshoppers undergo incomplete metamorphosis, which has fewer, less dramatic stages.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"How many main stages does complete metamorphosis have?", options:["Two","Four","Three","Five"], answer:1},
+     {q:"Which insect is an example of complete metamorphosis, going through a pupa stage?", options:["A grasshopper","Neither insect changes at all","A butterfly","A concept unrelated to metamorphosis"], answer:2},
+     {q:"Which insect is an example of incomplete metamorphosis, without a pupa stage?", options:["Neither insect changes at all","A concept unrelated to metamorphosis","A grasshopper","A butterfly"], answer:2},
+     {q:"What is the main difference between complete and incomplete metamorphosis?", options:["Complete and incomplete metamorphosis are always exactly the same","Complete metamorphosis includes a pupa stage with dramatic change, while incomplete metamorphosis does not","This concept has no connection to insect life cycles","Incomplete metamorphosis always has more stages than complete metamorphosis"], answer:1},
+     {q:"Why do young grasshoppers already look similar to adult grasshoppers?", options:["Young grasshoppers never resemble adult grasshoppers at all","Because they go through incomplete metamorphosis, with gradual changes instead of a dramatic pupa stage","This concept has no relevance to insect life cycles","Grasshoppers actually go through complete metamorphosis like butterflies"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Air Travel and Ontario’s Airports", summary:"Grade 3 Social Studies strand: airports in Ontario, such as Toronto Pearson, connect the province to destinations across Canada and around the world, supporting travel and trade.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Name one large airport located in Ontario.", options:["A bus terminal","A subway station","A concept unrelated to airports","Toronto Pearson"], answer:3},
+     {q:"What can airports help transport, besides passengers?", options:["A concept unrelated to airports","Nothing else","Only letters","Cargo and goods"], answer:3},
+     {q:"Do Ontario’s airports connect the province to places around the world?", options:["Airports only connect one single city","Yes","No, airports never connect places","A concept unrelated to travel"], answer:1},
+     {q:"Why are airports important for Ontario’s economy?", options:["Airports have no connection to Ontario’s economy","Airports only exist for entertainment purposes","This concept has no relevance to transportation","They support travel and trade by connecting Ontario to other places quickly"], answer:3},
+     {q:"Why might air travel be faster than other forms of transportation for long distances?", options:["Air travel is always slower than travelling by car","Airplanes can travel very quickly through the sky, covering long distances in less time","Airplanes cannot travel long distances","This concept has no connection to transportation"], answer:1}
+   ]},
+]},
+{day:108, label:"Day 108 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Alliteration", summary:"Grade 3 Language strand: alliteration is the repetition of the same beginning consonant sound in a series of nearby words, such as slippery silver snakes slithered.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do we call the repetition of the same beginning sound in nearby words?", options:["Alliteration","A concept unrelated to vocabulary","A synonym","A homograph"], answer:0},
+     {q:"Which of these phrases is an example of alliteration?", options:["The cat sat on the mat","The sky is blue","A concept unrelated to alliteration","Big blue balloons bounced"], answer:3},
+     {q:"Which sound repeats in the phrase Peter Piper picked peppers?", options:["The S sound","The M sound","The P sound","A concept unrelated to alliteration"], answer:2},
+     {q:"Why might an author use alliteration in a poem or story?", options:["Alliteration never adds anything to a piece of writing","Alliteration always makes a sentence harder to understand","To create a fun, rhythmic sound that catches the reader’s attention","This concept has no connection to an author’s craft"], answer:2},
+     {q:"Which of these sentences uses alliteration?", options:["Sammy the snake moved quietly.","Sammy the snake slithered silently.","A snake has no legs.","The snake was long and green."], answer:1}
+   ]},
+  {subject:"Math", title:"Patterning: Identifying the Core of a Repeating Pattern", summary:"Grade 3 Math strand: the core of a repeating pattern is the smallest part that repeats over and over, such as the red, blue core in the pattern red, blue, red, blue.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call the smallest part of a pattern that repeats over and over?", options:["The rule","The core","The total","A concept unrelated to patterning"], answer:1},
+     {q:"What is the core of the pattern red, blue, red, blue, red, blue?", options:["Red only","Red, blue","Blue, red, blue","Red, blue, red"], answer:1},
+     {q:"What is the core of the pattern 2, 4, 6, 2, 4, 6, 2, 4, 6?", options:["2, 4","6, 2","4, 6","2, 4, 6"], answer:3},
+     {q:"If a pattern’s core is triangle, square, circle, what shape comes next after ...circle, triangle, square, circle, ___?", options:["Square","Circle","Triangle","A concept unrelated to patterning"], answer:2},
+     {q:"Why is identifying the core of a pattern useful for predicting what comes next?", options:["Once you know the core, you can repeat it to extend the pattern","Every pattern has a completely different core each time it repeats","Identifying the core never helps predict a pattern","This concept has no connection to patterning"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Groundwater and How Soil Filters Water", summary:"Grade 3 Science strand (Soils in the Environment): as rain seeps into the ground, soil filters the water, and it collects underground in spaces between soil and rock particles, forming groundwater.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What do we call water that collects underground in the spaces between soil and rock?", options:["Ocean water","A concept unrelated to soil","Rainwater on the surface","Groundwater"], answer:3},
+     {q:"What happens to rainwater as it seeps down through layers of soil?", options:["The soil filters it","Nothing happens to it at all","The soil turns it into a solid","A concept unrelated to soil"], answer:0},
+     {q:"Does soil play a role in cleaning water as it moves underground?", options:["No, soil never affects water quality","Yes","Soil only makes water dirtier","A concept unrelated to soil"], answer:1},
+     {q:"Why might sandy soil allow water to soak through more quickly than clay soil?", options:["This concept has no connection to soil properties","Clay soil always lets water pass through fastest","Sandy soil has larger spaces between particles, letting water pass through more easily","Sandy soil and clay soil always let water pass through at the exact same rate"], answer:2},
+     {q:"Why is groundwater an important resource for many communities?", options:["Groundwater only exists in the ocean","Many communities pump groundwater from wells to use as drinking water","Groundwater is never used by any community","This concept has no relevance to soils in the environment"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Oral History — Learning from Elders and Storytellers", summary:"Grade 3 Social Studies strand: oral history is knowledge and stories passed down by speaking rather than writing, and many communities, including Indigenous communities, use storytelling from elders to preserve their history and traditions.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call history and knowledge that is passed down by speaking rather than writing?", options:["Written history","A concept unrelated to history","A map","Oral history"], answer:3},
+     {q:"Who often shares oral history and traditions within a community?", options:["Elders and storytellers","Only young children","Only strangers","A concept unrelated to oral history"], answer:0},
+     {q:"Do many Indigenous communities use storytelling to pass down their history and traditions?", options:["Only written books are ever used","Yes","A concept unrelated to Indigenous communities","No, storytelling is never used to pass down history"], answer:1},
+     {q:"Why is oral history an important way of preserving a community’s knowledge?", options:["Oral history is always less accurate than any other kind of history","This concept has no relevance to communities","It allows stories, traditions, and lessons to be passed from generation to generation","Oral history never preserves any useful knowledge"], answer:2},
+     {q:"Why might listening carefully to an elder’s story help you learn about the past?", options:["This concept has no connection to oral history","Elders often have firsthand knowledge and experiences that are not written down anywhere else","Elders never know anything about the past","Listening to a story never teaches anyone anything"], answer:1}
+   ]},
+]},
+{day:109, label:"Day 109 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Personal Narrative (Memoir)", summary:"Grade 3 Language strand: a personal narrative, or memoir, is a true story about something that happened to the writer, told in the first person and often including personal feelings and details.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a personal narrative mainly about?", options:["A made-up fantasy story","A true event from the writer’s own life","Facts about animals only","A concept unrelated to writing"], answer:1},
+     {q:"A personal narrative is usually told from which point of view?", options:["A concept unrelated to point of view","Second person (using you)","First person (using I and me)","Third person (using he or she)"], answer:2},
+     {q:"What might a writer include in a personal narrative besides events?", options:["Their own feelings and thoughts","Only numbers and dates","A concept unrelated to personal narratives","Nothing besides a list of events"], answer:0},
+     {q:"Why might a writer include personal feelings in a memoir?", options:["Memoirs should never mention the writer’s own experience","It helps readers understand how the event affected the writer","This concept has no connection to writing a personal narrative","Personal feelings never belong in a memoir"], answer:1},
+     {q:"Which sentence would most likely begin a personal narrative?", options:["Add 6 and 2 to get 8.","The water cycle has several stages.","A triangle has three sides.","Last summer, I learned to ride my bike for the first time."], answer:3}
+   ]},
+  {subject:"Math", title:"Probability: Fair and Unfair Games", summary:"Grade 3 Math strand: a game is fair when every player has an equal chance of winning, and unfair when one player or outcome is more likely than another.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What do we call a game where every player has an equal chance of winning?", options:["A concept unrelated to probability","A fair game","A losing game","An unfair game"], answer:1},
+     {q:"If a spinner has 3 sections for Player A and 1 section for Player B, is the game fair or unfair?", options:["Cannot tell","Fair","Unfair","A concept unrelated to probability"], answer:2},
+     {q:"If a coin toss game gives heads to Player A and tails to Player B, is this game fair or unfair?", options:["Cannot tell","A concept unrelated to probability","Unfair","Fair"], answer:3},
+     {q:"What might make a dice game unfair?", options:["If the dice has six sides","A concept unrelated to probability","If both players have an equal chance of winning","If one player wins on more numbers than the other player"], answer:3},
+     {q:"Why is it important for a game to be fair?", options:["So that every player has an equal opportunity to win","This concept has no connection to probability","Fairness never matters in a game","Unfair games are always more fun for everyone"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Fungi — Neither Plant Nor Animal", summary:"Grade 3 Science strand: fungi, such as mushrooms and moulds, form their own separate group of living things -- unlike plants, they cannot make their own food, and unlike animals, most cannot move on their own.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Are fungi classified in the same group as plants?", options:["Fungi are classified as animals","Yes, fungi are always classified as plants","No, fungi form their own separate group","A concept unrelated to classification"], answer:2},
+     {q:"Name one example of a fungus, such as a ___.", options:["A concept unrelated to fungi","A house cat","An oak tree","Mushroom"], answer:3},
+     {q:"Can most fungi make their own food from sunlight the way plants do?", options:["A concept unrelated to fungi","No","Yes, exactly like plants","Fungi never need any food at all"], answer:1},
+     {q:"Why are fungi classified separately from plants and animals?", options:["They have their own unique features, such as not making their own food and not moving like most animals","Fungi are always exactly the same as plants","This concept has no connection to classifying living things","Fungi and animals are always identical to each other"], answer:0},
+     {q:"Why are fungi important decomposers in many ecosystems?", options:["This concept has no relevance to ecosystems","Fungi never break down anything in an ecosystem","They help break down dead plants and animals, returning nutrients to the soil","Fungi only exist in ecosystems with no other living things"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Building the Railway and Its Impact on Ontario", summary:"Grade 3 Social Studies strand: the building of railways across Canada in the late 1800s helped connect communities, including many in Ontario, making it faster to transport people and goods across long distances.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What form of transportation was built across Canada to connect communities in the late 1800s?", options:["The airplane","The subway","A concept unrelated to transportation","The railway"], answer:3},
+     {q:"Did the railway help transport people and goods faster across long distances?", options:["A concept unrelated to transportation","Yes","The railway only carried mail","No, the railway made travel much slower"], answer:1},
+     {q:"Which of these communities could have been connected by the growing railway network in Ontario?", options:["No communities were ever connected by rail","Only communities with no roads at all","A concept unrelated to railways","Towns along the rail line"], answer:3},
+     {q:"Why was building the railway such an important achievement for connecting communities?", options:["The railway had no effect on how communities were connected","Communities were already perfectly connected before the railway","This concept has no relevance to Ontario’s history","It made travel and trade across long distances much faster than before"], answer:3},
+     {q:"Why might a new town have grown up along a railway line in Ontario?", options:["The railway brought people, goods, and opportunities for trade to that location","Railways never attracted people or trade to a location","Towns never form near transportation routes","This concept has no connection to Ontario’s history"], answer:0}
+   ]},
+]},
+{day:110, label:"Day 110 — Fri", subjects:[
+  {subject:"Language", title:"Review: Grammar, Vocabulary, and Reading Strategies", summary:"Grade 3 Language strand review: students revisit commas in dates and addresses, suffixes -ful and -less, bold print and glossary, plural possessive nouns, and alliteration.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"In the date July 22, 2026, where should the comma be placed?", options:["Between the month and the day","Nowhere, dates never use commas","Between the day and the year","At the very end"], answer:2},
+     {q:"What does the suffix -ful mean?", options:["Without","Before","After","Full of"], answer:3},
+     {q:"What do we call print that is darker and thicker than the rest of the text?", options:["A caption","Bold print","Italics","A footnote"], answer:1},
+     {q:"How do you usually form a possessive noun for a plural noun that already ends in -s?", options:["Add -ing","A concept unrelated to grammar","Add an apostrophe after the s","Add an apostrophe and another s"], answer:2},
+     {q:"What do we call the repetition of the same beginning sound in nearby words?", options:["A homograph","A concept unrelated to vocabulary","A synonym","Alliteration"], answer:3}
+   ]},
+  {subject:"Math", title:"Review: Number, Geometry, and Data", summary:"Grade 3 Math strand review: students revisit rounding to the nearest 1000, comparing fractions with the same numerator, comparing angles to a right angle, finding the mode, and multiplying by 0 and 1.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which digit do you look at to round a number to the nearest 1000?", options:["The hundreds digit","The tens digit","A concept unrelated to rounding","The ones digit"], answer:0},
+     {q:"When two fractions have the same numerator, which one is larger?", options:["A concept unrelated to fractions","The one with the smaller denominator","They are always equal","The one with the larger denominator"], answer:1},
+     {q:"What do we call an angle that is exactly the same size as a right angle?", options:["A right angle","An acute angle","An obtuse angle","A concept unrelated to angles"], answer:0},
+     {q:"What do we call the value that appears most often in a data set?", options:["A concept unrelated to data","The mode","The range","The total"], answer:1},
+     {q:"What is 7 multiplied by 1?", options:["1","7","0","8"], answer:1}
+   ]},
+  {subject:"Science", title:"Review: Adaptations, Ecosystems, and Classification", summary:"Grade 3 Science strand review: students revisit bird adaptations for flight, herbivores/carnivores/omnivores, biodiversity in rainforests, complete versus incomplete metamorphosis, and fungi classification.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What kind of bones do birds have that help them fly?", options:["A concept unrelated to birds","Lightweight hollow bones","No bones at all","Heavy solid bones"], answer:1},
+     {q:"What do we call an animal that eats only plants?", options:["A concept unrelated to animal diets","A carnivore","An omnivore","A herbivore"], answer:3},
+     {q:"What word describes the huge variety of living things found in a rainforest?", options:["Scarcity","A concept unrelated to ecosystems","Biodiversity","Uniformity"], answer:2},
+     {q:"How many main stages does complete metamorphosis have?", options:["Three","Four","Five","Two"], answer:1},
+     {q:"Are fungi classified in the same group as plants?", options:["Fungi are classified as animals","No, fungi form their own separate group","A concept unrelated to classification","Yes, fungi are always classified as plants"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Review: Ontario’s Landmarks, Government, and Trade", summary:"Grade 3 Social Studies strand review: students revisit the Niagara Escarpment, Canada’s official languages, emergency services, Ontario’s airports, and the building of the railway.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do we call a long, rocky ridge of land such as the Niagara Escarpment?", options:["A type of currency","A type of government","A landform","A concept unrelated to geography"], answer:2},
+     {q:"What are Canada’s two official languages?", options:["English and French","English and Spanish","French and German","A concept unrelated to Canada"], answer:0},
+     {q:"What number can people in Canada call in an emergency to reach police, fire, or paramedics?", options:["555","123","911","A concept unrelated to emergency services"], answer:2},
+     {q:"Name one large airport located in Ontario.", options:["Toronto Pearson","A subway station","A concept unrelated to airports","A bus terminal"], answer:0},
+     {q:"What form of transportation was built across Canada to connect communities in the late 1800s?", options:["The railway","The airplane","A concept unrelated to transportation","The subway"], answer:0}
    ]},
 ]},
 ];
