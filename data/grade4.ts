@@ -990,7 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science Concepts", summary:"Grade 4 Science strand review: habitats, rocks, energy (light, sound, electricity), weather, and space.",
    resourceLabel:"YouTube: Year Review: Science Concepts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20Concepts%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=6IdPpiW1hDs",
+   videoUrl:"https://www.youtube.com/watch?v=g75auSHWRH4",
    quiz:[
      {q:"A food web shows ___.", options:["the structure of rock layers","how energy flows through food chains","the rock cycle","the water cycle"], answer:1},
      {q:"Igneous rock forms from ___.", options:["sediment layers","compressed sediment","heat and pressure on existing rock","cooled magma/lava"], answer:3},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Year Review", summary:"Grade 4 Social Studies review: ancient civilizations, Canadian history, geography, government, economics, and citizenship.",
    resourceLabel:"YouTube: Social Studies Year Review", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Year%20Review%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=xaBcgBKXbSg",
+   videoUrl:"https://www.youtube.com/watch?v=FHs1E7d0PwQ",
    quiz:[
      {q:"Which ancient civilization developed democracy?", options:["China","Greece","Egypt","Rome"], answer:1},
      {q:"Confederation in 1867 formed which country?", options:["The Dominion of Canada","New France","The British Empire","The United States"], answer:0},
@@ -1116,7 +1116,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Materials and Earth", summary:"Grade 4 Science review: rocks, minerals, soil, mixtures, solutions, physical/chemical changes, and the rock cycle.",
    resourceLabel:"YouTube: Review: Materials and Earth", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Materials%20and%20Earth%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
+   videoUrl:"https://www.youtube.com/watch?v=y66-VXL_FQk",
    quiz:[
      {q:"The three rock types are ___.", options:["volcanic, beach, mountain","hard, soft, medium","granite, marble, slate","igneous, sedimentary, metamorphic"], answer:3},
      {q:"A solution differs from a mixture because ___.", options:["the solute dissolves completely","mixtures are permanent","solutions always involve water","they are the same"], answer:0},
@@ -1148,7 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Math Review: All Strands", summary:"Grade 4 Mathematics comprehensive review covering number, geometry, measurement, patterning, and data.",
    resourceLabel:"YouTube: Math Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20All%20Strands%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=PaUSCmA06Hk",
+   videoUrl:"https://www.youtube.com/watch?v=jNVle8CKk9A",
    quiz:[
      {q:"7 × 9 = ?", options:["56","54","63","64"], answer:2},
      {q:"Area of 6 cm × 8 cm rectangle = ?", options:["14 cm²","28 cm²","48 cm²","42 cm²"], answer:2},
@@ -1158,7 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Review: All Strands", summary:"Grade 4 Science comprehensive review across life, earth, materials, and energy strands.",
    resourceLabel:"YouTube: Science Review: All Strands", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20All%20Strands%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=6IdPpiW1hDs",
+   videoUrl:"https://www.youtube.com/watch?v=g75auSHWRH4",
    quiz:[
      {q:"What is biodiversity?", options:["A food chain","A weather pattern","A type of rock","The variety of life in an ecosystem"], answer:3},
      {q:"Which rock forms from cooled magma?", options:["Igneous","Limestone","Metamorphic","Sedimentary"], answer:0},
@@ -1168,7 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Review: All Topics", summary:"Grade 4 Social Studies comprehensive review across heritage, identity, government, and geography strands.",
    resourceLabel:"YouTube: Social Studies Review: All Topics", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20All%20Topics%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=xaBcgBKXbSg",
+   videoUrl:"https://www.youtube.com/watch?v=FHs1E7d0PwQ",
    quiz:[
      {q:"Which ancient civilization developed the Olympic Games?", options:["Egypt","Greece","Rome","China"], answer:1},
      {q:"Canada became a country through ___.", options:["a revolution","winning a war","Confederation in 1867","being given independence"], answer:2},
@@ -1222,7 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year Review: Language Arts", summary:"Grade 4 Language Arts comprehensive review covering reading, writing, oral communication, grammar, and media literacy.",
    resourceLabel:"YouTube: Year Review: Language Arts", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Language%20Arts%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=FYPKcI6J3uY",
+   videoUrl:"https://www.youtube.com/watch?v=4tL-CKwhh1Q",
    quiz:[
      {q:"The main idea is ___.", options:["the last sentence","what the whole text is mostly about","a small detail","the title only"], answer:1},
      {q:"A simile uses ___ to compare.", options:["is/was","adjective","metaphor","like or as"], answer:3},
@@ -1242,7 +1242,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Year Review: Science", summary:"Grade 4 Science comprehensive review across all strands.",
    resourceLabel:"YouTube: Year Review: Science", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Science%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=6IdPpiW1hDs",
+   videoUrl:"https://www.youtube.com/watch?v=g75auSHWRH4",
    quiz:[
      {q:"The three rock types are ___.", options:["volcanic, riverbed, mountain","granite, marble, sandstone","igneous, sedimentary, metamorphic","hard, soft, medium"], answer:2},
      {q:"A food chain starts with a ___.", options:["herbivore","decomposer","producer (plant)","carnivore"], answer:2},
@@ -1252,7 +1252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Year Review: Social Studies", summary:"Grade 4 Social Studies comprehensive review.",
    resourceLabel:"YouTube: Year Review: Social Studies", resourceUrl:"https://www.youtube.com/results?search_query=Year%20Review%3A%20Social%20Studies%20grade%204%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=xaBcgBKXbSg",
+   videoUrl:"https://www.youtube.com/watch?v=FHs1E7d0PwQ",
    quiz:[
      {q:"Confederation year = ?", options:["1867","1931","1776","1900"], answer:0},
      {q:"Ancient civilization that developed democracy = ?", options:["China","Greece","Egypt","Rome"], answer:1},

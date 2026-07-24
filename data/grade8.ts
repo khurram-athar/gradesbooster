@@ -66,7 +66,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: Cell Division and Specialisation", summary:"Students explore mitosis (cell division for growth and repair), meiosis (for reproduction), and how cells specialise into tissues, organs, and systems.",
    resourceLabel:"YouTube: Cells: Cell Division and Specialisation", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Cell%20Division%20and%20Specialisation%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ex0x-w00Uy4",
+   videoUrl:"https://www.youtube.com/watch?v=zrKdz93WlVk",
    quiz:[
      {q:"Mitosis results in ___.", options:["cells with half the DNA","two genetically identical daughter cells","one cell dividing into eight","four genetically different cells"], answer:1},
      {q:"Meiosis results in ___.", options:["two identical cells","identical twins","four genetically unique cells (gametes)","one large cell"], answer:2},
@@ -76,7 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The British Conquest and After", summary:"Students examine the Seven Years' War in North America (1756–1763), the Battle of the Plains of Abraham, and the subsequent British governance of Quebec.",
    resourceLabel:"YouTube: The British Conquest and After", resourceUrl:"https://www.youtube.com/results?search_query=The%20British%20Conquest%20and%20After%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=KSSeFM_39XM",
+   videoUrl:"https://www.youtube.com/watch?v=H1_nco-cYik",
    quiz:[
      {q:"The Battle of the Plains of Abraham (1759) was significant because ___.", options:["France won and kept New France","It gave Britain control of New France","The battle was a draw","It had no lasting impact"], answer:1},
      {q:"The Treaty of Paris (1763) ___.", options:["created Canada as a country","formally transferred New France to Britain","made New France independent","gave New France back to France"], answer:1},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Responsible Government and Reform", summary:"Students examine the Rebellions of 1837, the Durham Report, and the achievement of Responsible Government in 1848.",
    resourceLabel:"YouTube: Responsible Government and Reform", resourceUrl:"https://www.youtube.com/results?search_query=Responsible%20Government%20and%20Reform%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RLnsetuODbg",
+   videoUrl:"https://www.youtube.com/watch?v=j9IUxRjPVc0",
    quiz:[
      {q:"The Rebellions of 1837 in Upper and Lower Canada were caused by ___.", options:["American aggression","economic success","frustration with undemocratic governance","foreign invasion"], answer:2},
      {q:"William Lyon Mackenzie (Upper Canada) and Louis-Joseph Papineau (Lower Canada) were ___.", options:["Loyalist founders","British governors","military generals who defeated the British","leaders of the 1837 reform movements"], answer:3},
@@ -224,7 +224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Circle Measurements", summary:"Students calculate circumference (C = πd or 2πr) and area (A = πr²) of circles and apply these formulas in real-world contexts.",
    resourceLabel:"YouTube: Geometry: Circle Measurements", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Circle%20Measurements%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=WkIQIf9ykuk",
+   videoUrl:"https://www.youtube.com/watch?v=O-cawByg2aA",
    quiz:[
      {q:"The circumference formula is ___.", options:["C = r²π","C = 2πr or πd","C = πr²","C = 2r"], answer:1},
      {q:"The area formula for a circle is ___.", options:["A = πr²","A = πd","A = 2πr","A = πd²"], answer:0},
@@ -244,7 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Confederation: Causes and Process", summary:"Students explore the political, economic, and military pressures that led to Confederation in 1867 and the roles of the Fathers of Confederation.",
    resourceLabel:"YouTube: Confederation: Causes and Process", resourceUrl:"https://www.youtube.com/results?search_query=Confederation%3A%20Causes%20and%20Process%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=bO7FQsCcbD8",
+   videoUrl:"https://www.youtube.com/watch?v=VUqvpaDHjgU",
    quiz:[
      {q:"The main pressures that drove Confederation in the 1860s included ___.", options:["political deadlock and railway costs","religious conflict only","only economic reasons","only military threats"], answer:0},
      {q:"The Charlottetown Conference (1864) was significant because ___.", options:["it was the first Confederation meeting","it adopted the Constitution","it created the Senate","it ended the American Civil War"], answer:0},
@@ -276,7 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Systems in Action: Mechanical Systems", summary:"Students explore mechanical systems including gears, pulleys, levers, and how these are combined in machines to change force, speed, and direction.",
    resourceLabel:"YouTube: Systems in Action: Mechanical Systems", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20in%20Action%3A%20Mechanical%20Systems%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zkuCDT2p00Q",
+   videoUrl:"https://www.youtube.com/watch?v=JnYVz1TSmBQ",
    quiz:[
      {q:"A gear train transmits ___.", options:["only up-down motion","fluid pressure","electrical signals","motion and force between shafts"], answer:3},
      {q:"When a small gear drives a large gear, the large gear ___.", options:["turns slower with more torque","turns at the same speed","turns faster","stops completely"], answer:0},
@@ -382,7 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"Language", title:"Independent Reading: Novel Study Launch", summary:"Students select a novel for in-depth study. They track character, plot, setting, theme, and author's craft through journals and analytical response tasks.",
    resourceLabel:"YouTube: Independent Reading: Novel Study Launch", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Novel%20Study%20Launch%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=23aM-lVDhrw",
+   videoUrl:"https://www.youtube.com/watch?v=OZMHyg-iKj0",
    quiz:[
      {q:"A reading response journal is most useful when ___.", options:["you only write summaries of events","you write personal reactions without referring to the text","you combine evidence with your analysis","you copy memorable quotations only"], answer:2},
      {q:"Analysing author's craft means ___.", options:["only identifying grammar errors","examining an author's craft choices","summarising what happens","listing characters"], answer:1},
@@ -402,7 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Systems in Action: Fluid Systems", summary:"Students connect fluid properties to engineered systems, examining hydraulic and pneumatic applications, and designing simple fluid systems.",
    resourceLabel:"YouTube: Systems in Action: Fluid Systems", resourceUrl:"https://www.youtube.com/results?search_query=Systems%20in%20Action%3A%20Fluid%20Systems%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=dRvcWyd8SFc",
+   videoUrl:"https://www.youtube.com/watch?v=qFBiBoAQ5Lw",
    quiz:[
      {q:"In a hydraulic system, the working fluid is ___.", options:["usually a compressible gas","usually incompressible hydraulic oil","always water","only air"], answer:1},
      {q:"Why are liquids used in hydraulic systems rather than gases?", options:["Liquids are cheaper","Gases are too colourful","Liquids are nearly incompressible","Liquids are lighter"], answer:2},
@@ -454,7 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"WWII: Canada's Role", summary:"Students examine Canada's military contributions to WWII — the Battle of Britain, Dieppe, Sicily, D-Day — and the impact on the home front.",
    resourceLabel:"YouTube: WWII: Canada's Role", resourceUrl:"https://www.youtube.com/results?search_query=WWII%3A%20Canada%27s%20Role%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=RR2nqneoe7A",
    quiz:[
      {q:"Canada's contribution to the Battle of Britain (1940) included ___.", options:["only ground troops","RCAF pilots who flew alongside the RAF","sending a naval fleet only","an invasion of Germany"], answer:1},
      {q:"The Dieppe Raid (1942) was ___.", options:["a disastrous, mostly-Canadian raid","irrelevant to Canada","a secret spy mission","a major Allied victory"], answer:0},
@@ -486,7 +486,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fluids: Environmental Applications", summary:"Students connect fluid properties to environmental contexts — ocean currents, atmospheric pressure, water treatment, and the effects of pollution on fluid systems.",
    resourceLabel:"YouTube: Fluids: Environmental Applications", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Environmental%20Applications%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=DYnaNoDdVYo",
+   videoUrl:"https://www.youtube.com/watch?v=nshSoLw0tdI",
    quiz:[
      {q:"Ocean currents are driven by ___.", options:["temperature, salinity, and wind","only temperature","tidal forces only","only wind"], answer:0},
      {q:"Atmospheric pressure decreases with altitude because ___.", options:["the Earth's gravity decreases sharply","there is less air above you","the air gets warmer","there is more air above you"], answer:1},
@@ -528,7 +528,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Light and Optics: Mirrors and Lenses in Technology", summary:"Students explore how mirrors and lenses are used in technology — cameras, telescopes, microscopes, corrective lenses, and medical equipment.",
    resourceLabel:"YouTube: Light and Optics: Mirrors and Lenses in Technology", resourceUrl:"https://www.youtube.com/results?search_query=Light%20and%20Optics%3A%20Mirrors%20and%20Lenses%20in%20Technology%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-_Is2o74aRQ",
+   videoUrl:"https://www.youtube.com/watch?v=Oh4m8Ees-3Q",
    quiz:[
      {q:"A refracting telescope uses ___.", options:["only one lens","two convex lenses","mirrors to form images","radio waves"], answer:1},
      {q:"A reflecting telescope uses ___.", options:["only flat mirrors","prisms only","only lenses","a concave mirror and an eyepiece lens"], answer:3},
@@ -538,7 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Social Movements in Canada: Rights and Equality", summary:"Students examine the women's suffrage movement, Indigenous rights movements, and the Canadian civil rights movement in the 20th century.",
    resourceLabel:"YouTube: Social Movements in Canada: Rights and Equality", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Movements%20in%20Canada%3A%20Rights%20and%20Equality%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=y2TRl3lMr5k",
+   videoUrl:"https://www.youtube.com/watch?v=tcWPi7sVjnE",
    quiz:[
      {q:"Canadian women won the federal right to vote in ___.", options:["1929","1867","1918 (with exceptions)","1900"], answer:2},
      {q:"The 'Persons Case' (1929) was significant because ___.", options:["it created the Charter of Rights","it was irrelevant to women's history","it granted women the vote","courts ruled women were legal 'persons'"], answer:3},
@@ -550,7 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"Language", title:"Media Creation: Podcast Script", summary:"Students plan and write a script for a short informational podcast episode. They learn to write for the ear — using conversational language, clear structure, and engaging hooks.",
    resourceLabel:"YouTube: Media Creation: Podcast Script", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Creation%3A%20Podcast%20Script%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=xNq9cFs8A7k",
+   videoUrl:"https://www.youtube.com/watch?v=Vznd5vRz9_A",
    quiz:[
      {q:"Writing for a podcast differs from writing an essay because ___.", options:["podcasts have no structure","essays are always shorter","podcasts use conversational language","essays are always better"], answer:2},
      {q:"An effective podcast hook ___.", options:["starts with 'Welcome to our podcast'","opens with a question, fact, or story","lists all topics to be covered","begins with a long history lesson"], answer:1},
@@ -580,7 +580,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada in the Modern World: 1950s–1980s", summary:"Students examine key events: Quiet Revolution, Official Languages Act, Charter of Rights, Constitution Act 1982, and Canada's evolving identity.",
    resourceLabel:"YouTube: Canada in the Modern World: 1950s–1980s", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20in%20the%20Modern%20World%3A%201950s%E2%80%931980s%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=7wAefyeXrY0",
    quiz:[
      {q:"The Quiet Revolution in Quebec (1960s) was ___.", options:["a religious revival","a reconciliation with Indigenous peoples","rapid social and political change","a military coup"], answer:2},
      {q:"The Official Languages Act (1969) ___.", options:["made only English official","removed all language rights","made only French official","made English/French official federally"], answer:3},
@@ -622,7 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Contemporary Canada: Issues and Identity", summary:"Students examine contemporary Canadian issues: Indigenous reconciliation, environmental policy, Quebec and Canadian identity, and Canada's role in global affairs.",
    resourceLabel:"YouTube: Contemporary Canada: Issues and Identity", resourceUrl:"https://www.youtube.com/results?search_query=Contemporary%20Canada%3A%20Issues%20and%20Identity%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=rKgoVDV6UiE",
    quiz:[
      {q:"The Truth and Reconciliation Commission (TRC) of Canada ___.", options:["ended all Indigenous land claims","documented harms and 94 Calls to Action","was a trial of Indigenous leaders","denied the residential school system occurred"], answer:1},
      {q:"The United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), adopted by Canada in 2016 and legislated in 2021, ___.", options:["has no legal significance","was rejected by Canada","only applies outside Canada","affirms Indigenous rights and consent"], answer:3},
@@ -664,7 +664,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Post-WWII Canada: Growth and Change", summary:"Students examine the baby boom, suburbanisation, the Quiet Revolution, Expo 67, and Canada's evolving sense of identity in the 1950s–1960s.",
    resourceLabel:"YouTube: Post-WWII Canada: Growth and Change", resourceUrl:"https://www.youtube.com/results?search_query=Post-WWII%20Canada%3A%20Growth%20and%20Change%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=RBYuLQuU7Xc",
    quiz:[
      {q:"The baby boom refers to ___.", options:["a decline in birth rates after WWII","a type of school program","the birth rate surge from 1946 to 1964","a government program for children"], answer:2},
      {q:"Suburbanisation after WWII was driven by ___.", options:["a preference for city centres","declining car ownership","car culture and affordable housing","government mandates"], answer:2},
@@ -696,7 +696,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: Organ Systems in Detail", summary:"Students examine two body systems in depth — cardiovascular and nervous — exploring their structures, functions, and interactions.",
    resourceLabel:"YouTube: Cells: Organ Systems in Detail", resourceUrl:"https://www.youtube.com/results?search_query=Cells%3A%20Organ%20Systems%20in%20Detail%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=8Z1C7B98KEY",
+   videoUrl:"https://www.youtube.com/watch?v=0JDCViWGn-0",
    quiz:[
      {q:"The heart pumps blood through ___.", options:["two loops: pulmonary and systemic","one loop","the lymphatic system only","three loops"], answer:0},
      {q:"Arteries carry blood ___.", options:["only to the lungs","only deoxygenated blood","to the heart at low pressure","away from the heart, at high pressure"], answer:3},
@@ -706,7 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Quebec Referendums and Canadian Unity", summary:"Students examine the two Quebec referendums (1980, 1995) and the complex questions of identity, language, and national unity they raised.",
    resourceLabel:"YouTube: Quebec Referendums and Canadian Unity", resourceUrl:"https://www.youtube.com/results?search_query=Quebec%20Referendums%20and%20Canadian%20Unity%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=rjIzROPFqYE",
+   videoUrl:"https://www.youtube.com/watch?v=2RSmx2Qucbs",
    quiz:[
      {q:"The 1980 Quebec Referendum was on ___.", options:["Quebec leaving Confederation temporarily","whether Quebec should join the United States","negotiating 'sovereignty-association'","Quebec independence outright"], answer:2},
      {q:"The result of the 1980 referendum was ___.", options:["60% Yes for sovereignty-association","a Yes vote for full independence","a tied vote","59.6% voted No"], answer:3},
@@ -748,7 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Indigenous Issues: Land Rights and Reconciliation", summary:"Students examine specific Indigenous land claims, treaty rights, and current reconciliation efforts in Canada, connecting to historical policies.",
    resourceLabel:"YouTube: Indigenous Issues: Land Rights and Reconciliation", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Issues%3A%20Land%20Rights%20and%20Reconciliation%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-_N5jgW0U9M",
+   videoUrl:"https://www.youtube.com/watch?v=2zuRQmwaREY",
    quiz:[
      {q:"A land claim in Canada refers to ___.", options:["a tax dispute","a claim to rights over unceded land","a private real estate dispute","a complaint about municipal zoning"], answer:1},
      {q:"The Haida Gwaii (2004) and Tsilhqot'in Nation (2014) Supreme Court decisions were significant because ___.", options:["they affirmed the duty to consult","they had no lasting impact","they only applied to British Columbia","they reduced Indigenous land rights"], answer:0},
@@ -780,7 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fluids: Technology and Society", summary:"Students evaluate how fluid technology has shaped society — from ancient aqueducts to modern medicine (syringes, IV drips, blood pressure monitors).",
    resourceLabel:"YouTube: Fluids: Technology and Society", resourceUrl:"https://www.youtube.com/results?search_query=Fluids%3A%20Technology%20and%20Society%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=8b0vNpX6pNA",
+   videoUrl:"https://www.youtube.com/watch?v=a3nf2nA9ilE",
    quiz:[
      {q:"Ancient Roman aqueducts used ___.", options:["windmills","gravity to move water through channels","pumps and electricity","steam power"], answer:1},
      {q:"A syringe uses ___.", options:["compressed gases","pressure changes to draw or expel fluid","electrical pressure","gravity only"], answer:1},
@@ -802,7 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"Language", title:"Independent Novel Study: Theme and Author's Craft", summary:"Students write an analytical essay on their novel, examining how the author uses specific craft choices to develop a central theme.",
    resourceLabel:"YouTube: Independent Novel Study: Theme and Author's Craft", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Novel%20Study%3A%20Theme%20and%20Author%27s%20Craft%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=5M0zF8jlpYY",
+   videoUrl:"https://www.youtube.com/watch?v=qmCRGTbR5eA",
    quiz:[
      {q:"A thematic essay about a novel should ___.", options:["summarise the plot","analyse how craft choices build a theme","list all the characters","only quote the most famous lines"], answer:1},
      {q:"Diction refers to ___.", options:["only dialogue","the author's word choice, shaping tone","sentence length only","only formal language"], answer:1},
@@ -822,7 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Biodiversity and Ecosystems Review", summary:"Students consolidate understanding of cells, genetics, reproduction, and connect to ecosystem-level impacts of biodiversity loss.",
    resourceLabel:"YouTube: Biology: Biodiversity and Ecosystems Review", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Biodiversity%20and%20Ecosystems%20Review%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=beZgfPosKBA",
+   videoUrl:"https://www.youtube.com/watch?v=GK_vRtHJZu4",
    quiz:[
      {q:"Genetic diversity within a species is important because ___.", options:["variation helps populations adapt","all individuals being identical is more efficient","genetic diversity has no survival value","only biodiversity between species matters"], answer:0},
      {q:"Species extinction reduces ecosystem resilience because ___.", options:["ecosystems function better with fewer species","losing species destabilises food webs","only keystone species matter","extinct species are replaced instantly"], answer:1},
@@ -854,7 +854,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Algebra and Analytic Geometry", summary:"Students consolidate Grade 8 algebra and geometry — equations, polynomials, graphing, systems, and geometric formulas.",
    resourceLabel:"YouTube: Review: Algebra and Analytic Geometry", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Algebra%20and%20Analytic%20Geometry%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ouUaxWVJNSI",
+   videoUrl:"https://www.youtube.com/watch?v=Pd4hwS8qHms",
    quiz:[
      {q:"Solve: 2(3x − 4) = 16", options:["x = 2","x = 4","x = 3","x = 6"], answer:1},
      {q:"What is the slope of the line through (0,3) and (4,11)?", options:["2","8","4","3"], answer:0},
@@ -864,7 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Science Synthesis Grade 8", summary:"Students connect all four Grade 8 science strands and reflect on how scientific knowledge evolves and intersects with ethical and social questions.",
    resourceLabel:"YouTube: Review: Science Synthesis Grade 8", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Science%20Synthesis%20Grade%208%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=fozDk4qH_JM",
+   videoUrl:"https://www.youtube.com/watch?v=qQBZbinoOrI",
    quiz:[
      {q:"Which strand explains how a vaccine trains your immune system?", options:["Fluids","Cells, genetics, and the immune system","Optics","Mechanical systems"], answer:1},
      {q:"A hydraulic excavator applies which strand's principles?", options:["Optics","Genetics","Fluids and mechanical systems","Cells"], answer:2},
@@ -906,7 +906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Careers and Future Directions", summary:"Students explore STEM careers and how Grade 8 science connects to real-world professions and future study.",
    resourceLabel:"YouTube: Science: Careers and Future Directions", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Careers%20and%20Future%20Directions%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zhpcgpqWc1Q",
+   videoUrl:"https://www.youtube.com/watch?v=llmFsEc-4Gc",
    quiz:[
      {q:"A biomedical engineer uses knowledge from ___.", options:["only one science strand","only math","only history","cells and fluids and mechanical systems"], answer:3},
      {q:"An optometrist applies knowledge of ___.", options:["fluid dynamics","genetics and cells","the physics of light and lenses","mechanical advantage"], answer:2},
@@ -958,7 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Future: Challenges and Opportunities", summary:"Students examine key challenges Canada faces in the 21st century: reconciliation, climate change, economic inequality, and democratic participation.",
    resourceLabel:"YouTube: Canada's Future: Challenges and Opportunities", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Future%3A%20Challenges%20and%20Opportunities%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=5jAEp1dg1YI",
    quiz:[
      {q:"The most significant unresolved challenge in Canadian history for Indigenous peoples is ___.", options:["language differences only","already completely resolved","the ongoing legacy of colonialism","economic development only"], answer:2},
      {q:"Canada's climate commitments face challenges because ___.", options:["oil exports clash with climate targets","Canada already met all targets","Canada is too small to matter","climate change is not real"], answer:0},
@@ -990,7 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Systems: Connecting Science Strands", summary:"Students explore how the four Grade 8 science strands connect — cells and systems, fluids and pressure, mechanical advantage, optics — within real engineering contexts.",
    resourceLabel:"YouTube: Systems: Connecting Science Strands", resourceUrl:"https://www.youtube.com/results?search_query=Systems%3A%20Connecting%20Science%20Strands%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=7EtiXrJlh5c",
+   videoUrl:"https://www.youtube.com/watch?v=6j5iHvYBIcg",
    quiz:[
      {q:"A kidney dialysis machine demonstrates ___.", options:["only electrical principles","fluid dynamics and cell biology","only optics","only mechanical advantage"], answer:1},
      {q:"A car's braking system demonstrates ___.", options:["cell biology","fluid dynamics and mechanical systems","genetic engineering","optics"], answer:1},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Digital History: Canada's Information Age", summary:"Students examine how digital technology has transformed Canadian society, economy, and governance since the 1980s.",
    resourceLabel:"YouTube: Digital History: Canada's Information Age", resourceUrl:"https://www.youtube.com/results?search_query=Digital%20History%3A%20Canada%27s%20Information%20Age%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
+   videoUrl:"https://www.youtube.com/watch?v=h8K49dD52WA",
    quiz:[
      {q:"The World Wide Web, invented by Tim Berners-Lee in 1989, transformed Canada by ___.", options:["reducing communication speed","having no major impact","enabling instant global communication","eliminating all printed media"], answer:2},
      {q:"Social media has affected Canadian democracy by ___.", options:["having no effect","enabling voice, but also misinformation","completely replacing traditional media","only improving political participation"], answer:1},
@@ -1022,7 +1022,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Optimisation Problems", summary:"Students solve problems that require optimising area, perimeter, surface area, or volume — finding maximum or minimum values given constraints.",
    resourceLabel:"YouTube: Measurement: Optimisation Problems", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Optimisation%20Problems%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QKT65uQgtBI",
+   videoUrl:"https://www.youtube.com/watch?v=GTzcN8Rbsvw",
    quiz:[
      {q:"Optimisation in math means ___.", options:["only making things bigger","only for calculus","making something more complicated","finding a max or min value under limits"], answer:3},
      {q:"For a fixed perimeter, which rectangle has the maximum area?", options:["The longest possible rectangle","Shape doesn't matter","A square (all sides equal)","A very narrow rectangle"], answer:2},
@@ -1042,7 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Year-End History Synthesis", summary:"Students synthesise Canadian history from New France to the present, examining recurring themes and their relevance to contemporary Canada.",
    resourceLabel:"YouTube: Year-End History Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20History%20Synthesis%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lF0NeBtLFqg",
+   videoUrl:"https://www.youtube.com/watch?v=CDGdqoCyAtw",
    quiz:[
      {q:"Which recurring theme links Indigenous history from colonial times to today?", options:["Only economic issues","Sovereignty and self-determination","Complete resolution of all issues","No significant connection between periods"], answer:1},
      {q:"How has Canada's relationship with Britain evolved from 1867 to today?", options:["Canada broke all ties with Britain","It has not changed","From a Dominion to full independence","Canada became less independent over time"], answer:2},
@@ -1054,7 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"Language", title:"Language Arts: Consolidation and Celebration", summary:"Students reflect on their growth as readers, writers, and communicators in Grade 8. They celebrate achievements and set goals for high school.",
    resourceLabel:"YouTube: Language Arts: Consolidation and Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Arts%3A%20Consolidation%20and%20Celebration%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=95J8E0C-RhA",
+   videoUrl:"https://www.youtube.com/watch?v=fyWoESIUUyE",
    quiz:[
      {q:"Growth as a writer means ___.", options:["never making mistakes","only writing longer pieces","only getting perfect grades","growing vocabulary and sharper thinking"], answer:3},
      {q:"The most important skill developed in Grade 8 Language Arts is arguably ___.", options:["memorising literary terms","critical thinking","perfect spelling","fast reading speed"], answer:1},
@@ -1064,7 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Grade 8 Math: Comprehensive Review", summary:"Students review all major Grade 8 math strands.",
    resourceLabel:"YouTube: Grade 8 Math: Comprehensive Review", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20Math%3A%20Comprehensive%20Review%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=9B2Xt7nwqNE",
+   videoUrl:"https://www.youtube.com/watch?v=mza6QYH3oEw",
    quiz:[
      {q:"Solve: 5(x − 2) = 3x + 6", options:["x = 2","x = 4","x = 16","x = 8"], answer:3},
      {q:"A cylinder has r = 5 cm, h = 12 cm. Volume = ? (π ≈ 3.14)", options:["188.4 cm³","940.0 cm³","314.0 cm³","942.0 cm³"], answer:3},
@@ -1074,7 +1074,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Looking Ahead to Grade 9", summary:"Students preview the Grade 9 science curriculum (biology, chemistry, physics, earth science) and connect Grade 8 learning to what comes next.",
    resourceLabel:"YouTube: Science: Looking Ahead to Grade 9", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Looking%20Ahead%20to%20Grade%209%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=D2TFM3v5rwI",
+   videoUrl:"https://www.youtube.com/watch?v=tZE_fQFK8EY",
    quiz:[
      {q:"Grade 9 Science includes which four broad areas?", options:["Math, History, Language, PE","Only biology and chemistry","Cells, Fluids, Optics, Mechanics","Biology, chemistry, physics, and Earth"], answer:3},
      {q:"Which Grade 8 topic connects most directly to Grade 9 chemistry?", options:["Optics","Genetics","Fluid power","Cells lead into atomic theory later"], answer:3},
@@ -1126,7 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History: The Power of Narrative", summary:"Students examine how the stories we tell about history shape national identity, and whose voices have historically been left out of official narratives.",
    resourceLabel:"YouTube: History: The Power of Narrative", resourceUrl:"https://www.youtube.com/results?search_query=History%3A%20The%20Power%20of%20Narrative%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
+   videoUrl:"https://www.youtube.com/watch?v=uGlbMtbCkf0",
    quiz:[
      {q:"Historical narrative refers to ___.", options:["only fiction","only dates and facts","only textbook history","the stories we tell about the past"], answer:3},
      {q:"Dominant historical narratives in Canada have historically ___.", options:["been fully inclusive since Confederation","included all voices equally","been only negative","marginalised or erased Indigenous, Black, and other minority perspectives, presenting European settler experiences as the default Canadian story"], answer:0},
@@ -1168,7 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"History Exam Preparation and Reflection", summary:"Students review key concepts, practise historical thinking skills, and reflect on the significance of Grade 8 history for their lives as citizens.",
    resourceLabel:"YouTube: History Exam Preparation and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=History%20Exam%20Preparation%20and%20Reflection%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
+   videoUrl:"https://www.youtube.com/watch?v=0V_fo81E2LY",
    quiz:[
      {q:"The historical thinking concepts taught in Grade 8 History include ___.", options:["only reading textbooks","several historical thinking skills","only memorisation of dates","only map skills"], answer:1},
      {q:"Historical significance means ___.", options:["everything that happened is equally important","only sad events are significant","only recent events matter","some events matter more than others"], answer:3},
@@ -1180,7 +1180,7 @@ const curriculum: DayContent[] = [
 {day:29, label:"Day 29 — Thu", subjects:[
   {subject:"Language", title:"Culminating Activity: Oral Presentation", summary:"Students deliver a culminating oral presentation on a significant Canadian historical or contemporary issue, demonstrating research, analysis, and communication skills.",
    resourceLabel:"YouTube: Culminating Activity: Oral Presentation", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Activity%3A%20Oral%20Presentation%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=VkxITaIUqfU",
+   videoUrl:"https://www.youtube.com/watch?v=iIAMNdnSpps",
    quiz:[
      {q:"A culminating presentation differs from a regular presentation because ___.", options:["it synthesises the year's learning","it is always longer","it requires no research","it has no requirements"], answer:0},
      {q:"To prepare an effective culminating presentation, you should ___.", options:["practice once only","research, organise, and rehearse well","avoid visual aids","write and read every word"], answer:1},
@@ -1190,7 +1190,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Culminating Math: Problem Solving Challenge", summary:"Students apply all Grade 8 math concepts to multi-step real-world problems.",
    resourceLabel:"YouTube: Culminating Math: Problem Solving Challenge", resourceUrl:"https://www.youtube.com/results?search_query=Culminating%20Math%3A%20Problem%20Solving%20Challenge%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=qRRDNGcImGQ",
+   videoUrl:"https://www.youtube.com/watch?v=p_ANRNgKTc8",
    quiz:[
      {q:"A cylindrical water tank has r = 2 m and h = 5 m. Volume = ? (π ≈ 3.14)", options:["125.6 m³","31.4 m³","94.2 m³","62.8 m³"], answer:3},
      {q:"You invest $2000 at 4% compound interest for 3 years. Approximate value = ?", options:["$2249.73","$2400","$2240","$2253"], answer:0},
@@ -1200,7 +1200,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Year Review and Looking Forward", summary:"Students review all four Grade 8 science strands and connect learning to Grade 9 and beyond.",
    resourceLabel:"YouTube: Science: Year Review and Looking Forward", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Year%20Review%20and%20Looking%20Forward%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=KeSyKl7zHG0",
+   videoUrl:"https://www.youtube.com/watch?v=lYYilc-O_v4",
    quiz:[
      {q:"Which Grade 8 science topic is most directly extended in Grade 9 biology?", options:["Mechanical systems","Fluids","Cells, reproduction, and genetics","Optics"], answer:2},
      {q:"Fluid dynamics connects to Grade 9 physics through ___.", options:["chemistry","forces, pressure, and energy","optics","genetics"], answer:1},
@@ -1210,7 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Grade 8 History: Final Reflection", summary:"Students write a final historical reflection, identifying the most significant idea they will carry forward from Grade 8 History.",
    resourceLabel:"YouTube: Grade 8 History: Final Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20History%3A%20Final%20Reflection%20grade%208%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
+   videoUrl:"https://www.youtube.com/watch?v=SzWgn9pR-r0",
    quiz:[
      {q:"The most important question in historical thinking is ___.", options:["What year did it happen?","How many people were involved?","So what? Why does it matter today?","Where exactly did it occur?"], answer:2},
      {q:"If you had to identify the single most significant event in Canadian history studied this year, it would require ___.", options:["simply picking the biggest battle","looking it up","arguing your choice with clear evidence","no justification"], answer:2},

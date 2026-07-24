@@ -24,7 +24,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sustainable Ecosystems Review", summary:"Review interdependence in ecosystems and human impact on sustainability, leading into SNC1W's ecosystems strand.",
    resourceLabel:"YouTube: Sustainable Ecosystems Review", resourceUrl:"https://www.youtube.com/results?search_query=Sustainable%20Ecosystems%20Review%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=d6cHRPuQNRo",
+   videoUrl:"https://www.youtube.com/watch?v=QlBVAc46I5U",
    quiz:[
      {q:"A sustainable ecosystem is one that can...", options:["Only exist with no human impact","Never change","Maintain itself without collapsing","Always be artificial"], answer:2},
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","Only the number of trees","Water levels only","A single species count"], answer:0},
@@ -46,7 +46,7 @@ const curriculum: DayContent[] = [
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"Language", title:"Thesis Statements and Essay Structure", summary:"A strong thesis statement presents a clear, arguable claim that guides the structure of an essay (ENL1W Strand B).",
    resourceLabel:"YouTube: Thesis Statements and Essay Structure", resourceUrl:"https://www.youtube.com/results?search_query=Thesis%20Statements%20and%20Essay%20Structure%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=5hltJomQUcg",
+   videoUrl:"https://www.youtube.com/watch?v=DFp1uGTXo4Q",
    quiz:[
      {q:"A thesis statement should be...", options:["Clear and arguable","A simple fact with no claim","A question only","Vague and broad"], answer:0},
      {q:"Where is a thesis statement usually located?", options:["In a footnote","In the introduction","Nowhere in the essay","Only in the conclusion"], answer:1},
@@ -76,7 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Natural Resources and Industries in Canada", summary:"CGC1W explores how Canada's natural resources support various industries and regional economies.",
    resourceLabel:"YouTube: Natural Resources and Industries in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Natural%20Resources%20and%20Industries%20in%20Canada%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ajk-pvm5vfQ",
+   videoUrl:"https://www.youtube.com/watch?v=IEVLIllDUSw",
    quiz:[
      {q:"Canada's forestry industry depends on...", options:["Ocean fisheries only","Tropical climates","Desert land","Forest resources"], answer:3},
      {q:"The Prairie provinces' economy relies heavily on...", options:["Only fishing","Only tourism","Agriculture and energy resources","Only forestry"], answer:2},
@@ -234,7 +234,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Circuits and Electrical Safety", summary:"Understand series and parallel circuits, and basic electrical safety principles (SNC1W electricity strand).",
    resourceLabel:"YouTube: Circuits and Electrical Safety", resourceUrl:"https://www.youtube.com/results?search_query=Circuits%20and%20Electrical%20Safety%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=Qr2GBbQgw0g",
+   videoUrl:"https://www.youtube.com/watch?v=HkjVNqyYAbo",
    quiz:[
      {q:"In a series circuit, components are connected...", options:["Not connected at all","Along a single path","Along multiple independent paths","Only in parallel"], answer:1},
      {q:"In a parallel circuit, components are connected...", options:["Only along a single path","Not connected at all","Along multiple paths at once","Randomly with no structure"], answer:2},
@@ -276,7 +276,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth and Space Science: The Solar System", summary:"Review the structure of the solar system and basic astronomical concepts (SNC1W Earth & Space Science strand).",
    resourceLabel:"YouTube: Earth and Space Science: The Solar System", resourceUrl:"https://www.youtube.com/results?search_query=Earth%20and%20Space%20Science%3A%20The%20Solar%20System%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
+   videoUrl:"https://www.youtube.com/watch?v=TKM0P3XlMNA",
    quiz:[
      {q:"Which planet is closest to the Sun?", options:["Mercury","Earth","Venus","Mars"], answer:0},
      {q:"A year on Earth is defined by...", options:["One moon cycle","One full orbit around the Sun","One full rotation on its axis","A random time period"], answer:1},
@@ -360,7 +360,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Chemistry, Electricity, and Earth Science", summary:"Mixed review of atomic theory, chemical reactions, circuits, and the solar system.",
    resourceLabel:"YouTube: Review: Chemistry, Electricity, and Earth Science", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Chemistry%2C%20Electricity%2C%20and%20Earth%20Science%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=BnQnXN0y8P0",
+   videoUrl:"https://www.youtube.com/watch?v=eYFYHyYSitI",
    quiz:[
      {q:"Protons are found in the...", options:["Nucleus","Outer shell only","Only in compounds","Nowhere in an atom"], answer:0},
      {q:"The substances formed in a reaction are called...", options:["Catalysts","Products","Mixtures only","Reactants"], answer:1},
@@ -382,7 +382,7 @@ const curriculum: DayContent[] = [
 {day:10, label:"Day 10 — Fri (Review)", reviewNote:"Final review day: a mix of everything from the two weeks, getting ready for September.", subjects:[
   {subject:"Language", title:"Final Review: English Skills", summary:"Mixed review of sentence structure, essays, media literacy, and presentations.",
    resourceLabel:"YouTube: Final Review: English Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20English%20Skills%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=3mJz_cpVCaw",
+   videoUrl:"https://www.youtube.com/watch?v=liyFKUFCQno",
    quiz:[
      {q:"A complex sentence needs an independent clause and a...", options:["Dependent clause","Footnote","Citation","Title only"], answer:0},
      {q:"Media literacy means being able to...", options:["Only consume media passively","Avoid media entirely","Memorize headlines","Critically evaluate media messages"], answer:3},
@@ -402,7 +402,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Science Skills", summary:"Mixed review of ecosystems, atomic theory, electricity, and Earth science.",
    resourceLabel:"YouTube: Final Review: Science Skills", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Science%20Skills%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=KeSyKl7zHG0",
+   videoUrl:"https://www.youtube.com/watch?v=5v9F8Ns2cxY",
    quiz:[
      {q:"Biodiversity refers to...", options:["The variety of life in an ecosystem","One species only","Soil type only","Water levels only"], answer:0},
      {q:"Protons have what charge?", options:["Neutral","Negative","Variable","Positive"], answer:3},
@@ -508,7 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"Language", title:"Persuasive Speech Writing", summary:"Plan and write a persuasive speech using a clear position, evidence, rhetorical appeals, and a strong call to action (ENL1W Strand B/D).",
    resourceLabel:"YouTube: Persuasive Speech Writing", resourceUrl:"https://www.youtube.com/results?search_query=Persuasive%20Speech%20Writing%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=n1qmWEu3maM",
+   videoUrl:"https://www.youtube.com/watch?v=Q4K0SnRlik0",
    quiz:[
      {q:"A persuasive speech should open with...", options:["An apology for your opinion","A hook that grabs attention","A long list of unrelated facts","A summary of the opposing view only"], answer:1},
      {q:"Ethos in a persuasive speech refers to...", options:["Appealing to the audience's emotions only","A type of sentence structure","Establishing the speaker's credibility and trustworthiness","Using logic and statistics only"], answer:2},
@@ -538,7 +538,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"World Climate Zones and Biomes", summary:"Identify the major climate zones and their associated biomes, and explain how latitude, elevation, and ocean currents shape climate (CGC1W).",
    resourceLabel:"YouTube: World Climate Zones and Biomes", resourceUrl:"https://www.youtube.com/results?search_query=World%20Climate%20Zones%20and%20Biomes%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=5tC8OOxOFEk",
+   videoUrl:"https://www.youtube.com/watch?v=SZ7BbtWg_Tc",
    quiz:[
      {q:"The main factor that determines a region's climate zone is its...", options:["Elevation above sea level alone","Latitude (distance from the equator)","Proximity to cities","Longitude only"], answer:1},
      {q:"A tropical rainforest biome is characterized by...", options:["High rainfall and warmth year-round","Cold temperatures and low rainfall","Seasonal drought and sparse vegetation","Permanently frozen ground"], answer:0},
@@ -592,7 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri (Review)", reviewNote:"Week 3 review — mixed questions from Days 11–14.", subjects:[
   {subject:"Language", title:"Review: Story Analysis, Media, Speech, and Narrators", summary:"Mixed review of theme and conflict, comparing media texts, persuasive speech, and point of view.",
    resourceLabel:"YouTube: Review: Story Analysis, Media, Speech, and Narrators", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Story%20Analysis%2C%20Media%2C%20Speech%2C%20and%20Narrators%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=VORBhTblQsw",
+   videoUrl:"https://www.youtube.com/watch?v=dI34pqtNRHA",
    quiz:[
      {q:"The theme of a story is best described as...", options:["The page count","The underlying message or insight","The opening sentence","The list of characters"], answer:1},
      {q:"A persuasive speech's 'call to action' asks the audience to...", options:["Do something specific in response","Ask no questions","Read another speech","Forget the speech"], answer:0},
@@ -612,7 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Cells, Photosynthesis, Periodic Table, and Bonding", summary:"Mixed review of cell organelles, photosynthesis/respiration, periodic trends, and ionic vs covalent bonds.",
    resourceLabel:"YouTube: Review: Cells, Photosynthesis, Periodic Table, and Bonding", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cells%2C%20Photosynthesis%2C%20Periodic%20Table%2C%20and%20Bonding%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=AVVDP_XJHkA",
+   videoUrl:"https://www.youtube.com/watch?v=QnQe0xW_JY4",
    quiz:[
      {q:"The organelle that controls cell activities and contains DNA is the...", options:["Ribosome","Mitochondria","Nucleus","Vacuole"], answer:2},
      {q:"Photosynthesis takes place in the...", options:["Nucleus","Ribosome","Mitochondria","Chloroplast"], answer:3},
@@ -622,7 +622,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Natural Hazards, Globalization, Climate Zones, and Water", summary:"Mixed review of geographic risk, globalization, climate zones and biomes, and global water access.",
    resourceLabel:"YouTube: Review: Natural Hazards, Globalization, Climate Zones, and Water", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Natural%20Hazards%2C%20Globalization%2C%20Climate%20Zones%2C%20and%20Water%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=5tC8OOxOFEk",
+   videoUrl:"https://www.youtube.com/watch?v=SZ7BbtWg_Tc",
    quiz:[
      {q:"Earthquakes most commonly occur along...", options:["Mountain peaks only","Ocean surfaces only","Tectonic plate boundaries","The centre of continents"], answer:2},
      {q:"One potential negative effect of globalization on a local economy is...", options:["Always lower unemployment","No impact on businesses","Losing business to foreign rivals","Increased demand for local products"], answer:2},
@@ -1032,7 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", summary:"Mixed review of tectonic theory, rock types, stellar life cycles, and renewable energy technologies.",
    resourceLabel:"YouTube: Review: Plate Tectonics, Rock Cycle, Stars, and Renewable Energy", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plate%20Tectonics%2C%20Rock%20Cycle%2C%20Stars%2C%20and%20Renewable%20Energy%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=lv6dC0coQeI",
+   videoUrl:"https://www.youtube.com/watch?v=TKM0P3XlMNA",
    quiz:[
      {q:"Continental drift theory proposes that continents were once joined in a supercontinent called...", options:["Laurasia only","Atlantis","Gondwana only","Pangaea"], answer:3},
      {q:"Which rock type would most likely contain fossils?", options:["None — rocks cannot contain fossils","Metamorphic","Sedimentary","Igneous"], answer:2},

@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"Language", title:"Research Project: Planning and Sourcing", summary:"Students plan a research project by developing a research question, identifying key subtopics, evaluating sources for credibility, and organising notes.",
    resourceLabel:"YouTube: Research Project: Planning and Sourcing", resourceUrl:"https://www.youtube.com/results?search_query=Research%20Project%3A%20Planning%20and%20Sourcing%20grade%206%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ZCIJQJRw6xw",
+   videoUrl:"https://www.youtube.com/watch?v=q1k8rcYUmbQ",
    quiz:[
      {q:"A good research question is ___.", options:["focused, specific, and answerable","one with a simple yes/no answer","so broad it can never be answered","already answered in one book"], answer:0},
      {q:"A primary source is ___.", options:["only an internet source","a first-hand account or document","a textbook summary","always more reliable than a secondary source"], answer:1},
@@ -1032,7 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth's Systems: Rock Cycle and Plate Tectonics", summary:"Students explore the rock cycle (igneous, sedimentary, metamorphic), plate tectonics, and how Earth's internal processes shape the surface.",
    resourceLabel:"YouTube: Earth's Systems: Rock Cycle and Plate Tectonics", resourceUrl:"https://www.youtube.com/results?search_query=Earth%27s%20Systems%3A%20Rock%20Cycle%20and%20Plate%20Tectonics%20grade%206%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=j_EUeYCxIaQ",
+   videoUrl:"https://www.youtube.com/watch?v=IsoV6KG42fE",
    quiz:[
      {q:"The rock cycle describes ___.", options:["only weathering and erosion","rocks cycling among the three types","only how rocks fall down hills","how rocks grow"], answer:1},
      {q:"Plate tectonics theory explains that ___.", options:["moving plates cause quakes, volcanoes","continents are fixed forever","only volcanoes","only earthquakes"], answer:0},
@@ -1148,7 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions, Decimals, and Percents: Connecting", summary:"Students convert fluently between fractions, decimals, and percentages, and apply these conversions to real-world problems.",
    resourceLabel:"YouTube: Fractions, Decimals, and Percents: Connecting", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%2C%20Decimals%2C%20and%20Percents%3A%20Connecting%20grade%206%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=2vjbNZaFz3c",
+   videoUrl:"https://www.youtube.com/watch?v=-Xt4UDk7Kzw",
    quiz:[
      {q:"Convert 3/5 to a decimal.", options:["0.3","0.35","0.53","0.6"], answer:3},
      {q:"Convert 0.45 to a percentage.", options:["0.45%","4.5%","450%","45%"], answer:3},
@@ -1222,6 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"Language", title:"Year-End Celebration: Reflecting on Learning", summary:"Students reflect on their literacy growth through the year, share writing accomplishments, and set goals for Grade 7 language arts.",
    resourceLabel:"YouTube: Year-End Celebration: Reflecting on Learning", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reflecting%20on%20Learning%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=00soGIyf17g",
    quiz:[
      {q:"Reflecting on your learning means ___.", options:["copying your best work","forgetting what you studied","thinking critically about your growth","only reviewing test scores"], answer:2},
      {q:"Setting a literacy goal for Grade 7 means ___.", options:["giving up on improving","only choosing what books to read","only for students who failed","picking a skill to improve and planning"], answer:3},
