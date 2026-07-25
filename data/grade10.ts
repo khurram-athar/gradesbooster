@@ -76,7 +76,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's War Effort: Military Contributions", summary:"Students examine Canada's major military contributions in WWII — Battle of Britain, Dieppe, Sicily, Italy, and D-Day.",
    resourceLabel:"YouTube: Canada's War Effort: Military Contributions", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20War%20Effort%3A%20Military%20Contributions%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=8fHB4SN3pgs",
    quiz:[
      {q:"The British Commonwealth Air Training Plan (BCATP) located in Canada was significant because ___.", options:["it trained only British pilots","it trained thousands of Allied air crew","Canada refused to participate","it was a failure"], answer:1},
      {q:"The Dieppe Raid (August 1942) was significant because ___.", options:["it was a major Allied victory","Canada was not involved","it ended the war in Europe","its failure taught lessons for D-Day"], answer:3},
@@ -202,7 +202,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Quiet Revolution and Canadian Identity", summary:"Students examine Quebec's Quiet Revolution, bilingualism, the October Crisis, and the evolution of Canadian identity in the 1960s-70s.",
    resourceLabel:"YouTube: The Quiet Revolution and Canadian Identity", resourceUrl:"https://www.youtube.com/results?search_query=The%20Quiet%20Revolution%20and%20Canadian%20Identity%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=1xuM5pHqylc",
    quiz:[
      {q:"The Quiet Revolution in Quebec (1960-66 and beyond) involved ___.", options:["no significant change to Quebec society","Quebec separating from Canada","rapid modernisation under Premier Lesage","a violent uprising"], answer:2},
      {q:"The Official Languages Act (1969) ___.", options:["made only English official","ended all language disputes","made English and French both official federally","made only French official at the federal level"], answer:2},
@@ -244,7 +244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada and the United States: A Complex Relationship", summary:"Students examine the economic, military, cultural, and political dimensions of the Canada-US relationship.",
    resourceLabel:"YouTube: Canada and the United States: A Complex Relationship", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20the%20United%20States%3A%20A%20Complex%20Relationship%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=6cDjg6lPF-8",
    quiz:[
      {q:"Canada and the US share the world's largest ___.", options:["land border, about 8,891 km long","cultural exchange program","economic agreement","military alliance"], answer:0},
      {q:"NAFTA (1994), replaced by CUSMA (2020), is significant because ___.", options:["it had no economic impact","it was rejected by Canada initially","most Canadian exports go to the US","it only affects agriculture"], answer:2},
@@ -340,7 +340,7 @@ const curriculum: DayContent[] = [
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"English", title:"Novel Study: Examining a Contemporary Canadian Novel", summary:"Students deeply read a contemporary Canadian novel, examining how the text engages with specifically Canadian themes — landscape, identity, colonial history, immigration, or social justice.",
    resourceLabel:"YouTube: Novel Study: Examining a Contemporary Canadian Novel", resourceUrl:"https://www.youtube.com/results?search_query=Novel%20Study%3A%20Examining%20a%20Contemporary%20Canadian%20Novel%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=3mJz_cpVCaw",
+   videoUrl:"https://www.youtube.com/watch?v=eREopphW5Bw",
    quiz:[
      {q:"Canadian literature often reflects ___.", options:["only rural themes","distinctly Canadian themes and identity","identical concerns to American and British literature","only Quebec themes"], answer:1},
      {q:"Postcolonial literary criticism examines ___.", options:["only novels set in the past","how literature reinforces colonial power","only British literature","how literary texts engage with the history and legacy of colonialism — examining power dynamics, representation of Indigenous peoples, and resistance and reclamation"], answer:1},
@@ -412,7 +412,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Environmental History", summary:"Students examine key moments in Canadian environmental history, from the creation of national parks to current climate policy debates.",
    resourceLabel:"YouTube: Canada's Environmental History", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Environmental%20History%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=XJasV-itdoc",
    quiz:[
      {q:"Banff National Park (established 1885) and subsequent parks were initially created primarily to ___.", options:["serve purely ecological goals","protect Indigenous territory","attract tourists and protect scenery","protect endangered species"], answer:2},
      {q:"The Kyoto Protocol (1997) committed Canada to ___.", options:["cutting emissions below 1990 levels","only renewable energy","no specific emissions targets","only monitoring emissions"], answer:0},
@@ -454,7 +454,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Charter Rights: Case Studies", summary:"Students examine landmark Supreme Court of Canada cases under the Charter, analysing the legal reasoning and social implications.",
    resourceLabel:"YouTube: Charter Rights: Case Studies", resourceUrl:"https://www.youtube.com/results?search_query=Charter%20Rights%3A%20Case%20Studies%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=DcV6qtnSrCE",
+   videoUrl:"https://www.youtube.com/watch?v=fRyOlYDpWIM",
    quiz:[
      {q:"R v Oakes (1986) established ___.", options:["that the Charter has no limits","that Section 33 is never valid","the Oakes Test","that all laws are constitutional"], answer:2},
      {q:"Singh v Minister of Employment and Immigration (1985) established ___.", options:["refugees have Charter rights","only landed immigrants have Charter rights","only citizens have Charter rights","refugee claimants have no rights in Canada"], answer:0},
@@ -466,7 +466,7 @@ const curriculum: DayContent[] = [
 {day:12, label:"Day 12 — Tue", subjects:[
   {subject:"English", title:"Literature: Poetry — Voice, Identity, and Social Justice", summary:"Students read and analyse contemporary poetry by Canadian poets, particularly from Indigenous, Black Canadian, and immigrant voices, examining how poetry enacts identity and challenges injustice.",
    resourceLabel:"YouTube: Literature: Poetry — Voice, Identity, and Social Justice", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20Poetry%20%E2%80%94%20Voice%2C%20Identity%2C%20and%20Social%20Justice%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ysq6IjXsSHM",
+   videoUrl:"https://www.youtube.com/watch?v=04rfgNvvXz8",
    quiz:[
      {q:"Contemporary Canadian poetry by marginalised voices ___.", options:["has no political dimension","is only about nature","reclaims identity and challenges norms","is identical to traditional British poetry"], answer:2},
      {q:"Code-switching in poetry refers to ___.", options:["alternating languages within one poem","a poetic device unrelated to identity","only a technical error","switching between computer codes in a poem"], answer:0},
@@ -496,7 +496,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Contemporary Canadian Issues: Technology and Society", summary:"Students examine how digital technology and social media have transformed Canadian society, politics, and economy.",
    resourceLabel:"YouTube: Contemporary Canadian Issues: Technology and Society", resourceUrl:"https://www.youtube.com/results?search_query=Contemporary%20Canadian%20Issues%3A%20Technology%20and%20Society%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=najiOPaR37I",
    quiz:[
      {q:"The digital economy has changed Canadian employment by ___.", options:["only benefiting urban workers","having no significant effect","only reducing jobs","new sectors, some jobs displaced"], answer:3},
      {q:"Social media platforms in Canada raise concerns about ___.", options:["only privacy issues","no significant concerns","privacy, disinformation, mental health","only political advertising"], answer:2},
@@ -612,7 +612,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Sustainability and Future Technologies", summary:"Students examine sustainable technologies — renewable energy, green chemistry, biotechnology — and their role in addressing 21st century challenges.",
    resourceLabel:"YouTube: Science: Sustainability and Future Technologies", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Sustainability%20and%20Future%20Technologies%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=milERbJAJVk",
+   videoUrl:"https://www.youtube.com/watch?v=zx04Kl8y4dE",
    quiz:[
      {q:"Green chemistry principles aim to ___.", options:["increase chemical production","maximise energy consumption","only apply to pharmaceuticals","reducing hazardous substances"], answer:3},
      {q:"Solar cells (photovoltaics) convert ___.", options:["nuclear energy to electricity","heat to electricity","light directly to electrical energy","chemical energy to electricity"], answer:2},
@@ -706,7 +706,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada and International Relations: 1970-2000", summary:"Students examine Canada's foreign policy — peacekeeping, the G7, NAFTA, and humanitarian commitments — in the late 20th century.",
    resourceLabel:"YouTube: Canada and International Relations: 1970-2000", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20and%20International%20Relations%3A%201970-2000%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=35FPo8Z6f6Y",
    quiz:[
      {q:"Canada's peacekeeping role, established by Lester Pearson's Suez Crisis proposal (1956), meant ___.", options:["Canada joining UN peacekeeping","Canada staying neutral in all conflicts","Canada avoiding all international commitments","Canada sending troops to fight in all wars"], answer:0},
      {q:"NAFTA (North American Free Trade Agreement, 1994) ___.", options:["was rejected by Canada","only applied to Mexico and the US","eliminated most tariffs among them","had no impact on Canadian employment"], answer:2},
@@ -718,7 +718,7 @@ const curriculum: DayContent[] = [
 {day:18, label:"Day 18 — Wed", subjects:[
   {subject:"English", title:"Media Literacy: News Literacy and Misinformation", summary:"Students develop skills for critically evaluating news sources, identifying misinformation, and understanding how false information spreads.",
    resourceLabel:"YouTube: Media Literacy: News Literacy and Misinformation", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20News%20Literacy%20and%20Misinformation%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=9MJFRr7mY-Y",
+   videoUrl:"https://www.youtube.com/watch?v=AD7N-1Mj-DU",
    quiz:[
      {q:"Misinformation differs from disinformation in that ___.", options:["disinformation is accidental","they are identical","misinformation is always worse","one is accidental, the other deliberate"], answer:3},
      {q:"A 'deepfake' is ___.", options:["a credible news source","AI-faked video or audio of someone","a satire article","a type of documentary"], answer:1},
@@ -748,7 +748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Social Movements: Civil Rights and Equality in Canada", summary:"Students examine the civil rights struggles of Black Canadians, the women's movement, LGBTQ+ rights, and disability rights in the 20th-21st century.",
    resourceLabel:"YouTube: Social Movements: Civil Rights and Equality in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Movements%3A%20Civil%20Rights%20and%20Equality%20in%20Canada%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=cgjDPa15NLs",
+   videoUrl:"https://www.youtube.com/watch?v=NFIqUJlk88o",
    quiz:[
      {q:"The Viola Desmond case (1946) is significant because ___.", options:["it involved a legal dispute about property","arrested for defying segregation","she successfully argued her case","it was about voting rights"], answer:1},
      {q:"The Nova Scotia Human Rights Act (1963) and the Canadian Human Rights Act (1977) were ___.", options:["laws banning public discrimination","purely symbolic","only about employment","unenforceable"], answer:0},
@@ -780,7 +780,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Energy Systems and Sustainability", summary:"Students examine Ontario's energy mix, the transition to renewable energy, and the science behind solar, wind, hydro, and nuclear power.",
    resourceLabel:"YouTube: Science: Energy Systems and Sustainability", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Energy%20Systems%20and%20Sustainability%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=ViXtT8c4z-c",
+   videoUrl:"https://www.youtube.com/watch?v=1kUE0BZtTRc",
    quiz:[
      {q:"Ontario's electricity mix includes ___.", options:["mostly nuclear, hydro, wind, and gas","mostly coal","mostly imported US electricity","only nuclear"], answer:0},
      {q:"Solar photovoltaic (PV) cells convert ___.", options:["wind energy to electricity","light to electricity via semiconductors","heat directly to electricity","chemical energy to electricity"], answer:1},
@@ -790,7 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Constitution and Federalism", summary:"Students examine the Canadian Constitution — the division of powers, federalism, constitutional amendments, and ongoing debates about the constitutional order.",
    resourceLabel:"YouTube: Canada's Constitution and Federalism", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Constitution%20and%20Federalism%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=bO7FQsCcbD8",
+   videoUrl:"https://www.youtube.com/watch?v=5dLSm7mg0E4",
    quiz:[
      {q:"The division of powers in the Constitution Act (1867) allocates ___.", options:["powers only based on tradition","all power to the federal government","all power to provinces","some powers federal, some provincial"], answer:3},
      {q:"Section 91 lists federal powers, which include ___.", options:["criminal law, banking, and currency","property and civil rights","education and hospitals","only defence and foreign affairs"], answer:0},
@@ -802,7 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"English", title:"Independent Novel Study: Final Essay", summary:"Students write a full independent analytical essay on their novel, demonstrating the full range of Grade 10 literary analysis skills.",
    resourceLabel:"YouTube: Independent Novel Study: Final Essay", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Novel%20Study%3A%20Final%20Essay%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
+   videoUrl:"https://www.youtube.com/watch?v=liyFKUFCQno",
    quiz:[
      {q:"The most important quality of a Grade 10 analytical essay is ___.", options:["length","number of quotations","a clear thesis backed by evidence","correct spelling"], answer:2},
      {q:"Literary analysis differs from plot summary in that ___.", options:["they are identical","literary analysis asks 'how' and 'why'","literary analysis requires less detail","plot summary is more valuable"], answer:1},
@@ -832,7 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Environment and Politics: Canada's Climate Debate", summary:"Students examine the political dimensions of climate change in Canada — carbon pricing, oil sands, Indigenous rights, and intergenerational justice.",
    resourceLabel:"YouTube: The Environment and Politics: Canada's Climate Debate", resourceUrl:"https://www.youtube.com/results?search_query=The%20Environment%20and%20Politics%3A%20Canada%27s%20Climate%20Debate%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=odrnHketSGQ",
+   videoUrl:"https://www.youtube.com/watch?v=7pbkW7ErQbs",
    quiz:[
      {q:"Canada's carbon pricing system (federal carbon tax/backstop) ___.", options:["prices carbon, rebates the proceeds","gives money to oil companies","has faced no political opposition","increases government profit directly"], answer:0},
      {q:"Alberta's oil sands are significant because ___.", options:["they are internationally praised universally","they pit environment against economy","they are already shut down","they are small and economically minor"], answer:1},
@@ -874,7 +874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada Today: Contemporary Challenges", summary:"Students examine contemporary challenges facing Canada: reconciliation, climate, housing, inequality, and democratic participation.",
    resourceLabel:"YouTube: Canada Today: Contemporary Challenges", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Today%3A%20Contemporary%20Challenges%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=rEnf_CFoyv0",
    quiz:[
      {q:"Canada's housing crisis affects young Canadians because ___.", options:["only major cities have issues","housing is affordable everywhere","homes are now largely unaffordable","the crisis is limited to coastal cities"], answer:2},
      {q:"Income inequality in Canada has ___.", options:["grown since the 1980s","has no effect on social outcomes","remained perfectly stable","decreased dramatically"], answer:0},
@@ -928,7 +928,7 @@ const curriculum: DayContent[] = [
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"English", title:"Reading and Writing: Synthesis Task", summary:"Students read two or three related texts on a contemporary issue and write a synthesis essay that integrates ideas across sources with an original argument.",
    resourceLabel:"YouTube: Reading and Writing: Synthesis Task", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20and%20Writing%3A%20Synthesis%20Task%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=SUXM8wN206E",
+   videoUrl:"https://www.youtube.com/watch?v=FKL4QFQscKg",
    quiz:[
      {q:"Synthesising sources means ___.", options:["summarising each source separately","copying from all sources equally","building an argument across sources","using only one source at a time"], answer:2},
      {q:"A synthesis essay differs from a research essay in that ___.", options:["it uses no sources","it requires original research","it connects sources, not new research","it is always shorter"], answer:2},
@@ -970,7 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Literature: A Non-Western Perspective", summary:"Students read and analyse a novel or collection of short stories from a non-Western tradition (translated or originally in English), examining cultural context and literary universality.",
    resourceLabel:"YouTube: Literature: A Non-Western Perspective", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20A%20Non-Western%20Perspective%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=teL-A-Nrc1w",
+   videoUrl:"https://www.youtube.com/watch?v=l32PYPQir_8",
    quiz:[
      {q:"Why study literature from non-Western traditions?", options:["It broadens views and challenges norms","Non-Western literature is too difficult","Only Western literature has universal themes","World literature uses only different settings"], answer:0},
      {q:"When reading literature in translation, it is important to acknowledge ___.", options:["that translation always involves interpretation","translations are always perfect","no meaning is lost in translation","the original text is irrelevant"], answer:0},
@@ -980,7 +980,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exam Readiness: Problem Solving and Communication", summary:"Students practise explaining their mathematical reasoning clearly in writing — an essential skill for senior math assessments.",
    resourceLabel:"YouTube: Exam Readiness: Problem Solving and Communication", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Readiness%3A%20Problem%20Solving%20and%20Communication%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=utXyHKcb9GM",
+   videoUrl:"https://www.youtube.com/watch?v=H6riwC9wy-I",
    quiz:[
      {q:"Mathematical communication means ___.", options:["only showing numerical steps","explaining your reasoning in words too","avoiding words in solutions","always using symbols only"], answer:1},
      {q:"When solving a word problem, the first step is ___.", options:["checking the answer first","drawing a picture","defining variables and the question","doing the calculation immediately"], answer:2},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Reflection: My Canada", summary:"Students write a personal reflection on what Canada means to them, connecting historical learning to personal identity and future citizenship commitments.",
    resourceLabel:"YouTube: Reflection: My Canada", resourceUrl:"https://www.youtube.com/results?search_query=Reflection%3A%20My%20Canada%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zz440EuFK8Q",
+   videoUrl:"https://www.youtube.com/watch?v=J04aoVjtsBo",
    quiz:[
      {q:"A thoughtful reflection on Canadian identity should ___.", options:["remain neutral on all issues","only celebrate Canada","only criticise Canada","acknowledge achievements and failures"], answer:3},
      {q:"Canada's history of Indigenous dispossession, Japanese-Canadian internment, and racial exclusion in immigration policy teaches ___.", options:["that intentions don't stop injustice","that only some Canadians are responsible for the past","that these were unavoidable","that Canada has always been perfect"], answer:0},
@@ -1054,7 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"English", title:"Year-End Celebration: Reading and Writing Portfolio", summary:"Students curate and present a portfolio of their best reading and writing work from Grade 10, reflecting on their development.",
    resourceLabel:"YouTube: Year-End Celebration: Reading and Writing Portfolio", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reading%20and%20Writing%20Portfolio%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=vS7Yw6M3KMY",
+   videoUrl:"https://www.youtube.com/watch?v=SntBj0FIApw",
    quiz:[
      {q:"A portfolio of best work shows ___.", options:["only your first piece","only your longest piece","a curated selection showing your range","only error-free work"], answer:2},
      {q:"Selecting pieces for a portfolio involves ___.", options:["choosing pieces that show your growth","choosing based on teacher preference","taking the highest-graded pieces only","random selection"], answer:0},
@@ -1126,7 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Year-End Exam Preparation: Canadian History and Civics", summary:"Students review key concepts and practise historical thinking skills for assessment.",
    resourceLabel:"YouTube: Year-End Exam Preparation: Canadian History and Civics", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Exam%20Preparation%3A%20Canadian%20History%20and%20Civics%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=QbTm6m7198g",
+   videoUrl:"https://www.youtube.com/watch?v=qFxco8vX6Rw",
    quiz:[
      {q:"The most testable skill in Canadian history is ___.", options:["memorising dates and names","historical thinking","only knowing WWII","only understanding the Constitution"], answer:1},
      {q:"When answering a source-analysis question in history, you should ___.", options:["describe what you see only","ignore the source's context","copy the source text","identify and evaluate the source"], answer:3},
@@ -1148,7 +1148,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Mathematics: Year-End Summary and Growth Reflection", summary:"Students reflect on their mathematical growth in Grade 10 and the role of mathematical thinking in their lives.",
    resourceLabel:"YouTube: Mathematics: Year-End Summary and Growth Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Mathematics%3A%20Year-End%20Summary%20and%20Growth%20Reflection%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=4H0Kv9gesDM",
+   videoUrl:"https://www.youtube.com/watch?v=ZQElzjCsl9o",
    quiz:[
      {q:"The key mathematical concept connecting all Grade 10 topics is ___.", options:["functions — relating quantities","only geometry","only trigonometry","only algebra"], answer:0},
      {q:"Mathematical persistence means ___.", options:["only doing easy problems","giving up when confused","getting every answer right immediately","not giving up on hard problems"], answer:3},
@@ -1158,7 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Science and Society — A Final Reflection", summary:"Students reflect on the role of science in society and their responsibilities as scientifically literate citizens.",
    resourceLabel:"YouTube: Science: Science and Society — A Final Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Science%20and%20Society%20%E2%80%94%20A%20Final%20Reflection%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=cbeYfFb8yFY",
+   videoUrl:"https://www.youtube.com/watch?v=b-EsmVbIjLU",
    quiz:[
      {q:"Scientific literacy means ___.", options:["reading and judging scientific claims","only being good at labs","being a scientist","knowing all scientific facts"], answer:0},
      {q:"The relationship between science and policy is ___.", options:["science has no role in policy","science informs policy, not decides it","science automatically determines policy","scientists should make all decisions"], answer:1},
@@ -1168,7 +1168,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Story: A Continuing Narrative", summary:"Students write a final historical essay on the most significant development in Canadian history and its relevance to their lives as future citizens.",
    resourceLabel:"YouTube: Canada's Story: A Continuing Narrative", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Story%3A%20A%20Continuing%20Narrative%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=kLftACjahgA",
+   videoUrl:"https://www.youtube.com/watch?v=IUHnKUaDYjs",
    quiz:[
      {q:"Canada's most significant unresolved historical challenge is ___.", options:["the 1867 Confederation debt","Canadian state and Indigenous relations","the implementation of Responsible Government","WWI conscription crisis"], answer:1},
      {q:"The Charter of Rights and Freedoms (1982) is significant because ___.", options:["it was Canada's first constitution","it only affects criminal law","it was only a ceremonial change","it made Canada a rights-based democracy"], answer:3},
@@ -1222,6 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"English", title:"Year-End: English as a Lifelong Practice", summary:"A final celebration of reading, writing, and thinking. Students share work, set goals, and understand English as a practice they will carry into all areas of their lives.",
    resourceLabel:"YouTube: Year-End: English as a Lifelong Practice", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%3A%20English%20as%20a%20Lifelong%20Practice%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MSYw502dJNY",
    quiz:[
      {q:"Reading great literature develops ___.", options:["only grammar skills","only vocabulary","only knowledge of plots","empathy and critical thinking"], answer:3},
      {q:"Writing is a thinking tool because ___.", options:["writing is only for communication","writing forces you to clarify thinking","writing and thinking are separate activities","you think first, then write"], answer:1},
@@ -1241,6 +1242,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Grade 10 Science: Final Synthesis", summary:"A final celebration of scientific learning and a look ahead to senior science and life as a scientifically literate citizen.",
    resourceLabel:"YouTube: Grade 10 Science: Final Synthesis", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2010%20Science%3A%20Final%20Synthesis%20grade%2010%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a2D4ljxaOwE",
    quiz:[
      {q:"The three Grade 10 science strands connect through ___.", options:["having nothing in common","the world follows discoverable rules","only being about Canada","only sharing lab equipment"], answer:1},
      {q:"Science is not a set of facts to memorise but ___.", options:["a way to pass tests","a collection of correct answers","only relevant for scientists","building knowledge through testing"], answer:3},
@@ -1250,7 +1252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada's Future: Your Role as a Citizen", summary:"A final reflection on Canadian history, citizenship, and the responsibilities of the Grade 10 generation.",
    resourceLabel:"YouTube: Canada's Future: Your Role as a Citizen", resourceUrl:"https://www.youtube.com/results?search_query=Canada%27s%20Future%3A%20Your%20Role%20as%20a%20Citizen%20grade%2010%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=OrpFA3qfc0E",
+   videoUrl:"https://www.youtube.com/watch?v=Aahg_W_Qbt4",
    quiz:[
      {q:"Canada's most important strength as you enter adulthood is ___.", options:["its commitment","only its natural resources","only its geography","its military power"], answer:0},
      {q:"The generation entering high school now will determine ___.", options:["reconciliation and democracy's future","nothing important about Canada's future","only economic outcomes","only their personal futures"], answer:0},

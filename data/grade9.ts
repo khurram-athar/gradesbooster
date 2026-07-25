@@ -770,7 +770,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Surface Area and Volume of Prisms and Cylinders", summary:"Calculate the surface area and volume of rectangular prisms, triangular prisms, and cylinders using formulas (MTH1W Geometry strand).",
    resourceLabel:"YouTube: Surface Area and Volume of Prisms and Cylinders", resourceUrl:"https://www.youtube.com/results?search_query=Surface%20Area%20and%20Volume%20of%20Prisms%20and%20Cylinders%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=0FPCoUiJDGE",
+   videoUrl:"https://www.youtube.com/watch?v=eBAq_caikJ4",
    quiz:[
      {q:"The volume of a rectangular prism is found using...", options:["V = base area only","V = 2(lw + lh + wh)","V = πr²h","V = length × width × height"], answer:3},
      {q:"The surface area of a rectangular prism is the sum of...", options:["Only the top and bottom faces","The areas of all six faces","Volume divided by height","Only the four side faces"], answer:1},
@@ -802,7 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri (Review)", reviewNote:"Week 4 review — mixed questions from Days 16–19.", subjects:[
   {subject:"Language", title:"Review: Vocabulary, Formal Reports, Visual Texts, and Pronouns", summary:"Mixed review of context clues, formal report structure, multimodal text analysis, and pronoun-antecedent agreement.",
    resourceLabel:"YouTube: Review: Vocabulary, Formal Reports, Visual Texts, and Pronouns", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Vocabulary%2C%20Formal%20Reports%2C%20Visual%20Texts%2C%20and%20Pronouns%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=9YzZfj-OgN4",
+   videoUrl:"https://www.youtube.com/watch?v=1hmJZh74qFw",
    quiz:[
      {q:"A contrast context clue reveals meaning through...", options:["A synonym in the same sentence","An opposing word or idea nearby","A direct definition","An example"], answer:1},
      {q:"The introduction of a formal report should...", options:["Give the final recommendation only","Be written after the conclusion","List all sources","State the topic and purpose of the report"], answer:3},
@@ -822,7 +822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Balancing Equations, Reaction Types, Ohm's Law, and EM Spectrum", summary:"Mixed review of balancing equations, reaction classification, Ohm's Law calculations, and the electromagnetic spectrum.",
    resourceLabel:"YouTube: Review: Balancing Equations, Reaction Types, Ohm's Law, and EM Spectrum", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Balancing%20Equations%2C%20Reaction%20Types%2C%20Ohm%27s%20Law%2C%20and%20EM%20Spectrum%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=1M2Gxc4EaFw",
+   videoUrl:"https://www.youtube.com/watch?v=iUARzSxcKzk",
    quiz:[
      {q:"When balancing chemical equations, you adjust...", options:["Both coefficients and subscripts freely","Coefficients only (not subscripts)","Subscripts only","The names of elements"], answer:1},
      {q:"A reaction where two compounds swap ion partners is a...", options:["Synthesis reaction","Double displacement reaction","Single displacement reaction","Decomposition reaction"], answer:1},
@@ -832,7 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Food Security, Transport Networks, Energy Resources, and Development Indicators", summary:"Mixed review of agricultural geography, transportation and trade, global energy, and HDI.",
    resourceLabel:"YouTube: Review: Food Security, Transport Networks, Energy Resources, and Development Indicators", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Food%20Security%2C%20Transport%20Networks%2C%20Energy%20Resources%2C%20and%20Development%20Indicators%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=xNq9cFs8A7k",
+   videoUrl:"https://www.youtube.com/watch?v=KzAONF02xnY",
    quiz:[
      {q:"Food security means people have...", options:["No need for food imports","Food only grown within 100 km","Reliable access to enough safe food","Unlimited local farmland"], answer:2},
      {q:"Landlocked countries face a trade disadvantage because...", options:["They are always small countries","They lack sea access, raising costs","They have no natural resources","They have no roads"], answer:1},
@@ -958,7 +958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Resources and Political Tensions (General)", summary:"Examine how uneven distribution of natural resources can create geographic and political tensions between regions and nations, using general patterns and principles (CGC1W — balanced).",
    resourceLabel:"YouTube: Geography of Resources and Political Tensions (General)", resourceUrl:"https://www.youtube.com/results?search_query=Geography%20of%20Resources%20and%20Political%20Tensions%20%28General%29%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=tFr5rtkX2JU",
+   videoUrl:"https://www.youtube.com/watch?v=brV0zpaV8qo",
    quiz:[
      {q:"Why can the uneven geographic distribution of resources lead to political tensions?", options:["Only military strength, not resources, causes political tensions","Resources are always evenly distributed so tensions rarely occur","Resource control brings outsized power","Political tensions are never related to geography"], answer:2},
      {q:"Water rights disputes between countries or regions typically arise because...", options:["Water is always evenly available everywhere","Water disputes only occur in deserts","Only one country in the world faces water shortages","Rivers cross borders, supply is scarce"], answer:3},
@@ -1000,7 +1000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"GPS, GIS, and Remote Sensing Technology", summary:"Describe how GPS, Geographic Information Systems (GIS), and remote sensing (satellites, aerial photography) are used as geographic tools for mapping, analysis, and decision-making (CGC1W).",
    resourceLabel:"YouTube: GPS, GIS, and Remote Sensing Technology", resourceUrl:"https://www.youtube.com/results?search_query=GPS%2C%20GIS%2C%20and%20Remote%20Sensing%20Technology%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=7Yt7Ssput9k",
+   videoUrl:"https://www.youtube.com/watch?v=VfDAd-MO94o",
    quiz:[
      {q:"GPS (Global Positioning System) works by...", options:["Measuring air pressure to determine elevation only","Reading paper maps electronically","Using satellites to find your location","Using internet cell towers only"], answer:2},
      {q:"GIS (Geographic Information System) is a tool that allows geographers to...", options:["Store non-geographic data only","Track the weather exclusively","Store and layer spatial data","Only create paper maps"], answer:2},
@@ -1012,7 +1012,7 @@ const curriculum: DayContent[] = [
 {day:25, label:"Day 25 — Fri (Review)", reviewNote:"Week 5 review — mixed questions from Days 21–24.", subjects:[
   {subject:"Language", title:"Review: Subject-Verb Agreement, Symbolism, Satire, and Close Reading", summary:"Mixed review of agreement rules, poetry analysis, satire/parody, and annotation strategies.",
    resourceLabel:"YouTube: Review: Subject-Verb Agreement, Symbolism, Satire, and Close Reading", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Subject-Verb%20Agreement%2C%20Symbolism%2C%20Satire%2C%20and%20Close%20Reading%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=gubPH3WEurg",
+   videoUrl:"https://www.youtube.com/watch?v=d12vWaSiDaM",
    quiz:[
      {q:"Which sentence is correct?", options:["Everyone were responsible for their own work.","Everyone are responsible for their own work.","Everyone is responsible for their own work.","Everyones is responsible for their own work."], answer:2},
      {q:"In poetry, a symbol represents...", options:["A rhyme scheme","Only its literal physical object","The title of the poem","Something beyond its literal meaning"], answer:3},
@@ -1042,7 +1042,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Cultural Geography, Migration, Resources/Tensions, and Geospatial Tech", summary:"Mixed review of language/religion distribution, push/pull migration factors, resource tensions, and GPS/GIS tools.",
    resourceLabel:"YouTube: Review: Cultural Geography, Migration, Resources/Tensions, and Geospatial Tech", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Cultural%20Geography%2C%20Migration%2C%20Resources%2FTensions%2C%20and%20Geospatial%20Tech%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=tFr5rtkX2JU",
+   videoUrl:"https://www.youtube.com/watch?v=5Z55k7CqZ0c",
    quiz:[
      {q:"A lingua franca is a language used as...", options:["Only used in the United Nations","The most common native language in the world","Only a written language, never spoken","A common tongue across languages"], answer:3},
      {q:"A push factor in migration motivates a person to...", options:["Stay permanently in their home","Increase their income without moving","Leave their current location","Move to a specific attractive destination"], answer:2},
@@ -1158,7 +1158,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pollution Types and Environmental Effects", summary:"Identify major types of pollution (air, water, soil, noise, light) and describe their sources, mechanisms, and effects on ecosystems and human health (SNC1W Environment strand).",
    resourceLabel:"YouTube: Pollution Types and Environmental Effects", resourceUrl:"https://www.youtube.com/results?search_query=Pollution%20Types%20and%20Environmental%20Effects%20grade%209%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=7qkaz8ChelI",
+   videoUrl:"https://www.youtube.com/watch?v=Zk1J2EW-nmQ",
    quiz:[
      {q:"Acid rain is primarily caused by...", options:["Volcanic activity alone with no human contribution","Evaporation of ocean water","Sulfur and nitrogen oxides in the air","Natural forest fires only"], answer:2},
      {q:"Eutrophication in lakes and rivers is caused by...", options:["Too little sunlight reaching the water","Only industrial chemical discharge","Very cold water temperatures","Fertilizer runoff causing algal blooms"], answer:3},
