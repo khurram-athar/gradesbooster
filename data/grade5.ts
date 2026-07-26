@@ -1294,7 +1294,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The War of 1812", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: the War of 1812 was fought between the United States and Britain (including its colonies in what is now Canada), with First Nations allies playing a significant role in defending Canadian territory.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
-   videoUrl:"https://www.youtube.com/watch?v=RD149V3Bako",
+   videoUrl:"https://www.youtube.com/watch?v=efNVeGxLdCg",
    quiz:[
      {q:"The War of 1812 was fought mainly between which two sides?", options:["Spain and Portugal","Canada and France","The United States and Britain (including its Canadian colonies)","Canada and Britain"], answer:2},
      {q:"Which group played a significant role in defending Canadian territory during the War of 1812?", options:["Astronauts","The Ancient Romans","No one else was involved","First Nations allies"], answer:3},
@@ -1306,7 +1306,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Active and Passive Voice", summary:"Ontario Grade 5 Writing strand: in active voice, the subject performs the action (the dog chased the ball), while in passive voice, the subject receives the action (the ball was chased by the dog).",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
-   videoUrl:"https://www.youtube.com/watch?v=OkSv_HdfyLg",
+   videoUrl:"https://www.youtube.com/watch?v=4xS2BgkjsFg",
    quiz:[
      {q:"Which sentence is written in active voice?", options:["The ball was kicked by Sam.","The ball had been kicked.","Sam kicked the ball.","The ball is being kicked."], answer:2},
      {q:"Which sentence is written in passive voice?", options:["The cat chased the mouse.","The mouse was chased by the cat.","The cat is chasing the mouse.","The cat will chase the mouse."], answer:1},

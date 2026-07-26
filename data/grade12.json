@@ -253,9 +253,9 @@
         "subject": "English",
         "title": "Independent Study: The Novel — Form and Meaning",
         "summary": "Students read a major novel independently, analysing how formal choices (narration, structure, style) create meaning rather than just content.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=S928_8W7JuA",
+        "resourceLabel": "English Nerd: How to Do Literary Analysis",
+        "resourceUrl": "https://www.youtube.com/watch?v=dI34pqtNRHA",
+        "videoUrl": "https://www.youtube.com/watch?v=dI34pqtNRHA",
         "quiz": [
           {
             "q": "The distinction between story (fabula) and discourse (sjuzhet) means ___.",
@@ -499,9 +499,9 @@
         "subject": "English",
         "title": "Literature: The Tragic Form Across Cultures",
         "summary": "Students compare the tragic form in different cultural traditions — Greek tragedy, Shakespearean tragedy, and contemporary tragic narratives — examining what 'tragedy' means across time and culture.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=I5KZcdAmWLw",
+        "resourceLabel": "CrashCourse Theater: Tragedy Lessons from Aristotle",
+        "resourceUrl": "https://www.youtube.com/watch?v=nGlQkaoIfBI",
+        "videoUrl": "https://www.youtube.com/watch?v=nGlQkaoIfBI",
         "quiz": [
           {
             "q": "Greek tragedy (Sophocles, Euripides) differs from Shakespearean tragedy in ___.",
@@ -1975,9 +1975,9 @@
         "subject": "English",
         "title": "Independent Reading: Postmodern Literature",
         "summary": "Students read a postmodern novel or short fiction collection, examining metafiction, fragmentation, unreliable narration, and postmodern challenges to stable meaning.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=7ECv-j2McbQ",
+        "resourceLabel": "Sarath Krishnan: The Labyrinth of Language — Postmodernism Explained",
+        "resourceUrl": "https://www.youtube.com/watch?v=Pw7RBKcSUrc",
+        "videoUrl": "https://www.youtube.com/watch?v=Pw7RBKcSUrc",
         "quiz": [
           {
             "q": "Postmodern literature challenges ___.",
@@ -2221,9 +2221,9 @@
         "subject": "English",
         "title": "Literature: Comparative Canadian and World Literature",
         "summary": "Students compare Canadian literature with a world text, analysing how place, history, and culture shape literary form and theme.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=nJNdZGF6Xvo",
+        "resourceLabel": "Harvard Online: The Birth of World Literature",
+        "resourceUrl": "https://www.youtube.com/watch?v=eOxP0ZZMrmk",
+        "videoUrl": "https://www.youtube.com/watch?v=eOxP0ZZMrmk",
         "quiz": [
           {
             "q": "Comparative literature across cultures reveals ___.",
@@ -2281,9 +2281,9 @@
         "subject": "AdvancedFunctions",
         "title": "Proof and Mathematical Reasoning",
         "summary": "Students examine mathematical proof — direct proof, proof by contradiction, and mathematical induction — developing the formal reasoning skills required for university mathematics.",
-        "resourceLabel": "Khan Academy: Mathematical Induction",
-        "resourceUrl": "https://www.youtube.com/watch?v=wblW_M_HVQ8",
-        "videoUrl": "https://www.youtube.com/watch?v=SgtOzuADxK8",
+        "resourceLabel": "Organic Chemistry Tutor: Mathematical Induction Practice Problems",
+        "resourceUrl": "https://www.youtube.com/watch?v=tHNVX3e9zd0",
+        "videoUrl": "https://www.youtube.com/watch?v=tHNVX3e9zd0",
         "quiz": [
           {
             "q": "A direct proof establishes a theorem by ___.",
@@ -2587,9 +2587,9 @@
         "subject": "Calculus",
         "title": "Calculus of Exponential and Logarithmic Functions",
         "summary": "Students differentiate and integrate e^(ax), ln(x), and related functions, and apply these to growth/decay problems.",
-        "resourceLabel": "Khan Academy: Derivatives of Exponential Functions",
-        "resourceUrl": "https://www.youtube.com/watch?v=MKQR_acrFOA",
-        "videoUrl": "https://www.youtube.com/watch?v=nqpn0SQB5ds",
+        "resourceLabel": "Organic Chemistry Tutor: Derivatives of Exponential Functions & Logarithmic Differentiation",
+        "resourceUrl": "https://www.youtube.com/watch?v=zmnh448y_ZU",
+        "videoUrl": "https://www.youtube.com/watch?v=zmnh448y_ZU",
         "quiz": [
           {
             "q": "d/dx[e^(ax)] = ___.",
@@ -2893,9 +2893,9 @@
         "subject": "Physics",
         "title": "Physics Year-End: Connections and Applications",
         "summary": "Students synthesise all Grade 12 Physics — mechanics, fields, waves, modern physics — and examine how physical principles interconnect.",
-        "resourceLabel": "Crash Course Physics: Year Review",
-        "resourceUrl": "https://www.youtube.com/watch?v=kUDhL6C9Lao",
-        "videoUrl": "https://www.youtube.com/watch?v=cKV56eMTRbk",
+        "resourceLabel": "Klonusk: All Fundamental Forces and Particles Explained",
+        "resourceUrl": "https://www.youtube.com/watch?v=-L5OQp2J46g",
+        "videoUrl": "https://www.youtube.com/watch?v=-L5OQp2J46g",
         "quiz": [
           {
             "q": "The four fundamental forces of nature are ___.",
@@ -2959,9 +2959,9 @@
         "subject": "English",
         "title": "Independent Reading Synthesis: Personal Reading List",
         "summary": "Students develop a personal reading list beyond the curriculum, demonstrating wide reading, independent literary judgment, and lifelong reading habits.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=S928_8W7JuA",
+        "resourceLabel": "Robin Waldun: Analytical Reading 101",
+        "resourceUrl": "https://www.youtube.com/watch?v=Ls2ynrMv10A",
+        "videoUrl": "https://www.youtube.com/watch?v=Ls2ynrMv10A",
         "quiz": [
           {
             "q": "Building a personal reading list involves ___.",
@@ -3451,9 +3451,9 @@
         "subject": "English",
         "title": "Grade 12 English: Exam and Celebration",
         "summary": "A final celebration of Grade 12 English — reflecting on the year's literary journey and looking ahead to university and lifelong reading.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/c/TEDEd",
-        "videoUrl": "https://www.youtube.com/watch?v=sRkOWvR8mNA",
+        "resourceLabel": "Ms. Peer Editor: Timed Essay Strategies",
+        "resourceUrl": "https://www.youtube.com/watch?v=ga-ONwAX9cg",
+        "videoUrl": "https://www.youtube.com/watch?v=ga-ONwAX9cg",
         "quiz": [
           {
             "q": "Grade 12 English culminates in ___.",
@@ -3511,9 +3511,9 @@
         "subject": "AdvancedFunctions",
         "title": "Looking Back, Looking Forward",
         "summary": "Students reflect on their mathematical development across MHF4U and its connection to university mathematics.",
-        "resourceLabel": "Khan Academy: Looking Ahead to Calculus",
-        "resourceUrl": "https://www.youtube.com/watch?v=riXcZT2ICjA",
-        "videoUrl": "https://www.youtube.com/watch?v=RSAD7QNT1hs",
+        "resourceLabel": "BriTheMathGuy: What I Wish I Knew Before Becoming A Math Major",
+        "resourceUrl": "https://www.youtube.com/watch?v=wk28BSaLszo",
+        "videoUrl": "https://www.youtube.com/watch?v=wk28BSaLszo",
         "quiz": [
           {
             "q": "Advanced Functions has prepared you for university mathematics by ___.",
@@ -3631,9 +3631,9 @@
         "subject": "Physics",
         "title": "Physics: A Final Reflection",
         "summary": "Students reflect on their learning in Grade 12 Physics and the role of physics in understanding the universe.",
-        "resourceLabel": "Crash Course Physics: Reflecting on Physics",
-        "resourceUrl": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
-        "videoUrl": "https://www.youtube.com/watch?v=yscrBkfPRyc",
+        "resourceLabel": "Parth G: 3 Reasons Why YOU Should Study PHYSICS",
+        "resourceUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
+        "videoUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
         "quiz": [
           {
             "q": "Physics is the most fundamental science because ___.",
@@ -3697,9 +3697,9 @@
         "subject": "English",
         "title": "Postcolonial Literature: Writing Back to Empire",
         "summary": "Students examine postcolonial theory and its application to literary texts — how writers from formerly colonised nations rewrite colonial narratives.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=G15p7uOc-aA",
-        "videoUrl": "https://www.youtube.com/watch?v=wgIp1wjkEA8",
+        "resourceLabel": "Sarath Krishnan: Writing Back in Postcolonialism",
+        "resourceUrl": "https://www.youtube.com/watch?v=cPXxQKc0OoQ",
+        "videoUrl": "https://www.youtube.com/watch?v=cPXxQKc0OoQ",
         "quiz": [
           {
             "q": "The term 'writing back' (Ashcroft et al.) refers to ___.",
@@ -4741,9 +4741,9 @@
         "subject": "AdvancedFunctions",
         "title": "Geometric Vectors: Applications to Physics and Engineering",
         "summary": "Students apply 3D vector concepts to displacement, velocity, force equilibrium, and work problems.",
-        "resourceLabel": "Khan Academy",
-        "resourceUrl": "https://www.youtube.com/watch?v=ozwodzD5bte",
-        "videoUrl": "https://www.youtube.com/watch?v=1mNd2wLC_0c",
+        "resourceLabel": "Organic Chemistry Tutor: How To Find The Resultant of Two Vectors",
+        "resourceUrl": "https://www.youtube.com/watch?v=RxV06Oj5sMc",
+        "videoUrl": "https://www.youtube.com/watch?v=RxV06Oj5sMc",
         "quiz": [
           {
             "q": "Resolving a force into components in 3D uses ___.",
@@ -4927,9 +4927,9 @@
         "subject": "English",
         "title": "The Novel as Social Document: Realism and Its Discontents",
         "summary": "Students examine realist novels and their sociological dimension — how fiction can document social reality while remaining art.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=qGHBcRcPQeI",
-        "videoUrl": "https://www.youtube.com/watch?v=F3raAcK18cQ",
+        "resourceLabel": "Tristan and the Classics: The 7 Core Aspects of Realist Literature",
+        "resourceUrl": "https://www.youtube.com/watch?v=qP7KQhrVtBc",
+        "videoUrl": "https://www.youtube.com/watch?v=qP7KQhrVtBc",
         "quiz": [
           {
             "q": "Nineteenth-century realism in the novel aimed to ___.",
@@ -5173,9 +5173,9 @@
         "subject": "English",
         "title": "Short Fiction Masterworks: Structure, Voice, and Compression",
         "summary": "Students study canonical short stories, examining how compressed form demands particular mastery of voice, structure, epiphany, and economy of language.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=dtRCMONW8bQ",
-        "videoUrl": "https://www.youtube.com/watch?v=WLF7_uaPu0w",
+        "resourceLabel": "TED-Ed: How to Make Your Writing Suspenseful",
+        "resourceUrl": "https://www.youtube.com/watch?v=xjKruwAfZWk",
+        "videoUrl": "https://www.youtube.com/watch?v=xjKruwAfZWk",
         "quiz": [
           {
             "q": "The short story differs from the novel in that ___.",
@@ -5419,9 +5419,9 @@
         "subject": "English",
         "title": "Documentary and Non-Fiction: Truth, Form, and Ethics",
         "summary": "Students examine documentary film and literary non-fiction (creative non-fiction, journalism) — exploring how non-fiction makes arguments and ethical obligations to truth.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=2HqT7QbVCnc",
-        "videoUrl": "https://www.youtube.com/watch?v=rrpSpUil39U",
+        "resourceLabel": "Early Light Media: Documentary Ethics — The Essential Truth Trap",
+        "resourceUrl": "https://www.youtube.com/watch?v=MmDTt36FSWs",
+        "videoUrl": "https://www.youtube.com/watch?v=MmDTt36FSWs",
         "quiz": [
           {
             "q": "Documentary film differs from fiction film in that ___.",
@@ -5665,9 +5665,9 @@
         "subject": "English",
         "title": "Contemporary Drama: Stagecraft and Text",
         "summary": "Students examine a contemporary play, analysing the relationship between the written text and its realisation in performance.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=W3MJj5AjAMc",
-        "videoUrl": "https://www.youtube.com/watch?v=tVChDzCvvko",
+        "resourceLabel": "Artists Behind the Art: How Do Contemporary Playwrights Use the Fourth Wall?",
+        "resourceUrl": "https://www.youtube.com/watch?v=DVhl4NO96Ms",
+        "videoUrl": "https://www.youtube.com/watch?v=DVhl4NO96Ms",
         "quiz": [
           {
             "q": "A play script is ___.",
@@ -5725,9 +5725,9 @@
         "subject": "AdvancedFunctions",
         "title": "Probability Distributions: Binomial and Geometric",
         "summary": "Students work with discrete probability distributions — binomial and geometric — applying formulas and interpreting results.",
-        "resourceLabel": "Khan Academy",
-        "resourceUrl": "https://www.youtube.com/watch?v=J8jNoF-K8Z8",
-        "videoUrl": "https://www.youtube.com/watch?v=94AmzeR9n2w",
+        "resourceLabel": "jbstatistics: Overview of Discrete Probability Distributions",
+        "resourceUrl": "https://www.youtube.com/watch?v=UrOXRvG9oYE",
+        "videoUrl": "https://www.youtube.com/watch?v=UrOXRvG9oYE",
         "quiz": [
           {
             "q": "The binomial distribution applies when ___.",
@@ -6091,9 +6091,9 @@
         "subject": "Physics",
         "title": "Medical and Applied Physics",
         "summary": "Students see how physics principles apply to medicine — X-rays, MRI, PET scans, ultrasound, and radiation therapy.",
-        "resourceLabel": "Crash Course Physics",
-        "resourceUrl": "https://www.youtube.com/watch?v=cMJpFjmJZ9s",
-        "videoUrl": "https://www.youtube.com/watch?v=i_CijGuk7fw",
+        "resourceLabel": "Khan Academy Medicine: Ultrasound Medical Imaging",
+        "resourceUrl": "https://www.youtube.com/watch?v=sTcqtljxLOk",
+        "videoUrl": "https://www.youtube.com/watch?v=sTcqtljxLOk",
         "quiz": [
           {
             "q": "X-rays penetrate soft tissue but are absorbed by bone because ___.",
@@ -6649,9 +6649,9 @@
         "subject": "English",
         "title": "Culminating Essay: Writing Under Examination Conditions",
         "summary": "Students practise writing a full analytical essay under timed conditions, applying all skills developed throughout the year.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=kLJE8IYIQEM",
-        "videoUrl": "https://www.youtube.com/watch?v=kW3NBBZQMi0",
+        "resourceLabel": "Thomas Frank: 5 Rules for Answering Essay Questions on Exams",
+        "resourceUrl": "https://www.youtube.com/watch?v=jeht_P2GBwI",
+        "videoUrl": "https://www.youtube.com/watch?v=jeht_P2GBwI",
         "quiz": [
           {
             "q": "The most important 5 minutes of a timed literary essay are ___.",
@@ -6769,9 +6769,9 @@
         "subject": "Calculus",
         "title": "Calculus: Culminating Task",
         "summary": "Students complete a culminating task integrating limits, derivatives, and integrals.",
-        "resourceLabel": "Khan Academy Calculus",
-        "resourceUrl": "https://www.youtube.com/watch?v=9vgCMNHPScU",
-        "videoUrl": "https://www.youtube.com/watch?v=sIQgEVKL3_4",
+        "resourceLabel": "Brain Station Advanced: Optimization Problem in Calculus",
+        "resourceUrl": "https://www.youtube.com/watch?v=QKT65uQgtBI",
+        "videoUrl": "https://www.youtube.com/watch?v=QKT65uQgtBI",
         "quiz": [
           {
             "q": "Part 1: lim(x→0) (e^x − 1 − x)/x².",
@@ -7015,9 +7015,9 @@
         "subject": "Calculus",
         "title": "Calculus: Final Reflection and University Preparation",
         "summary": "Students reflect on Calculus learning and prepare for university calculus courses.",
-        "resourceLabel": "Khan Academy Calculus",
-        "resourceUrl": "https://www.youtube.com/watch?v=riXcZT2ICjA",
-        "videoUrl": "https://www.youtube.com/watch?v=Fv1K2IVd1pE",
+        "resourceLabel": "Dr Ji Tutoring: 5 Concepts You Must Know Before Taking Calculus",
+        "resourceUrl": "https://www.youtube.com/watch?v=AKmuk0OM-DM",
+        "videoUrl": "https://www.youtube.com/watch?v=AKmuk0OM-DM",
         "quiz": [
           {
             "q": "The two most important ideas in Calculus are ___.",
@@ -7075,9 +7075,9 @@
         "subject": "Physics",
         "title": "Physics: Final Reflection and Looking to University",
         "summary": "Students reflect on their Grade 12 Physics learning and its connections to university physics and modern life.",
-        "resourceLabel": "Crash Course Physics",
-        "resourceUrl": "https://www.youtube.com/watch?v=aY8z2qO44WA",
-        "videoUrl": "https://www.youtube.com/watch?v=yscrBkfPRyc",
+        "resourceLabel": "Parth G: 3 Reasons Why YOU Should Study PHYSICS",
+        "resourceUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
+        "videoUrl": "https://www.youtube.com/watch?v=MhZXHA4BWgk",
         "quiz": [
           {
             "q": "The most important conceptual development in Grade 12 Physics is ___.",
@@ -7141,9 +7141,9 @@
         "subject": "English",
         "title": "Grade 12 Celebration: A Year of Growth",
         "summary": "A final day celebrating the intellectual journey of Grade 12 — reflecting on growth, looking ahead to university and life, and recognising what has been accomplished.",
-        "resourceLabel": "TED-Ed: Literature",
-        "resourceUrl": "https://www.youtube.com/watch?v=jTDkTt1UTXM",
-        "videoUrl": "https://www.youtube.com/watch?v=jTDkTt1UTXM",
+        "resourceLabel": "TED-Ed: How Fiction Can Change Reality",
+        "resourceUrl": "https://www.youtube.com/watch?v=ctaPAm14L10",
+        "videoUrl": "https://www.youtube.com/watch?v=ctaPAm14L10",
         "quiz": [
           {
             "q": "The most important thing accomplished in Grade 12 is ___.",
@@ -7321,9 +7321,9 @@
         "subject": "Physics",
         "title": "Grade 12 Physics: Final Day",
         "summary": "Students celebrate completing Grade 12 Physics and look ahead to university and the world of physics.",
-        "resourceLabel": "Crash Course Physics: Celebration",
-        "resourceUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
-        "videoUrl": "https://www.youtube.com/watch?v=pGj9isFr21U",
+        "resourceLabel": "Domain of Science: The Map of Physics",
+        "resourceUrl": "https://www.youtube.com/watch?v=ZihywtixUYo",
+        "videoUrl": "https://www.youtube.com/watch?v=ZihywtixUYo",
         "quiz": [
           {
             "q": "Grade 12 Physics has given you ___.",

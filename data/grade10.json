@@ -3875,61 +3875,61 @@
       },
       {
         "subject": "History",
-        "title": "Post-War Canada: Social Change 1945-1970",
-        "summary": "Students examine the baby boom, suburbanisation, the welfare state, women's liberation, and shifting Canadian values in the post-WWII decades.",
-        "resourceLabel": "YouTube: Post-War Canada: Social Change 1945-1970",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Post-War%20Canada%3A%20Social%20Change%201945-1970%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=-rkIqtV07HE",
+        "title": "Post-War Immigration to Canada",
+        "summary": "Students examine the waves of immigration that reshaped Canada after 1945 — from European displaced persons to the introduction of the 1967 points system — and how newcomers transformed Canadian cities, the labour force, and cultural identity.",
+        "resourceLabel": "YouTube: Post-War Immigration to Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Post-War%20Immigration%20to%20Canada%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=G7GRzy5004s",
         "quiz": [
           {
-            "q": "Canada's post-WWII welfare state included ___.",
+            "q": "Compared to prewar policy, Canada's post-WWII immigration approach ___.",
             "options": [
-              "only pensions",
-              "only healthcare",
-              "no new social programs",
-              "insurance, Medicare, and pensions"
+              "closed its borders to all newcomers",
+              "kept the same ethnic restrictions with no changes",
+              "moved away from a purely ethnically selective system toward wider source countries",
+              "only admitted immigrants from Britain"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "The women's liberation movement in Canada in the 1960s-70s fought for ___.",
+            "q": "The 'displaced persons' who arrived in Canada in the late 1940s were largely ___.",
             "options": [
-              "only voting rights (already won)",
-              "only workplace safety",
-              "no significant changes",
-              "equal pay and reproductive rights"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Royal Commission on the Status of Women (1970) ___.",
-            "options": [
-              "found no inequalities",
-              "only addressed employment issues",
-              "was irrelevant",
-              "documented gender inequality"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Post-WWII suburbanisation was driven by ___.",
-            "options": [
-              "only immigration",
-              "a preference for dense urban living",
-              "a decline in car ownership",
-              "housing policy and growing car culture"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Pierre Trudeau's 'Just Society' vision (1968 onward) emphasised ___.",
-            "options": [
-              "collective rights over individual rights",
-              "rights, bilingualism, multiculturalism",
-              "regional favouritism",
-              "only economic growth"
+              "wealthy business investors",
+              "European refugees uprooted by the war and its aftermath",
+              "seasonal agricultural workers only",
+              "temporary diplomats"
             ],
             "answer": 1
+          },
+          {
+            "q": "Canada's 1967 immigration reform introduced a 'points system' that ___.",
+            "options": [
+              "banned all non-European applicants",
+              "required a minimum family income",
+              "gave preference only to relatives of citizens",
+              "assessed applicants on education, skills, and language rather than country of origin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A major effect of postwar immigration on Canada was ___.",
+            "options": [
+              "the rapid growth and diversification of Canadian cities",
+              "a shrinking national population",
+              "the decline of the manufacturing sector",
+              "reduced demand for housing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "By the end of the 1960s, Canadian immigration policy increasingly reflected ___.",
+            "options": [
+              "a return to racially restrictive quotas",
+              "permanent border closures",
+              "isolation from international affairs",
+              "an emerging commitment to multiculturalism and reduced racial preference"
+            ],
+            "answer": 2
           }
         ]
       }
@@ -6089,61 +6089,61 @@
       },
       {
         "subject": "History",
-        "title": "Media and History: How History is Represented",
-        "summary": "Students examine how films, television, novels, and social media represent historical events, and how to critically evaluate historical representation in popular media.",
-        "resourceLabel": "YouTube: Media and History: How History is Represented",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Media%20and%20History%3A%20How%20History%20is%20Represented%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=JtoHdjhsVtY",
+        "title": "Wartime Propaganda: Analyzing Canadian WWII Posters",
+        "summary": "Students analyse propaganda posters produced by Canada's Wartime Information Board, examining the visual and rhetorical techniques used to shape public opinion, morale, and behaviour during the Second World War. Close reading of these historical documents builds skills for critically evaluating persuasive media, then and now.",
+        "resourceLabel": "YouTube: Wartime Propaganda: Analyzing Canadian WWII Posters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wartime%20Propaganda%3A%20Analyzing%20Canadian%20WWII%20Posters%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=tXH4ZiSk1K4",
         "quiz": [
           {
-            "q": "Historical films and television often ___.",
+            "q": "Wartime propaganda posters were primarily designed to ___.",
             "options": [
-              "have no influence on public understanding of history",
-              "perfectly represent historical events",
-              "are always based entirely on primary sources",
-              "prioritise dramatic narrative over historical accuracy"
+              "provide a neutral historical record",
+              "persuade — shaping morale, opinion, and behaviour in support of the war effort",
+              "serve as purely artistic expression with no purpose",
+              "entertain with no political message"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A key technique used in propaganda posters is ___.",
+            "options": [
+              "long, detailed statistical tables",
+              "dense uninterrupted text",
+              "striking imagery and short slogans that provoke an emotional response",
+              "abstract patterns with no message"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canada's Wartime Information Board, created in 1942, was responsible for ___.",
+            "options": [
+              "training frontline soldiers",
+              "rationing food supplies",
+              "managing Canada's propaganda and public morale campaigns",
+              "building military equipment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When analysing a historical propaganda poster, a critical viewer should ask ___.",
+            "options": [
+              "only what colours were used",
+              "how many words appear on the poster",
+              "whether the poster is old or new",
+              "who created it, who it targeted, and what response it intended to produce"
             ],
             "answer": 3
           },
           {
-            "q": "The danger of Hollywood historical films is ___.",
+            "q": "Studying historical propaganda helps students today ___.",
             "options": [
-              "they can spread inaccuracies widely",
-              "they are always good for education",
-              "only that they use old footage",
-              "they are too long"
+              "recognise persuasive techniques used in media and advertising today",
+              "memorise poster designs",
+              "avoid all media consumption",
+              "understand only wartime economics"
             ],
             "answer": 0
-          },
-          {
-            "q": "How should a historically literate person watch a historical film?",
-            "options": [
-              "Engage critically",
-              "Never watch historical films",
-              "Only watch documentaries",
-              "Believe everything in the film"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Social media's effect on historical memory includes ___.",
-            "options": [
-              "spreading both history and distortion",
-              "replacing all other forms of historical knowledge",
-              "no significant effect",
-              "only preserving accurate history"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The inclusion of diverse perspectives in historical representation in film and media ___.",
-            "options": [
-              "is not important",
-              "makes historical narratives less accurate",
-              "adds marginalised voices to history",
-              "is always present"
-            ],
-            "answer": 2
           }
         ]
       }
@@ -6335,61 +6335,61 @@
       },
       {
         "subject": "History",
-        "title": "History Final Reflection: What Did We Learn?",
-        "summary": "Students write a final synthesis on the most significant lessons from Grade 10 History for their identity and future as Canadian citizens.",
-        "resourceLabel": "YouTube: History Final Reflection: What Did We Learn?",
-        "resourceUrl": "https://www.youtube.com/results?search_query=History%20Final%20Reflection%3A%20What%20Did%20We%20Learn%3F%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=lTTvKwCylFY",
+        "title": "Key Turning Points in 20th Century Canadian History",
+        "summary": "Students review the pivotal moments that shaped 20th century Canada — from the two World Wars to the Quiet Revolution and the patriation of the Constitution — connecting these turning points into a coherent narrative of national change.",
+        "resourceLabel": "YouTube: Key Turning Points in 20th Century Canadian History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Key%20Turning%20Points%20in%2020th%20Century%20Canadian%20History%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=zz440EuFK8Q",
         "quiz": [
           {
-            "q": "The most significant lesson from WWII for democratic citizens is ___.",
+            "q": "Canada's participation in WWI, especially the Battle of Vimy Ridge (1917), is often seen as a turning point because ___.",
             "options": [
-              "democracies always win wars",
-              "only military power matters",
-              "history has no lessons",
-              "democracies can commit injustices too"
+              "it ended Canada's ties to Britain immediately",
+              "it had no lasting effect on Canadian identity",
+              "it strengthened a sense of Canadian national identity distinct from Britain",
+              "it led to Canada losing its independence"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "The Charter of Rights and Freedoms matters to Grade 10 students because ___.",
+            "q": "The Quiet Revolution in Quebec (1960s) was a turning point that ___.",
             "options": [
-              "only lawyers need to know it",
-              "it protects your rights right now",
-              "it only applies to adults",
-              "it is already fully implemented"
+              "strengthened the Catholic Church's role in Quebec society",
+              "modernised Quebec society and fuelled a stronger nationalist movement",
+              "ended Quebec's participation in Confederation",
+              "had no lasting political consequences"
             ],
             "answer": 1
           },
           {
-            "q": "Reconciliation is a Grade 10 student's concern because ___.",
+            "q": "The patriation of the Constitution and the Charter of Rights and Freedoms (1982) marked a turning point because ___.",
             "options": [
-              "your generation shapes what comes next",
-              "it was resolved by the TRC report",
-              "it is only a political issue",
-              "only the government can act on reconciliation"
+              "Canada gained full authority to amend its own Constitution and entrenched rights",
+              "Canada lost its independence",
+              "it abolished the monarchy in Canada",
+              "it had no impact on Canadian law"
             ],
             "answer": 0
           },
           {
-            "q": "The most important citizenship skill developed in Grade 10 History is ___.",
+            "q": "WWII was a turning point for Canada because it ___.",
             "options": [
-              "critical historical thinking",
-              "memorising dates",
-              "knowing all prime ministers",
-              "only understanding WWII"
+              "decreased Canada's industrial output",
+              "isolated Canada from world affairs",
+              "reduced women's participation in the workforce",
+              "expanded Canada's industrial economy and elevated its international standing"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "Canada's history teaches that ___.",
+            "q": "Looking across the 20th century, Canadian history shows that ___.",
             "options": [
-              "history is irrelevant",
-              "change is impossible",
-              "the Canada we have was made by choices",
-              "Canada has always been just"
+              "change in Canada has always been sudden and disconnected",
+              "Canada's development has been shaped by a series of connected political, social, and constitutional turning points",
+              "only wars have shaped Canadian history",
+              "Canada's identity has never changed"
             ],
-            "answer": 2
+            "answer": 1
           }
         ]
       }
@@ -6521,61 +6521,61 @@
       },
       {
         "subject": "Science",
-        "title": "Science: Environmental Decision Making",
-        "summary": "Students apply scientific knowledge to make and justify environmental decisions, practising evidence-based reasoning and ethical analysis.",
-        "resourceLabel": "YouTube: Science: Environmental Decision Making",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Science%3A%20Environmental%20Decision%20Making%20grade%2010%20educational",
-        "videoUrl": "https://www.youtube.com/watch?v=5hrWtoD3XWk",
+        "title": "Life-Cycle Analysis and Sustainable Choices",
+        "summary": "Students learn how a Life-Cycle Assessment (LCA) measures a product's environmental impact from raw materials through manufacturing, use, and disposal, then apply this framework to compare everyday choices — like packaging or clothing — for their real environmental footprint.",
+        "resourceLabel": "YouTube: Life-Cycle Analysis and Sustainable Choices",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life-Cycle%20Analysis%20and%20Sustainable%20Choices%20grade%2010%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2s8wqa_lvoQ",
         "quiz": [
           {
-            "q": "A life cycle assessment (LCA) ___.",
+            "q": "A Life-Cycle Assessment (LCA) evaluates a product's environmental impact ___.",
             "options": [
-              "only considers manufacturing cost",
-              "only measures CO₂",
-              "examines a product's whole-life impact",
-              "evaluates only the end-of-life disposal"
+              "only during the manufacturing stage",
+              "only at the point of disposal",
+              "across its entire life span — from raw materials to disposal",
+              "based solely on its purchase price"
             ],
             "answer": 2
           },
           {
-            "q": "Greenwashing refers to ___.",
+            "q": "The stages of an LCA generally include goal & scope, inventory analysis, ___, and interpretation.",
             "options": [
-              "misleading green claims, no real change",
-              "genuine environmental improvement",
-              "reducing a company's carbon footprint",
-              "government environmental regulation"
+              "marketing analysis",
+              "impact assessment",
+              "profit forecasting",
+              "warranty review"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When comparing two similar products using an LCA, a lower overall environmental impact might come from ___.",
+            "options": [
+              "fewer raw materials, less energy use, or more efficient transport",
+              "a lower price tag",
+              "more attractive packaging",
+              "a longer warranty period"
             ],
             "answer": 0
           },
           {
-            "q": "When evaluating an environmental policy proposal, you should consider ___.",
+            "q": "Transportation distance and method (truck, rail, ship) matter in an LCA because ___.",
             "options": [
-              "effectiveness, cost, and equity",
-              "only public opinion",
-              "only environmental benefits",
-              "only economic costs"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The precautionary principle in environmental decisions means ___.",
-            "options": [
-              "industry self-regulation is sufficient",
-              "regulation is always wrong",
-              "wait for 100% certainty before acting",
-              "act on potential harm before certainty"
+              "they have no bearing on environmental impact",
+              "they only affect delivery time",
+              "they are excluded from all LCAs",
+              "they contribute to a product's overall carbon footprint"
             ],
             "answer": 3
           },
           {
-            "q": "Effective environmental citizenship includes ___.",
+            "q": "Applying life-cycle thinking to everyday purchases helps consumers ___.",
             "options": [
-              "only personal recycling",
-              "only political activism",
-              "ignoring environmental issues",
-              "personal, political, and local action"
+              "ignore where products come from",
+              "make more evidence-based, sustainable choices",
+              "rely only on marketing claims",
+              "avoid comparing similar products"
             ],
-            "answer": 3
+            "answer": 1
           }
         ]
       },
@@ -7755,7 +7755,7 @@
         "summary": "Grade 10 Biology strand: cellular respiration and photosynthesis are complementary processes -- photosynthesis captures and stores energy from sunlight, while cellular respiration releases that stored energy for cells to use.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
-        "videoUrl": "https://www.youtube.com/watch?v=eJ9Zjc-jdys",
+        "videoUrl": "https://www.youtube.com/watch?v=xmfhKbmQhq0",
         "quiz": [
           {
             "q": "Photosynthesis captures and stores energy from ___.",
@@ -7815,6 +7815,7 @@
         "summary": "Grade 10 History strand: the Meech Lake Accord and Charlottetown Accord were failed attempts in the late 1980s and early 1990s to amend Canada’s constitution and address Quebec’s status within Confederation.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=CeUzX_fFZw8",
         "quiz": [
           {
             "q": "The Meech Lake Accord and Charlottetown Accord were attempts to ___.",

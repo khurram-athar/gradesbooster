@@ -45,8 +45,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:2, label:"Day 2 — Tue", subjects:[
   {subject:"English", title:"Independent Study: The Novel — Form and Meaning", summary:"Students read a major novel independently, analysing how formal choices (narration, structure, style) create meaning rather than just content.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
+   resourceLabel:"English Nerd: How to Do Literary Analysis", resourceUrl:"https://www.youtube.com/watch?v=dI34pqtNRHA",
+   videoUrl:"https://www.youtube.com/watch?v=dI34pqtNRHA",
    quiz:[
      {q:"The distinction between story (fabula) and discourse (sjuzhet) means ___.", options:["only the plot matters","discourse is less important than story","story is raw events; discourse is how they're told","they are the same in all novels"], answer:2},
      {q:"Free indirect discourse (FID) in a novel allows ___.", options:["only third-person narrators to speak","only interior monologue in first person","a narrator to render thoughts without explicit tags","only direct quotation of characters"], answer:2},
@@ -87,8 +87,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:3, label:"Day 3 — Wed", subjects:[
   {subject:"English", title:"Literature: The Tragic Form Across Cultures", summary:"Students compare the tragic form in different cultural traditions — Greek tragedy, Shakespearean tragedy, and contemporary tragic narratives — examining what 'tragedy' means across time and culture.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=I5KZcdAmWLw",
+   resourceLabel:"CrashCourse Theater: Tragedy Lessons from Aristotle", resourceUrl:"https://www.youtube.com/watch?v=nGlQkaoIfBI",
+   videoUrl:"https://www.youtube.com/watch?v=nGlQkaoIfBI",
    quiz:[
      {q:"Greek tragedy (Sophocles, Euripides) differs from Shakespearean tragedy in ___.", options:["they are identical in form","Greek tragedy has no hero","Shakespeare's tragedies have no tragic flaws","Greek tragedy uses a chorus and unities"], answer:3},
      {q:"The concept of catharsis (Aristotle) means ___.", options:["the audience's purging of pity and fear","the villain's punishment","the protagonist's recognition of their error","the hero's physical death"], answer:0},
@@ -339,8 +339,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:9, label:"Day 9 — Thu", subjects:[
   {subject:"English", title:"Independent Reading: Postmodern Literature", summary:"Students read a postmodern novel or short fiction collection, examining metafiction, fragmentation, unreliable narration, and postmodern challenges to stable meaning.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=7ECv-j2McbQ",
+   resourceLabel:"Sarath Krishnan: The Labyrinth of Language — Postmodernism Explained", resourceUrl:"https://www.youtube.com/watch?v=Pw7RBKcSUrc",
+   videoUrl:"https://www.youtube.com/watch?v=Pw7RBKcSUrc",
    quiz:[
      {q:"Postmodern literature challenges ___.", options:["all previous narrative techniques without exception","the concepts of stable, knowable truth and coherent identity","only the use of irony","the idea that literature can accurately represent reality"], answer:1},
      {q:"Metafiction is ___.", options:["only experimental prose poetry","fiction about real events presented as fiction","only found in postmodern novels","fiction aware of its own artifice"], answer:3},
@@ -381,8 +381,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:10, label:"Day 10 — Fri", subjects:[
   {subject:"English", title:"Literature: Comparative Canadian and World Literature", summary:"Students compare Canadian literature with a world text, analysing how place, history, and culture shape literary form and theme.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=nJNdZGF6Xvo",
+   resourceLabel:"Harvard Online: The Birth of World Literature", resourceUrl:"https://www.youtube.com/watch?v=eOxP0ZZMrmk",
+   videoUrl:"https://www.youtube.com/watch?v=eOxP0ZZMrmk",
    quiz:[
      {q:"Comparative literature across cultures reveals ___.", options:["that all literature is the same beneath cultural differences","only surface-level differences","only surface-level similarities","shared themes, told in different ways"], answer:3},
      {q:"Canadian literature is shaped by ___.", options:["only the landscape","only Quebec-English tensions","geography, history, and immigration","only multiculturalism"], answer:2},
@@ -391,8 +391,8 @@ const curriculum: DayContent[] = [
      {q:"The value of global and comparative literature for Canadian students is ___.", options:["no connection to Canadian identity","only preparation for international travel","it places Canada in a global conversation","only useful for English majors"], answer:2}
    ]},
   {subject:"AdvancedFunctions", title:"Proof and Mathematical Reasoning", summary:"Students examine mathematical proof — direct proof, proof by contradiction, and mathematical induction — developing the formal reasoning skills required for university mathematics.",
-   resourceLabel:"Khan Academy: Mathematical Induction", resourceUrl:"https://www.youtube.com/watch?v=wblW_M_HVQ8",
-   videoUrl:"https://www.youtube.com/watch?v=SgtOzuADxK8",
+   resourceLabel:"Organic Chemistry Tutor: Mathematical Induction Practice Problems", resourceUrl:"https://www.youtube.com/watch?v=tHNVX3e9zd0",
+   videoUrl:"https://www.youtube.com/watch?v=tHNVX3e9zd0",
    quiz:[
      {q:"A direct proof establishes a theorem by ___.", options:["deriving the theorem from known axioms","finding a counterexample","showing the opposite leads to a contradiction","testing many specific cases"], answer:0},
      {q:"Proof by contradiction assumes ___.", options:["only that algebra is valid","the theorem is sometimes false","the opposite, seeking a contradiction","the theorem is trivially true"], answer:2},
@@ -443,8 +443,8 @@ const curriculum: DayContent[] = [
      {q:"A student who has mastered Advanced Functions can ___.", options:["not extend to calculus","only work in pure mathematics","identify a function's type and features","only solve the types of problems they've seen before"], answer:2}
    ]},
   {subject:"Calculus", title:"Calculus of Exponential and Logarithmic Functions", summary:"Students differentiate and integrate e^(ax), ln(x), and related functions, and apply these to growth/decay problems.",
-   resourceLabel:"Khan Academy: Derivatives of Exponential Functions", resourceUrl:"https://www.youtube.com/watch?v=MKQR_acrFOA",
-   videoUrl:"https://www.youtube.com/watch?v=nqpn0SQB5ds",
+   resourceLabel:"Organic Chemistry Tutor: Derivatives of Exponential Functions & Logarithmic Differentiation", resourceUrl:"https://www.youtube.com/watch?v=zmnh448y_ZU",
+   videoUrl:"https://www.youtube.com/watch?v=zmnh448y_ZU",
    quiz:[
      {q:"d/dx[e^(ax)] = ___.", options:["e^(ax)/a","a × e^(ax) — chain rule","ae^x","e^(ax)"], answer:1},
      {q:"d/dx[ln(ax)] = ___.", options:["ln(a)/x","a × ln(x)","1/x — ln(a) is a constant","a/x"], answer:2},
@@ -495,8 +495,8 @@ const curriculum: DayContent[] = [
      {q:"The population equation dP/dt = kP(M − P)/M (logistic) is solved by ___.", options:["the power rule only","separation of variables","only numerical methods","direct integration"], answer:1}
    ]},
   {subject:"Physics", title:"Physics Year-End: Connections and Applications", summary:"Students synthesise all Grade 12 Physics — mechanics, fields, waves, modern physics — and examine how physical principles interconnect.",
-   resourceLabel:"Crash Course Physics: Year Review", resourceUrl:"https://www.youtube.com/watch?v=kUDhL6C9Lao",
-   videoUrl:"https://www.youtube.com/watch?v=cKV56eMTRbk",
+   resourceLabel:"Klonusk: All Fundamental Forces and Particles Explained", resourceUrl:"https://www.youtube.com/watch?v=-L5OQp2J46g",
+   videoUrl:"https://www.youtube.com/watch?v=-L5OQp2J46g",
    quiz:[
      {q:"The four fundamental forces of nature are ___.", options:["gravity, EM, and the nuclear forces","gravity, electricity, magnetism, nuclear","friction, normal force, gravity, tension","gravity, magnetism, heat, and nuclear"], answer:0},
      {q:"Conservation laws in physics (energy, momentum, angular momentum, charge) are ___.", options:["less fundamental than Newton's Laws","only valid in isolated systems (no external forces/energy inputs)","only valid in classical physics","approximate — they can be violated in extreme conditions"], answer:1},
@@ -507,8 +507,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"English", title:"Independent Reading Synthesis: Personal Reading List", summary:"Students develop a personal reading list beyond the curriculum, demonstrating wide reading, independent literary judgment, and lifelong reading habits.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=S928_8W7JuA",
+   resourceLabel:"Robin Waldun: Analytical Reading 101", resourceUrl:"https://www.youtube.com/watch?v=Ls2ynrMv10A",
+   videoUrl:"https://www.youtube.com/watch?v=Ls2ynrMv10A",
    quiz:[
      {q:"Building a personal reading list involves ___.", options:["following only the curriculum","only choosing bestsellers","reading only within one genre","exploring across genres and cultures"], answer:3},
      {q:"Keeping a reading journal develops ___.", options:["only for readers who become English teachers","no transferable skills","only a record of books completed","the habit of attending carefully to what you read"], answer:3},
@@ -591,8 +591,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"English", title:"Grade 12 English: Exam and Celebration", summary:"A final celebration of Grade 12 English — reflecting on the year's literary journey and looking ahead to university and lifelong reading.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/c/TEDEd",
-   videoUrl:"https://www.youtube.com/watch?v=sRkOWvR8mNA",
+   resourceLabel:"Ms. Peer Editor: Timed Essay Strategies", resourceUrl:"https://www.youtube.com/watch?v=ga-ONwAX9cg",
+   videoUrl:"https://www.youtube.com/watch?v=ga-ONwAX9cg",
    quiz:[
      {q:"Grade 12 English culminates in ___.", options:["the end of reading and writing as serious pursuits","only exam preparation","completed study of English","a genuine transformation"], answer:3},
      {q:"The connection between literature and university study is ___.", options:["literary study skills transfer broadly","literature is only relevant in humanities programs","literature is not studied at university","no connection"], answer:0},
@@ -601,8 +601,8 @@ const curriculum: DayContent[] = [
      {q:"English, as a discipline and a practice, is ___.", options:["only about grammar and spelling","a set of skills you've now mastered and completed","only about fiction and poetry","a lifelong pursuit"], answer:3}
    ]},
   {subject:"AdvancedFunctions", title:"Looking Back, Looking Forward", summary:"Students reflect on their mathematical development across MHF4U and its connection to university mathematics.",
-   resourceLabel:"Khan Academy: Looking Ahead to Calculus", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
-   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
+   resourceLabel:"BriTheMathGuy: What I Wish I Knew Before Becoming A Math Major", resourceUrl:"https://www.youtube.com/watch?v=wk28BSaLszo",
+   videoUrl:"https://www.youtube.com/watch?v=wk28BSaLszo",
    quiz:[
      {q:"Advanced Functions has prepared you for university mathematics by ___.", options:["only for students in STEM programs","teaching you all the mathematics you will ever need","developing fluency in function analysis","being equivalent to first-year university calculus"], answer:2},
      {q:"The most transferable mathematical skill from Grade 12 is ___.", options:["reasoning and rigorous argument","memorising all formulas","only knowing specific function types","computing derivatives (which you haven't done in this course)"], answer:0},
@@ -621,8 +621,8 @@ const curriculum: DayContent[] = [
      {q:"Completing Grade 12 Calculus means ___.", options:["you have mastered all of calculus","ready for university-level calculus","university calculus will be completely familiar","calculus is now closed to you"], answer:1}
    ]},
   {subject:"Physics", title:"Physics: A Final Reflection", summary:"Students reflect on their learning in Grade 12 Physics and the role of physics in understanding the universe.",
-   resourceLabel:"Crash Course Physics: Reflecting on Physics", resourceUrl:"https://www.youtube.com/watch?v=kKKM8Y-u7ds",
-   videoUrl:"https://www.youtube.com/watch?v=yscrBkfPRyc",
+   resourceLabel:"Parth G: 3 Reasons Why YOU Should Study PHYSICS", resourceUrl:"https://www.youtube.com/watch?v=MhZXHA4BWgk",
+   videoUrl:"https://www.youtube.com/watch?v=MhZXHA4BWgk",
    quiz:[
      {q:"Physics is the most fundamental science because ___.", options:["it underlies all other sciences","it is the oldest science","it is the most difficult","only physicists understand it"], answer:0},
      {q:"The history of physics shows ___.", options:["a series of revolutionary conceptual shifts","major changes in understanding are no longer possible","only a gradual accumulation of facts","physics is a complete and finished discipline"], answer:0},
@@ -633,8 +633,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:16, label:"Day 16 — Mon", subjects:[
   {subject:"English", title:"Postcolonial Literature: Writing Back to Empire", summary:"Students examine postcolonial theory and its application to literary texts — how writers from formerly colonised nations rewrite colonial narratives.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=G15p7uOc-aA",
-   videoUrl:"https://www.youtube.com/watch?v=wgIp1wjkEA8",
+   resourceLabel:"Sarath Krishnan: Writing Back in Postcolonialism", resourceUrl:"https://www.youtube.com/watch?v=cPXxQKc0OoQ",
+   videoUrl:"https://www.youtube.com/watch?v=cPXxQKc0OoQ",
    quiz:[
      {q:"The term 'writing back' (Ashcroft et al.) refers to ___.", options:["only protest poetry","authors responding to publisher rejections","rewriting colonial canonical texts","only African literature"], answer:2},
      {q:"Chinua Achebe's critique of Conrad's Heart of Darkness argues ___.", options:["Conrad makes Africa a mere backdrop","the novel is flawless","the novel is primarily about navigation","Conrad was not a racist"], answer:0},
@@ -811,8 +811,8 @@ const curriculum: DayContent[] = [
      {q:"Academic integrity in a research essay means ___.", options:["only quoting correctly","citing sources and original synthesis","only avoiding copy-paste","only citing sources you agree with"], answer:1}
    ]},
   {subject:"AdvancedFunctions", title:"Geometric Vectors: Applications to Physics and Engineering", summary:"Students apply 3D vector concepts to displacement, velocity, force equilibrium, and work problems.",
-   resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=ozwodzD5bte",
-   videoUrl:"https://www.youtube.com/watch?v=1mNd2wLC_0c",
+   resourceLabel:"Organic Chemistry Tutor: How To Find The Resultant of Two Vectors", resourceUrl:"https://www.youtube.com/watch?v=RxV06Oj5sMc",
+   videoUrl:"https://www.youtube.com/watch?v=RxV06Oj5sMc",
    quiz:[
      {q:"Resolving a force into components in 3D uses ___.", options:["trigonometry only","F = Fₓi + F_yj + F_zk","only the magnitude of the force","the dot product alone"], answer:1},
      {q:"For three forces to be in equilibrium, their vector sum must be ___.", options:["zero: F₁ + F₂ + F₃ = 0","equal to the largest force","non-zero","pointing downward"], answer:0},
@@ -843,8 +843,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:21, label:"Day 21 — Mon", subjects:[
   {subject:"English", title:"The Novel as Social Document: Realism and Its Discontents", summary:"Students examine realist novels and their sociological dimension — how fiction can document social reality while remaining art.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=qGHBcRcPQeI",
-   videoUrl:"https://www.youtube.com/watch?v=F3raAcK18cQ",
+   resourceLabel:"Tristan and the Classics: The 7 Core Aspects of Realist Literature", resourceUrl:"https://www.youtube.com/watch?v=qP7KQhrVtBc",
+   videoUrl:"https://www.youtube.com/watch?v=qP7KQhrVtBc",
    quiz:[
      {q:"Nineteenth-century realism in the novel aimed to ___.", options:["represent society as it actually is","create pure fantasy worlds","avoid representing working-class life","focus only on aristocratic characters"], answer:0},
      {q:"The sociological reading of a novel examines ___.", options:["only the author's biography","only plot and character","how the novel reflects its social era","only style and form"], answer:2},
@@ -885,8 +885,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"English", title:"Short Fiction Masterworks: Structure, Voice, and Compression", summary:"Students study canonical short stories, examining how compressed form demands particular mastery of voice, structure, epiphany, and economy of language.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=dtRCMONW8bQ",
-   videoUrl:"https://www.youtube.com/watch?v=WLF7_uaPu0w",
+   resourceLabel:"TED-Ed: How to Make Your Writing Suspenseful", resourceUrl:"https://www.youtube.com/watch?v=xjKruwAfZWk",
+   videoUrl:"https://www.youtube.com/watch?v=xjKruwAfZWk",
    quiz:[
      {q:"The short story differs from the novel in that ___.", options:["it demands absolute economy","it is always easier to write","it can never achieve the depth of a novel","it has no character development"], answer:0},
      {q:"The 'epiphany' in Joyce's short fiction (from 'Dubliners') refers to ___.", options:["a moment of sudden insight or revelation","a surprise plot twist","a religious experience only","the story's happy ending"], answer:0},
@@ -927,8 +927,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
   {subject:"English", title:"Documentary and Non-Fiction: Truth, Form, and Ethics", summary:"Students examine documentary film and literary non-fiction (creative non-fiction, journalism) — exploring how non-fiction makes arguments and ethical obligations to truth.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=2HqT7QbVCnc",
-   videoUrl:"https://www.youtube.com/watch?v=rrpSpUil39U",
+   resourceLabel:"Early Light Media: Documentary Ethics — The Essential Truth Trap", resourceUrl:"https://www.youtube.com/watch?v=MmDTt36FSWs",
+   videoUrl:"https://www.youtube.com/watch?v=MmDTt36FSWs",
    quiz:[
      {q:"Documentary film differs from fiction film in that ___.", options:["documentary has no narrative structure","documentary is always objective","documentary claims a relationship to actual events and people","documentary uses no cinematic technique"], answer:2},
      {q:"Rhetorical strategies in documentary include ___.", options:["only verbal argument","footage order, music, and narration","only factual presentation","no rhetorical strategies"], answer:1},
@@ -969,8 +969,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Contemporary Drama: Stagecraft and Text", summary:"Students examine a contemporary play, analysing the relationship between the written text and its realisation in performance.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=W3MJj5AjAMc",
-   videoUrl:"https://www.youtube.com/watch?v=tVChDzCvvko",
+   resourceLabel:"Artists Behind the Art: How Do Contemporary Playwrights Use the Fourth Wall?", resourceUrl:"https://www.youtube.com/watch?v=DVhl4NO96Ms",
+   videoUrl:"https://www.youtube.com/watch?v=DVhl4NO96Ms",
    quiz:[
      {q:"A play script is ___.", options:["always the same in any production","less important than the director's vision","the complete work of art in itself","a blueprint for performance"], answer:3},
      {q:"Stage directions in a contemporary play ___.", options:["are always followed literally","may be poetic, ambiguous, or minimal","tell audiences what to think","are always ignored by directors"], answer:1},
@@ -979,8 +979,8 @@ const curriculum: DayContent[] = [
      {q:"The most important question when analysing a scene in a contemporary play is ___.", options:["what happens in the plot","what each character wants in the scene","how many characters appear","what time period is the play set in"], answer:1}
    ]},
   {subject:"AdvancedFunctions", title:"Probability Distributions: Binomial and Geometric", summary:"Students work with discrete probability distributions — binomial and geometric — applying formulas and interpreting results.",
-   resourceLabel:"Khan Academy", resourceUrl:"https://www.youtube.com/watch?v=J8jNoF-K8Z8",
-   videoUrl:"https://www.youtube.com/watch?v=94AmzeR9n2w",
+   resourceLabel:"jbstatistics: Overview of Discrete Probability Distributions", resourceUrl:"https://www.youtube.com/watch?v=UrOXRvG9oYE",
+   videoUrl:"https://www.youtube.com/watch?v=UrOXRvG9oYE",
    quiz:[
      {q:"The binomial distribution applies when ___.", options:["only one trial is performed","probability changes each trial","n trials, constant probability p","trials have more than two outcomes"], answer:2},
      {q:"P(X=k) for a binomial distribution is ___.", options:["C(n,k) × pᵏ × (1−p)^n","C(n,k) × pᵏ × (1−p)^(n−k)","p^k × (1-p)^(n-k)","n × p × k"], answer:1},
@@ -1041,8 +1041,8 @@ const curriculum: DayContent[] = [
      {q:"For a circle of radius r (parametrically x=rcosθ, y=rsinθ), the arc length (circumference) formula gives ___.", options:["2πr² (this is area)","πr","πr²","2πr"], answer:3}
    ]},
   {subject:"Physics", title:"Medical and Applied Physics", summary:"Students see how physics principles apply to medicine — X-rays, MRI, PET scans, ultrasound, and radiation therapy.",
-   resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=cMJpFjmJZ9s",
-   videoUrl:"https://www.youtube.com/watch?v=i_CijGuk7fw",
+   resourceLabel:"Khan Academy Medicine: Ultrasound Medical Imaging", resourceUrl:"https://www.youtube.com/watch?v=sTcqtljxLOk",
+   videoUrl:"https://www.youtube.com/watch?v=sTcqtljxLOk",
    quiz:[
      {q:"X-rays penetrate soft tissue but are absorbed by bone because ___.", options:["X-rays cannot travel through any material","X-rays are repelled by calcium","bone is harder than soft tissue","bone is denser and absorbs X-rays more"], answer:3},
      {q:"MRI (Magnetic Resonance Imaging) uses ___.", options:["radioactive tracers","X-rays with computer processing","the magnetism of hydrogen protons","ultrasound at very high frequencies"], answer:2},
@@ -1137,8 +1137,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:28, label:"Day 28 — Wed", subjects:[
   {subject:"English", title:"Culminating Essay: Writing Under Examination Conditions", summary:"Students practise writing a full analytical essay under timed conditions, applying all skills developed throughout the year.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=kLJE8IYIQEM",
-   videoUrl:"https://www.youtube.com/watch?v=kW3NBBZQMi0",
+   resourceLabel:"Thomas Frank: 5 Rules for Answering Essay Questions on Exams", resourceUrl:"https://www.youtube.com/watch?v=jeht_P2GBwI",
+   videoUrl:"https://www.youtube.com/watch?v=jeht_P2GBwI",
    quiz:[
      {q:"The most important 5 minutes of a timed literary essay are ___.", options:["the first 5 minutes of planning","the conclusion","the middle of the essay","the last 5 minutes of writing"], answer:0},
      {q:"In a timed essay, the most common weakness is ___.", options:["insufficient analytical development","writing too slowly","knowing the text too well","writing in too formal a register"], answer:0},
@@ -1157,8 +1157,8 @@ const curriculum: DayContent[] = [
      {q:"Part 5: Prove by induction that ∑(k=1 to n) k³ = [n(n+1)/2]².", options:["Requires calculus, not induction","Formula is incorrect","True for n=1; induction confirms it","Not provable by induction"], answer:2}
    ]},
   {subject:"Calculus", title:"Calculus: Culminating Task", summary:"Students complete a culminating task integrating limits, derivatives, and integrals.",
-   resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=9vgCMNHPScU",
-   videoUrl:"https://www.youtube.com/watch?v=sIQgEVKL3_4",
+   resourceLabel:"Brain Station Advanced: Optimization Problem in Calculus", resourceUrl:"https://www.youtube.com/watch?v=QKT65uQgtBI",
+   videoUrl:"https://www.youtube.com/watch?v=QKT65uQgtBI",
    quiz:[
      {q:"Part 1: lim(x→0) (e^x − 1 − x)/x².", options:["the limit is 0","L'Hôpital once: e^x − 1","the limit is 1","L'Hôpital twice: limit = 1/2"], answer:3},
      {q:"Part 2: Differentiate f(x) = arctan(√x) and find f'(1).", options:["f'(1) = 1/4 via chain rule","f'(x) = 1/(1+x) × 1/(2√x) = 1/(2√x(1+x)); f'(1) = 1/(2×1×2) = 1/4","f'(x) = 1/(2√x)","f'(1) = 1/2"], answer:0},
@@ -1199,8 +1199,8 @@ const curriculum: DayContent[] = [
      {q:"Looking back on Grade 12 mathematics, the most valuable habit of mind developed is ___.", options:["test-taking strategy","speed at calculation","mathematical curiosity","memorisation of formulas"], answer:2}
    ]},
   {subject:"Calculus", title:"Calculus: Final Reflection and University Preparation", summary:"Students reflect on Calculus learning and prepare for university calculus courses.",
-   resourceLabel:"Khan Academy Calculus", resourceUrl:"https://www.youtube.com/watch?v=riXcZT2ICjA",
-   videoUrl:"https://www.youtube.com/watch?v=Fv1K2IVd1pE",
+   resourceLabel:"Dr Ji Tutoring: 5 Concepts You Must Know Before Taking Calculus", resourceUrl:"https://www.youtube.com/watch?v=AKmuk0OM-DM",
+   videoUrl:"https://www.youtube.com/watch?v=AKmuk0OM-DM",
    quiz:[
      {q:"The two most important ideas in Calculus are ___.", options:["the product rule and chain rule","derivatives and integrals as separate topics","the derivative and integral (inverses)","limits and power rule"], answer:2},
      {q:"University calculus (Calculus I, II) will build on your Grade 12 learning by ___.", options:["not requiring any Grade 12 preparation","being much easier","adding multivariable calc and series","starting completely from scratch"], answer:2},
@@ -1209,8 +1209,8 @@ const curriculum: DayContent[] = [
      {q:"The experience of Grade 12 Calculus ___.", options:["shows mathematics is only about computation","shows that advanced mathematics is inaccessible to most people","is sufficient for all future mathematics needs","shows persistence unlocks deep ideas"], answer:3}
    ]},
   {subject:"Physics", title:"Physics: Final Reflection and Looking to University", summary:"Students reflect on their Grade 12 Physics learning and its connections to university physics and modern life.",
-   resourceLabel:"Crash Course Physics", resourceUrl:"https://www.youtube.com/watch?v=aY8z2qO44WA",
-   videoUrl:"https://www.youtube.com/watch?v=yscrBkfPRyc",
+   resourceLabel:"Parth G: 3 Reasons Why YOU Should Study PHYSICS", resourceUrl:"https://www.youtube.com/watch?v=MhZXHA4BWgk",
+   videoUrl:"https://www.youtube.com/watch?v=MhZXHA4BWgk",
    quiz:[
      {q:"The most important conceptual development in Grade 12 Physics is ___.", options:["understanding the SI unit system","moving from Newtonian to quantum ideas","learning to use complex formulas","knowing all fundamental constants"], answer:1},
      {q:"University physics (mechanics, E&M, waves/optics, modern physics) builds on Grade 12 by ___.", options:["deepening and mathematising every concept","repeating the same material","being completely different in content","being much easier"], answer:0},
@@ -1221,8 +1221,8 @@ const curriculum: DayContent[] = [
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"English", title:"Grade 12 Celebration: A Year of Growth", summary:"A final day celebrating the intellectual journey of Grade 12 — reflecting on growth, looking ahead to university and life, and recognising what has been accomplished.",
-   resourceLabel:"TED-Ed: Literature", resourceUrl:"https://www.youtube.com/watch?v=jTDkTt1UTXM",
-   videoUrl:"https://www.youtube.com/watch?v=jTDkTt1UTXM",
+   resourceLabel:"TED-Ed: How Fiction Can Change Reality", resourceUrl:"https://www.youtube.com/watch?v=ctaPAm14L10",
+   videoUrl:"https://www.youtube.com/watch?v=ctaPAm14L10",
    quiz:[
      {q:"The most important thing accomplished in Grade 12 is ___.", options:["only university preparation","only skill development","genuine intellectual growth","a high grade average"], answer:2},
      {q:"University marks a transition from ___.", options:["high school content to harder content","guided learning to independent intellectual life","being assessed to never being assessed again","one set of rules to another set of rules"], answer:1},
@@ -1251,8 +1251,8 @@ const curriculum: DayContent[] = [
      {q:"Looking ahead, the ideas of limits, derivatives, and integrals learned this year will ___.", options:["Resurface, deepened, throughout further mathematics and science study","Be replaced entirely by new methods at university","Have no connection to first-year university courses","Only matter for students continuing in pure mathematics"], answer:0}
    ]},
   {subject:"Physics", title:"Grade 12 Physics: Final Day", summary:"Students celebrate completing Grade 12 Physics and look ahead to university and the world of physics.",
-   resourceLabel:"Crash Course Physics: Celebration", resourceUrl:"https://www.youtube.com/watch?v=pGj9isFr21U",
-   videoUrl:"https://www.youtube.com/watch?v=pGj9isFr21U",
+   resourceLabel:"Domain of Science: The Map of Physics", resourceUrl:"https://www.youtube.com/watch?v=ZihywtixUYo",
+   videoUrl:"https://www.youtube.com/watch?v=ZihywtixUYo",
    quiz:[
      {q:"Grade 12 Physics has given you ___.", options:["only a foundation for university physics","a way of seeing the world","only laboratory skills","only a set of formulas to memorise"], answer:1},
      {q:"The greatest physicists (Newton, Faraday, Maxwell, Einstein, Bohr, Feynman) were unified by ___.", options:["only mathematical genius","deep curiosity about how the world works","only experimental skill","only theoretical creativity"], answer:1},

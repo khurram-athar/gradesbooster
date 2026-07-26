@@ -1264,7 +1264,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Archetypes in Literature", summary:"Grade 9 Reading strand: an archetype is a recurring character type, symbol, or pattern found across many stories and cultures, such as the hero, the mentor, or the journey.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
-   videoUrl:"https://www.youtube.com/watch?v=7_0Qt2iEN_E",
+   videoUrl:"https://www.youtube.com/watch?v=dvYM4GIbYKg",
    quiz:[
      {q:"An archetype is best described as ___.", options:["A grammar rule","A recurring character type or pattern found across many stories","A completely unique element found in only one story ever written","A type of punctuation mark"], answer:1},
      {q:"Which is an example of a common literary archetype?", options:["The hero","A random unrelated number","A specific character’s exact birthday","A single unrelated punctuation mark"], answer:0},
@@ -1284,7 +1284,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Mole Concept and Molar Mass", summary:"Grade 9 Science Chemistry strand: a mole is a unit used to count extremely large numbers of particles, such as atoms or molecules, and molar mass relates the mass of a substance to the number of moles present.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
-   videoUrl:"https://www.youtube.com/watch?v=fwUHO7RyYcc",
+   videoUrl:"https://www.youtube.com/watch?v=74-X94OP2XI",
    quiz:[
      {q:"A mole is a unit used to ___.", options:["Count extremely large numbers of particles, like atoms or molecules","Measure the volume of a solid object","Measure temperature","Count the number of chemical elements only"], answer:0},
      {q:"Molar mass relates ___.", options:["The mass of a substance to the number of moles present","A substance’s mass to its exact age","Only the colour of a substance","The temperature of a substance to its volume"], answer:0},

@@ -1306,7 +1306,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Comparative and Superlative Adjectives", summary:"Ontario Grade 4 Writing strand: comparative adjectives (bigger, faster) compare two things, while superlative adjectives (biggest, fastest) compare three or more things, often adding -er or -est.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
-   videoUrl:"https://www.youtube.com/watch?v=hI7x3uXh4pA",
+   videoUrl:"https://www.youtube.com/watch?v=jz8Fy5qQXu8",
    quiz:[
      {q:"Which is the comparative form of tall?", options:["Tallest","Tallness","Taller","Tall"], answer:2},
      {q:"Which is the superlative form of fast?", options:["Faster","Fastest","Fast","Fastly"], answer:1},

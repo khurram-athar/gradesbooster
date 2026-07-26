@@ -1336,7 +1336,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Regions of Canada: The Prairies", summary:"Ontario Grade 3 Social Studies People and Environments strand: the Prairies are a large, flat region in central Canada known for rich farmland, wheat and canola fields, and wide-open grasslands.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
-   videoUrl:"https://www.youtube.com/watch?v=MemTUkuOvHE",
+   videoUrl:"https://www.youtube.com/watch?v=qEfTlvn32so",
    quiz:[
      {q:"The Prairie region is known for being ___.", options:["Made mostly of islands","Covered in rainforest","Flat, with rich farmland","Mountainous and rocky"], answer:2},
      {q:"Which crops are commonly grown on the Prairies?", options:["Wheat and canola","Coconuts and bananas","Coffee beans","Pineapples"], answer:0},

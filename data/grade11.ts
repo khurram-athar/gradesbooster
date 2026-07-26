@@ -508,7 +508,7 @@ const curriculum: DayContent[] = [
 {day:13, label:"Day 13 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Global Literature", summary:"Students read a novel from outside Canada and the Anglo-American tradition, examining universal themes and culturally specific contexts.",
    resourceLabel:"YouTube: Independent Reading: Global Literature", resourceUrl:"https://www.youtube.com/results?search_query=Independent%20Reading%3A%20Global%20Literature%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=q6Szq9yHB3w",
+   videoUrl:"https://www.youtube.com/watch?v=QkqDSYJ71tc",
    quiz:[
      {q:"Reading world literature in translation exposes students to ___.", options:["only historical texts","simpler stories than English literature","fiction unworthy of serious study","different narrative traditions"], answer:3},
      {q:"Magical realism (e.g., Gabriel García Márquez, Salman Rushdie) is characterised by ___.", options:["only South American fiction","purely realistic narrative","supernatural events treated as mundane","fantasy with no real-world connection"], answer:2},
@@ -550,7 +550,7 @@ const curriculum: DayContent[] = [
 {day:14, label:"Day 14 — Thu", subjects:[
   {subject:"English", title:"Oral Communication: Seminar Leadership and Discussion Facilitation", summary:"Students lead a Socratic seminar on a literary or social topic, developing advanced oral communication, questioning, and facilitation skills.",
    resourceLabel:"YouTube: Oral Communication: Seminar Leadership and Discussion Facilitation", resourceUrl:"https://www.youtube.com/results?search_query=Oral%20Communication%3A%20Seminar%20Leadership%20and%20Discussion%20Facilitation%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=759ltCNvZNM",
+   videoUrl:"https://www.youtube.com/watch?v=aYGgIeYqX60",
    quiz:[
      {q:"A Socratic seminar differs from a debate in that ___.", options:["formal preparation is not required","only one person speaks in a Socratic seminar","the goal is collaborative inquiry","winning is the goal"], answer:2},
      {q:"An effective discussion facilitator ___.", options:["avoids asking challenging questions","asks open questions, listens actively","only asks questions to people who want to talk","always shares their own opinion first"], answer:1},
@@ -592,7 +592,7 @@ const curriculum: DayContent[] = [
 {day:15, label:"Day 15 — Fri", subjects:[
   {subject:"English", title:"English: Year in Review and Looking Ahead to Grade 12", summary:"Students reflect on their growth as readers, writers, and thinkers in Grade 11 and set meaningful goals for Grade 12 and beyond.",
    resourceLabel:"YouTube: English: Year in Review and Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=English%3A%20Year%20in%20Review%20and%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=95TiN8t_w3c",
+   videoUrl:"https://www.youtube.com/watch?v=olgDaGLZXx8",
    quiz:[
      {q:"The most significant shift in Grade 11 English from Grade 10 is ___.", options:["greater intellectual independence","less reading overall","only longer essays required","simpler vocabulary required"], answer:0},
      {q:"Sophisticated literary analysis at the Grade 11 level involves ___.", options:["memorising established interpretations","avoiding controversial interpretations","forming original interpretations","paraphrasing the text in detail"], answer:2},
@@ -802,7 +802,7 @@ const curriculum: DayContent[] = [
 {day:20, label:"Day 20 — Fri", subjects:[
   {subject:"English", title:"Research: Seminar Preparation and Independent Research", summary:"Students design and conduct an independent research inquiry on a literary or cultural topic, preparing to lead or contribute to a formal seminar.",
    resourceLabel:"YouTube: Research: Seminar Preparation and Independent Research", resourceUrl:"https://www.youtube.com/results?search_query=Research%3A%20Seminar%20Preparation%20and%20Independent%20Research%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=pDPlFRwMc1Y",
+   videoUrl:"https://www.youtube.com/watch?v=GIV79TDKWR8",
    quiz:[
      {q:"A genuine research question is ___.", options:["one with an obvious answer","a question your teacher can answer easily","an open question needing investigation","one found in the textbook"], answer:2},
      {q:"Synthesising research means ___.", options:["summarising each source separately","copying from multiple sources into one document","combining sources into an argument","only using one source at a time"], answer:2},
@@ -832,7 +832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Environmental Chemistry: Pollution and Remediation", summary:"Students examine chemical pollutants (heavy metals, pesticides, pharmaceuticals in water, plastics), their environmental fate, and remediation strategies.",
    resourceLabel:"YouTube: Environmental Chemistry: Pollution and Remediation", resourceUrl:"https://www.youtube.com/results?search_query=Environmental%20Chemistry%3A%20Pollution%20and%20Remediation%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=A5jRLe_NFP0",
+   videoUrl:"https://www.youtube.com/watch?v=VcDjyxanOyk",
    quiz:[
      {q:"Bioaccumulation refers to ___.", options:["chemicals building up in body tissue","chemicals dissolving in soil","chemicals only affecting water","chemicals decomposing in organisms"], answer:0},
      {q:"Biomagnification is ___.", options:["the same as bioaccumulation","reduction of chemicals up the food chain","chemicals rising up the food chain","only affects top predators unconnected to bioaccumulation"], answer:2},
@@ -864,7 +864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Conservation Biology: Case Studies", summary:"Students examine conservation case studies — the recovery of specific species (wolves, whooping cranes, bison) and habitat restoration projects in Canada.",
    resourceLabel:"YouTube: Conservation Biology: Case Studies", resourceUrl:"https://www.youtube.com/results?search_query=Conservation%20Biology%3A%20Case%20Studies%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=iZrZw_VC9Ik",
+   videoUrl:"https://www.youtube.com/watch?v=ysa5OBhXz-Q",
    quiz:[
      {q:"The reintroduction of wolves to Yellowstone (1995) demonstrated ___.", options:["no significant ecological effect","an immediate improvement in predator numbers only","a trophic cascade across the ecosystem","only a reduction in prey animals"], answer:2},
      {q:"The recovery of whooping cranes in Canada is significant because ___.", options:["it was achieved without any conservation effort","from under 20 birds to about 500 today","they were never endangered","they have already fully recovered without human help"], answer:1},
@@ -886,7 +886,7 @@ const curriculum: DayContent[] = [
 {day:22, label:"Day 22 — Tue", subjects:[
   {subject:"English", title:"Media Production: Creating a Literary Magazine", summary:"Students plan, write, edit, and design a class literary magazine, integrating writing, editing, visual design, and publishing skills.",
    resourceLabel:"YouTube: Media Production: Creating a Literary Magazine", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Production%3A%20Creating%20a%20Literary%20Magazine%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=NefOesTl1iQ",
+   videoUrl:"https://www.youtube.com/watch?v=z_x8ZbsCU4c",
    quiz:[
      {q:"The editorial process in publishing involves ___.", options:["structural, copy, and proof edits","only correcting spelling","only the author working alone","one round of changes"], answer:0},
      {q:"Selecting work for a literary magazine requires ___.", options:["pieces that are all in the same style","only the highest-graded pieces","only selecting friends' work","judgment about quality and coherence"], answer:3},
@@ -896,7 +896,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Exam Preparation: Functions — Problem Solving Under Time Pressure", summary:"Students practise exam-style questions across all Grade 11 Functions topics under timed conditions.",
    resourceLabel:"YouTube: Exam Preparation: Functions — Problem Solving Under Time Pressure", resourceUrl:"https://www.youtube.com/results?search_query=Exam%20Preparation%3A%20Functions%20%E2%80%94%20Problem%20Solving%20Under%20Time%20Pressure%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=vZr0yNHbHU0",
+   videoUrl:"https://www.youtube.com/watch?v=4pmRpL_9eNY",
    quiz:[
      {q:"A function has x-intercepts at x = −3 (order 2) and x = 1 (order 1) and passes through (0, −9). Find a and the equation.", options:["y = (x+3)²(x−1)","y = 3(x+3)(x−1)","y = (x−3)²(x+1) with a test: f(0) = −9: a(3)²(−1) = −9a = −9, a = 1... wait: a(0+3)²(0−1) = a(9)(−1) = −9a = −9, a = 1. So y = (x+3)²(x−1)","y = −3(x+3)²(x−1)"], answer:0},
      {q:"Solve: log₂(x + 1) + log₂(x − 1) = 3", options:["x = 9","x = 2","x = 3","x = ±3"], answer:2},
@@ -970,7 +970,7 @@ const curriculum: DayContent[] = [
 {day:24, label:"Day 24 — Thu", subjects:[
   {subject:"English", title:"Synthesis: Literature and the Human Experience", summary:"Students reflect on what the literature they've read across Grade 11 reveals about the human experience and their own intellectual development.",
    resourceLabel:"YouTube: Synthesis: Literature and the Human Experience", resourceUrl:"https://www.youtube.com/results?search_query=Synthesis%3A%20Literature%20and%20the%20Human%20Experience%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zIYC6zG265E",
+   videoUrl:"https://www.youtube.com/watch?v=vyZMSZG2Dmk",
    quiz:[
      {q:"The literature studied in Grade 11 reveals that ___.", options:["all cultures experience life identically","literature has no relationship to life","diverse, yet with recurring concerns","human experience is simple and universal"], answer:2},
      {q:"What has changed most in your reading this year?", options:["Only your speed has increased","Your ability to tolerate and value ambiguity","Nothing — reading is always the same","Only your vocabulary has grown"], answer:1},
@@ -990,7 +990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Year-End Exam Preparation", summary:"Students review all Grade 11 Biology content — cell biology, genetics, evolution, ecology, and physiology — for final assessment.",
    resourceLabel:"YouTube: Biology: Year-End Exam Preparation", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Year-End%20Exam%20Preparation%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-qU1mQ0ilxo",
+   videoUrl:"https://www.youtube.com/watch?v=KSAPc5NwLYU",
    quiz:[
      {q:"Distinguish: mitosis produces ___ and meiosis produces ___.", options:["haploid identical cells; haploid diverse cells","diploid identical cells; diploid diverse cells","diploid identical; haploid diverse","haploid diverse cells; diploid identical cells"], answer:2},
      {q:"Natural selection is based on differences in ___.", options:["intelligence only","only physical size","mutation rate","success from heritable variation"], answer:3},
@@ -1032,7 +1032,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Looking Ahead to Grade 12", summary:"Students preview Grade 12 Biology (SBI4U) and understand how Grade 11 knowledge connects to advanced study.",
    resourceLabel:"YouTube: Biology: Looking Ahead to Grade 12", resourceUrl:"https://www.youtube.com/results?search_query=Biology%3A%20Looking%20Ahead%20to%20Grade%2012%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-qU1mQ0ilxo",
+   videoUrl:"https://www.youtube.com/watch?v=6EDBlowVST0",
    quiz:[
      {q:"Grade 12 Biology extends genetics to ___.", options:["deeper molecular genetics","no advanced concepts","only repeating Mendelian genetics","an easier version of Grade 11"], answer:0},
      {q:"Grade 12 metabolic processes extend Grade 11 by examining ___.", options:["only cellular respiration","only photosynthesis in more detail","only enzyme structure","biochemical detail and enzyme kinetics"], answer:3},
@@ -1054,7 +1054,7 @@ const curriculum: DayContent[] = [
 {day:26, label:"Day 26 — Mon", subjects:[
   {subject:"English", title:"Literature: Examining Power Through Fiction", summary:"Students read and analyse texts that examine power dynamics — colonialism, class, race, gender — through literary form.",
    resourceLabel:"YouTube: Literature: Examining Power Through Fiction", resourceUrl:"https://www.youtube.com/results?search_query=Literature%3A%20Examining%20Power%20Through%20Fiction%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=OY2zPFQsKSI",
+   videoUrl:"https://www.youtube.com/watch?v=QDtBa-Zm0pE",
    quiz:[
      {q:"Literature about power is most effective when ___.", options:["it ignores aesthetics","it only celebrates resistance","it directly states its political message","it shows power through relationships"], answer:3},
      {q:"Post-colonial literary theory examines ___.", options:["only literature from former colonies","colonialism's effect on lives and form","only the theme of violence","no connection to colonialism in Canadian literature"], answer:1},
@@ -1064,7 +1064,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Enrichment: Mathematical Thinking and Problem Solving", summary:"Students tackle challenging multi-step problems requiring creative mathematical thinking, preparing for senior mathematics and mathematical competitions.",
    resourceLabel:"YouTube: Enrichment: Mathematical Thinking and Problem Solving", resourceUrl:"https://www.youtube.com/results?search_query=Enrichment%3A%20Mathematical%20Thinking%20and%20Problem%20Solving%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
+   videoUrl:"https://www.youtube.com/watch?v=-6b-tQEBUT8",
    quiz:[
      {q:"When facing an unfamiliar math problem, the most effective first step is ___.", options:["trying random techniques","only guessing","representing the problem multiple ways","immediately seeking help"], answer:2},
      {q:"Mathematical proof by contradiction assumes ___.", options:["only prime numbers apply","the problem has no solution","the conclusion is true","the opposite, leading to contradiction"], answer:3},
@@ -1106,7 +1106,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Culminating Activity and Reflection", summary:"Students complete a culminating problem-solving or application task and reflect on their mathematical development in Grade 11.",
    resourceLabel:"YouTube: Functions: Culminating Activity and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20Culminating%20Activity%20and%20Reflection%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=zEfzxz21MW4",
+   videoUrl:"https://www.youtube.com/watch?v=xHtsuOB-TPw",
    quiz:[
      {q:"A functions culminating task might ask you to ___.", options:["only describe a function without calculating","only graph without analysing","modelling a real-world situation","only compute a single answer"], answer:2},
      {q:"The most important thing you can communicate in your mathematical work is ___.", options:["only a diagram","only a formula","only the correct answer","your reasoning behind each step"], answer:3},
@@ -1126,7 +1126,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry Culminating: Final Assessment and Reflection", summary:"Students complete their final chemistry assessment and reflect on the year.",
    resourceLabel:"YouTube: Chemistry Culminating: Final Assessment and Reflection", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%20Culminating%3A%20Final%20Assessment%20and%20Reflection%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=RSAD7QNT1hs",
+   videoUrl:"https://www.youtube.com/watch?v=FSyAehMdpyI",
    quiz:[
      {q:"The central insight of chemistry is ___.", options:["that chemistry is only about industry","that only inorganic chemistry matters","that all matter is made of elements","that matter transforms and changes"], answer:3},
      {q:"The most important safety principle in chemistry is ___.", options:["only using chemicals rated 'safe'","only reading the MSDS after an incident","wearing lab coats always","knowing a substance's hazards first"], answer:3},
@@ -1178,19 +1178,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:29, label:"Day 29 — Thu", subjects:[
-  {subject:"English", title:"Year-End Celebration: Reading and Literary Portfolio", summary:"Students curate and present their best reading and writing from Grade 11, celebrating their intellectual growth.",
-   resourceLabel:"YouTube: Year-End Celebration: Reading and Literary Portfolio", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Reading%20and%20Literary%20Portfolio%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=vvc0gg0symU",
+  {subject:"English", title:"The Writer's Process: Drafting, Revising, and Reflecting", summary:"Students examine the stages every writer moves through — preparation, drafting, and revision — and reflect on how their own writing process has developed across Grade 11, from rough first drafts to polished final pieces.",
+   resourceLabel:"YouTube: The Writer's Process: Drafting, Revising, and Reflecting", resourceUrl:"https://www.youtube.com/results?search_query=The%20Writer%27s%20Process%3A%20Drafting%2C%20Revising%2C%20and%20Reflecting%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UuOWNNvupik",
    quiz:[
-     {q:"A Grade 11 literary portfolio should demonstrate ___.", options:["only creative writing","the arc of your intellectual development","only the highest-graded piece","only the most recent work"], answer:1},
-     {q:"Sharing your intellectual work with peers demonstrates ___.", options:["courage — it makes thinking visible","that you have no original ideas","competition rather than collaboration","that you are not actually interested in private learning"], answer:0},
-     {q:"A year of serious literary engagement changes ___.", options:["only your grammar skills","how you read and question the world","nothing of lasting significance","only your vocabulary size"], answer:1},
-     {q:"The most valuable outcome of Grade 11 English is ___.", options:["a collection of essays","becoming a better reader and writer","a high grade on the final","only being admitted to Grade 12"], answer:1},
-     {q:"Books you've read this year ___.", options:["become part of how you see the world","have no lasting effect on most students","will only be remembered for exams","are now finished and forgettable"], answer:0}
+     {q:"The three main stages of the writing process are ___.", options:["outlining, typing, and printing","preparation, writing, and revision","reading, memorising, and testing","brainstorming only"], answer:1},
+     {q:"During the preparation stage, a writer primarily focuses on ___.", options:["fixing spelling and grammar errors","formatting the final page","planning ideas, gathering evidence, and organising an argument","submitting the finished piece"], answer:2},
+     {q:"Revision differs from simple proofreading because it involves ___.", options:["only checking spelling","reconsidering structure, clarity, and argument, not just surface errors","deleting the entire draft and starting over each time","skipping straight to submission"], answer:1},
+     {q:"A strong introduction typically sets out ___.", options:["a random fact with no connection to the essay","a summary of the conclusion word for word","the writer's central argument or thesis","only background information with no claim"], answer:2},
+     {q:"Reflecting on your own writing process over a school year helps you ___.", options:["recognise your growth and identify habits to keep improving","forget what you have written","avoid revising future work","prove that revision is unnecessary"], answer:0}
    ]},
   {subject:"Functions", title:"Functions: End-of-Year Celebration and Next Steps", summary:"Students celebrate their mathematical achievement and set goals for Grade 12 mathematics.",
    resourceLabel:"YouTube: Functions: End-of-Year Celebration and Next Steps", resourceUrl:"https://www.youtube.com/results?search_query=Functions%3A%20End-of-Year%20Celebration%20and%20Next%20Steps%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=9mcxdaZMlB8",
+   videoUrl:"https://www.youtube.com/watch?v=AVLBo5BL540",
    quiz:[
      {q:"Finishing Grade 11 Functions means ___.", options:["you know more mathematics than you'll ever use","all mathematics is now complete","only calculus remains","you've built fluency in functions"], answer:3},
      {q:"The most important mathematical habit to develop over summer is ___.", options:["staying curious about patterns and relationships","solving problems every day (impractical)","reading only about mathematics","forgetting all of Grade 11"], answer:0},
@@ -1210,7 +1210,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: End-of-Year Celebration", summary:"Students celebrate their learning in Grade 11 Chemistry.",
    resourceLabel:"YouTube: Chemistry: End-of-Year Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Chemistry%3A%20End-of-Year%20Celebration%20grade%2011%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=R60QoJxrfDg",
+   videoUrl:"https://www.youtube.com/watch?v=fPnwBITSmgU",
    quiz:[
      {q:"The most astonishing fact about atoms is ___.", options:["that the matter around you","they are perfectly solid","they are very large","they are only found in metals"], answer:0},
      {q:"The periodic table is astonishing because ___.", options:["it was created without any underlying theory","it is purely a memorisation tool","it was invented recently","it predates yet fits quantum theory"], answer:3},
@@ -1283,7 +1283,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Microbiology: Bacteria, Viruses, and Immunity", summary:"Grade 11 Biology strand: microbiology examines the structure and function of bacteria and viruses, along with how the immune system responds to and defends against these pathogens.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
-   videoUrl:"https://www.youtube.com/watch?v=6fGT83e36yc",
+   videoUrl:"https://www.youtube.com/watch?v=PSRJfaAYkW4",
    quiz:[
      {q:"Microbiology examines the structure and function of ___.", options:["Only plants, with no connection to microorganisms","Bacteria and viruses","Only large mammals, with no connection to microorganisms","A field unrelated to biology"], answer:1},
      {q:"A key structural difference between bacteria and viruses is that bacteria are ___.", options:["Never able to reproduce under any circumstances","Not made of any cells at all, unlike viruses","Identical in structure to viruses in every way","Living cells, while viruses require a host cell to reproduce"], answer:3},

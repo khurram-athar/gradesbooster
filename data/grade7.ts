@@ -1294,7 +1294,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Great Depression and Its Impact on Canada", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: the Great Depression of the 1930s brought severe economic hardship to Canada, including widespread unemployment, leading to major changes in government policy and social programs.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
-   videoUrl:"https://www.youtube.com/watch?v=7nziFLnbot0",
+   videoUrl:"https://www.youtube.com/watch?v=3DCjE-9jkaE",
    quiz:[
      {q:"The Great Depression occurred mainly during which decade?", options:["1950s","1890s","1980s","1930s"], answer:3},
      {q:"A major effect of the Great Depression in Canada was ___.", options:["No effect on Canadian society","Immediate prosperity for all Canadians","A booming economy with no challenges","Widespread unemployment and economic hardship"], answer:3},
