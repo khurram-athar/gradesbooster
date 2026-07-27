@@ -1368,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Strength and Stability", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: a strong structure resists breaking under a load, while a stable structure resists tipping over; shape (like triangles) and a wide base help both.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=ZvcCqVDzTE0",
    quiz:[
      {q:"A structure that resists breaking under a load is considered ___.", options:["Colourful","Small","Stable","Strong"], answer:3},
      {q:"A structure that resists tipping over is considered ___.", options:["Fragile","Tall only","Stable","Strong"], answer:2},

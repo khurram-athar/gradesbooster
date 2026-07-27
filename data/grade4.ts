@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Writing: Formal and Informal Letters", summary:"Ontario Grade 4 Writing strand: formal letters use polite, professional language for serious purposes (like a business), while informal letters use casual, friendly language for people you know well.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=Pl3yGL5V_Pw",
    quiz:[
      {q:"A formal letter is typically used for ___.", options:["Writing to a close friend casually","Professional or serious purposes","Texting a sibling","Writing in a diary"], answer:1},
      {q:"Which greeting fits a formal letter?", options:["Yo,","Whats up,","Hey there!","Dear Sir or Madam,"], answer:3},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Mixed Numbers and Improper Fractions", summary:"Ontario Grade 4 Number strand: a mixed number combines a whole number and a fraction (like 2 and 1/2), while an improper fraction has a numerator larger than its denominator (like 5/2), and the two can be converted between each other.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=qk2oP6FZ6HA",
    quiz:[
      {q:"Which is a mixed number?", options:["5/2","1/2","2/5","2 and 1/2"], answer:3},
      {q:"Which is an improper fraction?", options:["3/7","2 and 1/4","1/2","7/3"], answer:3},

@@ -1220,17 +1220,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:30, label:"Day 30 — Fri", subjects:[
-  {subject:"Language", title:"Year-End Celebration: Voices and Stories", summary:"A celebration of Grade 8 Language Arts learning. Students share their best writing and reflect on their development as literate, critical thinkers.",
-   resourceLabel:"YouTube: Year-End Celebration: Voices and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Year-End%20Celebration%3A%20Voices%20and%20Stories%20grade%208%20educational",
+  {subject:"Language", title:"Writing: Crafting a Strong Conclusion Paragraph", summary:"Grade 8 Writing strand: a strong conclusion paragraph restates the thesis in a fresh way, synthesizes the essay's main points, and leaves the reader with a final thought that resonates, rather than simply repeating the introduction.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=c-VHMHoqt5Y",
    quiz:[
-     {q:"The journey from Grade 8 to high school in Language Arts involves ___.", options:["starting over completely","no significant change","a big step up in complexity and depth","only more vocabulary tests"], answer:2},
-     {q:"Your voice as a writer is ___.", options:["something only famous writers have","identical to everyone else's","something you've been developing all year","only for creative writing"], answer:2},
-     {q:"The texts you've read and analysed this year have ___.", options:["only been for assessment","built empathy and critical thinking","only improved your grammar","had no lasting impact"], answer:1},
-     {q:"Being a literate person in the 21st century means ___.", options:["only being able to read words","being able to critically read all texts","only reading books","only being able to write essays"], answer:1},
-     {q:"The most important thing you've learned in Grade 8 Language Arts is ___.", options:["how to spell better","more vocabulary words","that stories help humans make meaning","to write faster"], answer:2}
+     {q:"A strong conclusion paragraph should ___.", options:["Introduce a brand-new argument not discussed in the essay","Restate the thesis freshly and synthesize the essay's main points","Simply repeat the introduction word for word","Be left out of a well-organised essay"], answer:1},
+     {q:"Why should a conclusion avoid just repeating the introduction?", options:["Repetition makes an essay stronger","Introductions and conclusions must always be identical","A conclusion should show how your thinking developed, not restate it unchanged","Conclusions have no real purpose in an essay"], answer:2},
+     {q:"An effective final sentence in a conclusion often ___.", options:["Leaves the reader with a memorable, resonant final thought","Apologises for the essay's length","Lists every source used in the essay","Asks the reader an unrelated question"], answer:0},
+     {q:"When summarising main points in a conclusion, a writer should ___.", options:["Introduce entirely new evidence","Copy each body paragraph in full","Briefly connect the key ideas back to the thesis","Ignore the essay's body paragraphs completely"], answer:2},
+     {q:"Why do writers restate the thesis in different words in a conclusion?", options:["To avoid sounding repetitive while reinforcing the essay's central argument","Because using the exact same wording is required","Because the thesis should be forgotten by the end of the essay","To confuse the reader about the essay's purpose"], answer:0}
    ]},
   {subject:"Math", title:"Grade 8 Math: Celebration and Forward Look", summary:"A final review celebrating mathematical growth and looking ahead to Grade 9.",
    resourceLabel:"YouTube: Grade 8 Math: Celebration and Forward Look", resourceUrl:"https://www.youtube.com/results?search_query=Grade%208%20Math%3A%20Celebration%20and%20Forward%20Look%20grade%208%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_Gd13a5uLB4",
    quiz:[
      {q:"The most important mathematical habit developed in Grade 8 is ___.", options:["mathematical reasoning","working quickly always","memorising all formulas","only following rules"], answer:0},
      {q:"Grade 9 Principles of Mathematics (MPM1D) will extend ___.", options:["only data management","only geometry","nothing from Grade 8","linear relations and algebra"], answer:3},
@@ -1238,14 +1240,15 @@ const curriculum: DayContent[] = [
      {q:"Being good at math means ___.", options:["never making mistakes","being fast always","only getting right answers","being willing to struggle and persist"], answer:3},
      {q:"The mathematical confidence you've built this year ___.", options:["has no value beyond school","is only useful in Grade 8","is a genuine achievement that will support you through high school, post-secondary education, and any career that requires systematic thinking — which is nearly all of them","will be completely reset in Grade 9"], answer:0}
    ]},
-  {subject:"Science", title:"Science: Final Synthesis and Celebration", summary:"Students celebrate their learning across all Grade 8 science strands and look forward to the broader world of scientific inquiry.",
-   resourceLabel:"YouTube: Science: Final Synthesis and Celebration", resourceUrl:"https://www.youtube.com/results?search_query=Science%3A%20Final%20Synthesis%20and%20Celebration%20grade%208%20educational",
+  {subject:"Science", title:"Optics: How the Human Eye Focuses Light", summary:"Grade 8 Science Optics strand: light entering the eye is bent, or refracted, by the cornea and lens to focus an image onto the retina, where light-sensitive cells convert it into signals that travel to the brain along the optic nerve.",
+   resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=GflMkCZUS6o",
    quiz:[
-     {q:"Science is a process, not just a body of facts. This means ___.", options:["only facts matter in science","textbooks have all the answers","science is finished","scientific knowledge is always provisional"], answer:3},
-     {q:"The most important scientific skill you've developed in Grade 8 is ___.", options:["only conducting experiments","asking good questions about evidence","only writing lab reports","memorising periodic table elements"], answer:1},
-     {q:"Grade 8 science has explored cells, fluids, mechanical systems, and optics. The common theme is ___.", options:["they are all unrelated topics","only measurement","all four require only memorisation","all involve understanding how systems work"], answer:3},
-     {q:"Science and society are interconnected because ___.", options:["science is separate from society","science and society shape each other","scientists work in a social and political vacuum","only scientists need to understand science"], answer:1},
-     {q:"The most exciting thing about science is ___.", options:["that it is only for experts","that all questions are answered","that it never changes","that there are still vast unknowns"], answer:3}
+     {q:"Light entering the eye is first bent, or refracted, by the ___.", options:["Optic nerve","Cornea and lens","Eyelid","Eyebrow"], answer:1},
+     {q:"The retina's role in vision is to ___.", options:["Produce tears to protect the eye","Control the amount of light entering the eye","Convert focused light into signals sent to the brain","Give the iris its colour"], answer:2},
+     {q:"Signals from the retina travel to the brain along the ___.", options:["Cornea","Pupil","Iris","Optic nerve"], answer:3},
+     {q:"Why must the cornea and lens refract light precisely?", options:["Refraction has no effect on how we see","So the image lands accurately in focus on the retina","To change the colour of the light entering the eye","To prevent any light from reaching the retina"], answer:1},
+     {q:"Why is understanding how the eye focuses light useful in science and technology?", options:["It has no connection to real-world optical devices","It helps explain how lenses in cameras and glasses work in similar ways","Eyes and cameras work in completely unrelated ways","Only doctors ever need to understand eye optics"], answer:1}
    ]},
   {subject:"History", title:"Farewell: You Are Canadian History", summary:"A final message connecting students to their role as participants in the ongoing story of Canada.",
    resourceLabel:"YouTube: Farewell: You Are Canadian History", resourceUrl:"https://www.youtube.com/results?search_query=Farewell%3A%20You%20Are%20Canadian%20History%20grade%208%20educational",

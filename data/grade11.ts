@@ -1222,6 +1222,7 @@ const curriculum: DayContent[] = [
 {day:30, label:"Day 30 — Fri", subjects:[
   {subject:"English", title:"Grade 11 English: Looking Back and Forward", summary:"A final celebration of Grade 11 English — reflecting on the year's intellectual journey and preparing for Grade 12.",
    resourceLabel:"YouTube: Grade 11 English: Looking Back and Forward", resourceUrl:"https://www.youtube.com/results?search_query=Grade%2011%20English%3A%20Looking%20Back%20and%20Forward%20grade%2011%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AeQpEGDry2M",
    quiz:[
      {q:"The single most important intellectual skill developed in Grade 11 English is ___.", options:["forming and arguing complex ideas","reading texts quickly","memorising literary terms","writing very long essays"], answer:0},
      {q:"Literature's relationship to truth is ___.", options:["literature states direct factual truths only","literature is never true","complex: literary truth is not factual truth but a different kind","literature is only useful for personal enjoyment"], answer:2},
