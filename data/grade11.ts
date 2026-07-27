@@ -1346,17 +1346,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:33, label:"Day 33 — Wed", subjects:[
-  {subject:"English", title:"Media Literacy: Analyzing Documentary Film", summary:"Grade 11 English strand: documentary films present real events and information, but filmmakers make deliberate choices in editing, narration, and framing that shape how audiences interpret the subject matter.",
+  {subject:"English", title:"Media Literacy: Recognizing Bias in News Media", summary:"Grade 11 English strand: news sources make choices about word choice, story selection, and framing that can reflect a particular point of view, so recognizing bias means looking closely at language, sourcing, and what is left out.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=vOVyK2jq4yU",
    quiz:[
-     {q:"Documentary films present ___.", options:["A genre unrelated to real-world subjects","Real events and information","Content with no connection to any actual events","Only entirely fictional events with no factual basis"], answer:1},
-     {q:"Why might a documentary filmmaker’s choices in editing shape how audiences interpret the subject?", options:["Documentary filmmakers never make deliberate editing choices","Editing has no effect on how a documentary is understood","Editing decisions can influence pacing, emphasis, and the overall narrative presented","These choices have no connection to audience interpretation"], answer:2},
-     {q:"Which is an example of a technique a documentary might use to shape audience perception?", options:["Selecting specific interview clips to support a particular perspective","A technique entirely unrelated to filmmaking","Avoiding any use of narration or interviews","Presenting information with absolutely no editorial choices involved"], answer:0},
-     {q:"Why is it valuable to critically analyze a documentary rather than accepting its content at face value?", options:["Even factual content can be presented in a way that reflects a particular point of view","Documentaries never involve any filmmaker perspective or choices","Documentaries always present information with no possible bias","Critical analysis has no value when studying documentary film"], answer:0},
-     {q:"Why might understanding a documentary’s intended audience help in analyzing its purpose?", options:["The audience has no connection to how a documentary is made","This factor is irrelevant to understanding a documentary’s purpose","Documentaries are always made with no audience in mind","The intended audience can influence the tone, content, and framing choices used"], answer:3}
+     {q:"Bias in a news story can often be identified by examining ___.", options:["Word choice, story selection, and framing","The length of the video only","The time of day a story is published","A factor with no connection to how a story is told"], answer:0},
+     {q:"Why can even factual reporting still reflect bias?", options:["Facts can never be arranged in a way that favours one perspective","Choosing which facts to include or leave out can shape the impression a story creates","Factual reporting is always completely neutral","Bias only exists in stories that contain false information"], answer:1},
+     {q:"Which is an example of a technique that can reveal bias in a news report?", options:["Comparing how different outlets cover the same story","A technique with no connection to identifying bias","Reading only a single source and assuming it is neutral","Ignoring the headline and images used in a story"], answer:0},
+     {q:"Why is it useful to consider a news source’s ownership or funding when evaluating a story?", options:["Ownership and funding never influence how a story is reported","This information is irrelevant to understanding a news story","Ownership and funding can shape editorial choices and story emphasis","All news organizations are funded identically with no differences"], answer:2},
+     {q:"Why is developing skill in recognizing media bias valuable for a critical reader?", options:["It helps a reader form a more informed and balanced understanding of an issue","Critical reading skills have no connection to consuming media","Recognizing bias makes a reader less informed overall","This skill is only useful for professional journalists"], answer:0}
    ]},
   {subject:"Functions", title:"Rational Functions: Solving Rational Equations", summary:"Grade 11 Functions strand: solving a rational equation involves eliminating the denominators to form a simpler equation, while checking for any restrictions that would make the original denominators equal to zero.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=1fR_9ke5-n8",
    quiz:[
      {q:"Solving a rational equation typically involves ___.", options:["Ignoring the denominators entirely","Eliminating the denominators to form a simpler equation","Adding denominators without ever removing them","A method unrelated to fractions or denominators"], answer:1},
      {q:"Why is it important to check for restrictions when solving a rational equation?", options:["All possible solutions are always valid for a rational equation","Rational equations never have any restricted values","A solution that makes any original denominator equal to zero must be excluded","Restrictions have no effect on the solutions of a rational equation"], answer:2},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Ecology: Biomes and Global Ecosystems", summary:"Grade 11 Biology strand: a biome is a large geographic region characterized by a distinct climate and community of plants and animals adapted to those specific conditions.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=KQF9WdZrH_c",
    quiz:[
      {q:"A biome is best described as ___.", options:["A term with no connection to plant or animal life","A concept unrelated to geography or climate","A large geographic region with a distinct climate and community of organisms","A single, isolated organism with no connection to its environment"], answer:2},
      {q:"Organisms within a biome are typically adapted to ___.", options:["The specific climate conditions of that region","Conditions entirely unrelated to their biome","No particular environmental conditions at all","A climate completely different from their own biome"], answer:0},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Reaction Rates: Factors Affecting Rate of Reaction", summary:"Grade 11 Chemistry strand: the rate of a chemical reaction can be influenced by factors such as temperature, concentration, surface area, and the presence of a catalyst.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=JpoOfrPKgmM",
    quiz:[
      {q:"Which factor can influence the rate of a chemical reaction?", options:["The colour of the container used","The time of day the reaction takes place","Temperature","A factor entirely unrelated to chemical reactions"], answer:2},
      {q:"Increasing the temperature of a reaction generally ___ its rate.", options:["Increases","Has no effect on","Decreases","Makes impossible to determine"], answer:0},

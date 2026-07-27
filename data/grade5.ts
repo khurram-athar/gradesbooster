@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Writing: Argumentative Essays", summary:"Ontario Grade 5 Writing strand: an argumentative essay presents a clear position on an issue and supports it with logical reasons and evidence, while also acknowledging other viewpoints.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=41s2xrDH-Pw",
    quiz:[
      {q:"An argumentative essay is built around ___.", options:["A clear position supported by reasons and evidence","Only the writer’s feelings with no support","A summary with no opinion","A list of unrelated facts"], answer:0},
      {q:"Why is it useful for an argumentative essay to acknowledge other viewpoints?", options:["Acknowledging other views weakens an essay","It replaces the need for evidence","Other viewpoints should always be ignored","It shows the writer has considered the issue thoughtfully and strengthens the argument"], answer:3},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introducing Percentages", summary:"Ontario Grade 5 Number strand: percent means out of 100, and percentages can be converted to and from fractions and decimals, such as 50 percent equalling 1/2 or 0.5.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=XGOMLR_4zD4",
    quiz:[
      {q:"What does 25 percent mean?", options:["25 out of 10","25 out of 1000","25 out of 100","2.5 out of 100"], answer:2},
      {q:"What is 50 percent as a decimal?", options:["5.0","50.0","0.05","0.5"], answer:3},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Nervous System", summary:"Ontario Grade 5 Science Human Body Systems strand: the nervous system, made up of the brain, spinal cord, and nerves, controls the body by sending and receiving electrical signals throughout the body.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=Z-CemK6Yrnc",
    quiz:[
      {q:"The nervous system is made up mainly of the ___.", options:["Brain, spinal cord, and nerves","Heart and blood vessels only","Stomach and intestines","Lungs and diaphragm"], answer:0},
      {q:"The brain is considered the body’s ___.", options:["Storage for food","Digestive organ","Filter for blood","Control centre"], answer:3},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"United Empire Loyalists and the Founding of Ontario", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: United Empire Loyalists were settlers who remained loyal to Britain during the American Revolution and moved north, playing a key role in founding early Ontario communities.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Mgdvfq0FsJk",
    quiz:[
      {q:"United Empire Loyalists were people who ___.", options:["Remained loyal to Britain during the American Revolution","Had no connection to Britain at all","Supported the American Revolution","Immigrated from Asia"], answer:0},
      {q:"After the American Revolution, many Loyalists moved to ___.", options:["What is now Ontario and other parts of British North America","South America","Europe permanently","Nowhere, they all stayed in the same place"], answer:0},

@@ -7881,6 +7881,7 @@
         "summary": "Grade 12 English strand: literature in translation allows readers to access stories originally written in another language, raising important questions about how meaning, tone, and cultural nuance can shift through the translation process.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=DQvINFu0_OA",
         "quiz": [
           {
             "q": "Literature in translation allows readers to access stories ___.",
@@ -7940,6 +7941,7 @@
         "summary": "Grade 12 Advanced Functions strand: advanced analysis of piecewise and absolute value functions involves examining their behaviour at boundary points, including continuity and differentiability considerations.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=0ZoSxPg6JSQ",
         "quiz": [
           {
             "q": "Advanced analysis of piecewise functions often examines their behaviour at ___.",
@@ -7999,6 +8001,7 @@
         "summary": "Grade 12 Calculus strand: concavity describes whether a function curves upward or downward, and the second derivative test uses the sign of a function’s second derivative to classify critical points as local maxima or minima.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=Srqij2JXdeg",
         "quiz": [
           {
             "q": "Concavity describes whether a function ___.",
@@ -8058,6 +8061,7 @@
         "summary": "Grade 12 Physics strand: fluid mechanics studies the behaviour of liquids and gases, including how pressure varies with depth and how buoyant force allows objects to float or sink based on displaced fluid.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=16HDJNoXQII",
         "quiz": [
           {
             "q": "Fluid mechanics studies the behaviour of ___.",

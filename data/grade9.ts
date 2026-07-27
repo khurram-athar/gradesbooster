@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Advanced Sentence Fragments and Run-ons", summary:"Grade 9 Writing strand: advanced correction of sentence fragments and run-ons requires recognizing subtle grammatical issues in complex sentences and applying appropriate punctuation or restructuring.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=yXPJcnKC6nU",
    quiz:[
      {q:"A sentence fragment lacks ___.", options:["A title","Any punctuation at all","A complete subject, verb, or complete thought","A specific number of words"], answer:2},
      {q:"A run-on sentence incorrectly joins ___.", options:["Only correctly punctuated clauses","Two or more complete sentences without proper punctuation","A sentence with no verb at all","A single short phrase with no other issues"], answer:1},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exponent Laws: Power of a Power and Power of a Product", summary:"Grade 9 Algebra strand: the power of a power rule states that (x to the a) to the b equals x to the (a times b), while the power of a product rule states that (xy) to the a equals x to the a times y to the a.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=JpucBWhZHGI",
    quiz:[
      {q:"Simplify: (x squared) cubed.", options:["x to the fifth power","x to the eighth power","x to the sixth power","x squared"], answer:2},
      {q:"Simplify: (xy) squared.", options:["x squared times y squared","x squared times y","xy squared","x times y squared"], answer:0},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Work, Energy, and Power", summary:"Grade 9 Science Physics strand: work is done when a force causes an object to move, energy is the capacity to do work, and power measures how quickly work is done.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=w4QFJb9a8vo",
    quiz:[
      {q:"Work is done when ___.", options:["A force causes an object to move","No force is involved at all","An object remains completely stationary with no force applied","Energy is created from nothing"], answer:0},
      {q:"Energy is best described as ___.", options:["The capacity to do work","A force unrelated to motion","A type of matter with no connection to work","A measurement of time only"], answer:0},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Climate Refugees and Environmental Migration", summary:"Grade 9 Social Studies (Geography) strand: climate refugees are people forced to leave their homes due to environmental changes, such as rising sea levels, drought, or extreme weather, an increasingly significant global issue.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=nIlMHFwC1MM",
    quiz:[
      {q:"A climate refugee is someone forced to leave their home due to ___.", options:["A voluntary choice unrelated to the environment","A factor unrelated to climate or environment","Environmental changes, such as rising sea levels or drought","A political election"], answer:2},
      {q:"Which is an example of an environmental factor that could displace a population?", options:["Rising sea levels","A factor unrelated to climate or environment","A shift in local sports preferences","A change in local fashion trends"], answer:0},

@@ -1368,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines: Levers and Inclined Planes", summary:"Ontario Grade 4 Science Structures and Mechanisms strand: a lever uses a pivot point (fulcrum) to lift or move objects with less effort, while an inclined plane is a sloped surface that makes raising objects easier.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=nlTX8rj98p8",
    quiz:[
      {q:"A lever uses a ___ to help lift or move objects.", options:["Magnet","Screw","Wheel","Fulcrum (pivot point)"], answer:3},
      {q:"An inclined plane is best described as a ___.", options:["Spinning wheel","Sealed container","Sloped surface","Vertical pole"], answer:2},
@@ -1377,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Societies: Daily Life and Social Roles", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early societies such as Egypt, Greece, Rome, Mesopotamia, and China had structured daily lives, with different social roles for rulers, workers, farmers, and families.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=9JsglmFk9g0",
    quiz:[
      {q:"In many early societies, social roles were often organized by ___.", options:["Class or status, such as rulers, workers, and farmers","Age only, with no other factors","No structure at all","Random daily selection"], answer:0},
      {q:"Farmers in early societies were important because they ___.", options:["Only built monuments","Ruled the government","Produced food to support the population","Had no role in daily life"], answer:2},

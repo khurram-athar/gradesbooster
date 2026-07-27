@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Parallel Structure in Writing", summary:"Ontario Grade 6 Writing strand: parallel structure means using the same grammatical pattern for related items in a sentence, such as in a list, to create clarity and rhythm.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=D-54aomR73c",
    quiz:[
      {q:"Parallel structure means ___.", options:["Avoiding lists in writing entirely","Using only single-word sentences","Using different grammatical patterns for related items","Using the same grammatical pattern for related items"], answer:3},
      {q:"Which sentence uses correct parallel structure?", options:["She likes running, swimming, and to bike.","She likes running, to swim, and biking.","She likes running, swimming, and biking.","She likes to run, swimming, and biking."], answer:2},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Surface Area of Rectangular Prisms", summary:"Ontario Grade 6 Geometry strand: the surface area of a rectangular prism is found by calculating the area of all six faces and adding them together.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=G3J2At5ujfg",
    quiz:[
      {q:"The surface area of a 3D shape refers to ___.", options:["Only the area of one face","The total area of all its outer faces","The shape’s weight","The space inside the shape"], answer:1},
      {q:"A rectangular prism has how many faces?", options:["4","8","12","6"], answer:3},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cells: The Building Blocks of Life", summary:"Ontario Grade 6 Science Life Systems strand: cells are the basic structural and functional units of all living things, and organisms can be made of a single cell or trillions of cells working together.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=JmCt0OzrRFI",
    quiz:[
      {q:"Cells are considered the ___.", options:["Non-living materials","Largest structures in the universe","Basic structural and functional units of all living things","Only found in plants"], answer:2},
      {q:"An organism made up of only one cell is called ___.", options:["Unicellular","Non-living","Multicellular","Inorganic"], answer:0},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Islamic Golden Age", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the Islamic Golden Age was a period of significant advances in science, medicine, mathematics, and culture across the Islamic world, roughly from the 8th to 14th centuries.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=VVMs8nRA7V8",
    quiz:[
      {q:"The Islamic Golden Age is associated with major advances in fields such as ___.", options:["Only military conquest","Science, medicine, and mathematics","Only architecture with no other achievements","Nothing of lasting significance"], answer:1},
      {q:"Roughly during which centuries did the Islamic Golden Age take place?", options:["18th to 20th centuries","1st to 3rd centuries","It never took place","8th to 14th centuries"], answer:3},

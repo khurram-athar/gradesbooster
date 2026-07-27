@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Literature in Translation", summary:"Grade 12 English strand: literature in translation allows readers to access stories originally written in another language, raising important questions about how meaning, tone, and cultural nuance can shift through the translation process.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=DQvINFu0_OA",
    quiz:[
      {q:"Literature in translation allows readers to access stories ___.", options:["Originally written in another language","That have never been read in their original form","Written exclusively in the reader’s native language","With no connection to any other language or culture"], answer:0},
      {q:"Reading literature in translation raises questions about how ___ can shift through the translation process.", options:["Meaning, tone, and cultural nuance","Only the total page count","The physical binding of the book","A factor entirely unrelated to language or meaning"], answer:0},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Piecewise and Absolute Value Functions: Advanced Analysis", summary:"Grade 12 Advanced Functions strand: advanced analysis of piecewise and absolute value functions involves examining their behaviour at boundary points, including continuity and differentiability considerations.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=0ZoSxPg6JSQ",
    quiz:[
      {q:"Advanced analysis of piecewise functions often examines their behaviour at ___.", options:["The function’s y-intercept exclusively","Only points far from any boundary","Boundary points","A concept unrelated to the function’s domain"], answer:2},
      {q:"An absolute value function can often be rewritten as a ___ function.", options:["Purely logarithmic, with no other classification possible","Piecewise","Purely exponential, with no other classification possible","A function unrelated to piecewise definitions"], answer:1},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Concavity and the Second Derivative Test", summary:"Grade 12 Calculus strand: concavity describes whether a function curves upward or downward, and the second derivative test uses the sign of a function’s second derivative to classify critical points as local maxima or minima.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=Srqij2JXdeg",
    quiz:[
      {q:"Concavity describes whether a function ___.", options:["Remains perfectly flat across its entire domain","A concept unrelated to how a function’s graph curves","Increases at a constant, unchanging rate","Curves upward or downward"], answer:3},
      {q:"The second derivative test uses the sign of a function’s second derivative to classify ___.", options:["Only the function’s domain restrictions","Critical points as local maxima or minima","The function’s y-intercept exclusively","A concept entirely unrelated to critical points"], answer:1},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Fluid Mechanics -- Pressure and Buoyancy", summary:"Grade 12 Physics strand: fluid mechanics studies the behaviour of liquids and gases, including how pressure varies with depth and how buoyant force allows objects to float or sink based on displaced fluid.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=16HDJNoXQII",
    quiz:[
      {q:"Fluid mechanics studies the behaviour of ___.", options:["Only electricity, with no connection to fluids","A field unrelated to physics","Only solid objects, with no connection to fluids","Liquids and gases"], answer:3},
      {q:"Buoyant force is related to the amount of fluid ___.", options:["A factor entirely unrelated to an object’s presence in a fluid","Displaced by an object","That remains completely undisturbed by an object","That evaporates from a container"], answer:1},

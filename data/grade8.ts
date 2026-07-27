@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Reading: Analyzing Satire and Social Commentary", summary:"Grade 8 Reading strand: satire uses humour, irony, and exaggeration to critique society, and analyzing it requires identifying the underlying message beneath the humour.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=io58hl1Z0TY",
    quiz:[
      {q:"Satire is used to ___.", options:["Praise society with no criticism at all","Avoid any deeper meaning","Present only literal, factual statements with no commentary","Critique society using humour, irony, or exaggeration"], answer:3},
      {q:"Why might analyzing satire require careful reading?", options:["The critique is often hidden beneath humour or exaggeration","Satire is identical to purely factual writing","Satire always states its message directly with no interpretation needed","Satire never contains any deeper meaning"], answer:0},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Standard Deviation: An Introduction", summary:"Grade 8 Data Management strand (pre-high-school extension): standard deviation measures how spread out data values are from the mean, with a larger standard deviation indicating more variability in the data.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=pZJxwIz-FTM",
    quiz:[
      {q:"Standard deviation measures ___.", options:["How spread out data values are from the mean","The exact middle value of a data set","The total number of values in a data set","The most frequently occurring value"], answer:0},
      {q:"A larger standard deviation indicates ___.", options:["That all values are identical","More variability in the data","That the mean cannot be calculated","Less variability in the data"], answer:1},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Structure of DNA", summary:"Grade 8 Science Life Systems strand: DNA is a molecule shaped like a double helix that carries genetic instructions, made up of four bases -- adenine, thymine, guanine, and cytosine -- that pair in specific combinations.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=MAHP9d6D9jk",
    quiz:[
      {q:"DNA is shaped like a ___.", options:["Single straight line with no structure","Perfect square","Double helix","Flat sheet"], answer:2},
      {q:"DNA carries ___.", options:["No useful information","Genetic instructions for an organism","Information unrelated to biology","Only information about diet"], answer:1},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Women’s Suffrage in Canada: The Fight for the Vote", summary:"Grade 8 History strand: the women’s suffrage movement in Canada fought for women’s right to vote, achieving major milestones at the federal level in 1918, though the timeline varied for different groups of women.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=SQSeNxOCXzs",
    quiz:[
      {q:"Women’s suffrage refers to the movement advocating for ___.", options:["Women’s right to vote","The elimination of voting rights entirely","A movement unrelated to voting rights","Rights unrelated to political participation"], answer:0},
      {q:"Canadian women gained the right to vote in federal elections in which year?", options:["1918","1867","1950","1982"], answer:0},

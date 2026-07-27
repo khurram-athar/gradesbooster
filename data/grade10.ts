@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"English", title:"Grammar: Advanced Punctuation for Complex Ideas", summary:"Grade 10 English strand: advanced punctuation, including semicolons, colons, and em dashes, helps writers express complex or nuanced relationships between ideas with clarity and precision.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=41XNKfR56OY",
    quiz:[
      {q:"A semicolon can be used to ___.", options:["Join two closely related independent clauses","Begin every sentence","Separate unrelated ideas with no connection","Replace all commas in a sentence"], answer:0},
      {q:"An em dash is often used to ___.", options:["Replace every period in a text","Add emphasis or set off an important idea","Never appear in formal writing","Indicate the end of a paragraph only"], answer:1},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exponential Functions: Growth and Decay", summary:"Grade 10 Functions strand: an exponential function models growth or decay that occurs at a consistent percentage rate over time, distinct from the constant rate of change seen in linear functions.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=RVv0Jgi3Pbw",
    quiz:[
      {q:"An exponential growth function models a quantity that ___.", options:["Increases by a consistent percentage rate over time","Increases by the same fixed amount each time period","Decreases at an unpredictable, random rate","Remains completely constant over time"], answer:0},
      {q:"An exponential decay function models a quantity that ___.", options:["Changes at a completely random rate","Decreases by a consistent percentage rate over time","Increases by a fixed amount each time period","Remains completely unchanged over time"], answer:1},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Circular Motion and Gravitation", summary:"Grade 10 Physics strand: an object in circular motion experiences a centripetal force directed toward the centre of the circle, and gravitation describes the attractive force between objects with mass.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=bpFK2VCRHUs",
    quiz:[
      {q:"Centripetal force in circular motion is directed ___.", options:["Away from the centre of the circle","Toward the centre of the circle","In a direction unrelated to the object’s motion","In a straight line with no connection to the circle"], answer:1},
      {q:"Gravitation describes the attractive force between ___.", options:["Objects with mass","Only objects with no mass","A force unrelated to mass","Objects that repel each other, never attract"], answer:0},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The 1995 Quebec Referendum", summary:"Grade 10 History strand: the 1995 Quebec Referendum asked voters whether Quebec should pursue sovereignty, resulting in a very close vote to remain within Canada, highlighting ongoing questions about national unity.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=NbEPy6BaKPI",
    quiz:[
      {q:"The 1995 Quebec Referendum asked voters whether Quebec should ___.", options:["Remain permanently unchanged with no vote on the issue","A question entirely unrelated to Quebec’s status","Immediately separate with no vote required","Pursue sovereignty"], answer:3},
      {q:"The result of the 1995 referendum was ___.", options:["A vote with no meaningful result","A very close vote to remain within Canada","A referendum that was never actually held","An overwhelming vote in favour of sovereignty"], answer:1},

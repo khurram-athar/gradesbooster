@@ -1348,6 +1348,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Subjunctive Mood and Conditional Sentences", summary:"Ontario Grade 7 Writing strand: the subjunctive mood expresses wishes, hypotheticals, or conditions contrary to fact, often seen in sentences like If I were taller, I would reach the shelf.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=dM0ZsC7PQbo",
    quiz:[
      {q:"The subjunctive mood is often used to express ___.", options:["Commands only","Simple factual statements only","Questions only","Wishes, hypotheticals, or conditions contrary to fact"], answer:3},
      {q:"Which sentence correctly uses the subjunctive mood?", options:["If I will be taller, I would reach the shelf.","If I was taller, I would reach the shelf.","If I were taller, I would reach the shelf.","If I am taller, I would reach the shelf."], answer:2},
@@ -1357,6 +1358,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Direct and Partial Variation", summary:"Ontario Grade 7 Algebra strand: direct variation describes a relationship where one quantity is a constant multiple of another (y equals kx), while partial variation includes a fixed starting amount plus a variable rate (y equals kx plus b).",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=P4vj0CGGeM0",
    quiz:[
      {q:"In direct variation, the relationship between x and y can be written as ___.", options:["y equals x minus k","y equals kx","y equals kx plus b","y equals b"], answer:1},
      {q:"In partial variation, the relationship between x and y can be written as ___.", options:["y equals x divided by k","y equals 0","y equals kx plus b","y equals kx"], answer:2},
@@ -1366,6 +1368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Plate Tectonics and Continental Drift", summary:"Ontario Grade 7 Science Earth and Space Systems strand: plate tectonics explains how Earth’s crust is divided into large plates that move slowly over time, a process related to the theory of continental drift.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=2_e0PuPl9js",
    quiz:[
      {q:"Plate tectonics explains how Earth’s crust is divided into ___.", options:["Large plates that move slowly over time","A single, unmoving piece","Only ocean water","Layers of clouds"], answer:0},
      {q:"Continental drift is the theory that ___.", options:["Earth’s crust has no movement at all","Continents have moved and shifted position over millions of years","Only oceans move, never land","Continents have always remained in the exact same position"], answer:1},
@@ -1375,6 +1378,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Cold War and Canada’s Role", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: during the Cold War, Canada aligned with Western allies, participated in organizations like NATO, and played a role in international tensions between the United States and the Soviet Union.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=nPJ2NSWWy50",
    quiz:[
      {q:"During the Cold War, Canada generally aligned with ___.", options:["Western allies","No other countries at all","Only isolated, unrelated nations","The Soviet Union exclusively"], answer:0},
      {q:"NATO is an organization that Canada participated in during ___.", options:["A period before Confederation","Ancient history","A time with no international alliances","The Cold War era"], answer:3},
