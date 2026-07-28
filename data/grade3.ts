@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Writing: Descriptive Writing (Show, Don't Tell)", summary:"Ontario Grade 3 Writing strand: descriptive writing uses sensory details -- sight, sound, smell, touch, taste -- to help readers picture a scene, showing an experience rather than just stating it plainly.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=-U1pBoBOj9w",
    quiz:[
      {q:"The phrase show, don't tell means writers should ___.", options:["Use vivid sensory details to help readers picture the scene","Only use dialogue","State facts plainly with no detail","Avoid describing anything"], answer:0},
      {q:"Which sentence uses more descriptive, showing language?", options:["The dog was a dog.","The dog was happy.","The dog's tail wagged wildly as it barked with joy.","It was a dog, and it was there."], answer:2},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Capacity (Litres and Millilitres)", summary:"Ontario Grade 3 Measurement strand: capacity is how much a container can hold, measured in millilitres (mL) for small amounts and litres (L) for larger amounts.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=b3rcIj-geuY",
    quiz:[
      {q:"Which unit would best measure the capacity of a small juice box?", options:["Metres","Litres","Kilograms","Millilitres"], answer:3},
      {q:"Which unit would best measure the capacity of a bathtub?", options:["Millilitres","Grams","Centimetres","Litres"], answer:3},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Testing and Improving Designs", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: engineers test structures, identify weaknesses, and improve their designs through a repeated process of building, testing, and revising.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=csMLUz-c4wo",
    quiz:[
      {q:"Why do engineers test structures before using them?", options:["Testing is not necessary","To use more materials for no reason","To find weaknesses and make the design safer and stronger","To make the structure look different"], answer:2},
      {q:"The design process typically involves ___.", options:["Guessing with no plan","Building once and never changing it","Planning, building, testing, and improving","Only drawing pictures"], answer:2},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Regions of Canada: Coastal Regions", summary:"Ontario Grade 3 Social Studies People and Environments strand: Canada has coastal regions on the Atlantic (east), Pacific (west), and Arctic (north) oceans, each with unique climates, industries like fishing, and ways of life.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=fxPDsQuVsd8",
    quiz:[
      {q:"Canada has coastlines on which oceans?", options:["Only the Indian Ocean","Only the Pacific","The Atlantic, Pacific, and Arctic Oceans","No oceans"], answer:2},
      {q:"Which industry is common in many Canadian coastal regions?", options:["Space exploration","Desert farming","Coal mining only","Fishing"], answer:3},

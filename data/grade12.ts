@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"English", title:"Writing: Adaptation Analysis -- From Page to Screen", summary:"Grade 12 English strand: analyzing a film adaptation of a literary work involves examining the creative choices made in translating a story from prose to a visual medium, including changes to plot, character, and tone.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=zfKPJHadsRY",
    quiz:[
      {q:"Analyzing a film adaptation involves examining creative choices made in translating a story from prose to ___.", options:["A format entirely unrelated to storytelling","A purely audio format with no visual elements","An identical, unchanged text with no adaptation involved","A visual medium"], answer:3},
      {q:"Which is an example of an element that might change during a book-to-film adaptation?", options:["The complete absence of any creative interpretation","An element that always remains perfectly identical between mediums","The pacing or structure of the plot","A factor entirely unrelated to storytelling choices"], answer:2},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Rational Inequalities: Solving and Graphing", summary:"Grade 12 Advanced Functions strand: solving a rational inequality involves finding the values of x where a rational expression is positive or negative, often using critical values and a sign analysis across intervals.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=ioIXtHlr95c",
    quiz:[
      {q:"Solving a rational inequality involves finding the values of x where the expression is ___.", options:["Always equal to exactly zero","Positive or negative, as specified by the inequality","Undefined across its entire domain","A concept unrelated to the expression’s sign"], answer:1},
      {q:"Critical values for a rational inequality typically come from ___.", options:["A concept unrelated to the rational expression","The y-intercept of the expression exclusively","Only where the numerator equals a specific positive number","Where the numerator or denominator equals zero"], answer:3},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Improper Integrals", summary:"Grade 12 Calculus strand: an improper integral involves either an infinite interval of integration or an integrand that becomes unbounded within the interval, evaluated using limits.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=ND9cEdfCFr0",
    quiz:[
      {q:"An improper integral may involve ___.", options:["An infinite interval of integration","An integrand that is always perfectly well-behaved with no exceptions","A concept unrelated to intervals of integration","Only a finite, clearly bounded interval with no special considerations"], answer:0},
      {q:"Improper integrals are evaluated using ___.", options:["Only basic arithmetic, with no other mathematical tools involved","Simple substitution with no further steps required","Limits","A method entirely unrelated to calculus"], answer:2},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Thermodynamics -- Laws and Applications", summary:"Grade 12 Physics strand: the laws of thermodynamics describe how energy is transferred and transformed, including the principle that energy cannot be created or destroyed and that natural processes tend to increase overall entropy.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=8N1BxHgsoOw",
    quiz:[
      {q:"The first law of thermodynamics states that energy ___.", options:["Cannot be created or destroyed, only transformed","Has no connection to how physical systems behave","Can be permanently destroyed with no trace remaining","Is constantly created from nothing"], answer:0},
      {q:"The second law of thermodynamics relates to the tendency of natural processes to increase overall ___.", options:["Mass","A factor entirely unrelated to energy or disorder","Colour","Entropy"], answer:3},

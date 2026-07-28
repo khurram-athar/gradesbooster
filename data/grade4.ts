@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Figurative Language: Idioms", summary:"Ontario Grade 4 Reading strand: an idiom is a phrase whose meaning cannot be understood from the literal words alone, such as break the ice or it is raining cats and dogs.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=VdKK4gWFO0c",
    quiz:[
      {q:"An idiom is a phrase whose meaning ___.", options:["Is always about weather","Has no meaning at all","Cannot be understood from its literal words alone","Matches its literal words exactly"], answer:2},
      {q:"What does the idiom break the ice mean?", options:["To finish a race","To clean a window","To ease tension and start a conversation","To literally break frozen water"], answer:2},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding and Subtracting Decimals", summary:"Ontario Grade 4 Number strand: adding and subtracting decimals requires lining up the decimal points so digits with the same place value are combined correctly.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=PnwLv6khwk8",
    quiz:[
      {q:"What is 3.25 + 1.50?", options:["4.25","3.75","5.25","4.75"], answer:3},
      {q:"What is 6.80 minus 2.30?", options:["4.10","9.10","4.50","3.50"], answer:2},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Load and Support", summary:"Ontario Grade 4 Science Structures and Mechanisms strand: a load is the weight a structure must support, and good structural design distributes that load evenly to prevent collapse.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=mBHJtWbsiaA",
    quiz:[
      {q:"A load on a structure refers to ___.", options:["The structure's age","The weight the structure must support","The colour of the structure","The material's smell"], answer:1},
      {q:"Why is it important for a structure to distribute load evenly?", options:["It makes the structure heavier for no reason","Even distribution has no benefit","It only matters for small structures","To prevent weak points that could cause collapse"], answer:3},
@@ -1415,14 +1418,15 @@ const curriculum: DayContent[] = [
      {q:"A bridge is designed to safely support the load of ___.", options:["Nothing at all","Vehicles, people, and its own weight","Only light wind","Only itself with nothing on it"], answer:1},
      {q:"What might happen if a structure's support cannot handle its load?", options:["Nothing would happen","The structure could weaken or collapse","The structure would become stronger","The load would disappear"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Early Societies: Beliefs and Traditions", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early societies such as Egypt, Greece, Rome, Mesopotamia, and China developed belief systems, gods, and traditions that shaped their culture, art, and daily practices.",
+  {subject:"SocialStudies", title:"Early Societies: Social Organization and Class Structure", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early societies such as Egypt, Greece, Rome, Mesopotamia, and China organized people into roles and classes -- such as rulers, priests, artisans, and farmers -- with leadership and teamwork shaping how each civilization functioned.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=_j6-Jxx_d9M",
    quiz:[
-     {q:"Many early societies developed belief systems that included ___.", options:["No spiritual practices at all","Gods, traditions, and ceremonies","Only modern religions","Identical beliefs across all civilizations"], answer:1},
-     {q:"Beliefs and traditions in early societies often influenced ___.", options:["Only farming techniques","Art, architecture, and daily practices","Only trade routes","Nothing about daily life"], answer:1},
-     {q:"Why do historians study the belief systems of early societies?", options:["Only written laws matter to historians","It has no historical value","To better understand their culture, values, and way of life","Beliefs have no connection to culture"], answer:2},
-     {q:"Which is an example of how belief systems shaped early societies?", options:["Building temples and monuments for religious purposes","Beliefs only affected modern societies","All societies built the same structures for the same reasons","Beliefs had no effect on architecture"], answer:0},
-     {q:"Comparing beliefs across early societies shows that ___.", options:["Only one early society had any beliefs","Different societies expressed traditions in unique but sometimes similar ways","All beliefs were exactly identical worldwide","Beliefs never varied across regions"], answer:1}
+     {q:"In early societies, a person's job and role often depended on ___.", options:["Where they fit into the community's social organization","Nothing at all","Random daily assignment","Only their age"], answer:0},
+     {q:"Which group might have held leadership responsibilities in an early society?", options:["Rulers or priests","No one held leadership roles","Only children","Visiting travelers"], answer:0},
+     {q:"Social organization in early societies helped communities by ___.", options:["Creating confusion about roles","Coordinating teamwork so different jobs got done","Preventing any cooperation","Eliminating the need for leadership"], answer:1},
+     {q:"Which is an example of a role found in many early societies?", options:["Airline pilot","Software engineer","Artisan or craftsperson","Astronaut"], answer:2},
+     {q:"Comparing social organization across early societies shows that ___.", options:["Only one civilization had any social structure","Communities often organized roles and leadership in similar ways","No early society had rulers","Roles never varied between people"], answer:1}
    ]},
 ]},
 {day:35, label:"Day 35 — Fri", subjects:[

@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Connotation, Denotation, and Word Choice", summary:"Ontario Grade 7 Language strand: denotation is a word’s literal meaning, connotation is the feeling or association it carries, and skilled writers choose words carefully based on both to create a desired effect.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=MemK5a1M8gc",
    quiz:[
      {q:"Denotation refers to ___.", options:["A word’s pronunciation only","A word’s literal, dictionary meaning","The feeling a word suggests","A word’s spelling only"], answer:1},
      {q:"Connotation refers to ___.", options:["A word’s part of speech","The number of syllables in a word","A word’s literal definition only","The feeling or association a word carries beyond its literal meaning"], answer:3},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Similar Triangles and Scale Factor", summary:"Ontario Grade 7 Geometry strand: similar triangles have the same shape but not necessarily the same size, with corresponding sides in proportion according to a consistent scale factor.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=P1f3sJpIYGI",
    quiz:[
      {q:"Similar triangles have ___.", options:["No relationship to each other at all","Different shapes and different sizes","The same shape but not necessarily the same size","Identical size but different shapes"], answer:2},
      {q:"If two triangles are similar with a scale factor of 2, and one side of the smaller triangle is 5 cm, the corresponding side of the larger triangle is ___.", options:["7 cm","5 cm","10 cm","2.5 cm"], answer:2},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Optics: Refraction and Lenses", summary:"Ontario Grade 7 Science Matter and Energy strand: refraction is the bending of light as it passes between materials of different densities, a principle used in lenses to focus or spread out light.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=b_R6t-q4ALc",
    quiz:[
      {q:"Refraction occurs when light ___.", options:["Disappears completely","Turns into sound","Bends as it passes between materials of different densities","Always travels in a perfectly straight line with no change"], answer:2},
      {q:"A lens uses refraction to ___.", options:["Block all light completely","Prevent any light from passing through","Create sound waves","Focus or spread out light"], answer:3},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Quebec’s Quiet Revolution and Canadian Federalism", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: the Quiet Revolution was a period of significant social, political, and economic change in Quebec during the 1960s, which influenced discussions about Canadian federalism.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=_eAGn9VJw5I",
    quiz:[
      {q:"The Quiet Revolution took place mainly during which decade?", options:["1980s","1960s","2000s","1920s"], answer:1},
      {q:"The Quiet Revolution brought significant change to which Canadian province?", options:["Ontario","Quebec","British Columbia","Alberta"], answer:1},

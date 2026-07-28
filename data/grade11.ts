@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"English", title:"Grammar and Style: Advanced Syntax for Impact", summary:"Grade 11 English strand: advanced syntax involves deliberately varying sentence structure and length to create specific effects, such as emphasis, tension, or a particular rhythm in writing.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=O_-XAcdzb6Y",
    quiz:[
      {q:"Advanced syntax involves deliberately varying ___.", options:["Only the topic of a piece of writing","The font used in a written document","A factor unrelated to sentence construction","Sentence structure and length"], answer:3},
      {q:"Why might a writer use a short, abrupt sentence after a series of longer ones?", options:["This technique has no connection to creating emphasis","It can create emphasis or a sense of tension for the reader","Sentence length has no effect on how writing is experienced","Short sentences always weaken the impact of a piece of writing"], answer:1},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Exponential Functions: Modelling Population and Decay", summary:"Grade 11 Functions strand: exponential functions can model population growth, which increases by a consistent percentage rate, and radioactive decay, which decreases by a consistent percentage rate over time.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=4ioO3eDmtyo",
    quiz:[
      {q:"Exponential population growth models a population that increases by ___.", options:["A fixed, identical amount each time period","No growth at all, remaining constant","A consistent percentage rate over time","A completely random and unpredictable amount"], answer:2},
      {q:"Radioactive decay is modelled using an exponential function that ___.", options:["Increases by a fixed amount each time period","Decreases by a consistent percentage rate over time","Remains completely unchanged over time","Changes at a completely random rate"], answer:1},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Physiology: Excretory System and Homeostasis", summary:"Grade 11 Biology strand: the excretory system removes metabolic waste products from the body, playing a key role in maintaining homeostasis by regulating water balance and filtering the blood.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=q5qaGHfdmYM",
    quiz:[
      {q:"The excretory system’s primary role is to ___.", options:["A role entirely unrelated to waste removal","Produce new waste products for the body to use","Remove metabolic waste products from the body","Have no connection to maintaining bodily functions"], answer:2},
      {q:"The excretory system contributes to homeostasis by regulating ___.", options:["A process with no connection to bodily fluids","A factor entirely unrelated to internal body processes","Only external temperature, with no other function","Water balance and filtering the blood"], answer:3},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Solutions: Colligative Properties", summary:"Grade 11 Chemistry strand: colligative properties, such as boiling point elevation and freezing point depression, depend on the number of dissolved particles in a solution rather than their specific identity.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=c8dDLe37ONg",
    quiz:[
      {q:"Colligative properties depend on ___.", options:["A factor unrelated to dissolved substances","The specific chemical identity of the dissolved particles","The number of dissolved particles in a solution","The colour of the solution only"], answer:2},
      {q:"Boiling point elevation refers to ___.", options:["A decrease in a solution’s boiling point compared to the pure solvent","An increase in a solution’s boiling point compared to the pure solvent","No change at all in a solution’s boiling point","A concept unrelated to dissolved substances"], answer:1},

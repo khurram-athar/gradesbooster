@@ -8127,6 +8127,7 @@
         "summary": "Ontario Grade 4 Reading strand: an idiom is a phrase whose meaning cannot be understood from the literal words alone, such as break the ice or it is raining cats and dogs.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=VdKK4gWFO0c",
         "quiz": [
           {
             "q": "An idiom is a phrase whose meaning ___.",
@@ -8186,6 +8187,7 @@
         "summary": "Ontario Grade 4 Number strand: adding and subtracting decimals requires lining up the decimal points so digits with the same place value are combined correctly.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=PnwLv6khwk8",
         "quiz": [
           {
             "q": "What is 3.25 + 1.50?",
@@ -8245,6 +8247,7 @@
         "summary": "Ontario Grade 4 Science Structures and Mechanisms strand: a load is the weight a structure must support, and good structural design distributes that load evenly to prevent collapse.",
         "resourceLabel": "TVO Learn: Grade 4 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=mBHJtWbsiaA",
         "quiz": [
           {
             "q": "A load on a structure refers to ___.",
@@ -8300,58 +8303,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Early Societies: Beliefs and Traditions",
-        "summary": "Ontario Grade 4 Social Studies Heritage and Identity strand: early societies such as Egypt, Greece, Rome, Mesopotamia, and China developed belief systems, gods, and traditions that shaped their culture, art, and daily practices.",
+        "title": "Early Societies: Social Organization and Class Structure",
+        "summary": "Ontario Grade 4 Social Studies Heritage and Identity strand: early societies such as Egypt, Greece, Rome, Mesopotamia, and China organized people into roles and classes -- such as rulers, priests, artisans, and farmers -- with leadership and teamwork shaping how each civilization functioned.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=_j6-Jxx_d9M",
         "quiz": [
           {
-            "q": "Many early societies developed belief systems that included ___.",
+            "q": "In early societies, a person's job and role often depended on ___.",
             "options": [
-              "No spiritual practices at all",
-              "Gods, traditions, and ceremonies",
-              "Only modern religions",
-              "Identical beliefs across all civilizations"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Beliefs and traditions in early societies often influenced ___.",
-            "options": [
-              "Only farming techniques",
-              "Art, architecture, and daily practices",
-              "Only trade routes",
-              "Nothing about daily life"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why do historians study the belief systems of early societies?",
-            "options": [
-              "Only written laws matter to historians",
-              "It has no historical value",
-              "To better understand their culture, values, and way of life",
-              "Beliefs have no connection to culture"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which is an example of how belief systems shaped early societies?",
-            "options": [
-              "Building temples and monuments for religious purposes",
-              "Beliefs only affected modern societies",
-              "All societies built the same structures for the same reasons",
-              "Beliefs had no effect on architecture"
+              "Where they fit into the community's social organization",
+              "Nothing at all",
+              "Random daily assignment",
+              "Only their age"
             ],
             "answer": 0
           },
           {
-            "q": "Comparing beliefs across early societies shows that ___.",
+            "q": "Which group might have held leadership responsibilities in an early society?",
             "options": [
-              "Only one early society had any beliefs",
-              "Different societies expressed traditions in unique but sometimes similar ways",
-              "All beliefs were exactly identical worldwide",
-              "Beliefs never varied across regions"
+              "Rulers or priests",
+              "No one held leadership roles",
+              "Only children",
+              "Visiting travelers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Social organization in early societies helped communities by ___.",
+            "options": [
+              "Creating confusion about roles",
+              "Coordinating teamwork so different jobs got done",
+              "Preventing any cooperation",
+              "Eliminating the need for leadership"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a role found in many early societies?",
+            "options": [
+              "Airline pilot",
+              "Software engineer",
+              "Artisan or craftsperson",
+              "Astronaut"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Comparing social organization across early societies shows that ___.",
+            "options": [
+              "Only one civilization had any social structure",
+              "Communities often organized roles and leadership in similar ways",
+              "No early society had rulers",
+              "Roles never varied between people"
             ],
             "answer": 1
           }

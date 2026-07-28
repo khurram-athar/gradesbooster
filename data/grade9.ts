@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Denotation and Connotation in Persuasive Texts", summary:"Grade 9 Language strand: in persuasive writing, denotation (a word’s literal meaning) and connotation (its associated feeling) are both carefully chosen to influence how an audience responds to an argument.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=vH6mOc9AGuE",
    quiz:[
      {q:"In persuasive writing, connotation is used to ___.", options:["Have no effect on the audience at all","Confuse readers with no clear purpose","Replace the need for any logical argument","Influence how an audience emotionally responds to an argument"], answer:3},
      {q:"Why might a persuasive writer choose the word reckless instead of bold, despite a similar denotation?", options:["Connotation has no role in persuasive writing","The two words have completely different denotations","Word choice never affects a persuasive argument","Reckless carries a more negative connotation, shaping a more critical perspective"], answer:3},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Understanding Credit and Debt", summary:"Grade 9 Financial Literacy strand: credit allows borrowing money to be repaid later, often with interest, and understanding how debt accumulates is essential for making informed financial decisions.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=iSmNwXbNhgQ",
    quiz:[
      {q:"Credit allows a person to ___.", options:["Receive money with no repayment required","Avoid ever needing to repay any borrowed money","Borrow money to be repaid later, often with interest","A concept unrelated to borrowing money"], answer:2},
      {q:"Debt generally refers to ___.", options:["A concept unrelated to borrowing","Money that is owed and must be repaid","Money that has already been fully paid off with nothing owed","Only money that has been saved"], answer:1},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Genetic Mutations and Variation", summary:"Grade 9 Science Biology strand: a genetic mutation is a change in an organism’s DNA sequence, which can introduce new variation into a population and may be neutral, harmful, or beneficial.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=vl6Vlf2thvI",
    quiz:[
      {q:"A genetic mutation is best described as ___.", options:["A change in an organism’s diet only","A change that always immediately kills the organism","A process unrelated to genetics","A change in an organism’s DNA sequence"], answer:3},
      {q:"Mutations can introduce new ___ into a population.", options:["Only harmful effects, with no other possible outcomes","Variation","Complete uniformity with no differences","A concept unrelated to genetics"], answer:1},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Economic Geography: Trade Blocs and Global Markets", summary:"Grade 9 Social Studies (Geography) strand: a trade bloc is a group of countries that agree to reduce trade barriers among themselves, shaping regional economic relationships and global market patterns.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=HfN8BnRJryQ",
    quiz:[
      {q:"A trade bloc is best described as ___.", options:["A group of countries that refuse to trade with each other","A single country acting entirely alone","A group of countries that agree to reduce trade barriers among themselves","A concept unrelated to international trade"], answer:2},
      {q:"Why might countries choose to form a trade bloc?", options:["To create more favourable trading conditions among member countries","Trade blocs provide no economic benefit to member countries","Forming a trade bloc always eliminates all trade","This arrangement has no connection to economic relationships"], answer:0},

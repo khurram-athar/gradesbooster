@@ -1284,6 +1284,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Consonant Blends: bl, cl, fl, gl", summary:"Students learn beginning consonant blends where two consonants join and both sounds are heard, such as bl in black, cl in clap, fl in flag, and gl in glow.",
    resourceLabel:"YouTube: Consonant Blends: bl, cl, fl, gl", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20bl%2C%20cl%2C%20fl%2C%20gl%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=EtnI7JPeCAQ",
    quiz:[
      {q:"Which word begins with the bl blend?", options:["Black","Cat","Dog","Sun"], answer:0},
      {q:"Which word begins with the cl blend?", options:["Cat","Bed","Sun","Clap"], answer:3},
@@ -1298,6 +1299,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition Within 100 (With Regrouping)", summary:"Students add two-digit numbers within 100 that require regrouping a ten when the ones digits add to 10 or more.",
    resourceLabel:"YouTube: Addition Within 100 (With Regrouping)", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Within%20100%20%28With%20Regrouping%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8hz0fAQV0ac",
    quiz:[
      {q:"What is 27 + 15?", options:["43","41","32","42"], answer:3},
      {q:"What is 38 + 26?", options:["54","65","63","64"], answer:3},
@@ -1312,6 +1314,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nocturnal Animals: Creatures of the Night", summary:"Students learn that nocturnal animals, such as owls and bats, are awake and active at night and sleep during the day, often having special senses like keen hearing or eyesight to help them in the dark.",
    resourceLabel:"YouTube: Nocturnal Animals: Creatures of the Night", resourceUrl:"https://www.youtube.com/results?search_query=Nocturnal%20Animals%3A%20Creatures%20of%20the%20Night%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YO6k8sEd_rk",
    quiz:[
      {q:"What do we call an animal that is active mainly at night?", options:["A hibernating animal","A migrating animal","A nocturnal animal","A diurnal animal"], answer:2},
      {q:"Which of these animals is known for being nocturnal?", options:["An owl","A butterfly","A robin","A squirrel"], answer:0},
@@ -1326,6 +1329,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Farms and Where Our Food Comes From", summary:"Students learn that much of our food is grown or raised on farms, where farmers grow crops like wheat and vegetables and raise animals like cows and chickens, before the food travels to stores.",
    resourceLabel:"YouTube: Farms and Where Our Food Comes From", resourceUrl:"https://www.youtube.com/results?search_query=Farms%20and%20Where%20Our%20Food%20Comes%20From%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WazK8e88axE",
    quiz:[
      {q:"Where does much of our food come from before it reaches a store?", options:["A library","A farm","A school","A hospital"], answer:1},
      {q:"Which of these is a crop a farmer might grow?", options:["A television","Wheat","A shoe","A car"], answer:1},

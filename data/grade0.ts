@@ -1284,6 +1284,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Letter N", summary:"Explore uppercase and lowercase N. Students identify the letter, practise its sound, and find words beginning with N such as nest, nut, and net.",
    resourceLabel:"YouTube: Letter N", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20N%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xZx53RedAZ0",
    quiz:[
      {q:"Which word starts with the same sound as nest?", options:["Net","Cat","Dog","Sun"], answer:0},
      {q:"Which letter comes after M in the alphabet?", options:["N","O","P","L"], answer:0},
@@ -1298,6 +1299,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Numbers: More, Less, or Equal", summary:"Students compare two groups of objects and use the words more, less, and equal to describe which group has a greater, smaller, or the same amount.",
    resourceLabel:"YouTube: Comparing Numbers: More, Less, or Equal", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Numbers%3A%20More%2C%20Less%2C%20or%20Equal%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=E34PAOGYRNk",
    quiz:[
      {q:"Which group has more: 3 apples or 5 apples?", options:["5 apples","They are equal","Cannot tell","3 apples"], answer:0},
      {q:"If you have 4 balls and your friend has 4 balls, the amounts are ___.", options:["Unknown","Equal","Less","More"], answer:1},
@@ -1312,6 +1314,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Five Senses: Seeing and Hearing", summary:"Students learn that eyes let us see and ears let us hear. They explore how these two senses help us learn about the world around us.",
    resourceLabel:"YouTube: Five Senses: Seeing and Hearing", resourceUrl:"https://www.youtube.com/results?search_query=Five%20Senses%3A%20Seeing%20and%20Hearing%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=52_w0PIIfjs",
    quiz:[
      {q:"Which body part do we use to see?", options:["Nose","Tongue","Ears","Eyes"], answer:3},
      {q:"Which body part do we use to hear?", options:["Feet","Eyes","Hands","Ears"], answer:3},
@@ -1326,6 +1329,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Getting Around: Types of Transportation", summary:"Students explore different ways people travel, including cars, buses, bikes, trains, and airplanes, and talk about how they get to school or around their community.",
    resourceLabel:"YouTube: Getting Around: Types of Transportation", resourceUrl:"https://www.youtube.com/results?search_query=Getting%20Around%3A%20Types%20of%20Transportation%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=biX7NNxw_w8",
    quiz:[
      {q:"Which vehicle travels on train tracks?", options:["Car","Bicycle","Airplane","Train"], answer:3},
      {q:"Which vehicle can fly in the sky?", options:["Boat","Bicycle","Bus","Airplane"], answer:3},
@@ -5919,6 +5923,586 @@ const curriculum: DayContent[] = [
      {prompt:"What do we call a helper who stops traffic so we can cross the street safely?", answers:["crossing guard"]},
      {prompt:"What do we call the leader who helps make important decisions for all of Canada?", answers:["Prime Minister","the Prime Minister"]},
      {prompt:"What do we call things that people make or grow, like bread or toys?", answers:["goods"]}
+   ]},
+]},
+{day:111, label:"Day 111 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -ub Words", summary:"Kindergarten Language strand: the -ub word family shares the same ending sound, as in cub, rub, tub, and sub.",
+   resourceLabel:"YouTube: Word Families: -ub Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ub%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ub family?", options:["Hat","Bag","Pen","Cub"], answer:3},
+     {q:"Which word rhymes with rub?", options:["Rob","Rap","Rib","Tub"], answer:3},
+     {q:"Which word does NOT belong to the -ub family?", options:["Sub","Tub","Cub","Cap"], answer:3},
+     {q:"Complete the rhyme: The pig sat in the ___.", options:["tub","ten","toe","top"], answer:0},
+     {q:"Word families share the same ___.", options:["First letter","Meaning","Colour","Ending sound"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with tub.", answers:["cub","rub","sub","club"]},
+     {prompt:"What ending sound do cub, rub, and tub share?", answers:["ub","the ub sound"]},
+     {prompt:"Is hub part of the -ub family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Number Bonds: Ways to Make 7", summary:"Kindergarten Math strand: students find different pairs of numbers that combine to make 7, such as 3 and 4, or 5 and 2.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 7", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%207%20kindergarten%20educational",
+   quiz:[
+     {q:"3 + ? = 7", options:["5","4","3","6"], answer:1},
+     {q:"Which pair makes 7?", options:["2 and 4","1 and 4","5 and 2","6 and 2"], answer:2},
+     {q:"6 + ? = 7", options:["1","3","2","0"], answer:0},
+     {q:"Which pair does NOT make 7?", options:["2 and 5","2 and 6","1 and 6","3 and 4"], answer:1},
+     {q:"0 + ? = 7", options:["5","7","6","8"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What two numbers make 7 with 1?", answers:["6","1 and 6"]},
+     {prompt:"What two numbers make 7 with 5?", answers:["2","5 and 2"]},
+     {prompt:"Show one way to make 7.", answers:["3 and 4","0 and 7"]}
+   ]},
+  {subject:"Science", title:"Our Muscles: Helping Us Move", summary:"Kindergarten Science strand: muscles are body parts that help us move, such as when we run, jump, wave, and smile.",
+   resourceLabel:"YouTube: Our Muscles: Helping Us Move", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Muscles%3A%20Helping%20Us%20Move%20kindergarten%20educational",
+   quiz:[
+     {q:"What do muscles help us do?", options:["See colours","Smell food","Move our body","Hear sounds"], answer:2},
+     {q:"Which activity uses your leg muscles?", options:["Listening","Smelling","Running","Reading"], answer:2},
+     {q:"What can make muscles stronger?", options:["Sitting still","Sleeping all day","Watching television","Exercise"], answer:3},
+     {q:"Do your arm muscles help you wave?", options:["Yes","Only in winter","No","Only at night"], answer:0},
+     {q:"Muscles are found ___ your body.", options:["Only in your feet","Only in your face","Only in your hands","All over"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one thing your muscles help you do.", answers:["run","jump","wave","smile"]},
+     {prompt:"Where are muscles found in your body?", answers:["all over","everywhere in the body"]},
+     {prompt:"What happens to muscles when you exercise?", answers:["they get stronger","grow stronger"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Airport Workers: Helping People Travel", summary:"Kindergarten Social Studies strand: airport workers such as pilots, flight attendants, and baggage handlers help people travel safely by air.",
+   resourceLabel:"YouTube: Our Airport Workers: Helping People Travel", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Airport%20Workers%3A%20Helping%20People%20Travel%20kindergarten%20educational",
+   quiz:[
+     {q:"Who flies the airplane?", options:["A chef","A teacher","A pilot","A farmer"], answer:2},
+     {q:"Who helps passengers on the airplane?", options:["A librarian","A mail carrier","A doctor","A flight attendant"], answer:3},
+     {q:"Who carries and loads the suitcases?", options:["A dentist","A vet","A crossing guard","A baggage handler"], answer:3},
+     {q:"An airport is a place where people go to ___.", options:["Play sports","Catch an airplane","Swim","Buy groceries"], answer:1},
+     {q:"Why do we need many different airport workers?", options:["To make travel safe and smooth","Only one worker is needed","Airports have no workers","They do not help anyone"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one worker who helps people at an airport.", answers:["pilot","flight attendant","baggage handler"]},
+     {prompt:"What does a pilot do?", answers:["flies the plane","flies the airplane"]},
+     {prompt:"Why do airports need many workers?", answers:["to help people travel safely","to keep travel safe"]}
+   ]},
+]},
+{day:112, label:"Day 112 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -og Words", summary:"Kindergarten Language strand: the -og word family shares the same ending sound, as in dog, log, fog, and jog.",
+   resourceLabel:"YouTube: Word Families: -og Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-og%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -og family?", options:["Dig","Cat","Sun","Log"], answer:3},
+     {q:"Which word rhymes with fog?", options:["Far","Fun","Jog","Fig"], answer:2},
+     {q:"Which word does NOT belong to the -og family?", options:["Dog","Jug","Jog","Fog"], answer:1},
+     {q:"Complete the rhyme: The frog sat on a ___.", options:["log","let","lap","lid"], answer:0},
+     {q:"Word families help us read new words because they ___.", options:["Have no vowels","Are always short","Look the same colour","Share a spelling pattern"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with dog.", answers:["log","fog","jog"]},
+     {prompt:"What ending sound do dog and log share?", answers:["og","the og sound"]},
+     {prompt:"Is hog part of the -og family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Number Bonds: Ways to Make 8", summary:"Kindergarten Math strand: students find different pairs of numbers that combine to make 8, such as 3 and 5, or 6 and 2.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 8", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%208%20kindergarten%20educational",
+   quiz:[
+     {q:"5 + ? = 8", options:["5","2","3","4"], answer:2},
+     {q:"Which pair makes 8?", options:["3 and 4","6 and 2","7 and 2","5 and 4"], answer:1},
+     {q:"4 + ? = 8", options:["4","5","3","2"], answer:0},
+     {q:"Which pair does NOT make 8?", options:["3 and 5","1 and 7","2 and 6","2 and 5"], answer:3},
+     {q:"0 + ? = 8", options:["6","8","9","7"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What two numbers make 8 with 1?", answers:["7","1 and 7"]},
+     {prompt:"What two numbers make 8 with 4?", answers:["4","4 and 4"]},
+     {prompt:"Show one way to make 8.", answers:["5 and 3","2 and 6"]}
+   ]},
+  {subject:"Science", title:"Woodland Animals: Squirrels, Deer, and Foxes", summary:"Kindergarten Science strand: woodland animals such as squirrels, deer, and foxes live in forests and have features that help them survive there.",
+   resourceLabel:"YouTube: Woodland Animals: Squirrels, Deer, and Foxes", resourceUrl:"https://www.youtube.com/results?search_query=Woodland%20Animals%3A%20Squirrels%2C%20Deer%2C%20and%20Foxes%20kindergarten%20educational",
+   quiz:[
+     {q:"Which animal lives in the forest?", options:["Camel","Whale","Squirrel","Shark"], answer:2},
+     {q:"What do squirrels gather and store for winter?", options:["Seaweed","Nuts","Sand","Fish"], answer:1},
+     {q:"What helps a fox move quietly through the woods?", options:["Its soft paws","Its size","Its bright colour","Its loud voice"], answer:0},
+     {q:"Deer often live in groups called ___.", options:["Schools","Packs","Herds","Flocks"], answer:2},
+     {q:"Why do woodland animals have fur coats?", options:["To glow at night","To stay warm","To fly higher","To swim faster"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one animal that lives in the woods.", answers:["squirrel","deer","fox"]},
+     {prompt:"What do squirrels often collect and store?", answers:["nuts","acorns"]},
+     {prompt:"Why do woodland animals have fur?", answers:["to stay warm","keeps them warm"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Coast Guard: Helping on the Water", summary:"Kindergarten Social Studies strand: the coast guard helps keep people safe on lakes, rivers, and oceans, including rescuing boats in trouble.",
+   resourceLabel:"YouTube: Our Coast Guard: Helping on the Water", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Coast%20Guard%3A%20Helping%20on%20the%20Water%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does the coast guard mostly work?", options:["Underground","In a classroom","On the water","In the sky"], answer:2},
+     {q:"What might the coast guard do for a boat in trouble?", options:["Paint it","Ignore it","Rescue it","Sell it"], answer:2},
+     {q:"The coast guard helps keep people safe on ___.", options:["Water","Farms","Roads","Playgrounds"], answer:0},
+     {q:"Which is a job of the coast guard?", options:["Fixing cars","Teaching school","Baking bread","Watching for boats in danger"], answer:3},
+     {q:"Why do communities near water need a coast guard?", options:["Only for fun","To help keep people safe there","Water needs no safety helpers","To sell fish"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does the coast guard help with?", answers:["keeping people safe on water","water safety"]},
+     {prompt:"Where does the coast guard work?", answers:["on the water","lakes and oceans"]},
+     {prompt:"Why is water safety important?", answers:["to keep people safe","so no one gets hurt"]}
+   ]},
+]},
+{day:113, label:"Day 113 — Wed", subjects:[
+  {subject:"Language", title:"Vowel Teams: ai and ee", summary:"Kindergarten Language strand: some long vowel sounds are spelled with two vowels together, called a vowel team, such as ai in rain and ee in bee.",
+   resourceLabel:"YouTube: Vowel Teams: ai and ee", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ai%20and%20ee%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the ai vowel team?", options:["Rib","Run","Red","Rain"], answer:3},
+     {q:"Which word has the ee vowel team?", options:["Bee","Bag","Bed","Big"], answer:0},
+     {q:"What sound does ai make in rain?", options:["Long e","Long a","Short e","Short a"], answer:1},
+     {q:"What sound does ee make in tree?", options:["Short i","Short e","Long e","Long a"], answer:2},
+     {q:"A vowel team is ___.", options:["A number","One consonant alone","Two vowels working together","A silent letter"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a word with the ai vowel team.", answers:["rain","sail","pail"]},
+     {prompt:"Name a word with the ee vowel team.", answers:["bee","see","tree"]},
+     {prompt:"What sound does ai usually make?", answers:["long a","the long a sound"]}
+   ]},
+  {subject:"Math", title:"Comparing Sets: Same Number or Different", summary:"Kindergarten Math strand: students compare two small groups of objects to decide whether they have the same number or a different number.",
+   resourceLabel:"YouTube: Comparing Sets: Same Number or Different", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Sets%3A%20Same%20Number%20or%20Different%20kindergarten%20educational",
+   quiz:[
+     {q:"A group of 5 apples and a group of 5 oranges have ___.", options:["Too many","The same number","No fruit","Different numbers"], answer:1},
+     {q:"A group of 3 and a group of 6 have ___.", options:["Zero","Different numbers","The same number","One"], answer:1},
+     {q:"How do we compare two groups?", options:["Colour them","Guess","Ignore them","Count each group"], answer:3},
+     {q:"Which pair has the same number?", options:["2 and 5","4 and 4","1 and 3","6 and 2"], answer:1},
+     {q:"If both groups have 6 objects, they are ___.", options:["Empty","Equal","Unequal","Missing"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If one group has 4 dots and another has 4 dots, are they the same?", answers:["yes","yes the same"]},
+     {prompt:"If one group has 3 dots and another has 5 dots, are they different?", answers:["yes","yes different"]},
+     {prompt:"How can you check if two groups have the same number?", answers:["count each group","count both"]}
+   ]},
+  {subject:"Science", title:"Puddles: Where Does Rainwater Go?", summary:"Kindergarten Science strand: after it rains, water collects in puddles, then slowly soaks into the ground or evaporates into the air.",
+   resourceLabel:"YouTube: Puddles: Where Does Rainwater Go?", resourceUrl:"https://www.youtube.com/results?search_query=Puddles%3A%20Where%20Does%20Rainwater%20Go%3F%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does rain often collect on the ground?", options:["In puddles","In trees","In clouds","In the sky"], answer:0},
+     {q:"What can happen to a puddle on a warm sunny day?", options:["It evaporates and dries up","It turns into a river","It turns to ice","It grows bigger forever"], answer:0},
+     {q:"Some puddle water soaks into the ___.", options:["Sky","Sun","Wind","Ground"], answer:3},
+     {q:"What word means water turning into vapour in the air?", options:["Melting","Sinking","Evaporation","Freezing"], answer:2},
+     {q:"Puddles usually form after ___.", options:["Snowmen","Wind only","Rain","Sunshine only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Where does rainwater collect after a storm?", answers:["in puddles","puddles"]},
+     {prompt:"What happens to a puddle after a sunny day?", answers:["it dries up","evaporates"]},
+     {prompt:"Name one place puddle water can go.", answers:["into the ground","into the air"]}
+   ]},
+  {subject:"SocialStudies", title:"Seasons Around the World: Not Everywhere Has Snow", summary:"Kindergarten Social Studies strand: different places around the world have different weather and seasons; some places are always warm and never see snow.",
+   resourceLabel:"YouTube: Seasons Around the World: Not Everywhere Has Snow", resourceUrl:"https://www.youtube.com/results?search_query=Seasons%20Around%20the%20World%3A%20Not%20Everywhere%20Has%20Snow%20kindergarten%20educational",
+   quiz:[
+     {q:"Do all countries have snowy winters?", options:["Only Canada has weather","Snow falls everywhere equally","Yes, every country","No, some places stay warm"], answer:3},
+     {q:"Why might someone in a warm country never see snow?", options:["Snow is not real","Their weather stays warm all year","They have no seasons at all","They do not like snow"], answer:1},
+     {q:"People dress differently around the world mostly because of ___.", options:["Their favourite colour","Random choices","Different weather and climates","School rules"], answer:2},
+     {q:"Which clothing suits a very warm place?", options:["Mittens","Light, cool clothing","Snow boots","A heavy winter coat"], answer:1},
+     {q:"Learning about weather around the world helps us understand ___.", options:["That snow falls everywhere","Nothing important","That everyone lives the same way","That places can be very different"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Do all places in the world get snow?", answers:["no","not all places"]},
+     {prompt:"Name a kind of place that is always warm.", answers:["a hot country","near the equator"]},
+     {prompt:"Why might people dress differently in different countries?", answers:["different weather","the weather is different there"]}
+   ]},
+]},
+{day:114, label:"Day 114 — Thu", subjects:[
+  {subject:"Language", title:"R-Controlled Vowels: ar and or", summary:"Kindergarten Language strand: when a vowel is followed by the letter r, the vowel sound changes, as in car (ar) and for (or).",
+   resourceLabel:"YouTube: R-Controlled Vowels: ar and or", resourceUrl:"https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20ar%20and%20or%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the ar sound?", options:["Can","Cat","Cap","Car"], answer:3},
+     {q:"Which word has the or sound?", options:["For","Fun","Fin","Fan"], answer:0},
+     {q:"What letter after a vowel often changes its sound?", options:["t","s","r","m"], answer:2},
+     {q:"Which word does NOT have the ar sound?", options:["Star","Car","Far","Cot"], answer:3},
+     {q:"In the word corn, which two letters make the or sound?", options:["co","or","cn","rn"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word with the ar sound, like in car.", answers:["car","star","far"]},
+     {prompt:"Name a word with the or sound, like in for.", answers:["for","corn","fort"]},
+     {prompt:"What letter changes the vowel sound in car?", answers:["r","the letter r"]}
+   ]},
+  {subject:"Math", title:"Measurement: Comparing Length with a String", summary:"Kindergarten Math strand: students use a piece of string to measure and compare the length of different objects, such as a book or a table.",
+   resourceLabel:"YouTube: Measurement: Comparing Length with a String", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Length%20with%20a%20String%20kindergarten%20educational",
+   quiz:[
+     {q:"What can a piece of string help us measure?", options:["Length","Taste","Sound","Colour"], answer:0},
+     {q:"To compare two objects with string, we check which one is ___.", options:["Longer or shorter","Heavier","Colder","Louder"], answer:0},
+     {q:"If a table needs a longer string than a book, the table is ___.", options:["Lighter","Shorter","Longer","The same size"], answer:2},
+     {q:"Why is string a useful measuring tool for young learners?", options:["It never breaks","It can bend around objects","It tells the time","It can weigh things"], answer:1},
+     {q:"Comparing length means finding out which object is ___.", options:["Louder","Bigger or smaller in size","Tastier","A different colour"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What tool can you use to measure length in this lesson?", answers:["string","a piece of string"]},
+     {prompt:"If a string wraps around the book two times, what does that tell you?", answers:["the book is that long","about its length"]},
+     {prompt:"Name something in your home you could measure with string.", answers:["a table","a book"]}
+   ]},
+  {subject:"Science", title:"Owls: Hunters of the Night", summary:"Kindergarten Science strand: owls are birds that are awake at night, have excellent hearing, and can turn their heads to look around.",
+   resourceLabel:"YouTube: Owls: Hunters of the Night", resourceUrl:"https://www.youtube.com/results?search_query=Owls%3A%20Hunters%20of%20the%20Night%20kindergarten%20educational",
+   quiz:[
+     {q:"Owls are mostly active ___.", options:["Never","Underwater","During the day","At night"], answer:3},
+     {q:"What helps owls hunt well in the dark?", options:["Long tails","Excellent hearing","Bright colours","Loud singing"], answer:1},
+     {q:"An animal that is awake mostly at night is called ___.", options:["Migratory","Aquatic","Nocturnal","Diurnal"], answer:2},
+     {q:"Owls can turn their heads to ___.", options:["Breathe underwater","Fly faster","Change colour","Look around without moving their body"], answer:3},
+     {q:"What might an owl eat?", options:["Small animals like mice","Only fruit","Rocks","Only leaves"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"When are owls usually awake?", answers:["at night","nighttime"]},
+     {prompt:"What sense helps owls hunt in the dark?", answers:["hearing","good hearing"]},
+     {prompt:"Name one thing owls eat.", answers:["mice","small animals"]}
+   ]},
+  {subject:"SocialStudies", title:"Sharing Chores: Helping as a Family Team", summary:"Kindergarten Social Studies strand: family members share chores, such as cleaning up or setting the table, working together as a team at home.",
+   resourceLabel:"YouTube: Sharing Chores: Helping as a Family Team", resourceUrl:"https://www.youtube.com/results?search_query=Sharing%20Chores%3A%20Helping%20as%20a%20Family%20Team%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a chore?", options:["A game","A job or task to help at home","A holiday","A snack"], answer:1},
+     {q:"Why do families share chores?", options:["To make more mess","Chores are not helpful","To help each other and work as a team","Only grown-ups should help"], answer:2},
+     {q:"Which is an example of a chore?", options:["Sleeping","Watching television","Playing outside","Setting the table"], answer:3},
+     {q:"How might a family feel when everyone helps with chores?", options:["Proud and happy","Bored","Angry","Confused"], answer:0},
+     {q:"Doing chores can teach children to be ___.", options:["Responsible","Lazy","Careless","Unkind"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one chore you can do at home.", answers:["clean up","set the table"]},
+     {prompt:"Why do families share chores?", answers:["to help each other","work as a team"]},
+     {prompt:"How do you feel when you help at home?", answers:["happy","proud"]}
+   ]},
+]},
+{day:115, label:"Day 115 — Fri", subjects:[
+  {subject:"Language", title:"Plural Nouns: Adding -s to Show More Than One", summary:"Kindergarten Language strand: adding -s to the end of most nouns shows that there is more than one, such as changing cat to cats.",
+   resourceLabel:"YouTube: Plural Nouns: Adding -s to Show More Than One", resourceUrl:"https://www.youtube.com/results?search_query=Plural%20Nouns%3A%20Adding%20-s%20to%20Show%20More%20Than%20One%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we add to most nouns to show more than one?", options:["ing","er","s","ed"], answer:2},
+     {q:"What is the plural of cup?", options:["Cupp","Cup","Cups","Cupes"], answer:2},
+     {q:"Which word means more than one bird?", options:["Birding","Birds","Birdy","Bird"], answer:1},
+     {q:"A plural noun means ___.", options:["An action","A colour","Only one thing","More than one thing"], answer:3},
+     {q:"What is the plural of hat?", options:["Hats","Hatting","Hates","Hat"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we add to cat to show more than one?", answers:["s","add an s"]},
+     {prompt:"What is the plural of dog?", answers:["dogs","dogs, adding s"]},
+     {prompt:"What is the plural of book?", answers:["books","books with an s"]}
+   ]},
+  {subject:"Math", title:"2D Shapes: Oval and Diamond", summary:"Kindergarten Math strand: students identify and describe two new flat shapes, the oval, which looks like a stretched circle, and the diamond, which has four pointed sides.",
+   resourceLabel:"YouTube: 2D Shapes: Oval and Diamond", resourceUrl:"https://www.youtube.com/results?search_query=2D%20Shapes%3A%20Oval%20and%20Diamond%20kindergarten%20educational",
+   quiz:[
+     {q:"Which shape looks like a stretched circle?", options:["Oval","Triangle","Rectangle","Square"], answer:0},
+     {q:"How many points does a diamond shape have?", options:["2","4","3","5"], answer:1},
+     {q:"Which real object is shaped like an oval?", options:["An egg","A book","A brick","A ball"], answer:0},
+     {q:"A diamond shape has four ___.", options:["Wheels","Pointed sides","Circles","Colours"], answer:1},
+     {q:"Which shape has no straight sides?", options:["Diamond","Square","Oval","Triangle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a shape that looks like a stretched circle.", answers:["oval","an oval"]},
+     {prompt:"How many points does a diamond have?", answers:["4","four"]},
+     {prompt:"Name something shaped like an oval.", answers:["an egg","a football"]}
+   ]},
+  {subject:"Science", title:"Penguins: Birds That Cannot Fly", summary:"Kindergarten Science strand: penguins are birds with wings shaped like flippers that help them swim, though they cannot fly through the air.",
+   resourceLabel:"YouTube: Penguins: Birds That Cannot Fly", resourceUrl:"https://www.youtube.com/results?search_query=Penguins%3A%20Birds%20That%20Cannot%20Fly%20kindergarten%20educational",
+   quiz:[
+     {q:"Can penguins fly like most other birds?", options:["Yes","No","Only in summer","Only babies fly"], answer:1},
+     {q:"What are penguin wings shaped like?", options:["Leaves","Flippers","Umbrellas","Fans"], answer:1},
+     {q:"What do penguins use their flipper wings for?", options:["Climbing trees","Digging tunnels","Flying high","Swimming"], answer:3},
+     {q:"Penguins are still classified as ___ even though they cannot fly.", options:["Fish","Birds","Reptiles","Mammals"], answer:1},
+     {q:"Many penguins live in ___ places.", options:["Rainforest","Cold, icy","Sandy desert","Very hot"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Can penguins fly?", answers:["no","no they cannot"]},
+     {prompt:"What do penguins use their wings for instead of flying?", answers:["swimming","to swim"]},
+     {prompt:"Where do many penguins live?", answers:["cold places","near icy water"]}
+   ]},
+  {subject:"SocialStudies", title:"Being a Leader: Taking Turns to Lead", summary:"Kindergarten Social Studies strand: leaders help guide a group, and everyone can practise being a leader by taking turns leading a line or a game.",
+   resourceLabel:"YouTube: Being a Leader: Taking Turns to Lead", resourceUrl:"https://www.youtube.com/results?search_query=Being%20a%20Leader%3A%20Taking%20Turns%20to%20Lead%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a leader do for a group?", options:["Ignores them","Confuses them","Leaves them alone","Guides and helps them"], answer:3},
+     {q:"Which is an example of leading at school?", options:["Refusing to share","Ignoring the teacher","Leading the line to the gym","Sitting alone"], answer:2},
+     {q:"Why should everyone get a turn to be leader?", options:["Only some people should lead","It is fair and everyone learns","It does not matter","Leaders are always the same person"], answer:1},
+     {q:"A good leader treats classmates with ___.", options:["Respect","Unkindness","Silence","Confusion"], answer:0},
+     {q:"Taking turns leading helps children practise ___.", options:["Responsibility","Being unfair","Ignoring others","Hiding"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a leader?", answers:["someone who guides others","a person who leads"]},
+     {prompt:"Name a time you might be a leader at school.", answers:["leading a line","leading a game"]},
+     {prompt:"Why is it good to take turns leading?", answers:["everyone gets a chance","fair for everyone"]}
+   ]},
+]},
+{day:116, label:"Day 116 — Mon", subjects:[
+  {subject:"Language", title:"Pronouns: I, You, He, and She", summary:"Kindergarten Language strand: pronouns like I, you, he, and she take the place of a persons name in a sentence, such as saying she instead of Maria.",
+   resourceLabel:"YouTube: Pronouns: I, You, He, and She", resourceUrl:"https://www.youtube.com/results?search_query=Pronouns%3A%20I%2C%20You%2C%20He%2C%20and%20She%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word could replace a boys name in a sentence?", options:["She","It","He","They"], answer:2},
+     {q:"Which word could replace a girls name in a sentence?", options:["We","He","She","It"], answer:2},
+     {q:"Which pronoun do you use to talk about yourself?", options:["You","He","She","I"], answer:3},
+     {q:"A pronoun takes the place of a ___.", options:["Verb","Colour","Number","Persons name"], answer:3},
+     {q:"Which sentence uses a pronoun?", options:["Maria runs fast.","The dog barks.","She runs fast.","Run fast now."], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What pronoun could replace the name Sam if Sam is a boy?", answers:["he","he can"]},
+     {prompt:"What pronoun do you use to talk about yourself?", answers:["I","I do"]},
+     {prompt:"What pronoun could replace Maria if Maria is a girl?", answers:["she","she is"]}
+   ]},
+  {subject:"Math", title:"Time: Yesterday, Today, and Tomorrow", summary:"Kindergarten Math strand: students use a simple calendar to talk about yesterday, today, and tomorrow, building an understanding of the passing of time.",
+   resourceLabel:"YouTube: Time: Yesterday, Today, and Tomorrow", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Yesterday%2C%20Today%2C%20and%20Tomorrow%20kindergarten%20educational",
+   quiz:[
+     {q:"The day right before today is called ___.", options:["Tomorrow","Yesterday","Next week","Today"], answer:1},
+     {q:"The day right after today is called ___.", options:["Tomorrow","Last week","Yesterday","Today"], answer:0},
+     {q:"What word means the current day?", options:["Yesterday","Tomorrow","Never","Today"], answer:3},
+     {q:"If today is Tuesday, what was yesterday?", options:["Thursday","Sunday","Monday","Wednesday"], answer:2},
+     {q:"If today is Tuesday, what is tomorrow?", options:["Wednesday","Monday","Friday","Sunday"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What day comes right before today?", answers:["yesterday","yesterday does"]},
+     {prompt:"What day comes right after today?", answers:["tomorrow","tomorrow does"]},
+     {prompt:"What is the word for the day we are in right now?", answers:["today","today is now"]}
+   ]},
+  {subject:"Science", title:"Volcanoes: Mountains That Erupt", summary:"Kindergarten Science strand: a volcano is a mountain that can erupt, sending hot melted rock called lava out from deep inside the Earth.",
+   resourceLabel:"YouTube: Volcanoes: Mountains That Erupt", resourceUrl:"https://www.youtube.com/results?search_query=Volcanoes%3A%20Mountains%20That%20Erupt%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a volcano?", options:["A mountain that can erupt","An ocean current","A kind of animal","A type of cloud"], answer:0},
+     {q:"What hot melted rock can come out of an erupting volcano?", options:["Sand","Lava","Snow","Ice"], answer:1},
+     {q:"Where does lava come from?", options:["The ocean surface","Deep inside the Earth","Outer space","The clouds"], answer:1},
+     {q:"When a volcano sends out lava, ash, and gas, we say it is ___.", options:["Erupting","Sleeping","Floating","Melting"], answer:0},
+     {q:"A volcano is best described as a kind of ___.", options:["Mountain","Cloud","River","Lake"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What comes out of a volcano when it erupts?", answers:["lava","hot melted rock"]},
+     {prompt:"Is a volcano a type of mountain?", answers:["yes","yes it is"]},
+     {prompt:"Where does lava come from?", answers:["inside the Earth","deep underground"]}
+   ]},
+  {subject:"SocialStudies", title:"Our School Bus Driver: Getting Us There Safely", summary:"Kindergarten Social Studies strand: the school bus driver is a community helper who drives students safely to and from school every day.",
+   resourceLabel:"YouTube: Our School Bus Driver: Getting Us There Safely", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Bus%20Driver%3A%20Getting%20Us%20There%20Safely%20kindergarten%20educational",
+   quiz:[
+     {q:"Who is responsible for driving the school bus?", options:["The principal","A parent only","The bus driver","A student"], answer:2},
+     {q:"What is the main job of a bus driver?", options:["Teach lessons","Drive students safely","Clean classrooms","Cook lunch"], answer:1},
+     {q:"Which is a good bus safety rule?", options:["Staying seated and quiet","Standing up while the bus moves","Yelling loudly","Sticking arms out the window"], answer:0},
+     {q:"Why should students listen to the bus driver?", options:["It does not matter","Drivers give no instructions","Only for fun","To stay safe on the ride"], answer:3},
+     {q:"A bus driver helps the school community by ___.", options:["Fixing computers","Selling snacks","Getting students there safely","Grading homework"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Who drives the school bus?", answers:["the bus driver","a bus driver"]},
+     {prompt:"What is the bus drivers job?", answers:["drive us safely","take students to school"]},
+     {prompt:"Name one rule for riding the bus safely.", answers:["stay seated","listen to the driver"]}
+   ]},
+]},
+{day:117, label:"Day 117 — Tue", subjects:[
+  {subject:"Language", title:"Position Words in Stories: In, On, and Under", summary:"Kindergarten Language strand: authors use position words like in, on, and under to help readers picture exactly where something is happening.",
+   resourceLabel:"YouTube: Position Words in Stories: In, On, and Under", resourceUrl:"https://www.youtube.com/results?search_query=Position%20Words%20in%20Stories%3A%20In%2C%20On%2C%20and%20Under%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is a position word?", options:["Under","Blue","Quickly","Happy"], answer:0},
+     {q:"If a ball is on the chair, where is the ball?", options:["On top of the chair","Inside the chair","Under the chair","Behind the chair"], answer:0},
+     {q:"If a shoe is under the bed, where is it?", options:["Below the bed","Inside the closet","Beside the bed","On the bed"], answer:0},
+     {q:"Position words help readers ___.", options:["Sing songs","Count objects","Learn colours","Picture where things are"], answer:3},
+     {q:"Which sentence uses a position word?", options:["The dog is in the box.","The dog is happy.","The dog barks loudly.","The dog is brown."], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Give an example of a position word.", answers:["in","on","under"]},
+     {prompt:"If a cat is under the table, where is it?", answers:["under the table","below the table"]},
+     {prompt:"Why do stories use position words?", answers:["to show where things are","help us picture the scene"]}
+   ]},
+  {subject:"Math", title:"Addition Stories to 10: Joining Two Groups", summary:"Kindergarten Math strand: students act out and solve simple addition stories to 10, such as joining a group of 3 toys with a group of 4 toys.",
+   resourceLabel:"YouTube: Addition Stories to 10: Joining Two Groups", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20Stories%20to%2010%3A%20Joining%20Two%20Groups%20kindergarten%20educational",
+   quiz:[
+     {q:"You have 4 apples and get 3 more. How many apples now?", options:["5","8","6","7"], answer:3},
+     {q:"A story says 2 birds join 5 birds. How many birds altogether?", options:["8","6","9","7"], answer:3},
+     {q:"Which word in a story often means to add?", options:["Altogether","Less","Take away","Fewer"], answer:0},
+     {q:"You have 5 blocks and get 5 more. How many blocks now?", options:["11","8","10","9"], answer:2},
+     {q:"3 fish join 4 fish in a pond. How many fish are there now?", options:["8","5","6","7"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If you have 3 toys and get 2 more, how many toys do you have?", answers:["5","five"]},
+     {prompt:"If you join a group of 4 and a group of 4, how many is that?", answers:["8","eight"]},
+     {prompt:"What action word tells you to add in a story?", answers:["join","more","altogether"]}
+   ]},
+  {subject:"Science", title:"Ice and Snow: Water Becomes Solid", summary:"Kindergarten Science strand: when water gets very cold, it freezes and changes into a solid called ice or snow.",
+   resourceLabel:"YouTube: Ice and Snow: Water Becomes Solid", resourceUrl:"https://www.youtube.com/results?search_query=Ice%20and%20Snow%3A%20Water%20Becomes%20Solid%20kindergarten%20educational",
+   quiz:[
+     {q:"What happens to water when it gets very cold?", options:["It boils","It disappears","It freezes into ice","It turns green"], answer:2},
+     {q:"Ice and snow are both examples of water in what state?", options:["Solid","Steam","Liquid","Gas"], answer:0},
+     {q:"What causes liquid water to turn into ice?", options:["Sunlight only","Wind","Very cold temperatures","Very hot temperatures"], answer:2},
+     {q:"What happens when ice warms up?", options:["It disappears forever","It stays the same","It turns into rock","It melts back into water"], answer:3},
+     {q:"Snowflakes are a form of frozen ___.", options:["Water","Sand","Air","Soil"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does water become when it freezes?", answers:["ice","ice or snow"]},
+     {prompt:"What causes water to freeze?", answers:["getting very cold","cold temperature"]},
+     {prompt:"What happens to ice when it warms up?", answers:["it melts","it turns back to water"]}
+   ]},
+  {subject:"SocialStudies", title:"Land Acknowledgement: Honouring Indigenous Land", summary:"Kindergarten Social Studies strand: a land acknowledgement is a respectful way of recognizing that Indigenous peoples have cared for the land for a very long time.",
+   resourceLabel:"YouTube: Land Acknowledgement: Honouring Indigenous Land", resourceUrl:"https://www.youtube.com/results?search_query=Land%20Acknowledgement%3A%20Honouring%20Indigenous%20Land%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a land acknowledgement?", options:["A type of map","A song","A respectful way to recognize Indigenous peoples and land","A holiday"], answer:2},
+     {q:"Who has cared for the land for a very long time?", options:["No one","Only animals","Only recent visitors","Indigenous peoples"], answer:3},
+     {q:"Why might a school share a land acknowledgement?", options:["To show respect and remembrance","It has no meaning","Just for fun","To confuse students"], answer:0},
+     {q:"A land acknowledgement is often shared ___.", options:["At the start of an event or gathering","Only by animals","Never","Only in winter"], answer:0},
+     {q:"Learning about Indigenous peoples helps us understand ___.", options:["Only other countries","Nothing important","Only modern cities","Canadas history and the first peoples of the land"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a land acknowledgement recognize?", answers:["Indigenous peoples and the land","that Indigenous peoples cared for the land"]},
+     {prompt:"Who has lived on and cared for the land for a very long time?", answers:["Indigenous peoples","First Peoples"]},
+     {prompt:"Why do communities share a land acknowledgement?", answers:["to show respect","to be respectful"]}
+   ]},
+]},
+{day:118, label:"Day 118 — Wed", subjects:[
+  {subject:"Language", title:"Story Retelling with a Beginning, Middle, and End Picture", summary:"Kindergarten Language strand: students retell a story by drawing or describing what happened at the beginning, the middle, and the end.",
+   resourceLabel:"YouTube: Story Retelling with a Beginning, Middle, and End Picture", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Retelling%20with%20a%20Beginning%2C%20Middle%2C%20and%20End%20Picture%20kindergarten%20educational",
+   quiz:[
+     {q:"What are the three parts used to retell a story?", options:["Big, medium, small","Title, author, cover","Loud, quiet, silent","Beginning, middle, end"], answer:3},
+     {q:"What usually happens at the beginning of a story?", options:["The story ends","The problem is solved","Nothing happens","We meet the characters and setting"], answer:3},
+     {q:"What usually happens in the middle of a story?", options:["The title is shown","Something happens or a problem appears","The book closes","The characters are introduced"], answer:1},
+     {q:"What usually happens at the end of a story?", options:["The book begins","The setting is shown","The characters are introduced","The problem is solved"], answer:3},
+     {q:"Retelling a story in order helps us ___.", options:["Change the ending","Forget the story","Understand and remember it","Draw a random picture"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What are the three parts of a story we retell?", answers:["beginning, middle, end","beginning, middle, and end"]},
+     {prompt:"What happens in the beginning of a story?", answers:["characters and setting are introduced","we meet the characters"]},
+     {prompt:"What happens at the end of a story?", answers:["the problem is solved","the ending happens"]}
+   ]},
+  {subject:"Math", title:"Subtraction Stories to 10: Taking Away", summary:"Kindergarten Math strand: students act out and solve simple subtraction stories to 10, such as taking 2 away from a group of 6.",
+   resourceLabel:"YouTube: Subtraction Stories to 10: Taking Away", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Stories%20to%2010%3A%20Taking%20Away%20kindergarten%20educational",
+   quiz:[
+     {q:"You have 7 grapes and eat 3. How many are left?", options:["3","4","6","5"], answer:1},
+     {q:"A story says 9 ducks swim away, leaving 4. How many ducks were there before?", options:["14","13","12","11"], answer:1},
+     {q:"Which word often signals subtraction in a story?", options:["Altogether","More","Left","Join"], answer:2},
+     {q:"You have 10 stickers and give away 4. How many do you have now?", options:["6","5","8","7"], answer:0},
+     {q:"8 birds are on a branch, then 5 fly away. How many birds are left?", options:["5","2","4","3"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If you have 6 cookies and eat 2, how many are left?", answers:["4","four"]},
+     {prompt:"If you have 8 balloons and 3 pop, how many are left?", answers:["5","five"]},
+     {prompt:"What word in a story often means subtract?", answers:["left","take away"]}
+   ]},
+  {subject:"Science", title:"Coral Reefs: A Colourful Ocean Home", summary:"Kindergarten Science strand: coral reefs are colourful underwater habitats built by tiny living creatures called coral, home to many fish and sea animals.",
+   resourceLabel:"YouTube: Coral Reefs: A Colourful Ocean Home", resourceUrl:"https://www.youtube.com/results?search_query=Coral%20Reefs%3A%20A%20Colourful%20Ocean%20Home%20kindergarten%20educational",
+   quiz:[
+     {q:"What builds a coral reef?", options:["Fish","Rocks alone","Plants alone","Tiny living creatures called coral"], answer:3},
+     {q:"Coral reefs are found ___.", options:["On mountains","In forests","Underwater in the ocean","In deserts"], answer:2},
+     {q:"What lives among the colourful coral in a reef?", options:["Only birds","Nothing lives there","Many fish and sea animals","Only insects"], answer:2},
+     {q:"What word describes the many bright colours of a coral reef?", options:["Colourless","Grey","Dull","Colourful"], answer:3},
+     {q:"Why are coral reefs important habitats?", options:["They stay empty","They give a home to many sea creatures","They are not important","They only exist on land"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What builds a coral reef?", answers:["coral","tiny living creatures"]},
+     {prompt:"What lives in a coral reef?", answers:["fish and sea animals","many sea creatures"]},
+     {prompt:"Are coral reefs found in the ocean?", answers:["yes","yes in the ocean"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadas Territories: The Far North", summary:"Kindergarten Social Studies strand: in addition to provinces, Canada has three territories in the far north, which have cold weather and unique communities.",
+   resourceLabel:"YouTube: Canadas Territories: The Far North", resourceUrl:"https://www.youtube.com/results?search_query=Canadas%20Territories%3A%20The%20Far%20North%20kindergarten%20educational",
+   quiz:[
+     {q:"Besides provinces, Canada also has three ___.", options:["Oceans","Capitals","Territories","Islands only"], answer:2},
+     {q:"Canadas territories are located in the ___.", options:["Far north","Far south","Far east only","Middle of the ocean"], answer:0},
+     {q:"What kind of weather is common in Canadas far north?", options:["Always rainy","Always dry desert","Very cold","Very hot"], answer:2},
+     {q:"Why might communities in the north look different from southern cities?", options:["Weather does not matter","The cold climate shapes how people live","They are exactly the same","The north has no people"], answer:1},
+     {q:"Learning about Canadas territories helps us understand ___.", options:["Nothing new","That Canada has no north","Only one part of Canada","That Canada is large and varied"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Does Canada have territories in the far north?", answers:["yes","yes it does"]},
+     {prompt:"Is the far north usually cold?", answers:["yes","yes very cold"]},
+     {prompt:"Name one thing that makes the north unique.", answers:["very cold weather","unique communities"]}
+   ]},
+]},
+{day:119, label:"Day 119 — Thu", subjects:[
+  {subject:"Language", title:"Nursery Rhymes: Listening for Rhyme Patterns", summary:"Kindergarten Language strand: nursery rhymes like Jack and Jill use repeating rhyme patterns that help young children hear and predict sounds in language.",
+   resourceLabel:"YouTube: Nursery Rhymes: Listening for Rhyme Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Nursery%20Rhymes%3A%20Listening%20for%20Rhyme%20Patterns%20kindergarten%20educational",
+   quiz:[
+     {q:"What do rhyming lines in a nursery rhyme usually share?", options:["The same ending sound","No pattern at all","The same first letter","The same number of words"], answer:0},
+     {q:"Which pair of words rhymes, like in a nursery rhyme?", options:["Hill and Sun","Hill and Jill","Hill and Hat","Hill and Dog"], answer:1},
+     {q:"Why are nursery rhymes helpful for young learners?", options:["They help children hear and predict sounds","They confuse children","They teach only numbers","They have no purpose"], answer:0},
+     {q:"A rhyme pattern is when words ___.", options:["Start with different letters","End with the same sound","Have no meaning","Are always long"], answer:1},
+     {q:"Which is an example of a nursery rhyme?", options:["A phone number","A weather report","Jack and Jill","A grocery list"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a nursery rhyme you know.", answers:["Jack and Jill","Humpty Dumpty"]},
+     {prompt:"What do the last words of rhyming lines usually share?", answers:["the same ending sound","similar sounds"]},
+     {prompt:"Why are nursery rhymes good for learning language?", answers:["they have patterns","help us hear sounds"]}
+   ]},
+  {subject:"Math", title:"Patterns: AAB and ABB Patterns", summary:"Kindergarten Math strand: students extend more complex repeating patterns beyond ABAB, including AAB (clap, clap, stomp) and ABB (red, blue, blue).",
+   resourceLabel:"YouTube: Patterns: AAB and ABB Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20AAB%20and%20ABB%20Patterns%20kindergarten%20educational",
+   quiz:[
+     {q:"In the pattern square, square, circle, square, square, ___, what comes next?", options:["Circle","Square","Triangle","Star"], answer:0},
+     {q:"What do we call the pattern red, red, blue, red, red, blue?", options:["AABB","ABB","AAB","ABAB"], answer:2},
+     {q:"What do we call the pattern yellow, green, green, yellow, green, green?", options:["AABB","ABAB","ABB","AAB"], answer:2},
+     {q:"In an AAB pattern, how many times does the first item repeat before the second?", options:["Twice","Never","Once","Three times"], answer:0},
+     {q:"Which sequence follows an ABB pattern?", options:["Cat, dog, bird, cat","Cat, cat, dog, cat, cat, dog","Cat, dog, dog, cat, dog, dog","Cat, dog, cat, dog"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"In the pattern clap, clap, stomp, clap, clap, stomp, what comes next after another clap, clap?", answers:["stomp","stomp again"]},
+     {prompt:"What pattern name describes red, blue, blue, red, blue, blue?", answers:["ABB","an ABB pattern"]},
+     {prompt:"What pattern name describes clap, clap, stomp?", answers:["AAB","an AAB pattern"]}
+   ]},
+  {subject:"Science", title:"Wind Power: Using Moving Air", summary:"Kindergarten Science strand: moving air, or wind, can be used to do work, such as spinning a pinwheel, sailing a boat, or turning a wind turbine.",
+   resourceLabel:"YouTube: Wind Power: Using Moving Air", resourceUrl:"https://www.youtube.com/results?search_query=Wind%20Power%3A%20Using%20Moving%20Air%20kindergarten%20educational",
+   quiz:[
+     {q:"What is wind?", options:["Sunlight","Moving air","Water","Still air"], answer:1},
+     {q:"Which toy can be spun by wind?", options:["A book","A block","A ball","A pinwheel"], answer:3},
+     {q:"What tall machine can use wind to make electricity?", options:["A bicycle","A refrigerator","A wind turbine","A television"], answer:2},
+     {q:"Which of these is powered by wind?", options:["A submarine","An elevator","A sailboat","A subway train"], answer:2},
+     {q:"Wind power is considered a form of ___ energy.", options:["Fake","Clean, renewable","Underground","Dangerous"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is wind?", answers:["moving air","air that moves"]},
+     {prompt:"Name one thing wind can spin or move.", answers:["a pinwheel","a kite","a sailboat"]},
+     {prompt:"Can wind be used to make electricity?", answers:["yes","yes with turbines"]}
+   ]},
+  {subject:"SocialStudies", title:"Kindness to Animals: Caring for Pets and Wildlife", summary:"Kindergarten Social Studies strand: showing kindness to animals means treating pets and wild animals gently, giving them food, water, and space to be safe.",
+   resourceLabel:"YouTube: Kindness to Animals: Caring for Pets and Wildlife", resourceUrl:"https://www.youtube.com/results?search_query=Kindness%20to%20Animals%3A%20Caring%20for%20Pets%20and%20Wildlife%20kindergarten%20educational",
+   quiz:[
+     {q:"Which is a kind way to treat a pet?", options:["Leaving it outside all the time","Yelling at it","Ignoring its needs","Giving it food, water, and gentle care"], answer:3},
+     {q:"How should we act around wild animals?", options:["Throw things at them","Chase and scare them","Try to catch them","Give them space and be gentle"], answer:3},
+     {q:"Why is it important to care for animals kindly?", options:["It is not important","Animals do not matter","Animals have needs and feelings too","Only people matter"], answer:2},
+     {q:"Which is an example of caring for a pet?", options:["Forgetting to feed it","Being rough with it","Leaving it alone for days","Giving it fresh water every day"], answer:3},
+     {q:"Being kind to animals shows that we are ___.", options:["Confused","Caring and responsible","Careless","Unkind"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one way to be kind to a pet.", answers:["give it food and water","be gentle with it"]},
+     {prompt:"Should we be gentle with wild animals too?", answers:["yes","yes we should"]},
+     {prompt:"Why is kindness to animals important?", answers:["animals have feelings and needs","to keep them safe and happy"]}
+   ]},
+]},
+{day:120, label:"Day 120 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Vowel Teams, Plurals, and Story Retelling", summary:"Kindergarten Language strand review: students revisit word families -ub and -og, vowel teams ai and ee, plural -s, pronouns, and retelling a story with a beginning, middle, and end.",
+   resourceLabel:"YouTube: Language Review: Vowel Teams, Plurals, and Story Retelling", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Vowel%20Teams%2C%20Plurals%2C%20and%20Story%20Retelling%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the ai vowel team?", options:["Run","Rain","Red","Rib"], answer:1},
+     {q:"What do we add to most nouns to show more than one?", options:["ed","s","ing","er"], answer:1},
+     {q:"Which pronoun could replace a boys name?", options:["She","It","They","He"], answer:3},
+     {q:"What are the three parts of retelling a story?", options:["Title, author, cover","Beginning, middle, end","Loud, quiet, silent","Big, medium, small"], answer:1},
+     {q:"Which word belongs to the -ub family?", options:["Cub","Pen","Hat","Bag"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Give a word from the -ub or -og word family.", answers:["cub","dog","log"]},
+     {prompt:"What do we add to a word to show more than one?", answers:["s","add an s"]},
+     {prompt:"What are the three parts we use to retell a story?", answers:["beginning, middle, end","beginning, middle, and end"]}
+   ]},
+  {subject:"Math", title:"Math Review: Number Bonds, Shapes, and Patterns", summary:"Kindergarten Math strand review: students revisit number bonds to 7 and 8, comparing sets, oval and diamond shapes, addition and subtraction stories, and AAB/ABB patterns.",
+   resourceLabel:"YouTube: Math Review: Number Bonds, Shapes, and Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Number%20Bonds%2C%20Shapes%2C%20and%20Patterns%20kindergarten%20educational",
+   quiz:[
+     {q:"Which pair makes 8?", options:["5 and 4","7 and 2","6 and 2","3 and 4"], answer:2},
+     {q:"Which shape looks like a stretched circle?", options:["Triangle","Rectangle","Square","Oval"], answer:3},
+     {q:"A group of 5 apples and a group of 5 oranges have ___.", options:["No fruit","The same number","Too many","Different numbers"], answer:1},
+     {q:"You have 6 cookies and eat 2. How many are left?", options:["4","3","6","5"], answer:0},
+     {q:"What do we call the pattern red, blue, blue, red, blue, blue?", options:["ABB","AAB","AABB","ABAB"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Show one way to make 7.", answers:["3 and 4","5 and 2"]},
+     {prompt:"How many points does a diamond have?", answers:["4","four"]},
+     {prompt:"What do we call the pattern clap, clap, stomp?", answers:["AAB","an AAB pattern"]}
+   ]},
+  {subject:"Science", title:"Science Review: Bodies, Animals, and Earth", summary:"Kindergarten Science strand review: students revisit muscles, woodland animals, puddles and evaporation, owls, penguins, volcanoes, ice, coral reefs, and wind power.",
+   resourceLabel:"YouTube: Science Review: Bodies, Animals, and Earth", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Animals%2C%20and%20Earth%20kindergarten%20educational",
+   quiz:[
+     {q:"What do muscles help us do?", options:["See colours","Move our body","Hear sounds","Smell food"], answer:1},
+     {q:"What happens to water when it gets very cold?", options:["It turns green","It boils","It freezes into ice","It disappears"], answer:2},
+     {q:"What builds a coral reef?", options:["Tiny living creatures called coral","Rocks alone","Plants alone","Fish"], answer:0},
+     {q:"Owls are mostly active ___.", options:["At night","During the day","Never","Underwater"], answer:0},
+     {q:"What is wind?", options:["Moving air","Sunlight","Still air","Water"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do muscles help us do?", answers:["move","help us move"]},
+     {prompt:"What comes out of an erupting volcano?", answers:["lava","hot melted rock"]},
+     {prompt:"Can penguins fly?", answers:["no","no they cannot"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Helpers, Kindness, and Our Country", summary:"Kindergarten Social Studies strand review: students revisit airport workers, the coast guard, sharing chores, being a leader, the bus driver, land acknowledgement, Canadas territories, and kindness to animals.",
+   resourceLabel:"YouTube: Social Studies Review: Helpers, Kindness, and Our Country", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Kindness%2C%20and%20Our%20Country%20kindergarten%20educational",
+   quiz:[
+     {q:"Who flies the airplane?", options:["A teacher","A farmer","A chef","A pilot"], answer:3},
+     {q:"What is the main job of a bus driver?", options:["Drive students safely","Teach lessons","Clean classrooms","Cook lunch"], answer:0},
+     {q:"Besides provinces, Canada also has three ___.", options:["Oceans","Capitals","Territories","Islands only"], answer:2},
+     {q:"Why do families share chores?", options:["Chores are not helpful","Only grown-ups should help","To help each other and work as a team","To make more mess"], answer:2},
+     {q:"Which is a kind way to treat a pet?", options:["Yelling at it","Giving it food, water, and gentle care","Leaving it outside all the time","Ignoring its needs"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one worker who helps at an airport.", answers:["pilot","flight attendant"]},
+     {prompt:"Why do families share chores?", answers:["to help each other","work as a team"]},
+     {prompt:"Why should we be kind to animals?", answers:["they have needs and feelings","to keep them safe"]}
    ]},
 ]},
 ];

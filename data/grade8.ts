@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Etymology and Word Formation", summary:"Grade 8 Language strand: understanding etymology (word origins) and word formation processes, such as compounding or blending, helps readers and writers build and interpret a stronger vocabulary.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=eXazA0597U8",
    quiz:[
      {q:"Etymology is the study of ___.", options:["Grammar rules for verbs","A word’s origin and history","A word’s exact length","How to pronounce a word"], answer:1},
      {q:"Compounding as a word formation process involves ___.", options:["Creating a word with no connection to existing words","Combining two existing words to form a new one","Only shortening words with no combination","Removing all letters from a word"], answer:1},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Rational Exponents and Radical Form", summary:"Grade 8 Number strand (pre-high-school extension): a rational exponent, such as x to the power of one-half, represents a radical expression, such as the square root of x, connecting exponent and radical notation.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=VVz8im6BOqQ",
    quiz:[
      {q:"x to the power of one-half is equivalent to ___.", options:["x to the power of two","x squared","x times one-half","The square root of x"], answer:3},
      {q:"x to the power of one-third is equivalent to ___.", options:["The square root of x","The cube root of x","x divided by three","x to the power of three"], answer:1},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fluid Dynamics: Bernoulli’s Principle", summary:"Grade 8 Science Structures and Mechanisms strand: Bernoulli’s Principle states that faster-moving fluid exerts less pressure than slower-moving fluid, a concept used to explain phenomena like airplane lift.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=eKEorBipbO8",
    quiz:[
      {q:"Bernoulli’s Principle states that faster-moving fluid exerts ___ pressure than slower-moving fluid.", options:["Exactly equal","Unpredictable","More","Less"], answer:3},
      {q:"Bernoulli’s Principle helps explain how ___.", options:["Airplane wings generate lift","Sound travels through solids","Plants perform photosynthesis","Rocks form over time"], answer:0},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Winnipeg General Strike and Labour Movements", summary:"Grade 8 History strand: the Winnipeg General Strike of 1919 was one of the largest labour strikes in Canadian history, reflecting broader worker concerns over wages, working conditions, and the right to organize.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ew6DyrTG8EM",
    quiz:[
      {q:"The Winnipeg General Strike took place in which year?", options:["1885","1919","1945","1970"], answer:1},
      {q:"The Winnipeg General Strike is considered one of the largest examples of ___ in Canadian history.", options:["Labour strikes","Elections","Natural disasters","Immigration waves"], answer:0},

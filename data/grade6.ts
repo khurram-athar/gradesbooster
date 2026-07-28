@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Word Origins and Etymology", summary:"Ontario Grade 6 Language strand: many English words originate from Latin, Greek, French, or other languages, and understanding a word’s etymology can help clarify its meaning and spelling.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=cSAW4FSA8Dg",
    quiz:[
      {q:"Etymology is the study of ___.", options:["A word’s length only","A word’s origin and history","A word’s font style","How to pronounce a word"], answer:1},
      {q:"Many English words have roots in which languages?", options:["Latin, Greek, and French","Only invented, fictional languages","Only modern English","No other languages at all"], answer:0},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Circles: Circumference and Area", summary:"Ontario Grade 6 Geometry strand: the circumference of a circle is found using pi times the diameter, while the area is found using pi times the radius squared.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=O-cawByg2aA",
    quiz:[
      {q:"The formula for the circumference of a circle is ___.", options:["Pi times the radius squared","Radius times height","Diameter divided by pi","Pi times the diameter"], answer:3},
      {q:"The formula for the area of a circle is ___.", options:["Pi times the diameter","Pi times the radius squared","Two times pi times radius","Radius times diameter"], answer:1},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Microorganisms: Bacteria, Viruses, and Fungi", summary:"Ontario Grade 6 Science Life Systems strand: microorganisms, including bacteria, viruses, and fungi, are tiny living or non-living particles that can be helpful, such as in digestion, or harmful, such as causing illness.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=9JW63U2mzqo",
    quiz:[
      {q:"Which of these is classified as a microorganism?", options:["A large tree","A whale","An elephant","Bacteria"], answer:3},
      {q:"Some bacteria can be helpful to humans by ___.", options:["Aiding in digestion","Having no role in the human body","Always causing severe illness with no exceptions","Destroying all food sources"], answer:0},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Feudal Japan: Samurai and Shogunate", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: feudal Japan was organized around a strict social hierarchy, with a shogun holding military power and samurai warriors serving as loyal, skilled fighters bound by a code of honour.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=wGuq7SJ-eYk",
    quiz:[
      {q:"In feudal Japan, the shogun held ___.", options:["No connection to government","Only religious authority","Significant military power","No power at all"], answer:2},
      {q:"Samurai were known as ___.", options:["Skilled warriors bound by a code of honour","Government officials with no military training","Foreign traders","Farmers with no military role"], answer:0},

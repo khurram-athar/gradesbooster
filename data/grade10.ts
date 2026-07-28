@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"English", title:"Literature: Exploring Magical Realism", summary:"Grade 10 English strand: magical realism is a literary genre that blends realistic settings and characters with elements of the fantastical or magical, often used to explore deeper truths about culture and identity.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=UI9I2p71ct0",
    quiz:[
      {q:"Magical realism blends ___.", options:["Only purely factual, non-fictional content","Only historical events with no fictional elements","Two completely unrelated fictional genres with no connection","Realistic settings and characters with fantastical elements"], answer:3},
      {q:"Why might an author use magical realism to explore themes of culture or identity?", options:["Magical realism removes all deeper meaning from a story","Fantastical elements always distract from a story’s meaning","This genre never connects to real cultural themes","Fantastical elements can symbolically represent deeper cultural or emotional truths"], answer:3},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Arithmetic and Geometric Sequences and Series", summary:"Grade 10 Number strand: an arithmetic sequence increases or decreases by a constant difference, while a geometric sequence increases or decreases by a constant ratio, and a series is the sum of a sequence’s terms.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Tj89FA-d0f8",
    quiz:[
      {q:"An arithmetic sequence changes by a constant ___.", options:["Random amount","Ratio","Percentage that varies each time","Difference"], answer:3},
      {q:"A geometric sequence changes by a constant ___.", options:["Difference","A value unrelated to multiplication","Ratio","Random amount"], answer:2},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Reaction Rates and Equilibrium", summary:"Grade 10 Chemistry strand: reaction rate describes how quickly a chemical reaction occurs, and chemical equilibrium occurs when the rates of the forward and reverse reactions become equal.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=g5wNg_dKsYY",
    quiz:[
      {q:"Reaction rate describes ___.", options:["How quickly a chemical reaction occurs","The exact colour of a chemical reaction","A concept unrelated to chemical reactions","The total mass of reactants only"], answer:0},
      {q:"Chemical equilibrium occurs when ___.", options:["A reaction stops completely with no further activity","The rates of the forward and reverse reactions become equal","Only the forward reaction occurs, with no reverse reaction","A concept unrelated to reaction rates"], answer:1},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Immigration Policy: Historical Turning Points", summary:"Grade 10 History strand: Canada’s immigration policy has evolved significantly over time, moving from more restrictive and discriminatory practices toward a points-based system emphasizing skills and diversity.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=cX02bJ1pyw4",
    quiz:[
      {q:"Canada’s immigration policy has evolved from ___.", options:["More restrictive practices toward a points-based system","No changes at all throughout Canadian history","A points-based system toward more restrictive practices","A policy unrelated to immigration"], answer:0},
      {q:"A points-based immigration system generally emphasizes ___.", options:["Only an applicant’s country of origin","Random selection with no defined criteria","No specific criteria for immigration","Skills and qualifications of prospective immigrants"], answer:3},

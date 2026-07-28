@@ -8127,6 +8127,7 @@
         "summary": "Grade 12 English strand: analyzing a film adaptation of a literary work involves examining the creative choices made in translating a story from prose to a visual medium, including changes to plot, character, and tone.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=zfKPJHadsRY",
         "quiz": [
           {
             "q": "Analyzing a film adaptation involves examining creative choices made in translating a story from prose to ___.",
@@ -8186,6 +8187,7 @@
         "summary": "Grade 12 Advanced Functions strand: solving a rational inequality involves finding the values of x where a rational expression is positive or negative, often using critical values and a sign analysis across intervals.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=ioIXtHlr95c",
         "quiz": [
           {
             "q": "Solving a rational inequality involves finding the values of x where the expression is ___.",
@@ -8245,6 +8247,7 @@
         "summary": "Grade 12 Calculus strand: an improper integral involves either an infinite interval of integration or an integrand that becomes unbounded within the interval, evaluated using limits.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=ND9cEdfCFr0",
         "quiz": [
           {
             "q": "An improper integral may involve ___.",
@@ -8304,6 +8307,7 @@
         "summary": "Grade 12 Physics strand: the laws of thermodynamics describe how energy is transferred and transformed, including the principle that energy cannot be created or destroyed and that natural processes tend to increase overall entropy.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=8N1BxHgsoOw",
         "quiz": [
           {
             "q": "The first law of thermodynamics states that energy ___.",

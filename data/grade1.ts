@@ -1284,6 +1284,7 @@ const curriculum: DayContent[] = [
 {day:31, label:"Day 31 — Mon", subjects:[
   {subject:"Language", title:"Consonant Digraphs: sh, ch, th, wh", summary:"Students learn that two consonants can combine to make one new sound called a digraph, such as sh in ship, ch in chip, th in thin, and wh in whale.",
    resourceLabel:"YouTube: Consonant Digraphs: sh, ch, th, wh", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Digraphs%3A%20sh%2C%20ch%2C%20th%2C%20wh%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=d4PKjUFyyoM",
    quiz:[
      {q:"Which word begins with the digraph sh?", options:["Cat","Dog","Ship","Run"], answer:2},
      {q:"Which word begins with the digraph ch?", options:["Hat","Chip","Sun","Pig"], answer:1},
@@ -1298,6 +1299,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Counting to 100", summary:"Students practise counting aloud from 1 to 100 by ones, and recognize written numerals up to 100, extending counting skills learned earlier in the year.",
    resourceLabel:"YouTube: Counting to 100", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%20100%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0TgLtF3PMOc",
    quiz:[
      {q:"What number comes right after 69?", options:["68","69","70","71"], answer:2},
      {q:"What number comes right after 99?", options:["98","99","101","100"], answer:3},
@@ -1312,6 +1314,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Seasonal Changes: Spring", summary:"Students learn that spring is a season when the weather warms up, snow melts, plants begin to grow, and many animals become active again after winter.",
    resourceLabel:"YouTube: Seasonal Changes: Spring", resourceUrl:"https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Spring%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qaZ2CICGuL8",
    quiz:[
      {q:"What usually happens to the weather in spring?", options:["It gets colder","It stays exactly the same","It disappears","It gets warmer"], answer:3},
      {q:"What happens to snow as spring arrives?", options:["It turns to sand","It grows bigger","It turns purple","It melts"], answer:3},
@@ -1326,6 +1329,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Our Neighbourhood: Places We Visit", summary:"Students learn about familiar places in their neighbourhood, such as a park, library, or store, and discuss how each place helps the community.",
    resourceLabel:"YouTube: Our Neighbourhood: Places We Visit", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Neighbourhood%3A%20Places%20We%20Visit%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iwxkwPA8c68",
    quiz:[
      {q:"Which of these is a place you might find in a neighbourhood?", options:["The ocean floor","Outer space","A volcano","A park"], answer:3},
      {q:"What can you do at a library?", options:["Borrow books","Deliver mail","Fight fires","Buy groceries"], answer:0},
@@ -5919,6 +5923,586 @@ const curriculum: DayContent[] = [
      {prompt:"Name one municipal service, like garbage pickup.", answers:["garbage pickup","clean water","road repairs"]},
      {prompt:"How many official languages does Canada have?", answers:["2","two"]},
      {prompt:"Name one shared space in a community, like a park.", answers:["a park","a playground"]}
+   ]},
+]},
+{day:111, label:"Day 111 — Mon", subjects:[
+  {subject:"Language", title:"Adverbs: Words That Describe Verbs", summary:"Grade 1 Language strand: an adverb describes a verb and often tells how something is done, such as quickly, slowly, loudly, or quietly.",
+   resourceLabel:"YouTube: Adverbs: Words That Describe Verbs", resourceUrl:"https://www.youtube.com/results?search_query=Adverbs%3A%20Words%20That%20Describe%20Verbs%20grade%201%20educational",
+   quiz:[
+     {q:"Which word is an adverb?", options:["Happy","Dog","Table","Quickly"], answer:3},
+     {q:"An adverb usually describes a ___.", options:["Noun","Number","Colour","Verb"], answer:3},
+     {q:"In the sentence He runs fast, which word is the adverb?", options:["He","The","Runs","Fast"], answer:3},
+     {q:"Which sentence uses an adverb?", options:["The cat sleeps quietly.","The cat is a pet.","The cat has fur.","The cat is black."], answer:0},
+     {q:"Which word tells how someone walked?", options:["Path","Street","Shoe","Slowly"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Give an example of an adverb.", answers:["quickly","slowly","loudly"]},
+     {prompt:"What does an adverb describe?", answers:["a verb","how an action happens"]},
+     {prompt:"In the sentence She sings loudly, which word is the adverb?", answers:["loudly","loudly is the adverb"]}
+   ]},
+  {subject:"Math", title:"Two-Digit Addition With Regrouping", summary:"Grade 1 Math strand: when adding two two-digit numbers, if the ones digits add to 10 or more, students regroup by carrying a ten to the tens place.",
+   resourceLabel:"YouTube: Two-Digit Addition With Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Two-Digit%20Addition%20With%20Regrouping%20grade%201%20educational",
+   quiz:[
+     {q:"What is 26 + 7?", options:["34","33","32","35"], answer:1},
+     {q:"When the ones digits add to 10 or more, we ___.", options:["Ignore the extra","Subtract instead","Carry a ten to the tens place","Stop adding"], answer:2},
+     {q:"What is 19 + 4?", options:["23","21","24","22"], answer:0},
+     {q:"What is 35 + 8?", options:["44","43","41","42"], answer:1},
+     {q:"What is 47 + 6?", options:["51","53","52","54"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"When ones add to 10 or more, what do you do?", answers:["regroup","carry a ten"]},
+     {prompt:"What is 28 + 5?", answers:["33","33"]},
+     {prompt:"What is 17 + 6?", answers:["23","23"]}
+   ]},
+  {subject:"Science", title:"Our Eyes: How We See Colours and Shapes", summary:"Grade 1 Science strand: eyes are the body part we use to see colours, shapes, and light around us, and they send messages to our brain.",
+   resourceLabel:"YouTube: Our Eyes: How We See Colours and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Eyes%3A%20How%20We%20See%20Colours%20and%20Shapes%20grade%201%20educational",
+   quiz:[
+     {q:"What body part helps us see?", options:["Ears","Skin","Eyes","Nose"], answer:2},
+     {q:"Our eyes send messages to the ___.", options:["Lungs","Stomach","Brain","Heart"], answer:2},
+     {q:"Which of these can our eyes help us notice?", options:["Soft textures","Loud sounds","Sweet tastes","Colours and shapes"], answer:3},
+     {q:"What do we need to be able to see things?", options:["Light","Cold air","Darkness only","Silence"], answer:0},
+     {q:"Which sense organ is used for seeing?", options:["Tongue","Ears","Skin","Eyes"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What body part do we use to see?", answers:["eyes","our eyes"]},
+     {prompt:"What do our eyes send messages to?", answers:["the brain","our brain"]},
+     {prompt:"Name one thing our eyes help us see.", answers:["colours","shapes","light"]}
+   ]},
+  {subject:"SocialStudies", title:"First Nations, Metis, and Inuit: Three Indigenous Groups in Canada", summary:"Grade 1 Social Studies strand: Canada recognizes three distinct groups of Indigenous peoples -- First Nations, Metis, and Inuit -- each with their own history, languages, and traditions.",
+   resourceLabel:"YouTube: First Nations, Metis, and Inuit: Three Indigenous Groups in Canada", resourceUrl:"https://www.youtube.com/results?search_query=First%20Nations%2C%20Metis%2C%20and%20Inuit%3A%20Three%20Indigenous%20Groups%20in%20Canada%20grade%201%20educational",
+   quiz:[
+     {q:"What are the three recognized Indigenous groups in Canada?", options:["Settlers, Explorers, and Traders","Farmers, Fishers, and Hunters only","First Nations, Metis, and Inuit","North, South, and East"], answer:2},
+     {q:"Do First Nations, Metis, and Inuit peoples share the exact same culture?", options:["They have no traditions","Only one group has culture","Yes, they are identical","No, each has its own history and traditions"], answer:3},
+     {q:"The Inuit have traditionally lived mostly in which part of Canada?", options:["The far south","Outside Canada","Only cities","The far north"], answer:3},
+     {q:"Why do we learn about First Nations, Metis, and Inuit peoples?", options:["It is not required","They are an important part of Canadas history and present","They are not important","Only for one day a year"], answer:1},
+     {q:"What might make each Indigenous group unique?", options:["Their own languages and traditions","They have no history","They are all the same age","They all speak one language"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one of the three Indigenous groups in Canada.", answers:["First Nations","Metis","Inuit"]},
+     {prompt:"Do the three groups have their own languages and traditions?", answers:["yes","yes they do"]},
+     {prompt:"Why is it important to learn about all three groups?", answers:["they each have unique cultures","they are all part of Canadas history"]}
+   ]},
+]},
+{day:112, label:"Day 112 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -ell and -ick", summary:"Grade 1 Language strand: the -ell word family includes bell, sell, and shell, while the -ick word family includes kick, lick, and stick.",
+   resourceLabel:"YouTube: Word Families: -ell and -ick", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ell%20and%20-ick%20grade%201%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ell family?", options:["Bell","Bit","Bat","Bell"], answer:3},
+     {q:"Which word belongs to the -ick family?", options:["Cot","Cat","Kick","Kit"], answer:2},
+     {q:"Which word rhymes with shell?", options:["Shed","Bell","Shop","Ship"], answer:1},
+     {q:"Which word rhymes with stick?", options:["Kick","Stove","Stack","Stock"], answer:0},
+     {q:"Word families help readers ___.", options:["Sing loudly","Count numbers","Draw pictures","Recognize spelling patterns"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word in the -ell family.", answers:["bell","sell","shell"]},
+     {prompt:"Name a word in the -ick family.", answers:["kick","lick","stick"]},
+     {prompt:"What sound do bell and shell share?", answers:["ell","the ell sound"]}
+   ]},
+  {subject:"Math", title:"Two-Digit Subtraction With Regrouping", summary:"Grade 1 Math strand: when subtracting and the ones digit of the top number is smaller, students regroup by borrowing a ten from the tens place.",
+   resourceLabel:"YouTube: Two-Digit Subtraction With Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Two-Digit%20Subtraction%20With%20Regrouping%20grade%201%20educational",
+   quiz:[
+     {q:"What is 43 - 8?", options:["36","33","35","34"], answer:2},
+     {q:"When the top ones digit is smaller than the bottom, we ___.", options:["Add instead","Borrow a ten from the tens place","Ignore the tens","Stop subtracting"], answer:1},
+     {q:"What is 51 - 7?", options:["44","45","43","42"], answer:0},
+     {q:"What is 62 - 9?", options:["55","52","54","53"], answer:3},
+     {q:"What is 70 - 4?", options:["67","66","65","64"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do you do when the top ones digit is too small to subtract?", answers:["borrow a ten","regroup"]},
+     {prompt:"What is 32 - 5?", answers:["27","27"]},
+     {prompt:"What is 41 - 6?", answers:["35","35"]}
+   ]},
+  {subject:"Science", title:"The Digestive System: Where Food Goes", summary:"Grade 1 Science strand: after we eat, food travels through our body from the mouth to the stomach, where our body breaks it down for energy.",
+   resourceLabel:"YouTube: The Digestive System: Where Food Goes", resourceUrl:"https://www.youtube.com/results?search_query=The%20Digestive%20System%3A%20Where%20Food%20Goes%20grade%201%20educational",
+   quiz:[
+     {q:"Where does food first enter the digestive system?", options:["The heart","The lungs","The mouth","The stomach"], answer:2},
+     {q:"After the mouth, food travels down a tube toward the ___.", options:["Ears","Stomach","Skin","Brain"], answer:1},
+     {q:"Why does the body digest food?", options:["To get energy from it","For no reason","To make it heavier","To make it disappear"], answer:0},
+     {q:"The stomach helps to ___ food.", options:["Colour","Freeze","Break down","Ignore"], answer:2},
+     {q:"Which body system is used to process the food we eat?", options:["The nervous system","The digestive system","The respiratory system","The skeletal system"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Where does food first enter your body?", answers:["your mouth","the mouth"]},
+     {prompt:"What body part helps break down food after the mouth?", answers:["stomach","the stomach"]},
+     {prompt:"Why does our body break down food?", answers:["for energy","to get energy"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Coast Guard: Keeping People Safe on the Water", summary:"Grade 1 Social Studies strand: the coast guard is a group of community helpers who keep people safe on lakes, rivers, and oceans, including helping boats in trouble.",
+   resourceLabel:"YouTube: Our Coast Guard: Keeping People Safe on the Water", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Coast%20Guard%3A%20Keeping%20People%20Safe%20on%20the%20Water%20grade%201%20educational",
+   quiz:[
+     {q:"Where does the coast guard mainly help keep people safe?", options:["Underground","In classrooms","On the water","In the sky"], answer:2},
+     {q:"What might the coast guard do if a boat is in trouble?", options:["Sell the boat","Ignore it","Rescue the people aboard","Paint the boat"], answer:2},
+     {q:"Why does Canada need a coast guard?", options:["Canada has many lakes, rivers, and coastlines","It is not needed","Canada has no water","Only for fun"], answer:0},
+     {q:"Which of these is a coast guard responsibility?", options:["Building houses","Teaching math","Delivering mail","Helping boats and swimmers stay safe"], answer:3},
+     {q:"The coast guard is an example of a ___.", options:["Kind of animal","Community helper","Type of weather","Type of food"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does the coast guard help keep people safe on?", answers:["water","the water"]},
+     {prompt:"Name one thing the coast guard might do.", answers:["rescue a boat","help people in trouble"]},
+     {prompt:"Why is water safety important in Canada?", answers:["Canada has many lakes and coasts","to protect people near water"]}
+   ]},
+]},
+{day:113, label:"Day 113 — Wed", subjects:[
+  {subject:"Language", title:"Dialogue: Using Quotation Marks in Conversation", summary:"Grade 1 Language strand: quotation marks show exactly what a character says out loud in a story, placed at the start and end of the spoken words.",
+   resourceLabel:"YouTube: Dialogue: Using Quotation Marks in Conversation", resourceUrl:"https://www.youtube.com/results?search_query=Dialogue%3A%20Using%20Quotation%20Marks%20in%20Conversation%20grade%201%20educational",
+   quiz:[
+     {q:"What punctuation shows exactly what a character says?", options:["An exclamation mark","A period","A comma","Quotation marks"], answer:3},
+     {q:"Where do quotation marks go around spoken words?", options:["At the start and end of the spoken words","They are not used","Only at the beginning","Only at the end"], answer:0},
+     {q:"In Mia said, Let us go, which part is inside quotation marks?", options:["The whole sentence","Let us go","Nothing","Mia said"], answer:1},
+     {q:"Dialogue in a story means ___.", options:["The ending only","The setting","Characters speaking to each other","The title"], answer:2},
+     {q:"Which sentence correctly shows dialogue?", options:["Tom hello said.","Tom said hello.","Tom said, Hello there!","Tom, said hello."], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What punctuation marks show a character is speaking?", answers:["quotation marks","quote marks"]},
+     {prompt:"Where are quotation marks placed?", answers:["around the spoken words","at the start and end of what is said"]},
+     {prompt:"In the sentence Sam said, I am happy, which words go inside quotation marks?", answers:["I am happy","I am happy is spoken"]}
+   ]},
+  {subject:"Math", title:"Congruent Shapes: Same Size and Shape", summary:"Grade 1 Math strand: two shapes are congruent when they are exactly the same size and the same shape, like two identical squares.",
+   resourceLabel:"YouTube: Congruent Shapes: Same Size and Shape", resourceUrl:"https://www.youtube.com/results?search_query=Congruent%20Shapes%3A%20Same%20Size%20and%20Shape%20grade%201%20educational",
+   quiz:[
+     {q:"What does it mean for two shapes to be congruent?", options:["They are both triangles","They are the same size and shape","They have different sizes","They are the same colour"], answer:1},
+     {q:"Which pair of shapes could be congruent?", options:["A triangle and a rectangle","Two identical squares","A big circle and a small circle","A circle and a square"], answer:1},
+     {q:"If two shapes are congruent, one can fit exactly over the ___.", options:["Wall","Table","Floor","Other one"], answer:3},
+     {q:"Are a large square and a small square congruent?", options:["Yes, always","No, they are different sizes","Only if red","Only on Mondays"], answer:1},
+     {q:"Congruent shapes must match in ___.", options:["Weight only","Size and shape","Colour only","Name only"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does congruent mean?", answers:["exactly the same size and shape","the same shape and size"]},
+     {prompt:"If two triangles are the same size and shape, are they congruent?", answers:["yes","yes they are"]},
+     {prompt:"Name two shapes that could be congruent.", answers:["two squares","two circles the same size"]}
+   ]},
+  {subject:"Science", title:"The Solar System: Planets Around the Sun", summary:"Grade 1 Science strand: our solar system is made up of the sun and the planets, including Earth, that travel around it in paths called orbits.",
+   resourceLabel:"YouTube: The Solar System: Planets Around the Sun", resourceUrl:"https://www.youtube.com/results?search_query=The%20Solar%20System%3A%20Planets%20Around%20the%20Sun%20grade%201%20educational",
+   quiz:[
+     {q:"What is at the centre of our solar system?", options:["The Sun","Earth","A star cluster","The Moon"], answer:0},
+     {q:"What do we call the path a planet takes around the sun?", options:["An orbit","A line","A trail","A road"], answer:0},
+     {q:"Which planet do we live on?", options:["Mars","Venus","Jupiter","Earth"], answer:3},
+     {q:"The word solar refers to the ___.", options:["Stars","Sky","Sun","Moon"], answer:2},
+     {q:"How many planets are commonly taught as part of our solar system?", options:["One hundred","Twenty","Eight","Two"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is at the centre of our solar system?", answers:["the sun","the sun is the centre"]},
+     {prompt:"What do planets do around the sun?", answers:["orbit it","travel around it"]},
+     {prompt:"Name one planet in our solar system.", answers:["Earth","Mars"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadas Neighbours: The United States", summary:"Grade 1 Social Studies strand: the United States is the country that shares a long border with Canada to the south, and the two countries trade and travel between each other.",
+   resourceLabel:"YouTube: Canadas Neighbours: The United States", resourceUrl:"https://www.youtube.com/results?search_query=Canadas%20Neighbours%3A%20The%20United%20States%20grade%201%20educational",
+   quiz:[
+     {q:"Which country shares a long border with Canada?", options:["France","Japan","Mexico","The United States"], answer:3},
+     {q:"Where is the United States located compared to Canada?", options:["East of Canada","South of Canada","Inside Canada","North of Canada"], answer:1},
+     {q:"What might neighbouring countries do together?", options:["Ignore each other","Never communicate","Trade goods and travel between them","Share no history"], answer:2},
+     {q:"A border is ___.", options:["A holiday","A line that separates two countries","A kind of animal","A type of food"], answer:1},
+     {q:"Why is it useful to know about Canadas neighbours?", options:["Neighbours do not matter","Only oceans matter","It is not useful","It helps us understand our place in the world"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Which country is south of Canada?", answers:["The United States","the USA"]},
+     {prompt:"What do neighbouring countries often do with each other?", answers:["trade","travel between them"]},
+     {prompt:"Name one thing Canada and the United States share.", answers:["a border","a long border"]}
+   ]},
+]},
+{day:114, label:"Day 114 — Thu", subjects:[
+  {subject:"Language", title:"Text Features: Table of Contents and Index", summary:"Grade 1 Language strand: a table of contents at the front of a book lists chapter titles and page numbers, while an index at the back helps readers find specific topics.",
+   resourceLabel:"YouTube: Text Features: Table of Contents and Index", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Table%20of%20Contents%20and%20Index%20grade%201%20educational",
+   quiz:[
+     {q:"Where would you find a table of contents?", options:["It does not exist","At the back of the book","On the cover only","At the front of the book"], answer:3},
+     {q:"What does a table of contents usually show?", options:["Chapter titles and page numbers","The authors life story","A glossary of words","Pictures only"], answer:0},
+     {q:"Where would you usually find an index?", options:["In the middle","At the front","At the back of the book","On the cover"], answer:2},
+     {q:"An index helps readers ___.", options:["Colour the pages","Write a new story","Skip the whole book","Find specific topics quickly"], answer:3},
+     {q:"Which text feature would help you find page 42 for chapter 3?", options:["A glossary","A table of contents","A title","A caption"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Where is a table of contents usually found?", answers:["at the front of the book","the front"]},
+     {prompt:"Where is an index usually found?", answers:["at the back of the book","the back"]},
+     {prompt:"What does a table of contents list?", answers:["chapter titles and page numbers","the chapters and pages"]}
+   ]},
+  {subject:"Math", title:"Patterns: Shrinking Patterns", summary:"Grade 1 Math strand: a shrinking pattern is a sequence that gets smaller or decreases each time, such as 20, 15, 10, 5.",
+   resourceLabel:"YouTube: Patterns: Shrinking Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20Shrinking%20Patterns%20grade%201%20educational",
+   quiz:[
+     {q:"In the pattern 18, 14, 10, ___, what comes next?", options:["6","8","4","5"], answer:0},
+     {q:"A shrinking pattern is a sequence that ___.", options:["Gets smaller each time","Has no order","Gets bigger each time","Stays the same"], answer:0},
+     {q:"Which sequence is a shrinking pattern?", options:["5, 10, 15, 20","2, 4, 6, 8","20, 16, 12, 8","1, 1, 1, 1"], answer:2},
+     {q:"In the pattern 30, 25, 20, ___, what comes next?", options:["22","15","10","18"], answer:1},
+     {q:"What is the opposite of a shrinking pattern?", options:["A repeating pattern","A growing pattern","No pattern","A colour pattern"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"In the pattern 20, 15, 10, ___, what comes next?", answers:["5","five"]},
+     {prompt:"Does a shrinking pattern get bigger or smaller?", answers:["smaller","it gets smaller"]},
+     {prompt:"Give an example of a shrinking pattern.", answers:["20, 15, 10, 5","10, 8, 6, 4"]}
+   ]},
+  {subject:"Science", title:"Mixing Materials: Combining Solids and Liquids", summary:"Grade 1 Science strand: when we mix materials, such as stirring sand into water or sugar into juice, some materials dissolve and others do not.",
+   resourceLabel:"YouTube: Mixing Materials: Combining Solids and Liquids", resourceUrl:"https://www.youtube.com/results?search_query=Mixing%20Materials%3A%20Combining%20Solids%20and%20Liquids%20grade%201%20educational",
+   quiz:[
+     {q:"What happens when you stir sugar into warm water?", options:["Nothing happens","It turns into a gas","It sinks and stays solid","It dissolves into the water"], answer:3},
+     {q:"Does sand dissolve when mixed into water?", options:["It turns into sugar","No, it stays as solid grains","Yes, completely","It disappears forever"], answer:1},
+     {q:"What word describes a solid seeming to disappear into a liquid?", options:["Evaporating","Melting","Dissolving","Freezing"], answer:2},
+     {q:"Which of these would dissolve in warm water?", options:["A spoon","A rock","A marble","Salt"], answer:3},
+     {q:"Mixing materials together is a way scientists ___.", options:["Investigate how materials behave","Avoid learning","Waste time","Ignore matter"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What happens when sugar is stirred into warm water?", answers:["it dissolves","it disappears into the water"]},
+     {prompt:"Does sand dissolve in water?", answers:["no","no it does not"]},
+     {prompt:"What word means a solid seems to disappear into a liquid?", answers:["dissolve","dissolving"]}
+   ]},
+  {subject:"SocialStudies", title:"Playground Safety: Rules for Playing Together", summary:"Grade 1 Social Studies strand: playground rules, such as taking turns and using equipment properly, help keep everyone safe while having fun together.",
+   resourceLabel:"YouTube: Playground Safety: Rules for Playing Together", resourceUrl:"https://www.youtube.com/results?search_query=Playground%20Safety%3A%20Rules%20for%20Playing%20Together%20grade%201%20educational",
+   quiz:[
+     {q:"Why do playgrounds have safety rules?", options:["To make playing boring","To keep everyone safe while having fun","To stop all games","Rules are not needed"], answer:1},
+     {q:"Which is an example of a playground safety rule?", options:["Pushing to go first","Climbing where it is not allowed","Taking turns on the slide","Ignoring others"], answer:2},
+     {q:"What should you do if a friend gets hurt on the playground?", options:["Laugh","Walk away","Ignore it","Tell an adult for help"], answer:3},
+     {q:"Using playground equipment properly means ___.", options:["Following the rules for how to use it","Avoiding it always","Using it however you want","Breaking it"], answer:0},
+     {q:"Playground rules help build a community that is ___.", options:["Safe and fair for everyone","Unsafe","Unfriendly","Confusing"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one playground safety rule.", answers:["take turns","use equipment properly"]},
+     {prompt:"Why do playgrounds have rules?", answers:["to keep everyone safe","so no one gets hurt"]},
+     {prompt:"What should you do if you see someone get hurt at the playground?", answers:["tell an adult","get help"]}
+   ]},
+]},
+{day:115, label:"Day 115 — Fri", subjects:[
+  {subject:"Language", title:"Run-on Sentences: Too Many Ideas at Once", summary:"Grade 1 Language strand: a run-on sentence happens when two or more complete ideas are joined without correct punctuation, making the sentence confusing.",
+   resourceLabel:"YouTube: Run-on Sentences: Too Many Ideas at Once", resourceUrl:"https://www.youtube.com/results?search_query=Run-on%20Sentences%3A%20Too%20Many%20Ideas%20at%20Once%20grade%201%20educational",
+   quiz:[
+     {q:"What is a run-on sentence?", options:["A very short sentence","A question","Too many ideas joined without proper punctuation","A sentence with no words"], answer:2},
+     {q:"Why can run-on sentences be hard to read?", options:["They have no letters","They are too short","They have too many ideas joined together","They are always questions"], answer:2},
+     {q:"How can you fix a run-on sentence?", options:["Make it longer","Split it into two clear sentences","Remove all punctuation","Add more ideas"], answer:1},
+     {q:"Which is a run-on sentence?", options:["Do you like dogs?","I like dogs.","I like dogs. I like cats.","I like dogs I like cats they are fun"], answer:3},
+     {q:"A complete sentence needs a clear ___.", options:["Beginning and end","Number","Colour","Rhyme"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a run-on sentence?", answers:["too many ideas joined without punctuation","ideas joined incorrectly"]},
+     {prompt:"Why are run-on sentences confusing?", answers:["too many ideas at once","there is no clear break"]},
+     {prompt:"How can we fix a run-on sentence?", answers:["add a period or split it","split it into two sentences"]}
+   ]},
+  {subject:"Math", title:"Time: Estimating How Long an Activity Takes", summary:"Grade 1 Math strand: students estimate whether an activity, like brushing teeth or eating dinner, takes seconds, minutes, or hours.",
+   resourceLabel:"YouTube: Time: Estimating How Long an Activity Takes", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Estimating%20How%20Long%20an%20Activity%20Takes%20grade%201%20educational",
+   quiz:[
+     {q:"About how long does it take to brush your teeth?", options:["A few minutes","A few hours","A whole day","A few seconds"], answer:0},
+     {q:"About how long does a full night of sleep take?", options:["A few minutes","About eight or more hours","A few seconds","One second"], answer:1},
+     {q:"About how long does it take to snap your fingers?", options:["A second","A week","An hour","A day"], answer:0},
+     {q:"Which activity would likely take hours, not minutes?", options:["Clapping once","A school day","Blinking your eyes","Saying hello"], answer:1},
+     {q:"Estimating time helps us guess ___.", options:["The colour of an object","The weight of an object","About how long something takes","The taste of food"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Would brushing your teeth take seconds, minutes, or hours?", answers:["minutes","a few minutes"]},
+     {prompt:"Would sleeping overnight take minutes or hours?", answers:["hours","many hours"]},
+     {prompt:"Would clapping your hands once take seconds or hours?", answers:["seconds","a second"]}
+   ]},
+  {subject:"Science", title:"Animal Shelters: Nests, Burrows, and Shells", summary:"Grade 1 Science strand: animals build or use different kinds of shelters to stay safe, including nests for birds, burrows for rabbits, and shells for turtles.",
+   resourceLabel:"YouTube: Animal Shelters: Nests, Burrows, and Shells", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Shelters%3A%20Nests%2C%20Burrows%2C%20and%20Shells%20grade%201%20educational",
+   quiz:[
+     {q:"What shelter do many birds build?", options:["A burrow","A nest","A shell","A den"], answer:1},
+     {q:"What do we call an underground home dug by an animal like a rabbit?", options:["A web","A burrow","A hive","A nest"], answer:1},
+     {q:"What shelter does a turtle always carry with it?", options:["A web","A burrow","A nest","A shell"], answer:3},
+     {q:"Why do animals need shelters?", options:["For decoration","To stay safe from weather and predators","Only to sleep","They do not need shelters"], answer:1},
+     {q:"Which animal is known for spinning a web as part of its home?", options:["A bird","A spider","A turtle","A rabbit"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What kind of shelter does a bird often build?", answers:["a nest","nest"]},
+     {prompt:"What kind of shelter does a rabbit often dig?", answers:["a burrow","burrow"]},
+     {prompt:"What shelter does a turtle carry with it?", answers:["a shell","its shell"]}
+   ]},
+  {subject:"SocialStudies", title:"Zoos and Wildlife Parks: Caring for Animals in Human Care", summary:"Grade 1 Social Studies strand: zoos and wildlife parks care for animals, teach visitors about wildlife, and sometimes help protect endangered species.",
+   resourceLabel:"YouTube: Zoos and Wildlife Parks: Caring for Animals in Human Care", resourceUrl:"https://www.youtube.com/results?search_query=Zoos%20and%20Wildlife%20Parks%3A%20Caring%20for%20Animals%20in%20Human%20Care%20grade%201%20educational",
+   quiz:[
+     {q:"What is one job of a zoo?", options:["Selling toys only","Ignoring animals","Farming crops","Caring for and studying animals"], answer:3},
+     {q:"What can people learn by visiting a zoo?", options:["About cars","Nothing new","About different kinds of wildlife","Only about pets"], answer:2},
+     {q:"Why might a zoo help care for an endangered animal?", options:["Endangered animals do not need help","To help protect the species","For no reason","To sell them"], answer:1},
+     {q:"Who usually works at a zoo caring for the animals?", options:["Zookeepers","Firefighters","Pilots","Bakers"], answer:0},
+     {q:"A wildlife park is similar to a zoo because it also ___.", options:["Cares for and protects animals","Sells cars","Ignores wildlife","Has no animals"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one thing a zoo does for animals.", answers:["cares for them","protects them"]},
+     {prompt:"What can visitors learn at a zoo?", answers:["about wildlife","about different animals"]},
+     {prompt:"Why might zoos help endangered animals?", answers:["to protect them","so they do not disappear"]}
+   ]},
+]},
+{day:116, label:"Day 116 — Mon", subjects:[
+  {subject:"Language", title:"Summarizing: Retelling a Story in Fewer Words", summary:"Grade 1 Language strand: summarizing means retelling the most important parts of a story using fewer words than the original text.",
+   resourceLabel:"YouTube: Summarizing: Retelling a Story in Fewer Words", resourceUrl:"https://www.youtube.com/results?search_query=Summarizing%3A%20Retelling%20a%20Story%20in%20Fewer%20Words%20grade%201%20educational",
+   quiz:[
+     {q:"What does it mean to summarize a story?", options:["Retell it word for word","Ignore the story","Retell only the most important parts in fewer words","Add many new details"], answer:2},
+     {q:"Why is summarizing a useful skill?", options:["It is not useful","It makes stories longer","It helps us share the main idea quickly","It removes the main idea"], answer:2},
+     {q:"Should a summary include small, unimportant details?", options:["Yes, all details","Only the title","Only the pictures","No, only the most important parts"], answer:3},
+     {q:"A good summary is usually ___ than the original story.", options:["Longer","Twice as long","The same length","Shorter"], answer:3},
+     {q:"Which is an example of summarizing?", options:["Copying the whole book","Reading it out loud","Telling the main events in a few sentences","Ignoring the story"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does summarizing mean?", answers:["retelling with fewer words","telling the important parts briefly"]},
+     {prompt:"Why do we summarize a story?", answers:["to share the main parts quickly","so it is shorter"]},
+     {prompt:"Should a summary include every small detail?", answers:["no","no just the important parts"]}
+   ]},
+  {subject:"Math", title:"Measuring Length in Metres: Longer Distances", summary:"Grade 1 Math strand: while centimetres measure small objects, metres are used to measure longer distances, such as the length of a classroom.",
+   resourceLabel:"YouTube: Measuring Length in Metres: Longer Distances", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Length%20in%20Metres%3A%20Longer%20Distances%20grade%201%20educational",
+   quiz:[
+     {q:"Which unit is used to measure longer distances?", options:["Centimetres","Metres","Litres","Grams"], answer:1},
+     {q:"Which object would you most likely measure in metres?", options:["A classroom","A paperclip","A pencil","A crayon"], answer:0},
+     {q:"Which object would you most likely measure in centimetres?", options:["A hallway","A soccer field","A classroom","A pencil"], answer:3},
+     {q:"A metre is ___ than a centimetre.", options:["The same","Heavier","Longer","Shorter"], answer:2},
+     {q:"Why do we use different measurement units?", options:["To match the size of what we measure","Units do not matter","Only metres are used","To confuse people"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What unit measures longer distances than a centimetre?", answers:["a metre","metres"]},
+     {prompt:"Would you measure a classroom in centimetres or metres?", answers:["metres","metres because it is long"]},
+     {prompt:"Would you measure a pencil in centimetres or metres?", answers:["centimetres","centimetres because it is short"]}
+   ]},
+  {subject:"Science", title:"Baby Teeth and Adult Teeth: How Our Teeth Change", summary:"Grade 1 Science strand: children have a set of baby teeth that eventually fall out and are replaced by permanent adult teeth as they grow.",
+   resourceLabel:"YouTube: Baby Teeth and Adult Teeth: How Our Teeth Change", resourceUrl:"https://www.youtube.com/results?search_query=Baby%20Teeth%20and%20Adult%20Teeth%3A%20How%20Our%20Teeth%20Change%20grade%201%20educational",
+   quiz:[
+     {q:"What are a childs first set of teeth called?", options:["Baby teeth","Fake teeth","Wisdom teeth","Adult teeth"], answer:0},
+     {q:"What eventually happens to baby teeth?", options:["They turn into bones","They fall out and are replaced","They disappear with no replacement","They stay forever"], answer:1},
+     {q:"What teeth replace baby teeth?", options:["No teeth at all","Permanent adult teeth","Wooden teeth","More baby teeth"], answer:1},
+     {q:"Why is it important to take care of both baby and adult teeth?", options:["Healthy teeth help us eat and stay healthy","Teeth do not matter","Teeth care is unnecessary","Only adult teeth need care"], answer:0},
+     {q:"Roughly when do most children begin losing baby teeth?", options:["Around age five or six","They never lose them","At birth","At age eighteen"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we call the first set of teeth children have?", answers:["baby teeth","baby teeth or milk teeth"]},
+     {prompt:"What happens to baby teeth as we grow?", answers:["they fall out","fall out and are replaced"]},
+     {prompt:"What replaces baby teeth?", answers:["adult teeth","permanent teeth"]}
+   ]},
+  {subject:"SocialStudies", title:"The Terry Fox Run: A Canadian Tradition of Giving", summary:"Grade 1 Social Studies strand: the Terry Fox Run is an annual Canadian event where people walk or run together to raise money for cancer research, honouring a brave young Canadian.",
+   resourceLabel:"YouTube: The Terry Fox Run: A Canadian Tradition of Giving", resourceUrl:"https://www.youtube.com/results?search_query=The%20Terry%20Fox%20Run%3A%20A%20Canadian%20Tradition%20of%20Giving%20grade%201%20educational",
+   quiz:[
+     {q:"What does the Terry Fox Run help raise money for?", options:["New toys","Buying food","Cancer research","Building roads"], answer:2},
+     {q:"The Terry Fox Run happens ___.", options:["Only once, long ago","Every year across Canada","Only in one city","Never"], answer:1},
+     {q:"What do participants usually do at the Terry Fox Run?", options:["Walk or run together","Sit and watch","Sleep all day","Play video games"], answer:0},
+     {q:"Why do schools across Canada take part in the Terry Fox Run?", options:["It has no meaning","It is required with no purpose","To skip school","To honour Terry Fox and support a cause"], answer:3},
+     {q:"The Terry Fox Run is an example of Canadians ___.", options:["Avoiding community events","Competing for money","Coming together to give and help others","Ignoring important causes"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does the Terry Fox Run raise money for?", answers:["cancer research","to help fight cancer"]},
+     {prompt:"Is the Terry Fox Run a Canadian tradition?", answers:["yes","yes it is"]},
+     {prompt:"What do people do during the Terry Fox Run?", answers:["walk or run together","run or walk to raise money"]}
+   ]},
+]},
+{day:117, label:"Day 117 — Tue", subjects:[
+  {subject:"Language", title:"Journal Writing: Writing About My Day", summary:"Grade 1 Language strand: journal writing lets students write about their own experiences, thoughts, and feelings, often using the word I and describing real events.",
+   resourceLabel:"YouTube: Journal Writing: Writing About My Day", resourceUrl:"https://www.youtube.com/results?search_query=Journal%20Writing%3A%20Writing%20About%20My%20Day%20grade%201%20educational",
+   quiz:[
+     {q:"What is journal writing mainly about?", options:["Our own experiences, thoughts, and feelings","Someone elses life","Only math facts","A made-up fantasy world"], answer:0},
+     {q:"Which pronoun is commonly used in journal writing?", options:["I","They","It","We only"], answer:0},
+     {q:"Which sentence sounds like a journal entry?", options:["Today I played outside with my friend.","The sky is blue.","Dogs are mammals.","The dog ran fast."], answer:0},
+     {q:"Why might someone keep a journal?", options:["To copy a textbook","It has no purpose","To hide their thoughts forever","To remember and reflect on their day"], answer:3},
+     {q:"A journal entry usually describes ___.", options:["Real events from the writers life","Only fictional dragons","Math equations","Weather reports only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do we write about in a journal?", answers:["our own experiences","our thoughts and feelings"]},
+     {prompt:"What pronoun do journal entries often use?", answers:["I","the word I"]},
+     {prompt:"Give an example of something you could write in a journal.", answers:["what I did today","how I felt"]}
+   ]},
+  {subject:"Math", title:"Perimeter: Measuring Around a Shape", summary:"Grade 1 Math strand: the perimeter of a shape is the total distance around its outside edge, found by adding the length of all its sides.",
+   resourceLabel:"YouTube: Perimeter: Measuring Around a Shape", resourceUrl:"https://www.youtube.com/results?search_query=Perimeter%3A%20Measuring%20Around%20a%20Shape%20grade%201%20educational",
+   quiz:[
+     {q:"What does perimeter measure?", options:["The colour of a shape","The weight of a shape","The space inside a shape","The distance around a shape"], answer:3},
+     {q:"How do you find the perimeter of a shape?", options:["Count the corners","Multiply the sides","Measure only one side","Add up the lengths of all the sides"], answer:3},
+     {q:"What is the perimeter of a square with each side equal to 4?", options:["16","20","8","12"], answer:0},
+     {q:"A rectangle has sides of 5, 3, 5, and 3. What is its perimeter?", options:["16","13","18","15"], answer:2},
+     {q:"Perimeter is measured using units such as ___.", options:["Grams","Degrees","Litres","Centimetres or metres"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is perimeter?", answers:["the distance around a shape","the total distance around the edge"]},
+     {prompt:"How do you find the perimeter of a shape?", answers:["add all the sides","add up the side lengths"]},
+     {prompt:"What is the perimeter of a square with sides of 3?", answers:["12","12 because 3+3+3+3"]}
+   ]},
+  {subject:"Science", title:"Simple Machines: Wheels and Axles", summary:"Grade 1 Science strand: a wheel and axle is a simple machine made of a wheel attached to a rod, which makes it easier to move heavy things, like on a wagon or bicycle.",
+   resourceLabel:"YouTube: Simple Machines: Wheels and Axles", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Wheels%20and%20Axles%20grade%201%20educational",
+   quiz:[
+     {q:"What simple machine helps a wagon move easily?", options:["A lever","A pulley","A wheel and axle","A screw"], answer:2},
+     {q:"A wheel and axle is made of a wheel attached to a ___.", options:["Rod","Wedge","Rope","Ramp"], answer:0},
+     {q:"Which object uses a wheel and axle?", options:["A spoon","A doorstop","A bicycle","A seesaw"], answer:2},
+     {q:"Why are wheels useful simple machines?", options:["They are only decorative","They make objects heavier","They stop motion","They make moving heavy things easier"], answer:3},
+     {q:"Which of these also uses wheels and axles to move?", options:["A car","A book","A chair","A pillow"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What simple machine is found on a wagon?", answers:["a wheel and axle","wheel and axle"]},
+     {prompt:"What does a wheel and axle make easier?", answers:["moving heavy things","moving objects"]},
+     {prompt:"Name one object that uses wheels and axles.", answers:["a bicycle","a wagon","a car"]}
+   ]},
+  {subject:"SocialStudies", title:"Trade Between Provinces: Sharing Resources Across Canada", summary:"Grade 1 Social Studies strand: different provinces in Canada have different resources, so they trade goods like fish, lumber, and grain with one another.",
+   resourceLabel:"YouTube: Trade Between Provinces: Sharing Resources Across Canada", resourceUrl:"https://www.youtube.com/results?search_query=Trade%20Between%20Provinces%3A%20Sharing%20Resources%20Across%20Canada%20grade%201%20educational",
+   quiz:[
+     {q:"Why do Canadian provinces trade goods with each other?", options:["Trade is not allowed","They all have identical resources","They each have different resources","They never need anything"], answer:2},
+     {q:"Which is an example of a resource a province might trade?", options:["Air","Silence","Sunshine","Fish"], answer:3},
+     {q:"What word describes provinces exchanging goods with each other?", options:["Trade","Ignoring","Wasting","Hiding"], answer:0},
+     {q:"How does trading resources help Canadians?", options:["It lets people get things their own province may not have","It has no benefit","It hurts communities","It stops all sharing"], answer:0},
+     {q:"A province known for forests might trade ___.", options:["Only ice","Only sand","Nothing at all","Lumber"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Why do provinces trade with each other?", answers:["they have different resources","to share what they have"]},
+     {prompt:"Name one resource a province might trade.", answers:["fish","lumber","grain"]},
+     {prompt:"What is it called when provinces exchange goods?", answers:["trade","trading"]}
+   ]},
+]},
+{day:118, label:"Day 118 — Wed", subjects:[
+  {subject:"Language", title:"Sensory Words: Describing with Our Five Senses", summary:"Grade 1 Language strand: sensory words help writers describe what something looks, sounds, smells, tastes, or feels like, making writing more vivid.",
+   resourceLabel:"YouTube: Sensory Words: Describing with Our Five Senses", resourceUrl:"https://www.youtube.com/results?search_query=Sensory%20Words%3A%20Describing%20with%20Our%20Five%20Senses%20grade%201%20educational",
+   quiz:[
+     {q:"What do sensory words help describe?", options:["Only shapes","Only numbers","Only colours","What something looks, sounds, smells, tastes, or feels like"], answer:3},
+     {q:"Which word is a sensory word describing taste?", options:["Loud","Bright","Tall","Sweet"], answer:3},
+     {q:"Which word describes how something feels to touch?", options:["Loud","Soft","Bright","Sour"], answer:1},
+     {q:"Why do authors use sensory words in their writing?", options:["To remove all description","To confuse readers","To make the writing dull","To help readers imagine the scene vividly"], answer:3},
+     {q:"Which sentence uses a sensory word?", options:["The dog is a pet.","The dog ran.","The soft, furry dog ran.","A dog is an animal."], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a sensory word that describes a sound.", answers:["loud","quiet"]},
+     {prompt:"Name a sensory word that describes a taste.", answers:["sweet","sour"]},
+     {prompt:"Why do writers use sensory words?", answers:["to make writing vivid","to help readers imagine it"]}
+   ]},
+  {subject:"Math", title:"Using a Number Line to Add and Subtract", summary:"Grade 1 Math strand: a number line can help solve addition and subtraction problems by jumping forward to add or jumping backward to subtract.",
+   resourceLabel:"YouTube: Using a Number Line to Add and Subtract", resourceUrl:"https://www.youtube.com/results?search_query=Using%20a%20Number%20Line%20to%20Add%20and%20Subtract%20grade%201%20educational",
+   quiz:[
+     {q:"On a number line, which direction shows addition?", options:["Backward","Forward","It does not matter","Sideways"], answer:1},
+     {q:"On a number line, which direction shows subtraction?", options:["Upward","Backward","Forward","Downward"], answer:1},
+     {q:"Using a number line, what is 6 + 4?", options:["9","11","10","8"], answer:2},
+     {q:"Using a number line, what is 9 - 3?", options:["6","5","8","7"], answer:0},
+     {q:"A number line is a useful tool because it shows numbers ___.", options:["Without any order","In random order","Only as pictures","In order, making jumps easy to see"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"On a number line, which direction do you jump to add?", answers:["forward","to the right"]},
+     {prompt:"On a number line, which direction do you jump to subtract?", answers:["backward","to the left"]},
+     {prompt:"Using a number line, what is 4 + 3?", answers:["7","7"]}
+   ]},
+  {subject:"Science", title:"Erosion: How Wind and Water Change the Land", summary:"Grade 1 Science strand: erosion happens when wind or water slowly wears away soil and rock, changing the shape of the land over time.",
+   resourceLabel:"YouTube: Erosion: How Wind and Water Change the Land", resourceUrl:"https://www.youtube.com/results?search_query=Erosion%3A%20How%20Wind%20and%20Water%20Change%20the%20Land%20grade%201%20educational",
+   quiz:[
+     {q:"What is erosion?", options:["Land suddenly appearing","Rain falling from clouds","Plants growing quickly","Wind or water slowly wearing away soil and rock"], answer:3},
+     {q:"Which of these can cause erosion?", options:["Cold air alone","Darkness","Wind and water","Silence"], answer:2},
+     {q:"Erosion usually happens ___.", options:["Instantly","Never","Slowly over time","Only in winter"], answer:2},
+     {q:"What might erosion change over a long time?", options:["The colour of the sky","The taste of water","The sound of wind","The shape of the land"], answer:3},
+     {q:"Which landform might be shaped by water erosion over many years?", options:["A rainbow","A canyon","A cloud","A shadow"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What can wear away soil and rock over time?", answers:["wind and water","wind or water"]},
+     {prompt:"What do we call this slow wearing away of land?", answers:["erosion","erosion is the word"]},
+     {prompt:"Does erosion happen quickly or slowly?", answers:["slowly","usually slowly"]}
+   ]},
+  {subject:"SocialStudies", title:"Famous Canadians: People Who Made a Difference", summary:"Grade 1 Social Studies strand: many Canadians throughout history have made important contributions in science, sports, the arts, and their communities.",
+   resourceLabel:"YouTube: Famous Canadians: People Who Made a Difference", resourceUrl:"https://www.youtube.com/results?search_query=Famous%20Canadians%3A%20People%20Who%20Made%20a%20Difference%20grade%201%20educational",
+   quiz:[
+     {q:"What does it mean when someone makes a difference?", options:["They do nothing at all","They ignore their community","They help or improve something for others","They cause problems"], answer:2},
+     {q:"In which area might a famous Canadian have made a contribution?", options:["Science, sports, or the arts","Only sleeping","Nothing at all","Only eating"], answer:0},
+     {q:"Why do students learn about people who made a difference?", options:["To memorize random facts","To ignore history","To be inspired and learn from their example","It has no purpose"], answer:2},
+     {q:"A person who works hard to help their community is being a good ___.", options:["Bystander","Citizen","Stranger","Visitor"], answer:1},
+     {q:"Learning about important Canadians helps us understand ___.", options:["Only foreign countries","Random unrelated facts","Nothing useful","Our shared history and values"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to make a difference?", answers:["to help or improve something","to have a positive impact"]},
+     {prompt:"Name a way a person could make a difference in Canada.", answers:["through science","through sports","through art"]},
+     {prompt:"Why do we learn about famous Canadians?", answers:["to be inspired by them","to learn from their contributions"]}
+   ]},
+]},
+{day:119, label:"Day 119 — Thu", subjects:[
+  {subject:"Language", title:"Story Grammar: Characters, Setting, Problem, and Solution Together", summary:"Grade 1 Language strand: story grammar combines the key parts of a story -- characters, setting, problem, and solution -- to help readers understand how a story fits together.",
+   resourceLabel:"YouTube: Story Grammar: Characters, Setting, Problem, and Solution Together", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Grammar%3A%20Characters%2C%20Setting%2C%20Problem%2C%20and%20Solution%20Together%20grade%201%20educational",
+   quiz:[
+     {q:"Which four parts make up story grammar?", options:["Characters, setting, problem, and solution","Beginning, ending only","Title, author, cover, pages","Loud, quiet, fast, slow"], answer:0},
+     {q:"What is the setting of a story?", options:["The books cover","Where and when the story happens","The characters feelings","The last sentence"], answer:1},
+     {q:"What is the problem in a story?", options:["The challenge the characters must solve","The authors name","The illustration","The title of the book"], answer:0},
+     {q:"What is the solution in a story?", options:["The beginning of the story","The way the problem gets solved","The setting","The characters names"], answer:1},
+     {q:"Why is it helpful to know all four parts of story grammar?", options:["It replaces reading the story","It has no benefit","It helps readers understand how a story fits together","It makes stories longer"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name the four main parts of story grammar.", answers:["characters, setting, problem, solution","characters, setting, problem, and solution"]},
+     {prompt:"What is the problem in a story?", answers:["the challenge the characters face","a challenge that needs solving"]},
+     {prompt:"What is the solution in a story?", answers:["how the problem is solved","the way the problem gets solved"]}
+   ]},
+  {subject:"Math", title:"Repeated Addition: Adding Equal Groups", summary:"Grade 1 Math strand: when equal groups of objects are combined, students can find the total using repeated addition, such as 3 + 3 + 3 for three groups of three.",
+   resourceLabel:"YouTube: Repeated Addition: Adding Equal Groups", resourceUrl:"https://www.youtube.com/results?search_query=Repeated%20Addition%3A%20Adding%20Equal%20Groups%20grade%201%20educational",
+   quiz:[
+     {q:"Which repeated addition shows 4 groups of 2?", options:["2+2+2+2","4+4","2+4","4+2+2"], answer:0},
+     {q:"What is 2+2+2+2?", options:["9","7","8","6"], answer:2},
+     {q:"If you have 5 groups of 2 apples, how many apples in all?", options:["12","9","10","8"], answer:2},
+     {q:"What is 4+4+4?", options:["12","14","8","10"], answer:0},
+     {q:"Repeated addition is useful when groups are ___.", options:["Unknown","Empty","Equal in size","Different sizes"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If you have 3 groups of 3, what repeated addition shows this?", answers:["3+3+3","3 plus 3 plus 3"]},
+     {prompt:"What is 3+3+3?", answers:["9","9"]},
+     {prompt:"If you have 4 groups of 2, what is the total?", answers:["8","8"]}
+   ]},
+  {subject:"Science", title:"Plant Adaptations: Surviving in Dry and Cold Places", summary:"Grade 1 Science strand: plants have special features called adaptations that help them survive in tough environments, like thick leaves in the desert or short stems in the cold.",
+   resourceLabel:"YouTube: Plant Adaptations: Surviving in Dry and Cold Places", resourceUrl:"https://www.youtube.com/results?search_query=Plant%20Adaptations%3A%20Surviving%20in%20Dry%20and%20Cold%20Places%20grade%201%20educational",
+   quiz:[
+     {q:"What word describes special features that help plants survive their environment?", options:["Predators","Adaptations","Migrations","Habitats"], answer:1},
+     {q:"How might a desert plant, like a cactus, survive with little rain?", options:["By needing lots of daily rain","By living underwater","By growing very tall only","By storing water in thick stems or leaves"], answer:3},
+     {q:"Why might plants in cold places grow low to the ground?", options:["For no reason","To reach more sunlight only","To stay protected from cold wind","To attract more animals"], answer:2},
+     {q:"Plant adaptations help plants ___.", options:["Move to new places","Change colour instantly","Survive in their environment","Talk to animals"], answer:2},
+     {q:"Which environment would likely require water-saving adaptations?", options:["A swamp","A desert","A lake","A rainforest"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call special features that help plants survive?", answers:["adaptations","plant adaptations"]},
+     {prompt:"Name one way a desert plant might survive with little water.", answers:["thick leaves","storing water"]},
+     {prompt:"Why might a plant in a cold place grow low to the ground?", answers:["to stay protected from wind and cold","to survive the cold"]}
+   ]},
+  {subject:"SocialStudies", title:"The Global Village: How We Are Connected to Other Countries", summary:"Grade 1 Social Studies strand: the idea of a global village means that people, goods, and information can connect quickly with other countries around the world.",
+   resourceLabel:"YouTube: The Global Village: How We Are Connected to Other Countries", resourceUrl:"https://www.youtube.com/results?search_query=The%20Global%20Village%3A%20How%20We%20Are%20Connected%20to%20Other%20Countries%20grade%201%20educational",
+   quiz:[
+     {q:"What does the term global village describe?", options:["A kind of forest","A type of farm","A single small town","How the world feels connected through travel and communication"], answer:3},
+     {q:"Which of these helps connect countries around the world?", options:["Avoiding travel","Ignoring each other","Building walls only","Trade and communication"], answer:3},
+     {q:"Why might a toy in your home be made in another country?", options:["Trade does not exist","Toys can only be made locally","Countries trade goods with each other","It is impossible"], answer:2},
+     {q:"Which is an example of global connection?", options:["Never leaving your street","Avoiding maps","Ignoring the news","A video call with someone in another country"], answer:3},
+     {q:"Understanding the global village helps us see that ___.", options:["The world has no connections","Countries are connected in many ways","Countries are isolated from each other","Only one country matters"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does global village mean?", answers:["the world feels connected","countries are connected to each other"]},
+     {prompt:"Name one way people connect with other countries.", answers:["travel","communication","trade"]},
+     {prompt:"Why is our world considered connected today?", answers:["information and goods travel quickly","we can communicate easily"]}
+   ]},
+]},
+{day:120, label:"Day 120 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Adverbs, Dialogue, and Story Grammar", summary:"Grade 1 Language strand review: students revisit adverbs, the word families -ell and -ick, dialogue and quotation marks, summarizing, and the four parts of story grammar.",
+   resourceLabel:"YouTube: Language Review: Adverbs, Dialogue, and Story Grammar", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Adverbs%2C%20Dialogue%2C%20and%20Story%20Grammar%20grade%201%20educational",
+   quiz:[
+     {q:"Which word is an adverb?", options:["Happy","Quickly","Dog","Table"], answer:1},
+     {q:"What punctuation shows exactly what a character says?", options:["A comma","Quotation marks","A period","An exclamation mark"], answer:1},
+     {q:"What does it mean to summarize a story?", options:["Retell it word for word","Ignore the story","Add many new details","Retell only the most important parts in fewer words"], answer:3},
+     {q:"Which four parts make up story grammar?", options:["Title, author, cover, pages","Characters, setting, problem, and solution","Loud, quiet, fast, slow","Beginning, ending only"], answer:1},
+     {q:"Which word belongs to the -ick family?", options:["Kick","Cot","Kit","Cat"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Give an example of an adverb.", answers:["quickly","slowly"]},
+     {prompt:"What punctuation shows a character is speaking?", answers:["quotation marks","quote marks"]},
+     {prompt:"Name the four parts of story grammar.", answers:["characters, setting, problem, solution","characters, setting, problem, and solution"]}
+   ]},
+  {subject:"Math", title:"Math Review: Regrouping, Shapes, and Patterns", summary:"Grade 1 Math strand review: students revisit two-digit addition and subtraction with regrouping, congruent shapes, shrinking patterns, perimeter, and repeated addition.",
+   resourceLabel:"YouTube: Math Review: Regrouping, Shapes, and Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Regrouping%2C%20Shapes%2C%20and%20Patterns%20grade%201%20educational",
+   quiz:[
+     {q:"What is 43 - 8?", options:["34","36","35","33"], answer:2},
+     {q:"What does it mean for two shapes to be congruent?", options:["They have different sizes","They are both triangles","They are the same colour","They are the same size and shape"], answer:3},
+     {q:"In the pattern 18, 14, 10, ___, what comes next?", options:["5","6","8","4"], answer:1},
+     {q:"What is the perimeter of a square with each side equal to 4?", options:["16","8","20","12"], answer:0},
+     {q:"Which repeated addition shows 4 groups of 2?", options:["2+2+2+2","2+4","4+2+2","4+4"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is 26 + 7?", answers:["33","33"]},
+     {prompt:"What does congruent mean?", answers:["same size and shape","exactly the same size and shape"]},
+     {prompt:"How do you find the perimeter of a shape?", answers:["add all the sides","add up the side lengths"]}
+   ]},
+  {subject:"Science", title:"Science Review: Our Bodies, Space, and the Land", summary:"Grade 1 Science strand review: students revisit our eyes, the digestive system, the solar system, mixing materials, animal shelters, and plant adaptations.",
+   resourceLabel:"YouTube: Science Review: Our Bodies, Space, and the Land", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Space%2C%20and%20the%20Land%20grade%201%20educational",
+   quiz:[
+     {q:"What body part helps us see?", options:["Ears","Eyes","Nose","Skin"], answer:1},
+     {q:"Where does food first enter the digestive system?", options:["The lungs","The stomach","The mouth","The heart"], answer:2},
+     {q:"What is at the centre of our solar system?", options:["The Sun","Earth","A star cluster","The Moon"], answer:0},
+     {q:"What do we call an underground home dug by an animal like a rabbit?", options:["A burrow","A nest","A web","A hive"], answer:0},
+     {q:"What is erosion?", options:["Wind or water slowly wearing away soil and rock","Plants growing quickly","Land suddenly appearing","Rain falling from clouds"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What body part helps us see?", answers:["eyes","our eyes"]},
+     {prompt:"What is at the centre of our solar system?", answers:["the sun","the sun is"]},
+     {prompt:"What word describes wind or water wearing away land?", answers:["erosion","erosion is the word"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Indigenous Peoples, Helpers, and Our World", summary:"Grade 1 Social Studies strand review: students revisit the three Indigenous groups in Canada, the coast guard, Canadas neighbours, playground safety, the Terry Fox Run, and the global village.",
+   resourceLabel:"YouTube: Social Studies Review: Indigenous Peoples, Helpers, and Our World", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Indigenous%20Peoples%2C%20Helpers%2C%20and%20Our%20World%20grade%201%20educational",
+   quiz:[
+     {q:"What are the three recognized Indigenous groups in Canada?", options:["Farmers, Fishers, and Hunters only","North, South, and East","Settlers, Explorers, and Traders","First Nations, Metis, and Inuit"], answer:3},
+     {q:"Where does the coast guard mainly help keep people safe?", options:["On the water","In the sky","In classrooms","Underground"], answer:0},
+     {q:"Which country shares a long border with Canada?", options:["Mexico","Japan","The United States","France"], answer:2},
+     {q:"What does the Terry Fox Run help raise money for?", options:["Building roads","Buying food","Cancer research","New toys"], answer:2},
+     {q:"What does the term global village describe?", options:["A type of farm","How the world feels connected through travel and communication","A kind of forest","A single small town"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name one of the three Indigenous groups in Canada.", answers:["First Nations","Metis","Inuit"]},
+     {prompt:"Where does the coast guard mainly help keep people safe?", answers:["on the water","the water"]},
+     {prompt:"What does the Terry Fox Run raise money for?", answers:["cancer research","to help fight cancer"]}
    ]},
 ]},
 ];

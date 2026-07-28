@@ -1390,6 +1390,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Figurative Language: Hyperbole and Onomatopoeia", summary:"Ontario Grade 5 Reading strand: hyperbole is an obvious exaggeration used for effect (I have a million things to do), while onomatopoeia is a word that imitates a sound (buzz, crash, sizzle).",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=kuzWLDWm6Zs",
    quiz:[
      {q:"Hyperbole is best described as ___.", options:["A word that imitates a sound","An obvious exaggeration used for effect","A rhyming pattern","A comparison using like or as"], answer:1},
      {q:"Which sentence contains hyperbole?", options:["I finished my homework.","I have three things to do today.","I have a million things to do today.","The sky is blue."], answer:2},
@@ -1399,6 +1400,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introducing Integers", summary:"Ontario Grade 5 Number strand: integers include positive numbers, negative numbers, and zero, and are often used to represent values like temperatures below zero or elevations below sea level.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=OSfDRqxmXAE",
    quiz:[
      {q:"Which of these is a negative integer?", options:["0","-3","10","5"], answer:1},
      {q:"A temperature of 5 degrees below zero would be written as ___.", options:["0","50","5","-5"], answer:3},
@@ -1408,6 +1410,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Circulatory and Respiratory Systems", summary:"Ontario Grade 5 Science Human Body Systems strand: the circulatory system (heart, blood, and blood vessels) transports oxygen and nutrients through the body, while the respiratory system (lungs and airways) brings oxygen in and removes carbon dioxide.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=cfl2S7lVKdY",
    quiz:[
      {q:"The main organ of the circulatory system is the ___.", options:["Lungs","Heart","Brain","Stomach"], answer:1},
      {q:"The circulatory system’s main job is to ___.", options:["Transport oxygen and nutrients throughout the body","Digest food","Filter air only","Control body movement"], answer:0},
@@ -1417,6 +1420,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Building the Canadian Pacific Railway", summary:"Ontario Grade 5 Social Studies People and Environments strand: the Canadian Pacific Railway, completed in 1885, connected Canada from coast to coast, relying heavily on the labour of Chinese immigrant workers who faced dangerous conditions and discrimination.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5w0VNfuMIeY",
    quiz:[
      {q:"The Canadian Pacific Railway connected Canada ___.", options:["To the United States exclusively","From coast to coast","Nowhere significant","Only within one city"], answer:1},
      {q:"In what decade was the Canadian Pacific Railway completed?", options:["1880s","1960s","1920s","1850s"], answer:0},
