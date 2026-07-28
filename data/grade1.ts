@@ -1346,6 +1346,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Word Families: -it and -in", summary:"Students explore the -it and -in word families, learning that changing the first letter of sit or pin can create new rhyming words such as bit, hit, win, and fin.",
    resourceLabel:"YouTube: Word Families: -it and -in", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-it%20and%20-in%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=uVeEAFy1z68",
    quiz:[
      {q:"Which word belongs to the -it word family?", options:["Sit","Dog","Sun","Cat"], answer:0},
      {q:"Which word belongs to the -in word family?", options:["Top","Bed","Win","Man"], answer:2},
@@ -1360,6 +1361,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 100: Tens and Ones", summary:"Students learn to break apart two-digit numbers into tens and ones, such as recognizing that 47 is made of 4 tens and 7 ones.",
    resourceLabel:"YouTube: Numbers to 100: Tens and Ones", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20100%3A%20Tens%20and%20Ones%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0gzSsbsQpeM",
    quiz:[
      {q:"How many tens are in the number 52?", options:["2","50","5","7"], answer:2},
      {q:"How many ones are in the number 38?", options:["38","30","3","8"], answer:3},
@@ -1374,6 +1376,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Seasonal Changes: Summer", summary:"Students learn that summer is the warmest season of the year, with long sunny days, and that many plants and animals are very active during this time.",
    resourceLabel:"YouTube: Seasonal Changes: Summer", resourceUrl:"https://www.youtube.com/results?search_query=Seasonal%20Changes%3A%20Summer%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-6woGeCn0nU",
    quiz:[
      {q:"Which season is usually the warmest of the year?", options:["Spring","Winter","Fall","Summer"], answer:3},
      {q:"In summer, are the days usually longer or shorter?", options:["Shorter","Longer","There is no daylight","Exactly the same"], answer:1},
@@ -1388,6 +1391,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Jobs People Do: Goods and Services", summary:"Students learn that some jobs make or sell goods, like toys or bread, while other jobs provide services, like teaching or fixing things, and both kinds of jobs help a community.",
    resourceLabel:"YouTube: Jobs People Do: Goods and Services", resourceUrl:"https://www.youtube.com/results?search_query=Jobs%20People%20Do%3A%20Goods%20and%20Services%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=J41sTDwZFZQ",
    quiz:[
      {q:"What word describes an item that is made or sold, like a toy?", options:["A season","A good","A rule","A service"], answer:1},
      {q:"What word describes a helpful job like teaching or fixing something?", options:["A good","A holiday","A service","A season"], answer:2},
@@ -1404,6 +1408,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Word Families: -ug and -ub", summary:"Students explore the -ug and -ub word families, learning that changing the first letter of bug or cub can create new rhyming words such as hug, rug, tub, and cub.",
    resourceLabel:"YouTube: Word Families: -ug and -ub", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ug%20and%20-ub%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ehCrjk4hdc4",
    quiz:[
      {q:"Which word belongs to the -ug word family?", options:["Cat","Sun","Bug","Dog"], answer:2},
      {q:"Which word belongs to the -ub word family?", options:["Bed","Man","Cub","Top"], answer:2},
@@ -1418,6 +1423,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Numbers: Greater Than and Less Than", summary:"Students learn to compare two numbers up to 100 and use the words greater than, less than, and equal to describe which number is bigger or smaller.",
    resourceLabel:"YouTube: Comparing Numbers: Greater Than and Less Than", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Numbers%3A%20Greater%20Than%20and%20Less%20Than%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YhOf0H_gLP8",
    quiz:[
      {q:"Which number is greater, 62 or 26?", options:["They are equal","26","62","Cannot tell"], answer:2},
      {q:"Which number is less, 81 or 18?", options:["They are equal","18","Cannot tell","81"], answer:1},

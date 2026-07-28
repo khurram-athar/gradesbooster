@@ -1346,6 +1346,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Letter O", summary:"Explore uppercase and lowercase O. Students identify the letter, practise its short /o/ sound, and find words beginning with O such as octopus, orange, and ostrich.",
    resourceLabel:"YouTube: Letter O", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20O%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RWbvHZBmrqk",
    quiz:[
      {q:"Which word starts with the same sound as octopus?", options:["Cat","Dog","Orange","Sun"], answer:2},
      {q:"What shape does the letter O look like?", options:["A square","A line","A circle","A triangle"], answer:2},
@@ -1360,6 +1361,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Making 10: Number Bonds", summary:"Students explore pairs of numbers that combine to make 10, such as 6 and 4 or 7 and 3, building a strong foundation for addition.",
    resourceLabel:"YouTube: Making 10: Number Bonds", resourceUrl:"https://www.youtube.com/results?search_query=Making%2010%3A%20Number%20Bonds%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=cVBq8Eo5rt4",
    quiz:[
      {q:"6 and ___ make 10.", options:["6","5","4","3"], answer:2},
      {q:"Which pair of numbers makes 10?", options:["2 and 5","7 and 3","4 and 4","9 and 2"], answer:1},
@@ -1374,6 +1376,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Five Senses: Smelling, Tasting, and Touching", summary:"Students learn that the nose helps us smell, the tongue helps us taste, and skin helps us feel or touch. They explore how these senses give us information about our world.",
    resourceLabel:"YouTube: Five Senses: Smelling, Tasting, and Touching", resourceUrl:"https://www.youtube.com/results?search_query=Five%20Senses%3A%20Smelling%2C%20Tasting%2C%20and%20Touching%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=52_w0PIIfjs",
    quiz:[
      {q:"Which body part helps you smell a flower?", options:["Eyes","Ears","Hands","Nose"], answer:3},
      {q:"Which body part helps you taste ice cream?", options:["Ears","Nose","Eyes","Tongue"], answer:3},
@@ -1388,6 +1391,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Reading Simple Maps", summary:"Students look at simple picture maps of a classroom or park and learn that a map shows where things are located, using pictures and symbols.",
    resourceLabel:"YouTube: Reading Simple Maps", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Simple%20Maps%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mtsx8V3mE8o",
    quiz:[
      {q:"A map is a drawing that shows ___.", options:["A list of numbers","A made-up story","A song","Where places and things are"], answer:3},
      {q:"On a simple classroom map, a picture of a desk shows where the ___ is.", options:["Door","Window","Desk","Playground"], answer:2},
@@ -1404,6 +1408,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Beginning Sounds: Listening for First Sounds", summary:"Students listen carefully to the first sound in a word and match words that begin with the same sound, building phonemic awareness.",
    resourceLabel:"YouTube: Beginning Sounds: Listening for First Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Beginning%20Sounds%3A%20Listening%20for%20First%20Sounds%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JVYa4Vv4mYY",
    quiz:[
      {q:"Which two words begin with the same sound: sun, sock, dog?", options:["sock and dog","sun and dog","sun and sock","dog only"], answer:2},
      {q:"What is the first sound in ball?", options:["/t/","/m/","/b/","/s/"], answer:2},
@@ -1418,6 +1423,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Position Words: Near, Far, Between, and Beside", summary:"Students use positional language such as near, far, between, and beside to describe where objects are located in relation to each other.",
    resourceLabel:"YouTube: Position Words: Near, Far, Between, and Beside", resourceUrl:"https://www.youtube.com/results?search_query=Position%20Words%3A%20Near%2C%20Far%2C%20Between%2C%20and%20Beside%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6FTh2L8Woz0",
    quiz:[
      {q:"If the cat is next to the box, the cat is ___ the box.", options:["Inside","Far from","Under","Beside"], answer:3},
      {q:"If the school is many kilometres away, it is ___ your house.", options:["On top of","Near","Far from","Beside"], answer:2},

@@ -1346,6 +1346,7 @@ const curriculum: DayContent[] = [
 {day:32, label:"Day 32 — Tue", subjects:[
   {subject:"Language", title:"Consonant Digraphs: sh, ch, th, wh", summary:"Students learn that a consonant digraph is two consonants that combine to make one new sound, such as sh in ship, ch in chip, th in thin, and wh in whale.",
    resourceLabel:"YouTube: Consonant Digraphs: sh, ch, th, wh", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Digraphs%3A%20sh%2C%20ch%2C%20th%2C%20wh%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XdVdfZYMZ-o",
    quiz:[
      {q:"Which word begins with the sh digraph?", options:["Sun","Cat","Ship","Dog"], answer:2},
      {q:"Which word begins with the ch digraph?", options:["Dog","Cat","Sun","Chip"], answer:3},
@@ -1360,6 +1361,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction Within 100 (With Regrouping)", summary:"Students subtract two-digit numbers within 100 that require regrouping a ten when the ones digit of the first number is smaller than the ones digit being subtracted.",
    resourceLabel:"YouTube: Subtraction Within 100 (With Regrouping)", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20Within%20100%20%28With%20Regrouping%29%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DDtSfw8pNUg",
    quiz:[
      {q:"What is 52 - 27?", options:["24","35","25","26"], answer:2},
      {q:"What is 43 - 18?", options:["35","24","26","25"], answer:3},
@@ -1388,6 +1390,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Community Types: City, Suburb, and Countryside", summary:"Students compare different types of communities, such as a busy city with tall buildings, a quieter suburb with houses close together, and the countryside with farms and open land.",
    resourceLabel:"YouTube: Community Types: City, Suburb, and Countryside", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Types%3A%20City%2C%20Suburb%2C%20and%20Countryside%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NR7z9FbUf5k",
    quiz:[
      {q:"Which type of community usually has tall buildings and many people?", options:["The countryside","A forest","An ocean","A city"], answer:3},
      {q:"Which type of community usually has farms and open land?", options:["A subway","The countryside","A skyscraper","A city"], answer:1},
