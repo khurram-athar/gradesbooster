@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Reading: Identifying Theme", summary:"Ontario Grade 5 Reading strand: a theme is the underlying message or lesson of a story, often about life, human nature, or society, which is different from the plot itself.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=MAu3e5GZo4k",
    quiz:[
      {q:"A theme is best described as ___.", options:["The exact sequence of events in a story","The name of the main character","The title of the book","The underlying message or lesson of a story"], answer:3},
      {q:"How is theme different from plot?", options:["Plot is what happens; theme is the deeper message behind those events","Plot is always about lessons; theme is about events","Theme and plot are exactly the same thing","Theme only exists in nonfiction"], answer:0},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Mean, Median, and Mode", summary:"Ontario Grade 5 Data Management strand: the mean is the average of a data set, the median is the middle value when data is ordered, and the mode is the value that appears most often.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=B1HEzNTGeZ4",
    quiz:[
      {q:"What is the mean of the data set 2, 4, 6?", options:["2","6","4","12"], answer:2},
      {q:"What is the median of the data set 3, 7, 9?", options:["6","3","7","9"], answer:2},

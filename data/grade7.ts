@@ -1450,6 +1450,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemical Reactions: Types and Balancing", summary:"Ontario Grade 7 Science Matter and Energy strand: chemical reactions can be classified into types such as synthesis and decomposition, and balancing a chemical equation ensures the same number of atoms appears on both sides.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=TX6BYceUSL0",
    quiz:[
      {q:"A synthesis reaction occurs when ___.", options:["Matter disappears completely","Two or more substances combine to form a new substance","Nothing changes at all","A single substance breaks apart into multiple substances"], answer:1},
      {q:"A decomposition reaction occurs when ___.", options:["No chemical change occurs","Substances combine to form something new","A single substance breaks down into two or more simpler substances","Matter is created from nothing"], answer:2},

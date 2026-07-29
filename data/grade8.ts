@@ -1430,17 +1430,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:35, label:"Day 35 — Fri", subjects:[
-  {subject:"Language", title:"Reading: Comparing Film and Text Adaptations", summary:"Grade 8 Reading and Media Literacy strands: comparing a text to its film adaptation involves examining how elements like plot, character, and tone are preserved or changed when a story is adapted to a different medium.",
+  {subject:"Language", title:"Reading: Analyzing Character Motivation", summary:"Grade 8 Reading strand: character motivation is the reason behind a character's actions, and identifying it helps readers understand why a story's plot and conflicts unfold the way they do.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=1rh3R8IUPdk",
    quiz:[
-     {q:"Comparing a text to its film adaptation involves examining ___.", options:["Nothing related to the original text","The actors’ personal lives","Only the film’s runtime","How elements like plot and tone are preserved or changed"], answer:3},
-     {q:"Why might a film adaptation change certain details from the original text?", options:["Different mediums may require different storytelling techniques or time constraints","Adaptations always follow the text exactly with no changes","Film adaptations never make any creative choices","Changes are always made with no purpose or reasoning"], answer:0},
-     {q:"Which is an example of a change that might occur when adapting a novel into a film?", options:["The film ignoring the story’s plot entirely","The story remaining word-for-word identical to the book","No visual elements being added to the story","Combining or removing minor characters to fit the film’s length"], answer:3},
-     {q:"Why is comparing adaptations considered a valuable media literacy skill?", options:["Adaptations are always identical to their source material","It helps readers understand how creative choices shape meaning across different formats","This comparison has no educational value","Media literacy has no connection to comparing formats"], answer:1},
-     {q:"Tone in a film adaptation might be conveyed differently than in a text through ___.", options:["No creative elements at all","A method identical to written text","Music, lighting, and visual effects","Only written description"], answer:2}
+     {q:"Character motivation refers to ___.", options:["The actors who play the character","The reason behind a character's actions","Only a character's physical appearance","The setting of the story"], answer:1},
+     {q:"Understanding a character's motivation helps readers ___.", options:["Understand why the plot and conflicts unfold as they do","Skip important parts of the story","Ignore the character's decisions","Focus only on the story's title"], answer:0},
+     {q:"Which is a common source of character motivation in a story?", options:["A desire, fear, or need that drives the character","The number of pages in the chapter","The font used in the book","The color of the book cover"], answer:0},
+     {q:"How does character motivation typically relate to conflict in a story?", options:["It has no connection to conflict","A character's motivation can create or push a story's conflict forward","Conflict always removes a character's motivation","Motivation and conflict are the same thing"], answer:1},
+     {q:"When analyzing motivation, a reader should look for ___.", options:["Only the character's name","Clues in the character's actions, words, and choices","The publication date of the book","The number of characters in the story"], answer:1}
    ]},
   {subject:"Math", title:"Volume and Surface Area of Spheres and Cones", summary:"Grade 8 Geometry strand: the volume of a sphere is found using four-thirds pi r cubed, while the volume of a cone is found using one-third times the base area times height.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=eBAq_caikJ4",
    quiz:[
      {q:"The formula for the volume of a sphere is ___.", options:["Pi r squared","One-third base area times height","Four-thirds pi r cubed","Two pi r"], answer:2},
      {q:"The formula for the volume of a cone is ___.", options:["Four-thirds pi r cubed","One-third times base area times height","Base area times height","Two times base area times height"], answer:1},
@@ -1459,6 +1461,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Japanese Canadian Internment During WWII", summary:"Grade 8 History strand: during World War II, the Canadian government forcibly relocated and interned thousands of Japanese Canadians, an action now widely recognized as a violation of their civil rights.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=8qXiHxZYwL8",
    quiz:[
      {q:"During World War II, the Canadian government forcibly relocated and interned ___.", options:["Only foreign visitors to Canada","A group unrelated to Canadian history","Thousands of Japanese Canadians","No civilians of any background"], answer:2},
      {q:"Japanese Canadian internment is now widely recognized as ___.", options:["A violation of civil rights","An event with no lasting historical significance","A policy that had no effect on those involved","A fair and justified policy with no controversy"], answer:0},

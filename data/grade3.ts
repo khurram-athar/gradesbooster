@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Reading: Sequencing Events", summary:"Ontario Grade 3 Reading strand: sequencing means identifying the order in which events happen in a text, often signalled by words like first, next, then, and finally.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=ypbUeDxPkRY",
    quiz:[
      {q:"Which words often signal the order of events?", options:["First, next, then, finally","Big, small, medium","Happy, sad, angry","Red, blue, green"], answer:0},
      {q:"Sequencing a story means identifying ___.", options:["The characters' names only","The order in which events happen","The author's name","The title of the book"], answer:1},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Introducing Angles", summary:"Ontario Grade 3 Geometry strand: an angle is formed where two lines meet; a right angle looks like the corner of a square, while angles smaller than a right angle are acute and larger ones are obtuse.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=DGKwdHMiqCg",
    quiz:[
      {q:"A right angle looks like the corner of a ___.", options:["Square","Line","Circle","Triangle only"], answer:0},
      {q:"An angle smaller than a right angle is called ___.", options:["Obtuse","Reflex","Straight","Acute"], answer:3},
@@ -1450,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Energy: Renewable vs Non-Renewable Sources", summary:"Ontario Grade 3 Science Matter and Energy strand: renewable energy sources (like sun, wind, and water) can be replenished naturally, while non-renewable sources (like coal and oil) take millions of years to form and can run out.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=REdw2OmJ9bo",
    quiz:[
      {q:"Which is an example of a renewable energy source?", options:["Oil","Natural gas","Coal","Sunlight"], answer:3},
      {q:"Which is an example of a non-renewable energy source?", options:["Coal","Wind","Water (hydro)","Solar power"], answer:0},
@@ -1459,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities in Canada, 1780-1850: Daily Life", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: early settler communities in Canada (1780-1850) grew much of their own food, made their own clothing and tools, and relied on family and neighbours for support.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=HLEZ-IWgi8c",
    quiz:[
      {q:"In early Canadian settler communities (1780-1850), most families ___.", options:["Bought all their food from large supermarkets","Grew much of their own food and made their own goods","Never worked","Ordered everything online"], answer:1},
      {q:"Why did early settlers rely heavily on neighbours?", options:["Farming and building tasks were difficult to do alone","Neighbours were not needed at all","It was against the rules to be alone","They had modern machines to help"], answer:0},

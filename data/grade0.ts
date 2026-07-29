@@ -1532,6 +1532,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Syllables: Clapping Words Apart", summary:"Students clap out the syllables, or beats, in words to build awareness that words are made of smaller sound parts.",
    resourceLabel:"YouTube: Syllables: Clapping Words Apart", resourceUrl:"https://www.youtube.com/results?search_query=Syllables%3A%20Clapping%20Words%20Apart%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2Czm2p3stVM",
    quiz:[
      {q:"How many syllables (claps) are in the word cat?", options:["1","3","2","4"], answer:0},
      {q:"How many syllables are in the word apple?", options:["3","4","1","2"], answer:3},
@@ -1546,6 +1547,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Tally Marks: Counting in Groups of Five", summary:"Students learn to make and read tally marks, grouping marks into fives with a diagonal line, to count and organize information.",
    resourceLabel:"YouTube: Tally Marks: Counting in Groups of Five", resourceUrl:"https://www.youtube.com/results?search_query=Tally%20Marks%3A%20Counting%20in%20Groups%20of%20Five%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yeKc0TG62EM",
    quiz:[
      {q:"A group of 5 tally marks is usually shown with ___.", options:["Five circles","Five separate dots","One long line","Four straight lines and one diagonal line across them"], answer:3},
      {q:"How many tally marks make one full group?", options:["4","5","3","6"], answer:1},
@@ -1560,6 +1562,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Healthy Habits: Food and Exercise", summary:"Students learn that eating healthy foods, drinking water, staying active, and getting enough sleep help keep our bodies healthy and strong.",
    resourceLabel:"YouTube: Healthy Habits: Food and Exercise", resourceUrl:"https://www.youtube.com/results?search_query=Healthy%20Habits%3A%20Food%20and%20Exercise%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dhpCdqOtuj0",
    quiz:[
      {q:"Which food is a healthy choice?", options:["Candy only","Chips only","Soda","An apple"], answer:3},
      {q:"Why is exercise good for our bodies?", options:["It only helps our hair","It has no benefit","It keeps our bodies strong and healthy","It makes us tired forever"], answer:2},
@@ -1574,6 +1577,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Where Our Food Comes From", summary:"Students learn that much of our food comes from farms, where farmers grow plants and raise animals, before it reaches grocery stores and our tables.",
    resourceLabel:"YouTube: Where Our Food Comes From", resourceUrl:"https://www.youtube.com/results?search_query=Where%20Our%20Food%20Comes%20From%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WazK8e88axE",
    quiz:[
      {q:"Where do many fruits and vegetables come from?", options:["A farm","A toy store","A library","A pool"], answer:0},
      {q:"Who grows crops and raises animals for food?", options:["A doctor","A pilot","A farmer","A teacher"], answer:2},

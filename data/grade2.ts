@@ -1500,6 +1500,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"States of Matter: Gases", summary:"Students learn that a gas is a state of matter that has no definite shape or volume and spreads out to fill its container, such as the air we breathe.",
    resourceLabel:"YouTube: States of Matter: Gases", resourceUrl:"https://www.youtube.com/results?search_query=States%20of%20Matter%3A%20Gases%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wclY8F-UoTE",
    quiz:[
      {q:"Which of these is an example of a gas?", options:["Air","Juice","A rock","Ice"], answer:0},
      {q:"Does a gas have a definite shape of its own?", options:["Only when frozen","Yes, it always keeps one shape","Only sometimes","No, it takes the shape of its container"], answer:3},
@@ -1514,6 +1515,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Municipal Government: Mayors and Councils", summary:"Students learn that a municipal government, led by a mayor and council, makes decisions for a city or town, such as caring for parks, roads, and local services.",
    resourceLabel:"YouTube: Municipal Government: Mayors and Councils", resourceUrl:"https://www.youtube.com/results?search_query=Municipal%20Government%3A%20Mayors%20and%20Councils%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WpJSP2q5-M4",
    quiz:[
      {q:"Who usually leads a city or town government?", options:["A principal","A mayor","A king","A farmer"], answer:1},
      {q:"Which of these is something a municipal government might take care of?", options:["Local roads and parks","Outer space","Ocean currents","The weather"], answer:0},

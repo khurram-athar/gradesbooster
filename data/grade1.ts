@@ -1532,6 +1532,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Rhyming Words", summary:"Students practise identifying rhyming words, pairs of words that end with the same sound, such as cat and hat or sun and fun.",
    resourceLabel:"YouTube: Rhyming Words", resourceUrl:"https://www.youtube.com/results?search_query=Rhyming%20Words%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4PW3_LErVZk",
    quiz:[
      {q:"Which word rhymes with cat?", options:["Sun","Pig","Hat","Dog"], answer:2},
      {q:"Which word rhymes with sun?", options:["Cat","Bed","Dog","Fun"], answer:3},
@@ -1546,6 +1547,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measuring Capacity: More and Less", summary:"Students compare the capacity of different containers, learning which container holds more or less using non-standard units, such as pouring water between cups.",
    resourceLabel:"YouTube: Measuring Capacity: More and Less", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Capacity%3A%20More%20and%20Less%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=M5UqTJDJSdA",
    quiz:[
      {q:"Which container usually holds more water, a bucket or a teacup?", options:["Teacup","Cannot tell","Bucket","They hold the same"], answer:2},
      {q:"What word describes how much liquid a container can hold?", options:["Weight","Capacity","Length","Colour"], answer:1},
@@ -1560,6 +1562,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Moon and Its Phases", summary:"Students learn that the Moon appears to change shape in the sky over about a month, moving through phases such as a full moon and a crescent moon.",
    resourceLabel:"YouTube: The Moon and Its Phases", resourceUrl:"https://www.youtube.com/results?search_query=The%20Moon%20and%20Its%20Phases%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ie2WRraxdPs",
    quiz:[
      {q:"What do we call it when the Moon looks like a complete circle in the sky?", options:["New moon","Crescent moon","Half moon","Full moon"], answer:3},
      {q:"What do we call the thin curved shape of the Moon?", options:["Star","Full moon","Square moon","Crescent moon"], answer:3},
@@ -1574,6 +1577,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Body Belongs to Me: Personal Safety", summary:"Students learn simple personal safety rules, such as it is okay to say no to unwanted touches and to tell a trusted adult if something makes them feel unsafe.",
    resourceLabel:"YouTube: My Body Belongs to Me: Personal Safety", resourceUrl:"https://www.youtube.com/results?search_query=My%20Body%20Belongs%20to%20Me%3A%20Personal%20Safety%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PJKoGkmtNyI",
    quiz:[
      {q:"What should you do if someone makes you feel unsafe?", options:["Ignore the feeling","Run away and hide alone","Stay quiet forever","Tell a trusted adult"], answer:3},
      {q:"Is it okay to say no to a touch that makes you feel uncomfortable?", options:["Yes, it is okay","No, never","Only if an adult says so","Only at school"], answer:0},

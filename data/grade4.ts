@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Reading: Making Predictions", summary:"Ontario Grade 4 Reading strand: making predictions means using clues from the title, pictures, and text so far to thoughtfully guess what might happen next in a story.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=NV7cFkGvfJI",
    quiz:[
      {q:"Making a prediction while reading means ___.", options:["Using clues from the text to thoughtfully guess what happens next","Skipping to the end of the book","Randomly guessing with no clues","Ignoring the story completely"], answer:0},
      {q:"Which is a good source of clues for making predictions?", options:["The title and pictures","The font style","The price of the book","The publisher's name"], answer:0},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Classifying Triangles", summary:"Ontario Grade 4 Geometry strand: triangles can be classified by their sides (equilateral, isosceles, scalene) and by their angles (right, acute, obtuse).",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=BxmZr2YcP4g",
    quiz:[
      {q:"A triangle with all three sides equal is called ___.", options:["Isosceles","Scalene","Equilateral","Right"], answer:2},
      {q:"A triangle with exactly two equal sides is called ___.", options:["Equilateral","Scalene","Obtuse","Isosceles"], answer:3},
@@ -1450,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: Constellations and the Night Sky", summary:"Ontario Grade 4 Science Earth and Space Systems strand: constellations are patterns of stars that people have named and used for navigation and storytelling, appearing to shift position across the seasons.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=U7yqx1hSqlw",
    quiz:[
      {q:"A constellation is a ___.", options:["Type of planet","Type of moon","Single bright star","Pattern of stars that has been named"], answer:3},
      {q:"Constellations have historically been used for ___.", options:["Cooking recipes","Measuring temperature","Navigation and storytelling","Building materials"], answer:2},
@@ -1459,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Physical Regions of Canada", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada includes diverse physical regions, such as the Canadian Shield, the Prairies, the Rocky Mountains, and coastal areas, each with distinct landforms and climates.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
      {q:"Which physical region of Canada is known for flat, fertile farmland?", options:["The Prairies","The Arctic","The Rocky Mountains","The Canadian Shield"], answer:0},
      {q:"The Canadian Shield is mainly made up of ___.", options:["Sand dunes","Tropical rainforest","Ancient rock, forests, and lakes","Ocean floor"], answer:2},
