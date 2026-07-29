@@ -1376,6 +1376,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Insects and Their Body Parts", summary:"Students learn that insects are small animals with six legs and three main body parts, head, thorax, and abdomen, and that many insects also have wings and antennae.",
    resourceLabel:"YouTube: Insects and Their Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Insects%20and%20Their%20Body%20Parts%20grade%202%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=UJRkHKQ1ekk",
    quiz:[
      {q:"How many legs does an insect have?", options:["Four","Six","Ten","Eight"], answer:1},
      {q:"What are the three main body parts of an insect?", options:["Head, thorax, and abdomen","Legs, eyes, and fur","Shell, fin, and gills","Head, tail, and wings"], answer:0},
@@ -1407,6 +1408,7 @@ const curriculum: DayContent[] = [
 {day:33, label:"Day 33 — Wed", subjects:[
   {subject:"Language", title:"Common and Proper Nouns", summary:"Students learn that a common noun names a general person, place, or thing, like city or dog, while a proper noun names a specific one and begins with a capital letter, like Toronto or Rex.",
    resourceLabel:"YouTube: Common and Proper Nouns", resourceUrl:"https://www.youtube.com/results?search_query=Common%20and%20Proper%20Nouns%20grade%202%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=-g7Os65-9ro",
    quiz:[
      {q:"Which of these is a common noun?", options:["Dog","Monday","Toronto","Canada"], answer:0},
      {q:"Which of these is a proper noun?", options:["dog","Toronto","city","boy"], answer:1},
@@ -1421,6 +1423,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Telling Time to Five-Minute Intervals", summary:"Students learn to read an analog clock to the nearest five minutes, counting by 5s around the clock face starting from the 12.",
    resourceLabel:"YouTube: Telling Time to Five-Minute Intervals", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%20to%20Five-Minute%20Intervals%20grade%202%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=F4uS26vVw3s",
    quiz:[
      {q:"If the minute hand points to the 3, what time is it past the hour?", options:["15 minutes","5 minutes","20 minutes","30 minutes"], answer:0},
      {q:"If the minute hand points to the 6, what time is it past the hour?", options:["45 minutes","30 minutes","15 minutes","6 minutes"], answer:1},
@@ -1435,6 +1438,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Recycling and Reducing Waste", summary:"Students learn that recycling turns used materials like paper, plastic, and glass into new products, and that reducing and reusing waste helps protect the environment.",
    resourceLabel:"YouTube: Recycling and Reducing Waste", resourceUrl:"https://www.youtube.com/results?search_query=Recycling%20and%20Reducing%20Waste%20grade%202%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=Fex-wvrOZf4",
    quiz:[
      {q:"What is recycling?", options:["Burying all waste","Burning all garbage","Turning used materials into new products","Throwing everything away"], answer:2},
      {q:"Which of these materials can often be recycled?", options:["Water","Food scraps only","Air","Paper"], answer:3},
@@ -1449,6 +1453,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Provinces and Territories of Canada", summary:"Students learn that Canada is divided into ten provinces and three territories, each with its own capital city, and that Ontario is the province where they live.",
    resourceLabel:"YouTube: Provinces and Territories of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Provinces%20and%20Territories%20of%20Canada%20grade%202%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=2gh_r2IS5pc",
    quiz:[
      {q:"What do we call the large regions Canada is divided into, such as Ontario and Quebec?", options:["Oceans","Provinces","Countries","Continents"], answer:1},
      {q:"How many provinces does Canada have?", options:["3","5","13","10"], answer:3},
@@ -1465,6 +1470,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Pronouns: He, She, It, They", summary:"Students learn that a pronoun is a word that can take the place of a noun, such as using he for a boy, she for a girl, it for a thing, and they for more than one person or thing.",
    resourceLabel:"YouTube: Pronouns: He, She, It, They", resourceUrl:"https://www.youtube.com/results?search_query=Pronouns%3A%20He%2C%20She%2C%20It%2C%20They%20grade%202%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=3MWVh1ooKI0",
    quiz:[
      {q:"Which pronoun could replace the noun Sam if Sam is a boy?", options:["They","She","He","It"], answer:2},
      {q:"Which pronoun could replace the noun Maria if Maria is a girl?", options:["It","He","They","She"], answer:3},
@@ -1479,6 +1485,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measuring Length with Centimetres and Metres", summary:"Students learn to measure the length of objects using standard units, choosing centimetres for shorter objects like a pencil and metres for longer distances like a hallway.",
    resourceLabel:"YouTube: Measuring Length with Centimetres and Metres", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Length%20with%20Centimetres%20and%20Metres%20grade%202%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=i1sUWP80cmA",
    quiz:[
      {q:"Which unit would you use to measure the length of a pencil?", options:["Kilograms","Centimetres","Litres","Metres"], answer:1},
      {q:"Which unit would you use to measure the length of a hallway?", options:["Millilitres","Metres","Degrees","Centimetres"], answer:1},

@@ -1438,6 +1438,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Insects and Their Body Parts", summary:"Students learn that insects, such as ants and butterflies, have three main body parts and six legs, and explore how insects are different from other animals.",
    resourceLabel:"YouTube: Insects and Their Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Insects%20and%20Their%20Body%20Parts%20grade%201%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=UJRkHKQ1ekk",
    quiz:[
      {q:"How many legs does an insect have?", options:["10","4","8","6"], answer:3},
      {q:"How many main body parts does an insect have?", options:["5","3","2","4"], answer:1},
@@ -1452,6 +1453,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Needs and Wants: What We Really Need", summary:"Students learn to tell the difference between needs, things we must have to live such as food and shelter, and wants, things that are nice to have but not necessary such as toys.",
    resourceLabel:"YouTube: Needs and Wants: What We Really Need", resourceUrl:"https://www.youtube.com/results?search_query=Needs%20and%20Wants%3A%20What%20We%20Really%20Need%20grade%201%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=EbQmuz_Wcmg",
    quiz:[
      {q:"Which of these is a need?", options:["Water","A video game","Candy","A toy"], answer:0},
      {q:"Which of these is a want?", options:["Shelter","Water","Food","A new toy"], answer:3},
@@ -1468,6 +1470,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Beginning Blends: sp, sm, sn, sw", summary:"Students learn that two consonants can blend together at the start of a word, such as sp in spin, sm in smile, sn in snail, and sw in swim.",
    resourceLabel:"YouTube: Beginning Blends: sp, sm, sn, sw", resourceUrl:"https://www.youtube.com/results?search_query=Beginning%20Blends%3A%20sp%2C%20sm%2C%20sn%2C%20sw%20grade%201%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=i9kINwIoT1w",
    quiz:[
      {q:"Which word begins with the blend sp?", options:["Dog","Run","Cat","Spin"], answer:3},
      {q:"Which word begins with the blend sm?", options:["Hat","Pig","Smile","Sun"], answer:2},
@@ -1482,6 +1485,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Quarters", summary:"Students learn that dividing a whole into four equal parts creates quarters, and that one of the four parts is called one-quarter or one-fourth.",
    resourceLabel:"YouTube: Fractions: Quarters", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Quarters%20grade%201%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=akxO8eNSXJ8",
    quiz:[
      {q:"If a shape is cut into 4 equal parts, each part is called ___.", options:["One-quarter","One whole","One-half","One-third"], answer:0},
      {q:"How many quarters make one whole?", options:["4","2","5","3"], answer:0},
@@ -1496,6 +1500,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nocturnal Animals: Creatures of the Night", summary:"Students learn that nocturnal animals, such as owls and bats, are awake and active mostly at night and sleep during the day.",
    resourceLabel:"YouTube: Nocturnal Animals: Creatures of the Night", resourceUrl:"https://www.youtube.com/results?search_query=Nocturnal%20Animals%3A%20Creatures%20of%20the%20Night%20grade%201%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=TIEmGiV4_-g",
    quiz:[
      {q:"What does the word nocturnal mean?", options:["Always asleep","Awake mostly at night","Awake mostly during the day","Never awake"], answer:1},
      {q:"Which of these animals is known for being nocturnal?", options:["Squirrel","Owl","Chicken","Robin"], answer:1},
@@ -1510,6 +1515,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Transportation Then and Now", summary:"Students compare how people travelled long ago, such as by horse and wagon, to how people travel today, such as by car, bus, and airplane.",
    resourceLabel:"YouTube: Transportation Then and Now", resourceUrl:"https://www.youtube.com/results?search_query=Transportation%20Then%20and%20Now%20grade%201%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=7WME-lWSbDw",
    quiz:[
      {q:"How did many people travel long ago before cars were invented?", options:["By airplane","By rocket","By horse and wagon","By submarine"], answer:2},
      {q:"Which of these is a common way people travel today?", options:["Car","Ox cart only","Sailboat only","Horse and wagon only"], answer:0},

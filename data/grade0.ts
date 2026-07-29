@@ -1438,6 +1438,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycle of a Butterfly", summary:"Students learn the four stages of a butterfly life cycle: egg, caterpillar, chrysalis, and butterfly.",
    resourceLabel:"YouTube: Life Cycle of a Butterfly", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Butterfly%20kindergarten%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=3kZD6rlSLUw",
    quiz:[
      {q:"What is the first stage of a butterfly life cycle?", options:["Caterpillar","Chrysalis","Egg","Butterfly"], answer:2},
      {q:"What hatches from a butterfly egg?", options:["Caterpillar","Cocoon","Chrysalis","Butterfly"], answer:0},
@@ -1452,6 +1453,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Then and Now: How Things Change", summary:"Students compare how things like toys, clothing, and transportation looked long ago and how they look today, building an early sense of time and change.",
    resourceLabel:"YouTube: Then and Now: How Things Change", resourceUrl:"https://www.youtube.com/results?search_query=Then%20and%20Now%3A%20How%20Things%20Change%20kindergarten%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=RcETYXYHBOQ",
    quiz:[
      {q:"Long ago, people often travelled by horse and wagon. Today, many people travel by ___.", options:["Walking only","Car","Nothing changed","Horse only"], answer:1},
      {q:"Which of these is an old way to send a message, before phones?", options:["A letter carried by hand or mail","Texting","Video call","Email"], answer:0},
@@ -1468,6 +1470,7 @@ const curriculum: DayContent[] = [
 {day:34, label:"Day 34 — Thu", subjects:[
   {subject:"Language", title:"Ending Sounds: Listening for Last Sounds", summary:"Students listen carefully to the last sound in a word and identify words that end with the same sound, building phonemic awareness.",
    resourceLabel:"YouTube: Ending Sounds: Listening for Last Sounds", resourceUrl:"https://www.youtube.com/results?search_query=Ending%20Sounds%3A%20Listening%20for%20Last%20Sounds%20kindergarten%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=ys4AJGK0XJQ",
    quiz:[
      {q:"What is the last sound in the word cat?", options:["/a/","/k/","/t/","/c/"], answer:2},
      {q:"Which word ends with the same sound as sun?", options:["Run","Dog","Cap","Sit"], answer:0},
@@ -1482,6 +1485,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Telling Time: Day and Night", summary:"Students learn to tell the difference between day and night activities and begin to recognize a clock as a tool that shows time.",
    resourceLabel:"YouTube: Telling Time: Day and Night", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%3A%20Day%20and%20Night%20kindergarten%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=oRMsWNaDZIE",
    quiz:[
      {q:"Which activity usually happens at night?", options:["Eating breakfast","Sleeping in bed","Going to school","Playing at recess"], answer:1},
      {q:"The sun is in the sky during ___.", options:["Neither","Night","Both equally at all times","Day"], answer:3},
@@ -1496,6 +1500,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycle of a Frog", summary:"Students learn the stages of a frog life cycle: egg, tadpole, froglet, and adult frog.",
    resourceLabel:"YouTube: Life Cycle of a Frog", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Frog%20kindergarten%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=FEgdsLBHWAU",
    quiz:[
      {q:"What is the first stage of a frog life cycle?", options:["Adult frog","Froglet","Egg","Tadpole"], answer:2},
      {q:"What hatches from a frog egg?", options:["Adult frog","Fish","Tadpole","Froglet"], answer:2},
@@ -1510,6 +1515,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rules Keep Us Safe: Traffic Safety", summary:"Students learn simple traffic safety rules, such as looking both ways before crossing, holding an adult hand, and stopping at a red light.",
    resourceLabel:"YouTube: Rules Keep Us Safe: Traffic Safety", resourceUrl:"https://www.youtube.com/results?search_query=Rules%20Keep%20Us%20Safe%3A%20Traffic%20Safety%20kindergarten%20educational",
+  videoUrl:"https://www.youtube.com/watch?v=8YT97ON_b8M",
    quiz:[
      {q:"Before crossing the street, you should ___.", options:["Look both ways","Close your eyes","Ignore traffic lights","Run across quickly"], answer:0},
      {q:"A red traffic light means ___.", options:["Go","Turn only","Stop","Slow down only"], answer:2},
