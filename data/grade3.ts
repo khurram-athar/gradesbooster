@@ -4705,6 +4705,386 @@ const curriculum: DayContent[] = [
      {q:"On what date is Canada Day celebrated?", options:["January 1st","December 25th","October 31st","July 1st"], answer:3}
    ]},
 ]},
+{day:121, label:"Day 121 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Complex Sentences and Subordinate Clauses", summary:"Grade 3 Language strand: a complex sentence combines an independent clause, which can stand alone, with a subordinate clause, which cannot stand alone and often begins with a word like because, although, or when.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is an independent clause?", options:["A clause that can stand alone as a complete sentence","A clause that always begins with because","A single word only","A clause with no verb"], answer:0},
+     {q:"What is a subordinate clause?", options:["A word that rhymes with the subject","A clause that cannot stand alone and depends on another clause","A clause that is always the shortest part of a sentence","A type of punctuation mark"], answer:1},
+     {q:"Which word could begin a subordinate clause?", options:["Quickly","Because","Dog","Purple"], answer:1},
+     {q:"Which sentence is a complex sentence?", options:["We stayed inside and it rained.","Because it was raining, we stayed inside.","We stayed inside.","It was raining."], answer:1},
+     {q:"A complex sentence combines ___.", options:["Two subordinate clauses only","A question and an exclamation","Two nouns","An independent clause and a subordinate clause"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Classifying Triangles by Angle — Acute, Right, and Obtuse", summary:"Grade 3 Math strand: triangles can be classified by their angles as acute (all angles less than 90 degrees), right (one angle exactly 90 degrees), or obtuse (one angle greater than 90 degrees).",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"A right triangle has one angle that measures ___.", options:["Less than 90 degrees","More than 90 degrees","Exactly 180 degrees","Exactly 90 degrees"], answer:3},
+     {q:"In an acute triangle, all angles are ___.", options:["Greater than 90 degrees","Less than 90 degrees","Exactly 90 degrees","Equal to 180 degrees"], answer:1},
+     {q:"An obtuse triangle has one angle that is ___.", options:["Greater than 90 degrees","Less than 90 degrees","Equal to 0 degrees","Exactly 90 degrees"], answer:0},
+     {q:"How many right angles can a triangle have at most?", options:["1","0","2","3"], answer:0},
+     {q:"If a triangle has angles of 60, 60, and 60 degrees, it is classified as ___.", options:["Straight","Obtuse","Acute","Right"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Reptiles — Scales, Cold-Blooded Bodies, and Survival", summary:"Grade 3 Science strand: reptiles are cold-blooded animals covered in scales that rely on their environment to regulate body temperature, including snakes, turtles, and lizards.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What covers the body of a reptile?", options:["Fur","Smooth wet skin","Scales","Feathers"], answer:2},
+     {q:"What does it mean that reptiles are cold-blooded?", options:["They cannot survive at all","Their blood is always freezing","They have no blood","Their body temperature depends on their environment"], answer:3},
+     {q:"Which of these is an example of a reptile?", options:["A frog","A turtle","A robin","A bat"], answer:1},
+     {q:"How might a reptile warm up its body on a cool day?", options:["By staying in the shade all day","By shivering constantly","By swimming in cold water","By basking in the sun"], answer:3},
+     {q:"Reptiles are different from amphibians because reptiles ___.", options:["Have feathers","Cannot lay eggs","Have dry, scaly skin rather than moist skin","Always live underwater"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Physical Regions of Canada — The Hudson Bay Lowlands", summary:"Grade 3 Social Studies strand: the Hudson Bay Lowlands is a flat, marshy physical region of Canada surrounding Hudson Bay, known for wetlands, permafrost, and unique wildlife such as polar bears.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What physical region surrounds Hudson Bay?", options:["The Canadian Shield","The Rocky Mountains","The Prairies","The Hudson Bay Lowlands"], answer:3},
+     {q:"What kind of landscape is typical of the Hudson Bay Lowlands?", options:["Tropical rainforest","Sandy desert","Tall and mountainous","Flat and marshy"], answer:3},
+     {q:"Which animal is closely associated with the Hudson Bay Lowlands region?", options:["The camel","The kangaroo","The polar bear","The parrot"], answer:2},
+     {q:"What is permafrost, which is common in this region?", options:["A type of rock only found in mountains","A warm wind pattern","Permanently frozen ground","A type of ocean current"], answer:2},
+     {q:"The Hudson Bay Lowlands is one of Canadas ___.", options:["Territories only","Provinces","Official languages","Physical regions"], answer:3}
+   ]},
+]},
+{day:122, label:"Day 122 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Personification", summary:"Grade 3 Language strand: personification is a figure of speech that gives human qualities, such as feelings or actions, to an animal, object, or idea, such as saying the wind whispered through the trees.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is personification?", options:["A type of punctuation","A synonym for a noun","Giving human qualities to something that is not human","A rhyme scheme in poetry"], answer:2},
+     {q:"Which sentence uses personification?", options:["The sun is very hot.","The sun is a star.","The sun smiled down on the park.","The sun rose at six oclock."], answer:2},
+     {q:"Personification often gives objects or animals the ability to ___.", options:["Multiply on their own","Think, feel, or act like a person","Change colour instantly","Disappear completely"], answer:1},
+     {q:"Why do authors use personification?", options:["To make sentences shorter","To make writing more vivid and imaginative","To avoid using adjectives","To confuse the reader on purpose"], answer:1},
+     {q:"Which phrase is an example of personification?", options:["The old car is blue.","The old car has four wheels.","The old car was parked outside.","The old car groaned as it climbed the hill."], answer:3}
+   ]},
+  {subject:"Math", title:"Multiplication: Introducing 2-Digit by 2-Digit Multiplication", summary:"Grade 3 Math strand: multiplying two 2-digit numbers can be done by breaking each number into tens and ones and multiplying the parts before adding the results together.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"To multiply 23 x 12, one strategy is to break 12 into ___.", options:["10 and 2","20 and 1","11 and 1","6 and 6"], answer:0},
+     {q:"What is 23 x 10?", options:["233","230","2300","23"], answer:1},
+     {q:"What is 23 x 2?", options:["48","44","46","43"], answer:2},
+     {q:"Using the break-apart strategy, 23 x 12 equals 23 x 10 plus 23 x 2, which is 230 plus 46, or ___.", options:["256","276","286","266"], answer:1},
+     {q:"Breaking a multiplication problem into smaller, friendlier parts is called the ___.", options:["Estimating strategy","Grouping strategy only for division","Rounding strategy","Distributive strategy"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Skeletal System — Bones for Support and Protection", summary:"Grade 3 Science strand: the skeletal system is made up of bones that give the body structure and support, protect internal organs, and work with muscles to allow movement.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of the skeletal system?", options:["To pump blood","To help us breathe","To support the body and protect organs","To digest food"], answer:2},
+     {q:"Which organ does the skull protect?", options:["The muscles","The stomach","The lungs","The brain"], answer:3},
+     {q:"What protects the heart and lungs inside the chest?", options:["The spine alone","The rib cage","The skin","The skull"], answer:1},
+     {q:"What do bones work together with to allow the body to move?", options:["Muscles","The lungs alone","The skin","The digestive system"], answer:0},
+     {q:"The skeletal system is made up mainly of ___.", options:["Nerves","Muscles only","Bones","Blood vessels"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas National Symbols — The Flag and Anthem", summary:"Grade 3 Social Studies strand: national symbols like the maple leaf flag and the national anthem O Canada represent shared Canadian identity and are used at ceremonies and celebrations across the country.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What image appears on the Canadian flag?", options:["A maple leaf","A crown","A star","An eagle"], answer:0},
+     {q:"What is the name of Canadas national anthem?", options:["True North","The Maple Song","O Canada","God Save the King"], answer:2},
+     {q:"Why do countries have national symbols like flags and anthems?", options:["To confuse other countries","To represent shared identity and unity","To replace all laws","To decorate buildings only"], answer:1},
+     {q:"Where might you commonly hear the Canadian national anthem performed?", options:["Never in public","Only in other countries","Only inside private homes","At school assemblies and sporting events"], answer:3},
+     {q:"What colours appear on the Canadian flag?", options:["Yellow and black","Blue and green","Purple and orange","Red and white"], answer:3}
+   ]},
+]},
+{day:123, label:"Day 123 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Comparing Multiple Versions of the Same Story", summary:"Grade 3 Language strand: readers can compare different versions of the same story, such as a book and its film adaptation, by noting similarities and differences in characters, setting, and events.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"When comparing two versions of the same story, what might a reader look for?", options:["Only the page numbers","Similarities and differences in characters, setting, and events","The name of the printer","The colour of the cover"], answer:1},
+     {q:"Which is an example of comparing two versions of a story?", options:["Looking only at the title","Reading the same page twice","Counting the words in a chapter","Comparing a book to its movie adaptation"], answer:3},
+     {q:"A detail that appears in the book but not in the movie is an example of a ___.", options:["Similarity between the two versions","Grammar rule","Difference between the two versions","Punctuation mark"], answer:2},
+     {q:"Why might a movie version of a story leave out some events from the book?", options:["Movies must always be identical to books","To fit the story into a shorter amount of time","Movies cannot show characters speaking","It is never allowed to change anything"], answer:1},
+     {q:"Comparing versions of a story can help readers understand ___.", options:["The authors home address","How different choices affect storytelling","Only the price of the book","The exact publication date"], answer:1}
+   ]},
+  {subject:"Math", title:"Division: Three-Digit by One-Digit Division", summary:"Grade 3 Math strand: dividing a three-digit number by a one-digit number can be done by breaking the number into hundreds, tens, and ones and dividing each part, such as 936 divided by 3.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is 936 divided by 3?", options:["321","302","313","312"], answer:3},
+     {q:"What is 848 divided by 4?", options:["202","212","221","210"], answer:1},
+     {q:"What is 555 divided by 5?", options:["115","110","111","101"], answer:2},
+     {q:"What is 728 divided by 7?", options:["114","140","104","102"], answer:2},
+     {q:"One strategy for dividing a large number is to break it into ___.", options:["Only even parts","Random digits","Fractions","Hundreds, tens, and ones"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Respiratory System — How We Breathe", summary:"Grade 3 Science strand: the respiratory system brings oxygen into the body and removes carbon dioxide, using the lungs to exchange gases each time we breathe in and out.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of the respiratory system?", options:["To bring in oxygen and remove carbon dioxide","To move the body","To pump blood","To digest food"], answer:0},
+     {q:"Which organs are the main part of the respiratory system?", options:["The stomach","The lungs","The bones","The muscles"], answer:1},
+     {q:"What gas does the body take in when breathing?", options:["Carbon dioxide only","Oxygen","Nitrogen only","Helium"], answer:1},
+     {q:"What gas does the body release when breathing out?", options:["Hydrogen","Oxygen only","Carbon dioxide","Water only"], answer:2},
+     {q:"Air usually enters the body through the ___.", options:["Nose or mouth","Ears","Skin","Eyes"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of the Prime Minister", summary:"Grade 3 Social Studies strand: the Prime Minister is the leader of the federal government in Canada, responsible for guiding national policy and representing Canada at home and abroad.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the Prime Minister the leader of?", options:["A sports league","A single city","A school board","The federal government of Canada"], answer:3},
+     {q:"What is one responsibility of the Prime Minister?", options:["Teaching in a classroom","Coaching a hockey team","Running a local business","Guiding national policy and decisions"], answer:3},
+     {q:"At which level of government does the Prime Minister serve?", options:["Federal","None of these","Municipal only","Provincial only"], answer:0},
+     {q:"How does the Prime Minister typically represent Canada?", options:["By avoiding all public appearances","By ignoring international events","By meeting with leaders of other countries","By only working within one city"], answer:2},
+     {q:"The Prime Minister works alongside elected representatives to ___.", options:["Make decisions for a single street","Coach youth sports","Make decisions for the whole country","Run a private company"], answer:2}
+   ]},
+]},
+{day:124, label:"Day 124 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Biography", summary:"Grade 3 Language strand: a biography is a true account of a real persons life written by someone else, organized around key events, achievements, and their importance.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a biography?", options:["A type of poem","A list of spelling words","A true account of a real persons life written by someone else","A made-up story about an animal"], answer:2},
+     {q:"A biography is different from an autobiography because ___.", options:["A biography is always fiction","A biography is written only by children","A biography is written by someone other than the subject","A biography has no facts"], answer:2},
+     {q:"Which detail would likely appear in a biography?", options:["A made-up dialogue between dragons","A weather forecast","Important events and achievements in the persons life","A recipe for cookies"], answer:2},
+     {q:"Why do writers often organize a biography in time order?", options:["To avoid mentioning any dates","To show how events in the persons life unfolded","To make it harder to understand","To copy a diary exactly"], answer:1},
+     {q:"Which of these people could be the subject of a biography?", options:["A talking cartoon rabbit","An imaginary planet","A real scientist who made an important discovery","A fictional wizard"], answer:2}
+   ]},
+  {subject:"Math", title:"Number: Place Value Beyond 10 000", summary:"Grade 3 Math strand: numbers greater than 10 000 can be understood using place value, where each digit represents ones, tens, hundreds, thousands, or ten-thousands depending on its position.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"In the number 34 521, what digit is in the ten-thousands place?", options:["2","5","3","4"], answer:2},
+     {q:"In the number 34 521, what digit is in the thousands place?", options:["2","5","3","4"], answer:3},
+     {q:"What is the value of the digit 5 in the number 34 521?", options:["50","5000","500","5"], answer:2},
+     {q:"Which number is greater, 45 678 or 45 687?", options:["45 687","Cannot be determined","They are equal","45 678"], answer:0},
+     {q:"How many digits does a number with a ten-thousands place have at minimum?", options:["6","3","5","4"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Food Groups and a Balanced Diet", summary:"Grade 3 Science strand: a balanced diet includes a variety of foods from different groups, such as vegetables and fruits, grain products, protein foods, and dairy or alternatives, to keep the body healthy.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is a balanced diet?", options:["Skipping meals entirely","Eating as much sugar as possible","Eating a variety of foods from different food groups","Eating only one type of food"], answer:2},
+     {q:"Which of these is an example of a vegetable or fruit?", options:["An apple","A slice of bread","A piece of chicken","A glass of milk"], answer:0},
+     {q:"Why is it important to eat a variety of food groups?", options:["Variety makes food taste worse","Different foods provide different nutrients the body needs","All foods provide the exact same nutrients","The body only needs one nutrient"], answer:1},
+     {q:"Which food group provides calcium for strong bones?", options:["Dairy or alternatives","Only vegetables","Grain products only","Sugary snacks"], answer:0},
+     {q:"A healthy meal often includes foods from ___.", options:["A single food group","Only the dessert group","No food groups at all","Several different food groups"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Metis Nation and Their History", summary:"Grade 3 Social Studies strand: the Metis Nation is one of the three recognized Indigenous peoples of Canada, with a distinct culture that developed from the intermarriage of First Nations and European fur traders.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"The Metis Nation is one of how many recognized Indigenous peoples of Canada?", options:["Three","One","Twenty","Ten"], answer:0},
+     {q:"The distinct Metis culture developed historically from the intermarriage of which two groups?", options:["First Nations and European fur traders","Only recent immigrants","Only European settlers","Only Inuit peoples"], answer:0},
+     {q:"What is one way the Metis Nation has a distinct identity?", options:["Its own culture, language, and traditions","An identical culture to all other groups","No historical connection to Canada","No traditions of any kind"], answer:0},
+     {q:"Which of the following is one of Canadas three recognized Indigenous peoples alongside the Metis?", options:["Explorers","First Nations","Settlers","Immigrants"], answer:1},
+     {q:"Learning about the Metis Nation helps students understand ___.", options:["A single unrelated event","A topic unrelated to Canada","A fictional story only","An important part of Canadian history and identity"], answer:3}
+   ]},
+]},
+{day:125, label:"Day 125 — Fri", subjects:[
+  {subject:"Language", title:"Oral Communication: Participating in a Group Discussion", summary:"Grade 3 Language strand: participating effectively in a group discussion involves taking turns speaking, listening to others ideas, and building on what classmates say in a respectful way.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is an important skill for participating in a group discussion?", options:["Talking constantly without stopping","Ignoring what classmates say","Taking turns speaking and listening to others","Leaving the group before it starts"], answer:2},
+     {q:"What does it mean to build on someone elses idea in a discussion?", options:["Adding a related thought that connects to what was said","Repeating the exact same sentence","Refusing to respond","Changing the subject completely"], answer:0},
+     {q:"Why is respectful listening important during a group discussion?", options:["It only matters for the teacher","It helps everyone understand different viewpoints","It is not actually necessary","It slows the discussion down for no reason"], answer:1},
+     {q:"Which behaviour shows good discussion skills?", options:["Refusing to share any ideas","Interrupting others frequently","Talking over classmates","Waiting for a turn to speak and staying on topic"], answer:3},
+     {q:"A group discussion works best when everyone ___.", options:["Stays silent the whole time","Only talks about themselves","Speaks at the same time","Contributes ideas and listens to others"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Creating and Reading a Frequency Table", summary:"Grade 3 Math strand: a frequency table organizes data by showing how many times each value or category occurs, making patterns in the data easier to see.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does a frequency table show?", options:["The colour of each item","Only the largest value","Only the smallest value","How many times each value or category occurs"], answer:3},
+     {q:"If 5 students chose blue as their favourite colour, what number would appear next to blue in the frequency table?", options:["5","0","10","1"], answer:0},
+     {q:"A frequency table is useful for organizing data because it ___.", options:["Removes all numbers","Only works with one item","Makes patterns and totals easier to see","Hides the data completely"], answer:2},
+     {q:"What is usually listed in the first column of a frequency table?", options:["The teachers name","The date only","Random numbers","The categories or values being counted"], answer:3},
+     {q:"After collecting data, what is often the next step before making a frequency table?", options:["Tallying or counting the results","Throwing away the data","Guessing the results","Skipping the count"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Muscular System — Muscles That Move Our Bodies", summary:"Grade 3 Science strand: the muscular system is made up of muscles that contract and relax to move the bones of the skeleton, allowing the body to walk, run, and perform other movements.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What does the muscular system help the body do?", options:["See","Digest food","Breathe only","Move"], answer:3},
+     {q:"How do muscles create movement?", options:["By growing new bones","By contracting and relaxing","By changing colour","By producing blood"], answer:1},
+     {q:"What do muscles pull on to move the body?", options:["Blood vessels","Bones","Skin only","Nerves alone"], answer:1},
+     {q:"Which activity relies heavily on the muscular system?", options:["Running","Sitting still with eyes closed","Sleeping","Thinking silently"], answer:0},
+     {q:"The muscular system works closely with which other body system to create movement?", options:["The respiratory system alone","The skeletal system","The circulatory system alone","The digestive system"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Statutory Holidays Across Canada", summary:"Grade 3 Social Studies strand: statutory holidays are official days off recognized by law, such as Victoria Day and Thanksgiving, and some holidays vary between provinces and territories.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is a statutory holiday?", options:["An official day off recognized by law","A day with no meaning","A regular school day","A holiday only celebrated by one family"], answer:0},
+     {q:"Which of these is an example of a Canadian statutory holiday?", options:["A birthday party","A random Tuesday","Thanksgiving","A weekend errand"], answer:2},
+     {q:"Do all provinces and territories in Canada share the exact same statutory holidays?", options:["Yes, every holiday is identical everywhere","Only one province has holidays","No, some holidays vary by province or territory","Canada has no statutory holidays"], answer:2},
+     {q:"Why might a country establish statutory holidays?", options:["To recognize important events or give workers time to rest and celebrate","To replace weekends entirely","To confuse the calendar","To remove all days off"], answer:0},
+     {q:"Which holiday celebrates the arrival of spring and Queen Victorias birthday in Canada?", options:["Labour Day","Victoria Day","Canada Day","Remembrance Day"], answer:1}
+   ]},
+]},
+{day:126, label:"Day 126 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Connotation and Denotation", summary:"Grade 3 Language strand: denotation is the literal, dictionary definition of a word, while connotation is the feeling or association the word carries, such as the difference between the words skinny and slender.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is denotation?", options:["The literal, dictionary definition of a word","A rhyme within a poem","A type of punctuation","The feeling a word gives the reader"], answer:0},
+     {q:"What is connotation?", options:["The opposite of a word","The feeling or association a word carries beyond its literal meaning","The exact number of letters in a word","The part of speech of a word"], answer:1},
+     {q:"Which word has a more positive connotation than skinny even though both describe a similar body type?", options:["Underfed","Bony","Scrawny","Slender"], answer:3},
+     {q:"Why might a writer choose a word with a certain connotation?", options:["To confuse the meaning entirely","To create a specific feeling or impression in the reader","To make the sentence longer","To avoid describing anything"], answer:1},
+     {q:"The words house and home have similar denotations, but home often has a connotation of ___.", options:["Emptiness","Warmth and comfort","Confusion","Danger"], answer:1}
+   ]},
+  {subject:"Math", title:"Fractions: Fractions Greater Than One (Improper Fractions)", summary:"Grade 3 Math strand: an improper fraction has a numerator greater than or equal to its denominator, representing an amount greater than or equal to one whole, such as 5/4.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is an improper fraction?", options:["A fraction with a numerator greater than or equal to its denominator","A fraction that is always less than one","A fraction with no numerator","A fraction with a denominator of zero"], answer:0},
+     {q:"Which of these is an improper fraction?", options:["1/4","3/8","2/5","5/4"], answer:3},
+     {q:"Does 5/4 represent more or less than one whole?", options:["Less than one whole","Exactly zero","More than one whole","Exactly one half"], answer:2},
+     {q:"Which fraction is equal to exactly one whole?", options:["3/4","4/4","1/4","2/4"], answer:1},
+     {q:"An improper fraction can be rewritten as ___.", options:["A negative number","A decimal only","A mixed number","An even number"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Grasslands and Savanna Habitats", summary:"Grade 3 Science strand: grasslands and savannas are habitats dominated by grasses with few trees, supporting animals adapted to open spaces such as grazing herds and fast-running predators.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main type of plant found in a grassland habitat?", options:["Cacti","Moss only","Coral","Grasses"], answer:3},
+     {q:"Why do grassland habitats have few trees?", options:["Trees are not allowed to grow anywhere on Earth","It is always too cold for any plants","The soil contains no nutrients at all","Conditions like rainfall and fires favour grasses over trees"], answer:3},
+     {q:"Which adaptation might help an animal survive on an open grassland?", options:["Gills for breathing underwater","Wings for flying underwater","Thick fur for arctic cold only","Speed to escape predators in open spaces"], answer:3},
+     {q:"A savanna is best described as a ___.", options:["Deep ocean trench","Frozen tundra","Dense underwater forest","Grassy habitat with scattered trees"], answer:3},
+     {q:"Which animal is commonly associated with grassland or savanna habitats?", options:["A zebra","A penguin","A polar bear","A shark"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadian Inventions That Changed the World", summary:"Grade 3 Social Studies strand: Canadians have contributed many important inventions, such as the telephone, insulin, and basketball, that have had a lasting impact on daily life around the world.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Which of these inventions is credited to a Canadian context?", options:["The telephone","The printing press","The wheel","The compass"], answer:0},
+     {q:"What important medical treatment was discovered by Canadian researchers?", options:["Vaccines in general","Penicillin","X-rays","Insulin"], answer:3},
+     {q:"Which popular sport was invented by a Canadian?", options:["Tennis","Cricket","Basketball","Soccer"], answer:2},
+     {q:"Why is it valuable to learn about Canadian inventions?", options:["They show how Canadians have contributed to the world","They have no importance","They only matter in one city","They prove inventions are impossible"], answer:0},
+     {q:"An invention that changed the world usually ___.", options:["Has a lasting impact on how people live","Cannot be used more than once","Affects nobody at all","Disappears within a day"], answer:0}
+   ]},
+]},
+{day:127, label:"Day 127 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Text Structure — Sequence and Chronological Order", summary:"Grade 3 Language strand: sequence, or chronological order, is a text structure that presents events or steps in the order they happen, often signalled by words like first, next, then, and finally.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does sequence text structure show?", options:["Events or steps in the order they happen","A single opinion","A list of definitions only","A comparison between two topics"], answer:0},
+     {q:"Which words often signal sequence in a text?", options:["Same as, different from","Although, however, but","Because, therefore, so","First, next, then, finally"], answer:3},
+     {q:"Which type of text is most likely to use sequence structure?", options:["A set of instructions for building a birdhouse","A dictionary entry","A persuasive letter","A poem about the moon"], answer:0},
+     {q:"Chronological order arranges events based on ___.", options:["Their importance only","The order in which they occurred in time","Their length","Their spelling"], answer:1},
+     {q:"Why is sequence structure useful in a how-to text?", options:["It makes steps optional","It hides important steps","It removes the need for steps","It helps readers follow steps in the correct order"], answer:3}
+   ]},
+  {subject:"Math", title:"Measurement: Measuring Angles with a Protractor", summary:"Grade 3 Math strand: a protractor is a tool used to measure the size of an angle in degrees, with the flat edge lined up along one side of the angle and zero on the scale.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What tool is used to measure the size of an angle?", options:["A thermometer","A scale","A ruler","A protractor"], answer:3},
+     {q:"Angles are measured in units called ___.", options:["Metres","Litres","Degrees","Grams"], answer:2},
+     {q:"When using a protractor, what should line up with zero on the scale?", options:["One side of the angle","The bottom of the ruler","The tip of the pencil","The middle of the page"], answer:0},
+     {q:"A right angle measures exactly ___ degrees.", options:["45","180","90","360"], answer:2},
+     {q:"Why is it useful to know how to measure angles precisely?", options:["It helps accurately compare and classify shapes","It has no real use","It replaces the need for rulers","It only matters for circles"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Bees and Pollinators — Hive Life and Pollination", summary:"Grade 3 Science strand: bees are important pollinators that live in organized hives, and as they collect nectar from flowers, they transfer pollen that helps many plants reproduce.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is a pollinator?", options:["A rock formation","An animal that helps move pollen between flowers","An animal that eats only meat","A plant that grows underwater"], answer:1},
+     {q:"What do bees collect from flowers?", options:["Water only","Bark","Nectar","Sand"], answer:2},
+     {q:"How do bees help plants reproduce?", options:["By transferring pollen from flower to flower","By digging up plant roots","By eating the flowers entirely","By blocking sunlight from plants"], answer:0},
+     {q:"Where do many bees live together in an organized group?", options:["A burrow","A hive","A nest made of sticks only","A den"], answer:1},
+     {q:"Why are pollinators like bees important to ecosystems?", options:["They only harm gardens","They have no effect on plants","Many plants depend on them to produce seeds and fruit","They prevent all plants from growing"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canada and the United Nations", summary:"Grade 3 Social Studies strand: the United Nations is an international organization that countries, including Canada, join to cooperate on issues like peace, human rights, and helping people around the world.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the United Nations?", options:["A single country","An international organization that countries join to cooperate","A sports league","A type of currency"], answer:1},
+     {q:"Is Canada a member of the United Nations?", options:["Yes","Canada has never been invited","Canada left long ago","No"], answer:0},
+     {q:"What is one goal of the United Nations?", options:["Starting conflicts between countries","Promoting peace and human rights around the world","Removing all cooperation between nations","Ending international trade"], answer:1},
+     {q:"Why might countries choose to work together through an organization like the United Nations?", options:["To compete secretly","To solve problems that affect many countries together","To avoid helping anyone","It is required with no benefit"], answer:1},
+     {q:"The United Nations includes members from ___.", options:["Only North America","Only Canada","Many countries around the world","Only one continent"], answer:2}
+   ]},
+]},
+{day:128, label:"Day 128 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Using a Thesaurus to Improve Word Choice", summary:"Grade 3 Language strand: a thesaurus is a reference tool that lists synonyms for a word, helping writers choose more precise or varied vocabulary in their writing.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a thesaurus?", options:["A type of calculator","A tool for checking spelling only","A reference tool that lists synonyms for words","A book of maps"], answer:2},
+     {q:"Why might a writer use a thesaurus?", options:["To find a more precise or interesting word","To find the definition of a word only","To remove all adjectives","To make their writing shorter"], answer:0},
+     {q:"If a writer looks up the word happy in a thesaurus, what might they find?", options:["A list of rhyming words","The spelling of the word","Synonyms like joyful or delighted","The opposite of happy only"], answer:2},
+     {q:"A thesaurus is different from a dictionary because a thesaurus ___.", options:["Only lists numbers","Focuses on synonyms rather than definitions","Only has pictures","Has no words at all"], answer:1},
+     {q:"Using varied vocabulary from a thesaurus can help writing become ___.", options:["More interesting and precise","Harder to read on purpose","Shorter than one sentence","Completely nonsensical"], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Calculating Discounts and Sale Prices", summary:"Grade 3 Math strand: a discount lowers the original price of an item, and the sale price can be found by subtracting the discount amount from the original price.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does a discount do to the price of an item?", options:["Lowers it","Keeps it the same","Doubles it","Raises it"], answer:0},
+     {q:"If a toy originally costs 20 dollars and has a 5 dollar discount, what is the sale price?", options:["5 dollars","25 dollars","20 dollars","15 dollars"], answer:3},
+     {q:"How do you find the sale price of an item?", options:["Multiply the price by zero","Ignore the discount","Subtract the discount from the original price","Add the discount to the original price"], answer:2},
+     {q:"A store sign that says 3 dollars off means the item costs ___.", options:["Exactly 3 dollars","3 dollars less than the original price","Free","3 dollars more than the original price"], answer:1},
+     {q:"Why might a store offer a discount on an item?", options:["To make the item impossible to buy","To remove it from shelves without selling it","To encourage customers to buy it","To raise its price permanently"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: How Glaciers and Icebergs Form", summary:"Grade 3 Science strand: glaciers are massive, slow-moving bodies of ice formed from compacted snow over many years, and icebergs are large chunks of ice that break off, or calve, from glaciers into the ocean.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is a glacier?", options:["A warm ocean current","A desert landform","A massive, slow-moving body of ice","A type of cloud"], answer:2},
+     {q:"How do glaciers form?", options:["From rivers freezing overnight only","From snow compacting into ice over many years","From lava cooling quickly","From sand piling up"], answer:1},
+     {q:"What is an iceberg?", options:["A type of fish","A large chunk of ice that has broken off a glacier","A kind of cloud","A warm-water current"], answer:1},
+     {q:"What is it called when a piece of ice breaks off a glacier?", options:["Calving","Erupting","Evaporating","Melting completely"], answer:0},
+     {q:"Where might you expect to find glaciers on Earth?", options:["Grasslands","Tropical rainforests","Deserts","Cold regions such as near the poles or high mountains"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Royal Canadian Mint — How Coins Are Made", summary:"Grade 3 Social Studies strand: the Royal Canadian Mint is the government facility that designs and produces Canadas coins, using metal, machinery, and careful quality checks.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does the Royal Canadian Mint produce?", options:["Paper money only","Canadas coins","Postage stamps","Passports"], answer:1},
+     {q:"What material are most coins made from?", options:["Metal","Wood","Paper","Plastic only"], answer:0},
+     {q:"Why might coins go through quality checks at the mint?", options:["To make each coin different from the rest","Quality does not matter for coins","To make coins impossible to spend","To make sure they are made correctly and consistently"], answer:3},
+     {q:"Who typically produces the official currency of a country?", options:["No one produces currency","A government-run mint","A private toy company","A random individual citizen"], answer:1},
+     {q:"Learning how coins are made helps students understand ___.", options:["How to grow crops","How currency is produced and used in the economy","How elections are held","How weather forecasts work"], answer:1}
+   ]},
+]},
+{day:129, label:"Day 129 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Research Report", summary:"Grade 3 Language strand: a research report presents organized facts about a topic gathered from multiple sources, typically arranged with an introduction, body paragraphs, and a conclusion.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a research report?", options:["An organized presentation of facts about a topic","A made-up story with characters","A list of random words","A single opinion with no facts"], answer:0},
+     {q:"Where do the facts in a research report usually come from?", options:["A single unreliable rumour","Multiple reliable sources","The writers imagination alone","Nowhere; facts are optional"], answer:1},
+     {q:"Which part of a research report usually introduces the topic?", options:["The middle of the second paragraph","The bibliography only","The introduction","The conclusion"], answer:2},
+     {q:"Why is it important to organize a research report into paragraphs?", options:["To make the report harder to read","To avoid using facts","To group related facts and make the report easier to follow","To hide the main topic"], answer:2},
+     {q:"What might a research report include at the end?", options:["A conclusion that summarizes the main points","A blank page","Only a single question","A brand new unrelated topic"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Introducing Circles — Radius and Diameter", summary:"Grade 3 Math strand: a circle has a centre point, a radius that measures from the centre to the edge, and a diameter that measures across the circle through the centre and is twice the length of the radius.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is the radius of a circle?", options:["The distance all the way around the circle","The distance from the centre to the edge","The distance across the circle through the centre","The number of sides a circle has"], answer:1},
+     {q:"What is the diameter of a circle?", options:["The number of corners","The area inside the circle","The distance across the circle through the centre","The distance from the centre to the edge"], answer:2},
+     {q:"If a circle has a radius of 4 cm, what is its diameter?", options:["8 cm","2 cm","16 cm","4 cm"], answer:0},
+     {q:"The diameter of a circle is always ___ the radius.", options:["Half","Twice","Equal to","Three times"], answer:1},
+     {q:"Every point on the edge of a circle is the same distance from the ___.", options:["Edge only","Radius line","Centre","Diameter"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Life Cycle of a Salmon", summary:"Grade 3 Science strand: a salmon begins life as an egg in freshwater, grows into a young fish, migrates to the ocean to mature, and eventually returns to its home stream to spawn and complete its life cycle.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Where does a salmons life cycle typically begin?", options:["On dry land","Inside a cocoon","As an adult in the ocean","As an egg in freshwater"], answer:3},
+     {q:"What does a salmon do after growing older, before returning to spawn?", options:["Turns into a bird","Stays in the same spot its entire life","Buries itself in soil","Migrates to the ocean to mature"], answer:3},
+     {q:"What does it mean for a salmon to spawn?", options:["To hibernate for winter","To lay or fertilize eggs to reproduce","To grow wings","To change into a different species"], answer:1},
+     {q:"Where do adult salmon typically return to spawn?", options:["A desert","A mountain peak","Their home freshwater stream","A random ocean location"], answer:2},
+     {q:"The journey of a salmon between freshwater and the ocean over its life is an example of ___.", options:["Migration","Photosynthesis","Hibernation","Metamorphosis into an insect"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Major Trading Partners", summary:"Grade 3 Social Studies strand: Canada trades goods and services with countries around the world, and some of its largest trading partners include the United States, China, and countries in Europe.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does it mean for two countries to be trading partners?", options:["They never communicate","They compete in the same sports league","They share the exact same government","They regularly buy and sell goods and services with each other"], answer:3},
+     {q:"Which country is one of Canadas largest trading partners?", options:["A country that does not exist","No countries trade with Canada","Antarctica","The United States"], answer:3},
+     {q:"Why is trade important for Canadas economy?", options:["It allows Canada to sell its goods and buy products it needs","It only benefits other countries","It prevents any economic growth","Trade has no effect on the economy"], answer:0},
+     {q:"Which of these might Canada export to other countries?", options:["Only borrowed goods","Nothing at all","Natural resources like lumber and oil","Only used items"], answer:2},
+     {q:"Trading with many different countries helps Canada ___.", options:["Avoid all economic activity","Isolate itself completely","Stop producing its own goods","Access a wider variety of goods and markets"], answer:3}
+   ]},
+]},
+{day:130, label:"Day 130 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Complex Sentences, Personification, and Discussion Skills", summary:"Grade 3 Language strand review: students revisit complex sentences and subordinate clauses, personification, comparing story versions, writing a biography, group discussion skills, connotation and denotation, sequence text structure, using a thesaurus, and writing a research report.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a subordinate clause?", options:["A clause that is always the shortest part of a sentence","A word that rhymes with the subject","A type of punctuation mark","A clause that cannot stand alone and depends on another clause"], answer:3},
+     {q:"What is personification?", options:["Giving human qualities to something that is not human","A type of punctuation","A synonym for a noun","A rhyme scheme in poetry"], answer:0},
+     {q:"What is a biography?", options:["A true account of a real persons life written by someone else","A made-up story about an animal","A list of spelling words","A type of poem"], answer:0},
+     {q:"What is connotation?", options:["The part of speech of a word","The feeling or association a word carries beyond its literal meaning","The exact number of letters in a word","The opposite of a word"], answer:1},
+     {q:"What is a research report?", options:["An organized presentation of facts about a topic","A single opinion with no facts","A made-up story with characters","A list of random words"], answer:0}
+   ]},
+  {subject:"Math", title:"Math Review: Triangles, Place Value, and Circles", summary:"Grade 3 Math strand review: students revisit classifying triangles by angle, 2-digit by 2-digit multiplication, three-digit division, place value beyond 10 000, frequency tables, improper fractions, measuring angles, discounts, and circles.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"A right triangle has one angle that measures ___.", options:["More than 90 degrees","Exactly 180 degrees","Exactly 90 degrees","Less than 90 degrees"], answer:2},
+     {q:"What is an improper fraction?", options:["A fraction that is always less than one","A fraction with a numerator greater than or equal to its denominator","A fraction with no numerator","A fraction with a denominator of zero"], answer:1},
+     {q:"What tool is used to measure the size of an angle?", options:["A ruler","A scale","A thermometer","A protractor"], answer:3},
+     {q:"What does a discount do to the price of an item?", options:["Raises it","Doubles it","Keeps it the same","Lowers it"], answer:3},
+     {q:"What is the diameter of a circle?", options:["The number of corners","The distance from the centre to the edge","The area inside the circle","The distance across the circle through the centre"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Body Systems, Reptiles, and Habitats", summary:"Grade 3 Science strand review: students revisit reptiles, the skeletal system, the respiratory system, food groups, the muscular system, grassland and savanna habitats, bees and pollination, glaciers and icebergs, and the life cycle of a salmon.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What covers the body of a reptile?", options:["Smooth wet skin","Fur","Scales","Feathers"], answer:2},
+     {q:"What is the main job of the skeletal system?", options:["To support the body and protect organs","To help us breathe","To digest food","To pump blood"], answer:0},
+     {q:"What is the main job of the respiratory system?", options:["To move the body","To digest food","To pump blood","To bring in oxygen and remove carbon dioxide"], answer:3},
+     {q:"What is a balanced diet?", options:["Eating a variety of foods from different food groups","Eating as much sugar as possible","Eating only one type of food","Skipping meals entirely"], answer:0},
+     {q:"What is a pollinator?", options:["A rock formation","An animal that eats only meat","A plant that grows underwater","An animal that helps move pollen between flowers"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Regions, Symbols, and Government", summary:"Grade 3 Social Studies strand review: students revisit the Hudson Bay Lowlands, national symbols, the role of the Prime Minister, the Metis Nation, statutory holidays, Canadian inventions, the United Nations, the Royal Canadian Mint, and Canadas trading partners.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What physical region surrounds Hudson Bay?", options:["The Hudson Bay Lowlands","The Canadian Shield","The Prairies","The Rocky Mountains"], answer:0},
+     {q:"What image appears on the Canadian flag?", options:["An eagle","A maple leaf","A star","A crown"], answer:1},
+     {q:"What is the Prime Minister the leader of?", options:["The federal government of Canada","A school board","A sports league","A single city"], answer:0},
+     {q:"The Metis Nation is one of how many recognized Indigenous peoples of Canada?", options:["Ten","Three","Twenty","One"], answer:1},
+     {q:"What is a statutory holiday?", options:["A holiday only celebrated by one family","A day with no meaning","A regular school day","An official day off recognized by law"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
