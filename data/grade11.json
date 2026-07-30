@@ -8619,6 +8619,7 @@
         "summary": "Grade 11 English strand: impromptu speaking requires organizing and delivering a coherent response to a topic with little to no preparation time, drawing on quick critical thinking skills.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=SehA30-v-nM",
         "quiz": [
           {
             "q": "Impromptu speaking requires responding to a topic with ___.",
@@ -8737,6 +8738,7 @@
         "summary": "Grade 11 Biology strand: gene expression is the process by which information in a gene is used to produce a functional product, and gene regulation controls when and how much a gene is expressed.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=ebIpkw3XapE",
         "quiz": [
           {
             "q": "Gene expression is the process by which ___.",
@@ -8796,6 +8798,7 @@
         "summary": "Grade 11 Chemistry strand: a titration curve graphs the pH of a solution as an acid or base is gradually added, showing key points like the equivalence point where the reaction is complete.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=uO8DWyRJMHo",
         "quiz": [
           {
             "q": "A titration curve graphs a solution’s ___.",

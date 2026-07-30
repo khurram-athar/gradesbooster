@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"English", title:"Oral Communication: Impromptu Speaking and Critical Response", summary:"Grade 11 English strand: impromptu speaking requires organizing and delivering a coherent response to a topic with little to no preparation time, drawing on quick critical thinking skills.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=SehA30-v-nM",
    quiz:[
      {q:"Impromptu speaking requires responding to a topic with ___.", options:["Little to no preparation time","No connection to critical thinking at all","Extensive preparation over several weeks","A fully written and memorized script"], answer:0},
      {q:"Why is quick critical thinking important for effective impromptu speaking?", options:["It helps the speaker organize their thoughts and respond coherently under time pressure","Critical thinking has no role in impromptu speaking","Impromptu speeches require no organization of thought at all","This skill is only relevant to prepared, scripted speeches"], answer:0},
@@ -1492,6 +1493,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Genetics: Gene Expression and Regulation", summary:"Grade 11 Biology strand: gene expression is the process by which information in a gene is used to produce a functional product, and gene regulation controls when and how much a gene is expressed.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=ebIpkw3XapE",
    quiz:[
      {q:"Gene expression is the process by which ___.", options:["A gene is permanently deactivated with no further function","A concept unrelated to genetic information","DNA is entirely removed from a cell","Information in a gene is used to produce a functional product"], answer:3},
      {q:"Gene regulation controls ___.", options:["Whether a gene exists within an organism’s DNA","Only the physical location of a gene within a cell","A factor entirely unrelated to gene activity","When and how much a gene is expressed"], answer:3},
@@ -1501,6 +1503,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Acids and Bases: Titration Curves", summary:"Grade 11 Chemistry strand: a titration curve graphs the pH of a solution as an acid or base is gradually added, showing key points like the equivalence point where the reaction is complete.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=uO8DWyRJMHo",
    quiz:[
      {q:"A titration curve graphs a solution’s ___.", options:["Temperature as it changes with no connection to the reaction","Colour as it changes over time with no connection to pH","pH as an acid or base is gradually added","Volume with no connection to pH change"], answer:2},
      {q:"The equivalence point on a titration curve represents ___.", options:["A point with no chemical significance","The moment the reaction stops occurring entirely","The very beginning of the titration process","The point where the acid-base reaction is complete"], answer:3},
