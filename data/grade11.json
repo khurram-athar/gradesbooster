@@ -29181,5 +29181,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 121,
+    "label": "Day 121 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Motif and Recurring Symbols in Fiction",
+        "summary": "Grade 11 English strand: a motif is a recurring image, phrase, or idea that repeats throughout a text, reinforcing central themes and creating structural and thematic unity across a narrative.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is a motif?",
+            "options": [
+              "A recurring image, phrase, or idea repeated throughout a text",
+              "A single event that happens only once in a story",
+              "A type of punctuation mark",
+              "A formal citation style"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a motif typically reinforce in a text?",
+            "options": [
+              "The page numbering of a book",
+              "Central themes and structural unity",
+              "Random unrelated details",
+              "Grammar rules only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a motif differ from a one-time symbol?",
+            "options": [
+              "A motif has no connection to meaning",
+              "A motif repeats across the text, while a single symbol may appear only once",
+              "A motif appears only in poetry, never in prose",
+              "A motif is always a literal object with no symbolic value"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a motif in a novel?",
+            "options": [
+              "The page count of the novel",
+              "Repeated references to birds or flight throughout the story",
+              "A single mention of rain in one chapter",
+              "The title page of the book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reader track a recurring motif while reading?",
+            "options": [
+              "Motifs have no effect on interpretation",
+              "To identify grammatical errors only",
+              "To count how many words are in the chapter",
+              "To notice how the pattern deepens or shifts the meaning of the text over time"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus Preview: An Introduction to the Derivative as a Limit",
+        "summary": "Grade 11 Functions strand: the derivative of a function at a point is defined as the limit of the average rate of change as the interval shrinks toward zero, giving the instantaneous rate of change and the slope of the tangent line.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "How is the derivative of a function at a point defined?",
+            "options": [
+              "As the sum of all function values",
+              "As a fixed number unrelated to the function",
+              "As the total area under the curve",
+              "As the limit of the average rate of change as the interval shrinks toward zero"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the derivative represent geometrically?",
+            "options": [
+              "The area enclosed by the curve",
+              "The slope of the tangent line at a point",
+              "The length of the curve",
+              "The y-intercept of the function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What earlier concept is the formal definition of the derivative built upon?",
+            "options": [
+              "The limit",
+              "Basic addition",
+              "Simple counting",
+              "The Pythagorean Theorem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the derivative measure at a specific point?",
+            "options": [
+              "The instantaneous rate of change of the function",
+              "The number of times a graph crosses the x-axis",
+              "The average value of the function over its entire domain",
+              "The total distance travelled by a graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a function generally required to be continuous at a point before a derivative can exist there?",
+            "options": [
+              "Derivatives only exist for straight lines",
+              "Discontinuous functions always have derivatives everywhere",
+              "A break or jump at a point prevents a well-defined tangent line from being formed",
+              "Continuity has no relationship to derivatives at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: The Cytoskeleton — Structure and Cellular Movement",
+        "summary": "Grade 11 Biology strand: the cytoskeleton is a dynamic network of protein filaments, including microtubules, microfilaments, and intermediate filaments, that maintains cell shape, enables intracellular transport, and drives cellular movement.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is the cytoskeleton?",
+            "options": [
+              "A type of carbohydrate stored in the nucleus",
+              "A structure found only in bacterial cells",
+              "A dynamic network of protein filaments within a cell",
+              "A rigid outer shell surrounding the cell membrane"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a component of the cytoskeleton?",
+            "options": [
+              "Mitochondria",
+              "Ribosomes",
+              "The nucleolus",
+              "Microtubules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role does the cytoskeleton play in cellular movement?",
+            "options": [
+              "It only functions in plant cells",
+              "It provides the structural framework that enables movement such as muscle contraction and cell migration",
+              "It prevents all movement within or by the cell",
+              "It has no connection to movement of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the cytoskeleton help maintain cell shape?",
+            "options": [
+              "It has no role in shape at all",
+              "It surrounds the cell in a hard mineral shell",
+              "It dissolves the cell membrane to allow flexibility",
+              "It forms an internal scaffold of filaments that supports the cell structure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one function of microtubules within the cytoskeleton?",
+            "options": [
+              "Storing genetic information",
+              "Digesting waste products in the cell",
+              "Guiding the separation of chromosomes during cell division",
+              "Producing energy through cellular respiration"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Chelation Therapy — Medical Applications of Coordination Chemistry",
+        "summary": "Grade 11 Chemistry strand: chelation therapy uses chelating agents, molecules that bind tightly to metal ions through multiple coordinate covalent bonds, to remove toxic heavy metals such as lead or mercury from the body.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is a chelating agent?",
+            "options": [
+              "An acid with no metal-binding ability",
+              "A gas used only in refrigeration",
+              "A type of radioactive isotope",
+              "A molecule that binds tightly to metal ions through multiple coordinate bonds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of chelation therapy?",
+            "options": [
+              "Replacing red blood cells",
+              "Curing viral infections directly",
+              "Adding more heavy metals to the bloodstream",
+              "Removing toxic heavy metals from the body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might chelation therapy be used to treat?",
+            "options": [
+              "A common cold",
+              "A broken bone",
+              "Lead or mercury poisoning",
+              "A sunburn"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a chelating agent typically bind to a metal ion?",
+            "options": [
+              "Through a covalent bond with another chelating agent only",
+              "Through no chemical bond at all",
+              "Through multiple coordinate covalent bonds, forming a ring-like structure",
+              "Through a single ionic bond only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Chelation therapy is a medical application of which broader area of chemistry?",
+            "options": [
+              "Nuclear chemistry",
+              "Organic polymer chemistry",
+              "Photochemistry",
+              "Coordination chemistry"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "label": "Day 122 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Poetry: The Ballad — Narrative Poetry and Oral Tradition",
+        "summary": "Grade 11 English strand: a ballad is a narrative poem, often set to music, that tells a story through simple language, repetition, and a regular rhythm, rooted in an oral tradition of passing stories between generations.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does a ballad primarily do?",
+            "options": [
+              "Avoids any use of rhythm or repetition",
+              "Functions only as a formal legal document",
+              "Tells a story through verse, often set to music",
+              "Presents a list of unrelated facts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tradition is the ballad form rooted in?",
+            "options": [
+              "Legal contract writing",
+              "Modern digital publishing only",
+              "Oral storytelling passed between generations",
+              "Formal academic essay writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which literary technique is commonly used in ballads to aid memorization and musicality?",
+            "options": [
+              "Random line lengths with no pattern",
+              "Repetition and regular rhythm",
+              "Complete absence of rhyme or rhythm",
+              "Only footnotes and citations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of language does a ballad typically use?",
+            "options": [
+              "Highly technical, scientific vocabulary only",
+              "Simple, direct language accessible to a wide audience",
+              "Language understood only by scholars",
+              "No language at all, only music"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a ballad be considered a bridge between poetry and music?",
+            "options": [
+              "Ballads have no connection to music whatsoever",
+              "Music was invented after the ballad form disappeared",
+              "Ballads are always performed silently with no sound",
+              "Ballads were traditionally sung and passed down orally before being written"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: Trees and Spanning Trees in Graph Theory",
+        "summary": "Grade 11 Functions strand: a tree is a connected graph with no cycles, and a spanning tree of a graph is a subgraph that connects all vertices using the minimum number of edges, with important applications in network design.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What defines a tree in graph theory?",
+            "options": [
+              "A connected graph with no cycles",
+              "A graph with every vertex connected to every other vertex",
+              "A graph that must contain at least one cycle",
+              "A graph containing only isolated vertices with no edges"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a spanning tree of a graph?",
+            "options": [
+              "A graph with no vertices at all",
+              "A subgraph that connects all vertices using the minimum number of edges and no cycles",
+              "A cycle that visits every edge exactly once",
+              "A tree that only includes half of the vertices"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many edges does a spanning tree with n vertices contain?",
+            "options": [
+              "Exactly 2n",
+              "n plus 1",
+              "n minus 1",
+              "Exactly n squared"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might spanning trees be applied in real-world problems?",
+            "options": [
+              "Determining the colour of a traffic light",
+              "Designing efficient networks, such as minimizing cable length in a network",
+              "Calculating the area of a circle",
+              "Measuring the temperature of a room"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a tree with n vertices never contain a cycle?",
+            "options": [
+              "Cycles have no relationship to the structure of a tree",
+              "Trees require exactly two cycles per vertex",
+              "Trees always contain at least one cycle by definition",
+              "Adding an edge that would create a cycle would mean the graph is no longer a tree by definition"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Endocrine Disruptors and Hormonal Health",
+        "summary": "Grade 11 Biology strand: endocrine disruptors are chemical compounds that interfere with the normal function of the hormonal system by mimicking, blocking, or altering natural hormone signalling, with potential effects on growth, reproduction, and development.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is an endocrine disruptor?",
+            "options": [
+              "A type of vitamin required for healthy bones",
+              "A protein that has no interaction with the endocrine system",
+              "A chemical compound that interferes with normal hormone signalling",
+              "A hormone naturally produced by the pancreas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might an endocrine disruptor affect the body?",
+            "options": [
+              "By permanently increasing bone density only",
+              "By replacing all cells in the body instantly",
+              "By having no measurable biological effect",
+              "By mimicking, blocking, or altering natural hormone signals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which body system do endocrine disruptors primarily target?",
+            "options": [
+              "The digestive system exclusively",
+              "The hormonal (endocrine) system",
+              "The integumentary system only",
+              "The skeletal system only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kinds of biological processes might be affected by exposure to endocrine disruptors?",
+            "options": [
+              "Growth, reproduction, and development",
+              "Only the sense of taste",
+              "Only hair texture",
+              "Only eye colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are scientists concerned about environmental sources of endocrine disruptors?",
+            "options": [
+              "They only exist in a laboratory setting with no real-world presence",
+              "They immediately and completely dissolve with no lasting effect",
+              "Because they may accumulate in the environment and affect wildlife and human hormonal health over time",
+              "Endocrine disruptors have no environmental sources at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Vulcanization — Cross-Linking in Rubber Polymers",
+        "summary": "Grade 11 Chemistry strand: vulcanization is a chemical process in which sulfur atoms form cross-links between polymer chains in rubber, converting a soft, sticky material into a stronger, more elastic, and heat-resistant product.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is vulcanization?",
+            "options": [
+              "A chemical process that forms cross-links between polymer chains in rubber using sulfur",
+              "A physical process with no chemical reaction involved",
+              "A process that removes all polymer chains from rubber",
+              "A method of melting rubber into a liquid permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What element is commonly used to cross-link rubber polymer chains during vulcanization?",
+            "options": [
+              "Chlorine",
+              "Helium",
+              "Sulfur",
+              "Oxygen"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does vulcanized rubber differ from untreated natural rubber?",
+            "options": [
+              "It is softer and much stickier than untreated rubber",
+              "It is stronger, more elastic, and more heat-resistant",
+              "It loses all elasticity and becomes brittle",
+              "It becomes a liquid at room temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What structural change occurs to the polymer chains during vulcanization?",
+            "options": [
+              "The polymer chains disappear entirely",
+              "The chains rearrange into a crystal lattice with no bonds",
+              "All polymer chains are broken into individual monomers",
+              "Cross-links form between separate polymer chains"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is vulcanized rubber used in products like tires?",
+            "options": [
+              "It cannot withstand any temperature change",
+              "It is far more fragile than untreated rubber",
+              "It has no practical advantage over untreated rubber",
+              "Its added strength and heat resistance make it more durable under stress"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "label": "Day 123 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Process Essay — Explaining How Something Works",
+        "summary": "Grade 11 English strand: a process essay explains how to complete a task or how something works through a clear sequence of steps, relying on precise chronological order and transitional language to guide the reader.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a process essay?",
+            "options": [
+              "To argue a single controversial opinion",
+              "To explain how to complete a task or how something works",
+              "To summarize a work of fiction",
+              "To describe a personal memory with no instructional purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What structural feature is essential to a process essay?",
+            "options": [
+              "A rhyme scheme",
+              "A completely random order of ideas",
+              "No structure of any kind",
+              "A clear, chronological sequence of steps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of language helps guide a reader through a process essay?",
+            "options": [
+              "Language with no connection between steps",
+              "Only technical jargon with no explanation",
+              "Transitional language, such as first, next, and finally",
+              "Poetic imagery with no clear steps"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these topics would suit a process essay?",
+            "options": [
+              "A personal reflection on a childhood memory",
+              "How to brew a cup of tea",
+              "An argument about a political issue",
+              "A comparison of two novels"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is precision important in a process essay?",
+            "options": [
+              "Vague instructions are always more effective",
+              "Missing or unclear steps can prevent the reader from successfully completing the task",
+              "Precision has no importance in this type of writing",
+              "Process essays do not require any specific details"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Number Theory: An Introduction to Diophantine Equations",
+        "summary": "Grade 11 Functions strand: a Diophantine equation is a polynomial equation for which only integer solutions are sought, building on earlier work with modular arithmetic and the Euclidean algorithm to determine whether integer solutions exist.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is a Diophantine equation?",
+            "options": [
+              "A geometric formula for area",
+              "An equation that only allows decimal solutions",
+              "An equation with no solutions of any kind",
+              "A polynomial equation for which only integer solutions are sought"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which earlier concept helps determine whether a linear Diophantine equation has integer solutions?",
+            "options": [
+              "The Pythagorean Theorem",
+              "The greatest common divisor, found using the Euclidean algorithm",
+              "Basic multiplication tables",
+              "Trigonometric ratios"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For the linear equation ax + by = c to have integer solutions, what must be true?",
+            "options": [
+              "c must always be a negative number",
+              "The equation must contain no variables",
+              "The greatest common divisor of a and b must divide c",
+              "The values a and b must both equal zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Diophantine equations are named after which historical figure?",
+            "options": [
+              "Isaac Newton",
+              "Pythagoras",
+              "Diophantus, an ancient Greek mathematician",
+              "Leonhard Euler"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a Diophantine equation have no solution even though the corresponding real-number equation does?",
+            "options": [
+              "Integer solutions are always easier to find than real-number ones",
+              "Diophantine equations always have identical solutions to real-number equations",
+              "Diophantine equations never involve integers",
+              "Restricting solutions to integers can eliminate valid real-number answers"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Polyploidy and Chromosome Number Variation in Plants",
+        "summary": "Grade 11 Biology strand: polyploidy is a condition in which an organism has more than two complete sets of chromosomes, a common phenomenon in plants that can lead to increased size, hybrid vigour, and the formation of new species.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is polyploidy?",
+            "options": [
+              "A condition in which an organism has more than two complete sets of chromosomes",
+              "A type of asexual reproduction with no genetic change",
+              "A disease affecting only animal cells",
+              "A condition where an organism has no chromosomes at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which group of organisms is polyploidy especially common?",
+            "options": [
+              "Mammals exclusively",
+              "Plants",
+              "Insects exclusively",
+              "Bacteria exclusively"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What effect can polyploidy have on a plant?",
+            "options": [
+              "It always causes immediate death of the plant",
+              "It can increase size and lead to greater hybrid vigour",
+              "It has no measurable effect on the organism at all",
+              "It permanently removes all genetic material"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can polyploidy contribute to the formation of new plant species?",
+            "options": [
+              "Polyploidy prevents any reproduction from occurring",
+              "Polyploidy always produces offspring identical to a single parent species",
+              "Changes in chromosome number can create reproductive barriers with the original species",
+              "It has no role in speciation whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a polyploid crop plant?",
+            "options": [
+              "Bread wheat",
+              "A haploid bacterial cell",
+              "A single-celled amoeba",
+              "A virus"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Reverse Osmosis and Water Purification",
+        "summary": "Grade 11 Chemistry strand: reverse osmosis is a water purification process that applies external pressure to force water molecules through a semi-permeable membrane, leaving dissolved salts and other impurities behind.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does reverse osmosis use to purify water?",
+            "options": [
+              "Adding large amounts of salt to the water",
+              "Boiling the water at extremely high temperatures",
+              "Freezing the water into solid ice",
+              "External pressure forcing water through a semi-permeable membrane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is left behind by the semi-permeable membrane during reverse osmosis?",
+            "options": [
+              "Nothing is left behind at all",
+              "Pure water molecules only",
+              "Oxygen gas exclusively",
+              "Dissolved salts and other impurities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the process called reverse osmosis?",
+            "options": [
+              "Pressure forces water against its natural direction of osmotic flow, from a more concentrated to a less concentrated solution",
+              "It describes water freezing into a solid",
+              "Water naturally flows this way with no pressure required",
+              "It refers to boiling rather than filtering water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a common application of reverse osmosis technology?",
+            "options": [
+              "Generating electricity directly",
+              "Producing table salt from freshwater",
+              "Desalinating seawater to produce fresh drinking water",
+              "Cooling industrial machinery only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What property of a semi-permeable membrane makes reverse osmosis possible?",
+            "options": [
+              "It blocks all molecules, including water, completely",
+              "It dissolves completely when exposed to water",
+              "It allows small water molecules to pass through while blocking larger dissolved particles",
+              "It allows all substances to pass through equally"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "label": "Day 124 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Active versus Passive Voice for Rhetorical Effect",
+        "summary": "Grade 11 English strand: in active voice the subject performs the action, while in passive voice the subject receives the action, and skilled writers choose deliberately between the two to control emphasis, clarity, and tone.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "In active voice, what does the subject of a sentence do?",
+            "options": [
+              "Only appears in questions",
+              "Is never mentioned in the sentence",
+              "Performs the action of the verb",
+              "Always receives the action"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In passive voice, what happens to the subject of a sentence?",
+            "options": [
+              "The subject always performs the action",
+              "The subject becomes a verb",
+              "The subject receives the action rather than performing it",
+              "The subject disappears completely from the sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is written in passive voice?",
+            "options": [
+              "The committee will write the report.",
+              "The committee is writing the report.",
+              "The report was written by the committee.",
+              "The committee wrote the report."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer deliberately choose passive voice?",
+            "options": [
+              "Passive voice removes all meaning from a sentence",
+              "To emphasize the action or result rather than who performed it",
+              "Passive voice is always a grammatical error to avoid completely",
+              "Passive voice is required in every sentence of formal writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is active voice often preferred in clear, direct writing?",
+            "options": [
+              "Active voice always obscures the subject of a sentence",
+              "Active voice removes the need for a verb",
+              "It tends to be more concise and identifies who is performing the action",
+              "Active voice is grammatically incorrect in formal writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Geometry: Vector Equations of Lines in Three Dimensions",
+        "summary": "Grade 11 Functions strand: a line in three-dimensional space can be described using a vector equation involving a point on the line and a single direction vector, extending the two-dimensional case to model motion and geometry in 3D.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is needed to write the vector equation of a line in three dimensions?",
+            "options": [
+              "A single number with no vectors at all",
+              "Only the origin, with nothing else needed",
+              "A point on the line and a direction vector",
+              "Two direction vectors with no point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a vector equation of a line in three dimensions extend the two-dimensional case?",
+            "options": [
+              "It has no connection to the two-dimensional case",
+              "It only applies to curves, never straight lines",
+              "It removes the need for a direction vector entirely",
+              "It uses a third coordinate component, typically z, in addition to x and y"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What geometric object does the vector equation of a line describe?",
+            "options": [
+              "A three-dimensional solid shape",
+              "A flat, two-dimensional surface",
+              "A straight, one-dimensional path extending infinitely in both directions",
+              "A single fixed point only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is only one direction vector needed to define a line, while two are needed to define a plane?",
+            "options": [
+              "A line requires only a single direction to extend along, while a plane requires two independent directions to form a flat surface",
+              "Direction vectors are never used to describe lines",
+              "A line requires infinitely many direction vectors to be defined",
+              "Lines and planes both always require exactly the same number of direction vectors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Vector equations of lines in three dimensions are useful for modelling ___.",
+            "options": [
+              "Only measuring temperature",
+              "Only counting problems with no geometry",
+              "The path of an object moving through space, such as in physics or engineering",
+              "Only two-dimensional drawings"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: The Blood-Brain Barrier — Structure and Function",
+        "summary": "Grade 11 Biology strand: the blood-brain barrier is a selectively permeable layer of tightly joined cells lining the brain capillaries, protecting neural tissue by restricting the passage of pathogens, toxins, and many large molecules from the bloodstream.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is the blood-brain barrier?",
+            "options": [
+              "A layer of skin on the outside of the skull",
+              "A type of muscle found only in the heart",
+              "A selectively permeable layer of tightly joined cells lining the brain capillaries",
+              "A bone structure that surrounds the entire brain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main function of the blood-brain barrier?",
+            "options": [
+              "Protecting neural tissue by restricting harmful substances from entering the brain",
+              "Allowing all substances in the blood to enter the brain freely",
+              "Pumping blood throughout the entire body",
+              "Producing new neurons continuously"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might the blood-brain barrier typically block from entering brain tissue?",
+            "options": [
+              "Glucose needed for energy",
+              "Many pathogens and toxins circulating in the blood",
+              "Oxygen needed for cellular respiration",
+              "Water molecules entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can the blood-brain barrier make treating certain brain diseases with medication difficult?",
+            "options": [
+              "It can prevent many drugs from reaching brain tissue effectively",
+              "It only exists in animals, never in humans",
+              "It always allows every drug to pass through with no resistance",
+              "It has no effect on medication delivery at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What structural feature of the cells lining brain capillaries helps form the blood-brain barrier?",
+            "options": [
+              "A complete absence of any cell membrane",
+              "Large gaps between cells that allow anything to pass freely",
+              "Cells that constantly divide and never connect to each other",
+              "Tight junctions between adjacent cells that limit what can pass between them"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Catalytic Converters and Automotive Emission Control",
+        "summary": "Grade 11 Chemistry strand: a catalytic converter uses metal catalysts such as platinum, palladium, and rhodium to speed up reactions that convert harmful engine exhaust gases, including carbon monoxide and nitrogen oxides, into less harmful substances.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a catalytic converter?",
+            "options": [
+              "Converting harmful exhaust gases into less harmful substances",
+              "Increasing the amount of pollution released by a vehicle",
+              "Cooling the engine during operation",
+              "Storing fuel before it reaches the engine"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which metals are commonly used as catalysts in a catalytic converter?",
+            "options": [
+              "Platinum, palladium, and rhodium",
+              "Only iron and copper",
+              "Only pure carbon",
+              "Only sodium and potassium"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which harmful gas is commonly converted by a catalytic converter?",
+            "options": [
+              "Carbon monoxide",
+              "Water vapour only",
+              "Argon gas",
+              "Pure oxygen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role does a catalyst play in the reactions occurring in a catalytic converter?",
+            "options": [
+              "It has no effect on the rate of the reaction",
+              "It speeds up the reaction without being consumed in the process",
+              "It slows down the reaction significantly",
+              "It is fully consumed and destroyed by the reaction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are catalytic converters considered important for environmental protection?",
+            "options": [
+              "They only function underwater",
+              "They increase the release of pollutants into the atmosphere",
+              "They have no measurable effect on air quality",
+              "They reduce the release of harmful pollutants from vehicle exhaust into the atmosphere"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "label": "Day 125 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Roman a Clef — Fiction Rooted in Reality",
+        "summary": "Grade 11 English strand: a roman a clef is a novel in which real people or events are thinly disguised as fictional characters and situations, inviting readers familiar with the source material to recognize the hidden real-world references.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is a roman a clef?",
+            "options": [
+              "A novel with no connection to reality whatsoever",
+              "A type of formal legal document",
+              "A novel in which real people or events are thinly disguised as fiction",
+              "A poem written entirely in French"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a reader familiar with the real events behind a roman a clef recognize?",
+            "options": [
+              "Hidden references to real people or situations disguised as fiction",
+              "Nothing, since the novel bears no resemblance to reality",
+              "A complete absence of characters",
+              "Only grammatical errors in the text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose to write a roman a clef rather than a straightforward memoir?",
+            "options": [
+              "Authors are legally required to disguise every memoir as fiction",
+              "Fiction can offer legal protection and creative freedom while still commenting on real events",
+              "A roman a clef must always be entirely factual with no invention",
+              "Fiction always removes the connection to any real events"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these best describes the relationship between a roman a clef and real life?",
+            "options": [
+              "The novel exists only as an oral tradition with no written text",
+              "The novel is entirely unrelated to any real person or event",
+              "The novel is a word-for-word transcript of true events",
+              "Real people and events form the basis for fictionalized characters and plot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The term roman a clef comes from a phrase meaning ___.",
+            "options": [
+              "A story with no characters at all",
+              "A play performed only once",
+              "A novel written entirely in verse",
+              "Novel with a key, since knowledge of real events unlocks its meaning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Complex Numbers: Roots of Unity and nth Roots",
+        "summary": "Grade 11 Functions strand: the nth roots of a complex number can be found using an extension of De Moivres Theorem, revealing that a nonzero complex number has exactly n distinct nth roots evenly spaced around a circle in the complex plane.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "How many distinct nth roots does a nonzero complex number have?",
+            "options": [
+              "Infinitely many",
+              "Exactly 1",
+              "Exactly 2, regardless of n",
+              "Exactly n"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What theorem is extended to find the nth roots of a complex number?",
+            "options": [
+              "De Moivres Theorem",
+              "The Binomial Theorem",
+              "The Fundamental Theorem of Arithmetic",
+              "The Pythagorean Theorem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How are the nth roots of a complex number arranged in the complex plane?",
+            "options": [
+              "Clustered at a single point",
+              "Scattered with no pattern at all",
+              "Evenly spaced around a circle",
+              "Arranged along a single straight line only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are the nth roots of unity?",
+            "options": [
+              "Only negative real numbers",
+              "Numbers that have no solutions at all",
+              "Only the number 1 itself",
+              "The n distinct solutions to the equation z^n = 1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is polar form especially useful for finding roots of complex numbers?",
+            "options": [
+              "It expresses the angle and magnitude needed to evenly divide the roots around a circle",
+              "Polar form cannot be used for this purpose at all",
+              "Polar form only applies to real numbers, not complex ones",
+              "Polar form eliminates the need for any angle measurement"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Hibernation and Torpor — Physiological Adaptations",
+        "summary": "Grade 11 Biology strand: hibernation and torpor are physiological states in which an animal dramatically lowers its metabolic rate, heart rate, and body temperature to conserve energy during periods of cold or food scarcity.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What happens to an animals metabolic rate during hibernation?",
+            "options": [
+              "It stops entirely with no biological activity",
+              "It increases significantly above normal levels",
+              "It remains completely unchanged",
+              "It drops dramatically to conserve energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is torpor?",
+            "options": [
+              "A permanent state that never ends once it begins",
+              "A short-term state of reduced metabolic activity, often lasting hours to a day",
+              "A type of active hunting strategy",
+              "A behaviour found only in plants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an animal enter hibernation or torpor?",
+            "options": [
+              "To attract more predators to its location",
+              "To conserve energy during periods of cold temperatures or food scarcity",
+              "To increase its body temperature to dangerous levels",
+              "To grow significantly larger in a short period of time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does an animals heart rate typically change during hibernation?",
+            "options": [
+              "It slows down significantly compared to its normal active rate",
+              "It stops permanently and never restarts",
+              "It speeds up far beyond its normal active rate",
+              "It stays exactly the same as when the animal is active"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these animals is well known for entering true hibernation?",
+            "options": [
+              "An eagle",
+              "The ground squirrel",
+              "A dolphin",
+              "A shark"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Adhesives and Molecular Bonding",
+        "summary": "Grade 11 Chemistry strand: adhesives bond materials together through a combination of mechanical interlocking and chemical forces, such as covalent bonding, hydrogen bonding, and van der Waals forces, between the adhesive and the surfaces it joins.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "How do adhesives generally bond materials together?",
+            "options": [
+              "Through a combination of mechanical interlocking and chemical forces",
+              "Through a process that removes all molecules from the surfaces",
+              "Through gravity alone with no chemical interaction",
+              "Through the complete melting of both surfaces into one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of intermolecular force can contribute to how an adhesive sticks to a surface?",
+            "options": [
+              "Only gravitational force",
+              "Nuclear forces between atomic nuclei",
+              "Van der Waals forces",
+              "Only magnetic force"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for an adhesive to cure?",
+            "options": [
+              "The adhesive instantly evaporates and disappears",
+              "The adhesive loses all of its bonding strength permanently",
+              "The adhesive undergoes a chemical or physical change that hardens and strengthens the bond",
+              "The adhesive becomes a gas with no bonding ability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might hydrogen bonding contribute to adhesive strength between certain materials?",
+            "options": [
+              "It forms attractive forces between molecules containing hydrogen bonded to electronegative atoms like oxygen or nitrogen",
+              "Hydrogen bonding is exclusive to metallic bonding",
+              "Hydrogen bonding only affects the colour of an adhesive",
+              "Hydrogen bonding never occurs in adhesive materials"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is mechanical interlocking in the context of adhesives?",
+            "options": [
+              "A magnetic attraction between the two surfaces",
+              "The adhesive flowing into microscopic surface irregularities and hardening in place",
+              "A process where two surfaces are welded together using heat only",
+              "A chemical reaction that dissolves both bonded surfaces"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "label": "Day 126 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Clickbait Headlines and Digital Virality",
+        "summary": "Grade 11 English strand: clickbait headlines use sensational language, curiosity gaps, and emotional triggers to maximize clicks and shares, often prioritizing virality over accuracy, requiring readers to critically evaluate a headline before trusting its content.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is the primary goal of a clickbait headline?",
+            "options": [
+              "Maximizing clicks and shares, often through sensational language",
+              "Following strict academic citation standards",
+              "Avoiding any emotional language whatsoever",
+              "Providing a fully accurate summary of the article"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a curiosity gap in a clickbait headline?",
+            "options": [
+              "A citation missing from the end of an article",
+              "A withheld piece of information designed to make readers want to click to find out more",
+              "A headline that fully explains the entire story upfront",
+              "A grammatical error found in a headline"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should readers be cautious about trusting clickbait headlines?",
+            "options": [
+              "Clickbait headlines are required by law to be truthful",
+              "Clickbait headlines are always completely accurate",
+              "Clickbait headlines never appear on social media platforms",
+              "The headline may prioritize sensationalism over the accuracy of the actual content"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of language do clickbait headlines commonly use to trigger a reaction?",
+            "options": [
+              "Language with no connection to the article content at all",
+              "Emotionally charged or sensational language",
+              "Only neutral, purely factual language with no emotional appeal",
+              "Only technical, scientific terminology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What skill helps readers resist being misled by clickbait headlines?",
+            "options": [
+              "Trusting all headlines equally with no evaluation",
+              "Media literacy and critical evaluation before clicking or sharing",
+              "Sharing every headline immediately without reading it",
+              "Ignoring every headline on the internet completely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Statistics: An Introduction to the Poisson Distribution",
+        "summary": "Grade 11 Functions strand: the Poisson distribution models the probability of a given number of independent events occurring within a fixed interval of time or space, when those events happen at a known constant average rate.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the Poisson distribution model?",
+            "options": [
+              "The probability of a given number of independent events occurring in a fixed interval",
+              "The exact outcome of a single guaranteed event",
+              "The area under a triangle",
+              "The average height of a population"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must be known about the events being modelled by a Poisson distribution?",
+            "options": [
+              "Their exact colour and shape",
+              "Their location on a coordinate plane",
+              "Their relationship to a persons age",
+              "Their known constant average rate of occurrence over the interval"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these situations could be modelled using a Poisson distribution?",
+            "options": [
+              "The exact height of a single building",
+              "The colour of a single card drawn from a deck",
+              "The number of emails received in an hour",
+              "The temperature on a given day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the Poisson distribution differ from the binomial distribution in typical use?",
+            "options": [
+              "The binomial distribution only applies to continuous intervals",
+              "The Poisson distribution models counts of events over a continuous interval rather than a fixed number of discrete trials",
+              "The two distributions are always mathematically identical with no differences",
+              "The Poisson distribution can never be used to model real events"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Poisson distribution assumes that events occur ___.",
+            "options": [
+              "At a rate that constantly doubles every second",
+              "Only in pairs, never individually",
+              "Independently of one another at a constant average rate",
+              "Only during a single fixed moment in time"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Quorum Sensing — Bacterial Cell-to-Cell Communication",
+        "summary": "Grade 11 Biology strand: quorum sensing is a form of cell-to-cell communication in which bacteria release and detect signalling molecules to coordinate group behaviours, such as biofilm formation, once the bacterial population reaches a critical density.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is quorum sensing?",
+            "options": [
+              "A process where bacteria are permanently destroyed",
+              "A structure used exclusively for bacterial movement",
+              "A type of photosynthesis found only in plants",
+              "A form of cell-to-cell communication that lets bacteria coordinate group behaviours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What triggers bacteria to begin coordinated group behaviours through quorum sensing?",
+            "options": [
+              "A sudden and complete absence of any bacteria",
+              "Exposure to bright sunlight alone",
+              "A drop in signalling molecule concentration to zero",
+              "Reaching a critical population density that raises signalling molecule concentration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these bacterial behaviours can be coordinated through quorum sensing?",
+            "options": [
+              "Random, uncoordinated individual movement only",
+              "Photosynthesis using chlorophyll",
+              "The complete cessation of all bacterial activity",
+              "Biofilm formation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do bacteria release and detect during quorum sensing?",
+            "options": [
+              "Radioactive isotopes",
+              "Solid mineral particles",
+              "Only pure water",
+              "Signalling molecules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is quorum sensing of interest to researchers studying antibiotic resistance?",
+            "options": [
+              "Disrupting quorum sensing signals could potentially prevent harmful coordinated bacterial behaviours like biofilm formation",
+              "Quorum sensing is a phenomenon found only in animal cells",
+              "Quorum sensing has no connection to bacterial behaviour or resistance",
+              "Antibiotic resistance always eliminates the need for any communication between bacteria"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Enthalpy of Solution and Hydration Energy",
+        "summary": "Grade 11 Chemistry strand: the enthalpy of solution describes the net energy change when an ionic compound dissolves in water, resulting from the balance between the energy required to break the crystal lattice and the energy released as ions become hydrated.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does the enthalpy of solution describe?",
+            "options": [
+              "The net energy change when a compound dissolves in a solvent",
+              "The total mass of a dissolved compound",
+              "The temperature at which a compound melts",
+              "The colour change of a solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two energy processes are balanced when calculating enthalpy of solution for an ionic compound?",
+            "options": [
+              "Only the freezing of the solvent",
+              "Only the boiling of the solvent",
+              "The combustion of the solvent",
+              "Breaking the crystal lattice and hydrating the released ions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is hydration energy?",
+            "options": [
+              "The energy needed to freeze a solution",
+              "The energy absorbed during a nuclear reaction",
+              "The energy released when ions become surrounded by water molecules",
+              "The energy required to boil a liquid completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the energy released during hydration is greater than the energy required to break the lattice, what type of process results?",
+            "options": [
+              "An exothermic dissolving process",
+              "An endothermic dissolving process with no energy release at all",
+              "A process where no dissolving occurs",
+              "A purely physical change with no energy involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might dissolving certain salts in water cause the surrounding water to feel colder?",
+            "options": [
+              "The dissolving process is endothermic, absorbing more energy than it releases",
+              "Cold temperatures prevent any salt from dissolving",
+              "Dissolving a salt never involves any energy change",
+              "The dissolving process always releases a large amount of heat"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "label": "Day 127 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: The Personal Narrative Speech",
+        "summary": "Grade 11 English strand: a personal narrative speech recounts a meaningful experience from the speakers own life, using vivid detail, reflection, and a clear structure to connect the specific story to a broader, relatable insight.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does a personal narrative speech typically recount?",
+            "options": [
+              "A meaningful experience from the speakers own life",
+              "A list of unrelated statistics",
+              "A formal legal argument",
+              "A completely fictional story with no connection to the speaker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is vivid detail important in a personal narrative speech?",
+            "options": [
+              "Vivid detail always distracts from the main point",
+              "Detail has no effect on how an audience receives a speech",
+              "Personal narratives should avoid any specific description",
+              "It helps the audience visualize and connect emotionally with the experience being described"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader goal does a personal narrative speech typically aim to achieve beyond simply telling a story?",
+            "options": [
+              "Connecting the specific experience to a broader, relatable insight or lesson",
+              "Presenting a purely statistical report",
+              "Avoiding any connection to the audience",
+              "Providing only a chronological list of events with no reflection"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What structural element helps organize a personal narrative speech?",
+            "options": [
+              "Only a list of dates with no narrative content",
+              "A clear sequence that builds toward a meaningful reflection or insight",
+              "A completely random order with no organization",
+              "A structure that ignores the audience entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A personal narrative speech is different from a purely informative speech because it ___.",
+            "options": [
+              "Only presents statistics with no story",
+              "Never includes the speakers own perspective",
+              "Avoids any structure or organization",
+              "Centers on a specific personal experience and its meaning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Financial Mathematics: Sinking Funds and Systematic Saving",
+        "summary": "Grade 11 Functions strand: a sinking fund is a savings plan in which equal periodic deposits earn compound interest over time to accumulate a specific target amount, commonly used to plan for a future large expense or debt repayment.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is a sinking fund?",
+            "options": [
+              "A type of loan that must be repaid immediately",
+              "An investment that guarantees a loss of value over time",
+              "A one-time payment with no future growth",
+              "A savings plan of equal periodic deposits that grow with compound interest toward a target amount"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role does compound interest play in a sinking fund?",
+            "options": [
+              "It has no effect on the growth of the fund",
+              "It is always fixed and never accumulates",
+              "It allows the periodic deposits to grow over time toward the target amount",
+              "It reduces the total value of each deposit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an organization set up a sinking fund?",
+            "options": [
+              "To systematically save for a known future expense or debt repayment",
+              "To guarantee an instant financial loss",
+              "To immediately spend all available funds with no plan",
+              "To avoid saving any money at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do the periodic deposits in a typical sinking fund compare to each other?",
+            "options": [
+              "They are always random and unpredictable in size",
+              "They only occur a single time with no repetition",
+              "They are generally equal in amount and made at regular intervals",
+              "They decrease to zero after the first deposit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A sinking fund is most similar to which other financial concept covered earlier?",
+            "options": [
+              "An annuity, since both involve regular deposits or payments over time",
+              "A single lump-sum payment with no future value",
+              "A simple, one-time discount on a purchase",
+              "A perpetuity that never has a target amount"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: The Diving Reflex in Marine Mammals",
+        "summary": "Grade 11 Biology strand: the mammalian diving reflex is a set of physiological responses triggered by submersion in cold water, including a slowed heart rate and redirected blood flow, that allow marine mammals to conserve oxygen during deep, prolonged dives.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What triggers the mammalian diving reflex?",
+            "options": [
+              "A sudden loud noise",
+              "Submersion in water, especially cold water",
+              "Exposure to bright sunlight",
+              "An increase in body temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to heart rate during the diving reflex?",
+            "options": [
+              "It remains completely unchanged",
+              "It stops permanently",
+              "It slows down significantly",
+              "It increases dramatically"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the diving reflex help conserve oxygen during a dive?",
+            "options": [
+              "By redirecting blood flow toward essential organs like the heart and brain",
+              "By increasing oxygen consumption in the limbs",
+              "By stopping all blood flow throughout the entire body",
+              "By causing the animal to immediately surface"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these animals shows a particularly strong diving reflex adapted for deep, prolonged dives?",
+            "options": [
+              "A desert lizard",
+              "The seal",
+              "A garden snail",
+              "A songbird"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the diving reflex considered an important physiological adaptation for marine mammals?",
+            "options": [
+              "It has no connection to survival underwater",
+              "It allows them to breathe underwater without ever surfacing",
+              "It allows them to spend extended periods underwater while conserving limited oxygen supplies",
+              "It prevents the animal from ever diving below the surface"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Tanning — Preserving Leather",
+        "summary": "Grade 11 Chemistry strand: tanning is a chemical process that converts raw animal hide into stable, durable leather by using agents such as chromium salts or plant-derived tannins to cross-link collagen fibres and prevent decomposition.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does the tanning process convert raw animal hide into?",
+            "options": [
+              "A liquid solution with no remaining fibres",
+              "Stable, durable leather",
+              "A form of pure protein powder",
+              "A type of synthetic plastic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a traditional plant-derived tanning agent?",
+            "options": [
+              "Tannins",
+              "Pure oxygen gas",
+              "Liquid nitrogen",
+              "Table salt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What structural change do tanning agents cause within the hide?",
+            "options": [
+              "They completely dissolve all collagen fibres",
+              "They cross-link collagen fibres, stabilizing the structure",
+              "They remove all protein from the hide entirely",
+              "They convert the hide into a gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is tanning necessary to preserve animal hide as leather?",
+            "options": [
+              "Raw hide is already fully stable without any treatment",
+              "Untreated hide would otherwise decompose due to microbial and enzymatic breakdown",
+              "Tanning has no effect on the durability of the hide",
+              "Untreated hide never decomposes under any conditions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which metal is commonly used in modern chromium tanning processes?",
+            "options": [
+              "Gold",
+              "Mercury",
+              "Chromium",
+              "Lead"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "label": "Day 128 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Narrative Distance and Point of View",
+        "summary": "Grade 11 English strand: narrative distance describes how close or removed a narrator seems from the thoughts, feelings, and events of a story, shaped by choices in point of view that influence how much intimacy or objectivity a reader experiences.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does narrative distance describe?",
+            "options": [
+              "The number of characters in a story",
+              "The physical length of a novel measured in pages",
+              "How close or removed a narrator seems from the events and characters of a story",
+              "The setting in which a story takes place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which point of view often creates a close narrative distance, immersing the reader in a characters thoughts?",
+            "options": [
+              "First-person point of view",
+              "A narrator with no access to any character",
+              "A narrator who only lists historical dates",
+              "An entirely absent narrator with no perspective"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How might a distant, objective narrator affect a reader experience of a story?",
+            "options": [
+              "It eliminates the need for any point of view at all",
+              "It removes the possibility of the reader understanding the plot",
+              "It can create a sense of detachment or objectivity toward the events described",
+              "It always makes the reader feel emotionally closer to every character"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author vary narrative distance within a single text?",
+            "options": [
+              "To remove all meaning from the narrative",
+              "To control how intimately or objectively the reader experiences particular scenes or characters",
+              "Varying narrative distance is always a grammatical mistake",
+              "Narrative distance never changes within a single text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which point of view typically creates the greatest narrative distance from a single characters inner thoughts?",
+            "options": [
+              "An objective third-person point of view that reports only observable actions",
+              "A first-person point of view narrated by the main character",
+              "A confessional first-person diary entry",
+              "A stream-of-consciousness narration from inside a characters mind"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: The Handshake Lemma and Vertex Degree",
+        "summary": "Grade 11 Functions strand: the handshake lemma states that the sum of the degrees of all vertices in a graph equals twice the number of edges, since every edge contributes exactly two to the total degree count, one for each endpoint.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the handshake lemma state?",
+            "options": [
+              "The sum of the degrees of all vertices equals twice the number of edges",
+              "Every graph must have an odd number of edges",
+              "The number of edges always equals the number of vertices",
+              "The sum of all vertex degrees always equals the number of vertices"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the degree of a vertex in a graph?",
+            "options": [
+              "The distance between two vertices",
+              "The total number of vertices in the entire graph",
+              "The colour assigned to that vertex",
+              "The number of edges connected to that vertex"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does each edge contribute exactly two to the total sum of vertex degrees?",
+            "options": [
+              "Edges have no relationship to vertex degree at all",
+              "Every edge always connects to exactly ten vertices",
+              "Each edge has two endpoints, adding one to the degree of each connected vertex",
+              "Each edge only connects to a single vertex"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "According to the handshake lemma, what must be true about the sum of all vertex degrees in any graph?",
+            "options": [
+              "It must always equal exactly zero",
+              "It must always be an even number",
+              "It can never be calculated",
+              "It must always be an odd number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a graph has 6 edges, what is the sum of the degrees of all its vertices?",
+            "options": [
+              "6",
+              "18",
+              "12",
+              "3"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: RNA Interference and Gene Silencing",
+        "summary": "Grade 11 Biology strand: RNA interference is a natural cellular mechanism in which small RNA molecules bind to complementary messenger RNA, blocking or degrading it and effectively silencing the expression of a specific gene.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is RNA interference?",
+            "options": [
+              "A type of DNA replication error",
+              "A structure found only in the cell nucleus with no function",
+              "A natural mechanism in which small RNA molecules silence the expression of a specific gene",
+              "A process that always increases the expression of every gene"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does RNA interference silence a gene?",
+            "options": [
+              "It has no interaction with messenger RNA at all",
+              "Small RNA molecules bind to complementary messenger RNA, blocking or degrading it",
+              "It permanently deletes the gene from the DNA sequence",
+              "It increases the number of copies of the targeted messenger RNA"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must be true about the small RNA molecule and its messenger RNA target for RNA interference to occur?",
+            "options": [
+              "They must have completely unrelated sequences",
+              "Their sequences must be complementary to each other",
+              "The messenger RNA must be located outside the cell",
+              "The small RNA must be identical to a protein"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is RNA interference of interest for potential medical therapies?",
+            "options": [
+              "It offers a way to selectively silence genes responsible for disease",
+              "It can only be used to increase gene expression, never decrease it",
+              "It only functions in plant cells, never in humans",
+              "It has no potential medical applications at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "RNA interference is considered a mechanism of gene regulation that occurs ___.",
+            "options": [
+              "Only in cells that are actively dividing",
+              "Only before DNA replication begins",
+              "Only within the mitochondria",
+              "After messenger RNA has already been produced, rather than at the DNA level"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Effervescence — The Chemistry of Antacid Tablets",
+        "summary": "Grade 11 Chemistry strand: effervescent antacid tablets combine a solid acid, such as citric acid, with a carbonate or bicarbonate base, so that when dissolved in water the two react to release carbon dioxide gas as visible bubbles while neutralizing stomach acid.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What two general classes of compounds are typically combined in an effervescent antacid tablet?",
+            "options": [
+              "Two different metals with no acid or base present",
+              "A solid acid and a carbonate or bicarbonate base",
+              "Only pure water and salt",
+              "Two identical acids with no base"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What gas is released as bubbles when an effervescent tablet dissolves in water?",
+            "options": [
+              "Carbon dioxide",
+              "Pure oxygen",
+              "Nitrogen gas",
+              "Hydrogen gas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main therapeutic purpose of an antacid tablet?",
+            "options": [
+              "Replacing water lost through dehydration",
+              "Increasing the acidity of the stomach",
+              "Providing a source of dietary sugar",
+              "Neutralizing excess stomach acid"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a common solid acid used in effervescent tablets?",
+            "options": [
+              "Pure carbon",
+              "Citric acid",
+              "Liquid mercury",
+              "Table salt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the fizzing reaction only occur once the tablet is dissolved in water?",
+            "options": [
+              "The tablet reacts the same way whether or not it is dissolved in water",
+              "Water allows the acid and base components to dissolve and react with each other",
+              "The dry tablet already contains free carbon dioxide gas",
+              "Water prevents any reaction from occurring at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "label": "Day 129 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Encomium — Praise Writing and Tribute",
+        "summary": "Grade 11 English strand: an encomium is a formal piece of writing or speech that praises a person, achievement, or quality, using vivid examples and elevated language to celebrate its subject with genuine admiration rather than casual flattery.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is the main purpose of an encomium?",
+            "options": [
+              "To formally praise a person, achievement, or quality",
+              "To criticize a public figure",
+              "To argue against a popular opinion",
+              "To provide a neutral, purely factual report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of language does an encomium typically use?",
+            "options": [
+              "Language with no emotional content at all",
+              "Elevated, celebratory language",
+              "Only plain, technical vocabulary",
+              "Casual slang with no formal structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does an encomium differ from casual flattery?",
+            "options": [
+              "It is always insincere and exaggerated",
+              "It never focuses on a specific subject",
+              "It is grounded in specific, genuine examples rather than empty compliments",
+              "It always avoids using any specific examples"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might be the subject of an encomium?",
+            "options": [
+              "A weather report for the week",
+              "A set of driving directions",
+              "A retiring colleagues career achievements",
+              "A grocery list"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might specific examples strengthen an encomium?",
+            "options": [
+              "They make the praise feel credible and rooted in real achievement",
+              "Specific examples are irrelevant to this form of writing",
+              "Encomiums are more effective without any examples",
+              "Specific examples always weaken the praise being given"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Statistics: The Central Limit Theorem",
+        "summary": "Grade 11 Functions strand: the central limit theorem states that the distribution of sample means approaches a normal distribution as the sample size increases, regardless of the shape of the original population distribution.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the central limit theorem describe?",
+            "options": [
+              "The exact value of a single data point",
+              "How the distribution of sample means approaches a normal distribution as sample size increases",
+              "The colour of a graph",
+              "The area of a triangle inscribed in a circle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the central limit theorem, what happens as sample size increases?",
+            "options": [
+              "The population distribution itself changes shape completely",
+              "Sample means always become identical to the population maximum",
+              "The distribution of sample means becomes increasingly close to a normal distribution",
+              "The distribution of sample means becomes increasingly random with no pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does the original population distribution need to be normal for the central limit theorem to apply?",
+            "options": [
+              "No, the theorem applies regardless of the shape of the original population distribution",
+              "The theorem only applies to distributions with exactly two possible outcomes",
+              "The theorem cannot be applied to any real data",
+              "Yes, the population must always be perfectly normal to begin with"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the central limit theorem considered foundational to statistical inference?",
+            "options": [
+              "It has no practical application in statistics",
+              "It justifies using the normal distribution to make inferences about population means from sample data",
+              "It only applies to extremely small sample sizes",
+              "It eliminates the need for collecting any sample data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The central limit theorem is closely related to which earlier statistical concept?",
+            "options": [
+              "Modular arithmetic",
+              "The Euclidean algorithm",
+              "The normal distribution and z-scores",
+              "The chromatic number of a graph"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Allelopathy — Chemical Warfare Between Plants",
+        "summary": "Grade 11 Biology strand: allelopathy is a biological phenomenon in which a plant releases chemical compounds into the environment that inhibit the germination, growth, or survival of neighbouring plant species, reducing competition for resources.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is allelopathy?",
+            "options": [
+              "A disease that only affects animal cells",
+              "A type of pollination strategy involving insects",
+              "A process where two plants merge into a single organism",
+              "A phenomenon in which a plant releases chemicals that inhibit nearby plant species"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main ecological benefit of allelopathy for the plant releasing the chemicals?",
+            "options": [
+              "A guaranteed increase in local animal populations",
+              "Increased competition from every neighbouring plant species",
+              "The complete elimination of the need for sunlight",
+              "Reduced competition for resources like light, water, and nutrients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might an allelopathic chemical inhibit in a neighbouring plant?",
+            "options": [
+              "The neighbouring plants ability to photosynthesize sunlight directly",
+              "Seed germination or root growth",
+              "The colour of the neighbouring plants flowers only",
+              "Nothing, since allelopathic chemicals have no biological effect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might allelopathic compounds be released from a plant?",
+            "options": [
+              "Only after the entire plant has died with no other release point",
+              "From the surrounding soil with no involvement from the plant itself",
+              "From its roots, leaves, or decomposing plant material",
+              "Only from the flowers, and nowhere else"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might allelopathy be considered a form of chemical competition among plants?",
+            "options": [
+              "It allows a plant to indirectly suppress nearby competitors without direct physical contact",
+              "It only occurs between plants and animals, never between two plants",
+              "It always requires two plants to physically touch to have any effect",
+              "Allelopathy has no connection to competition between organisms"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Composting and Organic Decomposition",
+        "summary": "Grade 11 Chemistry strand: composting relies on microbial decomposition reactions that break down complex organic molecules such as cellulose and proteins into simpler compounds, releasing carbon dioxide, water, and heat while forming nutrient-rich humus.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What process drives the breakdown of organic material during composting?",
+            "options": [
+              "A single non-biological chemical reaction with no microorganisms involved",
+              "Complete evaporation of all organic matter",
+              "Nuclear fission of the organic material",
+              "Microbial decomposition reactions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which complex organic molecules are broken down during composting?",
+            "options": [
+              "Only inorganic salts",
+              "Only noble gases",
+              "Only pure metals",
+              "Cellulose and proteins"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What gas is commonly released during the decomposition process in composting?",
+            "options": [
+              "Carbon dioxide",
+              "Chlorine gas",
+              "Neon gas",
+              "Pure hydrogen gas only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What nutrient-rich material is formed as a result of composting?",
+            "options": [
+              "Synthetic plastic",
+              "Pure crystalline salt",
+              "Humus",
+              "Liquid mercury"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a compost pile often feel warm during active decomposition?",
+            "options": [
+              "Compost piles have no chemical reactions occurring within them",
+              "Decomposition always absorbs heat from the surrounding environment",
+              "The warmth comes only from direct sunlight exposure",
+              "The microbial breakdown reactions release heat as a byproduct"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "label": "Day 130 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Motif, Genre, Voice, and Persuasion",
+        "summary": "Grade 11 English strand review: students revisit motif and recurring symbols, the ballad, the process essay, active and passive voice, the roman a clef, clickbait headlines, the personal narrative speech, narrative distance, and the encomium.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is a motif?",
+            "options": [
+              "A single event that happens only once in a story",
+              "A formal citation style",
+              "A type of punctuation mark",
+              "A recurring image, phrase, or idea repeated throughout a text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a ballad primarily do?",
+            "options": [
+              "Tells a story through verse, often set to music",
+              "Avoids any use of rhythm or repetition",
+              "Functions only as a formal legal document",
+              "Presents a list of unrelated facts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a process essay?",
+            "options": [
+              "To explain how to complete a task or how something works",
+              "To argue a single controversial opinion",
+              "To describe a personal memory with no instructional purpose",
+              "To summarize a work of fiction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a roman a clef?",
+            "options": [
+              "A type of formal legal document",
+              "A novel in which real people or events are thinly disguised as fiction",
+              "A novel with no connection to reality whatsoever",
+              "A poem written entirely in French"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of an encomium?",
+            "options": [
+              "To formally praise a person, achievement, or quality",
+              "To provide a neutral, purely factual report",
+              "To criticize a public figure",
+              "To argue against a popular opinion"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Functions Review: Calculus, Discrete Math, Geometry, and Statistics",
+        "summary": "Grade 11 Functions strand review: students revisit the derivative as a limit, trees and spanning trees, Diophantine equations, vector equations of lines in three dimensions, roots of unity, the Poisson distribution, sinking funds, the handshake lemma, and the central limit theorem.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "How is the derivative of a function at a point defined?",
+            "options": [
+              "As a fixed number unrelated to the function",
+              "As the total area under the curve",
+              "As the limit of the average rate of change as the interval shrinks toward zero",
+              "As the sum of all function values"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a tree in graph theory?",
+            "options": [
+              "A graph with every vertex connected to every other vertex",
+              "A connected graph with no cycles",
+              "A graph that must contain at least one cycle",
+              "A graph containing only isolated vertices with no edges"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Diophantine equation?",
+            "options": [
+              "An equation with no solutions of any kind",
+              "A geometric formula for area",
+              "An equation that only allows decimal solutions",
+              "A polynomial equation for which only integer solutions are sought"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many distinct nth roots does a nonzero complex number have?",
+            "options": [
+              "Exactly 1",
+              "Infinitely many",
+              "Exactly 2, regardless of n",
+              "Exactly n"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the central limit theorem describe?",
+            "options": [
+              "The area of a triangle inscribed in a circle",
+              "The exact value of a single data point",
+              "The colour of a graph",
+              "How the distribution of sample means approaches a normal distribution as sample size increases"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology Review: Cell Biology, Genetics, Physiology, and Ecology",
+        "summary": "Grade 11 Biology strand review: students revisit the cytoskeleton, endocrine disruptors, polyploidy, the blood-brain barrier, hibernation and torpor, quorum sensing, the diving reflex, RNA interference, and allelopathy.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is the cytoskeleton?",
+            "options": [
+              "A structure found only in bacterial cells",
+              "A type of carbohydrate stored in the nucleus",
+              "A dynamic network of protein filaments within a cell",
+              "A rigid outer shell surrounding the cell membrane"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an endocrine disruptor?",
+            "options": [
+              "A chemical compound that interferes with normal hormone signalling",
+              "A protein that has no interaction with the endocrine system",
+              "A hormone naturally produced by the pancreas",
+              "A type of vitamin required for healthy bones"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is polyploidy?",
+            "options": [
+              "A type of asexual reproduction with no genetic change",
+              "A condition where an organism has no chromosomes at all",
+              "A disease affecting only animal cells",
+              "A condition in which an organism has more than two complete sets of chromosomes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the blood-brain barrier?",
+            "options": [
+              "A selectively permeable layer of tightly joined cells lining the brain capillaries",
+              "A type of muscle found only in the heart",
+              "A bone structure that surrounds the entire brain",
+              "A layer of skin on the outside of the skull"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is allelopathy?",
+            "options": [
+              "A disease that only affects animal cells",
+              "A process where two plants merge into a single organism",
+              "A type of pollination strategy involving insects",
+              "A phenomenon in which a plant releases chemicals that inhibit nearby plant species"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry Review: Coordination Chemistry, Materials, and Applied Reactions",
+        "summary": "Grade 11 Chemistry strand review: students revisit chelation therapy, vulcanization, reverse osmosis, catalytic converters, adhesive chemistry, enthalpy of solution, leather tanning, antacid effervescence, and the chemistry of composting.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is a chelating agent?",
+            "options": [
+              "A molecule that binds tightly to metal ions through multiple coordinate bonds",
+              "An acid with no metal-binding ability",
+              "A type of radioactive isotope",
+              "A gas used only in refrigeration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is vulcanization?",
+            "options": [
+              "A method of melting rubber into a liquid permanently",
+              "A chemical process that forms cross-links between polymer chains in rubber using sulfur",
+              "A process that removes all polymer chains from rubber",
+              "A physical process with no chemical reaction involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does reverse osmosis use to purify water?",
+            "options": [
+              "External pressure forcing water through a semi-permeable membrane",
+              "Freezing the water into solid ice",
+              "Adding large amounts of salt to the water",
+              "Boiling the water at extremely high temperatures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a catalytic converter?",
+            "options": [
+              "Storing fuel before it reaches the engine",
+              "Converting harmful exhaust gases into less harmful substances",
+              "Cooling the engine during operation",
+              "Increasing the amount of pollution released by a vehicle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What process drives the breakdown of organic material during composting?",
+            "options": [
+              "A single non-biological chemical reaction with no microorganisms involved",
+              "Nuclear fission of the organic material",
+              "Complete evaporation of all organic matter",
+              "Microbial decomposition reactions"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
