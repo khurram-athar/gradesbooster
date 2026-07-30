@@ -4705,6 +4705,386 @@ const curriculum: DayContent[] = [
      {q:"What was the Magna Carta?", options:["A modern Canadian law","A type of currency","A national holiday","An early document establishing principles like the rule of law"], answer:3}
    ]},
 ]},
+{day:121, label:"Day 121 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Relative Pronouns and Relative Clauses", summary:"Grade 5 Language strand: relative pronouns like who, which, and that introduce relative clauses, which add extra information about a noun in a sentence.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Which word is the relative pronoun in the sentence The book that I borrowed was excellent?", options:["That","Book","Borrowed","Excellent"], answer:0},
+     {q:"Which relative pronoun usually refers to a person?", options:["When","Who","Which","Where"], answer:1},
+     {q:"Which relative pronoun usually refers to a thing or object?", options:["Whom","Which","Who","Why"], answer:1},
+     {q:"In the sentence The dog, which was very old, slept all day, what does the clause which was very old describe?", options:["A concept unrelated to the sentence","The dog","The sleeping","The day"], answer:1},
+     {q:"Why do writers use relative clauses?", options:["To end a sentence abruptly","To replace all nouns with pronouns","To remove information from a sentence","To add extra descriptive detail about a noun without starting a new sentence"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Permutations — Counting Ordered Outcomes", summary:"Grade 5 Math strand: a permutation counts the number of ways items can be arranged in order, meaning that changing the order of the same items creates a different permutation.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a permutation count?", options:["The number of ways to group items when order does not matter","A single fixed outcome","A type of fraction","The number of ordered arrangements of items"], answer:3},
+     {q:"In permutations, does arranging A then B count differently from arranging B then A?", options:["Only sometimes","Yes, they are different permutations","No, they are always the same","It depends on the colour"], answer:1},
+     {q:"How many ways can 3 different books be arranged in order on a shelf?", options:["6","3","1","9"], answer:0},
+     {q:"How is a permutation different from a combination?", options:["A permutation considers order, while a combination does not","They are exactly the same thing","A permutation never considers order","A combination always considers order"], answer:0},
+     {q:"Which situation involves finding a permutation?", options:["Picking 2 toppings from 4 options","Selecting a committee of 2 from 4 people","Assigning first, second, and third place in a race","Choosing 3 books to bring on a trip from a shelf of 5"], answer:2}
+   ]},
+  {subject:"Science", title:"Renewable Energy in Focus: Geothermal and Biomass Power", summary:"Grade 5 Science strand: geothermal power uses heat stored deep within the Earth, while biomass power burns organic material like wood waste or crops, both offering renewable alternatives to fossil fuels.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does geothermal power use as its energy source?", options:["Wind","Ocean waves","Heat stored deep within the Earth","Sunlight"], answer:2},
+     {q:"What is biomass?", options:["A form of solar panel","A type of metal","A kind of fossil fuel","Organic material, such as wood waste or crops, used to produce energy"], answer:3},
+     {q:"Why is geothermal energy considered renewable?", options:["It only works during the day","The heat within the Earth is naturally replenished and will not run out","It requires burning coal","It cannot be reused"], answer:1},
+     {q:"Which of these could be used as a biomass fuel?", options:["Uranium","Sunlight","Wind","Wood waste or crop residue"], answer:3},
+     {q:"What is one advantage geothermal and biomass power share with solar, wind, and hydro power?", options:["They require no energy source at all","They can never be used to generate electricity","They all produce energy without permanently depleting fossil fuels","They only work underground"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Role of the Prime Minister in Canadas Government", summary:"Grade 5 Social Studies strand: the Prime Minister is the leader of the federal government, chosen from the political party with the most seats in the House of Commons, and oversees the countrys ministers and major policy decisions.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the Prime Ministers main role in Canadas government?", options:["Leading a provincial government","Representing the monarch ceremonially","Serving as a judge on the Supreme Court","Leading the federal government"], answer:3},
+     {q:"How does someone typically become Prime Minister of Canada?", options:["By inheriting the position","By winning a national popularity contest with no election","By being appointed directly by a foreign government","By leading the political party with the most seats in the House of Commons"], answer:3},
+     {q:"Who does the Prime Minister generally choose to lead different government departments?", options:["Senators only","Lieutenant Governors","Ministers","Mayors"], answer:2},
+     {q:"Why is the Prime Ministers role considered central to federal decision-making?", options:["The Prime Minister only manages provincial affairs","The role is purely ceremonial with no responsibilities","The Prime Minister leads Cabinet and helps set major national policy directions","The Prime Minister has no influence over government decisions"], answer:2},
+     {q:"How does the Prime Ministers role differ from that of the Governor General?", options:["The Governor General leads government policy while the Prime Minister is ceremonial","They perform identical duties","Neither role has any real function","The Prime Minister leads government policy, while the Governor General performs ceremonial and constitutional duties"], answer:3}
+   ]},
+]},
+{day:122, label:"Day 122 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Perfect Verb Tenses — Present Perfect and Past Perfect", summary:"Grade 5 Language strand: the present perfect tense (has or have plus a past participle) describes an action connecting the past to the present, while the past perfect tense (had plus a past participle) describes an action completed before another past action.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Which sentence uses the present perfect tense?", options:["She will finish her homework.","She finished her homework yesterday.","She has finished her homework.","She finishes her homework."], answer:2},
+     {q:"What helping verb often forms the present perfect tense?", options:["Is","Will","Has or have","Did"], answer:2},
+     {q:"Which sentence uses the past perfect tense correctly?", options:["She will have left when I arrived yesterday.","She had already left when I arrived.","She has already left when I arrived.","She leaves already when I arrived."], answer:1},
+     {q:"What does the past perfect tense show?", options:["An action happening right now","An action completed before another action in the past","An action that will happen in the future","An action with no connection to time"], answer:1},
+     {q:"Why might a writer choose the present perfect tense instead of the simple past tense?", options:["Present perfect tense never connects to the present","This concept has no connection to grammar","The simple past and present perfect always mean the exact same thing","To show an action that connects the past to the present moment"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Currency Exchange Rates", summary:"Grade 5 Math strand: an exchange rate shows how much one countrys currency is worth compared to another, allowing travellers and businesses to convert amounts between currencies like Canadian and American dollars.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a currency exchange rate show?", options:["How much one countrys currency is worth compared to another","The total population of a country","A single fixed price for every item","A type of tax rate"], answer:0},
+     {q:"If 1 US dollar equals 1.35 Canadian dollars, how many Canadian dollars would 10 US dollars be worth?", options:["10 Canadian dollars","13.50 Canadian dollars","135 Canadian dollars","1.35 Canadian dollars"], answer:1},
+     {q:"Why might a traveller need to check the exchange rate before a trip?", options:["Exchange rates only apply to businesses","Exchange rates never affect travel","To understand how much their money is worth in another currency","This concept has no connection to money"], answer:2},
+     {q:"Do exchange rates stay exactly the same every single day?", options:["Exchange rates only change once a century","No, exchange rates can change daily","A concept unrelated to currency","Yes, they never change"], answer:1},
+     {q:"Why is it useful for businesses that trade internationally to understand exchange rates?", options:["This concept has no relevance to financial literacy","Businesses never need to convert currency","Exchange rates never affect international business","It helps them calculate accurate costs and prices when buying or selling across borders"], answer:3}
+   ]},
+  {subject:"Science", title:"The Northern Lights — A Glow in the Night Sky", summary:"Grade 5 Science strand: the northern lights, or aurora borealis, are colourful displays of light in the night sky caused by charged particles from the sun colliding with gases in Earths atmosphere, often visible in northern Canada.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What causes the northern lights?", options:["Light from distant stars only","City streetlights","Charged particles from the sun colliding with gases in Earths atmosphere","Reflections from the Moon"], answer:2},
+     {q:"What is another name for the northern lights?", options:["A solar eclipse","Aurora australis","The Milky Way","Aurora borealis"], answer:3},
+     {q:"Where in Canada are the northern lights most commonly visible?", options:["Only over the ocean","In northern regions, such as the territories","Nowhere in Canada","Only in southern Ontario"], answer:1},
+     {q:"What gases in the atmosphere help create the colours seen in the northern lights?", options:["Gases such as oxygen and nitrogen","Helium alone","Only water vapour","Only carbon dioxide"], answer:0},
+     {q:"Why do the northern lights appear more often in far northern regions of Earth?", options:["This concept has no relevance to science","Charged particles avoid the polar regions entirely","Earths magnetic field guides charged particles toward the polar regions","The northern lights never appear near the poles"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The House of Commons and How Laws Are Debated", summary:"Grade 5 Social Studies strand: the House of Commons is the elected lower house of Canadas Parliament, where Members of Parliament debate, amend, and vote on proposed laws called bills.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the House of Commons?", options:["The elected lower house of Canadas Parliament","A provincial legislature","An appointed upper house","A municipal council"], answer:0},
+     {q:"Who sits in the House of Commons?", options:["Mayors of every city","Judges only","Elected Members of Parliament","Appointed senators only"], answer:2},
+     {q:"What is a proposed law called before it is passed?", options:["A treaty","A bill","A referendum","A decree"], answer:1},
+     {q:"What might Members of Parliament do to a bill before voting on it?", options:["Destroy it immediately","Refuse to discuss it at all","Ignore it completely","Debate and propose amendments to it"], answer:3},
+     {q:"Why is debate an important part of how the House of Commons works?", options:["This concept has no relevance to Canadian government","Debate never influences a final law","Bills are never discussed before becoming law","It allows different viewpoints to be considered before a law is passed"], answer:3}
+   ]},
+]},
+{day:123, label:"Day 123 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing an Advertisement", summary:"Grade 5 Language strand: an effective advertisement uses persuasive language, a catchy slogan, and a clear call to action to convince an audience to buy a product or support an idea.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is the purpose of an advertisement?", options:["To tell a neutral news story","To persuade an audience to buy a product or support an idea","To provide a dictionary definition","To record historical events"], answer:1},
+     {q:"What is a slogan?", options:["A formal citation","A long paragraph of facts","A type of punctuation mark","A short, catchy phrase that helps people remember a product or idea"], answer:3},
+     {q:"What is a call to action in an advertisement?", options:["A summary of unrelated facts","A question with no purpose","A statement urging the audience to do something, such as buy or visit","A footnote citing a source"], answer:2},
+     {q:"Why might an advertisement use persuasive language?", options:["Persuasive language never influences an audience","To convince the audience that a product or idea is worth choosing","This concept has no connection to writing","Advertisements never try to convince anyone"], answer:1},
+     {q:"Which is an example of persuasive language in an advertisement?", options:["The item was manufactured in a factory.","This amazing product will change your life.","The product is grey and rectangular.","The store opens at nine in the morning."], answer:1}
+   ]},
+  {subject:"Math", title:"Algebra: Introducing Simple Inequalities on a Number Line", summary:"Grade 5 Math strand: an inequality, such as x is greater than 3, compares two values instead of showing them as equal, and can be represented as a shaded region on a number line.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What symbol means greater than?", options:["÷","=","<",">"], answer:3},
+     {q:"What symbol means less than?", options:[">","<","=","+"], answer:1},
+     {q:"On a number line, how would you show x is greater than 3?", options:["Shading only the number 3","Shading to the left of 3","Shading the line to the right of 3 with an open circle at 3","Shading the entire number line"], answer:2},
+     {q:"Which value would make the inequality x < 5 true?", options:["5","6","3","10"], answer:2},
+     {q:"Why might an inequality be useful compared to an equation?", options:["This concept has no connection to algebra","Inequalities never describe a range of values","An inequality always has exactly one solution like an equation","It can describe a whole range of possible values, not just one exact number"], answer:3}
+   ]},
+  {subject:"Science", title:"Newtons First Law of Motion — Inertia in Everyday Life", summary:"Grade 5 Science strand: Newtons first law explains that objects stay at rest or in motion unless acted on by a force, providing a foundation for understanding how forces like friction and gravity affect movement.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"According to Newtons first law, what happens to an object at rest unless a force acts on it?", options:["It stays at rest","It disappears","It doubles in size","It always starts moving on its own"], answer:0},
+     {q:"According to Newtons first law, what happens to a moving object unless a force acts on it?", options:["It immediately stops","It continues moving at the same speed and direction","It changes into a different object","It moves backward automatically"], answer:1},
+     {q:"What do we call an objects tendency to resist a change in motion?", options:["Gravity","Inertia","Friction","Velocity"], answer:1},
+     {q:"Why does a rolling ball eventually stop on a flat surface?", options:["The ball loses its shape","No force ever acts on the ball","Friction acts as a force that slows it down","Balls always stop after exactly one second"], answer:2},
+     {q:"Why is understanding Newtons first law useful when thinking about seatbelts in a car?", options:["Passengers keep moving forward when a car suddenly stops, unless a force like a seatbelt acts on them","Seatbelts have no connection to motion","This concept has no relevance to physical science","A stopped car has no effect on passengers inside it"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Numbered Treaties in Canadian History", summary:"Grade 5 Social Studies strand: the Numbered Treaties were a series of agreements made between the Crown and First Nations between 1871 and 1921, outlining land use, rights, and promises that continue to affect Canadian law today.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What were the Numbered Treaties?", options:["A collection of national holidays","A set of provincial tax laws","A type of modern trade agreement","A series of agreements made between the Crown and First Nations"], answer:3},
+     {q:"Roughly during what period were the Numbered Treaties signed?", options:["Only within the last five years","In the year 2020","Before the year 1500","Between 1871 and 1921"], answer:3},
+     {q:"What did the Numbered Treaties often address?", options:["Land use and rights between the Crown and First Nations","National holidays","International trade tariffs","Provincial voting districts"], answer:0},
+     {q:"Why do the Numbered Treaties continue to affect Canadian law today?", options:["They were never written down","They were cancelled the year after being signed","Their terms and promises still influence rights and land agreements in the present","They have no legal significance today"], answer:2},
+     {q:"Why is it important for students to learn about the Numbered Treaties?", options:["They have no connection to Canadian history","The treaties only affected people outside of Canada","They help explain the historical relationship between First Nations and the Canadian government","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:124, label:"Day 124 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Understanding Suspense and Cliffhangers", summary:"Grade 5 Language strand: suspense is a feeling of tension and anticipation an author creates about what will happen next, often ending a chapter with a cliffhanger that leaves an important question unanswered.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is suspense in a story?", options:["A rhyme scheme","A type of punctuation","A feeling of tension and anticipation about what will happen next","A summary of the entire plot"], answer:2},
+     {q:"What is a cliffhanger?", options:["A chapter that reveals every answer immediately","A grammar rule","An ending that leaves an important question unanswered","A type of nonfiction text feature"], answer:2},
+     {q:"Why might an author end a chapter with a cliffhanger?", options:["Authors never use cliffhangers on purpose","This concept has no connection to reading","To make readers want to keep reading to find out what happens next","Cliffhangers never affect a readers interest"], answer:2},
+     {q:"Which of these techniques might an author use to build suspense?", options:["Avoiding any conflict in the story","Withholding key information from the reader until later","Revealing the ending in the first sentence","Summarizing the whole plot immediately"], answer:1},
+     {q:"Why might pacing, such as short sentences, help build suspense in a scene?", options:["Pacing never affects how a reader feels about a scene","Long sentences always create more suspense than short ones","Quick, short sentences can create a sense of urgency and tension","This concept has no relevance to reading"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Transformations — Rotations and Angles of Turn", summary:"Grade 5 Math strand: a rotation turns a shape around a fixed point by a certain angle, such as 90 or 180 degrees, without changing its size or shape.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a rotation do to a shape?", options:["Makes it larger","Flips it over a line","Turns it around a fixed point","Slides it in a straight line"], answer:2},
+     {q:"What do we call the fixed point a shape rotates around?", options:["The diameter","The perimeter","The vertex","The centre of rotation"], answer:3},
+     {q:"If a shape is rotated 180 degrees, how does it typically appear compared to the original?", options:["Twice the original size","Exactly the same as a 90-degree rotation","Upside down or facing the opposite direction","Half the original size"], answer:2},
+     {q:"Does a rotation change the size of a shape?", options:["No, the size stays the same","Rotation removes the shape entirely","Yes, it always shrinks the shape","Yes, it always doubles the size"], answer:0},
+     {q:"Why might a rotation of 360 degrees return a shape to its original position?", options:["Rotating a shape never returns it to its original position","This concept has no connection to geometry","A full rotation completes an entire circle back to the starting angle","A 360-degree rotation always changes the shapes size"], answer:2}
+   ]},
+  {subject:"Science", title:"Types of Precipitation — Rain, Snow, Sleet, and Hail", summary:"Grade 5 Science strand: precipitation is water that falls from clouds to Earths surface in forms such as rain, snow, sleet, and hail, depending on temperature conditions in the atmosphere.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is precipitation?", options:["A kind of wind","A form of soil","Water that falls from clouds to Earths surface","A type of rock"], answer:2},
+     {q:"Which of these is a form of precipitation?", options:["Snow","Sunlight","Fog only","Wind"], answer:0},
+     {q:"What weather condition typically causes precipitation to fall as snow instead of rain?", options:["No temperature ever affects precipitation type","Cold temperatures throughout the atmosphere","Only warm temperatures near the ground","Only wind speed"], answer:1},
+     {q:"What is sleet?", options:["Partially frozen rain that falls as small ice pellets","A type of soil","A type of cloud","A form of lightning"], answer:0},
+     {q:"Why might scientists study different types of precipitation?", options:["This concept has no relevance to Earth science","Precipitation has no connection to weather","Precipitation never changes based on temperature","To help predict weather and understand its effects on the environment"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Great Canadian Flag Debate of 1964", summary:"Grade 5 Social Studies strand: the Great Flag Debate of 1964 was a lengthy parliamentary discussion over adopting a new, distinctly Canadian flag, which resulted in the maple leaf design being officially raised in 1965.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What was the Great Flag Debate of 1964 about?", options:["Whether Canada should adopt a new, distinctly Canadian flag","A debate about provincial borders","An argument over currency design","A discussion about national holidays"], answer:0},
+     {q:"What design was chosen as a result of the flag debate?", options:["The maple leaf flag","A flag featuring a beaver","The Union Jack","A flag with only stripes"], answer:0},
+     {q:"In what year was Canadas new flag officially raised?", options:["1965","1920","2000","1867"], answer:0},
+     {q:"Why might some Canadians have wanted a new flag distinct from Britains Union Jack?", options:["Canadians were required to have the same flag as Britain","To reflect a unique Canadian identity separate from British symbols","They wanted no flag at all","Canada never had a flag before 1965"], answer:1},
+     {q:"Why is the flag debate considered an important moment in Canadian history?", options:["The debate ended without any flag being chosen","It had no impact on Canadian identity","This concept has no relevance to social studies","It reflected growing Canadian independence and national identity"], answer:3}
+   ]},
+]},
+{day:125, label:"Day 125 — Fri", subjects:[
+  {subject:"Language", title:"Vocabulary: Collective Nouns", summary:"Grade 5 Language strand: a collective noun names a group of people, animals, or things treated as a single unit, such as a flock of birds or a team of players.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a collective noun?", options:["A noun that names only one person","A word that shows possession","A noun that names a group treated as a single unit","A type of adverb"], answer:2},
+     {q:"Which of these is a collective noun?", options:["Flock","Bird","Feather","Fly"], answer:0},
+     {q:"What is the collective noun for a group of wolves?", options:["A colony","A pack","A school","A herd"], answer:1},
+     {q:"What is the collective noun for a group of fish?", options:["A pride","A pack","A flock","A school"], answer:3},
+     {q:"Why might writers use collective nouns instead of listing every individual member of a group?", options:["This concept has no connection to vocabulary","Collective nouns always confuse a reader","Collective nouns never refer to groups","It allows them to refer to a whole group efficiently and clearly"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Roman Numerals", summary:"Grade 5 Math strand: the Roman numeral system uses letters such as I, V, X, L, and C to represent numbers, combining and arranging them according to addition and subtraction rules.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What number does the Roman numeral X represent?", options:["50","5","1","10"], answer:3},
+     {q:"What number does the Roman numeral V represent?", options:["5","100","1","10"], answer:0},
+     {q:"How is the number 4 written in Roman numerals?", options:["VI","IX","IV","IIII"], answer:2},
+     {q:"What does it mean when a smaller Roman numeral appears before a larger one, as in IX?", options:["Ignore the smaller value","Multiply the two values","Add the smaller value to the larger one","Subtract the smaller value from the larger one"], answer:3},
+     {q:"Where might you still see Roman numerals used today?", options:["On clock faces or to number movie sequels","Only in ancient Rome","Never in modern life","Only in mathematics textbooks about fractions"], answer:0}
+   ]},
+  {subject:"Science", title:"The Human Brain — Control Centre of the Body", summary:"Grade 5 Science strand: the brain is the control centre of the nervous system, coordinating thought, memory, movement, and the bodys responses to the environment.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is the brain often described as?", options:["A part of the skeletal system","A type of muscle","A digestive organ","The control centre of the nervous system"], answer:3},
+     {q:"What is one important function of the brain?", options:["Pumping blood through the body","Coordinating thought and memory","Filtering waste from blood","Digesting food"], answer:1},
+     {q:"What protects the brain from injury?", options:["The spine alone","The skull","The ribs","The skin"], answer:1},
+     {q:"Why might scientists describe the brain as working closely with the rest of the nervous system?", options:["The brain sends and receives signals through nerves to control the bodys actions","The brain and nervous system are completely unrelated","The brain never communicates with the rest of the body","This concept has no relevance to science"], answer:0},
+     {q:"Why is protecting the brain, such as by wearing a helmet, considered important?", options:["This concept has no connection to science","The brain controls essential functions and injury can seriously affect the whole body","Helmets have no effect on protecting the brain","The brain has no important functions"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Persons Case and Womens Rights in Canada", summary:"Grade 5 Social Studies strand: the Persons Case of 1929 was a landmark legal decision that recognized women as persons eligible to be appointed to the Senate, marking an important step in the history of womens rights in Canada.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What did the Persons Case of 1929 decide?", options:["That women were legally recognized as persons eligible for Senate appointment","That only men could hold government positions","That Canada would adopt a new flag","That women could no longer vote"], answer:0},
+     {q:"Roughly when did the Persons Case take place?", options:["2000","1867","1929","1600"], answer:2},
+     {q:"Why was the Persons Case an important step for womens rights in Canada?", options:["It reduced the rights women previously held","It only applied to women outside of Canada","It helped open the door for women to hold positions of political power","It had no effect on womens rights"], answer:2},
+     {q:"What group of women is often credited with bringing forward the case that became known as the Persons Case?", options:["The Famous Five","The United Empire Loyalists","The Fathers of Confederation","The Group of Seven"], answer:0},
+     {q:"Why do historians consider the Persons Case a milestone in Canadian legal history?", options:["It only affected a single individual with no broader significance","It changed how the law defined who could participate fully in government","It had no lasting legal impact","This concept has no relevance to social studies"], answer:1}
+   ]},
+]},
+{day:126, label:"Day 126 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Interjections and Their Punctuation", summary:"Grade 5 Language strand: an interjection is a word or phrase that expresses strong emotion, such as wow or ouch, and is often followed by an exclamation mark or set off with a comma.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an interjection?", options:["A word or phrase expressing strong emotion","A type of preposition","A word that shows possession","A word that joins two clauses"], answer:0},
+     {q:"Which of these is an example of an interjection?", options:["Table","Wow","Running","Quickly"], answer:1},
+     {q:"What punctuation mark often follows a strong interjection?", options:["A hyphen","A question mark","A colon","An exclamation mark"], answer:3},
+     {q:"How might a mild interjection be punctuated within a sentence, as in Well, I suppose so?", options:["Always written in capital letters","Set off with a comma","Always followed by a period only","Never punctuated at all"], answer:1},
+     {q:"Why do writers use interjections in dialogue?", options:["Interjections always replace the main verb of a sentence","To show a characters strong feeling or reaction","This concept has no connection to grammar","Interjections never show emotion"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Speed, Distance, and Time Relationships", summary:"Grade 5 Math strand: speed describes how fast an object moves, calculated by dividing the distance travelled by the time it took, such as kilometres per hour.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"How is speed calculated?", options:["Distance divided by time","Distance multiplied by time","Distance added to time","Time divided by distance"], answer:0},
+     {q:"If a car travels 120 kilometres in 2 hours, what is its average speed?", options:["120 kilometres per hour","240 kilometres per hour","2 kilometres per hour","60 kilometres per hour"], answer:3},
+     {q:"What unit might be used to describe the speed of a cyclist?", options:["Kilograms","Litres","Kilometres per hour","Square metres"], answer:2},
+     {q:"If you know the speed and time of a trip, how can you find the distance travelled?", options:["Add speed and time","Multiply speed by time","Divide speed by time","Subtract time from speed"], answer:1},
+     {q:"Why is understanding the relationship between speed, distance, and time useful in everyday life?", options:["This concept has no connection to measurement","This relationship never applies to real life","It helps estimate how long a trip will take or how far you can travel in a given time","Speed, distance, and time are always unrelated values"], answer:2}
+   ]},
+  {subject:"Science", title:"Nocturnal Animals and Their Adaptations", summary:"Grade 5 Science strand: nocturnal animals are active mainly at night and have adaptations such as strong night vision, sensitive hearing, or a keen sense of smell that help them survive in the dark.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does it mean for an animal to be nocturnal?", options:["It is active mainly during the day","It never sleeps at all","It sleeps for an entire year","It is active mainly at night"], answer:3},
+     {q:"Which adaptation might help a nocturnal animal see better in the dark?", options:["Bright feathers","A long tail only","A loud call","Large eyes suited for low light"], answer:3},
+     {q:"Name one example of a nocturnal animal.", options:["A robin","A squirrel active only by day","A butterfly","An owl"], answer:3},
+     {q:"Why might sensitive hearing be a useful adaptation for a nocturnal animal?", options:["Nocturnal animals never need to detect prey or danger","This concept has no relevance to science","Sensitive hearing never helps in the dark","It helps the animal detect prey or danger when it is too dark to rely on sight alone"], answer:3},
+     {q:"Why might being active at night help some animals avoid competition with daytime predators?", options:["Being active when other predators sleep can reduce competition for food and safety","Nighttime activity never provides any survival advantage","Nocturnal animals always compete more with daytime animals","This concept has no connection to life systems"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Indigenous Elders and Knowledge Keepers", summary:"Grade 5 Social Studies strand: Elders and Knowledge Keepers hold important roles in Indigenous communities, passing down traditional knowledge, language, and teachings to younger generations.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What role do Elders often play in Indigenous communities?", options:["Passing down traditional knowledge and teachings","Running national elections","Managing federal taxes","Building highways"], answer:0},
+     {q:"What is a Knowledge Keeper?", options:["A federal tax collector","A type of government official","A type of judge","A respected person who preserves and shares traditional knowledge"], answer:3},
+     {q:"Why might traditional teachings be passed down orally by Elders?", options:["This concept has no relevance to social studies","Written records were always the only method used","Oral storytelling has long been an important way to preserve culture and history","Oral traditions have no value in preserving culture"], answer:2},
+     {q:"Why is it important for younger generations to learn from Elders and Knowledge Keepers?", options:["It helps preserve cultural knowledge, language, and identity over time","Learning from Elders has no benefit to a community","This concept has no connection to Indigenous communities","Cultural knowledge is never passed between generations"], answer:0},
+     {q:"How might schools show respect for the role of Elders and Knowledge Keepers?", options:["By inviting them to share teachings and knowledge with students","By replacing their role with textbooks only","By excluding Indigenous perspectives from lessons","By ignoring their contributions entirely"], answer:0}
+   ]},
+]},
+{day:127, label:"Day 127 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Identifying Climax and Resolution in a Story", summary:"Grade 5 Language strand: the climax is the most intense turning point of a story, and the resolution follows it, tying up the main conflict and showing how the story ends.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is the climax of a story?", options:["The most intense turning point of the story","A list of characters","The title of the story","The very first event in the story"], answer:0},
+     {q:"What is the resolution of a story?", options:["A description of the setting only","The very beginning of the story","A list of unrelated facts","The part that ties up the main conflict and shows how the story ends"], answer:3},
+     {q:"Does the climax usually happen before or after the resolution?", options:["Before the resolution","They always happen at the exact same moment","At the very beginning of the story","After the resolution"], answer:0},
+     {q:"Why is the climax often considered the most exciting part of a story?", options:["This concept has no connection to reading","It represents the peak of tension before the conflict is resolved","The climax is always the least important part of a story","A story never contains a climax"], answer:1},
+     {q:"Why might identifying the resolution help a reader understand a stories overall meaning?", options:["This concept has no relevance to reading comprehension","The resolution never reveals anything about a story","A story never actually reaches a resolution","It shows how the conflict was ultimately resolved, revealing the storys outcome"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Loans and Repayment", summary:"Grade 5 Math strand: a loan is money borrowed that must be repaid over time, usually with added interest, meaning the total amount repaid is greater than the amount originally borrowed.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a loan?", options:["A type of savings account","A form of tax refund","Money that never needs to be repaid","Money borrowed that must be repaid over time"], answer:3},
+     {q:"Why is the total amount repaid on a loan usually more than the amount borrowed?", options:["Loans never include any interest","This concept has no connection to financial literacy","Interest is added to the amount owed over time","The amount repaid is always exactly equal to the amount borrowed"], answer:2},
+     {q:"If you borrow 100 dollars with 10 percent interest added, how much would you owe in total?", options:["110 dollars","90 dollars","100 dollars","10 dollars"], answer:0},
+     {q:"Why might someone choose to take out a loan rather than wait and save money first?", options:["Loans always cost less than saving","There is never a reason to take out a loan","To pay for something important sooner, accepting the cost of added interest","Loans remove the need to ever repay money"], answer:2},
+     {q:"Why is it important to repay a loan on time?", options:["Late or missed payments can add extra costs and affect future borrowing ability","Repayment timing never matters for a loan","Loans disappear automatically if not repaid","This concept has no relevance to financial literacy"], answer:0}
+   ]},
+  {subject:"Science", title:"The Life Cycle of a Star", summary:"Grade 5 Science strand: a star forms from a cloud of gas and dust, shines for millions or billions of years by fusing hydrogen, and eventually changes dramatically as it runs out of fuel.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does a star form from?", options:["A comet","A cloud of gas and dust","A solid rock","Ocean water"], answer:1},
+     {q:"What process allows a star to shine for a very long time?", options:["Reflecting sunlight","Freezing gases","Fusing hydrogen for energy","Burning wood"], answer:2},
+     {q:"What might eventually happen to a star as it runs out of fuel?", options:["It changes dramatically, possibly expanding or collapsing","It turns into a comet","It stays exactly the same forever","It disappears with no other change"], answer:0},
+     {q:"Why do scientists study the life cycle of stars?", options:["This concept has no relevance to science","To better understand how stars form, change, and eventually end","Studying stars has no scientific value","Stars never change over time"], answer:1},
+     {q:"Why might our sun be considered a star currently in a stable stage of its life cycle?", options:["The sun is not actually a star","The sun has already run out of fuel","It has been steadily fusing hydrogen for billions of years","Stars never go through different stages"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Ombudsman — Helping Citizens with Government Complaints", summary:"Grade 5 Social Studies strand: an ombudsman is an independent official who investigates complaints from citizens about unfair treatment by government departments, helping ensure accountability and fairness.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does an ombudsman generally do?", options:["Collects federal taxes","Investigates citizen complaints about unfair treatment by government","Manages national parks","Leads a political party"], answer:1},
+     {q:"Why is it important for an ombudsman to be independent from the government they investigate?", options:["Independence helps ensure fair and unbiased investigations","This concept has no relevance to government","Ombudsmen are never independent","Independence makes investigations less fair"], answer:0},
+     {q:"Who might file a complaint with an ombudsman?", options:["Only elected officials","A citizen who feels they were treated unfairly by a government department","Only foreign governments","No one is ever allowed to file a complaint"], answer:1},
+     {q:"Why might a government create an ombudsman position?", options:["Citizens never have any concerns about government services","To give citizens a way to seek fair resolution of their concerns","This concept has no connection to social studies","Ombudsmen serve no useful purpose"], answer:1},
+     {q:"How is the role of an ombudsman similar to the role of the Auditor General?", options:["They perform the exact same identical duties","Neither role has anything to do with accountability","Both work independently to hold government accountable, though they focus on different areas","Only the Auditor General reviews government actions"], answer:2}
+   ]},
+]},
+{day:128, label:"Day 128 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Public Service Announcement", summary:"Grade 5 Language strand: a public service announcement, or PSA, is a short piece of writing that informs or persuades an audience about an important issue, such as safety or the environment, often ending with a clear message.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is the purpose of a public service announcement?", options:["To tell a personal fictional story","To sell a product for profit","To inform or persuade an audience about an important issue","To provide a dictionary definition"], answer:2},
+     {q:"Which topic might a public service announcement address?", options:["Road safety or environmental protection","A private diary entry","A grocery list","A made-up fairy tale"], answer:0},
+     {q:"What might a strong public service announcement include near the end?", options:["An unrelated joke","No message at all","A clear message or call to action","A confusing conclusion"], answer:2},
+     {q:"Why might a public service announcement use direct, clear language?", options:["PSAs are always intentionally confusing","To make sure the audience understands the important message quickly","Clear language never helps communicate an important message","This concept has no connection to writing"], answer:1},
+     {q:"Which is an example of a public service announcement topic?", options:["Encouraging people to wear seatbelts","A story about a dragon","A weather report","A recipe for cookies"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Complementary and Supplementary Angles", summary:"Grade 5 Math strand: complementary angles add up to 90 degrees, while supplementary angles add up to 180 degrees, and these relationships help solve for missing angle measures.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What do complementary angles add up to?", options:["90 degrees","360 degrees","45 degrees","180 degrees"], answer:0},
+     {q:"What do supplementary angles add up to?", options:["360 degrees","90 degrees","270 degrees","180 degrees"], answer:3},
+     {q:"If one angle measures 30 degrees, what does its complementary angle measure?", options:["90 degrees","30 degrees","60 degrees","150 degrees"], answer:2},
+     {q:"If one angle measures 110 degrees, what does its supplementary angle measure?", options:["180 degrees","70 degrees","110 degrees","90 degrees"], answer:1},
+     {q:"Why might understanding complementary and supplementary angles help when solving geometry problems?", options:["These relationships never help solve for angles","Complementary and supplementary angles are always identical","They allow you to calculate a missing angle when you know its paired angle","This concept has no connection to geometry"], answer:2}
+   ]},
+  {subject:"Science", title:"How Seeds Are Dispersed", summary:"Grade 5 Science strand: plants disperse their seeds through methods such as wind, water, and animals, helping new plants grow in locations away from the parent plant.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does seed dispersal mean?", options:["Destroying seeds completely","Preventing seeds from growing","Spreading seeds to new locations away from the parent plant","Keeping seeds in one place forever"], answer:2},
+     {q:"Which of these is a method of seed dispersal?", options:["Seeds turning into rocks","Wind carrying light seeds through the air","Seeds refusing to move at all","Seeds dissolving in soil"], answer:1},
+     {q:"How might an animal help disperse a seed?", options:["Animals never interact with seeds","By eating a fruit and later depositing the seed elsewhere","Animals always destroy every seed they touch","This concept has no relevance to science"], answer:1},
+     {q:"Why might seeds with hooks or burrs be adapted for dispersal by animals?", options:["They can attach to fur and be carried to new locations","This concept has no connection to life systems","Hooks prevent seeds from being dispersed at all","Hooked seeds never attach to anything"], answer:0},
+     {q:"Why is seed dispersal important for a plant species?", options:["Seeds always grow better directly beside the parent plant","Seed dispersal has no benefit to a plant","This concept has no relevance to science","It reduces competition with the parent plant and helps the species spread to new areas"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Trade Surplus and Trade Deficit — Balancing What Canada Buys and Sells", summary:"Grade 5 Social Studies strand: a trade surplus occurs when a country exports more than it imports, while a trade deficit occurs when it imports more than it exports, both affecting a countrys economy.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is a trade surplus?", options:["When a country imports more than it exports","When a country exports more than it imports","When trade is completely banned","A type of federal tax"], answer:1},
+     {q:"What is a trade deficit?", options:["When a country imports more than it exports","When a country exports more than it imports","A kind of national holiday","When no trade occurs at all"], answer:0},
+     {q:"What does it mean to export a good?", options:["To destroy it","To buy it from another country","To store it permanently","To sell it to another country"], answer:3},
+     {q:"What does it mean to import a good?", options:["To throw it away","To buy it from another country","To manufacture it domestically only","To sell it to another country"], answer:1},
+     {q:"Why might understanding trade surpluses and deficits help explain a countrys economic relationships?", options:["Trade balances never affect a countrys economy","They show how much a country is buying from versus selling to other countries","Imports and exports are always exactly equal for every country","This concept has no relevance to social studies"], answer:1}
+   ]},
+]},
+{day:129, label:"Day 129 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Eponyms — Words That Come From Names", summary:"Grade 5 Language strand: an eponym is a word derived from the name of a real or fictional person, such as sandwich, named after the Earl of Sandwich.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an eponym?", options:["A word derived from the name of a person","A word with two opposite meanings","A type of punctuation mark","A word that sounds like its meaning"], answer:0},
+     {q:"The word sandwich is an example of an eponym because it comes from ___.", options:["A scientific formula","The name of the Earl of Sandwich","A type of bread only","A place name only"], answer:1},
+     {q:"Why might a word become an eponym over time?", options:["This concept has no connection to vocabulary","Eponyms never relate to real or fictional people","People began using a persons name to describe something associated with them","Eponyms are randomly assigned with no connection to a person"], answer:2},
+     {q:"Which of these is most likely to be an example of an eponym?", options:["A word describing the colour blue","A basic number word","A type of shoe named after its inventor","A common punctuation mark"], answer:2},
+     {q:"Why might learning about eponyms help build vocabulary knowledge?", options:["It shows how the history behind a word can reveal its meaning and origin","Word origins never connect to real people or stories","This concept has no relevance to vocabulary","Eponyms never provide any useful information about a words meaning"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Expressing Probability as a Fraction, Decimal, and Percent", summary:"Grade 5 Math strand: the probability of an event can be expressed as a fraction, a decimal, or a percent, all representing the same likelihood in different forms.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"If a probability is expressed as 1/4, what is this as a percent?", options:["50 percent","25 percent","75 percent","4 percent"], answer:1},
+     {q:"If a probability is expressed as 0.5, what is this as a fraction?", options:["1/10","1/5","1/2","1/4"], answer:2},
+     {q:"What is the probability of flipping a coin and landing on heads, expressed as a fraction?", options:["1/2","1/3","1","1/4"], answer:0},
+     {q:"Why might expressing the same probability in different forms, like a fraction and a percent, be useful?", options:["All forms of probability always mean completely different things","Different forms can be easier to understand or compare in different situations","This concept has no connection to data management","Probability can never be expressed as a percent"], answer:1},
+     {q:"If an event has a probability of 100 percent, what does this mean?", options:["The event is impossible","The event might happen","The event is certain to happen","The event will never happen"], answer:2}
+   ]},
+  {subject:"Science", title:"Thermal Conductors and Insulators", summary:"Grade 5 Science strand: a thermal conductor, such as metal, allows heat to pass through it easily, while a thermal insulator, such as wood or foam, slows the transfer of heat.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is a thermal conductor?", options:["A material with no effect on heat","A material that creates heat on its own","A material that blocks all heat completely","A material that allows heat to pass through it easily"], answer:3},
+     {q:"What is a thermal insulator?", options:["A material that generates its own heat","A material that speeds up heat transfer the most","A material unrelated to temperature","A material that slows the transfer of heat"], answer:3},
+     {q:"Which of these materials is generally a good thermal conductor?", options:["Wood","Metal","Foam","Wool"], answer:1},
+     {q:"Why might a cooking pot have a metal base but a plastic or wooden handle?", options:["Plastic and wood always conduct heat better than metal","Handles are never designed with heat in mind","The metal conducts heat to cook food, while the handle insulates to stay cool to the touch","Metal never conducts heat"], answer:2},
+     {q:"Why might builders use insulating materials in the walls of a house?", options:["To slow the transfer of heat and help keep indoor temperatures stable","Walls never need any insulation","Insulating materials always increase heat loss","This concept has no relevance to science"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Canada and the Olympic Games", summary:"Grade 5 Social Studies strand: Canada has participated in the Olympic Games for over a century and has hosted the Games multiple times, including in Montreal, Calgary, and Vancouver, showcasing Canadian athletes and culture on a global stage.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Has Canada hosted the Olympic Games more than once?", options:["No, only a single time","Canada has never hosted the Olympics","A concept unrelated to Canadian history","Yes"], answer:3},
+     {q:"Name one Canadian city that has hosted the Olympic Games.", options:["Winnipeg","Regina","Halifax","Vancouver"], answer:3},
+     {q:"Why might hosting the Olympic Games be significant for a country like Canada?", options:["It showcases Canadian culture and athletes on a global stage","This concept has no relevance to social studies","The Olympics are never broadcast internationally","Hosting the Olympics has no significance for a country"], answer:0},
+     {q:"What do Olympic athletes represent when competing internationally?", options:["A private company","No particular group","Their home country","Only their local city"], answer:2},
+     {q:"Why might Canadians take pride in hosting or competing in the Olympic Games?", options:["This concept has no connection to Canadian identity","National pride is never connected to sporting events","The Olympics never involve any Canadian participation","It highlights national achievement and unites people around shared events"], answer:3}
+   ]},
+]},
+{day:130, label:"Day 130 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Writing Forms, and Vocabulary", summary:"Grade 5 Language strand review: students revisit relative pronouns, perfect verb tenses, writing an advertisement, suspense and cliffhangers, and collective nouns.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"Which word is the relative pronoun in the sentence The book that I borrowed was excellent?", options:["Book","Excellent","Borrowed","That"], answer:3},
+     {q:"Which sentence uses the present perfect tense?", options:["She has finished her homework.","She will finish her homework.","She finished her homework yesterday.","She finishes her homework."], answer:0},
+     {q:"What is the purpose of an advertisement?", options:["To persuade an audience to buy a product or support an idea","To tell a neutral news story","To record historical events","To provide a dictionary definition"], answer:0},
+     {q:"What is a cliffhanger?", options:["A type of nonfiction text feature","An ending that leaves an important question unanswered","A chapter that reveals every answer immediately","A grammar rule"], answer:1},
+     {q:"What is a collective noun?", options:["A noun that names a group treated as a single unit","A word that shows possession","A noun that names only one person","A type of adverb"], answer:0}
+   ]},
+  {subject:"Math", title:"Math Review: Data, Algebra, and Geometry", summary:"Grade 5 Math strand review: students revisit permutations, currency exchange rates, simple inequalities, rotations, and Roman numerals.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a permutation count?", options:["A single fixed outcome","A type of fraction","The number of ordered arrangements of items","The number of ways to group items when order does not matter"], answer:2},
+     {q:"What does a currency exchange rate show?", options:["The total population of a country","How much one countrys currency is worth compared to another","A single fixed price for every item","A type of tax rate"], answer:1},
+     {q:"What symbol means greater than?", options:["<","÷","=",">"], answer:3},
+     {q:"What does a rotation do to a shape?", options:["Slides it in a straight line","Makes it larger","Flips it over a line","Turns it around a fixed point"], answer:3},
+     {q:"What number does the Roman numeral X represent?", options:["50","5","1","10"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Energy, Earth and Space, and Life Systems", summary:"Grade 5 Science strand review: students revisit geothermal and biomass power, the northern lights, Newtons first law of motion, types of precipitation, and the human brain.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does geothermal power use as its energy source?", options:["Ocean waves","Wind","Heat stored deep within the Earth","Sunlight"], answer:2},
+     {q:"What causes the northern lights?", options:["Charged particles from the sun colliding with gases in Earths atmosphere","City streetlights","Reflections from the Moon","Light from distant stars only"], answer:0},
+     {q:"According to Newtons first law, what happens to an object at rest unless a force acts on it?", options:["It disappears","It always starts moving on its own","It doubles in size","It stays at rest"], answer:3},
+     {q:"What is precipitation?", options:["Water that falls from clouds to Earths surface","A form of soil","A type of rock","A kind of wind"], answer:0},
+     {q:"What is the brain often described as?", options:["A part of the skeletal system","A type of muscle","A digestive organ","The control centre of the nervous system"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Government, History, and Economy", summary:"Grade 5 Social Studies strand review: students revisit the Prime Minister, the House of Commons, the Numbered Treaties, the Great Flag Debate, and the Persons Case.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the Prime Ministers main role in Canadas government?", options:["Leading the federal government","Leading a provincial government","Serving as a judge on the Supreme Court","Representing the monarch ceremonially"], answer:0},
+     {q:"What is the House of Commons?", options:["A municipal council","The elected lower house of Canadas Parliament","An appointed upper house","A provincial legislature"], answer:1},
+     {q:"What were the Numbered Treaties?", options:["A series of agreements made between the Crown and First Nations","A type of modern trade agreement","A collection of national holidays","A set of provincial tax laws"], answer:0},
+     {q:"What was the Great Flag Debate of 1964 about?", options:["A discussion about national holidays","Whether Canada should adopt a new, distinctly Canadian flag","An argument over currency design","A debate about provincial borders"], answer:1},
+     {q:"What did the Persons Case of 1929 decide?", options:["That women could no longer vote","That only men could hold government positions","That Canada would adopt a new flag","That women were legally recognized as persons eligible for Senate appointment"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
