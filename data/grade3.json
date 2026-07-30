@@ -26762,5 +26762,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 111,
+    "label": "Day 111 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Pronoun-Antecedent Agreement",
+        "summary": "Grade 3 Language strand: a pronoun must match its antecedent (the noun it replaces) in number, using a singular pronoun for a singular noun and a plural pronoun for a plural noun.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "In the sentence Maria lost her book, what is the antecedent of her?",
+            "options": [
+              "Maria",
+              "lost",
+              "book",
+              "her"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which pronoun correctly replaces the plural noun in The dogs ate ___ food?",
+            "options": [
+              "her",
+              "their",
+              "its",
+              "his"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pronoun correctly replaces the singular noun in Sam packed ___ lunch?",
+            "options": [
+              "they",
+              "his",
+              "their",
+              "our"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean for a pronoun to agree with its antecedent?",
+            "options": [
+              "They must start with the same letter",
+              "They match in number (singular or plural)",
+              "They must rhyme",
+              "They must be the same length"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence has correct pronoun-antecedent agreement?",
+            "options": [
+              "The students opened his book.",
+              "The team opened its books wrongly matched.",
+              "The girl opened their book.",
+              "The boys opened their books."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Equivalent Fractions",
+        "summary": "Grade 3 Math strand: equivalent fractions are different fractions that name the same amount, such as 1/2 and 2/4, found by multiplying or dividing the numerator and denominator by the same number.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which fraction is equivalent to 1/2?",
+            "options": [
+              "1/4",
+              "3/8",
+              "2/3",
+              "2/4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which fraction is equivalent to 2/3?",
+            "options": [
+              "2/6",
+              "4/6",
+              "3/4",
+              "1/3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To find an equivalent fraction, you multiply the numerator and denominator by ___.",
+            "options": [
+              "The same number",
+              "Different numbers",
+              "A fraction",
+              "Zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which fraction is NOT equivalent to 1/3?",
+            "options": [
+              "1/2",
+              "4/12",
+              "2/6",
+              "3/9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are 2/4 and 1/2 considered equivalent?",
+            "options": [
+              "They look identical when written",
+              "They have the same denominator",
+              "They represent the same amount",
+              "They have the same numerator"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Owls — Nocturnal Hunters with Special Adaptations",
+        "summary": "Grade 3 Science strand: owls are birds adapted for nighttime hunting, with excellent hearing, silent flight feathers, and the ability to turn their heads far around.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "When are owls typically active?",
+            "options": [
+              "Only underwater",
+              "Never",
+              "At night",
+              "Only at noon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What adaptation helps owls fly without being heard by prey?",
+            "options": [
+              "Loud wingbeats",
+              "Bright colours",
+              "Long tails",
+              "Silent flight feathers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is excellent hearing important for an owl?",
+            "options": [
+              "It helps the owl change colour",
+              "It helps locate prey in the dark",
+              "It helps the owl swim",
+              "It has no purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How far can many owls turn their heads?",
+            "options": [
+              "Upside down only",
+              "Not at all",
+              "Only slightly to one side",
+              "Nearly all the way around"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What word describes an animal that is mainly active at night?",
+            "options": [
+              "Aquatic",
+              "Migratory",
+              "Nocturnal",
+              "Diurnal"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Physical Regions of Canada — The Interior Plains",
+        "summary": "Grade 3 Social Studies strand: the Interior Plains is a large, flat region of Canada known for fertile farmland, grasslands, and oil and gas resources.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Interior Plains region known for?",
+            "options": [
+              "Tropical rainforest",
+              "Tall mountains only",
+              "Coral reefs",
+              "Fertile farmland and grasslands"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which natural resources are commonly found in the Interior Plains?",
+            "options": [
+              "Icebergs",
+              "Volcanic rock only",
+              "Coral",
+              "Oil and gas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How would you describe the landscape of the Interior Plains?",
+            "options": [
+              "Mostly mountainous",
+              "Mostly underwater",
+              "Mostly flat",
+              "Mostly desert dunes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Interior Plains important for farming?",
+            "options": [
+              "It has no soil",
+              "It is covered in ice year-round",
+              "Its flat, fertile land suits growing crops",
+              "It never receives any rain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Interior Plains is one of several physical regions that make up ___.",
+            "options": [
+              "Europe",
+              "The United States only",
+              "A single city",
+              "Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "label": "Day 112 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Genre — Fiction, Nonfiction, and Poetry",
+        "summary": "Grade 3 Language strand: readers identify a texts genre, or category, such as fiction, nonfiction, or poetry, using clues like structure, purpose, and content.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is genre?",
+            "options": [
+              "The last page of a book",
+              "A punctuation mark",
+              "A category or type of text",
+              "The title of a book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which genre tells a made-up story?",
+            "options": [
+              "A recipe",
+              "Nonfiction",
+              "Fiction",
+              "A dictionary entry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which genre presents true facts and information?",
+            "options": [
+              "A fable",
+              "Nonfiction",
+              "Fiction",
+              "A fairy tale"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which clue might help identify a poem?",
+            "options": [
+              "A table of contents",
+              "Lines that do not fill the whole page and may rhyme",
+              "A glossary",
+              "Chapter numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to identify a texts genre before reading?",
+            "options": [
+              "It has no effect on reading",
+              "It changes the words in the book",
+              "It tells you the price of the book",
+              "It helps set expectations for content and structure"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Division: Two-Digit by One-Digit Division",
+        "summary": "Grade 3 Math strand: students divide a two-digit number by a one-digit number, such as 48 divided by 4, using place value strategies or repeated subtraction.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 48 divided by 4?",
+            "options": [
+              "12",
+              "10",
+              "13",
+              "11"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 63 divided by 7?",
+            "options": [
+              "8",
+              "9",
+              "11",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 84 divided by 6?",
+            "options": [
+              "15",
+              "12",
+              "14",
+              "13"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 72 divided by 8?",
+            "options": [
+              "11",
+              "9",
+              "10",
+              "8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "One strategy for dividing a two-digit number is to break it into ___.",
+            "options": [
+              "Only even numbers",
+              "Fractions only",
+              "Random digits",
+              "Friendlier smaller parts"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Bats — Nocturnal Mammals That Use Echolocation",
+        "summary": "Grade 3 Science strand: bats are the only flying mammals, and many species use echolocation, bouncing sound off objects, to navigate and find food in the dark.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What makes bats unique among mammals?",
+            "options": [
+              "They have no fur",
+              "They lay eggs",
+              "They are the only mammals that truly fly",
+              "They live underwater"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is echolocation?",
+            "options": [
+              "Using taste to navigate",
+              "Using light to see",
+              "Using smell to hunt",
+              "Using sound to locate objects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When are most bats active?",
+            "options": [
+              "Only in winter",
+              "At night",
+              "Only underwater",
+              "At noon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do bats use echolocation to find food?",
+            "options": [
+              "They listen for sound bouncing back off insects",
+              "They taste the air",
+              "They see insects glow in the dark",
+              "They smell insects from far away"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bats are classified as ___.",
+            "options": [
+              "Insects",
+              "Reptiles",
+              "Mammals",
+              "Birds"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Head of State — The Role of the Monarchy",
+        "summary": "Grade 3 Social Studies strand: Canada is a constitutional monarchy, meaning the reigning monarch is Canadas ceremonial head of state, represented locally by the Governor General.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What type of government does Canada have regarding its head of state?",
+            "options": [
+              "A constitutional monarchy",
+              "No government at all",
+              "A dictatorship",
+              "A monarchy with total power"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who represents the monarch in Canada?",
+            "options": [
+              "A judge",
+              "A mayor",
+              "The Governor General",
+              "The Prime Minister only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the monarchs role in Canada mostly ceremonial today?",
+            "options": [
+              "No, the monarch runs daily government",
+              "Yes",
+              "The monarch has no role at all",
+              "The monarch controls all laws directly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who actually runs the day-to-day government of Canada?",
+            "options": [
+              "No one",
+              "A random citizen",
+              "The monarch alone",
+              "Elected officials like the Prime Minister"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A constitutional monarchy combines a monarch with ___.",
+            "options": [
+              "Only military rule",
+              "No laws at all",
+              "Complete royal control",
+              "A democratic, elected government"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "label": "Day 113 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Analogies",
+        "summary": "Grade 3 Language strand: an analogy compares two pairs of words that share a similar relationship, such as hot is to cold as day is to night.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is an analogy?",
+            "options": [
+              "A type of punctuation",
+              "A comparison between two pairs of words with a similar relationship",
+              "A single word",
+              "A rhyming poem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Complete the analogy: Puppy is to dog as kitten is to ___.",
+            "options": [
+              "Mouse",
+              "Bird",
+              "Fish",
+              "Cat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Complete the analogy: Hot is to cold as day is to ___.",
+            "options": [
+              "Sun",
+              "Morning",
+              "Night",
+              "Bright"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What relationship does the analogy big is to small as fast is to slow show?",
+            "options": [
+              "Synonyms",
+              "Opposites",
+              "Categories",
+              "Rhymes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Complete the analogy: Author is to book as painter is to ___.",
+            "options": [
+              "Museum",
+              "Painting",
+              "Pencil",
+              "Colour"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication: Two-Digit by One-Digit Using the Standard Algorithm",
+        "summary": "Grade 3 Math strand: students use the standard algorithm to multiply a two-digit number by a one-digit number, regrouping when needed, such as 34 x 3.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is 34 x 3?",
+            "options": [
+              "96",
+              "99",
+              "92",
+              "102"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 27 x 4?",
+            "options": [
+              "98",
+              "104",
+              "108",
+              "112"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 46 x 2?",
+            "options": [
+              "88",
+              "96",
+              "92",
+              "82"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 53 x 3?",
+            "options": [
+              "153",
+              "163",
+              "159",
+              "149"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When multiplying with the standard algorithm, regrouping happens when a product is ___.",
+            "options": [
+              "An odd number",
+              "Less than 5",
+              "Exactly 0",
+              "10 or more"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Comets and Asteroids — Visitors from Space",
+        "summary": "Grade 3 Science strand: comets are icy space objects that develop a glowing tail near the sun, while asteroids are rocky objects, and both orbit the sun like planets.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "Ice and dust",
+              "Water alone",
+              "Living organisms",
+              "Solid metal only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What forms a comets glowing tail?",
+            "options": [
+              "Reflected moonlight only",
+              "Ice and dust heated by the sun",
+              "Fire from the comets core",
+              "Nothing, comets have no tail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an asteroid mostly made of?",
+            "options": [
+              "Ice only",
+              "Rock and metal",
+              "Gas only",
+              "Water only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do comets and asteroids orbit the sun?",
+            "options": [
+              "Only comets do",
+              "No, they float randomly",
+              "Yes",
+              "Only asteroids do"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where are many asteroids found in our solar system?",
+            "options": [
+              "In a belt between Mars and Jupiter",
+              "Inside the sun",
+              "On Earths surface",
+              "Inside the Moon"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The RCMP — Canadas National Police Force",
+        "summary": "Grade 3 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is Canadas national police force, known for its red serge uniform and role in federal law enforcement.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Real Canadian Mail Post",
+              "Royal Canadian Medical Program",
+              "Regional Canadian Municipal Patrol",
+              "Royal Canadian Mounted Police"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the RCMP known for wearing?",
+            "options": [
+              "A chefs apron",
+              "A blue business suit",
+              "A firefighter helmet",
+              "A red serge uniform"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of police force is the RCMP?",
+            "options": [
+              "A national police force",
+              "A volunteer club",
+              "A single citys local force only",
+              "A private security company"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one role of the RCMP?",
+            "options": [
+              "Building bridges",
+              "Teaching in schools",
+              "Enforcing federal laws",
+              "Running restaurants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country have a national police force in addition to local police?",
+            "options": [
+              "National police are not needed",
+              "It replaces all other laws",
+              "To handle law enforcement across the whole country",
+              "Only cities need police"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "label": "Day 114 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing Dialogue Between Characters",
+        "summary": "Grade 3 Language strand: writing dialogue means creating realistic conversation between characters, using quotation marks and giving each character a distinct voice.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What punctuation is used to show a character speaking?",
+            "options": [
+              "An ellipsis",
+              "A semicolon",
+              "Quotation marks",
+              "A colon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean to give a character a distinct voice in dialogue?",
+            "options": [
+              "Making every character sound the same",
+              "Writing in all capital letters",
+              "Making their speech sound unique to them",
+              "Removing all punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers use dialogue in a story?",
+            "options": [
+              "To remove all characters",
+              "To make the story shorter",
+              "To show characters interacting and reveal personality",
+              "To avoid describing the setting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of well-written dialogue?",
+            "options": [
+              "Sam, said I do not want to go.",
+              "Sam said, I do not want to go.",
+              "Sam said I do not want to go",
+              "sam said i do not want to go"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When a new character starts speaking in dialogue, writers usually ___.",
+            "options": [
+              "Use the exact same paragraph",
+              "Switch to all capitals",
+              "Start a new paragraph",
+              "Remove punctuation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Line Plots",
+        "summary": "Grade 3 Math strand: a line plot displays data along a number line, using X marks or dots to show how many times each value occurs.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does a line plot use to show data?",
+            "options": [
+              "Only colours",
+              "Only pie slices",
+              "Marks like Xs or dots above a number line",
+              "Only bars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a line plot, what does a taller stack of marks above a number mean?",
+            "options": [
+              "That value is the smallest",
+              "That value is incorrect",
+              "That value occurs less often",
+              "That value occurs more often"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A line plot is especially useful for showing ___.",
+            "options": [
+              "The colour of an object",
+              "The exact time of day",
+              "How often each value appears in a data set",
+              "A map location"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If three students scored 8 on a quiz, how many marks would appear above 8 on the line plot?",
+            "options": [
+              "3",
+              "8",
+              "4",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first step in making a line plot?",
+            "options": [
+              "Skipping the data",
+              "Choosing random colours",
+              "Drawing a number line covering the data range",
+              "Drawing a pie chart"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Fish — Gills, Fins, and Life Underwater",
+        "summary": "Grade 3 Science strand: fish are adapted for life underwater, using gills to breathe oxygen from water and fins to swim and steer.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What body part do fish use to breathe underwater?",
+            "options": [
+              "Skin only",
+              "Nostrils",
+              "Gills",
+              "Lungs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do fish use to swim and steer through water?",
+            "options": [
+              "Fins",
+              "Wings",
+              "Antennae",
+              "Legs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do gills help a fish breathe?",
+            "options": [
+              "They filter sunlight",
+              "They take oxygen from the water",
+              "They take oxygen from the air",
+              "They store food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an adaptation for underwater life?",
+            "options": [
+              "Gills for breathing water",
+              "Lungs for breathing air only",
+              "Wings for flying",
+              "Fur for warmth on land"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Fish are classified as ___.",
+            "options": [
+              "Insects",
+              "Land mammals",
+              "Birds",
+              "Aquatic animals"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Justice System — Courts and Judges",
+        "summary": "Grade 3 Social Studies strand: Canadas justice system uses courts and judges to settle disagreements and decide cases fairly when laws may have been broken.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Who makes decisions in a courtroom?",
+            "options": [
+              "A judge",
+              "A mayor",
+              "A shopkeeper",
+              "A teacher"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of Canadas justice system?",
+            "options": [
+              "To settle disagreements and apply laws fairly",
+              "To teach students",
+              "To sell goods",
+              "To build roads"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do court cases usually take place?",
+            "options": [
+              "In a courtroom",
+              "In a grocery store",
+              "In a park",
+              "In a classroom"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is fairness important in a justice system?",
+            "options": [
+              "Judges should favour one side",
+              "So everyone is treated equally under the law",
+              "Fairness does not matter",
+              "Only some people deserve fairness"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a court decide in a case?",
+            "options": [
+              "A sports score",
+              "What is for lunch",
+              "The weather forecast",
+              "Whether a law was broken and what happens next"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "label": "Day 115 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Summarizing a Nonfiction Article",
+        "summary": "Grade 3 Language strand: summarizing a nonfiction article means identifying the main topic and key facts, then retelling them briefly in your own words.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is the first step in summarizing a nonfiction article?",
+            "options": [
+              "Copying the whole article",
+              "Ignoring the article",
+              "Identifying the main topic",
+              "Drawing a picture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A good summary includes ___.",
+            "options": [
+              "Only the most important facts",
+              "Every single detail",
+              "No information at all",
+              "Only the title"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do we summarize nonfiction articles?",
+            "options": [
+              "To remove all facts",
+              "To understand and remember the key information quickly",
+              "To confuse the reader",
+              "To make the article longer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A summary should be written ___.",
+            "options": [
+              "In a foreign language",
+              "Word for word from the article",
+              "Only as a question",
+              "In your own words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a nonfiction article topic?",
+            "options": [
+              "A fairy tale",
+              "A poem about a unicorn",
+              "A made-up dragon story",
+              "How volcanoes form"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Understanding Interest — How Savings Grow",
+        "summary": "Grade 3 Math strand: interest is extra money a bank may add to savings over time, meaning money left in a savings account can grow larger.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is interest?",
+            "options": [
+              "A punishment for saving",
+              "Money taken away from your savings",
+              "A type of coin",
+              "Extra money a bank may add to savings over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you leave money in a savings account, what might happen to it over time with interest?",
+            "options": [
+              "It can grow larger",
+              "It turns into a different currency",
+              "It disappears",
+              "It always shrinks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone choose to save money in a bank account?",
+            "options": [
+              "To lose money",
+              "It has no benefit",
+              "To keep it safe and potentially earn interest",
+              "Banks never help money grow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Interest is usually calculated based on ___.",
+            "options": [
+              "The customers age",
+              "The day of the week",
+              "The colour of the piggy bank",
+              "How much money is saved and for how long"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which best describes the idea of savings growing with interest?",
+            "options": [
+              "Small amounts added over time can add up",
+              "Savings never change",
+              "Interest removes all your money",
+              "Interest is the same as a tax"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Hibernation — How Some Animals Sleep Through Winter",
+        "summary": "Grade 3 Science strand: hibernation is a deep, long sleep some animals use to survive winter, slowing their heart rate and body functions to save energy when food is scarce.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is hibernation?",
+            "options": [
+              "A kind of migration",
+              "A type of summer activity",
+              "A way animals find food quickly",
+              "A deep, long sleep some animals use to survive winter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do some animals hibernate?",
+            "options": [
+              "To find more food in winter",
+              "To save energy when food is scarce in winter",
+              "To change colour",
+              "To grow taller"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to an animals heart rate during hibernation?",
+            "options": [
+              "It stops completely",
+              "It slows down",
+              "It speeds up",
+              "It stays exactly the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name an animal known for hibernating.",
+            "options": [
+              "A bear",
+              "A butterfly",
+              "A robin",
+              "A shark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Hibernation mainly helps animals survive a season with ___.",
+            "options": [
+              "No weather changes",
+              "Cold weather and little food",
+              "Constant sunshine",
+              "Warm weather and lots of food"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Census — Counting Everyone in Canada",
+        "summary": "Grade 3 Social Studies strand: a census is an official count of everyone living in Canada, helping the government plan services like schools, hospitals, and roads.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a census?",
+            "options": [
+              "An official count of everyone in a country",
+              "A kind of map",
+              "A sports event",
+              "A type of holiday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the government conduct a census?",
+            "options": [
+              "To have no reason",
+              "To sell products",
+              "To help plan services like schools and hospitals",
+              "To confuse citizens"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How often is a census usually taken in Canada?",
+            "options": [
+              "Every single day",
+              "Never",
+              "At regular intervals, such as every few years",
+              "Only once ever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which service might benefit from census information?",
+            "options": [
+              "Planning new schools",
+              "Playing a game",
+              "Selling candy",
+              "Painting a fence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A census helps a government understand ___.",
+            "options": [
+              "Movie ratings",
+              "How many people live in different areas",
+              "The weather forecast",
+              "Sports scores"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "label": "Day 116 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Symbolism — When an Object Means More Than Itself",
+        "summary": "Grade 3 Language strand: symbolism is when an author uses an object, colour, or image to represent a deeper idea, such as a dove symbolizing peace.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is symbolism?",
+            "options": [
+              "Using an object to represent a deeper idea",
+              "A math symbol",
+              "A grammar rule",
+              "A type of punctuation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a dove commonly symbolize?",
+            "options": [
+              "Confusion",
+              "Peace",
+              "Danger",
+              "Anger"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a storm symbolize in a story?",
+            "options": [
+              "Nothing at all",
+              "Always literal weather only",
+              "Happiness",
+              "Trouble or conflict"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do authors use symbolism?",
+            "options": [
+              "To avoid using words",
+              "To add deeper meaning beyond the literal object",
+              "To confuse readers on purpose",
+              "To make the story shorter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of symbolism?",
+            "options": [
+              "A character opening a door",
+              "A broken mirror representing bad luck",
+              "A character walking to school",
+              "A character eating breakfast"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Perimeter vs Area — What Is the Difference",
+        "summary": "Grade 3 Math strand: perimeter measures the distance around the outside of a shape, while area measures the amount of space inside it, and the two are calculated differently.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does perimeter measure?",
+            "options": [
+              "The distance around a shape",
+              "The space inside a shape",
+              "The colour of a shape",
+              "The weight of a shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does area measure?",
+            "options": [
+              "The distance around a shape",
+              "The height of a shape only",
+              "The number of corners",
+              "The space inside a shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do you find the perimeter of a rectangle?",
+            "options": [
+              "Multiply length by width",
+              "Count the corners",
+              "Add the lengths of all four sides",
+              "Measure only one side"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do you find the area of a rectangle?",
+            "options": [
+              "Measure the diagonal",
+              "Multiply length by width",
+              "Add all four sides",
+              "Count the corners"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A rectangle is 4 units by 3 units. What is its area?",
+            "options": [
+              "14",
+              "7",
+              "12",
+              "10"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Tundra Habitats — Life in the Cold",
+        "summary": "Grade 3 Science strand: the tundra is a cold, treeless habitat with permanently frozen ground called permafrost, home to hardy plants and animals adapted to the cold.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the tundra?",
+            "options": [
+              "A hot desert",
+              "An underwater habitat",
+              "A tropical rainforest",
+              "A cold, treeless habitat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is permafrost?",
+            "options": [
+              "A type of flower",
+              "A warm ocean current",
+              "A kind of cloud",
+              "Permanently frozen ground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the tundra have few or no trees?",
+            "options": [
+              "Trees are not allowed there",
+              "There is too much rain",
+              "It is always too hot for trees",
+              "The cold climate and frozen ground make it hard for trees to grow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which animal might be adapted to live in the tundra?",
+            "options": [
+              "A monkey",
+              "A crocodile",
+              "A parrot",
+              "An arctic fox"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Tundra animals often have adaptations to help them ___.",
+            "options": [
+              "Stay warm in extreme cold",
+              "Climb tall rainforest trees",
+              "Stay cool in extreme heat",
+              "Swim in warm oceans"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Terry Fox — A Canadian Hero and His Marathon of Hope",
+        "summary": "Grade 3 Social Studies strand: Terry Fox was a young Canadian who ran partway across Canada to raise money for cancer research, inspiring an annual tradition that continues today.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What did Terry Fox do to raise money for cancer research?",
+            "options": [
+              "He ran across much of Canada",
+              "He built a hospital himself",
+              "He wrote a book",
+              "He painted a mural"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name of Terry Foxs journey called?",
+            "options": [
+              "The Cross-Canada Walk",
+              "The Race for Life",
+              "The Great Run",
+              "The Marathon of Hope"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What continues today in honour of Terry Fox?",
+            "options": [
+              "A yearly parade with no cause",
+              "Nothing continues",
+              "An annual run raising money for cancer research",
+              "A national holiday with no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Terry Fox considered a Canadian hero?",
+            "options": [
+              "He showed great courage and inspired others to help a cause",
+              "He was a famous actor",
+              "He was a hockey champion",
+              "He was a prime minister"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Terry Fox Run happening in schools across Canada shows ___.",
+            "options": [
+              "Canadians coming together to support a cause",
+              "A one-time-only event",
+              "A rule with no meaning",
+              "A random unrelated tradition"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "label": "Day 117 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Preparing and Giving a Short Speech",
+        "summary": "Grade 3 Language strand: giving a short speech involves choosing a clear topic, organizing ideas with a beginning, middle, and end, and speaking clearly to an audience.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is the first step in preparing a speech?",
+            "options": [
+              "Choosing a clear topic",
+              "Skipping practice",
+              "Reading someone elses speech word for word",
+              "Speaking without any plan"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A well-organized speech usually has ___.",
+            "options": [
+              "Only one sentence",
+              "No structure at all",
+              "Random unrelated facts",
+              "A beginning, middle, and end"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to speak clearly during a speech?",
+            "options": [
+              "So the audience can understand you",
+              "To speak as quietly as possible",
+              "To confuse the audience",
+              "It does not matter how you speak"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can help a speaker feel more confident?",
+            "options": [
+              "Reading it for the first time out loud to the audience",
+              "Practicing the speech beforehand",
+              "Never practicing at all",
+              "Ignoring the topic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Making eye contact with the audience during a speech helps ___.",
+            "options": [
+              "Make the speech longer",
+              "Confuse the audience",
+              "Replace the need for words",
+              "Engage listeners and show confidence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number: Rounding to the Nearest 100",
+        "summary": "Grade 3 Math strand: to round a number to the nearest hundred, look at the tens digit -- if it is 5 or more, round up; if it is less than 5, round down.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which digit do you check to round to the nearest hundred?",
+            "options": [
+              "The hundreds digit",
+              "The thousands digit",
+              "The ones digit",
+              "The tens digit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Round 348 to the nearest hundred.",
+            "options": [
+              "300",
+              "340",
+              "400",
+              "350"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Round 152 to the nearest hundred.",
+            "options": [
+              "200",
+              "160",
+              "100",
+              "150"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Round 275 to the nearest hundred.",
+            "options": [
+              "200",
+              "270",
+              "300",
+              "280"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the tens digit is exactly 5, what do you do?",
+            "options": [
+              "Round up",
+              "Round down",
+              "Round to zero",
+              "Ignore the number"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Lightning and Thunder — Electricity in the Sky",
+        "summary": "Grade 3 Science strand: lightning is a giant spark of electricity in the sky during a storm, and thunder is the sound caused by the rapid heating of air around the lightning.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is lightning?",
+            "options": [
+              "A form of rain",
+              "A giant spark of electricity in the sky",
+              "A type of cloud",
+              "A kind of wind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What causes thunder?",
+            "options": [
+              "Rain hitting the ground",
+              "Clouds moving quickly",
+              "Rapid heating of air around a lightning bolt",
+              "Wind blowing through trees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "During which kind of weather is lightning most common?",
+            "options": [
+              "Thunderstorms",
+              "Light snow",
+              "Clear sunny days",
+              "Calm, windless days"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do we often hear thunder after seeing lightning?",
+            "options": [
+              "They happen at the exact same instant we notice them",
+              "Light travels faster than sound",
+              "Thunder happens before lightning",
+              "Sound travels faster than light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What safety advice is often given during a lightning storm?",
+            "options": [
+              "Go swimming",
+              "Stand under a tall tree",
+              "Stay indoors and avoid open areas",
+              "Fly a kite"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada Day — Celebrating Our Country",
+        "summary": "Grade 3 Social Studies strand: Canada Day, celebrated every July 1st, marks the anniversary of Confederation and is celebrated across the country with fireworks, festivals, and community events.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "On what date is Canada Day celebrated?",
+            "options": [
+              "January 1st",
+              "July 1st",
+              "October 31st",
+              "December 25th"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does Canada Day commemorate?",
+            "options": [
+              "The anniversary of Confederation",
+              "A harvest festival",
+              "A famous explorer landing",
+              "A hockey championship"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do many Canadians celebrate Canada Day?",
+            "options": [
+              "By staying indoors all day",
+              "Fireworks, festivals, and community events",
+              "By closing all parks",
+              "By ignoring the holiday"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might communities host events on Canada Day?",
+            "options": [
+              "It has no significance",
+              "To celebrate and build a sense of national pride and unity",
+              "To avoid celebrating",
+              "Events are not allowed on this day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Canada Day is an example of a ___.",
+            "options": [
+              "Type of currency",
+              "Kind of landform",
+              "National holiday",
+              "Sports team"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "label": "Day 118 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Abbreviations and Acronyms",
+        "summary": "Grade 3 Language strand: an abbreviation is a shortened form of a word, like Dr for Doctor, while an acronym is a word formed from the first letters of a phrase, like NASA.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is an abbreviation?",
+            "options": [
+              "A type of poem",
+              "A full sentence",
+              "A shortened form of a word",
+              "A punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an abbreviation?",
+            "options": [
+              "Dr.",
+              "Doctorate",
+              "Doctoral",
+              "Doctor"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an acronym?",
+            "options": [
+              "A long sentence",
+              "A type of rhyme",
+              "A word formed from the first letters of a phrase",
+              "A synonym for a word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an acronym?",
+            "options": [
+              "Happiness",
+              "NASA",
+              "Doctor",
+              "Running"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do people use abbreviations and acronyms?",
+            "options": [
+              "To save space and time when writing or speaking",
+              "To make words longer",
+              "To remove all meaning from words",
+              "To confuse readers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterning: Patterns in a Multiplication Chart",
+        "summary": "Grade 3 Math strand: a multiplication chart reveals number patterns, such as columns increasing by the same amount and symmetry across the diagonal.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "In a multiplication chart, the numbers in the 2s column increase by ___ each row.",
+            "options": [
+              "2",
+              "4",
+              "5",
+              "3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What pattern can you find in the 5s column of a multiplication chart?",
+            "options": [
+              "It decreases by 5 each time",
+              "It stays the same",
+              "It has no pattern",
+              "It increases by 5 each time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In a multiplication chart, is 6 x 4 the same as 4 x 6?",
+            "options": [
+              "Only sometimes",
+              "Never",
+              "Yes",
+              "No"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the property showing 6 x 4 equals 4 x 6?",
+            "options": [
+              "The associative property",
+              "The commutative property",
+              "The identity property",
+              "The distributive property"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A multiplication chart can help students ___.",
+            "options": [
+              "Learn to read",
+              "Tell time",
+              "Spot patterns and memorize facts",
+              "Measure length"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Fossil Fuels — Coal, Oil, and Natural Gas",
+        "summary": "Grade 3 Science strand: fossil fuels like coal, oil, and natural gas formed underground over millions of years from ancient plants and animals, and are burned for energy.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Name one type of fossil fuel.",
+            "options": [
+              "Wind power",
+              "Water",
+              "Coal",
+              "Solar power"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did fossil fuels form?",
+            "options": [
+              "From metal",
+              "From ancient plants and animals over millions of years",
+              "They were made yesterday",
+              "From plastic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are fossil fuels commonly used for?",
+            "options": [
+              "Growing food",
+              "Producing energy",
+              "Cooling the ocean",
+              "Making rain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where are fossil fuels typically found?",
+            "options": [
+              "Underground",
+              "On top of clouds",
+              "In outer space",
+              "Floating in the air"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Fossil fuels are different from renewable energy sources like solar and wind because they ___.",
+            "options": [
+              "Are always clean to burn",
+              "Never run out",
+              "Come from the sun directly",
+              "Take millions of years to form and can run out"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Sister Cities — Twin Communities Around the World",
+        "summary": "Grade 3 Social Studies strand: sister cities are communities in different countries that form a special partnership to share culture, ideas, and friendship.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a sister city?",
+            "options": [
+              "A city with no people",
+              "A partner community in another country",
+              "A type of building",
+              "A kind of holiday"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might two cities become sister cities?",
+            "options": [
+              "To share culture, ideas, and friendship",
+              "To compete against each other",
+              "To close their borders",
+              "To ignore one another"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might sister cities share with each other?",
+            "options": [
+              "Only complaints",
+              "Nothing at all",
+              "Weather patterns only",
+              "Cultural events and ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is a sister city partnership an example of global friendship?",
+            "options": [
+              "It has no purpose",
+              "Yes",
+              "Only if in the same country",
+              "No"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sister city partnerships can help people learn about ___.",
+            "options": [
+              "Only their own city",
+              "Other cultures and communities",
+              "Weather forecasting",
+              "Nothing new"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "label": "Day 119 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Shades of Meaning",
+        "summary": "Grade 3 Language strand: many words have similar meanings but different shades, or intensities, such as the difference between happy, glad, and thrilled.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does shades of meaning refer to?",
+            "options": [
+              "Small differences in the intensity of similar words",
+              "The colour of a word on a page",
+              "A grammar rule",
+              "A type of punctuation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word shows the strongest degree of happiness?",
+            "options": [
+              "Fine",
+              "Thrilled",
+              "Content",
+              "Okay"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a milder version of angry?",
+            "options": [
+              "Enraged",
+              "Livid",
+              "Annoyed",
+              "Furious"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers choose words with precise shades of meaning?",
+            "options": [
+              "To confuse the reader",
+              "To avoid using adjectives",
+              "To express ideas more accurately",
+              "To make sentences longer without reason"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which set of words goes from mildest to strongest?",
+            "options": [
+              "Warm, hot, scorching",
+              "Warm, scorching, hot",
+              "Hot, scorching, warm",
+              "Scorching, hot, warm"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Certain, Likely, Unlikely, and Impossible",
+        "summary": "Grade 3 Math strand: students describe the chance of an event happening using probability language: certain, likely, unlikely, or impossible.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If an event will definitely happen, it is described as ___.",
+            "options": [
+              "Impossible",
+              "Certain",
+              "Unlikely",
+              "Random"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If an event cannot happen at all, it is described as ___.",
+            "options": [
+              "Guaranteed",
+              "Likely",
+              "Impossible",
+              "Certain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rolling a number less than 7 on a standard six-sided die is ___.",
+            "options": [
+              "Certain",
+              "Unlikely",
+              "Random only",
+              "Impossible"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Rolling a 7 on a standard six-sided die (numbered 1-6) is ___.",
+            "options": [
+              "Certain",
+              "Impossible",
+              "Likely",
+              "Guaranteed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If an event has a small chance of happening, it is described as ___.",
+            "options": [
+              "Guaranteed",
+              "Impossible",
+              "Unlikely",
+              "Certain"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Human Digestive System — How Our Bodies Use Food",
+        "summary": "Grade 3 Science strand: the digestive system breaks down the food we eat into nutrients our body can use for energy, starting in the mouth and continuing through the stomach and intestines.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where does digestion begin?",
+            "options": [
+              "In the brain",
+              "In the lungs",
+              "In the stomach",
+              "In the mouth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the digestive system break food down into?",
+            "options": [
+              "Blood cells",
+              "Bones",
+              "Muscles",
+              "Nutrients the body can use"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After the mouth, where does food travel next in digestion?",
+            "options": [
+              "Toward the brain",
+              "Toward the stomach",
+              "Toward the lungs",
+              "Toward the skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does our body need to digest food?",
+            "options": [
+              "To make it heavier",
+              "For no reason",
+              "To get energy and nutrients from it",
+              "To make the food disappear"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which body system processes the food we eat?",
+            "options": [
+              "The digestive system",
+              "The nervous system",
+              "The skeletal system",
+              "The respiratory system"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Commonwealth — Canadas International Connections",
+        "summary": "Grade 3 Social Studies strand: the Commonwealth is a voluntary association of countries, including Canada, that share historical ties and cooperate on shared goals.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Commonwealth?",
+            "options": [
+              "A single country",
+              "A sports league",
+              "A type of currency",
+              "A voluntary association of countries with shared historical ties"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is Canada a member of the Commonwealth?",
+            "options": [
+              "Canada left long ago",
+              "Canada has never joined",
+              "No",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might countries choose to be part of the Commonwealth?",
+            "options": [
+              "To cooperate on shared goals and maintain historical ties",
+              "It has no purpose",
+              "To compete militarily",
+              "They are forced to join"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might Commonwealth countries do together?",
+            "options": [
+              "Compete only in secret",
+              "Ignore each other completely",
+              "Share ideas and cooperate on common interests",
+              "Refuse to communicate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Being part of an international group like the Commonwealth helps a country ___.",
+            "options": [
+              "Lose all its own identity",
+              "Isolate itself from the world",
+              "Avoid all foreign relationships",
+              "Build global connections and cooperation"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "label": "Day 120 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Pronouns, Genre, and Speaking Skills",
+        "summary": "Grade 3 Language strand review: students revisit pronoun-antecedent agreement, identifying genre, analogies, writing dialogue, summarizing nonfiction, symbolism, and giving a short speech.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does it mean for a pronoun to agree with its antecedent?",
+            "options": [
+              "They must rhyme",
+              "They must start with the same letter",
+              "They must be the same length",
+              "They match in number (singular or plural)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is genre?",
+            "options": [
+              "A category or type of text",
+              "The last page of a book",
+              "A punctuation mark",
+              "The title of a book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What punctuation is used to show a character speaking?",
+            "options": [
+              "Quotation marks",
+              "A colon",
+              "A semicolon",
+              "An ellipsis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is symbolism?",
+            "options": [
+              "A grammar rule",
+              "Using an object to represent a deeper idea",
+              "A type of punctuation",
+              "A math symbol"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A well-organized speech usually has ___.",
+            "options": [
+              "A beginning, middle, and end",
+              "Only one sentence",
+              "No structure at all",
+              "Random unrelated facts"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Fractions, Division, and Measurement",
+        "summary": "Grade 3 Math strand review: students revisit equivalent fractions, two-digit division and multiplication, line plots, perimeter vs area, rounding to the nearest 100, and probability language.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which fraction is equivalent to 1/2?",
+            "options": [
+              "3/8",
+              "2/3",
+              "2/4",
+              "1/4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 48 divided by 4?",
+            "options": [
+              "10",
+              "12",
+              "13",
+              "11"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does perimeter measure?",
+            "options": [
+              "The space inside a shape",
+              "The colour of a shape",
+              "The weight of a shape",
+              "The distance around a shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Round 348 to the nearest hundred.",
+            "options": [
+              "300",
+              "350",
+              "340",
+              "400"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If an event will definitely happen, it is described as ___.",
+            "options": [
+              "Random",
+              "Impossible",
+              "Unlikely",
+              "Certain"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Nocturnal Animals, Habitats, and Earth Science",
+        "summary": "Grade 3 Science strand review: students revisit owls, bats, comets and asteroids, fish adaptations, hibernation, tundra habitats, lightning, fossil fuels, and the digestive system.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What adaptation helps owls fly without being heard by prey?",
+            "options": [
+              "Long tails",
+              "Loud wingbeats",
+              "Silent flight feathers",
+              "Bright colours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is echolocation?",
+            "options": [
+              "Using sound to locate objects",
+              "Using taste to navigate",
+              "Using light to see",
+              "Using smell to hunt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is permafrost?",
+            "options": [
+              "A warm ocean current",
+              "A type of flower",
+              "A kind of cloud",
+              "Permanently frozen ground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes thunder?",
+            "options": [
+              "Rapid heating of air around a lightning bolt",
+              "Rain hitting the ground",
+              "Wind blowing through trees",
+              "Clouds moving quickly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where does digestion begin?",
+            "options": [
+              "In the brain",
+              "In the stomach",
+              "In the lungs",
+              "In the mouth"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Government, Geography, and Canadian Identity",
+        "summary": "Grade 3 Social Studies strand review: students revisit the Interior Plains, the monarchy, the RCMP, the justice system, the census, Terry Fox, Canada Day, sister cities, and the Commonwealth.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Interior Plains region known for?",
+            "options": [
+              "Fertile farmland and grasslands",
+              "Tropical rainforest",
+              "Coral reefs",
+              "Tall mountains only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Real Canadian Mail Post",
+              "Royal Canadian Mounted Police",
+              "Royal Canadian Medical Program",
+              "Regional Canadian Municipal Patrol"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a census?",
+            "options": [
+              "An official count of everyone in a country",
+              "A kind of map",
+              "A sports event",
+              "A type of holiday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name of Terry Foxs journey called?",
+            "options": [
+              "The Cross-Canada Walk",
+              "The Marathon of Hope",
+              "The Great Run",
+              "The Race for Life"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On what date is Canada Day celebrated?",
+            "options": [
+              "January 1st",
+              "December 25th",
+              "October 31st",
+              "July 1st"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
