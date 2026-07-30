@@ -29188,5 +29188,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 121,
+    "label": "Day 121 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Subject-Verb Agreement with Collective Nouns",
+        "summary": "Grade 7 Language strand: a collective noun names a group treated as a single unit, such as team, class, or family, and it typically takes a singular verb unless the individual members are clearly acting separately.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a collective noun?",
+            "options": [
+              "A noun that names a group treated as a single unit",
+              "A noun that always describes a single person",
+              "A verb describing group action",
+              "A punctuation mark used to join clauses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these words is a collective noun?",
+            "options": [
+              "Running",
+              "Committee",
+              "Quickly",
+              "Blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a collective noun usually take a singular verb when the group acts as one unit?",
+            "options": [
+              "Collective nouns never take any verb at all",
+              "Yes, because the group is treated as a single entity",
+              "No, collective nouns always take a plural verb",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence The committee is reviewing the proposal, why is the singular verb is used?",
+            "options": [
+              "This concept has no connection to subject-verb agreement",
+              "Because the committee is acting together as one unit",
+              "Because committee is always a plural word",
+              "Because is is the only verb allowed in English"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly matches a collective noun with its verb?",
+            "options": [
+              "The class is going on a field trips.",
+              "A class field trip is on the going.",
+              "The class going trip a field is.",
+              "The class is going on a field trip."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Conditional Probability (Intro)",
+        "summary": "Grade 7 Math strand: conditional probability is the probability that an event happens given that another event has already occurred, and it often differs from the probability of that event occurring on its own.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does conditional probability measure?",
+            "options": [
+              "The probability of an event that can never happen",
+              "A concept unrelated to probability",
+              "The probability of two events that are always identical",
+              "The probability of an event given that another event has already occurred"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a bag has 3 red and 2 blue marbles and one red marble is removed without replacement, how does the probability of drawing another red marble change?",
+            "options": [
+              "It increases to 100 percent automatically",
+              "It decreases, since one red marble and one total marble were removed",
+              "It stays exactly the same as before",
+              "A concept unrelated to probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Conditional probability is often described using what phrase?",
+            "options": [
+              "The probability of A given B",
+              "The probability of A multiplied by B with no condition",
+              "The probability of A occurring before B is defined",
+              "A concept unrelated to conditional probability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might knowing that a card drawn is a face card change the probability that it is also a king?",
+            "options": [
+              "Knowing one condition narrows down the possible outcomes being considered",
+              "A face card can never also be a king",
+              "Conditions never affect a probability calculation",
+              "This concept has no connection to math"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a class of 20 students where 12 play soccer and 5 of those also play basketball, what is the probability a student plays basketball given that they play soccer?",
+            "options": [
+              "12 out of 5",
+              "12 out of 20",
+              "5 out of 12",
+              "5 out of 20"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Solutions, Solubility, and Concentration",
+        "summary": "Grade 7 Science strand: a solution forms when one substance dissolves evenly into another, solubility describes how much of a substance can dissolve in a given amount of solvent, and concentration describes how much solute is present in a solution.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a solution?",
+            "options": [
+              "A concept unrelated to science",
+              "A solid that cannot be broken down further",
+              "A mixture formed when one substance dissolves evenly into another",
+              "A substance that never mixes with any other substance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does solubility describe?",
+            "options": [
+              "A concept unrelated to solubility",
+              "The colour of a substance only",
+              "The temperature at which a substance freezes",
+              "How much of a substance can dissolve in a given amount of solvent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does concentration describe in a solution?",
+            "options": [
+              "A concept unrelated to solutions",
+              "How much solute is present in a solution",
+              "The exact colour of the solvent",
+              "The container size holding the solution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might sugar dissolve faster in hot water than in cold water?",
+            "options": [
+              "Cold water always dissolves sugar faster than hot water",
+              "Temperature never affects how quickly a solute dissolves",
+              "This concept has no connection to science",
+              "Higher temperatures generally increase how quickly a solute dissolves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens when a solution reaches its maximum solubility and can dissolve no more solute?",
+            "options": [
+              "A concept unrelated to solubility",
+              "It stops being considered a solution at all",
+              "It becomes saturated",
+              "It becomes completely solid"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: United Empire Loyalists and Their Impact on Canada",
+        "summary": "Grade 7 Social Studies strand: United Empire Loyalists were colonists who remained loyal to Britain during the American Revolution and resettled in what is now Canada, shaping the early population and development of regions like Ontario and the Maritimes.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Who were the United Empire Loyalists?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Colonists who fought for American independence",
+              "A group of French explorers who settled Quebec",
+              "Colonists who remained loyal to Britain during the American Revolution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where did many United Empire Loyalists resettle after the American Revolution?",
+            "options": [
+              "Regions that are now part of South America",
+              "A concept unrelated to Loyalist settlement",
+              "Regions that are now part of Mexico",
+              "Regions that are now Ontario and the Maritimes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did United Empire Loyalists leave the newly independent United States?",
+            "options": [
+              "They were forced out by British soldiers with no connection to loyalty",
+              "A concept unrelated to Canadian history",
+              "They wished to remain under British rule rather than live in the new republic",
+              "They were seeking a warmer climate for farming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did the arrival of United Empire Loyalists affect the population of British North America?",
+            "options": [
+              "It caused the population of British North America to shrink dramatically",
+              "This concept has no connection to Canadian history",
+              "It significantly increased the population and led to new colonial boundaries",
+              "It had no effect on the population at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians consider the Loyalist migration an important event in Canadian history?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "It has no lasting significance for Canadian history",
+              "It only affected a single small village with no wider impact",
+              "It helped shape the early English-speaking population and political development of Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "label": "Day 122 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Eponyms — Words Named After People",
+        "summary": "Grade 7 Language strand: an eponym is a word created from the name of a real or fictional person, such as sandwich from the Earl of Sandwich or volt from the scientist Alessandro Volta.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an eponym?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A word borrowed directly from a sound",
+              "A word created from the name of a real or fictional person",
+              "A word that has no origin at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these words is an eponym?",
+            "options": [
+              "Blue",
+              "Table",
+              "Sandwich",
+              "Quickly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The unit volt is named after which scientist?",
+            "options": [
+              "Albert Einstein",
+              "Alessandro Volta",
+              "Isaac Newton",
+              "Marie Curie"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a product or invention eventually become an eponym in everyday language?",
+            "options": [
+              "Eponyms are never connected to real people or brands",
+              "A brand or inventor becomes so closely tied to an item that its name becomes the common word for it",
+              "This concept has no connection to vocabulary",
+              "Every word in English started as an eponym"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of an eponym drawn from mythology or literature?",
+            "options": [
+              "A quick walk in the park",
+              "A simple math equation",
+              "A plain white wall",
+              "A herculean effort, named after the mythological hero Hercules"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: With Replacement vs Without Replacement",
+        "summary": "Grade 7 Math strand: in a with replacement scenario an item is returned before the next draw so probabilities stay the same, while in a without replacement scenario the item stays out, changing the probabilities for later draws.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What happens in a with replacement scenario after an item is drawn?",
+            "options": [
+              "The item is returned before the next draw",
+              "The item is destroyed and cannot be replaced",
+              "The item is doubled before the next draw",
+              "A concept unrelated to probability"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do probabilities change across draws in a without replacement scenario?",
+            "options": [
+              "They always stay exactly the same",
+              "They change because the total number of items decreases",
+              "They become impossible to calculate at all",
+              "A concept unrelated to probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a bag has 4 marbles and one is drawn without replacement, how many marbles remain for the next draw?",
+            "options": [
+              "0",
+              "4",
+              "3",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a without replacement scenario give a different probability for a second event than a with replacement scenario?",
+            "options": [
+              "With replacement and without replacement always give identical results",
+              "Removing an item changes both the total count and possibly the count of a specific outcome",
+              "This concept has no connection to math",
+              "Removing an item never changes any probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Drawing a card, recording it, and then putting it back in the deck before drawing again is an example of which scenario?",
+            "options": [
+              "A concept unrelated to probability",
+              "Neither type of draw applies here",
+              "Without replacement",
+              "With replacement"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Glaciers and Their Role in Shaping Landscapes",
+        "summary": "Grade 7 Science strand: glaciers are massive, slow-moving bodies of ice that shape the land beneath and around them by eroding rock, carving valleys, and depositing sediment as they advance and retreat over long periods of time.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a glacier?",
+            "options": [
+              "A concept unrelated to earth science",
+              "A type of underground cave system",
+              "A massive, slow-moving body of ice",
+              "A fast-flowing river of warm water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can glaciers shape the landscape beneath them?",
+            "options": [
+              "By instantly melting without leaving any trace",
+              "By having no effect on the land at all",
+              "A concept unrelated to glaciers",
+              "By eroding rock and carving valleys as they move"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to sediment carried by a glacier when the glacier retreats?",
+            "options": [
+              "A concept unrelated to glaciers",
+              "It is often deposited, forming new landforms",
+              "It turns instantly into solid rock",
+              "It disappears completely with no trace left behind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do many valleys shaped by glaciers have a distinctive U shape rather than a V shape?",
+            "options": [
+              "Glacial ice erodes broadly along the sides and bottom of a valley as it moves",
+              "Only rivers, never glaciers, can shape a valley",
+              "This concept has no connection to earth science",
+              "Glaciers never change the shape of a valley"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are scientists interested in studying how glaciers are changing today?",
+            "options": [
+              "This concept has no relevance to science",
+              "Glaciers have no connection to climate at all",
+              "Changes in glacier size can indicate broader shifts in global climate",
+              "Glaciers never change in size over time"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Rebellions of 1837 in Upper and Lower Canada",
+        "summary": "Grade 7 Social Studies strand: in 1837, reformers in Upper and Lower Canada rebelled against colonial governments they saw as unfair and unrepresentative, and although the rebellions were defeated, they contributed to later reforms in Canadian self-government.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What happened during the Rebellions of 1837?",
+            "options": [
+              "Reformers in Upper and Lower Canada rebelled against colonial governments",
+              "A concept unrelated to Canadian history",
+              "A trade agreement was signed between Canada and Britain",
+              "A new national holiday was created"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did reformers rebel in 1837?",
+            "options": [
+              "They were protesting a change to the school calendar",
+              "A concept unrelated to the rebellions",
+              "They viewed the colonial governments as unfair and unrepresentative",
+              "They wanted to strengthen ties with Britain even further"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Were the Rebellions of 1837 ultimately defeated?",
+            "options": [
+              "No, the rebels immediately won full independence",
+              "Yes",
+              "A concept unrelated to the rebellions",
+              "The rebellions never actually took place"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How did the Rebellions of 1837 influence later Canadian history?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "They caused Britain to abandon all of its North American colonies immediately",
+              "They had no lasting effect on Canadian government at all",
+              "They contributed to reforms that eventually expanded self-government in the colonies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which report, commissioned after the rebellions, recommended greater self-government for the colonies?",
+            "options": [
+              "The Balfour Declaration",
+              "The Persons Case ruling",
+              "The Quebec Act",
+              "The Durham Report"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "label": "Day 123 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Dramatic Irony in Plays",
+        "summary": "Grade 7 Language strand: dramatic irony occurs when the audience knows something important that a character on stage does not, creating tension or humour as the audience watches the character act without that knowledge.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is dramatic irony?",
+            "options": [
+              "When a character explains every detail directly to the audience",
+              "When the audience knows something a character does not",
+              "When two characters share identical knowledge at all times",
+              "A concept unrelated to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What effect can dramatic irony create for an audience?",
+            "options": [
+              "Boredom, since the audience already knows everything",
+              "Complete confusion with no emotional effect",
+              "A concept unrelated to dramatic irony",
+              "Tension or humour as the audience watches events unfold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which situation is dramatic irony present?",
+            "options": [
+              "A character explains the plot directly to another character who already knows it",
+              "Two characters discover the same secret at the exact same moment",
+              "The audience knows a character is walking into a trap, but the character does not",
+              "The audience and every character know exactly the same information"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a playwright use dramatic irony to build suspense?",
+            "options": [
+              "Dramatic irony always removes suspense from a scene",
+              "Watching a character act without key knowledge can make the audience anxious about what will happen",
+              "This concept has no connection to literature",
+              "Dramatic irony requires the audience to know nothing about the plot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does dramatic irony differ from a simple plot twist?",
+            "options": [
+              "This concept has no relevance to reading comprehension",
+              "Dramatic irony relies on the audience knowing more than a character, not on a sudden surprise reveal",
+              "Dramatic irony and a plot twist always mean exactly the same thing",
+              "A plot twist requires the audience to know less than every character"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Converting Between Imperial and Metric Units",
+        "summary": "Grade 7 Math strand: the imperial system uses units like inches, feet, and pounds while the metric system uses units like centimetres, metres, and kilograms, and converting between the two systems requires using an approximate conversion factor.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "Which system uses units like inches, feet, and pounds?",
+            "options": [
+              "Neither system uses these units",
+              "A concept unrelated to measurement",
+              "The metric system",
+              "The imperial system"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Approximately how many centimetres are in one inch?",
+            "options": [
+              "10 centimetres",
+              "2.54 centimetres",
+              "1 centimetre",
+              "100 centimetres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a conversion factor needed when converting between imperial and metric units?",
+            "options": [
+              "A concept unrelated to measurement",
+              "Conversion factors are never used in measurement",
+              "The two systems are based on different units, so a fixed ratio connects them",
+              "Imperial and metric units are always exactly the same size"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a board is 5 feet long, roughly how many metres is that, given about 3.28 feet in a metre?",
+            "options": [
+              "About 15 metres",
+              "About 0.5 metres",
+              "About 1.5 metres",
+              "About 50 metres"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might understanding both imperial and metric units be useful in everyday life?",
+            "options": [
+              "This concept has no connection to math",
+              "Only one measurement system exists worldwide",
+              "Imperial and metric units can never be compared to each other",
+              "Different countries and industries commonly use different systems of measurement"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Blood Composition and Blood Types",
+        "summary": "Grade 7 Science strand: blood is made up of plasma, red blood cells, white blood cells, and platelets, and a persons blood type is determined by specific markers on the surface of their red blood cells.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are the main components of blood?",
+            "options": [
+              "Plasma, red blood cells, white blood cells, and platelets",
+              "A concept unrelated to biology",
+              "Only bone and muscle tissue",
+              "Only water and salt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main role of red blood cells?",
+            "options": [
+              "Fighting off infection only",
+              "Carrying oxygen throughout the body",
+              "A concept unrelated to blood",
+              "Producing sound waves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What determines a persons blood type?",
+            "options": [
+              "The colour of a persons skin",
+              "Specific markers on the surface of red blood cells",
+              "A concept unrelated to blood type",
+              "The persons height and weight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for doctors to know a patients blood type before a transfusion?",
+            "options": [
+              "This concept has no connection to biology",
+              "Blood type never matters during a transfusion",
+              "Mismatched blood types can cause a dangerous immune reaction",
+              "Every blood type is always compatible with every other type"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the role of platelets in the blood?",
+            "options": [
+              "Helping blood clot to stop bleeding",
+              "Carrying oxygen to the lungs",
+              "A concept unrelated to blood composition",
+              "Producing new bone cells"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Meech Lake and Charlottetown Accords",
+        "summary": "Grade 7 Social Studies strand: the Meech Lake and Charlottetown Accords were attempts in the late 1980s and early 1990s to amend the Canadian constitution and address Quebecs demands for recognition, but both ultimately failed to gain the required approval.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What were the Meech Lake and Charlottetown Accords attempting to do?",
+            "options": [
+              "Create a new national anthem for Canada",
+              "Establish a new trade agreement with the United States",
+              "A concept unrelated to Canadian history",
+              "Amend the Canadian constitution and address Quebecs demands for recognition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Did both accords ultimately gain the approval needed to take effect?",
+            "options": [
+              "Only the Charlottetown Accord failed, while Meech Lake succeeded",
+              "Yes, both accords were fully approved and enacted",
+              "A concept unrelated to the accords",
+              "No, both accords ultimately failed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Roughly when did these constitutional negotiations take place?",
+            "options": [
+              "The late 1980s and early 1990s",
+              "The 2010s",
+              "The early 1800s",
+              "The 1950s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why were these accords significant even though they failed?",
+            "options": [
+              "They were approved without any public debate or discussion",
+              "They had no impact on Canadian political discussions at all",
+              "They revealed deep divisions over how to accommodate Quebec within Confederation",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What method was used to attempt to ratify the Charlottetown Accord?",
+            "options": [
+              "A unanimous vote in the Senate only",
+              "A decision made solely by the Prime Minister",
+              "A national referendum",
+              "An international treaty signing"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "label": "Day 124 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Book Review",
+        "summary": "Grade 7 Language strand: a book review summarizes a text without giving away every detail, evaluates its strengths and weaknesses, and offers the writers opinion supported by specific examples from the book.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What should a book review generally include, along with a summary?",
+            "options": [
+              "A complete retelling of every plot detail",
+              "A concept unrelated to writing",
+              "An evaluation of strengths and weaknesses supported by examples",
+              "Only the books total page count"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a book review avoid giving away every plot detail?",
+            "options": [
+              "Spoilers are always required in a book review",
+              "A book review should never mention the plot at all",
+              "To avoid spoiling the story for readers who have not read it yet",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What should support the opinions expressed in a book review?",
+            "options": [
+              "Random guesses with no connection to the text",
+              "A concept unrelated to book reviews",
+              "Specific examples from the book",
+              "Only the reviewers personal mood that day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a reviewer discuss a books pacing or character development?",
+            "options": [
+              "This concept has no connection to writing",
+              "These elements affect how effectively the story is told",
+              "Pacing and character development are never relevant to a review",
+              "A book review can only discuss the cover design"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence sounds most like part of a book review?",
+            "options": [
+              "Once upon a time, in a faraway kingdom.",
+              "The chemical symbol for gold is Au.",
+              "The novels vivid descriptions pulled me into the setting, though the ending felt rushed.",
+              "Add 15 and 20 to get 35."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Range and Interquartile Range (IQR)",
+        "summary": "Grade 7 Math strand: the range of a data set is the difference between its highest and lowest values, while the interquartile range measures the spread of the middle half of the data and is less affected by extreme values.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "How is the range of a data set calculated?",
+            "options": [
+              "Multiplying the highest and lowest values",
+              "A concept unrelated to data management",
+              "Subtracting the lowest value from the highest value",
+              "Adding every value together"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the interquartile range measure?",
+            "options": [
+              "The total number of values in a data set",
+              "A concept unrelated to interquartile range",
+              "The single most common value in the data",
+              "The spread of the middle half of the data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the interquartile range often more useful than the range when a data set has extreme outliers?",
+            "options": [
+              "A concept unrelated to data management",
+              "The interquartile range is always identical to the range",
+              "The interquartile range is less affected by unusually high or low values",
+              "Outliers always make the interquartile range meaningless"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a data set has a lowest value of 5 and a highest value of 45, what is the range?",
+            "options": [
+              "40",
+              "45",
+              "5",
+              "50"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The interquartile range is generally found using which two values?",
+            "options": [
+              "Only the very first and very last data points listed",
+              "A concept unrelated to quartiles",
+              "The first quartile and the third quartile",
+              "Only the mean and the mode"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "How Vaccines Train the Immune System",
+        "summary": "Grade 7 Science strand: a vaccine introduces a weakened, inactivated, or partial form of a pathogen so the immune system can learn to recognize it and build a faster, stronger defense if the real pathogen is encountered later.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does a vaccine typically introduce into the body?",
+            "options": [
+              "A random substance with no connection to disease",
+              "A concept unrelated to science",
+              "A weakened, inactivated, or partial form of a pathogen",
+              "A fully active, dangerous version of a disease with no changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a vaccine help the immune system respond faster to a real infection later?",
+            "options": [
+              "The immune system has already learned to recognize the pathogen from the vaccine",
+              "Vaccines have no effect on how the immune system responds",
+              "The immune system forgets the vaccine immediately",
+              "A concept unrelated to vaccines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What cells does the immune system use to remember a pathogen after vaccination?",
+            "options": [
+              "A concept unrelated to the immune system",
+              "Memory cells",
+              "Only red blood cells",
+              "Only skin cells"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a vaccinated persons body respond more quickly to a pathogen than an unvaccinated persons body?",
+            "options": [
+              "The vaccinated persons immune system has already been trained to recognize that specific pathogen",
+              "Only unvaccinated people have functioning immune systems",
+              "Vaccination always makes the immune system weaker overall",
+              "This concept has no connection to biology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are vaccines considered an important public health tool?",
+            "options": [
+              "This concept has no relevance to science",
+              "Vaccines have no effect on how diseases spread through a population",
+              "Vaccines only work for a single person and never affect anyone else",
+              "They can reduce the spread and severity of infectious diseases within a population"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Group of Seven and Canadian National Identity",
+        "summary": "Grade 7 Social Studies strand: the Group of Seven was a collective of Canadian landscape painters active in the early 20th century whose bold depictions of the Canadian wilderness helped shape a distinct sense of national identity and pride.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Group of Seven?",
+            "options": [
+              "A collective of Canadian landscape painters active in the early 20th century",
+              "A group of Canadian prime ministers",
+              "A sports team representing Canada internationally",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Group of Seven primarily paint?",
+            "options": [
+              "The Canadian wilderness and landscape",
+              "Scenes exclusively from cities outside Canada",
+              "Portraits of European royalty",
+              "A concept unrelated to the Group of Seven"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the Group of Seven influence Canadian culture?",
+            "options": [
+              "Their art helped shape a distinct sense of Canadian national identity",
+              "A concept unrelated to Canadian identity",
+              "They discouraged any interest in Canadian landscapes",
+              "Their work had no influence on Canadian culture at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might depicting the rugged Canadian wilderness have resonated with audiences in the early 20th century?",
+            "options": [
+              "The Group of Seven copied European landscapes exactly",
+              "It offered a distinctly Canadian artistic style separate from European traditions",
+              "Canadian audiences had no interest in art depicting their own country",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do museums and schools still study the Group of Seven today?",
+            "options": [
+              "The Group of Seven has been entirely forgotten by historians",
+              "Their paintings were destroyed and no longer exist",
+              "This concept has no relevance to Canadian history",
+              "Their work remains an important part of Canadian art history and cultural identity"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "label": "Day 125 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Evaluating Deepfakes and Digital Manipulation",
+        "summary": "Grade 7 Language strand: a deepfake uses artificial intelligence to create convincing but fake images, audio, or video of real people, making it essential for viewers to critically evaluate digital media before trusting or sharing it.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a deepfake?",
+            "options": [
+              "A completely unedited video with no digital changes",
+              "A concept unrelated to media literacy",
+              "AI-generated media that convincingly but falsely depicts a real person",
+              "A type of printed newspaper article"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What technology is typically used to create a deepfake?",
+            "options": [
+              "Artificial intelligence",
+              "A simple pencil and paper sketch",
+              "An unedited photograph with no software involved",
+              "A concept unrelated to deepfakes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to critically evaluate digital media before sharing it?",
+            "options": [
+              "Sharing unverified content never causes any harm",
+              "Manipulated content can spread false information convincingly",
+              "A concept unrelated to media literacy",
+              "All digital media is always completely accurate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might be a warning sign that a video could be a deepfake?",
+            "options": [
+              "A video with a clearly labeled and credited source",
+              "Perfectly natural, verified footage from a trusted news source",
+              "A concept unrelated to digital manipulation",
+              "Unnatural facial movements or mismatched audio and lip movement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might deepfakes pose a challenge for journalism and public trust?",
+            "options": [
+              "This concept has no relevance to media literacy",
+              "Deepfakes have no impact on how people perceive news",
+              "Deepfakes always clearly announce themselves as fake",
+              "They can make it harder to distinguish real events from fabricated ones"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Constructing Frequency Polygons",
+        "summary": "Grade 7 Math strand: a frequency polygon displays grouped data as a series of connected line segments plotted at the midpoint of each interval, offering an alternative to a histogram for showing the shape of a distribution.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does a frequency polygon use to display data?",
+            "options": [
+              "Randomly placed dots with no clear pattern",
+              "Solid bars with no connecting lines",
+              "A concept unrelated to data management",
+              "A series of connected line segments plotted at interval midpoints"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What point of each interval is typically used to plot a frequency polygon?",
+            "options": [
+              "The midpoint",
+              "The highest value only",
+              "A concept unrelated to frequency polygons",
+              "The lowest value only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a frequency polygon differ from a histogram?",
+            "options": [
+              "A concept unrelated to data displays",
+              "A frequency polygon can only display a single data value",
+              "It uses connected points instead of bars to show the same kind of grouped data",
+              "A frequency polygon and a histogram are always exactly identical"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a frequency polygon be useful for comparing two data sets on the same graph?",
+            "options": [
+              "Only one frequency polygon can ever exist on a single graph",
+              "This concept has no connection to math",
+              "Frequency polygons can never be used to compare two data sets",
+              "Overlapping line shapes can be easier to compare than overlapping bars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the overall shape of a frequency polygon help reveal about a data set?",
+            "options": [
+              "The general distribution and trend of the data",
+              "The exact colour used in the original data collection",
+              "A concept unrelated to frequency polygons",
+              "The names of the people who collected the data"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Moon Phases and Tidal Cycles",
+        "summary": "Grade 7 Science strand: the moon appears to change shape in the sky as it orbits Earth in a predictable cycle of phases, and its gravitational pull, along with the suns, causes the rise and fall of ocean tides.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why does the moon appear to change shape in the sky over about a month?",
+            "options": [
+              "The moon disappears completely every single day",
+              "The moon physically changes shape every night",
+              "A concept unrelated to astronomy",
+              "It moves through a predictable cycle of phases as it orbits Earth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What mainly causes ocean tides on Earth?",
+            "options": [
+              "Wind blowing across the ocean surface only",
+              "The gravitational pull of the moon and the sun",
+              "Ocean currents with no connection to gravity",
+              "A concept unrelated to tides"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a full moon?",
+            "options": [
+              "A concept unrelated to moon phases",
+              "The phase when the entire visible side of the moon appears illuminated",
+              "The phase when the moon is completely invisible",
+              "A phase that never actually occurs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do the highest tides, called spring tides, occur during a full or new moon?",
+            "options": [
+              "The gravitational pull of the sun and moon align, increasing their combined effect",
+              "Spring tides only occur during the spring season",
+              "The sun and moon have no combined effect on tides",
+              "This concept has no connection to science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding the predictable cycle of moon phases and tides useful for coastal communities?",
+            "options": [
+              "This concept has no relevance to science",
+              "It helps with activities like fishing, navigation, and planning around changing water levels",
+              "Tides never actually change throughout a lunar cycle",
+              "Moon phases and tides have no practical use for coastal communities"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Bank of Canada and Monetary Policy",
+        "summary": "Grade 7 Social Studies strand: the Bank of Canada is the countrys central bank, responsible for setting monetary policy, controlling the money supply, and working to keep inflation low and stable to support the overall economy.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Bank of Canada?",
+            "options": [
+              "The countrys central bank",
+              "A concept unrelated to Canadian government",
+              "A department that manages national parks",
+              "A private bank that competes with other Canadian banks for customers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one main responsibility of the Bank of Canada?",
+            "options": [
+              "A concept unrelated to the Bank of Canada",
+              "Building highways across the country",
+              "Setting monetary policy and controlling the money supply",
+              "Managing Canadas foreign embassies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What economic goal does the Bank of Canada aim to support by keeping inflation low and stable?",
+            "options": [
+              "Rapid, unlimited price increases every year",
+              "The complete elimination of all Canadian currency",
+              "A healthy, stable overall economy",
+              "A concept unrelated to monetary policy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the Bank of Canada adjust interest rates as a tool of monetary policy?",
+            "options": [
+              "Changing interest rates can influence borrowing, spending, and overall economic activity",
+              "The Bank of Canada has no ability to influence interest rates",
+              "This concept has no relevance to social studies",
+              "Interest rates have no connection to the economy at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for a country to have a central bank like the Bank of Canada?",
+            "options": [
+              "Central banks only exist to print currency with no other function",
+              "It helps manage the money supply and maintain economic stability",
+              "A central bank has no meaningful role in a countrys economy",
+              "This concept has no relevance to Canadian history"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "label": "Day 126 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Coordinating and Subordinating Conjunctions",
+        "summary": "Grade 7 Language strand: a coordinating conjunction, such as and or but, joins two equal ideas, while a subordinating conjunction, such as although or because, joins a dependent clause to an independent clause.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a coordinating conjunction do?",
+            "options": [
+              "Joins two equal ideas",
+              "Ends a sentence with no connection to grammar",
+              "A concept unrelated to grammar",
+              "Joins a dependent clause only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a coordinating conjunction?",
+            "options": [
+              "Since",
+              "And",
+              "Although",
+              "Because"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a subordinating conjunction do?",
+            "options": [
+              "Replaces a noun in a sentence",
+              "Joins two completely unrelated sentences with no connection",
+              "A concept unrelated to subordinating conjunctions",
+              "Joins a dependent clause to an independent clause"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence Although it was raining, we went outside, what type of conjunction is although?",
+            "options": [
+              "A type of pronoun",
+              "A subordinating conjunction",
+              "A coordinating conjunction",
+              "A concept unrelated to conjunctions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to know the difference between coordinating and subordinating conjunctions?",
+            "options": [
+              "Only subordinating conjunctions exist in English",
+              "It helps writers correctly join clauses and vary sentence structure",
+              "This concept has no connection to grammar",
+              "The difference between these conjunctions never matters in writing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Volume of Irregular Solids by Water Displacement",
+        "summary": "Grade 7 Math strand: the volume of an irregular solid that cannot be measured with a simple formula can be found using water displacement, where the amount of water an object pushes aside equals its volume.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What method can be used to find the volume of an irregular solid?",
+            "options": [
+              "Water displacement",
+              "Multiplying its length, width, and height only",
+              "Weighing the object on a scale only",
+              "A concept unrelated to geometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In water displacement, what does the amount of water pushed aside represent?",
+            "options": [
+              "The mass of the object",
+              "A concept unrelated to water displacement",
+              "The temperature of the object",
+              "The volume of the object"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If an object raises the water level in a container from 200 mL to 250 mL, what is the volume of the object?",
+            "options": [
+              "200 mL",
+              "250 mL",
+              "50 mL",
+              "450 mL"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is water displacement useful for measuring the volume of an oddly shaped rock?",
+            "options": [
+              "Water displacement can only be used on perfectly cube-shaped objects",
+              "A simple geometric formula cannot easily be applied to its irregular shape",
+              "Every irregular object already has an obvious volume formula",
+              "This concept has no connection to math"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must be true about the irregular solid for the water displacement method to work correctly?",
+            "options": [
+              "A concept unrelated to measuring volume",
+              "It must always float on top of the water",
+              "It must not dissolve or absorb the water it is placed in",
+              "It must be exactly the same size as the container"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy: Solar Panels and Photovoltaic Technology",
+        "summary": "Grade 7 Science strand: solar panels use photovoltaic cells to convert sunlight directly into electricity, offering a renewable energy source that produces no direct emissions while generating power.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do photovoltaic cells in a solar panel convert into electricity?",
+            "options": [
+              "Wind",
+              "Heat from underground",
+              "A concept unrelated to renewable energy",
+              "Sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is solar power considered a renewable energy source?",
+            "options": [
+              "Sunlight is a limited resource that will soon disappear",
+              "A concept unrelated to solar power",
+              "Solar panels require burning fossil fuels to operate",
+              "Sunlight is naturally replenished and does not run out"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one advantage of solar power over fossil fuels?",
+            "options": [
+              "It never depends on weather or sunlight conditions",
+              "It requires no technology to harness at all",
+              "A concept unrelated to solar energy",
+              "It produces no direct emissions while generating electricity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might reduce how much electricity a solar panel produces on a given day?",
+            "options": [
+              "The time of year, with no other factor involved",
+              "A concept unrelated to solar panels",
+              "The colour of nearby buildings only",
+              "Cloud cover or reduced sunlight reaching the panel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Solar panels are often grouped together on rooftops or in large fields called what?",
+            "options": [
+              "Solar farms",
+              "Power plants only",
+              "Wind farms",
+              "A concept unrelated to solar energy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The 1972 Summit Series and Cold War Sports Diplomacy",
+        "summary": "Grade 7 Social Studies strand: the 1972 Summit Series was a hockey competition between Canada and the Soviet Union that became a symbol of Cold War rivalry, with Canadas dramatic victory sparking a surge of national pride.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What was the 1972 Summit Series?",
+            "options": [
+              "A hockey competition between Canada and the Soviet Union",
+              "A concept unrelated to Canadian history",
+              "A trade agreement between Canada and the United States",
+              "A summit meeting between world political leaders"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did the 1972 Summit Series become a symbol of Cold War rivalry?",
+            "options": [
+              "A concept unrelated to the Summit Series",
+              "It had no connection to international politics at all",
+              "It was played entirely within a single country with no international element",
+              "It pitted two nations from opposing sides of the Cold War against each other in sport"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did Canadians generally react to their teams victory in the series?",
+            "options": [
+              "A concept unrelated to the Summit Series",
+              "With disappointment, since Canada actually lost",
+              "With a surge of national pride",
+              "With complete indifference to the result"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a sports competition like the Summit Series carry political significance beyond the game itself?",
+            "options": [
+              "It can symbolize broader ideological and national rivalries between competing systems",
+              "Sports competitions never carry any meaning beyond the game itself",
+              "This concept has no relevance to social studies",
+              "The Cold War had no connection to any cultural or sporting events"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the 1972 Summit Series still remembered as a significant moment in Canadian history?",
+            "options": [
+              "It is seen as a defining moment of national identity and Cold War tension",
+              "It had no lasting cultural impact on Canada",
+              "This concept has no relevance to Canadian history",
+              "It has been completely forgotten by most Canadians today"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "label": "Day 127 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Oxymorons and Contradictory Phrases",
+        "summary": "Grade 7 Language strand: an oxymoron combines two contradictory terms for effect, such as deafening silence or bittersweet, often highlighting a complex or ironic idea in just a few words.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an oxymoron?",
+            "options": [
+              "A phrase that combines two contradictory terms",
+              "A concept unrelated to vocabulary",
+              "A phrase with only one possible meaning",
+              "A word that means the exact same thing twice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these phrases is an example of an oxymoron?",
+            "options": [
+              "Cold winter",
+              "Bright sunshine",
+              "Fast runner",
+              "Deafening silence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use an oxymoron in a piece of writing?",
+            "options": [
+              "To highlight a complex or ironic idea in just a few words",
+              "Oxymorons are always grammatically incorrect and should be avoided",
+              "A concept unrelated to oxymorons",
+              "Oxymorons never add any meaning to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes bittersweet an oxymoron?",
+            "options": [
+              "A concept unrelated to oxymorons",
+              "It combines the contradictory ideas of bitterness and sweetness",
+              "It describes only one simple, uncomplicated feeling",
+              "It has no connection to taste or emotion at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the phrase original copy be considered an oxymoron?",
+            "options": [
+              "This concept has no relevance to vocabulary",
+              "The two words always mean exactly the same thing",
+              "A copy is always considered more original than the source",
+              "Original suggests something new, while copy suggests something duplicated"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Surface-Area-to-Volume Ratio and Its Real-World Effects",
+        "summary": "Grade 7 Math strand: the surface-area-to-volume ratio compares an objects outer surface area to its interior volume, and this ratio decreases as an object gets larger, which affects things like heat loss and cooling rates.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does the surface-area-to-volume ratio compare?",
+            "options": [
+              "A concept unrelated to geometry",
+              "An objects mass to its colour",
+              "An objects height to its width only",
+              "An objects outer surface area to its interior volume"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What generally happens to the surface-area-to-volume ratio as an object gets larger?",
+            "options": [
+              "It always stays exactly the same",
+              "A concept unrelated to this ratio",
+              "It decreases",
+              "It increases without any limit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a smaller object cool down faster than a larger object of the same shape?",
+            "options": [
+              "A smaller object has a relatively larger surface area compared to its volume, allowing faster heat loss",
+              "Object size has no effect on how quickly heat is lost",
+              "Smaller objects always have a lower surface-area-to-volume ratio than larger ones",
+              "A concept unrelated to geometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A cube with side length 2 has a smaller surface-area-to-volume ratio than a cube with side length ___.",
+            "options": [
+              "3",
+              "4",
+              "1",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might engineers consider surface-area-to-volume ratio when designing cooling systems for machinery?",
+            "options": [
+              "A higher ratio can help a design lose heat more efficiently",
+              "Surface-area-to-volume ratio has no connection to how objects lose heat",
+              "Cooling systems never depend on the shape or size of an object",
+              "This concept has no relevance to math"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Decomposers and Nutrient Recycling in Ecosystems",
+        "summary": "Grade 7 Science strand: decomposers, such as fungi and bacteria, break down dead organisms and waste material, releasing nutrients back into the soil and allowing them to be reused by other living things in an ecosystem.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main role of decomposers in an ecosystem?",
+            "options": [
+              "Hunting and consuming only living prey",
+              "Breaking down dead organisms and waste to release nutrients",
+              "Producing their own food using sunlight only",
+              "A concept unrelated to ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these organisms are common decomposers?",
+            "options": [
+              "A concept unrelated to decomposers",
+              "Only plants that photosynthesize",
+              "Fungi and bacteria",
+              "Only large predators"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to nutrients released by decomposers?",
+            "options": [
+              "They return to the soil and can be reused by other living things",
+              "A concept unrelated to nutrient cycling",
+              "They disappear from the ecosystem permanently",
+              "They only benefit the decomposers themselves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why would an ecosystem struggle to function without decomposers?",
+            "options": [
+              "This concept has no connection to biology",
+              "Dead material and waste would build up instead of being recycled into usable nutrients",
+              "Only producers, never decomposers, matter in an ecosystem",
+              "Ecosystems function exactly the same with or without decomposers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How are decomposers connected to nutrient cycles, such as the carbon and nitrogen cycles?",
+            "options": [
+              "This concept has no relevance to science",
+              "Decomposers have no role in any nutrient cycle",
+              "They help break down organic material, returning key elements to the environment for reuse",
+              "Nutrient cycles function without any input from living organisms"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada and the Founding of NATO",
+        "summary": "Grade 7 Social Studies strand: Canada was a founding member of the North Atlantic Treaty Organization in 1949, a military alliance created to provide collective defense among member countries during the early Cold War period.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is NATO?",
+            "options": [
+              "A trade agreement focused only on agricultural goods",
+              "A military alliance created to provide collective defense among member countries",
+              "An organization focused solely on environmental protection",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Was Canada a founding member of NATO?",
+            "options": [
+              "Yes",
+              "Canada has never been a member of NATO",
+              "A concept unrelated to NATO",
+              "No, Canada joined NATO decades after it was founded"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year was NATO founded?",
+            "options": [
+              "1867",
+              "1949",
+              "1999",
+              "1918"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why was NATO created during the early Cold War period?",
+            "options": [
+              "NATO was created purely to promote international trade",
+              "Member countries wanted collective protection against potential threats from the Soviet Union",
+              "A concept unrelated to NATO",
+              "NATO was created with no connection to Cold War tensions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does collective defense mean within an alliance like NATO?",
+            "options": [
+              "Each member must handle every conflict entirely alone",
+              "A concept unrelated to collective defense",
+              "An attack on one member is treated as an attack on all members",
+              "Only the strongest member is responsible for defending the alliance"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "label": "Day 128 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing In Medias Res and Nonlinear Timelines",
+        "summary": "Grade 7 Language strand: in medias res means beginning a story in the middle of the action rather than at the very start, and a nonlinear timeline presents events out of chronological order, requiring readers to piece the story together.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does in medias res mean?",
+            "options": [
+              "A concept unrelated to reading",
+              "Ending a story before any action occurs",
+              "Beginning a story in the middle of the action",
+              "Telling a story in strict chronological order only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a nonlinear timeline in storytelling?",
+            "options": [
+              "A structure where events are presented out of chronological order",
+              "A timeline that only ever moves forward one second at a time",
+              "A concept unrelated to nonlinear timelines",
+              "A structure where every event happens in perfect time order"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose to begin a story in medias res?",
+            "options": [
+              "Every story is required to begin in medias res",
+              "A concept unrelated to reading strategies",
+              "To immediately capture the readers interest with action or tension",
+              "Beginning in the middle of the action always confuses readers with no benefit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What skill do readers often need when following a nonlinear timeline?",
+            "options": [
+              "Reading only the first page of the story",
+              "Piecing together the order of events as the story unfolds",
+              "Ignoring the order of events completely",
+              "A concept unrelated to reading comprehension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a nonlinear structure?",
+            "options": [
+              "A story that begins with the ending, then flashes back to explain how it happened",
+              "A story told in exact chronological order from beginning to end with no flashbacks",
+              "A list of dictionary definitions",
+              "A recipe with numbered steps"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Understanding Depreciation and Asset Value Over Time",
+        "summary": "Grade 7 Math strand: depreciation is the gradual decrease in the value of an asset, such as a car or electronic device, over time due to age, wear, and changing market conditions.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is depreciation?",
+            "options": [
+              "The gradual decrease in the value of an asset over time",
+              "A concept unrelated to financial literacy",
+              "A fixed value that never changes for any asset",
+              "The gradual increase in the value of an asset over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these items is most likely to depreciate in value over time?",
+            "options": [
+              "A concept unrelated to depreciation",
+              "A rare, well-preserved painting",
+              "Land in a rapidly growing city, which often appreciates instead",
+              "A used car"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might cause an electronic device to lose value over time?",
+            "options": [
+              "A concept unrelated to depreciation",
+              "Depreciation only applies to houses, never electronics",
+              "Age, wear, and the release of newer models",
+              "Devices always keep the exact same value forever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a car worth 20,000 dollars depreciates by 10 percent in its first year, what is its approximate value after that year?",
+            "options": [
+              "20,000 dollars",
+              "18,000 dollars",
+              "2,000 dollars",
+              "22,000 dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding depreciation be useful when deciding whether to buy a new or used vehicle?",
+            "options": [
+              "Depreciation has no connection to buying decisions",
+              "Every vehicle depreciates at exactly the same fixed rate",
+              "It helps estimate how much value the vehicle may lose over time",
+              "This concept has no relevance to financial literacy"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physical and Chemical Weathering of Rocks",
+        "summary": "Grade 7 Science strand: physical weathering breaks rock into smaller pieces without changing its chemical makeup, such as through freezing and thawing, while chemical weathering alters the minerals in rock through reactions like oxidation or dissolution.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does physical weathering do to rock?",
+            "options": [
+              "A concept unrelated to earth science",
+              "Turns the rock into a different type of mineral entirely",
+              "Breaks it into smaller pieces without changing its chemical makeup",
+              "Completely dissolves the rock into liquid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one process that causes physical weathering?",
+            "options": [
+              "Sound waves traveling through the air",
+              "Freezing and thawing of water in cracks",
+              "Photosynthesis in nearby plants only",
+              "A concept unrelated to physical weathering"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens during chemical weathering?",
+            "options": [
+              "The rock is broken apart with no chemical change at all",
+              "The minerals in rock are altered through chemical reactions",
+              "Rock instantly transforms into a living organism",
+              "A concept unrelated to chemical weathering"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might iron-rich rocks develop a reddish, rusty appearance over time?",
+            "options": [
+              "Oxidation, a type of chemical weathering, reacts with the iron in the rock",
+              "This concept has no connection to earth science",
+              "Only physical weathering can ever change a rocks appearance",
+              "Rocks never undergo any type of chemical change"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might freezing and thawing be especially effective at breaking apart rock in a crack?",
+            "options": [
+              "Freezing and thawing have no effect on the size of a crack",
+              "Water always shrinks as it freezes, closing cracks completely",
+              "This concept has no relevance to science",
+              "Water expands as it freezes, widening the crack over repeated cycles"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Time Zones and the International Date Line",
+        "summary": "Grade 7 Social Studies strand: time zones divide the world into regions that generally share the same standard time based on longitude, and the International Date Line marks where, by convention, the calendar date changes by a full day.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What do time zones divide the world into?",
+            "options": [
+              "Regions that always share identical weather patterns",
+              "Regions that generally share the same standard time",
+              "A concept unrelated to geography",
+              "Regions based only on population size"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the International Date Line used for?",
+            "options": [
+              "Marking where the calendar date changes by a full day",
+              "Marking the boundary between countries only",
+              "Measuring temperature differences across the globe",
+              "A concept unrelated to time zones"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What geographic measurement are time zones generally based on?",
+            "options": [
+              "A concept unrelated to time zones",
+              "Latitude only, with no connection to longitude",
+              "Altitude above sea level",
+              "Longitude"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do countries or regions sometimes adjust their official time zone boundaries away from a strict longitude line?",
+            "options": [
+              "Longitude has no relationship to time zones at all",
+              "To keep areas with close economic or political ties on the same time for convenience",
+              "This concept has no connection to geography",
+              "Time zone boundaries can never be adjusted for any reason"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding time zones be important for international communication and travel?",
+            "options": [
+              "Time zones have no effect on communication or travel planning",
+              "It helps people coordinate schedules and avoid confusion across different regions",
+              "Every location in the world shares the exact same time",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "label": "Day 129 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Diary Entry from a Historical Perspective",
+        "summary": "Grade 7 Language strand: a historical diary entry imagines the voice and perspective of a person living through a past event, using accurate details and a personal tone to help readers connect emotionally with history.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a historical diary entry imagine?",
+            "options": [
+              "The voice and perspective of a person living through a past event",
+              "A completely fictional world with no connection to history",
+              "A formal news report with no personal perspective",
+              "A concept unrelated to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is accurate historical detail important in this type of writing?",
+            "options": [
+              "A concept unrelated to historical diary entries",
+              "It helps the diary entry feel authentic to the time period being described",
+              "Accuracy is never important in creative writing",
+              "Historical details should always be avoided completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What tone does a diary entry typically use?",
+            "options": [
+              "A concept unrelated to tone in writing",
+              "An entirely objective tone with no perspective at all",
+              "A personal, reflective tone",
+              "A strictly formal, businesslike tone with no emotion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might writing a diary entry from a historical perspective help readers understand a past event more deeply?",
+            "options": [
+              "Diary entries never help readers understand historical events",
+              "Historical events are always better understood only through statistics",
+              "It connects readers emotionally by showing history through an individual persons experience",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which opening sounds most like a historical diary entry?",
+            "options": [
+              "Today, the ship finally docked after weeks at sea, and I can hardly believe what I have seen.",
+              "Please find attached the quarterly financial report.",
+              "Add 15 and 20 to get 35.",
+              "The chemical symbol for gold is Au."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: The Midpoint of a Line Segment on the Cartesian Plane",
+        "summary": "Grade 7 Math strand: the midpoint of a line segment is the point exactly halfway between its two endpoints, and it can be found on the Cartesian plane by averaging the x-coordinates and averaging the y-coordinates of the endpoints.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is the midpoint of a line segment?",
+            "options": [
+              "The point at one of the two endpoints",
+              "The point exactly halfway between its two endpoints",
+              "A concept unrelated to geometry",
+              "The longest possible point along the segment"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the midpoint of a segment found on the Cartesian plane?",
+            "options": [
+              "By multiplying the two endpoints together",
+              "A concept unrelated to midpoints",
+              "By averaging the x-coordinates and averaging the y-coordinates of the endpoints",
+              "By adding the x-coordinates together with no division"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the midpoint of a segment with endpoints at (2, 4) and (6, 8)?",
+            "options": [
+              "(4, 6)",
+              "(2, 4)",
+              "(6, 8)",
+              "(8, 12)"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might finding a midpoint be useful when working with maps or coordinate-based problems?",
+            "options": [
+              "Midpoints have no practical use on the Cartesian plane",
+              "It can help locate a central point between two known locations",
+              "A concept unrelated to geometry",
+              "A midpoint can only be found using a physical ruler, never coordinates"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If one endpoint of a segment is (0, 0) and the midpoint is (3, 5), what is the other endpoint?",
+            "options": [
+              "(0, 0)",
+              "(1.5, 2.5)",
+              "(6, 10)",
+              "(3, 5)"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "3D Printing and Additive Manufacturing",
+        "summary": "Grade 7 Science strand: 3D printing, also called additive manufacturing, builds objects layer by layer from a digital design, allowing complex shapes to be created that would be difficult or impossible to make using traditional manufacturing methods.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is another name for 3D printing?",
+            "options": [
+              "Traditional casting",
+              "A concept unrelated to technology",
+              "Subtractive manufacturing",
+              "Additive manufacturing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a 3D printer typically build an object?",
+            "options": [
+              "A concept unrelated to 3D printing",
+              "By carving material away from a solid block",
+              "By melting an entire object into a single mold instantly",
+              "Layer by layer from a digital design"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one advantage of 3D printing over some traditional manufacturing methods?",
+            "options": [
+              "A concept unrelated to 3D printing",
+              "It can create complex shapes that would be difficult to make otherwise",
+              "It can only ever create simple cube shapes",
+              "It always requires more raw material than traditional methods"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might engineers use 3D printing to create a prototype before mass-producing a product?",
+            "options": [
+              "This concept has no connection to technology",
+              "Mass production always happens before any prototype is made",
+              "It allows a design to be tested and adjusted quickly and at lower cost",
+              "Prototypes can never be created using 3D printing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these fields has benefited from advances in 3D printing technology?",
+            "options": [
+              "Medicine, through custom prosthetics and models",
+              "Fields that have no use for manufactured objects",
+              "Only the food service industry, with no other applications",
+              "A concept unrelated to 3D printing"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Urban Heat Islands and City Climate Patterns",
+        "summary": "Grade 7 Social Studies strand: an urban heat island forms when cities, with their concentration of pavement and buildings, absorb and retain more heat than surrounding rural areas, creating noticeably warmer local temperatures.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is an urban heat island?",
+            "options": [
+              "A rural area that is always colder than any nearby city",
+              "An island located entirely within a citys harbour",
+              "A concept unrelated to geography",
+              "An area where a city is noticeably warmer than surrounding rural areas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do cities often become warmer than surrounding rural areas?",
+            "options": [
+              "A concept unrelated to urban heat islands",
+              "Cities receive less sunlight than rural areas",
+              "Cities always contain more trees and green space than rural areas",
+              "Pavement and buildings absorb and retain more heat than natural landscapes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which surface would likely contribute most to an urban heat island effect?",
+            "options": [
+              "Dark asphalt pavement",
+              "A concept unrelated to heat retention",
+              "A forest with dense tree cover",
+              "A large grassy field"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might city planners add green spaces or reflective roofing to reduce the urban heat island effect?",
+            "options": [
+              "Urban heat islands cannot be reduced by any planning decisions",
+              "Green spaces and reflective roofing always increase citywide temperatures",
+              "These features can help lower how much heat a city absorbs and retains",
+              "This concept has no connection to social studies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding urban heat islands important for city planning and public health?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Urban temperature has no connection to public health or energy use",
+              "Cities are always exactly the same temperature as nearby rural areas",
+              "Higher urban temperatures can affect energy use, comfort, and heat-related health risks"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "label": "Day 130 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Vocabulary, Reading, and Writing",
+        "summary": "Grade 7 Language strand review: students revisit subject-verb agreement with collective nouns, eponyms, dramatic irony, evaluating deepfakes, oxymorons, and writing a historical diary entry.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a collective noun?",
+            "options": [
+              "A noun that always describes a single person",
+              "A punctuation mark used to join clauses",
+              "A verb describing group action",
+              "A noun that names a group treated as a single unit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an eponym?",
+            "options": [
+              "A word created from the name of a real or fictional person",
+              "A concept unrelated to vocabulary",
+              "A word borrowed directly from a sound",
+              "A word that has no origin at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is dramatic irony?",
+            "options": [
+              "When the audience knows something a character does not",
+              "When a character explains every detail directly to the audience",
+              "A concept unrelated to reading",
+              "When two characters share identical knowledge at all times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a deepfake?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "AI-generated media that convincingly but falsely depicts a real person",
+              "A completely unedited video with no digital changes",
+              "A type of printed newspaper article"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an oxymoron?",
+            "options": [
+              "A phrase that combines two contradictory terms",
+              "A concept unrelated to vocabulary",
+              "A word that means the exact same thing twice",
+              "A phrase with only one possible meaning"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Probability, Measurement, Data, and Geometry",
+        "summary": "Grade 7 Math strand review: students revisit conditional probability, converting imperial and metric units, range and interquartile range, volume by water displacement, and the midpoint formula.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does conditional probability measure?",
+            "options": [
+              "A concept unrelated to probability",
+              "The probability of two events that are always identical",
+              "The probability of an event given that another event has already occurred",
+              "The probability of an event that can never happen"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which system uses units like inches, feet, and pounds?",
+            "options": [
+              "The metric system",
+              "The imperial system",
+              "Neither system uses these units",
+              "A concept unrelated to measurement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the range of a data set calculated?",
+            "options": [
+              "Adding every value together",
+              "Multiplying the highest and lowest values",
+              "A concept unrelated to data management",
+              "Subtracting the lowest value from the highest value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What method can be used to find the volume of an irregular solid?",
+            "options": [
+              "Multiplying its length, width, and height only",
+              "Weighing the object on a scale only",
+              "A concept unrelated to geometry",
+              "Water displacement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is the midpoint of a segment found on the Cartesian plane?",
+            "options": [
+              "By multiplying the two endpoints together",
+              "By adding the x-coordinates together with no division",
+              "A concept unrelated to midpoints",
+              "By averaging the x-coordinates and averaging the y-coordinates of the endpoints"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Chemistry, Earth Science, Biology, and Technology",
+        "summary": "Grade 7 Science strand review: students revisit solutions and solubility, glaciers, blood composition, how vaccines work, and 3D printing and additive manufacturing.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a solution?",
+            "options": [
+              "A solid that cannot be broken down further",
+              "A concept unrelated to science",
+              "A mixture formed when one substance dissolves evenly into another",
+              "A substance that never mixes with any other substance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a glacier?",
+            "options": [
+              "A massive, slow-moving body of ice",
+              "A type of underground cave system",
+              "A fast-flowing river of warm water",
+              "A concept unrelated to earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the main components of blood?",
+            "options": [
+              "A concept unrelated to biology",
+              "Only water and salt",
+              "Only bone and muscle tissue",
+              "Plasma, red blood cells, white blood cells, and platelets"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a vaccine typically introduce into the body?",
+            "options": [
+              "A weakened, inactivated, or partial form of a pathogen",
+              "A concept unrelated to science",
+              "A fully active, dangerous version of a disease with no changes",
+              "A random substance with no connection to disease"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is another name for 3D printing?",
+            "options": [
+              "Traditional casting",
+              "Subtractive manufacturing",
+              "A concept unrelated to technology",
+              "Additive manufacturing"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Nation-Building and Global Institutions",
+        "summary": "Grade 7 Social Studies strand review: students revisit the United Empire Loyalists, the Rebellions of 1837, the Meech Lake and Charlottetown Accords, the Group of Seven, the Bank of Canada, and the founding of NATO.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Who were the United Empire Loyalists?",
+            "options": [
+              "Colonists who remained loyal to Britain during the American Revolution",
+              "A concept unrelated to Canadian history",
+              "A group of French explorers who settled Quebec",
+              "Colonists who fought for American independence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happened during the Rebellions of 1837?",
+            "options": [
+              "A new national holiday was created",
+              "Reformers in Upper and Lower Canada rebelled against colonial governments",
+              "A trade agreement was signed between Canada and Britain",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What were the Meech Lake and Charlottetown Accords attempting to do?",
+            "options": [
+              "Amend the Canadian constitution and address Quebecs demands for recognition",
+              "A concept unrelated to Canadian history",
+              "Create a new national anthem for Canada",
+              "Establish a new trade agreement with the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Group of Seven?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "A collective of Canadian landscape painters active in the early 20th century",
+              "A sports team representing Canada internationally",
+              "A group of Canadian prime ministers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is NATO?",
+            "options": [
+              "A trade agreement focused only on agricultural goods",
+              "A concept unrelated to Canadian history",
+              "An organization focused solely on environmental protection",
+              "A military alliance created to provide collective defense among member countries"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
