@@ -8619,6 +8619,7 @@
         "summary": "Grade 10 English strand: a literary review evaluates a text’s strengths and weaknesses, offering a critical assessment supported by specific evidence and an overall judgment of its quality or significance.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=4abnt_Gcx0U",
         "quiz": [
           {
             "q": "A literary review offers ___.",
@@ -8678,6 +8679,7 @@
         "summary": "Grade 10 Measurement strand: three-dimensional optimization problems involve finding the dimensions that maximize or minimize a measurement, such as volume or surface area, often subject to given constraints.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=xOQKS7Xsorc",
         "quiz": [
           {
             "q": "A 3D optimization problem might involve finding dimensions that maximize ___.",
@@ -8737,6 +8739,7 @@
         "summary": "Grade 10 Physics strand: thermodynamics studies heat and energy transfer, including the concept of entropy, which describes the tendency of energy to spread out and become more disordered over time.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=DWiCaDPM7Hk",
         "quiz": [
           {
             "q": "Thermodynamics primarily studies ___.",
@@ -8796,6 +8799,7 @@
         "summary": "Grade 10 History strand: the residential school system caused significant harm to Indigenous children and communities across Canada, and the Truth and Reconciliation Commission was established to document this history and guide efforts toward healing.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=VFgNI1lfe0A",
         "quiz": [
           {
             "q": "The residential school system in Canada caused significant harm to ___.",

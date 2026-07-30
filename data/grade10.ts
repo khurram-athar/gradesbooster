@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"English", title:"Writing: The Literary Review", summary:"Grade 10 English strand: a literary review evaluates a text’s strengths and weaknesses, offering a critical assessment supported by specific evidence and an overall judgment of its quality or significance.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=4abnt_Gcx0U",
    quiz:[
      {q:"A literary review offers ___.", options:["Only a plot summary with no evaluation","A critical assessment of a text’s strengths and weaknesses","A completely unrelated topic","An assessment with no connection to the actual text"], answer:1},
      {q:"Why should a literary review include specific evidence from the text?", options:["Evidence is unnecessary in a literary review","A review should never reference the actual text","It supports the reviewer’s evaluation with concrete examples","Evidence always weakens a critical evaluation"], answer:2},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Optimization Problems in Three Dimensions", summary:"Grade 10 Measurement strand: three-dimensional optimization problems involve finding the dimensions that maximize or minimize a measurement, such as volume or surface area, often subject to given constraints.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=xOQKS7Xsorc",
    quiz:[
      {q:"A 3D optimization problem might involve finding dimensions that maximize ___.", options:["Volume, subject to a given constraint","A completely random, unrelated value","Only colour, with no connection to measurement","Nothing measurable at all"], answer:0},
      {q:"Why might a company want to minimize the surface area of packaging while maintaining a fixed volume?", options:["Minimizing surface area always increases the volume needed","Minimizing surface area can reduce material costs while still holding the required amount of product","This type of optimization has no real-world application","Surface area has no connection to packaging material costs"], answer:1},
@@ -1492,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Thermodynamics -- Heat Transfer and Entropy", summary:"Grade 10 Physics strand: thermodynamics studies heat and energy transfer, including the concept of entropy, which describes the tendency of energy to spread out and become more disordered over time.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=DWiCaDPM7Hk",
    quiz:[
      {q:"Thermodynamics primarily studies ___.", options:["Only light, with no connection to thermal energy","A field unrelated to energy","Heat and energy transfer","Only sound waves, with no connection to heat"], answer:2},
      {q:"Entropy describes ___.", options:["A process where energy always becomes more concentrated over time","A concept unrelated to energy or disorder","The tendency of energy to spread out and become more disordered","The complete absence of any energy transfer"], answer:2},
@@ -1501,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Residential Schools and the Truth and Reconciliation Commission", summary:"Grade 10 History strand: the residential school system caused significant harm to Indigenous children and communities across Canada, and the Truth and Reconciliation Commission was established to document this history and guide efforts toward healing.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=VFgNI1lfe0A",
    quiz:[
      {q:"The residential school system in Canada caused significant harm to ___.", options:["A group entirely unrelated to Canadian history","Indigenous children and communities","Only adults, with no effect on children","No specific group of people"], answer:1},
      {q:"The Truth and Reconciliation Commission was established to ___.", options:["Erase historical records completely","Ignore the experiences of residential school survivors","Document the history of residential schools and guide efforts toward healing","Prevent any future discussion of this history"], answer:2},
