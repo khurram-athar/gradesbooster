@@ -6522,6 +6522,586 @@ const curriculum: DayContent[] = [
      {prompt:"Why should we be kind to animals?", answers:["they have needs and feelings","to keep them safe"]}
    ]},
 ]},
+{day:121, label:"Day 121 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -ip Words", summary:"Kindergarten Language strand: the -ip word family shares the same ending sound, as in dip, hip, rip, and zip.",
+   resourceLabel:"YouTube: Word Families: -ip Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ip%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ip family?", options:["Zip","Cat","Bag","Sun"], answer:0},
+     {q:"Which word rhymes with lip?", options:["Log","Rip","Lap","Lot"], answer:1},
+     {q:"Which word does NOT belong to the -ip family?", options:["Hip","Run","Dip","Rip"], answer:1},
+     {q:"Complete the rhyme: The boat began to ___.", options:["ten","tip","tap","top"], answer:1},
+     {q:"Words in the same word family share the same ___.", options:["Colour","Meaning","First letter","Ending sound"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with hip.", answers:["dip","rip","zip","lip"]},
+     {prompt:"What ending sound do dip and rip share?", answers:["ip","the ip sound"]},
+     {prompt:"Is tip part of the -ip family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"3D Shapes: Cone and Pyramid", summary:"Kindergarten Math strand: students identify two new solid shapes, the cone, which has a round base and a point, and the pyramid, which has flat triangular sides meeting at a point.",
+   resourceLabel:"YouTube: 3D Shapes: Cone and Pyramid", resourceUrl:"https://www.youtube.com/results?search_query=3D%20Shapes%3A%20Cone%20and%20Pyramid%20kindergarten%20educational",
+   quiz:[
+     {q:"Which real object is shaped like a cone?", options:["A ball","A box","A can","An ice cream cone"], answer:3},
+     {q:"A cone has a round base and comes to a ___.", options:["Square edge","Point","Flat top","Curve only"], answer:1},
+     {q:"Which shape has flat triangular sides that meet at a point?", options:["Pyramid","Sphere","Cube","Cylinder"], answer:0},
+     {q:"Which object looks like a pyramid?", options:["An Egyptian pyramid","A shoebox","A soccer ball","A soup can"], answer:0},
+     {q:"How many points does a cone have?", options:["4","2","1","0"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name something shaped like a cone.", answers:["an ice cream cone","a party hat"]},
+     {prompt:"How many points does a cone have?", answers:["1","one"]},
+     {prompt:"Name something shaped like a pyramid.", answers:["a pyramid in Egypt","a tent"]}
+   ]},
+  {subject:"Science", title:"The Solar System: The Sun and Planets", summary:"Kindergarten Science strand: the solar system is made up of the Sun at the centre and planets, including Earth, that travel around it.",
+   resourceLabel:"YouTube: The Solar System: The Sun and Planets", resourceUrl:"https://www.youtube.com/results?search_query=The%20Solar%20System%3A%20The%20Sun%20and%20Planets%20kindergarten%20educational",
+   quiz:[
+     {q:"What is at the centre of our solar system?", options:["Earth","A star far away","The Sun","The Moon"], answer:2},
+     {q:"What is the name of the planet we live on?", options:["Venus","Mars","Jupiter","Earth"], answer:3},
+     {q:"Planets travel around the Sun in a path called an ___.", options:["Island","Orbit","Ocean","Eclipse"], answer:1},
+     {q:"The solar system includes the Sun and ___.", options:["Only the Moon","Only clouds","Only oceans","Planets that travel around it"], answer:3},
+     {q:"Which of these is part of our solar system?", options:["A forest","A city","Earth","A river"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is at the centre of our solar system?", answers:["the Sun","Sun"]},
+     {prompt:"Name the planet we live on.", answers:["Earth"]},
+     {prompt:"Do planets move around the Sun?", answers:["yes","yes they orbit it"]}
+   ]},
+  {subject:"SocialStudies", title:"Terry Fox: A Canadian Hero", summary:"Kindergarten Social Studies strand: Terry Fox was a brave Canadian who ran across much of Canada to raise money for cancer research, inspiring people every year.",
+   resourceLabel:"YouTube: Terry Fox: A Canadian Hero", resourceUrl:"https://www.youtube.com/results?search_query=Terry%20Fox%3A%20A%20Canadian%20Hero%20kindergarten%20educational",
+   quiz:[
+     {q:"What is Terry Fox best known for?", options:["Leading the government","Building bridges","Flying airplanes","Running across Canada to raise money for cancer research"], answer:3},
+     {q:"Why did Terry Fox run across Canada?", options:["To sell food","To visit family","For fun only","To raise money for cancer research"], answer:3},
+     {q:"What do many schools do every year in honour of Terry Fox?", options:["Ignore the day","Close for a month","Hold a Terry Fox run or walk","Nothing at all"], answer:2},
+     {q:"Terry Fox is remembered as a Canadian ___.", options:["Athlete only for fun","Stranger","Hero","Villain"], answer:2},
+     {q:"What quality did Terry Fox show by running despite being unwell?", options:["Laziness","Carelessness","Unkindness","Bravery"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What did Terry Fox do to raise money?", answers:["ran across Canada","ran a marathon"]},
+     {prompt:"What was Terry Fox trying to help find a cure for?", answers:["cancer","cancer research"]},
+     {prompt:"Why do people remember Terry Fox every year?", answers:["he was brave and inspiring","his courage"]}
+   ]},
+]},
+{day:122, label:"Day 122 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -op Words", summary:"Kindergarten Language strand: the -op word family shares the same ending sound, as in hop, mop, pop, and top.",
+   resourceLabel:"YouTube: Word Families: -op Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-op%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -op family?", options:["Bed","Run","Top","Sit"], answer:2},
+     {q:"Which word rhymes with pop?", options:["Pig","Pin","Hop","Pen"], answer:2},
+     {q:"Which word does NOT belong to the -op family?", options:["Pop","Pig","Hop","Mop"], answer:1},
+     {q:"Complete the rhyme: The bunny likes to ___.", options:["hat","hop","hen","hid"], answer:1},
+     {q:"Learning word families helps us read new words by ___.", options:["Guessing randomly","Skipping them","Ignoring letters","Spotting the shared pattern"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with hop.", answers:["mop","pop","top","stop"]},
+     {prompt:"What ending sound do mop and top share?", answers:["op","the op sound"]},
+     {prompt:"Is chop part of the -op family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Counting to 120: Beyond 100", summary:"Kindergarten Math strand: students extend counting past 100, learning that after 100 comes 101, 102, and continuing up to 120.",
+   resourceLabel:"YouTube: Counting to 120: Beyond 100", resourceUrl:"https://www.youtube.com/results?search_query=Counting%20to%20120%3A%20Beyond%20100%20kindergarten%20educational",
+   quiz:[
+     {q:"What number comes right after 100?", options:["101","99","110","100"], answer:0},
+     {q:"What number comes right after 119?", options:["118","120","100","121"], answer:1},
+     {q:"Which number is greater than 100?", options:["80","99","105","95"], answer:2},
+     {q:"What number comes right before 110?", options:["108","109","100","111"], answer:1},
+     {q:"Counting past 100 continues in the same way as ___.", options:["Backwards counting","Skip counting only","A totally new pattern","Counting past 10"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 100?", answers:["101","one hundred one"]},
+     {prompt:"What number comes right after 109?", answers:["110","one hundred ten"]},
+     {prompt:"Count from 117 to 120.", answers:["117,118,119,120","117 118 119 120"]}
+   ]},
+  {subject:"Science", title:"Stars: Twinkling Lights in the Night Sky", summary:"Kindergarten Science strand: stars are giant balls of hot glowing gas that we see twinkling as tiny points of light in the night sky.",
+   resourceLabel:"YouTube: Stars: Twinkling Lights in the Night Sky", resourceUrl:"https://www.youtube.com/results?search_query=Stars%3A%20Twinkling%20Lights%20in%20the%20Night%20Sky%20kindergarten%20educational",
+   quiz:[
+     {q:"When do we usually see stars in the sky?", options:["Only in winter","Never","At night","During the day"], answer:2},
+     {q:"Stars are giant balls of hot glowing ___.", options:["Ice","Rock","Water","Gas"], answer:3},
+     {q:"Why do stars look tiny from Earth?", options:["They are hiding","They are very far away","They are not real","They are actually tiny"], answer:1},
+     {q:"What is the closest star to Earth?", options:["The Sun","A comet","A planet","The Moon"], answer:0},
+     {q:"Stars appear to ___ in the night sky.", options:["Bounce","Sing","Twinkle","Melt"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"When can we usually see stars?", answers:["at night","nighttime"]},
+     {prompt:"What are stars made of?", answers:["hot glowing gas","burning gas"]},
+     {prompt:"Do stars look big or small from Earth?", answers:["small","tiny points of light"]}
+   ]},
+  {subject:"SocialStudies", title:"Canada Day: Celebrating Our Country", summary:"Kindergarten Social Studies strand: Canada Day is a special holiday on July 1st when people celebrate our country with parades, fireworks, and the colours red and white.",
+   resourceLabel:"YouTube: Canada Day: Celebrating Our Country", resourceUrl:"https://www.youtube.com/results?search_query=Canada%20Day%3A%20Celebrating%20Our%20Country%20kindergarten%20educational",
+   quiz:[
+     {q:"On what date is Canada Day celebrated?", options:["July 1st","October 31st","December 25th","January 1st"], answer:0},
+     {q:"What does Canada Day celebrate?", options:["Nothing special","A single city","Our country, Canada","A different country"], answer:2},
+     {q:"Which colours are often worn on Canada Day?", options:["Blue and yellow","Red and white","Green and orange","Purple and black"], answer:1},
+     {q:"Which is a common way to celebrate Canada Day?", options:["Shovelling snow","Staying inside all day","Raking leaves","Watching fireworks"], answer:3},
+     {q:"Canada Day helps people show ___ for their country.", options:["Fear","Anger","Boredom","Pride and celebration"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What date is Canada Day celebrated on?", answers:["July 1st","July 1"]},
+     {prompt:"Name one way people celebrate Canada Day.", answers:["fireworks","parades"]},
+     {prompt:"What colours are often seen on Canada Day?", answers:["red and white","red and white like the flag"]}
+   ]},
+]},
+{day:123, label:"Day 123 — Wed", subjects:[
+  {subject:"Language", title:"Synonyms: Words That Mean the Same", summary:"Kindergarten Language strand: synonyms are different words that mean almost the same thing, such as happy and glad, or big and large.",
+   resourceLabel:"YouTube: Synonyms: Words That Mean the Same", resourceUrl:"https://www.youtube.com/results?search_query=Synonyms%3A%20Words%20That%20Mean%20the%20Same%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word means the same as happy?", options:["Sad","Glad","Tired","Angry"], answer:1},
+     {q:"Which word means the same as big?", options:["Thin","Tiny","Short","Large"], answer:3},
+     {q:"Words that mean almost the same thing are called ___.", options:["Opposites","Nouns","Synonyms","Verbs"], answer:2},
+     {q:"Which pair of words are synonyms?", options:["Hot and cold","Fast and quick","Up and down","Day and night"], answer:1},
+     {q:"Which word means the same as small?", options:["Wide","Little","Giant","Tall"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Give a word that means the same as happy.", answers:["glad","joyful"]},
+     {prompt:"Give a word that means the same as big.", answers:["large","huge"]},
+     {prompt:"What do we call words that mean almost the same thing?", answers:["synonyms","synonym"]}
+   ]},
+  {subject:"Math", title:"Time: Reading a Clock to the Quarter Hour", summary:"Kindergarten Math strand: students read a clock to the quarter hour, recognizing when the minute hand points to the 3 for quarter past.",
+   resourceLabel:"YouTube: Time: Reading a Clock to the Quarter Hour", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Clock%20to%20the%20Quarter%20Hour%20kindergarten%20educational",
+   quiz:[
+     {q:"When the minute hand points to the 3, it is ___ minutes past the hour.", options:["30","10","5","15"], answer:3},
+     {q:"What do we call 15 minutes past the hour?", options:["Half past","Quarter past","Quarter to","A full hour"], answer:1},
+     {q:"If it is quarter past 4, what time does the clock show?", options:["4:30","4:45","4:15","4:00"], answer:2},
+     {q:"The minute hand pointing at the 3 means the clock shows a ___.", options:["Half hour","Full hour","Quarter hour","Second"], answer:2},
+     {q:"Quarter past an hour is how many minutes after that hour?", options:["20 minutes","10 minutes","30 minutes","15 minutes"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"When the minute hand points to the 3, how many minutes past the hour is it?", answers:["15","fifteen"]},
+     {prompt:"What do we call 15 minutes past the hour?", answers:["quarter past","a quarter past"]},
+     {prompt:"If it is quarter past 2, what time is that?", answers:["2:15","two fifteen"]}
+   ]},
+  {subject:"Science", title:"Reptiles: Scaly Animals That Bask in the Sun", summary:"Kindergarten Science strand: reptiles, such as snakes, lizards, and turtles, have dry scaly skin and often bask in the sun to stay warm.",
+   resourceLabel:"YouTube: Reptiles: Scaly Animals That Bask in the Sun", resourceUrl:"https://www.youtube.com/results?search_query=Reptiles%3A%20Scaly%20Animals%20That%20Bask%20in%20the%20Sun%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is a reptile?", options:["Snake","Fish","Bird","Frog"], answer:0},
+     {q:"What covers the skin of a reptile?", options:["Feathers","Scales","Fur","Slime"], answer:1},
+     {q:"Why do reptiles often bask in the sun?", options:["To cool down","To stay warm","To hide","To sleep forever"], answer:1},
+     {q:"Which animal is NOT a reptile?", options:["Lizard","Turtle","Rabbit","Snake"], answer:2},
+     {q:"Reptile skin is usually ___.", options:["Dry and scaly","Wet and slimy","Covered in fur","Covered in feathers"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one kind of reptile.", answers:["snake","lizard","turtle"]},
+     {prompt:"What covers a reptiles skin?", answers:["scales","dry scales"]},
+     {prompt:"Why do reptiles bask in the sun?", answers:["to stay warm","to warm up"]}
+   ]},
+  {subject:"SocialStudies", title:"First Nations, Metis, and Inuit: Peoples of Canada", summary:"Kindergarten Social Studies strand: First Nations, Metis, and Inuit peoples are the Indigenous peoples of Canada, each with their own rich histories and traditions.",
+   resourceLabel:"YouTube: First Nations, Metis, and Inuit: Peoples of Canada", resourceUrl:"https://www.youtube.com/results?search_query=First%20Nations%2C%20Metis%2C%20and%20Inuit%3A%20Peoples%20of%20Canada%20kindergarten%20educational",
+   quiz:[
+     {q:"Which are the three main groups of Indigenous peoples in Canada?", options:["Kings, queens, and princes","Farmers, teachers, and doctors","North, South, and East","First Nations, Metis, and Inuit"], answer:3},
+     {q:"How long have Indigenous peoples lived on this land?", options:["They have not lived here","A few years","Since last year","A very long time"], answer:3},
+     {q:"Why is it important to learn about First Nations, Metis, and Inuit peoples?", options:["To respect their histories and cultures","To ignore their stories","It is not important","Only for one day a year"], answer:0},
+     {q:"Each Indigenous group in Canada has its own ___.", options:["The same language everywhere","Identical culture","Unique traditions and history","No traditions at all"], answer:2},
+     {q:"Learning about Indigenous peoples helps students understand ___.", options:["Nothing new","A made-up story","An important part of Canadas story","Only modern Canada"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one Indigenous group in Canada.", answers:["First Nations","Metis","Inuit"]},
+     {prompt:"Have Indigenous peoples lived in Canada for a long time?", answers:["yes","yes a very long time"]},
+     {prompt:"Why is it important to learn about Indigenous peoples?", answers:["to respect their history and cultures","learn about Canada"]}
+   ]},
+]},
+{day:124, label:"Day 124 — Thu", subjects:[
+  {subject:"Language", title:"Prefixes: Adding Un- to Change Meaning", summary:"Kindergarten Language strand: adding the prefix un- to the start of a word can change its meaning to the opposite, such as changing happy to unhappy.",
+   resourceLabel:"YouTube: Prefixes: Adding Un- to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Un-%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call letters added to the beginning of a word?", options:["A pronoun","A vowel team","A prefix","A suffix"], answer:2},
+     {q:"What does adding un- to the word happy create?", options:["Happier","Happiness","Unhappy","Happily"], answer:2},
+     {q:"What does the word unfair mean?", options:["A kind of game","More fair","Not fair","Very fair"], answer:2},
+     {q:"Adding un- to a word usually gives it the ___ meaning.", options:["Longer","Opposite","Same","Louder"], answer:1},
+     {q:"Which word means the opposite of kind, using un-?", options:["Kindly","Kinder","Unkind","Kindness"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does adding un- to happy make?", answers:["unhappy","it makes unhappy"]},
+     {prompt:"What does unhappy mean?", answers:["not happy","the opposite of happy"]},
+     {prompt:"What is a prefix?", answers:["letters added to the start of a word","word part at the beginning"]}
+   ]},
+  {subject:"Math", title:"Skip Counting by 3s to 30", summary:"Kindergarten Math strand: students skip count by 3s, saying 3, 6, 9, 12, and continuing on up to 30.",
+   resourceLabel:"YouTube: Skip Counting by 3s to 30", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%203s%20to%2030%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next: 3, 6, 9, ___?", options:["13","11","12","10"], answer:2},
+     {q:"What comes next: 12, 15, 18, ___?", options:["22","20","19","21"], answer:3},
+     {q:"When skip counting by 3s, what number comes after 21?", options:["23","22","24","25"], answer:2},
+     {q:"Skip counting by 3s means we add ___ each time.", options:["3","5","2","1"], answer:0},
+     {q:"Which list correctly skip counts by 3s?", options:["3, 4, 5, 6","3, 6, 10, 13","3, 6, 9, 12","3, 5, 7, 9"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 3, 6, 9?", answers:["12","twelve"]},
+     {prompt:"Skip count by 3s from 3 to 15.", answers:["3,6,9,12,15","3 6 9 12 15"]},
+     {prompt:"What number comes right before 30 when skip counting by 3s?", answers:["27","twenty seven"]}
+   ]},
+  {subject:"Science", title:"Amphibians: Living on Land and in Water", summary:"Kindergarten Science strand: amphibians, such as frogs and salamanders, can live both on land and in water and often start life swimming.",
+   resourceLabel:"YouTube: Amphibians: Living on Land and in Water", resourceUrl:"https://www.youtube.com/results?search_query=Amphibians%3A%20Living%20on%20Land%20and%20in%20Water%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is an amphibian?", options:["Cow","Eagle","Frog","Snake"], answer:2},
+     {q:"Amphibians can live in ___.", options:["Both land and water","Only water","Only air","Only land"], answer:0},
+     {q:"What do many baby amphibians do before becoming adults?", options:["Live in trees","Swim in water","Fly","Hibernate immediately"], answer:1},
+     {q:"Which is an example of an amphibian besides a frog?", options:["Salamander","Snake","Turtle","Lizard"], answer:0},
+     {q:"Amphibians usually have skin that is ___.", options:["Covered in feathers","Dry and scaly","Covered in fur","Moist"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one kind of amphibian.", answers:["frog","salamander","toad"]},
+     {prompt:"Where can amphibians live?", answers:["land and water","both land and water"]},
+     {prompt:"What do many baby amphibians do first?", answers:["swim","live in water"]}
+   ]},
+  {subject:"SocialStudies", title:"Our School Principal: Leading Our School", summary:"Kindergarten Social Studies strand: the school principal is a leader who helps keep the whole school safe, organized, and running smoothly every day.",
+   resourceLabel:"YouTube: Our School Principal: Leading Our School", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Principal%3A%20Leading%20Our%20School%20kindergarten%20educational",
+   quiz:[
+     {q:"Who is the leader of a school?", options:["The principal","The bus driver","A visitor","A student"], answer:0},
+     {q:"Which is a job of the school principal?", options:["Keeping the school safe and organized","Selling groceries","Driving the bus","Delivering mail"], answer:0},
+     {q:"Why might a student visit the principals office?", options:["For help with a problem or an announcement","To catch a bus","To swim","To buy food"], answer:0},
+     {q:"The principal helps the whole ___ run smoothly.", options:["Hospital","School","Grocery store","Airport"], answer:1},
+     {q:"A good school leader treats everyone with ___.", options:["Confusion","Unkindness","Silence","Respect and fairness"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Who is the leader of a school?", answers:["the principal","school principal"]},
+     {prompt:"Name one job of a principal.", answers:["keep the school safe","help teachers and students"]},
+     {prompt:"Why is a principal important to a school community?", answers:["helps everything run smoothly","leads the school"]}
+   ]},
+]},
+{day:125, label:"Day 125 — Fri", subjects:[
+  {subject:"Language", title:"Story Comparison: How Two Stories Are Alike and Different", summary:"Kindergarten Language strand: students compare two stories to notice ways the characters, settings, or events are alike and ways they are different.",
+   resourceLabel:"YouTube: Story Comparison: How Two Stories Are Alike and Different", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Comparison%3A%20How%20Two%20Stories%20Are%20Alike%20and%20Different%20kindergarten%20educational",
+   quiz:[
+     {q:"When we compare two stories, we look for ways they are ___.", options:["Loud and quiet","Long and short only","Alike and different","Colourful"], answer:2},
+     {q:"Which is something we could compare between two stories?", options:["The characters","The weather outside","Todays date","The classroom colour"], answer:0},
+     {q:"If both stories have a brave character, that is an example of a ___.", options:["Title","Similarity","Setting","Difference"], answer:1},
+     {q:"If one story happens in a forest and another in a city, that is a ___.", options:["Prefix","Similarity","Rhyme","Difference"], answer:3},
+     {q:"Comparing two stories helps readers ___.", options:["Avoid reading","Skip the pictures","Forget both stories","Think more deeply about each one"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name two stories you know well.", answers:["any two familiar stories"]},
+     {prompt:"Give one way two stories can be alike.", answers:["same kind of character","similar setting"]},
+     {prompt:"Give one way two stories can be different.", answers:["different ending","different setting"]}
+   ]},
+  {subject:"Math", title:"Fractions: Equal and Unequal Parts", summary:"Kindergarten Math strand: students look at shapes cut into pieces to decide whether the parts are equal in size or unequal in size.",
+   resourceLabel:"YouTube: Fractions: Equal and Unequal Parts", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Equal%20and%20Unequal%20Parts%20kindergarten%20educational",
+   quiz:[
+     {q:"If a shape is cut into two same-size pieces, the parts are ___.", options:["Too many","Unequal","Missing","Equal"], answer:3},
+     {q:"If one piece is much bigger than the other, the parts are ___.", options:["Unequal","Whole","The same","Equal"], answer:0},
+     {q:"Why is it important for shared pieces to be equal?", options:["It does not matter","So pieces disappear","So everyone gets a fair amount","So one person gets more"], answer:2},
+     {q:"Which shows equal parts?", options:["A square with no cuts","A whole uncut circle","A circle cut into one tiny and one huge piece","A circle cut into two same-size halves"], answer:3},
+     {q:"Cutting a sandwich into two matching halves gives ___ parts.", options:["Equal","Unequal","Extra","Zero"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"If a circle is cut into two same-size pieces, are the parts equal?", answers:["yes","yes equal"]},
+     {prompt:"If a square is cut into one big piece and one small piece, are the parts equal?", answers:["no","no unequal"]},
+     {prompt:"Why does it matter if parts are equal when sharing?", answers:["so everyone gets a fair share","fairness"]}
+   ]},
+  {subject:"Science", title:"Bats: Mammals That Fly at Night", summary:"Kindergarten Science strand: bats are the only mammals that can truly fly, and most are nocturnal, coming out to hunt insects at night.",
+   resourceLabel:"YouTube: Bats: Mammals That Fly at Night", resourceUrl:"https://www.youtube.com/results?search_query=Bats%3A%20Mammals%20That%20Fly%20at%20Night%20kindergarten%20educational",
+   quiz:[
+     {q:"Bats are the only ___ that can truly fly.", options:["Fish","Birds","Reptiles","Mammals"], answer:3},
+     {q:"Most bats are active ___.", options:["During the day","At night","Never","Underwater"], answer:1},
+     {q:"What do many bats eat?", options:["Rocks","Insects","Only leaves","Metal"], answer:1},
+     {q:"Is a bat a bird?", options:["No, it is a mammal","Bats are fish","Yes","Only baby bats are birds"], answer:0},
+     {q:"An animal that is mostly active at night is called ___.", options:["Aquatic","Nocturnal","Migratory","Diurnal"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"When are most bats active?", answers:["at night","nighttime"]},
+     {prompt:"Are bats mammals or birds?", answers:["mammals","they are mammals"]},
+     {prompt:"What do many bats eat?", answers:["insects","bugs"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Farmers Market: Buying Fresh Food", summary:"Kindergarten Social Studies strand: a farmers market is a place where local farmers sell fresh fruits, vegetables, and other foods directly to the community.",
+   resourceLabel:"YouTube: Our Farmers Market: Buying Fresh Food", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Farmers%20Market%3A%20Buying%20Fresh%20Food%20kindergarten%20educational",
+   quiz:[
+     {q:"Who sells food directly at a farmers market?", options:["Local farmers","Firefighters","Teachers","Doctors"], answer:0},
+     {q:"What kinds of food can you often buy at a farmers market?", options:["Only toys","Only candy","Fresh fruits and vegetables","Only clothing"], answer:2},
+     {q:"Why might a community enjoy having a farmers market?", options:["It has no benefit","It closes the town","It supports local farmers and offers fresh food","It only sells old food"], answer:2},
+     {q:"A farmers market is different from a grocery store because ___.", options:["It sells food directly from local farmers","It is the same as a hospital","It only sells books","It never sells food"], answer:0},
+     {q:"Buying food from a farmers market helps support ___.", options:["Only large companies","Local farmers in our community","People in other countries only","No one at all"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Who sells food at a farmers market?", answers:["local farmers","farmers"]},
+     {prompt:"Name one thing you might buy at a farmers market.", answers:["fruit","vegetables"]},
+     {prompt:"Why do people like shopping at a farmers market?", answers:["fresh local food","support local farmers"]}
+   ]},
+]},
+{day:126, label:"Day 126 — Mon", subjects:[
+  {subject:"Language", title:"Reading Comprehension: Answering Questions About What We Read", summary:"Kindergarten Language strand: after listening to a story, students answer simple questions to show they understood who, what, and where.",
+   resourceLabel:"YouTube: Reading Comprehension: Answering Questions About What We Read", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Comprehension%3A%20Answering%20Questions%20About%20What%20We%20Read%20kindergarten%20educational",
+   quiz:[
+     {q:"The question word who asks about a story ___.", options:["Character","Sound","Number","Colour"], answer:0},
+     {q:"The question word where asks about a story ___.", options:["Title","Setting or place","Character","Ending only"], answer:1},
+     {q:"Answering questions after a story helps show ___.", options:["Nothing at all","We fell asleep","We changed the story","We understood the story"], answer:3},
+     {q:"Which question could you ask about a story?", options:["What did you eat?","What happened first?","What is your address?","What time is it?"], answer:1},
+     {q:"A good listener can answer questions about ___.", options:["Nothing in particular","A story they heard","A place they never visited","A song they never heard"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"After a story, what question word asks about a character?", answers:["who","who is it about"]},
+     {prompt:"What question word asks about the place in a story?", answers:["where","where does it happen"]},
+     {prompt:"Why do we answer questions after a story?", answers:["to show we understood it","check understanding"]}
+   ]},
+  {subject:"Math", title:"Measurement: Comparing Area, Which Covers More", summary:"Kindergarten Math strand: students compare two flat shapes to see which one covers more space on a table.",
+   resourceLabel:"YouTube: Measurement: Comparing Area, Which Covers More", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Area%2C%20Which%20Covers%20More%20kindergarten%20educational",
+   quiz:[
+     {q:"Which shape covers more of a table, a large blanket or a small napkin?", options:["The blanket","The napkin","Neither covers space","They are the same"], answer:0},
+     {q:"To compare how much space two shapes cover, we can ___.", options:["Guess without looking","Ignore them","Count their colours","Lay them next to each other"], answer:3},
+     {q:"A bigger piece of paper covers ___ space than a smaller one.", options:["Less","The same","More","No"], answer:2},
+     {q:"Comparing which shape covers more space is comparing their ___.", options:["Smell","Area","Weight","Sound"], answer:1},
+     {q:"Which object likely covers the most area on the floor?", options:["A pencil","A coin","A rug","A button"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"If one piece of paper covers more of the table, is it bigger or smaller?", answers:["bigger","it is bigger"]},
+     {prompt:"What can you use to compare how much space two shapes cover?", answers:["lay them side by side","place them next to each other"]},
+     {prompt:"Name something in your room that covers a lot of space.", answers:["a rug","a table"]}
+   ]},
+  {subject:"Science", title:"Underground Animals: Burrows and Tunnels", summary:"Kindergarten Science strand: some animals, like rabbits, moles, and ants, dig burrows and tunnels underground to live and stay safe.",
+   resourceLabel:"YouTube: Underground Animals: Burrows and Tunnels", resourceUrl:"https://www.youtube.com/results?search_query=Underground%20Animals%3A%20Burrows%20and%20Tunnels%20kindergarten%20educational",
+   quiz:[
+     {q:"Which animal is known for digging underground burrows?", options:["Eagle","Penguin","Whale","Rabbit"], answer:3},
+     {q:"What do we call an underground home dug by an animal?", options:["A nest","A hive","A web","A burrow"], answer:3},
+     {q:"Why do many animals live underground?", options:["To fly higher","For no reason","To swim faster","To stay safe from danger"], answer:3},
+     {q:"Which tiny insect is known for digging tunnels?", options:["Ladybug","Butterfly","Bee","Ant"], answer:3},
+     {q:"Underground burrows can help protect animals from ___.", options:["Predators and bad weather","Nothing at all","Sunshine only","Water only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one animal that digs underground.", answers:["rabbit","mole","ant"]},
+     {prompt:"What do we call the underground home an animal digs?", answers:["a burrow","burrow or tunnel"]},
+     {prompt:"Why might an animal live underground?", answers:["to stay safe","protection and shelter"]}
+   ]},
+  {subject:"SocialStudies", title:"Public Transit: Riding the Subway or Train", summary:"Kindergarten Social Studies strand: public transit, such as subways and trains, helps many people travel around a city together instead of using separate cars.",
+   resourceLabel:"YouTube: Public Transit: Riding the Subway or Train", resourceUrl:"https://www.youtube.com/results?search_query=Public%20Transit%3A%20Riding%20the%20Subway%20or%20Train%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is a form of public transit?", options:["A subway train","A private car","A bicycle","A skateboard"], answer:0},
+     {q:"Why do cities have public transit like subways and trains?", options:["They have no purpose","To keep people at home","Only for one person to use","To help many people travel together"], answer:3},
+     {q:"Which is a good safety rule when riding a subway or train?", options:["Running through the doors","Yelling loudly","Holding on and staying seated","Standing near the edge of the platform"], answer:2},
+     {q:"Public transit can help reduce the number of ___ on the road.", options:["Cars","Trees","Buildings","Sidewalks"], answer:0},
+     {q:"A subway usually travels ___.", options:["Underground","Underwater only","On the ocean","In the sky"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one type of public transit.", answers:["subway","train"]},
+     {prompt:"Why do many people use public transit?", answers:["to travel together","share transportation"]},
+     {prompt:"Name one rule for riding public transit safely.", answers:["stay seated","hold on"]}
+   ]},
+]},
+{day:127, label:"Day 127 — Tue", subjects:[
+  {subject:"Language", title:"Letter Formation: Writing Neatly on the Line", summary:"Kindergarten Language strand: students practise forming letters carefully, starting at the top and keeping letters sitting neatly on the writing line.",
+   resourceLabel:"YouTube: Letter Formation: Writing Neatly on the Line", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Formation%3A%20Writing%20Neatly%20on%20the%20Line%20kindergarten%20educational",
+   quiz:[
+     {q:"Most letters should start at the ___ when we write them.", options:["Top","Middle","Side","Bottom"], answer:0},
+     {q:"Where should letters sit on the page?", options:["Below the line","Above the line","Off the page","On the writing line"], answer:3},
+     {q:"Why do we practise neat letter formation?", options:["So our writing is easy to read","To make letters bigger only","It does not matter","So writing takes longer"], answer:0},
+     {q:"Which is a good habit when forming letters?", options:["Writing very fast without care","Starting at the top and following the line","Starting in a random spot","Skipping some letters"], answer:1},
+     {q:"Writing neatly on the line helps other people ___.", options:["Guess our writing","Ignore our writing","Erase our writing","Read our writing clearly"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Where should most letters start when writing?", answers:["at the top","from the top"]},
+     {prompt:"Where should letters sit when we write them?", answers:["on the line","on the writing line"]},
+     {prompt:"Why is it important to write neatly?", answers:["so others can read it","easy to read"]}
+   ]},
+  {subject:"Math", title:"Money: Counting Groups of Coins Together", summary:"Kindergarten Math strand: students count small groups of coins together, such as adding two pennies and one nickel to find the total value.",
+   resourceLabel:"YouTube: Money: Counting Groups of Coins Together", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Counting%20Groups%20of%20Coins%20Together%20kindergarten%20educational",
+   quiz:[
+     {q:"2 pennies and 1 nickel together are worth ___.", options:["6 cents","10 cents","5 cents","7 cents"], answer:3},
+     {q:"Which group of coins is worth more?", options:["3 pennies","2 pennies","1 nickel","1 penny"], answer:2},
+     {q:"1 nickel and 1 nickel together equal ___.", options:["10 cents","1 cent","5 cents","15 cents"], answer:0},
+     {q:"To find the total value of a group of coins, we ___.", options:["Guess","Ignore them","Add their values together","Count the coins only, not value"], answer:2},
+     {q:"3 pennies together are worth ___.", options:["3 cents","1 cent","5 cents","2 cents"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is the value of 2 pennies together?", answers:["2 cents","two cents"]},
+     {prompt:"What is the value of 1 nickel and 1 penny together?", answers:["6 cents","six cents"]},
+     {prompt:"Which coin is worth more, a nickel or a penny?", answers:["a nickel","nickel"]}
+   ]},
+  {subject:"Science", title:"Our Blood: Carrying What Our Body Needs", summary:"Kindergarten Science strand: blood travels through our body carrying oxygen and nutrients that our body needs to stay healthy and strong.",
+   resourceLabel:"YouTube: Our Blood: Carrying What Our Body Needs", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Blood%3A%20Carrying%20What%20Our%20Body%20Needs%20kindergarten%20educational",
+   quiz:[
+     {q:"What does blood carry to different parts of our body?", options:["Nothing","Oxygen and nutrients","Only water","Only air"], answer:1},
+     {q:"What body part pumps blood through our body?", options:["The brain","The stomach","The heart","The lungs"], answer:2},
+     {q:"Why does our body need blood?", options:["To carry what our body needs to stay healthy","Only to make us cold","It has no purpose","Blood is not needed"], answer:0},
+     {q:"Blood travels through tiny paths in our body called ___.", options:["Muscles","Blood vessels","Nerves","Bones"], answer:1},
+     {q:"Which of these does blood carry to our cells?", options:["Sound","Sunlight","Oxygen","Colour"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does blood carry around our body?", answers:["oxygen and nutrients","things our body needs"]},
+     {prompt:"What body part pumps blood around?", answers:["the heart","heart"]},
+     {prompt:"Why is blood important?", answers:["it carries what our body needs","keeps us healthy"]}
+   ]},
+  {subject:"SocialStudies", title:"Fire Drills: Practising to Stay Safe", summary:"Kindergarten Social Studies strand: a fire drill is a practice where the whole school calmly walks outside so everyone knows what to do in a real emergency.",
+   resourceLabel:"YouTube: Fire Drills: Practising to Stay Safe", resourceUrl:"https://www.youtube.com/results?search_query=Fire%20Drills%3A%20Practising%20to%20Stay%20Safe%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the purpose of a fire drill?", options:["To have extra recess","To practise leaving the building safely","To skip class forever","To scare students"], answer:1},
+     {q:"What should students do when a fire drill begins?", options:["Walk calmly and follow the teacher","Ignore it","Hide under a desk","Run wildly"], answer:0},
+     {q:"Why do schools practise fire drills regularly?", options:["They are not helpful","So everyone knows what to do in a real emergency","Only teachers need to know","For fun only"], answer:1},
+     {q:"During a fire drill, where do students usually go?", options:["Nowhere at all","Outside to a meeting spot","Home","To the cafeteria for lunch"], answer:1},
+     {q:"Practising a fire drill helps keep everyone ___.", options:["Confused","Unsafe","Safe and prepared","Late for class"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is a fire drill?", answers:["a practice for emergencies","practising what to do"]},
+     {prompt:"What should you do when the fire alarm rings during a drill?", answers:["walk calmly outside","line up and go outside"]},
+     {prompt:"Why do schools practise fire drills?", answers:["to be ready for a real emergency","so everyone knows what to do"]}
+   ]},
+]},
+{day:128, label:"Day 128 — Wed", subjects:[
+  {subject:"Language", title:"Command Sentences: Telling Someone What to Do", summary:"Kindergarten Language strand: a command sentence tells someone what to do, such as Sit down or Please close the door.",
+   resourceLabel:"YouTube: Command Sentences: Telling Someone What to Do", resourceUrl:"https://www.youtube.com/results?search_query=Command%20Sentences%3A%20Telling%20Someone%20What%20to%20Do%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the purpose of a command sentence?", options:["To show excitement only","To ask a question","To tell someone what to do","To name a person"], answer:2},
+     {q:"Which sentence is a command?", options:["Please sit down.","The sky is blue.","What a big dog!","Are you hungry?"], answer:0},
+     {q:"Which sentence is NOT a command?", options:["Sit down.","Wash your hands.","It is raining today.","Close the door."], answer:2},
+     {q:"Command sentences often begin with a(n) ___.", options:["Number","Action word","Question word","Exclamation only"], answer:1},
+     {q:"Which is a command a teacher might give?", options:["Line up quietly.","Is it lunchtime?","The sun is shining.","What a fun day!"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Give an example of a command sentence.", answers:["Sit down","Close the door"]},
+     {prompt:"What does a command sentence do?", answers:["tells someone what to do","gives an instruction"]},
+     {prompt:"How does a command sentence often end?", answers:["with a period","a period or exclamation mark"]}
+   ]},
+  {subject:"Math", title:"Data: Real Graphs Using Real Objects", summary:"Kindergarten Math strand: students sort real objects, such as shoes or leaves, into rows to make a real graph and compare the groups.",
+   resourceLabel:"YouTube: Data: Real Graphs Using Real Objects", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Real%20Graphs%20Using%20Real%20Objects%20kindergarten%20educational",
+   quiz:[
+     {q:"A real graph is made using ___.", options:["Actual real objects","Numbers only","Nothing at all","Only drawings"], answer:0},
+     {q:"In a real graph, objects are usually arranged in ___.", options:["A circle","A pile","A random scatter","Rows or lines"], answer:3},
+     {q:"How can we tell which row has more objects in a real graph?", options:["Count the colours","Smell the objects","Compare the length of the rows","Guess"], answer:2},
+     {q:"Which is a good example of objects to sort into a real graph?", options:["A song","Shoes by colour","A story","The weather"], answer:1},
+     {q:"Making a real graph helps us ___.", options:["Forget the objects","Mix up the objects","Compare groups of objects","Hide the objects"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name two kinds of real objects you could sort into a graph.", answers:["shoes","leaves","buttons"]},
+     {prompt:"In a real graph, how are objects arranged?", answers:["in rows or lines","lined up"]},
+     {prompt:"How can you tell which group has more in a real graph?", answers:["the longer row has more","compare the lengths"]}
+   ]},
+  {subject:"Science", title:"Extreme Weather: Storms and Lightning", summary:"Kindergarten Science strand: extreme weather, such as thunderstorms with lightning and loud thunder, can happen quickly and requires staying safe indoors.",
+   resourceLabel:"YouTube: Extreme Weather: Storms and Lightning", resourceUrl:"https://www.youtube.com/results?search_query=Extreme%20Weather%3A%20Storms%20and%20Lightning%20kindergarten%20educational",
+   quiz:[
+     {q:"Which is an example of extreme weather?", options:["A sunny sky","A light cloud","A thunderstorm","A gentle breeze"], answer:2},
+     {q:"What should people do to stay safe during a thunderstorm?", options:["Swim in a lake","Stay indoors","Stay outside","Stand under a tree"], answer:1},
+     {q:"What loud sound often follows a flash of lightning?", options:["Wind","Thunder","Silence","Rain"], answer:1},
+     {q:"Lightning is a flash of ___ during a storm.", options:["Electricity","Water","Wind","Sound"], answer:0},
+     {q:"Extreme weather can happen ___.", options:["Only at night","Never","Only in summer","Quickly and without much warning"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one type of extreme weather.", answers:["thunderstorm","lightning"]},
+     {prompt:"What should you do during a thunderstorm to stay safe?", answers:["stay indoors","go inside"]},
+     {prompt:"What comes after we see lightning in a storm?", answers:["thunder","the sound of thunder"]}
+   ]},
+  {subject:"SocialStudies", title:"Fair Play: Sharing Toys and Taking Turns", summary:"Kindergarten Social Studies strand: fair play means sharing toys, taking turns, and following the same rules so that everyone can enjoy playing together.",
+   resourceLabel:"YouTube: Fair Play: Sharing Toys and Taking Turns", resourceUrl:"https://www.youtube.com/results?search_query=Fair%20Play%3A%20Sharing%20Toys%20and%20Taking%20Turns%20kindergarten%20educational",
+   quiz:[
+     {q:"What does fair play mean?", options:["Keeping all the toys for yourself","Sharing and taking turns","Ignoring the rules","Never playing with others"], answer:1},
+     {q:"Which is an example of fair play?", options:["Taking turns on the swing","Grabbing all the toys","Breaking the rules","Refusing to share"], answer:0},
+     {q:"Why is fair play important when playing games?", options:["It is not important","It makes games boring","Only one person should have fun","It keeps play fun and kind for everyone"], answer:3},
+     {q:"If two children want the same toy, fair play means they should ___.", options:["Break it","Take turns using it","Hide it","Fight over it"], answer:1},
+     {q:"Following the same rules for everyone is an example of ___.", options:["Unfairness","Fairness","Confusion","Cheating"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does fair play mean?", answers:["sharing and taking turns","playing fairly"]},
+     {prompt:"Name one way to show fair play.", answers:["sharing toys","taking turns"]},
+     {prompt:"Why is fair play important when playing with friends?", answers:["everyone gets to enjoy playing","keeps play fun for everyone"]}
+   ]},
+]},
+{day:129, label:"Day 129 — Thu", subjects:[
+  {subject:"Language", title:"Rhyming Families: Grouping Words That Rhyme", summary:"Kindergarten Language strand: students sort words into groups by their rhyme, gathering words like cat, hat, and bat into one rhyming family.",
+   resourceLabel:"YouTube: Rhyming Families: Grouping Words That Rhyme", resourceUrl:"https://www.youtube.com/results?search_query=Rhyming%20Families%3A%20Grouping%20Words%20That%20Rhyme%20kindergarten%20educational",
+   quiz:[
+     {q:"Which group of words all rhyme together?", options:["Cat, hat, bat","Cat, dog, sun","Cat, car, can","Cat, cup, cot"], answer:0},
+     {q:"How can we tell if words belong in the same rhyming family?", options:["They start with the same letter","They end with the same sound","They look the same colour","They have the same number of letters"], answer:1},
+     {q:"Which word would join the family hop, top, mop?", options:["Pen","Pan","Pop","Pig"], answer:2},
+     {q:"Sorting words by rhyme helps us notice ___.", options:["Random colours","Math facts","Sound patterns","Story characters"], answer:2},
+     {q:"Which word does NOT rhyme with sun?", options:["Bug","Bun","Run","Fun"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name three words that rhyme with cat.", answers:["hat, bat, mat","hat and bat and mat"]},
+     {prompt:"How do we know two words rhyme?", answers:["they end with the same sound","same ending sound"]},
+     {prompt:"Sort hop and top. Do they rhyme?", answers:["yes","yes they do"]}
+   ]},
+  {subject:"Math", title:"Number Bonds: Ways to Make 4", summary:"Kindergarten Math strand: students find different pairs of numbers that combine to make 4, such as 1 and 3, or 2 and 2.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 4", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%204%20kindergarten%20educational",
+   quiz:[
+     {q:"1 + ? = 4", options:["1","3","2","4"], answer:1},
+     {q:"Which pair makes 4?", options:["0 and 1","3 and 3","2 and 2","1 and 1"], answer:2},
+     {q:"2 + ? = 4", options:["2","1","3","0"], answer:0},
+     {q:"Which pair does NOT make 4?", options:["1 and 3","1 and 4","2 and 2","0 and 4"], answer:1},
+     {q:"0 + ? = 4", options:["2","5","4","3"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What two numbers make 4 with 1?", answers:["3","1 and 3"]},
+     {prompt:"What two numbers make 4 with 2?", answers:["2","2 and 2"]},
+     {prompt:"Show one way to make 4.", answers:["1 and 3","0 and 4"]}
+   ]},
+  {subject:"Science", title:"Solar Energy: Power from the Sun", summary:"Kindergarten Science strand: solar energy is power that comes from sunlight, which can be captured by solar panels to make electricity.",
+   resourceLabel:"YouTube: Solar Energy: Power from the Sun", resourceUrl:"https://www.youtube.com/results?search_query=Solar%20Energy%3A%20Power%20from%20the%20Sun%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does solar energy come from?", options:["Underground rocks","The ocean","The wind","The Sun"], answer:3},
+     {q:"What can capture sunlight and turn it into electricity?", options:["A candle","A fan","A blanket","A solar panel"], answer:3},
+     {q:"Solar energy is considered a ___ source of power.", options:["Fake","Clean, renewable","Dirty","Dangerous"], answer:1},
+     {q:"Which of these uses solar energy?", options:["A campfire","A gasoline car","A solar-powered calculator","A candle"], answer:2},
+     {q:"Solar energy is powered by ___.", options:["Sunlight","Snow","Moonlight","Rain"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where does solar energy come from?", answers:["the Sun","sunlight"]},
+     {prompt:"What tool can capture sunlight to make electricity?", answers:["a solar panel","solar panels"]},
+     {prompt:"Is solar energy a clean form of energy?", answers:["yes","yes it is clean"]}
+   ]},
+  {subject:"SocialStudies", title:"Comparing Toys: Then and Now", summary:"Kindergarten Social Studies strand: toys have changed over time, from simple wooden toys long ago to the electronic toys and games many children play with now.",
+   resourceLabel:"YouTube: Comparing Toys: Then and Now", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Toys%3A%20Then%20and%20Now%20kindergarten%20educational",
+   quiz:[
+     {q:"What kind of toys did many children play with long ago?", options:["Electronic toys","Tablets","Video games","Simple wooden or cloth toys"], answer:3},
+     {q:"What kind of toys do many children play with today?", options:["Nothing at all","Only rocks","Only wooden blocks","Electronic toys and games"], answer:3},
+     {q:"How have toys changed from long ago to now?", options:["They have become more electronic and modern","They have disappeared","They became simpler","They have not changed at all"], answer:0},
+     {q:"Comparing old and new toys helps us understand ___.", options:["Only todays toys","That toys never change","That things can change over time","Nothing important"], answer:2},
+     {q:"Which is an example of an older, simple toy?", options:["A video game console","A tablet","A smartphone","A wooden top"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a toy children might have played with long ago.", answers:["a wooden toy","a doll"]},
+     {prompt:"Name a toy children often play with now.", answers:["a tablet game","an electronic toy"]},
+     {prompt:"How have toys changed over time?", answers:["they became more electronic","new materials and technology"]}
+   ]},
+]},
+{day:130, label:"Day 130 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Synonyms, Prefixes, and Story Comparison", summary:"Kindergarten Language strand review: students revisit word families -ip and -op, synonyms, the prefix un-, comparing stories, and command sentences.",
+   resourceLabel:"YouTube: Language Review: Synonyms, Prefixes, and Story Comparison", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Synonyms%2C%20Prefixes%2C%20and%20Story%20Comparison%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ip family?", options:["Cat","Sun","Bag","Zip"], answer:3},
+     {q:"Which word means the same as happy?", options:["Glad","Angry","Tired","Sad"], answer:0},
+     {q:"What does adding un- to the word happy create?", options:["Unhappy","Happier","Happily","Happiness"], answer:0},
+     {q:"When we compare two stories, we look for ways they are ___.", options:["Long and short only","Alike and different","Loud and quiet","Colourful"], answer:1},
+     {q:"Which sentence is a command?", options:["Please sit down.","What a big dog!","Are you hungry?","The sky is blue."], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Give a word from the -ip or -op word family.", answers:["dip","hop","top"]},
+     {prompt:"Give a synonym for happy.", answers:["glad","joyful"]},
+     {prompt:"Give an example of a command sentence.", answers:["Sit down","Close the door"]}
+   ]},
+  {subject:"Math", title:"Math Review: 3D Shapes, Fractions, and Number Bonds", summary:"Kindergarten Math strand review: students revisit cones and pyramids, counting beyond 100, quarter-hour time, fractions of equal parts, and number bonds to 4.",
+   resourceLabel:"YouTube: Math Review: 3D Shapes, Fractions, and Number Bonds", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%203D%20Shapes%2C%20Fractions%2C%20and%20Number%20Bonds%20kindergarten%20educational",
+   quiz:[
+     {q:"Which real object is shaped like a cone?", options:["A box","A can","An ice cream cone","A ball"], answer:2},
+     {q:"What number comes right after 119?", options:["118","120","100","121"], answer:1},
+     {q:"What do we call 15 minutes past the hour?", options:["Half past","A full hour","Quarter to","Quarter past"], answer:3},
+     {q:"If a shape is cut into two same-size pieces, the parts are ___.", options:["Unequal","Too many","Missing","Equal"], answer:3},
+     {q:"Which pair makes 4?", options:["0 and 1","1 and 1","3 and 3","2 and 2"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name something shaped like a cone.", answers:["an ice cream cone","a party hat"]},
+     {prompt:"What number comes right after 100?", answers:["101","one hundred one"]},
+     {prompt:"Show one way to make 4.", answers:["1 and 3","0 and 4"]}
+   ]},
+  {subject:"Science", title:"Science Review: Space, Animals, and Energy", summary:"Kindergarten Science strand review: students revisit the solar system, stars, reptiles, amphibians, bats, underground animals, blood, extreme weather, and solar energy.",
+   resourceLabel:"YouTube: Science Review: Space, Animals, and Energy", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Space%2C%20Animals%2C%20and%20Energy%20kindergarten%20educational",
+   quiz:[
+     {q:"What is at the centre of our solar system?", options:["A star far away","Earth","The Sun","The Moon"], answer:2},
+     {q:"Which of these is a reptile?", options:["Snake","Bird","Frog","Fish"], answer:0},
+     {q:"Bats are the only ___ that can truly fly.", options:["Reptiles","Birds","Fish","Mammals"], answer:3},
+     {q:"What body part pumps blood through our body?", options:["The heart","The brain","The lungs","The stomach"], answer:0},
+     {q:"What can capture sunlight and turn it into electricity?", options:["A blanket","A fan","A candle","A solar panel"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is at the centre of our solar system?", answers:["the Sun","Sun"]},
+     {prompt:"What covers a reptiles skin?", answers:["scales","dry scales"]},
+     {prompt:"Where does solar energy come from?", answers:["the Sun","sunlight"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Heroes, Community, and Fair Play", summary:"Kindergarten Social Studies strand review: students revisit Terry Fox, Canada Day, Indigenous peoples of Canada, the school principal, public transit, fire drills, and fair play.",
+   resourceLabel:"YouTube: Social Studies Review: Heroes, Community, and Fair Play", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Heroes%2C%20Community%2C%20and%20Fair%20Play%20kindergarten%20educational",
+   quiz:[
+     {q:"What is Terry Fox best known for?", options:["Running across Canada to raise money for cancer research","Leading the government","Flying airplanes","Building bridges"], answer:0},
+     {q:"On what date is Canada Day celebrated?", options:["January 1st","July 1st","December 25th","October 31st"], answer:1},
+     {q:"Who is the leader of a school?", options:["The principal","A student","A visitor","The bus driver"], answer:0},
+     {q:"Which of these is a form of public transit?", options:["A private car","A subway train","A skateboard","A bicycle"], answer:1},
+     {q:"What is the purpose of a fire drill?", options:["To have extra recess","To scare students","To skip class forever","To practise leaving the building safely"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What did Terry Fox do to raise money?", answers:["ran across Canada","ran a marathon"]},
+     {prompt:"What date is Canada Day celebrated on?", answers:["July 1st","July 1"]},
+     {prompt:"What does fair play mean?", answers:["sharing and taking turns","playing fairly"]}
+   ]},
+]},
 ];
 
 export default curriculum;
