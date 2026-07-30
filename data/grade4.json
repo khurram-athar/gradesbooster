@@ -29182,5 +29182,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 121,
+    "label": "Day 121 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Comma Rules — Series, Introductory Phrases, and Compound Sentences",
+        "summary": "Grade 4 Language strand: commas separate items in a series, follow introductory phrases at the start of a sentence, and join two independent clauses before a coordinating conjunction in a compound sentence.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Which sentence uses commas correctly in a series?",
+            "options": [
+              "I packed apples, oranges, and grapes.",
+              "I packed apples oranges, and grapes.",
+              "I packed, apples oranges and grapes.",
+              "I packed apples, oranges and, grapes."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where does a comma usually go after an introductory phrase?",
+            "options": [
+              "Commas are never used with introductory phrases",
+              "Right after the introductory phrase",
+              "At the very end of the sentence",
+              "Before the subject only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence correctly uses a comma in a compound sentence?",
+            "options": [
+              "I finished, my homework and I watched a movie.",
+              "I finished my homework, and I watched a movie.",
+              "I finished my homework and, I watched a movie.",
+              "I finished my homework and I, watched a movie."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a comma do when separating items in a list?",
+            "options": [
+              "Replaces a period",
+              "Shows where one item ends and the next begins",
+              "Ends the sentence",
+              "Joins two full sentences without a conjunction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence After the storm passed, we went outside, what is being set off by the comma?",
+            "options": [
+              "A list of items",
+              "A title",
+              "A quotation",
+              "An introductory phrase"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Adding Fractions with Unlike Denominators",
+        "summary": "Grade 4 Math strand: to add fractions with unlike denominators, students find a common denominator, rewrite each fraction as an equivalent fraction, then add the numerators.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What must fractions have before they can be added directly?",
+            "options": [
+              "The same numerator",
+              "The same sign",
+              "Different denominators",
+              "A common denominator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 1/2 + 1/4?",
+            "options": [
+              "1/6",
+              "3/4",
+              "2/6",
+              "2/4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 1/3 + 1/6?",
+            "options": [
+              "1/2",
+              "2/9",
+              "7/6",
+              "1/9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first step in adding fractions with unlike denominators?",
+            "options": [
+              "Find a common denominator",
+              "Subtract the fractions",
+              "Add the denominators",
+              "Multiply the numerators"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why cant we add fraction numerators directly when denominators differ?",
+            "options": [
+              "Denominators do not matter",
+              "Numerators are always equal",
+              "Because the pieces are different sizes until denominators match",
+              "Fractions can never be added"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Human Digestive System — Breaking Down Food for Energy",
+        "summary": "Grade 4 Science strand: the digestive system breaks down food into nutrients the body can absorb and use for energy, involving organs such as the stomach, small intestine, and large intestine.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main job of the digestive system?",
+            "options": [
+              "Sending nerve signals",
+              "Filtering air",
+              "Breaking down food into nutrients the body can use",
+              "Pumping blood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organ mixes food with acid to help break it down?",
+            "options": [
+              "The heart",
+              "The brain",
+              "The lungs",
+              "The stomach"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where are nutrients mostly absorbed into the blood?",
+            "options": [
+              "The lungs",
+              "The small intestine",
+              "The mouth",
+              "The skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to food waste after nutrients are absorbed?",
+            "options": [
+              "It is stored in the brain",
+              "It turns into oxygen",
+              "It becomes bone",
+              "It passes through the large intestine to be removed from the body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the body need to digest food?",
+            "options": [
+              "To make food heavier",
+              "To stop the body from growing",
+              "To break it into nutrients that provide energy and building blocks for the body",
+              "Digestion has no purpose"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ancient Japan — Early Society and Culture",
+        "summary": "Grade 4 Social Studies strand: ancient Japan developed a unique early society influenced by its island geography, featuring farming communities, emperors, and rich traditions in art and religion.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What type of geography influenced ancient Japans development?",
+            "options": [
+              "A landlocked plain",
+              "A vast desert",
+              "A mountain range with no coast",
+              "Its island location"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role did an emperor typically hold in ancient Japan?",
+            "options": [
+              "No role at all",
+              "A foreign visitor",
+              "A random villager",
+              "A central figure of authority and tradition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was a common economic activity in early Japanese society?",
+            "options": [
+              "Only fishing",
+              "Only mining",
+              "Farming, especially rice cultivation",
+              "Only trading with no farming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Japans island geography significant to its early history?",
+            "options": [
+              "It caused constant flooding with no benefits",
+              "It prevented any culture from forming",
+              "It shaped trade, culture, and how the society developed somewhat separately",
+              "It made no difference to society"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What aspect of ancient Japanese culture became influential in art and religion?",
+            "options": [
+              "Modern technology only",
+              "A complete absence of art",
+              "European traditions only",
+              "Traditions passed down and refined over centuries"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "label": "Day 122 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Plural Noun Rules — Regular and Irregular Forms",
+        "summary": "Grade 4 Language strand: most nouns form plurals by adding -s or -es, but irregular nouns change form in other ways, such as child to children or mouse to mice.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is the plural of dog?",
+            "options": [
+              "Doges",
+              "Dogen",
+              "Dogs",
+              "Dogies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the plural of box?",
+            "options": [
+              "Boxies",
+              "Boxs",
+              "Boxes",
+              "Box"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the irregular plural of child?",
+            "options": [
+              "Childrens",
+              "Children",
+              "Childs",
+              "Childes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the irregular plural of mouse?",
+            "options": [
+              "Mouses",
+              "Mice",
+              "Mices",
+              "Meese"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which rule usually applies to nouns ending in a consonant plus y, like baby?",
+            "options": [
+              "Just add s",
+              "Add es only",
+              "The word never changes",
+              "Change the y to i and add es"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Square Numbers and Square Roots",
+        "summary": "Grade 4 Math strand: a square number is the product of a whole number multiplied by itself, such as 4 x 4 = 16, and the square root is the number that produces it, such as the square root of 16 is 4.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a square number?",
+            "options": [
+              "A number multiplied by itself",
+              "Any even number",
+              "A number added to itself",
+              "A number divided by itself"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 5 squared (5 x 5)?",
+            "options": [
+              "10",
+              "25",
+              "15",
+              "20"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the square root of 16?",
+            "options": [
+              "16",
+              "8",
+              "4",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the square root of 9?",
+            "options": [
+              "18",
+              "3",
+              "6",
+              "9"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Square numbers can be shown as ___.",
+            "options": [
+              "Only prime numbers",
+              "Numbers divided by zero",
+              "Only odd numbers",
+              "Arrays forming a perfect square shape"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Skin — Our Bodys Protective Organ",
+        "summary": "Grade 4 Science strand: the skin is the bodys largest organ, protecting against germs and injury, helping regulate temperature, and containing nerve endings that sense touch.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the skin often described as?",
+            "options": [
+              "A type of bone",
+              "A type of muscle only",
+              "The bodys largest organ",
+              "The smallest organ"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one job of the skin?",
+            "options": [
+              "Sending only sound signals",
+              "Pumping blood",
+              "Digesting food",
+              "Protecting the body from germs and injury"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does skin help regulate body temperature?",
+            "options": [
+              "By changing colour permanently",
+              "Through sweating and changes in blood flow near the surface",
+              "Skin does not affect temperature",
+              "By growing hair only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What allows skin to sense touch?",
+            "options": [
+              "Nerve endings in the skin",
+              "Blood vessels only",
+              "Muscles only",
+              "Bones beneath the skin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to protect skin from cuts and injuries?",
+            "options": [
+              "Cuts never affect health",
+              "Skin cannot be injured",
+              "Skin acts as a barrier against germs entering the body",
+              "Skin has no protective function"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of the Prime Minister in Canada",
+        "summary": "Grade 4 Social Studies strand: the Prime Minister is the head of the Canadian federal government, leading the Cabinet and overseeing the passage of laws and national policy.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Prime Minister the head of?",
+            "options": [
+              "The Canadian federal government",
+              "A city council",
+              "A single province",
+              "A private company"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What group does the Prime Minister lead?",
+            "options": [
+              "The Senate only",
+              "The RCMP only",
+              "The Cabinet",
+              "The Supreme Court"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does someone usually become Prime Minister of Canada?",
+            "options": [
+              "They are born into the role",
+              "Their political party wins the most seats in a federal election",
+              "They are appointed by another country",
+              "They win a local election only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one responsibility of the Prime Minister?",
+            "options": [
+              "Running a single business",
+              "Teaching in schools",
+              "Coaching sports teams",
+              "Overseeing national policy and the passage of laws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does the Prime Minister typically work while serving?",
+            "options": [
+              "In a province chosen at random",
+              "In a different country",
+              "Nowhere in particular",
+              "In Ottawa, the national capital"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "label": "Day 123 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Prepositional Phrases",
+        "summary": "Grade 4 Language strand: a prepositional phrase begins with a preposition and ends with a noun or pronoun, showing relationships such as location, time, or direction, as in under the table or before dinner.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What does a prepositional phrase begin with?",
+            "options": [
+              "A verb",
+              "A preposition",
+              "An adjective",
+              "A conjunction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a prepositional phrase?",
+            "options": [
+              "And then",
+              "Ran quickly",
+              "Happy dog",
+              "Under the table"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence The cat slept on the couch, what is the prepositional phrase?",
+            "options": [
+              "The cat",
+              "Slept",
+              "On the couch",
+              "The cat slept"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can a prepositional phrase show?",
+            "options": [
+              "Only colour",
+              "Location, time, or direction",
+              "Only size",
+              "Only sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word could begin a prepositional phrase?",
+            "options": [
+              "Happy",
+              "Before",
+              "Quickly",
+              "Run"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Divisibility Rules for 3, 6, and 9",
+        "summary": "Grade 4 Math strand: a number is divisible by 3 if the sum of its digits is divisible by 3, by 9 if the digit sum is divisible by 9, and by 6 if it is divisible by both 2 and 3.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "A number is divisible by 3 if ___.",
+            "options": [
+              "It is a prime number",
+              "It ends in an even digit",
+              "It ends in 0",
+              "The sum of its digits is divisible by 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is 123 divisible by 3?",
+            "options": [
+              "No, because it is an odd number",
+              "Yes, because 1+2+3=6 is divisible by 3",
+              "No, because it ends in 3",
+              "Yes, because it has three digits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A number is divisible by 9 if ___.",
+            "options": [
+              "It is divisible by 3 only",
+              "It is an odd number",
+              "The sum of its digits is divisible by 9",
+              "It ends in 9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For a number to be divisible by 6, it must be divisible by ___.",
+            "options": [
+              "Only 2",
+              "Only 3",
+              "Both 2 and 3",
+              "Neither 2 nor 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is 42 divisible by 6?",
+            "options": [
+              "No, because its digit sum is not divisible by 3",
+              "No, because it is odd",
+              "Yes, but only by 2",
+              "Yes, because it is divisible by both 2 and 3"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Immune System — How Our Body Fights Germs",
+        "summary": "Grade 4 Science strand: the immune system defends the body against harmful germs using white blood cells and other defenses that identify and destroy invaders.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main job of the immune system?",
+            "options": [
+              "Defending the body against harmful germs",
+              "Breaking down food",
+              "Sending messages to muscles",
+              "Pumping blood through the body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What blood cells help fight germs?",
+            "options": [
+              "Red blood cells only",
+              "White blood cells",
+              "Bone cells",
+              "Skin cells only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a germ?",
+            "options": [
+              "A type of bone",
+              "A tiny organism that can cause illness",
+              "A large animal",
+              "A kind of rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a fever occur when the body is fighting an infection?",
+            "options": [
+              "Fevers always mean the body is healthy",
+              "Fevers have no connection to illness",
+              "It can help the immune system fight germs more effectively",
+              "Fevers stop the immune system from working"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do vaccines help the immune system?",
+            "options": [
+              "They help the body learn to recognize and fight specific germs",
+              "They remove the immune system entirely",
+              "They have no effect on immunity",
+              "They only affect the skin"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Canadian Coast Guard",
+        "summary": "Grade 4 Social Studies strand: the Canadian Coast Guard is a federal service that ensures safe navigation, responds to search and rescue emergencies, and protects Canadas waters.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What does the Canadian Coast Guard help ensure?",
+            "options": [
+              "Safe travel through forests",
+              "Safe travel on highways only",
+              "Safe air travel only",
+              "Safe navigation on Canadas waters"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one major responsibility of the Coast Guard?",
+            "options": [
+              "Building houses",
+              "Teaching in schools",
+              "Growing crops",
+              "Responding to search and rescue emergencies at sea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What level of government operates the Canadian Coast Guard?",
+            "options": [
+              "Federal",
+              "No government involvement",
+              "Municipal",
+              "Provincial only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is protecting Canadas waters important?",
+            "options": [
+              "Only oceans exist, no coastlines to protect",
+              "Canada has no coastline",
+              "Canada has extensive coastlines and waterways vital to trade and safety",
+              "Water protection is unnecessary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Coast Guard is an example of a service that ___.",
+            "options": [
+              "Has no purpose",
+              "Focuses solely on farming",
+              "Keeps people and shipping safe on the water",
+              "Only exists in other countries"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "label": "Day 124 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Poetry — Stanzas, Rhyme Scheme, and Meter",
+        "summary": "Grade 4 Language strand: poems are organized into stanzas, may follow a rhyme scheme such as ABAB, and use meter, a pattern of rhythm, to create musicality.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a stanza?",
+            "options": [
+              "The title of a poem",
+              "A type of punctuation",
+              "A group of lines in a poem, like a paragraph",
+              "A single word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does rhyme scheme describe?",
+            "options": [
+              "The number of stanzas",
+              "The poems length",
+              "The pattern of rhyming sounds at the ends of lines",
+              "The authors name"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In an ABAB rhyme scheme, which lines rhyme with each other?",
+            "options": [
+              "Only lines 1 and 2",
+              "No lines rhyme",
+              "Lines 1 and 3, and lines 2 and 4",
+              "All four lines rhyme"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is meter in poetry?",
+            "options": [
+              "A type of comma rule",
+              "A pattern of rhythm created by stressed and unstressed syllables",
+              "A measurement of length",
+              "A kind of prefix"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a poet use a strong rhyme scheme and meter?",
+            "options": [
+              "To make the poem confusing",
+              "To avoid using any words",
+              "To create a musical, memorable feeling",
+              "To remove all structure"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Tessellations — Tiling a Plane with Transformations",
+        "summary": "Grade 4 Math strand: a tessellation is a repeating pattern of shapes that covers a flat surface with no gaps or overlaps, often created using translations, reflections, and rotations.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A 3D solid figure",
+              "A shape with curved sides only",
+              "A repeating pattern of shapes covering a surface with no gaps or overlaps",
+              "A single isolated shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which shape is well known for tessellating easily?",
+            "options": [
+              "A cone",
+              "An oval",
+              "A circle",
+              "A regular hexagon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which transformations are often used to create tessellations?",
+            "options": [
+              "Only colouring shapes",
+              "Only enlarging shapes",
+              "Translations, reflections, and rotations",
+              "Only measuring angles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can circles not tessellate on their own?",
+            "options": [
+              "They leave gaps between them when repeated",
+              "They are always the same colour",
+              "They have too many sides",
+              "They are too small"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where can tessellations be found in real life?",
+            "options": [
+              "Nowhere in real life",
+              "Only in liquids",
+              "Floor tiles and honeycomb patterns",
+              "Only in outer space"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Five Senses and Sensory Organs",
+        "summary": "Grade 4 Science strand: humans perceive the world through five senses -- sight, hearing, smell, taste, and touch -- each detected by a specialized sensory organ.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "How many main senses do humans have?",
+            "options": [
+              "Two",
+              "Seven",
+              "Five",
+              "Three"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organ is responsible for the sense of sight?",
+            "options": [
+              "The eyes",
+              "The ears",
+              "The tongue",
+              "The nose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which organ is responsible for the sense of hearing?",
+            "options": [
+              "The nose",
+              "The ears",
+              "The eyes",
+              "The skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which organ is mainly responsible for the sense of taste?",
+            "options": [
+              "The tongue",
+              "The nose",
+              "The ears",
+              "The eyes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are the five senses important?",
+            "options": [
+              "Only sight matters for survival",
+              "They have no useful purpose",
+              "Senses only work in the dark",
+              "They help us gather information about our environment"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Remembrance Day and Canadas Military History",
+        "summary": "Grade 4 Social Studies strand: Remembrance Day, observed on November 11, honours Canadians who served and sacrificed in military conflicts, marked by moments of silence and wearing poppies.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "On what date is Remembrance Day observed in Canada?",
+            "options": [
+              "November 11",
+              "July 1",
+              "October 31",
+              "December 25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Remembrance Day honour?",
+            "options": [
+              "Canadians who served and sacrificed in military conflicts",
+              "A new years celebration",
+              "A sports championship",
+              "A harvest festival"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What symbol is commonly worn on Remembrance Day?",
+            "options": [
+              "A poppy",
+              "A red ribbon",
+              "A small flag pin",
+              "A maple leaf pin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What tradition is observed at 11 a.m. on Remembrance Day?",
+            "options": [
+              "A public holiday with no observance",
+              "A moment of silence",
+              "A parade with loud music",
+              "A fireworks display"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for students to learn about Remembrance Day?",
+            "options": [
+              "It celebrates a sports victory",
+              "It has no historical importance",
+              "It is only about modern events",
+              "It helps them understand and honour sacrifices made in Canadas history"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "label": "Day 125 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Tone in a Text",
+        "summary": "Grade 4 Language strand: tone is the authors attitude toward a subject, revealed through word choice and details, such as a humorous, serious, or sorrowful tone.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is tone in a piece of writing?",
+            "options": [
+              "The setting of the story",
+              "The main character",
+              "The authors attitude toward the subject",
+              "The title of the text"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can readers identify an authors tone?",
+            "options": [
+              "By examining word choice and details",
+              "By counting the pages",
+              "Tone cannot be identified",
+              "By looking at the cover only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which words might signal a humorous tone?",
+            "options": [
+              "Only angry words",
+              "Playful and silly language",
+              "Only sad words",
+              "Formal legal terms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which words might signal a serious tone?",
+            "options": [
+              "Bright, playful exclamations",
+              "Silly jokes",
+              "Random nonsense words",
+              "Formal, weighty language about an important topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding tone important for readers?",
+            "options": [
+              "Tone only matters in poetry",
+              "Tone is the same as plot",
+              "It has no effect on understanding a text",
+              "It helps readers understand how the author feels about the topic"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Exploring Shapes with the Same Perimeter but Different Area",
+        "summary": "Grade 4 Math strand: two shapes can share the same perimeter yet enclose different areas, showing that perimeter and area measure different properties of a shape.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does perimeter measure?",
+            "options": [
+              "The weight of a shape",
+              "The space inside a shape",
+              "The number of sides only",
+              "The distance around a shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does area measure?",
+            "options": [
+              "The space inside a shape",
+              "The number of corners",
+              "The height only",
+              "The distance around a shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A 2 by 8 rectangle and a 5 by 5 square both have a perimeter of 20 -- which shape has a greater area?",
+            "options": [
+              "They always have equal area",
+              "Area cannot be compared this way",
+              "The square (25) has a greater area than the rectangle (16)",
+              "The rectangle always has more area"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to know that shapes can share a perimeter but differ in area?",
+            "options": [
+              "It means perimeter is not useful",
+              "It means area never changes",
+              "It proves perimeter and area are the same thing",
+              "It shows perimeter and area are independent measurements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which shape generally maximizes area for a given perimeter?",
+            "options": [
+              "A shape closer to a square or circle",
+              "A very long, thin rectangle",
+              "A shape with many sharp points",
+              "Any triangle"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Insect Life Cycles — Complete and Incomplete Metamorphosis",
+        "summary": "Grade 4 Science strand: insects such as butterflies undergo complete metamorphosis with four distinct stages, while insects such as grasshoppers undergo incomplete metamorphosis with fewer, more gradual stages.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are the four stages of complete metamorphosis?",
+            "options": [
+              "Adult, egg, and larva only",
+              "Egg, adult, larva, and nymph",
+              "Larva, egg, nymph, and pupa",
+              "Egg, larva, pupa, and adult"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which insect is a well-known example of complete metamorphosis?",
+            "options": [
+              "Grasshopper",
+              "Butterfly",
+              "Dragonfly nymph only",
+              "Cockroach"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What stage in complete metamorphosis involves a protective casing?",
+            "options": [
+              "Larva",
+              "Pupa",
+              "Egg",
+              "Adult"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is different about incomplete metamorphosis?",
+            "options": [
+              "It has fewer stages and the young resemble smaller versions of adults",
+              "The larva looks nothing like the adult",
+              "It always has five stages",
+              "There is no egg stage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which insect is an example of incomplete metamorphosis?",
+            "options": [
+              "Moth",
+              "Grasshopper",
+              "Ladybug",
+              "Butterfly"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Boreal Forest — Geography and Importance",
+        "summary": "Grade 4 Social Studies strand: the boreal forest is a vast forest region stretching across much of northern Canada, providing habitat for wildlife, storing carbon, and supporting industries such as forestry.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the boreal forest?",
+            "options": [
+              "A vast forest region across much of northern Canada",
+              "A desert region",
+              "An underwater ecosystem",
+              "A small forest in southern Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of trees are common in the boreal forest?",
+            "options": [
+              "Only cactus plants",
+              "Only palm trees",
+              "Coniferous trees such as spruce and pine",
+              "No trees grow there"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What role does the boreal forest play for wildlife?",
+            "options": [
+              "It has no wildlife",
+              "It destroys animal habitats",
+              "It provides important habitat for many animal species",
+              "It only supports fish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the boreal forest important for storing carbon?",
+            "options": [
+              "Its trees and soil absorb and store large amounts of carbon",
+              "It only exists to be cut down",
+              "It has no effect on carbon levels",
+              "It releases carbon with no absorption"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which industry commonly operates in the boreal forest?",
+            "options": [
+              "Underwater mining",
+              "Forestry",
+              "Fishing exclusively",
+              "Desert tourism"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "label": "Day 126 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Loanwords — Words Borrowed from Other Languages",
+        "summary": "Grade 4 Language strand: a loanword is a word English has borrowed from another language, such as ballet from French or spaghetti from Italian, enriching English vocabulary.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a loanword?",
+            "options": [
+              "A word borrowed from another language",
+              "A word that is always spelled wrong",
+              "A type of punctuation mark",
+              "A word with no meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a loanword borrowed from French?",
+            "options": [
+              "Happy",
+              "Ballet",
+              "Table",
+              "Run"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a loanword borrowed from Italian?",
+            "options": [
+              "Tree",
+              "House",
+              "Book",
+              "Spaghetti"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does English contain so many loanwords?",
+            "options": [
+              "English has no connection to other languages",
+              "English has borrowed words through trade, travel, and cultural contact over time",
+              "English never changes",
+              "Loanwords are recent inventions with no history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about loanwords can help readers understand ___.",
+            "options": [
+              "Nothing useful",
+              "How languages influence each other",
+              "Only science vocabulary",
+              "Only math vocabulary"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Using a Venn Diagram to Sort and Compare Data",
+        "summary": "Grade 4 Math strand: a Venn diagram uses overlapping circles to sort data into categories, showing items that belong to one group, another group, or both.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a Venn diagram used for?",
+            "options": [
+              "Sorting and comparing data using overlapping circles",
+              "Measuring angles",
+              "Recording elapsed time",
+              "Finding the area of a shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the overlapping section of a Venn diagram show?",
+            "options": [
+              "Items that belong to neither category",
+              "The total number of items only",
+              "Items outside both circles",
+              "Items that belong to both categories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If an item belongs to only one circle in a Venn diagram, what does that mean?",
+            "options": [
+              "It fits both categories",
+              "It fits no category",
+              "It fits only that one category",
+              "It is an error"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are Venn diagrams useful for organizing data?",
+            "options": [
+              "They replace the need for any data at all",
+              "They visually show relationships and overlaps between groups",
+              "They only work with numbers",
+              "They cannot show overlapping information"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A Venn diagram comparing students who like apples and students who like oranges would place students who like both ___.",
+            "options": [
+              "In neither circle",
+              "Outside both circles",
+              "In the overlapping section",
+              "In a separate diagram"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Fossil Fuels — Formation, Use, and Environmental Impact",
+        "summary": "Grade 4 Science strand: fossil fuels such as coal, oil, and natural gas formed over millions of years from ancient organisms and are burned for energy, though their use releases pollution and greenhouse gases.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are fossil fuels?",
+            "options": [
+              "Sources of energy made from sunlight instantly",
+              "A renewable energy source",
+              "A type of rock with no energy use",
+              "Energy sources formed over millions of years from ancient organisms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a fossil fuel?",
+            "options": [
+              "Wind",
+              "Sunlight",
+              "Water",
+              "Coal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How long does it take for fossil fuels to form?",
+            "options": [
+              "A few days",
+              "A few hours",
+              "One year",
+              "Millions of years"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one environmental concern with burning fossil fuels?",
+            "options": [
+              "It creates more fossil fuels instantly",
+              "It cools the planet permanently",
+              "It has no environmental effects",
+              "It releases pollution and greenhouse gases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are fossil fuels considered non-renewable?",
+            "options": [
+              "They take far too long to reform once used up",
+              "They never run out",
+              "They can be remade in seconds",
+              "They are unlimited in supply"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Mining Industry",
+        "summary": "Grade 4 Social Studies strand: Canadas mining industry extracts valuable resources such as nickel, gold, and potash from the ground, contributing significantly to the national economy and employment.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What does the mining industry extract from the ground?",
+            "options": [
+              "Valuable resources such as minerals and metals",
+              "Only trees",
+              "Only water",
+              "Only soil"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one resource commonly mined in Canada.",
+            "options": [
+              "Cotton",
+              "Bananas",
+              "Rice",
+              "Nickel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does mining contribute to Canadas economy?",
+            "options": [
+              "It only costs money with no benefit",
+              "It replaces all other industries",
+              "It creates jobs and generates income through resource sales",
+              "It has no economic impact"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might mining be an important industry in certain Canadian regions?",
+            "options": [
+              "Those regions have rich mineral deposits underground",
+              "Mining only occurs in cities",
+              "Mining requires no natural resources",
+              "All regions have identical resources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one environmental consideration related to mining?",
+            "options": [
+              "Balancing resource extraction with protecting the environment",
+              "Environmental impact is never considered",
+              "Mining always improves the environment",
+              "Mining has no environmental effects"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "label": "Day 127 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Autobiography",
+        "summary": "Grade 4 Language strand: an autobiography is a true account of a persons own life written by that person, often organized in chronological order and including important events and reflections.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is an autobiography?",
+            "options": [
+              "A true account of a persons life written by that person",
+              "A biography written by another author",
+              "A type of poem",
+              "A fictional story about someone else"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How are autobiographies usually organized?",
+            "options": [
+              "Backwards from the end to beginning always",
+              "Randomly with no order",
+              "Alphabetically by topic",
+              "In chronological order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What point of view is typically used in an autobiography?",
+            "options": [
+              "First person (I, me, my)",
+              "No point of view is used",
+              "Second person only",
+              "Third person only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might an autobiography include besides events?",
+            "options": [
+              "Only pictures with no words",
+              "The writers reflections and feelings",
+              "Only dates and numbers",
+              "Nothing personal at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is an autobiography different from a biography?",
+            "options": [
+              "A biography is always fictional",
+              "There is no difference",
+              "An autobiography is always about someone else",
+              "An autobiography is written by the subject about themselves, while a biography is written by someone else"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Expressing Probability as a Percent",
+        "summary": "Grade 4 Math strand: probability can be expressed as a fraction, decimal, or percent, showing the likelihood of an event, such as a 1/2 chance being expressed as 50%.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "Probability can be expressed as a fraction, decimal, or ___.",
+            "options": [
+              "Whole number only",
+              "Negative number",
+              "Ratio only",
+              "Percent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What percent represents a probability of 1/2?",
+            "options": [
+              "25%",
+              "100%",
+              "50%",
+              "10%"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What percent represents a probability of 1/4?",
+            "options": [
+              "25%",
+              "100%",
+              "50%",
+              "75%"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If an event is certain to happen, what is its probability as a percent?",
+            "options": [
+              "0%",
+              "50%",
+              "100%",
+              "25%"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an event is impossible, what is its probability as a percent?",
+            "options": [
+              "0%",
+              "100%",
+              "25%",
+              "50%"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Carbon Cycle — How Carbon Moves Through Earths Systems",
+        "summary": "Grade 4 Science strand: the carbon cycle describes how carbon moves between the air, plants, animals, oceans, and soil, such as plants absorbing carbon dioxide and animals releasing it through breathing.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the carbon cycle describe?",
+            "options": [
+              "How electricity flows through circuits",
+              "How carbon moves between air, plants, animals, and soil",
+              "How water moves through clouds only",
+              "How rocks form over time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What gas do plants absorb from the air as part of the carbon cycle?",
+            "options": [
+              "Nitrogen only",
+              "Helium",
+              "Carbon dioxide",
+              "Oxygen only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do animals release carbon back into the environment?",
+            "options": [
+              "Through breathing out carbon dioxide",
+              "Through walking",
+              "Through drinking water",
+              "Through sleeping"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where can carbon be stored for long periods of time?",
+            "options": [
+              "Only in animals",
+              "In oceans, soil, and fossil fuels",
+              "Nowhere, it disappears",
+              "Only in the air"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the carbon cycle important for life on Earth?",
+            "options": [
+              "It only affects rocks",
+              "It has no importance to living things",
+              "It helps regulate the balance of gases that support living things",
+              "It stops all plant growth"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada-United States Trade Relationship",
+        "summary": "Grade 4 Social Studies strand: Canada and the United States share one of the largest trading relationships in the world, exchanging goods such as vehicles, energy, and agricultural products across the border.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Canada shares one of the largest trading relationships in the world with which country?",
+            "options": [
+              "Australia",
+              "The United States",
+              "Brazil",
+              "Japan"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might Canada and the United States exchange through trade?",
+            "options": [
+              "Vehicles, energy, and agricultural products",
+              "Only historical documents",
+              "Nothing at all",
+              "Only artwork"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is trade between neighbouring countries often significant?",
+            "options": [
+              "Neighbouring countries never trade",
+              "Shared borders make transporting goods easier and more efficient",
+              "Distance has no effect on trade",
+              "Trade only happens between distant countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one benefit of strong trade relationships between countries?",
+            "options": [
+              "No goods are exchanged",
+              "Access to a wider variety of goods and economic growth",
+              "Trade always harms both countries",
+              "Countries lose all their resources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Trade agreements between countries like Canada and the United States help ___.",
+            "options": [
+              "Prevent any trade from happening",
+              "Eliminate all industries",
+              "Set clear rules for how goods are exchanged",
+              "Stop economic growth"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "label": "Day 128 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Mystery Story",
+        "summary": "Grade 4 Language strand: a mystery story presents a puzzling problem, such as a crime or disappearance, and follows characters as they gather clues to solve it before a satisfying resolution.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a key feature of a mystery story?",
+            "options": [
+              "A list of vocabulary words",
+              "A recipe for a meal",
+              "A puzzling problem that needs to be solved",
+              "A weather report"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do characters in a mystery often gather to solve the problem?",
+            "options": [
+              "Clues",
+              "Nothing at all",
+              "Random objects with no purpose",
+              "Money only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who is often the main character trying to solve the mystery?",
+            "options": [
+              "The weather",
+              "A random stranger never mentioned again",
+              "A detective or curious character",
+              "A narrator with no role"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What usually happens at the end of a mystery story?",
+            "options": [
+              "All characters disappear",
+              "The mystery is solved and explained",
+              "Nothing is ever resolved",
+              "The story restarts from the beginning"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do writers include red herrings, or misleading clues, in mysteries?",
+            "options": [
+              "To create suspense and mislead readers temporarily",
+              "To confuse readers with no purpose",
+              "To end the story early",
+              "Red herrings are never used in mysteries"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Calculating Discounts and Sale Prices",
+        "summary": "Grade 4 Math strand: a discount reduces the original price of an item by a percent, and the sale price is found by subtracting the discount amount from the original price.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does a discount do to the original price of an item?",
+            "options": [
+              "Reduces it",
+              "Keeps it the same",
+              "Doubles it",
+              "Increases it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a $20 item has a 10% discount, how much is the discount?",
+            "options": [
+              "$18",
+              "$10",
+              "$20",
+              "$2"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a $20 item has a 10% discount, what is the sale price?",
+            "options": [
+              "$22",
+              "$10",
+              "$18",
+              "$2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find the sale price, you should ___.",
+            "options": [
+              "Multiply the original price by 100",
+              "Subtract the discount amount from the original price",
+              "Ignore the discount",
+              "Add the discount to the original price"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might stores offer discounts?",
+            "options": [
+              "To make prices permanently higher",
+              "To confuse shoppers",
+              "To encourage customers to buy items",
+              "Discounts are never offered"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Alternative Energy — Geothermal and Biomass Power",
+        "summary": "Grade 4 Science strand: geothermal energy harnesses heat from deep within the Earth, while biomass energy comes from burning organic material such as wood or plant waste, offering renewable alternatives to fossil fuels.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is geothermal energy?",
+            "options": [
+              "Energy from the sun only",
+              "Energy from wind only",
+              "Energy harnessed from heat within the Earth",
+              "Energy from ocean waves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is biomass energy made from?",
+            "options": [
+              "Only water",
+              "Organic material such as wood or plant waste",
+              "Only sunlight",
+              "Only metal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are geothermal and biomass energy considered renewable?",
+            "options": [
+              "They come from fossil fuels",
+              "Their sources can be naturally replenished over time",
+              "They only work for a single day",
+              "They cannot be replenished at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does geothermal energy typically come from underground?",
+            "options": [
+              "Heat from deep within the Earth",
+              "Frozen ice layers",
+              "Empty caves with no heat",
+              "Cold air pockets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one benefit of using alternative energy sources like geothermal and biomass?",
+            "options": [
+              "They are identical to fossil fuels",
+              "They always pollute more than fossil fuels",
+              "They cannot produce electricity",
+              "They can reduce reliance on fossil fuels"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The History of O Canada — Canadas National Anthem",
+        "summary": "Grade 4 Social Studies strand: O Canada, written in the 19th century, became Canadas official national anthem in 1980 and is sung at ceremonies and events across the country.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the title of Canadas national anthem?",
+            "options": [
+              "The Maple Leaf Forever",
+              "O Canada",
+              "God Save the King",
+              "True North Strong"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what century was O Canada originally written?",
+            "options": [
+              "The 19th century",
+              "The 21st century",
+              "The 10th century",
+              "The 15th century"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year did O Canada officially become Canadas national anthem?",
+            "options": [
+              "1920",
+              "1867",
+              "2000",
+              "1980"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When is O Canada commonly sung?",
+            "options": [
+              "Never in public settings",
+              "At ceremonies, events, and the start of school days",
+              "Only in courtrooms",
+              "Only during elections"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do countries have national anthems?",
+            "options": [
+              "To confuse citizens",
+              "To express national pride and unity",
+              "Only for private use",
+              "They serve no purpose"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "label": "Day 129 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Fable with a Moral",
+        "summary": "Grade 4 Language strand: a fable is a short story, often featuring animal characters, that teaches a lesson called a moral, such as honesty is the best policy.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a fable?",
+            "options": [
+              "A short story that teaches a lesson",
+              "A type of poem with no message",
+              "A grammar rule",
+              "A factual news report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are fable characters often depicted as?",
+            "options": [
+              "Robots",
+              "Animals that act like people",
+              "Only humans",
+              "Inanimate objects with no personality"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a moral in a fable?",
+            "options": [
+              "The setting",
+              "The main characters name",
+              "The lesson the story teaches",
+              "The title of the story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a common fable moral?",
+            "options": [
+              "Numbers can be added together",
+              "Nouns name people, places, or things",
+              "Honesty is the best policy",
+              "Water boils at 100 degrees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers use animal characters in fables?",
+            "options": [
+              "To represent human behaviours and teach lessons in an engaging way",
+              "Animals only appear in nonfiction",
+              "To avoid teaching any lesson",
+              "Animals cannot be characters in stories"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Interpreting Double Line Graphs",
+        "summary": "Grade 4 Math strand: a double line graph displays two related sets of data over the same time period using two separate lines, making it easy to compare trends.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does a double line graph show?",
+            "options": [
+              "Only one set of data",
+              "Two related sets of data over the same time period",
+              "Data with no time period",
+              "A single point of data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might someone use a double line graph instead of a single line graph?",
+            "options": [
+              "Double line graphs cannot be compared",
+              "To show only categories with no numbers",
+              "To compare two trends at once",
+              "To hide information"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do the two lines in a double line graph usually represent?",
+            "options": [
+              "Two different data sets being compared",
+              "Random unrelated numbers",
+              "Nothing meaningful",
+              "The same data twice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two lines on a graph cross, what does that suggest?",
+            "options": [
+              "The graph is incorrect",
+              "The two data sets were equal at that point",
+              "Data cannot cross",
+              "The lines will never move again"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Double line graphs are especially useful for comparing ___.",
+            "options": [
+              "The area of a rectangle",
+              "Angles in a shape",
+              "Trends over time between two groups",
+              "Only one number"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Coral Reefs — Diverse Underwater Ecosystems",
+        "summary": "Grade 4 Science strand: coral reefs are diverse underwater ecosystems built by tiny animals called coral polyps, providing habitat for a huge variety of ocean life.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What builds a coral reef?",
+            "options": [
+              "Underwater volcanoes only",
+              "Ocean currents alone",
+              "Large fish",
+              "Tiny animals called coral polyps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are coral reefs important ecosystems?",
+            "options": [
+              "They destroy ocean life",
+              "They have no living things",
+              "They only exist on land",
+              "They provide habitat for a huge variety of ocean life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What conditions do coral reefs typically need to grow?",
+            "options": [
+              "Fresh water only",
+              "Warm, shallow, clear water",
+              "Cold, deep, dark water",
+              "No water at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one threat to coral reefs today?",
+            "options": [
+              "Too many fish protecting them",
+              "Nothing threatens coral reefs",
+              "Rising ocean temperatures causing coral bleaching",
+              "Too much cold water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Coral reefs are sometimes called the ___ of the sea because of their rich biodiversity.",
+            "options": [
+              "Rainforests",
+              "Volcanoes",
+              "Deserts",
+              "Glaciers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of Volunteers and Charities in Canadian Communities",
+        "summary": "Grade 4 Social Studies strand: volunteers and charities support Canadian communities by providing services such as food banks, shelters, and fundraising for causes that governments may not fully cover.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do volunteers offer to their communities?",
+            "options": [
+              "Only money with no time given",
+              "Only government services",
+              "Nothing of value",
+              "Their time and effort to help others without pay"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a charity?",
+            "options": [
+              "A type of school",
+              "A branch of the military",
+              "A government department",
+              "An organization that raises money or resources to help a cause"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one service a charity might provide.",
+            "options": [
+              "Operating a food bank",
+              "Collecting taxes",
+              "Running elections",
+              "Building highways"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are volunteers and charities important in a community?",
+            "options": [
+              "They only exist in large cities",
+              "They have no effect on communities",
+              "They provide support that governments may not fully cover",
+              "They replace all government services"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can students contribute to their community as volunteers?",
+            "options": [
+              "By ignoring community needs",
+              "Only by paying taxes",
+              "Students cannot volunteer",
+              "By helping with local events or fundraising efforts"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "label": "Day 130 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Poetry, and Writing Forms",
+        "summary": "Grade 4 Language strand review: students revisit comma rules, plural noun rules, prepositional phrases, analyzing poetry, and identifying tone.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Which sentence uses commas correctly in a series?",
+            "options": [
+              "I packed apples oranges, and grapes.",
+              "I packed apples, oranges and, grapes.",
+              "I packed, apples oranges and grapes.",
+              "I packed apples, oranges, and grapes."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the plural of dog?",
+            "options": [
+              "Dogs",
+              "Doges",
+              "Dogen",
+              "Dogies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a prepositional phrase begin with?",
+            "options": [
+              "A preposition",
+              "A verb",
+              "A conjunction",
+              "An adjective"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a stanza?",
+            "options": [
+              "A type of punctuation",
+              "A group of lines in a poem, like a paragraph",
+              "A single word",
+              "The title of a poem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is tone in a piece of writing?",
+            "options": [
+              "The authors attitude toward the subject",
+              "The main character",
+              "The setting of the story",
+              "The title of the text"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Fractions, Number Sense, and Data",
+        "summary": "Grade 4 Math strand review: students revisit adding fractions with unlike denominators, square numbers and square roots, divisibility rules, tessellations, and same-perimeter-different-area shapes.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What must fractions have before they can be added directly?",
+            "options": [
+              "The same sign",
+              "Different denominators",
+              "A common denominator",
+              "The same numerator"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a square number?",
+            "options": [
+              "Any even number",
+              "A number multiplied by itself",
+              "A number added to itself",
+              "A number divided by itself"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A number is divisible by 3 if ___.",
+            "options": [
+              "It ends in 0",
+              "It is a prime number",
+              "It ends in an even digit",
+              "The sum of its digits is divisible by 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A single isolated shape",
+              "A 3D solid figure",
+              "A shape with curved sides only",
+              "A repeating pattern of shapes covering a surface with no gaps or overlaps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does perimeter measure?",
+            "options": [
+              "The weight of a shape",
+              "The space inside a shape",
+              "The number of sides only",
+              "The distance around a shape"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Body Systems, Energy, and Ecosystems",
+        "summary": "Grade 4 Science strand review: students revisit the digestive system, the skin, the immune system, the five senses, and insect life cycles.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main job of the digestive system?",
+            "options": [
+              "Filtering air",
+              "Sending nerve signals",
+              "Breaking down food into nutrients the body can use",
+              "Pumping blood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the skin often described as?",
+            "options": [
+              "The bodys largest organ",
+              "A type of muscle only",
+              "The smallest organ",
+              "A type of bone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main job of the immune system?",
+            "options": [
+              "Breaking down food",
+              "Pumping blood through the body",
+              "Sending messages to muscles",
+              "Defending the body against harmful germs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many main senses do humans have?",
+            "options": [
+              "Five",
+              "Seven",
+              "Three",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the four stages of complete metamorphosis?",
+            "options": [
+              "Adult, egg, and larva only",
+              "Egg, adult, larva, and nymph",
+              "Larva, egg, nymph, and pupa",
+              "Egg, larva, pupa, and adult"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Ancient Societies, Government, and Canadian Geography",
+        "summary": "Grade 4 Social Studies strand review: students revisit ancient Japan, the role of the Prime Minister, the Canadian Coast Guard, Remembrance Day, and the boreal forest.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What type of geography influenced ancient Japans development?",
+            "options": [
+              "Its island location",
+              "A landlocked plain",
+              "A mountain range with no coast",
+              "A vast desert"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Prime Minister the head of?",
+            "options": [
+              "A private company",
+              "The Canadian federal government",
+              "A single province",
+              "A city council"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Canadian Coast Guard help ensure?",
+            "options": [
+              "Safe navigation on Canadas waters",
+              "Safe air travel only",
+              "Safe travel through forests",
+              "Safe travel on highways only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On what date is Remembrance Day observed in Canada?",
+            "options": [
+              "December 25",
+              "November 11",
+              "October 31",
+              "July 1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the boreal forest?",
+            "options": [
+              "A small forest in southern Canada",
+              "A desert region",
+              "An underwater ecosystem",
+              "A vast forest region across much of northern Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
