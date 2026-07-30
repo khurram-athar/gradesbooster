@@ -4321,6 +4321,386 @@ const curriculum: DayContent[] = [
      {q:"What is the Canadian Shield?", options:["A mountain range along the Pacific coast","A large freshwater lake in northern Ontario","A vast region of ancient rock covering much of central and eastern Canada","A concept unrelated to Canadian geography"], answer:2}
    ]},
 ]},
+{day:111, label:"Day 111 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Sentence Fragments and How to Fix Them", summary:"Grade 7 Language strand: a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought, and writers fix fragments by combining them with a nearby sentence or adding the missing element.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a sentence fragment?", options:["An incomplete sentence missing a subject, verb, or complete thought","A sentence that is too long","A sentence with perfect grammar","A type of poem"], answer:0},
+     {q:"Which of these is a sentence fragment?", options:["They finished their homework before dinner.","Running down the street quickly.","She ran down the street quickly.","The dog barked loudly at the mail carrier."], answer:1},
+     {q:"What is one way to fix a sentence fragment?", options:["Delete every word","Combine it with a nearby complete sentence","Add more commas only","Make it longer with no subject"], answer:1},
+     {q:"Why do writers sometimes accidentally create fragments?", options:["Fragments cannot be fixed","They separate a dependent clause or phrase from the sentence it belongs to","Fragments are always intentional in formal writing","Fragments are required in every paragraph"], answer:1},
+     {q:"A complete sentence must have at least ___.", options:["Only punctuation","A rhyme","Ten words","A subject and a verb expressing a complete thought"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Angle of Elevation and Depression", summary:"Grade 7 Math strand: the angle of elevation is the angle looking upward from a horizontal line to an object, while the angle of depression is the angle looking downward, both used to describe sightlines to distant objects.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is the angle of elevation?", options:["The angle looking straight down","The angle between two parallel lines","A type of right angle only","The angle looking upward from a horizontal line to an object"], answer:3},
+     {q:"What is the angle of depression?", options:["An angle equal to zero always","The angle looking downward from a horizontal line to an object","The angle looking straight up","A type of circle measurement"], answer:1},
+     {q:"If you look up at the top of a tall building from the ground, you are measuring ___.", options:["An angle of elevation","An angle of depression","A reflex angle only","A right angle only"], answer:0},
+     {q:"Angle of elevation and depression problems are useful for finding ___.", options:["Heights and distances of objects that are hard to measure directly","The temperature outside","Only the colour of an object","The weight of an object"], answer:0},
+     {q:"Both angle of elevation and depression are measured from a ___ line.", options:["Curved","Diagonal only","Horizontal","Vertical"], answer:2}
+   ]},
+  {subject:"Science", title:"The Human Eye and Vision", summary:"Grade 7 Science strand: the eye focuses light onto the retina, which converts light into signals sent to the brain, allowing us to see shapes, colours, and movement.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does the eye focus light onto?", options:["The stomach lining","The skin","The retina","The eardrum"], answer:2},
+     {q:"What does the retina do with light?", options:["Blocks all light completely","Converts it into sound","Produces heat only","Converts it into signals sent to the brain"], answer:3},
+     {q:"Which part of the eye controls how much light enters?", options:["The eyebrow","The pupil","The eyelash","The earlobe"], answer:1},
+     {q:"Why might a person need glasses?", options:["To change eye colour permanently","Glasses have no effect on vision","To block all light from entering the eye","To help focus light correctly onto the retina"], answer:3},
+     {q:"Vision is processed and interpreted by which organ?", options:["The stomach","The liver","The brain","The lungs"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Avro Arrow and Canadian Aerospace History", summary:"Grade 7 Social Studies strand: the Avro Arrow was an advanced Canadian-built jet fighter from the 1950s whose cancellation in 1959 remains a debated moment in Canadian aerospace and technology history.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Avro Arrow?", options:["A famous Canadian ship","A type of train","A Canadian currency design","An advanced Canadian-built jet fighter"], answer:3},
+     {q:"When was the Avro Arrow program cancelled?", options:["It was never cancelled","In 1867","In 2005","In 1959"], answer:3},
+     {q:"Why is the cancellation of the Avro Arrow still debated by historians?", options:["It has no historical significance at all","It was immediately forgotten with no impact","Its cancellation affected Canadian aerospace jobs and technology development","It was replaced the same year with an identical program"], answer:2},
+     {q:"The Avro Arrow is an example of Canadian achievement in which field?", options:["Textile manufacturing","Music composition","Aerospace engineering and technology","Agriculture"], answer:2},
+     {q:"Studying the Avro Arrow helps students understand ___.", options:["Only ancient history","Only sports history","Nothing about Canadian history","How government decisions can shape technology and industry"], answer:3}
+   ]},
+]},
+{day:112, label:"Day 112 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Portmanteau Words", summary:"Grade 7 Language strand: a portmanteau word blends the sounds and meanings of two words into one, such as brunch (breakfast plus lunch) or smog (smoke plus fog).",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a portmanteau word?", options:["A word borrowed directly from another language unchanged","A punctuation mark","A word that blends the sounds and meanings of two words","A word with only one syllable"], answer:2},
+     {q:"Which of these is a portmanteau word?", options:["Happiness","Table","Brunch","Quickly"], answer:2},
+     {q:"The word smog is a blend of which two words?", options:["Sun and frog","Smoke and fog","Small and dog","Sky and log"], answer:1},
+     {q:"Why do new portmanteau words often appear in language?", options:["Portmanteau words are never created anymore","To describe new concepts by combining familiar words","They are always mistakes in writing","They replace all existing words"], answer:1},
+     {q:"Which is an example of a modern portmanteau word?", options:["Table","Run","Blue","Webinar (web plus seminar)"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Constructing and Interpreting Dot Plots", summary:"Grade 7 Math strand: a dot plot displays data along a number line, with a dot for each data value, making it easy to see the shape, clusters, and gaps in a small data set.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a dot plot use to represent data?", options:["A dot for each data value along a number line","Bars of different heights","Coloured squares only","Slices of a circle"], answer:0},
+     {q:"What can a dot plot help you easily see?", options:["Only the total sum of all values","The shape, clusters, and gaps in a data set","The alphabet order of items","The colour of the data"], answer:1},
+     {q:"Dot plots are most useful for what kind of data set?", options:["Only categorical data with no order","Only data with millions of values","A relatively small data set","Only data with no numbers"], answer:2},
+     {q:"If several dots stack up at one value on a dot plot, this shows ___.", options:["Nothing meaningful","That value occurs frequently in the data","That the value is impossible","An error in the data collection"], answer:1},
+     {q:"A gap in a dot plot indicates ___.", options:["The total number of data points","An error that must be removed","The most common value","A range of values with no data points"], answer:3}
+   ]},
+  {subject:"Science", title:"Renewable Energy: Wind Power Technology", summary:"Grade 7 Science strand: wind turbines convert the kinetic energy of moving air into electricity, offering a renewable energy source that produces no direct emissions while operating.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What do wind turbines convert into electricity?", options:["Chemical energy from fuel","Heat from the ground","The kinetic energy of moving air","Sunlight"], answer:2},
+     {q:"Why is wind power considered a renewable energy source?", options:["Wind power creates large amounts of pollution while operating","Wind is a limited, non-renewable resource","Wind power requires burning fossil fuels","Wind is naturally replenished and does not run out"], answer:3},
+     {q:"What is one advantage of wind power over fossil fuels?", options:["It never depends on weather conditions","It produces no direct emissions while generating electricity","It requires no technology to harness","It is available in unlimited amounts everywhere on Earth"], answer:1},
+     {q:"What might affect how much electricity a wind turbine produces?", options:["How strong and consistent the wind is","The price of oil","The time of year only, with no other factor","The colour of the turbine blades"], answer:0},
+     {q:"Wind turbines are often grouped together in what is called a ___.", options:["Power plant only","Water treatment facility","Wind farm","Solar farm"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Regina Riot and the On-to-Ottawa Trek", summary:"Grade 7 Social Studies strand: during the Great Depression, unemployed workers organized the On-to-Ottawa Trek to demand better conditions, which ended in a violent clash known as the Regina Riot in 1935.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the On-to-Ottawa Trek?", options:["A protest journey by unemployed workers during the Great Depression","A trade agreement","A celebration of Confederation","A type of railway construction project"], answer:0},
+     {q:"What were the trekkers demanding?", options:["A new capital city","A new national anthem","Better conditions and jobs during the Great Depression","Lower taxes for wealthy citizens"], answer:2},
+     {q:"What event stopped the trek and turned violent in 1935?", options:["The Halifax Explosion","The Regina Riot","The October Crisis","The Winnipeg General Strike"], answer:1},
+     {q:"Why did the government intervene in the On-to-Ottawa Trek?", options:["There was no government reaction at all","The trekkers were never near Ottawa","The government fully supported the trek from the start","Officials feared the growing protest movement reaching Ottawa"], answer:3},
+     {q:"The Regina Riot and On-to-Ottawa Trek reflect the hardships of ___.", options:["The early colonial period","Modern Canadian history","World War II","The Great Depression era in Canada"], answer:3}
+   ]},
+]},
+{day:113, label:"Day 113 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Extended Metaphor", summary:"Grade 7 Language strand: an extended metaphor develops a single comparison across multiple lines, sentences, or an entire text, deepening meaning by exploring the comparison from different angles.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is an extended metaphor?", options:["A comparison used only once in a single sentence","A comparison developed across multiple lines or an entire text","A type of punctuation","A literal statement with no comparison"], answer:1},
+     {q:"How does an extended metaphor differ from a simple metaphor?", options:["It is always exactly one word long","It never uses any comparison at all","It always uses the word like or as","It continues and develops the comparison over a longer passage"], answer:3},
+     {q:"Why might an author use an extended metaphor?", options:["To confuse the reader with unrelated ideas","To avoid making any point","To deepen meaning by exploring a comparison from different angles","To remove imagery from the text"], answer:2},
+     {q:"Which is an example of the start of an extended metaphor?", options:["The cat sat on the mat","Life is a journey, with winding roads and unexpected stops","Please close the door","Two plus two equals four"], answer:1},
+     {q:"An extended metaphor can appear across ___.", options:["Only a title","An entire poem or passage","Only a single word","Only a footnote"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Inflation and Purchasing Power", summary:"Grade 7 Math strand: inflation is a general rise in prices over time, which reduces purchasing power, meaning the same amount of money buys fewer goods and services than before.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is inflation?", options:["A fixed price that never changes","A type of bank account","A general fall in prices over time","A general rise in prices over time"], answer:3},
+     {q:"What happens to purchasing power when inflation occurs?", options:["It always increases significantly","It decreases, so money buys less than before","It stays exactly the same","It becomes impossible to measure"], answer:1},
+     {q:"If a toy cost $10 last year and $12 this year due to inflation, the price has ___.", options:["Stayed the same","Become free","Increased","Decreased"], answer:2},
+     {q:"Why might people want their savings to earn interest higher than the inflation rate?", options:["Interest rates never relate to inflation","Savings accounts are unaffected by prices","So their money keeps or grows its real purchasing power over time","Purchasing power always increases automatically"], answer:2},
+     {q:"Inflation is typically measured using changes in ___.", options:["The number of people in a country","The weather","The length of the calendar year","The average prices of goods and services"], answer:3}
+   ]},
+  {subject:"Science", title:"Chemical Changes in Everyday Life: Rusting, Cooking, and Baking", summary:"Grade 7 Science strand: rusting, cooking, and baking are all examples of chemical changes, where new substances form and the change is generally difficult or impossible to reverse.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What type of change is rusting?", options:["A chemical change","No change at all","A change in state only","A physical change only"], answer:0},
+     {q:"Why is cooking an egg considered a chemical change?", options:["The egg simply changes shape with no other change","New substances form and the change cannot easily be reversed","Nothing about the egg actually changes","The change can be easily reversed by cooling it"], answer:1},
+     {q:"What causes metal to rust?", options:["Only exposure to sunlight","A chemical reaction between iron, oxygen, and water","Freezing temperatures alone","Loud noises"], answer:1},
+     {q:"Baking a cake involves a chemical change because ___.", options:["Nothing changes chemically during baking","The batter simply gets colder","New substances form that cannot be turned back into the original batter","The cake can be un-baked back into batter"], answer:2},
+     {q:"Which is a sign that a chemical change has occurred?", options:["A new substance forms with different properties","The object only changes shape","The object only changes size","Nothing happens at all"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Role in the Korean War", summary:"Grade 7 Social Studies strand: Canada sent troops as part of a United Nations force during the Korean War (1950-1953) to help defend South Korea, marking an early Cold War military commitment.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What conflict did Canada send troops to as part of a UN force in the early 1950s?", options:["The Vietnam War","World War I","The War of 1812","The Korean War"], answer:3},
+     {q:"Which country was Canada helping to defend during the Korean War?", options:["China","North Korea","Japan","South Korea"], answer:3},
+     {q:"Roughly when did the Korean War take place?", options:["1950 to 1953","It has not happened yet","In the 1700s","In the 1990s"], answer:0},
+     {q:"The Korean War is often seen as an early example of what larger global conflict?", options:["The Napoleonic Wars","World War II","The Cold War","The French and Indian War"], answer:2},
+     {q:"Canadas involvement in the Korean War reflected its commitment to ___.", options:["Isolation from world affairs","Only trade agreements","International cooperation through the United Nations","Avoiding all foreign conflicts"], answer:2}
+   ]},
+]},
+{day:114, label:"Day 114 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Persuasive Letter to a Local Official", summary:"Grade 7 Language strand: a persuasive letter to a local official clearly states a concern or request, supports it with reasons and evidence, and uses a respectful, formal tone to encourage action.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What should a persuasive letter to a local official clearly state?", options:["Only a signature","Only a greeting","A concern or request","Nothing specific at all"], answer:2},
+     {q:"What tone should a letter to a local official generally use?", options:["A casual, joking tone","No tone at all","A respectful, formal tone","An angry, insulting tone"], answer:2},
+     {q:"Why should a persuasive letter include reasons and evidence?", options:["To make the letter longer with no purpose","To confuse the reader on purpose","To support the request and make it more convincing","Evidence is never needed in persuasive writing"], answer:2},
+     {q:"Which is an appropriate closing for a formal letter to an official?", options:["No closing is needed","Sincerely, followed by your name","See ya later","A random emoji"], answer:1},
+     {q:"What is the main goal of a persuasive letter to an official?", options:["To simply share random facts with no purpose","To criticize the official with no reasons given","To encourage the official to take a specific action","To avoid making any request"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Nets of 3D Shapes", summary:"Grade 7 Math strand: a net is a two-dimensional pattern that can be folded to form a three-dimensional shape, helping visualize surface area and the structure of solids.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is a net in geometry?", options:["A measurement of volume only","A type of graph","A two-dimensional pattern that folds into a 3D shape","A three-dimensional solid with no flat sides"], answer:2},
+     {q:"What can a net help you calculate?", options:["The temperature of a solid","The weight of an object","Only the colour of a shape","The surface area of a 3D shape"], answer:3},
+     {q:"How many rectangular faces does the net of a cube have?", options:["Three rectangles","Four squares","Six squares","Two circles"], answer:2},
+     {q:"What shape would the net of a cylinder typically include?", options:["Two circles and one rectangle","One pentagon only","Four triangles","Six squares"], answer:0},
+     {q:"Why are nets useful when learning about 3D shapes?", options:["They remove the need to understand shapes","They only apply to circles","They help visualize the structure and surface area of solids","They have no practical use"], answer:2}
+   ]},
+  {subject:"Science", title:"Plant Reproduction: Pollination and Seed Dispersal", summary:"Grade 7 Science strand: plants reproduce through pollination, often with help from insects or wind, and then disperse their seeds by methods like wind, water, or animals to grow in new locations.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is pollination?", options:["A type of photosynthesis","The process of a plant losing its leaves","The transfer of pollen that allows plants to reproduce","The process of a plant absorbing water"], answer:2},
+     {q:"What are two common ways pollen is transferred between plants?", options:["Insects and wind","Only underground roots","Only rainfall","Only human hands"], answer:0},
+     {q:"What is seed dispersal?", options:["The freezing of a seed","The spreading of seeds away from the parent plant","The process of a seed dissolving completely","The photosynthesis process in leaves"], answer:1},
+     {q:"Which of these is a method of seed dispersal?", options:["Wind carrying seeds through the air","Seeds being destroyed by sunlight","Seeds staying permanently attached to the parent plant","Seeds dissolving in soil instantly"], answer:0},
+     {q:"Why is seed dispersal important for a plant species?", options:["It has no benefit to the plant","It prevents the species from ever growing again","It only happens to already-dead plants","It reduces competition and helps the species spread to new areas"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Creation of Nunavut in 1999", summary:"Grade 7 Social Studies strand: Nunavut became Canadas newest territory in 1999, created through a land claim agreement to give Inuit people greater self-governance over their traditional homeland.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In what year was Nunavut created?", options:["1999","1867","2020","1949"], answer:0},
+     {q:"What group gained greater self-governance through the creation of Nunavut?", options:["Inuit people","American immigrants","French settlers","British colonists"], answer:0},
+     {q:"How was Nunavut created?", options:["Through a land claim agreement","By a coin toss","By accident with no planning","By a foreign invasion"], answer:0},
+     {q:"What was Nunavut before it became its own territory?", options:["An independent country","Part of the Northwest Territories","Part of Quebec","Part of Ontario"], answer:1},
+     {q:"Why is the creation of Nunavut significant in Canadian history?", options:["It was reversed the following year","It had no significance at all","It ended all territories in Canada","It represented a major step in Indigenous self-governance"], answer:3}
+   ]},
+]},
+{day:115, label:"Day 115 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Clickbait Headlines", summary:"Grade 7 Language strand: clickbait headlines use sensational or exaggerated language to attract clicks, often promising more than the actual article delivers, so readers should evaluate headlines critically.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a clickbait headline designed to do?", options:["Provide only calm, factual summaries","Discourage readers from clicking","Attract clicks using sensational or exaggerated language","Avoid any emotional language"], answer:2},
+     {q:"What is a common problem with clickbait headlines?", options:["They often promise more than the article actually delivers","They always perfectly match the article content","They are required by law to be accurate","They never use exaggeration"], answer:0},
+     {q:"Which phrase sounds like typical clickbait?", options:["Local library extends hours","You wont believe what happened next!","Weather forecast for Tuesday","City council approves new budget"], answer:1},
+     {q:"Why should readers evaluate headlines critically?", options:["All headlines contain identical information","Headlines are always completely trustworthy","Evaluating headlines is unnecessary","To avoid being misled by exaggerated claims"], answer:3},
+     {q:"What skill helps readers avoid falling for clickbait?", options:["Reading only headlines and nothing else","Believing every headline without question","Ignoring all news sources","Media literacy and critical thinking"], answer:3}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Among Fractions, Decimals, and Percents", summary:"Grade 7 Math strand: fractions, decimals, and percents are different ways to represent the same value, and converting between them is a key skill for solving real-world problems involving parts of a whole.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What do fractions, decimals, and percents all represent?", options:["Only negative numbers","Three completely unrelated concepts","Only whole numbers","Different ways to express the same value or part of a whole"], answer:3},
+     {q:"What is 1/4 written as a decimal?", options:["0.25","1.4","0.14","0.4"], answer:0},
+     {q:"What is 0.5 written as a percent?", options:["0.5%","500%","50%","5%"], answer:2},
+     {q:"What is 75% written as a fraction in lowest terms?", options:["1/75","75/10","7/5","3/4"], answer:3},
+     {q:"Why is it useful to convert between fractions, decimals, and percents?", options:["Different situations and problems call for different representations","Conversion is never useful in real life","Only one form is ever allowed in math","Percentages cannot be converted to fractions"], answer:0}
+   ]},
+  {subject:"Science", title:"Bird Adaptations and Beak Types", summary:"Grade 7 Science strand: bird beaks are adapted to the type of food a species eats, such as strong hooked beaks for tearing meat or long thin beaks for probing flowers and insects.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What determines the shape of a birds beak?", options:["The size of the birds nest","The colour of the birds feathers","The time of year only","The type of food the species typically eats"], answer:3},
+     {q:"What kind of beak would a bird of prey, like a hawk, typically have?", options:["A long, thin beak for sipping nectar","A strong, hooked beak for tearing meat","No beak at all","A flat, wide beak for filtering water"], answer:1},
+     {q:"Why might a hummingbird have a long, thin beak?", options:["To tear meat from prey","To reach nectar deep inside flowers","To crack open hard seeds","To dig through soil"], answer:1},
+     {q:"Beak adaptations are an example of ___.", options:["How species evolve traits suited to their environment and diet","Traits found only in mammals","Random changes with no purpose","Features that never affect survival"], answer:0},
+     {q:"A short, strong, cone-shaped beak, like a finches, is well suited for ___.", options:["Sipping nectar from flowers","Cracking open seeds","Tearing large prey apart","Catching fish underwater"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Role in D-Day and Operation Overlord", summary:"Grade 7 Social Studies strand: Canadian troops played a significant role landing at Juno Beach during the D-Day invasion of Normandy in 1944, part of the larger Allied effort known as Operation Overlord.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What major military operation did D-Day belong to?", options:["Operation Overlord","The Marshall Plan","The Berlin Airlift","The Manhattan Project"], answer:0},
+     {q:"Which beach did Canadian troops land on during D-Day?", options:["Utah Beach","Omaha Beach","Juno Beach","Sword Beach"], answer:2},
+     {q:"In what year did the D-Day invasion take place?", options:["1918","1867","1944","1929"], answer:2},
+     {q:"What was the overall goal of Operation Overlord?", options:["To liberate Western Europe from Nazi occupation during World War II","To establish a trade agreement","To build a new railway","To explore the Arctic"], answer:0},
+     {q:"Why is Canadas role at Juno Beach significant in Canadian history?", options:["It happened after the war had already ended","It demonstrated Canadas major military contribution to World War II","It has no significance in Canadian history","Canada did not participate in World War II"], answer:1}
+   ]},
+]},
+{day:116, label:"Day 116 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Split Infinitives and Emphatic Pronouns", summary:"Grade 7 Language strand: a split infinitive places a word between to and a verb, like to boldly go, while an emphatic pronoun, like myself or himself, adds emphasis to a noun or pronoun already mentioned.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a split infinitive?", options:["A word placed between to and a verb, such as to boldly go","A pronoun used incorrectly","A type of punctuation mark","A sentence with no verb"], answer:0},
+     {q:"Which sentence contains a split infinitive?", options:["She will finish it.","She wants to quickly finish her homework.","She wants to finish her homework quickly.","She finished her homework."], answer:1},
+     {q:"What is an emphatic pronoun?", options:["A type of conjunction","A pronoun that replaces a verb","A punctuation mark","A pronoun like myself or himself that adds emphasis"], answer:3},
+     {q:"Which sentence correctly uses an emphatic pronoun?", options:["I will do it we.","I will do it myself.","I will do it him.","I will do it they."], answer:1},
+     {q:"Is it always grammatically wrong to use a split infinitive?", options:["Only in poetry is it ever allowed","No, many modern style guides accept it when it sounds natural","Split infinitives do not exist","Yes, it is always incorrect in every case"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Precision, Accuracy, and Significant Figures", summary:"Grade 7 Math strand: accuracy describes how close a measurement is to the true value, precision describes how consistent repeated measurements are, and significant figures indicate the reliable digits in a measurement.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does accuracy describe in measurement?", options:["How close a measurement is to the true value","How many times a measurement is repeated","The cost of the measuring tool","The colour of the measuring tool"], answer:0},
+     {q:"What does precision describe?", options:["How close a measurement is to being true","The units used in a measurement","The size of the object only","How consistent repeated measurements are with each other"], answer:3},
+     {q:"Can a set of measurements be precise but not accurate?", options:["No, precision and accuracy always mean the same thing","Only accuracy exists in measurement","Yes, if they are consistent but all far from the true value","Only precision exists in measurement"], answer:2},
+     {q:"What do significant figures indicate in a measurement?", options:["Nothing meaningful at all","The reliable, meaningful digits in a number","Only the first digit of any number","The total number of digits after a decimal only"], answer:1},
+     {q:"Why do scientists care about precision and accuracy?", options:["Only estimates are ever used in science","Measurements never need to be reliable","Reliable measurements are essential for valid conclusions","Precision and accuracy have no scientific use"], answer:2}
+   ]},
+  {subject:"Science", title:"The Lymphatic System and Immunity", summary:"Grade 7 Science strand: the lymphatic system helps defend the body against infection by producing and transporting white blood cells and filtering harmful substances through lymph nodes.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is one main role of the lymphatic system?", options:["Digesting food","Producing sound","Pumping blood through the heart","Defending the body against infection"], answer:3},
+     {q:"What do lymph nodes do?", options:["Store extra fat","Produce sound waves","Control body temperature only","Filter harmful substances and support immune responses"], answer:3},
+     {q:"What type of cells does the lymphatic system help transport?", options:["Red blood cells only","Muscle cells only","Skin cells only","White blood cells"], answer:3},
+     {q:"Why might lymph nodes swell when a person is sick?", options:["Lymph nodes cannot change size","Swelling is unrelated to illness","Swelling always means the lymphatic system has failed","They are actively working to fight off infection"], answer:3},
+     {q:"The lymphatic system works closely with which other body system?", options:["The circulatory system","The reproductive system only","The skeletal system only","The digestive system only"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Continuous Journey Regulation", summary:"Grade 7 Social Studies strand: the Continuous Journey Regulation was a 1908 Canadian immigration law requiring immigrants to travel directly from their home country, effectively restricting immigration from India and other parts of Asia.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What did the Continuous Journey Regulation require of immigrants?", options:["Traveling directly, without stops, from their home country","Owning property in Canada before arrival","Nothing at all, since it applied to no one","Speaking French fluently"], answer:0},
+     {q:"What was the real effect of the Continuous Journey Regulation?", options:["It had no effect on immigration policy","It encouraged immigration from around the world equally","It only applied to European immigrants","It restricted immigration from India and other parts of Asia"], answer:3},
+     {q:"In what year was the Continuous Journey Regulation introduced?", options:["1867","1999","1908","1950"], answer:2},
+     {q:"Which later event is connected to the Continuous Journey Regulation?", options:["The Komagata Maru Incident","The Halifax Explosion","The October Crisis","The Klondike Gold Rush"], answer:0},
+     {q:"Why do historians study laws like the Continuous Journey Regulation today?", options:["To understand the history of discrimination in Canadian immigration policy","They were never actually enforced","They show only positive immigration history","These laws have no historical relevance"], answer:0}
+   ]},
+]},
+{day:117, label:"Day 117 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Foil Characters in Literature", summary:"Grade 7 Language strand: a foil character has traits that contrast sharply with a main character, and this contrast helps highlight and clarify the main characters own qualities.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a foil character?", options:["A character whose traits contrast with a main character to highlight them","A character who never appears in the story","A type of narrator","A character identical to the main character"], answer:0},
+     {q:"What is the purpose of a foil character?", options:["To replace the main character entirely","To confuse the reader about the plot","To remove all conflict from the story","To highlight and clarify the main characters qualities through contrast"], answer:3},
+     {q:"If a main character is shy, a foil character might be ___.", options:["Outgoing and bold","A narrator only","Nonexistent in the story","Also shy in the exact same way"], answer:0},
+     {q:"Foil characters are most useful for revealing ___.", options:["Only the time period of a story","Personality traits through comparison","Only the setting of a story","Nothing about the characters"], answer:1},
+     {q:"Which is an example of a foil relationship?", options:["A character and the weather","Two identical characters with no differences","A character and a map","A reckless character paired with a cautious character"], answer:3}
+   ]},
+  {subject:"Math", title:"Algebra: Solving Multi-Variable Word Problems", summary:"Grade 7 Math strand: multi-variable word problems involve translating real-world situations with more than one unknown quantity into equations, then solving step by step to find each value.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What makes a word problem multi-variable?", options:["It only involves one step","It cannot be solved with equations","It has no numbers at all","It involves more than one unknown quantity"], answer:3},
+     {q:"What is the first step in solving a multi-variable word problem?", options:["Guessing the answer randomly","Ignoring the given information","Translating the situation into one or more equations","Skipping straight to the final answer"], answer:2},
+     {q:"If two numbers add to 20 and one is 8 more than the other, what are the numbers?", options:["6 and 14","5 and 15","10 and 10","8 and 12"], answer:0},
+     {q:"Why is it helpful to define variables clearly before solving a word problem?", options:["Variables never need to be defined","Definitions make problems harder to solve","It keeps track of what each unknown quantity represents","Only one variable is ever needed"], answer:2},
+     {q:"After solving for the variables, what should you do?", options:["Check that the answers make sense in the original problem","Ignore the original problem entirely","Assume the answers are always wrong","Immediately discard the answers"], answer:0}
+   ]},
+  {subject:"Science", title:"Renewable Energy: Hydroelectric Power", summary:"Grade 7 Science strand: hydroelectric power generates electricity by using the energy of flowing or falling water to spin turbines, making it a major renewable energy source in Canada.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does hydroelectric power use to generate electricity?", options:["Burning coal","The energy of flowing or falling water","Sunlight","Wind"], answer:1},
+     {q:"What do turbines do in a hydroelectric power system?", options:["Filter pollutants from water","Heat water for cooking","Spin to convert water energy into electricity","Store water for drinking"], answer:2},
+     {q:"Why is hydroelectric power an important energy source in Canada?", options:["Canada has many rivers and lakes suited to generating hydro power","Hydro power is illegal in Canada","Canada has no water resources at all","Canada relies only on solar power"], answer:0},
+     {q:"What structure is often built to control water flow for hydroelectric power?", options:["A lighthouse","A dam","A windmill","A greenhouse"], answer:1},
+     {q:"Hydroelectric power is considered renewable because ___.", options:["It relies on burning fossil fuels","Water is used up permanently and cannot be replaced","The water cycle continually replenishes the water supply","It requires mining for coal"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Alaska Boundary Dispute", summary:"Grade 7 Social Studies strand: the Alaska Boundary Dispute was an early 20th-century disagreement between Canada and the United States over the border of the Alaska Panhandle, settled by a tribunal in 1903 in a decision many Canadians saw as unfair.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Alaska Boundary Dispute about?", options:["A dispute over fishing rights in the Pacific Ocean","A disagreement over the border of the Alaska Panhandle","A dispute over the Great Lakes","A disagreement about a railway route"], answer:1},
+     {q:"Which two countries were involved in the Alaska Boundary Dispute?", options:["Canada and the United States","The United States and Mexico","Canada and Britain only","Canada and Russia"], answer:0},
+     {q:"When was the Alaska Boundary Dispute settled?", options:["1867","1903","1950","1999"], answer:1},
+     {q:"How did many Canadians view the outcome of the dispute?", options:["As a complete victory for Canada","As unfair to Canadian interests","As having no effect on Canada","As entirely fair and favourable to Canada"], answer:1},
+     {q:"The Alaska Boundary Dispute is often cited as an example of ___.", options:["Canadas complete independence from Britain by 1903","A conflict resolved through war","Canadas limited independence in foreign affairs at the time","An issue unrelated to Canadian sovereignty"], answer:2}
+   ]},
+]},
+{day:118, label:"Day 118 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Letter of Apology", summary:"Grade 7 Language strand: a letter of apology clearly acknowledges a mistake, expresses genuine regret, and often includes a plan to make things right or avoid repeating the mistake.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What should a letter of apology clearly acknowledge?", options:["Nothing specific at all","Only unrelated topics","The mistake that was made","Only the recipients own faults"], answer:2},
+     {q:"What tone should a letter of apology typically have?", options:["Sincere and genuine","Cold and indifferent","Angry and blaming","Sarcastic and joking"], answer:0},
+     {q:"Why might a letter of apology include a plan to make things right?", options:["It replaces the need for an apology","It shifts all blame onto someone else","It shows genuine commitment to correcting the mistake","Plans are never appropriate in an apology"], answer:2},
+     {q:"Which is an example of a sincere apology statement?", options:["I do not need to apologize for anything.","I am sorry for missing our meeting, and I will confirm plans earlier next time.","It was not really my fault anyway.","Sorry, but you overreacted."], answer:1},
+     {q:"A well-written apology letter helps to ___.", options:["Repair trust and take responsibility","Avoid all responsibility","Ignore the mistake completely","Blame someone else entirely"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Circle Vocabulary — Chord, Radius, and Diameter", summary:"Grade 7 Math strand: a radius connects the centre of a circle to its edge, a diameter passes through the centre connecting two points on the edge, and a chord connects any two points on a circle without necessarily passing through the centre.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is a radius?", options:["A line from the centre of a circle to its edge","The outer edge of a circle","The area inside a circle","A line connecting any two points on a circle"], answer:0},
+     {q:"What is a diameter?", options:["Half of the radius","A line that never touches the circle","The circles area","A line passing through the centre, connecting two points on the edge"], answer:3},
+     {q:"How does the diameter relate to the radius?", options:["They are always unrelated","The diameter is always zero","The diameter is twice the length of the radius","The diameter is half the radius"], answer:2},
+     {q:"What is a chord?", options:["A measurement of a circles area","A line connecting any two points on a circle","A type of angle only","The exact centre point of a circle"], answer:1},
+     {q:"Is every diameter also a chord?", options:["No, a diameter is never a chord","A diameter is the same as a radius","Yes, because it connects two points on the circle","Only sometimes, depending on the day"], answer:2}
+   ]},
+  {subject:"Science", title:"Physics of Roller Coasters: Energy Transformations", summary:"Grade 7 Science strand: roller coasters convert potential energy at the top of hills into kinetic energy as cars speed downward, illustrating the transformation and conservation of mechanical energy.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What type of energy does a roller coaster car have at the top of a hill?", options:["Only chemical energy","No energy at all","Potential energy","Only sound energy"], answer:2},
+     {q:"What happens to potential energy as the car speeds down a hill?", options:["It stays exactly the same amount as potential energy","It converts into kinetic energy","It disappears completely","It converts into sunlight"], answer:1},
+     {q:"What is kinetic energy?", options:["The energy stored due to height","The energy of motion","The energy of light only","The energy of sound only"], answer:1},
+     {q:"Why do roller coasters usually have their highest hill first?", options:["To build up the maximum potential energy needed for the ride","To make the ride slower overall","To eliminate all kinetic energy","Height has no effect on the ride"], answer:0},
+     {q:"Roller coasters demonstrate what general scientific principle?", options:["That motion requires no energy at all","That energy can be created from nothing","That energy disappears permanently during motion","The conservation and transformation of energy"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Chanak Crisis and Canadian Foreign Policy", summary:"Grade 7 Social Studies strand: the 1922 Chanak Crisis, in which Britain asked Canada for military support without full consultation, led Canada to assert more independent control over its own foreign policy decisions.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What did Britain ask of Canada during the Chanak Crisis?", options:["Financial aid for a railway","Military support in a conflict near Turkey","Support for a trade agreement","Help building a new capital city"], answer:1},
+     {q:"When did the Chanak Crisis occur?", options:["1922","1867","1950","1999"], answer:0},
+     {q:"How did Canada respond to Britains request during the Chanak Crisis?", options:["Canada declared war on Britain","Canada immediately sent troops with no debate","Canada ignored the request entirely with no response","Canada asserted the right to decide its own foreign policy rather than automatically agreeing"], answer:3},
+     {q:"Why is the Chanak Crisis considered important in Canadian history?", options:["It occurred after Canada already had full independence","It was an early step toward greater Canadian independence in foreign affairs","It ended all ties between Canada and Britain","It had no lasting impact on Canada"], answer:1},
+     {q:"The Chanak Crisis is often studied alongside which later milestone?", options:["The Klondike Gold Rush","The Statute of Westminster","The building of the St. Lawrence Seaway","The Halifax Explosion"], answer:1}
+   ]},
+]},
+{day:119, label:"Day 119 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Loanwords from Other Languages", summary:"Grade 7 Language strand: a loanword is a word borrowed from another language and adopted into everyday use, such as ballet from French or tsunami from Japanese.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a loanword?", options:["A word borrowed from another language and adopted into common use","A word invented entirely for a single story","A type of punctuation mark","A word with no meaning"], answer:0},
+     {q:"Which English word is a loanword from French?", options:["Happy","Ballet","Table","Quickly"], answer:1},
+     {q:"Which English word is a loanword from Japanese?", options:["Water","Friend","Tsunami","House"], answer:2},
+     {q:"Why does English contain so many loanwords?", options:["English never borrows words from other languages","English has no history of language contact","English has borrowed words through centuries of contact with other languages and cultures","Loanwords are always removed from English"], answer:2},
+     {q:"Loanwords show that languages ___.", options:["Influence and enrich each other over time","Cannot change over time","Are always identical to each other","Never interact with one another"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Weighted Averages", summary:"Grade 7 Math strand: a weighted average gives different values different levels of importance before averaging, used when some data points should count more than others, such as test scores worth different percentages.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a weighted average take into account that a regular average does not?", options:["Only the largest value in a data set","Different levels of importance for different values","Only the smallest value in a data set","Nothing different from a regular average"], answer:1},
+     {q:"When might a weighted average be more appropriate than a simple average?", options:["Only when there is a single data point","Weighted averages are never useful","When some values, like test scores, should count more than others","When every value is exactly equal in importance"], answer:2},
+     {q:"If a test is worth 70% of a grade and a quiz is worth 30%, this reflects ___.", options:["A weighted average calculation","An irrelevant piece of information","A probability calculation","A simple, unweighted average"], answer:0},
+     {q:"In a weighted average, values with a higher weight ___.", options:["Are always ignored","Have a greater effect on the final result","Have no effect on the result","Cancel out other values completely"], answer:1},
+     {q:"Weighted averages are commonly used to calculate ___.", options:["The temperature outside","The shape of a triangle","Final course grades from multiple assessments","The colour of a graph"], answer:2}
+   ]},
+  {subject:"Science", title:"Coral Reefs and Ocean Ecosystems", summary:"Grade 7 Science strand: coral reefs are diverse underwater ecosystems built by tiny coral organisms, providing habitat for countless marine species while being sensitive to changes in ocean temperature and acidity.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What builds a coral reef?", options:["Underwater volcanoes only","Ocean currents alone","Large fish only","Tiny coral organisms"], answer:3},
+     {q:"Why are coral reefs considered important ecosystems?", options:["They exist only in freshwater lakes","They support no marine life at all","They have no ecological importance","They provide habitat for a huge diversity of marine species"], answer:3},
+     {q:"What environmental changes can harm coral reefs?", options:["Increased oxygen levels only","Rising ocean temperature and increased acidity","Cooler ocean temperatures only","Decreased sunlight only, with no other cause"], answer:1},
+     {q:"What is coral bleaching?", options:["A process that makes coral healthier","A type of coral reproduction","A stress response where coral loses its colour and often dies without recovery","A natural, harmless colour change with no consequences"], answer:2},
+     {q:"Coral reefs are sometimes called the rainforests of the sea because ___.", options:["They support extremely high levels of biodiversity","They are located on land","They contain actual trees underwater","They have no living organisms"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Wheat Board and the Grain Industry", summary:"Grade 7 Social Studies strand: the Canadian Wheat Board was a government-created organization that once controlled the marketing and sale of wheat and barley from Western Canadian farmers, playing a major role in the prairie grain industry for decades.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What did the Canadian Wheat Board historically control?", options:["The entire Canadian banking system","The construction of national parks","All immigration into Canada","The marketing and sale of wheat and barley from Western Canadian farmers"], answer:3},
+     {q:"Which region of Canada was most affected by the Canadian Wheat Board?", options:["Northern territories only","Southern Ontario only","The Atlantic provinces","The Prairie provinces"], answer:3},
+     {q:"Why might farmers have supported a single marketing organization like the Wheat Board?", options:["It gave them collective bargaining power when selling their grain","It had no effect on farmers incomes","It only benefited large corporations, never farmers","It prevented farmers from ever selling their grain"], answer:0},
+     {q:"The grain industry has historically been a major part of which sector of the Canadian economy?", options:["Fishing","Mining","Agriculture","Aerospace"], answer:2},
+     {q:"Studying the Canadian Wheat Board helps students understand ___.", options:["Only Canadian foreign policy","Only modern technology","Only urban city planning","The role of government in regulating agricultural economies"], answer:3}
+   ]},
+]},
+{day:120, label:"Day 120 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Vocabulary, and Reading Strategies", summary:"Grade 7 Language strand review: students revisit sentence fragments, portmanteau words, extended metaphor, clickbait headlines, split infinitives and emphatic pronouns, foil characters, and loanwords.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a sentence fragment?", options:["A sentence that is too long","A type of poem","A sentence with perfect grammar","An incomplete sentence missing a subject, verb, or complete thought"], answer:3},
+     {q:"What is a portmanteau word?", options:["A word that blends the sounds and meanings of two words","A word borrowed directly from another language unchanged","A punctuation mark","A word with only one syllable"], answer:0},
+     {q:"What is an extended metaphor?", options:["A comparison developed across multiple lines or an entire text","A comparison used only once in a single sentence","A literal statement with no comparison","A type of punctuation"], answer:0},
+     {q:"What is a foil character?", options:["A character who never appears in the story","A character whose traits contrast with a main character to highlight them","A character identical to the main character","A type of narrator"], answer:1},
+     {q:"What is a loanword?", options:["A word borrowed from another language and adopted into common use","A word with no meaning","A word invented entirely for a single story","A type of punctuation mark"], answer:0}
+   ]},
+  {subject:"Math", title:"Math Review: Geometry, Measurement, and Data", summary:"Grade 7 Math strand review: students revisit angle of elevation and depression, dot plots, inflation, nets of 3D shapes, precision and significant figures, circle vocabulary, and weighted averages.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is the angle of elevation?", options:["The angle between two parallel lines","A type of right angle only","The angle looking upward from a horizontal line to an object","The angle looking straight down"], answer:2},
+     {q:"What is inflation?", options:["A general fall in prices over time","A general rise in prices over time","A fixed price that never changes","A type of bank account"], answer:1},
+     {q:"What is a net in geometry?", options:["A three-dimensional solid with no flat sides","A measurement of volume only","A type of graph","A two-dimensional pattern that folds into a 3D shape"], answer:3},
+     {q:"What is a diameter?", options:["A line that never touches the circle","The circles area","Half of the radius","A line passing through the centre, connecting two points on the edge"], answer:3},
+     {q:"What does a weighted average take into account that a regular average does not?", options:["Nothing different from a regular average","Only the largest value in a data set","Only the smallest value in a data set","Different levels of importance for different values"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Body Systems, Energy, and Ecosystems", summary:"Grade 7 Science strand review: students revisit the human eye, wind power, chemical changes, pollination and seed dispersal, bird beak adaptations, the lymphatic system, hydroelectric power, roller coaster energy, and coral reefs.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does the eye focus light onto?", options:["The skin","The stomach lining","The retina","The eardrum"], answer:2},
+     {q:"What do wind turbines convert into electricity?", options:["The kinetic energy of moving air","Heat from the ground","Sunlight","Chemical energy from fuel"], answer:0},
+     {q:"What is pollination?", options:["The process of a plant losing its leaves","The process of a plant absorbing water","A type of photosynthesis","The transfer of pollen that allows plants to reproduce"], answer:3},
+     {q:"What does hydroelectric power use to generate electricity?", options:["The energy of flowing or falling water","Wind","Sunlight","Burning coal"], answer:0},
+     {q:"What builds a coral reef?", options:["Underwater volcanoes only","Large fish only","Ocean currents alone","Tiny coral organisms"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: 20th-Century Canadian History", summary:"Grade 7 Social Studies strand review: students revisit the Avro Arrow, the Regina Riot and On-to-Ottawa Trek, the Korean War, the creation of Nunavut, D-Day, the Continuous Journey Regulation, the Alaska Boundary Dispute, and the Chanak Crisis.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the Avro Arrow?", options:["An advanced Canadian-built jet fighter","A famous Canadian ship","A Canadian currency design","A type of train"], answer:0},
+     {q:"What event stopped the On-to-Ottawa Trek and turned violent in 1935?", options:["The Winnipeg General Strike","The Regina Riot","The Halifax Explosion","The October Crisis"], answer:1},
+     {q:"In what year was Nunavut created?", options:["1999","1949","2020","1867"], answer:0},
+     {q:"Which beach did Canadian troops land on during D-Day?", options:["Utah Beach","Juno Beach","Sword Beach","Omaha Beach"], answer:1},
+     {q:"What did Britain ask of Canada during the Chanak Crisis?", options:["Financial aid for a railway","Support for a trade agreement","Help building a new capital city","Military support in a conflict near Turkey"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
