@@ -4322,6 +4322,386 @@ const curriculum: DayContent[] = [
      {q:"What was Métis scrip intended to grant recipients?", options:["Free university education","Land or money in recognition of their claims","A concept unrelated to the Métis scrip system","Government jobs with no other benefits"], answer:1}
    ]},
 ]},
+{day:111, label:"Day 111 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Emphatic Pronouns and Intensifiers", summary:"Grade 8 Language strand: emphatic pronouns like myself or himself add emphasis to a noun already mentioned, while intensifiers such as very or extremely strengthen the meaning of an adjective or adverb.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is the purpose of an emphatic pronoun?", options:["To add emphasis to a noun or pronoun already mentioned","To replace a verb entirely","To act as a question word","To function as a preposition"], answer:0},
+     {q:"Which sentence correctly uses an emphatic pronoun?", options:["The principal announced the news herself very.","The principal herself announced the news.","The principal announced herself the news.","Herself the principal announced the news."], answer:1},
+     {q:"What is an intensifier?", options:["A punctuation mark","A word that strengthens the meaning of an adjective or adverb","A word that replaces a noun","A type of conjunction"], answer:1},
+     {q:"Which word functions as an intensifier in the sentence She was extremely tired?", options:["Tired","Extremely","Was","She"], answer:1},
+     {q:"Why should writers use intensifiers sparingly in formal writing?", options:["Intensifiers always strengthen writing no matter how often used","Intensifiers are grammatically forbidden in all writing","Formal writing requires intensifiers in every sentence","Overusing them can weaken the precision and impact of the writing"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Introduction to Vectors — Addition and the Dot Product", summary:"Grade 8 Math strand: a vector has both magnitude and direction, vectors can be added by combining their components, and the dot product multiplies two vectors to produce a single scalar value.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What two properties does a vector have?", options:["Only magnitude","Only direction","Neither magnitude nor direction","Magnitude and direction"], answer:3},
+     {q:"How are two vectors typically added when given in component form?", options:["By ignoring direction entirely","By adding their corresponding components","By multiplying their magnitudes only","By subtracting their directions"], answer:1},
+     {q:"What does the dot product of two vectors produce?", options:["A single scalar value","A new vector with a different direction only","An imaginary number","A matrix"], answer:0},
+     {q:"If vector A = (2, 3) and vector B = (1, 4), what is A + B?", options:["(3, 7)","(3, 3)","(2, 12)","(1, 1)"], answer:0},
+     {q:"Vectors are useful for representing real-world quantities such as ___.", options:["Only mass, which has no direction","Only time, which has no direction","Force and velocity, which have both size and direction","Only temperature, which has no direction"], answer:2}
+   ]},
+  {subject:"Science", title:"The Integumentary System: Skin, Hair, and Nails", summary:"Grade 8 Science strand: the integumentary system, made up of skin, hair, and nails, protects the body from injury and infection, regulates temperature, and provides sensory information.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What organs make up the integumentary system?", options:["The stomach and intestines","The brain and spinal cord","Skin, hair, and nails","The heart and lungs"], answer:2},
+     {q:"What is one major function of the skin?", options:["Digesting food","Pumping blood throughout the body","Producing sound","Protecting the body from injury and infection"], answer:3},
+     {q:"How does the integumentary system help regulate body temperature?", options:["By filtering air in the lungs","Through sweating and blood vessel changes near the skins surface","By producing digestive enzymes","It has no role in temperature regulation"], answer:1},
+     {q:"What sensory information can skin provide?", options:["Balance only","Taste only","Sound only","Touch, pressure, and temperature"], answer:3},
+     {q:"Why is the integumentary system considered the bodys largest organ system?", options:["It has no measurable size","It is smaller than a single cell","Skin covers the entire external surface of the body","It is located only in one small area"], answer:2}
+   ]},
+  {subject:"History", title:"The Internment of Ukrainian Canadians During World War I", summary:"Grade 8 History strand: during World War I, thousands of Ukrainian Canadians and other Eastern Europeans were classified as enemy aliens and interned in camps, an event now recognized as a violation of civil liberties.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What happened to many Ukrainian Canadians during World War I?", options:["They were elected to Parliament","They were granted full citizenship immediately","Nothing changed for them at all","They were classified as enemy aliens and interned in camps"], answer:3},
+     {q:"Under what law were Ukrainian Canadians interned during WWI?", options:["The Multiculturalism Act","The Canadian Bill of Rights","The Indian Act","The War Measures Act"], answer:3},
+     {q:"How is the internment of Ukrainian Canadians viewed by historians today?", options:["As a completely justified wartime policy with no controversy","As an event that never actually happened","As a violation of civil liberties","As a policy that benefited those interned"], answer:2},
+     {q:"Which other group experienced a similar internment policy during a later war?", options:["American immigrants during the 1980s","British immigrants during the 1920s","Japanese Canadians during World War II","French Canadians during the 1960s"], answer:2},
+     {q:"Why do students study events like the Ukrainian Canadian internment today?", options:["To celebrate the internment policy","These events have no relevance to modern Canada","Because no records of it exist","To understand the impact of wartime policies on civil rights"], answer:3}
+   ]},
+]},
+{day:112, label:"Day 112 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Onomatopoeia and Sound Devices", summary:"Grade 8 Language strand: onomatopoeia uses words that imitate sounds, such as crash or hiss, and is one of several sound devices, including alliteration and assonance, that writers use to create rhythm and imagery.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is onomatopoeia?", options:["A grammar rule about verb tense","A citation style","Words that imitate the sounds they describe","A type of punctuation"], answer:2},
+     {q:"Which word is an example of onomatopoeia?", options:["Beautiful","Table","Hiss","Quickly"], answer:2},
+     {q:"What is alliteration, another common sound device?", options:["A citation format","The repetition of beginning consonant sounds in nearby words","A word that imitates a sound","A type of rhyme scheme only"], answer:1},
+     {q:"What is assonance?", options:["The repetition of consonant sounds at the start of words","The repetition of vowel sounds within nearby words","A punctuation mark","A type of paragraph structure"], answer:1},
+     {q:"Why do writers use sound devices like onomatopoeia and alliteration?", options:["To make writing more difficult to understand on purpose","Sound devices have no effect on writing","To remove all imagery from a text","To create rhythm and vivid imagery in their writing"], answer:3}
+   ]},
+  {subject:"Math", title:"Algebra: Matrix Multiplication and Determinants", summary:"Grade 8 Math strand: matrix multiplication combines rows and columns of two matrices to produce a new matrix, and the determinant of a 2x2 matrix is a single value calculated from its entries that indicates properties like invertibility.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is required to multiply two matrices together?", options:["The number of columns in the first matrix must match the number of rows in the second","The matrices must always be the same size","Only square matrices can exist","Matrices can never be multiplied together"], answer:0},
+     {q:"What does the determinant of a matrix indicate?", options:["The exact size of the matrix only","Properties of the matrix, such as whether it can be inverted","Nothing useful about the matrix","The colour used to represent the matrix"], answer:1},
+     {q:"For a 2x2 matrix with entries a, b, c, d, how is the determinant calculated?", options:["a minus b minus c minus d","a plus b plus c plus d","ad minus bc","a times b times c times d"], answer:2},
+     {q:"If a matrixs determinant is zero, what does this typically indicate?", options:["The matrix is always the identity matrix","The matrix cannot be inverted","The matrix has no entries","The matrix is always square"], answer:1},
+     {q:"Matrix multiplication and determinants are used in fields such as ___.", options:["Only music composition","Only weather forecasting","Only cooking and recipes","Computer graphics and solving systems of equations"], answer:3}
+   ]},
+  {subject:"Science", title:"The Excretory System: Kidneys and Waste Removal", summary:"Grade 8 Science strand: the excretory system, especially the kidneys, filters waste products and excess water from the blood, producing urine and helping maintain the bodys internal balance.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is the main function of the excretory system?", options:["Digesting food in the stomach","Producing sound for speech","Filtering waste products and excess water from the blood","Pumping blood throughout the body"], answer:2},
+     {q:"Which organs are the primary filters in the excretory system?", options:["The heart","The lungs","The liver only","The kidneys"], answer:3},
+     {q:"What waste product do the kidneys help remove from the body?", options:["Only sweat","Urine, containing filtered waste and excess water","Only saliva","Only carbon dioxide"], answer:1},
+     {q:"Why is maintaining fluid balance in the body important?", options:["It supports proper function of cells and organs","Only muscles are affected by fluid balance","The body never needs to balance fluids","Fluid balance has no effect on the body"], answer:0},
+     {q:"The excretory system works to keep the bodys internal environment ___.", options:["Completely dependent on outside temperature","Unrelated to overall health","Stable and balanced (homeostasis)","Constantly changing with no regulation"], answer:2}
+   ]},
+  {subject:"History", title:"Newfoundland Joins Confederation in 1949", summary:"Grade 8 History strand: Newfoundland became Canadas tenth province in 1949 after a close referendum vote, joining Confederation over 80 years after the original four provinces united in 1867.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year did Newfoundland join Confederation?", options:["1949","1905","1867","1999"], answer:0},
+     {q:"How did Newfoundland decide to join Canada?", options:["Through a coin flip","Through a military conflict","Through a close referendum vote","Through a unilateral government decision with no vote"], answer:2},
+     {q:"What number province did Newfoundland become?", options:["The first province","The tenth province","The fifth province","The last territory"], answer:1},
+     {q:"How many years after the original Confederation of 1867 did Newfoundland join?", options:["Only 5 years later","Over 200 years later","Immediately in 1867","Over 80 years later"], answer:3},
+     {q:"Why is Newfoundlands entry into Confederation historically significant?", options:["It caused Canada to lose a province","It had no impact on Canadian history","It happened before Canada existed","It completed a major stage of Canadas territorial expansion"], answer:3}
+   ]},
+]},
+{day:113, label:"Day 113 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Juxtaposition and Contrast", summary:"Grade 8 Language strand: juxtaposition places two contrasting elements side by side in a text, highlighting their differences and creating deeper meaning or emphasis for the reader.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is juxtaposition?", options:["Combining two similar ideas into one","Placing two contrasting elements side by side","A grammar rule for verb tense","A type of punctuation mark"], answer:1},
+     {q:"What effect does juxtaposition typically create?", options:["It eliminates the need for description","It removes all meaning from a text","It always confuses the reader with no purpose","It highlights differences and creates deeper meaning"], answer:3},
+     {q:"Which is an example of juxtaposition?", options:["Describing only one setting throughout a story","Listing facts with no comparison","Describing a wealthy neighbourhood right next to a description of poverty","Using only dialogue with no description"], answer:2},
+     {q:"Why might an author use juxtaposition when introducing two characters?", options:["To make the characters seem identical","To emphasize how different the characters are from each other","To avoid describing either character","To remove conflict from the story"], answer:1},
+     {q:"Juxtaposition can be used to explore contrasts such as ___.", options:["Only weather patterns","Wealth and poverty, or hope and despair","Only numbers and equations","Only geographic locations with no meaning"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Theory: Modular Exponentiation and Cryptography Basics", summary:"Grade 8 Math strand: modular exponentiation raises a number to a power and then finds the remainder after dividing by a modulus, a key operation used in modern cryptography to keep digital information secure.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does modular exponentiation calculate?", options:["The average of a data set","The sum of two numbers","Only the square root of a number","A number raised to a power, then reduced by a modulus"], answer:3},
+     {q:"Why is modular exponentiation important in modern technology?", options:["It has no practical use","It underlies cryptographic methods used to keep digital information secure","It is only used in ancient mathematics with no modern application","It replaces the need for passwords entirely"], answer:1},
+     {q:"What is 2 to the power of 5, mod 7?", options:["0","7","4","32"], answer:2},
+     {q:"What does the term modulus refer to?", options:["The final answer in any equation","A type of matrix","The number by which another number is divided to find the remainder","A type of vector"], answer:2},
+     {q:"Cryptography uses mathematical operations like modular exponentiation to ___.", options:["Slow down computers intentionally","Make all information public and unprotected","Remove the need for the internet","Encrypt and protect sensitive information"], answer:3}
+   ]},
+  {subject:"Science", title:"Antibiotic Resistance: A Modern Challenge", summary:"Grade 8 Science strand: antibiotic resistance occurs when bacteria evolve to survive medicines designed to kill them, a growing global health challenge driven partly by the overuse and misuse of antibiotics.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is antibiotic resistance?", options:["When bacteria evolve to survive medicines designed to kill them","When a virus becomes weaker over time","When bacteria disappear completely","When a medicine works better over time"], answer:0},
+     {q:"What is one major cause of increasing antibiotic resistance?", options:["Using antibiotics too rarely","The overuse and misuse of antibiotics","Eating a balanced diet","Regular exercise"], answer:1},
+     {q:"Why is antibiotic resistance considered a global health challenge?", options:["It has no effect on human health","It makes some bacterial infections much harder to treat","It only affects animals, never humans","It makes all infections easier to cure"], answer:1},
+     {q:"What can individuals do to help reduce antibiotic resistance?", options:["Share leftover antibiotics with others","Take antibiotics for every illness, including viral infections","Only take antibiotics when prescribed and finish the full course","Stop taking antibiotics as soon as symptoms improve"], answer:2},
+     {q:"Antibiotic resistance is an example of what broader biological process?", options:["Natural selection acting on bacterial populations","A process unrelated to evolution","A process that only affects humans","A permanently fixed, unchanging trait"], answer:0}
+   ]},
+  {subject:"History", title:"Canadas Separate Declaration of War in 1939", summary:"Grade 8 History strand: unlike in 1914, Canada made its own separate declaration of war against Germany in September 1939, a week after Britain, reflecting its growing independence in foreign affairs.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What did Canada do differently in 1939 compared to 1914 regarding war?", options:["Canada had no role in the decision","Canada refused to join the war at all","Canada declared war before Britain did","Canada made its own separate declaration of war"], answer:3},
+     {q:"Roughly how long after Britain did Canada declare war in 1939?", options:["Canada never declared war","The same exact day","Several years later","About a week later"], answer:3},
+     {q:"What does Canadas separate declaration of war reflect?", options:["Its growing independence in foreign affairs","A refusal to participate in international conflict","Its complete lack of independence from Britain","A decision made entirely by the United States"], answer:0},
+     {q:"In 1914, how did Canada enter World War I?", options:["Only after being invaded","Through a separate declaration like in 1939","Automatically, because Britain was at war","Canada did not participate in World War I"], answer:2},
+     {q:"Why is the 1939 declaration considered a milestone in Canadian history?", options:["It reversed all previous Canadian independence","It had no connection to Canadian sovereignty","It showed Canada acting as an independent nation on the world stage","It made Canada part of a different country"], answer:2}
+   ]},
+]},
+{day:114, label:"Day 114 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing an Eyewitness News Report", summary:"Grade 8 Language strand: an eyewitness news report presents a firsthand account of an event, combining factual details with vivid, sensory description to help readers understand what the writer observed.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does an eyewitness news report present?", options:["A persuasive argument with no facts","A summary of unrelated events","A firsthand account of an event","A purely fictional story"], answer:2},
+     {q:"What should an eyewitness report combine with factual details?", options:["Only technical jargon","Random unrelated opinions","Vivid, sensory description","Only statistics with no description"], answer:2},
+     {q:"Why is sensory description important in an eyewitness report?", options:["It confuses the reader on purpose","It replaces the need for any facts","It helps readers understand what the writer actually observed","Description is never necessary in news writing"], answer:2},
+     {q:"Which is an example of strong eyewitness detail?", options:["Something happened somewhere.","The smoke curled upward as sirens wailed in the distance.","An event occurred.","No details are available."], answer:1},
+     {q:"An eyewitness report differs from an opinion piece because it focuses on ___.", options:["Only the writers personal opinions with no facts","Fictional characters and settings","What the writer directly observed and experienced","Predicting future events with no basis"], answer:2}
+   ]},
+  {subject:"Math", title:"Probability: An Introduction to Bayes Theorem", summary:"Grade 8 Math strand: Bayes Theorem updates the probability of an event based on new information, combining prior knowledge with new evidence to calculate a more accurate conditional probability.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does Bayes Theorem help calculate?", options:["The volume of a 3D shape","The average of a data set","An updated probability based on new evidence","A fixed probability that never changes"], answer:2},
+     {q:"What two things does Bayes Theorem combine?", options:["Only geometric shapes","Only historical data with no update","Only random guesses","Prior knowledge and new evidence"], answer:3},
+     {q:"Bayes Theorem is closely related to which earlier probability concept?", options:["Surface area","The Pythagorean theorem","Conditional probability","Linear equations"], answer:2},
+     {q:"Why is Bayes Theorem useful in fields like medicine?", options:["It helps update the likelihood of a diagnosis as new test results come in","It eliminates the need for any testing","It only applies to games of chance","It has no real-world applications"], answer:0},
+     {q:"If new evidence strongly supports an event, Bayes Theorem would typically ___.", options:["Make the event impossible","Have no effect on the probability at all","Increase the probability estimate for that event","Always decrease the probability to zero"], answer:2}
+   ]},
+  {subject:"Science", title:"The Chemistry of Fireworks", summary:"Grade 8 Science strand: fireworks produce colour and light through chemical reactions involving metal compounds, each element burning to create a distinct colour, combined with oxidizers and fuel to power the explosion.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What causes the different colours seen in fireworks?", options:["The temperature of the air alone","The time of day the firework is launched","Different metal compounds burning during the chemical reaction","The shape of the firework container"], answer:2},
+     {q:"What is the role of an oxidizer in a firework?", options:["It provides oxygen to help the firework burn","It cools down the reaction completely","It has no chemical role at all","It prevents any explosion from occurring"], answer:0},
+     {q:"Which metal compound might produce a red colour in fireworks?", options:["Only water","Strontium compounds","Only plain carbon","Only plain oxygen"], answer:1},
+     {q:"Fireworks rely on what type of chemical reaction to produce light and sound?", options:["Combustion reactions","Only dissolving reactions","Only physical changes with no reaction","Only freezing reactions"], answer:0},
+     {q:"Why do chemists study the composition of fireworks?", options:["Chemistry has no connection to fireworks","Fireworks have no chemical composition","Fireworks never involve any reactions","To understand and control the colours, safety, and effects produced"], answer:3}
+   ]},
+  {subject:"History", title:"The National Policy of 1879", summary:"Grade 8 History strand: the National Policy of 1879, introduced by Prime Minister John A. Macdonald, used high tariffs on imported goods to protect Canadian manufacturing while encouraging western settlement and railway expansion.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"Who introduced the National Policy of 1879?", options:["Prime Minister John A. Macdonald","Prime Minister Pierre Trudeau","Prime Minister Lester Pearson","Prime Minister Wilfrid Laurier"], answer:0},
+     {q:"What economic tool did the National Policy rely on?", options:["High tariffs on imported goods","Lower taxes on all foreign goods","Free trade with no tariffs at all","A complete ban on all imports"], answer:0},
+     {q:"What was one goal of the National Policy?", options:["Protecting Canadian manufacturing from foreign competition","Ending western settlement completely","Reducing railway construction","Eliminating all Canadian industry"], answer:0},
+     {q:"Besides tariffs, what else did the National Policy encourage?", options:["The closing of Canadian borders to trade entirely","Western settlement and railway expansion","The abandonment of the Prairies","A reduction in Canadas population"], answer:1},
+     {q:"Why is the National Policy considered a major economic strategy in Canadian history?", options:["It only affected a small town","It had no lasting economic effect","It was reversed within a single year","It shaped Canadas industrial and economic development for decades"], answer:3}
+   ]},
+]},
+{day:115, label:"Day 115 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Memes and Internet Culture", summary:"Grade 8 Language strand: memes spread ideas and humour quickly through images, text, and repetition, and analyzing them critically helps readers understand how internet culture shapes communication and public opinion.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a meme?", options:["A formal academic essay","A type of legal document","An image, video, or piece of text that spreads ideas or humour quickly online","A printed newspaper article"], answer:2},
+     {q:"How do memes typically spread?", options:["Through sharing, repetition, and adaptation across the internet","Only through printed newspapers","Only through formal presentations","They cannot spread at all"], answer:0},
+     {q:"Why is it useful to analyze memes critically?", options:["Memes are always completely factual","To understand how internet culture shapes communication and opinion","Critical analysis is never useful for internet content","Memes have no influence on culture or opinion"], answer:1},
+     {q:"What technique do memes often use to convey meaning quickly?", options:["Silence with no content at all","Long, detailed paragraphs with no images","Complex legal language","Combining a familiar image with concise text"], answer:3},
+     {q:"Memes can be considered a form of ___.", options:["Formal government documents","Scientific research papers only","Ancient handwritten manuscripts","Modern digital communication and cultural commentary"], answer:3}
+   ]},
+  {subject:"Math", title:"Discrete Math: Introduction to Graph Theory", summary:"Grade 8 Math strand: graph theory studies networks made of nodes (or vertices) connected by edges, used to model relationships and connections in systems like social networks, maps, and computer networks.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What are the two basic components of a graph in graph theory?", options:["Only fractions","Only numbers","Only angles","Nodes (vertices) and edges"], answer:3},
+     {q:"What does an edge in a graph represent?", options:["A connection between two nodes","The total size of the graph","The colour of the graph","A single isolated point"], answer:0},
+     {q:"Which real-world system could be modeled using graph theory?", options:["The colour of the sky","The taste of a food","A social network showing connections between people","The freezing point of water"], answer:2},
+     {q:"In graph theory, a node with many connecting edges is often called ___.", options:["An imaginary node","A deleted node","An isolated node","A highly connected or high-degree node"], answer:3},
+     {q:"Graph theory is especially useful in fields such as ___.", options:["Computer science and network design","Only painting and drawing","Only cooking and recipes","Only music composition"], answer:0}
+   ]},
+  {subject:"Science", title:"The Physics of Rainbows and Light Dispersion", summary:"Grade 8 Science strand: rainbows form when sunlight is refracted, reflected, and dispersed by water droplets in the air, splitting white light into its full spectrum of colours.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What causes a rainbow to form?", options:["Wind blowing dust into the air","Sunlight passing through solid glass only","Sound waves bending around clouds","Sunlight being refracted, reflected, and dispersed by water droplets"], answer:3},
+     {q:"What is light dispersion?", options:["The complete disappearance of light","The splitting of white light into its full spectrum of colours","The merging of colours into black","The blocking of all light entirely"], answer:1},
+     {q:"What does a water droplet do to sunlight to create a rainbow?", options:["Turns light into sound","Refracts and reflects it, separating the colours","Absorbs all light with no reflection","Blocks light completely"], answer:1},
+     {q:"What is the correct order of colours typically seen in a rainbow?", options:["Red, orange, yellow, green, blue, indigo, violet","Random colours with no pattern","Black, white, grey, and brown only","Only red and blue"], answer:0},
+     {q:"Why can rainbows sometimes be seen after rain on a sunny day?", options:["Rainbows require no water at all","Sunlight interacts with remaining water droplets in the air","Rainbows only form underwater","Rainbows only occur at night"], answer:1}
+   ]},
+  {subject:"History", title:"The Royal Commission on Bilingualism and Biculturalism", summary:"Grade 8 History strand: established in 1963, the Royal Commission on Bilingualism and Biculturalism examined the relationship between English and French Canadians, leading to major policies like the Official Languages Act.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"When was the Royal Commission on Bilingualism and Biculturalism established?", options:["1963","1949","1999","1867"], answer:0},
+     {q:"What relationship did the Commission examine?", options:["The relationship between provinces and territories only","The relationship between Canada and the United States","The relationship between English and French Canadians","The relationship between Canada and Britain only"], answer:2},
+     {q:"What major policy resulted from the Commissions recommendations?", options:["The Indian Act","The Canadian Bill of Rights","The Official Languages Act","The Multiculturalism Act"], answer:2},
+     {q:"Why was the Commission created during this period of Canadian history?", options:["Growing concerns about French Canadian rights and national unity","To create a new national anthem","To eliminate the English language entirely","To end all use of the French language in Canada"], answer:0},
+     {q:"The work of this Commission connects most closely to which other Canadian historical development?", options:["The Halifax Explosion","Quebecs Quiet Revolution and growing calls for recognition","The Klondike Gold Rush","The building of the CPR"], answer:1}
+   ]},
+]},
+{day:116, label:"Day 116 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Understanding Ellipsis and Omission in Writing", summary:"Grade 8 Language strand: an ellipsis (...) shows an omission of words from a quotation or indicates a trailing off or pause in thought, and using it correctly helps writers condense or shape meaning without distorting the original text.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does an ellipsis indicate when used in a direct quotation?", options:["That words have been omitted from the original text","That the writer disagrees with the quotation","That the sentence has ended with a question","That the entire quotation is false"], answer:0},
+     {q:"An ellipsis can also show what in dialogue?", options:["A complete stop with no further meaning","A pause or trailing off in thought","A shout or exclamation only","A grammatical error"], answer:1},
+     {q:"How many dots typically make up a standard ellipsis?", options:["One","Two","Five","Three"], answer:3},
+     {q:"Why must writers be careful when omitting words from a quotation with an ellipsis?", options:["Ellipses have no effect on meaning","Omitting words could distort the original meaning if done carelessly","Ellipses always make quotations more accurate","Omitting words is never allowed under any circumstance"], answer:1},
+     {q:"Which sentence correctly uses an ellipsis to show a trailing thought?", options:["I was going to say; never mind","I was going to say... never mind.","I was going to say, never, mind","I was going to say never mind"], answer:1}
+   ]},
+  {subject:"Math", title:"Algebra: The Fundamental Theorem of Algebra", summary:"Grade 8 Math strand: the Fundamental Theorem of Algebra states that every polynomial equation of degree n has exactly n roots when counting complex and repeated roots, connecting algebra to the earlier study of complex numbers.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does the Fundamental Theorem of Algebra state?", options:["A polynomial of degree n has exactly n roots, counting complex and repeated roots","A polynomial always has zero roots","Polynomials never have complex roots","Only linear equations have any roots"], answer:0},
+     {q:"How many roots does a degree-3 polynomial have according to this theorem?", options:["One","Zero","Infinite","Three"], answer:3},
+     {q:"What earlier math concept does this theorem connect to?", options:["Only whole numbers","Only fractions","Complex and imaginary numbers","Only negative integers"], answer:2},
+     {q:"Can a polynomials roots include complex numbers?", options:["Only irrational roots are allowed","Yes, according to the Fundamental Theorem of Algebra","No, roots must always be whole numbers","No, roots must always be negative"], answer:1},
+     {q:"Why is the Fundamental Theorem of Algebra considered important in mathematics?", options:["It only applies to equations with no variables","It proves that polynomials have no solutions","It guarantees a predictable number of solutions for polynomial equations","It disproves the existence of complex numbers"], answer:2}
+   ]},
+  {subject:"Science", title:"Bird Migration and Animal Navigation", summary:"Grade 8 Science strand: many animals, especially migratory birds, travel long distances using cues like the position of the sun and stars, Earths magnetic field, and landmarks to navigate accurately.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is bird migration?", options:["A permanent move with no return","A method of finding food only within one location","A type of hibernation","The seasonal, long-distance travel of birds between habitats"], answer:3},
+     {q:"What is one cue animals use to navigate during migration?", options:["The colour of nearby buildings","Random guessing with no cues","The price of local food sources","Earths magnetic field"], answer:3},
+     {q:"Why might birds migrate seasonally?", options:["Migration serves no biological purpose","To permanently leave their habitat forever","To avoid other birds entirely","To find better food sources and breeding conditions"], answer:3},
+     {q:"Besides Earths magnetic field, what other cues can animals use to navigate?", options:["Only human-made maps","Only nearby traffic sounds","Only the colour of the sky","The position of the sun and stars"], answer:3},
+     {q:"What term describes an animals ability to sense Earths magnetic field for navigation?", options:["Magnetoreception","Osmosis","Echolocation","Photosynthesis"], answer:0}
+   ]},
+  {subject:"History", title:"The Manitoba Schools Question", summary:"Grade 8 History strand: the Manitoba Schools Question was a major late 19th-century political and legal conflict over funding for French-language Catholic schools in Manitoba, highlighting tensions between English and French Canada.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What was the Manitoba Schools Question mainly about?", options:["Funding for French-language Catholic schools in Manitoba","A disagreement about provincial borders","A dispute over railway construction","A conflict over fishing rights"], answer:0},
+     {q:"What tension did the Manitoba Schools Question highlight?", options:["Tensions between Indigenous and settler communities only","Tensions between Canada and the United States","Tensions between Canada and Britain only","Tensions between English and French Canada"], answer:3},
+     {q:"Roughly when did the Manitoba Schools Question take place?", options:["In the 1600s","It has not happened yet","In the late 1800s","In the 1990s"], answer:2},
+     {q:"Why is the Manitoba Schools Question significant in Canadian history?", options:["It reflects ongoing debates over minority language rights in Canada","It has no connection to Canadian identity","It resolved all language issues in Canada permanently","It only affected a single school"], answer:0},
+     {q:"The Manitoba Schools Question is often studied alongside later debates about ___.", options:["Bilingualism and minority language education rights","The Klondike Gold Rush","The construction of the Avro Arrow","Canadas relationship with the United Nations"], answer:0}
+   ]},
+]},
+{day:117, label:"Day 117 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Hyperbole, Understatement, and Paradox", summary:"Grade 8 Language strand: hyperbole exaggerates for effect, understatement deliberately downplays something significant, and a paradox presents a statement that seems contradictory but reveals a deeper truth.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is hyperbole?", options:["Exaggeration used for effect","A contradictory statement revealing truth","A type of punctuation mark","A statement that deliberately downplays something"], answer:0},
+     {q:"Which sentence is an example of hyperbole?", options:["The sky is blue.","It might rain later today.","She walked to school.","I have told you a million times to clean your room."], answer:3},
+     {q:"What is understatement?", options:["Deliberately downplaying something significant","A citation format","A grammar rule about verb tense","Exaggerating something beyond reality"], answer:0},
+     {q:"Which sentence is an example of understatement about a huge storm?", options:["The storm was extremely and incredibly powerful.","It was a bit windy outside.","It was the most catastrophic storm in history and destroyed everything.","The storm was the biggest ever recorded."], answer:1},
+     {q:"What is a paradox?", options:["A type of onomatopoeia","A statement that is always completely false","A citation style used in essays","A statement that seems contradictory but reveals a deeper truth"], answer:3}
+   ]},
+  {subject:"Math", title:"Calculus Preview: An Introduction to Limits", summary:"Grade 8 Math strand: a limit describes the value a function approaches as its input gets closer to a certain number, a foundational idea in calculus used to understand rates of change and continuity.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does a limit describe in mathematics?", options:["A fixed number that never changes","The total area under a curve only","The exact value of a function at every point","The value a function approaches as its input gets closer to a certain number"], answer:3},
+     {q:"Limits are a foundational concept in which branch of mathematics?", options:["Basic arithmetic only","Geometry only","Calculus","Number theory only"], answer:2},
+     {q:"What might a limit help describe about a function?", options:["Its behaviour as it approaches a certain point, even if undefined there","Nothing meaningful about the function","Only its colour on a graph","Only its name"], answer:0},
+     {q:"As x approaches 2, if f(x) gets closer and closer to 5, what is the limit of f(x) as x approaches 2?", options:["2","0","5","Undefined in all cases"], answer:2},
+     {q:"Why are limits important for understanding rates of change?", options:["They allow mathematicians to analyze values that a function approaches, even at points of change","They have no connection to rates of change","They remove the need to study functions","They only apply to whole numbers"], answer:0}
+   ]},
+  {subject:"Science", title:"Desert Ecosystems and Adaptations", summary:"Grade 8 Science strand: desert ecosystems receive very little precipitation, and the plants and animals that live there have special adaptations, such as water storage and nocturnal behaviour, to survive extreme conditions.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What defines a desert ecosystem?", options:["No sunlight at all","Very little precipitation","Extremely high precipitation","Constant freezing temperatures only"], answer:1},
+     {q:"What is one adaptation desert plants often have?", options:["A requirement for extremely cold temperatures","An inability to survive any sunlight","The ability to store water","The need for constant flooding"], answer:2},
+     {q:"Why might many desert animals be nocturnal?", options:["To avoid the extreme heat of the day","To avoid finding food entirely","Nocturnal behaviour has no survival advantage","Because deserts have no daytime at all"], answer:0},
+     {q:"Which of these is a well-known desert plant adaptation?", options:["A pine trees needle-shaped leaves for cold climates","A cactuss thick, water-storing stem","A palm trees tolerance for constant rain","A water lilys floating leaves"], answer:1},
+     {q:"Desert ecosystems can be found on which types of land?", options:["Only areas with constant rainfall","Only underwater locations","Both hot and cold regions with low precipitation","Only areas near the equator"], answer:2}
+   ]},
+  {subject:"History", title:"Canada and the League of Nations", summary:"Grade 8 History strand: Canada joined the League of Nations after World War I as an independent member separate from Britain, an early sign of its growing autonomy on the international stage.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What international organization did Canada join independently after World War I?", options:["The United Nations","The League of Nations","NORAD","NATO"], answer:1},
+     {q:"Why was Canadas independent membership in the League of Nations significant?", options:["It signaled Canadas growing autonomy separate from Britain","It was identical to Canadas role before the war","It ended all of Canadas ties to Britain immediately","It meant Canada had no international role at all"], answer:0},
+     {q:"What was the main purpose of the League of Nations?", options:["To create a single global government","To promote international cooperation and prevent future conflicts","To eliminate all international trade","To reunite former colonies with their empires"], answer:1},
+     {q:"When was the League of Nations formed?", options:["In the 21st century","After World War I","Before Confederation","After World War II"], answer:1},
+     {q:"What organization was later created after the League of Nations largely failed to prevent World War II?", options:["The Commonwealth","NAFTA","The United Nations","The G7"], answer:2}
+   ]},
+]},
+{day:118, label:"Day 118 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Structuring a Plot Using Freytags Pyramid", summary:"Grade 8 Language strand: Freytags Pyramid outlines a dramatic structure of exposition, rising action, climax, falling action, and resolution, helping writers organize tension and pacing throughout a story.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does Freytags Pyramid outline?", options:["A method for citing sources","A type of grammar rule","A dramatic structure for organizing a stories tension and pacing","A punctuation guideline"], answer:2},
+     {q:"What is the first stage of Freytags Pyramid?", options:["Exposition","Falling action","Resolution","Climax"], answer:0},
+     {q:"What happens during the climax of a story?", options:["Nothing significant happens","The conflict is fully resolved with no tension","The story reaches its point of highest tension or turning point","The story introduces the setting only"], answer:2},
+     {q:"What comes after the climax in Freytags Pyramid?", options:["The introduction","Falling action","Exposition","Rising action"], answer:1},
+     {q:"Why is understanding Freytags Pyramid useful for writers?", options:["It helps organize a story for maximum tension and reader engagement","It removes the need for any conflict in a story","It has no effect on how a story is structured","It only applies to poetry, never prose"], answer:0}
+   ]},
+  {subject:"Math", title:"Algebra: An Introduction to Proof by Mathematical Induction", summary:"Grade 8 Math strand: mathematical induction proves a statement is true for all natural numbers by showing it holds for a base case and then showing that if it holds for one case, it must hold for the next.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does mathematical induction prove?", options:["That a statement is true for all natural numbers","Only that a statement works for one specific number","Nothing about a mathematical statement","That a statement is always false"], answer:0},
+     {q:"What is the first step in a proof by induction called?", options:["The conclusion","The final case","The exception","The base case"], answer:3},
+     {q:"What must be shown in the inductive step?", options:["That no cases need to be checked","That the base case is irrelevant","That if the statement holds for one case, it holds for the next","That the statement is false for every case"], answer:2},
+     {q:"Mathematical induction is often compared to which everyday analogy?", options:["A locked door","A row of falling dominoes","A blank page","A single light switch"], answer:1},
+     {q:"Why is mathematical induction a powerful proof technique?", options:["It only proves statements for a single case","It requires testing every possible number individually","It can prove a statement true for infinitely many cases using just two steps","It cannot be used to prove anything"], answer:2}
+   ]},
+  {subject:"Science", title:"The Physics of Friction and Wear", summary:"Grade 8 Science strand: friction is a force that resists motion between two surfaces in contact, generating heat and gradually causing wear, though it is also essential for everyday actions like walking and braking.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is friction?", options:["A type of chemical reaction","A form of light energy","A force that resists motion between two surfaces in contact","A force that always increases motion"], answer:2},
+     {q:"What is one effect friction can have on surfaces over time?", options:["Making the surfaces heavier","Gradual wear and heat generation","Instant freezing of the surfaces","No effect at all on the surfaces"], answer:1},
+     {q:"Why is friction essential for walking?", options:["Friction makes walking completely impossible","It allows shoes to grip the ground and prevent slipping","Walking requires the complete absence of friction","Friction only affects vehicles, not people"], answer:1},
+     {q:"How does friction help a car stop when braking?", options:["It resists the motion of the wheels against the road","It speeds up the car instead of slowing it","It only works underwater","It has no role in braking at all"], answer:0},
+     {q:"What might reduce friction between two surfaces?", options:["Removing all lubrication","Increasing the roughness of both surfaces","Pressing the surfaces together harder","Adding a lubricant, like oil, between them"], answer:3}
+   ]},
+  {subject:"History", title:"The Alberta Social Credit Movement and the Great Depression", summary:"Grade 8 History strand: the Social Credit movement gained strong support in Alberta during the Great Depression, promoting new economic ideas to address widespread poverty and eventually forming the provincial government in 1935.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"During which period did the Social Credit movement gain strong support in Alberta?", options:["World War II","The Great Depression","The 1990s","Confederation in 1867"], answer:1},
+     {q:"What kind of ideas did the Social Credit movement promote?", options:["New economic ideas to address widespread poverty","A return to the fur trade economy","A ban on all provincial elections","The elimination of all government spending"], answer:0},
+     {q:"In what year did the Social Credit party form the Alberta provincial government?", options:["1999","1867","1949","1935"], answer:3},
+     {q:"Why did movements like Social Credit gain popularity during the Great Depression?", options:["People were uninterested in economic policy","Widespread economic hardship led people to seek new political solutions","No one was affected by the Great Depression in Alberta","The economy was thriving with no hardship at all"], answer:1},
+     {q:"The rise of the Social Credit movement reflects a broader trend of ___.", options:["Political stability with no new movements","New political movements emerging in response to economic crisis","Alberta separating from Canada entirely","A complete rejection of all political parties"], answer:1}
+   ]},
+]},
+{day:119, label:"Day 119 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Euphemisms and Doublespeak", summary:"Grade 8 Language strand: a euphemism replaces a harsh or blunt term with a gentler one, while doublespeak deliberately uses vague or misleading language to obscure an unpleasant truth, often for persuasive or political purposes.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a euphemism?", options:["A gentler word or phrase used in place of a harsh or blunt one","A word that exaggerates the truth","A citation format","A type of rhyme scheme"], answer:0},
+     {q:"Which phrase is an example of a euphemism?", options:["A large building","Passed away, instead of died","Ran quickly","A red car"], answer:1},
+     {q:"What is doublespeak?", options:["A grammar rule about pronouns","A type of punctuation","Language deliberately used to obscure an unpleasant truth","Language that is always completely honest and direct"], answer:2},
+     {q:"Why might doublespeak be used in politics or advertising?", options:["To make communication perfectly clear and direct","To eliminate all persuasive language","To make an unpleasant reality sound more acceptable","Doublespeak is never used in real communication"], answer:2},
+     {q:"Why is it useful for readers to recognize euphemisms and doublespeak?", options:["To understand the real meaning behind carefully chosen language","They only appear in fictional stories","These techniques are always meant to help the reader","Recognizing them has no practical benefit"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: An Introduction to Bayesian Updating in Everyday Decisions", summary:"Grade 8 Math strand: building on Bayes Theorem, Bayesian updating is the process of revising a probability estimate as new information becomes available, a strategy used in everyday decision-making and data analysis.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is Bayesian updating?", options:["A method that never changes any probability","The process of revising a probability estimate as new information arrives","A way to eliminate all uncertainty completely","A type of geometric proof"], answer:1},
+     {q:"Why might someone use Bayesian updating in everyday decision-making?", options:["To avoid ever changing an opinion","To make decisions with no information at all","To adjust their beliefs or predictions as new evidence appears","To ignore all new information completely"], answer:2},
+     {q:"If new evidence makes an event seem more likely, a Bayesian update would ___.", options:["Increase the estimated probability of that event","Have no effect on the estimate","Eliminate the event as a possibility","Always decrease the probability to zero"], answer:0},
+     {q:"Bayesian updating relies on combining what two things?", options:["Only random guesses with no data","A starting estimate and new evidence","Only past data with no new information","Only opinions with no mathematical basis"], answer:1},
+     {q:"Which field commonly uses Bayesian updating to interpret new data?", options:["Only music theory","Only creative writing","Medical diagnosis and data science","Only ancient history"], answer:2}
+   ]},
+  {subject:"Science", title:"Genetic Engineering in Agriculture: An Introduction to GMOs", summary:"Grade 8 Science strand: genetically modified organisms, or GMOs, are created by altering an organisms DNA to introduce desirable traits, such as pest resistance or improved crop yield, in modern agriculture.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does GMO stand for?", options:["Green modified oxygen","Growth management order","Generally moved organism","Genetically modified organism"], answer:3},
+     {q:"How are GMOs created?", options:["By changing the organisms diet with no genetic change","By exposing the organism to sunlight only","By freezing the organism permanently","By altering an organisms DNA to introduce desirable traits"], answer:3},
+     {q:"What is one reason crops might be genetically modified?", options:["To eliminate the need for farming entirely","To improve pest resistance or crop yield","To make the crop completely inedible","To remove all genetic material from the plant"], answer:1},
+     {q:"Why is genetic engineering in agriculture a topic of ongoing debate?", options:["GMOs have no effect on agriculture at all","The topic has no scientific basis","People have different views on its safety, ethics, and environmental impact","Everyone agrees completely on every aspect of GMOs"], answer:2},
+     {q:"Genetic engineering in agriculture is an application of which broader scientific field?", options:["Biotechnology","Geology","Astronomy","Meteorology"], answer:0}
+   ]},
+  {subject:"History", title:"Canada at the Paris Peace Conference of 1919", summary:"Grade 8 History strand: Canada attended the Paris Peace Conference of 1919 and signed the Treaty of Versailles as a separate signatory from Britain, an important early step toward international recognition as an independent nation.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What major conference did Canada attend in 1919?", options:["The Congress of Vienna","The Berlin Conference","The Yalta Conference","The Paris Peace Conference"], answer:3},
+     {q:"What treaty did Canada sign separately from Britain at this conference?", options:["The Statute of Westminster","The North Atlantic Treaty","The Treaty of Paris","The Treaty of Versailles"], answer:3},
+     {q:"Why was Canadas separate signature on the treaty significant?", options:["It was an early step toward international recognition as an independent nation","It had no effect on Canadas international standing","It ended all of Canadas international relationships","It meant Canada refused to participate in the treaty"], answer:0},
+     {q:"What world event led to the Paris Peace Conference being held?", options:["Confederation","The end of World War II","The end of World War I","The Cold War"], answer:2},
+     {q:"Canadas role at the Paris Peace Conference is often linked to which later development?", options:["The Klondike Gold Rush","The construction of the CPR","The Halifax Explosion","Canadas separate membership in the League of Nations"], answer:3}
+   ]},
+]},
+{day:120, label:"Day 120 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Vocabulary, and Reading Analysis", summary:"Grade 8 Language strand review: students revisit emphatic pronouns, onomatopoeia, juxtaposition, eyewitness news reports, ellipsis, hyperbole/understatement/paradox, Freytags Pyramid, and euphemisms.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is the purpose of an emphatic pronoun?", options:["To replace a verb entirely","To function as a preposition","To act as a question word","To add emphasis to a noun or pronoun already mentioned"], answer:3},
+     {q:"What is juxtaposition?", options:["Placing two contrasting elements side by side","A type of punctuation mark","A grammar rule for verb tense","Combining two similar ideas into one"], answer:0},
+     {q:"What does an ellipsis indicate when used in a direct quotation?", options:["That words have been omitted from the original text","That the entire quotation is false","That the sentence has ended with a question","That the writer disagrees with the quotation"], answer:0},
+     {q:"What is a paradox?", options:["A type of onomatopoeia","A statement that seems contradictory but reveals a deeper truth","A statement that is always completely false","A citation style used in essays"], answer:1},
+     {q:"What is a euphemism?", options:["A gentler word or phrase used in place of a harsh or blunt one","A type of rhyme scheme","A word that exaggerates the truth","A citation format"], answer:0}
+   ]},
+  {subject:"Math", title:"Math Review: Vectors, Matrices, and Advanced Concepts", summary:"Grade 8 Math strand review: students revisit vectors and the dot product, matrix multiplication and determinants, modular exponentiation, Bayes Theorem, graph theory, the Fundamental Theorem of Algebra, limits, and induction.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What two properties does a vector have?", options:["Only direction","Neither magnitude nor direction","Magnitude and direction","Only magnitude"], answer:2},
+     {q:"What does the determinant of a matrix indicate?", options:["The exact size of the matrix only","Properties of the matrix, such as whether it can be inverted","Nothing useful about the matrix","The colour used to represent the matrix"], answer:1},
+     {q:"What does Bayes Theorem help calculate?", options:["A fixed probability that never changes","The volume of a 3D shape","The average of a data set","An updated probability based on new evidence"], answer:3},
+     {q:"What does a limit describe in mathematics?", options:["The exact value of a function at every point","The total area under a curve only","A fixed number that never changes","The value a function approaches as its input gets closer to a certain number"], answer:3},
+     {q:"What does mathematical induction prove?", options:["Nothing about a mathematical statement","That a statement is always false","Only that a statement works for one specific number","That a statement is true for all natural numbers"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Body Systems, Physics, and Genetics", summary:"Grade 8 Science strand review: students revisit the integumentary and excretory systems, antibiotic resistance, the chemistry of fireworks, light dispersion, bird migration, desert ecosystems, friction, and GMOs.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What organs make up the integumentary system?", options:["The brain and spinal cord","The stomach and intestines","Skin, hair, and nails","The heart and lungs"], answer:2},
+     {q:"Which organs are the primary filters in the excretory system?", options:["The kidneys","The heart","The lungs","The liver only"], answer:0},
+     {q:"What is antibiotic resistance?", options:["When a virus becomes weaker over time","When a medicine works better over time","When bacteria disappear completely","When bacteria evolve to survive medicines designed to kill them"], answer:3},
+     {q:"What is light dispersion?", options:["The splitting of white light into its full spectrum of colours","The blocking of all light entirely","The complete disappearance of light","The merging of colours into black"], answer:0},
+     {q:"What does GMO stand for?", options:["Green modified oxygen","Generally moved organism","Growth management order","Genetically modified organism"], answer:3}
+   ]},
+  {subject:"History", title:"History Review: Canadian Independence and Identity", summary:"Grade 8 History strand review: students revisit Ukrainian Canadian internment, Newfoundlands entry into Confederation, Canadas 1939 declaration of war, the National Policy, bilingualism, the Manitoba Schools Question, the League of Nations, Social Credit, and the Paris Peace Conference.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"Under what law were Ukrainian Canadians interned during WWI?", options:["The War Measures Act","The Canadian Bill of Rights","The Multiculturalism Act","The Indian Act"], answer:0},
+     {q:"In what year did Newfoundland join Confederation?", options:["1999","1949","1867","1905"], answer:1},
+     {q:"Who introduced the National Policy of 1879?", options:["Prime Minister John A. Macdonald","Prime Minister Wilfrid Laurier","Prime Minister Lester Pearson","Prime Minister Pierre Trudeau"], answer:0},
+     {q:"What international organization did Canada join independently after World War I?", options:["NATO","The League of Nations","NORAD","The United Nations"], answer:1},
+     {q:"What treaty did Canada sign separately from Britain at the Paris Peace Conference?", options:["The Treaty of Paris","The Statute of Westminster","The North Atlantic Treaty","The Treaty of Versailles"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
