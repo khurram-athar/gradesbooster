@@ -26768,5 +26768,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 111,
+    "label": "Day 111 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Modal Verbs",
+        "summary": "Grade 5 Language strand: modal verbs like can, could, should, must, and might express ability, possibility, permission, or necessity, and change the meaning of the main verb they accompany.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Which of these is a modal verb?",
+            "options": [
+              "Should",
+              "Running",
+              "Quickly",
+              "Happy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the modal verb must often express?",
+            "options": [
+              "A question mark",
+              "Necessity or strong obligation",
+              "Pure possibility",
+              "Past tense only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the modal verb might express?",
+            "options": [
+              "A command",
+              "Possibility",
+              "Certainty",
+              "A greeting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence You should study tonight, what does should express?",
+            "options": [
+              "Past action",
+              "Advice or recommendation",
+              "Absolute certainty",
+              "A question"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a modal verb correctly?",
+            "options": [
+              "She cans swim very well.",
+              "She swum can well.",
+              "She canning swim.",
+              "She can swim very well."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Scatter Plots and Correlation",
+        "summary": "Grade 5 Math strand: a scatter plot displays pairs of related data as points on a graph, helping students see whether there is a correlation, or relationship, between the two variables.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does a scatter plot show?",
+            "options": [
+              "A single number",
+              "Only categories",
+              "A list of names",
+              "Pairs of related data as points on a graph"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does correlation mean in data?",
+            "options": [
+              "The colour of a graph",
+              "A relationship between two variables",
+              "A single isolated fact",
+              "The title of a graph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If points on a scatter plot trend upward together, what kind of correlation is shown?",
+            "options": [
+              "A positive correlation",
+              "A negative correlation",
+              "An impossible correlation",
+              "No correlation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If one variable increases while the other decreases, what correlation is shown?",
+            "options": [
+              "A negative correlation",
+              "A perfect match",
+              "A positive correlation",
+              "No correlation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are scatter plots useful?",
+            "options": [
+              "They are used only for shapes",
+              "They cannot show any trend",
+              "They help identify trends and relationships between two variables",
+              "They only show a single value"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Comets and Asteroids — Visitors from Space",
+        "summary": "Grade 5 Science strand: comets are icy space objects that develop a glowing tail near the sun, while asteroids are rocky objects, and both orbit the sun like planets.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "Water alone",
+              "Living organisms",
+              "Ice and dust",
+              "Solid metal only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What forms a comets glowing tail?",
+            "options": [
+              "Fire from the comets core",
+              "Reflected moonlight only",
+              "Nothing, comets have no tail",
+              "Ice and dust heated by the sun"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an asteroid mostly made of?",
+            "options": [
+              "Gas only",
+              "Rock and metal",
+              "Ice only",
+              "Water only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where are many asteroids found in our solar system?",
+            "options": [
+              "Inside the Moon",
+              "Inside the sun",
+              "On Earths surface",
+              "In a belt between Mars and Jupiter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do comets and asteroids orbit the sun?",
+            "options": [
+              "Only comets do",
+              "Only asteroids do",
+              "Yes",
+              "No, they float randomly"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Census — Counting Everyone in Canada",
+        "summary": "Grade 5 Social Studies strand: a census is an official count of everyone living in Canada, conducted regularly to help the government plan services and understand the population.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is a census?",
+            "options": [
+              "A kind of map",
+              "A type of holiday",
+              "A sports event",
+              "An official count of everyone in a country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the Canadian government conduct a census?",
+            "options": [
+              "To confuse citizens",
+              "To have no reason",
+              "To sell products",
+              "To help plan services and understand the population"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How often is the Canadian census typically taken?",
+            "options": [
+              "Every single day",
+              "Only once ever",
+              "At regular intervals, such as every five years",
+              "Never"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which service might benefit from census information?",
+            "options": [
+              "Playing a game",
+              "Selling candy",
+              "Planning new schools and hospitals",
+              "Painting a fence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A census helps a government understand ___.",
+            "options": [
+              "Sports scores",
+              "The weather forecast",
+              "Movie ratings",
+              "How many people live in different areas"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "label": "Day 112 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Biography",
+        "summary": "Grade 5 Language strand: a biography tells the true story of a real persons life, written by someone else, organized chronologically and focused on key achievements and events.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a biography?",
+            "options": [
+              "A story about yourself",
+              "A type of poem",
+              "The true story of a real persons life written by someone else",
+              "A made-up story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is a biography typically organized?",
+            "options": [
+              "Alphabetically by topic",
+              "Randomly, with no order",
+              "Chronologically, following the persons life in order",
+              "Backwards from death to birth only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a biography usually focus on?",
+            "options": [
+              "Fictional adventures",
+              "Key achievements and important events in a persons life",
+              "Only their childhood",
+              "Only their favourite foods"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who writes a biography?",
+            "options": [
+              "Always the subject themselves",
+              "Someone other than the subject of the biography",
+              "No one, it is never written",
+              "Only historians who knew the person personally"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a biography topic?",
+            "options": [
+              "A recipe for cookies",
+              "A weather report",
+              "A grocery list",
+              "The life story of a famous scientist"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Compound Interest — How Money Grows Faster",
+        "summary": "Grade 5 Math strand: compound interest means earning interest not just on the original amount saved, but also on the interest already earned, helping savings grow faster over time.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is compound interest?",
+            "options": [
+              "Interest earned on both the original amount and previously earned interest",
+              "Interest earned only once",
+              "Money that is lost over time",
+              "A type of tax"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does compound interest differ from simple interest?",
+            "options": [
+              "It never grows",
+              "It grows on both the principal and prior interest",
+              "It only applies to loans",
+              "It is always smaller than simple interest"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might compound interest help savings grow faster over time?",
+            "options": [
+              "It cancels out any savings",
+              "It removes money from an account",
+              "Interest is continually added to a growing balance",
+              "It stays the same value always"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you leave money in an account longer with compound interest, what generally happens?",
+            "options": [
+              "It disappears",
+              "It grows more",
+              "It stays exactly the same",
+              "It always shrinks"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compound interest is often used to describe how ___ can grow over time.",
+            "options": [
+              "Sports scores",
+              "Traffic patterns",
+              "Weather patterns",
+              "Savings accounts"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Eclipses — Solar and Lunar",
+        "summary": "Grade 5 Science strand: a solar eclipse occurs when the Moon passes between the sun and Earth, while a lunar eclipse occurs when Earth passes between the sun and the Moon.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What happens during a solar eclipse?",
+            "options": [
+              "The sun disappears forever",
+              "Nothing unusual happens",
+              "The Moon passes between the sun and Earth",
+              "Earth passes between the sun and the Moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens during a lunar eclipse?",
+            "options": [
+              "The sun moves closer to Earth",
+              "The Moon passes between the sun and Earth",
+              "The Moon disappears forever",
+              "Earth passes between the sun and the Moon"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a solar eclipse only happen occasionally?",
+            "options": [
+              "It never actually happens",
+              "The Moon, sun, and Earth must align precisely",
+              "The Moon controls when it happens randomly",
+              "It happens every single day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During a total lunar eclipse, the Moon can appear ___.",
+            "options": [
+              "Reddish, sometimes called a blood moon",
+              "Twice its normal size",
+              "Bright blue",
+              "Completely invisible with no colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why should people avoid looking directly at a solar eclipse without protection?",
+            "options": [
+              "It makes the eclipse disappear",
+              "It is required to look directly at it",
+              "It can damage their eyes",
+              "It has no effect on the eyes"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Sister Cities — Twin Communities Around the World",
+        "summary": "Grade 5 Social Studies strand: sister cities are communities in different countries that form a special partnership to share culture, ideas, and friendship, strengthening global connections.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is a sister city?",
+            "options": [
+              "A partner community in another country",
+              "A type of building",
+              "A city with no people",
+              "A kind of holiday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might two cities become sister cities?",
+            "options": [
+              "To close their borders",
+              "To ignore one another",
+              "To share culture, ideas, and friendship",
+              "To compete against each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might sister cities share with each other?",
+            "options": [
+              "Nothing at all",
+              "Cultural events and ideas",
+              "Only complaints",
+              "Weather patterns only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can a sister city partnership benefit a community?",
+            "options": [
+              "It isolates the community further",
+              "It replaces local government",
+              "It has no benefits",
+              "It builds global connections and cultural understanding"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sister city partnerships can help students learn about ___.",
+            "options": [
+              "Nothing new",
+              "Only their own city",
+              "Weather forecasting",
+              "Other cultures and communities around the world"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "label": "Day 113 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Memoir",
+        "summary": "Grade 5 Language strand: a memoir is a personal narrative in which the author reflects on a meaningful memory or period of their own life, focusing on emotions and personal significance.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a memoir?",
+            "options": [
+              "A made-up fantasy story",
+              "A personal narrative reflecting on a meaningful memory from the authors own life",
+              "A dictionary entry",
+              "A biography of someone else"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a memoir typically focus on?",
+            "options": [
+              "A stranger",
+              "Only historical dates",
+              "Only scientific facts",
+              "Emotions and personal significance of a memory"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who writes a memoir?",
+            "options": [
+              "Always someone else about another person",
+              "No one",
+              "The person about their own life",
+              "Only professional historians"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is a memoir different from an autobiography?",
+            "options": [
+              "They are always identical",
+              "A memoir often focuses on a specific period or theme rather than an entire life",
+              "A memoir is always fictional",
+              "An autobiography is always shorter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a memoir topic?",
+            "options": [
+              "A weather chart",
+              "A meaningful summer spent with a grandparent",
+              "A math formula",
+              "An imaginary dragon"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Surface Area of a Cylinder",
+        "summary": "Grade 5 Math strand: the surface area of a cylinder is found by adding the areas of its two circular ends and the area of its curved side, which unrolls into a rectangle.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What shape are the two ends of a cylinder?",
+            "options": [
+              "Rectangles",
+              "Triangles",
+              "Squares",
+              "Circles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What shape does the curved side of a cylinder become when unrolled?",
+            "options": [
+              "A triangle",
+              "A rectangle",
+              "A circle",
+              "A pentagon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To find the surface area of a cylinder, you need the areas of ___.",
+            "options": [
+              "Only the curved side",
+              "Only the height",
+              "Both circular ends and the curved side",
+              "Only one circular end"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What two measurements are needed to calculate a cylinders surface area?",
+            "options": [
+              "Only the radius",
+              "Only the height",
+              "Radius and height",
+              "Only the diameter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Surface area is measured in ___.",
+            "options": [
+              "Linear units only",
+              "Cubic units",
+              "No units at all",
+              "Square units"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Tides — The Moons Pull on Earths Oceans",
+        "summary": "Grade 5 Science strand: tides are the rise and fall of ocean water levels, caused mainly by the gravitational pull of the Moon on Earths oceans.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What causes most of Earths tides?",
+            "options": [
+              "The gravitational pull of the Moon",
+              "The colour of the ocean",
+              "Fish swimming",
+              "The wind alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are tides?",
+            "options": [
+              "A type of storm",
+              "The rise and fall of ocean water levels",
+              "A kind of current only",
+              "A type of fish migration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the highest point of a tide?",
+            "options": [
+              "Low tide",
+              "High tide",
+              "No tide",
+              "Flat tide"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do we call the lowest point of a tide?",
+            "options": [
+              "Full tide",
+              "High tide",
+              "Low tide",
+              "Middle tide"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Besides the Moon, what else can influence tides?",
+            "options": [
+              "The suns gravity, to a lesser extent",
+              "Only clouds",
+              "Only wind direction",
+              "Only fish populations"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Revitalizing Indigenous Languages",
+        "summary": "Grade 5 Social Studies strand: many Indigenous communities in Canada are working to revitalize their traditional languages, which were historically suppressed, through education and community programs.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does it mean to revitalize a language?",
+            "options": [
+              "To forget it entirely",
+              "To erase it completely",
+              "To translate it into another language only",
+              "To help it grow stronger and be used again"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are some Indigenous languages at risk today?",
+            "options": [
+              "No one ever spoke them",
+              "They were never spoken",
+              "They are too easy to learn",
+              "Historical policies suppressed their use"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are some communities working to revitalize Indigenous languages?",
+            "options": [
+              "Through education and community programs",
+              "By avoiding schools entirely",
+              "By ignoring the issue",
+              "By banning all languages"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is language revitalization important to a culture?",
+            "options": [
+              "Culture does not need language",
+              "Language has no connection to culture",
+              "Language carries traditions, knowledge, and identity",
+              "Only written language matters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these could help revitalize a language?",
+            "options": [
+              "Refusing to teach it to anyone",
+              "Ignoring elders who speak it",
+              "Language classes and immersion programs",
+              "Erasing historical records"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "label": "Day 114 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Distinguishing Primary and Secondary Sources",
+        "summary": "Grade 5 Language strand: a primary source is a firsthand account or original document, like a diary or photograph, while a secondary source, like a textbook, interprets or describes primary sources.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a primary source?",
+            "options": [
+              "A type of punctuation",
+              "A textbook only",
+              "A firsthand account or original document",
+              "A summary written by someone else"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a primary source?",
+            "options": [
+              "A textbook chapter written later",
+              "A documentary made years later",
+              "A diary entry written at the time of an event",
+              "An encyclopedia article"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a secondary source?",
+            "options": [
+              "A firsthand letter",
+              "A photograph taken during an event",
+              "A source that interprets or describes primary sources",
+              "The original document itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a secondary source?",
+            "options": [
+              "A photograph from the event",
+              "A history textbook",
+              "An original letter from the 1800s",
+              "A diary from that time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to know the difference between primary and secondary sources?",
+            "options": [
+              "It has no research value",
+              "It only matters for fiction",
+              "It helps evaluate the reliability and origin of information",
+              "Sources are always the same"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Volume of Cones and Pyramids",
+        "summary": "Grade 5 Math strand: the volume of a cone or pyramid is one-third the volume of a cylinder or prism with the same base and height.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
+            "options": [
+              "The same as the cylinder",
+              "Two-thirds",
+              "One-third",
+              "One-half"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The volume of a pyramid is what fraction of a prism with the same base and height?",
+            "options": [
+              "The same as the prism",
+              "Three-quarters",
+              "One-half",
+              "One-third"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a cylinder has a volume of 90 cubic units, what is the volume of a cone with the same base and height?",
+            "options": [
+              "60",
+              "45",
+              "30",
+              "90"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What two measurements are typically needed to find the volume of a cone?",
+            "options": [
+              "Base area and height",
+              "Only the radius of the top",
+              "Only the base area",
+              "Only the height"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might it be useful to compare cone and pyramid volumes to cylinders and prisms?",
+            "options": [
+              "Volume never relates between shapes",
+              "Cones and cylinders are the same shape",
+              "It helps us understand and remember the volume relationship",
+              "They have no relationship at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Photosynthesis — How Plants Make Their Own Food",
+        "summary": "Grade 5 Science strand: photosynthesis is the process plants use to make their own food from sunlight, water, and carbon dioxide, releasing oxygen as a byproduct.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is photosynthesis?",
+            "options": [
+              "A rock-forming process",
+              "A weather pattern",
+              "The process plants use to make their own food from sunlight",
+              "A type of animal digestion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What three things do plants need for photosynthesis?",
+            "options": [
+              "Sunlight, water, and carbon dioxide",
+              "Only soil",
+              "Only sound",
+              "Only darkness"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What gas do plants release during photosynthesis?",
+            "options": [
+              "Nitrogen only",
+              "Oxygen",
+              "Carbon dioxide only",
+              "Helium"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where in the plant does photosynthesis mainly occur?",
+            "options": [
+              "In the leaves",
+              "In the seed only",
+              "In the roots only",
+              "In the flower only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is photosynthesis important for other living things?",
+            "options": [
+              "It removes all oxygen from the air",
+              "It has no effect on other organisms",
+              "It only matters to plants",
+              "It produces the oxygen many organisms need to breathe"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Auditor General — Watching How Government Spends Money",
+        "summary": "Grade 5 Social Studies strand: the Auditor General is an independent officer who reviews how the federal government spends public money, reporting on waste, mismanagement, or inefficiency.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Auditor Generals main job?",
+            "options": [
+              "Reviewing how the government spends public money",
+              "Teaching in schools",
+              "Managing a hospital",
+              "Running a business"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important for the Auditor General to be independent?",
+            "options": [
+              "So the review is unbiased and not controlled by the government being reviewed",
+              "Independence makes the reports less accurate",
+              "Independence does not matter",
+              "The government should review itself only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might the Auditor Generals reports reveal?",
+            "options": [
+              "Waste, mismanagement, or inefficiency in spending",
+              "Nothing useful",
+              "Sports statistics",
+              "Only good news"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who does the Auditor General typically report to?",
+            "options": [
+              "No one",
+              "Parliament",
+              "A single citizen",
+              "A private company"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might citizens care about the Auditor Generals reports?",
+            "options": [
+              "Reports never affect citizens",
+              "Citizens have no interest in government spending",
+              "The reports are always secret",
+              "They show how tax dollars are being used"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "label": "Day 115 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Evaluating Website Credibility",
+        "summary": "Grade 5 Language strand: evaluating a websites credibility means checking who wrote it, when it was published, and whether the information is supported by evidence before trusting it.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What should you check to evaluate a websites credibility?",
+            "options": [
+              "Only the background colour",
+              "Only the font style",
+              "Who wrote it and when it was published",
+              "Nothing, all websites are equally reliable"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to check who wrote a website?",
+            "options": [
+              "To judge whether the author is a reliable source",
+              "The author never matters",
+              "It has no effect on trust",
+              "Authors are always experts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a sign that a website might be less credible?",
+            "options": [
+              "It is written by an expert",
+              "It provides no evidence or sources for its claims",
+              "It has a recent publish date",
+              "It cites clear sources"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the publish date of a website matter?",
+            "options": [
+              "Publish dates are always fake",
+              "Dates never matter online",
+              "Older websites are always more accurate",
+              "Information can become outdated over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is a good habit when researching online?",
+            "options": [
+              "Ignoring all sources",
+              "Believing everything without checking",
+              "Trusting the very first result blindly",
+              "Comparing information across multiple credible sources"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: The Coordinate Plane — All Four Quadrants",
+        "summary": "Grade 5 Math strand: the coordinate plane extends beyond the first quadrant to include four quadrants, using positive and negative x and y values to plot any point.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "How many quadrants make up a full coordinate plane?",
+            "options": [
+              "Eight",
+              "Two",
+              "One",
+              "Four"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which quadrant would you find a point with a positive x and positive y value?",
+            "options": [
+              "Quadrant I",
+              "Quadrant IV",
+              "Quadrant III",
+              "Quadrant II"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which quadrant would you find a point with a negative x and positive y value?",
+            "options": [
+              "Quadrant III",
+              "Quadrant IV",
+              "Quadrant II",
+              "Quadrant I"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are the two number lines called that form the coordinate plane?",
+            "options": [
+              "The top and bottom lines",
+              "The height and width lines",
+              "The a-axis and b-axis",
+              "The x-axis and y-axis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The point where the x-axis and y-axis cross is called the ___.",
+            "options": [
+              "Origin",
+              "Quadrant",
+              "Vertex",
+              "Endpoint"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Dental Health — Caring for Our Teeth",
+        "summary": "Grade 5 Science strand: teeth help us chew and speak, and good dental habits like brushing, flossing, and limiting sugary foods help prevent cavities and gum disease.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are two important functions of our teeth?",
+            "options": [
+              "Only hearing",
+              "Only breathing",
+              "Only smelling",
+              "Chewing and speaking"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What dental habit helps remove food particles between teeth?",
+            "options": [
+              "Sleeping",
+              "Flossing",
+              "Drinking soda",
+              "Running"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might limiting sugary foods help dental health?",
+            "options": [
+              "Sugar has no effect on teeth",
+              "Sugar can contribute to tooth decay",
+              "Sugar always strengthens teeth",
+              "Sugar removes cavities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can happen if teeth are not cared for properly?",
+            "options": [
+              "Cavities and gum disease",
+              "Teeth turn into bone",
+              "Teeth automatically become stronger",
+              "Nothing happens at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How often do dentists typically recommend brushing teeth?",
+            "options": [
+              "Never",
+              "At least twice a day",
+              "Only before holidays",
+              "Once a month"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Understanding Canadas National Debt and Deficit",
+        "summary": "Grade 5 Social Studies strand: a deficit occurs when the government spends more money than it collects in a year, while debt is the total amount owed from accumulated deficits over time.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is a government deficit?",
+            "options": [
+              "When spending is more than money collected in a year",
+              "A type of tax",
+              "A kind of currency",
+              "When spending equals income exactly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is national debt?",
+            "options": [
+              "A type of holiday",
+              "A single years spending only",
+              "The total amount owed from accumulated deficits over time",
+              "A kind of election"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a deficit relate to debt?",
+            "options": [
+              "They are completely unrelated concepts",
+              "Debt causes deficits to disappear",
+              "Repeated deficits add up to increase the total debt",
+              "A deficit always reduces debt"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a government choose to run a deficit in some years?",
+            "options": [
+              "To fund important programs or respond to emergencies",
+              "Governments never spend money",
+              "To make the economy invisible",
+              "Deficits are never intentional"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding government debt and deficits useful for citizens?",
+            "options": [
+              "It is a secret citizens cannot learn about",
+              "It helps citizens understand economic decisions and their effects",
+              "It has no relevance to citizens",
+              "Only banks need this understanding"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "label": "Day 116 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Preparing for a Formal Debate",
+        "summary": "Grade 5 Language strand: preparing for a formal debate involves researching both sides of an issue, organizing clear arguments with evidence, and anticipating counterarguments.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is an important first step in preparing for a debate?",
+            "options": [
+              "Researching both sides of the issue",
+              "Ignoring the topic completely",
+              "Only listening to one opinion",
+              "Refusing to research anything"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why should debaters anticipate counterarguments?",
+            "options": [
+              "To agree with everything said",
+              "To prepare strong responses to opposing points",
+              "Counterarguments never matter",
+              "To avoid the topic entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should support a debaters argument?",
+            "options": [
+              "Interruptions",
+              "Only personal opinions with no evidence",
+              "Loud volume alone",
+              "Evidence and clear reasoning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean to organize an argument clearly?",
+            "options": [
+              "Avoiding all evidence",
+              "Presenting points in a logical, easy-to-follow order",
+              "Mixing up points randomly",
+              "Speaking without any structure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A formal debate typically requires participants to ___.",
+            "options": [
+              "Refuse to listen to the other side",
+              "Respect turn-taking and formal structure",
+              "Ignore the rules",
+              "Interrupt whenever they want"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Combinations — Counting Possible Outcomes",
+        "summary": "Grade 5 Math strand: combinations help count the number of different ways items can be grouped together when order does not matter, such as choosing 2 toppings from 4 options.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does a combination count?",
+            "options": [
+              "The number of ways to group items when order does not matter",
+              "Only ordered arrangements",
+              "A type of fraction",
+              "A single fixed outcome"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you can choose 2 toppings from 4 options (A, B, C, D), how many different combinations are possible?",
+            "options": [
+              "4",
+              "8",
+              "12",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In combinations, does choosing A then B count differently than choosing B then A?",
+            "options": [
+              "Yes, they are always different",
+              "Only sometimes",
+              "No, they are the same combination",
+              "It depends on the colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are combinations useful in real life?",
+            "options": [
+              "They cannot be calculated",
+              "They help count possible groupings, like meal or outfit choices",
+              "They have no real-world use",
+              "They only apply to sports scores"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which situation involves finding a combination?",
+            "options": [
+              "Assigning first, second, and third place",
+              "Lining up 5 people in order",
+              "Choosing 3 books to bring on a trip from a shelf of 5",
+              "Arranging letters into a specific word"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "DNA — The Blueprint of Life",
+        "summary": "Grade 5 Science strand: DNA is a molecule found in the cells of living things that carries the instructions, or blueprint, for how an organism grows and functions.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is DNA?",
+            "options": [
+              "A type of rock",
+              "A form of light",
+              "A kind of weather pattern",
+              "A molecule that carries instructions for how an organism grows and functions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where is DNA found in living things?",
+            "options": [
+              "Only in the air around them",
+              "Only in water",
+              "Nowhere, it does not exist",
+              "In the cells"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does DNA help determine?",
+            "options": [
+              "The weather",
+              "The time of day",
+              "The price of food",
+              "Traits like eye colour and other inherited features"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do children often resemble their parents?",
+            "options": [
+              "Only appearance matters, not DNA",
+              "Resemblance is completely random",
+              "DNA has no role in resemblance",
+              "They inherit DNA from both parents"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "DNA is sometimes described as a ___ because it holds instructions for life.",
+            "options": [
+              "Blueprint",
+              "Type of rock",
+              "Weather forecast",
+              "Recipe for bread"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Electoral Ridings — How Canada Divides Voting Districts",
+        "summary": "Grade 5 Social Studies strand: Canada is divided into electoral ridings, each represented by one Member of Parliament elected by the voters living in that riding.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is an electoral riding?",
+            "options": [
+              "A voting district represented by one Member of Parliament",
+              "A national holiday",
+              "A type of currency",
+              "A kind of map legend"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who represents each electoral riding?",
+            "options": [
+              "No one",
+              "The Prime Minister alone",
+              "Every citizen in Canada",
+              "One elected Member of Parliament"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Canada divided into ridings?",
+            "options": [
+              "To confuse voters",
+              "To eliminate elections",
+              "So different regions have local representation in government",
+              "Ridings serve no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do voters in a riding choose their representative?",
+            "options": [
+              "By voting in an election",
+              "By random selection only",
+              "Representatives are never chosen by voters",
+              "By coin flip"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The number of ridings in Canada can change over time mainly due to ___.",
+            "options": [
+              "Changes in population",
+              "The price of goods",
+              "Sports results",
+              "The weather"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "label": "Day 117 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Interview",
+        "summary": "Grade 5 Language strand: writing an interview involves preparing thoughtful, open-ended questions, then recording and organizing the subjects responses clearly for readers.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is an important step before conducting an interview?",
+            "options": [
+              "Preparing thoughtful, open-ended questions",
+              "Asking only yes-or-no questions",
+              "Ignoring the topic",
+              "Skipping preparation entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an open-ended question?",
+            "options": [
+              "A question that cannot be answered",
+              "A question with only one correct answer",
+              "A rhetorical question",
+              "A question that invites a detailed response, not just yes or no"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to organize interview responses clearly?",
+            "options": [
+              "So readers can easily follow the conversation",
+              "To remove all of the subjects words",
+              "To confuse the reader on purpose",
+              "Organization does not matter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a good interview question?",
+            "options": [
+              "Are you busy?",
+              "What inspired you to pursue this career?",
+              "Do you like your job?",
+              "Is today Monday?"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An interview article typically includes ___.",
+            "options": [
+              "No questions at all",
+              "Only the interviewers opinions",
+              "A list of unrelated facts",
+              "The interviewers questions and the subjects answers"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Writing Expressions from Word Problems",
+        "summary": "Grade 5 Math strand: students translate word problems into algebraic expressions by identifying the unknown quantity and representing the relationships with numbers, variables, and operations.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first step in writing an algebraic expression from a word problem?",
+            "options": [
+              "Guessing the final answer",
+              "Skipping the problem",
+              "Ignoring the numbers",
+              "Identifying the unknown quantity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which expression represents 5 more than a number n?",
+            "options": [
+              "n - 5",
+              "5n",
+              "n + 5",
+              "n / 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which expression represents a number n divided by 3?",
+            "options": [
+              "n / 3",
+              "n - 3",
+              "n + 3",
+              "3n"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which expression represents three times a number n, decreased by 2?",
+            "options": [
+              "n - 2",
+              "3(n - 2)",
+              "3n - 2",
+              "2n - 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to write expressions from word problems?",
+            "options": [
+              "It helps solve real-world problems using math",
+              "Expressions have no real-world connection",
+              "It replaces the need for numbers",
+              "It only applies to shapes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Cells — The Building Blocks of Life",
+        "summary": "Grade 5 Science strand: cells are the tiny building blocks that make up all living things, and different types of cells have different jobs within an organism.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are cells?",
+            "options": [
+              "A form of light",
+              "The tiny building blocks that make up all living things",
+              "A type of rock",
+              "A kind of weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do all living things have cells?",
+            "options": [
+              "Only plants have cells",
+              "Only humans have cells",
+              "Yes",
+              "No, only animals do"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can different types of cells have different jobs?",
+            "options": [
+              "Yes",
+              "Cells never have jobs",
+              "No, all cells do the exact same job",
+              "Only one cell exists in each organism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What tool do scientists often use to see cells?",
+            "options": [
+              "A thermometer",
+              "A microscope",
+              "A compass",
+              "A telescope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Cells are considered the basic unit of ___.",
+            "options": [
+              "Sound",
+              "Weather",
+              "Life",
+              "Light"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Equalization Payments — Sharing Wealth Across Provinces",
+        "summary": "Grade 5 Social Studies strand: equalization payments are federal transfers of money to less wealthy provinces, helping ensure Canadians across the country have access to similar public services.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What are equalization payments?",
+            "options": [
+              "A type of provincial tax",
+              "Federal transfers of money to less wealthy provinces",
+              "A kind of national holiday",
+              "A tourist attraction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the federal government make equalization payments?",
+            "options": [
+              "To help ensure similar public services across provinces",
+              "They serve no purpose",
+              "To eliminate all provinces",
+              "To punish wealthy provinces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which provinces might receive equalization payments?",
+            "options": [
+              "Only the wealthiest provinces",
+              "Provinces with relatively lower revenue-generating capacity",
+              "No province ever receives them",
+              "Only territories"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Equalization payments are an example of ___.",
+            "options": [
+              "A private business decision",
+              "Federal government policy",
+              "A kind of weather pattern",
+              "A type of sport"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might Canadians across different provinces value equalization payments?",
+            "options": [
+              "They have no benefit to anyone",
+              "They only benefit one province",
+              "They help ensure fairer access to services nationwide",
+              "They increase inequality"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "label": "Day 118 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Parody",
+        "summary": "Grade 5 Language strand: a parody imitates the style of another work in an exaggerated or humorous way, often to poke fun at it or make a point.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a parody?",
+            "options": [
+              "A serious historical account",
+              "A type of punctuation",
+              "A humorous imitation of another works style",
+              "A grammar rule"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers create parodies?",
+            "options": [
+              "To entertain or make a point through humorous imitation",
+              "To avoid referencing other works",
+              "To remove all humour",
+              "To copy a work exactly with no changes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a parody typically exaggerate?",
+            "options": [
+              "Only punctuation marks",
+              "Only the title",
+              "Recognizable features of the original work",
+              "Nothing at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of parody?",
+            "options": [
+              "A dictionary definition",
+              "A funny retelling of a famous fairy tale with silly changes",
+              "A word-for-word copy of a textbook",
+              "A weather report"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Parody is closely related to which literary technique?",
+            "options": [
+              "Satire",
+              "Rhyme",
+              "Onomatopoeia",
+              "Alliteration"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Converting Between 12-Hour and 24-Hour Time",
+        "summary": "Grade 5 Math strand: 24-hour time, also called military time, avoids the need for AM and PM by numbering hours from 00 to 23 across a full day.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "How many hours are numbered in a full 24-hour time system?",
+            "options": [
+              "00 to 23",
+              "0 to 24",
+              "1 to 12",
+              "1 to 24"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 3:00 PM in 24-hour time?",
+            "options": [
+              "13:00",
+              "03:00",
+              "17:00",
+              "15:00"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 9:00 AM in 24-hour time?",
+            "options": [
+              "21:00",
+              "90:00",
+              "09:00",
+              "19:00"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 18:00 in 12-hour time?",
+            "options": [
+              "8:00 PM",
+              "6:00 PM",
+              "18:00 AM",
+              "6:00 AM"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might 24-hour time be useful in schedules like transportation?",
+            "options": [
+              "It is always less accurate",
+              "It only works for mornings",
+              "It avoids confusion between AM and PM",
+              "It removes the need for numbers"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy in Focus: Solar Power",
+        "summary": "Grade 5 Science strand: solar power converts sunlight directly into electricity using solar panels, offering a clean, renewable source of energy.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does solar power convert into electricity?",
+            "options": [
+              "Coal",
+              "Ocean waves",
+              "Sunlight",
+              "Wind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What device is commonly used to capture solar energy?",
+            "options": [
+              "Furnaces",
+              "Solar panels",
+              "Windmills",
+              "Dams"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is solar power considered a renewable energy source?",
+            "options": [
+              "Sunlight runs out permanently",
+              "Sunlight is naturally replenished and will not run out",
+              "It cannot be reused",
+              "It requires burning fossil fuels"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one advantage of solar power over fossil fuels?",
+            "options": [
+              "It produces energy without burning fuel or creating pollution",
+              "It only works at night",
+              "It requires no sunlight at all",
+              "It always costs more with no benefits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where might solar panels commonly be installed?",
+            "options": [
+              "Underwater",
+              "Underground with no light",
+              "Inside sealed boxes",
+              "On rooftops or open fields with sunlight"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadas National Historic Sites — Preserving Our Heritage",
+        "summary": "Grade 5 Social Studies strand: national historic sites are places recognized for their importance to Canadian history, preserved so future generations can learn about the past.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is a national historic site?",
+            "options": [
+              "A type of amusement park",
+              "A place recognized for its importance to Canadian history",
+              "A modern shopping mall",
+              "A weather station"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are national historic sites preserved?",
+            "options": [
+              "So future generations can learn about the past",
+              "To be demolished eventually",
+              "To be ignored by the public",
+              "They have no educational value"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who might visit a national historic site?",
+            "options": [
+              "Only government officials",
+              "No one is allowed to visit",
+              "Only people from other countries",
+              "Students, tourists, and researchers interested in history"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are national historic sites different from national parks?",
+            "options": [
+              "National parks are always historic sites too",
+              "They focus on historical or cultural significance rather than natural landscapes",
+              "National historic sites have no buildings",
+              "They are exactly the same thing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Visiting a national historic site can help people understand ___.",
+            "options": [
+              "Nothing about history",
+              "Events and people that shaped Canadas past",
+              "Only future predictions",
+              "Only current events"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "label": "Day 119 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Number Prefixes",
+        "summary": "Grade 5 Language strand: number prefixes like uni-, bi-, tri-, and quad- indicate quantity within a word, such as unicycle (one wheel) or quadrilateral (four sides).",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What does the prefix uni- mean?",
+            "options": [
+              "One",
+              "Two",
+              "Four",
+              "Three"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the prefix bi- mean?",
+            "options": [
+              "Three",
+              "Two",
+              "One",
+              "Four"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the prefix tri- mean?",
+            "options": [
+              "Two",
+              "Four",
+              "Three",
+              "One"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the prefix quad- mean?",
+            "options": [
+              "One",
+              "Three",
+              "Four",
+              "Two"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word contains a prefix meaning two?",
+            "options": [
+              "Bicycle",
+              "Quadrilateral",
+              "Triangle",
+              "Unicycle"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Similar Triangles and Proportional Sides",
+        "summary": "Grade 5 Math strand: similar triangles have the same shape but may differ in size, with corresponding sides that are proportional, or in the same ratio, to each other.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean for two triangles to be similar?",
+            "options": [
+              "They must be identical in size",
+              "They have the same shape but may differ in size",
+              "They have no matching angles",
+              "They cannot share any properties"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is true about the corresponding sides of similar triangles?",
+            "options": [
+              "They must be different shapes",
+              "They have no relationship",
+              "They are proportional to each other",
+              "They are always exactly equal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If one triangle has sides twice as long as a similar triangle, the scale factor is ___.",
+            "options": [
+              "2",
+              "4",
+              "0.5",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is true about the corresponding angles of similar triangles?",
+            "options": [
+              "They are always different",
+              "They are equal",
+              "They cannot be measured",
+              "They must add up to 90 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are similar triangles useful in real life?",
+            "options": [
+              "They cannot be used for measurement",
+              "They only apply to art",
+              "They help with tasks like measuring height using shadows",
+              "They have no real-world use"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy in Focus: Wind and Hydro Power",
+        "summary": "Grade 5 Science strand: wind power uses turbines to capture the energy of moving air, while hydro power uses flowing or falling water, both offering clean, renewable electricity.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does wind power use to generate electricity?",
+            "options": [
+              "Underground heat",
+              "Burning coal",
+              "Solar panels",
+              "Wind turbines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does hydro power use to generate electricity?",
+            "options": [
+              "Wind",
+              "Sunlight",
+              "Coal",
+              "Flowing or falling water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are wind and hydro power considered renewable?",
+            "options": [
+              "They require burning fossil fuels",
+              "Wind and water are naturally replenished sources",
+              "They will run out permanently soon",
+              "They cannot be reused"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What structure is commonly used to generate hydro power?",
+            "options": [
+              "A mine",
+              "A furnace",
+              "A dam",
+              "A greenhouse"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an advantage shared by wind and hydro power?",
+            "options": [
+              "They produce electricity without burning fossil fuels",
+              "They cannot generate electricity",
+              "They always require sunlight",
+              "They only work indoors"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Magna Cartas Influence on Canadian Law",
+        "summary": "Grade 5 Social Studies strand: the Magna Carta, signed in England in 1215, established early principles like the rule of law that influenced legal systems, including Canadas, centuries later.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Magna Carta?",
+            "options": [
+              "A modern Canadian law",
+              "A national holiday",
+              "A type of currency",
+              "An early document establishing principles like the rule of law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Roughly when was the Magna Carta signed?",
+            "options": [
+              "In the 1900s",
+              "It has not happened yet",
+              "Last year",
+              "In the 1200s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What important principle did the Magna Carta help establish?",
+            "options": [
+              "The rule of law, meaning even rulers must follow the law",
+              "That laws do not apply to anyone",
+              "That courts should not exist",
+              "That only kings make all decisions with no limits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the Magna Carta influence legal systems like Canadas?",
+            "options": [
+              "It was immediately forgotten",
+              "It has no connection to modern law",
+              "Its principles shaped ideas about law and rights over centuries",
+              "Canada copied it word for word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do historians and legal scholars still study the Magna Carta today?",
+            "options": [
+              "It was written very recently",
+              "It has no historical significance",
+              "It only applied for one day",
+              "It laid early groundwork for modern legal principles"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "label": "Day 120 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Writing Forms, and Media Literacy",
+        "summary": "Grade 5 Language strand review: students revisit modal verbs, biography and memoir writing, primary and secondary sources, evaluating website credibility, formal debate, and parody.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "Which of these is a modal verb?",
+            "options": [
+              "Running",
+              "Happy",
+              "Quickly",
+              "Should"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a biography?",
+            "options": [
+              "The true story of a real persons life written by someone else",
+              "A story about yourself",
+              "A type of poem",
+              "A made-up story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a memoir?",
+            "options": [
+              "A personal narrative reflecting on a meaningful memory from the authors own life",
+              "A made-up fantasy story",
+              "A biography of someone else",
+              "A dictionary entry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a primary source?",
+            "options": [
+              "A textbook only",
+              "A firsthand account or original document",
+              "A summary written by someone else",
+              "A type of punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a parody?",
+            "options": [
+              "A humorous imitation of another works style",
+              "A serious historical account",
+              "A type of punctuation",
+              "A grammar rule"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Data, Geometry, and Algebra",
+        "summary": "Grade 5 Math strand review: students revisit scatter plots, compound interest, cylinder surface area, cone and pyramid volume, four-quadrant coordinate planes, combinations, and similar triangles.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does a scatter plot show?",
+            "options": [
+              "Only categories",
+              "A list of names",
+              "Pairs of related data as points on a graph",
+              "A single number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is compound interest?",
+            "options": [
+              "Interest earned only once",
+              "Interest earned on both the original amount and previously earned interest",
+              "Money that is lost over time",
+              "A type of tax"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The volume of a cone is what fraction of a cylinder with the same base and height?",
+            "options": [
+              "One-half",
+              "The same as the cylinder",
+              "Two-thirds",
+              "One-third"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many quadrants make up a full coordinate plane?",
+            "options": [
+              "Two",
+              "Eight",
+              "One",
+              "Four"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean for two triangles to be similar?",
+            "options": [
+              "They cannot share any properties",
+              "They must be identical in size",
+              "They have no matching angles",
+              "They have the same shape but may differ in size"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Space, Body Science, and Renewable Energy",
+        "summary": "Grade 5 Science strand review: students revisit comets and asteroids, eclipses, tides, photosynthesis, dental health, DNA, cells, and renewable energy from solar, wind, and hydro power.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What forms a comets glowing tail?",
+            "options": [
+              "Nothing, comets have no tail",
+              "Fire from the comets core",
+              "Ice and dust heated by the sun",
+              "Reflected moonlight only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens during a solar eclipse?",
+            "options": [
+              "The Moon passes between the sun and Earth",
+              "Nothing unusual happens",
+              "Earth passes between the sun and the Moon",
+              "The sun disappears forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is photosynthesis?",
+            "options": [
+              "A weather pattern",
+              "A type of animal digestion",
+              "A rock-forming process",
+              "The process plants use to make their own food from sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is DNA?",
+            "options": [
+              "A molecule that carries instructions for how an organism grows and functions",
+              "A kind of weather pattern",
+              "A type of rock",
+              "A form of light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does hydro power use to generate electricity?",
+            "options": [
+              "Coal",
+              "Sunlight",
+              "Wind",
+              "Flowing or falling water"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Government, Economy, and Canadian History",
+        "summary": "Grade 5 Social Studies strand review: students revisit the census, sister cities, Indigenous language revitalization, the Auditor General, national debt, electoral ridings, equalization payments, and the Magna Carta.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is a census?",
+            "options": [
+              "An official count of everyone in a country",
+              "A kind of map",
+              "A sports event",
+              "A type of holiday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Auditor Generals main job?",
+            "options": [
+              "Managing a hospital",
+              "Reviewing how the government spends public money",
+              "Teaching in schools",
+              "Running a business"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is national debt?",
+            "options": [
+              "The total amount owed from accumulated deficits over time",
+              "A type of holiday",
+              "A kind of election",
+              "A single years spending only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an electoral riding?",
+            "options": [
+              "A national holiday",
+              "A voting district represented by one Member of Parliament",
+              "A kind of map legend",
+              "A type of currency"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the Magna Carta?",
+            "options": [
+              "A modern Canadian law",
+              "A type of currency",
+              "A national holiday",
+              "An early document establishing principles like the rule of law"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
