@@ -8625,6 +8625,7 @@
         "summary": "Grade 9 Writing strand: a feature article explores a topic in depth, often combining factual reporting with engaging storytelling techniques, unlike a straightforward news report.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=7_0jz6hXi6c",
         "quiz": [
           {
             "q": "A feature article typically ___.",
@@ -8684,6 +8685,7 @@
         "summary": "Grade 9 Measurement strand: optimization problems involve finding the maximum or minimum value of a measurement, such as determining the shape that maximizes area for a given perimeter.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=SsgwLCiHCeY",
         "quiz": [
           {
             "q": "An optimization problem involves finding ___.",
@@ -8743,6 +8745,7 @@
         "summary": "Grade 9 Science Chemistry strand: acids and bases have distinct properties, measured using the pH scale, and react with each other in a neutralization reaction to produce water and a salt.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=btjUgNnaFYQ",
         "quiz": [
           {
             "q": "Acids generally have a pH ___.",
@@ -8802,6 +8805,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: the global energy transition involves shifting from fossil fuel dependence toward renewable energy sources, a process shaped by geography, technology, and economic factors.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=eMak2RhweVo",
         "quiz": [
           {
             "q": "The energy transition refers to ___.",

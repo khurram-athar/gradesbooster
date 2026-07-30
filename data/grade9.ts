@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Writing: Writing a Feature Article", summary:"Grade 9 Writing strand: a feature article explores a topic in depth, often combining factual reporting with engaging storytelling techniques, unlike a straightforward news report.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=7_0jz6hXi6c",
    quiz:[
      {q:"A feature article typically ___.", options:["Reports only brief, surface-level facts with no depth","Explores a topic in depth, combining facts with engaging storytelling","Is identical to a basic news report","Contains no factual information at all"], answer:1},
      {q:"Which is a storytelling technique a feature article might use?", options:["Ignoring the reader’s interest entirely","Presenting only a bulleted list with no narrative","Avoiding any connection to the topic’s human interest","A compelling anecdote to draw readers into the topic"], answer:3},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Optimization of Perimeter and Area", summary:"Grade 9 Measurement strand: optimization problems involve finding the maximum or minimum value of a measurement, such as determining the shape that maximizes area for a given perimeter.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=SsgwLCiHCeY",
    quiz:[
      {q:"An optimization problem involves finding ___.", options:["A measurement unrelated to area or perimeter","Only the average of several unrelated values","The maximum or minimum value of a measurement","A completely random measurement with no goal"], answer:2},
      {q:"For a fixed perimeter, which shape typically maximizes area among simple rectangles?", options:["Any shape produces exactly the same area","A square","A shape with no defined sides","A very long, thin rectangle"], answer:1},
@@ -1492,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Acids and Bases: Properties and Reactions", summary:"Grade 9 Science Chemistry strand: acids and bases have distinct properties, measured using the pH scale, and react with each other in a neutralization reaction to produce water and a salt.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=btjUgNnaFYQ",
    quiz:[
      {q:"Acids generally have a pH ___.", options:["That cannot be measured","Always exactly 7","Above 7","Below 7"], answer:3},
      {q:"Bases generally have a pH ___.", options:["That cannot be measured","Below 7","Above 7","Always exactly 0"], answer:2},
@@ -1501,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Energy Transition: Fossil Fuels to Renewables", summary:"Grade 9 Social Studies (Geography) strand: the global energy transition involves shifting from fossil fuel dependence toward renewable energy sources, a process shaped by geography, technology, and economic factors.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=eMak2RhweVo",
    quiz:[
      {q:"The energy transition refers to ___.", options:["A complete elimination of all energy use","A concept unrelated to energy production","A shift from fossil fuel dependence toward renewable energy sources","A shift toward greater fossil fuel dependence"], answer:2},
      {q:"Which geographic factor might influence a region’s ability to adopt solar energy?", options:["The region’s distance from the ocean, with no other relevant factors","The region’s population size alone","A factor entirely unrelated to geography","The amount of available sunlight in that region"], answer:3},
