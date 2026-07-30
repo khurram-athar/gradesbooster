@@ -26762,5 +26762,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 111,
+    "label": "Day 111 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Coordinating and Subordinating Conjunctions",
+        "summary": "Grade 4 Language strand: coordinating conjunctions (and, but, or) join equal ideas, while subordinating conjunctions (because, although, since) join a main idea to a dependent one.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Which is a coordinating conjunction?",
+            "options": [
+              "And",
+              "Because",
+              "Although",
+              "Since"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a subordinating conjunction?",
+            "options": [
+              "Or",
+              "Because",
+              "And",
+              "But"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do coordinating conjunctions join?",
+            "options": [
+              "Only questions",
+              "Two equal ideas",
+              "Only single words",
+              "Nothing at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence I stayed home because it rained, which word is the subordinating conjunction?",
+            "options": [
+              "It",
+              "Because",
+              "Stayed",
+              "Home"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a coordinating conjunction correctly?",
+            "options": [
+              "I like tea because coffee.",
+              "I like tea since coffee.",
+              "I like tea although coffee.",
+              "I like tea and coffee."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Introduction to Percent",
+        "summary": "Grade 4 Math strand: percent means out of one hundred, and students learn to represent simple percentages such as 50% (half) and 25% (a quarter) using models and fractions.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does percent mean?",
+            "options": [
+              "Out of ten",
+              "Out of one",
+              "Out of one thousand",
+              "Out of one hundred"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What fraction is equal to 50%?",
+            "options": [
+              "1/10",
+              "1/2",
+              "1/4",
+              "1/5"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What fraction is equal to 25%?",
+            "options": [
+              "1/4",
+              "1/2",
+              "3/4",
+              "1/5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a shape is 100% shaded, how much of it is shaded?",
+            "options": [
+              "All of it",
+              "A quarter of it",
+              "None of it",
+              "Half of it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The percent symbol is written as ___.",
+            "options": [
+              "@",
+              "#",
+              "%",
+              "&"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Volcanoes and Earthquakes — Forces Beneath Earths Surface",
+        "summary": "Grade 4 Science strand: volcanoes and earthquakes are caused by movement and pressure within the Earth, releasing molten rock or causing the ground to shake.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What can cause a volcano to erupt?",
+            "options": [
+              "Wind blowing across land",
+              "Ocean tides",
+              "Pressure and molten rock beneath the surface",
+              "Rain falling from clouds"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an earthquake?",
+            "options": [
+              "A kind of flood",
+              "A type of storm",
+              "A slow-moving glacier",
+              "A shaking of the ground caused by movement beneath the surface"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the molten rock that comes out of a volcano called?",
+            "options": [
+              "Sand",
+              "Lava",
+              "Ice",
+              "Steam only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do many earthquakes and volcanoes occur?",
+            "options": [
+              "Nowhere on Earth",
+              "Only in the ocean",
+              "Only in deserts",
+              "Near the edges of tectonic plates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists study volcanoes and earthquakes?",
+            "options": [
+              "To cause more of them",
+              "To ignore the risks",
+              "To understand and help predict these natural events",
+              "They have no scientific value"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The RCMP — Canadas National Police Force",
+        "summary": "Grade 4 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is Canadas national police force, responsible for enforcing federal laws across the country.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Regional Canadian Municipal Patrol",
+              "Royal Canadian Medical Program",
+              "Real Canadian Mail Post",
+              "Royal Canadian Mounted Police"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the RCMPs main responsibility?",
+            "options": [
+              "Building bridges",
+              "Running restaurants",
+              "Teaching in schools",
+              "Enforcing federal laws across Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the RCMP known for wearing?",
+            "options": [
+              "A blue business suit",
+              "A firefighter helmet",
+              "A red serge uniform",
+              "A chefs apron"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does Canada need both local police and a national police force?",
+            "options": [
+              "It replaces all city police",
+              "Only cities need police",
+              "Different levels of law enforcement handle different responsibilities",
+              "National police are unnecessary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The RCMP is an example of a service provided at the ___ level of government.",
+            "options": [
+              "Only provincial",
+              "Only municipal",
+              "International",
+              "Federal"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "label": "Day 112 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Gerunds and Infinitives",
+        "summary": "Grade 4 Language strand: a gerund is a verb form ending in -ing used as a noun (Swimming is fun), and an infinitive is to plus the base verb used as a noun (To swim is fun).",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a gerund?",
+            "options": [
+              "A punctuation mark",
+              "A prefix",
+              "A verb form ending in -ing used as a noun",
+              "A type of adjective"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is a gerund in the sentence Running is great exercise?",
+            "options": [
+              "Exercise",
+              "Is",
+              "Running",
+              "Great"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an infinitive?",
+            "options": [
+              "A comma rule",
+              "To plus the base verb used as a noun",
+              "A verb ending in -ed",
+              "A type of pronoun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which phrase is an infinitive?",
+            "options": [
+              "Swimming",
+              "To swim",
+              "Swam",
+              "Swims"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a gerund correctly as the subject?",
+            "options": [
+              "Read is my favourite hobby.",
+              "To reads is my favourite hobby.",
+              "Reads is my favourite hobby.",
+              "Reading is my favourite hobby."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Order of Operations",
+        "summary": "Grade 4 Math strand: the order of operations tells us the sequence to solve a math expression -- brackets, exponents, multiplication and division, then addition and subtraction.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What do we solve first in the order of operations?",
+            "options": [
+              "Brackets",
+              "Addition",
+              "Whatever comes first left to right, always",
+              "Subtraction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the order of operations, which comes before addition and subtraction?",
+            "options": [
+              "Nothing, addition is always first",
+              "Multiplication and division",
+              "Exponents are ignored",
+              "Brackets are solved last"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 3 + 4 x 2 using the order of operations?",
+            "options": [
+              "9",
+              "14",
+              "11",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is (3 + 4) x 2 using the order of operations?",
+            "options": [
+              "10",
+              "14",
+              "9",
+              "11"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do we follow a consistent order of operations?",
+            "options": [
+              "To make math harder on purpose",
+              "Order never affects the answer",
+              "It does not matter what order we use",
+              "So everyone gets the same answer to the same expression"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Human Skeletal and Muscular Systems",
+        "summary": "Grade 4 Science strand: the skeletal system gives our body structure and protection using bones, while the muscular system works with bones to allow movement.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the skeletal system give our body?",
+            "options": [
+              "Only taste",
+              "Only smell",
+              "Structure and protection",
+              "Only colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do muscles work with to allow movement?",
+            "options": [
+              "Skin colour",
+              "Blood cells only",
+              "Hair",
+              "Bones"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are bones important for protection?",
+            "options": [
+              "They only help us taste food",
+              "They shield organs like the brain and heart",
+              "They stop us from breathing",
+              "They have no protective role"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens when a muscle contracts?",
+            "options": [
+              "It shortens and can move a bone",
+              "It stops working permanently",
+              "It turns into bone",
+              "It disappears"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The skeletal and muscular systems work together to allow the body to ___.",
+            "options": [
+              "See colours",
+              "Hear sounds",
+              "Move and stay supported",
+              "Taste food"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Canadian Senate — The Other House of Parliament",
+        "summary": "Grade 4 Social Studies strand: the Senate is the second chamber of Canadas Parliament, where appointed senators review and can suggest changes to proposed laws.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Senate?",
+            "options": [
+              "The second chamber of Canadas Parliament",
+              "A city government",
+              "A type of court",
+              "A sports league"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do people typically become senators in Canada?",
+            "options": [
+              "They are chosen by lottery",
+              "They inherit the position",
+              "They are appointed",
+              "They are elected by the public"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one role of the Senate?",
+            "options": [
+              "Running local schools",
+              "Reviewing and suggesting changes to proposed laws",
+              "Managing hospitals",
+              "Selling products"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Parliament in Canada is made up of the House of Commons and the ___.",
+            "options": [
+              "City Council",
+              "Cabinet only",
+              "Supreme Court",
+              "Senate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a country have two chambers reviewing proposed laws?",
+            "options": [
+              "To slow down all government forever",
+              "Two chambers serve no purpose",
+              "Only one chamber is ever needed",
+              "To provide additional review and balance"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "label": "Day 113 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Appositives — Adding Extra Information",
+        "summary": "Grade 4 Language strand: an appositive is a noun or phrase placed next to another noun to rename or explain it, often set off by commas, such as my dog, a golden retriever, loves to run.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is an appositive?",
+            "options": [
+              "A type of verb",
+              "A noun or phrase that renames or explains another noun",
+              "A prefix",
+              "A punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In my dog, a golden retriever, loves to run, what is the appositive?",
+            "options": [
+              "To run",
+              "My dog",
+              "Loves to run",
+              "A golden retriever"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are appositives usually set off in a sentence?",
+            "options": [
+              "With exclamation marks",
+              "With no punctuation at all",
+              "With commas",
+              "With question marks"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do writers use appositives?",
+            "options": [
+              "To remove information from a sentence",
+              "To add extra detail or explanation about a noun",
+              "To make sentences shorter",
+              "To avoid using nouns"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains an appositive?",
+            "options": [
+              "Is my teacher kind?",
+              "My teacher, Mrs. Lee, is kind.",
+              "My teacher is kind.",
+              "My kind teacher."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Least Common Multiple and Greatest Common Factor",
+        "summary": "Grade 4 Math strand: the least common multiple (LCM) is the smallest number that is a multiple of two numbers, while the greatest common factor (GCF) is the largest number that divides evenly into both.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does LCM stand for?",
+            "options": [
+              "Longest common multiple",
+              "Least counted multiple",
+              "Largest common measure",
+              "Least common multiple"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the LCM of 4 and 6?",
+            "options": [
+              "10",
+              "12",
+              "24",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does GCF stand for?",
+            "options": [
+              "Grouped common factor",
+              "General common fraction",
+              "Greatest common factor",
+              "Greatest counted fraction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the GCF of 8 and 12?",
+            "options": [
+              "2",
+              "8",
+              "4",
+              "24"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Finding the GCF can help when ___.",
+            "options": [
+              "Measuring angles",
+              "Multiplying decimals",
+              "Reading a clock",
+              "Simplifying fractions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Circulatory System — How Blood Moves Through Our Body",
+        "summary": "Grade 4 Science strand: the circulatory system uses the heart to pump blood through blood vessels, delivering oxygen and nutrients throughout the body.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What organ pumps blood through the body?",
+            "options": [
+              "The heart",
+              "The stomach",
+              "The brain",
+              "The lungs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does blood deliver to the body?",
+            "options": [
+              "Only water",
+              "Oxygen and nutrients",
+              "Only sound",
+              "Only light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the tubes that carry blood through the body called?",
+            "options": [
+              "Bones",
+              "Blood vessels",
+              "Muscles",
+              "Nerves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the circulatory system important?",
+            "options": [
+              "It only affects the fingers",
+              "It has no important function",
+              "It carries oxygen and nutrients to every part of the body",
+              "It stops blood from moving"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The circulatory system works closely with which other system to deliver oxygen?",
+            "options": [
+              "The respiratory system",
+              "The skeletal system only",
+              "The digestive system only",
+              "No other system"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: How a Bill Becomes a Law in Canada",
+        "summary": "Grade 4 Social Studies strand: a proposed law, called a bill, must be debated and approved by the House of Commons and the Senate before receiving royal assent to become law.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is a bill?",
+            "options": [
+              "A type of tax",
+              "A type of currency",
+              "A court decision",
+              "A proposed law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which groups must approve a bill before it becomes law?",
+            "options": [
+              "No one needs to approve it",
+              "Only the mayor",
+              "Only the public directly",
+              "The House of Commons and the Senate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the final step for a bill to become law?",
+            "options": [
+              "Receiving royal assent",
+              "Being renamed",
+              "Being ignored",
+              "Being erased"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a bill go through multiple steps of review?",
+            "options": [
+              "To skip debate entirely",
+              "Review is not necessary",
+              "To ensure it is carefully considered before becoming law",
+              "To make the process instant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A bill is debated in Parliament to ___.",
+            "options": [
+              "Immediately reject all bills",
+              "Ignore public interest",
+              "Discuss its strengths and weaknesses",
+              "Avoid making decisions"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "label": "Day 114 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Distinguishing Primary and Secondary Sources",
+        "summary": "Grade 4 Language strand: a primary source is a firsthand account or original document, like a diary or photograph, while a secondary source, like a textbook, interprets or describes primary sources.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a primary source?",
+            "options": [
+              "A type of punctuation",
+              "A textbook only",
+              "A firsthand account or original document",
+              "A summary written by someone else"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a primary source?",
+            "options": [
+              "A textbook chapter written later",
+              "A documentary made years later",
+              "A diary entry written at the time of an event",
+              "An encyclopedia article"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a secondary source?",
+            "options": [
+              "A firsthand letter",
+              "A photograph taken during an event",
+              "A source that interprets or describes primary sources",
+              "The original document itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a secondary source?",
+            "options": [
+              "A photograph from the event",
+              "A history textbook",
+              "An original letter from the 1800s",
+              "A diary from that time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to know the difference between primary and secondary sources?",
+            "options": [
+              "It has no research value",
+              "It only matters for fiction",
+              "It helps evaluate the reliability and origin of information",
+              "Sources are always the same"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Prime Factorization",
+        "summary": "Grade 4 Math strand: prime factorization means breaking a number down into the prime numbers that multiply together to make it, such as 12 = 2 x 2 x 3.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is prime factorization?",
+            "options": [
+              "Dividing by zero",
+              "Rounding a number",
+              "Breaking a number into the prime numbers that multiply to make it",
+              "Adding all factors together"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the prime factorization of 12?",
+            "options": [
+              "1 x 12",
+              "3 x 4",
+              "2 x 6",
+              "2 x 2 x 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the prime factorization of 20?",
+            "options": [
+              "2 x 10",
+              "4 x 5",
+              "2 x 2 x 5",
+              "1 x 20"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A prime number has exactly ___ factors.",
+            "options": [
+              "Two (1 and itself)",
+              "Ten",
+              "Zero",
+              "Three"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might prime factorization be useful?",
+            "options": [
+              "It has no mathematical use",
+              "It rounds numbers automatically",
+              "It helps find LCM and GCF of numbers",
+              "It changes a number into a fraction"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Respiratory System — How We Breathe",
+        "summary": "Grade 4 Science strand: the respiratory system, including the lungs, allows us to breathe in oxygen and breathe out carbon dioxide.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What organs are central to the respiratory system?",
+            "options": [
+              "The skin",
+              "The bones",
+              "The lungs",
+              "The stomach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What gas do we breathe in?",
+            "options": [
+              "Oxygen",
+              "Carbon dioxide only",
+              "Helium",
+              "Nitrogen only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What gas do we breathe out?",
+            "options": [
+              "Only water",
+              "Carbon dioxide",
+              "Only oxygen",
+              "Only helium"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do our bodies need oxygen?",
+            "options": [
+              "To help cells produce energy",
+              "To help us taste food",
+              "Oxygen has no use in the body",
+              "To make bones stronger only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The respiratory system works with the ___ system to deliver oxygen throughout the body.",
+            "options": [
+              "Digestive",
+              "Skeletal",
+              "Muscular",
+              "Circulatory"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Role in NATO",
+        "summary": "Grade 4 Social Studies strand: NATO is an international alliance of countries, including Canada, that agree to support and defend one another for collective security.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What does NATO stand for?",
+            "options": [
+              "North Atlantic Treaty Organization",
+              "National Association of Trade Organizations",
+              "National Alliance for Territorial Order",
+              "North American Trade Office"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is Canada a member of NATO?",
+            "options": [
+              "Yes",
+              "Canada has never joined",
+              "No",
+              "Canada withdrew long ago"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of NATO?",
+            "options": [
+              "Collective security and mutual defence among member countries",
+              "Organizing sports competitions",
+              "Managing world weather",
+              "Selling goods internationally"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does collective security mean in the context of NATO?",
+            "options": [
+              "Only one country makes decisions",
+              "Members agree to support each other if one is threatened",
+              "Each country defends only itself",
+              "No countries cooperate at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Being part of an international alliance like NATO helps Canada ___.",
+            "options": [
+              "Lose its own identity",
+              "Isolate itself from the world",
+              "Avoid all international relationships",
+              "Build cooperative relationships with other countries"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "label": "Day 115 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Satire",
+        "summary": "Grade 4 Language strand: satire uses humour, irony, or exaggeration to criticize or poke fun at ideas, people, or society, often to make a point.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is satire?",
+            "options": [
+              "A type of punctuation",
+              "A grammar rule",
+              "Using humour or exaggeration to criticize something",
+              "A math term"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a satirical story use to make its point?",
+            "options": [
+              "Humour, irony, or exaggeration",
+              "Only serious facts",
+              "Complete silence",
+              "Only numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do writers use satire?",
+            "options": [
+              "To remove all humour from writing",
+              "To criticize or comment on society in an entertaining way",
+              "To confuse readers with no purpose",
+              "To avoid making any point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a satirical idea?",
+            "options": [
+              "A grocery list",
+              "A textbook definition",
+              "A weather report",
+              "A story exaggerating a rule to show how silly it is"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Satire is closely related to which other literary technique?",
+            "options": [
+              "Alliteration",
+              "Onomatopoeia",
+              "Rhyme",
+              "Irony"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Identifying Outliers in a Data Set",
+        "summary": "Grade 4 Math strand: an outlier is a data value that is much higher or lower than the rest of the data, and it can affect measures like the mean.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is an outlier?",
+            "options": [
+              "The total of all values",
+              "The most common value",
+              "The middle value",
+              "A data value much higher or lower than the rest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the data set 4, 5, 6, 5, 40, which value is the outlier?",
+            "options": [
+              "40",
+              "6",
+              "5",
+              "4"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can an outlier affect the mean of a data set?",
+            "options": [
+              "It always makes the mean exactly zero",
+              "It removes all other data",
+              "It can pull the mean higher or lower than expected",
+              "It has no effect on the mean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to notice outliers in data?",
+            "options": [
+              "They automatically fix the data",
+              "Outliers are never meaningful",
+              "Outliers should always be ignored completely",
+              "They may indicate an error or something unusual worth investigating"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these data sets has an obvious outlier?",
+            "options": [
+              "2, 3, 3, 4, 50",
+              "2, 3, 4, 5, 6",
+              "10, 11, 12, 13, 14",
+              "5, 5, 5, 5, 5"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Nervous System — How Our Brain Sends Messages",
+        "summary": "Grade 4 Science strand: the nervous system, controlled by the brain, sends and receives messages throughout the body using nerves, allowing us to think, feel, and react.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What organ controls the nervous system?",
+            "options": [
+              "The skin",
+              "The stomach",
+              "The lungs",
+              "The brain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do nerves do?",
+            "options": [
+              "Pump blood",
+              "Send and receive messages throughout the body",
+              "Filter air",
+              "Digest food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What allows us to react quickly to touching something hot?",
+            "options": [
+              "The skeletal system alone",
+              "The nervous system sending fast signals",
+              "The digestive system",
+              "Nothing, reactions are random"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The nervous system helps us to ___.",
+            "options": [
+              "Think, feel, and react",
+              "Only grow taller",
+              "Only see colours",
+              "Only taste food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Nerves carry messages between the brain and ___.",
+            "options": [
+              "Only the stomach",
+              "The rest of the body",
+              "Nowhere else",
+              "Only the eyes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadian Inventions and Inventors",
+        "summary": "Grade 4 Social Studies strand: Canadians have contributed many important inventions, including basketball, insulin therapy, and the telephone, shaping science and daily life around the world.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Which sport was invented by a Canadian?",
+            "options": [
+              "Basketball",
+              "Cricket",
+              "Rugby",
+              "Soccer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one area where Canadian inventors have made important contributions?",
+            "options": [
+              "Only cooking",
+              "Nothing significant",
+              "Medicine, sports, and technology",
+              "Only fashion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable to learn about Canadian inventions?",
+            "options": [
+              "Inventions do not matter",
+              "It has no educational value",
+              "It highlights Canadian contributions to the world",
+              "Only foreign inventions count"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canadian inventors have contributed to fields including ___.",
+            "options": [
+              "Medicine and technology",
+              "Nothing at all",
+              "Only weather forecasting",
+              "Only farming"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about inventors can inspire students to ___.",
+            "options": [
+              "Dislike innovation",
+              "Value creativity and problem-solving",
+              "Avoid trying new ideas",
+              "Ignore science and technology"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "label": "Day 116 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Words with Greek and Latin Roots",
+        "summary": "Grade 4 Language strand: many English words come from Greek and Latin roots, such as tele- (far) in telephone, or aqua (water) in aquarium, helping readers decode unfamiliar words.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What does the root tele- mean?",
+            "options": [
+              "Far",
+              "Sound",
+              "Light",
+              "Water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the root aqua mean?",
+            "options": [
+              "Air",
+              "Water",
+              "Fire",
+              "Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word contains the root tele- meaning far?",
+            "options": [
+              "Ten",
+              "Table",
+              "Tent",
+              "Telephone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word contains the root aqua meaning water?",
+            "options": [
+              "Airplane",
+              "Aquarium",
+              "Aardvark",
+              "Apple"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is learning Greek and Latin roots helpful?",
+            "options": [
+              "It only applies to math",
+              "It helps decode the meaning of unfamiliar words",
+              "It has no effect on vocabulary",
+              "It makes words impossible to understand"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Area of Composite Shapes",
+        "summary": "Grade 4 Math strand: a composite shape is made of two or more simple shapes, and its area is found by breaking it into parts, finding each area, then adding them together.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a composite shape?",
+            "options": [
+              "A shape made of two or more simple shapes",
+              "A shape with no sides",
+              "A single triangle only",
+              "A single circle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do you find the area of a composite shape?",
+            "options": [
+              "Multiply all the side lengths together",
+              "Guess the area",
+              "Measure only one side",
+              "Break it into simple shapes, find each area, and add them"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A composite shape made of a rectangle (area 20) and a triangle (area 6) has a total area of ___.",
+            "options": [
+              "20",
+              "6",
+              "26",
+              "14"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might builders and designers need to calculate composite areas?",
+            "options": [
+              "It only applies to circles",
+              "Real objects are often made of combined shapes",
+              "Composite areas are never needed",
+              "All shapes are simple in real life"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The first step in solving a composite area problem is to ___.",
+            "options": [
+              "Guess the final answer",
+              "Skip measuring anything",
+              "Divide the shape into simpler parts",
+              "Ignore the shape entirely"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Density — Why Some Objects Sink While Others Float",
+        "summary": "Grade 4 Science strand: density describes how much mass is packed into a given volume, and objects denser than water sink while less dense objects float.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is density?",
+            "options": [
+              "The colour of an object",
+              "The shape of an object",
+              "The temperature of an object",
+              "How much mass is packed into a given volume"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to an object that is denser than water?",
+            "options": [
+              "It floats",
+              "It disappears",
+              "It changes colour",
+              "It sinks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to an object that is less dense than water?",
+            "options": [
+              "It sinks",
+              "It explodes",
+              "It disappears",
+              "It floats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a large ship made of metal float, even though metal is dense?",
+            "options": [
+              "Water has no effect on ships",
+              "Ships are not made of dense materials",
+              "Metal always sinks with no exceptions",
+              "Its overall shape displaces enough water to float"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Density compares an objects mass to its ___.",
+            "options": [
+              "Volume",
+              "Age",
+              "Colour",
+              "Temperature"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Official Languages Act — Bilingualism in Canada",
+        "summary": "Grade 4 Social Studies strand: the Official Languages Act recognizes English and French as Canadas two official languages, guaranteeing services in both languages at the federal level.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What are Canadas two official languages?",
+            "options": [
+              "English and French",
+              "French and German",
+              "English and Spanish",
+              "English only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Official Languages Act guarantee?",
+            "options": [
+              "No language rights at all",
+              "Services in only one language",
+              "Services only in provinces",
+              "Federal services in both English and French"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a country recognize more than one official language?",
+            "options": [
+              "To confuse citizens on purpose",
+              "Only one language should ever be used",
+              "To reflect the diverse linguistic heritage of its population",
+              "Languages do not matter to government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which province in Canada has a large French-speaking population historically tied to this policy?",
+            "options": [
+              "Quebec",
+              "British Columbia",
+              "Alberta",
+              "Manitoba only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bilingualism in Canada reflects the countrys ___.",
+            "options": [
+              "English and French heritage",
+              "Rejection of French language rights",
+              "Lack of cultural diversity",
+              "Single-language history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "label": "Day 117 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Evaluating Website Credibility",
+        "summary": "Grade 4 Language strand: evaluating a websites credibility means checking who wrote it, when it was published, and whether the information is supported by evidence before trusting it.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What should you check to evaluate a websites credibility?",
+            "options": [
+              "Who wrote it and when it was published",
+              "Only the font style",
+              "Nothing, all websites are equally reliable",
+              "Only the background colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to check who wrote a website?",
+            "options": [
+              "Authors are always experts",
+              "The author never matters",
+              "It has no effect on trust",
+              "To judge whether the author is a reliable source"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a sign that a website might be less credible?",
+            "options": [
+              "It provides no evidence or sources for its claims",
+              "It is written by an expert",
+              "It has a recent publish date",
+              "It cites clear sources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the publish date of a website matter?",
+            "options": [
+              "Older websites are always more accurate",
+              "Information can become outdated over time",
+              "Dates never matter online",
+              "Publish dates are always fake"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a good habit when researching online?",
+            "options": [
+              "Ignoring all sources",
+              "Trusting the very first result blindly",
+              "Believing everything without checking",
+              "Comparing information across multiple credible sources"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Scale Drawings and Scale Factor",
+        "summary": "Grade 4 Math strand: a scale drawing represents a real object at a different size using a scale factor, such as 1 cm representing 1 metre in real life.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a scale drawing?",
+            "options": [
+              "A random sketch",
+              "A drawing without shapes",
+              "A drawing with no measurements",
+              "A drawing that represents a real object at a different size"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a scale factor tell you?",
+            "options": [
+              "The colour of the drawing",
+              "The artists name",
+              "The relationship between the drawing size and the real size",
+              "The type of paper used"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a scale is 1 cm = 1 m, what does 5 cm on the drawing represent in real life?",
+            "options": [
+              "5 m",
+              "1 m",
+              "5 cm",
+              "50 m"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do architects use scale drawings?",
+            "options": [
+              "Scale drawings are never used in real life",
+              "To make buildings smaller in real life",
+              "To accurately represent large structures on paper",
+              "To avoid using any measurements"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A map is an example of a ___.",
+            "options": [
+              "Scale drawing",
+              "Composite shape",
+              "Data table",
+              "Prime number"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Groundwater and Aquifers",
+        "summary": "Grade 4 Science strand: groundwater is water that soaks into the ground and collects in layers of rock and soil called aquifers, an important source of fresh water.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is groundwater?",
+            "options": [
+              "Water in a swimming pool",
+              "Water that soaks into the ground and collects underground",
+              "Water in the ocean only",
+              "Water in the clouds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an aquifer?",
+            "options": [
+              "A kind of river",
+              "A weather instrument",
+              "An underground layer of rock or soil that holds water",
+              "A type of cloud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is groundwater important?",
+            "options": [
+              "It is a major source of fresh water for people",
+              "It only exists in oceans",
+              "It has no importance",
+              "It cannot be used by people"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does water typically get into an aquifer?",
+            "options": [
+              "It is pumped in by machines only",
+              "It soaks down through soil and rock",
+              "It never enters an aquifer",
+              "It falls directly from space"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Protecting groundwater from pollution is important because ___.",
+            "options": [
+              "Pollution never affects groundwater",
+              "Groundwater is never used by people",
+              "Many communities rely on it for drinking water",
+              "Aquifers cannot be polluted"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Franklin Expedition — Arctic Exploration History",
+        "summary": "Grade 4 Social Studies strand: the Franklin Expedition was a 19th-century voyage that attempted to navigate the Arctic and became a famous mystery when the ships were lost.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Franklin Expedition trying to do?",
+            "options": [
+              "Explore the desert",
+              "Navigate a route through the Arctic",
+              "Climb a mountain range",
+              "Sail across the Pacific"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happened to the Franklin Expeditions ships?",
+            "options": [
+              "They became lost, creating a historical mystery",
+              "They were never real ships",
+              "They never left port",
+              "They arrived successfully with no issues"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When did the Franklin Expedition take place?",
+            "options": [
+              "Last year",
+              "In the 1800s",
+              "In ancient times",
+              "It has not happened yet"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians and scientists remain interested in the Franklin Expedition?",
+            "options": [
+              "No evidence of it has ever been found",
+              "It reveals details about Arctic exploration and history",
+              "It is a modern event",
+              "It has no historical significance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Franklin Expedition is an example of ___.",
+            "options": [
+              "A modern space mission",
+              "A type of Canadian currency",
+              "Historical Arctic exploration",
+              "A sport played in Canada"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "label": "Day 118 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Debate Basics — Presenting and Countering Arguments",
+        "summary": "Grade 4 Language strand: a debate involves presenting a clear argument with supporting reasons, then respectfully listening and responding to the other sides points.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a key part of presenting an argument in a debate?",
+            "options": [
+              "Ignoring the topic",
+              "Yelling louder than the other side",
+              "Supporting it with clear reasons",
+              "Refusing to speak"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is listening important during a debate?",
+            "options": [
+              "It helps you understand and respond to the other sides points",
+              "It has no effect on the debate",
+              "You should never consider other viewpoints",
+              "Listening is not necessary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to counter an argument?",
+            "options": [
+              "To agree immediately with no thought",
+              "To repeat it exactly",
+              "To respond to it with your own reasoning or evidence",
+              "To ignore it completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A respectful debate involves ___.",
+            "options": [
+              "Refusing to speak at all",
+              "Listening and responding calmly",
+              "Interrupting constantly",
+              "Insulting the other side"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do students practice debating in school?",
+            "options": [
+              "To build skills in reasoning, listening, and public speaking",
+              "Debating has no educational value",
+              "It only teaches memorization",
+              "To avoid learning to communicate"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Dividing a Whole Number by a Unit Fraction",
+        "summary": "Grade 4 Math strand: dividing a whole number by a unit fraction, like 3 divided by 1/2, tells us how many of that fraction fit into the whole number.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does 3 divided by 1/2 ask?",
+            "options": [
+              "How many halves fit into 3",
+              "How many wholes fit into a half",
+              "The sum of 3 and 1/2",
+              "How many thirds fit into a half"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 3 divided by 1/2?",
+            "options": [
+              "1.5",
+              "3",
+              "2",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 4 divided by 1/4?",
+            "options": [
+              "1",
+              "8",
+              "16",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Dividing a whole number by a unit fraction usually gives an answer ___ the original whole number.",
+            "options": [
+              "Equal to",
+              "Larger than",
+              "Negative compared to",
+              "Smaller than"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does dividing by a fraction less than 1 make the number larger?",
+            "options": [
+              "Division always makes numbers smaller",
+              "Fractions cannot be divided",
+              "Because you are finding how many smaller pieces fit into the whole",
+              "It is a coincidence with no reason"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Owls and Other Birds of Prey — Adaptations for Hunting",
+        "summary": "Grade 4 Science strand: birds of prey like owls, hawks, and eagles have adaptations such as sharp talons, hooked beaks, and keen eyesight that help them hunt effectively.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are birds of prey adapted to do?",
+            "options": [
+              "Live only in water",
+              "Avoid all movement",
+              "Hunt effectively",
+              "Swim underwater only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What body part helps birds of prey grab their food?",
+            "options": [
+              "Soft fur",
+              "Sharp talons",
+              "Webbed feet",
+              "Long tails only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of beak do birds of prey typically have?",
+            "options": [
+              "A flat beak for filtering water",
+              "A hooked beak for tearing food",
+              "A beak made of fur",
+              "No beak at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sense is especially sharp in birds of prey like owls?",
+            "options": [
+              "Eyesight or hearing",
+              "Smell",
+              "Touch",
+              "Taste"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Adaptations in birds of prey help them ___.",
+            "options": [
+              "Lose their ability to fly",
+              "Avoid eating altogether",
+              "Live only underwater",
+              "Survive by hunting successfully"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Terry Fox — A Canadian Hero and His Marathon of Hope",
+        "summary": "Grade 4 Social Studies strand: Terry Fox was a young Canadian who ran partway across Canada to raise money for cancer research, inspiring an annual tradition that continues today.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What did Terry Fox do to raise money for cancer research?",
+            "options": [
+              "He wrote a book",
+              "He ran across much of Canada",
+              "He built a hospital himself",
+              "He painted a mural"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the name of Terry Foxs journey called?",
+            "options": [
+              "The Marathon of Hope",
+              "The Race for Life",
+              "The Great Run",
+              "The Cross-Canada Walk"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What continues today in honour of Terry Fox?",
+            "options": [
+              "A yearly parade with no cause",
+              "A national holiday with no purpose",
+              "Nothing continues",
+              "An annual run raising money for cancer research"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Terry Fox considered a Canadian hero?",
+            "options": [
+              "He was a prime minister",
+              "He showed great courage and inspired others to help a cause",
+              "He was a hockey champion",
+              "He was a famous actor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Terry Fox Run happening in schools across Canada shows ___.",
+            "options": [
+              "A random unrelated tradition",
+              "Canadians coming together to support a cause",
+              "A one-time-only event",
+              "A rule with no meaning"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "label": "Day 119 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing Song Lyrics or a Rap",
+        "summary": "Grade 4 Language strand: writing song lyrics or a rap involves choosing a topic, using rhythm and rhyme, and organizing ideas into verses and a repeating chorus.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What are the two repeating structural parts often found in songs?",
+            "options": [
+              "Verses and a chorus",
+              "Only a title",
+              "A table of contents",
+              "Only a footnote"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What poetic elements are commonly used in song lyrics?",
+            "options": [
+              "Only numbers",
+              "Rhythm and rhyme",
+              "Only silence",
+              "Only punctuation marks"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What usually stays the same each time it repeats in a song?",
+            "options": [
+              "The title only",
+              "The authors name",
+              "The chorus",
+              "The verse"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a songwriter choose words carefully for rhythm?",
+            "options": [
+              "Rhythm does not matter in songwriting",
+              "To avoid using any rhyme",
+              "To match the beat and flow of the music",
+              "Words are chosen randomly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is a first step in writing song lyrics?",
+            "options": [
+              "Choosing a clear topic or feeling to express",
+              "Avoiding any structure",
+              "Copying another song exactly",
+              "Skipping all planning"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Volume of Composite Rectangular Prisms",
+        "summary": "Grade 4 Math strand: the volume of a composite shape made of rectangular prisms is found by breaking it into simple prisms, finding each volume, then adding them together.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "How do you find the volume of a composite shape made of rectangular prisms?",
+            "options": [
+              "Multiply all side lengths of the whole shape at once",
+              "Break it into prisms, find each volume, and add them",
+              "Guess the volume",
+              "Measure only the height"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If two rectangular prisms have volumes of 24 and 10, what is the total composite volume?",
+            "options": [
+              "14",
+              "10",
+              "34",
+              "24"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What formula finds the volume of a single rectangular prism?",
+            "options": [
+              "Length x width x height",
+              "Length x width only",
+              "Height only",
+              "Length + width + height"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might real objects require composite volume calculations?",
+            "options": [
+              "Real objects are always simple cubes",
+              "Many real objects are combinations of simple 3D shapes",
+              "Composite volume is never used practically",
+              "Volume only applies to 2D shapes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The units for volume are typically expressed in ___.",
+            "options": [
+              "No units at all",
+              "Linear units only",
+              "Cubic units",
+              "Square units"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Bats and Echolocation",
+        "summary": "Grade 4 Science strand: bats are the only flying mammals, and many species use echolocation, bouncing sound waves off objects, to navigate and find food in the dark.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What makes bats unique among mammals?",
+            "options": [
+              "They lay eggs",
+              "They have no fur",
+              "They live underwater",
+              "They are the only mammals that truly fly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is echolocation?",
+            "options": [
+              "Using smell to hunt",
+              "Using light to see",
+              "Using taste to navigate",
+              "Using sound waves to locate objects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When are most bats active?",
+            "options": [
+              "Only in winter",
+              "At night",
+              "At noon",
+              "Only underwater"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do bats use echolocation to find food?",
+            "options": [
+              "They see insects glow in the dark",
+              "They taste the air",
+              "They listen for sound bouncing back off insects",
+              "They smell insects from far away"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Bats are classified as ___.",
+            "options": [
+              "Mammals",
+              "Reptiles",
+              "Birds",
+              "Insects"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Census — Counting Everyone in Canada",
+        "summary": "Grade 4 Social Studies strand: a census is an official count of everyone living in Canada, helping the government plan services like schools, hospitals, and roads.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is a census?",
+            "options": [
+              "A type of holiday",
+              "A sports event",
+              "A kind of map",
+              "An official count of everyone in a country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does the government conduct a census?",
+            "options": [
+              "To have no reason",
+              "To confuse citizens",
+              "To sell products",
+              "To help plan services like schools and hospitals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How often is a census usually taken in Canada?",
+            "options": [
+              "At regular intervals, such as every few years",
+              "Only once ever",
+              "Never",
+              "Every single day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which service might benefit from census information?",
+            "options": [
+              "Playing a game",
+              "Painting a fence",
+              "Planning new schools",
+              "Selling candy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A census helps a government understand ___.",
+            "options": [
+              "Sports scores",
+              "The weather forecast",
+              "Movie ratings",
+              "How many people live in different areas"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "label": "Day 120 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Sources, and Media Literacy",
+        "summary": "Grade 4 Language strand review: students revisit coordinating and subordinating conjunctions, gerunds and infinitives, appositives, primary and secondary sources, satire, and evaluating website credibility.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Which is a coordinating conjunction?",
+            "options": [
+              "Because",
+              "Since",
+              "Although",
+              "And"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a gerund?",
+            "options": [
+              "A verb form ending in -ing used as a noun",
+              "A punctuation mark",
+              "A prefix",
+              "A type of adjective"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an appositive?",
+            "options": [
+              "A noun or phrase that renames or explains another noun",
+              "A type of verb",
+              "A punctuation mark",
+              "A prefix"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a primary source?",
+            "options": [
+              "A textbook only",
+              "A firsthand account or original document",
+              "A summary written by someone else",
+              "A type of punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is satire?",
+            "options": [
+              "Using humour or exaggeration to criticize something",
+              "A grammar rule",
+              "A type of punctuation",
+              "A math term"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Number Sense, Geometry, and Measurement",
+        "summary": "Grade 4 Math strand review: students revisit percent, order of operations, LCM/GCF, prime factorization, outliers, composite area, scale drawings, and composite volume.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does percent mean?",
+            "options": [
+              "Out of one",
+              "Out of one thousand",
+              "Out of one hundred",
+              "Out of ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3 + 4 x 2 using the order of operations?",
+            "options": [
+              "14",
+              "11",
+              "9",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the LCM of 4 and 6?",
+            "options": [
+              "10",
+              "6",
+              "24",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the prime factorization of 12?",
+            "options": [
+              "2 x 6",
+              "1 x 12",
+              "3 x 4",
+              "2 x 2 x 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an outlier?",
+            "options": [
+              "The total of all values",
+              "The most common value",
+              "The middle value",
+              "A data value much higher or lower than the rest"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Human Body Systems and Earth Science",
+        "summary": "Grade 4 Science strand review: students revisit volcanoes and earthquakes, the skeletal and muscular systems, the circulatory system, the respiratory system, the nervous system, and density.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What organ pumps blood through the body?",
+            "options": [
+              "The brain",
+              "The stomach",
+              "The heart",
+              "The lungs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What organs are central to the respiratory system?",
+            "options": [
+              "The lungs",
+              "The skin",
+              "The stomach",
+              "The bones"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What organ controls the nervous system?",
+            "options": [
+              "The lungs",
+              "The stomach",
+              "The skin",
+              "The brain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is density?",
+            "options": [
+              "How much mass is packed into a given volume",
+              "The temperature of an object",
+              "The colour of an object",
+              "The shape of an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an earthquake?",
+            "options": [
+              "A slow-moving glacier",
+              "A type of storm",
+              "A kind of flood",
+              "A shaking of the ground caused by movement beneath the surface"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Government, History, and Canadian Identity",
+        "summary": "Grade 4 Social Studies strand review: students revisit the RCMP, the Senate, how a bill becomes a law, NATO, Canadian inventions, bilingualism, the Franklin Expedition, Terry Fox, and the census.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Royal Canadian Mounted Police",
+              "Regional Canadian Municipal Patrol",
+              "Real Canadian Mail Post",
+              "Royal Canadian Medical Program"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Senate?",
+            "options": [
+              "A sports league",
+              "The second chamber of Canadas Parliament",
+              "A type of court",
+              "A city government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does NATO stand for?",
+            "options": [
+              "North Atlantic Treaty Organization",
+              "North American Trade Office",
+              "National Alliance for Territorial Order",
+              "National Association of Trade Organizations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are Canadas two official languages?",
+            "options": [
+              "French and German",
+              "English and French",
+              "English only",
+              "English and Spanish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a census?",
+            "options": [
+              "A type of holiday",
+              "A kind of map",
+              "A sports event",
+              "An official count of everyone in a country"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
