@@ -4705,6 +4705,386 @@ const curriculum: DayContent[] = [
      {q:"What is habitat fragmentation?", options:["When wildlife habitats grow larger and more connected","A natural process unrelated to human development","The complete disappearance of all habitats worldwide","When human development divides natural habitats into smaller, isolated patches"], answer:3}
    ]},
 ]},
+{day:121, label:"Day 121 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: The Oxford Comma and Clarity in Lists", summary:"Grade 9 Language strand: the Oxford, or serial, comma appears before the final conjunction in a list of three or more items; while its use is a matter of style rather than strict rule, omitting it can sometimes create unintended ambiguity.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is the Oxford comma?", options:["A comma placed before the final conjunction in a list of three or more items","A comma that always ends a sentence","A comma used only in dialogue","A type of semicolon"], answer:0},
+     {q:"Why might omitting the Oxford comma sometimes cause confusion?", options:["The Oxford comma is required in every single sentence","It can make it unclear whether the final two items in a list are meant to be grouped together","Removing any comma always improves clarity","Commas have no effect on meaning"], answer:1},
+     {q:"Is the Oxford comma required by all English style guides?", options:["It was banned by all modern grammar authorities","No, some style guides require it while others treat it as optional","Yes, it is mandatory in every context with no exceptions","It only applies to numbers, never words"], answer:1},
+     {q:"In a list of exactly two items, is an Oxford comma used?", options:["Only in formal legal writing","No, the Oxford comma applies only to lists of three or more items","Yes, every list requires an Oxford comma regardless of length","Only if the items are proper nouns"], answer:1},
+     {q:"Which example best shows a list written with the Oxford comma?", options:["She packed sandwiches, apples and juice for the trip and left.","She packed: sandwiches; apples; juice.","She packed sandwiches apples and juice.","She packed sandwiches, apples, and juice for the trip."], answer:3}
+   ]},
+  {subject:"Math", title:"Algebra: Synthetic Division of Polynomials", summary:"Grade 9 Math strand: synthetic division is a shortcut method for dividing a polynomial by a linear binomial of the form x-a, using only the coefficients to quickly find the quotient and remainder.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does synthetic division provide a shortcut for?", options:["Multiplying two polynomials together","Finding the area of a triangle","Solving a system of linear equations","Dividing a polynomial by a linear binomial of the form x-a"], answer:3},
+     {q:"What does synthetic division primarily use in its calculations?", options:["Only the variable names","Only the coefficients of the polynomial","Only the exponents of the polynomial","Only the constant term, with nothing else"], answer:1},
+     {q:"What two results does synthetic division produce?", options:["A quotient and a remainder","Only a single sum","Only an average","Only a product"], answer:0},
+     {q:"Synthetic division can only be used when dividing by a polynomial of what form?", options:["A linear binomial, such as x-a","Only a quadratic expression","Any polynomial of any degree","Only a constant with no variable"], answer:0},
+     {q:"Why do students learn synthetic division alongside long division of polynomials?", options:["It replaces the need to ever multiply polynomials","It cannot be used to check any results","It offers a faster, more efficient method for a specific type of division","It always produces a different answer than long division"], answer:2}
+   ]},
+  {subject:"Science", title:"Gene Editing and CRISPR Technology: An Introduction", summary:"Grade 9 Science strand: CRISPR is a gene-editing technology that allows scientists to precisely add, remove, or alter sections of DNA, offering potential applications in medicine, agriculture, and genetic research.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does CRISPR technology allow scientists to do?", options:["Permanently prevent any changes to DNA","Convert DNA directly into RNA with no other function","Precisely add, remove, or alter sections of DNA","Only observe cells without altering them in any way"], answer:2},
+     {q:"What is one potential application of CRISPR technology?", options:["Preventing the study of genetics entirely","Eliminating the need for any medical research","Creating organisms with no DNA at all","Treating genetic diseases by correcting mutations in DNA"], answer:3},
+     {q:"Why is precision an important feature of CRISPR gene editing?", options:["CRISPR only works randomly with no targeting ability","It allows scientists to target specific sections of DNA with minimal unintended changes","Precision has no importance in gene editing","Precision eliminates the need for any DNA at all"], answer:1},
+     {q:"In what field, besides medicine, might CRISPR technology be applied?", options:["Only in the manufacturing of vehicles","Only in space exploration","Only in the design of buildings","Agriculture, to develop crops with desirable traits"], answer:3},
+     {q:"Why do ethical questions arise around the use of gene-editing technology like CRISPR?", options:["CRISPR cannot be used on any living organism","Ethical questions only apply to unrelated fields like architecture","Because altering DNA, especially in humans, raises questions about safety and long-term consequences","Gene editing has no ethical implications whatsoever"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Space Debris and Orbital Congestion", summary:"Grade 9 Social Studies (Geography) strand: space debris, including defunct satellites and fragments from past missions, increasingly crowds Earths orbit, raising geographic and policy questions about how nations can safely share and manage orbital space.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What is space debris?", options:["A type of ocean current","A natural weather pattern found only on Earth","A landform found in mountainous regions","Defunct satellites and fragments left over from past space missions"], answer:3},
+     {q:"Why is orbital congestion becoming an increasing concern?", options:["Satellites are banned from being launched into orbit","Space around Earth is considered limitless with no risk of crowding","There has never been any debris in Earths orbit","A growing number of satellites and debris fragments increases the risk of collisions"], answer:3},
+     {q:"What kind of questions does space debris raise for geographers and policymakers?", options:["Questions unrelated to any geographic or policy concerns","Only questions about ocean territory, not space","How nations can safely share and manage orbital space as a shared resource","Space debris raises no questions of any kind"], answer:2},
+     {q:"What could happen if a piece of space debris collides with a working satellite?", options:["The satellite would automatically repair itself","Collisions in orbit are considered impossible","It could damage or destroy the satellite and create even more debris","The debris would always simply disappear with no effect"], answer:2},
+     {q:"Why can space, despite being far from Earths surface, still be considered a geographic topic?", options:["Space has no connection to any human activity","Geography only studies land-based features and nothing else","Orbital space is entirely outside the scope of geography by definition","Geography studies how humans use and organize space, including the orbital region around Earth"], answer:3}
+   ]},
+]},
+{day:122, label:"Day 122 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Eponyms and Words Derived From Names", summary:"Grade 9 Language strand: an eponym is a word formed from a persons name, a place, or a brand, such as sandwich or boycott, showing how history and biography can shape everyday vocabulary.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is an eponym?", options:["A word that has only one syllable","A punctuation mark","A word formed from the name of a person, place, or brand","A word with no historical origin"], answer:2},
+     {q:"Which of these words is a well known eponym?", options:["Blue","Table","Sandwich, named after the Earl of Sandwich","Quickly"], answer:2},
+     {q:"What does the study of eponyms reveal about language?", options:["That eponyms are limited only to scientific terms","That real people, places, and events can shape everyday vocabulary over time","That vocabulary never changes over time","That all words are invented randomly with no history"], answer:1},
+     {q:"Which category can an eponym be derived from?", options:["Only numbers","A brand name that becomes a general term, such as thermos","Only punctuation marks","Only foreign alphabets"], answer:1},
+     {q:"Why might understanding eponyms help a reader with vocabulary?", options:["It has no effect on vocabulary comprehension","It makes words harder to remember","It only applies to scientific writing","It connects word meanings to memorable stories or origins, aiding recall"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Theory: Prime Factorization and the Fundamental Theorem of Arithmetic", summary:"Grade 9 Math strand: prime factorization expresses a number as a product of prime numbers, and the Fundamental Theorem of Arithmetic states that every integer greater than one has exactly one such prime factorization, aside from the order of the factors.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does prime factorization express a number as?", options:["A product of prime numbers","A sum of even numbers only","A single prime number only","A quotient of two fractions"], answer:0},
+     {q:"What does the Fundamental Theorem of Arithmetic state?", options:["Every integer has infinitely many different prime factorizations","Every integer greater than one has exactly one prime factorization, aside from order","Only even numbers can be factored into primes","Prime numbers do not exist"], answer:1},
+     {q:"What is the prime factorization of 12?", options:["1 x 12","2 x 6","2 x 2 x 3","3 x 4"], answer:2},
+     {q:"Which of these is a prime number?", options:["21","7","15","9"], answer:1},
+     {q:"Why is prime factorization useful in mathematics?", options:["It only applies to negative numbers","It eliminates the need for multiplication entirely","It has no practical mathematical application","It helps find greatest common factors and least common multiples efficiently"], answer:3}
+   ]},
+  {subject:"Science", title:"Reaction Rates and Catalysts in Chemical Reactions", summary:"Grade 9 Science strand: the rate of a chemical reaction describes how quickly reactants convert into products, and a catalyst is a substance that speeds up a reaction without being consumed in the process.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does the rate of a chemical reaction describe?", options:["The colour of the final product","The temperature of the room where the reaction occurs","How quickly reactants convert into products","The total mass of the reactants only"], answer:2},
+     {q:"What is a catalyst?", options:["A type of container used to store chemicals","A substance that always slows down a reaction","A product formed only after a reaction ends","A substance that speeds up a reaction without being consumed"], answer:3},
+     {q:"Which factor can increase the rate of a chemical reaction?", options:["Decreasing the concentration of every reactant to zero","Increasing the temperature of the reactants","Eliminating any contact between reactants","Removing all reactants from the reaction"], answer:1},
+     {q:"Why is a catalyst considered efficient in industrial chemistry?", options:["It can be reused repeatedly since it is not consumed by the reaction","It has no effect on reaction speed","It always slows industrial processes significantly","It must be replaced after every single use"], answer:0},
+     {q:"Increasing the surface area of a solid reactant typically has what effect on reaction rate?", options:["It has no effect on how particles collide","It only affects the reactions colour","It increases the reaction rate by exposing more particles to collide","It always stops the reaction completely"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Shrinking Inland Seas and Lakes", summary:"Grade 9 Social Studies (Geography) strand: inland seas and large lakes, such as the Aral Sea, have shrunk dramatically in some regions due to water diversion for agriculture and climate change, reshaping local economies and ecosystems.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What has caused some inland seas and lakes to shrink dramatically?", options:["Water diversion for agriculture and the effects of climate change","A sudden and permanent increase in rainfall","An unexplainable natural process with no identifiable cause","The complete absence of any human activity nearby"], answer:0},
+     {q:"What is one example of a dramatically shrinking inland body of water?", options:["The Arctic Ocean","The Atlantic Ocean","The Aral Sea","The Pacific Ocean"], answer:2},
+     {q:"How can a shrinking inland sea affect local economies?", options:["Local economies always improve when a sea shrinks","Industries like fishing that depend on the water can decline sharply","Shrinking water bodies have no economic effect whatsoever","Fishing industries always expand as water levels drop"], answer:1},
+     {q:"What environmental effect can a shrinking lake have on surrounding ecosystems?", options:["Ecosystems are entirely unaffected by changes in water levels","New permanent oceans are created as a direct result","Environmental conditions always improve for local wildlife","Loss of habitat for fish and other wildlife dependent on the water"], answer:3},
+     {q:"Why do geographers study cases like the shrinking of inland seas?", options:["Geography does not study changes in water bodies over time","These cases have no relevance to the study of geography","Shrinking water bodies are considered purely a historical topic with no modern relevance","To understand the human and environmental consequences of water resource management decisions"], answer:3}
+   ]},
+]},
+{day:123, label:"Day 123 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Tragic Heroes and the Concept of Hamartia", summary:"Grade 9 Language strand: a tragic hero is a protagonist of noble stature whose hamartia, or fatal flaw, leads to their downfall, a concept originating in classical drama and still shaping literature today.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is hamartia?", options:["A type of happy ending","A fatal flaw or error in judgment that leads to a tragic heros downfall","A rhyme scheme in poetry","A minor background character"], answer:1},
+     {q:"What is a defining trait of a tragic hero?", options:["A character who is always victorious","Complete perfection with no flaws at all","A character who never faces any conflict","Noble stature combined with a flaw that ultimately causes their downfall"], answer:3},
+     {q:"In what type of drama did the concept of the tragic hero originate?", options:["Modern science fiction only","Silent films","Classical Greek drama","Contemporary comic strips"], answer:2},
+     {q:"Which is an example of a possible hamartia?", options:["A characters kindness with no consequence at all","Excessive pride, or hubris, that blinds a character to danger","A characters lack of any personality","A characters physical height"], answer:1},
+     {q:"Why do tragic heroes remain a compelling subject in literature?", options:["They are always minor, forgettable characters","Their flaws make them relatable while their downfall evokes pity and reflection","Tragic heroes never evoke any emotion in readers","Their stories never involve any conflict"], answer:1}
+   ]},
+  {subject:"Math", title:"Trigonometry: The Pythagorean Trigonometric Identity", summary:"Grade 9 Math strand: the Pythagorean trigonometric identity states that sine squared plus cosine squared of an angle always equals one, a relationship derived directly from the Pythagorean Theorem applied to the unit circle.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does the Pythagorean trigonometric identity state?", options:["Sine minus cosine always equals one","Tangent squared always equals negative one","Sine plus cosine always equals zero","Sine squared plus cosine squared of an angle equals one"], answer:3},
+     {q:"From what earlier concept is the Pythagorean trigonometric identity derived?", options:["The quadratic formula","The Pythagorean Theorem applied to the unit circle","The binomial theorem","The distance formula only"], answer:1},
+     {q:"If sine of an angle is 0, what must cosine squared equal, according to the identity?", options:["-1","2","1","0"], answer:2},
+     {q:"Why is this identity considered fundamental in trigonometry?", options:["It only works for angles greater than 360 degrees","It has no use beyond a single specific angle","It connects sine and cosine for any angle and supports many other identities","It contradicts the definitions of sine and cosine"], answer:2},
+     {q:"The Pythagorean trigonometric identity applies to ___.", options:["Only angles less than 10 degrees","Only angles measured in a right triangle","Only angles equal to exactly 90 degrees","Any angle, since it holds true for all real values"], answer:3}
+   ]},
+  {subject:"Science", title:"Simple Harmonic Motion and the Physics of Pendulums", summary:"Grade 9 Science strand: simple harmonic motion describes a repeating back-and-forth movement, such as that of a swinging pendulum, where a restoring force continually pulls the object back toward a central equilibrium position.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does simple harmonic motion describe?", options:["A repeating back-and-forth movement around a central equilibrium position","Motion that only occurs in outer space","A completely random and unpredictable movement","A single, non-repeating movement in one direction"], answer:0},
+     {q:"What force is responsible for pulling a pendulum back toward its resting position?", options:["An entirely random, unpredictable force","A restoring force, largely due to gravity","A force that pushes the pendulum farther away every time","No force acts on a pendulum at all"], answer:1},
+     {q:"Which of these is a real-world example of simple harmonic motion?", options:["A car driving in a straight line at constant speed","A swinging pendulum in a clock","A ball resting motionless on a flat table","A rocket travelling in a straight line away from Earth"], answer:1},
+     {q:"What happens to a pendulums swing over time if energy is lost to friction and air resistance?", options:["The swing instantly stops moving in every case","The swing speeds up indefinitely with no limit","The swing gradually decreases in amplitude","The swing changes into a completely different shape of motion"], answer:2},
+     {q:"Simple harmonic motion is a foundational concept for understanding which broader physics topics?", options:["Waves and vibrations","Only chemical bonding","Only cellular biology","Only plate tectonics"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Global Remittances and Migrant Labour", summary:"Grade 9 Social Studies (Geography) strand: remittances are funds sent by migrant workers back to their home countries, forming a major economic flow that connects global labour migration patterns to development in many regions.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What are remittances?", options:["Payments made only between two neighbouring countries with no individuals involved","Taxes collected exclusively by national governments","Loans given only to large corporations","Funds sent by migrant workers back to their home countries"], answer:3},
+     {q:"How do remittances connect to global migration patterns?", options:["Migrant workers never send money to their home countries","Remittances have no connection to migration of any kind","They only occur within a single countrys borders","They represent an economic flow tied directly to where migrant workers choose to work"], answer:3},
+     {q:"What impact can remittances have on a migrant workers home country?", options:["They can provide a significant source of income supporting families and local development","They are typically smaller than all other sources of national income combined","Remittances always harm the economic development of the home country","They have no measurable impact on the receiving country"], answer:0},
+     {q:"Why might someone choose to work as a migrant labourer in another country?", options:["There is no economic incentive involved in migrant labour","Migrant labour never involves seeking better economic opportunities","To access greater economic opportunities than may be available at home","All migrant workers are forced to work with no personal choice involved"], answer:2},
+     {q:"Why do geographers study the global flow of remittances?", options:["Remittances have no geographic significance","Only the destination country is affected by remittances","It reveals patterns of economic interdependence between origin and destination countries","This flow of money is considered entirely random with no patterns"], answer:2}
+   ]},
+]},
+{day:124, label:"Day 124 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Cover Letter", summary:"Grade 9 Language strand: a cover letter introduces a job or program applicant to a potential employer, highlighting relevant skills and experiences in a concise, professional tone that complements a resume.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is the purpose of a cover letter?", options:["To criticize the employer","To list unrelated personal opinions","To introduce an applicant and highlight relevant skills for a specific opportunity","To replace a resume entirely"], answer:2},
+     {q:"What tone should a cover letter typically maintain?", options:["An extremely casual and informal tone","An aggressive and demanding tone","A concise, professional tone","A tone with no clear purpose"], answer:2},
+     {q:"What should a strong cover letter highlight?", options:["Only complaints about previous employers","Nothing related to the applicants qualifications","Specific skills and experiences relevant to the opportunity","Only the applicants personal hobbies with no connection to the job"], answer:2},
+     {q:"How does a cover letter typically relate to a resume?", options:["It replaces the need for a resume completely","It complements the resume by providing context and personality","It contradicts everything listed on the resume","It has no connection to the resume at all"], answer:1},
+     {q:"Why is conciseness important in a cover letter?", options:["Cover letters are always expected to be extremely long","Concise writing is never valued professionally","Employers often review many applications and appreciate a clear, focused message","Length has no effect on how a cover letter is received"], answer:2}
+   ]},
+  {subject:"Math", title:"Algebra: Solving Systems of Equations in Three Variables", summary:"Grade 9 Math strand: a system of equations in three variables can be solved by systematically eliminating one variable at a time until the system reduces to two equations in two variables, then continuing to substitute back to find all three values.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What is the goal when solving a system of three equations with three variables?", options:["To ignore two of the three equations completely","To combine all equations into a single variable with no solution","To find the values of all three variables that satisfy every equation","To eliminate every variable entirely with no solution remaining"], answer:2},
+     {q:"What is a common first step in solving a three-variable system?", options:["Deleting one of the equations without using it","Multiplying all three equations by zero","Immediately guessing random values for each variable","Eliminating one variable to reduce the system to two equations in two variables"], answer:3},
+     {q:"How many independent equations are generally needed to solve for three unique variables?", options:["Exactly five equations","Only one equation","Three independent equations","No equations are needed"], answer:2},
+     {q:"What does it mean if a three-variable system has no solution?", options:["The equations are inconsistent and their planes do not share a common intersection point","It means the system was solved incorrectly by definition","It means all three variables equal zero","The system always has infinitely many solutions instead"], answer:0},
+     {q:"Systems of equations in three variables can be used to model real-world situations involving ___.", options:["Only situations involving geometry, never algebra","Situations with no numerical relationships at all","Three unknown quantities that are related by multiple conditions","Only situations with a single unknown quantity"], answer:2}
+   ]},
+  {subject:"Science", title:"Exoplanets and the Search for Habitable Worlds", summary:"Grade 9 Science strand: an exoplanet is a planet that orbits a star outside our solar system, and astronomers search for exoplanets within a stars habitable zone, where conditions might allow liquid water to exist.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What is an exoplanet?", options:["A star with no orbiting planets","A moon that orbits a planet","A planet that orbits a star outside our solar system","A planet located within our own solar system only"], answer:2},
+     {q:"What is a habitable zone?", options:["The region around a star where conditions might allow liquid water to exist","A region with absolutely no stars nearby","A region where no planets can ever form","The exact centre of every galaxy"], answer:0},
+     {q:"Why is liquid water an important factor when searching for potentially habitable exoplanets?", options:["Liquid water always indicates the presence of intelligent life","It is considered essential for life as we understand it","Water has no connection to the possibility of life","Water is irrelevant to planetary habitability studies"], answer:1},
+     {q:"What method do astronomers commonly use to detect exoplanets?", options:["Observing the slight dimming of a stars light as a planet passes in front of it","Guessing randomly with no supporting evidence","Listening for radio signals from every planet","Sending physical spacecraft to every star in the galaxy"], answer:0},
+     {q:"Why does the study of exoplanets excite scientists and the public alike?", options:["The topic has no connection to the search for life","Exoplanets have no scientific significance","Exoplanets are identical to planets in our own solar system","It raises the possibility of finding other habitable worlds or even signs of life"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Urban Transit Systems and Public Transportation", summary:"Grade 9 Social Studies (Geography) strand: urban transit systems, including buses, subways, and light rail, shape how efficiently people move through a city and influence patterns of urban development and accessibility.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What role do urban transit systems play in a city?", options:["They shape how efficiently people move through the city and access opportunities","They have no influence on how a city functions","They eliminate the need for any roads or infrastructure","They only exist in rural farmland with no urban application"], answer:0},
+     {q:"Which of these is an example of public transportation?", options:["A subway system","A single-family home","A private car owned by one household","A bicycle owned by one individual"], answer:0},
+     {q:"How can access to public transit affect a neighbourhoods development?", options:["Areas with strong transit access often see increased development and property values","Every neighbourhood develops identically regardless of transit access","Public transit always causes a neighbourhoods population to decline","Transit access has no effect on neighbourhood development"], answer:0},
+     {q:"What is one benefit of well-developed public transportation for a city?", options:["It eliminates the need for any urban planning","Reduced traffic congestion and lower per-person emissions compared to individual cars","Public transportation always increases traffic congestion","It has no effect on a citys environmental impact"], answer:1},
+     {q:"Why might geographers study the design and equity of transit systems?", options:["Every resident of a city always has identical access to transit","Transit systems are unrelated to the study of urban geography","Transit design has no connection to social or economic equity","To understand how transportation access affects opportunity and quality of life across a city"], answer:3}
+   ]},
+]},
+{day:125, label:"Day 125 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Influencer Marketing and Disclosure", summary:"Grade 9 Language strand: influencer marketing involves individuals promoting products to their followers, and ethical practice requires clear disclosure of paid partnerships so audiences can distinguish genuine opinions from sponsored content.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is influencer marketing?", options:["A form of advertising banned in all countries","A type of grammar rule","Individuals promoting products or services to their followers, often for payment","A citation format for academic essays"], answer:2},
+     {q:"Why is disclosure important in influencer marketing?", options:["It allows audiences to distinguish genuine opinions from paid promotion","Disclosure has no effect on how audiences interpret content","Influencers are never paid for their content","Disclosure is legally required to be hidden from audiences"], answer:0},
+     {q:"What might indicate that a social media post is a paid partnership?", options:["A post published only once a year","A label such as Paid Partnership or Sponsored near the post","A post with no images at all","The complete absence of any product mention"], answer:1},
+     {q:"Why might followers trust an influencers recommendation?", options:["Recommendations from influencers are always required by law to be false","Followers never trust any online content","Influencers never have any audience connection","They may view the influencer as relatable or knowledgeable, unlike traditional ads"], answer:3},
+     {q:"What is a potential risk of undisclosed influencer marketing?", options:["Undisclosed marketing always improves audience trust","Audiences always immediately recognize every paid partnership","There are no risks associated with undisclosed marketing","Audiences may be misled into thinking a paid promotion is a genuine opinion"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: An Introduction to the Dot Product of Vectors", summary:"Grade 9 Math strand: the dot product combines two vectors to produce a single scalar value, calculated by multiplying corresponding components and summing the results, and it can reveal the angle between two vectors.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What type of value does the dot product of two vectors produce?", options:["A complex number","A new vector with a different direction","A matrix","A single scalar value"], answer:3},
+     {q:"How is the dot product of two vectors calculated?", options:["By multiplying corresponding components and summing the results","By subtracting one vector from the other","By adding the magnitudes of each vector only","By dividing one vector by the other"], answer:0},
+     {q:"What can the dot product help determine about two vectors?", options:["Their colour","Their location on a map","The angle between them","Only their individual lengths, never their relationship"], answer:2},
+     {q:"If the dot product of two nonzero vectors equals zero, what does this suggest?", options:["The vectors cannot be graphed","The vectors have no length at all","The vectors point in exactly the same direction","The vectors are perpendicular to each other"], answer:3},
+     {q:"The dot product is a useful tool in fields such as ___.", options:["Physics, for calculating work done by a force","Only music theory","Only literary analysis","Only culinary arts"], answer:0}
+   ]},
+  {subject:"Science", title:"The Integumentary System: Skin as a Vital Organ", summary:"Grade 9 Science strand: the integumentary system, consisting mainly of the skin, protects the body from pathogens and injury, regulates temperature, and provides sensory information about the external environment.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What is the primary organ of the integumentary system?", options:["The lungs","The heart","The liver","The skin"], answer:3},
+     {q:"What is one major function of the skin?", options:["Pumping blood throughout the body","Protecting the body from pathogens and physical injury","Filtering air before it enters the lungs","Digesting food for nutrient absorption"], answer:1},
+     {q:"How does skin help regulate body temperature?", options:["By preventing any heat from ever leaving the body","Through processes like sweating and adjusting blood flow near the surface","Skin has no role in regulating body temperature","By converting heat directly into sound"], answer:1},
+     {q:"What sensory information can skin provide about the environment?", options:["Touch, pressure, temperature, and pain","Only information about taste","Only information about light and colour","Only information about sound"], answer:0},
+     {q:"Why is the skin classified as an organ rather than simply a covering?", options:["It performs no measurable biological function","It is composed of multiple tissue types working together to perform specific functions","It is not connected to any other body system","It has no distinct structure or function"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Deserts and Desertification", summary:"Grade 9 Social Studies (Geography) strand: deserts are regions receiving very little precipitation, and desertification is the process by which fertile land becomes increasingly arid, often driven by climate change, overgrazing, and unsustainable land use.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What defines a desert region?", options:["A region that receives very little precipitation","A region located only near the equator","A region with no temperature variation at all","A region with the highest rainfall on Earth"], answer:0},
+     {q:"What is desertification?", options:["A term with no connection to land or climate","The process by which deserts turn into rainforests","The process by which fertile land becomes increasingly arid","The permanent freezing of tropical regions"], answer:2},
+     {q:"What human activity can contribute to desertification?", options:["Planting trees to restore degraded land","Protecting natural vegetation from being removed","Overgrazing of livestock on fragile land","Reducing water use in agriculture"], answer:2},
+     {q:"How can climate change contribute to desertification?", options:["Rising temperatures and shifting precipitation patterns can dry out previously fertile land","Desertification only occurs in regions with no climate variation","Climate change has no connection to changes in land fertility","Climate change always increases rainfall in every region uniformly"], answer:0},
+     {q:"Why is desertification a significant concern for communities living near affected land?", options:["Fertile land is unaffected by any changes in surrounding deserts","It can threaten agriculture, water supplies, and livelihoods dependent on fertile land","Desertification has no effect on nearby human communities","Communities always benefit economically from desertification"], answer:1}
+   ]},
+]},
+{day:126, label:"Day 126 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Ellipsis and the Em Dash in Formal Writing", summary:"Grade 9 Language strand: an ellipsis (three spaced or unspaced dots) signals omitted words or a trailing thought, while an em dash creates a strong break to emphasize or interrupt an idea, and formal writing uses both with restraint.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What does an ellipsis typically signal in writing?", options:["Omitted words or a trailing, unfinished thought","A question being asked","A grammatical error","The end of a formal citation"], answer:0},
+     {q:"What effect does an em dash create in a sentence?", options:["It replaces every comma in a sentence","A strong break that emphasizes or interrupts an idea","No effect on the sentence at all","It always ends a sentence with a question"], answer:1},
+     {q:"How many dots typically make up an ellipsis?", options:["Seven","One","Five","Three"], answer:3},
+     {q:"Why should formal writing use ellipses and em dashes with restraint?", options:["They have no effect on tone in formal writing","Overuse can make writing feel informal or disorganized","These marks are banned entirely from formal writing","Formal writing requires using them in every sentence"], answer:1},
+     {q:"Which sentence correctly uses an em dash for emphasis?", options:["The results were cleartheteam succeeded","The results were clear — the team had succeeded beyond expectations.","The results were... clear, the, team succeeded","The results, were, clear the team succeeded."], answer:1}
+   ]},
+  {subject:"Math", title:"Algebra: An Introduction to Mathematical Proof by Induction", summary:"Grade 9 Math strand: mathematical induction proves a statement is true for all natural numbers by first establishing a base case and then showing that if the statement holds for one value, it must also hold for the next.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does mathematical induction prove?", options:["That a statement is true for all natural numbers","That a statement is false for every number","That every polynomial can be factored","That a single equation has no solution"], answer:0},
+     {q:"What is the first step in a proof by induction called?", options:["The final conclusion","The remainder","The coefficient","The base case"], answer:3},
+     {q:"What must be shown in the inductive step of a proof by induction?", options:["That the statement is false for every value tested","That no base case is ever required","That if the statement holds for one value, it also holds for the next value","That the statement only applies to negative numbers"], answer:2},
+     {q:"Why is the base case an essential part of a proof by induction?", options:["It only applies to even numbers","It establishes the starting point that anchors the entire chain of reasoning","It has no importance to the overall proof","It replaces the need for an inductive step entirely"], answer:1},
+     {q:"Mathematical induction is often compared to which everyday image?", options:["A random guess with no logical structure","A single isolated event with no connections","A chain of falling dominoes, where each one knocks over the next","A flat, unchanging line with no pattern"], answer:2}
+   ]},
+  {subject:"Science", title:"Groundwater and Aquifer Systems", summary:"Grade 9 Science strand: groundwater is water stored beneath the surface within permeable rock or sediment layers called aquifers, and it represents a major source of fresh water for drinking, agriculture, and industry.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What is groundwater?", options:["Water found only in oceans","Water that has evaporated completely","Water that exists only in the atmosphere","Water stored beneath the surface within permeable rock or sediment layers"], answer:3},
+     {q:"What is an aquifer?", options:["A type of surface river","A machine used to purify ocean water","A structure built only to store rainwater on the surface","An underground layer of permeable rock or sediment that holds groundwater"], answer:3},
+     {q:"What is groundwater commonly used for?", options:["Only for generating electricity","It has no practical human use","Only for recreational swimming","Drinking water, agriculture, and industrial processes"], answer:3},
+     {q:"What can happen to an aquifer if groundwater is withdrawn faster than it is naturally replenished?", options:["The surrounding land always rises higher as a result","Aquifers can never be depleted under any circumstances","The aquifer instantly refills itself with no consequences","The water table can drop, potentially depleting the aquifer over time"], answer:3},
+     {q:"Why is protecting groundwater from contamination especially important?", options:["Aquifers are a major source of drinking water and can be difficult to clean once polluted","Aquifers are located far away from any human activity","Groundwater has no connection to drinking water supplies","Contamination of groundwater is always immediately reversible"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of River Deltas and Sedimentation", summary:"Grade 9 Social Studies (Geography) strand: a river delta forms where a river deposits sediment as it slows and meets a larger body of water, creating fertile, low-lying land that supports dense agriculture and settlement but faces risks from flooding and rising seas.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What is a river delta?", options:["Landform created where a river deposits sediment as it meets a larger body of water","A dry region with almost no water present","A mountain range formed by tectonic activity","A type of underground cave system"], answer:0},
+     {q:"Why do river deltas typically have very fertile soil?", options:["Fertile soil in deltas comes exclusively from volcanic activity","Deltas never receive any sediment from rivers","Delta soil is considered among the least fertile on Earth","Rivers deposit nutrient-rich sediment as they slow down and spread out"], answer:3},
+     {q:"Why have many river deltas historically attracted dense human settlement?", options:["Historically, people have avoided settling near deltas entirely","Deltas offer no advantages for farming or trade","Fertile land and access to water support agriculture and trade","Deltas are typically the driest regions on any continent"], answer:2},
+     {q:"What risk do many low-lying river deltas face today?", options:["Increased flooding risk linked to rising sea levels and land subsidence","Deltas face no environmental risks of any kind","Deltas are the least likely landform to ever flood","Rising sea levels have no effect on delta regions"], answer:0},
+     {q:"How can upstream dam construction affect a river delta downstream?", options:["It can reduce the sediment reaching the delta, contributing to land loss over time","Dam construction guarantees a deltas long-term stability","Upstream dams have no effect on downstream delta regions","Dams always increase the amount of sediment reaching a delta"], answer:0}
+   ]},
+]},
+{day:127, label:"Day 127 — Tue", subjects:[
+  {subject:"Language", title:"Writing: The Elegy and Occasional Writing", summary:"Grade 9 Language strand: an elegy is a reflective poem or piece of writing that mourns a loss, often a persons death, using formal, contemplative language to express grief and honour memory.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is an elegy?", options:["A reflective poem or piece of writing that mourns a loss","A type of business letter","A scientific report format","A humorous poem with no serious tone"], answer:0},
+     {q:"What tone does an elegy typically use?", options:["A tone with no emotional content","An aggressive and mocking tone","A purely comedic tone","A formal, contemplative tone expressing grief and reflection"], answer:3},
+     {q:"What is an elegy commonly written to honour?", options:["The memory of someone who has died","A recipe for a meal","A new invention","A sports victory"], answer:0},
+     {q:"Occasional writing refers to writing composed for what purpose?", options:["Only fictional stories with no real-world connection","A specific event or occasion, such as a memorial or celebration","No specific purpose at all","Only technical manuals"], answer:1},
+     {q:"Why might a writer choose formal language in an elegy?", options:["Formal language is never appropriate for this purpose","To make the subject seem unimportant","To confuse the reader intentionally","To convey the seriousness and depth of the loss being honoured"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Insurance and Risk Management", summary:"Grade 9 Math strand: insurance is a financial product in which individuals pay regular premiums to transfer the risk of significant financial loss to an insurer, a key strategy in personal risk management.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What is insurance?", options:["A type of loan with no repayment required","A tax collected only by the government","A guaranteed way to avoid ever losing money","A financial product where individuals pay premiums to transfer risk of loss to an insurer"], answer:3},
+     {q:"What is a premium in the context of insurance?", options:["The total amount paid out after a claim","A type of penalty for late payments","The regular payment made to maintain an insurance policy","A one-time payment with no future obligation"], answer:2},
+     {q:"Why might someone choose to purchase insurance?", options:["To protect against the financial impact of an unexpected, costly event","To avoid paying any future costs whatsoever","To guarantee they will never experience any loss","Insurance provides no financial benefit at all"], answer:0},
+     {q:"What is the basic concept behind risk management?", options:["Ignoring all potential risks completely","Risk management always eliminates risk permanently","Identifying potential risks and taking steps to reduce or transfer their impact","Risk cannot be planned for in any way"], answer:2},
+     {q:"Which of these is a common type of insurance?", options:["Health insurance, covering medical expenses","A grocery store discount card","A student ID card","A library membership"], answer:0}
+   ]},
+  {subject:"Science", title:"Acid Rain: Causes and Environmental Effects", summary:"Grade 9 Science strand: acid rain forms when pollutants such as sulfur dioxide and nitrogen oxides react with water vapour in the atmosphere, producing precipitation with a lower pH that can damage ecosystems, buildings, and water sources.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What causes acid rain to form?", options:["Increased sunlight with no connection to pollution","Pollutants like sulfur dioxide and nitrogen oxides reacting with water vapour in the atmosphere","Only natural evaporation with no pollutants involved","Sudden temperature drops with no chemical reactions"], answer:1},
+     {q:"What happens to the pH of precipitation affected by acid rain?", options:["The pH remains completely unchanged","pH has no relevance to acid rain","It becomes more acidic, or lower in pH","It becomes more basic, or higher in pH"], answer:2},
+     {q:"What is one environmental effect of acid rain?", options:["Damage to forests, lakes, and aquatic ecosystems","Elimination of all pollution in the atmosphere","Immediate improvement of soil fertility everywhere","Increased growth in every affected ecosystem with no harm"], answer:0},
+     {q:"Besides ecosystems, what else can acid rain damage?", options:["Only items made entirely of glass","Buildings and monuments made of certain materials like limestone","Acid rain causes no damage to any human-made structures","Only objects located deep underground"], answer:1},
+     {q:"What human activities are major contributors to the pollutants that cause acid rain?", options:["Recycling paper products","Planting trees and restoring forests","Burning fossil fuels in vehicles and power plants","Conserving water during droughts"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Pharmaceutical Access and Production", summary:"Grade 9 Social Studies (Geography) strand: the global geography of pharmaceutical production and distribution is uneven, with manufacturing concentrated in certain regions and many lower-income countries facing significant barriers to accessing essential medicines.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What does the geography of pharmaceutical production reveal?", options:["That every country produces an identical share of the worlds medicine","That manufacturing is concentrated in certain regions rather than distributed evenly worldwide","That medicine is produced entirely without any regional concentration","That pharmaceutical production has no geographic pattern at all"], answer:1},
+     {q:"What barrier might lower-income countries face in accessing essential medicines?", options:["High costs and limited local manufacturing or distribution infrastructure","Access to medicine has no connection to a countrys income level","Essential medicines are always freely available everywhere in the world","Lower-income countries face no barriers to medical access whatsoever"], answer:0},
+     {q:"Why might a country want to develop its own pharmaceutical manufacturing capacity?", options:["Local manufacturing always increases costs with no benefit","To reduce dependence on imports and improve access during global supply disruptions","Countries never benefit from producing their own medicine","Pharmaceutical manufacturing has no connection to supply chain resilience"], answer:1},
+     {q:"How did global supply chains for medicine face challenges during recent global health crises?", options:["Medicine supply chains operate independently of any global events","Disruptions in production and shipping made some medicines and supplies harder to access","Health crises always improve global access to medicine","Global supply chains for medicine are never affected by health crises"], answer:1},
+     {q:"Why do geographers study patterns of pharmaceutical access around the world?", options:["Pharmaceutical access has no connection to geography","This topic is considered purely a medical issue with no geographic dimension","To understand how location and economic development shape health outcomes","Every region of the world has identical access to medicine"], answer:2}
+   ]},
+]},
+{day:128, label:"Day 128 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Malapropisms and Commonly Confused Words", summary:"Grade 9 Language strand: a malapropism occurs when a similar-sounding word is mistakenly used in place of the intended word, often creating an unintentionally humorous or nonsensical effect, such as saying dance a flamingo instead of flamenco.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is a malapropism?", options:["A formal grammatical rule","A word borrowed directly from another language","The mistaken use of a similar-sounding word in place of the intended word","A type of punctuation mark"], answer:2},
+     {q:"What effect do malapropisms often create?", options:["An unintentionally humorous or nonsensical effect","No effect on meaning at all","A completely serious and formal tone","Perfect clarity with no confusion"], answer:0},
+     {q:"Which is an example of a malapropism?", options:["Speaking only in complete silence","Using no words at all","Saying prescription instead of description, because the words sound alike","Using the correct word in every context"], answer:2},
+     {q:"Why do malapropisms commonly occur?", options:["They only occur in written text, never speech","The intended word and the word actually used sound similar","The words have completely different sounds and spellings","Malapropisms are always used intentionally for formal effect"], answer:1},
+     {q:"Why is it useful to recognize commonly confused words?", options:["It helps writers and speakers communicate their intended meaning clearly","Confusing words always improves clarity","Confused words are never actually a problem in communication","Recognizing confused words has no communicative benefit"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: An Introduction to Conditional Probability", summary:"Grade 9 Math strand: conditional probability calculates the likelihood of an event occurring given that another event has already happened, refining the probability estimate based on new information.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does conditional probability calculate?", options:["The likelihood of an event occurring given that another event has already happened","The total number of possible outcomes only","The average of two unrelated probabilities","The probability of an event with no other information considered"], answer:0},
+     {q:"How does new information affect a conditional probability calculation?", options:["It always makes an event impossible","New information never changes any probability calculation","It has no mathematical effect on probability","It can refine and change the probability estimate for the second event"], answer:3},
+     {q:"If drawing a card from a standard deck, how might conditional probability apply?", options:["Ignoring the type of card drawn entirely","Assuming every card has an identical fixed probability with no conditions","Calculating the probability of drawing a king, given that the card drawn is a face card","Calculating the probability without ever looking at the deck"], answer:2},
+     {q:"Conditional probability is often written using what kind of notation?", options:["Roman numerals exclusively","P(A given B), showing the probability of A occurring given B","A single unlabeled percentage","Only whole numbers with no variables"], answer:1},
+     {q:"Why is conditional probability useful in real-world contexts, like medical testing?", options:["It has no real-world applications","It always guarantees a certain outcome with no uncertainty","It helps estimate the likelihood of a condition given a specific test result","It is only theoretical with no practical use"], answer:2}
+   ]},
+  {subject:"Science", title:"Biomimicry: Engineering Solutions Inspired by Nature", summary:"Grade 9 Science strand: biomimicry is the practice of studying natural structures and processes, such as a birds wings or a lotus leafs surface, to inspire innovative engineering and design solutions.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What is biomimicry?", options:["A method for destroying natural ecosystems","A type of chemical reaction only","The practice of studying natural structures and processes to inspire engineering solutions","A process that eliminates all connection between science and nature"], answer:2},
+     {q:"Which is an example of a biomimicry-inspired design?", options:["An invention that ignores all natural principles","Aircraft wing designs inspired by the structure of bird wings","A material with no connection to any natural structure","A design created with no reference to nature whatsoever"], answer:1},
+     {q:"Why might engineers look to nature for design inspiration?", options:["Nature provides no useful information for engineering","Natural structures have often been refined by evolution to be highly efficient","Studying nature is unrelated to solving engineering problems","Biomimicry always produces less efficient designs than traditional methods"], answer:1},
+     {q:"What natural feature has inspired self-cleaning surface technology?", options:["The water-repelling surface of a lotus leaf","The sound produced by ocean waves","The taste of tree bark","The colour of autumn leaves"], answer:0},
+     {q:"Biomimicry connects which two broad fields of study?", options:["Only geography and language arts","Only mathematics and history","Only music and art","Biology and engineering"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of National Parks and Ecotourism", summary:"Grade 9 Social Studies (Geography) strand: national parks preserve significant natural or cultural landscapes, and ecotourism, or travel focused on experiencing these protected areas responsibly, can generate revenue for conservation while posing challenges if visitor numbers grow too large.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What is the purpose of a national park?", options:["To maximize industrial development in a region","To preserve significant natural or cultural landscapes","To eliminate all wildlife from a protected area","To prevent any form of tourism whatsoever"], answer:1},
+     {q:"What is ecotourism?", options:["Travel focused on experiencing natural areas responsibly","Travel focused exclusively on large urban shopping centres","Travel that always damages the areas being visited intentionally","A type of tourism that ignores environmental impact entirely"], answer:0},
+     {q:"How can ecotourism benefit conservation efforts?", options:["Ecotourism has no connection to conservation funding","Ecotourism always reduces the funding available for conservation","Conservation efforts never benefit from any form of tourism","It can generate revenue that supports the protection and maintenance of natural areas"], answer:3},
+     {q:"What challenge can arise if a national park receives too many visitors?", options:["Overcrowding has no effect on natural environments","Overcrowding can damage fragile ecosystems and trails","There is no upper limit to how many visitors a park can sustainably host","Additional visitors always improve the parks ecological health"], answer:1},
+     {q:"Why might geographers study the balance between tourism and conservation in national parks?", options:["This balance has no relevance to geographic study","To understand how to sustain both economic benefits and environmental protection","National parks have no economic impact on surrounding regions","Tourism and conservation are always in perfect balance with no conflict"], answer:1}
+   ]},
+]},
+{day:129, label:"Day 129 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Analyzing the Function of a Chorus or Narrator-Commentator", summary:"Grade 9 Language strand: a chorus or narrator-commentator figure stands outside the main action of a story to provide context, commentary, or moral reflection, a technique originating in ancient drama and still used in modern narratives.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What role does a chorus or narrator-commentator typically play?", options:["Providing context, commentary, or moral reflection from outside the main action","Serving as the storys main antagonist","Replacing the need for any plot at all","Remaining completely silent throughout the story"], answer:0},
+     {q:"Where did the use of a chorus as a narrative device originate?", options:["Modern social media","Ancient Greek drama","Twentieth century science fiction films","Contemporary video games only"], answer:1},
+     {q:"Why might an author include a narrator-commentator figure?", options:["To confuse the audience with irrelevant information","To remove the need for any characters","To offer the audience insight or perspective the characters themselves may lack","To eliminate all perspective from the story"], answer:2},
+     {q:"How does a chorus typically relate to the main action of a story?", options:["It is always the main character driving the plot","It only appears in the very last line of a story","It comments on events from outside the main action rather than participating directly","It has no connection to the story whatsoever"], answer:2},
+     {q:"Which is a modern example of a narrator-commentator technique?", options:["A film narrator who provides background information and reflection between scenes","A blank page with no content","A silent background prop with no narrative role","A character who never speaks at all"], answer:0}
+   ]},
+  {subject:"Math", title:"Calculus Preview: An Introduction to Limits", summary:"Grade 9 Math strand: a limit describes the value a function approaches as its input gets closer to a specific point, forming the conceptual foundation for derivatives and the broader study of calculus.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does a limit describe?", options:["The exact maximum value of any function","The value a function approaches as its input gets closer to a specific point","A fixed number that never changes across all functions","The total area under every curve"], answer:1},
+     {q:"What foundational concept in calculus relies on the idea of a limit?", options:["Long division only","Simple counting","The derivative","Basic addition"], answer:2},
+     {q:"Can a function have a limit at a point even if it is undefined at that exact point?", options:["Yes, a limit can exist even if the function itself is undefined there","Limits are unrelated to whether a function is defined","A function can never have any limit under any circumstance","No, a limit only exists if the function is defined at that exact point"], answer:0},
+     {q:"As x approaches 2, what does the limit of the function f(x)=x+1 approach?", options:["2","3","1","0"], answer:1},
+     {q:"Why do mathematicians consider limits a foundational concept in calculus?", options:["They eliminate the need to study functions entirely","They only apply to whole numbers with no fractions","They provide a precise way to describe behaviour near a point without requiring the function be defined there","They have no connection to any other calculus concept"], answer:2}
+   ]},
+  {subject:"Science", title:"Fluid Dynamics and Bernoullis Principle", summary:"Grade 9 Science strand: fluid dynamics studies how liquids and gases move, and Bernoullis Principle states that as the speed of a moving fluid increases, its internal pressure decreases, helping explain phenomena such as lift on an airplane wing.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does fluid dynamics study?", options:["Only electrical circuits","Only the temperature of the sun","Only the properties of solid materials","How liquids and gases move"], answer:3},
+     {q:"What does Bernoullis Principle state about a moving fluid?", options:["Fluid speed and pressure have no relationship at all","As the speed of a moving fluid increases, its pressure always increases equally","A fluids pressure never changes regardless of its speed","As the speed of a moving fluid increases, its internal pressure decreases"], answer:3},
+     {q:"How does Bernoullis Principle help explain lift on an airplane wing?", options:["Lift is created only by the engines, with no role for the wings shape","Air moving faster over the curved top of the wing creates lower pressure than beneath it","Airplane wings generate lift with no connection to air pressure or speed","Bernoullis Principle applies only to boats, never aircraft"], answer:1},
+     {q:"Which of these is an example of a fluid, in the scientific sense?", options:["A wooden chair","A brick wall","Air, since it is a gas that flows","A solid block of steel"], answer:2},
+     {q:"Fluid dynamics is important in the design of which real-world objects?", options:["Airplanes, boats, and pipelines","Only articles of clothing with no moving parts","Only picture frames","Only pieces of furniture"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Geography of Waste-to-Energy Facilities and Urban Waste Management", summary:"Grade 9 Social Studies (Geography) strand: waste-to-energy facilities convert municipal solid waste into usable electricity or heat through controlled combustion, offering cities a way to manage waste while raising questions about air quality and the balance with recycling programs.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What do waste-to-energy facilities do?", options:["Permanently store waste underground with no processing at all","Eliminate the need for any waste collection in a city","Convert waste directly into drinking water","Convert municipal solid waste into usable electricity or heat"], answer:3},
+     {q:"What method do waste-to-energy facilities typically use to process waste?", options:["Simply burying waste with no further treatment","Releasing waste directly into rivers","Freezing waste at extremely low temperatures","Controlled combustion"], answer:3},
+     {q:"What concern is sometimes raised about waste-to-energy facilities?", options:["Potential impacts on local air quality from emissions","They eliminate the possibility of any air pollution everywhere","They have no connection to environmental policy at all","These facilities are universally considered to have zero environmental impact"], answer:0},
+     {q:"How might waste-to-energy facilities interact with a citys recycling programs?", options:["Recycling programs are banned in cities that use waste-to-energy facilities","Waste-to-energy facilities always eliminate the need for any recycling","Cities must balance diverting recyclable materials with supplying enough waste to the facility","Recycling and waste-to-energy programs have no relationship to one another"], answer:2},
+     {q:"Why might a densely populated city consider building a waste-to-energy facility?", options:["These facilities are only ever built in areas with no waste at all","Densely populated cities never produce any waste requiring management","Waste management is not a concern in urban geography","To manage large volumes of waste while generating usable energy in the process"], answer:3}
+   ]},
+]},
+{day:130, label:"Day 130 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Vocabulary, Reading, and Writing Skills", summary:"Grade 9 Language strand review: students revisit the Oxford comma, eponyms, tragic heroes and hamartia, cover letters, influencer marketing, ellipses and em dashes, elegies, malapropisms, and the function of a narrative chorus.",
+   resourceLabel:"TVO Learn: Grade 9 English", resourceUrl:"https://tvolearn.com/pages/grade-9-english",
+   quiz:[
+     {q:"What is the Oxford comma?", options:["A comma that always ends a sentence","A type of semicolon","A comma used only in dialogue","A comma placed before the final conjunction in a list of three or more items"], answer:3},
+     {q:"What is hamartia?", options:["A fatal flaw or error in judgment that leads to a tragic heros downfall","A minor background character","A rhyme scheme in poetry","A type of happy ending"], answer:0},
+     {q:"What does an ellipsis typically signal in writing?", options:["Omitted words or a trailing, unfinished thought","The end of a formal citation","A grammatical error","A question being asked"], answer:0},
+     {q:"What is a malapropism?", options:["A formal grammatical rule","The mistaken use of a similar-sounding word in place of the intended word","A word borrowed directly from another language","A type of punctuation mark"], answer:1},
+     {q:"What role does a chorus or narrator-commentator typically play?", options:["Providing context, commentary, or moral reflection from outside the main action","Remaining completely silent throughout the story","Serving as the storys main antagonist","Replacing the need for any plot at all"], answer:0}
+   ]},
+  {subject:"Math", title:"Math Review: Advanced Algebra, Number Theory, and Calculus Preview", summary:"Grade 9 Math strand review: students revisit synthetic division, prime factorization, the Pythagorean trigonometric identity, three-variable systems, the dot product, mathematical induction, insurance and risk, conditional probability, and limits.",
+   resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   quiz:[
+     {q:"What does synthetic division provide a shortcut for?", options:["Finding the area of a triangle","Solving a system of linear equations","Dividing a polynomial by a linear binomial of the form x-a","Multiplying two polynomials together"], answer:2},
+     {q:"What does the Fundamental Theorem of Arithmetic state?", options:["Every integer has infinitely many different prime factorizations","Every integer greater than one has exactly one prime factorization, aside from order","Only even numbers can be factored into primes","Prime numbers do not exist"], answer:1},
+     {q:"What does the Pythagorean trigonometric identity state?", options:["Sine plus cosine always equals zero","Sine minus cosine always equals one","Tangent squared always equals negative one","Sine squared plus cosine squared of an angle equals one"], answer:3},
+     {q:"What type of value does the dot product of two vectors produce?", options:["A new vector with a different direction","A complex number","A matrix","A single scalar value"], answer:3},
+     {q:"What does a limit describe?", options:["The total area under every curve","The exact maximum value of any function","A fixed number that never changes across all functions","The value a function approaches as its input gets closer to a specific point"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Biotechnology, Physics, and Earth Systems", summary:"Grade 9 Science strand review: students revisit CRISPR gene editing, reaction rates and catalysts, simple harmonic motion, exoplanets, the integumentary system, groundwater, acid rain, biomimicry, and fluid dynamics.",
+   resourceLabel:"TVO Learn: Grade 9 Science", resourceUrl:"https://tvolearn.com/pages/grade-9-science",
+   quiz:[
+     {q:"What does CRISPR technology allow scientists to do?", options:["Convert DNA directly into RNA with no other function","Permanently prevent any changes to DNA","Precisely add, remove, or alter sections of DNA","Only observe cells without altering them in any way"], answer:2},
+     {q:"What is a catalyst?", options:["A substance that speeds up a reaction without being consumed","A type of container used to store chemicals","A substance that always slows down a reaction","A product formed only after a reaction ends"], answer:0},
+     {q:"What does simple harmonic motion describe?", options:["Motion that only occurs in outer space","A single, non-repeating movement in one direction","A completely random and unpredictable movement","A repeating back-and-forth movement around a central equilibrium position"], answer:3},
+     {q:"What is an exoplanet?", options:["A planet that orbits a star outside our solar system","A moon that orbits a planet","A planet located within our own solar system only","A star with no orbiting planets"], answer:0},
+     {q:"What does Bernoullis Principle state about a moving fluid?", options:["A fluids pressure never changes regardless of its speed","As the speed of a moving fluid increases, its pressure always increases equally","Fluid speed and pressure have no relationship at all","As the speed of a moving fluid increases, its internal pressure decreases"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Global Geography and Modern Challenges", summary:"Grade 9 Social Studies (Geography) strand review: students revisit space debris, shrinking inland seas, global remittances, urban transit systems, desertification, river deltas, pharmaceutical access, national parks and ecotourism, and waste-to-energy facilities.",
+   resourceLabel:"TVO Learn: Grade 9 Geography", resourceUrl:"https://tvolearn.com/pages/grade-9-geography",
+   quiz:[
+     {q:"What is space debris?", options:["Defunct satellites and fragments left over from past space missions","A type of ocean current","A landform found in mountainous regions","A natural weather pattern found only on Earth"], answer:0},
+     {q:"What is one example of a dramatically shrinking inland body of water?", options:["The Arctic Ocean","The Aral Sea","The Pacific Ocean","The Atlantic Ocean"], answer:1},
+     {q:"What are remittances?", options:["Funds sent by migrant workers back to their home countries","Loans given only to large corporations","Payments made only between two neighbouring countries with no individuals involved","Taxes collected exclusively by national governments"], answer:0},
+     {q:"What human activity can contribute to desertification?", options:["Reducing water use in agriculture","Overgrazing of livestock on fragile land","Protecting natural vegetation from being removed","Planting trees to restore degraded land"], answer:1},
+     {q:"What is the purpose of a national park?", options:["To maximize industrial development in a region","To eliminate all wildlife from a protected area","To prevent any form of tourism whatsoever","To preserve significant natural or cultural landscapes"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
