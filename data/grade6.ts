@@ -810,15 +810,14 @@ const curriculum: DayContent[] = [
      {q:"Which word is a subordinating conjunction?", options:["Although","And","Or","But"], answer:0},
      {q:"Which is a complex sentence?", options:["She sings.","The dog barked and the cat ran.","Though it rained, the game continued.","Run quickly."], answer:2}
    ]},
-  {subject:"Math", title:"Algebra: Variables and Expressions", summary:"Students write and evaluate algebraic expressions. They use variables to represent unknown quantities and substitute values to find results.",
-   resourceLabel:"YouTube: Algebra: Variables and Expressions", resourceUrl:"https://www.youtube.com/results?search_query=Algebra%3A%20Variables%20and%20Expressions%20grade%206%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=-G9RkvRxp30",
+  {subject:"Math", title:"Comparing and Ordering Fractions", summary:"Students compare fractions with different denominators by finding common denominators or using benchmarks, then order sets of fractions from least to greatest.",
+   resourceLabel:"YouTube: Comparing and Ordering Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20and%20Ordering%20Fractions%20grade%206%20educational",
    quiz:[
-     {q:"A variable in algebra is ___.", options:["only used in equations","a symbol for an unknown quantity","always equal to 0","always the letter x"], answer:1},
-     {q:"Evaluate 3n + 5 when n = 4.", options:["22","17","12","16"], answer:1},
-     {q:"Which expression means '5 more than twice a number n'?", options:["2n + 5","2 + 5n","5 + 2 + n","5n + 2"], answer:0},
-     {q:"Simplify: 4x + 3x", options:["12x","7x","43x","7x²"], answer:1},
-     {q:"In the expression 6y − 2, the coefficient of y is ___.", options:["y","6","2","−2"], answer:1}
+     {q:"Which fraction is greater, 3/4 or 5/8?", options:["5/8","3/4","They are equal","Cannot be determined"], answer:1},
+     {q:"To compare fractions with different denominators, it helps to first find a ___.", options:["common numerator","larger denominator only","common denominator","smaller numerator"], answer:2},
+     {q:"Which list correctly orders the fractions from least to greatest: 1/2, 1/4, 3/4?", options:["3/4, 1/2, 1/4","1/4, 1/2, 3/4","1/2, 3/4, 1/4","1/4, 3/4, 1/2"], answer:1},
+     {q:"Using 1/2 as a benchmark, which fraction is less than 1/2?", options:["5/8","2/3","3/8","7/10"], answer:2},
+     {q:"Which fraction is equivalent to 2/3 and could help compare it to 5/6?", options:["3/6","4/6","2/6","1/6"], answer:1}
    ]},
   {subject:"Science", title:"Climate and Climate Change", summary:"Students examine the difference between weather and climate, greenhouse gases, global warming, and human impacts on Earth's climate system.",
    resourceLabel:"YouTube: Climate and Climate Change", resourceUrl:"https://www.youtube.com/results?search_query=Climate%20and%20Climate%20Change%20grade%206%20educational",

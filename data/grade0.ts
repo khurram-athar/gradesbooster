@@ -788,15 +788,14 @@ const curriculum: DayContent[] = [
      {q:"Which animal starts with S?", options:["Bird","Snake","Cat","Dog"], answer:1},
      {q:"How many S words: sun, moon, star, sky, cloud?", options:["3","2","1","4"], answer:0}
    ]},
-  {subject:"Math", title:"Addition to 10", summary:"Students add two groups of objects to find the total. They use pictures, counters, and number lines to explore addition.",
-   resourceLabel:"YouTube: Addition to 10", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2010%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=mjlsSYLLOSE",
+  {subject:"Math", title:"Number Bonds: Ways to Make 9", summary:"Students find different pairs of numbers that combine to make 9, such as 4 and 5, or 6 and 3, building number sense before moving on to subtraction.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 9", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%209%20kindergarten%20educational",
    quiz:[
-     {q:"3 + 4 = ?", options:["6","8","7","5"], answer:2},
-     {q:"How many in all: 2 apples + 5 apples?", options:["8","6","7","3"], answer:2},
-     {q:"5 + 5 = ?", options:["11","9","10","8"], answer:2},
-     {q:"What does the + sign mean?", options:["Divide","Take away","Compare","Put together / add"], answer:3},
-     {q:"1 + 9 = ?", options:["11","10","9","8"], answer:1}
+     {q:"4 + ? = 9", options:["4","6","5","3"], answer:2},
+     {q:"Which pair makes 9?", options:["2 and 5","6 and 3","1 and 6","4 and 2"], answer:1},
+     {q:"7 + ? = 9", options:["1","3","4","2"], answer:3},
+     {q:"Which pair does NOT make 9?", options:["3 and 6","4 and 5","2 and 7","5 and 5"], answer:3},
+     {q:"9 can be made with 9 and ___.", options:["1","2","0","3"], answer:2}
    ]},
   {subject:"Science", title:"The Sun and Sky", summary:"Students explore the Sun as Earth's main source of light and heat. They observe that the sky changes from day to night.",
    resourceLabel:"YouTube: The Sun and Sky", resourceUrl:"https://www.youtube.com/results?search_query=The%20Sun%20and%20Sky%20kindergarten%20educational",
@@ -808,15 +807,14 @@ const curriculum: DayContent[] = [
      {q:"At night, the Sun ___.", options:["gets smaller","is still in the sky in the same place","disappears forever","appears to set on the other side"], answer:3},
      {q:"Why should you never look directly at the Sun?", options:["Its light can damage your eyes","It is invisible","It is too cold","It is dark"], answer:0}
    ]},
-  {subject:"SocialStudies", title:"Canadian Symbols", summary:"Students learn about symbols that represent Canada: the maple leaf, beaver, Canadian flag, Parliament Buildings, and the national anthem.",
-   resourceLabel:"YouTube: Canadian Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Symbols%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=38BGXJ572Y8",
+  {subject:"SocialStudies", title:"Canadian Wildlife: Animals of Canada", summary:"Students learn about animals that live across Canada, such as the moose, polar bear, beaver, and Canada goose, and where in the country each one makes its home.",
+   resourceLabel:"YouTube: Canadian Wildlife: Animals of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Wildlife%3A%20Animals%20of%20Canada%20kindergarten%20educational",
    quiz:[
-     {q:"What is Canada's national symbol on the flag?", options:["Moose","Rose","Maple leaf","Beaver"], answer:2},
-     {q:"The beaver is a Canadian symbol of ___.", options:["sport","beauty","hard work and industry","danger"], answer:2},
-     {q:"Canada's national anthem is called ___.", options:["Amazing Grace","The Star-Spangled Banner","O Canada","God Save the King"], answer:2},
-     {q:"Where does Canada's federal government meet?", options:["The CN Tower","Parliament Hill","Niagara Falls","The Rockies"], answer:1},
-     {q:"The colours of the Canadian flag are ___.", options:["Red, white, and blue","Blue and white","Red and white","Green and gold"], answer:2}
+     {q:"Which large animal with antlers lives in Canadian forests?", options:["Moose","Camel","Kangaroo","Lion"], answer:0},
+     {q:"Which animal lives in the very cold Canadian Arctic?", options:["Polar bear","Zebra","Elephant","Giraffe"], answer:0},
+     {q:"Which bird is known for flying south in a V shape each fall?", options:["Penguin","Ostrich","Canada goose","Flamingo"], answer:2},
+     {q:"Beavers are known for building ___.", options:["nests in trees","dams in rivers and streams","sandcastles","igloos"], answer:1},
+     {q:"Why is it important to learn about Canadian wildlife?", options:["It is not important","To help us understand and care for the animals that share our land","Only scientists need to know this","Animals do not live in Canada"], answer:1}
    ]},
 ]},
 {day:20, label:"Day 20 — Fri", subjects:[
@@ -934,15 +932,14 @@ const curriculum: DayContent[] = [
      {q:"Which part of a plant absorbs water from the soil?", options:["Leaves","Roots","Flowers","Stem"], answer:1},
      {q:"Plants make their food using ___.", options:["only air","only water","sunlight, water, and carbon dioxide","soil alone"], answer:2}
    ]},
-  {subject:"SocialStudies", title:"Helping at Home", summary:"Students explore how family members share responsibilities at home: cooking, cleaning, caring for younger siblings, and yard work.",
-   resourceLabel:"YouTube: Helping at Home", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20at%20Home%20kindergarten%20educational",
-   videoUrl:"https://www.youtube.com/watch?v=f3dkTFsQHx8",
+  {subject:"SocialStudies", title:"My Favourite Things: Sharing What I Like", summary:"Students reflect on their own favourite activities, foods, and games, and practise sharing their likes and interests with classmates to build community and self-awareness.",
+   resourceLabel:"YouTube: My Favourite Things: Sharing What I Like", resourceUrl:"https://www.youtube.com/results?search_query=My%20Favourite%20Things%20kindergarten%20educational",
    quiz:[
-     {q:"Responsibilities at home are ___.", options:["optional extras","only chores for children","only for adults","tasks all family members share"], answer:3},
-     {q:"Which is an example of helping at home?", options:["Cleaning up after yourself","Watching TV all day","Eating all the snacks","Leaving your toys everywhere"], answer:0},
-     {q:"Why is it important to share home responsibilities?", options:["It teaches responsibility and teamwork","Only if parents ask","Only adults should work","It is not"], answer:0},
-     {q:"A chore is ___.", options:["a job you do at home to help the family","a type of game","a type of food","a school subject"], answer:0},
-     {q:"Which chore could a kindergartener do?", options:["Fix the roof","Pay the bills","Put toys away and help set the table","Drive to the store"], answer:2}
+     {q:"Sharing your favourite things with others helps everyone ___.", options:["ignore each other", "get to know each other better", "stay quiet", "compete"], answer:1},
+     {q:"Which is an example of a favourite thing you might share?", options:["A rule at school", "A game you enjoy playing", "Someone else's opinion", "A chore you dislike"], answer:1},
+     {q:"Why might two friends have different favourite things?", options:["Everyone is exactly the same", "Everyone is unique and likes different things", "One of them is wrong", "Favourites never differ"], answer:1},
+     {q:"When a classmate shares their favourite thing, a good listener should ___.", options:["interrupt them", "look away", "pay attention and show interest", "laugh at their choice"], answer:2},
+     {q:"Talking about our favourite things helps us learn that ___.", options:["everyone must like the same things", "our classmates are interesting and different", "favourites do not matter", "only some favourites are allowed"], answer:1}
    ]},
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
