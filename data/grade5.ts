@@ -1452,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ecosystems and Biomes of Canada", summary:"Ontario Grade 5 Science Life Systems strand: Canada contains diverse biomes, such as boreal forest, tundra, and grassland, each with distinct plant and animal life adapted to that environment’s climate.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=gT5pGA2H-x8",
    quiz:[
      {q:"A biome is best described as ___.", options:["A single individual animal","A large region with a distinct climate and community of plants and animals","A type of rock","A man-made structure"], answer:1},
      {q:"Canada’s boreal forest biome is characterized mainly by ___.", options:["Cactus plants and desert sand","Coral reefs","Coniferous trees and a cold climate","Tropical rainforest plants"], answer:2},
@@ -1461,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Structure of Canadian Courts", summary:"Ontario Grade 5 Social Studies People and Environments strand: the Canadian court system includes different levels of courts, from provincial courts to the Supreme Court of Canada, which interpret and apply the law.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Vd9g119FupM",
    quiz:[
      {q:"The highest court in Canada is the ___.", options:["Supreme Court of Canada","Local municipal council","Provincial legislature","House of Commons"], answer:0},
      {q:"The main role of courts in Canada is to ___.", options:["Collect taxes","Manage municipal garbage collection","Write new laws from scratch","Interpret and apply the law"], answer:3},

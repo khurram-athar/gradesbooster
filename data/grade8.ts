@@ -1452,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Robotics and Mechatronics", summary:"Grade 8 Science and Technology strand: mechatronics combines mechanical engineering, electronics, and programming to design and build robotic systems that can sense, process, and respond to their environment.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=yOZ6088bvTY",
    quiz:[
      {q:"Mechatronics combines which fields?", options:["A single unrelated field","Mechanical engineering, electronics, and programming","Only art and music","Only agriculture and farming"], answer:1},
      {q:"A robotic system typically uses sensors to ___.", options:["Ignore all surrounding conditions","Gather information about its environment","Replace the need for programming","Prevent any interaction with its environment"], answer:1},

@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Reading: Annotating and Active Reading Strategies", summary:"Ontario Grade 6 Reading strand: active reading strategies, such as annotating a text with notes, questions, and highlights, help readers stay engaged and better understand and remember what they read.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=w5Mz4nwciWc",
    quiz:[
      {q:"Annotating a text involves ___.", options:["Reading without any interaction with the text","Ignoring the text completely","Adding notes, questions, or highlights while reading","Skipping directly to the last page"], answer:2},
      {q:"Active reading strategies are designed to help readers ___.", options:["Stay engaged and better understand the text","Read as quickly as possible with no comprehension","Forget the content immediately after reading","Avoid thinking about the text"], answer:0},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Constructing Circle Graphs", summary:"Ontario Grade 6 Data Management strand: constructing a circle graph involves calculating what percentage each category represents of the whole data set, then dividing the circle into matching proportional sections.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=zHx4rl1_zdE",
    quiz:[
      {q:"To construct a circle graph, you first need to calculate each category’s ___.", options:["Percentage of the total data set","Alphabetical order","Distance from the centre","Exact colour"], answer:0},
      {q:"If a category makes up 25 percent of the data, its slice of the circle graph should represent ___.", options:["100 percent of the full circle","10 percent of the full circle","25 percent of the full circle","50 percent of the full circle"], answer:2},
@@ -1450,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Natural Disasters: Earthquakes and Volcanoes", summary:"Ontario Grade 6 Science Earth and Space Systems strand: earthquakes and volcanoes are natural events often caused by the movement of tectonic plates, and understanding their causes helps communities prepare and stay safe.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=0SK-jYdEgfE",
    quiz:[
      {q:"Earthquakes are often caused by ___.", options:["Changes in the weather only","The movement of tectonic plates","Nothing related to Earth’s structure","Ocean tides"], answer:1},
      {q:"A volcano erupts when ___.", options:["Tectonic plates disappear entirely","Magma and gases are released from beneath Earth’s surface","No pressure builds up inside Earth","It only produces cold water"], answer:1},
@@ -1459,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Cold War: Origins and Key Events", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the Cold War was a long period of political tension after World War II, mainly between the United States and the Soviet Union, involving competition without direct large-scale warfare between the two powers.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=dsDrYh2Af5Y",
    quiz:[
      {q:"The Cold War took place mainly after which major global conflict?", options:["World War II","The American Revolution","World War I","The War of 1812"], answer:0},
      {q:"The Cold War was primarily a period of tension between the United States and ___.", options:["Japan","Canada","The Soviet Union","France"], answer:2},

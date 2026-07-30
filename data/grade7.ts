@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Reading: Comparing Themes Across Genres", summary:"Ontario Grade 7 Reading strand: comparing how a similar theme, such as courage or friendship, is explored differently across genres like poetry, fiction, and nonfiction reveals how form shapes meaning.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=MAu3e5GZo4k",
    quiz:[
      {q:"Comparing themes across genres involves examining ___.", options:["Only one single text in isolation","How a similar theme is explored differently across different types of texts","Themes that never appear in more than one genre","Nothing related to meaning or form"], answer:1},
      {q:"Which is an example of comparing a theme across genres?", options:["Reading only one book and ignoring all others","Examining how courage is portrayed in a poem versus a nonfiction article","Comparing two unrelated topics with no shared theme","Ignoring the text’s form entirely"], answer:1},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Surface Area and Volume of Cylinders", summary:"Ontario Grade 7 Geometry strand: the surface area of a cylinder includes its two circular bases plus the curved surface, while its volume is found by multiplying the area of its circular base by its height.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=WJ9EIMcfOhM",
    quiz:[
      {q:"The volume of a cylinder is found using the formula ___.", options:["Diameter times circumference","Length times width times height","Base area (a circle) times height","Radius times height only"], answer:2},
      {q:"A cylinder’s surface area includes ___.", options:["Only one flat face","Two circular bases plus the curved side surface","Only the top circular base","No curved surfaces at all"], answer:1},
@@ -1460,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Charter of Rights and Freedoms in Depth", summary:"Ontario Grade 7 Social Studies People and Environments strand: the Canadian Charter of Rights and Freedoms, part of the Constitution since 1982, protects fundamental rights such as freedom of expression, equality rights, and legal rights for people in Canada.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=fRyOlYDpWIM",
    quiz:[
      {q:"The Canadian Charter of Rights and Freedoms became part of the Constitution in ___.", options:["2000","1867","1931","1982"], answer:3},
      {q:"The Charter protects fundamental rights such as ___.", options:["Only property rights","No rights at all","Freedom of expression and equality rights","Only rights for elected officials"], answer:2},

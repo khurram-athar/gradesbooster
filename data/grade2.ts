@@ -1532,6 +1532,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Review: Blends, Digraphs, Nouns and Pronouns", summary:"Students review recent Language skills: consonant blends, consonant digraphs, common and proper nouns, and pronouns.",
    resourceLabel:"YouTube: Review: Blends, Digraphs, Nouns and Pronouns", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Blends%2C%20Digraphs%2C%20Nouns%20and%20Pronouns%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lIRd8zqjjas",
    quiz:[
      {q:"Which word begins with the bl blend?", options:["Black","Dog","Cat","Sun"], answer:0},
      {q:"Which word begins with the sh digraph?", options:["Dog","Cat","Ship","Sun"], answer:2},
@@ -1546,6 +1547,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Regrouping, Time and Measuring", summary:"Students review recent Math skills: addition and subtraction within 100 with regrouping, telling time to five-minute intervals, and measuring length with centimetres and metres.",
    resourceLabel:"YouTube: Review: Regrouping, Time and Measuring", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Regrouping%2C%20Time%20and%20Measuring%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=icyEBL9bzAc",
    quiz:[
      {q:"What is 27 + 15?", options:["32","41","43","42"], answer:3},
      {q:"What is 52 - 27?", options:["26","25","35","24"], answer:1},
@@ -1574,6 +1576,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Food Sources, Community Types, Provinces and Local Government", summary:"Students review recent Social Studies topics: where food comes from, types of communities, the provinces and territories of Canada, and municipal government.",
    resourceLabel:"YouTube: Review: Food Sources, Community Types, Provinces and Local Government", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Food%20Sources%2C%20Community%20Types%2C%20Provinces%20and%20Local%20Government%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YRxNQPmj1-8",
    quiz:[
      {q:"Where does much of our food come from before it reaches a store?", options:["A farm","A school","A hospital","A library"], answer:0},
      {q:"Which type of community usually has farms and open land?", options:["The countryside","A subway","A skyscraper","A city"], answer:0},

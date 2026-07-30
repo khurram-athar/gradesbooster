@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing Dramatic Irony", summary:"Grade 9 Reading strand: dramatic irony occurs when the audience or reader knows something important that a character in the story does not, creating tension or anticipation.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=RZFYuX84n1U",
    quiz:[
      {q:"Dramatic irony occurs when ___.", options:["The audience knows something a character does not","A character knows everything the audience knows","No information is withheld from anyone in the story","Irony never appears in dramatic works"], answer:0},
      {q:"Why might an author use dramatic irony in a story?", options:["To create tension, suspense, or anticipation for the audience","Dramatic irony always removes tension from a story","Dramatic irony is never used intentionally by authors","This technique has no effect on the audience’s experience"], answer:0},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Analytic Geometry: Parallel and Perpendicular Lines", summary:"Grade 9 Analytic Geometry strand: parallel lines have the same slope, while perpendicular lines have slopes that are negative reciprocals of each other.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=LTb2-LE7StE",
    quiz:[
      {q:"Parallel lines have ___.", options:["The same slope","Slopes that are negative reciprocals","Slopes that are always exactly zero","No defined slope at all"], answer:0},
      {q:"Perpendicular lines have slopes that are ___.", options:["Negative reciprocals of each other","Always exactly zero","Unrelated to each other","Always exactly equal"], answer:0},
@@ -1450,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biomes and Global Ecosystem Patterns", summary:"Grade 9 Science Biology strand: Earth’s major biomes, such as tropical rainforest, desert, and tundra, are shaped by climate patterns and support distinct plant and animal communities adapted to those conditions.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=yZRsyiOl3kk",
    quiz:[
      {q:"Biomes are shaped primarily by ___.", options:["A factor unrelated to environmental conditions","Only the colour of the local soil","Climate patterns","Random chance with no identifiable pattern"], answer:2},
      {q:"Which biome is characterized by high biodiversity and a warm, wet climate?", options:["Tundra","Tropical rainforest","Grassland","Desert"], answer:1},
