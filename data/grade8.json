@@ -29183,5 +29183,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 121,
+    "label": "Day 121 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Apostrophes and Possessive Forms",
+        "summary": "Grade 8 Language strand: apostrophes indicate possession or mark a contraction, with singular nouns typically adding an apostrophe and an s while plural nouns already ending in s add only an apostrophe.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of an apostrophe in a possessive noun?",
+            "options": [
+              "To show ownership or a relationship between two nouns",
+              "To end a question",
+              "To join two independent clauses",
+              "To indicate plural number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is a possessive typically formed for a singular noun such as the word cat?",
+            "options": [
+              "Remove the final letter entirely",
+              "Add an apostrophe followed by the letter s",
+              "Add only an s with no apostrophe",
+              "Add an apostrophe after a final s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is a possessive typically formed for a plural noun already ending in s, such as the word students?",
+            "options": [
+              "Remove the apostrophe entirely",
+              "Add only an apostrophe after the final s",
+              "Add an apostrophe followed by another s",
+              "Add an s with no apostrophe"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common error when forming the possessive of the pronoun it?",
+            "options": [
+              "Adding an extra syllable",
+              "Confusing the possessive form its with the contraction meaning it is",
+              "Using no punctuation at all",
+              "Capitalizing the word unnecessarily"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is correct apostrophe placement important in formal writing?",
+            "options": [
+              "Apostrophes never affect the meaning of a sentence",
+              "Apostrophes are always optional in every context",
+              "Formal writing never uses possessive nouns",
+              "Incorrect placement can confuse a reader about whether a word is plural, possessive, or a contraction"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: The Correlation Coefficient (r) and Strength of Relationships",
+        "summary": "Grade 8 Math strand: the correlation coefficient, represented by r, is a value between negative one and positive one that measures both the strength and direction of a linear relationship between two variables.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What range of values can the correlation coefficient r take?",
+            "options": [
+              "Between zero and one hundred",
+              "Any whole number",
+              "Only positive integers",
+              "Between negative one and positive one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a correlation coefficient close to positive one indicate?",
+            "options": [
+              "A strong negative relationship",
+              "A strong positive linear relationship between two variables",
+              "No relationship at all between the variables",
+              "An undefined relationship"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a correlation coefficient close to zero suggest?",
+            "options": [
+              "Little to no linear relationship between the two variables",
+              "A perfect positive relationship",
+              "An impossible result",
+              "A perfect negative relationship"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If r equals negative point nine, what does this suggest about the relationship between the variables?",
+            "options": [
+              "A strong negative linear relationship",
+              "An undefined value",
+              "A strong positive linear relationship",
+              "No relationship whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the correlation coefficient useful when analyzing a scatter plot?",
+            "options": [
+              "It can only be calculated for categorical data",
+              "It always describes causation rather than correlation",
+              "It gives a precise numerical measure of how closely the data points follow a linear pattern",
+              "It has no connection to scatter plots"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Skeletal System: Bones, Joints, and Movement",
+        "summary": "Grade 8 Science strand: the skeletal system provides structural support for the body, protects internal organs, and works with joints and muscles to enable a wide range of movement.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is one major function of the skeletal system?",
+            "options": [
+              "Pumping blood through the body",
+              "Producing sound for speech",
+              "Providing structural support and protecting internal organs",
+              "Digesting food in the stomach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What role do joints play in the skeletal system?",
+            "options": [
+              "They filter waste from the blood",
+              "They produce new blood cells exclusively",
+              "They have no connection to movement",
+              "They connect bones and allow different types of movement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which organs are protected by the rib cage?",
+            "options": [
+              "The kidneys only",
+              "The heart and lungs",
+              "The stomach only",
+              "The skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do bones and muscles work together to create movement?",
+            "options": [
+              "Joints prevent all movement between bones",
+              "Bones move entirely independently of muscles",
+              "Muscles have no connection to the skeletal system",
+              "Muscles contract and pull on bones connected at joints"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is bone density important for overall skeletal health?",
+            "options": [
+              "Bones with low density are always stronger",
+              "Bone density only affects the colour of a bone",
+              "Higher bone density generally means stronger, more fracture-resistant bones",
+              "Bone density has no effect on the strength of a bone"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Fur Trade and the Voyageurs",
+        "summary": "Grade 8 History strand: the fur trade was a foundational economic activity in early Canada, driven by the demand for beaver pelts in Europe and carried out largely by voyageurs, skilled canoe travelers who transported furs and supplies across vast wilderness trade routes.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What resource primarily drove the early Canadian fur trade?",
+            "options": [
+              "Cod fisheries",
+              "Gold deposits",
+              "Timber exports",
+              "Beaver pelts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who were the voyageurs?",
+            "options": [
+              "Teachers in early colonial schools",
+              "Soldiers stationed at coastal forts",
+              "Government officials who regulated trade prices",
+              "Skilled canoe travelers who transported furs and supplies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why was the fur trade considered economically important to early Canada?",
+            "options": [
+              "It had no significant economic impact on the colonies",
+              "Fur was never in demand in Europe",
+              "It generated significant wealth and shaped trade relationships across the continent",
+              "The fur trade only operated for a single year"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which group played an essential role in guiding and supporting the fur trade through their knowledge of the land?",
+            "options": [
+              "Only workers with no connection to the land",
+              "Distant colonial governors with no local knowledge",
+              "Indigenous peoples",
+              "European monarchs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the fur trade considered a foundation for Canadas early economic development?",
+            "options": [
+              "It occurred long after Canada was already fully settled",
+              "The fur trade had no lasting influence on Canadas development",
+              "Fur trading routes never connected different regions of the country",
+              "It established trade routes and partnerships that shaped later settlement and commerce"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "label": "Day 122 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Archaisms and Obsolete Words",
+        "summary": "Grade 8 Language strand: an archaism is a word or phrase that was once common but has fallen out of everyday use, often appearing in older literature, religious texts, or works striving for a formal or historical tone.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an archaism?",
+            "options": [
+              "A grammatical rule about verb tense",
+              "A citation format used in essays",
+              "A word or phrase that was once common but is no longer used in everyday language",
+              "A newly invented word describing modern technology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an example of an archaism?",
+            "options": [
+              "Podcast",
+              "Selfie",
+              "Thou, meaning you",
+              "Internet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might a reader most commonly encounter archaisms today?",
+            "options": [
+              "In social media captions",
+              "In older literature, religious texts, or works imitating a historical style",
+              "In modern text messages",
+              "In scientific lab reports"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a contemporary author deliberately use archaisms in a story?",
+            "options": [
+              "Archaisms always make writing easier for modern readers to understand",
+              "To create a sense of history, formality, or a particular time period",
+              "Archaisms are required in every piece of formal writing",
+              "Archaisms have no stylistic effect on a text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for readers to recognize archaisms when studying older texts?",
+            "options": [
+              "Archaisms are always identical in meaning to their modern equivalents",
+              "Older texts never contain any archaic language",
+              "Archaisms make a text impossible to interpret in any way",
+              "Recognizing them helps readers understand meanings that have shifted or disappeared from modern usage"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Perfect, Deficient, and Abundant Numbers",
+        "summary": "Grade 8 Math strand: a perfect number equals the sum of its proper divisors, a deficient number has a divisor sum less than itself, and an abundant number has a divisor sum greater than itself, classifications that reveal patterns within number theory.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What defines a perfect number?",
+            "options": [
+              "It equals the sum of its proper divisors",
+              "It has no divisors other than one",
+              "It is always a prime number",
+              "It is always an odd number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the proper divisors of the number 6?",
+            "options": [
+              "1 and 6",
+              "1, 2, and 3",
+              "6 only",
+              "2 and 3 only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is 6 considered a perfect number?",
+            "options": [
+              "It has no proper divisors at all",
+              "Its proper divisors sum to a number greater than 6",
+              "Its proper divisors, 1, 2, and 3, sum to exactly 6",
+              "Its proper divisors sum to a number less than 6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a deficient number?",
+            "options": [
+              "A number that is always prime",
+              "A number whose proper divisors sum to less than the number itself",
+              "A number with no divisors at all",
+              "A number whose proper divisors sum to more than the number itself"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an abundant number?",
+            "options": [
+              "A number whose proper divisors sum to less than the number itself",
+              "A number with only one divisor",
+              "A number whose proper divisors sum to exactly the number itself",
+              "A number whose proper divisors sum to more than the number itself"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Chemistry of Soap and Surfactants",
+        "summary": "Grade 8 Science strand: soap molecules act as surfactants, having one end that attracts water and one end that attracts grease and oil, allowing soap to lift dirt away from a surface and suspend it in water for rinsing.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a surfactant?",
+            "options": [
+              "A type of enzyme found in the digestive system",
+              "A gas released during combustion",
+              "A substance with one end that attracts water and one end that attracts oil or grease",
+              "A substance that only ever repels water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does soap help remove grease from a surface?",
+            "options": [
+              "Soap dissolves grease by freezing it",
+              "Soap only ever repels both water and oil equally",
+              "Soap has no chemical interaction with grease at all",
+              "Its oil-attracting end binds to grease while its water-attracting end allows it to rinse away"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What term describes the water-attracting end of a soap molecule?",
+            "options": [
+              "Photosynthetic",
+              "Hydrophilic",
+              "Radioactive",
+              "Hydrophobic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What term describes the oil-attracting end of a soap molecule?",
+            "options": [
+              "Hydrophobic",
+              "Conductive",
+              "Magnetic",
+              "Hydrophilic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is soap more effective at cleaning than water alone?",
+            "options": [
+              "Soap has no chemical properties different from water",
+              "Grease dissolves instantly in water without any assistance",
+              "Soap can bind to grease and oil, which water alone cannot dissolve effectively",
+              "Water alone always removes grease more effectively than soap"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Charlottetown and Quebec Conferences of 1864",
+        "summary": "Grade 8 History strand: the Charlottetown and Quebec Conferences of 1864 brought together colonial leaders to discuss uniting British North America, laying the groundwork for the specific terms and structure that would shape Confederation in 1867.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What was the main purpose of the Charlottetown Conference of 1864?",
+            "options": [
+              "To discuss uniting British North American colonies",
+              "To establish a new national anthem",
+              "To negotiate a peace treaty ending a war",
+              "To settle a border dispute with the United States"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What followed the Charlottetown Conference later in 1864?",
+            "options": [
+              "The creation of the Canadian Pacific Railway",
+              "The signing of the Treaty of Versailles",
+              "The Quebec Conference, which developed more detailed terms for union",
+              "An immediate declaration of full independence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What eventually resulted from the discussions held at these two conferences?",
+            "options": [
+              "The permanent division of the colonies",
+              "The foundation for Confederation in 1867",
+              "A rejection of any future union",
+              "The annexation of the colonies by the United States"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why were multiple conferences needed before Confederation could be finalized?",
+            "options": [
+              "The colonies agreed on every detail immediately",
+              "Conferences had no connection to the eventual union",
+              "A single meeting was always sufficient with no further discussion needed",
+              "Leaders needed to negotiate details such as representation, powers, and structure among the colonies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the Charlottetown and Quebec Conferences considered foundational events in Canadian history?",
+            "options": [
+              "They resulted in colonies permanently remaining separate",
+              "These conferences had no lasting significance for Canada",
+              "They occurred after Confederation had already taken place",
+              "They established the framework of ideas and agreements that shaped the eventual Confederation of Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "label": "Day 123 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Foils and Antagonists",
+        "summary": "Grade 8 Language strand: a foil is a character whose traits contrast with those of another character, often the protagonist, to highlight specific qualities, while an antagonist is a character or force that directly opposes the protagonist and drives conflict.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a foil in literature?",
+            "options": [
+              "A character who narrates the entire story",
+              "A character whose contrasting traits highlight qualities in another character",
+              "A citation style used in essays",
+              "A type of punctuation mark"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an antagonist?",
+            "options": [
+              "A type of setting description",
+              "The main character around whom the story centers",
+              "A minor character with no effect on the plot",
+              "A character or force that directly opposes the protagonist"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Can a character serve as both a foil and an antagonist in the same story?",
+            "options": [
+              "No, these two roles can never overlap in any story",
+              "A concept unrelated to characterization",
+              "Yes, a character can highlight contrasting traits while also opposing the protagonist",
+              "Only narrators can serve either role"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author create a foil for the protagonist?",
+            "options": [
+              "Foils never add any meaning to a story",
+              "To emphasize particular strengths or weaknesses in the protagonist through comparison",
+              "This concept has no connection to reading comprehension",
+              "A foil always shares identical traits with the protagonist"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is identifying the antagonist important when analyzing a storys central conflict?",
+            "options": [
+              "This concept has no relevance to reading",
+              "The antagonist often represents the primary source of tension the protagonist must overcome",
+              "Every story lacks any antagonist or opposing force",
+              "The antagonist and protagonist always want the same outcome"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Introduction to Radian Measure",
+        "summary": "Grade 8 Math strand: a radian is a unit for measuring angles based on the radius of a circle, defined so that an angle of one radian corresponds to an arc length equal to the circles radius, with a full circle measuring two pi radians.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "How is one radian defined?",
+            "options": [
+              "An angle with no defined arc length",
+              "An angle that always equals ninety degrees",
+              "The angle formed by exactly one degree",
+              "The angle formed when the arc length equals the circles radius"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many radians are in a full circle?",
+            "options": [
+              "Ninety radians",
+              "Two pi radians",
+              "One radian",
+              "Three hundred sixty radians"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many degrees are approximately equal to one radian?",
+            "options": [
+              "Exactly 90 degrees",
+              "Exactly 180 degrees",
+              "About 57.3 degrees",
+              "Exactly 1 degree"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might radians be preferred over degrees in advanced mathematics, such as calculus?",
+            "options": [
+              "Radians never simplify any mathematical formulas",
+              "Degrees are always the only unit used in higher mathematics",
+              "Radians connect angle measure directly to arc length and simplify many formulas",
+              "Radians cannot be used to measure any angle larger than one full circle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many radians correspond to a straight angle of 180 degrees?",
+            "options": [
+              "Half of pi radians",
+              "Two pi radians",
+              "Zero radians",
+              "Pi radians"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bioluminescence: Living Light in Nature",
+        "summary": "Grade 8 Science strand: bioluminescence is the production of light by living organisms through a chemical reaction, typically involving a light-emitting molecule called luciferin and an enzyme called luciferase, and is used by many deep-sea creatures for communication, hunting, or defense.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "The production of light by living organisms through a chemical reaction",
+              "A type of radioactive decay",
+              "A reflection of sunlight off an animals skin",
+              "The absorption of light by plants during photosynthesis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What molecule commonly reacts with an enzyme to produce bioluminescent light?",
+            "options": [
+              "Chlorophyll",
+              "Luciferin",
+              "Hemoglobin",
+              "Glucose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What enzyme is typically involved in triggering the bioluminescent reaction?",
+            "options": [
+              "Amylase",
+              "Luciferase",
+              "Catalase",
+              "Pepsin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a deep-sea creature use bioluminescence for hunting?",
+            "options": [
+              "Deep-sea creatures never produce their own light",
+              "Bioluminescence never has any use for finding food",
+              "Producing light can lure prey closer or help the creature see in a dark environment",
+              "Light production always warns prey away instead of attracting it"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is bioluminescence especially common among organisms living in the deep ocean?",
+            "options": [
+              "Little to no sunlight reaches those depths, so organisms rely on their own light for survival functions",
+              "Sunlight is extremely bright at those depths, making extra light unnecessary",
+              "Bioluminescence only occurs in organisms that live on land",
+              "Deep-sea organisms never need to communicate or hunt"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Pacific Scandal of 1873",
+        "summary": "Grade 8 History strand: the Pacific Scandal of 1873 was a political corruption controversy in which Prime Minister John A. Macdonalds government was accused of accepting campaign funds in exchange for awarding the Canadian Pacific Railway contract, ultimately forcing his resignation.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What was the Pacific Scandal of 1873 primarily about?",
+            "options": [
+              "An argument over a proposed national anthem",
+              "A dispute over international fishing rights",
+              "A disagreement about provincial school funding",
+              "Accusations that the government accepted campaign funds in exchange for a railway contract"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which railway contract was at the center of the Pacific Scandal?",
+            "options": [
+              "The Canadian National Railway contract",
+              "The St. Lawrence Seaway contract",
+              "The Trans-Canada Highway contract",
+              "The Canadian Pacific Railway contract"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the political outcome for Prime Minister John A. Macdonald following the scandal?",
+            "options": [
+              "His government was forced to resign",
+              "He received an even larger majority government",
+              "He was immediately re-elected with no consequences",
+              "He was declared innocent with no political impact"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did the Pacific Scandal damage public trust in the government?",
+            "options": [
+              "Trust in government was completely unaffected by the accusations",
+              "The public was never made aware of the scandal",
+              "It suggested that a major infrastructure contract was awarded based on corrupt financial dealings rather than merit",
+              "The scandal had no connection to government contracts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Pacific Scandal significant in the history of Canadian political accountability?",
+            "options": [
+              "The scandal had no lasting effect on how Canadians viewed their government",
+              "Political corruption was never considered an issue after this event",
+              "It illustrated the risks of corruption in awarding major public contracts and highlighted a need for political accountability",
+              "It resulted in the immediate cancellation of the railway project"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "label": "Day 124 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Public Service Announcement Script",
+        "summary": "Grade 8 Language strand: a public service announcement, or PSA, is a short piece of persuasive media designed to raise awareness about an important issue and motivate an audience to take a specific action, typically combining a clear message with a memorable call to action.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a public service announcement?",
+            "options": [
+              "To report daily weather conditions",
+              "To entertain with a fictional story only",
+              "To raise awareness about an issue and motivate an audience to act",
+              "To sell a specific commercial product"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a call to action in a PSA?",
+            "options": [
+              "A section listing unrelated statistics",
+              "A description of the setting only",
+              "A clear statement urging the audience to take a specific step",
+              "A formal citation of sources"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do PSAs typically use a concise, focused message?",
+            "options": [
+              "Conciseness has no effect on persuasive writing",
+              "PSAs are never meant to be remembered",
+              "Audiences are more likely to remember and act on a short, clear message",
+              "Long, unfocused messages always persuade audiences more effectively"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which topic would be well suited to a public service announcement?",
+            "options": [
+              "A private diary entry with no audience",
+              "Encouraging people to conserve water during a drought",
+              "A detailed technical manual for repairing an engine",
+              "A purely fictional story about dragons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a PSA combine factual information with an emotional appeal?",
+            "options": [
+              "Emotional appeals are never appropriate in persuasive writing",
+              "Combining facts and emotion always confuses an audience",
+              "Facts build credibility while emotion helps motivate the audience to care and act",
+              "PSAs should never include any factual information"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus Preview: An Introduction to Derivatives and Rates of Change",
+        "summary": "Grade 8 Math strand: a derivative measures the instantaneous rate of change of a function at a given point, building on the concept of a limit to describe how steeply a function is increasing or decreasing.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does a derivative measure?",
+            "options": [
+              "The average of a data set",
+              "A fixed value that never changes",
+              "The instantaneous rate of change of a function at a given point",
+              "The total area under a curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What earlier mathematical concept does the derivative build upon?",
+            "options": [
+              "Matrix multiplication",
+              "Set notation",
+              "The Pythagorean theorem",
+              "The limit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a functions derivative is positive at a point, what does this indicate?",
+            "options": [
+              "The function has no value at that point",
+              "The function is decreasing at that point",
+              "The function is increasing at that point",
+              "The function is undefined everywhere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a derivative of zero at a point often indicate about a functions graph?",
+            "options": [
+              "A possible maximum, minimum, or flat point on the graph",
+              "The function has no graph at all",
+              "The function is undefined at every point",
+              "The function is increasing rapidly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are derivatives useful in fields such as physics?",
+            "options": [
+              "Velocity can never be described using calculus",
+              "Physics never involves any rates of change",
+              "They can describe quantities like velocity, which is the rate of change of position over time",
+              "Derivatives have no real-world applications"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Physics of Magnetism and Magnetic Fields",
+        "summary": "Grade 8 Science strand: magnetism is a force produced by moving electric charges that causes certain materials to attract or repel one another, with a magnetic field describing the region of space around a magnet where this force can be detected.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What produces a magnetic force?",
+            "options": [
+              "Only visible light",
+              "Only sound waves",
+              "Moving electric charges",
+              "Only stationary electric charges"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a magnetic field?",
+            "options": [
+              "The region of space around a magnet where its force can be detected",
+              "A solid material with no measurable properties",
+              "A unit used only to measure temperature",
+              "A type of chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens when two like magnetic poles, such as two north poles, are brought close together?",
+            "options": [
+              "They cancel out and produce no force",
+              "They repel each other",
+              "They always attract each other",
+              "They instantly become non-magnetic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens when two opposite magnetic poles are brought close together?",
+            "options": [
+              "They attract each other",
+              "They combine into a single pole with no properties",
+              "They always repel each other",
+              "They produce no force at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are electromagnets useful in devices like electric motors?",
+            "options": [
+              "Electromagnets have no practical applications in technology",
+              "Electromagnets always have a fixed, unchangeable strength",
+              "Electric current has no connection to magnetism",
+              "Their magnetic strength can be controlled by adjusting the electric current flowing through them"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Cypress Hills Massacre and the Creation of the North-West Mounted Police",
+        "summary": "Grade 8 History strand: the Cypress Hills Massacre of 1873, in which American traders killed a group of Assiniboine people, alarmed the Canadian government and helped prompt the creation of the North-West Mounted Police to establish law and order in the western territories.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What happened during the Cypress Hills Massacre of 1873?",
+            "options": [
+              "American traders killed a group of Assiniboine people",
+              "A large peaceful trade agreement was signed",
+              "A new provincial government was formed",
+              "A railway was completed ahead of schedule"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What Canadian government response followed the Cypress Hills Massacre?",
+            "options": [
+              "The creation of the North-West Mounted Police",
+              "The signing of a treaty with the United States",
+              "The immediate independence of the western territories",
+              "The cancellation of all westward settlement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was one main purpose of the newly formed North-West Mounted Police?",
+            "options": [
+              "To establish law and order in the western territories",
+              "To manage international trade agreements",
+              "To build railways across the prairies",
+              "To operate solely as a postal delivery service"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did the Cypress Hills Massacre alarm the Canadian government?",
+            "options": [
+              "Canada had no territorial claims in the region at the time",
+              "It highlighted the lack of law enforcement and government authority in the western territories",
+              "The government had no interest in events occurring in the west",
+              "The massacre had no connection to future government policy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Cypress Hills Massacre considered a turning point in the governance of western Canada?",
+            "options": [
+              "The event led to the west being abandoned by the government entirely",
+              "The massacre had no influence on how the west was governed",
+              "Law enforcement in the west was already fully established before this event",
+              "It directly contributed to the establishment of a formal policing presence in the territories"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "label": "Day 125 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Infographics and Data Visualization",
+        "summary": "Grade 8 Language strand: an infographic combines images, charts, and concise text to present information or data visually, and analyzing one critically involves checking whether the visual choices accurately represent the underlying data or distort it for effect.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an infographic?",
+            "options": [
+              "A lengthy academic essay with no visuals",
+              "A type of punctuation mark",
+              "A visual combining images, charts, and concise text to present information",
+              "A purely fictional narrative"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a critical reader examine the scale of a chart within an infographic?",
+            "options": [
+              "A distorted scale can exaggerate or minimize differences in the data",
+              "Scale never has any effect on how data appears",
+              "Charts are always presented with perfectly accurate scales",
+              "Infographics never contain any charts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one risk of poorly designed data visualization?",
+            "options": [
+              "Infographics have no connection to persuasion",
+              "It can mislead viewers about the true relationships within the data",
+              "Data visualization never influences a viewers understanding",
+              "Poorly designed visuals always communicate data more clearly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do infographics often use colour and icons strategically?",
+            "options": [
+              "Icons always replace the need for any data at all",
+              "Colour and icons never affect how a viewer interprets information",
+              "Infographics are required to be entirely black and white",
+              "To draw attention to key information and make complex data easier to understand quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important to check the original source of the data behind an infographic?",
+            "options": [
+              "Infographics never rely on any outside data",
+              "Sources are only necessary for written essays, not visuals",
+              "The original source of data is never relevant to its accuracy",
+              "Verifying the source helps confirm whether the information is accurate and unbiased"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to Hypothesis Testing",
+        "summary": "Grade 8 Math strand: hypothesis testing is a statistical method for deciding whether there is enough evidence in a sample of data to support a specific claim about a larger population, typically comparing a null hypothesis against an alternative hypothesis.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is the purpose of hypothesis testing?",
+            "options": [
+              "To draw a Venn diagram of overlapping sets",
+              "To calculate the exact value of every individual data point",
+              "To replace the need for collecting any data",
+              "To decide whether sample evidence supports a specific claim about a population"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a null hypothesis?",
+            "options": [
+              "A statement assuming no effect or no difference exists",
+              "A rule for graphing quadratic functions",
+              "A type of geometric proof",
+              "A statement that is always assumed to be true with no testing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an alternative hypothesis?",
+            "options": [
+              "A rule about triangle congruence",
+              "A method for simplifying fractions",
+              "A statement proposing that an effect or difference does exist",
+              "A statement identical to the null hypothesis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do researchers rely on a sample rather than testing an entire population?",
+            "options": [
+              "Sampling always produces completely certain, error-free conclusions",
+              "Populations never need to be studied using statistics",
+              "Samples are always identical to the entire population in every way",
+              "Testing an entire population is often impractical, so a representative sample is used to draw conclusions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is hypothesis testing widely used in scientific research?",
+            "options": [
+              "It provides a structured method for evaluating whether observed results are likely due to chance or reflect a real effect",
+              "Hypothesis testing has no connection to scientific research",
+              "Scientific claims never require any statistical evidence",
+              "Hypothesis testing eliminates the need for any data collection"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Human Respiratory System: Gas Exchange and Breathing",
+        "summary": "Grade 8 Science strand: the respiratory system moves air into and out of the lungs, where oxygen is exchanged for carbon dioxide across tiny air sacs called alveoli, supplying the bloodstream with the oxygen needed for cellular respiration.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where does gas exchange occur in the lungs?",
+            "options": [
+              "In the nasal passages only",
+              "In the trachea only",
+              "In the diaphragm only",
+              "In tiny air sacs called alveoli"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What gas does the respiratory system supply to the bloodstream?",
+            "options": [
+              "Nitrogen",
+              "Oxygen",
+              "Helium",
+              "Carbon dioxide only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What waste gas is removed from the blood and exhaled by the lungs?",
+            "options": [
+              "Hydrogen",
+              "Carbon dioxide",
+              "Oxygen",
+              "Nitrogen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do alveoli have very thin walls and a large surface area?",
+            "options": [
+              "These features allow oxygen and carbon dioxide to be exchanged efficiently with the blood",
+              "A large surface area has no effect on gas exchange",
+              "Thin walls prevent any gas exchange from occurring",
+              "Alveoli are designed to store air permanently with no exchange"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is breathing connected to cellular respiration?",
+            "options": [
+              "Cellular respiration produces the oxygen used for breathing",
+              "Breathing supplies the oxygen cells need to release energy through cellular respiration",
+              "Cells never require any oxygen supplied by breathing",
+              "Breathing and cellular respiration are completely unrelated processes"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Numbered Treaties and Indigenous-Crown Relations",
+        "summary": "Grade 8 History strand: the Numbered Treaties were a series of agreements signed between the Canadian government and Indigenous nations between 1871 and 1921, intended to define land use, reserve boundaries, and government obligations, though their terms were often interpreted very differently by each side.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What were the Numbered Treaties?",
+            "options": [
+              "A series of agreements between the Canadian government and Indigenous nations",
+              "A collection of railway construction contracts",
+              "A series of treaties between Canada and Britain only",
+              "A set of provincial election laws"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Over roughly what period were the Numbered Treaties signed?",
+            "options": [
+              "Between 1980 and 1990",
+              "Between 1600 and 1650",
+              "Between 1871 and 1921",
+              "Between 1812 and 1815"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What were the Numbered Treaties generally intended to address?",
+            "options": [
+              "International trade tariffs",
+              "Naval defence policy",
+              "Land use, reserve boundaries, and government obligations",
+              "The design of the Canadian flag"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why have the Numbered Treaties been a continuing source of historical and legal debate?",
+            "options": [
+              "The Canadian government and Indigenous nations often interpreted the treaty terms very differently",
+              "The treaties had no connection to land or governance",
+              "The treaties were never actually signed by either side",
+              "Both sides always agreed completely on every treaty term"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the study of the Numbered Treaties important for understanding modern Indigenous-Crown relations?",
+            "options": [
+              "Indigenous nations were never involved in any treaty negotiations",
+              "These historical agreements continue to shape legal and political discussions about land and rights today",
+              "The treaties have no relevance to any modern issue",
+              "The treaties were fully resolved with no lasting impact"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "label": "Day 126 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Allusion in Literature",
+        "summary": "Grade 8 Language strand: an allusion is a brief, indirect reference to a person, event, or work from history, literature, or culture that an author expects readers to recognize, adding layers of meaning without lengthy explanation.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A brief, indirect reference to a person, event, or work the author expects readers to recognize",
+              "A citation style used in essays",
+              "A type of punctuation mark",
+              "A detailed explanation of every historical event mentioned in a text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do authors use allusions instead of fully explaining a reference?",
+            "options": [
+              "Authors never expect readers to recognize any outside reference",
+              "Allusions let a writer add meaning efficiently by relying on a readers existing knowledge",
+              "Allusions always require lengthy explanation to be understood",
+              "This concept has no connection to reading"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of an allusion?",
+            "options": [
+              "Defining a scientific term",
+              "Describing the weather on a particular day",
+              "Listing the chapters of a book",
+              "Describing someone as having the strength of Hercules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might happen if a reader does not recognize an allusion in a text?",
+            "options": [
+              "The story will change entirely for that reader",
+              "The reader may miss a layer of meaning the author intended to convey",
+              "The text automatically becomes impossible to read at all",
+              "Allusions have no effect on a readers understanding regardless"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is recognizing allusions especially useful when reading classic or literary texts?",
+            "options": [
+              "Allusions only appear in modern, informal writing",
+              "Many classic works reference mythology, history, or earlier literature to deepen their themes",
+              "This concept has no relevance to reading comprehension",
+              "Classic texts never include any references to outside works"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Systems of Equations Using Cramers Rule",
+        "summary": "Grade 8 Math strand: Cramers Rule uses the determinants of matrices formed from a system of linear equations to solve directly for each variable, offering an alternative to substitution, elimination, or graphing.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What mathematical tool does Cramers Rule rely on to solve a system of equations?",
+            "options": [
+              "Determinants of matrices",
+              "Only graphing techniques",
+              "Only sigma notation",
+              "Only the quadratic formula"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What alternative methods can also be used to solve a system of linear equations?",
+            "options": [
+              "Only counting on fingers",
+              "Only measuring angles",
+              "Only calculating probability",
+              "Substitution, elimination, and graphing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For Cramers Rule to give a unique solution, what must be true about the main determinant of the system?",
+            "options": [
+              "It must always equal zero",
+              "It must always be negative",
+              "It must not equal zero",
+              "It must always be an even number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Cramers Rule be considered useful for larger systems of equations compared to substitution?",
+            "options": [
+              "Cramers Rule can only ever be used for a single equation",
+              "It provides a direct, systematic formula for finding each variable without repeated substitution steps",
+              "Cramers Rule never actually helps solve any system of equations",
+              "Substitution is always faster for every possible system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens if the determinant used in Cramers Rule equals zero?",
+            "options": [
+              "The equations become impossible to write down",
+              "The system always has exactly one solution",
+              "The system does not have a single unique solution",
+              "The variables automatically equal zero"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Invasive Species and Ecosystem Disruption",
+        "summary": "Grade 8 Science strand: an invasive species is a non-native organism introduced to a new environment where it spreads rapidly and causes ecological or economic harm, often by outcompeting native species for resources or introducing new diseases.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is an invasive species?",
+            "options": [
+              "A native species that has always lived in a particular ecosystem",
+              "A species found only in a laboratory setting",
+              "A species that has gone extinct",
+              "A non-native organism that spreads rapidly and causes ecological harm in a new environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might an invasive species harm native populations?",
+            "options": [
+              "By always cooperating peacefully with every native species",
+              "Invasive species never interact with native populations",
+              "By providing unlimited resources to native species",
+              "By outcompeting native species for food, space, or other resources"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are invasive species often introduced to a new environment?",
+            "options": [
+              "Only through natural migration with no human involvement",
+              "Through processes entirely unrelated to human activity",
+              "Invasive species never actually move between environments",
+              "Through human activities like trade, travel, or the release of pets"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can invasive species sometimes spread rapidly in a new ecosystem?",
+            "options": [
+              "Ecosystems automatically prevent any new species from spreading",
+              "Invasive species always spread more slowly than native species",
+              "New environments always have more predators for invasive species",
+              "They may lack natural predators or competitors in their new environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are invasive species considered a significant economic as well as ecological concern?",
+            "options": [
+              "They can damage crops, fisheries, and infrastructure, leading to costly control and prevention efforts",
+              "Governments never need to spend money addressing invasive species",
+              "Invasive species never have any economic impact",
+              "Ecological harm and economic harm are always entirely unrelated"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Building of the Canadian National Railway",
+        "summary": "Grade 8 History strand: the Canadian National Railway was formed in the early 1920s when the federal government consolidated several financially struggling private railway lines into a single publicly owned company, creating a second transcontinental rail system alongside the Canadian Pacific Railway.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "How was the Canadian National Railway formed?",
+            "options": [
+              "By consolidating several struggling private railway lines into one publicly owned company",
+              "By merging with a railway company in the United States",
+              "By privatizing an existing government-run railway",
+              "By constructing an entirely new railway with no prior lines involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Roughly when was the Canadian National Railway formed?",
+            "options": [
+              "In the 1950s",
+              "In the 1860s",
+              "In the 1990s",
+              "In the early 1920s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What other major Canadian railway did the Canadian National Railway operate alongside?",
+            "options": [
+              "The St. Lawrence Seaway",
+              "The Alaska Highway",
+              "The Canadian Pacific Railway",
+              "The Trans-Canada Highway"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did the government choose to consolidate the struggling railway lines rather than let them fail?",
+            "options": [
+              "Maintaining reliable rail transportation was seen as vital to the countrys economy and unity",
+              "Railways were considered unimportant to the Canadian economy",
+              "The government had no interest in transportation infrastructure",
+              "The struggling lines had no economic value at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the creation of the Canadian National Railway considered significant in Canadian economic history?",
+            "options": [
+              "It ensured continued transcontinental rail service and reflected growing government involvement in infrastructure",
+              "Canadian National Railway was dissolved almost immediately after forming",
+              "It marked the end of all railway service in Canada",
+              "It had no lasting impact on Canadian transportation"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "label": "Day 127 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Interjections and Direct Address",
+        "summary": "Grade 8 Language strand: an interjection is a word or phrase that expresses strong emotion and is often set off by an exclamation mark or comma, while direct address names the person or group being spoken to and is typically separated from the rest of the sentence by a comma.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does an interjection typically express?",
+            "options": [
+              "Strong emotion, such as surprise or excitement",
+              "A citation format",
+              "A type of question",
+              "A grammatical rule about verb tense"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word functions as an interjection in the sentence Wow, that was an incredible finish?",
+            "options": [
+              "Was",
+              "That",
+              "Finish",
+              "Wow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is direct address in a sentence?",
+            "options": [
+              "Naming the person or group being spoken to",
+              "A word that replaces a verb",
+              "A type of punctuation used only in poetry",
+              "A method for citing sources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses a comma to set off direct address?",
+            "options": [
+              "Please, pass the salt Maria.",
+              "Please pass the salt, Maria.",
+              "Please pass the salt Maria.",
+              "Please pass, the salt Maria"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is punctuation important when separating an interjection or direct address from the rest of a sentence?",
+            "options": [
+              "Interjections and direct address never require any punctuation",
+              "Punctuation never has any effect on how a sentence is understood",
+              "These elements always attach directly to the following word with no separation",
+              "It clarifies meaning and prevents the sentence from becoming confusing to read"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: An Introduction to the Chinese Remainder Theorem",
+        "summary": "Grade 8 Math strand: the Chinese Remainder Theorem provides a method for solving a system of simultaneous modular congruences, finding a single number that satisfies multiple remainder conditions at once when the moduli involved share no common factors.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Chinese Remainder Theorem help solve?",
+            "options": [
+              "The area of a triangle",
+              "The volume of a sphere",
+              "A single linear equation with one variable",
+              "A system of simultaneous modular congruences"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition must the moduli in the system typically satisfy for the theorem to guarantee a unique solution?",
+            "options": [
+              "The moduli must all be equal to each other",
+              "The moduli must always be negative",
+              "The moduli must share no common factors",
+              "The moduli must always be prime"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of answer does the Chinese Remainder Theorem ultimately provide?",
+            "options": [
+              "A single number that satisfies every given remainder condition simultaneously",
+              "A geometric shape rather than a number",
+              "A list of infinitely many unrelated answers",
+              "An answer that ignores all but one condition"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which modern field is the Chinese Remainder Theorem particularly useful?",
+            "options": [
+              "Only ancient astronomy with no modern use",
+              "Only music theory",
+              "Computer science and cryptography",
+              "Only art history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Chinese Remainder Theorem considered an elegant result in number theory?",
+            "options": [
+              "It efficiently combines multiple separate conditions into one guaranteed solution",
+              "It always produces zero as the only possible solution",
+              "It only works for a single modulus at a time",
+              "It has no practical or theoretical significance"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Acid-Base Titration and pH Indicators",
+        "summary": "Grade 8 Science strand: titration is a laboratory technique used to determine the concentration of an acid or base by carefully adding a solution of known concentration until a chemical indicator signals that neutralization has occurred.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the purpose of an acid-base titration?",
+            "options": [
+              "To generate electricity from a chemical reaction",
+              "To determine the concentration of an unknown acid or base solution",
+              "To measure the temperature of a solution",
+              "To separate a mixture into its individual elements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What signals that neutralization has occurred during a titration?",
+            "options": [
+              "The solution turning solid",
+              "An audible sound from the container",
+              "A colour change produced by a chemical indicator",
+              "A sudden drop in temperature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What must be known about one of the solutions used in a titration for the calculation to work?",
+            "options": [
+              "Its exact concentration",
+              "Its exact temperature at all times",
+              "Its exact colour before the reaction begins",
+              "Its exact mass in kilograms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a chemical indicator, such as phenolphthalein, useful in a titration?",
+            "options": [
+              "Indicators have no visible effect during a titration",
+              "It changes colour at a specific pH, signalling the endpoint of the reaction",
+              "Indicators are only used to add flavour to a solution",
+              "It permanently changes the chemical identity of the acid or base"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is titration a valuable technique in both industry and scientific research?",
+            "options": [
+              "Titration can only be used with solid substances, never liquids",
+              "Titration never produces any useful or precise information",
+              "It allows precise measurement of unknown concentrations, which is important for quality control and experimentation",
+              "Titration has no real-world applications outside a classroom"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Formation of the Royal Canadian Mounted Police in 1920",
+        "summary": "Grade 8 History strand: the Royal Canadian Mounted Police was formed in 1920 through the merger of the North-West Mounted Police and the Dominion Police, creating a single national police force responsible for federal law enforcement across Canada.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Royal Canadian Mounted Police formed?",
+            "options": [
+              "1867",
+              "1920",
+              "1949",
+              "1873"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which two organizations merged to create the Royal Canadian Mounted Police?",
+            "options": [
+              "The North-West Mounted Police and the Dominion Police",
+              "The Canadian Pacific Railway police and a municipal force",
+              "Provincial police forces from every province",
+              "The Canadian Army and the Royal Canadian Navy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the primary role of the newly formed Royal Canadian Mounted Police?",
+            "options": [
+              "Managing international trade negotiations",
+              "Federal law enforcement across Canada",
+              "Operating the countrys railway system",
+              "Overseeing provincial school curricula"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the Canadian government have wanted to merge multiple police organizations into one national force?",
+            "options": [
+              "The merger had no connection to national law enforcement needs",
+              "A single unified force could provide more consistent law enforcement across the entire country",
+              "Multiple separate forces were considered more efficient than one national force",
+              "Merging police forces was expected to eliminate the need for any law enforcement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the formation of the Royal Canadian Mounted Police considered a significant milestone in Canadian institutional history?",
+            "options": [
+              "The organization was disbanded shortly after it was created",
+              "It had no lasting influence on Canadian institutions",
+              "It created a lasting national symbol and law enforcement body still in operation today",
+              "The force never expanded beyond a single small region"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "label": "Day 128 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Malapropisms and Word Confusion",
+        "summary": "Grade 8 Language strand: a malapropism occurs when a speaker or writer mistakenly substitutes a word for another word that sounds similar but has a very different meaning, often creating an unintentionally humorous effect.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a malapropism?",
+            "options": [
+              "A grammatical rule about sentence structure",
+              "A word borrowed directly from another language",
+              "The mistaken substitution of a word for a similar-sounding word with a different meaning",
+              "A citation style used in essays"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains a malapropism?",
+            "options": [
+              "She used a diagram to illustrate the point, but he called it a dire gram.",
+              "They discussed the results of the experiment.",
+              "He explained the process step by step.",
+              "She used a diagram to illustrate the point clearly."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do malapropisms often create humour?",
+            "options": [
+              "Malapropisms are identical in meaning to the correct word",
+              "Humour never results from any kind of word confusion",
+              "The mismatch between the intended word and the word actually used produces an unexpected meaning",
+              "Malapropisms always convey the exact intended meaning with no confusion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might writers use malapropisms deliberately in dialogue?",
+            "options": [
+              "Dialogue should never include any word errors",
+              "To develop a characters voice or create comic effect",
+              "Malapropisms can never be used intentionally by a writer",
+              "This concept has no connection to vocabulary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding malapropisms useful for improving ones own vocabulary?",
+            "options": [
+              "Recognizing commonly confused words helps a writer avoid similar mistakes in their own work",
+              "Malapropisms have no connection to vocabulary development",
+              "Confused words are always interchangeable with no difference in meaning",
+              "This concept has no relevance to writing"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Introduction to Conic Sections",
+        "summary": "Grade 8 Math strand: conic sections are the curves formed when a plane intersects a double cone at different angles, producing circles, ellipses, parabolas, and hyperbolas depending on the angle and position of the intersecting plane.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What are conic sections?",
+            "options": [
+              "Curves formed when a plane intersects a double cone",
+              "A type of matrix operation",
+              "A method for simplifying fractions",
+              "Curves formed only by intersecting two flat planes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is NOT one of the four basic conic sections?",
+            "options": [
+              "Ellipse",
+              "Circle",
+              "Parabola",
+              "Trapezoid"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What shape results when a plane slices straight across a cone, perpendicular to its axis?",
+            "options": [
+              "A straight line",
+              "A cube",
+              "A circle",
+              "A hyperbola"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a parabola form as a conic section?",
+            "options": [
+              "A plane never actually produces a parabola",
+              "A plane intersects the cone at an angle parallel to one side of the cone",
+              "A parabola is unrelated to conic sections entirely",
+              "A plane intersects the cone perpendicular to its axis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are conic sections important in fields like astronomy?",
+            "options": [
+              "Conic sections have no application to astronomy",
+              "Astronomy never involves geometric modeling of any kind",
+              "Orbital paths of planets and comets can often be modeled using conic sections like ellipses",
+              "Orbits are always perfectly circular with no variation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earthquake-Resistant Engineering and Building Design",
+        "summary": "Grade 8 Science strand: earthquake-resistant engineering uses design strategies, such as flexible foundations and reinforced structural frames, to help buildings absorb and dissipate the seismic energy released during an earthquake, reducing damage and protecting occupants.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main goal of earthquake-resistant engineering?",
+            "options": [
+              "To eliminate the need for any structural design considerations",
+              "To prevent earthquakes from occurring at all",
+              "To help buildings absorb and dissipate seismic energy, reducing damage",
+              "To make buildings completely immovable during any earthquake"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one design strategy used to make buildings more earthquake-resistant?",
+            "options": [
+              "Building exclusively with materials that shatter easily",
+              "Flexible foundations that allow some movement during shaking",
+              "Foundations that are rigidly fixed with no flexibility whatsoever",
+              "Removing all structural supports from a building"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might engineers reinforce a buildings structural frame in earthquake-prone regions?",
+            "options": [
+              "Reinforcement always makes a building weaker during an earthquake",
+              "A reinforced frame helps the building withstand shaking without collapsing",
+              "Reinforcement is only useful for buildings unaffected by earthquakes",
+              "Structural frames have no connection to a buildings earthquake safety"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do engineers study the seismic energy released during past earthquakes?",
+            "options": [
+              "Understanding seismic energy helps engineers design structures that can better withstand future events",
+              "Seismic energy has no connection to how buildings are designed",
+              "Every earthquake releases exactly the same amount of energy",
+              "Past earthquakes provide no useful information for future building design"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is earthquake-resistant engineering especially important in densely populated, seismically active cities?",
+            "options": [
+              "Building design has no effect on the safety of a citys residents",
+              "Earthquake-resistant engineering only matters in cities with very few people",
+              "Densely populated cities are never affected by earthquakes",
+              "Effective design can significantly reduce damage and protect large numbers of people during an earthquake"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Trans-Canada Highway and Postwar Infrastructure",
+        "summary": "Grade 8 History strand: the Trans-Canada Highway, officially opened in 1962 after years of construction, is a transcontinental road system that connected communities across the country and reflected a broader postwar push to modernize Canadian infrastructure.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Trans-Canada Highway officially opened?",
+            "options": [
+              "1867",
+              "1962",
+              "1920",
+              "1949"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Trans-Canada Highway connect?",
+            "options": [
+              "Communities across the entire country",
+              "Only a single province",
+              "Only coastal fishing villages",
+              "Only major international borders"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What broader trend does the construction of the Trans-Canada Highway reflect?",
+            "options": [
+              "A rejection of automobile travel in Canada",
+              "A decision to reduce all transportation funding",
+              "An effort to disconnect rural communities from cities",
+              "A postwar push to modernize Canadian infrastructure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a nationwide highway system have been considered important for Canadas economy after World War II?",
+            "options": [
+              "Economic growth was considered unrelated to transportation infrastructure",
+              "It could improve the movement of goods, people, and services between distant regions",
+              "Canada already had a fully connected road network before this project",
+              "Highways were believed to have no economic benefit at the time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Trans-Canada Highway considered an important part of Canadian infrastructure history?",
+            "options": [
+              "The highway was never completed and remains unfinished today",
+              "It represents a major national effort to physically connect a vast and geographically diverse country",
+              "The project was cancelled before any construction began",
+              "It had no effect on trade or travel within Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "label": "Day 129 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Persuasion Using Ethos, Pathos, and Logos",
+        "summary": "Grade 8 Language strand: ethos, pathos, and logos are three classical persuasive appeals, with ethos establishing the writers credibility, pathos appealing to the audiences emotions, and logos relying on logic and evidence to support an argument.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does ethos appeal to in an argument?",
+            "options": [
+              "The credibility and trustworthiness of the writer or speaker",
+              "The audiences emotions",
+              "The setting of the argument",
+              "Logical evidence and reasoning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does pathos appeal to?",
+            "options": [
+              "Statistical evidence only",
+              "The audiences emotions",
+              "The writers credentials",
+              "A type of punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does logos rely on to persuade an audience?",
+            "options": [
+              "The writers personal reputation only",
+              "Random unrelated opinions",
+              "Logic, facts, and evidence",
+              "Emotional stories only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an appeal to ethos?",
+            "options": [
+              "A story designed to make readers feel sad",
+              "A loud, dramatic tone of voice",
+              "A doctor citing years of medical experience to support a health claim",
+              "A chart showing statistical data"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an effective persuasive essay use all three appeals together?",
+            "options": [
+              "Combining credibility, emotion, and logic can make an argument more convincing to a broader audience",
+              "Ethos, pathos, and logos are always identical in effect",
+              "Effective persuasion never relies on logic or evidence",
+              "Using more than one appeal always weakens an argument"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Introduction to Fractals and Self-Similarity",
+        "summary": "Grade 8 Math strand: a fractal is a complex geometric shape that displays self-similarity, meaning smaller sections of the shape resemble the whole, a property often generated by repeating a simple pattern at increasingly smaller scales.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is self-similarity in a fractal?",
+            "options": [
+              "Every section of the shape is a perfect circle",
+              "Smaller sections of the shape resemble the whole shape",
+              "The shape never repeats any pattern",
+              "The shape has only one possible size"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How are many fractals generated?",
+            "options": [
+              "By measuring the volume of a sphere",
+              "By using only straight lines with no repetition",
+              "By repeating a simple pattern at increasingly smaller scales",
+              "By randomly assigning shapes with no repeating pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a well-known example of a fractal pattern?",
+            "options": [
+              "The Koch snowflake",
+              "A single straight line",
+              "A basic right triangle",
+              "A perfect square"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might fractal patterns appear in nature, such as in snowflakes, ferns, or coastlines?",
+            "options": [
+              "Nature never displays any patterns resembling fractals",
+              "Natural growth processes often repeat similar branching or layering patterns at different scales",
+              "Fractals only exist as abstract mathematical concepts with no natural examples",
+              "Coastlines and ferns always have perfectly smooth, non-repeating shapes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do fractals challenge the idea of measuring a shapes length using traditional methods?",
+            "options": [
+              "Fractals have no geometric properties worth measuring",
+              "Traditional measurement methods always work perfectly on any fractal",
+              "Zooming into a fractal reveals increasing detail, which can make measured length increase without an upper limit",
+              "Fractals always have a single, easily measured length with no complications"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Physics of Sound Insulation and Noise Reduction",
+        "summary": "Grade 8 Science strand: sound insulation reduces the transmission of sound energy between spaces by absorbing, blocking, or dampening sound waves, often using dense or porous materials designed to minimize vibration and reflection.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main purpose of sound insulation?",
+            "options": [
+              "To convert sound waves into visible light",
+              "To eliminate the need for any building materials",
+              "To increase the volume of sound passing through a wall",
+              "To reduce the transmission of sound energy between spaces"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do porous materials often help reduce noise?",
+            "options": [
+              "Porous materials always amplify sound waves",
+              "They reflect all sound waves perfectly with no absorption",
+              "They block light rather than sound",
+              "They absorb sound energy, converting it into small amounts of heat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What property of a material often makes it effective at blocking sound transmission?",
+            "options": [
+              "Bright colour with no connection to sound",
+              "High density, which resists the vibration needed to transmit sound",
+              "Extremely low density with many open gaps",
+              "High electrical conductivity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a recording studio use both absorptive and dense materials together?",
+            "options": [
+              "Combining materials always increases unwanted noise",
+              "Recording studios never require any sound control",
+              "Absorptive materials reduce echo while dense materials block outside noise from entering",
+              "Absorptive and dense materials always have identical effects on sound"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is sound insulation an important consideration in apartment building design?",
+            "options": [
+              "It can reduce noise transmission between units, improving comfort and privacy for residents",
+              "Noise levels have no connection to building material choices",
+              "Sound insulation has no effect on residents comfort or privacy",
+              "Apartment buildings never transmit sound between separate units"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Rebellion Losses Bill and the Growth of Responsible Government",
+        "summary": "Grade 8 History strand: the Rebellion Losses Bill of 1849 compensated residents of Lower Canada for property damaged during the Rebellions of 1837-38, and the governments decision to sign it despite public outrage demonstrated an early and significant expansion of responsible government in the colonies.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What did the Rebellion Losses Bill of 1849 provide?",
+            "options": [
+              "Funding for a new national railway",
+              "A plan for creating a new provincial border",
+              "A formal declaration of independence from Britain",
+              "Compensation for residents whose property was damaged during the Rebellions of 1837-38"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which colony did the events surrounding the Rebellion Losses Bill primarily take place?",
+            "options": [
+              "Newfoundland",
+              "Prince Edward Island",
+              "British Columbia",
+              "Lower Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did some members of the public react to the passing of the Rebellion Losses Bill?",
+            "options": [
+              "With significant outrage, including violent protests",
+              "With immediate and universal approval",
+              "By demanding the bill be expanded further",
+              "With complete indifference and no reaction at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the governments decision to sign the Rebellion Losses Bill despite public backlash considered historically significant?",
+            "options": [
+              "It proved that responsible government would never be achieved",
+              "The decision had no effect on how government authority was understood",
+              "It demonstrated that the elected government, not colonial officials alone, held real decision-making power",
+              "The bill was immediately reversed due to the backlash"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Rebellion Losses Bill connected to the broader growth of responsible government in Canada?",
+            "options": [
+              "Responsible government was fully established long before this event occurred",
+              "The bill had no connection to the concept of responsible government",
+              "The governor overturned the bill personally, rejecting the elected governments authority",
+              "It showed the governors willingness to accept the decisions of an elected government, a key principle of responsible government"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "label": "Day 130 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Vocabulary, and Persuasive Writing (Days 121-129)",
+        "summary": "Grade 8 Language strand review: students revisit apostrophes and possessives, archaisms, foils and antagonists, public service announcements, infographics, allusion, interjections, malapropisms, and persuasion using ethos, pathos, and logos.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of an apostrophe in a possessive noun?",
+            "options": [
+              "To end a question",
+              "To indicate plural number",
+              "To join two independent clauses",
+              "To show ownership or a relationship between two nouns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an archaism?",
+            "options": [
+              "A word or phrase that was once common but is no longer used in everyday language",
+              "A grammatical rule about verb tense",
+              "A citation format used in essays",
+              "A newly invented word describing modern technology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a foil in literature?",
+            "options": [
+              "A character whose contrasting traits highlight qualities in another character",
+              "A character who narrates the entire story",
+              "A type of punctuation mark",
+              "A citation style used in essays"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an allusion?",
+            "options": [
+              "A type of punctuation mark",
+              "A brief, indirect reference to a person, event, or work the author expects readers to recognize",
+              "A detailed explanation of every historical event mentioned in a text",
+              "A citation style used in essays"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does ethos appeal to in an argument?",
+            "options": [
+              "The credibility and trustworthiness of the writer or speaker",
+              "Logical evidence and reasoning",
+              "The audiences emotions",
+              "The setting of the argument"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Statistics, Number Theory, and Geometry (Days 121-129)",
+        "summary": "Grade 8 Math strand review: students revisit the correlation coefficient, perfect and abundant numbers, radian measure, derivatives, hypothesis testing, Cramers Rule, the Chinese Remainder Theorem, conic sections, and fractals.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What range of values can the correlation coefficient r take?",
+            "options": [
+              "Any whole number",
+              "Only positive integers",
+              "Between negative one and positive one",
+              "Between zero and one hundred"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a perfect number?",
+            "options": [
+              "It has no divisors other than one",
+              "It equals the sum of its proper divisors",
+              "It is always a prime number",
+              "It is always an odd number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is one radian defined?",
+            "options": [
+              "The angle formed by exactly one degree",
+              "An angle with no defined arc length",
+              "An angle that always equals ninety degrees",
+              "The angle formed when the arc length equals the circles radius"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a derivative measure?",
+            "options": [
+              "The total area under a curve",
+              "The average of a data set",
+              "A fixed value that never changes",
+              "The instantaneous rate of change of a function at a given point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is self-similarity in a fractal?",
+            "options": [
+              "The shape has only one possible size",
+              "Every section of the shape is a perfect circle",
+              "The shape never repeats any pattern",
+              "Smaller sections of the shape resemble the whole shape"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Human Body, Chemistry, and Physics (Days 121-129)",
+        "summary": "Grade 8 Science strand review: students revisit the skeletal system, soap chemistry, bioluminescence, magnetism, the respiratory system, invasive species, acid-base titration, earthquake-resistant engineering, and sound insulation.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is one major function of the skeletal system?",
+            "options": [
+              "Producing sound for speech",
+              "Pumping blood through the body",
+              "Providing structural support and protecting internal organs",
+              "Digesting food in the stomach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a surfactant?",
+            "options": [
+              "A substance with one end that attracts water and one end that attracts oil or grease",
+              "A gas released during combustion",
+              "A substance that only ever repels water",
+              "A type of enzyme found in the digestive system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "A type of radioactive decay",
+              "The absorption of light by plants during photosynthesis",
+              "A reflection of sunlight off an animals skin",
+              "The production of light by living organisms through a chemical reaction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does gas exchange occur in the lungs?",
+            "options": [
+              "In tiny air sacs called alveoli",
+              "In the diaphragm only",
+              "In the trachea only",
+              "In the nasal passages only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main goal of earthquake-resistant engineering?",
+            "options": [
+              "To prevent earthquakes from occurring at all",
+              "To make buildings completely immovable during any earthquake",
+              "To eliminate the need for any structural design considerations",
+              "To help buildings absorb and dissipate seismic energy, reducing damage"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: Confederation, Institutions, and Infrastructure (Days 121-129)",
+        "summary": "Grade 8 History strand review: students revisit the fur trade, the Charlottetown and Quebec Conferences, the Pacific Scandal, the Cypress Hills Massacre, the Numbered Treaties, the Canadian National Railway, the Royal Canadian Mounted Police, the Trans-Canada Highway, and the Rebellion Losses Bill.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What resource primarily drove the early Canadian fur trade?",
+            "options": [
+              "Beaver pelts",
+              "Cod fisheries",
+              "Timber exports",
+              "Gold deposits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the main purpose of the Charlottetown Conference of 1864?",
+            "options": [
+              "To settle a border dispute with the United States",
+              "To discuss uniting British North American colonies",
+              "To negotiate a peace treaty ending a war",
+              "To establish a new national anthem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the Pacific Scandal of 1873 primarily about?",
+            "options": [
+              "Accusations that the government accepted campaign funds in exchange for a railway contract",
+              "A disagreement about provincial school funding",
+              "An argument over a proposed national anthem",
+              "A dispute over international fishing rights"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year was the Royal Canadian Mounted Police formed?",
+            "options": [
+              "1873",
+              "1920",
+              "1949",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year was the Trans-Canada Highway officially opened?",
+            "options": [
+              "1867",
+              "1920",
+              "1949",
+              "1962"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
