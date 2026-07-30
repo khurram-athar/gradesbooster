@@ -26758,5 +26758,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 111,
+    "label": "Day 111 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Juxtaposition in Literature",
+        "summary": "Grade 11 English strand: juxtaposition places two contrasting elements side by side in a text, highlighting their differences and creating deeper meaning, tension, or thematic emphasis.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "Placing two contrasting elements side by side",
+              "Combining two similar ideas into one",
+              "A type of punctuation mark",
+              "A grammar rule for verb tense"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What effect does juxtaposition typically create in a text?",
+            "options": [
+              "It eliminates the need for description",
+              "It highlights differences and creates deeper meaning or tension",
+              "It removes all meaning from a text",
+              "It always confuses the reader with no purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of juxtaposition in a novel?",
+            "options": [
+              "Listing facts with no comparison",
+              "Describing a lavish celebration immediately followed by a scene of poverty",
+              "Describing only one setting throughout the story",
+              "Using only dialogue with no description"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author juxtapose two characters?",
+            "options": [
+              "To remove conflict from the story",
+              "To emphasize how different the characters are from each other",
+              "To make the characters seem identical",
+              "To avoid describing either character"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Juxtaposition is often used by authors to explore contrasts such as ___.",
+            "options": [
+              "Only numbers and equations",
+              "Only geographic locations with no thematic meaning",
+              "Only weather patterns",
+              "Wealth and poverty, or innocence and corruption"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus Preview: An Introduction to Limits",
+        "summary": "Grade 11 Functions strand: a limit describes the value a function approaches as its input approaches a certain number, a foundational idea used to formally define the derivative and analyze function behaviour near a point.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does a limit describe in mathematics?",
+            "options": [
+              "The exact value of a function at every point",
+              "A fixed number that never changes",
+              "The total area under a curve only",
+              "The value a function approaches as its input gets closer to a certain number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are limits considered foundational to calculus?",
+            "options": [
+              "They only apply to whole numbers",
+              "They are used to formally define the derivative",
+              "They have no connection to any other calculus concept",
+              "They eliminate the need to study functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As x approaches 4, if f(x) gets closer and closer to 16, what is the limit of f(x) as x approaches 4?",
+            "options": [
+              "16",
+              "4",
+              "Undefined in all cases",
+              "0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can a limit exist at a point even if the function is undefined there?",
+            "options": [
+              "Yes, a limit can exist even if the function itself is undefined at that point",
+              "Limits are unrelated to function values",
+              "No, a limit only exists where the function is defined",
+              "Limits never exist for undefined functions under any circumstance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Understanding limits helps mathematicians analyze ___.",
+            "options": [
+              "Only basic geometry",
+              "Only whole number arithmetic",
+              "How a function behaves as it approaches specific values",
+              "Only the colour of a graph"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Desert Ecosystems and Xerophytic Adaptations",
+        "summary": "Grade 11 Biology strand: desert ecosystems receive very little precipitation, and xerophytic plants and desert animals have evolved specialized physiological adaptations, such as water storage and reduced water loss, to survive extreme aridity.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What defines a desert ecosystem?",
+            "options": [
+              "Constant freezing temperatures only",
+              "No sunlight at all",
+              "Very little precipitation",
+              "Extremely high precipitation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the term xerophytic describe?",
+            "options": [
+              "Animals that live only underwater",
+              "Plants that require constant flooding",
+              "A type of rock formation",
+              "Plants adapted to survive in very dry conditions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one common adaptation in xerophytic plants?",
+            "options": [
+              "A requirement for daily flooding",
+              "Thick, water-storing tissues like those in a cactus",
+              "Thin leaves that maximize water loss",
+              "An inability to survive any sunlight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might many desert animals be nocturnal?",
+            "options": [
+              "Because deserts have no daytime at all",
+              "Nocturnal behaviour has no survival advantage",
+              "To avoid finding food entirely",
+              "To avoid the extreme heat and water loss associated with daytime activity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Desert ecosystems can be found in which types of climates?",
+            "options": [
+              "Only areas with constant rainfall",
+              "Only areas near the equator",
+              "Both hot and cold regions with low precipitation",
+              "Only underwater locations"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Molecular Orbital Theory — An Introduction",
+        "summary": "Grade 11 Chemistry strand: molecular orbital theory describes how atomic orbitals combine to form bonding and antibonding molecular orbitals, offering a more detailed model of chemical bonding than simple Lewis structures.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does molecular orbital theory describe?",
+            "options": [
+              "The colour of a chemical compound",
+              "Only the shape of a single atom",
+              "The temperature at which a substance boils",
+              "How atomic orbitals combine to form molecular orbitals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are the two main types of molecular orbitals formed when atomic orbitals combine?",
+            "options": [
+              "Only neutral orbitals",
+              "Only negative orbitals",
+              "Only positive orbitals",
+              "Bonding and antibonding orbitals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a bonding molecular orbital generally affect stability?",
+            "options": [
+              "It always destabilizes the molecule completely",
+              "It has no effect on molecular stability",
+              "It increases stability by lowering the overall energy of the molecule",
+              "It only exists in unstable molecules"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What advantage does molecular orbital theory offer over simple Lewis structures?",
+            "options": [
+              "It cannot explain any chemical bonds",
+              "It only applies to single atoms with no bonding",
+              "It provides a more detailed, quantum-based model of bonding",
+              "It ignores electrons entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Molecular orbital theory is especially useful for explaining properties such as ___.",
+            "options": [
+              "The colour of the sky",
+              "The taste of a substance",
+              "The price of a chemical compound",
+              "Magnetic behaviour and bond order in molecules"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "label": "Day 112 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Poetry: The Prose Poem",
+        "summary": "Grade 11 English strand: a prose poem is written in continuous prose paragraphs rather than in verse lines, yet still relies on poetic techniques like imagery, rhythm, and compression of meaning.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "How is a prose poem structured?",
+            "options": [
+              "Only as a list of single words",
+              "Only as a series of questions",
+              "In continuous prose paragraphs rather than verse lines",
+              "Only in strict rhyming couplets"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What poetic techniques might a prose poem still use?",
+            "options": [
+              "Only mathematical notation",
+              "None at all, since it uses no poetic devices",
+              "Imagery, rhythm, and compression of meaning",
+              "Only formal citations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a prose poem differ from a traditional poem in form?",
+            "options": [
+              "It cannot contain any imagery",
+              "It lacks line breaks and is written like a paragraph",
+              "It always has a strict rhyme scheme",
+              "It is always exactly fourteen lines long"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a poet choose the prose poem form?",
+            "options": [
+              "To avoid using any literary devices",
+              "To blend the density of poetry with the flow of prose",
+              "Prose poems are never used by serious writers",
+              "To eliminate all meaning from the writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A prose poem still shares which quality with traditional poetry?",
+            "options": [
+              "A strict requirement for line breaks",
+              "A requirement to always rhyme",
+              "A complete absence of imagery",
+              "A focus on carefully chosen, compressed language"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus Preview: Continuity of Functions",
+        "summary": "Grade 11 Functions strand: a function is continuous at a point if its limit exists there, the function is defined there, and the limit equals the function value, meaning the graph has no breaks, holes, or jumps at that point.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does it mean for a function to be continuous at a point?",
+            "options": [
+              "The limit exists, the function is defined, and the limit equals the function value",
+              "The function is always undefined at that point",
+              "Continuity has no formal definition",
+              "The graph must have a break at that point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might indicate a function is NOT continuous at a certain point?",
+            "options": [
+              "A perfectly smooth curve with no interruptions",
+              "A hole, jump, or break in the graph at that point",
+              "A function defined for all real numbers",
+              "A straight line with no curves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is continuity an important concept before studying derivatives?",
+            "options": [
+              "Continuity only applies to whole numbers",
+              "Continuity has no connection to derivatives at all",
+              "A function generally needs to be continuous to have a derivative at a point",
+              "Discontinuous functions always have derivatives everywhere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these commonly causes a discontinuity in a rational function?",
+            "options": [
+              "A function with no variables",
+              "A value that makes the denominator equal to zero",
+              "Any function with a straight-line graph",
+              "Any positive numerator"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A continuous function can generally be sketched ___.",
+            "options": [
+              "Only as a series of disconnected points",
+              "Only if it has no domain at all",
+              "Only using a ruler and no curves",
+              "Without lifting your pencil from the paper"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Bioluminescence in Marine and Terrestrial Organisms",
+        "summary": "Grade 11 Biology strand: bioluminescence is the production of light by living organisms through a chemical reaction involving the molecule luciferin and the enzyme luciferase, used for purposes like predation, defence, and communication.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "A process only found in plants",
+              "A type of camouflage using colour change alone",
+              "The production of light by living organisms through a chemical reaction",
+              "The absorption of light by an organism with no light produced"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What molecule and enzyme are commonly involved in bioluminescence?",
+            "options": [
+              "DNA and RNA",
+              "Chlorophyll and glucose",
+              "Hemoglobin and insulin",
+              "Luciferin and luciferase"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which environment is especially rich in bioluminescent organisms?",
+            "options": [
+              "The Arctic tundra ice sheet interior",
+              "The deep ocean",
+              "The upper atmosphere",
+              "The Sahara Desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one purpose bioluminescence can serve for an organism?",
+            "options": [
+              "Attracting prey or deterring predators",
+              "It only occurs after an organism has died",
+              "It has no biological function at all",
+              "It always harms the organism producing it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Besides marine organisms, which other group can exhibit bioluminescence?",
+            "options": [
+              "Only birds",
+              "Only reptiles",
+              "Certain terrestrial insects, like fireflies",
+              "Only mammals"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Orbital Hybridization (sp, sp2, sp3)",
+        "summary": "Grade 11 Chemistry strand: orbital hybridization describes how atomic orbitals mix to form new hybrid orbitals, such as sp, sp2, and sp3, which explain molecular geometry and bonding patterns in covalent compounds.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does orbital hybridization describe?",
+            "options": [
+              "How atomic orbitals mix to form new hybrid orbitals",
+              "The temperature at which a substance freezes",
+              "The colour of a chemical compound",
+              "The mass of a single atom"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What geometry is typically associated with sp3 hybridization?",
+            "options": [
+              "Spherical with no defined shape",
+              "Trigonal planar only",
+              "Tetrahedral",
+              "Linear"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What geometry is typically associated with sp hybridization?",
+            "options": [
+              "Tetrahedral",
+              "Linear",
+              "Octahedral",
+              "Trigonal bipyramidal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many hybrid orbitals form from sp2 hybridization?",
+            "options": [
+              "Five",
+              "Seven",
+              "One",
+              "Three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding hybridization useful in chemistry?",
+            "options": [
+              "It only applies to ionic compounds",
+              "It has no connection to molecular shape",
+              "It eliminates the need to understand bonding",
+              "It helps explain and predict the shapes of molecules"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "label": "Day 113 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: Writing a Letter of Recommendation",
+        "summary": "Grade 11 English strand: a letter of recommendation highlights a persons strengths, skills, and achievements through specific examples, written to support their application for a job, program, or opportunity.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is the purpose of a letter of recommendation?",
+            "options": [
+              "To criticize a person without any specific reason",
+              "To highlight a persons strengths and support their application",
+              "To replace the persons own application entirely",
+              "To provide unrelated general information"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should a strong letter of recommendation include?",
+            "options": [
+              "Only negative comments about the person",
+              "Only vague, general praise with no examples",
+              "No mention of the persons abilities at all",
+              "Specific examples of the persons skills and achievements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who typically writes a letter of recommendation?",
+            "options": [
+              "A random stranger with no connection to the person",
+              "The person being recommended, about themselves",
+              "Someone who knows the persons work or character well, like a teacher or employer",
+              "An anonymous source with no name"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is specificity important in a letter of recommendation?",
+            "options": [
+              "Specific details are never useful in this type of letter",
+              "Specific examples make the praise more credible and convincing",
+              "Vague statements are always more persuasive",
+              "Specificity makes the letter less believable"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A letter of recommendation is often required for which of these?",
+            "options": [
+              "A weather report",
+              "A job application, scholarship, or academic program",
+              "A grocery list",
+              "A restaurant menu"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: An Introduction to Recurrence Relations",
+        "summary": "Grade 11 Functions strand: a recurrence relation defines each term of a sequence based on one or more previous terms, providing a recursive way to model growth patterns, algorithms, and sequences like the Fibonacci numbers.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does a recurrence relation define?",
+            "options": [
+              "A rule with no connection to sequences",
+              "A relation between two unrelated sequences",
+              "Only a single fixed value with no pattern",
+              "Each term of a sequence based on one or more previous terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sequence is a classic example defined by a recurrence relation?",
+            "options": [
+              "A sequence of random unrelated numbers",
+              "The Fibonacci sequence",
+              "A sequence with no defined terms",
+              "A sequence containing only zeros"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What information is typically needed to fully define a recurrence relation?",
+            "options": [
+              "No information is needed at all",
+              "Only the sum of all terms",
+              "The recursive rule and one or more initial terms",
+              "Only the final term of the sequence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Recurrence relations are useful for modelling ___.",
+            "options": [
+              "Only static, unchanging values",
+              "Only random, unrelated events",
+              "Growth patterns and algorithms that build on previous steps",
+              "Only geometric shapes with no numeric pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a(n) = a(n-1) + 2 and a(1) = 3, what is a(2)?",
+            "options": [
+              "6",
+              "3",
+              "2",
+              "5"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Camouflage and Mimicry as Survival Strategies",
+        "summary": "Grade 11 Biology strand: camouflage allows organisms to blend into their surroundings to avoid detection, while mimicry involves an organism resembling another species or object, both serving as evolved survival strategies against predators.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is camouflage?",
+            "options": [
+              "An adaptation allowing an organism to blend into its surroundings",
+              "A process where an organism changes species entirely",
+              "A method of long-distance migration",
+              "A behaviour where an organism attacks its predator directly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is mimicry?",
+            "options": [
+              "When an organism hides underground permanently",
+              "When an organism resembles another species or object",
+              "A type of digestive process",
+              "A form of asexual reproduction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main survival benefit of camouflage?",
+            "options": [
+              "Increasing an organisms visibility to attract predators",
+              "Avoiding detection by predators or prey",
+              "Making an organism grow larger",
+              "Eliminating the need for any food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In Batesian mimicry, a harmless species resembles ___.",
+            "options": [
+              "Another harmless species with no survival benefit",
+              "A completely unrelated inanimate object only",
+              "A harmful or unpalatable species to deter predators",
+              "Its own predator exactly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Camouflage and mimicry are both considered results of ___.",
+            "options": [
+              "Natural selection favouring traits that improve survival",
+              "Random chance with no evolutionary basis",
+              "Deliberate choices made by the organism",
+              "A process unrelated to evolution"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Coordination Compounds and Complex Ions",
+        "summary": "Grade 11 Chemistry strand: a coordination compound consists of a central metal ion surrounded by molecules or ions called ligands, forming a complex ion held together by coordinate covalent bonds.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is a coordination compound built around?",
+            "options": [
+              "A pure element with no other atoms",
+              "Only carbon atoms with no metal present",
+              "A single isolated electron",
+              "A central metal ion surrounded by ligands"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a ligand?",
+            "options": [
+              "A type of radioactive particle",
+              "A type of acid with no metal involvement",
+              "A unit of temperature measurement",
+              "A molecule or ion that binds to a central metal ion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of bond typically holds a ligand to the central metal ion?",
+            "options": [
+              "A coordinate covalent bond",
+              "No bond is formed at all",
+              "An ionic bond only",
+              "A metallic bond only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Coordination compounds are often known for having ___.",
+            "options": [
+              "A complete absence of any metal",
+              "No colour whatsoever",
+              "Vivid, distinctive colours",
+              "Only a gaseous state at room temperature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might coordination compounds be found in biological systems?",
+            "options": [
+              "Nowhere, since living things never contain coordination compounds",
+              "Only in radioactive materials",
+              "In molecules like hemoglobin, which contains iron",
+              "Only in synthetic laboratory chemicals"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "label": "Day 114 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: The Dash and Parenthetical Elements",
+        "summary": "Grade 11 English strand: the em dash sets off parenthetical information, an abrupt shift, or emphasis within a sentence, offering a more dramatic alternative to commas or parentheses for inserting extra detail.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is one common use of the em dash in a sentence?",
+            "options": [
+              "Indicating a question is being asked",
+              "Replacing all periods in an essay",
+              "Setting off parenthetical information or creating emphasis",
+              "Ending every sentence in a paragraph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does an em dash compare to commas or parentheses for inserting extra information?",
+            "options": [
+              "It has the exact same effect with no difference at all",
+              "It is only used in mathematical equations",
+              "It offers a more dramatic, attention-grabbing alternative",
+              "It can never be used for this purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a dash for emphasis?",
+            "options": [
+              "She — had only one goal to win —.",
+              "She had — only one goal to win.",
+              "She had only one goal — to win.",
+              "She had only one goal, to win, — the end."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can a dash indicate besides parenthetical information?",
+            "options": [
+              "The end of an entire essay",
+              "An abrupt shift in thought or tone",
+              "Only a grammatical error",
+              "A citation format"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose a dash instead of a comma in certain sentences?",
+            "options": [
+              "Dashes and commas always function identically with no stylistic difference",
+              "To remove all meaning from the sentence",
+              "To create a stronger, more dramatic pause or emphasis",
+              "Dashes are grammatically forbidden in formal writing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Number Theory: The Chinese Remainder Theorem",
+        "summary": "Grade 11 Functions strand: the Chinese Remainder Theorem provides a method for solving systems of simultaneous modular congruences, finding a single number that satisfies multiple remainder conditions at once.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the Chinese Remainder Theorem help solve?",
+            "options": [
+              "A system of quadratic equations only",
+              "The area of a triangle",
+              "Systems of simultaneous modular congruences",
+              "A single linear equation with no remainders"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the theorem find when given multiple remainder conditions?",
+            "options": [
+              "Only the largest of the given remainders",
+              "An answer that changes randomly each time",
+              "A number that satisfies none of the conditions",
+              "A single number that satisfies all the conditions simultaneously"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Chinese Remainder Theorem is part of which broader field of mathematics?",
+            "options": [
+              "Trigonometry",
+              "Geometry",
+              "Number theory",
+              "Statistics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might the Chinese Remainder Theorem be applied in modern technology?",
+            "options": [
+              "In areas of cryptography and computer science",
+              "It has no practical applications today",
+              "Only in measuring physical distances",
+              "Only in ancient historical calculations with no modern use"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Chinese Remainder Theorem builds on which earlier concept?",
+            "options": [
+              "Simple linear graphing",
+              "The Pythagorean Theorem",
+              "Modular arithmetic",
+              "Basic addition of fractions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: The Placenta and Mammalian Reproductive Strategies",
+        "summary": "Grade 11 Biology strand: the placenta is a specialized organ that develops during pregnancy in most mammals, allowing nutrient and gas exchange between mother and developing offspring while providing a key evolutionary reproductive strategy.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is the placenta?",
+            "options": [
+              "A part of the digestive system unrelated to reproduction",
+              "A structure used only for producing sound",
+              "A specialized organ that allows nutrient and gas exchange between mother and offspring",
+              "A type of bone found only in adult mammals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When does the placenta typically develop?",
+            "options": [
+              "During pregnancy in most mammals",
+              "Only after birth has occurred",
+              "It never develops in any species",
+              "Only in reptiles, never in mammals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is exchanged between mother and offspring through the placenta?",
+            "options": [
+              "Only light signals",
+              "Nutrients and gases like oxygen and carbon dioxide",
+              "Only sound vibrations",
+              "Nothing is exchanged at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Placental mammals are one of several reproductive strategies among mammals; which group instead carries offspring in a pouch after a short gestation?",
+            "options": [
+              "Marsupials",
+              "Fish",
+              "Reptiles",
+              "Amphibians"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the placenta considered an important evolutionary adaptation?",
+            "options": [
+              "It prevents any nutrient exchange between mother and offspring",
+              "It has no evolutionary significance at all",
+              "It only exists in a single mammal species",
+              "It allows extended, protected development of offspring before birth"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Chemiluminescence — The Chemistry of Glow Sticks",
+        "summary": "Grade 11 Chemistry strand: chemiluminescence is the emission of light resulting from a chemical reaction rather than heat, as seen in glow sticks, where mixing chemicals triggers an energy-releasing reaction that produces visible light.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is chemiluminescence?",
+            "options": [
+              "The emission of light resulting from a chemical reaction",
+              "The absorption of light with no emission at all",
+              "A physical change with no chemical reaction involved",
+              "A process that only occurs in living organisms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a glow stick typically produce light?",
+            "options": [
+              "Mixing chemicals inside triggers a light-releasing chemical reaction",
+              "By heating the stick with an external flame",
+              "By absorbing sunlight during the day",
+              "By using a small battery and light bulb"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does chemiluminescence differ from incandescence, which produces light from heat?",
+            "options": [
+              "Chemiluminescence produces light through a chemical reaction, not heat",
+              "They are identical processes with no difference",
+              "Incandescence never involves any light production",
+              "Chemiluminescence always requires extremely high temperatures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens when the internal capsule of a glow stick is broken?",
+            "options": [
+              "The stick becomes permanently unusable with no light produced",
+              "Two chemicals mix and react, releasing energy as light",
+              "The chemicals instantly evaporate with no reaction",
+              "Nothing happens because no reaction occurs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Chemiluminescence is closely related to which similar biological phenomenon?",
+            "options": [
+              "Osmosis",
+              "Photosynthesis",
+              "Cellular respiration",
+              "Bioluminescence, seen in organisms like fireflies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "label": "Day 115 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Ekphrastic Poetry — Writing About Art",
+        "summary": "Grade 11 English strand: ekphrastic poetry vividly describes or responds to a work of visual art, using language to interpret, animate, or reflect on the meaning and emotion captured within the artwork.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is ekphrastic poetry?",
+            "options": [
+              "Poetry written only about nature",
+              "Poetry with no descriptive language at all",
+              "Poetry that vividly describes or responds to a work of visual art",
+              "A type of poem with a strict rhyme scheme only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might an ekphrastic poem attempt to do with a painting or sculpture?",
+            "options": [
+              "Interpret, animate, or reflect on its meaning and emotion",
+              "Ignore the artwork completely",
+              "Replace the artwork entirely with unrelated content",
+              "Simply state the artworks title with no further detail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might poets be drawn to writing ekphrastic poetry?",
+            "options": [
+              "It always criticizes the original artwork",
+              "To explore how language and visual art can interact and inform each other",
+              "It removes the need for any artistic interpretation",
+              "Ekphrastic poetry has no connection to visual art"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of an ekphrastic poem topic?",
+            "options": [
+              "A grocery list written in verse",
+              "A poem about mathematical equations only",
+              "A poem with no subject matter at all",
+              "A poem written in response to a famous painting"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Ekphrastic poetry connects which two art forms?",
+            "options": [
+              "Only architecture and film",
+              "Only sculpture and mathematics",
+              "Only music and dance",
+              "Visual art and written poetry"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: An Introduction to Graph Colouring",
+        "summary": "Grade 11 Functions strand: graph colouring assigns colours to the nodes of a graph so that no two connected nodes share the same colour, with the minimum number of colours needed called the chromatic number.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is the goal of graph colouring?",
+            "options": [
+              "Counting the total number of edges only",
+              "Assigning the exact same colour to every node",
+              "Removing all colours from a graph",
+              "Assigning colours to nodes so no two connected nodes share the same colour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the chromatic number of a graph?",
+            "options": [
+              "The minimum number of colours needed to properly colour it",
+              "A number that is always equal to zero",
+              "The total number of edges in the graph",
+              "The total number of nodes in the graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What real-world problem can graph colouring help solve?",
+            "options": [
+              "The colour of the sky",
+              "The taste of a particular food",
+              "Scheduling conflicts, such as assigning exam time slots",
+              "The freezing point of water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If two nodes in a graph are connected by an edge, what must be true about their colours?",
+            "options": [
+              "Only one of the two nodes can have any colour",
+              "Colour has no meaning in graph theory",
+              "They must always be the same colour",
+              "They must be different colours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Graph colouring is a key topic within which broader field of mathematics?",
+            "options": [
+              "Discrete mathematics and graph theory",
+              "Basic arithmetic",
+              "Trigonometry",
+              "Financial mathematics"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Telomeres and Cellular Aging",
+        "summary": "Grade 11 Biology strand: telomeres are protective caps at the ends of chromosomes that shorten with each cell division, a process linked to cellular aging and playing a role in limiting how many times a cell can divide.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What are telomeres?",
+            "options": [
+              "A type of sugar molecule used in digestion",
+              "A type of protein found only in muscle tissue",
+              "A structure located outside the cell entirely",
+              "Protective caps at the ends of chromosomes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to telomeres with each cell division?",
+            "options": [
+              "They grow longer indefinitely",
+              "They gradually shorten",
+              "They disappear completely after a single division",
+              "They remain exactly the same length forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What biological process is telomere shortening linked to?",
+            "options": [
+              "Cellular growth with no limit",
+              "Cellular aging",
+              "Immediate cell death with no aging process",
+              "Digestion of nutrients"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role do telomeres play in how many times a cell can divide?",
+            "options": [
+              "They help limit the total number of divisions a cell can undergo",
+              "They immediately stop all cell division from the start",
+              "They allow unlimited cell division with no restriction",
+              "They have no connection to cell division at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are telomeres of interest in aging and cancer research?",
+            "options": [
+              "They are only found in plant cells",
+              "Their length and behaviour are linked to cellular lifespan and abnormal cell growth",
+              "They play no role in any disease research",
+              "Telomeres have no connection to human health"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Fermentation and the Chemistry of Winemaking",
+        "summary": "Grade 11 Chemistry strand: fermentation in winemaking involves yeast converting sugars in grape juice into ethanol and carbon dioxide through anaerobic respiration, a chemical process central to producing wine.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does fermentation convert sugars into during winemaking?",
+            "options": [
+              "Ethanol and carbon dioxide",
+              "Only oxygen gas",
+              "Only table salt",
+              "Only pure water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What organism carries out the fermentation process in winemaking?",
+            "options": [
+              "A type of algae",
+              "Bacteria found only in soil",
+              "Yeast",
+              "A synthetic chemical catalyst"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is fermentation an aerobic or anaerobic process?",
+            "options": [
+              "Aerobic (requiring oxygen)",
+              "It occurs only in extremely high temperatures",
+              "Anaerobic (occurring without oxygen)",
+              "It requires neither oxygen nor any chemical reaction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What gas is released as a byproduct during fermentation?",
+            "options": [
+              "Carbon dioxide",
+              "Hydrogen gas",
+              "Pure oxygen",
+              "Nitrogen gas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding the chemistry of fermentation useful beyond winemaking?",
+            "options": [
+              "Fermentation only occurs in laboratory settings",
+              "Similar processes are used in producing beer, bread, and other fermented foods",
+              "Fermentation has no other applications beyond wine",
+              "Fermentation is a purely modern invention"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "label": "Day 116 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Native Advertising and Sponsored Content",
+        "summary": "Grade 11 English strand: native advertising and sponsored content are designed to blend in with regular articles or posts, so critical readers must learn to identify when content is actually paid promotion rather than independent journalism.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is native advertising?",
+            "options": [
+              "Paid content designed to blend in with regular articles or posts",
+              "A form of punctuation",
+              "A type of grammar rule",
+              "Content that is always clearly labeled as an advertisement in bold letters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can native advertising be difficult to identify?",
+            "options": [
+              "It never appears near real articles",
+              "It is designed to look like regular editorial content",
+              "It always appears in a completely different format from articles",
+              "It is required by law to be clearly marked in giant red text"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What skill helps readers identify sponsored content?",
+            "options": [
+              "Believing all content is equally trustworthy",
+              "Ignoring all content on a webpage",
+              "Reading only headlines and nothing else",
+              "Media literacy and critical reading"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do companies use native advertising?",
+            "options": [
+              "To avoid attracting any customers",
+              "To promote products in a way that feels less like a traditional ad",
+              "To ensure their content is entirely and obviously an advertisement",
+              "Because they are legally required to disguise their promotions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should readers look for to identify sponsored content?",
+            "options": [
+              "Only the colour of the website",
+              "Small labels like Sponsored or Paid Content near the article",
+              "Only the length of the article",
+              "Nothing, since sponsored content cannot be identified"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Geometry: Vector Equations of Planes in Three Dimensions",
+        "summary": "Grade 11 Functions strand: a plane in three dimensions can be described using a vector equation involving a point on the plane and two direction vectors that lie within it, extending the earlier study of vector equations of lines.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is needed to write the vector equation of a plane?",
+            "options": [
+              "A point on the plane and two direction vectors lying within it",
+              "Only a single point with no direction vectors",
+              "A single number with no vectors at all",
+              "Only the origin, with nothing else needed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the vector equation of a plane extend the vector equation of a line?",
+            "options": [
+              "It removes the need for any direction vectors",
+              "It only works in two dimensions, not three",
+              "It is completely unrelated to vector equations of lines",
+              "It uses two direction vectors instead of just one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What geometric object does a vector equation of a plane describe?",
+            "options": [
+              "A single point in space",
+              "A one-dimensional line only",
+              "A flat, two-dimensional surface extending infinitely in three-dimensional space",
+              "A three-dimensional solid shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are two direction vectors needed to define a plane, rather than just one?",
+            "options": [
+              "Planes do not require any vectors at all",
+              "A single direction vector could only define a line, not a full flat surface",
+              "One vector is always sufficient to define an entire plane",
+              "Direction vectors are not used when describing planes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Vector equations of planes are useful in fields such as ___.",
+            "options": [
+              "Only simple counting problems",
+              "Only basic arithmetic",
+              "3D modelling, physics, and engineering",
+              "Only measuring temperature"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Apoptosis — Programmed Cell Death",
+        "summary": "Grade 11 Biology strand: apoptosis is a regulated, programmed process by which cells self-destruct in a controlled manner, essential for normal development, tissue maintenance, and preventing the growth of damaged or cancerous cells.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is apoptosis?",
+            "options": [
+              "An uncontrolled process where cells burst open randomly",
+              "A type of cell division unrelated to cell death",
+              "A process where cells grow uncontrollably forever",
+              "A regulated, programmed process by which cells self-destruct"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is apoptosis important for normal development?",
+            "options": [
+              "It has no role in development at all",
+              "It only occurs after an organism has died",
+              "It prevents any cells from ever being removed",
+              "It helps remove unnecessary or damaged cells in a controlled way"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does apoptosis differ from necrosis, an uncontrolled form of cell death?",
+            "options": [
+              "Apoptosis and necrosis are identical processes",
+              "Apoptosis always results from external injury only",
+              "Necrosis is always a planned, regulated process",
+              "Apoptosis is a controlled, regulated process, while necrosis is often due to injury or damage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can happen if apoptosis fails to occur properly in damaged cells?",
+            "options": [
+              "The organism immediately dies in every case",
+              "Nothing happens, since apoptosis has no biological importance",
+              "The damaged cells are always instantly repaired with no consequence",
+              "Damaged or abnormal cells may survive and potentially become cancerous"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Apoptosis plays an important role in shaping structures during ___.",
+            "options": [
+              "Embryonic development, such as forming separate fingers and toes",
+              "Only plant growth, never in animals",
+              "Only the aging process, with no role in development",
+              "Only wound healing, with no other function"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Electrolytes and the Chemistry of Sports Drinks",
+        "summary": "Grade 11 Chemistry strand: electrolytes are ions like sodium, potassium, and chloride that conduct electrical signals in the body, and sports drinks are formulated to replace electrolytes and fluids lost through sweating during exercise.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is an electrolyte?",
+            "options": [
+              "An ion that helps conduct electrical signals in the body",
+              "A molecule found only in plants",
+              "A type of solid mineral with no electrical function",
+              "A gas released during respiration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a common electrolyte found in sports drinks?",
+            "options": [
+              "Only sugar with no ions present",
+              "Only pure water with no ions",
+              "Only carbon dioxide",
+              "Sodium"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do athletes lose electrolytes during intense exercise?",
+            "options": [
+              "Exercise increases electrolyte levels with no loss occurring",
+              "Only water is lost during exercise, never electrolytes",
+              "Electrolytes are lost through sweating",
+              "Electrolytes are never lost through any bodily process"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the purpose of a sports drink from a chemistry standpoint?",
+            "options": [
+              "To help replace fluids and electrolytes lost through sweating",
+              "To remove all electrolytes from the body",
+              "To eliminate the need for water entirely",
+              "To prevent the body from ever sweating"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Electrolytes dissolved in water are important because they allow the solution to ___.",
+            "options": [
+              "Conduct electricity",
+              "Lose all its chemical properties",
+              "Become a solid at room temperature",
+              "Freeze at a much higher temperature always"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "label": "Day 117 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Extended Metaphor and Conceit",
+        "summary": "Grade 11 English strand: an extended metaphor develops a single comparison across an entire passage, while a conceit is an especially elaborate or surprising extended metaphor, often connecting two very different ideas in an intellectually striking way.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is an extended metaphor?",
+            "options": [
+              "A comparison developed across an entire passage or text",
+              "A literal statement with no comparison",
+              "A type of punctuation",
+              "A comparison used only once in a single sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What distinguishes a conceit from a typical extended metaphor?",
+            "options": [
+              "A conceit is always exactly one word long",
+              "A conceit never involves any comparison at all",
+              "A conceit is identical to a simple simile",
+              "A conceit is especially elaborate or surprising, connecting very different ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best describes a metaphysical conceit?",
+            "options": [
+              "An intellectually striking comparison between seemingly unrelated concepts",
+              "A citation format used in essays",
+              "A short list with no descriptive language",
+              "A completely literal, non-figurative statement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet use a conceit in their writing?",
+            "options": [
+              "To confuse the reader with no literary purpose",
+              "To surprise the reader and deepen the meaning of a comparison",
+              "To avoid using any figurative language whatsoever",
+              "To remove all imagery from the poem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An extended metaphor and a conceit both rely on ___.",
+            "options": [
+              "Strict adherence to a rhyme scheme",
+              "Using no comparison of any kind",
+              "Avoiding all figurative language",
+              "Sustaining a comparison beyond a single, brief mention"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Complex Numbers: De Moivres Theorem",
+        "summary": "Grade 11 Functions strand: De Moivres Theorem provides a method for raising a complex number in polar form to a power, using the formula (r(cos θ + i sin θ))^n = r^n(cos nθ + i sin nθ).",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does De Moivres Theorem help calculate?",
+            "options": [
+              "The slope of a line",
+              "The volume of a sphere",
+              "The area of a triangle",
+              "A complex number in polar form raised to a power"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "De Moivres Theorem builds on which earlier concept?",
+            "options": [
+              "Basic addition of whole numbers",
+              "The Pythagorean Theorem",
+              "Complex numbers in polar form",
+              "Simple linear equations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In De Moivres formula, what happens to the angle θ when raising to the power n?",
+            "options": [
+              "It is multiplied by n",
+              "It becomes zero",
+              "It is divided by n",
+              "It stays exactly the same"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is De Moivres Theorem useful for working with complex numbers?",
+            "options": [
+              "It eliminates the need for complex numbers entirely",
+              "It only works for real numbers, never complex ones",
+              "It simplifies the process of raising complex numbers to large powers",
+              "It has no mathematical application"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "De Moivres Theorem connects which two areas of mathematics?",
+            "options": [
+              "Trigonometry and complex numbers",
+              "Only basic arithmetic and geometry",
+              "Only financial literacy and algebra",
+              "Only statistics and probability"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: The Gut-Brain Axis and the Enteric Nervous System",
+        "summary": "Grade 11 Biology strand: the gut-brain axis is the bidirectional communication network linking the digestive system and the brain, involving the enteric nervous system, hormones, and gut microbiota that can influence mood and behaviour.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is the gut-brain axis?",
+            "options": [
+              "A type of muscle found in the digestive tract with no nerve connection",
+              "A bidirectional communication network linking the digestive system and the brain",
+              "A one-way connection with no communication between organs",
+              "A structure found only in the brain, unrelated to digestion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the enteric nervous system?",
+            "options": [
+              "A type of hormone released only by the kidneys",
+              "A structure found exclusively in the lungs",
+              "A network of neurons embedded in the lining of the digestive tract",
+              "A part of the brain unrelated to digestion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What role can gut microbiota play in the gut-brain axis?",
+            "options": [
+              "They can influence mood and behaviour through chemical signalling",
+              "They only affect digestion, with no other bodily influence",
+              "They have no connection to the brain whatsoever",
+              "They exist without any interaction with the nervous system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the gut sometimes referred to as a second brain?",
+            "options": [
+              "The gut has no nervous tissue at all",
+              "It contains a large, complex network of neurons capable of independent function",
+              "This description has no scientific basis whatsoever",
+              "The gut is scientifically identical to the brain in every way"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Research on the gut-brain axis has explored potential links to which of these?",
+            "options": [
+              "Only eye colour, with no other connection",
+              "Only bone density, with no other connection",
+              "Mood disorders and mental health",
+              "Only hair growth, with no other connection"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Perfumes and Fragrances",
+        "summary": "Grade 11 Chemistry strand: perfumes are complex mixtures of volatile organic compounds, including esters and essential oils, carefully blended and diluted in a solvent to create layered scents that evaporate at different rates.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What are perfumes chemically composed of?",
+            "options": [
+              "A single pure element with no other compounds",
+              "Complex mixtures of volatile organic compounds",
+              "Only water with no other chemicals",
+              "Only inorganic salts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which class of organic compounds is commonly used to create pleasant scents in perfumes?",
+            "options": [
+              "Esters",
+              "Only noble gases",
+              "Only strong bases",
+              "Only strong acids"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do different scent notes in a perfume evaporate at different rates?",
+            "options": [
+              "All compounds in a perfume evaporate at the exact same rate",
+              "Different compounds have different volatilities",
+              "Perfumes contain no volatile compounds at all",
+              "Evaporation rate has no connection to scent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is typically used to dilute the concentrated fragrance compounds in perfume?",
+            "options": [
+              "Liquid nitrogen",
+              "A solvent, such as alcohol",
+              "Concentrated acid with no dilution",
+              "Pure solid metal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The layered structure of a perfumes scent, changing over time as it is worn, is due to ___.",
+            "options": [
+              "All ingredients evaporating instantly and simultaneously",
+              "The perfume having no chemical structure at all",
+              "Compounds with different evaporation rates being released at different times",
+              "A single unchanging compound with no variation"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "label": "Day 118 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: The TED-Style Talk",
+        "summary": "Grade 11 English strand: a TED-style talk delivers a single, focused idea to a general audience using clear structure, storytelling, and engaging delivery, typically within a concise, well-rehearsed time limit.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is a defining feature of a TED-style talk?",
+            "options": [
+              "Reading directly from a dense, technical script with no engagement",
+              "Covering as many unrelated topics as possible",
+              "Delivering a single, focused idea clearly to a general audience",
+              "Avoiding any structure or preparation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do TED-style talks often use storytelling?",
+            "options": [
+              "To make complex ideas more relatable and engaging for the audience",
+              "To avoid connecting with the audience emotionally",
+              "To confuse the audience about the main idea",
+              "Storytelling is never used in this format"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is typically true about the length of a TED-style talk?",
+            "options": [
+              "Length is never a consideration in this format",
+              "It is always exactly one minute long",
+              "It is concise and well-rehearsed, often under a set time limit",
+              "It has no time limit and can last for many hours"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is clear structure important in a TED-style talk?",
+            "options": [
+              "Clear structure only matters in written essays, not speeches",
+              "It helps the audience follow and remember the central idea",
+              "Structure is unnecessary since audiences never need guidance",
+              "A talk with structure is always less effective"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common goal of a TED-style talk?",
+            "options": [
+              "To inspire, inform, or persuade an audience about a single idea",
+              "To provide no clear takeaway for the audience",
+              "To avoid any audience engagement whatsoever",
+              "To read a list of unrelated facts with no theme"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Statistics: An Introduction to Bayes Theorem",
+        "summary": "Grade 11 Functions strand: Bayes Theorem updates the probability of an event based on new information, combining prior knowledge with new evidence to calculate a more accurate conditional probability.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does Bayes Theorem help calculate?",
+            "options": [
+              "An updated probability based on new evidence",
+              "The average of a data set",
+              "The volume of a 3D shape",
+              "A fixed probability that never changes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two things does Bayes Theorem combine?",
+            "options": [
+              "Only historical data with no update",
+              "Only random guesses",
+              "Only geometric shapes",
+              "Prior knowledge and new evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Bayes Theorem is closely related to which earlier probability concept?",
+            "options": [
+              "Surface area",
+              "Linear equations",
+              "Conditional probability",
+              "The Pythagorean theorem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Bayes Theorem useful in fields like medicine?",
+            "options": [
+              "It only applies to games of chance",
+              "It helps update the likelihood of a diagnosis as new test results come in",
+              "It eliminates the need for any testing",
+              "It has no real-world applications"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If new evidence strongly supports an event, Bayes Theorem would typically ___.",
+            "options": [
+              "Always decrease the probability to zero",
+              "Make the event impossible",
+              "Increase the probability estimate for that event",
+              "Have no effect on the probability at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Bioremediation — Using Organisms to Clean Pollution",
+        "summary": "Grade 11 Biology strand: bioremediation uses living organisms, such as bacteria and fungi, to break down or remove pollutants from contaminated soil, water, or air, offering an environmentally friendly cleanup strategy.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is bioremediation?",
+            "options": [
+              "A method of building new factories",
+              "A type of chemical warfare technology",
+              "Using living organisms to break down or remove pollutants",
+              "A process that always increases pollution levels"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organisms are commonly used in bioremediation?",
+            "options": [
+              "Only reptiles",
+              "Bacteria and fungi",
+              "Only large mammals",
+              "Only birds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can bioremediation help clean up?",
+            "options": [
+              "Only clean, unpolluted environments",
+              "Contaminated soil, water, or air",
+              "Only man-made structures with no pollutants",
+              "Only outer space debris"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is bioremediation often considered an environmentally friendly cleanup method?",
+            "options": [
+              "It uses natural biological processes rather than harsh chemical treatments",
+              "It destroys the environment further",
+              "It has no connection to environmental cleanup at all",
+              "It always requires more toxic chemicals than traditional methods"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which pollutant might certain bacteria be used to break down through bioremediation?",
+            "options": [
+              "Sunlight",
+              "Pure oxygen gas",
+              "Fresh drinking water",
+              "Oil from an oil spill"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Tears — Lachrymatory Agents",
+        "summary": "Grade 11 Chemistry strand: lachrymatory agents, such as the compound released when cutting an onion, are volatile chemicals that irritate the eyes and trigger tear production through a reaction with enzymes in plant cells.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is a lachrymatory agent?",
+            "options": [
+              "A compound that has no effect on the eyes",
+              "A volatile chemical that irritates the eyes and triggers tears",
+              "A solid mineral with no chemical reactivity",
+              "A gas used only in refrigeration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What triggers the release of a lachrymatory compound when cutting an onion?",
+            "options": [
+              "Damage to the onions cells releases enzymes that react to form the irritant",
+              "The onion releases the compound only when fully intact and uncut",
+              "The compound is released only after the onion is cooked",
+              "Heat alone causes the reaction with no cutting required"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do lachrymatory compounds cause eyes to water?",
+            "options": [
+              "They only affect the sense of taste, not the eyes",
+              "They have no chemical interaction with the eyes at all",
+              "They cause a permanent change in eye colour",
+              "They irritate sensitive tissue in the eyes, triggering a tear reflex"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might reduce the tear-inducing effect when cutting an onion?",
+            "options": [
+              "Adding more of the irritant compound directly",
+              "Chilling the onion beforehand to slow the chemical reaction",
+              "Avoiding cutting the onion cells at all is impossible when slicing",
+              "Cutting the onion at a much higher temperature to speed up the reaction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Studying lachrymatory agents connects chemistry to which everyday experience?",
+            "options": [
+              "Only industrial manufacturing, with no connection to daily life",
+              "Common kitchen chemistry, like preparing food",
+              "Only nuclear physics",
+              "Only astronomy"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "label": "Day 119 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Foil Characters",
+        "summary": "Grade 11 English strand: a foil character has traits that contrast sharply with a main character, and this contrast helps highlight and clarify the main characters own qualities, choices, and moral position.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is a foil character?",
+            "options": [
+              "A character whose traits contrast with a main character to highlight them",
+              "A character identical to the main character",
+              "A type of narrator",
+              "A character who never appears in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of a foil character?",
+            "options": [
+              "To replace the main character entirely",
+              "To highlight and clarify the main characters qualities through contrast",
+              "To confuse the reader about the plot",
+              "To remove all conflict from the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a protagonist is idealistic, a foil character might be ___.",
+            "options": [
+              "Nonexistent in the story",
+              "A narrator only",
+              "Pragmatic and cynical",
+              "Also idealistic in the exact same way"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Foil characters are most useful for revealing ___.",
+            "options": [
+              "Only the setting of a story",
+              "Nothing about the characters",
+              "Personality traits and moral positions through comparison",
+              "Only the time period of a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a foil relationship?",
+            "options": [
+              "A morally rigid character paired with a morally flexible character",
+              "A character and a map",
+              "A character and the weather",
+              "Two identical characters with no differences"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Financial Mathematics: Perpetuities and Present Value",
+        "summary": "Grade 11 Functions strand: a perpetuity is a financial instrument that pays a fixed amount of money at regular intervals forever, and its present value can be calculated by dividing the periodic payment by the interest rate.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is a perpetuity?",
+            "options": [
+              "A loan that must be paid off within one year",
+              "A financial instrument that pays a fixed amount forever at regular intervals",
+              "A one-time lump-sum payment with no future payments",
+              "An investment that guarantees no return at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the present value of a perpetuity typically calculated?",
+            "options": [
+              "By subtracting the interest rate from the payment amount",
+              "Present value cannot be calculated for a perpetuity",
+              "By dividing the periodic payment by the interest rate",
+              "By multiplying the payment by an infinite number of years"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a perpetuity that pays forever still have a finite present value?",
+            "options": [
+              "Future payments are discounted more heavily the further into the future they occur",
+              "Perpetuities always have an infinite present value with no exception",
+              "Present value calculations do not apply to perpetuities",
+              "All future payments are worth exactly the same amount as todays dollar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a perpetuity pays $100 per year and the interest rate is 5%, what is its present value?",
+            "options": [
+              "$100",
+              "$2,000",
+              "$500",
+              "$20"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Perpetuities are a useful concept for understanding ___.",
+            "options": [
+              "Only geometry problems",
+              "Only physical measurements with no financial connection",
+              "Long-term financial instruments and valuation",
+              "Only short-term loans with no long-term application"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Hydrothermal Vent Ecosystems and Chemosynthesis",
+        "summary": "Grade 11 Biology strand: hydrothermal vent ecosystems exist on the deep ocean floor, where specialized bacteria use chemosynthesis to convert chemicals like hydrogen sulfide into energy, supporting entire food webs without sunlight.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "Where are hydrothermal vent ecosystems typically found?",
+            "options": [
+              "In desert regions with no water",
+              "In shallow freshwater lakes",
+              "On mountain peaks",
+              "On the deep ocean floor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What process do bacteria at hydrothermal vents use to produce energy?",
+            "options": [
+              "Cellular respiration using oxygen from the surface only",
+              "Photosynthesis, using direct sunlight",
+              "A process requiring constant sunlight exposure",
+              "Chemosynthesis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What chemical is commonly used by chemosynthetic bacteria at hydrothermal vents?",
+            "options": [
+              "Table salt",
+              "Hydrogen sulfide",
+              "Pure oxygen gas only",
+              "Liquid nitrogen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can hydrothermal vent ecosystems support life without sunlight?",
+            "options": [
+              "Life cannot exist in these ecosystems at all",
+              "Sunlight has no connection to any ecosystems energy source",
+              "Chemosynthetic bacteria form the base of the food web, replacing the role of sunlight-driven photosynthesis",
+              "These ecosystems actually require significant sunlight to function"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are hydrothermal vent ecosystems significant to scientists studying the origins of life?",
+            "options": [
+              "They demonstrate that life can thrive in extreme conditions without sunlight",
+              "They were discovered before any other ecosystem on Earth",
+              "They prove that sunlight is required for all forms of life everywhere",
+              "They have no scientific significance at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Photography — Silver Halides",
+        "summary": "Grade 11 Chemistry strand: traditional photographic film relies on the light sensitivity of silver halide compounds, which undergo a chemical reaction when exposed to light, forming the basis of the image before further chemical development.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What compounds are traditional photographic film coated with to capture images?",
+            "options": [
+              "Pure carbon",
+              "Liquid mercury",
+              "Table salt only",
+              "Silver halides"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to silver halide compounds when exposed to light?",
+            "options": [
+              "They instantly evaporate with no chemical change",
+              "They turn into a gas with no further reaction",
+              "They remain completely unaffected by light exposure",
+              "They undergo a chemical reaction that begins forming the image"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are silver halides useful for photography?",
+            "options": [
+              "They are highly sensitive to light, allowing them to capture an image",
+              "They react only to sound waves, not light",
+              "They cannot be chemically developed after exposure",
+              "They are completely insensitive to light of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What additional step is needed after light exposure to fully reveal a photographic image?",
+            "options": [
+              "Freezing the film at extremely low temperatures",
+              "No further steps are needed after light exposure",
+              "Chemical development in a darkroom process",
+              "Exposing the film to additional direct sunlight only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The chemistry of photography connects to which broader concept in chemistry?",
+            "options": [
+              "Only organic chemistry, with no connection to light",
+              "Only nuclear chemistry, with no connection to light",
+              "Only thermochemistry, with no connection to light",
+              "Photochemistry, the study of light-induced chemical reactions"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "label": "Day 120 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Poetry, Rhetoric, and Literary Devices",
+        "summary": "Grade 11 English strand review: students revisit juxtaposition, the prose poem, letters of recommendation, the dash, ekphrastic poetry, native advertising, extended metaphor and conceit, TED-style talks, and foil characters.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "Combining two similar ideas into one",
+              "A grammar rule for verb tense",
+              "A type of punctuation mark",
+              "Placing two contrasting elements side by side"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a prose poem structured?",
+            "options": [
+              "In continuous prose paragraphs rather than verse lines",
+              "Only as a list of single words",
+              "Only as a series of questions",
+              "Only in strict rhyming couplets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is ekphrastic poetry?",
+            "options": [
+              "Poetry that vividly describes or responds to a work of visual art",
+              "Poetry written only about nature",
+              "Poetry with no descriptive language at all",
+              "A type of poem with a strict rhyme scheme only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What distinguishes a conceit from a typical extended metaphor?",
+            "options": [
+              "A conceit is always exactly one word long",
+              "A conceit is especially elaborate or surprising, connecting very different ideas",
+              "A conceit never involves any comparison at all",
+              "A conceit is identical to a simple simile"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a foil character?",
+            "options": [
+              "A character whose traits contrast with a main character to highlight them",
+              "A character who never appears in the story",
+              "A character identical to the main character",
+              "A type of narrator"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Functions Review: Calculus Foundations, Discrete Math, and Finance",
+        "summary": "Grade 11 Functions strand review: students revisit limits, continuity, recurrence relations, the Chinese Remainder Theorem, graph colouring, vector equations of planes, De Moivres Theorem, Bayes Theorem, and perpetuities.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does a limit describe in mathematics?",
+            "options": [
+              "A fixed number that never changes",
+              "The total area under a curve only",
+              "The value a function approaches as its input gets closer to a certain number",
+              "The exact value of a function at every point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for a function to be continuous at a point?",
+            "options": [
+              "The function is always undefined at that point",
+              "The limit exists, the function is defined, and the limit equals the function value",
+              "Continuity has no formal definition",
+              "The graph must have a break at that point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the chromatic number of a graph?",
+            "options": [
+              "The total number of nodes in the graph",
+              "A number that is always equal to zero",
+              "The total number of edges in the graph",
+              "The minimum number of colours needed to properly colour it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does De Moivres Theorem help calculate?",
+            "options": [
+              "The area of a triangle",
+              "The volume of a sphere",
+              "The slope of a line",
+              "A complex number in polar form raised to a power"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a perpetuity?",
+            "options": [
+              "An investment that guarantees no return at all",
+              "A loan that must be paid off within one year",
+              "A one-time lump-sum payment with no future payments",
+              "A financial instrument that pays a fixed amount forever at regular intervals"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology Review: Adaptations, Cell Biology, and Ecosystems",
+        "summary": "Grade 11 Biology strand review: students revisit desert ecosystems, bioluminescence, camouflage and mimicry, the placenta, telomeres, apoptosis, the gut-brain axis, bioremediation, and hydrothermal vent ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What defines a desert ecosystem?",
+            "options": [
+              "No sunlight at all",
+              "Constant freezing temperatures only",
+              "Very little precipitation",
+              "Extremely high precipitation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "The production of light by living organisms through a chemical reaction",
+              "A type of camouflage using colour change alone",
+              "The absorption of light by an organism with no light produced",
+              "A process only found in plants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is apoptosis?",
+            "options": [
+              "A process where cells grow uncontrollably forever",
+              "An uncontrolled process where cells burst open randomly",
+              "A type of cell division unrelated to cell death",
+              "A regulated, programmed process by which cells self-destruct"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is bioremediation?",
+            "options": [
+              "Using living organisms to break down or remove pollutants",
+              "A method of building new factories",
+              "A process that always increases pollution levels",
+              "A type of chemical warfare technology"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What process do bacteria at hydrothermal vents use to produce energy?",
+            "options": [
+              "A process requiring constant sunlight exposure",
+              "Photosynthesis, using direct sunlight",
+              "Cellular respiration using oxygen from the surface only",
+              "Chemosynthesis"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry Review: Bonding, Applied Chemistry, and Everyday Reactions",
+        "summary": "Grade 11 Chemistry strand review: students revisit molecular orbital theory, orbital hybridization, coordination compounds, chemiluminescence, fermentation, sports drink electrolytes, perfume chemistry, lachrymatory agents, and photographic chemistry.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does molecular orbital theory describe?",
+            "options": [
+              "How atomic orbitals combine to form molecular orbitals",
+              "The colour of a chemical compound",
+              "The temperature at which a substance boils",
+              "Only the shape of a single atom"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does orbital hybridization describe?",
+            "options": [
+              "The mass of a single atom",
+              "How atomic orbitals mix to form new hybrid orbitals",
+              "The colour of a chemical compound",
+              "The temperature at which a substance freezes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a ligand?",
+            "options": [
+              "A molecule or ion that binds to a central metal ion",
+              "A unit of temperature measurement",
+              "A type of radioactive particle",
+              "A type of acid with no metal involvement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is chemiluminescence?",
+            "options": [
+              "A process that only occurs in living organisms",
+              "The emission of light resulting from a chemical reaction",
+              "A physical change with no chemical reaction involved",
+              "The absorption of light with no emission at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a lachrymatory agent?",
+            "options": [
+              "A compound that has no effect on the eyes",
+              "A solid mineral with no chemical reactivity",
+              "A gas used only in refrigeration",
+              "A volatile chemical that irritates the eyes and triggers tears"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
