@@ -37486,5 +37486,3356 @@
         ]
       }
     ]
+  },
+  {
+    "day": 121,
+    "label": "Day 121 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Metaphors: Describing One Thing as Another",
+        "summary": "Grade 1 Language strand: a metaphor describes one thing by calling it something else, without using like or as, such as saying the classroom was a zoo.",
+        "resourceLabel": "YouTube: Metaphors: Describing One Thing as Another",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Metaphors%3A%20Describing%20One%20Thing%20as%20Another%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a metaphor?",
+            "options": [
+              "A comparison that calls one thing another without like or as",
+              "A comparison using like or as",
+              "A type of question",
+              "A punctuation mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is a metaphor?",
+            "options": [
+              "Is the moon bright?",
+              "The moon is a silver coin in the sky.",
+              "The moon is like a ball.",
+              "The moon is round."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A metaphor is different from a simile because it does NOT use ___.",
+            "options": [
+              "Verbs",
+              "Like or as",
+              "Nouns",
+              "Capital letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could be a metaphor for a very fast runner?",
+            "options": [
+              "He likes running.",
+              "He is a cheetah.",
+              "He runs fast.",
+              "He is tired."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Writers use metaphors to make their writing ___.",
+            "options": [
+              "More boring",
+              "Harder to read",
+              "Shorter",
+              "More vivid and imaginative"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give an example of a metaphor.",
+            "answers": [
+              "the classroom was a zoo",
+              "her smile was sunshine"
+            ]
+          },
+          {
+            "prompt": "Does a metaphor use the words like or as?",
+            "answers": [
+              "no",
+              "no it does not"
+            ]
+          },
+          {
+            "prompt": "What does a metaphor do?",
+            "answers": [
+              "describes one thing as another",
+              "compares without like or as"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Arrays: Rows and Columns of Objects",
+        "summary": "Grade 1 Math strand: an array arranges objects in equal rows and columns, helping students see multiplication and addition in an organized way.",
+        "resourceLabel": "YouTube: Arrays: Rows and Columns of Objects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Arrays%3A%20Rows%20and%20Columns%20of%20Objects%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is an array?",
+            "options": [
+              "A random pile of objects",
+              "A single line of objects",
+              "A type of graph only",
+              "Objects arranged in equal rows and columns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An array with 3 rows of 4 has how many objects in total?",
+            "options": [
+              "10",
+              "12",
+              "7",
+              "14"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these describes an array?",
+            "options": [
+              "4 rows of 2 apples",
+              "A messy pile of apples",
+              "A drawing of an apple",
+              "One apple alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Arrays help us understand ___.",
+            "options": [
+              "Equal groups and repeated addition",
+              "Only shapes",
+              "Colours",
+              "Only subtraction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An array with 2 rows of 5 equals ___.",
+            "options": [
+              "9",
+              "8",
+              "10",
+              "7"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is an array?",
+            "answers": [
+              "objects arranged in rows and columns",
+              "equal rows and columns of objects"
+            ]
+          },
+          {
+            "prompt": "If an array has 3 rows of 2, how many objects in all?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "Describe an array with 2 rows of 4.",
+            "answers": [
+              "2 rows of 4 objects",
+              "8 objects in 2 rows"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Ears: How We Hear Sounds",
+        "summary": "Grade 1 Science strand: our ears are the body part that lets us hear sounds, catching vibrations in the air and sending signals to our brain.",
+        "resourceLabel": "YouTube: Our Ears: How We Hear Sounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Ears%3A%20How%20We%20Hear%20Sounds%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What body part lets us hear sounds?",
+            "options": [
+              "Nose",
+              "Skin",
+              "Ears",
+              "Eyes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sounds travel through the air as ___.",
+            "options": [
+              "Water",
+              "Light",
+              "Wind only",
+              "Vibrations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After catching a sound, our ears send a signal to the ___.",
+            "options": [
+              "Lungs",
+              "Brain",
+              "Stomach",
+              "Skin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a loud sound?",
+            "options": [
+              "A falling leaf",
+              "A whisper",
+              "A ticking clock softly",
+              "A thunderclap"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are our ears important?",
+            "options": [
+              "They help us taste",
+              "They help us smell",
+              "They let us hear and understand sounds",
+              "They help us see"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part do we use to hear?",
+            "answers": [
+              "ears",
+              "our ears"
+            ]
+          },
+          {
+            "prompt": "What do sounds travel through the air as?",
+            "answers": [
+              "vibrations",
+              "sound vibrations"
+            ]
+          },
+          {
+            "prompt": "Where do our ears send signals about sound?",
+            "answers": [
+              "the brain",
+              "our brain"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Crossing Guard: Helping Us Cross the Street Safely",
+        "summary": "Grade 1 Social Studies strand: a crossing guard helps students cross busy streets safely near schools, using signs and signals to stop traffic.",
+        "resourceLabel": "YouTube: Our Crossing Guard: Helping Us Cross the Street Safely",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Crossing%20Guard%3A%20Helping%20Us%20Cross%20the%20Street%20Safely%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a crossing guard?",
+            "options": [
+              "Driving a bus",
+              "Teaching class",
+              "Selling snacks",
+              "Helping people cross the street safely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do crossing guards usually work?",
+            "options": [
+              "In hospitals",
+              "On farms",
+              "Inside classrooms",
+              "Near busy streets, often by schools"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tool might a crossing guard use to stop traffic?",
+            "options": [
+              "A paintbrush",
+              "A shovel",
+              "A stop sign",
+              "A camera only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a crossing guards job important?",
+            "options": [
+              "Only cars matter",
+              "It slows down students for no reason",
+              "It helps keep pedestrians safe from traffic",
+              "It has no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A crossing guard is an example of a ___.",
+            "options": [
+              "Kind of animal",
+              "Type of vehicle",
+              "Type of weather",
+              "Community helper"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a crossing guard help us do?",
+            "answers": [
+              "cross the street safely",
+              "cross safely"
+            ]
+          },
+          {
+            "prompt": "Where do crossing guards often work?",
+            "answers": [
+              "near schools",
+              "busy streets near schools"
+            ]
+          },
+          {
+            "prompt": "What might a crossing guard use to stop traffic?",
+            "answers": [
+              "a sign",
+              "a stop sign"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "label": "Day 122 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Possessive Pronouns: My, Your, His, and Her",
+        "summary": "Grade 1 Language strand: possessive pronouns like my, your, his, and her show who owns something without adding an apostrophe s.",
+        "resourceLabel": "YouTube: Possessive Pronouns: My, Your, His, and Her",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Possessive%20Pronouns%3A%20My%2C%20Your%2C%20His%2C%20and%20Her%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word is a possessive pronoun?",
+            "options": [
+              "Quickly",
+              "Happy",
+              "Her",
+              "Run"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence This is my hat, which word shows ownership?",
+            "options": [
+              "Hat",
+              "This",
+              "My",
+              "Is"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses a possessive pronoun correctly?",
+            "options": [
+              "Blue is coat your?",
+              "Is your coat blue?",
+              "Is you coat blue?",
+              "Is coat your blue?"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which possessive pronoun would replace Toms in Toms book?",
+            "options": [
+              "He",
+              "His",
+              "Him",
+              "He is"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Possessive pronouns tell us ___.",
+            "options": [
+              "How fast something moves",
+              "What colour something is",
+              "When something happened",
+              "Who owns something"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give an example of a possessive pronoun.",
+            "answers": [
+              "my",
+              "your",
+              "his",
+              "her"
+            ]
+          },
+          {
+            "prompt": "In the sentence That is her book, which word shows ownership?",
+            "answers": [
+              "her",
+              "her shows ownership"
+            ]
+          },
+          {
+            "prompt": "What does a possessive pronoun show?",
+            "answers": [
+              "who owns something",
+              "ownership"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Place Value: Writing Numbers in Expanded Form",
+        "summary": "Grade 1 Math strand: expanded form breaks a number into the value of each digit, such as writing 34 as 30 + 4.",
+        "resourceLabel": "YouTube: Place Value: Writing Numbers in Expanded Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Place%20Value%3A%20Writing%20Numbers%20in%20Expanded%20Form%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 47 written in expanded form?",
+            "options": [
+              "40+7",
+              "4+7",
+              "40+70",
+              "470"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 65 written in expanded form?",
+            "options": [
+              "6+5",
+              "60+5",
+              "65+0",
+              "650"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Expanded form shows the value of each ___.",
+            "options": [
+              "Shape",
+              "Word",
+              "Digit",
+              "Colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which expanded form matches 82?",
+            "options": [
+              "8+20",
+              "80+2",
+              "820",
+              "8+2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Writing a number in expanded form helps us understand ___.",
+            "options": [
+              "Time",
+              "Shapes",
+              "Colours",
+              "Place value"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Write 34 in expanded form.",
+            "answers": [
+              "30+4",
+              "30 plus 4"
+            ]
+          },
+          {
+            "prompt": "Write 52 in expanded form.",
+            "answers": [
+              "50+2",
+              "50 plus 2"
+            ]
+          },
+          {
+            "prompt": "What does expanded form show?",
+            "answers": [
+              "the value of each digit",
+              "tens and ones added together"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Simple Machines: Levers and Inclined Planes",
+        "summary": "Grade 1 Science strand: a lever helps lift heavy things by pushing down on one end, and an inclined plane, or ramp, makes it easier to move things up or down.",
+        "resourceLabel": "YouTube: Simple Machines: Levers and Inclined Planes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Levers%20and%20Inclined%20Planes%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What simple machine helps lift a heavy object by pushing down on one end?",
+            "options": [
+              "A screw",
+              "A wedge",
+              "A lever",
+              "A wheel"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is another name for a ramp?",
+            "options": [
+              "A wheel",
+              "A lever",
+              "A pulley",
+              "An inclined plane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these uses a lever?",
+            "options": [
+              "A rope",
+              "A seesaw",
+              "A ball",
+              "A doorknob"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do people use ramps instead of steps sometimes?",
+            "options": [
+              "They make moving things up or down easier",
+              "They stop movement",
+              "They are decorative only",
+              "They make things heavier"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A lever usually has a fixed point called a ___.",
+            "options": [
+              "Wedge",
+              "Axle",
+              "Fulcrum",
+              "Pulley"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What simple machine helps lift heavy things by pushing on one end?",
+            "answers": [
+              "a lever",
+              "lever"
+            ]
+          },
+          {
+            "prompt": "What do we call a ramp used to move things up or down easily?",
+            "answers": [
+              "an inclined plane",
+              "a ramp"
+            ]
+          },
+          {
+            "prompt": "Name something that uses a lever.",
+            "answers": [
+              "a seesaw",
+              "a wheelbarrow"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Veterinarian: Caring for Sick and Injured Animals",
+        "summary": "Grade 1 Social Studies strand: a veterinarian, or vet, is a community helper who examines, treats, and cares for sick or injured animals.",
+        "resourceLabel": "YouTube: Our Veterinarian: Caring for Sick and Injured Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Veterinarian%3A%20Caring%20for%20Sick%20and%20Injured%20Animals%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a doctor who cares for animals?",
+            "options": [
+              "A veterinarian",
+              "A pilot",
+              "A teacher",
+              "A librarian"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a veterinarian do for a sick pet?",
+            "options": [
+              "Paint it",
+              "Sell it",
+              "Examine and treat it",
+              "Ignore it"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might you take a sick pet for help?",
+            "options": [
+              "A bakery",
+              "A veterinary clinic",
+              "A library",
+              "An airport"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a veterinarians job important to a community?",
+            "options": [
+              "Animals do not need care",
+              "Only wild animals need help",
+              "It has no purpose",
+              "It helps keep animals healthy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A veterinarian is an example of a ___.",
+            "options": [
+              "Kind of food",
+              "Type of weather",
+              "Type of vehicle",
+              "Community helper"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a doctor for animals?",
+            "answers": [
+              "a veterinarian",
+              "a vet"
+            ]
+          },
+          {
+            "prompt": "What does a vet do?",
+            "answers": [
+              "cares for sick or injured animals",
+              "treats animals"
+            ]
+          },
+          {
+            "prompt": "Name one animal a vet might help.",
+            "answers": [
+              "a dog",
+              "a cat",
+              "a bird"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "label": "Day 123 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Choice: Choosing Strong, Precise Words",
+        "summary": "Grade 1 Language strand: strong writers choose precise words, such as sprinted instead of ran, to help readers picture exactly what is happening.",
+        "resourceLabel": "YouTube: Word Choice: Choosing Strong, Precise Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Choice%3A%20Choosing%20Strong%2C%20Precise%20Words%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word is a more precise choice than said?",
+            "options": [
+              "Word",
+              "Whispered",
+              "Speak",
+              "Talk"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do writers choose strong, precise words?",
+            "options": [
+              "To confuse readers",
+              "To make writing shorter only",
+              "Word choice does not matter",
+              "To help readers picture things clearly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses the most precise word?",
+            "options": [
+              "She walked to the store.",
+              "She went to the store.",
+              "She strolled to the store.",
+              "She did to the store."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is more precise than happy?",
+            "options": [
+              "Glad",
+              "Thrilled",
+              "Feeling",
+              "Nice"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Choosing strong verbs instead of weak ones makes writing ___.",
+            "options": [
+              "Less clear",
+              "More vivid",
+              "Harder to read",
+              "Shorter only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give a strong word that could replace ran.",
+            "answers": [
+              "sprinted",
+              "dashed"
+            ]
+          },
+          {
+            "prompt": "Why do writers choose precise words?",
+            "answers": [
+              "to help readers picture it clearly",
+              "stronger images"
+            ]
+          },
+          {
+            "prompt": "Which word is more precise, big or enormous?",
+            "answers": [
+              "enormous",
+              "enormous is more precise"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Rounding to the Nearest Ten",
+        "summary": "Grade 1 Math strand: rounding a number to the nearest ten means finding the closest multiple of ten, such as rounding 23 to 20.",
+        "resourceLabel": "YouTube: Rounding to the Nearest Ten",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Rounding%20to%20the%20Nearest%20Ten%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 23 rounded to the nearest ten?",
+            "options": [
+              "10",
+              "30",
+              "25",
+              "20"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 68 rounded to the nearest ten?",
+            "options": [
+              "60",
+              "70",
+              "65",
+              "80"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 42 rounded to the nearest ten?",
+            "options": [
+              "45",
+              "50",
+              "40",
+              "30"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Rounding a number means finding the closest ___.",
+            "options": [
+              "Colour",
+              "Shape",
+              "Multiple of ten",
+              "Letter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 35 rounded to the nearest ten?",
+            "options": [
+              "35",
+              "30",
+              "50",
+              "40"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Round 23 to the nearest ten.",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          },
+          {
+            "prompt": "Round 47 to the nearest ten.",
+            "answers": [
+              "50",
+              "fifty"
+            ]
+          },
+          {
+            "prompt": "Round 15 to the nearest ten.",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Precipitation: Rain, Snow, Sleet, and Hail",
+        "summary": "Grade 1 Science strand: precipitation is water that falls from clouds, and it can fall as rain, snow, sleet, or hail depending on the temperature.",
+        "resourceLabel": "YouTube: Precipitation: Rain, Snow, Sleet, and Hail",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Precipitation%3A%20Rain%2C%20Snow%2C%20Sleet%2C%20and%20Hail%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is precipitation?",
+            "options": [
+              "Water falling from clouds",
+              "Sunlight warming the earth",
+              "A type of rock",
+              "Wind blowing across the land"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a form of precipitation?",
+            "options": [
+              "Wind",
+              "Snow",
+              "Sunshine",
+              "Fog only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What mainly determines whether precipitation falls as rain or snow?",
+            "options": [
+              "The colour of the clouds",
+              "The temperature of the air",
+              "The time of day",
+              "The season name"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Hail is best described as ___.",
+            "options": [
+              "A type of wind",
+              "Warm rain",
+              "Balls of ice that fall from storm clouds",
+              "A rainbow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sleet is a mix of ___.",
+            "options": [
+              "Rain and ice",
+              "Sand and water",
+              "Dust and wind",
+              "Fire and smoke"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is precipitation?",
+            "answers": [
+              "water falling from clouds",
+              "rain, snow, sleet, or hail"
+            ]
+          },
+          {
+            "prompt": "Name one type of precipitation.",
+            "answers": [
+              "rain",
+              "snow",
+              "sleet",
+              "hail"
+            ]
+          },
+          {
+            "prompt": "What decides whether precipitation is rain or snow?",
+            "answers": [
+              "temperature",
+              "how cold or warm it is"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our School Custodian: Keeping Our School Clean",
+        "summary": "Grade 1 Social Studies strand: the school custodian is a helper who keeps the school clean, safe, and in good repair for students and staff every day.",
+        "resourceLabel": "YouTube: Our School Custodian: Keeping Our School Clean",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Custodian%3A%20Keeping%20Our%20School%20Clean%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a school custodian?",
+            "options": [
+              "Selling books",
+              "Teaching lessons",
+              "Driving students home",
+              "Keeping the school clean and in good repair"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for a school to have a custodian?",
+            "options": [
+              "Only classrooms matter",
+              "It is not important",
+              "Schools do not need cleaning",
+              "A clean, safe school helps everyone learn well"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a custodians job?",
+            "options": [
+              "Mopping the floors",
+              "Cooking lunch",
+              "Grading tests",
+              "Driving the school bus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A school custodian helps keep the building ___.",
+            "options": [
+              "Empty",
+              "Messy",
+              "Clean and safe",
+              "Locked forever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The school custodian is an example of a ___.",
+            "options": [
+              "Type of animal",
+              "Type of food",
+              "Community helper",
+              "Kind of weather"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a school custodian do?",
+            "answers": [
+              "keeps the school clean",
+              "cleans and maintains the school"
+            ]
+          },
+          {
+            "prompt": "Why is a clean school important?",
+            "answers": [
+              "keeps everyone healthy and safe",
+              "healthy environment"
+            ]
+          },
+          {
+            "prompt": "Name one job a custodian might do.",
+            "answers": [
+              "cleaning classrooms",
+              "fixing things"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "label": "Day 124 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Editing Our Writing: Checking for Mistakes",
+        "summary": "Grade 1 Language strand: editing means rereading our writing to check for mistakes in spelling, punctuation, and capital letters before sharing it.",
+        "resourceLabel": "YouTube: Editing Our Writing: Checking for Mistakes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Editing%20Our%20Writing%3A%20Checking%20for%20Mistakes%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to edit your writing?",
+            "options": [
+              "Copy someone elses writing",
+              "Write it once and never look again",
+              "Check it for mistakes and fix them",
+              "Throw it away"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is something you check for while editing?",
+            "options": [
+              "Favourite colour",
+              "Weather",
+              "Spelling",
+              "Lunch menu"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is editing an important step in writing?",
+            "options": [
+              "It removes all the words",
+              "It is not important",
+              "It helps make writing clear and correct",
+              "It makes writing longer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence needs editing?",
+            "options": [
+              "I like dogs?",
+              "i like dogs",
+              "I like dogs.",
+              "I like dogs!"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Editing usually happens ___ writing a first draft.",
+            "options": [
+              "Before",
+              "Never",
+              "After",
+              "Instead of"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does editing mean?",
+            "answers": [
+              "checking writing for mistakes",
+              "fixing mistakes"
+            ]
+          },
+          {
+            "prompt": "Name one thing we check for when editing.",
+            "answers": [
+              "spelling",
+              "punctuation",
+              "capital letters"
+            ]
+          },
+          {
+            "prompt": "Why do we edit our writing?",
+            "answers": [
+              "to fix mistakes before sharing",
+              "make it clearer"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Comparison Subtraction: How Many More?",
+        "summary": "Grade 1 Math strand: comparison subtraction finds how many more one group has than another, such as comparing 8 apples to 5 oranges.",
+        "resourceLabel": "YouTube: Comparison Subtraction: How Many More?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparison%20Subtraction%3A%20How%20Many%20More%3F%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "There are 9 dogs and 4 cats. How many more dogs are there than cats?",
+            "options": [
+              "6",
+              "4",
+              "5",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To find how many more one group has than another, we use ___.",
+            "options": [
+              "Counting only",
+              "Multiplication",
+              "Addition",
+              "Subtraction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "There are 12 birds and 7 squirrels. How many more birds are there?",
+            "options": [
+              "4",
+              "3",
+              "5",
+              "6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If group A has 6 and group B has 6, how many more does group A have?",
+            "options": [
+              "0",
+              "12",
+              "6",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparison subtraction helps us find the ___ between two groups.",
+            "options": [
+              "Average",
+              "Product",
+              "Difference",
+              "Sum"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If there are 8 apples and 5 oranges, how many more apples are there?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What operation do we use to find how many more?",
+            "answers": [
+              "subtraction",
+              "subtract"
+            ]
+          },
+          {
+            "prompt": "If one group has 10 and another has 6, how many more does the first group have?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Whales and Dolphins: Ocean Mammals",
+        "summary": "Grade 1 Science strand: whales and dolphins are mammals that live in the ocean, breathe air through blowholes, and give birth to live young.",
+        "resourceLabel": "YouTube: Whales and Dolphins: Ocean Mammals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Whales%20and%20Dolphins%3A%20Ocean%20Mammals%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Are whales and dolphins classified as mammals or fish?",
+            "options": [
+              "Amphibians",
+              "Reptiles",
+              "Mammals",
+              "Fish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do whales and dolphins breathe air?",
+            "options": [
+              "Through a blowhole",
+              "Through gills",
+              "They do not breathe",
+              "Through their skin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do whales lay eggs or give birth to live young?",
+            "options": [
+              "Neither",
+              "Give birth to live young",
+              "Lay eggs",
+              "Both equally"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are whales and dolphins considered mammals and not fish?",
+            "options": [
+              "They breathe air and give birth to live young",
+              "They swim fast",
+              "They live in water",
+              "They are large"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an ocean mammal?",
+            "options": [
+              "Starfish",
+              "Shark",
+              "Jellyfish",
+              "Dolphin"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Are whales and dolphins mammals or fish?",
+            "answers": [
+              "mammals",
+              "they are mammals"
+            ]
+          },
+          {
+            "prompt": "How do whales and dolphins breathe?",
+            "answers": [
+              "through a blowhole",
+              "they breathe air"
+            ]
+          },
+          {
+            "prompt": "Do whales give birth to live young or lay eggs?",
+            "answers": [
+              "live young",
+              "they give birth to live young"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our School Bus Driver: Getting Us to School Safely",
+        "summary": "Grade 1 Social Studies strand: the school bus driver is a community helper who drives students safely to and from school each day, following traffic rules.",
+        "resourceLabel": "YouTube: Our School Bus Driver: Getting Us to School Safely",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Bus%20Driver%3A%20Getting%20Us%20to%20School%20Safely%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Who is responsible for driving the school bus?",
+            "options": [
+              "The bus driver",
+              "The principal",
+              "A parent only",
+              "A student"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main job of a school bus driver?",
+            "options": [
+              "Drive students safely to and from school",
+              "Clean classrooms",
+              "Teach lessons",
+              "Cook lunch"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a good bus safety rule?",
+            "options": [
+              "Staying seated and quiet",
+              "Yelling loudly",
+              "Sticking arms out the window",
+              "Standing up while the bus moves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why should students follow the bus drivers instructions?",
+            "options": [
+              "Only for fun",
+              "To stay safe during the ride",
+              "It does not matter",
+              "Drivers give no instructions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A bus driver helps the school community by ___.",
+            "options": [
+              "Fixing computers",
+              "Grading homework",
+              "Selling snacks",
+              "Getting students there safely"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who drives the school bus?",
+            "answers": [
+              "the bus driver",
+              "a bus driver"
+            ]
+          },
+          {
+            "prompt": "What is the bus drivers main job?",
+            "answers": [
+              "drive students safely",
+              "get students to school safely"
+            ]
+          },
+          {
+            "prompt": "Name one rule for riding the bus safely.",
+            "answers": [
+              "stay seated",
+              "listen to the driver"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "label": "Day 125 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Procedural Writing: Writing Steps in Order",
+        "summary": "Grade 1 Language strand: procedural writing gives step-by-step directions for how to do something, such as a recipe or instructions for a game.",
+        "resourceLabel": "YouTube: Procedural Writing: Writing Steps in Order",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Procedural%20Writing%3A%20Writing%20Steps%20in%20Order%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is procedural writing used for?",
+            "options": [
+              "Telling a made-up story",
+              "Describing feelings only",
+              "Giving step-by-step instructions",
+              "Writing a poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of procedural writing?",
+            "options": [
+              "A recipe for cookies",
+              "A fairy tale",
+              "A poem about the moon",
+              "A diary entry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the order of steps matter in procedural writing?",
+            "options": [
+              "Only the first step matters",
+              "The steps must be followed correctly to work",
+              "Steps can be random",
+              "Order never matters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which words are often used in procedural writing to show order?",
+            "options": [
+              "Red, blue, green",
+              "Happy, sad, angry",
+              "Loud, quiet, soft",
+              "First, next, then, finally"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Procedural writing helps readers ___.",
+            "options": [
+              "Learn a fictional story",
+              "Draw a random picture",
+              "Feel an emotion",
+              "Complete a task correctly"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is procedural writing?",
+            "answers": [
+              "step by step instructions",
+              "directions for how to do something"
+            ]
+          },
+          {
+            "prompt": "Give an example of something written as steps.",
+            "answers": [
+              "a recipe",
+              "instructions for a game"
+            ]
+          },
+          {
+            "prompt": "Why is order important in procedural writing?",
+            "answers": [
+              "steps must be followed in order",
+              "so it works correctly"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Balancing Objects: Heavier and Lighter",
+        "summary": "Grade 1 Math strand: students use a balance scale to compare two objects and determine which one is heavier and which one is lighter.",
+        "resourceLabel": "YouTube: Balancing Objects: Heavier and Lighter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Balancing%20Objects%3A%20Heavier%20and%20Lighter%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What tool helps us compare the weight of two objects?",
+            "options": [
+              "A thermometer",
+              "A ruler",
+              "A clock",
+              "A balance scale"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a balance scale, the heavier object goes ___.",
+            "options": [
+              "Down",
+              "Nowhere",
+              "Sideways",
+              "Up"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a feather and a rock are compared, which is likely heavier?",
+            "options": [
+              "They weigh the same",
+              "Neither has weight",
+              "The rock",
+              "The feather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A balance scale helps us compare which object is ___.",
+            "options": [
+              "Older",
+              "Taller",
+              "Louder",
+              "Heavier or lighter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If both sides of a balance scale are level, the objects are ___.",
+            "options": [
+              "Equal in weight",
+              "Unequal in weight",
+              "Both very light",
+              "Both very heavy"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool can compare which object is heavier?",
+            "answers": [
+              "a balance scale",
+              "a scale"
+            ]
+          },
+          {
+            "prompt": "If a book makes the scale go down, is it heavier or lighter than the other object?",
+            "answers": [
+              "heavier",
+              "heavier than the other object"
+            ]
+          },
+          {
+            "prompt": "Name two objects you could compare on a balance scale.",
+            "answers": [
+              "a book and a pencil",
+              "an apple and a feather"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Communication: How Animals Talk to Each Other",
+        "summary": "Grade 1 Science strand: animals communicate with each other using sounds, movements, and colours, such as a bees dance or a birds song.",
+        "resourceLabel": "YouTube: Animal Communication: How Animals Talk to Each Other",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Communication%3A%20How%20Animals%20Talk%20to%20Each%20Other%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a way animals communicate?",
+            "options": [
+              "Only eating",
+              "Doing nothing at all",
+              "Only sleeping",
+              "Sounds and movements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a bee do to show other bees where flowers are?",
+            "options": [
+              "It writes a note",
+              "A special dance",
+              "It draws a map",
+              "It sings a song"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a bird sing loudly?",
+            "options": [
+              "To scare away the sun",
+              "To communicate with other birds",
+              "It has no reason",
+              "To make itself invisible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal uses colour to communicate warning signals?",
+            "options": [
+              "A poison dart frog",
+              "A clear window",
+              "A grey rock",
+              "A brown stick"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Animal communication helps animals ___.",
+            "options": [
+              "Stay confused",
+              "Share information with each other",
+              "Avoid all other animals",
+              "Ignore each other"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one way animals communicate.",
+            "answers": [
+              "sounds",
+              "movements",
+              "colours"
+            ]
+          },
+          {
+            "prompt": "What does a bee do to tell other bees where food is?",
+            "answers": [
+              "a dance",
+              "a waggle dance"
+            ]
+          },
+          {
+            "prompt": "Why do birds sing?",
+            "answers": [
+              "to communicate",
+              "to send messages to other birds"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadas Coat of Arms: A Symbol of Our Country",
+        "summary": "Grade 1 Social Studies strand: Canadas coat of arms is an official symbol that includes images like lions, a unicorn, and maple leaves, representing our countrys history.",
+        "resourceLabel": "YouTube: Canadas Coat of Arms: A Symbol of Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Coat%20of%20Arms%3A%20A%20Symbol%20of%20Our%20Country%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a coat of arms?",
+            "options": [
+              "An official symbol representing a country",
+              "A kind of food",
+              "A musical instrument",
+              "A type of clothing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which image can be found on Canadas coat of arms?",
+            "options": [
+              "A palm tree",
+              "A cactus",
+              "A maple leaf",
+              "A volcano"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Canadas coat of arms represent?",
+            "options": [
+              "A single city only",
+              "A foreign country",
+              "Our countrys history and values",
+              "Nothing important"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Besides the coat of arms, what other symbols represent Canada?",
+            "options": [
+              "The flag and the national anthem",
+              "Nothing else",
+              "Only sports teams",
+              "Only the weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Official symbols like a coat of arms help people feel a sense of ___.",
+            "options": [
+              "Fear",
+              "National pride and identity",
+              "Confusion",
+              "Boredom"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a coat of arms?",
+            "answers": [
+              "an official symbol of a country",
+              "a symbol representing history"
+            ]
+          },
+          {
+            "prompt": "Name one image found on Canadas coat of arms.",
+            "answers": [
+              "a lion",
+              "a unicorn",
+              "a maple leaf"
+            ]
+          },
+          {
+            "prompt": "What does Canadas coat of arms represent?",
+            "answers": [
+              "our countrys history",
+              "Canadas history and values"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "label": "Day 126 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Text Features: Glossary and Labels",
+        "summary": "Grade 1 Language strand: a glossary explains the meaning of tricky words used in a book, and labels name the parts of a picture or diagram.",
+        "resourceLabel": "YouTube: Text Features: Glossary and Labels",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Glossary%20and%20Labels%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a glossary used for?",
+            "options": [
+              "Explaining the meaning of tricky words",
+              "Showing the authors name",
+              "Listing chapter titles",
+              "Showing pictures only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where would you typically find a glossary?",
+            "options": [
+              "In the middle of a sentence",
+              "At the back of the book",
+              "At the front of the book",
+              "On the cover"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do labels on a diagram usually show?",
+            "options": [
+              "The authors age",
+              "The colour of the page",
+              "The price of the book",
+              "The names of the parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which text feature would help you find the meaning of the word habitat?",
+            "options": [
+              "A heading",
+              "A glossary",
+              "A caption",
+              "A title"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Labels are especially useful on ___.",
+            "options": [
+              "The title page",
+              "Diagrams and pictures",
+              "Blank pages",
+              "The back cover only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a glossary help readers do?",
+            "answers": [
+              "understand tricky words",
+              "find word meanings"
+            ]
+          },
+          {
+            "prompt": "What do labels do on a picture?",
+            "answers": [
+              "name the parts",
+              "show what things are called"
+            ]
+          },
+          {
+            "prompt": "Where is a glossary usually found in a book?",
+            "answers": [
+              "at the back",
+              "the back of the book"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calendar Math: Counting Days Until an Event",
+        "summary": "Grade 1 Math strand: students use a calendar to count how many days are left until a special event, such as a birthday or holiday.",
+        "resourceLabel": "YouTube: Calendar Math: Counting Days Until an Event",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calendar%20Math%3A%20Counting%20Days%20Until%20an%20Event%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What tool is used to count days until an event?",
+            "options": [
+              "A calendar",
+              "A ruler",
+              "A thermometer",
+              "A scale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If today is day 5 and an event is on day 12, how many days away is the event?",
+            "options": [
+              "5",
+              "6",
+              "8",
+              "7"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If today is day 1 and an event is on day 8, how many days until the event?",
+            "options": [
+              "6",
+              "8",
+              "7",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A calendar is organized into ___.",
+            "options": [
+              "Colours",
+              "Weeks and months",
+              "Only hours",
+              "Only minutes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Counting days until an event uses which math skill?",
+            "options": [
+              "Measuring length",
+              "Multiplication",
+              "Counting or subtraction",
+              "Comparing weight"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool can help you count days until an event?",
+            "answers": [
+              "a calendar",
+              "the calendar"
+            ]
+          },
+          {
+            "prompt": "If today is the 3rd and your birthday is the 10th, how many days away is it?",
+            "answers": [
+              "7",
+              "seven"
+            ]
+          },
+          {
+            "prompt": "Name a special event you might count down to.",
+            "answers": [
+              "a birthday",
+              "a holiday"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ocean Tides: The Rise and Fall of the Sea",
+        "summary": "Grade 1 Science strand: ocean tides are the regular rising and falling of sea water along the shore, happening a few times each day.",
+        "resourceLabel": "YouTube: Ocean Tides: The Rise and Fall of the Sea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ocean%20Tides%3A%20The%20Rise%20and%20Fall%20of%20the%20Sea%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are ocean tides?",
+            "options": [
+              "A type of ocean animal",
+              "A colour of the ocean",
+              "A kind of storm",
+              "The regular rising and falling of sea water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "About how often do tides usually rise and fall each day?",
+            "options": [
+              "Once a year",
+              "Once a month",
+              "Never",
+              "A few times a day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where would you observe the effects of tides most easily?",
+            "options": [
+              "In the desert",
+              "On a mountain",
+              "In a forest",
+              "Along the coast or shore"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "At low tide, the water level along the shore is ___.",
+            "options": [
+              "Boiling",
+              "Frozen",
+              "Higher than usual",
+              "Lower than usual"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Tides are an example of how the ocean ___.",
+            "options": [
+              "Changes in a regular pattern",
+              "Turns to ice daily",
+              "Never changes",
+              "Disappears completely"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are ocean tides?",
+            "answers": [
+              "the rise and fall of sea water",
+              "rising and falling water"
+            ]
+          },
+          {
+            "prompt": "How often do tides usually happen in a day?",
+            "answers": [
+              "a few times",
+              "a couple of times a day"
+            ]
+          },
+          {
+            "prompt": "Where can we observe tides?",
+            "answers": [
+              "at the beach or shore",
+              "along the coast"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadas Governor General: A Ceremonial Role",
+        "summary": "Grade 1 Social Studies strand: the Governor General represents the King or Queen in Canada and performs ceremonial duties, such as welcoming important visitors.",
+        "resourceLabel": "YouTube: Canadas Governor General: A Ceremonial Role",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadas%20Governor%20General%3A%20A%20Ceremonial%20Role%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Who does Canadas Governor General represent?",
+            "options": [
+              "The King or Queen",
+              "A foreign president",
+              "The mayor",
+              "A local business"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might be a duty of the Governor General?",
+            "options": [
+              "Teaching a classroom",
+              "Driving a school bus",
+              "Selling groceries",
+              "Welcoming important visitors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The role of the Governor General is mostly ___.",
+            "options": [
+              "About sports",
+              "About cooking",
+              "Ceremonial",
+              "Related to farming"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the Governor General the same as the Prime Minister?",
+            "options": [
+              "No, they have different roles",
+              "Yes, exactly the same",
+              "They never exist at the same time",
+              "Canada has neither"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about the Governor General helps us understand ___.",
+            "options": [
+              "Part of how Canada is organized",
+              "A made-up story",
+              "Only foreign countries",
+              "Nothing useful"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who does the Governor General represent in Canada?",
+            "answers": [
+              "the King or Queen",
+              "the monarch"
+            ]
+          },
+          {
+            "prompt": "Name one duty of the Governor General.",
+            "answers": [
+              "welcoming visitors",
+              "ceremonial duties"
+            ]
+          },
+          {
+            "prompt": "Is the Governor Generals role mostly ceremonial?",
+            "answers": [
+              "yes",
+              "yes it is mostly ceremonial"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "label": "Day 127 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Counting Syllables in Longer Words",
+        "summary": "Grade 1 Language strand: students count syllables in longer words by clapping each beat, such as clapping three times for the word elephant.",
+        "resourceLabel": "YouTube: Counting Syllables in Longer Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Counting%20Syllables%20in%20Longer%20Words%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many syllables does the word elephant have?",
+            "options": [
+              "3",
+              "2",
+              "4",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a good way to count syllables in a word?",
+            "options": [
+              "Guess randomly",
+              "Count the letters only",
+              "Count the vowels written",
+              "Clap for each beat you hear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many syllables does the word cat have?",
+            "options": [
+              "1",
+              "4",
+              "3",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many syllables does the word butterfly have?",
+            "options": [
+              "2",
+              "3",
+              "1",
+              "4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Counting syllables helps readers understand a words ___.",
+            "options": [
+              "Spelling only",
+              "Colour",
+              "Meaning only",
+              "Number of beats or parts"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many syllables are in the word elephant?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "How can we count syllables in a word?",
+            "answers": [
+              "clap each beat",
+              "clap the parts"
+            ]
+          },
+          {
+            "prompt": "How many syllables are in the word banana?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 25s: Counting Quarters",
+        "summary": "Grade 1 Math strand: students skip count by 25s to find the value of quarters, such as 25, 50, 75, and 100 cents for four quarters.",
+        "resourceLabel": "YouTube: Skip Counting by 25s: Counting Quarters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%2025s%3A%20Counting%20Quarters%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What comes next: 25, 50, 75, ___?",
+            "options": [
+              "90",
+              "110",
+              "85",
+              "100"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the value of one quarter?",
+            "options": [
+              "10 cents",
+              "50 cents",
+              "25 cents",
+              "5 cents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Three quarters together are worth ___.",
+            "options": [
+              "75 cents",
+              "100 cents",
+              "50 cents",
+              "65 cents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Skip counting by 25s helps us count ___ quickly.",
+            "options": [
+              "Pennies",
+              "Nickels",
+              "Quarters",
+              "Dimes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Four quarters together equal ___.",
+            "options": [
+              "100 cents",
+              "75 cents",
+              "125 cents",
+              "90 cents"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Skip count by 25s starting from 25 to 100.",
+            "answers": [
+              "25,50,75,100",
+              "25 50 75 100"
+            ]
+          },
+          {
+            "prompt": "What is the value of one quarter?",
+            "answers": [
+              "25 cents",
+              "25 cents each"
+            ]
+          },
+          {
+            "prompt": "What is the value of two quarters together?",
+            "answers": [
+              "50 cents",
+              "fifty cents"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Rock Cycle: How Rocks Slowly Change",
+        "summary": "Grade 1 Science strand: rocks slowly change over a very long time, breaking down, moving, and sometimes forming new kinds of rock in the rock cycle.",
+        "resourceLabel": "YouTube: The Rock Cycle: How Rocks Slowly Change",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rock%20Cycle%3A%20How%20Rocks%20Slowly%20Change%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Do rocks change over time?",
+            "options": [
+              "Only in winter",
+              "Yes, very slowly over a long time",
+              "No, never",
+              "Yes, instantly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can cause rocks to slowly break down?",
+            "options": [
+              "Darkness",
+              "Nothing at all",
+              "Wind and water",
+              "Silence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The rock cycle describes how rocks ___.",
+            "options": [
+              "Slowly change and sometimes form new rocks",
+              "Disappear completely with no trace",
+              "Stay exactly the same forever",
+              "Turn into water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Rock changes usually happen over ___.",
+            "options": [
+              "One hour",
+              "A very long time",
+              "A few minutes",
+              "A single day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could slowly wear down a rock over time?",
+            "options": [
+              "A shadow",
+              "A single raindrop once",
+              "Flowing water",
+              "A quiet room"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Do rocks stay exactly the same forever?",
+            "answers": [
+              "no",
+              "no they can change"
+            ]
+          },
+          {
+            "prompt": "What can cause rocks to slowly break down?",
+            "answers": [
+              "wind and water",
+              "erosion"
+            ]
+          },
+          {
+            "prompt": "Does rock change happen quickly or slowly?",
+            "answers": [
+              "slowly",
+              "very slowly, over a long time"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Treaties: Promises Between Canada and Indigenous Peoples",
+        "summary": "Grade 1 Social Studies strand: treaties are formal agreements made long ago between the government and Indigenous peoples about sharing land and resources.",
+        "resourceLabel": "YouTube: Treaties: Promises Between Canada and Indigenous Peoples",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Treaties%3A%20Promises%20Between%20Canada%20and%20Indigenous%20Peoples%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a treaty?",
+            "options": [
+              "A type of food",
+              "A formal agreement between groups",
+              "A piece of clothing",
+              "A kind of holiday"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In Canada, treaties were often made between the government and ___.",
+            "options": [
+              "Indigenous peoples",
+              "No one",
+              "Animals",
+              "Other countries only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are treaties important to learn about today?",
+            "options": [
+              "They have no meaning today",
+              "They are still honoured and shape relationships today",
+              "They were quickly forgotten",
+              "They are not real"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Treaties often involved agreements about ___.",
+            "options": [
+              "Weather patterns",
+              "Sharing land and resources",
+              "School subjects",
+              "Sports rules"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about treaties helps students understand ___.",
+            "options": [
+              "Nothing important",
+              "Only modern events",
+              "An important part of Canadian history",
+              "A fictional story"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a treaty?",
+            "answers": [
+              "a formal agreement",
+              "a promise or agreement between groups"
+            ]
+          },
+          {
+            "prompt": "Who were treaties made between in Canada?",
+            "answers": [
+              "the government and Indigenous peoples",
+              "Canada and Indigenous peoples"
+            ]
+          },
+          {
+            "prompt": "Why are treaties still important today?",
+            "answers": [
+              "they are still honoured and remembered",
+              "they affect how we share the land"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "label": "Day 128 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Compound Sentences: Joining Ideas with But and Or",
+        "summary": "Grade 1 Language strand: compound sentences can join two ideas using the words but or or, in addition to and, to show contrast or choice.",
+        "resourceLabel": "YouTube: Compound Sentences: Joining Ideas with But and Or",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound%20Sentences%3A%20Joining%20Ideas%20with%20But%20and%20Or%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word can join two ideas to show contrast?",
+            "options": [
+              "The",
+              "And",
+              "But",
+              "A"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word can join two ideas to show a choice?",
+            "options": [
+              "Or",
+              "Is",
+              "The",
+              "And"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses but to join two ideas?",
+            "options": [
+              "I wanted play but raining.",
+              "I wanted to play it started raining.",
+              "I wanted to play but it started raining.",
+              "I wanted to play, it started raining."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses or to show a choice?",
+            "options": [
+              "You have apples oranges.",
+              "You can have apples or oranges.",
+              "You can have apples and oranges.",
+              "You can have apples but oranges."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Compound sentences join two complete ideas using words such as ___.",
+            "options": [
+              "And, but, or",
+              "The, a, an",
+              "Red, blue, green",
+              "Run, jump, skip"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give an example of a compound sentence using but.",
+            "answers": [
+              "I like cats but I like dogs more",
+              "I wanted to play but it rained"
+            ]
+          },
+          {
+            "prompt": "Give an example of a compound sentence using or.",
+            "answers": [
+              "We can walk or we can ride bikes",
+              "You can have juice or milk"
+            ]
+          },
+          {
+            "prompt": "What does the word but usually show?",
+            "answers": [
+              "contrast",
+              "a difference"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Cost: About How Much Does It Cost?",
+        "summary": "Grade 1 Math strand: students estimate the total cost of a few items by rounding prices to make a quick, reasonable guess before adding exactly.",
+        "resourceLabel": "YouTube: Estimating Cost: About How Much Does It Cost?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Cost%3A%20About%20How%20Much%20Does%20It%20Cost%3F%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to estimate a cost?",
+            "options": [
+              "Make a quick, reasonable guess about the total",
+              "Ignore the prices",
+              "Guess with no reason at all",
+              "Find the exact price to the penny"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two toys each cost about 5 dollars, about how much do both cost together?",
+            "options": [
+              "15 dollars",
+              "5 dollars",
+              "20 dollars",
+              "10 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is estimating cost a useful skill?",
+            "options": [
+              "It is never useful",
+              "It only works with pennies",
+              "It helps us check if we have enough money",
+              "It replaces exact counting always"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An estimate is ___ an exact answer.",
+            "options": [
+              "Always higher than",
+              "Close to but not exactly",
+              "Always lower than",
+              "The same as"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If items cost about 3 dollars and about 4 dollars, a good estimate for the total is about ___.",
+            "options": [
+              "2 dollars",
+              "10 dollars",
+              "7 dollars",
+              "5 dollars"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If an apple costs about 1 dollar and a juice costs about 2 dollars, about how much do both cost?",
+            "answers": [
+              "about 3 dollars",
+              "around 3 dollars"
+            ]
+          },
+          {
+            "prompt": "Why do we estimate cost before adding exactly?",
+            "answers": [
+              "to make a quick guess",
+              "to check if our answer is reasonable"
+            ]
+          },
+          {
+            "prompt": "Is an estimate the exact answer?",
+            "answers": [
+              "no",
+              "no it is a guess"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Honeybees: Life Inside a Hive",
+        "summary": "Grade 1 Science strand: honeybees live and work together in a hive, where different bees have different jobs, such as making honey or caring for young bees.",
+        "resourceLabel": "YouTube: Honeybees: Life Inside a Hive",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Honeybees%3A%20Life%20Inside%20a%20Hive%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Where do honeybees live and work together?",
+            "options": [
+              "A burrow",
+              "A web",
+              "A hive",
+              "A nest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a job some bees do in the hive?",
+            "options": [
+              "Driving cars",
+              "Making honey",
+              "Reading books",
+              "Cooking meals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do honeybees work alone or as a group?",
+            "options": [
+              "Alone",
+              "As a group",
+              "Only at night",
+              "They do not work"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for bees to work together in a hive?",
+            "options": [
+              "So the whole colony can survive and thrive",
+              "Bees prefer to be alone",
+              "Hives do not need teamwork",
+              "It is not important"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do bees make and store in the hive?",
+            "options": [
+              "Ice",
+              "Milk",
+              "Bread",
+              "Honey"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where do honeybees live and work together?",
+            "answers": [
+              "a hive",
+              "in a hive"
+            ]
+          },
+          {
+            "prompt": "Name one job a bee might have in the hive.",
+            "answers": [
+              "making honey",
+              "caring for young bees"
+            ]
+          },
+          {
+            "prompt": "Do honeybees work alone or together?",
+            "answers": [
+              "together",
+              "they work together"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Confederation: How Canada Became a Country",
+        "summary": "Grade 1 Social Studies strand: Confederation was when several colonies joined together long ago to form the country of Canada, an event we now celebrate on Canada Day.",
+        "resourceLabel": "YouTube: Confederation: How Canada Became a Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Confederation%3A%20How%20Canada%20Became%20a%20Country%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does the word Confederation describe?",
+            "options": [
+              "A type of animal",
+              "Colonies joining together to form Canada",
+              "A single citys history",
+              "A type of weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What holiday celebrates the anniversary of Confederation?",
+            "options": [
+              "Canada Day",
+              "Thanksgiving",
+              "Victoria Day",
+              "Remembrance Day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Before Confederation, Canada was made up of ___.",
+            "options": [
+              "No people at all",
+              "One giant city",
+              "Only forests",
+              "Separate colonies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Confederation an important event in Canadian history?",
+            "options": [
+              "It only affected one town",
+              "It marks the beginning of Canada as a country",
+              "It happened yesterday",
+              "It has no importance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about Confederation helps us understand ___.",
+            "options": [
+              "Nothing about Canada",
+              "How Canada began as a country",
+              "A fictional tale",
+              "Only recent events"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is Confederation?",
+            "answers": [
+              "when colonies joined to form Canada",
+              "the joining of colonies into Canada"
+            ]
+          },
+          {
+            "prompt": "What day do we celebrate to remember Confederation?",
+            "answers": [
+              "Canada Day",
+              "July 1st"
+            ]
+          },
+          {
+            "prompt": "Did Canada always exist as one country?",
+            "answers": [
+              "no",
+              "no it was formed over time"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "label": "Day 129 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Retelling Nonfiction: Using Key Facts",
+        "summary": "Grade 1 Language strand: retelling a nonfiction text means sharing the most important facts learned, rather than retelling a story with characters.",
+        "resourceLabel": "YouTube: Retelling Nonfiction: Using Key Facts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Retelling%20Nonfiction%3A%20Using%20Key%20Facts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "When retelling nonfiction, what should we focus on?",
+            "options": [
+              "The most important facts learned",
+              "Made-up characters",
+              "The books colour",
+              "The illustrations only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of retelling nonfiction correctly?",
+            "options": [
+              "The penguin felt happy and sad.",
+              "Penguins cannot fly but they can swim well.",
+              "Once upon a time there was a penguin.",
+              "The end."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Nonfiction retelling is different from fiction retelling because nonfiction ___.",
+            "options": [
+              "Is always a poem",
+              "Has no title",
+              "Focuses on true facts, not made-up characters",
+              "Has no facts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to retell nonfiction facts?",
+            "options": [
+              "It has no purpose",
+              "To ignore the text",
+              "To show we understood and remembered what we learned",
+              "To make up a new story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would likely appear in a nonfiction retelling about bears?",
+            "options": [
+              "Bears hibernate in winter.",
+              "The bear wished upon a star.",
+              "Once there was a magic bear.",
+              "The bear lived happily ever after."
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we retell when reading nonfiction?",
+            "answers": [
+              "the important facts",
+              "key facts we learned"
+            ]
+          },
+          {
+            "prompt": "Is nonfiction retelling about characters or facts?",
+            "answers": [
+              "facts",
+              "it is about facts"
+            ]
+          },
+          {
+            "prompt": "Give an example of a fact you might retell after reading about penguins.",
+            "answers": [
+              "penguins cannot fly",
+              "penguins live in cold places"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Comparing Two Bar Graphs",
+        "summary": "Grade 1 Math strand: students compare two bar graphs to see which one shows a taller bar, meaning a greater amount for that category.",
+        "resourceLabel": "YouTube: Data: Comparing Two Bar Graphs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Comparing%20Two%20Bar%20Graphs%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "On a bar graph, a taller bar usually means ___.",
+            "options": [
+              "A smaller amount",
+              "A greater amount",
+              "No amount",
+              "An equal amount"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When comparing two bar graphs, we look at ___.",
+            "options": [
+              "The paper size",
+              "The titles only",
+              "The heights of the bars",
+              "The colours only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If one graph shows 8 apples and another shows 5 apples, which has more?",
+            "options": [
+              "The graph showing 8",
+              "They are equal",
+              "Neither shows more",
+              "The graph showing 5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Bar graphs help us ___ different amounts.",
+            "options": [
+              "Ignore",
+              "Compare",
+              "Hide",
+              "Forget"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Comparing two bar graphs can help us decide which category has the ___.",
+            "options": [
+              "Loudest sound",
+              "Nicest shape",
+              "Least or most",
+              "Best colour"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a bar graph, what does a taller bar usually mean?",
+            "answers": [
+              "a greater amount",
+              "more of something"
+            ]
+          },
+          {
+            "prompt": "How can we compare two bar graphs?",
+            "answers": [
+              "look at the bar heights",
+              "compare the heights"
+            ]
+          },
+          {
+            "prompt": "If one bar graph has a taller bar for apples, what does that tell us?",
+            "answers": [
+              "there are more apples",
+              "apples are more"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Wind Turbines: Catching the Wind for Power",
+        "summary": "Grade 1 Science strand: a wind turbine has large spinning blades that catch the wind and turn its movement into electricity.",
+        "resourceLabel": "YouTube: Wind Turbines: Catching the Wind for Power",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wind%20Turbines%3A%20Catching%20the%20Wind%20for%20Power%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does a wind turbine capture to make electricity?",
+            "options": [
+              "Fire",
+              "Water",
+              "Sunlight",
+              "Wind"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What part of a wind turbine spins to catch the wind?",
+            "options": [
+              "The base",
+              "The tower",
+              "The wires",
+              "The blades"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A wind turbine turns moving air into ___.",
+            "options": [
+              "Water",
+              "Electricity",
+              "Sunlight",
+              "Sound only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Wind power is considered a ___ source of energy.",
+            "options": [
+              "Fake",
+              "Dangerous only",
+              "Clean and renewable",
+              "Dirty and limited"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which location would likely be good for wind turbines?",
+            "options": [
+              "A windy, open area",
+              "A closet",
+              "A sealed underground cave",
+              "A perfectly still room"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a wind turbine catch to make power?",
+            "answers": [
+              "wind",
+              "moving air"
+            ]
+          },
+          {
+            "prompt": "What part of a wind turbine spins in the wind?",
+            "answers": [
+              "the blades",
+              "large blades"
+            ]
+          },
+          {
+            "prompt": "What does a wind turbine turn wind movement into?",
+            "answers": [
+              "electricity",
+              "power"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Military: Protecting Our Country",
+        "summary": "Grade 1 Social Studies strand: the Canadian military includes the army, navy, and air force, who work to protect Canada and help during emergencies.",
+        "resourceLabel": "YouTube: Our Military: Protecting Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Military%3A%20Protecting%20Our%20Country%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is part of the Canadian military?",
+            "options": [
+              "The library",
+              "The grocery store",
+              "The post office",
+              "The army"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one job of the Canadian military?",
+            "options": [
+              "Selling food",
+              "Delivering mail",
+              "Teaching school",
+              "Protecting the country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Besides protecting the country, the military sometimes helps during ___.",
+            "options": [
+              "Emergencies like floods",
+              "Grocery shopping",
+              "School recess",
+              "Birthday parties"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On which day do Canadians especially honour military members?",
+            "options": [
+              "Halloween",
+              "Canada Day",
+              "Remembrance Day",
+              "Thanksgiving"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Canadian military includes the army, navy, and ___.",
+            "options": [
+              "Police force",
+              "Fire department",
+              "Coast guard only",
+              "Air force"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one part of the Canadian military.",
+            "answers": [
+              "the army",
+              "the navy",
+              "the air force"
+            ]
+          },
+          {
+            "prompt": "What is one job of the military?",
+            "answers": [
+              "protect the country",
+              "help during emergencies"
+            ]
+          },
+          {
+            "prompt": "Why do we honour military members on Remembrance Day?",
+            "answers": [
+              "to remember their service and sacrifice",
+              "to thank them for their service"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "label": "Day 130 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Word Choice, Metaphors, and Nonfiction Retelling",
+        "summary": "Grade 1 Language strand review: students revisit metaphors, possessive pronouns, strong word choice, editing, procedural writing, and retelling nonfiction facts.",
+        "resourceLabel": "YouTube: Language Review: Word Choice, Metaphors, and Nonfiction Retelling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Choice%2C%20Metaphors%2C%20and%20Nonfiction%20Retelling%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a metaphor?",
+            "options": [
+              "A comparison using like or as",
+              "A punctuation mark",
+              "A type of question",
+              "A comparison that calls one thing another without like or as"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence This is my hat, which word shows ownership?",
+            "options": [
+              "My",
+              "Is",
+              "Hat",
+              "This"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to edit your writing?",
+            "options": [
+              "Check it for mistakes and fix them",
+              "Throw it away",
+              "Write it once and never look again",
+              "Copy someone elses writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of procedural writing?",
+            "options": [
+              "A diary entry",
+              "A recipe for cookies",
+              "A fairy tale",
+              "A poem about the moon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When retelling nonfiction, what should we focus on?",
+            "options": [
+              "The most important facts learned",
+              "The illustrations only",
+              "Made-up characters",
+              "The books colour"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give an example of a metaphor.",
+            "answers": [
+              "the classroom was a zoo",
+              "her smile was sunshine"
+            ]
+          },
+          {
+            "prompt": "Give an example of a possessive pronoun.",
+            "answers": [
+              "my",
+              "your",
+              "his",
+              "her"
+            ]
+          },
+          {
+            "prompt": "What does editing mean?",
+            "answers": [
+              "checking writing for mistakes",
+              "fixing mistakes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Arrays, Rounding, and Comparing Data",
+        "summary": "Grade 1 Math strand review: students revisit arrays, expanded form, rounding to the nearest ten, comparison subtraction, quarters, and comparing bar graphs.",
+        "resourceLabel": "YouTube: Math Review: Arrays, Rounding, and Comparing Data",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Arrays%2C%20Rounding%2C%20and%20Comparing%20Data%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "An array with 3 rows of 4 has how many objects in total?",
+            "options": [
+              "10",
+              "14",
+              "12",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 65 written in expanded form?",
+            "options": [
+              "6+5",
+              "60+5",
+              "65+0",
+              "650"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 23 rounded to the nearest ten?",
+            "options": [
+              "25",
+              "10",
+              "30",
+              "20"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "There are 9 dogs and 4 cats. How many more dogs are there than cats?",
+            "options": [
+              "3",
+              "6",
+              "4",
+              "5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a bar graph, a taller bar usually means ___.",
+            "options": [
+              "An equal amount",
+              "A smaller amount",
+              "No amount",
+              "A greater amount"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is an array?",
+            "answers": [
+              "objects arranged in rows and columns",
+              "equal rows and columns of objects"
+            ]
+          },
+          {
+            "prompt": "Round 23 to the nearest ten.",
+            "answers": [
+              "20",
+              "twenty"
+            ]
+          },
+          {
+            "prompt": "What is the value of one quarter?",
+            "answers": [
+              "25 cents",
+              "25 cents each"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Senses, Machines, and Earths Water",
+        "summary": "Grade 1 Science strand review: students revisit our ears, levers and inclined planes, precipitation, whales and dolphins, ocean tides, and wind turbines.",
+        "resourceLabel": "YouTube: Science Review: Senses, Machines, and Earths Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Senses%2C%20Machines%2C%20and%20Earths%20Water%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What body part lets us hear sounds?",
+            "options": [
+              "Skin",
+              "Nose",
+              "Ears",
+              "Eyes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is another name for a ramp?",
+            "options": [
+              "An inclined plane",
+              "A wheel",
+              "A lever",
+              "A pulley"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a form of precipitation?",
+            "options": [
+              "Sunshine",
+              "Wind",
+              "Fog only",
+              "Snow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are whales and dolphins classified as mammals or fish?",
+            "options": [
+              "Mammals",
+              "Reptiles",
+              "Fish",
+              "Amphibians"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a wind turbine capture to make electricity?",
+            "options": [
+              "Fire",
+              "Sunlight",
+              "Water",
+              "Wind"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What body part do we use to hear?",
+            "answers": [
+              "ears",
+              "our ears"
+            ]
+          },
+          {
+            "prompt": "What is precipitation?",
+            "answers": [
+              "water falling from clouds",
+              "rain, snow, sleet, or hail"
+            ]
+          },
+          {
+            "prompt": "What does a wind turbine catch to make power?",
+            "answers": [
+              "wind",
+              "moving air"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Helpers, Symbols, and Our History",
+        "summary": "Grade 1 Social Studies strand review: students revisit the crossing guard, veterinarian, school custodian, Canadas coat of arms, treaties, Confederation, and the military.",
+        "resourceLabel": "YouTube: Social Studies Review: Helpers, Symbols, and Our History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Symbols%2C%20and%20Our%20History%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a crossing guard?",
+            "options": [
+              "Helping people cross the street safely",
+              "Driving a bus",
+              "Selling snacks",
+              "Teaching class"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a doctor who cares for animals?",
+            "options": [
+              "A librarian",
+              "A veterinarian",
+              "A teacher",
+              "A pilot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which image can be found on Canadas coat of arms?",
+            "options": [
+              "A maple leaf",
+              "A palm tree",
+              "A volcano",
+              "A cactus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What holiday celebrates the anniversary of Confederation?",
+            "options": [
+              "Remembrance Day",
+              "Canada Day",
+              "Victoria Day",
+              "Thanksgiving"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one job of the Canadian military?",
+            "options": [
+              "Teaching school",
+              "Selling food",
+              "Delivering mail",
+              "Protecting the country"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a crossing guard help us do?",
+            "answers": [
+              "cross the street safely",
+              "cross safely"
+            ]
+          },
+          {
+            "prompt": "What is a treaty?",
+            "answers": [
+              "a formal agreement",
+              "a promise or agreement between groups"
+            ]
+          },
+          {
+            "prompt": "What is Confederation?",
+            "answers": [
+              "when colonies joined to form Canada",
+              "the joining of colonies into Canada"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
