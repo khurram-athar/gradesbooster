@@ -29182,5 +29182,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 121,
+    "label": "Day 121 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Subject-Verb Agreement",
+        "summary": "Grade 6 Language strand: subject-verb agreement requires a verb to match its subject in number, so singular subjects take singular verbs and plural subjects take plural verbs.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does subject-verb agreement require?",
+            "options": [
+              "A verb that matches its subject in number",
+              "A verb that always ends in s",
+              "A subject placed after the verb",
+              "A sentence with no verb at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence shows correct subject-verb agreement?",
+            "options": [
+              "The students working quietly in the library.",
+              "The students are working quietly in the library.",
+              "The students is working quietly in the library.",
+              "The student are working quietly in the library."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which verb correctly completes this sentence: The team ___ practicing every afternoon this week.",
+            "options": [
+              "were",
+              "is",
+              "are",
+              "have"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a long phrase between the subject and verb make agreement tricky?",
+            "options": [
+              "Verbs never need to match their subject in a long sentence",
+              "It can make a writer mistakenly match the verb to a nearby word instead of the true subject",
+              "Long phrases always require plural verbs",
+              "Agreement rules only apply to short sentences"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is grammatically correct?",
+            "options": [
+              "Neither of the answers were correct.",
+              "Neither of the answer was correct.",
+              "Neither of the answers is were correct.",
+              "Neither of the answers was correct."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Introduction to Scientific Notation",
+        "summary": "Grade 6 Math strand: scientific notation expresses very large or very small numbers as a number between 1 and 10 multiplied by a power of ten, making such numbers easier to read and compare.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does scientific notation help express?",
+            "options": [
+              "Only numbers between 0 and 1",
+              "Fractions with large denominators only",
+              "Numbers that have no decimal point",
+              "Very large or very small numbers in a compact form"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In scientific notation, the first factor is a number between which two values?",
+            "options": [
+              "0 and 1",
+              "1 and 10",
+              "10 and 100",
+              "100 and 1000"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is 4,500 written in scientific notation?",
+            "options": [
+              "4.5 x 10^3",
+              "45 x 10^2",
+              "0.45 x 10^4",
+              "4.5 x 10^2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is scientific notation useful for scientists working with numbers like the distance to a star?",
+            "options": [
+              "It allows extremely large numbers to be written and compared more easily",
+              "It removes the need for any numbers at all",
+              "It makes large numbers harder to read",
+              "Scientific notation can only be used for small numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the exponent in scientific notation tell you?",
+            "options": [
+              "Nothing useful about the number",
+              "The number of digits in the answer only",
+              "How many places to move the decimal point",
+              "The exact value of the number with no further calculation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Kinetic and Potential Energy",
+        "summary": "Grade 6 Science strand: kinetic energy is the energy of motion, while potential energy is stored energy based on an objects position or condition, and energy can transform between these two forms.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is kinetic energy?",
+            "options": [
+              "Energy that never changes form",
+              "A type of chemical reaction",
+              "The energy of motion",
+              "Stored energy based on position"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is potential energy?",
+            "options": [
+              "Energy found only in electrical circuits",
+              "The energy of motion only",
+              "Energy that cannot be transformed into anything else",
+              "Stored energy based on an objects position or condition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A ball held at the top of a hill has mostly what type of energy?",
+            "options": [
+              "Sound energy",
+              "Potential energy",
+              "Kinetic energy",
+              "No energy at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As the ball rolls down the hill, what happens to its potential energy?",
+            "options": [
+              "It converts into potential energy at the bottom",
+              "It disappears completely with no transformation",
+              "It stays exactly the same the whole way down",
+              "It converts into kinetic energy as the ball speeds up"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding kinetic and potential energy useful for explaining how a roller coaster works?",
+            "options": [
+              "Roller coasters use only kinetic energy at all times",
+              "Energy never changes form on a roller coaster",
+              "The energy continuously transforms between potential and kinetic as the coaster rises and falls",
+              "Roller coasters have no connection to energy transformation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadian National Symbols — Flag, Anthem, and Coat of Arms",
+        "summary": "Grade 6 Social Studies strand: Canada has several official national symbols, including the maple leaf flag, the national anthem O Canada, and the coat of arms, each representing aspects of the countrys identity and history.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What image appears on the Canadian flag?",
+            "options": [
+              "A blue star",
+              "A golden eagle",
+              "A green shamrock",
+              "A red maple leaf"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the name of Canadas national anthem?",
+            "options": [
+              "True North Strong",
+              "The Maple Leaf Forever",
+              "God Save the King",
+              "O Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a coat of arms?",
+            "options": [
+              "A type of winter clothing",
+              "A style of Canadian currency",
+              "An official symbol representing a country, family, or organization",
+              "A national holiday"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do countries often adopt official symbols like flags and anthems?",
+            "options": [
+              "National symbols are only used in other countries, not Canada",
+              "Flags and anthems are chosen randomly with no meaning",
+              "They help represent a shared national identity and history",
+              "Symbols have no connection to national identity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When was the current Canadian maple leaf flag officially adopted?",
+            "options": [
+              "In 2000",
+              "In 1867",
+              "In 1812",
+              "In 1965"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "label": "Day 122 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Comparative and Superlative Adjectives",
+        "summary": "Grade 6 Language strand: comparative adjectives compare two things, usually adding er or using more, while superlative adjectives compare three or more things, usually adding est or using most.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does a comparative adjective do?",
+            "options": [
+              "Describes only one thing with no comparison",
+              "Replaces a noun entirely",
+              "Compares two things",
+              "Compares three or more things"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a superlative adjective do?",
+            "options": [
+              "Has no comparative function at all",
+              "Compares exactly two things",
+              "Compares three or more things",
+              "Describes an action instead of a thing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is the correct superlative form of tall?",
+            "options": [
+              "most taller",
+              "tallest",
+              "taller",
+              "more tall"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a comparative adjective correctly?",
+            "options": [
+              "This backpack is heaviest than that one.",
+              "This backpack is heavier than that one.",
+              "This backpack is more heavier than that one.",
+              "This backpack is heavy than that one."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do longer adjectives, like beautiful, usually use more or most instead of adding er or est?",
+            "options": [
+              "Longer adjectives can never be compared",
+              "All adjectives use the exact same comparison rule regardless of length",
+              "Long adjectives are never used in comparisons",
+              "Adding er or est to longer words would be awkward to pronounce, so English speakers use more or most instead"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Sum of Interior Angles in Polygons",
+        "summary": "Grade 6 Math strand: the sum of the interior angles of a polygon can be found using the formula (n minus 2) times 180 degrees, where n is the number of sides, extending the idea that a triangles angles sum to 180 degrees.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What formula finds the sum of the interior angles of a polygon with n sides?",
+            "options": [
+              "(n minus 2) times 180 degrees",
+              "n times 90 degrees",
+              "(n plus 2) times 180 degrees",
+              "n times 180 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the sum of the interior angles of a quadrilateral (4 sides)?",
+            "options": [
+              "180 degrees",
+              "360 degrees",
+              "720 degrees",
+              "540 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the sum of the interior angles of a pentagon (5 sides)?",
+            "options": [
+              "900 degrees",
+              "360 degrees",
+              "540 degrees",
+              "450 degrees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the interior angle sum formula start by subtracting 2 from the number of sides?",
+            "options": [
+              "The formula ignores the number of sides entirely",
+              "Any polygon can be divided into (n minus 2) triangles, each contributing 180 degrees",
+              "Every polygon has exactly 2 fewer angles than sides",
+              "Subtracting 2 has no mathematical meaning in this formula"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As the number of sides in a regular polygon increases, what happens to the sum of its interior angles?",
+            "options": [
+              "It decreases",
+              "It always equals 180 degrees",
+              "It stays exactly the same",
+              "It increases"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Comets, Asteroids, and Meteors",
+        "summary": "Grade 6 Science strand: comets are icy bodies that develop glowing tails near the sun, asteroids are rocky bodies mostly found in the asteroid belt, and meteors are streaks of light produced when small space debris burns up in Earths atmosphere.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "Liquid water only",
+              "Pure rock with no ice",
+              "Ice and dust",
+              "Solid metal only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where are most asteroids in our solar system found?",
+            "options": [
+              "Beyond the edge of the solar system only",
+              "Inside the sun",
+              "On the surface of Earth",
+              "In the asteroid belt between Mars and Jupiter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes a comets glowing tail to appear?",
+            "options": [
+              "Comets never develop tails",
+              "Heat from the sun causes ice and dust to release gas and particles",
+              "The tail forms only when a comet is far from the sun",
+              "The tail is caused by the comet spinning rapidly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a meteor?",
+            "options": [
+              "A streak of light caused by small space debris burning up in the atmosphere",
+              "A type of star that never moves",
+              "A permanent ring of ice around a planet",
+              "A large planet outside our solar system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the difference between a meteor and a meteorite?",
+            "options": [
+              "A meteorite is always larger than a planet",
+              "A meteor is a type of comet with no tail",
+              "A meteorite is the debris that survives and lands on Earths surface, while a meteor is the streak of light seen burning up",
+              "There is no difference between the two terms"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Persons Case — Winning Legal Recognition for Women in Canada",
+        "summary": "Grade 6 Social Studies strand: the Persons Case was a 1929 legal ruling that recognized women as persons under Canadian law, allowing them to be appointed to the Senate, a milestone achieved through the efforts of activists known as the Famous Five.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What did the Persons Case establish?",
+            "options": [
+              "That women are legally recognized as persons under Canadian law",
+              "A new set of provincial boundaries",
+              "That only men could serve in government",
+              "A change to Canadas national currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year was the Persons Case decided?",
+            "options": [
+              "1945",
+              "1982",
+              "1929",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What government position did the Persons Case allow women to be appointed to?",
+            "options": [
+              "The Supreme Court judge role exclusively",
+              "The Senate",
+              "The office of Governor General only",
+              "No new positions were affected"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who were the group of activists known as the Famous Five who led the Persons Case?",
+            "options": [
+              "A sports team from the 1920s",
+              "A group with no connection to Canadian history",
+              "A group of male senators opposed to womens rights",
+              "A group of women who campaigned for womens legal rights in Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Persons Case considered an important milestone in Canadian history?",
+            "options": [
+              "It reduced the rights of women in Canada",
+              "It had no lasting impact on Canadian law",
+              "It only affected a single province",
+              "It expanded legal rights and recognition for women in Canadian society"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "label": "Day 123 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Limerick",
+        "summary": "Grade 6 Language strand: a limerick is a humorous five-line poem with an AABBA rhyme scheme, where the first, second, and fifth lines rhyme and are longer than the shorter third and fourth lines, which also rhyme with each other.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "How many lines does a limerick have?",
+            "options": [
+              "Three",
+              "Five",
+              "Ten",
+              "Seven"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the rhyme scheme of a limerick?",
+            "options": [
+              "ABCD",
+              "ABAB",
+              "AAAA",
+              "AABBA"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tone do limericks typically have?",
+            "options": [
+              "Extremely formal",
+              "Purely factual",
+              "Humorous or playful",
+              "Always tragic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a limerick, which lines are usually shorter than the others?",
+            "options": [
+              "The first and second lines",
+              "The third and fourth lines",
+              "Only the last line",
+              "All five lines are the same length"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a limericks strict rhyme and rhythm pattern be challenging for a writer?",
+            "options": [
+              "Limericks are always written in free verse",
+              "Every line must fit the pattern while still making sense and staying funny",
+              "Limericks have no rules to follow at all",
+              "Rhyme never matters in a limerick"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Angles Formed by a Transversal",
+        "summary": "Grade 6 Math strand: when a transversal line crosses two parallel lines, it creates pairs of angles, such as corresponding angles and alternate interior angles, that have special equal or supplementary relationships.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is a transversal?",
+            "options": [
+              "A curved line with no straight sections",
+              "A single point where two lines meet",
+              "A line that never crosses any other line",
+              "A line that crosses two or more other lines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When a transversal crosses two parallel lines, what is true about corresponding angles?",
+            "options": [
+              "They always add up to 90 degrees",
+              "They are equal in measure",
+              "They are never related to each other",
+              "They are always different in measure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are alternate interior angles?",
+            "options": [
+              "Angles that are always equal to 90 degrees",
+              "Angles that never appear when a transversal crosses parallel lines",
+              "Angles on opposite sides of the transversal, between the two parallel lines",
+              "Angles that are always outside the parallel lines"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If two lines crossed by a transversal are parallel, what is true about alternate interior angles?",
+            "options": [
+              "They always add up to 360 degrees",
+              "They are always supplementary",
+              "They are equal in measure",
+              "They have no relationship to each other"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding transversal angle relationships useful in geometry?",
+            "options": [
+              "It only applies to lines that are not parallel",
+              "It has no practical use in solving geometry problems",
+              "It replaces the need to know about triangles",
+              "It helps determine unknown angle measures when parallel lines are involved"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Air Pressure and How It Affects Weather",
+        "summary": "Grade 6 Science strand: air pressure is the force exerted by the weight of air in the atmosphere, and areas of high and low pressure influence weather patterns, with low pressure often associated with clouds and precipitation.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is air pressure?",
+            "options": [
+              "The force exerted by the weight of air in the atmosphere",
+              "The speed at which wind blows",
+              "A measurement of humidity only",
+              "The temperature of the air only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What weather is often associated with low air pressure?",
+            "options": [
+              "Always clear, sunny skies",
+              "Clouds and precipitation",
+              "No weather changes at all",
+              "Only extremely cold temperatures"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What weather is often associated with high air pressure?",
+            "options": [
+              "Heavy storms and precipitation",
+              "Generally clear and calmer conditions",
+              "Constant snowfall",
+              "No connection to weather conditions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What instrument is commonly used to measure air pressure?",
+            "options": [
+              "A compass",
+              "A thermometer",
+              "A barometer",
+              "A rain gauge"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do meteorologists monitor changes in air pressure to help forecast weather?",
+            "options": [
+              "Shifts in air pressure often signal upcoming changes in weather conditions",
+              "Air pressure has no connection to weather forecasting",
+              "Air pressure never changes over time",
+              "Weather can be predicted only by measuring temperature"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Points-Based Immigration System",
+        "summary": "Grade 6 Social Studies strand: Canadas points-based immigration system evaluates prospective immigrants using factors such as education, work experience, language ability, and age, awarding points that determine eligibility for permanent residency.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does Canadas points-based immigration system evaluate?",
+            "options": [
+              "Nothing related to a persons skills or background",
+              "Only a persons country of origin",
+              "Only a persons age",
+              "Factors such as education, work experience, language ability, and age"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can a high point total in this system help a prospective immigrant achieve?",
+            "options": [
+              "Exemption from all immigration rules",
+              "Automatic Canadian citizenship with no application",
+              "A guaranteed job placement",
+              "Eligibility for permanent residency in Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might strong language ability in English or French increase an applicants points?",
+            "options": [
+              "Language skills can support successful integration into Canadian workplaces and communities",
+              "Language points are never part of the system",
+              "Language ability has no connection to immigration decisions",
+              "Only fluency in a third language is considered"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a country use a points-based system instead of other immigration approaches?",
+            "options": [
+              "A points-based system guarantees entry to everyone who applies",
+              "Points-based systems ignore an applicants skills and background entirely",
+              "It provides a structured way to assess how well applicants may contribute to the economy and society",
+              "This approach removes any need for immigration policy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which factor listed is commonly considered in Canadas points-based immigration system?",
+            "options": [
+              "Favourite hobby",
+              "Eye colour",
+              "Work experience",
+              "Height"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "label": "Day 124 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Eulogy or Tribute",
+        "summary": "Grade 6 Language strand: a eulogy or tribute is a speech or piece of writing that honours a persons life and achievements, often shared at a memorial or celebration, using warm, respectful, and personal language.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a eulogy or tribute?",
+            "options": [
+              "To argue a persuasive position",
+              "To report breaking news",
+              "To honour a persons life and achievements",
+              "To criticize someone publicly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tone does a eulogy or tribute usually have?",
+            "options": [
+              "Harsh and critical",
+              "Comedic and mocking",
+              "Warm, respectful, and personal",
+              "Purely technical"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where is a eulogy or tribute most often shared?",
+            "options": [
+              "In an instruction manual",
+              "In a weather report",
+              "At a memorial or celebration",
+              "In a science textbook"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a eulogy include specific stories or memories about a person?",
+            "options": [
+              "A eulogy should avoid mentioning the person at all",
+              "Specific details help capture what made the person unique and meaningful to others",
+              "Details are never included in a eulogy",
+              "Specific memories make a tribute less personal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is choosing respectful, thoughtful language especially important when writing a tribute?",
+            "options": [
+              "Word choice never matters in this type of writing",
+              "Tributes are never read aloud to an audience",
+              "The writing honours someone and is often shared with people who cared about that person",
+              "A tribute is meant to entertain with jokes only"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Volume of a Sphere",
+        "summary": "Grade 6 Math strand: the volume of a sphere is found using the formula four-thirds times pi times the radius cubed, describing how much space is enclosed inside a perfectly round three-dimensional shape.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What formula is used to find the volume of a sphere?",
+            "options": [
+              "Two-thirds times pi times the radius cubed",
+              "Pi times the radius squared times the height",
+              "Four-thirds times pi times the radius cubed",
+              "Four times pi times the radius squared"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What measurement is needed to calculate the volume of a sphere?",
+            "options": [
+              "The circumference alone",
+              "The surface area alone",
+              "Only the diameter with no other calculation",
+              "The radius"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A basketball is an example of what three-dimensional shape?",
+            "options": [
+              "A cylinder",
+              "A cone",
+              "A sphere",
+              "A pyramid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a spheres radius is doubled, what happens to its volume?",
+            "options": [
+              "It increases significantly, by a factor of eight",
+              "It doubles exactly",
+              "It decreases",
+              "It stays exactly the same"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Volume of a sphere, like all volume measurements, is expressed in what type of units?",
+            "options": [
+              "No units at all",
+              "Linear units only",
+              "Cubic units",
+              "Square units"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Keystone Species and Their Role in Ecosystems",
+        "summary": "Grade 6 Science strand: a keystone species is an organism that has an unusually large effect on its ecosystem relative to its population size, and removing it can cause significant changes throughout the food web.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A species found only in captivity",
+              "A species that has no effect on its ecosystem",
+              "An organism that has an unusually large effect on its ecosystem relative to its population size",
+              "The most numerous species in an ecosystem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen to an ecosystem if a keystone species is removed?",
+            "options": [
+              "Significant changes could occur throughout the food web",
+              "Nothing in the ecosystem would change at all",
+              "Other species would be completely unaffected",
+              "The ecosystem would automatically become more stable"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Sea otters are often cited as a keystone species because they help control the population of which organism?",
+            "options": [
+              "Whales",
+              "Sea urchins",
+              "Sharks",
+              "Seabirds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is population size not always a good indicator of a species importance to an ecosystem?",
+            "options": [
+              "A species with a small population, like a keystone species, can still have a major impact on the ecosystem",
+              "Ecosystems never depend on any single species",
+              "Population size always determines a species importance",
+              "Every species has an identical effect on its ecosystem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do conservationists pay special attention to protecting keystone species?",
+            "options": [
+              "Protecting a keystone species only affects that one species",
+              "Keystone species have no real impact on conservation efforts",
+              "Keystone species are always the largest animals in an ecosystem",
+              "Protecting them can help maintain the balance and health of an entire ecosystem"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The St. Lawrence Seaway — A Vital Trade Route",
+        "summary": "Grade 6 Social Studies strand: the St. Lawrence Seaway is a system of canals and locks that allows large ships to travel between the Atlantic Ocean and the Great Lakes, supporting trade and transportation for Canada and the United States.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What does the St. Lawrence Seaway allow large ships to do?",
+            "options": [
+              "Travel between the Atlantic Ocean and the Great Lakes",
+              "Travel underground through tunnels",
+              "Fly between two countries",
+              "Cross the Pacific Ocean directly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What structures help ships navigate changes in water level along the Seaway?",
+            "options": [
+              "Locks",
+              "Dams built only for flood control",
+              "Bridges only",
+              "Tunnels"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two countries share and jointly manage the St. Lawrence Seaway?",
+            "options": [
+              "Canada and the United States",
+              "Canada and the United Kingdom",
+              "The United States and Mexico",
+              "Canada and Mexico"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the St. Lawrence Seaway considered important for trade?",
+            "options": [
+              "It blocks all shipping between the two countries",
+              "It allows goods to be shipped efficiently between inland regions and international markets",
+              "It has no connection to trade or shipping",
+              "It only allows small recreational boats to pass through"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a system of locks be necessary along a waterway like the St. Lawrence Seaway?",
+            "options": [
+              "Locks prevent any ships from passing through at all",
+              "Locks have no function related to water levels",
+              "Locks are used only to collect tolls from ships",
+              "Locks raise or lower ships to match different water levels along the route"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "label": "Day 125 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Portmanteau Words and Blends",
+        "summary": "Grade 6 Language strand: a portmanteau, or blend, is a word formed by combining parts of two other words into one, such as brunch from breakfast and lunch, to create a new meaning.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a portmanteau word?",
+            "options": [
+              "A word with only one syllable",
+              "A word borrowed directly from another language with no change",
+              "A word formed by combining parts of two other words",
+              "A word with no meaning at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an example of a portmanteau?",
+            "options": [
+              "Brunch",
+              "Table",
+              "Happy",
+              "Quickly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two words combine to form the portmanteau brunch?",
+            "options": [
+              "Brew and lunch",
+              "Breakfast and lunch",
+              "Break and munch",
+              "Bread and lunch"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two words combine to form the portmanteau smog?",
+            "options": [
+              "Smile and jog",
+              "Small and dog",
+              "Smooth and log",
+              "Smoke and fog"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do new portmanteau words sometimes appear as technology and culture change?",
+            "options": [
+              "Language never changes to reflect new inventions",
+              "New words can only be created by combining entire sentences",
+              "Portmanteau words are never created for new ideas",
+              "Speakers often blend existing words to quickly name new ideas or inventions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Converting Fractions to Repeating and Terminating Decimals",
+        "summary": "Grade 6 Math strand: when a fraction is converted to a decimal by dividing the numerator by the denominator, the result either terminates, ending after a certain number of digits, or repeats a digit pattern forever.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is a terminating decimal?",
+            "options": [
+              "A decimal that is always a whole number",
+              "A decimal that repeats forever",
+              "A decimal with no digits after the decimal point",
+              "A decimal that ends after a certain number of digits"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a repeating decimal?",
+            "options": [
+              "A decimal in which one or more digits repeat forever",
+              "A decimal that can never be written as a fraction",
+              "A decimal with no fractional part",
+              "A decimal that always ends after two digits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 1/4 written as a decimal?",
+            "options": [
+              "0.14",
+              "0.33",
+              "0.25",
+              "0.4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 1/3 written as a decimal?",
+            "options": [
+              "0.03",
+              "0.13",
+              "0.3 (terminating)",
+              "0.333... (repeating)"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can you convert any fraction into a decimal?",
+            "options": [
+              "Divide the numerator by the denominator",
+              "Multiply the numerator by the denominator",
+              "Add the numerator and denominator together",
+              "Subtract the denominator from the numerator"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Pulleys — A Simple Machine for Lifting",
+        "summary": "Grade 6 Science strand: a pulley is a simple machine made of a wheel and a rope or cable, used to change the direction of a force or to make lifting heavy objects easier, especially when combined into a system of multiple pulleys.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a pulley?",
+            "options": [
+              "A device with no moving parts",
+              "A machine made entirely of gears",
+              "A tool used only for cutting materials",
+              "A simple machine made of a wheel and a rope or cable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one common use of a pulley?",
+            "options": [
+              "Measuring temperature",
+              "Making it easier to lift heavy objects",
+              "Cutting through solid rock",
+              "Generating electricity from sunlight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can a pulley system change the direction of a force?",
+            "options": [
+              "Pulleys only work if the force pushes upward",
+              "Pulling down on one end of the rope can lift an object upward on the other end",
+              "A pulley can never change the direction of a force",
+              "Pulleys eliminate the need for any force at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens when multiple pulleys are combined into a system?",
+            "options": [
+              "The effort needed to lift a heavy load can be reduced",
+              "Combining pulleys has no effect on lifting objects",
+              "The load always becomes impossible to lift",
+              "Extra pulleys always increase the effort required"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which everyday object commonly uses a pulley system?",
+            "options": [
+              "A pair of scissors",
+              "A flagpole",
+              "A doorknob",
+              "A wooden ramp"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Komagata Maru Incident",
+        "summary": "Grade 6 Social Studies strand: in 1914, the ship Komagata Maru arrived in Vancouver carrying passengers from India who were denied entry to Canada under discriminatory immigration laws of the time, an event now recognized as an injustice in Canadian history.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Komagata Maru?",
+            "options": [
+              "A ship carrying passengers from India that arrived in Vancouver in 1914",
+              "A modern cruise ship",
+              "A type of Canadian currency",
+              "A Canadian warship built in the 1800s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happened to most of the passengers aboard the Komagata Maru?",
+            "options": [
+              "They were granted full Canadian citizenship on arrival",
+              "They were welcomed immediately with no restrictions",
+              "They were denied entry to Canada under discriminatory immigration laws",
+              "They never actually reached Canada by ship"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did the Komagata Maru incident take place?",
+            "options": [
+              "1867",
+              "1945",
+              "1914",
+              "1970"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Komagata Maru incident now studied as an example of historical injustice?",
+            "options": [
+              "It reflects discriminatory immigration policies that unfairly excluded people based on their origin",
+              "The incident was entirely fictional and never occurred",
+              "The event demonstrates fair and equal treatment of all passengers",
+              "It has no connection to immigration history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might learning about events like the Komagata Maru incident be valuable for understanding Canadian history today?",
+            "options": [
+              "Historical injustices have no connection to present-day understanding",
+              "It helps Canadians understand past injustices and how immigration policy has changed over time",
+              "This event has no relevance to modern Canadian society",
+              "Immigration policy in Canada has never changed since 1914"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "label": "Day 126 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Evaluating Online Product Reviews and Testimonials",
+        "summary": "Grade 6 Language strand: online product reviews and testimonials can be genuine or misleading, so readers should consider the reviewers credibility, look for detailed and specific feedback, and watch for signs of fake or paid reviews.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What should readers consider when evaluating an online product review?",
+            "options": [
+              "The reviewers credibility and how detailed the feedback is",
+              "The colour of the product shown in the review",
+              "Whether the review uses capital letters",
+              "Only the star rating and nothing else"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a warning sign that a review might be fake?",
+            "options": [
+              "A review with a moderate, balanced rating",
+              "Vague praise with no specific details about the product",
+              "A review that describes both strengths and weaknesses",
+              "A review written by someone who used the product"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a company pay for positive reviews?",
+            "options": [
+              "Positive reviews have no effect on sales",
+              "Paid reviews are always required by law",
+              "Companies never have any influence over online reviews",
+              "To make their product appear more trustworthy or popular than it really is"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to read several reviews instead of just one before making a decision?",
+            "options": [
+              "Reviews are never useful when making decisions",
+              "Reading multiple reviews gives a more balanced and reliable picture of a product",
+              "A single review always tells the whole truth",
+              "Reading more reviews never changes ones understanding of a product"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which detail in a review would most likely indicate it is genuine?",
+            "options": [
+              "A review posted before the product was ever released",
+              "A specific description of how the product performed over time",
+              "An unusually large number of identical five-star reviews posted the same day",
+              "A generic comment with no details, such as great product"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Translating Word Problems into Algebraic Expressions",
+        "summary": "Grade 6 Math strand: translating a word problem into an algebraic expression means identifying an unknown quantity, assigning it a variable, and using mathematical operations to represent the relationships described in words.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first step in translating a word problem into an algebraic expression?",
+            "options": [
+              "Identifying the unknown quantity and assigning it a variable",
+              "Immediately solving for a numerical answer",
+              "Rewriting the problem without any numbers",
+              "Ignoring any numbers mentioned in the problem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which expression represents five more than a number n?",
+            "options": [
+              "5n",
+              "n - 5",
+              "5/n",
+              "n + 5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which expression represents three times a number x, decreased by two?",
+            "options": [
+              "3x + 2",
+              "2x - 3",
+              "3x - 2",
+              "x - 3 x 2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a word problem says a number divided by four equals twelve, which equation represents this?",
+            "options": [
+              "n - 4 = 12",
+              "n / 4 = 12",
+              "4n = 12",
+              "n + 4 = 12"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is translating word problems into algebraic expressions a useful skill?",
+            "options": [
+              "Word problems can never be represented using variables",
+              "It removes the need to understand the original word problem",
+              "It allows real-world situations to be represented and solved using mathematical tools",
+              "This skill has no connection to solving real problems"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Metamorphosis — Life Cycles of Insects and Amphibians",
+        "summary": "Grade 6 Science strand: metamorphosis is a process in which an animal undergoes dramatic physical changes as it develops, seen in insects like butterflies, which pass through egg, larva, pupa, and adult stages, and in amphibians like frogs.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is metamorphosis?",
+            "options": [
+              "A process in which an animal never changes throughout its life",
+              "A process found only in plants",
+              "A type of hibernation",
+              "A process in which an animal undergoes dramatic physical changes as it develops"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are the four stages of complete metamorphosis in a butterfly?",
+            "options": [
+              "Egg, adult, larva, pupa",
+              "Larva, egg, adult, pupa",
+              "Pupa, larva, adult, egg",
+              "Egg, larva, pupa, adult"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a caterpillar an example of in a butterflys life cycle?",
+            "options": [
+              "The pupa stage",
+              "The egg stage",
+              "The adult stage",
+              "The larva stage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a tadpole change as it undergoes metamorphosis into an adult frog?",
+            "options": [
+              "It shrinks back into an egg",
+              "It develops wings and flies away",
+              "It stays exactly the same throughout its entire life",
+              "It develops legs and lungs while losing its tail and gills"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might metamorphosis be an advantage for a species survival?",
+            "options": [
+              "Different life stages can use different food sources and habitats, reducing competition",
+              "Species that undergo metamorphosis cannot adapt to their environment",
+              "Metamorphosis has no benefit for a species",
+              "All life stages of a species always compete for the same resources"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Avro Arrow — A Canadian Aviation Story",
+        "summary": "Grade 6 Social Studies strand: the Avro Arrow was an advanced Canadian-designed fighter jet developed in the 1950s, celebrated for its innovative engineering, but the program was cancelled in 1959, a decision that remains a debated moment in Canadian history.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What was the Avro Arrow?",
+            "options": [
+              "An advanced Canadian-designed fighter jet",
+              "A famous Canadian ship",
+              "A type of Canadian passenger train",
+              "A Canadian currency design"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what decade was the Avro Arrow developed?",
+            "options": [
+              "The 1990s",
+              "The 1800s",
+              "The 1700s",
+              "The 1950s"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happened to the Avro Arrow program in 1959?",
+            "options": [
+              "It won an international design award and continued for decades",
+              "It was renamed but never changed",
+              "It was cancelled",
+              "It was expanded into a worldwide fleet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the cancellation of the Avro Arrow still debated by historians today?",
+            "options": [
+              "People disagree about whether the decision was the right economic and strategic choice",
+              "No one has ever discussed the cancellation since it happened",
+              "The cancellation had no effect on the Canadian aviation industry",
+              "The program was never actually cancelled"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was the Avro Arrow considered an impressive engineering achievement for its time?",
+            "options": [
+              "It featured advanced design and technology that was innovative for the era",
+              "It was the slowest aircraft ever built in Canada",
+              "It had no unique design features compared to other aircraft",
+              "It was built using outdated technology with no innovation"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "label": "Day 127 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Impromptu Speaking",
+        "summary": "Grade 6 Language strand: impromptu speaking means speaking on a topic with little or no advance preparation, requiring a speaker to quickly organize their thoughts into a clear beginning, middle, and end.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is impromptu speaking?",
+            "options": [
+              "Speaking on a topic with little or no advance preparation",
+              "Speaking only after weeks of preparation",
+              "A type of written essay",
+              "Reading a fully written speech word for word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a helpful strategy for organizing thoughts quickly during an impromptu speech?",
+            "options": [
+              "Avoiding eye contact with the audience",
+              "Speaking as fast as possible with no structure",
+              "Refusing to speak until fully prepared",
+              "Mentally outlining a beginning, middle, and end before speaking"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might impromptu speaking feel more challenging than a prepared speech?",
+            "options": [
+              "There is little time to plan exactly what to say",
+              "Prepared speeches are always shorter than impromptu ones",
+              "Impromptu speaking requires no thinking at all",
+              "Impromptu speeches are always written down first"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which situation is an example of impromptu speaking?",
+            "options": [
+              "Presenting a slideshow prepared over several weeks",
+              "Answering an unexpected question from a classmate during a group discussion",
+              "Reading a memorized poem after months of practice",
+              "Reciting a speech from a printed script"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is practising impromptu speaking a useful skill in everyday life?",
+            "options": [
+              "This skill has no real-world application",
+              "Unexpected situations never require clear communication",
+              "Impromptu speaking is only useful in formal debates",
+              "People often need to respond thoughtfully to unexpected questions or situations"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Calculating Weighted Averages",
+        "summary": "Grade 6 Math strand: a weighted average gives different values different levels of importance before averaging, multiplying each value by its weight, adding the results, and dividing by the total of the weights.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a weighted average take into account that a simple average does not?",
+            "options": [
+              "Only the smallest value in a data set",
+              "Nothing different from a simple average",
+              "Only the largest value in a data set",
+              "The different levels of importance, or weight, given to each value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a weighted average calculated?",
+            "options": [
+              "Add all values together and divide by the number of values only",
+              "Subtract the smallest value from the largest value",
+              "Multiply each value by its weight, add the results, then divide by the total weight",
+              "Multiply all the values together"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a test is worth twice as much as a quiz, how is the test treated when calculating a weighted average grade?",
+            "options": [
+              "It counts twice as much as the quiz toward the final average",
+              "It always lowers the final average",
+              "It counts exactly the same as the quiz",
+              "It is not included in the average at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a teacher use weighted averages to calculate a students final grade?",
+            "options": [
+              "All assignments must always count exactly the same amount",
+              "Weighted averages are never used in real grading systems",
+              "Some assignments, like exams, may be more significant than others, like small quizzes",
+              "Weighted averages remove the need to grade individual assignments"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a weighted average, what happens to a value with a very high weight?",
+            "options": [
+              "It has a greater influence on the overall average",
+              "It has no influence on the overall average",
+              "It always lowers the final result",
+              "It is automatically excluded from the calculation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bioaccumulation in Food Chains",
+        "summary": "Grade 6 Science strand: bioaccumulation occurs when harmful substances, such as certain pollutants, build up in an organisms body over time and become more concentrated at each higher level of a food chain, a process called biomagnification.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is bioaccumulation?",
+            "options": [
+              "A process with no connection to food chains",
+              "The buildup of harmful substances in an organisms body over time",
+              "The rapid removal of pollutants from an ecosystem",
+              "A process that only affects plants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is biomagnification?",
+            "options": [
+              "A process unrelated to bioaccumulation",
+              "The process of removing toxins from water",
+              "The increasing concentration of harmful substances at each higher level of a food chain",
+              "A decrease in pollutant levels as they move up a food chain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do top predators in a food chain often have the highest concentrations of accumulated toxins?",
+            "options": [
+              "They consume many organisms that have each already accumulated some of the toxin",
+              "Toxins disappear completely as they move up a food chain",
+              "Top predators never consume other organisms",
+              "Top predators are immune to all toxins"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a substance that can bioaccumulate in ecosystems?",
+            "options": [
+              "Rainwater with no contaminants",
+              "Certain industrial pollutants and pesticides",
+              "Ordinary table salt in tiny amounts",
+              "Pure oxygen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding bioaccumulation important for protecting both wildlife and human health?",
+            "options": [
+              "Toxins never move between different species",
+              "Bioaccumulation has no connection to human health",
+              "Substances that build up in animals can eventually affect the humans who eat them",
+              "Only the smallest organisms in a food chain are affected by toxins"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Halifax Explosion",
+        "summary": "Grade 6 Social Studies strand: the Halifax Explosion of 1917 occurred when two ships collided in Halifax Harbour, one carrying wartime explosives, causing a massive blast that devastated the city and remains one of the largest human-made explosions in history before nuclear weapons.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What caused the Halifax Explosion?",
+            "options": [
+              "A volcanic eruption near the city",
+              "A collision between two ships, one carrying wartime explosives",
+              "An accidental fire in a forest",
+              "A severe earthquake"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year did the Halifax Explosion occur?",
+            "options": [
+              "1917",
+              "1929",
+              "1945",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What effect did the explosion have on the city of Halifax?",
+            "options": [
+              "It had no impact on the city at all",
+              "It caused massive destruction and loss of life throughout the city",
+              "It only affected ships far out at sea",
+              "It improved the citys infrastructure immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Halifax Explosion historically significant beyond Nova Scotia?",
+            "options": [
+              "It only affected a small number of buildings",
+              "It was one of the largest human-made explosions in history before nuclear weapons",
+              "It was a minor and quickly forgotten event",
+              "It had no significance beyond the local area"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might studying disasters like the Halifax Explosion help communities today?",
+            "options": [
+              "Past disasters have no connection to modern safety planning",
+              "Studying history never helps with emergency preparedness",
+              "Understanding past disasters can inform better safety practices and emergency planning",
+              "The event has no lessons relevant to todays communities"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "label": "Day 128 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Analogies",
+        "summary": "Grade 6 Language strand: an analogy compares the relationship between one pair of words to the relationship between another pair, helping readers recognize patterns such as cause and effect, part to whole, or synonym relationships.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does an analogy compare?",
+            "options": [
+              "The length of two sentences",
+              "Only the spelling of two words",
+              "The relationship between one pair of words and the relationship between another pair",
+              "The punctuation used in two different texts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the analogy bird is to nest as bee is to ___, which word best completes it?",
+            "options": [
+              "hive",
+              "sting",
+              "flower",
+              "honey"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of relationship does the analogy happy is to sad as fast is to slow show?",
+            "options": [
+              "Cause and effect relationship",
+              "Part to whole relationship",
+              "Opposite, or antonym, relationship",
+              "Synonym relationship"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are analogies useful for building vocabulary?",
+            "options": [
+              "Analogies replace the need to learn new words",
+              "They help readers see how word meanings and relationships connect to one another",
+              "Analogies never involve word meanings",
+              "Analogies are only used in mathematics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the analogy finger is to hand as toe is to ___, which word best completes it?",
+            "options": [
+              "foot",
+              "shoe",
+              "nail",
+              "leg"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Cumulative Frequency Tables and Graphs",
+        "summary": "Grade 6 Math strand: a cumulative frequency table shows the running total of frequencies as data values increase, and this running total can be graphed to show how data accumulates across a range of values.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does a cumulative frequency table show?",
+            "options": [
+              "The running total of frequencies as data values increase",
+              "The average of all data values",
+              "A list of data values with no totals",
+              "Only the single most common data value"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 5 students scored below 60 and 8 more scored between 60 and 70, what is the cumulative frequency up to 70?",
+            "options": [
+              "5",
+              "8",
+              "3",
+              "13"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As you move down a cumulative frequency table, what happens to the running total?",
+            "options": [
+              "It resets to zero at each row",
+              "It has no consistent pattern",
+              "It stays the same or increases, but never decreases",
+              "It always decreases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What shape does a cumulative frequency graph typically have?",
+            "options": [
+              "A line that always decreases",
+              "A curve or line that steadily rises from left to right",
+              "A series of unconnected points with no pattern",
+              "A straight horizontal line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a cumulative frequency graph be useful for finding the median of a data set?",
+            "options": [
+              "It has no connection to finding the median",
+              "Median values cannot be estimated using graphs",
+              "It can show the point where half the total data has accumulated",
+              "It only shows the smallest value in the data"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Geothermal Energy — Heat from the Earth",
+        "summary": "Grade 6 Science strand: geothermal energy is a renewable energy source that harnesses heat from deep within the Earth, often used to generate electricity or heat buildings directly in regions with accessible underground heat.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is geothermal energy?",
+            "options": [
+              "Energy captured only from sunlight",
+              "A type of energy that cannot be renewed",
+              "A renewable energy source that harnesses heat from within the Earth",
+              "Energy generated by burning fossil fuels"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does the heat used in geothermal energy come from?",
+            "options": [
+              "Burning coal underground",
+              "Deep within the Earth",
+              "The surface of the ocean",
+              "Wind currents high in the atmosphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can geothermal energy be used to generate electricity?",
+            "options": [
+              "Geothermal energy cannot be converted into electricity",
+              "Heat from underground can produce steam that turns turbines connected to generators",
+              "It only works when the sun is shining",
+              "It requires burning fuel to create electricity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is geothermal energy considered a renewable energy source?",
+            "options": [
+              "The heat from the Earths interior is continuously produced and does not run out on a human timescale",
+              "Renewable energy sources always come from the sun only",
+              "Geothermal energy is created entirely by human activity",
+              "Geothermal energy is a finite resource that will run out very soon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might geothermal energy be more practical in some regions of the world than others?",
+            "options": [
+              "Every region of the world has identical access to underground heat",
+              "Geothermal energy is equally available everywhere on Earth",
+              "Geothermal energy has no connection to geography",
+              "Accessible underground heat is more available in certain geologically active areas"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas National Sport — Lacrosse and Hockey",
+        "summary": "Grade 6 Social Studies strand: lacrosse, originally developed by Indigenous peoples, is legally recognized as Canadas national summer sport, while ice hockey, deeply woven into Canadian culture, is recognized as the national winter sport.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "Which sport was originally developed by Indigenous peoples in North America?",
+            "options": [
+              "Ice hockey",
+              "Lacrosse",
+              "Basketball",
+              "Soccer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is Canadas legally recognized national summer sport?",
+            "options": [
+              "Lacrosse",
+              "Ice hockey",
+              "Tennis",
+              "Baseball"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is Canadas legally recognized national winter sport?",
+            "options": [
+              "Skiing",
+              "Lacrosse",
+              "Curling",
+              "Ice hockey"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is lacrosse considered an important part of Indigenous culture and history?",
+            "options": [
+              "Lacrosse has never been played by Indigenous peoples",
+              "It originated among Indigenous peoples and holds deep cultural and spiritual significance",
+              "It was invented entirely in modern times with no historical roots",
+              "Lacrosse has no connection to Indigenous history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might having two officially recognized national sports reflect aspects of Canadian identity and geography?",
+            "options": [
+              "National sports have no connection to a countrys climate or history",
+              "Canadas seasonal climate and diverse history are reflected in a summer and a winter national sport",
+              "The choice of national sports was made with no consideration of Canadian culture",
+              "Every country has exactly two national sports for the same reasons"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "label": "Day 129 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Making Text-to-Self, Text-to-Text, and Text-to-World Connections",
+        "summary": "Grade 6 Language strand: readers deepen comprehension by making connections, relating a text to their own experiences (text-to-self), to other texts they have read (text-to-text), or to events and issues beyond the text (text-to-world).",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What is a text-to-self connection?",
+            "options": [
+              "Relating a text to ones own experiences",
+              "Comparing two different books",
+              "Ignoring personal experience while reading",
+              "Connecting a text to a historical event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a text-to-text connection?",
+            "options": [
+              "Relating a text to a current news event",
+              "Relating a text to another text a reader has read",
+              "Relating a text only to personal memories",
+              "Reading a text without making any comparisons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a text-to-world connection?",
+            "options": [
+              "Relating a text only to a single other book",
+              "Ignoring the broader context of a text entirely",
+              "Relating a text to events or issues beyond the text, such as in the wider world",
+              "Relating a text only to the readers own life"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a reader remembers a similar personal experience while reading a story about moving to a new school, what type of connection is this?",
+            "options": [
+              "Text-to-text",
+              "Not a connection at all",
+              "Text-to-self",
+              "Text-to-world"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do these types of connections help deepen reading comprehension?",
+            "options": [
+              "They help readers relate new information to what they already know, making the text more meaningful",
+              "Only text-to-text connections are useful for comprehension",
+              "Making connections has no effect on understanding",
+              "Connections always distract readers from the main text"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Reading and Writing Large Numbers in the Millions and Billions",
+        "summary": "Grade 6 Math strand: large numbers in the millions and billions are read and written using place value groups separated by commas, helping students make sense of quantities like populations, distances, and budgets.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "In the number 3,254,000, what place value does the digit 3 represent?",
+            "options": [
+              "Thousands",
+              "Millions",
+              "Hundreds",
+              "Tens"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many zeros follow the 1 in one billion when written as a numeral?",
+            "options": [
+              "Twelve",
+              "Three",
+              "Nine",
+              "Six"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is written correctly using commas to separate place value groups?",
+            "options": [
+              "4,500,000",
+              "45,00,000",
+              "4500000,",
+              "4500,000"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might understanding large numbers like millions and billions be useful when reading news about population or government budgets?",
+            "options": [
+              "Large numbers never appear in real-world contexts",
+              "It helps readers make sense of the true scale of these quantities",
+              "Millions and billions are always treated as the same value",
+              "Understanding place value has no connection to real-world numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which number is greater: 750 million or 1.2 billion?",
+            "options": [
+              "It cannot be determined",
+              "They are equal",
+              "1.2 billion",
+              "750 million"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Watersheds and Drainage Basins",
+        "summary": "Grade 6 Science strand: a watershed, or drainage basin, is an area of land where all the surface water, from rain and melting snow, drains into a common river, lake, or other body of water.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a watershed?",
+            "options": [
+              "A body of water with no connection to surrounding land",
+              "A type of underground cave system",
+              "A device used to measure rainfall",
+              "An area of land where all surface water drains into a common body of water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are the two main sources of water that flow into a watershed?",
+            "options": [
+              "Underground mining and drilling",
+              "Ocean currents and tides",
+              "Industrial waste and sewage only",
+              "Rain and melting snow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does water within a watershed eventually drain to?",
+            "options": [
+              "It never moves anywhere",
+              "A common river, lake, or other body of water",
+              "Directly into outer space",
+              "Only into the soil, with no further movement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might pollution entering a watershed in one location affect communities far downstream?",
+            "options": [
+              "Watersheds have no connection between different locations",
+              "Downstream communities are never affected by upstream events",
+              "Water carries pollutants as it flows through the watershed toward a common body of water",
+              "Pollution never spreads beyond its original location"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is protecting a watershed considered important for both ecosystems and human communities?",
+            "options": [
+              "Many people and wildlife depend on the same water sources within a watershed",
+              "Watersheds are unrelated to drinking water supplies",
+              "Watersheds have no impact on either ecosystems or communities",
+              "Protecting a watershed only benefits a single organism"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Canadian Pacific Railway and Nation-Building",
+        "summary": "Grade 6 Social Studies strand: the Canadian Pacific Railway, completed in 1885, connected the country from coast to coast, fulfilling a promise made to British Columbia and playing a major role in Canadian settlement, trade, and national unity.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What did the completion of the Canadian Pacific Railway achieve?",
+            "options": [
+              "It connected Canada to another continent by land",
+              "It had no effect on transportation in Canada",
+              "It replaced all water-based transportation in Canada",
+              "It connected the country from coast to coast"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year was the Canadian Pacific Railway completed?",
+            "options": [
+              "1929",
+              "1945",
+              "1867",
+              "1885"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What promise to a Canadian province motivated the building of the railway?",
+            "options": [
+              "A promise made to British Columbia to join Confederation",
+              "A promise involving Quebec sovereignty",
+              "No promise was involved in building the railway",
+              "A promise made to Newfoundland before it joined Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Canadian Pacific Railway often described as playing a major role in nation-building?",
+            "options": [
+              "It discouraged settlement and trade across Canada",
+              "It had no effect on how the country developed",
+              "It helped unify the country by enabling trade, settlement, and transportation across vast distances",
+              "It only connected two neighbouring cities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might building a railway across Canadas varied landscape, including the Rocky Mountains, have been a significant challenge?",
+            "options": [
+              "Railways never need to account for geography",
+              "Canadas landscape is completely flat from coast to coast",
+              "The railway was built entirely underground to avoid geography",
+              "Workers had to overcome difficult and diverse terrain across a vast distance"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "label": "Day 130 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Poetic Forms, and Reading Strategies",
+        "summary": "Grade 6 Language strand review: students revisit subject-verb agreement, comparative and superlative adjectives, limericks, eulogies, portmanteau words, online reviews, impromptu speaking, analogies, and reading connections.",
+        "resourceLabel": "TVO Learn: Grade 6 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "quiz": [
+          {
+            "q": "What does subject-verb agreement require?",
+            "options": [
+              "A verb that always ends in s",
+              "A sentence with no verb at all",
+              "A subject placed after the verb",
+              "A verb that matches its subject in number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many lines does a limerick have?",
+            "options": [
+              "Five",
+              "Seven",
+              "Ten",
+              "Three"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a portmanteau word?",
+            "options": [
+              "A word formed by combining parts of two other words",
+              "A word with only one syllable",
+              "A word borrowed directly from another language with no change",
+              "A word with no meaning at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an analogy compare?",
+            "options": [
+              "The length of two sentences",
+              "The relationship between one pair of words and the relationship between another pair",
+              "Only the spelling of two words",
+              "The punctuation used in two different texts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a text-to-self connection?",
+            "options": [
+              "Relating a text to ones own experiences",
+              "Connecting a text to a historical event",
+              "Comparing two different books",
+              "Ignoring personal experience while reading"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Number Sense, Geometry, and Data Management",
+        "summary": "Grade 6 Math strand review: students revisit scientific notation, the sum of interior angles in polygons, the volume of a sphere, translating word problems into expressions, and weighted averages.",
+        "resourceLabel": "TVO Learn: Grade 6 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "quiz": [
+          {
+            "q": "What does scientific notation help express?",
+            "options": [
+              "Fractions with large denominators only",
+              "Numbers that have no decimal point",
+              "Very large or very small numbers in a compact form",
+              "Only numbers between 0 and 1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What formula finds the sum of the interior angles of a polygon with n sides?",
+            "options": [
+              "n times 90 degrees",
+              "(n minus 2) times 180 degrees",
+              "(n plus 2) times 180 degrees",
+              "n times 180 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What formula is used to find the volume of a sphere?",
+            "options": [
+              "Four times pi times the radius squared",
+              "Two-thirds times pi times the radius cubed",
+              "Pi times the radius squared times the height",
+              "Four-thirds times pi times the radius cubed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which expression represents five more than a number n?",
+            "options": [
+              "5n",
+              "5/n",
+              "n - 5",
+              "n + 5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a weighted average take into account that a simple average does not?",
+            "options": [
+              "Nothing different from a simple average",
+              "Only the largest value in a data set",
+              "Only the smallest value in a data set",
+              "The different levels of importance, or weight, given to each value"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Energy, Space, and Ecosystems",
+        "summary": "Grade 6 Science strand review: students revisit kinetic and potential energy, comets, asteroids, and meteors, keystone species, insect and amphibian metamorphosis, and watersheds.",
+        "resourceLabel": "TVO Learn: Grade 6 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is kinetic energy?",
+            "options": [
+              "A type of chemical reaction",
+              "Energy that never changes form",
+              "The energy of motion",
+              "Stored energy based on position"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "Ice and dust",
+              "Pure rock with no ice",
+              "Solid metal only",
+              "Liquid water only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A species that has no effect on its ecosystem",
+              "The most numerous species in an ecosystem",
+              "A species found only in captivity",
+              "An organism that has an unusually large effect on its ecosystem relative to its population size"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is metamorphosis?",
+            "options": [
+              "A process in which an animal undergoes dramatic physical changes as it develops",
+              "A type of hibernation",
+              "A process in which an animal never changes throughout its life",
+              "A process found only in plants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a watershed?",
+            "options": [
+              "A body of water with no connection to surrounding land",
+              "A device used to measure rainfall",
+              "A type of underground cave system",
+              "An area of land where all surface water drains into a common body of water"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Canadian History, Identity, and Institutions",
+        "summary": "Grade 6 Social Studies strand review: students revisit Canadian national symbols, the Persons Case, the St. Lawrence Seaway, the Avro Arrow, and the Canadian Pacific Railway.",
+        "resourceLabel": "TVO Learn: Grade 6 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "quiz": [
+          {
+            "q": "What image appears on the Canadian flag?",
+            "options": [
+              "A red maple leaf",
+              "A blue star",
+              "A green shamrock",
+              "A golden eagle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Persons Case establish?",
+            "options": [
+              "A change to Canadas national currency",
+              "That women are legally recognized as persons under Canadian law",
+              "That only men could serve in government",
+              "A new set of provincial boundaries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the St. Lawrence Seaway allow large ships to do?",
+            "options": [
+              "Travel between the Atlantic Ocean and the Great Lakes",
+              "Cross the Pacific Ocean directly",
+              "Fly between two countries",
+              "Travel underground through tunnels"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Avro Arrow?",
+            "options": [
+              "A famous Canadian ship",
+              "An advanced Canadian-designed fighter jet",
+              "A Canadian currency design",
+              "A type of Canadian passenger train"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What did the completion of the Canadian Pacific Railway achieve?",
+            "options": [
+              "It connected Canada to another continent by land",
+              "It replaced all water-based transportation in Canada",
+              "It had no effect on transportation in Canada",
+              "It connected the country from coast to coast"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
