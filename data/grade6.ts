@@ -4322,6 +4322,386 @@ const curriculum: DayContent[] = [
      {q:"What is the Trans-Canada Highway?", options:["A highway system stretching across all ten provinces","A concept unrelated to Canadian geography","A railway built in the nineteenth century","A single highway found only in Ontario"], answer:0}
    ]},
 ]},
+{day:111, label:"Day 111 — Mon", subjects:[
+  {subject:"Language", title:"Poetry: Writing a Haiku", summary:"Grade 6 Language strand: a haiku is a three-line Japanese poem with a 5-7-5 syllable pattern, traditionally focused on nature or a single vivid moment.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"How many lines does a haiku have?", options:["Three","Two","Four","Five"], answer:0},
+     {q:"What is the traditional syllable pattern of a haiku?", options:["3-3-3","5-7-5","4-4-4","7-5-7"], answer:1},
+     {q:"What subject do haiku poems traditionally focus on?", options:["Complex arguments","Nature or a single vivid moment","Long historical events","Grocery lists"], answer:1},
+     {q:"Where does the haiku form originate from?", options:["Egypt","Japan","France","England"], answer:1},
+     {q:"Why might a haikus short length be challenging to write?", options:["Length does not matter in a haiku","Haiku must always rhyme","Haiku have no rules at all","Every word must be chosen carefully to fit the syllable count"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Volume of Cones and Pyramids", summary:"Grade 6 Math strand: the volume of a cone or pyramid is one-third the volume of a cylinder or prism with the same base area and height.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"The volume of a cone is what fraction of a cylinder with the same base and height?", options:["One-half","Two-thirds","The same as the cylinder","One-third"], answer:3},
+     {q:"The volume of a pyramid is what fraction of a prism with the same base and height?", options:["Three-quarters","One-third","One-half","The same as the prism"], answer:1},
+     {q:"If a cylinder has a volume of 120 cubic units, what is the volume of a cone with the same base and height?", options:["40","60","120","80"], answer:0},
+     {q:"What two measurements are typically needed to find the volume of a pyramid?", options:["Base area and height","Only the radius","Only the height","Only the base area"], answer:0},
+     {q:"Volume of any 3D shape is expressed in ___.", options:["No units at all","Linear units only","Cubic units","Square units"], answer:2}
+   ]},
+  {subject:"Science", title:"The Human Ear and How We Hear", summary:"Grade 6 Science strand: the ear collects sound vibrations and converts them into signals the brain interprets as sound, using structures like the eardrum and inner ear.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does the ear collect and convert into signals?", options:["Chemical signals","Heat energy","Sound vibrations","Light waves"], answer:2},
+     {q:"What structure vibrates when sound waves enter the ear?", options:["The tongue","The pupil","The nose","The eardrum"], answer:3},
+     {q:"Where are these signals ultimately interpreted as sound?", options:["The lungs","The brain","The stomach","The skin"], answer:1},
+     {q:"Why is protecting our ears from very loud sounds important?", options:["Sound has no effect on ears","Loud sounds always improve hearing","Ears cannot be damaged","Loud sounds can damage hearing over time"], answer:3},
+     {q:"The ear is part of which body system?", options:["The skeletal system","The circulatory system","The nervous system (sensory)","The digestive system"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The RCMP — Canadas National Police Force", summary:"Grade 6 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is Canadas national police force, responsible for enforcing federal laws and providing policing services across the country.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What does RCMP stand for?", options:["Regional Canadian Municipal Patrol","Royal Canadian Medical Program","Real Canadian Mail Post","Royal Canadian Mounted Police"], answer:3},
+     {q:"What is the RCMPs main responsibility?", options:["Building bridges","Running restaurants","Teaching in schools","Enforcing federal laws across Canada"], answer:3},
+     {q:"What is the RCMP historically known for wearing?", options:["A blue business suit","A firefighter helmet","A red serge uniform","A chefs apron"], answer:2},
+     {q:"Why does Canada have both local police and a national police force?", options:["It replaces all city police","Only cities need police","Different levels of law enforcement handle different responsibilities","National police are unnecessary"], answer:2},
+     {q:"The RCMP is an example of a service provided at the ___ level of government.", options:["Only provincial","Only municipal","International","Federal"], answer:3}
+   ]},
+]},
+{day:112, label:"Day 112 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Onomatopoeia and Alliteration as Sound Devices", summary:"Grade 6 Language strand: onomatopoeia uses words that imitate sounds, like buzz or crash, while alliteration repeats beginning consonant sounds, both adding rhythm and vividness to writing.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is onomatopoeia?", options:["A grammar rule","A math term","Words that imitate the sounds they describe","A type of punctuation"], answer:2},
+     {q:"Which word is an example of onomatopoeia?", options:["Table","Happy","Buzz","Quickly"], answer:2},
+     {q:"What is alliteration?", options:["A number pattern","The repetition of beginning consonant sounds in nearby words","A type of rhyme scheme","A punctuation mark"], answer:1},
+     {q:"Which phrase uses alliteration?", options:["The dog ran fast","Slippery snakes slither silently","She opened the door","They walked home"], answer:1},
+     {q:"Why do writers use onomatopoeia and alliteration?", options:["To confuse readers on purpose","To remove all sound imagery","To make writing purely factual","To add rhythm and vividness to their writing"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Scatter Plots and Line of Best Fit", summary:"Grade 6 Math strand: a scatter plot shows pairs of related data as points, and a line of best fit is a straight line drawn to approximate the overall trend of the data.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a scatter plot show?", options:["Pairs of related data as points on a graph","A single number","A list of names","Only categories"], answer:0},
+     {q:"What is a line of best fit?", options:["A line connecting every single point exactly","A line that approximates the overall trend of scattered data","A curved line only","A line with no relationship to the data"], answer:1},
+     {q:"If data points trend upward together, the correlation is ___.", options:["Impossible","Negative","Positive","Nonexistent"], answer:2},
+     {q:"Why might a line of best fit be useful?", options:["It has no practical use","It helps predict values and see overall trends","It always passes through every point","It removes the need for any data"], answer:1},
+     {q:"A scatter plot with points scattered randomly with no pattern shows ___.", options:["A strong negative correlation","A perfect line","A strong positive correlation","Little to no correlation"], answer:3}
+   ]},
+  {subject:"Science", title:"Antibiotics — How They Fight Bacterial Infections", summary:"Grade 6 Science strand: antibiotics are medicines that fight bacterial infections by killing bacteria or stopping their growth, but they do not work against viruses.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What do antibiotics fight?", options:["Broken bones","Allergies only","Bacterial infections","Viral infections"], answer:2},
+     {q:"How do antibiotics typically work?", options:["They have no effect on bacteria","They cure all illnesses instantly","They only treat viruses","They kill bacteria or stop their growth"], answer:3},
+     {q:"Do antibiotics work against viruses like the common cold?", options:["Only sometimes with no explanation","No","Antibiotics only treat viruses","Yes, always"], answer:1},
+     {q:"Why is it important to use antibiotics only when a doctor prescribes them?", options:["Overuse can lead to antibiotic-resistant bacteria","Doctors are never needed","They should be used for every illness","Antibiotics have no risks"], answer:0},
+     {q:"What is antibiotic resistance?", options:["A type of vaccine","A kind of allergy","When bacteria evolve to survive antibiotics meant to kill them","When antibiotics become more effective over time"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Census — Counting Everyone in Canada", summary:"Grade 6 Social Studies strand: a census is an official count of everyone living in Canada, conducted regularly to help the government plan services and understand demographic trends.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is a census?", options:["An official count of everyone in a country","A kind of map","A type of holiday","A sports event"], answer:0},
+     {q:"Why does the Canadian government conduct a census?", options:["To confuse citizens","To have no reason","To help plan services and understand demographic trends","To sell products"], answer:2},
+     {q:"How often is the Canadian census typically taken?", options:["Every single day","At regular intervals, such as every five years","Only once ever","Never"], answer:1},
+     {q:"Which service might benefit from census information?", options:["Selling candy","Playing a game","Painting a fence","Planning new schools and hospitals"], answer:3},
+     {q:"A census helps a government understand ___.", options:["Sports scores","The weather forecast","Movie ratings","How many people live in different areas"], answer:3}
+   ]},
+]},
+{day:113, label:"Day 113 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Epistolary Writing — Telling a Story Through Letters", summary:"Grade 6 Language strand: epistolary writing tells a story through a series of letters, diary entries, or other documents, letting readers piece together events from multiple viewpoints.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is epistolary writing?", options:["A story with no characters","A story told through letters or similar documents","A grammar rule","A type of poem only"], answer:1},
+     {q:"What might an epistolary story be composed of?", options:["Only dialogue tags","Only pictures","Only numbers","Letters or diary entries"], answer:3},
+     {q:"What can epistolary writing allow readers to do?", options:["See only one perspective forever","Skip the story entirely","Piece together events from multiple viewpoints","Avoid understanding the plot"], answer:2},
+     {q:"Which is an example of an epistolary approach?", options:["A story with no writing at all","A story told entirely through letters between two characters","A textbook chapter","A dictionary entry"], answer:1},
+     {q:"Why might a writer choose the epistolary form?", options:["It always confuses the reader","To create an intimate, personal feel to the storytelling","It removes all personal voice from the writing","It has no unique effect"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Absolute Value", summary:"Grade 6 Math strand: absolute value is the distance a number is from zero on a number line, always expressed as a positive value or zero, written as |n|.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does absolute value represent?", options:["A type of fraction","Only negative numbers","The number itself with no change","The distance a number is from zero"], answer:3},
+     {q:"What is the absolute value of -7?", options:["-7","7","0","14"], answer:1},
+     {q:"What is the absolute value of 5?", options:["0","10","5","-5"], answer:2},
+     {q:"Can absolute value ever be negative?", options:["Yes, always","Only for odd numbers","No, it is always zero or positive","Only for fractions"], answer:2},
+     {q:"How is absolute value written using symbols?", options:["[n]","(n)","{n}","|n|"], answer:3}
+   ]},
+  {subject:"Science", title:"Nutrition and the Food Groups", summary:"Grade 6 Science strand: a balanced diet includes foods from different groups, such as fruits, vegetables, grains, and proteins, each providing nutrients the body needs to function well.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does a balanced diet include?", options:["Foods from different groups, like fruits, vegetables, grains, and proteins","No food groups at all","Only sugary snacks","Only one type of food"], answer:0},
+     {q:"Why does our body need a variety of nutrients?", options:["The body needs only one nutrient","Different nutrients support different body functions","Nutrients have no effect on the body","Variety has no benefit"], answer:1},
+     {q:"Which food group is a source of protein?", options:["Only candy","Meat, beans, or eggs","Only soda","Only chips"], answer:1},
+     {q:"Why might eating too much sugary or fatty food be unhealthy over time?", options:["It has no health impact at all","Sugary food is always the healthiest choice","It can contribute to health problems if not balanced with nutritious foods","The body needs only sugar"], answer:2},
+     {q:"Nutrition education helps people make informed choices about ___.", options:["What they eat to stay healthy","Only what they wear","Only how they exercise","Only how they sleep"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Sister Cities — Twin Communities Around the World", summary:"Grade 6 Social Studies strand: sister cities are communities in different countries that form a special partnership to share culture, ideas, and friendship, strengthening global connections.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is a sister city?", options:["A kind of holiday","A city with no people","A type of building","A partner community in another country"], answer:3},
+     {q:"Why might two cities become sister cities?", options:["To close their borders","To compete against each other","To ignore one another","To share culture, ideas, and friendship"], answer:3},
+     {q:"What might sister cities share with each other?", options:["Cultural events and ideas","Weather patterns only","Nothing at all","Only complaints"], answer:0},
+     {q:"How can a sister city partnership benefit a community?", options:["It replaces local government","It has no benefits","It builds global connections and cultural understanding","It isolates the community further"], answer:2},
+     {q:"Sister city partnerships can help students learn about ___.", options:["Only their own city","Weather forecasting","Other cultures and communities around the world","Nothing new"], answer:2}
+   ]},
+]},
+{day:114, label:"Day 114 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Frame Narratives — A Story Within a Story", summary:"Grade 6 Language strand: a frame narrative is a story that contains another story inside it, using an outer story to introduce or provide context for the inner tale.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a frame narrative?", options:["A grammar exercise","A single-page poem","A story that contains another story inside it","A story with no beginning"], answer:2},
+     {q:"What does the outer story in a frame narrative usually do?", options:["Has no connection to the inner story","Is always shorter than a sentence","Introduces or provides context for the inner story","Replaces the inner story entirely"], answer:2},
+     {q:"Which is an example of a frame narrative structure?", options:["A weather report","A dictionary definition","A grandmother telling her grandchild a story from her past","A single unbroken scene with one event"], answer:2},
+     {q:"Why might an author use a frame narrative?", options:["To remove the need for characters","To add depth or context to the main story","To confuse the reader with no purpose","To avoid telling any story"], answer:1},
+     {q:"A frame narrative typically has ___.", options:["Only one story with no structure","Only dialogue and no narration","An outer story and an inner story","No characters at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Between Imperial and Metric Units", summary:"Grade 6 Math strand: students convert between imperial units (like inches, feet, and pounds) and metric units (like centimetres, metres, and kilograms) using approximate conversion factors.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"Which of these is an imperial unit of length?", options:["Kilometres","Metres","Inches","Centimetres"], answer:2},
+     {q:"Which of these is a metric unit of length?", options:["Miles","Feet","Inches","Centimetres"], answer:3},
+     {q:"About how many centimetres are in one inch?", options:["10","1","2.5","100"], answer:2},
+     {q:"Which unit system is used in most scientific work worldwide?", options:["The metric system","Both equally","Neither system","The imperial system"], answer:0},
+     {q:"Why is it useful to know how to convert between imperial and metric units?", options:["Units never need to be compared","All countries use identical units","Different countries and contexts use different systems","Conversions are never needed"], answer:2}
+   ]},
+  {subject:"Science", title:"Owls — Adaptations for Nighttime Hunting", summary:"Grade 6 Science strand: owls are birds adapted for nighttime hunting, with excellent low-light vision, sensitive hearing, and silent flight feathers that help them catch prey.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"When are owls typically active?", options:["Never","Only underwater","At night","Only at noon"], answer:2},
+     {q:"What adaptation helps owls fly without being heard by prey?", options:["Silent flight feathers","Bright colours","Long tails","Loud wingbeats"], answer:0},
+     {q:"Why is excellent hearing important for an owl?", options:["It helps the owl change colour","It helps locate prey in the dark","It helps the owl swim","It has no purpose"], answer:1},
+     {q:"What word describes an animal that is mainly active at night?", options:["Nocturnal","Migratory","Diurnal","Aquatic"], answer:0},
+     {q:"Owls adaptations are examples of features that help them ___.", options:["Live only underwater","Avoid eating altogether","Lose their ability to fly","Survive by hunting effectively"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Terry Fox — A Canadian Hero and His Marathon of Hope", summary:"Grade 6 Social Studies strand: Terry Fox was a young Canadian who ran partway across Canada to raise money for cancer research, inspiring an annual tradition that continues today.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did Terry Fox do to raise money for cancer research?", options:["He ran across much of Canada","He wrote a book","He painted a mural","He built a hospital himself"], answer:0},
+     {q:"What is the name of Terry Foxs journey called?", options:["The Marathon of Hope","The Great Run","The Race for Life","The Cross-Canada Walk"], answer:0},
+     {q:"What continues today in honour of Terry Fox?", options:["An annual run raising money for cancer research","A yearly parade with no cause","Nothing continues","A national holiday with no purpose"], answer:0},
+     {q:"Why is Terry Fox considered a Canadian hero?", options:["He was a prime minister","He showed great courage and inspired others to help a cause","He was a famous actor","He was a hockey champion"], answer:1},
+     {q:"The Terry Fox Run happening in schools across Canada shows ___.", options:["A one-time-only event","A random unrelated tradition","A rule with no meaning","Canadians coming together to support a cause"], answer:3}
+   ]},
+]},
+{day:115, label:"Day 115 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Writing a Podcast Script", summary:"Grade 6 Language strand: a podcast script organizes spoken content into segments, often including an introduction, main discussion points, and a conclusion, written to sound natural when read aloud.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a podcast script used for?", options:["Only for silent reading","For a printed newspaper","Organizing spoken content for an audio recording","For a math worksheet"], answer:2},
+     {q:"What should a podcast script sound like when read aloud?", options:["Natural and conversational","Extremely formal legal language","Completely silent","A random list of words"], answer:0},
+     {q:"What are common parts of a podcast script?", options:["No structure at all","An introduction, main content, and a conclusion","Only a single word","Only a title"], answer:1},
+     {q:"Why might a podcast script include notes about tone or pacing?", options:["Pacing has no effect on listeners","Tone never matters in audio","Scripts should never include notes","To help the speaker deliver the content effectively"], answer:3},
+     {q:"Which is an example of good podcast script planning?", options:["Skipping the introduction entirely","Avoiding any structure","Recording with no planning at all","Outlining segments before writing the full script"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Identifying Outliers in a Data Set", summary:"Grade 6 Math strand: an outlier is a data value that is much higher or lower than the rest of the data, and identifying outliers can reveal errors or unusual results worth investigating.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is an outlier?", options:["The total of all values","The most common value","The middle value","A data value much higher or lower than the rest"], answer:3},
+     {q:"In the data set 12, 14, 13, 15, 62, which value is the outlier?", options:["62","14","13","12"], answer:0},
+     {q:"How can an outlier affect the mean of a data set?", options:["It always makes the mean exactly zero","It removes all other data","It can pull the mean higher or lower than expected","It has no effect on the mean"], answer:2},
+     {q:"Why is it important to notice outliers in data?", options:["They automatically fix the data","Outliers are never meaningful","Outliers should always be ignored completely","They may indicate an error or something unusual worth investigating"], answer:3},
+     {q:"Which measure of central tendency is often less affected by outliers than the mean?", options:["The median","The mean","The range","The sum"], answer:0}
+   ]},
+  {subject:"Science", title:"Bats and Echolocation", summary:"Grade 6 Science strand: bats are the only flying mammals, and many species use echolocation, bouncing sound waves off objects, to navigate and find food in the dark.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What makes bats unique among mammals?", options:["They lay eggs","They live underwater","They have no fur","They are the only mammals that truly fly"], answer:3},
+     {q:"What is echolocation?", options:["Using light to see","Using sound waves to locate objects","Using taste to navigate","Using smell to hunt"], answer:1},
+     {q:"When are most bats active?", options:["Only in winter","At night","At noon","Only underwater"], answer:1},
+     {q:"How do bats use echolocation to find food?", options:["They listen for sound bouncing back off insects","They taste the air","They smell insects from far away","They see insects glow in the dark"], answer:0},
+     {q:"Bats are classified as ___.", options:["Insects","Mammals","Reptiles","Birds"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Franklin Expedition — Arctic Exploration History", summary:"Grade 6 Social Studies strand: the Franklin Expedition was a 19th-century voyage that attempted to navigate the Arctic and became a famous mystery when the ships were lost.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the Franklin Expedition trying to do?", options:["Navigate a route through the Arctic","Sail across the Pacific","Climb a mountain range","Explore the desert"], answer:0},
+     {q:"What happened to the Franklin Expeditions ships?", options:["They never left port","They arrived successfully with no issues","They became lost, creating a historical mystery","They were never real ships"], answer:2},
+     {q:"When did the Franklin Expedition take place?", options:["Last year","It has not happened yet","In the 1800s","In ancient times"], answer:2},
+     {q:"Why do historians and scientists remain interested in the Franklin Expedition?", options:["It reveals details about Arctic exploration and history","No evidence of it has ever been found","It is a modern event","It has no historical significance"], answer:0},
+     {q:"The Franklin Expedition is an example of ___.", options:["A sport played in Canada","Historical Arctic exploration","A modern space mission","A type of Canadian currency"], answer:1}
+   ]},
+]},
+{day:116, label:"Day 116 — Mon", subjects:[
+  {subject:"Language", title:"Writing: Writing a Straight News Article (The Inverted Pyramid)", summary:"Grade 6 Language strand: a straight news article uses the inverted pyramid structure, presenting the most important information first, followed by supporting details in decreasing order of importance.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What structure do straight news articles typically follow?", options:["The inverted pyramid","A random order","A five-paragraph essay only","A strict rhyme scheme"], answer:0},
+     {q:"In the inverted pyramid structure, what comes first?", options:["The authors opinion only","The most important information","The least important detail","A poem"], answer:1},
+     {q:"Why do news articles present the most important information first?", options:["To hide the main point until the end","To confuse the reader on purpose","Order does not matter in news writing","So readers get key facts even if they stop reading early"], answer:3},
+     {q:"What questions does a news lead often answer?", options:["None of these","Who, what, when, where, why, and how","Only who","Only when"], answer:1},
+     {q:"Straight news writing differs from opinion writing because it ___.", options:["Is always written as a poem","Focuses on objective facts rather than personal opinions","Has no factual content","Only shares personal opinions"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Rational vs Irrational Numbers", summary:"Grade 6 Math strand: a rational number can be written as a fraction of two integers, while an irrational number, like pi, cannot be written as a simple fraction and has a non-repeating, non-ending decimal.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is a rational number?", options:["A number that can be written as a fraction of two integers","A number that never ends","A number with no value","Only a negative number"], answer:0},
+     {q:"What is an irrational number?", options:["Any number greater than zero","A number with only one digit","A number that is always negative","A number that cannot be written as a simple fraction"], answer:3},
+     {q:"Which of these is a well-known irrational number?", options:["1/2","0.5","Pi (3.14159...)","4"], answer:2},
+     {q:"Is the number 3/4 rational or irrational?", options:["Both","Rational","Irrational","Neither"], answer:1},
+     {q:"An irrational numbers decimal representation is ___.", options:["Always exactly two digits","Always a whole number","Non-repeating and non-ending","Always zero"], answer:2}
+   ]},
+  {subject:"Science", title:"Groundwater and Aquifers", summary:"Grade 6 Science strand: groundwater is water that soaks into the ground and collects in layers of rock and soil called aquifers, an important source of fresh water for many communities.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is groundwater?", options:["Water in the ocean only","Water in a swimming pool","Water in the clouds","Water that soaks into the ground and collects underground"], answer:3},
+     {q:"What is an aquifer?", options:["A type of cloud","A kind of river","A weather instrument","An underground layer of rock or soil that holds water"], answer:3},
+     {q:"Why is groundwater important?", options:["It has no importance","It cannot be used by people","It only exists in oceans","It is a major source of fresh water for many communities"], answer:3},
+     {q:"How does water typically get into an aquifer?", options:["It never enters an aquifer","It is pumped in by machines only","It falls directly from space","It soaks down through soil and rock"], answer:3},
+     {q:"Protecting groundwater from pollution is important because ___.", options:["Many communities rely on it for drinking water","Aquifers cannot be polluted","Groundwater is never used by people","Pollution never affects groundwater"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The History of Canadian Currency", summary:"Grade 6 Social Studies strand: Canadian currency has evolved over centuries, from early trade using furs and wampum to todays coins and bills issued by the Bank of Canada.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What organization issues Canadas paper currency today?", options:["The Bank of Canada","A foreign government","A private company","No organization"], answer:0},
+     {q:"Before modern currency, what did early trade in Canada sometimes rely on?", options:["Only digital payments","Only credit cards","Nothing was ever traded","Bartering goods like furs"], answer:3},
+     {q:"Why does currency need to be trusted and standardized?", options:["Standardization has no purpose","Currency should change value randomly","So people can reliably use it to trade goods and services","Trust does not matter for currency"], answer:2},
+     {q:"How has Canadian currency changed over time?", options:["It evolved from trade goods to standardized coins and bills","It has never changed at all","It was always identical to todays currency","It has only existed for one year"], answer:0},
+     {q:"Studying the history of currency helps us understand ___.", options:["How economies and trade have developed over time","Only foreign countries","Only modern technology","Nothing about history"], answer:0}
+   ]},
+]},
+{day:117, label:"Day 117 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Using Graphic Organizers to Plan Writing", summary:"Grade 6 Language strand: graphic organizers, like webs, charts, and outlines, help writers visually plan and organize their ideas before drafting a piece of writing.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a graphic organizer?", options:["A visual tool to plan and organize ideas","A grammar rule","A math formula","A type of punctuation"], answer:0},
+     {q:"Why might a writer use a graphic organizer before drafting?", options:["To confuse their own thinking","To skip planning entirely","To avoid writing altogether","To visually plan and organize ideas first"], answer:3},
+     {q:"Which is an example of a graphic organizer?", options:["A web diagram connecting related ideas","A blank page with no structure","A single unrelated word","A dictionary definition"], answer:0},
+     {q:"Graphic organizers can help writers see ___.", options:["Only spelling errors","Connections and structure between ideas","Nothing useful at all","Only punctuation mistakes"], answer:1},
+     {q:"Using a graphic organizer before writing an essay can help with ___.", options:["Removing the need for a topic","Avoiding all planning","Making writing less organized","Organizing paragraphs logically"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: How Credit Cards and Interest Work", summary:"Grade 6 Math strand: a credit card allows a person to borrow money to make purchases, but if the balance is not paid off, interest is charged on the amount owed.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a credit card allow a person to do?", options:["Print their own currency","Avoid ever paying for anything","Only save money","Borrow money to make purchases"], answer:3},
+     {q:"What happens if a credit card balance is not paid off in full?", options:["The balance automatically disappears","No consequences occur","Interest is charged on the amount owed","The card stops working forever"], answer:2},
+     {q:"Why is it important to understand how credit card interest works?", options:["Unpaid balances can grow due to accumulating interest","Interest always reduces what you owe","Interest never affects what you owe","Credit cards have no fees ever"], answer:0},
+     {q:"Which is a responsible way to use a credit card?", options:["Ignoring the balance completely","Never checking your spending","Paying off the balance in full each month when possible","Spending far more than you can repay"], answer:2},
+     {q:"A credit card is different from a debit card because it involves ___.", options:["Borrowing money rather than spending your own funds directly","No money at all","Government-issued currency printing","Only cash transactions"], answer:0}
+   ]},
+  {subject:"Science", title:"Sleep — Why Our Bodies and Brains Need Rest", summary:"Grade 6 Science strand: sleep allows the brain and body to rest, repair, and consolidate memories, and getting enough quality sleep is essential for health and learning.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does sleep allow the body and brain to do?", options:["Lose all memories","Rest, repair, and consolidate memories","Work harder than while awake","Stop growing permanently"], answer:1},
+     {q:"Why is sleep important for learning?", options:["Sleep erases all learning","Learning only happens while asleep","It helps consolidate and strengthen memories","Sleep has no effect on memory"], answer:2},
+     {q:"What might happen if a person consistently does not get enough sleep?", options:["Difficulty concentrating and other health effects","Improved memory with no downsides","No effects at all","Instant improved health"], answer:0},
+     {q:"Which organ is especially active in restoring itself during sleep?", options:["The skin only","The brain","No organ is affected","The stomach only"], answer:1},
+     {q:"Good sleep habits are considered part of ___.", options:["Something with no scientific basis","An unimportant daily activity","Overall health and well-being","Something unrelated to the body"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Auditor General — Watching How Government Spends Money", summary:"Grade 6 Social Studies strand: the Auditor General is an independent officer who reviews how the federal government spends public money, reporting on waste, mismanagement, or inefficiency.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Auditor Generals main job?", options:["Teaching in schools","Reviewing how the government spends public money","Managing a hospital","Running a business"], answer:1},
+     {q:"Why is it important for the Auditor General to be independent?", options:["So the review is unbiased and not controlled by the government being reviewed","Independence makes the reports less accurate","The government should review itself only","Independence does not matter"], answer:0},
+     {q:"What might the Auditor Generals reports reveal?", options:["Only good news","Waste, mismanagement, or inefficiency in spending","Nothing useful","Sports statistics"], answer:1},
+     {q:"Who does the Auditor General typically report to?", options:["No one","Parliament","A private company","A single citizen"], answer:1},
+     {q:"Why might citizens care about the Auditor Generals reports?", options:["Citizens have no interest in government spending","The reports are always secret","They show how tax dollars are being used","Reports never affect citizens"], answer:2}
+   ]},
+]},
+{day:118, label:"Day 118 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Texting Language vs Formal Writing", summary:"Grade 6 Language strand: texting language uses informal abbreviations and shortcuts appropriate for casual messages, but formal writing requires complete sentences and standard grammar.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is texting language often characterized by?", options:["Long, complex sentences only","Strict formal grammar rules","Informal abbreviations and shortcuts","No communication at all"], answer:2},
+     {q:"Why is texting language usually inappropriate for a school essay?", options:["Formal writing requires complete sentences and standard grammar","Abbreviations are always formal","Formal writing has no rules","Texting language is always required in essays"], answer:0},
+     {q:"Which is an example of texting language?", options:["A grammatically formal paragraph","A properly cited research paper","BRB for be right back","A complete formal sentence"], answer:2},
+     {q:"Why is it useful to know when to use formal versus informal language?", options:["Only informal language should ever be used","Different situations call for different levels of formality","Formality never matters in writing","Only formal language should ever be used"], answer:1},
+     {q:"Which situation calls for formal writing?", options:["A school research report","A quick text to a friend","An informal social media comment","A casual chat message"], answer:0}
+   ]},
+  {subject:"Math", title:"Proportional Reasoning: Solving Proportions with Cross-Multiplication", summary:"Grade 6 Math strand: cross-multiplication is a method for solving proportions by multiplying diagonally across the equals sign, useful for finding an unknown value in equivalent ratios.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is cross-multiplication used for?", options:["Solving proportions to find an unknown value","Rounding decimals","Measuring angles","Adding fractions"], answer:0},
+     {q:"In the proportion 2/3 = x/12, what is the value of x after cross-multiplying?", options:["9","6","18","8"], answer:3},
+     {q:"How does cross-multiplication work?", options:["Subtract the denominators","Divide both sides by zero","Multiply diagonally across the equals sign","Add the numerators together"], answer:2},
+     {q:"In the proportion 4/5 = 8/x, what is the value of x?", options:["12","10","20","9"], answer:1},
+     {q:"Why is cross-multiplication a useful strategy?", options:["It never works for any proportion","It removes the need for ratios","It provides a reliable way to solve for unknowns in proportions","It only works with whole numbers"], answer:2}
+   ]},
+  {subject:"Science", title:"How a Battery Stores and Releases Energy", summary:"Grade 6 Science strand: a battery stores chemical energy and converts it into electrical energy through a chemical reaction, releasing electricity to power devices.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What kind of energy does a battery store?", options:["Light energy only","No energy at all","Chemical energy","Sound energy"], answer:2},
+     {q:"How does a battery produce electricity?", options:["By freezing water","Through a chemical reaction that converts stored energy into electrical energy","By capturing sunlight directly","By burning fuel inside it"], answer:1},
+     {q:"What happens to a battery when it runs out of stored energy?", options:["It becomes more powerful","It can no longer power a device until recharged or replaced","Nothing changes at all","It generates unlimited energy forever"], answer:1},
+     {q:"Which of these commonly uses battery power?", options:["A remote control","A hand-crank pencil sharpener","A sundial","A wood-burning fireplace"], answer:0},
+     {q:"Why are batteries useful in portable devices?", options:["They cannot store any energy","They require constant plugging into a wall outlet","They only work when connected to solar panels","They provide energy without needing a constant plug connection"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Magna Cartas Influence on Canadian Law", summary:"Grade 6 Social Studies strand: the Magna Carta, signed in England in 1215, established early principles like the rule of law that influenced legal systems, including Canadas, centuries later.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the Magna Carta?", options:["A modern Canadian law","An early document establishing principles like the rule of law","A type of currency","A national holiday"], answer:1},
+     {q:"Roughly when was the Magna Carta signed?", options:["In the 1200s","Last year","It has not happened yet","In the 1900s"], answer:0},
+     {q:"What important principle did the Magna Carta help establish?", options:["That laws do not apply to anyone","That only kings make all decisions with no limits","That courts should not exist","The rule of law, meaning even rulers must follow the law"], answer:3},
+     {q:"How did the Magna Carta influence legal systems like Canadas?", options:["It was immediately forgotten","Its principles shaped ideas about law and rights over centuries","Canada copied it word for word","It has no connection to modern law"], answer:1},
+     {q:"Why do historians and legal scholars still study the Magna Carta today?", options:["It has no historical significance","It laid early groundwork for modern legal principles","It only applied for one day","It was written very recently"], answer:1}
+   ]},
+]},
+{day:119, label:"Day 119 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Short Screenplay Scene", summary:"Grade 6 Language strand: a screenplay uses a specific format with scene headings, action lines, and character dialogue, written to guide actors and filmmakers in bringing a story to life visually.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does a screenplay use to describe where and when a scene happens?", options:["A scene heading","A footnote","A bibliography","A glossary"], answer:0},
+     {q:"What are action lines in a screenplay used for?", options:["Only showing music notes","Describing what happens visually in a scene","Only listing character names","Replacing all dialogue"], answer:1},
+     {q:"How is dialogue typically formatted in a screenplay?", options:["In footnotes only","In a completely different language each time","Under the speaking characters name","Without any character names at all"], answer:2},
+     {q:"Who uses a screenplay to help bring a story to life?", options:["Only readers of novels","Only painters","Actors and filmmakers","Only musicians"], answer:2},
+     {q:"Why does screenplay formatting matter?", options:["It helps everyone involved in a production understand the story clearly","Only novels need formatting","Screenplays are never formatted","Formatting has no purpose in screenwriting"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Surface Area of a Sphere", summary:"Grade 6 Math strand: the surface area of a sphere is found using the formula 4 times pi times the radius squared, describing the total area covering the outside of the sphere.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What shape is a basketball an example of?", options:["A cube","A sphere","A cylinder","A cone"], answer:1},
+     {q:"What measurement is needed to find the surface area of a sphere?", options:["The circumference alone","The volume only","The radius","Only the diameter squared with no radius"], answer:2},
+     {q:"The formula for surface area of a sphere involves which constant?", options:["Pi","One","Ten","Zero"], answer:0},
+     {q:"If a spheres radius doubles, what generally happens to its surface area?", options:["It stays exactly the same","It increases significantly (by a factor of four)","It decreases","It becomes zero"], answer:1},
+     {q:"Surface area of a sphere is measured in ___.", options:["No units at all","Linear units only","Square units","Cubic units"], answer:2}
+   ]},
+  {subject:"Science", title:"The Human Brain — Structure and Function", summary:"Grade 6 Science strand: the brain is the control centre of the nervous system, responsible for thinking, memory, movement, and interpreting information from the senses.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is the brain often described as?", options:["A blood vessel","A type of muscle only","A digestive organ","The control centre of the nervous system"], answer:3},
+     {q:"What are some functions of the brain?", options:["Only pumping blood","Only digesting food","Only filtering air","Thinking, memory, and movement control"], answer:3},
+     {q:"How does the brain use information from the senses?", options:["It only processes taste","It interprets signals from the eyes, ears, and other senses","It ignores all sensory information","It has no connection to the senses"], answer:1},
+     {q:"Why is protecting the brain, such as with a helmet, important?", options:["Protection is unnecessary","The brain regenerates instantly if injured","The brain is a vital and delicate organ","The brain cannot be injured"], answer:2},
+     {q:"The brain sends and receives messages through the ___.", options:["Nervous system","Circulatory system alone","Digestive system","Skeletal system alone"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Klondike Gold Rush", summary:"Grade 6 Social Studies strand: the Klondike Gold Rush of the late 1890s brought thousands of prospectors to the Yukon in search of gold, shaping the development of northern Canada.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did prospectors search for during the Klondike Gold Rush?", options:["Oil","Silver only","Diamonds","Gold"], answer:3},
+     {q:"In which Canadian territory did the Klondike Gold Rush mainly take place?", options:["British Columbia","Ontario","Nunavut","The Yukon"], answer:3},
+     {q:"Roughly when did the Klondike Gold Rush occur?", options:["In the late 1890s","In the 1700s","It has not happened yet","Last year"], answer:0},
+     {q:"How did the Klondike Gold Rush affect northern Canada?", options:["It only affected southern Canada","It had no effect on the region","It brought rapid population growth and development to the region","It caused the region to disappear"], answer:2},
+     {q:"Why do people still study the Klondike Gold Rush today?", options:["It is a purely modern event","It has no historical value","No records of it exist","It reveals important details about Canadian history and settlement"], answer:3}
+   ]},
+]},
+{day:120, label:"Day 120 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Poetry, Story Forms, and Writing Formats", summary:"Grade 6 Language strand review: students revisit writing a haiku, onomatopoeia and alliteration, epistolary writing, frame narratives, podcast scripts, and screenplay scenes.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"How many lines does a haiku have?", options:["Two","Five","Four","Three"], answer:3},
+     {q:"What is onomatopoeia?", options:["Words that imitate the sounds they describe","A grammar rule","A math term","A type of punctuation"], answer:0},
+     {q:"What is epistolary writing?", options:["A story told through letters or similar documents","A story with no characters","A type of poem only","A grammar rule"], answer:0},
+     {q:"What is a frame narrative?", options:["A single-page poem","A story that contains another story inside it","A story with no beginning","A grammar exercise"], answer:1},
+     {q:"What does a screenplay use to describe where and when a scene happens?", options:["A scene heading","A glossary","A footnote","A bibliography"], answer:0}
+   ]},
+  {subject:"Math", title:"Math Review: Geometry, Number Sense, and Financial Literacy", summary:"Grade 6 Math strand review: students revisit cone and pyramid volume, scatter plots, absolute value, imperial/metric conversion, outliers, sphere surface area, and credit card interest.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"The volume of a cone is what fraction of a cylinder with the same base and height?", options:["Two-thirds","The same as the cylinder","One-third","One-half"], answer:2},
+     {q:"What does absolute value represent?", options:["The number itself with no change","The distance a number is from zero","A type of fraction","Only negative numbers"], answer:1},
+     {q:"What is an outlier?", options:["The most common value","The total of all values","The middle value","A data value much higher or lower than the rest"], answer:3},
+     {q:"What is an irrational number?", options:["Any number greater than zero","A number that is always negative","A number with only one digit","A number that cannot be written as a simple fraction"], answer:3},
+     {q:"What happens if a credit card balance is not paid off in full?", options:["The card stops working forever","The balance automatically disappears","No consequences occur","Interest is charged on the amount owed"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: The Human Body and Everyday Science", summary:"Grade 6 Science strand review: students revisit the human ear, antibiotics, nutrition, owls, bats and echolocation, groundwater, sleep, batteries, and the human brain.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does the ear collect and convert into signals?", options:["Heat energy","Chemical signals","Sound vibrations","Light waves"], answer:2},
+     {q:"What do antibiotics fight?", options:["Bacterial infections","Allergies only","Viral infections","Broken bones"], answer:0},
+     {q:"What is echolocation?", options:["Using smell to hunt","Using light to see","Using taste to navigate","Using sound waves to locate objects"], answer:3},
+     {q:"What is an aquifer?", options:["An underground layer of rock or soil that holds water","A kind of river","A type of cloud","A weather instrument"], answer:0},
+     {q:"What is the brain often described as?", options:["A blood vessel","A digestive organ","A type of muscle only","The control centre of the nervous system"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Canadian History, Government, and Institutions", summary:"Grade 6 Social Studies strand review: students revisit the RCMP, the census, sister cities, Terry Fox, the Franklin Expedition, Canadian currency history, the Auditor General, the Magna Carta, and the Klondike Gold Rush.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What does RCMP stand for?", options:["Royal Canadian Mounted Police","Regional Canadian Municipal Patrol","Real Canadian Mail Post","Royal Canadian Medical Program"], answer:0},
+     {q:"What is a census?", options:["A sports event","An official count of everyone in a country","A type of holiday","A kind of map"], answer:1},
+     {q:"What organization issues Canadas paper currency today?", options:["The Bank of Canada","A foreign government","No organization","A private company"], answer:0},
+     {q:"What was the Magna Carta?", options:["A type of currency","An early document establishing principles like the rule of law","A national holiday","A modern Canadian law"], answer:1},
+     {q:"In which Canadian territory did the Klondike Gold Rush mainly take place?", options:["Nunavut","British Columbia","Ontario","The Yukon"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
