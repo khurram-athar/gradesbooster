@@ -1594,6 +1594,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Prefixes: un- and re-", summary:"Students learn that the prefixes un- and re- can be added to the beginning of a word to change its meaning, with un- often meaning not, and re- often meaning again.",
    resourceLabel:"YouTube: Prefixes: un- and re-", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20un-%20and%20re-%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=QbT1PlZS0io",
    quiz:[
      {q:"What does the prefix un- usually mean?", options:["Again","Always","Before","Not"], answer:3},
      {q:"What does the prefix re- usually mean?", options:["Before","Never","Not","Again"], answer:3},
@@ -1608,6 +1609,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Thirds and Eighths", summary:"Students explore fractions with thirds and eighths, understanding that a whole can be split into 3 or 8 equal parts, each called one third or one eighth.",
    resourceLabel:"YouTube: Fractions: Thirds and Eighths", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Thirds%20and%20Eighths%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5arM5wpCNUo",
    quiz:[
      {q:"If a whole is split into 3 equal parts, each part is called ___.", options:["One eighth","One half","One quarter","One third"], answer:3},
      {q:"If a whole is split into 8 equal parts, each part is called ___.", options:["One half","One third","One whole","One eighth"], answer:3},
@@ -1622,6 +1624,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Magnets: Push and Pull Without Touching", summary:"Students learn that a magnet can push or pull certain metal objects without touching them, and that magnets have two ends called poles that can attract or repel each other.",
    resourceLabel:"YouTube: Magnets: Push and Pull Without Touching", resourceUrl:"https://www.youtube.com/results?search_query=Magnets%3A%20Push%20and%20Pull%20Without%20Touching%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7HHs98PBgk0",
    quiz:[
      {q:"What can a magnet do to certain metal objects without touching them?", options:["Make them disappear","Change their colour","Melt them","Push or pull them"], answer:3},
      {q:"Which of these materials would a magnet most likely attract?", options:["An iron nail","A plastic cup","A wooden block","A paper towel"], answer:0},
@@ -1636,6 +1639,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Immigration: New Families Joining Canada", summary:"Students learn that immigration is when people move from one country to make a new home in another country, and that many families have come to Canada from around the world, adding to its cultures and traditions.",
    resourceLabel:"YouTube: Immigration: New Families Joining Canada", resourceUrl:"https://www.youtube.com/results?search_query=Immigration%3A%20New%20Families%20Joining%20Canada%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mwqwc8Jydp0",
    quiz:[
      {q:"What is immigration?", options:["When animals migrate with the seasons","When people travel on vacation","When people move from one country to live in another","When a family moves within the same city"], answer:2},
      {q:"What do we call a person who has moved to a new country to live?", options:["An immigrant","A citizen only","A tourist","A visitor only"], answer:0},

@@ -1594,6 +1594,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Opposites: Words That Mean the Opposite", summary:"Students explore opposite word pairs such as big and small, hot and cold, and up and down to build vocabulary and understanding of contrast.",
    resourceLabel:"YouTube: Opposites: Words That Mean the Opposite", resourceUrl:"https://www.youtube.com/results?search_query=Opposites%3A%20Words%20That%20Mean%20the%20Opposite%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BWdXN0wwi6A",
    quiz:[
      {q:"What is the opposite of big?", options:["Small","Tall","Fast","Round"], answer:0},
      {q:"What is the opposite of hot?", options:["Cold","Warm","Sunny","Wet"], answer:0},
@@ -1608,6 +1609,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Symmetry: Matching Halves", summary:"Students explore symmetry by folding shapes and pictures in half to see when both sides match exactly, like a butterfly or a heart.",
    resourceLabel:"YouTube: Symmetry: Matching Halves", resourceUrl:"https://www.youtube.com/results?search_query=Symmetry%3A%20Matching%20Halves%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-09HfyNq8m0",
    quiz:[
      {q:"A shape is symmetrical when ___.", options:["Both halves match exactly when folded","It has no shape","It has many corners","It is always red"], answer:0},
      {q:"Which of these shapes is symmetrical?", options:["A heart","A random splash of paint","A scribble","An uneven blob"], answer:0},
@@ -1622,6 +1624,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Reduce, Reuse, Recycle", summary:"Students learn three simple ways to help the environment: reduce how much we use, reuse items instead of throwing them away, and recycle materials like paper and plastic.",
    resourceLabel:"YouTube: Reduce, Reuse, Recycle", resourceUrl:"https://www.youtube.com/results?search_query=Reduce%2C%20Reuse%2C%20Recycle%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Fex-wvrOZf4",
    quiz:[
      {q:"What does it mean to reduce?", options:["Throw everything away","Use less of something","Never use anything","Use more than you need"], answer:1},
      {q:"What does it mean to reuse an item?", options:["Never touch it again","Use it again instead of throwing it out","Throw it away right away","Recycle it immediately"], answer:1},
@@ -1636,6 +1639,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Taking Care of Our Belongings", summary:"Students learn the importance of taking care of their toys, books, and clothing by keeping them clean, putting them away, and treating them gently.",
    resourceLabel:"YouTube: Taking Care of Our Belongings", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Belongings%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=b8vTbI6DDzk",
    quiz:[
      {q:"Why should we take care of our belongings?", options:["So they last longer and stay useful","Only adults need to care for things","It does not matter","So we can throw them away sooner"], answer:0},
      {q:"Which is a good way to take care of a book?", options:["Throw it in mud","Leave it outside in the rain","Turn pages gently and keep it clean","Rip the pages"], answer:2},

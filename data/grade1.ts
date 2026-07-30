@@ -1594,6 +1594,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Sequencing Events: First, Next, Last", summary:"Students learn to put events from a story in order using the words first, next, and last, helping them understand and retell what happened.",
    resourceLabel:"YouTube: Sequencing Events: First, Next, Last", resourceUrl:"https://www.youtube.com/results?search_query=Sequencing%20Events%3A%20First%2C%20Next%2C%20Last%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4Iz5Gmkz8BQ",
    quiz:[
      {q:"Which word describes the event that happens at the beginning of a story?", options:["Middle only","First","Never","Last"], answer:1},
      {q:"Which word describes the event that happens at the end of a story?", options:["First","Last","Before","Next"], answer:1},
@@ -1608,6 +1609,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Symmetry: Matching Halves", summary:"Students explore symmetry by folding shapes and pictures in half to see if both sides match exactly, learning that a symmetrical shape has two matching halves.",
    resourceLabel:"YouTube: Symmetry: Matching Halves", resourceUrl:"https://www.youtube.com/results?search_query=Symmetry%3A%20Matching%20Halves%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-09HfyNq8m0",
    quiz:[
      {q:"What does it mean for a shape to be symmetrical?", options:["The shape is coloured red","The shape has no sides","The shape is always a circle","Both halves match exactly"], answer:3},
      {q:"Which of these shapes is symmetrical?", options:["An uneven splash","A heart","A random blob","A scribble"], answer:1},
@@ -1622,6 +1624,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Recycling and Reducing Waste", summary:"Students learn simple ways to care for the environment by reducing waste, reusing items, and recycling materials such as paper, plastic, and cans.",
    resourceLabel:"YouTube: Recycling and Reducing Waste", resourceUrl:"https://www.youtube.com/results?search_query=Recycling%20and%20Reducing%20Waste%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VlRVPum9cp4",
    quiz:[
      {q:"Which of these materials can often be recycled?", options:["Paper","Sunlight","Rainbows","Air"], answer:0},
      {q:"What does it mean to reuse an item?", options:["Ignoring it","Burying it in the yard","Throwing it away right away","Using it again instead of throwing it away"], answer:3},
@@ -1636,6 +1639,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communication Then and Now", summary:"Students compare how people communicated long ago, such as sending letters, to how people communicate today, such as using phones and computers.",
    resourceLabel:"YouTube: Communication Then and Now", resourceUrl:"https://www.youtube.com/results?search_query=Communication%20Then%20and%20Now%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Mevm1T4MsUM",
    quiz:[
      {q:"How did many people send messages long ago before phones were common?", options:["By writing letters","By text message","By email","By video call"], answer:0},
      {q:"Which of these is a common way people communicate today?", options:["Only smoke signals","Only carrier pigeons","Only letters carried by horse","Telephone"], answer:3},
