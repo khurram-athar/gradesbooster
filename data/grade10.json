@@ -26758,5 +26758,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 111,
+    "label": "Day 111 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Ellipsis and Omission in Writing",
+        "summary": "Grade 10 English strand: an ellipsis shows an omission of words from a quotation or indicates a trailing off in thought, and using it correctly helps writers condense or shape meaning without distorting the original text.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does an ellipsis indicate when used in a direct quotation?",
+            "options": [
+              "That words have been omitted from the original text",
+              "That the entire quotation is false",
+              "That the sentence has ended with a question",
+              "That the writer disagrees with the quotation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An ellipsis can also show what in dialogue?",
+            "options": [
+              "A complete stop with no further meaning",
+              "A pause or trailing off in thought",
+              "A shout or exclamation only",
+              "A grammatical error"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many dots typically make up a standard ellipsis?",
+            "options": [
+              "Five",
+              "Three",
+              "Two",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must writers be careful when omitting words from a quotation with an ellipsis?",
+            "options": [
+              "Ellipses have no effect on meaning",
+              "Omitting words could distort the original meaning if done carelessly",
+              "Ellipses always make quotations more accurate",
+              "Omitting words is never allowed under any circumstance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In academic writing, an ellipsis is often used to ___.",
+            "options": [
+              "Replace all punctuation in an essay",
+              "Show that a source is completely unreliable",
+              "Indicate the end of an entire essay",
+              "Shorten a long quotation while preserving its essential meaning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus Foundations: An Introduction to Limits",
+        "summary": "Grade 10 Math strand: a limit describes the value a function approaches as its input approaches a certain number, a foundational idea used to formally define the derivative and analyze function behaviour.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a limit describe in mathematics?",
+            "options": [
+              "The exact value of a function at every point",
+              "A fixed number that never changes",
+              "The total area under a curve only",
+              "The value a function approaches as its input gets closer to a certain number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are limits considered foundational to calculus?",
+            "options": [
+              "They only apply to whole numbers",
+              "They are used to formally define the derivative",
+              "They have no connection to any other calculus concept",
+              "They eliminate the need to study functions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "As x approaches 3, if f(x) gets closer and closer to 9, what is the limit of f(x) as x approaches 3?",
+            "options": [
+              "9",
+              "3",
+              "Undefined in all cases",
+              "0"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can a limit exist at a point even if the function is undefined there?",
+            "options": [
+              "Yes, a limit can exist even if the function itself is undefined at that point",
+              "Limits are unrelated to function values",
+              "No, a limit only exists where the function is defined",
+              "Limits never exist for undefined functions under any circumstance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Understanding limits helps mathematicians analyze ___.",
+            "options": [
+              "Only basic geometry",
+              "Only whole number arithmetic",
+              "How a function behaves as it approaches specific values",
+              "Only the colour of a graph"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Human Eye: Structure and the Physics of Vision",
+        "summary": "Grade 10 Science strand: the eye uses a lens to focus light onto the retina, where light-sensitive cells convert it into electrical signals interpreted by the brain, combining biology with the physics of optics.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What structure in the eye focuses light onto the retina?",
+            "options": [
+              "The trachea",
+              "The epidermis",
+              "The lens",
+              "The eardrum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the retina contain that responds to light?",
+            "options": [
+              "Digestive enzymes",
+              "Muscle fibres only",
+              "Bone tissue",
+              "Light-sensitive cells"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the brain use signals sent from the retina?",
+            "options": [
+              "It ignores them entirely",
+              "It interprets them to form the images we perceive as vision",
+              "It converts them into sound",
+              "It uses them only to regulate heart rate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a persons vision be blurry if the eyes lens does not focus light correctly?",
+            "options": [
+              "The brain refuses to process any images",
+              "The retina contains too much light-sensitive tissue",
+              "The eye produces no light at all",
+              "Light does not converge properly onto the retina"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The study of how light interacts with the eye combines biology with which branch of physics?",
+            "options": [
+              "Astronomy",
+              "Nuclear physics",
+              "Optics",
+              "Thermodynamics"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Newfoundland Joins Confederation in 1949",
+        "summary": "Grade 10 History strand: Newfoundland became Canadas tenth province in 1949 after a close referendum vote, joining Confederation over 80 years after the original four provinces united in 1867.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year did Newfoundland join Confederation?",
+            "options": [
+              "1905",
+              "1867",
+              "1999",
+              "1949"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did Newfoundland decide to join Canada?",
+            "options": [
+              "Through a coin flip",
+              "Through a military conflict",
+              "Through a unilateral government decision with no vote",
+              "Through a close referendum vote"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number province did Newfoundland become?",
+            "options": [
+              "The first province",
+              "The fifth province",
+              "The tenth province",
+              "The last territory"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many years after the original Confederation of 1867 did Newfoundland join?",
+            "options": [
+              "Over 200 years later",
+              "Only 5 years later",
+              "Over 80 years later",
+              "Immediately in 1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Newfoundlands entry into Confederation historically significant?",
+            "options": [
+              "It caused Canada to lose a province",
+              "It had no impact on Canadian history",
+              "It happened before Canada existed",
+              "It completed a major stage of Canadas territorial expansion"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 112,
+    "label": "Day 112 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Juxtaposition in Literature",
+        "summary": "Grade 10 English strand: juxtaposition places two contrasting elements side by side in a text, highlighting their differences and creating deeper meaning, tension, or emphasis for the reader.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "A type of punctuation mark",
+              "A grammar rule for verb tense",
+              "Placing two contrasting elements side by side",
+              "Combining two similar ideas into one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What effect does juxtaposition typically create in a text?",
+            "options": [
+              "It eliminates the need for description",
+              "It removes all meaning from a text",
+              "It highlights differences and creates deeper meaning or tension",
+              "It always confuses the reader with no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of juxtaposition in a novel?",
+            "options": [
+              "Using only dialogue with no description",
+              "Describing a lavish celebration immediately followed by a scene of poverty",
+              "Describing only one setting throughout the story",
+              "Listing facts with no comparison"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author juxtapose two characters?",
+            "options": [
+              "To make the characters seem identical",
+              "To emphasize how different the characters are from each other",
+              "To avoid describing either character",
+              "To remove conflict from the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Juxtaposition is often used by authors to explore contrasts such as ___.",
+            "options": [
+              "Only numbers and equations",
+              "Only weather patterns",
+              "Only geographic locations with no thematic meaning",
+              "Wealth and poverty, or innocence and corruption"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Trigonometry: An Introduction to the Unit Circle",
+        "summary": "Grade 10 Math strand: the unit circle is a circle with radius 1 centred at the origin, used to define sine and cosine for any angle and to connect trigonometry with coordinate geometry.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is the radius of the unit circle?",
+            "options": [
+              "1",
+              "0",
+              "It has no fixed radius",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is the unit circle centred?",
+            "options": [
+              "At the point (1, 1)",
+              "At the origin (0, 0)",
+              "It has no defined centre",
+              "At the point (5, 5)"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two trigonometric values can be defined using coordinates on the unit circle?",
+            "options": [
+              "Only the slope and y-intercept",
+              "Only the radius and diameter",
+              "Sine and cosine",
+              "Only the area and circumference"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the significance of the unit circle in trigonometry?",
+            "options": [
+              "It cannot be used for any calculations",
+              "It provides a way to define sine and cosine for any angle",
+              "It replaces the need for angles entirely",
+              "It only works for angles less than 90 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The unit circle helps connect which two branches of mathematics?",
+            "options": [
+              "Only statistics and data management",
+              "Only geometry and financial literacy",
+              "Only arithmetic and probability",
+              "Trigonometry and coordinate geometry"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Human Ear: Structure and the Physics of Hearing",
+        "summary": "Grade 10 Science strand: the ear captures sound waves and converts their vibrations into electrical signals through structures like the eardrum and cochlea, which the brain interprets as sound, connecting biology to acoustics.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does the ear capture and convert into signals?",
+            "options": [
+              "Chemical signals",
+              "Magnetic fields",
+              "Sound waves",
+              "Light waves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structure vibrates when sound waves first enter the ear?",
+            "options": [
+              "The retina",
+              "The cochlea alone",
+              "The optic nerve",
+              "The eardrum"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What part of the inner ear helps convert vibrations into electrical signals?",
+            "options": [
+              "The trachea",
+              "The cochlea",
+              "The epidermis",
+              "The pupil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the brain use the electrical signals sent from the ear?",
+            "options": [
+              "It interprets them as sound",
+              "It uses them only to control digestion",
+              "It converts them into images",
+              "It ignores them completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Studying the physics of sound and hearing connects biology to which field of physics?",
+            "options": [
+              "Thermodynamics (the study of heat)",
+              "Astronomy (the study of space)",
+              "Acoustics (the study of sound)",
+              "Optics (the study of light)"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Balfour Declaration of 1926 and Canadian Autonomy",
+        "summary": "Grade 10 History strand: the Balfour Declaration of 1926 recognized Canada and other dominions as equal in status to Britain, laying important groundwork for the later Statute of Westminster and full Canadian legislative independence.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Balfour Declaration of 1926 recognize about Canada?",
+            "options": [
+              "That Canada was equal in status to Britain",
+              "That Canada should be governed entirely by Britain",
+              "That Canada was a colony with no rights",
+              "That Canada had no relationship with Britain at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What later, more formal law built on the Balfour Declaration?",
+            "options": [
+              "The Indian Act",
+              "The Charter of Rights and Freedoms",
+              "The Statute of Westminster",
+              "The Canadian Bill of Rights"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year was the Balfour Declaration issued?",
+            "options": [
+              "1867",
+              "1926",
+              "1949",
+              "1999"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Balfour Declaration considered a milestone in Canadian history?",
+            "options": [
+              "It had no lasting significance for Canada",
+              "It occurred after Canada already had full independence",
+              "It ended all of Canadas ties to Britain immediately",
+              "It was an important step toward full Canadian legislative independence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Balfour Declaration applied to Canada as one of several ___.",
+            "options": [
+              "United Nations member states",
+              "Foreign enemy nations",
+              "Provinces within Canada",
+              "British dominions seeking greater self-governance"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 113,
+    "label": "Day 113 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: Writing a Letter of Apology",
+        "summary": "Grade 10 English strand: a letter of apology clearly acknowledges a mistake, expresses genuine regret, and often includes a plan to make things right, using a sincere and thoughtful tone throughout.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What should a letter of apology clearly acknowledge?",
+            "options": [
+              "Only unrelated topics",
+              "The mistake that was made",
+              "Only the recipients own faults",
+              "Nothing specific at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What tone should a letter of apology typically have?",
+            "options": [
+              "Cold and indifferent",
+              "Sarcastic and joking",
+              "Angry and blaming",
+              "Sincere and genuine"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a letter of apology include a plan to make things right?",
+            "options": [
+              "Plans are never appropriate in an apology",
+              "It shifts all blame onto someone else",
+              "It shows genuine commitment to correcting the mistake",
+              "It replaces the need for an apology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a sincere apology statement?",
+            "options": [
+              "It was not really my fault anyway.",
+              "I am sorry for missing our meeting, and I will confirm plans earlier next time.",
+              "Sorry, but you overreacted.",
+              "I do not need to apologize for anything."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A well-written apology letter helps to ___.",
+            "options": [
+              "Blame someone else entirely",
+              "Repair trust and take responsibility",
+              "Avoid all responsibility",
+              "Ignore the mistake completely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Complex Numbers: De Moivres Theorem",
+        "summary": "Grade 10 Math strand: De Moivres Theorem provides a method for raising a complex number in polar form to a power, using the formula (r(cos θ + i sin θ))^n = r^n(cos nθ + i sin nθ).",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does De Moivres Theorem help calculate?",
+            "options": [
+              "The volume of a sphere",
+              "The slope of a line",
+              "The area of a triangle",
+              "A complex number in polar form raised to a power"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "De Moivres Theorem builds on which earlier concept?",
+            "options": [
+              "Basic addition of whole numbers",
+              "Complex numbers in polar form",
+              "The Pythagorean Theorem",
+              "Simple linear equations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In De Moivres formula, what happens to the angle θ when raising to the power n?",
+            "options": [
+              "It stays exactly the same",
+              "It becomes zero",
+              "It is multiplied by n",
+              "It is divided by n"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is De Moivres Theorem useful for working with complex numbers?",
+            "options": [
+              "It eliminates the need for complex numbers entirely",
+              "It only works for real numbers, never complex ones",
+              "It simplifies the process of raising complex numbers to large powers",
+              "It has no mathematical application"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "De Moivres Theorem connects which two areas of mathematics?",
+            "options": [
+              "Only statistics and probability",
+              "Only basic arithmetic and geometry",
+              "Only financial literacy and algebra",
+              "Trigonometry and complex numbers"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Antibiotic Resistance: A Modern Challenge",
+        "summary": "Grade 10 Science strand: antibiotic resistance occurs when bacteria evolve mechanisms to survive medicines designed to kill them, a growing global health concern driven by the overuse and misuse of antibiotics.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is antibiotic resistance?",
+            "options": [
+              "When bacteria evolve to survive medicines designed to kill them",
+              "When a virus becomes weaker over time",
+              "When bacteria disappear completely from the body",
+              "When a medicine becomes stronger the more it is used"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a major driver of increasing antibiotic resistance?",
+            "options": [
+              "Using antibiotics too rarely",
+              "Overuse and misuse of antibiotics",
+              "Regular vaccination",
+              "Eating a balanced diet"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is antibiotic resistance a significant global health concern?",
+            "options": [
+              "It has no impact on human health",
+              "It makes some bacterial infections much harder to treat effectively",
+              "It only affects a single country",
+              "It makes all infections easier to cure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can reduce the development of antibiotic resistance?",
+            "options": [
+              "Sharing leftover antibiotics with others",
+              "Taking antibiotics for every illness, including viral infections",
+              "Using antibiotics only when prescribed and completing the full course",
+              "Stopping antibiotics as soon as symptoms improve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Antibiotic resistance is a direct example of which biological process?",
+            "options": [
+              "Natural selection acting on bacterial populations",
+              "A process unrelated to evolution",
+              "A process that only affects viruses",
+              "A permanently fixed trait with no change over time"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Naval Service Act of 1910 and the Creation of the Royal Canadian Navy",
+        "summary": "Grade 10 History strand: the Naval Service Act of 1910 established the Royal Canadian Navy, sparking political debate over Canadas military obligations to Britain and its growing independence in defence policy.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Naval Service Act of 1910 establish?",
+            "options": [
+              "A national police force",
+              "The Royal Canadian Air Force",
+              "The Canadian Army",
+              "The Royal Canadian Navy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What debate did the Naval Service Act spark in Canada?",
+            "options": [
+              "A debate over railway construction",
+              "A debate over Canadian currency design",
+              "A debate over provincial boundaries",
+              "A debate over Canadas military obligations to Britain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year was the Naval Service Act passed?",
+            "options": [
+              "1910",
+              "1999",
+              "1867",
+              "1949"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Naval Service Act significant in the context of Canadian independence?",
+            "options": [
+              "It ended all Canadian military activity",
+              "It had no connection to Canadian independence",
+              "It reflected Canadas growing role in shaping its own defence policy",
+              "It placed Canadas entire military fully under British control with no change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The creation of the Royal Canadian Navy is an example of ___.",
+            "options": [
+              "Canada abandoning any military development",
+              "A modern 21st-century development",
+              "Canada developing its own national defence institutions",
+              "A purely British institution with no Canadian involvement"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 114,
+    "label": "Day 114 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Memes and Internet Culture",
+        "summary": "Grade 10 English strand: memes spread ideas and humour quickly through images, text, and repetition, and analyzing them critically helps readers understand how internet culture shapes communication and public opinion.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a meme?",
+            "options": [
+              "A printed newspaper article",
+              "A type of legal document",
+              "An image, video, or piece of text that spreads ideas or humour quickly online",
+              "A formal academic essay"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do memes typically spread?",
+            "options": [
+              "Only through printed newspapers",
+              "Only through formal presentations",
+              "Through sharing, repetition, and adaptation across the internet",
+              "They cannot spread at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to analyze memes critically?",
+            "options": [
+              "Memes are always completely factual",
+              "Critical analysis is never useful for internet content",
+              "To understand how internet culture shapes communication and opinion",
+              "Memes have no influence on culture or opinion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What technique do memes often use to convey meaning quickly?",
+            "options": [
+              "Complex legal language",
+              "Combining a familiar image with concise text",
+              "Long, detailed paragraphs with no images",
+              "Silence with no content at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Memes can be considered a form of ___.",
+            "options": [
+              "Ancient handwritten manuscripts",
+              "Scientific research papers only",
+              "Modern digital communication and cultural commentary",
+              "Formal government documents"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: An Introduction to Parametric Equations",
+        "summary": "Grade 10 Math strand: parametric equations express the x and y coordinates of a curve separately in terms of a third variable, called a parameter, allowing flexible descriptions of motion and curves.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What do parametric equations use to describe a curve?",
+            "options": [
+              "Only the slope of a line",
+              "Only whole numbers with no variables",
+              "Separate equations for x and y in terms of a third parameter",
+              "Only a single equation with no parameter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the third variable in parametric equations often called?",
+            "options": [
+              "The exponent",
+              "The coefficient",
+              "The determinant",
+              "The parameter"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might parametric equations be useful for describing motion?",
+            "options": [
+              "They eliminate the need to track any position",
+              "They can only describe a single fixed point",
+              "They can show how both x and y positions change over time",
+              "They cannot be used to describe any motion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If x = t and y = t^2, what shape would this parametric equation likely trace?",
+            "options": [
+              "A parabola",
+              "A single point with no movement",
+              "A perfect circle",
+              "A straight horizontal line only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Parametric equations are especially useful in fields such as ___.",
+            "options": [
+              "Only measuring temperature",
+              "Only simple counting problems",
+              "Physics, for describing the path of a moving object",
+              "Only basic arithmetic"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Colloids and Emulsions",
+        "summary": "Grade 10 Science strand: a colloid is a mixture where tiny particles are dispersed throughout another substance without dissolving, and an emulsion is a colloid formed from two liquids that would not normally mix, like oil and water.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is a colloid?",
+            "options": [
+              "A gas with no other substance present",
+              "A pure element with no mixture at all",
+              "A mixture where tiny particles are dispersed without fully dissolving",
+              "A solution where particles fully dissolve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an emulsion?",
+            "options": [
+              "A colloid formed from two liquids that would not normally mix",
+              "A solid dissolved completely in water",
+              "A gas dissolved in a solid",
+              "A single pure liquid with no mixture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a common example of an emulsion?",
+            "options": [
+              "A block of solid ice",
+              "Mayonnaise, made from oil and water-based ingredients",
+              "Pure distilled water",
+              "Oxygen gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do the particles in a colloid not settle out over time like in a simple mixture?",
+            "options": [
+              "The particles are small enough to remain evenly dispersed",
+              "Gravity has no effect on any mixtures",
+              "The particles are too large to move at all",
+              "Colloids contain no particles whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might be added to help stabilize an emulsion, like in salad dressing?",
+            "options": [
+              "Pure oxygen gas",
+              "A stronger acid only",
+              "A radioactive isotope",
+              "An emulsifier"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The British Commonwealth Air Training Plan",
+        "summary": "Grade 10 History strand: during World War II, Canada hosted the British Commonwealth Air Training Plan, training tens of thousands of Allied aircrew using Canadas wide open spaces and relative safety from enemy attack.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the British Commonwealth Air Training Plan?",
+            "options": [
+              "A program that trained Allied aircrew in Canada during World War II",
+              "A trade agreement between Canada and Britain",
+              "A postwar immigration program",
+              "A railway construction project"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was Canada chosen to host this training program?",
+            "options": [
+              "Its wide open spaces and relative safety from enemy attack",
+              "Canada was under direct enemy occupation",
+              "Canada had no involvement in World War II",
+              "Canada had no open land available"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Roughly how many Allied aircrew were trained through this program?",
+            "options": [
+              "Tens of thousands",
+              "None at all",
+              "Several hundred thousand million",
+              "Only a dozen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What historical period does the British Commonwealth Air Training Plan belong to?",
+            "options": [
+              "Confederation era",
+              "World War II",
+              "World War I",
+              "The Cold War"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the training plan significant in Canadian military history?",
+            "options": [
+              "It only trained Canadian civilians with no military purpose",
+              "It shows Canada had no role in World War II",
+              "It had no lasting impact on Canadian history",
+              "It demonstrated Canadas major contribution to the Allied war effort"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 115,
+    "label": "Day 115 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Emphatic Pronouns and Intensifiers",
+        "summary": "Grade 10 English strand: emphatic pronouns like myself or himself add emphasis to a noun already mentioned, while intensifiers such as very or extremely strengthen the meaning of an adjective or adverb.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is the purpose of an emphatic pronoun?",
+            "options": [
+              "To replace a verb entirely",
+              "To act as a question word",
+              "To add emphasis to a noun or pronoun already mentioned",
+              "To function as a preposition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses an emphatic pronoun?",
+            "options": [
+              "The principal herself announced the news.",
+              "The principal announced herself the news.",
+              "The principal announced the news herself very.",
+              "Herself the principal announced the news."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an intensifier?",
+            "options": [
+              "A type of conjunction",
+              "A word that strengthens the meaning of an adjective or adverb",
+              "A punctuation mark",
+              "A word that replaces a noun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word functions as an intensifier in the sentence She was extremely tired?",
+            "options": [
+              "Tired",
+              "Was",
+              "She",
+              "Extremely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should writers use intensifiers sparingly in formal writing?",
+            "options": [
+              "Formal writing requires intensifiers in every sentence",
+              "Intensifiers are grammatically forbidden in all writing",
+              "Intensifiers always strengthen writing no matter how often used",
+              "Overusing them can weaken the precision and impact of the writing"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: The Fundamental Theorem of Algebra",
+        "summary": "Grade 10 Math strand: the Fundamental Theorem of Algebra states that every polynomial equation of degree n has exactly n roots when counting complex and repeated roots, connecting algebra to complex numbers.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Fundamental Theorem of Algebra state?",
+            "options": [
+              "Polynomials never have complex roots",
+              "A polynomial always has zero roots",
+              "Only linear equations have any roots",
+              "A polynomial of degree n has exactly n roots, counting complex and repeated roots"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many roots does a degree-4 polynomial have according to this theorem?",
+            "options": [
+              "Four",
+              "Infinite",
+              "Zero",
+              "One"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What earlier math concept does this theorem connect to?",
+            "options": [
+              "Only fractions",
+              "Only negative integers",
+              "Complex and imaginary numbers",
+              "Only whole numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can a polynomials roots include complex numbers?",
+            "options": [
+              "Only irrational roots are allowed",
+              "No, roots must always be negative",
+              "No, roots must always be whole numbers",
+              "Yes, according to the Fundamental Theorem of Algebra"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Fundamental Theorem of Algebra considered important in mathematics?",
+            "options": [
+              "It guarantees a predictable number of solutions for polynomial equations",
+              "It proves that polynomials have no solutions",
+              "It only applies to equations with no variables",
+              "It disproves the existence of complex numbers"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Comets, Meteors, and Asteroids",
+        "summary": "Grade 10 Science strand: comets, meteors, and asteroids are distinct types of small bodies in space, differing in composition and behaviour, from icy comets that develop tails to rocky asteroids and burning meteors entering the atmosphere.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What are comets primarily made of?",
+            "options": [
+              "Only gas with no solid material",
+              "Pure solid metal",
+              "Only liquid water",
+              "Ice, dust, and rocky material"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes a comets visible tail?",
+            "options": [
+              "The comet reflecting moonlight only",
+              "Ice and dust vaporizing as the comet nears the sun",
+              "A tail forms only when comets collide with planets",
+              "The comet burning fuel like a rocket"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an asteroid primarily made of?",
+            "options": [
+              "Only gas",
+              "Rock and metal",
+              "Only ice",
+              "Only liquid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a meteor?",
+            "options": [
+              "A small piece of debris burning up as it enters a planets atmosphere",
+              "A permanent moon of Earth",
+              "A fully formed planet",
+              "A type of star"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where are most asteroids in our solar system located?",
+            "options": [
+              "On the surface of Earth only",
+              "In the asteroid belt between Mars and Jupiter",
+              "Beyond the orbit of Pluto only",
+              "Inside the sun"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The St. Lawrence Seaway",
+        "summary": "Grade 10 History strand: completed in 1959 as a joint project between Canada and the United States, the St. Lawrence Seaway created a deep waterway connecting the Great Lakes to the Atlantic Ocean, transforming trade and industry.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the St. Lawrence Seaway create?",
+            "options": [
+              "A deep waterway connecting the Great Lakes to the Atlantic Ocean",
+              "A highway system in Northern Canada",
+              "A new international airport",
+              "A new railway line across the Prairies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two countries jointly built the St. Lawrence Seaway?",
+            "options": [
+              "Canada and France",
+              "Canada and Britain",
+              "Canada and the United States",
+              "The United States and Mexico"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year was the St. Lawrence Seaway completed?",
+            "options": [
+              "1867",
+              "1949",
+              "1959",
+              "1999"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did the St. Lawrence Seaway affect trade and industry?",
+            "options": [
+              "It allowed large ships greater access to inland ports, boosting trade",
+              "It closed off the Great Lakes from international shipping",
+              "It had no effect on Canadian industry",
+              "It completely ended all shipping in the region"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The St. Lawrence Seaway is an example of ___.",
+            "options": [
+              "A conflict between Canada and the United States",
+              "International cooperation on major infrastructure projects",
+              "A purely domestic Canadian project with no international involvement",
+              "A project that was never completed"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 116,
+    "label": "Day 116 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Foil Characters",
+        "summary": "Grade 10 English strand: a foil character has traits that contrast sharply with a main character, and this contrast helps highlight and clarify the main characters own qualities and choices.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a foil character?",
+            "options": [
+              "A character whose traits contrast with a main character to highlight them",
+              "A type of narrator",
+              "A character who never appears in the story",
+              "A character identical to the main character"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of a foil character?",
+            "options": [
+              "To remove all conflict from the story",
+              "To highlight and clarify the main characters qualities through contrast",
+              "To confuse the reader about the plot",
+              "To replace the main character entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a protagonist is impulsive, a foil character might be ___.",
+            "options": [
+              "A narrator only",
+              "Also impulsive in the exact same way",
+              "Nonexistent in the story",
+              "Deliberate and cautious"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Foil characters are most useful for revealing ___.",
+            "options": [
+              "Nothing about the characters",
+              "Personality traits through comparison",
+              "Only the setting of a story",
+              "Only the time period of a story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a foil relationship?",
+            "options": [
+              "A character and a map",
+              "A reckless character paired with a cautious character",
+              "A character and the weather",
+              "Two identical characters with no differences"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: An Introduction to Continued Fractions",
+        "summary": "Grade 10 Math strand: a continued fraction expresses a number as a whole number plus a fraction whose denominator is itself a sum involving another fraction, offering an alternative way to represent and approximate numbers.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is a continued fraction?",
+            "options": [
+              "A number expressed as a whole number plus a nested fraction",
+              "A fraction with no denominator",
+              "A type of matrix",
+              "A whole number with no fractional part"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can continued fractions be used to approximate?",
+            "options": [
+              "Only whole numbers",
+              "Only negative numbers",
+              "Nothing meaningful",
+              "Irrational numbers with increasing accuracy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Continued fractions provide an alternative way to represent which type of numbers?",
+            "options": [
+              "Only imaginary numbers",
+              "Only matrices",
+              "Real numbers, including irrational ones",
+              "Only angles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might mathematicians use continued fractions instead of decimals?",
+            "options": [
+              "They eliminate the need for fractions entirely",
+              "They can reveal patterns and provide highly accurate rational approximations",
+              "They are always less accurate than decimals",
+              "They cannot represent any numbers at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A simple continued fraction typically uses which type of numbers in its structure?",
+            "options": [
+              "Only negative decimals",
+              "Only complex numbers",
+              "Whole numbers (integers)",
+              "Only percentages"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Physics of Roller Coasters: Energy Transformations",
+        "summary": "Grade 10 Science strand: roller coasters convert gravitational potential energy at the top of hills into kinetic energy as cars accelerate downward, illustrating the conservation and transformation of mechanical energy.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What type of energy does a roller coaster car have at the top of a hill?",
+            "options": [
+              "Only sound energy",
+              "No energy at all",
+              "Only chemical energy",
+              "Gravitational potential energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to potential energy as the car speeds down a hill?",
+            "options": [
+              "It disappears completely",
+              "It converts into sunlight",
+              "It stays exactly the same amount as potential energy",
+              "It converts into kinetic energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is kinetic energy?",
+            "options": [
+              "The energy stored due to height",
+              "The energy of light only",
+              "The energy of sound only",
+              "The energy of motion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do roller coasters usually have their highest hill first?",
+            "options": [
+              "To eliminate all kinetic energy",
+              "To make the ride slower overall",
+              "Height has no effect on the ride",
+              "To build up the maximum potential energy needed for the ride"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Roller coasters demonstrate what general scientific principle?",
+            "options": [
+              "The conservation and transformation of energy",
+              "That motion requires no energy at all",
+              "That energy can be created from nothing",
+              "That energy disappears permanently during motion"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Alaska Boundary Dispute of 1903",
+        "summary": "Grade 10 History strand: the Alaska Boundary Dispute was an early 20th-century disagreement between Canada and the United States over the border of the Alaska Panhandle, settled by a tribunal in a decision many Canadians saw as unfair.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Alaska Boundary Dispute about?",
+            "options": [
+              "A disagreement over the border of the Alaska Panhandle",
+              "A disagreement about a railway route",
+              "A dispute over fishing rights in the Pacific Ocean",
+              "A dispute over the Great Lakes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two countries were involved in the Alaska Boundary Dispute?",
+            "options": [
+              "Canada and Britain only",
+              "Canada and Russia",
+              "The United States and Mexico",
+              "Canada and the United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When was the Alaska Boundary Dispute settled?",
+            "options": [
+              "1950",
+              "1999",
+              "1903",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did many Canadians view the outcome of the dispute?",
+            "options": [
+              "As unfair to Canadian interests",
+              "As entirely fair and favourable to Canada",
+              "As having no effect on Canada",
+              "As a complete victory for Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Alaska Boundary Dispute is often cited as an example of ___.",
+            "options": [
+              "Canadas limited independence in foreign affairs at the time",
+              "An issue unrelated to Canadian sovereignty",
+              "A conflict resolved through war",
+              "Canadas complete independence from Britain by 1903"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 117,
+    "label": "Day 117 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: Writing a Monologue",
+        "summary": "Grade 10 English strand: a monologue is an extended speech by a single character revealing their thoughts, motivations, or emotions, requiring a consistent and believable voice throughout.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a monologue?",
+            "options": [
+              "An extended speech by a single character",
+              "A short list of stage directions",
+              "A type of grammar rule",
+              "A conversation between two or more characters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can a monologue reveal about a character?",
+            "options": [
+              "Nothing meaningful about the character",
+              "Only their physical appearance",
+              "Only unrelated background information",
+              "Their thoughts, motivations, or emotions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is essential for a monologue to feel believable?",
+            "options": [
+              "A consistent and authentic voice throughout",
+              "A voice identical to every other character",
+              "Complete silence with no words spoken",
+              "Constantly shifting perspectives with no consistency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which context might a monologue commonly appear?",
+            "options": [
+              "A weather report",
+              "A play, film, or piece of dramatic writing",
+              "A grocery list",
+              "A mathematical proof"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use a monologue instead of dialogue?",
+            "options": [
+              "To avoid revealing anything about a character",
+              "Monologues never provide any character insight",
+              "Monologues always involve multiple speaking characters",
+              "To give deep insight into a single characters internal perspective"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Discrete Math: An Introduction to Graph Theory",
+        "summary": "Grade 10 Math strand: graph theory studies networks made of nodes (or vertices) connected by edges, used to model relationships and connections in systems like social networks, transportation maps, and computer networks.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What are the two basic components of a graph in graph theory?",
+            "options": [
+              "Only angles",
+              "Only fractions",
+              "Only numbers",
+              "Nodes (vertices) and edges"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does an edge in a graph represent?",
+            "options": [
+              "A single isolated point",
+              "The colour of the graph",
+              "A connection between two nodes",
+              "The total size of the graph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which real-world system could be modeled using graph theory?",
+            "options": [
+              "A transportation network showing routes between cities",
+              "The taste of a food",
+              "The freezing point of water",
+              "The colour of the sky"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In graph theory, a node with many connecting edges is often called ___.",
+            "options": [
+              "An isolated node",
+              "A deleted node",
+              "A highly connected or high-degree node",
+              "An imaginary node"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Graph theory is especially useful in fields such as ___.",
+            "options": [
+              "Computer science and network design",
+              "Only painting and drawing",
+              "Only music composition",
+              "Only cooking and recipes"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bird Migration and Animal Navigation",
+        "summary": "Grade 10 Science strand: many animals, especially migratory birds, travel long distances using cues like the position of the sun and stars, Earths magnetic field, and landmarks to navigate accurately.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is bird migration?",
+            "options": [
+              "A method of finding food only within one location",
+              "The seasonal, long-distance travel of birds between habitats",
+              "A permanent move with no return",
+              "A type of hibernation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one cue animals use to navigate during migration?",
+            "options": [
+              "Random guessing with no cues",
+              "The price of local food sources",
+              "Earths magnetic field",
+              "The colour of nearby buildings"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might birds migrate seasonally?",
+            "options": [
+              "To find better food sources and breeding conditions",
+              "To avoid other birds entirely",
+              "Migration serves no biological purpose",
+              "To permanently leave their habitat forever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Besides Earths magnetic field, what other cues can animals use to navigate?",
+            "options": [
+              "Only nearby traffic sounds",
+              "The position of the sun and stars",
+              "Only human-made maps",
+              "Only the colour of the sky"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What term describes an animals ability to sense Earths magnetic field for navigation?",
+            "options": [
+              "Photosynthesis",
+              "Echolocation",
+              "Magnetoreception",
+              "Osmosis"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Sixties Scoop",
+        "summary": "Grade 10 History strand: the Sixties Scoop refers to the mass removal of Indigenous children from their families and placement into non-Indigenous foster or adoptive homes from the 1960s through the 1980s, causing lasting harm to Indigenous communities.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Sixties Scoop?",
+            "options": [
+              "A government program to build new schools",
+              "The mass removal of Indigenous children into non-Indigenous foster or adoptive homes",
+              "A celebration of Indigenous culture",
+              "A trade agreement between Canada and other countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Roughly during what period did the Sixties Scoop occur?",
+            "options": [
+              "From the 1960s through the 1980s",
+              "Only during World War II",
+              "It has not happened yet",
+              "Only during a single year in the 1800s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What lasting impact did the Sixties Scoop have on Indigenous communities?",
+            "options": [
+              "It had no lasting impact on any community",
+              "It caused significant harm, including loss of cultural connection and identity",
+              "It strengthened Indigenous family structures",
+              "It only affected non-Indigenous families"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the Sixties Scoop now widely viewed by historians and the Canadian government?",
+            "options": [
+              "As a policy with no lasting consequences",
+              "As a harmful policy that caused significant trauma",
+              "As an event that never actually took place",
+              "As a completely positive and beneficial policy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Sixties Scoop is often studied alongside which related historical topic?",
+            "options": [
+              "The Klondike Gold Rush",
+              "The construction of the Avro Arrow",
+              "Residential schools and their legacy",
+              "The Halifax Explosion"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 118,
+    "label": "Day 118 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Round and Flat Characters",
+        "summary": "Grade 10 English strand: a round character is complex and multidimensional, capable of change, while a flat character is simpler, often defined by a single trait and used to support the story without extensive development.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What defines a round character?",
+            "options": [
+              "A character who never appears in the story",
+              "A character with no personality traits at all",
+              "A complex, multidimensional character capable of change",
+              "A character defined only by their physical appearance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a flat character?",
+            "options": [
+              "A simpler character often defined by a single trait",
+              "A character who narrates the entire story",
+              "A character with the most complex development in the story",
+              "A character who is always the protagonist"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author include flat characters in a story?",
+            "options": [
+              "To confuse readers about who the protagonist is",
+              "Flat characters are never used in effective storytelling",
+              "To support the plot without requiring extensive development",
+              "Flat characters always take over as the main character"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a round character?",
+            "options": [
+              "A character with no name or role in the plot",
+              "A protagonist who grows, struggles, and changes throughout the story",
+              "A background character who appears for one line with no development",
+              "A character who is only ever described by their job title"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for readers to distinguish between round and flat characters?",
+            "options": [
+              "It helps readers understand which characters drive change and complexity in a story",
+              "This distinction has no effect on understanding a story",
+              "Only flat characters ever matter to a story",
+              "All characters in every story are exactly the same"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to the Central Limit Theorem",
+        "summary": "Grade 10 Math strand: the Central Limit Theorem states that the distribution of sample means tends to become approximately normal as sample size increases, regardless of the shape of the original population distribution.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Central Limit Theorem describe?",
+            "options": [
+              "How the distribution of sample means becomes approximately normal as sample size grows",
+              "A theorem about the area of circles",
+              "A method for factoring polynomials",
+              "A rule that applies only to whole numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to the Central Limit Theorem, what happens as sample size increases?",
+            "options": [
+              "The sample means always become identical to the population mean",
+              "The distribution becomes more random with no pattern",
+              "The theorem no longer applies at all",
+              "The distribution of sample means becomes more normal in shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the Central Limit Theorem depend on the shape of the original population?",
+            "options": [
+              "It only works for extremely small populations",
+              "It cannot be applied to any real data",
+              "No, it generally holds true regardless of the original distributions shape",
+              "Yes, it only works if the population is already normal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Central Limit Theorem important in statistics?",
+            "options": [
+              "It only applies to a single specific data set",
+              "It allows statisticians to make inferences using the normal distribution even with non-normal data",
+              "It eliminates the need for any sampling",
+              "It has no practical use in statistics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Central Limit Theorem is especially useful when working with ___.",
+            "options": [
+              "Only a single data point",
+              "Only data with no variation at all",
+              "Sample means drawn from a larger population",
+              "Only categorical, non-numeric data"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Excretory System: Kidneys and Waste Removal",
+        "summary": "Grade 10 Science strand: the excretory system, especially the kidneys, filters waste products and excess water from the blood, producing urine and helping maintain the bodys fluid and chemical balance.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is the main function of the excretory system?",
+            "options": [
+              "Digesting food in the stomach",
+              "Producing sound for speech",
+              "Filtering waste products and excess water from the blood",
+              "Pumping blood throughout the body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which organs are the primary filters in the excretory system?",
+            "options": [
+              "The heart",
+              "The kidneys",
+              "The lungs",
+              "The liver only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What waste product do the kidneys help remove from the body?",
+            "options": [
+              "Only carbon dioxide",
+              "Urine, containing filtered waste and excess water",
+              "Only saliva",
+              "Only sweat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is maintaining fluid and chemical balance in the body important?",
+            "options": [
+              "It supports proper function of cells and organs",
+              "The body never needs to balance fluids",
+              "Only muscles are affected by fluid balance",
+              "Fluid balance has no effect on the body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The excretory system works to keep the bodys internal environment ___.",
+            "options": [
+              "Unrelated to overall health",
+              "Constantly changing with no regulation",
+              "Completely dependent on outside temperature",
+              "Stable and balanced (homeostasis)"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Nisgaa Treaty and Modern Land Claims",
+        "summary": "Grade 10 History strand: the Nisgaa Treaty of 2000 was a landmark modern land claims agreement recognizing Nisgaa self-government and land rights in British Columbia, setting an important precedent for later Indigenous treaties in Canada.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Nisgaa Treaty recognize?",
+            "options": [
+              "A complete end to all Indigenous land claims",
+              "Nisgaa self-government and land rights",
+              "A new provincial boundary",
+              "A new national park with no Indigenous involvement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year was the Nisgaa Treaty finalized?",
+            "options": [
+              "2000",
+              "1867",
+              "1999",
+              "1949"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which province was the Nisgaa Treaty signed?",
+            "options": [
+              "Quebec",
+              "Ontario",
+              "Nova Scotia",
+              "British Columbia"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Nisgaa Treaty considered a landmark agreement?",
+            "options": [
+              "It only applied to a single unrelated town",
+              "It set an important precedent for later Indigenous treaties in Canada",
+              "It ended all Indigenous rights in Canada",
+              "It had no effect on any future negotiations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Nisgaa Treaty is an example of ___.",
+            "options": [
+              "A 19th-century treaty",
+              "A modern land claims agreement with Indigenous peoples",
+              "An agreement unrelated to Indigenous rights",
+              "A treaty with no legal recognition"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 119,
+    "label": "Day 119 — Thu",
+    "subjects": [
+      {
+        "subject": "Math",
+        "title": "Algebra: Advanced Applications of Continued Fractions and Approximation",
+        "summary": "Grade 10 Math strand: building on continued fractions, this lesson explores how truncating a continued fraction at different points produces increasingly accurate rational approximations of irrational numbers like the square root of two.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What happens when a continued fraction is truncated at an earlier point?",
+            "options": [
+              "It produces a less accurate, simpler rational approximation",
+              "It always produces the exact original number",
+              "It has no effect on the approximation",
+              "It becomes undefined"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens as more terms of a continued fraction are included?",
+            "options": [
+              "The value becomes undefined",
+              "The approximation typically becomes more accurate",
+              "The approximation always becomes less accurate",
+              "Nothing changes at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Continued fraction approximations are especially useful for representing ___.",
+            "options": [
+              "Only negative numbers",
+              "Only numbers equal to zero",
+              "Irrational numbers, like the square root of two",
+              "Only whole numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might engineers historically have used continued fraction approximations?",
+            "options": [
+              "Continued fractions have no real-world engineering use",
+              "They can only represent whole numbers",
+              "To find simple, accurate fractions to represent irrational measurements",
+              "They always produce completely inaccurate results"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A key property of continued fractions is that they can represent numbers with ___.",
+            "options": [
+              "Increasing levels of precision as more terms are added",
+              "Only integer values with no fractions involved",
+              "No connection to the actual value being approximated",
+              "A fixed, unchangeable level of precision only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Circular and Non-Linear Structure",
+        "summary": "Grade 10 English strand: a circular or non-linear narrative structure disrupts standard chronological order, moving between past, present, or multiple perspectives to create suspense, reveal information strategically, or mirror a characters state of mind.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a non-linear narrative structure do?",
+            "options": [
+              "Always follows events in perfect chronological order",
+              "Disrupts standard chronological order in storytelling",
+              "Removes the need for any structure at all",
+              "Uses only dialogue with no narration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a circular narrative structure do at the end of a story?",
+            "options": [
+              "Remove the ending entirely",
+              "End with no connection to any earlier part of the story",
+              "Return to an idea, image, or scene from the beginning",
+              "Never reference the beginning of the story at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use a non-linear structure?",
+            "options": [
+              "To create suspense or strategically reveal information",
+              "Non-linear structures are never used in effective storytelling",
+              "To remove all meaning from the plot",
+              "To make the story completely impossible to follow with no purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A non-linear structure might move between which of the following?",
+            "options": [
+              "Only a single unchanging moment in time",
+              "Past, present, and multiple perspectives",
+              "Only numbers and equations",
+              "Only unrelated grammar rules"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can a non-linear structure mirror a characters state of mind?",
+            "options": [
+              "It removes the character from the story entirely",
+              "It always simplifies a characters emotions",
+              "By reflecting memory, trauma, or confusion through disordered storytelling",
+              "It can never reflect a characters internal state"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Desert Ecosystems and Adaptations",
+        "summary": "Grade 10 Science strand: desert ecosystems receive very little precipitation, and the plants and animals that live there have evolved specialized adaptations, such as water storage and nocturnal behaviour, to survive extreme conditions.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What defines a desert ecosystem?",
+            "options": [
+              "No sunlight at all",
+              "Constant freezing temperatures only",
+              "Extremely high precipitation",
+              "Very little precipitation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one adaptation desert plants often have?",
+            "options": [
+              "A requirement for extremely cold temperatures",
+              "The need for constant flooding",
+              "An inability to survive any sunlight",
+              "The ability to store water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might many desert animals be nocturnal?",
+            "options": [
+              "To avoid finding food entirely",
+              "To avoid the extreme heat of the day",
+              "Nocturnal behaviour has no survival advantage",
+              "Because deserts have no daytime at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a well-known desert plant adaptation?",
+            "options": [
+              "A pine trees needle-shaped leaves for cold climates",
+              "A palm trees tolerance for constant rain",
+              "A cactuss thick, water-storing stem",
+              "A water lilys floating leaves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Desert ecosystems can be found on which types of land?",
+            "options": [
+              "Both hot and cold regions with low precipitation",
+              "Only areas near the equator",
+              "Only underwater locations",
+              "Only areas with constant rainfall"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Clifford Sifton and the Settlement of the Canadian Prairies",
+        "summary": "Grade 10 History strand: as Minister of the Interior in the early 1900s, Clifford Sifton led an aggressive immigration campaign to settle the Canadian Prairies, dramatically increasing the regions population and agricultural output.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What government position did Clifford Sifton hold?",
+            "options": [
+              "Prime Minister",
+              "Minister of Defence",
+              "Governor General",
+              "Minister of the Interior"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was Clifford Siftons main policy goal?",
+            "options": [
+              "To reduce agricultural production in Canada",
+              "To build a new national railway from scratch",
+              "To close Canadas borders to all immigration",
+              "To attract immigrants to settle the Canadian Prairies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What effect did Siftons immigration campaign have on the Prairies?",
+            "options": [
+              "It dramatically increased population and agricultural output",
+              "It had no effect on the regions population",
+              "It ended all farming in the region",
+              "It caused the Prairies to become completely uninhabited"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Roughly when was Clifford Sifton active in this role?",
+            "options": [
+              "After World War II",
+              "In the 1990s",
+              "In the early 1900s",
+              "In the 1700s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Siftons policies are often studied as part of a larger effort to ___.",
+            "options": [
+              "Isolate the Prairies from the rest of Canada",
+              "Prevent any settlement of Western Canada",
+              "Discourage all immigration to Canada",
+              "Encourage settlement and economic development in Western Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 120,
+    "label": "Day 120 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Grammar, Vocabulary, and Reading Analysis",
+        "summary": "Grade 10 English strand review: students revisit ellipsis, juxtaposition, letters of apology, memes, emphatic pronouns, foil characters, monologues, and round vs flat characters.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does an ellipsis indicate when used in a direct quotation?",
+            "options": [
+              "That the entire quotation is false",
+              "That the writer disagrees with the quotation",
+              "That the sentence has ended with a question",
+              "That words have been omitted from the original text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "Placing two contrasting elements side by side",
+              "A type of punctuation mark",
+              "A grammar rule for verb tense",
+              "Combining two similar ideas into one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a foil character?",
+            "options": [
+              "A character whose traits contrast with a main character to highlight them",
+              "A character identical to the main character",
+              "A character who never appears in the story",
+              "A type of narrator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a monologue?",
+            "options": [
+              "A short list of stage directions",
+              "An extended speech by a single character",
+              "A conversation between two or more characters",
+              "A type of grammar rule"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What defines a round character?",
+            "options": [
+              "A complex, multidimensional character capable of change",
+              "A character who never appears in the story",
+              "A character with no personality traits at all",
+              "A character defined only by their physical appearance"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Limits, Complex Numbers, and Advanced Concepts",
+        "summary": "Grade 10 Math strand review: students revisit limits, the unit circle, De Moivres Theorem, parametric equations, the Fundamental Theorem of Algebra, continued fractions, graph theory, and the Central Limit Theorem.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a limit describe in mathematics?",
+            "options": [
+              "A fixed number that never changes",
+              "The total area under a curve only",
+              "The value a function approaches as its input gets closer to a certain number",
+              "The exact value of a function at every point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does De Moivres Theorem help calculate?",
+            "options": [
+              "The area of a triangle",
+              "A complex number in polar form raised to a power",
+              "The volume of a sphere",
+              "The slope of a line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Fundamental Theorem of Algebra state?",
+            "options": [
+              "A polynomial always has zero roots",
+              "Polynomials never have complex roots",
+              "Only linear equations have any roots",
+              "A polynomial of degree n has exactly n roots, counting complex and repeated roots"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are the two basic components of a graph in graph theory?",
+            "options": [
+              "Only numbers",
+              "Only fractions",
+              "Only angles",
+              "Nodes (vertices) and edges"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Central Limit Theorem describe?",
+            "options": [
+              "A method for factoring polynomials",
+              "A rule that applies only to whole numbers",
+              "A theorem about the area of circles",
+              "How the distribution of sample means becomes approximately normal as sample size grows"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Senses, Chemistry, and Earth Science",
+        "summary": "Grade 10 Science strand review: students revisit the human eye and ear, antibiotic resistance, colloids and emulsions, comets/meteors/asteroids, roller coaster physics, bird migration, the excretory system, and desert ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What structure in the eye focuses light onto the retina?",
+            "options": [
+              "The epidermis",
+              "The trachea",
+              "The lens",
+              "The eardrum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structure vibrates when sound waves first enter the ear?",
+            "options": [
+              "The eardrum",
+              "The retina",
+              "The cochlea alone",
+              "The optic nerve"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an emulsion?",
+            "options": [
+              "A single pure liquid with no mixture",
+              "A solid dissolved completely in water",
+              "A gas dissolved in a solid",
+              "A colloid formed from two liquids that would not normally mix"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a meteor?",
+            "options": [
+              "A small piece of debris burning up as it enters a planets atmosphere",
+              "A type of star",
+              "A fully formed planet",
+              "A permanent moon of Earth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which organs are the primary filters in the excretory system?",
+            "options": [
+              "The heart",
+              "The lungs",
+              "The liver only",
+              "The kidneys"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: Canadian Autonomy and Modern Land Claims",
+        "summary": "Grade 10 History strand review: students revisit Newfoundlands entry into Confederation, the Balfour Declaration, the Naval Service Act, the Commonwealth Air Training Plan, the St. Lawrence Seaway, the Alaska Boundary Dispute, the Sixties Scoop, the Nisgaa Treaty, and Clifford Sifton.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year did Newfoundland join Confederation?",
+            "options": [
+              "1949",
+              "1905",
+              "1999",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Balfour Declaration of 1926 recognize about Canada?",
+            "options": [
+              "That Canada had no relationship with Britain at all",
+              "That Canada was equal in status to Britain",
+              "That Canada was a colony with no rights",
+              "That Canada should be governed entirely by Britain"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What did the Naval Service Act of 1910 establish?",
+            "options": [
+              "The Royal Canadian Navy",
+              "The Canadian Army",
+              "A national police force",
+              "The Royal Canadian Air Force"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Sixties Scoop?",
+            "options": [
+              "A trade agreement between Canada and other countries",
+              "The mass removal of Indigenous children into non-Indigenous foster or adoptive homes",
+              "A celebration of Indigenous culture",
+              "A government program to build new schools"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What government position did Clifford Sifton hold?",
+            "options": [
+              "Prime Minister",
+              "Governor General",
+              "Minister of Defence",
+              "Minister of the Interior"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
