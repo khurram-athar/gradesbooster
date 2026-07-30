@@ -8373,6 +8373,7 @@
         "summary": "Grade 12 English strand: formal university-level debate requires rigorous research, structured argumentation, and the ability to respond persuasively and respectfully to complex counterarguments under time constraints.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Kgvx7Z7dR9U",
         "quiz": [
           {
             "q": "University-level formal debate requires rigorous ___.",
@@ -8432,6 +8433,7 @@
         "summary": "Grade 12 Advanced Functions strand: parametric equations define x and y coordinates separately in terms of a third variable, often called a parameter, allowing more complex curves and motion paths to be represented.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=630oo_Aqz2g",
         "quiz": [
           {
             "q": "Parametric equations define x and y coordinates separately in terms of a ___.",
@@ -8491,6 +8493,7 @@
         "summary": "Grade 12 Calculus strand: partial fraction decomposition breaks a complex rational expression into a sum of simpler fractions, making certain integrals significantly easier to evaluate.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=6rXByMcuAyI",
         "quiz": [
           {
             "q": "Partial fraction decomposition breaks a complex rational expression into ___.",
@@ -8550,6 +8553,7 @@
         "summary": "Grade 12 Physics strand: a capacitor stores electric charge and energy in an electric field between two conductive plates, with the amount of stored energy related to its capacitance and the voltage applied.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=KoZ61FujkRk",
         "quiz": [
           {
             "q": "A capacitor stores electric charge and energy in an electric field between ___.",

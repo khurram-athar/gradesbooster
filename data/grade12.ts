@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"English", title:"Oral Communication: Formal Debate at the University Level", summary:"Grade 12 English strand: formal university-level debate requires rigorous research, structured argumentation, and the ability to respond persuasively and respectfully to complex counterarguments under time constraints.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=Kgvx7Z7dR9U",
    quiz:[
      {q:"University-level formal debate requires rigorous ___.", options:["Improvisation with no preparation whatsoever","Research","Avoidance of any factual support","A concept unrelated to argumentation"], answer:1},
      {q:"Why is structured argumentation important in a formal debate setting?", options:["Structure has no effect on how an argument is received in a debate","This concept has no connection to effective persuasive communication","Formal debates should always avoid any clear organization","It helps ensure the argument is clear, logical, and easy for the audience and judges to follow"], answer:3},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Parametric Equations: Introduction and Applications", summary:"Grade 12 Advanced Functions strand: parametric equations define x and y coordinates separately in terms of a third variable, often called a parameter, allowing more complex curves and motion paths to be represented.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=630oo_Aqz2g",
    quiz:[
      {q:"Parametric equations define x and y coordinates separately in terms of a ___.", options:["Third variable, called a parameter","Single, fixed constant with no variation","Colour, with no connection to numerical values","Concept entirely unrelated to coordinates"], answer:0},
      {q:"Parametric equations allow more complex ___ to be represented compared to a single function equation.", options:["Curves and motion paths","Numbers with no connection to geometry","A concept unrelated to graphing","Only straight lines, with no other shapes possible"], answer:0},
@@ -1450,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Partial Fractions in Integration", summary:"Grade 12 Calculus strand: partial fraction decomposition breaks a complex rational expression into a sum of simpler fractions, making certain integrals significantly easier to evaluate.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=6rXByMcuAyI",
    quiz:[
      {q:"Partial fraction decomposition breaks a complex rational expression into ___.", options:["A concept unrelated to rational expressions","A sum of simpler fractions","A single, more complicated fraction","An expression with no fractions involved at all"], answer:1},
      {q:"Partial fractions are primarily used to make certain ___ significantly easier to evaluate.", options:["Integrals","A concept entirely unrelated to integration","Simple addition problems","Only basic arithmetic calculations, with no connection to calculus"], answer:0},
@@ -1459,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Capacitors and Electric Potential Energy", summary:"Grade 12 Physics strand: a capacitor stores electric charge and energy in an electric field between two conductive plates, with the amount of stored energy related to its capacitance and the voltage applied.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=KoZ61FujkRk",
    quiz:[
      {q:"A capacitor stores electric charge and energy in an electric field between ___.", options:["Only non-conductive, insulating materials with no charge storage","A single, isolated point with no surrounding structure","A concept unrelated to electric charge","Two conductive plates"], answer:3},
      {q:"The amount of energy stored in a capacitor is related to its capacitance and ___.", options:["Only its physical colour, with no connection to voltage","The voltage applied","The temperature of the surrounding room exclusively","A factor entirely unrelated to electric charge"], answer:1},

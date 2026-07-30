@@ -8555,60 +8555,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Indigenous Land Claims and Geographic Justice",
-        "summary": "Grade 9 Social Studies (Geography) strand: Indigenous land claims involve legal and political efforts to recognize rights to traditional territories, connecting geography with issues of justice and self-determination.",
+        "title": "Mapping Indigenous Peoples and Territories in Canada",
+        "summary": "Grade 9 Social Studies (Geography) strand: geographic maps of Canada's Indigenous Peoples, including First Nations, Métis, and Inuit nations and communities, show the diversity of Indigenous cultures and traditional territories across the country.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=89q2Fo4usP4",
         "quiz": [
           {
-            "q": "Indigenous land claims involve efforts to ___.",
+            "q": "Which three groups make up the Indigenous Peoples of Canada?",
             "options": [
-              "Eliminate all Indigenous rights to land",
-              "A topic unrelated to geography or land",
-              "Recognize rights to traditional territories",
-              "Remove all legal processes related to land"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Geographic justice, in this context, connects issues of land with ___.",
-            "options": [
-              "Rights and self-determination",
-              "A concept unrelated to Indigenous communities",
-              "Only economic factors, with no connection to rights",
-              "No connection to justice or rights"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "Why might land claims be an important part of Indigenous self-determination?",
-            "options": [
-              "Self-determination is entirely unrelated to land or geography",
-              "Traditional territory has no significance to Indigenous communities",
-              "Land claims have no connection to self-determination",
-              "Control over traditional territory can be closely tied to cultural identity and autonomy"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is studying Indigenous land claims relevant to geography education?",
-            "options": [
-              "This topic is unrelated to geographic study",
-              "It connects geographic concepts of land and territory to real historical and legal issues",
-              "Land claims have no connection to geography",
-              "Geography never intersects with legal or political issues"
+              "Anglophones, Francophones, and Allophones",
+              "First Nations, Métis, and Inuit",
+              "Provinces, Territories, and Municipalities",
+              "Settlers, Immigrants, and Refugees"
             ],
             "answer": 1
           },
           {
-            "q": "Why might land claims processes be described as an ongoing aspect of geographic justice?",
+            "q": "A map of Indigenous territories in Canada typically shows ___.",
             "options": [
-              "Many claims remain in progress, reflecting continuing efforts toward recognition and resolution",
-              "Land claims have no connection to justice",
-              "This process has no relevance to modern geography",
-              "All land claims were fully resolved in the past with no ongoing processes"
+              "Only modern provincial borders",
+              "The traditional lands and diversity of different Indigenous nations",
+              "Weather patterns across the country",
+              "Highway systems only"
             ],
-            "answer": 0
+            "answer": 1
+          },
+          {
+            "q": "Why might a single geographic map show many overlapping Indigenous territories?",
+            "options": [
+              "Maps are usually drawn incorrectly",
+              "Many distinct Indigenous nations have their own histories and traditional lands across the country",
+              "Overlap on maps has no real meaning",
+              "Canada has only one Indigenous nation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Organizations like the Assembly of First Nations, the Métis National Council, and Inuit Tapiriit Kanatami represent ___.",
+            "options": [
+              "Provincial governments",
+              "Foreign countries",
+              "Distinct Indigenous peoples and communities across Canada",
+              "Municipal town councils"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is mapping Indigenous territories considered a useful geographic and educational tool?",
+            "options": [
+              "It has no educational value",
+              "It helps students understand the history, diversity, and geography of Indigenous nations across Canada",
+              "Maps cannot show cultural information",
+              "This kind of mapping is only used outside of Canada"
+            ],
+            "answer": 1
           }
         ]
       }

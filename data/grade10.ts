@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"English", title:"Reading: Analyzing Graphic Novels", summary:"Grade 10 English strand: graphic novels combine text and visual images to tell a story, requiring readers to analyze both written language and visual elements, such as panel layout and imagery, to understand meaning.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=l26IWC_8g3g",
    quiz:[
      {q:"Graphic novels combine ___.", options:["Text and visual images to tell a story","Neither text nor images","Only images, with no written language","Only text, with no visual elements at all"], answer:0},
      {q:"Analyzing a graphic novel requires readers to consider ___.", options:["Only the illustrations, with no attention to text","Only the written dialogue, with no attention to images","Neither the text nor the visual components","Both written language and visual elements like panel layout"], answer:3},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Correlation Coefficient and Line of Best Fit", summary:"Grade 10 Data Management strand: the correlation coefficient measures the strength and direction of a linear relationship between two variables, ranging from negative one to positive one.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=11c9cs6WpJU",
    quiz:[
      {q:"The correlation coefficient measures ___.", options:["The strength and direction of a linear relationship between two variables","The total sum of all data values","The exact number of data points in a set","A value unrelated to relationships between variables"], answer:0},
      {q:"A correlation coefficient close to positive one suggests ___.", options:["A strong negative relationship between the two variables","No relationship at all between the variables","A strong positive relationship between the two variables","A relationship that cannot be determined"], answer:2},
@@ -1450,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Biotechnology and Genetic Engineering", summary:"Grade 10 Biology strand: biotechnology uses biological systems and organisms to develop products and technologies, with genetic engineering involving the direct manipulation of an organism’s DNA for specific purposes.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=OVf_ASEGuns",
    quiz:[
      {q:"Biotechnology involves using biological systems to ___.", options:["A field unrelated to any practical application","Develop products and technologies","A process entirely unrelated to biology","Only artistic creation, with no scientific basis"], answer:1},
      {q:"Genetic engineering involves the direct manipulation of an organism’s ___.", options:["Diet, with no connection to genetics","External appearance only, with no genetic changes","DNA","A factor unrelated to biology"], answer:2},
@@ -1459,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Head Tax and Chinese Exclusion Act: A Historical Wrong", summary:"Grade 10 History strand: the Chinese Head Tax and later Chinese Exclusion Act were discriminatory Canadian immigration policies targeting Chinese immigrants, now widely recognized as historical injustices.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=mTKmEEtfbH0",
    quiz:[
      {q:"The Chinese Head Tax was a policy that ___.", options:["Required Chinese immigrants to pay a fee to enter Canada","Had no connection to immigration policy","Applied equally to immigrants from every country","Provided free entry for all immigrants"], answer:0},
      {q:"The Chinese Exclusion Act ___.", options:["Applied to all immigrant groups equally","Had no effect on immigration policy","Encouraged unlimited Chinese immigration to Canada","Significantly restricted Chinese immigration to Canada"], answer:3},

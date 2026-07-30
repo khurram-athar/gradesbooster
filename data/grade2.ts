@@ -1560,19 +1560,20 @@ const curriculum: DayContent[] = [
      {prompt:"If the minute hand points to the 6, how many minutes past the hour is it?", answers:["30"]},
      {prompt:"Would you use centimetres or metres to measure a pencil?", answers:["centimetres"]}
    ]},
-  {subject:"Science", title:"Review: Nocturnal Animals, Insects, Recycling and Gases", summary:"Students review recent Science topics: nocturnal animals, insects and their body parts, recycling and reducing waste, and the gas state of matter.",
-   resourceLabel:"YouTube: Review: Nocturnal Animals, Insects, Recycling and Gases", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Nocturnal%20Animals%2C%20Insects%2C%20Recycling%20and%20Gases%20grade%202%20educational",
+  {subject:"Science", title:"Insect Body Parts: How to Identify an Insect", summary:"Students learn how to identify an insect by its three main body parts (head, thorax, and abdomen), six legs, and antennae, which help tell insects apart from other small creatures like spiders or worms.",
+   resourceLabel:"YouTube: Insect Body Parts: How to Identify an Insect", resourceUrl:"https://www.youtube.com/results?search_query=Insect%20Body%20Parts%3A%20How%20to%20Identify%20an%20Insect%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3166nK3Gym8",
    quiz:[
-     {q:"Which of these animals is known for being nocturnal?", options:["A squirrel","An owl","A robin","A butterfly"], answer:1},
-     {q:"What are the three main body parts of an insect?", options:["Legs, eyes, and fur","Head, thorax, and abdomen","Head, tail, and wings","Shell, fin, and gills"], answer:1},
-     {q:"Which of these materials can often be recycled?", options:["Air","Paper","Food scraps only","Water"], answer:1},
-     {q:"Which of these is an example of a gas?", options:["A rock","Ice","Juice","Air"], answer:3},
-     {q:"Why are nocturnal animals often good at hearing or seeing in the dark?", options:["It helps them fly to warmer places","It helps them find food and avoid danger at night","It helps them build nests only","It helps them change colour"], answer:1}
+     {q:"What are the three main body parts of an insect?", options:["Shell, fin, and gills","Head, thorax, and abdomen","Legs, eyes, and fur","Head, tail, and wings"], answer:1},
+     {q:"How many legs does an insect have?", options:["Four","Eight","Six","Two"], answer:2},
+     {q:"What do insects use their antennae for?", options:["Flying only","Sensing their surroundings, like smell and touch","Digesting food","Making sounds only"], answer:1},
+     {q:"Which of these creatures is NOT an insect?", options:["A beetle", "An ant", "A spider", "A bee"], answer:2},
+     {q:"Why do scientists check for body parts like antennae and six legs before calling something an insect?", options:["These features help tell insects apart from other small creatures", "All small creatures are automatically insects", "Body parts have no connection to identifying insects", "Insects are identified only by their colour"], answer:0}
    ],
    worksheet:[
-     {prompt:"Name one nocturnal animal, like an owl or a bat.", answers:["an owl","owl","a bat","bat"]},
+     {prompt:"Name the three main body parts of an insect.", answers:["head, thorax, and abdomen","head thorax abdomen"]},
      {prompt:"How many legs does an insect have?", answers:["6","six"]},
-     {prompt:"Name one material that can be recycled, like paper or plastic.", answers:["paper","plastic","glass"]}
+     {prompt:"Name one body part you would look for to identify an insect, like antennae or six legs.", answers:["antennae","six legs","legs","wings"]}
    ]},
   {subject:"SocialStudies", title:"Review: Food Sources, Community Types, Provinces and Local Government", summary:"Students review recent Social Studies topics: where food comes from, types of communities, the provinces and territories of Canada, and municipal government.",
    resourceLabel:"YouTube: Review: Food Sources, Community Types, Provinces and Local Government", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Food%20Sources%2C%20Community%20Types%2C%20Provinces%20and%20Local%20Government%20grade%202%20educational",

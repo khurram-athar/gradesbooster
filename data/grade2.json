@@ -8995,70 +8995,69 @@
       },
       {
         "subject": "Science",
-        "title": "Review: Nocturnal Animals, Insects, Recycling and Gases",
-        "summary": "Students review recent Science topics: nocturnal animals, insects and their body parts, recycling and reducing waste, and the gas state of matter.",
-        "resourceLabel": "YouTube: Review: Nocturnal Animals, Insects, Recycling and Gases",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Review%3A%20Nocturnal%20Animals%2C%20Insects%2C%20Recycling%20and%20Gases%20grade%202%20educational",
+        "title": "Insect Body Parts: How to Identify an Insect",
+        "summary": "Students learn how to identify an insect by its three main body parts (head, thorax, and abdomen), six legs, and antennae, which help tell insects apart from other small creatures like spiders or worms.",
+        "resourceLabel": "YouTube: Insect Body Parts: How to Identify an Insect",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Insect%20Body%20Parts%3A%20How%20to%20Identify%20an%20Insect%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=3166nK3Gym8",
         "quiz": [
-          {
-            "q": "Which of these animals is known for being nocturnal?",
-            "options": [
-              "A squirrel",
-              "An owl",
-              "A robin",
-              "A butterfly"
-            ],
-            "answer": 1
-          },
           {
             "q": "What are the three main body parts of an insect?",
             "options": [
-              "Legs, eyes, and fur",
+              "Shell, fin, and gills",
               "Head, thorax, and abdomen",
-              "Head, tail, and wings",
-              "Shell, fin, and gills"
+              "Legs, eyes, and fur",
+              "Head, tail, and wings"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these materials can often be recycled?",
+            "q": "How many legs does an insect have?",
             "options": [
-              "Air",
-              "Paper",
-              "Food scraps only",
-              "Water"
+              "Four",
+              "Eight",
+              "Six",
+              "Two"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do insects use their antennae for?",
+            "options": [
+              "Flying only",
+              "Sensing their surroundings, like smell and touch",
+              "Digesting food",
+              "Making sounds only"
             ],
             "answer": 1
           },
           {
-            "q": "Which of these is an example of a gas?",
+            "q": "Which of these creatures is NOT an insect?",
             "options": [
-              "A rock",
-              "Ice",
-              "Juice",
-              "Air"
+              "A beetle",
+              "An ant",
+              "A spider",
+              "A bee"
             ],
-            "answer": 3
+            "answer": 2
           },
           {
-            "q": "Why are nocturnal animals often good at hearing or seeing in the dark?",
+            "q": "Why do scientists check for body parts like antennae and six legs before calling something an insect?",
             "options": [
-              "It helps them fly to warmer places",
-              "It helps them find food and avoid danger at night",
-              "It helps them build nests only",
-              "It helps them change colour"
+              "These features help tell insects apart from other small creatures",
+              "All small creatures are automatically insects",
+              "Body parts have no connection to identifying insects",
+              "Insects are identified only by their colour"
             ],
-            "answer": 1
+            "answer": 0
           }
         ],
         "worksheet": [
           {
-            "prompt": "Name one nocturnal animal, like an owl or a bat.",
+            "prompt": "Name the three main body parts of an insect.",
             "answers": [
-              "an owl",
-              "owl",
-              "a bat",
-              "bat"
+              "head, thorax, and abdomen",
+              "head thorax abdomen"
             ]
           },
           {
@@ -9069,11 +9068,12 @@
             ]
           },
           {
-            "prompt": "Name one material that can be recycled, like paper or plastic.",
+            "prompt": "Name one body part you would look for to identify an insect, like antennae or six legs.",
             "answers": [
-              "paper",
-              "plastic",
-              "glass"
+              "antennae",
+              "six legs",
+              "legs",
+              "wings"
             ]
           }
         ]

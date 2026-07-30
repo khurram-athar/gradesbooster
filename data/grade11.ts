@@ -1432,6 +1432,7 @@ const curriculum: DayContent[] = [
 {day:35, label:"Day 35 — Fri", subjects:[
   {subject:"English", title:"Literature: The Bildungsroman -- Coming-of-Age Narratives", summary:"Grade 11 English strand: a bildungsroman is a novel that focuses on a protagonist’s psychological and moral growth from youth to adulthood, often centred on themes of identity and self-discovery.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=Z8tqY8fX0Ec",
    quiz:[
      {q:"A bildungsroman is a novel focused on a protagonist’s ___.", options:["A plot entirely unrelated to identity or self-discovery","A journey with no connection to personal growth","A single, unchanging characteristic throughout the story","Psychological and moral growth from youth to adulthood"], answer:3},
      {q:"Common themes explored in a bildungsroman include ___.", options:["Only historical events with no personal focus","Themes entirely unrelated to personal development","Identity and self-discovery","A concept unrelated to character growth"], answer:2},
@@ -1441,6 +1442,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Sequences: Recursive Formulas and Applications", summary:"Grade 11 Functions strand: a recursive formula defines each term of a sequence based on one or more previous terms, requiring the value of prior terms to calculate subsequent ones.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=-_myO_Lmdbw",
    quiz:[
      {q:"A recursive formula defines each term of a sequence based on ___.", options:["A term unrelated to the sequence itself","One or more previous terms","No connection to any other term in the sequence","Only the very first term, with no other relationship"], answer:1},
      {q:"To find a specific term using a recursive formula, you generally need to ___.", options:["Calculate all preceding terms in order","Ignore all previous terms in the sequence","Skip directly to that term with no other calculation needed","Use a method entirely unrelated to the sequence’s pattern"], answer:0},
@@ -1450,6 +1452,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Animal Physiology: Muscular and Skeletal Systems", summary:"Grade 11 Biology strand: the muscular and skeletal systems work together to provide the body with structure, support, and the ability to move, with muscles contracting to pull on bones connected at joints.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=UKgbfxPTn_s",
    quiz:[
      {q:"The muscular and skeletal systems work together to provide the body with ___.", options:["A function entirely unrelated to movement","Structure, support, and the ability to move","Only protection, with no role in movement","No structural support of any kind"], answer:1},
      {q:"Muscles enable movement by ___.", options:["Remaining completely still at all times","Expanding permanently with no ability to contract","A process entirely unrelated to bones or joints","Contracting to pull on bones connected at joints"], answer:3},
@@ -1459,6 +1462,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Isomers and Naming Conventions", summary:"Grade 11 Chemistry strand: isomers are compounds with the same molecular formula but different structural arrangements, and organic naming conventions provide a systematic way to name these compounds based on their structure.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=TYU_JluleME",
    quiz:[
      {q:"Isomers are compounds that share the same ___.", options:["Molecular formula and identical structural arrangement in every case","Chemical properties, with no variation between them at all","Molecular formula but have different structural arrangements","Physical appearance, with no connection to their chemical formula"], answer:2},
      {q:"Organic naming conventions provide a systematic way to ___.", options:["Identify only the colour of a compound","Name compounds based on their structure","Randomly assign names with no connection to structure","A process unrelated to naming chemical compounds"], answer:1},
