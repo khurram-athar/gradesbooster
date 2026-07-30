@@ -35644,5 +35644,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 121,
+    "label": "Day 121 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Adjective Order: Which Word Comes First?",
+        "summary": "Grade 2 Language strand: when using more than one adjective before a noun, there is often a natural order, such as saying a big red ball rather than a red big ball.",
+        "resourceLabel": "YouTube: Adjective Order: Which Word Comes First?",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adjective%20Order%3A%20Which%20Word%20Comes%20First%3F%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which phrase uses correct adjective order?",
+            "options": [
+              "A big red ball",
+              "A red big ball",
+              "A ball big red",
+              "Big a red ball"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these follows natural English adjective order?",
+            "options": [
+              "Wooden box a small",
+              "A small wooden box",
+              "A wooden small box",
+              "Box small wooden"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does adjective order matter in English?",
+            "options": [
+              "It changes the spelling",
+              "It makes sentences sound natural",
+              "It has no effect at all",
+              "It is never important"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence sounds correct?",
+            "options": [
+              "She wore blue dress a lovely.",
+              "She wore a lovely blue dress.",
+              "She wore a blue lovely dress.",
+              "She wore dress a lovely blue."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Adjective order is a pattern that ___.",
+            "options": [
+              "Has no pattern at all",
+              "Never applies to size",
+              "Only applies to colours",
+              "Native speakers often follow naturally"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions on a Number Line",
+        "summary": "Grade 2 Math strand: fractions can be placed on a number line between 0 and 1, showing their value relative to whole numbers.",
+        "resourceLabel": "YouTube: Fractions on a Number Line",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%20on%20a%20Number%20Line%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where would the fraction 1/2 be placed on a number line from 0 to 1?",
+            "options": [
+              "At the very start",
+              "At the very end",
+              "Past the number 1",
+              "Exactly in the middle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where would the fraction 1/4 be placed on a number line from 0 to 1?",
+            "options": [
+              "Closer to 1",
+              "Closer to 0",
+              "Exactly in the middle",
+              "Past the number 1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On a number line, which fraction is closer to 1: 3/4 or 1/4?",
+            "options": [
+              "3/4",
+              "1/4",
+              "Neither is close to 1",
+              "They are equal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A number line showing fractions between 0 and 1 helps us see ___.",
+            "options": [
+              "The size of fractions compared to whole numbers",
+              "Shapes",
+              "Only whole numbers",
+              "Colours"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is the fraction 0/4 located on a number line from 0 to 1?",
+            "options": [
+              "Past 1",
+              "In the middle",
+              "At 0",
+              "At 1"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bats: Nocturnal Mammals That Use Echolocation",
+        "summary": "Grade 2 Science strand: bats are nocturnal mammals that use echolocation, bouncing sound off objects, to find food and navigate in the dark.",
+        "resourceLabel": "YouTube: Bats: Nocturnal Mammals That Use Echolocation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bats%3A%20Nocturnal%20Mammals%20That%20Use%20Echolocation%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Are bats active mostly during the day or at night?",
+            "options": [
+              "Neither",
+              "Only at noon",
+              "Night",
+              "Day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is echolocation?",
+            "options": [
+              "Using smell only",
+              "Using light to see",
+              "Using taste only",
+              "Using sound to find objects in the dark"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Are bats classified as birds or mammals?",
+            "options": [
+              "Reptiles",
+              "Mammals",
+              "Birds",
+              "Fish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does echolocation help a bat?",
+            "options": [
+              "It has no purpose",
+              "It helps the bat see colours",
+              "It helps the bat breathe underwater",
+              "It helps the bat find food and avoid obstacles in the dark"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Bats are the only mammals that can ___.",
+            "options": [
+              "Run fast",
+              "Change colour",
+              "Truly fly",
+              "Swim"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Classroom Jobs: Sharing Responsibility Together",
+        "summary": "Grade 2 Social Studies strand: classroom jobs, such as line leader or paper passer, give students a chance to share responsibility and help their classroom run smoothly.",
+        "resourceLabel": "YouTube: Classroom Jobs: Sharing Responsibility Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Classroom%20Jobs%3A%20Sharing%20Responsibility%20Together%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the purpose of classroom jobs?",
+            "options": [
+              "They have no purpose",
+              "To keep students from learning",
+              "Only the teacher should do all the work",
+              "To share responsibility and help the classroom run smoothly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these could be a classroom job?",
+            "options": [
+              "Pilot",
+              "Judge",
+              "Mayor",
+              "Line leader"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might students take turns with classroom jobs?",
+            "options": [
+              "Only one student should ever help",
+              "Turns are not important",
+              "So everyone gets a chance to contribute",
+              "Jobs should never rotate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Having classroom jobs helps build a sense of ___.",
+            "options": [
+              "Boredom",
+              "Unfairness",
+              "Community and responsibility",
+              "Confusion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a helpful classroom job?",
+            "options": [
+              "Refusing to help",
+              "Ignoring the teacher",
+              "Leaving early",
+              "Passing out papers"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 122,
+    "label": "Day 122 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Using a Thesaurus to Find Synonyms",
+        "summary": "Grade 2 Language strand: a thesaurus is a reference book that lists synonyms, or words with similar meanings, to help writers choose stronger words.",
+        "resourceLabel": "YouTube: Using a Thesaurus to Find Synonyms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Using%20a%20Thesaurus%20to%20Find%20Synonyms%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a thesaurus used for?",
+            "options": [
+              "Finding a recipe",
+              "Finding a map",
+              "Finding synonyms for a word",
+              "Finding the weather forecast"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you look up happy in a thesaurus, what might you find?",
+            "options": [
+              "A math equation",
+              "The definition only",
+              "Glad or joyful",
+              "A picture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is a thesaurus different from a dictionary?",
+            "options": [
+              "A dictionary only has pictures",
+              "A thesaurus gives synonyms, a dictionary gives definitions",
+              "They are exactly the same",
+              "A thesaurus has no words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use a thesaurus?",
+            "options": [
+              "To find a phone number",
+              "To find a stronger or more interesting word",
+              "To check the weather",
+              "To draw a picture"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could you find in a thesaurus entry for big?",
+            "options": [
+              "A recipe for cookies",
+              "A math problem",
+              "A weather report",
+              "Large, huge, enormous"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Bonds to 100: Finding Missing Addends",
+        "summary": "Grade 2 Math strand: students find missing addends that combine with a given number to make 100, such as finding that 35 needs 65 more to reach 100.",
+        "resourceLabel": "YouTube: Number Bonds to 100: Finding Missing Addends",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Bonds%20to%20100%3A%20Finding%20Missing%20Addends%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "35 + ? = 100",
+            "options": [
+              "65",
+              "55",
+              "70",
+              "60"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number is needed to make 100 when added to 40?",
+            "options": [
+              "50",
+              "60",
+              "70",
+              "65"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "80 + ? = 100",
+            "options": [
+              "25",
+              "10",
+              "20",
+              "15"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Finding a number bond to 100 means finding ___.",
+            "options": [
+              "Half of 100 only",
+              "The missing addend that reaches 100",
+              "A fraction of 100",
+              "A number greater than 100"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "25 + ? = 100",
+            "options": [
+              "70",
+              "80",
+              "65",
+              "75"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Reptiles and Amphibians: Cold-Blooded Animals",
+        "summary": "Grade 2 Science strand: reptiles like snakes and turtles, and amphibians like frogs, are cold-blooded animals whose body temperature changes with their surroundings.",
+        "resourceLabel": "YouTube: Reptiles and Amphibians: Cold-Blooded Animals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reptiles%20and%20Amphibians%3A%20Cold-Blooded%20Animals%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean for an animal to be cold-blooded?",
+            "options": [
+              "It never moves",
+              "It cannot survive at all",
+              "Its body temperature changes with its surroundings",
+              "It has cold blood at all times"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a reptile?",
+            "options": [
+              "Robin",
+              "Frog",
+              "Dog",
+              "Snake"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an amphibian?",
+            "options": [
+              "Turtle",
+              "Frog",
+              "Lizard",
+              "Snake"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reptile bask in the sun?",
+            "options": [
+              "To warm up its body temperature",
+              "For no reason",
+              "To hide from all light",
+              "To cool down completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Amphibians typically begin life in ___.",
+            "options": [
+              "Outer space",
+              "Deep snow",
+              "Water",
+              "The desert"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "How Goods Travel: From Producer to Consumer",
+        "summary": "Grade 2 Social Studies strand: goods travel a long path from the producer who makes them to the consumer who buys them, often through factories, trucks, and stores.",
+        "resourceLabel": "YouTube: How Goods Travel: From Producer to Consumer",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Goods%20Travel%3A%20From%20Producer%20to%20Consumer%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Who is a producer?",
+            "options": [
+              "A person or company that makes goods",
+              "A type of animal",
+              "A person who only buys goods",
+              "A kind of weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who is a consumer?",
+            "options": [
+              "A kind of building",
+              "A type of vehicle",
+              "A person who buys and uses goods",
+              "A person who only makes goods"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might help transport goods from a factory to a store?",
+            "options": [
+              "A dictionary",
+              "A truck",
+              "A calendar",
+              "A thermometer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to understand how goods travel?",
+            "options": [
+              "Goods appear instantly with no process",
+              "Only farmers need to know this",
+              "It has no value",
+              "It helps us see how products reach us"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The journey of a good from producer to consumer often passes through ___.",
+            "options": [
+              "Nothing at all",
+              "Only one single step",
+              "Only the consumers home",
+              "Factories, trucks, and stores"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 123,
+    "label": "Day 123 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Foreshadowing: Hints About What Will Happen",
+        "summary": "Grade 2 Language strand: foreshadowing is when an author gives readers small clues or hints early in a story about events that will happen later.",
+        "resourceLabel": "YouTube: Foreshadowing: Hints About What Will Happen",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Foreshadowing%3A%20Hints%20About%20What%20Will%20Happen%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is foreshadowing?",
+            "options": [
+              "The ending of a story",
+              "Hints about what will happen later in a story",
+              "The title of a book",
+              "A characters name"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do authors use foreshadowing?",
+            "options": [
+              "To skip the middle of the story",
+              "To confuse readers on purpose with no meaning",
+              "To end the story early",
+              "To build suspense and hint at future events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a story mentions dark storm clouds early on, this might foreshadow ___.",
+            "options": [
+              "A sunny happy ending only",
+              "Nothing at all",
+              "A storm or trouble coming later",
+              "The title of the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Foreshadowing usually appears ___ in a story.",
+            "options": [
+              "Only at the very end",
+              "Early on, before the event happens",
+              "Never",
+              "Only in the title"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Noticing foreshadowing can help readers ___.",
+            "options": [
+              "Skip the ending",
+              "Predict what might happen next",
+              "Forget the story completely",
+              "Ignore the plot"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Finding the Median of a Data Set",
+        "summary": "Grade 2 Math strand: the median of a data set is the middle number when the values are arranged in order from least to greatest.",
+        "resourceLabel": "YouTube: Data: Finding the Median of a Data Set",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Finding%20the%20Median%20of%20a%20Data%20Set%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the median of the data set 2, 4, 6?",
+            "options": [
+              "12",
+              "6",
+              "2",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do you find the median of a data set?",
+            "options": [
+              "Add all the numbers together",
+              "Order the numbers and find the middle value",
+              "Multiply the numbers",
+              "Find the largest number only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the median of the data set 1, 3, 5, 7, 9?",
+            "options": [
+              "3",
+              "9",
+              "5",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Before finding the median, the data should be ___.",
+            "options": [
+              "Left in random order",
+              "Multiplied together",
+              "Ordered from least to greatest",
+              "Ignored"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The median tells us about the ___ of a data set.",
+            "options": [
+              "Largest value only",
+              "Total sum",
+              "Number of items only",
+              "Middle value"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "How Plants Make Food: An Introduction to Photosynthesis",
+        "summary": "Grade 2 Science strand: plants make their own food through a process called photosynthesis, using sunlight, water, and air to grow.",
+        "resourceLabel": "YouTube: How Plants Make Food: An Introduction to Photosynthesis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=How%20Plants%20Make%20Food%3A%20An%20Introduction%20to%20Photosynthesis%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is photosynthesis?",
+            "options": [
+              "The process plants use to make their own food",
+              "A kind of rock formation",
+              "A weather pattern",
+              "A type of animal behaviour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do plants need for photosynthesis?",
+            "options": [
+              "Only darkness",
+              "Sunlight, water, and air",
+              "Only soil",
+              "Only sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where in the plant does most photosynthesis happen?",
+            "options": [
+              "The roots",
+              "The leaves",
+              "The flower petals only",
+              "The seeds only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is photosynthesis important for plants?",
+            "options": [
+              "It stops plants from growing",
+              "It has no purpose",
+              "It lets plants make the food they need to grow",
+              "It only happens at night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Photosynthesis mainly requires energy from ___.",
+            "options": [
+              "Sunlight",
+              "The moon",
+              "Wind alone",
+              "Rocks"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Community Recycling Programs: Where Our Blue Bin Goes",
+        "summary": "Grade 2 Social Studies strand: communities run recycling programs, collecting materials in blue bins and sending them to facilities where they are sorted and turned into new products.",
+        "resourceLabel": "YouTube: Community Recycling Programs: Where Our Blue Bin Goes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Recycling%20Programs%3A%20Where%20Our%20Blue%20Bin%20Goes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What colour bin is often used for recycling in many communities?",
+            "options": [
+              "Pink",
+              "Black",
+              "Yellow",
+              "Blue"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do recycled materials go after being collected?",
+            "options": [
+              "Back to the same store",
+              "Straight to a landfill",
+              "Nowhere, they disappear",
+              "A recycling facility to be sorted and processed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do communities run recycling programs?",
+            "options": [
+              "To reduce waste and reuse materials",
+              "To waste more resources",
+              "To create more garbage",
+              "Recycling has no benefit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is commonly recycled?",
+            "options": [
+              "Sunlight",
+              "Food scraps only",
+              "Paper and cardboard",
+              "Rocks"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A community recycling program helps ___.",
+            "options": [
+              "Harm the environment",
+              "Waste more resources",
+              "Protect the environment",
+              "Increase pollution"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 124,
+    "label": "Day 124 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Visualizing: Making Pictures in Your Mind While Reading",
+        "summary": "Grade 2 Language strand: visualizing means using descriptive details in a text to create a picture in your mind of what is happening in the story.",
+        "resourceLabel": "YouTube: Visualizing: Making Pictures in Your Mind While Reading",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Visualizing%3A%20Making%20Pictures%20in%20Your%20Mind%20While%20Reading%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to visualize while reading?",
+            "options": [
+              "Skipping descriptive parts",
+              "Only looking at illustrations",
+              "Creating a picture in your mind of the story",
+              "Ignoring the words"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of details help readers visualize a scene?",
+            "options": [
+              "Only the page number",
+              "Only the authors name",
+              "Descriptive details about sights, sounds, and feelings",
+              "Only the title"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is visualizing a helpful reading strategy?",
+            "options": [
+              "It only works with pictures already in the book",
+              "It replaces reading completely",
+              "It helps readers understand and enjoy the story more",
+              "It has no benefit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a story describes a crunchy, golden autumn leaf, what does this help readers do?",
+            "options": [
+              "Skip to the next page",
+              "Picture the leaf in their mind",
+              "Ignore the sentence",
+              "Forget the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Visualizing is a strategy used mainly during ___.",
+            "options": [
+              "Recess",
+              "Gym class",
+              "Reading",
+              "Lunch"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Understanding AM and PM",
+        "summary": "Grade 2 Math strand: AM refers to the time from midnight to noon, and PM refers to the time from noon to midnight, helping us describe when events happen.",
+        "resourceLabel": "YouTube: Time: Understanding AM and PM",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Understanding%20AM%20and%20PM%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Does AM refer to morning or evening hours?",
+            "options": [
+              "Only noon exactly",
+              "Only midnight exactly",
+              "Morning, from midnight to noon",
+              "Evening, from noon to midnight"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Does PM refer to morning or evening hours?",
+            "options": [
+              "Only sunrise",
+              "Only midnight",
+              "Morning hours",
+              "Noon to midnight hours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you wake up at 7:00 in the morning, is that AM or PM?",
+            "options": [
+              "Neither",
+              "PM",
+              "AM",
+              "Both"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you eat dinner at 6:00 in the evening, is that AM or PM?",
+            "options": [
+              "PM",
+              "Both",
+              "Neither",
+              "AM"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "AM and PM help us know ___.",
+            "options": [
+              "The temperature outside",
+              "The month of the year",
+              "Whether a time is in the morning or evening/night",
+              "The day of the week"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Layers of the Rainforest: Canopy to Forest Floor",
+        "summary": "Grade 2 Science strand: a rainforest has different layers, including the tall emergent layer, the leafy canopy, the understory, and the shaded forest floor.",
+        "resourceLabel": "YouTube: Layers of the Rainforest: Canopy to Forest Floor",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Layers%20of%20the%20Rainforest%3A%20Canopy%20to%20Forest%20Floor%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the very top layer of a rainforest called?",
+            "options": [
+              "The basement",
+              "The understory",
+              "The emergent layer",
+              "The forest floor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the leafy, tree-top layer of a rainforest called?",
+            "options": [
+              "The canopy",
+              "The forest floor",
+              "The roots",
+              "The emergent layer only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which rainforest layer receives the least sunlight?",
+            "options": [
+              "The canopy",
+              "The forest floor",
+              "The emergent layer",
+              "The very top"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do rainforests have different layers?",
+            "options": [
+              "Different plants and animals live at different heights",
+              "Only the ground layer matters",
+              "All rainforest layers are identical",
+              "Layers do not exist in rainforests"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The layer just below the canopy is called the ___.",
+            "options": [
+              "Basement",
+              "Overstory",
+              "Attic",
+              "Understory"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The History of the Canadian Flag: Before and After 1965",
+        "summary": "Grade 2 Social Studies strand: before 1965, Canada used a different flag, and the current red and white maple leaf flag was officially adopted that year.",
+        "resourceLabel": "YouTube: The History of the Canadian Flag: Before and After 1965",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20History%20of%20the%20Canadian%20Flag%3A%20Before%20and%20After%201965%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In what year was the current Canadian maple leaf flag adopted?",
+            "options": [
+              "1965",
+              "1867",
+              "2000",
+              "1812"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the main colours of the Canadian flag?",
+            "options": [
+              "Red and white",
+              "Purple and black",
+              "Blue and yellow",
+              "Green and orange"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What symbol is in the centre of the Canadian flag?",
+            "options": [
+              "A maple leaf",
+              "A crown",
+              "A bird",
+              "A star"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Did Canada always use the same flag as it does today?",
+            "options": [
+              "The flag changes every year",
+              "No, the flag changed in 1965",
+              "Yes, it has never changed",
+              "Canada has never had a flag"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about the history of the flag helps us understand ___.",
+            "options": [
+              "A fictional story",
+              "Nothing important",
+              "Only recent history",
+              "How national symbols can change over time"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 125,
+    "label": "Day 125 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Free Verse Poetry: Poems Without Rhyme or Rules",
+        "summary": "Grade 2 Language strand: free verse poetry does not follow a set rhyme scheme or rhythm, allowing writers to express ideas freely in whatever lines feel right.",
+        "resourceLabel": "YouTube: Free Verse Poetry: Poems Without Rhyme or Rules",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Free%20Verse%20Poetry%3A%20Poems%20Without%20Rhyme%20or%20Rules%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Does free verse poetry need to rhyme?",
+            "options": [
+              "Yes, always",
+              "Only sometimes required",
+              "No",
+              "Rhyme is the only rule"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What makes free verse different from rhyming poetry?",
+            "options": [
+              "It does not follow a set rhyme or rhythm pattern",
+              "It must rhyme perfectly",
+              "It cannot use descriptive words",
+              "It has strict rules about length"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet choose to write in free verse?",
+            "options": [
+              "Because it has to be exactly ten lines",
+              "To express ideas freely without following strict rules",
+              "Because rhyming is required",
+              "Because it is the only kind of poem that exists"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is a feature of free verse poetry?",
+            "options": [
+              "It cannot use imagery",
+              "Every line must rhyme with the next",
+              "It must be written in one sentence",
+              "Flexible line lengths and no required rhyme"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Free verse poetry is a type of ___.",
+            "options": [
+              "Science report",
+              "Map",
+              "Math problem",
+              "Poetry"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplying Three Numbers Together",
+        "summary": "Grade 2 Math strand: to multiply three numbers together, students multiply two of the numbers first, then multiply that answer by the third number.",
+        "resourceLabel": "YouTube: Multiplying Three Numbers Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiplying%20Three%20Numbers%20Together%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 2 x 3 x 2?",
+            "options": [
+              "16",
+              "10",
+              "14",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To solve 2 x 2 x 5, which two numbers might you multiply first?",
+            "options": [
+              "Any two of the numbers, then multiply by the third",
+              "None of them",
+              "Only the largest number",
+              "2 and 2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 1 x 4 x 3?",
+            "options": [
+              "10",
+              "14",
+              "12",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3 x 2 x 2?",
+            "options": [
+              "16",
+              "14",
+              "10",
+              "12"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When multiplying three numbers, the order you multiply them in ___.",
+            "options": [
+              "Does not change the final answer",
+              "Always changes the final answer",
+              "Must always start with the largest",
+              "Must always start with the smallest"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Polar Animals: Surviving the Arctic Cold",
+        "summary": "Grade 2 Science strand: polar animals, such as polar bears and arctic foxes, have thick fur and fat to help them survive extremely cold temperatures.",
+        "resourceLabel": "YouTube: Polar Animals: Surviving the Arctic Cold",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Polar%20Animals%3A%20Surviving%20the%20Arctic%20Cold%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Name one adaptation that helps polar animals stay warm.",
+            "options": [
+              "Bright feathers only",
+              "Thin skin only",
+              "No fur at all",
+              "Thick fur or fat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a polar animal?",
+            "options": [
+              "Camel",
+              "Polar bear",
+              "Kangaroo",
+              "Toucan"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do polar animals often have white fur?",
+            "options": [
+              "It has no purpose",
+              "To camouflage in the snow",
+              "To attract more predators",
+              "To stay cooler in heat"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What body feature helps seals and whales survive cold arctic water?",
+            "options": [
+              "A thick layer of fat called blubber",
+              "No body fat at all",
+              "Feathers",
+              "Dry scaly skin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Polar regions are known for being ___.",
+            "options": [
+              "Always rainy",
+              "Extremely cold",
+              "Always dry and sandy",
+              "Extremely hot"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Bridges and Tunnels: Engineering Our Connections",
+        "summary": "Grade 2 Social Studies strand: bridges and tunnels are built across Canada to connect communities separated by rivers, valleys, or mountains, making travel easier.",
+        "resourceLabel": "YouTube: Canadian Bridges and Tunnels: Engineering Our Connections",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Bridges%20and%20Tunnels%3A%20Engineering%20Our%20Connections%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why are bridges built?",
+            "options": [
+              "To connect places separated by water, valleys, or gaps",
+              "They serve no purpose",
+              "To make travel harder",
+              "To block travel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a tunnel be built through a mountain?",
+            "options": [
+              "Tunnels are never useful",
+              "To make travel impossible",
+              "To make travel through the mountain easier and faster",
+              "To hide the mountain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do bridges and tunnels both help improve?",
+            "options": [
+              "Nothing important",
+              "Weather patterns",
+              "Transportation and connection between places",
+              "Only decoration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might a bridge cross over?",
+            "options": [
+              "A river",
+              "A pencil",
+              "A single house",
+              "A classroom"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Engineers who design bridges and tunnels need to consider ___.",
+            "options": [
+              "Only the price of paint",
+              "Safety and strong construction",
+              "Nothing at all",
+              "Only the colour"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 126,
+    "label": "Day 126 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Informal Writing: Notes and Messages",
+        "summary": "Grade 2 Language strand: informal writing, like a quick note or message to a friend, uses a casual, friendly tone that is different from formal writing.",
+        "resourceLabel": "YouTube: Informal Writing: Notes and Messages",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Informal%20Writing%3A%20Notes%20and%20Messages%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is informal writing?",
+            "options": [
+              "Casual writing like a note or message",
+              "A dictionary entry",
+              "A legal document",
+              "A formal report only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of informal writing?",
+            "options": [
+              "A scientific report",
+              "A quick note to a friend",
+              "A formal essay for a teacher",
+              "A legal contract"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is informal writing different from formal writing?",
+            "options": [
+              "It has no purpose",
+              "It is always longer",
+              "It must always rhyme",
+              "It uses a casual, friendly tone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence sounds informal?",
+            "options": [
+              "This document shall be reviewed.",
+              "Hey, want to play at recess?",
+              "It is hereby requested that you attend.",
+              "The following report outlines the findings."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Informal writing is often used when writing to ___.",
+            "options": [
+              "A formal business only",
+              "Friends or family",
+              "A government office",
+              "A judge in court"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Perimeter and Area Together: Comparing Two Measurements",
+        "summary": "Grade 2 Math strand: perimeter measures the distance around a shape, while area measures the space inside it, and students compare both for the same shape.",
+        "resourceLabel": "YouTube: Perimeter and Area Together: Comparing Two Measurements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Perimeter%20and%20Area%20Together%3A%20Comparing%20Two%20Measurements%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does perimeter measure?",
+            "options": [
+              "The distance around a shape",
+              "The space inside a shape",
+              "The colour of a shape",
+              "The weight of a shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does area measure?",
+            "options": [
+              "The distance around a shape",
+              "The height only",
+              "The number of corners",
+              "The space inside a shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A rectangle has a perimeter of 14 and sides of 5 and 2. Does the math check out, since 5+5+2+2 equals 14?",
+            "options": [
+              "No, it should be 10",
+              "No, it should be 20",
+              "Yes, 14",
+              "No, it should be 7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can two different shapes have the same perimeter but different areas?",
+            "options": [
+              "Only if they are circles",
+              "Yes",
+              "No, never",
+              "Only if they are squares"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Perimeter and area are both examples of ___.",
+            "options": [
+              "Types of graphs",
+              "Colours",
+              "Measurements of a shape",
+              "Fractions"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Groups: Herds, Flocks, and Schools",
+        "summary": "Grade 2 Science strand: many animals live and move together in groups with special names, such as a herd of deer, a flock of birds, or a school of fish.",
+        "resourceLabel": "YouTube: Animal Groups: Herds, Flocks, and Schools",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Groups%3A%20Herds%2C%20Flocks%2C%20and%20Schools%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do we call a group of deer?",
+            "options": [
+              "A flock",
+              "A pack",
+              "A school",
+              "A herd"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call a group of birds flying together?",
+            "options": [
+              "A herd",
+              "A school",
+              "A den",
+              "A flock"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do we call a group of fish swimming together?",
+            "options": [
+              "A herd",
+              "A pod",
+              "A flock",
+              "A school"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might animals travel together in groups?",
+            "options": [
+              "It is always dangerous",
+              "To get lost more easily",
+              "Groups provide no benefit",
+              "For safety and to find food more easily"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A group of wolves is called a ___.",
+            "options": [
+              "Pack",
+              "Herd",
+              "Flock",
+              "School"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Statues and Monuments: Remembering Our History",
+        "summary": "Grade 2 Social Studies strand: statues and monuments are built in public places to help communities remember important people or events from history.",
+        "resourceLabel": "YouTube: Statues and Monuments: Remembering Our History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Statues%20and%20Monuments%3A%20Remembering%20Our%20History%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the purpose of a statue or monument?",
+            "options": [
+              "To help communities remember important people or events",
+              "They have no purpose",
+              "To block traffic",
+              "To confuse visitors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where are statues and monuments often found?",
+            "options": [
+              "Only inside private homes",
+              "Hidden underground with no access",
+              "Nowhere, they do not exist",
+              "In public places like parks or squares"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a community build a monument for a historical event?",
+            "options": [
+              "It has no meaning",
+              "To hide the event from everyone",
+              "To remember and honour what happened",
+              "To forget the event completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these could a monument represent?",
+            "options": [
+              "A historical figure or event",
+              "A random shape with no meaning",
+              "A type of food",
+              "A weather pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about statues and monuments helps us understand ___.",
+            "options": [
+              "Parts of our shared history",
+              "Modern technology only",
+              "Only fictional stories",
+              "Nothing about the past"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 127,
+    "label": "Day 127 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Pacing: Fast and Slow Moments in a Story",
+        "summary": "Grade 2 Language strand: story pacing describes how quickly or slowly events unfold, with exciting parts often moving fast and quiet parts moving slower.",
+        "resourceLabel": "YouTube: Story Pacing: Fast and Slow Moments in a Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Pacing%3A%20Fast%20and%20Slow%20Moments%20in%20a%20Story%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does story pacing describe?",
+            "options": [
+              "How quickly or slowly events happen",
+              "The title of the book",
+              "The cover colour",
+              "The characters names"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During an exciting chase scene, the pacing is usually ___.",
+            "options": [
+              "Nonexistent",
+              "Slow",
+              "The same as a quiet scene",
+              "Fast"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During a calm, quiet moment in a story, the pacing is usually ___.",
+            "options": [
+              "Slow",
+              "Not important",
+              "Random",
+              "Fast"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do authors vary the pacing of a story?",
+            "options": [
+              "It has no purpose",
+              "To create excitement or calm at the right moments",
+              "Pacing never changes in stories",
+              "To confuse readers on purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word suggests fast pacing in a scene?",
+            "options": [
+              "Quietly",
+              "Slowly",
+              "Eventually, over many years",
+              "Suddenly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting Backwards by 10s and 100s",
+        "summary": "Grade 2 Math strand: students skip count backwards by 10s and 100s, such as counting 100, 90, 80 or 500, 400, 300.",
+        "resourceLabel": "YouTube: Skip Counting Backwards by 10s and 100s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20Backwards%20by%2010s%20and%20100s%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What comes next: 100, 90, 80, ___?",
+            "options": [
+              "65",
+              "60",
+              "75",
+              "70"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What comes next: 500, 400, 300, ___?",
+            "options": [
+              "250",
+              "150",
+              "200",
+              "100"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Skip counting backwards by 10s from 50 gives what number next?",
+            "options": [
+              "40",
+              "30",
+              "45",
+              "35"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What comes next: 900, 800, 700, ___?",
+            "options": [
+              "650",
+              "550",
+              "600",
+              "500"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Skip counting backwards by 100s means we subtract ___ each time.",
+            "options": [
+              "100",
+              "10",
+              "1000",
+              "50"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bioluminescence: Animals That Glow in the Dark",
+        "summary": "Grade 2 Science strand: bioluminescence is when living things, such as fireflies and some deep-sea fish, produce their own light using a chemical reaction.",
+        "resourceLabel": "YouTube: Bioluminescence: Animals That Glow in the Dark",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Bioluminescence%3A%20Animals%20That%20Glow%20in%20the%20Dark%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "When rocks glow from heat",
+              "When living things produce their own light",
+              "When animals sleep all winter",
+              "When plants change colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one animal known for bioluminescence.",
+            "options": [
+              "A rabbit",
+              "A sheep",
+              "A firefly",
+              "A cow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where do many bioluminescent sea creatures live?",
+            "options": [
+              "Deep in the dark ocean",
+              "In deserts",
+              "On mountain tops",
+              "In dry grasslands"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an animal use bioluminescence?",
+            "options": [
+              "To stay warm",
+              "To attract food, find mates, or scare predators",
+              "To breathe underwater",
+              "It has no purpose at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Bioluminescent light is created through a ___.",
+            "options": [
+              "Burning fire",
+              "Reflection of moonlight only",
+              "Chemical reaction inside the animals body",
+              "Electric wire"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Emergency 911: How to Call for Help",
+        "summary": "Grade 2 Social Studies strand: in Canada, 911 is the emergency phone number people call to reach police, firefighters, or ambulance workers quickly during an emergency.",
+        "resourceLabel": "YouTube: Emergency 911: How to Call for Help",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Emergency%20911%3A%20How%20to%20Call%20for%20Help%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What phone number do people call in an emergency in Canada?",
+            "options": [
+              "411",
+              "911",
+              "211",
+              "611"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who might answer a 911 call?",
+            "options": [
+              "An emergency dispatcher who sends help",
+              "A store clerk",
+              "No one answers",
+              "A random stranger"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a real emergency to call 911 for?",
+            "options": [
+              "Wanting a snack",
+              "A house fire",
+              "Losing a toy",
+              "Being bored"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to know how to call 911?",
+            "options": [
+              "It is only for adults to know",
+              "It can help get fast help during a real emergency",
+              "It should never be used",
+              "It has no importance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When calling 911, it is important to ___.",
+            "options": [
+              "Hang up right away",
+              "Say nothing at all",
+              "Stay calm and give clear information",
+              "Call as a joke"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 128,
+    "label": "Day 128 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading Strategy: Asking Questions Before and During Reading",
+        "summary": "Grade 2 Language strand: strong readers ask themselves questions before and during reading, such as wondering what will happen next, to stay engaged and understand the text.",
+        "resourceLabel": "YouTube: Reading Strategy: Asking Questions Before and During Reading",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Strategy%3A%20Asking%20Questions%20Before%20and%20During%20Reading%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is one benefit of asking questions while reading?",
+            "options": [
+              "It replaces reading completely",
+              "It has no benefit",
+              "It helps readers stay engaged and understand more",
+              "It confuses readers on purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a question a reader might ask before starting a book?",
+            "options": [
+              "What do I think this book will be about?",
+              "What is the weather like?",
+              "What time is recess?",
+              "What is for lunch today?"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When might a reader ask questions during reading?",
+            "options": [
+              "Only during math class",
+              "Never",
+              "Whenever something seems confusing or interesting",
+              "Only after finishing the whole book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Asking questions while reading is an example of a ___.",
+            "options": [
+              "Recess game",
+              "Reading strategy",
+              "Math strategy",
+              "Art project"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which question shows deep thinking about a story?",
+            "options": [
+              "Why did the character make that choice?",
+              "What colour is the cover?",
+              "What font is used?",
+              "How many pages does it have?"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Measurement: Choosing the Best Unit",
+        "summary": "Grade 2 Math strand: students choose the most reasonable unit to estimate a measurement, such as using metres for a hallway and centimetres for a pencil.",
+        "resourceLabel": "YouTube: Estimating Measurement: Choosing the Best Unit",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Measurement%3A%20Choosing%20the%20Best%20Unit%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which unit would best measure the length of a pencil?",
+            "options": [
+              "Centimetres",
+              "Kilometres",
+              "Litres",
+              "Metres"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which unit would best measure the length of a hallway?",
+            "options": [
+              "Grams",
+              "Centimetres",
+              "Millilitres",
+              "Metres"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which unit would best measure the mass of an apple?",
+            "options": [
+              "Litres",
+              "Metres",
+              "Grams",
+              "Kilograms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which unit would best measure the capacity of a bathtub?",
+            "options": [
+              "Centimetres",
+              "Litres",
+              "Grams",
+              "Millilitres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Choosing the best unit depends on the ___ of the object being measured.",
+            "options": [
+              "Colour",
+              "Price",
+              "Size",
+              "Name"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Camels and Desert Adaptations: Storing Water and Fat",
+        "summary": "Grade 2 Science strand: camels have special adaptations for desert life, such as humps that store fat and the ability to go a long time without drinking water.",
+        "resourceLabel": "YouTube: Camels and Desert Adaptations: Storing Water and Fat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Camels%20and%20Desert%20Adaptations%3A%20Storing%20Water%20and%20Fat%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do camel humps mainly store?",
+            "options": [
+              "Sand",
+              "Air",
+              "Fat",
+              "Water only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can camels survive a long time without water?",
+            "options": [
+              "They live only in wet places",
+              "Their bodies are adapted to conserve water",
+              "They never need water at all",
+              "They drink constantly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Camels are well adapted to living in ___.",
+            "options": [
+              "Oceans",
+              "Deserts",
+              "The Arctic",
+              "Rainforests"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a camel adaptation for hot, sandy environments?",
+            "options": [
+              "Long eyelashes to protect from sand",
+              "Wings for flying",
+              "Gills for breathing underwater",
+              "Thick blubber like a whale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Desert adaptations help animals like camels survive with ___.",
+            "options": [
+              "No sunlight at all",
+              "Constant rain",
+              "Extreme cold only",
+              "Very little water"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Fair Trade: Buying Products That Help Others",
+        "summary": "Grade 2 Social Studies strand: fair trade means buying products, like coffee or chocolate, that are made in ways that pay workers fairly and protect the environment.",
+        "resourceLabel": "YouTube: Fair Trade: Buying Products That Help Others",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fair%20Trade%3A%20Buying%20Products%20That%20Help%20Others%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does fair trade mean?",
+            "options": [
+              "Buying the cheapest product always",
+              "Buying products made in ways that pay workers fairly",
+              "Ignoring how products are made",
+              "Only buying products from one country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might have a fair trade label?",
+            "options": [
+              "Coffee or chocolate",
+              "A rock",
+              "A shadow",
+              "A cloud"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone choose to buy fair trade products?",
+            "options": [
+              "To harm workers on purpose",
+              "It has no purpose",
+              "Fair trade does not exist",
+              "To support fair pay and good conditions for workers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Fair trade often also considers ___.",
+            "options": [
+              "Increasing pollution",
+              "Protecting the environment",
+              "Making products more wasteful",
+              "Ignoring nature completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Choosing fair trade products is one way to be a ___.",
+            "options": [
+              "Careless shopper",
+              "Responsible consumer",
+              "Unfair trader",
+              "Wasteful buyer"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 129,
+    "label": "Day 129 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Authors Craft: Repetition for Emphasis",
+        "summary": "Grade 2 Language strand: authors sometimes repeat words or phrases on purpose to emphasize an idea or create a rhythm, such as repeating never give up, never give up.",
+        "resourceLabel": "YouTube: Authors Craft: Repetition for Emphasis",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Authors%20Craft%3A%20Repetition%20for%20Emphasis%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why might an author repeat a word or phrase in a story?",
+            "options": [
+              "To emphasize an important idea",
+              "By accident every time",
+              "To make the story shorter",
+              "To confuse the reader"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these shows repetition for emphasis?",
+            "options": [
+              "She walked to school.",
+              "Run, run, run as fast as you can!",
+              "The dog ran quickly.",
+              "It was a sunny day."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What effect can repetition have on a reader?",
+            "options": [
+              "It has no effect",
+              "It removes all meaning",
+              "It can create rhythm and emphasize meaning",
+              "It always makes writing boring"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Repetition is a tool used mainly in ___.",
+            "options": [
+              "Math equations only",
+              "Phone numbers",
+              "Writing and poetry",
+              "Weather reports only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which phrase uses repetition to build excitement?",
+            "options": [
+              "Faster, faster, faster we go!",
+              "The room was empty.",
+              "It was quiet.",
+              "The car moved."
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Tessellations: Shapes That Tile Without Gaps",
+        "summary": "Grade 2 Math strand: a tessellation is a pattern of shapes, like squares or triangles, that fit together perfectly with no gaps or overlaps.",
+        "resourceLabel": "YouTube: Tessellations: Shapes That Tile Without Gaps",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Tessellations%3A%20Shapes%20That%20Tile%20Without%20Gaps%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A single shape alone",
+              "Shapes that fit together with no gaps or overlaps",
+              "A type of graph",
+              "A kind of number"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which shape can tessellate easily to cover a floor with no gaps?",
+            "options": [
+              "None of these can tessellate",
+              "A shape with curves only",
+              "Square",
+              "A random blob"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might tessellations be used in floor tiles?",
+            "options": [
+              "They fit together perfectly with no wasted space",
+              "They cannot be repeated",
+              "They are only used once",
+              "They always leave big gaps"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these shapes tessellates well?",
+            "options": [
+              "A random curved blob",
+              "A triangle",
+              "An oval",
+              "A single point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A pattern with no gaps or overlaps between repeating shapes is called a ___.",
+            "options": [
+              "Perimeter",
+              "Median",
+              "Tessellation",
+              "Fraction"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Spiders: Eight-Legged Predators",
+        "summary": "Grade 2 Science strand: spiders are eight-legged animals, unlike six-legged insects, that often build webs to catch prey for food.",
+        "resourceLabel": "YouTube: Spiders: Eight-Legged Predators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Spiders%3A%20Eight-Legged%20Predators%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many legs does a spider have?",
+            "options": [
+              "Four",
+              "Ten",
+              "Six",
+              "Eight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a spider different from an insect?",
+            "options": [
+              "Spiders have wings, insects do not",
+              "They are exactly the same",
+              "Insects have eight legs, spiders have six",
+              "A spider has eight legs, an insect has six"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do many spiders build to catch food?",
+            "options": [
+              "A burrow",
+              "A web",
+              "A nest",
+              "A hive"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do spiders mainly eat?",
+            "options": [
+              "Only fruit",
+              "Only rocks",
+              "Insects and other small creatures",
+              "Only leaves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Spiders are classified as ___.",
+            "options": [
+              "Predators that catch prey",
+              "Fish",
+              "Plants",
+              "Birds"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Peer Mediation: Helping Classmates Solve Disagreements",
+        "summary": "Grade 2 Social Studies strand: peer mediation is when trained students help classmates talk through a disagreement calmly and find a fair solution together.",
+        "resourceLabel": "YouTube: Peer Mediation: Helping Classmates Solve Disagreements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Peer%20Mediation%3A%20Helping%20Classmates%20Solve%20Disagreements%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is peer mediation?",
+            "options": [
+              "Ignoring a disagreement completely",
+              "A type of game",
+              "A teacher solving every problem alone",
+              "Trained students helping classmates solve disagreements"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the goal of peer mediation?",
+            "options": [
+              "To make the disagreement worse",
+              "To avoid talking about the problem",
+              "To pick one side and ignore the other",
+              "To help both sides find a fair solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which skill is important for a peer mediator?",
+            "options": [
+              "Listening carefully to both sides",
+              "Ignoring both students",
+              "Choosing a side immediately",
+              "Yelling the loudest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might schools use peer mediation programs?",
+            "options": [
+              "Only adults can solve problems",
+              "Conflicts should never be discussed",
+              "To help students solve conflicts peacefully",
+              "It has no benefit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A successful peer mediation usually ends with ___.",
+            "options": [
+              "More arguing",
+              "One side losing completely",
+              "No resolution at all",
+              "A fair solution both sides agree on"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 130,
+    "label": "Day 130 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Word Choice, Poetry, and Reading Strategies",
+        "summary": "Grade 2 Language strand review: students revisit adjective order, using a thesaurus, foreshadowing, visualizing, free verse poetry, and asking questions while reading.",
+        "resourceLabel": "YouTube: Language Review: Word Choice, Poetry, and Reading Strategies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Choice%2C%20Poetry%2C%20and%20Reading%20Strategies%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which phrase uses correct adjective order?",
+            "options": [
+              "A red big ball",
+              "Big a red ball",
+              "A ball big red",
+              "A big red ball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a thesaurus used for?",
+            "options": [
+              "Finding synonyms for a word",
+              "Finding a recipe",
+              "Finding a map",
+              "Finding the weather forecast"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is foreshadowing?",
+            "options": [
+              "Hints about what will happen later in a story",
+              "The ending of a story",
+              "A characters name",
+              "The title of a book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to visualize while reading?",
+            "options": [
+              "Only looking at illustrations",
+              "Creating a picture in your mind of the story",
+              "Ignoring the words",
+              "Skipping descriptive parts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does free verse poetry need to rhyme?",
+            "options": [
+              "No",
+              "Only sometimes required",
+              "Yes, always",
+              "Rhyme is the only rule"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Fractions, Time, and Measurement",
+        "summary": "Grade 2 Math strand review: students revisit fractions on a number line, number bonds to 100, finding the median, AM and PM, multiplying three numbers, and tessellations.",
+        "resourceLabel": "YouTube: Math Review: Fractions, Time, and Measurement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Fractions%2C%20Time%2C%20and%20Measurement%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where would the fraction 1/2 be placed on a number line from 0 to 1?",
+            "options": [
+              "At the very end",
+              "Past the number 1",
+              "Exactly in the middle",
+              "At the very start"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "35 + ? = 100",
+            "options": [
+              "55",
+              "65",
+              "70",
+              "60"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the median of the data set 2, 4, 6?",
+            "options": [
+              "2",
+              "12",
+              "6",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you wake up at 7:00 in the morning, is that AM or PM?",
+            "options": [
+              "PM",
+              "Both",
+              "Neither",
+              "AM"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2 x 3 x 2?",
+            "options": [
+              "16",
+              "10",
+              "14",
+              "12"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Animals, Plants, and Habitats",
+        "summary": "Grade 2 Science strand review: students revisit bats, reptiles and amphibians, photosynthesis, rainforest layers, polar animals, animal groups, and bioluminescence.",
+        "resourceLabel": "YouTube: Science Review: Animals, Plants, and Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Plants%2C%20and%20Habitats%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Are bats active mostly during the day or at night?",
+            "options": [
+              "Only at noon",
+              "Neither",
+              "Night",
+              "Day"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a reptile?",
+            "options": [
+              "Snake",
+              "Robin",
+              "Frog",
+              "Dog"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is photosynthesis?",
+            "options": [
+              "A kind of rock formation",
+              "A type of animal behaviour",
+              "A weather pattern",
+              "The process plants use to make their own food"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the very top layer of a rainforest called?",
+            "options": [
+              "The emergent layer",
+              "The understory",
+              "The forest floor",
+              "The basement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do we call a group of fish swimming together?",
+            "options": [
+              "A pod",
+              "A herd",
+              "A flock",
+              "A school"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Community, Symbols, and Responsibility",
+        "summary": "Grade 2 Social Studies strand review: students revisit classroom jobs, how goods travel, recycling programs, the Canadian flags history, bridges and tunnels, and peer mediation.",
+        "resourceLabel": "YouTube: Social Studies Review: Community, Symbols, and Responsibility",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%2C%20Symbols%2C%20and%20Responsibility%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the purpose of classroom jobs?",
+            "options": [
+              "To share responsibility and help the classroom run smoothly",
+              "They have no purpose",
+              "Only the teacher should do all the work",
+              "To keep students from learning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who is a producer?",
+            "options": [
+              "A kind of weather",
+              "A person or company that makes goods",
+              "A person who only buys goods",
+              "A type of animal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year was the current Canadian maple leaf flag adopted?",
+            "options": [
+              "1965",
+              "1812",
+              "2000",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What phone number do people call in an emergency in Canada?",
+            "options": [
+              "611",
+              "911",
+              "211",
+              "411"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is peer mediation?",
+            "options": [
+              "Ignoring a disagreement completely",
+              "A teacher solving every problem alone",
+              "A type of game",
+              "Trained students helping classmates solve disagreements"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
