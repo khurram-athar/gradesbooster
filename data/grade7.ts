@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Writing: Reflective Personal Essay", summary:"Ontario Grade 7 Writing strand: a reflective personal essay explores a meaningful experience from the writer’s life and considers its lasting impact, insight, or lesson learned.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=XhbD9sky5nY",
    quiz:[
      {q:"A reflective personal essay focuses on ___.", options:["A completely fictional, unrelated story","A meaningful experience and its lasting impact or lesson","Copying someone else’s writing","Only listing unrelated facts with no personal connection"], answer:1},
      {q:"Why is insight or reflection important in this type of essay?", options:["It replaces the need to describe the experience","Reflection has no value in personal writing","It shows deeper thinking about what the experience meant to the writer","A reflective essay should avoid any personal insight"], answer:2},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Combined Probability Events", summary:"Ontario Grade 7 Data Management strand: the probability of two independent events both occurring is found by multiplying their individual probabilities together.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=BQrQBnsKUOU",
    quiz:[
      {q:"If the probability of event A is 1/2 and event B is 1/3, what is the probability of both occurring, assuming independence?", options:["1/6","2/5","1/5","1/3"], answer:0},
      {q:"Two events are independent if ___.", options:["The outcome of one does not affect the outcome of the other","They always affect each other completely","They can never both occur","They are always identical events"], answer:0},
@@ -1492,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electricity: Circuits and Ohm’s Law", summary:"Ontario Grade 7 Science Structures and Mechanisms strand: Ohm’s Law describes the relationship between voltage, current, and resistance in an electrical circuit, expressed as voltage equals current times resistance.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=uZ-m91IEkjQ",
    quiz:[
      {q:"Ohm’s Law is expressed as ___.", options:["Voltage equals resistance divided by current","Current equals voltage times resistance","Voltage equals current times resistance","Resistance has no relationship to voltage or current"], answer:2},
      {q:"In a circuit, resistance refers to ___.", options:["Opposition to the flow of electric current","A type of energy source","The total voltage supplied","The amount of current only"], answer:0},
@@ -1501,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Globalization and Its Critics", summary:"Ontario Grade 7 Social Studies People and Environments strand: while globalization has increased international trade and connection, critics point to concerns such as economic inequality, loss of local industries, and environmental impact.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=uZXJYE0ZY0s",
    quiz:[
      {q:"Critics of globalization often raise concerns about ___.", options:["Globalization having no effect on any country","Economic inequality and environmental impact","No concerns exist regarding globalization","Only benefits, with no drawbacks discussed"], answer:1},
      {q:"One concern about globalization is that it can lead to ___.", options:["No economic changes anywhere","Complete economic isolation for every country","The loss of local industries in some regions","The growth of local industries with no downsides"], answer:2},

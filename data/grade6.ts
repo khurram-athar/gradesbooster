@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Writing: Crafting a Strong Thesis Statement", summary:"Ontario Grade 6 Writing strand: a thesis statement clearly presents the main argument or focus of an essay, usually appearing near the end of the introduction, and guides the structure of the entire piece.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=6n0f_bR5aoc",
    quiz:[
      {q:"A thesis statement is best described as ___.", options:["The very last sentence of the conclusion only","A statement that presents the main argument or focus of an essay","A list of unrelated topics","A random unrelated fact"], answer:1},
      {q:"A thesis statement typically appears ___.", options:["At the very end of the essay only","Near the end of the introduction","Nowhere in a well-organized essay","In the middle of a random body paragraph"], answer:1},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Budgets and Percent Discounts", summary:"Ontario Grade 6 Financial Literacy strand: a budget tracks income and expenses, and percent discounts reduce an item’s price by a specific percentage, useful for comparing sale prices and managing spending.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=5qxX222sLtE",
    quiz:[
      {q:"A budget helps track ___.", options:["Only savings with no other categories","Nothing related to money","Only expenses, never income","Income and expenses"], answer:3},
      {q:"If an item originally costs $80 and is 25 percent off, what is the discount amount?", options:["$20","$10","$60","$25"], answer:0},
@@ -1492,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Genetics and Heredity: Introduction", summary:"Ontario Grade 6 Science Life Systems strand: heredity is the passing of traits from parents to offspring through genes, which are segments of DNA that carry instructions for an organism’s characteristics.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=8m6hHRlKwxY",
    quiz:[
      {q:"Heredity refers to ___.", options:["The passing of traits from parents to offspring","A process unrelated to living things","A type of rock formation","A type of weather pattern"], answer:0},
      {q:"Genes are best described as ___.", options:["A part of the digestive system","A type of chemical unrelated to biology","A type of cell found only in plants","Segments of DNA that carry instructions for traits"], answer:3},
@@ -1501,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The United Nations and International Cooperation", summary:"Ontario Grade 6 Social Studies People and Environments strand: the United Nations is an international organization formed after World War II to promote peace, cooperation, and human rights among countries around the world.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=SaAmfiJtV4I",
    quiz:[
      {q:"The United Nations was formed after which major event?", options:["World War I","World War II","The Renaissance","The Cold War began"], answer:1},
      {q:"One of the main goals of the United Nations is to promote ___.", options:["The end of all international organizations","Isolation of all countries from each other","Peace and cooperation among nations","Conflict between countries"], answer:2},
