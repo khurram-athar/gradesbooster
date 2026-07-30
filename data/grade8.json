@@ -8619,6 +8619,7 @@
         "summary": "Grade 8 Writing strand: an extended definition essay explores the deeper meaning of a complex or abstract term, such as courage or success, using examples, comparisons, and explanations beyond a simple dictionary definition.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=aI50MknoeX4",
         "quiz": [
           {
             "q": "An extended definition essay explores ___.",
@@ -8678,6 +8679,7 @@
         "summary": "Grade 8 Algebra strand (pre-high-school extension): a quadratic function, such as y equals x squared, produces a U-shaped graph called a parabola, with a vertex representing its minimum or maximum point.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=PjWrGpWFhkU",
         "quiz": [
           {
             "q": "The graph of a quadratic function is called a ___.",
@@ -8733,60 +8735,61 @@
       },
       {
         "subject": "Science",
-        "title": "Renewable Energy Systems: Design and Efficiency",
-        "summary": "Grade 8 Science and Technology strand: designing renewable energy systems, such as solar panel arrays or wind turbines, involves balancing energy output, cost, and environmental impact to maximize efficiency.",
+        "title": "Wind Turbines: Converting Wind Into Electricity",
+        "summary": "Grade 8 Science and Technology strand: a wind turbine converts the kinetic energy of moving air into electricity, using blades connected to a generator, and engineers weigh factors like wind speed, blade size, and location when harnessing this renewable resource.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=xy9nj94xvKA",
         "quiz": [
           {
-            "q": "Designing a renewable energy system involves balancing ___.",
+            "q": "A wind turbine converts the kinetic energy of moving air into ___.",
             "options": [
-              "A single unrelated factor",
-              "Energy output, cost, and environmental impact",
-              "Nothing related to efficiency",
-              "Only the system’s colour"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Efficiency in a renewable energy system refers to ___.",
-            "options": [
-              "A factor unrelated to energy production",
-              "How effectively the system converts a resource into usable energy",
-              "The system’s exact physical size",
-              "The system’s manufacturing date"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which factor might engineers consider when placing solar panels for maximum efficiency?",
-            "options": [
-              "The panels’ weight alone",
-              "Factors completely unrelated to sunlight",
-              "The amount and angle of sunlight exposure",
-              "The colour of nearby buildings only"
+              "Heat only",
+              "Sound energy",
+              "Electricity",
+              "Sunlight"
             ],
             "answer": 2
           },
           {
-            "q": "Why might engineers test multiple designs before finalizing a renewable energy system?",
+            "q": "What part of a wind turbine spins to capture the wind's energy?",
             "options": [
-              "Testing designs serves no useful purpose",
-              "To determine which design offers the best balance of efficiency, cost, and impact",
-              "The first design attempted is always the most efficient",
-              "Multiple designs are never compared in engineering"
+              "The tower base",
+              "The blades",
+              "The foundation",
+              "The control panel"
             ],
             "answer": 1
           },
           {
-            "q": "Why is designing efficient renewable energy systems considered valuable?",
+            "q": "Inside a wind turbine, the spinning blades turn a shaft connected to a ___.",
             "options": [
-              "Renewable energy systems cannot be designed for efficiency",
-              "Efficient design has no real-world benefits",
-              "This design process has no connection to environmental impact",
-              "It can help maximize energy production while reducing environmental impact and cost"
+              "Solar cell",
+              "Battery only",
+              "Generator",
+              "Thermometer"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "Why do engineers consider wind speed and location when placing a wind turbine?",
+            "options": [
+              "Location has no effect on how much electricity is produced",
+              "Stronger, more consistent winds allow a turbine to generate more electricity",
+              "Turbines work identically regardless of wind conditions",
+              "Wind turbines require no wind to operate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is wind considered a renewable energy resource?",
+            "options": [
+              "Wind is a resource that naturally renews and does not run out like fossil fuels",
+              "Wind is manufactured in factories",
+              "Wind is a fossil fuel",
+              "Wind can only be used once and then disappears"
+            ],
+            "answer": 0
           }
         ]
       },
@@ -8796,6 +8799,7 @@
         "summary": "Grade 8 History strand: the Underground Railroad was a network that helped formerly enslaved people escape to freedom, with many settling in Canada, contributing significantly to Black Canadian history and communities.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=SfH3CHeVXYQ",
         "quiz": [
           {
             "q": "The Underground Railroad was a network that helped ___.",

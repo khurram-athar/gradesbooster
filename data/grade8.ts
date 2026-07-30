@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Writing: The Extended Definition Essay", summary:"Grade 8 Writing strand: an extended definition essay explores the deeper meaning of a complex or abstract term, such as courage or success, using examples, comparisons, and explanations beyond a simple dictionary definition.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=aI50MknoeX4",
    quiz:[
      {q:"An extended definition essay explores ___.", options:["The deeper meaning of a complex or abstract term","A term with no meaningful complexity","Only a simple dictionary definition","A completely unrelated topic"], answer:0},
      {q:"Which is an example of a term suited for an extended definition essay?", options:["A random punctuation mark","The number three","Courage","A single letter of the alphabet"], answer:2},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Graphing Quadratic Functions", summary:"Grade 8 Algebra strand (pre-high-school extension): a quadratic function, such as y equals x squared, produces a U-shaped graph called a parabola, with a vertex representing its minimum or maximum point.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=PjWrGpWFhkU",
    quiz:[
      {q:"The graph of a quadratic function is called a ___.", options:["Triangle","Circle","Parabola","Straight line"], answer:2},
      {q:"The vertex of a parabola represents ___.", options:["A random unrelated point","The minimum or maximum point of the graph","The steepest possible slope","The starting point of the x-axis"], answer:1},
@@ -1490,17 +1492,19 @@ const curriculum: DayContent[] = [
      {q:"If a quadratic function’s graph opens downward, its vertex represents a ___.", options:["The y-intercept only","Point with no significance","Maximum point","Minimum point"], answer:2},
      {q:"Why might quadratic functions be used to model real-world situations, like the path of a thrown ball?", options:["Parabolas have no practical applications","Only straight-line graphs can represent real-world motion","Quadratic functions can never model real-world situations","Their U-shaped graph can represent situations that rise and then fall, or vice versa"], answer:3}
    ]},
-  {subject:"Science", title:"Renewable Energy Systems: Design and Efficiency", summary:"Grade 8 Science and Technology strand: designing renewable energy systems, such as solar panel arrays or wind turbines, involves balancing energy output, cost, and environmental impact to maximize efficiency.",
+  {subject:"Science", title:"Wind Turbines: Converting Wind Into Electricity", summary:"Grade 8 Science and Technology strand: a wind turbine converts the kinetic energy of moving air into electricity, using blades connected to a generator, and engineers weigh factors like wind speed, blade size, and location when harnessing this renewable resource.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=xy9nj94xvKA",
    quiz:[
-     {q:"Designing a renewable energy system involves balancing ___.", options:["A single unrelated factor","Energy output, cost, and environmental impact","Nothing related to efficiency","Only the system’s colour"], answer:1},
-     {q:"Efficiency in a renewable energy system refers to ___.", options:["A factor unrelated to energy production","How effectively the system converts a resource into usable energy","The system’s exact physical size","The system’s manufacturing date"], answer:1},
-     {q:"Which factor might engineers consider when placing solar panels for maximum efficiency?", options:["The panels’ weight alone","Factors completely unrelated to sunlight","The amount and angle of sunlight exposure","The colour of nearby buildings only"], answer:2},
-     {q:"Why might engineers test multiple designs before finalizing a renewable energy system?", options:["Testing designs serves no useful purpose","To determine which design offers the best balance of efficiency, cost, and impact","The first design attempted is always the most efficient","Multiple designs are never compared in engineering"], answer:1},
-     {q:"Why is designing efficient renewable energy systems considered valuable?", options:["Renewable energy systems cannot be designed for efficiency","Efficient design has no real-world benefits","This design process has no connection to environmental impact","It can help maximize energy production while reducing environmental impact and cost"], answer:3}
+     {q:"A wind turbine converts the kinetic energy of moving air into ___.", options:["Heat only","Sound energy","Electricity","Sunlight"], answer:2},
+     {q:"What part of a wind turbine spins to capture the wind's energy?", options:["The tower base","The blades","The foundation","The control panel"], answer:1},
+     {q:"Inside a wind turbine, the spinning blades turn a shaft connected to a ___.", options:["Solar cell","Battery only","Generator","Thermometer"], answer:2},
+     {q:"Why do engineers consider wind speed and location when placing a wind turbine?", options:["Location has no effect on how much electricity is produced","Stronger, more consistent winds allow a turbine to generate more electricity","Turbines work identically regardless of wind conditions","Wind turbines require no wind to operate"], answer:1},
+     {q:"Why is wind considered a renewable energy resource?", options:["Wind is a resource that naturally renews and does not run out like fossil fuels","Wind is manufactured in factories","Wind is a fossil fuel","Wind can only be used once and then disappears"], answer:0}
    ]},
   {subject:"History", title:"The Underground Railroad and Black History in Canada", summary:"Grade 8 History strand: the Underground Railroad was a network that helped formerly enslaved people escape to freedom, with many settling in Canada, contributing significantly to Black Canadian history and communities.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=SfH3CHeVXYQ",
    quiz:[
      {q:"The Underground Railroad was a network that helped ___.", options:["Explorers travel to new territories","Soldiers move during wartime","Immigrants travel by an actual railway system","Formerly enslaved people escape to freedom"], answer:3},
      {q:"Many people who used the Underground Railroad settled in ___.", options:["A country with no historical connection to this network","A location unrelated to this history","Canada","No location at all"], answer:2},
