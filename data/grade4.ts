@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Vocabulary: Homophones", summary:"Ontario Grade 4 Language strand: homophones are words that sound the same but have different spellings and meanings, such as their/there/they are, or to/too/two.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=upRY6RP10JA",
    quiz:[
      {q:"Which set of words are homophones?", options:["Run and walk","Happy and sad","Their, there, they are","Big and small"], answer:2},
      {q:"Choose the correct homophone: ___ going to the park.", options:["They're","Their","There","They are"], answer:0},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introducing Quadrilaterals", summary:"Ontario Grade 4 Geometry strand: a quadrilateral is any shape with four sides, including squares, rectangles, rhombuses, and trapezoids, each with their own specific properties.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Nq1WsZo5BUc",
    quiz:[
      {q:"A quadrilateral always has how many sides?", options:["Six","Four","Three","Five"], answer:1},
      {q:"Which shape is a quadrilateral with four equal sides and four right angles?", options:["Square","Trapezoid","Circle","Triangle"], answer:0},
@@ -1492,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Instruments and Measurement", summary:"Ontario Grade 4 Science Earth and Space Systems strand: scientists use instruments such as thermometers, rain gauges, and wind vanes to measure and track weather conditions like temperature, precipitation, and wind direction.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=ySSyT44nma4",
    quiz:[
      {q:"A thermometer is used to measure ___.", options:["Air pressure only","Wind direction","Temperature","Rainfall amount"], answer:2},
      {q:"A rain gauge is used to measure ___.", options:["Temperature","The amount of precipitation","Wind speed","Cloud colour"], answer:1},
@@ -1501,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples: Contributions to Canadian Society", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Indigenous peoples have made significant and lasting contributions to Canadian society, including knowledge of the land, agriculture, medicine, governance, and culture.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=HD62Ux5GNE4",
    quiz:[
      {q:"Indigenous peoples have contributed knowledge about ___ to Canadian society.", options:["Nothing of lasting value","Foreign countries only","The land, agriculture, and medicine","Only modern technology"], answer:2},
      {q:"Which crop, first cultivated by Indigenous peoples, remains important today?", options:["Corn","Bananas","Coffee","Rice"], answer:0},

@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Vocabulary: Root Words and Etymology", summary:"Ontario Grade 5 Language strand: many English words share root words that come from Latin or Greek, and knowing these roots, along with a word’s etymology (origin), can help readers determine meaning.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=jWyX8vl6kMs",
    quiz:[
      {q:"A root word is ___.", options:["Always a whole sentence","The base part of a word that carries its core meaning","A word’s ending sound only","A punctuation mark"], answer:1},
      {q:"Etymology refers to the study of ___.", options:["How to spell a word correctly","A word’s pronunciation only","A word’s origin and history","Grammar rules for verbs"], answer:2},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Classifying Polyhedra", summary:"Ontario Grade 5 Geometry strand: a polyhedron is a 3D shape with flat polygon faces, straight edges, and vertices, such as a cube, pyramid, or prism, classified by the number and shape of their faces.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=6BtrWUft6Wo",
    quiz:[
      {q:"A polyhedron is best described as a 3D shape with ___.", options:["No edges at all","Only curved surfaces","Flat polygon faces, straight edges, and vertices","Only one face"], answer:2},
      {q:"How many faces does a cube have?", options:["6","4","8","12"], answer:0},
@@ -1492,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Renewable Energy Technologies", summary:"Ontario Grade 5 Science Matter and Energy strand: technologies such as solar panels, wind turbines, and hydroelectric dams convert renewable natural energy sources into usable electricity.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=Giek094C_l4",
    quiz:[
      {q:"Solar panels convert ___ into usable electricity.", options:["Coal","Wind energy","Sunlight","Ocean waves only"], answer:2},
      {q:"Wind turbines convert ___ into usable electricity.", options:["Underground heat only","The motion of wind","Coal","Sunlight"], answer:1},
@@ -1501,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Self-Government and Modern Treaties", summary:"Ontario Grade 5 Social Studies People and Environments strand: many Indigenous communities in Canada today exercise self-government through modern treaties and agreements that recognize their right to govern their own affairs.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=WDbjZm3RD3E",
    quiz:[
      {q:"Self-government for Indigenous communities generally means ___.", options:["Having no say in their own affairs","Being governed entirely by another country","Having no recognized rights at all","Having the authority to govern their own community affairs"], answer:3},
      {q:"A modern treaty between a government and an Indigenous community typically addresses ___.", options:["Only sports agreements","Rights, land, and governance arrangements","Only trade with other countries","Nothing of importance"], answer:1},

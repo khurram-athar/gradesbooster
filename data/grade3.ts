@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"Language", title:"Vocabulary: Synonyms and Antonyms", summary:"Ontario Grade 3 Language strand: synonyms are words with similar meanings (happy/glad), and antonyms are words with opposite meanings (happy/sad); knowing both helps build stronger, more varied writing.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=PDI2xlOBcM4",
    quiz:[
      {q:"A synonym for happy is ___.", options:["Sad","Angry","Tired","Glad"], answer:3},
      {q:"An antonym for happy is ___.", options:["Glad","Cheerful","Joyful","Sad"], answer:3},
@@ -1483,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Line Graphs", summary:"Ontario Grade 3 Data strand: a line graph shows how data changes over time by connecting points with a line, useful for tracking things like temperature or growth.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=a8LN-v3MyDg",
    quiz:[
      {q:"A line graph is most useful for showing ___.", options:["Only colours","Random unrelated facts","How data changes over time","A single number with no comparison"], answer:2},
      {q:"On a line graph, points are connected by a ___.", options:["Nothing","Line","Bar","Circle only"], answer:1},
@@ -1492,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: The Sun, Earth, and Moon", summary:"Ontario Grade 3 Science Earth and Space Systems strand: the Sun is a star that gives light and heat, Earth orbits the Sun, and the Moon orbits Earth, reflecting the Sun's light.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=riMAITbLqZI",
    quiz:[
      {q:"The Sun is best described as a ___.", options:["Comet","Star","Planet","Moon"], answer:1},
      {q:"Earth orbits (travels around) the ___.", options:["Sun","Another planet","Nothing","Moon"], answer:0},
@@ -1501,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities in Canada, 1780-1850: Transportation and Travel", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: before modern roads and vehicles, early Canadian settlers travelled by foot, horse, canoe, and boat, and waterways were especially important for trade and transportation.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=epyrwjhHV6Q",
    quiz:[
      {q:"Before cars, how did most early settlers travel long distances?", options:["By subway","By airplane","By bicycle only","By foot, horse, canoe, or boat"], answer:3},
      {q:"Why were waterways so important to early settlers?", options:["They were avoided completely","Only for drinking water","They were used for trade and transportation","They had no use at all"], answer:2},
