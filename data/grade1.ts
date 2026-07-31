@@ -1671,6 +1671,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Sorting and Classifying Objects", summary:"Students practise sorting a group of objects into categories based on shared attributes, such as colour, size, or shape, and explain the rule used to sort them.",
    resourceLabel:"YouTube: Sorting and Classifying Objects", resourceUrl:"https://www.youtube.com/results?search_query=Sorting%20and%20Classifying%20Objects%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Do8QTWpqAz0",
    quiz:[
      {q:"Which of these is a way you could sort a group of objects?", options:["Randomly with no rule","By colour","Objects cannot be sorted","By nothing"], answer:1},
      {q:"If you sort shapes by number of sides, where would a triangle and a different triangle go?", options:["In the same group","No group at all","Shapes cannot be sorted this way","In different groups"], answer:0},
@@ -1685,6 +1686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Taking Care of Our Teeth", summary:"Students learn simple habits for keeping teeth healthy, such as brushing twice a day, flossing, eating healthy foods, and visiting the dentist.",
    resourceLabel:"YouTube: Taking Care of Our Teeth", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Teeth%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=UYRO9R6Bw2s",
    quiz:[
      {q:"How many times a day should you usually brush your teeth?", options:["Twice","Only on weekends","Never","Once"], answer:0},
      {q:"Who is a helper that checks and cares for our teeth?", options:["A dentist","A baker","A firefighter","A postal worker"], answer:0},
@@ -1699,6 +1701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Cooperation and Teamwork in a Group", summary:"Students learn what it means to cooperate with others in a group, such as sharing materials, taking turns, and listening to different ideas to reach a shared goal.",
    resourceLabel:"YouTube: Cooperation and Teamwork in a Group", resourceUrl:"https://www.youtube.com/results?search_query=Cooperation%20and%20Teamwork%20in%20a%20Group%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tEy2NFtGsJU",
    quiz:[
      {q:"What does it mean to cooperate with a group?", options:["Refusing to share","Doing everything alone","Working together toward a shared goal","Ignoring everyone else"], answer:2},
      {q:"Which of these shows good cooperation in a group?", options:["Yelling over others","Sharing materials and taking turns","Refusing to listen","Grabbing everything for yourself"], answer:1},
