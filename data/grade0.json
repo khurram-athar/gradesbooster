@@ -4583,6 +4583,7 @@
         "summary": "Students find different pairs of numbers that combine to make 9, such as 4 and 5, or 6 and 3, building number sense before moving on to subtraction.",
         "resourceLabel": "YouTube: Number Bonds: Ways to Make 9",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%209%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x63RxWbz6zk",
         "quiz": [
           {
             "q": "4 + ? = 9",
@@ -4702,6 +4703,7 @@
         "summary": "Students learn about animals that live across Canada, such as the moose, polar bear, beaver, and Canada goose, and where in the country each one makes its home.",
         "resourceLabel": "YouTube: Canadian Wildlife: Animals of Canada",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Wildlife%3A%20Animals%20of%20Canada%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=lEL94kiLroQ",
         "quiz": [
           {
             "q": "Which large animal with antlers lives in Canadian forests?",
@@ -5435,58 +5437,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "My Favourite Things: Sharing What I Like",
-        "summary": "Students reflect on their own favourite activities, foods, and games, and practise sharing their likes and interests with classmates to build community and self-awareness.",
-        "resourceLabel": "YouTube: My Favourite Things: Sharing What I Like",
-        "resourceUrl": "https://www.youtube.com/results?search_query=My%20Favourite%20Things%20kindergarten%20educational",
+        "title": "Sharing and Taking Turns",
+        "summary": "Students discuss why sharing and taking turns matter when playing and working with others, using the story of the Rainbow Fish as a starting point. They practise applying these ideas to everyday classroom situations, such as sharing toys or waiting for a turn on the swings.",
+        "resourceLabel": "YouTube: Sharing and Taking Turns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sharing%20and%20Taking%20Turns%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=TgILVD1AxBE",
         "quiz": [
           {
-            "q": "Sharing your favourite things with others helps everyone ___.",
+            "q": "Why is it important to take turns when playing a game?",
             "options": [
-              "ignore each other",
-              "get to know each other better",
-              "stay quiet",
-              "compete"
+              "So only one person gets to play",
+              "So everyone gets a fair chance to join in",
+              "So the game ends faster",
+              "So no one has fun"
             ],
             "answer": 1
           },
           {
-            "q": "Which is an example of a favourite thing you might share?",
+            "q": "In the story of the Rainbow Fish, what did the fish learn to do?",
             "options": [
-              "A rule at school",
-              "A game you enjoy playing",
-              "Someone else's opinion",
-              "A chore you dislike"
+              "Swim faster than everyone",
+              "Share his shiny scales with others",
+              "Hide from his friends",
+              "Keep everything for himself"
             ],
             "answer": 1
           },
           {
-            "q": "Why might two friends have different favourite things?",
+            "q": "If a friend is waiting for a turn on the swing, you should ___.",
             "options": [
-              "Everyone is exactly the same",
-              "Everyone is unique and likes different things",
-              "One of them is wrong",
-              "Favourites never differ"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "When a classmate shares their favourite thing, a good listener should ___.",
-            "options": [
-              "interrupt them",
-              "look away",
-              "pay attention and show interest",
-              "laugh at their choice"
+              "push them out of the way",
+              "ignore them",
+              "take one more turn and then let them go",
+              "yell at them"
             ],
             "answer": 2
           },
           {
-            "q": "Talking about our favourite things helps us learn that ___.",
+            "q": "Which of these is an example of sharing?",
             "options": [
-              "everyone must like the same things",
-              "our classmates are interesting and different",
-              "favourites do not matter",
-              "only some favourites are allowed"
+              "Keeping all the crayons to yourself",
+              "Letting a classmate use some of your crayons",
+              "Hiding the crayons",
+              "Throwing the crayons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do sharing and taking turns help a classroom?",
+            "options": [
+              "They make everyone quieter",
+              "They help classmates get along and feel included",
+              "They slow down learning",
+              "They are not important"
             ],
             "answer": 1
           }

@@ -1484,6 +1484,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Financial Mathematics: Annuities and Present Value", summary:"Grade 11 Functions strand (Financial Applications): an annuity is a series of equal payments made at regular intervals, and present value calculates what a series of future payments is worth in today’s dollars.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=5fLDW8uTks0",
    quiz:[
      {q:"An annuity is best described as ___.", options:["A concept unrelated to regular payments","A payment made at completely random, irregular intervals","A single, one-time payment with no repetition","A series of equal payments made at regular intervals"], answer:3},
      {q:"Present value calculates what a series of future payments is worth in ___.", options:["Today’s dollars","Only the exact value of the very last payment","A value with no connection to the timing of payments","A currency unrelated to the original payments"], answer:0},

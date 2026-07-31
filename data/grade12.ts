@@ -1483,6 +1483,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Introduction to Polar Coordinates", summary:"Grade 12 Advanced Functions strand: polar coordinates locate a point using a distance from the origin and an angle from a reference direction, offering an alternative to the standard x-y coordinate system.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=aSdaT62ndYE",
    quiz:[
      {q:"Polar coordinates locate a point using ___.", options:["A single number with no other defining information","A distance from the origin and an angle from a reference direction","A concept entirely unrelated to location or position","Only two perpendicular distances, with no angle involved"], answer:1},
      {q:"Polar coordinates offer an alternative to the standard ___ coordinate system.", options:["Binary","Purely numerical, with no coordinate system involved at all","A system entirely unrelated to graphing points","x-y"], answer:3},

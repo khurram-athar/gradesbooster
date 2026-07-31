@@ -812,6 +812,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing and Ordering Fractions", summary:"Students compare fractions with different denominators by finding common denominators or using benchmarks, then order sets of fractions from least to greatest.",
    resourceLabel:"YouTube: Comparing and Ordering Fractions", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20and%20Ordering%20Fractions%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YEzqPnE-XZA",
    quiz:[
      {q:"Which fraction is greater, 3/4 or 5/8?", options:["5/8","3/4","They are equal","Cannot be determined"], answer:1},
      {q:"To compare fractions with different denominators, it helps to first find a ___.", options:["common numerator","larger denominator only","common denominator","smaller numerator"], answer:2},

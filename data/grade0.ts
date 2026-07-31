@@ -790,6 +790,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Bonds: Ways to Make 9", summary:"Students find different pairs of numbers that combine to make 9, such as 4 and 5, or 6 and 3, building number sense before moving on to subtraction.",
    resourceLabel:"YouTube: Number Bonds: Ways to Make 9", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%209%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=x63RxWbz6zk",
    quiz:[
      {q:"4 + ? = 9", options:["4","6","5","3"], answer:2},
      {q:"Which pair makes 9?", options:["2 and 5","6 and 3","1 and 6","4 and 2"], answer:1},
@@ -809,6 +810,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Wildlife: Animals of Canada", summary:"Students learn about animals that live across Canada, such as the moose, polar bear, beaver, and Canada goose, and where in the country each one makes its home.",
    resourceLabel:"YouTube: Canadian Wildlife: Animals of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Wildlife%3A%20Animals%20of%20Canada%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lEL94kiLroQ",
    quiz:[
      {q:"Which large animal with antlers lives in Canadian forests?", options:["Moose","Camel","Kangaroo","Lion"], answer:0},
      {q:"Which animal lives in the very cold Canadian Arctic?", options:["Polar bear","Zebra","Elephant","Giraffe"], answer:0},
@@ -932,14 +934,15 @@ const curriculum: DayContent[] = [
      {q:"Which part of a plant absorbs water from the soil?", options:["Leaves","Roots","Flowers","Stem"], answer:1},
      {q:"Plants make their food using ___.", options:["only air","only water","sunlight, water, and carbon dioxide","soil alone"], answer:2}
    ]},
-  {subject:"SocialStudies", title:"My Favourite Things: Sharing What I Like", summary:"Students reflect on their own favourite activities, foods, and games, and practise sharing their likes and interests with classmates to build community and self-awareness.",
-   resourceLabel:"YouTube: My Favourite Things: Sharing What I Like", resourceUrl:"https://www.youtube.com/results?search_query=My%20Favourite%20Things%20kindergarten%20educational",
+  {subject:"SocialStudies", title:"Sharing and Taking Turns", summary:"Students discuss why sharing and taking turns matter when playing and working with others, using the story of the Rainbow Fish as a starting point. They practise applying these ideas to everyday classroom situations, such as sharing toys or waiting for a turn on the swings.",
+   resourceLabel:"YouTube: Sharing and Taking Turns", resourceUrl:"https://www.youtube.com/results?search_query=Sharing%20and%20Taking%20Turns%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TgILVD1AxBE",
    quiz:[
-     {q:"Sharing your favourite things with others helps everyone ___.", options:["ignore each other", "get to know each other better", "stay quiet", "compete"], answer:1},
-     {q:"Which is an example of a favourite thing you might share?", options:["A rule at school", "A game you enjoy playing", "Someone else's opinion", "A chore you dislike"], answer:1},
-     {q:"Why might two friends have different favourite things?", options:["Everyone is exactly the same", "Everyone is unique and likes different things", "One of them is wrong", "Favourites never differ"], answer:1},
-     {q:"When a classmate shares their favourite thing, a good listener should ___.", options:["interrupt them", "look away", "pay attention and show interest", "laugh at their choice"], answer:2},
-     {q:"Talking about our favourite things helps us learn that ___.", options:["everyone must like the same things", "our classmates are interesting and different", "favourites do not matter", "only some favourites are allowed"], answer:1}
+     {q:"Why is it important to take turns when playing a game?", options:["So only one person gets to play", "So everyone gets a fair chance to join in", "So the game ends faster", "So no one has fun"], answer:1},
+     {q:"In the story of the Rainbow Fish, what did the fish learn to do?", options:["Swim faster than everyone", "Share his shiny scales with others", "Hide from his friends", "Keep everything for himself"], answer:1},
+     {q:"If a friend is waiting for a turn on the swing, you should ___.", options:["push them out of the way", "ignore them", "take one more turn and then let them go", "yell at them"], answer:2},
+     {q:"Which of these is an example of sharing?", options:["Keeping all the crayons to yourself", "Letting a classmate use some of your crayons", "Hiding the crayons", "Throwing the crayons"], answer:1},
+     {q:"How do sharing and taking turns help a classroom?", options:["They make everyone quieter", "They help classmates get along and feel included", "They slow down learning", "They are not important"], answer:1}
    ]},
 ]},
 {day:23, label:"Day 23 — Wed", subjects:[
