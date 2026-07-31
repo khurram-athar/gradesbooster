@@ -1656,6 +1656,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"Language", title:"Story Elements: Beginning, Middle, End", summary:"Students learn that stories have a beginning that introduces characters, a middle with a problem or event, and an end that solves the problem.",
    resourceLabel:"YouTube: Story Elements: Beginning, Middle, End", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Elements%3A%20Beginning%2C%20Middle%2C%20End%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S96cYTI-gAk",
    quiz:[
      {q:"What happens at the beginning of a story?", options:["Characters and setting are introduced","The problem is solved","Nothing happens","The story ends"], answer:0},
      {q:"What usually happens in the middle of a story?", options:["A problem or event happens","The book closes","Credits roll","The story starts"], answer:0},
@@ -1670,6 +1671,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 30", summary:"Students count, read, and recognize numbers from 20 to 30, extending their counting skills beyond 20.",
    resourceLabel:"YouTube: Numbers to 30", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%2030%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=E9s1cz1sKBo",
    quiz:[
      {q:"What number comes after 24?", options:["20","25","26","23"], answer:1},
      {q:"What number comes before 30?", options:["29","27","31","28"], answer:0},
@@ -1684,6 +1686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines: Ramps and Wheels", summary:"Students explore two simple machines, ramps and wheels, and how they make moving objects easier.",
    resourceLabel:"YouTube: Simple Machines: Ramps and Wheels", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Ramps%20and%20Wheels%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=LSfNYpCprw4",
    quiz:[
      {q:"What does a ramp help us do?", options:["Cook food","Move things up or down more easily","Grow plants","Make loud noises"], answer:1},
      {q:"What do wheels help with?", options:["Making objects heavier","Making objects move more easily","Making objects colourful","Stopping all movement"], answer:1},
