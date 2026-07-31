@@ -1474,6 +1474,7 @@ const curriculum: DayContent[] = [
 {day:36, label:"Day 36 — Mon", subjects:[
   {subject:"English", title:"Literature: Trauma and Memory in Contemporary Fiction", summary:"Grade 12 English strand: contemporary fiction often explores how trauma shapes memory and identity, using techniques like fragmented narrative structure or nonlinear timelines to reflect a character’s psychological experience.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=H4IeA4HRORk",
    quiz:[
      {q:"Contemporary fiction dealing with trauma often explores how it shapes ___.", options:["Only a character’s physical appearance","Memory and identity","Grammar and sentence structure exclusively","A topic entirely unrelated to personal experience"], answer:1},
      {q:"Which is a narrative technique authors might use to reflect the psychological experience of trauma?", options:["A fragmented or nonlinear narrative structure","A strictly chronological structure with absolutely no variation","The complete avoidance of any narrative structure at all","A technique entirely unrelated to storytelling structure"], answer:0},
@@ -1493,6 +1494,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Volumes of Solids of Revolution: The Shell Method", summary:"Grade 12 Calculus strand: the shell method calculates the volume of a solid of revolution by integrating the surface areas of thin cylindrical shells, offering an alternative approach to the disk or washer method.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=GUDOkk-HfqY",
    quiz:[
      {q:"The shell method calculates volume by integrating the surface areas of thin ___.", options:["A concept unrelated to volume calculation","Solid spheres with no hollow structure","Flat, two-dimensional squares with no depth","Cylindrical shells"], answer:3},
      {q:"The shell method offers an alternative approach to the ___ method.", options:["A method entirely unrelated to calculating volume","Simple multiplication with no further steps required","Disk or washer","Only basic addition, with no other calculus method involved"], answer:2},
@@ -1502,6 +1504,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: RC Circuits and Time Constants", summary:"Grade 12 Physics strand: an RC circuit contains a resistor and a capacitor, and its time constant describes how quickly the capacitor charges or discharges through the resistor.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=PLQrPqYlPmI",
    quiz:[
      {q:"An RC circuit contains a resistor and a ___.", options:["Component entirely unrelated to electric circuits","Magnet, with no connection to resistors","Light bulb exclusively, with no other components","Capacitor"], answer:3},
      {q:"The time constant of an RC circuit describes how quickly the capacitor ___.", options:["A process entirely unrelated to charge or discharge","Permanently loses all electrical properties","Changes colour during circuit operation","Charges or discharges through the resistor"], answer:3},

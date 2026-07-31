@@ -1701,6 +1701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Keeping Our Community Clean", summary:"Students learn simple ways to help keep their community clean, such as putting garbage in the bin, picking up litter, and taking care of parks.",
    resourceLabel:"YouTube: Keeping Our Community Clean", resourceUrl:"https://www.youtube.com/results?search_query=Keeping%20Our%20Community%20Clean%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vyyeAzlS_lw",
    quiz:[
      {q:"Where should garbage go?", options:["In the park grass","On the ground","In a garbage bin","Anywhere"], answer:2},
      {q:"Litter is ___.", options:["A community helper","Garbage left on the ground instead of in a bin","A type of food","A type of flower"], answer:1},

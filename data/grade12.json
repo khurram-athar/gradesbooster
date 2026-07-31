@@ -8619,6 +8619,7 @@
         "summary": "Grade 12 English strand: contemporary fiction often explores how trauma shapes memory and identity, using techniques like fragmented narrative structure or nonlinear timelines to reflect a character’s psychological experience.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=H4IeA4HRORk",
         "quiz": [
           {
             "q": "Contemporary fiction dealing with trauma often explores how it shapes ___.",
@@ -8738,6 +8739,7 @@
         "summary": "Grade 12 Calculus strand: the shell method calculates the volume of a solid of revolution by integrating the surface areas of thin cylindrical shells, offering an alternative approach to the disk or washer method.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=GUDOkk-HfqY",
         "quiz": [
           {
             "q": "The shell method calculates volume by integrating the surface areas of thin ___.",
@@ -8797,6 +8799,7 @@
         "summary": "Grade 12 Physics strand: an RC circuit contains a resistor and a capacitor, and its time constant describes how quickly the capacitor charges or discharges through the resistor.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=PLQrPqYlPmI",
         "quiz": [
           {
             "q": "An RC circuit contains a resistor and a ___.",

@@ -1656,6 +1656,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"Language", title:"Fiction and Non-Fiction: Comparing Texts", summary:"Students learn to compare fiction texts, which tell made-up stories, with non-fiction texts, which give true facts and information.",
    resourceLabel:"YouTube: Fiction and Non-Fiction: Comparing Texts", resourceUrl:"https://www.youtube.com/results?search_query=Fiction%20and%20Non-Fiction%3A%20Comparing%20Texts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=XeDZZVamxtY",
    quiz:[
      {q:"What kind of story does a fiction book tell?", options:["A true story","A made-up story","No story at all","Only facts"], answer:1},
      {q:"What kind of information does a non-fiction book give?", options:["Only pictures","Made-up stories","True facts and information","Nothing at all"], answer:2},
