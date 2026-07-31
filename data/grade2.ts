@@ -1670,6 +1670,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Odd and Even Numbers", summary:"Students learn to identify odd and even numbers, understanding that even numbers can be split into two equal groups and odd numbers cannot.",
    resourceLabel:"YouTube: Odd and Even Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Odd%20and%20Even%20Numbers%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MqMnBZByxnU",
    quiz:[
      {q:"Is the number 8 odd or even?", options:["Even","Both","Neither","Odd"], answer:0},
      {q:"Is the number 7 odd or even?", options:["Odd","Neither","Even","Both"], answer:0},
@@ -1684,6 +1685,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Water Cycle", summary:"Students learn about the water cycle, the process where water evaporates into the air, forms clouds through condensation, and falls back to the earth as precipitation like rain or snow.",
    resourceLabel:"YouTube: The Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=taYQmxf3y_k",
    quiz:[
      {q:"What do we call water turning into vapour and rising into the air?", options:["Freezing","Condensation","Evaporation","Precipitation"], answer:2},
      {q:"What do we call water vapour forming into clouds?", options:["Evaporation","Condensation","Melting","Precipitation"], answer:1},
