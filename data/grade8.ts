@@ -1516,6 +1516,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"Language", title:"Media Literacy: Deconstructing Clickbait and Digital Media", summary:"Grade 8 Media Literacy strand: clickbait uses sensational or misleading headlines to attract clicks, often exaggerating or distorting the actual content, and recognizing these techniques helps readers evaluate digital media critically.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=-Pqg1kzOUuI",
    quiz:[
      {q:"Clickbait is designed to ___.", options:["Provide only accurate, neutral information","Always match the actual content exactly","Avoid persuading readers to click at all","Attract clicks using sensational or misleading headlines"], answer:3},
      {q:"Why might a clickbait headline exaggerate the actual content of an article?", options:["Clickbait headlines are always completely accurate","To create curiosity or excitement that encourages clicks","Exaggeration never increases reader interest","This technique has no persuasive purpose"], answer:1},
@@ -1525,6 +1526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Permutations and Combinations", summary:"Grade 8 Data Management strand (pre-high-school extension): a permutation counts arrangements where order matters, while a combination counts selections where order does not matter.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=hJRXKq2GEo8",
    quiz:[
      {q:"A permutation counts arrangements where ___.", options:["Order matters","No arrangement is being counted","Only one arrangement is possible","Order never matters"], answer:0},
      {q:"A combination counts selections where ___.", options:["Only a single item can be selected","Order does not matter","No selection is being made","Order always matters"], answer:1},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space Science: Exoplanets and the Search for Life", summary:"Grade 8 Science Earth and Space Systems strand: exoplanets are planets that orbit stars outside our solar system, and scientists study them to learn more about planetary systems and the possibility of life beyond Earth.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=EUU0-ZpFoK4",
    quiz:[
      {q:"An exoplanet is a planet that orbits ___.", options:["Only our own Sun","A planet within our own solar system","A star outside our solar system","No star at all"], answer:2},
      {q:"Scientists study exoplanets partly to explore the possibility of ___.", options:["Nothing related to life in the universe","Life beyond Earth","A topic unrelated to space science","Only the physical characteristics of our own Sun"], answer:1},
@@ -1543,6 +1546,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The October Crisis and Canadian Federalism", summary:"Grade 8 History strand: the October Crisis of 1970 involved a series of kidnappings by the Front de libération du Québec (FLQ) and the federal government’s invocation of the War Measures Act, raising significant questions about civil liberties and federalism.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=72waIfR-TnQ",
    quiz:[
      {q:"The October Crisis took place in which year?", options:["1919","2000","1945","1970"], answer:3},
      {q:"The October Crisis involved actions by a group known as ___.", options:["A group with no connection to Canadian history","The Front de libération du Québec (FLQ)","A group active only outside of Canada","An international organization unrelated to Quebec"], answer:1},
