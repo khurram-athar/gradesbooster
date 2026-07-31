@@ -1,0 +1,1 @@
+2026-07-31 searches_used=12/90 successes=8 retopics=1 remaining=4882 stop_reason="session turn/tool-call budget constraints for this interactive run (condition d) - not a quota error and not end of list; will resume next run"
