@@ -1,1 +1,2 @@
 2026-07-31 searches_used=12/90 successes=8 retopics=1 remaining=4882 stop_reason="session turn/tool-call budget constraints for this interactive run (condition d) - not a quota error and not end of list; will resume next run"
+2026-07-31 searches_used=10/90 successes=10 retopics=0 remaining=4872 stop_reason="session turn/tool-call budget constraints for this run (condition d) - each YouTube search+verify round trip consumed very large context; not a quota error and not end of list; will resume next run"
