@@ -1516,6 +1516,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"Language", title:"Writing: Poetry", summary:"Ontario Grade 4 Writing strand: poetry uses rhythm, imagery, and sometimes rhyme to express ideas and feelings in a creative, condensed form, often organized into lines and stanzas.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=wBDccFaKs2M",
    quiz:[
      {q:"A stanza in a poem is similar to a ___ in prose writing.", options:["Footnote","Chapter","Book title","Paragraph"], answer:3},
      {q:"Poetry often uses ___ to create vivid mental pictures for the reader.", options:["Imagery","Only numbers","Random letters","Blank pages"], answer:0},
@@ -1525,6 +1526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Factors and Multiples", summary:"Ontario Grade 4 Number strand: a factor is a number that divides evenly into another number, while a multiple is the result of multiplying a number by a whole number.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=4Z9q67HLf8s",
    quiz:[
      {q:"Which is a factor of 12?", options:["4","9","5","7"], answer:0},
      {q:"Which is a multiple of 6?", options:["18","25","20","15"], answer:0},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound: How Sound Travels Through Materials", summary:"Ontario Grade 4 Science Matter and Energy strand: sound is a vibration that travels through different materials -- solids, liquids, and gases -- typically fastest through solids and slowest through gases like air.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=OnIvySy1YtU",
    quiz:[
      {q:"Sound travels as a type of ___.", options:["Solid object","Light wave","Chemical reaction","Vibration"], answer:3},
      {q:"Sound generally travels fastest through ___.", options:["Water","A vacuum with nothing in it","Air","Solids"], answer:3},
@@ -1543,6 +1546,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Relationships with Other Countries", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada maintains relationships with other countries through trade, diplomacy, and international cooperation, which affect its economy and global connections.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=IoN71vnK-ZM",
    quiz:[
      {q:"Trade with other countries allows Canada to ___.", options:["Stop producing its own goods entirely","Avoid all international contact","Only sell goods, never buy any","Exchange goods and services with the rest of the world"], answer:3},
      {q:"Diplomacy between countries generally involves ___.", options:["Avoiding all communication","Ignoring international issues","Only military action","Communication and cooperation between governments"], answer:3},

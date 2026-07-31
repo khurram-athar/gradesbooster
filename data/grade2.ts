@@ -1656,6 +1656,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"Language", title:"Suffixes: -ful and -less", summary:"Students learn that the suffixes -ful and -less can be added to the end of a word, with -ful often meaning full of, and -less often meaning without.",
    resourceLabel:"YouTube: Suffixes: -ful and -less", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20-ful%20and%20-less%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GBkkoSz0EHU",
    quiz:[
      {q:"What does the suffix -ful usually mean?", options:["Before","Full of","Again","Without"], answer:1},
      {q:"What does the suffix -less usually mean?", options:["Without","Full of","Never before","Always"], answer:0},
@@ -1700,6 +1701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Body Belongs to Me: Personal Safety", summary:"Students learn that their body belongs to them, that they can say no to touches that make them uncomfortable, and that they should tell a trusted adult if something makes them feel unsafe.",
    resourceLabel:"YouTube: My Body Belongs to Me: Personal Safety", resourceUrl:"https://www.youtube.com/results?search_query=My%20Body%20Belongs%20to%20Me%3A%20Personal%20Safety%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=puHY4GAHZCg",
    quiz:[
      {q:"Whose body belongs to a child?", options:["Only their parents decide everything about it","Their own body belongs to them","No one, it belongs to strangers","Only their teacher"], answer:1},
      {q:"What can a child do if a touch makes them feel uncomfortable or unsafe?", options:["Ignore the feeling completely","Do whatever they are told","Say no and tell a trusted adult","Stay quiet and never tell anyone"], answer:2},

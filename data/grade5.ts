@@ -1516,6 +1516,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"Language", title:"Writing: Research Report Writing", summary:"Ontario Grade 5 Writing strand: a research report organizes information gathered from multiple credible sources into a clear structure, typically with an introduction, body paragraphs by subtopic, and a conclusion.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=sFw_ghVOo2I",
    quiz:[
      {q:"A research report typically begins with ___.", options:["An introduction that presents the topic","A random unrelated fact","The conclusion","Only a list of sources"], answer:0},
      {q:"Body paragraphs in a research report are usually organized by ___.", options:["The length of each sentence","Random order with no structure","Alphabetical order of unrelated words","Subtopic"], answer:3},
@@ -1525,6 +1526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Simple Equations", summary:"Ontario Grade 5 Algebra strand: a simple equation with a missing value can be solved by using the inverse (opposite) operation to isolate the unknown, such as solving x + 5 = 12 by subtracting 5 from both sides.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=oRv1OqKOnhI",
    quiz:[
      {q:"Solve for x: x + 5 = 12.", options:["x = 17","x = 7","x = 5","x = 12"], answer:1},
      {q:"Solve for y: y minus 4 = 10.", options:["y = 6","y = 14","y = 4","y = 10"], answer:1},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: The Solar System and Beyond", summary:"Ontario Grade 5 Science Earth and Space Systems strand: the solar system consists of the Sun and everything that orbits it, including eight planets, moons, and other bodies like asteroids and comets, within the much larger Milky Way galaxy.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=w36yxLgwUOc",
    quiz:[
      {q:"The Sun is best described as a ___.", options:["Moon","Star","Comet","Planet"], answer:1},
      {q:"How many planets are in our solar system?", options:["Eight","Seven","Ten","Nine"], answer:0},
@@ -1543,6 +1546,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Role in the World Wars", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: Canada played a significant role in both World War I and World War II, with Canadian soldiers contributing to major battles and the country’s involvement shaping its national identity.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=IicFIxmRroQ",
    quiz:[
      {q:"Canada was involved in which two major global conflicts of the 20th century?", options:["World War I and World War II","Only local skirmishes with no global conflicts","The War of 1812 twice","Conflicts that never happened"], answer:0},
      {q:"Canadian soldiers are remembered for their contributions to major battles during ___.", options:["The dinosaur era","A period with no recorded history","The World Wars","Ancient Roman times"], answer:2},
