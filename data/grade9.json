@@ -8867,20 +8867,21 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Media Literacy: Analyzing Social Media Algorithms and Filter Bubbles",
-        "summary": "Grade 9 Media Literacy strand: social media algorithms curate content based on user behaviour, which can create filter bubbles that limit exposure to diverse perspectives and reinforce existing beliefs.",
+        "title": "Media Literacy: Echo Chambers and Filter Bubbles Online",
+        "summary": "Grade 9 Media Literacy strand: an echo chamber forms when social media algorithms repeatedly surface content that matches a user's existing views, creating a filter bubble that limits exposure to diverse perspectives and reinforces existing beliefs.",
         "resourceLabel": "TVO Learn: Grade 9 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-language",
+        "videoUrl": "https://www.youtube.com/watch?v=Se20RoB331w",
         "quiz": [
           {
-            "q": "A social media algorithm curates content based on ___.",
+            "q": "What is an echo chamber?",
             "options": [
-              "Only the exact time of day, with no other considerations",
-              "A factor entirely unrelated to the user",
-              "User behaviour and preferences",
-              "Completely random selection with no pattern"
+              "A completely random mix of unrelated content",
+              "An environment where a person mainly encounters opinions and information that reinforce their own existing views",
+              "A technical term unrelated to social media",
+              "A feature that exposes users only to opposing viewpoints"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
             "q": "A filter bubble refers to ___.",
@@ -8893,17 +8894,17 @@
             "answer": 3
           },
           {
-            "q": "Why might filter bubbles reinforce existing beliefs?",
+            "q": "Why might echo chambers and filter bubbles reinforce existing beliefs?",
             "options": [
               "Algorithms are designed to show only random, unrelated content",
               "This concept has no connection to belief reinforcement",
               "Users are more likely to see content that aligns with what they already engage with",
-              "Filter bubbles always expose users to opposing viewpoints"
+              "They always expose users to opposing viewpoints"
             ],
             "answer": 2
           },
           {
-            "q": "Why is understanding algorithms and filter bubbles considered an important media literacy skill?",
+            "q": "Why is understanding echo chambers and filter bubbles considered an important media literacy skill?",
             "options": [
               "Algorithms have no influence on social media experiences",
               "It helps users recognize how their online experience may be shaped and limited",
@@ -8913,7 +8914,7 @@
             "answer": 1
           },
           {
-            "q": "Which strategy could help someone reduce the effects of a filter bubble?",
+            "q": "Which strategy could help someone break out of an echo chamber?",
             "options": [
               "Intentionally seeking out diverse sources and perspectives",
               "Avoiding all forms of media entirely",
@@ -8930,6 +8931,7 @@
         "summary": "Grade 9 Data Management strand: standard deviation measures the spread of data, and a normal distribution is a common, symmetric pattern where most data values cluster around the mean.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=MRqtXL2WX2M",
         "quiz": [
           {
             "q": "Standard deviation measures ___.",
@@ -8989,6 +8991,7 @@
         "summary": "Grade 9 Science Physics strand: waves transfer energy through a medium or space, with properties such as wavelength, frequency, and amplitude describing their characteristics and behaviour.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=BL2MtP7j-xk",
         "quiz": [
           {
             "q": "Waves are best described as a way of transferring ___.",
@@ -9048,6 +9051,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: comparing developed and developing regions involves examining differences in economic development, infrastructure, and access to resources across the world.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=gzYzmbQYTI4",
         "quiz": [
           {
             "q": "Comparing developed and developing regions often involves examining differences in ___.",

@@ -1514,17 +1514,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:37, label:"Day 37 — Tue", subjects:[
-  {subject:"Language", title:"Media Literacy: Analyzing Social Media Algorithms and Filter Bubbles", summary:"Grade 9 Media Literacy strand: social media algorithms curate content based on user behaviour, which can create filter bubbles that limit exposure to diverse perspectives and reinforce existing beliefs.",
+  {subject:"Language", title:"Media Literacy: Echo Chambers and Filter Bubbles Online", summary:"Grade 9 Media Literacy strand: an echo chamber forms when social media algorithms repeatedly surface content that matches a user's existing views, creating a filter bubble that limits exposure to diverse perspectives and reinforces existing beliefs.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=Se20RoB331w",
    quiz:[
-     {q:"A social media algorithm curates content based on ___.", options:["Only the exact time of day, with no other considerations","A factor entirely unrelated to the user","User behaviour and preferences","Completely random selection with no pattern"], answer:2},
+     {q:"What is an echo chamber?", options:["A completely random mix of unrelated content","An environment where a person mainly encounters opinions and information that reinforce their own existing views","A technical term unrelated to social media","A feature that exposes users only to opposing viewpoints"], answer:1},
      {q:"A filter bubble refers to ___.", options:["Content selected with no connection to user preferences","A concept unrelated to social media","Exposure to a wide range of completely random, unrelated content","A limited range of perspectives a user is exposed to based on algorithmic curation"], answer:3},
-     {q:"Why might filter bubbles reinforce existing beliefs?", options:["Algorithms are designed to show only random, unrelated content","This concept has no connection to belief reinforcement","Users are more likely to see content that aligns with what they already engage with","Filter bubbles always expose users to opposing viewpoints"], answer:2},
-     {q:"Why is understanding algorithms and filter bubbles considered an important media literacy skill?", options:["Algorithms have no influence on social media experiences","It helps users recognize how their online experience may be shaped and limited","This understanding has no practical value","Filter bubbles have no effect on the content users see"], answer:1},
-     {q:"Which strategy could help someone reduce the effects of a filter bubble?", options:["Intentionally seeking out diverse sources and perspectives","Avoiding all forms of media entirely","Only ever engaging with content that confirms existing beliefs","Ignoring the existence of algorithms altogether"], answer:0}
+     {q:"Why might echo chambers and filter bubbles reinforce existing beliefs?", options:["Algorithms are designed to show only random, unrelated content","This concept has no connection to belief reinforcement","Users are more likely to see content that aligns with what they already engage with","They always expose users to opposing viewpoints"], answer:2},
+     {q:"Why is understanding echo chambers and filter bubbles considered an important media literacy skill?", options:["Algorithms have no influence on social media experiences","It helps users recognize how their online experience may be shaped and limited","This understanding has no practical value","Filter bubbles have no effect on the content users see"], answer:1},
+     {q:"Which strategy could help someone break out of an echo chamber?", options:["Intentionally seeking out diverse sources and perspectives","Avoiding all forms of media entirely","Only ever engaging with content that confirms existing beliefs","Ignoring the existence of algorithms altogether"], answer:0}
    ]},
   {subject:"Math", title:"Introduction to Standard Deviation and Normal Distribution", summary:"Grade 9 Data Management strand: standard deviation measures the spread of data, and a normal distribution is a common, symmetric pattern where most data values cluster around the mean.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=MRqtXL2WX2M",
    quiz:[
      {q:"Standard deviation measures ___.", options:["The spread of data around the mean","The total number of values in a data set","The exact middle value of a data set","The most frequently occurring value"], answer:0},
      {q:"A normal distribution is characterized by ___.", options:["All values being exactly identical","A pattern with no discernible structure","Data that is always skewed heavily to one side","A symmetric pattern where most values cluster around the mean"], answer:3},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Waves: Properties and Behaviour", summary:"Grade 9 Science Physics strand: waves transfer energy through a medium or space, with properties such as wavelength, frequency, and amplitude describing their characteristics and behaviour.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=BL2MtP7j-xk",
    quiz:[
      {q:"Waves are best described as a way of transferring ___.", options:["Nothing at all","Matter permanently from one place to another","Only heat, with no other form of energy","Energy"], answer:3},
      {q:"Wavelength refers to ___.", options:["The distance between two corresponding points on a wave, like crest to crest","The speed of a wave only","The height of a wave only","A concept unrelated to waves"], answer:0},
@@ -1543,6 +1546,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparative Geography: Developed and Developing Regions", summary:"Grade 9 Social Studies (Geography) strand: comparing developed and developing regions involves examining differences in economic development, infrastructure, and access to resources across the world.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=gzYzmbQYTI4",
    quiz:[
      {q:"Comparing developed and developing regions often involves examining differences in ___.", options:["Nothing measurable at all","A factor unrelated to geography or economics","Economic development and infrastructure","Only the colour of national flags"], answer:2},
      {q:"Which is an example of an indicator that might be used to compare development between regions?", options:["The exact number of national holidays","Access to healthcare and education","Only a country’s physical size","A factor unrelated to development"], answer:1},
