@@ -1514,17 +1514,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:37, label:"Day 37 — Tue", subjects:[
-  {subject:"Language", title:"Media Literacy: Deconstructing Social Media Messages", summary:"Ontario Grade 6 Media Literacy strand: deconstructing a social media message means identifying its purpose, intended audience, and the techniques used to grab attention or persuade, such as headlines or images.",
+  {subject:"Language", title:"Media Literacy: Spotting Fake News and Misinformation Online", summary:"Ontario Grade 6 Media Literacy strand: spotting fake news and misinformation online means checking a source's credibility, looking for supporting evidence from other outlets, and noticing techniques designed to mislead or provoke a strong emotional reaction.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=VnFTsI-6--U",
    quiz:[
-     {q:"Deconstructing a media message involves ___.", options:["Accepting all information without question","Ignoring the message entirely","Avoiding all analysis of the message","Identifying its purpose, audience, and persuasive techniques"], answer:3},
-     {q:"Which is a technique social media posts might use to grab attention?", options:["A bold headline or striking image","Ignoring the audience entirely","Completely plain, unformatted text with no visuals","Avoiding any visual elements"], answer:0},
-     {q:"Why is it useful to identify the purpose behind a social media message?", options:["All social media messages have no clear purpose","Identifying purpose is not a useful skill","It helps viewers understand what the creator wants them to think, feel, or do","Purpose has no connection to how a message is created"], answer:2},
-     {q:"Considering the intended audience of a message can help you understand ___.", options:["Nothing useful about the message","Why certain content or language choices were used","Only the exact time it was posted","The message’s file size"], answer:1},
-     {q:"Which question is useful when critically evaluating a social media post?", options:["What font is being used?","Who created this, and why?","What time zone was it posted in?","How many emojis are included?"], answer:1}
+     {q:"What is misinformation?", options:["A type of correct scientific data","False or inaccurate information, whether or not the person sharing it means to mislead","News that has been fact-checked and confirmed true","Information that is always created on purpose to deceive"], answer:1},
+     {q:"Which is a good first step when you see a surprising claim online?", options:["Share it immediately with friends","Assume it's true because it has many likes","Check whether other trustworthy sources report the same story","Ignore where the information came from"], answer:2},
+     {q:"Which is a warning sign that a post might be fake news?", options:["It links to multiple well-known news organizations","It is designed to provoke a strong emotional reaction and has no named source","It uses calm, neutral language","It includes a clear byline and publication date"], answer:1},
+     {q:"Why do fact-checking organizations exist?", options:["To help verify claims and reduce the spread of false information","To create more misinformation","To replace all news reporting","To make stories more emotional"], answer:0},
+     {q:"Before trusting a claim you see on social media, you should ___.", options:["Believe it if it looks professional","Check the source, evidence, and whether other outlets confirm it","Share it right away so others can decide","Ignore the publisher's reputation"], answer:1}
    ]},
   {subject:"Math", title:"Coordinate Geometry: Plotting and Interpreting Points", summary:"Ontario Grade 6 Geometry strand: plotting and interpreting points on a coordinate grid involves using ordered pairs to locate positions and analyze relationships, such as distances between points on the same horizontal or vertical line.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=9EEJU4Ox-TE",
    quiz:[
      {q:"To plot the point (5, 2), you move ___.", options:["2 units up, 5 units left","2 units across, 5 units down","5 units across, 2 units up","5 units up, 2 units across"], answer:2},
      {q:"Two points with the same y-coordinate lie on the same ___ line.", options:["Vertical","Curved","Horizontal","Diagonal"], answer:2},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemical Reactions in Everyday Life", summary:"Ontario Grade 6 Science Matter and Energy strand: chemical reactions occur regularly in everyday life, such as cooking, digestion, and rusting, producing new substances with properties different from the original materials.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=L2Q2q20KaEk",
    quiz:[
      {q:"Which everyday activity involves a chemical reaction?", options:["Folding a piece of paper","Cutting a piece of string","Stacking blocks","Cooking an egg"], answer:3},
      {q:"Rusting is an example of a chemical reaction between metal and ___.", options:["Oxygen and moisture","Sunlight only","Sound waves","Cold temperatures alone"], answer:0},
@@ -1543,6 +1546,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Human Rights: The Universal Declaration", summary:"Ontario Grade 6 Social Studies People and Environments strand: the Universal Declaration of Human Rights, adopted by the United Nations in 1948, outlines fundamental rights and freedoms believed to belong to all people.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5RR4VXNX3jA",
    quiz:[
      {q:"The Universal Declaration of Human Rights was adopted in which year?", options:["1948","1982","1918","2000"], answer:0},
      {q:"The Universal Declaration of Human Rights was adopted by ___.", options:["The United Nations","No formal organization","A private company","A single country acting alone"], answer:0},

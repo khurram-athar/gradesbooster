@@ -1516,6 +1516,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"Language", title:"Media Literacy: Analyzing Propaganda Techniques", summary:"Ontario Grade 7 Media Literacy strand: propaganda uses techniques such as name-calling, bandwagon appeal, and emotional language to influence public opinion, often simplifying complex issues.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=GtpHX3nr7uE",
    quiz:[
      {q:"Propaganda is designed to ___.", options:["Influence public opinion, often through persuasive or misleading techniques","Avoid persuading anyone of anything","Provide a fully balanced view of every issue","Present only neutral, unbiased information"], answer:0},
      {q:"Bandwagon appeal is a propaganda technique that suggests ___.", options:["You should do something because many other people are doing it","No one else agrees with the message","Facts are irrelevant to any argument","The audience should ignore popular opinion entirely"], answer:0},
@@ -1525,6 +1526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Compound Interest", summary:"Ontario Grade 7 Financial Literacy strand: compound interest is calculated on both the original principal and any interest already earned, causing savings or debt to grow faster than with simple interest over time.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=lxZszd8rDZY",
    quiz:[
      {q:"Compound interest is calculated based on ___.", options:["The original amount plus any interest already earned","A completely unrelated amount","Only amounts borrowed, never saved","Only the original amount, with no interest added"], answer:0},
      {q:"Why does compound interest typically result in more growth over time than simple interest?", options:["Interest rates are automatically lower with compound interest","Interest is earned on previously earned interest as well as the original amount","Compound interest works exactly the same way as simple interest","Compound interest always results in less money over time"], answer:1},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Nitrogen Cycle", summary:"Ontario Grade 7 Science Life Systems strand: the nitrogen cycle describes how nitrogen moves between the atmosphere, soil, and living things, with bacteria playing a key role in converting nitrogen into forms plants can use.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=rDFVzVOkcPs",
    quiz:[
      {q:"The nitrogen cycle describes how nitrogen moves between ___.", options:["Only outer space","Only inside human bodies","Nowhere, since nitrogen never moves","The atmosphere, soil, and living things"], answer:3},
      {q:"Which organisms play a key role in converting nitrogen into forms plants can use?", options:["Certain bacteria","Only fish","No organisms are involved in this process","Only large mammals"], answer:0},
@@ -1543,6 +1546,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Self-Government and Modern Treaties", summary:"Ontario Grade 7 Social Studies People and Environments strand: many Indigenous communities in Canada today exercise self-government through modern treaties and agreements that recognize their authority over their own affairs.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=xtwJfk94CP8",
    quiz:[
      {q:"Self-government for Indigenous communities generally refers to ___.", options:["Having no say in their own affairs","Being governed entirely by another country","Having no recognized rights at all","Having authority to govern their own community affairs"], answer:3},
      {q:"A modern treaty between a government and an Indigenous community often addresses ___.", options:["Nothing of significance","Only unrelated sports agreements","Rights, land, and governance arrangements","Only trade with foreign countries"], answer:2},
