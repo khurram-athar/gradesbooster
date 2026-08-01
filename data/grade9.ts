@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Advanced Modifiers and Sentence Clarity", summary:"Grade 9 Writing strand: advanced modifier issues, including dangling and misplaced modifiers in complex sentences, can create ambiguity, and identifying and correcting them improves overall sentence clarity.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=tllJv4GJKBo",
    quiz:[
      {q:"A dangling modifier lacks ___.", options:["A verb in every case","A subject in every case","Any connection to grammar rules","A clear word in the sentence to describe"], answer:3},
      {q:"A misplaced modifier is positioned ___.", options:["Too far from the word it describes","Nowhere near any part of the sentence","At the very beginning of every sentence","Correctly next to the word it modifies"], answer:0},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Exponential Growth", summary:"Grade 9 Algebra strand (non-linear relations): exponential growth occurs when a quantity increases by a consistent percentage or factor over equal time periods, producing a curve that rises increasingly steeply.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=yjMv-OL7x2s",
    quiz:[
      {q:"Exponential growth occurs when a quantity increases by ___.", options:["A fixed amount added each time period","A consistent percentage or factor over equal time periods","Nothing at all, since the quantity never changes","A completely random amount each time period"], answer:1},
      {q:"The graph of exponential growth typically ___.", options:["Rises increasingly steeply over time","Forms a perfectly straight line","Decreases steadily over time","Remains completely flat"], answer:0},
@@ -1576,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nuclear Reactions: Fission and Fusion", summary:"Grade 9 Science Physics strand: nuclear fission splits a large atomic nucleus into smaller parts, while nuclear fusion combines small nuclei into a larger one, both releasing significant amounts of energy.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=fES21E0qebw",
    quiz:[
      {q:"Nuclear fission involves ___.", options:["No release of energy whatsoever","A process unrelated to atomic nuclei","Splitting a large atomic nucleus into smaller parts","Combining small nuclei into a larger one"], answer:2},
      {q:"Nuclear fusion involves ___.", options:["Combining small nuclei into a larger one","A process unrelated to nuclear reactions","Splitting a large nucleus into smaller parts","No release of energy whatsoever"], answer:0},
@@ -1585,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geographic Information Systems in Disaster Response", summary:"Grade 9 Social Studies (Geography) strand: Geographic Information Systems (GIS) are used during disaster response to map affected areas, track resources, and coordinate relief efforts efficiently.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Xy0biH-XZbM",
    quiz:[
      {q:"GIS technology is used during disaster response to ___.", options:["Map affected areas and coordinate relief efforts","Prevent all forms of geographic mapping","Replace the need for any relief efforts","Have no connection to disaster response"], answer:0},
      {q:"Why might mapping affected areas be important during a natural disaster?", options:["It helps responders understand the scope of damage and where resources are most needed","This information has no connection to relief efforts","GIS technology cannot be applied to disaster situations","Mapping has no benefit during a disaster response"], answer:0},

@@ -9111,6 +9111,7 @@
         "summary": "Grade 10 English strand: effective debate involves presenting a clear argument and using rebuttal techniques to directly and logically respond to an opposing side’s points.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=FySj7MPlelY",
         "quiz": [
           {
             "q": "A rebuttal in a debate is used to ___.",
@@ -9170,6 +9171,7 @@
         "summary": "Grade 10 Functions strand: transformations of exponential functions, such as vertical shifts, stretches, and reflections, change the shape or position of the function’s graph in predictable ways.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=hCWymDG7724",
         "quiz": [
           {
             "q": "A vertical shift of an exponential function’s graph moves it ___.",
@@ -9229,6 +9231,7 @@
         "summary": "Grade 10 Chemistry strand: electrochemistry studies the relationship between chemical reactions and electricity, including how batteries generate electric current through controlled chemical reactions.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=2VT5rl8P84M",
         "quiz": [
           {
             "q": "Electrochemistry studies the relationship between ___.",
@@ -9284,60 +9287,61 @@
       },
       {
         "subject": "History",
-        "title": "The Just Society: Trudeau-Era Reforms",
-        "summary": "Grade 10 History strand: Pierre Trudeau’s vision of a Just Society in the late 1960s and 1970s aimed to expand individual rights and reduce inequality, shaping significant social and legal reforms in Canada.",
+        "title": "The Official Languages Act: Bilingualism as Trudeau-Era Reform",
+        "summary": "Grade 10 History strand: as part of Pierre Trudeau's Just Society reforms, the 1969 Official Languages Act made French and English equal languages within the federal government, a landmark response to the Royal Commission on Bilingualism and Biculturalism.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=lIVMh97mHxw",
         "quiz": [
           {
-            "q": "The Just Society was a vision associated with which Canadian prime minister?",
+            "q": "What did the Official Languages Act of 1969 establish?",
             "options": [
-              "A vision with no specific political leader associated with it",
-              "A leader unrelated to Canadian history",
-              "A prime minister from an entirely different era",
-              "Pierre Trudeau"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "The Just Society aimed to ___.",
-            "options": [
-              "Reduce individual rights significantly",
-              "A goal unrelated to rights or equality",
-              "Expand individual rights and reduce inequality",
-              "Have no effect on Canadian society or law"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Reforms associated with the Just Society era took place mainly during which decades?",
-            "options": [
-              "The 2000s",
-              "The late 1960s and 1970s",
-              "The 1800s",
-              "The 1930s"
+              "That English would be Canada's only federal language",
+              "That French and English would have equal status in the federal government",
+              "That provinces could no longer choose their own official language",
+              "That bilingualism would only apply to Quebec"
             ],
             "answer": 1
           },
           {
-            "q": "Why is the Just Society considered a significant era in Canadian social history?",
+            "q": "What commission's recommendations led to the Official Languages Act?",
             "options": [
-              "It contributed to major legal and social changes affecting individual rights",
-              "This vision was never actually implemented in any way",
-              "The Just Society had no connection to Canadian law or rights",
-              "This era had no lasting impact on Canadian society"
+              "The Royal Commission on Bilingualism and Biculturalism",
+              "The Truth and Reconciliation Commission",
+              "The Royal Commission on Immigration",
+              "The Charter Advisory Commission"
             ],
             "answer": 0
           },
           {
-            "q": "Why might historians study this period alongside the later development of the Charter of Rights and Freedoms?",
+            "q": "Which Canadian prime minister's government passed the Official Languages Act?",
             "options": [
-              "These two topics have no historical connection",
-              "This era’s focus on individual rights helped shape later developments in Canadian rights protections",
-              "The Just Society era occurred after the Charter was created",
-              "This period has no relevance to understanding Canadian rights history"
+              "John A. Macdonald",
+              "Pierre Trudeau",
+              "Stephen Harper",
+              "Wilfrid Laurier"
             ],
             "answer": 1
+          },
+          {
+            "q": "Why was the Official Languages Act considered part of Trudeau's broader Just Society reforms?",
+            "options": [
+              "It had no connection to Trudeau's other policy goals",
+              "It aimed to expand equality and individual rights, a core Just Society goal",
+              "It reduced rights for French-speaking Canadians",
+              "It was unrelated to any vision of a fairer Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might historians connect the Official Languages Act to later developments like the Charter of Rights and Freedoms?",
+            "options": [
+              "Both reflect an era focused on expanding rights and equality in Canada",
+              "The two events happened in completely unrelated decades",
+              "The Official Languages Act reduced protections that the Charter later restored",
+              "There is no meaningful connection between the two"
+            ],
+            "answer": 0
           }
         ]
       }

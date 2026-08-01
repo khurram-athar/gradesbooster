@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"English", title:"Oral Communication: Debate and Rebuttal Techniques", summary:"Grade 10 English strand: effective debate involves presenting a clear argument and using rebuttal techniques to directly and logically respond to an opposing side’s points.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=FySj7MPlelY",
    quiz:[
      {q:"A rebuttal in a debate is used to ___.", options:["Repeat one’s own argument with no new response","Ignore the opposing side’s points entirely","Avoid engaging with any counterarguments","Directly and logically respond to an opposing argument"], answer:3},
      {q:"Why is it important for a debater to listen carefully to the opposing side’s argument?", options:["Debaters should never consider what the other side says","A rebuttal can be effective with no understanding of the opposing argument","Listening has no effect on the quality of a rebuttal","It allows them to formulate an effective, relevant rebuttal"], answer:3},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Transformations of Exponential Functions", summary:"Grade 10 Functions strand: transformations of exponential functions, such as vertical shifts, stretches, and reflections, change the shape or position of the function’s graph in predictable ways.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=hCWymDG7724",
    quiz:[
      {q:"A vertical shift of an exponential function’s graph moves it ___.", options:["In no particular direction","Up or down","Only diagonally, with no vertical movement","Only left or right"], answer:1},
      {q:"A vertical stretch of an exponential function’s graph affects its ___.", options:["Only its horizontal position","A property unrelated to the graph’s shape","Colour","Steepness or rate of change"], answer:3},
@@ -1576,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Electrochemistry", summary:"Grade 10 Chemistry strand: electrochemistry studies the relationship between chemical reactions and electricity, including how batteries generate electric current through controlled chemical reactions.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=2VT5rl8P84M",
    quiz:[
      {q:"Electrochemistry studies the relationship between ___.", options:["Only light, with no connection to chemistry","Only sound and chemistry, with no connection to electricity","Chemical reactions and electricity","A field unrelated to chemical reactions"], answer:2},
      {q:"A battery generates electric current through ___.", options:["Only mechanical movement, with no chemical involvement","A method that requires no chemical reaction at all","A process entirely unrelated to chemistry","Controlled chemical reactions"], answer:3},
@@ -1583,14 +1586,15 @@ const curriculum: DayContent[] = [
      {q:"Why is electrochemistry considered a practical application of chemistry?", options:["This field of chemistry has no connection to everyday technology","Batteries have no connection to chemical reactions","Electrochemistry has no real-world applications","It underlies technologies like batteries that are essential to modern life"], answer:3},
      {q:"Why might scientists research new electrochemical technologies, such as improved batteries?", options:["Electrochemical research provides no benefit to energy technology","This research has no connection to energy storage","Improved batteries have no real-world significance","To develop more efficient and sustainable ways to store and use energy"], answer:3}
    ]},
-  {subject:"History", title:"The Just Society: Trudeau-Era Reforms", summary:"Grade 10 History strand: Pierre Trudeau’s vision of a Just Society in the late 1960s and 1970s aimed to expand individual rights and reduce inequality, shaping significant social and legal reforms in Canada.",
+  {subject:"History", title:"The Official Languages Act: Bilingualism as Trudeau-Era Reform", summary:"Grade 10 History strand: as part of Pierre Trudeau's Just Society reforms, the 1969 Official Languages Act made French and English equal languages within the federal government, a landmark response to the Royal Commission on Bilingualism and Biculturalism.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=lIVMh97mHxw",
    quiz:[
-     {q:"The Just Society was a vision associated with which Canadian prime minister?", options:["A vision with no specific political leader associated with it","A leader unrelated to Canadian history","A prime minister from an entirely different era","Pierre Trudeau"], answer:3},
-     {q:"The Just Society aimed to ___.", options:["Reduce individual rights significantly","A goal unrelated to rights or equality","Expand individual rights and reduce inequality","Have no effect on Canadian society or law"], answer:2},
-     {q:"Reforms associated with the Just Society era took place mainly during which decades?", options:["The 2000s","The late 1960s and 1970s","The 1800s","The 1930s"], answer:1},
-     {q:"Why is the Just Society considered a significant era in Canadian social history?", options:["It contributed to major legal and social changes affecting individual rights","This vision was never actually implemented in any way","The Just Society had no connection to Canadian law or rights","This era had no lasting impact on Canadian society"], answer:0},
-     {q:"Why might historians study this period alongside the later development of the Charter of Rights and Freedoms?", options:["These two topics have no historical connection","This era’s focus on individual rights helped shape later developments in Canadian rights protections","The Just Society era occurred after the Charter was created","This period has no relevance to understanding Canadian rights history"], answer:1}
+     {q:"What did the Official Languages Act of 1969 establish?", options:["That English would be Canada's only federal language","That French and English would have equal status in the federal government","That provinces could no longer choose their own official language","That bilingualism would only apply to Quebec"], answer:1},
+     {q:"What commission's recommendations led to the Official Languages Act?", options:["The Royal Commission on Bilingualism and Biculturalism","The Truth and Reconciliation Commission","The Royal Commission on Immigration","The Charter Advisory Commission"], answer:0},
+     {q:"Which Canadian prime minister's government passed the Official Languages Act?", options:["John A. Macdonald","Pierre Trudeau","Stephen Harper","Wilfrid Laurier"], answer:1},
+     {q:"Why was the Official Languages Act considered part of Trudeau's broader Just Society reforms?", options:["It had no connection to Trudeau's other policy goals","It aimed to expand equality and individual rights, a core Just Society goal","It reduced rights for French-speaking Canadians","It was unrelated to any vision of a fairer Canada"], answer:1},
+     {q:"Why might historians connect the Official Languages Act to later developments like the Charter of Rights and Freedoms?", options:["Both reflect an era focused on expanding rights and equality in Canada","The two events happened in completely unrelated decades","The Official Languages Act reduced protections that the Charter later restored","There is no meaningful connection between the two"], answer:0}
    ]},
 ]},
 {day:39, label:"Day 39 — Thu", subjects:[
