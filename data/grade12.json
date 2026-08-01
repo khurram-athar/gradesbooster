@@ -8865,6 +8865,7 @@
         "summary": "Grade 12 English strand: narrative perspective shapes how a story is told and understood, and an unreliable narrator’s compromised credibility requires readers to critically evaluate the accuracy of the account presented.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=PIlijplYCOI",
         "quiz": [
           {
             "q": "Narrative perspective shapes how a story is ___.",
@@ -8924,6 +8925,7 @@
         "summary": "Grade 12 Advanced Functions strand: mathematical induction is a formal proof technique used to establish that a statement holds true for all natural numbers, by proving a base case and an inductive step.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=GdM_iA1Zek4",
         "quiz": [
           {
             "q": "Mathematical induction is a formal technique used to prove a statement holds true for all ___.",
@@ -8983,6 +8985,7 @@
         "summary": "Grade 12 Calculus strand: a Taylor series approximates a function as an infinite sum of terms based on its derivatives at a single point, with a Maclaurin series being the special case centred at zero.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=a58otkmkHtk",
         "quiz": [
           {
             "q": "A Taylor series approximates a function using an infinite sum of terms based on its ___.",
@@ -9038,15 +9041,16 @@
       },
       {
         "subject": "Physics",
-        "title": "Physics: Diffraction and Polarization of Light",
-        "summary": "Grade 12 Physics strand: diffraction describes the bending of light waves around obstacles or through openings, while polarization describes the restriction of light’s oscillation to a specific direction.",
+        "title": "Diffraction of Light: How Waves Bend Around Obstacles",
+        "summary": "Grade 12 Physics strand: diffraction describes the bending and spreading of light waves as they pass around obstacles or through narrow openings, and this wave behaviour is closely related to interference and reflection effects observed in optical systems.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=eW5VGGJuWtQ",
         "quiz": [
           {
-            "q": "Diffraction describes the bending of light waves around ___.",
+            "q": "Diffraction describes the bending and spreading of light waves around ___.",
             "options": [
-              "Obstacles or through openings",
+              "Obstacles or through narrow openings",
               "A concept unrelated to the behaviour of light",
               "A completely opaque, solid surface with no gaps",
               "Only a perfectly straight, unobstructed path"
@@ -9054,40 +9058,40 @@
             "answer": 0
           },
           {
-            "q": "Polarization describes the restriction of light’s oscillation to ___.",
-            "options": [
-              "Every possible direction simultaneously, with no restriction",
-              "No oscillation whatsoever",
-              "A concept unrelated to how light waves oscillate",
-              "A specific direction"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which is an example of a practical application of polarization?",
-            "options": [
-              "A technology that has no connection to how light oscillates",
-              "Polarized sunglasses reducing glare",
-              "An application entirely unrelated to light behaviour",
-              "A device that has no effect on visible light"
-            ],
-            "answer": 1
-          },
-          {
             "q": "Why does diffraction become more noticeable when light passes through a narrower opening?",
             "options": [
               "This concept has no connection to how light waves interact with obstacles",
+              "The width of an opening has no effect on the amount of diffraction that occurs",
               "A narrower opening causes a greater relative bending of the light wave around its edges",
-              "Diffraction never becomes more or less noticeable regardless of opening size",
-              "The width of an opening has no effect on the amount of diffraction that occurs"
+              "Diffraction never becomes more or less noticeable regardless of opening size"
             ],
-            "answer": 1
+            "answer": 2
           },
           {
-            "q": "Why is understanding diffraction and polarization important in fields like optics and photography?",
+            "q": "Diffraction is closely related to which other wave phenomenon, where overlapping waves combine to strengthen or cancel each other?",
             "options": [
-              "Diffraction and polarization have no relevance to optics or photography",
-              "These wave properties of light directly affect how lenses and optical instruments perform",
+              "Interference",
+              "A phenomenon unrelated to how waves combine",
+              "Only reflection, with no connection to overlapping waves",
+              "Total internal reflection exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a real-world situation where diffraction of light is observable?",
+            "options": [
+              "Light bending slightly as it passes through a narrow slit or around a thin edge",
+              "A situation with no connection to wave behaviour",
+              "Light travelling through a vacuum with no obstacles at all",
+              "A process entirely unrelated to how light waves propagate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding diffraction important in fields like optics and photography?",
+            "options": [
+              "Diffraction has no relevance to optics or photography",
+              "This wave property of light directly affects how lenses and optical instruments perform, especially at narrow apertures",
               "Optical instruments never need to account for the wave properties of light",
               "This concept has no practical, real-world application"
             ],

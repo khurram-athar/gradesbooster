@@ -8865,6 +8865,7 @@
         "summary": "Grade 11 English strand: a personal essay explores the writer’s own experiences and reflections with an honest, distinctive voice, often embracing vulnerability to create a genuine connection with readers.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ezr4dPT5zmI",
         "quiz": [
           {
             "q": "A personal essay explores ___.",
@@ -8924,6 +8925,7 @@
         "summary": "Grade 11 Functions strand (Data Management): standard deviation quantifies how spread out a set of data values is, helping interpret whether data is tightly clustered or widely dispersed around the mean.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=T2gCe1O7xi8",
         "quiz": [
           {
             "q": "Standard deviation quantifies ___.",
@@ -8983,6 +8985,7 @@
         "summary": "Grade 11 Biology strand: genetic testing analyzes an individual’s DNA to identify potential genetic conditions or traits, raising important ethical questions about privacy, consent, and the use of this information.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=rG1crCLAzM8",
         "quiz": [
           {
             "q": "Genetic testing analyzes an individual’s DNA to identify ___.",
@@ -9042,6 +9045,7 @@
         "summary": "Grade 11 Chemistry strand: a redox (oxidation-reduction) reaction involves the transfer of electrons between substances, with oxidation involving electron loss and reduction involving electron gain.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=N6ivvu6xlog",
         "quiz": [
           {
             "q": "In a redox reaction, oxidation involves ___.",

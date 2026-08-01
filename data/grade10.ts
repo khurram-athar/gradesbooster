@@ -1516,6 +1516,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"English", title:"Media Literacy: Deepfakes and Digital Manipulation", summary:"Grade 10 Media Literacy strand: deepfakes use artificial intelligence to create realistic but fabricated images, video, or audio, raising significant concerns about trust, misinformation, and digital literacy.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=W631WArdFOs",
    quiz:[
      {q:"A deepfake is best described as ___.", options:["A concept unrelated to digital media","A traditional photograph with no digital manipulation","A completely genuine, unaltered recording","A realistic but fabricated image, video, or audio created using artificial intelligence"], answer:3},
      {q:"Deepfakes raise significant concerns about ___.", options:["A topic entirely unrelated to media literacy","Only entertainment value, with no other implications","No concerns of any kind","Trust and the spread of misinformation"], answer:3},
@@ -1525,6 +1526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Complex Numbers", summary:"Grade 10 Number strand (extension): a complex number combines a real number and an imaginary number, where the imaginary unit i represents the square root of negative one, extending the number system beyond real numbers.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=SP-YJe7Vldo",
    quiz:[
      {q:"A complex number combines ___.", options:["Only negative numbers, with no real component","A real number and an imaginary number","Only whole numbers with no fractions","A concept unrelated to numbers"], answer:1},
      {q:"The imaginary unit i is defined as ___.", options:["A concept unrelated to square roots","A value equal to zero","The square root of one","The square root of negative one"], answer:3},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth Science: Climate Systems and Modelling", summary:"Grade 10 Earth Science strand: climate models use scientific data and mathematical relationships to simulate and predict how Earth’s climate system may change over time, informing policy and preparedness efforts.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=fCALoYT5Z7I",
    quiz:[
      {q:"Climate models use scientific data to ___.", options:["Replace the need for any climate data","Simulate and predict changes in Earth’s climate system","Predict only past climate events, with no future projections","Have no connection to climate prediction"], answer:1},
      {q:"Why might climate models be useful for informing policy decisions?", options:["They can help predict potential future impacts, guiding preparation and response","This scientific tool has no connection to decision-making","Policy decisions never rely on scientific modelling","Climate models provide no useful information for policy"], answer:0},
@@ -1541,14 +1544,15 @@ const curriculum: DayContent[] = [
      {q:"Why is climate modelling considered a complex scientific challenge?", options:["It involves numerous interacting variables across the atmosphere, oceans, and land","This process requires no scientific data or calculation","Climate modelling involves no complex or interacting factors","Climate systems have no interacting components"], answer:0},
      {q:"Why might scientists continue to refine climate models over time?", options:["Climate science has no need for ongoing research","New data and improved understanding can lead to more accurate predictions","Climate models never need to be updated or improved","Refining models has no connection to prediction accuracy"], answer:1}
    ]},
-  {subject:"History", title:"Canada’s Role in NATO and International Security", summary:"Grade 10 History strand: Canada has been a member of NATO since its founding in 1949, contributing to collective international security efforts alongside other member nations.",
+  {subject:"History", title:"Canada’s Role in the Cold War", summary:"Grade 10 History strand: during the Cold War, Canada balanced close defence ties with the United States and NATO allies, such as joint continental defence through NORAD, with an independent diplomatic identity built around peacekeeping and international mediation.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=tL4NtWIm3-0",
    quiz:[
-     {q:"NATO was founded in which year?", options:["1919","1945","1989","1949"], answer:0},
-     {q:"Canada’s membership in NATO involves contributing to ___.", options:["A topic entirely unrelated to Canadian foreign policy","Collective international security efforts","Only domestic security, with no international connection","No international commitments of any kind"], answer:1},
-     {q:"NATO is best described as ___.", options:["An alliance of member nations focused on collective security","A group unrelated to international security","A single country acting entirely alone","An organization with no member countries"], answer:0},
-     {q:"Why might countries choose to join an alliance like NATO?", options:["This type of alliance has no connection to international security","NATO membership eliminates all need for national defence","Alliances provide no benefit to member countries","To benefit from collective defence and security cooperation with other member nations"], answer:3},
-     {q:"Why is studying Canada’s role in NATO relevant to understanding its foreign policy?", options:["It illustrates how Canada engages in international cooperation and security commitments","This topic has no connection to Canadian foreign policy","NATO membership has no effect on a country’s international relationships","Canada has no role in NATO or international security"], answer:0}
+     {q:"During the Cold War, Canada’s foreign policy was most shaped by its position ___.", options:["Complete isolation from world affairs","Sole alignment with the Soviet Union","Between the United States/NATO alliance and an independent diplomatic voice","No involvement in any defence alliances"], answer:2},
+     {q:"Which organization did Canada join in 1949 partly in response to Cold War tensions?", options:["NATO","The League of Nations","The Warsaw Pact","The United Nations Security Council alone"], answer:0},
+     {q:"Canada’s Cold War-era defence cooperation with the United States included ___.", options:["Refusing any joint defence arrangements","Cancelling all military spending","Ending diplomatic relations with Western allies","Joint continental defence initiatives such as NORAD"], answer:3},
+     {q:"Why did Canada pursue peacekeeping as a distinct Cold War-era role?", options:["To eliminate the need for any international involvement","It offered a way to contribute to global stability without direct superpower confrontation","Peacekeeping was unrelated to Cold War tensions","Canada refused all United Nations initiatives"], answer:1},
+     {q:"Studying Canada’s role in the Cold War helps explain ___.", options:["Canada’s complete absence from international affairs","A period with no lasting effect on Canadian foreign policy","How Canada balanced alliance commitments with an independent diplomatic identity","That Canada had no allies during this period"], answer:2}
    ]},
 ]},
 {day:38, label:"Day 38 — Wed", subjects:[

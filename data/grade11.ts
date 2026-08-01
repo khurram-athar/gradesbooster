@@ -1516,6 +1516,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"English", title:"Writing: The Personal Essay -- Voice and Vulnerability", summary:"Grade 11 English strand: a personal essay explores the writer’s own experiences and reflections with an honest, distinctive voice, often embracing vulnerability to create a genuine connection with readers.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=ezr4dPT5zmI",
    quiz:[
      {q:"A personal essay explores ___.", options:["A completely fictional and unrelated topic","A subject entirely disconnected from the writer’s own life","Only factual information with no personal reflection","The writer’s own experiences and reflections"], answer:3},
      {q:"Why might embracing vulnerability strengthen a personal essay?", options:["It can create a more genuine and relatable connection with readers","This quality has no connection to how an essay is received","Readers never respond to honest or vulnerable writing","Vulnerability always weakens the impact of a personal essay"], answer:0},
@@ -1525,6 +1526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Statistics: Standard Deviation and Data Interpretation", summary:"Grade 11 Functions strand (Data Management): standard deviation quantifies how spread out a set of data values is, helping interpret whether data is tightly clustered or widely dispersed around the mean.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=T2gCe1O7xi8",
    quiz:[
      {q:"Standard deviation quantifies ___.", options:["How spread out a set of data values is","The exact total sum of all values in a data set","The single highest value in a data set","A value unrelated to data spread"], answer:0},
      {q:"A high standard deviation suggests that data values are ___.", options:["Impossible to measure accurately","Completely unrelated to the mean","Tightly clustered around the mean","Widely dispersed from the mean"], answer:3},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biotechnology: Genetic Testing and Ethics", summary:"Grade 11 Biology strand: genetic testing analyzes an individual’s DNA to identify potential genetic conditions or traits, raising important ethical questions about privacy, consent, and the use of this information.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=rG1crCLAzM8",
    quiz:[
      {q:"Genetic testing analyzes an individual’s DNA to identify ___.", options:["Information unrelated to a person’s health","Only external physical characteristics, with no genetic connection","Potential genetic conditions or traits","A factor entirely unrelated to genetics"], answer:2},
      {q:"Genetic testing raises ethical questions related to ___.", options:["Concerns with no connection to genetics or health","A topic entirely unrelated to personal information","Privacy, consent, and the use of genetic information","No ethical considerations of any kind"], answer:2},
@@ -1543,6 +1546,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Redox Reactions: Balancing and Applications", summary:"Grade 11 Chemistry strand: a redox (oxidation-reduction) reaction involves the transfer of electrons between substances, with oxidation involving electron loss and reduction involving electron gain.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=N6ivvu6xlog",
    quiz:[
      {q:"In a redox reaction, oxidation involves ___.", options:["The gain of electrons","No change in electrons at all","The loss of electrons","A process unrelated to electron transfer"], answer:2},
      {q:"In a redox reaction, reduction involves ___.", options:["A process unrelated to electron transfer","The gain of electrons","No change in electrons at all","The loss of electrons"], answer:1},

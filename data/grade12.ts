@@ -1516,6 +1516,7 @@ const curriculum: DayContent[] = [
 {day:37, label:"Day 37 — Tue", subjects:[
   {subject:"English", title:"Literary Analysis: Narrative Perspective and Unreliable Narration", summary:"Grade 12 English strand: narrative perspective shapes how a story is told and understood, and an unreliable narrator’s compromised credibility requires readers to critically evaluate the accuracy of the account presented.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=PIlijplYCOI",
    quiz:[
      {q:"Narrative perspective shapes how a story is ___.", options:["A concept unrelated to storytelling","Physically printed and bound","Marketed to potential readers only","Told and understood"], answer:3},
      {q:"An unreliable narrator is one whose ___ is compromised.", options:["Physical description","Name, with no connection to the accuracy of their account","Age, with no connection to trustworthiness","Credibility"], answer:3},
@@ -1525,6 +1526,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Mathematical Induction: A Formal Proof Technique", summary:"Grade 12 Advanced Functions strand: mathematical induction is a formal proof technique used to establish that a statement holds true for all natural numbers, by proving a base case and an inductive step.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=GdM_iA1Zek4",
    quiz:[
      {q:"Mathematical induction is a formal technique used to prove a statement holds true for all ___.", options:["Only a single, specific number","Natural numbers","Irrational numbers exclusively, with no connection to natural numbers","A concept unrelated to numbers"], answer:1},
      {q:"A proof by mathematical induction requires proving a base case and ___.", options:["An inductive step","A random, unrelated mathematical statement","No further steps beyond the base case","A completely unrelated final conclusion with no connection to the base case"], answer:0},
@@ -1534,6 +1536,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Taylor and Maclaurin Series: An Introduction", summary:"Grade 12 Calculus strand: a Taylor series approximates a function as an infinite sum of terms based on its derivatives at a single point, with a Maclaurin series being the special case centred at zero.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=a58otkmkHtk",
    quiz:[
      {q:"A Taylor series approximates a function using an infinite sum of terms based on its ___.", options:["A concept unrelated to derivatives","Derivatives at a single point","Only its value at two distinct endpoints","Physical graph colour with no mathematical basis"], answer:1},
      {q:"A Maclaurin series is a special case of a Taylor series centred at ___.", options:["A value that changes randomly with each calculation","Infinity","Zero","One"], answer:2},
@@ -1541,14 +1544,15 @@ const curriculum: DayContent[] = [
      {q:"Why does including more terms in a Taylor series generally improve the accuracy of the approximation?", options:["This concept has no connection to how Taylor series function","The number of terms included has no effect on the accuracy of the approximation","Adding more terms always makes a Taylor series approximation less accurate","Additional terms capture more detail about how the function behaves near the chosen point"], answer:3},
      {q:"Why are Taylor series useful in fields like physics and engineering for simplifying complex functions?", options:["Taylor series have no practical application in physics or engineering","Complex functions never need to be simplified for real-world calculations","They allow difficult functions to be approximated with simpler polynomial expressions for practical calculations","This concept only applies to purely theoretical mathematics with no real-world use"], answer:2}
    ]},
-  {subject:"Physics", title:"Physics: Diffraction and Polarization of Light", summary:"Grade 12 Physics strand: diffraction describes the bending of light waves around obstacles or through openings, while polarization describes the restriction of light’s oscillation to a specific direction.",
+  {subject:"Physics", title:"Diffraction of Light: How Waves Bend Around Obstacles", summary:"Grade 12 Physics strand: diffraction describes the bending and spreading of light waves as they pass around obstacles or through narrow openings, and this wave behaviour is closely related to interference and reflection effects observed in optical systems.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=eW5VGGJuWtQ",
    quiz:[
-     {q:"Diffraction describes the bending of light waves around ___.", options:["Obstacles or through openings","A concept unrelated to the behaviour of light","A completely opaque, solid surface with no gaps","Only a perfectly straight, unobstructed path"], answer:0},
-     {q:"Polarization describes the restriction of light’s oscillation to ___.", options:["Every possible direction simultaneously, with no restriction","No oscillation whatsoever","A concept unrelated to how light waves oscillate","A specific direction"], answer:3},
-     {q:"Which is an example of a practical application of polarization?", options:["A technology that has no connection to how light oscillates","Polarized sunglasses reducing glare","An application entirely unrelated to light behaviour","A device that has no effect on visible light"], answer:1},
-     {q:"Why does diffraction become more noticeable when light passes through a narrower opening?", options:["This concept has no connection to how light waves interact with obstacles","A narrower opening causes a greater relative bending of the light wave around its edges","Diffraction never becomes more or less noticeable regardless of opening size","The width of an opening has no effect on the amount of diffraction that occurs"], answer:1},
-     {q:"Why is understanding diffraction and polarization important in fields like optics and photography?", options:["Diffraction and polarization have no relevance to optics or photography","These wave properties of light directly affect how lenses and optical instruments perform","Optical instruments never need to account for the wave properties of light","This concept has no practical, real-world application"], answer:1}
+     {q:"Diffraction describes the bending and spreading of light waves around ___.", options:["Obstacles or through narrow openings","A concept unrelated to the behaviour of light","A completely opaque, solid surface with no gaps","Only a perfectly straight, unobstructed path"], answer:0},
+     {q:"Why does diffraction become more noticeable when light passes through a narrower opening?", options:["This concept has no connection to how light waves interact with obstacles","The width of an opening has no effect on the amount of diffraction that occurs","A narrower opening causes a greater relative bending of the light wave around its edges","Diffraction never becomes more or less noticeable regardless of opening size"], answer:2},
+     {q:"Diffraction is closely related to which other wave phenomenon, where overlapping waves combine to strengthen or cancel each other?", options:["Interference","A phenomenon unrelated to how waves combine","Only reflection, with no connection to overlapping waves","Total internal reflection exclusively"], answer:0},
+     {q:"Which is an example of a real-world situation where diffraction of light is observable?", options:["Light bending slightly as it passes through a narrow slit or around a thin edge","A situation with no connection to wave behaviour","Light travelling through a vacuum with no obstacles at all","A process entirely unrelated to how light waves propagate"], answer:0},
+     {q:"Why is understanding diffraction important in fields like optics and photography?", options:["Diffraction has no relevance to optics or photography","This wave property of light directly affects how lenses and optical instruments perform, especially at narrow apertures","Optical instruments never need to account for the wave properties of light","This concept has no practical, real-world application"], answer:1}
    ]},
 ]},
 {day:38, label:"Day 38 — Wed", subjects:[
