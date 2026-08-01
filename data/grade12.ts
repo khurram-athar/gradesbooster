@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"English", title:"Writing: The Op-Ed for a National Publication", summary:"Grade 12 English strand: writing an op-ed intended for a national publication requires a clear, timely argument on an issue of broad public interest, supported by credible evidence and a distinctive, authoritative voice.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=6TN89KNTPQI",
    quiz:[
      {q:"An op-ed for a national publication requires a clear argument on an issue of ___.", options:["No relevance to the general public","A concept unrelated to current events","Broad public interest","Interest to only a single individual reader"], answer:2},
      {q:"Why is timeliness often an important quality for an op-ed intended for a national publication?", options:["Op-eds should always avoid any connection to current events","Op-eds often respond to current events, so relevance to the present moment increases their impact","This quality has no relevance to persuasive writing intended for publication","Timeliness has no connection to how an op-ed is received"], answer:1},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Transformations of Functions: A Unified Approach", summary:"Grade 12 Advanced Functions strand: this lesson synthesizes transformation rules -- shifts, stretches, reflections -- across all major function families studied this year, reinforcing a single, unified framework for predicting graph changes.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=aOiYRFpLBe8",
    quiz:[
      {q:"A unified approach to transformations applies the same general rules across ___.", options:["Only a single, specific type of function","A concept unrelated to function behaviour","All major function families","Numbers with no connection to graphing"], answer:2},
      {q:"A vertical stretch of a function’s graph affects its ___.", options:["Steepness or rate of change","Only its horizontal position","Colour","A property unrelated to the graph’s shape"], answer:0},
@@ -1576,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Euler’s Method for Differential Equations", summary:"Grade 12 Calculus strand: Euler’s Method provides a numerical approximation to the solution of a differential equation by using small, successive linear steps based on the equation’s slope at each point.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=ukNbG7muKho",
    quiz:[
      {q:"Euler’s Method provides a numerical approximation to the solution of a ___.", options:["Basic linear equation with no derivatives involved","Simple arithmetic expression with no variables","A concept unrelated to calculus","Differential equation"], answer:3},
      {q:"Euler’s Method uses small, successive ___ based on the equation’s slope at each point.", options:["Random, unrelated jumps with no mathematical basis","Steps determined entirely by guesswork with no calculation involved","Linear steps","A concept unrelated to slope or rate of change"], answer:2},
@@ -1585,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Particle Accelerators and Detection Methods", summary:"Grade 12 Physics strand: particle accelerators use electric and magnetic fields to propel charged particles to very high speeds, allowing scientists to study fundamental particles through the resulting high-energy collisions.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=G6mmIzRz_f8",
    quiz:[
      {q:"Particle accelerators use electric and magnetic fields to propel charged particles to ___.", options:["Very high speeds","A concept unrelated to particle physics","A state of complete rest, with no motion involved","Speeds that always remain constant and unchanging"], answer:0},
      {q:"Scientists study fundamental particles through the results of ___.", options:["Only visual observation, with no experimental interaction involved","Collisions that produce no measurable, detectable data","High-energy collisions","A process entirely unrelated to particle interactions"], answer:2},

@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"English", title:"Independent Reading: Speculative Fiction", summary:"Grade 11 English strand: speculative fiction imagines alternative realities, futures, or worlds governed by different rules, often used to explore complex social, ethical, or philosophical questions.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=epXnZCG3swM",
    quiz:[
      {q:"Speculative fiction imagines ___.", options:["Only realistic, present-day settings with no imaginative elements","Stories that must always be set in the past","A genre unrelated to imaginative storytelling","Alternative realities, futures, or worlds"], answer:3},
      {q:"Authors often use speculative fiction to explore ___.", options:["Only lighthearted, comedic subject matter with no deeper meaning","A topic entirely unrelated to real-world concerns","Complex social, ethical, or philosophical questions","Themes with no connection to society or ethics"], answer:2},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Inverse Functions and Their Graphs", summary:"Grade 11 Functions strand: an inverse function reverses the input-output relationship of the original function, and its graph is a reflection of the original function’s graph across the line y equals x.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=x_aTsnglk7k",
    quiz:[
      {q:"An inverse function reverses ___.", options:["Only the colour of the original function’s graph","No relationship at all with the original function","The input-output relationship of the original function","A concept unrelated to functions"], answer:2},
      {q:"The graph of an inverse function is a reflection of the original function’s graph across ___.", options:["A line unrelated to the original graph","The line y equals x","The y-axis only","The x-axis only"], answer:1},
@@ -1576,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Evolution: Evidence from the Fossil Record", summary:"Grade 11 Biology strand: the fossil record provides physical evidence of past life forms, helping scientists trace evolutionary changes and relationships between species over long periods of time.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=PSljgVnFNN0",
    quiz:[
      {q:"The fossil record provides physical evidence of ___.", options:["Past life forms","A concept unrelated to biological history","Only currently living organisms, with no connection to the past","Modern organisms exclusively, with no historical evidence"], answer:0},
      {q:"Scientists use the fossil record to trace ___.", options:["Evolutionary changes and relationships between species","Only the current population size of a species","A topic entirely unrelated to biology","A concept with no connection to species relationships"], answer:0},
@@ -1585,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Thermochemistry: Calorimetry and Hess’s Law", summary:"Grade 11 Chemistry strand: calorimetry measures the heat exchanged during a chemical reaction, and Hess’s Law states that the total enthalpy change for a reaction is the same regardless of the number of steps taken.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=2q2u5sj4V00",
    quiz:[
      {q:"Calorimetry is used to measure ___.", options:["The exact colour of a chemical reaction","The heat exchanged during a chemical reaction","A property entirely unrelated to energy changes","The mass of the reactants only, with no connection to heat"], answer:1},
      {q:"Hess’s Law states that the total enthalpy change for a reaction ___.", options:["Is the same regardless of the number of steps taken","Has no connection to the number of reaction steps","Cannot be determined using any method","Always changes depending on how many steps are involved"], answer:0},

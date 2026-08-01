@@ -9111,6 +9111,7 @@
         "summary": "Grade 12 English strand: writing an op-ed intended for a national publication requires a clear, timely argument on an issue of broad public interest, supported by credible evidence and a distinctive, authoritative voice.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=6TN89KNTPQI",
         "quiz": [
           {
             "q": "An op-ed for a national publication requires a clear argument on an issue of ___.",
@@ -9170,6 +9171,7 @@
         "summary": "Grade 12 Advanced Functions strand: this lesson synthesizes transformation rules -- shifts, stretches, reflections -- across all major function families studied this year, reinforcing a single, unified framework for predicting graph changes.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=aOiYRFpLBe8",
         "quiz": [
           {
             "q": "A unified approach to transformations applies the same general rules across ___.",
@@ -9229,6 +9231,7 @@
         "summary": "Grade 12 Calculus strand: Euler’s Method provides a numerical approximation to the solution of a differential equation by using small, successive linear steps based on the equation’s slope at each point.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=ukNbG7muKho",
         "quiz": [
           {
             "q": "Euler’s Method provides a numerical approximation to the solution of a ___.",
@@ -9288,6 +9291,7 @@
         "summary": "Grade 12 Physics strand: particle accelerators use electric and magnetic fields to propel charged particles to very high speeds, allowing scientists to study fundamental particles through the resulting high-energy collisions.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=G6mmIzRz_f8",
         "quiz": [
           {
             "q": "Particle accelerators use electric and magnetic fields to propel charged particles to ___.",

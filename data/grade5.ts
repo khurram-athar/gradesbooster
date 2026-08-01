@@ -1578,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Mixtures and Solutions", summary:"Ontario Grade 5 Science Matter and Energy strand: a mixture combines two or more substances that keep their own properties, while a solution is a special type of mixture where one substance dissolves evenly into another.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=mBguQfdwCEQ",
    quiz:[
      {q:"A mixture is formed when ___.", options:["Nothing is combined at all","A substance disappears completely","Two or more substances combine but keep their own properties","A single substance changes into a different element"], answer:2},
      {q:"A solution is a type of mixture where ___.", options:["All substances turn into gas","One substance dissolves evenly into another","The mixture always separates immediately","Substances never combine"], answer:1},
@@ -1587,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Economic Systems: Needs, Wants, and Resources", summary:"Ontario Grade 5 Social Studies People and Environments strand: economic systems involve decisions about how to use limited resources to meet unlimited needs and wants, balancing production, distribution, and consumption of goods and services.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=FpNyTKgi1Io",
    quiz:[
      {q:"A need is best described as ___.", options:["Something essential for survival, like food or shelter","Something with no importance","Something entirely optional","The same thing as a want"], answer:0},
      {q:"A want is best described as ___.", options:["The exact same as a need","Something desired but not essential for survival","Something that never affects decisions","Something essential for survival"], answer:1},
