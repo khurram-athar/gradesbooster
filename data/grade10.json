@@ -31610,5 +31610,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 131,
+    "label": "Day 131 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Correlative Conjunctions",
+        "summary": "Grade 10 English strand: correlative conjunctions are paired words such as either/or, neither/nor, both/and, and not only/but also that link balanced words, phrases, or clauses within a sentence.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a correlative conjunction?",
+            "options": [
+              "A punctuation mark used in dialogue",
+              "A word that replaces a noun entirely",
+              "A single word that ends a sentence",
+              "A paired word set that links balanced words, phrases, or clauses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following is a correlative conjunction pair?",
+            "options": [
+              "Run/jump",
+              "Book/pen",
+              "Quickly/slowly",
+              "Either/or"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence correctly uses a correlative conjunction pair?",
+            "options": [
+              "Both the teacher or the students were ready for the test.",
+              "Neither the teacher or the students were ready for the test.",
+              "Either the teacher and the students were ready for the test.",
+              "Neither the teacher nor the students were ready for the test."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do correlative conjunctions require parallel structure?",
+            "options": [
+              "They replace the need for a subject entirely",
+              "The elements joined should match grammatically for the sentence to read smoothly",
+              "They never need to match in form",
+              "They only ever join single letters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which pair means both things are true?",
+            "options": [
+              "Either/or",
+              "Neither/nor",
+              "Both/and",
+              "Whether/or"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: The Chain Rule for Derivatives",
+        "summary": "Grade 10 Math strand: the chain rule provides a method for differentiating a composite function, one function nested inside another, by multiplying the derivative of the outer function by the derivative of the inner function.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the chain rule allow you to differentiate?",
+            "options": [
+              "A composite function, one function nested inside another",
+              "Only whole numbers with no variables",
+              "Only a single constant term",
+              "Only a sum of two unrelated functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is the chain rule generally applied?",
+            "options": [
+              "By ignoring the inner function entirely",
+              "By dividing the outer function by the inner function",
+              "By adding the two functions together first",
+              "By multiplying the derivative of the outer function by the derivative of the inner function"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of function most clearly requires the chain rule to differentiate?",
+            "options": [
+              "A function with no inner expression at all",
+              "A single constant with no variable",
+              "A composite function such as the square of a trigonometric expression",
+              "A simple linear function like y equals x"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The chain rule builds directly on which earlier differentiation rules?",
+            "options": [
+              "Only basic arithmetic with no calculus involved",
+              "Only the quadratic formula",
+              "Only the Pythagorean Theorem",
+              "The power rule and the basic derivative rules"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the chain rule essential in calculus?",
+            "options": [
+              "It eliminates the need for the power rule entirely",
+              "Many real functions are composite functions that cannot be differentiated with simpler rules alone",
+              "It replaces the need to ever find a derivative",
+              "It only applies to functions with no variables"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Osmosis, Diffusion, and Cell Transport",
+        "summary": "Grade 10 Science strand: diffusion is the movement of particles from an area of higher concentration to lower concentration, and osmosis is the specific diffusion of water across a semi-permeable membrane, both essential processes for moving materials into and out of cells.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "A process that occurs only in solids",
+              "The movement of particles only against a concentration gradient",
+              "The movement of particles from an area of higher concentration to lower concentration",
+              "A process requiring the cell to use energy at all times"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is osmosis?",
+            "options": [
+              "The diffusion of water across a semi-permeable membrane",
+              "A process that only occurs in the absence of water",
+              "The movement of proteins out of a cell",
+              "The diffusion of solid particles through a rigid wall"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What property of a cell membrane allows osmosis to occur?",
+            "options": [
+              "It has no effect on which substances pass through",
+              "It allows every substance through equally",
+              "It is completely impermeable to everything",
+              "It is semi-permeable, allowing water but not all solutes through"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to a cell placed in a highly concentrated salt solution?",
+            "options": [
+              "The cell membrane instantly dissolves",
+              "No water movement occurs under any condition",
+              "Water tends to enter the cell rapidly with no limit",
+              "Water tends to leave the cell, causing it to shrink"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are diffusion and osmosis important to living cells?",
+            "options": [
+              "They prevent cells from ever exchanging any materials",
+              "They stop all cellular processes from occurring",
+              "They are only relevant to non-living matter",
+              "They allow essential materials like nutrients and water to move into and out of cells"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of the North-West Mounted Police in 1873",
+        "summary": "Grade 10 History strand: the North-West Mounted Police was established in 1873 by the Canadian government to maintain order, assert Canadian sovereignty, and regulate relations with Indigenous peoples and settlers across the newly acquired western territories.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the North-West Mounted Police established?",
+            "options": [
+              "1867",
+              "1949",
+              "1873",
+              "1905"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did the Canadian government establish the North-West Mounted Police?",
+            "options": [
+              "To defend against an invasion from the United States",
+              "To administer the province of Quebec exclusively",
+              "To replace the entire federal parliament",
+              "To maintain order and assert Canadian sovereignty over the western territories"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What present-day Canadian institution evolved from the North-West Mounted Police?",
+            "options": [
+              "The Canadian Armed Forces",
+              "The Royal Canadian Mounted Police",
+              "The Bank of Canada",
+              "The Supreme Court of Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The North-West Mounted Police was tasked with regulating relations between settlers and ___.",
+            "options": [
+              "Provincial legislatures in the east",
+              "Foreign diplomats in Ottawa",
+              "Indigenous peoples across the western territories",
+              "International shipping companies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The founding of the North-West Mounted Police is often studied alongside which other western expansion topic?",
+            "options": [
+              "The Halifax Explosion",
+              "The settlement of the Canadian Prairies",
+              "The Quebec Referendum of 1995",
+              "The Suez Crisis"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 132,
+    "label": "Day 132 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Extended Metaphor and Conceit",
+        "summary": "Grade 10 English strand: an extended metaphor sustains a single comparison across multiple lines or an entire text, and a conceit is an especially elaborate or unconventional extended metaphor that develops a surprising connection between two very different things.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is an extended metaphor?",
+            "options": [
+              "A metaphor that uses like or as",
+              "A single comparison sustained across multiple lines or an entire text",
+              "A metaphor that is stated only once and never returned to",
+              "A comparison that lasts only a single word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a conceit in literary terms?",
+            "options": [
+              "A grammatical error in a poem",
+              "A short simile used only once",
+              "An especially elaborate or unconventional extended metaphor",
+              "A type of rhyme scheme"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poet choose an extended metaphor over a simple comparison?",
+            "options": [
+              "It eliminates the need for imagery entirely",
+              "It removes any figurative meaning from the text",
+              "It allows the writer to develop a comparison in greater depth and complexity",
+              "It forces the writer to abandon the comparison after one line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What makes a conceit feel surprising to a reader?",
+            "options": [
+              "It connects two very different things in an unexpected way",
+              "It only compares extremely similar things",
+              "It restates the literal meaning directly",
+              "It avoids any figurative language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Extended metaphors and conceits are most useful for ___.",
+            "options": [
+              "Replacing dialogue in a narrative",
+              "Removing all imagery from a poem",
+              "Simplifying a text to a single literal statement",
+              "Deepening a texts thematic meaning through a sustained comparison"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Fermats Little Theorem",
+        "summary": "Grade 10 Math strand: Fermats Little Theorem states that if p is a prime number, then for any integer a not divisible by p, a raised to the power of p minus 1 is congruent to 1 modulo p, a result with important applications in modular arithmetic and cryptography.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What condition must p satisfy in Fermats Little Theorem?",
+            "options": [
+              "p must be equal to zero",
+              "p must be an even number only",
+              "p must be a prime number",
+              "p must be a perfect square"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Fermats Little Theorem state about a raised to the power p minus 1?",
+            "options": [
+              "It is always equal to zero",
+              "It is never a whole number",
+              "It is congruent to 1 modulo p, when a is not divisible by p",
+              "It always equals exactly p"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Fermats Little Theorem builds on which earlier number theory concept?",
+            "options": [
+              "The quadratic formula",
+              "Basic long division only",
+              "The Pythagorean Theorem",
+              "Modular arithmetic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What modern field commonly applies Fermats Little Theorem?",
+            "options": [
+              "Ancient astronomy with no modern use",
+              "Elementary counting with no further application",
+              "Cryptography and computer security",
+              "Basic geometry with no numbers involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the condition that a is not divisible by p important in the theorem?",
+            "options": [
+              "Without it, the congruence relationship described by the theorem does not hold",
+              "It applies only when a equals zero",
+              "It only matters when p is not prime",
+              "It has no effect on the theorem at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Chromatography and Separation Techniques",
+        "summary": "Grade 10 Science strand: chromatography is a laboratory technique used to separate the components of a mixture based on how differently each component travels through a stationary medium carried by a moving solvent, revealing the number and identity of substances present.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is the main purpose of chromatography?",
+            "options": [
+              "To separate the components of a mixture",
+              "To determine the mass of a solid object",
+              "To combine several substances into a single compound",
+              "To measure the temperature of a solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What causes different components to separate during chromatography?",
+            "options": [
+              "Components separate only by changing colour randomly",
+              "Each component travels a different distance through the stationary medium at a different rate",
+              "All components always travel at exactly the same rate",
+              "Separation occurs due to gravity alone with no medium involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What carries the mixture through the stationary medium in chromatography?",
+            "options": [
+              "A block of ice",
+              "A magnetic field",
+              "A beam of light only",
+              "A moving solvent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can scientists learn from a completed chromatography experiment?",
+            "options": [
+              "The exact temperature of the room",
+              "The number and identity of substances present in a mixture",
+              "The electrical charge of the container",
+              "The atomic number of every element involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Chromatography is commonly used in which real-world application?",
+            "options": [
+              "Calculating the area of a triangle",
+              "Predicting tomorrows weather",
+              "Measuring the speed of a moving vehicle",
+              "Forensic analysis of ink or drug samples"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Naval Aid Bill and Canadas Pre-World War I Naval Debate",
+        "summary": "Grade 10 History strand: the Naval Aid Bill of 1912-13, proposed by Prime Minister Robert Borden to fund British dreadnoughts directly rather than build a Canadian navy, sparked a bitter national debate over Canadas military relationship with Britain and was ultimately defeated in the Senate.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Who proposed the Naval Aid Bill?",
+            "options": [
+              "Prime Minister Mackenzie King",
+              "Prime Minister Lester Pearson",
+              "Prime Minister Robert Borden",
+              "Prime Minister Wilfrid Laurier"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the Naval Aid Bill propose to fund?",
+            "options": [
+              "A new Canadian air force",
+              "British dreadnoughts directly instead of building a Canadian navy",
+              "A national system of highways",
+              "The construction of the Canadian Pacific Railway"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What ultimately happened to the Naval Aid Bill?",
+            "options": [
+              "It was approved directly by the King",
+              "It was never debated at all",
+              "It was defeated in the Senate",
+              "It passed unanimously in Parliament"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What broader issue did the Naval Aid Bill debate reflect?",
+            "options": [
+              "A dispute over provincial boundaries",
+              "A disagreement over agricultural tariffs only",
+              "A conflict over railway construction routes",
+              "Disagreement over Canadas military relationship with Britain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Naval Aid Bill debate occurred in the years immediately before which major conflict?",
+            "options": [
+              "The Boer War",
+              "World War I",
+              "The Korean War",
+              "World War II"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 133,
+    "label": "Day 133 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Public Service Announcement",
+        "summary": "Grade 10 English strand: a public service announcement, or PSA, is a brief persuasive message designed to inform or influence public behaviour on an issue of social importance, using a clear call to action, a defined target audience, and a concise, memorable structure.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is the primary purpose of a public service announcement?",
+            "options": [
+              "To entertain readers with unrelated fiction",
+              "To sell a specific commercial product",
+              "To provide a lengthy academic analysis",
+              "To inform or influence public behaviour on an issue of social importance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an essential feature of an effective PSA?",
+            "options": [
+              "A complete absence of any purpose",
+              "A clear call to action for the audience",
+              "An extremely long and detailed narrative",
+              "A focus on private, unrelated matters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must a PSA writer define a target audience?",
+            "options": [
+              "Because a target audience is irrelevant to persuasive writing",
+              "Because a PSA should never be shown to anyone",
+              "To tailor the language, tone, and message to the people most likely to act on it",
+              "Because PSAs are never meant to be understood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is a typical topic for a PSA?",
+            "options": [
+              "Encouraging safe driving habits",
+              "Explaining a mathematical proof",
+              "Reviewing a recent novel",
+              "Summarizing a historical battle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do PSAs typically use concise, memorable language?",
+            "options": [
+              "To make the message as confusing as possible",
+              "Because concise writing has no persuasive value",
+              "Because PSAs are always read privately with no time limit",
+              "To ensure the message is retained and easily understood by a broad audience"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: Confidence Intervals and Margin of Error",
+        "summary": "Grade 10 Math strand: a confidence interval is a range of values, calculated from sample data, that is likely to contain the true population parameter, with the margin of error indicating how much the sample estimate might differ from that true value.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a confidence interval estimate?",
+            "options": [
+              "The exact value of a population parameter with total certainty",
+              "A range of values likely to contain the true population parameter",
+              "A single number with no range at all",
+              "The size of a sample only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the margin of error indicate?",
+            "options": [
+              "How much a sample estimate might differ from the true population value",
+              "The colour used in a data visualization",
+              "The exact size of the entire population",
+              "Whether a hypothesis test was conducted correctly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does increasing the sample size typically affect the margin of error?",
+            "options": [
+              "It has no effect on the margin of error",
+              "It generally decreases the margin of error",
+              "It makes the margin of error undefined",
+              "It always increases the margin of error"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A 95 percent confidence level means ___.",
+            "options": [
+              "Only 5 percent of the data was collected",
+              "We expect about 95 percent of similarly constructed intervals to contain the true value",
+              "The sample size must always be exactly 95",
+              "The result is true with absolute certainty"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Confidence intervals are commonly used alongside which other statistical concept?",
+            "options": [
+              "The Pythagorean Theorem",
+              "Hypothesis testing",
+              "Basic long division",
+              "The quadratic formula"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Aerodynamics and the Physics of Flight",
+        "summary": "Grade 10 Science strand: aerodynamics studies how air interacts with moving objects, and flight depends on four key forces, lift, weight, thrust, and drag, with an aircrafts wing shape generating lift by causing air to move faster over the curved upper surface.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What are the four key forces involved in flight?",
+            "options": [
+              "Only speed and mass",
+              "Lift, weight, thrust, and drag",
+              "Only gravity and friction",
+              "Only temperature and pressure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What force allows an aircraft to overcome gravity and rise?",
+            "options": [
+              "Drag",
+              "Lift",
+              "Weight",
+              "Density"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a typical wing shape help generate lift?",
+            "options": [
+              "It only works when the aircraft is stationary",
+              "It causes air to move faster over the curved upper surface, lowering pressure above the wing",
+              "It blocks all airflow around the wing completely",
+              "It has no effect on the airflow at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What force acts opposite to thrust during flight?",
+            "options": [
+              "Density",
+              "Lift",
+              "Weight",
+              "Drag"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do engineers study aerodynamics when designing aircraft?",
+            "options": [
+              "To maximize lift and minimize drag for efficient, stable flight",
+              "To eliminate the need for any wings",
+              "To make aircraft as heavy as possible",
+              "To increase drag as much as possible"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Income War Tax Act of 1917",
+        "summary": "Grade 10 History strand: the Income War Tax Act of 1917 introduced a federal personal income tax in Canada as a temporary wartime measure to help fund Canadas participation in World War I, though the tax was never repealed and became a permanent feature of Canadian federal finances.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the Income War Tax Act passed?",
+            "options": [
+              "1905",
+              "1917",
+              "1949",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the original stated purpose of the Income War Tax Act?",
+            "options": [
+              "A tax designed to fund the Canadian Pacific Railway",
+              "A temporary wartime measure to help fund Canadas participation in World War I",
+              "A permanent replacement for all provincial taxes",
+              "A tax created to fund Confederation celebrations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happened to the income tax after World War I ended?",
+            "options": [
+              "It was never repealed and became a permanent feature of federal finances",
+              "It was transferred entirely to provincial governments",
+              "It was immediately cancelled once the war ended",
+              "It was replaced by a sales tax only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of tax did the Income War Tax Act introduce federally?",
+            "options": [
+              "A personal income tax",
+              "A tax on imported goods only",
+              "A property tax on farmland only",
+              "A tax on foreign travel only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Income War Tax Act is often studied as an example of ___.",
+            "options": [
+              "A tax that was ruled unconstitutional",
+              "A policy with no lasting effect on Canada",
+              "A measure that only applied to Quebec",
+              "A wartime emergency measure that became a lasting government policy"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 134,
+    "label": "Day 134 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Utopian Fiction and Ideal Societies",
+        "summary": "Grade 10 English strand: utopian fiction imagines a society organized around an ideal system of government, technology, or social values, often used by authors to explore what a better world might look like while implicitly critiquing the flaws of contemporary society.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does utopian fiction typically imagine?",
+            "options": [
+              "A society with no organization of any kind",
+              "A purely factual historical account",
+              "A world with no characters or setting",
+              "A society organized around an ideal system of government or social values"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does utopian fiction differ from dystopian fiction?",
+            "options": [
+              "The two genres are identical with no differences",
+              "Utopian fiction always avoids any social commentary",
+              "Dystopian fiction always presents a perfect society",
+              "Utopian fiction presents an idealized society, while dystopian fiction presents a flawed or oppressive one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author write utopian fiction?",
+            "options": [
+              "To avoid making any statement about society",
+              "To explore what a better world might look like and implicitly critique present society",
+              "To eliminate the need for any imaginative elements",
+              "To provide a purely factual scientific report"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following might a utopian novel explore?",
+            "options": [
+              "Only a detailed description of weather patterns",
+              "An imagined system of governance believed to solve real social problems",
+              "Only a list of unrelated statistics",
+              "Only a biography of a historical figure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Utopian fiction is often discussed alongside which related genre?",
+            "options": [
+              "Dystopian fiction",
+              "Detective fiction",
+              "Historical fiction exclusively",
+              "Epistolary fiction"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: Implicit Differentiation",
+        "summary": "Grade 10 Math strand: implicit differentiation is a technique for finding the derivative of a relation in which y is not isolated as a function of x, by differentiating both sides of an equation with respect to x and applying the chain rule to terms involving y.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "When is implicit differentiation typically used?",
+            "options": [
+              "Only when working with whole numbers",
+              "Only when an equation has no variables at all",
+              "When y is not isolated as a function of x in an equation",
+              "Only when a function is already fully simplified for y"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What technique is applied to terms involving y during implicit differentiation?",
+            "options": [
+              "Basic long division",
+              "The Pythagorean Theorem",
+              "The chain rule",
+              "The quadratic formula"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the general first step in implicit differentiation?",
+            "options": [
+              "Differentiating both sides of the equation with respect to x",
+              "Solving the equation for y before differentiating anything",
+              "Ignoring one side of the equation entirely",
+              "Substituting a specific numerical value for x first"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is implicit differentiation useful for curves like circles?",
+            "options": [
+              "Such curves are not easily written as a single function of x, so implicit methods are needed",
+              "Circles require no differentiation at all",
+              "Circles never have a defined derivative",
+              "Implicit differentiation only works for straight lines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Implicit differentiation is closely related to which other calculus rule?",
+            "options": [
+              "The Euclidean Algorithm",
+              "The Fundamental Theorem of Arithmetic",
+              "The chain rule",
+              "The Binomial Theorem"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Sinkholes and Karst Topography",
+        "summary": "Grade 10 Science strand: karst topography forms when slightly acidic groundwater slowly dissolves soluble bedrock such as limestone, creating underground caves and channels that can collapse suddenly to form sinkholes at the surface.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What type of bedrock is most associated with karst topography?",
+            "options": [
+              "Volcanic ash with no groundwater involved",
+              "Metallic ore deposits only",
+              "Solid granite with no soluble minerals",
+              "Soluble rock such as limestone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes karst landscapes to form over time?",
+            "options": [
+              "Rapid freezing of surface water",
+              "Slightly acidic groundwater slowly dissolving soluble bedrock",
+              "Wind erosion of sand dunes only",
+              "Sudden volcanic eruptions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What often forms underground in karst regions before a sinkhole appears?",
+            "options": [
+              "A permanent lake with no connection to the surface",
+              "Large deposits of coal",
+              "Caves and channels created by dissolved rock",
+              "Layers of solid ice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a sinkhole?",
+            "options": [
+              "A surface depression formed when underground rock collapses",
+              "A type of volcanic mountain",
+              "A large body of standing ocean water",
+              "A permanent structure built by humans"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can sinkholes form suddenly and pose a hazard?",
+            "options": [
+              "Sinkholes only occur in areas with no groundwater at all",
+              "Underground erosion can weaken rock until it can no longer support the surface above it",
+              "Sinkholes have no connection to underground rock structure",
+              "Sinkholes always form gradually over centuries with visible warning signs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Formation of Canadian National Railways in 1919",
+        "summary": "Grade 10 History strand: Canadian National Railways was formed in 1919 when the federal government consolidated several financially struggling private railway companies into a single publicly owned corporation, creating a major state-run competitor to the privately owned Canadian Pacific Railway.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was Canadian National Railways formed?",
+            "options": [
+              "1919",
+              "1867",
+              "1949",
+              "1885"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did the federal government create Canadian National Railways?",
+            "options": [
+              "To replace the Canadian Pacific Railway entirely and shut it down",
+              "To transfer all rail service to the United States",
+              "To consolidate several financially struggling private railway companies into one public corporation",
+              "To build the first railway ever constructed in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of ownership did Canadian National Railways represent?",
+            "options": [
+              "Ownership by a foreign government",
+              "Ownership by a single individual investor",
+              "Entirely private, shareholder-only ownership",
+              "Public, government-owned ownership"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Canadian National Railways became a major competitor to which existing railway?",
+            "options": [
+              "The Canadian Pacific Railway",
+              "The St. Lawrence Seaway",
+              "The Trans-Canada Highway",
+              "The Grand Trunk Pacific Railway exclusively with no other rivals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What economic condition among private railways led to the creation of Canadian National Railways?",
+            "options": [
+              "Several private railway companies were in serious financial difficulty",
+              "All private railways were extremely profitable with no need for support",
+              "There were no private railways operating in Canada at the time",
+              "Private railways had already been fully nationalized decades earlier"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 135,
+    "label": "Day 135 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Clickbait and the Attention Economy",
+        "summary": "Grade 10 English strand: clickbait refers to headlines or content designed primarily to attract clicks rather than to inform accurately, a strategy shaped by the attention economy, in which media companies compete for limited audience attention often at the expense of depth or accuracy.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is clickbait?",
+            "options": [
+              "A method of fact-checking a news article",
+              "A type of formal citation used in academic essays",
+              "A grammatical structure used in headlines only",
+              "Headlines or content designed primarily to attract clicks rather than inform accurately"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the attention economy?",
+            "options": [
+              "A method of teaching mathematics",
+              "A style of formal academic writing",
+              "A system in which media companies compete for limited audience attention",
+              "An economic system based only on physical currency"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might clickbait sacrifice accuracy?",
+            "options": [
+              "Clickbait never uses headlines of any kind",
+              "Clickbait always prioritizes factual accuracy above all else",
+              "Its main goal is to generate clicks, which can come at the expense of depth or accuracy",
+              "Clickbait has no relationship to how content is written"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one strategy for identifying clickbait headlines?",
+            "options": [
+              "Assuming clickbait never appears on social media",
+              "Ignoring the headline and reading only the images",
+              "Assuming every headline is completely accurate",
+              "Noticing exaggerated or vague language designed to provoke curiosity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding the attention economy important for media literacy?",
+            "options": [
+              "It only applies to printed newspapers from the past",
+              "It has no relevance to how people consume media",
+              "It helps readers recognize how content is designed to capture and hold their attention",
+              "It guarantees that all online content is trustworthy"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: An Introduction to Polar Coordinates",
+        "summary": "Grade 10 Math strand: the polar coordinate system locates a point using a distance from a fixed origin and an angle from a fixed direction, rather than the horizontal and vertical distances used in the Cartesian system, offering a natural way to describe curves with rotational symmetry.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What two values define a point in the polar coordinate system?",
+            "options": [
+              "Three separate coordinate values",
+              "Two perpendicular horizontal and vertical distances only",
+              "A distance from the origin and an angle from a fixed direction",
+              "A single value with no direction involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the polar coordinate system differ from the Cartesian system?",
+            "options": [
+              "It uses distance and angle instead of horizontal and vertical distances",
+              "It uses only negative numbers",
+              "It is identical to the Cartesian system in every way",
+              "It cannot represent any curves at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the fixed reference point in the polar coordinate system called?",
+            "options": [
+              "The y-intercept",
+              "The pole, or origin",
+              "The vertex of a triangle",
+              "The slope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Polar coordinates are especially useful for describing which type of curve?",
+            "options": [
+              "Only single isolated points with no curve at all",
+              "Only straight horizontal lines",
+              "Only straight vertical lines",
+              "Curves with rotational symmetry, such as spirals or circles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The angle in a polar coordinate is typically measured from ___.",
+            "options": [
+              "The positive horizontal axis",
+              "A randomly chosen point with no fixed reference",
+              "The center of the y-axis only",
+              "The negative vertical axis only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Vaccines and Immunization",
+        "summary": "Grade 10 Science strand: a vaccine introduces a weakened, inactivated, or partial form of a pathogen into the body, training the immune system to recognize and respond quickly to that pathogen in the future without causing the actual disease.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does a vaccine typically introduce into the body?",
+            "options": [
+              "A weakened, inactivated, or partial form of a pathogen",
+              "A fully active, disease-causing pathogen at full strength",
+              "A completely unrelated substance with no biological effect",
+              "Only antibiotics with no connection to pathogens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main goal of vaccination?",
+            "options": [
+              "To train the immune system to recognize and respond quickly to a specific pathogen",
+              "To immediately cause the full disease in every recipient",
+              "To eliminate the need for an immune system entirely",
+              "To weaken the immune system permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the immune system typically respond after vaccination?",
+            "options": [
+              "It produces memory cells that allow a faster response upon future exposure",
+              "It attacks only healthy body cells instead",
+              "It becomes permanently unable to respond to any pathogen",
+              "It forgets the pathogen immediately after exposure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do vaccines not typically cause the full disease they protect against?",
+            "options": [
+              "They use a weakened, inactivated, or partial form of the pathogen rather than the full active version",
+              "Vaccines only work after a person has already recovered from the disease",
+              "Vaccines have no connection to the pathogen at all",
+              "They always contain the complete, fully active pathogen"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What public health benefit can widespread vaccination provide to a community?",
+            "options": [
+              "No measurable effect on disease spread",
+              "A guaranteed elimination of all diseases instantly",
+              "Reduced spread of disease through increased population immunity",
+              "An immediate increase in disease transmission"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Formation of the United Church of Canada in 1925",
+        "summary": "Grade 10 History strand: the United Church of Canada was formed in 1925 through the union of the Methodist, Congregationalist, and most Presbyterian churches in Canada, creating the largest Protestant denomination in the country and reflecting a broader movement toward Canadian religious and institutional independence.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the United Church of Canada formed?",
+            "options": [
+              "1905",
+              "1925",
+              "1949",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which churches united to form the United Church of Canada?",
+            "options": [
+              "The Catholic and Anglican churches",
+              "The Baptist and Lutheran churches only",
+              "A union of every religious denomination in Canada",
+              "The Methodist, Congregationalist, and most Presbyterian churches"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What did the United Church of Canada become after its formation?",
+            "options": [
+              "A branch of the Catholic Church",
+              "The largest Protestant denomination in the country",
+              "A small, minor religious group with few members",
+              "An officially government-run institution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The formation of the United Church of Canada reflected a broader trend toward ___.",
+            "options": [
+              "The elimination of all religious institutions in Canada",
+              "Canadian religious and institutional independence",
+              "Continued dependence on British religious authority",
+              "A merger with an American religious denomination"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which decade saw the formation of the United Church of Canada?",
+            "options": [
+              "The 1980s",
+              "The 1940s",
+              "The 1860s",
+              "The 1920s"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 136,
+    "label": "Day 136 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Absolute Phrases",
+        "summary": "Grade 10 English strand: an absolute phrase consists of a noun followed by a participle or modifier and describes the surrounding sentence as a whole rather than modifying a single word, adding vivid detail without forming a complete independent clause.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does an absolute phrase typically consist of?",
+            "options": [
+              "A verb followed directly by a conjunction",
+              "A complete independent clause only",
+              "A noun followed by a participle or modifier",
+              "A single adjective with no noun"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does an absolute phrase usually modify?",
+            "options": [
+              "Nothing at all within the sentence",
+              "Only a preposition",
+              "Only a single pronoun",
+              "The entire sentence rather than a single word"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence contains an absolute phrase?",
+            "options": [
+              "The letter, which arrived yesterday, was opened.",
+              "She opened the letter because she was curious.",
+              "Her hands trembling, she opened the letter slowly.",
+              "She opened the letter slowly."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use an absolute phrase?",
+            "options": [
+              "To add vivid, specific detail without forming a full independent clause",
+              "To make the sentence grammatically incomplete on purpose",
+              "To replace the main verb of the sentence entirely",
+              "To avoid using any nouns in a sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is an absolute phrase typically set off in a sentence?",
+            "options": [
+              "With a colon introducing a formal list",
+              "With a semicolon connecting two full clauses",
+              "With no punctuation of any kind",
+              "With a comma separating it from the rest of the sentence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Discrete Math: The Pigeonhole Principle",
+        "summary": "Grade 10 Math strand: the pigeonhole principle states that if more items are placed into containers than there are containers, at least one container must hold more than one item, a simple idea with surprisingly powerful applications in proofs and problem solving.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the pigeonhole principle state?",
+            "options": [
+              "No container can ever hold more than one item",
+              "The number of items must always equal the number of containers",
+              "If more items are placed into containers than there are containers, at least one container holds more than one item",
+              "Every container must hold exactly one item at all times"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is required for the pigeonhole principle to guarantee a container with multiple items?",
+            "options": [
+              "The number of items must exceed the number of containers",
+              "The number of items must be exactly equal to the number of containers",
+              "The number of containers must exceed the number of items",
+              "There must be zero items in total"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The pigeonhole principle is especially useful for ___.",
+            "options": [
+              "Proving that a certain outcome must occur without needing to check every case",
+              "Calculating a derivative directly",
+              "Finding the exact probability of a single event",
+              "Measuring the exact area of a shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which scenario illustrates the pigeonhole principle?",
+            "options": [
+              "If zero people are in a room, two must share a birth month",
+              "If 13 people are in a room, at least two must share a birth month",
+              "The principle only applies to numbers larger than one million",
+              "If 12 people are in a room, each must have a different birth month"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the pigeonhole principle considered powerful despite its simplicity?",
+            "options": [
+              "It requires checking every single case individually with no shortcuts",
+              "It only applies to geometry problems",
+              "It has no real mathematical applications",
+              "It can prove certain results must be true without exhaustively checking every possibility"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Water Purification and Treatment",
+        "summary": "Grade 10 Science strand: water purification uses physical and chemical processes such as filtration, coagulation, and disinfection to remove contaminants, pathogens, and particulates from water, making it safe for human consumption and other uses.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is the main goal of water purification?",
+            "options": [
+              "To eliminate water entirely from a supply system",
+              "To convert all water into a solid state",
+              "To add as many impurities to water as possible",
+              "To remove contaminants, pathogens, and particulates from water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What process uses a physical barrier to remove larger particles from water?",
+            "options": [
+              "Sublimation",
+              "Titration",
+              "Combustion",
+              "Filtration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is coagulation used for in water treatment?",
+            "options": [
+              "Clumping together small particles so they can be more easily removed",
+              "Increasing the temperature of the water rapidly",
+              "Removing all oxygen from the water supply",
+              "Adding colour to clear water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the purpose of disinfection in water treatment?",
+            "options": [
+              "To remove all minerals from the water permanently",
+              "To kill or inactivate harmful pathogens in the water",
+              "To make the water less safe to drink",
+              "To add more bacteria to the water supply"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is safe drinking water treatment important for public health?",
+            "options": [
+              "It has no effect on human health at all",
+              "It is only relevant in areas with no population",
+              "It helps prevent the spread of waterborne diseases",
+              "It always increases the risk of illness"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Old Age Pensions Act of 1927",
+        "summary": "Grade 10 History strand: the Old Age Pensions Act of 1927 established Canadas first federal old age pension program, providing modest, means-tested financial support to low-income seniors and marking an early step toward the modern Canadian social welfare system.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the Old Age Pensions Act passed?",
+            "options": [
+              "1927",
+              "1905",
+              "1867",
+              "1949"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Old Age Pensions Act establish?",
+            "options": [
+              "A national healthcare system for all Canadians",
+              "A national unemployment insurance program",
+              "Canadas first federal old age pension program",
+              "A federal minimum wage law"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who was eligible to receive support under the original Old Age Pensions Act?",
+            "options": [
+              "Only federal government employees",
+              "Only wealthy retired business owners",
+              "All Canadians regardless of age or income",
+              "Low-income seniors, based on a means test"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Old Age Pensions Act is considered an early step toward what broader system?",
+            "options": [
+              "The modern Canadian social welfare system",
+              "The Canadian tax appeals system",
+              "The provincial court system",
+              "The Canadian military justice system"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What term describes a program that provides benefits based on an applicants income level?",
+            "options": [
+              "Privately insured only",
+              "Universally funded with no conditions",
+              "Available only to corporations",
+              "Means-tested"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 137,
+    "label": "Day 137 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Narrative Distance and Psychic Distance",
+        "summary": "Grade 10 English strand: narrative distance, sometimes called psychic distance, describes how close or removed a narrator feels from a characters inner thoughts and emotions, ranging from an intimate, close perspective to a detached, observational one.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does narrative distance describe?",
+            "options": [
+              "How close or removed a narrator feels from a characters inner thoughts and emotions",
+              "The number of pages in a chapter",
+              "The physical distance between two settings in a story",
+              "The time period in which a story is set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is another common term for narrative distance?",
+            "options": [
+              "Plot structure",
+              "Psychic distance",
+              "Dramatic irony",
+              "Rising action"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What characterizes a close narrative distance?",
+            "options": [
+              "A perspective with no connection to any character at all",
+              "A viewpoint that only reports distant historical facts",
+              "An intimate perspective that closely follows a characters inner thoughts and feelings",
+              "A narrator who never describes any emotion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What characterizes a far or detached narrative distance?",
+            "options": [
+              "An extremely close, intimate view of a single characters emotions",
+              "A more observational, removed perspective on events and characters",
+              "A total absence of any narration",
+              "A perspective that only exists in dialogue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author shift narrative distance within a text?",
+            "options": [
+              "To eliminate the need for a plot",
+              "To control how intimately readers connect with a character at different moments",
+              "To confuse readers with no clear purpose",
+              "To remove the narrator from the story entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: Related Rates",
+        "summary": "Grade 10 Math strand: related rates problems use implicit differentiation to determine how the rate of change of one quantity relates to the rate of change of another quantity, when both are connected by an equation and changing with respect to time.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What do related rates problems determine?",
+            "options": [
+              "The exact value of a single unrelated quantity",
+              "The colour of an object in a diagram",
+              "Only the area of a fixed, unchanging shape",
+              "How the rate of change of one quantity relates to the rate of change of another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What technique is central to solving related rates problems?",
+            "options": [
+              "Implicit differentiation with respect to time",
+              "Measuring an object directly with a ruler only",
+              "Basic addition of two constants",
+              "Simple counting with no equations involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a related rates problem, quantities are typically connected by ___.",
+            "options": [
+              "A relationship involving only whole numbers",
+              "No mathematical relationship at all",
+              "An equation relating the two changing quantities",
+              "A relationship that never changes over time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is time often the variable with respect to which related rates are differentiated?",
+            "options": [
+              "Because time is always held constant in these problems",
+              "Because the quantities involved are described as changing over time",
+              "Because related rates problems never involve change",
+              "Because time never appears in these problems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A classic example of a related rates problem involves ___.",
+            "options": [
+              "Finding how fast the radius of a balloon increases as it is inflated",
+              "Measuring the weight of a balloon at rest",
+              "Finding the exact colour of a balloon",
+              "Counting the total number of balloons in a room"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Superconductivity and Zero Electrical Resistance",
+        "summary": "Grade 10 Science strand: superconductivity is a phenomenon in which certain materials, when cooled below a critical temperature, conduct electricity with zero electrical resistance, allowing current to flow without energy loss and enabling powerful applications like magnetic levitation.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What defines a superconducting material?",
+            "options": [
+              "It always resists electrical current completely at every temperature",
+              "It only conducts electricity at extremely high temperatures",
+              "It never conducts electricity under any condition",
+              "It conducts electricity with zero electrical resistance below a critical temperature"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition must typically be met for a material to become superconducting?",
+            "options": [
+              "The material must be cooled below a critical temperature",
+              "The material must be heated to an extremely high temperature",
+              "The material must be exposed to direct sunlight",
+              "The material must be placed in a vacuum with no other conditions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to electrical energy loss in a superconductor carrying current?",
+            "options": [
+              "All electrical energy is instantly converted to heat",
+              "Energy loss increases dramatically",
+              "Energy loss remains exactly the same as in a normal conductor",
+              "Energy loss from resistance is eliminated"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which application relies on the properties of superconductivity?",
+            "options": [
+              "Basic wooden furniture construction",
+              "Ordinary incandescent light bulbs",
+              "Simple mechanical pulleys with no electricity involved",
+              "Magnetic levitation systems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is superconductivity considered scientifically significant?",
+            "options": [
+              "It eliminates the need for electricity entirely",
+              "It has no practical or scientific significance at all",
+              "It allows electrical current to flow without the energy losses seen in normal conductors",
+              "It only occurs in materials that cannot conduct electricity"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Canadian Radio Broadcasting Act and the Founding of the CBC",
+        "summary": "Grade 10 History strand: the Canadian Radio Broadcasting Act of 1932 created a national public broadcaster to counter growing American radio influence and unify the country through shared programming, a role later expanded when the Canadian Broadcasting Corporation was formally established in 1936.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Canadian Radio Broadcasting Act of 1932 create?",
+            "options": [
+              "A national public broadcaster",
+              "A new national police force",
+              "A national railway system",
+              "A federal income tax"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did the federal government establish a national public broadcaster?",
+            "options": [
+              "To eliminate all radio broadcasting in Canada permanently",
+              "To counter growing American radio influence and unify the country through shared programming",
+              "To fund the construction of a national railway",
+              "To transfer all broadcasting control to private American companies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year was the Canadian Broadcasting Corporation formally established?",
+            "options": [
+              "1905",
+              "1936",
+              "1949",
+              "1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What common national concern motivated the creation of a public broadcaster in the 1930s?",
+            "options": [
+              "Concern that American radio signals were dominating Canadian audiences",
+              "A dispute over provincial voting rights",
+              "A lack of any interest in radio technology",
+              "A shortage of newspapers across the country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The founding of the CBC reflects a broader theme of which era in Canadian history?",
+            "options": [
+              "Efforts to strengthen Canadian cultural identity and institutions",
+              "The complete rejection of all modern technology",
+              "A return to exclusively British-run institutions",
+              "The end of federal government involvement in communications"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "label": "Day 138 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Abstract and Executive Summary",
+        "summary": "Grade 10 English strand: an abstract or executive summary is a concise overview placed at the start of a longer document that summarizes its purpose, key findings, and conclusions, allowing readers to quickly understand the content without reading the entire text.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is the main purpose of an abstract or executive summary?",
+            "options": [
+              "To replace the entire document with no other content needed",
+              "To introduce unrelated information not found in the document",
+              "To provide a detailed, page-by-page retelling of the document",
+              "To provide a concise overview of a longer documents purpose, findings, and conclusions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where is an abstract or executive summary typically placed in a document?",
+            "options": [
+              "At the start of the document",
+              "Only in a separate, unrelated document",
+              "Only in a footnote at the very end",
+              "Scattered randomly throughout the middle of the text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do readers value a well-written abstract or executive summary?",
+            "options": [
+              "It intentionally omits the main purpose of the document",
+              "It forces them to read the full document twice",
+              "It allows them to quickly understand the content without reading the entire text",
+              "It removes the need for the document to have any conclusion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following should typically be included in an abstract?",
+            "options": [
+              "Only unrelated personal opinions",
+              "The key findings and conclusions of the document",
+              "Advertisements unrelated to the documents topic",
+              "A list of every sentence in the original document"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should an abstract or executive summary be concise?",
+            "options": [
+              "So readers can grasp the essential content efficiently before deciding to read further",
+              "Because conciseness prevents any information from being understood",
+              "Because it must always be longer than the original document",
+              "Because concise writing has no value in professional communication"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Diophantine Equations",
+        "summary": "Grade 10 Math strand: a Diophantine equation is a polynomial equation for which only integer solutions are sought, a concept named after the ancient mathematician Diophantus that connects algebra and number theory in problems ranging from simple linear equations to complex modern applications.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What distinguishes a Diophantine equation from a typical algebraic equation?",
+            "options": [
+              "A Diophantine equation only allows decimal solutions",
+              "A Diophantine equation can never be solved",
+              "A Diophantine equation has no variables at all",
+              "Only integer solutions are sought for a Diophantine equation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who is the Diophantine equation named after?",
+            "options": [
+              "The mathematician Euclid",
+              "The mathematician Pythagoras",
+              "The mathematician Fermat",
+              "The ancient mathematician Diophantus"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What branches of mathematics does the study of Diophantine equations connect?",
+            "options": [
+              "Algebra and number theory",
+              "Only basic geometry with no algebra involved",
+              "Only trigonometry with no number theory involved",
+              "Only statistics with no algebra involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is an example of a simple linear Diophantine equation?",
+            "options": [
+              "3x + 5y = 7, solved for integer x and y",
+              "An equation with no possible integer solutions defined by its structure",
+              "An equation requiring only decimal answers",
+              "A single equation with no variables"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are Diophantine equations still studied in modern mathematics?",
+            "options": [
+              "They connect to important applications, including areas of modern cryptography",
+              "They have no remaining relevance to any field",
+              "They were fully solved by ancient mathematicians with nothing left to study",
+              "They apply only to ancient historical problems with no modern use"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Wetlands and Their Ecological Role",
+        "summary": "Grade 10 Science strand: wetlands are transitional ecosystems where land is saturated with water for significant periods, supporting high biodiversity while providing critical services such as filtering pollutants, controlling floods, and storing carbon.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What defines a wetland ecosystem?",
+            "options": [
+              "Land that is always completely dry with no water present",
+              "An area made entirely of solid rock with no vegetation",
+              "A region located only at the top of a mountain",
+              "Land that is saturated with water for significant periods of time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are wetlands known for high biodiversity?",
+            "options": [
+              "They support no living organisms at all",
+              "They are entirely devoid of water and nutrients",
+              "They provide a unique habitat that supports a wide range of plant and animal species",
+              "They contain only a single species of plant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What water-related service do wetlands provide to surrounding areas?",
+            "options": [
+              "Filtering pollutants and helping control floods",
+              "Adding pollutants directly into groundwater",
+              "Increasing the risk of flooding in every case",
+              "Removing all water from a region permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do wetlands contribute to addressing climate change?",
+            "options": [
+              "They store significant amounts of carbon",
+              "They release stored carbon with no absorption at all",
+              "They only affect local temperature and nothing else",
+              "They have no relationship to carbon storage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might human development pose a threat to wetlands?",
+            "options": [
+              "Wetlands are unaffected by any human activity",
+              "Wetlands cannot be altered by construction of any kind",
+              "Draining or building over wetlands can destroy their unique ecological functions",
+              "Human development always improves wetland health"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Newfoundland and the Commission of Government of 1934",
+        "summary": "Grade 10 History strand: facing financial collapse during the Great Depression, the Dominion of Newfoundland suspended its own self-government in 1934 and was administered by an appointed Commission of Government under British oversight until Newfoundland eventually joined Canada in 1949.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Why did Newfoundland suspend its self-government in 1934?",
+            "options": [
+              "It had discovered a large new source of wealth",
+              "It had just won a major war",
+              "It had just joined Confederation",
+              "It faced financial collapse during the Great Depression"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What replaced Newfoundlands elected government in 1934?",
+            "options": [
+              "A newly elected democratic parliament",
+              "An appointed Commission of Government under British oversight",
+              "A government run entirely by the United States",
+              "An immediate merger with the province of Quebec"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was Newfoundlands political status before 1934?",
+            "options": [
+              "A Canadian province",
+              "A self-governing Dominion",
+              "An independent republic with no ties to Britain",
+              "A colony of France"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What eventually happened to Newfoundland after this period of commission government?",
+            "options": [
+              "It remained under commission government indefinitely with no change",
+              "It became fully independent with no ties to any nation",
+              "It joined Canada as a province in 1949",
+              "It was annexed permanently by the United States"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Commission of Government period illustrates the impact of which global economic event?",
+            "options": [
+              "The Great Depression",
+              "World War I",
+              "The Klondike Gold Rush",
+              "The 1918-1920 Spanish Flu Pandemic"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 139,
+    "label": "Day 139 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Doppelganger Motif in Fiction",
+        "summary": "Grade 10 English strand: a doppelganger is a characters double or look-alike, often representing a hidden or opposing side of the original characters personality, and the motif is frequently used to explore themes of identity, morality, and psychological duality.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a doppelganger in literature?",
+            "options": [
+              "A setting that changes throughout a story",
+              "A minor character who never returns after one scene",
+              "A characters double or look-alike",
+              "A narrator who addresses the reader directly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a doppelganger often represent in a text?",
+            "options": [
+              "A change in the storys physical setting",
+              "A completely unrelated character with no connection to the protagonist",
+              "A hidden or opposing side of the original characters personality",
+              "A summary of the entire plot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which theme is the doppelganger motif frequently used to explore?",
+            "options": [
+              "The chronology of historical events",
+              "The geography of a fictional country",
+              "The economics of a fictional marketplace",
+              "Identity and psychological duality"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author use a doppelganger to develop a character?",
+            "options": [
+              "To eliminate the need for any conflict in the story",
+              "To simplify the plot into a single, unbroken line",
+              "To avoid developing the main character at all",
+              "To externalize inner conflict or hidden aspects of the characters identity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The doppelganger motif often creates a sense of ___.",
+            "options": [
+              "Unease or psychological tension between the double and the original character",
+              "A purely comedic and lighthearted tone in every case",
+              "A total absence of thematic meaning",
+              "Complete comfort with no tension whatsoever"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: The Poisson Distribution",
+        "summary": "Grade 10 Math strand: the Poisson distribution models the probability of a given number of events occurring in a fixed interval of time or space, when those events happen independently and at a known constant average rate.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Poisson distribution model?",
+            "options": [
+              "The exact height of a geometric shape",
+              "The probability of an event that never occurs",
+              "The probability of a given number of events occurring in a fixed interval of time or space",
+              "The area under a straight line only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What condition must the events satisfy for a Poisson distribution to apply?",
+            "options": [
+              "The events must be entirely dependent on one another",
+              "The events must occur independently and at a known constant average rate",
+              "The events must occur with no defined average rate at all",
+              "The events must always occur at the exact same instant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is a typical real-world example modeled by a Poisson distribution?",
+            "options": [
+              "The number of customer arrivals at a store in one hour",
+              "The colour of a randomly selected object",
+              "The temperature of a room at a single moment",
+              "The exact height of a single building"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the Poisson distribution differ from the binomial distribution?",
+            "options": [
+              "The binomial distribution cannot be used to model any real event",
+              "The Poisson distribution models counts of events over a continuous interval rather than a fixed number of trials",
+              "The Poisson distribution only applies to exactly two possible outcomes",
+              "The two distributions are mathematically identical in every way"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the average rate parameter important in a Poisson distribution?",
+            "options": [
+              "It has no effect on the resulting probabilities",
+              "It only matters when the average rate equals zero",
+              "It replaces the need for any probability calculation",
+              "It determines the expected number of events in the given interval"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Bioluminescence in Living Organisms",
+        "summary": "Grade 10 Science strand: bioluminescence is the production of light by a living organism through a chemical reaction, most commonly involving the molecule luciferin and the enzyme luciferase, and is used by many marine and terrestrial species for communication, predation, or defense.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "A permanent change in an organisms skeletal structure",
+              "The absorption of light by a completely inanimate object",
+              "The production of light by a living organism through a chemical reaction",
+              "A process found only in plants with no animals involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which molecule is most commonly involved in producing bioluminescent light?",
+            "options": [
+              "Hemoglobin",
+              "Luciferin",
+              "Glucose",
+              "Chlorophyll"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role does the enzyme luciferase play in bioluminescence?",
+            "options": [
+              "It has no connection to light production at all",
+              "It converts light directly into heat with no reaction involved",
+              "It catalyzes the chemical reaction that produces light",
+              "It prevents any chemical reaction from occurring"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which environment is well known for a high number of bioluminescent species?",
+            "options": [
+              "The surface of the moon",
+              "The deep ocean",
+              "A completely dry desert with no other adaptations",
+              "The inside of a volcano"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one reason organisms use bioluminescence?",
+            "options": [
+              "To attract prey, communicate, or deter predators",
+              "To permanently blind themselves with no other purpose",
+              "To increase their body temperature significantly",
+              "To eliminate their need for any other senses"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of the Bank of Canada in 1934-1935",
+        "summary": "Grade 10 History strand: the Bank of Canada was established through legislation passed in 1934 and began operations in 1935 as the countrys central bank, tasked with managing monetary policy, issuing currency, and stabilizing the economy in the aftermath of the Great Depression.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "When did the Bank of Canada begin operations?",
+            "options": [
+              "1935",
+              "1949",
+              "1867",
+              "1905"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role does the Bank of Canada serve?",
+            "options": [
+              "It functions as a provincial tax collection agency",
+              "It functions as a private commercial bank only",
+              "It functions as a national railway company",
+              "It functions as the countrys central bank"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What economic crisis contributed to the founding of the Bank of Canada?",
+            "options": [
+              "World War I",
+              "The 1918-1920 Spanish Flu Pandemic",
+              "The Great Depression",
+              "The Klondike Gold Rush"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is a key responsibility of the Bank of Canada?",
+            "options": [
+              "Building and maintaining national highways",
+              "Operating public schools across the country",
+              "Managing monetary policy and issuing currency",
+              "Administering provincial elections"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country establish a central bank during a major economic crisis?",
+            "options": [
+              "To help stabilize the economy through coordinated monetary policy",
+              "To transfer all economic control to a foreign government",
+              "To ensure that no economic policy is ever coordinated nationally",
+              "To eliminate the need for any currency at all"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 140,
+    "label": "Day 140 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Grammar, Rhetoric, and Contemporary Literacy",
+        "summary": "Grade 10 English strand review: students revisit correlative conjunctions, extended metaphor and conceit, the public service announcement, utopian fiction, clickbait and the attention economy, absolute phrases, narrative distance, the abstract and executive summary, and the doppelganger motif.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a correlative conjunction?",
+            "options": [
+              "A word that replaces a noun entirely",
+              "A single word that ends a sentence",
+              "A paired word set that links balanced words, phrases, or clauses",
+              "A punctuation mark used in dialogue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a conceit in literary terms?",
+            "options": [
+              "A type of rhyme scheme",
+              "A grammatical error in a poem",
+              "A short simile used only once",
+              "An especially elaborate or unconventional extended metaphor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is clickbait?",
+            "options": [
+              "A method of fact-checking a news article",
+              "Headlines or content designed primarily to attract clicks rather than inform accurately",
+              "A grammatical structure used in headlines only",
+              "A type of formal citation used in academic essays"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does an absolute phrase typically consist of?",
+            "options": [
+              "A single adjective with no noun",
+              "A noun followed by a participle or modifier",
+              "A complete independent clause only",
+              "A verb followed directly by a conjunction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a doppelganger in literature?",
+            "options": [
+              "A setting that changes throughout a story",
+              "A narrator who addresses the reader directly",
+              "A characters double or look-alike",
+              "A minor character who never returns after one scene"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Calculus, Number Theory, and Advanced Concepts",
+        "summary": "Grade 10 Math strand review: students revisit the chain rule, Fermats Little Theorem, confidence intervals, implicit differentiation, polar coordinates, the pigeonhole principle, related rates, Diophantine equations, and the Poisson distribution.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the chain rule allow you to differentiate?",
+            "options": [
+              "Only whole numbers with no variables",
+              "Only a single constant term",
+              "A composite function, one function nested inside another",
+              "Only a sum of two unrelated functions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What condition must p satisfy in Fermats Little Theorem?",
+            "options": [
+              "p must be an even number only",
+              "p must be a perfect square",
+              "p must be equal to zero",
+              "p must be a prime number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a confidence interval estimate?",
+            "options": [
+              "A single number with no range at all",
+              "The size of a sample only",
+              "A range of values likely to contain the true population parameter",
+              "The exact value of a population parameter with total certainty"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the pigeonhole principle state?",
+            "options": [
+              "Every container must hold exactly one item at all times",
+              "No container can ever hold more than one item",
+              "If more items are placed into containers than there are containers, at least one container holds more than one item",
+              "The number of items must always equal the number of containers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Poisson distribution model?",
+            "options": [
+              "The area under a straight line only",
+              "The probability of a given number of events occurring in a fixed interval of time or space",
+              "The exact height of a geometric shape",
+              "The probability of an event that never occurs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Cell Processes, Chemistry, and Earth Systems",
+        "summary": "Grade 10 Science strand review: students revisit osmosis and diffusion, chromatography, aerodynamics and the physics of flight, sinkholes and karst topography, vaccines and immunization, water purification, superconductivity, wetlands, and bioluminescence.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "A process that occurs only in solids",
+              "The movement of particles from an area of higher concentration to lower concentration",
+              "A process requiring the cell to use energy at all times",
+              "The movement of particles only against a concentration gradient"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main purpose of chromatography?",
+            "options": [
+              "To combine several substances into a single compound",
+              "To separate the components of a mixture",
+              "To measure the temperature of a solution",
+              "To determine the mass of a solid object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the four key forces involved in flight?",
+            "options": [
+              "Only speed and mass",
+              "Lift, weight, thrust, and drag",
+              "Only gravity and friction",
+              "Only temperature and pressure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What defines a superconducting material?",
+            "options": [
+              "It only conducts electricity at extremely high temperatures",
+              "It never conducts electricity under any condition",
+              "It always resists electrical current completely at every temperature",
+              "It conducts electricity with zero electrical resistance below a critical temperature"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "The absorption of light by a completely inanimate object",
+              "The production of light by a living organism through a chemical reaction",
+              "A process found only in plants with no animals involved",
+              "A permanent change in an organisms skeletal structure"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: Institution-Building in Early Twentieth-Century Canada",
+        "summary": "Grade 10 History strand review: students revisit the founding of the North-West Mounted Police, the Naval Aid Bill, the Income War Tax Act of 1917, the formation of Canadian National Railways, the founding of the United Church of Canada, the Old Age Pensions Act, the founding of the CBC, Newfoundlands Commission of Government, and the founding of the Bank of Canada.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the North-West Mounted Police established?",
+            "options": [
+              "1905",
+              "1949",
+              "1873",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the Naval Aid Bill propose to fund?",
+            "options": [
+              "A national system of highways",
+              "A new Canadian air force",
+              "British dreadnoughts directly instead of building a Canadian navy",
+              "The construction of the Canadian Pacific Railway"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the original stated purpose of the Income War Tax Act?",
+            "options": [
+              "A tax designed to fund the Canadian Pacific Railway",
+              "A permanent replacement for all provincial taxes",
+              "A temporary wartime measure to help fund Canadas participation in World War I",
+              "A tax created to fund Confederation celebrations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the Old Age Pensions Act establish?",
+            "options": [
+              "Canadas first federal old age pension program",
+              "A federal minimum wage law",
+              "A national healthcare system for all Canadians",
+              "A national unemployment insurance program"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role does the Bank of Canada serve?",
+            "options": [
+              "It functions as a national railway company",
+              "It functions as the countrys central bank",
+              "It functions as a provincial tax collection agency",
+              "It functions as a private commercial bank only"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
