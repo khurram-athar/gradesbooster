@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Using Semicolons and Colons", summary:"Ontario Grade 6 Writing strand: a semicolon can join two closely related independent clauses, while a colon introduces a list, explanation, or example following a complete sentence.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=8gqUvOpcFbo",
    quiz:[
      {q:"A semicolon can be used to ___.", options:["Begin every sentence","Replace all commas in a sentence","Join two closely related independent clauses","End a sentence permanently"], answer:2},
      {q:"A colon is often used to ___.", options:["Begin a sentence","Introduce a list or explanation after a complete sentence","Replace a period at random points","Separate unrelated ideas with no connection"], answer:1},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Divisibility Rules and Prime Factorization", summary:"Ontario Grade 6 Number strand: divisibility rules help quickly determine if a number can be evenly divided by another, and prime factorization breaks a number down into the prime numbers that multiply to form it.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=WZWKJG9fxnU",
    quiz:[
      {q:"Which divisibility rule correctly applies to the number 2?", options:["A number is divisible by 2 if it ends in 5","A number is divisible by 2 if its last digit is even","There is no rule for divisibility by 2","A number is divisible by 2 only if it is odd"], answer:1},
      {q:"Which divisibility rule correctly applies to the number 5?", options:["There is no rule for divisibility by 5","A number is divisible by 5 if it ends in 2 or 4","A number is divisible by 5 if it ends in 0 or 5","A number is divisible by 5 if it is even"], answer:2},
@@ -1586,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Globalization and Its Effects on Canada", summary:"Ontario Grade 6 Social Studies People and Environments strand: globalization is the increasing connection between countries through trade, technology, and culture, which affects Canada’s economy and daily life in various ways.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=IoN71vnK-ZM",
    quiz:[
      {q:"Globalization refers to ___.", options:["Nothing related to international connections","A decrease in international trade","The increasing connection between countries through trade and technology","Countries becoming completely isolated from each other"], answer:2},
      {q:"Which is an example of globalization’s effect on Canada?", options:["Complete isolation from world markets","A total absence of foreign products","Access to products manufactured in other countries","No connection to international trade"], answer:2},

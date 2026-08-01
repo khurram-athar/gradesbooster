@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Media Literacy: Analyzing Advertisements", summary:"Ontario Grade 5 Media Literacy strand: analyzing advertisements involves identifying the intended audience, the persuasive techniques used, and the underlying message the advertiser wants viewers to believe.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=R4ROoMKMij0",
    quiz:[
      {q:"When analyzing an advertisement, it is useful to consider ___.", options:["The intended audience and persuasive techniques used","Nothing beyond the product name","Only the colours used","The length of the advertisement only"], answer:0},
      {q:"The intended audience of an advertisement refers to ___.", options:["Random unrelated viewers only","The advertiser’s competitors","The group of people the ad is designed to appeal to","People who dislike the product"], answer:2},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Converting Units of Measurement", summary:"Ontario Grade 5 Measurement strand: converting between metric units, such as centimetres to metres or grams to kilograms, involves multiplying or dividing by powers of ten based on the relationship between the units.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Q-O1HeobVEs",
    quiz:[
      {q:"How many centimetres are in 1 metre?", options:["100","1","10","1,000"], answer:0},
      {q:"How many grams are in 1 kilogram?", options:["10","10,000","100","1,000"], answer:3},

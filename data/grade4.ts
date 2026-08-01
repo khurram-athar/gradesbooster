@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Media Literacy: Advertising Techniques", summary:"Ontario Grade 4 Media Literacy strand: advertisers use techniques such as emotional appeals, celebrity endorsements, and repetition to persuade audiences to buy products or believe messages.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=uUss3kgVoes",
    quiz:[
      {q:"An emotional appeal in advertising tries to ___.", options:["Only use plain black-and-white text","Persuade by triggering feelings like excitement or happiness","Avoid influencing the audience at all","Present only statistics"], answer:1},
      {q:"A celebrity endorsement in an ad means ___.", options:["A famous person promotes the product","Only scientists appear in the ad","The ad contains no persuasive elements","The product has no advertising at all"], answer:0},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterning: Input-Output Tables", summary:"Ontario Grade 4 Algebra strand: an input-output table shows how a rule transforms an input number into an output number, helping students identify and apply numeric rules.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=d1COIcRoSgo",
    quiz:[
      {q:"If the rule is add 5, what is the output when the input is 3?", options:["5","15","3","8"], answer:3},
      {q:"If the rule is multiply by 2, what is the output when the input is 6?", options:["3","12","6","8"], answer:1},
@@ -1576,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Light: Absorption and Colour", summary:"Ontario Grade 4 Science Matter and Energy strand: objects appear a certain colour based on which wavelengths of light they reflect and which they absorb; a black object absorbs most light, while a white object reflects most light.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=VwNKPgo3oxA",
    quiz:[
      {q:"A black object appears black because it ___ most light.", options:["Reflects","Ignores","Absorbs","Creates"], answer:2},
      {q:"A white object appears white because it ___ most light.", options:["Blocks completely","Reflects","Destroys","Absorbs"], answer:1},
@@ -1585,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Landforms and Bodies of Water in Canada", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada contains diverse landforms and bodies of water, including mountains, plains, rivers, and lakes, such as the Great Lakes and the St. Lawrence River.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=v0hDMIfPkUA",
    quiz:[
      {q:"Which are the five connected lakes on the Canada-United States border?", options:["The Arctic Lakes","The Prairie Lakes","The Rocky Lakes","The Great Lakes"], answer:3},
      {q:"The St. Lawrence River is important because it ___.", options:["Is located entirely in another country","Is a small, unused stream","Connects the Great Lakes to the Atlantic Ocean, supporting trade and travel","Has no significance to Canada"], answer:2},

@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Style and Voice in Writing", summary:"Grade 8 Writing strand: style and voice refer to the distinctive way a writer expresses ideas, shaped by choices in word choice, sentence structure, and tone, giving writing its own unique personality.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=_8qmD4khbRQ",
    quiz:[
      {q:"Voice in writing refers to ___.", options:["The distinctive personality and expression of a writer","The exact number of words in a sentence","A type of punctuation mark","A rule about verb tense"], answer:0},
      {q:"Style in writing is shaped by choices such as ___.", options:["Word choice, sentence structure, and tone","Only the colour of ink used","The page number of a piece of writing","A factor unrelated to language choices"], answer:0},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Systems: Classifying Real Numbers", summary:"Grade 8 Number strand (pre-high-school extension): real numbers include natural numbers, whole numbers, integers, rational numbers, and irrational numbers, each nested within broader categories.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=kfEMnEOstRI",
    quiz:[
      {q:"Which set of numbers includes both positive and negative whole numbers, along with zero?", options:["Natural numbers","Irrational numbers only","Integers","A set unrelated to whole numbers"], answer:2},
      {q:"A rational number can always be expressed as ___.", options:["A fraction of two integers","A number unrelated to fractions","Only a whole number with no fractions allowed","A number that cannot be written as a fraction"], answer:0},
@@ -1576,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nanotechnology: An Introduction", summary:"Grade 8 Science and Technology strand: nanotechnology involves designing and manipulating materials at an extremely small scale, often at the level of atoms and molecules, to create new materials and technologies.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=DAOFpgocfrg",
    quiz:[
      {q:"Nanotechnology involves working at the scale of ___.", options:["A scale unrelated to materials science","Entire planets","Large buildings","Atoms and molecules"], answer:3},
      {q:"Nanotechnology can be used to create ___.", options:["New materials with unique properties","Nothing of practical use","Materials identical to all existing ones with no changes","Objects unrelated to science or technology"], answer:0},
@@ -1583,14 +1586,15 @@ const curriculum: DayContent[] = [
      {q:"Why might scientists be interested in manipulating materials at such a small scale?", options:["This scale of research has no real applications","Materials behave identically regardless of their scale","Materials can exhibit different, sometimes improved properties at the nanoscale","Nanoscale manipulation has no scientific benefit"], answer:2},
      {q:"Why is nanotechnology considered an emerging and significant field of study?", options:["This field has no connection to modern technology","Nanotechnology has no real-world significance","It has the potential to impact many industries, from medicine to engineering","It only applies to a single, narrow application"], answer:2}
    ]},
-  {subject:"History", title:"Canada’s Peacekeeping Legacy", summary:"Grade 8 History strand: Canada developed a significant reputation for international peacekeeping in the mid-to-late 20th century, contributing personnel and resources to United Nations missions around the world.",
+  {subject:"History", title:"Lester B. Pearson and the Suez Crisis: The Birth of Canadian Peacekeeping", summary:"Grade 8 History strand: during the 1956 Suez Crisis, Canadian diplomat Lester B. Pearson proposed the first large-scale United Nations peacekeeping force, easing the conflict and earning him the Nobel Peace Prize — a moment that launched Canada's international reputation for peacekeeping.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=SDm4qX0UGe0",
    quiz:[
-     {q:"Canada developed a significant reputation for ___ during the mid-to-late 20th century.", options:["Isolating itself from world events","A role unrelated to global affairs","International peacekeeping","Avoiding all international involvement"], answer:2},
-     {q:"Canadian peacekeeping efforts have often involved contributing to ___.", options:["Only domestic Canadian issues","A group unrelated to peacekeeping","United Nations missions","No international organizations at all"], answer:2},
-     {q:"Why might Canada have developed a strong reputation for peacekeeping?", options:["Canada has never participated in any peacekeeping missions","Peacekeeping missions have no international significance","This reputation has no connection to Canadian history","Its consistent contributions of personnel and resources to international missions"], answer:3},
-     {q:"Why is Canada’s peacekeeping legacy considered an important part of its national identity?", options:["Peacekeeping has no significance to Canada’s history","It reflects a value many Canadians associate with their country’s role in the world","Canada’s international role has remained completely unknown","This legacy has no connection to Canadian identity"], answer:1},
-     {q:"Studying Canada’s peacekeeping history helps students understand ___.", options:["That peacekeeping missions never actually occurred","How Canada has positioned itself within international relations","A topic with no relevance to Canadian history","That Canada has no history of international involvement"], answer:1}
+     {q:"What international crisis in 1956 prompted Lester B. Pearson's peacekeeping proposal?", options:["The Cuban Missile Crisis","The Suez Crisis","The Korean War","The Berlin Blockade"], answer:1},
+     {q:"What did Pearson propose to help resolve the Suez Crisis?", options:["A Canadian military invasion of Egypt","An economic boycott of Britain and France","A large-scale United Nations peacekeeping force","A permanent closure of the Suez Canal"], answer:2},
+     {q:"What honour did Pearson receive for his role in resolving the crisis?", options:["The Nobel Peace Prize","The Order of Canada","A knighthood from Britain","The Victoria Cross"], answer:0},
+     {q:"How did the Suez Crisis affect Canada's international reputation?", options:["It damaged Canada's standing with Britain permanently","It had no lasting effect on how Canada was seen abroad","It helped establish Canada's reputation as a peacekeeping middle power","It ended Canada's involvement with the United Nations"], answer:2},
+     {q:"What later role did Lester B. Pearson go on to hold?", options:["Governor General of Canada","Secretary-General of the United Nations","Canada's 14th Prime Minister","Premier of Ontario"], answer:2}
    ]},
 ]},
 {day:39, label:"Day 39 — Thu", subjects:[

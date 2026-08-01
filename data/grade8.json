@@ -9111,6 +9111,7 @@
         "summary": "Grade 8 Writing strand: style and voice refer to the distinctive way a writer expresses ideas, shaped by choices in word choice, sentence structure, and tone, giving writing its own unique personality.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=_8qmD4khbRQ",
         "quiz": [
           {
             "q": "Voice in writing refers to ___.",
@@ -9170,6 +9171,7 @@
         "summary": "Grade 8 Number strand (pre-high-school extension): real numbers include natural numbers, whole numbers, integers, rational numbers, and irrational numbers, each nested within broader categories.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=kfEMnEOstRI",
         "quiz": [
           {
             "q": "Which set of numbers includes both positive and negative whole numbers, along with zero?",
@@ -9229,6 +9231,7 @@
         "summary": "Grade 8 Science and Technology strand: nanotechnology involves designing and manipulating materials at an extremely small scale, often at the level of atoms and molecules, to create new materials and technologies.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=DAOFpgocfrg",
         "quiz": [
           {
             "q": "Nanotechnology involves working at the scale of ___.",
@@ -9284,60 +9287,61 @@
       },
       {
         "subject": "History",
-        "title": "Canada’s Peacekeeping Legacy",
-        "summary": "Grade 8 History strand: Canada developed a significant reputation for international peacekeeping in the mid-to-late 20th century, contributing personnel and resources to United Nations missions around the world.",
+        "title": "Lester B. Pearson and the Suez Crisis: The Birth of Canadian Peacekeeping",
+        "summary": "Grade 8 History strand: during the 1956 Suez Crisis, Canadian diplomat Lester B. Pearson proposed the first large-scale United Nations peacekeeping force, easing the conflict and earning him the Nobel Peace Prize — a moment that launched Canada's international reputation for peacekeeping.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=SDm4qX0UGe0",
         "quiz": [
           {
-            "q": "Canada developed a significant reputation for ___ during the mid-to-late 20th century.",
+            "q": "What international crisis in 1956 prompted Lester B. Pearson's peacekeeping proposal?",
             "options": [
-              "Isolating itself from world events",
-              "A role unrelated to global affairs",
-              "International peacekeeping",
-              "Avoiding all international involvement"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Canadian peacekeeping efforts have often involved contributing to ___.",
-            "options": [
-              "Only domestic Canadian issues",
-              "A group unrelated to peacekeeping",
-              "United Nations missions",
-              "No international organizations at all"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why might Canada have developed a strong reputation for peacekeeping?",
-            "options": [
-              "Canada has never participated in any peacekeeping missions",
-              "Peacekeeping missions have no international significance",
-              "This reputation has no connection to Canadian history",
-              "Its consistent contributions of personnel and resources to international missions"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is Canada’s peacekeeping legacy considered an important part of its national identity?",
-            "options": [
-              "Peacekeeping has no significance to Canada’s history",
-              "It reflects a value many Canadians associate with their country’s role in the world",
-              "Canada’s international role has remained completely unknown",
-              "This legacy has no connection to Canadian identity"
+              "The Cuban Missile Crisis",
+              "The Suez Crisis",
+              "The Korean War",
+              "The Berlin Blockade"
             ],
             "answer": 1
           },
           {
-            "q": "Studying Canada’s peacekeeping history helps students understand ___.",
+            "q": "What did Pearson propose to help resolve the Suez Crisis?",
             "options": [
-              "That peacekeeping missions never actually occurred",
-              "How Canada has positioned itself within international relations",
-              "A topic with no relevance to Canadian history",
-              "That Canada has no history of international involvement"
+              "A Canadian military invasion of Egypt",
+              "An economic boycott of Britain and France",
+              "A large-scale United Nations peacekeeping force",
+              "A permanent closure of the Suez Canal"
             ],
-            "answer": 1
+            "answer": 2
+          },
+          {
+            "q": "What honour did Pearson receive for his role in resolving the crisis?",
+            "options": [
+              "The Nobel Peace Prize",
+              "The Order of Canada",
+              "A knighthood from Britain",
+              "The Victoria Cross"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the Suez Crisis affect Canada's international reputation?",
+            "options": [
+              "It damaged Canada's standing with Britain permanently",
+              "It had no lasting effect on how Canada was seen abroad",
+              "It helped establish Canada's reputation as a peacekeeping middle power",
+              "It ended Canada's involvement with the United Nations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What later role did Lester B. Pearson go on to hold?",
+            "options": [
+              "Governor General of Canada",
+              "Secretary-General of the United Nations",
+              "Canada's 14th Prime Minister",
+              "Premier of Ontario"
+            ],
+            "answer": 2
           }
         ]
       }

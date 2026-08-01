@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Using Passive Voice Effectively", summary:"Ontario Grade 7 Writing strand: while active voice is often clearer, passive voice can be used effectively when the focus should be on the action or receiver rather than who performed it, such as in scientific writing.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=4xS2BgkjsFg",
    quiz:[
      {q:"Passive voice can be effective when ___.", options:["Clarity is not a goal of the sentence","The focus should be on the action or receiver rather than the doer","A sentence should always hide all information","The subject must always be stated first"], answer:1},
      {q:"Which sentence uses passive voice effectively in a scientific context?", options:["I heated the solution to 100 degrees Celsius.","The solution was heated to 100 degrees Celsius.","Someone heated the solution.","The solution heats itself."], answer:1},
@@ -1567,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Sampling and Bias in Data Collection", summary:"Ontario Grade 7 Data Management strand: a sample should represent the larger population fairly, and bias in sampling occurs when certain groups are overrepresented or underrepresented, leading to inaccurate conclusions.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=X61bY8xiy0U",
    quiz:[
      {q:"A sample in statistics refers to ___.", options:["A smaller group selected to represent a larger population","A single random individual with no connection to a study","Data that has no connection to any population","The entire population being studied"], answer:0},
      {q:"Bias in sampling occurs when ___.", options:["Certain groups are overrepresented or underrepresented","No data is collected at all","Sampling always produces perfectly accurate results","Every group is represented in exact proportion to the population"], answer:0},
@@ -1576,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Astronomy: Galaxies and the Universe", summary:"Ontario Grade 7 Science Earth and Space Systems strand: a galaxy is a massive collection of stars, gas, and dust held together by gravity, and our solar system exists within the Milky Way galaxy, one of billions of galaxies in the universe.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=-N15EueUOzU",
    quiz:[
      {q:"A galaxy is best described as ___.", options:["A type of comet","A massive collection of stars, gas, and dust held together by gravity","A small cluster of rocks","A single planet"], answer:1},
      {q:"Our solar system exists within which galaxy?", options:["Andromeda","Whirlpool","The Milky Way","Triangulum"], answer:2},
@@ -1585,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Urban Planning and Sustainable Cities", summary:"Ontario Grade 7 Social Studies People and Environments strand: urban planning involves designing cities to balance housing, transportation, and green space, with sustainable cities aiming to reduce environmental impact while supporting growing populations.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ZMn-bCdThEg",
    quiz:[
      {q:"Urban planning involves designing cities to balance ___.", options:["Only building height with no other factors","A single unrelated factor","Nothing related to city design","Housing, transportation, and green space"], answer:3},
      {q:"A sustainable city aims to ___.", options:["Ignore population growth entirely","Maximize pollution and resource waste","Eliminate all green space","Reduce environmental impact while supporting its population"], answer:3},
