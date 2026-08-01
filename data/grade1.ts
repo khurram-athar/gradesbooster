@@ -1718,6 +1718,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Asking and Answering Questions About a Text", summary:"Students practise asking and answering simple questions about a story or text they have read or heard, to check their understanding of what happened.",
    resourceLabel:"YouTube: Asking and Answering Questions About a Text", resourceUrl:"https://www.youtube.com/results?search_query=Asking%20and%20Answering%20Questions%20About%20a%20Text%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=vBF_u9NhiEI",
    quiz:[
      {q:"Why do readers ask questions about a text?", options:["Questions are never helpful","To skip reading","To help them understand what they read","To confuse themselves"], answer:2},
      {q:"Which of these is a good question to ask after reading a story?", options:["What happened in the story?","What is your favourite colour?","What is the weather today?","None of these"], answer:0},
@@ -1732,6 +1733,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Money: Making Small Amounts", summary:"Students practise combining coins, such as nickels, dimes, and pennies, to make small amounts of money, such as making 15 cents using a dime and a nickel.",
    resourceLabel:"YouTube: Money: Making Small Amounts", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20Small%20Amounts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9BiJRy0g9Go",
    quiz:[
      {q:"Which coin is worth 10 cents?", options:["Dime","Penny","Quarter","Nickel"], answer:0},
      {q:"Which coin is worth 5 cents?", options:["Penny","Quarter","Dime","Nickel"], answer:3},
@@ -1746,6 +1748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Five Senses", summary:"Students review the five senses, sight, hearing, smell, taste, and touch, and the body part used for each, such as eyes for sight and ears for hearing.",
    resourceLabel:"YouTube: The Five Senses", resourceUrl:"https://www.youtube.com/results?search_query=The%20Five%20Senses%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zAwhBY9pJSk",
    quiz:[
      {q:"Which body part do we use to smell?", options:["Nose","Tongue","Eyes","Ears"], answer:0},
      {q:"Which body part do we use to taste?", options:["Nose","Tongue","Ears","Skin"], answer:1},
@@ -1760,6 +1763,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Our Capital City: Ottawa", summary:"Students learn that Ottawa is the capital city of Canada, where important government buildings, such as the Parliament Buildings, are located.",
    resourceLabel:"YouTube: Our Capital City: Ottawa", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Capital%20City%3A%20Ottawa%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=glckis9fACU",
    quiz:[
      {q:"What is the capital city of Canada?", options:["Toronto","Ottawa","Montreal","Vancouver"], answer:1},
      {q:"What important buildings are located in Ottawa?", options:["A ski resort","A fishing dock","The Parliament Buildings","A large farm"], answer:2},

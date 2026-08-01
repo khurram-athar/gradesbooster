@@ -1718,6 +1718,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Writing: My Name", summary:"Students practise writing their own first name correctly, starting with a capital letter, as an important early writing and identity skill.",
    resourceLabel:"YouTube: Writing: My Name", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20My%20Name%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=asbH9jRP9mM",
    quiz:[
      {q:"A name should always start with a ___.", options:["Lowercase letter","Symbol","Capital letter","Number"], answer:2},
      {q:"Why is it important to learn to write your own name?", options:["It helps you recognize and label your own things","It is not important","Only teachers need names","Names are only spoken, never written"], answer:0},
@@ -1732,6 +1733,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Estimation: About How Many?", summary:"Students practise estimating, or making a smart guess, about how many objects are in a group before counting to check.",
    resourceLabel:"YouTube: Estimation: About How Many?", resourceUrl:"https://www.youtube.com/results?search_query=Estimation%3A%20About%20How%20Many%3F%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=xnUkIsdvfGY",
    quiz:[
      {q:"Estimating means ___.", options:["Always guessing zero","Ignoring numbers","Making a smart guess about an amount","Counting very slowly"], answer:2},
      {q:"If a jar looks like it has about 10 candies, a good estimate might be ___.", options:["1000","1","10","0"], answer:2},
@@ -1746,6 +1748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Magnets: Attract and Repel", summary:"Students explore magnets and discover that they can pull, or attract, certain metal objects, and can also push away, or repel, other magnets.",
    resourceLabel:"YouTube: Magnets: Attract and Repel", resourceUrl:"https://www.youtube.com/results?search_query=Magnets%3A%20Attract%20and%20Repel%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7HHs98PBgk0",
    quiz:[
      {q:"What can a magnet pull toward it?", options:["Water","Paper only","Wooden blocks","Certain metal objects"], answer:3},
      {q:"When a magnet pulls an object toward it, this is called ___.", options:["Floating","Repelling","Sinking","Attracting"], answer:3},
@@ -1760,6 +1763,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Working Together: Teamwork and Cooperation", summary:"Students explore how working together, sharing jobs, and helping each other lets a group accomplish more than one person alone, both at school and at home.",
    resourceLabel:"YouTube: Working Together: Teamwork and Cooperation", resourceUrl:"https://www.youtube.com/results?search_query=Working%20Together%3A%20Teamwork%20and%20Cooperation%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yoMKc3xemPY",
    quiz:[
      {q:"What does it mean to work as a team?", options:["Ignoring others","Working alone always","Competing to be the only winner","People working together toward a shared goal"], answer:3},
      {q:"Which is an example of good teamwork?", options:["Refusing to help classmates","Sharing jobs and helping each other clean up","Taking all the toys for yourself","Ignoring group instructions"], answer:1},
