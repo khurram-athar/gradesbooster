@@ -1780,6 +1780,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Listening and Following Directions", summary:"Students practise listening carefully to simple two-step directions and following them in order, an important early literacy and classroom skill.",
    resourceLabel:"YouTube: Listening and Following Directions", resourceUrl:"https://www.youtube.com/results?search_query=Listening%20and%20Following%20Directions%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Z155TgEs8yA",
    quiz:[
      {q:"Why is it important to listen carefully to directions?", options:["It is not important","So you can follow them correctly","Only teachers need to listen","Directions are always the same"], answer:1},
      {q:"If someone says stand up then clap your hands, what should you do first?", options:["Clap your hands","Nothing","Stand up","Sit down"], answer:2},
@@ -1794,6 +1795,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Doubles: Adding a Number to Itself", summary:"Students explore doubles facts, where a number is added to itself, such as 2 plus 2 or 3 plus 3, to build quick addition fluency.",
    resourceLabel:"YouTube: Doubles: Adding a Number to Itself", resourceUrl:"https://www.youtube.com/results?search_query=Doubles%3A%20Adding%20a%20Number%20to%20Itself%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NDqbCfplYrg",
    quiz:[
      {q:"2 + 2 = ?", options:["4","6","3","5"], answer:0},
      {q:"3 + 3 = ?", options:["7","5","8","6"], answer:3},
@@ -1808,6 +1810,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rocks and Soil", summary:"Students explore rocks and soil, learning that rocks can be different sizes, colours, and textures, and that soil is made partly of tiny broken pieces of rock along with other materials.",
    resourceLabel:"YouTube: Rocks and Soil", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Soil%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=uMR5XlHuuKs",
    quiz:[
      {q:"Which of these best describes soil?", options:["A type of metal","A mix of tiny broken rock pieces and other materials","Only water","A liquid"], answer:1},
      {q:"Rocks can be different ___.", options:["Sizes, colours, and textures","Only one colour","Only round","Only one size"], answer:0},
@@ -1822,6 +1825,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Children Around the World", summary:"Students learn that children around the world go to school, play, and live in families, though homes, clothing, food, and languages may look different from place to place.",
    resourceLabel:"YouTube: Children Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Children%20Around%20the%20World%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-fvIIXexZBE",
    quiz:[
      {q:"Which is true about children all around the world?", options:["None of them go to school","They share things in common, like family and play, even though some things differ","They never have families","They are all exactly the same"], answer:1},
      {q:"Why might children in different countries speak different languages?", options:["They come from different countries and cultures","Language never changes","It is random with no reason","Only some children speak languages"], answer:0},
