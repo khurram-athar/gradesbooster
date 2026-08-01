@@ -1558,6 +1558,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Reading: Fact vs Opinion", summary:"Ontario Grade 3 Reading strand: a fact is a statement that can be proven true or false, while an opinion is a personal belief or feeling that cannot be proven.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=Z5b--ZuGUQg",
    quiz:[
      {q:"A fact is a statement that ___.", options:["Is always someone's feeling","Can be proven true or false","Cannot be checked at all","Is always false"], answer:1},
      {q:"An opinion is ___.", options:["Always agreed upon by everyone","A personal belief or feeling","A statement that can be measured exactly","The same as a fact"], answer:1},

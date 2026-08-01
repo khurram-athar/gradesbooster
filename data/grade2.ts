@@ -1718,6 +1718,7 @@ const curriculum: DayContent[] = [
 {day:38, label:"Day 38 — Wed", subjects:[
   {subject:"Language", title:"Comparing with -er and -est", summary:"Students learn that the suffixes -er and -est can be added to describing words to compare things, with -er comparing two things, as in taller, and -est comparing three or more, as in tallest.",
    resourceLabel:"YouTube: Comparing with -er and -est", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20with%20-er%20and%20-est%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AUSAHPcjR9o",
    quiz:[
      {q:"Which suffix compares exactly two things?", options:["-less","-ful","-est","-er"], answer:3},
      {q:"Which suffix compares three or more things?", options:["-er","-ful","-est","-less"], answer:2},
@@ -1732,6 +1733,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Repeating Patterns with Shapes and Numbers", summary:"Students identify and extend repeating patterns made from shapes, colours, or numbers, recognizing the core unit that repeats over and over.",
    resourceLabel:"YouTube: Repeating Patterns with Shapes and Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Repeating%20Patterns%20with%20Shapes%20and%20Numbers%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Js45cR_7wFE",
    quiz:[
      {q:"In the pattern circle, square, circle, square, ___, what comes next?", options:["Star","Triangle","Square","Circle"], answer:3},
      {q:"In the pattern 3, 6, 3, 6, 3, ___, what comes next?", options:["12","9","6","3"], answer:2},
@@ -1746,6 +1748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rocks and Soil: What the Earth is Made Of", summary:"Students learn that rocks come in many shapes, sizes, and colours, and that soil is made up of tiny broken bits of rock mixed with decayed plants and animals, which helps plants grow.",
    resourceLabel:"YouTube: Rocks and Soil: What the Earth is Made Of", resourceUrl:"https://www.youtube.com/results?search_query=Rocks%20and%20Soil%3A%20What%20the%20Earth%20is%20Made%20Of%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=k0LvQZu5odA",
    quiz:[
      {q:"What is soil made up of?", options:["Only glass","Tiny broken bits of rock mixed with decayed plants and animals","Only water","Only metal"], answer:1},
      {q:"Which of these is true about rocks?", options:["They are always tiny","They are all exactly the same","They are all soft","They come in many shapes, sizes, and colours"], answer:3},
@@ -1760,6 +1763,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Saving and Spending Money Wisely", summary:"Students learn the difference between saving money for later and spending money now, and that making thoughtful choices about money helps people reach their goals.",
    resourceLabel:"YouTube: Saving and Spending Money Wisely", resourceUrl:"https://www.youtube.com/results?search_query=Saving%20and%20Spending%20Money%20Wisely%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0W0wqqy8ct8",
    quiz:[
      {q:"What does it mean to save money?", options:["Giving all your money away","Putting money aside instead of spending it right away","Losing your money","Spending all your money right away"], answer:1},
      {q:"What does it mean to spend money?", options:["Using money to buy something","Putting money away for later","Hiding money","Throwing money away"], answer:0},
