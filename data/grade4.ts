@@ -5093,6 +5093,386 @@ const curriculum: DayContent[] = [
      {q:"What is the boreal forest?", options:["A small forest in southern Canada","A desert region","An underwater ecosystem","A vast forest region across much of northern Canada"], answer:3}
    ]},
 ]},
+{day:131, label:"Day 131 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Semicolons and Colons", summary:"Grade 4 Language strand: a semicolon can join two closely related independent clauses without a conjunction, while a colon introduces a list, explanation, or quotation.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What can a semicolon join without using a conjunction?", options:["A title and a subtitle","Two unrelated topics","A single word and a comma","Two closely related independent clauses"], answer:3},
+     {q:"Which sentence correctly uses a semicolon?", options:["I like soccer; and basketball.","I like; soccer and basketball.","I like soccer, I also; like basketball.","I like soccer; I also like basketball."], answer:3},
+     {q:"What does a colon often introduce?", options:["A new paragraph title","A single silent letter","A question mark","A list of items"], answer:3},
+     {q:"Which sentence correctly uses a colon?", options:["Bring these items a map, a compass: and water.","Bring these items: a map, a compass, and water.","Bring these items, a map: a compass, and water.","Bring: these items a map, a compass, and water."], answer:1},
+     {q:"Why might a writer choose a semicolon instead of starting a new sentence?", options:["To make the sentence shorter","Semicolons have no real purpose","To show the two ideas are closely connected","To replace all commas"], answer:2}
+   ]},
+  {subject:"Math", title:"Fractions: Subtracting Fractions with Unlike Denominators", summary:"Grade 4 Math strand: to subtract fractions with unlike denominators, students find a common denominator, rewrite each fraction as an equivalent fraction, then subtract the numerators.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What must fractions have before they can be subtracted directly?", options:["A common denominator","Different denominators","The same numerator","A common numerator"], answer:0},
+     {q:"What is 1/2 - 1/4?", options:["3/4","0","1/2","1/4"], answer:3},
+     {q:"What is 2/3 - 1/6?", options:["5/6","1/3","1/2","1/6"], answer:2},
+     {q:"What is the first step in subtracting fractions with unlike denominators?", options:["Add the fractions","Multiply the numerators","Subtract the denominators","Find a common denominator"], answer:3},
+     {q:"Why cant we subtract fraction numerators directly when denominators differ?", options:["Subtraction is impossible with fractions","Because the pieces are different sizes until denominators match","Denominators do not matter","Numerators are always equal"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Heat Transfer — Conduction, Convection, and Radiation", summary:"Grade 4 Science strand: heat moves from warmer objects to cooler ones through conduction (touching objects), convection (moving liquids or gases), and radiation (waves travelling through space).",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is conduction?", options:["Heat transfer only in liquids","Heat transfer through empty space","Heat transfer through direct contact between objects","Heat that never moves"], answer:2},
+     {q:"What is convection?", options:["Heat transfer through the movement of liquids or gases","Heat transfer through sound waves","Heat that disappears instantly","Heat transfer through solid metal only"], answer:0},
+     {q:"What is radiation in terms of heat transfer?", options:["Heat that cannot reach the Earth","Heat transfer only underwater","Heat transfer only through touching","Heat transfer through waves that can travel through empty space"], answer:3},
+     {q:"Which is an example of conduction?", options:["Warm air rising in a room","Steam escaping a kettle","Sunlight warming your skin","A metal spoon heating up in hot soup"], answer:3},
+     {q:"Why does the Sun warm the Earth even though there is empty space between them?", options:["Heat needs direct contact to travel","Heat cannot cross empty space at all","Heat can only travel through water","Heat travels from the Sun by radiation"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Byzantine Empire — An Ancient Civilization", summary:"Grade 4 Social Studies strand: the Byzantine Empire was the eastern continuation of the Roman Empire, centered on the city of Constantinople, known for its trade, architecture, and preservation of learning.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What was the Byzantine Empire a continuation of?", options:["A brand new empire with no history","The Greek city-states","The eastern Roman Empire","The ancient Egyptian empire"], answer:2},
+     {q:"What was the capital city of the Byzantine Empire?", options:["Rome","Cairo","Athens","Constantinople"], answer:3},
+     {q:"What was the Byzantine Empire known for preserving?", options:["Nothing of value","Ancient learning, art, and knowledge","Only weapons","Only farming tools"], answer:1},
+     {q:"What helped the Byzantine Empire grow wealthy?", options:["Having no cities","Avoiding all contact with other regions","Trade along important routes","Ignoring all trade opportunities"], answer:2},
+     {q:"Why is the Byzantine Empire important to study?", options:["It had no lasting influence","It shows how earlier civilizations influenced later ones","It never existed","It only affected modern Italy"], answer:1}
+   ]},
+]},
+{day:132, label:"Day 132 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Types of Conflict in Stories", summary:"Grade 4 Language strand: stories often contain a central conflict, such as character versus character, character versus self, character versus nature, or character versus society.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is a literary conflict?", options:["The title of a book","A problem or struggle a character faces","A type of punctuation","The setting of a story"], answer:1},
+     {q:"What type of conflict is character versus character?", options:["A character struggling against weather","A character struggling with their own feelings","A struggle between two characters","A character struggling against laws"], answer:2},
+     {q:"What type of conflict is character versus nature?", options:["A struggle with no cause","A struggle between a character and society","A struggle between a character and natural forces","A struggle between two friends"], answer:2},
+     {q:"What type of conflict is character versus self?", options:["A character struggling with their own thoughts or feelings","A struggle against a storm","A struggle against a government","A struggle against another character"], answer:0},
+     {q:"Why is conflict important in a story?", options:["It only appears in nonfiction","Conflict has no effect on plot","Stories cannot have conflict","It drives the plot forward and creates interest"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Introduction to Exponents", summary:"Grade 4 Math strand: an exponent shows how many times a number, called the base, is multiplied by itself, such as 2 to the third power (2 cubed) meaning 2 x 2 x 2 = 8.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What does an exponent tell you?", options:["How to divide a number","How many digits a number has","How many times a number is multiplied by itself","How many times to add a number"], answer:2},
+     {q:"What is 2 to the third power (2 x 2 x 2)?", options:["4","9","8","6"], answer:2},
+     {q:"What is 10 to the second power (10 x 10)?", options:["20","1000","10","100"], answer:3},
+     {q:"In the expression 3 to the fourth power, what is the base?", options:["4","12","3","7"], answer:2},
+     {q:"What is 4 to the second power (4 x 4)?", options:["16","20","12","8"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Seed Dispersal — How Plants Spread Their Seeds", summary:"Grade 4 Science strand: plants spread their seeds away from the parent plant through methods such as wind, water, animals, and seed pods that burst open, helping new plants grow in different locations.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Why do plants need to disperse their seeds?", options:["So new plants have room and resources to grow away from the parent plant","Seeds do not need to move","So seeds never grow into plants","So plants can stay in one exact spot forever"], answer:0},
+     {q:"Which method of seed dispersal uses moving air?", options:["Animal dispersal","Wind dispersal","Water dispersal","Explosive dispersal"], answer:1},
+     {q:"How do some seeds travel by animal?", options:["Animals never carry seeds","Seeds repel all animals","Animals destroy every seed they touch","They stick to fur or are eaten and carried elsewhere"], answer:3},
+     {q:"Which seeds are adapted for water dispersal?", options:["Seeds that are heavier than any liquid","Seeds that float, such as coconuts","Seeds that sink immediately and cannot travel","Seeds that dissolve in water"], answer:1},
+     {q:"What happens when some seed pods dry out?", options:["They turn into flowers","They disappear completely","They grow new roots instantly","They burst open and fling seeds away from the plant"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Rocky Mountains and Canadas Mountain Ranges", summary:"Grade 4 Social Studies strand: the Rocky Mountains stretch through western Canada, forming a dramatic mountain range that shapes climate, wildlife habitats, and the tourism industry in provinces such as Alberta and British Columbia.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"In which part of Canada are the Rocky Mountains located?", options:["Eastern Canada","Southern Ontario","Western Canada","Northern Canada only"], answer:2},
+     {q:"Which two provinces are closely associated with the Rocky Mountains?", options:["Ontario and Quebec","Alberta and British Columbia","Nova Scotia and New Brunswick","Manitoba and Saskatchewan"], answer:1},
+     {q:"How do mountains like the Rockies affect climate?", options:["They only exist in deserts","They make every region identical","They can block moisture and create different climates on each side","They have no effect on climate"], answer:2},
+     {q:"What industry benefits from the scenery of the Rocky Mountains?", options:["Only farming","Only fishing","Only mining","Tourism"], answer:3},
+     {q:"What kind of wildlife habitat do the Rocky Mountains provide?", options:["Desert-only habitat","Habitat for animals adapted to mountain environments","Ocean-only habitat","No habitat at all"], answer:1}
+   ]},
+]},
+{day:133, label:"Day 133 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Play Script", summary:"Grade 4 Language strand: a play script tells a story through dialogue and stage directions, organized into scenes, and is meant to be performed by actors in front of an audience.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is a play script mainly made up of?", options:["Only a list of characters","Only descriptive paragraphs","Only a summary of events","Dialogue and stage directions"], answer:3},
+     {q:"What are stage directions used for?", options:["Telling the audience the ending in advance","Telling actors how to move or what to do","Replacing all dialogue","Naming the author"], answer:1},
+     {q:"How is a play script usually organized?", options:["Into chapters only","Into stanzas","Into scenes","Into paragraphs with no divisions"], answer:2},
+     {q:"Who is a play script ultimately written to be performed by?", options:["Actors in front of an audience","No one","Only silent readers","Only the author"], answer:0},
+     {q:"Why is dialogue especially important in a play script?", options:["Plays never use dialogue","Dialogue is only used in poems","Dialogue replaces the need for actors","It is the main way the story and characters are revealed"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Surface Area of Rectangular Prisms", summary:"Grade 4 Math strand: the surface area of a rectangular prism is the total area of all six of its faces, found by calculating the area of each face and adding them together.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is surface area?", options:["The space inside a shape","The total area of all the faces of a 3D shape","The distance around a shape","The height of a shape only"], answer:1},
+     {q:"How many faces does a rectangular prism have?", options:["Six","Three","Four","Eight"], answer:0},
+     {q:"To find the surface area of a rectangular prism, you should ___.", options:["Add only two of the faces","Find the area of each face and add them together","Ignore the top and bottom faces","Multiply only the length and width once"], answer:1},
+     {q:"Why might builders need to know the surface area of a box?", options:["To find out how heavy the box is","To know how much material is needed to cover its outside","To find how loud the box is","Surface area has no real use"], answer:1},
+     {q:"If a cube has six identical square faces each with an area of 4 square units, what is its total surface area?", options:["16 square units","24 square units","4 square units","20 square units"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Symbiosis — Mutualism, Commensalism, and Parasitism", summary:"Grade 4 Science strand: symbiosis describes close relationships between different species, including mutualism where both benefit, commensalism where one benefits without harming the other, and parasitism where one benefits while harming the other.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is symbiosis?", options:["A single organism living alone","A close relationship between two different species","A type of rock formation","A weather pattern"], answer:1},
+     {q:"In mutualism, how do the two species involved benefit?", options:["Only one species benefits while harming the other","Both species benefit from the relationship","Neither species benefits","Both species are harmed"], answer:1},
+     {q:"In parasitism, what happens to the host organism?", options:["Nothing happens to either organism","It is harmed while the parasite benefits","It always benefits equally","It benefits while the parasite is harmed"], answer:1},
+     {q:"What best describes commensalism?", options:["One species always dies","Both species are harmed","Both species benefit equally","One species benefits while the other is unaffected"], answer:3},
+     {q:"Which is an example of mutualism?", options:["Bees pollinating flowers while gaining nectar","A bird building a nest with no effect on trees","A tick feeding on a dog","Two animals that never interact"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Pacific Railway — Connecting the Country", summary:"Grade 4 Social Studies strand: the Canadian Pacific Railway, completed in 1885, linked the country from coast to coast, encouraging settlement and trade, and helping fulfill a promise made to British Columbia when it joined Confederation.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What did the Canadian Pacific Railway connect?", options:["Nothing of importance","Communities from coast to coast across Canada","Canada to another country by land","Only two neighbouring cities"], answer:1},
+     {q:"In what year was the Canadian Pacific Railway completed?", options:["1900","1885","1867","1812"], answer:1},
+     {q:"Why was building the railway important for British Columbia joining Confederation?", options:["Canada promised a railway to connect BC to the rest of the country","The railway was built before BC existed","BC had no interest in railways","BC refused any transportation link"], answer:0},
+     {q:"What did the railway help encourage across Canada?", options:["Settlement and trade","The end of all trade","Fewer communities","Isolation between regions"], answer:0},
+     {q:"What kind of workers helped build the railway, including through dangerous mountain sections?", options:["Only government officials","No workers were needed","Only farmers","Labourers, including many Chinese workers"], answer:3}
+   ]},
+]},
+{day:134, label:"Day 134 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Understanding Allusion", summary:"Grade 4 Language strand: an allusion is a brief reference to a well-known person, place, event, or story that a writer expects the reader to recognize and understand.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is an allusion?", options:["A type of punctuation mark","A long detailed description","A word with no meaning","A brief reference to something well known, such as a story or event"], answer:3},
+     {q:"Why do writers use allusions?", options:["To confuse readers on purpose","Allusions are never used by writers","To avoid using any description","To quickly connect an idea to something readers already know"], answer:3},
+     {q:"If a story describes someone as strong as Hercules, what is this an allusion to?", options:["A modern celebrity","A figure from Greek mythology","A grammar rule","A scientific law"], answer:1},
+     {q:"What must a reader do to understand an allusion?", options:["Ignore the sentence completely","Recognize the reference being made","Allusions do not need to be understood","Only read the title"], answer:1},
+     {q:"Which of these could be the subject of an allusion?", options:["A famous story or historical event","A blank page","A single punctuation mark","A random made-up word"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Range as a Measure of Spread", summary:"Grade 4 Math strand: the range of a data set is found by subtracting the smallest value from the largest value, showing how spread out the data is.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is the range of a data set?", options:["The middle value","The average of all values","The difference between the largest and smallest values","The most common value"], answer:2},
+     {q:"What is the range of this data set: 4, 7, 9, 12, 15?", options:["9","15","11","4"], answer:2},
+     {q:"How do you calculate the range?", options:["Subtract the smallest value from the largest value","Add all the values together","Multiply the largest and smallest values","Count the number of values"], answer:0},
+     {q:"What does a large range suggest about a data set?", options:["The data values are spread far apart","The data set has no largest value","All the data values are identical","The data set has no smallest value"], answer:0},
+     {q:"What does a small range suggest about a data set?", options:["The data cannot be measured","The data values are spread very far apart","The data values are close together","There is no data at all"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Acids and Bases — Everyday Chemistry", summary:"Grade 4 Science strand: acids and bases are two types of substances with different properties, such as taste and reaction with litmus paper, found in many everyday items such as lemon juice and baking soda.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is a common property of acids?", options:["They never react with anything","They cannot be found in food","They always taste sweet","They often taste sour"], answer:3},
+     {q:"What colour does litmus paper turn in the presence of an acid?", options:["Green","Red","Black","Blue"], answer:1},
+     {q:"What colour does litmus paper turn in the presence of a base?", options:["Purple","Yellow","Blue","Red"], answer:2},
+     {q:"Which of these is an example of an acid found in food?", options:["Lemon juice","Baking soda","Chalk","Soap"], answer:0},
+     {q:"Which of these is an example of a common base?", options:["Vinegar","Baking soda","Orange juice","Lemon juice"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Fishing Industry", summary:"Grade 4 Social Studies strand: Canadas fishing industry harvests seafood such as salmon, lobster, and cod from coastal waters on the Atlantic and Pacific coasts, supporting coastal communities and export trade.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What does the fishing industry harvest from Canadas coastal waters?", options:["Seafood such as fish and shellfish","Only fresh vegetables","Only lumber","Only minerals"], answer:0},
+     {q:"Name one type of seafood commonly harvested in Canada.", options:["Corn","Cotton","Lobster","Wheat"], answer:2},
+     {q:"Which coasts support Canadas major fishing industries?", options:["Only the Arctic ice cap","No coasts at all","Only landlocked lakes","The Atlantic and Pacific coasts"], answer:3},
+     {q:"How does the fishing industry support coastal communities?", options:["It provides jobs and income for people living there","It replaces all other industries","It only affects inland cities","It has no effect on communities"], answer:0},
+     {q:"Why is sustainable fishing important?", options:["To ensure fish populations remain healthy for the future","Sustainability does not matter for fishing","Overfishing has no consequences","Fish populations can never be affected"], answer:0}
+   ]},
+]},
+{day:135, label:"Day 135 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Summarizing versus Paraphrasing", summary:"Grade 4 Language strand: summarizing condenses the main ideas of a text into a much shorter form, while paraphrasing restates specific information in different words without necessarily shortening it.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What does summarizing a text involve?", options:["Making the text longer","Copying the text word for word","Ignoring the main ideas","Condensing the main ideas into a much shorter form"], answer:3},
+     {q:"What does paraphrasing involve?", options:["Only using the first sentence","Removing all information","Restating information in your own words","Copying the exact original wording"], answer:2},
+     {q:"How is summarizing different from paraphrasing?", options:["Paraphrasing always copies the original words exactly","They are exactly the same skill","Summarizing shortens the overall content, while paraphrasing restates it without necessarily shortening it","Summarizing always makes text longer"], answer:2},
+     {q:"Why is it useful to summarize a long text?", options:["Summaries are never useful","It always confuses the reader","It removes the need to understand the text","It helps identify and remember the most important ideas"], answer:3},
+     {q:"When paraphrasing, why should you avoid copying the original wording?", options:["Paraphrasing means changing nothing","Copying the original wording is required","To show understanding and avoid copying someone elses exact words","Original wording is always incorrect"], answer:2}
+   ]},
+  {subject:"Math", title:"Number Sense: Roman Numerals", summary:"Grade 4 Math strand: Roman numerals use letters such as I, V, X, L, and C to represent numbers, an ancient number system still seen today on clocks, in book chapters, and in movie credits.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What does the Roman numeral X represent?", options:["1","5","10","50"], answer:2},
+     {q:"What does the Roman numeral V represent?", options:["5","10","100","1"], answer:0},
+     {q:"How is the number 4 written in Roman numerals?", options:["VI","IV","IIII","IX"], answer:1},
+     {q:"Where might you still see Roman numerals used today?", options:["Only in outer space","Nowhere in modern life","Only in ancient ruins","On clocks and in movie credits"], answer:3},
+     {q:"What does the Roman numeral L represent?", options:["50","500","5","100"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Caves and Cave Formations — Stalactites and Stalagmites", summary:"Grade 4 Science strand: caves often form when water slowly dissolves rock such as limestone, and mineral deposits left behind create formations such as stalactites hanging from the ceiling and stalagmites rising from the floor.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What type of rock is commonly dissolved by water to form caves?", options:["Limestone","Granite","Iron","Rubber"], answer:0},
+     {q:"What is a stalactite?", options:["A mineral formation hanging from a cave ceiling","A mineral formation rising from the cave floor","A type of cave animal","A type of underground river"], answer:0},
+     {q:"What is a stalagmite?", options:["A mineral formation rising from the cave floor","A kind of cave entrance","A type of rock that never forms in caves","A mineral formation hanging from the ceiling"], answer:0},
+     {q:"How do stalactites and stalagmites typically form?", options:["Mineral-rich water slowly deposits minerals over a long time","They are made of ice only","They are carved by cave explorers","They form instantly overnight"], answer:0},
+     {q:"Why can caves take thousands of years to form these features?", options:["Because rock never dissolves","Because water has no effect on rock","Because mineral deposits build up very slowly over time","Because caves form in a single day"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: National Day for Truth and Reconciliation", summary:"Grade 4 Social Studies strand: the National Day for Truth and Reconciliation, observed on September 30, honours residential school survivors and their families, and encourages learning and reflection about the history and experiences of Indigenous peoples in Canada.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"On what date is the National Day for Truth and Reconciliation observed?", options:["November 11","September 30","October 31","July 1"], answer:1},
+     {q:"What does the National Day for Truth and Reconciliation honour?", options:["A sports championship","A harvest festival","A national election","Residential school survivors, their families, and their communities"], answer:3},
+     {q:"What colour of shirt is commonly worn to mark this day?", options:["Purple","Orange","Blue","Green"], answer:1},
+     {q:"Why is learning about this history important for students?", options:["It only concerns one small region","It helps build understanding and respect for Indigenous experiences","It has no importance to Canadian history","It is not part of Canadian history"], answer:1},
+     {q:"What is one way schools mark this day?", options:["Celebrating with fireworks","Cancelling all lessons with no discussion","Ignoring the day completely","Learning about Indigenous history and holding reflective activities"], answer:3}
+   ]},
+]},
+{day:136, label:"Day 136 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Sentence Structure — Subject and Predicate", summary:"Grade 4 Language strand: every complete sentence has a subject, who or what the sentence is about, and a predicate, which tells what the subject does or is.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the subject of a sentence?", options:["The action word only","The punctuation mark","Who or what the sentence is about","The last word in the sentence"], answer:2},
+     {q:"What is the predicate of a sentence?", options:["The title of the sentence","A type of punctuation","Only the first word","The part that tells what the subject does or is"], answer:3},
+     {q:"In the sentence The dog barked loudly, what is the subject?", options:["Barked loudly","Loudly","The dog","Barked"], answer:2},
+     {q:"In the sentence The dog barked loudly, what is the predicate?", options:["Barked loudly","Dog","Loudly","The dog"], answer:0},
+     {q:"Why does a sentence need both a subject and a predicate?", options:["Sentences do not need either","Only the predicate is needed","Only the subject is needed","To express a complete thought"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Estimating Sums and Differences", summary:"Grade 4 Math strand: estimating sums and differences involves rounding numbers before adding or subtracting to quickly check whether an exact answer is reasonable.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"Why do we estimate sums and differences?", options:["To avoid using numbers","Estimating has no purpose","To quickly check whether an exact answer is reasonable","To always get the exact answer"], answer:2},
+     {q:"What is a quick estimate of 398 + 205 after rounding to the nearest hundred?", options:["600","500","700","800"], answer:0},
+     {q:"What is a quick estimate of 812 - 397 after rounding to the nearest hundred?", options:["400","300","1200","500"], answer:0},
+     {q:"What is the first step in estimating a sum or difference?", options:["Add without rounding","Round the numbers to a convenient place value","Ignore the numbers","Multiply the numbers exactly"], answer:1},
+     {q:"Why is estimating useful when shopping?", options:["It always gives the exact total","It has no real-life use","It replaces the need for money","It helps quickly check if you have enough money"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Newtons Laws of Motion — An Introduction", summary:"Grade 4 Science strand: Isaac Newtons three laws of motion describe how objects move, including that objects at rest stay at rest unless a force acts on them, and every action has an equal and opposite reaction.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"According to Newtons first law, what happens to an object at rest?", options:["It only moves in circles","It disappears","It always starts moving on its own","It stays at rest unless a force acts on it"], answer:3},
+     {q:"What does Newtons third law state?", options:["Force has no effect on motion","Objects always slow down for no reason","Objects never interact with each other","For every action there is an equal and opposite reaction"], answer:3},
+     {q:"Who is credited with developing these three laws of motion?", options:["Isaac Newton","Charles Darwin","Galileo Galilei","Albert Einstein"], answer:0},
+     {q:"What is needed to change the motion of an object, according to Newtons first law?", options:["Only gravity","A force","Nothing at all","Only sunlight"], answer:1},
+     {q:"Which is a real-life example of Newtons third law?", options:["A ball that never moves","An object floating in a vacuum with no interactions","A swimmer pushing water backward to move forward","A rock sitting still with no force"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Klondike Gold Rush", summary:"Grade 4 Social Studies strand: the Klondike Gold Rush of the late 1890s drew thousands of prospectors to the Yukon in search of gold, shaping the growth of towns such as Dawson City and the history of northern Canada.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What resource drew thousands of prospectors to the Yukon during the Klondike Gold Rush?", options:["Gold","Diamonds","Oil","Coal"], answer:0},
+     {q:"In which decade did the Klondike Gold Rush mainly take place?", options:["The 1700s","The 1600s","The 1890s","The 1950s"], answer:2},
+     {q:"Which town grew rapidly because of the Klondike Gold Rush?", options:["Halifax","Ottawa","Toronto","Dawson City"], answer:3},
+     {q:"What challenges did prospectors often face traveling to the Klondike?", options:["Harsh terrain and difficult northern conditions","Easy travel by highway","Warm tropical weather","No challenges at all"], answer:0},
+     {q:"How did the Klondike Gold Rush affect northern Canada?", options:["It had no lasting effect","It caused the region to become empty","It only affected southern Canada","It brought rapid population growth and development to the region"], answer:3}
+   ]},
+]},
+{day:137, label:"Day 137 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Regional Dialects and Word Choice", summary:"Grade 4 Language strand: a dialect is a way of speaking shared by people in a particular region or group, involving differences in word choice, pronunciation, and expressions, such as pop versus soda.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is a dialect?", options:["A way of speaking shared by people in a region or group","A single incorrect word","A type of punctuation","A grammar rule with no exceptions"], answer:0},
+     {q:"What might differ between regional dialects?", options:["Only spelling of numbers","Word choice, pronunciation, and expressions","Only capitalization rules","Nothing at all"], answer:1},
+     {q:"Which is an example of regional word choice differences?", options:["All regions use identical words for everything","Only written language has dialects","Some regions say pop while others say soda","Dialects do not affect word choice"], answer:2},
+     {q:"Why is it useful to understand different dialects?", options:["Dialects have no real purpose","It helps us communicate and understand speakers from different regions","Understanding dialects is never useful","Only one dialect is considered correct"], answer:1},
+     {q:"Is a dialect considered incorrect language?", options:["Dialects are only used in writing","No, dialects are valid ways of speaking shared by a community","Yes, dialects are always wrong","Dialects do not exist"], answer:1}
+   ]},
+  {subject:"Math", title:"Fractions: Multiplying a Fraction by a Fraction", summary:"Grade 4 Math strand: to multiply a fraction by a fraction, students multiply the numerators together and multiply the denominators together, then simplify if possible.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"How do you multiply two fractions together?", options:["Add the numerators and denominators","Only multiply the numerators","Only multiply the denominators","Multiply the numerators together and the denominators together"], answer:3},
+     {q:"What is 1/2 x 1/3?", options:["1/6","1/3","1/5","2/3"], answer:0},
+     {q:"What is 1/2 x 1/2?", options:["1/6","1/2","1/4","3/4"], answer:2},
+     {q:"What is 2/3 x 1/2?", options:["1/2","1/3","2/3","3/5"], answer:1},
+     {q:"Why does multiplying two fractions less than one usually create a smaller result?", options:["Because you are finding a fractional part of a fractional part","The result is always equal to one","Multiplication always makes numbers bigger","Fractions cannot be multiplied"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Food Groups and Healthy Eating", summary:"Grade 4 Science strand: a balanced diet includes foods from different groups, such as vegetables and fruits, grain products, protein foods, and dairy or alternatives, each providing nutrients the body needs to grow and stay healthy.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Why does the body need a variety of food groups?", options:["The body only needs one type of food","Eating a variety of foods is unnecessary","Food groups have no effect on health","Different foods provide different nutrients the body needs"], answer:3},
+     {q:"Which food group provides vitamins found in many colourful foods?", options:["Vegetables and fruits","Only sugary snacks","Only fried foods","Only candy"], answer:0},
+     {q:"Which food group provides energy through foods such as bread and rice?", options:["Only spices","Only desserts","Only fats","Grain products"], answer:3},
+     {q:"Why are protein foods important for the body?", options:["They only provide flavour","They have no function in the body","They are harmful to the body","They help build and repair muscles and tissues"], answer:3},
+     {q:"What is one benefit of eating a balanced variety of foods?", options:["Balanced eating is unnecessary for children","It has no effect on health","It helps the body grow, function, and stay healthy","It only helps with taste"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: How Provinces Make Laws — Provincial Legislatures", summary:"Grade 4 Social Studies strand: each Canadian province has its own legislature that debates and passes provincial laws on matters such as education and health care, led by a premier and elected members.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is a provincial legislature responsible for?", options:["Debating and passing provincial laws","Passing laws for other countries","Running local sports teams","Managing federal military forces"], answer:0},
+     {q:"Who typically leads a provincial government?", options:["The Prime Minister","The premier","The mayor","The Governor General"], answer:1},
+     {q:"Name one area that provincial governments often oversee.", options:["National defence","Education and health care","International treaties","Foreign trade agreements"], answer:1},
+     {q:"How are members of a provincial legislature usually chosen?", options:["Elected by voters in the province","Inherited through family","Chosen at random","Appointed by another country"], answer:0},
+     {q:"Why does Canada have both federal and provincial governments?", options:["To share responsibilities between national and regional levels","Because Canada has no federal government","To eliminate all local decision-making","Because provinces have no responsibilities"], answer:0}
+   ]},
+]},
+{day:138, label:"Day 138 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Letter to the Editor", summary:"Grade 4 Language strand: a letter to the editor expresses an opinion about a current issue in a newspaper or publication, using clear reasons and evidence to persuade readers.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the purpose of a letter to the editor?", options:["To tell a fictional story","To summarize a sports score","To give step-by-step instructions","To express an opinion about a current issue and persuade readers"], answer:3},
+     {q:"What should a letter to the editor include to be convincing?", options:["Clear reasons and evidence supporting the opinion","Only questions with no statements","Random unrelated facts","No opinion at all"], answer:0},
+     {q:"Where is a letter to the editor typically published?", options:["Nowhere at all","Only in a private diary","In a newspaper or similar publication","Only in a textbook"], answer:2},
+     {q:"What tone is usually appropriate for a letter to the editor?", options:["An angry, disrespectful tone","A respectful, clear, and persuasive tone","A completely neutral tone with no opinion","A silly, joking tone with no purpose"], answer:1},
+     {q:"Why might someone write a letter to the editor about a local issue?", options:["To raise awareness and encourage change or discussion","To copy someone elses letter exactly","To avoid sharing any opinion","Letters to the editor cannot discuss local issues"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Area of Triangles Using a Formula", summary:"Grade 4 Math strand: the area of a triangle is found using the formula base multiplied by height, divided by two, since a triangle is half of a parallelogram with the same base and height.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is the formula for finding the area of a triangle?", options:["Base multiplied by height multiplied by two","Base plus height","Base multiplied by height","Base multiplied by height, divided by two"], answer:3},
+     {q:"What is the area of a triangle with a base of 6 and a height of 4?", options:["24","10","20","12"], answer:3},
+     {q:"What is the area of a triangle with a base of 10 and a height of 5?", options:["25","50","45","15"], answer:0},
+     {q:"Why is the area of a triangle half of base times height?", options:["A triangle is half of a parallelogram with the same base and height","A triangle always has zero area","Area formulas are chosen randomly","Triangles have no relationship to parallelograms"], answer:0},
+     {q:"Which measurement is needed along with the base to find a triangles area?", options:["The height","The perimeter","The number of sides","The colour"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Comparing the Planets — Size, Distance, and Composition", summary:"Grade 4 Science strand: the eight planets in our solar system differ greatly in size, distance from the Sun, and composition, ranging from small rocky planets like Mercury to huge gas giants like Jupiter.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Which planet is the largest in our solar system?", options:["Mercury","Mars","Earth","Jupiter"], answer:3},
+     {q:"Which planet is closest to the Sun?", options:["Earth","Neptune","Mercury","Venus"], answer:2},
+     {q:"What are Mercury, Venus, Earth, and Mars often classified as?", options:["Rocky planets","Ice planets","Gas giants","Moons"], answer:0},
+     {q:"What are Jupiter and Saturn often classified as?", options:["Gas giants","Rocky planets","Asteroids","Dwarf planets"], answer:0},
+     {q:"Why do planets farther from the Sun generally take longer to orbit it?", options:["Distance has no effect on orbit time","All planets take exactly the same time to orbit","They travel a much longer path around the Sun","They move faster than closer planets"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadian Sports and National Games", summary:"Grade 4 Social Studies strand: sports such as hockey and lacrosse hold special cultural significance in Canada, with lacrosse recognized as a summer national sport rooted in Indigenous tradition and hockey deeply woven into Canadian identity.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Which sport is widely considered central to Canadian culture and identity?", options:["Sumo wrestling","Cricket","Rugby","Hockey"], answer:3},
+     {q:"Which sport is recognized as Canadas official summer national sport?", options:["Basketball","Lacrosse","Soccer","Golf"], answer:1},
+     {q:"What is the origin of lacrosse?", options:["It was invented in Europe","It has roots in Indigenous tradition","It was invented very recently","It has no historical origin"], answer:1},
+     {q:"Why are national sports significant to a country?", options:["They have no connection to culture","National sports have no significance","They can reflect shared culture, history, and identity","They are only played by professionals"], answer:2},
+     {q:"What season is hockey traditionally associated with in Canada?", options:["Winter","Spring only","Summer","Autumn only"], answer:0}
+   ]},
+]},
+{day:139, label:"Day 139 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Illustrations and Visual Elements in Non-Fiction Texts", summary:"Grade 4 Language strand: illustrations, diagrams, and photographs in non-fiction texts provide visual information that supports and extends the written words, helping readers better understand the topic.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the purpose of illustrations in a non-fiction text?", options:["To take up empty space","To replace all written words","To provide visual information that supports the written words","To confuse the reader"], answer:2},
+     {q:"What might a labelled diagram help a reader understand?", options:["Only the title of the book","Nothing useful","The parts of an object or process","Only the authors name"], answer:2},
+     {q:"Why might a photograph be included in a non-fiction text?", options:["To confuse readers on purpose","Photographs are never used in non-fiction","To replace the entire text","To show a real example related to the topic"], answer:3},
+     {q:"How should readers use illustrations alongside the text?", options:["Only look at illustrations and skip the words","Illustrations have no connection to the text","Ignore illustrations completely","Use them together with the words to build understanding"], answer:3},
+     {q:"What visual element often shows steps in a process?", options:["A diagram with numbered steps","An unrelated photograph","A blank page","A single colour with no labels"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Constructing a Histogram", summary:"Grade 4 Math strand: a histogram is a type of bar graph that displays how data is distributed across ranges of numerical values, with bars touching to show continuous data.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What does a histogram display?", options:["Only a single data point","Only the mode of a data set","How data is distributed across ranges of numerical values","Data with no numerical values"], answer:2},
+     {q:"How is a histogram different from a regular bar graph?", options:["It never uses numbers","Its bars touch to show continuous numerical ranges","It only shows categories with no ranges","Its bars are always separated by gaps"], answer:1},
+     {q:"What might the x-axis of a histogram show?", options:["Ranges of values, such as test score intervals","Only names of students","Nothing numerical","Only colours"], answer:0},
+     {q:"What might the y-axis of a histogram show?", options:["Nothing useful","The frequency, or how many data points fall in each range","The title of the graph","The exact value of a single point"], answer:1},
+     {q:"Why are histograms useful for large data sets?", options:["They hide all patterns in the data","They can only show two data points","They are never used with numerical data","They show patterns and distribution at a glance"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Teeth and Dental Health", summary:"Grade 4 Science strand: humans have different types of teeth, including incisors, canines, and molars, each shaped for a different job in biting and chewing food, and healthy habits help protect teeth from decay.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What job do incisors do?", options:["Digesting food","Grinding food","Cutting food","Tearing food only"], answer:2},
+     {q:"What job do molars do?", options:["Sensing taste","Grinding and chewing food","Producing saliva","Cutting food only"], answer:1},
+     {q:"What job do canine teeth do?", options:["Digesting food","Producing enamel","Tearing food","Grinding food"], answer:2},
+     {q:"What outer layer protects teeth from damage?", options:["Bone","Enamel","Muscle","Cartilage"], answer:1},
+     {q:"Which habit helps prevent tooth decay?", options:["Brushing teeth regularly and reducing sugary foods","Eating sugary snacks constantly","Never brushing teeth","Avoiding all dental checkups"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of the Lieutenant Governor", summary:"Grade 4 Social Studies strand: the Lieutenant Governor is the representative of the Crown at the provincial level, performing ceremonial duties and formally granting royal assent to provincial laws.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Who does the Lieutenant Governor represent at the provincial level?", options:["The Crown","A foreign government","The Prime Minister","The United Nations"], answer:0},
+     {q:"What must a provincial bill receive from the Lieutenant Governor to become law?", options:["A court ruling","A public vote only","A newspaper announcement","Royal assent"], answer:3},
+     {q:"What type of duties does the Lieutenant Governor often perform?", options:["Coaching sports teams","Running a business","Ceremonial duties","Managing a citys police force"], answer:2},
+     {q:"How does the role of Lieutenant Governor compare to the Governor General?", options:["They are exactly the same job with the same title","The Lieutenant Governor governs another country","It is a similar role but at the provincial level instead of the federal level","The Lieutenant Governor has no connection to the Crown"], answer:2},
+     {q:"Why does Canada have a Lieutenant Governor in each province?", options:["To represent the Crown and perform formal duties provincially","To replace the premier entirely","To manage international trade only","Provinces have no need for this role"], answer:0}
+   ]},
+]},
+{day:140, label:"Day 140 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Reading, and Writing Forms", summary:"Grade 4 Language strand review: students revisit semicolons and colons, types of conflict, play scripts, allusion, and summarizing versus paraphrasing.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What can a semicolon join without using a conjunction?", options:["Two unrelated topics","A single word and a comma","Two closely related independent clauses","A title and a subtitle"], answer:2},
+     {q:"What is a literary conflict?", options:["A type of punctuation","The title of a book","The setting of a story","A problem or struggle a character faces"], answer:3},
+     {q:"What is a play script mainly made up of?", options:["Only a list of characters","Dialogue and stage directions","Only a summary of events","Only descriptive paragraphs"], answer:1},
+     {q:"What is an allusion?", options:["A word with no meaning","A brief reference to something well known, such as a story or event","A long detailed description","A type of punctuation mark"], answer:1},
+     {q:"What does summarizing a text involve?", options:["Ignoring the main ideas","Making the text longer","Condensing the main ideas into a much shorter form","Copying the text word for word"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Fractions, Number Sense, and Geometry", summary:"Grade 4 Math strand review: students revisit subtracting fractions with unlike denominators, exponents, surface area, range, and Roman numerals.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What must fractions have before they can be subtracted directly?", options:["Different denominators","The same numerator","A common denominator","A common numerator"], answer:2},
+     {q:"What does an exponent tell you?", options:["How many digits a number has","How many times to add a number","How to divide a number","How many times a number is multiplied by itself"], answer:3},
+     {q:"What is surface area?", options:["The distance around a shape","The height of a shape only","The total area of all the faces of a 3D shape","The space inside a shape"], answer:2},
+     {q:"What is the range of a data set?", options:["The average of all values","The most common value","The difference between the largest and smallest values","The middle value"], answer:2},
+     {q:"What does the Roman numeral X represent?", options:["1","10","5","50"], answer:1}
+   ]},
+  {subject:"Science", title:"Science Review: Heat, Life Science, and Chemistry", summary:"Grade 4 Science strand review: students revisit heat transfer, seed dispersal, symbiosis, acids and bases, and cave formations.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is conduction?", options:["Heat transfer only in liquids","Heat transfer through direct contact between objects","Heat that never moves","Heat transfer through empty space"], answer:1},
+     {q:"Why do plants need to disperse their seeds?", options:["So seeds never grow into plants","So new plants have room and resources to grow away from the parent plant","So plants can stay in one exact spot forever","Seeds do not need to move"], answer:1},
+     {q:"What is symbiosis?", options:["A single organism living alone","A close relationship between two different species","A type of rock formation","A weather pattern"], answer:1},
+     {q:"What is a common property of acids?", options:["They never react with anything","They cannot be found in food","They always taste sweet","They often taste sour"], answer:3},
+     {q:"What type of rock is commonly dissolved by water to form caves?", options:["Granite","Limestone","Iron","Rubber"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Ancient Civilizations, Geography, and Canadian History", summary:"Grade 4 Social Studies strand review: students revisit the Byzantine Empire, the Rocky Mountains, the Canadian Pacific Railway, Canadas fishing industry, and the National Day for Truth and Reconciliation.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What was the Byzantine Empire a continuation of?", options:["The ancient Egyptian empire","The Greek city-states","The eastern Roman Empire","A brand new empire with no history"], answer:2},
+     {q:"In which part of Canada are the Rocky Mountains located?", options:["Southern Ontario","Eastern Canada","Western Canada","Northern Canada only"], answer:2},
+     {q:"What did the Canadian Pacific Railway connect?", options:["Canada to another country by land","Only two neighbouring cities","Communities from coast to coast across Canada","Nothing of importance"], answer:2},
+     {q:"What does the fishing industry harvest from Canadas coastal waters?", options:["Seafood such as fish and shellfish","Only minerals","Only fresh vegetables","Only lumber"], answer:0},
+     {q:"On what date is the National Day for Truth and Reconciliation observed?", options:["October 31","September 30","November 11","July 1"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
