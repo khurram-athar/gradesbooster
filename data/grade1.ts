@@ -1780,6 +1780,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Letter Writing: A Note to a Friend", summary:"Students learn the basic parts of a friendly letter, including a greeting, a short message, and a closing, and practise writing a simple note to a friend.",
    resourceLabel:"YouTube: Letter Writing: A Note to a Friend", resourceUrl:"https://www.youtube.com/results?search_query=Letter%20Writing%3A%20A%20Note%20to%20a%20Friend%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ctCaLQDWs1Q",
    quiz:[
      {q:"What word often begins a friendly letter?", options:["Chapter One","Dear","The End","Once"], answer:1},
      {q:"What is the greeting of a letter used for?", options:["To draw a picture","To end the letter","To greet the person you are writing to","To add a date only"], answer:2},
@@ -1794,6 +1795,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Time: Half Past the Hour", summary:"Students learn to read an analog clock showing half past the hour, recognizing that the long hand points to the 6 and the short hand is halfway between two numbers.",
    resourceLabel:"YouTube: Time: Half Past the Hour", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Half%20Past%20the%20Hour%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_z5Fo7kG1Uo",
    quiz:[
      {q:"At half past the hour, where does the long hand point?", options:["The 6","The 12","The 3","The 9"], answer:0},
      {q:"At half past 4, where is the short hand pointing?", options:["Exactly at the 4","Exactly at the 5","Between the 4 and 5","Exactly at the 12"], answer:2},
@@ -1808,6 +1810,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Changing Materials: Heating and Cooling", summary:"Students learn that heating and cooling can change materials, such as ice melting into water when warmed or water freezing into ice when cooled.",
    resourceLabel:"YouTube: Changing Materials: Heating and Cooling", resourceUrl:"https://www.youtube.com/results?search_query=Changing%20Materials%3A%20Heating%20and%20Cooling%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=slE0l9nPXus",
    quiz:[
      {q:"What happens to ice when it is heated?", options:["It turns to stone","It disappears completely","It gets colder","It melts into water"], answer:3},
      {q:"What happens to water when it is cooled to a very low temperature?", options:["It boils","It freezes into ice","Nothing happens","It turns to gas"], answer:1},
@@ -1820,19 +1823,20 @@ const curriculum: DayContent[] = [
      {prompt:"What happens to water when it is cooled a lot?", answers:["it freezes","freezes"]},
      {prompt:"Name one material that changes when you heat it, like ice or chocolate.", answers:["ice","chocolate","butter"]}
    ]},
-  {subject:"SocialStudies", title:"Landmarks and Special Places in Canada", summary:"Students learn about well-known Canadian landmarks, such as Niagara Falls and the Rocky Mountains, and discuss why these special places are important.",
-   resourceLabel:"YouTube: Landmarks and Special Places in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Landmarks%20and%20Special%20Places%20in%20Canada%20grade%201%20educational",
+  {subject:"SocialStudies", title:"Niagara Falls: A Famous Canadian Landmark", summary:"Students take a closer look at Niagara Falls, one of Canada's most famous natural landmarks, learning what makes it special and why so many visitors come to see it each year.",
+   resourceLabel:"YouTube: Niagara Falls: A Famous Canadian Landmark", resourceUrl:"https://www.youtube.com/results?search_query=Niagara%20Falls%3A%20A%20Famous%20Canadian%20Landmark%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RNFAFQKIU_Q",
    quiz:[
-     {q:"What is Niagara Falls?", options:["A famous waterfall","A city hall","A desert","A small pond"], answer:0},
-     {q:"Which of these is a famous Canadian mountain range?", options:["The Amazon River","The Rocky Mountains","The Great Wall","The Sahara Desert"], answer:1},
-     {q:"Why are landmarks like Niagara Falls important to Canada?", options:["No one visits them","They are found in every country","They are not important","They are special natural places many people visit"], answer:3},
-     {q:"Which of these is a tall tower landmark found in Toronto?", options:["The CN Tower","The Great Wall","The Rocky Mountains","The Eiffel Tower"], answer:0},
+     {q:"What is Niagara Falls?", options:["A famous waterfall","A shopping mall","A type of tree","A small pond"], answer:0},
+     {q:"In which country is Niagara Falls located?", options:["Japan","Egypt","Canada","France"], answer:2},
+     {q:"What flows over Niagara Falls?", options:["Sand","Water","Snow","Rocks"], answer:1},
+     {q:"Why do many people visit Niagara Falls?", options:["It is a small pond","It is a school building","It has no water at all","It is a famous natural wonder many people like to see"], answer:3},
      {q:"What is a landmark?", options:["A type of food","A well-known and special place","A kind of weather","A school subject"], answer:1}
    ],
    worksheet:[
-     {prompt:"Name one famous Canadian landmark, like Niagara Falls.", answers:["niagara falls","the rocky mountains","cn tower"]},
-     {prompt:"Are the Rocky Mountains located in Canada?", answers:["yes"]},
-     {prompt:"What is Niagara Falls an example of, a waterfall or a desert?", answers:["waterfall"]}
+     {prompt:"Name the famous waterfall located in Canada.", answers:["niagara falls"]},
+     {prompt:"Is Niagara Falls a waterfall or a mountain?", answers:["waterfall"]},
+     {prompt:"Why do many people like to visit Niagara Falls?", answers:["it is beautiful","it is a natural wonder","it is a wonder","beautiful","natural wonder"]}
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[

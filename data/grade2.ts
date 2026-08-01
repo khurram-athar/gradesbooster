@@ -1780,6 +1780,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Writing a Simple Paragraph", summary:"Students learn that a simple paragraph has a topic sentence that introduces the main idea, a few detail sentences that add information, and stays focused on one idea.",
    resourceLabel:"YouTube: Writing a Simple Paragraph", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Simple%20Paragraph%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zt54j4okR20",
    quiz:[
      {q:"What is a topic sentence?", options:["The last sentence in a story","A sentence with no meaning","The sentence that introduces the main idea of a paragraph","A question only"], answer:2},
      {q:"What do detail sentences in a paragraph do?", options:["Change the topic completely","Add more information about the main idea","Ask random questions","End the paragraph immediately"], answer:1},

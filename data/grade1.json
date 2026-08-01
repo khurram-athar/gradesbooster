@@ -10190,6 +10190,7 @@
         "summary": "Students learn the basic parts of a friendly letter, including a greeting, a short message, and a closing, and practise writing a simple note to a friend.",
         "resourceLabel": "YouTube: Letter Writing: A Note to a Friend",
         "resourceUrl": "https://www.youtube.com/results?search_query=Letter%20Writing%3A%20A%20Note%20to%20a%20Friend%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=ctCaLQDWs1Q",
         "quiz": [
           {
             "q": "What word often begins a friendly letter?",
@@ -10271,6 +10272,7 @@
         "summary": "Students learn to read an analog clock showing half past the hour, recognizing that the long hand points to the 6 and the short hand is halfway between two numbers.",
         "resourceLabel": "YouTube: Time: Half Past the Hour",
         "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Half%20Past%20the%20Hour%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=_z5Fo7kG1Uo",
         "quiz": [
           {
             "q": "At half past the hour, where does the long hand point?",
@@ -10353,6 +10355,7 @@
         "summary": "Students learn that heating and cooling can change materials, such as ice melting into water when warmed or water freezing into ice when cooled.",
         "resourceLabel": "YouTube: Changing Materials: Heating and Cooling",
         "resourceUrl": "https://www.youtube.com/results?search_query=Changing%20Materials%3A%20Heating%20and%20Cooling%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=slE0l9nPXus",
         "quiz": [
           {
             "q": "What happens to ice when it is heated?",
@@ -10432,50 +10435,51 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Landmarks and Special Places in Canada",
-        "summary": "Students learn about well-known Canadian landmarks, such as Niagara Falls and the Rocky Mountains, and discuss why these special places are important.",
-        "resourceLabel": "YouTube: Landmarks and Special Places in Canada",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Landmarks%20and%20Special%20Places%20in%20Canada%20grade%201%20educational",
+        "title": "Niagara Falls: A Famous Canadian Landmark",
+        "summary": "Students take a closer look at Niagara Falls, one of Canada's most famous natural landmarks, learning what makes it special and why so many visitors come to see it each year.",
+        "resourceLabel": "YouTube: Niagara Falls: A Famous Canadian Landmark",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Niagara%20Falls%3A%20A%20Famous%20Canadian%20Landmark%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=RNFAFQKIU_Q",
         "quiz": [
           {
             "q": "What is Niagara Falls?",
             "options": [
               "A famous waterfall",
-              "A city hall",
-              "A desert",
+              "A shopping mall",
+              "A type of tree",
               "A small pond"
             ],
             "answer": 0
           },
           {
-            "q": "Which of these is a famous Canadian mountain range?",
+            "q": "In which country is Niagara Falls located?",
             "options": [
-              "The Amazon River",
-              "The Rocky Mountains",
-              "The Great Wall",
-              "The Sahara Desert"
+              "Japan",
+              "Egypt",
+              "Canada",
+              "France"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What flows over Niagara Falls?",
+            "options": [
+              "Sand",
+              "Water",
+              "Snow",
+              "Rocks"
             ],
             "answer": 1
           },
           {
-            "q": "Why are landmarks like Niagara Falls important to Canada?",
+            "q": "Why do many people visit Niagara Falls?",
             "options": [
-              "No one visits them",
-              "They are found in every country",
-              "They are not important",
-              "They are special natural places many people visit"
+              "It is a small pond",
+              "It is a school building",
+              "It has no water at all",
+              "It is a famous natural wonder many people like to see"
             ],
             "answer": 3
-          },
-          {
-            "q": "Which of these is a tall tower landmark found in Toronto?",
-            "options": [
-              "The CN Tower",
-              "The Great Wall",
-              "The Rocky Mountains",
-              "The Eiffel Tower"
-            ],
-            "answer": 0
           },
           {
             "q": "What is a landmark?",
@@ -10490,23 +10494,25 @@
         ],
         "worksheet": [
           {
-            "prompt": "Name one famous Canadian landmark, like Niagara Falls.",
+            "prompt": "Name the famous waterfall located in Canada.",
             "answers": [
-              "niagara falls",
-              "the rocky mountains",
-              "cn tower"
+              "niagara falls"
             ]
           },
           {
-            "prompt": "Are the Rocky Mountains located in Canada?",
-            "answers": [
-              "yes"
-            ]
-          },
-          {
-            "prompt": "What is Niagara Falls an example of, a waterfall or a desert?",
+            "prompt": "Is Niagara Falls a waterfall or a mountain?",
             "answers": [
               "waterfall"
+            ]
+          },
+          {
+            "prompt": "Why do many people like to visit Niagara Falls?",
+            "answers": [
+              "it is beautiful",
+              "it is a natural wonder",
+              "it is a wonder",
+              "beautiful",
+              "natural wonder"
             ]
           }
         ]
