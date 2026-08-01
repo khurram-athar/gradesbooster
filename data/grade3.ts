@@ -5093,6 +5093,386 @@ const curriculum: DayContent[] = [
      {q:"What is a statutory holiday?", options:["A holiday only celebrated by one family","A day with no meaning","A regular school day","An official day off recognized by law"], answer:3}
    ]},
 ]},
+{day:131, label:"Day 131 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Correcting Run-on Sentences", summary:"Grade 3 Language strand: a run-on sentence joins two or more independent clauses without proper punctuation or a conjunction, and writers fix it by adding a period, a comma with a conjunction, or a semicolon.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a run-on sentence?", options:["A question with no answer","A sentence with no verb","A sentence that is too short","Two or more independent clauses joined without proper punctuation or a conjunction"], answer:3},
+     {q:"Which is one way to fix a run-on sentence?", options:["Remove all punctuation","Delete the subject","Add more independent clauses","Add a period to separate the clauses into two sentences"], answer:3},
+     {q:"Which sentence is a run-on?", options:["I like cats.","I like dogs, and I like cats too.","I like dogs.","I like dogs I like cats too"], answer:3},
+     {q:"Adding a comma and a conjunction like and can fix a run-on by ___.", options:["Deleting the verb","Joining the clauses correctly","Removing one of the clauses","Making the sentence longer only"], answer:1},
+     {q:"Why is it important to fix run-on sentences?", options:["To make writing harder to read","To remove all punctuation","To make writing clear and easy to understand","To shorten every sentence"], answer:2}
+   ]},
+  {subject:"Math", title:"Number: Comparing and Ordering Numbers to 100 000", summary:"Grade 3 Math strand: students compare and order whole numbers up to 100 000 using place value, looking first at the digit with the greatest place value to decide which number is larger.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"When comparing two large numbers, which digit should you look at first?", options:["The digit with the greatest place value","Any digit chosen at random","The digit with the smallest place value","The last digit only"], answer:0},
+     {q:"Which number is greater: 45 000 or 54 000?", options:["Cannot be determined","They are equal","45 000","54 000"], answer:3},
+     {q:"Which number is smallest: 12 000, 21 000, or 1 200?", options:["They are all equal","12 000","1 200","21 000"], answer:2},
+     {q:"What symbol means greater than?", options:["%","=","<",">"], answer:3},
+     {q:"Ordering numbers from least to greatest means arranging them ___.", options:["Starting with the largest and ending with the smallest","Starting with the smallest and ending with the largest","Randomly","In alphabetical order"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Circulatory System — Heart and Blood Vessels", summary:"Grade 3 Science strand: the circulatory system includes the heart, which pumps blood, and blood vessels, which carry blood carrying oxygen and nutrients throughout the body.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of the heart?", options:["To help us breathe","To digest food","To pump blood throughout the body","To help us think"], answer:2},
+     {q:"What do blood vessels do?", options:["Carry blood throughout the body","Protect the brain","Filter air","Digest food"], answer:0},
+     {q:"What does blood carry to the bodys cells?", options:["Electricity only","Light","Sound waves","Oxygen and nutrients"], answer:3},
+     {q:"The heart, blood, and blood vessels together make up the ___.", options:["Respiratory system","Skeletal system","Digestive system","Circulatory system"], answer:3},
+     {q:"Why is the circulatory system important?", options:["It has no real function","It controls hearing only","It only affects the skin","It delivers oxygen and nutrients cells need to survive"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Inuit — Culture and Life in the Arctic", summary:"Grade 3 Social Studies strand: the Inuit are one of the three recognized groups of Indigenous peoples in Canada, traditionally living in the Arctic regions and developing skills and knowledge suited to a cold environment.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"The Inuit are one of how many recognized groups of Indigenous peoples in Canada?", options:["One","Twenty","Three","Ten"], answer:2},
+     {q:"Where have the Inuit traditionally lived?", options:["The Prairies","Southern Ontario only","The Rocky Mountains","The Arctic regions of Canada"], answer:3},
+     {q:"Why did the Inuit develop specialized skills and knowledge?", options:["To farm in a hot desert","To survive and thrive in a cold Arctic environment","To build cities quickly","To sail across the ocean only"], answer:1},
+     {q:"Which region of Canada is closely associated with Inuit communities?", options:["The Prairies","The St. Lawrence Lowlands","The Arctic","The Rocky Mountains"], answer:2},
+     {q:"Learning about Inuit culture helps students understand ___.", options:["That all Indigenous peoples are identical","The diversity of Indigenous peoples in Canada","That Canada has only one culture","That the Arctic is uninhabited"], answer:1}
+   ]},
+]},
+{day:132, label:"Day 132 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Etymology — Where Words Come From", summary:"Grade 3 Language strand: etymology is the study of where words come from and how their meanings have changed over time, and many English words have roots in other languages such as Latin, Greek, or French.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is etymology?", options:["The study of handwriting","The study of where words come from and how they have changed","The study of grammar rules only","The study of punctuation marks"], answer:1},
+     {q:"Many English words have roots in which languages?", options:["Only made-up languages","Only English itself","Latin, Greek, and French, among others","No other languages"], answer:2},
+     {q:"Why might learning etymology help a reader?", options:["It only helps with spelling tests","It removes the need for a dictionary entirely","It can help them understand the meaning of unfamiliar words","It makes reading impossible"], answer:2},
+     {q:"The word telephone comes from Greek roots meaning far and sound. This shows that word origins can reveal ___.", options:["A words meaning","A words punctuation","A words font","A words capitalization"], answer:0},
+     {q:"Studying word origins is one strategy for ___.", options:["Removing words from a sentence","Ignoring word meanings","Avoiding all reading","Building vocabulary and understanding new words"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Combining Shapes to Make Composite Figures", summary:"Grade 3 Math strand: a composite figure is made by combining two or more simple 2D shapes, such as a square and a triangle joined together to form a house shape.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is a composite figure?", options:["A perfectly round shape","A shape that has no corners","A shape made by combining two or more simple shapes","A shape with only one side"], answer:2},
+     {q:"Which two shapes could combine to make a house shape?", options:["Two circles","A single triangle","A square and a triangle","A circle and a line"], answer:2},
+     {q:"Why might it help to break a composite figure into simple shapes?", options:["To make the shape disappear","To make it a 3D shape","To avoid using a ruler","To find its area or perimeter more easily"], answer:3},
+     {q:"A composite figure could be made from ___.", options:["Only one point","A single straight line","Two or more simple 2D shapes joined together","Nothing at all"], answer:2},
+     {q:"Which is an example of a composite figure?", options:["A shape made of a rectangle and a semicircle joined together","A single point on a grid","A straight line segment","A single dot"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Nervous System — Brain, Spinal Cord, and Nerves", summary:"Grade 3 Science strand: the nervous system includes the brain, spinal cord, and nerves, and it controls the body by sending and receiving messages throughout the body.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What organ controls most of the nervous system?", options:["The brain","The skin","The stomach","The lungs"], answer:0},
+     {q:"What connects the brain to nerves throughout the body?", options:["The lungs","The spinal cord","The stomach","The bloodstream only"], answer:1},
+     {q:"What is the main job of the nervous system?", options:["To digest food","To pump blood","To filter air only","To send and receive messages throughout the body"], answer:3},
+     {q:"What do nerves carry?", options:["Food to the stomach","Messages, or signals, to and from the brain","Blood to the heart","Air to the lungs"], answer:1},
+     {q:"The brain, spinal cord, and nerves together make up the ___.", options:["Circulatory system","Skeletal system","Digestive system","Nervous system"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Early European Explorers in Canada", summary:"Grade 3 Social Studies strand: early European explorers travelled to what is now Canada searching for new trade routes and resources, meeting and interacting with Indigenous peoples who already lived on the land.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Why did early European explorers travel to what is now Canada?", options:["To avoid all contact with people","By complete accident with no purpose","Searching for new trade routes and resources","To build cities that already existed"], answer:2},
+     {q:"Who did early European explorers meet when they arrived in Canada?", options:["No one at all","Indigenous peoples who already lived on the land","Animals but no people","Only other explorers"], answer:1},
+     {q:"What might explorers have been searching for on their journeys?", options:["A way to avoid the ocean","A way to avoid trade","New trade routes and resources","Nothing of value"], answer:2},
+     {q:"Exploring new lands often led to ___.", options:["No change at all","The end of travel","The disappearance of all maps","Contact and trade between explorers and Indigenous peoples"], answer:3},
+     {q:"Why do we study early exploration in social studies?", options:["To avoid learning about Indigenous peoples","To understand how early contact shaped Canadas history","To memorize ship names only","Because it has no importance"], answer:1}
+   ]},
+]},
+{day:133, label:"Day 133 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Identifying the Central Argument in Persuasive Text", summary:"Grade 3 Language strand: the central argument of a persuasive text is the main claim the writer wants readers to believe or act on, supported by reasons and evidence throughout the text.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is the central argument of a persuasive text?", options:["The title of the text only","A random fact with no purpose","A list of unrelated ideas","The main claim the writer wants readers to believe or act on"], answer:3},
+     {q:"What usually supports the central argument?", options:["Random pictures only","Reasons and evidence","The page number","Nothing at all"], answer:1},
+     {q:"Where might a writer often state their central argument?", options:["Never in the text","Only in a footnote","Near the beginning of the text","Only in the title"], answer:2},
+     {q:"Why do writers include evidence?", options:["To convince readers that their argument is valid","To avoid making a point","To confuse readers on purpose","To make the text longer with no purpose"], answer:0},
+     {q:"Identifying the central argument helps readers ___.", options:["Ignore the text completely","Skip every sentence","Avoid understanding the text","Understand the main point the writer is trying to make"], answer:3}
+   ]},
+  {subject:"Math", title:"Multiplication: Multiplying 3-Digit Numbers by 1-Digit Numbers", summary:"Grade 3 Math strand: students multiply a 3-digit number by a 1-digit number using place value strategies or the standard algorithm, multiplying each place value and regrouping as needed.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is 213 x 3?", options:["629","639","613","636"], answer:1},
+     {q:"When multiplying a 3-digit number by a 1-digit number, you multiply ___.", options:["Each place value, starting from the ones","The digits in a random order","Only the hundreds digit","Only the tens digit"], answer:0},
+     {q:"What is 104 x 2?", options:["206","208","210","204"], answer:1},
+     {q:"Why might you need to regroup when multiplying multi-digit numbers?", options:["Because the numbers are too small","Because a product in one place value may be 10 or more","Because subtraction is required instead","Because regrouping is never needed"], answer:1},
+     {q:"What is 312 x 3?", options:["926","936","933","916"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Skin — Protecting Our Bodies", summary:"Grade 3 Science strand: the skin is the largest organ of the body, and it protects the body from germs and injury, helps control body temperature, and allows us to sense touch.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the largest organ of the human body?", options:["The stomach","The skin","The heart","The brain"], answer:1},
+     {q:"What is one job of the skin?", options:["Pumping blood","Protecting the body from germs and injury","Digesting food","Producing sound"], answer:1},
+     {q:"How does skin help control body temperature?", options:["By digesting food","By sweating to cool the body down","By stopping the heart","By producing sound waves"], answer:1},
+     {q:"What sense does skin allow us to experience?", options:["Sight","Taste","Smell","Touch"], answer:3},
+     {q:"Why is skin considered an important organ?", options:["It protects the body and helps it sense the world","It only affects hair colour","It has no real purpose","It only affects eye colour"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Governor General — Representing the Crown in Canada", summary:"Grade 3 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties and formally approving laws passed by Parliament.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Who does the Governor General represent in Canada?", options:["A local school board","The King or Queen","The Prime Minister of another country","The mayor of Toronto"], answer:1},
+     {q:"What kind of duties does the Governor General often perform?", options:["Only cooking duties","Ceremonial duties","Only sports coaching","Only construction duties"], answer:1},
+     {q:"What does the Governor General formally do with laws passed by Parliament?", options:["Approve them","Write all of them alone","Ignore them completely","Delete them"], answer:0},
+     {q:"The role of Governor General is mostly ___.", options:["Ceremonial and representative","Focused only on farming","Focused only on sports","Focused only on cooking"], answer:0},
+     {q:"Why does Canada have a Governor General?", options:["To run local businesses","To replace the Prime Minister","To coach national sports teams","To represent the Crown within Canada"], answer:3}
+   ]},
+]},
+{day:134, label:"Day 134 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Formal Email", summary:"Grade 3 Language strand: a formal email includes a clear subject line, a polite greeting, organized body paragraphs, and a courteous closing, and it avoids slang or informal language.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What should a formal email include at the top?", options:["A random drawing","A joke","No information at all","A clear subject line"], answer:3},
+     {q:"How should a formal email begin?", options:["With no greeting at all","With slang","With a random number","With a polite greeting"], answer:3},
+     {q:"What should a formal email avoid?", options:["Complete sentences","Slang or informal language","A greeting","A subject line"], answer:1},
+     {q:"What should a formal email have at the end?", options:["No closing at all","A courteous closing","An unrelated topic","A string of emojis only"], answer:1},
+     {q:"Why might someone write a formal email instead of texting?", options:["To communicate clearly and respectfully in a professional situation","To make the message harder to read","To use only slang","To avoid using words"], answer:0}
+   ]},
+  {subject:"Math", title:"Division: Checking Answers Using Multiplication", summary:"Grade 3 Math strand: division and multiplication are inverse operations, so a division answer can be checked by multiplying the quotient by the divisor to see if it equals the dividend.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What operation can be used to check a division answer?", options:["No operation is needed","Subtraction only","Multiplication","Addition only"], answer:2},
+     {q:"If 12 divided by 3 = 4, how can you check this answer?", options:["Subtract 3 from 4","Divide 4 by 3 again","Multiply 4 by 3 to see if it equals 12","Add 4 and 3"], answer:2},
+     {q:"Multiplication and division are called ___.", options:["Inverse operations","Unrelated operations","The same operation","Impossible operations"], answer:0},
+     {q:"If 20 divided by 5 = 4, what multiplication fact checks this?", options:["4 x 5 = 20","20 x 20 = 4","5 x 5 = 20","4 x 4 = 20"], answer:0},
+     {q:"Why is it useful to check a division answer?", options:["To skip the problem entirely","To make the answer wrong on purpose","To make sure the answer is correct","To avoid using multiplication ever"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Five Senses and Sensory Organs", summary:"Grade 3 Science strand: humans experience the world through five senses, sight, hearing, smell, taste, and touch, each linked to a specific sensory organ such as the eyes, ears, nose, tongue, and skin.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Which organ is linked to the sense of sight?", options:["The tongue","The nose","The ears","The eyes"], answer:3},
+     {q:"Which organ is linked to the sense of hearing?", options:["The nose","The ears","The tongue","The eyes"], answer:1},
+     {q:"Which organ is linked to the sense of taste?", options:["The nose","The ears","The tongue","The eyes"], answer:2},
+     {q:"Which organ is linked to the sense of smell?", options:["The nose","The eyes","The tongue","The ears"], answer:0},
+     {q:"How many senses are commonly described in humans?", options:["Ten","Five","Three","Two"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: How a Bill Becomes a Law in Canada", summary:"Grade 3 Social Studies strand: a bill is a proposed law that must be debated and voted on by elected representatives before it can be approved and become an official law.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is a bill?", options:["A proposed law","A type of currency","A type of map","A holiday celebration"], answer:0},
+     {q:"What must happen to a bill before it can become a law?", options:["It must be ignored completely","It must be sold at a store","It must be debated and voted on by elected representatives","It must be hidden from the public"], answer:2},
+     {q:"Who votes on whether a bill becomes a law?", options:["No one votes","Only students","Only one person","Elected representatives"], answer:3},
+     {q:"Why is a bill debated before becoming a law?", options:["So representatives can discuss and consider its effects","To skip the voting process","To avoid making any decisions","To waste time with no purpose"], answer:0},
+     {q:"What is the result if a bill is approved through the proper process?", options:["It becomes an official law","It disappears completely","It becomes a coin","It becomes a map"], answer:0}
+   ]},
+]},
+{day:135, label:"Day 135 — Fri", subjects:[
+  {subject:"Language", title:"Oral Communication: Interviewing Skills — Asking and Answering Questions", summary:"Grade 3 Language strand: interviewing involves preparing clear questions in advance, listening carefully to answers, and asking follow-up questions to learn more about a topic.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What should an interviewer do before an interview?", options:["Refuse to listen to answers","Avoid thinking about the topic","Skip planning entirely","Prepare clear questions in advance"], answer:3},
+     {q:"What is a follow-up question?", options:["The very first question asked","A question that ends the interview","A question that asks for more detail about a previous answer","A question with no connection to the topic"], answer:2},
+     {q:"Why is listening carefully important during an interview?", options:["It slows down the interview with no purpose","It has no benefit at all","It helps the interviewer understand and respond to the answers","It only matters for the person being interviewed"], answer:2},
+     {q:"Which is an example of a good interview question?", options:["No question at all","A question unrelated to the topic","A question with only a yes or no answer every time","An open-ended question that invites detail"], answer:3},
+     {q:"Why do reporters and researchers use interviews?", options:["To make up facts","To avoid learning anything new","To gather information directly from a person","To skip research entirely"], answer:2}
+   ]},
+  {subject:"Math", title:"Data: Calculating the Mean (Average) of a Data Set", summary:"Grade 3 Math strand: the mean, or average, of a data set is found by adding all the values together and dividing by the number of values.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"How do you find the mean of a data set?", options:["Subtract the smallest value from the largest","Multiply all the values together","Add all the values and divide by the number of values","Count the number of values only"], answer:2},
+     {q:"What is another word for mean in math?", options:["Average","Mode","Median only","Range"], answer:0},
+     {q:"What is the mean of 2, 4, and 6?", options:["5","4","3","6"], answer:1},
+     {q:"If you have 4 numbers that add up to 20, what is the mean?", options:["20","6","4","5"], answer:3},
+     {q:"The mean helps describe ___.", options:["A typical or central value in a data set","The exact smallest value only","Nothing useful about the data","The exact largest value only"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Mountain and Alpine Habitats", summary:"Grade 3 Science strand: mountain and alpine habitats are found at high elevations where temperatures are cold and winds are strong, and the plants and animals that live there have special adaptations to survive.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What are mountain and alpine habitats known for?", options:["High elevations with cold temperatures and strong winds","Low elevations with hot, humid weather","Being underwater","Being completely flat"], answer:0},
+     {q:"Why do animals in alpine habitats need special adaptations?", options:["To survive cold temperatures and strong winds","To survive in warm rainforests","To survive underwater only","They do not need adaptations"], answer:0},
+     {q:"Which might be an adaptation of an alpine animal?", options:["Thick fur to stay warm","No fur or feathers at all","Bright colours to attract predators","Gills for breathing underwater"], answer:0},
+     {q:"As elevation increases on a mountain, temperature generally ___.", options:["Decreases","Becomes impossible to measure","Stays exactly the same","Increases"], answer:0},
+     {q:"Plants in alpine habitats are often ___.", options:["Found only underwater","Unable to survive at all","Low-growing to avoid strong winds","Extremely tall to catch more wind"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Senate and House of Commons", summary:"Grade 3 Social Studies strand: the Parliament of Canada is made up of the House of Commons, whose members are elected, and the Senate, whose members are appointed, and both review proposed laws.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What are the two parts of the Parliament of Canada?", options:["The Army and the Navy","The House of Commons and the Senate","The Courts and the Police","The Mayor and the Council"], answer:1},
+     {q:"How do members of the House of Commons get their positions?", options:["They are born into the role","They buy their seats","They are chosen randomly","They are elected"], answer:3},
+     {q:"How do members of the Senate get their positions?", options:["They win a lottery","They are appointed","They are elected only","They inherit the role"], answer:1},
+     {q:"What is one role of both the House of Commons and the Senate?", options:["To run local restaurants","To review proposed laws","To coach sports teams","To build roads directly"], answer:1},
+     {q:"Why might a country have two parts to its parliament?", options:["To eliminate elections entirely","To avoid making any laws","To make government slower with no benefit","To allow proposed laws to be reviewed more carefully"], answer:3}
+   ]},
+]},
+{day:136, label:"Day 136 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Collective Nouns for Groups of Animals and People", summary:"Grade 3 Language strand: a collective noun names a group of people, animals, or things treated as one unit, such as a flock of birds, a herd of cattle, or a team of players.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a collective noun?", options:["A noun that names only one object","An adjective that describes a noun","A noun that names a group treated as one unit","A verb that describes an action"], answer:2},
+     {q:"Which is an example of a collective noun for birds?", options:["A school","A pack","A herd","A flock"], answer:3},
+     {q:"Which is an example of a collective noun for cattle?", options:["A swarm","A pod","A herd","A flock"], answer:2},
+     {q:"Which is an example of a collective noun for players?", options:["A team","A pack","A flock","A herd"], answer:0},
+     {q:"Collective nouns help writers ___.", options:["Remove all verbs from a sentence","Confuse readers on purpose","Avoid using nouns entirely","Describe groups with a single precise word"], answer:3}
+   ]},
+  {subject:"Math", title:"Fractions: Converting Between Mixed Numbers and Improper Fractions", summary:"Grade 3 Math strand: a mixed number combines a whole number and a fraction, and it can be converted into an improper fraction where the numerator is greater than or equal to the denominator.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is a mixed number?", options:["A number with no fraction at all","A number that is always negative","A number that combines a whole number and a fraction","A number with only a denominator"], answer:2},
+     {q:"What is 1 and 1/2 written as an improper fraction?", options:["3/2","1/2","2/1","1/3"], answer:0},
+     {q:"What is 5/2 written as a mixed number?", options:["2 and 1/2","5 and 1/2","2 and 2/5","1 and 1/2"], answer:0},
+     {q:"In an improper fraction, the numerator is ___.", options:["Always less than the denominator","Greater than or equal to the denominator","Always negative","Always zero"], answer:1},
+     {q:"Why might it be useful to convert between mixed numbers and improper fractions?", options:["To make fractions disappear","To avoid using numbers","To make every fraction equal to one","To make certain calculations, like addition, easier"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Predator and Prey Relationships in Nature", summary:"Grade 3 Science strand: a predator is an animal that hunts and eats other animals, while prey is the animal being hunted, and this relationship helps keep ecosystems balanced.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is a predator?", options:["A rock formation","A plant that grows in water","An animal that only eats plants","An animal that hunts and eats other animals"], answer:3},
+     {q:"What is prey?", options:["A type of plant","A type of rock","An animal that only hunts plants","An animal that is hunted by a predator"], answer:3},
+     {q:"Which is an example of a predator-prey relationship?", options:["A fox hunting a rabbit","A rock sitting in a field","A tree growing leaves","Two rabbits playing together"], answer:0},
+     {q:"Why are predator-prey relationships important in an ecosystem?", options:["They cause all animals to disappear","They help keep populations of animals balanced","They have no effect on an ecosystem","They only affect plants"], answer:1},
+     {q:"What might happen if all the predators disappeared from an ecosystem?", options:["Nothing would change at all","Plants would disappear immediately","Prey populations could grow too large","Prey populations would disappear instantly"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Achievements in Space Exploration", summary:"Grade 3 Social Studies strand: Canada has contributed to space exploration through achievements such as Canadian astronauts travelling to space and the Canadarm robotic arm used on space missions.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the Canadarm?", options:["A robotic arm used on space missions","A style of building","A type of Canadian coin","A national holiday"], answer:0},
+     {q:"What is one way Canada has contributed to space exploration?", options:["Refusing to study space at all","Banning space research","Sending Canadian astronauts to space","Only observing space from the ground"], answer:2},
+     {q:"Why might a country be proud of its contributions to space exploration?", options:["It shows a lack of progress","It only matters to astronauts","It has no meaning at all","It shows the countrys scientific achievements"], answer:3},
+     {q:"What skills might be important for a career as an astronaut?", options:["Science, teamwork, and problem-solving skills","Only cooking skills","Only artistic skills","No skills are needed"], answer:0},
+     {q:"Learning about Canadas role in space exploration shows that ___.", options:["Space exploration is impossible","Canada has never studied space","Only other countries study space","Canada has made notable contributions to science and technology"], answer:3}
+   ]},
+]},
+{day:137, label:"Day 137 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Comparing a Book and Its Film Adaptation", summary:"Grade 3 Language strand: when a book is made into a film, some details are often changed, added, or removed, and comparing the two versions helps readers think about how each medium tells a story differently.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a film adaptation?", options:["A movie version of a book","A type of poem","A type of comic strip","A type of textbook"], answer:0},
+     {q:"What often happens when a book becomes a film?", options:["The story is always identical to the book","Some details are changed, added, or removed","Nothing about the story is used","The book disappears completely"], answer:1},
+     {q:"Why might a filmmaker change details from the book?", options:["To confuse the audience on purpose","To remove the story entirely","To fit the story into the time and format of a film","Because books cannot be understood"], answer:2},
+     {q:"Comparing a book and its film adaptation can help readers ___.", options:["Avoid thinking about the story","Think about how each medium tells a story differently","Forget the book completely","Ignore the film completely"], answer:1},
+     {q:"Which is one way a book and its film adaptation might differ?", options:["They are always released the same year","The ending or certain characters may be changed","The title is always exactly the same word for word","Every single detail matches perfectly"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: The Metric System — Kilo, Centi, and Milli Prefixes", summary:"Grade 3 Math strand: the metric system uses prefixes like kilo- (1000), centi- (1/100), and milli- (1/1000) attached to base units such as metre, gram, and litre to describe different sizes of measurement.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does the prefix kilo- mean?", options:["100","1/1000","10","1000"], answer:3},
+     {q:"What does the prefix centi- mean?", options:["1/100","1/1000","100","1000"], answer:0},
+     {q:"What does the prefix milli- mean?", options:["100","1000","1/1000","1/100"], answer:2},
+     {q:"How many centimetres are in a metre?", options:["1","100","1000","10"], answer:1},
+     {q:"How many grams are in a kilogram?", options:["1000","1","100","10"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Earthworms and Their Role in Healthy Soil", summary:"Grade 3 Science strand: earthworms burrow through soil, breaking it up and mixing in nutrients, which helps air and water reach plant roots and keeps soil healthy.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What do earthworms do as they move through soil?", options:["Destroy all plant roots","Turn soil into rock","Remove all water from soil","Burrow through it, breaking it up and mixing in nutrients"], answer:3},
+     {q:"How do earthworms help plants?", options:["By helping air and water reach plant roots","By eating all the leaves","By blocking sunlight","By removing soil completely"], answer:0},
+     {q:"Why are earthworms considered helpful to soil health?", options:["They have no effect on soil","They remove all nutrients from soil","They make soil impossible to use","They mix nutrients into the soil as they burrow"], answer:3},
+     {q:"What do earthworms eat as they move through soil?", options:["Only sunlight","Rocks and metal","Only water","Decaying organic matter in the soil"], answer:3},
+     {q:"Why might gardeners be happy to find earthworms in their soil?", options:["Earthworms have no benefit","Earthworms destroy every garden","Earthworms help keep the soil healthy for plants","Earthworms remove all plants"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Understanding Land Acknowledgements", summary:"Grade 3 Social Studies strand: a land acknowledgement is a statement recognizing the Indigenous peoples who traditionally lived on and cared for the land where an event or gathering is taking place.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is a land acknowledgement?", options:["A statement recognizing the Indigenous peoples connected to a piece of land","A type of map legend","A type of government tax","A type of currency"], answer:0},
+     {q:"Why might a school or event begin with a land acknowledgement?", options:["To ignore the history of the land","To recognize and respect the Indigenous peoples connected to that land","To replace the national anthem","To sell the land to visitors"], answer:1},
+     {q:"A land acknowledgement often mentions ___.", options:["Only weather patterns","The Indigenous peoples who traditionally lived on the land","Only local businesses","Only sports teams"], answer:1},
+     {q:"What can learning about land acknowledgements help students understand?", options:["The history and presence of Indigenous peoples in Canada","That acknowledgements are unnecessary","That land has no history","That Indigenous peoples no longer exist"], answer:0},
+     {q:"A land acknowledgement is one way communities show ___.", options:["Respect for Indigenous peoples and their connection to the land","A disregard for history","A replacement for maps","A new way to sell land"], answer:0}
+   ]},
+]},
+{day:138, label:"Day 138 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Using Transition Words to Link Ideas", summary:"Grade 3 Language strand: transition words such as first, next, however, and finally help connect ideas within and between sentences, making writing easier to follow.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do transition words help do?", options:["Remove all punctuation","Delete verbs from a sentence","Make writing harder to follow","Connect ideas within and between sentences"], answer:3},
+     {q:"Which is an example of a transition word?", options:["However","Jump","Elephant","Purple"], answer:0},
+     {q:"Which transition word could show a sequence of steps?", options:["But","However","First","Although"], answer:2},
+     {q:"Which transition word could show a contrast between ideas?", options:["First","However","Finally","Next"], answer:1},
+     {q:"Why might a writer use transition words?", options:["To make writing clearer and easier to follow","To make sentences disconnected","To remove all ideas from a paragraph","To confuse the reader on purpose"], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Setting and Reaching a Savings Goal", summary:"Grade 3 Math strand: a savings goal is a target amount of money someone plans to save by a certain time, and reaching it often involves setting aside a portion of money regularly.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is a savings goal?", options:["A type of loan","A type of tax","An amount of money that must be spent immediately","A target amount of money someone plans to save"], answer:3},
+     {q:"How might someone work toward a savings goal?", options:["By spending all their money right away","By ignoring their savings completely","By borrowing money instead of saving","By setting aside a portion of money regularly"], answer:3},
+     {q:"If you save 5 dollars each week, how much will you have after 4 weeks?", options:["20 dollars","9 dollars","25 dollars","15 dollars"], answer:0},
+     {q:"Why might someone set a savings goal?", options:["To plan and save for something they want to buy","To ignore their future needs","To spend more than they earn","To avoid ever having money"], answer:0},
+     {q:"What could help track progress toward a savings goal?", options:["Keeping a record of money saved so far","Ignoring how much has been saved","Spending the savings immediately","Forgetting the goal entirely"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Weather vs Climate — What Is the Difference", summary:"Grade 3 Science strand: weather describes the conditions in the atmosphere at a specific time and place, while climate describes the average weather patterns of a region over many years.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What does weather describe?", options:["The average pattern over many years","The number of clouds forever","The colour of the sky only","The conditions in the atmosphere at a specific time and place"], answer:3},
+     {q:"What does climate describe?", options:["The temperature at one single moment","Nothing related to weather","The average weather patterns of a region over many years","A single days conditions only"], answer:2},
+     {q:"Which is an example of weather?", options:["It is raining outside today","A region typically has hot summers","A region typically has cold winters","A region has a dry climate overall"], answer:0},
+     {q:"Which is an example of climate?", options:["A region typically has cold, snowy winters","It is sunny right now","It rained one hour ago","It is windy this afternoon"], answer:0},
+     {q:"How is climate different from weather?", options:["Climate only applies to oceans","Weather only applies to mountains","Climate describes long-term patterns, while weather describes short-term conditions","They mean exactly the same thing"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Coat of Arms", summary:"Grade 3 Social Studies strand: the Coat of Arms is an official symbol of Canada that includes images such as lions, a unicorn, and maple leaves, representing the countrys history and values.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the Coat of Arms?", options:["A type of map","A type of currency","A type of holiday","An official symbol of Canada"], answer:3},
+     {q:"Which images might appear on Canadas Coat of Arms?", options:["Only a soccer ball","Lions, a unicorn, and maple leaves","Only a bicycle","Only a computer"], answer:1},
+     {q:"What does the Coat of Arms represent?", options:["A single citys sports team","Canadas history and values","A foreign countrys flag","A private companys logo"], answer:1},
+     {q:"Where might you see an official symbol like the Coat of Arms used?", options:["Only on toys","Only on birthday cards","On government documents and buildings","Only on food packaging"], answer:2},
+     {q:"Why do countries have official symbols like a coat of arms?", options:["To represent their identity and history","To replace their currency","To confuse visitors","To avoid having a flag"], answer:0}
+   ]},
+]},
+{day:139, label:"Day 139 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing an Eyewitness News Report", summary:"Grade 3 Language strand: an eyewitness news report describes an event using details the writer directly observed, answering questions like who, what, where, when, and why to inform readers.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is an eyewitness news report?", options:["A list of spelling words","A made-up story with no facts","A report that describes an event using details the writer directly observed","A poem about nature"], answer:2},
+     {q:"Which questions does a news report typically answer?", options:["Only what colour something is","Only how much something costs","Who, what, where, when, and why","Only the writers opinion"], answer:2},
+     {q:"Why is it important for an eyewitness report to be accurate?", options:["So facts can be hidden","So readers are confused about the event","So the report can be ignored","So readers get a true account of what happened"], answer:3},
+     {q:"What might an eyewitness include in their report?", options:["Details about an unrelated event","No details at all","Details from a story they made up","Details they personally saw or experienced"], answer:3},
+     {q:"Why do news reports often start with the most important information?", options:["To quickly inform readers of the key facts","To confuse the reader from the start","To avoid informing readers at all","To hide the key facts until the end"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Circumference — The Distance Around a Circle", summary:"Grade 3 Math strand: the circumference of a circle is the distance around its outer edge, similar to how perimeter measures the distance around a polygon.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is the circumference of a circle?", options:["The distance across the circle through the centre","The area inside the circle","The distance around its outer edge","The distance from the centre to the edge"], answer:2},
+     {q:"Circumference is similar to which measurement for polygons?", options:["Volume","Perimeter","Angle","Area"], answer:1},
+     {q:"If you walked all the way around a circular track once, you would travel a distance equal to its ___.", options:["Circumference","Diameter","Area","Radius"], answer:0},
+     {q:"Which measurement tool could estimate the circumference of a circle?", options:["A clock","A piece of string wrapped around the edge, then measured with a ruler","A scale","A thermometer"], answer:1},
+     {q:"The circumference measures the distance ___.", options:["Through the middle of a circle","Above a circle","Below a circle","Around the outside edge of a circle"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Life Cycle of a Honeybee", summary:"Grade 3 Science strand: a honeybee begins life as an egg, hatches into a larva, develops into a pupa, and finally emerges as an adult bee, completing a full metamorphosis.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the first stage of a honeybees life cycle?", options:["Adult bee","Larva","Egg","Pupa"], answer:2},
+     {q:"What stage comes after the egg hatches?", options:["Adult bee","Larva","Egg again","Pupa"], answer:1},
+     {q:"What stage comes after the larva?", options:["Adult bee","Nothing, it stops growing","Pupa","Egg"], answer:2},
+     {q:"What is the final stage of a honeybees life cycle?", options:["Egg","Adult bee","Larva","Pupa"], answer:1},
+     {q:"A honeybees life cycle, with distinct egg, larva, pupa, and adult stages, is an example of ___.", options:["Complete metamorphosis","No change at all","Hibernation","Migration"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Role in International Peacekeeping", summary:"Grade 3 Social Studies strand: peacekeeping involves sending trained personnel to help maintain peace in areas affected by conflict, and Canada has a long history of contributing to international peacekeeping missions.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is peacekeeping?", options:["Sending trained personnel to help maintain peace in areas affected by conflict","Selling weapons to all countries","Starting new conflicts between countries","Refusing to help other countries"], answer:0},
+     {q:"What has Canada contributed to internationally over many years?", options:["Only trade disputes","Nothing at all","Only sports competitions","Peacekeeping missions"], answer:3},
+     {q:"Why might countries send peacekeepers to a region?", options:["To remove all citizens","To ignore the region entirely","To help maintain peace after conflict","To start new wars"], answer:2},
+     {q:"Peacekeeping missions are often organized through which international organization?", options:["A single countrys army alone","No organization at all","The United Nations","A private company"], answer:2},
+     {q:"Why might a country be proud of its peacekeeping history?", options:["It shows a commitment to promoting peace around the world","It has no meaning at all","It shows a preference for conflict","It shows a wish to avoid all cooperation"], answer:0}
+   ]},
+]},
+{day:140, label:"Day 140 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Run-on Sentences, Etymology, and Interview Skills", summary:"Grade 3 Language strand review: students revisit correcting run-on sentences, etymology, identifying a central argument, writing a formal email, interviewing skills, collective nouns, comparing a book and its film adaptation, transition words, and writing an eyewitness news report.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a run-on sentence?", options:["A sentence with no verb","A sentence that is too short","Two or more independent clauses joined without proper punctuation or a conjunction","A question with no answer"], answer:2},
+     {q:"What is etymology?", options:["The study of grammar rules only","The study of handwriting","The study of punctuation marks","The study of where words come from and how they have changed"], answer:3},
+     {q:"What is the central argument of a persuasive text?", options:["The title of the text only","The main claim the writer wants readers to believe or act on","A list of unrelated ideas","A random fact with no purpose"], answer:1},
+     {q:"What is a collective noun?", options:["A verb that describes an action","A noun that names a group treated as one unit","An adjective that describes a noun","A noun that names only one object"], answer:1},
+     {q:"What do transition words help do?", options:["Delete verbs from a sentence","Make writing harder to follow","Connect ideas within and between sentences","Remove all punctuation"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Large Numbers, Multiplication, and Circumference", summary:"Grade 3 Math strand review: students revisit comparing and ordering numbers to 100 000, composite figures, 3-digit by 1-digit multiplication, checking division with multiplication, mean, converting mixed numbers and improper fractions, the metric system, savings goals, and circumference.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"When comparing two large numbers, which digit should you look at first?", options:["Any digit chosen at random","The digit with the smallest place value","The digit with the greatest place value","The last digit only"], answer:2},
+     {q:"What is a composite figure?", options:["A shape that has no corners","A shape with only one side","A perfectly round shape","A shape made by combining two or more simple shapes"], answer:3},
+     {q:"How do you find the mean of a data set?", options:["Subtract the smallest value from the largest","Count the number of values only","Add all the values and divide by the number of values","Multiply all the values together"], answer:2},
+     {q:"What does the prefix kilo- mean?", options:["100","10","1000","1/1000"], answer:2},
+     {q:"What is the circumference of a circle?", options:["The distance from the centre to the edge","The distance around its outer edge","The distance across the circle through the centre","The area inside the circle"], answer:1}
+   ]},
+  {subject:"Science", title:"Science Review: Body Systems, Habitats, and Predators", summary:"Grade 3 Science strand review: students revisit the circulatory system, the nervous system, the skin, the five senses, mountain and alpine habitats, predator-prey relationships, earthworms and soil health, weather versus climate, and the life cycle of a honeybee.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of the heart?", options:["To help us breathe","To pump blood throughout the body","To help us think","To digest food"], answer:1},
+     {q:"What is the main job of the nervous system?", options:["To digest food","To send and receive messages throughout the body","To pump blood","To filter air only"], answer:1},
+     {q:"What is the largest organ of the human body?", options:["The stomach","The skin","The heart","The brain"], answer:1},
+     {q:"What is a predator?", options:["A rock formation","A plant that grows in water","An animal that only eats plants","An animal that hunts and eats other animals"], answer:3},
+     {q:"How is climate different from weather?", options:["They mean exactly the same thing","Climate describes long-term patterns, while weather describes short-term conditions","Climate only applies to oceans","Weather only applies to mountains"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Government, Explorers, and Canadian Symbols", summary:"Grade 3 Social Studies strand review: students revisit the Inuit, early European explorers, the Governor General, how a bill becomes a law, the Senate and House of Commons, Canadian achievements in space, land acknowledgements, the Coat of Arms, and Canadian peacekeeping.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"The Inuit are one of how many recognized groups of Indigenous peoples in Canada?", options:["Ten","Twenty","Three","One"], answer:2},
+     {q:"Who does the Governor General represent in Canada?", options:["A local school board","The mayor of Toronto","The King or Queen","The Prime Minister of another country"], answer:2},
+     {q:"What are the two parts of the Parliament of Canada?", options:["The Army and the Navy","The Mayor and the Council","The House of Commons and the Senate","The Courts and the Police"], answer:2},
+     {q:"What is the Coat of Arms?", options:["An official symbol of Canada","A type of holiday","A type of currency","A type of map"], answer:0},
+     {q:"What is peacekeeping?", options:["Selling weapons to all countries","Sending trained personnel to help maintain peace in areas affected by conflict","Refusing to help other countries","Starting new conflicts between countries"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
