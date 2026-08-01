@@ -1568,6 +1568,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterning: Number Patterns and Rules", summary:"Ontario Grade 3 Algebra strand: a number pattern follows a rule, such as adding 3 each time, and identifying the rule lets you predict what number comes next.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=HB4A7AS50dM",
    quiz:[
      {q:"What is the rule for the pattern 2, 5, 8, 11, ___?", options:["Subtract 3","Multiply by 2","Add 2","Add 3"], answer:3},
      {q:"What comes next in the pattern 3, 6, 9, 12, ___?", options:["14","16","15","13"], answer:2},
@@ -1577,6 +1578,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Matter: Changes of State", summary:"Ontario Grade 3 Science Matter and Energy strand: matter can change state -- melting (solid to liquid), freezing (liquid to solid), evaporation (liquid to gas), and condensation (gas to liquid) -- usually caused by heating or cooling.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=xYU7RSoOZ0U",
    quiz:[
      {q:"Melting is when a ___ changes to a liquid.", options:["Gas","Liquid stays a liquid","Nothing","Solid"], answer:3},
      {q:"Freezing is when a liquid changes to a ___.", options:["Different liquid","Gas","Nothing","Solid"], answer:3},
@@ -1586,6 +1588,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Then and Now: Technology and Tools", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: comparing tools and technology from 1780-1850 to today shows how communication, farming, and travel have changed dramatically over time.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=DENG7Q7VRgo",
    quiz:[
      {q:"How did people mostly communicate over long distances in 1780-1850?", options:["Text messages","Video calls","Handwritten letters, which could take weeks to arrive","Email"], answer:2},
      {q:"Farming in 1780-1850 mainly relied on ___.", options:["Large automated machines","Robots","Drones","Hand tools and animal power"], answer:3},
