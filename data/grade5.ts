@@ -5093,6 +5093,386 @@ const curriculum: DayContent[] = [
      {q:"What did the Persons Case of 1929 decide?", options:["That women could no longer vote","That only men could hold government positions","That Canada would adopt a new flag","That women were legally recognized as persons eligible for Senate appointment"], answer:3}
    ]},
 ]},
+{day:131, label:"Day 131 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Correlative Conjunctions", summary:"Grade 5 Language strand: correlative conjunctions work in pairs, such as either/or, neither/nor, and both/and, to connect balanced words, phrases, or clauses in a sentence.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a correlative conjunction?", options:["A type of punctuation mark","A word that shows possession","A single word that ends a sentence","A pair of words that work together to connect balanced parts of a sentence"], answer:3},
+     {q:"Which pair of words is a correlative conjunction?", options:["Quickly...slowly","Run...jump","Dog...cat","Either...or"], answer:3},
+     {q:"Which sentence correctly uses a correlative conjunction?", options:["Neither cat the dog hungry.","The cat neither dog was hungry.","The cat, the dog, was hungry.","Neither the cat nor the dog was hungry."], answer:3},
+     {q:"Which correlative conjunction pair would best complete: ___ Sam ___ his sister finished the race?", options:["Not only...but","Both...and","Either...nor","Neither...or"], answer:1},
+     {q:"Why might a writer use correlative conjunctions?", options:["Correlative conjunctions never connect ideas","This concept has no connection to grammar","To clearly show a balanced relationship between two connected ideas","To separate every sentence into fragments"], answer:2}
+   ]},
+  {subject:"Math", title:"Data Management: Constructing and Interpreting Histograms", summary:"Grade 5 Math strand: a histogram displays numerical data grouped into equal intervals called bins, using bars with no gaps to show how many data points fall into each range.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a histogram show?", options:["How many data points fall into each of several equal-sized intervals","A list of unrelated facts","A single data point only","The names of categories with no numbers"], answer:0},
+     {q:"How are the bars in a histogram usually arranged?", options:["In a circle","Stacked on top of one another","With wide gaps between every bar","With no gaps between them"], answer:3},
+     {q:"What do we call the equal-sized groups used in a histogram?", options:["Axes","Categories only","Bins or intervals","Outliers"], answer:2},
+     {q:"If a histogram bin for heights 140 to 150 centimetres has a bar reaching 8, what does that mean?", options:["8 people are exactly 140 centimetres tall","There are 8 different bins in total","The tallest person is 8 centimetres","8 data points fall between 140 and 150 centimetres"], answer:3},
+     {q:"How is a histogram different from a bar graph of categories?", options:["A histogram never uses bars","A histogram groups continuous numerical data into ranges, while a bar graph often compares separate categories","There is no difference between the two graphs","A bar graph always shows numerical ranges"], answer:1}
+   ]},
+  {subject:"Science", title:"Newtons Second and Third Laws of Motion", summary:"Grade 5 Science strand: Newtons second law explains that a greater force is needed to accelerate a heavier object, while Newtons third law states that every action has an equal and opposite reaction.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does Newtons second law describe?", options:["How sound travels through air","How objects change colour","How force, mass, and acceleration are related","How plants grow toward light"], answer:2},
+     {q:"According to Newtons second law, what happens if you push a heavier object with the same force as a lighter one?", options:["The heavier object accelerates more slowly","Both objects stay perfectly still","Only the lighter object can move at all","The heavier object accelerates faster"], answer:0},
+     {q:"What does Newtons third law state?", options:["Heavier objects always move faster","Force has no effect on motion","Objects always stay at rest forever","For every action there is an equal and opposite reaction"], answer:3},
+     {q:"Which example demonstrates Newtons third law?", options:["A book sits still on a shelf","A car engine turns off by itself","A ball rolls downhill without any force","A swimmer pushes water backward and moves forward"], answer:3},
+     {q:"Why are Newtons laws useful for understanding everyday movement?", options:["They only apply to objects in outer space","Forces never actually affect how objects move","This concept has no relevance to physical science","They explain how forces cause and change the motion of objects around us"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Canadas Immigration Points System", summary:"Grade 5 Social Studies strand: Canadas immigration points system evaluates applicants for factors such as education, work experience, age, and language ability to help decide who may immigrate through certain programs.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the purpose of Canadas immigration points system?", options:["To randomly select applicants with no criteria","To limit travel between provinces","To evaluate applicants based on factors like education and work experience","To collect taxes from new immigrants"], answer:2},
+     {q:"Which of these might be considered under the points system?", options:["Favourite colour","Shoe size","Height","Language ability"], answer:3},
+     {q:"Why might language ability be an important factor in the points system?", options:["Language ability never affects daily life","Strong language skills can help newcomers find work and integrate into their community","The points system ignores every practical skill","This concept has no connection to immigration"], answer:1},
+     {q:"Is the points system the only way someone can immigrate to Canada?", options:["Immigration to Canada is never possible","Yes, it is the only possible pathway","No, there are other programs such as family sponsorship and refugee protection","Only points-based applicants may enter Canada at all"], answer:2},
+     {q:"Why might a country use a points system for immigration instead of choosing applicants randomly?", options:["Random selection is always required by law","It allows the country to consider specific skills and needs when welcoming newcomers","This concept has no relevance to social studies","Points systems ignore a countrys economic needs"], answer:1}
+   ]},
+]},
+{day:132, label:"Day 132 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Proverbs and Adages", summary:"Grade 5 Language strand: a proverb, or adage, is a short traditional saying that expresses a piece of wisdom or advice, such as Look before you leap.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a proverb?", options:["A type of punctuation mark","A short traditional saying that expresses wisdom or advice","A formal citation of a source","A long chapter in a novel"], answer:1},
+     {q:"What is another word for proverb used in this lesson?", options:["Simile","Metaphor","Adage","Prefix"], answer:2},
+     {q:"What lesson does the proverb Look before you leap teach?", options:["Looking is unnecessary before any action","Leaping is never a good idea","Think carefully before acting","Always run as fast as possible"], answer:2},
+     {q:"Why might proverbs be passed down for many generations?", options:["They capture useful lessons or advice in a memorable way","Proverbs are always forgotten quickly","Proverbs never contain any useful meaning","This concept has no connection to vocabulary"], answer:0},
+     {q:"Which of these is most likely an example of a proverb?", options:["Seven plus two equals nine.","She walked to the store.","The sky is blue today.","Better late than never."], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Profit and Loss in a Simple Business", summary:"Grade 5 Math strand: profit occurs when a businesss revenue is greater than its costs, while a loss occurs when costs are greater than revenue, and calculating both helps track how well a business is doing.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is profit?", options:["The number of customers a business has","A type of bank loan","The amount left over when revenue is greater than costs","The total amount spent on supplies"], answer:2},
+     {q:"What is a loss in a business?", options:["When a business has no customers at all","A type of savings account","When costs are greater than revenue","When revenue is greater than costs"], answer:2},
+     {q:"If a lemonade stand earns 40 dollars in sales and spent 25 dollars on supplies, what is the profit?", options:["25 dollars","65 dollars","40 dollars","15 dollars"], answer:3},
+     {q:"If a business spends 60 dollars but only earns 45 dollars in sales, what happened?", options:["The business had a profit of 15 dollars","The business broke even exactly","The business had a loss of 15 dollars","The business earned 60 dollars in profit"], answer:2},
+     {q:"Why is it useful for a business owner to track profit and loss?", options:["It helps them understand whether the business is making or losing money over time","Tracking money never helps a business owner","This concept has no relevance to financial literacy","Profit and loss have no connection to a business"], answer:0}
+   ]},
+  {subject:"Science", title:"Simple Circuits: Series and Parallel Connections", summary:"Grade 5 Science strand: in a series circuit, components are connected along a single path so current flows through each one in turn, while in a parallel circuit, components are connected along separate branches so current can take multiple paths.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"In a series circuit, how are components connected?", options:["Along a single path, one after another","Only to a single battery with no wires","Along many completely separate paths","They are not connected at all"], answer:0},
+     {q:"In a parallel circuit, how are components connected?", options:["They cannot be connected to each other","Along separate branches","Along a single unbroken path only","Only outside of the circuit"], answer:1},
+     {q:"What happens to the other bulbs in a series circuit if one bulb burns out?", options:["They continue to shine as brightly as before","They automatically get brighter","Nothing changes in the circuit at all","They all stop working because the single path is broken"], answer:3},
+     {q:"What happens to the other bulbs in a parallel circuit if one bulb burns out?", options:["All the bulbs immediately stop working","The other bulbs usually continue working through their own branch","The remaining bulbs turn a different colour","The circuit disappears completely"], answer:1},
+     {q:"Why might household wiring commonly use parallel circuits instead of series circuits?", options:["This concept has no relevance to science","Series circuits are always safer for a house","Parallel circuits never allow electricity to flow","So that one broken device or switch does not stop electricity from reaching everything else"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Role of Political Cartoons in Recording History", summary:"Grade 5 Social Studies strand: political cartoons use humour, symbols, and exaggeration to comment on events, leaders, or issues, offering historians a visual record of public opinion at a given time.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is a political cartoon?", options:["A formal government document","A photograph with no artistic elements","A drawing that uses humour and symbols to comment on events or issues","A type of national law"], answer:2},
+     {q:"Why might political cartoons use exaggeration?", options:["Exaggeration is never used in cartoons","To emphasize a point or opinion in a memorable way","Cartoons always avoid expressing any opinion","This concept has no connection to social studies"], answer:1},
+     {q:"What can political cartoons tell historians about the past?", options:["Nothing useful about historical opinions","Only information about weather patterns","How people viewed events or leaders at the time","The exact temperature on a historic day"], answer:2},
+     {q:"Why might a cartoonist use a symbol, such as an animal, to represent a country?", options:["Symbols never represent any larger idea","Cartoonists are required to avoid all symbolism","This concept has no relevance to history","Symbols can quickly communicate an idea without lengthy explanation"], answer:3},
+     {q:"Why is it useful to consider a cartoonists point of view when studying a political cartoon?", options:["This concept has no connection to social studies","Cartoons often express a particular opinion rather than a neutral fact","A cartoonists point of view never matters","Cartoons are always completely neutral and factual"], answer:1}
+   ]},
+]},
+{day:133, label:"Day 133 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Fable with a Moral", summary:"Grade 5 Language strand: a fable is a short story, often featuring animal characters, that teaches a lesson called a moral, usually stated directly at the end of the story.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a fable?", options:["A type of grammar rule","A long biography of a real person","A formal research report","A short story, often with animal characters, that teaches a lesson"], answer:3},
+     {q:"What is the moral of a fable?", options:["The title of the story","The lesson the story teaches","The name of the author","A list of characters"], answer:1},
+     {q:"Where is the moral of a fable often stated?", options:["Never stated anywhere","Only in the title","At the end of the story","At the very beginning before any events"], answer:2},
+     {q:"Why might a fable use animal characters instead of human characters?", options:["Animals with human traits can make a lesson memorable and entertaining","Fables are required to avoid all characters","Animal characters never teach any lesson","This concept has no connection to writing"], answer:0},
+     {q:"Which is most likely the moral of a fable about a slow but steady turtle winning a race?", options:["Fast animals always win every race.","Races are never worth entering.","Turtles cannot move at all.","Slow and steady wins the race."], answer:3}
+   ]},
+  {subject:"Math", title:"Algebra: Graphing Number Patterns on a Coordinate Grid", summary:"Grade 5 Math strand: the outputs of a number pattern can be plotted as ordered pairs on a coordinate grid, revealing whether the pattern grows steadily and forms a straight line.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What can be plotted on a coordinate grid to show a number pattern?", options:["Only the colour of each term","Ordered pairs made from the pattern inputs and outputs","A single unrelated point","The name of the pattern only"], answer:1},
+     {q:"If a pattern rule is add 3 starting at 2, what are the first three terms?", options:["2, 5, 8","2, 6, 10","2, 3, 4","3, 6, 9"], answer:0},
+     {q:"What might it mean if the plotted points of a pattern form a straight line?", options:["The points were plotted incorrectly every time","The pattern grows or shrinks at a steady, constant rate","The pattern only has one single term","The pattern has no rule at all"], answer:1},
+     {q:"In an ordered pair (x, y) on a graph, what does the x-value usually represent for a pattern?", options:["A random unrelated number","The input, such as the term number","The total of every term added together","The colour of the point"], answer:1},
+     {q:"Why is graphing a number pattern useful?", options:["Graphing a pattern never shows anything useful","It gives a visual way to see how the pattern changes and predict future terms","Patterns cannot be represented visually in any way","This concept has no connection to algebra"], answer:1}
+   ]},
+  {subject:"Science", title:"Types of Rocks: Igneous, Sedimentary, and Metamorphic", summary:"Grade 5 Science strand: rocks are classified as igneous, sedimentary, or metamorphic based on how they form, whether from cooled magma, compressed layers of sediment, or existing rock changed by heat and pressure.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"How does an igneous rock form?", options:["From rock heated and pressured underground","From cooled and hardened magma or lava","From layers of sand compressed together","From dissolved minerals in rivers only"], answer:1},
+     {q:"How does a sedimentary rock form?", options:["From cooled magma erupting from a volcano","From layers of sediment compressed together over time","From rock instantly turning to gas","From lightning striking the ground"], answer:1},
+     {q:"How does a metamorphic rock form?", options:["From rock dissolving completely into water","From existing rock changed by heat and pressure","From cooled lava only","From sediment that never compresses"], answer:1},
+     {q:"Which type of rock might contain visible layers of sand or mud pressed together?", options:["Molten rock","Igneous rock","Metamorphic rock","Sedimentary rock"], answer:3},
+     {q:"Why might a metamorphic rock look very different from the rock it originally was?", options:["Intense heat and pressure can change its mineral structure and appearance","This concept has no relevance to Earth science","Metamorphic rocks never change in any way","Heat and pressure have no effect on rocks"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The War Measures Act and Civil Liberties in Canadian History", summary:"Grade 5 Social Studies strand: the War Measures Act was a federal law that allowed the government to take special emergency powers during wartime or crises, at times limiting the civil liberties of Canadians.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What was the War Measures Act?", options:["A type of municipal bylaw","A federal law allowing special emergency powers during wartime or crises","A treaty with another country","A provincial tax law"], answer:1},
+     {q:"What could the War Measures Act allow the government to limit?", options:["The number of national holidays","The civil liberties of Canadians","The size of a province","The colours of the Canadian flag"], answer:1},
+     {q:"During what kind of situation might the War Measures Act have been used?", options:["A national emergency, such as a world war","A routine municipal election","A minor local disagreement","A weekly town meeting"], answer:0},
+     {q:"Why might historians view the use of the War Measures Act as controversial at times?", options:["It sometimes restricted the rights and freedoms of certain groups of Canadians","It never had any effect on Canadians","This concept has no connection to Canadian history","The Act was never actually used by the government"], answer:0},
+     {q:"Why is it important for students to study laws like the War Measures Act?", options:["This concept has no connection to social studies","It has no relevance to understanding government","Laws from the past never affect how we think today","It helps them understand the balance between government power and individual rights"], answer:3}
+   ]},
+]},
+{day:134, label:"Day 134 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Conditional Sentences (If-Then Statements)", summary:"Grade 5 Language strand: a conditional sentence uses an if clause to describe a condition and a main clause to describe the result, such as If it rains, we will stay inside.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does a conditional sentence describe?", options:["A list of nouns only","A type of rhyme scheme","A single interjection","A condition and its result"], answer:3},
+     {q:"Which part of a conditional sentence usually begins with the word if?", options:["The result clause only","The title of the sentence","A footnote","The condition clause"], answer:3},
+     {q:"Which sentence is a correctly formed conditional sentence?", options:["Rains if it we will stay inside.","If it rains, we will stay inside.","Inside stay we will if it rains","We stay inside it rains if."], answer:1},
+     {q:"In the sentence If you study, you will pass the test, what is the result clause?", options:["If you study","You will pass the test","A comma only","The word if"], answer:1},
+     {q:"Why might writers use conditional sentences?", options:["To show a cause-and-effect relationship between a condition and its outcome","This concept has no connection to grammar","Conditional sentences always describe two unrelated events","Conditional sentences never show any relationship between ideas"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Vertical and Adjacent Angles", summary:"Grade 5 Math strand: when two lines cross, they form vertical angles, which are opposite each other and always equal, and adjacent angles, which share a vertex and a side.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What are vertical angles?", options:["A single angle with no pair","Angles that never touch each other","A pair of opposite angles formed when two lines cross, which are always equal","Angles that always add up to 90 degrees"], answer:2},
+     {q:"What are adjacent angles?", options:["Angles that never share any point","Angles that are always exactly equal","Angles that share a vertex and a side","Angles found only in circles"], answer:2},
+     {q:"If two lines cross and one angle measures 50 degrees, what does its vertical angle measure?", options:["50 degrees","40 degrees","90 degrees","130 degrees"], answer:0},
+     {q:"Do adjacent angles always add up to 90 degrees?", options:["No, only certain adjacent angles add up to 90 degrees","Adjacent angles are never measured in degrees","Yes, every pair of adjacent angles equals 90 degrees","Adjacent angles always equal 360 degrees"], answer:0},
+     {q:"Why is knowing that vertical angles are equal useful in geometry?", options:["Vertical angles always have different measures","Vertical angles are never useful in geometry","It helps you find a missing angle measure without measuring it directly","This concept has no connection to angles"], answer:2}
+   ]},
+  {subject:"Science", title:"The Layers of Earths Atmosphere", summary:"Grade 5 Science strand: Earths atmosphere is made up of several layers, including the troposphere closest to the surface and the higher stratosphere, each with different roles such as containing weather or the ozone layer.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Which layer of the atmosphere is closest to Earths surface?", options:["The exosphere","The mesosphere","The stratosphere","The troposphere"], answer:3},
+     {q:"What happens in the troposphere?", options:["It is completely empty of air","Most weather occurs there","It is located far beyond the Moon","It contains no gases at all"], answer:1},
+     {q:"Which layer contains the ozone layer that filters harmful sunlight?", options:["The ocean floor","The core of the Earth","The stratosphere","The troposphere"], answer:2},
+     {q:"Why might air become thinner at higher layers of the atmosphere?", options:["There are fewer gas molecules as altitude increases","Air always becomes thicker with altitude","Gravity has no effect on the atmosphere","The atmosphere has no layers at all"], answer:0},
+     {q:"Why is it useful for scientists to study the different layers of the atmosphere?", options:["Studying the atmosphere provides no useful information","It helps them understand weather, climate, and the protection the atmosphere provides","This concept has no relevance to science","The atmosphere has no effect on Earth"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Crown Corporations in Canada — CBC, Canada Post, and More", summary:"Grade 5 Social Studies strand: a Crown corporation is a business owned by the government that provides services such as broadcasting or mail delivery, operating with public goals rather than only seeking profit.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is a Crown corporation?", options:["A business owned by the government","A private company with no government connection","A club run entirely by volunteers","A type of foreign embassy"], answer:0},
+     {q:"Which of these is an example of a Canadian Crown corporation?", options:["A local bakery","A family-owned farm","Canada Post","A private grocery chain"], answer:2},
+     {q:"What does the CBC provide as a Crown corporation?", options:["Provincial voting districts","Municipal water supply","National defence","Public broadcasting services"], answer:3},
+     {q:"Why might a government choose to run certain services through Crown corporations?", options:["To ensure important services are available to the public, not only for profit","Governments never operate any businesses","This concept has no relevance to government","Crown corporations are never connected to public services"], answer:0},
+     {q:"How is a Crown corporation different from a typical private business?", options:["It is owned by the government and often focuses on public service goals","It has no owners of any kind","It is identical in every way to a private business","It cannot provide any services to the public"], answer:0}
+   ]},
+]},
+{day:135, label:"Day 135 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Understanding Allegory", summary:"Grade 5 Language strand: an allegory is a story in which characters, settings, or events represent broader ideas or messages, often about morality or society, beyond the literal plot.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an allegory?", options:["A list of vocabulary definitions","A story with no characters at all","A type of punctuation mark","A story in which characters or events represent broader ideas or messages"], answer:3},
+     {q:"What might an allegory be about, beyond its literal plot?", options:["The authors favourite colour","A random unrelated topic","Morality or society","The exact date it was written"], answer:2},
+     {q:"Why might an author choose to write an allegory instead of stating a message directly?", options:["Authors never intend allegories to have any message","Allegories never contain any deeper meaning","It allows readers to discover a deeper meaning through the story itself","This concept has no connection to reading"], answer:2},
+     {q:"Which is most likely a feature of an allegory?", options:["A story that avoids any characters entirely","A text with only factual, literal information","A story with absolutely no symbolism","Characters that symbolize larger ideas, such as greed or justice"], answer:3},
+     {q:"Why might understanding allegory help a reader analyze a text more deeply?", options:["This concept has no relevance to reading comprehension","Allegory never adds any meaning to a story","It reveals a layer of meaning beyond the surface-level events of the story","Allegories are always identical to nonfiction texts"], answer:2}
+   ]},
+  {subject:"Math", title:"Data Management: Probability of Two Independent Events", summary:"Grade 5 Math strand: when two events are independent, meaning one does not affect the other, the probability of both happening can be found by multiplying their individual probabilities.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does it mean for two events to be independent?", options:["One event always causes the other to happen","The two events always happen at the exact same time","The outcome of one event does not affect the outcome of the other","Independent events can never both occur"], answer:2},
+     {q:"How do you find the probability of two independent events both happening?", options:["Multiply their individual probabilities","Add their individual probabilities","Divide the two probabilities by ten","Subtract one probability from the other"], answer:0},
+     {q:"If the probability of flipping heads is 1/2 and rolling a 6 is 1/6, what is the probability of both happening?", options:["1/2","1/12","1/8","2/3"], answer:1},
+     {q:"Which situation describes two independent events?", options:["Choosing a captain, then a co-captain from the remaining players","Picking a marble and then picking another without putting the first back","Drawing two cards from a deck without replacing the first","Flipping a coin and rolling a die"], answer:3},
+     {q:"Why is multiplying probabilities useful for independent events?", options:["It shows how much less likely it is for two separate events to both occur together","This concept has no connection to probability","Independent events always have a probability of exactly 1","Multiplying probabilities is never useful in data management"], answer:0}
+   ]},
+  {subject:"Science", title:"The Greenhouse Effect and Climate Change", summary:"Grade 5 Science strand: the greenhouse effect occurs when gases in the atmosphere trap heat from the sun, and an increase in these gases from human activity is linked to long-term changes in Earths climate.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does the greenhouse effect describe?", options:["Gases in the atmosphere trapping heat from the sun","Plants growing inside a glass building","The Moon reflecting light onto Earth","Ocean currents cooling the atmosphere"], answer:0},
+     {q:"Which of these is considered a greenhouse gas?", options:["Carbon dioxide","Oxygen","Nitrogen","Hydrogen"], answer:0},
+     {q:"What human activity is often linked to increasing greenhouse gases?", options:["Burning fossil fuels","Drinking more water","Recycling paper","Planting more forests"], answer:0},
+     {q:"Why is the greenhouse effect sometimes described as necessary for life on Earth in normal amounts?", options:["It helps keep the planet warm enough to support living things","It prevents any sunlight from reaching Earth","It has no connection to temperature at all","It removes all heat from the planet"], answer:0},
+     {q:"Why are scientists concerned about rising levels of greenhouse gases?", options:["This concept has no relevance to science","Rising greenhouse gases always cool the planet down","Extra trapped heat is linked to long-term changes in Earths climate","Greenhouse gases have no effect on climate at all"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Indian Act and Its Legacy", summary:"Grade 5 Social Studies strand: the Indian Act is a federal law first passed in 1876 that has governed many aspects of life for First Nations peoples, and its ongoing legacy remains an important part of understanding reconciliation in Canada.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the Indian Act?", options:["A provincial tax code","A federal law that has governed many aspects of life for First Nations peoples","A modern trade agreement","A treaty between Canada and another country"], answer:1},
+     {q:"Roughly when was the Indian Act first passed?", options:["1967","2000","1600","1876"], answer:3},
+     {q:"Why is the Indian Act considered significant in Canadian history?", options:["It was cancelled the year after it was passed","It has had a lasting impact on the rights and daily lives of First Nations peoples","It never affected anyone in Canada","This concept has no relevance to social studies"], answer:1},
+     {q:"Why do many people today discuss reforming or replacing parts of the Indian Act?", options:["No one has ever discussed changing the Act","Its historic restrictions and effects are seen as harmful to Indigenous self-determination","The Act has always been viewed as entirely beneficial","The Act has no connection to Indigenous peoples"], answer:1},
+     {q:"Why is learning about the Indian Act important for understanding reconciliation in Canada?", options:["Reconciliation has nothing to do with past laws","This concept has no relevance to Canadian history","It has no connection to reconciliation efforts","It helps explain the historical roots of challenges First Nations communities continue to address"], answer:3}
+   ]},
+]},
+{day:136, label:"Day 136 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Portmanteau Words (Blended Words)", summary:"Grade 5 Language strand: a portmanteau word blends the sounds and meanings of two other words into one new word, such as brunch from breakfast and lunch.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a portmanteau word?", options:["A word with no meaning at all","A word borrowed directly from a persons name","A word that blends the sounds and meanings of two other words","A type of punctuation mark"], answer:2},
+     {q:"The word brunch is a portmanteau of which two words?", options:["Break and munch only","Brunch and dinner","Bread and lunch","Breakfast and lunch"], answer:3},
+     {q:"What two words combine to form the portmanteau smog?", options:["Snow and frog","Smooth and log","Smoke and fog","Small and dog"], answer:2},
+     {q:"Why might people create portmanteau words?", options:["To describe a new idea by combining two familiar words","Portmanteau words never combine any existing words","This concept has no connection to vocabulary","Portmanteau words are always accidental mistakes"], answer:0},
+     {q:"Which of these is an example of a portmanteau word?", options:["Pencil","Window","Table","Motel"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Surface Area of Square-Based Pyramids", summary:"Grade 5 Math strand: the surface area of a square-based pyramid is found by adding the area of its square base to the areas of its four triangular faces.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What shape is the base of a square-based pyramid?", options:["A triangle","A pentagon","A square","A circle"], answer:2},
+     {q:"How many triangular faces does a square-based pyramid have?", options:["Four","Two","Six","One"], answer:0},
+     {q:"What is added to the area of the base to find the total surface area of a square-based pyramid?", options:["The areas of the four triangular faces","The perimeter of the base only","The height of the pyramid","The volume of the pyramid"], answer:0},
+     {q:"Why might you calculate the area of each triangular face separately before adding them together?", options:["Triangular faces never need to be measured","Each face may need its own measurements to calculate area accurately","Surface area never involves triangular faces","All faces are always exactly the same regardless of measurements"], answer:1},
+     {q:"Why is understanding surface area useful for a real object, like a tent shaped like a pyramid?", options:["Surface area has no connection to real objects","This concept has no relevance to geometry","Surface area only applies to two-dimensional shapes","It helps determine how much material is needed to cover the entire shape"], answer:3}
+   ]},
+  {subject:"Science", title:"Meteor Showers and Shooting Stars", summary:"Grade 5 Science strand: a meteor shower occurs when Earth passes through a trail of debris left by a comet, causing many small particles to burn up in the atmosphere and appear as shooting stars.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What causes a meteor shower?", options:["Wind currents high in the atmosphere","Sunlight reflecting off ocean water","The Moon exploding into small pieces","Earth passing through a trail of debris left by a comet"], answer:3},
+     {q:"What is commonly called a shooting star?", options:["A planet moving closer to Earth","A cloud lit up by the Moon","A star that physically falls out of the sky","A small particle burning up as it enters Earths atmosphere"], answer:3},
+     {q:"Why do meteors glow brightly as they fall?", options:["Friction with the atmosphere heats them until they burn up","They absorb heat from the ocean","They are struck by lightning","They reflect light from distant galaxies"], answer:0},
+     {q:"Are meteor showers generally predictable events?", options:["They can only be seen from outer space","Yes, they often occur at similar times each year","No, they have never been observed before","They only happen once per century"], answer:1},
+     {q:"Why might scientists study meteor showers?", options:["Meteor showers provide no useful scientific information","Meteor showers have no connection to comets","To learn more about comets and the debris left behind in space","This concept has no relevance to Earth and space science"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Public Opinion Polls and Their Role in Canadian Elections", summary:"Grade 5 Social Studies strand: public opinion polls survey a sample of people to estimate how a larger population feels about candidates or issues, often shaping media coverage during elections.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the purpose of a public opinion poll?", options:["To estimate how a larger population feels about candidates or issues","To replace the need for an election entirely","To officially declare the winner of an election","To collect taxes from voters"], answer:0},
+     {q:"How do pollsters usually gather information for a poll?", options:["By asking every single citizen in the country","By reading only newspaper headlines","By surveying a sample of people","By guessing without asking anyone"], answer:2},
+     {q:"Why might polls sometimes be inaccurate?", options:["This concept has no relevance to elections","Polls never involve any sampling of people","Polls are always exactly accurate with no exceptions","The sample surveyed may not perfectly represent the whole population"], answer:3},
+     {q:"How might public opinion polls influence media coverage during an election?", options:["Media may focus more attention on candidates shown to be leading in the polls","Polls are only used after an election ends","Media coverage always ignores every poll result","Polls have no effect on media coverage at all"], answer:0},
+     {q:"Why is it important for citizens to think critically about poll results?", options:["This concept has no relevance to social studies","Poll results are always a perfect prediction of the outcome","Citizens should always ignore all poll information","Polls are estimates, not guarantees, of how an election will turn out"], answer:3}
+   ]},
+]},
+{day:137, label:"Day 137 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Double Negatives and How to Correct Them", summary:"Grade 5 Language strand: a double negative occurs when two negative words are used in the same clause, which is considered incorrect in standard English and can be fixed by removing one negative word.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a double negative?", options:["Using two negative words in the same clause","Repeating the same noun twice","Using two positive words in a sentence","A sentence with no verb at all"], answer:0},
+     {q:"Which sentence contains a double negative?", options:["I do not have any pencils.","I do not have no pencils.","I have several pencils.","I have some pencils."], answer:1},
+     {q:"How can the double negative in I do not have no pencils be corrected?", options:["I do not have no pencils still.","I not have no pencils.","I do not have any pencils.","I have no pencils not."], answer:2},
+     {q:"Why are double negatives considered incorrect in standard English?", options:["Double negatives always make a sentence clearer","They can create confusing or contradictory meaning","This concept has no connection to grammar","Double negatives are required in every sentence"], answer:1},
+     {q:"Which sentence correctly avoids a double negative?", options:["She never wants no help at all.","She does not want any help.","She does not want no help.","She not want no help never."], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Estimating Area of Irregular Shapes Using a Grid", summary:"Grade 5 Math strand: the area of an irregular shape can be estimated by placing it on a grid and counting the number of whole and partial squares it covers.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"How can you estimate the area of an irregular shape using a grid?", options:["By measuring only its longest side","By counting only the whole squares outside the shape","By ignoring the shape completely","By counting the whole and partial squares it covers"], answer:3},
+     {q:"If a shape covers 10 whole squares and 4 half squares, what is a reasonable area estimate?", options:["12 square units","4 square units","10 square units","14 square units"], answer:0},
+     {q:"Why is this method called an estimate rather than an exact measurement?", options:["This concept has no connection to measurement","Grids always give a perfectly exact measurement","Partial squares must be judged and combined, which is not perfectly precise","Estimation is never involved in this method"], answer:2},
+     {q:"Why might placing a shape on a grid help when it has curved or uneven edges?", options:["This concept has no relevance to geometry","It breaks the shape into small, countable square units for easier estimation","Curved shapes have no area to measure","Grids cannot be used with curved shapes at all"], answer:1},
+     {q:"Why is estimating area with a grid a useful skill in real life?", options:["It helps approximate the size of oddly shaped spaces, such as a garden or lake","This concept has no connection to measurement","This skill is never useful outside of a classroom","Irregular shapes never appear in real life"], answer:0}
+   ]},
+  {subject:"Science", title:"Bioluminescence — Living Things That Make Their Own Light", summary:"Grade 5 Science strand: bioluminescence is the ability of certain living things, such as fireflies and some deep-sea creatures, to produce their own light through a chemical reaction inside their bodies.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is bioluminescence?", options:["The ability to survive without water","The ability to fly at high speeds","The ability to change colour like a chameleon","The ability of a living thing to produce its own light"], answer:3},
+     {q:"Which of these animals is known for bioluminescence?", options:["Fireflies","Elephants","Wolves","Sparrows"], answer:0},
+     {q:"How do bioluminescent organisms typically produce light?", options:["By using electricity from wires","By absorbing sunlight during the day","By reflecting moonlight off their skin","Through a chemical reaction inside their bodies"], answer:3},
+     {q:"Why might bioluminescence be especially useful for creatures living in the deep ocean?", options:["Bioluminescence has no use in the ocean","The deep ocean already has abundant sunlight","Deep-sea creatures never need any light at all","It provides a source of light in an environment with little or no sunlight"], answer:3},
+     {q:"Why might an organism use bioluminescence to attract prey or a mate?", options:["Bioluminescence always repels every nearby creature","Light never attracts other living things","Light can signal or lure other organisms in dark environments","This concept has no relevance to science"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Remembrance Day and Canadas War Memorials", summary:"Grade 5 Social Studies strand: Remembrance Day, observed on November 11, honours Canadians who served and died in wartime, and war memorials across the country help preserve the memory of their sacrifice.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does Remembrance Day honour?", options:["Canadians who served and died in wartime","The founding of a new political party","The signing of a trade agreement","The opening of a new national park"], answer:0},
+     {q:"On what date is Remembrance Day observed?", options:["July 1","November 11","October 31","January 1"], answer:1},
+     {q:"What symbol is commonly worn in Canada leading up to Remembrance Day?", options:["A small flag","A poppy","A red ribbon","A maple leaf pin"], answer:1},
+     {q:"What is the purpose of a war memorial?", options:["To help preserve the memory of those who served and sacrificed","To advertise a local business","To mark the location of a new building","To celebrate a sports championship"], answer:0},
+     {q:"Why might communities hold ceremonies at war memorials on Remembrance Day?", options:["To publicly honour and remember those who served their country","Ceremonies at war memorials never take place","War memorials have no connection to Remembrance Day","This concept has no connection to Canadian history"], answer:0}
+   ]},
+]},
+{day:138, label:"Day 138 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Folktale", summary:"Grade 5 Language strand: a folktale is a traditional story passed down through generations, often explaining customs or beliefs of a culture and featuring simple, memorable characters.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a folktale?", options:["A modern news article","A scientific research report","A type of formal essay","A traditional story passed down through generations"], answer:3},
+     {q:"What might a folktale help explain about a culture?", options:["Its customs or beliefs","A list of scientific formulas","The exact population of a country","A modern stock market trend"], answer:0},
+     {q:"How are folktales traditionally passed down?", options:["Through modern television broadcasts only","Only through official government documents","Through spoken storytelling across generations","Through scientific journals"], answer:2},
+     {q:"Why might folktale characters often be simple and memorable?", options:["Simple characters make a story impossible to remember","This makes the story easier to remember and retell","Folktales are required to avoid all characters","This concept has no connection to writing"], answer:1},
+     {q:"Which of these best describes a folktale?", options:["A traditional tale reflecting the values of a community","A scientific diagram with labels","A formal legal document","A factual news report with no story elements"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Expanded Form and Place Value for Large Numbers", summary:"Grade 5 Math strand: expanded form breaks a large number into the sum of the values of each digit based on place value, such as writing 4,532 as 4000 + 500 + 30 + 2.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does expanded form show about a number?", options:["A number written in Roman numerals","The number rounded to the nearest ten","The colour associated with a number","The value of each digit based on its place value"], answer:3},
+     {q:"How would 4,532 be written in expanded form?", options:["4000 + 500 + 3 + 2","400 + 50 + 3 + 2","4532 + 0","4000 + 500 + 30 + 2"], answer:3},
+     {q:"In the number 7,215, what is the value of the digit 2?", options:["200","2","2000","20"], answer:0},
+     {q:"Why is expanded form useful when working with large numbers?", options:["It shows the value contributed by each digit, making place value clearer","Expanded form only works for numbers under ten","This concept has no connection to number sense","Expanded form removes all meaning from a number"], answer:0},
+     {q:"Which expanded form correctly represents 9,043?", options:["9000 + 40 + 3","9000 + 400 + 3","900 + 40 + 3","9000 + 43"], answer:0}
+   ]},
+  {subject:"Science", title:"Echolocation — How Bats Navigate in the Dark", summary:"Grade 5 Science strand: echolocation is a method some animals, such as bats, use to navigate and find prey by emitting sounds and listening for the echoes that bounce back off nearby objects.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is echolocation?", options:["A method of seeing in bright daylight only","A process plants use to absorb sunlight","A way of communicating using only colour","A method of navigating by emitting sounds and listening for echoes"], answer:3},
+     {q:"Which animal is well known for using echolocation?", options:["Butterflies","Robins","Bats","Squirrels"], answer:2},
+     {q:"How does echolocation help a bat find prey in the dark?", options:["The returning echoes reveal the location and distance of nearby objects","Bats use their sense of taste to locate prey","Bats rely only on bright moonlight to see","Bats cannot find prey in the dark at all"], answer:0},
+     {q:"Why might echolocation be especially useful for an animal that is active at night?", options:["It allows the animal to navigate without relying on sight","Echolocation only works during the day","This concept has no relevance to science","Nocturnal animals never need to navigate"], answer:0},
+     {q:"Why do echoes bounce back differently depending on what they hit?", options:["Echoes never depend on the object they hit","Sound waves never bounce off any surface","Different objects reflect sound waves differently based on their size, shape, and material","All objects reflect every sound wave in exactly the same way"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Interprovincial Trade — Buying and Selling Within Canada", summary:"Grade 5 Social Studies strand: interprovincial trade refers to the buying and selling of goods and services between provinces and territories within Canada, an important part of the countrys overall economy.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is interprovincial trade?", options:["A type of municipal election","Trade that only happens with other countries","A tax charged on all imported goods","The buying and selling of goods and services between provinces and territories"], answer:3},
+     {q:"How is interprovincial trade different from international trade?", options:["It only involves goods from outside North America","It takes place within Canada rather than between Canada and other countries","There is no difference between the two types of trade","International trade only happens within one province"], answer:1},
+     {q:"Why might interprovincial trade be important to Canadas economy?", options:["Interprovincial trade has no effect on the economy","It allows provinces to share resources and products they may not produce themselves","Provinces are never allowed to trade with each other","This concept has no relevance to social studies"], answer:1},
+     {q:"What might be an example of interprovincial trade?", options:["A city collecting property taxes","Canada selling wheat to another country","Alberta selling oil products to Ontario","A country importing goods from overseas"], answer:2},
+     {q:"Why might differing provincial regulations sometimes create a barrier to interprovincial trade?", options:["Different rules between provinces can make it harder to move goods and services smoothly","This concept has no connection to Canadas economy","Provincial regulations never affect trade in any way","All provinces are required to have identical laws"], answer:0}
+   ]},
+]},
+{day:139, label:"Day 139 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Understanding Prologues and Epilogues", summary:"Grade 5 Language strand: a prologue is an introductory section that appears before the main story to provide background information, while an epilogue appears after the main story to show what happens afterward.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a prologue?", options:["A type of punctuation mark","The final chapter of a novel","An introductory section that appears before the main story","A list of characters only"], answer:2},
+     {q:"What is an epilogue?", options:["A summary written by a different author","A section that always appears before the title page","A section that appears after the main story to show what happens afterward","A dictionary of difficult words"], answer:2},
+     {q:"What kind of information might a prologue provide?", options:["A recipe for a meal","The exact ending of the story","A list of unrelated grammar rules","Background information that helps set up the story"], answer:3},
+     {q:"Why might an author include an epilogue?", options:["This concept has no connection to reading","An epilogue always appears before the story begins","Epilogues never provide any information about characters","To show readers the outcome or future of the characters after the main plot ends"], answer:3},
+     {q:"Why might a prologue be useful for a reader before starting the main story?", options:["It can provide context that helps the reader understand events to come","This concept has no relevance to reading comprehension","Prologues never relate to the main story in any way","A prologue always confuses readers on purpose"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Cube Numbers and Cube Roots", summary:"Grade 5 Math strand: a cube number is the result of multiplying a whole number by itself three times, such as 2 cubed equals 8, and a cube root works backward to find that original number.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does it mean to cube a number?", options:["To multiply it by itself two times","To add three to it","To multiply it by itself three times","To divide it by three"], answer:2},
+     {q:"What is 2 cubed (2 x 2 x 2)?", options:["4","8","9","6"], answer:1},
+     {q:"What is the cube root of 27?", options:["3","6","27","9"], answer:0},
+     {q:"How is finding a cube root different from finding a cube number?", options:["Cube roots have no connection to cube numbers","A cube root works backward to find the original number that was cubed","Cube roots always produce a larger number than the original","A cube root and a cube number mean exactly the same thing"], answer:1},
+     {q:"Why might understanding cube numbers be useful when studying volume?", options:["Cube numbers have no connection to volume at all","This concept has no relevance to number sense","Volume is never calculated using multiplication","The volume of a cube with equal side lengths involves multiplying that length by itself three times"], answer:3}
+   ]},
+  {subject:"Science", title:"Sublimation — When a Solid Turns Directly Into a Gas", summary:"Grade 5 Science strand: sublimation is the process by which a solid changes directly into a gas without passing through a liquid state, as seen when dry ice releases a fog-like vapour.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is sublimation?", options:["The process of a solid melting into a liquid","The process of a liquid changing into a solid","The process of a solid changing directly into a gas","The process of a gas changing into a liquid"], answer:2},
+     {q:"During sublimation, does a substance pass through a liquid state?", options:["It becomes a liquid and then a solid again","No, it skips the liquid state entirely","Sublimation only happens to liquids","Yes, it always becomes a liquid first"], answer:1},
+     {q:"Which substance is commonly used to demonstrate sublimation?", options:["Table salt","Cooking oil","Dry ice","Liquid water"], answer:2},
+     {q:"What is the opposite process of sublimation, in which a gas changes directly into a solid?", options:["Evaporation","Deposition","Condensation","Melting"], answer:1},
+     {q:"Why might sublimation be considered a change in state rather than a chemical change?", options:["The substance is still made of the same particles, just arranged differently","Sublimation always creates a completely new substance","This concept has no connection to matter","Sublimation destroys all the original particles"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Métis Sash and Symbols of Métis Culture", summary:"Grade 5 Social Studies strand: the Métis sash is a colourful, woven garment worn as a symbol of Métis identity and pride, historically used for practical purposes as well as to represent community and heritage.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the Métis sash?", options:["A colourful, woven garment that symbolizes Métis identity and pride","A musical instrument","A type of government document","A style of traditional footwear"], answer:0},
+     {q:"Besides being a symbol, what was the Métis sash historically used for?", options:["Marking provincial borders","Collecting taxes from traders","Measuring distances on a map","Practical purposes, such as carrying items or providing warmth"], answer:3},
+     {q:"What might wearing a Métis sash represent today?", options:["A type of school uniform","A rule required by federal law","Pride in Métis community and heritage","A random fashion choice with no meaning"], answer:2},
+     {q:"Why are cultural symbols like the Métis sash important to a community?", options:["Cultural symbols have no meaning to any community","Symbols always replace a communitys traditions entirely","They help preserve and express a groups identity and history","This concept has no relevance to social studies"], answer:2},
+     {q:"Why might students learn about symbols like the Métis sash in social studies?", options:["It helps build understanding and respect for Métis culture and heritage","This concept has no connection to Canadian history","Métis culture has no symbols worth studying","Learning about cultural symbols has no educational value"], answer:0}
+   ]},
+]},
+{day:140, label:"Day 140 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Vocabulary, and Storytelling Forms", summary:"Grade 5 Language strand review: students revisit correlative conjunctions, proverbs and adages, writing a fable with a moral, conditional sentences, and allegory.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a correlative conjunction?", options:["A word that shows possession","A single word that ends a sentence","A pair of words that work together to connect balanced parts of a sentence","A type of punctuation mark"], answer:2},
+     {q:"What is a proverb?", options:["A formal citation of a source","A type of punctuation mark","A long chapter in a novel","A short traditional saying that expresses wisdom or advice"], answer:3},
+     {q:"What is a fable?", options:["A type of grammar rule","A short story, often with animal characters, that teaches a lesson","A formal research report","A long biography of a real person"], answer:1},
+     {q:"What does a conditional sentence describe?", options:["A single interjection","A condition and its result","A type of rhyme scheme","A list of nouns only"], answer:1},
+     {q:"What is an allegory?", options:["A type of punctuation mark","A list of vocabulary definitions","A story in which characters or events represent broader ideas or messages","A story with no characters at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Data, Algebra, and Probability", summary:"Grade 5 Math strand review: students revisit histograms, profit and loss, graphing number patterns, vertical and adjacent angles, and probability of independent events.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a histogram show?", options:["A list of unrelated facts","A single data point only","How many data points fall into each of several equal-sized intervals","The names of categories with no numbers"], answer:2},
+     {q:"What is profit?", options:["A type of bank loan","The total amount spent on supplies","The number of customers a business has","The amount left over when revenue is greater than costs"], answer:3},
+     {q:"What can be plotted on a coordinate grid to show a number pattern?", options:["A single unrelated point","The name of the pattern only","Ordered pairs made from the pattern inputs and outputs","Only the colour of each term"], answer:2},
+     {q:"What are vertical angles?", options:["Angles that never touch each other","Angles that always add up to 90 degrees","A pair of opposite angles formed when two lines cross, which are always equal","A single angle with no pair"], answer:2},
+     {q:"What does it mean for two events to be independent?", options:["One event always causes the other to happen","The outcome of one event does not affect the outcome of the other","The two events always happen at the exact same time","Independent events can never both occur"], answer:1}
+   ]},
+  {subject:"Science", title:"Science Review: Forces, Matter, and Earth Systems", summary:"Grade 5 Science strand review: students revisit Newtons second and third laws, series and parallel circuits, types of rocks, layers of the atmosphere, and the greenhouse effect.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does Newtons second law describe?", options:["How sound travels through air","How force, mass, and acceleration are related","How plants grow toward light","How objects change colour"], answer:1},
+     {q:"In a series circuit, how are components connected?", options:["Along many completely separate paths","Along a single path, one after another","They are not connected at all","Only to a single battery with no wires"], answer:1},
+     {q:"How does an igneous rock form?", options:["From rock heated and pressured underground","From cooled and hardened magma or lava","From layers of sand compressed together","From dissolved minerals in rivers only"], answer:1},
+     {q:"Which layer of the atmosphere is closest to Earths surface?", options:["The exosphere","The mesosphere","The stratosphere","The troposphere"], answer:3},
+     {q:"What does the greenhouse effect describe?", options:["Plants growing inside a glass building","Gases in the atmosphere trapping heat from the sun","The Moon reflecting light onto Earth","Ocean currents cooling the atmosphere"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Immigration, Government, and Canadian History", summary:"Grade 5 Social Studies strand review: students revisit the immigration points system, political cartoons, the War Measures Act, Crown corporations, and the Indian Act.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the purpose of Canadas immigration points system?", options:["To collect taxes from new immigrants","To limit travel between provinces","To evaluate applicants based on factors like education and work experience","To randomly select applicants with no criteria"], answer:2},
+     {q:"What is a political cartoon?", options:["A photograph with no artistic elements","A formal government document","A drawing that uses humour and symbols to comment on events or issues","A type of national law"], answer:2},
+     {q:"What was the War Measures Act?", options:["A treaty with another country","A provincial tax law","A federal law allowing special emergency powers during wartime or crises","A type of municipal bylaw"], answer:2},
+     {q:"What is a Crown corporation?", options:["A business owned by the government","A type of foreign embassy","A private company with no government connection","A club run entirely by volunteers"], answer:0},
+     {q:"What is the Indian Act?", options:["A modern trade agreement","A federal law that has governed many aspects of life for First Nations peoples","A provincial tax code","A treaty between Canada and another country"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;

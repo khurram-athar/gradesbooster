@@ -5093,6 +5093,386 @@ const curriculum: DayContent[] = [
      {q:"What did the completion of the Canadian Pacific Railway achieve?", options:["It connected Canada to another continent by land","It replaced all water-based transportation in Canada","It had no effect on transportation in Canada","It connected the country from coast to coast"], answer:3}
    ]},
 ]},
+{day:131, label:"Day 131 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Relative Pronouns and Relative Clauses", summary:"Grade 6 Language strand: a relative clause begins with a relative pronoun such as who, whom, whose, which, or that, and adds extra information about a noun in the main sentence.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does a relative clause do?", options:["Removes the need for any punctuation","Replaces the subject of a sentence entirely","Always begins a brand new sentence","Adds extra information about a noun in the main sentence"], answer:3},
+     {q:"Which word is commonly used as a relative pronoun?", options:["Quickly","And","Under","Which"], answer:3},
+     {q:"Which sentence contains a relative clause?", options:["I enjoy reading many books.","I borrowed a book yesterday.","The library was very quiet.","The book that I borrowed was excellent."], answer:3},
+     {q:"Which relative pronoun is typically used to show possession?", options:["Which","Whose","Who","That"], answer:1},
+     {q:"Why might a writer use a relative clause instead of writing two separate short sentences?", options:["It always makes writing more confusing","Relative clauses are never grammatically correct","It combines related ideas smoothly into one clear sentence","It removes all detail from a sentence"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Surface Area of Pyramids", summary:"Grade 6 Math strand: the surface area of a pyramid is the sum of the area of its base and the areas of its triangular faces, found by adding together all the flat surfaces that cover the shape.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is surface area?", options:["The total area of all the flat surfaces that cover a three-dimensional shape","A measurement used only for two-dimensional shapes","The distance around the base of a shape only","The space enclosed inside a three-dimensional shape"], answer:0},
+     {q:"What two parts make up the surface area of a pyramid?", options:["The volume and the height","Only the apex of the pyramid","Only the base, with no other faces","The base and the triangular faces"], answer:3},
+     {q:"How many triangular faces does a square-based pyramid have?", options:["Six","Three","Four","Five"], answer:2},
+     {q:"Why might you calculate the area of each face separately before finding the total surface area?", options:["Pyramids do not have separate faces to measure","Surface area never requires measuring individual faces","All faces of a pyramid are always identical rectangles","Each face may have a different shape or size that must be measured individually"], answer:3},
+     {q:"What type of unit is surface area always measured in?", options:["Linear units","Square units","No units are needed","Cubic units"], answer:1}
+   ]},
+  {subject:"Science", title:"The Sun — Our Closest Star and Source of Energy", summary:"Grade 6 Science strand: the Sun is a massive ball of hot, glowing gas at the centre of our solar system, and its energy drives Earths weather, climate, and nearly all life through the process of photosynthesis.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is the Sun?", options:["A frozen moon orbiting Earth","A large rocky planet with no light of its own","A massive ball of hot, glowing gas at the centre of our solar system","An artificial satellite launched by humans"], answer:2},
+     {q:"What process do plants use to convert the Suns energy into food?", options:["Photosynthesis","Evaporation","Condensation","Respiration"], answer:0},
+     {q:"What does the Suns energy help drive on Earth?", options:["Earthquakes and volcanic eruptions","Ocean tides with no other effect","The rotation of the Moon only","Weather and climate patterns"], answer:3},
+     {q:"Why is the Sun classified as a star rather than a planet?", options:["It orbits around Earth","It has no connection to light or heat production","It reflects light from other stars","It produces its own light and heat through nuclear fusion"], answer:3},
+     {q:"Why is the Sun considered essential to nearly all life on Earth?", options:["Living things do not require any source of energy","Only ocean life depends on energy from the Sun","The Sun has no connection to food chains on Earth","Nearly all food chains ultimately depend on energy that begins with the Sun"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Chinese Head Tax — A Chapter in Canadian Immigration History", summary:"Grade 6 Social Studies strand: the Chinese Head Tax was a fee imposed on Chinese immigrants entering Canada beginning in 1885, a discriminatory policy later followed by an outright exclusion act, both now formally recognized as historical injustices.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the Chinese Head Tax?", options:["A tax paid by all Canadian citizens equally","A type of import tax on goods from China","A fee imposed on Chinese immigrants entering Canada","A reward given to new immigrants"], answer:2},
+     {q:"In what year did the Chinese Head Tax begin?", options:["1867","1945","1929","1885"], answer:3},
+     {q:"What law later replaced the head tax with an outright ban on Chinese immigration?", options:["The Official Languages Act","The Chinese Exclusion Act","The Persons Case","The Immigration Points Act"], answer:1},
+     {q:"Why is the Chinese Head Tax now viewed as a historical injustice?", options:["It had no lasting impact on Chinese Canadian communities","It applied equally and fairly to every immigrant group","It unfairly targeted a specific group of immigrants based on their origin","It was never actually enforced by the government"], answer:2},
+     {q:"Why might a government issue a formal apology for a past policy like the head tax?", options:["Apologies have no role in addressing historical injustices","To acknowledge historical wrongs and support reconciliation with affected communities","Formal apologies are only given for recent events","Governments never revisit past immigration policies"], answer:1}
+   ]},
+]},
+{day:132, label:"Day 132 — Tue", subjects:[
+  {subject:"Language", title:"Poetry: Writing Free Verse Poetry", summary:"Grade 6 Language strand: free verse poetry does not follow a fixed rhyme scheme or meter, allowing poets to focus on natural rhythm, vivid imagery, and line breaks that emphasize meaning.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is free verse poetry?", options:["A five-line poem with a set rhythm","Poetry that does not follow a fixed rhyme scheme or meter","Poetry written only about nature","Poetry that must always rhyme in a strict pattern"], answer:1},
+     {q:"What might a free verse poet emphasize instead of rhyme?", options:["A strict syllable count in every line","Random letters with no structure","Rhythm, imagery, and meaningful line breaks","Only punctuation at the end of lines"], answer:2},
+     {q:"Which of these is true about free verse poetry?", options:["It cannot use imagery of any kind","It must always follow an AABB rhyme scheme","Its lines can be irregular in length","Every line must be exactly the same length"], answer:2},
+     {q:"Why might a poet choose free verse over a strict form like a limerick?", options:["It gives more freedom to shape the poems structure around its meaning","Free verse has far stricter rules than a limerick","A limerick allows more creative freedom than free verse","Free verse cannot express any emotion"], answer:0},
+     {q:"Where a poet chooses to break a line in free verse can affect what?", options:["The poems required rhyme scheme","Only the poems title","Nothing about how the poem is read","The poems rhythm and emphasis"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Multiplying and Dividing Mixed Numbers", summary:"Grade 6 Math strand: multiplying and dividing mixed numbers requires first converting each mixed number into an improper fraction, then multiplying or dividing as with any fraction.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What must be done before multiplying two mixed numbers?", options:["Ignore the fractional parts entirely","Add the whole number parts together first","Convert each mixed number into an improper fraction","Round each mixed number to the nearest whole number"], answer:2},
+     {q:"What is 1 1/2 written as an improper fraction?", options:["2/1","3/1","3/2","1/2"], answer:2},
+     {q:"When dividing fractions, what operation replaces the division?", options:["Adding the two fractions together","Multiplying only the denominators","Subtracting the numerators only","Multiplying by the reciprocal of the second fraction"], answer:3},
+     {q:"What is 1 1/2 multiplied by 2?", options:["2","4","3","1"], answer:2},
+     {q:"Why is converting to an improper fraction helpful when multiplying mixed numbers?", options:["It makes the multiplication process consistent and easier to complete accurately","It changes the value of the original number","Improper fractions cannot be multiplied together","It removes the need to multiply at all"], answer:0}
+   ]},
+  {subject:"Science", title:"Generators — How Motion Creates Electricity", summary:"Grade 6 Science strand: a generator converts mechanical motion into electrical energy by rotating a coil of wire within a magnetic field, a process used in many power plants to supply electricity.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does a generator convert into electrical energy?", options:["Mechanical motion","Sound waves","Sunlight only","Chemical energy stored in a battery"], answer:0},
+     {q:"What happens when a coil of wire rotates within a magnetic field?", options:["The wire coil stops moving","An electric current is produced","The magnetic field disappears completely","Heat is produced with no electricity"], answer:1},
+     {q:"Which of these commonly uses a generator to produce electricity?", options:["A flashlight battery","A solar panel","A wooden ramp","A power plant"], answer:3},
+     {q:"What might provide the motion needed to turn a generator in a hydroelectric dam?", options:["Sunlight","Flowing water","Chemical reactions in soil","Wind stored in a container"], answer:1},
+     {q:"Why are generators important for supplying electricity to homes and cities?", options:["Generators have no connection to how electricity is supplied","Homes and cities do not rely on generators for electricity","They store electricity but never produce it","They convert other forms of energy into the electrical energy that powers devices"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Quebec Referendums and Canadian National Unity", summary:"Grade 6 Social Studies strand: Quebec held referendums in 1980 and 1995 asking voters whether the province should pursue sovereignty, and in both cases voters chose to remain part of Canada, shaping ongoing conversations about national unity.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What question did the Quebec referendums ask voters?", options:["Whether Canada should change its national anthem","Whether Quebec should build a new highway","Whether the province should pursue sovereignty","Whether a new province should be created"], answer:2},
+     {q:"In what years were the Quebec referendums held?", options:["1867 and 1929","1980 and 1995","1917 and 1960","1945 and 1970"], answer:1},
+     {q:"What was the outcome of both Quebec referendums?", options:["The referendums were cancelled before any voting","The results were never announced","Voters chose to remain part of Canada","Voters chose to become fully independent"], answer:2},
+     {q:"Why are the Quebec referendums considered significant in Canadian history?", options:["They had no effect on how Canadians think about national unity","They were held without any public attention","They only concerned issues unrelated to Quebec","They reflect ongoing questions about identity, language, and national unity"], answer:3},
+     {q:"Why might a province hold a referendum on a major constitutional question like sovereignty?", options:["Referendums remove the need for any public input","To let citizens directly decide on an issue that affects their political future","Only the federal government can decide such questions","Referendums are never used for major political questions"], answer:1}
+   ]},
+]},
+{day:133, label:"Day 133 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Eponyms — Words Named After People", summary:"Grade 6 Language strand: an eponym is a word that comes from the name of a real or fictional person, such as sandwich from the Earl of Sandwich, showing how names can become everyday vocabulary.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is an eponym?", options:["A word borrowed directly from another language","A word formed by combining two shorter words","A word with the exact opposite meaning of another word","A word that comes from the name of a person"], answer:3},
+     {q:"Which word is an eponym named after the Earl of Sandwich?", options:["Brunch","Sandwich","Smog","Motel"], answer:1},
+     {q:"Eponyms often develop when what happens?", options:["Two unrelated words are combined at random","A word is translated directly from another language","A person becomes closely associated with an invention or idea","A word is shortened for convenience"], answer:2},
+     {q:"Why might learning about eponyms help build vocabulary?", options:["It reveals interesting word history that helps in remembering meaning","Learning eponyms replaces the need to learn any other words","Eponyms have no connection to word meaning","Eponyms are never used in everyday English"], answer:0},
+     {q:"Which describes how an eponym differs from a portmanteau?", options:["An eponym and a portmanteau are exactly the same thing","A portmanteau always comes from a persons name","An eponym is always a blend of two shorter words","An eponym comes from a persons name, while a portmanteau blends two words"], answer:3}
+   ]},
+  {subject:"Math", title:"Algebra: Evaluating Algebraic Expressions by Substitution", summary:"Grade 6 Math strand: evaluating an algebraic expression by substitution means replacing each variable with a given number and then following the order of operations to find the value.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does it mean to evaluate an algebraic expression by substitution?", options:["Rewriting an expression with no numbers at all","Replacing each variable with a given number and calculating the value","Removing all variables from an expression","Guessing the value of an expression without calculating"], answer:1},
+     {q:"What is the value of 3x + 2 when x = 4?", options:["14","20","12","9"], answer:0},
+     {q:"What is the value of 2y - 5 when y = 6?", options:["12","7","1","6"], answer:1},
+     {q:"Which step should be followed after substituting numbers into an expression?", options:["Add the variable back into the expression","Follow the order of operations to simplify","Skip all multiplication and division steps","Immediately ignore any exponents present"], answer:1},
+     {q:"Why is substitution a useful algebra skill?", options:["It removes the need to ever use variables","It allows an expression to be evaluated for specific real-world values","It has no real-world application","Substitution only works with whole numbers"], answer:1}
+   ]},
+  {subject:"Science", title:"The Nitrogen Cycle and Its Role in Ecosystems", summary:"Grade 6 Science strand: the nitrogen cycle describes how nitrogen moves between the atmosphere, soil, and living things, with certain bacteria converting nitrogen gas into forms that plants can use to grow.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does the nitrogen cycle describe?", options:["How rocks are broken down over time","How nitrogen moves between the atmosphere, soil, and living things","How water evaporates and condenses in the atmosphere","How carbon moves through fossil fuels only"], answer:1},
+     {q:"What role do certain bacteria play in the nitrogen cycle?", options:["Removing all nitrogen permanently from an ecosystem","Converting nitrogen gas into forms plants can absorb and use","Producing oxygen for the atmosphere","Breaking down rocks into soil"], answer:1},
+     {q:"Where is most of the nitrogen on Earth found?", options:["Only in ocean water","In the atmosphere as a gas","Deep underground in solid rock","Only inside living plants"], answer:1},
+     {q:"Why do plants need nitrogen?", options:["To produce oxygen exclusively","To absorb sunlight more effectively","Plants have no need for nitrogen at all","To grow and produce proteins"], answer:3},
+     {q:"Why is the nitrogen cycle important to nearly all life on Earth?", options:["Nitrogen is a necessary building block for proteins in living organisms","Only bacteria require nitrogen to survive","Nitrogen has no role in supporting living organisms","The nitrogen cycle only affects the atmosphere"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Banting and Best — The Discovery of Insulin in Canada", summary:"Grade 6 Social Studies strand: Frederick Banting and Charles Best discovered insulin in 1921 at a Canadian university, a breakthrough that transformed diabetes from a fatal condition into a manageable one and remains one of Canadas most significant medical achievements.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did Banting and Best discover in 1921?", options:["X-ray imaging","Insulin","The vaccine for polio","Penicillin"], answer:1},
+     {q:"Where did Banting and Best make their discovery?", options:["At an American hospital","At a Canadian university","On a Canadian naval ship","In a European laboratory"], answer:1},
+     {q:"How did the discovery of insulin change the treatment of diabetes?", options:["It transformed diabetes from a fatal condition into a manageable one","It made diabetes impossible to diagnose","It had no effect on how diabetes was treated","It eliminated the need for any medical treatment at all"], answer:0},
+     {q:"Why is the discovery of insulin considered one of Canadas most significant achievements?", options:["It has saved countless lives worldwide and represents major Canadian scientific innovation","It only affected a small number of people in one city","It has no lasting impact on medicine today","It was discovered outside of Canada"], answer:0},
+     {q:"Why might international recognition, such as a Nobel Prize, be given for a discovery like insulin?", options:["The discovery had no benefit to human health","International awards are never given for medical discoveries","Nobel Prizes are only given for literature and peace","It represents a breakthrough with a major positive impact on human health"], answer:3}
+   ]},
+]},
+{day:134, label:"Day 134 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Public Service Announcement (PSA) Script", summary:"Grade 6 Language strand: a public service announcement, or PSA, is a short script written to inform or persuade an audience about an important issue, using clear language and a strong call to action.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is the purpose of a PSA?", options:["To advertise a product for profit","To report the days sports scores","To tell a long fictional story","To inform or persuade an audience about an important issue"], answer:3},
+     {q:"What should a strong PSA include near the end?", options:["A list of unrelated facts","An unrelated joke","A summary of a movie plot","A clear call to action"], answer:3},
+     {q:"Why do PSAs usually use short, clear sentences?", options:["Short sentences make a message harder to understand","So the message is easy to understand quickly","Clarity is not important in a PSA","PSAs are always read silently, never aloud"], answer:1},
+     {q:"Which topic would be most appropriate for a PSA?", options:["A made-up adventure story","Encouraging recycling in the community","A detailed movie review","A private conversation between friends"], answer:1},
+     {q:"Why might a PSA use a memorable slogan?", options:["It helps the audience remember and act on the message","PSAs are not meant to be remembered","A slogan removes the need for any other content","Slogans always confuse the intended audience"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Vertices, Edges, and Faces of 3D Shapes (Eulers Formula)", summary:"Grade 6 Math strand: every three-dimensional shape has vertices, edges, and faces, and for many solids these three counts are related by Eulers formula, which states that vertices plus faces equals edges plus two.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is a vertex on a 3D shape?", options:["The centre point inside a shape","A flat surface of the shape","A corner point where edges meet","A line segment connecting two faces"], answer:2},
+     {q:"What is an edge on a 3D shape?", options:["The space enclosed by a shape","A single point on a shape","A line segment where two faces meet","The flat surface of a shape"], answer:2},
+     {q:"How many faces does a cube have?", options:["Six","Four","Eight","Twelve"], answer:0},
+     {q:"According to Eulers formula, what does vertices plus faces equal?", options:["Edges plus two","Edges divided by two","Edges minus two","Edges times two"], answer:0},
+     {q:"How many vertices does a rectangular prism have?", options:["Four","Six","Eight","Ten"], answer:2}
+   ]},
+  {subject:"Science", title:"Hurricanes and Tornadoes — Extreme Weather Events", summary:"Grade 6 Science strand: hurricanes are large rotating storms that form over warm ocean water, while tornadoes are fast, narrow rotating columns of air that form over land, and both can cause significant destruction.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Where do hurricanes typically form?", options:["Only over large cities","Deep underground","Over frozen tundra","Over warm ocean water"], answer:3},
+     {q:"Where do tornadoes typically form?", options:["Inside caves","Over land","Only at the North Pole","Only over open ocean"], answer:1},
+     {q:"What is a key difference between hurricanes and tornadoes?", options:["Hurricanes only occur in winter and tornadoes only in summer","Hurricanes and tornadoes are exactly the same size","Hurricanes are much larger storms, while tornadoes are narrower and more localized","Tornadoes are always larger than hurricanes"], answer:2},
+     {q:"What is one danger commonly associated with hurricanes?", options:["Storm surge and flooding","A sudden drop in air temperature only","An increase in air pressure with no other effects","Complete lack of wind"], answer:0},
+     {q:"Why do meteorologists track these extreme weather events closely?", options:["Tracking storms has no practical purpose","To warn communities and reduce the risk to lives and property","Extreme weather events cannot be tracked or predicted","These events have no effect on communities"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Bill of Rights of 1960", summary:"Grade 6 Social Studies strand: the Canadian Bill of Rights, passed in 1960, was an early federal law protecting rights such as equality and freedom of speech, later expanded upon by the more powerful Canadian Charter of Rights and Freedoms in 1982.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"In what year was the Canadian Bill of Rights passed?", options:["1960","1867","1982","1929"], answer:0},
+     {q:"What did the Canadian Bill of Rights aim to protect?", options:["Only the rights of government officials","Trade agreements with other countries","Rights such as equality and freedom of speech","Property boundaries between provinces"], answer:2},
+     {q:"What later document expanded upon the protections in the Bill of Rights?", options:["The Immigration Points System","The Confederation agreement","The Official Languages Act","The Canadian Charter of Rights and Freedoms"], answer:3},
+     {q:"Why is the Bill of Rights considered less powerful than the later Charter?", options:["It was a federal law rather than part of the constitution, giving it a more limited legal reach","The two documents are legally identical","The Bill of Rights is still the primary rights document today","It protected far more rights than the Charter ever did"], answer:0},
+     {q:"Why might a country create foundational rights legislation like the Bill of Rights?", options:["To formally establish and protect the basic rights of its citizens","Rights legislation has no real effect on citizens","To limit the rights that citizens are allowed to have","Such legislation is never necessary in a democracy"], answer:0}
+   ]},
+]},
+{day:135, label:"Day 135 — Fri", subjects:[
+  {subject:"Language", title:"Grammar: Correlative Conjunctions", summary:"Grade 6 Language strand: correlative conjunctions are pairs of words, such as either or, neither nor, and not only but also, that work together to connect balanced parts of a sentence.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What are correlative conjunctions?", options:["Words used only at the very end of a sentence","Single words that never appear in pairs","Punctuation marks used to separate clauses","Pairs of words that work together to connect balanced parts of a sentence"], answer:3},
+     {q:"Which of these is a correlative conjunction pair?", options:["Under, over","Happy, sad","Either, or","Quickly, slowly"], answer:2},
+     {q:"Which sentence uses correlative conjunctions correctly?", options:["Neither the cat but the dog was hungry.","Neither the cat or the dog was hungry.","Neither the cat nor the dog was hungry.","Either the cat and the dog was hungry."], answer:2},
+     {q:"Which pair correctly completes this sentence: ___ the rain ___ the wind stopped the game?", options:["Both, so","Not only, or","Either, and","Neither, nor"], answer:3},
+     {q:"Why must the parts joined by correlative conjunctions usually match in grammatical form?", options:["Correlative conjunctions ignore sentence structure entirely","Matching grammatical form is never necessary","It keeps the sentence balanced and clear","Mismatched grammar always makes a sentence correct"], answer:2}
+   ]},
+  {subject:"Math", title:"Probability: Odds in Favour and Odds Against", summary:"Grade 6 Math strand: odds in favour compare the number of favourable outcomes to unfavourable outcomes, while odds against compare unfavourable outcomes to favourable ones, offering another way to express likelihood besides probability.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What do odds in favour compare?", options:["Unfavourable outcomes to the total outcomes","Only the total number of possible outcomes","Favourable outcomes to unfavourable outcomes","Nothing related to outcomes at all"], answer:2},
+     {q:"What do odds against compare?", options:["Unfavourable outcomes to favourable outcomes","Favourable outcomes to the total number of outcomes","The total outcomes to zero","Only the number of favourable outcomes"], answer:0},
+     {q:"If a bag has 3 red marbles and 5 blue marbles, what are the odds in favour of drawing red?", options:["3 to 8","3 to 5","5 to 3","8 to 3"], answer:1},
+     {q:"How is expressing odds different from expressing probability?", options:["Probability never involves comparing outcomes","Odds can only be used for coin flips","Odds and probability are calculated in exactly the same way","Odds compare outcomes to each other rather than to the total"], answer:3},
+     {q:"Why might odds be a useful way to describe likelihood in games?", options:["They directly compare the chances of winning to the chances of losing","Odds can only be calculated after a game ends","Odds always give the exact same information as a percent","Odds have no connection to games or likelihood"], answer:0}
+   ]},
+  {subject:"Science", title:"Earths Layers — Crust, Mantle, and Core", summary:"Grade 6 Science strand: the Earth is made up of layers, including the thin outer crust, the mostly solid mantle, and the core, which consists of a molten outer layer and a solid inner layer.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is the outermost layer of the Earth called?", options:["The crust","The mantle","The outer core","The inner core"], answer:0},
+     {q:"What layer lies beneath the crust and makes up most of Earths volume?", options:["The mantle","The crust","The outer core","The atmosphere"], answer:0},
+     {q:"What are the two parts of Earths core?", options:["A molten outer core and a solid inner core","A frozen outer core and a molten inner core","Two identical solid layers","A gas outer core and a liquid inner core"], answer:0},
+     {q:"Why is the inner core solid despite extremely high temperatures?", options:["Immense pressure keeps it solid even at very high temperatures","The inner core has no connection to temperature or pressure","Solid rock cannot melt under any conditions","The inner core is actually the coolest layer of the Earth"], answer:0},
+     {q:"Why is understanding Earths layered structure useful for explaining events like earthquakes?", options:["Earthquakes only occur in the atmosphere","The layers of the Earth never interact with each other","Movement and pressure between these layers can cause the ground to shift and shake","Earths layers have no connection to earthquakes"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Official Languages Act and Bilingualism in Canada", summary:"Grade 6 Social Studies strand: the Official Languages Act of 1969 established English and French as Canadas two official languages, requiring federal services to be available in both languages across the country.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did the Official Languages Act establish?", options:["A ban on speaking any language other than English","English and French as Canadas two official languages","A requirement to learn a third language in schools","A single official language for all of Canada"], answer:1},
+     {q:"In what year was the Official Languages Act passed?", options:["1867","1929","1982","1969"], answer:3},
+     {q:"What does the Official Languages Act require of federal services?", options:["That they be available in ten different languages","That they be available in both English and French","That they only be offered in English","That they be offered only in French"], answer:1},
+     {q:"Why might Canada have chosen to recognize two official languages?", options:["Recognizing two languages has no connection to Canadian history","To reflect the countrys history and the presence of both English and French speaking communities","Canada has never had any French speaking communities","The choice was made without any historical reasoning"], answer:1},
+     {q:"Why is bilingualism significant to Canadian identity?", options:["Canadian identity is unrelated to language","Only one language has ever shaped Canadian history","Bilingualism has no connection to Canadian identity","It reflects the shared history of English and French speaking communities in shaping the country"], answer:3}
+   ]},
+]},
+{day:136, label:"Day 136 — Mon", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Editorial Cartoons", summary:"Grade 6 Language strand: editorial cartoons use humor, symbolism, and exaggeration to express an opinion about a current issue, requiring readers to interpret visual clues alongside any captions.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is the purpose of an editorial cartoon?", options:["To provide a purely factual weather report","To tell a lengthy fictional story","To express an opinion about a current issue","To advertise a product for sale"], answer:2},
+     {q:"What techniques do editorial cartoonists commonly use?", options:["Complex mathematical diagrams","Long paragraphs of text with no images","Only realistic, detailed drawings with no symbolism","Humor, symbolism, and exaggeration"], answer:3},
+     {q:"Why might a reader need background knowledge to understand an editorial cartoon?", options:["Editorial cartoons only use random, meaningless images","Background knowledge is never useful when reading a cartoon","The symbols and references often relate to current events","Editorial cartoons never relate to real events"], answer:2},
+     {q:"What role does exaggeration play in an editorial cartoon?", options:["It emphasizes a point or opinion in a memorable way","It has no effect on how a viewer understands the cartoon","Exaggeration removes any opinion from the cartoon","It always makes a cartoons message unclear"], answer:0},
+     {q:"Why are editorial cartoons considered a form of persuasive media?", options:["They are created only for entertainment with no message","Editorial cartoons never contain any opinion","They only present neutral, unbiased information","They are designed to influence how readers think about an issue"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Payroll Deductions and Net Income", summary:"Grade 6 Math strand: net income is the amount of money left after payroll deductions, such as taxes and other contributions, are subtracted from gross income, the total amount earned before deductions.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is gross income?", options:["Money earned only from investments","The total cost of monthly expenses","The total amount earned before any deductions","The amount left after taxes are subtracted"], answer:2},
+     {q:"What is net income?", options:["The amount left after deductions are subtracted from gross income","The total amount earned before any deductions","The amount spent on entertainment each month","A fixed amount that never changes"], answer:0},
+     {q:"Which of these is an example of a payroll deduction?", options:["Income tax","A birthday gift","A restaurant meal","A grocery bill"], answer:0},
+     {q:"If gross income is 800 dollars and deductions total 150 dollars, what is the net income?", options:["800 dollars","650 dollars","150 dollars","950 dollars"], answer:1},
+     {q:"Why is it important to understand the difference between gross and net income when budgeting?", options:["Gross income is always the amount available to spend","Deductions never affect how much money a person can spend","Budgeting does not require knowing either amount","Net income reflects the actual amount available to spend or save"], answer:3}
+   ]},
+  {subject:"Science", title:"Inclined Planes and Wedges — Simple Machines That Reduce Effort", summary:"Grade 6 Science strand: an inclined plane is a flat, sloped surface that reduces the force needed to raise an object, while a wedge is essentially two inclined planes joined together, often used to split or cut materials.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is an inclined plane?", options:["A machine made only of gears","A lever with a fixed pivot point","A wheel connected to a rope or cable","A flat, sloped surface that reduces the force needed to raise an object"], answer:3},
+     {q:"What is a wedge?", options:["A rope threaded through a pulley","A flat surface with no slope at all","A wheel that spins freely on an axle","Two inclined planes joined together, often used to split or cut"], answer:3},
+     {q:"Which everyday object is an example of an inclined plane?", options:["A ramp","A seesaw","A doorknob","A pair of scissors"], answer:0},
+     {q:"Which everyday object is an example of a wedge?", options:["A rolling pin","An axe blade","A flagpole","A wheelbarrow wheel"], answer:1},
+     {q:"Why does using a ramp make it easier to move a heavy object upward compared to lifting it straight up?", options:["A ramp always requires more force than lifting straight up","Using a ramp removes the need for any force at all","It spreads the work over a longer distance, reducing the force needed at any moment","Ramps have no effect on the force needed to move an object"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Battle of Vimy Ridge and Canadian Identity", summary:"Grade 6 Social Studies strand: the Battle of Vimy Ridge in 1917 saw Canadian troops fighting together as a unified force for the first time in World War I, a victory often described as a defining moment in the development of Canadian national identity.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"In what year did the Battle of Vimy Ridge take place?", options:["1917","1945","1867","1929"], answer:0},
+     {q:"What made the Battle of Vimy Ridge significant for Canadian troops?", options:["It was fought entirely by soldiers from another country","It was a minor skirmish with no lasting significance","It was the first time all four Canadian divisions fought together as a unified force","It took place with no Canadian involvement at all"], answer:2},
+     {q:"During what larger conflict did the Battle of Vimy Ridge occur?", options:["The Cold War","The War of 1812","World War II","World War I"], answer:3},
+     {q:"Why is Vimy Ridge often described as a defining moment for Canadian identity?", options:["The victory helped build a sense of national pride and unity distinct from Britain","The battle weakened Canadian unity and pride","Vimy Ridge is remembered only outside of Canada","The battle had no effect on how Canadians viewed their country"], answer:0},
+     {q:"Why do memorials, such as the one at Vimy Ridge, remain important today?", options:["Vimy Ridge has been forgotten by most Canadians today","Memorials have no role in remembering historical events","Memorials are built only for events with no historical value","They honour those who served and preserve the memory of significant historical events"], answer:3}
+   ]},
+]},
+{day:137, label:"Day 137 — Tue", subjects:[
+  {subject:"Language", title:"Oral Communication: Group Discussion and Collaborative Talk Norms", summary:"Grade 6 Language strand: effective group discussions rely on shared norms such as listening actively, taking turns, staying on topic, and building respectfully on others ideas.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a shared norm that supports effective group discussion?", options:["Listening actively and taking turns","Speaking only about unrelated topics","Interrupting whenever you have a new idea","Ignoring what other speakers say"], answer:0},
+     {q:"Why is staying on topic important during a group discussion?", options:["Staying on topic makes a discussion less useful","It keeps the conversation focused and useful for everyone","Topics never matter in a group discussion","Discussions are more effective when they constantly change subject"], answer:1},
+     {q:"What does it mean to build on someone elses idea?", options:["Completely ignoring what another speaker said","Ending the discussion immediately after someone speaks","Adding to or extending what another speaker said","Repeating your own idea without listening to others"], answer:2},
+     {q:"Why might a group agree on discussion norms before starting?", options:["Agreeing on norms always slows down a discussion unnecessarily","It helps ensure the conversation stays respectful and productive","Group norms have no effect on how a discussion goes","Norms are only useful for written work, not discussions"], answer:1},
+     {q:"Which behavior would NOT support a productive group discussion?", options:["Building respectfully on what others say","Interrupting other speakers frequently","Listening carefully to other viewpoints","Taking turns to share ideas"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Comparing and Ordering Numbers in Scientific Notation", summary:"Grade 6 Math strand: numbers written in scientific notation can be compared by first comparing their powers of ten, and if those are equal, comparing the leading decimal factors.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"When comparing two numbers in scientific notation, what should be compared first?", options:["The decimal point only","The colour used to write the number","The number of digits in the answer","The powers of ten"], answer:3},
+     {q:"Which number is greater: 3.2 x 10^5 or 4.1 x 10^4?", options:["3.2 x 10^5","It cannot be determined","4.1 x 10^4","They are equal"], answer:0},
+     {q:"If two numbers in scientific notation have the same power of ten, what determines which is greater?", options:["Nothing can be determined in this case","The colour used to display the number","The leading decimal factor","The number of zeros in the original number"], answer:2},
+     {q:"Why is scientific notation useful for comparing very large numbers?", options:["It only works for comparing small numbers","It allows numbers to be compared quickly using their exponents","Scientific notation removes the ability to compare numbers","It makes numbers impossible to compare"], answer:1},
+     {q:"Which number is smaller: 5.6 x 10^3 or 5.9 x 10^3?", options:["5.6 x 10^3","It cannot be determined","5.9 x 10^3","They are equal"], answer:0}
+   ]},
+  {subject:"Science", title:"Separating Mixtures — Filtration, Evaporation, and Distillation", summary:"Grade 6 Science strand: mixtures can be separated using physical methods such as filtration, which removes solids from liquids, evaporation, which leaves dissolved solids behind as a liquid turns to gas, and distillation, which separates liquids by boiling point.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does filtration separate?", options:["Two gases from each other","Colours from a mixture","Two liquids with the same boiling point","Solids from liquids"], answer:3},
+     {q:"What happens during evaporation to separate a mixture?", options:["The liquid turns into gas, leaving dissolved solids behind","The solid turns directly into a liquid","Nothing changes state during evaporation","The mixture becomes more concentrated as a solid"], answer:0},
+     {q:"What property does distillation use to separate liquids?", options:["Differences in smell only","Differences in colour only","Differences in weight only","Differences in boiling point"], answer:3},
+     {q:"Which method would best separate sand from water?", options:["Magnetism","Distillation","Freezing","Filtration"], answer:3},
+     {q:"Why are these separation methods considered physical rather than chemical processes?", options:["These methods permanently destroy the original substances","They always create entirely new substances","They do not change the chemical makeup of the substances involved","Physical processes always involve chemical reactions"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Printing Press and the Spread of Ideas in Europe", summary:"Grade 6 Social Studies strand: the printing press, developed in the 1400s, allowed books and documents to be produced quickly and affordably, dramatically increasing literacy and speeding the spread of new ideas across Europe.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did the printing press allow people to do?", options:["Produce books and documents quickly and affordably","Travel between countries more quickly","Communicate instantly across long distances","Build large stone monuments"], answer:0},
+     {q:"In roughly what century was the printing press developed?", options:["The 1800s","The 1400s","The 1700s","The 900s"], answer:1},
+     {q:"What effect did the printing press have on literacy across Europe?", options:["It made books more expensive and harder to obtain","It helped increase literacy by making books more widely available","It reduced the number of books being produced","It had no effect on how many people could read"], answer:1},
+     {q:"Why did the printing press speed up the spread of new ideas?", options:["Information could be copied and distributed far faster than by hand","It made it impossible to share information widely","The printing press slowed down communication significantly","Ideas could no longer be written down at all"], answer:0},
+     {q:"Why might the printing press be considered one of the most important inventions in history?", options:["It transformed how knowledge and ideas were shared across society","It had no lasting impact on how societies developed","It only affected a small, isolated region for a short time","The printing press was quickly forgotten after its invention"], answer:0}
+   ]},
+]},
+{day:138, label:"Day 138 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Show, Dont Tell — Bringing Scenes to Life", summary:"Grade 6 Language strand: show, dont tell is a writing technique in which a writer uses sensory detail and action to let readers experience a scene, rather than simply stating a characters emotion.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does show, dont tell mean in writing?", options:["Simply stating a characters emotion directly","Writing only in the form of a list","Avoiding any description of a character at all","Using sensory detail and action to let readers experience a scene"], answer:3},
+     {q:"Which sentence best demonstrates showing rather than telling?", options:["Her hands trembled as she gripped the letter.","She was in a nervous mood.","She was nervous.","She felt a bit worried."], answer:0},
+     {q:"Why might showing be more engaging for a reader than simply telling?", options:["Readers prefer writing with no sensory detail at all","Showing always makes writing more confusing to follow","It lets a reader draw conclusions and feel more involved in the scene","Telling is always more descriptive than showing"], answer:2},
+     {q:"Which technique commonly supports show, dont tell?", options:["Listing facts with no description","Vivid sensory description and specific action","Using only abstract, general statements","Avoiding any mention of setting or action"], answer:1},
+     {q:"When might a writer choose to tell rather than show?", options:["When moving quickly through a less important moment","Only the ending of a story can ever use telling","A writer should never use telling in any situation","Telling should always replace showing in every sentence"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Constructing Perpendicular and Angle Bisectors", summary:"Grade 6 Math strand: a perpendicular bisector divides a line segment into two equal parts at a right angle, while an angle bisector divides an angle into two equal smaller angles, both often constructed using a compass and straightedge.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a perpendicular bisector do to a line segment?", options:["Rotates the segment ninety degrees without dividing it","Extends the segment to twice its length","Divides it into three unequal parts","Divides it into two equal parts at a right angle"], answer:3},
+     {q:"What does an angle bisector do to an angle?", options:["Doubles the size of the original angle","Turns the angle into a straight line","Removes the vertex of the angle entirely","Divides it into two equal smaller angles"], answer:3},
+     {q:"What tools are traditionally used to construct these bisectors?", options:["A compass and straightedge","A calculator and protractor only","A computer program exclusively","A ruler and coloured pencils"], answer:0},
+     {q:"If a 60 degree angle is bisected, what is the measure of each resulting angle?", options:["30 degrees","15 degrees","120 degrees","60 degrees"], answer:0},
+     {q:"Why might a perpendicular bisector be useful for finding the midpoint of a segment?", options:["It crosses the segment exactly at its midpoint","It never intersects the original segment","A perpendicular bisector always avoids the midpoint","It only applies to angles, not line segments"], answer:0}
+   ]},
+  {subject:"Science", title:"Bioindicators — Using Species to Measure Environmental Health", summary:"Grade 6 Science strand: a bioindicator is a species whose presence, absence, or condition reflects the health of an ecosystem, since some organisms are especially sensitive to changes in pollution or habitat quality.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a bioindicator?", options:["A species that has no connection to environmental conditions","A machine used to filter polluted water","A tool used only to measure air temperature","A species whose presence, absence, or condition reflects ecosystem health"], answer:3},
+     {q:"Why are some organisms useful as bioindicators?", options:["They are completely unaffected by any environmental change","They cannot be studied by scientists","They are especially sensitive to changes in pollution or habitat quality","They only live in areas with no pollution at all"], answer:2},
+     {q:"Which organism is commonly used as a bioindicator of water quality?", options:["Certain aquatic insects such as mayflies","Domesticated farm animals","Large ocean-going whales only","Birds that never come near water"], answer:0},
+     {q:"What might a sudden decline in a bioindicator species suggest about an ecosystem?", options:["The ecosystem may be experiencing pollution or habitat degradation","The ecosystem is definitely becoming healthier","The species decline is unrelated to environmental conditions","Bioindicator declines have no meaning for ecosystem health"], answer:0},
+     {q:"Why might scientists monitor bioindicators instead of measuring every environmental factor directly?", options:["Every environmental factor is equally easy to measure directly","Bioindicators are never used in real scientific research","Bioindicators can reveal overall ecosystem health more efficiently than testing every factor separately","Monitoring bioindicators provides no useful information"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Great Wall of China — Construction and Purpose", summary:"Grade 6 Social Studies strand: the Great Wall of China is a massive series of fortifications built over centuries to protect Chinese states and empires from invasions and raids, stretching thousands of kilometres across northern China.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the main purpose of the Great Wall of China?", options:["To provide a route for trading ships","To serve only as a decorative monument","To mark the boundary of a single small village","To protect Chinese states and empires from invasions and raids"], answer:3},
+     {q:"How was the Great Wall of China built?", options:["In a single year by one small group of workers","Over centuries, connecting and extending earlier fortifications","By a single ruler working alone","It was built entirely underground"], answer:1},
+     {q:"Roughly how long does the Great Wall of China stretch?", options:["Only a few kilometres","Thousands of kilometres","Around one hundred metres","Less than one kilometre"], answer:1},
+     {q:"Why did different Chinese dynasties continue building and repairing the wall?", options:["The wall was rebuilt only for decorative purposes","The wall required no maintenance once built","To maintain a strong defense against invasions over time","Later dynasties had no interest in defense"], answer:2},
+     {q:"Why is the Great Wall of China considered an extraordinary feat of engineering?", options:["It was constructed across difficult terrain over an immense distance using the technology of its time","Modern machinery was used throughout its construction","It was built entirely on flat, easy terrain","The wall required no planning or coordinated effort"], answer:0}
+   ]},
+]},
+{day:139, label:"Day 139 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Understanding Cliches and Overused Language", summary:"Grade 6 Language strand: a cliche is an expression that has been used so often it has lost much of its original impact, so writers often replace cliches with fresh, original language.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a cliche?", options:["A word borrowed from another language","A brand new expression that no one has ever used before","An expression that has been used so often it has lost its original impact","A grammar rule about punctuation"], answer:2},
+     {q:"Which of these phrases is a common cliche?", options:["A quiet stream flowed behind the barn","The unusual purple bicycle rolled slowly","As busy as a bee","The scientist recorded three new measurements"], answer:2},
+     {q:"Why might a writer avoid using too many cliches?", options:["Avoiding cliches makes writing harder to understand","Cliches always make writing feel fresh and new","Cliches are required in every piece of writing","Overused phrases can make writing feel unoriginal"], answer:3},
+     {q:"What might a writer do instead of using a cliche?", options:["Remove all descriptive language entirely","Use only technical vocabulary","Repeat the same cliche multiple times","Create a fresh, original description"], answer:3},
+     {q:"Why do cliches often start out as effective, vivid expressions?", options:["They were once striking or clever before becoming overused","They are created specifically to sound dull","Cliches are always invented by accident with no meaning","Cliches have never been considered effective at any point"], answer:0}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Between Units of Area", summary:"Grade 6 Math strand: converting between units of area, such as square centimetres and square metres, requires squaring the linear conversion factor since area involves two dimensions.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"Why must the linear conversion factor be squared when converting units of area?", options:["Because area only involves a single dimension","Linear and area units always use the same conversion factor","Because area involves two dimensions, length and width","Squaring is never required when converting area units"], answer:2},
+     {q:"How many square centimetres are in one square metre?", options:["1,000","10,000","100,000","100"], answer:1},
+     {q:"If 1 metre equals 100 centimetres, what does 1 square metre equal in square centimetres?", options:["100 x 100, or 10,000","100 divided by 2, or 50","100, with no change","100 + 100, or 200"], answer:0},
+     {q:"Which unit would be most appropriate for measuring the area of a classroom floor?", options:["Millimetres","Square metres","Cubic centimetres","Square kilometres"], answer:1},
+     {q:"Why is it incorrect to simply use the linear conversion factor when converting area units?", options:["Area and length always use identical conversion factors","Area units never need to be converted","Linear conversion factors apply only to volume, not area","Area is two-dimensional, so the conversion factor must be applied twice"], answer:3}
+   ]},
+  {subject:"Science", title:"3D Printing and Modern Manufacturing Technology", summary:"Grade 6 Science strand: 3D printing is a technology that builds three-dimensional objects layer by layer from a digital design, allowing for rapid prototyping and customized manufacturing in fields from medicine to engineering.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"How does a 3D printer create an object?", options:["By photographing an object from multiple angles","By carving an object out of a solid block","By building it layer by layer from a digital design","By melting an existing object into a new shape"], answer:2},
+     {q:"What is one advantage of 3D printing for designers and engineers?", options:["3D printing cannot be used to test new designs","It allows for rapid prototyping of new designs","It removes the need for any digital design","It always takes longer than traditional manufacturing methods"], answer:1},
+     {q:"In which field can 3D printing be used to create custom medical devices?", options:["Creative writing","Music composition","Medicine","Ancient history"], answer:2},
+     {q:"What must exist before a 3D printer can create a physical object?", options:["A finished physical prototype","A digital design file","A handwritten letter","A separate 3D printed copy"], answer:1},
+     {q:"Why is 3D printing considered useful for creating customized products?", options:["Each object can be designed and printed individually to fit specific needs","3D printing can only create identical mass-produced objects","Customization is impossible with 3D printing technology","Digital designs cannot be modified once created"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Supreme Court of Canada and Judicial Review", summary:"Grade 6 Social Studies strand: the Supreme Court of Canada is the countrys highest court, with the power of judicial review to determine whether laws are constitutional, making it a key institution in Canadas system of government.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Supreme Court of Canada?", options:["The countrys highest court","An advisory group with no legal authority","A committee that writes new laws","A branch of the Royal Canadian Mounted Police"], answer:0},
+     {q:"What power allows the Supreme Court to determine whether laws are constitutional?", options:["Executive privilege","Royal assent","Parliamentary sovereignty","Judicial review"], answer:3},
+     {q:"Why is judicial review an important power for the Supreme Court to hold?", options:["Judicial review has no real effect on Canadian law","It removes the need for any constitution at all","It ensures that laws align with the principles of the constitution","It allows the Court to write brand new laws directly"], answer:2},
+     {q:"How does the Supreme Court fit into Canadas system of government?", options:["It has no connection to the rest of the government","It only handles disputes between provinces and no other cases","It acts as the final authority on legal disputes and constitutional questions","It is responsible for enforcing traffic laws only"], answer:2},
+     {q:"Why might citizens value having an independent court system like the Supreme Court?", options:["It helps protect rights and ensures laws are applied fairly, separate from political influence","Courts function better when controlled directly by elected officials","Judicial independence removes all fairness from the legal system","An independent court system has no benefit to citizens"], answer:0}
+   ]},
+]},
+{day:140, label:"Day 140 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Poetry, and Media Literacy", summary:"Grade 6 Language strand review: students revisit relative clauses, free verse poetry, eponyms, PSA scripts, correlative conjunctions, editorial cartoons, and the show-dont-tell writing technique.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does a relative clause do?", options:["Replaces the subject of a sentence entirely","Always begins a brand new sentence","Adds extra information about a noun in the main sentence","Removes the need for any punctuation"], answer:2},
+     {q:"What is free verse poetry?", options:["Poetry written only about nature","A five-line poem with a set rhythm","Poetry that must always rhyme in a strict pattern","Poetry that does not follow a fixed rhyme scheme or meter"], answer:3},
+     {q:"What is an eponym?", options:["A word borrowed directly from another language","A word that comes from the name of a person","A word with the exact opposite meaning of another word","A word formed by combining two shorter words"], answer:1},
+     {q:"What are correlative conjunctions?", options:["Words used only at the very end of a sentence","Pairs of words that work together to connect balanced parts of a sentence","Punctuation marks used to separate clauses","Single words that never appear in pairs"], answer:1},
+     {q:"What does show, dont tell mean in writing?", options:["Writing only in the form of a list","Avoiding any description of a character at all","Using sensory detail and action to let readers experience a scene","Simply stating a characters emotion directly"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Geometry, Number Sense, and Probability", summary:"Grade 6 Math strand review: students revisit surface area of pyramids, multiplying and dividing mixed numbers, evaluating expressions by substitution, Eulers formula, and odds in favour and against.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is surface area?", options:["A measurement used only for two-dimensional shapes","The distance around the base of a shape only","The total area of all the flat surfaces that cover a three-dimensional shape","The space enclosed inside a three-dimensional shape"], answer:2},
+     {q:"What must be done before multiplying two mixed numbers?", options:["Add the whole number parts together first","Round each mixed number to the nearest whole number","Ignore the fractional parts entirely","Convert each mixed number into an improper fraction"], answer:3},
+     {q:"What does it mean to evaluate an algebraic expression by substitution?", options:["Removing all variables from an expression","Guessing the value of an expression without calculating","Replacing each variable with a given number and calculating the value","Rewriting an expression with no numbers at all"], answer:2},
+     {q:"According to Eulers formula, what does vertices plus faces equal?", options:["Edges minus two","Edges times two","Edges plus two","Edges divided by two"], answer:2},
+     {q:"What do odds in favour compare?", options:["Unfavourable outcomes to the total outcomes","Favourable outcomes to unfavourable outcomes","Only the total number of possible outcomes","Nothing related to outcomes at all"], answer:1}
+   ]},
+  {subject:"Science", title:"Science Review: Energy, Earth Systems, and Technology", summary:"Grade 6 Science strand review: students revisit the Sun as a star, generators, the nitrogen cycle, Earths layers, and simple machines such as inclined planes and wedges.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is the Sun?", options:["A frozen moon orbiting Earth","A massive ball of hot, glowing gas at the centre of our solar system","An artificial satellite launched by humans","A large rocky planet with no light of its own"], answer:1},
+     {q:"What does a generator convert into electrical energy?", options:["Sunlight only","Mechanical motion","Chemical energy stored in a battery","Sound waves"], answer:1},
+     {q:"What does the nitrogen cycle describe?", options:["How rocks are broken down over time","How nitrogen moves between the atmosphere, soil, and living things","How water evaporates and condenses in the atmosphere","How carbon moves through fossil fuels only"], answer:1},
+     {q:"What is the outermost layer of the Earth called?", options:["The inner core","The outer core","The mantle","The crust"], answer:3},
+     {q:"What is an inclined plane?", options:["A wheel connected to a rope or cable","A flat, sloped surface that reduces the force needed to raise an object","A lever with a fixed pivot point","A machine made only of gears"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Canadian History and World Innovations", summary:"Grade 6 Social Studies strand review: students revisit the Chinese Head Tax, the Quebec referendums, the discovery of insulin, the Battle of Vimy Ridge, and the printing press.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the Chinese Head Tax?", options:["A reward given to new immigrants","A type of import tax on goods from China","A fee imposed on Chinese immigrants entering Canada","A tax paid by all Canadian citizens equally"], answer:2},
+     {q:"What question did the Quebec referendums ask voters?", options:["Whether Quebec should build a new highway","Whether Canada should change its national anthem","Whether the province should pursue sovereignty","Whether a new province should be created"], answer:2},
+     {q:"What did Banting and Best discover in 1921?", options:["The vaccine for polio","Penicillin","Insulin","X-ray imaging"], answer:2},
+     {q:"What made the Battle of Vimy Ridge significant for Canadian troops?", options:["It was the first time all four Canadian divisions fought together as a unified force","It took place with no Canadian involvement at all","It was fought entirely by soldiers from another country","It was a minor skirmish with no lasting significance"], answer:0},
+     {q:"What did the printing press allow people to do?", options:["Build large stone monuments","Produce books and documents quickly and affordably","Communicate instantly across long distances","Travel between countries more quickly"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
