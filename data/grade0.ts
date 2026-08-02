@@ -1840,61 +1840,65 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[
-  {subject:"Language", title:"Language Review: Sounds, Syllables, and Stories", summary:"Students review key Language skills from recent weeks: the letters N and O, beginning and ending sounds, syllables, opposites, story elements, writing names, and listening to directions.",
-   resourceLabel:"YouTube: Language Review: Sounds, Syllables, and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Sounds%2C%20Syllables%2C%20and%20Stories%20kindergarten%20educational",
+  {subject:"Language", title:"Syllables: Breaking Words into Parts", summary:"Students learn to break words into syllables — the beats or chunks within a word — and practise counting syllables by clapping them out. This skill helps young readers recognize word parts and build stronger phonological awareness for reading and spelling.",
+   resourceLabel:"YouTube: Syllables: Breaking Words into Parts", resourceUrl:"https://www.youtube.com/results?search_query=Syllables%3A%20Breaking%20Words%20into%20Parts%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9S7DY2lgJlU",
    quiz:[
-     {q:"Which letter makes the sound heard at the start of nest?", options:["N","P","O","M"], answer:0},
-     {q:"Which letter makes the round shape like the one in orange?", options:["M","O","P","N"], answer:1},
-     {q:"How many syllables (claps) are in the word banana?", options:["3","2","4","1"], answer:0},
-     {q:"What is the opposite of hot?", options:["Sunny","Warm","Dry","Cold"], answer:3},
-     {q:"What part of a story tells us who the characters are?", options:["The end","The cover only","The beginning","The middle"], answer:2}
+     {q:"How many syllables (claps) are in the word cat?", options:["1","2","3","4"], answer:0},
+     {q:"How many syllables are in the word butterfly?", options:["2","4","1","3"], answer:3},
+     {q:"What do we call the beats or chunks within a word?", options:["Rhymes","Syllables","Sentences","Letters"], answer:1},
+     {q:"How many syllables are in the word sun?", options:["2","3","1","4"], answer:2},
+     {q:"Clapping is one way to help us ___ syllables.", options:["Erase","Draw","Ignore","Count"], answer:3}
    ],
    worksheet:[
-     {prompt:"What letter comes right after M?", answers:["n"]},
-     {prompt:"What letter comes right after N?", answers:["o"]},
-     {prompt:"What part of a story usually solves the problem: the beginning or the end?", answers:["end","the end"]}
+     {prompt:"How many syllables are in the word dog?", answers:["1","one"]},
+     {prompt:"How many syllables are in the word rabbit?", answers:["2","two"]},
+     {prompt:"What do we call the parts of a word we can clap out?", answers:["syllables","syllable"]}
    ]},
-  {subject:"Math", title:"Math Review: Numbers, Time, and Shapes", summary:"Students review recent Math skills: comparing numbers, making 10, position words, telling time, tally marks, symmetry, numbers to 30, estimation, and doubles facts.",
-   resourceLabel:"YouTube: Math Review: Numbers, Time, and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Time%2C%20and%20Shapes%20kindergarten%20educational",
+  {subject:"Math", title:"Shapes: Sorting 2D Shapes by Attributes", summary:"Students explore different two-dimensional shapes and practise sorting them by their attributes, such as number of sides and corners. This helps build early geometry skills and an understanding of how shapes can be grouped and compared.",
+   resourceLabel:"YouTube: Shapes: Sorting 2D Shapes by Attributes", resourceUrl:"https://www.youtube.com/results?search_query=Shapes%3A%20Sorting%202D%20Shapes%20by%20Attributes%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ux_kLd7qAcY",
    quiz:[
-     {q:"Which is more: 4 or 9?", options:["4","They are equal","9","Cannot tell"], answer:2},
-     {q:"6 and ___ make 10.", options:["5","2","3","4"], answer:3},
-     {q:"What number comes right after 27?", options:["26","28","30","29"], answer:1},
-     {q:"3 + 3 = ?", options:["5","8","7","6"], answer:3},
-     {q:"A shape where both halves match when folded is called ___.", options:["Random","Symmetrical","Uneven","Broken"], answer:1}
+     {q:"How many sides does a triangle have?", options:["4","2","3","5"], answer:2},
+     {q:"How many corners does a square have?", options:["3","4","5","2"], answer:1},
+     {q:"Sorting shapes by their number of sides is sorting by ___.", options:["Attribute","Color","Size","Weight"], answer:0},
+     {q:"Which shape has no corners at all?", options:["Circle","Triangle","Square","Rectangle"], answer:0},
+     {q:"How many sides does a rectangle have?", options:["3","4","5","6"], answer:1}
    ],
    worksheet:[
-     {prompt:"Which is less: 3 or 8?", answers:["3","three"]},
-     {prompt:"8 and ___ make 10.", answers:["2","two"]},
-     {prompt:"4 + 4 = ?", answers:["8","eight"]}
+     {prompt:"How many sides does a circle have?", answers:["0","zero","none"]},
+     {prompt:"How many corners does a triangle have?", answers:["3","three"]},
+     {prompt:"Name one shape that has 4 sides.", answers:["square","rectangle"]}
    ]},
-  {subject:"Science", title:"Science Review: Senses, Life Cycles, and Our Earth", summary:"Students review recent Science topics: the five senses, the life cycles of butterflies and frogs, healthy habits, reducing waste, simple machines, magnets, and rocks and soil.",
-   resourceLabel:"YouTube: Science Review: Senses, Life Cycles, and Our Earth", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Senses%2C%20Life%20Cycles%2C%20and%20Our%20Earth%20kindergarten%20educational",
+  {subject:"Science", title:"The Five Senses", summary:"Students learn about the five senses — sight, hearing, smell, taste, and touch — and how each sense organ helps us explore and understand the world around us. They practise matching senses to the body parts we use for them.",
+   resourceLabel:"YouTube: The Five Senses", resourceUrl:"https://www.youtube.com/results?search_query=The%20Five%20Senses%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=q1xNuU7gaAQ",
    quiz:[
-     {q:"Which body part do we use to hear?", options:["Eyes","Ears","Nose","Tongue"], answer:1},
-     {q:"What is the first stage of a butterfly life cycle?", options:["Adult","Chrysalis","Egg","Caterpillar"], answer:2},
-     {q:"What comes out of a frog egg?", options:["Adult frog","Tadpole","Chrysalis","Caterpillar"], answer:1},
-     {q:"What word means a magnet pulling an object toward it?", options:["Attracting","Repelling","Melting","Floating"], answer:0},
-     {q:"What is soil partly made of?", options:["Only air","Only metal","Tiny broken rock pieces","Only water"], answer:2}
+     {q:"Which body part do we use to see?", options:["Eyes","Ears","Nose","Tongue"], answer:0},
+     {q:"Which sense helps us know if food tastes sweet or sour?", options:["Sight","Taste","Hearing","Smell"], answer:1},
+     {q:"How many senses do people have?", options:["3","4","5","6"], answer:2},
+     {q:"Which body part do we use to smell?", options:["Ears","Eyes","Skin","Nose"], answer:3},
+     {q:"Which sense do we use when we touch something soft?", options:["Hearing","Touch","Taste","Sight"], answer:1}
    ],
    worksheet:[
-     {prompt:"Which body part helps you taste food?", answers:["tongue"]},
-     {prompt:"What is the last stage of a butterfly life cycle?", answers:["butterfly"]},
-     {prompt:"What word means two magnets pushing away from each other?", answers:["repel","repelling"]}
+     {prompt:"Which body part do we use to hear sounds?", answers:["ears","ear"]},
+     {prompt:"Which sense helps us feel if something is hot or cold?", answers:["touch"]},
+     {prompt:"Name one of the five senses.", answers:["sight","hearing","smell","taste","touch"]}
    ]},
-  {subject:"SocialStudies", title:"Social Studies Review: Community and Change", summary:"Students review recent Social Studies topics: transportation, maps, changes over time, traffic safety, where food comes from, caring for belongings, teamwork, keeping our community clean, and children around the world.",
-   resourceLabel:"YouTube: Social Studies Review: Community and Change", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%20and%20Change%20kindergarten%20educational",
+  {subject:"SocialStudies", title:"What Is a Community?", summary:"Students learn what a community is and explore the people, places, and jobs that make up the community where they live. They discuss how community members work together and help one another.",
+   resourceLabel:"YouTube: What Is a Community?", resourceUrl:"https://www.youtube.com/results?search_query=What%20Is%20a%20Community%3F%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wP_IbZSxhEs",
    quiz:[
-     {q:"Which vehicle travels on train tracks?", options:["Train","Boat","Bicycle","Car"], answer:0},
-     {q:"What colour traffic light means stop?", options:["Blue","Yellow","Green","Red"], answer:3},
-     {q:"Who grows the fruits and vegetables we eat?", options:["Pilots","Doctors","Teachers","Farmers"], answer:3},
-     {q:"What do we call garbage left on the ground instead of in a bin?", options:["Recycling","Soil","Compost","Litter"], answer:3},
-     {q:"Working together toward a shared goal is called ___.", options:["Arguing","Competing alone","Ignoring","Teamwork"], answer:3}
+     {q:"Which word means a group of people who live and work together in the same area?", options:["Community","Classroom","Country","Family"], answer:0},
+     {q:"Who helps keep a community safe from fires?", options:["A baker","A firefighter","A farmer","A pilot"], answer:1},
+     {q:"Where do children in a community usually go to learn?", options:["A store","A farm","A school","A hospital"], answer:2},
+     {q:"Which of these is a job that helps a community?", options:["Sleeping","Watching TV","Playing","Delivering mail"], answer:3},
+     {q:"Working together to help our community is called ___.", options:["Littering","Teamwork","Arguing","Ignoring others"], answer:1}
    ],
    worksheet:[
-     {prompt:"What colour traffic light means go?", answers:["green"]},
-     {prompt:"Where should garbage go?", answers:["garbage bin","bin","trash can"]},
-     {prompt:"Name one way children around the world are similar, like going to school or playing.", answers:["school","play","family"]}
+     {prompt:"Name one job that helps people in a community.", answers:["firefighter","police officer","teacher","doctor","mail carrier"]},
+     {prompt:"Where do people in a community go to buy food?", answers:["store","grocery store","market"]},
+     {prompt:"What do we call the place where you live, with your neighbors and local helpers?", answers:["community","neighborhood"]}
    ]},
 ]},
 {day:41, label:"Day 41 — Mon", subjects:[
