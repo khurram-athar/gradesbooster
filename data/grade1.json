@@ -40851,5 +40851,3332 @@
         ]
       }
     ]
+  },
+  {
+    "day": 131,
+    "label": "Day 131 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vowel Teams: au and aw",
+        "summary": "Grade 1 Language strand: the vowel teams au and aw both make the same sound, heard in words like sauce, haul, saw, and claw.",
+        "resourceLabel": "YouTube: Vowel Teams: au and aw",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20au%20and%20aw%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the au vowel team?",
+            "options": [
+              "Fun",
+              "Sauce",
+              "Cat",
+              "Bike"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the aw vowel team?",
+            "options": [
+              "Dog",
+              "Cup",
+              "Claw",
+              "Run"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do au and aw usually make the same sound?",
+            "options": [
+              "Never",
+              "No",
+              "Only sometimes",
+              "Yes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word does NOT contain the au or aw sound?",
+            "options": [
+              "Cat",
+              "Haul",
+              "Saw",
+              "Claw"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Complete the sentence: I like to draw with chalk on the side___.",
+            "options": [
+              "walk",
+              "wuke",
+              "wilk",
+              "wolk"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give a word with the au vowel team.",
+            "answers": [
+              "sauce",
+              "haul"
+            ]
+          },
+          {
+            "prompt": "Give a word with the aw vowel team.",
+            "answers": [
+              "saw",
+              "claw"
+            ]
+          },
+          {
+            "prompt": "Do au and aw make the same sound?",
+            "answers": [
+              "yes",
+              "yes they do"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 20s",
+        "summary": "Grade 1 Math strand: students skip count by 20s, saying 20, 40, 60, 80, and continuing on toward 200.",
+        "resourceLabel": "YouTube: Skip Counting by 20s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%2020s%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What comes next: 20, 40, 60, ___?",
+            "options": [
+              "75",
+              "90",
+              "70",
+              "80"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What comes next: 80, 100, 120, ___?",
+            "options": [
+              "135",
+              "150",
+              "130",
+              "140"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip counting by 20s means we add ___ each time.",
+            "options": [
+              "10",
+              "20",
+              "2",
+              "25"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which list correctly skip counts by 20s?",
+            "options": [
+              "20, 30, 40, 50",
+              "20, 40, 50, 80",
+              "20, 40, 60, 80",
+              "20, 25, 30, 35"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number comes right before 200 when skip counting by 20s?",
+            "options": [
+              "170",
+              "180",
+              "190",
+              "195"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What comes after 20, 40, 60?",
+            "answers": [
+              "80",
+              "eighty"
+            ]
+          },
+          {
+            "prompt": "Skip count by 20s from 20 to 100.",
+            "answers": [
+              "20,40,60,80,100",
+              "20 40 60 80 100"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 200 when skip counting by 20s?",
+            "answers": [
+              "180",
+              "one hundred eighty"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Octopuses and Squid: Ocean Creatures Without Bones",
+        "summary": "Grade 1 Science strand: octopuses and squid are ocean animals with soft bodies and no bones, and they use their arms and tentacles to swim and catch food.",
+        "resourceLabel": "YouTube: Octopuses and Squid: Ocean Creatures Without Bones",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Octopuses%20and%20Squid%3A%20Ocean%20Creatures%20Without%20Bones%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Do octopuses have bones inside their bodies?",
+            "options": [
+              "Only when young",
+              "Yes",
+              "No",
+              "Only in their arms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do octopuses use to swim and catch food?",
+            "options": [
+              "Wings",
+              "Fins only",
+              "Claws",
+              "Arms and tentacles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do octopuses and squid live?",
+            "options": [
+              "In the ocean",
+              "In the desert",
+              "Underground",
+              "In trees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is true about squid?",
+            "options": [
+              "They are mammals",
+              "They have soft bodies and no bones",
+              "They live only on land",
+              "They have hard shells like turtles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Animals with no bones inside their body are called ___.",
+            "options": [
+              "Amphibians",
+              "Mammals",
+              "Invertebrates",
+              "Reptiles"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Do octopuses have bones?",
+            "answers": [
+              "no",
+              "no they do not"
+            ]
+          },
+          {
+            "prompt": "What body part do octopuses use to catch food?",
+            "answers": [
+              "their arms",
+              "arms and tentacles"
+            ]
+          },
+          {
+            "prompt": "Where do octopuses and squid live?",
+            "answers": [
+              "the ocean",
+              "in the ocean"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our School Principal: Leading Our School",
+        "summary": "Grade 1 Social Studies strand: the school principal leads the school, helping teachers, students, and families, and making sure the school runs smoothly and safely.",
+        "resourceLabel": "YouTube: Our School Principal: Leading Our School",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Principal%3A%20Leading%20Our%20School%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the main role of a school principal?",
+            "options": [
+              "Cleaning the hallways",
+              "Driving the school bus",
+              "Cooking lunch",
+              "Leading and supporting the whole school"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who might a principal work closely with?",
+            "options": [
+              "Teachers, students, and families",
+              "No one at all",
+              "Only the mayor",
+              "Only firefighters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the principals job important to a school?",
+            "options": [
+              "It helps the school run smoothly and safely",
+              "Only classrooms matter",
+              "Principals do not help students",
+              "It has no effect on the school"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is something a principal might do?",
+            "options": [
+              "Grow crops on a farm",
+              "Fly an airplane",
+              "Welcome new students to the school",
+              "Deliver mail across town"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A school principal is an example of a ___.",
+            "options": [
+              "Type of weather",
+              "Type of vehicle",
+              "Kind of animal",
+              "Community helper"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a school principal do?",
+            "answers": [
+              "leads the school",
+              "helps run the school"
+            ]
+          },
+          {
+            "prompt": "Who does a principal work with?",
+            "answers": [
+              "teachers, students, and families",
+              "the whole school community"
+            ]
+          },
+          {
+            "prompt": "Why is a principal important?",
+            "answers": [
+              "helps the school run smoothly and safely",
+              "leads and supports the school"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 132,
+    "label": "Day 132 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Prefixes: mis- and non-",
+        "summary": "Grade 1 Language strand: the prefixes mis- and non- change the meaning of a word, as in misspell meaning to spell wrong and nonstop meaning without stopping.",
+        "resourceLabel": "YouTube: Prefixes: mis- and non-",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20mis-%20and%20non-%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does the prefix mis- usually mean?",
+            "options": [
+              "Not needed",
+              "Again",
+              "Wrong or badly",
+              "Before"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the prefix non- usually mean?",
+            "options": [
+              "Not or without",
+              "Before something",
+              "Very much",
+              "Again and again"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the word misspell mean?",
+            "options": [
+              "To spell a word wrong",
+              "To spell a word correctly",
+              "To read a word",
+              "To write neatly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the word nonstop mean?",
+            "options": [
+              "Stopping once",
+              "Stopping often",
+              "Without stopping",
+              "Never starting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word means without sense?",
+            "options": [
+              "Nonsense",
+              "Misread",
+              "Rewrite",
+              "Preview"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does the prefix mis- usually mean?",
+            "answers": [
+              "wrong or badly",
+              "incorrectly"
+            ]
+          },
+          {
+            "prompt": "What does the prefix non- usually mean?",
+            "answers": [
+              "not or without",
+              "the opposite of having"
+            ]
+          },
+          {
+            "prompt": "What does the word misspell mean?",
+            "answers": [
+              "to spell a word wrong",
+              "spell incorrectly"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Numbers to 300: Beyond 200",
+        "summary": "Grade 1 Math strand: students extend their counting and number recognition beyond 200, reading and writing numbers up to 300.",
+        "resourceLabel": "YouTube: Numbers to 300: Beyond 200",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20to%20300%3A%20Beyond%20200%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 249?",
+            "options": [
+              "251",
+              "248",
+              "250",
+              "260"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number is between 200 and 300?",
+            "options": [
+              "150",
+              "350",
+              "260",
+              "199"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do we read the number 275?",
+            "options": [
+              "Two hundred seventy five",
+              "Two seventy five hundred",
+              "Two hundred seven",
+              "Twenty seven five"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number comes right before 300?",
+            "options": [
+              "299",
+              "298",
+              "290",
+              "295"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Counting past 200 helps us understand numbers up to ___.",
+            "options": [
+              "200",
+              "300",
+              "1000",
+              "100"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes after 200?",
+            "answers": [
+              "201",
+              "two hundred one"
+            ]
+          },
+          {
+            "prompt": "Read the number 250.",
+            "answers": [
+              "two hundred fifty",
+              "two fifty"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 300?",
+            "answers": [
+              "299",
+              "two hundred ninety nine"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animals of the Desert: Staying Cool and Finding Water",
+        "summary": "Grade 1 Science strand: desert animals like camels and desert foxes have special ways to stay cool in the heat and find water in a dry habitat.",
+        "resourceLabel": "YouTube: Animals of the Desert: Staying Cool and Finding Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animals%20of%20the%20Desert%3A%20Staying%20Cool%20and%20Finding%20Water%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a desert animal?",
+            "options": [
+              "Polar bear",
+              "Salmon",
+              "Penguin",
+              "Camel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do desert animals need ways to stay cool?",
+            "options": [
+              "Deserts are underwater",
+              "The desert is very hot",
+              "The desert is always cold",
+              "Deserts have no sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a major challenge for animals living in the desert?",
+            "options": [
+              "Finding water",
+              "Finding ice",
+              "Finding snow",
+              "Finding rain daily"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A camel can survive a long time in the desert because it can ___.",
+            "options": [
+              "Live without eating forever",
+              "Fly to find water",
+              "Store fat and water in its body",
+              "Breathe underwater"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Desert animals are adapted to survive in a habitat that is ___.",
+            "options": [
+              "Cold and wet",
+              "Icy and frozen",
+              "Hot and dry",
+              "Deep underwater"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name an animal that lives in the desert.",
+            "answers": [
+              "a camel",
+              "a desert fox"
+            ]
+          },
+          {
+            "prompt": "Why do desert animals need special ways to stay cool?",
+            "answers": [
+              "it is very hot in the desert",
+              "the desert has extreme heat"
+            ]
+          },
+          {
+            "prompt": "What is one challenge desert animals face?",
+            "answers": [
+              "finding water",
+              "staying cool in the heat"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Canadian Shield: A Special Land Region",
+        "summary": "Grade 1 Social Studies strand: the Canadian Shield is a huge, rocky land region that covers much of Canada, filled with lakes, forests, and ancient rock.",
+        "resourceLabel": "YouTube: The Canadian Shield: A Special Land Region",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Shield%3A%20A%20Special%20Land%20Region%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the Canadian Shield?",
+            "options": [
+              "A kind of vehicle",
+              "A huge rocky land region in Canada",
+              "A type of building",
+              "A small city park"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these can be found across the Canadian Shield?",
+            "options": [
+              "Only ocean water",
+              "Only tall skyscrapers",
+              "Lakes, forests, and ancient rock",
+              "Only sand dunes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the Canadian Shield a small or large land region?",
+            "options": [
+              "Huge, covering much of Canada",
+              "It does not exist",
+              "Very small",
+              "Smaller than one city"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The rock found in the Canadian Shield is often described as ___.",
+            "options": [
+              "Ancient and very old",
+              "Made of glass",
+              "Brand new",
+              "Made of ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about the Canadian Shield helps us understand ___.",
+            "options": [
+              "A made-up place",
+              "Only other countries",
+              "Nothing about Canada",
+              "Canadas land and geography"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the Canadian Shield?",
+            "answers": [
+              "a huge rocky land region",
+              "a large area of ancient rock"
+            ]
+          },
+          {
+            "prompt": "What can be found across the Canadian Shield?",
+            "answers": [
+              "lakes and forests",
+              "many lakes, forests, and rocks"
+            ]
+          },
+          {
+            "prompt": "Is the Canadian Shield a small or large area?",
+            "answers": [
+              "large",
+              "a huge area"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 133,
+    "label": "Day 133 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Adding -ly to Make Adverbs",
+        "summary": "Grade 1 Language strand: adding -ly to a describing word can make an adverb, a word that tells how someone did something, such as quick becoming quickly.",
+        "resourceLabel": "YouTube: Adding -ly to Make Adverbs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Adding%20-ly%20to%20Make%20Adverbs%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What word do we get by adding -ly to quick?",
+            "options": [
+              "Quickest",
+              "Quicker",
+              "Quickable",
+              "Quickly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What word do we get by adding -ly to slow?",
+            "options": [
+              "Slowness",
+              "Slowly",
+              "Slowest",
+              "Slower"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the sentence She ran quickly, which word is the adverb?",
+            "options": [
+              "The",
+              "She",
+              "Quickly",
+              "Ran"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An adverb ending in -ly usually tells us ___.",
+            "options": [
+              "What colour something is",
+              "When something starts",
+              "How an action was done",
+              "Who did something"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is an adverb?",
+            "options": [
+              "Happiness",
+              "Happier",
+              "Happily",
+              "Happy"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does adding -ly to quick make?",
+            "answers": [
+              "quickly",
+              "it makes quickly"
+            ]
+          },
+          {
+            "prompt": "What does adding -ly to slow make?",
+            "answers": [
+              "slowly",
+              "it makes slowly"
+            ]
+          },
+          {
+            "prompt": "What does an adverb like quickly tell us?",
+            "answers": [
+              "how someone did something",
+              "how an action happened"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time to the Nearest Five Minutes",
+        "summary": "Grade 1 Math strand: students read a clock to the nearest five minutes, counting by 5s around the clock face to name times like 3:05 or 3:35.",
+        "resourceLabel": "YouTube: Time to the Nearest Five Minutes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%20to%20the%20Nearest%20Five%20Minutes%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "If the minute hand points to the 2, how many minutes past the hour is it?",
+            "options": [
+              "5",
+              "2",
+              "20",
+              "10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the minute hand points to the 9, how many minutes past the hour is it?",
+            "options": [
+              "9",
+              "50",
+              "35",
+              "45"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To read minutes on a clock face, we count around by ___.",
+            "options": [
+              "5s",
+              "1s",
+              "10s",
+              "20s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the hour hand is near the 4 and the minute hand points to the 3, the time is about ___.",
+            "options": [
+              "4:45",
+              "4:15",
+              "4:03",
+              "4:30"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Reading a clock to the nearest five minutes uses which math skill?",
+            "options": [
+              "Subtracting",
+              "Rounding",
+              "Multiplying",
+              "Skip counting by 5s"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If the minute hand points to the 1, what minute is it?",
+            "answers": [
+              "5",
+              "five minutes"
+            ]
+          },
+          {
+            "prompt": "If the minute hand points to the 6, what minute is it?",
+            "answers": [
+              "30",
+              "thirty minutes"
+            ]
+          },
+          {
+            "prompt": "How do we count around a clock face to find the minutes?",
+            "answers": [
+              "count by 5s",
+              "skip count by 5"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Layers of the Earth: Crust, Mantle, and Core",
+        "summary": "Grade 1 Science strand: the Earth is made of layers, with a rocky crust on the outside, a hot mantle in the middle, and a very hot core at the centre.",
+        "resourceLabel": "YouTube: The Layers of the Earth: Crust, Mantle, and Core",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Layers%20of%20the%20Earth%3A%20Crust%2C%20Mantle%2C%20and%20Core%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the outer, rocky layer of the Earth called?",
+            "options": [
+              "The mantle",
+              "The core",
+              "The crust",
+              "The surface only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the layer beneath the crust called?",
+            "options": [
+              "The crust",
+              "The sky",
+              "The ocean",
+              "The mantle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the layer at the very centre of the Earth called?",
+            "options": [
+              "The mantle",
+              "The crust",
+              "The atmosphere",
+              "The core"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which layer of the Earth is closest to the surface where we live?",
+            "options": [
+              "The mantle",
+              "The deep ocean",
+              "The crust",
+              "The core"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The centre of the Earth is described as very ___.",
+            "options": [
+              "Made of water",
+              "Empty",
+              "Cold",
+              "Hot"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the outer layer of the Earth called?",
+            "answers": [
+              "the crust",
+              "crust"
+            ]
+          },
+          {
+            "prompt": "What is the middle layer of the Earth called?",
+            "answers": [
+              "the mantle",
+              "mantle"
+            ]
+          },
+          {
+            "prompt": "What is the layer at the very centre of the Earth called?",
+            "answers": [
+              "the core",
+              "core"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Sir John A Macdonald: Canadas First Prime Minister",
+        "summary": "Grade 1 Social Studies strand: Sir John A Macdonald was Canadas first prime minister, leading the country after Confederation brought the colonies together.",
+        "resourceLabel": "YouTube: Sir John A Macdonald: Canadas First Prime Minister",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sir%20John%20A%20Macdonald%3A%20Canadas%20First%20Prime%20Minister%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Who was Canadas first prime minister?",
+            "options": [
+              "Sir John A Macdonald",
+              "A mayor",
+              "Terry Fox",
+              "A premier"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What major event happened around the time Sir John A Macdonald became prime minister?",
+            "options": [
+              "A snowstorm",
+              "Confederation",
+              "A hockey game",
+              "A school opening"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main job of a prime minister?",
+            "options": [
+              "Leading the whole country",
+              "Leading one school",
+              "Leading one street",
+              "Leading one town"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do students learn about Canadas first prime minister?",
+            "options": [
+              "It only matters in other countries",
+              "It has no importance",
+              "It is a made-up story",
+              "To understand how Canada was led as a new country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sir John A Macdonald became prime minister after Canada became a country through ___.",
+            "options": [
+              "Confederation",
+              "A treaty with another planet",
+              "A sports competition",
+              "A vote at school"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who was Canadas first prime minister?",
+            "answers": [
+              "Sir John A Macdonald",
+              "John A Macdonald"
+            ]
+          },
+          {
+            "prompt": "What event happened before he became prime minister?",
+            "answers": [
+              "Confederation",
+              "Canada became a country"
+            ]
+          },
+          {
+            "prompt": "What does a prime minister do?",
+            "answers": [
+              "leads the country",
+              "leads Canada"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 134,
+    "label": "Day 134 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Text Features: Maps and Charts",
+        "summary": "Grade 1 Language strand: nonfiction books sometimes use maps and charts to show information visually, helping readers understand places or data quickly.",
+        "resourceLabel": "YouTube: Text Features: Maps and Charts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Maps%20and%20Charts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does a map in a nonfiction book usually show?",
+            "options": [
+              "A place or location",
+              "A poem",
+              "A made-up story",
+              "A list of characters"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a chart in a nonfiction book usually show?",
+            "options": [
+              "A fictional character",
+              "Organized information or data",
+              "A rhyme",
+              "A joke"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author include a map in a book about animal habitats?",
+            "options": [
+              "To show where the animals live",
+              "To make the book longer only",
+              "It has no purpose",
+              "To confuse the reader"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which text feature would best show how many students like each fruit?",
+            "options": [
+              "A title",
+              "A chart",
+              "A glossary",
+              "A caption"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Maps and charts help readers understand information more ___.",
+            "options": [
+              "Confusingly",
+              "Slowly",
+              "Incorrectly",
+              "Quickly and clearly"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a map show in a nonfiction book?",
+            "answers": [
+              "a place or location",
+              "where things are"
+            ]
+          },
+          {
+            "prompt": "What does a chart help show?",
+            "answers": [
+              "information or data",
+              "organized information"
+            ]
+          },
+          {
+            "prompt": "Why are maps and charts helpful text features?",
+            "answers": [
+              "show information quickly",
+              "help readers understand faster"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Doubling Two-Digit Numbers",
+        "summary": "Grade 1 Math strand: students double two-digit numbers by adding the number to itself, such as doubling 14 to get 28.",
+        "resourceLabel": "YouTube: Doubling Two-Digit Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Doubling%20Two-Digit%20Numbers%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is double 14?",
+            "options": [
+              "26",
+              "28",
+              "30",
+              "24"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is double 25?",
+            "options": [
+              "40",
+              "50",
+              "45",
+              "55"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To double a number means to ___.",
+            "options": [
+              "Add it to itself",
+              "Multiply it by zero",
+              "Divide it in half",
+              "Subtract it from itself"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is double 30?",
+            "options": [
+              "55",
+              "60",
+              "50",
+              "65"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If half of a number is 18, what is double 18?",
+            "options": [
+              "18",
+              "26",
+              "40",
+              "36"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is double 14?",
+            "answers": [
+              "28",
+              "twenty eight"
+            ]
+          },
+          {
+            "prompt": "What is double 20?",
+            "answers": [
+              "40",
+              "forty"
+            ]
+          },
+          {
+            "prompt": "What does it mean to double a number?",
+            "answers": [
+              "add it to itself",
+              "add the same number twice"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Weather Instruments: Wind Vanes and Measuring Wind",
+        "summary": "Grade 1 Science strand: a wind vane is a tool that shows which direction the wind is blowing, helping people understand and predict the weather.",
+        "resourceLabel": "YouTube: Weather Instruments: Wind Vanes and Measuring Wind",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Weather%20Instruments%3A%20Wind%20Vanes%20and%20Measuring%20Wind%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What tool shows the direction the wind is blowing?",
+            "options": [
+              "A thermometer",
+              "A clock",
+              "A rain gauge",
+              "A wind vane"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is knowing wind direction useful?",
+            "options": [
+              "It tells us the temperature",
+              "It helps people understand and predict weather",
+              "It has no use at all",
+              "It tells us the time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is also used to study weather?",
+            "options": [
+              "A calculator",
+              "A ruler",
+              "A paintbrush",
+              "A thermometer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A wind vane usually points ___.",
+            "options": [
+              "In the direction the wind is blowing from",
+              "Nowhere in particular",
+              "Straight down always",
+              "Straight up always"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Weather instruments help scientists ___.",
+            "options": [
+              "Change the weather",
+              "Stop the wind",
+              "Understand and predict weather",
+              "Make it rain on command"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool shows which direction the wind is blowing?",
+            "answers": [
+              "a wind vane",
+              "wind vane"
+            ]
+          },
+          {
+            "prompt": "Why do people use wind vanes?",
+            "answers": [
+              "to know wind direction",
+              "to help understand weather"
+            ]
+          },
+          {
+            "prompt": "Name one other tool used to study weather.",
+            "answers": [
+              "a thermometer",
+              "a rain gauge"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Explorers: Discovering New Places",
+        "summary": "Grade 1 Social Studies strand: early Canadian explorers travelled by canoe, ship, and on foot to map rivers, lakes, and coastlines across the land.",
+        "resourceLabel": "YouTube: Canadian Explorers: Discovering New Places",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Explorers%3A%20Discovering%20New%20Places%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How did many early Canadian explorers often travel?",
+            "options": [
+              "By canoe",
+              "By car",
+              "By airplane",
+              "By subway"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did explorers often do as they traveled through new areas?",
+            "options": [
+              "Watched television",
+              "Built shopping malls",
+              "Mapped rivers, lakes, and coastlines",
+              "Played video games"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do students learn about Canadian explorers?",
+            "options": [
+              "It has no importance",
+              "They never existed",
+              "Only for fun with no purpose",
+              "To understand part of Canadas history"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might an explorer have used to travel on water?",
+            "options": [
+              "A wheelchair",
+              "A canoe",
+              "A skateboard",
+              "A bicycle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Exploring new places long ago helped people learn more about ___.",
+            "options": [
+              "Only mountains",
+              "Nothing useful",
+              "The land and its geography",
+              "Only cities"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How did early explorers often travel across Canada?",
+            "answers": [
+              "by canoe",
+              "canoe, ship, or on foot"
+            ]
+          },
+          {
+            "prompt": "What did explorers often do as they travelled?",
+            "answers": [
+              "map rivers and lakes",
+              "explore and map new places"
+            ]
+          },
+          {
+            "prompt": "Why is it important to learn about explorers?",
+            "answers": [
+              "helps us understand Canadas history",
+              "they helped map our land"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 135,
+    "label": "Day 135 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Personification: Giving Human Qualities to Objects",
+        "summary": "Grade 1 Language strand: personification gives human qualities to things that are not human, such as saying the wind whispered or the sun smiled.",
+        "resourceLabel": "YouTube: Personification: Giving Human Qualities to Objects",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Personification%3A%20Giving%20Human%20Qualities%20to%20Objects%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is personification?",
+            "options": [
+              "A type of punctuation",
+              "Giving human qualities to something that is not human",
+              "A comparison using like or as",
+              "A rhyming word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses personification?",
+            "options": [
+              "The wind whispered through the trees.",
+              "The wind is cold.",
+              "Is the wind strong?",
+              "The wind blew hard."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can the sun really smile?",
+            "options": [
+              "No, that is personification",
+              "Yes, literally",
+              "Only in winter",
+              "Only at night"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of personification?",
+            "options": [
+              "The flowers danced in the breeze.",
+              "The flowers are pink.",
+              "The flowers grew tall.",
+              "I picked the flowers."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Writers use personification to make their writing more ___.",
+            "options": [
+              "Short",
+              "Boring",
+              "Imaginative and vivid",
+              "Confusing"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give an example of personification.",
+            "answers": [
+              "the wind whispered",
+              "the sun smiled"
+            ]
+          },
+          {
+            "prompt": "What does personification do?",
+            "answers": [
+              "gives human qualities to objects",
+              "makes things act like people"
+            ]
+          },
+          {
+            "prompt": "Can the wind actually whisper?",
+            "answers": [
+              "no",
+              "no, that is personification"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting Backwards by 5s",
+        "summary": "Grade 1 Math strand: students skip count backwards by 5s, saying 100, 95, 90, and continuing down toward 0.",
+        "resourceLabel": "YouTube: Skip Counting Backwards by 5s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20Backwards%20by%205s%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Counting backwards by 5s from 50, what comes next: 50, 45, ___?",
+            "options": [
+              "42",
+              "35",
+              "44",
+              "40"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Counting backwards by 5s, what comes after 30?",
+            "options": [
+              "20",
+              "28",
+              "25",
+              "26"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Counting backwards by 5s from 20, what comes right before 0?",
+            "options": [
+              "5",
+              "3",
+              "10",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Skip counting backwards by 5s means we subtract ___ each time.",
+            "options": [
+              "2",
+              "10",
+              "5",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which list correctly skip counts backwards by 5s?",
+            "options": [
+              "50, 45, 40, 35",
+              "50, 45, 35, 30",
+              "50, 48, 46, 44",
+              "50, 40, 35, 25"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 100 when counting backwards by 5s?",
+            "answers": [
+              "95",
+              "ninety five"
+            ]
+          },
+          {
+            "prompt": "Skip count backwards by 5s from 50 to 30.",
+            "answers": [
+              "50,45,40,35,30",
+              "50 45 40 35 30"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 0 when counting backwards by 5s?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Joints: Bending and Moving",
+        "summary": "Grade 1 Science strand: joints are the parts of our body, like our elbows and knees, where two bones meet and let us bend and move.",
+        "resourceLabel": "YouTube: Our Joints: Bending and Moving",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Joints%3A%20Bending%20and%20Moving%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a joint in our body?",
+            "options": [
+              "A part of our skin",
+              "A type of muscle",
+              "A part of our hair",
+              "A place where two bones meet and can bend"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a joint?",
+            "options": [
+              "Eyebrow",
+              "Fingernail",
+              "Earlobe",
+              "Elbow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do joints allow our body to do?",
+            "options": [
+              "Bend and move",
+              "Smell flowers",
+              "Hear sounds",
+              "Taste food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which activity uses your knee joints the most?",
+            "options": [
+              "Smelling a flower",
+              "Tasting food",
+              "Listening to music",
+              "Bending your legs to sit down"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Without joints, our bodies would have a much harder time ___.",
+            "options": [
+              "Breathing",
+              "Bending and moving",
+              "Seeing",
+              "Hearing"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are joints?",
+            "answers": [
+              "places where two bones meet",
+              "where bones meet and bend"
+            ]
+          },
+          {
+            "prompt": "Name one joint in your body.",
+            "answers": [
+              "elbow",
+              "knee"
+            ]
+          },
+          {
+            "prompt": "What do joints let our body do?",
+            "answers": [
+              "bend and move",
+              "move different ways"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Fur Trade: Trading in Early Canada",
+        "summary": "Grade 1 Social Studies strand: the fur trade was an early Canadian business where Indigenous peoples and settlers traded furs, like beaver pelts, for tools and other goods.",
+        "resourceLabel": "YouTube: The Fur Trade: Trading in Early Canada",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Fur%20Trade%3A%20Trading%20in%20Early%20Canada%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What was mainly traded during the fur trade?",
+            "options": [
+              "Furs, like beaver pelts",
+              "Ice cream",
+              "Computers",
+              "Cars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who took part in the early Canadian fur trade?",
+            "options": [
+              "Indigenous peoples and settlers",
+              "Only animals",
+              "No one at all",
+              "Only astronauts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might people receive in exchange for furs during the fur trade?",
+            "options": [
+              "Only food from overseas",
+              "Nothing at all",
+              "Tools and other goods",
+              "Only gold coins"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the fur trade an important part of early Canadian history?",
+            "options": [
+              "It shaped trade and relationships between groups",
+              "It happened only recently",
+              "It has no importance",
+              "It only involved one person"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The fur trade often relied on animals such as the ___.",
+            "options": [
+              "Kangaroo",
+              "Beaver",
+              "Camel",
+              "Penguin"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What was traded in the fur trade?",
+            "answers": [
+              "furs",
+              "beaver pelts and other furs"
+            ]
+          },
+          {
+            "prompt": "Who took part in the fur trade?",
+            "answers": [
+              "Indigenous peoples and settlers",
+              "both Indigenous peoples and settlers"
+            ]
+          },
+          {
+            "prompt": "What did people receive in exchange for furs?",
+            "answers": [
+              "tools and goods",
+              "other goods"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 136,
+    "label": "Day 136 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Sentence Fragments: Complete vs Incomplete Thoughts",
+        "summary": "Grade 1 Language strand: a sentence fragment is an incomplete thought that is missing a subject, a verb, or both, unlike a complete sentence.",
+        "resourceLabel": "YouTube: Sentence Fragments: Complete vs Incomplete Thoughts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sentence%20Fragments%3A%20Complete%20vs%20Incomplete%20Thoughts%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a sentence fragment?",
+            "options": [
+              "A question only",
+              "An incomplete thought missing a subject or verb",
+              "A complete thought with a subject and verb",
+              "A very long sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a sentence fragment?",
+            "options": [
+              "The boy ran.",
+              "Did the boy run?",
+              "The boy ran to the park.",
+              "Ran to the park."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a complete sentence?",
+            "options": [
+              "Sleeping quietly.",
+              "The cat slept under the table.",
+              "Very tired today.",
+              "Under the table."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A complete sentence must have ___.",
+            "options": [
+              "Only a subject",
+              "A subject and a verb",
+              "Neither a subject nor a verb",
+              "Only a verb"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should writers avoid using sentence fragments in most writing?",
+            "options": [
+              "Fragments make writing clearer",
+              "Fragments are the same as questions",
+              "Fragments are always correct",
+              "Fragments do not express a complete thought"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a sentence fragment?",
+            "answers": [
+              "an incomplete thought",
+              "a sentence missing something"
+            ]
+          },
+          {
+            "prompt": "What might a fragment be missing?",
+            "answers": [
+              "a subject or a verb",
+              "a subject, verb, or both"
+            ]
+          },
+          {
+            "prompt": "Give an example of a complete sentence.",
+            "answers": [
+              "The dog barked.",
+              "She read a book."
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Length: Comparing Metres and Centimetres",
+        "summary": "Grade 1 Math strand: students compare metres and centimetres, learning that a metre is a much longer unit made up of 100 centimetres.",
+        "resourceLabel": "YouTube: Length: Comparing Metres and Centimetres",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Length%3A%20Comparing%20Metres%20and%20Centimetres%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which unit is longer, a metre or a centimetre?",
+            "options": [
+              "Neither is a unit of length",
+              "A metre",
+              "They are the same",
+              "A centimetre"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many centimetres make up one metre?",
+            "options": [
+              "50",
+              "100",
+              "1000",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which would you most likely measure in centimetres?",
+            "options": [
+              "A hallway",
+              "A pencil",
+              "A football field",
+              "A road"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which would you most likely measure in metres?",
+            "options": [
+              "A classroom",
+              "A paperclip",
+              "A fingernail",
+              "A crayon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Choosing the right unit depends mostly on the ___ of the object.",
+            "options": [
+              "Colour",
+              "Size",
+              "Weight",
+              "Smell"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which is longer, a metre or a centimetre?",
+            "answers": [
+              "a metre",
+              "a metre is longer"
+            ]
+          },
+          {
+            "prompt": "How many centimetres are in one metre?",
+            "answers": [
+              "100",
+              "one hundred"
+            ]
+          },
+          {
+            "prompt": "Would you measure a pencil in metres or centimetres?",
+            "answers": [
+              "centimetres",
+              "centimetres because it is short"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Beavers: Canadas National Animal",
+        "summary": "Grade 1 Science strand: the beaver is a large rodent and Canadas national animal, known for building dams and lodges out of sticks and mud.",
+        "resourceLabel": "YouTube: Beavers: Canadas National Animal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Beavers%3A%20Canadas%20National%20Animal%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which animal is known as Canadas national animal?",
+            "options": [
+              "The polar bear",
+              "The loon",
+              "The beaver",
+              "The moose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a beaver build using sticks and mud?",
+            "options": [
+              "A burrow underground only",
+              "A nest in a tree",
+              "A web",
+              "A dam or lodge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of animal is a beaver?",
+            "options": [
+              "A bird",
+              "A rodent",
+              "A fish",
+              "A reptile"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a beaver build a dam?",
+            "options": [
+              "To make a nest in a tree",
+              "To block roads for no reason",
+              "To create a pond that protects its home",
+              "To fly higher"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The beaver is a strong swimmer thanks to its ___.",
+            "options": [
+              "Long legs",
+              "Wings",
+              "Gills",
+              "Flat, paddle-like tail"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is Canadas national animal?",
+            "answers": [
+              "the beaver",
+              "a beaver"
+            ]
+          },
+          {
+            "prompt": "What does a beaver build using sticks and mud?",
+            "answers": [
+              "a dam or lodge",
+              "dams and lodges"
+            ]
+          },
+          {
+            "prompt": "What kind of animal is a beaver?",
+            "answers": [
+              "a rodent",
+              "a large rodent"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Orange Shirt Day: Every Child Matters",
+        "summary": "Grade 1 Social Studies strand: Orange Shirt Day, on September 30, is a special day when Canadians wear orange to remember Indigenous children and show that every child matters.",
+        "resourceLabel": "YouTube: Orange Shirt Day: Every Child Matters",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Orange%20Shirt%20Day%3A%20Every%20Child%20Matters%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What colour do people wear to take part in Orange Shirt Day?",
+            "options": [
+              "Orange",
+              "Green",
+              "Blue",
+              "Purple"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main message of Orange Shirt Day?",
+            "options": [
+              "Only some children matter",
+              "Every child matters",
+              "Nothing important",
+              "Everyone should wear the same colour for fun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When is Orange Shirt Day observed in Canada?",
+            "options": [
+              "July 1",
+              "February 14",
+              "December 25",
+              "September 30"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Orange Shirt Day helps Canadians remember and honour ___.",
+            "options": [
+              "A type of food",
+              "Indigenous children and their experiences",
+              "A weather event",
+              "A sports team"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for schools to talk about Orange Shirt Day?",
+            "options": [
+              "To ignore Canadian history",
+              "Only adults need to know about it",
+              "To show respect and help every child feel valued",
+              "It is not important"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What colour do people wear on Orange Shirt Day?",
+            "answers": [
+              "orange"
+            ]
+          },
+          {
+            "prompt": "What is the message of Orange Shirt Day?",
+            "answers": [
+              "every child matters",
+              "that all children matter"
+            ]
+          },
+          {
+            "prompt": "When is Orange Shirt Day?",
+            "answers": [
+              "September 30"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 137,
+    "label": "Day 137 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Syllables: Clapping the Beats in Words",
+        "summary": "Grade 1 Language strand: students clap the beats, or syllables, in a word to help them read and spell longer words, such as clapping twice for the word rabbit.",
+        "resourceLabel": "YouTube: Syllables: Clapping the Beats in Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Syllables%3A%20Clapping%20the%20Beats%20in%20Words%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many syllables does the word rabbit have?",
+            "options": [
+              "2",
+              "4",
+              "3",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a helpful way to find syllables in a word?",
+            "options": [
+              "Guess without listening",
+              "Count the letters only",
+              "Look at the pictures",
+              "Clap for each beat you hear"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many syllables does the word sun have?",
+            "options": [
+              "4",
+              "1",
+              "3",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many syllables does the word dinosaur have?",
+            "options": [
+              "4",
+              "2",
+              "3",
+              "1"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Knowing how to break a word into syllables can help with ___.",
+            "options": [
+              "Reading and spelling",
+              "Telling time",
+              "Counting money",
+              "Drawing pictures"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many syllables are in the word rabbit?",
+            "answers": [
+              "2",
+              "two"
+            ]
+          },
+          {
+            "prompt": "How can we find syllables in a word?",
+            "answers": [
+              "clap each beat",
+              "clap the parts of the word"
+            ]
+          },
+          {
+            "prompt": "How many syllables are in the word dinosaur?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Choosing the Right Measuring Tool",
+        "summary": "Grade 1 Math strand: students choose the best tool for a measuring task, such as a ruler for a short object or a scale for weight.",
+        "resourceLabel": "YouTube: Choosing the Right Measuring Tool",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Choosing%20the%20Right%20Measuring%20Tool%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which tool would best measure the length of a pencil?",
+            "options": [
+              "A thermometer",
+              "A clock",
+              "A ruler",
+              "A scale"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which tool would best measure how heavy an object is?",
+            "options": [
+              "A calendar",
+              "A measuring cup",
+              "A scale",
+              "A ruler"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which tool would best measure how much juice fills a cup?",
+            "options": [
+              "A measuring cup",
+              "A scale",
+              "A ruler",
+              "A clock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Choosing the correct measuring tool helps us get results that are more ___.",
+            "options": [
+              "Confusing",
+              "Colourful",
+              "Random",
+              "Accurate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which tool would best measure the temperature outside?",
+            "options": [
+              "A measuring cup",
+              "A ruler",
+              "A scale",
+              "A thermometer"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool would you use to measure a pencils length?",
+            "answers": [
+              "a ruler",
+              "ruler"
+            ]
+          },
+          {
+            "prompt": "What tool would you use to measure how heavy something is?",
+            "answers": [
+              "a scale",
+              "a balance scale"
+            ]
+          },
+          {
+            "prompt": "Why is it important to choose the right measuring tool?",
+            "answers": [
+              "to get an accurate measurement",
+              "gives more accurate results"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Layers of the Atmosphere: Air Above Us",
+        "summary": "Grade 1 Science strand: the atmosphere is made of layers of air that surround the Earth, protecting us and giving us air to breathe.",
+        "resourceLabel": "YouTube: The Layers of the Atmosphere: Air Above Us",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Layers%20of%20the%20Atmosphere%3A%20Air%20Above%20Us%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the atmosphere?",
+            "options": [
+              "A kind of cloud only",
+              "Layers of air that surround the Earth",
+              "A layer of rock",
+              "A type of ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the atmosphere give living things to breathe?",
+            "options": [
+              "Water",
+              "Sand",
+              "Sunlight only",
+              "Air"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the atmosphere help protect Earth from some things in space?",
+            "options": [
+              "Only at night",
+              "Only in winter",
+              "Yes",
+              "No"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is part of the atmosphere?",
+            "options": [
+              "The core of the Earth",
+              "The rocky crust",
+              "The air we breathe",
+              "The ocean floor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Without the atmosphere, Earth would not have ___ for living things to breathe.",
+            "options": [
+              "Sound",
+              "Air",
+              "Colour",
+              "Gravity"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the atmosphere?",
+            "answers": [
+              "the layers of air around the Earth",
+              "air that surrounds the Earth"
+            ]
+          },
+          {
+            "prompt": "What does the atmosphere give us to breathe?",
+            "answers": [
+              "air",
+              "oxygen"
+            ]
+          },
+          {
+            "prompt": "Does the atmosphere help protect the Earth?",
+            "answers": [
+              "yes",
+              "yes it does"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Senate: Another Part of Canadas Government",
+        "summary": "Grade 1 Social Studies strand: the Senate is a part of Canadas government that reviews new laws to help make sure they are fair before they are approved.",
+        "resourceLabel": "YouTube: Our Senate: Another Part of Canadas Government",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Senate%3A%20Another%20Part%20of%20Canadas%20Government%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the Senate?",
+            "options": [
+              "A kind of store",
+              "A sports team",
+              "A type of school",
+              "A part of Canadas government that reviews laws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Senate help do before a new law is approved?",
+            "options": [
+              "Delete it right away",
+              "Sell it",
+              "Review it to help make sure it is fair",
+              "Ignore it completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is the Senate part of how Canada is governed?",
+            "options": [
+              "Only in one province",
+              "No",
+              "Yes",
+              "Only during elections"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Learning about the Senate helps students understand ___.",
+            "options": [
+              "Nothing about government",
+              "A make-believe story",
+              "Only foreign governments",
+              "How laws are made and reviewed in Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Senate works alongside other parts of government, such as the ___.",
+            "options": [
+              "Local bakery",
+              "Grocery store",
+              "Prime Minister and Parliament",
+              "School principal"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the Senate?",
+            "answers": [
+              "a part of Canadas government",
+              "a group that reviews laws"
+            ]
+          },
+          {
+            "prompt": "What does the Senate help do with new laws?",
+            "answers": [
+              "review them",
+              "make sure they are fair"
+            ]
+          },
+          {
+            "prompt": "Is the Senate part of how Canada is governed?",
+            "answers": [
+              "yes",
+              "yes it is"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "label": "Day 138 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Fact and Opinion: Two Kinds of Statements",
+        "summary": "Grade 1 Language strand: a fact is a statement that can be proven true, while an opinion is what someone thinks or feels, and readers learn to tell them apart.",
+        "resourceLabel": "YouTube: Fact and Opinion: Two Kinds of Statements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fact%20and%20Opinion%3A%20Two%20Kinds%20of%20Statements%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a fact?",
+            "options": [
+              "What someone thinks or feels",
+              "A made-up story",
+              "A rhyme",
+              "Something that can be proven true"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an opinion?",
+            "options": [
+              "What someone thinks or feels",
+              "A math equation",
+              "A statement that can be proven true",
+              "A punctuation mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a fact?",
+            "options": [
+              "Dogs should live inside.",
+              "Dogs are cuter than cats.",
+              "Dogs are mammals.",
+              "Dogs are the best pets."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an opinion?",
+            "options": [
+              "The sun rises in the east.",
+              "Chocolate ice cream is the best flavour.",
+              "A triangle has three sides.",
+              "Water freezes at a low temperature."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning to tell facts from opinions helps readers ___.",
+            "options": [
+              "Confuse true and false randomly",
+              "Understand what is proven versus what someone believes",
+              "Avoid reading altogether",
+              "Ignore all information"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a fact?",
+            "answers": [
+              "a statement that can be proven true",
+              "something that is true"
+            ]
+          },
+          {
+            "prompt": "What is an opinion?",
+            "answers": [
+              "what someone thinks or feels",
+              "a personal belief"
+            ]
+          },
+          {
+            "prompt": "Give an example of an opinion.",
+            "answers": [
+              "ice cream is the best treat",
+              "summer is the best season"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Estimating Groups of Ten",
+        "summary": "Grade 1 Math strand: students estimate how many objects are in a large group by comparing it to a group of ten they can already count.",
+        "resourceLabel": "YouTube: Estimating Groups of Ten",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Estimating%20Groups%20of%20Ten%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Why is it helpful to compare a large group to a group of ten?",
+            "options": [
+              "It only works with pennies",
+              "It has no use",
+              "It replaces exact counting always",
+              "It gives a helpful reference for estimating"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a group of objects looks about three times the size of ten, about how many objects are there?",
+            "options": [
+              "About 13",
+              "About 20",
+              "About 40",
+              "About 30"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An estimate based on a group of ten is meant to be ___.",
+            "options": [
+              "A reasonable guess, not exact",
+              "The exact count with no guessing",
+              "Impossible to make",
+              "Always wrong"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a group looks smaller than ten, a good estimate might be ___.",
+            "options": [
+              "15",
+              "5",
+              "20",
+              "30"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Estimating with groups of ten is a useful skill because it helps us ___.",
+            "options": [
+              "Avoid counting forever",
+              "Skip math entirely",
+              "Confuse numbers",
+              "Make a quick, reasonable guess"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How can comparing to a group of ten help you estimate a larger group?",
+            "answers": [
+              "it gives a size reference",
+              "helps guess a reasonable amount"
+            ]
+          },
+          {
+            "prompt": "If a group looks about twice the size of ten, about how many is it?",
+            "answers": [
+              "about 20",
+              "around 20"
+            ]
+          },
+          {
+            "prompt": "Is an estimate the same as an exact count?",
+            "answers": [
+              "no",
+              "no it is a reasonable guess"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Turtles and Tortoises: Reptiles with Shells",
+        "summary": "Grade 1 Science strand: turtles and tortoises are reptiles with hard shells that protect their bodies, and turtles usually live near water while tortoises live on land.",
+        "resourceLabel": "YouTube: Turtles and Tortoises: Reptiles with Shells",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Turtles%20and%20Tortoises%3A%20Reptiles%20with%20Shells%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What protects a turtle or tortoises body?",
+            "options": [
+              "Scales only",
+              "Feathers",
+              "A hard shell",
+              "Fur"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of animal are turtles and tortoises?",
+            "options": [
+              "Reptiles",
+              "Amphibians",
+              "Birds",
+              "Mammals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do tortoises usually live?",
+            "options": [
+              "Only in the sky",
+              "Mostly on land",
+              "Only in trees",
+              "Only deep in the ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do many turtles spend a lot of their time?",
+            "options": [
+              "Near or in water",
+              "In snow only",
+              "In caves only",
+              "In the desert only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A turtles shell is an example of a body part that helps it ___.",
+            "options": [
+              "Change colour instantly",
+              "Fly higher",
+              "Breathe underwater like a fish",
+              "Stay protected from danger"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What protects the body of a turtle or tortoise?",
+            "answers": [
+              "a hard shell",
+              "their shell"
+            ]
+          },
+          {
+            "prompt": "What kind of animal is a turtle or tortoise?",
+            "answers": [
+              "a reptile",
+              "they are reptiles"
+            ]
+          },
+          {
+            "prompt": "Where do tortoises usually live?",
+            "answers": [
+              "on land",
+              "mostly on land"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Court System: Judges and Fair Decisions",
+        "summary": "Grade 1 Social Studies strand: courts are places where judges listen carefully and help make fair decisions when people disagree or when someone breaks a rule.",
+        "resourceLabel": "YouTube: Our Court System: Judges and Fair Decisions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Court%20System%3A%20Judges%20and%20Fair%20Decisions%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Who listens and helps make fair decisions in a court?",
+            "options": [
+              "A chef",
+              "A judge",
+              "A pilot",
+              "A firefighter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When might people go to a court?",
+            "options": [
+              "To buy groceries",
+              "To watch a movie",
+              "When they disagree or someone breaks a rule",
+              "To play a game"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important for courts to be fair?",
+            "options": [
+              "Fairness does not matter",
+              "So everyone is treated fairly under the rules",
+              "Courts do not need to be fair",
+              "Only some people deserve fairness"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A judges main job is to help ___.",
+            "options": [
+              "Make fair decisions",
+              "Cook meals",
+              "Drive buses",
+              "Deliver mail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Courts are an important part of how a community ___.",
+            "options": [
+              "Plans parties",
+              "Ignores all rules",
+              "Solves disagreements fairly",
+              "Avoids helping people"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Who helps make fair decisions in a court?",
+            "answers": [
+              "a judge",
+              "judges"
+            ]
+          },
+          {
+            "prompt": "When might people go to court?",
+            "answers": [
+              "when they disagree",
+              "when someone breaks a rule"
+            ]
+          },
+          {
+            "prompt": "Why is fairness important in a court?",
+            "answers": [
+              "so decisions are fair for everyone",
+              "helps everyone be treated fairly"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 139,
+    "label": "Day 139 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Silent Letters: mb and gh",
+        "summary": "Grade 1 Language strand: some letters in words are silent and not pronounced, such as the b in comb and the gh in night.",
+        "resourceLabel": "YouTube: Silent Letters: mb and gh",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Silent%20Letters%3A%20mb%20and%20gh%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "In the word comb, which letter is silent?",
+            "options": [
+              "O",
+              "B",
+              "M",
+              "C"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the word night, which letters are silent?",
+            "options": [
+              "T",
+              "G and H",
+              "None of them",
+              "N and I"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has a silent b?",
+            "options": [
+              "Bed",
+              "Lamb",
+              "Big",
+              "Ball"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has a silent gh?",
+            "options": [
+              "Green",
+              "Go",
+              "Light",
+              "Home"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Silent letters in a word are letters that are written but ___.",
+            "options": [
+              "The loudest sound",
+              "Not pronounced",
+              "Removed from spelling",
+              "Always capitalized"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Is the b in comb pronounced?",
+            "answers": [
+              "no",
+              "no it is silent"
+            ]
+          },
+          {
+            "prompt": "Is the gh in night pronounced?",
+            "answers": [
+              "no",
+              "no it is silent"
+            ]
+          },
+          {
+            "prompt": "Give another word with a silent letter.",
+            "answers": [
+              "lamb",
+              "light"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterns on a Hundred Chart",
+        "summary": "Grade 1 Math strand: students explore number patterns on a hundred chart, noticing how numbers going down a column increase by ten each time.",
+        "resourceLabel": "YouTube: Patterns on a Hundred Chart",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Patterns%20on%20a%20Hundred%20Chart%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "On a hundred chart, moving down one row changes the number by ___.",
+            "options": [
+              "10",
+              "5",
+              "1",
+              "100"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number is directly below 24 on a hundred chart?",
+            "options": [
+              "14",
+              "44",
+              "34",
+              "25"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What number is directly above 57 on a hundred chart?",
+            "options": [
+              "56",
+              "58",
+              "47",
+              "67"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On a hundred chart, moving one space to the right changes the number by ___.",
+            "options": [
+              "100",
+              "5",
+              "10",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Patterns on a hundred chart help students understand ___.",
+            "options": [
+              "Weather",
+              "Place value and counting patterns",
+              "Colours",
+              "Story characters"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "On a hundred chart, what happens to a number when you move down one row?",
+            "answers": [
+              "it increases by 10",
+              "goes up by ten"
+            ]
+          },
+          {
+            "prompt": "What number is directly below 24 on a hundred chart?",
+            "answers": [
+              "34",
+              "thirty four"
+            ]
+          },
+          {
+            "prompt": "What number is directly above 57 on a hundred chart?",
+            "answers": [
+              "47",
+              "forty seven"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Sense of Balance: How We Stay Upright",
+        "summary": "Grade 1 Science strand: our body has a sense of balance, controlled by a part inside our ear, that helps us stand, walk, and ride a bike without falling.",
+        "resourceLabel": "YouTube: Our Sense of Balance: How We Stay Upright",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Sense%20of%20Balance%3A%20How%20We%20Stay%20Upright%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What sense helps our body stay upright and steady?",
+            "options": [
+              "Sense of balance",
+              "Sense of taste",
+              "Sense of touch only",
+              "Sense of smell"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which body part helps control our sense of balance?",
+            "options": [
+              "A part inside our ear",
+              "Our knee",
+              "Our elbow",
+              "Our hair"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which activity relies heavily on good balance?",
+            "options": [
+              "Tasting food",
+              "Listening to a song",
+              "Riding a bicycle",
+              "Smelling a flower"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Our sense of balance helps prevent us from ___.",
+            "options": [
+              "Seeing colours",
+              "Hearing sounds",
+              "Tasting food",
+              "Falling over"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Walking along a narrow balance beam is a good test of our sense of ___.",
+            "options": [
+              "Taste",
+              "Hearing",
+              "Balance",
+              "Smell"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What sense helps us stay upright?",
+            "answers": [
+              "our sense of balance",
+              "balance"
+            ]
+          },
+          {
+            "prompt": "What body part helps control balance?",
+            "answers": [
+              "a part inside our ear",
+              "our inner ear"
+            ]
+          },
+          {
+            "prompt": "Name an activity that requires good balance.",
+            "answers": [
+              "riding a bike",
+              "walking on a balance beam"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Underground Railroad: A Journey to Freedom",
+        "summary": "Grade 1 Social Studies strand: the Underground Railroad was a secret network of routes and helpers that guided people escaping slavery in the United States toward freedom, with many finding safety in Canada.",
+        "resourceLabel": "YouTube: The Underground Railroad: A Journey to Freedom",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Underground%20Railroad%3A%20A%20Journey%20to%20Freedom%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What was the Underground Railroad?",
+            "options": [
+              "A type of game",
+              "An actual underground train",
+              "A secret network of routes and helpers guiding people to freedom",
+              "A modern subway system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Many people who used the Underground Railroad were trying to reach ___.",
+            "options": [
+              "A school",
+              "A different planet",
+              "Freedom, often in Canada",
+              "The moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the story of the Underground Railroad important to learn about?",
+            "options": [
+              "It shows courage and the importance of freedom",
+              "It is not important",
+              "It only matters in one country",
+              "It was not a real event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "People who helped others along the Underground Railroad were showing ___.",
+            "options": [
+              "Indifference",
+              "Carelessness",
+              "Unfairness",
+              "Bravery and kindness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about the Underground Railroad helps students understand ___.",
+            "options": [
+              "A make-believe story",
+              "Something unrelated to history",
+              "A modern invention",
+              "An important part of history about freedom"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What was the Underground Railroad?",
+            "answers": [
+              "a secret network of routes to freedom",
+              "a path to freedom"
+            ]
+          },
+          {
+            "prompt": "Where did many people travel to for safety and freedom?",
+            "answers": [
+              "Canada",
+              "freedom in Canada"
+            ]
+          },
+          {
+            "prompt": "Why is the Underground Railroad an important story?",
+            "answers": [
+              "it shows courage and the search for freedom",
+              "people worked together to help others"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 140,
+    "label": "Day 140 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Vowel Teams, Prefixes, and Figurative Language",
+        "summary": "Grade 1 Language strand review: students revisit the au and aw vowel teams, prefixes mis- and non-, adding -ly, personification, and fact versus opinion.",
+        "resourceLabel": "YouTube: Language Review: Vowel Teams, Prefixes, and Figurative Language",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Vowel%20Teams%2C%20Prefixes%2C%20and%20Figurative%20Language%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the aw vowel team?",
+            "options": [
+              "Dog",
+              "Cup",
+              "Claw",
+              "Run"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the word nonstop mean?",
+            "options": [
+              "Stopping often",
+              "Never starting",
+              "Stopping once",
+              "Without stopping"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What word do we get by adding -ly to quick?",
+            "options": [
+              "Quickly",
+              "Quickest",
+              "Quickable",
+              "Quicker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses personification?",
+            "options": [
+              "The wind whispered through the trees.",
+              "The wind is cold.",
+              "Is the wind strong?",
+              "The wind blew hard."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a fact?",
+            "options": [
+              "Dogs are the best pets.",
+              "Dogs are cuter than cats.",
+              "Dogs should live inside.",
+              "Dogs are mammals."
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give a word with the au or aw vowel team.",
+            "answers": [
+              "sauce",
+              "claw"
+            ]
+          },
+          {
+            "prompt": "What does the prefix non- usually mean?",
+            "answers": [
+              "not or without"
+            ]
+          },
+          {
+            "prompt": "What is a fact?",
+            "answers": [
+              "a statement that can be proven true"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Skip Counting, Time, and Number Patterns",
+        "summary": "Grade 1 Math strand review: students revisit skip counting by 20s, numbers to 300, time to the nearest five minutes, doubling, and hundred chart patterns.",
+        "resourceLabel": "YouTube: Math Review: Skip Counting, Time, and Number Patterns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Skip%20Counting%2C%20Time%2C%20and%20Number%20Patterns%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What comes next: 20, 40, 60, ___?",
+            "options": [
+              "75",
+              "80",
+              "90",
+              "70"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right before 300?",
+            "options": [
+              "299",
+              "298",
+              "295",
+              "290"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the minute hand points to the 2, how many minutes past the hour is it?",
+            "options": [
+              "10",
+              "2",
+              "5",
+              "20"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is double 25?",
+            "options": [
+              "40",
+              "45",
+              "55",
+              "50"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a hundred chart, moving down one row changes the number by ___.",
+            "options": [
+              "1",
+              "5",
+              "10",
+              "100"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What comes after 20, 40, 60?",
+            "answers": [
+              "80"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 300?",
+            "answers": [
+              "299"
+            ]
+          },
+          {
+            "prompt": "What is double 14?",
+            "answers": [
+              "28"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Ocean Life, Earth, and Our Bodies",
+        "summary": "Grade 1 Science strand review: students revisit octopuses and squid, desert animals, layers of the earth, our joints, beavers, the atmosphere, and our sense of balance.",
+        "resourceLabel": "YouTube: Science Review: Ocean Life, Earth, and Our Bodies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Ocean%20Life%2C%20Earth%2C%20and%20Our%20Bodies%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Do octopuses have bones inside their bodies?",
+            "options": [
+              "Only in their arms",
+              "Yes",
+              "Only when young",
+              "No"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a desert animal?",
+            "options": [
+              "Penguin",
+              "Camel",
+              "Polar bear",
+              "Salmon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the layer at the very centre of the Earth called?",
+            "options": [
+              "The core",
+              "The atmosphere",
+              "The mantle",
+              "The crust"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal is known as Canadas national animal?",
+            "options": [
+              "The loon",
+              "The polar bear",
+              "The moose",
+              "The beaver"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What sense helps our body stay upright and steady?",
+            "options": [
+              "Sense of touch only",
+              "Sense of balance",
+              "Sense of smell",
+              "Sense of taste"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Do octopuses have bones inside their bodies?",
+            "answers": [
+              "no"
+            ]
+          },
+          {
+            "prompt": "What is the layer at the very centre of the Earth called?",
+            "answers": [
+              "the core"
+            ]
+          },
+          {
+            "prompt": "What sense helps us stay upright?",
+            "answers": [
+              "our sense of balance"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Leaders, Land, and Our History",
+        "summary": "Grade 1 Social Studies strand review: students revisit our school principal, the Canadian Shield, Sir John A Macdonald, the fur trade, Orange Shirt Day, and the Underground Railroad.",
+        "resourceLabel": "YouTube: Social Studies Review: Leaders, Land, and Our History",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Leaders%2C%20Land%2C%20and%20Our%20History%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the main role of a school principal?",
+            "options": [
+              "Cleaning the hallways",
+              "Leading and supporting the whole school",
+              "Cooking lunch",
+              "Driving the school bus"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Canadian Shield?",
+            "options": [
+              "A kind of vehicle",
+              "A small city park",
+              "A huge rocky land region in Canada",
+              "A type of building"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who was Canadas first prime minister?",
+            "options": [
+              "A premier",
+              "Terry Fox",
+              "Sir John A Macdonald",
+              "A mayor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What colour do people wear to take part in Orange Shirt Day?",
+            "options": [
+              "Green",
+              "Orange",
+              "Purple",
+              "Blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the Underground Railroad?",
+            "options": [
+              "A modern subway system",
+              "A secret network of routes and helpers guiding people to freedom",
+              "An actual underground train",
+              "A type of game"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the main role of a school principal?",
+            "answers": [
+              "leading and supporting the whole school"
+            ]
+          },
+          {
+            "prompt": "What colour do people wear on Orange Shirt Day?",
+            "answers": [
+              "orange"
+            ]
+          },
+          {
+            "prompt": "What was the Underground Railroad?",
+            "answers": [
+              "a secret network of routes to freedom"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
