@@ -1642,6 +1642,7 @@ const curriculum: DayContent[] = [
 {day:40, label:"Day 40 — Fri", subjects:[
   {subject:"English", title:"Writing: Editing and Proofreading for Precision", summary:"Grade 11 English strand: editing focuses on improving a piece of writing’s clarity, organization, and word choice, while proofreading involves a final, careful check for grammar, spelling, and punctuation errors.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=G4VgbCqQTSg",
    quiz:[
      {q:"Editing focuses on improving a piece of writing’s ___.", options:["Clarity, organization, and word choice","A factor entirely unrelated to writing quality","The font style used throughout the document","Only its physical page length"], answer:0},
      {q:"Proofreading involves a final, careful check for ___.", options:["Grammar, spelling, and punctuation errors","Changing the entire argument of the piece","A factor unrelated to writing accuracy","Only the overall length of a piece of writing"], answer:0},

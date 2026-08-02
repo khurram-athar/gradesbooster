@@ -1642,6 +1642,7 @@ const curriculum: DayContent[] = [
 {day:40, label:"Day 40 — Fri", subjects:[
   {subject:"English", title:"Reading: Comparative Analysis of Two Poems", summary:"Grade 10 English strand: comparing two poems involves examining similarities and differences in theme, tone, structure, and poetic devices to develop a deeper understanding of each poem’s meaning.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=HI9q90kLhDY",
    quiz:[
      {q:"A comparative analysis of two poems examines ___.", options:["A single poem in complete isolation","The colour of each poem’s printed page","Only the exact number of lines in each poem","Similarities and differences in theme, tone, structure, and poetic devices"], answer:3},
      {q:"Why might comparing two poems on a similar theme deepen understanding of that theme?", options:["This comparison has no connection to understanding theme","Different poets’ approaches can reveal varied perspectives and techniques for exploring the same idea","Comparing poems never adds any additional insight","Poems on the same theme are always identical in approach"], answer:1},

@@ -1642,6 +1642,7 @@ const curriculum: DayContent[] = [
 {day:40, label:"Day 40 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing an Author’s Craft Across a Text", summary:"Grade 9 Reading strand: analyzing an author’s craft involves examining the deliberate choices a writer makes -- in structure, language, and literary devices -- and how those choices work together across an entire text.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=CcpBAeedIdE",
    quiz:[
      {q:"Analyzing an author’s craft involves examining ___.", options:["Deliberate choices in structure, language, and literary devices","A factor unrelated to how the text was written","The book’s cover design only","Only a single isolated sentence from the text"], answer:0},
      {q:"Why might an author’s choice of sentence structure affect a reader’s experience?", options:["This choice has no connection to an author’s craft","All sentence structures create an identical reading experience","Structure can influence pacing, emphasis, and overall tone throughout a text","Sentence structure has no effect on a reader’s experience"], answer:2},
