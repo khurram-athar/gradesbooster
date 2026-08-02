@@ -1662,6 +1662,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Erosion and Its Effects on Landforms", summary:"Ontario Grade 4 Science Earth and Space Systems strand: erosion is the gradual wearing away and movement of soil and rock by wind, water, or ice, slowly shaping landforms like valleys and canyons over long periods of time.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=JwuQTraK-6E",
    quiz:[
      {q:"Erosion is best described as the ___.", options:["Instant disappearance of mountains","Formation of clouds","Sudden creation of new rock","Gradual wearing away and movement of soil and rock"], answer:3},
      {q:"Which of these can cause erosion?", options:["Wind, water, and ice","Only bright sunlight","Nothing natural causes erosion","Only complete stillness"], answer:0},
@@ -1671,6 +1672,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Role as a Canadian Citizen", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: being a Canadian citizen involves rights, such as voting when old enough, and responsibilities, such as respecting laws, the environment, and the wellbeing of the community.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=o8elcYYsvz4",
    quiz:[
      {q:"A responsibility of Canadian citizens includes ___.", options:["Avoiding all civic participation","Respecting laws and contributing to the community","Breaking rules whenever convenient","Ignoring community needs"], answer:1},
      {q:"Once old enough, Canadian citizens gain the right to ___.", options:["Avoid paying any attention to government","Vote in elections","Ignore all laws","Skip all civic duties"], answer:1},

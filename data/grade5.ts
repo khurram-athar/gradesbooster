@@ -1642,6 +1642,7 @@ const curriculum: DayContent[] = [
 {day:40, label:"Day 40 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing Character Development", summary:"Ontario Grade 5 Reading strand: character development is how a character changes or grows over the course of a story, often shown through their actions, decisions, and relationships with others.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=mbVuYsc82CE",
    quiz:[
      {q:"Character development refers to ___.", options:["How a character changes or grows over a story","The book’s cover illustration","The exact number of characters in a book","The font used to print the book"], answer:0},
      {q:"Which is a way authors often reveal character development?", options:["Through a character’s actions and decisions over time","Through the page numbers","Through the price listed on the book","Only through the table of contents"], answer:0},
@@ -1651,6 +1652,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Simple Interest and Saving", summary:"Ontario Grade 5 Financial Literacy strand: simple interest is money earned or paid based on a percentage of an original amount saved or borrowed, calculated using the interest rate and the amount of time involved.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=C-WYc4nIiIM",
    quiz:[
      {q:"If you save $100 at a 5 percent simple interest rate for one year, how much interest do you earn?", options:["$105","$5","$500","$50"], answer:1},
      {q:"Simple interest is generally calculated based on ___.", options:["A percentage of the original amount saved or borrowed","Nothing related to the amount saved","The colour of the bank card used","A fixed dollar amount unrelated to percentage"], answer:0},
@@ -1660,6 +1662,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Scientific Method and Experimental Design", summary:"Ontario Grade 5 Science Inquiry strand: the scientific method involves asking a question, forming a hypothesis, testing it through a fair experiment, and analyzing results to draw a conclusion.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=uxxCUe3z2n8",
    quiz:[
      {q:"The scientific method typically begins with ___.", options:["Drawing a final conclusion","Building a finished product","Publishing results","Asking a question"], answer:3},
      {q:"A hypothesis is best described as ___.", options:["A proven fact that cannot be tested","The final step of an experiment","A random guess with no reasoning at all","A testable prediction about what might happen"], answer:3},
@@ -1667,14 +1670,15 @@ const curriculum: DayContent[] = [
      {q:"A conclusion in the scientific method should be based on ___.", options:["What the scientist wished would happen","Personal opinion with no evidence","The evidence gathered during the experiment","Random chance only"], answer:2},
      {q:"Why is the scientific method useful across many areas of science?", options:["It only applies to one specific science topic","It provides a structured, reliable way to investigate questions and test ideas","It replaces the need for any evidence","It has no practical use in science"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Canada’s National Parks and Protected Areas", summary:"Ontario Grade 5 Social Studies People and Environments strand: Canada’s national parks and protected areas conserve important natural environments and wildlife habitats, balancing conservation with public access and recreation.",
+  {subject:"SocialStudies", title:"Canada's Natural Resources and Their Uses", summary:"Ontario Grade 5 Social Studies People and Environments strand: Canada is rich in natural resources such as forests, minerals, freshwater, and fossil fuels, which are used in industries across the country while raising questions about sustainable use.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ajk-pvm5vfQ",
    quiz:[
-     {q:"The main purpose of a national park is to ___.", options:["Remove all wildlife from the area","Conserve natural environments and wildlife habitats","Build as many buildings as possible","Prevent any public access forever"], answer:1},
-     {q:"Which organization manages many of Canada’s national parks?", options:["A private international company","A foreign government","Parks Canada","No organization manages them"], answer:2},
-     {q:"Protected areas help ___.", options:["Eliminate biodiversity entirely","Increase pollution in natural areas","Encourage unlimited resource extraction","Preserve biodiversity and natural habitats"], answer:3},
-     {q:"Why might a national park allow limited public access, like hiking trails?", options:["Public access has no connection to conservation goals","To let people appreciate and connect with nature while minimizing environmental impact","National parks never allow any visitors","Public access always destroys protected areas completely"], answer:1},
-     {q:"Why are national parks and protected areas important to Canada?", options:["They exist only to generate profit with no other purpose","They serve no meaningful purpose","They help conserve natural heritage for future generations","They have no connection to environmental conservation"], answer:2}
+     {q:"A natural resource is best described as ___.", options:["Something manufactured only in a factory","A material or substance from nature that people use","An object with no practical use to people","Something that only exists in cities"], answer:1},
+     {q:"Which is an example of a natural resource found in Canada?", options:["Plastic packaging","Freshwater","A video game","A shopping mall"], answer:1},
+     {q:"Renewable natural resources are resources that ___.", options:["Can never be used again once used","Can be replenished naturally over time","Only exist underground","Are always harmful to the environment"], answer:1},
+     {q:"Why might Canadians be concerned about how natural resources are used?", options:["Natural resources have no connection to the environment","Resources are unlimited and require no careful management","Using resources sustainably helps ensure they remain available for the future","Resource use has no effect on future generations"], answer:2},
+     {q:"Why are natural resources important to Canada's economy?", options:["They have no connection to Canadian industries","Industries like forestry, mining, and energy rely on these resources for jobs and products","The economy has no relationship to natural resources","Natural resources are never used by any industry"], answer:1}
    ]},
 ]},
 {day:41, label:"Day 41 — Mon", subjects:[
