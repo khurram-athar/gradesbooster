@@ -1904,6 +1904,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Blending Sounds: Putting Sounds Together", summary:"Students practise blending separate sounds together to form a whole word, such as combining the sounds s, u, n to say sun, building an important pre-reading skill.",
    resourceLabel:"YouTube: Blending Sounds: Putting Sounds Together", resourceUrl:"https://www.youtube.com/results?search_query=Blending%20Sounds%3A%20Putting%20Sounds%20Together%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eYoW_4Y1rq4",
    quiz:[
      {q:"When you blend the sounds c, a, t, what word do you make?", options:["Cat","Cot","Cap","Can"], answer:0},
      {q:"Blending sounds means to ___.", options:["Draw a picture","Sing a song","Put sounds together to make a word","Take a word apart"], answer:2},
@@ -1918,6 +1919,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition to 20", summary:"Students extend their addition skills to sums within 20, using objects, fingers, or pictures to add two numbers together.",
    resourceLabel:"YouTube: Addition to 20", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20to%2020%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AaxrqDuw1Xk",
    quiz:[
      {q:"11 + 4 = ?", options:["16","14","13","15"], answer:3},
      {q:"7 + 9 = ?", options:["16","15","17","18"], answer:2},
