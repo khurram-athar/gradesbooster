@@ -1600,6 +1600,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Complex and Compound Sentences", summary:"Ontario Grade 5 Writing strand: a compound sentence joins two independent clauses with a conjunction (I like reading, and I like writing), while a complex sentence joins an independent clause with a dependent clause (Although it was raining, we went outside).",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=bBG0enVYzPc",
    quiz:[
      {q:"A compound sentence joins two ___ with a conjunction.", options:["Independent clauses","Punctuation marks","Single words","Dependent clauses"], answer:0},
      {q:"A complex sentence joins an independent clause with a ___ clause.", options:["Dependent","Punctuation-only","Meaningless","Second independent"], answer:0},
@@ -1607,17 +1608,19 @@ const curriculum: DayContent[] = [
      {q:"Which sentence is a complex sentence?", options:["Although it was raining, we went outside.","I like reading, and I like writing.","I read books.","The dog barked."], answer:0},
      {q:"A dependent clause is a clause that ___.", options:["Is always the entire sentence","Never appears in complex sentences","Can stand alone as a complete sentence","Cannot stand alone as a complete sentence"], answer:3}
    ]},
-  {subject:"Math", title:"Multi-Step Word Problems with Percent and Fractions", summary:"Ontario Grade 5 Number strand: solving multi-step word problems involving percent and fractions requires identifying each step needed, such as first finding a percentage of a number, then adding or subtracting the result.",
+  {subject:"Math", title:"Multi-Step Word Problems with Fractions", summary:"Ontario Grade 5 Number strand: solving multi-step word problems involving fractions requires identifying each step needed, such as first multiplying a fraction of a quantity, then adding or subtracting the result to reach a final answer.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=k8NaZulXEDE",
    quiz:[
-     {q:"A $40 shirt is 25 percent off. What is the discount amount?", options:["$10","$25","$15","$4"], answer:0},
-     {q:"A $40 shirt is 25 percent off. What is the final sale price?", options:["$30","$35","$10","$25"], answer:0},
      {q:"Maria read 1/4 of a 200-page book on Monday, then 1/2 of the remaining pages on Tuesday. How many pages did she read on Tuesday?", options:["75","50","150","100"], answer:0},
-     {q:"Solving a multi-step problem with percent and fractions requires you to ___.", options:["Use only one operation regardless of the problem","Ignore the given information","Skip steps to save time","Complete each necessary step in order to reach the final answer"], answer:3},
-     {q:"A class of 30 students has 60 percent who prefer math. How many students prefer math?", options:["12","24","18","20"], answer:2}
+     {q:"A recipe uses 2/3 cup of flour per batch. How much flour is needed for 3 batches?", options:["1 cup","2 cups","3 cups","6 cups"], answer:1},
+     {q:"A ribbon is 3/4 of a metre long. If 1/3 of it is cut off, how much ribbon is left, in metres?", options:["1/4","1/2","2/3","1/3"], answer:1},
+     {q:"Solving a multi-step problem with fractions requires you to ___.", options:["Use only one operation regardless of the problem","Ignore the given information","Skip steps to save time","Complete each necessary step in order to reach the final answer"], answer:3},
+     {q:"A tank is 2/5 full. If 1/2 of the remaining space is then filled, what fraction of the tank is now full?", options:["7/10","3/10","1/2","9/10"], answer:0}
    ]},
   {subject:"Science", title:"Erosion, Weathering, and Landform Formation", summary:"Ontario Grade 5 Science Earth and Space Systems strand: weathering breaks rock down into smaller pieces, while erosion moves those pieces elsewhere via wind, water, or ice, together gradually shaping landforms over time.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=fLDjARWZmCA",
    quiz:[
      {q:"Weathering is the process of ___.", options:["Breaking rock down into smaller pieces","Creating brand new mountains instantly","Moving broken rock pieces to a new location","Freezing water into ice permanently"], answer:0},
      {q:"Erosion is the process of ___.", options:["Moving broken-down material to a new location","Preventing any landform changes","Only affecting rocks underground","Breaking rock into pieces only"], answer:0},

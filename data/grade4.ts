@@ -1620,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electricity: Conductors and Insulators", summary:"Ontario Grade 4 Science Matter and Energy strand: conductors, like most metals, allow electricity to flow through them easily, while insulators, like rubber and plastic, resist the flow of electricity and are used for safety.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=FCuZPDEBJWY",
    quiz:[
      {q:"A conductor is a material that ___.", options:["Has no effect on electricity","Blocks electricity completely","Allows electricity to flow through it easily","Is always made of wood"], answer:2},
      {q:"An insulator is a material that ___.", options:["Creates electricity from nothing","Allows electricity to flow freely","Resists the flow of electricity","Is always metal"], answer:2},
@@ -1629,6 +1630,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"How Canada's Provinces and Territories Formed", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada's provinces and territories joined the country at different times in history, starting with Confederation in 1867 and continuing as new provinces and territories were added.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=uCaTbrJ8fdM",
    quiz:[
      {q:"In what year did Confederation create the original Dominion of Canada?", options:["1867","1900","1776","1812"], answer:0},
      {q:"Canada's provinces and territories joined the country ___.", options:["They have never changed since 1867","At different times throughout history","All at exactly the same time","Before Confederation only"], answer:1},
