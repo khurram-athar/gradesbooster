@@ -1600,6 +1600,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Writing: Effective Introductions and Conclusions", summary:"Ontario Grade 6 Writing strand: a strong introduction grabs the reader’s attention and previews the main idea, while an effective conclusion summarizes key points and leaves a lasting impression.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=PLj7pj5V2x4",
    quiz:[
      {q:"A strong introduction should ___.", options:["Always be the shortest part of the essay","Grab the reader’s attention and preview the main idea","Repeat the conclusion word for word","Contain no information about the topic"], answer:1},
      {q:"An effective conclusion typically ___.", options:["Contains no connection to the rest of the essay","Simply repeats the introduction exactly","Introduces a brand new, unrelated topic","Summarizes key points and leaves a lasting impression"], answer:3},
@@ -1609,6 +1610,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Converting Between Metric Units", summary:"Ontario Grade 6 Measurement strand: converting between metric units, such as millimetres, centimetres, metres, and kilometres, involves multiplying or dividing by powers of ten based on the relationship between the units.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=TbDblHZPvYM",
    quiz:[
      {q:"How many millimetres are in 1 centimetre?", options:["1,000","1","100","10"], answer:3},
      {q:"How many metres are in 1 kilometre?", options:["1,000","10","10,000","100"], answer:0},
@@ -1618,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Carbon Cycle and Its Role in Climate", summary:"Ontario Grade 6 Science Earth and Space Systems strand: the carbon cycle describes how carbon moves between the atmosphere, oceans, land, and living things, playing a key role in regulating Earth’s climate.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=A4cPmHGegKI",
    quiz:[
      {q:"The carbon cycle describes how carbon moves between ___.", options:["The atmosphere, oceans, land, and living things","Only underground rock layers","Nowhere, since carbon never moves","Only outer space"], answer:0},
      {q:"Plants absorb carbon dioxide from the atmosphere during ___.", options:["Erosion","Respiration only","Photosynthesis","Evaporation"], answer:2},
@@ -1627,6 +1630,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples’ Rights Movements in Canada", summary:"Ontario Grade 6 Social Studies People and Environments strand: Indigenous peoples in Canada have organized rights movements over many decades to advocate for land rights, self-government, and recognition of treaty rights.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=SVaK9rAV32A",
    quiz:[
      {q:"Indigenous rights movements in Canada have advocated for issues such as ___.", options:["Issues unrelated to Indigenous communities","Nothing of significance","Land rights and self-government","The elimination of all Indigenous rights"], answer:2},
      {q:"Treaty rights refer to ___.", options:["Rights that apply only to non-Indigenous people","Agreements that were never actually made","Rights established through historical agreements between Indigenous nations and governments","Rights that have no legal basis"], answer:2},

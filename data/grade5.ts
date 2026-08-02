@@ -1628,13 +1628,14 @@ const curriculum: DayContent[] = [
      {q:"Over long periods of time, weathering and erosion together can ___.", options:["Instantly create new landforms in seconds","Gradually shape landforms like valleys and canyons","Have no effect on the land","Only occur underwater"], answer:1},
      {q:"Why might a canyon take thousands of years to form?", options:["Canyons cannot form through natural processes","Weathering and erosion typically occur gradually rather than instantly","These processes have no connection to landform formation","Canyons are always formed in a single day"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Political Parties and How Laws Are Made", summary:"Ontario Grade 5 Social Studies People and Environments strand: political parties represent different ideas about how the country should be run, and elected representatives from these parties debate and vote to turn proposed bills into laws.",
+  {subject:"SocialStudies", title:"How a Bill Becomes a Law in Canada", summary:"Ontario Grade 5 Social Studies People and Environments strand: a proposed law, called a bill, must be introduced, debated, and voted on by elected representatives in Parliament before it can become an official law of Canada.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=I779LkXVraE",
    quiz:[
-     {q:"A political party is best described as a group that ___.", options:["Has no political views at all","Only exists at the municipal level","Never participates in elections","Shares similar ideas about how the country should be governed"], answer:3},
      {q:"A proposed law before it is passed is called a ___.", options:["Bylaw","Amendment only","Bill","Treaty"], answer:2},
      {q:"For a bill to become law in Canada, it generally must be ___.", options:["Ignored completely by all representatives","Written by a single citizen with no review","Debated and voted on by elected representatives","Approved without any discussion"], answer:2},
-     {q:"Why do different political parties often have different positions on issues?", options:["Parties are randomly assigned positions with no reasoning","Political parties have no real differences","All political parties always agree on everything","They represent different values, priorities, and approaches to governing"], answer:3},
+     {q:"Where do elected representatives debate and vote on bills in Canada?", options:["In Parliament","At a private company","In a courtroom only","At a sports stadium"], answer:0},
+     {q:"Why does a bill need to go through several stages of debate and review before becoming law?", options:["To waste as much time as possible","So elected representatives can carefully consider and improve the proposed law","Because bills are never actually reviewed","So that only one person decides the outcome"], answer:1},
      {q:"Why is it useful for citizens to understand how laws are made?", options:["This knowledge has no value to citizens","Laws are made with no citizen relevance","It helps them understand and participate in the democratic process","Only elected officials need to understand this process"], answer:2}
    ]},
 ]},
