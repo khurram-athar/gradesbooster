@@ -7117,6 +7117,586 @@ const curriculum: DayContent[] = [
      {prompt:"What does fair play mean?", answers:["sharing and taking turns","playing fairly"]}
    ]},
 ]},
+{day:131, label:"Day 131 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -ack Words", summary:"Kindergarten Language strand: the -ack word family shares the same ending sound, as in back, pack, sack, and track.",
+   resourceLabel:"YouTube: Word Families: -ack Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ack%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ack family?", options:["Bed","Sun","Pack","Cup"], answer:1},
+     {q:"Which word rhymes with sack?", options:["Sad","Sit","Back","Sob"], answer:2},
+     {q:"Which word does NOT belong to the -ack family?", options:["Track","Back","Sack","Truck"], answer:3},
+     {q:"Complete the rhyme: I carry books in my back___.", options:["pack","pick","peck","poke"], answer:0},
+     {q:"Words in the same word family share the same ___.", options:["Ending sound","Meaning","Colour","First letter"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with back.", answers:["pack","sack","track"]},
+     {prompt:"What ending sound do pack and sack share?", answers:["ack","the ack sound"]},
+     {prompt:"Is snack part of the -ack family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Missing Addends: Finding the Missing Number", summary:"Kindergarten Math strand: students find the missing number in an addition sentence, such as figuring out that 3 plus what number makes 5.",
+   resourceLabel:"YouTube: Missing Addends: Finding the Missing Number", resourceUrl:"https://www.youtube.com/results?search_query=Missing%20Addends%3A%20Finding%20the%20Missing%20Number%20kindergarten%20educational",
+   quiz:[
+     {q:"3 + ? = 5", options:["3","4","1","2"], answer:3},
+     {q:"2 + ? = 6", options:["3","5","2","4"], answer:3},
+     {q:"? + 4 = 7", options:["4","3","2","5"], answer:1},
+     {q:"To find a missing addend, we can ___.", options:["Guess with no thinking","Ignore the total","Count up from the first number to the total","Subtract two totals"], answer:2},
+     {q:"5 + ? = 9", options:["3","4","5","6"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number is missing in 3 + ? = 5?", answers:["2","two"]},
+     {prompt:"What number is missing in 4 + ? = 6?", answers:["2","two"]},
+     {prompt:"How can you find a missing addend?", answers:["count up from the first number","count up to the total"]}
+   ]},
+  {subject:"Science", title:"Animal Diets: Herbivores, Carnivores, and Omnivores", summary:"Kindergarten Science strand: animals eat different things — herbivores eat only plants, carnivores eat only meat, and omnivores eat both plants and meat.",
+   resourceLabel:"YouTube: Animal Diets: Herbivores, Carnivores, and Omnivores", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Diets%3A%20Herbivores%2C%20Carnivores%2C%20and%20Omnivores%20kindergarten%20educational",
+   quiz:[
+     {q:"An animal that eats only plants is called a ___.", options:["Predator","Carnivore","Herbivore","Omnivore"], answer:2},
+     {q:"An animal that eats only meat is called a ___.", options:["Herbivore","Omnivore","Grazer","Carnivore"], answer:3},
+     {q:"An animal that eats both plants and meat is called a ___.", options:["Omnivore","Herbivore","Vegetarian","Carnivore"], answer:0},
+     {q:"Which of these is usually a herbivore?", options:["Lion","Rabbit","Wolf","Shark"], answer:1},
+     {q:"A bear that eats berries and fish is an example of a(n) ___.", options:["Insect","Herbivore","Omnivore","Carnivore"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does a herbivore eat?", answers:["only plants","plants"]},
+     {prompt:"What does a carnivore eat?", answers:["only meat","meat"]},
+     {prompt:"What does an omnivore eat?", answers:["plants and meat","both plants and meat"]}
+   ]},
+  {subject:"SocialStudies", title:"Our National Anthem: O Canada", summary:"Kindergarten Social Studies strand: O Canada is our national anthem, a special song we sing to show pride in and respect for our country.",
+   resourceLabel:"YouTube: Our National Anthem: O Canada", resourceUrl:"https://www.youtube.com/results?search_query=Our%20National%20Anthem%3A%20O%20Canada%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the name of Canadas national anthem?", options:["True North","God Save the King","This Land Is Your Land","O Canada"], answer:3},
+     {q:"Why do people stand and sing the national anthem?", options:["To show pride and respect for their country","It has no reason","It is required by law with no meaning","To warm up before recess"], answer:0},
+     {q:"Where might you hear O Canada being sung?", options:["At a school assembly or hockey game","Never anywhere","Only in other countries","Only in outer space"], answer:0},
+     {q:"A national anthem is a special ___ for a country.", options:["Animal","Building","Song","Food"], answer:2},
+     {q:"Singing O Canada is one way people show they ___ their country.", options:["Ignore","Forget","Dislike","Care about"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the name of our national anthem?", answers:["O Canada","O Canada song"]},
+     {prompt:"Why do we sing our national anthem?", answers:["to show pride in our country","show respect for Canada"]},
+     {prompt:"Name a place where you might hear O Canada sung.", answers:["school","a hockey game"]}
+   ]},
+]},
+{day:132, label:"Day 132 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -ock Words", summary:"Kindergarten Language strand: the -ock word family shares the same ending sound, as in rock, sock, lock, and clock.",
+   resourceLabel:"YouTube: Word Families: -ock Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ock%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ock family?", options:["Pen","Run","Sock","Sun"], answer:2},
+     {q:"Which word rhymes with clock?", options:["Rock","Can","Cat","Cup"], answer:0},
+     {q:"Which word does NOT belong to the -ock family?", options:["Lick","Rock","Sock","Lock"], answer:0},
+     {q:"Complete the rhyme: I wear a shoe and a ___.", options:["sick","sack","sock","sink"], answer:2},
+     {q:"The ending sound of a word family stays the ___ in every word.", options:["Same","Different","Silent","Missing"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with rock.", answers:["sock","lock","clock"]},
+     {prompt:"What ending sound do sock and lock share?", answers:["ock","the ock sound"]},
+     {prompt:"Is block part of the -ock family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Length: Measuring with a Ruler in Centimetres", summary:"Kindergarten Math strand: students use a ruler to measure how long an object is in centimetres, lining up the end of the object with the zero mark.",
+   resourceLabel:"YouTube: Length: Measuring with a Ruler in Centimetres", resourceUrl:"https://www.youtube.com/results?search_query=Length%3A%20Measuring%20with%20a%20Ruler%20in%20Centimetres%20kindergarten%20educational",
+   quiz:[
+     {q:"What tool is used to measure length in centimetres?", options:["A clock","A scale","A ruler","A cup"], answer:2},
+     {q:"When measuring with a ruler, where should the object start?", options:["At the number 5","Off the ruler","At the zero mark","Anywhere at all"], answer:2},
+     {q:"Which unit does a ruler usually show for short objects?", options:["Centimetres","Kilometres","Hours","Litres"], answer:0},
+     {q:"If a crayon lines up with the number 8 on a ruler starting at 0, it is about ___ long.", options:["8 centimetres","8 kilograms","8 hours","8 litres"], answer:0},
+     {q:"A ruler helps us measure length more ___ than just guessing.", options:["Slowly only","Accurately","Colourfully","Loudly"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What tool do we use to measure length in centimetres?", answers:["a ruler","ruler"]},
+     {prompt:"Where do we line up the object when measuring with a ruler?", answers:["the zero mark","at zero"]},
+     {prompt:"What unit do we use when measuring with a ruler?", answers:["centimetres","cm"]}
+   ]},
+  {subject:"Science", title:"Fish: Gills and Fins", summary:"Kindergarten Science strand: fish live in water and breathe using gills, and they swim using their fins.",
+   resourceLabel:"YouTube: Fish: Gills and Fins", resourceUrl:"https://www.youtube.com/results?search_query=Fish%3A%20Gills%20and%20Fins%20kindergarten%20educational",
+   quiz:[
+     {q:"Where do fish live?", options:["In trees","In the sky","Underground","In water"], answer:3},
+     {q:"What do fish use to breathe underwater?", options:["Skin only","Gills","Lungs","A nose"], answer:1},
+     {q:"What do fish use to swim through the water?", options:["Fins","Wings","Legs","Claws"], answer:0},
+     {q:"Which of these is a fish?", options:["Whale","Duck","Salmon","Frog"], answer:2},
+     {q:"Gills help a fish take in ___ from the water.", options:["Sunlight","Sand","Oxygen","Salt only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Where do fish live?", answers:["in water","water"]},
+     {prompt:"What body part do fish use to breathe?", answers:["gills","their gills"]},
+     {prompt:"What body part do fish use to swim?", answers:["fins","their fins"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Provincial Premier: Leading Our Province", summary:"Kindergarten Social Studies strand: the premier is the leader of a province, working with other elected people to make decisions for everyone who lives there.",
+   resourceLabel:"YouTube: Our Provincial Premier: Leading Our Province", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Provincial%20Premier%3A%20Leading%20Our%20Province%20kindergarten%20educational",
+   quiz:[
+     {q:"What do we call the leader of a province?", options:["The prime minister","The premier","The mayor","The principal"], answer:1},
+     {q:"A premier leads ___.", options:["A single school","A single street","One province","A whole country"], answer:2},
+     {q:"How is a premier different from a mayor?", options:["A premier leads a province, a mayor leads a town or city","A premier only leads schools","They are the exact same job","A mayor leads the whole country"], answer:0},
+     {q:"A premier works with other elected people to make decisions for ___.", options:["Everyone in the province","Only their own family","No one","Only one street"], answer:0},
+     {q:"Which level of leader is a premier?", options:["Classroom","International","Household","Provincial"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do we call the leader of a province?", answers:["the premier","premier"]},
+     {prompt:"Does a premier lead a whole country or a province?", answers:["a province","just the province"]},
+     {prompt:"Why is a premier important?", answers:["makes decisions for the province","helps lead the province"]}
+   ]},
+]},
+{day:133, label:"Day 133 — Wed", subjects:[
+  {subject:"Language", title:"Making New Words: Adding -y", summary:"Kindergarten Language strand: adding -y to the end of a word can create a new word, such as changing rain into rainy or sun into sunny.",
+   resourceLabel:"YouTube: Making New Words: Adding -y", resourceUrl:"https://www.youtube.com/results?search_query=Making%20New%20Words%3A%20Adding%20-y%20kindergarten%20educational",
+   quiz:[
+     {q:"What word do we get by adding -y to rain?", options:["Raining","Rained","Rainly","Rainy"], answer:3},
+     {q:"What word do we get by adding -y to sun?", options:["Sunday","Sunny","Suns","Sunned"], answer:1},
+     {q:"What does the word windy describe?", options:["A shape","A day with no weather","A day with a lot of wind","A colour"], answer:2},
+     {q:"Adding -y to a word often describes ___.", options:["A colour","A place only","What something is like","A number"], answer:2},
+     {q:"Which word is formed correctly by adding -y?", options:["Cloud plus y equals clouded","Cloud plus y equals cloudly","Cloud plus y equals cloudy","Cloud plus y equals clouding"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does adding -y to rain make?", answers:["rainy","it makes rainy"]},
+     {prompt:"What does adding -y to sun make?", answers:["sunny","it makes sunny"]},
+     {prompt:"What does the word sleepy mean?", answers:["feeling like sleeping","wanting to sleep"]}
+   ]},
+  {subject:"Math", title:"Skip Counting by 4s to 40", summary:"Kindergarten Math strand: students skip count by 4s, saying 4, 8, 12, 16, and continuing on up to 40.",
+   resourceLabel:"YouTube: Skip Counting by 4s to 40", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%204s%20to%2040%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next: 4, 8, 12, ___?", options:["14","13","15","16"], answer:3},
+     {q:"What comes next: 16, 20, 24, ___?", options:["25","27","26","28"], answer:3},
+     {q:"When skip counting by 4s, what number comes after 28?", options:["32","29","30","31"], answer:0},
+     {q:"Skip counting by 4s means we add ___ each time.", options:["5","4","1","2"], answer:1},
+     {q:"Which list correctly skip counts by 4s?", options:["4, 6, 8, 10","4, 5, 6, 7","4, 8, 11, 16","4, 8, 12, 16"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 4, 8, 12?", answers:["16","sixteen"]},
+     {prompt:"Skip count by 4s from 4 to 20.", answers:["4,8,12,16,20","4 8 12 16 20"]},
+     {prompt:"What number comes right before 40 when skip counting by 4s?", answers:["36","thirty six"]}
+   ]},
+  {subject:"Science", title:"Butterflies and Moths: Comparing Two Insects", summary:"Kindergarten Science strand: butterflies and moths are both insects with wings, but butterflies usually fly in the day and moths usually fly at night.",
+   resourceLabel:"YouTube: Butterflies and Moths: Comparing Two Insects", resourceUrl:"https://www.youtube.com/results?search_query=Butterflies%20and%20Moths%3A%20Comparing%20Two%20Insects%20kindergarten%20educational",
+   quiz:[
+     {q:"When are butterflies usually active?", options:["Only in winter","At night","During the day","Never"], answer:2},
+     {q:"When are moths usually active?", options:["During the day","Only underwater","Only in the rain","At night"], answer:3},
+     {q:"What do butterflies and moths have in common?", options:["They both live underwater","They are both mammals","They have no wings","They are both insects with wings"], answer:3},
+     {q:"Which is a way to tell some moths apart from butterflies?", options:["Moths live only in water","Moths are not insects","Moths are often active at night","Moths never have wings"], answer:2},
+     {q:"Butterflies and moths both begin life as a ___.", options:["Kitten","Chick","Tadpole","Caterpillar"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"When do butterflies usually fly?", answers:["during the day","daytime"]},
+     {prompt:"When do moths usually fly?", answers:["at night","nighttime"]},
+     {prompt:"Are butterflies and moths both insects?", answers:["yes","yes they are"]}
+   ]},
+  {subject:"SocialStudies", title:"Our School Custodian: Keeping Our School Clean", summary:"Kindergarten Social Studies strand: the school custodian works hard every day to keep our school clean, safe, and running smoothly.",
+   resourceLabel:"YouTube: Our School Custodian: Keeping Our School Clean", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Custodian%3A%20Keeping%20Our%20School%20Clean%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a main job of the school custodian?", options:["Keeping the school clean and in good repair","Driving the bus","Teaching math","Cooking lunch"], answer:0},
+     {q:"Why is the custodians work important for the whole school?", options:["It is not important","It keeps the school clean and safe for everyone","It has no effect on the school","It only matters on weekends"], answer:1},
+     {q:"How can students help make the custodians job easier?", options:["Cleaning up after themselves","Making extra messes on purpose","Hiding trash","Ignoring spills"], answer:0},
+     {q:"Which task might a school custodian do?", options:["Driving to other cities","Grading tests","Teaching art class","Sweeping the hallway"], answer:3},
+     {q:"A clean and safe school helps students ___.", options:["Learn better","Feel unsafe","Avoid school","Get sick more often"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does a school custodian do?", answers:["keeps the school clean","cleans and fixes things"]},
+     {prompt:"Why is a custodians job important?", answers:["keeps the school clean and safe","helps everyone stay healthy"]},
+     {prompt:"How can students help the custodian?", answers:["clean up after themselves","put things away"]}
+   ]},
+]},
+{day:134, label:"Day 134 — Thu", subjects:[
+  {subject:"Language", title:"Comparing Adjectives: Big, Bigger, Biggest", summary:"Kindergarten Language strand: students learn how adjectives change to compare things, such as big, bigger, and biggest.",
+   resourceLabel:"YouTube: Comparing Adjectives: Big, Bigger, Biggest", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Adjectives%3A%20Big%2C%20Bigger%2C%20Biggest%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word compares two big things?", options:["Bigger","Bigly","Big","Biggest"], answer:0},
+     {q:"Which word describes the biggest out of a whole group?", options:["Big","Biggest","Bigger","Bigger than"], answer:1},
+     {q:"An elephant is ___ than a mouse.", options:["Bigger","Small","Biggest","Big"], answer:0},
+     {q:"Out of a mouse, a dog, and an elephant, the elephant is the ___.", options:["Big","Biggest","Smallest","Bigger"], answer:1},
+     {q:"Adding -er to an adjective usually compares ___ things.", options:["Every colour of","One","No","Two"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What word describes one big thing?", answers:["big"]},
+     {prompt:"What word compares two things that are big?", answers:["bigger"]},
+     {prompt:"What word describes the biggest of three or more things?", answers:["biggest"]}
+   ]},
+  {subject:"Math", title:"Fractions: Introducing Thirds", summary:"Kindergarten Math strand: students learn that cutting a shape into three equal parts makes thirds, with each part called one third.",
+   resourceLabel:"YouTube: Fractions: Introducing Thirds", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Introducing%20Thirds%20kindergarten%20educational",
+   quiz:[
+     {q:"If a shape is cut into three equal parts, each part is called ___.", options:["A quarter","A third","A whole","A half"], answer:1},
+     {q:"How many equal parts are in thirds?", options:["2","3","4","6"], answer:1},
+     {q:"For parts to be called thirds, they must be ___.", options:["Equal in size","Uncounted","Only two parts","Different sizes"], answer:0},
+     {q:"Which shows a shape divided into thirds?", options:["A whole uncut circle","A circle cut into 3 equal slices","A circle cut into 2 equal slices","A circle cut into 5 pieces"], answer:1},
+     {q:"Thirds have ___ equal parts, while halves have 2.", options:["4","5","6","3"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If a shape is cut into three equal parts, what is each part called?", answers:["a third","one third"]},
+     {prompt:"How many equal parts make up thirds?", answers:["3","three"]},
+     {prompt:"Are the three parts in thirds the same size?", answers:["yes","yes they are equal"]}
+   ]},
+  {subject:"Science", title:"Ocean Tides: The Rise and Fall of the Sea", summary:"Kindergarten Science strand: ocean tides are the rise and fall of the sea, which happens twice a day and can be seen on the beach.",
+   resourceLabel:"YouTube: Ocean Tides: The Rise and Fall of the Sea", resourceUrl:"https://www.youtube.com/results?search_query=Ocean%20Tides%3A%20The%20Rise%20and%20Fall%20of%20the%20Sea%20kindergarten%20educational",
+   quiz:[
+     {q:"What are ocean tides?", options:["A kind of fish","A colour of water","A type of storm","The rise and fall of the sea"], answer:3},
+     {q:"Where can people often observe the tide changing?", options:["On a mountain","At the beach","In the desert","In a forest"], answer:1},
+     {q:"About how many times a day does the tide usually rise and fall?", options:["Ten times","Once","Never","Twice"], answer:3},
+     {q:"At low tide, the water usually moves ___ the shore.", options:["Away from","Nowhere near","Underground beneath","Straight up into the sky above"], answer:0},
+     {q:"Tides are an example of how the ocean is always ___.", options:["Frozen solid","Completely still","Moving and changing","Made of ice"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What are ocean tides?", answers:["the rise and fall of the sea","the sea going up and down"]},
+     {prompt:"Where can you often see tides?", answers:["at the beach","the beach"]},
+     {prompt:"How many times a day does the tide usually rise and fall?", answers:["twice","two times"]}
+   ]},
+  {subject:"SocialStudies", title:"National Indigenous Peoples Day", summary:"Kindergarten Social Studies strand: National Indigenous Peoples Day is a special day in June when Canadians celebrate the cultures and achievements of First Nations, Metis, and Inuit peoples.",
+   resourceLabel:"YouTube: National Indigenous Peoples Day", resourceUrl:"https://www.youtube.com/results?search_query=National%20Indigenous%20Peoples%20Day%20kindergarten%20educational",
+   quiz:[
+     {q:"What does National Indigenous Peoples Day celebrate?", options:["The cultures and achievements of First Nations, Metis, and Inuit peoples","A new school building","A type of weather","A sports team"], answer:0},
+     {q:"In which month is National Indigenous Peoples Day celebrated?", options:["August","December","June","February"], answer:2},
+     {q:"Why is it important to celebrate National Indigenous Peoples Day?", options:["It is not important","To ignore Canadian history","Only adults need to know about it","To honour and learn about Indigenous cultures"], answer:3},
+     {q:"Which groups are celebrated on this day?", options:["Only students","First Nations, Metis, and Inuit peoples","Only teachers","Only visitors from other countries"], answer:1},
+     {q:"Learning about National Indigenous Peoples Day helps students show ___.", options:["No interest","Confusion","Respect and understanding","Carelessness"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is celebrated on National Indigenous Peoples Day?", answers:["Indigenous cultures and achievements","First Nations, Metis, and Inuit peoples"]},
+     {prompt:"In what month is National Indigenous Peoples Day?", answers:["June"]},
+     {prompt:"Why do we celebrate this day?", answers:["to honour Indigenous cultures","show respect and learn"]}
+   ]},
+]},
+{day:135, label:"Day 135 — Fri", subjects:[
+  {subject:"Language", title:"Onomatopoeia: Sound Words in Stories", summary:"Kindergarten Language strand: onomatopoeia words sound like the noise they describe, such as buzz, splash, and crash.",
+   resourceLabel:"YouTube: Onomatopoeia: Sound Words in Stories", resourceUrl:"https://www.youtube.com/results?search_query=Onomatopoeia%3A%20Sound%20Words%20in%20Stories%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word sounds like the noise it describes?", options:["Table","Buzz","Happy","Green"], answer:1},
+     {q:"Which sound word could describe a bee flying by?", options:["Buzz","Crash","Whisper","Splash"], answer:0},
+     {q:"Which sound word could describe something falling into water?", options:["Splash","Buzz","Tick","Meow"], answer:0},
+     {q:"Sound words that copy the noise they describe are called ___.", options:["Onomatopoeia","Synonyms","Rhymes","Prefixes"], answer:0},
+     {q:"Which word is an example of onomatopoeia?", options:["Walk","Chair","Crash","Blue"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Give an example of a sound word.", answers:["buzz","splash","crash"]},
+     {prompt:"What sound word describes a bee?", answers:["buzz"]},
+     {prompt:"What sound word describes something falling into water?", answers:["splash"]}
+   ]},
+  {subject:"Math", title:"Money: Making a Target Amount with Different Coins", summary:"Kindergarten Math strand: students find different ways to make the same amount of money, such as making 10 cents with two nickels or ten pennies.",
+   resourceLabel:"YouTube: Money: Making a Target Amount with Different Coins", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20a%20Target%20Amount%20with%20Different%20Coins%20kindergarten%20educational",
+   quiz:[
+     {q:"Which is one way to make 10 cents?", options:["Three pennies","One penny","One dime and one nickel","Two nickels"], answer:3},
+     {q:"Which coins could also make 10 cents?", options:["Two dimes","Five nickels","Ten pennies","One nickel alone"], answer:2},
+     {q:"Is there only one way to make the same amount of money?", options:["No, there can be many ways","Money cannot be made with coins","Coins have no value","Yes, only one way"], answer:0},
+     {q:"Which combination makes 6 cents?", options:["Six dimes","One dime","One nickel and one penny","Two nickels"], answer:2},
+     {q:"Finding different coin combinations for the same amount helps us understand ___.", options:["Coin values","Story characters","The alphabet","Animal habitats"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one way to make 10 cents.", answers:["two nickels","ten pennies"]},
+     {prompt:"Name another way to make 10 cents.", answers:["one nickel and five pennies","ten pennies"]},
+     {prompt:"Can there be more than one way to make the same amount?", answers:["yes","yes there can"]}
+   ]},
+  {subject:"Science", title:"Our Sense of Balance: How We Stay Upright", summary:"Kindergarten Science strand: our body has a sense of balance, helped by a part inside our ear, that lets us stand, walk, and stay upright without falling.",
+   resourceLabel:"YouTube: Our Sense of Balance: How We Stay Upright", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Sense%20of%20Balance%3A%20How%20We%20Stay%20Upright%20kindergarten%20educational",
+   quiz:[
+     {q:"What sense helps us stand and walk without falling?", options:["Sense of smell","Sense of taste","Sense of hearing only","Sense of balance"], answer:3},
+     {q:"Which body part helps control our sense of balance?", options:["Our hair","Our elbow","Our teeth","A part inside our ear"], answer:3},
+     {q:"Which activity uses our sense of balance the most?", options:["Standing on one foot","Tasting food","Listening to music","Smelling a flower"], answer:0},
+     {q:"Our sense of balance helps prevent us from ___.", options:["Hearing sounds","Tasting food","Smelling things","Falling over"], answer:3},
+     {q:"Riding a bicycle is a good example of using ___.", options:["Taste","Balance","Nothing at all","Smell only"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What helps our body stay upright?", answers:["our sense of balance","balance"]},
+     {prompt:"What body part helps us with balance?", answers:["inside our ear","our ear"]},
+     {prompt:"Name an activity that uses balance.", answers:["walking","standing on one foot"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Local Newspaper: Sharing the News", summary:"Kindergarten Social Studies strand: a local newspaper shares stories and information about what is happening in our community.",
+   resourceLabel:"YouTube: Our Local Newspaper: Sharing the News", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Local%20Newspaper%3A%20Sharing%20the%20News%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a local newspaper share with the community?", options:["News and information","Only weather from other planets","Nothing at all","Only pictures with no words"], answer:0},
+     {q:"Who writes the stories in a newspaper?", options:["Reporters","Firefighters","Pilots","Doctors"], answer:0},
+     {q:"Which is something you might read about in a local newspaper?", options:["Only ads for toys","A made-up fairy tale only","A community event","Nothing about your town"], answer:2},
+     {q:"A newspaper helps people in a community stay ___.", options:["Informed","Unaware","Confused","Bored only"], answer:0},
+     {q:"Besides paper newspapers, where else might people read local news today?", options:["Only by asking a stranger","Online or on a website","Only in outer space","Nowhere else"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a newspaper share with people?", answers:["news and information","stories about the community"]},
+     {prompt:"Who writes stories for a newspaper?", answers:["reporters","a journalist"]},
+     {prompt:"Name one thing you might read about in a local newspaper.", answers:["community events","local news"]}
+   ]},
+]},
+{day:136, label:"Day 136 — Mon", subjects:[
+  {subject:"Language", title:"Nonfiction Text Features: Table of Contents and Headings", summary:"Kindergarten Language strand: nonfiction books often have a table of contents and headings that help readers find information quickly.",
+   resourceLabel:"YouTube: Nonfiction Text Features: Table of Contents and Headings", resourceUrl:"https://www.youtube.com/results?search_query=Nonfiction%20Text%20Features%3A%20Table%20of%20Contents%20and%20Headings%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a table of contents usually show?", options:["A list of ingredients","A list of the parts of a book and their pages","A list of story characters","A list of weather facts"], answer:1},
+     {q:"What is a heading in a nonfiction book?", options:["A picture with no words","The books cover colour","The last page of the book","A small title above a section of text"], answer:3},
+     {q:"Why do nonfiction books use headings and a table of contents?", options:["To confuse the reader","To help readers find information quickly","They have no purpose","To make the book longer for no reason"], answer:1},
+     {q:"Where would you usually find a table of contents in a book?", options:["Only on the back cover","Near the beginning","Nowhere in the book","In the middle of a chapter"], answer:1},
+     {q:"A heading tells the reader what a section is mostly ___.", options:["Smelling like","Weighing","Coloured","About"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a table of contents show?", answers:["where to find each part of a book","a list of the parts of a book"]},
+     {prompt:"What is a heading?", answers:["a title for a section","a small title above some text"]},
+     {prompt:"Why are these features helpful?", answers:["help readers find information","make it easier to find things"]}
+   ]},
+  {subject:"Math", title:"Perimeter: Walking Around the Edge of a Shape", summary:"Kindergarten Math strand: perimeter is the distance all the way around the outside edge of a shape, like walking around the edge of a garden.",
+   resourceLabel:"YouTube: Perimeter: Walking Around the Edge of a Shape", resourceUrl:"https://www.youtube.com/results?search_query=Perimeter%3A%20Walking%20Around%20the%20Edge%20of%20a%20Shape%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the perimeter of a shape?", options:["Its weight","The distance all the way around its outside edge","Its colour","The space inside it"], answer:1},
+     {q:"If you walk all the way around a playground, you are walking its ___.", options:["Volume","Perimeter","Height","Area"], answer:1},
+     {q:"Which shape has a longer perimeter, a big square or a tiny square?", options:["The tiny square","The big square","They are always equal","Neither has a perimeter"], answer:1},
+     {q:"To find perimeter, we add up the length of each ___ of the shape.", options:["Side","Colour","Centre","Corner"], answer:0},
+     {q:"Perimeter measures the ___ of a shape, not the space inside it.", options:["Middle","Outside edge","Smell","Weight"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is perimeter?", answers:["the distance around a shape","the distance around the outside edge"]},
+     {prompt:"If you walk around the edge of a square garden, what are you measuring?", answers:["its perimeter","perimeter"]},
+     {prompt:"Does perimeter measure the inside or the outside edge of a shape?", answers:["the outside edge","outside"]}
+   ]},
+  {subject:"Science", title:"The Night Sky: Constellations", summary:"Kindergarten Science strand: a constellation is a group of stars that forms a pattern in the night sky, such as the Big Dipper.",
+   resourceLabel:"YouTube: The Night Sky: Constellations", resourceUrl:"https://www.youtube.com/results?search_query=The%20Night%20Sky%3A%20Constellations%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a constellation?", options:["A kind of cloud","A single bright star","A group of stars forming a pattern","A type of planet"], answer:2},
+     {q:"What is a well-known constellation people often learn first?", options:["The Great Lakes","The Sahara","The Rocky Mountains","The Big Dipper"], answer:3},
+     {q:"When can we usually see constellations in the sky?", options:["During the day","At night","Never","Only underwater"], answer:1},
+     {q:"People have used constellations for a long time to help with ___.", options:["Building houses","Cooking food","Finding direction","Growing plants"], answer:2},
+     {q:"A constellation is made up of many ___ that form a shape.", options:["Clouds","Planets","Moons","Stars"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is a constellation?", answers:["a group of stars that forms a pattern","a pattern of stars"]},
+     {prompt:"Name a well-known constellation.", answers:["the Big Dipper"]},
+     {prompt:"When can we see constellations?", answers:["at night","nighttime"]}
+   ]},
+  {subject:"SocialStudies", title:"Comparing Then and Now: How We Communicate", summary:"Kindergarten Social Studies strand: the way people communicate has changed over time, from writing letters long ago to using phones and video calls today.",
+   resourceLabel:"YouTube: Comparing Then and Now: How We Communicate", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Then%20and%20Now%3A%20How%20We%20Communicate%20kindergarten%20educational",
+   quiz:[
+     {q:"How did many people communicate over long distances long ago?", options:["By writing letters","By text message","By video call","By email only"], answer:0},
+     {q:"Which is a modern way people communicate today?", options:["Using smoke signals only","Sending a video call","Not communicating at all","Only sending letters by horse"], answer:1},
+     {q:"How has communication changed from long ago to today?", options:["People stopped talking to each other","It became slower","It has not changed at all","It has become faster with new technology"], answer:3},
+     {q:"Comparing then and now helps us understand ___.", options:["Nothing important","That things can change over time","Only todays technology","That nothing ever changes"], answer:1},
+     {q:"Which is an example of an older way to send a message?", options:["A text message","An email","A handwritten letter","A smartphone video call"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a way people communicated long ago.", answers:["writing letters","sending a letter"]},
+     {prompt:"Name a way people communicate today.", answers:["phone call","video call"]},
+     {prompt:"How has communication changed over time?", answers:["it became faster","new technology like phones"]}
+   ]},
+]},
+{day:137, label:"Day 137 — Tue", subjects:[
+  {subject:"Language", title:"Categorizing Words: Sorting Words into Groups", summary:"Kindergarten Language strand: students sort words into categories, such as grouping animals, foods, and colours into separate groups.",
+   resourceLabel:"YouTube: Categorizing Words: Sorting Words into Groups", resourceUrl:"https://www.youtube.com/results?search_query=Categorizing%20Words%3A%20Sorting%20Words%20into%20Groups%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs in the category animals?", options:["Dog","Red","Chair","Apple"], answer:0},
+     {q:"Which word belongs in the category foods?", options:["Lion","Table","Green","Bread"], answer:3},
+     {q:"Which word does NOT belong with cat, dog, and bird?", options:["Horse","Banana","Rabbit","Fish"], answer:1},
+     {q:"Sorting words into categories helps us understand how words are ___.", options:["Counted","Spelled backwards","Related in meaning","Coloured"], answer:2},
+     {q:"Which group are all colours?", options:["Red, blue, yellow","One, two, three","Apple, banana, grape","Dog, cat, bird"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name a word that belongs in the category animals.", answers:["dog","cat","bird"]},
+     {prompt:"Name a word that belongs in the category foods.", answers:["apple","bread"]},
+     {prompt:"Why do we sort words into categories?", answers:["to organize them by meaning","group similar things"]}
+   ]},
+  {subject:"Math", title:"Shapes: Introducing the Trapezoid and Rhombus", summary:"Kindergarten Math strand: students learn two new shape names, the trapezoid, which has one pair of parallel sides, and the rhombus, a slanted shape with four equal sides.",
+   resourceLabel:"YouTube: Shapes: Introducing the Trapezoid and Rhombus", resourceUrl:"https://www.youtube.com/results?search_query=Shapes%3A%20Introducing%20the%20Trapezoid%20and%20Rhombus%20kindergarten%20educational",
+   quiz:[
+     {q:"How many sides does a trapezoid have?", options:["6","5","4","3"], answer:2},
+     {q:"A rhombus has how many equal sides?", options:["3","5","4","2"], answer:2},
+     {q:"Which shape looks like a slanted square?", options:["Rhombus","Cone","Circle","Sphere"], answer:0},
+     {q:"A trapezoid has one pair of sides that are ___.", options:["Coloured","Missing","Curved","Parallel"], answer:3},
+     {q:"Which of these shapes has four equal sides that are slanted?", options:["Trapezoid","Triangle","Circle","Rhombus"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many sides does a trapezoid have?", answers:["4","four"]},
+     {prompt:"How many equal sides does a rhombus have?", answers:["4","four"]},
+     {prompt:"Name something shaped like a trapezoid.", answers:["a table top","a kite has a similar shape"]}
+   ]},
+  {subject:"Science", title:"Losing Teeth: Baby Teeth and Adult Teeth", summary:"Kindergarten Science strand: children have baby teeth that fall out over time and are replaced by bigger, stronger adult teeth.",
+   resourceLabel:"YouTube: Losing Teeth: Baby Teeth and Adult Teeth", resourceUrl:"https://www.youtube.com/results?search_query=Losing%20Teeth%3A%20Baby%20Teeth%20and%20Adult%20Teeth%20kindergarten%20educational",
+   quiz:[
+     {q:"What are a childs first teeth called?", options:["Silver teeth","Baby teeth","Wisdom teeth","Adult teeth"], answer:1},
+     {q:"What eventually happens to baby teeth?", options:["They stay forever","They disappear with no replacement","They turn into hair","They fall out and are replaced"], answer:3},
+     {q:"What kind of teeth replace baby teeth?", options:["Plastic teeth","Baby teeth again","Adult teeth","No new teeth at all"], answer:2},
+     {q:"Why is it healthy to take care of baby teeth even though they fall out?", options:["Baby teeth cause no problems ever","They do not matter at all","They help with eating and speaking until adult teeth arrive","Only adult teeth need care"], answer:2},
+     {q:"Adult teeth are usually ___ than baby teeth.", options:["Smaller","Bigger and stronger","The exact same size","Softer"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do we call the first teeth children have?", answers:["baby teeth","baby teeth or milk teeth"]},
+     {prompt:"What happens to baby teeth over time?", answers:["they fall out","fall out and are replaced"]},
+     {prompt:"What replaces baby teeth?", answers:["adult teeth","bigger adult teeth"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Conservation Officers: Protecting Parks and Wildlife", summary:"Kindergarten Social Studies strand: conservation officers work to protect parks, forests, and wild animals, making sure people follow rules that keep nature safe.",
+   resourceLabel:"YouTube: Our Conservation Officers: Protecting Parks and Wildlife", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Conservation%20Officers%3A%20Protecting%20Parks%20and%20Wildlife%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a conservation officer?", options:["Building houses","Teaching math","Delivering mail","Protecting parks, forests, and wildlife"], answer:3},
+     {q:"Why do parks have rules that conservation officers help enforce?", options:["To make parks boring","To stop people from ever visiting","To keep nature and visitors safe","Rules are not needed in parks"], answer:2},
+     {q:"Where might a conservation officer work?", options:["Only in a classroom","Only inside an office building","In a forest or park","Only in a hospital"], answer:2},
+     {q:"Conservation officers help protect wild animals from ___.", options:["Being cared for","Only sunshine","Nothing at all","Harm and unsafe treatment"], answer:3},
+     {q:"Following park rules helps keep both people and ___ safe.", options:["Cars","Buildings","Wildlife","Nothing"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do conservation officers protect?", answers:["parks and wildlife","nature and animals"]},
+     {prompt:"Why are rules important in parks?", answers:["to keep nature and people safe","protect animals and plants"]},
+     {prompt:"Name one place a conservation officer might work.", answers:["a park","a forest"]}
+   ]},
+]},
+{day:138, label:"Day 138 — Wed", subjects:[
+  {subject:"Language", title:"Story Purpose: To Entertain or To Inform", summary:"Kindergarten Language strand: stories can be written to entertain us with fun and adventure, or to inform us with facts and true information.",
+   resourceLabel:"YouTube: Story Purpose: To Entertain or To Inform", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Purpose%3A%20To%20Entertain%20or%20To%20Inform%20kindergarten%20educational",
+   quiz:[
+     {q:"A story written mainly to make us laugh or feel excited is meant to ___.", options:["Inform","Confuse","Erase","Entertain"], answer:3},
+     {q:"A book that gives true facts about animals is meant to ___.", options:["Inform","Trick the reader","Entertain only","Do nothing"], answer:0},
+     {q:"Which is an example of a book written mostly to inform?", options:["A joke book","A silly poem about a dragon","A book of true facts about the ocean","A made-up fairy tale"], answer:2},
+     {q:"Which is an example of a book written mostly to entertain?", options:["An encyclopedia","An adventure story about a pirate","A recipe book","A book of weather facts"], answer:1},
+     {q:"Knowing a storys purpose helps readers understand ___.", options:["Only the page numbers","Why the author wrote it","The books colour","Nothing useful"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a story written to entertain do?", answers:["makes us have fun","tells a fun or exciting story"]},
+     {prompt:"What does a story written to inform do?", answers:["teaches us facts","gives true information"]},
+     {prompt:"Give an example of a book that mostly informs.", answers:["a book about animals","a fact book"]}
+   ]},
+  {subject:"Math", title:"Estimating Weight: About How Heavy Is It?", summary:"Kindergarten Math strand: students make a reasonable guess, or estimate, about how heavy an object is before checking with a scale.",
+   resourceLabel:"YouTube: Estimating Weight: About How Heavy Is It?", resourceUrl:"https://www.youtube.com/results?search_query=Estimating%20Weight%3A%20About%20How%20Heavy%20Is%20It%3F%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to estimate the weight of something?", options:["Measure its colour","Know the exact weight with no guessing","Ignore the object completely","Make a careful guess before checking"], answer:3},
+     {q:"Which object is likely heavier?", options:["A feather","A single leaf","A cotton ball","A large rock"], answer:3},
+     {q:"How can we check if a weight estimate was close?", options:["Weigh the object on a scale","Guess again with no tool","Ignore it forever","Ask a random question"], answer:0},
+     {q:"A good estimate is a guess that is ___.", options:["Always exactly right","Reasonable and thoughtful","Completely random","Impossible to make"], answer:1},
+     {q:"Which of these would likely feel the lightest?", options:["A brick","A large book","A bowling ball","A feather"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to estimate weight?", answers:["make a careful guess about how heavy something is","guess how heavy"]},
+     {prompt:"Which is heavier, a feather or a rock?", answers:["a rock","the rock"]},
+     {prompt:"How can you check if your estimate was close?", answers:["weigh it on a scale","use a scale"]}
+   ]},
+  {subject:"Science", title:"Where Our Tap Water Comes From", summary:"Kindergarten Science strand: the water that comes from our tap travels through pipes from a treatment plant that cleans water from rivers, lakes, or underground.",
+   resourceLabel:"YouTube: Where Our Tap Water Comes From", resourceUrl:"https://www.youtube.com/results?search_query=Where%20Our%20Tap%20Water%20Comes%20From%20kindergarten%20educational",
+   quiz:[
+     {q:"What cleans water before it reaches our tap?", options:["A library","A toy factory","A water treatment plant","A bakery"], answer:2},
+     {q:"How does clean water usually travel to our homes?", options:["Through underground pipes","By hand delivery","It does not travel at all","By airplane"], answer:0},
+     {q:"Where might a treatment plant get water from originally?", options:["From nowhere at all","Rivers, lakes, or underground sources","Only from the ocean","Only from clouds directly"], answer:1},
+     {q:"Why is it important for water to be treated before we drink it?", options:["To make sure it is clean and safe","It tastes better dirty","It is not important","Treatment makes no difference"], answer:0},
+     {q:"Which best describes the journey of tap water?", options:["Water never needs cleaning","Water appears instantly with no process","Water is delivered by truck only","Source water is cleaned, then piped to homes"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Where does tap water come from before it reaches our home?", answers:["a water treatment plant","treatment plant"]},
+     {prompt:"What does a water treatment plant do?", answers:["cleans the water","makes water safe to drink"]},
+     {prompt:"How does water get to our home?", answers:["through pipes","pipes"]}
+   ]},
+  {subject:"SocialStudies", title:"Voting: How We Choose Our Leaders", summary:"Kindergarten Social Studies strand: voting is how people choose their leaders, with each person getting to pick who they think will do the best job.",
+   resourceLabel:"YouTube: Voting: How We Choose Our Leaders", resourceUrl:"https://www.youtube.com/results?search_query=Voting%3A%20How%20We%20Choose%20Our%20Leaders%20kindergarten%20educational",
+   quiz:[
+     {q:"What is voting?", options:["A kind of food","A way people choose their leaders","A way to clean a classroom","A type of game with no purpose"], answer:1},
+     {q:"Why is voting important in choosing leaders like a mayor or premier?", options:["It has no importance","Only one person should decide alone","It lets many people have a say in who leads","It makes decisions harder for no reason"], answer:2},
+     {q:"When people vote, they are usually choosing between ___.", options:["Different foods","Different candidates or choices","Nothing at all","Different colours only"], answer:1},
+     {q:"A classroom could use voting to decide ___.", options:["Which book to read together","What the weather will be","Nothing useful","What day it is"], answer:0},
+     {q:"Voting gives people a chance to ___ who leads them.", options:["Avoid learning about","Have no opinion about","Help choose","Ignore"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is voting?", answers:["choosing a leader by picking a choice","how people choose leaders"]},
+     {prompt:"Why do people vote?", answers:["to choose their leaders","help decide who leads"]},
+     {prompt:"Is voting a way for many people to have a say?", answers:["yes","yes it lets everyone choose"]}
+   ]},
+]},
+{day:139, label:"Day 139 — Thu", subjects:[
+  {subject:"Language", title:"Word Families: -ick Words", summary:"Kindergarten Language strand: the -ick word family shares the same ending sound, as in kick, pick, lick, and stick.",
+   resourceLabel:"YouTube: Word Families: -ick Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ick%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ick family?", options:["Dog","Pick","Sun","Cat"], answer:1},
+     {q:"Which word rhymes with stick?", options:["Star","Kick","Stay","Stop"], answer:1},
+     {q:"Which word does NOT belong to the -ick family?", options:["Kick","Pack","Pick","Lick"], answer:1},
+     {q:"Complete the rhyme: My favourite treat is a lollipop I like to ___.", options:["luck","lack","lick","lock"], answer:2},
+     {q:"Recognizing word families helps us read new words that share the same ___.", options:["Meaning","Ending sound","Number of letters","Colour"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with kick.", answers:["pick","lick","stick"]},
+     {prompt:"What ending sound do pick and lick share?", answers:["ick","the ick sound"]},
+     {prompt:"Is quick part of the -ick family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Skip Counting Backwards by 10s from 100", summary:"Kindergarten Math strand: students skip count backwards by 10s, saying 100, 90, 80, and continuing down to 0.",
+   resourceLabel:"YouTube: Skip Counting Backwards by 10s from 100", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20Backwards%20by%2010s%20from%20100%20kindergarten%20educational",
+   quiz:[
+     {q:"Counting backwards by 10s from 100, what comes next: 100, 90, ___?", options:["80","75","85","70"], answer:0},
+     {q:"Counting backwards by 10s, what comes after 50?", options:["35","30","40","45"], answer:2},
+     {q:"Counting backwards by 10s from 30, what comes right before 0?", options:["5","15","10","20"], answer:2},
+     {q:"Skip counting backwards by 10s means we subtract ___ each time.", options:["100","1","5","10"], answer:3},
+     {q:"Which list correctly skip counts backwards by 10s?", options:["100, 80, 60, 50","100, 90, 80, 70","100, 95, 90, 85","100, 90, 70, 60"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 100 when counting backwards by 10s?", answers:["90","ninety"]},
+     {prompt:"Skip count backwards by 10s from 50 to 0.", answers:["50,40,30,20,10,0","50 40 30 20 10 0"]},
+     {prompt:"What number comes right before 0 when counting backwards by 10s?", answers:["10","ten"]}
+   ]},
+  {subject:"Science", title:"Animal Mimicry: Looking Like Something Else", summary:"Kindergarten Science strand: some animals use mimicry, looking or acting like a different, often more dangerous animal, to help keep themselves safe.",
+   resourceLabel:"YouTube: Animal Mimicry: Looking Like Something Else", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Mimicry%3A%20Looking%20Like%20Something%20Else%20kindergarten%20educational",
+   quiz:[
+     {q:"What is animal mimicry?", options:["An animal looking or acting like a different animal","An animal that never moves","An animal that only eats plants","A type of weather"], answer:0},
+     {q:"Why might a harmless animal use mimicry?", options:["To look dangerous and scare away predators","To fly higher","To become invisible completely","To grow bigger permanently"], answer:0},
+     {q:"How is mimicry different from camouflage?", options:["Mimicry only happens underwater","Camouflage only happens in mimicry","Mimicry copies another animals look, camouflage blends into surroundings","They are the exact same thing"], answer:2},
+     {q:"Which is an example of mimicry?", options:["A fish swimming in a school","A brown moth blending into tree bark","A polar bear being white like snow","A harmless insect looking like a stinging wasp"], answer:3},
+     {q:"Animal mimicry mainly helps an animal ___.", options:["Grow taller","Change colour permanently","Stay safer from danger","Fly faster"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is animal mimicry?", answers:["looking like a different animal","copying how another animal looks"]},
+     {prompt:"Why might an animal use mimicry?", answers:["to stay safe from predators","to look dangerous"]},
+     {prompt:"Is mimicry the same as camouflage?", answers:["no","no it is different, it copies another animal"]}
+   ]},
+  {subject:"SocialStudies", title:"Snow Plow Drivers: Keeping Roads Safe in Winter", summary:"Kindergarten Social Studies strand: snow plow drivers clear snow and ice from roads in winter so that cars, buses, and people can travel safely.",
+   resourceLabel:"YouTube: Snow Plow Drivers: Keeping Roads Safe in Winter", resourceUrl:"https://www.youtube.com/results?search_query=Snow%20Plow%20Drivers%3A%20Keeping%20Roads%20Safe%20in%20Winter%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a snow plow driver?", options:["Growing vegetables","Delivering mail","Clearing snow and ice from roads","Teaching school"], answer:2},
+     {q:"Why is it important for roads to be cleared of snow?", options:["Roads should always be covered","It has no effect on safety","So cars, buses, and people can travel safely","Snow on roads is not a problem"], answer:2},
+     {q:"When are snow plow drivers usually busiest?", options:["During winter snowstorms","During summer","They are never busy","During the spring only"], answer:0},
+     {q:"Snow plow drivers help keep school buses running by ___.", options:["Teaching the bus drivers","Driving the buses themselves","Painting the buses","Clearing the roads they drive on"], answer:3},
+     {q:"Which of these might a snow plow driver use to clear a road?", options:["A paintbrush","A cooking pot","A telescope","A large plow blade on a truck"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a snow plow driver clear from roads?", answers:["snow and ice","snow"]},
+     {prompt:"Why is it important to clear snow from roads?", answers:["so people can travel safely","keeps roads safe for driving"]},
+     {prompt:"When do snow plow drivers usually work the most?", answers:["winter","during snowstorms"]}
+   ]},
+]},
+{day:140, label:"Day 140 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: New Word Families, Adjectives, and Text Features", summary:"Kindergarten Language strand review: students revisit the -ack, -ock, and -ick word families, adding -y, comparing adjectives, onomatopoeia, and nonfiction text features.",
+   resourceLabel:"YouTube: Language Review: New Word Families, Adjectives, and Text Features", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20New%20Word%20Families%2C%20Adjectives%2C%20and%20Text%20Features%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ack family?", options:["Bed","Sun","Pack","Cup"], answer:2},
+     {q:"What word do we get by adding -y to rain?", options:["Rained","Rainly","Raining","Rainy"], answer:3},
+     {q:"Which word compares two big things?", options:["Bigger","Biggest","Bigly","Big"], answer:0},
+     {q:"Which word sounds like the noise it describes?", options:["Buzz","Table","Green","Happy"], answer:0},
+     {q:"What does a table of contents usually show?", options:["A list of story characters","A list of ingredients","A list of weather facts","A list of the parts of a book and their pages"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word from the -ack, -ock, or -ick family.", answers:["back","sock","kick"]},
+     {prompt:"What word do we get by adding -y to sun?", answers:["sunny"]},
+     {prompt:"Give an example of a sound word.", answers:["buzz","splash"]}
+   ]},
+  {subject:"Math", title:"Math Review: Missing Addends, Fractions, and Shapes", summary:"Kindergarten Math strand review: students revisit missing addends, measuring with a ruler, skip counting by 4s, thirds, money combinations, perimeter, and new shapes.",
+   resourceLabel:"YouTube: Math Review: Missing Addends, Fractions, and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Missing%20Addends%2C%20Fractions%2C%20and%20Shapes%20kindergarten%20educational",
+   quiz:[
+     {q:"3 + ? = 5", options:["3","2","4","1"], answer:1},
+     {q:"What tool is used to measure length in centimetres?", options:["A ruler","A cup","A clock","A scale"], answer:0},
+     {q:"If a shape is cut into three equal parts, each part is called ___.", options:["A third","A half","A quarter","A whole"], answer:0},
+     {q:"What is the perimeter of a shape?", options:["The space inside it","Its colour","Its weight","The distance all the way around its outside edge"], answer:3},
+     {q:"A rhombus has how many equal sides?", options:["2","3","4","5"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What number is missing in 3 + ? = 5?", answers:["2"]},
+     {prompt:"If a shape is cut into three equal parts, what is each part called?", answers:["a third"]},
+     {prompt:"How many sides does a trapezoid have?", answers:["4"]}
+   ]},
+  {subject:"Science", title:"Science Review: Animals, Space, and Our Bodies", summary:"Kindergarten Science strand review: students revisit animal diets, fish, butterflies and moths, ocean tides, our sense of balance, constellations, losing teeth, tap water, and mimicry.",
+   resourceLabel:"YouTube: Science Review: Animals, Space, and Our Bodies", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Space%2C%20and%20Our%20Bodies%20kindergarten%20educational",
+   quiz:[
+     {q:"An animal that eats only plants is called a ___.", options:["Omnivore","Carnivore","Predator","Herbivore"], answer:3},
+     {q:"What do fish use to breathe underwater?", options:["A nose","Gills","Lungs","Skin only"], answer:1},
+     {q:"What is a constellation?", options:["A group of stars forming a pattern","A single bright star","A kind of cloud","A type of planet"], answer:0},
+     {q:"What kind of teeth replace baby teeth?", options:["Baby teeth again","Plastic teeth","No new teeth at all","Adult teeth"], answer:3},
+     {q:"What is animal mimicry?", options:["An animal that only eats plants","An animal looking or acting like a different animal","A type of weather","An animal that never moves"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"An animal that eats only plants is called what?", answers:["a herbivore"]},
+     {prompt:"What is a constellation?", answers:["a group of stars that forms a pattern"]},
+     {prompt:"What replaces baby teeth?", answers:["adult teeth"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Leaders, Helpers, and Our Community", summary:"Kindergarten Social Studies strand review: students revisit O Canada, the premier, our school custodian, National Indigenous Peoples Day, the newspaper, communication, conservation officers, voting, and snow plow drivers.",
+   resourceLabel:"YouTube: Social Studies Review: Leaders, Helpers, and Our Community", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Leaders%2C%20Helpers%2C%20and%20Our%20Community%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the name of Canadas national anthem?", options:["True North","O Canada","This Land Is Your Land","God Save the King"], answer:1},
+     {q:"What do we call the leader of a province?", options:["The prime minister","The principal","The premier","The mayor"], answer:2},
+     {q:"What is the main job of the school custodian?", options:["Cooking lunch","Teaching math","Keeping the school clean and in good repair","Driving the bus"], answer:2},
+     {q:"What is the main job of a conservation officer?", options:["Teaching math","Protecting parks, forests, and wildlife","Building houses","Delivering mail"], answer:1},
+     {q:"What is voting?", options:["A way to clean a classroom","A way people choose their leaders","A type of game with no purpose","A kind of food"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is the name of Canadas national anthem?", answers:["O Canada"]},
+     {prompt:"What do we call the leader of a province?", answers:["the premier"]},
+     {prompt:"What is voting?", answers:["choosing a leader by picking a choice"]}
+   ]},
+]},
 ];
 
 export default curriculum;
