@@ -1600,6 +1600,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Quotation Marks and Dialogue", summary:"Ontario Grade 4 Writing strand: quotation marks show the exact words a person says in dialogue, with punctuation like commas and periods placed carefully to show who is speaking.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=w-lG1Ra5ZzI",
    quiz:[
      {q:"Quotation marks are used to show ___.", options:["The exact words someone says","The title of a chapter","A character's thoughts only","A math equation"], answer:0},
      {q:"Which sentence correctly uses quotation marks?", options:["“Maria said I am ready to go","Maria said I am ready to go.","Maria said, “I am ready to go.”","Maria said, I am ready to go."], answer:2},
@@ -1609,6 +1610,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multi-Step Word Problems", summary:"Ontario Grade 4 Number strand: multi-step word problems require identifying and completing more than one operation in the correct order to reach a final answer.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=egQMg5JcgR8",
    quiz:[
      {q:"A store had 240 toys, sold 85, then received a shipment of 60 more. How many toys now?", options:["155","215","325","385"], answer:1},
      {q:"Liam saved $45, spent $18, then earned $12 more. How much does Liam have now?", options:["$27","$63","$39","$75"], answer:2},

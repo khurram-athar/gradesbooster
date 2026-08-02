@@ -1795,6 +1795,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Symmetry in Shapes", summary:"Students learn that a shape has symmetry if it can be folded along a line so that both halves match exactly, and that this line is called a line of symmetry.",
    resourceLabel:"YouTube: Symmetry in Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Symmetry%20in%20Shapes%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=k_bDxiIPrGI",
    quiz:[
      {q:"A shape has symmetry if it can be folded so that ___.", options:["Both halves match exactly","One half disappears","Both halves are different sizes","It cannot be folded at all"], answer:0},
      {q:"What do we call the line where a symmetrical shape can be folded so both halves match?", options:["A border line","A line of symmetry","A number line","A curved line"], answer:1},
@@ -1809,6 +1810,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Healthy Eating and the Food Groups", summary:"Students learn that eating a balance of different food groups, such as fruits, vegetables, grains, and proteins, helps their bodies grow strong and stay healthy.",
    resourceLabel:"YouTube: Healthy Eating and the Food Groups", resourceUrl:"https://www.youtube.com/results?search_query=Healthy%20Eating%20and%20the%20Food%20Groups%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=L9ymkJK2QCU",
    quiz:[
      {q:"Why is it important to eat a balance of different food groups?", options:["It only matters for adults","It makes food taste worse","It has no effect on health","It helps the body grow strong and stay healthy"], answer:3},
      {q:"Which of these is an example of a fruit or vegetable?", options:["An apple","A cookie","A candy bar","A soda"], answer:0},
@@ -1821,19 +1823,20 @@ const curriculum: DayContent[] = [
      {prompt:"Does eating a balance of different food groups help your body stay healthy?", answers:["yes"]},
      {prompt:"Name one fruit or vegetable you could eat for a healthy snack.", answers:["an apple","apple","carrot","banana"]}
    ]},
-  {subject:"SocialStudies", title:"Landmarks and Famous Places in Canada", summary:"Students learn about well-known Canadian landmarks, such as the CN Tower, Niagara Falls, and the Parliament Buildings, and why these places are important to the country.",
-   resourceLabel:"YouTube: Landmarks and Famous Places in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Landmarks%20and%20Famous%20Places%20in%20Canada%20grade%202%20educational",
+  {subject:"SocialStudies", title:"Niagara Falls: One of Canada's Most Famous Landmarks", summary:"Students take a closer look at Niagara Falls, one of Canada's most famous natural landmarks, learning how the falls formed, why they attract visitors from around the world, and why Canadians are proud to share this landmark with their neighbours.",
+   resourceLabel:"YouTube: Niagara Falls - One of Canada's Most Famous Landmarks", resourceUrl:"https://www.youtube.com/results?search_query=Niagara%20Falls%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1Lnw6tsDg3w",
    quiz:[
-     {q:"Which of these is a famous Canadian landmark?", options:["The Pyramids","The Great Wall","The CN Tower","The Eiffel Tower"], answer:2},
-     {q:"In which city would you find the CN Tower?", options:["Montreal","Ottawa","Vancouver","Toronto"], answer:3},
-     {q:"Which famous Canadian landmark is a large and powerful waterfall?", options:["Parliament Hill","The CN Tower","Niagara Falls","The Rocky Mountains"], answer:2},
-     {q:"Where do Canadas government leaders meet, at a famous landmark in Ottawa?", options:["The Parliament Buildings","A shopping mall","Niagara Falls","The CN Tower"], answer:0},
-     {q:"Why are landmarks important to a country?", options:["They are never visited","They are only found in other countries","They have no importance at all","They represent history, culture, or natural beauty"], answer:3}
+     {q:"What kind of famous landmark is Niagara Falls?", options:["A waterfall","A tall tower","A mountain range","A castle"], answer:0},
+     {q:"Niagara Falls sits on the border between Canada and which other country?", options:["Mexico","France","The United States","England"], answer:2},
+     {q:"Why do so many visitors travel to see Niagara Falls?", options:["Because it is a shopping mall","Because it is the tallest building in Canada","Because it is a powerful, beautiful natural landmark","Because it is the smallest waterfall in the world"], answer:2},
+     {q:"Which of these best describes why Niagara Falls is important to Canadians?", options:["It has no importance at all","It is a shared natural wonder that many Canadians are proud of","It is only important to one small town","It is a landmark found only outside Canada"], answer:1},
+     {q:"Besides being beautiful to look at, what else can a landmark like Niagara Falls teach us about?", options:["Nothing, it is only for pictures","How nature and geography shape a place","Only the history of shopping malls","Only the history of other countries"], answer:1}
    ],
    worksheet:[
-     {prompt:"Name one famous Canadian landmark, like the CN Tower or Niagara Falls.", answers:["the CN Tower","CN Tower","Niagara Falls"]},
-     {prompt:"In which city is the CN Tower located?", answers:["Toronto"]},
-     {prompt:"Name one reason people visit famous landmarks, like to learn about history.", answers:["to learn about history","to see something special","to visit"]}
+     {prompt:"What is Niagara Falls an example of, like a waterfall or a mountain?", answers:["a waterfall","waterfall"]},
+     {prompt:"Name the country that shares Niagara Falls with Canada.", answers:["the United States","United States","the US","USA"]},
+     {prompt:"Name one reason people like to visit Niagara Falls.", answers:["it is beautiful","to see the waterfall","it is famous","to learn about nature"]}
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[

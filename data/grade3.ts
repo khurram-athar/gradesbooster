@@ -1600,6 +1600,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Pronouns", summary:"Ontario Grade 3 Writing strand: pronouns are words that take the place of nouns (he, she, it, they, we) to avoid repeating the same noun over and over.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=updDFU5SoDI",
    quiz:[
      {q:"A pronoun is a word that ___.", options:["Is always a number","Connects two sentences only","Takes the place of a noun","Describes an action"], answer:2},
      {q:"Which word is a pronoun?", options:["Table","Run","Blue","She"], answer:3},
@@ -1609,6 +1610,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions of a Set", summary:"Ontario Grade 3 Number strand: a fraction can describe part of a group (a set), such as 2 out of 5 apples being red, written as 2/5.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=jee9-CvLMzQ",
    quiz:[
      {q:"If 3 out of 6 marbles are blue, what fraction of the marbles are blue?", options:["1/6","3/6","6/3","3/3"], answer:1},
      {q:"If 2 out of 4 pencils are sharpened, what fraction is that?", options:["1/4","4/2","4/4","2/4"], answer:3},
@@ -1618,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Habitats: Adaptations of Plants and Animals", summary:"Ontario Grade 3 Science Life Systems strand: adaptations are special features or behaviours that help plants and animals survive in their specific habitat, such as thick fur in cold climates or sharp claws for digging.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=I8q1m0jbvCo",
    quiz:[
      {q:"An adaptation is a feature that helps a living thing ___.", options:["Survive in its habitat","Move to a new planet","Stop reproducing","Avoid growing"], answer:0},
      {q:"Thick fur is an adaptation that helps animals survive in ___ climates.", options:["Any climate equally","No particular climate","Cold","Hot"], answer:2},
@@ -1627,6 +1630,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Territories and the North", summary:"Ontario Grade 3 Social Studies People and Environments strand: Canada's three territories -- Yukon, Northwest Territories, and Nunavut -- make up the northern part of the country, with cold climates and significant Indigenous populations.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=nDJ_q3AS3BQ",
    quiz:[
      {q:"How many territories does Canada have?", options:["One","Three","Two","Five"], answer:1},
      {q:"Which of these is one of Canada's territories?", options:["Alberta","Nunavut","Ontario","Quebec"], answer:1},
