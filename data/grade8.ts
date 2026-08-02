@@ -1598,17 +1598,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:39, label:"Day 39 — Thu", subjects:[
-  {subject:"Language", title:"Writing: The Extended Argumentative Research Paper", summary:"Grade 8 Writing strand: an extended argumentative research paper presents a well-developed position on a complex issue, supported by thoroughly researched evidence from multiple credible sources.",
+  {subject:"Language", title:"Writing: The Argumentative Essay", summary:"Grade 8 Writing strand: an argumentative essay presents a well-developed position on an issue, supported by researched evidence and reasoning, and structured with a clear introduction, body paragraphs, and conclusion.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=IMSxcx1muUM",
    quiz:[
-     {q:"An extended argumentative research paper is built around ___.", options:["A single unsupported opinion","A well-developed position supported by thoroughly researched evidence","Random, unrelated information","A summary with no argument at all"], answer:1},
-     {q:"Why is it important to use multiple credible sources in this type of paper?", options:["It strengthens the argument with well-supported, reliable evidence","Credibility of sources has no bearing on the paper’s quality","Multiple sources are never necessary","Using more than one source always weakens an argument"], answer:0},
-     {q:"Which is a feature commonly included in an extended argumentative research paper?", options:["Only casual, informal language throughout","No structure or organization at all","A complete absence of evidence","Properly cited sources supporting the argument"], answer:3},
-     {q:"Why might this type of paper address counterarguments?", options:["Addressing other viewpoints can strengthen the credibility of the overall argument","Addressing other viewpoints always weakens an argument","Counterarguments should never be included in a research paper","This type of paper should ignore all opposing views"], answer:0},
-     {q:"A strong conclusion in an extended argumentative research paper should ___.", options:["Reinforce the main argument and its significance","Introduce a completely unrelated new topic","Be identical to the paper’s introduction","Contain no connection to the rest of the paper"], answer:0}
+     {q:"An argumentative essay is built around ___.", options:["A single unsupported opinion","A well-developed position supported by researched evidence and reasoning","Random, unrelated information","A summary with no argument at all"], answer:1},
+     {q:"Why is it important to use credible evidence in an argumentative essay?", options:["It strengthens the argument with well-supported, reliable reasoning","Credibility of evidence has no bearing on the essay’s quality","Evidence is never necessary","Using evidence always weakens an argument"], answer:0},
+     {q:"Which is a feature commonly included in a strong argumentative essay?", options:["Only casual, informal language throughout","No structure or organization at all","A complete absence of evidence","A clear introduction, body paragraphs, and conclusion"], answer:3},
+     {q:"Why might a strong argumentative essay address counterarguments?", options:["Addressing other viewpoints can strengthen the credibility of the overall argument","Addressing other viewpoints always weakens an argument","Counterarguments should never be included in an essay","This type of essay should ignore all opposing views"], answer:0},
+     {q:"A strong conclusion in an argumentative essay should ___.", options:["Reinforce the main argument and its significance","Introduce a completely unrelated new topic","Be identical to the essay’s introduction","Contain no connection to the rest of the essay"], answer:0}
    ]},
   {subject:"Math", title:"Proportional Reasoning: Similar Figures and Indirect Measurement", summary:"Grade 8 Geometry strand: similar figures have proportional side lengths, which can be used for indirect measurement, such as calculating the height of a tall object using shadows and proportions.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=TnzYhORxcE0",
    quiz:[
      {q:"Similar figures have side lengths that are ___.", options:["Completely unrelated to each other","Proportional to each other","Impossible to compare","Always identical in length"], answer:1},
      {q:"Indirect measurement uses proportional relationships to ___.", options:["Only measure objects that are easy to reach directly","Replace the need for any measurement at all","Avoid using proportions entirely","Estimate a measurement that is difficult to measure directly"], answer:3},
@@ -1616,17 +1618,19 @@ const curriculum: DayContent[] = [
      {q:"Why might indirect measurement be useful for measuring something like the height of a building?", options:["Indirect measurement can never be used for tall objects","It allows for an estimate without needing to physically measure the entire height directly","This method has no real-world application","Proportional reasoning has no connection to measurement"], answer:1},
      {q:"For indirect measurement using shadows to work accurately, the objects being compared should ___.", options:["Be measured under similar lighting conditions at the same time","Never involve any shadows","Be measured under completely different conditions with no consistency","Have no proportional relationship at all"], answer:0}
    ]},
-  {subject:"Science", title:"Biomedical Engineering: Innovations in Health Technology", summary:"Grade 8 Science and Technology strand: biomedical engineering applies engineering principles to healthcare, developing technologies like prosthetics, medical imaging devices, and implantable devices to improve patient outcomes.",
+  {subject:"Science", title:"How MRI Machines Use Physics to See Inside the Body", summary:"Grade 8 Science and Technology strand: an MRI machine is a medical imaging technology, developed through biomedical engineering, that uses powerful magnets and radio waves rather than harmful radiation to create detailed images of the inside of the body.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=5nhVsLyjAh0",
    quiz:[
-     {q:"Biomedical engineering applies engineering principles to ___.", options:["A field unrelated to health or medicine","Agriculture exclusively","Healthcare and medical technology","Only entertainment technology"], answer:2},
-     {q:"Which is an example of a biomedical engineering innovation?", options:["A type of clothing with no medical purpose","A prosthetic limb","A musical instrument","A tool unrelated to healthcare"], answer:1},
-     {q:"Medical imaging devices, developed through biomedical engineering, help doctors ___.", options:["Avoid any use of technology in diagnosis","See inside the body to diagnose health conditions","Have no way of understanding a patient’s condition","Replace the need for any medical training"], answer:1},
-     {q:"Why might biomedical engineers work closely with healthcare professionals?", options:["This collaboration has no benefit to patient care","Biomedical engineers never need input from healthcare professionals","To design technologies that effectively meet real patient and medical needs","Medical technology is designed with no consideration of patient needs"], answer:2},
+     {q:"MRI stands for a type of medical imaging technology that mainly uses ___.", options:["Sound waves only","X-rays","Magnets and radio waves","Visible light only"], answer:2},
+     {q:"Which is an example of a biomedical engineering innovation?", options:["A type of clothing with no medical purpose","An MRI machine","A musical instrument","A tool unrelated to healthcare"], answer:1},
+     {q:"Medical imaging devices like MRI machines, developed through biomedical engineering, help doctors ___.", options:["Avoid any use of technology in diagnosis","See inside the body to diagnose health conditions","Have no way of understanding a patient’s condition","Replace the need for any medical training"], answer:1},
+     {q:"Why is it useful that an MRI machine does not use the same kind of radiation as an X-ray?", options:["It has no advantage at all over other methods","It allows for detailed imaging with a different, often safer, method for many patients","MRI machines cannot actually produce any images","This makes MRI machines slower with no benefit"], answer:1},
      {q:"Why is biomedical engineering considered an important and growing field?", options:["It has no connection to improving medical technology","This field has no impact on healthcare","Biomedical engineering has no real-world applications","It has the potential to significantly improve patient care and health outcomes"], answer:3}
    ]},
   {subject:"History", title:"The Indian Act and Its Historical Impact", summary:"Grade 8 History strand: the Indian Act, first passed in 1876, is federal legislation that has significantly controlled many aspects of the lives of First Nations peoples in Canada, with lasting and often harmful effects.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=iUPUHiDHxRQ",
    quiz:[
      {q:"The Indian Act was first passed in which year?", options:["1876","1931","1867","1982"], answer:0},
      {q:"The Indian Act is federal legislation that has significantly controlled aspects of the lives of ___.", options:["Only recent immigrants to Canada","A group unrelated to Canadian history","First Nations peoples in Canada","No specific group of people"], answer:2},
