@@ -1600,6 +1600,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"Language", title:"Writing: The Extended Metaphor in Creative Writing", summary:"Grade 9 Writing strand: an extended metaphor develops a single comparison throughout a piece of writing, deepening meaning and creating a cohesive thread of imagery.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=XsQgMnq8HJU",
    quiz:[
      {q:"An extended metaphor is a comparison that ___.", options:["Is never used in creative writing","Is developed and sustained throughout a piece of writing","Has no connection to the rest of the writing","Appears only once in a single sentence"], answer:1},
      {q:"Why might a writer use an extended metaphor instead of a single, brief comparison?", options:["Extended metaphors always weaken a piece of writing","A brief comparison always creates more meaning than an extended one","Extended metaphors have no effect on a reader’s understanding","It can create a more cohesive and deeply developed sense of meaning throughout the piece"], answer:3},
@@ -1609,6 +1610,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Trigonometry: Solving for Angles and Sides", summary:"Grade 9 Geometry strand: applying sine, cosine, and tangent ratios allows you to solve for unknown angles or side lengths in right triangles when given sufficient information.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=KK3_4S-ZJeo",
    quiz:[
      {q:"To find a missing side length in a right triangle when you know an angle and the hypotenuse, you might use ___.", options:["Only addition, with no trigonometry involved","The area formula for a triangle","A method unrelated to trigonometric ratios","Sine or cosine"], answer:3},
      {q:"To find a missing angle when you know two side lengths of a right triangle, you would typically use ___.", options:["The formula for a circle’s circumference","A method with no connection to trigonometric ratios","Only the Pythagorean theorem, with no trigonometry involved","An inverse trigonometric function"], answer:3},
@@ -1618,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Science: Biomagnification and Bioaccumulation", summary:"Grade 9 Science Biology strand: bioaccumulation is the buildup of a substance within an individual organism over time, while biomagnification describes how that substance becomes more concentrated at higher levels of a food chain.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=0lItuTjrmHg",
    quiz:[
      {q:"Bioaccumulation refers to ___.", options:["The buildup of a substance within an individual organism over time","A process unrelated to living organisms","A substance disappearing completely from an organism","The rapid removal of a substance from an ecosystem"], answer:0},
      {q:"Biomagnification describes how a substance becomes ___.", options:["Completely eliminated at higher levels of a food chain","More concentrated at higher levels of a food chain","Less concentrated at higher levels of a food chain","Unrelated to food chains"], answer:1},
@@ -1627,6 +1630,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Geography of Global Supply Chains", summary:"Grade 9 Social Studies (Geography) strand: global supply chains involve the geographic network of production, transportation, and distribution that brings goods from raw materials to consumers around the world.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ceC6J9TxZKE",
    quiz:[
      {q:"A global supply chain involves the geographic network of ___.", options:["A single unrelated activity with no connection to goods","Production, transportation, and distribution of goods","A concept unrelated to geography or economics","Only local production with no international connections"], answer:1},
      {q:"Why might a product’s components be manufactured in multiple different countries?", options:["Manufacturing location has no connection to geography or economics","Companies may choose locations based on resources, labour, and cost factors","Products are always manufactured entirely within a single country with no exceptions","Global supply chains never involve multiple countries"], answer:1},
