@@ -1642,6 +1642,7 @@ const curriculum: DayContent[] = [
 {day:40, label:"Day 40 — Fri", subjects:[
   {subject:"Language", title:"Reading: Evaluating Rhetorical Appeals", summary:"Ontario Grade 7 Reading strand: rhetorical appeals include ethos (credibility), pathos (emotion), and logos (logic), and identifying which appeals a text relies on helps readers evaluate how persuasion is being used.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=v4HhzvSgUpU",
    quiz:[
      {q:"Ethos as a rhetorical appeal relies on ___.", options:["The credibility or trustworthiness of the speaker","Emotional language only","Random unrelated facts","Logical reasoning only"], answer:0},
      {q:"Pathos as a rhetorical appeal relies on ___.", options:["The speaker’s credentials only","Only statistics with no emotional language","Formal logic exclusively","Emotional connection with the audience"], answer:3},
@@ -1651,6 +1652,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Theory: GCF and LCM", summary:"Ontario Grade 7 Number strand: the greatest common factor (GCF) is the largest number that divides evenly into two or more numbers, while the least common multiple (LCM) is the smallest number that is a multiple of two or more numbers.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=oJo2M6KovGM",
    quiz:[
      {q:"What is the GCF of 12 and 18?", options:["36","9","6","3"], answer:2},
      {q:"What is the LCM of 4 and 6?", options:["24","2","10","12"], answer:3},
@@ -1660,6 +1662,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Scientific Literacy: Evaluating Scientific Claims", summary:"Ontario Grade 7 Science Inquiry strand: evaluating a scientific claim involves checking whether it is supported by reliable evidence, tested through valid methods, and reviewed by other experts.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=Fm0MpfKIs5w",
    quiz:[
      {q:"A reliable scientific claim is typically supported by ___.", options:["Claims that cannot be tested in any way","Random guessing","Personal opinion with no evidence","Evidence gathered through valid, testable methods"], answer:3},
      {q:"Why is peer review important in evaluating scientific claims?", options:["Peer review has no role in science","It allows other experts to check the accuracy and validity of the findings","Scientific claims should never be reviewed by anyone","Peer review always makes findings less accurate"], answer:1},
@@ -1669,6 +1672,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparative Government Systems", summary:"Ontario Grade 7 Social Studies People and Environments strand: comparing different government systems around the world, such as parliamentary democracies, republics, and monarchies, highlights different approaches to governance and representation.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=LBFXD06fudM",
    quiz:[
      {q:"A parliamentary democracy is a system where ___.", options:["A single ruler has unlimited, unchecked power","Government decisions are made randomly","No elections take place at all","Citizens elect representatives who form a governing body"], answer:3},
      {q:"A republic is generally a system where ___.", options:["The head of state is typically elected rather than hereditary","Only a king or queen can ever lead","There is no government structure at all","Citizens have no role in choosing leaders"], answer:0},

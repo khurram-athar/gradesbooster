@@ -1642,6 +1642,7 @@ const curriculum: DayContent[] = [
 {day:40, label:"Day 40 — Fri", subjects:[
   {subject:"Language", title:"Reading: Evaluating an Author’s Credibility and Perspective", summary:"Ontario Grade 6 Reading strand: evaluating an author’s credibility involves considering their expertise, potential motives, and perspective, which can shape how information in a text is presented.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=q1k8rcYUmbQ",
    quiz:[
      {q:"Evaluating an author’s credibility involves considering ___.", options:["Their expertise and potential motives","Nothing related to the author at all","The colour of the book cover","Only the length of their writing"], answer:0},
      {q:"An author’s perspective can shape ___.", options:["Nothing about how a text is written","Only the font used in the text","The exact number of pages in a book","How information in a text is presented"], answer:3},
