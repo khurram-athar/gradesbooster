@@ -31614,5 +31614,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 131,
+    "label": "Day 131 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Epic Tradition: Oral Composition and the Heroic Journey",
+        "summary": "Grade 12 English strand: the epic is a long narrative poem, originally composed and transmitted orally, that recounts the heroic deeds of a legendary or historical figure, typically opening in medias res and invoking a muse to authorize the tale.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What is an epic, in its traditional literary sense?",
+            "options": [
+              "A modern screenplay with no poetic structure",
+              "A brief prose essay on a historical event",
+              "A short lyric poem about a single private feeling",
+              "A long narrative poem recounting the heroic deeds of a legendary or historical figure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the phrase in medias res describe?",
+            "options": [
+              "Beginning a narrative with a full biography of the hero",
+              "A rule that forbids flashbacks entirely",
+              "Ending a narrative without any resolution",
+              "Beginning a narrative in the middle of the action rather than at the start"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an epic poet invoke a muse at the opening of the poem?",
+            "options": [
+              "To signal that the poem has ended",
+              "To warn readers the story is entirely fictional",
+              "To introduce a minor comic character",
+              "To call on divine inspiration and lend authority to the story that follows"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How were epics such as the Iliad and the Odyssey originally composed and transmitted?",
+            "options": [
+              "Exclusively through modern printed editions",
+              "Orally, through recitation and memory before being written down",
+              "Entirely in silence with no performance tradition",
+              "Only as private letters between individuals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of protagonist typically anchors an epic narrative?",
+            "options": [
+              "An entirely ordinary character with no notable qualities",
+              "A narrator who never appears in the story",
+              "A hero of legendary or historical stature undertaking a significant, often perilous journey",
+              "A character defined only by comic flaws"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Eulers Totient Function and Counting Coprimes",
+        "summary": "Grade 12 Advanced Functions strand: Eulers totient function, written phi of n, counts the positive integers up to n that are coprime to n, providing a key tool in number theory and in cryptographic systems such as RSA encryption.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does Eulers totient function, phi of n, count?",
+            "options": [
+              "The positive integers up to n that are coprime to n",
+              "The number of even integers less than n",
+              "The total number of divisors of n",
+              "The sum of all prime factors of n"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for two integers to be coprime?",
+            "options": [
+              "Their sum is always an even number",
+              "They are exactly equal to one another",
+              "They are both prime numbers",
+              "Their greatest common divisor is one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For a prime number p, what is the value of phi of p?",
+            "options": [
+              "p multiplied by two",
+              "p itself",
+              "p minus one",
+              "Zero, always"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which cryptographic system studied in this course does Eulers totient function play a central role?",
+            "options": [
+              "A system that avoids all use of prime numbers",
+              "Simple substitution ciphers only",
+              "A system with no connection to number theory",
+              "RSA encryption and public-key cryptography"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the totient function considered a useful tool in number theory?",
+            "options": [
+              "It has no practical or theoretical use whatsoever",
+              "It provides a systematic way to measure how many integers share no common factor with a given number",
+              "It replaces the need for prime numbers entirely",
+              "It only applies to the number zero"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Arc Length of a Parametric Curve",
+        "summary": "Grade 12 Calculus strand: the arc length of a curve defined parametrically by x of t and y of t is found by integrating the square root of the sum of the squares of the derivatives of x and y with respect to t, extending arc length calculations to curves that are not simple functions of x.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "How is a parametric curve typically defined?",
+            "options": [
+              "Only by a table of coordinates with no formula",
+              "By a single equation with no parameter involved",
+              "By separate functions x of t and y of t, both depending on a parameter t",
+              "By a function that must always be linear"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What quantities are combined under the square root in the parametric arc length formula?",
+            "options": [
+              "The squares of the derivatives of x and y with respect to t",
+              "The sum of x and y with no squaring",
+              "The product of t with itself only",
+              "The squares of x and y themselves, with no derivatives"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the parametric arc length formula useful for curves that fail the vertical line test?",
+            "options": [
+              "Arc length cannot be computed for such curves under any method",
+              "Parametric curves can never fail the vertical line test",
+              "The vertical line test has no relevance to arc length",
+              "Parametric equations can describe such curves even though they are not simple functions of x"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the parametric arc length formula relate to the earlier Cartesian arc length formula studied in this course?",
+            "options": [
+              "Cartesian arc length can never be extended to a parametric description",
+              "Parametric arc length requires no integration whatsoever",
+              "The two formulas share no mathematical relationship",
+              "Both integrate an expression built from the curves rate of change, adapted to the relevant description of the curve"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what kind of physical situation might parametric arc length naturally arise?",
+            "options": [
+              "A situation with no motion or curve involved",
+              "A situation where time plays no role whatsoever",
+              "A purely static, unchanging measurement",
+              "Describing the total distance travelled by an object whose position is given as a function of time"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Stimulated Emission and the Physics of the Laser",
+        "summary": "Grade 12 Physics strand: a laser produces intense, coherent light through stimulated emission, in which a photon triggers an excited atom to emit a second photon of identical frequency, phase, and direction, amplified within a population inversion sustained by an external energy source.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What process underlies the operation of a laser?",
+            "options": [
+              "Spontaneous emission with no external trigger of any kind",
+              "Radioactive decay of atomic nuclei",
+              "Stimulated emission, in which a photon triggers an excited atom to emit an identical second photon",
+              "The complete absorption of all light with no emission"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In stimulated emission, how does the emitted photon compare to the photon that triggered it?",
+            "options": [
+              "It always has a completely different frequency",
+              "It has no relationship to the triggering photon whatsoever",
+              "It travels in a random, unrelated direction",
+              "It matches it in frequency, phase, and direction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition, in which more atoms occupy an excited state than a lower energy state, is required for laser operation?",
+            "options": [
+              "Thermal equilibrium",
+              "Population inversion",
+              "Perfect vacuum with no atoms present",
+              "Complete atomic ionization"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is required to sustain a population inversion in a laser?",
+            "options": [
+              "A source that only cools the system to absolute zero",
+              "Removing all energy from the system entirely",
+              "An external energy source that continually excites atoms to a higher energy state",
+              "No energy input of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What key property of laser light distinguishes it from ordinary light sources such as an incandescent bulb?",
+            "options": [
+              "Laser light always has a lower energy than ordinary light",
+              "Its coherence, with photons in phase and travelling in a well-defined direction",
+              "Laser light is never visible to the human eye",
+              "Laser light has no defined frequency at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 132,
+    "label": "Day 132 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Free Verse and Modernist Poetics: Whitman, Pound, and the Break from Metre",
+        "summary": "Grade 12 English strand: free verse abandons regular metre and rhyme in favour of rhythms closer to natural speech, a shift pioneered by poets such as Walt Whitman and later championed by Modernist writers such as Ezra Pound as a deliberate break from fixed poetic form.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does free verse deliberately abandon?",
+            "options": [
+              "Any division into lines at all",
+              "Regular metre and a fixed rhyme scheme",
+              "The use of the English language itself",
+              "All use of imagery and figurative language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Whose nineteenth-century poetry is often cited as an early, influential example of free verse?",
+            "options": [
+              "Geoffrey Chaucer",
+              "William Shakespeare",
+              "Walt Whitman",
+              "Alexander Pope"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What rhythmic quality does free verse often aim to capture?",
+            "options": [
+              "A rhythm borrowed only from Latin poetry",
+              "Complete silence with no rhythm",
+              "Rhythms closer to natural speech patterns",
+              "A strict, unvarying drumbeat pattern"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did Modernist poets such as Ezra Pound regard free verse?",
+            "options": [
+              "As a deliberate, purposeful break from fixed traditional poetic form",
+              "As a mistake to be avoided at all costs",
+              "As a form with no relationship to Modernism",
+              "As identical in every way to the sonnet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet choose free verse over a fixed form such as the sonnet?",
+            "options": [
+              "A fixed form always communicates more freedom than free verse",
+              "Free verse is required by law for modern poetry",
+              "Free verse always requires more rhymes than a sonnet",
+              "To gain flexibility in line length and rhythm that better matches the poems content and voice"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Derangements and the Hat-Check Problem",
+        "summary": "Grade 12 Advanced Functions strand: a derangement is a permutation of a set in which no element appears in its original position, classically illustrated by the hat-check problem, which asks for the probability that no person receives their own hat back from a checkroom.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What defines a derangement of a set?",
+            "options": [
+              "A permutation with exactly one fixed element",
+              "A set with no elements at all",
+              "A permutation in which no element appears in its original position",
+              "A permutation in which every element appears in its original position"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What classic scenario illustrates the concept of a derangement?",
+            "options": [
+              "A problem with no random assignment involved",
+              "A scenario where every person always receives their own item",
+              "The hat-check problem, in which no person receives their own hat back",
+              "A problem involving only sorted, ordered lists"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "As the number of items grows large, what does the probability of a random permutation being a derangement approach?",
+            "options": [
+              "A value that approaches exactly zero",
+              "A value that grows without bound",
+              "A value that approaches exactly one",
+              "A value close to one divided by e, roughly 0.368"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader mathematical field does the study of derangements belong to?",
+            "options": [
+              "Trigonometry",
+              "Financial mathematics",
+              "Combinatorics",
+              "Basic arithmetic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the hat-check problem be a useful teaching example in combinatorics?",
+            "options": [
+              "It gives a concrete, intuitive scenario for exploring permutations with no fixed points",
+              "It cannot be generalized beyond hats and people",
+              "It only applies to problems involving exactly two items",
+              "It has no connection to permutations at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Line Integrals of Scalar Fields — Mass and Average Value Along a Curve",
+        "summary": "Grade 12 Calculus strand: the line integral of a scalar field integrates a function of position along a curve with respect to arc length, allowing calculations such as the total mass of a wire with variable density or the average value of a function along a path.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the line integral of a scalar field integrate?",
+            "options": [
+              "A function of position along a curve with respect to arc length",
+              "The area enclosed by a curve",
+              "A vector field along a closed surface only",
+              "A constant with no relationship to a curve"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What physical quantity can a scalar line integral compute for a wire with variable density?",
+            "options": [
+              "Its exact colour",
+              "Its total mass",
+              "Its electric charge only, with no other application",
+              "Its temperature at a single fixed point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a line integral of a scalar field differ from a line integral of a vector field, such as one used to compute work?",
+            "options": [
+              "The two types of line integral are mathematically identical in every way",
+              "A scalar line integral never involves a curve",
+              "A vector line integral cannot be used to compute work under any circumstances",
+              "A scalar line integral integrates a scalar-valued function rather than a vector field along the curve"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does dividing a scalar line integral by the total arc length of the curve produce?",
+            "options": [
+              "The exact maximum value of the function on the curve",
+              "The average value of the function along that curve",
+              "The total mass of the curve regardless of density",
+              "A value unrelated to the function being integrated"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the scalar line integral build on the earlier study of arc length in this course?",
+            "options": [
+              "It replaces arc length with volume",
+              "Arc length and scalar line integrals are entirely unrelated concepts",
+              "It ignores arc length entirely in its calculation",
+              "It weights each small piece of arc length by the value of a function at that point before summing"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Rayleigh Scattering and the Colour of the Sky",
+        "summary": "Grade 12 Physics strand: Rayleigh scattering describes how electromagnetic radiation is scattered by particles much smaller than its wavelength, with shorter, blue wavelengths of sunlight scattered far more strongly than longer, red wavelengths, explaining why the daytime sky appears blue.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does Rayleigh scattering describe?",
+            "options": [
+              "The complete absorption of all wavelengths of light equally",
+              "The refraction of light through a lens",
+              "The scattering of electromagnetic radiation by particles much smaller than its wavelength",
+              "The scattering of sound waves in a solid material"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which wavelengths of sunlight are scattered most strongly according to Rayleigh scattering?",
+            "options": [
+              "Longer, red wavelengths",
+              "Shorter, blue wavelengths",
+              "Only wavelengths outside the visible spectrum",
+              "All wavelengths are scattered by exactly the same amount"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the daytime sky typically appear blue rather than red?",
+            "options": [
+              "The atmosphere absorbs all colours except blue completely",
+              "The sky has no relationship to scattered sunlight",
+              "Blue light is scattered across the sky far more strongly than red light by tiny atmospheric particles",
+              "Red light is always more abundant in sunlight than blue light"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the strength of Rayleigh scattering typically depend on wavelength?",
+            "options": [
+              "It is completely independent of wavelength",
+              "It only occurs for wavelengths longer than red light",
+              "It increases as wavelength increases",
+              "It increases sharply as wavelength decreases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does Rayleigh scattering help explain the reddish colour of a sunset?",
+            "options": [
+              "Red light is scattered more strongly than blue light at sunset",
+              "Sunlight passing through more atmosphere at low angles has much of its blue light scattered away, leaving more red and orange light",
+              "Blue light is scattered away only at midday, never at sunset",
+              "Sunsets have no connection to the scattering of sunlight"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 133,
+    "label": "Day 133 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Fable and the Allegorical Mode",
+        "summary": "Grade 12 English strand: a fable is a brief narrative, often featuring animal characters, constructed to teach a moral lesson, and belongs to the broader allegorical mode in which characters and events consistently represent abstract ideas or values beyond the literal story.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What is a fable typically constructed to do?",
+            "options": [
+              "Describe a scientific process in technical language",
+              "Provide a detailed historical record of real events",
+              "Offer a purely factual news report",
+              "Teach a moral lesson through a brief narrative"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of characters commonly appear in fables?",
+            "options": [
+              "Only real historical figures",
+              "Animals that speak and act with human characteristics",
+              "Only characters with no defined traits",
+              "Exclusively machines and robots"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean for a story to work in the allegorical mode?",
+            "options": [
+              "The story is written entirely in code with no plot",
+              "The story refuses to have any symbolic meaning whatsoever",
+              "Its characters and events consistently represent abstract ideas or values beyond the literal story",
+              "The story can only be understood literally"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a fables moral typically relate to its narrative events?",
+            "options": [
+              "The events are shaped and simplified specifically to illustrate the lesson clearly",
+              "A fable never states or implies a moral",
+              "The moral has no connection to the events of the story",
+              "The events always contradict the stated moral"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a fable use animal characters rather than human ones?",
+            "options": [
+              "Animal characters make a story impossible to interpret",
+              "Fables are required to avoid any human relevance",
+              "Animals cannot be used to represent ideas",
+              "Animal characters can represent human traits and follies with useful distance and simplicity"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: Bayes Theorem and Updating Probabilities",
+        "summary": "Grade 12 Advanced Functions strand: Bayes theorem describes how to update the probability of an event in light of new evidence, relating the probability of a hypothesis given evidence to the probability of the evidence given the hypothesis and the hypothesis prior probability.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does Bayes theorem allow a statistician to do?",
+            "options": [
+              "Calculate the exact mean of any data set",
+              "Update the probability of an event in light of new evidence",
+              "Determine whether a number is prime",
+              "Graph a function without any data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a prior probability, in the context of Bayes theorem?",
+            "options": [
+              "An initial estimate of a hypothesis probability before new evidence is considered",
+              "A value that has no role in Bayes theorem",
+              "The final answer produced after all evidence is considered",
+              "A probability that must always equal one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does Bayes theorem relate the probability of a hypothesis given evidence to other probabilities?",
+            "options": [
+              "It ignores the hypothesis prior probability entirely",
+              "It relates it to the probability of the evidence given the hypothesis and the hypothesis prior probability",
+              "It treats all hypotheses as equally likely by definition",
+              "It relates it only to the size of the data set, with no other factors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what kind of real-world application might Bayes theorem be especially useful?",
+            "options": [
+              "Contexts where probability has no meaning",
+              "Medical diagnosis, where a test result updates the estimated probability of a disease",
+              "Simple arithmetic with no uncertainty involved",
+              "Situations where no new information is ever available"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does Bayes theorem connect to the earlier study of conditional probability in this course?",
+            "options": [
+              "It has no relationship to conditional probability",
+              "It builds directly on conditional probability, providing a formal way to reverse the direction of a conditional relationship",
+              "Conditional probability and Bayes theorem address entirely unrelated questions",
+              "It replaces the need for probability entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: The Laplacian Operator and Harmonic Functions",
+        "summary": "Grade 12 Calculus strand: the Laplacian operator combines the second partial derivatives of a multivariable function, and a function whose Laplacian equals zero everywhere is called harmonic, a property central to describing steady-state temperature distributions and other equilibrium phenomena.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the Laplacian operator combine?",
+            "options": [
+              "A single first derivative with no other terms",
+              "The second partial derivatives of a multivariable function",
+              "Only the first partial derivatives of a function",
+              "The original function values with no derivatives at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a harmonic function?",
+            "options": [
+              "A function that is never differentiable",
+              "A function whose Laplacian equals zero everywhere in its domain",
+              "A function whose Laplacian is always equal to one",
+              "A function defined only at a single point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of physical situation is commonly modelled using harmonic functions?",
+            "options": [
+              "A situation with no physical interpretation whatsoever",
+              "A steady-state temperature distribution or other equilibrium phenomenon",
+              "A situation with constant, rapid change and no equilibrium",
+              "A purely discrete, non-continuous process"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the Laplacian operator relate to the earlier study of the divergence of a vector field in this course?",
+            "options": [
+              "The Laplacian eliminates the need for the concept of a gradient",
+              "The Laplacian and divergence share no mathematical relationship",
+              "Divergence only applies to scalar functions, never vector fields",
+              "The Laplacian of a function can be understood as the divergence of that functions gradient"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which broader area of applied mathematics does the Laplacian operator commonly appear?",
+            "options": [
+              "The study of diffusion, heat flow, and other equilibrium processes",
+              "Elementary counting problems in combinatorics",
+              "Basic single-variable arithmetic with no derivatives",
+              "Simple linear equations with one variable"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Wiens Displacement Law and the Colour of Stars",
+        "summary": "Grade 12 Physics strand: Wiens displacement law states that the wavelength at which a blackbody radiates most intensely is inversely proportional to its temperature, meaning hotter objects, including stars, peak at shorter wavelengths and therefore appear bluer, while cooler objects appear redder.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does Wiens displacement law relate?",
+            "options": [
+              "The colour of an object to its chemical composition only",
+              "The wavelength of peak blackbody radiation to the objects temperature",
+              "The volume of a gas to its pressure alone",
+              "The mass of an object to its electric charge"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Wiens law, how does the peak wavelength of radiation change as an objects temperature increases?",
+            "options": [
+              "It remains completely unchanged regardless of temperature",
+              "It shifts to shorter wavelengths",
+              "It shifts to longer wavelengths",
+              "It becomes undefined at high temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do hotter stars typically appear bluer than cooler stars?",
+            "options": [
+              "Their blackbody radiation peaks at shorter, bluer wavelengths",
+              "Blue stars are always cooler than red stars",
+              "Hotter stars emit no visible light at all",
+              "Colour has no relationship to a stars temperature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does Wiens displacement law build on the earlier study of blackbody radiation and Plancks law in this course?",
+            "options": [
+              "It identifies where the peak of the blackbody spectrum described by Plancks law occurs at a given temperature",
+              "It has no relationship to blackbody radiation or Plancks law",
+              "It contradicts the predictions of Plancks law",
+              "It applies only to objects with no temperature at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Wiens displacement law useful to astronomers studying distant stars?",
+            "options": [
+              "It can only be applied to objects within the solar system",
+              "It has no practical use in astronomy",
+              "It determines a stars mass directly with no other data needed",
+              "It allows a stars surface temperature to be estimated from the colour, or peak wavelength, of its light"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 134,
+    "label": "Day 134 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Anti-Novel: Nouveau Roman and the Rejection of Convention",
+        "summary": "Grade 12 English strand: the anti-novel, most closely associated with the French Nouveau Roman movement, rejects traditional elements of fiction such as a clear plot, consistent characters, and an authoritative narrator, instead foregrounding perception, fragmentation, and the instability of meaning.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does the anti-novel typically reject?",
+            "options": [
+              "All use of written language",
+              "Every form of punctuation",
+              "The existence of any reader whatsoever",
+              "Traditional elements such as a clear plot, consistent characters, and an authoritative narrator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which French literary movement is most closely associated with the anti-novel?",
+            "options": [
+              "The Romantic movement",
+              "Naturalism",
+              "Symbolist theatre alone",
+              "The Nouveau Roman"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the anti-novel often foreground instead of conventional plot?",
+            "options": [
+              "A strictly chronological, linear timeline",
+              "Perception, fragmentation, and the instability of meaning",
+              "An entirely predictable, formulaic structure",
+              "A single unambiguous moral lesson"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a Nouveau Roman writer avoid giving characters a stable, consistent identity?",
+            "options": [
+              "Because writing consistent characters is not technically possible",
+              "To challenge readers expectations about coherent selfhood and traditional characterization",
+              "Because readers always prefer inconsistent characters",
+              "Because publishers forbid consistent characters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How might reading an anti-novel differ from reading a conventional realist novel?",
+            "options": [
+              "A reader must tolerate ambiguity and piece together meaning without a reliable guiding narrator",
+              "An anti-novel always provides more narrative certainty than a realist novel",
+              "The two reading experiences are identical in every way",
+              "Reading an anti-novel requires no interpretation at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Eulers Formula for Planar Graphs and Polyhedra",
+        "summary": "Grade 12 Advanced Functions strand: Eulers formula states that for any connected planar graph, or for the network of vertices, edges, and faces of a convex polyhedron, the number of vertices minus the number of edges plus the number of faces always equals two.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does Eulers formula for planar graphs and polyhedra state?",
+            "options": [
+              "Edges alone always equal the number of faces",
+              "Vertices plus edges plus faces always equals zero",
+              "Vertices minus edges plus faces always equals two",
+              "Vertices minus edges minus faces always equals one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a planar graph?",
+            "options": [
+              "A graph that can only represent numbers, not relationships",
+              "A graph that must always be three-dimensional",
+              "A graph that can be drawn on a flat plane with no edges crossing",
+              "A graph with no vertices at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To which three-dimensional geometric objects does Eulers formula also apply?",
+            "options": [
+              "Convex polyhedra, such as a cube or a tetrahedron",
+              "Objects with no defined vertices or edges",
+              "Only perfectly flat, two-dimensional shapes",
+              "Curved surfaces with no edges or vertices whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "For a simple cube, how many vertices, edges, and faces does it have, consistent with Eulers formula?",
+            "options": [
+              "Eight vertices, twelve edges, and six faces",
+              "Twelve vertices, six edges, and eight faces",
+              "Four vertices, four edges, and four faces",
+              "Six vertices, eight edges, and twelve faces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Eulers formula considered a foundational result in the study of graphs and polyhedra?",
+            "options": [
+              "It contradicts other results in discrete mathematics",
+              "It only applies to a single specific polyhedron",
+              "It reveals a simple, invariant relationship that holds across an enormous range of connected planar structures",
+              "It has no connection to graph theory"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Taylor Series for Functions of Two Variables",
+        "summary": "Grade 12 Calculus strand: the Taylor series of a function of two variables extends the single-variable Taylor expansion by using partial derivatives evaluated at a point, producing a polynomial approximation that incorporates the functions curvature in every direction near that point.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the two-variable Taylor series use in place of ordinary derivatives from the single-variable case?",
+            "options": [
+              "Random coefficients with no relation to the function",
+              "A single derivative taken with respect to one variable only",
+              "Only the original function values, with no derivatives",
+              "Partial derivatives evaluated at a given point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a two-variable Taylor approximation aim to capture near a given point?",
+            "options": [
+              "Only the functions behaviour infinitely far from the point",
+              "The functions curvature in every direction near that point",
+              "A single straight-line approximation with no curvature at all",
+              "The functions value at every point in its entire domain equally well"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which earlier multivariable concept from this course is directly used in constructing the second-order terms of a two-variable Taylor series?",
+            "options": [
+              "The ratio test for series convergence",
+              "The trapezoid rule for numerical integration",
+              "The Hessian matrix of second-order partial derivatives",
+              "The concept of an indefinite integral alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the two-variable Taylor series generalize the single-variable Taylor and Maclaurin series studied earlier in this course?",
+            "options": [
+              "It extends the same idea of local polynomial approximation to functions depending on more than one variable",
+              "It has no relationship to the single-variable Taylor series",
+              "It removes the need for any derivatives whatsoever",
+              "It only applies to functions of exactly one variable"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a two-variable Taylor approximation be useful near a critical point identified using the Hessian matrix?",
+            "options": [
+              "Critical points cannot be approximated using Taylor series",
+              "It provides a more detailed local model of the functions shape than the Hessian classification alone",
+              "It always produces a less accurate result than a single point evaluation",
+              "It has no use near a critical point"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: The Seebeck Effect and Thermoelectric Power Generation",
+        "summary": "Grade 12 Physics strand: the Seebeck effect occurs when a temperature difference across a junction of two dissimilar conductors generates a small electric voltage, a principle used in thermocouples for temperature measurement and in thermoelectric generators that convert heat directly into electricity.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Seebeck effect describe?",
+            "options": [
+              "A temperature difference across a junction of two dissimilar conductors generating an electric voltage",
+              "An electric current generating a magnetic field",
+              "A voltage generating mechanical deformation in a crystal",
+              "A mechanical stress generating an electric voltage"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What everyday device relies on the Seebeck effect to measure temperature?",
+            "options": [
+              "A simple mercury thermometer",
+              "A piezoelectric microphone",
+              "A thermocouple",
+              "A barometer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What technology uses the Seebeck effect to convert heat directly into electricity?",
+            "options": [
+              "A photovoltaic solar panel",
+              "A hydroelectric turbine",
+              "A nuclear fission reactor core",
+              "A thermoelectric generator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the Seebeck effect differ from the Peltier effect studied earlier in this course?",
+            "options": [
+              "The Seebeck effect converts a temperature difference into voltage, while the Peltier effect uses current to produce a temperature difference",
+              "The Peltier effect only occurs in insulators, never conductors",
+              "The Seebeck effect has no relationship to temperature at all",
+              "The two effects are identical in every respect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must the two conductors forming a Seebeck junction be dissimilar materials?",
+            "options": [
+              "The voltage arises from a difference in how strongly each material responds to a temperature gradient",
+              "Identical materials always produce a larger Seebeck voltage",
+              "The materials used have no effect on the resulting voltage",
+              "Dissimilar materials prevent any voltage from forming"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 135,
+    "label": "Day 135 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Metatheatre: The Play Within the Play",
+        "summary": "Grade 12 English strand: metatheatre draws attention to a plays own status as a performance, often through a play within the play, direct address to the audience, or characters who comment self-consciously on the act of staging a drama.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does metatheatre draw attention to?",
+            "options": [
+              "The private life of the playwright alone",
+              "Only the historical accuracy of a plays setting",
+              "The cost of producing a play",
+              "A plays own status as a performance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a play within the play?",
+            "options": [
+              "A play performed only once and never repeated",
+              "A play that exists solely as a written text with no staging",
+              "A performance staged by characters within the larger surrounding drama",
+              "A play with no characters at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might direct address to the audience function as a metatheatrical device?",
+            "options": [
+              "It removes the need for any actors",
+              "It strengthens the illusion that the audience does not exist",
+              "It breaks the illusion of a sealed fictional world by acknowledging the audiences presence",
+              "It is only ever used in silent films"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a playwright use metatheatrical techniques?",
+            "options": [
+              "To eliminate the need for a script",
+              "To avoid any communication with the audience",
+              "To make a play entirely indistinguishable from real life",
+              "To prompt reflection on the nature of performance, illusion, and reality"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which earlier dramatic tradition studied in this course also self-consciously foregrounds the artificiality of performance?",
+            "options": [
+              "Silent, unstaged private reading only",
+              "Strict, invisible fourth-wall realism with no self-awareness",
+              "The Theatre of Cruelty and other avant-garde staging traditions",
+              "A tradition with no connection to performance at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Generating Pythagorean Triples",
+        "summary": "Grade 12 Advanced Functions strand: a Pythagorean triple is a set of three positive integers satisfying the Pythagorean relationship, and Euclids formula generates every primitive triple from a pair of positive integers, offering a systematic algebraic method for producing whole-number right triangles.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What is a Pythagorean triple?",
+            "options": [
+              "A set of three prime numbers only",
+              "Any three integers with no relationship to a right triangle",
+              "A set of three positive integers satisfying the Pythagorean relationship",
+              "Three integers that always sum to zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What classic example is the smallest Pythagorean triple?",
+            "options": [
+              "Three, four, and five",
+              "One, two, and three",
+              "Five, six, and seven",
+              "Two, three, and four"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Euclids formula for generating Pythagorean triples use as its starting input?",
+            "options": [
+              "A random decimal value",
+              "A pair of positive integers with specific conditions",
+              "A single prime number with no other input",
+              "An equation with no integer inputs at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a primitive Pythagorean triple?",
+            "options": [
+              "A triple that cannot be verified algebraically",
+              "A triple where all three numbers are equal",
+              "A triple that includes only even numbers",
+              "A triple in which the three integers share no common factor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is generating Pythagorean triples algebraically useful, rather than searching for them by trial and error?",
+            "options": [
+              "It produces every primitive triple systematically, guaranteeing valid whole-number right triangles",
+              "Algebraic generation cannot produce valid triples",
+              "Pythagorean triples have no algebraic structure at all",
+              "Trial and error is always faster and more reliable"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Gaussian Quadrature — Optimal Nodes for Numerical Integration",
+        "summary": "Grade 12 Calculus strand: Gaussian quadrature approximates a definite integral by evaluating the integrand at a small number of strategically chosen, unevenly spaced nodes, achieving greater accuracy for a given number of evaluations than evenly spaced methods such as the midpoint or trapezoid rule.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What distinguishes Gaussian quadrature from evenly spaced numerical integration methods?",
+            "options": [
+              "It evaluates the integrand at strategically chosen, unevenly spaced nodes",
+              "It requires evenly spaced nodes exactly like the trapezoid rule",
+              "It avoids evaluating the integrand at any point",
+              "It only works for functions with no curvature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What advantage does Gaussian quadrature typically offer over methods such as the midpoint or trapezoid rule?",
+            "options": [
+              "Greater accuracy for a given number of function evaluations",
+              "It always requires far more evaluations for the same accuracy",
+              "It cannot be applied to any polynomial function",
+              "It eliminates the need for a definite integral altogether"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How are the node locations in Gaussian quadrature typically determined?",
+            "options": [
+              "Through the roots of a specific family of orthogonal polynomials",
+              "By evenly dividing the interval into equal pieces",
+              "By always using only the endpoints of the interval",
+              "By selecting points completely at random"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an engineer prefer Gaussian quadrature when computational evaluations of a function are expensive?",
+            "options": [
+              "It can achieve high accuracy while minimizing the total number of function evaluations required",
+              "Gaussian quadrature cannot be used in engineering applications",
+              "Computational cost is irrelevant to choosing a numerical method",
+              "Gaussian quadrature always requires the most evaluations of any numerical method"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does Gaussian quadrature relate to the earlier numerical integration methods studied in this course, such as Simpsons rule?",
+            "options": [
+              "Simpsons rule requires no evaluation points at all",
+              "Gaussian quadrature can only be used when an antiderivative is already known",
+              "Both approximate a definite integral without requiring an explicit antiderivative, but choose evaluation points differently",
+              "The two methods share no mathematical relationship"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: The Joule-Thomson Effect and Real Gas Cooling",
+        "summary": "Grade 12 Physics strand: the Joule-Thomson effect describes the change in temperature of a real gas as it expands through a valve or porous plug without exchanging heat with its surroundings, a cooling effect exploited in refrigeration and in the liquefaction of gases such as nitrogen and oxygen.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Joule-Thomson effect describe?",
+            "options": [
+              "The pressure change of a liquid at constant temperature",
+              "The temperature change of a real gas as it expands through a valve without exchanging heat with its surroundings",
+              "The colour change of a gas as it is compressed",
+              "The temperature change of an ideal gas under constant volume"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For most gases near room temperature, what typically happens to temperature during a Joule-Thomson expansion?",
+            "options": [
+              "The gas always heats up substantially",
+              "The gas temperature never changes under any condition",
+              "The gas instantly becomes a solid",
+              "The gas cools"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what practical technology is the cooling from the Joule-Thomson effect directly exploited?",
+            "options": [
+              "The magnetization of a ferromagnetic material",
+              "Refrigeration and the liquefaction of gases such as nitrogen and oxygen",
+              "The generation of electric current in a battery",
+              "The transmission of radio waves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the Joule-Thomson effect not occur for an ideal gas?",
+            "options": [
+              "Ideal gases cannot expand under any circumstances",
+              "An ideal gas has no intermolecular forces, which are responsible for the temperature change in a real gas",
+              "Ideal gases always experience a much larger Joule-Thomson effect than real gases",
+              "The Joule-Thomson effect has nothing to do with intermolecular forces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the Joule-Thomson effect relate to the earlier study of thermodynamics and gas laws in this course?",
+            "options": [
+              "It contradicts the first law of thermodynamics",
+              "It only applies to solids, never gases",
+              "It has no relationship to thermodynamics or gas laws",
+              "It extends ideal gas reasoning to real gases, where intermolecular interactions produce measurable deviations"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 136,
+    "label": "Day 136 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Climate Fiction (Cli-Fi): Imagining Environmental Futures",
+        "summary": "Grade 12 English strand: climate fiction, or cli-fi, is a contemporary genre that imagines the human and social consequences of environmental change, using speculative settings to explore themes of loss, adaptation, and responsibility.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does climate fiction, or cli-fi, primarily imagine?",
+            "options": [
+              "Purely historical events with no relation to the environment",
+              "Only the technical science of weather forecasting",
+              "The human and social consequences of environmental change",
+              "A world with no connection to climate at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What narrative approach does cli-fi commonly use to explore its themes?",
+            "options": [
+              "A format that excludes any setting whatsoever",
+              "Only autobiographical memoir with no invention",
+              "Strictly factual news reporting with no narrative",
+              "Speculative settings, often set in a near or distant future"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which themes are commonly explored in climate fiction?",
+            "options": [
+              "Exclusively themes of ancient mythology",
+              "Only comedic misunderstandings between characters",
+              "Loss, adaptation, and responsibility in the face of environmental change",
+              "Themes entirely unrelated to the environment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does cli-fi relate to the broader tradition of speculative fiction studied elsewhere in this course?",
+            "options": [
+              "It applies speculative and world-building techniques specifically to environmental and climate concerns",
+              "Cli-fi rejects every convention of speculative fiction",
+              "Speculative fiction never addresses real-world issues",
+              "Cli-fi has no relationship to speculative fiction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a contemporary author choose cli-fi as a genre for social commentary?",
+            "options": [
+              "Cli-fi focuses solely on unrelated fantasy creatures",
+              "The genre is required to avoid any social commentary",
+              "Cli-fi cannot comment on real-world issues",
+              "It allows imagined futures to dramatize the stakes of present-day environmental choices"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: The Weierstrass Function — Continuous but Nowhere Differentiable",
+        "summary": "Grade 12 Advanced Functions strand: the Weierstrass function is defined as an infinite sum of scaled cosine terms and provides a classic example of a function that is continuous everywhere yet differentiable nowhere, challenging the nineteenth-century assumption that continuity implied smoothness.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What makes the Weierstrass function mathematically remarkable?",
+            "options": [
+              "It is discontinuous at every single point",
+              "It has no defined value at any point",
+              "It is continuous everywhere yet differentiable nowhere",
+              "It is differentiable everywhere with no exceptions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is the Weierstrass function typically constructed?",
+            "options": [
+              "As an infinite sum of scaled cosine terms",
+              "As a single simple linear expression",
+              "As a finite polynomial of degree two",
+              "As a function with no formula at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What nineteenth-century mathematical assumption did the Weierstrass function famously challenge?",
+            "options": [
+              "The assumption that a continuous function must also be smooth, or differentiable",
+              "The assumption that numbers can be negative",
+              "The assumption that a function must have a domain",
+              "The assumption that all functions must be linear"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might the Weierstrass function appear jagged or fractal-like when graphed?",
+            "options": [
+              "The function has no graphical representation",
+              "The infinite sum introduces fine detail and roughness at every scale",
+              "Rounding errors are the only source of any roughness",
+              "The graph is always a perfectly smooth straight line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What broader mathematical field does the discovery of the Weierstrass function influence?",
+            "options": [
+              "Basic arithmetic with whole numbers",
+              "Elementary geometry with no functions involved",
+              "Financial mathematics exclusively",
+              "Real analysis and the rigorous study of continuity and differentiability"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Bernoulli Differential Equations",
+        "summary": "Grade 12 Calculus strand: a Bernoulli differential equation is a first-order equation containing a term raised to a power of the dependent variable, which can be transformed into a linear differential equation through a substitution, allowing it to be solved using the integrating factor method.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What distinguishes a Bernoulli differential equation from an ordinary first-order linear equation?",
+            "options": [
+              "It is defined only for second-order equations",
+              "It can never involve the dependent variable",
+              "It contains no derivatives at all",
+              "It contains a term with the dependent variable raised to a power other than one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What technique transforms a Bernoulli equation into a linear differential equation?",
+            "options": [
+              "Converting the equation into a matrix with no substitution",
+              "Replacing every derivative with a constant",
+              "Simply ignoring the nonlinear term entirely",
+              "A specific substitution involving the dependent variable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Once transformed, what earlier solution method from this course can be applied to a Bernoulli equation?",
+            "options": [
+              "The integrating factor method for first-order linear equations",
+              "The bisection method for root-finding",
+              "A purely graphical method with no algebra",
+              "The method of undetermined coefficients only, with no other option"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are Bernoulli equations considered an important technique to learn in the study of differential equations?",
+            "options": [
+              "They are identical to every other type of differential equation",
+              "They extend solvable methods to a class of nonlinear equations that would otherwise resist a direct linear approach",
+              "They apply only to equations with no practical use",
+              "They cannot be solved by any known method"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what kind of applied problem might a Bernoulli differential equation arise?",
+            "options": [
+              "A situation with absolutely no rate of change",
+              "A problem involving only whole-number counting",
+              "Population growth models that include a nonlinear limiting term",
+              "A purely static geometric shape with no variables"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: The Sagnac Effect and Ring Laser Gyroscopes",
+        "summary": "Grade 12 Physics strand: the Sagnac effect produces a measurable phase shift between two light beams travelling in opposite directions around a rotating closed loop, a principle exploited in ring laser gyroscopes to precisely detect rotation without any external reference point.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Sagnac effect produce?",
+            "options": [
+              "A measurable phase shift between two light beams travelling in opposite directions around a rotating loop",
+              "A sudden increase in the speed of light itself",
+              "A permanent change in the colour of light passing through a loop",
+              "A magnetic field generated by rotating light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What technology exploits the Sagnac effect to detect rotation?",
+            "options": [
+              "A simple mechanical compass",
+              "A piezoelectric sensor",
+              "A ring laser gyroscope",
+              "A barometer"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is required to produce a Sagnac phase shift?",
+            "options": [
+              "A loop made only of a non-conducting material",
+              "The complete absence of any light source",
+              "A loop that remains perfectly stationary at all times",
+              "Rotation of the closed loop through which the two counter-propagating light beams travel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a ring laser gyroscope valuable for navigation systems, such as those in aircraft?",
+            "options": [
+              "It can precisely detect rotation without relying on any external reference point",
+              "It has no practical navigational application",
+              "It can only detect motion in a straight line, never rotation",
+              "It requires a constant external satellite signal to function at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the Sagnac effect connect to the broader study of light and relativity in this course?",
+            "options": [
+              "It shows that light behaves identically regardless of any rotation",
+              "It has no connection to the study of light or relativity",
+              "It disproves the constancy of the speed of light",
+              "It demonstrates a measurable optical consequence of rotation, connecting classical optics to relativistic reasoning about light propagation"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 137,
+    "label": "Day 137 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Travel Writing: Place, Encounter, and the Outsider Perspective",
+        "summary": "Grade 12 English strand: travel writing blends observation, narrative, and reflection to record a writers encounter with unfamiliar places and cultures, raising questions about the authority and possible bias of an outsiders perspective.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does travel writing typically blend together?",
+            "options": [
+              "Observation, narrative, and reflection on encounters with unfamiliar places and cultures",
+              "Purely invented settings with no real place",
+              "Only technical statistics about a region",
+              "A single unsupported opinion with no description"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What perspective does a travel writer typically bring to the places they describe?",
+            "options": [
+              "A perspective that is always fully native to the place described",
+              "An outsiders perspective, encountering a place as unfamiliar",
+              "A perspective limited strictly to maps and statistics",
+              "A perspective with no viewpoint at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What question does travel writing often raise about its own point of view?",
+            "options": [
+              "Travel writing never raises questions about perspective",
+              "The question of bias never applies to nonfiction writing",
+              "Whether the outsiders perspective introduces bias or limited authority in representing a place",
+              "Only insiders are capable of writing about a place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does travel writing typically differ from a straightforward guidebook?",
+            "options": [
+              "A guidebook always includes more personal reflection than travel writing",
+              "It incorporates personal narrative and reflection rather than only practical information",
+              "The two forms are identical in every respect",
+              "Travel writing excludes any factual description"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might travel writing be studied alongside other nonfiction forms in this course?",
+            "options": [
+              "Travel writing is considered purely fictional",
+              "It shares techniques of narrative and reflection with forms such as the personal essay and documentary",
+              "Travel writing has no connection to any other nonfiction form",
+              "Nonfiction forms cannot be meaningfully compared"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Lucas Sequences and Generalized Fibonacci Numbers",
+        "summary": "Grade 12 Advanced Functions strand: a Lucas sequence generalizes the Fibonacci sequence by starting from different initial values while following the same rule that each term equals the sum of the two preceding terms, producing related sequences with their own distinctive number-theoretic properties.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What rule do Lucas sequences share with the Fibonacci sequence?",
+            "options": [
+              "Each term is always double the preceding term",
+              "Each term is chosen at random",
+              "Each term is the product of all previous terms",
+              "Each term equals the sum of the two preceding terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a Lucas sequence generally differ from the standard Fibonacci sequence?",
+            "options": [
+              "It begins from different initial values while following the same recursive rule",
+              "It has no starting values at all",
+              "It uses an entirely different, unrelated recursive rule",
+              "It contains only even numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the first two terms of the classic Lucas numbers sequence?",
+            "options": [
+              "Three and five",
+              "Zero and one",
+              "Two and one",
+              "One and one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are Lucas sequences of interest in number theory?",
+            "options": [
+              "They only ever produce the number zero",
+              "They display distinctive divisibility and growth properties related to, but distinct from, the Fibonacci numbers",
+              "They are identical in every property to the Fibonacci sequence",
+              "They have no mathematical properties worth studying"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does studying Lucas sequences connect to the earlier study of Fibonacci representations in this course?",
+            "options": [
+              "Both rely on the same additive recursive structure, generalized from different starting points",
+              "Fibonacci numbers are a special case that excludes any related sequences",
+              "The two topics share no mathematical connection",
+              "Lucas sequences replace the need for the Fibonacci sequence entirely"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Elliptic Integrals and the Pendulum Problem",
+        "summary": "Grade 12 Calculus strand: elliptic integrals arise when calculating quantities such as arc length along an ellipse or the exact period of a pendulum swinging through a large angle, and generally cannot be expressed using elementary functions, requiring specialized methods or numerical evaluation.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "In what classic physical problem do elliptic integrals commonly arise?",
+            "options": [
+              "Finding the area of a perfect circle",
+              "Finding the volume of a rectangular box",
+              "Calculating a simple linear velocity",
+              "Finding the exact period of a pendulum swinging through a large angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What geometric quantity is also classically associated with elliptic integrals?",
+            "options": [
+              "The arc length along an ellipse",
+              "The area of a square",
+              "The volume of a sphere alone",
+              "The circumference of a perfect circle only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are elliptic integrals considered mathematically special?",
+            "options": [
+              "They are identical to ordinary polynomial integrals",
+              "They can always be evaluated using basic algebra alone",
+              "They never require any numerical methods",
+              "They generally cannot be expressed using elementary functions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are elliptic integrals typically evaluated in practice when no elementary closed form exists?",
+            "options": [
+              "They are always solved using only mental arithmetic",
+              "They are simply left unsolved with no approach at all",
+              "They require no calculation of any kind",
+              "Using specialized methods or numerical approximation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the small-angle approximation for a pendulum relate to the need for elliptic integrals?",
+            "options": [
+              "A pendulums period never depends on its swing angle at all",
+              "The small-angle approximation also requires elliptic integrals",
+              "The small-angle approximation avoids elliptic integrals, but a large-angle pendulum requires them for an exact period",
+              "Elliptic integrals are needed regardless of the pendulums angle"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: Chladni Patterns and Standing Waves in Two Dimensions",
+        "summary": "Grade 12 Physics strand: Chladni patterns form when a flat plate is vibrated at a resonant frequency and fine particles, such as sand, collect along the nodal lines where the plate does not move, visually revealing the two-dimensional standing wave patterns of the plates vibration.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What causes Chladni patterns to form on a vibrating plate?",
+            "options": [
+              "Fine particles collecting along the nodal lines where the plate does not move",
+              "Particles collecting randomly with no relationship to vibration",
+              "The plate melting under intense heat",
+              "A magnetic field pulling particles into place"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a nodal line, in the context of a vibrating plate?",
+            "options": [
+              "A line that vibrates with maximum amplitude",
+              "A line along which the plate remains stationary during vibration",
+              "A line unrelated to the plates motion",
+              "A line that exists only in three-dimensional objects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "At what type of frequency must a plate be vibrated to produce a clear Chladni pattern?",
+            "options": [
+              "A frequency of exactly zero",
+              "A resonant frequency of the plate",
+              "A frequency outside the range of audible sound only",
+              "Any frequency at all, with no relationship to resonance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do Chladni patterns relate to the concept of standing waves studied earlier in this course?",
+            "options": [
+              "They provide a visual, two-dimensional demonstration of standing wave nodes and antinodes",
+              "Standing waves can only exist in one dimension, never two",
+              "Chladni patterns only occur in the absence of any wave motion",
+              "They have no connection to standing waves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might Chladni patterns be used as a teaching demonstration in acoustics and wave physics?",
+            "options": [
+              "They make an otherwise invisible vibrational pattern directly visible using simple materials",
+              "They have no educational value in physics",
+              "They demonstrate a phenomenon unrelated to sound or vibration",
+              "They can only be observed using expensive specialized equipment"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "label": "Day 138 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Translation Theory: Fidelity, Domestication, and Foreignization",
+        "summary": "Grade 12 English strand: translation theory examines the choices a translator makes between fidelity to a source texts literal meaning and readability in the target language, including the contrasting strategies of domestication, which adapts a text to feel familiar, and foreignization, which preserves its foreignness.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What central tension does translation theory examine?",
+            "options": [
+              "Whether a text should be translated at all, with no other consideration",
+              "The length of the original text alone",
+              "The cost of printing a translated book",
+              "The balance between fidelity to a source texts meaning and readability in the target language"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a domesticating translation strategy aim to do?",
+            "options": [
+              "Adapt a text to feel familiar to readers in the target language and culture",
+              "Translate a text word for word with no regard for readability",
+              "Preserve every unfamiliar feature of the original culture with no adaptation",
+              "Remove all meaning from the original text"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a foreignizing translation strategy aim to preserve?",
+            "options": [
+              "The publication date of the original text",
+              "A translations complete familiarity to the target audience",
+              "The foreignness and distinct cultural texture of the original text",
+              "The physical binding of the original book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might translators disagree about whether fidelity or readability should be prioritized?",
+            "options": [
+              "There is never any disagreement among translators",
+              "Strict literal fidelity can sometimes produce awkward, unclear prose in the target language, creating a genuine trade-off",
+              "Readability is considered irrelevant to translation entirely",
+              "Fidelity and readability always align perfectly with no tension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does studying translation theory connect to the study of literature in translation elsewhere in this course?",
+            "options": [
+              "It reveals how translation choices shape the version of a text that reaches a new audience",
+              "Translation choices never affect a readers experience of a text",
+              "Every translation of a text is always identical",
+              "Translation theory has no relevance to reading translated literature"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Probability: The Birthday Problem and Coincidence in Large Groups",
+        "summary": "Grade 12 Advanced Functions strand: the birthday problem asks how many people must be in a group before there is a better than even chance that two of them share a birthday, with the surprising answer, just twenty-three, illustrating how quickly coincidence probabilities grow in combinatorial settings.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does the birthday problem ask?",
+            "options": [
+              "How many months contain thirty-one days",
+              "How many people have the same favourite colour",
+              "How many days are in a year",
+              "How many people must be in a group before there is a better than even chance two share a birthday"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the surprisingly small number of people needed for a better than even chance of a shared birthday?",
+            "options": [
+              "One hundred eighty-three",
+              "Three hundred sixty-five",
+              "Fifty",
+              "Twenty-three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the answer to the birthday problem often described as counterintuitive?",
+            "options": [
+              "The number of people required is far smaller than most peoples initial intuition suggests",
+              "The number of people required is far larger than anyone expects",
+              "Most people correctly guess the answer immediately",
+              "The problem has no numerical answer at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What combinatorial idea explains why shared-birthday probability grows so quickly with group size?",
+            "options": [
+              "The number of possible pairs of people grows much faster than the number of people itself",
+              "Only exact matches of triplets are ever counted",
+              "Group size has no effect on the number of possible pairs",
+              "The number of possible pairs grows more slowly than the number of people"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the birthday problem relate to the broader study of probability and counting in this course?",
+            "options": [
+              "It applies combinatorial counting of pairs to a surprising, easily testable probability question",
+              "It has no connection to combinatorics or counting",
+              "It is purely a geography question with no mathematics",
+              "It contradicts the basic principles of probability"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: The Existence and Uniqueness Theorem for Differential Equations",
+        "summary": "Grade 12 Calculus strand: the existence and uniqueness theorem gives conditions, typically involving continuity of the differential equation and its derivative with respect to the dependent variable, under which an initial value problem is guaranteed to have exactly one solution near the initial point.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the existence and uniqueness theorem guarantee, when its conditions are met?",
+            "options": [
+              "That a differential equation has infinitely many unrelated solutions",
+              "That every equation has exactly zero solutions",
+              "That no differential equation can ever be solved",
+              "That an initial value problem has exactly one solution near the initial point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of problem does the existence and uniqueness theorem typically address?",
+            "options": [
+              "A definite integral with no initial condition",
+              "A geometry problem involving only static shapes",
+              "An initial value problem for a differential equation",
+              "A basic algebraic equation with no derivatives"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What property of the differential equation is typically required for the theorem to apply?",
+            "options": [
+              "Continuity of the equation and its derivative with respect to the dependent variable",
+              "The equation must have no dependent variable at all",
+              "The equation must be discontinuous everywhere",
+              "The equation must always be exactly linear with no exceptions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a guarantee of uniqueness valuable when solving a real-world differential equation model?",
+            "options": [
+              "It confirms that the predicted solution is the only one consistent with the given initial condition, supporting confident interpretation",
+              "Uniqueness has no practical value in modelling",
+              "Uniqueness guarantees that no solution actually exists",
+              "A model is more useful when it has many contradictory solutions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the existence and uniqueness theorem relate to earlier numerical methods for differential equations studied in this course, such as Eulers method?",
+            "options": [
+              "It proves that numerical methods can never approximate a real solution",
+              "It shows that Eulers method always produces an incorrect result",
+              "It provides theoretical assurance that the solution numerical methods approximate is well defined and unique",
+              "It has no connection to numerical solution methods"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: The Physics of Lightning — Charge Separation and Electrical Breakdown",
+        "summary": "Grade 12 Physics strand: lightning results from charge separation within a thundercloud, driven by collisions between ice particles and graupel, which builds an electric field strong enough to cause electrical breakdown of the air, producing a sudden, visible discharge between cloud and ground or within the cloud itself.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What process within a thundercloud leads to the buildup of electric charge?",
+            "options": [
+              "The cloud absorbing all surrounding electric charge instantly",
+              "The complete absence of any particle motion within the cloud",
+              "A steady, unchanging temperature throughout the cloud",
+              "Collisions between ice particles and graupel that separate charge within the cloud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What must happen to the air for a lightning discharge to occur?",
+            "options": [
+              "The air must become a perfect permanent insulator",
+              "Electrical breakdown, in which the air briefly becomes a conductor",
+              "The air must be entirely removed from the atmosphere",
+              "The air must freeze completely solid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What condition in the electric field between cloud and ground precedes a lightning strike?",
+            "options": [
+              "The electric field drops to exactly zero",
+              "The electric field becomes strong enough to ionize the surrounding air",
+              "There is no electric field involved in lightning at all",
+              "The electric field remains constant and weak throughout"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does lightning relate to the earlier study of electric fields and circuits in this course?",
+            "options": [
+              "Electric circuits can never involve a discharge of any kind",
+              "Lightning has no relationship to electric fields or circuits",
+              "It illustrates a natural, large-scale example of charge buildup and sudden discharge through a conducting path",
+              "Lightning only involves magnetic fields, never electric fields"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does thunder typically follow the flash of lightning after a short delay?",
+            "options": [
+              "Light travels far faster than sound, so the sound of the rapidly heated air reaches an observer later",
+              "Sound travels faster than light in air",
+              "Thunder is produced before the lightning flash occurs",
+              "Thunder and lightning always occur at exactly the same instant with no delay"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 139,
+    "label": "Day 139 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Aphorism and the Epigram: Compression and Wisdom in Short Form",
+        "summary": "Grade 12 English strand: the aphorism is a brief, memorable statement expressing a general truth or observation with concentrated wit, closely related to the epigram, a short, pointed piece of writing often turning on a clever or surprising final line.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does an aphorism typically express?",
+            "options": [
+              "A random string of unrelated words",
+              "A lengthy, detailed argument spanning many pages",
+              "A general truth or observation, stated briefly and memorably",
+              "A purely factual statistic with no interpretation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What quality is most valued in a well-crafted aphorism?",
+            "options": [
+              "Complete avoidance of any meaning",
+              "Maximum length and exhaustive detail",
+              "Concentrated wit and memorable compression of meaning",
+              "Repetition of the same idea many times over"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an epigram, as related to the aphorism?",
+            "options": [
+              "A lengthy academic footnote",
+              "A full-length novel with no concise elements",
+              "A type of formal legal document",
+              "A short, pointed piece of writing often turning on a clever or surprising final line"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer favour the compressed form of the aphorism over an extended essay?",
+            "options": [
+              "Aphorisms are incapable of expressing any meaning",
+              "Short forms are never memorable to readers",
+              "Compression always weakens an ideas impact",
+              "Compression can sharpen an idea and make it more memorable and quotable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the aphorisms use of compression relate to other short literary forms studied in this course, such as flash fiction?",
+            "options": [
+              "Both forms rely on concentrated language to achieve a strong effect within a small space",
+              "Short forms are considered inferior to long forms in every case",
+              "Compression is unique to the aphorism alone among literary forms",
+              "The aphorism and flash fiction share no stylistic qualities whatsoever"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: Chebyshev Polynomials and Optimal Approximation",
+        "summary": "Grade 12 Advanced Functions strand: Chebyshev polynomials form a special sequence of polynomials defined through trigonometric identities, and are prized in approximation theory because choosing evaluation points based on their roots minimizes the maximum error when approximating a function by a polynomial.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "Through what kind of identities are Chebyshev polynomials commonly defined?",
+            "options": [
+              "Identities involving only whole-number addition",
+              "Identities defined solely through logarithms",
+              "Trigonometric identities involving cosine",
+              "Identities with no connection to trigonometry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What property makes Chebyshev polynomials especially valuable in approximation theory?",
+            "options": [
+              "They eliminate the need for polynomials in approximation",
+              "Choosing evaluation points based on their roots minimizes the maximum approximation error",
+              "They apply only to functions with no curvature",
+              "They guarantee an approximation error of exactly zero in every case"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do Chebyshev polynomials relate to earlier approximation methods studied in this course, such as Pade approximants?",
+            "options": [
+              "Both aim to approximate a function more effectively than a naive, evenly spaced approach",
+              "Chebyshev polynomials replace the need for functions entirely",
+              "Pade approximants and Chebyshev polynomials address entirely unrelated problems",
+              "They share no relationship to any other approximation method"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What term describes minimizing the largest possible error across an approximation interval?",
+            "options": [
+              "Constant-error approximation",
+              "Minimax approximation",
+              "Zero-error guarantee",
+              "Maximin subtraction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which practical fields might Chebyshev polynomials be applied to improve numerical approximation?",
+            "options": [
+              "Fields with no use for numerical approximation whatsoever",
+              "Only in fields unrelated to mathematics",
+              "Exclusively in ancient historical record-keeping",
+              "Numerical analysis and computer algorithms for evaluating functions efficiently"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus: Double Integrals in Polar Coordinates",
+        "summary": "Grade 12 Calculus strand: evaluating a double integral over a circular or annular region is often simplified by converting to polar coordinates, replacing the area element dx dy with r dr dtheta to account for how area scales with distance from the origin.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "Why might a double integral be converted to polar coordinates?",
+            "options": [
+              "To avoid ever using an integral sign",
+              "To make every integral impossible to evaluate",
+              "To simplify integration over a circular or annular region",
+              "Polar coordinates can only be used for one-dimensional problems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What replaces the area element dx dy when converting a double integral to polar coordinates?",
+            "options": [
+              "dx dy remains unchanged in polar coordinates",
+              "r dr dtheta",
+              "theta dr dx",
+              "A constant with no relationship to r or theta"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the extra factor of r appear in the polar area element?",
+            "options": [
+              "It corrects for a units conversion between radians and degrees only",
+              "It has no mathematical justification",
+              "It accounts for how a small change in angle sweeps out more area farther from the origin",
+              "It is an arbitrary constant with no geometric meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does converting to polar coordinates relate to the earlier study of double integrals in Cartesian coordinates?",
+            "options": [
+              "Polar and Cartesian double integrals compute entirely different quantities",
+              "The same idea of summing values over small area elements is retained, adapted to a coordinate system suited to circular symmetry",
+              "Cartesian double integrals can never be converted to polar form",
+              "Polar coordinates eliminate the need for double integrals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "For what type of region is a polar double integral especially well suited?",
+            "options": [
+              "A region with circular or radial symmetry, such as a disk or an annulus",
+              "A perfectly rectangular region with no curved boundary",
+              "A region with no defined boundary at all",
+              "A one-dimensional line segment"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics: GPS and Relativistic Time Corrections",
+        "summary": "Grade 12 Physics strand: the Global Positioning System requires corrections from both special and general relativity, since satellite clocks run slower due to their high orbital speed yet faster due to the weaker gravitational field at orbital altitude, and neglecting either effect would cause rapidly accumulating position errors.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "Why do satellite clocks in the Global Positioning System require relativistic corrections?",
+            "options": [
+              "Their high orbital speed and the weaker gravitational field at altitude both affect the rate at which their clocks run",
+              "Relativity applies only to objects travelling at the speed of light",
+              "Satellite clocks are entirely unaffected by relativity",
+              "GPS satellites do not use clocks of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to special relativity, how does a satellites high orbital speed affect its clock compared to a clock on Earths surface?",
+            "options": [
+              "Speed has no effect on a clocks rate according to special relativity",
+              "The satellites clock runs faster due to its speed alone",
+              "The satellites clock stops completely due to its speed",
+              "The satellites clock runs slower due to time dilation from its speed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to general relativity, how does the weaker gravitational field at orbital altitude affect a satellites clock?",
+            "options": [
+              "The satellites clock runs slower due to the weaker gravitational field",
+              "Gravity only affects the colour of light, never the rate of a clock",
+              "The satellites clock runs faster than a clock deeper in Earths gravitational field",
+              "The weaker gravitational field has no effect on clock rate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What would happen to GPS position accuracy if relativistic corrections were ignored?",
+            "options": [
+              "GPS accuracy would be completely unaffected by ignoring relativity",
+              "The GPS system would immediately stop functioning entirely",
+              "Position errors would accumulate rapidly, making the system unreliable within a short time",
+              "Position accuracy would improve if relativity were ignored"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the GPS correction illustrate the combined roles of special and general relativity studied elsewhere in this course?",
+            "options": [
+              "It shows both theories producing opposing but individually essential corrections to a single real-world system",
+              "It shows that relativity has no measurable effect on modern technology",
+              "It demonstrates that general relativity contradicts special relativity in this context",
+              "It shows that only special relativity, and never general relativity, has any real-world application"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 140,
+    "label": "Day 140 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Genre, Form, and Global Perspectives",
+        "summary": "Grade 12 English strand review: students revisit the epic tradition, free verse and Modernist poetics, the fable and allegorical mode, the anti-novel, metatheatre, climate fiction, travel writing, translation theory, and the aphorism and epigram.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What is an epic, in its traditional literary sense?",
+            "options": [
+              "A brief prose essay on a historical event",
+              "A short lyric poem about a single private feeling",
+              "A long narrative poem recounting the heroic deeds of a legendary or historical figure",
+              "A modern screenplay with no poetic structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does free verse deliberately abandon?",
+            "options": [
+              "The use of the English language itself",
+              "Any division into lines at all",
+              "All use of imagery and figurative language",
+              "Regular metre and a fixed rhyme scheme"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a fable typically constructed to do?",
+            "options": [
+              "Describe a scientific process in technical language",
+              "Teach a moral lesson through a brief narrative",
+              "Offer a purely factual news report",
+              "Provide a detailed historical record of real events"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the anti-novel typically reject?",
+            "options": [
+              "The existence of any reader whatsoever",
+              "Traditional elements such as a clear plot, consistent characters, and an authoritative narrator",
+              "Every form of punctuation",
+              "All use of written language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does metatheatre draw attention to?",
+            "options": [
+              "The cost of producing a play",
+              "The private life of the playwright alone",
+              "A plays own status as a performance",
+              "Only the historical accuracy of a plays setting"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "AdvancedFunctions Review: Number Theory, Probability, and Approximation",
+        "summary": "Grade 12 Advanced Functions strand review: students revisit Eulers totient function, derangements and the hat-check problem, Bayes theorem, Eulers formula for planar graphs, generating Pythagorean triples, the Weierstrass function, Lucas sequences, the birthday problem, and Chebyshev polynomials.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does Eulers totient function, phi of n, count?",
+            "options": [
+              "The number of even integers less than n",
+              "The total number of divisors of n",
+              "The positive integers up to n that are coprime to n",
+              "The sum of all prime factors of n"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a derangement of a set?",
+            "options": [
+              "A set with no elements at all",
+              "A permutation in which every element appears in its original position",
+              "A permutation with exactly one fixed element",
+              "A permutation in which no element appears in its original position"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does Bayes theorem allow a statistician to do?",
+            "options": [
+              "Determine whether a number is prime",
+              "Graph a function without any data",
+              "Update the probability of an event in light of new evidence",
+              "Calculate the exact mean of any data set"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Eulers formula for planar graphs and polyhedra state?",
+            "options": [
+              "Vertices plus edges plus faces always equals zero",
+              "Vertices minus edges minus faces always equals one",
+              "Vertices minus edges plus faces always equals two",
+              "Edges alone always equal the number of faces"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a Pythagorean triple?",
+            "options": [
+              "A set of three prime numbers only",
+              "A set of three positive integers satisfying the Pythagorean relationship",
+              "Any three integers with no relationship to a right triangle",
+              "Three integers that always sum to zero"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus Review: Vector Calculus, Series, and Differential Equations",
+        "summary": "Grade 12 Calculus strand review: students revisit arc length of a parametric curve, line integrals of scalar fields, the Laplacian operator and harmonic functions, Taylor series for functions of two variables, and Gaussian quadrature.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "How is a parametric curve typically defined?",
+            "options": [
+              "Only by a table of coordinates with no formula",
+              "By separate functions x of t and y of t, both depending on a parameter t",
+              "By a function that must always be linear",
+              "By a single equation with no parameter involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the line integral of a scalar field integrate?",
+            "options": [
+              "A vector field along a closed surface only",
+              "A function of position along a curve with respect to arc length",
+              "A constant with no relationship to a curve",
+              "The area enclosed by a curve"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Laplacian operator combine?",
+            "options": [
+              "A single first derivative with no other terms",
+              "The second partial derivatives of a multivariable function",
+              "Only the first partial derivatives of a function",
+              "The original function values with no derivatives at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the two-variable Taylor series use in place of ordinary derivatives from the single-variable case?",
+            "options": [
+              "Random coefficients with no relation to the function",
+              "A single derivative taken with respect to one variable only",
+              "Only the original function values, with no derivatives",
+              "Partial derivatives evaluated at a given point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What distinguishes Gaussian quadrature from evenly spaced numerical integration methods?",
+            "options": [
+              "It requires evenly spaced nodes exactly like the trapezoid rule",
+              "It evaluates the integrand at strategically chosen, unevenly spaced nodes",
+              "It avoids evaluating the integrand at any point",
+              "It only works for functions with no curvature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics Review: Optics, Thermal Effects, and Relativistic Applications",
+        "summary": "Grade 12 Physics strand review: students revisit stimulated emission and the laser, Rayleigh scattering, Wiens displacement law, the Seebeck effect, the Joule-Thomson effect, the Sagnac effect, Chladni patterns, the physics of lightning, and GPS relativistic corrections.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What process underlies the operation of a laser?",
+            "options": [
+              "The complete absorption of all light with no emission",
+              "Radioactive decay of atomic nuclei",
+              "Stimulated emission, in which a photon triggers an excited atom to emit an identical second photon",
+              "Spontaneous emission with no external trigger of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Rayleigh scattering describe?",
+            "options": [
+              "The refraction of light through a lens",
+              "The complete absorption of all wavelengths of light equally",
+              "The scattering of electromagnetic radiation by particles much smaller than its wavelength",
+              "The scattering of sound waves in a solid material"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Wiens displacement law relate?",
+            "options": [
+              "The volume of a gas to its pressure alone",
+              "The mass of an object to its electric charge",
+              "The wavelength of peak blackbody radiation to the objects temperature",
+              "The colour of an object to its chemical composition only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Seebeck effect describe?",
+            "options": [
+              "A temperature difference across a junction of two dissimilar conductors generating an electric voltage",
+              "A mechanical stress generating an electric voltage",
+              "An electric current generating a magnetic field",
+              "A voltage generating mechanical deformation in a crystal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Joule-Thomson effect describe?",
+            "options": [
+              "The colour change of a gas as it is compressed",
+              "The temperature change of a real gas as it expands through a valve without exchanging heat with its surroundings",
+              "The pressure change of a liquid at constant temperature",
+              "The temperature change of an ideal gas under constant volume"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
