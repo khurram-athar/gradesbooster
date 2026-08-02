@@ -1600,6 +1600,7 @@ const curriculum: DayContent[] = [
 {day:39, label:"Day 39 — Thu", subjects:[
   {subject:"English", title:"Literature: Absurdism and the Theatre of the Absurd", summary:"Grade 12 English strand: the Theatre of the Absurd presents illogical situations and meaningless dialogue to reflect a perceived lack of inherent purpose in human existence, challenging traditional dramatic conventions.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=eJ7w2I83ba4",
    quiz:[
      {q:"The Theatre of the Absurd presents ___ to reflect a perceived lack of inherent purpose.", options:["Dialogue that always follows conventional, expected patterns","A concept unrelated to human existence or meaning","Only perfectly logical, straightforward events","Illogical situations and meaningless dialogue"], answer:3},
      {q:"The Theatre of the Absurd challenges ___.", options:["No established artistic conventions whatsoever","Only the physical staging of a play, with no thematic challenge","A concept entirely unrelated to theatre or drama","Traditional dramatic conventions"], answer:3},
@@ -1619,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Applications in Economics: Marginal Cost and Revenue", summary:"Grade 12 Calculus strand: derivatives can model marginal cost and marginal revenue in economics, representing the rate of change in total cost or revenue with respect to producing one additional unit.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=gMBtjKfEBUY",
    quiz:[
      {q:"In economics, marginal cost represents the rate of change in total cost with respect to ___.", options:["The colour of the product being manufactured","A concept unrelated to production or cost","The total number of years a business has operated","Producing one additional unit"], answer:3},
      {q:"Marginal revenue can be found by taking the ___ of the total revenue function.", options:["A calculation entirely unrelated to derivatives","Sum","Derivative","Product"], answer:2},
@@ -1628,6 +1630,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Dark Matter and Dark Energy", summary:"Grade 12 Physics strand: dark matter and dark energy are largely unobserved components of the universe inferred from their gravitational effects and their role in the universe’s accelerating expansion.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=9W3RsaWuCuE",
    quiz:[
      {q:"Dark matter and dark energy are largely inferred from their ___.", options:["Direct visual observation through a standard telescope","A concept unrelated to the study of the universe","Gravitational effects","Complete absence of any detectable influence"], answer:2},
      {q:"Dark energy is associated with the universe’s ___.", options:["Steady, unchanging size with no expansion or contraction","Accelerating expansion","Complete lack of any expansion whatsoever","A concept entirely unrelated to cosmology"], answer:1},

@@ -1598,17 +1598,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:39, label:"Day 39 — Thu", subjects:[
-  {subject:"English", title:"Literature: Irony and Ambiguity in Modern Fiction", summary:"Grade 11 English strand: modern fiction often employs irony and deliberate ambiguity, leaving certain meanings open to interpretation and inviting readers to actively engage with a text’s complexity.",
+  {subject:"English", title:"Literature: The Unreliable Narrator in Modern Fiction", summary:"Grade 11 English strand: an unreliable narrator is a storyteller whose credibility is compromised, whether by bias, limited knowledge, or deliberate deception, requiring readers to critically question the version of events they are given.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=n0eqEZ7jQa0",
    quiz:[
-     {q:"Modern fiction often employs irony and ___.", options:["Themes with only one single, obvious interpretation","Only completely clear, unambiguous meaning throughout","Deliberate ambiguity","A style with no connection to complexity"], answer:2},
-     {q:"Deliberate ambiguity in a text leaves certain meanings ___.", options:["A concept unrelated to how a text can be read","Open to interpretation","Entirely fixed with only one possible reading","Completely absent from the text"], answer:1},
-     {q:"Why might an author intentionally use ambiguity in their writing?", options:["Authors should always avoid any ambiguity in their writing","It can invite readers to actively engage with and interpret the text’s deeper complexity","This technique has no effect on how readers engage with a text","Ambiguity always makes a text less meaningful or engaging"], answer:1},
-     {q:"Why might a story with an ambiguous ending be considered more thought-provoking than one with a clear resolution?", options:["An ambiguous ending always makes a story less effective","This technique has no connection to how a reader experiences a text","Readers never continue thinking about a story after finishing it","It can prompt readers to continue reflecting on and interpreting the story’s meaning"], answer:3},
-     {q:"Why is recognizing irony important when interpreting a modern work of fiction?", options:["Recognizing irony never affects how a text is understood","Modern fiction never makes use of irony","Irony has no connection to a text’s deeper meaning","It can reveal a gap between what is stated and what is actually meant, adding depth to the text"], answer:3}
+     {q:"An unreliable narrator is best described as a narrator whose ___.", options:["Credibility is compromised in some way","Account is always completely accurate","Perspective is identical to the author’s","Role in the story is purely factual"], answer:0},
+     {q:"Which is a common reason a narrator might be considered unreliable?", options:["The narrator has no opinions at all","The narrator has personal bias, limited knowledge, or intent to deceive","The narrator is only ever a minor background character","Unreliable narrators do not actually exist in fiction"], answer:1},
+     {q:"Why might an author choose to use an unreliable narrator instead of a fully trustworthy one?", options:["It can create suspense and invite readers to question and interpret the story more actively","Unreliable narrators always make a story confusing with no added value","Authors use unreliable narrators only by accident","This technique removes all meaning from a story"], answer:0},
+     {q:"When reading a story with an unreliable narrator, readers should ___.", options:["Accept every statement from the narrator without question","Critically evaluate the narrator’s account against other clues in the text","Ignore the narrator completely","Assume the narrator’s account is always false"], answer:1},
+     {q:"Why is recognizing an unreliable narrator considered an important reading skill?", options:["It has no effect on how a reader interprets a story","It never changes a reader’s understanding of events","Recognizing this technique has no connection to critical reading","It helps readers form a more accurate and critical understanding of the story’s events and themes"], answer:3}
    ]},
   {subject:"Functions", title:"Trigonometric Identities: Proving and Applying", summary:"Grade 11 Functions strand: a trigonometric identity is an equation involving trigonometric functions that is true for all values of the variable, and proving one involves manipulating one side to match the other.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=91O3vKGigDE",
    quiz:[
      {q:"A trigonometric identity is an equation that is true for ___.", options:["A concept unrelated to trigonometric functions","All values of the variable","Only a single specific value of the variable","No values of the variable at all"], answer:1},
      {q:"Proving a trigonometric identity typically involves ___.", options:["Simply guessing whether the equation is true with no proof","Ignoring one entire side of the equation completely","A method unrelated to algebraic manipulation","Manipulating one side of the equation to match the other"], answer:3},
@@ -1618,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Plant Hormones: Auxins, Gibberellins, and Tropic Responses", summary:"Grade 11 Biology strand: plant hormones regulate growth and development, coordinating responses to environmental stimuli such as light, gravity, and touch.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=rKHIfsHX1aA",
    quiz:[
      {q:"Plant hormones play a key role in regulating ___.", options:["A function unrelated to environmental response","A process entirely unrelated to plant biology","Growth and development","Only the colour of a plant’s leaves"], answer:2},
      {q:"Plant hormones help coordinate responses to environmental stimuli such as ___.", options:["No environmental factors at all","Only sound, with no other environmental factors","Light, gravity, and touch","A stimulus entirely unrelated to a plant’s surroundings"], answer:2},
@@ -1627,6 +1630,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Environmental Chemistry: Ozone and Greenhouse Gases", summary:"Grade 11 Chemistry strand: the ozone layer protects Earth from harmful ultraviolet radiation, while greenhouse gases trap heat in the atmosphere, both playing significant roles in Earth’s environmental chemistry.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=Qd1UtfszIi0",
    quiz:[
      {q:"The ozone layer primarily protects Earth from ___.", options:["Harmful ultraviolet radiation","Excess oxygen in the atmosphere","Only visible light, with no connection to radiation","A factor entirely unrelated to solar radiation"], answer:0},
      {q:"Greenhouse gases contribute to climate change by ___.", options:["Releasing heat completely out of the atmosphere","A process entirely unrelated to atmospheric heat","Having no effect on atmospheric temperature","Trapping heat in the atmosphere"], answer:3},

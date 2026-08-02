@@ -1598,17 +1598,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:39, label:"Day 39 — Thu", subjects:[
-  {subject:"English", title:"Writing: Crafting a Personal Manifesto", summary:"Grade 10 English strand: a personal manifesto expresses a writer’s core beliefs and values with a strong, declarative voice, clearly articulating what the writer stands for.",
+  {subject:"English", title:"Writing: Using Rhetorical Devices for Persuasive Effect", summary:"Grade 10 English strand: rhetorical devices such as ethos, pathos, and logos help writers appeal to an audience’s credibility, emotions, and logic, making persuasive writing more convincing and effective.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=t4ODg51XNYk",
    quiz:[
-     {q:"A personal manifesto is meant to express a writer’s ___.", options:["Someone else’s beliefs and values","Core beliefs and values","A completely unrelated topic","A summary of unrelated facts"], answer:1},
-     {q:"A manifesto is often written with a ___ voice.", options:["Completely neutral with no personal viewpoint","Strong, declarative","A voice with no connection to the writer","Extremely vague and uncertain"], answer:1},
-     {q:"Why might a writer use bold, direct statements in a personal manifesto?", options:["Direct statements always weaken this type of writing","Bold statements have no place in a manifesto","To clearly and confidently communicate what they believe and stand for","A manifesto should always avoid expressing clear beliefs"], answer:2},
-     {q:"Which is an example of a statement that might appear in a personal manifesto?", options:["A manifesto contains no personal statements.","This is a random, unrelated fact.","I believe curiosity should guide every choice I make.","The weather today is mild."], answer:2},
-     {q:"Why might writing a personal manifesto help a writer reflect on their own identity?", options:["A manifesto never requires any personal reflection","Personal identity has no connection to this type of writing","It requires clearly articulating their values and what matters most to them","This type of writing has no connection to self-reflection"], answer:2}
+     {q:"Ethos, pathos, and logos are three classic ___ used in persuasive writing.", options:["Types of poems","Grammar rules","Rhetorical appeals","Punctuation marks"], answer:2},
+     {q:"An appeal to logos relies primarily on ___.", options:["Emotional stories","Logical reasoning and evidence","The speaker’s personal credibility","Random opinions"], answer:1},
+     {q:"Why might a writer combine ethos, pathos, and logos in a single piece of persuasive writing?", options:["Combining appeals always weakens an argument","Using multiple appeals can strengthen persuasion by engaging credibility, emotion, and logic together","Only one appeal should ever be used at a time","These appeals cannot be used together"], answer:1},
+     {q:"Which is an example of an appeal to pathos?", options:["Citing a statistic from a peer-reviewed study","Describing a personal tragedy to evoke sympathy","Listing the author’s academic credentials","Presenting a step-by-step logical argument"], answer:1},
+     {q:"Why is understanding rhetorical devices useful when reading persuasive texts, not just writing them?", options:["Rhetorical devices only matter for writers, never for readers","It helps readers recognize how they are being persuaded and evaluate an argument critically","Persuasive texts never use these devices","Recognizing rhetorical devices has no value for readers"], answer:1}
    ]},
   {subject:"Math", title:"Solving Problems with the Sine Law and Cosine Law Together", summary:"Grade 10 Trigonometry strand: some triangle problems require applying both the sine law and cosine law in sequence, depending on which sides and angles are known.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=2IBocBljTJ4",
    quiz:[
      {q:"The sine law is most useful when you know ___.", options:["Only two sides with no angle information","No information about the triangle at all","An angle and its opposite side, along with another angle or side","Three angles with no side information"], answer:2},
      {q:"The cosine law is especially useful when you know ___.", options:["No information about the triangle at all","Two sides and the angle between them, or all three sides","Only two angles with no side information","A single angle with no other information"], answer:1},
@@ -1618,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Microbiology and Infectious Disease", summary:"Grade 10 Biology strand: microbiology studies microorganisms such as bacteria and viruses, including how pathogens cause infectious disease and how the immune system and medical interventions respond to them.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=Wmrlpa1XyMI",
    quiz:[
      {q:"Microbiology studies ___.", options:["Only plants, with no connection to microorganisms","A field unrelated to biology","Microorganisms such as bacteria and viruses","Only large mammals, with no connection to microorganisms"], answer:2},
      {q:"A pathogen is best described as ___.", options:["A part of the skeletal system","A vitamin found in food","A microorganism capable of causing disease","A type of healthy cell"], answer:2},
@@ -1625,14 +1628,15 @@ const curriculum: DayContent[] = [
      {q:"Why is understanding how infectious diseases spread important for public health?", options:["It helps inform strategies to prevent and control outbreaks","Infectious disease spread cannot be studied or understood","This understanding has no connection to public health","Public health has no relevance to microbiology"], answer:0},
      {q:"Why might antibiotics be effective against bacterial infections but not viral infections?", options:["This distinction has no connection to how these treatments work","Antibiotics are equally effective against all types of pathogens","Antibiotics target processes specific to bacteria, which differ significantly from how viruses function","Bacteria and viruses function in an identical way"], answer:2}
    ]},
-  {subject:"History", title:"Regionalism in Canada: Western Alienation and Maritime Identity", summary:"Grade 10 History strand: regionalism in Canada reflects how different parts of the country, such as the West and the Maritimes, have developed distinct political and cultural identities, sometimes leading to feelings of alienation from central Canada.",
+  {subject:"History", title:"The October Crisis and the War Measures Act", summary:"Grade 10 History strand: in October 1970, the kidnapping of government officials by the FLQ led Prime Minister Pierre Trudeau to invoke the War Measures Act, the only peacetime use of this emergency legislation in Canadian history.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=72waIfR-TnQ",
    quiz:[
-     {q:"Regionalism in Canada refers to ___.", options:["The complete absence of any regional differences in Canada","A single, identical identity shared equally across all of Canada","A concept unrelated to Canadian geography or politics","Distinct political and cultural identities developing in different parts of the country"], answer:3},
-     {q:"Western alienation refers to feelings that ___.", options:["Western Canada has no connection to Canadian politics","Western Canadian interests are not adequately represented by central Canada","Western Canada has no distinct political interests","All regions of Canada feel equally represented at all times"], answer:1},
-     {q:"Maritime identity often reflects the region’s connection to ___.", options:["A concept unrelated to regional identity","The ocean, fishing industries, and local traditions","No specific historical or cultural influences","A factor entirely unrelated to the Maritime provinces"], answer:1},
-     {q:"Why is regionalism considered an important concept in Canadian history and politics?", options:["All regions of Canada have always had identical political priorities","It helps explain differing political priorities and tensions across the country","This concept has no relevance to understanding Canadian identity","Regionalism has no connection to Canadian political history"], answer:1},
-     {q:"Why might understanding regionalism help explain certain political debates in Canada?", options:["Regional identity has no connection to political perspectives","National policy is always identical in every region","Regional interests and identities can shape differing perspectives on national policy","Regionalism never influences political debates in Canada"], answer:2}
+     {q:"The October Crisis of 1970 began with kidnappings carried out by ___.", options:["The RCMP","The FLQ (Front de libération du Québec)","The federal Cabinet","A foreign government"], answer:1},
+     {q:"In response to the crisis, Prime Minister Pierre Trudeau invoked ___.", options:["The Constitution Act","The War Measures Act","The Official Languages Act","The Charter of Rights and Freedoms"], answer:1},
+     {q:"Why was the invocation of the War Measures Act during the October Crisis considered historically significant?", options:["It marked the only time this emergency legislation was used in Canada during peacetime","The War Measures Act had been used many times before in peacetime","This law had no real effect on Canadians’ civil liberties","The War Measures Act was never actually applied during the crisis"], answer:0},
+     {q:"One of the major criticisms of the War Measures Act during the October Crisis was that it ___.", options:["Had no impact on anyone’s rights","Suspended civil liberties and allowed arrests without charge","Only applied to government officials","Was welcomed without any public debate"], answer:1},
+     {q:"Why might historians study the October Crisis when examining the balance between civil liberties and national security?", options:["This event has no connection to civil liberties or national security","The crisis illustrates the tension between protecting public safety and preserving individual rights during an emergency","Civil liberties were never a concern during this period","National security issues never arise in Canadian history"], answer:1}
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[

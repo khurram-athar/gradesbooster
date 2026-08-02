@@ -9353,60 +9353,61 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Writing: Crafting a Personal Manifesto",
-        "summary": "Grade 10 English strand: a personal manifesto expresses a writer’s core beliefs and values with a strong, declarative voice, clearly articulating what the writer stands for.",
+        "title": "Writing: Using Rhetorical Devices for Persuasive Effect",
+        "summary": "Grade 10 English strand: rhetorical devices such as ethos, pathos, and logos help writers appeal to an audience’s credibility, emotions, and logic, making persuasive writing more convincing and effective.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=t4ODg51XNYk",
         "quiz": [
           {
-            "q": "A personal manifesto is meant to express a writer’s ___.",
+            "q": "Ethos, pathos, and logos are three classic ___ used in persuasive writing.",
             "options": [
-              "Someone else’s beliefs and values",
-              "Core beliefs and values",
-              "A completely unrelated topic",
-              "A summary of unrelated facts"
+              "Types of poems",
+              "Grammar rules",
+              "Rhetorical appeals",
+              "Punctuation marks"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An appeal to logos relies primarily on ___.",
+            "options": [
+              "Emotional stories",
+              "Logical reasoning and evidence",
+              "The speaker’s personal credibility",
+              "Random opinions"
             ],
             "answer": 1
           },
           {
-            "q": "A manifesto is often written with a ___ voice.",
+            "q": "Why might a writer combine ethos, pathos, and logos in a single piece of persuasive writing?",
             "options": [
-              "Completely neutral with no personal viewpoint",
-              "Strong, declarative",
-              "A voice with no connection to the writer",
-              "Extremely vague and uncertain"
+              "Combining appeals always weakens an argument",
+              "Using multiple appeals can strengthen persuasion by engaging credibility, emotion, and logic together",
+              "Only one appeal should ever be used at a time",
+              "These appeals cannot be used together"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a writer use bold, direct statements in a personal manifesto?",
+            "q": "Which is an example of an appeal to pathos?",
             "options": [
-              "Direct statements always weaken this type of writing",
-              "Bold statements have no place in a manifesto",
-              "To clearly and confidently communicate what they believe and stand for",
-              "A manifesto should always avoid expressing clear beliefs"
+              "Citing a statistic from a peer-reviewed study",
+              "Describing a personal tragedy to evoke sympathy",
+              "Listing the author’s academic credentials",
+              "Presenting a step-by-step logical argument"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Which is an example of a statement that might appear in a personal manifesto?",
+            "q": "Why is understanding rhetorical devices useful when reading persuasive texts, not just writing them?",
             "options": [
-              "A manifesto contains no personal statements.",
-              "This is a random, unrelated fact.",
-              "I believe curiosity should guide every choice I make.",
-              "The weather today is mild."
+              "Rhetorical devices only matter for writers, never for readers",
+              "It helps readers recognize how they are being persuaded and evaluate an argument critically",
+              "Persuasive texts never use these devices",
+              "Recognizing rhetorical devices has no value for readers"
             ],
-            "answer": 2
-          },
-          {
-            "q": "Why might writing a personal manifesto help a writer reflect on their own identity?",
-            "options": [
-              "A manifesto never requires any personal reflection",
-              "Personal identity has no connection to this type of writing",
-              "It requires clearly articulating their values and what matters most to them",
-              "This type of writing has no connection to self-reflection"
-            ],
-            "answer": 2
+            "answer": 1
           }
         ]
       },
@@ -9416,6 +9417,7 @@
         "summary": "Grade 10 Trigonometry strand: some triangle problems require applying both the sine law and cosine law in sequence, depending on which sides and angles are known.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=2IBocBljTJ4",
         "quiz": [
           {
             "q": "The sine law is most useful when you know ___.",
@@ -9475,6 +9477,7 @@
         "summary": "Grade 10 Biology strand: microbiology studies microorganisms such as bacteria and viruses, including how pathogens cause infectious disease and how the immune system and medical interventions respond to them.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=Wmrlpa1XyMI",
         "quiz": [
           {
             "q": "Microbiology studies ___.",
@@ -9530,60 +9533,61 @@
       },
       {
         "subject": "History",
-        "title": "Regionalism in Canada: Western Alienation and Maritime Identity",
-        "summary": "Grade 10 History strand: regionalism in Canada reflects how different parts of the country, such as the West and the Maritimes, have developed distinct political and cultural identities, sometimes leading to feelings of alienation from central Canada.",
+        "title": "The October Crisis and the War Measures Act",
+        "summary": "Grade 10 History strand: in October 1970, the kidnapping of government officials by the FLQ led Prime Minister Pierre Trudeau to invoke the War Measures Act, the only peacetime use of this emergency legislation in Canadian history.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=72waIfR-TnQ",
         "quiz": [
           {
-            "q": "Regionalism in Canada refers to ___.",
+            "q": "The October Crisis of 1970 began with kidnappings carried out by ___.",
             "options": [
-              "The complete absence of any regional differences in Canada",
-              "A single, identical identity shared equally across all of Canada",
-              "A concept unrelated to Canadian geography or politics",
-              "Distinct political and cultural identities developing in different parts of the country"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Western alienation refers to feelings that ___.",
-            "options": [
-              "Western Canada has no connection to Canadian politics",
-              "Western Canadian interests are not adequately represented by central Canada",
-              "Western Canada has no distinct political interests",
-              "All regions of Canada feel equally represented at all times"
+              "The RCMP",
+              "The FLQ (Front de libération du Québec)",
+              "The federal Cabinet",
+              "A foreign government"
             ],
             "answer": 1
           },
           {
-            "q": "Maritime identity often reflects the region’s connection to ___.",
+            "q": "In response to the crisis, Prime Minister Pierre Trudeau invoked ___.",
             "options": [
-              "A concept unrelated to regional identity",
-              "The ocean, fishing industries, and local traditions",
-              "No specific historical or cultural influences",
-              "A factor entirely unrelated to the Maritime provinces"
+              "The Constitution Act",
+              "The War Measures Act",
+              "The Official Languages Act",
+              "The Charter of Rights and Freedoms"
             ],
             "answer": 1
           },
           {
-            "q": "Why is regionalism considered an important concept in Canadian history and politics?",
+            "q": "Why was the invocation of the War Measures Act during the October Crisis considered historically significant?",
             "options": [
-              "All regions of Canada have always had identical political priorities",
-              "It helps explain differing political priorities and tensions across the country",
-              "This concept has no relevance to understanding Canadian identity",
-              "Regionalism has no connection to Canadian political history"
+              "It marked the only time this emergency legislation was used in Canada during peacetime",
+              "The War Measures Act had been used many times before in peacetime",
+              "This law had no real effect on Canadians’ civil liberties",
+              "The War Measures Act was never actually applied during the crisis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "One of the major criticisms of the War Measures Act during the October Crisis was that it ___.",
+            "options": [
+              "Had no impact on anyone’s rights",
+              "Suspended civil liberties and allowed arrests without charge",
+              "Only applied to government officials",
+              "Was welcomed without any public debate"
             ],
             "answer": 1
           },
           {
-            "q": "Why might understanding regionalism help explain certain political debates in Canada?",
+            "q": "Why might historians study the October Crisis when examining the balance between civil liberties and national security?",
             "options": [
-              "Regional identity has no connection to political perspectives",
-              "National policy is always identical in every region",
-              "Regional interests and identities can shape differing perspectives on national policy",
-              "Regionalism never influences political debates in Canada"
+              "This event has no connection to civil liberties or national security",
+              "The crisis illustrates the tension between protecting public safety and preserving individual rights during an emergency",
+              "Civil liberties were never a concern during this period",
+              "National security issues never arise in Canadian history"
             ],
-            "answer": 2
+            "answer": 1
           }
         ]
       }

@@ -9357,6 +9357,7 @@
         "summary": "Grade 12 English strand: the Theatre of the Absurd presents illogical situations and meaningless dialogue to reflect a perceived lack of inherent purpose in human existence, challenging traditional dramatic conventions.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=eJ7w2I83ba4",
         "quiz": [
           {
             "q": "The Theatre of the Absurd presents ___ to reflect a perceived lack of inherent purpose.",
@@ -9476,6 +9477,7 @@
         "summary": "Grade 12 Calculus strand: derivatives can model marginal cost and marginal revenue in economics, representing the rate of change in total cost or revenue with respect to producing one additional unit.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=gMBtjKfEBUY",
         "quiz": [
           {
             "q": "In economics, marginal cost represents the rate of change in total cost with respect to ___.",
@@ -9535,6 +9537,7 @@
         "summary": "Grade 12 Physics strand: dark matter and dark energy are largely unobserved components of the universe inferred from their gravitational effects and their role in the universe’s accelerating expansion.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=9W3RsaWuCuE",
         "quiz": [
           {
             "q": "Dark matter and dark energy are largely inferred from their ___.",
