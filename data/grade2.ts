@@ -6517,6 +6517,386 @@ const curriculum: DayContent[] = [
      {q:"What is peer mediation?", options:["Ignoring a disagreement completely","A teacher solving every problem alone","A type of game","Trained students helping classmates solve disagreements"], answer:3}
    ]},
 ]},
+{day:131, label:"Day 131 — Mon", subjects:[
+  {subject:"Language", title:"Blends: spl, str, and scr", summary:"Grade 2 Language strand: three-letter consonant blends like spl, str, and scr appear at the start of words such as splash, street, and scream.",
+   resourceLabel:"YouTube: Blends: spl, str, and scr", resourceUrl:"https://www.youtube.com/results?search_query=Blends%3A%20spl%2C%20str%2C%20and%20scr%20grade%202%20educational",
+   quiz:[
+     {q:"Which word begins with the spl blend?", options:["Scream","Splash","Street","Sun"], answer:1},
+     {q:"Which word begins with the str blend?", options:["Scream","Splash","Street","Sit"], answer:2},
+     {q:"Which word begins with the scr blend?", options:["Stop","Splash","Street","Scream"], answer:3},
+     {q:"How many letters are in a three-letter blend like str?", options:["Three","Two","Four","Five"], answer:0},
+     {q:"Which of these words has a three-letter blend?", options:["Scrape","Dog","Cat","Sun"], answer:0}
+   ]},
+  {subject:"Math", title:"Multiplying by 4: Doubling Twice", summary:"Grade 2 Math strand: multiplying a number by 4 can be done by doubling it twice, such as doubling 6 to get 12, then doubling 12 to get 24.",
+   resourceLabel:"YouTube: Multiplying by 4: Doubling Twice", resourceUrl:"https://www.youtube.com/results?search_query=Multiplying%20by%204%3A%20Doubling%20Twice%20grade%202%20educational",
+   quiz:[
+     {q:"What is 6 x 4 using the double twice strategy?", options:["22","26","20","24"], answer:3},
+     {q:"What is double 5?", options:["9","12","8","10"], answer:3},
+     {q:"What is 5 x 4 using the double twice strategy?", options:["22","20","18","25"], answer:1},
+     {q:"To multiply by 4 using this strategy, you double a number ___.", options:["Once","Three times","Twice","Four times"], answer:2},
+     {q:"What is 3 x 4 using the double twice strategy?", options:["10","12","11","14"], answer:1}
+   ]},
+  {subject:"Science", title:"The Human Eye: How We See", summary:"Grade 2 Science strand: the eye is the organ we use to see, taking in light and sending signals to the brain so we can understand what we are looking at.",
+   resourceLabel:"YouTube: The Human Eye: How We See", resourceUrl:"https://www.youtube.com/results?search_query=The%20Human%20Eye%3A%20How%20We%20See%20grade%202%20educational",
+   quiz:[
+     {q:"What organ do we use to see?", options:["The skin","The ear","The eye","The nose"], answer:2},
+     {q:"What does the eye take in to help us see?", options:["Sound","Smell","Taste","Light"], answer:3},
+     {q:"After the eye takes in light, where does it send a signal?", options:["The brain","The stomach","The heart","The lungs"], answer:0},
+     {q:"Which of these could damage our eyes if we are not careful?", options:["Reading a book","Looking directly at the sun","Wearing sunglasses","Blinking"], answer:1},
+     {q:"Why is it helpful to have two eyes instead of one?", options:["It helps us smell better","It has no benefit","It helps us judge distance and see depth","It only helps us hear better"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Sir John A Macdonald: Canadas First Prime Minister", summary:"Grade 2 Social Studies strand: Sir John A Macdonald became Canadas first prime minister in 1867, leading the new country after Confederation.",
+   resourceLabel:"YouTube: Sir John A Macdonald: Canadas First Prime Minister", resourceUrl:"https://www.youtube.com/results?search_query=Sir%20John%20A%20Macdonald%3A%20Canadas%20First%20Prime%20Minister%20grade%202%20educational",
+   quiz:[
+     {q:"Who was Canadas first prime minister?", options:["A premier","Terry Fox","A mayor","Sir John A Macdonald"], answer:3},
+     {q:"In what year did Sir John A Macdonald become prime minister?", options:["1867","2000","1965","1812"], answer:0},
+     {q:"What major event happened around the same time he became prime minister?", options:["Confederation","A school opening","A snowstorm","A hockey championship"], answer:0},
+     {q:"What is the main job of a prime minister?", options:["Leading one street","Leading one town","Leading the whole country","Leading one school"], answer:2},
+     {q:"Why do students learn about Canadas first prime minister?", options:["It has no importance","It only matters in other countries","It is a made-up story","To understand how Canada was led as a new country"], answer:3}
+   ]},
+]},
+{day:132, label:"Day 132 — Tue", subjects:[
+  {subject:"Language", title:"Text Features: Sidebars and Fun Facts", summary:"Grade 2 Language strand: sidebars are small boxes of extra information placed beside the main text, often sharing fun facts related to the topic.",
+   resourceLabel:"YouTube: Text Features: Sidebars and Fun Facts", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Sidebars%20and%20Fun%20Facts%20grade%202%20educational",
+   quiz:[
+     {q:"What is a sidebar?", options:["The table of contents","The books cover","A small box of extra information beside the main text","The last page"], answer:2},
+     {q:"What kind of information might a sidebar contain?", options:["Fun facts related to the topic","Nothing at all","The books price","A random unrelated story"], answer:0},
+     {q:"Where is a sidebar usually placed on a page?", options:["Beside the main text","Only on the cover","Only on the last page","Inside the main paragraph"], answer:0},
+     {q:"Why might an author include a sidebar?", options:["It has no purpose","To confuse the reader","To share extra, interesting information","To replace the whole chapter"], answer:2},
+     {q:"Which text feature is most similar to a sidebar in purpose?", options:["A caption","A table of contents","The title page","The back cover"], answer:0}
+   ]},
+  {subject:"Math", title:"Dividing Using Arrays", summary:"Grade 2 Math strand: an array of equal rows and columns can help students divide a total into equal groups, showing how many are in each row.",
+   resourceLabel:"YouTube: Dividing Using Arrays", resourceUrl:"https://www.youtube.com/results?search_query=Dividing%20Using%20Arrays%20grade%202%20educational",
+   quiz:[
+     {q:"If 12 objects are arranged in an array with 3 rows, how many are in each row?", options:["5","3","4","6"], answer:2},
+     {q:"If 20 objects are arranged in an array with 4 rows, how many are in each row?", options:["4","7","5","6"], answer:2},
+     {q:"An array can help us divide a total into ___.", options:["Equal groups","Random groups","No groups at all","One giant group"], answer:0},
+     {q:"If 15 objects are arranged in an array with 5 rows, how many are in each row?", options:["3","5","2","4"], answer:0},
+     {q:"Using an array to divide is helpful because it shows ___.", options:["Colours","Equal rows and columns","Fractions only","Only the total, not the groups"], answer:1}
+   ]},
+  {subject:"Science", title:"Ocean Tides: The Rise and Fall of the Sea", summary:"Grade 2 Science strand: ocean tides are the regular rising and falling of sea water along the shore, caused mainly by the pull of the moons gravity.",
+   resourceLabel:"YouTube: Ocean Tides: The Rise and Fall of the Sea", resourceUrl:"https://www.youtube.com/results?search_query=Ocean%20Tides%3A%20The%20Rise%20and%20Fall%20of%20the%20Sea%20grade%202%20educational",
+   quiz:[
+     {q:"What are ocean tides?", options:["A type of ocean animal","A colour of the ocean","A kind of storm","The regular rising and falling of sea water"], answer:3},
+     {q:"What mainly causes ocean tides?", options:["Fish swimming","The pull of the moons gravity","The wind alone","The sun disappearing"], answer:1},
+     {q:"About how often do tides usually rise and fall each day?", options:["A few times a day","Once a month","Once a year","Never"], answer:0},
+     {q:"At low tide, the water level along the shore is ___.", options:["Boiling","Frozen","Lower than usual","Higher than usual"], answer:2},
+     {q:"Tides are an example of how the ocean ___.", options:["Never changes","Disappears completely","Changes in a regular pattern","Turns to ice daily"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Bank of Canada: Where Our Money Comes From", summary:"Grade 2 Social Studies strand: the Bank of Canada is the national bank that designs and issues Canadian money and helps manage the countrys economy.",
+   resourceLabel:"YouTube: The Bank of Canada: Where Our Money Comes From", resourceUrl:"https://www.youtube.com/results?search_query=The%20Bank%20of%20Canada%3A%20Where%20Our%20Money%20Comes%20From%20grade%202%20educational",
+   quiz:[
+     {q:"What does the Bank of Canada do?", options:["Delivers mail","Designs and issues Canadian money","Sells groceries","Teaches school"], answer:1},
+     {q:"Is the Bank of Canada the same as a regular bank you visit in town?", options:["It does not exist","It only exists in one city","No, it has a different, national role","Yes, exactly the same"], answer:2},
+     {q:"Which of these is a job of the Bank of Canada?", options:["Helping manage the countrys economy","Growing crops","Coaching sports teams","Building roads"], answer:0},
+     {q:"Where does the design of Canadian bills and coins come from?", options:["The Bank of Canada and the Royal Canadian Mint","No one designs them","A random guess","Another country"], answer:0},
+     {q:"Learning about the Bank of Canada helps students understand ___.", options:["A made-up story","Nothing about money","Only foreign banks","How money is managed in the country"], answer:3}
+   ]},
+]},
+{day:133, label:"Day 133 — Wed", subjects:[
+  {subject:"Language", title:"Writing a Postcard: Sharing News in a Short Message", summary:"Grade 2 Language strand: a postcard is a short, friendly message that shares quick news or a memory, often written while traveling.",
+   resourceLabel:"YouTube: Writing a Postcard: Sharing News in a Short Message", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20a%20Postcard%3A%20Sharing%20News%20in%20a%20Short%20Message%20grade%202%20educational",
+   quiz:[
+     {q:"What is a postcard?", options:["A legal document","A long formal report","A math worksheet","A short, friendly message sharing quick news"], answer:3},
+     {q:"When might someone write a postcard?", options:["During a fire drill","While traveling, to share news with someone at home","While sleeping","During a math test"], answer:1},
+     {q:"Which of these is typical postcard content?", options:["A grocery list only","A detailed scientific report","A quick update about a fun trip","A legal contract"], answer:2},
+     {q:"How is a postcard different from a long letter?", options:["A postcard is always longer","A postcard has no message","A postcard is much shorter","They are the same length always"], answer:2},
+     {q:"A postcard usually includes ___.", options:["A math equation","A legal signature only","A short message and the senders name","A full novel"], answer:2}
+   ]},
+  {subject:"Math", title:"Elapsed Time on a Number Line", summary:"Grade 2 Math strand: students use a number line to find elapsed time, jumping forward in minutes or hours from a start time to an end time.",
+   resourceLabel:"YouTube: Elapsed Time on a Number Line", resourceUrl:"https://www.youtube.com/results?search_query=Elapsed%20Time%20on%20a%20Number%20Line%20grade%202%20educational",
+   quiz:[
+     {q:"If you start at 2:00 and jump forward 30 minutes on a number line, what time do you reach?", options:["2:45","2:15","3:00","2:30"], answer:3},
+     {q:"If you start at 5:00 and jump forward 1 hour on a number line, what time do you reach?", options:["5:15","6:30","5:30","6:00"], answer:3},
+     {q:"A number line can help us find elapsed time by showing ___.", options:["Jumps forward in time","Only colours","Only shapes","Random numbers"], answer:0},
+     {q:"If you start at 10:00 and jump forward 45 minutes, what time do you reach?", options:["11:15","10:45","10:15","10:30"], answer:1},
+     {q:"Using a number line to solve elapsed time problems is a way to ___.", options:["Ignore the problem","Skip counting altogether","Avoid using numbers","Visualize the passage of time"], answer:3}
+   ]},
+  {subject:"Science", title:"The Water Table: Water Beneath Our Feet", summary:"Grade 2 Science strand: the water table is the underground level where the soil and rock are completely filled with water, an important source for wells.",
+   resourceLabel:"YouTube: The Water Table: Water Beneath Our Feet", resourceUrl:"https://www.youtube.com/results?search_query=The%20Water%20Table%3A%20Water%20Beneath%20Our%20Feet%20grade%202%20educational",
+   quiz:[
+     {q:"What is the water table?", options:["A type of cloud","A kitchen table","The underground level filled with water","A frozen lake"], answer:2},
+     {q:"Where is the water table located?", options:["In the sky","On the surface of the ocean","Inside a plant","Underground"], answer:3},
+     {q:"What can people dig to reach the water table?", options:["A sandcastle","A tunnel to space","A birdhouse","A well"], answer:3},
+     {q:"Why is the water table important?", options:["It causes storms","It stops all rain","It is a source of water for wells","It has no importance"], answer:2},
+     {q:"The water table can rise or fall depending on ___.", options:["The type of music played","The day of the week","The colour of the sky","How much rain falls and is used"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Our Coast Guard: Keeping People Safe on the Water", summary:"Grade 2 Social Studies strand: the Canadian Coast Guard helps keep people safe on lakes, rivers, and oceans, responding to emergencies and helping ships navigate safely.",
+   resourceLabel:"YouTube: Our Coast Guard: Keeping People Safe on the Water", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Coast%20Guard%3A%20Keeping%20People%20Safe%20on%20the%20Water%20grade%202%20educational",
+   quiz:[
+     {q:"What does the Coast Guard help keep people safe on?", options:["The water","The playground","The road","The classroom"], answer:0},
+     {q:"What might the Coast Guard do during a water emergency?", options:["Close all the water","Respond and help people in danger","Ignore the emergency","Only work on land"], answer:1},
+     {q:"Which of these might the Coast Guard help with?", options:["Guiding ships safely","Teaching math class","Building houses","Growing crops"], answer:0},
+     {q:"Why is the Coast Guard an important community helper?", options:["It works only one day a year","It has no purpose","It only helps on land","It helps keep people safe on the water"], answer:3},
+     {q:"The Coast Guard is an example of a ___.", options:["Public safety service","Kind of food","Type of vehicle only","Type of weather"], answer:0}
+   ]},
+]},
+{day:134, label:"Day 134 — Thu", subjects:[
+  {subject:"Language", title:"Reading Strategy: Rereading for Understanding", summary:"Grade 2 Language strand: rereading a confusing sentence or paragraph is a helpful strategy that gives readers a second chance to understand tricky parts of a text.",
+   resourceLabel:"YouTube: Reading Strategy: Rereading for Understanding", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Strategy%3A%20Rereading%20for%20Understanding%20grade%202%20educational",
+   quiz:[
+     {q:"What is rereading as a reading strategy?", options:["Reading a confusing part again to understand it better","Reading only the last page","Skipping confusing parts forever","Reading the whole book backwards"], answer:0},
+     {q:"When might a reader use the rereading strategy?", options:["Only after finishing the whole book","When a part of the text is confusing","Never","Only during recess"], answer:1},
+     {q:"Why is rereading a helpful strategy?", options:["It gives readers another chance to understand","It confuses readers further","It replaces reading completely","It wastes time with no benefit"], answer:0},
+     {q:"Which is an example of using the rereading strategy?", options:["Throwing the book away","Going back to reread a confusing sentence","Reading a different book instead","Skipping to the end immediately"], answer:1},
+     {q:"Rereading is especially useful for understanding ___.", options:["The authors birthday","The books cover colour","The price of the book","Difficult or confusing parts of a text"], answer:3}
+   ]},
+  {subject:"Math", title:"Comparing Fractions with the Same Numerator", summary:"Grade 2 Math strand: when two fractions have the same numerator, the fraction with the smaller denominator is greater, since its parts are larger.",
+   resourceLabel:"YouTube: Comparing Fractions with the Same Numerator", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Fractions%20with%20the%20Same%20Numerator%20grade%202%20educational",
+   quiz:[
+     {q:"Which is greater, 1/3 or 1/5?", options:["They are equal","1/3","Cannot tell","1/5"], answer:1},
+     {q:"Which is greater, 2/4 or 2/8?", options:["2/8","2/4","They are equal","Cannot tell"], answer:1},
+     {q:"When two fractions have the same numerator, which one is greater?", options:["The one with the smaller denominator","Neither is greater","They are always equal","The one with the larger denominator"], answer:0},
+     {q:"Which is greater, 3/5 or 3/10?", options:["They are equal","3/5","3/10","Cannot tell"], answer:1},
+     {q:"A smaller denominator with the same numerator means ___.", options:["Smaller parts always","No difference at all","The fraction equals zero","Larger, fewer parts, so each part is bigger"], answer:3}
+   ]},
+  {subject:"Science", title:"Genetics Basics: Why We Look Like Our Family", summary:"Grade 2 Science strand: living things inherit traits, like eye colour or height, from their parents, which is why children often look similar to their families.",
+   resourceLabel:"YouTube: Genetics Basics: Why We Look Like Our Family", resourceUrl:"https://www.youtube.com/results?search_query=Genetics%20Basics%3A%20Why%20We%20Look%20Like%20Our%20Family%20grade%202%20educational",
+   quiz:[
+     {q:"What are traits passed down from parents called?", options:["Random traits","Borrowed traits","Fake traits","Inherited traits"], answer:3},
+     {q:"Give an example of a trait a child might inherit from a parent.", options:["A school subject","Eye colour","Favourite toy","A pet"], answer:1},
+     {q:"Why do children often look similar to their parents?", options:["Children copy their parents on purpose","It is always a coincidence","There is no reason","They inherit traits from their parents"], answer:3},
+     {q:"Which of these is an inherited trait, not a learned skill?", options:["Hair colour","Playing a sport","Speaking a language","Riding a bike"], answer:0},
+     {q:"Inherited traits come from a living things ___.", options:["Friends","Teachers","Parents","Neighbours"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Why Canada Uses the Metric System", summary:"Grade 2 Social Studies strand: Canada officially switched to the metric system in the 1970s, using units like metres and litres instead of feet and gallons.",
+   resourceLabel:"YouTube: Why Canada Uses the Metric System", resourceUrl:"https://www.youtube.com/results?search_query=Why%20Canada%20Uses%20the%20Metric%20System%20grade%202%20educational",
+   quiz:[
+     {q:"What measurement system does Canada officially use?", options:["The metric system","No system at all","A made-up system","A different system every year"], answer:0},
+     {q:"Which of these is a metric unit used in Canada?", options:["Gallons","Feet","Metres","Miles"], answer:2},
+     {q:"When did Canada officially switch to the metric system?", options:["In 1867","In 1812","Last year","In the 1970s"], answer:3},
+     {q:"Why might a country choose to use one standard measurement system?", options:["To avoid using numbers","To make measuring consistent for everyone","To confuse people on purpose","It has no benefit"], answer:1},
+     {q:"Which of these is measured using the metric system in Canada?", options:["Temperature in Fahrenheit","Distance in miles","Distance in kilometres","Weight in pounds"], answer:2}
+   ]},
+]},
+{day:135, label:"Day 135 — Fri", subjects:[
+  {subject:"Language", title:"Debate Writing: Presenting Two Sides of an Argument", summary:"Grade 2 Language strand: debate writing presents two different sides of an argument, helping readers understand different viewpoints before forming their own opinion.",
+   resourceLabel:"YouTube: Debate Writing: Presenting Two Sides of an Argument", resourceUrl:"https://www.youtube.com/results?search_query=Debate%20Writing%3A%20Presenting%20Two%20Sides%20of%20an%20Argument%20grade%202%20educational",
+   quiz:[
+     {q:"What does debate writing present?", options:["A made-up fantasy story","Two different sides of an argument","Only one opinion with no other side","A recipe"], answer:1},
+     {q:"Why is it useful to consider both sides of an argument?", options:["It helps readers understand different viewpoints","It confuses readers on purpose","It replaces facts with opinions only","It has no use"], answer:0},
+     {q:"Which is an example of presenting two sides of a topic?", options:["Some people think recess should be longer, while others disagree.","Recess is definitely the best part of school.","I love recess.","Recess starts at noon."], answer:0},
+     {q:"Debate writing is often used to help people ___.", options:["Form their own opinion after hearing both sides","Ignore all opinions","Avoid thinking about a topic","Only hear one side of a topic"], answer:0},
+     {q:"Which skill is important when writing about both sides of an argument?", options:["Refusing to explain either side","Only supporting one side unfairly","Being fair to each viewpoint","Ignoring all evidence"], answer:2}
+   ]},
+  {subject:"Math", title:"Data: Creating a Double Bar Graph", summary:"Grade 2 Math strand: a double bar graph shows two sets of data side by side for each category, making it easy to compare them.",
+   resourceLabel:"YouTube: Data: Creating a Double Bar Graph", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Creating%20a%20Double%20Bar%20Graph%20grade%202%20educational",
+   quiz:[
+     {q:"What does a double bar graph show?", options:["No data at all","Only one set of data","Only colours","Two sets of data side by side"], answer:3},
+     {q:"Why might someone use a double bar graph?", options:["It has no purpose","To make a graph harder to read","To compare two sets of data easily","To hide information"], answer:2},
+     {q:"If a double bar graph compares boys and girls favourite fruit, how many bars would there be for each fruit?", options:["Two","Three","Four","One"], answer:0},
+     {q:"A double bar graph is especially useful for ___.", options:["Hiding data","Avoiding comparisons","Comparing two groups at once","Showing only one number"], answer:2},
+     {q:"In a double bar graph, each category usually has ___ bars.", options:["Two","Zero","Ten","One"], answer:0}
+   ]},
+  {subject:"Science", title:"Simple Chemical Reactions: Baking Soda and Vinegar", summary:"Grade 2 Science strand: mixing baking soda and vinegar causes a chemical reaction that creates bubbles of gas, showing how mixing certain materials can create something new.",
+   resourceLabel:"YouTube: Simple Chemical Reactions: Baking Soda and Vinegar", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Chemical%20Reactions%3A%20Baking%20Soda%20and%20Vinegar%20grade%202%20educational",
+   quiz:[
+     {q:"What happens when you mix baking soda and vinegar?", options:["They turn into ice","Nothing happens at all","They disappear completely","They react and create bubbles of gas"], answer:3},
+     {q:"What is created when baking soda and vinegar react?", options:["A rainbow","A new solid rock","Sound only","Bubbles of gas"], answer:3},
+     {q:"Is mixing baking soda and vinegar an example of a chemical reaction?", options:["Yes","Only sometimes","Never","No"], answer:0},
+     {q:"A chemical reaction happens when materials combine to ___.", options:["Stay exactly the same","Disappear with no trace","Become invisible","Create something new"], answer:3},
+     {q:"Which of these is a sign that a chemical reaction is happening?", options:["Complete silence with no change","Bubbles or fizzing","Nothing changing at all","The object turning invisible"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Truth and Reconciliation Day: Learning and Remembering", summary:"Grade 2 Social Studies strand: Truth and Reconciliation Day, on September 30, is a day when Canadians learn about and remember Indigenous children and communities, and work toward a fairer future together.",
+   resourceLabel:"YouTube: Truth and Reconciliation Day: Learning and Remembering", resourceUrl:"https://www.youtube.com/results?search_query=Truth%20and%20Reconciliation%20Day%3A%20Learning%20and%20Remembering%20grade%202%20educational",
+   quiz:[
+     {q:"When is Truth and Reconciliation Day observed in Canada?", options:["September 30","February 14","July 1","December 25"], answer:0},
+     {q:"What is the purpose of Truth and Reconciliation Day?", options:["To learn about and remember Indigenous children and communities","To ignore Canadian history","To mark the start of school","To celebrate a sports team"], answer:0},
+     {q:"What colour is often worn on this day to show support and remembrance?", options:["Purple","Blue","Orange","Green"], answer:2},
+     {q:"Why is it important for schools to teach about Truth and Reconciliation Day?", options:["To help students understand history and work toward fairness","Only adults need to know about it","It is not important","To avoid learning about Canada"], answer:0},
+     {q:"Truth and Reconciliation Day encourages Canadians to work toward ___.", options:["Avoiding important conversations","A fairer future together","Ignoring each other","Forgetting the past completely"], answer:1}
+   ]},
+]},
+{day:136, label:"Day 136 — Mon", subjects:[
+  {subject:"Language", title:"Adages and Proverbs: Wise Sayings", summary:"Grade 2 Language strand: adages and proverbs are short, wise sayings passed down over time, such as look before you leap, that teach a lesson in just a few words.",
+   resourceLabel:"YouTube: Adages and Proverbs: Wise Sayings", resourceUrl:"https://www.youtube.com/results?search_query=Adages%20and%20Proverbs%3A%20Wise%20Sayings%20grade%202%20educational",
+   quiz:[
+     {q:"What is an adage or proverb?", options:["A math equation","A short, wise saying that teaches a lesson","A type of punctuation","A characters name"], answer:1},
+     {q:"What does the proverb look before you leap teach us?", options:["To never look at anything","To leap without thinking","To jump as high as possible","To think carefully before acting"], answer:3},
+     {q:"Why do people use proverbs?", options:["To confuse listeners on purpose","To share wisdom in a short, memorable way","To replace all other kinds of speech","They have no meaning"], answer:1},
+     {q:"Which of these is an example of a proverb?", options:["The sky is blue.","Better late than never.","What time is it?","I have a red bike."], answer:1},
+     {q:"Proverbs are often passed down through ___.", options:["A weather report","A math textbook only","A single scientific study","Generations of people"], answer:3}
+   ]},
+  {subject:"Math", title:"Fractions Greater Than One: Introducing Mixed Numbers", summary:"Grade 2 Math strand: a mixed number combines a whole number and a fraction, such as 1 and 1/2, to show an amount greater than one whole.",
+   resourceLabel:"YouTube: Fractions Greater Than One: Introducing Mixed Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%20Greater%20Than%20One%3A%20Introducing%20Mixed%20Numbers%20grade%202%20educational",
+   quiz:[
+     {q:"What is a mixed number?", options:["A decimal only","A whole number combined with a fraction","A whole number only","A fraction with no whole number"], answer:1},
+     {q:"What does the mixed number 1 and 1/2 represent?", options:["Half of one whole only","One whole and half of another","Three halves as a whole number","Two wholes"], answer:1},
+     {q:"If you have one whole pizza and half of another, how would you write this as a mixed number?", options:["1/2","1 and 1/2","2","3/2 only, no mixed form"], answer:1},
+     {q:"A mixed number is used when an amount is ___.", options:["Greater than one whole","Always exactly one","Never a fraction","Always less than one"], answer:0},
+     {q:"Which of these is an example of a mixed number?", options:["1/4","2 and 1/4","0","4"], answer:1}
+   ]},
+  {subject:"Science", title:"The Layers of the Atmosphere: Air Above Us", summary:"Grade 2 Science strand: the atmosphere is made of layers of air surrounding the Earth, protecting us from the suns strong rays and giving us air to breathe.",
+   resourceLabel:"YouTube: The Layers of the Atmosphere: Air Above Us", resourceUrl:"https://www.youtube.com/results?search_query=The%20Layers%20of%20the%20Atmosphere%3A%20Air%20Above%20Us%20grade%202%20educational",
+   quiz:[
+     {q:"What is the atmosphere?", options:["A layer of rock","A kind of cloud only","Layers of air surrounding the Earth","A type of ocean"], answer:2},
+     {q:"What does the atmosphere give living things to breathe?", options:["Sand","Water","Sunlight only","Air"], answer:3},
+     {q:"How does the atmosphere help protect Earth?", options:["It has no protective purpose","It blocks some of the suns strong rays","It blocks all sunlight completely","It causes all storms"], answer:1},
+     {q:"Which of these is part of the atmosphere?", options:["The core of the Earth","The rocky crust","The air we breathe","The ocean floor"], answer:2},
+     {q:"Without the atmosphere, Earth would not have ___ for living things to breathe.", options:["Gravity","Sound","Colour","Air"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Our Charter of Rights and Freedoms: Protecting Our Rights", summary:"Grade 2 Social Studies strand: the Canadian Charter of Rights and Freedoms is a document that protects important rights for everyone in Canada, such as freedom of speech and equality.",
+   resourceLabel:"YouTube: Our Charter of Rights and Freedoms: Protecting Our Rights", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Charter%20of%20Rights%20and%20Freedoms%3A%20Protecting%20Our%20Rights%20grade%202%20educational",
+   quiz:[
+     {q:"What does the Charter of Rights and Freedoms protect?", options:["Important rights for everyone in Canada","Nothing important","Only the rights of adults","Only the rights of one city"], answer:0},
+     {q:"Which of these is a right the Charter protects?", options:["The right to ignore rules","Freedom of speech","The right to be unfair","The right to skip school"], answer:1},
+     {q:"Why is the Charter of Rights and Freedoms important?", options:["It only protects a few people","It removes everyones rights","It has no importance","It helps protect fairness and rights for everyone"], answer:3},
+     {q:"The Charter of Rights and Freedoms is part of ___.", options:["A foreign countrys rules","Canadian law","A school rulebook only","A fictional story"], answer:1},
+     {q:"Learning about the Charter helps students understand ___.", options:["Only rules for teachers","A made-up idea","Their rights as Canadians","Nothing useful"], answer:2}
+   ]},
+]},
+{day:137, label:"Day 137 — Tue", subjects:[
+  {subject:"Language", title:"Author Study: Learning About a Writers Style", summary:"Grade 2 Language strand: an author study looks closely at one writer, exploring the special style, topics, or techniques that make their books recognizable.",
+   resourceLabel:"YouTube: Author Study: Learning About a Writers Style", resourceUrl:"https://www.youtube.com/results?search_query=Author%20Study%3A%20Learning%20About%20a%20Writers%20Style%20grade%202%20educational",
+   quiz:[
+     {q:"What is an author study?", options:["A close look at one writer and their style","A study of maps","A study of weather patterns","A study of math facts"], answer:0},
+     {q:"What might students explore during an author study?", options:["The price of the book","Random unrelated facts","Nothing about the author","The writers style, topics, and techniques"], answer:3},
+     {q:"Why is it helpful to study one author closely?", options:["It confuses readers on purpose","It helps readers notice patterns in their writing","It replaces reading their books","It has no benefit"], answer:1},
+     {q:"Which of these might you notice during an author study?", options:["The number of pages only","The books price","The author often uses humour in their stories","The books exact weight"], answer:2},
+     {q:"An author study can help readers ___.", options:["Understand what makes a writer unique","Only look at pictures","Avoid reading altogether","Ignore all books by that author"], answer:0}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Metres to Centimetres", summary:"Grade 2 Math strand: students convert between metres and centimetres, remembering that one metre equals one hundred centimetres.",
+   resourceLabel:"YouTube: Measurement: Converting Metres to Centimetres", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Converting%20Metres%20to%20Centimetres%20grade%202%20educational",
+   quiz:[
+     {q:"How many centimetres are in 1 metre?", options:["1000","50","100","10"], answer:2},
+     {q:"How many centimetres are in 2 metres?", options:["100","2000","200","20"], answer:2},
+     {q:"If an object is 150 centimetres long, how many metres is that?", options:["1.5 metres","15 metres","1 metre","150 metres"], answer:0},
+     {q:"To convert metres to centimetres, we ___.", options:["Subtract 100","Add 100","Divide by 100","Multiply by 100"], answer:3},
+     {q:"How many centimetres are in 3 metres?", options:["3","30","3000","300"], answer:3}
+   ]},
+  {subject:"Science", title:"Whales and Dolphins: Ocean Mammals", summary:"Grade 2 Science strand: whales and dolphins are mammals that live in the ocean, breathe air through blowholes, and give birth to live young rather than laying eggs.",
+   resourceLabel:"YouTube: Whales and Dolphins: Ocean Mammals", resourceUrl:"https://www.youtube.com/results?search_query=Whales%20and%20Dolphins%3A%20Ocean%20Mammals%20grade%202%20educational",
+   quiz:[
+     {q:"Are whales and dolphins classified as mammals or fish?", options:["Amphibians","Mammals","Reptiles","Fish"], answer:1},
+     {q:"How do whales and dolphins breathe air?", options:["Through gills","They do not breathe","Through their skin","Through a blowhole"], answer:3},
+     {q:"Do whales lay eggs or give birth to live young?", options:["Neither","Both equally","Give birth to live young","Lay eggs"], answer:2},
+     {q:"Why are whales and dolphins considered mammals and not fish?", options:["They swim fast","They live in water","They breathe air and give birth to live young","They are large"], answer:2},
+     {q:"Which of these is an ocean mammal?", options:["Shark","Dolphin","Starfish","Jellyfish"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Klondike Gold Rush: A Canadian Adventure", summary:"Grade 2 Social Studies strand: the Klondike Gold Rush was a time in the late 1800s when thousands of people travelled to the Yukon hoping to find gold.",
+   resourceLabel:"YouTube: The Klondike Gold Rush: A Canadian Adventure", resourceUrl:"https://www.youtube.com/results?search_query=The%20Klondike%20Gold%20Rush%3A%20A%20Canadian%20Adventure%20grade%202%20educational",
+   quiz:[
+     {q:"What did people search for during the Klondike Gold Rush?", options:["Coal","Oil","Silver","Gold"], answer:3},
+     {q:"In which part of Canada did the Klondike Gold Rush happen?", options:["Nova Scotia","Quebec","The Yukon","Ontario"], answer:2},
+     {q:"When did the Klondike Gold Rush take place?", options:["Last year","The 1600s","The late 1800s","The future"], answer:2},
+     {q:"Why did so many people travel to the Yukon during this time?", options:["They wanted to visit the ocean","There was no reason","They were forced to move","They hoped to find gold and become wealthy"], answer:3},
+     {q:"Learning about the Klondike Gold Rush helps us understand ___.", options:["Only modern events","A fictional tale","An exciting part of Canadian history","Nothing about Canada"], answer:2}
+   ]},
+]},
+{day:138, label:"Day 138 — Wed", subjects:[
+  {subject:"Language", title:"Compound Sentences: Joining Ideas with Yet", summary:"Grade 2 Language strand: compound sentences can join two ideas using the word yet to show contrast, similar to but, as in the game was long, yet exciting.",
+   resourceLabel:"YouTube: Compound Sentences: Joining Ideas with Yet", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Sentences%3A%20Joining%20Ideas%20with%20Yet%20grade%202%20educational",
+   quiz:[
+     {q:"What does the word yet usually show when joining two ideas?", options:["Choice","Addition","Time order","Contrast"], answer:3},
+     {q:"Which sentence correctly uses yet to join two ideas?", options:["The soup was hot, yet delicious.","The soup was hot yet.","The soup was hot, delicious.","Was hot yet the soup delicious."], answer:0},
+     {q:"Is yet similar in meaning to but?", options:["Yet has no meaning","They are opposites","Yes","No"], answer:2},
+     {q:"Which word could replace yet in a sentence showing contrast?", options:["Or","But","So","And"], answer:1},
+     {q:"Compound sentences join two complete ideas using words such as ___.", options:["Run, jump, skip","And, but, or, yet","Red, blue, green","The, a, an"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: Predicting with a Spinner", summary:"Grade 2 Math strand: students use a spinner divided into sections to make predictions about which colour or number is more likely to be landed on.",
+   resourceLabel:"YouTube: Probability: Predicting with a Spinner", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Predicting%20with%20a%20Spinner%20grade%202%20educational",
+   quiz:[
+     {q:"If a spinner has 3 red sections and 1 blue section, which colour is more likely to be landed on?", options:["Neither","Blue","Both equally likely","Red"], answer:3},
+     {q:"If a spinner is divided into equal sections of red and blue, are the outcomes equally likely?", options:["No","Red is always more likely","Blue is always more likely","Yes"], answer:3},
+     {q:"What does a larger section on a spinner usually mean?", options:["A greater chance of landing there","A smaller chance of landing there","It has no effect on chance","No chance at all"], answer:0},
+     {q:"If a spinner has only one colour, what is the chance of landing on that colour?", options:["Unlikely","Certain","Impossible","Never"], answer:1},
+     {q:"Using a spinner to explore chance is an example of studying ___.", options:["Perimeter","Symmetry","Area","Probability"], answer:3}
+   ]},
+  {subject:"Science", title:"Migratory Birds: Long Journeys Across Continents", summary:"Grade 2 Science strand: migratory birds travel very long distances each year between their summer and winter homes, often flying across countries or even continents.",
+   resourceLabel:"YouTube: Migratory Birds: Long Journeys Across Continents", resourceUrl:"https://www.youtube.com/results?search_query=Migratory%20Birds%3A%20Long%20Journeys%20Across%20Continents%20grade%202%20educational",
+   quiz:[
+     {q:"What are migratory birds known for doing?", options:["Sleeping all year","Staying in one place forever","Traveling long distances between homes each year","Never flying"], answer:2},
+     {q:"Why might birds migrate to a different area?", options:["To find better weather or food","To avoid flying","To stay cold all year","For no reason at all"], answer:0},
+     {q:"How far might some migratory birds travel?", options:["Only underwater","Across countries or even continents","Never more than their nest","Only a few steps"], answer:1},
+     {q:"Which season might trigger some birds to begin migrating?", options:["The changing of seasons, like fall approaching","A holiday","A full moon only","A birthday"], answer:0},
+     {q:"Migration helps birds find ___ throughout the year.", options:["Less food","Nothing useful","More danger","Better food and weather"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"O Canada: The Story of Our National Anthem", summary:"Grade 2 Social Studies strand: O Canada is our national anthem, a special song that represents pride in and respect for our country, sung at many events across Canada.",
+   resourceLabel:"YouTube: O Canada: The Story of Our National Anthem", resourceUrl:"https://www.youtube.com/results?search_query=O%20Canada%3A%20The%20Story%20of%20Our%20National%20Anthem%20grade%202%20educational",
+   quiz:[
+     {q:"What is the name of Canadas national anthem?", options:["True North","O Canada","This Land Is Your Land","God Save the King"], answer:1},
+     {q:"Why do people sing the national anthem?", options:["It is required with no meaning","To warm up before recess","To show pride and respect for their country","It has no reason"], answer:2},
+     {q:"Where might you hear O Canada being sung?", options:["Only in outer space","At a school assembly or hockey game","Only in other countries","Never anywhere"], answer:1},
+     {q:"A national anthem is a special ___ for a country.", options:["Song","Food","Animal","Building"], answer:0},
+     {q:"Singing O Canada is one way people show they ___ their country.", options:["Forget","Ignore","Care about","Dislike"], answer:2}
+   ]},
+]},
+{day:139, label:"Day 139 — Thu", subjects:[
+  {subject:"Language", title:"Editorial Cartoons: Pictures That Share an Opinion", summary:"Grade 2 Language strand: an editorial cartoon uses pictures and few words to share an opinion about a topic or event, often in a funny or exaggerated way.",
+   resourceLabel:"YouTube: Editorial Cartoons: Pictures That Share an Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Editorial%20Cartoons%3A%20Pictures%20That%20Share%20an%20Opinion%20grade%202%20educational",
+   quiz:[
+     {q:"What does an editorial cartoon share?", options:["A math problem","An opinion about a topic or event","A weather forecast only","Only facts with no opinion"], answer:1},
+     {q:"How does an editorial cartoon usually share its message?", options:["Through numbers only","Through pictures and few words","Through silence","Through a long essay"], answer:1},
+     {q:"Editorial cartoons are often drawn in a ___ way.", options:["Completely serious with no humour","Funny or exaggerated","Blank","Invisible"], answer:1},
+     {q:"Why might someone create an editorial cartoon?", options:["To confuse the reader completely","It has no purpose","To share an opinion in a quick, visual way","To share only facts with no viewpoint"], answer:2},
+     {q:"Editorial cartoons are most similar to ___.", options:["A math worksheet","Persuasive writing in picture form","A dictionary entry","A recipe"], answer:1}
+   ]},
+  {subject:"Math", title:"Skip Counting by 25s to Count Money", summary:"Grade 2 Math strand: students skip count by 25s to quickly find the value of a group of quarters, such as 25, 50, 75, and 100 cents.",
+   resourceLabel:"YouTube: Skip Counting by 25s to Count Money", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%2025s%20to%20Count%20Money%20grade%202%20educational",
+   quiz:[
+     {q:"What comes next: 25, 50, 75, ___?", options:["100","90","85","110"], answer:0},
+     {q:"What is the value of four quarters skip counted by 25s?", options:["75 cents","90 cents","100 cents","50 cents"], answer:2},
+     {q:"Skip counting by 25s helps us count ___ quickly.", options:["Pennies","Nickels","Quarters","Dimes"], answer:2},
+     {q:"What comes next: 100, 125, 150, ___?", options:["200","160","165","175"], answer:3},
+     {q:"Three quarters together are worth ___.", options:["100 cents","75 cents","50 cents","65 cents"], answer:1}
+   ]},
+  {subject:"Science", title:"Coral Polyps: The Tiny Animals That Build Reefs", summary:"Grade 2 Science strand: coral reefs are built by tiny animals called coral polyps, which live together in large colonies and form hard skeletons over time.",
+   resourceLabel:"YouTube: Coral Polyps: The Tiny Animals That Build Reefs", resourceUrl:"https://www.youtube.com/results?search_query=Coral%20Polyps%3A%20The%20Tiny%20Animals%20That%20Build%20Reefs%20grade%202%20educational",
+   quiz:[
+     {q:"What tiny animals build coral reefs?", options:["Coral polyps","Fish","Crabs","Jellyfish"], answer:0},
+     {q:"How do coral polyps live?", options:["Together in large colonies","Underground","Completely alone","In trees"], answer:0},
+     {q:"What do coral polyps form over time?", options:["Fur","Leaves","Hard skeletons that build up the reef","Soft feathers"], answer:2},
+     {q:"Why are coral reefs important?", options:["They only exist on land","They have no purpose","They harm ocean life","They provide a home for many ocean creatures"], answer:3},
+     {q:"Coral reefs grow very ___ over many years.", options:["Never","Backwards","Slowly","Instantly"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Our Governor General: A Ceremonial Role in Canada", summary:"Grade 2 Social Studies strand: the Governor General represents the King or Queen in Canada, performing ceremonial duties such as welcoming important visitors and opening Parliament.",
+   resourceLabel:"YouTube: Our Governor General: A Ceremonial Role in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Governor%20General%3A%20A%20Ceremonial%20Role%20in%20Canada%20grade%202%20educational",
+   quiz:[
+     {q:"Who does the Governor General represent in Canada?", options:["A local business","The mayor","The King or Queen","A foreign president"], answer:2},
+     {q:"Which of these might be a duty of the Governor General?", options:["Selling groceries","Teaching a classroom","Welcoming important visitors","Driving a school bus"], answer:2},
+     {q:"The role of the Governor General is mostly ___.", options:["Ceremonial","Related to farming","About cooking","About sports"], answer:0},
+     {q:"Is the Governor General the same as the Prime Minister?", options:["They never exist at the same time","Yes, exactly the same","Canada has neither","No, they have different roles"], answer:3},
+     {q:"Learning about the Governor General helps us understand ___.", options:["Nothing useful","A made-up story","Only foreign countries","Part of how Canada is organized"], answer:3}
+   ]},
+]},
+{day:140, label:"Day 140 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Blends, Text Features, and Persuasive Forms", summary:"Grade 2 Language strand review: students revisit three-letter blends, sidebars, postcards, rereading, debate writing, proverbs, author study, and editorial cartoons.",
+   resourceLabel:"YouTube: Language Review: Blends, Text Features, and Persuasive Forms", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Blends%2C%20Text%20Features%2C%20and%20Persuasive%20Forms%20grade%202%20educational",
+   quiz:[
+     {q:"Which word begins with the str blend?", options:["Scream","Splash","Street","Sit"], answer:2},
+     {q:"What is a sidebar?", options:["The books cover","The table of contents","The last page","A small box of extra information beside the main text"], answer:3},
+     {q:"What does debate writing present?", options:["Two different sides of an argument","A made-up fantasy story","A recipe","Only one opinion with no other side"], answer:0},
+     {q:"What does the proverb look before you leap teach us?", options:["To think carefully before acting","To never look at anything","To leap without thinking","To jump as high as possible"], answer:0},
+     {q:"What does an editorial cartoon share?", options:["Only facts with no opinion","A math problem","A weather forecast only","An opinion about a topic or event"], answer:3}
+   ]},
+  {subject:"Math", title:"Math Review: Multiplication, Fractions, and Data", summary:"Grade 2 Math strand review: students revisit multiplying by 4, arrays for division, comparing fractions, mixed numbers, converting metres, and spinner probability.",
+   resourceLabel:"YouTube: Math Review: Multiplication, Fractions, and Data", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Multiplication%2C%20Fractions%2C%20and%20Data%20grade%202%20educational",
+   quiz:[
+     {q:"What is 6 x 4 using the double twice strategy?", options:["22","24","26","20"], answer:1},
+     {q:"If 12 objects are arranged in an array with 3 rows, how many are in each row?", options:["4","6","5","3"], answer:0},
+     {q:"Which is greater, 1/3 or 1/5?", options:["1/3","1/5","They are equal","Cannot tell"], answer:0},
+     {q:"What does the mixed number 1 and 1/2 represent?", options:["Two wholes","Half of one whole only","Three halves as a whole number","One whole and half of another"], answer:3},
+     {q:"How many centimetres are in 1 metre?", options:["10","50","100","1000"], answer:2}
+   ]},
+  {subject:"Science", title:"Science Review: Bodies, Oceans, and the Sky", summary:"Grade 2 Science strand review: students revisit the human eye, ocean tides, the water table, genetics, chemical reactions, the atmosphere, and ocean mammals.",
+   resourceLabel:"YouTube: Science Review: Bodies, Oceans, and the Sky", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Oceans%2C%20and%20the%20Sky%20grade%202%20educational",
+   quiz:[
+     {q:"What organ do we use to see?", options:["The nose","The ear","The skin","The eye"], answer:3},
+     {q:"What mainly causes ocean tides?", options:["The sun disappearing","The pull of the moons gravity","The wind alone","Fish swimming"], answer:1},
+     {q:"What are traits passed down from parents called?", options:["Inherited traits","Borrowed traits","Fake traits","Random traits"], answer:0},
+     {q:"What is created when baking soda and vinegar react?", options:["Sound only","A rainbow","A new solid rock","Bubbles of gas"], answer:3},
+     {q:"Are whales and dolphins classified as mammals or fish?", options:["Amphibians","Mammals","Reptiles","Fish"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Leaders, Money, and Our History", summary:"Grade 2 Social Studies strand review: students revisit Sir John A Macdonald, the Bank of Canada, the Coast Guard, Truth and Reconciliation Day, the Charter of Rights, and the Klondike Gold Rush.",
+   resourceLabel:"YouTube: Social Studies Review: Leaders, Money, and Our History", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Leaders%2C%20Money%2C%20and%20Our%20History%20grade%202%20educational",
+   quiz:[
+     {q:"Who was Canadas first prime minister?", options:["A premier","Sir John A Macdonald","A mayor","Terry Fox"], answer:1},
+     {q:"What does the Bank of Canada do?", options:["Delivers mail","Teaches school","Designs and issues Canadian money","Sells groceries"], answer:2},
+     {q:"What does the Coast Guard help keep people safe on?", options:["The classroom","The road","The water","The playground"], answer:2},
+     {q:"When is Truth and Reconciliation Day observed in Canada?", options:["July 1","September 30","February 14","December 25"], answer:1},
+     {q:"What did people search for during the Klondike Gold Rush?", options:["Oil","Gold","Silver","Coal"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
