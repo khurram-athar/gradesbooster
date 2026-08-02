@@ -1640,17 +1640,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[
-  {subject:"Language", title:"Media Literacy: Comparing Print and Digital Texts", summary:"Ontario Grade 3 Media Literacy strand: print texts (books, newspapers) and digital texts (websites, apps) both share information, but differ in how they are accessed, updated, and interacted with.",
+  {subject:"Language", title:"Reading: Fact and Opinion", summary:"Ontario Grade 3 Reading strand: a fact is a statement that can be proven true, while an opinion expresses a personal belief or feeling, and skilled readers learn to tell the two apart in what they read.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=PE_TPYdCssA",
    quiz:[
-     {q:"Which is an example of a print text?", options:["A website","A newspaper","A video game","A mobile app"], answer:1},
-     {q:"Which is an example of a digital text?", options:["A website","A printed book","A newspaper","A paper letter"], answer:0},
-     {q:"One advantage of digital texts is that they can often be ___.", options:["Never updated","Read only on paper","Updated quickly with new information","Only read once"], answer:2},
-     {q:"One advantage of print texts is that they ___.", options:["Require electricity and a screen to read","Are always digital","Update themselves automatically","Do not need a device or battery to read"], answer:3},
-     {q:"Both print and digital texts are created to ___.", options:["Confuse the audience","Never be read by anyone","Replace all pictures","Share information or stories with readers"], answer:3}
+     {q:"A fact is a statement that ___.", options:["Can be proven true","Is always someone’s feeling","Can never be checked","Is always false"], answer:0},
+     {q:"An opinion expresses ___.", options:["A statement that can be measured exactly","A personal belief or feeling","Only numbers and dates","Something that is always true for everyone"], answer:1},
+     {q:"Which sentence is a fact?", options:["Pizza is the best food.","Winters are too cold.","Water freezes at 0 degrees Celsius.","Blue is the prettiest colour."], answer:2},
+     {q:"Which sentence is an opinion?", options:["The sun rises in the east.","Dogs make the best pets.","A week has seven days.","Canada is a country."], answer:1},
+     {q:"Why is it important for readers to tell facts and opinions apart?", options:["It has no real benefit to readers","It helps readers judge information carefully instead of assuming everything is equally true","Facts and opinions are always exactly the same thing","Readers never need to think about this while reading"], answer:1}
    ]},
   {subject:"Math", title:"Financial Literacy: Earning and Budgeting Basics", summary:"Ontario Grade 3 Financial Literacy strand: people earn money through work or allowance, and a simple budget helps plan how much to spend and how much to save.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=0iRbD5rM5qc",
    quiz:[
      {q:"Earning money often comes from ___.", options:["Finding it randomly every day","Doing work or chores","Wishing for it","It is never earned"], answer:1},
      {q:"A budget is a plan for ___.", options:["Ignoring your money completely","Spending all your money immediately","How much money to spend and save","Never saving any money"], answer:2},
@@ -1660,6 +1662,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environment: Conservation and Recycling", summary:"Ontario Grade 3 Science strand connecting to Structures and Matter: conservation means using resources wisely to protect the environment, and recycling turns used materials into new products instead of sending them to landfill.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=abuousxwRe4",
    quiz:[
      {q:"Conservation means ___.", options:["Wasting resources freely","Using resources wisely to protect the environment","Using as much as possible with no limits","Ignoring the environment"], answer:1},
      {q:"Recycling helps the environment by ___.", options:["Destroying natural resources faster","Creating more pollution","Sending more waste to landfill","Turning used materials into new products instead of waste"], answer:3},
@@ -1669,6 +1672,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ontario's Role in Confederation", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: Ontario (formerly Canada West) was one of the four original provinces that joined together in 1867 to form the Dominion of Canada through Confederation.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5h5Pqgkjgws",
    quiz:[
      {q:"In what year did Confederation create the Dominion of Canada?", options:["1867","1776","1812","1900"], answer:0},
      {q:"Ontario was one of how many original provinces at Confederation?", options:["Ten","Four","Two","Three"], answer:1},
