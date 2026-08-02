@@ -1598,17 +1598,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:39, label:"Day 39 — Thu", subjects:[
-  {subject:"Language", title:"Writing: Formal Analytical Report", summary:"Ontario Grade 7 Writing strand: a formal analytical report investigates a topic in depth, presenting findings with objective, well-organized evidence and a clear structure, often used in academic or professional contexts.",
+  {subject:"Language", title:"Writing: Structuring an Information Report", summary:"Ontario Grade 7 Writing strand: an information report investigates a topic in depth and presents findings using a clear structure, with headings, well-organized paragraphs, and objective, evidence-based language.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=CZnYQJ0ZX9A",
    quiz:[
-     {q:"A formal analytical report typically presents ___.", options:["Random unrelated information","Objective, well-organized evidence on a topic","Only the writer’s personal opinions with no evidence","A purely fictional story"], answer:1},
-     {q:"Why is clear organization important in an analytical report?", options:["It helps readers follow and understand the findings logically","Reports should always be presented with no clear structure","Organization has no effect on how a report is understood","Clear organization makes a report less credible"], answer:0},
-     {q:"Which is a feature commonly found in a formal analytical report?", options:["Only informal, casual language throughout","A complete absence of evidence","Headings that organize information by topic","No structure or headings of any kind"], answer:2},
-     {q:"Why might an analytical report avoid overly casual language?", options:["Casual language always improves credibility","Language choice has no effect on a report’s tone","Formal language helps maintain credibility in an academic or professional context","Reports are never expected to sound professional"], answer:2},
-     {q:"An analytical report’s conclusion should typically ___.", options:["Summarize key findings and their significance","Contain no connection to the report’s findings","Introduce entirely new, unrelated information","Be identical to the introduction"], answer:0}
+     {q:"An information report typically presents ___.", options:["Random unrelated information","Objective, well-organized evidence on a topic","Only the writer’s personal opinions with no evidence","A purely fictional story"], answer:1},
+     {q:"Why is clear organization important in an information report?", options:["It helps readers follow and understand the findings logically","Reports should always be presented with no clear structure","Organization has no effect on how a report is understood","Clear organization makes a report less credible"], answer:0},
+     {q:"Which is a feature commonly found in a well-structured information report?", options:["Only informal, casual language throughout","A complete absence of evidence","Headings that organize information by topic","No structure or headings of any kind"], answer:2},
+     {q:"Why might an information report avoid overly casual language?", options:["Casual language always improves credibility","Language choice has no effect on a report’s tone","Formal language helps maintain credibility in an academic context","Reports are never expected to sound professional"], answer:2},
+     {q:"An information report’s conclusion should typically ___.", options:["Summarize key findings and their significance","Contain no connection to the report’s findings","Introduce entirely new, unrelated information","Be identical to the introduction"], answer:0}
    ]},
   {subject:"Math", title:"Slope and Rate of Change", summary:"Ontario Grade 7 Algebra strand: slope represents the rate of change between two variables on a graph, calculated as the vertical change (rise) divided by the horizontal change (run) between two points.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=4YPCT6P-Vwk",
    quiz:[
      {q:"Slope is calculated as ___.", options:["Rise divided by run","Rise times run","Run divided by rise","Rise plus run"], answer:0},
      {q:"If a line rises 6 units and runs 3 units, what is its slope?", options:["2","0.5","9","3"], answer:0},
@@ -1618,6 +1620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Toxicology and Pollution", summary:"Ontario Grade 7 Science Earth and Space Systems strand: environmental toxicology studies how pollutants, such as chemicals released into air, water, or soil, affect living organisms and ecosystems.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=VcDjyxanOyk",
    quiz:[
      {q:"Environmental toxicology studies how ___.", options:["Pollutants affect living organisms and ecosystems","Living things have no connection to their environment","Pollution never has any measurable effects","Only weather patterns are studied, not pollution"], answer:0},
      {q:"Which is an example of a pollutant that could affect an ecosystem?", options:["Fresh air with no contaminants","Naturally growing plants","Clean, untreated rainwater","Chemicals released into a river"], answer:3},
@@ -1627,6 +1630,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Human Migration Patterns and Push-Pull Factors", summary:"Ontario Grade 7 Social Studies People and Environments strand: human migration is often influenced by push factors, which encourage people to leave a place, and pull factors, which attract people to a new location.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=cV4zCTZV7EM",
    quiz:[
      {q:"A push factor in migration is something that ___.", options:["Attracts people to a new location","Has no influence on migration decisions","Encourages people to leave a place","Only applies to animals, never humans"], answer:2},
      {q:"A pull factor in migration is something that ___.", options:["Attracts people to a new location","Discourages people from leaving a location","Has no connection to migration","Only affects a single country"], answer:0},
