@@ -1680,6 +1680,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Tragic Heroes in Literature", summary:"Grade 8 Reading strand: a tragic hero is a character with admirable qualities and a significant flaw, called a tragic flaw, that ultimately contributes to their downfall.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=7ZEupUMV3zQ",
    quiz:[
      {q:"A tragic hero typically has ___.", options:["Only negative traits with no strengths","No notable qualities of any kind","A flaw with no effect on the story","Admirable qualities and a significant flaw"], answer:3},
      {q:"A tragic flaw is best described as ___.", options:["A strength that guarantees the hero’s success","A flaw that never affects the plot","A trait unrelated to the story’s outcome","A significant weakness that contributes to the hero’s downfall"], answer:3},
@@ -1689,6 +1690,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Systems of Equations by Elimination", summary:"Grade 8 Algebra strand: the elimination method solves a system of equations by adding or subtracting the equations to eliminate one variable, making it possible to solve for the other.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=0P0SCQf-hWQ",
    quiz:[
      {q:"The elimination method involves ___.", options:["Substituting one equation directly into the other","Only graphing both equations with no algebraic steps","Ignoring one of the two equations entirely","Adding or subtracting equations to eliminate one variable"], answer:3},
      {q:"Solve the system using elimination: x + y = 10 and x minus y = 2.", options:["x = 4, y = 6","x = 8, y = 2","x = 6, y = 4","x = 5, y = 5"], answer:2},
@@ -1698,6 +1700,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Astrophysics: The Life Cycle of Stars", summary:"Grade 8 Science Earth and Space Systems strand: stars go through a life cycle that includes formation from clouds of gas and dust, a stable main sequence phase, and an eventual dramatic ending, such as a supernova or collapse into a white dwarf.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=PM9CQDlQI0A",
    quiz:[
      {q:"Stars form from clouds of ___.", options:["Metal with no other elements","Solid rock only","Gas and dust","Pure water"], answer:2},
      {q:"During the main sequence phase, a star ___.", options:["Remains relatively stable, fusing hydrogen into helium","Immediately collapses with no stable phase","Has no connection to nuclear fusion","Stops producing any energy"], answer:0},
@@ -1707,6 +1710,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Halifax Explosion", summary:"Grade 8 History strand: the Halifax Explosion of 1917, caused by a collision between two ships in Halifax Harbour, was one of the largest accidental explosions in history and had a devastating impact on the city.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=FucZpJGZe6A",
    quiz:[
      {q:"The Halifax Explosion occurred in which year?", options:["1867","1917","1945","1970"], answer:1},
      {q:"The Halifax Explosion was caused by ___.", options:["A collision between two ships in Halifax Harbour","A planned military attack","An event unrelated to Canadian history","A natural disaster unrelated to human activity"], answer:0},
