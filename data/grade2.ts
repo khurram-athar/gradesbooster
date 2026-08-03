@@ -1931,6 +1931,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycle of a Plant: Seed to Flower", summary:"Students learn the life cycle of a plant, from a seed that sprouts into a seedling, grows into a mature plant, and produces flowers that make new seeds.",
    resourceLabel:"YouTube: Life Cycle of a Plant: Seed to Flower", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Plant%3A%20Seed%20to%20Flower%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tkFPyue5X3Q",
    quiz:[
      {q:"What is the very first stage of a plant life cycle?", options:["A flower","A root","A seed","A leaf"], answer:2},
      {q:"What do we call a young plant that has just sprouted from a seed?", options:["A sapling","A seedling","A bud","A stem"], answer:1},
@@ -1945,6 +1946,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Explorers and Early Settlers in Canada", summary:"Students learn about explorers and early settlers who traveled to Canada long ago, discovering the land, meeting Indigenous peoples, and building the first small communities.",
    resourceLabel:"YouTube: Explorers and Early Settlers in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Explorers%20and%20Early%20Settlers%20in%20Canada%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a8hDKU_bAec",
    quiz:[
      {q:"What do we call a person who travels to discover new lands?", options:["An explorer","A farmer","A tourist","A mayor"], answer:0},
      {q:"What do we call people who build the first communities in a new place?", options:["Settlers","Mayors","Tourists","Astronauts"], answer:0},
