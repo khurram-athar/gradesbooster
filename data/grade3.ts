@@ -1684,6 +1684,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Reading: Author's Purpose", summary:"Ontario Grade 3 Reading strand: authors write for different purposes -- to persuade, to inform, or to entertain -- and identifying the purpose helps readers understand a text more deeply.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=Py9hHn3su0E",
    quiz:[
      {q:"An author who writes to share facts about volcanoes is writing to ___.", options:["Entertain","Inform","Persuade","Confuse"], answer:1},
      {q:"An author who writes a funny made-up story is mainly writing to ___.", options:["Persuade","Instruct","Entertain","Inform"], answer:2},
@@ -1693,6 +1694,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Odd and Even Numbers", summary:"Ontario Grade 3 Number strand: even numbers can be divided into two equal groups with nothing left over (2, 4, 6...), while odd numbers always have one left over (1, 3, 5...).",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=SFRTTUtAjg4",
    quiz:[
      {q:"Which of these is an even number?", options:["13","9","10","7"], answer:2},
      {q:"Which of these is an odd number?", options:["12","8","15","20"], answer:2},
@@ -1702,6 +1704,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: The Solar System", summary:"Ontario Grade 3 Science Earth and Space Systems strand: the solar system includes the Sun and everything that orbits it, including eight planets, moons, and other objects like asteroids and comets.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=88abzPu_57s",
    quiz:[
      {q:"The solar system is centred around the ___.", options:["Moon","Sun","North Star","Earth"], answer:1},
      {q:"How many planets are in our solar system?", options:["Six","Seven","Eight","Ten"], answer:2},
@@ -1711,6 +1714,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Fur Trade in Early Canada", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: the fur trade was a major early economic activity in Canada, connecting European traders and Indigenous peoples who traded furs, especially beaver pelts, for goods.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=BD9G4N8vHMo",
    quiz:[
      {q:"The fur trade mainly involved trading ___.", options:["Grain for money","Land for cattle","Fish for gold","Furs, especially beaver pelts, for goods"], answer:3},
      {q:"Who were the two main groups involved in the early Canadian fur trade?", options:["Only European settlers","Only farmers","European traders and Indigenous peoples","Only sailors"], answer:2},

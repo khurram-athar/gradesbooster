@@ -1684,6 +1684,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Reading: Point of View", summary:"Ontario Grade 4 Reading strand: point of view is the perspective from which a story is told, either first person (using I or we) or third person (using he, she, or they).",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=hqmZaDiHxJo",
    quiz:[
      {q:"A story told using I or we is written in ___ point of view.", options:["First person","Third person","Second person","No point of view"], answer:0},
      {q:"A story told using he, she, or they is written in ___ point of view.", options:["No point of view","Third person","First person","Second person"], answer:1},
@@ -1693,6 +1694,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Division with Remainders", summary:"Ontario Grade 4 Number strand: when a number does not divide evenly, the amount left over is called the remainder, written as R after the quotient, such as 17 divided by 5 equals 3 remainder 2.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=-fbioMIaNG0",
    quiz:[
      {q:"What is 17 divided by 5?", options:["3 remainder 3","4 remainder 0","3 remainder 2","3 remainder 1"], answer:2},
      {q:"A remainder is ___.", options:["The same as the quotient","The amount left over after dividing evenly","Always zero","Only used in multiplication"], answer:1},
@@ -1702,6 +1704,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycles of Animals", summary:"Ontario Grade 4 Science Life Systems strand: many animals go through distinct life cycle stages, such as egg, larva, pupa, and adult for insects, or birth, growth, and maturity for mammals.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=bnqPTva-xkE",
    quiz:[
      {q:"Which is a typical life cycle stage for many insects?", options:["Seed, sprout, flower","Egg and adult only, with nothing between","Egg, larva, pupa, adult","Only adult, with no other stages"], answer:2},
      {q:"A caterpillar is which stage in a butterfly’s life cycle?", options:["Egg","Adult","Pupa","Larva"], answer:3},
@@ -1711,6 +1714,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Ancient India", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Ancient India developed along the Indus River, and is known for early city planning, a written script, and significant early achievements in mathematics.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=eUGAj9uyHrQ",
    quiz:[
      {q:"Ancient India developed along which river?", options:["The Tigris","The Indus River","The Amazon","The Nile"], answer:1},
      {q:"Ancient Indian cities were known for early examples of ___.", options:["Random, unplanned building","No buildings at all","Organized city planning","Only underground homes"], answer:2},
