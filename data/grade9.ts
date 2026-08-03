@@ -1681,6 +1681,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Motif and Recurring Imagery", summary:"Grade 9 Reading strand: a motif is a recurring element, image, or idea that appears repeatedly throughout a text, helping to reinforce its central themes.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=isBKoIORntI",
    quiz:[
      {q:"A motif is best described as ___.", options:["A type of punctuation mark","A single event that occurs only once in a story","A grammar rule","A recurring element or image that appears throughout a text"], answer:3},
      {q:"Why might an author use a recurring motif throughout a text?", options:["A motif always weakens a text’s themes","Motifs are never intentionally used by authors","To reinforce and deepen the text’s central themes","Repetition of any kind has no effect on meaning"], answer:2},
@@ -1690,6 +1691,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Quadratic Equations Using the Quadratic Formula", summary:"Grade 9 Algebra strand: the quadratic formula, x equals negative b plus or minus the square root of b squared minus 4ac, all over 2a, can solve any quadratic equation, including those that are difficult to factor.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=IlNAJl36-10",
    quiz:[
      {q:"The quadratic formula can be used to solve equations in the form ___.", options:["ax plus b equals zero","ax squared plus bx plus c equals zero","a plus b equals c","a divided by b equals c"], answer:1},
      {q:"In the quadratic formula, the expression under the square root, b squared minus 4ac, is called the ___.", options:["Coefficient","Base","Discriminant","Constant"], answer:2},
@@ -1699,6 +1701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Stoichiometry: Introduction to Mole Ratios", summary:"Grade 9 Science Chemistry strand: stoichiometry uses the mole ratios from a balanced chemical equation to calculate the amounts of reactants and products involved in a chemical reaction.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=8uUA2eqYIoo",
    quiz:[
      {q:"Stoichiometry uses mole ratios to calculate ___.", options:["The amounts of reactants and products in a reaction","A value unrelated to chemical reactions","The exact temperature of a reaction","The colour of a chemical reaction"], answer:0},
      {q:"Mole ratios in stoichiometry come from ___.", options:["The temperature at which a reaction occurs","A random, unrelated guess","The colour of the reactants","The coefficients in a balanced chemical equation"], answer:3},
@@ -1708,6 +1711,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Conflict: Resource Wars and Water Scarcity", summary:"Grade 9 Social Studies (Geography) strand: competition over limited resources, such as water, can contribute to regional tensions and conflict, particularly in areas facing scarcity or shared access challenges.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=6CMVLyQs5nA",
    quiz:[
      {q:"A resource war generally involves conflict over ___.", options:["Only cultural traditions, with no resource connection","A conflict with no identifiable cause","Access to or control of limited resources","A topic entirely unrelated to resources"], answer:2},
      {q:"Water scarcity can contribute to regional tension particularly when ___.", options:["Scarcity has no connection to conflict","Water is equally abundant everywhere with no competing access","Multiple groups or countries share access to a limited water source","Only a single country ever depends on any water source"], answer:2},
