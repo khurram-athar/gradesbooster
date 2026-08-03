@@ -1680,6 +1680,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"English", title:"Writing: The Extended Metaphor as Argument", summary:"Grade 12 English strand: an extended metaphor sustains a single comparison throughout a piece of writing, allowing a writer to build a persuasive or reflective argument through layered, cumulative imagery.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=TRCArmCmelw",
    quiz:[
      {q:"An extended metaphor sustains ___ throughout a piece of writing.", options:["A constantly changing, unrelated set of comparisons","No figurative language whatsoever","Only literal, factual description","A single comparison"], answer:3},
      {q:"Why might a writer use an extended metaphor to build an argument, rather than stating a claim directly?", options:["A sustained comparison can make an abstract idea feel more vivid and persuasive through cumulative imagery","Direct claims are always more effective than any use of metaphor","Figurative language has no connection to persuasive writing","Extended metaphors always make an argument less clear to readers"], answer:0},
@@ -1699,6 +1700,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Related Rates in Three Dimensions", summary:"Grade 12 Calculus strand: three-dimensional related rates problems involve finding how one changing quantity, such as volume or surface area, relates to the rate of change of another quantity over time.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=j6I3EXiKB2A",
    quiz:[
      {q:"Three-dimensional related rates problems involve finding how one changing quantity relates to ___.", options:["Only the colour of the three-dimensional object involved","A completely fixed, unchanging value with no relationship to time","The rate of change of another quantity over time","A concept unrelated to rates of change"], answer:2},
      {q:"Which is an example of a three-dimensional related rates problem?", options:["A problem with no connection to changing quantities","Finding how quickly the volume of a balloon changes as its radius increases","A situation involving no three-dimensional shapes whatsoever","A calculation entirely unrelated to calculus"], answer:1},
@@ -1708,6 +1710,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Doppler Effect and Wave Phenomena", summary:"Grade 12 Physics strand: the Doppler effect describes the change in observed frequency of a wave when its source and observer are moving relative to each other, such as a siren’s pitch changing as it passes by.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=A4HZzUkXiEs",
    quiz:[
      {q:"The Doppler effect describes a change in observed ___ of a wave.", options:["Frequency","Mass","Colour, with no connection to sound or wave frequency","A property entirely unrelated to waves"], answer:0},
      {q:"The Doppler effect occurs when a wave’s source and observer are ___.", options:["A concept unrelated to motion or waves","Both completely stationary with no relative motion","Located an infinite distance apart with no possible interaction","Moving relative to each other"], answer:3},
