@@ -1840,66 +1840,71 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[
-  {subject:"Language", title:"Language Review: Sounds, Words, and Stories", summary:"Students review recent Language skills: digraphs, word families, blends, rhyming, sequencing, and comparing fiction and non-fiction texts.",
-   resourceLabel:"YouTube: Language Review: Sounds, Words, and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Sounds%2C%20Words%2C%20and%20Stories%20grade%201%20educational",
+  {subject:"Language", title:"Common Sight Words for Grade 1", summary:"Students learn and practice common grade 1 sight words — high-frequency words that appear often in texts and should be recognized instantly to help build reading fluency.",
+   resourceLabel:"YouTube: Common Sight Words for Grade 1", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Sounds%2C%20Words%2C%20and%20Stories%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=U8t9Jg1r6G0",
    quiz:[
-     {q:"Which word begins with the digraph sh?", options:["Cat","Run","Dog","Ship"], answer:3},
-     {q:"Which word rhymes with cat?", options:["Hat","Pig","Dog","Sun"], answer:0},
-     {q:"Which word belongs to the -it word family?", options:["Sun","Dog","Sit","Cat"], answer:2},
-     {q:"What kind of story does a fiction book tell?", options:["A true story","Only facts","No story at all","A made-up story"], answer:3},
-     {q:"Which word begins with the blend sp?", options:["Spin","Cat","Dog","Run"], answer:0}
+     {q:"What is a sight word?", options:["A word with no vowels","A common word you should recognize instantly","A word only used in math","A very long word"], answer:1},
+     {q:"Which of these words is a common sight word?", options:["Elephant","Bicycle","The","Photosynthesis"], answer:2},
+     {q:"Which word is a sight word, meaning kids should recognize it instantly rather than sound it out?", options:["Was","Cat","Sun","Dog"], answer:0},
+     {q:"Why do we practice reading sight words?", options:["To make reading slower","To make reading harder","To skip words we don't like","To help us read more smoothly and quickly"], answer:3},
+     {q:"Which of these is also a common sight word?", options:["Said","Refrigerator","Astronaut","Kangaroo"], answer:0}
    ],
    worksheet:[
-     {prompt:"What two letters make the sh sound at the start of the word ship?", answers:["sh"]},
-     {prompt:"Name a word that rhymes with cat.", answers:["hat","bat","mat","sat","rat","fat"]},
-     {prompt:"Does a fiction book tell a true story or a made-up story?", answers:["made-up story","made up story","made-up"]}
+     {prompt:"Name one common sight word, like 'the' or 'was'.", answers:["the","was","said","is","are","and"]},
+     {prompt:"Why are sight words important for reading?", answers:["they help us read faster","help us read smoothly","so we can read quickly"]},
+     {prompt:"Is a sight word usually a word we sound out slowly or recognize instantly?", answers:["recognize instantly","instantly"]}
    ]},
-  {subject:"Math", title:"Math Review: Numbers, Shapes, and Time", summary:"Students review recent Math skills: counting to 100, place value, comparing numbers, fractions, capacity, symmetry, sorting, money, and telling time to the half hour.",
-   resourceLabel:"YouTube: Math Review: Numbers, Shapes, and Time", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Shapes%2C%20and%20Time%20grade%201%20educational",
+  {subject:"Math", title:"Skip Counting by 2s, 5s, and 10s", summary:"Students learn to skip count by 2s, 5s, and 10s, a strategy that helps count groups of objects quickly and builds a foundation for later multiplication.",
+   resourceLabel:"YouTube: Skip Counting by 2s, 5s, and 10s", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Shapes%2C%20and%20Time%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MEkx33ccSs4",
    quiz:[
-     {q:"What number comes right after 99?", options:["101","99","98","100"], answer:3},
-     {q:"Which number is greater, 62 or 26?", options:["They are equal","26","62","Cannot tell"], answer:2},
-     {q:"If a shape is cut into 4 equal parts, each part is called ___.", options:["One-quarter","One-third","One-half","One whole"], answer:0},
-     {q:"Which coin is worth 10 cents?", options:["Dime","Penny","Quarter","Nickel"], answer:0},
-     {q:"At half past the hour, where does the long hand point?", options:["The 3","The 9","The 12","The 6"], answer:3}
+     {q:"When skip counting by 2s starting at 2, what comes after 2, 4, 6?", options:["7","8","9","10"], answer:1},
+     {q:"When skip counting by 5s starting at 5, what comes after 5, 10, 15?", options:["20","16","18","25"], answer:0},
+     {q:"When skip counting by 10s, what comes after 10, 20, 30?", options:["35","45","50","40"], answer:3},
+     {q:"Skip counting helps us count groups of objects ___.", options:["More slowly","One at a time only","Faster, by jumping over numbers","Never"], answer:2},
+     {q:"Which skip counting pattern would you use to count a pile of nickels (5 cents each)?", options:["Counting by 5s","Counting by 1s","Counting by 2s","Counting by 100s"], answer:0}
    ],
    worksheet:[
-     {prompt:"What number comes right after 89?", answers:["90","ninety"]},
-     {prompt:"How many tens are in the number 47?", answers:["4","four"]},
-     {prompt:"How many quarters make one whole?", answers:["4","four"]}
+     {prompt:"If you skip count by 2s: 2, 4, 6, what number comes next?", answers:["8","eight"]},
+     {prompt:"If you skip count by 10s: 10, 20, 30, what number comes next?", answers:["40","forty"]},
+     {prompt:"Why is skip counting faster than counting by ones?", answers:["it jumps over numbers","you count in groups","faster to count groups"]}
    ]},
-  {subject:"Science", title:"Science Review: Seasons, Senses, and Earth", summary:"Students review recent Science topics: seasonal changes, insects, nocturnal animals, the Moon, recycling, dental health, the five senses, and changing materials.",
-   resourceLabel:"YouTube: Science Review: Seasons, Senses, and Earth", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Seasons%2C%20Senses%2C%20and%20Earth%20grade%201%20educational",
+  {subject:"Science", title:"Living and Non-Living Things", summary:"Students learn how to tell the difference between living things, which grow, breathe, and need food and water, and non-living things, which do not.",
+   resourceLabel:"YouTube: Living and Non-Living Things", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Seasons%2C%20Senses%2C%20and%20Earth%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yW5VbMEDRJk",
    quiz:[
-     {q:"Which season is usually the warmest of the year?", options:["Spring","Fall","Winter","Summer"], answer:3},
-     {q:"How many legs does an insect have?", options:["4","8","10","6"], answer:3},
-     {q:"Which of these animals is known for being nocturnal?", options:["Owl","Chicken","Squirrel","Robin"], answer:0},
-     {q:"Which body part do we use to smell?", options:["Ears","Tongue","Eyes","Nose"], answer:3},
-     {q:"What happens to water when it is cooled to a very low temperature?", options:["It freezes into ice","It turns to gas","It boils","Nothing happens"], answer:0}
+     {q:"Which of these is a living thing?", options:["A rock","A tree","A chair","A car"], answer:1},
+     {q:"Which of these is a non-living thing?", options:["A dog","A flower","A table","A bird"], answer:2},
+     {q:"Living things need which of these to survive?", options:["Water and food","Electricity","Batteries","Gasoline"], answer:0},
+     {q:"Which of these is something only living things can do?", options:["Sit still","Be made of metal","Grow and reproduce","Be very heavy"], answer:2},
+     {q:"Which of these is a non-living thing?", options:["A cloud","A cat","A plant","A person"], answer:0}
    ],
    worksheet:[
-     {prompt:"Is summer usually the warmest or the coldest season?", answers:["warmest"]},
-     {prompt:"How many legs does an insect have?", answers:["6","six"]},
-     {prompt:"What happens to ice when it is heated?", answers:["it melts","melts"]}
+     {prompt:"Name one living thing, like a plant or an animal.", answers:["plant","animal","dog","cat","tree","person"]},
+     {prompt:"Name one non-living thing, like a rock or a chair.", answers:["rock","chair","table","car"]},
+     {prompt:"What is one thing all living things need to survive?", answers:["water","food","air","water and food"]}
    ]},
-  {subject:"SocialStudies", title:"Social Studies Review: Community, Canada, and Cooperation", summary:"Students review recent Social Studies topics: neighbourhoods, jobs, needs and wants, transportation, personal safety, communication, cooperation, and Canadian landmarks.",
-   resourceLabel:"YouTube: Social Studies Review: Community, Canada, and Cooperation", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%2C%20Canada%2C%20and%20Cooperation%20grade%201%20educational",
+  {subject:"SocialStudies", title:"All About Canada: Geography, People, and Facts", summary:"Students learn interesting facts about Canada, including its size, provinces and territories, capital city, and the diverse people and animals that call it home.",
+   resourceLabel:"YouTube: All About Canada: Geography, People, and Facts", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Community%2C%20Canada%2C%20and%20Cooperation%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Qo7aTFHyhPE",
    quiz:[
-     {q:"Which of these is a place you might find in a neighbourhood?", options:["Outer space","A park","A volcano","The ocean floor"], answer:1},
-     {q:"Which of these is a need?", options:["Water","Candy","A video game","A toy"], answer:0},
-     {q:"What should you do if someone makes you feel unsafe?", options:["Run away and hide alone","Ignore the feeling","Tell a trusted adult","Stay quiet forever"], answer:2},
-     {q:"What is the capital city of Canada?", options:["Vancouver","Ottawa","Montreal","Toronto"], answer:1},
-     {q:"What does it mean to cooperate with a group?", options:["Working together toward a shared goal","Ignoring everyone else","Refusing to share","Doing everything alone"], answer:0}
+     {q:"What is the capital city of Canada?", options:["Toronto","Vancouver","Ottawa","Montreal"], answer:2},
+     {q:"How many provinces does Canada have?", options:["10","5","15","20"], answer:0},
+     {q:"Which of these is an official language of Canada, along with English?", options:["German","French","Spanish","Italian"], answer:1},
+     {q:"Which animal is often used as a symbol of Canada?", options:["Panda","Beaver","Kangaroo","Lion"], answer:1},
+     {q:"Which of these best describes Canada's size?", options:["The same size as a small town","One of the largest countries in the world","Smaller than most countries","One of the smallest countries in the world"], answer:1}
    ],
    worksheet:[
-     {prompt:"Name one place you might visit in your neighbourhood, like a park or library.", answers:["park","library","store"]},
      {prompt:"What is the capital city of Canada?", answers:["ottawa"]},
-     {prompt:"What should you do if someone makes you feel unsafe?", answers:["tell a trusted adult","tell an adult"]}
+     {prompt:"Name an animal often used as a symbol of Canada.", answers:["beaver"]},
+     {prompt:"Besides English, what other language is official in Canada?", answers:["french"]}
    ]},
 ]},
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Consonant Blends: br, cr, dr, gr", summary:"Students learn that two consonants can blend together at the start of a word, such as br in brush, cr in crab, dr in drum, and gr in grape.",
    resourceLabel:"YouTube: Consonant Blends: br, cr, dr, gr", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Blends%3A%20br%2C%20cr%2C%20dr%2C%20gr%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=svqH6KIm_Os",
    quiz:[
      {q:"Which word begins with the blend br?", options:["Run","Dog","Brush","Cat"], answer:2},
      {q:"Which word begins with the blend cr?", options:["Sun","Crab","Hat","Pig"], answer:1},
@@ -1914,6 +1919,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Addition and Subtraction Fact Families", summary:"Students learn that a fact family is a group of related addition and subtraction facts that use the same three numbers, such as 3 add 4 equals 7, 4 add 3 equals 7, 7 minus 3 equals 4, and 7 minus 4 equals 3.",
    resourceLabel:"YouTube: Addition and Subtraction Fact Families", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Fact%20Families%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9IhZDEffyTk",
    quiz:[
      {q:"Which subtraction fact belongs to the same fact family as 3 add 4 equals 7?", options:["8 minus 1 equals 7","9 minus 4 equals 5","5 minus 2 equals 3","7 minus 3 equals 4"], answer:3},
      {q:"A fact family uses how many different numbers?", options:["4","3","2","5"], answer:1},
@@ -1928,6 +1934,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Taking Care of Our Bodies: Exercise and Rest", summary:"Students learn that staying healthy means being active with exercise, such as running or playing, and also getting enough rest and sleep each night.",
    resourceLabel:"YouTube: Taking Care of Our Bodies: Exercise and Rest", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Bodies%3A%20Exercise%20and%20Rest%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DfnXU_b9ez8",
    quiz:[
      {q:"Which of these is a way to exercise your body?", options:["Running","Sitting still all day","Sleeping all day","Watching only"], answer:0},
      {q:"Why is exercise good for your body?", options:["It has no effect on your body","It makes your body weaker","It helps keep your body strong and healthy","It only helps your hair grow"], answer:2},
@@ -1942,6 +1949,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Farms and Where Our Food Comes From", summary:"Students learn that many foods, such as fruits, vegetables, milk, and eggs, come from farms, and that farmers grow crops and raise animals to help feed communities.",
    resourceLabel:"YouTube: Farms and Where Our Food Comes From", resourceUrl:"https://www.youtube.com/results?search_query=Farms%20and%20Where%20Our%20Food%20Comes%20From%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WazK8e88axE",
    quiz:[
      {q:"Which of these foods usually comes from a farm?", options:["Milk","A plastic toy","A cloud","A rock"], answer:0},
      {q:"What do we call a person whose job is to grow crops and raise animals?", options:["A pilot","A librarian","A dentist","A farmer"], answer:3},

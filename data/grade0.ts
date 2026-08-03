@@ -1934,6 +1934,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycle of a Plant: Seed to Flower", summary:"Students learn the stages a plant goes through, starting as a small seed, sprouting into a seedling, and growing into a full plant that may bloom with flowers.",
    resourceLabel:"YouTube: Life Cycle of a Plant: Seed to Flower", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Plant%3A%20Seed%20to%20Flower%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tkFPyue5X3Q",
    quiz:[
      {q:"What is the first stage of a plant life cycle?", options:["Root","Sprout","Flower","Seed"], answer:3},
      {q:"What does a seed need to grow into a plant?", options:["Only cold air","Nothing at all","Only darkness","Water and sunlight"], answer:3},
@@ -1948,6 +1949,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Jobs People Do: Different Kinds of Work", summary:"Students explore different jobs people do in their community, such as chef, farmer, artist, and pilot, and talk about the work each job involves.",
    resourceLabel:"YouTube: Jobs People Do: Different Kinds of Work", resourceUrl:"https://www.youtube.com/results?search_query=Jobs%20People%20Do%3A%20Different%20Kinds%20of%20Work%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Tmz3o_vwzTA",
    quiz:[
      {q:"Who cooks meals at a restaurant?", options:["Farmer","Pilot","Chef","Artist"], answer:2},
      {q:"Who flies an airplane?", options:["Teacher","Chef","Pilot","Farmer"], answer:2},

@@ -1840,19 +1840,20 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[
-  {subject:"Language", title:"Final Review: Prefixes, Suffixes, Comparing Words and Paragraphs", summary:"Students review recent Language skills: prefixes un- and re-, suffixes -ful and -less, comparing with -er and -est, and writing a simple paragraph.",
-   resourceLabel:"YouTube: Final Review: Prefixes, Suffixes, Comparing Words and Paragraphs", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Prefixes%2C%20Suffixes%2C%20Comparing%20Words%20and%20Paragraphs%20grade%202%20educational",
+  {subject:"Language", title:"Compound Words", summary:"Students learn that a compound word is formed by joining two smaller words together to make a new word with its own meaning, such as sunflower, football, or backpack.",
+   resourceLabel:"YouTube: Compound Words", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Prefixes%2C%20Suffixes%2C%20Comparing%20Words%20and%20Paragraphs%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=82G-ZWzUHhU",
    quiz:[
-     {q:"What does the prefix un- usually mean?", options:["Before","Not","Always","Again"], answer:1},
-     {q:"Which word means full of joy by using the suffix -ful?", options:["Joyless","Rejoy","Joyful","Prejoy"], answer:2},
-     {q:"Which suffix compares three or more things?", options:["-est","-er","-less","-ful"], answer:0},
-     {q:"What is a topic sentence?", options:["The sentence that introduces the main idea of a paragraph","A question only","The last sentence in a story","A sentence with no meaning"], answer:0},
-     {q:"Which word means without help by using the suffix -less?", options:["Prehelp","Helpful","Helpless","Rehelp"], answer:2}
+     {q:"What is a compound word?", options:["A word with no vowels","A word made by joining two smaller words together","A word that means the opposite of another word","A word with a prefix"], answer:1},
+     {q:"Which of these is a compound word?", options:["Sunflower","Happy","Quickly","Running"], answer:0},
+     {q:"What two smaller words make up the compound word 'backpack'?", options:["Book and bag","Back and pack","Bag and sack","Pack and sack"], answer:1},
+     {q:"Which of these is NOT a compound word?", options:["Football","Butterfly","Elephant","Snowman"], answer:2},
+     {q:"Which two words combine to make the compound word 'rainbow'?", options:["Sun and bow","Cloud and bow","Rain and bow","Rain and coat"], answer:2}
    ],
    worksheet:[
-     {prompt:"What does the prefix re- usually mean, as in redo?", answers:["again"]},
-     {prompt:"What does the suffix -less usually mean, as in helpless?", answers:["without"]},
-     {prompt:"What do we call the sentence that introduces the main idea of a paragraph?", answers:["the topic sentence","topic sentence"]}
+     {prompt:"Name a compound word, like sunflower or backpack.", answers:["sunflower","backpack","football","snowman","butterfly","rainbow"]},
+     {prompt:"What two words make up the word 'snowman'?", answers:["snow and man","snow, man"]},
+     {prompt:"What is a compound word?", answers:["two words joined together","a word made of two smaller words"]}
    ]},
   {subject:"Math", title:"Final Review: Fractions, Odd/Even, Patterns and Symmetry", summary:"Students review recent Math skills: thirds and eighths, odd and even numbers, repeating patterns, and symmetry in shapes.",
    resourceLabel:"YouTube: Final Review: Fractions, Odd/Even, Patterns and Symmetry", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Fractions%2C%20Odd/Even%2C%20Patterns%20and%20Symmetry%20grade%202%20educational",
@@ -1900,6 +1901,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Silent Letters: kn, wr, mb, gh", summary:"Students learn that some words contain silent letters, letters that are written but not pronounced, such as the k in knee, the w in write, the b in comb, and the gh in night.",
    resourceLabel:"YouTube: Silent Letters: kn, wr, mb, gh", resourceUrl:"https://www.youtube.com/results?search_query=Silent%20Letters%3A%20kn%2C%20wr%2C%20mb%2C%20gh%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OJi_AIr13fY",
    quiz:[
      {q:"Which letter is silent in the word knee?", options:["K","N","E","All letters are pronounced"], answer:0},
      {q:"Which letter is silent in the word write?", options:["I","W","R","T"], answer:1},
@@ -1914,6 +1916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 1000: Counting and Comparing", summary:"Students count, read, and compare numbers up to 1000, using place value to understand hundreds, tens, and ones.",
    resourceLabel:"YouTube: Numbers to 1000: Counting and Comparing", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%201000%3A%20Counting%20and%20Comparing%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S88DuyhgTfU",
    quiz:[
      {q:"What number comes right after 499?", options:["501","500","450","499"], answer:1},
      {q:"Which number is greater, 620 or 602?", options:["They are equal","620","602","Cannot tell"], answer:1},
