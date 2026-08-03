@@ -1681,6 +1681,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"English", title:"Literature: Existentialism in Modern Drama", summary:"Grade 11 English strand: existentialist drama explores themes of individual freedom, meaninglessness, and the search for purpose in an indifferent or absurd universe.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=eJ7w2I83ba4",
    quiz:[
      {q:"Existentialist drama often explores themes of ___.", options:["Only lighthearted, comedic subject matter","A topic entirely unrelated to human experience","Historical events with no connection to personal meaning","Individual freedom, meaninglessness, and the search for purpose"], answer:3},
      {q:"Why might a playwright present a universe as “indifferent” or “absurd” in an existentialist work?", options:["This portrayal always removes any depth from a play","Absurdity has no role in this genre of drama","An indifferent universe has no connection to existentialist themes","To highlight a character’s struggle to create meaning despite a lack of inherent purpose"], answer:3},
@@ -1690,6 +1691,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Radical Functions and Their Graphs", summary:"Grade 11 Functions strand: a radical function contains a variable inside a root, such as a square root, and its graph and domain are affected by the restriction that the expression under the root cannot be negative.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=vjYTZQU6MBI",
    quiz:[
      {q:"A radical function contains a variable inside a ___.", options:["An exponent only, with no root involved","Root, such as a square root","A denominator only, with no connection to roots","A function unrelated to roots"], answer:1},
      {q:"For a square root function to be defined using real numbers, the expression under the root must be ___.", options:["Always negative","A value unrelated to the function’s domain","Greater than or equal to zero","Equal to exactly one"], answer:2},
@@ -1699,6 +1701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Ecology: Nutrient Cycles and Biogeochemistry", summary:"Grade 11 Biology strand: nutrient cycles, such as the carbon and nitrogen cycles, describe how essential elements move through living organisms and the physical environment.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=Bn41lXKyVWQ",
    quiz:[
      {q:"Nutrient cycles describe how essential elements move through ___.", options:["Only living organisms, with no connection to the environment","Only the physical environment, with no connection to organisms","Living organisms and the physical environment","A concept unrelated to ecosystems"], answer:2},
      {q:"Which is an example of a nutrient cycle studied in ecology?", options:["A concept unrelated to biogeochemistry","A process with no connection to living organisms","The carbon cycle","A cycle entirely unrelated to essential elements"], answer:2},
@@ -1708,6 +1711,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Intermolecular Forces and Physical Properties", summary:"Grade 11 Chemistry strand: intermolecular forces are attractions between molecules that influence physical properties like boiling point, melting point, and solubility.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=08kGgrqaZXA",
    quiz:[
      {q:"Intermolecular forces are attractions that occur ___.", options:["Only within a single atom, with no connection to other molecules","A concept unrelated to molecular interactions","Between molecules","Exclusively within a single molecule’s own bonds"], answer:2},
      {q:"Which physical property can be influenced by the strength of intermolecular forces?", options:["A property entirely unrelated to molecular interactions","The number of protons in an atom’s nucleus","The exact atomic number of an element","Boiling point"], answer:3},

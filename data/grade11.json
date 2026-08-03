@@ -9846,6 +9846,7 @@
         "summary": "Grade 11 English strand: existentialist drama explores themes of individual freedom, meaninglessness, and the search for purpose in an indifferent or absurd universe.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=eJ7w2I83ba4",
         "quiz": [
           {
             "q": "Existentialist drama often explores themes of ___.",
@@ -9905,6 +9906,7 @@
         "summary": "Grade 11 Functions strand: a radical function contains a variable inside a root, such as a square root, and its graph and domain are affected by the restriction that the expression under the root cannot be negative.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=vjYTZQU6MBI",
         "quiz": [
           {
             "q": "A radical function contains a variable inside a ___.",
@@ -9964,6 +9966,7 @@
         "summary": "Grade 11 Biology strand: nutrient cycles, such as the carbon and nitrogen cycles, describe how essential elements move through living organisms and the physical environment.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=Bn41lXKyVWQ",
         "quiz": [
           {
             "q": "Nutrient cycles describe how essential elements move through ___.",
@@ -10023,6 +10026,7 @@
         "summary": "Grade 11 Chemistry strand: intermolecular forces are attractions between molecules that influence physical properties like boiling point, melting point, and solubility.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=08kGgrqaZXA",
         "quiz": [
           {
             "q": "Intermolecular forces are attractions that occur ___.",
