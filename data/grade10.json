@@ -9846,6 +9846,7 @@
         "summary": "Grade 10 English strand: irony occurs when there is a contrast between expectation and reality, and symbolism uses objects or images to represent deeper ideas beyond their literal meaning.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=JGCTtHsAU1w",
         "quiz": [
           {
             "q": "Irony occurs when there is a contrast between ___.",
@@ -9905,6 +9906,7 @@
         "summary": "Grade 10 Functions strand (extension): a logarithm answers the question of what exponent a given base must be raised to in order to produce a certain number, making it the inverse operation of exponentiation.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=mQTWzLpCcW0",
         "quiz": [
           {
             "q": "A logarithm answers the question of ___.",
@@ -9964,6 +9966,7 @@
         "summary": "Grade 10 Chemistry strand: titration is a laboratory technique used to determine the concentration of an unknown solution by carefully reacting it with a solution of known concentration.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=dLNsPqDGzms",
         "quiz": [
           {
             "q": "Titration is used to determine ___.",
@@ -10023,6 +10026,7 @@
         "summary": "Grade 10 History strand: Canada has been a member of the United Nations since its founding in 1945, contributing to international peacekeeping, diplomacy, and humanitarian efforts through the organization.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=M1xHm5FFohU",
         "quiz": [
           {
             "q": "The United Nations was founded in which year?",

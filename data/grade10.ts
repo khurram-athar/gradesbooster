@@ -1681,6 +1681,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"English", title:"Reading: Irony and Symbolism in Fiction", summary:"Grade 10 English strand: irony occurs when there is a contrast between expectation and reality, and symbolism uses objects or images to represent deeper ideas beyond their literal meaning.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=JGCTtHsAU1w",
    quiz:[
      {q:"Irony occurs when there is a contrast between ___.", options:["Expectation and reality","Two identical, unrelated events","A story’s setting and its length","A character’s name and their age"], answer:0},
      {q:"Symbolism uses objects or images to represent ___.", options:["Deeper ideas beyond their literal meaning","A concept unrelated to meaning","Only their literal, surface-level meaning","Nothing beyond their physical description"], answer:0},
@@ -1690,6 +1691,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Logarithms", summary:"Grade 10 Functions strand (extension): a logarithm answers the question of what exponent a given base must be raised to in order to produce a certain number, making it the inverse operation of exponentiation.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=mQTWzLpCcW0",
    quiz:[
      {q:"A logarithm answers the question of ___.", options:["A question unrelated to exponents","What number multiplied by itself equals zero","What the sum of two numbers equals","What exponent a base must be raised to in order to produce a given number"], answer:3},
      {q:"A logarithm is the inverse operation of ___.", options:["Addition","An operation unrelated to exponents","Exponentiation","Subtraction"], answer:2},
@@ -1699,6 +1701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Titration and Quantitative Analysis", summary:"Grade 10 Chemistry strand: titration is a laboratory technique used to determine the concentration of an unknown solution by carefully reacting it with a solution of known concentration.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=dLNsPqDGzms",
    quiz:[
      {q:"Titration is used to determine ___.", options:["The temperature of a solution only","A property unrelated to concentration","The colour of a solution only","The concentration of an unknown solution"], answer:3},
      {q:"During a titration, a solution of known concentration is used to react with ___.", options:["Another solution of exactly the same known concentration","A solution of unknown concentration","A gas unrelated to the titration process","A solid with no connection to the reaction"], answer:1},
@@ -1708,6 +1711,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Role in the United Nations", summary:"Grade 10 History strand: Canada has been a member of the United Nations since its founding in 1945, contributing to international peacekeeping, diplomacy, and humanitarian efforts through the organization.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=M1xHm5FFohU",
    quiz:[
      {q:"The United Nations was founded in which year?", options:["1919","1989","1945","1867"], answer:2},
      {q:"Through the United Nations, Canada has contributed to ___.", options:["International peacekeeping, diplomacy, and humanitarian efforts","Only domestic policy, with no international connection","A topic entirely unrelated to Canadian foreign policy","No international efforts of any kind"], answer:0},
