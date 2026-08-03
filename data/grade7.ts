@@ -1684,6 +1684,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Unreliable Narrators", summary:"Ontario Grade 7 Reading strand: an unreliable narrator is a storyteller whose account may be biased, mistaken, or dishonest, requiring readers to critically evaluate what is really happening in the story.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=n0eqEZ7jQa0",
    quiz:[
      {q:"An unreliable narrator is one whose account may be ___.", options:["Completely accurate at all times","Impossible to include in a story","Biased, mistaken, or dishonest","Written by someone other than the author"], answer:2},
      {q:"Why might an author choose to use an unreliable narrator?", options:["To create suspense or challenge readers to question what is really happening","It always makes a story less interesting","It removes the need for any plot","Unreliable narrators are never used in literature"], answer:0},
@@ -1693,6 +1694,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Systems of Two Linear Relations: A Graphical Introduction", summary:"Ontario Grade 7 Algebra strand: a system of two linear relations can be solved graphically by finding the point where their two lines intersect, representing the values that satisfy both relations.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Pd4hwS8qHms",
    quiz:[
      {q:"The solution to a system of two linear relations, solved graphically, is ___.", options:["The origin of the graph in every case","The point where the two lines intersect","A point that never exists","Any point on either line separately"], answer:1},
      {q:"If two lines on a graph never intersect, the system has ___.", options:["No solution","Infinitely many solutions","Exactly one solution","A solution at the origin only"], answer:0},
@@ -1702,6 +1704,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Endocrine System: Hormones and Regulation", summary:"Ontario Grade 7 Science Human Body Systems strand: the endocrine system uses glands to release hormones into the bloodstream, regulating processes like growth, metabolism, and stress response.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=emvHaBiRY8Q",
    quiz:[
      {q:"The endocrine system regulates the body using ___.", options:["Only physical touch","Light signals only","Sound waves","Hormones released into the bloodstream"], answer:3},
      {q:"Hormones are produced by structures called ___.", options:["Bones","Blood vessels only","Muscles only","Glands"], answer:3},
@@ -1711,6 +1714,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Vietnam War and Its Global Impact", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: the Vietnam War, fought primarily during the 1960s and 1970s, was a significant Cold War-era conflict that had lasting political and social effects around the world, including in Canada.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=LwQRfckSANI",
    quiz:[
      {q:"The Vietnam War took place primarily during which decades?", options:["The 2000s","The 1930s","The 1800s","The 1960s and 1970s"], answer:3},
      {q:"The Vietnam War is often considered connected to which broader global conflict?", options:["The Cold War","The Napoleonic Wars","The War of 1812","World War I"], answer:0},
