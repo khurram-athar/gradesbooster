@@ -1681,6 +1681,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Rhetorical Devices", summary:"Ontario Grade 6 Reading strand: rhetorical devices, such as repetition, rhetorical questions, and appeals to emotion, are techniques writers and speakers use to persuade or emphasize a point.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=t4ODg51XNYk",
    quiz:[
      {q:"A rhetorical question is a question ___.", options:["Always answered immediately by the writer","Asked to genuinely request information","Asked for effect, without expecting a direct answer","Never used in persuasive writing"], answer:2},
      {q:"Repetition as a rhetorical device is used to ___.", options:["Confuse the reader on purpose","Remove emphasis from a point","Emphasize an important idea","Avoid making any point at all"], answer:2},
@@ -1690,6 +1691,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"The Distributive Property in Algebra", summary:"Ontario Grade 6 Algebra strand: the distributive property states that multiplying a number by a sum is the same as multiplying it by each addend separately and then adding the results, such as 3(x + 4) equalling 3x + 12.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Jp25LHI9wII",
    quiz:[
      {q:"Using the distributive property, what is 3 times (x + 4)?", options:["3x + 4","x + 12","3x + 12","3x + 7"], answer:2},
      {q:"Using the distributive property, what is 5 times (y + 2)?", options:["y + 10","5y + 7","5y + 10","5y + 2"], answer:2},
@@ -1699,6 +1701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Photosynthesis and Plant Energy", summary:"Ontario Grade 6 Science Life Systems strand: photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce their own food (glucose) and release oxygen as a byproduct.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=CMiPYHNNg28",
    quiz:[
      {q:"Photosynthesis allows plants to produce their own ___.", options:["Water only","Sunlight","Food","Soil"], answer:2},
      {q:"Which three things do plants need for photosynthesis?", options:["Only sound and heat","Sunlight, water, and carbon dioxide","Only soil and darkness","Only oxygen and darkness"], answer:1},
@@ -1708,6 +1711,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Fall of the Roman Empire", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the fall of the Roman Empire in the West, traditionally dated to 476 CE, resulted from a combination of factors including economic troubles, invasions, and political instability.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=9Id9kH5DHRs",
    quiz:[
      {q:"The fall of the Western Roman Empire is traditionally dated to which year?", options:["476 CE","1789 CE","1492 CE","1000 CE"], answer:0},
      {q:"Which is a commonly cited factor in the fall of the Roman Empire?", options:["Economic troubles and political instability","A sudden, single unexplained event","No factors at all, since it never actually fell","Only good weather"], answer:0},
