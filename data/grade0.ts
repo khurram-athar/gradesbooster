@@ -1966,6 +1966,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Compound Words: Two Words Become One", summary:"Students learn that some words are made by joining two smaller words together, such as sun and flower joining to make sunflower.",
    resourceLabel:"YouTube: Compound Words: Two Words Become One", resourceUrl:"https://www.youtube.com/results?search_query=Compound%20Words%3A%20Two%20Words%20Become%20One%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Cot0s7NO7cw",
    quiz:[
      {q:"Which two words join to make sunflower?", options:["Rain and flower","Sun and star","Sun and flower","Moon and flower"], answer:2},
      {q:"What do rain and bow join to make?", options:["Bowtie","Raincoat","Rainbow","Rainfall"], answer:2},
@@ -1980,6 +1981,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtraction to 20", summary:"Students extend their subtraction skills to numbers within 20, taking one number away from another using objects or pictures.",
    resourceLabel:"YouTube: Subtraction to 20", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%20to%2020%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fny08Url8ik",
    quiz:[
      {q:"16 - 4 = ?", options:["12","11","10","13"], answer:0},
      {q:"20 - 8 = ?", options:["13","11","12","14"], answer:2},
@@ -1994,6 +1996,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Habitats: Where Animals Live", summary:"Students learn that a habitat is the place where an animal lives, and explore different habitats such as forests, oceans, and deserts.",
    resourceLabel:"YouTube: Animal Habitats: Where Animals Live", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%3A%20Where%20Animals%20Live%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tCmvhfq4mfU",
    quiz:[
      {q:"What is a habitat?", options:["The place where an animal lives","A type of toy","A type of food","A season"], answer:0},
      {q:"Where do fish usually live?", options:["In water","In a forest","In the sky","In a desert"], answer:0},
@@ -2008,6 +2011,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Peoples: The First Peoples of Canada", summary:"Students learn that Indigenous Peoples were the first people to live in what is now Canada, and explore some of their traditions, such as storytelling and caring for the land.",
    resourceLabel:"YouTube: Indigenous Peoples: The First Peoples of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Peoples%3A%20The%20First%20Peoples%20of%20Canada%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=glSIDAyyPJA",
    quiz:[
      {q:"Who were the first people to live in what is now Canada?", options:["European settlers","Indigenous Peoples","Astronauts","Pilots"], answer:1},
      {q:"Indigenous Peoples have traditionally shared their history and lessons through ___.", options:["Video games","Newspapers only","Storytelling","Television"], answer:2},

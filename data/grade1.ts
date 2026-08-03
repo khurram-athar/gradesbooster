@@ -1966,6 +1966,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Ending Blends: st, nd, nt, mp", summary:"Students learn that two consonants can blend together at the end of a word, such as st in nest, nd in hand, nt in tent, and mp in lamp.",
    resourceLabel:"YouTube: Ending Blends: st, nd, nt, mp", resourceUrl:"https://www.youtube.com/results?search_query=Ending%20Blends%3A%20st%2C%20nd%2C%20nt%2C%20mp%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=7_gxhhGCcgA",
    quiz:[
      {q:"Which word ends with the blend st?", options:["Sun","Cat","Nest","Dog"], answer:2},
      {q:"Which word ends with the blend nd?", options:["Top","Hand","Bed","Pig"], answer:1},
