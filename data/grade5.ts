@@ -1684,6 +1684,7 @@ const curriculum: DayContent[] = [
 {day:41, label:"Day 41 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Setting and Mood", summary:"Ontario Grade 5 Reading strand: setting is the time and place of a story, and mood is the feeling or atmosphere the setting and word choice create for the reader.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=40g0Cib7iIE",
    quiz:[
      {q:"Setting refers to ___.", options:["The book’s title","The number of chapters","The main character’s name","The time and place of a story"], answer:3},
      {q:"Mood refers to ___.", options:["The feeling or atmosphere created for the reader","The exact page count","The font used in the book","The author’s home address"], answer:0},
@@ -1693,6 +1694,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Unit Rates", summary:"Ontario Grade 5 Number strand: a unit rate compares a quantity to one unit of another quantity, such as kilometres per hour or price per item, making it easier to compare different options.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=VrsDrMsPb8g",
    quiz:[
      {q:"If a car travels 300 kilometres in 5 hours, what is its unit rate in kilometres per hour?", options:["50 km/h","1,500 km/h","60 km/h","5 km/h"], answer:2},
      {q:"A unit rate compares a quantity to ___.", options:["A completely unrelated quantity","Nothing at all","Ten units of another quantity","One unit of another quantity"], answer:3},
@@ -1702,6 +1704,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Skeletal and Muscular Systems", summary:"Ontario Grade 5 Science Human Body Systems strand: the skeletal system (bones) provides structure and protection for the body, while the muscular system works with bones to allow movement.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=XtHucs6VDYU",
    quiz:[
      {q:"The main role of the skeletal system is to ___.", options:["Filter air","Digest food","Provide structure and protect internal organs","Pump blood"], answer:2},
      {q:"The muscular system works with the skeletal system to ___.", options:["Digest food only","Allow the body to move","Filter blood","Control emotions directly"], answer:1},
@@ -1711,6 +1714,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Great Depression in Canada", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: the Great Depression of the 1930s caused widespread unemployment and hardship across Canada, leading to significant changes in government support programs.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=3DCjE-9jkaE",
    quiz:[
      {q:"The Great Depression took place mainly during which decade?", options:["1960s","1930s","1990s","1890s"], answer:1},
      {q:"The Great Depression caused widespread ___.", options:["Economic prosperity","Unemployment and hardship","Immediate improvement in living conditions","Population growth with no problems"], answer:1},
