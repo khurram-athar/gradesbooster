@@ -1981,6 +1981,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Doubles Facts in Addition", summary:"Students learn doubles facts, addition facts where both addends are the same number, such as 2 add 2 equals 4 and 5 add 5 equals 10, as a quick way to add.",
    resourceLabel:"YouTube: Doubles Facts in Addition", resourceUrl:"https://www.youtube.com/results?search_query=Doubles%20Facts%20in%20Addition%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OYWclXKzOJo",
    quiz:[
      {q:"What is 2 add 2?", options:["4","5","3","2"], answer:0},
      {q:"What is 6 add 6?", options:["13","10","12","11"], answer:2},
@@ -1995,6 +1996,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Healthy Eating and Food Groups", summary:"Students learn that healthy eating means choosing foods from different groups, such as fruits, vegetables, grains, and protein foods, to help the body grow strong.",
    resourceLabel:"YouTube: Healthy Eating and Food Groups", resourceUrl:"https://www.youtube.com/results?search_query=Healthy%20Eating%20and%20Food%20Groups%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pmgkj01uUTw",
    quiz:[
      {q:"Which of these is a healthy fruit?", options:["A soda","A candy bar","An apple","A lollipop"], answer:2},
      {q:"Which of these is a healthy vegetable?", options:["Broccoli","Cookies","Candy","Chips"], answer:0},
@@ -2009,6 +2011,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Local Government: Our Town Leaders", summary:"Students learn that towns and cities have leaders, such as a mayor and council, who help make decisions and take care of the community.",
    resourceLabel:"YouTube: Local Government: Our Town Leaders", resourceUrl:"https://www.youtube.com/results?search_query=Local%20Government%3A%20Our%20Town%20Leaders%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=FVQhFIF2-tI",
    quiz:[
      {q:"What is the title of an elected leader of a city or town?", options:["Dentist","Mayor","Farmer","Pilot"], answer:1},
      {q:"What does a town or city government help do?", options:["Only build houses","Only sell food","Nothing at all","Take care of the community and make decisions"], answer:3},

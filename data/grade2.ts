@@ -1966,6 +1966,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Homophones: Words That Sound the Same", summary:"Students learn that homophones are words that sound the same but have different spellings and meanings, such as to, too, and two, or their and there.",
    resourceLabel:"YouTube: Homophones: Words That Sound the Same", resourceUrl:"https://www.youtube.com/results?search_query=Homophones%3A%20Words%20That%20Sound%20the%20Same%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rQuWqcVzqUU",
    quiz:[
      {q:"What do we call words that sound the same but have different spellings and meanings?", options:["Homophones","Antonyms","Compound words","Synonyms"], answer:0},
      {q:"Which word means also or as well?", options:["Too","Ten","Two","To"], answer:0},
@@ -1980,6 +1981,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fact Families: Addition and Subtraction", summary:"Students learn that a fact family is a group of related addition and subtraction facts made from the same three numbers, such as 4 + 5 = 9, 5 + 4 = 9, 9 - 4 = 5, and 9 - 5 = 4.",
    resourceLabel:"YouTube: Fact Families: Addition and Subtraction", resourceUrl:"https://www.youtube.com/results?search_query=Fact%20Families%3A%20Addition%20and%20Subtraction%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AMLRFww0qJg",
    quiz:[
      {q:"What do we call a group of related addition and subtraction facts made from the same three numbers?", options:["A fact family","A number line","A pattern","A fraction"], answer:0},
      {q:"If 4 + 5 = 9, which of these also belongs in the same fact family?", options:["5 - 9 = 4","9 - 5 = 4","4 - 5 = 9","9 + 5 = 14"], answer:1},
@@ -1994,6 +1996,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Floating and Sinking", summary:"Students explore why some objects float on water while others sink, learning that this depends on an objects weight, shape, and the material it is made of.",
    resourceLabel:"YouTube: Floating and Sinking", resourceUrl:"https://www.youtube.com/results?search_query=Floating%20and%20Sinking%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=eQuW8G2QV_Q",
    quiz:[
      {q:"What do we call it when an object stays on top of the water?", options:["Sinking","Melting","Floating","Freezing"], answer:2},
      {q:"What do we call it when an object goes down under the water?", options:["Sinking","Floating","Boiling","Evaporating"], answer:0},
