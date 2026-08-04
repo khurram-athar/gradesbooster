@@ -1726,6 +1726,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Modifiers and Clarity", summary:"Ontario Grade 5 Writing strand: a modifier is a word or phrase that describes another word, and misplaced modifiers can make a sentence unclear or confusing if placed too far from the word they describe.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=goI9t8jxhso",
    quiz:[
      {q:"A modifier is a word or phrase that ___.", options:["Replaces punctuation","Describes another word in the sentence","Is always the subject of a sentence","Has no grammatical function"], answer:1},
      {q:"A misplaced modifier can cause a sentence to ___.", options:["Become clearer","Become confusing or unclear","Automatically fix itself","Have no effect on meaning"], answer:1},
@@ -1735,6 +1736,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying Fractions by Fractions", summary:"Ontario Grade 5 Number strand: to multiply two fractions, multiply the numerators together and the denominators together, then simplify the result if possible.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=H3ZY65icKmw",
    quiz:[
      {q:"What is 1/2 times 1/3?", options:["1/6","2/6","1/5","2/5"], answer:0},
      {q:"What is 2/3 times 3/4?", options:["5/7","6/7","6/12, which simplifies to 1/2","2/12"], answer:2},
@@ -1744,6 +1746,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Excretory System", summary:"Ontario Grade 5 Science Human Body Systems strand: the excretory system, including the kidneys and bladder, removes waste products and excess water from the blood to keep the body’s internal environment balanced.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=DChTODOdjPg",
    quiz:[
      {q:"The main organs of the excretory system include the ___.", options:["Heart and lungs","Brain and spinal cord","Stomach and intestines only","Kidneys and bladder"], answer:3},
      {q:"The main role of the excretory system is to ___.", options:["Pump oxygen throughout the body","Digest food completely","Control body temperature only","Remove waste products and excess water from the blood"], answer:3},
@@ -1753,6 +1756,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Path to Full Independence: The Statute of Westminster", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: the Statute of Westminster, passed in 1931, gave Canada and other Commonwealth countries greater legal independence from Britain in making their own laws.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=tYRNIrO6RFA",
    quiz:[
      {q:"The Statute of Westminster was passed in which year?", options:["1931","1945","1982","1867"], answer:0},
      {q:"The Statute of Westminster gave Canada greater ___.", options:["Legal independence in making its own laws","Control over other countries","Isolation from the Commonwealth","Dependence on Britain"], answer:0},

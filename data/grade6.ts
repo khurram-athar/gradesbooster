@@ -1726,6 +1726,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Writing: Writing a Book Critique", summary:"Ontario Grade 6 Writing strand: a book critique evaluates a book’s strengths and weaknesses, such as its plot, characters, and writing style, supported by specific examples from the text.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=Vzf0sw222qE",
    quiz:[
      {q:"A book critique focuses on ___.", options:["Evaluating a book’s strengths and weaknesses with examples","Copying the book word for word","Ignoring the book’s content entirely","Only listing the book’s price"], answer:0},
      {q:"Which element might a book critique evaluate?", options:["Only the book’s cover colour","The publisher’s address","Plot, characters, and writing style","The number of chapters only"], answer:2},
@@ -1735,6 +1736,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Equations with Fractions", summary:"Ontario Grade 6 Algebra strand: solving equations that include fractions often involves using inverse operations, such as multiplying both sides by the denominator to eliminate the fraction.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=EhlXEElLUmQ",
    quiz:[
      {q:"Solve for x: x/3 = 6.", options:["x = 18","x = 9","x = 3","x = 2"], answer:0},
      {q:"Solve for y: y/4 + 2 = 5.", options:["y = 20","y = 3","y = 12","y = 8"], answer:2},
@@ -1744,6 +1746,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ecosystem Interdependence and Symbiosis", summary:"Ontario Grade 6 Science Life Systems strand: symbiosis describes close relationships between different species in an ecosystem, including mutualism (both benefit), commensalism (one benefits, the other unaffected), and parasitism (one benefits, the other harmed).",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=qByPfah4raE",
    quiz:[
      {q:"Symbiosis refers to ___.", options:["A close relationship between different species","Only non-living interactions","The absence of any species interaction","A single species living completely alone"], answer:0},
      {q:"In a mutualistic relationship, ___.", options:["Only one species benefits, while the other is harmed","Both species benefit","One species disappears completely","Neither species benefits"], answer:1},
@@ -1753,6 +1756,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Byzantine Empire", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the Byzantine Empire was the continuation of the Eastern Roman Empire, centred in Constantinople, known for preserving Roman and Greek traditions and developing its own rich culture for many centuries.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Okph9wt8I0A",
    quiz:[
      {q:"The Byzantine Empire was the continuation of the ___.", options:["Eastern Roman Empire","Western Roman Empire","Mongol Empire","Ancient Egyptian Empire"], answer:0},
      {q:"The capital city of the Byzantine Empire was ___.", options:["Constantinople","Cairo","Athens","Rome"], answer:0},

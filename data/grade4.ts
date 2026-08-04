@@ -1726,6 +1726,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Irregular Verbs", summary:"Ontario Grade 4 Writing strand: irregular verbs do not follow the usual pattern of adding -ed for the past tense, such as go becoming went or eat becoming ate.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=IN9G_plSWr4",
    quiz:[
      {q:"What is the past tense of the irregular verb go?", options:["Went","Goed","Gone","Going"], answer:0},
      {q:"What is the past tense of the irregular verb eat?", options:["Eated","Eats","Eating","Ate"], answer:3},
@@ -1735,6 +1736,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Subtracting Fractions with the Same Denominator", summary:"Ontario Grade 4 Number strand: to subtract fractions with the same denominator, subtract the numerators and keep the denominator the same, such as 5/8 minus 2/8 equals 3/8.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=VTCOHFJOAA8",
    quiz:[
      {q:"What is 5/8 minus 2/8?", options:["2/8","3/8","7/8","3/16"], answer:1},
      {q:"What is 7/10 minus 4/10?", options:["11/10","3/10","3/20","4/10"], answer:1},
@@ -1744,6 +1746,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Classifying Materials: Natural and Synthetic", summary:"Ontario Grade 4 Science Matter and Energy strand: natural materials come directly from nature, such as wood or cotton, while synthetic materials are human-made, such as plastic or nylon.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=wmXXR3ECQD0",
    quiz:[
      {q:"A natural material is one that ___.", options:["Comes directly from nature","Is always metal","Is entirely human-made in a factory","Does not exist in the real world"], answer:0},
      {q:"A synthetic material is one that is ___.", options:["Human-made","Always liquid","Impossible to produce","Found only in forests"], answer:0},
@@ -1753,6 +1756,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Early Writing Systems", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early civilizations developed different writing systems, such as hieroglyphics in Egypt, cuneiform in Mesopotamia, and early script in the Indus Valley, to record information.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=dbu9yhzbpy4",
    quiz:[
      {q:"Hieroglyphics was the early writing system used in ___.", options:["Ancient Rome","Ancient Greece","Ancient Egypt","Ancient China"], answer:2},
      {q:"Cuneiform was the early writing system used in ___.", options:["Ancient China","Mesopotamia","Ancient India","Ancient Egypt"], answer:1},

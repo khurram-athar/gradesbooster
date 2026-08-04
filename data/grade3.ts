@@ -1756,6 +1756,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communities in Canada, 1780-1850: Relations with Indigenous Peoples", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: early relationships between settlers and Indigenous peoples included both cooperation, such as trading and sharing knowledge, and conflict, especially over land and resources.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=fSMzawssykE",
    quiz:[
      {q:"Indigenous peoples often helped early settlers by sharing ___.", options:["Knowledge of the land, farming, and survival skills","Nothing at all","Modern technology","Only money"], answer:0},
      {q:"Relationships between settlers and Indigenous peoples in this period included ___.", options:["No contact at all","Only conflict, never cooperation","Only cooperation, never conflict","Both cooperation, such as trade, and conflict"], answer:3},
