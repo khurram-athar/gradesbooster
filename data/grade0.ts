@@ -2028,6 +2028,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Question Words: Who, What, and Where", summary:"Students learn common question words, including who, what, and where, and practise using them to ask about people, things, and places.",
    resourceLabel:"YouTube: Question Words: Who, What, and Where", resourceUrl:"https://www.youtube.com/results?search_query=Question%20Words%3A%20Who%2C%20What%2C%20and%20Where%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bNJO_WneVSI",
    quiz:[
      {q:"Which question word would you use to ask about a person, like your teacher?", options:["Who","What","Where","When"], answer:0},
      {q:"Which question word would you use to ask about a place, like the park?", options:["Where","Why","Who","What"], answer:0},
@@ -2042,6 +2043,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 10s to 100", summary:"Students practise skip counting by tens, saying 10, 20, 30, and so on up to 100, to build number sense for larger numbers.",
    resourceLabel:"YouTube: Skip Counting by 10s to 100", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%2010s%20to%20100%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=s3mElG5HAU0",
    quiz:[
      {q:"Skip count by tens: 10, 20, then what number?", options:["21","40","25","30"], answer:3},
      {q:"Skip count by tens: 50, 60, 70, then what number?", options:["75","90","80","71"], answer:2},
