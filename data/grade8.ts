@@ -1734,6 +1734,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving for Missing Sides and Angles Using Trigonometry", summary:"Grade 8 Geometry strand (pre-high-school extension): applying the trigonometric ratios sine, cosine, and tangent allows you to solve for unknown side lengths or angles in a right triangle when other measurements are known.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=KK3_4S-ZJeo",
    quiz:[
      {q:"If you know an angle and the hypotenuse of a right triangle, which ratio could help you find the opposite side?", options:["A ratio unrelated to trigonometry","Only the Pythagorean theorem, with no trigonometry involved","Sine","None of the trigonometric ratios apply here"], answer:2},
      {q:"If you know the adjacent and opposite sides of a right triangle, which ratio could help you find the angle?", options:["Tangent","The volume formula","Only the circumference formula","A method unrelated to trigonometry"], answer:0},
@@ -1743,6 +1744,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Materials Science: Polymers and Composites", summary:"Grade 8 Science Matter and Energy strand: polymers are large molecules made of repeating units, while composites combine two or more different materials to create a substance with enhanced properties.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=FD4dncoxXRY",
    quiz:[
      {q:"A polymer is best described as ___.", options:["A type of pure element only","A single, simple atom","A large molecule made of repeating units","A material with no molecular structure"], answer:2},
      {q:"A composite material is formed by ___.", options:["Combining two or more different materials","A process unrelated to material combination","Removing all materials from a substance","Using only a single, unmixed material"], answer:0},

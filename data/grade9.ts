@@ -1723,6 +1723,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Writing: The Rhetorical Analysis Essay", summary:"Grade 9 Writing strand: a rhetorical analysis essay examines how a speaker or writer uses persuasive techniques, such as ethos, pathos, and logos, to achieve their purpose with a specific audience.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=ngrR1UhedpM",
    quiz:[
      {q:"A rhetorical analysis essay examines ___.", options:["Only the literal content of a text with no analysis of technique","A completely unrelated topic","The exact page count of a text","How a speaker or writer uses persuasive techniques to achieve their purpose"], answer:3},
      {q:"Which are the three classical rhetorical appeals often analyzed in this type of essay?", options:["Setting, plot, and character","Rhyme, rhythm, and meter","Subject, verb, and object","Ethos, pathos, and logos"], answer:3},
@@ -1732,6 +1733,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Completing the Square", summary:"Grade 9 Algebra strand: completing the square is a method for rewriting a quadratic expression in a form that reveals its vertex, useful for solving equations or graphing parabolas.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=dJiteq972Eg",
    quiz:[
      {q:"Completing the square is a method used to ___.", options:["Solve for the perimeter of a shape","A method unrelated to quadratic expressions","Simplify a linear equation only","Rewrite a quadratic expression to reveal its vertex"], answer:3},
      {q:"Completing the square can help with ___.", options:["Solving quadratic equations or graphing parabolas","A task unrelated to quadratics","Simplifying fractions only","Only measuring angles in a triangle"], answer:0},
@@ -1741,6 +1743,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Momentum and Collisions", summary:"Grade 9 Science Physics strand: momentum is the product of an object’s mass and velocity, and the law of conservation of momentum states that total momentum remains constant in a closed system during a collision.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=Y-QOfc2XqOk",
    quiz:[
      {q:"Momentum is calculated as ___.", options:["Mass plus velocity","Mass times velocity","Mass divided by velocity","Velocity alone, with no connection to mass"], answer:1},
      {q:"The law of conservation of momentum states that total momentum in a closed system ___.", options:["Always increases without limit","Has no defined value","Remains constant","Always decreases to zero"], answer:2},
@@ -1750,6 +1753,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Geography of Pandemics and Global Health", summary:"Grade 9 Social Studies (Geography) strand: the spread of infectious diseases is influenced by geographic factors such as population density, travel networks, and access to healthcare, shaping global public health responses.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=_luU3I03JwE",
    quiz:[
      {q:"The spread of infectious diseases can be influenced by geographic factors such as ___.", options:["Only the colour of local buildings","Population density and travel networks","A factor entirely unrelated to geography","Weather patterns exclusively, with no other influence"], answer:1},
      {q:"Why might densely populated urban areas experience faster disease transmission?", options:["Closer and more frequent contact between people can make transmission easier","Population density has no connection to disease spread","Disease transmission is unrelated to human contact patterns","Urban areas are always less affected than rural areas"], answer:0},
