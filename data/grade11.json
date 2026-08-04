@@ -9718,60 +9718,61 @@
       },
       {
         "subject": "Biology",
-        "title": "Review: Genetics, Ecology, and Physiology",
-        "summary": "Grade 11 Biology strand review: this lesson revisits microbiology and immunity, CRISPR, biomes, the excretory system, gene expression, genetic testing ethics, the fossil record, and plant hormones.",
+        "title": "Population Ecology: Growth Curves and Carrying Capacity",
+        "summary": "Grade 11 Biology strand: population ecology studies how populations grow over time, from rapid exponential growth to logistic growth that levels off as a population approaches its environment's carrying capacity.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=PQ-CQ3CQE3g",
         "quiz": [
           {
-            "q": "CRISPR is a technology used to ___.",
+            "q": "Exponential population growth occurs when ___.",
             "options": [
-              "Replace the need for any genetic material",
-              "A process entirely unrelated to genetics",
-              "Precisely edit DNA sequences",
-              "Only observe DNA, with no ability to change it"
+              "A population's growth rate slows as resources become limited",
+              "Resources are unlimited and a population grows at an accelerating rate",
+              "A population stops growing entirely",
+              "A population always shrinks over time"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "A biome is best described as ___.",
+            "q": "Carrying capacity refers to ___.",
             "options": [
-              "A large geographic region with a distinct climate and community of organisms",
-              "A concept unrelated to geography or climate",
-              "A single, isolated organism with no connection to its environment",
-              "A term with no connection to plant or animal life"
+              "The maximum population size an environment can sustainably support",
+              "The total number of species in an ecosystem",
+              "A population's birth rate only",
+              "The speed at which a population grows"
             ],
             "answer": 0
           },
           {
-            "q": "Gene regulation controls ___.",
+            "q": "Logistic growth differs from exponential growth because logistic growth ___.",
             "options": [
-              "Only the physical location of a gene within a cell",
-              "A factor entirely unrelated to gene activity",
-              "When and how much a gene is expressed",
-              "Whether a gene exists within an organism’s DNA"
+              "Never actually occurs in nature",
+              "Increases forever with no limit",
+              "Levels off as the population approaches carrying capacity",
+              "Only applies to plant populations"
             ],
             "answer": 2
           },
           {
-            "q": "The fossil record provides physical evidence of ___.",
+            "q": "Which factor is most likely to slow population growth as a population nears its carrying capacity?",
             "options": [
-              "A concept unrelated to biological history",
-              "Only currently living organisms, with no connection to the past",
-              "Modern organisms exclusively, with no historical evidence",
-              "Past life forms"
+              "Limited resources, such as food and space",
+              "An abundance of unlimited resources",
+              "A complete absence of predators",
+              "Constant, unlimited food supply"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
-            "q": "Why is it useful to review genetics, ecology, and physiology topics together?",
+            "q": "Why is understanding population growth curves useful in ecology?",
             "options": [
-              "Review is never useful in biology",
-              "These topics have no connection to each other",
-              "Each topic must be studied with no connection to the others",
-              "It reinforces how these interconnected biological concepts relate to one another"
+              "It has no practical application",
+              "It helps predict how populations respond to limited resources over time",
+              "Population growth never changes over time",
+              "This concept only applies to human populations"
             ],
-            "answer": 3
+            "answer": 1
           }
         ]
       },

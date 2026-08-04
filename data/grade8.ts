@@ -1668,14 +1668,15 @@ const curriculum: DayContent[] = [
      {q:"Mechatronics combines mechanical engineering, electronics, and ___.", options:["Only agriculture","A field unrelated to technology","Programming","Only art and music"], answer:2},
      {q:"Why is it valuable to review genetics, evolution, and emerging technologies together?", options:["These topics are entirely unrelated to each other","Each topic must always be studied in isolation","Review provides no benefit in science","It helps connect and reinforce related science concepts learned across recent lessons"], answer:3}
    ]},
-  {subject:"History", title:"Review: 19th and 20th-Century Canadian History", summary:"Grade 8 History review: this lesson revisits the Fenian Raids, the Northwest Resistance, women’s suffrage, the Winnipeg General Strike, Japanese Canadian internment, and the October Crisis covered across recent lessons.",
+  {subject:"History", title:"The Great Depression: Causes and Effects", summary:"Grade 8 History strand: the Great Depression of the 1930s was a period of severe economic hardship marked by widespread unemployment and bank failures, prompting new government relief programs and lasting changes to economic policy, including in Canada.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=KB9HvnEWPTg",
    quiz:[
-     {q:"The Fenian Raids were carried out by ___.", options:["The Spanish military","A Canadian political party","The French government","Irish-American groups"], answer:3},
-     {q:"Louis Riel played a significant role in leading resistance related to ___.", options:["Métis and First Nations concerns over land rights","European colonization of Africa","A war fought entirely overseas","A conflict unrelated to Canadian history"], answer:0},
-     {q:"Canadian women gained the right to vote in federal elections in which year?", options:["1918","1950","1982","1867"], answer:0},
-     {q:"During the October Crisis, the federal government invoked ___.", options:["No formal legal measures at all","The War Measures Act","A law unrelated to this crisis","An agreement with a foreign country"], answer:1},
-     {q:"Why is it useful to review 19th and 20th-century Canadian history topics together?", options:["It helps reinforce how these historical events connect to shape modern Canada","These topics have no meaningful connections","Review is never useful in history","Each topic must be studied with no connection to the others"], answer:0}
+     {q:"What is the Great Depression generally recognized as?", options:["A brief period of rapid economic growth","A severe, prolonged period of economic hardship and high unemployment","A war between two countries","A natural disaster unrelated to the economy"], answer:1},
+     {q:"The Great Depression began in which decade?", options:["The 1930s","The 1950s","The 1980s","The 1900s"], answer:0},
+     {q:"Which of these was a common hardship faced during the Great Depression?", options:["Widespread unemployment and bank failures","Full employment for all workers","No effect on people's daily lives","Rapidly rising wages for everyone"], answer:0},
+     {q:"Governments responded to the Great Depression by ___.", options:["Ignoring the crisis completely","Introducing relief programs and new economic policies","Eliminating all forms of government spending","Refusing to acknowledge any economic hardship"], answer:1},
+     {q:"Why do historians study the Great Depression today?", options:["It offers no lessons for understanding modern economics","It has no connection to government policy","It helps us understand the causes and consequences of major economic downturns","It only affected a small number of people"], answer:2}
    ]},
 ]},
 {day:41, label:"Day 41 — Mon", subjects:[

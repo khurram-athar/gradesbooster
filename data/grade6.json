@@ -9659,178 +9659,181 @@
       },
       {
         "subject": "Math",
-        "title": "Review: Ratios, Equations, Geometry, and Number Sense",
-        "summary": "Ontario Grade 6 Number and Geometry strands review: this lesson revisits ratio tables, two-step equations, circle circumference and area, surface area, and divisibility and prime factorization from recent lessons.",
+        "title": "Order of Operations with Integers",
+        "summary": "Ontario Grade 6 Number Sense strand: the order of operations (BEDMAS) tells us which calculations to perform first when a numerical expression involves both positive and negative integers and more than one operation.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=03aAr9Fh2SQ",
         "quiz": [
           {
-            "q": "If a ratio is 2 to 3 and scaled up to have 6 as the first term, what is the second term?",
+            "q": "What does the order of operations tell you to do first when an expression contains parentheses?",
             "options": [
-              "12",
-              "6",
-              "3",
-              "9"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Solve for x: 3x + 4 = 19.",
-            "options": [
-              "x = 15",
-              "x = 3",
-              "x = 5",
-              "x = 23"
+              "Add first",
+              "Multiply first",
+              "Solve what's inside the parentheses first",
+              "Always start from the right"
             ],
             "answer": 2
           },
           {
-            "q": "What is the circumference formula for a circle?",
+            "q": "Evaluate: -3 + 4 x (-2).",
             "options": [
-              "Pi times radius squared",
-              "Pi times diameter",
-              "Length times width",
-              "Radius times height"
+              "2",
+              "-11",
+              "14",
+              "-2"
             ],
             "answer": 1
           },
           {
-            "q": "What is the prime factorization of 20?",
+            "q": "In the order of operations, which comes first: multiplication/division or addition/subtraction?",
             "options": [
-              "4 x 5",
-              "2 x 2 x 5",
-              "1 x 20",
-              "2 x 10"
+              "Addition/subtraction always first",
+              "Whichever appears first, left to right",
+              "They're solved in reverse alphabetical order",
+              "Multiplication/division before addition/subtraction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Evaluate: (-6 + 2) x 3.",
+            "options": [
+              "-12",
+              "0",
+              "-4",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to follow the order of operations with integers?",
+            "options": [
+              "It's not important, any order works",
+              "Following a consistent order ensures everyone gets the same, correct answer",
+              "It only matters for positive numbers",
+              "It changes the value of the numbers themselves"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Simple Machines and Mechanical Advantage",
+        "summary": "Ontario Grade 6 Science Structures and Mechanisms strand: simple machines such as levers, pulleys, and inclined planes make work easier by providing a mechanical advantage, multiplying force or changing the direction it is applied.",
+        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=s2WNu4G7ptk",
+        "quiz": [
+          {
+            "q": "What is a simple machine?",
+            "options": [
+              "A device with many complex electronic parts",
+              "A basic device that makes work easier by changing force or direction",
+              "A machine that only works using electricity",
+              "A tool that has no effect on force"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful to review ratios, equations, geometry, and number sense together?",
+            "q": "Mechanical advantage describes ___.",
             "options": [
-              "These related math concepts reinforce each other for stronger overall understanding",
-              "Each topic must be learned in complete isolation",
-              "These topics have no connection to each other",
-              "Review is never useful in math"
+              "The exact weight of a machine",
+              "The number of parts in a machine",
+              "How a simple machine multiplies force or changes its direction",
+              "How loud a machine is"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a simple machine?",
+            "options": [
+              "A smartphone",
+              "A lever",
+              "A television",
+              "A laptop"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An inclined plane makes work easier by ___.",
+            "options": [
+              "Removing the need for any force at all",
+              "Making objects heavier",
+              "Only working with liquids",
+              "Increasing the distance over which force is applied, reducing the force needed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do we study simple machines in science class?",
+            "options": [
+              "They help us understand how force and work apply to everyday tools",
+              "They have no real-world uses",
+              "Simple machines are not used in real life",
+              "They only apply to ancient history"
             ],
             "answer": 0
           }
         ]
       },
       {
-        "subject": "Science",
-        "title": "Review: Cells, Microorganisms, Genetics, and Earth Systems",
-        "summary": "Ontario Grade 6 Science review: this lesson revisits cells, microorganisms, genetics and heredity, natural disasters, and the water and carbon cycles covered across recent lessons.",
-        "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
-        "quiz": [
-          {
-            "q": "Which are considered the basic building blocks of living things?",
-            "options": [
-              "Clouds",
-              "Cells",
-              "Rocks",
-              "Rivers"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Which type of microorganism generally needs a host to reproduce?",
-            "options": [
-              "A large mammal",
-              "A virus",
-              "A plant",
-              "A rock"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Heredity involves the passing of traits through ___.",
-            "options": [
-              "Weather patterns",
-              "Ocean currents",
-              "Rock formations",
-              "Genes"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Earthquakes are commonly linked to the movement of ___.",
-            "options": [
-              "Ocean currents only",
-              "Ratios",
-              "Clouds",
-              "Tectonic plates"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why is it valuable to review cells, microorganisms, genetics, and Earth systems together?",
-            "options": [
-              "Each topic must always be studied in isolation",
-              "These topics are entirely unrelated to each other",
-              "It helps connect and reinforce related science concepts learned across recent lessons",
-              "Review provides no benefit in science"
-            ],
-            "answer": 2
-          }
-        ]
-      },
-      {
         "subject": "SocialStudies",
-        "title": "Review: World History and Global Cooperation",
-        "summary": "Ontario Grade 6 Social Studies review: this lesson revisits the Vikings, the Silk Road, the Islamic Golden Age, feudal Japan, the Cold War, the United Nations, human rights, globalization, and Indigenous rights movements.",
+        "title": "The Renaissance: Art, Science, and New Ideas",
+        "summary": "Ontario Grade 6 Social Studies Heritage and Identity strand: the Renaissance was a period of renewed interest in art, science, and learning that began in Italy and transformed ideas about the world across Europe.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5g2t582YeCs",
         "quiz": [
           {
-            "q": "Which group of Norse seafarers explored and traded across parts of Europe and reached North America?",
+            "q": "The Renaissance was a period of renewed interest in ___.",
             "options": [
-              "The Mongols",
-              "The Romans",
-              "The Aztecs",
-              "The Vikings"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which network of trade routes connected Asia, the Middle East, and Europe?",
-            "options": [
-              "The Cold War",
-              "The Silk Road",
-              "A modern highway system",
-              "The United Nations"
+              "War and conquest only",
+              "Art, science, and learning",
+              "Isolation from other cultures",
+              "Only religious matters"
             ],
             "answer": 1
           },
           {
-            "q": "Which international organization was formed after World War II to promote peace and cooperation?",
+            "q": "Where did the Renaissance begin?",
             "options": [
-              "A private business",
-              "A single country’s government",
-              "The United Nations",
-              "A local municipal council"
+              "England",
+              "Egypt",
+              "Italy",
+              "Japan"
             ],
             "answer": 2
           },
           {
-            "q": "The Universal Declaration of Human Rights outlines rights believed to belong to ___.",
+            "q": "Which Renaissance figure was known for both art and scientific studies?",
             "options": [
-              "Only government leaders",
-              "Only citizens of one country",
-              "No one in particular",
-              "All people"
+              "Leonardo da Vinci",
+              "Julius Caesar",
+              "Genghis Khan",
+              "Cleopatra"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The word 'Renaissance' means ___.",
+            "options": [
+              "Revolution",
+              "Reformation",
+              "Republic",
+              "Rebirth"
             ],
             "answer": 3
           },
           {
-            "q": "Why is it useful to review world history and global cooperation topics together?",
+            "q": "Why is the Renaissance considered an important period in history?",
             "options": [
-              "These topics have no meaningful connections",
-              "Review is never useful in social studies",
-              "It helps reinforce how historical events and international cooperation connect over time",
-              "Each topic must be studied with no connection to the others"
+              "It had no lasting impact on later history",
+              "It sparked new ideas in art, science, and learning that shaped later centuries",
+              "It ended all forms of art and learning",
+              "It only affected a small isolated village"
             ],
-            "answer": 2
+            "answer": 1
           }
         ]
       }
