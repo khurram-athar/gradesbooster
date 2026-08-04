@@ -1723,6 +1723,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"English", title:"Writing: The Persuasive Op-Ed", summary:"Grade 10 English strand: an op-ed is a persuasive opinion piece that presents a clear argument on a current issue, supported by evidence and a compelling, direct writing style.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=NB9-B590Y-k",
    quiz:[
      {q:"An op-ed is best described as ___.", options:["A persuasive opinion piece on a current issue","A completely neutral summary with no opinion","A piece of writing unrelated to current issues","A purely factual report with no argument"], answer:0},
      {q:"Why should an op-ed include supporting evidence for its argument?", options:["Evidence is unnecessary in this type of writing","An op-ed should never include any supporting evidence","Evidence strengthens the credibility and persuasiveness of the argument","Evidence always weakens a persuasive argument"], answer:2},
@@ -1732,6 +1733,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Logarithmic Functions and Their Graphs", summary:"Grade 10 Functions strand (extension): a logarithmic function is the inverse of an exponential function, and its graph increases slowly and has a vertical asymptote at x equals zero.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=-nptxS9rZNA",
    quiz:[
      {q:"A logarithmic function is the inverse of ___.", options:["A linear function","A quadratic function","An exponential function","A function unrelated to exponents"], answer:2},
      {q:"The graph of a basic logarithmic function has a vertical asymptote at ___.", options:["x equals one","y equals zero","x equals zero","A point unrelated to the origin"], answer:2},
@@ -1741,6 +1743,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Electric Circuits and Ohm’s Law", summary:"Grade 10 Physics strand: Ohm’s Law describes the relationship between voltage, current, and resistance in an electric circuit, stating that voltage equals current multiplied by resistance.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=r-SCyD7f_zI",
    quiz:[
      {q:"Ohm’s Law describes the relationship between ___.", options:["Only mass and volume","Only temperature and pressure","Voltage, current, and resistance","A relationship unrelated to electricity"], answer:2},
      {q:"According to Ohm’s Law, voltage equals ___.", options:["Current multiplied by resistance","A value unrelated to current or resistance","Current divided by resistance","Resistance minus current"], answer:0},
@@ -1750,6 +1753,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Winnipeg General Strike and Labour Movements", summary:"Grade 10 History strand: the 1919 Winnipeg General Strike was a major labour action in which workers demanded better wages and working conditions, becoming a landmark event in Canadian labour history.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=ew6DyrTG8EM",
    quiz:[
      {q:"The Winnipeg General Strike took place in which year?", options:["1995","1945","1867","1919"], answer:3},
      {q:"Workers involved in the Winnipeg General Strike were primarily demanding ___.", options:["A topic entirely unrelated to labour rights","Better wages and working conditions","Reduced access to any workplace rights","No specific changes at all"], answer:1},

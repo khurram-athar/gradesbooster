@@ -10092,6 +10092,7 @@
         "summary": "Grade 10 English strand: an op-ed is a persuasive opinion piece that presents a clear argument on a current issue, supported by evidence and a compelling, direct writing style.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=NB9-B590Y-k",
         "quiz": [
           {
             "q": "An op-ed is best described as ___.",
@@ -10151,6 +10152,7 @@
         "summary": "Grade 10 Functions strand (extension): a logarithmic function is the inverse of an exponential function, and its graph increases slowly and has a vertical asymptote at x equals zero.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=-nptxS9rZNA",
         "quiz": [
           {
             "q": "A logarithmic function is the inverse of ___.",
@@ -10210,6 +10212,7 @@
         "summary": "Grade 10 Physics strand: Ohm’s Law describes the relationship between voltage, current, and resistance in an electric circuit, stating that voltage equals current multiplied by resistance.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=r-SCyD7f_zI",
         "quiz": [
           {
             "q": "Ohm’s Law describes the relationship between ___.",
@@ -10269,6 +10272,7 @@
         "summary": "Grade 10 History strand: the 1919 Winnipeg General Strike was a major labour action in which workers demanded better wages and working conditions, becoming a landmark event in Canadian labour history.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=ew6DyrTG8EM",
         "quiz": [
           {
             "q": "The Winnipeg General Strike took place in which year?",

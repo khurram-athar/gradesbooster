@@ -1742,6 +1742,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Genetics: Polygenic Inheritance and Continuous Traits", summary:"Grade 11 Biology strand: polygenic inheritance occurs when multiple genes influence a single trait, often resulting in a continuous range of phenotypes, such as height, rather than distinct categories.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=YJHGfbW55l0",
    quiz:[
      {q:"Polygenic inheritance occurs when ___.", options:["No genes are involved in determining a trait","A concept unrelated to inheritance patterns","Multiple genes influence a single trait","Only a single gene influences a trait, with no other genes involved"], answer:2},
      {q:"Traits controlled by polygenic inheritance often result in ___.", options:["No variation at all among individuals","A continuous range of phenotypes","A pattern unrelated to genetic influence","Only two distinct, separate categories"], answer:1},
@@ -1751,6 +1752,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Nuclear Chemistry: Half-Life Calculations and Applications", summary:"Grade 11 Chemistry strand: half-life is the time required for half of a radioactive sample to decay, and half-life calculations are used in applications ranging from medicine to archaeological dating.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=WTQvfvoOF3g",
    quiz:[
      {q:"Half-life refers to the time required for ___.", options:["No decay to occur within a sample","A concept unrelated to radioactive decay","Half of a radioactive sample to decay","An entire radioactive sample to decay completely"], answer:2},
      {q:"Which is an example of a practical application of half-life calculations?", options:["A process with no connection to scientific measurement","A use entirely unrelated to radioactive decay","Determining the age of ancient artifacts through radiocarbon dating","An application unrelated to chemistry or physics"], answer:2},
