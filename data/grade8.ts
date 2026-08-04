@@ -1650,14 +1650,15 @@ const curriculum: DayContent[] = [
      {q:"When reading a text with an unreliable narrator, readers should ___.", options:["Accept everything the narrator says without question","Compare the narrator’s account with other clues in the text","Ignore the narrator completely","Assume the narrator is always lying"], answer:1},
      {q:"Which is an example of a clue that a narrator might be unreliable?", options:["The narrator’s account contradicts other evidence in the story","The narrator describes the weather","The story has a title","The narrator is an adult"], answer:0}
    ]},
-  {subject:"Math", title:"Review: Systems, Trigonometry, and Advanced Number Concepts", summary:"Grade 8 Number and Geometry strands review: this lesson revisits solving systems by substitution, introductory trigonometric ratios, standard deviation, rational exponents, and real number classification from recent lessons.",
+  {subject:"Math", title:"Solving Systems of Equations by Substitution", summary:"Grade 8 Algebra strand: the substitution method solves a system of equations by isolating one variable in one equation and substituting that expression into the other equation, making it possible to solve for both variables.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=uzyd_mIJaoc",
    quiz:[
-     {q:"Solve the system using substitution: y = x + 3 and x + y = 9.", options:["x = 4, y = 7","x = 9, y = 12","x = 3, y = 6","x = 6, y = 9"], answer:2},
-     {q:"In a right triangle, sine is defined as ___.", options:["Opposite over hypotenuse","Hypotenuse over opposite","Opposite over adjacent","Adjacent over hypotenuse"], answer:0},
-     {q:"A larger standard deviation indicates ___.", options:["That all values are identical","More variability in the data","That the mean cannot be calculated","Less variability in the data"], answer:1},
-     {q:"x to the power of one-half is equivalent to ___.", options:["x to the power of two","x squared","The square root of x","x times one-half"], answer:2},
-     {q:"Why is it useful to review systems, trigonometry, and advanced number concepts together?", options:["These related math concepts reinforce each other for stronger overall understanding","Each topic must be learned in complete isolation","These topics have no connection to each other","Review is never useful in math"], answer:0}
+     {q:"What is the first step in solving a system of equations by substitution?", options:["Add the two equations together","Graph both equations on the same axes","Isolate one variable in one equation, then substitute into the other","Multiply both equations by a constant"], answer:2},
+     {q:"Solve using substitution: y = x + 2 and x + y = 10. What is the value of x?", options:["x = 6","x = 4","x = 8","x = 2"], answer:1},
+     {q:"Substitution is often the most efficient method when ___.", options:["one equation is already solved for a single variable","both equations are in standard form with large coefficients","the system has no solution","the equations involve only inequalities"], answer:0},
+     {q:"After substituting one equation into the other, you solve the resulting equation for ___.", options:["a fraction","a constant only","the y-intercept","the remaining variable"], answer:3},
+     {q:"Why is it useful to check a substitution solution by plugging both values back into the original equations?", options:["It is not useful and can be skipped","It only works for elimination, not substitution","It confirms the solution satisfies both equations simultaneously","It changes the value of the variables"], answer:2}
    ]},
   {subject:"Science", title:"Review: Genetics, Evolution, and Emerging Technologies", summary:"Grade 8 Science review: this lesson revisits Punnett squares, evolution and natural selection, DNA structure, robotics and mechatronics, and nanotechnology covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
