@@ -10093,6 +10093,7 @@
         "summary": "Grade 11 English strand: an op-ed presents a clear, well-supported argument on a public issue, aiming to persuade readers through evidence, logical reasoning, and a compelling authorial voice.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=PxgY9q_vuJw",
         "quiz": [
           {
             "q": "An op-ed presents a clear, well-supported argument on ___.",
@@ -10152,6 +10153,7 @@
         "summary": "Grade 11 Functions strand: Pascal’s Triangle is a triangular array of numbers where each number is the sum of the two directly above it, and it provides the coefficients used in the Binomial Theorem.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=l2gEvV41Ws0",
         "quiz": [
           {
             "q": "In Pascal’s Triangle, each number is found by ___.",

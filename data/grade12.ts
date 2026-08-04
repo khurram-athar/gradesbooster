@@ -1642,6 +1642,7 @@ const curriculum: DayContent[] = [
 {day:40, label:"Day 40 — Fri", subjects:[
   {subject:"English", title:"Writing: Revising the Personal Essay for Depth and Precision", summary:"Grade 12 English strand: revising a personal essay for depth and precision involves moving beyond surface-level description to sharpen reflection, cut unnecessary language, and ensure every detail serves the essay’s central meaning.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=Xz94wRwFOCI",
    quiz:[
      {q:"Revising a personal essay for depth involves moving beyond ___.", options:["A concept unrelated to a writer’s reflection","Only correcting spelling and punctuation errors","Surface-level description","Adding random, unrelated details with no clear purpose"], answer:2},
      {q:"Why might a writer cut certain sentences or details during revision, even if they are well-written?", options:["Well-written sentences should always be kept regardless of their relevance to the essay’s focus","This concept has no connection to effective revision practices","Removing content that does not serve the essay’s central meaning can sharpen its overall focus and impact","Cutting content during revision never improves a piece of writing"], answer:2},
@@ -1722,6 +1723,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"English", title:"Literature: Postmodern Metafiction and Self-Reference", summary:"Grade 12 English strand: metafiction is a literary technique in which a work self-consciously draws attention to its own status as fiction, often blurring the line between the story and its own construction.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=aGEODO2_48E",
    quiz:[
      {q:"Metafiction is a technique in which a work draws attention to its own status as ___.", options:["A completely factual, non-fictional account","A concept unrelated to storytelling","Fiction","A physical object with no narrative content"], answer:2},
      {q:"Metafiction often blurs the line between a story and ___.", options:["A completely unrelated external event","The reader’s personal, private life","A concept unrelated to narrative technique","Its own construction"], answer:3},
@@ -1731,6 +1733,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Functions: Iteration and Fixed Points", summary:"Grade 12 Advanced Functions strand: iterating a function means repeatedly applying it to its own output, and a fixed point is a value that remains unchanged when the function is applied to it.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=OLqdJMjzib8",
    quiz:[
      {q:"Iterating a function means repeatedly applying it to ___.", options:["Its own output","A concept unrelated to functions","Only its original input value, with no repetition involved","A completely different, unrelated function"], answer:0},
      {q:"A fixed point of a function is a value that ___.", options:["Always changes dramatically every time the function is applied","A concept unrelated to how a function behaves","Can never be found for any type of function","Remains unchanged when the function is applied to it"], answer:3},
@@ -1740,6 +1743,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Curvature and the Osculating Circle", summary:"Grade 12 Calculus strand: curvature measures how sharply a curve bends at a given point, and the osculating circle is the circle that best approximates the curve’s shape at that specific point.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=DbdsCh0YSrM",
    quiz:[
      {q:"Curvature measures how sharply a curve ___ at a given point.", options:["Remains perfectly straight","A concept unrelated to a curve’s shape","Bends","Changes colour"], answer:2},
      {q:"The osculating circle is the circle that best approximates a curve’s shape at ___.", options:["Every point along the entire curve simultaneously","No particular location at all","A specific point","A concept unrelated to the curve’s geometry"], answer:2},
@@ -1749,6 +1753,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Blackbody Radiation and Planck’s Law", summary:"Grade 12 Physics strand: a blackbody is an idealized object that absorbs all incoming radiation, and Planck’s Law describes how the intensity of radiation it emits depends on wavelength and temperature.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=bF3WAOBejqg",
    quiz:[
      {q:"A blackbody is an idealized object that absorbs ___.", options:["A concept unrelated to the absorption of radiation","All incoming radiation","Only visible light, with no other wavelengths absorbed","No radiation whatsoever"], answer:1},
      {q:"Planck’s Law describes how the intensity of radiation emitted by a blackbody depends on wavelength and ___.", options:["Temperature","Colour, with no connection to any physical property","Mass","A factor entirely unrelated to radiation"], answer:0},

@@ -1724,6 +1724,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"English", title:"Writing: The Op-Ed and Public Argument", summary:"Grade 11 English strand: an op-ed presents a clear, well-supported argument on a public issue, aiming to persuade readers through evidence, logical reasoning, and a compelling authorial voice.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=PxgY9q_vuJw",
    quiz:[
      {q:"An op-ed presents a clear, well-supported argument on ___.", options:["A topic entirely unrelated to public discussion","Only a private matter with no public relevance","A subject that requires no supporting evidence","A public issue"], answer:3},
      {q:"Why should an op-ed rely on logical reasoning to support its argument?", options:["Logic always weakens the emotional impact of an argument","An op-ed should avoid using any reasoning or evidence","Sound reasoning strengthens the credibility and persuasiveness of the piece","Logical reasoning has no role in persuasive writing"], answer:2},
@@ -1733,6 +1734,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Discrete Math: Pascal’s Triangle and the Binomial Theorem", summary:"Grade 11 Functions strand: Pascal’s Triangle is a triangular array of numbers where each number is the sum of the two directly above it, and it provides the coefficients used in the Binomial Theorem.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=l2gEvV41Ws0",
    quiz:[
      {q:"In Pascal’s Triangle, each number is found by ___.", options:["Subtracting the two numbers above it","Multiplying the row number by itself","Adding the two numbers directly above it","A method unrelated to the numbers above it"], answer:2},
      {q:"Pascal’s Triangle provides the coefficients used in ___.", options:["A concept entirely unrelated to algebra","The Binomial Theorem","A theorem unrelated to expanding expressions","Only geometry problems, with no algebraic connection"], answer:1},

@@ -9603,6 +9603,7 @@
         "summary": "Grade 12 English strand: revising a personal essay for depth and precision involves moving beyond surface-level description to sharpen reflection, cut unnecessary language, and ensure every detail serves the essay’s central meaning.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Xz94wRwFOCI",
         "quiz": [
           {
             "q": "Revising a personal essay for depth involves moving beyond ___.",
@@ -10091,6 +10092,7 @@
         "summary": "Grade 12 English strand: metafiction is a literary technique in which a work self-consciously draws attention to its own status as fiction, often blurring the line between the story and its own construction.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=aGEODO2_48E",
         "quiz": [
           {
             "q": "Metafiction is a technique in which a work draws attention to its own status as ___.",
@@ -10150,6 +10152,7 @@
         "summary": "Grade 12 Advanced Functions strand: iterating a function means repeatedly applying it to its own output, and a fixed point is a value that remains unchanged when the function is applied to it.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=OLqdJMjzib8",
         "quiz": [
           {
             "q": "Iterating a function means repeatedly applying it to ___.",
@@ -10209,6 +10212,7 @@
         "summary": "Grade 12 Calculus strand: curvature measures how sharply a curve bends at a given point, and the osculating circle is the circle that best approximates the curve’s shape at that specific point.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=DbdsCh0YSrM",
         "quiz": [
           {
             "q": "Curvature measures how sharply a curve ___ at a given point.",
@@ -10268,6 +10272,7 @@
         "summary": "Grade 12 Physics strand: a blackbody is an idealized object that absorbs all incoming radiation, and Planck’s Law describes how the intensity of radiation it emits depends on wavelength and temperature.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=bF3WAOBejqg",
         "quiz": [
           {
             "q": "A blackbody is an idealized object that absorbs ___.",
