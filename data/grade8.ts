@@ -1724,6 +1724,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Writing: The Persuasive Speech for a Formal Debate", summary:"Grade 8 Writing strand: a persuasive speech for a formal debate presents a clear position on a topic, supported by structured arguments and evidence, while anticipating and addressing the opposing side.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=l5Lloki4HKA",
    quiz:[
      {q:"A persuasive speech for a formal debate should present ___.", options:["Only the speaker’s personal preferences with no evidence","A summary with no argument","A clear position supported by structured arguments and evidence","No clear position at all"], answer:2},
      {q:"Why is it important to anticipate the opposing side’s arguments in a debate speech?", options:["This preparation has no strategic value","Anticipating opposing arguments always weakens a debate speech","It allows the speaker to prepare effective responses and strengthen their position","Debate speeches should never consider the opposing side"], answer:2},
@@ -1751,6 +1752,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Persons Case and Legal Rights for Women", summary:"Grade 8 History strand: the Persons Case of 1929 was a landmark legal decision that established that women in Canada were legally considered persons eligible to be appointed to the Senate, expanding women’s legal rights.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=if_pyx5dm9Y",
    quiz:[
      {q:"The Persons Case was decided in which year?", options:["1929","1867","1982","1918"], answer:0},
      {q:"The Persons Case established that women in Canada were legally considered ___.", options:["Persons eligible to be appointed to the Senate","Ineligible for any legal rights","Excluded from all legal recognition","A group with no connection to Canadian law"], answer:0},

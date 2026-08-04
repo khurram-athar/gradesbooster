@@ -1726,6 +1726,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Writing: Writing a Satirical Piece", summary:"Ontario Grade 7 Writing strand: satire uses humour, irony, or exaggeration to criticize or draw attention to flaws in society, people, or ideas.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=Z9Aww6YAcqA",
    quiz:[
      {q:"Satire is a form of writing that uses ___.", options:["Purely factual reporting with no commentary","Only straightforward, literal statements","No persuasive or critical elements at all","Humour, irony, or exaggeration to critique something"], answer:3},
      {q:"Why might a writer choose satire instead of a direct, serious critique?", options:["Direct critique is always more effective than satire","Humour and exaggeration can make a critique more engaging or memorable","Satire removes all meaning from a piece of writing","Satire always weakens an argument"], answer:1},
@@ -1735,6 +1736,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exponent Laws: Multiplying and Dividing Powers", summary:"Ontario Grade 7 Number strand: when multiplying powers with the same base, add the exponents; when dividing powers with the same base, subtract the exponents.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=LkhPRz7Hocg",
    quiz:[
      {q:"Simplify: x cubed times x squared.", options:["x to the fifth power","x squared","x to the sixth power","x to the first power"], answer:0},
      {q:"Simplify: x to the fifth power divided by x squared.", options:["x to the seventh power","x to the tenth power","x squared","x to the third power"], answer:3},
@@ -1744,6 +1746,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biomes of the World", summary:"Ontario Grade 7 Science Earth and Space Systems strand: biomes are large regions characterized by distinct climate and communities of plants and animals adapted to those conditions, such as deserts, rainforests, and tundra.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=_vAOarzqZhg",
    quiz:[
      {q:"A biome is best described as ___.", options:["A man-made structure","A type of rock formation","A single individual animal","A large region with a distinct climate and community of organisms"], answer:3},
      {q:"Which biome is characterized by very low precipitation and extreme temperatures?", options:["Rainforest","Wetland","Desert","Coral reef"], answer:2},
@@ -1753,6 +1756,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Fall of the Berlin Wall and the End of the Cold War", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: the fall of the Berlin Wall in 1989 symbolized the end of the Cold War era, leading to significant political changes in Europe, including German reunification.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=IXzODWlTWgk",
    quiz:[
      {q:"The Berlin Wall fell in which year?", options:["2001","1989","1945","1917"], answer:1},
      {q:"The fall of the Berlin Wall is often seen as symbolizing ___.", options:["The end of the Cold War era","The beginning of World War II","The start of the Cold War","The founding of the United Nations"], answer:0},
