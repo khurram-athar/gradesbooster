@@ -1640,14 +1640,15 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:40, label:"Day 40 — Fri", subjects:[
-  {subject:"Language", title:"Reading: Analyzing Multiple Narrators", summary:"Grade 8 Reading strand: some texts use multiple narrators to present different perspectives on the same events, requiring readers to consider how each narrator’s point of view shapes the overall story.",
+  {subject:"Language", title:"Reading: Analyzing Unreliable Narrators", summary:"Grade 8 Reading strand: an unreliable narrator is a storyteller whose credibility is compromised, whether by bias, limited knowledge, or deliberate deception, requiring readers to question and interpret the account rather than accept it at face value.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=sTEC3gIH894",
    quiz:[
-     {q:"A text with multiple narrators presents ___.", options:["Different perspectives on the same events","Only a single unchanging viewpoint","A story with no characters","No narration at all"], answer:0},
-     {q:"Why might an author choose to use multiple narrators?", options:["A story can never have more than one narrator","Multiple narrators always make a story less clear","This technique has no effect on how a story is understood","To provide a fuller, more complex understanding of events through different perspectives"], answer:3},
-     {q:"When reading a text with multiple narrators, readers should consider ___.", options:["How each narrator’s perspective and potential bias shape their account","Nothing related to perspective or bias","That all narrators must present identical accounts","Only the very first narrator introduced"], answer:0},
-     {q:"Which is an example of how using multiple narrators can affect a story?", options:["This technique removes all perspective from a story","Multiple narrators eliminate the need for any interpretation","Readers may see the same event interpreted differently by each narrator","All narrators always describe events in exactly the same way"], answer:2},
-     {q:"Why is analyzing multiple narrators considered an advanced reading skill?", options:["Multiple narrators never provide any additional insight","Texts with multiple narrators are always simple to understand","This skill requires no critical thinking","It requires tracking and comparing different perspectives throughout a text"], answer:3}
+     {q:"What is an unreliable narrator?", options:["A narrator whose credibility or account cannot be fully trusted","A narrator who always tells the complete truth","A story with no narrator at all","A narrator who never speaks in first person"], answer:0},
+     {q:"Which of these could make a narrator unreliable?", options:["Using correct grammar","Personal bias, limited knowledge, or deliberate deception","Telling the story in chronological order","Describing the setting in detail"], answer:1},
+     {q:"Why might an author choose to use an unreliable narrator?", options:["To make the story more predictable","To create tension and encourage readers to question the account","This technique has no real purpose","To remove the need for a plot"], answer:1},
+     {q:"When reading a text with an unreliable narrator, readers should ___.", options:["Accept everything the narrator says without question","Compare the narrator’s account with other clues in the text","Ignore the narrator completely","Assume the narrator is always lying"], answer:1},
+     {q:"Which is an example of a clue that a narrator might be unreliable?", options:["The narrator’s account contradicts other evidence in the story","The narrator describes the weather","The story has a title","The narrator is an adult"], answer:0}
    ]},
   {subject:"Math", title:"Review: Systems, Trigonometry, and Advanced Number Concepts", summary:"Grade 8 Number and Geometry strands review: this lesson revisits solving systems by substitution, introductory trigonometric ratios, standard deviation, rational exponents, and real number classification from recent lessons.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",

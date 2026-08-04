@@ -1855,47 +1855,50 @@ const curriculum: DayContent[] = [
      {prompt:"What two words make up the word 'snowman'?", answers:["snow and man","snow, man"]},
      {prompt:"What is a compound word?", answers:["two words joined together","a word made of two smaller words"]}
    ]},
-  {subject:"Math", title:"Final Review: Fractions, Odd/Even, Patterns and Symmetry", summary:"Students review recent Math skills: thirds and eighths, odd and even numbers, repeating patterns, and symmetry in shapes.",
-   resourceLabel:"YouTube: Final Review: Fractions, Odd/Even, Patterns and Symmetry", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Fractions%2C%20Odd/Even%2C%20Patterns%20and%20Symmetry%20grade%202%20educational",
+  {subject:"Math", title:"Skip Counting by 2s, 5s, and 10s", summary:"Students practice skip counting by 2s, 5s, and 10s, using repeating number patterns to count groups of objects quickly and building an early foundation for multiplication.",
+   resourceLabel:"YouTube: Skip Counting by 2s, 5s, and 10s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%202s%2C%205s%2C%20and%2010s%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DS3W9WLIxlQ",
    quiz:[
-     {q:"If a whole is split into 8 equal parts, each part is called ___.", options:["One whole","One eighth","One half","One third"], answer:1},
-     {q:"Which of these numbers is odd?", options:["8","4","6","9"], answer:3},
-     {q:"In the pattern circle, square, circle, square, ___, what comes next?", options:["Star","Triangle","Circle","Square"], answer:2},
-     {q:"A shape has symmetry if it can be folded so that ___.", options:["Both halves are different sizes","Both halves match exactly","One half disappears","It cannot be folded at all"], answer:1},
-     {q:"Splitting a whole into more equal parts makes each part ___.", options:["Disappear","Bigger","Smaller","Stay the same size"], answer:2}
+     {q:"When you skip count by 2s starting at 0, what number comes after 6?", options:["7","8","9","10"], answer:1},
+     {q:"Which set of numbers shows skip counting by 5s?", options:["5, 10, 15, 20","2, 4, 6, 8","1, 2, 3, 4","5, 6, 7, 8"], answer:0},
+     {q:"What is the next number when skip counting by 10s: 10, 20, 30, ___?", options:["31","35","40","50"], answer:2},
+     {q:"Why is skip counting useful?", options:["It has no real use","It helps you count larger groups faster","It only works with the number 1","It makes numbers smaller"], answer:1},
+     {q:"Skip counting by 2s always lands on ___ numbers.", options:["Odd","Even","Negative","Fraction"], answer:1}
    ],
    worksheet:[
-     {prompt:"If a whole is split into 3 equal parts, what is each part called?", answers:["one third","a third"]},
-     {prompt:"Is the number 8 odd or even?", answers:["even"]},
-     {prompt:"What do we call the line where a symmetrical shape can be folded so both halves match?", answers:["a line of symmetry","line of symmetry"]}
+     {prompt:"Count by 5s starting at 0 up to 30. Write the numbers.", answers:["0, 5, 10, 15, 20, 25, 30"]},
+     {prompt:"What number comes next when skip counting by 10s: 40, 50, 60, ___?", answers:["70"]},
+     {prompt:"Why does skip counting help you count faster than counting by 1s?", answers:["you count in bigger jumps","you skip over numbers in between"]}
    ]},
-  {subject:"Science", title:"Final Review: Magnets, Water Cycle, Rocks/Soil and Healthy Eating", summary:"Students review recent Science topics: magnets, the water cycle, rocks and soil, and healthy eating and food groups.",
-   resourceLabel:"YouTube: Final Review: Magnets, Water Cycle, Rocks/Soil and Healthy Eating", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Magnets%2C%20Water%20Cycle%2C%20Rocks/Soil%20and%20Healthy%20Eating%20grade%202%20educational",
+  {subject:"Science", title:"Animal Habitats: Where Animals Live", summary:"Students learn that a habitat is the natural home of a plant or animal, providing the food, water, shelter, and space it needs to survive, and explore different habitats such as forests, oceans, and deserts.",
+   resourceLabel:"YouTube: Animal Habitats: Where Animals Live", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Habitats%20Where%20Animals%20Live%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Du3sfOvCfyk",
    quiz:[
-     {q:"Which of these materials would a magnet most likely attract?", options:["A paper towel","A wooden block","A plastic cup","An iron nail"], answer:3},
-     {q:"What do we call rain or snow falling from clouds to the ground?", options:["Precipitation","Condensation","Evaporation","Freezing"], answer:0},
-     {q:"What is soil made up of?", options:["Tiny broken bits of rock mixed with decayed plants and animals","Only water","Only metal","Only glass"], answer:0},
-     {q:"Why is it important to eat a balance of different food groups?", options:["It has no effect on health","It only matters for adults","It makes food taste worse","It helps the body grow strong and stay healthy"], answer:3},
-     {q:"What happens when two magnets with opposite poles are brought close together?", options:["They melt","They disappear","They always push apart","They attract and pull together"], answer:3}
+     {q:"What is a habitat?", options:["A type of food an animal eats","The natural home of a plant or animal","A cage at the zoo","A type of weather"], answer:1},
+     {q:"Which of these is an example of a habitat?", options:["A forest","A birthday","A number","A colour"], answer:0},
+     {q:"What does an animal's habitat usually provide?", options:["Toys and games","Food, water, shelter, and space","Only water","Nothing important"], answer:1},
+     {q:"Which animal would most likely live in an ocean habitat?", options:["A fish","A camel","A squirrel","A robin"], answer:0},
+     {q:"Why is a desert habitat different from a forest habitat?", options:["They are exactly the same","A desert is dry and a forest has many trees and moisture","A desert has more water than a forest","A forest never has animals"], answer:1}
    ],
    worksheet:[
-     {prompt:"What do we call the force a magnet uses to attract or push away objects?", answers:["magnetism","magnetic force"]},
-     {prompt:"What do we call water turning into vapour and rising into the air?", answers:["evaporation"]},
-     {prompt:"What is soil made up of?", answers:["broken rock and decayed plants","tiny broken bits of rock and decayed matter"]}
+     {prompt:"What is a habitat?", answers:["the natural home of a plant or animal","where an animal lives"]},
+     {prompt:"Name one thing a habitat provides for the animals that live there.", answers:["food","water","shelter","space"]},
+     {prompt:"Name two different kinds of habitats.", answers:["forest and ocean","desert and forest","ocean and desert"]}
    ]},
-  {subject:"SocialStudies", title:"Final Review: Immigration, Personal Safety, Money and Landmarks", summary:"Students review recent Social Studies topics: immigration, personal safety, saving and spending money wisely, and Canadian landmarks.",
-   resourceLabel:"YouTube: Final Review: Immigration, Personal Safety, Money and Landmarks", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Immigration%2C%20Personal%20Safety%2C%20Money%20and%20Landmarks%20grade%202%20educational",
+  {subject:"SocialStudies", title:"Canadian National Symbols", summary:"Students learn about symbols that represent Canada, such as the national flag, the maple leaf, and the beaver, and discuss why countries choose symbols to represent their identity and history.",
+   resourceLabel:"YouTube: Canadian National Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20National%20Symbols%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rTfKo_P97e4",
    quiz:[
-     {q:"What is immigration?", options:["When people travel on vacation","When people move from one country to live in another","When animals migrate with the seasons","When a family moves within the same city"], answer:1},
-     {q:"Who could be a trusted adult a child talks to about feeling unsafe?", options:["Only another child","A stranger","A parent or teacher","No one at all"], answer:2},
-     {q:"What does it mean to save money?", options:["Losing your money","Putting money aside instead of spending it right away","Spending all your money right away","Giving all your money away"], answer:1},
-     {q:"In which city would you find the CN Tower?", options:["Toronto","Ottawa","Vancouver","Montreal"], answer:0},
-     {q:"Why might a family choose to immigrate to Canada?", options:["Only for a short vacation","To find new opportunities, safety, or to be with family","To avoid all other countries","Canada has no reasons to immigrate to"], answer:1}
+     {q:"What is a national symbol?", options:["A math equation","Something that represents a country's identity and history","A type of food only adults eat","A rule about traffic"], answer:1},
+     {q:"Which leaf appears on the Canadian flag?", options:["Oak leaf","Maple leaf","Palm leaf","Pine needle"], answer:1},
+     {q:"Which animal is a well-known symbol of Canada?", options:["Lion","Beaver","Kangaroo","Panda"], answer:1},
+     {q:"What colours are on the Canadian flag?", options:["Blue and yellow","Red and white","Green and orange","Black and white"], answer:1},
+     {q:"Why might a country choose national symbols like a flag or animal?", options:["To represent its identity, history, and values","They have no real reason","Only to decorate buildings","Symbols are chosen by other countries"], answer:0}
    ],
    worksheet:[
-     {prompt:"What do we call it when people move from one country to live in another?", answers:["immigration"]},
-     {prompt:"What should you do if a touch makes you feel unsafe or uncomfortable?", answers:["say no","tell a trusted adult"]},
-     {prompt:"What do we call putting money aside instead of spending it right away?", answers:["saving"]}
+     {prompt:"Name one national symbol of Canada.", answers:["the flag","the maple leaf","the beaver"]},
+     {prompt:"What two colours are on the Canadian flag?", answers:["red and white"]},
+     {prompt:"Why do countries have national symbols?", answers:["to represent their identity","to show their history and values"]}
    ]},
 ]},
 {day:41, label:"Day 41 — Mon", subjects:[
