@@ -2011,6 +2011,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Volunteering: Helping Our Community", summary:"Students learn that volunteering means giving time and effort to help others without expecting payment, such as helping clean a park or collecting food for those in need.",
    resourceLabel:"YouTube: Volunteering: Helping Our Community", resourceUrl:"https://www.youtube.com/results?search_query=Volunteering%3A%20Helping%20Our%20Community%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8KxwtJH6NSo",
    quiz:[
      {q:"What do we call giving your time to help others without being paid?", options:["Shopping","Voting","Working for money","Volunteering"], answer:3},
      {q:"Which of these is an example of volunteering?", options:["Buying a new toy","Sleeping in late","Watching television","Helping clean up a local park"], answer:3},

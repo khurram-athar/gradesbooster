@@ -1726,6 +1726,7 @@ const curriculum: DayContent[] = [
 {day:42, label:"Day 42 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Conjunctions", summary:"Ontario Grade 3 Writing strand: conjunctions are joining words such as and, but, or, and because that connect words, phrases, or sentences together.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=cZj-2mP_n5Y",
    quiz:[
      {q:"Which word is a conjunction?", options:["Purple","And","Quickly","Jump"], answer:1},
      {q:"Choose the best conjunction: I wanted to play outside, ___ it started to rain.", options:["because","quickly","but","and"], answer:2},
@@ -1735,6 +1736,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiples and Skip Counting Review", summary:"Ontario Grade 3 Number strand: a multiple of a number is what you get by multiplying it by a whole number, and skip counting is a quick way to list multiples in order.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=DhiklliLG80",
    quiz:[
      {q:"Which of these is a multiple of 4?", options:["9","12","14","6"], answer:1},
      {q:"Which of these is a multiple of 3?", options:["9","10","7","4"], answer:0},
@@ -1744,6 +1746,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space: Stars and Constellations", summary:"Ontario Grade 3 Science Earth and Space Systems strand: stars are giant balls of hot gas that give off their own light, and a constellation is a recognizable pattern of stars that people have named, such as the Big Dipper.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=MZffhapfOgg",
    quiz:[
      {q:"A star is best described as a ___.", options:["Type of planet","Piece of ice","Cold rock","Giant ball of hot gas that gives off light"], answer:3},
      {q:"A constellation is ___.", options:["A weather event","A single planet","A type of moon","A recognizable pattern of stars"], answer:3},
