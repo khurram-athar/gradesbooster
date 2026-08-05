@@ -1778,6 +1778,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Simplifying Rational Expressions", summary:"Grade 9 Algebra strand: a rational expression is a fraction with polynomials in the numerator and denominator, and simplifying it involves factoring and cancelling common factors.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=uVpsz-xpnPo",
    quiz:[
      {q:"A rational expression is best described as ___.", options:["A fraction with polynomials in the numerator and denominator","A whole number with no fractions involved","An expression with no variables at all","A fraction that can never be simplified"], answer:0},
      {q:"Simplifying a rational expression typically involves ___.", options:["Adding all terms together with no factoring","Ignoring the denominator entirely","Factoring and cancelling common factors","Multiplying the numerator by an unrelated number"], answer:2},
@@ -1787,6 +1788,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Endocrine System and Homeostasis", summary:"Grade 9 Science Biology strand: the endocrine system releases hormones that help regulate the body’s internal balance, known as homeostasis, in response to internal and external changes.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=emvHaBiRY8Q",
    quiz:[
      {q:"Homeostasis refers to ___.", options:["Only external temperature, with no internal connection","The body’s internal balance","A process unrelated to the body’s internal environment","A complete lack of any bodily regulation"], answer:1},
      {q:"The endocrine system helps maintain homeostasis by releasing ___.", options:["Hormones","Light signals","Only physical movement, with no chemical signals","Sound waves"], answer:0},
@@ -1796,6 +1798,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Urban Sprawl and Its Environmental Costs", summary:"Grade 9 Social Studies (Geography) strand: urban sprawl is the rapid, spread-out expansion of a city into surrounding areas, often associated with increased land use, traffic congestion, and environmental impact.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=3KVm_IZjMm0",
    quiz:[
      {q:"Urban sprawl refers to ___.", options:["The rapid, spread-out expansion of a city into surrounding areas","The complete elimination of all urban development","A concept unrelated to city growth","A city that maintains a compact, unchanging size"], answer:0},
      {q:"Urban sprawl is often associated with increased ___.", options:["A decrease in land use","Environmental protection with no development impact","No connection to transportation patterns","Land use and traffic congestion"], answer:3},

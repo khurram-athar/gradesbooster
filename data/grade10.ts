@@ -1766,6 +1766,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"English", title:"Literature: Dystopian Fiction and Social Commentary", summary:"Grade 10 English strand: dystopian fiction imagines a troubled future society, often used by authors to comment critically on real-world social, political, or technological issues.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=6a6kbU88wu0",
    quiz:[
      {q:"Dystopian fiction typically imagines ___.", options:["A troubled future society","Only historical events with no future elements","A perfect, conflict-free society","A setting with no connection to society at all"], answer:0},
      {q:"Authors often use dystopian fiction to ___.", options:["Describe a setting with no relevance to readers’ lives","Comment critically on real-world social, political, or technological issues","Focus only on entertainment with no deeper message","Avoid any connection to real-world issues"], answer:1},
@@ -1793,6 +1794,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Women’s Suffrage and the Persons Case", summary:"Grade 10 History strand: the Persons Case was a 1929 legal decision that established that women were considered “persons” under Canadian law and eligible for appointment to the Senate, a milestone in the fight for women’s rights.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=hUqjHDJBSu0",
    quiz:[
      {q:"The Persons Case was decided in which year?", options:["1867","1995","1929","1945"], answer:2},
      {q:"The Persons Case established that women were considered ___.", options:["A group with no connection to Canadian legal history","Excluded from all forms of public office","“Persons” under Canadian law, eligible for Senate appointment","Ineligible for any legal recognition under Canadian law"], answer:2},
