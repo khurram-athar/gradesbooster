@@ -1778,6 +1778,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing and Ordering Decimals", summary:"Ontario Grade 4 Number strand: to compare decimals, line up the decimal points and compare digits from left to right, starting with the whole number, then tenths, then hundredths.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=KWsLyjXKhrM",
    quiz:[
      {q:"Which decimal is greater: 0.45 or 0.5?", options:["0.5","Cannot be compared","They are equal","0.45"], answer:0},
      {q:"Which decimal is smallest: 0.3, 0.25, or 0.35?", options:["0.35","They are all equal","0.25","0.3"], answer:2},
@@ -1787,6 +1788,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Types of Bridges", summary:"Ontario Grade 4 Science Structures and Mechanisms strand: different bridge designs, such as beam, arch, and suspension bridges, use different structural principles to support loads and span distances.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=x3BlGFwAzZY",
    quiz:[
      {q:"A beam bridge is supported mainly by ___.", options:["A curved arch shape","Floating pontoons only","A straight, rigid horizontal structure","Cables hanging from towers"], answer:2},
      {q:"An arch bridge uses a curved shape to help ___.", options:["Distribute weight along the curve","Float on water","Eliminate all structural support","Avoid supporting any load"], answer:0},
@@ -1796,6 +1798,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Societies: Trade and Economy", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early civilizations such as Egypt, Mesopotamia, China, and India developed trade networks to exchange goods like grain, textiles, and metals with neighbouring regions.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=GZ7y-yFdX9M",
    quiz:[
      {q:"Trade in early societies mainly involved exchanging ___.", options:["Goods such as grain, textiles, and metals","Nothing at all","Only digital information","Only modern currency"], answer:0},
      {q:"Why did early civilizations develop trade networks?", options:["Trade networks did not exist in early history","Early societies were entirely self-sufficient with no needs","To obtain resources and goods not available locally","Trade served no useful purpose"], answer:2},

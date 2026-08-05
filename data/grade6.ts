@@ -1768,6 +1768,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Verb Tense Consistency", summary:"Ontario Grade 6 Writing strand: verb tense consistency means keeping the same tense (past, present, or future) throughout related sentences unless there is a clear reason to shift, to avoid confusing the reader.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=RK8BS6O90II",
    quiz:[
      {q:"Verb tense consistency means ___.", options:["Using only the future tense at all times","Keeping the same tense throughout related sentences","Avoiding verbs entirely","Randomly switching tenses throughout a piece of writing"], answer:1},
      {q:"Which sentence has a tense consistency error?", options:["Yesterday, I walked to school and ate breakfast.","I will walk to school tomorrow.","Yesterday, I walked to school and eat breakfast.","I walk to school every day."], answer:2},
@@ -1777,6 +1778,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Proportional Reasoning", summary:"Ontario Grade 6 Number strand: proportional reasoning involves comparing two ratios to determine if they are equal, often used to solve problems involving scaling, recipes, or map distances.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=VgCvuLYsus8",
    quiz:[
      {q:"If 2 pencils cost $1, how much would 8 pencils cost, using proportional reasoning?", options:["$8","$1","$4","$2"], answer:2},
      {q:"Two ratios are proportional if ___.", options:["They cannot be compared","They are equal when simplified","One ratio must always be larger","They always have different values"], answer:1},
@@ -1786,6 +1788,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Immune System: How the Body Fights Illness", summary:"Ontario Grade 6 Science Human Body Systems strand: the immune system defends the body against harmful microorganisms using white blood cells and other defenses that identify and destroy invading pathogens.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=cVIEqR1t9bQ",
    quiz:[
      {q:"The immune system’s main role is to ___.", options:["Control body movement","Defend the body against harmful microorganisms","Digest food","Pump blood throughout the body"], answer:1},
      {q:"Which cells play a key role in fighting off infections in the immune system?", options:["Muscle cells only","Bone cells only","White blood cells","Skin cells only"], answer:2},

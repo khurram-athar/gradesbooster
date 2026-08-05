@@ -1768,6 +1768,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Writing: Writing a News Report", summary:"Ontario Grade 5 Writing strand: a news report presents factual information about a recent event, typically answering who, what, when, where, why, and how, often starting with the most important details.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=8_NmVtnEEA8",
    quiz:[
      {q:"A news report typically answers questions including ___.", options:["Who, what, when, where, why, and how","Nothing specific at all","Only the writer’s opinion","Only the weather"], answer:0},
      {q:"News reports usually begin with ___.", options:["The least important details","A poem","The most important details","A long unrelated introduction"], answer:2},
@@ -1777,6 +1778,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Volume of Triangular Prisms", summary:"Ontario Grade 5 Geometry strand: the volume of a triangular prism can be found by multiplying the area of its triangular base by the length (height) of the prism.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=4pV7_NuGO2g",
    quiz:[
      {q:"The formula for the volume of a triangular prism is ___.", options:["Base area times length of the prism","Base area divided by length","Length times width only","Perimeter times height"], answer:0},
      {q:"If a triangular prism’s base area is 12 square units and its length is 5 units, what is its volume?", options:["30 cubic units","17 cubic units","60 cubic units","12 cubic units"], answer:2},
@@ -1786,6 +1788,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Compound Machines: Combining Simple Machines", summary:"Ontario Grade 5 Science Structures and Mechanisms strand: a compound machine combines two or more simple machines, such as a wheelbarrow (lever and wheel-and-axle) or scissors (two levers), to make tasks easier.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=8GHRZabpsQE",
    quiz:[
      {q:"A compound machine is made up of ___.", options:["Two or more simple machines working together","Only electrical parts","Only one simple machine","No simple machines at all"], answer:0},
      {q:"A wheelbarrow combines which two simple machines?", options:["A lever and a wheel-and-axle","Two screws","A pulley and a screw","Two inclined planes"], answer:0},
@@ -1795,6 +1798,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The 1982 Constitution Act and the Charter of Rights and Freedoms", summary:"Ontario Grade 5 Social Studies People and Environments strand: the 1982 Constitution Act patriated Canada’s constitution from Britain and included the Canadian Charter of Rights and Freedoms, which protects fundamental rights of Canadians.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5miQt1dhEjo",
    quiz:[
      {q:"The Constitution Act was passed in which year?", options:["1931","1867","1982","1867 and 1931 only"], answer:2},
      {q:"Patriating the constitution meant Canada could ___.", options:["No longer amend its own constitution","Amend its own constitution without approval from Britain","Give up its constitution entirely","Only follow British law forever"], answer:1},
