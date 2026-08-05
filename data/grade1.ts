@@ -2028,6 +2028,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Vowel Teams: ai and ay", summary:"Students learn that the letters ai and ay can work together as a vowel team to make the long a sound, as in rain and day.",
    resourceLabel:"YouTube: Vowel Teams: ai and ay", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ai%20and%20ay%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=DWttwlc9cso",
    quiz:[
      {q:"Which letters make the long a sound in the word rain?", options:["ee","ai","ay","oa"], answer:1},
      {q:"Which letters make the long a sound in the word day?", options:["ay","oa","ai","ee"], answer:0},
@@ -2042,6 +2043,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 3s", summary:"Students practise skip counting by 3s, saying the numbers 3, 6, 9, 12, and so on, to build number sense and prepare for multiplication.",
    resourceLabel:"YouTube: Skip Counting by 3s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%203s%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wRcaisvkyiI",
    quiz:[
      {q:"When skip counting by 3s, what number comes after 3?", options:["4","5","7","6"], answer:3},
      {q:"When skip counting by 3s, what number comes after 9?", options:["11","10","12","13"], answer:2},
@@ -2056,6 +2058,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Germs and Staying Healthy", summary:"Students learn that germs are tiny living things that can make people sick, and that washing hands and covering coughs are simple ways to stay healthy.",
    resourceLabel:"YouTube: Germs and Staying Healthy", resourceUrl:"https://www.youtube.com/results?search_query=Germs%20and%20Staying%20Healthy%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=34aKRpgR5j8",
    quiz:[
      {q:"What are germs?", options:["Tiny living things that can make people sick","A type of weather","A kind of plant","Large rocks"], answer:0},
      {q:"Which of these helps stop germs from spreading?", options:["Washing your hands","Touching your face often","Sharing food with someone who is sick","Never washing your hands"], answer:0},
@@ -2070,6 +2073,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Currency: Our Coins and Bills", summary:"Students learn that Canada has its own money, called currency, including coins such as the loonie and toonie and paper bills of different colours and values.",
    resourceLabel:"YouTube: Canadian Currency: Our Coins and Bills", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Currency%3A%20Our%20Coins%20and%20Bills%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qS9iyxFWKuE",
    quiz:[
      {q:"What is the name of the Canadian one dollar coin?", options:["Toonie","Nickel","Loonie","Dime"], answer:2},
      {q:"What is the name of the Canadian two dollar coin?", options:["Penny","Quarter","Toonie","Loonie"], answer:2},

@@ -1768,6 +1768,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Writing: Compare and Contrast Essay", summary:"Ontario Grade 3 Writing strand: a compare and contrast piece explains how two things are similar and different, often using words like both, similarly, however, and unlike.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=2m0wWi1UCGk",
    quiz:[
      {q:"A compare and contrast essay explains ___.", options:["How two things are similar and different","Only how two things are different","Only how two things are the same","A single made-up story"], answer:0},
      {q:"Which word signals a similarity between two things?", options:["Unlike","However","But","Similarly"], answer:3},
@@ -1777,6 +1778,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Temperature", summary:"Ontario Grade 3 Measurement strand: temperature is measured in degrees Celsius (°C) in Canada using a thermometer, with 0°C being the freezing point of water and 100°C being the boiling point.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=QvskHt9NJ4A",
    quiz:[
      {q:"Temperature in Canada is commonly measured in ___.", options:["Metres","Kilograms","Degrees Celsius","Litres"], answer:2},
      {q:"Water freezes at ___ degrees Celsius.", options:["0","100","32","50"], answer:0},
@@ -1786,6 +1788,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Materials and Their Properties", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: builders choose materials for structures based on properties like strength, flexibility, and waterproofing, since different materials suit different jobs.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=cU_i81RZ2ZA",
    quiz:[
      {q:"Which property describes how well a material resists breaking?", options:["Taste","Strength","Smell","Colour"], answer:1},
      {q:"A material that bends easily without breaking is described as ___.", options:["Flexible","Waterproof","Rigid","Transparent"], answer:0},
@@ -1795,6 +1798,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Regions of Canada: The St. Lawrence Lowlands", summary:"Ontario Grade 3 Social Studies People and Environments strand: the St. Lawrence Lowlands is a fertile, flat region along the St. Lawrence River and Great Lakes, home to some of Canada's largest cities and richest farmland.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ynCxYFTWig4",
    quiz:[
      {q:"The St. Lawrence Lowlands region is known for ___.", options:["Being mostly frozen year-round","Fertile farmland and major cities","Being entirely desert","Having no rivers nearby"], answer:1},
      {q:"Which body of water is closely connected to the St. Lawrence Lowlands?", options:["The St. Lawrence River and Great Lakes","The Arctic Ocean","Hudson Bay only","The Pacific Ocean"], answer:0},

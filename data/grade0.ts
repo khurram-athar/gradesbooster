@@ -2058,6 +2058,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Nocturnal Animals: Awake at Night", summary:"Students learn that some animals, called nocturnal animals, sleep during the day and are awake at night, such as owls and bats.",
    resourceLabel:"YouTube: Nocturnal Animals: Awake at Night", resourceUrl:"https://www.youtube.com/results?search_query=Nocturnal%20Animals%3A%20Awake%20at%20Night%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9EH_AUkfCZw",
    quiz:[
      {q:"What does nocturnal mean?", options:["Awake during the day","Only found in water","Awake at night and asleep during the day","Never sleeping"], answer:2},
      {q:"Which of these is a nocturnal animal?", options:["Cow","Rooster","Chicken","Owl"], answer:3},
@@ -2072,6 +2073,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Landmarks: Special Places in Our Community", summary:"Students learn about landmarks, special and well known places in a community such as a library, a park, or a city hall.",
    resourceLabel:"YouTube: Landmarks: Special Places in Our Community", resourceUrl:"https://www.youtube.com/results?search_query=Landmarks%3A%20Special%20Places%20in%20Our%20Community%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ktq24IE8Vq4",
    quiz:[
      {q:"What is a landmark?", options:["A special, well known place in a community","A kind of weather","A type of food","A math tool"], answer:0},
      {q:"Which of these is an example of a landmark?", options:["A cloud","A sock","A pencil","A library"], answer:3},

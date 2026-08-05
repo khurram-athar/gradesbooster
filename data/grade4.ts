@@ -1768,6 +1768,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Writing: Book Reviews", summary:"Ontario Grade 4 Writing strand: a book review shares an opinion about a book, supported by reasons and details, and often includes a brief summary along with a recommendation.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=kRnzbfcoTkg",
    quiz:[
      {q:"A book review typically includes ___.", options:["A list of unrelated books","The author’s home address","An opinion supported by reasons and a brief summary","Only the book’s price"], answer:2},
      {q:"Why should a book review include supporting reasons?", options:["Reasons are not needed in a review","Reviews should never explain opinions","To help the reader understand why the reviewer feels that way","Supporting reasons make a review less convincing"], answer:2},

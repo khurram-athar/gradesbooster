@@ -2028,6 +2028,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Adverbs: How, When, and Where", summary:"Students learn that an adverb is a word that describes a verb, telling how, when, or where an action happens, such as quickly, today, or outside.",
    resourceLabel:"YouTube: Adverbs: How, When, and Where", resourceUrl:"https://www.youtube.com/results?search_query=Adverbs%3A%20How%2C%20When%2C%20and%20Where%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Enaeun07_ZQ",
    quiz:[
      {q:"An adverb is a word that describes a ___.", options:["Article","Noun","Verb","Pronoun"], answer:2},
      {q:"Which word tells how someone runs in the sentence, She runs quickly?", options:["Runs","She","Quickly","The"], answer:2},
@@ -2056,6 +2057,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces: Gravity Pulls Things Down", summary:"Students learn that gravity is a force that pulls objects toward the earth, which is why things fall down instead of floating away when dropped.",
    resourceLabel:"YouTube: Forces: Gravity Pulls Things Down", resourceUrl:"https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20Pulls%20Things%20Down%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ljRlB6TuMOU",
    quiz:[
      {q:"What do we call the force that pulls objects toward the earth?", options:["Gravity","Wind","Friction","Magnetism"], answer:0},
      {q:"If you drop a ball, which way does gravity pull it?", options:["Sideways only","Down toward the ground","Nowhere at all","Up into the sky"], answer:1},
