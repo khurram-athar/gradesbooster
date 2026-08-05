@@ -1768,6 +1768,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Gerunds and Infinitives", summary:"Ontario Grade 7 Writing strand: a gerund is a verb form ending in -ing used as a noun (Swimming is fun), while an infinitive is the base form of a verb preceded by to (I want to swim).",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=-s1gu725tA4",
    quiz:[
      {q:"A gerund is a verb form that ___.", options:["Only functions as an adjective","Is never used in a sentence","Ends in -ing and is used as a noun","Always begins with the word to"], answer:2},
      {q:"An infinitive is typically formed by ___.", options:["Placing to before the base form of a verb","Adding -ed to a verb","Removing the verb entirely","Adding -ing to a verb"], answer:0},
@@ -1777,6 +1778,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Volume and Surface Area of Composite 3D Shapes", summary:"Ontario Grade 7 Geometry strand: a composite 3D shape is made up of two or more basic solids combined, and its volume or surface area can be found by breaking it into simpler shapes and adding or subtracting their measurements.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=qEhWStMWRXo",
    quiz:[
      {q:"A composite 3D shape is made up of ___.", options:["Only flat, 2D shapes","Two or more basic solids combined","No identifiable shapes at all","A single, simple shape only"], answer:1},
      {q:"To find the volume of a composite shape, you can ___.", options:["Avoid any calculations","Break it into simpler shapes and add their volumes","Ignore parts of the shape entirely","Measure only the tallest point"], answer:1},
@@ -1786,6 +1788,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemical Safety and WHMIS Symbols", summary:"Ontario Grade 7 Science Matter and Energy strand: WHMIS (Workplace Hazardous Materials Information System) symbols communicate important safety information about hazardous materials, helping people handle chemicals safely.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=TUKO1ImEdCo",
    quiz:[
      {q:"WHMIS stands for ___.", options:["World Health and Medical Information Standard","Weather Hazard Measurement and Identification System","A system unrelated to chemical safety","Workplace Hazardous Materials Information System"], answer:3},
      {q:"WHMIS symbols are designed to ___.", options:["Only apply to non-hazardous materials","Replace the need for any safety training","Communicate important safety information about hazardous materials","Provide no useful safety information"], answer:2},
@@ -1795,6 +1798,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Apartheid and the Struggle for Equality in South Africa", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: apartheid was a system of racial segregation and discrimination in South Africa, and its end in the early 1990s followed decades of resistance and advocacy for equality.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ke4kVFycpYY",
    quiz:[
      {q:"Apartheid was a system of ___.", options:["Racial segregation and discrimination","A system unrelated to South Africa","A government with no policies on race","Equal treatment for all citizens"], answer:0},
      {q:"Apartheid was officially practiced in which country?", options:["South Africa","Canada","France","Japan"], answer:0},

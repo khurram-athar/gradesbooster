@@ -1798,6 +1798,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Mongol Empire", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the Mongol Empire, founded by Genghis Khan in the 13th century, became the largest contiguous land empire in history, connecting trade and cultural exchange across Asia and into Europe.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=wUVvTqvjUaM",
    quiz:[
      {q:"The Mongol Empire was founded by ___.", options:["A Roman emperor","An Egyptian pharaoh","Genghis Khan","A Byzantine ruler"], answer:2},
      {q:"The Mongol Empire is often noted for being ___.", options:["The largest contiguous land empire in history","Limited to a single small city","A very small, short-lived kingdom","Entirely disconnected from trade routes"], answer:0},
