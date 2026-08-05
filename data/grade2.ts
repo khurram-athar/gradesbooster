@@ -2043,6 +2043,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Telling Time: Elapsed Time and the Calendar", summary:"Students learn to figure out how much time has passed between two events, called elapsed time, and to read a calendar to find days, weeks, and months.",
    resourceLabel:"YouTube: Telling Time: Elapsed Time and the Calendar", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%3A%20Elapsed%20Time%20and%20the%20Calendar%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=t6xXsxq0shw",
    quiz:[
      {q:"How many days are in one week?", options:["10","5","30","7"], answer:3},
      {q:"If a game starts at 2:00 and ends at 3:00, how much time has passed?", options:["30 minutes","15 minutes","1 hour","2 hours"], answer:2},
@@ -2072,6 +2073,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Weather and Climate Across Canada", summary:"Students learn that weather and climate can be very different across Canada, with some regions having cold snowy winters, others having milder weather, and coastlines with rain.",
    resourceLabel:"YouTube: Weather and Climate Across Canada", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20and%20Climate%20Across%20Canada%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YbAWny7FV3w",
    quiz:[
      {q:"What do we call the usual weather pattern of a region over a long time?", options:["A map","A season","A landmark","Climate"], answer:3},
      {q:"Which season in many parts of Canada is known for cold temperatures and snow?", options:["Only autumn","Winter","Only spring","Summer"], answer:1},

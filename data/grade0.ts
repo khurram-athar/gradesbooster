@@ -2090,6 +2090,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Sequencing Words: First, Next, and Last", summary:"Students learn to use sequencing words such as first, next, and last to describe the order in which things happen.",
    resourceLabel:"YouTube: Sequencing Words: First, Next, and Last", resourceUrl:"https://www.youtube.com/results?search_query=Sequencing%20Words%3A%20First%2C%20Next%2C%20and%20Last%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3IgLt7KtK4M",
    quiz:[
      {q:"Which word describes what happens at the very beginning of an event?", options:["Then","First","Last","Next"], answer:1},
      {q:"Which word describes what happens at the very end of an event?", options:["Before","Next","Last","First"], answer:2},
@@ -2104,6 +2105,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Money: Recognizing Coins", summary:"Students explore Canadian coins, including the penny, nickel, dime, and quarter, and practise recognizing them by their size and appearance.",
    resourceLabel:"YouTube: Money: Recognizing Coins", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Recognizing%20Coins%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9HFqc5P6kHI",
    quiz:[
      {q:"Which coin is worth five cents?", options:["Dime","Nickel","Quarter","Penny"], answer:1},
      {q:"Which coin is worth ten cents?", options:["Quarter","Nickel","Dime","Penny"], answer:2},
@@ -2118,6 +2120,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Our Body: Bones and Muscles", summary:"Students learn that bones give our body its shape and support, while muscles help our body move.",
    resourceLabel:"YouTube: Our Body: Bones and Muscles", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Body%3A%20Bones%20and%20Muscles%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_LzxAp1y6rk",
    quiz:[
      {q:"What gives our body its shape and support?", options:["Hair","Muscles","Bones","Skin"], answer:2},
      {q:"What helps our body move, like when we run or jump?", options:["Hair","Bones","Nails","Muscles"], answer:3},
@@ -2132,6 +2135,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Money: Trading and Buying", summary:"Students learn that people use money to buy things they need or want, and that trading means exchanging one thing for another.",
    resourceLabel:"YouTube: Money: Trading and Buying", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Trading%20and%20Buying%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OSKArnFOnZo",
    quiz:[
      {q:"What do people use to buy food and toys at a store?", options:["Leaves","Water","Rocks","Money"], answer:3},
      {q:"What does trading mean?", options:["Hiding your things","Exchanging one thing for another","Throwing things away","Painting pictures"], answer:1},

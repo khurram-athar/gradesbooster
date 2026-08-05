@@ -2090,6 +2090,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Vowel Teams: oa and ow", summary:"Students learn that the letters oa and ow can work together as a vowel team to make the long o sound, as in boat and snow.",
    resourceLabel:"YouTube: Vowel Teams: oa and ow", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20oa%20and%20ow%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=X49e7gKEzSs",
    quiz:[
      {q:"Which letters make the long o sound in the word boat?", options:["ee","ai","ow","oa"], answer:3},
      {q:"Which letters make the long o sound in the word snow?", options:["oa","ay","oo","ow"], answer:3},
@@ -2104,6 +2105,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number Bonds to 10", summary:"Students explore number bonds to 10, learning the pairs of numbers that add together to make 10, such as 6 and 4, or 8 and 2.",
    resourceLabel:"YouTube: Number Bonds to 10", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%20to%2010%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zBNm26DopHM",
    quiz:[
      {q:"Which number pairs with 7 to make 10?", options:["2","3","4","1"], answer:0},
      {q:"Which number pairs with 9 to make 10?", options:["2","1","4","3"], answer:1},
@@ -2118,6 +2120,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Air All Around Us", summary:"Students learn that air is all around us even though we cannot see it, and that moving air, called wind, can push objects like leaves and kites.",
    resourceLabel:"YouTube: Air All Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Air%20All%20Around%20Us%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lga9kms5JTM",
    quiz:[
      {q:"Can we usually see the air around us?", options:["Yes, always","No, we cannot see it","Only in winter","Only at night"], answer:1},
      {q:"What do we call moving air?", options:["Wind","Sunlight","Soil","Water"], answer:0},
