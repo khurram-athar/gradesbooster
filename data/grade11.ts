@@ -1766,6 +1766,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"English", title:"Media Literacy: Podcasts and Long-Form Audio Storytelling", summary:"Grade 11 English strand: podcasts use audio-only storytelling techniques, such as pacing, sound design, and narrative voice, to engage listeners over an extended format without visual elements.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=WTjkJKCLigQ",
    quiz:[
      {q:"Podcasts rely on ___ to engage listeners, without the use of visual elements.", options:["A medium unrelated to storytelling","Only visual imagery, with no audio component","A format identical to television broadcasting","Audio-only storytelling techniques"], answer:3},
      {q:"Which is an example of a technique used in audio storytelling?", options:["Sound design to create atmosphere","Visual editing effects","Only spoken dialogue, with no other audio elements","A technique unrelated to sound or audio"], answer:0},
@@ -1784,6 +1785,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Human Health: Cardiovascular System and Disease Prevention", summary:"Grade 11 Biology strand: the cardiovascular system circulates blood throughout the body, and understanding its function helps explain how lifestyle factors can influence the risk of cardiovascular disease.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=oYHciA8tXwo",
    quiz:[
      {q:"The cardiovascular system’s primary role is to ___.", options:["Circulate blood throughout the body","Only produce new blood cells, with no circulatory function","Have no connection to bodily functions at all","A role entirely unrelated to blood or circulation"], answer:0},
      {q:"Which is an example of a lifestyle factor that might influence cardiovascular disease risk?", options:["Diet and physical activity level","A factor with no relevance to cardiovascular health","Only genetics, with no connection to lifestyle choices","A factor entirely unrelated to health or lifestyle"], answer:0},
@@ -1793,6 +1795,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemical Equilibrium: Calculating Equilibrium Constants", summary:"Grade 11 Chemistry strand: the equilibrium constant expresses the ratio of product to reactant concentrations at equilibrium, providing insight into how far a reaction proceeds toward products.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=5HZbCNg9mIw",
    quiz:[
      {q:"The equilibrium constant expresses the ratio of ___.", options:["The colour of products compared to reactants","A value unrelated to concentration","Only reactant mass, with no connection to products","Product to reactant concentrations at equilibrium"], answer:3},
      {q:"A large equilibrium constant value generally suggests that a reaction ___.", options:["Has no products formed at all","Favours the formation of products","Cannot be analyzed using this method","Favours the reactants remaining unchanged"], answer:1},

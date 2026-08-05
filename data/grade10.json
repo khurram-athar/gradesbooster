@@ -10399,6 +10399,7 @@
         "summary": "Grade 10 Data Management strand: standard deviation measures how spread out data values are from the mean, and a normal distribution is a common, symmetric bell-shaped pattern seen in many data sets.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=mtbJbDwqWLE",
         "quiz": [
           {
             "q": "Standard deviation measures ___.",
@@ -10458,6 +10459,7 @@
         "summary": "Grade 10 Biology strand: population ecology studies how populations of organisms grow and interact with their environment, and carrying capacity refers to the maximum population size an environment can sustainably support.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=fbORpSWCShk",
         "quiz": [
           {
             "q": "Population ecology studies how populations ___.",

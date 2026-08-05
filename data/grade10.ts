@@ -1776,6 +1776,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Standard Deviation and Normal Distribution", summary:"Grade 10 Data Management strand: standard deviation measures how spread out data values are from the mean, and a normal distribution is a common, symmetric bell-shaped pattern seen in many data sets.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=mtbJbDwqWLE",
    quiz:[
      {q:"Standard deviation measures ___.", options:["How spread out data values are from the mean","A value unrelated to how data is spread","The exact total sum of all data values","The single highest value in a data set"], answer:0},
      {q:"A normal distribution is typically described as having a ___ shape.", options:["Symmetric, bell-shaped","Random, with no discernible pattern","A shape unrelated to data distribution","Perfectly flat, with no variation"], answer:0},
@@ -1785,6 +1786,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Population Ecology and Carrying Capacity", summary:"Grade 10 Biology strand: population ecology studies how populations of organisms grow and interact with their environment, and carrying capacity refers to the maximum population size an environment can sustainably support.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=fbORpSWCShk",
    quiz:[
      {q:"Population ecology studies how populations ___.", options:["A field unrelated to living organisms","Grow and interact with their environment","Have no connection to their environment","Remain completely unaffected by environmental factors"], answer:1},
      {q:"Carrying capacity refers to ___.", options:["An unlimited population size with no environmental constraints","The minimum population size required for a species to exist","The maximum population size an environment can sustainably support","A concept unrelated to population size"], answer:2},
