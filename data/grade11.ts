@@ -1776,6 +1776,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Statistics: Normal Distribution and Z-Scores", summary:"Grade 11 Functions strand (Data Management): a z-score indicates how many standard deviations a data value is from the mean, providing a standardized way to compare values within a normal distribution.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=O6KOKMBK7dg",
    quiz:[
      {q:"A z-score indicates how many ___ a data value is from the mean.", options:["A measurement unrelated to the mean","Standard deviations","Percentiles, with no connection to standard deviation","Simple units, with no connection to standard deviation"], answer:1},
      {q:"A z-score of zero means a data value is ___.", options:["Far below the mean","Exactly equal to the mean","Far above the mean","Impossible to determine from a normal distribution"], answer:1},

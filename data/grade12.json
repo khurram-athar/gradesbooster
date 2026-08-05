@@ -10338,6 +10338,7 @@
         "summary": "Grade 12 English strand: product advertising uses specific rhetorical strategies, such as emotional appeal, aspirational imagery, and repetition, to persuade consumers and shape brand perception.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=qTIyd0kLArs",
         "quiz": [
           {
             "q": "Product advertising uses specific strategies to ___.",
@@ -10397,6 +10398,7 @@
         "summary": "Grade 12 Advanced Functions strand: a complex number can be expressed in polar form using magnitude and angle, and De Moivre’s Theorem provides an efficient method for raising a complex number to a power.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=J6TnZxUUzqU",
         "quiz": [
           {
             "q": "A complex number in polar form is expressed using magnitude and ___.",
@@ -10456,6 +10458,7 @@
         "summary": "Grade 12 Calculus strand: a vector-valued function outputs a vector rather than a single number, often used to describe an object’s position, velocity, and acceleration as it moves through space over time.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=bh8JTQ1eS74",
         "quiz": [
           {
             "q": "A vector-valued function outputs ___ rather than a single number.",
@@ -10515,6 +10518,7 @@
         "summary": "Grade 12 Physics strand: semiconductors are materials with electrical conductivity between that of a conductor and an insulator, forming the foundation of modern electronic devices like transistors and diodes.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=nJsRUju_dQc",
         "quiz": [
           {
             "q": "Semiconductors have electrical conductivity that is ___.",

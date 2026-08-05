@@ -1765,6 +1765,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"English", title:"Media Analysis: The Rhetoric of Product Advertising", summary:"Grade 12 English strand: product advertising uses specific rhetorical strategies, such as emotional appeal, aspirational imagery, and repetition, to persuade consumers and shape brand perception.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=qTIyd0kLArs",
    quiz:[
      {q:"Product advertising uses specific strategies to ___.", options:["Provide a completely neutral, unbiased description of a product","Persuade consumers and shape brand perception","Avoid influencing consumer opinion or behaviour in any way","A purpose entirely unrelated to persuasion"], answer:1},
      {q:"Which is an example of a rhetorical strategy commonly used in product advertising?", options:["Providing only a plain list of technical specifications with no persuasive framing","Aspirational imagery suggesting a desirable lifestyle","A strategy entirely unrelated to influencing consumer perception","Avoiding any emotional appeal whatsoever"], answer:1},
@@ -1774,6 +1775,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Complex Numbers: Polar Form and De Moivre’s Theorem", summary:"Grade 12 Advanced Functions strand: a complex number can be expressed in polar form using magnitude and angle, and De Moivre’s Theorem provides an efficient method for raising a complex number to a power.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=J6TnZxUUzqU",
    quiz:[
      {q:"A complex number in polar form is expressed using magnitude and ___.", options:["Colour, with no connection to complex numbers","A factor entirely unrelated to magnitude","Angle","Only its real component, with no angle involved"], answer:2},
      {q:"De Moivre’s Theorem provides an efficient method for ___.", options:["A concept unrelated to complex number operations","Converting a complex number into a purely real number","Only adding two complex numbers together","Raising a complex number to a power"], answer:3},
@@ -1783,6 +1785,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Vector-Valued Functions and Motion", summary:"Grade 12 Calculus strand: a vector-valued function outputs a vector rather than a single number, often used to describe an object’s position, velocity, and acceleration as it moves through space over time.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=bh8JTQ1eS74",
    quiz:[
      {q:"A vector-valued function outputs ___ rather than a single number.", options:["A vector","Only a single, unrelated integer","A purely qualitative description with no numerical value","A concept unrelated to functions"], answer:0},
      {q:"Vector-valued functions are often used to describe an object’s ___ over time.", options:["A factor entirely unrelated to motion","Colour and physical appearance only","Position, velocity, and acceleration","Temperature exclusively, with no connection to movement"], answer:2},
@@ -1792,6 +1795,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Semiconductors and Modern Electronics", summary:"Grade 12 Physics strand: semiconductors are materials with electrical conductivity between that of a conductor and an insulator, forming the foundation of modern electronic devices like transistors and diodes.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=nJsRUju_dQc",
    quiz:[
      {q:"Semiconductors have electrical conductivity that is ___.", options:["Identical to that of a perfect insulator","Between that of a conductor and an insulator","Identical to that of a perfect conductor","A property entirely unrelated to electrical conductivity"], answer:1},
      {q:"Semiconductors form the foundation of modern electronic devices like ___.", options:["Only simple, non-electronic mechanical tools","Devices that involve no electrical components whatsoever","Transistors and diodes","A category entirely unrelated to electronics"], answer:2},
