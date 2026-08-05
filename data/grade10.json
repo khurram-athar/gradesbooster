@@ -9777,60 +9777,61 @@
       },
       {
         "subject": "History",
-        "title": "Review: Constitutional Reform and Canadian Identity",
-        "summary": "Grade 10 History review: this lesson revisits the Meech Lake and Charlottetown Accords, the 1995 referendum, the Head Tax, residential schools and reconciliation, the Just Society, and regionalism in Canada.",
+        "title": "Western Alienation and Regionalism in Canadian Politics",
+        "summary": "Grade 10 History strand: western alienation refers to the recurring feeling among many Western Canadians that their political and economic interests are inadequately represented by the federal government in central Canada, a persistent source of regional tension throughout Canadian history.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=XWnp4FFBQ64",
         "quiz": [
-          {
-            "q": "The Meech Lake Accord and Charlottetown Accord were attempts to ___.",
-            "options": [
-              "Amend Canada’s constitution",
-              "Create an entirely new country",
-              "Eliminate Canada’s constitution entirely",
-              "Address issues unrelated to Canadian government"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The result of the 1995 Quebec Referendum was ___.",
-            "options": [
-              "A very close vote to remain within Canada",
-              "A vote with no meaningful result",
-              "A referendum that was never actually held",
-              "An overwhelming vote in favour of sovereignty"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "The Truth and Reconciliation Commission was established to ___.",
-            "options": [
-              "Ignore the experiences of residential school survivors",
-              "Prevent any future discussion of this history",
-              "Erase historical records completely",
-              "Document the history of residential schools and guide efforts toward healing"
-            ],
-            "answer": 3
-          },
           {
             "q": "Western alienation refers to feelings that ___.",
             "options": [
               "Western Canada has no distinct political interests",
-              "Western Canada has no connection to Canadian politics",
+              "Western Canadian interests are not adequately represented by central Canada",
               "All regions of Canada feel equally represented at all times",
-              "Western Canadian interests are not adequately represented by central Canada"
+              "Western Canada has no connection to Canadian politics"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why is it useful to review constitutional reform and Canadian identity topics together?",
+            "q": "Which region is most commonly associated with feelings of western alienation?",
             "options": [
-              "Each topic must be studied with no connection to the others",
-              "These topics have no meaningful connections",
-              "Review is never useful in history",
-              "It helps reinforce how these historical developments connect to shape Canadian identity today"
+              "The Maritime provinces",
+              "Central Canada",
+              "The Prairie provinces",
+              "Northern territories only"
             ],
-            "answer": 3
+            "answer": 2
+          },
+          {
+            "q": "Regional tensions like western alienation often centre on disagreements over ___.",
+            "options": [
+              "Provincial flag designs",
+              "Resource development, representation, and economic policy",
+              "Municipal zoning bylaws",
+              "School curriculum standards"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is regionalism considered a recurring theme in Canadian political history?",
+            "options": [
+              "It played no role in shaping federal-provincial relations",
+              "Regional grievances have surfaced repeatedly across different eras of Canadian history",
+              "Canada has never experienced any regional political tension",
+              "This concept only applies to very recent Canadian politics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding western alienation help explain modern Canadian politics?",
+            "options": [
+              "It has no connection to how federal parties campaign or govern",
+              "It sheds light on ongoing debates over representation, resources, and national unity",
+              "Regional political grievances disappeared entirely after Confederation",
+              "This topic is unrelated to any present-day political debates"
+            ],
+            "answer": 1
           }
         ]
       }

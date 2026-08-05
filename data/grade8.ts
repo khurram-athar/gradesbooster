@@ -1660,14 +1660,15 @@ const curriculum: DayContent[] = [
      {q:"After substituting one equation into the other, you solve the resulting equation for ___.", options:["a fraction","a constant only","the y-intercept","the remaining variable"], answer:3},
      {q:"Why is it useful to check a substitution solution by plugging both values back into the original equations?", options:["It is not useful and can be skipped","It only works for elimination, not substitution","It confirms the solution satisfies both equations simultaneously","It changes the value of the variables"], answer:2}
    ]},
-  {subject:"Science", title:"Review: Genetics, Evolution, and Emerging Technologies", summary:"Grade 8 Science review: this lesson revisits Punnett squares, evolution and natural selection, DNA structure, robotics and mechatronics, and nanotechnology covered across recent lessons.",
+  {subject:"Science", title:"Cloning: How Dolly the Sheep Changed Science", summary:"Grade 8 Science Life Systems strand: cloning is the process of creating a genetically identical copy of an organism, first demonstrated in a mammal in 1996 when Dolly the sheep was cloned from an adult body cell, a breakthrough that raised lasting scientific and ethical questions about genetic technology.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=fqeCUY42A-E",
    quiz:[
-     {q:"A Punnett square is used to ___.", options:["Determine an organism’s habitat","Measure the size of an organism","Calculate an organism’s age","Predict possible gene combinations in offspring"], answer:3},
-     {q:"Natural selection favours traits that ___.", options:["Are unrelated to an organism’s environment","Have no effect on survival","Always decrease an organism’s chances of survival","Improve an organism’s chances of survival and reproduction"], answer:3},
-     {q:"DNA is shaped like a ___.", options:["Double helix","Perfect square","Flat sheet","Single straight line with no structure"], answer:0},
-     {q:"Mechatronics combines mechanical engineering, electronics, and ___.", options:["Only agriculture","A field unrelated to technology","Programming","Only art and music"], answer:2},
-     {q:"Why is it valuable to review genetics, evolution, and emerging technologies together?", options:["These topics are entirely unrelated to each other","Each topic must always be studied in isolation","Review provides no benefit in science","It helps connect and reinforce related science concepts learned across recent lessons"], answer:3}
+     {q:"What is cloning?", options:["The process of creating a genetically identical copy of an organism","A method for measuring an organism’s age","A type of natural selection","A process unrelated to genetics"], answer:0},
+     {q:"Dolly the sheep, born in 1996, was significant because she was ___.", options:["The first sheep ever born on a farm","An organism with no genetic material","The first mammal cloned from an adult body cell","A naturally occurring twin"], answer:2},
+     {q:"Dolly was created using genetic material from ___.", options:["A random unrelated animal","An adult body cell of another sheep","A plant cell","No genetic material at all"], answer:1},
+     {q:"Why did Dolly’s birth raise ethical questions?", options:["It had no connection to ethics at all","It proved cloning was impossible","It raised new questions about the uses and limits of genetic technology","It showed that cloning could never be repeated"], answer:2},
+     {q:"Why do scientists continue to study cloning today?", options:["Cloning has no scientific applications","It has potential applications in medicine, agriculture, and conservation","This technology was abandoned after Dolly","It has no connection to genetic technology"], answer:1}
    ]},
   {subject:"History", title:"The Great Depression: Causes and Effects", summary:"Grade 8 History strand: the Great Depression of the 1930s was a period of severe economic hardship marked by widespread unemployment and bank failures, prompting new government relief programs and lasting changes to economic policy, including in Canada.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
