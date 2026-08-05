@@ -1768,6 +1768,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Verb Mood (Indicative, Imperative, Subjunctive)", summary:"Grade 9 Writing strand: verb mood indicates the speaker’s attitude toward a statement -- indicative for facts, imperative for commands, and subjunctive for wishes or hypotheticals.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=dM0ZsC7PQbo",
    quiz:[
      {q:"The indicative mood is used to express ___.", options:["Commands only","Facts or statements","Questions only","Wishes or hypotheticals only"], answer:1},
      {q:"The imperative mood is used to express ___.", options:["Only hypothetical situations","Commands or requests","Only factual statements","Only questions"], answer:1},

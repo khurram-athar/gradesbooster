@@ -1768,6 +1768,7 @@ const curriculum: DayContent[] = [
 {day:43, label:"Day 43 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Parallelism and Sentence Balance", summary:"Grade 8 Writing strand: parallelism means using a consistent grammatical structure for related ideas in a sentence, which creates balance, rhythm, and clarity in writing.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=XQZZbnOMMWs",
    quiz:[
      {q:"Parallelism in writing means ___.", options:["Using only single-word sentences","Avoiding lists entirely in writing","Using a consistent grammatical structure for related ideas","Using different grammatical structures for every related idea"], answer:2},
      {q:"Which sentence demonstrates correct parallelism?", options:["She enjoys hiking, swimming, and biking.","She enjoys hiking, to swim, and biking.","She enjoys to hike, swimming, and biking.","She enjoys hiking, swimming, and to bike."], answer:0},
@@ -1777,6 +1778,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Factoring Trinomials", summary:"Grade 8 Algebra strand (pre-high-school extension): factoring a trinomial, such as x squared plus 5x plus 6, involves finding two binomials that multiply together to produce the original expression.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=mncN_Ef5RqY",
    quiz:[
      {q:"Factor: x squared plus 5x plus 6.", options:["(x + 1)(x + 6)","(x + 2)(x + 3)","(x + 6)(x + 6)","(x + 5)(x + 1)"], answer:1},
      {q:"Factor: x squared plus 7x plus 12.", options:["(x + 2)(x + 6)","(x + 7)(x + 5)","(x + 3)(x + 4)","(x + 1)(x + 12)"], answer:2},
@@ -1786,6 +1788,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Science: Ocean Acidification", summary:"Grade 8 Science Earth and Space Systems strand: ocean acidification occurs when the ocean absorbs excess carbon dioxide from the atmosphere, lowering its pH and posing risks to marine life, especially shell-forming organisms.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=fgBozLCGUHY",
    quiz:[
      {q:"Ocean acidification occurs when the ocean absorbs excess ___.", options:["Helium","Oxygen only","Carbon dioxide from the atmosphere","Nitrogen only"], answer:2},
      {q:"Ocean acidification results in a ___ ocean pH.", options:["Completely unchanged","Higher","Lower","Unrelated to carbon dioxide levels"], answer:2},
@@ -1795,6 +1798,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Response to the Holocaust", summary:"Grade 8 History strand: Canada’s immigration policies during the Holocaust era were notably restrictive toward Jewish refugees, a historical decision that is now widely studied and critically examined.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=uNr0REkYRm8",
    quiz:[
      {q:"During the Holocaust era, Canada’s immigration policies toward Jewish refugees were generally ___.", options:["Restrictive","Fully open with no restrictions","Identical to policies from a completely different era","Unrelated to immigration policy"], answer:0},
      {q:"Canada’s restrictive immigration policies during this period are now ___.", options:["Viewed as having no lasting impact on historical understanding","Widely studied and critically examined","Considered to have no historical significance","Entirely forgotten with no historical record"], answer:1},
