@@ -67,13 +67,21 @@ export interface QuizQuestion {
   answer: number;
 }
 
+export interface VideoRef {
+  label: string;   // short name of the subtopic this video covers
+  url: string;     // YouTube video URL
+}
+
 export interface SubjectContent {
   subject: SubjectKey;
   title: string;
   summary: string;
   resourceUrl: string;
   resourceLabel: string;
-  videoUrl?: string;       // optional YouTube video URL for embedding
+  videoUrl?: string;        // optional YouTube video URL for embedding (single-topic lessons)
+  videoUrls?: VideoRef[];   // optional multiple videos for multi-topic/review lessons, one per subtopic.
+                             // When present, videoUrl is also set to videoUrls[0].url for backward
+                             // compatibility with any renderer that only reads the singular field.
   quiz: QuizQuestion[];
 }
 

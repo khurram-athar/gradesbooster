@@ -59,33 +59,48 @@ function youtubeId(url: string): string {
   return match ? match[1] : url;
 }
 
-/** Build the iframe src URL for a subject.
+/** Build an iframe embed URL from a single raw video URL (already known to
+ *  exist — this does not handle the "no video" fallback, see the wrapper
+ *  functions below for that). */
+function embedUrlForVideo(url: string): string {
+  if (url.includes('/embed/') || url.includes('listType=search')) {
+    return url;
+  }
+  return `https://www.youtube.com/embed/${youtubeId(url)}?rel=0&modestbranding=1`;
+}
+
+/** Build a "Watch on YouTube" link URL from a single raw video URL. */
+function linkUrlForVideo(url: string): string {
+  if (url.includes('listType=search')) {
+    return url;
+  }
+  return url.includes('/embed/') ? url.replace('/embed/', '/watch?v=') : url;
+}
+
+/** Fallback search embed/link when a lesson has no specific video at all. */
+function fallbackQuery(content: SubjectContent, grade: number): string {
+  const gradeStr = grade === 0 ? 'kindergarten' : `grade ${grade}`;
+  return encodeURIComponent(`${content.title} ${gradeStr} educational`);
+}
+
+/** Build the iframe src URL for a subject (single-video lessons).
  *  - If content.videoUrl is already a full embed URL → use it directly.
  *  - If content.videoUrl has a video ID / watch URL → standard embed.
  *  - Otherwise → YouTube search embed matched to the topic title + grade.
  */
 function buildVideoEmbedUrl(content: SubjectContent, grade: number): string {
   if (content.videoUrl) {
-    if (content.videoUrl.includes('/embed/') || content.videoUrl.includes('listType=search')) {
-      return content.videoUrl;
-    }
-    return `https://www.youtube.com/embed/${youtubeId(content.videoUrl)}?rel=0&modestbranding=1`;
+    return embedUrlForVideo(content.videoUrl);
   }
-  const gradeStr = grade === 0 ? 'kindergarten' : `grade ${grade}`;
-  const query = encodeURIComponent(`${content.title} ${gradeStr} educational`);
-  return `https://www.youtube.com/embed?listType=search&list=${query}&rel=0&modestbranding=1`;
+  return `https://www.youtube.com/embed?listType=search&list=${fallbackQuery(content, grade)}&rel=0&modestbranding=1`;
 }
 
-/** Build the "Watch on YouTube" fallback link URL */
+/** Build the "Watch on YouTube" fallback link URL (single-video lessons) */
 function buildVideoLinkUrl(content: SubjectContent, grade: number): string {
   if (content.videoUrl && !content.videoUrl.includes('listType=search')) {
-    return content.videoUrl.includes('/embed/')
-      ? content.videoUrl.replace('/embed/', '/watch?v=')
-      : content.videoUrl;
+    return linkUrlForVideo(content.videoUrl);
   }
-  const gradeStr = grade === 0 ? 'kindergarten' : `grade ${grade}`;
-  const query = encodeURIComponent(`${content.title} ${gradeStr} educational`);
-  return `https://www.youtube.com/results?search_query=${query}`;
+  return `https://www.youtube.com/results?search_query=${fallbackQuery(content, grade)}`;
 }
 
 function scoreColor(pct: number) {
@@ -285,32 +300,68 @@ function SubjectPanel({
       {/* Summary */}
       <p className="text-base text-foreground leading-relaxed">{content.summary}</p>
 
-      {/* YouTube embed — topic-matched video for every day */}
-      <div className="space-y-2">
-        <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
-          Watch the video, then take the quiz below
-        </p>
-        <div className="rounded-xl overflow-hidden border border-border shadow-sm">
-          <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
-            <iframe
-              src={buildVideoEmbedUrl(content, grade)}
-              title={content.title}
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-              className="absolute inset-0 w-full h-full"
-            />
-          </div>
+      {/* YouTube embed(s) — topic-matched video(s) for every day.
+          Review/combo lessons that cover multiple subtopics may carry a
+          videoUrls array (one video per subtopic) instead of a single
+          videoUrl; render each with its own label when present. */}
+      {content.videoUrls && content.videoUrls.length > 0 ? (
+        <div className="space-y-4">
+          <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            This is a review lesson — watch each short video, then take the quiz below
+          </p>
+          {content.videoUrls.map((v, i) => (
+            <div key={v.url + i} className="space-y-2">
+              <p className="text-sm font-semibold">{v.label}</p>
+              <div className="rounded-xl overflow-hidden border border-border shadow-sm">
+                <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+                  <iframe
+                    src={embedUrlForVideo(v.url)}
+                    title={`${content.title} — ${v.label}`}
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    className="absolute inset-0 w-full h-full"
+                  />
+                </div>
+              </div>
+              <a
+                href={linkUrlForVideo(v.url)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-primary transition-colors"
+              >
+                <ExternalLink className="h-3 w-3" />
+                Search YouTube if video doesn&apos;t load
+              </a>
+            </div>
+          ))}
         </div>
-        <a
-          href={buildVideoLinkUrl(content, grade)}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-primary transition-colors"
-        >
-          <ExternalLink className="h-3 w-3" />
-          Search YouTube if video doesn&apos;t load
-        </a>
-      </div>
+      ) : (
+        <div className="space-y-2">
+          <p className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+            Watch the video, then take the quiz below
+          </p>
+          <div className="rounded-xl overflow-hidden border border-border shadow-sm">
+            <div className="relative w-full" style={{ paddingBottom: '56.25%' }}>
+              <iframe
+                src={buildVideoEmbedUrl(content, grade)}
+                title={content.title}
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowFullScreen
+                className="absolute inset-0 w-full h-full"
+              />
+            </div>
+          </div>
+          <a
+            href={buildVideoLinkUrl(content, grade)}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-primary transition-colors"
+          >
+            <ExternalLink className="h-3 w-3" />
+            Search YouTube if video doesn&apos;t load
+          </a>
+        </div>
+      )}
 
       {/* Resource button — shown alongside or when no video */}
       {content.resourceUrl && (
