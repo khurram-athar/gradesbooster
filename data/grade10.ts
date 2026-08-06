@@ -1822,6 +1822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Vectors in Two Dimensions", summary:"Grade 10 Geometry strand (extension): a vector represents a quantity with both magnitude and direction, often used to describe things like velocity or force in two-dimensional space.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=iXdMpXMuEGI",
    quiz:[
      {q:"A vector represents a quantity with ___.", options:["Both magnitude and direction","Only direction, with no magnitude","Neither magnitude nor direction","Only magnitude, with no direction"], answer:0},
      {q:"Which is an example of a quantity that could be represented as a vector?", options:["A quantity unrelated to direction","Temperature","Mass","Velocity"], answer:3},
@@ -1831,6 +1832,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth Science: Plate Tectonics and Natural Hazards", summary:"Grade 10 Earth Science strand: plate tectonics describes the movement of large sections of Earth’s crust, which can result in natural hazards such as earthquakes and volcanic eruptions at plate boundaries.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=oCPjgv2Pccc",
    quiz:[
      {q:"Plate tectonics describes the movement of ___.", options:["Large sections of Earth’s crust","Only ocean currents, with no connection to the crust","Only the atmosphere, with no connection to the crust","A concept unrelated to Earth’s structure"], answer:0},
      {q:"Which natural hazard is commonly associated with plate boundaries?", options:["Tornadoes","A hazard unrelated to Earth’s crust","Blizzards","Earthquakes"], answer:3},

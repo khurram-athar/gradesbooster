@@ -1812,6 +1812,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"English", title:"Reading: Magical Realism and Cultural Identity", summary:"Grade 11 English strand: magical realism blends realistic settings with fantastical elements, often used by authors to explore questions of cultural identity, history, and belonging.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=oyv-eJRRozs",
    quiz:[
      {q:"Magical realism blends realistic settings with ___.", options:["Only historical events with no fictional elements","Only purely factual, non-fictional content","Two completely unrelated fictional genres with no connection","Fantastical elements"], answer:3},
      {q:"Authors often use magical realism to explore questions of ___.", options:["Cultural identity, history, and belonging","A topic entirely unrelated to identity or culture","Only lighthearted, comedic subject matter","Themes with no connection to any real experience"], answer:0},
@@ -1830,6 +1831,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Microbiology: Fungi and Decomposition", summary:"Grade 11 Biology strand: fungi play a critical ecological role as decomposers, breaking down dead organic matter and recycling nutrients back into the ecosystem.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=m4DUZhnNo4s",
    quiz:[
      {q:"Fungi play a critical ecological role as ___.", options:["A category with no ecological function","Organisms unrelated to nutrient recycling","Producers exclusively, with no connection to decomposition","Decomposers"], answer:3},
      {q:"Decomposers like fungi help break down ___.", options:["Rocks and other inorganic minerals only","Dead organic matter","Only living organisms, with no connection to decomposition","A material entirely unrelated to biological matter"], answer:1},
@@ -1839,6 +1841,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Organic Chemistry: Esters, Amides, and Biological Relevance", summary:"Grade 11 Chemistry strand: esters and amides are organic functional groups found in many natural and biological molecules, including fats, fragrances, and proteins.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=-LgfjlHqYKs",
    quiz:[
      {q:"Esters and amides are examples of organic ___.", options:["Elements found only on the periodic table","Functional groups","Purely inorganic compounds","A concept unrelated to organic chemistry"], answer:1},
      {q:"Which biological molecules commonly contain ester or amide functional groups?", options:["Only pure metals, with no connection to biology","A category entirely unrelated to biological molecules","Fats and proteins","Only minerals, with no organic connection"], answer:2},
