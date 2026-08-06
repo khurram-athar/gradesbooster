@@ -1820,6 +1820,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Symmetry", summary:"Ontario Grade 4 Geometry strand: a shape has line symmetry if it can be folded along a line so both halves match exactly, and that fold line is called a line of symmetry.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=dAqDwuHOi4g",
    quiz:[
      {q:"A shape has line symmetry if ___.", options:["It cannot be folded at all","It has no straight edges","It has more than four sides","It can be folded so both halves match exactly"], answer:3},
      {q:"The line along which a symmetrical shape can be folded is called a ___.", options:["Perimeter line","Diagonal","Coordinate","Line of symmetry"], answer:3},
@@ -1829,6 +1830,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces: Magnetism", summary:"Ontario Grade 4 Science Structures and Mechanisms strand: magnetism is a force that attracts certain metals, such as iron, and every magnet has a north pole and a south pole.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=Kll5A6xX9cY",
    quiz:[
      {q:"Magnetism is a force that attracts ___.", options:["Only liquids","Only wood","Certain metals, such as iron","All materials equally"], answer:2},
      {q:"Every magnet has ___.", options:["A north pole and a south pole","Only a north pole","Three poles","No poles at all"], answer:0},
@@ -1838,6 +1840,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Early Societies: Art and Architecture", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: early civilizations expressed their culture and beliefs through art and architecture, such as Egyptian pyramids, Greek temples, and Chinese pottery.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ppnrpB0DUNA",
    quiz:[
      {q:"Egyptian pyramids were primarily built as ___.", options:["Modern apartments","Tombs for pharaohs","Farming storage only","Shopping centres"], answer:1},
      {q:"Greek temples were often built to honour ___.", options:["Sports teams","Foreign kings only","Modern celebrities","Gods and goddesses"], answer:3},

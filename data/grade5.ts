@@ -1810,6 +1810,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Figurative Language: Symbolism", summary:"Ontario Grade 5 Reading strand: symbolism is when an object, character, or colour represents a deeper idea or meaning beyond its literal sense, such as a dove symbolizing peace.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=EYL8Dwy7XS0",
    quiz:[
      {q:"Symbolism is when something represents ___.", options:["Only its literal, surface meaning","Nothing at all","A deeper idea or meaning beyond its literal sense","A random unrelated word"], answer:2},
      {q:"A dove is commonly used as a symbol of ___.", options:["Confusion","War","Peace","Anger"], answer:2},
@@ -1819,6 +1820,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Circles: Radius, Diameter, and Circumference", summary:"Ontario Grade 5 Geometry strand: a circle’s radius is the distance from the centre to the edge, its diameter is twice the radius, and its circumference is the distance around the circle.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=m7pCJKPdkHE",
    quiz:[
      {q:"The radius of a circle is the distance from ___.", options:["One edge to the opposite edge","The circumference to the diameter","Nowhere in particular","The centre to the edge"], answer:3},
      {q:"The diameter of a circle is ___ the radius.", options:["Twice","Half of","Equal to","Four times"], answer:0},
