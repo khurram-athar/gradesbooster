@@ -2135,6 +2135,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Saving and Spending Money Wisely", summary:"Students learn the difference between saving money, keeping it for later, and spending money, using it to buy something now, and why both choices can be helpful.",
    resourceLabel:"YouTube: Saving and Spending Money Wisely", resourceUrl:"https://www.youtube.com/results?search_query=Saving%20and%20Spending%20Money%20Wisely%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=NfurkrZEn3Q",
    quiz:[
      {q:"What does it mean to save money?", options:["Throwing money away","Spending all money right away","Keeping money to use later","Losing money"], answer:2},
      {q:"What does it mean to spend money?", options:["Using it to buy something now","Hiding it","Keeping it forever","Losing it"], answer:0},

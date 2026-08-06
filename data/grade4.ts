@@ -1810,6 +1810,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Figurative Language: Personification", summary:"Ontario Grade 4 Reading strand: personification gives human qualities or actions to non-human things or ideas, such as saying the wind whispered or the sun smiled down.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=IXTL3eq0e80",
    quiz:[
      {q:"Personification is when a writer gives ___.", options:["No meaning to a sentence","Human qualities to non-human things","Colours to sounds","Numbers to letters"], answer:1},
      {q:"Which sentence is an example of personification?", options:["The wind is made of moving air.","The wind whispered through the trees.","The wind comes from changes in air pressure.","The wind speed was 20 kilometres per hour."], answer:1},

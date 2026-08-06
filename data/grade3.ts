@@ -1810,6 +1810,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Compound Words", summary:"Ontario Grade 3 Language strand: a compound word is formed by joining two smaller words together to make a new word with its own meaning, such as sun + flower = sunflower.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=82G-ZWzUHhU",
    quiz:[
      {q:"A compound word is formed by joining ___.", options:["Two smaller words together","Two punctuation marks","A word and a number","A letter and a symbol"], answer:0},
      {q:"Which of these is a compound word?", options:["Butterfly","Happy","Jump","Quickly"], answer:0},
@@ -1819,6 +1820,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Transformations (Slides, Flips, and Turns)", summary:"Ontario Grade 3 Geometry strand: shapes can move through transformations -- a slide (translation) moves a shape without turning it, a flip (reflection) creates a mirror image, and a turn (rotation) spins a shape around a point.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Bbl-crA2CGU",
    quiz:[
      {q:"A slide moves a shape ___.", options:["In a straight direction without turning it","By making it disappear","By flipping it into a mirror image","By spinning it in a circle"], answer:0},
      {q:"A flip creates a shape that is a ___ of the original.", options:["Larger version","Exact copy in the same spot","Smaller version","Mirror image"], answer:3},
@@ -1828,6 +1830,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Forces Acting on Structures", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: structures experience forces such as compression (pushing/squeezing) and tension (pulling/stretching), and good designs handle these forces without breaking.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=MyFRTBisBLA",
    quiz:[
      {q:"Compression is a force that ___.", options:["Pulls or stretches a material","Pushes or squeezes a material","Has no effect on structures","Only affects liquids"], answer:1},
      {q:"Tension is a force that ___.", options:["Only affects gases","Pushes or squeezes a material","Never occurs in structures","Pulls or stretches a material"], answer:3},
@@ -1837,6 +1840,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Physical Regions of Canada: The Arctic", summary:"Ontario Grade 3 Social Studies People and Environments strand: the Arctic is Canada's northernmost region, with a very cold climate, tundra landscape, and communities that have adapted their ways of life to the environment.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=n-buTJDwyuI",
    quiz:[
      {q:"The Arctic region of Canada is best described as ___.", options:["Covered in dense rainforest","Very cold with a tundra landscape","Mostly farmland","Warm and tropical"], answer:1},
      {q:"Tundra is a landscape with ___.", options:["Low-growing plants and no trees, due to the cold climate","Sandy deserts","Tropical fruit trees","Tall dense forests"], answer:0},

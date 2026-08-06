@@ -2090,6 +2090,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Cause and Effect in Stories", summary:"Students learn to identify cause and effect in stories, understanding that a cause is why something happens and an effect is what happens as a result.",
    resourceLabel:"YouTube: Cause and Effect in Stories", resourceUrl:"https://www.youtube.com/results?search_query=Cause%20and%20Effect%20in%20Stories%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ib7FzLoYiOc",
    quiz:[
      {q:"What do we call the reason something happens in a story?", options:["An effect","A character","A setting","A cause"], answer:3},
      {q:"What do we call the result of an event in a story?", options:["A title","A cause","A rhyme","An effect"], answer:3},
@@ -2104,6 +2105,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Tally Charts and Simple Data Collection", summary:"Students learn to collect data by counting and recording it using tally marks, then use a tally chart to see totals for each category.",
    resourceLabel:"YouTube: Tally Charts and Simple Data Collection", resourceUrl:"https://www.youtube.com/results?search_query=Tally%20Charts%20and%20Simple%20Data%20Collection%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=39Mis5HpsUU",
    quiz:[
      {q:"What do we call marks used to keep count while collecting data?", options:["Tally marks","Number lines","Fractions","Graphs"], answer:0},
      {q:"How many tally marks are grouped together before starting a new group?", options:["4","10","5","3"], answer:2},
@@ -2118,6 +2120,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Food Chains: Who Eats What", summary:"Students learn that a food chain shows how energy passes from one living thing to another, starting with a plant, moving to an animal that eats the plant, and then to an animal that eats that animal.",
    resourceLabel:"YouTube: Food Chains: Who Eats What", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Chains%3A%20Who%20Eats%20What%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YuO4WB4SwCg",
    quiz:[
      {q:"What do we call a chain that shows how energy passes from one living thing to another through eating?", options:["A food chain","A habitat","A water cycle","A life cycle"], answer:0},
      {q:"What is usually the first link in a food chain?", options:["A fish","A lion","A bird","A plant"], answer:3},
@@ -2132,6 +2135,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Public Safety Services: Police, Fire, and Ambulance", summary:"Students learn about public safety services in a community, such as police officers who keep people safe, firefighters who put out fires, and paramedics who help people who are hurt or sick.",
    resourceLabel:"YouTube: Public Safety Services: Police, Fire, and Ambulance", resourceUrl:"https://www.youtube.com/results?search_query=Public%20Safety%20Services%3A%20Police%2C%20Fire%2C%20and%20Ambulance%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iuJE36d2eS0",
    quiz:[
      {q:"Which public safety service is trained to put out fires?", options:["Farmers","Mail carriers","Firefighters","Teachers"], answer:2},
      {q:"Which public safety service helps keep a community safe from crime?", options:["Police officers","Bakers","Artists","Librarians"], answer:0},
