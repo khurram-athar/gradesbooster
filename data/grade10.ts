@@ -1810,14 +1810,15 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:44, label:"Day 44 — Thu", subjects:[
-  {subject:"English", title:"Media Studies: Analyzing News Broadcasts", summary:"Grade 10 English strand: analyzing a news broadcast involves examining how visual presentation, tone, word choice, and story selection can shape audience perception of an event.",
+  {subject:"English", title:"Media Studies: Analyzing Infographics and Data Visualization", summary:"Grade 10 English strand: infographics and data visualizations use charts, images, and design choices to present information persuasively, and analyzing them critically means examining what data is included, how it is visually framed, and what interpretation the design encourages.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=OiND50qfCek",
    quiz:[
-     {q:"Analyzing a news broadcast involves examining how ___.", options:["A factor entirely unrelated to media presentation","Visual presentation, tone, word choice, and story selection shape audience perception","Only the length of the broadcast affects audience perception","News broadcasts have no influence on audience perception"], answer:1},
-     {q:"Why might the specific word choice used in a news report influence how a viewer perceives an event?", options:["This factor is irrelevant to media analysis","Word choice has no effect on how information is perceived","All words used in news reports carry an identical, neutral meaning","Certain words can carry emotional or connotative weight that shapes interpretation"], answer:3},
-     {q:"Why is story selection an important consideration when analyzing a news broadcast?", options:["This factor has no connection to media literacy","Which stories are chosen to be covered can shape what audiences see as important","All news broadcasts cover the exact same stories","Story selection has no effect on audience perception"], answer:1},
-     {q:"Which is an example of a visual element that might influence how a news story is perceived?", options:["A factor entirely unrelated to visual presentation","The exact time of day the broadcast airs","The choice of images or footage shown alongside the story","The physical location of the television station"], answer:2},
-     {q:"Why is developing skills to critically analyze news broadcasts considered an important media literacy skill?", options:["Critical analysis of news has no value for media literacy","It helps viewers recognize how media choices can shape understanding of events","News broadcasts require no critical evaluation from viewers","This skill has no connection to understanding current events"], answer:1}
+     {q:"Analyzing an infographic critically involves examining ___.", options:["A factor entirely unrelated to media presentation","What data is included, how it is visually framed, and what interpretation the design encourages","Only the total number of images used","Infographics have no influence on audience perception"], answer:1},
+     {q:"Why might the choice of chart type (e.g., bar graph vs. pie chart) influence how data is perceived?", options:["This factor is irrelevant to media analysis","Chart type has no effect on how information is perceived","All chart types present data in an identical, neutral way","Different chart types can emphasize or downplay certain comparisons within the same data"], answer:3},
+     {q:"Why is it important to consider what data was left out of an infographic?", options:["This factor has no connection to media literacy","Omitted data can never change how a viewer interprets a claim","Selective inclusion of data can shape a misleading or one-sided impression","Infographics always include every relevant piece of data"], answer:2},
+     {q:"Which is an example of a visual design choice that might influence how data is perceived?", options:["A factor entirely unrelated to visual presentation","The exact time of day the infographic was published","The use of color, scale, and image size to emphasize certain figures","The file format the infographic is saved in"], answer:2},
+     {q:"Why is developing skills to critically analyze infographics considered an important media literacy skill?", options:["Critical analysis of data visuals has no value for media literacy","It helps viewers recognize how visual design choices can shape understanding of information","Infographics require no critical evaluation from viewers","This skill has no connection to understanding current information"], answer:1}
    ]},
   {subject:"Math", title:"Vectors in Two Dimensions", summary:"Grade 10 Geometry strand (extension): a vector represents a quantity with both magnitude and direction, often used to describe things like velocity or force in two-dimensional space.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
@@ -1839,6 +1840,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The October Crisis and the War Measures Act", summary:"Grade 10 History strand: the 1970 October Crisis, involving kidnappings by the FLQ in Quebec, led the federal government to invoke the War Measures Act, a controversial decision that expanded government powers.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=72waIfR-TnQ",
    quiz:[
      {q:"The October Crisis took place in which year?", options:["1970","1945","1919","1995"], answer:0},
      {q:"The October Crisis involved kidnappings carried out by ___.", options:["An organization unrelated to Canadian politics","A group with no connection to Quebec history","A foreign military force","The FLQ"], answer:3},

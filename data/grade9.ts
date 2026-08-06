@@ -1820,6 +1820,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Financial Literacy: Investment and Compound Growth", summary:"Grade 9 Financial Literacy strand: investing involves putting money into assets with the goal of growing wealth over time, often benefiting from compound growth, where returns are reinvested to generate further returns.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=T2u2vTn4shM",
    quiz:[
      {q:"Investing generally involves ___.", options:["Spending money with no consideration of future growth","A concept unrelated to personal finance","Putting money into assets with the goal of growing wealth over time","Only saving money with no potential for growth"], answer:2},
      {q:"Compound growth occurs when ___.", options:["Growth remains completely flat over time","Returns are never reinvested under any circumstances","Investment returns are reinvested to generate further returns","A concept unrelated to investing"], answer:2},
@@ -1829,6 +1830,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Cellular Respiration in Depth", summary:"Grade 9 Science Biology strand: cellular respiration breaks down glucose in the presence of oxygen to release usable energy for cells, producing carbon dioxide and water as byproducts.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=eJ9Zjc-jdys",
    quiz:[
      {q:"Cellular respiration breaks down ___ to release usable energy.", options:["Water only","Glucose","Oxygen only","Carbon dioxide only"], answer:1},
      {q:"Cellular respiration typically requires ___.", options:["Oxygen","No input substances at all","Only carbon dioxide, with no oxygen involved","Only sunlight, with no oxygen involved"], answer:0},
@@ -1838,6 +1840,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Renewable Resource Management: Forestry and Fisheries", summary:"Grade 9 Social Studies (Geography) strand: managing renewable resources like forests and fisheries sustainably requires balancing current use with the resource’s capacity to regenerate over time.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Qtz0oujpL-U",
    quiz:[
      {q:"A renewable resource, such as a forest, can regenerate over time if it is ___.", options:["Managed sustainably","Unrelated to management practices","Used with no consideration of regeneration","Depleted completely with no management"], answer:0},
      {q:"Sustainable fisheries management involves balancing ___.", options:["Current fishing activity with the fish population’s ability to reproduce and recover","Complete elimination of all fishing activity","A factor unrelated to fish populations","Unlimited fishing with no consideration of fish populations"], answer:0},

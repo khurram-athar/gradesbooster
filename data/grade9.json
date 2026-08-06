@@ -10653,6 +10653,7 @@
         "summary": "Grade 9 Financial Literacy strand: investing involves putting money into assets with the goal of growing wealth over time, often benefiting from compound growth, where returns are reinvested to generate further returns.",
         "resourceLabel": "TVO Learn: Grade 9 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=T2u2vTn4shM",
         "quiz": [
           {
             "q": "Investing generally involves ___.",
@@ -10712,6 +10713,7 @@
         "summary": "Grade 9 Science Biology strand: cellular respiration breaks down glucose in the presence of oxygen to release usable energy for cells, producing carbon dioxide and water as byproducts.",
         "resourceLabel": "TVO Learn: Grade 9 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=eJ9Zjc-jdys",
         "quiz": [
           {
             "q": "Cellular respiration breaks down ___ to release usable energy.",
@@ -10771,6 +10773,7 @@
         "summary": "Grade 9 Social Studies (Geography) strand: managing renewable resources like forests and fisheries sustainably requires balancing current use with the resource’s capacity to regenerate over time.",
         "resourceLabel": "TVO Learn: Grade 9 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-9-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Qtz0oujpL-U",
         "quiz": [
           {
             "q": "A renewable resource, such as a forest, can regenerate over time if it is ___.",
