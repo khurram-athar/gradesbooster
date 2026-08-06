@@ -1652,6 +1652,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Functions, Sequences, and Trigonometric Applications", summary:"Grade 10 Functions and Trigonometry strands review: this lesson revisits rational functions, exponential functions, arithmetic and geometric sequences, complex numbers, and combined sine/cosine law problems.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=wbBY2tTqXDA",
+   videoUrls:[{label:"Functions", url:"https://www.youtube.com/watch?v=wbBY2tTqXDA"},{label:"Sequences", url:"https://www.youtube.com/watch?v=XZJdyPkCxuE"},{label:"Trigonometric Applications", url:"https://www.youtube.com/watch?v=qXxTu0fg4_8"}],
    quiz:[
      {q:"A rational function is best described as ___.", options:["A function with no fractions involved","A linear equation with no fractional component","A function that is always undefined","A fraction where the numerator and denominator are polynomials"], answer:3},
      {q:"An exponential growth function models a quantity that ___.", options:["Decreases at an unpredictable, random rate","Increases by the same fixed amount each time period","Increases by a consistent percentage rate over time","Remains completely constant over time"], answer:2},
@@ -1661,6 +1663,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Chemistry, Physics, and Biology Applications", summary:"Grade 10 Science review: this lesson revisits solutions and concentration, circular motion, thermodynamics, electrochemistry, biotechnology, and microbiology covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=5iTOphGnCtg",
+   videoUrls:[{label:"Chemistry", url:"https://www.youtube.com/watch?v=5iTOphGnCtg"},{label:"Physics", url:"https://www.youtube.com/watch?v=b1t41Q3xRM8"}],
    quiz:[
      {q:"Concentration describes ___.", options:["The temperature of a solution only","How much solute is dissolved in a given amount of solvent","The exact colour of a solution","A property unrelated to dissolved substances"], answer:1},
      {q:"Centripetal force in circular motion is directed ___.", options:["Away from the centre of the circle","Toward the centre of the circle","In a straight line with no connection to the circle","In a direction unrelated to the object’s motion"], answer:1},

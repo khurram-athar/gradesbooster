@@ -1652,6 +1652,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Review: Rational Inequalities, Piecewise, and Transformations", summary:"Grade 12 Advanced Functions strand review: this lesson revisits rational inequalities, advanced piecewise and absolute value function analysis, and the unified framework for function transformations.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=ioIXtHlr95c",
+   videoUrls:[{label:"Rational Inequalities", url:"https://www.youtube.com/watch?v=ioIXtHlr95c"},{label:"Piecewise", url:"https://www.youtube.com/watch?v=1x9WoWGNFRo"},{label:"Transformations", url:"https://www.youtube.com/watch?v=aOiYRFpLBe8"}],
    quiz:[
      {q:"Solving a rational inequality involves finding the values of x where the expression is ___.", options:["Undefined across its entire domain","Positive or negative, as specified by the inequality","Always equal to exactly zero","A concept unrelated to the expression’s sign"], answer:1},
      {q:"An absolute value function can often be rewritten as a ___ function.", options:["Purely logarithmic, with no other classification possible","Purely exponential, with no other classification possible","A function unrelated to piecewise definitions","Piecewise"], answer:3},
@@ -1661,6 +1663,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Review: Integration Techniques and Numerical Methods", summary:"Grade 12 Calculus strand review: this lesson revisits improper integrals, partial fractions, Taylor series, Euler’s Method, and applications of derivatives in economics.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=2N6A4ed8s58",
+   videoUrls:[{label:"Integration Techniques", url:"https://www.youtube.com/watch?v=2N6A4ed8s58"},{label:"Numerical Methods", url:"https://www.youtube.com/watch?v=7EqRRuh-5Lk"}],
    quiz:[
      {q:"An improper integral may involve ___.", options:["Only a finite, clearly bounded interval with no special considerations","A concept unrelated to intervals of integration","An infinite interval of integration","An integrand that is always perfectly well-behaved with no exceptions"], answer:2},
      {q:"Partial fraction decomposition breaks a complex rational expression into ___.", options:["An expression with no fractions involved at all","A concept unrelated to rational expressions","A sum of simpler fractions","A single, more complicated fraction"], answer:2},
@@ -1670,6 +1674,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Review: Thermodynamics, Circuits, and Modern Physics", summary:"Grade 12 Physics strand review: this lesson revisits rotational motion, fluid mechanics, thermodynamics, capacitors and RC circuits, diffraction and polarization, particle accelerators, and dark matter and dark energy.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=8N1BxHgsoOw",
+   videoUrls:[{label:"Thermodynamics", url:"https://www.youtube.com/watch?v=8N1BxHgsoOw"},{label:"Circuits", url:"https://www.youtube.com/watch?v=r-SCyD7f_zI"},{label:"Modern Physics", url:"https://www.youtube.com/watch?v=H0m97YJavH4"}],
    quiz:[
      {q:"Torque is best described as the rotational equivalent of ___.", options:["A concept unrelated to rotational motion","Force","Only colour, with no connection to motion","Mass"], answer:1},
      {q:"The second law of thermodynamics relates to the tendency of natural processes to increase overall ___.", options:["Entropy","Colour","Mass","A factor entirely unrelated to energy or disorder"], answer:0},

@@ -1652,6 +1652,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Review: Functions, Trigonometry, and Financial Math", summary:"Grade 11 Functions strand review: this lesson revisits piecewise functions, the unit circle, rational equations, exponential modelling, recursive sequences, annuities, standard deviation, inverse functions, and trigonometric identities.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=sT0kFUvABfg",
+   videoUrls:[{label:"Functions", url:"https://www.youtube.com/watch?v=sT0kFUvABfg"},{label:"Trigonometry", url:"https://www.youtube.com/watch?v=Kr0SVPIGsCs"},{label:"Financial Math", url:"https://www.youtube.com/watch?v=Vk8-ezhw6YE"}],
    quiz:[
      {q:"A piecewise function is defined by ___.", options:["No defined expression at all","A single expression that applies to the entire domain","Different expressions over different intervals of its domain","A concept unrelated to domain intervals"], answer:2},
      {q:"An annuity is best described as ___.", options:["A series of equal payments made at regular intervals","A payment made at completely random, irregular intervals","A concept unrelated to regular payments","A single, one-time payment with no repetition"], answer:0},
@@ -1671,6 +1673,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Review: Gas Laws, Bonding, and Reaction Rates", summary:"Grade 11 Chemistry strand review: this lesson revisits gas laws, VSEPR theory, factors affecting reaction rate, colligative properties, isomers, titration curves, redox reactions, calorimetry, and environmental chemistry.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=AeXC9KCcBOM",
+   videoUrls:[{label:"Gas Laws", url:"https://www.youtube.com/watch?v=AeXC9KCcBOM"},{label:"Bonding", url:"https://www.youtube.com/watch?v=TR5MsdNRi6I"},{label:"Reaction Rates", url:"https://www.youtube.com/watch?v=8C1oJ11vUac"}],
    quiz:[
      {q:"Boyle’s Law describes the relationship between a gas’s ___.", options:["Mass and colour","A relationship unrelated to gas behaviour","Pressure and volume, at constant temperature","Only temperature, with no connection to pressure"], answer:2},
      {q:"VSEPR theory predicts a molecule’s ___.", options:["Colour","Mass","Three-dimensional shape","A property unrelated to molecular structure"], answer:2},

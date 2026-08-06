@@ -9663,6 +9663,21 @@
         "summary": "Grade 10 Functions and Trigonometry strands review: this lesson revisits rational functions, exponential functions, arithmetic and geometric sequences, complex numbers, and combined sine/cosine law problems.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=wbBY2tTqXDA",
+        "videoUrls": [
+          {
+            "label": "Functions",
+            "url": "https://www.youtube.com/watch?v=wbBY2tTqXDA"
+          },
+          {
+            "label": "Sequences",
+            "url": "https://www.youtube.com/watch?v=XZJdyPkCxuE"
+          },
+          {
+            "label": "Trigonometric Applications",
+            "url": "https://www.youtube.com/watch?v=qXxTu0fg4_8"
+          }
+        ],
         "quiz": [
           {
             "q": "A rational function is best described as ___.",
@@ -9722,6 +9737,17 @@
         "summary": "Grade 10 Science review: this lesson revisits solutions and concentration, circular motion, thermodynamics, electrochemistry, biotechnology, and microbiology covered across recent lessons.",
         "resourceLabel": "TVO Learn: Grade 10 Science",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "videoUrl": "https://www.youtube.com/watch?v=5iTOphGnCtg",
+        "videoUrls": [
+          {
+            "label": "Chemistry",
+            "url": "https://www.youtube.com/watch?v=5iTOphGnCtg"
+          },
+          {
+            "label": "Physics",
+            "url": "https://www.youtube.com/watch?v=b1t41Q3xRM8"
+          }
+        ],
         "quiz": [
           {
             "q": "Concentration describes ___.",

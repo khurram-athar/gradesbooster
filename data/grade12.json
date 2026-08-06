@@ -9663,6 +9663,21 @@
         "summary": "Grade 12 Advanced Functions strand review: this lesson revisits rational inequalities, advanced piecewise and absolute value function analysis, and the unified framework for function transformations.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=ioIXtHlr95c",
+        "videoUrls": [
+          {
+            "label": "Rational Inequalities",
+            "url": "https://www.youtube.com/watch?v=ioIXtHlr95c"
+          },
+          {
+            "label": "Piecewise",
+            "url": "https://www.youtube.com/watch?v=1x9WoWGNFRo"
+          },
+          {
+            "label": "Transformations",
+            "url": "https://www.youtube.com/watch?v=aOiYRFpLBe8"
+          }
+        ],
         "quiz": [
           {
             "q": "Solving a rational inequality involves finding the values of x where the expression is ___.",
@@ -9722,6 +9737,17 @@
         "summary": "Grade 12 Calculus strand review: this lesson revisits improper integrals, partial fractions, Taylor series, Euler’s Method, and applications of derivatives in economics.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=2N6A4ed8s58",
+        "videoUrls": [
+          {
+            "label": "Integration Techniques",
+            "url": "https://www.youtube.com/watch?v=2N6A4ed8s58"
+          },
+          {
+            "label": "Numerical Methods",
+            "url": "https://www.youtube.com/watch?v=7EqRRuh-5Lk"
+          }
+        ],
         "quiz": [
           {
             "q": "An improper integral may involve ___.",
@@ -9781,6 +9807,21 @@
         "summary": "Grade 12 Physics strand review: this lesson revisits rotational motion, fluid mechanics, thermodynamics, capacitors and RC circuits, diffraction and polarization, particle accelerators, and dark matter and dark energy.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=8N1BxHgsoOw",
+        "videoUrls": [
+          {
+            "label": "Thermodynamics",
+            "url": "https://www.youtube.com/watch?v=8N1BxHgsoOw"
+          },
+          {
+            "label": "Circuits",
+            "url": "https://www.youtube.com/watch?v=r-SCyD7f_zI"
+          },
+          {
+            "label": "Modern Physics",
+            "url": "https://www.youtube.com/watch?v=H0m97YJavH4"
+          }
+        ],
         "quiz": [
           {
             "q": "Torque is best described as the rotational equivalent of ___.",
