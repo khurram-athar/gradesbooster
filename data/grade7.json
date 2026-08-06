@@ -10589,60 +10589,61 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Vocabulary: Technical and Academic Vocabulary",
-        "summary": "Ontario Grade 7 Language strand: technical and academic vocabulary consists of specialized words used within specific subjects or fields, and understanding these terms is important for reading and writing in those areas.",
-        "resourceLabel": "TVO Learn: Grade 7 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "title": "Vocabulary: Words with Multiple Meanings",
+        "summary": "Ontario Grade 7 Language strand: many English words have more than one meaning depending on context, and recognizing these multiple-meaning words (homographs) helps readers accurately interpret unfamiliar or ambiguous sentences.",
+        "resourceLabel": "YouTube: Vocabulary: Words with Multiple Meanings",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiple%20Meaning%20Words%20grade%207%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5CPReuxGK0A",
         "quiz": [
           {
-            "q": "Technical vocabulary refers to ___.",
+            "q": "A word with multiple meanings is best described as a word that ___.",
             "options": [
-              "Specialized words used within specific subjects or fields",
-              "Words used only in casual conversation",
-              "Words with no specific meaning",
-              "Vocabulary that never appears in academic writing"
+              "Has more than one possible meaning depending on context",
+              "Can only ever be used one way",
+              "Has no connection to context at all",
+              "Is never found in everyday reading"
             ],
             "answer": 0
           },
           {
-            "q": "Why is understanding academic vocabulary important for reading textbooks?",
+            "q": "Which sentence uses the word 'bat' with a different meaning than 'The bat flew out of the cave at night'?",
             "options": [
-              "Textbooks never use specialized vocabulary",
-              "Understanding vocabulary is unnecessary for comprehension",
-              "It helps readers understand subject-specific concepts accurately",
-              "Academic vocabulary has no connection to understanding a subject"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Which is an example of technical vocabulary specific to science?",
-            "options": [
-              "Photosynthesis",
-              "Quickly",
-              "Nice",
-              "Happy"
+              "He swung the bat and hit a home run",
+              "The bat flew out of the cave at night",
+              "A bat is a nocturnal flying mammal",
+              "Bats use echolocation to find food"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a student need to learn new vocabulary when starting a new subject, like geometry?",
+            "q": "Why is context especially important when reading a word with multiple meanings?",
             "options": [
-              "New subjects never require any new vocabulary",
-              "New subjects often introduce specialized terms essential to understanding key concepts",
-              "Vocabulary has no connection to understanding a subject",
-              "Technical vocabulary is identical across every subject"
+              "Context is never useful for understanding meaning",
+              "Every meaning of a word is always identical",
+              "Context has no connection to word meaning",
+              "Context helps the reader determine which meaning the writer intends"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The word 'right' can mean 'correct' or ___ depending on context.",
+            "options": [
+              "A direction opposite of left",
+              "A type of vocabulary word",
+              "Something with no other meaning",
+              "A word that is never ambiguous"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a dictionary list several definitions under a single word entry?",
+            "options": [
+              "Dictionaries only ever list one definition per word",
+              "That word has multiple meanings used in different contexts",
+              "Definitions are listed randomly with no purpose",
+              "Multiple definitions indicate a printing error"
             ],
             "answer": 1
-          },
-          {
-            "q": "A glossary in a textbook is useful because it ___.",
-            "options": [
-              "Only lists unrelated general vocabulary",
-              "Replaces the need to read the textbook itself",
-              "Provides definitions for specialized or technical terms used in the text",
-              "Contains no useful information"
-            ],
-            "answer": 2
           }
         ]
       },

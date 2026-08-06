@@ -1810,6 +1810,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Idioms Across Cultures", summary:"Ontario Grade 6 Language strand: idioms are expressions whose meaning cannot be understood literally, and different cultures and languages often have their own unique idioms that reflect their history and values.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=_s_CH4yXXHQ",
    quiz:[
      {q:"An idiom is an expression whose meaning ___.", options:["Is identical in every language","Has no meaning at all","Cannot be understood from its literal words alone","Can always be understood literally"], answer:2},
      {q:"Different cultures often have their own idioms because ___.", options:["All cultures use identical idioms","Cultures never develop unique expressions","Idioms have no connection to culture","Language and expressions are shaped by a culture’s history and experiences"], answer:3},
@@ -1819,6 +1820,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Volume of Triangular Prisms and Cylinders", summary:"Ontario Grade 6 Geometry strand: the volume of a triangular prism is found using base area times length, while the volume of a cylinder is found using the area of its circular base times its height.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=S27hcKy49UM",
    quiz:[
      {q:"The formula for the volume of a cylinder is ___.", options:["Diameter times height","Base area times width only","Radius times height only","Base area (a circle) times height"], answer:3},
      {q:"If a triangular prism’s base area is 10 square units and its length is 6 units, what is its volume?", options:["60 cubic units","600 cubic units","10 cubic units","16 cubic units"], answer:0},
@@ -1828,6 +1830,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Newton’s Laws of Motion: An Introduction", summary:"Ontario Grade 6 Science Structures and Mechanisms strand: Newton’s laws of motion describe how objects behave when forces act on them, including how objects at rest stay at rest unless acted on by an outside force.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=-w6oW1ut4Dw",
    quiz:[
      {q:"According to Newton’s first law, an object at rest will ___.", options:["Immediately disappear","Stay at rest unless acted on by an outside force","Always start moving on its own","Change its own mass spontaneously"], answer:1},
      {q:"Newton’s laws of motion describe how objects behave when ___.", options:["They have no mass at all","They are completely motionless with no exceptions","Forces act on them","No forces exist anywhere"], answer:2},
@@ -1837,6 +1840,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Aztec and Inca Civilizations", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: the Aztec civilization in Mesoamerica and the Inca civilization in South America both developed advanced cities, agriculture, and governance systems before European contact.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=oMh5Dz4CVWY",
    quiz:[
      {q:"The Aztec civilization was located mainly in ___.", options:["East Asia","North Africa","Mesoamerica (present-day Mexico)","Northern Europe"], answer:2},
      {q:"The Inca civilization was located mainly in ___.", options:["Northern Europe","Southeast Asia","South America","North Africa"], answer:2},
