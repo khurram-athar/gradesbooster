@@ -10583,60 +10583,61 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Vocabulary: Jargon and Technical Language Across Fields",
-        "summary": "Grade 8 Language strand: jargon refers to specialized vocabulary used within a specific field or profession, and understanding it is important for reading texts related to that field accurately.",
-        "resourceLabel": "TVO Learn: Grade 8 Language",
-        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "title": "Vocabulary: Denotation and Connotation",
+        "summary": "Grade 8 Language strand: denotation is a word's literal, dictionary meaning, while connotation is the emotional or cultural association the word carries beyond its literal sense, and skilled readers and writers pay attention to both.",
+        "resourceLabel": "YouTube: Vocabulary: Denotation and Connotation",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Denotation%20and%20Connotation%20grade%208%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=Ih8r3MsxryA",
         "quiz": [
           {
-            "q": "Jargon refers to ___.",
+            "q": "Denotation refers to ___.",
             "options": [
-              "Vocabulary that never appears in professional writing",
-              "Specialized vocabulary used within a specific field",
-              "Words with no specific meaning",
-              "Vocabulary used only in casual conversation"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Why might jargon be difficult for someone outside a particular field to understand?",
-            "options": [
-              "Specialized vocabulary has no connection to a particular field",
-              "Jargon is always easy for everyone to understand immediately",
-              "Jargon never appears in professional or technical writing",
-              "It often has specific meanings understood mainly by people within that field"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which is an example of medical jargon?",
-            "options": [
-              "Happy",
-              "Nice",
-              "Quickly",
-              "Diagnosis"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Why might a writer explain jargon when writing for a general audience?",
-            "options": [
-              "Explaining jargon makes writing less clear",
-              "To help readers unfamiliar with the field understand the content",
-              "General audiences always understand specialized vocabulary automatically",
-              "Jargon should never be explained under any circumstances"
-            ],
-            "answer": 1
-          },
-          {
-            "q": "Understanding jargon across different fields can help readers ___.",
-            "options": [
-              "Better comprehend texts related to specific subjects or professions",
-              "Ignore the meaning of specialized vocabulary",
-              "Understand only casual, everyday conversation",
-              "Avoid reading any technical texts"
+              "A word's literal, dictionary meaning",
+              "The emotional feeling a word carries",
+              "A word that has no meaning at all",
+              "A word used only in casual conversation"
             ],
             "answer": 0
+          },
+          {
+            "q": "Connotation refers to ___.",
+            "options": [
+              "A word's literal, dictionary meaning",
+              "The emotional or cultural association a word carries beyond its literal meaning",
+              "A word with only one possible meaning",
+              "Grammar rules for forming plurals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has a more negative connotation than 'thrifty', even though both can describe someone careful with money?",
+            "options": [
+              "Frugal",
+              "Cheap",
+              "Economical",
+              "Careful"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose 'childlike' instead of 'childish' when describing someone's wonder at the world?",
+            "options": [
+              "The two words have identical connotations",
+              "Word choice never affects how a reader feels about a description",
+              "'Childlike' carries a more positive connotation, while 'childish' can sound negative",
+              "'Childish' is always the more precise choice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to consider both denotation and connotation when analyzing a text?",
+            "options": [
+              "Denotation and connotation are unrelated to meaning",
+              "Only denotation ever matters when reading a text",
+              "A word's emotional associations can shape meaning just as much as its literal definition",
+              "Connotation should always be ignored by careful readers"
+            ],
+            "answer": 2
           }
         ]
       },
@@ -10646,6 +10647,7 @@
         "summary": "Grade 8 Data Management strand: correlation describes a relationship between two variables, while causation means one variable directly causes a change in another -- correlation alone does not prove causation.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Tg6e2Y3IEUk",
         "quiz": [
           {
             "q": "Correlation between two variables means ___.",
@@ -10705,6 +10707,7 @@
         "summary": "Grade 8 Science Life Systems strand: CRISPR is a gene-editing technology that allows scientists to make precise changes to DNA, with significant potential applications and ethical considerations in medicine and agriculture.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=6tw_JVz_IEc",
         "quiz": [
           {
             "q": "CRISPR is a technology used to ___.",
@@ -10764,6 +10767,7 @@
         "summary": "Grade 8 History strand: the Avro Arrow was an advanced Canadian-designed fighter jet whose cancellation in 1959 sparked ongoing debate about Canadian technological independence and sovereignty.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=F4z5-l7u2Uo",
         "quiz": [
           {
             "q": "The Avro Arrow was a Canadian-designed ___.",

@@ -1810,6 +1810,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Precision in Word Choice for Technical Writing", summary:"Grade 9 Language strand: technical writing requires precise, unambiguous word choice to clearly communicate specific information, avoiding vague or overly general language.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=QhXyGV6BIMs",
    quiz:[
      {q:"Technical writing requires word choice that is ___.", options:["Precise and unambiguous","Vague and overly general","Entirely informal with no clarity required","Unrelated to the specific topic"], answer:0},
      {q:"Why might vague language cause problems in technical writing, such as instructions?", options:["It can lead to confusion or errors when readers try to follow the information","Vague language always improves clarity in technical writing","Ambiguity has no effect on how instructions are understood","Technical writing never requires precise language"], answer:0},
