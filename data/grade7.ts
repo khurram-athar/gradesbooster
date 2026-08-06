@@ -1820,6 +1820,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Outliers and Their Effect on Statistics", summary:"Ontario Grade 7 Data Management strand: an outlier is a data value that is significantly higher or lower than the rest of a data set, and it can strongly affect statistics like the mean.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=-kC6cAzYOJQ",
    quiz:[
      {q:"An outlier is a data value that is ___.", options:["Significantly higher or lower than the rest of the data set","The same as every other value in the set","Always exactly equal to the mean","Impossible to identify in any data set"], answer:0},
      {q:"Which statistic is most affected by an outlier?", options:["The mean","Neither statistic is ever affected","The mode, in most typical cases","Only the median, and never the mean"], answer:0},
@@ -1829,6 +1830,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Robotics and Automation in Technology", summary:"Ontario Grade 7 Science and Technology strand: robotics involves designing machines that can perform tasks automatically, often using sensors and programming to interact with their environment.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=ROQHEdODnBw",
    quiz:[
      {q:"Robotics involves designing machines that can ___.", options:["Perform tasks automatically","Function without any programming","Never interact with their environment","Only operate manually with no automation"], answer:0},
      {q:"Sensors in a robot are used to ___.", options:["Replace the need for any programming","Have no role in robotic function","Prevent the robot from functioning at all","Detect and respond to information from the environment"], answer:3},
@@ -1838,6 +1840,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The United Nations and Peacekeeping", summary:"Ontario Grade 7 Social Studies People and Environments strand: United Nations peacekeeping missions involve international forces working to maintain or restore peace in regions affected by conflict, with Canada historically playing a notable role.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=M1xHm5FFohU",
    quiz:[
      {q:"United Nations peacekeeping missions aim to ___.", options:["Maintain or restore peace in regions affected by conflict","Increase conflict in affected regions","Avoid any involvement in international conflicts","Replace all national governments"], answer:0},
      {q:"Peacekeeping forces are typically made up of ___.", options:["No organized personnel at all","Personnel from multiple member countries","Only a single country’s military","Civilians with no formal role"], answer:1},

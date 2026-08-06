@@ -1830,6 +1830,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Properties of Air and Atmosphere", summary:"Ontario Grade 5 Science Matter and Energy strand: air is a mixture of gases that makes up Earth’s atmosphere, has mass and takes up space, and plays a key role in weather and supporting life.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=wy9zKEYE2Ws",
    quiz:[
      {q:"Air is best described as ___.", options:["A solid material","A mixture of gases","A single pure element","Empty space with nothing in it"], answer:1},
      {q:"Which of these is true about air?", options:["It has no mass and takes up no space","It has mass and takes up space","It has no connection to weather","It cannot move at all"], answer:1},
@@ -1839,6 +1840,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Regional Economic Differences Across Canada", summary:"Ontario Grade 5 Social Studies People and Environments strand: different regions of Canada have distinct economies based on their available resources and industries, such as fishing in Atlantic Canada or oil production in Alberta.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=a-yVNNF00r8",
    quiz:[
      {q:"Atlantic Canada’s economy has historically relied heavily on ___.", options:["Coral reef tourism only","Desert farming","Fishing","Oil production"], answer:2},
      {q:"Alberta’s economy has historically relied heavily on ___.", options:["Deep-sea fishing","Rainforest logging","Oil production","Nothing at all"], answer:2},

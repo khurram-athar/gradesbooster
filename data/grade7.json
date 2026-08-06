@@ -10653,6 +10653,7 @@
         "summary": "Ontario Grade 7 Data Management strand: an outlier is a data value that is significantly higher or lower than the rest of a data set, and it can strongly affect statistics like the mean.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=-kC6cAzYOJQ",
         "quiz": [
           {
             "q": "An outlier is a data value that is ___.",
@@ -10712,6 +10713,7 @@
         "summary": "Ontario Grade 7 Science and Technology strand: robotics involves designing machines that can perform tasks automatically, often using sensors and programming to interact with their environment.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=ROQHEdODnBw",
         "quiz": [
           {
             "q": "Robotics involves designing machines that can ___.",
@@ -10771,6 +10773,7 @@
         "summary": "Ontario Grade 7 Social Studies People and Environments strand: United Nations peacekeeping missions involve international forces working to maintain or restore peace in regions affected by conflict, with Canada historically playing a notable role.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=M1xHm5FFohU",
         "quiz": [
           {
             "q": "United Nations peacekeeping missions aim to ___.",
