@@ -34058,5 +34058,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 141,
+    "label": "Day 141 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Parallel Structure in Sentences",
+        "summary": "Grade 4 Language strand: parallel structure means using the same grammatical pattern for items in a list or series, such as making sure all items are the same part of speech or verb form.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is parallel structure in a sentence?",
+            "options": [
+              "Using a different verb tense for each item",
+              "Using the same grammatical pattern for items in a series",
+              "Never using lists in a sentence",
+              "Using only nouns and no verbs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses parallel structure correctly?",
+            "options": [
+              "She likes running, swimming, and biking.",
+              "She likes to run, swimming, and bike.",
+              "She likes running, to swim, and biking.",
+              "She likes runs, swims, and biking."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is parallel structure important in writing?",
+            "options": [
+              "It makes sentences clearer and easier to read",
+              "It has no effect on writing",
+              "It removes all verbs from a sentence",
+              "It makes sentences confusing on purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is wrong with the sentence He enjoys hiking, to fish, and camping?",
+            "options": [
+              "It is already correct",
+              "It mixes a gerund and an infinitive instead of using the same form",
+              "It has too many commas",
+              "It uses no verbs at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should all items in a parallel list share?",
+            "options": [
+              "No connection to each other",
+              "Completely different meanings",
+              "The same grammatical form",
+              "Different punctuation each time"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Dividing a Fraction by a Whole Number",
+        "summary": "Grade 4 Math strand: to divide a fraction by a whole number, students can think of splitting the fraction into that many equal groups, which multiplies the denominator by the whole number.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What happens to the denominator when dividing a fraction by a whole number?",
+            "options": [
+              "The denominator stays exactly the same",
+              "The denominator is divided by the whole number",
+              "The denominator is multiplied by the whole number",
+              "The numerator disappears"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 1/2 divided by 2?",
+            "options": [
+              "1",
+              "1/4",
+              "1/2",
+              "2/2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 1/3 divided by 2?",
+            "options": [
+              "1/3",
+              "2/3",
+              "1/2",
+              "1/6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2/5 divided by 2?",
+            "options": [
+              "1/10",
+              "4/5",
+              "1/5",
+              "2/5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does dividing a fraction by a whole number usually make it smaller?",
+            "options": [
+              "Because the fraction is being split into more equal parts",
+              "Division always makes numbers larger",
+              "Fractions cannot be divided",
+              "The numerator always becomes zero"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Photosynthesis — How Plants Make Their Own Food",
+        "summary": "Grade 4 Science strand: photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to make their own food and release oxygen as a byproduct.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is photosynthesis?",
+            "options": [
+              "The process by which plants make their own food using sunlight",
+              "A process where plants produce no oxygen",
+              "A process that only happens at night",
+              "A process where plants absorb food from soil only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What three things do plants need for photosynthesis?",
+            "options": [
+              "Sunlight, water, and carbon dioxide",
+              "Only darkness and water",
+              "Only oxygen and sugar",
+              "Only soil and rocks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What gas do plants release during photosynthesis?",
+            "options": [
+              "Oxygen",
+              "Hydrogen",
+              "Nitrogen",
+              "Carbon dioxide only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where in a plant does most photosynthesis take place?",
+            "options": [
+              "In the bark only",
+              "In the leaves",
+              "In the roots only",
+              "In the flowers only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is photosynthesis important for other living things?",
+            "options": [
+              "It has no effect on other living things",
+              "It produces oxygen and food that many organisms depend on",
+              "It removes all oxygen from the air",
+              "It only matters to plants and no one else"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Hudson Bay Company and the Fur Trade Economy",
+        "summary": "Grade 4 Social Studies strand: the Hudson Bay Company was a major fur trading company that played a significant role in the exploration, economy, and early history of what is now Canada.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What kind of company was the Hudson Bay Company?",
+            "options": [
+              "A major fur trading company",
+              "A film production company",
+              "An airline company",
+              "A modern technology company"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role did the Hudson Bay Company play in early Canadian history?",
+            "options": [
+              "It played a major role in exploration and the fur trade economy",
+              "It focused only on farming",
+              "It had no role in Canadian history",
+              "It only operated outside of North America"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What resource was central to the Hudson Bay Companys trade?",
+            "options": [
+              "Animal furs, such as beaver pelts",
+              "Gold and silver only",
+              "Oil and gas",
+              "Grain and wheat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the fur trade affect relationships between European traders and Indigenous peoples?",
+            "options": [
+              "It had no effect on either group",
+              "It only involved European traders",
+              "It caused no interaction between the two groups",
+              "It led to trading partnerships and exchanges of goods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Hudson Bay Company still studied in Canadian history today?",
+            "options": [
+              "It has no lasting historical importance",
+              "It was active for only one single day",
+              "It significantly shaped early exploration, trade, and settlement patterns",
+              "It only affected countries outside North America"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 142,
+    "label": "Day 142 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Character Foils",
+        "summary": "Grade 4 Language strand: a character foil is a character whose traits contrast with another character, highlighting specific qualities of the main character through the difference.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a character foil?",
+            "options": [
+              "A character who looks exactly like the main character",
+              "A character whose traits contrast with another character to highlight qualities",
+              "A type of punctuation mark",
+              "A character who never appears in the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a foil help readers notice about the main character?",
+            "options": [
+              "The authors name",
+              "Nothing useful about the story",
+              "Only the setting of the story",
+              "Specific traits or qualities through contrast"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a brave character is paired with a timid character, what literary device might this show?",
+            "options": [
+              "A character foil emphasizing bravery through contrast",
+              "A simile comparing two objects",
+              "A type of onomatopoeia",
+              "An example of alliteration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where might a character foil appear in a story?",
+            "options": [
+              "As a friend, sibling, or rival with opposite traits",
+              "Only in the table of contents",
+              "Never in fiction",
+              "Only in the title of the book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do authors use character foils?",
+            "options": [
+              "To avoid describing any characters",
+              "To make certain traits of a character stand out more clearly",
+              "To remove conflict from a story",
+              "To confuse readers with no purpose"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Volume of Triangular Prisms",
+        "summary": "Grade 4 Math strand: the volume of a triangular prism is found by multiplying the area of its triangular base by the length of the prism.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What shape is the base of a triangular prism?",
+            "options": [
+              "A pentagon",
+              "A circle",
+              "A square",
+              "A triangle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do you find the volume of a triangular prism?",
+            "options": [
+              "Multiply only the two shortest sides",
+              "Add all the edges together",
+              "Multiply the area of the triangular base by the length of the prism",
+              "Multiply the perimeter by the height"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a triangular base has an area of 6 square units and the prism is 5 units long, what is the volume?",
+            "options": [
+              "25 cubic units",
+              "11 cubic units",
+              "30 cubic units",
+              "6 cubic units"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What units are used to measure the volume of a prism?",
+            "options": [
+              "Linear units",
+              "Cubic units",
+              "Square units",
+              "No units are needed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is finding the area of the triangular base an important first step?",
+            "options": [
+              "The base has no effect on volume",
+              "Volume can be found without knowing the base",
+              "Because volume depends on the area of the base multiplied by length",
+              "Triangular prisms never have a measurable base"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Vertebrates and Invertebrates — Classifying Animals",
+        "summary": "Grade 4 Science strand: animals can be classified as vertebrates, which have a backbone, or invertebrates, which do not, helping scientists organize and study the animal kingdom.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a vertebrate?",
+            "options": [
+              "A type of plant",
+              "An animal that has a backbone",
+              "An animal that has no backbone",
+              "A type of rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an invertebrate?",
+            "options": [
+              "An animal that always has a backbone",
+              "A type of weather pattern",
+              "An animal that does not have a backbone",
+              "A type of mineral"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a vertebrate?",
+            "options": [
+              "A jellyfish",
+              "A fish",
+              "An insect",
+              "A worm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of an invertebrate?",
+            "options": [
+              "A reptile",
+              "A mammal",
+              "A bird",
+              "A snail"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists classify animals into groups like vertebrates and invertebrates?",
+            "options": [
+              "Classification only applies to plants",
+              "All animals are exactly the same",
+              "Classification has no scientific purpose",
+              "It helps organize and study the wide variety of animals"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: How Taxes Support Canadian Communities",
+        "summary": "Grade 4 Social Studies strand: taxes are money collected by governments from individuals and businesses, used to fund public services such as schools, roads, hospitals, and emergency services in Canadian communities.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What are taxes?",
+            "options": [
+              "A type of currency used only in stores",
+              "Money given only to private businesses",
+              "A voluntary gift with no purpose",
+              "Money collected by governments to fund public services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is commonly funded by tax money?",
+            "options": [
+              "Public schools and hospitals",
+              "Only foreign purchases",
+              "Only individual savings accounts",
+              "Only private vacations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who is generally responsible for paying taxes?",
+            "options": [
+              "No one is responsible for taxes",
+              "Only children",
+              "Only visitors from other countries",
+              "Individuals and businesses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are taxes important for a community?",
+            "options": [
+              "They have no benefit to the community",
+              "Taxes only benefit the government itself",
+              "They help pay for shared services everyone can use",
+              "Taxes remove all public services"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which level of government might collect taxes in Canada?",
+            "options": [
+              "Only private companies",
+              "Only foreign governments",
+              "No government collects taxes",
+              "Federal, provincial, and municipal governments"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 143,
+    "label": "Day 143 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Public Service Announcement",
+        "summary": "Grade 4 Language strand: a public service announcement is a short persuasive message that informs the public about an important issue and encourages a specific action, often used on radio, television, or posters.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of a public service announcement?",
+            "options": [
+              "To share a private diary entry",
+              "To inform the public about an issue and encourage action",
+              "To tell a made-up bedtime story",
+              "To sell a specific brand of toy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might a public service announcement be shared?",
+            "options": [
+              "On radio, television, or posters",
+              "Only in a math textbook",
+              "Only in a private letter",
+              "Nowhere at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should a strong public service announcement include?",
+            "options": [
+              "Only decorative pictures",
+              "Random unrelated facts",
+              "A clear message and a call to action",
+              "No message at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which topic would be appropriate for a public service announcement?",
+            "options": [
+              "Encouraging people to recycle",
+              "Describing a fictional dragon",
+              "Listing random numbers",
+              "Sharing a private joke"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do public service announcements use short, clear language?",
+            "options": [
+              "Short language has no benefit",
+              "To make the message harder to understand",
+              "So the audience quickly understands and remembers the message",
+              "Because rules require no words at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Introduction to Integers (Positive and Negative Numbers)",
+        "summary": "Grade 4 Math strand: integers include positive numbers, negative numbers, and zero, and can be used to represent values such as temperatures below zero or money owed.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What are integers?",
+            "options": [
+              "Only positive numbers",
+              "Positive numbers, negative numbers, and zero",
+              "Only fractions",
+              "Only decimals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a negative integer represent in real life?",
+            "options": [
+              "A temperature below zero",
+              "The number of sides on a square",
+              "A number of apples in a basket",
+              "The number of days in a week"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a negative integer?",
+            "options": [
+              "5",
+              "1/2",
+              "0.5",
+              "-5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On a number line, where are negative integers located compared to zero?",
+            "options": [
+              "Exactly at zero",
+              "To the right of zero",
+              "Negative integers do not exist on a number line",
+              "To the left of zero"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which integer is greater, -3 or -8?",
+            "options": [
+              "Neither can be compared",
+              "-8",
+              "They are equal",
+              "-3"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Plant Parts and Their Functions — Roots, Stems, Leaves, and Flowers",
+        "summary": "Grade 4 Science strand: each part of a plant has a specific function, with roots absorbing water and nutrients, stems supporting the plant and transporting materials, leaves capturing sunlight, and flowers producing seeds.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main job of a plants roots?",
+            "options": [
+              "Releasing pollen only",
+              "Absorbing water and nutrients from the soil",
+              "Capturing sunlight for energy",
+              "Producing seeds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main job of a plants stem?",
+            "options": [
+              "Absorbing sunlight directly",
+              "Producing fruit only",
+              "Anchoring the plant underground",
+              "Supporting the plant and transporting water and nutrients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main job of a plants leaves?",
+            "options": [
+              "Producing seeds for reproduction",
+              "Absorbing water from the soil",
+              "Capturing sunlight to make food through photosynthesis",
+              "Anchoring the plant in place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main job of a plants flowers?",
+            "options": [
+              "Releasing oxygen only at night",
+              "Absorbing water and nutrients",
+              "Producing seeds for reproduction",
+              "Supporting the entire plant structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a plant need all of these parts working together?",
+            "options": [
+              "Each part performs a different function needed for the plant to survive and grow",
+              "Only one part is ever needed for survival",
+              "Plants do not need roots or stems",
+              "Plant parts have no connection to each other"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas National Symbols — The Beaver and the Maple Leaf",
+        "summary": "Grade 4 Social Studies strand: Canada has several national symbols, including the beaver, recognized for its role in the fur trade and industriousness, and the maple leaf, featured on the national flag and representing Canadian identity.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Which animal is a well-known national symbol of Canada?",
+            "options": [
+              "The kangaroo",
+              "The eagle",
+              "The lion",
+              "The beaver"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What historical industry is the beaver closely associated with in Canada?",
+            "options": [
+              "The fishing industry",
+              "The film industry",
+              "The fur trade",
+              "The mining industry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What plant symbol appears on the Canadian flag?",
+            "options": [
+              "The oak leaf",
+              "The rose",
+              "The palm leaf",
+              "The maple leaf"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are national symbols like the beaver and maple leaf important to Canadian identity?",
+            "options": [
+              "They are only used outside of Canada",
+              "They have no connection to Canadian history",
+              "They represent a completely different country",
+              "They represent shared history and help people feel connected to their country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where might you see the maple leaf symbol displayed?",
+            "options": [
+              "Only in other countries",
+              "On the Canadian flag and various official items",
+              "Only on private property",
+              "Nowhere in Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 144,
+    "label": "Day 144 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Understanding Jargon and Technical Vocabulary",
+        "summary": "Grade 4 Language strand: jargon is special vocabulary used by people in a particular field or group, such as doctors or athletes, that may be unfamiliar to general readers.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is jargon?",
+            "options": [
+              "A word with no meaning at all",
+              "A type of punctuation mark",
+              "A grammar rule for verbs",
+              "Special vocabulary used by people in a particular field or group"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who might use medical jargon?",
+            "options": [
+              "Only fictional characters",
+              "No one uses jargon",
+              "Doctors and nurses",
+              "Only young children"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might jargon be confusing to general readers?",
+            "options": [
+              "It always uses the simplest words possible",
+              "It uses specialized terms unfamiliar outside that field",
+              "Jargon is identical in every field",
+              "Jargon never appears in real language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should a writer do when using jargon for a general audience?",
+            "options": [
+              "Avoid all vocabulary completely",
+              "Use only jargon with no explanation",
+              "Explain or define the specialized terms",
+              "Assume everyone already knows it"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of sports jargon?",
+            "options": [
+              "A term like slam dunk used among basketball players",
+              "A punctuation mark",
+              "A common word like table",
+              "A silent letter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Interpreting Stacked Bar Graphs",
+        "summary": "Grade 4 Math strand: a stacked bar graph shows multiple categories within a single bar, with each section representing a different part of the total for that bar.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does a stacked bar graph show within a single bar?",
+            "options": [
+              "Nothing measurable",
+              "Multiple categories stacked to show parts of a total",
+              "Only one category with no divisions",
+              "A single number with no comparison"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can you find the total value represented by a stacked bar?",
+            "options": [
+              "Add up all the sections stacked within that bar",
+              "Only look at the top section",
+              "Multiply the number of sections",
+              "Subtract each section from the others"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a stacked bar graph be useful for comparing data?",
+            "options": [
+              "It hides all the data",
+              "It shows both individual parts and the overall total at once",
+              "It cannot be used to compare anything",
+              "It only shows a single value with no detail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might different colours within a stacked bar represent?",
+            "options": [
+              "Only decoration",
+              "Nothing at all",
+              "The title of the graph",
+              "Different categories or subgroups of data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If one bar shows red for 3 units and blue for 2 units stacked together, what is the total height of that bar?",
+            "options": [
+              "3 units",
+              "2 units",
+              "6 units",
+              "5 units"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Magnetic Fields and Compasses",
+        "summary": "Grade 4 Science strand: a magnet creates an invisible magnetic field around it, and a compass uses a small magnetized needle that aligns with Earths magnetic field to point toward magnetic north.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a magnetic field?",
+            "options": [
+              "An invisible area of force surrounding a magnet",
+              "A type of electrical current",
+              "A type of sound wave",
+              "A visible line drawn around a magnet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a compass needle align with?",
+            "options": [
+              "Earths magnetic field",
+              "The nearest light source",
+              "The direction of the wind",
+              "The temperature of the air"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which direction does a compass needle typically point?",
+            "options": [
+              "Toward the ground",
+              "Toward magnetic north",
+              "In a random direction each time",
+              "Toward the nearest building"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a compass a useful navigation tool?",
+            "options": [
+              "It helps travellers determine direction using Earths magnetic field",
+              "It only works underwater",
+              "It has no practical use for navigation",
+              "It measures temperature instead of direction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to a compass needle near a strong magnet?",
+            "options": [
+              "It has no reaction at all",
+              "It always points south instead",
+              "It can be pulled away from pointing to magnetic north",
+              "It stops working permanently"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of the Supreme Court of Canada",
+        "summary": "Grade 4 Social Studies strand: the Supreme Court of Canada is the highest court in the country, making final decisions on important legal cases and ensuring laws follow the Canadian Constitution.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "A private business court",
+              "A local municipal office",
+              "A branch of the police force",
+              "The highest court in the country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of decisions does the Supreme Court of Canada make?",
+            "options": [
+              "Decisions about sports team rules",
+              "Final decisions on important legal cases",
+              "Decisions about school lunch menus",
+              "Decisions about weather forecasts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What document must Canadian laws align with, according to the Supreme Court?",
+            "options": [
+              "A local city bylaw only",
+              "A foreign countrys constitution",
+              "The Canadian Constitution",
+              "A private companys rules"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is having a highest court important for a country?",
+            "options": [
+              "It only handles minor disputes",
+              "It replaces the need for any other courts",
+              "It provides a final, consistent decision on major legal questions",
+              "It has no real purpose in government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who might bring a case to the Supreme Court of Canada?",
+            "options": [
+              "Only young children",
+              "Only foreign governments",
+              "People or groups involved in significant legal disputes",
+              "No one is allowed to bring cases"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 145,
+    "label": "Day 145 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Comparing Two Texts on the Same Topic",
+        "summary": "Grade 4 Language strand: comparing two texts on the same topic involves identifying similarities and differences in the information, perspective, or purpose each author presents.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What does comparing two texts on the same topic involve?",
+            "options": [
+              "Identifying similarities and differences between the texts",
+              "Ignoring the topic entirely",
+              "Copying one text exactly",
+              "Reading only one of the texts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might two texts about the same topic present different information?",
+            "options": [
+              "Topics never have more than one source",
+              "Texts about the same topic are not allowed to differ",
+              "Authors can have different purposes, perspectives, or sources",
+              "All texts on a topic are always identical"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one way authors perspectives might differ on the same topic?",
+            "options": [
+              "All authors always agree completely",
+              "Perspective has no effect on writing",
+              "Only fictional texts can differ",
+              "One author might focus on benefits while another focuses on risks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to read multiple texts about the same topic?",
+            "options": [
+              "It always causes more confusion",
+              "It gives a fuller and more balanced understanding",
+              "One text is always enough",
+              "Comparing texts is never useful"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might readers look for when comparing texts?",
+            "options": [
+              "Only the font used",
+              "Only the length of each text",
+              "Only the page numbers",
+              "Facts, opinions, and evidence presented differently"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Rounding to the Nearest Ten Thousand",
+        "summary": "Grade 4 Math strand: to round a number to the nearest ten thousand, students look at the thousands digit to decide whether to round up or keep the ten thousands digit the same.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What digit do you check when rounding to the nearest ten thousand?",
+            "options": [
+              "The tenths digit",
+              "The hundred thousands digit",
+              "The ones digit",
+              "The thousands digit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 43,700 rounded to the nearest ten thousand?",
+            "options": [
+              "44,000",
+              "40,000",
+              "43,000",
+              "50,000"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 76,200 rounded to the nearest ten thousand?",
+            "options": [
+              "77,000",
+              "80,000",
+              "70,000",
+              "76,000"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the thousands digit is 5 or greater, what should you do when rounding to the nearest ten thousand?",
+            "options": [
+              "Ignore the digit completely",
+              "Round down to zero",
+              "Keep the ten thousands digit the same",
+              "Round the ten thousands digit up by one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone round a large number to the nearest ten thousand?",
+            "options": [
+              "Rounding removes the need for all math",
+              "To make the number easier to work with or estimate",
+              "Rounding only works with small numbers",
+              "To make the number less accurate for no reason"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Life Cycle of a Frog — Amphibian Metamorphosis",
+        "summary": "Grade 4 Science strand: a frog undergoes complete metamorphosis, changing from an egg to a tadpole living in water, then developing legs and lungs to become an adult frog that can live on land and in water.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the first stage of a frogs life cycle?",
+            "options": [
+              "Froglet",
+              "Adult frog",
+              "Egg",
+              "Tadpole"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where do tadpoles typically live and breathe?",
+            "options": [
+              "Underground, using no breathing organs",
+              "In trees, using skin only",
+              "On dry land, using lungs",
+              "In water, using gills"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What major changes happen as a tadpole becomes a frog?",
+            "options": [
+              "It loses all its organs",
+              "It stops growing entirely",
+              "It grows legs and develops lungs for breathing air",
+              "It turns into a completely different animal species"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What term describes the frogs dramatic change in body form?",
+            "options": [
+              "Hibernation",
+              "Metamorphosis",
+              "Migration",
+              "Photosynthesis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where can adult frogs typically live?",
+            "options": [
+              "Only high in the mountains",
+              "Both in water and on land",
+              "Only deep underground",
+              "Only in the desert"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ancient Israel and the Fertile Crescent",
+        "summary": "Grade 4 Social Studies strand: ancient Israel developed within the Fertile Crescent, a region with rich soil and access to water that supported early farming, trade, and the growth of significant historical societies.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Fertile Crescent known for?",
+            "options": [
+              "Being a completely dry desert with no water",
+              "Being located entirely underwater",
+              "Having no history of early civilizations",
+              "Rich soil and water access that supported early farming"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did early societies often settle near rivers in the Fertile Crescent?",
+            "options": [
+              "Rivers had no value to ancient peoples",
+              "Early societies avoided rivers completely",
+              "Rivers made travel and farming impossible",
+              "Rivers provided water for farming and daily life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What activity was strongly supported by the fertile land in this region?",
+            "options": [
+              "Mountain climbing",
+              "Farming",
+              "Deep sea fishing only",
+              "Ice fishing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is ancient Israel an example of in this region?",
+            "options": [
+              "A society with no connection to farming",
+              "A significant historical society that developed in the Fertile Crescent",
+              "A civilization located in Antarctica",
+              "A modern country with no ancient history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do historians study the Fertile Crescent today?",
+            "options": [
+              "It helps explain the origins of early farming and civilization",
+              "It was never inhabited by ancient peoples",
+              "It is important only for its modern buildings",
+              "It has no historical significance"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 146,
+    "label": "Day 146 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Understanding Verb Moods — Indicative, Imperative, and Interrogative",
+        "summary": "Grade 4 Language strand: verb mood shows the purpose of a sentence, with the indicative mood stating facts, the imperative mood giving commands, and the interrogative mood asking questions.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What does the indicative mood do?",
+            "options": [
+              "Expresses a wish",
+              "Gives a command",
+              "States a fact or opinion",
+              "Asks a question"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the imperative mood do?",
+            "options": [
+              "Asks a question",
+              "Describes a feeling only",
+              "Gives a command or request",
+              "States a fact"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is in the interrogative mood?",
+            "options": [
+              "Close the door.",
+              "The sky is blue.",
+              "Did you finish your homework?",
+              "Please sit down."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is in the imperative mood?",
+            "options": [
+              "The window is open.",
+              "Is the window open?",
+              "The window was closed yesterday.",
+              "Please close the window."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to recognize verb mood?",
+            "options": [
+              "Verb mood has no real use",
+              "It helps understand the purpose of a sentence",
+              "It only matters in poetry",
+              "It replaces the need for punctuation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Calculating Change with Multiple Bills and Coins",
+        "summary": "Grade 4 Math strand: calculating change involves subtracting the cost of an item from the amount paid, then determining which combination of bills and coins makes up that amount.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "How do you calculate the change owed after a purchase?",
+            "options": [
+              "Subtract the cost of the item from the amount paid",
+              "Multiply the cost by the amount paid",
+              "Divide the amount paid by the cost",
+              "Add the cost of the item to the amount paid"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If an item costs 6 dollars and 25 cents and you pay with a 10 dollar bill, how much change should you receive?",
+            "options": [
+              "3 dollars and 25 cents",
+              "4 dollars and 25 cents",
+              "3 dollars and 75 cents",
+              "4 dollars and 75 cents"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a cashier give change using the fewest bills and coins possible?",
+            "options": [
+              "Fewer bills and coins is against store rules",
+              "It has no effect on the transaction",
+              "It always uses more coins than necessary",
+              "It is a simpler and more efficient way to make change"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which combination of coins equals exactly 2 dollars?",
+            "options": [
+              "Three quarters",
+              "Two 1 dollar coins",
+              "Five dimes",
+              "One 1 dollar coin and one quarter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to practice calculating change?",
+            "options": [
+              "Change is never given in stores",
+              "It has no real-life application",
+              "Calculating change is only used in math class",
+              "It helps ensure you receive the correct amount of money back"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Static Electricity and Lightning",
+        "summary": "Grade 4 Science strand: static electricity builds up when electric charges collect on the surface of an object, and lightning is a dramatic natural example of static electricity discharging between clouds or between a cloud and the ground.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is static electricity?",
+            "options": [
+              "A type of sound wave",
+              "A buildup of electric charge on the surface of an object",
+              "A steady flow of electricity through a wire",
+              "A type of magnetic field"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What natural event is a large-scale example of static electricity discharging?",
+            "options": [
+              "Wind",
+              "Lightning",
+              "Fog",
+              "Rainfall"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can cause static electricity to build up between two objects?",
+            "options": [
+              "Rubbing two objects together",
+              "Placing objects in water",
+              "Heating an object slowly",
+              "Freezing an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might your hair stand up after rubbing a balloon on it?",
+            "options": [
+              "Static charge causes strands of hair to repel each other",
+              "Rubbing an object has no electrical effect",
+              "Hair always stands up in cold weather",
+              "The balloon removes all electricity from your hair"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it dangerous to be outside during a lightning storm?",
+            "options": [
+              "Lightning carries a powerful electric discharge that can strike people",
+              "Lightning never travels toward the ground",
+              "Lightning only strikes underwater",
+              "Lightning has no real danger"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Royal Canadian Mint and How Coins Are Made",
+        "summary": "Grade 4 Social Studies strand: the Royal Canadian Mint is the government organization responsible for designing and producing Canadas coins, using metal, precise measurements, and detailed designs.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Royal Canadian Mint responsible for?",
+            "options": [
+              "Printing paper money only",
+              "Running Canadas schools",
+              "Managing Canadas highways",
+              "Designing and producing Canadas coins"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What material is commonly used to produce coins?",
+            "options": [
+              "Metal",
+              "Glass",
+              "Paper",
+              "Wood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must coins be made with precise measurements?",
+            "options": [
+              "So they are consistent in size, weight, and value",
+              "Precision has no importance for coins",
+              "Every coin is meant to be a different size",
+              "Coins are never measured during production"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might appear on the design of a Canadian coin?",
+            "options": [
+              "Foreign national symbols only",
+              "Random unrelated images with no meaning",
+              "Nothing at all",
+              "Important symbols or figures representing Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to learn how coins are made?",
+            "options": [
+              "Coins appear naturally with no production process",
+              "It helps us understand the process behind everyday currency",
+              "Learning about currency has no value",
+              "Coins are not used in Canada"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 147,
+    "label": "Day 147 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Persuasive Advertisement Script",
+        "summary": "Grade 4 Language strand: a persuasive advertisement script uses catchy language, strong reasons, and a clear call to action to convince an audience to buy a product or support an idea.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is the goal of a persuasive advertisement script?",
+            "options": [
+              "To share a private diary entry",
+              "To describe a historical event only",
+              "To list random facts with no purpose",
+              "To convince an audience to buy a product or support an idea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a call to action in an advertisement?",
+            "options": [
+              "A clear statement telling the audience what to do next",
+              "A type of punctuation mark",
+              "A random unrelated sentence",
+              "The title of the product only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an advertisement use catchy language?",
+            "options": [
+              "To grab attention and make the message memorable",
+              "To confuse the audience on purpose",
+              "To make the ad longer with no purpose",
+              "Catchy language has no effect on advertising"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a persuasive advertisement include to support its claims?",
+            "options": [
+              "Unrelated jokes only",
+              "Strong reasons or benefits of the product",
+              "Only random numbers",
+              "No reasons at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might an advertisement script be performed?",
+            "options": [
+              "Only in a private notebook",
+              "Nowhere at all",
+              "On television, radio, or in a video",
+              "Only inside a math class"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Finding Missing Angles in a Triangle",
+        "summary": "Grade 4 Math strand: the three interior angles of a triangle always add up to 180 degrees, so a missing angle can be found by subtracting the sum of the two known angles from 180.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What do the three interior angles of a triangle always add up to?",
+            "options": [
+              "90 degrees",
+              "270 degrees",
+              "180 degrees",
+              "360 degrees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If two angles in a triangle are 50 degrees and 60 degrees, what is the third angle?",
+            "options": [
+              "70 degrees",
+              "110 degrees",
+              "80 degrees",
+              "60 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If two angles in a triangle are both 45 degrees, what is the third angle?",
+            "options": [
+              "90 degrees",
+              "60 degrees",
+              "180 degrees",
+              "45 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do you find a missing angle when you know the other two angles of a triangle?",
+            "options": [
+              "Multiply the two known angles",
+              "Subtract the sum of the two known angles from 180 degrees",
+              "Add the two known angles together for the answer",
+              "Divide 180 by the two known angles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the missing angle if a triangle has angles of 90 degrees and 30 degrees?",
+            "options": [
+              "90 degrees",
+              "30 degrees",
+              "120 degrees",
+              "60 degrees"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Space — An Introduction to Galaxies and the Milky Way",
+        "summary": "Grade 4 Science strand: a galaxy is a massive collection of stars, planets, gas, and dust held together by gravity, and our solar system is located within a galaxy called the Milky Way.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a galaxy?",
+            "options": [
+              "A type of moon",
+              "A single star with no planets",
+              "A small cloud found only on Earth",
+              "A massive collection of stars, planets, gas, and dust held together by gravity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the name of the galaxy that contains our solar system?",
+            "options": [
+              "The Orion Galaxy",
+              "The Solar Galaxy",
+              "The Milky Way",
+              "The Andromeda Galaxy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What force holds a galaxy together?",
+            "options": [
+              "Wind",
+              "Magnetism only",
+              "Gravity",
+              "Heat alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a galaxy contain besides stars?",
+            "options": [
+              "Only empty space with nothing else",
+              "Planets, gas, and dust",
+              "Only water",
+              "Only oxygen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can we see a band of light in the night sky called the Milky Way?",
+            "options": [
+              "It is an illusion with no real explanation",
+              "It is caused by clouds on Earth",
+              "We are viewing part of our own galaxy from within it",
+              "It is a reflection from the Moon"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Canadian Armed Forces — Serving at Home and Abroad",
+        "summary": "Grade 4 Social Studies strand: the Canadian Armed Forces protect Canada and its citizens, respond to emergencies at home, and take part in international missions such as peacekeeping alongside other countries.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is a key responsibility of the Canadian Armed Forces?",
+            "options": [
+              "Running provincial elections",
+              "Protecting Canada and its citizens",
+              "Building highways only",
+              "Managing local libraries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might the Canadian Armed Forces do during a natural disaster at home?",
+            "options": [
+              "Ignore the emergency completely",
+              "Help respond to emergencies and assist affected communities",
+              "Cancel all emergency services",
+              "Only respond to disasters in other countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What international role do Canadian Armed Forces members sometimes take part in?",
+            "options": [
+              "Coaching sports teams abroad",
+              "Running foreign businesses",
+              "Peacekeeping missions",
+              "Teaching foreign languages only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Canada take part in international peacekeeping missions?",
+            "options": [
+              "To help maintain peace and stability alongside other countries",
+              "To avoid working with other countries",
+              "Peacekeeping has no connection to the military",
+              "Canada never takes part in international missions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Canadian Armed Forces an important part of Canadian society?",
+            "options": [
+              "It helps protect citizens and supports missions both at home and abroad",
+              "It focuses solely on foreign trade",
+              "It has no connection to protecting Canadians",
+              "It only exists during wartime"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 148,
+    "label": "Day 148 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying Bias in Historical Accounts",
+        "summary": "Grade 4 Language strand: bias in a historical account occurs when a writer presents information in a way that favours one perspective, often leaving out other viewpoints or important facts.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is bias in a historical account?",
+            "options": [
+              "Presenting every perspective completely equally",
+              "A summary with no opinions at all",
+              "A type of punctuation mark",
+              "Presenting information in a way that favours one perspective"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a biased historical account leave out certain facts?",
+            "options": [
+              "Bias never affects which facts are included",
+              "All historical accounts are automatically unbiased",
+              "To support one particular viewpoint over others",
+              "To always present a fully balanced view"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can readers identify possible bias in a text?",
+            "options": [
+              "By ignoring the source of the text",
+              "By trusting every single text completely",
+              "By checking whether other viewpoints or facts are missing",
+              "Bias cannot ever be identified"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to compare multiple historical sources?",
+            "options": [
+              "Multiple sources always say the exact same thing",
+              "Comparing sources is never useful",
+              "One source is always enough",
+              "It helps reveal different perspectives and possible bias"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might indicate a source has strong bias?",
+            "options": [
+              "Including dates and verified facts",
+              "Citing multiple credible sources",
+              "Presenting balanced evidence from multiple sides",
+              "Only describing one groups viewpoint as entirely correct"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Comparing Fractions Decimals and Percents",
+        "summary": "Grade 4 Math strand: fractions, decimals, and percents are different ways of representing the same value, and converting between them helps students compare and order numbers.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What do fractions, decimals, and percents all represent?",
+            "options": [
+              "Only negative numbers",
+              "Completely unrelated concepts",
+              "Only whole numbers",
+              "Different ways of showing the same value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 1/2 written as a decimal?",
+            "options": [
+              "0.5",
+              "0.2",
+              "1.5",
+              "0.25"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 0.5 written as a percent?",
+            "options": [
+              "0.5%",
+              "500%",
+              "50%",
+              "5%"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is greater, 1/4 or 0.4?",
+            "options": [
+              "1/4",
+              "0.4",
+              "They are equal",
+              "They cannot be compared"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to convert between fractions, decimals, and percents?",
+            "options": [
+              "Fractions and decimals can never be compared",
+              "It makes it easier to compare and order different values",
+              "Conversion is never useful in math",
+              "Percents cannot represent fractions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Nocturnal Animals and Their Adaptations",
+        "summary": "Grade 4 Science strand: nocturnal animals are active mainly at night and have special adaptations, such as large eyes, strong hearing, or a keen sense of smell, that help them survive in the dark.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does it mean for an animal to be nocturnal?",
+            "options": [
+              "It never sleeps at all",
+              "It lives only underwater",
+              "It is mainly active during the day",
+              "It is mainly active at night"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What adaptation helps many nocturnal animals see in low light?",
+            "options": [
+              "Extremely small eyes",
+              "Large eyes that gather more light",
+              "No eyes at all",
+              "Bright colouring"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a nocturnal animal?",
+            "options": [
+              "A squirrel",
+              "An owl",
+              "A butterfly",
+              "A robin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might being active at night help some animals avoid predators?",
+            "options": [
+              "Darkness has no effect on predator activity",
+              "Nighttime has no predators anywhere",
+              "Fewer daytime predators are hunting during the night",
+              "Predators are more active exclusively at night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Besides eyesight, what other sense might help nocturnal animals navigate in the dark?",
+            "options": [
+              "Only their sense of sight",
+              "A sense of taste only",
+              "No senses are needed at night",
+              "A strong sense of hearing or smell"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Public Libraries and Their Role in Canadian Communities",
+        "summary": "Grade 4 Social Studies strand: public libraries are community institutions that provide free access to books, information, and programs, supporting learning and connection for people of all ages.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What do public libraries provide free access to?",
+            "options": [
+              "Books, information, and community programs",
+              "Nothing of value",
+              "Only private business services",
+              "Only expensive rare items"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who can typically use a public library?",
+            "options": [
+              "People of all ages in the community",
+              "Only government officials",
+              "Only students in university",
+              "Only wealthy citizens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one benefit public libraries offer to a community?",
+            "options": [
+              "Restricting access to information",
+              "Charging high fees for every book",
+              "Providing no community services",
+              "Supporting learning and access to information for everyone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of programs might a public library offer besides lending books?",
+            "options": [
+              "Reading clubs and educational workshops",
+              "No programs at all",
+              "Only paid entertainment events",
+              "Only private business meetings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are public libraries considered an important public institution?",
+            "options": [
+              "They serve no real purpose in society",
+              "They only benefit one small group of people",
+              "They charge for every service they offer",
+              "They provide equal access to knowledge and resources for the community"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 149,
+    "label": "Day 149 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Understanding Euphemisms",
+        "summary": "Grade 4 Language strand: a euphemism is a mild or indirect word or phrase used in place of one that might be considered harsh, unpleasant, or too direct.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a euphemism?",
+            "options": [
+              "A word that means the exact same as its opposite",
+              "A grammar rule for verbs",
+              "A mild or indirect word used in place of a harsher one",
+              "A type of punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a euphemism?",
+            "options": [
+              "To soften language about a sensitive or unpleasant topic",
+              "To make language more harsh and direct",
+              "To confuse the reader on purpose",
+              "Euphemisms are never used in writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a euphemism for passed away?",
+            "options": [
+              "Died suddenly",
+              "Stopped breathing forever",
+              "Was killed instantly",
+              "Passed on"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might using a euphemism accomplish in conversation?",
+            "options": [
+              "Removing all meaning from a sentence",
+              "Confusing the listener with random words",
+              "Making a topic feel more harsh",
+              "Making a difficult topic feel gentler to discuss"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which situation might someone use a euphemism?",
+            "options": [
+              "When discussing a sensitive topic politely",
+              "When writing a shopping list",
+              "When labelling a diagram",
+              "When stating a simple math fact"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Perimeter of Composite Shapes",
+        "summary": "Grade 4 Math strand: the perimeter of a composite shape, made up of two or more simple shapes joined together, is found by adding the lengths of all the outer sides.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a composite shape?",
+            "options": [
+              "A shape that has no area",
+              "A shape with only one side",
+              "A shape made up of two or more simple shapes joined together",
+              "A shape found only in circles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do you find the perimeter of a composite shape?",
+            "options": [
+              "Multiply the length by the width only",
+              "Add only two of the sides",
+              "Add the lengths of all the outer sides",
+              "Find the area instead of the perimeter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a composite shape has outer sides of 4, 3, 4, 2, 2, and 1 units, what is its perimeter?",
+            "options": [
+              "16 units",
+              "12 units",
+              "14 units",
+              "18 units"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might you need to find a missing side length before calculating perimeter?",
+            "options": [
+              "Perimeter never requires knowing every side",
+              "Missing sides do not affect perimeter",
+              "Some outer side lengths might not be labelled directly on the shape",
+              "All side lengths are always labelled"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the difference between area and perimeter?",
+            "options": [
+              "Perimeter measures the distance around a shape while area measures the space inside it",
+              "They both measure the exact same thing",
+              "Perimeter measures the space inside a shape",
+              "Area measures only around a shape"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Weather — Air Pressure and Wind",
+        "summary": "Grade 4 Science strand: differences in air pressure between areas cause wind, as air moves from areas of higher pressure to areas of lower pressure, and this movement plays a major role in weather patterns.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What causes wind to form?",
+            "options": [
+              "Air moving from areas of higher pressure to lower pressure",
+              "Water evaporating instantly",
+              "The Moon pulling air directly",
+              "Air staying perfectly still at all times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is air pressure?",
+            "options": [
+              "The weight of air pressing down on the Earths surface",
+              "The colour of the sky",
+              "The temperature of the air only",
+              "The speed of falling rain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What tool is commonly used to measure air pressure?",
+            "options": [
+              "A compass",
+              "A rain gauge",
+              "A thermometer",
+              "A barometer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are wind and air pressure related to weather patterns?",
+            "options": [
+              "They have no connection to weather at all",
+              "Wind only occurs in outer space",
+              "Changes in air pressure and wind often signal changing weather",
+              "Air pressure never changes on Earth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What generally happens to air as it moves from high pressure to low pressure areas?",
+            "options": [
+              "It stops moving immediately",
+              "It creates wind as it flows toward the lower pressure area",
+              "It always creates snow",
+              "It disappears completely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: World Heritage Sites in Canada",
+        "summary": "Grade 4 Social Studies strand: World Heritage Sites are locations recognized by UNESCO for their cultural or natural significance, and Canada is home to several such sites, including national parks and historic landmarks.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What organization designates World Heritage Sites?",
+            "options": [
+              "The World Trade Organization",
+              "UNESCO",
+              "The Canadian Senate",
+              "The United Nations Security Council"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are World Heritage Sites recognized?",
+            "options": [
+              "For being the newest buildings in a country",
+              "For their outstanding cultural or natural significance",
+              "For being entirely man-made shopping centres",
+              "For having no significance at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of location in Canada might be designated a World Heritage Site?",
+            "options": [
+              "A random empty field",
+              "A private shopping mall",
+              "A national park or historic landmark",
+              "A brand new parking lot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it valuable for a country to have World Heritage Sites?",
+            "options": [
+              "It has no value to a country",
+              "It means the site must be destroyed",
+              "It highlights important natural or cultural treasures worth protecting",
+              "It only benefits foreign visitors"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might visitors learn from exploring a World Heritage Site?",
+            "options": [
+              "Nothing of educational value",
+              "Only about modern technology",
+              "About important natural or cultural history",
+              "Only about unrelated topics"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 150,
+    "label": "Day 150 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Sentence Craft, Character, and Media Texts",
+        "summary": "Grade 4 Language strand review: students revisit parallel structure, character foils, public service announcements, jargon, and comparing texts on the same topic.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is parallel structure in a sentence?",
+            "options": [
+              "A title and a subtitle",
+              "Using the same grammatical pattern for items in a series",
+              "Using a different verb tense for each item",
+              "Two unrelated topics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a character foil?",
+            "options": [
+              "A type of punctuation mark",
+              "A character who looks exactly like the main character",
+              "A character who never appears in the story",
+              "A character whose traits contrast with another character to highlight qualities"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the purpose of a public service announcement?",
+            "options": [
+              "To sell a specific brand of toy",
+              "To inform the public about an issue and encourage action",
+              "To share a private diary entry",
+              "To tell a made-up bedtime story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is jargon?",
+            "options": [
+              "A type of punctuation mark",
+              "A word with no meaning at all",
+              "Special vocabulary used by people in a particular field or group",
+              "A grammar rule for verbs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does comparing two texts on the same topic involve?",
+            "options": [
+              "Reading only one of the texts",
+              "Ignoring the topic entirely",
+              "Copying one text exactly",
+              "Identifying similarities and differences between the texts"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Operations, Measurement, and Data",
+        "summary": "Grade 4 Math strand review: students revisit dividing a fraction by a whole number, volume of triangular prisms, integers, stacked bar graphs, and rounding to the nearest ten thousand.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What happens to the denominator when dividing a fraction by a whole number?",
+            "options": [
+              "The denominator is divided by the whole number",
+              "The denominator is multiplied by the whole number",
+              "The denominator stays exactly the same",
+              "The numerator disappears"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shape is the base of a triangular prism?",
+            "options": [
+              "A square",
+              "A circle",
+              "A triangle",
+              "A pentagon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are integers?",
+            "options": [
+              "Positive numbers, negative numbers, and zero",
+              "Only positive numbers",
+              "Only decimals",
+              "Only fractions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a stacked bar graph show within a single bar?",
+            "options": [
+              "A single number with no comparison",
+              "Only one category with no divisions",
+              "Multiple categories stacked to show parts of a total",
+              "Nothing measurable"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What digit do you check when rounding to the nearest ten thousand?",
+            "options": [
+              "The thousands digit",
+              "The tenths digit",
+              "The hundred thousands digit",
+              "The ones digit"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Life Science, Earth and Space, and Physical Science",
+        "summary": "Grade 4 Science strand review: students revisit photosynthesis, vertebrates and invertebrates, plant parts, magnetic fields, and the life cycle of a frog.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is photosynthesis?",
+            "options": [
+              "The process by which plants make their own food using sunlight",
+              "A process where plants produce no oxygen",
+              "A process that only happens at night",
+              "A process where plants absorb food from soil only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a vertebrate?",
+            "options": [
+              "A type of rock",
+              "An animal that has no backbone",
+              "A type of plant",
+              "An animal that has a backbone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main job of a plants roots?",
+            "options": [
+              "Absorbing water and nutrients from the soil",
+              "Capturing sunlight for energy",
+              "Producing seeds",
+              "Releasing pollen only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a magnetic field?",
+            "options": [
+              "A type of sound wave",
+              "A visible line drawn around a magnet",
+              "A type of electrical current",
+              "An invisible area of force surrounding a magnet"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the first stage of a frogs life cycle?",
+            "options": [
+              "Adult frog",
+              "Egg",
+              "Tadpole",
+              "Froglet"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Canadian History, Government, and World Geography",
+        "summary": "Grade 4 Social Studies strand review: students revisit the Hudson Bay Company, taxes, Canadas national symbols, the Supreme Court of Canada, and the Fertile Crescent.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What kind of company was the Hudson Bay Company?",
+            "options": [
+              "An airline company",
+              "A major fur trading company",
+              "A film production company",
+              "A modern technology company"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are taxes?",
+            "options": [
+              "A type of currency used only in stores",
+              "Money collected by governments to fund public services",
+              "Money given only to private businesses",
+              "A voluntary gift with no purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal is a well-known national symbol of Canada?",
+            "options": [
+              "The kangaroo",
+              "The eagle",
+              "The beaver",
+              "The lion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "The highest court in the country",
+              "A private business court",
+              "A local municipal office",
+              "A branch of the police force"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Fertile Crescent known for?",
+            "options": [
+              "Having no history of early civilizations",
+              "Being a completely dry desert with no water",
+              "Rich soil and water access that supported early farming",
+              "Being located entirely underwater"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
   }
 ]
