@@ -10625,6 +10625,7 @@
         "summary": "Grade 12 English strand: the graphic novel combines sophisticated visual and textual storytelling techniques, and analyzing it as a literary form requires examining panel composition, visual symbolism, and narrative pacing together.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=Xe-FYIqrZrI",
         "quiz": [
           {
             "q": "Analyzing a graphic novel as a literary form requires examining panel composition, visual symbolism, and ___ together.",
@@ -10684,6 +10685,7 @@
         "summary": "Grade 12 Advanced Functions strand: the limit of a sequence describes the value its terms approach as the sequence continues indefinitely, and a sequence is said to converge if this limit exists.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=htLvkB7C0UM",
         "quiz": [
           {
             "q": "The limit of a sequence describes the value its terms approach as the sequence ___.",
@@ -10743,6 +10745,7 @@
         "summary": "Grade 12 Calculus strand: a power series is an infinite sum involving powers of a variable, and its radius of convergence describes the range of values for which the series produces a finite, well-defined sum.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=EGni2-m5yxM",
         "quiz": [
           {
             "q": "A power series is an infinite sum involving ___.",
@@ -10802,6 +10805,7 @@
         "summary": "Grade 12 Physics strand: general relativity describes gravity not as a force but as the curvature of spacetime caused by the presence of mass, with massive objects warping the space around them.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=H6Nk8fxRltw",
         "quiz": [
           {
             "q": "General relativity describes gravity as ___.",

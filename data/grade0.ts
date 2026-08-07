@@ -2152,6 +2152,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Writing: Labels for Pictures", summary:"Students practise writing simple labels, like one word or a short phrase, to describe a picture they have drawn.",
    resourceLabel:"YouTube: Writing: Labels for Pictures", resourceUrl:"https://www.youtube.com/results?search_query=Writing%3A%20Labels%20for%20Pictures%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TNVrNMS-Rn0",
    quiz:[
      {q:"A label under a picture usually tells us ___.", options:["A song","Nothing at all","What the picture shows","A math problem"], answer:2},
      {q:"If you draw a dog, a good label would be ___.", options:["Sun","Tree","Dog","Cat"], answer:2},
@@ -2166,6 +2167,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Growing Patterns: Patterns That Change", summary:"Students explore growing patterns, where the pattern increases by a set amount each time, such as one block, two blocks, three blocks.",
    resourceLabel:"YouTube: Growing Patterns: Patterns That Change", resourceUrl:"https://www.youtube.com/results?search_query=Growing%20Patterns%3A%20Patterns%20That%20Change%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=67uypjAlTDw",
    quiz:[
      {q:"In a growing pattern, the amount ___ each time.", options:["Increases","Decreases","Disappears","Stays the same"], answer:0},
      {q:"If a growing pattern shows 1 block, 2 blocks, 3 blocks, how many blocks come next?", options:["5","1","4","3"], answer:2},
@@ -2180,6 +2182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Tools: Measuring Rain and Temperature", summary:"Students learn about simple weather tools, such as a rain gauge to measure rainfall and a thermometer to measure temperature.",
    resourceLabel:"YouTube: Weather Tools: Measuring Rain and Temperature", resourceUrl:"https://www.youtube.com/results?search_query=Weather%20Tools%3A%20Measuring%20Rain%20and%20Temperature%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=e3inavDlwfk",
    quiz:[
      {q:"What tool measures temperature?", options:["Scale","Ruler","Rain gauge","Thermometer"], answer:3},
      {q:"What tool measures how much rain has fallen?", options:["Rain gauge","Thermometer","Clock","Compass"], answer:0},
@@ -2194,6 +2197,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Sharing and Taking Turns", summary:"Students learn the importance of sharing toys and materials, and taking turns, when playing and working with others.",
    resourceLabel:"YouTube: Sharing and Taking Turns", resourceUrl:"https://www.youtube.com/results?search_query=Sharing%20and%20Taking%20Turns%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=TgILVD1AxBE",
    quiz:[
      {q:"What does it mean to share?", options:["Letting others use or have some of what you have","Hiding your toys","Keeping everything for yourself","Ignoring friends"], answer:0},
      {q:"What does taking turns mean?", options:["Always going first","Waiting for your chance after someone else","Playing alone forever","Never playing"], answer:1},

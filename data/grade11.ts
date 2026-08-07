@@ -1822,6 +1822,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Rate of Change -- Average vs Instantaneous", summary:"Grade 11 Functions strand: average rate of change describes how a function changes over an interval, while instantaneous rate of change describes how a function is changing at a single specific point.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=4Up5gsDeluw",
    quiz:[
      {q:"Average rate of change describes how a function changes ___.", options:["Over an interval","In a way unrelated to the function’s values","At a single specific point only","With no connection to any interval"], answer:0},
      {q:"Instantaneous rate of change describes how a function is changing ___.", options:["At a single specific point","Only across the function’s entire domain at once","A concept unrelated to a function’s behaviour","Over an interval with no connection to a specific point"], answer:0},

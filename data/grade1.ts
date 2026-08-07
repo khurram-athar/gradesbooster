@@ -2152,6 +2152,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Plural Nouns: Adding -s and -es", summary:"Students learn that most nouns become plural, meaning more than one, by adding -s, as in cats, while some nouns need -es, as in boxes.",
    resourceLabel:"YouTube: Plural Nouns: Adding -s and -es", resourceUrl:"https://www.youtube.com/results?search_query=Plural%20Nouns%3A%20Adding%20-s%20and%20-es%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qeCvEfwSPww",
    quiz:[
      {q:"What does the word plural mean?", options:["More than one","A colour","No amount at all","Only one"], answer:0},
      {q:"How do you usually make a noun plural?", options:["Add -ing","Add -s or -es","Remove a letter","Add -er"], answer:1},

@@ -1813,6 +1813,7 @@ const curriculum: DayContent[] = [
 {day:44, label:"Day 44 — Thu", subjects:[
   {subject:"English", title:"Independent Reading: The Graphic Novel as Literary Form", summary:"Grade 12 English strand: the graphic novel combines sophisticated visual and textual storytelling techniques, and analyzing it as a literary form requires examining panel composition, visual symbolism, and narrative pacing together.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=Xe-FYIqrZrI",
    quiz:[
      {q:"Analyzing a graphic novel as a literary form requires examining panel composition, visual symbolism, and ___ together.", options:["Only the total number of printed pages","Narrative pacing","The book’s physical cover design exclusively","A factor entirely unrelated to storytelling technique"], answer:1},
      {q:"Why might a graphic novel be considered a sophisticated literary form, rather than a simplified version of prose fiction?", options:["This form of storytelling is always considered less complex than traditional prose","Graphic novels never require any meaningful interpretation from readers","It requires interpreting complex interactions between text and image to construct meaning","This concept has no connection to how literary sophistication is evaluated"], answer:2},
@@ -1822,6 +1823,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Sequences: Limits and Convergence", summary:"Grade 12 Advanced Functions strand: the limit of a sequence describes the value its terms approach as the sequence continues indefinitely, and a sequence is said to converge if this limit exists.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=htLvkB7C0UM",
    quiz:[
      {q:"The limit of a sequence describes the value its terms approach as the sequence ___.", options:["A concept unrelated to how a sequence behaves","Stops after exactly two terms","Remains completely undefined at every term","Continues indefinitely"], answer:3},
      {q:"A sequence is said to converge if ___.", options:["Its limit exists","Its terms become increasingly unpredictable with no discernible pattern","A condition entirely unrelated to limits","It has no defined terms whatsoever"], answer:0},
@@ -1831,6 +1833,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Power Series and Radius of Convergence", summary:"Grade 12 Calculus strand: a power series is an infinite sum involving powers of a variable, and its radius of convergence describes the range of values for which the series produces a finite, well-defined sum.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=EGni2-m5yxM",
    quiz:[
      {q:"A power series is an infinite sum involving ___.", options:["Only a single constant term with no variable involved","Colours with no numerical or mathematical basis","Powers of a variable","A concept unrelated to infinite sums"], answer:2},
      {q:"The radius of convergence describes the range of values for which a power series ___.", options:["Has no mathematical meaning whatsoever","Always produces an infinite, undefined result","A concept unrelated to convergence","Produces a finite, well-defined sum"], answer:3},
@@ -1840,6 +1843,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: General Relativity -- Curved Spacetime", summary:"Grade 12 Physics strand: general relativity describes gravity not as a force but as the curvature of spacetime caused by the presence of mass, with massive objects warping the space around them.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=H6Nk8fxRltw",
    quiz:[
      {q:"General relativity describes gravity as ___.", options:["A completely separate, unrelated force with no connection to mass","A force that behaves identically to electromagnetism in every way","The curvature of spacetime caused by mass","A concept entirely unrelated to the structure of the universe"], answer:2},
      {q:"According to general relativity, massive objects ___ the space around them.", options:["Warp","Completely erase","Have no effect whatsoever on","A relationship entirely unrelated to mass and space"], answer:0},
