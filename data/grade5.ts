@@ -1852,6 +1852,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Reading: Distinguishing Facts from Inferences", summary:"Ontario Grade 5 Reading strand: a fact is directly stated in a text, while an inference is a logical conclusion a reader draws by combining text clues with their own knowledge.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=cmRA9kZVadA",
    quiz:[
      {q:"A fact in a text is ___.", options:["Always a guess with no evidence","Never found in nonfiction","Directly stated information","The same thing as an inference"], answer:2},
      {q:"An inference is ___.", options:["Impossible to support with evidence","Always incorrect","Directly stated in the text word for word","A logical conclusion drawn from text clues and prior knowledge"], answer:3},
@@ -1861,6 +1862,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Constructing and Interpreting Circle Graphs", summary:"Ontario Grade 5 Data Management strand: a circle graph (pie chart) shows data as slices of a circle, where each slice’s size represents its proportion of the whole set of data.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=wMWgmfpcrCE",
    quiz:[
      {q:"In a circle graph, the size of each slice represents ___.", options:["Its proportion of the whole data set","Nothing measurable","The colour used","A random unrelated value"], answer:0},
      {q:"A circle graph is also commonly known as a ___.", options:["Pie chart","Line graph","Pictograph","Bar graph"], answer:0},
@@ -1870,6 +1872,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Stars and Constellations", summary:"Ontario Grade 5 Science Earth and Space Systems strand: stars are massive, glowing balls of gas that produce their own light and heat, and patterns of stars form constellations that have been used historically for navigation.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=mCgUZZTbFKU",
    quiz:[
      {q:"A star is best described as ___.", options:["A massive, glowing ball of gas that produces its own light and heat","A small rocky planet","A moon orbiting a planet","A type of comet"], answer:0},
      {q:"A constellation is ___.", options:["A recognized pattern formed by a group of stars","A type of planet","A single very bright star","A type of galaxy"], answer:0},
@@ -1879,6 +1882,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Urbanization and Its Effects on Canadian Cities", summary:"Ontario Grade 5 Social Studies People and Environments strand: urbanization is the growth of cities as more people move from rural areas to urban centres, which can affect housing, transportation, and the environment.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=DHi_9ttGzKg",
    quiz:[
      {q:"Urbanization refers to ___.", options:["A decrease in city populations","The growth of cities as populations shift toward urban centres","The disappearance of all cities","Nothing related to population movement"], answer:1},
      {q:"Which challenge is commonly associated with rapid urbanization?", options:["Increased demand for housing and transportation","A complete lack of any challenges","Fewer people needing services","No effect on infrastructure at all"], answer:0},
