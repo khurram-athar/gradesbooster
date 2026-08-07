@@ -1894,6 +1894,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Writing: Journal and Diary Entries", summary:"Ontario Grade 3 Writing strand: a journal or diary entry is a personal piece of writing, usually dated, where the writer reflects on their day, thoughts, or feelings in their own voice.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=sPpTprZ4sRI",
    quiz:[
      {q:"A journal entry is typically written in ___.", options:["A formal business tone","A stranger's voice","The writer's own personal voice and reflections","Only a list format"], answer:2},
      {q:"Journal entries are usually organized by ___.", options:["Date","Random topics with no order","Alphabetical order","Length only"], answer:0},
