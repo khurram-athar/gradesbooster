@@ -2214,6 +2214,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Alphabetical Order", summary:"Students learn to put words in alphabetical order by comparing the first letter of each word, using their knowledge of the alphabet from A to Z.",
    resourceLabel:"YouTube: Alphabetical Order", resourceUrl:"https://www.youtube.com/results?search_query=Alphabetical%20Order%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=dC4B-RqmVgQ",
    quiz:[
      {q:"Which word would come first in alphabetical order, dog or cat?", options:["Dog","Cat","Cannot tell","They are the same"], answer:1},
      {q:"What does it mean to put words in alphabetical order?", options:["Arranging them randomly","Arranging them by the order of the alphabet","Arranging them by size","Arranging them by colour"], answer:1},
@@ -2228,6 +2229,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Time: Quarter Past and Quarter To", summary:"Students learn to read an analog clock showing quarter past and quarter to the hour, recognizing that the long hand points to the 3 for quarter past and the 9 for quarter to.",
    resourceLabel:"YouTube: Time: Quarter Past and Quarter To", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Quarter%20Past%20and%20Quarter%20To%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Pht7dTlM0VA",
    quiz:[
      {q:"At quarter past the hour, where does the long hand point?", options:["The 6","The 12","The 3","The 9"], answer:2},
      {q:"At quarter to the hour, where does the long hand point?", options:["The 12","The 9","The 6","The 3"], answer:1},
@@ -2242,6 +2244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fish and Their Body Parts", summary:"Students learn about the body parts of fish, such as fins for swimming and gills for breathing underwater, and how these parts help fish live in water.",
    resourceLabel:"YouTube: Fish and Their Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Fish%20and%20Their%20Body%20Parts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=C2dwgG6l-Hs",
    quiz:[
      {q:"What body part helps a fish swim through water?", options:["Ears","Legs","Wings","Fins"], answer:3},
      {q:"What body part helps a fish breathe underwater?", options:["Fur","A nose","Gills","Lungs"], answer:2},
@@ -2256,6 +2259,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Fire Safety at Home and School", summary:"Students learn simple fire safety rules, such as knowing an escape plan, never playing with matches, and what to do if they hear a smoke alarm.",
    resourceLabel:"YouTube: Fire Safety at Home and School", resourceUrl:"https://www.youtube.com/results?search_query=Fire%20Safety%20at%20Home%20and%20School%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=MDhfKlbkzs4",
    quiz:[
      {q:"What should you do if you hear a smoke alarm?", options:["Ignore it","Go find your toys first","Hide under the bed","Leave the building right away"], answer:3},
      {q:"Should children ever play with matches or lighters?", options:["Only at school","No, never","Yes, if an adult is not looking","Only outside"], answer:1},

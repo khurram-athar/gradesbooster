@@ -2214,6 +2214,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Nouns: Naming People, Places, and Things", summary:"Students learn that a noun is a word that names a person, place, or thing, such as teacher, school, or ball.",
    resourceLabel:"YouTube: Nouns: Naming People, Places, and Things", resourceUrl:"https://www.youtube.com/results?search_query=Nouns%3A%20Naming%20People%2C%20Places%2C%20and%20Things%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HQTjHv0aL5Q",
    quiz:[
      {q:"What is a noun?", options:["A number","A word that names a person, place, or thing","A feeling only","A colour"], answer:1},
      {q:"Which word is a noun that names a person?", options:["Run","Blue","Fast","Teacher"], answer:3},
@@ -2228,6 +2229,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Weight, Heavier and Lighter", summary:"Students compare objects by weight, using the words heavier and lighter to describe which object weighs more or less.",
    resourceLabel:"YouTube: Measurement: Weight, Heavier and Lighter", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Weight%2C%20Heavier%20and%20Lighter%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ap4KQuXDBWs",
    quiz:[
      {q:"Which is heavier: a feather or a rock?", options:["Feather","Rock","They weigh the same","Cannot tell"], answer:1},
      {q:"Which is lighter: a book or a pencil?", options:["They weigh the same","Book","Pencil","Cannot tell"], answer:2},
@@ -2242,6 +2244,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Solids and Liquids: Sorting by State", summary:"Students explore two states of matter, solids and liquids, and sort everyday materials such as ice, water, wood, and juice into each group.",
    resourceLabel:"YouTube: Solids and Liquids: Sorting by State", resourceUrl:"https://www.youtube.com/results?search_query=Solids%20and%20Liquids%3A%20Sorting%20by%20State%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qYzjg5nRMOg",
    quiz:[
      {q:"Which of these is a solid?", options:["A rock","Milk","Water","Juice"], answer:0},
      {q:"Which of these is a liquid?", options:["A block","A rock","A book","Juice"], answer:3},
@@ -2256,6 +2259,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Solving Problems: Working Out Disagreements", summary:"Students learn simple strategies to solve small disagreements with friends, such as talking calmly, listening, and finding a fair solution.",
    resourceLabel:"YouTube: Solving Problems: Working Out Disagreements", resourceUrl:"https://www.youtube.com/results?search_query=Solving%20Problems%3A%20Working%20Out%20Disagreements%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=huTvW7sbK4U",
    quiz:[
      {q:"What is a good first step when you disagree with a friend?", options:["Hitting","Walking away angrily","Yelling","Talking calmly about the problem"], answer:3},
      {q:"Why is listening important during a disagreement?", options:["It wastes time","It helps you understand how the other person feels","It is not important","It makes the problem worse"], answer:1},
