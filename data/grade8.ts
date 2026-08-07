@@ -1852,6 +1852,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing Historical Fiction", summary:"Grade 8 Reading strand: historical fiction blends real historical settings and events with fictional characters and plots, and analyzing it involves distinguishing between factual and imagined elements.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=11bR1ZH6bgg",
    quiz:[
      {q:"Historical fiction combines ___.", options:["Real historical settings or events with fictional characters and plots","Only fictional worlds with no historical basis at all","Elements unrelated to any real time period","Only completely factual accounts with no fictional elements"], answer:0},
      {q:"When analyzing historical fiction, readers should consider ___.", options:["Only the historical facts, with no attention to the story","Nothing related to accuracy or fiction","Which elements are historically accurate and which are fictional","Only the fictional elements, ignoring history entirely"], answer:2},
@@ -1861,6 +1862,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Modular Arithmetic", summary:"Grade 8 Number strand (pre-high-school extension): modular arithmetic involves working with remainders after division, often used in real-world contexts like telling time on a 12-hour clock.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=L6LYdv2bCKg",
    quiz:[
      {q:"Modular arithmetic focuses on ___.", options:["The remainder after division","Only whole numbers with no remainders","Ignoring division entirely","A concept unrelated to division"], answer:0},
      {q:"On a 12-hour clock, 15 o’clock would correspond to which hour, using modular arithmetic?", options:["15 o’clock exactly, with no adjustment","3 o’clock","12 o’clock","5 o’clock"], answer:1},
@@ -1870,6 +1872,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forensic Science: Applying Scientific Methods to Investigation", summary:"Grade 8 Science Inquiry strand: forensic science applies scientific methods and evidence analysis, such as fingerprinting or chemical testing, to investigate crimes and support legal processes.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=PJlplQpPl6E",
    quiz:[
      {q:"Forensic science applies scientific methods to ___.", options:["Only artistic creation, with no connection to science","A field entirely unrelated to investigation","Investigate crimes and support legal processes","Predicting weather patterns"], answer:2},
      {q:"Which is an example of evidence forensic scientists might analyze?", options:["Fingerprints","Only witness opinions, with no physical evidence","Nothing at all, since forensic science analyzes no physical evidence","A completely unrelated object with no connection to an investigation"], answer:0},
@@ -1879,6 +1882,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The White Paper of 1969 and Indigenous Resistance", summary:"Grade 8 History strand: the White Paper of 1969 was a federal government policy proposal that would have eliminated the Indian Act and Indigenous legal status, but was withdrawn after strong resistance from First Nations communities.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=8KJgnYVGKZw",
    quiz:[
      {q:"The White Paper was proposed in which year?", options:["2000","1969","1982","1931"], answer:1},
      {q:"The White Paper of 1969 proposed to ___.", options:["Eliminate the Indian Act and Indigenous legal status","Strengthen Indigenous rights significantly","Expand Indigenous self-government immediately","Have no effect on existing policy"], answer:0},
