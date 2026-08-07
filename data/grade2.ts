@@ -2218,6 +2218,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Combining Sentences with And, But, and Because", summary:"Students learn to combine two short sentences into one longer sentence using the joining words and, but, and because.",
    resourceLabel:"YouTube: Combining Sentences with And, But, and Because", resourceUrl:"https://www.youtube.com/results?search_query=Combining%20Sentences%20with%20And%2C%20But%2C%20and%20Because%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GP-W4NA-dnI",
    quiz:[
      {q:"Which joining word combines two similar ideas?", options:["Because","Or","And","But"], answer:2},
      {q:"Which joining word shows a contrast or difference between two ideas?", options:["Because","And","So","But"], answer:3},
@@ -2232,6 +2233,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Rounding to the Nearest Ten", summary:"Students learn to round two-digit numbers to the nearest ten, checking the ones digit to decide whether to round up or down.",
    resourceLabel:"YouTube: Rounding to the Nearest Ten", resourceUrl:"https://www.youtube.com/results?search_query=Rounding%20to%20the%20Nearest%20Ten%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CMdck80SHnw",
    quiz:[
      {q:"What is 23 rounded to the nearest ten?", options:["10","23","20","30"], answer:2},
      {q:"What is 47 rounded to the nearest ten?", options:["40","45","50","47"], answer:2},
@@ -2246,6 +2248,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Migration and Hibernation", summary:"Students learn that some animals migrate, traveling long distances to find food or warmer weather, while other animals hibernate, going into a deep sleep through the cold winter months.",
    resourceLabel:"YouTube: Animal Migration and Hibernation", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Migration%20and%20Hibernation%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZDAs4ybhgP4",
    quiz:[
      {q:"What do we call it when animals travel long distances to find food or warmer weather?", options:["Pollination","Migration","Hibernation","Evaporation"], answer:1},
      {q:"What do we call it when an animal goes into a deep sleep through the cold winter months?", options:["Metamorphosis","Camouflage","Migration","Hibernation"], answer:3},
@@ -2260,6 +2263,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Cultural Diversity: Celebrating Our Differences", summary:"Students learn that communities in Canada are made up of people from many different cultures and backgrounds, and that learning about different traditions, languages, and foods helps everyone understand and respect each other.",
    resourceLabel:"YouTube: Cultural Diversity: Celebrating Our Differences", resourceUrl:"https://www.youtube.com/results?search_query=Cultural%20Diversity%3A%20Celebrating%20Our%20Differences%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=p1pYKMiPpzU",
    quiz:[
      {q:"What word describes a community made up of people from many different cultures and backgrounds?", options:["Empty","Diverse","Identical","Silent"], answer:1},
      {q:"Which of these might be different between two cultures?", options:["Food, language, and traditions","The number of days in a week","Gravity","The colour of the sky"], answer:0},
