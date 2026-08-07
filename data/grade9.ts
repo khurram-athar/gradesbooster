@@ -1852,6 +1852,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing Non-Fiction Argument Structures", summary:"Grade 9 Reading strand: non-fiction arguments are often structured with a claim, supporting evidence, and reasoning that connects the evidence to the claim, and analyzing this structure helps evaluate an argument’s strength.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=D0YUpfLofgQ",
    quiz:[
      {q:"A non-fiction argument typically includes ___.", options:["Only a random collection of unrelated facts","A claim with no supporting evidence","No identifiable structure at all","A claim, supporting evidence, and reasoning"], answer:3},
      {q:"Reasoning in an argument serves to ___.", options:["Connect the evidence to the claim being made","Replace the need for any evidence","Confuse the reader intentionally","Have no connection to the claim"], answer:0},
@@ -1861,6 +1862,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to the Equation of a Circle", summary:"Grade 9 Analytic Geometry strand: the equation of a circle centred at the origin is x squared plus y squared equals r squared, where r represents the radius.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=golqytjtN-c",
    quiz:[
      {q:"The equation of a circle centred at the origin is ___.", options:["x plus y equals r","x squared minus y squared equals r","x times y equals r squared","x squared plus y squared equals r squared"], answer:3},
      {q:"In the equation of a circle, r represents the ___.", options:["Radius","Circumference","Area","Diameter"], answer:0},
@@ -1870,6 +1872,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Astronomy: Cosmology and the Big Bang Theory", summary:"Grade 9 Science Earth and Space Systems strand: the Big Bang theory describes the origin of the universe from an extremely hot, dense state that began expanding roughly 13.8 billion years ago.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=9B7Ix2VQEGo",
    quiz:[
      {q:"The Big Bang theory describes the origin of the universe as beginning from ___.", options:["A completely empty void with nothing present","A theory unrelated to the universe’s origin","A single planet expanding outward","An extremely hot, dense state"], answer:3},
      {q:"According to current scientific estimates, the universe began expanding approximately ___ years ago.", options:["10,000","4.5 billion","100 million","13.8 billion"], answer:3},
@@ -1879,6 +1882,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Arctic: Geopolitics and Climate Change", summary:"Grade 9 Social Studies (Geography) strand: the Arctic region is experiencing significant environmental change due to climate change, while also becoming an increasingly important area of geopolitical interest due to resources and shipping routes.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=aZ3Wg-zgxe4",
    quiz:[
      {q:"The Arctic is experiencing significant environmental change primarily due to ___.", options:["No environmental changes of any kind","Climate change","A factor unrelated to climate","A process unrelated to the region’s geography"], answer:1},
      {q:"The Arctic has become an area of increasing geopolitical interest partly due to ___.", options:["A complete lack of any valuable resources","Access to resources and shipping routes","No connection to international interest","A topic unrelated to geopolitics"], answer:1},

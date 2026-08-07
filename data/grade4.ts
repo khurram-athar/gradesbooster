@@ -1882,6 +1882,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Territories: Yukon, Northwest Territories, and Nunavut", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada’s three territories -- Yukon, the Northwest Territories, and Nunavut -- make up the northern part of the country and have unique geography, climate, and Indigenous communities.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=m2wAFI28Pt0",
    quiz:[
      {q:"How many territories does Canada have?", options:["One","Five","Three","Two"], answer:2},
      {q:"Which of these is one of Canada’s three territories?", options:["Alberta","Quebec","Nunavut","Ontario"], answer:2},

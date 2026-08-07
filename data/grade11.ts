@@ -1854,6 +1854,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"English", title:"Grammar: The Rhetorical Triangle -- Ethos, Pathos, Logos", summary:"Grade 11 English strand: the rhetorical triangle describes three key persuasive appeals — ethos (credibility), pathos (emotion), and logos (logic) — that writers and speakers use to build a convincing argument.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=aUpiy67_nt4",
    quiz:[
      {q:"The rhetorical triangle describes three key persuasive appeals: ethos, pathos, and ___.", options:["Only a single additional appeal, with no third element","An appeal with no connection to rhetoric","Logos","A concept unrelated to persuasion"], answer:2},
      {q:"Ethos, as a persuasive appeal, is based on ___.", options:["Pure logic, with no connection to trust","Only emotional appeal, with no connection to credibility","Credibility","A concept unrelated to rhetoric"], answer:2},
@@ -1863,6 +1864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Number Theory: Complex Numbers -- Further Operations", summary:"Grade 11 Functions strand (extension): building on earlier operations, complex numbers can also be divided using the conjugate of the denominator, and can be represented graphically on the complex plane.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=Yddjxj49C_M",
    quiz:[
      {q:"Dividing complex numbers typically involves multiplying by the ___ of the denominator.", options:["Conjugate","Square root, with no connection to division","A concept unrelated to complex numbers","Reciprocal, with no connection to the conjugate"], answer:0},
      {q:"The complex plane is used to graphically represent complex numbers using ___.", options:["Only a single axis, with no distinction between real and imaginary parts","A real axis and an imaginary axis","A method unrelated to graphing","Two identical axes representing the exact same value"], answer:1},
@@ -1872,6 +1874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Evolution: Genetic Drift and the Founder Effect", summary:"Grade 11 Biology strand: genetic drift describes random changes in allele frequencies within a population, and the founder effect occurs when a new population is established by a small number of individuals with limited genetic variation.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=IRTn0iNkAHI",
    quiz:[
      {q:"Genetic drift describes ___.", options:["A predictable, non-random pattern of genetic change","Random changes in allele frequencies within a population","A concept unrelated to genetics or populations","The complete absence of any genetic variation"], answer:1},
      {q:"The founder effect occurs when a new population is established by ___.", options:["Individuals with absolutely no genetic differences from the original population","A small number of individuals with limited genetic variation","A process entirely unrelated to population genetics","A very large, genetically diverse group of individuals"], answer:1},
@@ -1881,6 +1884,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Analytical Chemistry: Spectroscopy and Identification", summary:"Grade 11 Chemistry strand: spectroscopy studies how matter interacts with light or other electromagnetic radiation, providing a valuable tool for identifying unknown substances based on their unique absorption patterns.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=WTmj_9VT5oE",
    quiz:[
      {q:"Spectroscopy studies how matter interacts with ___.", options:["Only sound waves, with no connection to light","A factor entirely unrelated to matter","Only gravity, with no connection to radiation","Light or other electromagnetic radiation"], answer:3},
      {q:"Spectroscopy is a valuable tool for identifying unknown substances based on their ___.", options:["A property entirely unrelated to light interaction","Colour alone, with no connection to absorption patterns","Unique absorption patterns","Physical mass only, with no other characteristics considered"], answer:2},

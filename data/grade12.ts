@@ -1853,17 +1853,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:45, label:"Day 45 — Fri", subjects:[
-  {subject:"English", title:"Literature: Ecocriticism and Nature Writing", summary:"Grade 12 English strand: ecocriticism examines the relationship between literature and the natural environment, analyzing how texts represent nature and what values or assumptions those representations reveal.",
+  {subject:"English", title:"Literary Device: The Pathetic Fallacy in Nature Writing", summary:"Grade 12 English strand: the pathetic fallacy is a literary device, coined by critic John Ruskin, in which human emotions are attributed to non-human elements of nature, allowing a landscape or the weather to mirror a character's inner state.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=emdPYN6kxic",
    quiz:[
-     {q:"Ecocriticism examines the relationship between literature and ___.", options:["A concept entirely unrelated to the physical world","The natural environment","A story’s publication history exclusively","Only a text’s use of grammar and syntax"], answer:1},
-     {q:"This critical approach analyzes how texts represent nature and what ___ those representations reveal.", options:["Only the exact word count of a given passage","Values or assumptions","The font used in the original printed edition","A concept unrelated to interpretation or meaning"], answer:1},
-     {q:"Which is an example of a question an ecocritic might ask about a text?", options:["What was the exact publication date of the text?","How many chapters does the text contain?","Does this text portray nature as something to be dominated, or as something to coexist with?","A question entirely unrelated to how nature is represented"], answer:2},
-     {q:"Why might ecocriticism be considered an increasingly relevant lens for analyzing literature today?", options:["This critical approach has no relevance to how literature is studied today","Growing environmental concerns make examining how literature shapes attitudes toward nature especially significant","Literature never engages meaningfully with representations of the natural world","Ecocriticism has no connection to contemporary environmental concerns"], answer:1},
-     {q:"Why might an ecocritic examine not just what a text says about nature, but also whose perspective is centred in that portrayal?", options:["This concept has no relevance to literary analysis of nature writing","Ecocriticism never considers whose viewpoint is reflected in a text","Whose viewpoint shapes the depiction of nature can reveal underlying cultural or ideological assumptions","Perspective has no connection to how nature is represented in a text"], answer:2}
+     {q:"The pathetic fallacy attributes ___ to non-human elements of nature.", options:["Scientific data","Human emotions","A precise chronology","Grammatical rules"], answer:1},
+     {q:"The term \"pathetic fallacy\" was coined by the critic ___.", options:["William Shakespeare","Virginia Woolf","John Ruskin","Henry David Thoreau"], answer:2},
+     {q:"Which is an example of the pathetic fallacy in a story?", options:["A character explains a scientific fact about rainfall","A stormy sky mirrors a character's inner turmoil","A narrator lists the exact date of an event","A character describes the layout of a room"], answer:1},
+     {q:"Why might a writer use the pathetic fallacy rather than directly stating a character's emotions?", options:["It has no effect on how a scene is experienced by the reader","It can create mood and atmosphere indirectly, letting setting reflect feeling","Direct statements of emotion are always considered better writing","This device removes all emotional content from a scene"], answer:1},
+     {q:"How does the pathetic fallacy differ from ordinary personification?", options:["They are identical with no meaningful difference","The pathetic fallacy specifically involves nature or weather reflecting human emotion, while personification is broader","Personification only applies to inanimate objects, never nature","The pathetic fallacy never involves any element of nature"], answer:1}
    ]},
   {subject:"AdvancedFunctions", title:"Optimization: Constrained Problems with Multiple Variables", summary:"Grade 12 Advanced Functions strand: constrained optimization involves finding the maximum or minimum value of a quantity while satisfying one or more limiting conditions involving multiple variables.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=Mijw1If8Nvg",
    quiz:[
      {q:"Constrained optimization involves finding a maximum or minimum value while satisfying ___.", options:["Only conditions involving a single variable, with no others considered","A concept entirely unrelated to limiting factors","No conditions whatsoever","One or more limiting conditions"], answer:3},
      {q:"These optimization problems typically involve ___ variables.", options:["Multiple","No variables whatsoever","Exactly one, with no other variables ever involved","A concept unrelated to variables"], answer:0},
@@ -1873,6 +1875,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Slope Fields and Differential Equations", summary:"Grade 12 Calculus strand: a slope field visually represents the general behaviour of solutions to a differential equation by drawing short line segments indicating the slope at various points across the plane.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=8Amgakx5aII",
    quiz:[
      {q:"A slope field visually represents the general behaviour of solutions to a ___.", options:["Basic linear equation with no derivatives involved","A concept unrelated to calculus","Differential equation","Simple arithmetic expression with no variables"], answer:2},
      {q:"A slope field is constructed using short line segments indicating ___ at various points.", options:["Only the colour of each individual point","The slope","A concept unrelated to rate of change","The exact numerical value of the function itself, with no connection to slope"], answer:1},
@@ -1882,6 +1885,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Quark Confinement and the Strong Force", summary:"Grade 12 Physics strand: quarks are fundamental particles bound together by the strong force, and quark confinement describes the observation that individual quarks are never found isolated in nature.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=WvFIYSrQVgM",
    quiz:[
      {q:"Quarks are fundamental particles bound together by the ___.", options:["Strong force","Force of gravity exclusively, with no other force involved","Electromagnetic force exclusively, with no other force involved","A concept entirely unrelated to fundamental particles"], answer:0},
      {q:"Quark confinement describes the observation that individual quarks ___.", options:["Do not actually exist as fundamental particles","Are commonly found existing completely independently","A concept unrelated to how quarks exist in nature","Are never found isolated in nature"], answer:3},

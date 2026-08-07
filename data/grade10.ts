@@ -1854,6 +1854,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"English", title:"Grammar: Parallel Structure and Sentence Variety", summary:"Grade 10 English strand: parallel structure ensures that items in a list or series use a consistent grammatical form, while sentence variety involves using different sentence lengths and structures to improve writing flow.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=2l2FgUrln1A",
    quiz:[
      {q:"Parallel structure ensures that items in a list use ___.", options:["Completely inconsistent grammatical forms","A consistent grammatical form","No specific grammatical pattern at all","Only single-word items, with no other structure allowed"], answer:1},
      {q:"Which sentence demonstrates correct parallel structure?", options:["She enjoys to read, writing, and hiking.","She enjoys reading, writing, and hiking.","She enjoys reading, writing, and to hike.","She enjoys reading, to write, and hiking."], answer:1},
@@ -1863,6 +1864,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Combining Functions: Sum, Difference, and Composite", summary:"Grade 10 Functions strand: functions can be combined through addition, subtraction, or composition, where the composite of two functions applies one function to the result of another.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=DGZBLVXTNn0",
    quiz:[
      {q:"The sum of two functions is found by ___.", options:["Multiplying their outputs together","A method unrelated to combining outputs","Adding their outputs together for a given input","Subtracting one function’s output from the other"], answer:2},
      {q:"A composite function applies ___.", options:["Two completely unrelated, separate functions with no connection","One function to the result of another function","A method unrelated to functions","Only a single function, with no combination involved"], answer:1},
@@ -1872,6 +1874,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Organic Compounds and Functional Groups", summary:"Grade 10 Chemistry strand: organic compounds are carbon-based molecules, and functional groups are specific arrangements of atoms within these molecules that determine their chemical properties and reactivity.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=m9jM8lWxrAE",
    quiz:[
      {q:"Organic compounds are best described as ___.", options:["Molecules that contain no carbon at all","Carbon-based molecules","Only inorganic minerals","A category unrelated to chemistry"], answer:1},
      {q:"A functional group is best described as ___.", options:["A concept unrelated to chemical structure","A term with no connection to reactivity","A group of unrelated molecules with no shared structure","A specific arrangement of atoms that determines a molecule’s chemical properties"], answer:3},
@@ -1881,6 +1884,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Space and Technology Achievements", summary:"Grade 10 History strand: Canada has made significant contributions to space and technology, including the development of the Canadarm and Canadian astronauts’ participation in international space missions.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=Sbf1Svw_rTY",
    quiz:[
      {q:"The Canadarm is a notable Canadian contribution to ___.", options:["Only domestic transportation, with no connection to space","A topic unrelated to Canadian achievements","Space technology","A field entirely unrelated to technology"], answer:2},
      {q:"Canadian astronauts have participated in ___.", options:["No missions of any kind","International space missions","A field with no connection to Canadian achievements","Only missions unrelated to space exploration"], answer:1},
