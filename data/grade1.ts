@@ -2167,6 +2167,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Odd and Even Numbers", summary:"Students learn to tell odd numbers, which cannot be split into two equal groups, from even numbers, which can be split into two equal groups, such as 4 being even and 5 being odd.",
    resourceLabel:"YouTube: Odd and Even Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Odd%20and%20Even%20Numbers%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=wKU2NFZFZd4",
    quiz:[
      {q:"Which of these numbers is even?", options:["4","7","5","3"], answer:0},
      {q:"Which of these numbers is odd?", options:["4","9","2","6"], answer:1},
@@ -2181,6 +2182,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Floating and Sinking", summary:"Students explore why some objects float on water while others sink, testing objects such as a wooden block, a rock, and a rubber duck.",
    resourceLabel:"YouTube: Floating and Sinking", resourceUrl:"https://www.youtube.com/results?search_query=Floating%20and%20Sinking%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_nvm_bQc5Gw",
    quiz:[
      {q:"What happens when you drop a heavy rock into water?", options:["It turns to ice","It disappears","It sinks","It floats"], answer:2},
      {q:"Which of these objects usually floats on water?", options:["A metal spoon","A rubber duck","A large rock","A brick"], answer:1},
@@ -2195,6 +2197,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Emergency Workers and Calling for Help", summary:"Students learn about emergency workers, such as firefighters, paramedics, and police officers, and that calling for help right away can keep people safe during an emergency.",
    resourceLabel:"YouTube: Emergency Workers and Calling for Help", resourceUrl:"https://www.youtube.com/results?search_query=Emergency%20Workers%20and%20Calling%20for%20Help%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JErm0LS3pP4",
    quiz:[
      {q:"Which of these is an emergency worker?", options:["A baker","A firefighter","A farmer","An artist"], answer:1},
      {q:"What should you do first if you see an emergency, like a fire?", options:["Wait a long time","Ignore it","Tell a trusted adult right away","Hide and tell no one"], answer:2},

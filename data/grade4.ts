@@ -1852,6 +1852,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Reading: Cause and Effect", summary:"Ontario Grade 4 Reading strand: a cause is why something happens, and an effect is what happens as a result, and identifying these relationships helps readers understand how events connect in a text.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=tAvn0oxI4WU",
    quiz:[
      {q:"A cause is best described as ___.", options:["The title of a story","What happens as a result of something","A character’s name","The reason why something happens"], answer:3},
      {q:"An effect is best described as ___.", options:["A random unrelated event","The setting of a story","The reason something happens","What happens as a result of a cause"], answer:3},
@@ -1861,6 +1862,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Perimeter and Area of Irregular Shapes", summary:"Ontario Grade 4 Geometry strand: irregular shapes can be broken into smaller regular shapes, like rectangles, to calculate their total perimeter or area by adding the parts together.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=dMCdBQ9xrHk",
    quiz:[
      {q:"To find the area of an irregular shape, you can ___.", options:["Multiply only the longest side","Ignore parts of the shape","Break it into smaller regular shapes and add their areas","Guess without calculating"], answer:2},
      {q:"An L-shaped figure can be split into how many rectangles to find its area?", options:["It cannot be split","One only","Zero","Two"], answer:3},
@@ -1870,6 +1872,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ecosystems: Producers, Consumers, and Decomposers", summary:"Ontario Grade 4 Science Life Systems strand: in an ecosystem, producers (like plants) make their own food, consumers (like animals) eat other organisms, and decomposers (like fungi) break down dead material.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=vOb19r-0kqA",
    quiz:[
      {q:"A producer in an ecosystem is an organism that ___.", options:["Makes its own food","Does nothing in the ecosystem","Eats other organisms only","Breaks down dead material"], answer:0},
      {q:"A consumer in an ecosystem is an organism that ___.", options:["Has no role in the ecosystem","Makes its own food using sunlight","Eats other organisms for energy","Breaks down dead material only"], answer:2},

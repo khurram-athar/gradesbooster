@@ -1852,6 +1852,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Reading: Identifying Theme", summary:"Ontario Grade 3 Reading strand: the theme of a story is the deeper message or lesson the author wants readers to take away, different from the plot, which is simply what happens.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=ZhCNVNzyKlo",
    quiz:[
      {q:"The theme of a story is ___.", options:["The exact list of events","The number of chapters","The name of the author","The deeper message or lesson of the story"], answer:3},
      {q:"Which is an example of a common story theme?", options:["The story has five chapters","The book has a blue cover","Friendship and kindness matter","The main character has brown hair"], answer:2},
@@ -1861,6 +1862,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Adding Fractions with the Same Denominator", summary:"Ontario Grade 3 Number strand: to add fractions with the same denominator, add the numerators and keep the denominator the same, such as 1/4 + 2/4 = 3/4.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=rLCheqJh_rQ",
    quiz:[
      {q:"1/5 + 2/5 = ?", options:["3/10","1/10","2/5","3/5"], answer:3},
      {q:"2/6 + 3/6 = ?", options:["6/6","1/6","5/6","5/12"], answer:2},
@@ -1870,6 +1872,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Classifying Plants and Animals", summary:"Ontario Grade 3 Science Life Systems strand: scientists classify (sort) living things into groups based on shared characteristics, such as sorting animals into mammals, birds, fish, reptiles, and amphibians.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=7zS6cQYK7DM",
    quiz:[
      {q:"Classifying living things means ___.", options:["Sorting them into groups based on shared characteristics","Ignoring their differences","Giving every living thing the same name","Counting how many exist"], answer:0},
      {q:"Which group is classified as mammals?", options:["Animals that typically have fur and feed milk to their young","Animals with feathers that lay eggs","Animals that only live underwater","Animals with no bones at all"], answer:0},
@@ -1879,6 +1882,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Map Skills: Legends, Symbols, and the Compass Rose", summary:"Ontario Grade 3 Social Studies People and Environments strand: maps use a legend (key) to explain symbols, and a compass rose to show direction, helping readers interpret the information a map presents.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=dp8VOG8Cgag",
    quiz:[
      {q:"A map legend (or key) is used to ___.", options:["Replace the need for a title","Explain what the symbols on a map mean","Show the map's price","List the mapmaker's name only"], answer:1},
      {q:"A compass rose on a map shows ___.", options:["Population size","The map's age","Temperature","Direction (north, south, east, west)"], answer:3},
