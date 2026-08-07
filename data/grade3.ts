@@ -1904,6 +1904,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Number: Expanded Form", summary:"Ontario Grade 3 Number strand: expanded form breaks a number into the value of each digit, such as 347 = 300 + 40 + 7, showing what each place value represents.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=67hVmUQ5PXU",
    quiz:[
      {q:"What is 452 in expanded form?", options:["400 + 52","4 + 5 + 2","450 + 2","400 + 50 + 2"], answer:3},
      {q:"What is 700 + 20 + 6 in standard form?", options:["726","7026","76","7206"], answer:0},
@@ -1913,6 +1914,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Energy: Heat and Temperature", summary:"Ontario Grade 3 Science Matter and Energy strand: heat is a form of energy that flows from warmer objects to cooler ones, and temperature is a measurement of how hot or cold something is.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=K0SiEq3GAj0",
    quiz:[
      {q:"Heat energy flows from ___.", options:["It does not flow at all","Cooler objects to warmer objects","Only from the Sun to space","Warmer objects to cooler objects"], answer:3},
      {q:"Temperature measures ___.", options:["How much a material weighs","The colour of an object","How hot or cold something is","The size of an object"], answer:2},
