@@ -1852,6 +1852,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Reading: Evaluating Counterarguments in Persuasive Texts", summary:"Ontario Grade 7 Reading strand: a counterargument acknowledges an opposing viewpoint, and evaluating how effectively a writer addresses it helps readers judge the overall strength of a persuasive text.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=-4DrDtKSXyc",
    quiz:[
      {q:"A counterargument in persuasive writing is used to ___.", options:["Ignore all opposing viewpoints","Avoid presenting any evidence","Remove the writer’s original argument entirely","Acknowledge an opposing viewpoint"], answer:3},
      {q:"Why might a writer include a counterargument in a persuasive essay?", options:["Including a counterargument always weakens an essay","Counterarguments should never appear in persuasive writing","To show they have considered other perspectives, which can strengthen their credibility","It replaces the need for the writer’s own argument"], answer:2},
@@ -1861,6 +1862,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Angle Relationships in Polygons", summary:"Ontario Grade 7 Geometry strand: the sum of interior angles in a polygon can be calculated using the formula (n minus 2) times 180 degrees, where n represents the number of sides.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=cOOk7heS9g8",
    quiz:[
      {q:"What is the sum of interior angles in a triangle?", options:["360 degrees","270 degrees","180 degrees","90 degrees"], answer:2},
      {q:"What is the sum of interior angles in a quadrilateral?", options:["450 degrees","180 degrees","270 degrees","360 degrees"], answer:3},
@@ -1870,6 +1872,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Respiratory and Circulatory Systems", summary:"Ontario Grade 7 Science Human Body Systems strand: the respiratory system brings oxygen into the body and removes carbon dioxide, while the circulatory system transports that oxygen and other nutrients throughout the body.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=i5aXwiC3wWc",
    quiz:[
      {q:"The main role of the respiratory system is to ___.", options:["Digest food","Bring oxygen into the body and remove carbon dioxide","Filter waste from the blood","Control body movement"], answer:1},
      {q:"The main role of the circulatory system is to ___.", options:["Filter air only","Digest food","Transport oxygen and nutrients throughout the body","Control emotions"], answer:2},
@@ -1879,6 +1882,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Multiculturalism Policy in Depth", summary:"Ontario Grade 7 Social Studies Heritage and Identity strand: Canada became the first country to adopt an official multiculturalism policy in 1971, aiming to recognize and support the cultural diversity of its population.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=UYElf0rSEvc",
    quiz:[
      {q:"Canada adopted an official multiculturalism policy in which year?", options:["1931","2000","1971","1867"], answer:2},
      {q:"Canada’s multiculturalism policy was notable for making Canada ___.", options:["The last country to consider cultural diversity","The first country to adopt an official multiculturalism policy","A country with no cultural diversity at all","The only country ever to have immigrants"], answer:1},
