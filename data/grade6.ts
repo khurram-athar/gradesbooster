@@ -1852,6 +1852,7 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing Non-Linear Narrative Structure", summary:"Ontario Grade 6 Reading strand: some stories use a non-linear structure, presenting events out of chronological order through techniques like flashbacks, to build suspense or reveal information strategically.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=6Z-RB_nTmc8",
    quiz:[
      {q:"A non-linear narrative structure presents events ___.", options:["In strict chronological order only","Out of chronological order","Only in the future tense","With no events at all"], answer:1},
      {q:"A flashback is a technique used to ___.", options:["Remove all context from a story","Skip the story’s ending entirely","Show an event from earlier in the timeline","Predict a future event with certainty"], answer:2},
@@ -1861,6 +1862,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying and Dividing Integers", summary:"Ontario Grade 6 Number strand: when multiplying or dividing integers, two numbers with the same sign produce a positive result, while two numbers with different signs produce a negative result.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=NjflPaUhM4Q",
    quiz:[
      {q:"What is the result of a negative integer multiplied by a negative integer?", options:["Negative","Positive","Zero","Cannot be determined"], answer:1},
      {q:"What is the result of a positive integer multiplied by a negative integer?", options:["Cannot be determined","Positive","Negative","Zero"], answer:2},
@@ -1870,6 +1872,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Periodic Table: An Introduction to Elements", summary:"Ontario Grade 6 Science Matter and Energy strand: the periodic table organizes all known chemical elements based on their properties, with elements arranged by increasing atomic number.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=uPkEGAHo78o",
    quiz:[
      {q:"The periodic table organizes elements based on their ___.", options:["Colour only","Alphabetical order of their names","Random order with no pattern","Properties and atomic number"], answer:3},
      {q:"An element is best described as ___.", options:["A pure substance made of only one type of atom","A type of energy, not matter","Always a mixture of multiple substances","A living organism"], answer:0},
@@ -1879,6 +1882,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Colonialism in Africa", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: during the 19th and early 20th centuries, several European powers colonized much of Africa, significantly impacting local societies, economies, and political borders.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Fbb7nbIUUEM",
    quiz:[
      {q:"During the 19th and early 20th centuries, several European powers colonized much of ___.", options:["Africa","Antarctica","No territory at all","The Moon"], answer:0},
      {q:"Colonialism in Africa significantly impacted local ___.", options:["Only weather patterns","Societies, economies, and political borders","Nothing at all","Only wildlife populations"], answer:1},
