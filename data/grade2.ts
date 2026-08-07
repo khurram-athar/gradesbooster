@@ -2152,6 +2152,8 @@ const curriculum: DayContent[] = [
 {day:45, label:"Day 45 — Fri", subjects:[
   {subject:"Language", title:"Review: Silent Letters, Homophones, Adverbs and Cause and Effect", summary:"Students review recent Language skills: silent letters, homophones, adverbs, and cause and effect in stories.",
    resourceLabel:"YouTube: Review: Silent Letters, Homophones, Adverbs and Cause and Effect", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Silent%20Letters%2C%20Homophones%2C%20Adverbs%20and%20Cause%20and%20Effect%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ICdhDZ1Lpro",
+   videoUrls:[{label:"Silent Letters", url:"https://www.youtube.com/watch?v=ICdhDZ1Lpro"},{label:"Homophones", url:"https://www.youtube.com/watch?v=rQuWqcVzqUU"},{label:"Adverbs", url:"https://www.youtube.com/watch?v=Enaeun07_ZQ"}],
    quiz:[
      {q:"Which letter is silent in the word write?", options:["T","I","W","R"], answer:2},
      {q:"Which word means also or as well?", options:["Two","Too","Ten","To"], answer:1},
@@ -2166,6 +2168,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Numbers to 1000, Fact Families, Elapsed Time and Data", summary:"Students review recent Math skills: numbers to 1000, fact families, elapsed time and the calendar, and tally charts.",
    resourceLabel:"YouTube: Review: Numbers to 1000, Fact Families, Elapsed Time and Data", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Numbers%20to%201000%2C%20Fact%20Families%2C%20Elapsed%20Time%20and%20Data%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=28DA9mjb72g",
+   videoUrls:[{label:"Numbers to 1000", url:"https://www.youtube.com/watch?v=28DA9mjb72g"},{label:"Fact Families", url:"https://www.youtube.com/watch?v=xiMA-lgo6Vk"},{label:"Elapsed Time", url:"https://www.youtube.com/watch?v=DaPAU5oPSZY"}],
    quiz:[
      {q:"Which number is greater, 620 or 602?", options:["620","602","They are equal","Cannot tell"], answer:0},
      {q:"If 8 + 2 = 10, what is 10 - 8?", options:["18","8","10","2"], answer:3},
@@ -2180,6 +2184,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Plant Life Cycle, Floating and Sinking, Gravity and Food Chains", summary:"Students review recent Science topics: the life cycle of a plant, floating and sinking, gravity, and food chains.",
    resourceLabel:"YouTube: Review: Plant Life Cycle, Floating and Sinking, Gravity and Food Chains", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Plant%20Life%20Cycle%2C%20Floating%20and%20Sinking%2C%20Gravity%20and%20Food%20Chains%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZubFxK_QDTw",
+   videoUrls:[{label:"Plant Life Cycle", url:"https://www.youtube.com/watch?v=ZubFxK_QDTw"},{label:"Floating and Sinking", url:"https://www.youtube.com/watch?v=Zp8NHW2tbuU"},{label:"Gravity", url:"https://www.youtube.com/watch?v=H9YMgx5T9Sk"}],
    quiz:[
      {q:"What does a mature plant produce that can grow into a new plant?", options:["Water","Rocks","Seeds","Soil"], answer:2},
      {q:"Which of these objects would most likely sink in water?", options:["A leaf","A rubber duck","An empty plastic bottle","A heavy rock"], answer:3},
@@ -2194,6 +2200,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Explorers, Volunteering, Weather and Public Safety", summary:"Students review recent Social Studies topics: explorers and early settlers, volunteering, weather and climate across Canada, and public safety services.",
    resourceLabel:"YouTube: Review: Explorers, Volunteering, Weather and Public Safety", resourceUrl:"https://www.youtube.com/results?search_query=Review%3A%20Explorers%2C%20Volunteering%2C%20Weather%20and%20Public%20Safety%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=a8hDKU_bAec",
+   videoUrls:[{label:"Explorers", url:"https://www.youtube.com/watch?v=a8hDKU_bAec"},{label:"Volunteering", url:"https://www.youtube.com/watch?v=8KxwtJH6NSo"},{label:"Weather", url:"https://www.youtube.com/watch?v=H3H7iQGifyQ"}],
    quiz:[
      {q:"Why did early explorers travel to new lands like Canada?", options:["To build only underground homes","To discover new places and resources","To avoid meeting new people","To stay home instead"], answer:1},
      {q:"Which of these is an example of volunteering?", options:["Buying a new toy","Sleeping in late","Helping clean up a local park","Watching television"], answer:2},
