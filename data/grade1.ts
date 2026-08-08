@@ -7725,6 +7725,586 @@ const curriculum: DayContent[] = [
      {prompt:"What was the Underground Railroad?", answers:["a secret network of routes to freedom"]}
    ]},
 ]},
+{day:141, label:"Day 141 — Mon", subjects:[
+  {subject:"Language", title:"Vowel Teams: ow and ou", summary:"Grade 1 Language strand: the vowel teams ow and ou can make the same sound, as in cow and out, or as in owl and cloud.",
+   resourceLabel:"YouTube: Vowel Teams: ow and ou", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ow%20and%20ou%20grade%201%20educational",
+   quiz:[
+     {q:"Which word has the ow vowel team making the same sound as in cow?", options:["Cow","Row","Grow","Snow"], answer:0},
+     {q:"Which word has the ou vowel team making the same sound as in out?", options:["Soup","Tour","Group","Out"], answer:3},
+     {q:"Which two letters can make the same sound in cow and cloud?", options:["oi and oy","ee and ea","ow and ou","ai and ay"], answer:2},
+     {q:"Which word does NOT belong with cow, how, and now?", options:["How","Now","Snow","Cow"], answer:2},
+     {q:"Vowel teams are two vowels that work together to make ___.", options:["A silent letter","One sound","Two separate sounds always","No sound"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Give a word with the ow vowel team.", answers:["cow","owl"]},
+     {prompt:"Give a word with the ou vowel team.", answers:["out","cloud"]},
+     {prompt:"Do ow and ou sometimes make the same sound?", answers:["yes","yes they can"]}
+   ]},
+  {subject:"Math", title:"Numbers to 400: Beyond 300", summary:"Grade 1 Math strand: students read, write, and count numbers beyond 300, up to 400.",
+   resourceLabel:"YouTube: Numbers to 400: Beyond 300", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20400%3A%20Beyond%20300%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 399?", options:["400","399","398","401"], answer:0},
+     {q:"Which number is between 320 and 340?", options:["310","350","330","360"], answer:2},
+     {q:"What number comes right before 400?", options:["401","400","398","399"], answer:3},
+     {q:"Which of these numbers is the largest?", options:["399","349","299","298"], answer:0},
+     {q:"Counting beyond 300 helps us understand numbers up to ___.", options:["40","400","4000","4"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 399?", answers:["400","four hundred"]},
+     {prompt:"What number comes right before 350?", answers:["349","three hundred forty nine"]},
+     {prompt:"Count by tens from 380 to 400.", answers:["380,390,400","380 390 400"]}
+   ]},
+  {subject:"Science", title:"Our Kidneys: Filtering Our Blood", summary:"Grade 1 Science strand: our kidneys are two bean-shaped organs that filter waste out of our blood and help make urine.",
+   resourceLabel:"YouTube: Our Kidneys: Filtering Our Blood", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Kidneys%3A%20Filtering%20Our%20Blood%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main job of our kidneys?", options:["Helping us breathe","Pumping blood around the body","Helping us see","Filtering waste out of our blood"], answer:3},
+     {q:"What shape are our kidneys?", options:["Square shaped","Long and flat","Bean shaped","Round like a ball"], answer:2},
+     {q:"How many kidneys does a person usually have?", options:["2","1","3","4"], answer:0},
+     {q:"What does our body make after the kidneys filter waste?", options:["Urine","Hair","Skin","Bones"], answer:0},
+     {q:"Our kidneys are an important part of keeping our blood ___.", options:["Colourful","Clean","Loud","Cold"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do our kidneys do?", answers:["filter waste from our blood","clean our blood"]},
+     {prompt:"What shape are our kidneys?", answers:["bean shaped","like a bean"]},
+     {prompt:"How many kidneys does a person usually have?", answers:["2","two"]}
+   ]},
+  {subject:"SocialStudies", title:"Our School Librarian: Helping Us Find Books", summary:"Grade 1 Social Studies strand: the school librarian helps students find, borrow, and take care of books in the school library.",
+   resourceLabel:"YouTube: Our School Librarian: Helping Us Find Books", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Librarian%3A%20Helping%20Us%20Find%20Books%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main job of a school librarian?", options:["Helping students find and borrow books","Driving the school bus","Cooking school lunches","Teaching math class"], answer:0},
+     {q:"Where does a school librarian usually work?", options:["In the parking lot","In the school library","On the playground","In the gym"], answer:1},
+     {q:"Why should students take good care of library books?", options:["Books do not need to be cared for","Books are meant to be thrown away","It does not matter at all","So other students can enjoy them too"], answer:3},
+     {q:"Which of these might a librarian help you do?", options:["Fix a bicycle","Find a book about a topic you like","Paint a fence","Bake a cake"], answer:1},
+     {q:"A well organized library helps students ___.", options:["Get lost more often","Find books more easily","Feel confused","Avoid reading"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a school librarian help students do?", answers:["find and borrow books","find books they will like"]},
+     {prompt:"Where does a school librarian usually work?", answers:["the library","the school library"]},
+     {prompt:"Why is it important to take care of library books?", answers:["so other students can use them too","keeps books in good shape"]}
+   ]},
+]},
+{day:142, label:"Day 142 — Tue", subjects:[
+  {subject:"Language", title:"Prefixes: over- and under-", summary:"Grade 1 Language strand: the prefixes over- and under- change a words meaning to show too much or not enough, as in overfilled and underfed.",
+   resourceLabel:"YouTube: Prefixes: over- and under-", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20over-%20and%20under-%20grade%201%20educational",
+   quiz:[
+     {q:"What does the prefix over- usually add to a word?", options:["The meaning of a number","The meaning of sound","The meaning of too much","The meaning of colour"], answer:2},
+     {q:"What does the prefix under- usually add to a word?", options:["The meaning of not enough","A feeling only","A shape","The meaning of too much"], answer:0},
+     {q:"Which word means to cook something for too long?", options:["Undercook","Precook","Overcook","Recook"], answer:2},
+     {q:"Which word means something did not get enough food?", options:["Underfed","Prefed","Refed","Overfed"], answer:0},
+     {q:"Prefixes are added to the ___ of a word to change its meaning.", options:["Nowhere","End","Middle","Beginning"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does the prefix over- usually mean?", answers:["too much","more than enough"]},
+     {prompt:"What does the prefix under- usually mean?", answers:["not enough","too little"]},
+     {prompt:"Give an example of a word with over- or under-.", answers:["overfilled","underfed"]}
+   ]},
+  {subject:"Math", title:"Subtraction: Counting Up Strategy", summary:"Grade 1 Math strand: students learn the counting up strategy for subtraction, counting from the smaller number up to the larger number to find the difference.",
+   resourceLabel:"YouTube: Subtraction: Counting Up Strategy", resourceUrl:"https://www.youtube.com/results?search_query=Subtraction%3A%20Counting%20Up%20Strategy%20grade%201%20educational",
+   quiz:[
+     {q:"What does the counting up strategy help us do?", options:["Measure length","Solve addition only","Tell time","Solve subtraction problems"], answer:3},
+     {q:"If you count up from 8 to 12, how many steps is that?", options:["4","2","5","3"], answer:0},
+     {q:"Counting up is a helpful strategy when the two numbers are ___.", options:["Always equal","Very far apart","Close together","Both zero"], answer:2},
+     {q:"What is 15 minus 12 using the counting up strategy?", options:["3","2","1","4"], answer:0},
+     {q:"Counting up from the smaller number to the larger number helps find the ___.", options:["Product","Sum","Difference","Total groups"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is the counting up strategy used for?", answers:["subtraction","finding the difference between numbers"]},
+     {prompt:"If you count up from 7 to 10, how many steps is that?", answers:["3","three"]},
+     {prompt:"Why might counting up be a helpful subtraction strategy?", answers:["it can be faster for numbers close together","easier for close numbers"]}
+   ]},
+  {subject:"Science", title:"Symbiosis: Living Things Helping Each Other", summary:"Grade 1 Science strand: symbiosis happens when two different living things live closely together and help each other survive.",
+   resourceLabel:"YouTube: Symbiosis: Living Things Helping Each Other", resourceUrl:"https://www.youtube.com/results?search_query=Symbiosis%3A%20Living%20Things%20Helping%20Each%20Other%20grade%201%20educational",
+   quiz:[
+     {q:"What is symbiosis?", options:["When one animal eats another","A kind of rock","When two different living things help each other","A type of weather"], answer:2},
+     {q:"Which is an example of symbiosis?", options:["A cloud floating in the sky","A river flowing downhill","A bee collecting nectar and pollinating a flower","A rock sitting in a field"], answer:2},
+     {q:"Why is symbiosis helpful for living things?", options:["It has no effect on either living thing","It only helps one side and hurts the other always","Both living things can benefit from the relationship","It only happens between plants"], answer:2},
+     {q:"Clownfish and sea anemones are often used as an example of ___.", options:["A rock cycle","Symbiosis","A food chain only","A weather pattern"], answer:1},
+     {q:"Symbiosis shows us that living things in nature are often ___.", options:["Connected and helpful to each other","Never affected by other living things","Unable to survive together","Completely separate from each other"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is symbiosis?", answers:["when two living things help each other","living things working together"]},
+     {prompt:"Give an example of symbiosis.", answers:["bees and flowers","clownfish and sea anemones"]},
+     {prompt:"Why is symbiosis helpful?", answers:["both living things benefit","they help each other survive"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Local Radio and TV: Sharing News and Weather", summary:"Grade 1 Social Studies strand: local radio and television stations share news, weather, and important information with people in our community.",
+   resourceLabel:"YouTube: Our Local Radio and TV: Sharing News and Weather", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Local%20Radio%20and%20TV%3A%20Sharing%20News%20and%20Weather%20grade%201%20educational",
+   quiz:[
+     {q:"What is one thing local radio and TV stations share with the community?", options:["Only cartoons","Only music from other countries","Nothing useful","News and weather updates"], answer:3},
+     {q:"Why might people watch or listen to local news?", options:["To stay informed about their community","Only for entertainment with no facts","It has no value at all","To avoid learning anything"], answer:0},
+     {q:"Which of these might be shared on the local news?", options:["A private family photo album","Todays weather forecast","A made-up fairy tale","A recipe with no real purpose"], answer:1},
+     {q:"Local radio and TV help connect people in a community by sharing ___.", options:["Only silence","Important information","Only advertisements","Nothing at all"], answer:1},
+     {q:"Besides TV and radio, where else might people get local news today?", options:["It is impossible to find local news","Only word of mouth","Online news websites","Nowhere else"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do local radio and TV stations share?", answers:["news and weather","important community information"]},
+     {prompt:"Name one thing you might learn from watching the local news.", answers:["the weather","community events"]},
+     {prompt:"Why is local news helpful?", answers:["keeps people informed","tells us what is happening nearby"]}
+   ]},
+]},
+{day:143, label:"Day 143 — Wed", subjects:[
+  {subject:"Language", title:"Suffixes: Adding -ness to Make Nouns", summary:"Grade 1 Language strand: adding the suffix -ness to an adjective creates a noun that names a quality, such as changing happy into happiness.",
+   resourceLabel:"YouTube: Suffixes: Adding -ness to Make Nouns", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-ness%20to%20Make%20Nouns%20grade%201%20educational",
+   quiz:[
+     {q:"What does the word happiness mean?", options:["Being sad","A type of food","A colour","The quality of being happy"], answer:3},
+     {q:"What does the suffix -ness usually do to an adjective?", options:["Makes it a number","Turns it into a noun naming a quality","Turns it into a verb","Makes it a question"], answer:1},
+     {q:"Which word is formed by adding -ness to kind?", options:["Kindness","Kinded","Kindful","Kindly"], answer:0},
+     {q:"Adding -ness to the word sad makes the word ___.", options:["Sadly","Sadful","Sadness","Sadable"], answer:2},
+     {q:"A suffix like -ness is added to the ___ of a word.", options:["Nowhere","Beginning","End","Middle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does happiness mean?", answers:["the quality of being happy","being happy"]},
+     {prompt:"What does the suffix -ness usually do to a word?", answers:["turns it into a noun","names a quality"]},
+     {prompt:"Give an example of a word with the suffix -ness.", answers:["happiness","kindness"]}
+   ]},
+  {subject:"Math", title:"Fractions: Fourths of a Group", summary:"Grade 1 Math strand: students learn to find a fourth of a group of objects by sharing the group equally into four smaller groups.",
+   resourceLabel:"YouTube: Fractions: Fourths of a Group", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Fourths%20of%20a%20Group%20grade%201%20educational",
+   quiz:[
+     {q:"What does it mean to find a fourth of a group of objects?", options:["Sharing the group into 4 equal parts","Ignoring the group","Sharing the group into 2 equal parts","Doubling the group"], answer:0},
+     {q:"If 12 cookies are split into fourths, how many cookies are in each group?", options:["2","3","6","4"], answer:1},
+     {q:"If 16 marbles are split into fourths, how many marbles are in each group?", options:["8","4","6","2"], answer:1},
+     {q:"For groups to be called fourths, each group must be ___.", options:["Uncounted","The same size","Missing objects","A different size"], answer:1},
+     {q:"Fourths divide a group into ___ equal parts.", options:["5","4","2","3"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does finding a fourth of a group mean?", answers:["sharing a group into 4 equal parts","splitting into four equal groups"]},
+     {prompt:"If you split 8 apples into fourths, how many apples are in each group?", answers:["2","two"]},
+     {prompt:"Are the four groups the same size when you make fourths?", answers:["yes","yes they are equal"]}
+   ]},
+  {subject:"Science", title:"Food Webs: Connecting Many Food Chains", summary:"Grade 1 Science strand: a food web shows how many different food chains connect together, showing all the ways animals in a habitat eat and are eaten.",
+   resourceLabel:"YouTube: Food Webs: Connecting Many Food Chains", resourceUrl:"https://www.youtube.com/results?search_query=Food%20Webs%3A%20Connecting%20Many%20Food%20Chains%20grade%201%20educational",
+   quiz:[
+     {q:"What is a food web?", options:["A single line of animals eating one thing","A spider building a web","Many food chains connected together","A map of a forest"], answer:2},
+     {q:"How does a food web differ from a single food chain?", options:["They are exactly the same thing","A food web shows many connected feeding relationships","A food chain shows more connections than a web","A food web has no animals in it"], answer:1},
+     {q:"Why is it useful for scientists to study food webs?", options:["To count only plants","To understand how living things depend on each other","To avoid learning about animals","Food webs have no real purpose"], answer:1},
+     {q:"If one animal disappears from a food web, what might happen?", options:["The whole web disappears instantly","Nothing changes at all for anyone","It can affect other living things connected to it","Only plants are affected"], answer:2},
+     {q:"A food web helps us see that living things in a habitat are ___.", options:["Connected to each other","Never affected by other animals","Unrelated to their environment","Completely separate"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a food web?", answers:["many food chains connected together","a way many animals connect through eating"]},
+     {prompt:"How is a food web different from a single food chain?", answers:["it shows many connections, not just one","it connects many chains"]},
+     {prompt:"Why are food webs important to understand?", answers:["show how living things depend on each other","help us see how nature is connected"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Peacekeepers: Helping Around the World", summary:"Grade 1 Social Studies strand: Canadian peacekeepers travel to other countries to help keep peace and support people during difficult times.",
+   resourceLabel:"YouTube: Canadian Peacekeepers: Helping Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Peacekeepers%3A%20Helping%20Around%20the%20World%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main job of a Canadian peacekeeper?", options:["Cooking meals at home","Driving a school bus","Teaching school in Canada","Helping keep peace in other countries"], answer:3},
+     {q:"Where do peacekeepers often travel to do their work?", options:["Only to grocery stores","Only within their own backyard","Nowhere, they stay home always","To other countries facing conflict or hardship"], answer:3},
+     {q:"Why is peacekeeping considered an important job?", options:["It causes more conflict on purpose","It helps protect people and support peace","It only helps one single person","It has no real purpose"], answer:1},
+     {q:"Which best describes what peacekeepers try to achieve?", options:["Helping communities stay safe and peaceful","Avoiding all countries in need","Ignoring people in need","Starting new conflicts"], answer:0},
+     {q:"Canada sending peacekeepers to help other countries shows that Canada cares about ___.", options:["Nothing beyond its own borders","Only its own citizens","Global peace and cooperation","Causing problems elsewhere"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do Canadian peacekeepers do?", answers:["help keep peace in other countries","support people during hard times"]},
+     {prompt:"Where do peacekeepers often travel to help?", answers:["other countries","places facing conflict"]},
+     {prompt:"Why is peacekeeping an important job?", answers:["helps protect people and keep peace","supports countries in need"]}
+   ]},
+]},
+{day:144, label:"Day 144 — Thu", subjects:[
+  {subject:"Language", title:"Text Features: Bold Print and Italics", summary:"Grade 1 Language strand: bold print and italics are special kinds of text that help important words or ideas stand out on a page.",
+   resourceLabel:"YouTube: Text Features: Bold Print and Italics", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Bold%20Print%20and%20Italics%20grade%201%20educational",
+   quiz:[
+     {q:"What does bold print usually look like?", options:["Darker, thicker letters","Tiny letters","Underlined letters only","Slanted letters"], answer:0},
+     {q:"What does italic text usually look like?", options:["Extra large letters","Coloured letters only","Very dark letters","Slanted letters"], answer:3},
+     {q:"Why might an author use bold print for a word?", options:["To hide it from the reader","For no reason at all","To make it stand out as important","To make the page shorter"], answer:2},
+     {q:"Which of these is an example of using a text feature to highlight a word?", options:["Writing every word the same way","Erasing a word completely","Writing in invisible ink","Writing a word in bold letters"], answer:3},
+     {q:"Bold print and italics are examples of ___.", options:["Story characters","Punctuation marks","Text features","Vowel teams"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does bold print look like?", answers:["darker and thicker letters","thick dark letters"]},
+     {prompt:"What does italics look like?", answers:["slanted letters","letters that lean"]},
+     {prompt:"Why do authors use bold print or italics?", answers:["to make words stand out","show importance"]}
+   ]},
+  {subject:"Math", title:"Telling Time to the Nearest Minute", summary:"Grade 1 Math strand: students practise reading a clock to tell time to the nearest minute, counting each small mark around the clock as one minute.",
+   resourceLabel:"YouTube: Telling Time to the Nearest Minute", resourceUrl:"https://www.youtube.com/results?search_query=Telling%20Time%20to%20the%20Nearest%20Minute%20grade%201%20educational",
+   quiz:[
+     {q:"How many minutes are in one full hour?", options:["45","100","60","30"], answer:2},
+     {q:"If the minute hand points to the 3, how many minutes past the hour is it?", options:["15","10","3","30"], answer:0},
+     {q:"If the minute hand points to the 6, how many minutes past the hour is it?", options:["15","50","45","30"], answer:3},
+     {q:"Reading a clock to the nearest minute means counting each small mark as ___.", options:["Ten minutes","One hour","One minute","One second"], answer:2},
+     {q:"If a clock shows 4:07, how many minutes past 4 oclock is it?", options:["6","5","8","7"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many minutes are in one hour?", answers:["60","sixty"]},
+     {prompt:"If the minute hand points to the 1, how many minutes past the hour is it?", answers:["5","five"]},
+     {prompt:"How do we count the small marks around a clock?", answers:["each one is a minute","count by ones for minutes"]}
+   ]},
+  {subject:"Science", title:"The Life Cycle of a Plant: Seed to Flower", summary:"Grade 1 Science strand: a plants life cycle begins as a seed, which grows roots and a stem, sprouts leaves, and eventually grows a flower.",
+   resourceLabel:"YouTube: The Life Cycle of a Plant: Seed to Flower", resourceUrl:"https://www.youtube.com/results?search_query=The%20Life%20Cycle%20of%20a%20Plant%3A%20Seed%20to%20Flower%20grade%201%20educational",
+   quiz:[
+     {q:"What is the first stage of a plants life cycle?", options:["Seed","Leaf","Flower","Root"], answer:0},
+     {q:"What usually grows first from a planted seed, underground?", options:["Fruit","Flowers","Roots","Bark"], answer:2},
+     {q:"What often grows at the end of a plants life cycle?", options:["A brand new seed packet","Nothing at all","A different kind of plant","A flower"], answer:3},
+     {q:"Which of these is part of a plants life cycle in order?", options:["Leaves, seed, flower, roots","Flower, seed, roots, stem","Seed, roots, stem, leaves, flower","Stem, flower, seed, roots"], answer:2},
+     {q:"After a flower is pollinated, what can it eventually produce?", options:["Rocks","Water","Sunlight","New seeds"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the first stage of a plants life cycle?", answers:["seed","a seed"]},
+     {prompt:"What grows first from a seed underground?", answers:["roots","a root"]},
+     {prompt:"What does a plant often grow at the end of its life cycle?", answers:["a flower","flowers"]}
+   ]},
+  {subject:"SocialStudies", title:"Our School Board: Supporting Many Schools", summary:"Grade 1 Social Studies strand: a school board oversees many schools in an area, helping make decisions about education for a whole region.",
+   resourceLabel:"YouTube: Our School Board: Supporting Many Schools", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Board%3A%20Supporting%20Many%20Schools%20grade%201%20educational",
+   quiz:[
+     {q:"What does a school board oversee?", options:["Many schools in an area","Only school buses","Only sports teams","Just one single classroom"], answer:0},
+     {q:"Does a school board oversee just one school or many schools?", options:["Only private homes","Just one school","No schools at all","Many schools"], answer:3},
+     {q:"Why is a school board an important part of education?", options:["It replaces teachers completely","It has no role in education","It only decides lunch menus","It helps make decisions that support many schools"], answer:3},
+     {q:"Which of these might a school board help decide?", options:["The colour of every students shoes","Personal weekend plans for families","How schools in the area are run","What every student eats for breakfast at home"], answer:2},
+     {q:"A school board works to support ___ across a region.", options:["Only sports","Education","Only art class","Nothing important"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a school board do?", answers:["oversees many schools","makes decisions about education"]},
+     {prompt:"Does a school board oversee just one school or many schools?", answers:["many schools","many schools in an area"]},
+     {prompt:"Why is a school board important?", answers:["helps schools run well","supports education for many students"]}
+   ]},
+]},
+{day:145, label:"Day 145 — Fri", subjects:[
+  {subject:"Language", title:"Personal Narrative: Writing About a Real Event", summary:"Grade 1 Language strand: a personal narrative is a true story about something that happened to the writer, told in their own words.",
+   resourceLabel:"YouTube: Personal Narrative: Writing About a Real Event", resourceUrl:"https://www.youtube.com/results?search_query=Personal%20Narrative%3A%20Writing%20About%20a%20Real%20Event%20grade%201%20educational",
+   quiz:[
+     {q:"What is a personal narrative?", options:["A true story about something that happened to the writer","A poem with no meaning","A made-up fairy tale","A list of facts with no story"], answer:0},
+     {q:"Is a personal narrative fiction or true?", options:["Neither true nor false","True","A type of poem only","Completely made up"], answer:1},
+     {q:"Which of these is a good topic for a personal narrative?", options:["A story about a talking dragon","A list of math facts","A recipe for cookies","A time you visited a special place"], answer:3},
+     {q:"A personal narrative is usually written from whose point of view?", options:["A made-up characters point of view only","The writers own point of view","No one at all","A random strangers point of view"], answer:1},
+     {q:"Writing about a real event in your own words is an example of a ___.", options:["Dictionary entry","Nonfiction textbook","Recipe","Personal narrative"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is a personal narrative?", answers:["a true story about the writer","a real event the writer experienced"]},
+     {prompt:"Is a personal narrative made up or true?", answers:["true","it is a real event"]},
+     {prompt:"Give an example of a topic for a personal narrative.", answers:["a trip to the park","my birthday"]}
+   ]},
+  {subject:"Math", title:"Money: Making Amounts Up to Two Dollars", summary:"Grade 1 Math strand: students combine coins and bills to make amounts of money up to two dollars.",
+   resourceLabel:"YouTube: Money: Making Amounts Up to Two Dollars", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20Amounts%20Up%20to%20Two%20Dollars%20grade%201%20educational",
+   quiz:[
+     {q:"Which combination makes exactly one dollar?", options:["One nickel","Four quarters","Two dimes","Three pennies"], answer:1},
+     {q:"Which combination makes exactly two dollars?", options:["One penny","One dime","Two loonies","One nickel"], answer:2},
+     {q:"How many quarters are needed to make one dollar?", options:["4","3","2","5"], answer:0},
+     {q:"If you have one loonie and one quarter, how much money do you have?", options:["1 dollar and 25 cents","25 cents","2 dollars","1 dollar and 10 cents"], answer:0},
+     {q:"Practising with coins and bills helps us understand ___.", options:["Nothing useful","Only colours","Only shapes","The value of money"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name coins or bills that could make one dollar.", answers:["a loonie","four quarters"]},
+     {prompt:"How could you make two dollars using two coins?", answers:["two loonies","two dollar coins"]},
+     {prompt:"Why is it useful to practise making different money amounts?", answers:["helps us understand money better","useful for buying things"]}
+   ]},
+  {subject:"Science", title:"Extreme Weather: Storms and Lightning", summary:"Grade 1 Science strand: extreme weather like thunderstorms brings strong winds, heavy rain, and lightning, and it is important to stay safe indoors when it happens.",
+   resourceLabel:"YouTube: Extreme Weather: Storms and Lightning", resourceUrl:"https://www.youtube.com/results?search_query=Extreme%20Weather%3A%20Storms%20and%20Lightning%20grade%201%20educational",
+   quiz:[
+     {q:"What is extreme weather?", options:["A quiet cloudy day","Very strong or unusual weather","A calm sunny day","A light breeze"], answer:1},
+     {q:"What does a thunderstorm often bring?", options:["Nothing unusual at all","Only snow","Only gentle sunshine","Strong winds, heavy rain, and lightning"], answer:3},
+     {q:"Where is the safest place to be during a thunderstorm?", options:["Indoors, away from windows","On top of a hill","Standing under a tall tree outside","Swimming in a lake"], answer:0},
+     {q:"Why is lightning dangerous?", options:["It is completely harmless","It never happens near people","It only happens indoors","It carries a powerful and sudden electric charge"], answer:3},
+     {q:"Learning about extreme weather helps us know how to stay ___.", options:["Careless","Bored","Unaware","Safe"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is extreme weather?", answers:["very strong or unusual weather","weather like thunderstorms"]},
+     {prompt:"What does a thunderstorm often bring?", answers:["strong winds and lightning","heavy rain and lightning"]},
+     {prompt:"Where should you go during a thunderstorm to stay safe?", answers:["indoors","inside a building"]}
+   ]},
+  {subject:"SocialStudies", title:"Water Systems: How Clean Water Reaches Our Homes", summary:"Grade 1 Social Studies strand: water systems clean and carry water through pipes from lakes, rivers, or wells to our homes so we have safe water to use.",
+   resourceLabel:"YouTube: Water Systems: How Clean Water Reaches Our Homes", resourceUrl:"https://www.youtube.com/results?search_query=Water%20Systems%3A%20How%20Clean%20Water%20Reaches%20Our%20Homes%20grade%201%20educational",
+   quiz:[
+     {q:"Where does the water used in our homes often come from originally?", options:["Lakes, rivers, or wells","Only from bottled water trucks","Nowhere, it appears instantly","Only from the clouds directly"], answer:0},
+     {q:"What usually happens to water before it reaches our homes?", options:["It is cleaned and treated","It disappears","It is left completely untreated","It is frozen solid first"], answer:0},
+     {q:"How does clean water usually travel to our homes?", options:["Through underground pipes","By hand carried buckets only","By airplane delivery","It does not travel at all"], answer:0},
+     {q:"Why is a water system important for a community?", options:["It has no importance","It wastes water on purpose","It only helps one house","It provides safe water for people to use"], answer:3},
+     {q:"Water systems help make sure the water we use is ___.", options:["Clean and safe","Always dirty","Never available","Only for animals"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where does the water in our homes often come from?", answers:["lakes, rivers, or wells","a water source like a lake"]},
+     {prompt:"What happens to water before it reaches our homes?", answers:["it gets cleaned","treated to make it safe"]},
+     {prompt:"How does clean water travel to our homes?", answers:["through pipes","underground pipes"]}
+   ]},
+]},
+{day:146, label:"Day 146 — Mon", subjects:[
+  {subject:"Language", title:"Compare and Contrast: Two Characters in a Story", summary:"Grade 1 Language strand: comparing and contrasting two characters means looking at how they are alike and how they are different.",
+   resourceLabel:"YouTube: Compare and Contrast: Two Characters in a Story", resourceUrl:"https://www.youtube.com/results?search_query=Compare%20and%20Contrast%3A%20Two%20Characters%20in%20a%20Story%20grade%201%20educational",
+   quiz:[
+     {q:"What does it mean to compare two characters?", options:["Find how they are different","Erase one character","Find how they are alike","Ignore both characters"], answer:2},
+     {q:"What does it mean to contrast two characters?", options:["Draw a picture of them","Skip reading about them","Find how they are alike","Find how they are different"], answer:3},
+     {q:"Why might a reader compare and contrast two characters in a story?", options:["To understand the story and characters better","To confuse the reader","It has no purpose","To remove the characters from the story"], answer:0},
+     {q:"If two characters both like to help others, that is an example of ___.", options:["A similarity","A title","A setting","A difference"], answer:0},
+     {q:"If one character is brave and another is shy, that is an example of ___.", options:["A difference","A setting","A summary","A similarity"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to compare two characters?", answers:["find how they are alike","see their similarities"]},
+     {prompt:"What does it mean to contrast two characters?", answers:["find how they are different","see their differences"]},
+     {prompt:"Why is comparing and contrasting characters useful?", answers:["helps us understand a story better","shows us what makes each character special"]}
+   ]},
+  {subject:"Math", title:"Comparing Three-Digit Numbers", summary:"Grade 1 Math strand: students compare two three-digit numbers to decide which is greater or less using place value.",
+   resourceLabel:"YouTube: Comparing Three-Digit Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Three-Digit%20Numbers%20grade%201%20educational",
+   quiz:[
+     {q:"Which number is greater, 312 or 321?", options:["They are equal","312","Neither has a value","321"], answer:3},
+     {q:"Which number is smaller, 456 or 465?", options:["They are equal","456","465","Cannot be compared"], answer:1},
+     {q:"When comparing 3-digit numbers, which place do we check first?", options:["The ones place","The tens place only","The hundreds place","The name of the number"], answer:2},
+     {q:"Which symbol means greater than?", options:["=",">","<","+"], answer:1},
+     {q:"If two numbers have the same hundreds digit, what do we check next?", options:["The hundreds digit again","The colour of the numbers","The tens digit","Nothing else"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which is greater, 245 or 254?", answers:["254"]},
+     {prompt:"Which is smaller, 187 or 178?", answers:["178"]},
+     {prompt:"What place value do we check first when comparing three-digit numbers?", answers:["the hundreds place","hundreds digit"]}
+   ]},
+  {subject:"Science", title:"Sharks: Ocean Predators", summary:"Grade 1 Science strand: sharks are ocean fish with rows of sharp teeth, and most sharks are important predators that help keep ocean ecosystems healthy.",
+   resourceLabel:"YouTube: Sharks: Ocean Predators", resourceUrl:"https://www.youtube.com/results?search_query=Sharks%3A%20Ocean%20Predators%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of animal is a shark?", options:["A bird","A mammal","A reptile","A fish"], answer:3},
+     {q:"What do sharks have many rows of in their mouths?", options:["Feathers","Fur","Sharp teeth","Scales only, no teeth"], answer:2},
+     {q:"Why are sharks important to ocean ecosystems?", options:["They have no role in the ocean","They help keep the ocean food chain balanced as predators","They live only on land","They only eat plants"], answer:1},
+     {q:"How do sharks usually breathe underwater?", options:["Using their tail","Using gills","They do not need to breathe","Using lungs like a human"], answer:1},
+     {q:"Most sharks play the role of a ___ in the ocean food chain.", options:["Non-living object","Decomposer only","Predator","Producer only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What kind of animal is a shark?", answers:["a fish","an ocean fish"]},
+     {prompt:"What do sharks have rows of in their mouths?", answers:["sharp teeth","teeth"]},
+     {prompt:"Why are sharks important in the ocean?", answers:["they help keep ecosystems healthy","they are important predators"]}
+   ]},
+  {subject:"SocialStudies", title:"World Landmarks: Famous Places Around the World", summary:"Grade 1 Social Studies strand: world landmarks are famous and special places found in different countries that many people like to visit and learn about.",
+   resourceLabel:"YouTube: World Landmarks: Famous Places Around the World", resourceUrl:"https://www.youtube.com/results?search_query=World%20Landmarks%3A%20Famous%20Places%20Around%20the%20World%20grade%201%20educational",
+   quiz:[
+     {q:"What is a world landmark?", options:["A weather pattern","A kind of animal","A famous and special place people like to visit","A type of food"], answer:2},
+     {q:"Which of these is an example of a world landmark?", options:["A famous ancient pyramid","A regular kitchen chair","A plain sidewalk","A common street sign"], answer:0},
+     {q:"Why might people travel to see a world landmark?", options:["To see something special and learn about it","Landmarks have no interest to anyone","To avoid learning anything new","Landmarks cannot be visited"], answer:0},
+     {q:"Learning about landmarks in other countries helps us understand ___.", options:["Only our own country","Different places and cultures around the world","Only our own school","Nothing outside our own street"], answer:1},
+     {q:"Which best describes why landmarks are considered special?", options:["They are chosen completely at random","They are the same everywhere","They represent something important about a place or its history","They have no history at all"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is a world landmark?", answers:["a famous special place","a well known place in the world"]},
+     {prompt:"Name a world landmark.", answers:["a pyramid","a famous tower"]},
+     {prompt:"Why do people visit world landmarks?", answers:["to see something special","to learn about the place"]}
+   ]},
+]},
+{day:147, label:"Day 147 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -est and -end", summary:"Grade 1 Language strand: the -est word family and the -end word family share ending sounds, as in best, nest, and rest, or bend, send, and spend.",
+   resourceLabel:"YouTube: Word Families: -est and -end", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-est%20and%20-end%20grade%201%20educational",
+   quiz:[
+     {q:"Which word belongs to the -est family?", options:["Cat","Sun","Dog","Nest"], answer:3},
+     {q:"Which word belongs to the -end family?", options:["Sat","Sit","Six","Send"], answer:3},
+     {q:"Which word rhymes with rest?", options:["Cup","Run","Pen","Best"], answer:3},
+     {q:"Which word rhymes with spend?", options:["Sap","Sun","Send","Sit"], answer:2},
+     {q:"Recognizing word families helps us read new words that share the same ___.", options:["Colour","Ending sound","Number of letters","Meaning"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with best.", answers:["nest","rest"]},
+     {prompt:"Name a word that rhymes with bend.", answers:["send","spend"]},
+     {prompt:"What ending sound do best and nest share?", answers:["est","the est sound"]}
+   ]},
+  {subject:"Math", title:"Converting Between Metres and Centimetres", summary:"Grade 1 Math strand: students learn that one metre is equal to 100 centimetres, and practise converting between the two units.",
+   resourceLabel:"YouTube: Converting Between Metres and Centimetres", resourceUrl:"https://www.youtube.com/results?search_query=Converting%20Between%20Metres%20and%20Centimetres%20grade%201%20educational",
+   quiz:[
+     {q:"How many centimetres are in one metre?", options:["1000","50","100","10"], answer:2},
+     {q:"If a rope is 2 metres long, how many centimetres is that?", options:["20","200","2000","100"], answer:1},
+     {q:"Which unit would we usually use to measure the length of a pencil?", options:["Litres","Kilometres","Metres","Centimetres"], answer:3},
+     {q:"Which unit would we usually use to measure the length of a hallway?", options:["Grams","Centimetres","Metres","Millilitres"], answer:2},
+     {q:"Knowing that 100 centimetres equal 1 metre helps us ___ between units.", options:["Convert","Confuse","Ban","Ignore"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"How many centimetres are in one metre?", answers:["100","one hundred"]},
+     {prompt:"If something is 2 metres long, how many centimetres is that?", answers:["200","two hundred"]},
+     {prompt:"Why do we sometimes use centimetres and sometimes metres?", answers:["centimetres for small things, metres for longer things","depends on the size"]}
+   ]},
+  {subject:"Science", title:"Frogs and Toads: Comparing Two Amphibians", summary:"Grade 1 Science strand: frogs and toads are both amphibians, but frogs usually have smooth, wet skin while toads usually have bumpy, dry skin.",
+   resourceLabel:"YouTube: Frogs and Toads: Comparing Two Amphibians", resourceUrl:"https://www.youtube.com/results?search_query=Frogs%20and%20Toads%3A%20Comparing%20Two%20Amphibians%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of animals are both frogs and toads?", options:["Amphibians","Reptiles","Mammals","Birds"], answer:0},
+     {q:"What kind of skin do frogs usually have?", options:["Covered in fur","Covered in feathers","Smooth and wet","Bumpy and dry"], answer:2},
+     {q:"What kind of skin do toads usually have?", options:["Covered in fur","Bumpy and dry","Covered in scales like a fish","Smooth and wet"], answer:1},
+     {q:"Which is a similarity between frogs and toads?", options:["They both live only in trees","They are both amphibians","They both fly","They both have fur"], answer:1},
+     {q:"Comparing frogs and toads helps us see that similar animals can still have ___.", options:["No similarities at all","No differences at all","The exact same features","Some differences"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What kind of animal are frogs and toads?", answers:["amphibians","both amphibians"]},
+     {prompt:"What kind of skin do frogs usually have?", answers:["smooth and wet","smooth skin"]},
+     {prompt:"What kind of skin do toads usually have?", answers:["bumpy and dry","bumpy skin"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Provincial Legislature: Where Laws Are Made", summary:"Grade 1 Social Studies strand: the provincial legislature is a building where elected leaders meet to discuss and create laws for the province.",
+   resourceLabel:"YouTube: Our Provincial Legislature: Where Laws Are Made", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Provincial%20Legislature%3A%20Where%20Laws%20Are%20Made%20grade%201%20educational",
+   quiz:[
+     {q:"What happens at a provincial legislature?", options:["Elected leaders discuss and create laws","Students take a math test","Movies are shown to visitors","Food is sold to the public"], answer:0},
+     {q:"Who works at a provincial legislature?", options:["Only firefighters","Only bus drivers","Only doctors","Elected leaders, including the premier"], answer:3},
+     {q:"Why is a provincial legislature an important building?", options:["It is closed at all times","Important laws and decisions are made there","It is only used for sports games","It has no real purpose"], answer:1},
+     {q:"Which of these might happen inside a provincial legislature?", options:["A private vacation","A debate about a new provincial law","Nothing important at all","A birthday party for one family"], answer:1},
+     {q:"A provincial legislature helps a province by creating ___.", options:["Laws and important decisions","Only weather forecasts","Nothing useful","Only sports schedules"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a provincial legislature?", answers:["a place where laws are made","where elected leaders meet"]},
+     {prompt:"Who works at a provincial legislature?", answers:["elected leaders","the premier and other elected members"]},
+     {prompt:"Why is the legislature important?", answers:["it is where important decisions are made","laws for the province are created there"]}
+   ]},
+]},
+{day:148, label:"Day 148 — Wed", subjects:[
+  {subject:"Language", title:"Reading Nonfiction for Information", summary:"Grade 1 Language strand: reading nonfiction helps us learn true facts and information about real topics, like animals, places, or how things work.",
+   resourceLabel:"YouTube: Reading Nonfiction for Information", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Nonfiction%20for%20Information%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of information do we learn from a nonfiction book?", options:["Made-up stories about dragons","Nothing real at all","True facts about real topics","Only pictures with no facts"], answer:2},
+     {q:"Which of these is a nonfiction topic?", options:["A magical flying carpet","A dragon who grants wishes","A talking teddy bear","How volcanoes work"], answer:3},
+     {q:"How is nonfiction different from fiction?", options:["Nonfiction has no facts at all","They are exactly the same","Nonfiction is true, fiction is made up","Fiction is always true"], answer:2},
+     {q:"Why might someone read a nonfiction book about animals?", options:["To avoid learning anything","Nonfiction books have no purpose","To learn true facts about animals","To read a made-up story"], answer:2},
+     {q:"Reading nonfiction helps build our ___ about the real world.", options:["Imagination only","Knowledge","Confusion","Silence"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What kind of information do we learn from nonfiction?", answers:["true facts","real information"]},
+     {prompt:"Give an example of a nonfiction topic.", answers:["animals","how things work"]},
+     {prompt:"How is nonfiction different from fiction?", answers:["nonfiction is true, fiction is made up","nonfiction is real"]}
+   ]},
+  {subject:"Math", title:"Estimating Sums: About How Many Altogether", summary:"Grade 1 Math strand: students make a reasonable guess, or estimate, about how many objects there will be altogether before adding them exactly.",
+   resourceLabel:"YouTube: Estimating Sums: About How Many Altogether", resourceUrl:"https://www.youtube.com/results?search_query=Estimating%20Sums%3A%20About%20How%20Many%20Altogether%20grade%201%20educational",
+   quiz:[
+     {q:"What does it mean to estimate a sum?", options:["Know the exact answer with no guessing","Draw a picture instead of adding","Make a careful guess about the total before adding exactly","Ignore the numbers completely"], answer:2},
+     {q:"Why is estimating a sum before adding exactly useful?", options:["It replaces the need to ever add exactly","It helps us check if our exact answer makes sense","It only works with subtraction","It has no real purpose"], answer:1},
+     {q:"About how many are 19 and 21 altogether?", options:["About 100","About 40","About 20","About 4"], answer:1},
+     {q:"A good estimate is a guess that is ___.", options:["Completely random","Always exactly right","Impossible to make","Reasonable and thoughtful"], answer:3},
+     {q:"Estimating sums helps students practise thinking about ___.", options:["Nothing useful","Numbers and totals","Only colours","Only shapes"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to estimate a sum?", answers:["make a careful guess before adding","guess the total before checking"]},
+     {prompt:"Why might we estimate before adding exactly?", answers:["it helps us check if our answer makes sense","gives us a quick idea of the total"]},
+     {prompt:"If you have about 10 apples and about 10 more, about how many altogether?", answers:["about 20","around 20"]}
+   ]},
+  {subject:"Science", title:"The Rainforest: A Warm Wet Habitat", summary:"Grade 1 Science strand: a rainforest is a warm, wet habitat that gets a lot of rain and is home to many different kinds of plants and animals.",
+   resourceLabel:"YouTube: The Rainforest: A Warm Wet Habitat", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rainforest%3A%20A%20Warm%20Wet%20Habitat%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of climate does a rainforest have?", options:["Cold and dry","Warm and wet","Frozen year round","Hot and dry like a desert"], answer:1},
+     {q:"Why is the rainforest home to so many different living things?", options:["Its warm wet climate supports lots of plants and animals","It is too cold for most living things","It never rains there","It has almost no plants or animals"], answer:0},
+     {q:"Which of these animals might you find living in a rainforest?", options:["A camel","A polar bear","A parrot","A penguin"], answer:2},
+     {q:"What is a rainforest known for receiving a lot of?", options:["Ice","Sand","Snow","Rain"], answer:3},
+     {q:"Rainforests are considered important because they are home to a huge variety of ___.", options:["Ice and snow","Buildings","Plants and animals","Rocks only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What kind of weather does a rainforest have?", answers:["warm and wet","lots of rain"]},
+     {prompt:"Why do so many animals live in the rainforest?", answers:["it has lots of food and shelter","the warm wet climate supports many living things"]},
+     {prompt:"Name an animal that might live in a rainforest.", answers:["a monkey","a parrot"]}
+   ]},
+  {subject:"SocialStudies", title:"Fair Trade: Buying Goods That Help Others", summary:"Grade 1 Social Studies strand: fair trade means buying goods, like chocolate or coffee, in a way that makes sure the workers who made them are paid fairly.",
+   resourceLabel:"YouTube: Fair Trade: Buying Goods That Help Others", resourceUrl:"https://www.youtube.com/results?search_query=Fair%20Trade%3A%20Buying%20Goods%20That%20Help%20Others%20grade%201%20educational",
+   quiz:[
+     {q:"What does fair trade mean?", options:["A type of holiday","A type of weather","Buying the cheapest goods with no other thought","Buying goods in a way that pays workers fairly"], answer:3},
+     {q:"Which of these products might carry a fair trade label?", options:["A toy car with no label","A rock","A cloud","Chocolate"], answer:3},
+     {q:"Why do some shoppers choose fair trade products?", options:["To make products more expensive for no reason","It has no benefit to anyone","To avoid helping any workers","To help make sure workers are paid fairly"], answer:3},
+     {q:"Fair trade helps protect the rights of ___.", options:["Workers who grow or make products","Only large companies","No one at all","Only shoppers"], answer:0},
+     {q:"Learning about fair trade helps us understand how our choices can ___.", options:["Affect people around the world","Only affect our own family","Have no effect on anyone","Change nothing at all"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does fair trade mean?", answers:["buying goods in a way that pays workers fairly","making sure workers are treated fairly"]},
+     {prompt:"Name a product that might have a fair trade label.", answers:["chocolate","coffee"]},
+     {prompt:"Why is fair trade important?", answers:["it helps workers get paid fairly","supports fair treatment of workers"]}
+   ]},
+]},
+{day:149, label:"Day 149 — Thu", subjects:[
+  {subject:"Language", title:"Transition Words: First, Then, Finally", summary:"Grade 1 Language strand: transition words like first, then, and finally help readers understand the order that events happen in a story or set of directions.",
+   resourceLabel:"YouTube: Transition Words: First, Then, Finally", resourceUrl:"https://www.youtube.com/results?search_query=Transition%20Words%3A%20First%2C%20Then%2C%20Finally%20grade%201%20educational",
+   quiz:[
+     {q:"What does the transition word first usually tell us?", options:["Nothing about order","What happens at the beginning","What happens at the end","A characters name"], answer:1},
+     {q:"What does the transition word finally usually tell us?", options:["What happens first","The setting of the story","What happens at the end","The title of the story"], answer:2},
+     {q:"Which word could describe the middle step in a set of directions?", options:["First","Finally","Never","Then"], answer:3},
+     {q:"Why are transition words helpful in writing?", options:["They remove the need for sentences","They show the order that events happen","They make writing confusing","They have no purpose"], answer:1},
+     {q:"Which sentence uses a transition word correctly?", options:["Then dressed breakfast we","First, we got dressed, then we ate breakfast","We got dressed we ate breakfast","Breakfast dressed we got then"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does the transition word first tell us?", answers:["what happens at the beginning","the earliest step"]},
+     {prompt:"What does the transition word finally tell us?", answers:["what happens at the end","the last step"]},
+     {prompt:"Give a sentence using the word then.", answers:["then I ate breakfast","then we went outside"]}
+   ]},
+  {subject:"Math", title:"Patterns: Increasing and Decreasing Number Patterns", summary:"Grade 1 Math strand: students identify number patterns that increase, growing larger each time, or decrease, growing smaller each time.",
+   resourceLabel:"YouTube: Patterns: Increasing and Decreasing Number Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20Increasing%20and%20Decreasing%20Number%20Patterns%20grade%201%20educational",
+   quiz:[
+     {q:"What happens to the numbers in an increasing pattern?", options:["They get bigger each time","They disappear","They stay the same","They get smaller each time"], answer:0},
+     {q:"What happens to the numbers in a decreasing pattern?", options:["They get smaller each time","They get bigger each time","They become letters","They stay exactly the same"], answer:0},
+     {q:"Is the pattern 20, 15, 10, 5 increasing or decreasing?", options:["Both at once","Increasing","Neither","Decreasing"], answer:3},
+     {q:"Is the pattern 3, 6, 9, 12 increasing or decreasing?", options:["Both at once","Decreasing","Neither","Increasing"], answer:3},
+     {q:"What comes next in the increasing pattern 5, 10, 15, ___?", options:["30","18","25","20"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does an increasing pattern do?", answers:["gets bigger each time","numbers grow larger"]},
+     {prompt:"What does a decreasing pattern do?", answers:["gets smaller each time","numbers grow smaller"]},
+     {prompt:"Is 2, 4, 6, 8 an increasing or decreasing pattern?", answers:["increasing","it increases"]}
+   ]},
+  {subject:"Science", title:"Bridges and Structures: Simple Engineering", summary:"Grade 1 Science strand: bridges are structures built to help people and vehicles cross rivers, roads, or valleys safely.",
+   resourceLabel:"YouTube: Bridges and Structures: Simple Engineering", resourceUrl:"https://www.youtube.com/results?search_query=Bridges%20and%20Structures%3A%20Simple%20Engineering%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main purpose of a bridge?", options:["To help people and vehicles cross safely","To decorate a city","To create more traffic","To block a river completely"], answer:0},
+     {q:"Which of these might a bridge be built to cross?", options:["A river","A single small puddle","A classroom","A backyard"], answer:0},
+     {q:"Why is it important for a bridge to be built strongly?", options:["So it can bend in half","Strength does not matter for bridges","So it can safely hold the weight of people and vehicles","So it can float away easily"], answer:2},
+     {q:"What might engineers think about carefully when designing a bridge?", options:["Nothing important at all","How much weight it needs to hold safely","How to make it disappear","What colour to paint it only"], answer:1},
+     {q:"Bridges are an example of how people use ___ to solve problems.", options:["Simple engineering","Guesswork with no planning","Magic","Random chance"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a bridge used for?", answers:["helping people cross something","crossing rivers or roads safely"]},
+     {prompt:"What might a bridge cross over?", answers:["a river","a road or valley"]},
+     {prompt:"Why do bridges need to be built strongly?", answers:["so they can safely hold weight","to be safe for people and vehicles"]}
+   ]},
+  {subject:"SocialStudies", title:"Our School Yearbook: Remembering the School Year", summary:"Grade 1 Social Studies strand: a school yearbook is a book filled with photos and memories that helps students remember their school year.",
+   resourceLabel:"YouTube: Our School Yearbook: Remembering the School Year", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Yearbook%3A%20Remembering%20the%20School%20Year%20grade%201%20educational",
+   quiz:[
+     {q:"What is a school yearbook?", options:["A calendar with no pictures","A book filled with photos and memories from the school year","A math textbook","A list of school rules only"], answer:1},
+     {q:"Why might a school create a yearbook?", options:["To confuse students","It has no real purpose","To replace all textbooks","To help students remember the school year"], answer:3},
+     {q:"Which of these might appear in a school yearbook?", options:["A car manual","Class photos","A weather forecast","A grocery list"], answer:1},
+     {q:"A yearbook can help students look back on their year and remember ___.", options:["Only test scores","Special moments and friends","Only homework assignments","Nothing important"], answer:1},
+     {q:"Yearbooks are usually created ___ during the school year.", options:["Only in summer","Never","Every single day","Once, near the end"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is a school yearbook?", answers:["a book of photos and memories","a book that remembers the school year"]},
+     {prompt:"Why do schools make yearbooks?", answers:["to help students remember the year","keep special memories"]},
+     {prompt:"Name something you might see in a yearbook.", answers:["class photos","pictures of school events"]}
+   ]},
+]},
+{day:150, label:"Day 150 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: New Vowel Teams, Word Parts, and Writing Skills", summary:"Grade 1 Language strand review: students revisit the ow and ou vowel teams, prefixes and suffixes, text features, personal narrative writing, and transition words.",
+   resourceLabel:"YouTube: Language Review: New Vowel Teams, Word Parts, and Writing Skills", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20New%20Vowel%20Teams%2C%20Word%20Parts%2C%20and%20Writing%20Skills%20grade%201%20educational",
+   quiz:[
+     {q:"Which word has the ow vowel team making the same sound as in cow?", options:["Grow","Row","Snow","Cow"], answer:3},
+     {q:"What does the prefix over- usually add to a word?", options:["The meaning of sound","The meaning of colour","The meaning of a number","The meaning of too much"], answer:3},
+     {q:"What does the word happiness mean?", options:["Being sad","A type of food","The quality of being happy","A colour"], answer:2},
+     {q:"What does bold print usually look like?", options:["Underlined letters only","Darker, thicker letters","Slanted letters","Tiny letters"], answer:1},
+     {q:"What does the transition word first usually tell us?", options:["Nothing about order","A characters name","What happens at the beginning","What happens at the end"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Give a word with the ow or ou vowel team.", answers:["cow","out"]},
+     {prompt:"What does the prefix over- usually mean?", answers:["too much"]},
+     {prompt:"What is a personal narrative?", answers:["a true story about the writer"]}
+   ]},
+  {subject:"Math", title:"Math Review: Numbers, Fractions, Time, and Patterns", summary:"Grade 1 Math strand review: students revisit numbers to 400, counting up subtraction, fourths of a group, time to the minute, money, comparing numbers, measurement, and patterns.",
+   resourceLabel:"YouTube: Math Review: Numbers, Fractions, Time, and Patterns", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Fractions%2C%20Time%2C%20and%20Patterns%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 399?", options:["398","401","399","400"], answer:3},
+     {q:"If 12 cookies are split into fourths, how many cookies are in each group?", options:["2","3","6","4"], answer:1},
+     {q:"If the minute hand points to the 3, how many minutes past the hour is it?", options:["10","30","3","15"], answer:3},
+     {q:"Which number is greater, 312 or 321?", options:["Neither has a value","321","312","They are equal"], answer:1},
+     {q:"How many centimetres are in one metre?", options:["100","50","10","1000"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 399?", answers:["400"]},
+     {prompt:"If 12 cookies are split into fourths, how many are in each group?", answers:["3"]},
+     {prompt:"How many centimetres are in one metre?", answers:["100"]}
+   ]},
+  {subject:"Science", title:"Science Review: Our Bodies, Animals, and Habitats", summary:"Grade 1 Science strand review: students revisit our kidneys, symbiosis, food webs, plant life cycles, extreme weather, sharks, frogs and toads, the rainforest, and bridges.",
+   resourceLabel:"YouTube: Science Review: Our Bodies, Animals, and Habitats", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Animals%2C%20and%20Habitats%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main job of our kidneys?", options:["Helping us see","Helping us breathe","Filtering waste out of our blood","Pumping blood around the body"], answer:2},
+     {q:"What is symbiosis?", options:["A type of weather","When two different living things help each other","When one animal eats another","A kind of rock"], answer:1},
+     {q:"What is the first stage of a plants life cycle?", options:["Flower","Root","Seed","Leaf"], answer:2},
+     {q:"What kind of animal is a shark?", options:["A fish","A mammal","A reptile","A bird"], answer:0},
+     {q:"What kind of climate does a rainforest have?", options:["Frozen year round","Hot and dry like a desert","Warm and wet","Cold and dry"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is the main job of our kidneys?", answers:["filtering waste from our blood"]},
+     {prompt:"What is symbiosis?", answers:["when two living things help each other"]},
+     {prompt:"What kind of animals are frogs and toads?", answers:["amphibians"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Helpers, Government, and Our World", summary:"Grade 1 Social Studies strand review: students revisit the school librarian, local news, peacekeepers, the school board, water systems, world landmarks, the legislature, fair trade, and yearbooks.",
+   resourceLabel:"YouTube: Social Studies Review: Helpers, Government, and Our World", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Government%2C%20and%20Our%20World%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main job of a school librarian?", options:["Driving the school bus","Teaching math class","Helping students find and borrow books","Cooking school lunches"], answer:2},
+     {q:"What is the main job of a Canadian peacekeeper?", options:["Helping keep peace in other countries","Driving a school bus","Teaching school in Canada","Cooking meals at home"], answer:0},
+     {q:"What happens at a provincial legislature?", options:["Movies are shown to visitors","Elected leaders discuss and create laws","Food is sold to the public","Students take a math test"], answer:1},
+     {q:"What does fair trade mean?", options:["Buying goods in a way that pays workers fairly","A type of weather","A type of holiday","Buying the cheapest goods with no other thought"], answer:0},
+     {q:"What is a school yearbook?", options:["A book filled with photos and memories from the school year","A math textbook","A calendar with no pictures","A list of school rules only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is the main job of a school librarian?", answers:["helping students find and borrow books"]},
+     {prompt:"What do local radio and TV stations share?", answers:["news and weather"]},
+     {prompt:"What is fair trade?", answers:["buying goods in a way that pays workers fairly"]}
+   ]},
+]},
 ];
 
 export default curriculum;
