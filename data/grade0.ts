@@ -7725,6 +7725,586 @@ const curriculum: DayContent[] = [
      {prompt:"What is voting?", answers:["choosing a leader by picking a choice"]}
    ]},
 ]},
+{day:141, label:"Day 141 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -ell Words", summary:"Kindergarten Language strand: the -ell word family shares the same ending sound, as in bell, sell, tell, and shell.",
+   resourceLabel:"YouTube: Word Families: -ell Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ell%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ell family?", options:["Bell","Top","Sun","Cat"], answer:0},
+     {q:"Which word rhymes with shell?", options:["Sit","Sad","Sock","Bell"], answer:3},
+     {q:"Which word does NOT belong to the -ell family?", options:["Tell","Bell","Ball","Sell"], answer:2},
+     {q:"Complete the rhyme: I found a pretty seashell by the ___.", options:["wool","will","well","wall"], answer:2},
+     {q:"Words in the same word family share the same ___.", options:["Meaning","Ending sound","First letter","Colour"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with bell.", answers:["sell","tell","shell"]},
+     {prompt:"What ending sound do sell and tell share?", answers:["ell","the ell sound"]},
+     {prompt:"Is smell part of the -ell family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Doubles Minus One: Near Doubles", summary:"Kindergarten Math strand: students learn that a near double, like 5 plus 4, is close to a double fact, like 5 plus 5, but one less.",
+   resourceLabel:"YouTube: Doubles Minus One: Near Doubles", resourceUrl:"https://www.youtube.com/results?search_query=Doubles%20Minus%20One%3A%20Near%20Doubles%20kindergarten%20educational",
+   quiz:[
+     {q:"If 6 + 6 = 12, what is 6 + 5?", options:["11","12","10","13"], answer:0},
+     {q:"If 4 + 4 = 8, what is 4 + 3?", options:["5","6","7","8"], answer:2},
+     {q:"A near double is a fact that is close to a ___.", options:["Shape","Number word","Subtraction fact","Double fact"], answer:3},
+     {q:"What is 7 + 6 if you know 7 + 7 = 14?", options:["13","14","12","15"], answer:0},
+     {q:"Knowing doubles can help us solve ___ faster.", options:["Shapes","Near doubles","Letters","Colours"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is 5 plus 5?", answers:["10","ten"]},
+     {prompt:"What is 5 plus 4?", answers:["9","nine"]},
+     {prompt:"How does knowing a double help with a near double?", answers:["it is one less than the double","take one away from the double"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Ladybug", summary:"Kindergarten Science strand: a ladybug begins life as a tiny egg, hatches into a larva, forms a pupa, and becomes an adult ladybug with spotted wings.",
+   resourceLabel:"YouTube: Life Cycle of a Ladybug", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Ladybug%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the first stage of a ladybugs life cycle?", options:["Pupa","Larva","Adult","Egg"], answer:3},
+     {q:"What stage comes right after the egg?", options:["Adult","Cocoon","Larva","Pupa"], answer:2},
+     {q:"What is special about an adult ladybugs wings?", options:["They often have spots","They are always plain white","They cannot fly","They have no colour"], answer:0},
+     {q:"Which stage comes right before an adult ladybug?", options:["Pupa","Larva","Nothing","Egg"], answer:0},
+     {q:"A ladybug life cycle has how many main stages?", options:["3","4","5","2"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is the first stage of a ladybugs life?", answers:["egg","an egg"]},
+     {prompt:"What comes after the egg stage?", answers:["larva","a larva"]},
+     {prompt:"What does an adult ladybug look like?", answers:["it has spotted wings","small with spots"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Lifeguards: Keeping Us Safe at the Pool", summary:"Kindergarten Social Studies strand: lifeguards watch over swimmers at pools and beaches, ready to help keep everyone safe in the water.",
+   resourceLabel:"YouTube: Our Lifeguards: Keeping Us Safe at the Pool", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Lifeguards%3A%20Keeping%20Us%20Safe%20at%20the%20Pool%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a lifeguard?", options:["Keeping swimmers safe in the water","Cooking food","Driving a bus","Teaching math"], answer:0},
+     {q:"Where might a lifeguard work?", options:["In outer space","At a pool or beach","In a library","In a classroom"], answer:1},
+     {q:"Why should swimmers listen to a lifeguards instructions?", options:["Lifeguards have no important job","Only to be polite","It does not matter what they say","To stay safe in and around the water"], answer:3},
+     {q:"A lifeguard watches the water closely to ___.", options:["Count the waves","Spot anyone who needs help","Clean the pool deck only","Sell tickets"], answer:1},
+     {q:"Which tool might a lifeguard use to help a swimmer?", options:["A cooking pot","A rescue float or buoy","A telescope","A paintbrush"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a lifeguard do?", answers:["keeps swimmers safe","watches over the water"]},
+     {prompt:"Where might you see a lifeguard working?", answers:["a pool","a beach"]},
+     {prompt:"Why is it important to listen to a lifeguard?", answers:["they help keep us safe","they watch for danger"]}
+   ]},
+]},
+{day:142, label:"Day 142 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -ill Words", summary:"Kindergarten Language strand: the -ill word family shares the same ending sound, as in hill, fill, will, and spill.",
+   resourceLabel:"YouTube: Word Families: -ill Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ill%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ill family?", options:["Cup","Bed","Hill","Dog"], answer:2},
+     {q:"Which word rhymes with spill?", options:["Fill","Cap","Sun","Sit"], answer:0},
+     {q:"Which word does NOT belong to the -ill family?", options:["Hill","Will","Wall","Fill"], answer:2},
+     {q:"Complete the rhyme: I like to run up and down the ___.", options:["hill","hell","hull","hall"], answer:0},
+     {q:"Recognizing word families helps us read new words that share the same ___.", options:["Number of letters","Meaning","Colour","Ending sound"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with hill.", answers:["fill","will","spill"]},
+     {prompt:"What ending sound do fill and will share?", answers:["ill","the ill sound"]},
+     {prompt:"Is drill part of the -ill family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Number Bonds: Ways to Make 11", summary:"Kindergarten Math strand: students find different pairs of numbers that add together to make 11, such as 6 and 5, or 8 and 3.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 11", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%2011%20kindergarten%20educational",
+   quiz:[
+     {q:"Which pair of numbers makes 11?", options:["2 and 2","4 and 5","3 and 3","6 and 5"], answer:3},
+     {q:"What is 9 + 2?", options:["11","9","12","10"], answer:0},
+     {q:"What is 7 + 4?", options:["10","9","11","12"], answer:2},
+     {q:"If one part of 11 is 8, the other part is ___.", options:["3","4","2","5"], answer:0},
+     {q:"Number bonds show us different ways to make the same ___.", options:["Shape","Colour","Total","Letter"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name two numbers that add up to 11.", answers:["6 and 5","8 and 3"]},
+     {prompt:"What is 9 plus 2?", answers:["11","eleven"]},
+     {prompt:"How many ways can you make 11 with two numbers?", answers:["many ways","several ways"]}
+   ]},
+  {subject:"Science", title:"Beavers: Canadas National Animal", summary:"Kindergarten Science strand: the beaver is Canadas national animal, known for its flat tail and strong teeth that it uses to cut down trees and build dams.",
+   resourceLabel:"YouTube: Beavers: Canadas National Animal", resourceUrl:"https://www.youtube.com/results?search_query=Beavers%3A%20Canadas%20National%20Animal%20kindergarten%20educational",
+   quiz:[
+     {q:"What animal is the national animal of Canada?", options:["The moose","The loon","The beaver","The polar bear"], answer:2},
+     {q:"What does a beaver use to cut down trees?", options:["Its claws only","Its nose","Its strong front teeth","Its tail"], answer:2},
+     {q:"What does a beaver build using cut trees and branches?", options:["A web","A nest in a tree","A dam","A burrow underground only"], answer:2},
+     {q:"What is special about a beavers tail?", options:["It has feathers","It is flat and helps it swim","It is very long and thin","It glows in the dark"], answer:1},
+     {q:"Beavers are known for changing their environment by building ___.", options:["Dams","Bridges made of metal","Cities","Roads"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is Canadas national animal?", answers:["the beaver","beaver"]},
+     {prompt:"What body part helps a beaver cut down trees?", answers:["its teeth","strong teeth"]},
+     {prompt:"What does a beaver build with the trees it cuts?", answers:["a dam","dams and lodges"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Electricians: Keeping the Lights On", summary:"Kindergarten Social Studies strand: electricians install and fix the wires and lights that bring electricity to our homes and schools.",
+   resourceLabel:"YouTube: Our Electricians: Keeping the Lights On", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Electricians%3A%20Keeping%20the%20Lights%20On%20kindergarten%20educational",
+   quiz:[
+     {q:"What does an electrician mainly work with?", options:["Food and cooking","Cars and roads","Books and pencils","Electrical wires and lights"], answer:3},
+     {q:"Why is it important to have skilled electricians?", options:["They keep our power safe and working","Only for decoration","Electricity does not need care","They have no important job"], answer:0},
+     {q:"Where might an electrician be called to work?", options:["Only in outer space","A house or school with an electrical problem","Only underwater","Nowhere at all"], answer:1},
+     {q:"Which of these might an electrician fix?", options:["A leaky faucet","A broken light switch","A torn book page","A flat tire"], answer:1},
+     {q:"Working with electricity safely is important because it can be ___ if handled carelessly.", options:["Only a game","Invisible with no effect","Dangerous","Completely harmless"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does an electrician work with?", answers:["electricity and wires","wires and lights"]},
+     {prompt:"Why is an electricians job important?", answers:["keeps our lights and power working","helps keep us safe with electricity"]},
+     {prompt:"Name one place an electrician might work.", answers:["a house","a school"]}
+   ]},
+]},
+{day:143, label:"Day 143 — Wed", subjects:[
+  {subject:"Language", title:"Prefixes: Adding Re- to Change Meaning", summary:"Kindergarten Language strand: adding the prefix re- to the start of a word can mean to do something again, such as changing do into redo.",
+   resourceLabel:"YouTube: Prefixes: Adding Re- to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Re-%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word redo mean?", options:["To never do something","To stop doing something","To do something badly","To do something again"], answer:3},
+     {q:"What does the prefix re- usually add to a word?", options:["A number","The meaning of again","The meaning of not","A colour"], answer:1},
+     {q:"Which word means to fill something again?", options:["Refill","Filled","Unfill","Filling"], answer:0},
+     {q:"Adding re- to the word read makes the word ___.", options:["Reading only","Unread","Reread, meaning to read again","Readless"], answer:2},
+     {q:"A prefix is added to the ___ of a word.", options:["Nowhere","End","Beginning","Middle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does redo mean?", answers:["to do something again","do again"]},
+     {prompt:"What does the prefix re- usually mean?", answers:["again","to do again"]},
+     {prompt:"Give an example of a word with the prefix re-.", answers:["redo","refill"]}
+   ]},
+  {subject:"Math", title:"Time: Reading a Digital Clock", summary:"Kindergarten Math strand: students learn to read the hour and minutes shown on a digital clock, like a clock that shows 3:00.",
+   resourceLabel:"YouTube: Time: Reading a Digital Clock", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Digital%20Clock%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a digital clock use to show the time?", options:["Numbers","Colours","Hands","Pictures only"], answer:0},
+     {q:"What time is shown by 3:00 on a digital clock?", options:["Thirty oclock","Three oclock","Thirteen oclock","Three minutes"], answer:1},
+     {q:"On a digital clock, which number usually comes first?", options:["Neither","The hour","The seconds","The minutes"], answer:1},
+     {q:"If a digital clock shows 7:00, what time is it?", options:["Seventy oclock","Seven oclock","Seven minutes","Seventeen oclock"], answer:1},
+     {q:"A digital clock is different from a clock with hands because it shows ___.", options:["Only shapes","Numbers directly","No time at all","Only colours"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a digital clock show?", answers:["numbers for the time","the hour and minutes"]},
+     {prompt:"What does 3:00 mean on a digital clock?", answers:["3 oclock","three oclock"]},
+     {prompt:"Which number comes first on a digital clock, the hour or the minutes?", answers:["the hour","hour comes first"]}
+   ]},
+  {subject:"Science", title:"How Bread Is Made: From Wheat to Loaf", summary:"Kindergarten Science strand: bread starts as wheat grown on a farm, which is ground into flour, mixed into dough, and baked in an oven.",
+   resourceLabel:"YouTube: How Bread Is Made: From Wheat to Loaf", resourceUrl:"https://www.youtube.com/results?search_query=How%20Bread%20Is%20Made%3A%20From%20Wheat%20to%20Loaf%20kindergarten%20educational",
+   quiz:[
+     {q:"What crop is most bread made from?", options:["Rice","Cotton","Wheat","Grass"], answer:2},
+     {q:"What is wheat ground into to make bread?", options:["Sugar","Flour","Juice","Salt"], answer:1},
+     {q:"What do bakers mix flour with to make dough?", options:["Nothing at all","Water and other ingredients","Rocks","Sand"], answer:1},
+     {q:"Where is bread dough cooked?", options:["Underground","In a freezer","In an oven","In a river"], answer:2},
+     {q:"Bread making is an example of how food changes from a ___ to something we eat.", options:["Plant","Machine","Animal","Rock"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What plant is bread usually made from?", answers:["wheat","wheat grain"]},
+     {prompt:"What is wheat ground into?", answers:["flour","flour for baking"]},
+     {prompt:"Where is bread dough baked?", answers:["an oven","in an oven"]}
+   ]},
+  {subject:"SocialStudies", title:"Money From Around the World: Comparing Currency", summary:"Kindergarten Social Studies strand: different countries use different kinds of money, called currency, such as the Canadian dollar or the American dollar.",
+   resourceLabel:"YouTube: Money From Around the World: Comparing Currency", resourceUrl:"https://www.youtube.com/results?search_query=Money%20From%20Around%20the%20World%3A%20Comparing%20Currency%20kindergarten%20educational",
+   quiz:[
+     {q:"What word describes the money used by a country?", options:["Symbol","Anthem","Language","Currency"], answer:3},
+     {q:"What is the name of the currency used in Canada?", options:["The pound","The euro","The yen","The Canadian dollar"], answer:3},
+     {q:"Do all countries around the world use the exact same money?", options:["Only Canada uses money","No, different countries use different currency","Money is not used anywhere","Yes, every country uses the same money"], answer:1},
+     {q:"Why might a traveller need to exchange money when visiting another country?", options:["Because that country uses a different currency","Currency is only used in stores","All countries ban money","Money never changes anywhere"], answer:0},
+     {q:"Comparing currencies from different countries helps us learn about ___.", options:["Nothing important","Only colours","The world around us","Only shapes"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is money from a country called?", answers:["currency","a countrys currency"]},
+     {prompt:"Name the currency used in Canada.", answers:["the Canadian dollar","dollar"]},
+     {prompt:"Do all countries use the same money?", answers:["no","no they use different currency"]}
+   ]},
+]},
+{day:144, label:"Day 144 — Thu", subjects:[
+  {subject:"Language", title:"Suffixes: Adding -ful to Change Meaning", summary:"Kindergarten Language strand: adding the suffix -ful to the end of a word can mean full of something, such as changing help into helpful.",
+   resourceLabel:"YouTube: Suffixes: Adding -ful to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-ful%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word helpful mean?", options:["Full of help, ready to help","Angry","Sleepy","Not helpful at all"], answer:0},
+     {q:"What does the suffix -ful usually add to the meaning of a word?", options:["A number","A colour","Not having something","Full of something"], answer:3},
+     {q:"Which word means full of joy?", options:["Joyless","Unjoy","Joyful","Joying"], answer:2},
+     {q:"Adding -ful to the word care makes the word ___.", options:["Careless","Caring only","Uncared","Careful, meaning full of care"], answer:3},
+     {q:"A suffix is added to the ___ of a word.", options:["Nowhere","Beginning","End","Middle"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does helpful mean?", answers:["full of help","ready to help"]},
+     {prompt:"What does the suffix -ful usually mean?", answers:["full of","full of something"]},
+     {prompt:"Give an example of a word with the suffix -ful.", answers:["helpful","joyful"]}
+   ]},
+  {subject:"Math", title:"Measurement: Comparing Volume with Containers", summary:"Kindergarten Math strand: students compare how much different containers can hold, learning that some containers hold more than others.",
+   resourceLabel:"YouTube: Measurement: Comparing Volume with Containers", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Volume%20with%20Containers%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the volume of a container measure?", options:["Its colour","Its shape only","How much it can hold","How heavy it is"], answer:2},
+     {q:"Which container usually holds more water?", options:["A large bucket","A spoon","A small cup","A thimble"], answer:0},
+     {q:"How can you test which of two containers holds more?", options:["Guess with no testing","Weigh them with a ruler","Look at the colour only","Fill one with water and pour it into the other"], answer:3},
+     {q:"A container that holds less than another has a ___ volume.", options:["Equal","Bigger","Smaller","Unknown"], answer:2},
+     {q:"Comparing volume helps us understand how much something can ___.", options:["Cost","Weigh","Smell","Hold"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does volume tell us about a container?", answers:["how much it can hold","how much fits inside"]},
+     {prompt:"Which usually holds more, a big bucket or a small cup?", answers:["a big bucket","the bucket"]},
+     {prompt:"How can we check which container holds more?", answers:["fill them and compare","pour water and see"]}
+   ]},
+  {subject:"Science", title:"Recycling Symbols: What the Arrows Mean", summary:"Kindergarten Science strand: the recycling symbol has three arrows chasing each other, showing that materials can be turned into something new instead of thrown away.",
+   resourceLabel:"YouTube: Recycling Symbols: What the Arrows Mean", resourceUrl:"https://www.youtube.com/results?search_query=Recycling%20Symbols%3A%20What%20the%20Arrows%20Mean%20kindergarten%20educational",
+   quiz:[
+     {q:"How many arrows make up the recycling symbol?", options:["3","5","2","4"], answer:0},
+     {q:"What does the recycling symbol tell us about a material?", options:["It is dangerous","It must be thrown in the garbage","It can be turned into something new","It is made of gold"], answer:2},
+     {q:"Why is recycling helpful for the environment?", options:["It creates more garbage","It has no effect at all","It uses more resources for no reason","It reduces waste and reuses materials"], answer:3},
+     {q:"Which of these is often recyclable?", options:["Wet paper towels","A banana peel","A clean plastic bottle","Broken glass shards mixed with trash"], answer:2},
+     {q:"The recycling symbol reminds us to think before we ___ something.", options:["Wear it","Eat it","Paint it","Throw it away"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many arrows are in the recycling symbol?", answers:["3","three"]},
+     {prompt:"What does the recycling symbol mean?", answers:["materials can be reused","items can be turned into something new"]},
+     {prompt:"Why do we recycle?", answers:["to help take care of the earth","reduce waste"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Town Hall: Where Decisions Are Made", summary:"Kindergarten Social Studies strand: the town hall is a building where local leaders meet to make decisions and provide services for the community.",
+   resourceLabel:"YouTube: Our Town Hall: Where Decisions Are Made", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Town%20Hall%3A%20Where%20Decisions%20Are%20Made%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a town hall?", options:["A building where local leaders make decisions","A kind of school","A type of park","A place to buy groceries"], answer:0},
+     {q:"Who is one person who might work at a town hall?", options:["A doctor","A pilot","A farmer","The mayor"], answer:3},
+     {q:"Why is the town hall important to a community?", options:["It is closed at all times","It has no purpose","It is only used for sports","It is where decisions about the community are made"], answer:3},
+     {q:"Which of these might happen at a town hall?", options:["A private vacation","Nothing at all","A meeting about a new park","A birthday party for one family"], answer:2},
+     {q:"A town hall helps a community by providing ___.", options:["Only food","Services and leadership","Only toys","Nothing useful"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is a town hall?", answers:["a building where leaders meet","where community decisions are made"]},
+     {prompt:"Who might work at a town hall?", answers:["a mayor","local leaders"]},
+     {prompt:"Why is a town hall important?", answers:["it helps run the community","decisions are made there"]}
+   ]},
+]},
+{day:145, label:"Day 145 — Fri", subjects:[
+  {subject:"Language", title:"Homophones: Words That Sound the Same", summary:"Kindergarten Language strand: homophones are words that sound exactly the same but have different meanings and spellings, like to, too, and two.",
+   resourceLabel:"YouTube: Homophones: Words That Sound the Same", resourceUrl:"https://www.youtube.com/results?search_query=Homophones%3A%20Words%20That%20Sound%20the%20Same%20kindergarten%20educational",
+   quiz:[
+     {q:"What are homophones?", options:["Words that sound the same but have different meanings","Words that rhyme but sound different","Words that look the same","Words with no meaning"], answer:0},
+     {q:"Which pair is an example of homophones?", options:["Big and small","Sea and see","Run and walk","Cat and dog"], answer:1},
+     {q:"Do homophones always have the same spelling?", options:["Yes, always","They have no spelling","Only sometimes the same sound","No, they can be spelled differently"], answer:3},
+     {q:"Which word is a homophone of the number two?", options:["Ten","Too","Three","Twelve"], answer:1},
+     {q:"Homophones can sometimes make writing tricky because they ___.", options:["Never sound alike","Always look the same","Have no use","Sound alike but mean different things"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Give an example of two homophones.", answers:["to and too","sea and see"]},
+     {prompt:"Do homophones sound the same or different?", answers:["the same","they sound the same"]},
+     {prompt:"Do homophones always have the same spelling?", answers:["no","no they can be spelled differently"]}
+   ]},
+  {subject:"Math", title:"Money: Counting Dimes and Quarters", summary:"Kindergarten Math strand: students learn that a dime is worth 10 cents and a quarter is worth 25 cents, and practice adding them together.",
+   resourceLabel:"YouTube: Money: Counting Dimes and Quarters", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Counting%20Dimes%20and%20Quarters%20kindergarten%20educational",
+   quiz:[
+     {q:"How much is one dime worth?", options:["5 cents","10 cents","1 cent","25 cents"], answer:1},
+     {q:"How much is one quarter worth?", options:["20 cents","10 cents","25 cents","15 cents"], answer:2},
+     {q:"What is the total value of two dimes?", options:["20 cents","15 cents","10 cents","25 cents"], answer:0},
+     {q:"What is the total value of one quarter and one dime?", options:["35 cents","30 cents","25 cents","15 cents"], answer:0},
+     {q:"Which coin is worth more, a dime or a quarter?", options:["Neither has value","They are equal","A dime","A quarter"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How much is a dime worth?", answers:["10 cents","ten cents"]},
+     {prompt:"How much is a quarter worth?", answers:["25 cents","twenty five cents"]},
+     {prompt:"What is the total of one dime and one quarter?", answers:["35 cents","35"]}
+   ]},
+  {subject:"Science", title:"Our Immune System: Fighting Germs", summary:"Kindergarten Science strand: our immune system is the bodys way of fighting off germs to help keep us healthy.",
+   resourceLabel:"YouTube: Our Immune System: Fighting Germs", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Immune%20System%3A%20Fighting%20Germs%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of our immune system?", options:["Helping us taste food","Fighting off germs to keep us healthy","Helping us see","Helping us hear"], answer:1},
+     {q:"How does handwashing help our immune system?", options:["It only cleans our clothes","It has no effect","It makes germs stronger","It removes germs before they can make us sick"], answer:3},
+     {q:"Which of these can help keep our immune system strong?", options:["Eating healthy food and sleeping enough","Avoiding all fruits and vegetables","Never washing our hands","Staying up very late every night"], answer:0},
+     {q:"What might happen if germs get past our immune system?", options:["We instantly grow taller","We become stronger instantly","Nothing changes at all","We might get sick"], answer:3},
+     {q:"Our immune system helps protect our body like a ___.", options:["Type of food","Colour","Kind of toy","Defense team against germs"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does our immune system do?", answers:["fights off germs","helps keep us healthy"]},
+     {prompt:"Why is washing our hands helpful for our immune system?", answers:["it removes germs before they can make us sick","stops germs from spreading"]},
+     {prompt:"Name one way to help keep our immune system strong.", answers:["eating healthy food","getting enough sleep"]}
+   ]},
+  {subject:"SocialStudies", title:"Helping New Students Feel Welcome", summary:"Kindergarten Social Studies strand: when a new student joins our class, we can help them feel welcome by being friendly and showing them around.",
+   resourceLabel:"YouTube: Helping New Students Feel Welcome", resourceUrl:"https://www.youtube.com/results?search_query=Helping%20New%20Students%20Feel%20Welcome%20kindergarten%20educational",
+   quiz:[
+     {q:"What is one way to help a new student feel welcome?", options:["Being friendly and including them","Ignoring them completely","Being unkind to them","Avoiding them on purpose"], answer:0},
+     {q:"Why might starting at a new school feel hard for someone?", options:["Everything and everyone is unfamiliar at first","They already know everyone","New schools are never hard","It is never a big change"], answer:0},
+     {q:"Which is a kind thing to say to a new student?", options:["Welcome to our class, would you like to play","Nothing at all","Go away, we do not want you here","You do not belong here"], answer:0},
+     {q:"Helping others feel welcome is an example of being ___.", options:["Unfriendly","Rude","Careless","Kind and inclusive"], answer:3},
+     {q:"How might you help a new student learn classroom rules?", options:["Explain the rules kindly","Let them guess with no help","Get upset if they make a mistake","Ignore their questions"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"How can you help a new student feel welcome?", answers:["be friendly to them","show them around"]},
+     {prompt:"Why might a new student feel nervous?", answers:["everything is unfamiliar","they do not know anyone yet"]},
+     {prompt:"Name one kind thing you could say to a new student.", answers:["welcome to our class","do you want to play"]}
+   ]},
+]},
+{day:146, label:"Day 146 — Mon", subjects:[
+  {subject:"Language", title:"Contractions: Joining Two Words Together", summary:"Kindergarten Language strand: a contraction joins two words together into one shorter word, using an apostrophe to show missing letters, such as do not becoming a shorter word.",
+   resourceLabel:"YouTube: Contractions: Joining Two Words Together", resourceUrl:"https://www.youtube.com/results?search_query=Contractions%3A%20Joining%20Two%20Words%20Together%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a contraction?", options:["A very long word","A word with no meaning","Two words joined into one shorter word","A type of punctuation mark alone"], answer:2},
+     {q:"What mark is used in a contraction to show missing letters?", options:["A comma","A question mark","A period","An apostrophe"], answer:3},
+     {q:"Which two words can combine to form a contraction?", options:["Do and not","Big and small","Cat and dog","Red and blue"], answer:0},
+     {q:"Contractions make writing and speaking ___.", options:["Shorter and quicker","Silent","Impossible to understand","Longer"], answer:0},
+     {q:"Why do contractions use an apostrophe?", options:["To show that some letters were left out","To change the meaning completely","For no reason at all","To make the word longer"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does a contraction do?", answers:["joins two words into one","makes two words shorter"]},
+     {prompt:"What mark shows letters are missing in a contraction?", answers:["an apostrophe","apostrophe"]},
+     {prompt:"Give an example of two words that can be joined into a contraction.", answers:["do not","I am"]}
+   ]},
+  {subject:"Math", title:"Shapes: Composing Pictures with 2D Shapes", summary:"Kindergarten Math strand: students combine different 2D shapes, like triangles, squares, and circles, to build pictures such as a house or a boat.",
+   resourceLabel:"YouTube: Shapes: Composing Pictures with 2D Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Shapes%3A%20Composing%20Pictures%20with%202D%20Shapes%20kindergarten%20educational",
+   quiz:[
+     {q:"Which shape is often used for the roof of a house picture?", options:["Oval","Circle","Rhombus","Triangle"], answer:3},
+     {q:"Which shape could be combined with a triangle to build a simple house?", options:["Nothing else","A square","A single dot","A line"], answer:1},
+     {q:"Combining shapes to make a picture is called ___ shapes.", options:["Erasing","Hiding","Composing","Melting"], answer:2},
+     {q:"Which shapes could you combine to build a simple boat?", options:["No shapes at all","A trapezoid and a triangle","Only circles","Only lines"], answer:1},
+     {q:"Why is it useful to combine shapes to build pictures?", options:["It has no purpose","It only works with one shape","It helps us see how shapes fit together","It makes shapes disappear"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a shape you could use to make the roof of a house.", answers:["a triangle","triangle"]},
+     {prompt:"Name a shape you could use for the body of a boat.", answers:["a rectangle","trapezoid"]},
+     {prompt:"Why do we combine shapes to make pictures?", answers:["to build new pictures","shapes fit together to form pictures"]}
+   ]},
+  {subject:"Science", title:"Simple Circuits: Making a Light Bulb Glow", summary:"Kindergarten Science strand: a simple circuit connects a battery, wires, and a light bulb in a complete loop so that electricity can flow and make the bulb light up.",
+   resourceLabel:"YouTube: Simple Circuits: Making a Light Bulb Glow", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Circuits%3A%20Making%20a%20Light%20Bulb%20Glow%20kindergarten%20educational",
+   quiz:[
+     {q:"What provides the power in a simple circuit?", options:["Sunlight only","A cup of water","A rock","A battery"], answer:3},
+     {q:"What happens when a circuit is complete and connected properly?", options:["Nothing happens at all","The battery disappears","The light bulb glows","The wire melts instantly"], answer:2},
+     {q:"What connects the parts of a simple circuit together?", options:["String","Wires","Tape only","Glue"], answer:1},
+     {q:"What do we call a circuit that is broken and not connected all the way around?", options:["A perfect circuit","An open circuit","A full circuit","A closed circuit"], answer:1},
+     {q:"A simple circuit needs a battery, wires, and a ___ to work.", options:["Toy car","Book","Light bulb","Balloon"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What powers a simple circuit?", answers:["a battery","the battery"]},
+     {prompt:"What happens when a circuit is complete?", answers:["the light bulb glows","electricity flows and the bulb lights up"]},
+     {prompt:"What connects the battery to the light bulb?", answers:["wires","a wire"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Inventions: Things Made in Canada", summary:"Kindergarten Social Studies strand: Canadians have invented many useful things, such as basketball and insulin, that people around the world still use today.",
+   resourceLabel:"YouTube: Canadian Inventions: Things Made in Canada", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Inventions%3A%20Things%20Made%20in%20Canada%20kindergarten%20educational",
+   quiz:[
+     {q:"Which sport was invented by a Canadian named James Naismith?", options:["Golf","Tennis","Basketball","Soccer"], answer:2},
+     {q:"Why are Canadian inventions important to the world?", options:["They help and are used by people everywhere","They are only used in Canada","They have no impact on anyone","They were never used at all"], answer:0},
+     {q:"Which of these is an example of a Canadian invention?", options:["Insulin","Pizza","The airplane wing alone","Chocolate"], answer:0},
+     {q:"Inventions from Canada show that Canadians are ___.", options:["Unable to invent things","Creative and helpful to the world","Only good at sports","Not important"], answer:1},
+     {q:"Learning about Canadian inventions helps us understand ___.", options:["Nothing important","Only Canadian food","How Canada has contributed to the world","Only Canadian weather"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name something invented by a Canadian.", answers:["basketball","insulin"]},
+     {prompt:"Why are Canadian inventions important?", answers:["they help people around the world","they are used by many people"]},
+     {prompt:"Who invented basketball?", answers:["a Canadian named James Naismith","James Naismith"]}
+   ]},
+]},
+{day:147, label:"Day 147 — Tue", subjects:[
+  {subject:"Language", title:"Dialogue: When Characters Speak", summary:"Kindergarten Language strand: dialogue is when characters in a story talk, and it is often shown using quotation marks around the words they say.",
+   resourceLabel:"YouTube: Dialogue: When Characters Speak", resourceUrl:"https://www.youtube.com/results?search_query=Dialogue%3A%20When%20Characters%20Speak%20kindergarten%20educational",
+   quiz:[
+     {q:"What is dialogue in a story?", options:["The title of the book","The pictures in the book","The back cover","When characters speak"], answer:3},
+     {q:"What marks are usually used to show a character is speaking?", options:["Exclamation marks only","Question marks only","Periods only","Quotation marks"], answer:3},
+     {q:"Why might an author include dialogue in a story?", options:["To confuse the reader","To make the book longer for no reason","To remove the characters","To show what the characters say and feel"], answer:3},
+     {q:"Which of these is an example of dialogue?", options:["The book had ten pages","The sun was shining brightly","The character said hello to her friend","The story took place in a forest"], answer:2},
+     {q:"Dialogue helps readers understand a characters ___.", options:["Weight","Thoughts and feelings","Age only","Height"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is dialogue?", answers:["when characters talk in a story","characters speaking"]},
+     {prompt:"What marks show that a character is speaking?", answers:["quotation marks","talking marks"]},
+     {prompt:"Why do authors use dialogue?", answers:["to show what characters say","make the story feel real"]}
+   ]},
+  {subject:"Math", title:"Number Lines: Skip Counting by Twos", summary:"Kindergarten Math strand: students use a number line to skip count by twos, jumping from 2 to 4 to 6 and beyond.",
+   resourceLabel:"YouTube: Number Lines: Skip Counting by Twos", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Lines%3A%20Skip%20Counting%20by%20Twos%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next on a number line: 2, 4, 6, ___?", options:["10","9","8","7"], answer:2},
+     {q:"Skip counting by 2s on a number line, what comes after 10?", options:["11","12","14","13"], answer:1},
+     {q:"Each jump when skip counting by 2s on a number line covers ___ numbers.", options:["4","3","1","2"], answer:3},
+     {q:"Which sequence shows skip counting by 2s?", options:["2, 4, 8, 16","2, 3, 4, 5","2, 4, 6, 8","2, 5, 8, 11"], answer:2},
+     {q:"A number line helps us see the ___ between numbers when we skip count.", options:["Jumps or pattern","Colours","Letters","Shapes"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 2, 4, 6 on a number line?", answers:["8","eight"]},
+     {prompt:"What is a number line used for when skip counting?", answers:["to jump between numbers","to see the pattern of jumps"]},
+     {prompt:"Skip count by 2s from 0 to 10.", answers:["0,2,4,6,8,10","0 2 4 6 8 10"]}
+   ]},
+  {subject:"Science", title:"Animal Tracks: Footprints in the Snow", summary:"Kindergarten Science strand: many animals leave tracks, or footprints, in snow or mud, and we can use the shape of the tracks to guess which animal made them.",
+   resourceLabel:"YouTube: Animal Tracks: Footprints in the Snow", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Tracks%3A%20Footprints%20in%20the%20Snow%20kindergarten%20educational",
+   quiz:[
+     {q:"What are animal tracks?", options:["Footprints animals leave behind","A type of animal food","A kind of nest","A sound animals make"], answer:0},
+     {q:"Where can animal tracks often be seen clearly?", options:["In the middle of the ocean","In the sky","In snow or soft mud","On a sunny sidewalk"], answer:2},
+     {q:"How can the shape of a track help us?", options:["It tells us the animals age exactly","It can help us guess which animal made it","It has no useful information","It tells us the animals favourite colour"], answer:1},
+     {q:"Which of these might leave visible tracks in snow?", options:["A jellyfish","A rabbit","A whale","A goldfish"], answer:1},
+     {q:"Studying animal tracks is a way scientists learn about animals without ___.", options:["Leaving their home","Any effort at all","Using their eyes","Seeing the animal directly"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What are animal tracks?", answers:["footprints animals leave behind","footprints in snow or mud"]},
+     {prompt:"Where might you easily see animal tracks?", answers:["in snow","in mud or snow"]},
+     {prompt:"How can tracks help us learn about an animal?", answers:["the shape can show which animal made them","they show the animal was there"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Recycling Truck Drivers: Collecting Bottles and Cans", summary:"Kindergarten Social Studies strand: recycling truck drivers collect bottles, cans, and paper from our homes so they can be turned into new things instead of going to waste.",
+   resourceLabel:"YouTube: Our Recycling Truck Drivers: Collecting Bottles and Cans", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Recycling%20Truck%20Drivers%3A%20Collecting%20Bottles%20and%20Cans%20kindergarten%20educational",
+   quiz:[
+     {q:"What do recycling truck drivers mainly collect?", options:["Bottles, cans, and paper","Wild animals","Fresh food","Books from the library"], answer:0},
+     {q:"Why is the work of recycling truck drivers helpful for the environment?", options:["It creates more pollution on purpose","It only helps one family","It has no benefit at all","It helps materials get reused instead of wasted"], answer:3},
+     {q:"What often happens to materials after a recycling truck collects them?", options:["Nothing happens to them","They are processed and turned into new products","They disappear completely","They are thrown into the ocean"], answer:1},
+     {q:"How can families help recycling truck drivers do their job well?", options:["Hiding the bins","Sorting recyclables correctly before pickup","Ignoring recycling completely","Mixing all garbage together"], answer:1},
+     {q:"Recycling helps our community by ___.", options:["Reducing waste and reusing materials","Increasing pollution","Doing nothing useful","Wasting more resources"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do recycling truck drivers collect?", answers:["bottles, cans, and paper","recyclable materials"]},
+     {prompt:"Why is their job helpful for the environment?", answers:["recycled materials do not go to waste","they help reduce waste"]},
+     {prompt:"What happens to the materials after they are collected?", answers:["they are turned into new things","they get recycled into new products"]}
+   ]},
+]},
+{day:148, label:"Day 148 — Wed", subjects:[
+  {subject:"Language", title:"Sequencing Events: Story Order with Pictures", summary:"Kindergarten Language strand: students look at pictures from a story and put them in order to show what happened first, next, and last.",
+   resourceLabel:"YouTube: Sequencing Events: Story Order with Pictures", resourceUrl:"https://www.youtube.com/results?search_query=Sequencing%20Events%3A%20Story%20Order%20with%20Pictures%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to sequence events in a story?", options:["Drawing new pictures","Changing the characters","Putting events in the order they happened","Removing the ending"], answer:2},
+     {q:"Which word tells us an event happens at the very beginning?", options:["Never","Sometimes","Last","First"], answer:3},
+     {q:"Which word tells us an event happens at the very end?", options:["Before","First","Last","Next"], answer:2},
+     {q:"Why do we use pictures to help sequence a story?", options:["They only show the ending","They confuse the order","They help show the order of events clearly","Pictures have no use in stories"], answer:2},
+     {q:"Putting story pictures in the correct order helps readers understand the ___.", options:["Cover colour","Plot","Page count","Font size"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does sequencing events mean?", answers:["putting events in order","showing what happened first, next, and last"]},
+     {prompt:"What word describes the event that happens first?", answers:["first","beginning"]},
+     {prompt:"What word describes the event that happens last?", answers:["last","end"]}
+   ]},
+  {subject:"Math", title:"Estimating Quantities: About How Many in a Jar", summary:"Kindergarten Math strand: students make a reasonable guess about how many objects are in a jar before counting to check.",
+   resourceLabel:"YouTube: Estimating Quantities: About How Many in a Jar", resourceUrl:"https://www.youtube.com/results?search_query=Estimating%20Quantities%3A%20About%20How%20Many%20in%20a%20Jar%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to estimate how many objects are in a jar?", options:["Know the exact number with no guessing","Measure the jars height only","Make a careful guess before counting","Ignore the jar completely"], answer:2},
+     {q:"How can we find out if our estimate was close to the real amount?", options:["Guess again with no counting","Count the objects carefully","Ignore it forever","Shake the jar and stop"], answer:1},
+     {q:"A good estimate is a guess that is ___.", options:["Impossible to make","Reasonable and thoughtful","Wildly random","Always exactly correct"], answer:1},
+     {q:"Which jar would likely hold more small objects, a tall thin jar or a tiny jar?", options:["A tiny jar","They always hold the same amount","Neither can hold objects","A tall thin jar"], answer:3},
+     {q:"Estimating before counting helps us practise thinking about ___.", options:["Nothing useful","Numbers and amounts","Shapes only","Colours only"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to estimate a quantity?", answers:["make a careful guess about how many","guess about how many there are"]},
+     {prompt:"How can you check if your estimate was close?", answers:["count the objects","count to check"]},
+     {prompt:"Why might we estimate before counting?", answers:["to practise making a good guess","counting takes time"]}
+   ]},
+  {subject:"Science", title:"Camels: Animals of the Desert", summary:"Kindergarten Science strand: camels are animals well suited to life in the desert, with humps that store fat and the ability to go a long time without water.",
+   resourceLabel:"YouTube: Camels: Animals of the Desert", resourceUrl:"https://www.youtube.com/results?search_query=Camels%3A%20Animals%20of%20the%20Desert%20kindergarten%20educational",
+   quiz:[
+     {q:"What kind of habitat are camels well suited for?", options:["The ocean","The desert","The Arctic","The rainforest"], answer:1},
+     {q:"What is actually stored inside a camels hump?", options:["Fat","Sand","Air","Water"], answer:0},
+     {q:"What is a camel able to do that helps it survive the desert?", options:["Breathe underwater","Fly over sand dunes","Go a long time without drinking water","Live only in snow"], answer:2},
+     {q:"Which body feature helps protect a camels eyes from blowing sand?", options:["Sharp claws","A long tail","Big ears","Long eyelashes"], answer:3},
+     {q:"Camels are well adapted to living in a habitat that is usually ___.", options:["Underwater","Covered in snow","Hot and dry","Cold and wet"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What kind of environment do camels live in?", answers:["the desert","a desert"]},
+     {prompt:"What is stored in a camels hump?", answers:["fat","fat, not water"]},
+     {prompt:"How long can a camel go without drinking water?", answers:["a long time","many days"]}
+   ]},
+  {subject:"SocialStudies", title:"Provincial and Territorial Flags: Symbols of Canada", summary:"Kindergarten Social Studies strand: each province and territory in Canada has its own flag, with special colours and pictures that represent that place.",
+   resourceLabel:"YouTube: Provincial and Territorial Flags: Symbols of Canada", resourceUrl:"https://www.youtube.com/results?search_query=Provincial%20and%20Territorial%20Flags%3A%20Symbols%20of%20Canada%20kindergarten%20educational",
+   quiz:[
+     {q:"What does each provincial or territorial flag represent?", options:["Only cities","Nothing at all","The whole world","That specific province or territory"], answer:3},
+     {q:"Do all of Canadas provinces and territories share one identical flag?", options:["Yes, they are all the same","Only two provinces have flags","Flags are not allowed in Canada","No, each has its own unique flag"], answer:3},
+     {q:"What might a provincial flag include?", options:["Nothing visible","Only plain white","Random scribbles","Special colours and symbols"], answer:3},
+     {q:"Why might people be proud of their provinces flag?", options:["It represents their home and identity","It represents another country","Flags have no meaning","It is only used once a year"], answer:0},
+     {q:"Learning about provincial flags helps us understand more about ___.", options:["Canadas different provinces and territories","Only the capital city","Nothing important","Only sports teams"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does a provincial flag represent?", answers:["a province","that province or territory"]},
+     {prompt:"Do all provinces have the same flag?", answers:["no","no, each one is different"]},
+     {prompt:"Name one thing a flag might show.", answers:["a symbol or picture","special colours"]}
+   ]},
+]},
+{day:149, label:"Day 149 — Thu", subjects:[
+  {subject:"Language", title:"Question Words: Why and How", summary:"Kindergarten Language strand: the question words why and how help us ask about reasons and the way something happens.",
+   resourceLabel:"YouTube: Question Words: Why and How", resourceUrl:"https://www.youtube.com/results?search_query=Question%20Words%3A%20Why%20and%20How%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the question word why usually ask about?", options:["A time","A reason","A place","A person"], answer:1},
+     {q:"What does the question word how usually ask about?", options:["A colour","A shape only","The way something is done","A number only"], answer:2},
+     {q:"Which question uses the word why?", options:["Where is the park?","Who is that?","What time is it?","Why is the sky blue?"], answer:3},
+     {q:"Which question uses the word how?", options:["When is it?","How do birds fly?","Who made this?","Where do we go?"], answer:1},
+     {q:"Asking why and how helps us understand ___ about the world.", options:["Nothing new","Reasons and processes","Only colours","Only names"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does the question word why ask about?", answers:["a reason","the reason for something"]},
+     {prompt:"What does the question word how ask about?", answers:["the way something happens","the way or method"]},
+     {prompt:"Give an example of a question using why.", answers:["why is the sky blue","why do birds fly"]}
+   ]},
+  {subject:"Math", title:"Building Numbers with Tens and Ones Blocks", summary:"Kindergarten Math strand: students use blocks that represent tens and ones to build two-digit numbers, such as using 2 tens blocks and 3 ones blocks to make 23.",
+   resourceLabel:"YouTube: Building Numbers with Tens and Ones Blocks", resourceUrl:"https://www.youtube.com/results?search_query=Building%20Numbers%20with%20Tens%20and%20Ones%20Blocks%20kindergarten%20educational",
+   quiz:[
+     {q:"How many tens blocks and ones blocks make the number 23?", options:["2 tens and 3 ones","3 tens and 3 ones","2 tens and 2 ones","3 tens and 2 ones"], answer:0},
+     {q:"What number is shown by 4 tens blocks and 0 ones blocks?", options:["40","4","400","14"], answer:0},
+     {q:"What number is shown by 1 ten block and 5 ones blocks?", options:["51","5","10","15"], answer:3},
+     {q:"Using tens and ones blocks helps us understand ___.", options:["Letters","Colours","Shapes","Place value"], answer:3},
+     {q:"Which is bigger, a tens block or a ones block?", options:["Neither has size","A ones block","They are the same size","A tens block"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How many tens blocks and ones blocks make 23?", answers:["2 tens and 3 ones","2 tens blocks and 3 ones blocks"]},
+     {prompt:"What number is made with 3 tens blocks and 0 ones blocks?", answers:["30","thirty"]},
+     {prompt:"Why do we use tens and ones blocks?", answers:["to help build and see numbers","to understand place value"]}
+   ]},
+  {subject:"Science", title:"Icebergs: Giant Pieces of Floating Ice", summary:"Kindergarten Science strand: an iceberg is a huge piece of ice that has broken off a glacier and floats in the ocean, with most of it hidden underwater.",
+   resourceLabel:"YouTube: Icebergs: Giant Pieces of Floating Ice", resourceUrl:"https://www.youtube.com/results?search_query=Icebergs%3A%20Giant%20Pieces%20of%20Floating%20Ice%20kindergarten%20educational",
+   quiz:[
+     {q:"What is an iceberg?", options:["A huge piece of floating ice","A kind of boat","A warm ocean current","A type of fish"], answer:0},
+     {q:"Where does an iceberg usually come from?", options:["It breaks off a glacier","It is made in a factory","It grows from the ocean floor","It falls from the sky as one piece"], answer:0},
+     {q:"Which part of an iceberg is usually hidden underwater?", options:["All of it floats on top","None of it","Most of it","A tiny bit"], answer:2},
+     {q:"Why can icebergs be dangerous for ships?", options:["They make loud warning sounds","A large hidden part is underwater and hard to see","They never move","They are always painted bright colours"], answer:1},
+     {q:"Icebergs are found in very ___ parts of the ocean.", options:["Cold","Sandy","Hot","Dry"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is an iceberg?", answers:["a huge piece of floating ice","a giant piece of ice in the ocean"]},
+     {prompt:"Where does an iceberg come from?", answers:["it breaks off a glacier","a glacier"]},
+     {prompt:"Is most of an iceberg above or below the water?", answers:["below the water","below"]}
+   ]},
+  {subject:"SocialStudies", title:"World Landmarks: Famous Places Around the World", summary:"Kindergarten Social Studies strand: world landmarks are famous and special places found in different countries, like a tall tower or an ancient pyramid, that many people like to visit and learn about.",
+   resourceLabel:"YouTube: World Landmarks: Famous Places Around the World", resourceUrl:"https://www.youtube.com/results?search_query=World%20Landmarks%3A%20Famous%20Places%20Around%20the%20World%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a world landmark?", options:["A weather pattern","A famous and special place people like to visit","A type of food","A kind of animal"], answer:1},
+     {q:"Which of these is an example of a world landmark?", options:["A common street sign","A plain sidewalk","A regular kitchen chair","A famous ancient pyramid"], answer:3},
+     {q:"Why might people travel to see a world landmark?", options:["Landmarks cannot be visited","To see something special and learn about it","To avoid learning anything new","Landmarks have no interest to anyone"], answer:1},
+     {q:"Learning about landmarks in other countries helps us understand ___.", options:["Only our own country","Different places and cultures around the world","Only our own school","Nothing outside our own street"], answer:1},
+     {q:"Which best describes why landmarks are considered special?", options:["They are the same everywhere","They have no history at all","They are chosen completely at random","They represent something important about a place or its history"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is a world landmark?", answers:["a famous special place","a well known place in the world"]},
+     {prompt:"Name a world landmark.", answers:["a pyramid","a famous tower"]},
+     {prompt:"Why do people visit world landmarks?", answers:["to see something special","to learn about the place"]}
+   ]},
+]},
+{day:150, label:"Day 150 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: New Word Families, Word Parts, and Story Skills", summary:"Kindergarten Language strand review: students revisit the -ell and -ill word families, prefixes and suffixes, homophones, contractions, dialogue, sequencing, and question words.",
+   resourceLabel:"YouTube: Language Review: New Word Families, Word Parts, and Story Skills", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20New%20Word%20Families%2C%20Word%20Parts%2C%20and%20Story%20Skills%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ell family?", options:["Sun","Top","Cat","Bell"], answer:3},
+     {q:"What does the word helpful mean?", options:["Sleepy","Not helpful at all","Angry","Full of help, ready to help"], answer:3},
+     {q:"What are homophones?", options:["Words that look the same","Words with no meaning","Words that sound the same but have different meanings","Words that rhyme but sound different"], answer:2},
+     {q:"What is a contraction?", options:["A word with no meaning","Two words joined into one shorter word","A very long word","A type of punctuation mark alone"], answer:1},
+     {q:"What does the question word why usually ask about?", options:["A time","A person","A reason","A place"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a word from the -ell or -ill family.", answers:["bell","hill"]},
+     {prompt:"What does the prefix re- usually mean?", answers:["again"]},
+     {prompt:"What is dialogue in a story?", answers:["when characters speak"]}
+   ]},
+  {subject:"Math", title:"Math Review: Near Doubles, Time, Money, and Place Value", summary:"Kindergarten Math strand review: students revisit near doubles, number bonds to 11, digital clocks, comparing volume, dimes and quarters, shapes, number lines, estimating, and tens and ones blocks.",
+   resourceLabel:"YouTube: Math Review: Near Doubles, Time, Money, and Place Value", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Near%20Doubles%2C%20Time%2C%20Money%2C%20and%20Place%20Value%20kindergarten%20educational",
+   quiz:[
+     {q:"If 6 + 6 = 12, what is 6 + 5?", options:["10","13","12","11"], answer:3},
+     {q:"What time is shown by 3:00 on a digital clock?", options:["Thirty oclock","Three oclock","Thirteen oclock","Three minutes"], answer:1},
+     {q:"How much is one quarter worth?", options:["15 cents","20 cents","10 cents","25 cents"], answer:3},
+     {q:"What comes next on a number line: 2, 4, 6, ___?", options:["10","8","7","9"], answer:1},
+     {q:"What number is shown by 4 tens blocks and 0 ones blocks?", options:["40","14","4","400"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"If 6 + 6 = 12, what is 6 + 5?", answers:["11"]},
+     {prompt:"How much is one quarter worth?", answers:["25 cents"]},
+     {prompt:"How many tens blocks and ones blocks make 23?", answers:["2 tens and 3 ones"]}
+   ]},
+  {subject:"Science", title:"Science Review: Ladybugs, Animals, and Our Bodies", summary:"Kindergarten Science strand review: students revisit the ladybug life cycle, beavers, bread making, recycling symbols, our immune system, simple circuits, animal tracks, camels, and icebergs.",
+   resourceLabel:"YouTube: Science Review: Ladybugs, Animals, and Our Bodies", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Ladybugs%2C%20Animals%2C%20and%20Our%20Bodies%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the first stage of a ladybugs life cycle?", options:["Adult","Pupa","Egg","Larva"], answer:2},
+     {q:"What animal is the national animal of Canada?", options:["The polar bear","The beaver","The moose","The loon"], answer:1},
+     {q:"What is the main job of our immune system?", options:["Helping us see","Helping us hear","Fighting off germs to keep us healthy","Helping us taste food"], answer:2},
+     {q:"What provides the power in a simple circuit?", options:["A battery","A cup of water","A rock","Sunlight only"], answer:0},
+     {q:"What kind of habitat are camels well suited for?", options:["The Arctic","The rainforest","The desert","The ocean"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is the first stage of a ladybugs life cycle?", answers:["egg"]},
+     {prompt:"What animal is Canadas national animal?", answers:["the beaver"]},
+     {prompt:"What is the main job of our immune system?", answers:["fighting off germs"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Helpers, Money, and Our World", summary:"Kindergarten Social Studies strand review: students revisit lifeguards, electricians, world currency, the town hall, welcoming new students, Canadian inventions, recycling truck drivers, provincial flags, and world landmarks.",
+   resourceLabel:"YouTube: Social Studies Review: Helpers, Money, and Our World", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Money%2C%20and%20Our%20World%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a lifeguard?", options:["Cooking food","Teaching math","Keeping swimmers safe in the water","Driving a bus"], answer:2},
+     {q:"What word describes the money used by a country?", options:["Currency","Anthem","Language","Symbol"], answer:0},
+     {q:"What is a town hall?", options:["A kind of school","A building where local leaders make decisions","A type of park","A place to buy groceries"], answer:1},
+     {q:"Which sport was invented by a Canadian named James Naismith?", options:["Basketball","Golf","Tennis","Soccer"], answer:0},
+     {q:"What is a world landmark?", options:["A famous and special place people like to visit","A type of food","A weather pattern","A kind of animal"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is the main job of a lifeguard?", answers:["keeping swimmers safe"]},
+     {prompt:"What word describes the money used by a country?", answers:["currency"]},
+     {prompt:"What is a world landmark?", answers:["a famous special place"]}
+   ]},
+]},
 ];
 
 export default curriculum;
