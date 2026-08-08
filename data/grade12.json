@@ -34098,5 +34098,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 141,
+    "label": "Day 141 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Mock-Epic: Heroic Form Turned to Comic Purpose",
+        "summary": "Grade 12 English strand: the mock-epic borrows the elevated conventions of epic poetry, such as invocations, extended similes, and grand battle scenes, and applies them to a trivial subject, generating satire through the mismatch between grand form and petty content.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does a mock-epic typically do with the grand conventions of epic poetry?",
+            "options": [
+              "Applies them to a trivial or minor subject to create a comic, satirical effect",
+              "Turns the epic into a private diary with no audience",
+              "Removes all poetic devices from the epic form",
+              "Uses them only to describe genuine historical battles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What effect is created by using elevated epic language to describe a trivial event?",
+            "options": [
+              "A serious, tragic tone throughout",
+              "An effect identical to that of a straightforward epic",
+              "A completely literal, unremarkable description",
+              "A comic mismatch between grand form and petty content"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which epic convention might a mock-epic parody, such as calling on a muse for a trivial subject?",
+            "options": [
+              "A ban on figurative language",
+              "The use of complete silence",
+              "The invocation to a muse",
+              "The absence of any narrator"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the primary purpose of the mock-epic as a literary mode?",
+            "options": [
+              "To eliminate humour from serious poetry",
+              "To replace the epic tradition entirely",
+              "To satirize a subject by treating it with exaggerated, undeserved grandeur",
+              "To document real historical events with total accuracy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poet choose the mock-epic form to critique fashionable high society?",
+            "options": [
+              "It only works when describing real wars",
+              "Its exaggerated grandeur exposes the triviality of the behaviour being described",
+              "It cannot be applied to social behaviour",
+              "The form requires total seriousness with no exaggeration"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: The Poisson Distribution and Modelling Rare Events",
+        "summary": "Grade 12 Advanced Functions strand: the Poisson distribution models the number of times a rare, independent event occurs in a fixed interval of time or space, given a known average rate, and is widely applied to phenomena such as call arrivals or radioactive decay counts.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What kind of events does the Poisson distribution typically model?",
+            "options": [
+              "Rare, independent events occurring a certain number of times in a fixed interval",
+              "Events with no possible variation whatsoever",
+              "Events that always occur at exactly the same time",
+              "Only events with a probability of exactly one half"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What single parameter primarily characterizes a Poisson distribution?",
+            "options": [
+              "The total population size only",
+              "The number of trials in a binomial experiment",
+              "The average rate at which events occur in the interval",
+              "The standard deviation of a normal distribution"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a classic example of a Poisson-distributed quantity?",
+            "options": [
+              "The colour of a randomly chosen car",
+              "The outcome of a single coin flip",
+              "The exact height of a randomly chosen adult",
+              "The number of phone calls received by a call centre in an hour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the Poisson distribution relate to the binomial distribution studied earlier in this course?",
+            "options": [
+              "It can approximate a binomial distribution when trials are many and the success probability is small",
+              "The Poisson distribution only applies to continuous data",
+              "The two distributions have no mathematical relationship",
+              "The binomial distribution cannot model rare events at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What assumption is made about events in a Poisson process?",
+            "options": [
+              "Every event depends heavily on the previous event",
+              "Events occur independently of one another at a constant average rate",
+              "The rate of events changes randomly with no pattern",
+              "Only two events can ever occur in total"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Cauchy-Euler Equations and Variable-Coefficient Differential Equations",
+        "summary": "Grade 12 Calculus strand: a Cauchy-Euler equation is a linear differential equation whose coefficients are powers of the independent variable rather than constants, solved by substituting a trial solution of the form x raised to a power r to reduce the equation to a polynomial characteristic equation.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What distinguishes a Cauchy-Euler equation from the constant-coefficient equations studied earlier?",
+            "options": [
+              "It can only be solved numerically, never analytically",
+              "It has no derivatives of any kind",
+              "It is always a first-order equation",
+              "Its coefficients are powers of the independent variable rather than constants"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What trial solution is typically substituted to solve a Cauchy-Euler equation?",
+            "options": [
+              "A constant function with no variable",
+              "A trial solution is never used for this type of equation",
+              "x raised to an unknown power r",
+              "The sine of x only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of equation for r results after substituting the trial solution into a Cauchy-Euler equation?",
+            "options": [
+              "A polynomial characteristic equation in r",
+              "A first-degree equation with no solutions",
+              "An equation with no relationship to r",
+              "A differential equation identical to the original"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a Cauchy-Euler equation arise in physical applications despite having variable coefficients?",
+            "options": [
+              "Certain physical systems, such as some involving radial symmetry, naturally produce equations with power-law coefficients",
+              "Cauchy-Euler equations only arise in purely abstract mathematics with no application",
+              "Every physical system produces exactly the same differential equation",
+              "Physical systems never produce variable-coefficient equations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does solving a Cauchy-Euler equation compare to solving a constant-coefficient linear equation studied earlier?",
+            "options": [
+              "Cauchy-Euler equations require no characteristic equation at all",
+              "Both reduce to finding roots of a characteristic equation, though the substitution differs",
+              "Constant-coefficient equations cannot be solved using a characteristic equation",
+              "The two methods share no similarities whatsoever"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Magnus Effect and the Physics of Spinning Projectiles",
+        "summary": "Grade 12 Physics strand: the Magnus effect describes the curved path taken by a spinning object moving through a fluid, arising because the spin creates a pressure difference across the object as it drags fluid faster on one side and slower on the other, producing a sideways lift force.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What is the Magnus effect?",
+            "options": [
+              "The curved path taken by a spinning object moving through a fluid, caused by a sideways lift force",
+              "The complete absence of drag on a spinning object",
+              "A magnetic force acting on any moving object",
+              "The tendency of an object to fall in a perfectly straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What causes the sideways force responsible for the Magnus effect?",
+            "options": [
+              "The complete absence of air around the object",
+              "A pressure difference created as the spinning surface drags fluid faster on one side than the other",
+              "A change in the objects mass as it spins",
+              "An external magnetic field acting on the object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which everyday example commonly demonstrates the Magnus effect?",
+            "options": [
+              "A ball dropped straight down with no spin",
+              "A block sliding without any rotation",
+              "A stationary object sitting on a table",
+              "A spinning ball curving in flight, as in soccer or baseball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does increasing the spin rate of a projectile typically affect the strength of the Magnus effect?",
+            "options": [
+              "It has no effect on the force at all",
+              "It generally increases the sideways force and the resulting curve",
+              "It reverses the direction of gravity",
+              "It always reduces the curve to zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What broader fluid dynamics principle underlies the pressure difference in the Magnus effect?",
+            "options": [
+              "Fluid pressure is always identical regardless of its speed",
+              "Faster-moving fluid exerts lower pressure than slower-moving fluid on the objects surface",
+              "Spinning objects experience no interaction with surrounding fluid",
+              "The effect depends only on the objects colour"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 142,
+    "label": "Day 142 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Pastoral Tradition: Idealized Nature and Rural Life in Literature",
+        "summary": "Grade 12 English strand: the pastoral tradition idealizes rural life and nature, often through the voices of shepherds or rustic figures, contrasting the simplicity and harmony of the countryside with the corruption or complexity of court and city life.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does the pastoral tradition typically idealize?",
+            "options": [
+              "Industrial machinery and urban commerce",
+              "The corruption of royal courts with no counterpoint",
+              "Rural life and nature, often voiced through shepherd or rustic figures",
+              "The complexity and noise of city life"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What contrast does pastoral literature often draw?",
+            "options": [
+              "The simplicity of the countryside against the corruption or complexity of court and city life",
+              "A comparison between two shepherds with identical views",
+              "Modern technology against ancient technology",
+              "Two equally corrupt cities with no rural setting at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which kind of figure commonly voices pastoral poetry?",
+            "options": [
+              "A king addressing his court",
+              "A soldier narrating a battle",
+              "A shepherd or other rustic character",
+              "A scientist explaining a discovery"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poet use a pastoral setting to comment indirectly on court life?",
+            "options": [
+              "The rural distance allows an indirect, often gentler critique of courtly behaviour",
+              "Indirect critique is impossible in pastoral poetry",
+              "Court life and pastoral settings are considered identical",
+              "Pastoral settings cannot comment on anything beyond farming"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the pastoral tradition differ from the pathetic fallacy studied earlier, which projects emotion onto nature?",
+            "options": [
+              "Pastoral literature never involves nature imagery at all",
+              "The two techniques are entirely identical in every respect",
+              "The pathetic fallacy always requires a rural setting",
+              "Pastoral idealizes the rural world itself as a setting and theme rather than only projecting emotion onto it"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: The Law of Quadratic Reciprocity",
+        "summary": "Grade 12 Advanced Functions strand: the law of quadratic reciprocity relates whether p is a quadratic residue modulo q to whether q is a quadratic residue modulo p, for distinct odd primes p and q, forming one of the most celebrated results in classical number theory.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does the law of quadratic reciprocity relate?",
+            "options": [
+              "The value of an unrelated trigonometric identity",
+              "The sum of two unrelated even numbers",
+              "The number of divisors of a composite number only",
+              "Whether p is a quadratic residue modulo q to whether q is a quadratic residue modulo p"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of numbers p and q does the law of quadratic reciprocity concern?",
+            "options": [
+              "Distinct odd primes",
+              "Any two even numbers",
+              "Non-integer real numbers",
+              "Only the number one and itself"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a quadratic residue modulo n?",
+            "options": [
+              "A number that is always negative",
+              "Any number that is not an integer",
+              "A number congruent to a perfect square modulo n",
+              "A number with no relationship to squares at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which earlier-studied concept does quadratic reciprocity build directly on?",
+            "options": [
+              "Quadratic residues and the Legendre symbol",
+              "The birthday problem",
+              "The concept of derangements",
+              "Chebyshev polynomials"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is quadratic reciprocity considered significant in the history of number theory?",
+            "options": [
+              "It only applies to the number zero",
+              "It has no practical or theoretical significance whatsoever",
+              "It provides an efficient way to determine quadratic residues without exhaustive testing and is a celebrated deep result",
+              "It was proven to be false and later discarded"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Exact Differential Equations and the Test for Exactness",
+        "summary": "Grade 12 Calculus strand: a first-order differential equation is exact when it can be written as the differential of some function, a property checked using a partial-derivative test, after which the equation is solved directly by finding that underlying function.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does it mean for a first-order differential equation to be exact?",
+            "options": [
+              "It has no solution under any circumstances",
+              "It requires no partial derivatives to analyze",
+              "It can be written as the differential of some underlying function",
+              "It must always be solved using only numerical methods"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What test determines whether a given differential equation is exact?",
+            "options": [
+              "A test that requires graphing the equation first",
+              "There is no reliable test for exactness",
+              "A partial-derivative test comparing mixed partial derivatives of its two terms",
+              "A test that only checks whether the equation is linear"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is found once an equation is confirmed to be exact?",
+            "options": [
+              "The equations degree only, with no further work",
+              "A random constant with no mathematical meaning",
+              "The underlying function whose differential produced the equation",
+              "A numerical approximation with no closed form"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does solving an exact equation differ from applying an integrating factor to a general first-order linear equation?",
+            "options": [
+              "Exact equations always require the same integrating factor used for linear equations",
+              "An exact equation is solved directly by recovering its underlying function, while a general linear equation is transformed using a separate factor",
+              "The two methods are mathematically identical in every step",
+              "Integrating factors can never be applied outside exact equations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is checking exactness a useful first step before attempting a general solution method?",
+            "options": [
+              "It quickly reveals whether a simpler, direct solution technique will succeed",
+              "It replaces the need for any other solution method entirely",
+              "It only applies to second-order equations",
+              "It guarantees a solution exists for every possible differential equation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Venturi Effect and Bernoullis Principle in Fluid Flow",
+        "summary": "Grade 12 Physics strand: the Venturi effect describes the drop in fluid pressure that occurs as a fluid speeds up while flowing through a constricted section of a pipe, a direct consequence of Bernoullis principle, which relates pressure, speed, and height along a streamline.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Venturi effect describe?",
+            "options": [
+              "A rise in fluid pressure whenever a pipe widens",
+              "A change in fluid temperature with no change in pressure",
+              "The complete stopping of fluid flow at a constriction",
+              "A drop in fluid pressure as the fluid speeds up through a constricted section of a pipe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader physical principle explains the pressure drop in the Venturi effect?",
+            "options": [
+              "Bernoullis principle",
+              "The ideal gas law exclusively",
+              "Newtons third law alone",
+              "The law of conservation of charge"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to fluid speed as it passes through a constriction in a pipe?",
+            "options": [
+              "It decreases",
+              "It increases",
+              "It stays exactly the same",
+              "It becomes zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which everyday device commonly applies the Venturi effect?",
+            "options": [
+              "A device with no connection to fluid speed",
+              "A carburetor or atomizer that uses fast-moving air to draw in fuel or liquid",
+              "A solid metal rod with no fluid flow",
+              "A stationary water tank with no moving fluid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does Bernoullis principle relate pressure and speed along a streamline?",
+            "options": [
+              "Bernoullis principle relates only temperature and volume",
+              "Increasing speed always increases pressure at the same point",
+              "As fluid speed increases along a streamline, its pressure decreases",
+              "Pressure and speed are always exactly equal to one another"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 143,
+    "label": "Day 143 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Detective Fiction and the Golden Age of the Whodunit",
+        "summary": "Grade 12 English strand: golden age detective fiction, exemplified by writers such as Agatha Christie, presents a puzzle-like mystery solved through logical deduction from carefully planted clues, typically culminating in a formal revelation scene that identifies the culprit.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What structure typically defines golden age detective fiction?",
+            "options": [
+              "A story with no crime or mystery of any kind",
+              "A tale told entirely without a detective figure",
+              "A narrative that reveals the culprit before any investigation begins",
+              "A puzzle-like mystery solved through logical deduction from carefully planted clues"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What convention often closes a golden age detective novel?",
+            "options": [
+              "A chapter with no connection to the mystery at all",
+              "A formal revelation scene that identifies the culprit",
+              "An ending that leaves the crime permanently unexplained",
+              "A scene describing only the weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must clues in a fair-play detective story generally do?",
+            "options": [
+              "Be made available to the reader before the solution is revealed",
+              "Be invented only in the final chapter",
+              "Remain hidden from the reader until after the story ends",
+              "Have no connection to the eventual solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the detective figure central to golden age detective fiction?",
+            "options": [
+              "The detective is typically the culprit in every story",
+              "The detective plays no active role in solving the crime",
+              "The detective embodies rational deduction that restores order by solving the puzzle",
+              "The detective exists only to narrate unrelated events"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the whodunit differ from crime fiction focused mainly on graphic violence?",
+            "options": [
+              "It focuses exclusively on courtroom procedure",
+              "It contains no crime of any kind",
+              "It emphasizes the intellectual puzzle and process of deduction over graphic action",
+              "It always avoids describing a detective altogether"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Abstract Algebra: An Introduction to Group Theory",
+        "summary": "Grade 12 Advanced Functions strand: a group is a set equipped with a single operation that is closed, associative, has an identity element, and gives every element an inverse, a structure that generalizes the arithmetic of numbers, matrices, and symmetries studied earlier in the course.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What four properties define a group under its operation?",
+            "options": [
+              "Closure, associativity, an identity element, and inverses for every element",
+              "A requirement that the set contain exactly one element",
+              "Only closure, with no other requirements",
+              "Commutativity alone, with no identity element required"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does closure mean for a group operation?",
+            "options": [
+              "The set must contain infinitely many elements",
+              "Combining any two elements of the set always yields another element of the set",
+              "Every element must be its own inverse",
+              "The operation must always produce zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an identity element in a group?",
+            "options": [
+              "An element that has no inverse",
+              "An element that leaves other elements unchanged when combined with them",
+              "An element that must always equal zero",
+              "An element that changes every other element into itself"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which familiar set forms a group under an operation studied earlier in the course?",
+            "options": [
+              "A set with no elements at all",
+              "The integers under addition",
+              "A single point with no operation",
+              "The set of all colours under no defined operation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is group theory considered a generalization of arithmetic studied earlier in this course?",
+            "options": [
+              "It replaces arithmetic entirely with an unrelated field",
+              "It abstracts structural properties shared by numbers, matrices, and symmetries under a common set of rules",
+              "It has no relationship to numbers, matrices, or symmetries",
+              "It only applies to a single specific number"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Secant Method for Root Approximation",
+        "summary": "Grade 12 Calculus strand: the secant method approximates a root of a function by drawing a line through two nearby points on the curve and using the x-intercept of that line as the next approximation, avoiding the need for a derivative required by Newtons method.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What line does the secant method use to generate its next root approximation?",
+            "options": [
+              "A vertical line through a single point",
+              "A line tangent to the curve at one point only",
+              "A line through two nearby points on the curve",
+              "A line with no relationship to the curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What advantage does the secant method have over Newtons method?",
+            "options": [
+              "It always converges faster than every other method",
+              "It does not require computing a derivative of the function",
+              "It guarantees an exact answer after a single step",
+              "It requires exactly one initial guess rather than two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What quantity from the secant line gives the next root approximation?",
+            "options": [
+              "The midpoint of the two original points",
+              "Its x-intercept",
+              "Its slope alone, with no intercept used",
+              "Its y-intercept"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many previous approximations does the secant method use to generate the next one?",
+            "options": [
+              "One",
+              "Zero",
+              "Two",
+              "An unlimited number, all at once"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the secant method generally compare to the bisection method studied earlier in terms of convergence speed?",
+            "options": [
+              "It generally converges faster than bisection, though convergence is not guaranteed",
+              "Bisection converges without ever needing two initial points",
+              "The two methods have identical convergence behaviour in every case",
+              "It always converges more slowly than bisection"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Total Internal Reflection and Fiber-Optic Communication",
+        "summary": "Grade 12 Physics strand: total internal reflection occurs when light travelling in a denser medium strikes a boundary with a less dense medium at an angle greater than the critical angle, reflecting entirely back into the denser medium, a principle exploited by fiber-optic cables to transmit light signals with minimal loss.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What is total internal reflection?",
+            "options": [
+              "A phenomenon that only occurs with sound waves",
+              "The complete absorption of light at any surface",
+              "Light passing completely unaffected through any boundary",
+              "Light reflecting entirely back into a denser medium when it strikes a boundary at an angle greater than the critical angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition on the angle of incidence causes total internal reflection to occur?",
+            "options": [
+              "The angle must be measured from a less dense to a denser medium",
+              "The angle of incidence must be exactly zero degrees",
+              "The angle of incidence has no effect on the outcome",
+              "The angle of incidence must be greater than the critical angle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What technology exploits total internal reflection to transmit signals over long distances?",
+            "options": [
+              "A device with no connection to light at all",
+              "Fiber-optic cables",
+              "A simple glass window with no coating",
+              "Ordinary copper telephone wire"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must light travel from a denser to a less dense medium for total internal reflection to be possible?",
+            "options": [
+              "A critical angle, beyond which total internal reflection occurs, exists only when moving toward a lower refractive index",
+              "Refractive index has no role in this phenomenon",
+              "Light must first stop moving entirely for reflection to occur",
+              "Total internal reflection occurs equally in every direction of travel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What advantage does fiber-optic transmission gain from total internal reflection?",
+            "options": [
+              "The signal is destroyed at every bend in the fiber",
+              "The fiber must be perfectly straight with no curves allowed",
+              "The light signal is transmitted with minimal loss along the length of the fiber",
+              "The signal converts entirely into sound during transmission"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 144,
+    "label": "Day 144 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literary Naturalism: Determinism and the Novel",
+        "summary": "Grade 12 English strand: literary naturalism extends realism by portraying characters as shaped largely by heredity, environment, and social forces beyond their control, presenting human behaviour with a scientific, often pessimistic determinism associated with writers such as Emile Zola.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What forces do naturalist novels typically emphasize as shaping character?",
+            "options": [
+              "Heredity, environment, and social forces beyond the characters control",
+              "Only the characters own free choices, with no outside influence",
+              "Supernatural forces such as ghosts and spirits",
+              "Pure random chance with no underlying pattern at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does literary naturalism extend the realism studied in earlier literary traditions?",
+            "options": [
+              "It focuses exclusively on fantastical, magical events",
+              "It rejects any connection to observable human behaviour",
+              "It removes all realistic detail from the narrative entirely",
+              "It adds a scientific, deterministic view of human behaviour beyond typical realistic detail"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tone often characterizes naturalist fiction?",
+            "options": [
+              "An unrelentingly cheerful, optimistic outlook",
+              "A tone with no emotional quality whatsoever",
+              "A pessimistic determinism",
+              "A tone of pure comic absurdity throughout"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which nineteenth-century writer is closely associated with literary naturalism?",
+            "options": [
+              "William Wordsworth",
+              "Jonathan Swift",
+              "Geoffrey Chaucer",
+              "Emile Zola"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does determinism in naturalist fiction typically affect a characters sense of agency?",
+            "options": [
+              "Naturalist characters are entirely free of environmental influence",
+              "Characters have complete, unlimited control over every outcome",
+              "Characters have limited control, being largely shaped by forces beyond them",
+              "Agency plays no role in naturalist fiction at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Boolean Algebra and Logic Gates",
+        "summary": "Grade 12 Advanced Functions strand: Boolean algebra manipulates true and false values using operations such as AND, OR, and NOT, providing the mathematical foundation for logic gates and digital circuits that underlie modern computing.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What values does Boolean algebra fundamentally operate on?",
+            "options": [
+              "Complex numbers exclusively",
+              "Negative fractions only",
+              "True and false (or one and zero) values",
+              "Only irrational numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which three operations form the basic building blocks of Boolean algebra?",
+            "options": [
+              "AND, OR, and NOT",
+              "Sine, cosine, and tangent",
+              "Addition, subtraction, and multiplication",
+              "Integration, differentiation, and limits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What physical devices implement Boolean operations inside a computer?",
+            "options": [
+              "Ordinary resistors with no logical function",
+              "Mechanical gears with no electrical component",
+              "Simple wires with no components",
+              "Logic gates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the AND operation output when both of its inputs are true?",
+            "options": [
+              "A value that is neither true nor false",
+              "False",
+              "True",
+              "An undefined result"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Boolean algebra considered foundational to modern computing?",
+            "options": [
+              "It only applies to purely abstract, unused mathematics",
+              "It has no connection to computers or digital devices",
+              "It was replaced entirely by a different number system in modern computers",
+              "It underlies the design of digital circuits and the logic gates used inside computers"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Romberg Integration and Richardson Extrapolation",
+        "summary": "Grade 12 Calculus strand: Romberg integration improves the accuracy of the trapezoid rule by combining successive trapezoid-rule estimates using Richardson extrapolation, systematically eliminating leading error terms to converge rapidly to the true value of a definite integral.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What numerical integration method does Romberg integration build upon and improve?",
+            "options": [
+              "The trapezoid rule",
+              "The bisection method for root-finding",
+              "The method of undetermined coefficients",
+              "Lagrange interpolation alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What technique combines successive estimates to improve accuracy in Romberg integration?",
+            "options": [
+              "Random sampling of the integrand",
+              "A simple average with no weighting applied",
+              "Richardson extrapolation",
+              "Direct substitution with no combination of estimates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Richardson extrapolation systematically eliminate in Romberg integration?",
+            "options": [
+              "The entire integral itself",
+              "All numerical estimates without producing a final result",
+              "The functions original definition",
+              "Leading error terms in the trapezoid-rule estimates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does Romberg integrations accuracy typically compare to a single trapezoid-rule estimate?",
+            "options": [
+              "It is always less accurate than a single trapezoid estimate",
+              "It is always exactly as accurate and no more",
+              "It converges more rapidly to the true value of the integral",
+              "It cannot be compared to the trapezoid rule at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might Romberg integration be preferred over simply halving the step size repeatedly in the plain trapezoid rule?",
+            "options": [
+              "It requires no calculation of trapezoid-rule estimates whatsoever",
+              "It only works for a single, fixed step size",
+              "It produces a less accurate result than repeated halving",
+              "It combines estimates cleverly, achieving faster convergence than simple refinement alone"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Newtons Rings and Thin-Film Interference",
+        "summary": "Grade 12 Physics strand: Newtons rings are a pattern of concentric bright and dark circular fringes produced by the interference of light reflected between a curved lens surface and a flat plate, arising from the varying thickness of the thin air film trapped between them.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What pattern do Newtons rings form?",
+            "options": [
+              "Concentric bright and dark circular fringes",
+              "A uniform, unchanging field of one colour",
+              "A random, non-repeating scatter of colour",
+              "A single straight bright line with no pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What produces the interference pattern seen in Newtons rings?",
+            "options": [
+              "A magnetic field acting directly on light",
+              "Light passing through a completely opaque solid block",
+              "Sound waves reflecting off a curved surface",
+              "Light reflected between a curved lens surface and a flat plate, with a varying air-film thickness between them"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What varies across the trapped air film to produce the ring pattern?",
+            "options": [
+              "Its colour, independent of any physical property",
+              "Its electric charge",
+              "Its temperature alone, with no thickness variation",
+              "Its thickness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader wave phenomenon explains the formation of Newtons rings?",
+            "options": [
+              "The photoelectric effect",
+              "Nuclear decay",
+              "Thin-film interference",
+              "Simple reflection with no interference involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do Newtons rings appear circular rather than in some other shape?",
+            "options": [
+              "The rings are drawn intentionally with no physical cause",
+              "The air-film thickness varies symmetrically around the point of contact of the curved lens",
+              "Circular shapes are the only shapes light can ever form",
+              "The flat plate is always perfectly circular in shape"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 145,
+    "label": "Day 145 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Memoir and the Art of Life Writing",
+        "summary": "Grade 12 English strand: memoir is a nonfiction form of life writing that reconstructs a specific period or theme from the authors own life, shaping remembered experience into narrative through selection, reflection, and a controlling perspective distinct from a comprehensive autobiography.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does memoir typically reconstruct?",
+            "options": [
+              "A specific period or theme from the authors own life",
+              "A biography of a person the author has never met",
+              "A complete, chronological record of an entire life from birth to the present",
+              "A purely fictional life invented for entertainment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does memoir differ from a comprehensive autobiography?",
+            "options": [
+              "It is always written by someone other than the subject",
+              "It focuses on a selected period or theme rather than the whole of a life",
+              "It cannot include any reflection or interpretation",
+              "It must always cover every year of the authors life in equal detail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shapes remembered experience into a coherent narrative in memoir?",
+            "options": [
+              "Pure, unfiltered transcription with no shaping at all",
+              "A total absence of any narrative structure",
+              "Random, disconnected fragments with no unifying thread",
+              "Selection, reflection, and a controlling perspective"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To which broader genre category does memoir belong?",
+            "options": [
+              "Pure fantasy fiction",
+              "Nonfiction life writing",
+              "Formal scientific reporting",
+              "Dramatic verse composed for the stage"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a memoirist rely on a controlling perspective when shaping their material?",
+            "options": [
+              "Because memoir requires no interpretation of events",
+              "To avoid including any personal experience whatsoever",
+              "Because a controlling perspective is forbidden in nonfiction",
+              "To shape scattered memory into a coherent, meaningful narrative"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: Correlation and the Pearson Correlation Coefficient",
+        "summary": "Grade 12 Advanced Functions strand: the Pearson correlation coefficient measures the strength and direction of the linear relationship between two quantitative variables, producing a value between negative one and positive one that indicates how closely the data follow a straight line.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does the Pearson correlation coefficient measure?",
+            "options": [
+              "The total number of data points collected",
+              "The strength and direction of the linear relationship between two quantitative variables",
+              "The exact mean of a single data set",
+              "The mode of a categorical variable"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What range of values can the Pearson correlation coefficient take?",
+            "options": [
+              "Any real number with no upper or lower bound",
+              "From zero to positive one hundred",
+              "From negative one to positive one",
+              "Only the values zero and one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a Pearson correlation coefficient close to zero indicate?",
+            "options": [
+              "Little to no linear relationship between the two variables",
+              "A perfect negative linear relationship",
+              "A perfect positive linear relationship",
+              "That the two variables are identical"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a Pearson correlation coefficient of positive one indicate?",
+            "options": [
+              "A perfect positive linear relationship between the two variables",
+              "An undefined relationship",
+              "No relationship of any kind",
+              "A perfect negative linear relationship"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is correlation not the same as causation, an important caution when interpreting a Pearson coefficient?",
+            "options": [
+              "Causation can never be studied using correlation at all",
+              "Correlation and causation are mathematically identical concepts",
+              "A strong correlation always proves direct causation",
+              "A strong correlation does not necessarily mean one variable causes changes in the other"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Inverse Laplace Transform and Solving Initial Value Problems",
+        "summary": "Grade 12 Calculus strand: the inverse Laplace transform converts a function of s back into a function of t, allowing a differential equation solved in the transformed domain using the Laplace transform to be translated back into its original time-domain solution.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the inverse Laplace transform do?",
+            "options": [
+              "Doubles the degree of a polynomial function",
+              "Converts a function of s back into a function of t",
+              "Converts a function of t into an unrelated function of x",
+              "Removes all variables from a function entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the inverse Laplace transform applied after solving an equation in the s-domain?",
+            "options": [
+              "To remove the s-domain solution without producing a final answer",
+              "To convert the solution into a purely graphical representation only",
+              "To eliminate the need for any differential equation entirely",
+              "To translate the solution back into its original time-domain form"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which earlier-studied tool is the inverse Laplace transform paired with?",
+            "options": [
+              "The Laplace transform",
+              "The trapezoid rule",
+              "The bisection method",
+              "The chain rule for multivariable functions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of problem is commonly solved using the Laplace transform and its inverse together?",
+            "options": [
+              "Problems involving only static, unchanging quantities",
+              "Problems with no reference to time at all",
+              "Purely geometric problems with no equations involved",
+              "Initial value problems for differential equations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can transforming a differential equation into the s-domain make it easier to solve?",
+            "options": [
+              "It makes the equation impossible to solve by any method",
+              "It converts algebraic equations into differential equations instead",
+              "It removes all information about the original problem",
+              "It converts differential equations into algebraic equations, which are generally easier to manipulate"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Tyndall Effect and Light Scattering in Colloids",
+        "summary": "Grade 12 Physics strand: the Tyndall effect is the scattering of light by particles suspended in a colloid, making a beam of light passing through the mixture visible from the side, distinguished from Rayleigh scattering by the larger size of the scattering particles relative to atmospheric molecules.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What is the Tyndall effect?",
+            "options": [
+              "The scattering of light by particles suspended in a colloid, making a beam of light visible from the side",
+              "The complete absorption of all light by a transparent solution",
+              "A phenomenon that only occurs in a perfect vacuum",
+              "The bending of light as it passes through a single flat pane of glass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes a light beam visible when it passes through a colloid?",
+            "options": [
+              "Light scattered sideways by particles suspended in the mixture",
+              "A chemical reaction that produces new light",
+              "The beam gaining additional energy from the colloid",
+              "The complete absence of any particles in the mixture"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the Tyndall effect differ from the Rayleigh scattering studied earlier in this course?",
+            "options": [
+              "It involves larger particles than the molecules responsible for Rayleigh scattering",
+              "It occurs only in a perfect vacuum, unlike Rayleigh scattering",
+              "It involves no particles of any kind",
+              "The two phenomena are identical in every respect"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which everyday scene commonly demonstrates the Tyndall effect?",
+            "options": [
+              "A perfectly clear glass of water with no visible beam",
+              "A completely opaque solid block with no light passing through",
+              "A beam of light travelling through total darkness with no scattering",
+              "A visible beam of light shining through fog or a dusty room"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can the Tyndall effect be used to distinguish a colloid from a true solution?",
+            "options": [
+              "Colloidal particles scatter light visibly, while the much smaller particles in a true solution generally do not",
+              "True solutions always scatter light more strongly than colloids",
+              "Colloids and true solutions scatter light in exactly the same way",
+              "Neither colloids nor true solutions can scatter light at all"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 146,
+    "label": "Day 146 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Ballad Tradition: Narrative Song and Folk Verse",
+        "summary": "Grade 12 English strand: the ballad is a narrative folk poem originally meant to be sung, typically composed in quatrains with a simple rhyme scheme, recounting a dramatic story of love, tragedy, or adventure through compressed, often repetitive language.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What is a ballad in its traditional form?",
+            "options": [
+              "A purely visual poem with no words at all",
+              "A prose essay with no narrative elements",
+              "A narrative folk poem originally meant to be sung",
+              "A formal legal document with no poetic content"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What stanza form do ballads typically use?",
+            "options": [
+              "Stanzas with no consistent line count at all",
+              "A single unbroken line with no stanza breaks",
+              "Fourteen-line stanzas with an intricate rhyme scheme",
+              "Quatrains with a simple rhyme scheme"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kinds of stories do ballads commonly recount?",
+            "options": [
+              "Dramatic stories of love, tragedy, or adventure",
+              "Purely abstract mathematical concepts",
+              "Detailed technical instructions for a craft",
+              "A list of unrelated historical dates"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What stylistic feature often marks ballad language?",
+            "options": [
+              "Compressed, often repetitive language, including refrains",
+              "Language borrowed entirely from formal legal writing",
+              "A total absence of rhythm or musicality",
+              "Extremely long, unbroken sentences with no repetition"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the ballads oral, musical origin shape its form?",
+            "options": [
+              "It favours memorable rhythm, repetition, and simple structure suited to singing",
+              "It has no influence on the poems structure at all",
+              "It requires the poem to be read silently and never performed",
+              "It requires the poem to be entirely unrhymed and unmetered"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Combinatorial Game Theory and the Game of Nim",
+        "summary": "Grade 12 Advanced Functions strand: combinatorial game theory analyzes two-player games of perfect information with no chance element, and the game of Nim, in which players remove objects from piles, provides a classic example whose winning strategy is determined using the binary XOR of pile sizes.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What kind of games does combinatorial game theory study?",
+            "options": [
+              "Games with an unlimited number of players and no defined rules",
+              "Games decided purely by rolling dice with no strategy involved",
+              "Games where information is always hidden from both players",
+              "Two-player games of perfect information with no chance element"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the basic action taken by players in the game of Nim?",
+            "options": [
+              "Rolling a die to determine the next move",
+              "Removing objects from piles",
+              "Placing new objects onto an empty board",
+              "Drawing cards from a shuffled deck"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What operation determines the winning strategy in the game of Nim?",
+            "options": [
+              "A simple sum of the pile sizes with no further calculation",
+              "The largest pile size alone, with no other calculation",
+              "The binary XOR of the pile sizes",
+              "A random guess with no calculation involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for a game to have perfect information?",
+            "options": [
+              "Neither player has any knowledge of the game at all",
+              "Both players can see the entire state of the game at all times",
+              "Only one player can ever see the game state",
+              "The game state changes randomly with no visibility"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Nim considered a classic example within combinatorial game theory?",
+            "options": [
+              "It has never been solved and remains a complete mystery",
+              "It cannot be analyzed mathematically in any way",
+              "It has a fully solved, elegant winning strategy that illustrates the fields core ideas",
+              "It involves no strategy of any kind"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Scalar Triple Product and the Volume of a Parallelepiped",
+        "summary": "Grade 12 Calculus and Vectors strand: the scalar triple product combines three vectors using a cross product and a dot product to produce a single number whose absolute value equals the volume of the parallelepiped formed by the three vectors.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What operations combine to form the scalar triple product?",
+            "options": [
+              "A single addition of three vectors with no multiplication",
+              "Two separate dot products with no cross product",
+              "Division of one vector by another",
+              "A cross product followed by a dot product"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What geometric quantity does the absolute value of the scalar triple product equal?",
+            "options": [
+              "The area of a triangle formed by two of the vectors",
+              "The length of a single vector alone",
+              "The volume of the parallelepiped formed by the three vectors",
+              "The angle between two of the vectors"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many vectors are combined to form a scalar triple product?",
+            "options": [
+              "One",
+              "Three",
+              "Four",
+              "Two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a scalar triple product of zero indicate about the three vectors involved?",
+            "options": [
+              "The vectors must all have zero magnitude",
+              "The vectors are coplanar, meaning they are linearly dependent",
+              "The vectors have no defined direction at all",
+              "The vectors are mutually perpendicular with maximum volume"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the scalar triple product build on the cross product studied earlier in this course?",
+            "options": [
+              "It requires computing four separate cross products",
+              "It replaces the cross product with simple scalar multiplication",
+              "It uses the cross product of two vectors, then takes the dot product of that result with the third vector",
+              "It has no relationship to the cross product whatsoever"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Kerr Effect and Electro-Optic Modulation",
+        "summary": "Grade 12 Physics strand: the Kerr effect is a change in the refractive index of a material in response to an applied electric field, proportional to the square of the field strength, a property exploited in electro-optic modulators to control light using electrical signals.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Kerr effect describe?",
+            "options": [
+              "A change in a materials colour with no relation to any field",
+              "The complete absorption of all electric fields by a material",
+              "A change in the refractive index of a material in response to an applied electric field",
+              "A change in the mass of a material when heated"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the change in refractive index in the Kerr effect relate to the applied field strength?",
+            "options": [
+              "It is proportional to the square of the field strength",
+              "It is entirely independent of the field strength",
+              "It decreases linearly as the field strength increases",
+              "It is proportional to the inverse of the field strength"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What technology exploits the Kerr effect to control light using electrical signals?",
+            "options": [
+              "Electro-optic modulators",
+              "Ordinary incandescent light bulbs",
+              "A simple mechanical shutter with no electrical component",
+              "A device with no relationship to electric fields"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Kerr effect described as a nonlinear optical effect?",
+            "options": [
+              "It has no mathematical relationship to the applied field",
+              "Its response depends on the square rather than a simple direct proportion to field strength",
+              "It only occurs in the complete absence of any field",
+              "Its response is always exactly proportional to the field strength"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What general category of physical effects does the Kerr effect belong to, alongside the Faraday effect studied earlier?",
+            "options": [
+              "Purely mechanical effects with no optical component",
+              "Effects with no connection to light at all",
+              "Electro-optic and magneto-optic effects",
+              "Nuclear decay processes"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 147,
+    "label": "Day 147 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Concrete Poetry: Shape and Typography as Meaning",
+        "summary": "Grade 12 English strand: concrete poetry arranges words, letters, and typography on the page so that the visual shape of the poem itself contributes directly to its meaning, treating the poems physical layout as inseparable from its verbal content.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does concrete poetry emphasize alongside its words?",
+            "options": [
+              "Only the sound of the words when read aloud, with no visual element",
+              "A complete absence of any typography or layout",
+              "A strict, unvarying rhyme scheme with no visual concerns",
+              "The visual shape and typographic arrangement of the poem on the page"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the visual shape of a concrete poem typically relate to its meaning?",
+            "options": [
+              "It always contradicts and undermines the poems stated subject",
+              "It has no connection to the poems meaning whatsoever",
+              "It exists purely by accident with no intended effect",
+              "It contributes directly to and reinforces the poems meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is treated as inseparable from verbal content in concrete poetry?",
+            "options": [
+              "The publishers logo on the page",
+              "The poems title alone, with no reference to the body text",
+              "The font size used in an unrelated document",
+              "The poems physical layout on the page"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does concrete poetry differ from a conventional lyric poem read primarily for its sound and sense?",
+            "options": [
+              "It is identical in every respect to a conventional lyric poem",
+              "It rejects the use of words entirely",
+              "It also relies on visual, spatial arrangement as a source of meaning",
+              "It cannot be printed or displayed visually at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poet arrange words into a visual shape to represent an abstract idea?",
+            "options": [
+              "Abstract ideas cannot be represented through any visual arrangement",
+              "Visual form can mirror or enact the poems subject in ways plain text alone cannot",
+              "Typography has no effect on how a poem is interpreted",
+              "Visual form always obscures a poems meaning entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Fermats Two Squares Theorem",
+        "summary": "Grade 12 Advanced Functions strand: Fermats two squares theorem states that an odd prime can be written as the sum of two perfect squares if and only if it leaves a remainder of one when divided by four, connecting modular arithmetic to the representation of numbers as sums of squares.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does Fermats two squares theorem state about an odd prime number?",
+            "options": [
+              "It can only be expressed as the sum of three perfect squares",
+              "It must always be an even number",
+              "It can be written as the sum of two perfect squares if and only if it is congruent to one modulo four",
+              "It can never be written as the sum of two perfect squares under any condition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What must an odd prime be congruent to modulo four to be expressible as a sum of two squares?",
+            "options": [
+              "Two",
+              "One",
+              "Zero",
+              "Three"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which primes cannot be written as the sum of two perfect squares, according to this theorem?",
+            "options": [
+              "Only the number two",
+              "All prime numbers without exception",
+              "Primes congruent to one modulo four",
+              "Primes congruent to three modulo four"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which branch of mathematics connects to Fermats two squares theorem through congruences?",
+            "options": [
+              "Basic set theory with no arithmetic involved",
+              "Trigonometric identities",
+              "Modular arithmetic",
+              "Financial mathematics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does Fermats two squares theorem extend ideas from quadratic residues studied earlier in this course?",
+            "options": [
+              "It uses conditions on residues modulo four to determine whether a prime is representable as a sum of two squares",
+              "It has no connection whatsoever to quadratic residues",
+              "It only applies to even numbers, unlike quadratic residues",
+              "It replaces quadratic residues with an unrelated geometric concept"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Variation of Parameters for Non-Homogeneous Differential Equations",
+        "summary": "Grade 12 Calculus strand: variation of parameters solves a non-homogeneous linear differential equation by replacing the constants in the homogeneous solution with unknown functions, determined by a system derived from the original equation, producing a particular solution even when undetermined coefficients does not apply cleanly.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does variation of parameters replace in the homogeneous solution of a differential equation?",
+            "options": [
+              "The constants, replacing them with unknown functions",
+              "The independent variable itself",
+              "The order of the differential equation",
+              "The entire homogeneous solution, discarding it completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of differential equation does variation of parameters solve?",
+            "options": [
+              "Only first-order separable equations",
+              "Equations with no solution of any kind",
+              "Non-homogeneous linear differential equations",
+              "Purely algebraic equations with no derivatives"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How are the unknown functions in variation of parameters determined?",
+            "options": [
+              "By setting them all equal to zero automatically",
+              "By solving a system of equations derived from the original differential equation",
+              "By ignoring the original equation entirely",
+              "By guessing a constant value with no further calculation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What advantage does variation of parameters have over the method of undetermined coefficients?",
+            "options": [
+              "It cannot be used for any linear differential equation",
+              "It applies more generally, even in cases where undetermined coefficients does not work cleanly",
+              "It requires no knowledge of the homogeneous solution at all",
+              "It only works for a single, very specific type of equation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must be found first before applying variation of parameters to a non-homogeneous equation?",
+            "options": [
+              "The Laplace transform of an unrelated function",
+              "The final numerical answer, before any other work is done",
+              "A random particular solution with no justification",
+              "The homogeneous solution to the associated equation"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Larmor Formula and Radiation from Accelerating Charges",
+        "summary": "Grade 12 Physics strand: the Larmor formula gives the power radiated by a non-relativistic accelerating point charge, showing that acceleration, not merely motion, is required for a charged particle to emit electromagnetic radiation.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Larmor formula calculate?",
+            "options": [
+              "The power radiated by an accelerating point charge",
+              "The total mass of a charged particle",
+              "The wavelength of visible light alone",
+              "The exact position of a charge at a given time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What property of a charged particles motion is required for it to radiate, according to the Larmor formula?",
+            "options": [
+              "A constant velocity with absolutely no acceleration",
+              "A fixed, unchanging position with no motion at all",
+              "A complete absence of any electric charge",
+              "Acceleration, not merely motion at a constant velocity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a charge moving at a constant velocity not radiate energy according to this principle?",
+            "options": [
+              "Constant velocity motion is physically impossible for a charge",
+              "Radiation requires acceleration, and uniform motion involves no acceleration",
+              "Radiation depends only on the charges mass, not its motion",
+              "Charges moving at constant velocity always radiate the most energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To which kind of charge does the Larmor formula, in its basic form, strictly apply?",
+            "options": [
+              "A charge with absolutely no mass",
+              "A non-relativistic charge",
+              "A charge that is entirely stationary at all times",
+              "Only a charge moving at the speed of light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the Larmor formula connect to the study of electromagnetic waves earlier in this course?",
+            "options": [
+              "It explains the physical origin of electromagnetic radiation emitted by accelerating charges",
+              "It has no connection to electromagnetic waves whatsoever",
+              "It proves that radiation cannot be produced by any charge",
+              "It shows that electromagnetic waves can only be produced by magnets"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 148,
+    "label": "Day 148 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Weird Fiction and the Aesthetics of Cosmic Horror",
+        "summary": "Grade 12 English strand: weird fiction evokes a sense of cosmic horror by suggesting the existence of vast, indifferent, and unknowable forces beyond human comprehension, emphasizing dread and awe over conventional monsters or explainable threats.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What sense does weird fiction primarily aim to evoke in its readers?",
+            "options": [
+              "Light comic relief with no sense of unease",
+              "A purely romantic, sentimental mood",
+              "Cosmic horror, or dread at vast, unknowable forces",
+              "A calm, reassuring sense of order and safety"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of forces does weird fiction typically suggest lie beyond human comprehension?",
+            "options": [
+              "Forces that are always fully explained by the story",
+              "Forces limited strictly to ordinary human emotions",
+              "Small, easily understood household objects",
+              "Vast, indifferent, unknowable cosmic forces"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does weird fiction emphasize over a conventional, fully explainable monster?",
+            "options": [
+              "A monster whose motives are entirely clear",
+              "A detailed scientific explanation for every event",
+              "Dread and awe at something fundamentally incomprehensible",
+              "A cheerful resolution with no lingering unease"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does weird fictions cosmic horror differ from a typical ghost story with a clearly resolved cause?",
+            "options": [
+              "It contains no sense of fear or dread at all",
+              "It focuses entirely on realistic, everyday concerns",
+              "It emphasizes the incomprehensibility and indifference of the universe rather than offering a resolvable threat",
+              "It always provides a complete, tidy explanation for every event"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer of weird fiction leave the central threat vague or only partially explained?",
+            "options": [
+              "Because fully explaining a threat always increases its horror",
+              "To preserve a sense of the unknowable that generates cosmic dread",
+              "Because vague threats are required by law in this genre",
+              "Because leaving details vague eliminates all sense of atmosphere"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: The Central Limit Theorem",
+        "summary": "Grade 12 Advanced Functions strand: the central limit theorem states that the distribution of sample means drawn from a population approaches a normal distribution as the sample size grows large, regardless of the shape of the original population distribution.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does the central limit theorem describe?",
+            "options": [
+              "The exact height of a single randomly chosen individual",
+              "The total sum of every value in an entire population",
+              "The distribution of sample means approaching a normal distribution as sample size grows large",
+              "A rule that applies only to perfectly normal populations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to the sampling distribution of the mean as sample size increases, according to the theorem?",
+            "options": [
+              "It becomes increasingly unpredictable with no pattern",
+              "It approaches a normal distribution",
+              "It shrinks to a single fixed point with no variation",
+              "It always becomes perfectly uniform"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the central limit theorem require the original population to already be normally distributed?",
+            "options": [
+              "The theorem does not apply to any real population",
+              "No, it holds regardless of the shape of the original population",
+              "Yes, it only applies when the population is already normal",
+              "Yes, and it fails completely for any other population shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the central limit theorem considered foundational to inferential statistics?",
+            "options": [
+              "It proves that no statistical inference is ever possible",
+              "It only applies to a single specific data set with no generalization",
+              "It eliminates the need for any sampling at all",
+              "It justifies using normal-distribution-based methods for sample means even from non-normal populations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the central limit theorem connect to the normal distribution studied earlier in this course?",
+            "options": [
+              "It replaces the normal distribution with the Poisson distribution entirely",
+              "It shows that sample means tend toward that same normal distribution as sample size grows",
+              "It has no connection to the normal distribution at all",
+              "It shows the normal distribution can never describe sample means"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Equilibrium Solutions and the Stability of Differential Equations",
+        "summary": "Grade 12 Calculus strand: an equilibrium solution of a differential equation is a constant solution at which the rate of change is zero, and its stability describes whether nearby solutions move toward or away from it over time, a key idea in analyzing models such as population growth.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What defines an equilibrium solution of a differential equation?",
+            "options": [
+              "A solution that changes at the fastest possible rate",
+              "A constant solution at which the rate of change is zero",
+              "A solution with no relationship to the rate of change",
+              "A solution defined only for negative values of time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the stability of an equilibrium solution describe?",
+            "options": [
+              "Whether nearby solutions move toward or away from it over time",
+              "Whether the differential equation has any solution at all",
+              "The colour used to graph the solution curve",
+              "The exact numerical value of the equilibrium alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What characterizes a stable equilibrium in terms of nearby solutions?",
+            "options": [
+              "Nearby solutions remain exactly on the equilibrium at all times",
+              "Nearby solutions move away from the equilibrium over time",
+              "Nearby solutions move toward the equilibrium over time",
+              "Nearby solutions have no relationship to the equilibrium at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which earlier-studied model do equilibrium solutions naturally arise?",
+            "options": [
+              "A model that never reaches a constant value",
+              "A purely static geometric shape",
+              "A model with no rate of change involved",
+              "Logistic growth models"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is analyzing equilibrium and stability useful when studying a population model?",
+            "options": [
+              "It requires discarding the original differential equation entirely",
+              "It only applies to models with no population involved",
+              "It reveals the long-term behaviour of the population without solving the full equation explicitly",
+              "It provides no information about the models long-term behaviour"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Rayleigh Criterion and the Resolving Power of Optical Instruments",
+        "summary": "Grade 12 Physics strand: the Rayleigh criterion defines the minimum angular separation at which two point sources can be distinguished as separate by an optical instrument, based on the diffraction pattern produced by the instruments aperture, setting a fundamental limit on resolving power.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Rayleigh criterion define?",
+            "options": [
+              "The total mass of an optical instrument",
+              "The maximum possible speed of light in any medium",
+              "The exact colour of light emitted by a star",
+              "The minimum angular separation at which two point sources can be resolved as separate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What physical phenomenon underlies the resolution limit described by the Rayleigh criterion?",
+            "options": [
+              "The complete absence of any light entering the instrument",
+              "Gravitational lensing around a distant star",
+              "Radioactive decay within the instrument itself",
+              "Diffraction produced by the instruments aperture"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does resolving power describe for an optical instrument?",
+            "options": [
+              "Its ability to change the colour of incoming light",
+              "Its total weight and physical size",
+              "Its capacity to store electrical energy",
+              "Its ability to distinguish closely spaced objects as separate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does aperture size generally affect resolving power according to the Rayleigh criterion?",
+            "options": [
+              "A larger aperture generally improves resolving power",
+              "A larger aperture always worsens resolving power",
+              "Aperture size has no effect on resolving power at all",
+              "Resolving power depends only on the colour of the instrument"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does diffraction, rather than lens imperfection alone, set a fundamental limit on resolution?",
+            "options": [
+              "Diffraction is an intrinsic wave effect present even in a perfect, flawless optical system",
+              "Diffraction can always be eliminated by using a larger lens",
+              "Diffraction only occurs in instruments with significant lens defects",
+              "Diffraction has no connection to the wave nature of light"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 149,
+    "label": "Day 149 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Serial Novel: Dickens and Publication in Instalments",
+        "summary": "Grade 12 English strand: the serial novel was published in regular instalments, often monthly, in newspapers or magazines, a format popularized by writers such as Charles Dickens that shaped narrative pacing through cliffhangers and episodic structure suited to a paying, ongoing readership.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "How was a serial novel typically published?",
+            "options": [
+              "Only after the authors death, with no instalments",
+              "In regular instalments, often monthly, in newspapers or magazines",
+              "As a single complete volume with no instalments at all",
+              "Exclusively as a private, unpublished manuscript"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which nineteenth-century writer is closely associated with popularizing the serial novel format?",
+            "options": [
+              "Emily Dickinson",
+              "Homer",
+              "Charles Dickens",
+              "Sophocles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What narrative device did serial publication commonly encourage at the end of an instalment?",
+            "options": [
+              "A complete resolution with no remaining tension",
+              "A detailed appendix of footnotes",
+              "A blank page with no content at all",
+              "A cliffhanger"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How did serial publication shape a novels overall structure?",
+            "options": [
+              "It eliminated the need for any structure whatsoever",
+              "It encouraged an episodic structure suited to the pacing of each instalment",
+              "It required the entire novel to be written and revealed at once",
+              "It forced every novel to have exactly one chapter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might serial publication have influenced an authors relationship with their readers?",
+            "options": [
+              "Authors were legally forbidden from responding to reader reaction",
+              "An ongoing, paying readership could shape the reception and even the direction of the unfolding story",
+              "Readers had no access to a serialized novel until it was fully finished",
+              "Serial publication removed all contact between author and reader"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Spanning Trees and Kruskals Algorithm",
+        "summary": "Grade 12 Advanced Functions strand: a spanning tree of a connected graph is a subgraph that includes every vertex and is itself a tree, and Kruskals algorithm constructs a minimum-weight spanning tree by repeatedly adding the cheapest edge that does not create a cycle.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What is a spanning tree of a connected graph?",
+            "options": [
+              "A subgraph that includes every vertex of the graph and is itself a tree",
+              "A graph that contains every possible cycle",
+              "A single isolated vertex with no edges at all",
+              "A subgraph that excludes most of the graphs vertices"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Kruskals algorithm construct?",
+            "options": [
+              "A minimum-weight spanning tree",
+              "The graph with the maximum possible number of cycles",
+              "A completely disconnected version of the original graph",
+              "A list of every vertex with no edges included"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What rule does Kruskals algorithm follow when selecting edges to add?",
+            "options": [
+              "It always removes the most expensive edge first",
+              "It adds every edge in the graph regardless of weight",
+              "It selects edges at random with no rule at all",
+              "It repeatedly adds the cheapest edge that does not create a cycle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must a valid spanning tree contain no cycles?",
+            "options": [
+              "Acyclic graphs cannot be connected under any circumstances",
+              "Cycles are required for a graph to be considered a tree",
+              "Spanning trees are permitted to contain any number of cycles",
+              "A tree, by definition, is connected and acyclic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does Kruskals algorithm build on the graph theory basics of vertices and edges studied earlier?",
+            "options": [
+              "It replaces vertices and edges with an entirely different structure",
+              "It has no relationship to vertices or edges at all",
+              "It only applies to graphs with no edges whatsoever",
+              "It builds directly on that vertex and edge structure to select a minimal connecting subset of edges"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Improved Euler (Heun) Method for Numerical Differential Equations",
+        "summary": "Grade 12 Calculus strand: the improved Euler method, also called Heuns method, refines the basic Euler method for numerically solving differential equations by averaging the slope at the beginning and estimated end of each step, improving accuracy over a single-slope approximation.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the improved Euler (Heun) method refine?",
+            "options": [
+              "The basic Euler method for numerically solving differential equations",
+              "The bisection method for finding roots",
+              "The method of undetermined coefficients",
+              "The trapezoid rule for definite integrals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the improved Euler method average to compute each step of its solution?",
+            "options": [
+              "The slope at the beginning and the estimated slope at the end of the step",
+              "The value of the function at two entirely unrelated points",
+              "The initial condition and the final answer, with no intermediate steps",
+              "The step size alone, with no reference to slope"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does averaging two slope estimates improve accuracy over the basic Euler method?",
+            "options": [
+              "It requires no calculation of any slope at all",
+              "Averaging always makes a numerical method less accurate",
+              "It better approximates the curves changing slope across the step rather than relying on only the initial slope",
+              "It removes the need for an initial condition entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the improved Euler method relate to the Runge-Kutta methods studied earlier in this course?",
+            "options": [
+              "It is a far more advanced and complex method than any Runge-Kutta method",
+              "It is a simpler, lower-order relative of the more general Runge-Kutta family",
+              "Runge-Kutta methods were derived without any reference to Eulers method",
+              "It has no mathematical relationship to Runge-Kutta methods"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of problem is the improved Euler method typically applied to?",
+            "options": [
+              "Initial value problems for ordinary differential equations",
+              "Static geometry problems involving no rates of change",
+              "Purely algebraic equations with no derivatives",
+              "Problems with no numerical component at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Thomson Effect and Thermoelectric Circuits",
+        "summary": "Grade 12 Physics strand: the Thomson effect describes the heating or cooling that occurs when an electric current flows through a conductor along which a temperature gradient already exists, a third thermoelectric phenomenon alongside the Seebeck and Peltier effects studied earlier in this course.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Thomson effect describe?",
+            "options": [
+              "A phenomenon that occurs only in a perfect vacuum with no conductor",
+              "Heating or cooling that occurs when current flows through a conductor with an existing temperature gradient",
+              "The complete absence of heat transfer in any conductor",
+              "A change in a materials colour caused by an electric current"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must already exist along a conductor for the Thomson effect to occur?",
+            "options": [
+              "An external magnetic field with no current involved",
+              "A complete absence of any electric current",
+              "A perfectly uniform temperature throughout",
+              "A temperature gradient"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Alongside which two thermoelectric effects studied earlier does the Thomson effect belong?",
+            "options": [
+              "The Hall effect and the Coriolis effect",
+              "The Seebeck effect and the Peltier effect",
+              "The photoelectric effect and the Zeeman effect",
+              "The Doppler effect and the Compton effect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What direction of energy transfer can the Thomson effect produce in a current-carrying conductor?",
+            "options": [
+              "Only cooling, under every possible condition",
+              "Either heating or cooling, depending on the direction of current relative to the temperature gradient",
+              "No energy transfer of any kind, regardless of conditions",
+              "Only heating, under every possible condition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are the Seebeck, Peltier, and Thomson effects grouped together as thermoelectric phenomena?",
+            "options": [
+              "They describe interactions between light and matter, not heat and current",
+              "They only apply to conductors at absolute zero temperature",
+              "They describe entirely unrelated phenomena with no shared theme",
+              "Each describes a distinct interaction between heat flow and electric current in a conductor"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 150,
+    "label": "Day 150 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Detective Fiction, Naturalism, and Popular Forms",
+        "summary": "Grade 12 English strand review: students revisit the mock-epic, the pastoral tradition, detective fiction and the golden age whodunit, literary naturalism, and memoir and the art of life writing.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does a mock-epic typically do with the grand conventions of epic poetry?",
+            "options": [
+              "Removes all poetic devices from the epic form",
+              "Turns the epic into a private diary with no audience",
+              "Uses them only to describe genuine historical battles",
+              "Applies them to a trivial or minor subject to create a comic, satirical effect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the pastoral tradition typically idealize?",
+            "options": [
+              "The corruption of royal courts with no counterpoint",
+              "The complexity and noise of city life",
+              "Industrial machinery and urban commerce",
+              "Rural life and nature, often voiced through shepherd or rustic figures"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What structure typically defines golden age detective fiction?",
+            "options": [
+              "A story with no crime or mystery of any kind",
+              "A tale told entirely without a detective figure",
+              "A puzzle-like mystery solved through logical deduction from carefully planted clues",
+              "A narrative that reveals the culprit before any investigation begins"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What forces do naturalist novels typically emphasize as shaping character?",
+            "options": [
+              "Supernatural forces such as ghosts and spirits",
+              "Heredity, environment, and social forces beyond the characters control",
+              "Pure random chance with no underlying pattern at all",
+              "Only the characters own free choices, with no outside influence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does memoir typically reconstruct?",
+            "options": [
+              "A purely fictional life invented for entertainment",
+              "A biography of a person the author has never met",
+              "A specific period or theme from the authors own life",
+              "A complete, chronological record of an entire life from birth to the present"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "AdvancedFunctions Review: Statistics, Algebra, and Graph Theory",
+        "summary": "Grade 12 Advanced Functions strand review: students revisit the Poisson distribution, the law of quadratic reciprocity, group theory, Boolean algebra and logic gates, and correlation and the Pearson correlation coefficient.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What kind of events does the Poisson distribution typically model?",
+            "options": [
+              "Events that always occur at exactly the same time",
+              "Only events with a probability of exactly one half",
+              "Events with no possible variation whatsoever",
+              "Rare, independent events occurring a certain number of times in a fixed interval"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the law of quadratic reciprocity relate?",
+            "options": [
+              "The sum of two unrelated even numbers",
+              "Whether p is a quadratic residue modulo q to whether q is a quadratic residue modulo p",
+              "The value of an unrelated trigonometric identity",
+              "The number of divisors of a composite number only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What four properties define a group under its operation?",
+            "options": [
+              "Commutativity alone, with no identity element required",
+              "A requirement that the set contain exactly one element",
+              "Only closure, with no other requirements",
+              "Closure, associativity, an identity element, and inverses for every element"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What values does Boolean algebra fundamentally operate on?",
+            "options": [
+              "Negative fractions only",
+              "True and false (or one and zero) values",
+              "Only irrational numbers",
+              "Complex numbers exclusively"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Pearson correlation coefficient measure?",
+            "options": [
+              "The strength and direction of the linear relationship between two quantitative variables",
+              "The total number of data points collected",
+              "The exact mean of a single data set",
+              "The mode of a categorical variable"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus Review: Differential Equations and Numerical Methods",
+        "summary": "Grade 12 Calculus strand review: students revisit Cauchy-Euler equations, exact differential equations, the secant method, Romberg integration, and the inverse Laplace transform.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What distinguishes a Cauchy-Euler equation from the constant-coefficient equations studied earlier?",
+            "options": [
+              "It is always a first-order equation",
+              "It can only be solved numerically, never analytically",
+              "Its coefficients are powers of the independent variable rather than constants",
+              "It has no derivatives of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean for a first-order differential equation to be exact?",
+            "options": [
+              "It must always be solved using only numerical methods",
+              "It can be written as the differential of some underlying function",
+              "It has no solution under any circumstances",
+              "It requires no partial derivatives to analyze"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What line does the secant method use to generate its next root approximation?",
+            "options": [
+              "A vertical line through a single point",
+              "A line tangent to the curve at one point only",
+              "A line through two nearby points on the curve",
+              "A line with no relationship to the curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What numerical integration method does Romberg integration build upon and improve?",
+            "options": [
+              "The trapezoid rule",
+              "The method of undetermined coefficients",
+              "Lagrange interpolation alone",
+              "The bisection method for root-finding"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the inverse Laplace transform do?",
+            "options": [
+              "Doubles the degree of a polynomial function",
+              "Removes all variables from a function entirely",
+              "Converts a function of s back into a function of t",
+              "Converts a function of t into an unrelated function of x"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics Review: Fluid, Optical, and Electromagnetic Effects",
+        "summary": "Grade 12 Physics strand review: students revisit the Magnus effect, the Venturi effect and Bernoullis principle, total internal reflection, Newtons rings, and the Tyndall effect.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What is the Magnus effect?",
+            "options": [
+              "The complete absence of drag on a spinning object",
+              "The tendency of an object to fall in a perfectly straight line",
+              "The curved path taken by a spinning object moving through a fluid, caused by a sideways lift force",
+              "A magnetic force acting on any moving object"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Venturi effect describe?",
+            "options": [
+              "A drop in fluid pressure as the fluid speeds up through a constricted section of a pipe",
+              "The complete stopping of fluid flow at a constriction",
+              "A rise in fluid pressure whenever a pipe widens",
+              "A change in fluid temperature with no change in pressure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is total internal reflection?",
+            "options": [
+              "A phenomenon that only occurs with sound waves",
+              "Light reflecting entirely back into a denser medium when it strikes a boundary at an angle greater than the critical angle",
+              "The complete absorption of light at any surface",
+              "Light passing completely unaffected through any boundary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What pattern do Newtons rings form?",
+            "options": [
+              "Concentric bright and dark circular fringes",
+              "A uniform, unchanging field of one colour",
+              "A random, non-repeating scatter of colour",
+              "A single straight bright line with no pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Tyndall effect?",
+            "options": [
+              "The scattering of light by particles suspended in a colloid, making a beam of light visible from the side",
+              "The complete absorption of all light by a transparent solution",
+              "The bending of light as it passes through a single flat pane of glass",
+              "A phenomenon that only occurs in a perfect vacuum"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]
