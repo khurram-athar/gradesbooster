@@ -5501,6 +5501,386 @@ const curriculum: DayContent[] = [
      {q:"What did the printing press allow people to do?", options:["Build large stone monuments","Produce books and documents quickly and affordably","Communicate instantly across long distances","Travel between countries more quickly"], answer:1}
    ]},
 ]},
+{day:141, label:"Day 141 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Interjections and Exclamatory Sentences", summary:"Grade 6 Language strand: an interjection is a word or phrase that expresses strong or sudden emotion, such as surprise, joy, or pain, and is often followed by an exclamation mark, while an exclamatory sentence expresses strong feeling as a complete sentence.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is an interjection?", options:["A word or phrase that expresses strong or sudden emotion","A verb that shows action","A pronoun that replaces a noun","A word that joins two clauses together"], answer:0},
+     {q:"Which of these is an example of an interjection?", options:["Because","Quickly","Under","Wow"], answer:3},
+     {q:"What punctuation mark most often follows a strong interjection?", options:["A colon","A comma only","An exclamation mark","A question mark"], answer:2},
+     {q:"Which sentence is exclamatory?", options:["Did you see the goal?","The game starts at noon.","What an amazing goal that was","Please pass the ball."], answer:2},
+     {q:"Why might a writer use an interjection in dialogue?", options:["To remove all emotion from the writing","To show a characters sudden emotion in a natural, realistic way","To make a sentence grammatically incomplete","To replace the need for any punctuation"], answer:1}
+   ]},
+  {subject:"Math", title:"Algebra: Combining Like Terms", summary:"Grade 6 Math strand: like terms have the same variable raised to the same power, and combining like terms means adding or subtracting their coefficients to simplify an algebraic expression.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What are like terms?", options:["Terms that have the same variable raised to the same power","Any two terms found in the same expression","Terms that always have the same numerical coefficient","Terms that contain no variables at all"], answer:0},
+     {q:"Which pair of terms are like terms?", options:["3x and 7y","3x and 7x squared","3x and 7x","3 and x"], answer:2},
+     {q:"What is the simplified form of 4x plus 5x?", options:["4x plus 5","9x squared","20x","9x"], answer:3},
+     {q:"Why can 6y and 2 not be combined as like terms?", options:["One term has a variable and the other does not","Both terms are already fully simplified","Both terms have the exact same variable","Numbers can never appear in algebraic expressions"], answer:0},
+     {q:"Why is combining like terms a useful first step when simplifying an expression?", options:["It always makes an expression longer and more complex","It reduces the expression to its simplest form, making it easier to work with","Like terms must always be kept separate in every expression","Combining like terms changes the value of the expression"], answer:1}
+   ]},
+  {subject:"Science", title:"Renewable Energy: Biomass and Biofuels", summary:"Grade 6 Science strand: biomass energy comes from burning or converting organic material such as wood, crop waste, or plant matter into usable energy, and biofuels are liquid fuels made from these renewable organic sources.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is biomass energy made from?", options:["Nuclear reactions inside a power plant","Only fossil fuels formed over millions of years","Wind passing through a turbine","Organic material such as wood, crop waste, or plant matter"], answer:3},
+     {q:"What is a biofuel?", options:["A fuel made only from crude oil","A fuel that can never be renewed","A liquid fuel made from renewable organic sources","A type of nuclear fuel rod"], answer:2},
+     {q:"Why is biomass considered a renewable energy source?", options:["The organic materials it uses can be regrown or replenished over time","It can never be replenished once it is used","It relies entirely on materials formed over millions of years","It requires no natural resources at all"], answer:0},
+     {q:"What is one way biomass energy is commonly produced?", options:["By burning organic material to generate heat or electricity","By capturing sunlight with solar panels","By harnessing the power of moving water","By splitting atoms inside a reactor"], answer:0},
+     {q:"What is one potential drawback of relying heavily on biomass energy?", options:["Biomass sources can never be regrown","Growing crops for fuel could compete with land needed for growing food","Biomass energy has no environmental impact whatsoever","Biomass energy produces no usable heat or electricity"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Residential Schools in Canada — A History", summary:"Grade 6 Social Studies strand: from the 1800s until 1996, the Canadian government and churches operated residential schools that forcibly removed Indigenous children from their families, banning their languages and cultures, a system now recognized as a deeply harmful chapter in Canadian history.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What were residential schools in Canada designed to do?", options:["Forcibly remove Indigenous children from their families and assimilate them","Teach Indigenous languages and cultural traditions","Offer free summer camps for Canadian families","Provide optional after-school tutoring for all Canadian children"], answer:0},
+     {q:"Approximately when did the last residential school in Canada close?", options:["2010","1996","1867","1945"], answer:1},
+     {q:"What were Indigenous children at residential schools often forbidden from doing?", options:["Attending classes of any kind","Wearing school uniforms","Living in Canada","Speaking their own languages and practicing their own cultures"], answer:3},
+     {q:"Why is the history of residential schools an important part of understanding Canadian history today?", options:["It has no connection to present-day Canada","It helps explain ongoing effects on Indigenous communities and the importance of reconciliation","This history is not taught or discussed in Canada","Residential schools had no lasting impact on families"], answer:1},
+     {q:"Why might learning about residential schools be connected to the work of the Truth and Reconciliation Commission?", options:["The two topics have no relationship to each other","The commission was created to document this history and support healing and reconciliation","Truth and reconciliation only apply to unrelated international events","The commission was created before residential schools existed"], answer:1}
+   ]},
+]},
+{day:142, label:"Day 142 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Distinguishing Theme from Topic", summary:"Grade 6 Language strand: a topic is what a text is about in a word or phrase, while a theme is the deeper message or lesson about life that the author conveys through the topic.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is the difference between a topic and a theme?", options:["A theme is only found in nonfiction texts","A topic is always longer than a theme","A topic is what a text is about, while a theme is the deeper message the text conveys","A topic and a theme always mean exactly the same thing"], answer:2},
+     {q:"Which of these is most likely a topic rather than a theme?", options:["Friendship","True friendship requires honesty","Courage often comes from unexpected places","Loyalty grows through shared hardship"], answer:0},
+     {q:"In a story about a fox who learns to trust others, what would be the theme?", options:["Foxes","Animals in winter","Trust can grow even after being hurt","A forest setting"], answer:2},
+     {q:"How can a reader usually identify the theme of a story?", options:["By considering what lesson the characters learn by the end","By ignoring the characters actions entirely","By looking only at the title of the story","By counting the number of pages in the text"], answer:0},
+     {q:"Why might two different readers describe the theme of the same story in slightly different ways?", options:["Only the author can correctly identify a theme","Every reader must always identify the exact same theme","Theme is a fixed fact stated directly in every text","Readers can interpret the deeper meaning of a text differently based on their own perspective"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Adding and Subtracting Mixed Numbers with Regrouping", summary:"Grade 6 Math strand: adding or subtracting mixed numbers sometimes requires regrouping, which means converting a whole number into a fraction (or combining a fraction greater than one back into a whole number) to complete the calculation.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does it mean to regroup when subtracting mixed numbers?", options:["To round both mixed numbers to the nearest whole number","To multiply both mixed numbers together","To ignore the fractional part of a mixed number","To convert a whole number into a fraction so subtraction is possible"], answer:3},
+     {q:"When might regrouping be necessary while subtracting mixed numbers?", options:["When the fraction being subtracted is larger than the fraction it is subtracted from","When both fractions have the exact same denominator already","Regrouping is never needed with mixed numbers","When mixed numbers are being multiplied, not subtracted"], answer:0},
+     {q:"What must be true of the denominators before adding two mixed numbers?", options:["They must always be equal to the whole number part","They must always be different from each other","They must be the same, or converted to a common denominator","Denominators do not matter when adding mixed numbers"], answer:2},
+     {q:"If adding the fractional parts of two mixed numbers produces a fraction greater than one, what should be done?", options:["Convert the extra amount into a whole number and add it to the whole number part","Discard the whole number parts of both mixed numbers","Ignore the extra amount entirely","Multiply the result by two"], answer:0},
+     {q:"Why is understanding regrouping important when working with mixed numbers?", options:["It removes the need to ever use fractions","Regrouping is only useful for whole numbers, never fractions","It allows accurate addition and subtraction even when fractions do not divide evenly","Mixed numbers cannot be added or subtracted without a calculator"], answer:2}
+   ]},
+  {subject:"Science", title:"Ecosystems: Carrying Capacity and Population Limits", summary:"Grade 6 Science strand: carrying capacity is the maximum population size an ecosystem can support long-term based on available resources such as food, water, and shelter, and populations that exceed this limit often decline.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is carrying capacity?", options:["The total number of species living on Earth","A measurement of how tall plants grow in an ecosystem","The maximum population size an ecosystem can support long-term","The exact number of predators in an ecosystem"], answer:2},
+     {q:"What factors help determine an ecosystems carrying capacity?", options:["Only the size of the ecosystem in square kilometres","The colour of the animals living there","Available food, water, and shelter","Only the number of predators present"], answer:2},
+     {q:"What often happens when a population exceeds an ecosystems carrying capacity?", options:["The ecosystem automatically creates more resources","The population grows forever with no limits","The population tends to decline due to limited resources","Carrying capacity has no effect on population size"], answer:2},
+     {q:"How might a drought affect the carrying capacity of a grassland ecosystem?", options:["Droughts have no effect on carrying capacity","It could lower the carrying capacity by reducing available food and water","It would always increase the carrying capacity","It would only affect predators, not prey"], answer:1},
+     {q:"Why is understanding carrying capacity important for wildlife management?", options:["It helps determine how many animals an ecosystem can sustainably support","Wildlife populations never need to be managed","It only applies to ecosystems with no animals present","Carrying capacity has no practical use for managing wildlife"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Order of Canada — Honouring Outstanding Canadians", summary:"Grade 6 Social Studies strand: the Order of Canada is one of the countrys highest civilian honours, awarded to individuals who have made outstanding contributions to the nation in fields such as the arts, science, community service, and public life.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Order of Canada?", options:["A branch of the Canadian military","A federal government department","A type of Canadian currency","One of the countrys highest civilian honours"], answer:3},
+     {q:"Who typically receives the Order of Canada?", options:["Individuals who have made outstanding contributions to Canada","Only citizens of other countries","Only elected members of Parliament","Only professional athletes"], answer:0},
+     {q:"In what kinds of fields might someone earn the Order of Canada?", options:["Only professional cooking","The arts, science, community service, and public life","Only video game design","Only weather forecasting"], answer:1},
+     {q:"Why might a country create an honour like the Order of Canada?", options:["To reward only government employees","To publicly recognize and celebrate significant contributions to society","To replace the need for elections","Honours like this have no real purpose"], answer:1},
+     {q:"Why could receiving the Order of Canada inspire other Canadians?", options:["It only recognizes achievements made outside of Canada","The award is never publicized to the Canadian public","It highlights meaningful ways ordinary people can make a lasting difference","Such honours discourage people from contributing to their communities"], answer:2}
+   ]},
+]},
+{day:143, label:"Day 143 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing an Acrostic Poem", summary:"Grade 6 Language strand: an acrostic poem uses the letters of a word spelled vertically down the page, with each letter beginning a line that relates to the overall topic.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is an acrostic poem?", options:["A poem that must rhyme in every line","A poem with exactly fourteen lines","A poem written entirely in one long sentence","A poem in which the first letters of each line spell out a word when read vertically"], answer:3},
+     {q:"If the word OCEAN is used for an acrostic poem, how many lines would the poem likely have?", options:["Ten","Five","Three","Two"], answer:1},
+     {q:"What should each line of an acrostic poem generally relate to?", options:["The overall topic or subject of the poem","Another poems title","A completely unrelated random idea","Only the alphabet in order"], answer:0},
+     {q:"Why might a writer choose an acrostic poem to describe a person?", options:["It always requires a strict rhyme scheme","It removes the need for any descriptive words","It creatively highlights different qualities of that person using each letter of their name","It can only be used to describe objects, not people"], answer:2},
+     {q:"What is one challenge a writer might face when composing an acrostic poem?", options:["Every line must be exactly the same length","Acrostic poems never present any challenge","Finding words that both start with the correct letter and fit the poems meaning","Acrostic poems cannot include descriptive language"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Surface Area of Cones", summary:"Grade 6 Math strand: the surface area of a cone is the sum of the area of its circular base and the area of its curved lateral surface, giving the total area of all the surfaces that cover the shape.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What two parts make up the surface area of a cone?", options:["The circular base and the curved lateral surface","The volume and the radius","Only the circular base, with no other surface","Only the apex point of the cone"], answer:0},
+     {q:"What shape is the base of a cone?", options:["A square","A circle","A rectangle","A triangle"], answer:1},
+     {q:"What is the curved surface of a cone called?", options:["The diameter","The lateral surface","The vertex","The base"], answer:1},
+     {q:"Why is the surface area of a cone always measured in square units?", options:["Because a cone has no circular base","Because surface area measures a two-dimensional covering over a three-dimensional shape","Because square units apply only to volume","Because cones have no measurable surface"], answer:1},
+     {q:"Why might an ice cream cone wrapper need to be shaped to match the cones lateral surface?", options:["Surface area has no connection to real-world wrapping","So the flat wrapper can fold to cover the curved surface without gaps or overlap","Wrappers never need to match the shape they cover","Cones do not have a lateral surface to wrap"], answer:1}
+   ]},
+  {subject:"Science", title:"Simple Machines: The Wheel and Axle", summary:"Grade 6 Science strand: a wheel and axle is a simple machine made of a large wheel attached to a smaller rod called an axle, which reduces the force needed to move or lift objects by rotating together.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What two parts make up a wheel and axle?", options:["Two identical wheels with no connecting rod","A ramp and a lever combined together","A large wheel attached to a smaller rod called an axle","A rope threaded through a wheel"], answer:2},
+     {q:"How does a wheel and axle make work easier?", options:["It always increases the total distance an object must travel","It reduces the force needed to move or lift objects by rotating together","It only works when lifting objects straight up","It removes the need for any force at all"], answer:1},
+     {q:"Which everyday object uses a wheel and axle?", options:["A pair of scissors","A doorknob","A ramp leading into a building","A seesaw"], answer:1},
+     {q:"Why does turning a large wheel make it easier to rotate a smaller axle?", options:["Turning the wheel has no effect on the axle","The wheel and axle always require the exact same amount of force","A small force applied over a larger distance on the wheel creates a greater force on the axle","A wheel and axle cannot multiply force in any way"], answer:2},
+     {q:"Why might a steering wheel in a car be considered a wheel and axle?", options:["Turning the large wheel makes it easier to rotate the smaller steering column","A steering wheel is an example of a lever, not a wheel and axle","Steering wheels never require any force to turn","A steering wheel has no connection to a rotating axle"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Museum for Human Rights", summary:"Grade 6 Social Studies strand: located in Winnipeg, the Canadian Museum for Human Rights is the first museum in the world solely dedicated to the evolution, celebration, and future of human rights, featuring exhibits on both Canadian and global human rights issues.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"In which Canadian city is the Canadian Museum for Human Rights located?", options:["Halifax","Vancouver","Toronto","Winnipeg"], answer:3},
+     {q:"What makes the Canadian Museum for Human Rights unique in the world?", options:["It focuses exclusively on ancient civilizations","It is the oldest museum in North America","It only displays objects related to Canadian sports history","It was the first museum solely dedicated to the topic of human rights"], answer:3},
+     {q:"What kinds of topics might visitors learn about at the museum?", options:["Only ancient Egyptian artifacts","Canadian and global human rights issues","Only outer space exploration","Only the history of Canadian currency"], answer:1},
+     {q:"Why might a country choose to build a museum dedicated to human rights?", options:["To educate the public and encourage reflection on rights and responsibilities","To avoid discussing difficult parts of history","Human rights are not considered an important topic to teach","Museums have no role in educating the public"], answer:0},
+     {q:"Why might learning about human rights history help visitors understand present-day issues?", options:["Past events have no connection to issues happening today","Human rights issues have never changed throughout history","Understanding past struggles can provide context for ongoing human rights challenges","Museums cannot connect historical and current events"], answer:2}
+   ]},
+]},
+{day:144, label:"Day 144 — Thu", subjects:[
+  {subject:"Language", title:"Media Literacy: Recognizing Sponsored Content and Native Advertising", summary:"Grade 6 Language strand: sponsored content and native advertising are paid promotions designed to look like regular articles or posts, making it important for readers to identify labels such as sponsored or ad before trusting the information.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is sponsored content?", options:["Paid promotional material designed to look like a regular article or post","A government report on public spending","A personal diary entry shared online","A news story written without any payment involved"], answer:0},
+     {q:"What label might indicate that a post is native advertising?", options:["Opinion","Editorial","Breaking News","Sponsored or Ad"], answer:3},
+     {q:"Why is native advertising sometimes hard for readers to identify?", options:["It is always printed in a bright red font","It never contains any images","It is designed to blend in with the regular content around it","It only ever appears on television"], answer:2},
+     {q:"Why should a critical reader check whether an online article is sponsored?", options:["Sponsored content is always more accurate than regular articles","Sponsored labels have no effect on how a reader should judge content","Only textbooks can ever be considered sponsored","Sponsored content may be biased toward promoting a product or service"], answer:3},
+     {q:"What might motivate a company to pay for native advertising instead of a traditional ad?", options:["Native advertising cannot appear on social media","Native advertising is always more expensive with no added benefit","It can reach readers who might otherwise ignore an obvious advertisement","Companies are legally required to disguise every advertisement"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Finding the Midpoint and Length of a Line Segment", summary:"Grade 6 Math strand: the midpoint of a line segment on a coordinate grid is the point exactly halfway between its two endpoints, and the length of a horizontal or vertical segment can be found by counting units or subtracting coordinates.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is the midpoint of a line segment?", options:["Either one of the two endpoints","A point that is never on the segment itself","The point exactly halfway between the two endpoints","The point farthest from both endpoints"], answer:2},
+     {q:"What is the midpoint of a segment with endpoints at 2 and 8 on a number line?", options:["5","4","6","10"], answer:0},
+     {q:"How can you find the length of a horizontal segment on a coordinate grid?", options:["Add both y-coordinates together","Count only the y-coordinates","Multiply the two x-coordinates together","Subtract the smaller x-coordinate from the larger x-coordinate"], answer:3},
+     {q:"What is the length of a horizontal segment from x equals 3 to x equals 9?", options:["3 units","12 units","6 units","9 units"], answer:2},
+     {q:"Why is finding a midpoint a useful skill in coordinate geometry?", options:["Midpoints can only be found using a ruler","Midpoints have no real use in mathematics","Midpoints are identical to endpoints","It helps locate the exact centre of a segment for tasks like bisecting or designing"], answer:3}
+   ]},
+  {subject:"Science", title:"Nuclear Energy: How Nuclear Power Plants Generate Electricity", summary:"Grade 6 Science strand: nuclear power plants generate electricity by splitting uranium atoms in a process called fission, which releases heat used to produce steam that spins turbines connected to generators.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What process do nuclear power plants use to release energy?", options:["Fission, the splitting of uranium atoms","Evaporation of water in a cooling tower","Photosynthesis, the process plants use to make food","Combustion of large amounts of coal"], answer:0},
+     {q:"What does the heat released during nuclear fission produce?", options:["Wind, which spins wind turbines","Sunlight, which powers solar panels","Steam, which is used to spin turbines","Electricity directly, with no other steps"], answer:2},
+     {q:"What connects the spinning turbines in a nuclear power plant to electricity production?", options:["A wind vane","A solar panel","A battery","A generator"], answer:3},
+     {q:"What is one advantage of nuclear energy compared to fossil fuels?", options:["It relies entirely on sunlight to function","It always requires burning large amounts of coal","It produces electricity without directly releasing greenhouse gases during generation","It cannot generate large amounts of electricity"], answer:2},
+     {q:"What is one challenge associated with nuclear power plants?", options:["Nuclear plants never produce any waste at all","Nuclear plants cannot generate electricity efficiently","Nuclear energy relies entirely on wind conditions","Safely storing and disposing of radioactive waste"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Provinces and Territories — Capitals and Regions", summary:"Grade 6 Social Studies strand: Canada is made up of ten provinces and three territories, each with its own capital city, and understanding their locations and regional groupings helps build a clearer picture of the countrys geography.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"How many provinces does Canada have?", options:["Ten","Thirteen","Twelve","Eight"], answer:0},
+     {q:"How many territories does Canada have?", options:["Ten","One","Five","Three"], answer:3},
+     {q:"What is the capital city of Ontario?", options:["Kingston","Ottawa","Hamilton","Toronto"], answer:3},
+     {q:"Which territory has Yellowknife as its capital?", options:["Nunavut","British Columbia","The Northwest Territories","Yukon"], answer:2},
+     {q:"Why is it useful to understand the regional groupings of Canadas provinces and territories?", options:["Regional groupings have no connection to geography or history","It helps show patterns in geography, climate, and shared history across regions","Every province and territory is identical in climate and geography","Canada does not have any distinct regions"], answer:1}
+   ]},
+]},
+{day:145, label:"Day 145 — Fri", subjects:[
+  {subject:"Language", title:"Grammar: Compound-Complex Sentences", summary:"Grade 6 Language strand: a compound-complex sentence combines at least two independent clauses with at least one dependent clause, allowing writers to express multiple related ideas with varying levels of importance in a single sentence.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What makes a sentence compound-complex?", options:["It combines at least two independent clauses with at least one dependent clause","It always begins with a conjunction","It contains only a single independent clause","It never contains any punctuation"], answer:0},
+     {q:"Which sentence is compound-complex?", options:["It was raining outside.","Although it was raining, we went outside, and we still had fun.","We had fun playing outside.","We went outside."], answer:1},
+     {q:"How many independent clauses does a compound-complex sentence need at minimum?", options:["Zero","Four","One","Two"], answer:3},
+     {q:"Why might a writer use a compound-complex sentence?", options:["To make writing shorter and less detailed","To connect several related ideas smoothly while showing their relative importance","To avoid using any conjunctions","To remove all subordinate ideas from a sentence"], answer:1},
+     {q:"What could happen if a compound-complex sentence is missing correct punctuation?", options:["The meaning of the sentence would always stay perfectly clear","The sentence would automatically become a simple sentence","Punctuation has no effect on compound-complex sentences","The sentence could become confusing or difficult for a reader to follow"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Naming and Classifying Polygons (Pentagons Through Decagons)", summary:"Grade 6 Math strand: polygons are named according to their number of sides, ranging from a pentagon with five sides to a decagon with ten sides, and can be classified as regular or irregular based on whether all sides and angles are equal.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"How many sides does a pentagon have?", options:["Six","Five","Four","Eight"], answer:1},
+     {q:"How many sides does a decagon have?", options:["Twelve","Seven","Ten","Nine"], answer:2},
+     {q:"What makes a polygon regular?", options:["All of its sides and angles are equal","It cannot have any straight sides","It has an odd number of sides","It must always be a triangle"], answer:0},
+     {q:"What is a polygon with seven sides called?", options:["A heptagon","A nonagon","An octagon","A hexagon"], answer:0},
+     {q:"Why might classifying polygons by their number of sides be useful in geometry?", options:["Polygons cannot be classified by their sides","All polygons must be named using the same single term","Naming polygons has no practical use in geometry","It allows shapes to be identified and compared using a consistent naming system"], answer:3}
+   ]},
+  {subject:"Science", title:"Monarch Butterfly Migration: A Multi-Generation Journey", summary:"Grade 6 Science strand: monarch butterflies migrate thousands of kilometres between North America and central Mexico each year, with the return journey often completed across several generations of butterflies rather than by a single individual.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Where do monarch butterflies from eastern North America typically migrate to for the winter?", options:["The Arctic Ocean","Central Mexico","Northern Canada","Antarctica"], answer:1},
+     {q:"How is monarch migration different from many bird migrations?", options:["Monarch migration happens underwater","Monarchs never migrate more than a few kilometres","A single monarch always completes the entire round-trip migration alone","The return journey is often completed across several generations of butterflies"], answer:3},
+     {q:"Why do monarch butterflies migrate south for the winter?", options:["To escape cold temperatures that they cannot survive","To avoid sunlight during the winter months","To find colder climates for hibernation","Monarchs do not actually migrate at all"], answer:0},
+     {q:"What plant do monarch caterpillars depend on for food?", options:["Oak leaves","Wheat","Pine needles","Milkweed"], answer:3},
+     {q:"Why is the loss of milkweed habitat a concern for monarch populations?", options:["Milkweed has no connection to monarch survival","Losing milkweed only affects adult butterflies, not caterpillars","Monarchs can survive equally well on any plant","Without milkweed, monarch caterpillars lose their only food source"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: How the Federal Government Creates a Budget", summary:"Grade 6 Social Studies strand: each year, the federal government creates a budget that outlines planned spending and expected revenue, deciding how tax dollars will be used to fund programs such as healthcare, education, and infrastructure.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What does a federal budget outline?", options:["Planned government spending and expected revenue","Only the salaries of elected officials","The results of the most recent election","A list of upcoming national holidays"], answer:0},
+     {q:"Where does most of the money in a federal budget come from?", options:["Taxes collected from individuals and businesses","Money borrowed exclusively from banks in other nations","Donations from other countries","Sales of government-owned artwork"], answer:0},
+     {q:"What are examples of programs that a federal budget might help fund?", options:["Healthcare, education, and infrastructure","Only private businesses","Only professional sports teams","Only entertainment television programs"], answer:0},
+     {q:"Why might government departments compete for a share of the federal budget?", options:["Every department automatically receives an unlimited amount of funding","Budgets are created without any spending limits","Federal budgets do not need to divide money between departments","There is a limited amount of money to be divided among many important priorities"], answer:3},
+     {q:"Why is it important for citizens to understand how a federal budget is created?", options:["It helps them understand how public money is raised and spent on their behalf","Citizens have no connection to how government money is spent","Federal budgets are always kept completely secret from the public","Understanding budgets has no relevance to everyday life"], answer:0}
+   ]},
+]},
+{day:146, label:"Day 146 — Mon", subjects:[
+  {subject:"Language", title:"Oral Communication: Delivering an Elevator Pitch", summary:"Grade 6 Language strand: an elevator pitch is a brief, persuasive speech that clearly and quickly explains an idea, project, or product, typically lasting no longer than the length of a short elevator ride.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is an elevator pitch?", options:["A lengthy formal report delivered over several days","A private letter sent only to one person","A brief, persuasive speech that quickly explains an idea","A silent presentation with no spoken words"], answer:2},
+     {q:"About how long should an elevator pitch typically last?", options:["A full school day","Several days","Over an hour","Under a minute"], answer:3},
+     {q:"What is the main goal of an elevator pitch?", options:["To quickly capture interest and clearly explain the key idea","To confuse the listener with technical language","To describe every possible detail of a topic","To avoid making eye contact with the listener"], answer:0},
+     {q:"Why might a speaker practice an elevator pitch multiple times before delivering it?", options:["To make the delivery sound confident, clear, and concise","Practice has no effect on how a pitch sounds","Elevator pitches should never be rehearsed","Practicing makes a pitch longer and less clear"], answer:0},
+     {q:"Which of these would be most important to include in an elevator pitch about a new school club?", options:["A clear, exciting summary of what the club does and why to join","An unrelated story about an unrelated topic","A long list of unrelated statistics","A complete history of every club at the school"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Identifying Misleading Graphs", summary:"Grade 6 Math strand: a graph can be misleading if its scale is manipulated, its axes are not labelled clearly, or only part of the data is shown, so critical readers should check these features before drawing conclusions.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is one way a graph can be made misleading?", options:["By including a clear title and labelled axes","By always starting the y-axis at exactly zero","By showing all of the relevant data honestly","By manipulating the scale of the axis to exaggerate differences"], answer:3},
+     {q:"Why might a bar graph appear misleading if its y-axis does not start at zero?", options:["Starting an axis above zero never affects how a graph looks","It can make small differences between bars look much larger than they really are","It always makes every bar look exactly the same size","It has no effect on how the data is perceived"], answer:1},
+     {q:"What should a critical reader check before trusting a graph?", options:["Only the colours used in the graph","Only the title of the graph, ignoring all other features","The scale, labels, and source of the data","Nothing, since all graphs are equally accurate"], answer:2},
+     {q:"Why might someone intentionally create a misleading graph?", options:["Graphs cannot be used to support a claim or opinion","To make data appear to support a particular claim or opinion","Misleading graphs are always created purely by accident","Every graph is required by law to be completely accurate"], answer:1},
+     {q:"What is one way to make a graph more trustworthy and accurate?", options:["Remove all labels from the axes","Leave out the source of the data entirely","Clearly label the axes and use a consistent, honest scale","Choose a scale that exaggerates the data as much as possible"], answer:2}
+   ]},
+  {subject:"Science", title:"Deep-Sea Ecosystems and Hydrothermal Vents", summary:"Grade 6 Science strand: hydrothermal vents are openings on the ocean floor that release heated, mineral-rich water, supporting unique deep-sea ecosystems where organisms rely on chemosynthesis instead of sunlight for energy.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a hydrothermal vent?", options:["A shallow pool found along a beach","A type of underwater volcano that no longer produces heat","A structure built by humans to study the ocean","An opening on the ocean floor that releases heated, mineral-rich water"], answer:3},
+     {q:"What process do organisms near hydrothermal vents use to produce energy instead of photosynthesis?", options:["Respiration","Evaporation","Chemosynthesis","Condensation"], answer:2},
+     {q:"Why cannot organisms near hydrothermal vents rely on photosynthesis?", options:["Photosynthesis requires no sunlight at all","Sunlight does not reach the deep ocean floor where vents are located","Deep-sea organisms do not require any energy source","Hydrothermal vents block all forms of energy production"], answer:1},
+     {q:"What is released from a hydrothermal vent that helps support nearby life?", options:["Oxygen produced by nearby plants","Heated water rich in minerals and chemicals","Sunlight reflected from the ocean surface","Cold, mineral-free water"], answer:1},
+     {q:"Why are hydrothermal vent ecosystems considered scientifically significant?", options:["They contain no living organisms of any kind","They are identical to ecosystems found near the ocean surface","They show that life can thrive without relying on sunlight for energy","They prove that no life can survive in the deep ocean"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Numbered Treaties — Agreements Between Canada and First Nations", summary:"Grade 6 Social Studies strand: between 1871 and 1921, the Canadian government signed a series of numbered treaties with First Nations across much of the country, agreements that involved land, resources, and promises that have shaped relationships between Canada and Indigenous peoples ever since.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What were the numbered treaties?", options:["An agreement between Canada and another country","A set of laws about Canadian currency","A series of agreements signed between the Canadian government and First Nations","A list of Canadian provinces in order of population"], answer:2},
+     {q:"During roughly what time period were the numbered treaties signed?", options:["1871 to 1921","1600 to 1650","1950 to 1975","2000 to 2010"], answer:0},
+     {q:"What kinds of issues did the numbered treaties often address?", options:["Land, resources, and promises made to First Nations","Only trade rules with other countries","Only immigration policy","Only rules about national holidays"], answer:0},
+     {q:"Why do the numbered treaties continue to matter in Canada today?", options:["They were fully replaced by new agreements soon after being signed","They continue to shape legal and political relationships between Canada and Indigenous peoples","Treaties from this period were never legally binding","They have no ongoing effect on modern Canada"], answer:1},
+     {q:"Why might understanding the numbered treaties help explain present-day Indigenous rights discussions?", options:["These treaties have no connection to modern rights discussions","The numbered treaties were purely symbolic with no real terms","Many current rights and land discussions trace back to promises made in these treaties","Indigenous rights issues began only in the twenty-first century"], answer:2}
+   ]},
+]},
+{day:147, label:"Day 147 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Understanding Jargon and Technical Vocabulary", summary:"Grade 6 Language strand: jargon refers to specialized words or phrases used within a particular field or group, and while it helps experts communicate precisely, it can confuse readers who are unfamiliar with the subject.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is jargon?", options:["Vocabulary that everyone understands equally well","Words that have no real meaning at all","Language used only in casual conversation","Specialized vocabulary used within a particular field or group"], answer:3},
+     {q:"Which of these is an example of medical jargon?", options:["Quickly","Happy","Table","Cardiovascular"], answer:3},
+     {q:"Why might jargon confuse a general audience?", options:["Every reader automatically understands all jargon","Jargon is always identical to everyday language","Jargon never appears in written texts","Readers unfamiliar with the field may not know the specialized meaning of the words"], answer:3},
+     {q:"What might a writer do to help a general audience understand necessary jargon?", options:["Remove all vocabulary related to the topic","Use as much unexplained jargon as possible","Define or explain the term clearly the first time it is used","Avoid explaining any specialized terms"], answer:2},
+     {q:"Why might experts in a field continue to use jargon among themselves?", options:["Experts are required by law to avoid jargon","It allows them to communicate complex ideas precisely and efficiently","Jargon has no useful purpose among experts","Jargon always slows down communication between experts"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: Calculating Expected Value", summary:"Grade 6 Math strand: expected value is the average outcome of a probability experiment if it were repeated many times, calculated by multiplying each possible outcome by its probability and adding the results together.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does expected value represent?", options:["A value that has no connection to probability","The largest possible outcome in an experiment","The average outcome of an experiment if it were repeated many times","The single outcome that will always occur every time"], answer:2},
+     {q:"How is expected value calculated?", options:["By adding all possible outcomes without using probability","By multiplying each outcome by its probability and adding the results","By choosing the most frequent outcome only","By dividing the number of outcomes by two"], answer:1},
+     {q:"If a game has a fifty percent chance of winning ten points and a fifty percent chance of winning zero points, what is the expected value?", options:["Twenty points","Zero points","Ten points","Five points"], answer:3},
+     {q:"Why might a business use expected value when making decisions?", options:["Businesses never need to consider probability","Expected value has no use in real-world decision making","To estimate the average result of a decision involving uncertain outcomes","Expected value only applies to games with dice"], answer:2},
+     {q:"Why does expected value not need to match any single actual outcome?", options:["It represents an average over many repeated trials, not one single result","Expected value must always match the very first outcome observed","Every trial of an experiment always produces the expected value exactly","Expected value is only calculated after an experiment ends"], answer:0}
+   ]},
+  {subject:"Science", title:"The Science of Sunscreen and UV Radiation", summary:"Grade 6 Science strand: sunscreen works by absorbing or reflecting ultraviolet (UV) radiation from the Sun, helping protect skin from sunburn and long-term damage caused by overexposure to UV rays.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does sunscreen help protect the skin from?", options:["Ultraviolet (UV) radiation from the Sun","Ordinary visible light only","Sound waves in the environment","Changes in air pressure"], answer:0},
+     {q:"How does sunscreen generally work?", options:["By increasing the skins exposure to UV radiation","By changing the colour of UV radiation","By absorbing or reflecting UV radiation before it damages the skin","By completely blocking all forms of light from reaching the skin"], answer:2},
+     {q:"What can happen to skin after too much unprotected exposure to UV radiation?", options:["A decrease in skin temperature","Sunburn and long-term skin damage","No effect on the skin whatsoever","Immediate and permanent healing of the skin"], answer:1},
+     {q:"What part of the electromagnetic spectrum does UV radiation belong to?", options:["A form of radiation invented by humans","A range with more energy than visible light","Sound waves, not electromagnetic waves","A range with less energy than radio waves only"], answer:1},
+     {q:"Why might sunscreen need to be reapplied throughout the day?", options:["UV radiation only exists in the morning hours","Sunscreen protection lasts permanently after a single application","Reapplying sunscreen has no effect on its protection","Its protective effectiveness can decrease over time or wash away with water and sweat"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Coast Guard and Maritime Safety", summary:"Grade 6 Social Studies strand: the Canadian Coast Guard is a federal agency responsible for maritime search and rescue, icebreaking, and ensuring safe navigation along Canadas extensive coastlines and waterways.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the main role of the Canadian Coast Guard?", options:["Maritime search and rescue and ensuring safe navigation","Enforcing traffic laws on highways","Collecting federal income taxes","Managing national parks and forests"], answer:0},
+     {q:"What service does the Coast Guard provide in icy northern waters?", options:["Building bridges across rivers","Managing airport security","Constructing new highways","Icebreaking to keep waterways clear for ships"], answer:3},
+     {q:"Why does Canada need a strong coast guard presence?", options:["Maritime safety is not a concern in Canada","Canada has an extensive coastline that requires monitoring and safety support","Ships never travel through Canadian waters","Canada has no coastline requiring protection"], answer:1},
+     {q:"What might the Coast Guard do if a boat gets into trouble at sea?", options:["Only respond if requested by another country","Conduct a search and rescue operation to help those in danger","Wait several weeks before responding","Ignore the situation entirely"], answer:1},
+     {q:"Why is icebreaking an important service for northern Canadian communities?", options:["It helps keep shipping routes open for supplies and transportation","Icebreaking has no benefit for northern communities","Northern communities do not rely on shipping routes","Ice never affects shipping routes in Canada"], answer:0}
+   ]},
+]},
+{day:148, label:"Day 148 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Letter to the Editor", summary:"Grade 6 Language strand: a letter to the editor is a persuasive letter written to a newspaper or magazine expressing an opinion on a current issue, aiming to inform or influence public opinion.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is the purpose of a letter to the editor?", options:["To report neutral sports scores with no opinion included","To summarize an entire novel chapter by chapter","To express an opinion on a current issue and influence public opinion","To provide a private message meant for only one reader"], answer:2},
+     {q:"Where is a letter to the editor typically published?", options:["On a restaurant menu","In a phone book","In a private diary","In a newspaper or magazine"], answer:3},
+     {q:"What should a strong letter to the editor include?", options:["No clear opinion at all","Only vague statements with no supporting details","A clear opinion supported with reasons and evidence","A list of unrelated random facts"], answer:2},
+     {q:"Why might a writer include a call to action at the end of a letter to the editor?", options:["A call to action always weakens a persuasive letter","Letters to the editor cannot include suggestions","To encourage readers to think about or respond to the issue","Calls to action are never included in persuasive writing"], answer:2},
+     {q:"Why do newspapers often publish letters to the editor from members of the public?", options:["Newspapers are required to publish every letter they receive unchanged","To share a range of community perspectives on current issues","Letters to the editor are always written by professional journalists","Public opinion has no place in a newspaper"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Comparing Cell Phone and Subscription Plans", summary:"Grade 6 Math strand: comparing cell phone or subscription plans involves analyzing monthly costs, included features, and extra fees to determine which option offers the best value over time.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What should be compared when choosing between two subscription plans?", options:["Only the colour of the companys logo","Nothing, since all plans always cost the same","Monthly costs, included features, and extra fees","Only how many advertisements a company shows"], answer:2},
+     {q:"If Plan A costs 20 dollars a month and Plan B costs 15 dollars a month with the same features, which plan offers better value?", options:["Plan A","Plan B","Neither plan offers any value","Both plans offer identical value"], answer:1},
+     {q:"Why might a plan with a lower monthly price not always be the best deal?", options:["Features included in a plan never vary between companies","It may include fewer features or have hidden extra fees","Lower monthly prices always guarantee the best possible deal","Extra fees never affect the total cost of a plan"], answer:1},
+     {q:"How could you calculate the total yearly cost of a monthly subscription plan?", options:["Divide the monthly cost by twelve","Add twelve to the monthly cost","Subtract twelve from the monthly cost","Multiply the monthly cost by twelve"], answer:3},
+     {q:"Why is it useful to compare the cost per feature when evaluating subscription plans?", options:["Comparing costs has no impact on making a wise financial choice","It helps determine which plan provides more value for the money spent","Every subscription plan provides the exact same features","Cost per feature is impossible to calculate"], answer:1}
+   ]},
+  {subject:"Science", title:"Earthquake-Resistant Building Design", summary:"Grade 6 Science strand: engineers design earthquake-resistant buildings using features such as flexible materials, deep foundations, and shock-absorbing systems that allow a structure to move and absorb energy during an earthquake instead of collapsing.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is the main goal of earthquake-resistant building design?", options:["To make a building completely immovable during an earthquake","To allow a structure to absorb energy and move without collapsing","To increase the amount of damage caused during an earthquake","To prevent all buildings from ever being built in earthquake zones"], answer:1},
+     {q:"What type of materials are often used in earthquake-resistant buildings?", options:["Flexible materials that can bend and absorb energy","Materials that shatter easily under stress","Materials that cannot be reinforced in any way","Materials that are as rigid and brittle as possible"], answer:0},
+     {q:"What is one feature that helps a building absorb shock during an earthquake?", options:["Building with the tallest possible unsupported walls","Removing the buildings foundation entirely","Shock-absorbing systems built into the structure","Using only glass for every wall"], answer:2},
+     {q:"Why might engineers design deep foundations for buildings in earthquake-prone areas?", options:["Deep foundations make a building more likely to collapse","Foundations are not necessary for earthquake resistance","Deep foundations have no effect on a buildings stability","To help anchor and stabilize the structure during ground movement"], answer:3},
+     {q:"Why is earthquake-resistant design especially important for hospitals and schools?", options:["Earthquake design only matters for very tall skyscrapers","Public buildings do not require special safety design","These buildings must remain safe and functional to protect large numbers of people during a disaster","Hospitals and schools are never affected by earthquakes"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Black Loyalists and Early Black Settlement in Canada", summary:"Grade 6 Social Studies strand: after the American Revolution, thousands of Black Loyalists, many of whom had been formerly enslaved, resettled in British North America, particularly Nova Scotia, forming some of the earliest free Black communities in what is now Canada.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"Who were the Black Loyalists?", options:["Explorers who first mapped the Canadian Arctic","A group of settlers who arrived only in the twentieth century","A group of soldiers who fought only in the War of 1812","Black settlers, many formerly enslaved, who resettled in British North America after the American Revolution"], answer:3},
+     {q:"Which region became a major destination for Black Loyalists?", options:["Alberta","The Northwest Territories","Yukon","Nova Scotia"], answer:3},
+     {q:"What historical event led many Black Loyalists to resettle in British North America?", options:["The Confederation of Canada","The Klondike Gold Rush","The construction of the Canadian Pacific Railway","The American Revolution"], answer:3},
+     {q:"What significance did early Black Loyalist communities have in Canadian history?", options:["They formed some of the earliest free Black communities in what is now Canada","They settled exclusively in present-day Quebec","They had no lasting impact on Canadian history","They arrived after Canada became a country"], answer:0},
+     {q:"Why is learning about Black Loyalist history important to understanding Canadas early settlement patterns?", options:["It highlights the diverse groups of people who shaped early Canadian communities","Black Loyalist history has no connection to Canadian settlement","Early Canadian settlement involved only one group of people","This history took place entirely outside of Canada"], answer:0}
+   ]},
+]},
+{day:149, label:"Day 149 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Setting and Its Effect on Mood", summary:"Grade 6 Language strand: setting includes the time and place of a story, and a skilled author uses details about setting to create a particular mood, the emotional atmosphere a reader feels while reading.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is the setting of a story?", options:["The list of characters in the story","The time and place in which the story occurs","The main problem the characters must solve","The authors personal opinion about the story"], answer:1},
+     {q:"What is mood in a story?", options:["The exact number of pages in a story","The publishing date of a book","The emotional atmosphere a reader feels while reading","The grammatical structure of a sentence"], answer:2},
+     {q:"A story set in a dark, abandoned house at midnight would most likely create what mood?", options:["A cheerful, sunny mood","A calm, relaxing mood","A humorous, silly mood","A tense or eerie mood"], answer:3},
+     {q:"How might an author use setting details to build mood?", options:["By listing only the characters names","By choosing descriptive words about the time and place that evoke a certain feeling","By avoiding any description of the storys location","By removing the setting from the story entirely"], answer:1},
+     {q:"Why might the same event feel different to a reader depending on its setting?", options:["Only characters, not settings, can influence mood","The details of a setting can shape the emotional tone surrounding an event","Setting never has any impact on how an event feels","Every setting creates the exact same mood in every story"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Precision and Accuracy in Measurement", summary:"Grade 6 Math strand: accuracy describes how close a measurement is to the true value, while precision describes how consistent repeated measurements are with each other, and both depend on the tools and care used when measuring.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does accuracy describe in measurement?", options:["How close a measurement is to the true value","The units used to record a measurement","The colour of the measuring tool used","How many times a measurement is repeated"], answer:0},
+     {q:"What does precision describe in measurement?", options:["How consistent repeated measurements are with each other","How close a single measurement is to the true value","The exact date a measurement was taken","The total number of measuring tools available"], answer:0},
+     {q:"Can a set of measurements be precise but not accurate?", options:["Yes, but only when using a digital tool","No, precision and accuracy always mean exactly the same thing","No, precise measurements are always accurate as well","Yes, if the measurements are consistent with each other but far from the true value"], answer:3},
+     {q:"What might cause a measurement to be inaccurate even if it is precise?", options:["Repeating a measurement multiple times","Using the exact same tool for every measurement","Recording measurements in consistent units","A measuring tool that is not properly calibrated"], answer:3},
+     {q:"Why is it important for scientists to use both accurate and precise measurements?", options:["Accuracy and precision have no effect on the reliability of data","Only accuracy matters in scientific measurement, never precision","Only precision matters in scientific measurement, never accuracy","Reliable data depends on measurements that are both close to the true value and consistent"], answer:3}
+   ]},
+  {subject:"Science", title:"Blood Types and Blood Donation", summary:"Grade 6 Science strand: human blood is classified into different types, such as A, B, AB, and O, based on markers on red blood cells, and understanding blood types is essential for safe blood transfusions and donation.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What are the four main human blood types?", options:["A, B, AB, and O","One, two, three, and four","Red, blue, green, and yellow","X, Y, Z, and W"], answer:0},
+     {q:"What determines a persons blood type?", options:["Markers found on the surface of red blood cells","The colour of a persons skin","The amount of water in a persons body","The persons age at the time of testing"], answer:0},
+     {q:"Why is it important to match blood types before a transfusion?", options:["Transfusions never require checking blood type","Blood type has no effect on the safety of a transfusion","Mismatched blood types can cause a dangerous immune reaction in the body","All blood types are always compatible with each other"], answer:2},
+     {q:"Which blood type is often referred to as a universal donor?", options:["B negative","O negative","A positive","AB positive"], answer:1},
+     {q:"Why do hospitals rely on regular blood donations from healthy volunteers?", options:["Blood cannot be manufactured artificially and is needed for patient transfusions","Donated blood is only ever used for scientific research","Hospitals never require blood donations from the public","Blood donation has no medical purpose"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Role in the Korean War", summary:"Grade 6 Social Studies strand: Canada sent thousands of troops as part of a United Nations force during the Korean War from 1950 to 1953, helping defend South Korea, a conflict now sometimes called Canadas Forgotten War.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What international organization led the coalition Canada joined during the Korean War?", options:["The British Commonwealth alone","The United Nations","The League of Nations","The European Union"], answer:1},
+     {q:"During which years did the Korean War take place?", options:["1960 to 1965","1939 to 1945","1914 to 1918","1950 to 1953"], answer:3},
+     {q:"Which country did Canadian troops help defend during the Korean War?", options:["China","South Korea","Japan","North Korea"], answer:1},
+     {q:"Why is the Korean War sometimes called Canadas Forgotten War?", options:["No Canadian soldiers took part in the conflict","It received less public attention and recognition than the World Wars","The war lasted only a single day","It is the most well-remembered war in Canadian history"], answer:1},
+     {q:"Why might it be important to remember Canadian involvement in conflicts like the Korean War?", options:["Only World Wars are worth studying in Canadian history","Canada has never participated in any international conflicts","Remembering past conflicts serves no educational purpose","It honours the service and sacrifice of Canadian soldiers often overlooked in history"], answer:3}
+   ]},
+]},
+{day:150, label:"Day 150 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Sentences, Style, and Reading Skills", summary:"Grade 6 Language strand review: students revisit interjections, theme versus topic, acrostic poems, compound-complex sentences, and how setting shapes mood.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is an interjection?", options:["A pronoun that replaces a noun","A verb that shows action","A word that joins two clauses together","A word or phrase that expresses strong or sudden emotion"], answer:3},
+     {q:"What is the difference between a topic and a theme?", options:["A topic is always longer than a theme","A topic and a theme always mean exactly the same thing","A theme is only found in nonfiction texts","A topic is what a text is about, while a theme is the deeper message the text conveys"], answer:3},
+     {q:"What is an acrostic poem?", options:["A poem that must rhyme in every line","A poem with exactly fourteen lines","A poem in which the first letters of each line spell out a word when read vertically","A poem written entirely in one long sentence"], answer:2},
+     {q:"What makes a sentence compound-complex?", options:["It always begins with a conjunction","It combines at least two independent clauses with at least one dependent clause","It contains only a single independent clause","It never contains any punctuation"], answer:1},
+     {q:"What is mood in a story?", options:["The grammatical structure of a sentence","The publishing date of a book","The emotional atmosphere a reader feels while reading","The exact number of pages in a story"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Algebra, Geometry, and Data", summary:"Grade 6 Math strand review: students revisit combining like terms, surface area of cones, the midpoint of a line segment, naming polygons, and identifying misleading graphs.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What are like terms?", options:["Terms that always have the same numerical coefficient","Terms that contain no variables at all","Any two terms found in the same expression","Terms that have the same variable raised to the same power"], answer:3},
+     {q:"What two parts make up the surface area of a cone?", options:["Only the circular base, with no other surface","The circular base and the curved lateral surface","The volume and the radius","Only the apex point of the cone"], answer:1},
+     {q:"What is the midpoint of a line segment?", options:["Either one of the two endpoints","A point that is never on the segment itself","The point farthest from both endpoints","The point exactly halfway between the two endpoints"], answer:3},
+     {q:"How many sides does a decagon have?", options:["Twelve","Ten","Seven","Nine"], answer:1},
+     {q:"What is one way a graph can be made misleading?", options:["By manipulating the scale of the axis to exaggerate differences","By including a clear title and labelled axes","By always starting the y-axis at exactly zero","By showing all of the relevant data honestly"], answer:0}
+   ]},
+  {subject:"Science", title:"Science Review: Energy, Ecosystems, and Human Body", summary:"Grade 6 Science strand review: students revisit biomass energy, carrying capacity, the wheel and axle, nuclear energy, and human blood types.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is biomass energy made from?", options:["Wind passing through a turbine","Nuclear reactions inside a power plant","Organic material such as wood, crop waste, or plant matter","Only fossil fuels formed over millions of years"], answer:2},
+     {q:"What is carrying capacity?", options:["The exact number of predators in an ecosystem","The maximum population size an ecosystem can support long-term","The total number of species living on Earth","A measurement of how tall plants grow in an ecosystem"], answer:1},
+     {q:"What two parts make up a wheel and axle?", options:["Two identical wheels with no connecting rod","A ramp and a lever combined together","A large wheel attached to a smaller rod called an axle","A rope threaded through a wheel"], answer:2},
+     {q:"What process do nuclear power plants use to release energy?", options:["Fission, the splitting of uranium atoms","Photosynthesis, the process plants use to make food","Combustion of large amounts of coal","Evaporation of water in a cooling tower"], answer:0},
+     {q:"What are the four main human blood types?", options:["One, two, three, and four","Red, blue, green, and yellow","A, B, AB, and O","X, Y, Z, and W"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Reconciliation, Government, and Canadian History", summary:"Grade 6 Social Studies strand review: students revisit residential schools, the Order of Canada, federal budgets, the numbered treaties, and Canadas role in the Korean War.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What were residential schools in Canada designed to do?", options:["Teach Indigenous languages and cultural traditions","Provide optional after-school tutoring for all Canadian children","Forcibly remove Indigenous children from their families and assimilate them","Offer free summer camps for Canadian families"], answer:2},
+     {q:"What is the Order of Canada?", options:["One of the countrys highest civilian honours","A type of Canadian currency","A branch of the Canadian military","A federal government department"], answer:0},
+     {q:"What does a federal budget outline?", options:["A list of upcoming national holidays","Planned government spending and expected revenue","The results of the most recent election","Only the salaries of elected officials"], answer:1},
+     {q:"What were the numbered treaties?", options:["A series of agreements signed between the Canadian government and First Nations","An agreement between Canada and another country","A set of laws about Canadian currency","A list of Canadian provinces in order of population"], answer:0},
+     {q:"What international organization led the coalition Canada joined during the Korean War?", options:["The United Nations","The League of Nations","The British Commonwealth alone","The European Union"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;
