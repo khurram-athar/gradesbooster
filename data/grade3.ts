@@ -1936,6 +1936,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Oral Communication: Active Listening", summary:"Ontario Grade 3 Oral Communication strand: active listening means fully focusing on the speaker, showing attention through eye contact and body language, and asking questions to understand better.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=BW82k7lwI_U",
    quiz:[
      {q:"Active listening means ___.", options:["Fully focusing on and understanding the speaker","Thinking about something else while someone talks","Interrupting constantly","Ignoring the speaker"], answer:0},
      {q:"Which is a sign of active listening?", options:["Walking away","Making eye contact with the speaker","Talking over the speaker","Looking at your phone"], answer:1},
@@ -1945,6 +1946,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Choosing the Best Graph for Data", summary:"Ontario Grade 3 Data strand: different graphs suit different data -- bar graphs compare categories, line graphs show change over time, and pictographs use pictures to represent quantities.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=yDM_OyeXpbY",
    quiz:[
      {q:"Which graph is best for comparing how many students like each fruit?", options:["A blank page","Neither works","Line graph","Bar graph"], answer:3},
      {q:"Which graph is best for showing temperature changes over a week?", options:["Pictograph","Line graph","A single number","No graph needed"], answer:1},
@@ -1954,6 +1956,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Matter: Properties of Materials", summary:"Ontario Grade 3 Science Matter and Energy strand: materials have measurable properties such as mass (how much matter they contain) and volume (how much space they take up).",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=veUUii1U8-o",
    quiz:[
      {q:"Mass measures ___.", options:["How much matter an object contains","The temperature of an object","The colour of an object","How much space an object takes up"], answer:0},
      {q:"Volume measures ___.", options:["The material's smell","How much space an object takes up","How heavy something feels only","How much matter something contains"], answer:1},
@@ -1963,6 +1966,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada's Multicultural Identity", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: Canada is home to people from many different cultural backgrounds, and this diversity shapes communities through shared traditions, languages, and celebrations.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=UYElf0rSEvc",
    quiz:[
      {q:"Multicultural means a place is home to ___.", options:["Only one culture","No cultural traditions at all","Only recent immigrants","People from many different cultural backgrounds"], answer:3},
      {q:"Which is an example of cultural diversity in a community?", options:["Everyone speaking only one language","Different languages, foods, and celebrations","Identical traditions for everyone","No festivals of any kind"], answer:1},

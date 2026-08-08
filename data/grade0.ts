@@ -2276,6 +2276,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Verbs: Action Words", summary:"Students learn that a verb is a word that shows action, such as run, jump, or sing, and practise identifying verbs in simple sentences.",
    resourceLabel:"YouTube: Verbs: Action Words", resourceUrl:"https://www.youtube.com/results?search_query=Verbs%3A%20Action%20Words%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=rPDxXfL8Qg4",
    quiz:[
      {q:"What is a verb?", options:["A number word","A word that names a person","A colour word","A word that shows action"], answer:3},
      {q:"Which word is a verb?", options:["Happy","Dog","Blue","Jump"], answer:3},
@@ -2290,6 +2291,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Sharing Equally in Halves", summary:"Students explore the idea of a half, learning that cutting something into two equal parts means sharing it fairly and equally.",
    resourceLabel:"YouTube: Fractions: Sharing Equally in Halves", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Sharing%20Equally%20in%20Halves%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GK4kW1QvdUE",
    quiz:[
      {q:"If you cut a sandwich into two equal parts, each part is called a ___.", options:["Whole","Quarter","Double","Half"], answer:3},
      {q:"How many halves make one whole?", options:["4","3","2","1"], answer:2},
@@ -2304,6 +2306,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Shadows: Light and Dark", summary:"Students explore how shadows are formed when an object blocks light, and observe how their own shadow can change size and shape.",
    resourceLabel:"YouTube: Shadows: Light and Dark", resourceUrl:"https://www.youtube.com/results?search_query=Shadows%3A%20Light%20and%20Dark%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=haPVcic4bEc",
    quiz:[
      {q:"What is needed to make a shadow?", options:["Wind","Light and an object blocking it","Only darkness","Water"], answer:1},
      {q:"A shadow forms when an object ___.", options:["Floats in water","Melts","Blocks light","Makes a sound"], answer:2},
@@ -2318,6 +2321,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Safety Helpers: Calling for Emergency Help", summary:"Students learn what an emergency is and that they can call a special number to reach safety helpers like police, firefighters, or paramedics if there is a serious emergency.",
    resourceLabel:"YouTube: Safety Helpers: Calling for Emergency Help", resourceUrl:"https://www.youtube.com/results?search_query=Safety%20Helpers%3A%20Calling%20for%20Emergency%20Help%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=L2ePn0Ea5Y0",
    quiz:[
      {q:"What number can you call in an emergency in Canada?", options:["911","411","611","111"], answer:0},
      {q:"Which of these is an example of a serious emergency?", options:["Being bored","Losing a toy","Wanting a snack","A fire in a house"], answer:3},

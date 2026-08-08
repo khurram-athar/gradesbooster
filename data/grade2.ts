@@ -2280,6 +2280,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Reading Comprehension: Fact vs Opinion", summary:"Students learn the difference between a fact, a statement that can be proven true, and an opinion, a statement that shows what someone thinks or feels.",
    resourceLabel:"YouTube: Reading Comprehension: Fact vs Opinion", resourceUrl:"https://www.youtube.com/results?search_query=Reading%20Comprehension%3A%20Fact%20vs%20Opinion%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ZJ5YuU7y_dY",
    quiz:[
      {q:"What do we call a statement that can be proven true?", options:["An opinion","A question","A rhyme","A fact"], answer:3},
      {q:"What do we call a statement that shows what someone thinks or feels?", options:["An opinion","A setting","A title","A fact"], answer:0},
@@ -2294,6 +2295,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Area: Covering a Shape with Squares", summary:"Students learn that area is the amount of space a flat shape covers, measured by counting how many equal squares fit inside the shape.",
    resourceLabel:"YouTube: Area: Covering a Shape with Squares", resourceUrl:"https://www.youtube.com/results?search_query=Area%3A%20Covering%20a%20Shape%20with%20Squares%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=00kqSqnA_18",
    quiz:[
      {q:"What do we call the amount of space a flat shape covers?", options:["Weight","Perimeter","Length","Area"], answer:3},
      {q:"If a rectangle is covered exactly by 8 equal squares, what is its area?", options:["8 square units","4 square units","2 square units","8 metres"], answer:0},
@@ -2308,6 +2310,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Pollination: How Bees Help Plants Grow", summary:"Students learn that pollination happens when bees and other insects carry pollen from one flower to another, helping plants make seeds and grow new plants.",
    resourceLabel:"YouTube: Pollination: How Bees Help Plants Grow", resourceUrl:"https://www.youtube.com/results?search_query=Pollination%3A%20How%20Bees%20Help%20Plants%20Grow%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5SuEig9lQSg",
    quiz:[
      {q:"What do we call it when insects carry pollen from one flower to another?", options:["Evaporation","Migration","Hibernation","Pollination"], answer:3},
      {q:"Which of these insects is well known for helping pollinate flowers?", options:["A worm","A bee","An ant","A spider"], answer:1},
@@ -2320,19 +2323,20 @@ const curriculum: DayContent[] = [
      {prompt:"What is the yellow powder inside a flower called that insects carry from flower to flower?", answers:["pollen"]},
      {prompt:"Does pollination help plants make seeds?", answers:["yes"]}
    ]},
-  {subject:"SocialStudies", title:"The Role of Schools and Libraries in a Community", summary:"Students learn that schools help children learn and grow, while libraries offer books and resources for people of all ages to read, learn, and explore new ideas.",
-   resourceLabel:"YouTube: The Role of Schools and Libraries in a Community", resourceUrl:"https://www.youtube.com/results?search_query=The%20Role%20of%20Schools%20and%20Libraries%20in%20a%20Community%20grade%202%20educational",
+  {subject:"SocialStudies", title:"Community Helpers and the Jobs They Do", summary:"Students learn about community helpers, such as teachers, librarians, firefighters, and mail carriers, and how each helper's job supports the people who live in a community.",
+   resourceLabel:"YouTube: Community Helpers and the Jobs They Do", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Helpers%20and%20the%20Jobs%20They%20Do%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jt2q1cHsH6E",
    quiz:[
-     {q:"What is the main purpose of a school in a community?", options:["To fix cars","To grow crops","To help children learn and grow","To sell food"], answer:2},
-     {q:"What can people typically borrow for free at a library?", options:["Cars","Houses","Food only","Books"], answer:3},
-     {q:"Who can usually use the resources at a public library?", options:["Only children","Only teachers","People of all ages","Only adults"], answer:2},
-     {q:"Which of these activities might happen at a school?", options:["Doctors performing surgery","Students learning to read and do math","Farmers growing crops","Firefighters putting out fires"], answer:1},
-     {q:"Schools and libraries both help communities by ___.", options:["Building roads","Selling clothing","Supporting learning and sharing knowledge","Growing vegetables"], answer:2}
+     {q:"What is a community helper?", options:["A person whose job supports the people in a community","A toy found only at school","A type of weather event","A kind of building material"], answer:0},
+     {q:"Which of these is an example of a community helper?", options:["A cartoon character","A firefighter","A weather pattern","A shape in math class"], answer:1},
+     {q:"What job does a librarian mainly do to help a community?", options:["Fixes cars","Delivers mail","Helps people find and borrow books","Puts out fires"], answer:2},
+     {q:"Why might a community need many different kinds of helpers, not just one?", options:["Different helpers meet different needs, like learning, safety, and health","One single helper could easily do every job alone","Communities do not actually need any helpers","Having many helpers makes a community more confusing"], answer:0},
+     {q:"Community helpers are important because they ___.", options:["Never interact with other people","Work to keep a community safe, healthy, and running smoothly","Only work during the summer","Have no real job responsibilities"], answer:1}
    ],
    worksheet:[
-     {prompt:"What do we call a place where children go to learn?", answers:["a school","school"]},
-     {prompt:"What do we call a place where people can borrow books for free?", answers:["a library","library"]},
-     {prompt:"Are libraries useful for people of all ages?", answers:["yes"]}
+     {prompt:"Name one job that a community helper might do.", answers:["helps people","fights fires","teaches","delivers mail","helps find books"]},
+     {prompt:"What do we call a person whose job is to help people in a community?", answers:["a community helper","community helper"]},
+     {prompt:"Why are community helpers important?", answers:["they help keep the community safe and running well","they help people"]}
    ]},
 ]},
 {day:48, label:"Day 48 — Wed", subjects:[

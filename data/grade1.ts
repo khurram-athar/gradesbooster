@@ -2276,6 +2276,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Comparing Adjectives: -er and -est", summary:"Students learn that adjectives can compare things by adding -er to compare two things, as in taller, or -est to compare more than two things, as in tallest.",
    resourceLabel:"YouTube: Comparing Adjectives: -er and -est", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Adjectives%3A%20-er%20and%20-est%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=f1oSnDjMcWc",
    quiz:[
      {q:"Which word compares two things?", options:["Taller","Tallest","Tall","Tallness"], answer:0},
      {q:"Which word compares three or more things and means the most?", options:["Talling","Tallest","Tall","Taller"], answer:1},
@@ -2290,6 +2291,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Money: Comparing Amounts", summary:"Students compare small amounts of money made from coins, learning to tell which group of coins has a greater value and which has a lesser value.",
    resourceLabel:"YouTube: Money: Comparing Amounts", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Comparing%20Amounts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=kKZOIj2qRkY",
    quiz:[
      {q:"Which coin has a greater value, a nickel or a dime?", options:["Cannot tell","They are equal","Nickel","Dime"], answer:3},
      {q:"Which amount of money is greater, 3 pennies or 1 dime?", options:["1 dime","They are equal","Cannot tell","3 pennies"], answer:0},
@@ -2304,6 +2306,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Birds and Their Body Parts", summary:"Students learn about the body parts of birds, such as feathers, wings, and beaks, and how these parts help many birds fly and find food.",
    resourceLabel:"YouTube: Birds and Their Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Birds%20and%20Their%20Body%20Parts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lHYd32Sr5Gw",
    quiz:[
      {q:"What covers most of a bird body?", options:["Feathers","Fur","Skin only","Scales"], answer:0},
      {q:"What body part helps most birds fly through the air?", options:["Legs","Gills","Fins","Wings"], answer:3},
@@ -2318,6 +2321,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Caring for Pets and Animals", summary:"Students learn about the responsibility of caring for a pet, such as giving it food, water, and a safe home, and treating animals with kindness.",
    resourceLabel:"YouTube: Caring for Pets and Animals", resourceUrl:"https://www.youtube.com/results?search_query=Caring%20for%20Pets%20and%20Animals%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=S-3DXB5Qzl4",
    quiz:[
      {q:"Which of these is something a pet needs from its owner?", options:["Only a name","A birthday cake","Nothing at all","Food and water"], answer:3},
      {q:"How should people treat animals?", options:["Animals do not need care","With kindness and care","It does not matter","With unkindness"], answer:1},
