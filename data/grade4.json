@@ -11325,6 +11325,7 @@
         "summary": "Ontario Grade 4 Writing strand: dialogue writing brings characters to life through their spoken words, using quotation marks and a new paragraph each time the speaker changes.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=sfNpBt5yPHA",
         "quiz": [
           {
             "q": "Dialogue in a story refers to ___.",
@@ -11384,6 +11385,7 @@
         "summary": "Ontario Grade 4 Data Management strand: a pictograph uses pictures or symbols to represent data, with a key showing how many items each symbol stands for.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=gKztszzzgsk",
         "quiz": [
           {
             "q": "A pictograph uses ___ to represent data.",
@@ -11443,6 +11445,7 @@
         "summary": "Ontario Grade 4 Science Structures and Mechanisms strand: a wheel and axle reduces the effort needed to move objects by rotating together, while a screw is a spiral inclined plane that converts turning motion into straight-line motion.",
         "resourceLabel": "TVO Learn: Grade 4 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=NcmRJspWyNo",
         "quiz": [
           {
             "q": "A wheel and axle work together by ___.",
@@ -11498,58 +11501,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Climate Zones of Canada",
-        "summary": "Ontario Grade 4 Social Studies People and Environments strand: Canada spans several climate zones, from the cold Arctic in the north to milder, temperate zones in the south, influencing where people live and how they adapt.",
+        "title": "The Physical Regions of Canada",
+        "summary": "Ontario Grade 4 Social Studies People and Environments strand: Canada is divided into several large physical regions, such as the Arctic Lowlands, the Canadian Shield, the Interior Plains, and the Western Cordillera, each with its own landforms and natural features.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
         "quiz": [
           {
-            "q": "Canada’s northern regions generally have a ___ climate.",
+            "q": "Canada is divided into several large areas called ___.",
             "options": [
-              "Cold, Arctic climate",
-              "Desert climate",
-              "Consistently warm climate",
-              "Tropical"
+              "Provinces only, with no other type of division",
+              "Physical regions, each with its own landforms",
+              "Time zones exclusively",
+              "Cities with no surrounding regions"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Southern Canada generally has a ___ climate compared to the north.",
+            "q": "The Canadian Shield is known for its ___.",
             "options": [
-              "Identical",
-              "Colder",
-              "Milder, more temperate",
-              "Tropical"
+              "Tropical rainforests",
+              "Desert sand dunes",
+              "Ancient rock and rugged landscape",
+              "Flat, treeless plains only"
             ],
             "answer": 2
           },
           {
-            "q": "Climate zones influence ___.",
+            "q": "The Interior Plains are generally known for ___.",
             "options": [
-              "Where people settle and how they adapt their lifestyles",
-              "Only what sports people play",
-              "Only the colour of houses",
-              "Nothing about how people live"
+              "Towering mountain peaks",
+              "Flat or gently rolling land well-suited to farming",
+              "Coral reefs and beaches",
+              "Dense tropical jungle"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why might fewer people live in Canada’s far northern climate zones?",
+            "q": "Why might it be useful to study Canada’s physical regions?",
             "options": [
-              "The north is actually the warmest region in Canada",
-              "Climate has no effect on where people choose to live",
-              "The north has no unique climate challenges",
-              "The harsh cold climate makes farming and travel more challenging"
+              "Physical regions have no effect on how or where people live",
+              "It helps explain why different areas of Canada look and feel so different from one another",
+              "All regions of Canada have identical landforms",
+              "This topic has no connection to geography"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Studying climate zones helps students understand ___.",
+            "q": "The Western Cordillera region of Canada is best known for its ___.",
             "options": [
-              "That all of Canada has the exact same weather year-round",
-              "How geography and weather patterns vary across a large country like Canada",
-              "That climate has no connection to geography",
-              "That Canada has only one climate zone"
+              "Flat prairies with no hills",
+              "Mountain ranges",
+              "Arctic tundra only",
+              "Large deserts"
             ],
             "answer": 1
           }

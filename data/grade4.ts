@@ -1936,6 +1936,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Writing: Dialogue Writing", summary:"Ontario Grade 4 Writing strand: dialogue writing brings characters to life through their spoken words, using quotation marks and a new paragraph each time the speaker changes.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=sfNpBt5yPHA",
    quiz:[
      {q:"Dialogue in a story refers to ___.", options:["The spoken words of characters","The setting description","The book’s illustrations","The chapter titles"], answer:0},
      {q:"When writing dialogue, a new paragraph is usually started ___.", options:["Only at the very end of the story","Each time the speaker changes","Only when the setting changes","Never, all dialogue stays in one paragraph"], answer:1},
@@ -1945,6 +1946,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Pictographs", summary:"Ontario Grade 4 Data Management strand: a pictograph uses pictures or symbols to represent data, with a key showing how many items each symbol stands for.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=gKztszzzgsk",
    quiz:[
      {q:"A pictograph uses ___ to represent data.", options:["Pictures or symbols","Colours with no meaning","Random shapes with no key","Only numbers written out"], answer:0},
      {q:"The key in a pictograph tells you ___.", options:["How many items each symbol represents","The names of the people who made the graph","Nothing useful","The title of the graph"], answer:0},
@@ -1954,6 +1956,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines: Wheel and Axle, and Screw", summary:"Ontario Grade 4 Science Structures and Mechanisms strand: a wheel and axle reduces the effort needed to move objects by rotating together, while a screw is a spiral inclined plane that converts turning motion into straight-line motion.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=NcmRJspWyNo",
    quiz:[
      {q:"A wheel and axle work together by ___.", options:["Never moving at all","Absorbing all force with no motion","Rotating together to reduce the effort needed to move objects","Only working separately, never together"], answer:2},
      {q:"A screw can be thought of as a type of ___ wrapped around a cylinder.", options:["Lever","Inclined plane","Pulley","Wheel"], answer:1},
@@ -1961,14 +1964,15 @@ const curriculum: DayContent[] = [
      {q:"A screw converts ___ motion into straight-line motion.", options:["No motion at all","Sliding","Turning","Bouncing"], answer:2},
      {q:"Why is a wheel and axle considered a simple machine?", options:["It always makes tasks more difficult","It makes moving or lifting objects easier by reducing the effort required","It has no practical use","It only works underwater"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Climate Zones of Canada", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada spans several climate zones, from the cold Arctic in the north to milder, temperate zones in the south, influencing where people live and how they adapt.",
+  {subject:"SocialStudies", title:"The Physical Regions of Canada", summary:"Ontario Grade 4 Social Studies People and Environments strand: Canada is divided into several large physical regions, such as the Arctic Lowlands, the Canadian Shield, the Interior Plains, and the Western Cordillera, each with its own landforms and natural features.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Q_VFQUZ9oo4",
    quiz:[
-     {q:"Canada’s northern regions generally have a ___ climate.", options:["Cold, Arctic climate","Desert climate","Consistently warm climate","Tropical"], answer:0},
-     {q:"Southern Canada generally has a ___ climate compared to the north.", options:["Identical","Colder","Milder, more temperate","Tropical"], answer:2},
-     {q:"Climate zones influence ___.", options:["Where people settle and how they adapt their lifestyles","Only what sports people play","Only the colour of houses","Nothing about how people live"], answer:0},
-     {q:"Why might fewer people live in Canada’s far northern climate zones?", options:["The north is actually the warmest region in Canada","Climate has no effect on where people choose to live","The north has no unique climate challenges","The harsh cold climate makes farming and travel more challenging"], answer:3},
-     {q:"Studying climate zones helps students understand ___.", options:["That all of Canada has the exact same weather year-round","How geography and weather patterns vary across a large country like Canada","That climate has no connection to geography","That Canada has only one climate zone"], answer:1}
+     {q:"Canada is divided into several large areas called ___.", options:["Provinces only, with no other type of division","Physical regions, each with its own landforms","Time zones exclusively","Cities with no surrounding regions"], answer:1},
+     {q:"The Canadian Shield is known for its ___.", options:["Tropical rainforests","Desert sand dunes","Ancient rock and rugged landscape","Flat, treeless plains only"], answer:2},
+     {q:"The Interior Plains are generally known for ___.", options:["Towering mountain peaks","Flat or gently rolling land well-suited to farming","Coral reefs and beaches","Dense tropical jungle"], answer:1},
+     {q:"Why might it be useful to study Canada’s physical regions?", options:["Physical regions have no effect on how or where people live","It helps explain why different areas of Canada look and feel so different from one another","All regions of Canada have identical landforms","This topic has no connection to geography"], answer:1},
+     {q:"The Western Cordillera region of Canada is best known for its ___.", options:["Flat prairies with no hills","Mountain ranges","Arctic tundra only","Large deserts"], answer:1}
    ]},
 ]},
 {day:48, label:"Day 48 — Wed", subjects:[

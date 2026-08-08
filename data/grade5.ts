@@ -1936,6 +1936,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Writing: Formal Speech Writing", summary:"Ontario Grade 5 Writing strand: a formal speech is organized with a clear introduction, body, and conclusion, uses persuasive or informative language suited to the audience, and is written to be spoken aloud.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=fSJH6r3lLQo",
    quiz:[
      {q:"A formal speech is typically organized with ___.", options:["A single sentence","Only random unrelated points","A clear introduction, body, and conclusion","No clear structure at all"], answer:2},
      {q:"Why should a speech writer consider their audience?", options:["Considering the audience makes a speech less effective","All speeches should be written the exact same way regardless of audience","To choose language and content the audience will understand and connect with","The audience never matters when writing a speech"], answer:2},
@@ -1945,6 +1946,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterns with Two Variables", summary:"Ontario Grade 5 Algebra strand: a pattern with two variables shows how one value changes in relation to another, often organized in a table, where identifying the rule connecting them helps predict future values.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=6TMSpWYItIY",
    quiz:[
      {q:"If the rule is y equals x plus 3, what is y when x is 5?", options:["3","8","5","15"], answer:1},
      {q:"In a table showing two related variables, identifying the rule helps you ___.", options:["Only look at one variable","Avoid understanding the relationship","Ignore the pattern entirely","Predict future values"], answer:3},
@@ -1954,6 +1956,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemical Changes and Reactions", summary:"Ontario Grade 5 Science Matter and Energy strand: a chemical change occurs when substances react to form new substances with different properties, often shown by signs like colour change, gas bubbles, or heat being released.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=37pir0ej_SE",
    quiz:[
      {q:"A chemical change occurs when ___.", options:["Substances react to form new substances with different properties","A substance simply melts","Nothing about the substance changes at all","A substance only changes shape"], answer:0},
      {q:"Which is a common sign that a chemical reaction has occurred?", options:["No observable change at all","The object becoming a different shape only","Gas bubbles forming","The object staying exactly the same"], answer:2},
@@ -1961,14 +1964,15 @@ const curriculum: DayContent[] = [
      {q:"Chemical reactions can release or absorb ___.", options:["Only sound","Heat energy","Nothing at all","Only light with no other effect"], answer:1},
      {q:"Why is it useful to be able to identify signs of a chemical reaction?", options:["Chemical reactions have no observable signs","Identifying reactions serves no scientific purpose","All changes in matter are identical","It helps distinguish a chemical change from a simple physical change"], answer:3}
    ]},
-  {subject:"SocialStudies", title:"The Role of the Media in a Democracy", summary:"Ontario Grade 5 Social Studies People and Environments strand: media, including news outlets and journalists, plays a role in informing citizens about government actions and current events, which supports an informed and engaged democracy.",
+  {subject:"SocialStudies", title:"Democracy: The Voice of the People", summary:"Ontario Grade 5 Social Studies People and Environments strand: in a democracy, citizens have a voice in how they are governed, most directly through voting, and are expected to stay informed and participate so that government reflects the will of the people.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ofyM-Cq3LMw",
    quiz:[
-     {q:"One key role of the media in a democracy is to ___.", options:["Inform citizens about government actions and current events","Replace the need for elections","Control what citizens are allowed to think","Prevent citizens from learning anything"], answer:0},
+     {q:"In a democracy, citizens most directly have a voice in government through ___.", options:["Voting","Ignoring all elections","Having no say in decisions at all","A single ruler's personal choice"], answer:0},
      {q:"An informed citizen is better able to ___.", options:["Ignore important issues entirely","Participate thoughtfully in democratic decisions like voting","Avoid all civic responsibilities","Make decisions with no available information"], answer:1},
-     {q:"Why is it important for media to report accurately?", options:["Inaccurate reporting always benefits democracy","Citizens do not need accurate information","Accurate reporting helps citizens make informed decisions","Accuracy has no effect on democracy"], answer:2},
-     {q:"Journalists in a democracy often play a role in ___.", options:["Investigating and reporting on issues that affect the public","Avoiding any coverage of government actions","Replacing elected officials","Making all government decisions themselves"], answer:0},
-     {q:"Why might citizens compare multiple media sources when following an issue?", options:["Comparing sources has no value","One source always tells the complete story","Citizens should avoid all media sources","To get a fuller, more balanced understanding of the topic"], answer:3}
+     {q:"Why is citizen participation important in a democracy?", options:["Participation has no effect on how a democracy functions","Government should reflect the will of the people, which requires citizens to take part","Only elected officials should ever be involved in decisions","Citizens are better off never getting involved"], answer:1},
+     {q:"Which is an example of a citizen participating in a democracy?", options:["Never learning about any public issues","Voting in an election","Refusing to ever share an opinion","Avoiding all forms of civic involvement"], answer:1},
+     {q:"Why might citizens want to learn about different issues before voting?", options:["Learning about issues has no value before voting","One should always vote with no information at all","To make a more thoughtful, informed decision","Information has no connection to good decision-making"], answer:2}
    ]},
 ]},
 {day:48, label:"Day 48 — Wed", subjects:[
