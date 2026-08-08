@@ -11103,58 +11103,59 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Independent Reading: War Literature and Testimony",
-        "summary": "Grade 11 English strand: war literature and personal testimony offer firsthand or fictionalized accounts of conflict, often used to preserve historical memory and explore the human impact of war.",
+        "title": "Reading: Wilfred Owen's \"Dulce et Decorum Est\" and War Testimony",
+        "summary": "Grade 11 English strand: Wilfred Owen's WWI poem \"Dulce et Decorum Est\" uses vivid, unflinching imagery of a gas attack to convey the physical and psychological horror of trench warfare, directly challenging the patriotic notion that dying for one's country is \"sweet and fitting.\"",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=1VShKHokj0E",
         "quiz": [
           {
-            "q": "War literature and personal testimony often offer accounts of ___.",
+            "q": "Wilfred Owen wrote \"Dulce et Decorum Est\" based on his own experience of ___.",
             "options": [
-              "A topic entirely unrelated to historical events",
-              "Only fictional, invented scenarios with no historical basis",
-              "Conflict",
-              "Events with no connection to human experience"
+              "Peacetime military training only",
+              "A victorious homecoming parade",
+              "Trench warfare during World War I",
+              "A purely imagined, fictional battle"
             ],
             "answer": 2
           },
           {
-            "q": "Why might this type of literature be used to preserve historical memory?",
+            "q": "The Latin phrase \"Dulce et decorum est pro patria mori\" translates to ___.",
             "options": [
-              "Preserving historical memory has no relevance to this genre",
-              "This literature has no connection to preserving history",
-              "Firsthand or fictionalized accounts can document experiences that might otherwise be forgotten",
-              "War literature never engages with historical events"
+              "It is sweet and fitting to die for one's country",
+              "War must always be avoided at any cost",
+              "Only cowards return home from battle",
+              "Peace is sweeter than any victory"
             ],
-            "answer": 2
+            "answer": 0
           },
           {
-            "q": "Why might reading war literature help readers understand the human impact of conflict?",
+            "q": "Owen describes the soldiers marching away from the battle as ___.",
             "options": [
-              "War literature provides no insight into the human impact of conflict",
-              "This genre has no connection to understanding historical events",
-              "Readers gain no meaningful understanding from this type of literature",
-              "Personal narratives can convey emotional and lived experiences that statistics alone cannot capture"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which is an example of a form that war literature or testimony might take?",
-            "options": [
-              "A form entirely unrelated to personal experience",
-              "A type of writing unrelated to historical events",
-              "A genre that never includes any firsthand accounts",
-              "A memoir written by someone who experienced a conflict firsthand"
+              "Energetic and fresh from a long rest",
+              "Singing joyfully as they head toward home",
+              "Riding comfortably in well-supplied vehicles",
+              "Bent double like old beggars, exhausted and limping"
             ],
             "answer": 3
           },
           {
-            "q": "Why might studying war literature alongside historical accounts provide a fuller understanding of a conflict?",
+            "q": "The poem's vivid description of a gas attack is meant to ___.",
             "options": [
-              "Literature and historical accounts have no meaningful connection to each other",
-              "Studying literature alongside history provides no additional insight",
-              "Literature can offer emotional and personal perspectives that complement factual historical records",
-              "This combination of sources has no educational value"
+              "Celebrate the effectiveness of chemical weapons",
+              "Convey the horrifying, chaotic reality of war that statistics alone cannot capture",
+              "Provide a neutral, scientific explanation of poison gas",
+              "Suggest that gas attacks were rare and unimportant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Owen calls the idea that dying for one's country is sweet and fitting ___, showing his poem's critical purpose.",
+            "options": [
+              "A comforting truth every soldier should embrace",
+              "A minor detail not worth addressing",
+              "\"The old Lie\" told to eager, patriotic youth",
+              "An idea he fully agreed with"
             ],
             "answer": 2
           }
@@ -11166,6 +11167,7 @@
         "summary": "Grade 11 Functions and Geometry strand: a vector is a quantity that has both magnitude (size) and direction, distinguishing it from a scalar, which has only magnitude.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=hDyfCqqFYUU",
         "quiz": [
           {
             "q": "A vector is a quantity that has both magnitude and ___.",
@@ -11225,6 +11227,7 @@
         "summary": "Grade 11 Biology strand: many animal species use various forms of communication, such as vocalizations, visual displays, and chemical signals, to coordinate behaviour within complex social structures.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=LsMbn3b1Bis",
         "quiz": [
           {
             "q": "Animals may use various forms of communication, including ___.",
@@ -11284,6 +11287,7 @@
         "summary": "Grade 11 Chemistry strand: solubility rules help predict whether a compound will dissolve in water, and a precipitation reaction occurs when two soluble solutions combine to form an insoluble solid product.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=pKmEMY50gTc",
         "quiz": [
           {
             "q": "Solubility rules help predict whether a compound will ___.",

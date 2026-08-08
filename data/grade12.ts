@@ -1897,6 +1897,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"English", title:"Writing: The Eulogy and Occasional Speech", summary:"Grade 12 English strand: a eulogy or occasional speech is written for a specific ceremonial purpose, requiring a tone appropriate to the occasion and language that connects personal reflection to broader, shared meaning.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=ttW998azc64",
    quiz:[
      {q:"A eulogy or occasional speech is written for a specific ___ purpose.", options:["A purpose disconnected from any audience or context","Entirely unrelated to any occasion or event","Purely technical, with no ceremonial element at all","Ceremonial"], answer:3},
      {q:"This type of speech requires a tone that is appropriate to ___.", options:["The occasion","A factor entirely unrelated to the purpose of the speech","Only the speaker’s personal preference, with no consideration of the audience","No specific context or audience whatsoever"], answer:0},
@@ -1906,6 +1907,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Functions: Symmetry -- Even, Odd, and Neither", summary:"Grade 12 Advanced Functions strand: a function can be classified as even, odd, or neither based on how its graph behaves under reflection, which reveals useful structural properties about the function.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=fKyBOLsqRlo",
    quiz:[
      {q:"A function can be classified as even, odd, or ___.", options:["Only positive, with no other classification possible","Neither","Only negative, with no other classification possible","A category unrelated to function symmetry"], answer:1},
      {q:"An even function’s graph is symmetric with respect to the ___.", options:["y-axis","x-axis exclusively, with no connection to the y-axis","A concept unrelated to any axis of symmetry","Origin exclusively, with no connection to the y-axis"], answer:0},
@@ -1915,6 +1917,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Logistic Growth Models", summary:"Grade 12 Calculus strand: a logistic growth model describes a quantity that initially grows rapidly but slows as it approaches a maximum sustainable value, called the carrying capacity, unlike unlimited exponential growth.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=p1Px2CeVSRg",
    quiz:[
      {q:"A logistic growth model describes a quantity that initially grows rapidly but ___ as it approaches a maximum value.", options:["Slows","Immediately drops to zero with no gradual change","Continues increasing at an unlimited, ever-accelerating rate","A concept unrelated to how the quantity changes over time"], answer:0},
      {q:"The maximum sustainable value in a logistic growth model is called the ___.", options:["Initial value exclusively, with no connection to a maximum","A concept unrelated to sustainable growth","Carrying capacity","Growth rate, with no connection to a maximum value"], answer:2},
@@ -1924,6 +1927,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Superconductivity", summary:"Grade 12 Physics strand: superconductivity is a phenomenon in which certain materials, when cooled below a critical temperature, conduct electric current with zero electrical resistance.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=usyi149KNLY",
    quiz:[
      {q:"Superconductivity occurs when certain materials conduct electric current with ___.", options:["Resistance that increases continuously over time with no limit","Zero electrical resistance","A property entirely unrelated to electrical resistance","Extremely high electrical resistance"], answer:1},
      {q:"Superconductivity occurs when a material is cooled below its ___.", options:["Critical temperature","Boiling point exclusively, with no connection to a critical temperature","A factor entirely unrelated to temperature","Melting point exclusively, with no connection to a critical temperature"], answer:0},

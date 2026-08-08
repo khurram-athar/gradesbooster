@@ -11117,6 +11117,7 @@
         "summary": "Grade 12 English strand: a eulogy or occasional speech is written for a specific ceremonial purpose, requiring a tone appropriate to the occasion and language that connects personal reflection to broader, shared meaning.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ttW998azc64",
         "quiz": [
           {
             "q": "A eulogy or occasional speech is written for a specific ___ purpose.",
@@ -11176,6 +11177,7 @@
         "summary": "Grade 12 Advanced Functions strand: a function can be classified as even, odd, or neither based on how its graph behaves under reflection, which reveals useful structural properties about the function.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=fKyBOLsqRlo",
         "quiz": [
           {
             "q": "A function can be classified as even, odd, or ___.",
@@ -11235,6 +11237,7 @@
         "summary": "Grade 12 Calculus strand: a logistic growth model describes a quantity that initially grows rapidly but slows as it approaches a maximum sustainable value, called the carrying capacity, unlike unlimited exponential growth.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=p1Px2CeVSRg",
         "quiz": [
           {
             "q": "A logistic growth model describes a quantity that initially grows rapidly but ___ as it approaches a maximum value.",
@@ -11294,6 +11297,7 @@
         "summary": "Grade 12 Physics strand: superconductivity is a phenomenon in which certain materials, when cooled below a critical temperature, conduct electric current with zero electrical resistance.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=usyi149KNLY",
         "quiz": [
           {
             "q": "Superconductivity occurs when certain materials conduct electric current with ___.",

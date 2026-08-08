@@ -1894,6 +1894,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Writing: The Editorial (Op-Ed)", summary:"Grade 9 Writing strand: an editorial, or op-ed, presents a writer’s opinion on a current issue, supported by reasoning and evidence, often intended to persuade or inform public opinion.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=oxNPt5eQd00",
    quiz:[
      {q:"An editorial is written to ___.", options:["Report only neutral facts with no opinion","Avoid discussing any current issues","Copy information without any analysis","Present the writer’s opinion on a current issue"], answer:3},
      {q:"A strong editorial typically includes ___.", options:["Only the writer’s name and nothing else","No supporting evidence at all","Random, unrelated information","Reasoning and evidence to support the writer’s opinion"], answer:3},
@@ -1903,6 +1904,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Two-Variable Statistics and Line of Best Fit", summary:"Grade 9 Data Management strand: a scatter plot displays the relationship between two variables, and a line of best fit approximates that relationship, helping to identify trends and make predictions.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=DmGLQkUm-4g",
    quiz:[
      {q:"A scatter plot is used to display the relationship between ___.", options:["No variables at all","Only a single, isolated variable","Two variables","A concept unrelated to data"], answer:2},
      {q:"A line of best fit is used to ___.", options:["Approximate the overall trend in a scatter plot’s data","Have no connection to the data shown","Replace the need for any data collection","Connect every single data point exactly"], answer:0},
@@ -1912,6 +1914,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Environmental Science: Invasive Species", summary:"Grade 9 Science Biology strand: an invasive species is a non-native organism introduced to a new environment where it can cause significant harm to local ecosystems, often by outcompeting native species.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=spTWwqVP_2s",
    quiz:[
      {q:"An invasive species is best described as ___.", options:["A species with no impact on its environment","A native species that has always lived in that ecosystem","An organism unrelated to any specific ecosystem","A non-native organism that causes harm in a new environment"], answer:3},
      {q:"Invasive species often cause harm by ___.", options:["Always benefiting the native species in that ecosystem","Having no interaction with native species at all","Outcompeting native species for resources","Remaining completely isolated from the local ecosystem"], answer:2},
@@ -1921,6 +1924,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Geography of Food Systems: From Farm to Table", summary:"Grade 9 Social Studies (Geography) strand: a food system involves the geographic network of growing, processing, transporting, and distributing food, connecting rural agricultural regions with urban consumers.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=xx_Cu7Le3ZY",
    quiz:[
      {q:"A food system involves the geographic network of ___.", options:["Growing, processing, transporting, and distributing food","A single unrelated activity with no connection to food","A concept unrelated to geography","Only food consumption, with no other stages considered"], answer:0},
      {q:"Why might the distance food travels from farm to consumer be a relevant geographic consideration?", options:["Distance has no connection to food systems","Transportation has no effect on food quality or cost","Food never needs to travel any distance before reaching consumers","Transportation distance can affect cost, freshness, and environmental impact"], answer:3},

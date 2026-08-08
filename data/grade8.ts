@@ -1894,6 +1894,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Writing: The Multi-Genre Project", summary:"Grade 8 Writing strand: a multi-genre project explores a single topic through multiple forms of writing, such as poetry, a letter, and a news article, allowing for varied perspectives and creative expression.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=grFvnRucSyI",
    quiz:[
      {q:"A multi-genre project explores a single topic through ___.", options:["Multiple forms of writing","Only a single form of writing","A topic with no connection between the pieces","No structured writing at all"], answer:0},
      {q:"Which is an example of combining genres in a multi-genre project about a historical event?", options:["Writing a poem, a letter, and a news article about the same event","Writing only one essay with no variation in form","Ignoring the historical event entirely","Copying text from a single unrelated source"], answer:0},
@@ -1903,6 +1904,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to the Quadratic Formula", summary:"Grade 8 Algebra strand (pre-high-school extension): the quadratic formula, x equals negative b plus or minus the square root of b squared minus 4ac all over 2a, can be used to solve any quadratic equation in the form ax squared plus bx plus c equals zero.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=IlNAJl36-10",
    quiz:[
      {q:"The quadratic formula is used to solve equations in the form ___.", options:["ax squared plus bx plus c equals zero","a plus b equals c","ax plus b equals zero","a divided by b equals c"], answer:0},
      {q:"In the quadratic formula, which symbol represents the coefficient of the x squared term?", options:["c","b","x","a"], answer:3},
@@ -1912,6 +1914,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Meteorology: Predicting Severe Weather", summary:"Grade 8 Science Earth and Space Systems strand: meteorologists use data from radar, satellites, and weather models to predict severe weather events, such as tornadoes and hurricanes, helping communities prepare in advance.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=vRafAAzqp88",
    quiz:[
      {q:"Meteorologists use tools such as ___ to help predict severe weather.", options:["Radar and satellites","Tools that provide no useful information","A single unrelated tool with no connection to weather","Only guesswork with no data"], answer:0},
      {q:"Predicting severe weather events, like hurricanes, helps communities ___.", options:["Prepare in advance to reduce risk","Avoid using any weather-related data","Ignore all warnings about severe weather","Have no ability to prepare for danger"], answer:0},
@@ -1921,6 +1924,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Meech Lake and Charlottetown Accords", summary:"Grade 8 History strand: the Meech Lake Accord and Charlottetown Accord were failed attempts in the late 1980s and early 1990s to amend Canada’s constitution and address Quebec’s status within Confederation.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=sYLyVOHZ_90",
    quiz:[
      {q:"The Meech Lake Accord and Charlottetown Accord were attempts to ___.", options:["Eliminate Canada’s constitution entirely","Amend Canada’s constitution","Address issues unrelated to Canadian government","Create an entirely new country"], answer:1},
      {q:"These accords were significantly focused on addressing ___.", options:["Issues unrelated to Canadian unity","Quebec’s status within Confederation","A topic with no connection to Canadian federalism","A matter unrelated to constitutional change"], answer:1},

@@ -1896,6 +1896,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"English", title:"Writing: The Formal Letter and Professional Correspondence", summary:"Grade 10 English strand: writing a formal letter or professional email requires a clear purpose, respectful and precise language, and an appropriate structure suited to the intended audience.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=Gd8v-FIjI9Y",
    quiz:[
      {q:"A formal letter or professional email should use ___.", options:["Respectful and precise language","Vague, unclear phrasing throughout","Casual, informal slang throughout","Language with no connection to the intended audience"], answer:0},
      {q:"Why is it important to clearly state the purpose of a formal letter near its beginning?", options:["It helps the reader quickly understand why they are receiving the correspondence","A formal letter never needs to state its purpose","This structure has no effect on how the letter is received","Purpose should always be hidden until the very end of the letter"], answer:0},
@@ -1905,6 +1906,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Conditional Probability and Independence", summary:"Grade 10 Data Management strand (extension): conditional probability describes the likelihood of an event occurring given that another event has already occurred, and two events are independent when one does not affect the probability of the other.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=sqDVrXq_eh0",
    quiz:[
      {q:"Conditional probability describes the likelihood of an event occurring given that ___.", options:["No other events have ever occurred","The two events can never be connected","Another event has already occurred","A completely unrelated event has occurred"], answer:2},
      {q:"Two events are considered independent when ___.", options:["One event does not affect the probability of the other","Both events always occur at the exact same time","Neither event can ever occur","One event always determines the outcome of the other"], answer:0},
@@ -1914,6 +1916,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Applications of Radioactivity in Medicine", summary:"Grade 10 Physics strand: radioactive isotopes are used in medicine for both diagnostic imaging and treatment, taking advantage of their predictable decay properties to benefit patient care.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=03f4Nhkd1Cw",
    quiz:[
      {q:"Radioactive isotopes used in medicine take advantage of their ___.", options:["Random, unpredictable behaviour with no scientific basis","Complete lack of any measurable properties","Properties unrelated to radioactivity","Predictable decay properties"], answer:3},
      {q:"Which is an example of a medical use of radioactivity?", options:["A process with no connection to isotopes","Diagnostic imaging","A use entirely unrelated to medicine","Only agricultural applications, with no medical use"], answer:1},
@@ -1923,6 +1926,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Founding of Nunavut", summary:"Grade 10 History strand: Nunavut was created as a separate Canadian territory in 1999, established in part to provide the Inuit population with greater self-governance over their traditional lands.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=mzyr7W_QDqI",
    quiz:[
      {q:"Nunavut was created as a separate Canadian territory in which year?", options:["1970","1999","1949","1867"], answer:1},
      {q:"The creation of Nunavut was established in part to provide ___.", options:["The Inuit population with greater self-governance","A change unrelated to Indigenous self-governance","No connection to any specific population","Reduced self-governance for Inuit communities"], answer:0},
