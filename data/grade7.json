@@ -11085,6 +11085,7 @@
         "summary": "Ontario Grade 7 Writing strand: writing an effective speech requires considering the specific audience’s interests, knowledge, and expectations to choose appropriate language, tone, and content.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=PTD_EZWCO7w",
         "quiz": [
           {
             "q": "Writing a speech for a specific audience requires considering ___.",
@@ -11144,6 +11145,7 @@
         "summary": "Ontario Grade 7 Financial Literacy strand: currency exchange involves converting money from one currency to another using an exchange rate, which represents how much one currency is worth compared to another.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=SkYDmis7lGo",
         "quiz": [
           {
             "q": "An exchange rate represents ___.",
@@ -11199,20 +11201,21 @@
       },
       {
         "subject": "Science",
-        "title": "Renewable vs. Non-Renewable Resources: Global Perspectives",
-        "summary": "Ontario Grade 7 Science Matter and Energy strand: countries around the world rely differently on renewable resources, like solar and wind, and non-renewable resources, like coal and oil, based on geography, technology, and economic factors.",
+        "title": "Renewable Energy Sources: Solar, Wind, and Beyond",
+        "summary": "Ontario Grade 7 Science Matter and Energy strand: renewable energy sources, like solar and wind, can be replenished naturally, and each has strengths and limitations depending on the technology and location used to harness it.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=1kUE0BZtTRc",
         "quiz": [
           {
-            "q": "A country’s reliance on renewable versus non-renewable resources can depend on ___.",
+            "q": "A renewable energy source is one that ___.",
             "options": [
-              "A completely random, unrelated factor",
-              "Nothing related to its location or economy",
-              "Only the size of the country, with no other influence",
-              "Its geography, technology, and economic factors"
+              "Can be replenished naturally over time",
+              "Takes millions of years to form",
+              "Always causes pollution",
+              "Can never be used again once used once"
             ],
-            "answer": 3
+            "answer": 0
           },
           {
             "q": "Which is an example of a renewable resource used differently around the world?",
@@ -11235,22 +11238,22 @@
             "answer": 2
           },
           {
-            "q": "Why might some countries invest more heavily in renewable energy than others?",
+            "q": "Why might some regions invest more heavily in wind energy than solar?",
             "options": [
-              "Every country has identical access to every energy source",
-              "Renewable energy investment is unrelated to geography or economics",
-              "Available natural resources, technology, and economic priorities can vary by country",
-              "All countries rely on the exact same energy sources"
+              "Every region has identical wind and sun conditions",
+              "Available natural conditions like wind speed can vary by location",
+              "Wind energy has no connection to geography",
+              "All regions rely on the exact same energy sources"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is understanding global resource use important when studying environmental science?",
+            "q": "Why is understanding different renewable energy sources important when studying environmental science?",
             "options": [
-              "Global resource use has no connection to environmental science",
-              "All countries use resources in an identical way",
+              "Renewable energy has no connection to environmental science",
+              "All renewable sources work identically everywhere",
               "This topic has no real-world relevance",
-              "It helps explain differences in energy policy and environmental impact around the world"
+              "It helps explain how energy choices affect the environment and energy policy"
             ],
             "answer": 3
           }
@@ -11262,6 +11265,7 @@
         "summary": "Ontario Grade 7 Social Studies People and Environments strand: trade agreements between countries establish rules for buying and selling goods and services, affecting Canada’s economy, industries, and international relationships.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=LaMCK-Sec7Y",
         "quiz": [
           {
             "q": "A trade agreement is best described as ___.",

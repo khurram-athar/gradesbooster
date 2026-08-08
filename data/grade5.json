@@ -11085,6 +11085,7 @@
         "summary": "Ontario Grade 5 Language strand: denotation is a word’s literal dictionary definition, while connotation is the feeling or association a word carries beyond its literal meaning, such as childish versus youthful.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=IlrVsWRzGhg",
         "quiz": [
           {
             "q": "Denotation refers to ___.",
@@ -11144,6 +11145,7 @@
         "summary": "Ontario Grade 5 Geometry strand: a net is a 2D pattern that can be folded to form a 3D shape, showing all of the shape’s faces laid out flat.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=HBSLrN9LWBA",
         "quiz": [
           {
             "q": "A net is best described as ___.",
@@ -11203,6 +11205,7 @@
         "summary": "Ontario Grade 5 Science Life Systems strand: biodiversity is the variety of living things in an ecosystem, and conservation efforts aim to protect that variety from threats like habitat loss and pollution.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=8LXJu1U-yUk",
         "quiz": [
           {
             "q": "Biodiversity refers to ___.",
@@ -11258,21 +11261,12 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canada’s Relationship with the Commonwealth",
+        "title": "What Is the Commonwealth of Nations?",
         "summary": "Ontario Grade 5 Social Studies People and Environments strand: the Commonwealth is a voluntary association of countries, many once part of the British Empire, that cooperate on shared goals like trade, education, and democracy.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=aWsvHuuV-qE",
         "quiz": [
-          {
-            "q": "The Commonwealth is best described as ___.",
-            "options": [
-              "A single country",
-              "A voluntary association of countries cooperating on shared goals",
-              "An organization with no members",
-              "A military alliance only"
-            ],
-            "answer": 1
-          },
           {
             "q": "Many Commonwealth countries were historically connected through ___.",
             "options": [
@@ -11304,14 +11298,24 @@
             "answer": 1
           },
           {
-            "q": "Why might Canada value its relationship with the Commonwealth?",
+            "q": "Roughly how many countries belong to the Commonwealth today?",
             "options": [
-              "The Commonwealth provides no benefit to Canada",
-              "Commonwealth membership isolates Canada from the world",
-              "It offers opportunities for cooperation and shared connections with other nations",
-              "Canada has no historical ties to Commonwealth countries"
+              "Around a dozen",
+              "Around 50",
+              "Only 3",
+              "Every country in the world"
             ],
-            "answer": 2
+            "answer": 1
+          },
+          {
+            "q": "The Commonwealth is best described as ___.",
+            "options": [
+              "A single country",
+              "A voluntary association of countries cooperating on shared goals",
+              "An organization with no members",
+              "A military alliance only"
+            ],
+            "answer": 1
           }
         ]
       }

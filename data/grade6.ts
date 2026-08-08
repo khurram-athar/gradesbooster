@@ -1894,6 +1894,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Writing: Persuasive Letter Writing", summary:"Ontario Grade 6 Writing strand: a persuasive letter presents a clear request or opinion, supported by reasons and evidence, and is written with a tone and format appropriate for its intended reader.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=dgE-qrU1hXU",
    quiz:[
      {q:"A persuasive letter is written to ___.", options:["Copy information with no persuasive purpose","Avoid taking any clear position","Only describe the writer’s daily schedule","Convince the reader of an opinion or request"], answer:3},
      {q:"A persuasive letter should be supported by ___.", options:["Only the writer’s name","No supporting details at all","Random, unrelated facts","Reasons and evidence"], answer:3},
@@ -1903,6 +1904,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Statistics: Analyzing and Comparing Data Sets", summary:"Ontario Grade 6 Data Management strand: analyzing and comparing data sets involves looking at measures like mean, median, mode, and range to understand and compare different sets of information.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=s_w3EJ2Jzw0",
    quiz:[
      {q:"The range of a data set is found by ___.", options:["Subtracting the smallest value from the largest value","Finding the most frequent value only","Adding all values together","Finding the middle value only"], answer:0},
      {q:"What is the range of the data set 4, 9, 15, 22?", options:["15","22","18","9"], answer:2},
@@ -1912,6 +1914,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space Exploration Technologies and Robotics", summary:"Ontario Grade 6 Science and Technology strand: space exploration relies on technologies such as rockets, satellites, and robotic rovers to study space and other planets without always requiring human astronauts.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=ujh-dtEvyIw",
    quiz:[
      {q:"Robotic rovers are used in space exploration to ___.", options:["Prevent any exploration of other planets","Study planets and gather data, often without a human on board","Replace all forms of space technology","Only orbit Earth with no other function"], answer:1},
      {q:"Satellites in space exploration are commonly used for ___.", options:["Only decoration","Nothing useful","Preventing all forms of communication","Communication and observation"], answer:3},
@@ -1921,6 +1924,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Decolonization Movements in the 20th Century", summary:"Ontario Grade 6 Social Studies Heritage and Identity strand: decolonization refers to the process by which colonized nations, especially in Africa and Asia, gained independence from colonial powers during the 20th century.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=T_sGTspaF4Y",
    quiz:[
      {q:"Decolonization refers to the process of ___.", options:["Countries becoming newly colonized","A single country expanding its colonies","Nations losing all forms of self-governance","Colonized nations gaining independence from colonial powers"], answer:3},
      {q:"Decolonization movements were especially significant in which regions during the 20th century?", options:["Only uninhabited regions","Africa and Asia","No regions experienced decolonization","Only Antarctica"], answer:1},

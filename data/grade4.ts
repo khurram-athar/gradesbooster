@@ -1894,6 +1894,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Vocabulary: Multiple-Meaning Words", summary:"Ontario Grade 4 Language strand: multiple-meaning words are spelled the same but can have different meanings depending on how they are used in a sentence, such as bat, bank, or watch.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=W4iH2GqsTZs",
    quiz:[
      {q:"The word bat can mean ___.", options:["Only a flying animal","A flying animal or sports equipment, depending on context","Only a type of tree","Only a colour"], answer:1},
      {q:"In the sentence I watched the clock on my watch, the two uses of watch mean ___.", options:["The exact same thing both times","Both refer to a type of bird","Neither use makes sense","Different things: looked at, and a wristwatch"], answer:3},
@@ -1903,6 +1904,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"24-Hour Clock (Military Time)", summary:"Ontario Grade 4 Measurement strand: the 24-hour clock counts hours from 00:00 (midnight) to 23:59, avoiding the need for AM and PM, and is commonly used in schedules like transit and travel.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=6GUY-ZdRarI",
    quiz:[
      {q:"What time is 14:00 in standard 12-hour time?", options:["12:00 PM","2:00 PM","2:00 AM","4:00 PM"], answer:1},
      {q:"On the 24-hour clock, midnight is written as ___.", options:["1:00","24:00 only","00:00","12:00"], answer:2},
@@ -1912,6 +1914,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Renewable and Non-Renewable Energy Sources", summary:"Ontario Grade 4 Science Matter and Energy strand: renewable energy sources, like solar and wind, can be replenished naturally, while non-renewable sources, like coal and oil, take millions of years to form and can run out.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=DYf6L2E7va0",
    quiz:[
      {q:"A renewable energy source is one that ___.", options:["Can be replenished naturally over a short time","Takes millions of years to form","Always causes pollution","Can never be used again once used once"], answer:0},
      {q:"Which is an example of a renewable energy source?", options:["Solar power","Natural gas","Oil","Coal"], answer:0},
@@ -1921,6 +1924,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Map Skills: Scale and Symbols", summary:"Ontario Grade 4 Social Studies People and Environments strand: maps use a scale to show real-world distances in a smaller form, and symbols in a legend to represent features like cities, roads, or rivers.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=f9Mp4EE4vSA",
    quiz:[
      {q:"A map scale helps show ___.", options:["The colour of the land","Nothing useful","The population of a country","Real-world distances in a smaller form"], answer:3},
      {q:"Symbols on a map are explained in a ___.", options:["Legend (or key)","Scale bar only","Title page","Compass rose"], answer:0},

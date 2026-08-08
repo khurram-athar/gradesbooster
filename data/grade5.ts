@@ -1894,6 +1894,7 @@ const curriculum: DayContent[] = [
 {day:46, label:"Day 46 — Mon", subjects:[
   {subject:"Language", title:"Vocabulary: Connotation and Denotation", summary:"Ontario Grade 5 Language strand: denotation is a word’s literal dictionary definition, while connotation is the feeling or association a word carries beyond its literal meaning, such as childish versus youthful.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=IlrVsWRzGhg",
    quiz:[
      {q:"Denotation refers to ___.", options:["A word’s spelling only","The feeling a word suggests","A word’s pronunciation only","A word’s literal dictionary definition"], answer:3},
      {q:"Connotation refers to ___.", options:["A word’s literal definition only","A word’s part of speech","The feeling or association a word carries beyond its literal meaning","A word’s syllable count"], answer:2},
@@ -1903,6 +1904,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometric Nets and 3D Shape Construction", summary:"Ontario Grade 5 Geometry strand: a net is a 2D pattern that can be folded to form a 3D shape, showing all of the shape’s faces laid out flat.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=HBSLrN9LWBA",
    quiz:[
      {q:"A net is best described as ___.", options:["A measurement of angles only","A type of fraction","A type of graph","A 2D pattern that folds into a 3D shape"], answer:3},
      {q:"The net of a cube is made up of how many square faces?", options:["12","6","4","8"], answer:1},
@@ -1912,6 +1914,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Conservation of Biodiversity", summary:"Ontario Grade 5 Science Life Systems strand: biodiversity is the variety of living things in an ecosystem, and conservation efforts aim to protect that variety from threats like habitat loss and pollution.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=8LXJu1U-yUk",
    quiz:[
      {q:"Biodiversity refers to ___.", options:["The variety of living things in an ecosystem","Only the number of trees in a forest","The absence of all living things","A single species living alone"], answer:0},
      {q:"Which is a common threat to biodiversity?", options:["Too much protected land","Habitat loss","Nothing threatens biodiversity","Too many conservation programs"], answer:1},
@@ -1919,14 +1922,15 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of a conservation effort to protect biodiversity?", options:["Removing all environmental protections","Encouraging unlimited habitat destruction","Ignoring threats to species","Establishing protected wildlife habitats"], answer:3},
      {q:"Why might scientists monitor biodiversity levels over time?", options:["To detect changes that might signal environmental problems","Only non-living things are worth monitoring","Monitoring biodiversity serves no purpose","Biodiversity never changes over time"], answer:0}
    ]},
-  {subject:"SocialStudies", title:"Canada’s Relationship with the Commonwealth", summary:"Ontario Grade 5 Social Studies People and Environments strand: the Commonwealth is a voluntary association of countries, many once part of the British Empire, that cooperate on shared goals like trade, education, and democracy.",
+  {subject:"SocialStudies", title:"What Is the Commonwealth of Nations?", summary:"Ontario Grade 5 Social Studies People and Environments strand: the Commonwealth is a voluntary association of countries, many once part of the British Empire, that cooperate on shared goals like trade, education, and democracy.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=aWsvHuuV-qE",
    quiz:[
-     {q:"The Commonwealth is best described as ___.", options:["A single country","A voluntary association of countries cooperating on shared goals","An organization with no members","A military alliance only"], answer:1},
      {q:"Many Commonwealth countries were historically connected through ___.", options:["The Roman Empire","Ancient trade routes only","No historical connection at all","The British Empire"], answer:3},
      {q:"Commonwealth countries often cooperate on issues such as ___.", options:["Isolating each other completely","Nothing of shared interest","Trade, education, and democracy","Only military conflict"], answer:2},
      {q:"Is membership in the Commonwealth mandatory for its member countries?", options:["Yes, countries are forced to join","No, membership is voluntary","Membership has never been optional","Only some countries are allowed to leave"], answer:1},
-     {q:"Why might Canada value its relationship with the Commonwealth?", options:["The Commonwealth provides no benefit to Canada","Commonwealth membership isolates Canada from the world","It offers opportunities for cooperation and shared connections with other nations","Canada has no historical ties to Commonwealth countries"], answer:2}
+     {q:"Roughly how many countries belong to the Commonwealth today?", options:["Around a dozen","Around 50","Only 3","Every country in the world"], answer:1},
+     {q:"The Commonwealth is best described as ___.", options:["A single country","A voluntary association of countries cooperating on shared goals","An organization with no members","A military alliance only"], answer:1}
    ]},
 ]},
 {day:47, label:"Day 47 — Tue", subjects:[

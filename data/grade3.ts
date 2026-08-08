@@ -1922,14 +1922,15 @@ const curriculum: DayContent[] = [
      {q:"Which is a good conductor that transfers heat quickly?", options:["Foam","Rubber","Wood","Metal"], answer:3},
      {q:"Why does a hot drink eventually cool down at room temperature?", options:["Cold flows into the drink","Heat flows from the drink into the cooler surrounding air","Temperature never changes","The drink creates more heat over time"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Comparing Government: Then and Now", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: government in early Canadian communities (1780-1850) was more local and limited, while today Canada has federal, provincial, and municipal governments with defined roles.",
+  {subject:"SocialStudies", title:"Levels of Government in Canada: Federal, Provincial, and Municipal", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: Canada today has three main levels of government — federal, provincial, and municipal — each with its own responsibilities for laws and services.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=WYhqg3VVmQw",
    quiz:[
-     {q:"Government in early Canadian settlements was often more ___ than today.", options:["Identical to today's system","Nonexistent","Local and limited","Complex and centralized"], answer:2},
      {q:"Today, Canada has how many main levels of government?", options:["Two","Three","One","Five"], answer:1},
      {q:"Which is a level of government in Canada today?", options:["Only royal","None exist","Municipal","Only village elders"], answer:2},
-     {q:"Compared to today, early settler communities had ___ formal laws and services.", options:["More","The exact same number of","Fewer","No difference in"], answer:2},
-     {q:"Why is it useful to compare government then and now?", options:["Government has never changed","It helps us understand how communities and their needs have changed over time","It only matters for adults","It has no educational value"], answer:1}
+     {q:"Which level of government usually runs things like parks and local roads?", options:["Federal","Provincial","Municipal","None of them"], answer:2},
+     {q:"The federal government is led from which city?", options:["Toronto","Ottawa","Vancouver","Winnipeg"], answer:1},
+     {q:"Why does Canada divide responsibilities across levels of government?", options:["So no one is in charge of anything","So different needs, from national to local, can each be handled by the right level","Because it used to be that way and never changed","To make government more confusing"], answer:1}
    ]},
 ]},
 {day:47, label:"Day 47 — Tue", subjects:[
