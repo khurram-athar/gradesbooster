@@ -1936,6 +1936,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Media Literacy: Analyzing News Bias Across Outlets", summary:"Ontario Grade 6 Media Literacy strand: comparing how different news outlets report on the same event can reveal differences in tone, word choice, and focus that may indicate bias.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=6R6-2_8m4Co",
    quiz:[
      {q:"Comparing multiple news outlets on the same event can reveal ___.", options:["That all outlets always report identically","Only irrelevant details","Nothing useful about the coverage","Differences in tone, word choice, and focus"], answer:3},
      {q:"Why might two news outlets present the same event differently?", options:["They may have different perspectives, priorities, or biases","Facts always change between outlets","Differences in reporting never occur","News outlets are legally required to report identically"], answer:0},
@@ -1945,6 +1946,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Classifying and Constructing Triangles", summary:"Ontario Grade 6 Geometry strand: triangles can be classified by their side lengths (equilateral, isosceles, scalene) and angles (acute, right, obtuse), and can be constructed using a ruler and protractor.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=NzcTKGxwCCE",
    quiz:[
      {q:"A triangle with three equal sides is called ___.", options:["Isosceles","Obtuse","Scalene","Equilateral"], answer:3},
      {q:"A triangle with exactly two equal sides is called ___.", options:["Isosceles","Equilateral","Right","Scalene"], answer:0},
@@ -1954,6 +1956,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound Waves and Frequency", summary:"Ontario Grade 6 Science Matter and Energy strand: sound travels as vibrations in waves, and frequency, measured in hertz, determines pitch, with higher frequencies producing higher-pitched sounds.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=-_xZZt99MzY",
    quiz:[
      {q:"Sound travels through the air as ___.", options:["Vibrations in waves","A solid beam of light","A type of liquid","Nothing measurable"], answer:0},
      {q:"Frequency is measured in units called ___.", options:["Metres","Hertz","Decibels","Litres"], answer:1},
@@ -1963,6 +1966,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The European Union: Cooperation and Integration", summary:"Ontario Grade 6 Social Studies People and Environments strand: the European Union is a political and economic partnership among many European countries that cooperate on trade, travel, and shared policies.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=SFeB9fMGJ9k",
    quiz:[
      {q:"The European Union is best described as ___.", options:["An organization with no member countries","A single country in Europe","A military-only alliance with no economic role","A political and economic partnership among European countries"], answer:3},
      {q:"Member countries of the European Union often cooperate on issues such as ___.", options:["Nothing of shared interest","Preventing any cooperation between countries","Only isolated, unrelated local issues","Trade and shared policies"], answer:3},

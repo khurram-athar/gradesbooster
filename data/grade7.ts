@@ -1934,17 +1934,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:47, label:"Day 47 — Tue", subjects:[
-  {subject:"Language", title:"Media Literacy: Analyzing Documentary Techniques", summary:"Ontario Grade 7 Media Literacy strand: documentaries use techniques such as interviews, narration, and selective editing to present information, and recognizing these choices helps viewers evaluate a documentary’s perspective.",
+  {subject:"Language", title:"Media Literacy: How Film and Video Editing Techniques Shape Meaning", summary:"Ontario Grade 7 Media Literacy strand: editors use techniques such as cross cutting, cut on action, and split edits to control pacing and build connections between images, and recognizing these choices helps viewers understand how a video's perspective is constructed.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=FVR8zz8ci2k",
    quiz:[
-     {q:"Documentaries often use techniques such as ___.", options:["Only fictional dialogue with no factual basis","Random unrelated footage with no structure","No editing of any kind","Interviews, narration, and selective editing"], answer:3},
-     {q:"Selective editing in a documentary can ___.", options:["Shape how viewers understand the topic being presented","Remove the need for any narration","Always present a fully neutral, unbiased account","Have no effect on how information is perceived"], answer:0},
-     {q:"Why might a documentary filmmaker choose to include specific interviews?", options:["To support the perspective or argument the documentary is presenting","Interviews always represent every possible viewpoint equally","Interviews have no connection to a documentary’s message","Interviews are never included in documentaries"], answer:0},
-     {q:"Why is it valuable for viewers to consider a documentary’s perspective critically?", options:["Critical thinking is unnecessary when watching documentaries","Documentaries never involve any creative choices","Even factual media can present information selectively to support a particular viewpoint","All documentaries present completely neutral, unbiased information"], answer:2},
-     {q:"Narration in a documentary is used to ___.", options:["Remove all context from the footage","Replace the need for any visual content","Confuse the viewer intentionally with no purpose","Guide viewers’ understanding of the events and information shown"], answer:3}
+     {q:"Cross cutting (intercutting) is an editing technique that ___.", options:["Weaves two or more scenes together to build a connection between them","Removes all sound from a scene","Only shows one uninterrupted shot for the entire video","Deletes footage with no creative purpose"], answer:0},
+     {q:"Placing two images back-to-back so viewers search for a connection between them is called ___.", options:["A cut on action","Intellectual montage","A blank screen","An eyeline match"], answer:1},
+     {q:"Why might an editor use a split edit (J cut or L cut) in a dialogue scene?", options:["To remove all dialogue from the scene","To help pace the conversation and allow for reaction shots","To make the video shorter with no other effect","Split edits are never used in dialogue scenes"], answer:1},
+     {q:"An eyeline match is designed to ___.", options:["Confuse the viewer about where to look","Guide viewers to see what a character is looking at","Remove the need for any camera movement","Have no connection to a character's perspective"], answer:1},
+     {q:"Why is it useful for viewers to recognize editing techniques when watching a video?", options:["Editing choices have no effect on how a story or argument is understood","All videos use identical editing with no creative choices involved","It helps them understand how the video's structure shapes meaning and perspective","Recognizing editing techniques is only useful for professional filmmakers"], answer:2}
    ]},
   {subject:"Math", title:"Rational and Irrational Numbers: An Introduction", summary:"Ontario Grade 7 Number strand: a rational number can be written as a fraction of two integers, while an irrational number, such as pi, cannot be expressed exactly as a simple fraction.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=cLP7INqs3JM",
    quiz:[
      {q:"A rational number can be expressed as ___.", options:["A number that never terminates or repeats","A number unrelated to fractions","A fraction of two integers","Only a whole number with no fractions allowed"], answer:2},
      {q:"Which of these is an example of an irrational number?", options:["3","1/2","Pi (approximately 3.14159...)","0.75"], answer:2},
@@ -1954,6 +1956,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Immune System and Disease Prevention", summary:"Ontario Grade 7 Science Human Body Systems strand: the immune system defends the body against pathogens, and practices like vaccination, handwashing, and proper nutrition can help support the immune system and prevent disease.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=OxHASWEKBic",
    quiz:[
      {q:"The immune system’s main role is to ___.", options:["Pump blood throughout the body","Defend the body against harmful pathogens","Digest food","Control body movement"], answer:1},
      {q:"Which is a practice that can help prevent the spread of disease?", options:["Ignoring signs of illness completely","Avoiding all hygiene practices","Regular handwashing","Sharing contaminated items without concern"], answer:2},
@@ -1963,6 +1966,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Refugee Crises and International Response", summary:"Ontario Grade 7 Social Studies People and Environments strand: a refugee crisis occurs when large numbers of people are forced to flee their home country due to conflict or persecution, often requiring coordinated international humanitarian response.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=25bwiSikRsI",
    quiz:[
      {q:"A refugee is generally someone who ___.", options:["Has never left their home country","Has no connection to conflict or persecution","Has been forced to flee their home country due to conflict or persecution","Chooses to move for purely recreational reasons"], answer:2},
      {q:"A refugee crisis often requires ___.", options:["Complete indifference from the global community","No response from any country","Coordinated international humanitarian response","A single country acting entirely alone with no support"], answer:2},

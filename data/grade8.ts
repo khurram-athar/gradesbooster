@@ -1936,6 +1936,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"Language", title:"Media Literacy: Analyzing Political Cartoons", summary:"Grade 8 Media Literacy strand: political cartoons use symbolism, exaggeration, and humour to comment on political or social issues, requiring readers to interpret visual and textual clues to understand the message.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=uXnvKwc99Jw",
    quiz:[
      {q:"Political cartoons often use ___ to comment on issues.", options:["Symbolism, exaggeration, and humour","Text with no visual component","Only plain, literal illustrations with no deeper meaning","No visual elements at all"], answer:0},
      {q:"Why might a political cartoonist use exaggeration in their work?", options:["This technique has no persuasive purpose","To emphasize a point or draw attention to a particular issue","Political cartoons never use exaggeration","Exaggeration always removes meaning from a cartoon"], answer:1},
@@ -1945,6 +1946,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Precision and Significant Figures in Measurement", summary:"Grade 8 Measurement strand: significant figures indicate the precision of a measurement, and understanding them helps ensure calculations reflect an appropriate and honest level of accuracy.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Gn97hpEkTiM",
    quiz:[
      {q:"Significant figures indicate ___.", options:["Only whole numbers with no decimals","The exact colour of a measured object","The precision of a measurement","A number with no connection to measurement"], answer:2},
      {q:"In the measurement 3.20 cm, how many significant figures are there?", options:["Four","One","Two","Three"], answer:3},
@@ -1963,6 +1965,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Role in the Suez Crisis and UN Peacekeeping Origins", summary:"Grade 8 History strand: Canadian diplomat Lester B. Pearson played a key role in resolving the 1956 Suez Crisis by proposing the first large-scale United Nations peacekeeping force, later earning him the Nobel Peace Prize.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=35FPo8Z6f6Y",
    quiz:[
      {q:"The Suez Crisis took place in which year?", options:["1982","1956","1945","1919"], answer:1},
      {q:"Lester B. Pearson proposed the creation of ___.", options:["A new Canadian political party","A domestic Canadian policy with no international connection","A trade agreement unrelated to peacekeeping","The first large-scale United Nations peacekeeping force"], answer:3},
