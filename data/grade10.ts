@@ -5503,6 +5503,386 @@ const curriculum: DayContent[] = [
      {q:"What role does the Bank of Canada serve?", options:["It functions as a national railway company","It functions as the countrys central bank","It functions as a provincial tax collection agency","It functions as a private commercial bank only"], answer:1}
    ]},
 ]},
+{day:141, label:"Day 141 — Mon", subjects:[
+  {subject:"English", title:"Media Literacy: Analyzing Product Placement in Film and Television", summary:"Grade 10 English strand: product placement is the practice of featuring a branded product or service within a film, television show, or other media content in exchange for payment or promotional consideration, blurring the line between entertainment and advertising.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What is product placement?", options:["A branded product or service featured within media content in exchange for payment or promotion","A type of movie theatre seating arrangement","A legal requirement for all television broadcasts","A method of editing film footage after production"], answer:0},
+     {q:"What line does product placement blur?", options:["The line between fiction and historical fact","The line between comedy and tragedy","The line between print and digital media","The line between entertainment and advertising"], answer:3},
+     {q:"Why might a viewer fail to notice product placement?", options:["Because television programs are required to pause before showing a brand","Because product placement is always announced loudly before it appears","Because it is woven into the story or setting rather than presented as a separate advertisement","Because product placement never appears in visual media"], answer:2},
+     {q:"Which of the following is an example of product placement?", options:["A newspaper article reviewing a new product","A billboard advertisement seen while driving to a theatre","A character in a film prominently using a specific named brand of laptop","A standalone thirty-second commercial break between scenes"], answer:2},
+     {q:"Why is media literacy useful for recognizing product placement?", options:["It has no connection to how audiences interpret visual media","It helps viewers distinguish between organic story content and paid promotional material","It guarantees that all media content is free of any advertising","It removes the need to ever watch a film critically"], answer:1}
+   ]},
+  {subject:"Math", title:"Calculus: Optimization Problems Using Derivatives", summary:"Grade 10 Math strand: optimization problems use derivatives to find the maximum or minimum value of a quantity, typically by setting the derivative of a function equal to zero to locate critical points and then testing which point yields the greatest or least value.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What do optimization problems in calculus typically find?", options:["The maximum or minimum value of a quantity","The total number of variables in an equation","The exact colour of a graphed function","The name of the mathematician who first studied the function"], answer:0},
+     {q:"What is the first step commonly used to locate a critical point?", options:["Multiplying the function by a random constant","Graphing the function without calculating anything","Setting the derivative of the function equal to zero","Ignoring the function entirely and guessing an answer"], answer:2},
+     {q:"What is a critical point in an optimization problem?", options:["A point defined only by its y-intercept","A point that never appears on a graph","A point where the function is always negative","A point where the derivative is zero or undefined"], answer:3},
+     {q:"Why must a critical point be tested after it is found?", options:["To determine whether it represents a maximum, a minimum, or neither","Because testing a critical point is never necessary","Because critical points are always automatically the maximum","To convert the critical point into a whole number"], answer:0},
+     {q:"Which real-world scenario is a classic example of an optimization problem?", options:["Counting the total number of boxes in a warehouse","Finding the dimensions that minimize the material used to build a box of fixed volume","Determining the manufacturer of a randomly selected box","Measuring the exact colour of a box"], answer:1}
+   ]},
+  {subject:"Science", title:"Biology: Coevolution and Mutualistic Relationships", summary:"Grade 10 Science strand: coevolution occurs when two or more species reciprocally influence each others evolution over time, often producing mutualistic relationships in which both species benefit, such as flowering plants and their pollinators.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What is coevolution?", options:["A process that only occurs in extinct species","A process in which a single species evolves with no influence from any other organism","A sudden, one-time genetic mutation with no evolutionary effect","A process in which two or more species reciprocally influence each others evolution over time"], answer:3},
+     {q:"What is a mutualistic relationship?", options:["A relationship in which one species is harmed and the other is unaffected","A relationship in which both species are harmed equally","A relationship in which both interacting species benefit","A relationship that only occurs between members of the same species"], answer:2},
+     {q:"Which pairing is a classic example of coevolved mutualism?", options:["Flowering plants and their pollinators","A shark and a school of unrelated fish with no interaction","Two unrelated species that never interact","A rock and the moss growing nearby with no exchange of benefit"], answer:0},
+     {q:"Why might a flower and its pollinator evolve matching physical traits?", options:["Because traits that improve the exchange of nectar for pollination benefit both species over generations","Because pollinators always harm the flowers they visit","Because matching traits occur randomly with no evolutionary benefit","Because flowers and pollinators never influence one anothers traits"], answer:0},
+     {q:"How does coevolution differ from a relationship where only one species benefits?", options:["Coevolution never involves more than one species","In coevolved mutualism both species gain an advantage, while in relationships like parasitism only one species benefits","There is no meaningful difference between mutualism and parasitism","Coevolution always harms both species involved"], answer:1}
+   ]},
+  {subject:"History", title:"The On-to-Ottawa Trek of 1935", summary:"Grade 10 History strand: the On-to-Ottawa Trek was a 1935 protest march in which unemployed men from federal relief camps travelled by rail from British Columbia toward Ottawa to demand better wages and conditions, ending when the trek was stopped by police in Regina, resulting in the Regina Riot.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"What was the On-to-Ottawa Trek?", options:["A 1935 protest march by unemployed men from federal relief camps travelling toward Ottawa","A railway construction project connecting British Columbia to Ontario","A diplomatic mission sent to negotiate with the United States","A ceremonial parade celebrating Canadian Confederation"], answer:0},
+     {q:"What were the trekkers protesting?", options:["A proposed reduction in provincial voting rights","Poor wages and conditions in federal relief camps","A new federal tax on farm equipment","The construction of a new national railway"], answer:1},
+     {q:"How did the trekkers initially travel toward Ottawa?", options:["By flying in chartered aircraft","By sailing along the Pacific coast","By walking the entire distance on foot with no vehicles","By riding freight trains"], answer:3},
+     {q:"Where was the trek ultimately stopped?", options:["In Ottawa, Ontario, after arriving successfully","In Regina, Saskatchewan","In Halifax, Nova Scotia","In Vancouver, British Columbia, before it began"], answer:1},
+     {q:"What violent event resulted when the trek was stopped?", options:["The Halifax Explosion","The Regina Riot","The Oka Crisis","The Winnipeg General Strike"], answer:1}
+   ]},
+]},
+{day:142, label:"Day 142 — Tue", subjects:[
+  {subject:"English", title:"Grammar: Cleft Sentences for Emphasis", summary:"Grade 10 English strand: a cleft sentence divides a single idea into two clauses, typically using a phrase such as It was... that or What... is to shift emphasis onto a particular piece of information within a sentence.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What does a cleft sentence do?", options:["It removes all punctuation from a sentence","It converts a sentence into a question automatically","It divides a single idea into two clauses to shift emphasis onto a particular piece of information","It combines two unrelated ideas into a single run-on sentence"], answer:2},
+     {q:"Which sentence opener commonly signals a cleft sentence?", options:["It was... that","On the other hand","In conclusion","Once upon a time"], answer:0},
+     {q:"Which sentence is an example of a cleft sentence?", options:["The coach called the final play.","Calling the final play, the coach smiled.","It was the coach who called the final play.","The coach, who arrived late, called the final play."], answer:2},
+     {q:"Why might a writer choose a cleft sentence over a plain statement?", options:["To draw the readers attention to a specific detail within the sentence","To make the sentence impossible to understand","To avoid using a subject or verb entirely","To remove all meaning from the sentence"], answer:0},
+     {q:"What type of clause commonly follows the emphasized element in a cleft sentence?", options:["A question with no connection to the emphasized element","A completely unrelated independent sentence","A single isolated noun with no clause at all","A relative clause beginning with that or who"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Theory: Wilsons Theorem", summary:"Grade 10 Math strand: Wilsons Theorem states that a whole number p greater than 1 is prime if and only if (p minus 1) factorial plus 1 is divisible by p, offering a distinctive test for primality rooted in factorials and modular arithmetic.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What does Wilsons Theorem provide a test for?", options:["Whether a shape is a regular polygon","Whether a number is even","Whether a fraction is in lowest terms","Whether a number is prime"], answer:3},
+     {q:"What quantity does Wilsons Theorem involve, in addition to the number p?", options:["The factorial of p minus 1","The square root of p","The logarithm of p","The sine of p degrees"], answer:0},
+     {q:"According to Wilsons Theorem, if p is prime, what must be true about (p minus 1) factorial plus 1?", options:["It is always a negative number","It is always equal to zero","It is divisible by p","It is never a whole number"], answer:2},
+     {q:"What area of mathematics connects most directly to Wilsons Theorem?", options:["Modular arithmetic and number theory","Trigonometric identities","Coordinate geometry","Statistical sampling methods"], answer:0},
+     {q:"Why is Wilsons Theorem considered mostly a theoretical rather than practical primality test?", options:["Factorials are never used in mathematics","It only works for the number zero","Calculating a large factorial becomes computationally expensive very quickly","Prime numbers do not exist above one hundred"], answer:2}
+   ]},
+  {subject:"Science", title:"Chemistry: Enzymes and Biological Catalysis", summary:"Grade 10 Science strand: enzymes are specialized proteins that act as biological catalysts, speeding up chemical reactions in living organisms by lowering the activation energy required, without being consumed in the reaction themselves.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What are enzymes?", options:["Simple sugars used only for energy storage","Waste products removed entirely from living cells","Specialized proteins that act as biological catalysts","Inorganic minerals found only in rock formations"], answer:2},
+     {q:"How do enzymes speed up chemical reactions?", options:["By permanently stopping the reaction from occurring","By converting the reactants into an entirely different element","By lowering the activation energy required for the reaction","By increasing the activation energy required for the reaction"], answer:2},
+     {q:"What happens to an enzyme after it catalyzes a reaction?", options:["It transforms permanently into the reaction product","It is destroyed completely and cannot be reused","It is not consumed and can be used again","It stops functioning as a protein entirely"], answer:2},
+     {q:"What term describes the specific molecule an enzyme acts upon?", options:["The solvent","The substrate","The catalyst","The precipitate"], answer:1},
+     {q:"Why can extreme heat cause an enzyme to stop functioning?", options:["High temperatures can denature the enzyme, changing its shape so it no longer fits its substrate","Enzymes are entirely unaffected by any temperature change","Heat converts every enzyme into a substrate automatically","Heat always makes enzymes work more efficiently with no limit"], answer:0}
+   ]},
+  {subject:"History", title:"The Padlock Law of Quebec, 1937", summary:"Grade 10 History strand: the Padlock Law, passed by the Quebec government in 1937, allowed authorities to shut and padlock any premises used to propagate communism or bolshevism without a trial, a measure later challenged as an infringement on civil liberties.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was the Padlock Law passed?", options:["1867","1949","1905","1937"], answer:3},
+     {q:"Which government passed the Padlock Law?", options:["The government of Quebec","The government of British Columbia","The government of Ontario","The federal government of Canada"], answer:0},
+     {q:"What could authorities do under the Padlock Law?", options:["Grant additional voting rights to every citizen","Shut and padlock any premises used to propagate communism or bolshevism without a trial","Fund new provincial highways across Quebec","Establish a new provincial bank"], answer:1},
+     {q:"What broader concern did the Padlock Law later raise?", options:["Concerns about international trade tariffs","Concerns about civil liberties and freedom of expression","Concerns about railway safety standards","Concerns about the price of wheat"], answer:1},
+     {q:"What legal concept did critics argue the Padlock Law violated by allowing action without a trial?", options:["Responsible government","Free trade","Due process","Universal suffrage"], answer:2}
+   ]},
+]},
+{day:143, label:"Day 143 — Wed", subjects:[
+  {subject:"English", title:"Reading: Analyzing Allusion in Literature", summary:"Grade 10 English strand: an allusion is a brief, indirect reference to a person, place, event, or work from history, mythology, religion, or another text, allowing a writer to add layered meaning by connecting a new work to a shared body of prior knowledge.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What is an allusion?", options:["A detailed, fully explained retelling of another entire story","A grammatical error found within a sentence","A punctuation mark used to end a question","A brief, indirect reference to a person, place, event, or work outside the text"], answer:3},
+     {q:"What kinds of sources might an allusion draw from?", options:["Only weather reports","History, mythology, religion, or another literary work","Only mathematical formulas","Only grammar textbooks"], answer:1},
+     {q:"Why might a writer use allusion?", options:["To add layered meaning by connecting the text to a shared body of prior knowledge","To avoid using any figurative language whatsoever","To ensure that no reader can understand the text at all","To remove any connection between the text and outside knowledge"], answer:0},
+     {q:"What is required of a reader to fully understand an allusion?", options:["A complete misunderstanding of the text","No prior knowledge of any kind","Familiarity with the outside reference being made","Fluency in a foreign language unrelated to the reference"], answer:2},
+     {q:"Which of the following is an example of an allusion?", options:["Stating the exact time of day in a scene","Describing a room as painted blue","Describing a difficult task as a Herculean effort","Listing the ingredients of a recipe"], answer:2}
+   ]},
+  {subject:"Math", title:"Statistics: The Chi-Squared Goodness-of-Fit Test", summary:"Grade 10 Math strand: the chi-squared goodness-of-fit test compares observed categorical data to the frequencies that would be expected under a specific hypothesis, producing a statistic that indicates whether the observed data significantly differs from what was expected.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What does a chi-squared goodness-of-fit test compare?", options:["Observed categorical data to the frequencies expected under a specific hypothesis","The volume of two different solids","The slope of two unrelated lines","The derivative of a function at a single point"], answer:0},
+     {q:"What type of data is the chi-squared goodness-of-fit test designed to analyze?", options:["Only irrational numbers","Categorical data","Only data with exactly two data points","Only data with negative values"], answer:1},
+     {q:"What does a large chi-squared statistic generally suggest?", options:["No hypothesis was ever tested","The observed data significantly differs from what was expected","The sample size was too large to be valid","The observed data matches the expected data perfectly in every case"], answer:1},
+     {q:"What must be defined before running a chi-squared goodness-of-fit test?", options:["The physical location where data was collected","The expected frequencies under a stated hypothesis","The derivative of the data set","The exact colour of the data visualization"], answer:1},
+     {q:"In which field is the chi-squared goodness-of-fit test commonly applied?", options:["Translating a text between languages","Analyzing survey or experimental data across categories","Designing architectural blueprints","Composing musical scales"], answer:1}
+   ]},
+  {subject:"Science", title:"Physics: Nuclear Fission and Nuclear Fusion", summary:"Grade 10 Science strand: nuclear fission splits a heavy atomic nucleus into smaller nuclei, releasing energy, while nuclear fusion combines two light nuclei into a heavier one, also releasing energy, with fission used in current nuclear power plants and fusion powering stars such as the sun.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What happens during nuclear fission?", options:["Two light nuclei combine into a heavier nucleus, releasing energy","An atom gains an electron with no change in energy","A heavy atomic nucleus splits into smaller nuclei, releasing energy","A molecule breaks down into individual atoms with no energy released"], answer:2},
+     {q:"What happens during nuclear fusion?", options:["A heavy nucleus splits into smaller nuclei, releasing energy","Two light nuclei combine into a heavier nucleus, releasing energy","A compound dissolves completely in water","An atom loses a proton with no other effect"], answer:1},
+     {q:"Which process powers current nuclear power plants?", options:["Wind-driven turbines only","Nuclear fission","Simple combustion of fossil fuels","Nuclear fusion"], answer:1},
+     {q:"Which process powers stars such as the sun?", options:["Chemical combustion of gas","Nuclear fission","Nuclear fusion","Radioactive decay alone with no fusion involved"], answer:2},
+     {q:"Why is nuclear fusion considered an attractive future energy source?", options:["It has the potential to release large amounts of energy with fewer long-lived radioactive byproducts than fission","It requires no scientific research to implement","It is identical to burning fossil fuels","It produces no energy at all"], answer:0}
+   ]},
+  {subject:"History", title:"The National Housing Act of 1938", summary:"Grade 10 History strand: the National Housing Act of 1938 expanded federal involvement in housing by offering government-backed loans to encourage home construction and repair during the Great Depression, laying groundwork for later federal housing policy in Canada.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was the National Housing Act passed?", options:["1949","1905","1867","1938"], answer:3},
+     {q:"What did the National Housing Act offer to encourage home construction?", options:["Mandatory military service for builders","Free land grants to every citizen","A new national currency","Government-backed loans"], answer:3},
+     {q:"During what economic period was the National Housing Act introduced?", options:["The height of the Klondike Gold Rush","The Great Depression","The years immediately following Confederation","The dot-com boom of the 1990s"], answer:1},
+     {q:"What broader policy area did the National Housing Act help establish?", options:["Federal involvement in housing policy","A national system of criminal courts","A national postal service","Federal control over provincial elections"], answer:0},
+     {q:"Why might a government offer backed loans for housing during a depression?", options:["To discourage any new construction during hard times","To eliminate the need for any future housing","To stimulate construction activity and employment during an economic downturn","To transfer all housing responsibility to foreign governments"], answer:2}
+   ]},
+]},
+{day:144, label:"Day 144 — Thu", subjects:[
+  {subject:"English", title:"Writing: The Business Memo and Professional Email", summary:"Grade 10 English strand: a business memo or professional email is a concise workplace document that communicates information, requests, or decisions to colleagues using a clear subject line, direct opening statement, and organized body, avoiding unnecessary detail.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What is the purpose of a business memo or professional email?", options:["To communicate information, requests, or decisions to colleagues concisely","To replace all verbal communication in a workplace permanently","To entertain readers with an extended work of fiction","To provide a lengthy personal narrative unrelated to work"], answer:0},
+     {q:"What should a professional email typically include at the top?", options:["An unrelated image with no context","A blank space with no information","A handwritten signature only","A clear subject line"], answer:3},
+     {q:"How should the opening of a business memo generally be structured?", options:["With a long personal anecdote unrelated to the topic","With a detailed weather report","With a direct statement of the main point or request","With no information about the purpose of the memo"], answer:2},
+     {q:"Why do business memos favour concise, organized writing?", options:["Because concise writing has no value in a professional setting","Because memos are never read by anyone","Because organization makes information harder to find","Because workplace readers often need to find key information quickly"], answer:3},
+     {q:"Which of the following is appropriate content for a professional email?", options:["A message written entirely in informal slang","An unrelated joke with no connection to work","A clearly stated request with any necessary supporting details","A vague message with no clear purpose"], answer:2}
+   ]},
+  {subject:"Math", title:"Calculus: LHopitals Rule for Evaluating Limits", summary:"Grade 10 Math strand: LHopitals Rule provides a method for evaluating limits that produce an indeterminate form such as zero over zero, by taking the derivative of the numerator and denominator separately and then re-evaluating the resulting limit.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What type of limit is LHopitals Rule designed to evaluate?", options:["A limit that only involves constant functions","A limit that cannot be expressed as a fraction of any kind","A limit that produces an indeterminate form such as zero over zero","A limit that is already a whole number with no calculation needed"], answer:2},
+     {q:"What is the general procedure used in LHopitals Rule?", options:["Taking the derivative of the numerator and denominator separately, then re-evaluating the limit","Ignoring the denominator entirely","Multiplying the numerator and denominator by zero","Replacing the entire limit with an arbitrary constant"], answer:0},
+     {q:"What must be true about a limit before LHopitals Rule can be applied?", options:["It must already have a defined finite value","It must be evaluated at exactly zero","It must involve only whole numbers","It must result in an indeterminate form"], answer:3},
+     {q:"Why might LHopitals Rule need to be applied more than once to a single limit?", options:["Applying it twice always produces an incorrect answer","LHopitals Rule can never be applied more than once under any circumstance","The resulting limit after one application may still be an indeterminate form","The rule only works when applied exactly three times"], answer:2},
+     {q:"LHopitals Rule builds most directly on which earlier calculus concept?", options:["The Pythagorean Theorem","Basic arithmetic with no calculus involved","The quadratic formula","Derivatives"], answer:3}
+   ]},
+  {subject:"Science", title:"Earth Science: Earthquakes and Seismology", summary:"Grade 10 Science strand: seismology is the scientific study of earthquakes, which occur when built-up stress along a fault is suddenly released, sending seismic waves through the Earth that scientists measure using instruments called seismographs.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What is seismology the study of?", options:["Earthquakes and the seismic waves they produce","The life cycle of stars","The formation of clouds and weather patterns","The chemical composition of ocean water"], answer:0},
+     {q:"What causes an earthquake to occur?", options:["The gradual erosion of a river bank","A sudden drop in atmospheric temperature","Built-up stress along a fault is suddenly released","A change in the phase of the moon"], answer:2},
+     {q:"What instrument do scientists use to measure seismic waves?", options:["A barometer","A thermometer","A spectrometer","A seismograph"], answer:3},
+     {q:"What travels through the Earth during an earthquake?", options:["Light waves through solid rock","Sound waves through the atmosphere only","Seismic waves","Radio waves generated by the fault line"], answer:2},
+     {q:"Why do earthquakes tend to occur more frequently along fault lines?", options:["Fault lines have no connection to tectonic activity","Earthquakes occur with equal frequency everywhere on Earth","Fault lines only exist in areas with no tectonic plates","Stress accumulates most readily where tectonic plates meet and grind against each other"], answer:3}
+   ]},
+  {subject:"History", title:"The Munich Agreement and Canadas Response, 1938", summary:"Grade 10 History strand: the Munich Agreement of 1938 allowed Nazi Germany to annex the Sudetenland region of Czechoslovakia in exchange for a promise to seek no further territorial expansion, a policy of appeasement that Prime Minister Mackenzie King publicly supported at the time.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was the Munich Agreement signed?", options:["1938","1949","1919","1867"], answer:0},
+     {q:"What territory did the Munich Agreement allow Nazi Germany to annex?", options:["A territory belonging to the United States","The entire nation of Poland","A province of Canada","The Sudetenland region of Czechoslovakia"], answer:3},
+     {q:"What policy did the Munich Agreement represent?", options:["Unconditional surrender","Outright military confrontation","Complete economic isolation","Appeasement"], answer:3},
+     {q:"What promise did Germany make as part of the Munich Agreement?", options:["To join the League of Nations","To grant independence to all of its territories","To seek no further territorial expansion","To immediately disarm its entire military"], answer:2},
+     {q:"How did Prime Minister Mackenzie King respond to the Munich Agreement at the time?", options:["He immediately declared war in response","He publicly supported it","He resigned from office in protest","He refused to comment on international affairs"], answer:1}
+   ]},
+]},
+{day:145, label:"Day 145 — Fri", subjects:[
+  {subject:"English", title:"Literature: The Artist Novel and the Kunstlerroman", summary:"Grade 10 English strand: a Kunstlerroman, or artist novel, is a type of coming-of-age narrative that follows the development of an artist, writer, or musician from youth into creative maturity, closely related to the broader bildungsroman tradition.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What is a Kunstlerroman?", options:["A coming-of-age narrative that follows the development of an artist from youth into creative maturity","A short poem with a strict rhyme scheme","A formal legal document used in court proceedings","A type of scientific research paper"], answer:0},
+     {q:"What broader narrative tradition is the Kunstlerroman closely related to?", options:["The detective procedural","The bildungsroman","The captivity narrative","The epistolary novel"], answer:1},
+     {q:"What type of protagonist does a Kunstlerroman typically follow?", options:["A retired judge with no creative pursuits","A historical military general","An anonymous crowd with no individual characters","An artist, writer, or musician"], answer:3},
+     {q:"What does a Kunstlerroman typically trace across its plot?", options:["The construction of a large public building","The growth of the protagonists creative identity and craft","The history of a nations legal system","The migration patterns of a species of bird"], answer:1},
+     {q:"Why might an author choose the Kunstlerroman form?", options:["To focus exclusively on unrelated historical events","To avoid describing any character development at all","To eliminate any reference to art or creativity","To explore how artistic vision and personal identity develop together over time"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Fractals and Self-Similarity", summary:"Grade 10 Math strand: a fractal is a geometric figure that displays self-similarity, meaning smaller portions of the figure resemble the whole shape at different scales, a property found in mathematical constructions as well as natural forms like coastlines and snowflakes.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What key property defines a fractal?", options:["A shape that only exists in three dimensions","Self-similarity, where smaller portions resemble the whole shape at different scales","A shape with exactly three straight sides","A number with no decimal component"], answer:1},
+     {q:"What does self-similarity mean in the context of fractals?", options:["A shape becomes a perfect circle when zoomed in","Every fractal is identical to every other fractal","Smaller sections of a shape look similar to the entire shape","A shape has no repeating pattern at any scale"], answer:2},
+     {q:"Which of the following is a natural example often associated with fractal-like patterns?", options:["A coastline","A single straight line segment","A perfectly smooth sphere","A flat, featureless plane"], answer:0},
+     {q:"How does zooming into a fractal typically appear?", options:["Similar patterns continue to appear at smaller and smaller scales","The shape disappears entirely after one level of zoom","The shape transforms into an entirely unrelated image","The shape becomes completely blank with no detail"], answer:0},
+     {q:"Why are fractals of interest beyond pure mathematics?", options:["They were disproven and are no longer studied","They can only describe perfectly regular polygons","They have no application outside of abstract theory","They help describe complex natural patterns that simple Euclidean shapes cannot easily capture"], answer:3}
+   ]},
+  {subject:"Science", title:"Biology: Stem Cells and Cellular Differentiation", summary:"Grade 10 Science strand: stem cells are unspecialized cells capable of dividing and developing into many different specialized cell types through a process called cellular differentiation, making them essential to growth, tissue repair, and ongoing medical research.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What is a defining feature of a stem cell?", options:["It exists only outside of living organisms","It is unspecialized and can develop into many different specialized cell types","It is always fully specialized with a single fixed function","It cannot divide under any circumstance"], answer:1},
+     {q:"What is cellular differentiation?", options:["The process by which a cell converts directly into a mineral","The process by which two unrelated organisms merge into one","The process by which a cell loses its nucleus permanently","The process by which an unspecialized cell develops into a specialized cell type"], answer:3},
+     {q:"Why are stem cells important for tissue repair?", options:["They can develop into the specialized cells needed to replace damaged tissue","They can only exist in plants, not animals","They actively destroy healthy tissue in the body","They have no role in any biological process"], answer:0},
+     {q:"Which of the following describes a specialized cell that stem cells might differentiate into?", options:["A grain of sand","A mineral crystal","A drop of water with no cellular structure","A muscle cell or a nerve cell"], answer:3},
+     {q:"Why are stem cells a significant focus of modern medical research?", options:["They have no potential medical application of any kind","They cannot be studied using any modern technology","They are identical to bacteria in every respect","Their ability to become many cell types offers potential treatments for injury and disease"], answer:3}
+   ]},
+  {subject:"History", title:"The Founding of Trans-Canada Air Lines in 1937", summary:"Grade 10 History strand: Trans-Canada Air Lines was founded in 1937 as a federal Crown corporation to establish reliable, government-backed commercial air travel across the country, later becoming Air Canada and shaping the development of Canadian aviation infrastructure.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was Trans-Canada Air Lines founded?", options:["1937","1867","1905","1949"], answer:0},
+     {q:"What type of organization was Trans-Canada Air Lines when it was founded?", options:["A federal Crown corporation","A provincial ministry with no national reach","A privately owned foreign company","A volunteer-run charitable organization"], answer:0},
+     {q:"What was the main purpose of founding Trans-Canada Air Lines?", options:["To establish reliable, government-backed commercial air travel across the country","To build a network of national highways","To eliminate all forms of air travel in Canada","To create a national postal delivery service"], answer:0},
+     {q:"What airline did Trans-Canada Air Lines eventually become?", options:["The Canadian Pacific Railway","The National Film Board","The Royal Canadian Air Force","Air Canada"], answer:3},
+     {q:"Why might the federal government have chosen to back commercial aviation directly in the 1930s?", options:["To ensure the development of national air travel infrastructure across a vast country","Because private companies had already fully developed air travel with no gaps","Because aviation had no importance to a country the size of Canada","To discourage any future development of air travel"], answer:0}
+   ]},
+]},
+{day:146, label:"Day 146 — Mon", subjects:[
+  {subject:"English", title:"Media Literacy: Analyzing Native Advertising and Sponsored Content", summary:"Grade 10 English strand: native advertising is paid promotional content designed to match the look, tone, and format of the surrounding editorial material in which it appears, often labelled as sponsored content, making it important for readers to distinguish it from independent journalism.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What is native advertising?", options:["A completely unpaid opinion piece written by an ordinary reader","A style of advertising used only in radio broadcasts","Paid promotional content designed to match the look, tone, and format of the surrounding editorial material","A government regulation banning all forms of advertising"], answer:2},
+     {q:"What label is native advertising often given to indicate it is paid content?", options:["Editorial opinion","Letters to the editor","Breaking news","Sponsored content"], answer:3},
+     {q:"Why can native advertising be difficult for readers to identify?", options:["It is designed to closely resemble the independent articles around it","It is legally required to appear only on the final page","It is always printed in a completely different font and colour","It never appears alongside any other content"], answer:0},
+     {q:"Why is it important for readers to distinguish native advertising from journalism?", options:["Because sponsored content is created to promote a product or brand rather than provide independent reporting","Because readers are never affected by promotional content","Because journalism and advertising are legally identical","Because native advertising is always more accurate than journalism"], answer:0},
+     {q:"Which detail would most likely indicate an article is native advertising?", options:["A small label reading sponsored or paid partner content","A dateline showing when the article was published","A photo credit listing the photographers name","A byline listing a staff reporters name only"], answer:0}
+   ]},
+  {subject:"Math", title:"Discrete Math: Recurrence Relations", summary:"Grade 10 Math strand: a recurrence relation defines each term of a sequence using one or more of the terms that came before it, along with initial starting values, providing a powerful way to model patterns that build step by step, such as the Fibonacci sequence.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What does a recurrence relation define?", options:["The area of a two-dimensional shape","A single isolated number with no connection to a sequence","The angle between two intersecting lines","Each term of a sequence using one or more of the terms that came before it"], answer:3},
+     {q:"What must be provided along with a recurrence relation to fully determine a sequence?", options:["A completely unrelated equation","Initial starting values","The final term of the sequence only","The colour used to graph the sequence"], answer:1},
+     {q:"Which classic sequence is commonly defined using a recurrence relation?", options:["A sequence of random, unrelated numbers","A sequence containing only the number zero","The Fibonacci sequence","A sequence with no defined terms at all"], answer:2},
+     {q:"Why are recurrence relations useful for modelling real situations?", options:["Recurrence relations only apply to abstract, unrealistic scenarios","Many real processes build directly on their own previous outcomes over time","Real processes never depend on any previous outcome","Recurrence relations cannot model any repeating process"], answer:1},
+     {q:"How does a recurrence relation differ from a closed-form formula for a sequence?", options:["The two approaches are mathematically identical in every way","A recurrence relation never involves any prior term","A recurrence relation depends on prior terms, while a closed-form formula computes a term directly from its position","A closed-form formula always requires knowing every previous term"], answer:2}
+   ]},
+  {subject:"Science", title:"Chemistry: Nanotechnology and Nanomaterials", summary:"Grade 10 Science strand: nanotechnology involves designing and manipulating materials at the scale of individual atoms and molecules, typically less than 100 nanometres in size, producing nanomaterials with unique properties that differ significantly from the same substance at a larger scale.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"At what approximate scale does nanotechnology operate?", options:["Only at the scale of entire planets","Larger than one kilometre","Exactly the size of a typical human cell","Less than 100 nanometres, close to the scale of atoms and molecules"], answer:3},
+     {q:"What is a nanomaterial?", options:["A material that exists only in outer space","A material with no measurable size at all","A material engineered or structured at the nanoscale","A material found exclusively in living organisms"], answer:2},
+     {q:"Why can a nanomaterial behave differently from the same substance at a larger scale?", options:["Nanomaterials are chemically identical to all other forms of the substance in every way","Its properties can change significantly once its structure reaches the nanoscale","Nanomaterials are always heavier than their larger-scale counterparts","Size has no effect on the properties of any material"], answer:1},
+     {q:"Which field commonly applies nanotechnology?", options:["Only culinary arts with no scientific basis","Medicine, electronics, and materials science","Only competitive sports","Only ancient historical research"], answer:1},
+     {q:"Why does surface area become especially important at the nanoscale?", options:["Reactivity always decreases as surface area increases","Nanomaterials have no surface area at all","A much larger proportion of a nanomaterials atoms are located at its surface, increasing reactivity","Surface area has no effect on any material at any scale"], answer:2}
+   ]},
+  {subject:"History", title:"The Founding of the National Film Board of Canada in 1939", summary:"Grade 10 History strand: the National Film Board of Canada was established in 1939 to produce and distribute films that would interpret Canada to Canadians and the world, playing a major role in wartime propaganda and later in the countrys documentary filmmaking tradition.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was the National Film Board of Canada established?", options:["1949","1905","1939","1867"], answer:2},
+     {q:"What was the National Film Board originally created to do?", options:["Produce and distribute films that would interpret Canada to Canadians and the world","Regulate the price of imported films from other countries","Build movie theatres in every Canadian city","Train professional actors for the stage"], answer:0},
+     {q:"What role did the National Film Board play during the Second World War?", options:["It produced wartime propaganda films","It refused to produce any films related to the war","It focused exclusively on foreign films with no Canadian content","It was shut down for the duration of the war"], answer:0},
+     {q:"What filmmaking tradition did the National Film Board become closely associated with over time?", options:["Silent-era filmmaking exclusively","Documentary filmmaking","Animated musical films only","Big-budget science fiction films"], answer:1},
+     {q:"Who was appointed to help establish and lead the early National Film Board?", options:["Robert Borden","Lester Pearson","John Grierson","Mackenzie King"], answer:2}
+   ]},
+]},
+{day:147, label:"Day 147 — Tue", subjects:[
+  {subject:"English", title:"Grammar: Subject-Verb Agreement in Complex Sentences", summary:"Grade 10 English strand: subject-verb agreement requires a verb to match its subject in number, a rule that becomes more challenging in complex sentences containing intervening phrases, collective nouns, or compound subjects joined by conjunctions.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What does subject-verb agreement require?", options:["A verb to always be in the past tense","A subject to always be a proper noun","A sentence to contain no verbs at all","A verb to match its subject in number"], answer:3},
+     {q:"Why can subject-verb agreement become more difficult in complex sentences?", options:["Subject-verb agreement only applies to one-word sentences","Complex sentences never contain a subject or a verb","Intervening phrases always make agreement automatically correct","Intervening phrases can separate the subject from its verb, creating confusion about which word the verb should match"], answer:3},
+     {q:"Which sentence demonstrates correct subject-verb agreement with an intervening phrase?", options:["The list of items on the shelf being long.","The list of items on the shelf were long.","The list of item on the shelf was long.","The list of items on the shelf was long."], answer:3},
+     {q:"How should a verb typically agree with a compound subject joined by and?", options:["The verb should match only the first noun in the subject","The verb should always be singular regardless of the subject","The verb should usually be plural, matching the combined subject","The verb should be omitted entirely"], answer:2},
+     {q:"How does a collective noun such as team typically affect subject-verb agreement?", options:["It cannot be used as a subject at all","It is usually treated as singular when the group acts as one unit","It has no effect on verb choice whatsoever","It always requires a plural verb with no exception"], answer:1}
+   ]},
+  {subject:"Math", title:"Calculus: Areas Between Curves", summary:"Grade 10 Math strand: finding the area between two curves involves subtracting the value of the lower function from the value of the upper function over a given interval and evaluating the resulting definite integral, extending the basic idea of area under a single curve.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What quantity does finding the area between two curves generally require subtracting?", options:["The domain of a function from its range","The slope of one curve from the slope of another","The lower function value from the upper function value over an interval","The x-intercept from the y-intercept"], answer:2},
+     {q:"What mathematical tool is used to evaluate the area between two curves once the functions are set up?", options:["A single multiplication of two constants","A definite integral","The Pythagorean Theorem","A basic proportion with no calculus involved"], answer:1},
+     {q:"What earlier concept does finding the area between curves extend?", options:["Graphing a single point on a coordinate plane","Finding the perimeter of a rectangle","Solving a linear equation in one variable","Finding the area under a single curve"], answer:3},
+     {q:"Why is it important to identify which function is on top over a given interval?", options:["Because area between curves never depends on the order of the functions","Because the top function is always irrelevant to the calculation","Because the area calculation depends on subtracting the lower curve from the upper curve","Because only the bottom function needs to be considered"], answer:2},
+     {q:"What must be identified first before setting up the integral for the area between two curves?", options:["The points where the two curves intersect, defining the interval of integration","The colour used to shade the region on a graph","The total number of curves that exist in mathematics","The name of the mathematician who discovered integration"], answer:0}
+   ]},
+  {subject:"Science", title:"Physics: Special Relativity and Time Dilation", summary:"Grade 10 Science strand: special relativity, developed by Albert Einstein, describes how measurements of time and space change for observers moving at different constant speeds, predicting time dilation, in which a clock moving relative to an observer appears to run slower than a stationary one.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"Who developed the theory of special relativity?", options:["Albert Einstein","Isaac Newton","Galileo Galilei","Marie Curie"], answer:0},
+     {q:"What does special relativity describe?", options:["How plants convert sunlight into energy","How rocks form over geological time","How measurements of time and space change for observers moving at different constant speeds","How chemical reactions occur at high temperatures"], answer:2},
+     {q:"What is time dilation?", options:["A measurement error with no real physical basis","The effect in which a moving clock appears to run slower relative to a stationary observer","A phenomenon that only applies to objects at rest","The effect in which time always speeds up for every observer equally"], answer:1},
+     {q:"Under what condition does time dilation become noticeable?", options:["When an object is submerged in water","When an object moves at speeds approaching the speed of light","When an object is heated to room temperature","When an object is standing completely still"], answer:1},
+     {q:"What does special relativity assume remains constant for all observers?", options:["The colour of light regardless of its source","The mass of every object regardless of speed","The temperature of every object in the universe","The speed of light in a vacuum"], answer:3}
+   ]},
+  {subject:"History", title:"The Founding of the Canadian Wheat Board in 1935", summary:"Grade 10 History strand: the Canadian Wheat Board was established in 1935 as a federal marketing agency to stabilize wheat prices and provide farmers with a more predictable and orderly system for selling grain during a period of severe agricultural hardship.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was the Canadian Wheat Board established?", options:["1935","1867","1949","1905"], answer:0},
+     {q:"What type of organization was the Canadian Wheat Board?", options:["A private international corporation","A national police force","A provincial court system","A federal marketing agency"], answer:3},
+     {q:"What commodity did the Canadian Wheat Board primarily regulate?", options:["Automobiles","Wheat","Timber","Coal"], answer:1},
+     {q:"What problem was the Canadian Wheat Board designed to address for farmers?", options:["A lack of any railway access to prairie farms","Unstable and unpredictable wheat prices","An oversupply of manufactured goods","A shortage of farmland across the country"], answer:1},
+     {q:"During what period of hardship was the Canadian Wheat Board created?", options:["The Great Depression","The First World War","The Klondike Gold Rush","The Second World War"], answer:0}
+   ]},
+]},
+{day:148, label:"Day 148 — Wed", subjects:[
+  {subject:"English", title:"Reading: Analyzing Synecdoche and Metonymy", summary:"Grade 10 English strand: synecdoche is a figure of speech in which a part represents a whole or a whole represents a part, while metonymy uses a closely associated term to stand in for something else, both allowing writers to create compact, vivid substitutions.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What does synecdoche involve?", options:["A direct comparison using like or as","A word that imitates a natural sound","A part representing a whole, or a whole representing a part","A statement that contradicts itself for effect"], answer:2},
+     {q:"What does metonymy involve?", options:["A reversal of normal word order for emphasis","An exaggerated statement not meant to be taken literally","The repetition of the same consonant sound","A closely associated term standing in for something else"], answer:3},
+     {q:"Which phrase is an example of synecdoche?", options:["Describing silence as deafening","Describing rain as falling cats and dogs","Referring to a car as a set of wheels","Comparing a persons smile to sunshine"], answer:2},
+     {q:"Which phrase is an example of metonymy?", options:["Describing a whisper as a roar","Giving a river human emotions","Referring to the news media as the press","Comparing a heart to a drum"], answer:2},
+     {q:"Why might a writer use synecdoche or metonymy?", options:["To remove all figurative meaning from a sentence","To create a compact, vivid substitution that adds interest to the language","To make a sentence grammatically incorrect on purpose","To avoid referring to any object or idea at all"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Theory: The Chinese Remainder Theorem", summary:"Grade 10 Math strand: the Chinese Remainder Theorem provides a method for solving a system of simultaneous congruences with pairwise coprime moduli, guaranteeing a unique solution modulo the product of those moduli.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What kind of problem does the Chinese Remainder Theorem help solve?", options:["A single linear equation with one variable","The probability of a coin flip","A system of simultaneous congruences","The area of a triangle"], answer:2},
+     {q:"What condition must the moduli in the system satisfy for the theorem to apply directly?", options:["The moduli must all be equal to one another","The moduli must be pairwise coprime","The moduli must be irrational numbers","The moduli must all be negative numbers"], answer:1},
+     {q:"What does the Chinese Remainder Theorem guarantee about the solution?", options:["A solution only when all moduli equal zero","A unique solution modulo the product of the moduli","An infinite number of unrelated solutions","That no solution can ever exist"], answer:1},
+     {q:"What earlier number theory concept does the Chinese Remainder Theorem rely on?", options:["The Pythagorean Theorem","The quadratic formula","Basic long division with no remainders","Modular arithmetic"], answer:3},
+     {q:"In which modern field is the Chinese Remainder Theorem often applied?", options:["Competitive swimming techniques","Cryptography and computer science","Ceramic arts and pottery design","Ancient astronomy with no modern use"], answer:1}
+   ]},
+  {subject:"Science", title:"Earth Science: Ocean Acidification and Its Effects", summary:"Grade 10 Science strand: ocean acidification occurs as seawater absorbs increasing amounts of carbon dioxide from the atmosphere, lowering the oceans pH and reducing the availability of carbonate ions that many marine organisms need to build shells and skeletons.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What causes ocean acidification?", options:["A sudden decrease in ocean salinity worldwide","Seawater absorbing increasing amounts of carbon dioxide from the atmosphere","A reduction in the number of ocean currents","The complete freezing of all ocean water"], answer:1},
+     {q:"What happens to the oceans pH as acidification occurs?", options:["It decreases, becoming more acidic","It remains completely unchanged in every case","It becomes undefined and unmeasurable","It increases, becoming more basic"], answer:0},
+     {q:"What resource becomes less available to marine organisms as the ocean acidifies?", options:["Freshwater entering from rivers","Oxygen dissolved in the atmosphere","Carbonate ions needed to build shells and skeletons","Sunlight reaching the ocean surface"], answer:2},
+     {q:"Which type of marine organism is most directly threatened by reduced carbonate availability?", options:["Freshwater-only amphibians","Desert reptiles","Fully land-based mammals","Shellfish and coral"], answer:3},
+     {q:"What atmospheric change is most directly linked to rising ocean acidification?", options:["Increasing atmospheric nitrogen levels","Decreasing atmospheric pressure worldwide","Increasing atmospheric carbon dioxide levels","Decreasing atmospheric oxygen levels"], answer:2}
+   ]},
+  {subject:"History", title:"The Ogdensburg Agreement of 1940", summary:"Grade 10 History strand: the Ogdensburg Agreement of 1940 was a defence pact between Canada and the United States, negotiated by Prime Minister Mackenzie King and President Franklin Roosevelt, that created the Permanent Joint Board on Defence to coordinate the two countries military cooperation.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was the Ogdensburg Agreement signed?", options:["1919","1949","1867","1940"], answer:3},
+     {q:"Which two countries were party to the Ogdensburg Agreement?", options:["Canada and the United Kingdom","Canada and France","The United States and Mexico","Canada and the United States"], answer:3},
+     {q:"Which two leaders negotiated the Ogdensburg Agreement?", options:["Prime Minister Lester Pearson and President John F. Kennedy","Prime Minister Robert Borden and President Woodrow Wilson","Prime Minister Wilfrid Laurier and President Theodore Roosevelt","Prime Minister Mackenzie King and President Franklin Roosevelt"], answer:3},
+     {q:"What body did the Ogdensburg Agreement create?", options:["The Permanent Joint Board on Defence","The Bank of Canada","The Royal Canadian Mounted Police","The National Film Board"], answer:0},
+     {q:"What was the main purpose of the Permanent Joint Board on Defence?", options:["To coordinate military cooperation between Canada and the United States","To oversee immigration policy exclusively","To regulate international trade tariffs","To manage national parks along the border"], answer:0}
+   ]},
+]},
+{day:149, label:"Day 149 — Thu", subjects:[
+  {subject:"English", title:"Writing: The Vignette as a Narrative Form", summary:"Grade 10 English strand: a vignette is a brief, richly descriptive scene or narrative moment that captures a single impression, character, or emotion without necessarily following a complete traditional plot structure.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What is a vignette?", options:["A formal citation format used in research papers","A brief, richly descriptive scene or narrative moment that captures a single impression","A lengthy legal contract used in publishing","A type of grammatical error found in essays"], answer:1},
+     {q:"Does a vignette typically follow a complete traditional plot structure?", options:["Yes, it always includes a complete beginning, middle, and end","No, a vignette never contains any descriptive detail","No, it often captures a moment without a full conventional plot","Yes, it is defined by having multiple detailed subplots"], answer:2},
+     {q:"What might a vignette focus on capturing?", options:["An exhaustive list of unrelated facts","A complete legal argument","A step-by-step scientific procedure","A single impression, character, or emotion"], answer:3},
+     {q:"Why might a writer choose to write a vignette rather than a full short story?", options:["Because a vignette cannot include any descriptive language","To focus intensely on one moment or feeling without the demands of a complete plot","Because vignettes are required to be longer than any short story","Because vignettes must always resolve every conflict fully"], answer:1},
+     {q:"Which of the following best describes a collection of linked vignettes?", options:["A dictionary of unrelated definitions","A series of brief, connected scenes that together build a larger impression or narrative","A single unbroken chapter with no scene breaks","A formal essay structured around a single thesis"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: The Geometric Distribution", summary:"Grade 10 Math strand: the geometric distribution models the number of independent trials needed to achieve the first success in a repeated experiment, where each trial has the same constant probability of success.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What does the geometric distribution model?", options:["The number of independent trials needed to achieve the first success","The angle between two intersecting planes","The volume of a three-dimensional solid","The exact area under a curved graph"], answer:0},
+     {q:"What must remain constant across each trial for the geometric distribution to apply?", options:["The probability of success on each trial","The colour of the object being tested","The physical location of the experiment","The number of trials remaining"], answer:0},
+     {q:"What condition must the trials satisfy for the geometric distribution to apply?", options:["The trials must occur only once in total","The trials must all produce the exact same outcome","The trials must depend entirely on the previous result","The trials must be independent of one another"], answer:3},
+     {q:"Which scenario could be modeled using a geometric distribution?", options:["The temperature of a room at a single moment","The exact height of a single building","The colour of a randomly selected object","The number of times a basketball player shoots before making their first free throw"], answer:3},
+     {q:"How does the geometric distribution differ from the binomial distribution?", options:["The binomial distribution cannot be used to model any real event","The two distributions are mathematically identical in every way","The geometric distribution only applies to exactly two possible outcomes","The geometric distribution counts trials until the first success, while the binomial distribution counts successes in a fixed number of trials"], answer:3}
+   ]},
+  {subject:"Science", title:"Biology: The Human Brain and Neuroplasticity", summary:"Grade 10 Science strand: neuroplasticity is the brains ability to reorganize itself by forming new neural connections throughout life, allowing the brain to adapt to new experiences, learning, injury, and changes in the environment.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What is neuroplasticity?", options:["The brains ability to reorganize itself by forming new neural connections throughout life","A condition found only in the muscular system","A permanent, unchangeable structure of the nervous system","The complete inability of the brain to change after birth"], answer:0},
+     {q:"What can trigger the brain to form new neural connections?", options:["New experiences, learning, or recovery from injury","A total absence of any external stimulus","Only events that occur before birth","The complete removal of the nervous system"], answer:0},
+     {q:"Why is neuroplasticity important for recovery after a brain injury?", options:["It only occurs in organs other than the brain","It guarantees that no recovery is ever possible after injury","It allows the brain to reorganize and sometimes compensate for damaged areas","It has no connection to how the brain responds to injury"], answer:2},
+     {q:"At what point in life does neuroplasticity occur?", options:["Only after the age of eighty","Throughout life, though it is often most pronounced in childhood","Neuroplasticity does not occur at any point in life","Only during a single day after birth"], answer:1},
+     {q:"Why is understanding neuroplasticity valuable for education and therapy?", options:["It suggests that targeted practice and experience can help reshape neural connections over time","It shows that the brain is entirely fixed from birth","It proves that learning has no effect on the brain","It has no practical application in either field"], answer:0}
+   ]},
+  {subject:"History", title:"The National Resources Mobilization Act of 1940", summary:"Grade 10 History strand: the National Resources Mobilization Act of 1940 authorized the Canadian federal government to conscript men for home defence during the Second World War, a limited form of conscription that stopped short of requiring overseas combat service and foreshadowed the later conscription crisis of 1944.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"In what year was the National Resources Mobilization Act passed?", options:["1949","1940","1867","1919"], answer:1},
+     {q:"What did the National Resources Mobilization Act authorize the federal government to do?", options:["Create a national system of public healthcare","Establish a new national currency","Nationalize every private business in Canada","Conscript men for home defence during the Second World War"], answer:3},
+     {q:"What type of military service did the Act stop short of requiring?", options:["Basic physical fitness testing","Overseas combat service","Naval training exercises","Service within Canadian borders"], answer:1},
+     {q:"What later event did the limited conscription under this Act foreshadow?", options:["The October Crisis","The conscription crisis of 1944","The Winnipeg General Strike","The Halifax Explosion"], answer:1},
+     {q:"During which global conflict was the National Resources Mobilization Act passed?", options:["The Boer War","The Korean War","The First World War","The Second World War"], answer:3}
+   ]},
+]},
+{day:150, label:"Day 150 — Fri", subjects:[
+  {subject:"English", title:"English Review: Media, Grammar, and Literary Devices (Days 141-149)", summary:"Grade 10 English strand review: students revisit product placement, cleft sentences, allusion, the business memo and professional email, the Kunstlerroman, native advertising, subject-verb agreement in complex sentences, synecdoche and metonymy, and the vignette.",
+   resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   quiz:[
+     {q:"What is product placement?", options:["A legal requirement for all television broadcasts","A type of movie theatre seating arrangement","A method of editing film footage after production","A branded product or service featured within media content in exchange for payment or promotion"], answer:3},
+     {q:"What does a cleft sentence do?", options:["It converts a sentence into a question automatically","It combines two unrelated ideas into a single run-on sentence","It removes all punctuation from a sentence","It divides a single idea into two clauses to shift emphasis onto a particular piece of information"], answer:3},
+     {q:"What is an allusion?", options:["A detailed, fully explained retelling of another entire story","A grammatical error found within a sentence","A brief, indirect reference to a person, place, event, or work outside the text","A punctuation mark used to end a question"], answer:2},
+     {q:"What is a Kunstlerroman?", options:["A short poem with a strict rhyme scheme","A coming-of-age narrative that follows the development of an artist from youth into creative maturity","A formal legal document used in court proceedings","A type of scientific research paper"], answer:1},
+     {q:"What does synecdoche involve?", options:["A word that imitates a natural sound","A statement that contradicts itself for effect","A part representing a whole, or a whole representing a part","A direct comparison using like or as"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Calculus, Number Theory, and Probability (Days 141-149)", summary:"Grade 10 Math strand review: students revisit optimization using derivatives, Wilsons Theorem, the chi-squared goodness-of-fit test, LHopitals Rule, fractals and self-similarity, recurrence relations, areas between curves, the Chinese Remainder Theorem, and the geometric distribution.",
+   resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   quiz:[
+     {q:"What do optimization problems in calculus typically find?", options:["The exact colour of a graphed function","The name of the mathematician who first studied the function","The total number of variables in an equation","The maximum or minimum value of a quantity"], answer:3},
+     {q:"What does Wilsons Theorem provide a test for?", options:["Whether a number is even","Whether a number is prime","Whether a shape is a regular polygon","Whether a fraction is in lowest terms"], answer:1},
+     {q:"What type of limit is LHopitals Rule designed to evaluate?", options:["A limit that only involves constant functions","A limit that cannot be expressed as a fraction of any kind","A limit that is already a whole number with no calculation needed","A limit that produces an indeterminate form such as zero over zero"], answer:3},
+     {q:"What does a recurrence relation define?", options:["The angle between two intersecting lines","Each term of a sequence using one or more of the terms that came before it","A single isolated number with no connection to a sequence","The area of a two-dimensional shape"], answer:1},
+     {q:"What does the geometric distribution model?", options:["The number of independent trials needed to achieve the first success","The volume of a three-dimensional solid","The exact area under a curved graph","The angle between two intersecting planes"], answer:0}
+   ]},
+  {subject:"Science", title:"Science Review: Biology, Chemistry, Physics, and Earth Science (Days 141-149)", summary:"Grade 10 Science strand review: students revisit coevolution and mutualism, enzymes and biological catalysis, nuclear fission and fusion, earthquakes and seismology, stem cells and cellular differentiation, nanotechnology, special relativity and time dilation, ocean acidification, and the human brain.",
+   resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   quiz:[
+     {q:"What is coevolution?", options:["A sudden, one-time genetic mutation with no evolutionary effect","A process that only occurs in extinct species","A process in which two or more species reciprocally influence each others evolution over time","A process in which a single species evolves with no influence from any other organism"], answer:2},
+     {q:"What are enzymes?", options:["Inorganic minerals found only in rock formations","Specialized proteins that act as biological catalysts","Simple sugars used only for energy storage","Waste products removed entirely from living cells"], answer:1},
+     {q:"What happens during nuclear fission?", options:["Two light nuclei combine into a heavier nucleus, releasing energy","An atom gains an electron with no change in energy","A heavy atomic nucleus splits into smaller nuclei, releasing energy","A molecule breaks down into individual atoms with no energy released"], answer:2},
+     {q:"What is cellular differentiation?", options:["The process by which an unspecialized cell develops into a specialized cell type","The process by which a cell loses its nucleus permanently","The process by which two unrelated organisms merge into one","The process by which a cell converts directly into a mineral"], answer:0},
+     {q:"What is time dilation?", options:["A measurement error with no real physical basis","A phenomenon that only applies to objects at rest","The effect in which a moving clock appears to run slower relative to a stationary observer","The effect in which time always speeds up for every observer equally"], answer:2}
+   ]},
+  {subject:"History", title:"History Review: Canada on the Eve of the Second World War (Days 141-149)", summary:"Grade 10 History strand review: students revisit the On-to-Ottawa Trek, the Padlock Law, the National Housing Act, the Munich Agreement, the founding of Trans-Canada Air Lines, the National Film Board, the Canadian Wheat Board, the Ogdensburg Agreement, and the National Resources Mobilization Act.",
+   resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   quiz:[
+     {q:"What was the On-to-Ottawa Trek?", options:["A railway construction project connecting British Columbia to Ontario","A ceremonial parade celebrating Canadian Confederation","A 1935 protest march by unemployed men from federal relief camps travelling toward Ottawa","A diplomatic mission sent to negotiate with the United States"], answer:2},
+     {q:"What could authorities do under the Padlock Law?", options:["Shut and padlock any premises used to propagate communism or bolshevism without a trial","Fund new provincial highways across Quebec","Grant additional voting rights to every citizen","Establish a new provincial bank"], answer:0},
+     {q:"What territory did the Munich Agreement allow Nazi Germany to annex?", options:["A territory belonging to the United States","The Sudetenland region of Czechoslovakia","A province of Canada","The entire nation of Poland"], answer:1},
+     {q:"What body did the Ogdensburg Agreement create?", options:["The Permanent Joint Board on Defence","The National Film Board","The Bank of Canada","The Royal Canadian Mounted Police"], answer:0},
+     {q:"What did the National Resources Mobilization Act authorize the federal government to do?", options:["Conscript men for home defence during the Second World War","Nationalize every private business in Canada","Create a national system of public healthcare","Establish a new national currency"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;
