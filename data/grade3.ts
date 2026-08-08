@@ -5504,6 +5504,386 @@ const curriculum: DayContent[] = [
      {q:"What is peacekeeping?", options:["Selling weapons to all countries","Sending trained personnel to help maintain peace in areas affected by conflict","Refusing to help other countries","Starting new conflicts between countries"], answer:1}
    ]},
 ]},
+{day:141, label:"Day 141 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Using Semicolons to Join Related Ideas", summary:"Grade 3 Language strand: a semicolon can join two closely related independent clauses into a single sentence without using a conjunction such as and or but.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What can a semicolon join?", options:["Two closely related independent clauses","A title and a page number","Two unrelated paragraphs","Only a single word"], answer:0},
+     {q:"Which sentence correctly uses a semicolon?", options:["The rain stopped; and the sun came out.","The rain, stopped the sun came out.","The rain stopped the sun came out.","The rain stopped; the sun came out."], answer:3},
+     {q:"A semicolon can sometimes replace which punctuation between two related sentences?", options:["A hyphen","A question mark","A period","An exclamation mark"], answer:2},
+     {q:"Why might a writer choose a semicolon instead of starting a new sentence?", options:["To remove the need for capital letters","To end the sentence early","To show the two ideas are closely connected","To make the sentence impossible to read"], answer:2},
+     {q:"The clauses joined by a semicolon should each be able to ___.", options:["Be a single word only","Stand alone as a complete sentence","Contain no subject","Contain no verb"], answer:1}
+   ]},
+  {subject:"Math", title:"Number: Writing Large Numbers in Word Form", summary:"Grade 3 Math strand: students write whole numbers up to 100 000 in word form, using place value names such as thousand, hundred, and ten to express a number in words.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"How do you write 5 342 in word form?", options:["Five thousand, three hundred forty-two","Fifty-three thousand forty-two","Five hundred thirty-four","Five thousand, three hundred four"], answer:0},
+     {q:"Which place value name is used when writing 12 000 in words?", options:["Hundred","Ten","Thousand","One"], answer:2},
+     {q:"How do you write 108 in word form?", options:["One hundred eighty","Eighteen","One thousand eight","One hundred eight"], answer:3},
+     {q:"Writing a number in word form means writing it using ___.", options:["Words instead of digits","Roman numerals","Only digits","A picture"], answer:0},
+     {q:"How do you write 90 015 in word form?", options:["Nine thousand, fifteen","Ninety thousand, fifteen","Nine hundred fifteen","Ninety thousand, one hundred five"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Immune System — How Our Bodies Fight Germs", summary:"Grade 3 Science strand: the immune system helps the body defend itself against harmful germs, using parts of the body such as white blood cells to fight infection and keep us healthy.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of the immune system?", options:["To digest food","To pump blood through the body","To help us hear sounds","To help the body fight off harmful germs"], answer:3},
+     {q:"Which blood cells help fight germs in the body?", options:["Red blood cells only","Hair cells","White blood cells","Skin cells only"], answer:2},
+     {q:"What might happen if germs enter the body?", options:["The immune system works to fight the germs off","Nothing ever happens","The body immediately stops working","The bones grow instantly"], answer:0},
+     {q:"Which habit can help support a healthy immune system?", options:["Washing hands regularly","Avoiding sleep completely","Eating only sugar","Never washing hands"], answer:0},
+     {q:"Why is the immune system important to overall health?", options:["It only affects eye colour","It helps protect the body from illness","It only affects hair growth","It has no real purpose"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: National Indigenous Peoples Day and Its Importance", summary:"Grade 3 Social Studies strand: National Indigenous Peoples Day is celebrated each year to recognize and celebrate the cultures, achievements, and contributions of First Nations, Inuit, and Metis peoples in Canada.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does National Indigenous Peoples Day celebrate?", options:["The cultures and contributions of First Nations, Inuit, and Metis peoples","A type of weather pattern","A foreign holiday","A single sports team"], answer:0},
+     {q:"Which groups are recognized on National Indigenous Peoples Day?", options:["Only explorers","First Nations, Inuit, and Metis peoples","Only recent immigrants","Only government workers"], answer:1},
+     {q:"Why might communities hold events on National Indigenous Peoples Day?", options:["To ignore Indigenous history completely","To cancel all celebrations","To close all schools permanently","To honour and learn about Indigenous cultures and history"], answer:3},
+     {q:"Learning about National Indigenous Peoples Day helps students understand ___.", options:["That Indigenous cultures no longer exist","The importance of Indigenous peoples to Canada","That the day has no meaning","That Canada has only one culture"], answer:1},
+     {q:"What kind of activities might take place on this day?", options:["No activities at all","Cultural celebrations, storytelling, and educational events","Only private business meetings","Only silence and no events"], answer:1}
+   ]},
+]},
+{day:142, label:"Day 142 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Regional Dialects and Word Choice", summary:"Grade 3 Language strand: a dialect is a way of speaking used by people in a particular region, and speakers of different dialects may use different words or expressions for the same thing.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a dialect?", options:["A silent letter in a word","A rule for capitalization","A way of speaking used by people in a particular region","A type of punctuation mark"], answer:2},
+     {q:"Why might two people from different regions use different words for the same object?", options:["Because they speak different regional dialects","Because dialects do not exist","Because words never change between places","Because one of them is wrong about the object"], answer:0},
+     {q:"Which is an example of dialect differences?", options:["Every region uses identical words always","Dialects only affect spelling of names","One region calls it soda while another calls it pop","Dialects only affect punctuation"], answer:2},
+     {q:"Studying regional dialects helps readers understand ___.", options:["That language can vary between places and communities","That all English speakers sound identical","That dialects are always mistakes","That there is only one correct way to speak"], answer:0},
+     {q:"A dialect can include differences in ___.", options:["Only page numbers","Only handwriting style","Only the alphabet used","Word choice, pronunciation, and expressions"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Classifying Polygons by Number of Sides", summary:"Grade 3 Math strand: polygons can be classified and named by their number of sides, such as a pentagon with five sides, a hexagon with six sides, and an octagon with eight sides.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"How many sides does a pentagon have?", options:["Eight","Four","Six","Five"], answer:3},
+     {q:"How many sides does a hexagon have?", options:["Six","Five","Four","Seven"], answer:0},
+     {q:"How many sides does an octagon have?", options:["Five","Six","Eight","Ten"], answer:2},
+     {q:"A polygon is classified mainly by its ___.", options:["Number of sides","Weight","Colour","Location on a page"], answer:0},
+     {q:"Which shape is a quadrilateral?", options:["A shape with five sides","A shape with three sides","A shape with four sides","A shape with six sides"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Dinosaurs and Why They Went Extinct", summary:"Grade 3 Science strand: dinosaurs were reptiles that lived on Earth millions of years ago, and scientists believe most dinosaurs went extinct after a major event, such as an asteroid impact, drastically changed their environment.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What were dinosaurs?", options:["A type of modern bird only","A type of plant","A group of reptiles that lived on Earth millions of years ago","A type of modern fish"], answer:2},
+     {q:"What does extinct mean?", options:["A living thing that only lives in water","A living thing that never grows","A type of living thing no longer exists anywhere on Earth","A living thing that lives forever"], answer:2},
+     {q:"What do many scientists believe caused most dinosaurs to go extinct?", options:["They turned into modern birds overnight","They all decided to hide underground forever","A major event, such as an asteroid impact, changed their environment","Nothing happened to change their environment"], answer:2},
+     {q:"How do scientists learn about dinosaurs today?", options:["By guessing with no evidence","By studying fossils dinosaurs left behind","By interviewing dinosaurs directly","By reading modern newspapers only"], answer:1},
+     {q:"Why do scientists continue to study dinosaur extinction?", options:["To better understand how major events can change life on Earth","Because dinosaurs still exist today","Because it explains modern weather only","Because it has no scientific value"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Orange Shirt Day and Truth and Reconciliation", summary:"Grade 3 Social Studies strand: Orange Shirt Day is observed each year to honour residential school survivors and remember children who were affected, supporting truth and reconciliation between Indigenous peoples and other Canadians.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does Orange Shirt Day honour?", options:["A sports championship","A national election","A type of harvest festival","Residential school survivors and the children affected by residential schools"], answer:3},
+     {q:"What colour shirt is worn to mark this day?", options:["Orange","Purple","Blue","Green"], answer:0},
+     {q:"What does reconciliation mean in this context?", options:["Ignoring history completely","Working to repair and improve relationships between Indigenous peoples and other Canadians","Ending all communication between groups","Removing history from schools"], answer:1},
+     {q:"Why is it important for students to learn about this history?", options:["Because it only affects one province","To understand this part of Canadas history and support reconciliation","To avoid ever discussing it","Because the history has no importance"], answer:1},
+     {q:"Orange Shirt Day encourages Canadians to reflect on ___.", options:["A sports rivalry","A foreign countrys history only","The experiences of Indigenous children in residential schools","A type of weather pattern"], answer:2}
+   ]},
+]},
+{day:143, label:"Day 143 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Understanding Satire and Irony", summary:"Grade 3 Language strand: satire uses humour or exaggeration to point out a problem, while irony happens when the actual result is different from what was expected, often creating a surprising or humorous effect.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does satire often use to point out a problem?", options:["Only silence","Only numbers","Only maps","Humour or exaggeration"], answer:3},
+     {q:"What is irony?", options:["A type of punctuation mark","When the actual result is different from what was expected","When everything happens exactly as expected","A type of rhyme scheme"], answer:1},
+     {q:"Which is an example of irony?", options:["A fire station burning down","A fire station being painted red","A fire station being repaired on schedule","A fire station opening a new door"], answer:0},
+     {q:"Why might an author use satire in a story?", options:["To make the story impossible to understand","To remove all humour from the story","To point out a problem in a humorous or exaggerated way","To avoid making any point at all"], answer:2},
+     {q:"Recognizing irony helps readers ___.", options:["Skip every sentence in a text","Ignore the ending of a story","Notice when the outcome differs from what was expected","Avoid understanding the plot"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Finding the Perimeter of Composite Figures", summary:"Grade 3 Math strand: the perimeter of a composite figure, made from two or more simple shapes joined together, can be found by adding the lengths of all its outer sides.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"How can you find the perimeter of a composite figure?", options:["Add the lengths of all its outer sides","Subtract the smallest side from the largest","Multiply the length by the width only","Count the number of shapes used"], answer:0},
+     {q:"What is the perimeter of a composite figure with outer sides of 3, 4, 3, 2, and 2 cm?", options:["12 cm","14 cm","16 cm","10 cm"], answer:1},
+     {q:"Why might you need to find missing side lengths first when calculating perimeter?", options:["Composite figures never have missing lengths","Some sides of a composite figure may not be labelled directly","All composite figures have no sides","Perimeter never requires side lengths"], answer:1},
+     {q:"Perimeter measures the distance ___.", options:["Below a shape only","Around the outside of a shape","Above a shape only","Through the middle of a shape"], answer:1},
+     {q:"A composite figure made of a rectangle and a triangle would have a perimeter equal to ___.", options:["Zero, since it is not a real shape","The sum of all its outer edge lengths","Only the rectangles perimeter","Only the triangles perimeter"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Eclipses — Solar and Lunar", summary:"Grade 3 Science strand: a solar eclipse happens when the Moon passes between the Sun and Earth, blocking sunlight, while a lunar eclipse happens when Earth passes between the Sun and Moon, casting a shadow on the Moon.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What happens during a solar eclipse?", options:["The Sun disappears forever","The Moon turns into a star","The Moon passes between the Sun and Earth, blocking sunlight","Earth stops spinning completely"], answer:2},
+     {q:"What happens during a lunar eclipse?", options:["The Moon blocks all sunlight from Earth","Earth passes between the Sun and Moon, casting a shadow on the Moon","The Moon disappears permanently","The Sun passes between Earth and the Moon"], answer:1},
+     {q:"Why should people avoid looking directly at the Sun during a solar eclipse?", options:["It has no effect on the eyes at all","Looking directly at the Sun can harm the eyes","The Sun becomes invisible during an eclipse","It is not safe to ever look at the sky"], answer:1},
+     {q:"Which object casts a shadow during a lunar eclipse?", options:["A comet","A distant star","Earth","A satellite"], answer:2},
+     {q:"Eclipses occur because of the positions of the ___.", options:["Sun, Earth, and Moon","Earth and a satellite only","Moon and a distant planet only","Sun and a comet only"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of School Boards and Trustees", summary:"Grade 3 Social Studies strand: a school board oversees schools in a region, and elected trustees represent the community by making decisions about education, such as budgets and school programs.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does a school board oversee?", options:["A private business only","A national sports league","A single countrys military","Schools in a region"], answer:3},
+     {q:"Who represents the community on a school board?", options:["Only a single teacher","Only the mayor","Only the Prime Minister","Elected trustees"], answer:3},
+     {q:"What kinds of decisions might a school board make?", options:["Decisions about national parks","Decisions about budgets and school programs","Decisions about international trade","Decisions about a countrys foreign policy"], answer:1},
+     {q:"How does someone typically become a school trustee?", options:["Through a local election","By being appointed by a business","By inheriting the position","Through a random lottery only"], answer:0},
+     {q:"Why is it useful for communities to have a school board?", options:["It has no purpose","It replaces the need for teachers","It helps ensure schools meet the needs of local students","It only manages sports teams"], answer:2}
+   ]},
+]},
+{day:144, label:"Day 144 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Movie Review", summary:"Grade 3 Language strand: a movie review shares an opinion about a film, giving reasons and examples to support the opinion and helping readers decide whether they might want to watch it.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does a movie review share?", options:["An opinion about a film, supported by reasons","Only the actors names","Nothing at all","Only the films runtime"], answer:0},
+     {q:"Why might a movie review include specific examples from the film?", options:["To avoid discussing the film at all","To make the review shorter than one sentence","To confuse the reader on purpose","To support the reviewers opinion with evidence"], answer:3},
+     {q:"What might a reader do after reading a helpful movie review?", options:["Immediately forget about the movie","Stop watching movies forever","Decide whether they want to watch the movie","Refuse to read any more reviews"], answer:2},
+     {q:"A movie review often includes the reviewers opinion about which parts of a film?", options:["Only the ticket price","Only the theatre location","Only the release date","The story, acting, and other key elements"], answer:3},
+     {q:"Why is it helpful for a review to explain reasons behind an opinion?", options:["So the film cannot be discussed further","So readers cannot understand the opinion at all","So readers understand why the reviewer feels that way","So the review has no purpose"], answer:2}
+   ]},
+  {subject:"Math", title:"Measurement: Comparing Metric and Imperial Units", summary:"Grade 3 Math strand: the metric system uses units such as metres and kilograms, while the imperial system uses units such as feet and pounds, and both systems can be used to measure length, mass, and capacity.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which unit belongs to the metric system?", options:["Pound","Inch","Metre","Foot"], answer:2},
+     {q:"Which unit belongs to the imperial system?", options:["Foot","Kilogram","Metre","Litre"], answer:0},
+     {q:"Which system is commonly used for official measurements in Canada?", options:["The imperial system only","A system with no units","Neither system is ever used","The metric system"], answer:3},
+     {q:"Which pair of units both measure mass?", options:["Foot and litre","Metre and litre","Kilogram and pound","Second and metre"], answer:2},
+     {q:"Why is it useful to know both metric and imperial units?", options:["Because units never need converting","Because only one system has ever existed","Because imperial units measure time only","Because both systems are still used in different situations"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Cave Habitats and the Creatures That Live There", summary:"Grade 3 Science strand: caves are dark, often damp habitats where specially adapted creatures such as bats, blind fish, and certain insects live, many of which have adaptations suited to little or no light.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is a common feature of most cave habitats?", options:["They are dark and often damp","They are always covered in snow","They are always bright and sunny","They are always underwater oceans"], answer:0},
+     {q:"Which animal commonly lives in caves?", options:["Camels","Polar bears","Bats","Penguins"], answer:2},
+     {q:"Why might some cave-dwelling fish have no working eyes?", options:["They never needed eyes to begin with anywhere","Caves always have bright sunlight","Fish never adapt to their environment","They have adapted to living in an environment with little or no light"], answer:3},
+     {q:"What sense might cave animals rely on more than sight?", options:["Colour vision only","Taste only","Hearing or touch","Sight is always their strongest sense"], answer:2},
+     {q:"Why are cave habitats considered unique ecosystems?", options:["They are identical to a desert habitat","They have no living creatures at all","They are always the warmest habitat on Earth","Their conditions require special adaptations different from most habitats"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Farmers Markets and Local Food Systems", summary:"Grade 3 Social Studies strand: a farmers market is a place where local farmers sell fresh produce and other goods directly to community members, supporting local food systems and the local economy.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is a farmers market?", options:["A place where local farmers sell fresh produce directly to the community","A type of national holiday","A government office building","A large factory that makes cars"], answer:0},
+     {q:"What might someone buy at a farmers market?", options:["Foreign currency","Airplane parts","Office furniture only","Fresh fruits and vegetables grown locally"], answer:3},
+     {q:"How do farmers markets support the local economy?", options:["They have no effect on the economy","They remove all money from a community","They only benefit farmers in other countries","They allow money to be spent directly with local farmers and producers"], answer:3},
+     {q:"Why might buying local food reduce the distance food travels?", options:["Because farmers markets ship goods around the world first","Because local food never comes from farms","Because the food is grown and sold within the same community","Because local food is always imported from overseas"], answer:2},
+     {q:"What is one benefit of a local food system?", options:["It removes the need for any farming","It can support local farmers and provide fresh food to the community","It only benefits large international companies","It has no impact on communities"], answer:1}
+   ]},
+]},
+{day:145, label:"Day 145 — Fri", subjects:[
+  {subject:"Language", title:"Oral Communication: Debating Two Sides of an Issue", summary:"Grade 3 Language strand: a debate involves presenting arguments for and against an issue, listening respectfully to other points of view, and supporting a position with reasons and evidence.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does a debate involve?", options:["Presenting arguments for and against an issue","Avoiding any discussion at all","Refusing to listen to anyone else","Ignoring all evidence"], answer:0},
+     {q:"Why is it important to listen respectfully during a debate?", options:["To avoid ever changing your opinion","To understand other points of view even when you disagree","To interrupt every speaker","To ignore everyone else completely"], answer:1},
+     {q:"What should support a position in a debate?", options:["Random guesses only","Silence","Unrelated stories only","Reasons and evidence"], answer:3},
+     {q:"What are the two sides of a debate sometimes called?", options:["Left and right only","For and against","Up and down","Loud and quiet"], answer:1},
+     {q:"Why might students practise debating in class?", options:["To argue without any evidence","To avoid learning how to communicate","To eliminate the need for teamwork","To build skills in reasoning, listening, and public speaking"], answer:3}
+   ]},
+  {subject:"Math", title:"Data: Finding the Median of a Data Set", summary:"Grade 3 Math strand: the median of a data set is the middle value when the numbers are arranged in order from least to greatest, and it is another way, along with mean and mode, to describe a set of data.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is the median of a data set?", options:["The smallest value in the data set","The middle value when the numbers are arranged in order","The largest value in the data set","The sum of all the values"], answer:1},
+     {q:"What is the median of the data set 2, 5, 7?", options:["14","2","5","7"], answer:2},
+     {q:"Before finding the median, what should you do with the data?", options:["Arrange the numbers in order from least to greatest","Remove all the numbers","Multiply every number by two","Add all the numbers together"], answer:0},
+     {q:"What is the median of the data set 1, 3, 3, 6, 9?", options:["3","1","9","6"], answer:0},
+     {q:"Median, mean, and mode are all ways to describe ___.", options:["A calendar","A type of map","A single shape","A data set"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Sharks and Their Adaptations for Ocean Life", summary:"Grade 3 Science strand: sharks are fish with skeletons made of cartilage instead of bone, and they have adaptations such as sharp teeth and a strong sense of smell that help them survive as ocean predators.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is a sharks skeleton made of?", options:["Metal","Cartilage","Bone","Wood"], answer:1},
+     {q:"What adaptation helps sharks catch prey?", options:["Wings","Fur","Feathers","Sharp teeth"], answer:3},
+     {q:"Which sense is especially strong in many sharks?", options:["Smell","Touch only","Taste only","Sight only"], answer:0},
+     {q:"What type of animal is a shark?", options:["A mammal","An amphibian","A reptile","A fish"], answer:3},
+     {q:"Why are sharks considered important predators in ocean ecosystems?", options:["They have no role in the ocean at all","They never eat other animals","They only live on land","They help keep populations of other ocean animals balanced"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: How Canada Chose Its Maple Leaf Flag in 1965", summary:"Grade 3 Social Studies strand: Canada adopted its red and white maple leaf flag in 1965, after a national discussion about choosing a flag design that would represent the whole country.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"In what year did Canada adopt its maple leaf flag?", options:["1965","1867","1812","2000"], answer:0},
+     {q:"What are the colours of the Canadian flag?", options:["Red and white","Green and gold","Blue and yellow","Black and orange"], answer:0},
+     {q:"What symbol is at the centre of the Canadian flag?", options:["A maple leaf","A crown","A beaver","A star"], answer:0},
+     {q:"Why did Canada hold a national discussion before choosing a flag design?", options:["To avoid ever having a flag","To remove all symbols from Canada","To copy another countrys flag exactly","To choose a design that would represent the whole country"], answer:3},
+     {q:"Why is the story of the flags design important to learn?", options:["It shows how Canadians worked together to create a national symbol","It has no connection to Canadian history","It only matters to one province","It explains a foreign countrys history"], answer:0}
+   ]},
+]},
+{day:146, label:"Day 146 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Active and Passive Voice", summary:"Grade 3 Language strand: in an active voice sentence, the subject performs the action, while in a passive voice sentence, the subject receives the action, often making active voice clearer and more direct.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"In an active voice sentence, who performs the action?", options:["The object","The verb itself","The subject","No one"], answer:2},
+     {q:"Which sentence is written in active voice?", options:["The ball was thrown.","The game was played.","The ball was chased by the dog.","The dog chased the ball."], answer:3},
+     {q:"Which sentence is written in passive voice?", options:["The cake was baked by the chef.","The chef bakes cakes daily.","The chef baked the cake.","The chef enjoys baking."], answer:0},
+     {q:"Why might a writer prefer active voice in most writing?", options:["It is often clearer and more direct","It hides who performed the action","It removes the subject from every sentence","It always makes writing confusing"], answer:0},
+     {q:"In passive voice, the subject of the sentence ___.", options:["Receives the action","Is always missing entirely","Cannot exist","Always performs the action"], answer:0}
+   ]},
+  {subject:"Math", title:"Fractions: Comparing Fractions with Different Denominators", summary:"Grade 3 Math strand: to compare fractions with different denominators, students can find equivalent fractions with a common denominator or use a model such as a number line or fraction strip.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which fraction is greater: 1/2 or 1/3?", options:["They are equal","1/3","Cannot be determined","1/2"], answer:3},
+     {q:"To compare fractions with different denominators, it can help to first find a ___.", options:["Larger whole number","Common denominator","Common numerator only","Smaller whole number"], answer:1},
+     {q:"Which fraction is greater: 2/5 or 2/3?", options:["2/5","They are equal","2/3","Cannot be determined"], answer:2},
+     {q:"What tool can help visually compare two fractions?", options:["A calendar","A fraction strip or number line","A thermometer","A compass rose"], answer:1},
+     {q:"Which fraction is smaller: 3/4 or 1/4?", options:["3/4","Cannot be determined","1/4","They are equal"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Engineering Bridges — Beam, Arch, and Suspension", summary:"Grade 3 Science strand: engineers design different types of bridges, such as beam, arch, and suspension bridges, choosing a design based on the distance to be crossed and the forces the bridge must withstand.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is a beam bridge?", options:["A bridge that floats on water only","A bridge made entirely of rope","A bridge with no supports at all","A simple bridge supported by beams resting on piers"], answer:3},
+     {q:"What shape gives an arch bridge much of its strength?", options:["A flat rectangle","A perfect circle","A curved arch shape","A straight line only"], answer:2},
+     {q:"What holds up the road on a suspension bridge?", options:["Nothing at all","Cables hung from tall towers","Balloons","A single wooden beam"], answer:1},
+     {q:"Why might engineers choose different bridge designs?", options:["Because only one bridge design has ever existed","Based on the distance to be crossed and forces the bridge must withstand","Because bridge design does not matter","Because all bridges must look identical"], answer:1},
+     {q:"What is one important goal when engineering a bridge?", options:["Making sure it has no purpose","Making sure it is invisible","Making sure it can safely support weight and withstand forces","Making sure it collapses quickly"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Public Health Units and Keeping Communities Well", summary:"Grade 3 Social Studies strand: a public health unit works to protect and promote the health of a community, offering services such as vaccination programs and health education.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does a public health unit work to protect?", options:["A private companys profits","A countrys military strength","The health of a community","Only the health of one household"], answer:2},
+     {q:"Which is an example of a service a public health unit might offer?", options:["Vaccination programs","Selling groceries","Fixing roads","Delivering mail"], answer:0},
+     {q:"Why might a public health unit provide health education?", options:["To help community members make informed health decisions","To confuse the public on purpose","To prevent people from learning about health","To replace all doctors"], answer:0},
+     {q:"Public health units are an example of a service that benefits ___.", options:["Only government workers","The whole community","No one at all","Only one single person"], answer:1},
+     {q:"Why is community health considered a shared responsibility?", options:["Because health has no effect on communities","Because communities never need health services","Because the health of individuals can affect the wellbeing of the whole community","Because only doctors need to think about health"], answer:2}
+   ]},
+]},
+{day:147, label:"Day 147 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Text Features — Sidebars and Pull Quotes", summary:"Grade 3 Language strand: sidebars provide extra information related to a main article, while pull quotes highlight an important sentence from the text in larger print to draw a readers attention.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does a sidebar provide?", options:["The entire main article only","A blank page","A table of contents only","Extra information related to the main article"], answer:3},
+     {q:"What is a pull quote?", options:["The title of the article","A footnote at the bottom of a page","A list of page numbers","An important sentence from the text highlighted in larger print"], answer:3},
+     {q:"Why might a writer include a sidebar in a nonfiction article?", options:["To replace the entire article","To remove information from the article","To confuse the reader on purpose","To share extra details without interrupting the main text"], answer:3},
+     {q:"Why might a pull quote be printed in larger text?", options:["To replace the main article entirely","To make the text harder to notice","To draw the readers attention to an important idea","To hide the quote from readers"], answer:2},
+     {q:"Sidebars and pull quotes are both examples of ___.", options:["Types of verbs","Text features that support a main article","Types of vowels","Types of punctuation marks"], answer:1}
+   ]},
+  {subject:"Math", title:"Multiplication: Multiplying Money Amounts", summary:"Grade 3 Math strand: students multiply money amounts by a whole number, such as finding the total cost of several identical items, using the same strategies used for multiplying whole numbers.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"If one notebook costs 4 dollars, how much do 3 notebooks cost?", options:["10 dollars","15 dollars","12 dollars","9 dollars"], answer:2},
+     {q:"What is 6 dollars multiplied by 5?", options:["25 dollars","30 dollars","20 dollars","35 dollars"], answer:1},
+     {q:"When multiplying money amounts, the strategies used are ___.", options:["Only useful for division","Never useful for money","Completely different from whole number multiplication","The same strategies used for multiplying whole numbers"], answer:3},
+     {q:"If one ticket costs 8 dollars, what is the cost of 4 tickets?", options:["36 dollars","28 dollars","32 dollars","24 dollars"], answer:2},
+     {q:"Why might someone multiply money amounts in everyday life?", options:["To find the total cost of buying several of the same item","To avoid ever shopping","To ignore the cost of items","To subtract prices instead"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: How Water Treatment Plants Clean Our Water", summary:"Grade 3 Science strand: a water treatment plant cleans water by removing dirt, germs, and other impurities through steps such as filtering and adding safe chemicals, making the water safe to drink.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of a water treatment plant?", options:["To clean water and make it safe to drink","To make water dirtier","To remove all water from a city","To turn water into ice permanently"], answer:0},
+     {q:"Which step might a water treatment plant use to clean water?", options:["Removing all water molecules","Freezing all the water forever","Filtering out dirt and impurities","Adding more dirt to the water"], answer:2},
+     {q:"Why is it important for water to be treated before people drink it?", options:["Because water never needs cleaning","To remove germs and impurities that could make people sick","Because treatment makes water undrinkable","Because untreated water is always perfectly safe"], answer:1},
+     {q:"Where does the water used in a water treatment plant often come from?", options:["Only from a single well in one city","Rivers, lakes, or underground sources","Only from clouds directly","Only from outer space"], answer:1},
+     {q:"Why might scientists test water quality after it is treated?", options:["Because water never needs to be tested","Because testing water is unnecessary","To make the water less safe","To make sure the water is safe before people use it"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Provincial and Territorial Flags", summary:"Grade 3 Social Studies strand: each Canadian province and territory has its own flag, often featuring symbols that represent the regions history, geography, or identity.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does each Canadian province and territory have?", options:["Its own flag","No symbols at all","A flag identical to another country","Only one shared flag for all of Canada"], answer:0},
+     {q:"What might symbols on a provincial flag represent?", options:["Nothing meaningful at all","Only a private business","Only a sports team","The regions history, geography, or identity"], answer:3},
+     {q:"Why might different provinces choose different flag designs?", options:["Because provinces are not allowed to have flags","To reflect their own unique history and identity","Because flags have no meaning","Because all provinces are required to look the same"], answer:1},
+     {q:"Where might you see a provincial or territorial flag displayed?", options:["Only in another country","On government buildings within that province or territory","Nowhere at all","Only inside a private home"], answer:1},
+     {q:"Learning about provincial and territorial flags helps students understand ___.", options:["The diversity of Canadas regions","That Canada has no regional differences","That only the national flag exists","That flags are unimportant"], answer:0}
+   ]},
+]},
+{day:148, label:"Day 148 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Eponyms — Words Named After People", summary:"Grade 3 Language strand: an eponym is a word that comes from the name of a real or fictional person, such as the sandwich, which is said to be named after the Earl of Sandwich.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is an eponym?", options:["A word with no meaning at all","A type of punctuation mark","A word that comes from the name of a person","A word that rhymes with another word"], answer:2},
+     {q:"The word sandwich is said to be named after ___.", options:["A famous river","A type of vegetable","A type of bread only","The Earl of Sandwich"], answer:3},
+     {q:"Why might learning about eponyms be interesting to readers?", options:["It only applies to made-up words","It removes all meaning from words","It reveals surprising stories behind everyday words","It has nothing to do with word origins"], answer:2},
+     {q:"An eponym can come from either a real or a ___ person.", options:["Punctuated","Numbered","Fictional","Silent"], answer:2},
+     {q:"Studying eponyms is related to the study of ___.", options:["Handwriting only","Etymology, or where words come from","Grammar rules only","Punctuation marks only"], answer:1}
+   ]},
+  {subject:"Math", title:"Division: Dividing Money Amounts Evenly", summary:"Grade 3 Math strand: students divide money amounts evenly among a group, such as sharing the cost of an item or splitting an amount of money into equal parts.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"If 12 dollars is shared evenly among 3 friends, how much does each friend get?", options:["3 dollars","9 dollars","4 dollars","6 dollars"], answer:2},
+     {q:"What is 20 dollars divided evenly among 5 people?", options:["5 dollars","4 dollars","15 dollars","10 dollars"], answer:1},
+     {q:"If 4 people share the cost of a 24 dollar pizza equally, how much does each person pay?", options:["12 dollars","6 dollars","4 dollars","8 dollars"], answer:1},
+     {q:"Dividing money evenly means each part receives ___.", options:["A different amount each time","Nothing at all","The entire total amount","An equal share of the total amount"], answer:3},
+     {q:"What is 18 dollars divided evenly among 3 people?", options:["15 dollars","6 dollars","3 dollars","9 dollars"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Ants and Their Underground Colonies", summary:"Grade 3 Science strand: ants are social insects that live in large underground colonies, with different ants performing different roles, such as workers, soldiers, and a queen who lays eggs.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"Where do many ant colonies live?", options:["Underwater only","Underground","Inside solid rock only","High in the clouds"], answer:1},
+     {q:"What role does the queen ant play in a colony?", options:["She lays eggs for the colony","She never stays in the colony","She has no role at all","She builds every tunnel alone"], answer:0},
+     {q:"What term describes insects like ants that live and work together in large groups?", options:["Silent insects","Solitary insects","Social insects","Aquatic insects"], answer:2},
+     {q:"Which ants often gather food for the colony?", options:["Only soldier ants sleep instead","No ants gather food","Only the queen","Worker ants"], answer:3},
+     {q:"Why might soldier ants be important to a colony?", options:["They only eat and do nothing else","They replace the queen every day","They help defend the colony from threats","They never help the colony"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: How Communities Prepare for Natural Disasters", summary:"Grade 3 Social Studies strand: communities prepare for natural disasters such as floods, storms, and forest fires by creating emergency plans, stocking supplies, and practising safety drills.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is one way communities prepare for natural disasters?", options:["Removing all safety equipment","Avoiding any preparation at all","Ignoring the possibility of any disaster","Creating emergency plans"], answer:3},
+     {q:"Which is an example of a natural disaster?", options:["A birthday party","A school assembly","A sports game","A flood"], answer:3},
+     {q:"Why might a community stock emergency supplies?", options:["To use them for everyday shopping only","Because supplies are never needed","Because disasters never happen","To be ready to respond quickly if a disaster occurs"], answer:3},
+     {q:"What is the purpose of practising a safety drill?", options:["To help people know what to do if an emergency happens","To waste time with no purpose","To confuse people during an emergency","To prevent people from ever learning safety steps"], answer:0},
+     {q:"Why is disaster preparedness considered a shared community effort?", options:["Everyone benefits when a community is ready to respond safely","Disaster preparedness never involves communities","Only one person needs to prepare for everyone","Preparation only matters for large cities"], answer:0}
+   ]},
+]},
+{day:149, label:"Day 149 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing an Adventure Story Opening", summary:"Grade 3 Language strand: an adventure story opening introduces an exciting setting or situation, often using vivid details and action to capture the readers interest right away.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What should an adventure story opening do?", options:["Avoid describing any setting","Capture the readers interest right away","Bore the reader immediately","Skip introducing any characters or setting"], answer:1},
+     {q:"Which is a strong opening line for an adventure story?", options:["It was a day.","The end.","The old map crackled as Maya unrolled it in the dark cave.","Nothing happened at all."], answer:2},
+     {q:"Why might a writer use vivid details in a story opening?", options:["To make the story impossible to imagine","To remove all imagery from the writing","To confuse the reader on purpose","To help readers picture the setting and feel drawn into the story"], answer:3},
+     {q:"An exciting adventure story opening often introduces ___.", options:["Only a table of contents","An exciting setting or situation","Only a list of facts","Only a glossary of terms"], answer:1},
+     {q:"Why is the opening of a story especially important?", options:["It should always come after the ending","It helps decide whether a reader wants to keep reading","It has no effect on the reader at all","It should always be left blank"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Simple Loans and Repayment", summary:"Grade 3 Math strand: a loan is money borrowed that must be paid back over time, often in equal payments, and understanding loans helps students see how borrowing and repaying money works.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is a loan?", options:["Money that is borrowed and must be paid back","A gift with no conditions","A type of savings account only","Money that never needs to be returned"], answer:0},
+     {q:"If you borrow 100 dollars and repay it in 4 equal payments, how much is each payment?", options:["25 dollars","20 dollars","40 dollars","30 dollars"], answer:0},
+     {q:"Why might someone take out a loan?", options:["To remove the need for saving","To avoid ever spending money","To give money away permanently","To pay for something now and repay the amount over time"], answer:3},
+     {q:"What does it mean to repay a loan?", options:["To spend the loan on something else only","To borrow even more money","To ignore the amount owed","To pay back the money that was borrowed"], answer:3},
+     {q:"Why is it important to repay a loan responsibly?", options:["Because lenders never track repayment","Because repayment is never expected","Because loans do not need to be repaid","To meet the agreement made when borrowing the money"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Excretory System — Removing Waste from the Body", summary:"Grade 3 Science strand: the excretory system removes waste products from the body, with organs such as the kidneys filtering waste from the blood so the body can stay healthy.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of the excretory system?", options:["To remove waste products from the body","To help the body hear sounds","To help the body think","To pump blood through the body"], answer:0},
+     {q:"Which organ filters waste from the blood?", options:["The kidneys","The eyes","The ears","The tongue"], answer:0},
+     {q:"Why is it important for the body to remove waste?", options:["It only affects eyesight","Waste removal has no benefit to the body","To keep the body healthy and functioning properly","It only affects hair growth"], answer:2},
+     {q:"The excretory system works together with which other body system to keep the body healthy?", options:["A system that does not exist","The circulatory system","The system that controls taste only","The system that controls hearing only"], answer:1},
+     {q:"What might happen if the excretory system did not work properly?", options:["Waste could build up in the body and cause health problems","The body would immediately grow taller","Nothing would ever change in the body","The body would stop needing food"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The History of the Canadian Passport", summary:"Grade 3 Social Studies strand: a passport is an official document that allows a person to travel internationally and proves their identity and citizenship, and Canadas passport has changed in design over many years.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is a passport?", options:["A type of holiday","An official document that proves identity and citizenship for travel","A type of currency","A type of map"], answer:1},
+     {q:"Why might someone need a passport?", options:["To ride a citys public bus","To attend a local school","To buy groceries locally","To travel internationally and prove their citizenship"], answer:3},
+     {q:"What information does a passport typically confirm?", options:["Only a persons height","A persons identity and citizenship","Only a persons favourite food","Only a persons favourite colour"], answer:1},
+     {q:"How has the Canadian passport changed over many years?", options:["It has never included any personal information","Its design and security features have been updated over time","It has always looked identical to every other countrys passport","It has never changed since it was first created"], answer:1},
+     {q:"Why might governments update passport security features over time?", options:["Because security has no importance","To remove all security from travel documents","To make passports easier to forge","To help prevent fraud and keep travel documents secure"], answer:3}
+   ]},
+]},
+{day:150, label:"Day 150 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Semicolons, Satire, and Debate Skills", summary:"Grade 3 Language strand review: students revisit using semicolons, regional dialects, satire and irony, writing a movie review, debating two sides of an issue, active and passive voice, sidebars and pull quotes, eponyms, and writing an adventure story opening.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What can a semicolon join?", options:["Two unrelated paragraphs","A title and a page number","Only a single word","Two closely related independent clauses"], answer:3},
+     {q:"What is irony?", options:["A type of rhyme scheme","When everything happens exactly as expected","A type of punctuation mark","When the actual result is different from what was expected"], answer:3},
+     {q:"What does a debate involve?", options:["Refusing to listen to anyone else","Ignoring all evidence","Presenting arguments for and against an issue","Avoiding any discussion at all"], answer:2},
+     {q:"In an active voice sentence, who performs the action?", options:["The verb itself","The subject","The object","No one"], answer:1},
+     {q:"What is an eponym?", options:["A type of punctuation mark","A word that rhymes with another word","A word that comes from the name of a person","A word with no meaning at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Polygons, Fractions, and Financial Literacy", summary:"Grade 3 Math strand review: students revisit writing numbers in word form, classifying polygons by number of sides, perimeter of composite figures, metric versus imperial units, the median of a data set, comparing fractions with different denominators, multiplying money, dividing money, and simple loans.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"How many sides does a hexagon have?", options:["Five","Four","Seven","Six"], answer:3},
+     {q:"How can you find the perimeter of a composite figure?", options:["Multiply the length by the width only","Add the lengths of all its outer sides","Subtract the smallest side from the largest","Count the number of shapes used"], answer:1},
+     {q:"What is the median of a data set?", options:["The smallest value in the data set","The sum of all the values","The largest value in the data set","The middle value when the numbers are arranged in order"], answer:3},
+     {q:"Which fraction is greater: 1/2 or 1/3?", options:["Cannot be determined","1/2","1/3","They are equal"], answer:1},
+     {q:"What is a loan?", options:["Money that is borrowed and must be paid back","A type of savings account only","Money that never needs to be returned","A gift with no conditions"], answer:0}
+   ]},
+  {subject:"Science", title:"Science Review: Body Systems, Space, and Engineering", summary:"Grade 3 Science strand review: students revisit the immune system, dinosaurs and extinction, solar and lunar eclipses, cave habitats, sharks, bridge engineering, water treatment plants, ants, and the excretory system.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the main job of the immune system?", options:["To help us hear sounds","To digest food","To help the body fight off harmful germs","To pump blood through the body"], answer:2},
+     {q:"What does extinct mean?", options:["A living thing that only lives in water","A type of living thing no longer exists anywhere on Earth","A living thing that lives forever","A living thing that never grows"], answer:1},
+     {q:"What happens during a solar eclipse?", options:["The Sun disappears forever","The Moon turns into a star","The Moon passes between the Sun and Earth, blocking sunlight","Earth stops spinning completely"], answer:2},
+     {q:"What is a sharks skeleton made of?", options:["Cartilage","Bone","Wood","Metal"], answer:0},
+     {q:"Which organ filters waste from the blood?", options:["The ears","The tongue","The kidneys","The eyes"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Reconciliation, Civics, and Canadian Symbols", summary:"Grade 3 Social Studies strand review: students revisit National Indigenous Peoples Day, Orange Shirt Day and truth and reconciliation, school boards and trustees, farmers markets, the history of the Maple Leaf flag, public health units, provincial and territorial flags, natural disaster preparedness, and the Canadian passport.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does National Indigenous Peoples Day celebrate?", options:["A type of weather pattern","A single sports team","The cultures and contributions of First Nations, Inuit, and Metis peoples","A foreign holiday"], answer:2},
+     {q:"What does Orange Shirt Day honour?", options:["Residential school survivors and the children affected by residential schools","A type of harvest festival","A sports championship","A national election"], answer:0},
+     {q:"In what year did Canada adopt its maple leaf flag?", options:["2000","1965","1812","1867"], answer:1},
+     {q:"What does a public health unit work to protect?", options:["The health of a community","A private companys profits","A countrys military strength","Only the health of one household"], answer:0},
+     {q:"What is a passport?", options:["An official document that proves identity and citizenship for travel","A type of currency","A type of holiday","A type of map"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;
