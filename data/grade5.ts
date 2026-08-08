@@ -5501,6 +5501,386 @@ const curriculum: DayContent[] = [
      {q:"What is the Indian Act?", options:["A modern trade agreement","A federal law that has governed many aspects of life for First Nations peoples","A provincial tax code","A treaty between Canada and another country"], answer:1}
    ]},
 ]},
+{day:141, label:"Day 141 — Mon", subjects:[
+  {subject:"Language", title:"Figurative Language: Oxymorons", summary:"Grade 5 Language strand: an oxymoron combines two contradictory or opposite words, such as jumbo shrimp or deafening silence, to create a striking or thought-provoking effect.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an oxymoron?", options:["A figure of speech that combines two contradictory or opposite words","A sentence with no verb","A word borrowed from another language","A word that rhymes with another word"], answer:0},
+     {q:"Which pair of words is an oxymoron?", options:["Bright sunshine","Happy puppy","Tall building","Deafening silence"], answer:3},
+     {q:"Which sentence contains an oxymoron?", options:["The small kitten was very cute.","The bright sun was shining today.","The jumbo shrimp appetizer was delicious.","The tall building was very old."], answer:2},
+     {q:"Why might a writer use an oxymoron?", options:["This concept has no connection to figurative language","An oxymoron always confuses the reader with no purpose","To create a striking contrast that draws attention to an idea","Oxymorons never add any meaning to writing"], answer:2},
+     {q:"Which of these phrases is most likely an oxymoron?", options:["Read carefully","Act naturally","Jump high","Run quickly"], answer:1}
+   ]},
+  {subject:"Math", title:"Data Management: Venn Diagrams for Sorting and Comparing Data", summary:"Grade 5 Math strand: a Venn diagram uses overlapping circles to sort and compare data, showing which items belong to one group, another group, or both groups at once.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a Venn diagram use to sort and compare data?", options:["Overlapping circles","A pie-shaped wedge only","A single straight line","A list with no visual shapes"], answer:0},
+     {q:"What does the overlapping section of two circles in a Venn diagram represent?", options:["Items that belong to neither group","Items that belong to only the first group","Items that belong to both groups","Items that belong to only the second group"], answer:2},
+     {q:"If a Venn diagram compares students who like soccer and students who like basketball, where would a student who likes both sports be placed?", options:["Only in the basketball circle","Only in the soccer circle","Outside both circles entirely","In the overlapping section of both circles"], answer:3},
+     {q:"Why might a Venn diagram be useful for organizing information?", options:["It visually shows similarities and differences between two or more groups","This concept has no connection to data management","It can only display a single group of data","A Venn diagram never shows any overlap between groups"], answer:0},
+     {q:"How many circles does a basic Venn diagram comparing two groups usually have?", options:["One","Two","Zero","Four"], answer:1}
+   ]},
+  {subject:"Science", title:"Minerals and Their Properties — Hardness, Streak, and Luster", summary:"Grade 5 Science strand: minerals are identified using physical properties such as hardness, which measures resistance to scratching, streak, which is the colour of a minerals powder, and luster, which describes how a mineral reflects light.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does the hardness of a mineral measure?", options:["Its temperature at all times","Its exact weight in grams","Its ability to conduct electricity only","Its resistance to being scratched"], answer:3},
+     {q:"What is streak in mineral identification?", options:["The shape of a mineral","The exact age of a mineral","The colour of a minerals powder","The smell of a mineral"], answer:2},
+     {q:"What does luster describe?", options:["How a mineral reflects light","How heavy a mineral is","How a mineral tastes","How loud a mineral sounds when dropped"], answer:0},
+     {q:"Why might scientists use several different properties to identify a mineral?", options:["Comparing multiple properties gives a more reliable identification than using just one","Mineral properties are never useful for identification","This concept has no relevance to science","A single property always identifies a mineral with complete certainty"], answer:0},
+     {q:"Which property would help you tell the difference between a shiny mineral and a dull one?", options:["Hardness","Luster","Colour of the powder only","Streak"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Canadas National Parks System — Protecting Natural Spaces", summary:"Grade 5 Social Studies strand: Canadas national parks are protected natural areas managed by the federal government to conserve wildlife, ecosystems, and landscapes for future generations to enjoy.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the purpose of a national park?", options:["To protect wildlife, ecosystems, and landscapes for future generations","To sell natural resources as quickly as possible","To prevent anyone from ever visiting the area","To build as many new roads as possible"], answer:0},
+     {q:"Who generally manages Canadas national parks?", options:["Foreign governments","The federal government","A single private company","Individual students"], answer:1},
+     {q:"Why might a country choose to set aside land as a national park instead of developing it?", options:["Protecting land is never valuable to a country","This concept has no relevance to social studies","National parks provide no benefit to wildlife","To preserve natural beauty and biodiversity for the future"], answer:3},
+     {q:"What might visitors typically do in a national park?", options:["Build permanent factories","Hike, camp, and observe wildlife responsibly","Ignore all posted park rules","Remove protected plants and animals"], answer:1},
+     {q:"Why is it important to follow rules, such as staying on marked trails, in a national park?", options:["Rules in national parks are never important","Following rules helps protect fragile ecosystems from damage","Trails have no effect on the surrounding environment","This concept has no connection to conservation"], answer:1}
+   ]},
+]},
+{day:142, label:"Day 142 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Colloquialisms and Slang", summary:"Grade 5 Language strand: a colloquialism is an informal word or expression used in everyday casual speech, while slang is very informal language often used by a particular group, both of which are usually avoided in formal writing.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a colloquialism?", options:["A word with no meaning at all","A type of punctuation mark","An informal word or expression used in everyday casual speech","A formal word used only in academic writing"], answer:2},
+     {q:"What is slang?", options:["Very informal language often used by a particular group of people","A type of grammar rule","A word that always appears in a dictionary as standard usage","A formal citation style"], answer:0},
+     {q:"Where would a colloquialism or slang term be least appropriate?", options:["In a casual conversation with friends","In a friendly chat at lunch","In a formal essay or business letter","In an informal text message"], answer:2},
+     {q:"Why might slang change quickly over time?", options:["New informal expressions are often created and popularized by different groups","Formal language changes more quickly than slang","This concept has no connection to vocabulary","Slang words are always identical from generation to generation"], answer:0},
+     {q:"Which of these is most likely an example of a colloquialism?", options:["Encyclopedia","Photosynthesis","Metropolis","Gonna instead of going to"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Rotational Symmetry", summary:"Grade 5 Math strand: a shape has rotational symmetry if it can be turned less than a full circle around its centre and still look exactly the same as it did before turning.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is rotational symmetry?", options:["When a shape has straight sides only","When a shape can only be folded in half to match","When a shape has no symmetry of any kind","When a shape can be turned less than a full circle and still look the same"], answer:3},
+     {q:"Around what point is a shape rotated when checking for rotational symmetry?", options:["Its centre","Its longest edge","A point outside the shape","One of its corners only"], answer:0},
+     {q:"Does a square have rotational symmetry?", options:["Only if it is coloured red","No, a square never has rotational symmetry","Yes, it looks the same after turning it 90 degrees","Only if it is cut into triangles"], answer:2},
+     {q:"How is rotational symmetry different from line symmetry?", options:["Rotational symmetry involves turning a shape, while line symmetry involves folding it","Line symmetry involves turning a shape around its centre","The two types of symmetry are always identical","Rotational symmetry only applies to circles"], answer:0},
+     {q:"Why might an equilateral triangle have rotational symmetry?", options:["Only shapes with four sides can have rotational symmetry","An equilateral triangle never looks the same after any turn","Turning it one third of a full circle makes it look the same as before","This concept has no connection to geometry"], answer:2}
+   ]},
+  {subject:"Science", title:"Ocean Currents and Their Effect on Climate", summary:"Grade 5 Science strand: ocean currents are large-scale movements of water through the ocean that can carry warm or cool water long distances, influencing the climate of coastal regions.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is an ocean current?", options:["A type of underwater mountain","A small wave near the shore","A large-scale movement of water through the ocean","A sudden storm at sea"], answer:2},
+     {q:"How can ocean currents affect climate?", options:["Ocean currents only affect the depth of the ocean","Ocean currents remain in exactly the same spot forever","They carry warm or cool water that can influence the temperature of coastal regions","Ocean currents have no effect on climate at all"], answer:2},
+     {q:"What might happen to a coastal regions climate if it is near a warm ocean current?", options:["The current has no impact on the regions weather","The region always becomes colder than any other location","The region may experience milder temperatures than expected for its latitude","The region immediately freezes over completely"], answer:2},
+     {q:"Why do scientists study ocean currents?", options:["This concept has no connection to Earth science","To better understand weather patterns, climate, and marine ecosystems","Ocean currents provide no useful scientific information","Ocean currents never interact with marine life"], answer:1},
+     {q:"What might cause ocean currents to move?", options:["Factors such as wind, water temperature, and the rotation of the Earth","Ocean currents are caused only by boats passing through","This concept has no relevance to science","Ocean currents move for no reason at all"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Role of Political Parties in Canadian Government", summary:"Grade 5 Social Studies strand: a political party is a group of people who share similar ideas about how the government should be run, and parties compete in elections to try to form the government.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is a political party?", options:["A single elected official with no supporters","A branch of the court system","A type of national holiday","A group of people who share similar ideas about how government should be run"], answer:3},
+     {q:"What do political parties typically do during an election?", options:["Compete to win seats and try to form the government","Cancel the election entirely","Refuse to select any candidates","Avoid sharing any ideas with voters"], answer:0},
+     {q:"What might a political party publish to explain its ideas to voters?", options:["A private diary with no public access","A platform outlining its goals and policies","A grocery list","A weather report"], answer:1},
+     {q:"Why might having more than one political party be useful in a democracy?", options:["This concept has no connection to social studies","It gives voters a choice between different ideas and approaches to government","Political parties always share identical ideas","Having more than one party is never useful"], answer:1},
+     {q:"What happens to the political party that wins the most seats in a Canadian federal election?", options:["It automatically becomes a monarchy","It loses the right to participate in future elections","It typically forms the government","It is immediately dissolved"], answer:2}
+   ]},
+]},
+{day:143, label:"Day 143 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Choose-Your-Own-Adventure Story", summary:"Grade 5 Language strand: a choose-your-own-adventure story lets the reader make decisions for the main character at key points, branching into different paths that lead to different endings.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What makes a choose-your-own-adventure story different from a typical story?", options:["It has only one possible ending","It contains no characters at all","It must be written in poem form","The reader makes decisions that lead to different paths and endings"], answer:3},
+     {q:"What happens at a decision point in a choose-your-own-adventure story?", options:["The author picks a random new topic","The reader chooses what the character should do next","The story automatically ends","Nothing changes in the story"], answer:1},
+     {q:"Why might a writer plan a story map before writing a choose-your-own-adventure story?", options:["It helps organize the different branching paths and endings","A story map only works for poetry","Planning is never useful for this kind of writing","This concept has no connection to writing"], answer:0},
+     {q:"What might happen if a choose-your-own-adventure story has too few decision points?", options:["The story can no longer have any characters","The story becomes too long to read","The reader may have little sense of control over the story","The story automatically becomes nonfiction"], answer:2},
+     {q:"Why might readers enjoy choose-your-own-adventure stories?", options:["These stories always have exactly one path","Readers never enjoy stories with choices","They can actively shape how the story unfolds","This concept has no relevance to writing"], answer:2}
+   ]},
+  {subject:"Math", title:"Number Sense: Multiplying Three-Digit by Two-Digit Numbers", summary:"Grade 5 Math strand: multiplying a three-digit number by a two-digit number can be done by breaking the two-digit number into tens and ones, multiplying each part separately, and adding the partial products together.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is one strategy for multiplying a three-digit number by a two-digit number?", options:["Breaking the two-digit number into tens and ones and adding the partial products","Ignoring the tens digit of the two-digit number","Only multiplying the ones digits of each number","Dividing both numbers before multiplying"], answer:0},
+     {q:"What is 213 multiplied by 4?", options:["842","852","824","862"], answer:1},
+     {q:"When multiplying 326 by 12, what could you calculate first using the partial products strategy?", options:["12 multiplied by itself","326 multiplied by 10 and 326 multiplied by 2, then add the results","326 added to 12","326 divided by 12"], answer:1},
+     {q:"Why is it useful to check a multiplication answer with estimation?", options:["Checking answers is never useful in mathematics","Estimation helps confirm the final answer is reasonable","This concept has no connection to number sense","Estimation always gives the exact same answer as multiplying"], answer:1},
+     {q:"What is 145 multiplied by 3?", options:["415","435","425","445"], answer:1}
+   ]},
+  {subject:"Science", title:"How Airplanes Fly — Lift, Thrust, Drag, and Weight", summary:"Grade 5 Science strand: an airplane flies because of four forces acting on it, lift pushing it upward, weight pulling it downward, thrust moving it forward, and drag slowing it down, that must be balanced for controlled flight.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"Which force pushes an airplane upward, allowing it to fly?", options:["Weight","Thrust","Lift","Drag"], answer:2},
+     {q:"Which force pulls an airplane downward toward Earth?", options:["Lift","Weight","Drag","Thrust"], answer:1},
+     {q:"Which force moves an airplane forward through the air?", options:["Drag","Thrust","Weight","Lift"], answer:1},
+     {q:"Which force acts against an airplanes motion, slowing it down?", options:["Thrust","Lift","Drag","Weight"], answer:2},
+     {q:"Why must these four forces be balanced for controlled flight?", options:["If the forces are unbalanced, the airplane may climb, descend, speed up, or slow down unexpectedly","This concept has no relevance to science","An airplane can fly with only one of the four forces present","The four forces never actually affect an airplanes flight"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Crown Land — Public Land Owned by the Government", summary:"Grade 5 Social Studies strand: Crown land is public land owned by the federal or provincial government on behalf of all Canadians, often used for purposes such as forestry, conservation, or recreation.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is Crown land?", options:["Land that no one is allowed to use for any purpose","Land that belongs to a foreign country","Land owned only by private individuals","Public land owned by the federal or provincial government"], answer:3},
+     {q:"On whose behalf is Crown land generally held?", options:["A private international company","A single wealthy family","Only the Prime Minister","All Canadians"], answer:3},
+     {q:"Which of these might Crown land be used for?", options:["Nothing at all","Forestry, conservation, or recreation","Selling to a foreign government","Only building private mansions"], answer:1},
+     {q:"Roughly what portion of Canadas land is often described as Crown land?", options:["A very large portion, much more than half","Exactly one percent","Only a single city block","None of Canadas land"], answer:0},
+     {q:"Why might it matter whether land is Crown land or privately owned?", options:["Ownership of land never affects how it can be used","This concept has no connection to social studies","It affects who can make decisions about how the land is used","Crown land and private land are always treated identically"], answer:2}
+   ]},
+]},
+{day:144, label:"Day 144 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Subject Complements and Predicate Adjectives", summary:"Grade 5 Language strand: a subject complement follows a linking verb and renames or describes the subject, and a predicate adjective is a subject complement that describes the subject using an adjective.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does a subject complement do?", options:["It follows a linking verb and renames or describes the subject","It replaces the subject entirely","It only appears at the start of a sentence","It always shows an action taking place"], answer:0},
+     {q:"What is a predicate adjective?", options:["A word that joins two sentences","A type of punctuation mark","A verb that shows action","A subject complement that describes the subject using an adjective"], answer:3},
+     {q:"In the sentence The soup is hot, which word is the predicate adjective?", options:["Soup","The","Hot","Is"], answer:2},
+     {q:"Which verb usually connects a subject to its subject complement?", options:["An action verb, such as run or jump","A helping verb used alone","A verb is never needed in this kind of sentence","A linking verb, such as is or seems"], answer:3},
+     {q:"Why is recognizing subject complements useful when checking a sentence?", options:["Subject complements always come before the subject","Subject complements never appear in complete sentences","It helps confirm that the sentence correctly describes or renames its subject","This concept has no connection to grammar"], answer:2}
+   ]},
+  {subject:"Math", title:"Algebra: Function Machines and Input-Output Tables", summary:"Grade 5 Math strand: a function machine applies a rule to an input number to produce an output number, and recording several input-output pairs in a table can help reveal the rule being used.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a function machine do to an input number?", options:["It deletes the number entirely","It only works with letters, never numbers","It applies a rule to produce an output number","It always leaves the number completely unchanged"], answer:2},
+     {q:"If the rule of a function machine is add 5, what is the output when the input is 3?", options:["8","3","5","15"], answer:0},
+     {q:"An input-output table shows 2 leads to 6, 3 leads to 9, and 4 leads to 12. What is the rule?", options:["Add 3 to the input","Divide the input by 3","Subtract 3 from the input","Multiply the input by 3"], answer:3},
+     {q:"Why might recording several input-output pairs in a table help find a rule?", options:["Tables never help identify number patterns","A single input-output pair always reveals the entire rule","Comparing multiple pairs makes a repeating pattern easier to identify","This concept has no connection to algebra"], answer:2},
+     {q:"If the rule is multiply by 2 then add 1, what is the output for an input of 4?", options:["5","8","10","9"], answer:3}
+   ]},
+  {subject:"Science", title:"Renewable Energy in Focus: Tidal and Wave Power", summary:"Grade 5 Science strand: tidal power captures energy from the rise and fall of ocean tides, while wave power captures energy from the motion of surface waves, both offering renewable sources of electricity.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does tidal power capture energy from?", options:["The rise and fall of ocean tides","Underground heat from the Earth","The heat of the Sun","The wind blowing over land"], answer:0},
+     {q:"What does wave power capture energy from?", options:["The rotation of the Moon around the Sun","The burning of coal","The motion of surface waves","The melting of glaciers"], answer:2},
+     {q:"Why are tidal and wave power considered renewable sources of energy?", options:["Tides and waves will eventually run out permanently","Renewable energy always comes from burning fuels","This concept has no connection to renewable energy","The motion of tides and waves is naturally and continuously replenished"], answer:3},
+     {q:"Where would tidal and wave power technology most likely be located?", options:["Deep underground in a mine","In the middle of a desert","Along coastlines or in the ocean","On top of a tall mountain"], answer:2},
+     {q:"What is one possible advantage of tidal power compared with some other renewable sources?", options:["Tides never follow any kind of pattern","Tidal power always produces more pollution than fossil fuels","This concept has no relevance to renewable energy","Ocean tides follow a predictable daily pattern"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Canadian Armed Forces — Structure and Roles", summary:"Grade 5 Social Studies strand: the Canadian Armed Forces are made up of the Army, Navy, and Air Force, and they work to defend Canada, support international peace efforts, and assist during domestic emergencies.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What are the three main branches of the Canadian Armed Forces?", options:["The Army, Navy, and Air Force","The Federal, Provincial, and Municipal governments","The Police, Fire Department, and Coast Guard","The Senate, House of Commons, and Courts"], answer:0},
+     {q:"What is one role of the Canadian Armed Forces?", options:["Running Canadas school system","Collecting income taxes from citizens","Passing new federal laws","Defending Canada and supporting international peace efforts"], answer:3},
+     {q:"How might the Canadian Armed Forces help during a domestic emergency, such as a flood?", options:["This concept has no relevance to social studies","They are never involved in emergencies within Canada","They only operate outside of Canada","By assisting with evacuation, rescue, and recovery efforts"], answer:3},
+     {q:"What does it mean for the Canadian Armed Forces to support international peace efforts?", options:["International peace efforts have no connection to the military","They replace the governments of other countries","They may take part in peacekeeping missions in other countries","They are not permitted to work outside Canada under any circumstances"], answer:2},
+     {q:"Why might a country maintain armed forces even during peaceful times?", options:["Armed forces serve no purpose during peaceful times","To be prepared to defend the country and respond to emergencies if needed","This concept has no connection to government","Armed forces are only useful during a declared war"], answer:1}
+   ]},
+]},
+{day:145, label:"Day 145 — Fri", subjects:[
+  {subject:"Language", title:"Reading: Understanding Motif in a Story", summary:"Grade 5 Language strand: a motif is an image, idea, or symbol that repeats throughout a story, helping to reinforce its theme or central message.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a motif?", options:["An image, idea, or symbol that repeats throughout a story","A list of characters in a story","A single event that happens only once","The title of a story"], answer:0},
+     {q:"What does a motif often help reinforce in a story?", options:["The name of the publisher","The theme or central message","The font used in printing","The page numbers of the book"], answer:1},
+     {q:"If the image of light appears again and again in a story about hope, what might that be an example of?", options:["A footnote","A glossary","An index","A motif"], answer:3},
+     {q:"How is a motif different from a single symbol that appears only once?", options:["A motif always appears exactly one time","A motif repeats multiple times throughout the story, reinforcing its importance","A motif and a symbol are never related in any way","A motif only appears in the title of a story"], answer:1},
+     {q:"Why might recognizing a motif help a reader understand a story more deeply?", options:["This concept has no relevance to reading","Motifs never connect to a storys meaning","Motifs only appear in nonfiction texts","It can reveal a pattern connected to the storys deeper meaning"], answer:3}
+   ]},
+  {subject:"Math", title:"Measurement: Same Perimeter, Different Area — Exploring Rectangles", summary:"Grade 5 Math strand: two rectangles can have the same perimeter but different areas, showing that perimeter and area measure different things and do not always change together.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"Can two rectangles have the same perimeter but different areas?", options:["Only if both rectangles are squares","Yes, changing the shape while keeping the perimeter the same can change the area","No, rectangles with the same perimeter always have the same area","This is impossible for any pair of rectangles"], answer:1},
+     {q:"A rectangle with sides 2 and 8 has a perimeter of 20. What is its area?", options:["32 square units","20 square units","16 square units","10 square units"], answer:2},
+     {q:"A rectangle with sides 5 and 5 also has a perimeter of 20. What is its area?", options:["25 square units","10 square units","20 square units","16 square units"], answer:0},
+     {q:"Comparing the two rectangles above, what do you notice?", options:["Equal perimeters can still produce different areas","Neither rectangle actually has a perimeter of 20","Area and perimeter are always exactly the same number","Equal perimeters always produce equal areas"], answer:0},
+     {q:"Why is it useful to understand that perimeter and area measure different things?", options:["Area can never be calculated once perimeter is known","This concept has no connection to measurement","Perimeter and area always increase or decrease together","It helps avoid assuming that a larger perimeter always means a larger area"], answer:3}
+   ]},
+  {subject:"Science", title:"Rusting and Corrosion — A Common Chemical Change", summary:"Grade 5 Science strand: rusting is a chemical change that occurs when iron reacts with oxygen and moisture in the air, gradually forming a reddish-brown substance called rust that weakens the metal.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is rusting?", options:["A type of change that always requires heat from fire","A chemical change that occurs when iron reacts with oxygen and moisture","A physical change that only affects the shape of an object","A process that only happens to wood"], answer:1},
+     {q:"What two things does iron react with to form rust?", options:["Electricity and glass","Heat and salt water only","Sunlight and sand","Oxygen and moisture"], answer:3},
+     {q:"What colour is rust typically?", options:["Reddish-brown","Deep purple","Bright blue","Pure white"], answer:0},
+     {q:"Why is rusting considered a chemical change rather than a physical change?", options:["Rusting never actually changes the properties of a material","Rusting is identical to melting or freezing","Chemical changes never involve forming a new substance","A new substance, rust, forms that has different properties from the original iron"], answer:3},
+     {q:"Why might people try to prevent metal objects from rusting?", options:["Rust always makes metal objects stronger","This concept has no relevance to science","Preventing rust has no benefit at all","Rust can weaken metal and damage its structure over time"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"How Government Budgets Are Planned and Passed", summary:"Grade 5 Social Studies strand: a government budget outlines planned spending and expected revenue for the year, and it must typically be proposed, debated, and approved before it can take effect.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does a government budget outline?", options:["Planned spending and expected revenue for the year","The names of every citizen in the country","The exact weather forecast for the year","A list of every book in a library"], answer:0},
+     {q:"What usually happens to a budget before it can take effect?", options:["It must be proposed, debated, and approved","It is decided by a single citizen chosen at random","It is automatically approved with no discussion","It never requires any kind of approval"], answer:0},
+     {q:"Why might elected officials debate a proposed budget?", options:["To discuss whether the planned spending reflects the needs and priorities of citizens","Budgets are never discussed before being passed","Debating a budget serves no purpose at all","This concept has no connection to government"], answer:0},
+     {q:"What might happen if a government spends more money than it collects in revenue?", options:["The government always has extra money left over","This concept has no relevance to social studies","Overspending never has any effect on a government","It may need to borrow money, leading to a budget deficit"], answer:3},
+     {q:"Why is planning a budget an important responsibility of government?", options:["It helps ensure public money is used responsibly to meet the needs of citizens","Budgets have no connection to how a government functions","This concept has no relevance to social studies","A government never needs to plan how it spends money"], answer:0}
+   ]},
+]},
+{day:146, label:"Day 146 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Using Ellipses and Em Dashes", summary:"Grade 5 Language strand: an ellipsis, three dots, shows a pause, trailing thought, or omitted words, while an em dash marks a sudden break or emphasizes extra information in a sentence.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does an ellipsis usually show in a sentence?", options:["The end of a formal letter","A question being asked","A pause, trailing thought, or omitted words","A list of exactly three items"], answer:2},
+     {q:"How many dots make up an ellipsis?", options:["Four","One","Two","Three"], answer:3},
+     {q:"What can an em dash be used for in a sentence?", options:["To mark a sudden break or emphasize extra information","To replace all commas in a text","To end every sentence in a paragraph","To show that a word is misspelled"], answer:0},
+     {q:"Which sentence correctly uses an em dash to add emphasis?", options:["The trip — long and exhausting — finally ended.","The, trip, long and exhausting finally ended.","The trip long and exhausting finally, ended.","The trip, long, and, exhausting, finally ended."], answer:0},
+     {q:"Why might a writer choose an ellipsis instead of finishing a sentence completely?", options:["To show hesitation, suspense, or an unfinished thought","This concept has no connection to grammar","An ellipsis is required at the end of every sentence","An ellipsis always completes every idea fully"], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Comparing Interest Rates and Choosing a Savings Account", summary:"Grade 5 Math strand: an interest rate shows how much extra money a savings account earns over time, and comparing rates from different accounts can help someone decide where their savings will grow the most.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does an interest rate tell you about a savings account?", options:["The colour of the bank card","The exact date the account was opened","The number of transactions allowed per day","How much extra money the account earns over time"], answer:3},
+     {q:"If Account A offers 2 percent interest and Account B offers 4 percent interest, which account will generally grow savings faster?", options:["They will grow at exactly the same rate","Account B","Account A","Neither account can ever earn any interest"], answer:1},
+     {q:"Why might someone compare interest rates before opening a savings account?", options:["Interest rates are always identical at every bank","Comparing rates has no effect on savings","To choose the account that will help their money grow the most over time","This concept has no connection to financial literacy"], answer:2},
+     {q:"If you save 100 dollars in an account with 5 percent interest for one year, about how much interest would you earn?", options:["50 dollars","5 dollars","10 dollars","1 dollar"], answer:1},
+     {q:"Besides the interest rate, what else might be important to consider when choosing a savings account?", options:["The interest rate is the only factor that ever matters","This concept has no relevance to financial literacy","Fees or rules the bank may charge or require","The account colour available at the bank"], answer:2}
+   ]},
+  {subject:"Science", title:"Adaptations for Flight — How Birds and Insects Take to the Air", summary:"Grade 5 Science strand: birds and insects have special adaptations for flight, such as lightweight bodies, wings shaped to create lift, and strong muscles, that allow them to move efficiently through the air.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is one adaptation that helps birds fly?", options:["An inability to flap their wings","Extremely heavy, solid bones","Bodies that cannot move at all","Lightweight, hollow bones"], answer:3},
+     {q:"How are bird and insect wings generally shaped to help with flight?", options:["Shaped only to block sunlight","Shaped so that no air can pass around them at all","Shaped to help create lift as air moves over and under them","Shaped exactly like a flat rectangle with no curve"], answer:2},
+     {q:"What kind of muscles do flying animals typically need?", options:["No muscles are needed for flight","Strong muscles to power their wings","Muscles that never contract or move","Only muscles located in their legs"], answer:1},
+     {q:"Why might a lightweight body be an advantage for a flying animal?", options:["This concept has no relevance to science","Less weight makes it easier to become airborne and stay in the air","Body weight has no connection to flight","A heavier body always makes flying easier"], answer:1},
+     {q:"Why do insects and birds both have adaptations suited to flight, even though they are very different animals?", options:["This concept has no connection to living things","Adaptations for flight only apply to birds, never insects","Both types of animals evolved features that help them succeed in a similar environment, the air","Insects and birds share the exact same body structure"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Referendums — Direct Democracy in Canada", summary:"Grade 5 Social Studies strand: a referendum is a direct vote in which citizens decide on a specific question or issue, rather than electing a representative to decide on their behalf.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is a referendum?", options:["A type of criminal court trial","A private meeting held only by government officials","A direct vote in which citizens decide on a specific question or issue","An election to choose a new Prime Minister"], answer:2},
+     {q:"How is a referendum different from a typical election?", options:["In a referendum, citizens vote directly on an issue rather than electing a representative","A referendum and an election are always exactly the same thing","A referendum never involves any voting at all","Only elected officials are allowed to vote in a referendum"], answer:0},
+     {q:"What might a referendum ask citizens to decide?", options:["A specific question, such as whether to approve a new law or policy","The winner of a sports championship","The weather forecast for the next election","A private business decision"], answer:0},
+     {q:"Why might a government hold a referendum on an important issue?", options:["This concept has no connection to social studies","To directly involve citizens in a major decision affecting their community or country","A referendum removes the need for citizens to vote at all","Referendums are never used to gather public opinion"], answer:1},
+     {q:"Why is a referendum considered an example of direct democracy?", options:["Direct democracy means only one person makes every decision","This concept has no relevance to Canadian government","Citizens vote directly on the issue itself instead of through a representative","A referendum always cancels the need for any government"], answer:2}
+   ]},
+]},
+{day:147, label:"Day 147 — Tue", subjects:[
+  {subject:"Language", title:"Media Literacy: Understanding Sponsored Content and Advertising Disclosures", summary:"Grade 5 Language strand: sponsored content is material paid for by a company or organization to promote a product or message, and it is often required to include a disclosure so readers know it is an advertisement.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is sponsored content?", options:["A completely unbiased news report with no sponsor","A story written entirely by a random reader","A government safety announcement","Material paid for by a company or organization to promote a product or message"], answer:3},
+     {q:"What is the purpose of an advertising disclosure?", options:["To replace the need for real information","To hide the fact that content is paid for","To make an advertisement look like a private diary entry","To let readers know that content is actually an advertisement"], answer:3},
+     {q:"Why might a company pay for sponsored content instead of a traditional advertisement?", options:["Companies never pay for content of any kind","Sponsored content is always clearly separated from all other content","This concept has no connection to media literacy","It can blend more naturally into regular articles or posts, reaching readers in a different way"], answer:3},
+     {q:"Why is it important for readers to notice a sponsored content label?", options:["This concept has no relevance to media literacy","Labels on sponsored content never provide any useful information","It helps readers understand that the content may be biased toward promoting a product","Sponsored content is always completely neutral"], answer:2},
+     {q:"Which of these is most likely a sign of sponsored content?", options:["A dateline showing when a news event occurred","A label reading Promoted or Paid Partnership next to an article","A correction printed at the bottom of an article","A byline listing a professional news reporter"], answer:1}
+   ]},
+  {subject:"Math", title:"Data Management: Choosing the Most Appropriate Type of Graph for a Data Set", summary:"Grade 5 Math strand: different types of graphs, such as bar graphs, line graphs, and circle graphs, are each best suited to displaying certain kinds of data, so choosing the right graph makes information clearer.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"Why might different graphs be better suited to different kinds of data?", options:["This concept has no connection to data management","Only one type of graph exists for any kind of data","Each type of graph highlights a data set in a different, more effective way","All graphs display every kind of data in exactly the same way"], answer:2},
+     {q:"Which type of graph is generally best for showing change over time?", options:["A circle graph","A line graph","A list with no visual display","A single bar with no scale"], answer:1},
+     {q:"Which type of graph is generally best for comparing parts of a whole as percentages?", options:["A number line","A scatter plot","A line graph","A circle graph"], answer:3},
+     {q:"Which type of graph is generally best for comparing separate categories, such as favourite fruits?", options:["A Venn diagram only","A line graph showing change over time","A bar graph","A circle graph only"], answer:2},
+     {q:"Why might choosing the wrong type of graph make data harder to understand?", options:["The chosen graph may not clearly highlight the patterns or comparisons in the data","Every type of graph always communicates data equally well","This concept has no relevance to data management","The type of graph never affects how clear the data appears"], answer:0}
+   ]},
+  {subject:"Science", title:"Earthquakes — Causes and Measuring Magnitude", summary:"Grade 5 Science strand: an earthquake occurs when built-up stress along a fault in Earths crust is suddenly released, and scientists measure the strength of an earthquake using a magnitude scale.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What causes an earthquake?", options:["Built-up stress along a fault being suddenly released","A sudden drop in air temperature","The Moon passing in front of the Sun","Ocean waves crashing onto the shore"], answer:0},
+     {q:"What is a fault in Earths crust?", options:["A layer of the atmosphere","A kind of ocean current","A crack or fracture where rock has moved or may move","A type of cloud formation"], answer:2},
+     {q:"What do scientists use to measure the strength of an earthquake?", options:["A wind vane","A magnitude scale","A rain gauge","A thermometer"], answer:1},
+     {q:"Why might a higher magnitude earthquake cause more damage than a lower magnitude one?", options:["This concept has no relevance to Earth science","A higher magnitude generally releases more energy, causing stronger shaking","Lower magnitude earthquakes always cause more damage","Magnitude has no connection to the strength of shaking"], answer:1},
+     {q:"Why do scientists study earthquakes and their causes?", options:["Earthquakes cannot be measured or studied in any way","Studying earthquakes provides no useful information","This concept has no connection to science","To better understand and prepare for the risks earthquakes pose to people and buildings"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"The Fathers of Confederation", summary:"Grade 5 Social Studies strand: the Fathers of Confederation were the political leaders who worked together in the 1860s to negotiate and establish the union of provinces that became Canada in 1867.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Who were the Fathers of Confederation?", options:["The political leaders who negotiated and established the union that became Canada","A group of early explorers who mapped Canada","A group of modern-day Canadian athletes","The first monarchs to rule over Canada"], answer:0},
+     {q:"In what decade did the Fathers of Confederation do most of their negotiating?", options:["The 1700s","The 1990s","The 1930s","The 1860s"], answer:3},
+     {q:"What major event did the work of the Fathers of Confederation lead to?", options:["The start of the Second World War","The formation of Canada in 1867","The signing of the Charter of Rights and Freedoms","The building of the Canadian Pacific Railway"], answer:1},
+     {q:"Why might representatives from different colonies have needed to negotiate before Confederation could happen?", options:["Negotiation was never necessary to form Canada","Each colony had its own interests and concerns that needed to be addressed","This concept has no connection to Canadian history","All colonies always agreed on everything without any discussion"], answer:1},
+     {q:"Why do Canadians still study the Fathers of Confederation today?", options:["Their decisions helped shape the foundation of the country and its government","Their work has no connection to modern Canada","Confederation happened without any planning or leadership","This concept has no relevance to social studies"], answer:0}
+   ]},
+]},
+{day:148, label:"Day 148 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Reflective Journal Entry", summary:"Grade 5 Language strand: a reflective journal entry describes a personal experience and explores the writers thoughts, feelings, and what they learned from it.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does a reflective journal entry mainly explore?", options:["Only the weather on a given day","A list of unrelated facts","The writers thoughts, feelings, and what they learned from an experience","A formal scientific procedure"], answer:2},
+     {q:"Which of these is most likely found in a reflective journal entry?", options:["Step-by-step instructions for building something","A formal business proposal","A list of ingredients for a recipe","A description of what the writer learned from a personal experience"], answer:3},
+     {q:"Why might a writer include their feelings in a reflective journal entry?", options:["A reflective entry must avoid all personal opinions","Feelings are never relevant to reflective writing","Feelings help show how the experience personally affected the writer","This concept has no connection to writing"], answer:2},
+     {q:"What is one benefit of writing reflective journal entries regularly?", options:["This concept has no relevance to language arts","Regular writing always weakens a writers thinking skills","It can help a writer notice patterns in their thoughts and personal growth over time","Reflective writing never helps a person understand themselves"], answer:2},
+     {q:"How is a reflective journal entry different from a procedural How-To text?", options:["A reflective entry always gives step-by-step instructions","A reflective entry explores personal thoughts and feelings rather than giving step-by-step instructions","The two types of writing are identical in purpose","A reflective entry never includes any personal thoughts"], answer:1}
+   ]},
+  {subject:"Math", title:"Geometry: Sum of Interior Angles in Triangles and Quadrilaterals", summary:"Grade 5 Math strand: the interior angles of any triangle always add up to 180 degrees, and the interior angles of any quadrilateral always add up to 360 degrees.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What do the interior angles of any triangle always add up to?", options:["90 degrees","270 degrees","180 degrees","360 degrees"], answer:2},
+     {q:"What do the interior angles of any quadrilateral always add up to?", options:["180 degrees","360 degrees","450 degrees","90 degrees"], answer:1},
+     {q:"A triangle has angles measuring 60 degrees and 70 degrees. What is the measure of the third angle?", options:["40 degrees","50 degrees","60 degrees","70 degrees"], answer:1},
+     {q:"A quadrilateral has three angles measuring 90, 90, and 90 degrees. What is the measure of the fourth angle?", options:["80 degrees","100 degrees","180 degrees","90 degrees"], answer:3},
+     {q:"Why is knowing the interior angle sum of a triangle useful?", options:["The interior angle sum of a triangle changes with every triangle","It lets you find a missing angle when the other two angles are known","This concept has no connection to angles","It has no use when solving geometry problems"], answer:1}
+   ]},
+  {subject:"Science", title:"The Process of Distillation — Separating Mixtures", summary:"Grade 5 Science strand: distillation is a method of separating a mixture by heating it until part of it evaporates, then cooling the vapour so it condenses back into a liquid, leaving other substances behind.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is distillation?", options:["A method of freezing an entire mixture solid","A method of separating a mixture by evaporating and then condensing part of it","A method that only works on solid objects","A method of adding more substances to a mixture"], answer:1},
+     {q:"What happens first during distillation?", options:["Part of the mixture is heated until it evaporates","The mixture is buried underground","The mixture is exposed to strong magnets","The entire mixture instantly freezes"], answer:0},
+     {q:"What happens to the vapour produced during distillation?", options:["It turns directly into a solid without cooling","It disappears completely and is never seen again","It is cooled so it condenses back into a liquid","It is ignored for the rest of the process"], answer:2},
+     {q:"Why is distillation a useful way to separate a mixture, such as salt water?", options:["Distillation only works on mixtures of two solids","This concept has no connection to science","Distillation never actually separates any substances","It can separate substances with different boiling points, leaving one behind"], answer:3},
+     {q:"Why might distillation be used to help purify drinking water?", options:["This concept has no relevance to science","Distillation cannot be used with water at all","It can help remove certain dissolved substances from water","Distillation always makes water less safe to drink"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"School Boards and Trustees — Local Education Governance", summary:"Grade 5 Social Studies strand: a school board is a locally elected body responsible for overseeing public schools in a region, and trustees are the elected members who help make decisions about education in their community.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is a school board responsible for?", options:["Managing a countrys national defence","Printing national currency","Running the federal government","Overseeing public schools in a region"], answer:3},
+     {q:"What is a trustee?", options:["A judge in a criminal court","A member of the Senate","A leader of a national political party","An elected member who helps make decisions about education in their community"], answer:3},
+     {q:"How do most trustees become part of a school board?", options:["They inherit the position from a family member","They are chosen randomly with no vote","They are appointed by a foreign government","They are elected by voters in their local area"], answer:3},
+     {q:"What kinds of decisions might a school board make?", options:["Decisions about school budgets, programs, and policies","Decisions about national holidays","Decisions about international trade agreements","Decisions about provincial court cases"], answer:0},
+     {q:"Why is local governance of education, such as through school boards, considered important?", options:["It allows decisions about schools to reflect the needs of the local community","This concept has no connection to social studies","Local governance of education has no benefit to communities","School boards are never involved in decisions about education"], answer:0}
+   ]},
+]},
+{day:149, label:"Day 149 — Thu", subjects:[
+  {subject:"Language", title:"Oral Communication: Giving and Receiving Constructive Feedback", summary:"Grade 5 Language strand: constructive feedback offers specific, respectful suggestions to help someone improve their work, focusing on both strengths and areas for growth.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is constructive feedback?", options:["A response that ignores the persons work entirely","Specific, respectful suggestions that help someone improve their work","Feedback that only criticizes without any suggestions","Feedback given without ever listening to the speaker"], answer:1},
+     {q:"What should constructive feedback usually include?", options:["Only negative comments","A completely unrelated topic","Both strengths and areas for growth","Only compliments with no suggestions"], answer:2},
+     {q:"Why is it helpful to be specific when giving feedback?", options:["Vague feedback is always more helpful than specific feedback","This concept has no connection to oral communication","Specific feedback always discourages the listener","Specific feedback helps the person understand exactly what to improve"], answer:3},
+     {q:"How should a person typically respond when receiving feedback?", options:["By arguing with every comment immediately","By listening carefully and considering the suggestions respectfully","By ignoring the feedback completely","By refusing to make eye contact with the speaker"], answer:1},
+     {q:"Why might giving feedback in a respectful tone matter?", options:["A harsh tone always leads to the best results","A respectful tone helps the listener feel comfortable and open to improving","Tone never affects how feedback is received","This concept has no relevance to communication"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Dividing Decimals by Two-Digit Whole Numbers", summary:"Grade 5 Math strand: dividing a decimal by a two-digit whole number follows the same steps as whole number division, keeping careful track of the decimal point in the quotient.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"When dividing a decimal by a whole number, what must you keep careful track of?", options:["The placement of the decimal point in the quotient","The number of letters in the problem","The order the numbers were written in the problem","The colour of the numbers"], answer:0},
+     {q:"What is 8.4 divided by 12?", options:["0.7","7","70","0.07"], answer:0},
+     {q:"What is 39.6 divided by 12?", options:["330","33","0.33","3.3"], answer:3},
+     {q:"Why might it help to estimate before dividing a decimal by a two-digit number?", options:["This concept has no connection to number sense","Estimating always gives the exact same value as the real answer","Estimation is never useful when dividing decimals","Estimating gives a reasonable target to check your final answer against"], answer:3},
+     {q:"What is 15.5 divided by 5?", options:["31","3.5","2.1","3.1"], answer:3}
+   ]},
+  {subject:"Science", title:"Herbivores, Carnivores, and Omnivores — Comparing Diets", summary:"Grade 5 Science strand: animals can be classified by diet as herbivores, which eat only plants, carnivores, which eat only other animals, or omnivores, which eat both plants and animals.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does a herbivore eat?", options:["Only plants","Nothing at all","Both plants and animals","Only other animals"], answer:0},
+     {q:"What does a carnivore eat?", options:["Only other animals","Only plants","Rocks and soil","Both plants and animals"], answer:0},
+     {q:"What does an omnivore eat?", options:["Neither plants nor animals","Only plants","Both plants and animals","Only other animals"], answer:2},
+     {q:"Which of these animals is most likely a carnivore?", options:["A deer","A lion","A cow","A rabbit"], answer:1},
+     {q:"Why might an animals teeth shape give a clue about its diet?", options:["Sharp teeth often suit eating meat, while flatter teeth often suit grinding plants","All animals have exactly the same teeth regardless of diet","Teeth shape never has any connection to what an animal eats","This concept has no relevance to life science"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Interest Groups and Lobbying in Canadian Politics", summary:"Grade 5 Social Studies strand: an interest group is an organization that tries to influence government decisions on a specific issue, often through lobbying, which means directly encouraging lawmakers to support their cause.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is an interest group?", options:["A type of national election","An organization that tries to influence government decisions on a specific issue","A group that has no opinion on any issue","A branch of the federal court system"], answer:1},
+     {q:"What does lobbying involve?", options:["Writing a new national anthem","Running in a federal election","Refusing to communicate with any government official","Directly encouraging lawmakers to support a particular cause"], answer:3},
+     {q:"What might an interest group focus on, such as an environmental organization?", options:["Running a public school system","Encouraging government action on a specific issue, like protecting the environment","Managing a countrys currency","Selling unrelated products to the public"], answer:1},
+     {q:"Why might interest groups try to communicate with elected officials?", options:["This concept has no connection to social studies","To share information and try to influence decisions that affect their cause","Elected officials never listen to any outside opinions","Interest groups are never allowed to contact elected officials"], answer:1},
+     {q:"Why is it important for citizens to understand how interest groups and lobbying work?", options:["Lobbying is illegal in Canada and never takes place","This concept has no relevance to social studies","Interest groups have no effect on government decisions","It helps citizens understand different influences on government decision-making"], answer:3}
+   ]},
+]},
+{day:150, label:"Day 150 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Vocabulary, Grammar, Writing, and Oral Communication", summary:"Grade 5 Language strand review: students revisit oxymorons, colloquialisms and slang, choose-your-own-adventure stories, subject complements, and motif.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an oxymoron?", options:["A word borrowed from another language","A sentence with no verb","A word that rhymes with another word","A figure of speech that combines two contradictory or opposite words"], answer:3},
+     {q:"What is a colloquialism?", options:["A type of punctuation mark","A formal word used only in academic writing","A word with no meaning at all","An informal word or expression used in everyday casual speech"], answer:3},
+     {q:"What makes a choose-your-own-adventure story different from a typical story?", options:["It has only one possible ending","It contains no characters at all","The reader makes decisions that lead to different paths and endings","It must be written in poem form"], answer:2},
+     {q:"What does a subject complement do?", options:["It only appears at the start of a sentence","It follows a linking verb and renames or describes the subject","It always shows an action taking place","It replaces the subject entirely"], answer:1},
+     {q:"What is a motif?", options:["The title of a story","A list of characters in a story","An image, idea, or symbol that repeats throughout a story","A single event that happens only once"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Data, Symmetry, Algebra, and Decimals", summary:"Grade 5 Math strand review: students revisit Venn diagrams, rotational symmetry, multiplying three-digit by two-digit numbers, function machines, and same perimeter/different area.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a Venn diagram use to sort and compare data?", options:["A single straight line","A list with no visual shapes","A pie-shaped wedge only","Overlapping circles"], answer:3},
+     {q:"What is rotational symmetry?", options:["When a shape can only be folded in half to match","When a shape can be turned less than a full circle and still look the same","When a shape has straight sides only","When a shape has no symmetry of any kind"], answer:1},
+     {q:"What is one strategy for multiplying a three-digit number by a two-digit number?", options:["Dividing both numbers before multiplying","Ignoring the tens digit of the two-digit number","Only multiplying the ones digits of each number","Breaking the two-digit number into tens and ones and adding the partial products"], answer:3},
+     {q:"What does a function machine do to an input number?", options:["It only works with letters, never numbers","It applies a rule to produce an output number","It always leaves the number completely unchanged","It deletes the number entirely"], answer:1},
+     {q:"Can two rectangles have the same perimeter but different areas?", options:["Yes, changing the shape while keeping the perimeter the same can change the area","Only if both rectangles are squares","No, rectangles with the same perimeter always have the same area","This is impossible for any pair of rectangles"], answer:0}
+   ]},
+  {subject:"Science", title:"Science Review: Earth Science, Physical Science, and Living Things", summary:"Grade 5 Science strand review: students revisit mineral properties, ocean currents, the four forces of flight, tidal and wave power, and rusting.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What does the hardness of a mineral measure?", options:["Its ability to conduct electricity only","Its temperature at all times","Its resistance to being scratched","Its exact weight in grams"], answer:2},
+     {q:"What is an ocean current?", options:["A sudden storm at sea","A large-scale movement of water through the ocean","A type of underwater mountain","A small wave near the shore"], answer:1},
+     {q:"Which force pushes an airplane upward, allowing it to fly?", options:["Weight","Thrust","Lift","Drag"], answer:2},
+     {q:"What does tidal power capture energy from?", options:["The rise and fall of ocean tides","The heat of the Sun","The wind blowing over land","Underground heat from the Earth"], answer:0},
+     {q:"What is rusting?", options:["A type of change that always requires heat from fire","A process that only happens to wood","A chemical change that occurs when iron reacts with oxygen and moisture","A physical change that only affects the shape of an object"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Parks, Government, and Canadian History", summary:"Grade 5 Social Studies strand review: students revisit national parks, political parties, Crown land, the Canadian Armed Forces, and government budgets.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the purpose of a national park?", options:["To sell natural resources as quickly as possible","To build as many new roads as possible","To protect wildlife, ecosystems, and landscapes for future generations","To prevent anyone from ever visiting the area"], answer:2},
+     {q:"What is a political party?", options:["A group of people who share similar ideas about how government should be run","A type of national holiday","A single elected official with no supporters","A branch of the court system"], answer:0},
+     {q:"What is Crown land?", options:["Land that no one is allowed to use for any purpose","Public land owned by the federal or provincial government","Land that belongs to a foreign country","Land owned only by private individuals"], answer:1},
+     {q:"What are the three main branches of the Canadian Armed Forces?", options:["The Army, Navy, and Air Force","The Federal, Provincial, and Municipal governments","The Police, Fire Department, and Coast Guard","The Senate, House of Commons, and Courts"], answer:0},
+     {q:"What does a government budget outline?", options:["Planned spending and expected revenue for the year","The names of every citizen in the country","A list of every book in a library","The exact weather forecast for the year"], answer:0}
+   ]},
+]},
 ];
 
 export default curriculum;
