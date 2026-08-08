@@ -40594,5 +40594,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 141,
+    "label": "Day 141 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Blends: thr, squ, and spr",
+        "summary": "Grade 2 Language strand: three-letter consonant blends like thr, squ, and spr appear at the start of words such as three, squirrel, and spring.",
+        "resourceLabel": "YouTube: Blends: thr, squ, and spr",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Blends%3A%20thr%2C%20squ%2C%20and%20spr%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the thr blend?",
+            "options": [
+              "Three",
+              "Sun",
+              "Spring",
+              "Squirrel"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word begins with the squ blend?",
+            "options": [
+              "Three",
+              "Sit",
+              "Spring",
+              "Squirrel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word begins with the spr blend?",
+            "options": [
+              "Stop",
+              "Three",
+              "Spring",
+              "Squirrel"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many letters are in a three-letter blend like spr?",
+            "options": [
+              "Four",
+              "Five",
+              "Three",
+              "Two"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these words has a three-letter blend?",
+            "options": [
+              "Dog",
+              "Throw",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Long Division: Dividing Two-Digit Numbers by One-Digit Numbers",
+        "summary": "Grade 2 Math strand: students practise dividing a two-digit number by a one-digit number, sharing the total into equal groups.",
+        "resourceLabel": "YouTube: Long Division: Dividing Two-Digit Numbers by One-Digit Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Long%20Division%3A%20Dividing%20Two-Digit%20Numbers%20by%20One-Digit%20Numbers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 24 divided by 4?",
+            "options": [
+              "6",
+              "5",
+              "4",
+              "8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 36 divided by 6?",
+            "options": [
+              "4",
+              "5",
+              "6",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 42 divided by 7?",
+            "options": [
+              "8",
+              "7",
+              "5",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When we divide a two-digit number, we are sharing it into ___.",
+            "options": [
+              "Equal groups",
+              "One big group",
+              "Random groups",
+              "No groups"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 48 divided by 8?",
+            "options": [
+              "5",
+              "6",
+              "8",
+              "7"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Sense of Balance: The Inner Ear",
+        "summary": "Grade 2 Science strand: our sense of balance is controlled by a part deep inside our ear, helping us stand, walk, and stay steady without falling.",
+        "resourceLabel": "YouTube: Our Sense of Balance: The Inner Ear",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Sense%20of%20Balance%3A%20The%20Inner%20Ear%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What sense helps us stand and walk without falling?",
+            "options": [
+              "Sense of smell",
+              "Sense of taste",
+              "Sense of hearing",
+              "Sense of balance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where in our body is our sense of balance controlled?",
+            "options": [
+              "In our elbow",
+              "In our teeth",
+              "Deep inside our ear",
+              "In our hair"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which activity relies heavily on our sense of balance?",
+            "options": [
+              "Riding a bicycle",
+              "Tasting food",
+              "Smelling a flower",
+              "Listening to music"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Our sense of balance helps prevent us from ___.",
+            "options": [
+              "Falling over",
+              "Tasting food",
+              "Smelling things",
+              "Hearing sounds"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might spinning in circles make us feel dizzy?",
+            "options": [
+              "It makes our eyes change colour",
+              "It confuses the balance system in our inner ear",
+              "It stops our heart from beating",
+              "It has no effect on our body"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Senate: Another Part of Canadas Government",
+        "summary": "Grade 2 Social Studies strand: the Senate is part of Canadas government, made up of appointed senators who review and can suggest changes to new laws.",
+        "resourceLabel": "YouTube: Our Senate: Another Part of Canadas Government",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Senate%3A%20Another%20Part%20of%20Canadas%20Government%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Senate?",
+            "options": [
+              "A part of Canadas government",
+              "A city council",
+              "A sports league",
+              "A group that reviews new laws"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do people usually become senators, unlike members of Parliament?",
+            "options": [
+              "They inherit the position",
+              "They are appointed, not elected",
+              "They are elected by the public",
+              "They are chosen by a lottery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one job of the Senate?",
+            "options": [
+              "Coaching sports teams",
+              "Delivering mail",
+              "Running local schools",
+              "Reviewing and suggesting changes to new laws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Senate is part of which level of government?",
+            "options": [
+              "A single citys government",
+              "The federal government",
+              "A private business",
+              "A school government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might it be helpful to have more than one group review a new law?",
+            "options": [
+              "It has no benefit at all",
+              "It helps catch mistakes and improve the law",
+              "It removes the need for any laws",
+              "It slows down government for no reason"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 142,
+    "label": "Day 142 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Text Features: Timelines",
+        "summary": "Grade 2 Language strand: a timeline is a text feature that shows events in the order they happened, often with dates along a line.",
+        "resourceLabel": "YouTube: Text Features: Timelines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Timelines%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a timeline show?",
+            "options": [
+              "A map of a place",
+              "A recipe",
+              "Events in the order they happened",
+              "A list of characters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is often included along a timeline?",
+            "options": [
+              "Dates",
+              "Weather",
+              "Songs",
+              "Colours"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use a timeline in a nonfiction book?",
+            "options": [
+              "To confuse the reader",
+              "To make the book shorter with less detail",
+              "To help readers understand the order of events",
+              "To remove all the facts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A timeline usually reads from ___.",
+            "options": [
+              "Earliest to latest",
+              "Top to bottom only",
+              "Random order",
+              "Latest to earliest only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which subject might use a timeline to show important events?",
+            "options": [
+              "Singing",
+              "Colouring",
+              "Cooking only",
+              "History"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Adding Fractions with the Same Denominator",
+        "summary": "Grade 2 Math strand: to add fractions with the same denominator, we add the numerators together and keep the denominator the same.",
+        "resourceLabel": "YouTube: Fractions: Adding Fractions with the Same Denominator",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Adding%20Fractions%20with%20the%20Same%20Denominator%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 1/4 + 2/4?",
+            "options": [
+              "1/2",
+              "2/4",
+              "4/4",
+              "3/4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2/5 + 1/5?",
+            "options": [
+              "3/5",
+              "3/10",
+              "1/5",
+              "2/10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When adding fractions with the same denominator, what stays the same?",
+            "options": [
+              "Both numbers",
+              "The numerator",
+              "The denominator",
+              "Neither number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3/8 + 2/8?",
+            "options": [
+              "5/8",
+              "1/8",
+              "5/16",
+              "6/8"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 1/6 + 3/6?",
+            "options": [
+              "3/6",
+              "4/12",
+              "4/6",
+              "2/6"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Density: Why Some Things Float Higher Than Others",
+        "summary": "Grade 2 Science strand: density describes how tightly packed the matter in an object is, and it helps explain why some objects float higher or sink faster than others.",
+        "resourceLabel": "YouTube: Density: Why Some Things Float Higher Than Others",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Density%3A%20Why%20Some%20Things%20Float%20Higher%20Than%20Others%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does density describe?",
+            "options": [
+              "The colour of an object",
+              "The sound an object makes",
+              "How tightly packed matter is in an object",
+              "The taste of an object"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which object would likely have higher density, a rock or a feather of the same size?",
+            "options": [
+              "They are always equal",
+              "Neither has density",
+              "A rock",
+              "A feather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might one object float higher in water than another?",
+            "options": [
+              "It is a different colour",
+              "It has a higher density",
+              "It has a lower density",
+              "It makes more noise"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to an object with very high density when placed in water?",
+            "options": [
+              "It disappears",
+              "It is more likely to sink",
+              "It always floats on top",
+              "It changes colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Understanding density helps scientists explain why ships made of metal can still ___.",
+            "options": [
+              "Float",
+              "Disappear",
+              "Change shape",
+              "Sink immediately"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Order of Canada: Honouring Outstanding Canadians",
+        "summary": "Grade 2 Social Studies strand: the Order of Canada is a special honour given to Canadians who have made an outstanding contribution to their community or country.",
+        "resourceLabel": "YouTube: The Order of Canada: Honouring Outstanding Canadians",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Order%20of%20Canada%3A%20Honouring%20Outstanding%20Canadians%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Order of Canada?",
+            "options": [
+              "A type of holiday",
+              "A kind of coin",
+              "A sports league",
+              "A special honour for outstanding Canadians"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who might receive the Order of Canada?",
+            "options": [
+              "Someone who made an outstanding contribution",
+              "Only politicians",
+              "Anyone chosen at random",
+              "Only professional athletes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does Canada give out this kind of honour?",
+            "options": [
+              "It has no purpose",
+              "To recognize people who have helped their community or country",
+              "To give away free prizes",
+              "To replace elections"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The Order of Canada could be given to someone who worked in ___.",
+            "options": [
+              "Only professional sports",
+              "Many different fields, like science or the arts",
+              "No particular field",
+              "Only one specific job"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Recognizing outstanding Canadians can help inspire others to ___.",
+            "options": [
+              "Avoid working hard",
+              "Ignore their community",
+              "Make a positive difference too",
+              "Stop trying to help others"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 143,
+    "label": "Day 143 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing an Invitation: Sharing Details Clearly",
+        "summary": "Grade 2 Language strand: an invitation shares important details about an event, like the date, time, and place, so people know how to join.",
+        "resourceLabel": "YouTube: Writing an Invitation: Sharing Details Clearly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20an%20Invitation%3A%20Sharing%20Details%20Clearly%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the purpose of an invitation?",
+            "options": [
+              "To tell a made-up story",
+              "To list facts about animals",
+              "To give a weather report",
+              "To share details about an event"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which detail should always be included in an invitation?",
+            "options": [
+              "A grocery list",
+              "The date and time of the event",
+              "A random riddle",
+              "A weather forecast"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for an invitation to be clear?",
+            "options": [
+              "So people know exactly how to join the event",
+              "To make the event a surprise from everyone",
+              "Clarity does not matter for invitations",
+              "To confuse the reader on purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might also appear on an invitation?",
+            "options": [
+              "A weather forecast for another country",
+              "A math equation",
+              "The location of the event",
+              "A recipe for soup"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An invitation is an example of writing that is meant to ___.",
+            "options": [
+              "Describe a scientific process",
+              "Entertain with a made-up story",
+              "Inform people about an event",
+              "Persuade someone to buy something"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Stem-and-Leaf Plots",
+        "summary": "Grade 2 Math strand: a stem-and-leaf plot organizes numbers by splitting each one into a stem, the larger digits, and a leaf, the last digit.",
+        "resourceLabel": "YouTube: Data: Stem-and-Leaf Plots",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Stem-and-Leaf%20Plots%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a stem-and-leaf plot organize?",
+            "options": [
+              "Numbers, split into stems and leaves",
+              "Letters",
+              "Colours",
+              "Shapes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the number 23, what would the stem usually be?",
+            "options": [
+              "3",
+              "2",
+              "0",
+              "23"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the number 23, what would the leaf usually be?",
+            "options": [
+              "0",
+              "3",
+              "23",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might we use a stem-and-leaf plot instead of a list of numbers?",
+            "options": [
+              "It only works with letters",
+              "It helps organize data so it is easier to read",
+              "It removes the need for numbers",
+              "It hides the numbers completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A stem-and-leaf plot is a way to organize and display ___.",
+            "options": [
+              "Weather patterns",
+              "Data",
+              "Colours",
+              "Story characters"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Nuclear Energy: Power from Atoms",
+        "summary": "Grade 2 Science strand: nuclear energy is a powerful form of energy that comes from splitting tiny particles called atoms, and it can be used to make electricity.",
+        "resourceLabel": "YouTube: Nuclear Energy: Power from Atoms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Nuclear%20Energy%3A%20Power%20from%20Atoms%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does nuclear energy come from?",
+            "options": [
+              "Burning wood",
+              "Wind blowing",
+              "Splitting tiny particles called atoms",
+              "Sunlight only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can nuclear energy be used to make?",
+            "options": [
+              "Rain",
+              "Electricity",
+              "Rocks",
+              "Wind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the tiny particles split to release nuclear energy called?",
+            "options": [
+              "Rocks",
+              "Atoms",
+              "Molecules of water only",
+              "Cells"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Nuclear energy is considered a powerful source of ___.",
+            "options": [
+              "Water",
+              "Food",
+              "Energy",
+              "Sound"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists and engineers need to be very careful when working with nuclear energy?",
+            "options": [
+              "Because it is a very powerful form of energy",
+              "Because it only works on cloudy days",
+              "Because it is the same as solar energy",
+              "Because it has no power at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our School Board: Supporting Many Schools",
+        "summary": "Grade 2 Social Studies strand: a school board oversees many schools in an area, helping make decisions about education for a whole region.",
+        "resourceLabel": "YouTube: Our School Board: Supporting Many Schools",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Board%3A%20Supporting%20Many%20Schools%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a school board oversee?",
+            "options": [
+              "Only school buses",
+              "Only sports teams",
+              "Just one single classroom",
+              "Many schools in an area"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does a school board oversee just one school or many schools?",
+            "options": [
+              "Only private homes",
+              "Just one school",
+              "No schools at all",
+              "Many schools"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a school board an important part of education?",
+            "options": [
+              "It replaces teachers completely",
+              "It helps make decisions that support many schools",
+              "It only decides lunch menus",
+              "It has no role in education"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might a school board help decide?",
+            "options": [
+              "How schools in the area are run",
+              "Personal weekend plans for families",
+              "The colour of every students shoes",
+              "What every student eats for breakfast at home"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A school board works to support ___ across a region.",
+            "options": [
+              "Only sports",
+              "Only art class",
+              "Education",
+              "Nothing important"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 144,
+    "label": "Day 144 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Persuasive Techniques: Loaded Words and Bandwagon Appeals",
+        "summary": "Grade 2 Language strand: persuasive writers sometimes use loaded words, which carry strong feelings, or bandwagon appeals, which suggest everyone else agrees, to convince readers.",
+        "resourceLabel": "YouTube: Persuasive Techniques: Loaded Words and Bandwagon Appeals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Persuasive%20Techniques%3A%20Loaded%20Words%20and%20Bandwagon%20Appeals%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are loaded words?",
+            "options": [
+              "Words that carry strong feelings",
+              "Words that rhyme",
+              "Words that are always true",
+              "Words with no meaning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a bandwagon appeal?",
+            "options": [
+              "A type of song",
+              "A math strategy",
+              "A type of vehicle",
+              "Suggesting everyone else agrees, so you should too"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use these persuasive techniques?",
+            "options": [
+              "To confuse the reader on purpose",
+              "To avoid persuading anyone",
+              "To try to convince readers to agree with them",
+              "To share only true facts with no opinion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a bandwagon appeal?",
+            "options": [
+              "The sky is blue",
+              "Two plus two equals four",
+              "Water freezes at zero degrees",
+              "Everyone is choosing this, so you should too"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Recognizing persuasive techniques helps readers think ___ about what they read.",
+            "options": [
+              "Only about the title",
+              "Without any thought",
+              "Carefully and critically",
+              "Only about the pictures"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Triangles by Sides and Angles",
+        "summary": "Grade 2 Math strand: triangles can be classified by their sides, like equilateral or scalene, or by their angles, like right or obtuse.",
+        "resourceLabel": "YouTube: Geometry: Classifying Triangles by Sides and Angles",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Classifying%20Triangles%20by%20Sides%20and%20Angles%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a triangle with three equal sides called?",
+            "options": [
+              "Isosceles",
+              "Obtuse",
+              "Equilateral",
+              "Scalene"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a triangle with no equal sides called?",
+            "options": [
+              "Scalene",
+              "Isosceles",
+              "Equilateral",
+              "Right"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a triangle with one 90 degree angle called?",
+            "options": [
+              "An equilateral triangle",
+              "An obtuse triangle",
+              "A scalene triangle",
+              "A right triangle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many sides does every triangle have?",
+            "options": [
+              "4",
+              "2",
+              "3",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Classifying shapes by their sides and angles helps us understand their ___.",
+            "options": [
+              "Weight",
+              "Colour",
+              "Smell",
+              "Properties"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Animal Tracks: Reading Footprints in Snow and Mud",
+        "summary": "Grade 2 Science strand: many animals leave tracks, or footprints, in snow or mud, and scientists can study the shape and pattern of tracks to identify which animal made them.",
+        "resourceLabel": "YouTube: Animal Tracks: Reading Footprints in Snow and Mud",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Animal%20Tracks%3A%20Reading%20Footprints%20in%20Snow%20and%20Mud%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are animal tracks?",
+            "options": [
+              "Footprints animals leave behind",
+              "A sound animals make",
+              "A type of animal food",
+              "A kind of nest"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where can animal tracks often be seen most clearly?",
+            "options": [
+              "In the middle of the ocean",
+              "On a sunny sidewalk",
+              "In snow or soft mud",
+              "In the sky"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can scientists use the shape of a track?",
+            "options": [
+              "To tell the animals favourite colour",
+              "To predict the weather",
+              "To calculate the animals age exactly",
+              "To help identify which animal made it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might leave visible tracks in snow?",
+            "options": [
+              "A whale",
+              "A goldfish",
+              "A rabbit",
+              "A jellyfish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Studying animal tracks is one way scientists learn about animals without ___.",
+            "options": [
+              "Any effort at all",
+              "Using their eyes",
+              "Leaving their home",
+              "Seeing the animal directly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "World Currency: Comparing Money From Different Countries",
+        "summary": "Grade 2 Social Studies strand: different countries use different kinds of money, called currency, and comparing currencies helps us understand how trade and travel work around the world.",
+        "resourceLabel": "YouTube: World Currency: Comparing Money From Different Countries",
+        "resourceUrl": "https://www.youtube.com/results?search_query=World%20Currency%3A%20Comparing%20Money%20From%20Different%20Countries%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the money used by a country called?",
+            "options": [
+              "Currency",
+              "Symbol",
+              "Anthem",
+              "Language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do all countries around the world use the exact same currency?",
+            "options": [
+              "Only Canada uses money",
+              "Yes, every country uses the same money",
+              "Money is not used anywhere",
+              "No, different countries use different currency"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a traveller need to exchange money when visiting another country?",
+            "options": [
+              "Currency is only used in stores",
+              "Money never changes anywhere",
+              "All countries ban money",
+              "Because that country uses a different currency"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Comparing currencies from different countries can help us understand ___.",
+            "options": [
+              "Only colours",
+              "Only shapes",
+              "Trade and travel around the world",
+              "Nothing important"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a countrys currency?",
+            "options": [
+              "A national anthem",
+              "The Canadian dollar",
+              "A national flag",
+              "A national bird"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 145,
+    "label": "Day 145 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading Strategy: Setting a Purpose Before Reading",
+        "summary": "Grade 2 Language strand: setting a purpose before reading means thinking about why we are reading something, such as to learn facts or to enjoy a story.",
+        "resourceLabel": "YouTube: Reading Strategy: Setting a Purpose Before Reading",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reading%20Strategy%3A%20Setting%20a%20Purpose%20Before%20Reading%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to set a purpose before reading?",
+            "options": [
+              "Thinking about why we are reading something",
+              "Ignoring the title and cover",
+              "Skipping the whole book without reading",
+              "Reading with no thought at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a purpose for reading?",
+            "options": [
+              "Reading a book upside down",
+              "Reading to learn facts about animals",
+              "Reading without opening the book",
+              "Reading with your eyes closed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it helpful to set a purpose before reading?",
+            "options": [
+              "It makes reading pointless",
+              "It has no benefit at all",
+              "It prevents us from understanding the text",
+              "It helps us focus on the most important parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If your purpose is to learn facts, which kind of book would you likely choose?",
+            "options": [
+              "A fictional fairy tale",
+              "A nonfiction book",
+              "A joke book",
+              "A blank notebook"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Setting a purpose before reading is a strategy that helps improve our ___.",
+            "options": [
+              "Handwriting",
+              "Ability to ignore the text",
+              "Drawing skills",
+              "Understanding of the text"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Solving Elapsed Time Word Problems",
+        "summary": "Grade 2 Math strand: elapsed time word problems ask us to figure out how much time has passed between a start time and an end time.",
+        "resourceLabel": "YouTube: Time: Solving Elapsed Time Word Problems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Solving%20Elapsed%20Time%20Word%20Problems%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If a movie starts at 2:00 and ends at 4:00, how much time passed?",
+            "options": [
+              "3 hours",
+              "2 hours",
+              "1 hour",
+              "4 hours"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If recess starts at 10:15 and ends at 10:30, how many minutes passed?",
+            "options": [
+              "20 minutes",
+              "5 minutes",
+              "15 minutes",
+              "10 minutes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do we call the amount of time that passes between a start and end time?",
+            "options": [
+              "Elapsed time",
+              "End time",
+              "Start time",
+              "No time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If school starts at 9:00 and ends at 3:00, how many hours is that?",
+            "options": [
+              "6 hours",
+              "7 hours",
+              "5 hours",
+              "4 hours"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To solve an elapsed time problem, we need to know the ___.",
+            "options": [
+              "Neither time",
+              "Only the end time",
+              "Only the start time",
+              "Start time and end time"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Vaccines: Helping Our Body Fight Disease",
+        "summary": "Grade 2 Science strand: vaccines help our immune system learn to recognize and fight off certain diseases before we ever get sick from them.",
+        "resourceLabel": "YouTube: Vaccines: Helping Our Body Fight Disease",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vaccines%3A%20Helping%20Our%20Body%20Fight%20Disease%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do vaccines help our body do?",
+            "options": [
+              "Hear better",
+              "Recognize and fight off certain diseases",
+              "Grow taller",
+              "See better"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which body system do vaccines work with?",
+            "options": [
+              "The circulatory system only",
+              "The digestive system",
+              "The skeletal system",
+              "The immune system"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone get a vaccine before they are sick?",
+            "options": [
+              "So their body can learn to fight the disease ahead of time",
+              "To make someone sick on purpose",
+              "Vaccines only work after someone is already sick",
+              "Vaccines have no effect at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Vaccines are an example of how science helps us stay ___.",
+            "options": [
+              "Confused",
+              "Unaware",
+              "Unwell",
+              "Healthy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these best describes what a vaccine does over time?",
+            "options": [
+              "Removes the immune system completely",
+              "Makes the body forget how to fight disease",
+              "Has no connection to the immune system",
+              "Helps the immune system remember how to fight a disease"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Land Acknowledgements: Respecting Indigenous Territory",
+        "summary": "Grade 2 Social Studies strand: a land acknowledgement is a respectful statement recognizing that a place was, and often still is, the traditional territory of Indigenous peoples.",
+        "resourceLabel": "YouTube: Land Acknowledgements: Respecting Indigenous Territory",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Land%20Acknowledgements%3A%20Respecting%20Indigenous%20Territory%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A respectful statement about Indigenous territory",
+              "A type of map",
+              "A kind of song",
+              "A weather report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a land acknowledgement recognize?",
+            "options": [
+              "That a place was, and still is, Indigenous territory",
+              "A sports team",
+              "A random fact about weather",
+              "A type of food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where might you hear a land acknowledgement given?",
+            "options": [
+              "At the start of a school assembly or event",
+              "Never anywhere",
+              "Only in outer space",
+              "Only in other countries"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do communities share land acknowledgements?",
+            "options": [
+              "They have no meaning at all",
+              "To replace all history lessons",
+              "To ignore Indigenous history",
+              "To show respect for Indigenous peoples and their history"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A land acknowledgement is one way people can show ___.",
+            "options": [
+              "Respect and awareness",
+              "Disrespect",
+              "Confusion",
+              "Carelessness"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 146,
+    "label": "Day 146 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Structure: Rising Action and Climax",
+        "summary": "Grade 2 Language strand: rising action is the part of a story where excitement builds, leading up to the climax, the most exciting or important moment of the story.",
+        "resourceLabel": "YouTube: Story Structure: Rising Action and Climax",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Structure%3A%20Rising%20Action%20and%20Climax%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is rising action?",
+            "options": [
+              "The very beginning of a story",
+              "The back cover of a book",
+              "The part of a story where excitement builds",
+              "The title of a story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the climax of a story?",
+            "options": [
+              "The list of characters",
+              "The books price",
+              "The first sentence",
+              "The most exciting or important moment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does rising action happen before or after the climax?",
+            "options": [
+              "Before",
+              "At the very end",
+              "After",
+              "It never happens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is rising action important in a story?",
+            "options": [
+              "It builds excitement leading to the climax",
+              "It removes the main problem",
+              "It always comes after the ending",
+              "It has no purpose in a story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these describes the climax of a story?",
+            "options": [
+              "The most tense or exciting turning point",
+              "The dedication page",
+              "The table of contents",
+              "The very first page"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Making Change from Five and Ten Dollar Bills",
+        "summary": "Grade 2 Math strand: students practise figuring out how much change to give back when someone pays with a five or ten dollar bill.",
+        "resourceLabel": "YouTube: Money: Making Change from Five and Ten Dollar Bills",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20from%20Five%20and%20Ten%20Dollar%20Bills%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If something costs 3 dollars and you pay with a 5 dollar bill, how much change do you get?",
+            "options": [
+              "3 dollars",
+              "1 dollar",
+              "4 dollars",
+              "2 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If something costs 7 dollars and you pay with a 10 dollar bill, how much change do you get?",
+            "options": [
+              "4 dollars",
+              "3 dollars",
+              "2 dollars",
+              "5 dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If something costs 4 dollars and you pay with a 5 dollar bill, how much change do you get?",
+            "options": [
+              "2 dollars",
+              "3 dollars",
+              "1 dollar",
+              "4 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Making change correctly is important because it makes sure a purchase is ___.",
+            "options": [
+              "Unfair",
+              "Fair and accurate",
+              "Confusing",
+              "Impossible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If something costs 6 dollars and you pay with a 10 dollar bill, how much change do you get?",
+            "options": [
+              "2 dollars",
+              "5 dollars",
+              "4 dollars",
+              "3 dollars"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Desert Plants: Cacti and Succulents",
+        "summary": "Grade 2 Science strand: desert plants like cacti and succulents store water in their thick stems and leaves so they can survive long periods without rain.",
+        "resourceLabel": "YouTube: Desert Plants: Cacti and Succulents",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Desert%20Plants%3A%20Cacti%20and%20Succulents%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do cacti and succulents store water in?",
+            "options": [
+              "The clouds",
+              "The air around them",
+              "The wind",
+              "Their thick stems and leaves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do desert plants need to store water?",
+            "options": [
+              "They never need water",
+              "To grow taller instantly",
+              "To survive long periods without rain",
+              "To change colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a cactus an example of?",
+            "options": [
+              "An ocean animal",
+              "A desert plant",
+              "A type of rock",
+              "A rainforest tree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which feature helps some desert plants avoid losing too much water?",
+            "options": [
+              "Constant rainfall",
+              "Thick, waxy skin",
+              "No leaves and no stem at all",
+              "Thin, papery leaves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Desert plants like cacti are well adapted to living in a place that is usually ___.",
+            "options": [
+              "Covered in snow",
+              "Underwater",
+              "Hot and dry",
+              "Cold and wet"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Provincial Legislature: Where Laws Are Made",
+        "summary": "Grade 2 Social Studies strand: the provincial legislature is a building where elected leaders meet to discuss and create laws for the province.",
+        "resourceLabel": "YouTube: Our Provincial Legislature: Where Laws Are Made",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Provincial%20Legislature%3A%20Where%20Laws%20Are%20Made%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What happens at a provincial legislature?",
+            "options": [
+              "Movies are shown to visitors",
+              "Food is sold to the public",
+              "Elected leaders discuss and create laws",
+              "Students take a math test"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who works at a provincial legislature?",
+            "options": [
+              "Elected leaders, including the premier",
+              "Only firefighters",
+              "Only doctors",
+              "Only bus drivers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a provincial legislature an important building?",
+            "options": [
+              "Important laws and decisions are made there",
+              "It has no real purpose",
+              "It is only used for sports games",
+              "It is closed at all times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might happen inside a provincial legislature?",
+            "options": [
+              "A private vacation",
+              "A debate about a new provincial law",
+              "Nothing important at all",
+              "A birthday party for one family"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A provincial legislature helps a province by creating ___.",
+            "options": [
+              "Only weather forecasts",
+              "Nothing useful",
+              "Laws and important decisions",
+              "Only sports schedules"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 147,
+    "label": "Day 147 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Choice: Vivid Verbs Instead of Said",
+        "summary": "Grade 2 Language strand: writers can replace the word said with more vivid verbs, like whispered, shouted, or exclaimed, to show more about how a character speaks.",
+        "resourceLabel": "YouTube: Word Choice: Vivid Verbs Instead of Said",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Choice%3A%20Vivid%20Verbs%20Instead%20of%20Said%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a vivid verb?",
+            "options": [
+              "A word with no meaning",
+              "A type of punctuation",
+              "A type of noun",
+              "A specific, descriptive action word"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a vivid verb that could replace said?",
+            "options": [
+              "And",
+              "The",
+              "Very",
+              "Whispered"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose whispered instead of said?",
+            "options": [
+              "It confuses the reader on purpose",
+              "It has the exact same meaning with no extra detail",
+              "It removes all dialogue from the story",
+              "It shows more about how the character spoke"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses a vivid verb?",
+            "options": [
+              "She spoke",
+              "She said something",
+              "She shouted with excitement",
+              "She talked"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using vivid verbs instead of plain words helps make writing more ___.",
+            "options": [
+              "Confusing",
+              "Interesting and descriptive",
+              "Short with no detail",
+              "Boring"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Patterns: Patterns in the Multiplication Table",
+        "summary": "Grade 2 Math strand: students look for patterns in the multiplication table, such as how the 2s row is always even, or how rows and columns mirror each other.",
+        "resourceLabel": "YouTube: Number Patterns: Patterns in the Multiplication Table",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Patterns%3A%20Patterns%20in%20the%20Multiplication%20Table%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Are the numbers in the 2 times table always even or always odd?",
+            "options": [
+              "Neither even nor odd",
+              "Sometimes even and sometimes odd",
+              "Always even",
+              "Always odd"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a multiplication table, the 3 row and the 3 column contain ___.",
+            "options": [
+              "Completely different numbers",
+              "The same set of numbers",
+              "Only the number 3",
+              "Only odd numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might noticing patterns in a multiplication table be helpful?",
+            "options": [
+              "It only works for addition",
+              "It has no use at all",
+              "It makes multiplication impossible to learn",
+              "It helps us remember multiplication facts more easily"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What pattern can you find in the 10 times table?",
+            "options": [
+              "There is no pattern at all",
+              "Every answer is odd",
+              "Every answer ends in a zero",
+              "Every answer is the same number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Looking for patterns in math helps us become better at ___.",
+            "options": [
+              "Solving problems",
+              "Drawing pictures",
+              "Singing songs",
+              "Spelling words"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ice Ages: When Earth Was Covered in Ice",
+        "summary": "Grade 2 Science strand: an ice age is a long period of time when much of the Earth was covered by thick sheets of ice called glaciers.",
+        "resourceLabel": "YouTube: Ice Ages: When Earth Was Covered in Ice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ice%20Ages%3A%20When%20Earth%20Was%20Covered%20in%20Ice%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is an ice age?",
+            "options": [
+              "A long period when much of Earth was covered in ice",
+              "A single cold day",
+              "A type of animal",
+              "A kind of rock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What covered much of the Earth during an ice age?",
+            "options": [
+              "Sand and desert",
+              "Rainforest trees",
+              "Thick sheets of ice called glaciers",
+              "Warm ocean water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How long did ice ages usually last?",
+            "options": [
+              "A few minutes",
+              "A very long period of time",
+              "One hour",
+              "Just one single day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can scientists study to learn about past ice ages?",
+            "options": [
+              "Nothing at all",
+              "Fossils and layers of ice or rock",
+              "Only modern buildings",
+              "Only todays weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ice ages remind us that Earths climate has ___ over a very long time.",
+            "options": [
+              "Disappeared completely",
+              "Never changed",
+              "Stayed exactly the same forever",
+              "Changed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our School Yearbook: Remembering the School Year",
+        "summary": "Grade 2 Social Studies strand: a school yearbook is a book filled with photos and memories that helps students remember their school year.",
+        "resourceLabel": "YouTube: Our School Yearbook: Remembering the School Year",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20School%20Yearbook%3A%20Remembering%20the%20School%20Year%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a school yearbook?",
+            "options": [
+              "A book filled with photos and memories from the school year",
+              "A math textbook",
+              "A calendar with no pictures",
+              "A list of school rules only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a school create a yearbook?",
+            "options": [
+              "To replace all textbooks",
+              "To confuse students",
+              "It has no real purpose",
+              "To help students remember the school year"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might appear in a school yearbook?",
+            "options": [
+              "A car manual",
+              "Class photos",
+              "A weather forecast",
+              "A grocery list"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A yearbook can help students look back on their year and remember ___.",
+            "options": [
+              "Only test scores",
+              "Special moments and friends",
+              "Only homework assignments",
+              "Nothing important"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Yearbooks are usually created ___ during the school year.",
+            "options": [
+              "Once, near the end",
+              "Every single day",
+              "Only in summer",
+              "Never"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 148,
+    "label": "Day 148 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Compound-Complex Sentences: Combining Three Ideas",
+        "summary": "Grade 2 Language strand: a compound-complex sentence combines two complete ideas with a joining word, plus an extra dependent idea, all in one sentence.",
+        "resourceLabel": "YouTube: Compound-Complex Sentences: Combining Three Ideas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Compound-Complex%20Sentences%3A%20Combining%20Three%20Ideas%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a compound-complex sentence combine?",
+            "options": [
+              "Only a single word",
+              "No punctuation at all",
+              "Two complete ideas and an extra dependent idea",
+              "Only a title"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer choose to use a compound-complex sentence?",
+            "options": [
+              "To remove all meaning from the sentence",
+              "To confuse the reader on purpose",
+              "To make the sentence disappear",
+              "To smoothly combine multiple related ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a feature of a compound-complex sentence?",
+            "options": [
+              "It cannot have any punctuation",
+              "It never has a verb",
+              "It joins more than one complete idea together",
+              "It is always exactly one word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A compound-complex sentence is generally ___ than a simple sentence.",
+            "options": [
+              "Exactly the same length",
+              "Impossible to write",
+              "Longer and more detailed",
+              "Always shorter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Combining ideas smoothly in a sentence can help make writing feel more ___.",
+            "options": [
+              "Confusing",
+              "Connected and clear",
+              "Choppy and broken",
+              "Meaningless"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Converting Grams to Kilograms",
+        "summary": "Grade 2 Math strand: students learn that 1000 grams equal 1 kilogram, and practise converting between the two units.",
+        "resourceLabel": "YouTube: Measurement: Converting Grams to Kilograms",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Converting%20Grams%20to%20Kilograms%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many grams are in one kilogram?",
+            "options": [
+              "10",
+              "10000",
+              "1000",
+              "100"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If something weighs 2000 grams, how many kilograms is that?",
+            "options": [
+              "1",
+              "2",
+              "20",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which unit would we usually use to weigh a small paperclip?",
+            "options": [
+              "Metres",
+              "Grams",
+              "Kilograms",
+              "Litres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which unit would we usually use to weigh a large bag of rice?",
+            "options": [
+              "Grams only",
+              "Millilitres",
+              "Centimetres",
+              "Kilograms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Knowing that 1000 grams equal 1 kilogram helps us ___ between units.",
+            "options": [
+              "Erase",
+              "Convert",
+              "Ignore",
+              "Confuse"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Beavers: Natures Engineers",
+        "summary": "Grade 2 Science strand: beavers are known as natures engineers because they build dams and lodges using trees, branches, and mud to change their habitat.",
+        "resourceLabel": "YouTube: Beavers: Natures Engineers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Beavers%3A%20Natures%20Engineers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why are beavers sometimes called natures engineers?",
+            "options": [
+              "They fly through the air",
+              "They build dams and lodges to change their habitat",
+              "They cannot swim",
+              "They live only in trees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What materials do beavers use to build a dam?",
+            "options": [
+              "Trees, branches, and mud",
+              "Ice only",
+              "Sand only",
+              "Rocks only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a beaver dam do to a habitat?",
+            "options": [
+              "Destroys all nearby plants instantly",
+              "Has no effect on the habitat",
+              "Changes the flow of water, often creating a pond",
+              "Turns the area into a desert"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What body part helps a beaver cut down trees?",
+            "options": [
+              "Its nose",
+              "Its claws only",
+              "Its tail",
+              "Its strong front teeth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Beavers changing their habitat by building dams is an example of ___.",
+            "options": [
+              "A type of weather",
+              "A type of rock formation",
+              "An animal shaping its environment",
+              "An animal with no effect on nature"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Lighthouses: Guiding Ships Safely",
+        "summary": "Grade 2 Social Studies strand: lighthouses along Canadas coasts use bright lights to help guide ships safely and warn them away from rocky shores.",
+        "resourceLabel": "YouTube: Canadian Lighthouses: Guiding Ships Safely",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Lighthouses%3A%20Guiding%20Ships%20Safely%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a lighthouse?",
+            "options": [
+              "To grow crops",
+              "To collect rainwater",
+              "To provide housing for fish",
+              "To help guide ships safely"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do lighthouses use to help guide ships?",
+            "options": [
+              "Loud music",
+              "Colourful flags only",
+              "Smoke signals only",
+              "A bright light"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where are lighthouses usually built?",
+            "options": [
+              "On top of a mountain far from water",
+              "In the middle of a city",
+              "Inside a forest",
+              "Along coasts, near rocky shores or harbours"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a lighthouse warn ships away from certain areas?",
+            "options": [
+              "To help ships avoid dangerous rocky shores",
+              "To confuse sailors on purpose",
+              "Lighthouses have no real purpose",
+              "To stop all ships from ever sailing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Lighthouses are an important part of keeping people who travel by ___ safe.",
+            "options": [
+              "Water",
+              "Land only",
+              "Air",
+              "Space"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 149,
+    "label": "Day 149 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Graphic Organizers: Mapping Out Our Ideas",
+        "summary": "Grade 2 Language strand: a graphic organizer is a visual tool, like a web or a chart, that helps writers plan and organize their ideas before writing.",
+        "resourceLabel": "YouTube: Graphic Organizers: Mapping Out Our Ideas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Graphic%20Organizers%3A%20Mapping%20Out%20Our%20Ideas%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a graphic organizer?",
+            "options": [
+              "A punctuation mark",
+              "A visual tool for planning and organizing ideas",
+              "A type of made-up story",
+              "A math equation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use a graphic organizer before writing?",
+            "options": [
+              "To skip planning entirely",
+              "To remove all their ideas completely",
+              "To plan and organize their ideas clearly",
+              "To make writing more confusing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a graphic organizer?",
+            "options": [
+              "A grocery list with no structure",
+              "A single random word",
+              "A blank page with nothing on it",
+              "A web with connected ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A graphic organizer can help a writer see how their ideas ___.",
+            "options": [
+              "Have no relationship at all",
+              "Connect to each other",
+              "Disappear completely",
+              "Cannot be organized"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using a graphic organizer before writing is a helpful step in the writing ___.",
+            "options": [
+              "Font",
+              "Process",
+              "Ending",
+              "Title"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Coordinate Grids: Plotting Points on a Grid",
+        "summary": "Grade 2 Math strand: students learn to plot points on a coordinate grid using two numbers, moving across and then up to find the exact spot.",
+        "resourceLabel": "YouTube: Coordinate Grids: Plotting Points on a Grid",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Coordinate%20Grids%3A%20Plotting%20Points%20on%20a%20Grid%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What two numbers are used to plot a point on a coordinate grid?",
+            "options": [
+              "A horizontal number and a vertical number",
+              "No numbers at all",
+              "Three numbers",
+              "Only one number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which direction do we usually move first when plotting a point on a grid?",
+            "options": [
+              "Across, then up",
+              "Up, then across",
+              "We never move",
+              "Diagonally only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are coordinate grids useful in math?",
+            "options": [
+              "They remove the need for numbers",
+              "They have no real use",
+              "They only work with letters",
+              "They help us find an exact location"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A coordinate grid is made up of a horizontal line and a ___ line.",
+            "options": [
+              "Dotted",
+              "Diagonal",
+              "Curved",
+              "Vertical"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Plotting points on a grid can help us create simple ___.",
+            "options": [
+              "Recipes",
+              "Songs",
+              "Stories with no numbers",
+              "Maps or pictures"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Wetlands: A Habitat Between Land and Water",
+        "summary": "Grade 2 Science strand: a wetland is a special habitat where the land is covered by shallow water for at least part of the year, supporting many plants and animals.",
+        "resourceLabel": "YouTube: Wetlands: A Habitat Between Land and Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wetlands%3A%20A%20Habitat%20Between%20Land%20and%20Water%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a wetland?",
+            "options": [
+              "A habitat where land is covered by shallow water",
+              "A frozen glacier",
+              "A tall mountain",
+              "A dry desert"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of living things does a wetland often support?",
+            "options": [
+              "Many plants and animals",
+              "No living things at all",
+              "Only sand",
+              "Only rocks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are wetlands considered an important type of habitat?",
+            "options": [
+              "They cannot support any life",
+              "They have no living things in them",
+              "They support a wide variety of plants and animals",
+              "They are always completely dry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might you find living in a wetland?",
+            "options": [
+              "Polar bears",
+              "Frogs and ducks",
+              "Cactus plants",
+              "Camels"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A wetland is a habitat found between ___.",
+            "options": [
+              "Land and water",
+              "Ice and fire",
+              "Sky and space",
+              "Rock and sand only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Local Fire Hall: Where Firefighters Prepare",
+        "summary": "Grade 2 Social Studies strand: the local fire hall is where firefighters keep their trucks and equipment ready and train so they can respond quickly to emergencies.",
+        "resourceLabel": "YouTube: Our Local Fire Hall: Where Firefighters Prepare",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Fire%20Hall%3A%20Where%20Firefighters%20Prepare%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do firefighters keep ready at the fire hall?",
+            "options": [
+              "Only toys",
+              "Their trucks and equipment",
+              "Only food",
+              "Only books"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do firefighters train regularly at the fire hall?",
+            "options": [
+              "To make emergencies happen more often",
+              "To avoid ever helping anyone",
+              "Training has no purpose for firefighters",
+              "So they can respond quickly to emergencies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of a fire hall?",
+            "options": [
+              "To show movies to the public",
+              "To be a base where firefighters prepare and respond from",
+              "To teach math classes",
+              "To sell groceries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might be found inside a fire hall?",
+            "options": [
+              "A movie theatre",
+              "A fire truck",
+              "A shopping mall",
+              "A swimming pool"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Having a well prepared fire hall helps keep a community ___.",
+            "options": [
+              "Unaware of emergencies",
+              "Less prepared",
+              "More confused",
+              "Safer"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 150,
+    "label": "Day 150 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Text Features, Persuasion, and Sentence Craft",
+        "summary": "Grade 2 Language strand review: students revisit three-letter blends, timelines, invitations, persuasive techniques, story structure, vivid verbs, compound-complex sentences, and graphic organizers.",
+        "resourceLabel": "YouTube: Language Review: Text Features, Persuasion, and Sentence Craft",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Text%20Features%2C%20Persuasion%2C%20and%20Sentence%20Craft%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which word begins with the thr blend?",
+            "options": [
+              "Spring",
+              "Sun",
+              "Squirrel",
+              "Three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a timeline show?",
+            "options": [
+              "A recipe",
+              "A list of characters",
+              "A map of a place",
+              "Events in the order they happened"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a bandwagon appeal?",
+            "options": [
+              "A type of vehicle",
+              "A type of song",
+              "Suggesting everyone else agrees, so you should too",
+              "A math strategy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the climax of a story?",
+            "options": [
+              "The books price",
+              "The most exciting or important moment",
+              "The first sentence",
+              "The list of characters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a graphic organizer?",
+            "options": [
+              "A punctuation mark",
+              "A math equation",
+              "A visual tool for planning and organizing ideas",
+              "A type of made-up story"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Division, Fractions, Data, and Measurement",
+        "summary": "Grade 2 Math strand review: students revisit long division, adding fractions, stem-and-leaf plots, classifying triangles, elapsed time, making change, patterns, and measurement conversions.",
+        "resourceLabel": "YouTube: Math Review: Division, Fractions, Data, and Measurement",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Division%2C%20Fractions%2C%20Data%2C%20and%20Measurement%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 24 divided by 4?",
+            "options": [
+              "4",
+              "8",
+              "5",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 1/4 + 2/4?",
+            "options": [
+              "2/4",
+              "3/4",
+              "1/2",
+              "4/4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a triangle with three equal sides called?",
+            "options": [
+              "Isosceles",
+              "Obtuse",
+              "Scalene",
+              "Equilateral"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If something costs 3 dollars and you pay with a 5 dollar bill, how much change do you get?",
+            "options": [
+              "4 dollars",
+              "2 dollars",
+              "1 dollar",
+              "3 dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many grams are in one kilogram?",
+            "options": [
+              "1000",
+              "100",
+              "10",
+              "10000"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Our Bodies, Earth, and Habitats",
+        "summary": "Grade 2 Science strand review: students revisit our sense of balance, density, nuclear energy, animal tracks, vaccines, desert plants, ice ages, beavers, and wetlands.",
+        "resourceLabel": "YouTube: Science Review: Our Bodies, Earth, and Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Earth%2C%20and%20Habitats%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What sense helps us stand and walk without falling?",
+            "options": [
+              "Sense of hearing",
+              "Sense of smell",
+              "Sense of balance",
+              "Sense of taste"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does density describe?",
+            "options": [
+              "The taste of an object",
+              "How tightly packed matter is in an object",
+              "The colour of an object",
+              "The sound an object makes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do vaccines help our body do?",
+            "options": [
+              "Grow taller",
+              "See better",
+              "Recognize and fight off certain diseases",
+              "Hear better"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an ice age?",
+            "options": [
+              "A long period when much of Earth was covered in ice",
+              "A single cold day",
+              "A type of animal",
+              "A kind of rock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a wetland?",
+            "options": [
+              "A frozen glacier",
+              "A tall mountain",
+              "A habitat where land is covered by shallow water",
+              "A dry desert"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Government, Money, and Our Communities",
+        "summary": "Grade 2 Social Studies strand review: students revisit our senate, the Order of Canada, our school board, world currency, land acknowledgements, our legislature, our yearbook, lighthouses, and our fire hall.",
+        "resourceLabel": "YouTube: Social Studies Review: Government, Money, and Our Communities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20Money%2C%20and%20Our%20Communities%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Senate?",
+            "options": [
+              "A city council",
+              "A group that reviews new laws",
+              "A part of Canadas government",
+              "A sports league"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the Order of Canada?",
+            "options": [
+              "A special honour for outstanding Canadians",
+              "A sports league",
+              "A type of holiday",
+              "A kind of coin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a land acknowledgement?",
+            "options": [
+              "A weather report",
+              "A respectful statement about Indigenous territory",
+              "A kind of song",
+              "A type of map"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens at a provincial legislature?",
+            "options": [
+              "Elected leaders discuss and create laws",
+              "Movies are shown to visitors",
+              "Food is sold to the public",
+              "Students take a math test"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a lighthouse?",
+            "options": [
+              "To help guide ships safely",
+              "To provide housing for fish",
+              "To collect rainwater",
+              "To grow crops"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
   }
 ]
