@@ -11363,6 +11363,7 @@
         "summary": "Grade 12 English strand: a TED-style talk presents a single compelling idea within a concise time limit, combining a personal narrative hook, clear structure, and a memorable closing to leave a lasting impression on the audience.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=-FOCpMAww28",
         "quiz": [
           {
             "q": "A TED-style talk presents ___ within a concise time limit.",
@@ -11422,6 +11423,7 @@
         "summary": "Grade 12 Advanced Functions strand: advanced recursive sequences apply a defining rule repeatedly to model complex real-world processes, such as compound growth patterns that depend on more than one previous term.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=I_6WdPd53Zs",
         "quiz": [
           {
             "q": "Advanced recursive sequences apply a defining rule repeatedly to model ___.",
@@ -11481,6 +11483,7 @@
         "summary": "Grade 12 Calculus strand: convergence tests, such as the ratio test or comparison test, provide systematic methods for determining whether an infinite series converges to a finite sum or diverges.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=0YeON4p0ogw",
         "quiz": [
           {
             "q": "Convergence tests provide systematic methods for determining whether an infinite series ___.",
@@ -11540,6 +11543,7 @@
         "summary": "Grade 12 Physics strand: resonance occurs when a system is driven to oscillate at its natural frequency with increased amplitude, a principle central to acoustics and the design of musical instruments.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=talN8nFXzEo",
         "quiz": [
           {
             "q": "Resonance occurs when a system is driven to oscillate at its ___ with increased amplitude.",

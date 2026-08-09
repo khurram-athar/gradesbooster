@@ -1939,6 +1939,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"English", title:"Oral Communication: The TED-Style Talk", summary:"Grade 12 English strand: a TED-style talk presents a single compelling idea within a concise time limit, combining a personal narrative hook, clear structure, and a memorable closing to leave a lasting impression on the audience.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=-FOCpMAww28",
    quiz:[
      {q:"A TED-style talk presents ___ within a concise time limit.", options:["A single compelling idea","As many unrelated ideas as possible within the given time","A purely technical report with no central idea","A concept unrelated to focused, structured communication"], answer:0},
      {q:"Why might a TED-style talk begin with a personal narrative hook?", options:["This concept has no connection to engaging an audience from the outset","This structure never appears in an effective TED-style presentation","A relatable, personal opening can quickly capture audience interest and establish an emotional connection","A personal narrative hook always weakens the impact of this type of talk"], answer:2},
@@ -1948,6 +1949,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Recursive Sequences: Advanced Applications", summary:"Grade 12 Advanced Functions strand: advanced recursive sequences apply a defining rule repeatedly to model complex real-world processes, such as compound growth patterns that depend on more than one previous term.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=I_6WdPd53Zs",
    quiz:[
      {q:"Advanced recursive sequences apply a defining rule repeatedly to model ___.", options:["A concept entirely unrelated to real-world modelling","Complex real-world processes","Only purely abstract patterns with no practical application","A single, isolated calculation with no repeated process involved"], answer:1},
      {q:"Some advanced recursive sequences depend on ___ previous term(s).", options:["More than one","Only a single previous term, in every possible case","A concept unrelated to how recursive sequences are defined","Exactly zero, with no dependence on any prior term"], answer:0},
@@ -1957,6 +1959,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Sequences and Series Convergence Tests", summary:"Grade 12 Calculus strand: convergence tests, such as the ratio test or comparison test, provide systematic methods for determining whether an infinite series converges to a finite sum or diverges.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=0YeON4p0ogw",
    quiz:[
      {q:"Convergence tests provide systematic methods for determining whether an infinite series ___.", options:["A concept unrelated to the behaviour of infinite series","Contains a finite, specific number of terms","Always produces exactly the same numerical result","Converges to a finite sum or diverges"], answer:3},
      {q:"Which is an example of a convergence test used to analyze an infinite series?", options:["A test that only applies to determining a series’ first term","A method entirely unrelated to analyzing series behaviour","A test unrelated to determining whether a series converges","The ratio test"], answer:3},
@@ -1966,6 +1969,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Resonance and Acoustics", summary:"Grade 12 Physics strand: resonance occurs when a system is driven to oscillate at its natural frequency with increased amplitude, a principle central to acoustics and the design of musical instruments.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=talN8nFXzEo",
    quiz:[
      {q:"Resonance occurs when a system is driven to oscillate at its ___ with increased amplitude.", options:["Natural frequency","A concept unrelated to oscillation","Slowest possible frequency, regardless of its natural properties","Maximum possible temperature"], answer:0},
      {q:"Resonance is a principle central to ___ and the design of musical instruments.", options:["Only visual art, with no connection to sound","A field entirely unrelated to sound","Acoustics","A concept unrelated to oscillating systems"], answer:2},

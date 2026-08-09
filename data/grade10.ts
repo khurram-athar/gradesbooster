@@ -1938,6 +1938,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"English", title:"Literature: Contemporary Indigenous Voices", summary:"Grade 10 English strand: contemporary Indigenous literature offers powerful perspectives on identity, resilience, and connection to land and culture, often blending traditional storytelling with modern literary forms.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=hhuNm8rou6k",
    quiz:[
      {q:"Contemporary Indigenous literature often explores themes of ___.", options:["A topic entirely unrelated to identity or culture","Only fictional worlds with no connection to real experiences","Identity, resilience, and connection to land and culture","Grammar rules with no thematic content"], answer:2},
      {q:"Why might contemporary Indigenous authors blend traditional storytelling with modern literary forms?", options:["Blending these elements removes all meaning from a text","It allows them to honour cultural traditions while reaching contemporary audiences","Modern literary forms can never connect to traditional storytelling","Traditional storytelling has no place in contemporary literature"], answer:1},
@@ -1947,6 +1948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Non-Right Triangle Applications in Three Dimensions", summary:"Grade 10 Trigonometry strand: some three-dimensional problems require breaking a complex shape into non-right triangles and applying the sine law or cosine law to find unknown measurements.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=99CL-tNyNR0",
    quiz:[
      {q:"Solving a 3D problem involving non-right triangles often requires applying ___.", options:["Only the Pythagorean theorem, with no other trigonometric law","No trigonometric relationships at all","The sine law or cosine law","A method unrelated to triangle measurements"], answer:2},
      {q:"Why might a complex three-dimensional shape be broken down into smaller triangles to solve a problem?", options:["It simplifies the shape into manageable parts that can be analyzed using known trigonometric relationships","Breaking a shape into triangles never simplifies a 3D problem","Trigonometric laws can never be applied to 3D situations","This approach has no connection to solving geometric problems"], answer:0},
@@ -1956,6 +1958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: Homeostasis and Body Systems", summary:"Grade 10 Biology strand: homeostasis is the process by which the body maintains a stable internal environment, coordinated by body systems working together despite changes in external conditions.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=MbeU44op_LI",
    quiz:[
      {q:"Homeostasis refers to the body’s ability to ___.", options:["Constantly change its internal environment with no regulation","A process unrelated to internal body conditions","Maintain a stable internal environment","Remain completely unaffected by any internal processes"], answer:2},
      {q:"Which is an example of the body maintaining homeostasis?", options:["An example unrelated to internal body regulation","A process where body temperature is never regulated","Regulating body temperature despite changes in external weather","A situation where the body has no response to external conditions"], answer:2},
@@ -1965,6 +1968,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Auto Pact and Economic Development", summary:"Grade 10 History strand: the 1965 Auto Pact was a trade agreement between Canada and the United States that significantly shaped Canada’s automotive industry and broader economic development.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=Hi9ZFszFiAo",
    quiz:[
      {q:"The Auto Pact was a trade agreement between Canada and ___.", options:["A country with no economic connection to Canada","A country unrelated to North American trade","The United States","The United Kingdom"], answer:2},
      {q:"The Auto Pact was signed in which year?", options:["1965","1995","1919","1867"], answer:0},

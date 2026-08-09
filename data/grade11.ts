@@ -1938,6 +1938,7 @@ const curriculum: DayContent[] = [
 {day:47, label:"Day 47 — Tue", subjects:[
   {subject:"English", title:"Writing: The Literary Analysis of Setting", summary:"Grade 11 English strand: analyzing setting involves examining how the time and place of a story influence its mood, characters, and themes, rather than treating setting as simply a backdrop.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=3AzgjQZgVIg",
    quiz:[
      {q:"Analyzing setting involves examining how the time and place of a story influence its ___.", options:["Mood, characters, and themes","The font used in the printed text","A factor entirely unrelated to a story’s meaning","Only its exact page length"], answer:0},
      {q:"Why might treating setting as more than just a backdrop deepen a reader’s analysis of a text?", options:["Setting can actively shape a story’s meaning rather than simply existing in the background","Setting always has no connection to a story’s deeper meaning","A story’s setting never influences how it is interpreted","This type of analysis provides no additional insight into a text"], answer:0},
@@ -1947,6 +1948,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Transformations Across Function Families", summary:"Grade 11 Functions strand: transformations, such as shifts, stretches, and reflections, apply consistently across different types of functions, including polynomial, exponential, and trigonometric functions.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=MjqFvyNkoL8",
    quiz:[
      {q:"Transformations such as shifts, stretches, and reflections apply ___.", options:["In a way that is completely unpredictable and inconsistent","A concept unrelated to how functions behave","Only to a single, specific type of function","Consistently across different types of functions"], answer:3},
      {q:"A vertical shift moves a function’s graph ___.", options:["In no particular direction","Only left or right","Only diagonally, with no vertical movement","Up or down"], answer:3},
@@ -1956,6 +1958,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biotechnology: Cloning and Stem Cell Research", summary:"Grade 11 Biology strand: cloning creates a genetically identical copy of an organism or cell, and stem cell research explores the potential of unspecialized cells to develop into various specialized cell types.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=OVf_ASEGuns",
    quiz:[
      {q:"Cloning creates a genetically identical copy of ___.", options:["A concept entirely unrelated to genetics","Only non-living materials, with no biological connection","An organism or cell","A random, unrelated biological structure"], answer:2},
      {q:"Stem cells are considered unspecialized cells with the potential to ___.", options:["Develop into various specialized cell types","Only replicate identical stem cells with no further specialization","Remain permanently unable to change into any other cell type","A potential entirely unrelated to cell development"], answer:0},
@@ -1965,6 +1968,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Electrochemistry: Galvanic vs Electrolytic Cells", summary:"Grade 11 Chemistry strand: a galvanic cell generates electrical energy from a spontaneous chemical reaction, while an electrolytic cell uses electrical energy to drive a non-spontaneous chemical reaction.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=HVV1KNmJWh4",
    quiz:[
      {q:"A galvanic cell generates electrical energy from ___.", options:["A process entirely unrelated to chemical reactions","A non-spontaneous chemical reaction requiring external energy","A spontaneous chemical reaction","No chemical reaction at all"], answer:2},
      {q:"An electrolytic cell uses electrical energy to drive ___.", options:["A process entirely unrelated to electricity","No chemical reaction of any kind","A spontaneous chemical reaction with no external energy required","A non-spontaneous chemical reaction"], answer:3},

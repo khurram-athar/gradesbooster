@@ -1956,6 +1956,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Artificial Intelligence and Machine Learning: An Introduction", summary:"Grade 8 Science and Technology strand: artificial intelligence refers to computer systems designed to perform tasks that typically require human intelligence, and machine learning is a method that allows these systems to improve through exposure to data.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=wQ74YfYbZLM",
    quiz:[
      {q:"Artificial intelligence refers to ___.", options:["A system with no connection to computing","A concept unrelated to technology","Computer systems designed to perform tasks requiring human-like intelligence","Only physical robots, with no software involved"], answer:2},
      {q:"Machine learning allows computer systems to ___.", options:["Remain completely unchanged regardless of new information","Replace the need for any programming","Function with no connection to data at all","Improve their performance through exposure to data"], answer:3},
