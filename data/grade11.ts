@@ -1980,6 +1980,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"English", title:"Oral Communication: The Elevator Pitch and Concise Persuasion", summary:"Grade 11 English strand: an elevator pitch is a brief, focused presentation designed to quickly and persuasively communicate an idea, typically within the span of a short conversation.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=CTkx83_e95o",
    quiz:[
      {q:"An elevator pitch is designed to ___.", options:["A concept unrelated to communication","Provide an extremely detailed, lengthy explanation of a topic","Avoid making any clear or persuasive point","Quickly and persuasively communicate an idea"], answer:3},
      {q:"Why is brevity an important characteristic of an effective elevator pitch?", options:["An elevator pitch should always be as long and detailed as possible","Brevity has no connection to how effective a pitch is","This characteristic is irrelevant to persuasive communication","It respects the limited time available and keeps the audience’s attention focused"], answer:3},
@@ -1989,6 +1990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Probability: Expected Value and Decision Making", summary:"Grade 11 Functions strand (Data Management): expected value is a calculation that combines the probability and outcome of each possible result in a situation, helping guide decisions involving uncertainty.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=b6VK2VPMXNI",
    quiz:[
      {q:"Expected value combines the probability and outcome of ___.", options:["Only the single most likely outcome, with no other results considered","Each possible result in a situation","A random, unrelated calculation with no connection to outcomes","A concept unrelated to probability"], answer:1},
      {q:"Expected value can help guide decisions that involve ___.", options:["A concept entirely unrelated to probability or outcomes","Uncertainty","Situations with absolutely no risk or uncertainty involved","Decisions where every outcome is already known with complete certainty"], answer:1},
@@ -1998,6 +2000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Physiology: The Respiratory System and Gas Exchange", summary:"Grade 11 Biology strand: the respiratory system enables gas exchange, bringing oxygen into the body and removing carbon dioxide, a process essential for cellular respiration.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=v_j-LD2YEqg",
    quiz:[
      {q:"The respiratory system enables gas exchange by bringing in ___ and removing carbon dioxide.", options:["Only nitrogen, with no connection to oxygen","A gas entirely unrelated to respiration","Water vapour exclusively, with no other gases involved","Oxygen"], answer:3},
      {q:"Gas exchange in the respiratory system is essential for supporting ___.", options:["A function unrelated to obtaining energy","Only digestion, with no connection to respiration","Cellular respiration","A process entirely unrelated to cellular function"], answer:2},
@@ -2007,6 +2010,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Reaction Mechanisms and Rate-Determining Steps", summary:"Grade 11 Chemistry strand: many chemical reactions occur through a series of smaller steps called a reaction mechanism, with the slowest step, known as the rate-determining step, controlling the overall reaction rate.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=ShzW1LoQgoc",
    quiz:[
      {q:"A reaction mechanism describes a chemical reaction as occurring through ___.", options:["A single, instantaneous step with no intermediate stages","No defined steps of any kind","A series of smaller steps","A process entirely unrelated to chemical reactions"], answer:2},
      {q:"The rate-determining step of a reaction is best described as ___.", options:["The slowest step in the reaction mechanism","The fastest step in the reaction mechanism","The very first step, regardless of its speed","A step unrelated to the overall reaction rate"], answer:0},

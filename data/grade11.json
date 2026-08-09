@@ -11599,6 +11599,7 @@
         "summary": "Grade 11 English strand: an elevator pitch is a brief, focused presentation designed to quickly and persuasively communicate an idea, typically within the span of a short conversation.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=CTkx83_e95o",
         "quiz": [
           {
             "q": "An elevator pitch is designed to ___.",
@@ -11658,6 +11659,7 @@
         "summary": "Grade 11 Functions strand (Data Management): expected value is a calculation that combines the probability and outcome of each possible result in a situation, helping guide decisions involving uncertainty.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=b6VK2VPMXNI",
         "quiz": [
           {
             "q": "Expected value combines the probability and outcome of ___.",
@@ -11717,6 +11719,7 @@
         "summary": "Grade 11 Biology strand: the respiratory system enables gas exchange, bringing oxygen into the body and removing carbon dioxide, a process essential for cellular respiration.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=v_j-LD2YEqg",
         "quiz": [
           {
             "q": "The respiratory system enables gas exchange by bringing in ___ and removing carbon dioxide.",
@@ -11776,6 +11779,7 @@
         "summary": "Grade 11 Chemistry strand: many chemical reactions occur through a series of smaller steps called a reaction mechanism, with the slowest step, known as the rate-determining step, controlling the overall reaction rate.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=ShzW1LoQgoc",
         "quiz": [
           {
             "q": "A reaction mechanism describes a chemical reaction as occurring through ___.",

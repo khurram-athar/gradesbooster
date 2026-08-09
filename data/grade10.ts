@@ -1980,6 +1980,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"English", title:"Oral Communication: The Persuasive Speech", summary:"Grade 10 English strand: a persuasive speech aims to convince an audience of a particular viewpoint, using strong evidence, confident delivery, and rhetorical techniques to strengthen the argument.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=nXppIP8VYpM",
    quiz:[
      {q:"A persuasive speech aims to ___.", options:["Simply inform an audience with no argument involved","Avoid presenting any clear viewpoint at all","Convince an audience of a particular viewpoint","Entertain an audience with no persuasive purpose"], answer:2},
      {q:"Why is confident delivery important when giving a persuasive speech?", options:["Confident delivery has no effect on how persuasive a speech is","Delivery style is irrelevant to a speech’s persuasive power","It can help the speaker appear credible and convincing to the audience","A persuasive speech should always be delivered with hesitation"], answer:2},
@@ -1989,6 +1990,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Operations with Complex Numbers", summary:"Grade 10 Number strand (extension): complex numbers can be added, subtracted, and multiplied using rules similar to those for real numbers, while remembering that the imaginary unit i squared equals negative one.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=8xWE2ns8T6Q",
    quiz:[
      {q:"When adding two complex numbers, you add their ___.", options:["Only the real parts, ignoring the imaginary parts entirely","Only the imaginary parts, ignoring the real parts entirely","Real parts together and their imaginary parts together","Neither the real nor imaginary parts"], answer:2},
      {q:"What does i squared equal?", options:["Zero","A value that cannot be determined","Negative one","One"], answer:2},
@@ -1998,6 +2000,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Earth Science: Astronomy -- The Life Cycle of Stars", summary:"Grade 10 Earth Science strand: stars go through a life cycle that includes formation from clouds of gas and dust, a stable main sequence phase, and an eventual end stage that depends on the star’s original mass.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=PM9CQDlQI0A",
    quiz:[
      {q:"Stars form from clouds of ___.", options:["Pure water vapour","A material unrelated to space","Only solid rock, with no gas involved","Gas and dust"], answer:3},
      {q:"During the main sequence phase, a star is generally considered ___.", options:["In a constant state of explosive change","Stable","Completely inactive, with no processes occurring","A phase unrelated to a star’s life cycle"], answer:1},
@@ -2007,6 +2010,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Oka Crisis and Indigenous Land Rights", summary:"Grade 10 History strand: the 1990 Oka Crisis was a land dispute between the Mohawk community and the town of Oka, Quebec, that drew national attention to Indigenous land rights and sovereignty in Canada.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=POo2X-6XNGw",
    quiz:[
      {q:"The Oka Crisis took place in which year?", options:["1945","1970","1919","1990"], answer:3},
      {q:"The Oka Crisis was a land dispute involving the Mohawk community and ___.", options:["A community unrelated to Indigenous land rights","A dispute with no connection to land at all","A location entirely unrelated to Quebec","The town of Oka, Quebec"], answer:3},
