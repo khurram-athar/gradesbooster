@@ -1978,6 +1978,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Active Reading of Complex Syntax", summary:"Grade 9 Reading and Writing strands: complex syntax includes long or intricate sentence structures, and actively breaking these sentences into smaller parts helps readers accurately understand their meaning.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=Bqgj7rspfVo",
    quiz:[
      {q:"Complex syntax refers to ___.", options:["Long or intricate sentence structures","Sentences containing no punctuation at all","Only very short, simple sentences","A concept unrelated to sentence structure"], answer:0},
      {q:"Why might breaking a complex sentence into smaller parts help with comprehension?", options:["It can clarify the relationships between different ideas within the sentence","Breaking sentences apart always makes them harder to understand","Complex sentences never need to be broken down for comprehension","This strategy has no effect on reading comprehension"], answer:0},
@@ -1987,6 +1988,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Sets and Venn Diagrams (Advanced)", summary:"Grade 9 Number strand: a set is a collection of distinct objects, and a Venn diagram visually represents relationships between sets, such as intersections (shared elements) and unions (all elements combined).",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=xZELQc11ACY",
    quiz:[
      {q:"A set is best described as ___.", options:["Always an empty collection with no elements","A single isolated number","A collection of distinct objects","A concept unrelated to mathematics"], answer:2},
      {q:"The intersection of two sets includes ___.", options:["Every element from both sets combined, with no overlap consideration","Only the elements shared by both sets","Only elements found in neither set","No elements at all, by definition"], answer:1},
@@ -1996,6 +1998,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Organic Chemistry: An Introduction to Carbon Compounds", summary:"Grade 9 Science Chemistry strand: organic chemistry is the study of carbon-based compounds, which form the basis of many essential molecules found in living organisms, such as carbohydrates and proteins.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=ULiLt2rtpAg",
    quiz:[
      {q:"Organic chemistry is the study of compounds based primarily on ___.", options:["Oxygen only","Carbon","Helium","A concept unrelated to any specific element"], answer:1},
      {q:"Carbon-based compounds form the basis of many molecules essential to ___.", options:["Nothing of scientific significance","Living organisms","A topic unrelated to biology or chemistry","Only non-living materials, with no connection to life"], answer:1},
@@ -2005,6 +2008,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Geography of Technology and the Digital Divide", summary:"Grade 9 Social Studies (Geography) strand: the digital divide refers to unequal access to technology and the internet across different regions and populations, shaped by geographic, economic, and infrastructure factors.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=-NQTmWAXyJw",
    quiz:[
      {q:"The digital divide refers to ___.", options:["A divide unrelated to geography or economics","Equal access to technology everywhere in the world","A concept unrelated to technology access","Unequal access to technology and the internet across regions and populations"], answer:3},
      {q:"Which factor might contribute to the digital divide in a specific region?", options:["A factor entirely unrelated to infrastructure","Limited internet infrastructure in that area","Universal, equal access to technology everywhere","The digital divide has no connection to infrastructure"], answer:1},

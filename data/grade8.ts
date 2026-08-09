@@ -1978,6 +1978,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Nominalization and Concise Writing", summary:"Grade 8 Writing strand: nominalization turns verbs or adjectives into nouns (decide becomes decision), which can sometimes make writing wordier, so concise writing often favours strong, direct verbs instead.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=32e3QlxHq7k",
    quiz:[
      {q:"Nominalization refers to ___.", options:["Turning a noun into a verb","A rule unrelated to word forms","Removing all nouns from a sentence","Turning a verb or adjective into a noun"], answer:3},
      {q:"Which is an example of a nominalized form of the verb decide?", options:["Undecided","Decide","Decision","Deciding quickly"], answer:2},
@@ -1987,6 +1988,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Conditional Probability", summary:"Grade 8 Data Management strand (pre-high-school extension): conditional probability is the probability of an event occurring given that another event has already occurred, which can change the likelihood compared to the event happening independently.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=sqDVrXq_eh0",
    quiz:[
      {q:"Conditional probability refers to ___.", options:["A probability that never changes based on other events","A concept unrelated to probability","The probability of an event occurring given that another event has already occurred","The probability of two completely unrelated events"], answer:2},
      {q:"If drawing a card from a deck without replacement, why might the probability of the second draw depend on the first?", options:["The two draws are always completely unrelated to each other","The probability always stays exactly the same regardless of prior events","The first draw changes the number and composition of remaining cards","Conditional probability never applies to drawing cards"], answer:2},
@@ -1996,6 +1998,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sustainable Agriculture and Food Technology", summary:"Grade 8 Science and Technology strand: sustainable agriculture practices, along with food technologies like vertical farming and precision agriculture, aim to increase food production efficiency while minimizing environmental impact.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=iloAQmroRK0",
    quiz:[
      {q:"Sustainable agriculture aims to ___.", options:["Have no connection to environmental impact","Ignore food production entirely","Increase food production efficiency while minimizing environmental impact","Maximize environmental harm with no consideration of efficiency"], answer:2},
      {q:"Vertical farming involves growing crops ___.", options:["In stacked layers, often indoors, to maximize limited space","Only in traditional, expansive outdoor fields","Without using any technology","In a method with no connection to space efficiency"], answer:0},
