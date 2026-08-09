@@ -11668,6 +11668,13 @@
         "summary": "Grade 12 Advanced Functions strand review: this lesson revisits matrix determinants, function iteration and fixed points, complex numbers in polar form, constrained optimization, and even/odd function symmetry.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=Ip3X9LOh2dk",
+        "videoUrls": [
+          {
+            "label": "Matrix Determinants",
+            "url": "https://www.youtube.com/watch?v=Ip3X9LOh2dk"
+          }
+        ],
         "quiz": [
           {
             "q": "The determinant of a matrix is ___.",
@@ -11727,6 +11734,7 @@
         "summary": "Grade 12 Calculus strand: calculus provides tools for modelling how populations change over time, using derivatives to represent growth rates and differential equations to capture more complex population dynamics.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=IYFkXWlgC_w",
         "quiz": [
           {
             "q": "Calculus provides tools for modelling how populations change over ___.",
@@ -11786,6 +11794,7 @@
         "summary": "Grade 12 Physics strand: orbital mechanics describes how satellites remain in orbit through a balance between gravitational pull and their forward velocity, determining factors like orbital period and altitude.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=QIaAleG0Eb4",
         "quiz": [
           {
             "q": "Satellites remain in orbit through a balance between gravitational pull and their ___.",

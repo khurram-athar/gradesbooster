@@ -1990,6 +1990,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Review: Determinants, Complex Numbers, and Optimization", summary:"Grade 12 Advanced Functions strand review: this lesson revisits matrix determinants, function iteration and fixed points, complex numbers in polar form, constrained optimization, and even/odd function symmetry.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=Ip3X9LOh2dk",
+   videoUrls:[{label:"Matrix Determinants", url:"https://www.youtube.com/watch?v=Ip3X9LOh2dk"}],
    quiz:[
      {q:"The determinant of a matrix is ___.", options:["Always equal to zero for every matrix","A single number that reveals key properties of the matrix","A completely separate matrix with no connection to the original","A concept unrelated to matrices"], answer:1},
      {q:"A complex number in polar form is expressed using magnitude and ___.", options:["A factor entirely unrelated to magnitude","Colour, with no connection to complex numbers","Angle","Only its real component, with no angle involved"], answer:2},
@@ -1999,6 +2001,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Applications: Calculus in Biology -- Population Models", summary:"Grade 12 Calculus strand: calculus provides tools for modelling how populations change over time, using derivatives to represent growth rates and differential equations to capture more complex population dynamics.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=IYFkXWlgC_w",
    quiz:[
      {q:"Calculus provides tools for modelling how populations change over ___.", options:["A concept unrelated to population dynamics","Time","Colour, with no connection to any biological process","Only a single, fixed instant with no consideration of change"], answer:1},
      {q:"Derivatives can be used in population modelling to represent ___.", options:["The exact geographic location of a population","A factor entirely unrelated to how a population changes","Growth rates","Only a population’s total, unchanging size"], answer:2},
@@ -2008,6 +2011,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Satellites and Orbital Mechanics", summary:"Grade 12 Physics strand: orbital mechanics describes how satellites remain in orbit through a balance between gravitational pull and their forward velocity, determining factors like orbital period and altitude.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=QIaAleG0Eb4",
    quiz:[
      {q:"Satellites remain in orbit through a balance between gravitational pull and their ___.", options:["Forward velocity","A factor entirely unrelated to orbital mechanics","Internal temperature, with no connection to motion","Complete lack of any motion whatsoever"], answer:0},
      {q:"Orbital mechanics helps determine factors like orbital period and ___.", options:["The material used to construct the satellite exclusively","Colour, with no connection to a satellite’s orbit","Altitude","A factor entirely unrelated to a satellite’s position"], answer:2},
