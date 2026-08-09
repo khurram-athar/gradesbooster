@@ -1978,6 +1978,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Correcting Dangling and Misplaced Modifiers", summary:"Ontario Grade 7 Writing strand: a dangling modifier lacks a clear word to describe, while a misplaced modifier is positioned too far from the word it describes, both of which can create confusing or unintended meanings.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=M6AzQ99bYO8",
    quiz:[
      {q:"A dangling modifier is a modifier that ___.", options:["Has no clear word in the sentence to describe","Only appears in formal writing","Is always placed correctly in a sentence","Never causes any confusion"], answer:0},
      {q:"A misplaced modifier is one that is ___.", options:["Never used in writing","Positioned too far from the word it is meant to describe","Always placed correctly next to the word it describes","Only found at the beginning of a sentence"], answer:1},
@@ -1987,6 +1988,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Equations with Variables on Both Sides", summary:"Ontario Grade 7 Algebra strand: solving an equation with variables on both sides involves first combining variable terms onto one side, then using inverse operations to isolate the variable.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=kFcAARqAXO4",
    quiz:[
      {q:"Solve for x: 3x + 4 = x + 10.", options:["x = 14","x = 7","x = 3","x = 2"], answer:2},
      {q:"Solve for y: 5y minus 2 = 2y + 7.", options:["y = 3","y = 5","y = 9","y = 1"], answer:0},
@@ -1996,6 +1998,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Space Exploration: Missions and Technology", summary:"Ontario Grade 7 Science Earth and Space Systems strand: space exploration relies on missions and technologies such as rockets, satellites, and space stations to study space and expand human understanding of the universe.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=3JuKR7jf46o",
    quiz:[
      {q:"Space missions often rely on technologies such as ___.", options:["Tools unrelated to space travel","No technology at all","Only bicycles and cars","Rockets and satellites"], answer:3},
      {q:"A space station allows astronauts to ___.", options:["Immediately return to Earth after a few minutes","Live and conduct research in space for extended periods","Avoid conducting any scientific research","Travel to another galaxy instantly"], answer:1},
@@ -2003,14 +2006,15 @@ const curriculum: DayContent[] = [
      {q:"Why is space exploration considered valuable to scientific understanding?", options:["Space missions never gather any useful information","It has no connection to expanding human knowledge","Space exploration provides no scientific benefit","It expands knowledge about the universe, other planets, and Earth itself"], answer:3},
      {q:"Which is an example of a real space exploration technology?", options:["A device with no connection to space exploration","A tool used only for underwater exploration","A vehicle designed only for use on Earth’s roads","A robotic rover exploring the surface of Mars"], answer:3}
    ]},
-  {subject:"SocialStudies", title:"Technology’s Impact on Modern Society and Government", summary:"Ontario Grade 7 Social Studies People and Environments strand: technology has significantly influenced modern society and government, affecting communication, access to information, and how citizens engage with political processes.",
+  {subject:"SocialStudies", title:"Digital Citizenship: Being Safe and Responsible Online", summary:"Ontario Grade 7 Social Studies People and Environments strand: digital citizenship means using technology safely, respectfully, and responsibly, including protecting personal information and treating others well online.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=YGg83H7Pkc8",
    quiz:[
-     {q:"Technology has significantly influenced modern society by affecting ___.", options:["Nothing related to daily life","Only entertainment, with no other effects","Communication and access to information","A completely unrelated area of life"], answer:2},
-     {q:"How has technology changed the way citizens engage with government?", options:["Citizens can no longer access any government information","It has made information about government actions more accessible","Technology has eliminated all forms of citizen participation","Technology has had no effect on citizen engagement"], answer:1},
-     {q:"Which is an example of technology’s impact on communication with government?", options:["Technology preventing all communication with government","Citizens accessing government services or information online","No connection between technology and government services","A complete absence of any online government services"], answer:1},
-     {q:"Why might increased access to information through technology be significant for democracy?", options:["Technology has no role in supporting democratic engagement","Access to information has no connection to democratic participation","Informed citizens can more effectively participate in democratic processes","Democracy functions identically with or without access to information"], answer:2},
-     {q:"Why is it useful to study the relationship between technology and government?", options:["Governance has remained completely unaffected by technology","Technology and government have no meaningful connection","It helps explain how modern tools are reshaping civic participation and governance","This relationship has no relevance to social studies"], answer:2}
+     {q:"Digital citizenship refers to using technology ___.", options:["In a completely unrestricted way with no rules","Safely, respectfully, and responsibly","Only for entertainment purposes","Without ever considering how it affects others"], answer:1},
+     {q:"Why is it important to protect personal information online?", options:["Personal information has no value to anyone online","Protecting it helps prevent identity theft and other risks","Sharing all personal information online is always safe","Personal information online can never be misused"], answer:1},
+     {q:"Which is an example of being a responsible digital citizen?", options:["Treating others with respect in online interactions","Posting personal information publicly with no caution","Ignoring the effects of one's online behaviour on others","Ignoring all safety guidance when going online"], answer:0},
+     {q:"Why might it be important to think before posting something online?", options:["Content posted online can be permanent and seen by a wide audience","Nothing posted online ever has lasting consequences","Online posts disappear immediately and cannot be seen again","Thinking before posting has no real benefit"], answer:0},
+     {q:"Why is digital citizenship considered an important topic for students to learn?", options:["Technology has no real impact on students' daily lives","It helps students navigate online spaces safely and responsibly","Digital spaces require no thoughtful behaviour","This topic has no connection to students' lives"], answer:1}
    ]},
 ]},
 {day:49, label:"Day 49 — Thu", subjects:[
