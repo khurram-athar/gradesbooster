@@ -2342,6 +2342,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Using a Dictionary and Glossary", summary:"Students learn how to use a dictionary or glossary to find the meaning of a word, using guide words and alphabetical order to locate entries quickly.",
    resourceLabel:"YouTube: Using a Dictionary and Glossary", resourceUrl:"https://www.youtube.com/results?search_query=Using%20a%20Dictionary%20and%20Glossary%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Noo6P2D9vZI",
    quiz:[
      {q:"What can you use to find the meaning of an unfamiliar word?", options:["A map","A recipe","A calendar","A dictionary"], answer:3},
      {q:"What do we call a list of important words and their meanings at the back of a book?", options:["A glossary","A table of contents","An index card","A title page"], answer:0},
@@ -2356,6 +2357,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Perimeter: Measuring Around a Shape", summary:"Students learn that perimeter is the total distance around the outside edge of a shape, found by adding the lengths of all its sides.",
    resourceLabel:"YouTube: Perimeter: Measuring Around a Shape", resourceUrl:"https://www.youtube.com/results?search_query=Perimeter%3A%20Measuring%20Around%20a%20Shape%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BycSSnD0kAQ",
    quiz:[
      {q:"What do we call the total distance around the outside edge of a shape?", options:["Mass","Area","Perimeter","Volume"], answer:2},
      {q:"If a square has sides of 4 centimetres each, what is its perimeter?", options:["16 centimetres","8 centimetres","4 centimetres","12 centimetres"], answer:0},
@@ -2370,6 +2372,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Circuits and Electricity", summary:"Students learn that a simple electric circuit is a complete loop that lets electricity flow from a battery through wires to power something like a light bulb.",
    resourceLabel:"YouTube: Simple Circuits and Electricity", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Circuits%20and%20Electricity%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=45E2NmoBj-8",
    quiz:[
      {q:"What do we call a complete loop that lets electricity flow through it?", options:["A pattern","A magnet","A circuit","A pulley"], answer:2},
      {q:"Which of these provides the energy in a simple circuit?", options:["A cotton ball","A leaf","A battery","A wooden block"], answer:2},
@@ -2384,6 +2387,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Wildlife and Where Animals Live", summary:"Students learn about wildlife found across Canada, such as moose in forests, polar bears in the Arctic, and beavers near rivers and lakes, and how each animal is suited to where it lives.",
    resourceLabel:"YouTube: Canadian Wildlife and Where Animals Live", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Wildlife%20and%20Where%20Animals%20Live%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=zZp0hZYrR7Y",
    quiz:[
      {q:"Which large animal is commonly found in Canadian forests?", options:["A moose","A camel","A penguin","A kangaroo"], answer:0},
      {q:"Which animal is well known for living in the cold Arctic region of Canada?", options:["A lion","A monkey","A polar bear","A parrot"], answer:2},

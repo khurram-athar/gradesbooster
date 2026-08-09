@@ -2338,6 +2338,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Following Written Instructions", summary:"Students practise reading and following short written instructions, such as steps in a simple recipe or a set of directions for an activity, in the correct order.",
    resourceLabel:"YouTube: Following Written Instructions", resourceUrl:"https://www.youtube.com/results?search_query=Following%20Written%20Instructions%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Z155TgEs8yA",
    quiz:[
      {q:"Why is it important to read instructions carefully?", options:["So you know what steps to follow and in what order","You should skip reading them","Order never matters","Instructions do not matter"], answer:0},
      {q:"Which of these is an example of written instructions?", options:["The steps in a simple recipe","A weather report","A made-up story","A birthday card"], answer:0},
@@ -2352,6 +2353,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Positional Language: Above, Below, Beside, Between", summary:"Students learn positional words that describe where objects are located, such as above, below, beside, and between, to describe the position of one object compared to another.",
    resourceLabel:"YouTube: Positional Language: Above, Below, Beside, Between", resourceUrl:"https://www.youtube.com/results?search_query=Positional%20Language%3A%20Above%2C%20Below%2C%20Beside%2C%20Between%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gPTR5fSj6bU",
    quiz:[
      {q:"If a cloud is high in the sky over a house, the cloud is ___ the house.", options:["Beside","Below","Above","Inside"], answer:2},
      {q:"If a shoe is under a bed, the shoe is ___ the bed.", options:["On top of","Above","Beside","Below"], answer:3},
@@ -2366,6 +2368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Camouflage: Hiding in Nature", summary:"Students learn that camouflage is when an animal color or pattern helps it blend in with its surroundings, making it harder for predators or prey to see it.",
    resourceLabel:"YouTube: Camouflage: Hiding in Nature", resourceUrl:"https://www.youtube.com/results?search_query=Camouflage%3A%20Hiding%20in%20Nature%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bVG1BpA8loE",
    quiz:[
      {q:"What is camouflage?", options:["A type of weather","When an animal color or pattern helps it blend into its surroundings","A kind of food","A loud animal sound"], answer:1},
      {q:"Why might camouflage help an animal survive?", options:["It helps the animal hide from predators or sneak up on prey","It only changes the animal sound","It makes the animal easier to see","Camouflage has no benefit"], answer:0},
@@ -2380,6 +2383,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Toys and Games: Then and Now", summary:"Students compare toys and games children played with long ago, such as simple wooden toys and marbles, to toys and games children play with today, such as video games.",
    resourceLabel:"YouTube: Toys and Games: Then and Now", resourceUrl:"https://www.youtube.com/results?search_query=Toys%20and%20Games%3A%20Then%20and%20Now%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=seIVRO_fGEE",
    quiz:[
      {q:"Which of these is an example of a toy children may have played with long ago?", options:["A tablet","A smartphone app","A video game console","A simple wooden toy"], answer:3},
      {q:"Which of these is a toy or game children commonly play with today?", options:["A horse and wagon","A quill pen","A stone tool","A video game"], answer:3},

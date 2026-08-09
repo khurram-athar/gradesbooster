@@ -1978,6 +1978,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Capitalization Rules", summary:"Ontario Grade 3 Writing strand: capital letters are used at the start of a sentence, for proper nouns (names of specific people, places, and things), and for the pronoun I.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=mrUGNyo2P-w",
    quiz:[
      {q:"A sentence should always begin with a ___.", options:["Lowercase letter","Question mark","Number","Capital letter"], answer:3},
      {q:"Which word should be capitalized?", options:["toronto","the","happy","dog"], answer:0},
@@ -1987,6 +1988,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Patterning: Growing Patterns with Shapes", summary:"Ontario Grade 3 Algebra strand: a growing pattern increases by a consistent rule at each step, such as adding one more shape each time, and can be shown with objects, pictures, or numbers.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=XvnzYHv9kOk",
    quiz:[
      {q:"If a pattern of squares goes 1, 3, 5, 7, what is the rule?", options:["Add 1","Add 3","Subtract 2","Add 2"], answer:3},
      {q:"A growing pattern of triangles has 2, 4, 6 triangles in the first three steps. How many in the fourth step?", options:["9","10","8","7"], answer:2},
@@ -1996,6 +1998,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Endangered Species and Conservation", summary:"Ontario Grade 3 Science Life Systems strand: an endangered species is a type of plant or animal at risk of disappearing, often due to habitat loss, and conservation efforts help protect them.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=07DJdDi6pL0",
    quiz:[
      {q:"An endangered species is one that is ___.", options:["At risk of disappearing entirely","Not affected by habitat changes","Extremely common","Found only in zoos"], answer:0},
      {q:"A common cause of species becoming endangered is ___.", options:["Nothing affects species survival","Too many protections","Too much habitat available","Loss of habitat"], answer:3},
@@ -2005,6 +2008,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Protecting Natural Resources for the Future", summary:"Ontario Grade 3 Social Studies People and Environments strand: natural resources like forests, water, and minerals must be used responsibly so they remain available for future generations, a practice known as sustainability.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5s88yxT799Y",
    quiz:[
      {q:"Sustainability means using resources in a way that ___.", options:["Ignores future needs completely","Keeps them available for future generations","Uses them all up as fast as possible","Has no long-term plan"], answer:1},
      {q:"Which is an example of a natural resource?", options:["A video game","Forests","A shopping mall","A highway sign"], answer:1},

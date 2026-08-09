@@ -2338,6 +2338,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Predicting: What Happens Next", summary:"Students practise predicting, or making a smart guess, about what might happen next in a story based on clues from the pictures and words.",
    resourceLabel:"YouTube: Predicting: What Happens Next", resourceUrl:"https://www.youtube.com/results?search_query=Predicting%3A%20What%20Happens%20Next%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5xHac3Y-kcw",
    quiz:[
      {q:"What does it mean to predict?", options:["To ignore the story","To draw a picture","To read the last page first","To make a smart guess about what might happen"], answer:3},
      {q:"What can help you make a good prediction about a story?", options:["Skipping pages","Ignoring the book","Closing your eyes","Clues from pictures and words"], answer:3},
@@ -2352,6 +2353,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Shapes in Our World: 2D and 3D Together", summary:"Students look for 2D shapes, like circles and squares, and 3D shapes, like spheres and cubes, in everyday objects around their classroom and home.",
    resourceLabel:"YouTube: Shapes in Our World: 2D and 3D Together", resourceUrl:"https://www.youtube.com/results?search_query=Shapes%20in%20Our%20World%3A%202D%20and%203D%20Together%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YxoLlSTu1jo",
    quiz:[
      {q:"Which of these is an example of a 3D shape in real life?", options:["A triangle drawn on paper","A ball","A drawn circle","A flat square drawing"], answer:1},
      {q:"Which of these is an example of a 2D shape?", options:["A circle drawn on paper","A cube","A cylinder","A sphere"], answer:0},
@@ -2366,6 +2368,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Camouflage: Hiding in Plain Sight", summary:"Students learn that camouflage is when an animal blends into its surroundings, using colours or patterns to hide from other animals.",
    resourceLabel:"YouTube: Camouflage: Hiding in Plain Sight", resourceUrl:"https://www.youtube.com/results?search_query=Camouflage%3A%20Hiding%20in%20Plain%20Sight%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YOIRci0CKzg",
    quiz:[
      {q:"What is camouflage?", options:["When an animal sleeps all day","When an animal flies very high","When an animal blends into its surroundings to hide","When an animal makes loud noises"], answer:2},
      {q:"Why do some animals use camouflage?", options:["To hide from predators or prey","To make friends","To attract attention","To grow bigger"], answer:0},
@@ -2380,6 +2383,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Land and Water: Exploring Our Earth", summary:"Students learn that the Earth is made up of land, such as mountains and forests, and water, such as lakes, rivers, and oceans.",
    resourceLabel:"YouTube: Land and Water: Exploring Our Earth", resourceUrl:"https://www.youtube.com/results?search_query=Land%20and%20Water%3A%20Exploring%20Our%20Earth%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=piTJcdMdO3g",
    quiz:[
      {q:"Which of these is a land feature?", options:["Ocean","Lake","Mountain","River"], answer:2},
      {q:"Which of these is a water feature?", options:["Ocean","Mountain","Forest","Hill"], answer:0},
