@@ -11571,6 +11571,7 @@
         "summary": "Ontario Grade 6 Language strand: some words are easily confused because they sound alike but have different meanings and spellings, such as affect versus effect, or accept versus except.",
         "resourceLabel": "TVO Learn: Grade 6 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-language",
+        "videoUrl": "https://www.youtube.com/watch?v=PGI95jwIHTo",
         "quiz": [
           {
             "q": "Which sentence correctly uses affect and effect? The medicine will ___ my health, and the ___ should be positive.",
@@ -11630,6 +11631,7 @@
         "summary": "Ontario Grade 6 Algebra strand: a nonlinear growing pattern changes by a rate that is not constant, such as doubling each time, unlike a linear pattern which increases by the same amount each step.",
         "resourceLabel": "TVO Learn: Grade 6 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=ecARQzwvN9w",
         "quiz": [
           {
             "q": "In the pattern 2, 4, 8, 16, what is the next number?",
@@ -11689,6 +11691,7 @@
         "summary": "Ontario Grade 6 Science Earth and Space Systems strand: weather systems, such as high and low pressure areas and fronts, influence daily weather, and meteorologists use data and technology to forecast upcoming conditions.",
         "resourceLabel": "TVO Learn: Grade 6 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=fdErsR8_NaU",
         "quiz": [
           {
             "q": "A low pressure system is often associated with ___.",
@@ -11748,6 +11751,7 @@
         "summary": "Ontario Grade 6 Social Studies People and Environments strand: Canada’s modern immigration and multiculturalism policies aim to welcome newcomers from around the world while supporting the preservation of diverse cultural identities.",
         "resourceLabel": "TVO Learn: Grade 6 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-6-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=rKgoVDV6UiE",
         "quiz": [
           {
             "q": "Canada’s modern immigration policies aim to ___.",

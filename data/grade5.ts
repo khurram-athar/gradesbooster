@@ -1976,17 +1976,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:48, label:"Day 48 — Wed", subjects:[
-  {subject:"Language", title:"Media Literacy: Comparing Media Formats", summary:"Ontario Grade 5 Media Literacy strand: different media formats, such as print articles, videos, podcasts, and social media posts, present information differently and can shape how audiences understand a topic.",
+  {subject:"Language", title:"Media Literacy: Recognizing Clickbait Headlines", summary:"Ontario Grade 5 Media Literacy strand: clickbait headlines use curiosity, exaggeration, or shocking language to lure readers into clicking, often promising more than the actual article or video delivers.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=rrpFObGbV9Y",
    quiz:[
-     {q:"Which is an example of a media format?", options:["A single letter of the alphabet","A blank page","A math equation","A podcast"], answer:3},
-     {q:"Different media formats can ___.", options:["Present the same topic in different ways","Always present information identically","Have no effect on understanding","Never be compared to each other"], answer:0},
-     {q:"A video format might convey information differently from print by using ___.", options:["No sound or visuals at all","Visuals, sound, and movement","Only plain text with no other elements","Nothing beyond written words"], answer:1},
-     {q:"Why might comparing how different formats cover the same topic be useful?", options:["Comparing formats has no value","All formats always present identical information","Only one media format can ever be trusted","It reveals how the choice of format can shape understanding of a topic"], answer:3},
-     {q:"Social media posts often present information ___.", options:["In short, quickly consumed pieces","In a longer, more detailed form than any other format","Exactly the same way as an academic textbook","With no possibility of bias"], answer:0}
+     {q:"A clickbait headline is designed to ___.", options:["Give away the entire story so no one needs to click","Lure readers into clicking through curiosity or exaggeration","Present only plain, unemotional facts","Discourage anyone from reading the article"], answer:1},
+     {q:"Clickbait headlines often use ___ to grab attention.", options:["Exaggerated or shocking language","Only technical, neutral vocabulary","Complete silence with no words at all","A full summary of the article's conclusion"], answer:0},
+     {q:"Why might an article's content disappoint a reader after they click a clickbait headline?", options:["The headline always matches the content exactly","The headline promises more than the actual content delivers","Clickbait headlines never exaggerate anything","Readers always know exactly what to expect"], answer:1},
+     {q:"Why is recognizing clickbait considered an important media literacy skill?", options:["It helps readers evaluate whether a headline is misleading before trusting it","This skill has no real-world application","Clickbait has no effect on how people consume news","Headlines never influence a reader's decisions"], answer:0},
+     {q:"Which is an example of a clickbait technique?", options:["A headline stating only the key fact of a story","A vague, sensational headline that withholds the actual information","A byline crediting the article's author","A headline with no emotional language at all"], answer:1}
    ]},
   {subject:"Math", title:"Estimating and Measuring Angles with a Protractor", summary:"Ontario Grade 5 Geometry strand: a protractor is a tool used to measure the size of an angle in degrees, and estimating an angle’s size before measuring helps check whether the measurement is reasonable.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=N8TGOMH5Y50",
    quiz:[
      {q:"A protractor is used to measure ___.", options:["The weight of an object","The volume of a shape","The size of an angle in degrees","The length of a line"], answer:2},
      {q:"Before measuring an angle exactly, estimating its size helps you ___.", options:["Skip measuring entirely","Avoid using a protractor altogether","Check whether your final measurement is reasonable","Guess randomly with no purpose"], answer:2},
@@ -1996,6 +1998,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces: Friction and Air Resistance", summary:"Ontario Grade 5 Science Structures and Mechanisms strand: friction is a force that resists motion between two surfaces in contact, and air resistance is a similar force that slows objects moving through air.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=CrDcViPozcY",
    quiz:[
      {q:"Friction is a force that ___.", options:["Speeds up motion between surfaces","Only exists in outer space","Resists motion between two surfaces in contact","Has no effect on moving objects"], answer:2},
      {q:"Air resistance is a force that ___.", options:["Has no connection to motion","Only affects objects underwater","Speeds up objects moving through air with no limit","Slows down objects moving through air"], answer:3},
@@ -2003,14 +2006,15 @@ const curriculum: DayContent[] = [
      {q:"Why might a parachute use air resistance to its advantage?", options:["Air resistance only affects solid objects, not fabric","Parachutes eliminate air resistance completely","Air resistance has no effect on falling objects","It slows a falling object down for a safer landing"], answer:3},
      {q:"Which situation involves a large amount of friction?", options:["Sliding a heavy box across rough pavement","An object floating freely in space","A ball rolling on a frictionless surface","An object at complete rest with no forces acting on it"], answer:0}
    ]},
-  {subject:"SocialStudies", title:"Comparing Government Systems: Canada and Other Countries", summary:"Ontario Grade 5 Social Studies People and Environments strand: comparing Canada’s parliamentary democracy to other government systems, such as a republic or a monarchy without elected representatives, helps highlight different ways countries are governed.",
+  {subject:"SocialStudies", title:"What Is a Parliamentary Government?", summary:"Ontario Grade 5 Social Studies People and Environments strand: Canada uses a parliamentary system, in which citizens elect representatives to a legislature and the leader of the majority party typically becomes head of government.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=_URzwbHNNCE",
    quiz:[
-     {q:"Canada’s system of government is best described as a ___.", options:["System with no laws at all","Government led entirely by a single unelected ruler","Parliamentary democracy","Government with no elected officials"], answer:2},
-     {q:"Comparing government systems across countries can help students understand ___.", options:["That all countries are governed identically","That government systems have no real differences","Different ways nations organize decision-making and representation","That comparing systems serves no purpose"], answer:2},
-     {q:"A republic is generally a system where ___.", options:["Citizens have no role in choosing leaders","Only a king or queen can ever lead","The head of state is typically elected, not a hereditary monarch","There is no government at all"], answer:2},
-     {q:"Why might different countries choose different systems of government?", options:["Government systems have no connection to history or culture","Government systems often reflect a country’s unique history, values, and needs","All countries are required to use the same system","Choice of government system is always random"], answer:1},
-     {q:"Studying different government systems helps citizens ___.", options:["Better understand how their own government compares to others","Conclude that only one system has ever existed","Avoid learning about their own government","Understand that comparison is unnecessary"], answer:0}
+     {q:"Canada's system of government is best described as a ___.", options:["System with no laws at all","Government led entirely by a single unelected ruler","Parliamentary government","Government with no elected officials"], answer:2},
+     {q:"In a parliamentary system, citizens typically elect ___.", options:["No one at all","Representatives to a legislature", "A single ruler for life","Only local town officials"], answer:1},
+     {q:"In a parliamentary system, who typically becomes head of government?", options:["The leader of the majority party in the legislature","Whoever is oldest in the country","A randomly selected citizen","A hereditary monarch with absolute power"], answer:0},
+     {q:"Why might understanding parliamentary government be useful for students?", options:["It has no connection to how Canada is actually governed","It helps explain how laws are made and leaders are chosen in Canada","Parliamentary government is never used by any real country","This system has no elected officials at all"], answer:1},
+     {q:"Studying how a parliamentary government works helps citizens ___.", options:["Better understand how their own government makes decisions","Conclude that no government system has ever existed","Avoid learning about their own government","Understand that government structure is unimportant"], answer:0}
    ]},
 ]},
 {day:49, label:"Day 49 — Thu", subjects:[

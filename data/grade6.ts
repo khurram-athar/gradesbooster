@@ -1978,6 +1978,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Commonly Confused Words", summary:"Ontario Grade 6 Language strand: some words are easily confused because they sound alike but have different meanings and spellings, such as affect versus effect, or accept versus except.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=PGI95jwIHTo",
    quiz:[
      {q:"Which sentence correctly uses affect and effect? The medicine will ___ my health, and the ___ should be positive.", options:["effect, affect","effect, effect","affect, affect","affect, effect"], answer:3},
      {q:"Accept generally means ___.", options:["To multiply numbers","To receive or agree to something","To measure distance","To exclude something"], answer:1},
@@ -1987,6 +1988,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Nonlinear Growing Patterns", summary:"Ontario Grade 6 Algebra strand: a nonlinear growing pattern changes by a rate that is not constant, such as doubling each time, unlike a linear pattern which increases by the same amount each step.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ecARQzwvN9w",
    quiz:[
      {q:"In the pattern 2, 4, 8, 16, what is the next number?", options:["32","18","24","20"], answer:0},
      {q:"A nonlinear pattern is one where the amount of change ___.", options:["Never occurs at all","Is always negative","Is not constant between steps","Stays exactly the same each step"], answer:2},
@@ -1996,6 +1998,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Weather Systems and Forecasting", summary:"Ontario Grade 6 Science Earth and Space Systems strand: weather systems, such as high and low pressure areas and fronts, influence daily weather, and meteorologists use data and technology to forecast upcoming conditions.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=fdErsR8_NaU",
    quiz:[
      {q:"A low pressure system is often associated with ___.", options:["No effect on weather at all","Only warm temperatures with no variation","Clear, sunny weather with no clouds","Cloudy, stormy weather"], answer:3},
      {q:"Meteorologists use data and technology to ___.", options:["Control the weather directly","Ignore current weather patterns","Prevent all storms from happening","Forecast upcoming weather conditions"], answer:3},
@@ -2005,6 +2008,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Modern Canadian Immigration and Multicultural Policy", summary:"Ontario Grade 6 Social Studies People and Environments strand: Canada’s modern immigration and multiculturalism policies aim to welcome newcomers from around the world while supporting the preservation of diverse cultural identities.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=rKgoVDV6UiE",
    quiz:[
      {q:"Canada’s modern immigration policies aim to ___.", options:["Welcome newcomers from around the world","Ignore the needs of newcomers entirely","Prevent all immigration to Canada","Only allow immigration from one specific country"], answer:0},
      {q:"Canada’s multiculturalism policy supports ___.", options:["The preservation of diverse cultural identities","The elimination of all cultural diversity","No recognition of cultural differences","A single required culture for all citizens"], answer:0},

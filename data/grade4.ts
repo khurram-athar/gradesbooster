@@ -1978,6 +1978,7 @@ const curriculum: DayContent[] = [
 {day:48, label:"Day 48 — Wed", subjects:[
   {subject:"Language", title:"Media Literacy: Recognizing Bias in News", summary:"Ontario Grade 4 Media Literacy strand: bias in news occurs when information is presented in a way that favours one side or opinion, and recognizing it helps readers evaluate sources critically.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=vOVyK2jq4yU",
    quiz:[
      {q:"Bias in news means the information is presented ___.", options:["In a way that favours one side or opinion","Using only statistics","Without any point of view at all","In a completely neutral, balanced way"], answer:0},
      {q:"Why is it important for readers to recognize bias?", options:["Bias has no effect on how information is understood","Recognizing bias is unnecessary","To think critically and evaluate information more carefully","All news is always completely unbiased"], answer:2},
@@ -1987,6 +1988,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Predicting Outcomes with Probability", summary:"Ontario Grade 4 Data Management strand: probability can be used to predict likely outcomes, such as predicting that rolling a die is more likely to land on a number 1 through 6 than any other value.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ccgIkbw96HY",
    quiz:[
      {q:"If a bag has 3 red marbles and 1 blue marble, which colour is more likely to be picked?", options:["Red","Neither can be picked","Blue","Equally likely"], answer:0},
      {q:"Rolling a standard six-sided die, what is the chance of rolling a 7?", options:["Unlikely but possible","Likely","Impossible","Certain"], answer:2},
@@ -1996,6 +1998,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Recycling and Waste Reduction", summary:"Ontario Grade 4 Science Earth and Space Systems strand: recycling and waste reduction help limit the amount of garbage sent to landfills by reusing materials and reducing unnecessary consumption.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=VlRVPum9cp4",
    quiz:[
      {q:"Recycling helps reduce the amount of waste sent to ___.", options:["Nowhere, recycling has no effect","Landfills","Space","The ocean only"], answer:1},
      {q:"Which is an example of waste reduction?", options:["Ignoring how much waste is produced","Reusing containers instead of throwing them away","Buying more single-use items","Throwing away recyclable materials"], answer:1},
@@ -2005,6 +2008,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Identity: Symbols and Traditions", summary:"Ontario Grade 4 Social Studies Heritage and Identity strand: Canadian identity is expressed through symbols and traditions such as the maple leaf, the national anthem, and celebrations that reflect the country’s diverse heritage.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=UYElf0rSEvc",
    quiz:[
      {q:"Which is a well-known symbol of Canada?", options:["The palm tree","The pine cone only","The cactus","The maple leaf"], answer:3},
      {q:"National symbols and traditions help express ___.", options:["A country’s shared identity and values","Only one person’s personal opinion","A country’s exact population count","Nothing meaningful about a country"], answer:0},
