@@ -5893,6 +5893,386 @@ const curriculum: DayContent[] = [
      {q:"What international organization led the coalition Canada joined during the Korean War?", options:["The United Nations","The League of Nations","The British Commonwealth alone","The European Union"], answer:0}
    ]},
 ]},
+{day:151, label:"Day 151 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Reflexive and Intensive Pronouns", summary:"Grade 6 Language strand: a reflexive pronoun such as myself, yourself, or themselves refers back to the subject of a sentence, while an intensive pronoun uses the same forms only to add emphasis to a noun or pronoun already mentioned.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does a reflexive pronoun do?", options:["Refers back to the subject of a sentence","Joins two unrelated sentences together","Replaces a verb entirely","Always begins a new independent clause"], answer:0},
+     {q:"Which of these is a reflexive pronoun?", options:["Her","Herself","She","Hers"], answer:1},
+     {q:"Which sentence uses an intensive pronoun for emphasis?", options:["The students greeted the principal.","The principal greeted every student.","The principal himself greeted every student.","The principal greeted the students kindly."], answer:2},
+     {q:"How does an intensive pronoun differ from a reflexive pronoun?", options:["An intensive pronoun always changes the meaning of a sentence completely","An intensive pronoun only adds emphasis and can be removed without changing the meaning","Intensive and reflexive pronouns are always spelled differently","A reflexive pronoun is optional and never required"], answer:1},
+     {q:"Why might a writer choose to include an intensive pronoun?", options:["To stress that a particular person, and no one else, performed an action","To make a sentence grammatically incomplete","To remove the subject from a sentence","Intensive pronouns are never used in careful writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Surface Area of Triangular Prisms", summary:"Grade 6 Math strand: the surface area of a triangular prism is the sum of the areas of its two triangular bases and its three rectangular faces, found by adding together all the flat surfaces that cover the shape.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What two kinds of faces make up a triangular prism?", options:["Two rectangular bases and three triangular faces","Two triangular bases and three rectangular faces","Only triangular faces with no rectangles","Only rectangular faces with no triangles"], answer:1},
+     {q:"How many rectangular faces does a triangular prism have?", options:["Five","Four","Three","Two"], answer:2},
+     {q:"Why might each face of a triangular prism need to be calculated separately?", options:["The rectangular faces can have different widths depending on the triangles side lengths","Surface area never requires measuring individual faces","Triangular prisms do not have separate measurable faces","Every face of a triangular prism is always identical"], answer:0},
+     {q:"What unit is the surface area of a triangular prism measured in?", options:["No units are needed","Linear units","Square units","Cubic units"], answer:2},
+     {q:"Why is finding surface area useful when designing a tent shaped like a triangular prism?", options:["Surface area has no connection to how much material is needed","Surface area only applies to shapes with no triangular faces","It helps determine how much fabric is needed to cover the entire structure","A tent shaped like a prism requires no fabric calculations"], answer:2}
+   ]},
+  {subject:"Science", title:"Simple Machines: The Screw and How It Works", summary:"Grade 6 Science strand: a screw is a simple machine made of an inclined plane wrapped around a cylinder, and turning it converts rotational force into a straight line force that can hold materials together or lift objects.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a screw?", options:["A wheel connected to a rope","Two inclined planes joined at their bases","A lever with a fixed pivot point","An inclined plane wrapped around a cylinder"], answer:3},
+     {q:"What does turning a screw convert rotational force into?", options:["Sound energy with no mechanical effect","A force that only spins in circles forever","A straight line force along the length of the screw","Heat energy with no other effect"], answer:2},
+     {q:"Which everyday object is an example of a screw?", options:["A wheelbarrow wheel","A jar lid","A pulley wheel","A seesaw"], answer:1},
+     {q:"Why does a screw grip materials together effectively as it turns?", options:["Screws only work when they are perfectly smooth","Its threads dig into the surrounding material, pulling surfaces together","Turning a screw always loosens materials instead of tightening them","A screw never makes contact with surrounding material"], answer:1},
+     {q:"Why might a screw be considered a modified inclined plane?", options:["Wrapping the incline around a cylinder lets a small turning force do a large amount of work over a short distance","Screws require no force to turn at all","A screw has no relationship at all to an inclined plane","An inclined plane can never be wrapped around a cylinder"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Human Rights Commission and Its Role", summary:"Grade 6 Social Studies strand: the Canadian Human Rights Commission is a federal body that investigates complaints of discrimination and works to promote equality under Canadian law.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the main role of the Canadian Human Rights Commission?", options:["To investigate complaints of discrimination and promote equality","To manage national parks and forests","To enforce traffic laws on highways","To collect federal income taxes"], answer:0},
+     {q:"At what level of government does the Canadian Human Rights Commission operate?", options:["The municipal level only","The provincial level only","It operates outside of Canada","The federal level"], answer:3},
+     {q:"What might a person do if they experience discrimination covered by federal law?", options:["Ignore the situation entirely","Move to another country","Wait several years before taking any action","File a complaint with the Commission"], answer:3},
+     {q:"Why is it useful to have an independent commission handle discrimination complaints?", options:["Independent commissions cannot make fair decisions","It can review cases fairly, separate from political influence","Only elected officials should handle such complaints","Independent bodies have no role in protecting rights"], answer:1},
+     {q:"Why might promoting equality be considered an ongoing responsibility rather than a finished task?", options:["Ongoing responsibilities never require government institutions","Attitudes and circumstances continue to change, requiring continued education and enforcement","Discrimination no longer exists anywhere in Canada","Equality was fully achieved as soon as the Commission was created"], answer:1}
+   ]},
+]},
+{day:152, label:"Day 152 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Identifying Cause and Effect in Nonfiction Texts", summary:"Grade 6 Language strand: a cause is the reason something happens, while an effect is the result, and nonfiction writers often use signal words such as because, therefore, and as a result to show these relationships clearly.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a cause in a cause and effect relationship?", options:["A completely unrelated event","The title of a nonfiction text","The reason something happens","The result of an event"], answer:2},
+     {q:"What is an effect in a cause and effect relationship?", options:["The setting of a story","The reason something happens","A characters opinion","The result of an event"], answer:3},
+     {q:"Which word often signals a cause and effect relationship?", options:["Meanwhile","Yesterday","Previously","Therefore"], answer:3},
+     {q:"In the sentence The road flooded because of heavy rain, what is the cause?", options:["The location of the road","Heavy rain","The road flooding","The time of year"], answer:1},
+     {q:"Why is recognizing cause and effect important when reading nonfiction?", options:["Nonfiction texts never explain why events occur","Readers do not need to understand relationships between events","Cause and effect never appears in nonfiction writing","It helps readers understand why events happen and how ideas are connected"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Quartiles and Interquartile Range", summary:"Grade 6 Math strand: quartiles divide an ordered data set into four equal parts, and the interquartile range is the difference between the third quartile and the first quartile, describing the spread of the middle half of the data.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What do quartiles do to an ordered data set?", options:["Rearrange the data set randomly","Divide it into four equal parts","Remove the highest and lowest values","Divide it into two unequal parts"], answer:1},
+     {q:"What is the interquartile range?", options:["The middle value of a data set","The average of all values in a data set","The difference between the third quartile and the first quartile","The difference between the highest and lowest values"], answer:2},
+     {q:"Which part of a data set does the interquartile range describe?", options:["The spread of only the smallest values","The spread of only the largest values","It describes nothing about the data spread","The spread of the middle half of the data"], answer:3},
+     {q:"Why might the interquartile range be more useful than the full range for describing spread?", options:["It ignores the middle half of the data entirely","Outliers always make the interquartile range less accurate","It is less affected by extreme outlier values","It is always identical to the full range"], answer:2},
+     {q:"If the first quartile is 10 and the third quartile is 25, what is the interquartile range?", options:["10","15","35","25"], answer:1}
+   ]},
+  {subject:"Science", title:"DNA — The Blueprint of Life", summary:"Grade 6 Science strand: DNA is a molecule found inside cells that carries the genetic instructions used for the growth, development, and functioning of living things, and is passed from parents to offspring.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does DNA carry?", options:["A record of an organisms daily behaviour","Only information about an organisms diet","Genetic instructions for the growth and functioning of living things","Energy used directly for muscle movement"], answer:2},
+     {q:"Where in a cell is DNA typically found?", options:["Only in muscle tissue","Outside the cell entirely","Only in the bloodstream","Inside the nucleus"], answer:3},
+     {q:"How is DNA passed from one generation to the next?", options:["DNA cannot be passed between generations","It is created new in every individual with no connection to parents","It is passed from parents to their offspring","It only exists in adult organisms"], answer:2},
+     {q:"Why do siblings often share similar traits?", options:["DNA has no connection to physical traits","They inherit similar genetic instructions from their shared parents","Siblings never share any genetic similarities","Traits are determined entirely by the environment, not DNA"], answer:1},
+     {q:"Why is DNA sometimes compared to a blueprint?", options:["A blueprint and DNA have no meaningful similarities","Blueprints and genetic material are identical substances","DNA only affects the outward appearance of an organism","It contains detailed instructions for building and operating a living organism"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Highway of Heroes — Honouring Canadian Fallen Soldiers", summary:"Grade 6 Social Studies strand: the Highway of Heroes is a stretch of highway in Ontario where members of the public gather on overpasses to honour Canadian soldiers whose remains are being transported home, a tradition that began during the war in Afghanistan.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Highway of Heroes?", options:["A highway built exclusively for military vehicles","A stretch of Ontario highway where the public honours fallen Canadian soldiers","A road built during the First World War","A monument located in Ottawa"], answer:1},
+     {q:"During what conflict did the Highway of Heroes tradition begin?", options:["The Korean War","The war in Afghanistan","The Second World War","The First World War"], answer:1},
+     {q:"Where do members of the public typically gather to honour fallen soldiers along this route?", options:["At airports outside of Canada","Only inside private homes","On overpasses along the highway","Inside government buildings"], answer:2},
+     {q:"Why might communities choose to gather publicly for this tradition?", options:["To show collective respect and gratitude for the sacrifice of soldiers and their families","Communities are required by law to participate","The tradition discourages any public involvement","Public gatherings have no connection to honouring soldiers"], answer:0},
+     {q:"Why is a tradition like the Highway of Heroes significant to Canadian identity?", options:["It reflects a shared national value of honouring service and sacrifice","Only government officials are permitted to observe the tradition","The tradition has no meaning to ordinary citizens","It has no connection to how Canadians view military service"], answer:0}
+   ]},
+]},
+{day:153, label:"Day 153 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Synonyms and Antonyms in Context", summary:"Grade 6 Language strand: synonyms are words with similar meanings, while antonyms are words with opposite meanings, and choosing precise synonyms or antonyms in context can make writing clearer and more effective.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a synonym?", options:["A word with the opposite meaning of another word","A word with a similar meaning to another word","A word borrowed from another language","A word that describes a place"], answer:1},
+     {q:"What is an antonym?", options:["A word with the opposite meaning of another word","A word that sounds like another word","A word with no clear meaning","A word with a similar meaning to another word"], answer:0},
+     {q:"Which word is a synonym for happy?", options:["Joyful","Angry","Tired","Sad"], answer:0},
+     {q:"Which word is an antonym for generous?", options:["Kind","Caring","Selfish","Giving"], answer:2},
+     {q:"Why might a writer choose a specific synonym instead of repeating the same word?", options:["Using synonyms is never useful in writing","To add variety and precision to their writing","Synonyms always change the meaning of a sentence","Repeating the same word always improves clarity"], answer:1}
+   ]},
+  {subject:"Math", title:"Probability: Designing and Running Simulations", summary:"Grade 6 Math strand: a simulation uses a model, such as flipping a coin or drawing coloured tiles, to estimate the probability of a real-world event when repeating the actual event many times would be impractical.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is a simulation in probability?", options:["A model used to estimate the probability of a real-world event","An event that happens only once and is never repeated","A guess made without any supporting data","A method that removes the need for probability entirely"], answer:0},
+     {q:"Why might someone use a coin flip to simulate a real-world event with two equally likely outcomes?", options:["A coin flip closely models two equally likely outcomes","A coin flip cannot represent probability of any kind","Coin flips can only ever represent unequal probabilities","Simulations must always use dice, never coins"], answer:0},
+     {q:"Why are simulations useful when an actual event would be impractical to repeat many times?", options:["Simulations always give less accurate results than doing nothing at all","Simulations replace the need to understand probability","They allow an estimate of probability without needing to repeat the real event repeatedly","Real events are always easier to repeat than a simulation"], answer:2},
+     {q:"What might increase the accuracy of a probability simulation?", options:["Running more trials of the simulation","Using a model unrelated to the real event","Ignoring the results of the simulation","Running the simulation only a single time"], answer:0},
+     {q:"Why should the model used in a simulation closely match the real situation being studied?", options:["A mismatched model can produce misleading probability estimates","Matching the model to the real event has no effect on accuracy","Simulations are always accurate regardless of the model chosen","The model used in a simulation never needs to relate to the real event"], answer:0}
+   ]},
+  {subject:"Science", title:"Homeostasis — How the Body Maintains Balance", summary:"Grade 6 Science strand: homeostasis is the process by which the body maintains a stable internal environment, such as regulating temperature and fluid levels, even when outside conditions change.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is homeostasis?", options:["The process by which the body grows taller over time","A type of cell found only in the brain","The process by which the body maintains a stable internal environment","A disease that affects the immune system"], answer:2},
+     {q:"What is one example of something the body regulates through homeostasis?", options:["Shoe size","Eye colour","Body temperature","Hair colour"], answer:2},
+     {q:"What might the body do to cool down when it becomes too warm?", options:["Sweat to release heat through evaporation","Stop all bodily functions completely","Grow additional hair for insulation","Immediately raise its internal temperature further"], answer:0},
+     {q:"Why is maintaining a stable internal environment important for the body?", options:["Many bodily processes function properly only within a narrow range of conditions","Body temperature and fluid levels never need to be regulated","The bodys internal environment has no effect on its functioning","A stable internal environment is never necessary for survival"], answer:0},
+     {q:"Why might a persons body need to adjust differently in a very cold environment compared to a very hot one?", options:["Cold and hot environments have no effect on the bodys internal balance","Homeostasis only applies to warm environments","The body responds identically no matter the outside temperature","Homeostasis requires different responses depending on the outside conditions the body faces"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Tommy Douglas and the Origins of Canadian Medicare", summary:"Grade 6 Social Studies strand: Tommy Douglas, a premier of Saskatchewan, introduced the first public health insurance program in North America in 1962, laying the foundation for the national Medicare system Canadians rely on today.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was Tommy Douglas known for introducing?", options:["Canadas first official flag","The first Canadian national park","The first public health insurance program in North America","The first Canadian space program"], answer:2},
+     {q:"In what province did Tommy Douglas first introduce public health insurance?", options:["Ontario","Nova Scotia","Saskatchewan","British Columbia"], answer:2},
+     {q:"In approximately what year was this public health insurance program introduced?", options:["1867","1982","1929","1962"], answer:3},
+     {q:"What did Tommy Douglass program eventually help create across Canada?", options:["A national school system","A national Medicare system available to all Canadians","A national transportation network","A private insurance system available only to wealthy citizens"], answer:1},
+     {q:"Why is Tommy Douglas often remembered as an important figure in Canadian history?", options:["His work helped shape a health care system that continues to benefit Canadians today","His program had no lasting impact on Canadian society","Public health insurance was abandoned shortly after being introduced","He is remembered only for events unrelated to health care"], answer:0}
+   ]},
+]},
+{day:154, label:"Day 154 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Fable with a Moral", summary:"Grade 6 Language strand: a fable is a short story, often featuring animal characters, that teaches a lesson called a moral, usually stated directly at the end of the story.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a fable?", options:["A long novel with many chapters","A poem that must always rhyme","A factual newspaper article","A short story, often with animal characters, that teaches a lesson"], answer:3},
+     {q:"What is a moral in a fable?", options:["The name of the main character","The setting of the story","The lesson the story teaches","The title of the story"], answer:2},
+     {q:"Where is the moral of a fable usually stated?", options:["At the very beginning, before any events occur","Only in the title","Morals are never stated directly in a fable","At the end of the story"], answer:3},
+     {q:"Why do fables often use animal characters instead of humans?", options:["Animal characters can represent human behaviours in a simple, memorable way","Using animals removes the possibility of teaching a lesson","Fables are never allowed to include animal characters","Animal characters make a story impossible to understand"], answer:0},
+     {q:"Why might a writer choose the fable form to teach a lesson about honesty?", options:["Fables are not an effective way to teach any lesson","A fable must always be about a completely unrelated topic","A short, memorable story can make an abstract lesson easier to understand and remember","Lessons about honesty cannot be taught through storytelling"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Tessellations — Tiling the Plane with Shapes", summary:"Grade 6 Math strand: a tessellation is a pattern of shapes that fit together perfectly with no gaps or overlaps to cover a flat surface, and regular tessellations can be made using equilateral triangles, squares, or regular hexagons.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is a tessellation?", options:["A single shape drawn on its own","A three-dimensional solid made of many faces","A pattern with large gaps between shapes","A pattern of shapes that fit together with no gaps or overlaps"], answer:3},
+     {q:"Which shape can form a regular tessellation on its own?", options:["A circle","A square","An oval","A regular pentagon"], answer:1},
+     {q:"Why can regular hexagons be used to create a tessellation?", options:["Their interior angles allow them to fit together perfectly with no gaps","Hexagons cannot be arranged in a repeating pattern","Hexagons always leave large gaps when placed together","Regular hexagons have curved sides that prevent tiling"], answer:0},
+     {q:"Why can regular pentagons not form a simple tessellation on their own?", options:["Pentagons have too many sides to ever be used in a pattern","Every polygon can always tessellate on its own","Pentagons are not considered polygons","Their interior angles do not divide evenly around a point, leaving gaps or overlaps"], answer:3},
+     {q:"Where might tessellations be seen in the real world?", options:["Tessellations do not appear anywhere in nature or design","In floor tiles and honeycomb patterns","Only in three-dimensional sculptures","Only inside computer software"], answer:1}
+   ]},
+  {subject:"Science", title:"Biodegradable versus Non-Biodegradable Materials", summary:"Grade 6 Science strand: biodegradable materials, such as food scraps and paper, break down naturally through the action of decomposers, while non-biodegradable materials, such as many plastics, can persist in the environment for hundreds of years.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does it mean for a material to be biodegradable?", options:["It dissolves instantly in water","It breaks down naturally through the action of decomposers","It can only be broken down by humans","It never breaks down under any conditions"], answer:1},
+     {q:"Which of these is an example of a biodegradable material?", options:["A banana peel","A glass jar","A metal can","A plastic bottle"], answer:0},
+     {q:"Approximately how long can some non-biodegradable plastics persist in the environment?", options:["Less than a week","A single day","A few hours","Hundreds of years"], answer:3},
+     {q:"What role do decomposers play in breaking down biodegradable materials?", options:["Decomposers destroy soil nutrients rather than releasing them","Decomposers only affect non-biodegradable plastics","They break down organic matter into simpler substances that return nutrients to the soil","Decomposers have no role in breaking down any materials"], answer:2},
+     {q:"Why is the buildup of non-biodegradable waste a concern for the environment?", options:["It can accumulate in ecosystems and harm wildlife over long periods of time","Non-biodegradable waste always disappears quickly with no lasting effect","This type of waste has no impact on wildlife or ecosystems","Non-biodegradable materials break down faster than biodegradable ones"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Oka Crisis and Indigenous Land Rights", summary:"Grade 6 Social Studies strand: the Oka Crisis was a 1990 land dispute between the Mohawk community of Kanesatake and the town of Oka, Quebec, over a proposed development on land considered sacred, drawing national attention to Indigenous land rights in Canada.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the Oka Crisis?", options:["A 1990 land dispute between a Mohawk community and the town of Oka, Quebec","A trade disagreement between Canada and another country","A federal election dispute in Ontario","A dispute over a national park in British Columbia"], answer:0},
+     {q:"In what year did the Oka Crisis take place?", options:["1990","1867","1970","1929"], answer:0},
+     {q:"What was the land in dispute during the Oka Crisis being used for?", options:["A proposed development on land considered sacred by the Mohawk community","A new national highway","An international airport","A federal government building"], answer:0},
+     {q:"Why did the Oka Crisis draw significant national attention?", options:["It highlighted ongoing tensions over Indigenous land rights across Canada","The dispute was resolved privately with no public awareness","It had no connection to Indigenous rights issues","The event received no media coverage at the time"], answer:0},
+     {q:"Why might events like the Oka Crisis continue to be studied in Canadian history classes today?", options:["The event has no relevance to modern Canadian society","Land rights disputes no longer occur in Canada","The Oka Crisis has been completely forgotten by historians","They help explain ongoing discussions about land rights and reconciliation with Indigenous peoples"], answer:3}
+   ]},
+]},
+{day:155, label:"Day 155 — Fri", subjects:[
+  {subject:"Language", title:"Oral Communication: Giving and Receiving Constructive Feedback", summary:"Grade 6 Language strand: constructive feedback identifies specific strengths and areas for improvement in a respectful way, helping a speaker or writer grow, while receiving feedback well involves listening carefully without becoming defensive.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is constructive feedback?", options:["Feedback given only after a final grade is assigned","Feedback that identifies specific strengths and areas for improvement respectfully","Feedback that only criticizes without offering any useful direction","Feedback that avoids mentioning any strengths or weaknesses"], answer:1},
+     {q:"Why is it helpful for feedback to be specific rather than general?", options:["Feedback does not need to explain anything to be useful","Specific feedback makes it harder to understand what to improve","Specific feedback gives the person clear guidance on what exactly to improve","General feedback is always more useful than specific feedback"], answer:2},
+     {q:"What is an important skill when receiving feedback?", options:["Refusing to consider any suggestions","Listening carefully without becoming defensive","Immediately arguing against every comment made","Ignoring all feedback completely"], answer:1},
+     {q:"Why might a peer editing group agree on respectful language before giving feedback?", options:["Peer groups should avoid using any language at all","It helps ensure feedback is delivered constructively rather than hurtfully","Respectful language makes feedback less useful","Feedback is always effective regardless of how it is delivered"], answer:1},
+     {q:"Why is constructive feedback considered valuable for improving a piece of writing?", options:["Feedback from others is never useful for improving writing","Only the original writer can ever identify areas for improvement","Constructive feedback always weakens a piece of writing","It offers an outside perspective that can reveal strengths and weaknesses the writer may not notice"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Multiplying Decimals Using the Standard Algorithm", summary:"Grade 6 Math strand: multiplying decimals using the standard algorithm involves multiplying the numbers as if they were whole numbers, then placing the decimal point in the product based on the total number of decimal places in the factors.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is the first step when multiplying two decimal numbers using the standard algorithm?", options:["Round both numbers to the nearest whole number","Add the two decimal numbers together","Immediately place the decimal point before multiplying","Multiply the numbers as if they were whole numbers"], answer:3},
+     {q:"How is the position of the decimal point determined in the final product?", options:["By counting only the decimal places in the larger factor","By counting the total number of decimal places in both factors","By guessing where it looks correct","By always placing it after the first digit"], answer:1},
+     {q:"What is the product of 0.4 multiplied by 0.3?", options:["0.7","0.012","0.12","1.2"], answer:2},
+     {q:"If one factor has one decimal place and another has two decimal places, how many decimal places should the product have?", options:["Two","One","Four","Three"], answer:3},
+     {q:"Why is it useful to estimate the product before multiplying two decimals precisely?", options:["Estimation has no connection to checking the accuracy of an answer","Decimal placement never needs to be checked after calculating","Estimating always produces the exact same result as multiplying precisely","It helps check whether the final answer and decimal placement are reasonable"], answer:3}
+   ]},
+  {subject:"Science", title:"Whale Migration and Ocean Navigation", summary:"Grade 6 Science strand: many whale species migrate thousands of kilometres each year between cold feeding grounds and warm breeding waters, navigating using landmarks, ocean currents, and the Earths magnetic field.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"Why do many whale species migrate long distances each year?", options:["Whales do not actually migrate at all","To avoid all contact with other whales","To travel between cold feeding grounds and warm breeding waters","To find colder water for the entire year"], answer:2},
+     {q:"What is one method scientists believe whales use to navigate during migration?", options:["Using only the position of nearby cities","Whales do not use any navigation methods","Sensing the Earths magnetic field","Following road signs placed in the ocean"], answer:2},
+     {q:"Why might whales migrate toward warmer waters to give birth?", options:["Water temperature has no effect on newborn whales","Warmer waters may offer safer and more suitable conditions for newborn calves","Whales never give birth in warm waters","Warmer waters are always more dangerous for newborn calves"], answer:1},
+     {q:"What might disrupt a whales ability to navigate accurately during migration?", options:["Calm, quiet ocean conditions","Clear water with no obstacles","Ocean noise pollution from human activity","The presence of other whales nearby"], answer:2},
+     {q:"Why is understanding whale migration patterns important for ocean conservation efforts?", options:["Conservation efforts do not need to consider animal behaviour","Migration patterns have no connection to conservation efforts","It helps identify and protect the routes and habitats whales depend on","Whales do not require any specific habitats to survive"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Multiculturalism Act of 1988", summary:"Grade 6 Social Studies strand: the Canadian Multiculturalism Act of 1988 formally recognized and promoted the diversity of Canadian society, affirming the right of all citizens to preserve and share their cultural heritage.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did the Canadian Multiculturalism Act of 1988 formally recognize?", options:["The diversity of Canadian society","A single official culture for all of Canada","A requirement to adopt only one language nationwide","A ban on cultural celebrations"], answer:0},
+     {q:"In what year was the Multiculturalism Act passed?", options:["1867","1988","1929","1960"], answer:1},
+     {q:"What right did the Act affirm for Canadian citizens?", options:["The right to ignore all federal laws","The right to vote only in municipal elections","The right to avoid paying any taxes","The right to preserve and share their cultural heritage"], answer:3},
+     {q:"Why might a country choose to pass legislation supporting multiculturalism?", options:["Multiculturalism laws remove all cultural traditions from a country","Such legislation discourages diversity within a country","To formally support and encourage a diverse and inclusive society","Countries never benefit from recognizing cultural diversity"], answer:2},
+     {q:"Why is the Multiculturalism Act often seen as connected to Canadian identity today?", options:["The Act has no connection to how Canadians view their country","Cultural diversity is not considered part of Canadian identity","It reflects a value of inclusion that many Canadians consider central to their national identity","The Act was repealed shortly after being introduced"], answer:2}
+   ]},
+]},
+{day:156, label:"Day 156 — Mon", subjects:[
+  {subject:"Language", title:"Media Literacy: Understanding Algorithms and Personalized Feeds", summary:"Grade 6 Language strand: an algorithm is a set of rules a website or app uses to decide what content to show a user, often personalizing feeds based on past clicks and interests, which can create a narrower view of information called a filter bubble.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is an algorithm in the context of social media or apps?", options:["A type of computer virus","A set of rules used to decide what content to show a user","A person who manually selects content for every user","A device used to connect to the internet"], answer:1},
+     {q:"What might a personalized feed be based on?", options:["The order content was originally published","Random selection with no pattern at all","A users past clicks and interests","Feedback from a users teachers only"], answer:2},
+     {q:"What is a filter bubble?", options:["A narrower view of information caused by seeing only content similar to what a user already likes","A tool used to remove all advertisements from a feed","A feature that shows every user the exact same content","A device that blocks internet access entirely"], answer:0},
+     {q:"Why might it be important for a user to be aware of how algorithms shape their feed?", options:["It helps them recognize that they may be seeing a limited range of perspectives","Being aware of algorithms has no practical benefit","Algorithms have no effect on what content a user sees","All users automatically see identical, unfiltered content"], answer:0},
+     {q:"What could someone do to see a wider range of perspectives online?", options:["Deliberately seek out sources and viewpoints outside their usual feed","Read only one single source of information repeatedly","Only read content recommended by an algorithm","Avoid using the internet altogether"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Correlation versus Causation", summary:"Grade 6 Math strand: correlation means two variables tend to change together, while causation means one variable directly causes a change in another, and data showing correlation does not necessarily prove causation.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does correlation mean?", options:["A single variable stays exactly the same over time","One variable always directly causes another","Two variables have no relationship at all","Two variables tend to change together"], answer:3},
+     {q:"What does causation mean?", options:["Correlation and causation always mean the exact same thing","One variable directly causes a change in another","Two variables happen to change together with no connection","Data can never show a cause and effect relationship"], answer:1},
+     {q:"Why does correlation not necessarily prove causation?", options:["Correlated variables are always directly connected by cause and effect","Two variables might change together because of a third, unrelated factor","Correlation always proves that one variable causes the other","Causation can never be shown using data"], answer:1},
+     {q:"If ice cream sales and drowning incidents both rise in summer, what might explain this correlation?", options:["A third factor, such as hot weather, affects both variables","Drowning incidents directly cause higher ice cream sales","Ice cream sales directly cause drowning incidents","The two events have no possible explanation at all"], answer:0},
+     {q:"Why is it important for careful researchers to distinguish correlation from causation?", options:["Mistaking correlation for causation can lead to false conclusions about how things are related","Researchers never need to consider the difference between the two ideas","Distinguishing between them has no effect on the validity of research","Correlation and causation always lead to the same accurate conclusion"], answer:0}
+   ]},
+  {subject:"Science", title:"How Exercise Affects the Heart and Lungs", summary:"Grade 6 Science strand: physical exercise increases heart rate and breathing rate, strengthening the heart muscle over time and improving the bodys ability to deliver oxygen efficiently to working muscles.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What happens to heart rate during physical exercise?", options:["It stays exactly the same at all times","It decreases","It increases","It stops completely"], answer:2},
+     {q:"Why does breathing rate increase during exercise?", options:["The body needs more oxygen to supply working muscles","Breathing rate never changes during physical activity","The body needs less oxygen during exercise","Exercise stops the lungs from functioning"], answer:0},
+     {q:"How does regular exercise affect the heart muscle over time?", options:["Exercise has no effect on the heart muscle","It can strengthen the heart muscle","It causes the heart to stop growing entirely","It always weakens the heart muscle permanently"], answer:1},
+     {q:"Why is a stronger heart able to pump blood more efficiently?", options:["Heart strength has no connection to how efficiently blood is pumped","A stronger heart can pump more blood with each beat, delivering oxygen more effectively","A stronger heart requires more beats to deliver the same amount of oxygen","A stronger heart pumps less blood with every beat"], answer:1},
+     {q:"Why might regular physical activity be recommended as part of a healthy lifestyle?", options:["It supports the long-term health of the heart and lungs","Physical activity has no benefit for the heart or lungs","A healthy lifestyle never includes physical activity","Exercise only affects muscles, never the heart or lungs"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Fathers of Confederation and the Road to 1867", summary:"Grade 6 Social Studies strand: the Fathers of Confederation were the political leaders who negotiated the union of British North American colonies, leading to the formation of Canada as a country in 1867.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"Who were the Fathers of Confederation?", options:["A group of Indigenous leaders who founded Confederation","The first monarchs to rule over Canada","The political leaders who negotiated the union of British North American colonies","A group of early explorers who mapped Canada"], answer:2},
+     {q:"In what year did Confederation create the country of Canada?", options:["1812","1945","1867","1929"], answer:2},
+     {q:"What did the Fathers of Confederation negotiate?", options:["The boundaries of the United States","The union of separate British North American colonies into one country","A treaty ending a war with France","A trade agreement with another country"], answer:1},
+     {q:"Why might colonies have wanted to unite into a single country in the 1860s?", options:["Uniting could provide stronger defense, economic growth, and political stability","The colonies had no reason to consider uniting at all","Confederation was forced entirely by another country","Uniting would have weakened every colony involved"], answer:0},
+     {q:"Why do the Fathers of Confederation remain significant figures in Canadian history?", options:["They have no lasting connection to modern Canada","Their negotiations directly led to the founding of Canada as a country","Their work only affected a single small region of Canada","Confederation was reversed shortly after it occurred"], answer:1}
+   ]},
+]},
+{day:157, label:"Day 157 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Using Dashes and Parentheses for Extra Information", summary:"Grade 6 Language strand: dashes and parentheses can both be used to add extra information to a sentence, with dashes often creating a stronger emphasis while parentheses typically set off information considered less essential.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is one use of a dash in a sentence?", options:["To indicate that a sentence is a question","To end every sentence in a paragraph","To replace a period at all times","To add extra information with strong emphasis"], answer:3},
+     {q:"What is one use of parentheses in a sentence?", options:["To indicate the loudest word in a sentence","To replace a subject in a sentence","To end a sentence permanently","To set off information that is considered less essential"], answer:3},
+     {q:"Which sentence correctly uses parentheses to add extra information?", options:["The trip which lasted three days was unforgettable","The trip lasted (three days was unforgettable)","The (trip which lasted three days was unforgettable.","The trip (which lasted three days) was unforgettable."], answer:3},
+     {q:"Why might a writer choose a dash instead of a comma to set off information?", options:["A dash always weakens the emphasis of a sentence","Commas always create more emphasis than dashes","A dash can create a stronger, more dramatic pause than a comma","Dashes are never used to separate extra information"], answer:2},
+     {q:"Why is it important not to overuse dashes and parentheses in formal writing?", options:["Extra information should never be included in formal writing","Overuse can make writing feel cluttered and harder to follow","Formal writing requires using as many dashes as possible","Dashes and parentheses always improve clarity no matter how often they appear"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Allowance, Saving, and Spending Plans", summary:"Grade 6 Math strand: creating a simple spending plan involves dividing money, such as an allowance, into categories like saving, spending, and sharing, helping build habits of tracking income and expenses.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is a spending plan?", options:["A plan that divides money into categories such as saving, spending, and sharing","A record of only past purchases with no future planning","A plan used only by adults with full-time jobs","A plan that requires spending all money immediately"], answer:0},
+     {q:"Why might someone divide their allowance into different categories?", options:["Categories have no effect on how money is managed","All money should always be spent as soon as it is received","It helps them balance saving for the future with spending in the present","Dividing money into categories makes budgeting impossible"], answer:2},
+     {q:"If someone receives 20 dollars and saves 25 percent of it, how much do they save?", options:["10 dollars","20 dollars","15 dollars","5 dollars"], answer:3},
+     {q:"Why is tracking income and expenses considered a useful financial habit?", options:["Tracking money has no benefit for personal finance","Tracking expenses always makes budgeting more difficult","Only businesses need to track their income and expenses","It helps a person understand where their money goes and plan more effectively"], answer:3},
+     {q:"What might be one benefit of setting aside a portion of allowance for long-term saving?", options:["Long-term goals cannot be supported through saving","Saving always means giving up the ability to buy anything","Saving money has no long-term benefit","It builds toward a larger goal that could not be reached by spending immediately"], answer:3}
+   ]},
+  {subject:"Science", title:"Desalination — Turning Seawater into Fresh Water", summary:"Grade 6 Science strand: desalination is the process of removing salt and other minerals from seawater to produce fresh water suitable for drinking or irrigation, often using methods such as distillation or reverse osmosis.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does desalination remove from seawater?", options:["Only the water itself","Only dissolved oxygen","Only microscopic organisms","Salt and other minerals"], answer:3},
+     {q:"What is one method used to desalinate seawater?", options:["Adding more salt to the water","Reverse osmosis","Freezing the water permanently","Simple filtration through sand only"], answer:1},
+     {q:"Why might a coastal region with limited fresh water rely on desalination?", options:["Desalination removes the need for any water source","Desalination makes water undrinkable","It provides an alternative source of drinking water when fresh water is scarce","Coastal regions never experience water shortages"], answer:2},
+     {q:"What is one challenge associated with large-scale desalination?", options:["Desalination is always cheaper than every other water source","It can require significant amounts of energy to operate","Desalination requires no energy at all","Desalination plants produce no waste products"], answer:1},
+     {q:"Why might desalination become more important as global fresh water demand increases?", options:["Desalination has no connection to global water supply challenges","Ocean water can never be used as a water source","Fresh water demand is expected to decrease everywhere","It offers a way to access the vast supply of water found in the oceans"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Emancipation Day — The End of Slavery in British North America", summary:"Grade 6 Social Studies strand: Emancipation Day, observed on August 1, commemorates the 1834 abolition of slavery throughout the British Empire, including British North America, and is marked by celebrations in communities across Canada.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What does Emancipation Day commemorate?", options:["The founding of Canada as a country","The signing of the Numbered Treaties","The end of the First World War","The 1834 abolition of slavery throughout the British Empire"], answer:3},
+     {q:"On what date is Emancipation Day observed?", options:["January 1","August 1","July 1","November 11"], answer:1},
+     {q:"In approximately what year did slavery become illegal throughout the British Empire?", options:["1867","1929","1834","1960"], answer:2},
+     {q:"Why is Emancipation Day significant to communities across Canada?", options:["It honours the end of slavery and recognizes the history of Black communities in Canada","The day is only recognized outside of Canada","It commemorates an event unrelated to slavery","It has no connection to Canadian history"], answer:0},
+     {q:"Why might learning about Emancipation Day help Canadians understand the countrys history more fully?", options:["It highlights an important part of the history of Black communities often left out of standard accounts","This history has no bearing on understanding Canada today","Emancipation Day is unrelated to Canadian history entirely","Slavery never existed anywhere in British North America"], answer:0}
+   ]},
+]},
+{day:158, label:"Day 158 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Comparing Primary and Secondary Sources", summary:"Grade 6 Language strand: a primary source is firsthand evidence created during the time being studied, such as a letter or photograph, while a secondary source, such as a textbook, analyzes or interprets information from primary sources.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a primary source?", options:["A textbook that interprets historical events","A source that always contains only opinions","A summary written many years after an event","Firsthand evidence created during the time being studied"], answer:3},
+     {q:"Which of these is an example of a primary source?", options:["A documentary made decades later","A modern textbook chapter about that event","A diary written during a historical event","An encyclopedia article summarizing the event"], answer:2},
+     {q:"What is a secondary source?", options:["A source that analyzes or interprets information from primary sources","A source created at the exact moment an event occurred","A photograph taken during a historical event","An original letter written by a historical figure"], answer:0},
+     {q:"Why might historians value using both primary and secondary sources?", options:["Primary sources offer firsthand evidence, while secondary sources provide broader context and analysis","Only secondary sources are ever useful to historians","Primary sources are always less reliable than secondary sources","Historians never need more than one type of source"], answer:0},
+     {q:"Why is it important to consider who created a primary source?", options:["The creators perspective can influence what information is included or left out","All primary sources are always completely unbiased","Considering the source of information is unnecessary","The identity of a sources creator never matters"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Percents Greater Than 100 and Percents Less Than 1", summary:"Grade 6 Math strand: a percent greater than 100 represents an amount larger than the whole, while a percent less than 1 represents a very small fraction of the whole, both calculated using the same percent relationships as any other percent.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a percent greater than 100 represent?", options:["An amount always smaller than the whole","An amount larger than the whole","An amount that cannot exist mathematically","An amount exactly equal to the whole"], answer:1},
+     {q:"If a citys population grows from 100 to 150 people, what percent of the original population does the new population represent?", options:["15 percent","100 percent","150 percent","50 percent"], answer:2},
+     {q:"What does a percent less than 1 represent?", options:["A negative number","An amount exactly equal to the whole","A very small fraction of the whole","An amount larger than the whole"], answer:2},
+     {q:"What is 0.5 percent written as a decimal?", options:["0.005","0.5","0.05","5.0"], answer:0},
+     {q:"Why might percents greater than 100 be used to describe population or sales growth?", options:["Percents greater than 100 always indicate an error in calculation","Percents greater than 100 are mathematically impossible to calculate","Growth can never be expressed using percents","They show that a new value is larger than the original amount being compared"], answer:3}
+   ]},
+  {subject:"Science", title:"Rust and Corrosion — A Chemical Reaction", summary:"Grade 6 Science strand: rust forms when iron reacts with oxygen and moisture in the air, producing iron oxide, a chemical reaction known as corrosion that gradually weakens metal over time.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What two substances react with iron to produce rust?", options:["Oxygen and moisture","Carbon dioxide and sunlight","Salt and sand","Nitrogen and heat"], answer:0},
+     {q:"What is the chemical name for rust?", options:["Iron oxide","Iron carbonate","Iron nitrate","Iron sulfide"], answer:0},
+     {q:"What term describes the gradual weakening of metal caused by reactions like rust formation?", options:["Condensation","Photosynthesis","Evaporation","Corrosion"], answer:3},
+     {q:"Why might painting a metal surface help prevent rust?", options:["Paint has no effect on preventing corrosion","Paint speeds up the process of rust formation","Paint creates a barrier that blocks oxygen and moisture from reaching the metal","Rust cannot form on metal under any circumstances"], answer:2},
+     {q:"Why is understanding corrosion important for engineers who design bridges and buildings?", options:["Bridges and buildings are never made using metal materials","Corrosion never affects large metal structures","Engineers do not need to consider chemical reactions when designing structures","It helps them choose materials and protective coatings that reduce long-term structural damage"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Winnipeg General Strike of 1919", summary:"Grade 6 Social Studies strand: the Winnipeg General Strike of 1919 was one of the largest labour strikes in Canadian history, with tens of thousands of workers walking off their jobs to demand better wages, working conditions, and the right to collective bargaining.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the Winnipeg General Strike of 1919?", options:["A strike that took place outside of Canada","A protest against a proposed new Canadian flag","A strike involving only a handful of factory workers","One of the largest labour strikes in Canadian history"], answer:3},
+     {q:"In what city did the 1919 general strike take place?", options:["Halifax","Winnipeg","Toronto","Vancouver"], answer:1},
+     {q:"What were striking workers demanding during the Winnipeg General Strike?", options:["Better wages, working conditions, and the right to collective bargaining","A new provincial capital city","A shorter school year for children","Lower taxes on imported goods"], answer:0},
+     {q:"Approximately how many workers are believed to have taken part in the strike?", options:["Tens of thousands","Fewer than ten","Around one thousand","About one hundred"], answer:0},
+     {q:"Why is the Winnipeg General Strike considered an important event in Canadian labour history?", options:["The strike involved no workers demands of any kind","It highlighted workers demands for fair treatment and influenced later labour rights movements","It is remembered only as a minor, forgotten event","The strike had no lasting impact on workers rights in Canada"], answer:1}
+   ]},
+]},
+{day:159, label:"Day 159 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Collective Nouns and Group Terms", summary:"Grade 6 Language strand: a collective noun names a group of people, animals, or things treated as a single unit, such as a flock of birds, a team of players, or a herd of cattle.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a collective noun?", options:["A noun that names a group treated as a single unit","A verb that shows group action","An adjective that describes a group","A noun that names only one single object"], answer:0},
+     {q:"Which of these is a collective noun for a group of birds?", options:["Pack","School","Flock","Herd"], answer:2},
+     {q:"Which of these is a collective noun for a group of fish?", options:["Team","Herd","Flock","School"], answer:3},
+     {q:"In the sentence The team is practicing today, why is the verb is used instead of are?", options:["Collective nouns are always treated as multiple separate subjects","The verb are is never correct in English sentences","Team is not considered a collective noun","The team is treated as a single unit performing one action"], answer:3},
+     {q:"Why might collective nouns be useful when writing about animals or groups of people?", options:["Collective nouns make writing longer and less clear","They allow a writer to refer to an entire group efficiently with a single word","Collective nouns can only be used to describe inanimate objects","Every group must always be described using multiple separate nouns"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Finding Volume Using Water Displacement", summary:"Grade 6 Math strand: water displacement is a method for finding the volume of an irregularly shaped object by submerging it in water and measuring the rise in water level, which equals the objects volume.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does the water displacement method measure?", options:["The volume of an irregularly shaped object","The temperature of a liquid","The surface area of an object","The mass of an object"], answer:0},
+     {q:"How is the volume of an object determined using water displacement?", options:["By measuring how much the water level drops when the object is removed","By measuring how much the water level rises when the object is submerged","By weighing the object before and after submerging it","By measuring the temperature change of the water"], answer:1},
+     {q:"Why is water displacement especially useful for measuring irregularly shaped objects?", options:["Water displacement only works on perfectly cube-shaped objects","Regular geometric formulas always work better on irregular shapes","Formulas for regular shapes cannot easily be applied to irregular shapes","Irregular objects have no measurable volume"], answer:2},
+     {q:"If water rises from 100 millilitres to 150 millilitres after an object is submerged, what is the volume of the object?", options:["150 millilitres","50 millilitres","250 millilitres","100 millilitres"], answer:1},
+     {q:"Why must an object be fully submerged for water displacement to give an accurate volume measurement?", options:["The amount of an object that is submerged has no effect on the measurement","Partial submersion always gives a more accurate volume measurement","Only the submerged part of an object displaces water, so a partial submersion would underestimate the volume","Fully submerging an object always changes its actual volume"], answer:2}
+   ]},
+  {subject:"Science", title:"Bird Beak Adaptations for Different Diets", summary:"Grade 6 Science strand: bird beaks have evolved into a wide variety of shapes and sizes suited to different diets, such as long thin beaks for probing flowers, hooked beaks for tearing meat, and short strong beaks for cracking seeds.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is one factor that has shaped the variety of bird beak shapes?", options:["The size of a birds nest","The migration distance a bird travels","The colour of a birds feathers","The different diets birds rely on"], answer:3},
+     {q:"Which type of beak would likely belong to a bird that eats seeds?", options:["A short, strong beak for cracking shells","A hooked beak for tearing meat","A long, thin beak for probing flowers","A flat, wide beak with no other features"], answer:0},
+     {q:"Which type of beak would likely belong to a bird of prey that eats meat?", options:["A long, thin beak for sipping nectar","A short, wide beak with no point","A hooked beak for tearing flesh","A flat beak used only for filtering water"], answer:2},
+     {q:"Why might a hummingbirds long, thin beak be well suited to its diet?", options:["This beak shape is only useful for cracking hard seeds","It allows the bird to reach nectar deep inside flowers","Hummingbirds do not rely on any specialized beak shape","A long, thin beak makes it impossible to feed at all"], answer:1},
+     {q:"Why is beak shape considered an example of adaptation?", options:["All bird species have the exact same beak shape","Adaptation only applies to body size, never to beak shape","Beak shape has no connection to how a bird survives","It shows how a physical feature has developed to help a species survive on its specific diet"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Assembly of First Nations — Indigenous Political Leadership", summary:"Grade 6 Social Studies strand: the Assembly of First Nations is a national advocacy organization that represents First Nations governments and communities across Canada, working to advance their political, social, and treaty rights.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Assembly of First Nations?", options:["A federal government department","A national advocacy organization representing First Nations governments and communities","A branch of the Canadian military","A private company that manages natural resources"], answer:1},
+     {q:"What kinds of rights does the Assembly of First Nations work to advance?", options:["Only rights related to professional sports","Only rights related to international trade","Only rights related to entertainment media","Political, social, and treaty rights"], answer:3},
+     {q:"Who does the Assembly of First Nations represent?", options:["Only a single Indigenous community in one province","Only communities located outside of Canada","Only members of the federal government","First Nations governments and communities across Canada"], answer:3},
+     {q:"Why might a national organization like the Assembly of First Nations be important for advocacy?", options:["The Assembly of First Nations has no connection to treaty rights","Advocacy organizations are not permitted to represent multiple communities","National organizations have no role in supporting community advocacy","It allows First Nations communities to present unified positions on shared issues"], answer:3},
+     {q:"Why might understanding organizations like the Assembly of First Nations help explain modern Indigenous political leadership in Canada?", options:["National advocacy organizations are unrelated to political leadership","This organization has no role in Canadian political life","It shows how Indigenous communities organize to advocate for their rights at a national level","Indigenous political leadership does not exist in modern Canada"], answer:2}
+   ]},
+]},
+{day:160, label:"Day 160 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Vocabulary, Media Literacy, and Nonfiction Reading", summary:"Grade 6 Language strand review: students revisit synonyms and antonyms, cause and effect in nonfiction, algorithms and personalized feeds, primary and secondary sources, and collective nouns.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a synonym?", options:["A word with a similar meaning to another word","A word with the opposite meaning of another word","A word borrowed from another language","A word that describes a place"], answer:0},
+     {q:"What is a cause in a cause and effect relationship?", options:["The result of an event","The title of a nonfiction text","The reason something happens","A completely unrelated event"], answer:2},
+     {q:"What is an algorithm in the context of social media or apps?", options:["A type of computer virus","A set of rules used to decide what content to show a user","A person who manually selects content for every user","A device used to connect to the internet"], answer:1},
+     {q:"What is a primary source?", options:["Firsthand evidence created during the time being studied","A summary written many years after an event","A textbook that interprets historical events","A source that always contains only opinions"], answer:0},
+     {q:"What is a collective noun?", options:["A noun that names only one single object","An adjective that describes a group","A verb that shows group action","A noun that names a group treated as a single unit"], answer:3}
+   ]},
+  {subject:"Math", title:"Math Review: Probability, Measurement, and Financial Literacy", summary:"Grade 6 Math strand review: students revisit designing simulations, quartiles and interquartile range, tessellations, percents greater than 100, and finding volume using water displacement.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is a simulation in probability?", options:["An event that happens only once and is never repeated","A guess made without any supporting data","A model used to estimate the probability of a real-world event","A method that removes the need for probability entirely"], answer:2},
+     {q:"What is the interquartile range?", options:["The average of all values in a data set","The middle value of a data set","The difference between the third quartile and the first quartile","The difference between the highest and lowest values"], answer:2},
+     {q:"What is a tessellation?", options:["A single shape drawn on its own","A three-dimensional solid made of many faces","A pattern with large gaps between shapes","A pattern of shapes that fit together with no gaps or overlaps"], answer:3},
+     {q:"What does a percent greater than 100 represent?", options:["An amount always smaller than the whole","An amount larger than the whole","An amount exactly equal to the whole","An amount that cannot exist mathematically"], answer:1},
+     {q:"What does the water displacement method measure?", options:["The temperature of a liquid","The mass of an object","The surface area of an object","The volume of an irregularly shaped object"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Simple Machines, the Human Body, and Chemistry", summary:"Grade 6 Science strand review: students revisit the screw, DNA, homeostasis, how exercise affects the heart and lungs, and rust and corrosion.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a screw?", options:["A wheel connected to a rope","An inclined plane wrapped around a cylinder","A lever with a fixed pivot point","Two inclined planes joined at their bases"], answer:1},
+     {q:"What does DNA carry?", options:["Genetic instructions for the growth and functioning of living things","Only information about an organisms diet","Energy used directly for muscle movement","A record of an organisms daily behaviour"], answer:0},
+     {q:"What is homeostasis?", options:["The process by which the body grows taller over time","A disease that affects the immune system","The process by which the body maintains a stable internal environment","A type of cell found only in the brain"], answer:2},
+     {q:"What happens to heart rate during physical exercise?", options:["It stays exactly the same at all times","It increases","It stops completely","It decreases"], answer:1},
+     {q:"What two substances react with iron to produce rust?", options:["Carbon dioxide and sunlight","Salt and sand","Nitrogen and heat","Oxygen and moisture"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Canadian Rights, History, and Indigenous Leadership", summary:"Grade 6 Social Studies strand review: students revisit the Canadian Human Rights Commission, the Oka Crisis, the Multiculturalism Act, the Winnipeg General Strike, and the Assembly of First Nations.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the main role of the Canadian Human Rights Commission?", options:["To manage national parks and forests","To collect federal income taxes","To investigate complaints of discrimination and promote equality","To enforce traffic laws on highways"], answer:2},
+     {q:"What was the Oka Crisis?", options:["A trade disagreement between Canada and another country","A 1990 land dispute between a Mohawk community and the town of Oka, Quebec","A dispute over a national park in British Columbia","A federal election dispute in Ontario"], answer:1},
+     {q:"What did the Canadian Multiculturalism Act of 1988 formally recognize?", options:["A ban on cultural celebrations","A single official culture for all of Canada","A requirement to adopt only one language nationwide","The diversity of Canadian society"], answer:3},
+     {q:"What was the Winnipeg General Strike of 1919?", options:["A protest against a proposed new Canadian flag","One of the largest labour strikes in Canadian history","A strike that took place outside of Canada","A strike involving only a handful of factory workers"], answer:1},
+     {q:"What is the Assembly of First Nations?", options:["A branch of the Canadian military","A private company that manages natural resources","A federal government department","A national advocacy organization representing First Nations governments and communities"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
