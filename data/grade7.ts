@@ -2020,6 +2020,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Writing: Writing an Op-Ed (Opinion Editorial)", summary:"Ontario Grade 7 Writing strand: an op-ed presents a writer’s opinion on a current issue, supported by reasoning and evidence, often published to persuade or inform public opinion.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=3GkN4qul82Y",
    quiz:[
      {q:"An op-ed is written to ___.", options:["Report only neutral facts with no opinion","Copy information without any analysis","Avoid discussing any current issues","Present the writer’s opinion on a current issue"], answer:3},
      {q:"A strong op-ed typically includes ___.", options:["Only the writer’s name and nothing else","Random, unrelated information","Reasoning and evidence to support the writer’s opinion","No supporting evidence at all"], answer:2},
@@ -2029,6 +2030,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Expected Value", summary:"Ontario Grade 7 Data Management strand: expected value is the average outcome you would predict over many trials, calculated by multiplying each possible outcome by its probability and adding the results together.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Av3OsNAXpNY",
    quiz:[
      {q:"Expected value represents ___.", options:["A value with no connection to probability","The average outcome predicted over many trials","The highest possible outcome only","A single guaranteed outcome every time"], answer:1},
      {q:"To calculate expected value, you ___.", options:["Ignore probability completely","Multiply each outcome by its probability and add the results","Divide all outcomes by two","Only consider the highest possible outcome"], answer:1},
@@ -2038,6 +2040,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Erosion, Deposition, and Landform Change", summary:"Ontario Grade 7 Science Earth and Space Systems strand: erosion moves weathered rock and soil, while deposition occurs when that material settles in a new location, together gradually reshaping landforms over time.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=vphjWgeiGpc",
    quiz:[
      {q:"Erosion refers to the process of ___.", options:["Moving weathered rock and soil to a new location","Creating brand new mountains instantly","Preventing any landform changes","Only affecting rocks underground"], answer:0},
      {q:"Deposition occurs when eroded material ___.", options:["Instantly turns into a mountain","Disappears completely","Settles in a new location","Has no effect on landforms"], answer:2},

@@ -2040,6 +2040,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Human Impact on Climate Change", summary:"Ontario Grade 6 Science Earth and Space Systems strand: human activities, such as burning fossil fuels and deforestation, release greenhouse gases that contribute to changes in Earth’s climate over time.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=Um-bo2MWDsQ",
    quiz:[
      {q:"Which human activity is commonly linked to increased greenhouse gas emissions?", options:["Recycling materials","Planting more trees","Burning fossil fuels","Reducing energy use"], answer:2},
      {q:"Deforestation can contribute to climate change by ___.", options:["Having no effect on the atmosphere","Reducing the number of trees that absorb carbon dioxide","Increasing the number of trees absorbing carbon dioxide","Removing all greenhouse gases immediately"], answer:1},
@@ -2049,6 +2050,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Climate Change as a Global Issue", summary:"Ontario Grade 6 Social Studies People and Environments strand: climate change affects countries around the world, requiring international cooperation among nations to address its causes and impacts.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=hO9RrG6Skkk",
    quiz:[
      {q:"Climate change is considered a global issue because ___.", options:["It is limited strictly to one continent","It has no international impact whatsoever","It only affects a single isolated location","It affects countries and regions around the world"], answer:3},
      {q:"International cooperation on climate change often involves ___.", options:["Countries refusing to communicate about the issue","A single country solving the issue alone with no help","Countries working together to address shared environmental challenges","Ignoring the problem entirely"], answer:2},
