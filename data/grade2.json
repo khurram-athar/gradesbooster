@@ -43026,5 +43026,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 151,
+    "label": "Day 151 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Conjunctions: Joining Words Like And, But, and Or",
+        "summary": "Grade 2 Language strand: a conjunction is a joining word, such as and, but, or or, that connects two words or two parts of a sentence.",
+        "resourceLabel": "YouTube: Conjunctions: Joining Words Like And, But, and Or",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Conjunctions%3A%20Joining%20Words%20Like%20And%2C%20But%2C%20and%20Or%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a conjunction?",
+            "options": [
+              "A joining word that connects ideas",
+              "A vowel sound",
+              "A type of noun",
+              "A punctuation mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word is a conjunction?",
+            "options": [
+              "Blue",
+              "And",
+              "Jump",
+              "Quickly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a conjunction correctly?",
+            "options": [
+              "I like apples run oranges",
+              "I like apples the oranges",
+              "I like apples and oranges",
+              "I like apples big oranges"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The word but is often used to show ___.",
+            "options": [
+              "Addition only",
+              "A contrast or difference",
+              "A command",
+              "A question"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do writers use conjunctions?",
+            "options": [
+              "To connect ideas smoothly in a sentence",
+              "To end a sentence",
+              "To remove all meaning",
+              "To make a word plural"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Line Graphs Showing Change Over Time",
+        "summary": "Grade 2 Math strand: a line graph uses points connected by lines to show how something changes over time, such as temperature over a week.",
+        "resourceLabel": "YouTube: Data: Line Graphs Showing Change Over Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Line%20Graphs%20Showing%20Change%20Over%20Time%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a line graph show?",
+            "options": [
+              "A single number only",
+              "How something changes over time",
+              "A list of names",
+              "A shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What connects the points on a line graph?",
+            "options": [
+              "Squares",
+              "Circles",
+              "Lines",
+              "Bars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these would a line graph be good for showing?",
+            "options": [
+              "Temperature changing each day of the week",
+              "A single students name",
+              "The title of a book",
+              "The colour of a shirt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a line graph slopes upward, what does that usually mean?",
+            "options": [
+              "There is no data",
+              "The value is staying the same",
+              "The value is increasing",
+              "The value is unknown"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A line graph is especially useful for showing data over ___.",
+            "options": [
+              "A single moment",
+              "Colours",
+              "Time",
+              "No particular order"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Digestive System: How Our Body Uses Food",
+        "summary": "Grade 2 Science strand: the digestive system breaks down the food we eat so our body can use it for energy and growth.",
+        "resourceLabel": "YouTube: The Digestive System: How Our Body Uses Food",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Digestive%20System%3A%20How%20Our%20Body%20Uses%20Food%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the digestive system do?",
+            "options": [
+              "Pumps blood through the body",
+              "Helps us see",
+              "Helps us hear",
+              "Breaks down food so the body can use it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does our body need to break down food?",
+            "options": [
+              "To change the food into water only",
+              "Food has no purpose in the body",
+              "To get energy and nutrients for growth",
+              "To make the food disappear completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does digestion begin?",
+            "options": [
+              "In the hair",
+              "In the mouth, with chewing",
+              "In the ears",
+              "In the feet"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is part of the digestive system?",
+            "options": [
+              "The ear",
+              "The stomach",
+              "The skin only",
+              "The eye"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "After food is digested, the body uses the nutrients to ___.",
+            "options": [
+              "Grow and have energy",
+              "Change colour",
+              "Stop growing completely",
+              "Lose all its energy"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Royal Canadian Mounted Police: A National Police Force",
+        "summary": "Grade 2 Social Studies strand: the Royal Canadian Mounted Police, or RCMP, is a police force that works to keep people safe across many parts of Canada.",
+        "resourceLabel": "YouTube: The Royal Canadian Mounted Police: A National Police Force",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Royal%20Canadian%20Mounted%20Police%3A%20A%20National%20Police%20Force%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Royal Canadian Mounted Police",
+              "Regional Canadian Map Project",
+              "Rural Canadian Mail Post",
+              "Royal Canadian Music Program"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main job of the RCMP?",
+            "options": [
+              "To deliver mail",
+              "To teach in schools",
+              "To build roads",
+              "To help keep people safe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The RCMP is known for its distinctive uniform, which is often ___.",
+            "options": [
+              "Blue",
+              "Green",
+              "Purple",
+              "Red"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does the RCMP work in only one small area or across much of Canada?",
+            "options": [
+              "Only in one single city",
+              "Across much of Canada",
+              "Only outside Canada",
+              "Only on farms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country have a national police force like the RCMP?",
+            "options": [
+              "To stop people from travelling",
+              "To help keep communities safe across a large area",
+              "To replace all local governments",
+              "It has no real purpose"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "label": "Day 152 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Homographs: Same Spelling, Different Meanings",
+        "summary": "Grade 2 Language strand: homographs are words spelled the same way but with different meanings, like bat, the flying animal, and bat, used to hit a ball.",
+        "resourceLabel": "YouTube: Homographs: Same Spelling, Different Meanings",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Homographs%3A%20Same%20Spelling%2C%20Different%20Meanings%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a homograph?",
+            "options": [
+              "A punctuation mark",
+              "A type of sentence",
+              "A word spelled the same with different meanings",
+              "A word that sounds different but is spelled the same always"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word can be a homograph?",
+            "options": [
+              "Umbrella",
+              "Elephant",
+              "Rainbow",
+              "Bat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The word bat can mean a flying animal or ___.",
+            "options": [
+              "A type of tree",
+              "A season",
+              "A colour",
+              "A tool used to hit a ball"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can homographs sometimes be tricky for readers?",
+            "options": [
+              "They have no meaning at all",
+              "The same word can have more than one meaning",
+              "They are always spelled differently",
+              "They never appear in sentences"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can a reader figure out which meaning of a homograph is being used?",
+            "options": [
+              "By guessing randomly with no clues",
+              "By counting the letters only",
+              "By ignoring the sentence completely",
+              "By looking at the context of the sentence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Parallel and Perpendicular Lines",
+        "summary": "Grade 2 Math strand: parallel lines run side by side and never meet, while perpendicular lines cross each other to form a right angle.",
+        "resourceLabel": "YouTube: Geometry: Parallel and Perpendicular Lines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Parallel%20and%20Perpendicular%20Lines%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do parallel lines never do?",
+            "options": [
+              "Touch a point",
+              "Meet or cross",
+              "Bend",
+              "Stay straight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do perpendicular lines form where they cross?",
+            "options": [
+              "No angle at all",
+              "A circle",
+              "A right angle",
+              "A curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of parallel lines?",
+            "options": [
+              "The hands of a clock at three oclock",
+              "A single straight line",
+              "A circle",
+              "The two rails of a train track"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Perpendicular lines cross at an angle of how many degrees?",
+            "options": [
+              "180 degrees",
+              "0 degrees",
+              "90 degrees",
+              "45 degrees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might builders use parallel and perpendicular lines when constructing a building?",
+            "options": [
+              "To make the building crooked on purpose",
+              "To make sure walls and floors line up correctly",
+              "They have no use in construction",
+              "To remove the need for measurement"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sharks: Ocean Predators",
+        "summary": "Grade 2 Science strand: sharks are fish with skeletons made of cartilage instead of bone, and many species are skilled ocean predators.",
+        "resourceLabel": "YouTube: Sharks: Ocean Predators",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sharks%3A%20Ocean%20Predators%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are shark skeletons mostly made of?",
+            "options": [
+              "Wood",
+              "Bone",
+              "Cartilage",
+              "Metal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a shark classified as?",
+            "options": [
+              "A bird",
+              "A mammal",
+              "A reptile",
+              "A fish"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What helps many sharks detect prey in the water?",
+            "options": [
+              "Fur on their skin",
+              "Bright colours",
+              "A strong sense of smell",
+              "Loud sounds they make"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these describes most sharks?",
+            "options": [
+              "Birds that fly",
+              "Skilled ocean predators",
+              "Land animals",
+              "Insects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are sharks an important part of ocean ecosystems?",
+            "options": [
+              "They have no role in the ocean",
+              "They eat only plants",
+              "They only live on land",
+              "They help keep other populations balanced"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Multiculturalism: Many Cultures Living Together",
+        "summary": "Grade 2 Social Studies strand: multiculturalism means people from many different cultures, languages, and traditions live together and share their communities.",
+        "resourceLabel": "YouTube: Multiculturalism: Many Cultures Living Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Multiculturalism%3A%20Many%20Cultures%20Living%20Together%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does multiculturalism mean?",
+            "options": [
+              "Only one culture is allowed",
+              "People from many cultures living together",
+              "Everyone must look the same",
+              "No cultures exist"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might be shared in a multicultural community?",
+            "options": [
+              "Only one language",
+              "Different foods, languages, and traditions",
+              "No traditions at all",
+              "Only one single food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is multiculturalism considered a strength in Canada?",
+            "options": [
+              "It forces everyone to be the same",
+              "It removes all traditions",
+              "It brings many ideas, traditions, and perspectives together",
+              "It has no benefit at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can students show respect in a multicultural classroom?",
+            "options": [
+              "By learning about and respecting differences",
+              "By refusing to share",
+              "By making fun of other cultures",
+              "By ignoring classmates who are different"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A community that welcomes many cultures is often described as ___.",
+            "options": [
+              "Multicultural",
+              "Silent",
+              "Unchanging",
+              "Empty"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "label": "Day 153 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Character Traits: Describing Who Someone Is",
+        "summary": "Grade 2 Language strand: a character trait describes what a character is like on the inside, such as brave, honest, or kind, shown through their words and actions.",
+        "resourceLabel": "YouTube: Character Traits: Describing Who Someone Is",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Character%20Traits%3A%20Describing%20Who%20Someone%20Is%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a character trait?",
+            "options": [
+              "The name of a character",
+              "A description of what a character is like inside",
+              "The setting of a story",
+              "The title of a book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word describes a character trait?",
+            "options": [
+              "Brave",
+              "Jump",
+              "Blue",
+              "Table"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can a reader figure out a character trait?",
+            "options": [
+              "By looking at the characters words and actions",
+              "By reading only the title",
+              "By ignoring the character completely",
+              "By counting the pages in the book"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a character always helps others, which trait might describe them?",
+            "options": [
+              "Selfish",
+              "Rude",
+              "Kind",
+              "Lazy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Character traits help readers understand a character ___.",
+            "options": [
+              "Only by their name",
+              "More deeply",
+              "Not at all",
+              "Less clearly"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Telling Time: Digital and Analog Clocks",
+        "summary": "Grade 2 Math strand: an analog clock shows time with moving hands on a round face, while a digital clock shows time using numbers only.",
+        "resourceLabel": "YouTube: Telling Time: Digital and Analog Clocks",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Telling%20Time%3A%20Digital%20and%20Analog%20Clocks%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which clock shows time using hands on a round face?",
+            "options": [
+              "An analog clock",
+              "A digital clock",
+              "A calendar",
+              "A ruler"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which clock shows time using numbers only?",
+            "options": [
+              "A digital clock",
+              "A scale",
+              "An analog clock",
+              "A thermometer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On an analog clock, which hand moves faster, the hour hand or the minute hand?",
+            "options": [
+              "The hour hand",
+              "They move at the same speed",
+              "The minute hand",
+              "Neither hand moves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a digital clock reads 3:30, what would an analog clock show at the same time?",
+            "options": [
+              "The hour hand between 3 and 4, minute hand at 6",
+              "The minute hand at 3 only",
+              "Both hands at 12",
+              "The hour hand at 12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to be able to read both kinds of clocks?",
+            "options": [
+              "Both types of clocks are used in everyday life",
+              "Digital clocks are never accurate",
+              "Clocks are never used",
+              "Only one type of clock exists"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Penguins: Birds That Cannot Fly",
+        "summary": "Grade 2 Science strand: penguins are birds with wings shaped like flippers that help them swim instead of fly, and many species live in cold climates.",
+        "resourceLabel": "YouTube: Penguins: Birds That Cannot Fly",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Penguins%3A%20Birds%20That%20Cannot%20Fly%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Can most penguins fly?",
+            "options": [
+              "Yes, they fly very high",
+              "Only baby penguins can fly",
+              "No, they cannot fly",
+              "Yes, but only short distances"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are penguin wings shaped like?",
+            "options": [
+              "Umbrellas",
+              "Long straws",
+              "Flippers, for swimming",
+              "Large sails"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What helps penguins move quickly through water?",
+            "options": [
+              "Their flipper-shaped wings",
+              "Their eyes",
+              "Their tails alone",
+              "Their beaks alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do many penguin species live?",
+            "options": [
+              "Cold climates",
+              "Underground caves only",
+              "Hot deserts",
+              "Rainforests"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Penguins are classified as ___.",
+            "options": [
+              "Reptiles",
+              "Mammals",
+              "Fish",
+              "Birds"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Hockey: Canadas Popular Winter Sport",
+        "summary": "Grade 2 Social Studies strand: hockey is a fast winter sport played on ice that is closely connected to Canadian culture and community life.",
+        "resourceLabel": "YouTube: Hockey: Canadas Popular Winter Sport",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hockey%3A%20Canadas%20Popular%20Winter%20Sport%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of sport is hockey?",
+            "options": [
+              "A sport played only indoors on grass",
+              "A summer sport played in water",
+              "A fast winter sport played on ice",
+              "A sport with no equipment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What surface is hockey typically played on?",
+            "options": [
+              "Sand",
+              "Water",
+              "Ice",
+              "Grass"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is hockey often connected to Canadian culture?",
+            "options": [
+              "No one in Canada plays hockey",
+              "It has no connection to community life",
+              "It is only played in one small town",
+              "It is a widely popular and celebrated sport across the country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is equipment commonly used in hockey?",
+            "options": [
+              "A bat and glove",
+              "A stick and skates",
+              "A bow and arrow",
+              "A racket and net only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Community hockey rinks can help bring people together by ___.",
+            "options": [
+              "Giving neighbours a place to play and watch together",
+              "Keeping everyone apart",
+              "Removing community events",
+              "Closing all winter activities"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "label": "Day 154 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Journal Writing: Recording Your Day",
+        "summary": "Grade 2 Language strand: journal writing means recording thoughts, feelings, and events from your day, often written regularly like a personal diary.",
+        "resourceLabel": "YouTube: Journal Writing: Recording Your Day",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Journal%20Writing%3A%20Recording%20Your%20Day%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is journal writing?",
+            "options": [
+              "Writing a made-up fairy tale only",
+              "Writing a science report only",
+              "Copying words from a dictionary",
+              "Recording thoughts and events from your day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How often might someone write in a journal?",
+            "options": [
+              "Only once in a lifetime",
+              "Never",
+              "Regularly, such as every day",
+              "Only during a test"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a journal entry include?",
+            "options": [
+              "Only a list of colours",
+              "Only numbers",
+              "Only other peoples names",
+              "Thoughts, feelings, and events from the day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might writing in a journal be helpful?",
+            "options": [
+              "It helps you reflect on and remember your day",
+              "It replaces reading completely",
+              "It has no purpose at all",
+              "It removes your memories"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Journal writing is usually written from whose point of view?",
+            "options": [
+              "A strangers point of view only",
+              "A made-up characters point of view only",
+              "The writers own point of view",
+              "No point of view at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Finding a Fraction of a Group",
+        "summary": "Grade 2 Math strand: finding a fraction of a group means splitting a set of objects into equal parts and counting how many are in one or more of those parts.",
+        "resourceLabel": "YouTube: Fractions: Finding a Fraction of a Group",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Finding%20a%20Fraction%20of%20a%20Group%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to find a fraction of a group?",
+            "options": [
+              "Adding two whole numbers",
+              "Telling time",
+              "Measuring length",
+              "Splitting a set into equal parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 1/2 of a group of 8 objects?",
+            "options": [
+              "2",
+              "4",
+              "8",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 1/4 of a group of 12 objects?",
+            "options": [
+              "3",
+              "4",
+              "2",
+              "6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "To find a fraction of a group, we first split the group into ___.",
+            "options": [
+              "Random piles",
+              "Two unequal piles",
+              "One large pile",
+              "Equal parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 1/3 of a group of 9 objects?",
+            "options": [
+              "4",
+              "3",
+              "5",
+              "2"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Invasive Species: When Plants or Animals Do Not Belong",
+        "summary": "Grade 2 Science strand: an invasive species is a plant or animal that moves into a new area where it does not naturally belong and can crowd out native species.",
+        "resourceLabel": "YouTube: Invasive Species: When Plants or Animals Do Not Belong",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Invasive%20Species%3A%20When%20Plants%20or%20Animals%20Do%20Not%20Belong%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is an invasive species?",
+            "options": [
+              "A plant grown in a garden on purpose",
+              "A plant or animal that does not naturally belong in an area",
+              "A type of pet only",
+              "Any animal that lives in a zoo"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can invasive species do to native plants and animals?",
+            "options": [
+              "Crowd them out and compete for resources",
+              "Protect them from every danger",
+              "Have no effect on them at all",
+              "Always help them grow faster"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How might an invasive species arrive in a new area?",
+            "options": [
+              "It can only appear by magic",
+              "It has always lived there",
+              "It always evolves there naturally",
+              "It can be carried there accidentally by people or transport"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists study invasive species carefully?",
+            "options": [
+              "To remove all native species instead",
+              "To help them spread faster",
+              "To understand and reduce the harm they might cause",
+              "Invasive species cause no harm at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A species that belongs naturally in an area is called a ___ species.",
+            "options": [
+              "Native",
+              "Invasive",
+              "Imaginary",
+              "Extinct"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Municipal Taxes: How Cities Pay for Services",
+        "summary": "Grade 2 Social Studies strand: municipal taxes are money collected by a city or town from residents to help pay for services like roads, parks, and libraries.",
+        "resourceLabel": "YouTube: Municipal Taxes: How Cities Pay for Services",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Municipal%20Taxes%3A%20How%20Cities%20Pay%20for%20Services%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are municipal taxes?",
+            "options": [
+              "Money collected by a city to pay for services",
+              "A type of sport",
+              "A type of holiday",
+              "A kind of weather"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might municipal taxes help pay for?",
+            "options": [
+              "Roads, parks, and libraries",
+              "Only one persons house",
+              "Nothing at all",
+              "Only private businesses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who usually pays municipal taxes?",
+            "options": [
+              "Residents of a city or town",
+              "Only visitors passing through",
+              "Only children",
+              "No one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a city need money from taxes?",
+            "options": [
+              "To provide services that benefit the whole community",
+              "To pay for things in other countries only",
+              "To keep the money hidden away",
+              "Cities need no money at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Municipal taxes are an example of how a community works together to ___.",
+            "options": [
+              "Avoid helping each other",
+              "Remove all public services",
+              "Ignore community needs",
+              "Fund shared services"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "label": "Day 155 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Text Features: Bold Print and Italics",
+        "summary": "Grade 2 Language strand: bold print makes words stand out as darker and thicker, while italics slant words sideways, and both features signal important words to readers.",
+        "resourceLabel": "YouTube: Text Features: Bold Print and Italics",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Bold%20Print%20and%20Italics%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does bold print look like?",
+            "options": [
+              "Invisible",
+              "Darker and thicker than regular text",
+              "Slanted sideways",
+              "Underlined only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does italic text look like?",
+            "options": [
+              "Invisible",
+              "Underlined only",
+              "Slanted sideways",
+              "Darker and thicker"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author use bold print for a word?",
+            "options": [
+              "To make the word disappear",
+              "To show that the word is especially important",
+              "To hide the word from readers",
+              "To remove the word from the sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a common use for italics?",
+            "options": [
+              "Removing punctuation",
+              "Showing the title of a book",
+              "Making a word invisible",
+              "Ending a sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Bold print and italics are both examples of ___.",
+            "options": [
+              "Punctuation marks",
+              "Vowel sounds",
+              "Consonant blends",
+              "Text features"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Finding the Total Cost of Multiple Items",
+        "summary": "Grade 2 Math strand: students add the prices of several items together to find the total cost of a purchase.",
+        "resourceLabel": "YouTube: Money: Finding the Total Cost of Multiple Items",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Finding%20the%20Total%20Cost%20of%20Multiple%20Items%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "If a pencil costs 1 dollar and an eraser costs 2 dollars, what is the total cost?",
+            "options": [
+              "4 dollars",
+              "5 dollars",
+              "2 dollars",
+              "3 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If three toys each cost 2 dollars, what is the total cost?",
+            "options": [
+              "8 dollars",
+              "6 dollars",
+              "5 dollars",
+              "4 dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To find the total cost of several items, we ___ their prices.",
+            "options": [
+              "Subtract",
+              "Divide only",
+              "Add",
+              "Ignore"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a book costs 5 dollars and a bookmark costs 1 dollar, what is the total cost?",
+            "options": [
+              "5 dollars",
+              "4 dollars",
+              "7 dollars",
+              "6 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to know how to find a total cost before shopping?",
+            "options": [
+              "It only matters for adults",
+              "It removes the need for money",
+              "It has no real use",
+              "It helps make sure you have enough money"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biodiversity: Many Kinds of Living Things in One Place",
+        "summary": "Grade 2 Science strand: biodiversity means having many different kinds of living things, like plants, animals, and insects, living together in one area.",
+        "resourceLabel": "YouTube: Biodiversity: Many Kinds of Living Things in One Place",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Biodiversity%3A%20Many%20Kinds%20of%20Living%20Things%20in%20One%20Place%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does biodiversity mean?",
+            "options": [
+              "Having no living things at all",
+              "Having only one kind of animal",
+              "Having many different kinds of living things in one area",
+              "Having only rocks and sand"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these describes a place with high biodiversity?",
+            "options": [
+              "A room with no plants or animals",
+              "A single house with one pet",
+              "A rainforest with many different species",
+              "An empty parking lot"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is biodiversity important for an ecosystem?",
+            "options": [
+              "It removes the need for any species",
+              "It helps the ecosystem stay healthy and balanced",
+              "It always causes harm",
+              "It has no importance at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could reduce biodiversity in an area?",
+            "options": [
+              "Protecting many species",
+              "Creating nature reserves",
+              "Destroying habitats",
+              "Planting more variety of plants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A healthy ecosystem usually has ___ different kinds of living things.",
+            "options": [
+              "No particular number of",
+              "Zero",
+              "Many",
+              "Exactly one"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Trans-Canada Highway: Connecting the Country",
+        "summary": "Grade 2 Social Studies strand: the Trans-Canada Highway is a very long road that connects communities across the country, from coast to coast.",
+        "resourceLabel": "YouTube: The Trans-Canada Highway: Connecting the Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Trans-Canada%20Highway%3A%20Connecting%20the%20Country%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the Trans-Canada Highway connect?",
+            "options": [
+              "Communities across the country, coast to coast",
+              "Only two small towns",
+              "Nothing at all",
+              "Only cities outside Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of route is the Trans-Canada Highway?",
+            "options": [
+              "A short walking path",
+              "A very long road",
+              "A river route",
+              "A railway only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a road like this be important for a large country?",
+            "options": [
+              "It has no real purpose",
+              "It only connects two houses",
+              "It prevents any travel at all",
+              "It helps people and goods travel long distances"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might travel along the Trans-Canada Highway?",
+            "options": [
+              "Only boats",
+              "Only bicycles",
+              "Cars, trucks, and travellers",
+              "Only airplanes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A highway that spans an entire country helps support ___.",
+            "options": [
+              "Isolation between communities",
+              "The end of all transportation",
+              "Trade and travel between communities",
+              "Nothing important"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "label": "Day 156 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Assonance and Consonance: Sound Patterns in Poetry",
+        "summary": "Grade 2 Language strand: assonance repeats vowel sounds within nearby words, while consonance repeats consonant sounds, and both create musical patterns in poetry.",
+        "resourceLabel": "YouTube: Assonance and Consonance: Sound Patterns in Poetry",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Assonance%20and%20Consonance%3A%20Sound%20Patterns%20in%20Poetry%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does assonance repeat?",
+            "options": [
+              "Only the first letter of a word",
+              "Vowel sounds within nearby words",
+              "Punctuation marks",
+              "Whole sentences"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does consonance repeat?",
+            "options": [
+              "Whole paragraphs",
+              "Only vowel letters",
+              "Consonant sounds within nearby words",
+              "Titles of poems"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of assonance?",
+            "options": [
+              "The rain in Spain falls mainly",
+              "A quiet cat sat",
+              "The sky is blue",
+              "A loud dog ran"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet use assonance or consonance?",
+            "options": [
+              "To create a musical, pleasing sound pattern",
+              "To confuse the reader on purpose",
+              "To remove all sound from the poem",
+              "To make the poem impossible to read"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Assonance and consonance are both examples of ___ in poetry.",
+            "options": [
+              "Sound patterns",
+              "Punctuation marks",
+              "Story elements",
+              "Grammar rules"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Naming Polygons by Number of Sides",
+        "summary": "Grade 2 Math strand: polygons are named by how many sides and angles they have, such as a triangle with three sides or a pentagon with five sides.",
+        "resourceLabel": "YouTube: Geometry: Naming Polygons by Number of Sides",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Naming%20Polygons%20by%20Number%20of%20Sides%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many sides does a triangle have?",
+            "options": [
+              "6",
+              "4",
+              "5",
+              "3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many sides does a pentagon have?",
+            "options": [
+              "7",
+              "5",
+              "4",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many sides does a hexagon have?",
+            "options": [
+              "8",
+              "6",
+              "5",
+              "7"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many sides does an octagon have?",
+            "options": [
+              "8",
+              "7",
+              "6",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A polygon is named based on its number of ___.",
+            "options": [
+              "Sides",
+              "Colours",
+              "Textures",
+              "Corners only, never sides"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Grasslands and Prairies: Open Habitats",
+        "summary": "Grade 2 Science strand: grasslands and prairies are wide open habitats covered mostly in grasses, with few trees, and are home to animals adapted to open spaces.",
+        "resourceLabel": "YouTube: Grasslands and Prairies: Open Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Grasslands%20and%20Prairies%3A%20Open%20Habitats%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What covers most of a grassland or prairie?",
+            "options": [
+              "Ocean water",
+              "Tall trees",
+              "Grasses",
+              "Ice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do grasslands usually have many trees or few trees?",
+            "options": [
+              "Few trees",
+              "Trees only, no grass",
+              "Many tall trees",
+              "No plants at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal might be adapted to living on an open prairie?",
+            "options": [
+              "An animal that only lives in caves",
+              "An animal built for running long distances",
+              "A creature that only lives underwater",
+              "A fish that only lives in the deep ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might grassland animals need to be fast runners?",
+            "options": [
+              "There are too many trees to climb",
+              "There are few places to hide from predators",
+              "They never need to move at all",
+              "There is too much water to swim in"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A prairie is an example of a ___.",
+            "options": [
+              "Habitat",
+              "Weather pattern",
+              "Kind of ocean",
+              "Type of rock"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Public Libraries: Free Access to Books for Everyone",
+        "summary": "Grade 2 Social Studies strand: a public library is a community place where anyone can borrow books and other resources for free.",
+        "resourceLabel": "YouTube: Public Libraries: Free Access to Books for Everyone",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Public%20Libraries%3A%20Free%20Access%20to%20Books%20for%20Everyone%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What can people usually do at a public library?",
+            "options": [
+              "Get a haircut",
+              "Watch a sports game",
+              "Borrow books for free",
+              "Buy expensive furniture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who is usually allowed to use a public library?",
+            "options": [
+              "Only certain wealthy people",
+              "Only one single family",
+              "Anyone in the community",
+              "Only teachers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are public libraries an important community resource?",
+            "options": [
+              "They are only open one day per year",
+              "They give everyone free access to books and information",
+              "They have no useful resources",
+              "They charge very high prices for everything"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Besides books, what else might a public library offer?",
+            "options": [
+              "Computers or community programs",
+              "Only empty rooms",
+              "Only outdoor sports equipment",
+              "Nothing besides books"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A public library helps support learning by making resources ___.",
+            "options": [
+              "Available to no one",
+              "Accessible to everyone",
+              "Hidden away",
+              "Extremely expensive"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "label": "Day 157 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Hyperbole: Exaggerating for Effect",
+        "summary": "Grade 2 Language strand: hyperbole is an extreme exaggeration used to make a strong point or add humour, like saying I am so hungry I could eat a horse.",
+        "resourceLabel": "YouTube: Hyperbole: Exaggerating for Effect",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hyperbole%3A%20Exaggerating%20for%20Effect%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "A silent letter",
+              "A true, exact statement",
+              "A type of punctuation",
+              "An extreme exaggeration"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is an example of hyperbole?",
+            "options": [
+              "I woke up at seven",
+              "I slept for eight hours",
+              "I feel a little tired",
+              "I am so tired I could sleep for a year"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use hyperbole?",
+            "options": [
+              "To state only exact facts",
+              "To confuse the reader with true numbers",
+              "To remove all feeling from writing",
+              "To make a strong point or add humour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is hyperbole meant to be taken literally?",
+            "options": [
+              "Yes, it is always exactly true",
+              "It is a math equation",
+              "No, it is an exaggeration, not literal",
+              "It has no meaning at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is the best example of hyperbole?",
+            "options": [
+              "This bag has a zipper",
+              "This bag weighs a million pounds",
+              "This bag is blue",
+              "This bag weighs five pounds"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Comparing Numbers Using Greater Than, Less Than, and Equal Signs",
+        "summary": "Grade 2 Math strand: students compare two numbers using the greater than sign, the less than sign, or the equal sign to show their relationship.",
+        "resourceLabel": "YouTube: Number Sense: Comparing Numbers Using Greater Than, Less Than, and Equal Signs",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Comparing%20Numbers%20Using%20Greater%20Than%2C%20Less%20Than%2C%20and%20Equal%20Signs%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which symbol means greater than?",
+            "options": [
+              ">",
+              "=",
+              "+",
+              "<"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which symbol means less than?",
+            "options": [
+              "-",
+              "=",
+              "<",
+              ">"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which symbol means equal to?",
+            "options": [
+              ">",
+              "/",
+              "<",
+              "="
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which comparison is correct for 8 and 5?",
+            "options": [
+              "8 is less than 5",
+              "8 cannot be compared to 5",
+              "8 is equal to 5",
+              "8 is greater than 5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which comparison is correct for 6 and 6?",
+            "options": [
+              "6 cannot be compared to itself",
+              "6 is less than 6",
+              "6 is greater than 6",
+              "6 is equal to 6"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Keystone Species: Animals That Hold Ecosystems Together",
+        "summary": "Grade 2 Science strand: a keystone species is an animal that has a very large effect on its ecosystem, helping keep many other plants and animals in balance.",
+        "resourceLabel": "YouTube: Keystone Species: Animals That Hold Ecosystems Together",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Keystone%20Species%3A%20Animals%20That%20Hold%20Ecosystems%20Together%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A kind of plant that never grows",
+              "Any animal with no effect on nature",
+              "A type of rock",
+              "An animal with a very large effect on its ecosystem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might happen if a keystone species disappeared from its ecosystem?",
+            "options": [
+              "Every other species would disappear too, with no cause",
+              "The ecosystem could become unbalanced",
+              "The ecosystem would instantly improve",
+              "Nothing would change at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists pay close attention to keystone species?",
+            "options": [
+              "They have no importance in an ecosystem",
+              "They cause every ecosystem to fail",
+              "Because they help keep an ecosystem healthy and balanced",
+              "They only exist in stories"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A keystone species can be thought of as important because it ___.",
+            "options": [
+              "Has no connection to its habitat",
+              "Supports many other living things around it",
+              "Lives completely alone with no effect",
+              "Only eats rocks"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Keystone species help scientists understand how living things are ___.",
+            "options": [
+              "Impossible to study",
+              "Completely separate from each other",
+              "Unimportant to nature",
+              "Connected to each other"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Lieutenant Governor: A Provincial Representative of the Crown",
+        "summary": "Grade 2 Social Studies strand: the lieutenant governor is a ceremonial representative of the Crown in each province, similar to the Governor General at the national level.",
+        "resourceLabel": "YouTube: The Lieutenant Governor: A Provincial Representative of the Crown",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Lieutenant%20Governor%3A%20A%20Provincial%20Representative%20of%20the%20Crown%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What role does a lieutenant governor represent?",
+            "options": [
+              "The mayor of a city",
+              "A local shop owner",
+              "A school principal",
+              "A ceremonial representative of the Crown in a province"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is the lieutenant governor role found at the provincial or federal level?",
+            "options": [
+              "It does not exist in Canada",
+              "The provincial level",
+              "The federal level only",
+              "The municipal level only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which national role is similar to a provincial lieutenant governor?",
+            "options": [
+              "The Prime Minister",
+              "A mayor",
+              "The Governor General",
+              "A school teacher"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of duties does a lieutenant governor often perform?",
+            "options": [
+              "Ceremonial duties, such as opening a legislature session",
+              "Driving school buses",
+              "Coaching sports teams",
+              "Cooking meals for the province"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Each Canadian province has its own ___.",
+            "options": [
+              "Lieutenant governor",
+              "Ocean",
+              "Country",
+              "National anthem"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "label": "Day 158 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Acrostic Poems: Writing With Hidden Words",
+        "summary": "Grade 2 Language strand: an acrostic poem uses the first letter of each line to spell out a word, often the topic of the poem, reading down the page.",
+        "resourceLabel": "YouTube: Acrostic Poems: Writing With Hidden Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Acrostic%20Poems%3A%20Writing%20With%20Hidden%20Words%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does an acrostic poem spell using the first letter of each line?",
+            "options": [
+              "A punctuation mark",
+              "A silent letter",
+              "A random number",
+              "A hidden word, often the topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In an acrostic poem, how do the first letters usually read?",
+            "options": [
+              "Sideways only",
+              "Backwards only",
+              "Down the page",
+              "In a circle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer choose to write an acrostic poem?",
+            "options": [
+              "To creatively connect a word to descriptive lines",
+              "To remove all words from the poem",
+              "To make the poem impossible to read",
+              "To avoid choosing a topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the word SUN is used in an acrostic poem, how many lines would it likely have?",
+            "options": [
+              "3",
+              "5",
+              "10",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An acrostic poem is a fun way to explore a topic through ___.",
+            "options": [
+              "Creative, connected lines",
+              "Silence",
+              "Numbers only",
+              "Random unrelated facts"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Comparing Fractions with Different Denominators Using Models",
+        "summary": "Grade 2 Math strand: students use visual models, like fraction bars or circles, to compare fractions that have different denominators.",
+        "resourceLabel": "YouTube: Fractions: Comparing Fractions with Different Denominators Using Models",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Comparing%20Fractions%20with%20Different%20Denominators%20Using%20Models%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Why are visual models helpful when comparing fractions with different denominators?",
+            "options": [
+              "They only work with whole numbers",
+              "They help us see which fraction is larger",
+              "They remove the need for numbers",
+              "They make fractions disappear"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using a model, which is larger, 1/2 or 1/4?",
+            "options": [
+              "Cannot be compared",
+              "They are equal",
+              "1/2",
+              "1/4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using a model, which is larger, 1/3 or 1/6?",
+            "options": [
+              "Cannot be compared",
+              "They are equal",
+              "1/3",
+              "1/6"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When the numerator is the same, a fraction with a smaller denominator is usually ___.",
+            "options": [
+              "Larger",
+              "Smaller",
+              "Equal to zero",
+              "Impossible to compare"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A fraction bar model divided into more equal parts shows ___ pieces.",
+            "options": [
+              "No",
+              "Larger",
+              "The same size",
+              "Smaller"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Scavengers: Natures Cleanup Crew",
+        "summary": "Grade 2 Science strand: scavengers are animals that eat dead plants and animals they find, helping clean up the environment and recycle nutrients.",
+        "resourceLabel": "YouTube: Scavengers: Natures Cleanup Crew",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Scavengers%3A%20Natures%20Cleanup%20Crew%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do scavengers typically eat?",
+            "options": [
+              "Dead plants and animals they find",
+              "Only rocks",
+              "Nothing at all",
+              "Only live prey they hunt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do scavengers help the environment?",
+            "options": [
+              "They help clean up dead material and recycle nutrients",
+              "They have no effect on the environment",
+              "They make the environment messier",
+              "They destroy every habitat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes a scavenger?",
+            "options": [
+              "An animal that never eats anything",
+              "An animal that lives only underwater",
+              "An animal that only eats plants it grows itself",
+              "An animal that eats what it finds rather than hunts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are scavengers considered an important part of an ecosystem?",
+            "options": [
+              "They remove all other animals",
+              "They have no important role",
+              "They help recycle nutrients back into the environment",
+              "They stop plants from growing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Scavengers are different from predators because scavengers usually ___.",
+            "options": [
+              "Hunt only live prey",
+              "Only eat plants",
+              "Never eat anything",
+              "Eat animals that are already dead"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Citizenship: Becoming a Canadian",
+        "summary": "Grade 2 Social Studies strand: Canadian citizenship is the process by which a person officially becomes a member of Canada, often including learning about the countrys history and values.",
+        "resourceLabel": "YouTube: Canadian Citizenship: Becoming a Canadian",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Citizenship%3A%20Becoming%20a%20Canadian%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is Canadian citizenship?",
+            "options": [
+              "A kind of weather",
+              "A type of food",
+              "A type of holiday",
+              "Officially becoming a member of Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might someone learn about before becoming a Canadian citizen?",
+            "options": [
+              "Only weather patterns",
+              "Canadas history and values",
+              "Only sports scores",
+              "Only recipes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a person choose to become a Canadian citizen?",
+            "options": [
+              "To fully participate in Canadian society, including voting",
+              "To avoid all responsibilities",
+              "It has no benefit at all",
+              "To stop living in Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could be part of becoming a citizen?",
+            "options": [
+              "Taking a citizenship test and ceremony",
+              "Ignoring all Canadian laws",
+              "Ending all connections to Canada",
+              "Never learning about Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "New citizens joining Canada can add to the countrys ___.",
+            "options": [
+              "Silence",
+              "Diversity and community",
+              "Isolation",
+              "Emptiness"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "label": "Day 159 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing a Fictional Story: Beginning, Middle, and End",
+        "summary": "Grade 2 Language strand: a fictional story is a made-up tale with a clear beginning that introduces characters, a middle with a problem, and an end with a solution.",
+        "resourceLabel": "YouTube: Writing a Fictional Story: Beginning, Middle, and End",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Writing%20a%20Fictional%20Story%3A%20Beginning%2C%20Middle%2C%20and%20End%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a fictional story?",
+            "options": [
+              "A made-up tale",
+              "A list of facts",
+              "A dictionary entry",
+              "A true report of real events"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What usually happens in the beginning of a fictional story?",
+            "options": [
+              "The story ends",
+              "Nothing happens at all",
+              "Characters and setting are introduced",
+              "The problem is solved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What usually happens in the middle of a fictional story?",
+            "options": [
+              "The characters are introduced for the first time",
+              "The book cover is shown",
+              "The story has not started yet",
+              "A problem or challenge appears"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What usually happens at the end of a fictional story?",
+            "options": [
+              "The characters are introduced",
+              "The title is chosen",
+              "Nothing happens at all",
+              "The problem is solved"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is planning a beginning, middle, and end helpful before writing a story?",
+            "options": [
+              "It makes the story impossible to write",
+              "It helps organize the story clearly",
+              "It has no benefit at all",
+              "It removes the need for characters"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Choosing the Best Type of Graph",
+        "summary": "Grade 2 Math strand: different graphs, like bar graphs, line graphs, and pictographs, are useful for showing different kinds of data.",
+        "resourceLabel": "YouTube: Data: Choosing the Best Type of Graph",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Choosing%20the%20Best%20Type%20of%20Graph%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which type of graph is best for showing change over time?",
+            "options": [
+              "A line graph",
+              "A pictograph only",
+              "No graph is useful for this",
+              "A bar graph only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which type of graph uses pictures to represent data?",
+            "options": [
+              "A line graph",
+              "A pictograph",
+              "A number line",
+              "A ruler"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which type of graph uses bars to compare amounts?",
+            "options": [
+              "A line graph",
+              "A clock",
+              "A bar graph",
+              "A pictograph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to choose the right type of graph?",
+            "options": [
+              "It always makes data more confusing",
+              "It makes the data easier to understand",
+              "Graphs are never useful",
+              "It has no effect on understanding"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you wanted to compare the heights of five plants, which graph might work best?",
+            "options": [
+              "No graph at all",
+              "A line graph only",
+              "A bar graph",
+              "A pictograph is never useful"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Deciduous vs Coniferous Trees: Two Kinds of Forests",
+        "summary": "Grade 2 Science strand: deciduous trees lose their leaves each fall, while coniferous trees have needles and cones and usually stay green all year.",
+        "resourceLabel": "YouTube: Deciduous vs Coniferous Trees: Two Kinds of Forests",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Deciduous%20vs%20Coniferous%20Trees%3A%20Two%20Kinds%20of%20Forests%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What do deciduous trees do each fall?",
+            "options": [
+              "Turn into a different plant",
+              "Disappear completely",
+              "Grow needles instead of leaves",
+              "Lose their leaves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do coniferous trees usually have instead of broad leaves?",
+            "options": [
+              "Needles and cones",
+              "Flowers only",
+              "No leaves of any kind",
+              "Fruit only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Do coniferous trees usually stay green all year or lose their needles each fall?",
+            "options": [
+              "Lose all their needles every fall",
+              "Turn a different colour each season",
+              "Stay green all year",
+              "Disappear in winter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a deciduous tree?",
+            "options": [
+              "A spruce tree",
+              "A maple tree",
+              "A fir tree",
+              "A pine tree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A forest made mostly of coniferous trees is sometimes called a ___ forest.",
+            "options": [
+              "Underwater",
+              "Desert",
+              "Leafless",
+              "Evergreen"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Canadian Armed Forces: Protecting Our Country",
+        "summary": "Grade 2 Social Studies strand: the Canadian Armed Forces are the men and women who serve to protect Canada and help during emergencies at home and abroad.",
+        "resourceLabel": "YouTube: The Canadian Armed Forces: Protecting Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Armed%20Forces%3A%20Protecting%20Our%20Country%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the main role of the Canadian Armed Forces?",
+            "options": [
+              "To teach in schools",
+              "To protect Canada and help during emergencies",
+              "To deliver mail",
+              "To run grocery stores"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might members of the Canadian Armed Forces help during an emergency?",
+            "options": [
+              "Only in one single building",
+              "Only in outer space",
+              "Nowhere at all",
+              "At home in Canada or in other countries"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might the Canadian Armed Forces help with?",
+            "options": [
+              "Coaching a soccer team",
+              "Grocery shopping for a family",
+              "Painting houses",
+              "Natural disasters, like floods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The people who serve in the Canadian Armed Forces are often called ___.",
+            "options": [
+              "Bus drivers",
+              "Librarians",
+              "Farmers",
+              "Members of the military"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might communities honour the service of the Canadian Armed Forces?",
+            "options": [
+              "It has no meaning at all",
+              "The Armed Forces have never helped anyone",
+              "To show respect for their sacrifice and service",
+              "They have no reason to be honoured"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "label": "Day 160 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Word Relationships, Poetry Devices, and Story Writing",
+        "summary": "Grade 2 Language strand review: students revisit conjunctions, homographs, character traits, journal writing, bold and italic text features, assonance and consonance, hyperbole, acrostic poems, and writing a fictional story.",
+        "resourceLabel": "YouTube: Language Review: Word Relationships, Poetry Devices, and Story Writing",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Relationships%2C%20Poetry%20Devices%2C%20and%20Story%20Writing%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a conjunction?",
+            "options": [
+              "A joining word that connects ideas",
+              "A punctuation mark",
+              "A type of noun",
+              "A vowel sound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a homograph?",
+            "options": [
+              "A word that sounds different but is spelled the same always",
+              "A type of sentence",
+              "A word spelled the same with different meanings",
+              "A punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a character trait?",
+            "options": [
+              "The name of a character",
+              "A description of what a character is like inside",
+              "The setting of a story",
+              "The title of a book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "An extreme exaggeration",
+              "A true, exact statement",
+              "A type of punctuation",
+              "A silent letter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an acrostic poem spell using the first letter of each line?",
+            "options": [
+              "A random number",
+              "A silent letter",
+              "A punctuation mark",
+              "A hidden word, often the topic"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Graphs, Geometry, Time, Fractions, and Comparing Numbers",
+        "summary": "Grade 2 Math strand review: students revisit line graphs, parallel and perpendicular lines, digital and analog clocks, fraction of a group, total cost, polygons, comparing numbers, comparing fractions, and choosing the best graph.",
+        "resourceLabel": "YouTube: Math Review: Graphs, Geometry, Time, Fractions, and Comparing Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Graphs%2C%20Geometry%2C%20Time%2C%20Fractions%2C%20and%20Comparing%20Numbers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a line graph show?",
+            "options": [
+              "A single number only",
+              "A list of names",
+              "How something changes over time",
+              "A shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do perpendicular lines form where they cross?",
+            "options": [
+              "A circle",
+              "No angle at all",
+              "A right angle",
+              "A curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 1/2 of a group of 8 objects?",
+            "options": [
+              "2",
+              "8",
+              "6",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many sides does a pentagon have?",
+            "options": [
+              "7",
+              "5",
+              "4",
+              "6"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which symbol means greater than?",
+            "options": [
+              "=",
+              "<",
+              "+",
+              ">"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Our Bodies, Animals, and Ecosystems",
+        "summary": "Grade 2 Science strand review: students revisit the digestive system, sharks, penguins, invasive species, biodiversity, grasslands and prairies, keystone species, scavengers, and deciduous versus coniferous trees.",
+        "resourceLabel": "YouTube: Science Review: Our Bodies, Animals, and Ecosystems",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Our%20Bodies%2C%20Animals%2C%20and%20Ecosystems%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the digestive system do?",
+            "options": [
+              "Pumps blood through the body",
+              "Breaks down food so the body can use it",
+              "Helps us hear",
+              "Helps us see"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are shark skeletons mostly made of?",
+            "options": [
+              "Cartilage",
+              "Bone",
+              "Metal",
+              "Wood"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an invasive species?",
+            "options": [
+              "Any animal that lives in a zoo",
+              "A type of pet only",
+              "A plant or animal that does not naturally belong in an area",
+              "A plant grown in a garden on purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A kind of plant that never grows",
+              "An animal with a very large effect on its ecosystem",
+              "A type of rock",
+              "Any animal with no effect on nature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do deciduous trees do each fall?",
+            "options": [
+              "Turn into a different plant",
+              "Disappear completely",
+              "Grow needles instead of leaves",
+              "Lose their leaves"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Services, Culture, and Our Country",
+        "summary": "Grade 2 Social Studies strand review: students revisit the RCMP, multiculturalism, hockey, municipal taxes, the Trans-Canada Highway, public libraries, the lieutenant governor, Canadian citizenship, and the Canadian Armed Forces.",
+        "resourceLabel": "YouTube: Social Studies Review: Services, Culture, and Our Country",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Services%2C%20Culture%2C%20and%20Our%20Country%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does RCMP stand for?",
+            "options": [
+              "Regional Canadian Map Project",
+              "Royal Canadian Music Program",
+              "Royal Canadian Mounted Police",
+              "Rural Canadian Mail Post"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does multiculturalism mean?",
+            "options": [
+              "No cultures exist",
+              "People from many cultures living together",
+              "Everyone must look the same",
+              "Only one culture is allowed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are municipal taxes?",
+            "options": [
+              "A type of sport",
+              "A type of holiday",
+              "A kind of weather",
+              "Money collected by a city to pay for services"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role does a lieutenant governor represent?",
+            "options": [
+              "A school principal",
+              "A ceremonial representative of the Crown in a province",
+              "A local shop owner",
+              "The mayor of a city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main role of the Canadian Armed Forces?",
+            "options": [
+              "To deliver mail",
+              "To run grocery stores",
+              "To teach in schools",
+              "To protect Canada and help during emergencies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
