@@ -36514,5 +36514,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 151,
+    "label": "Day 151 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Subordinate Clauses and Complex Sentences",
+        "summary": "Grade 10 English strand: a subordinate clause contains a subject and a verb but cannot stand alone as a complete sentence, and when joined to an independent clause using a subordinating conjunction such as although, because, or while, it forms a complex sentence.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a subordinate clause?",
+            "options": [
+              "A group of words with a subject and a verb that cannot stand alone as a complete sentence",
+              "A punctuation mark used to separate two independent clauses",
+              "A single word with no subject or verb",
+              "A complete sentence that can stand alone with no other clause"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is required to join a subordinate clause to an independent clause?",
+            "options": [
+              "A period placed in the middle of the clause",
+              "A subordinating conjunction such as although, because, or while",
+              "A comma splice with no connecting word",
+              "A second unrelated subordinate clause with no connection"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of sentence is formed when a subordinate clause is joined to an independent clause?",
+            "options": [
+              "A sentence fragment with no verb",
+              "A single isolated word",
+              "A complex sentence",
+              "A list with no grammatical structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains a subordinate clause?",
+            "options": [
+              "The storm arrived early.",
+              "Because the storm arrived early, the game was postponed.",
+              "Storm, game, postponed, early.",
+              "The game was postponed."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use a subordinate clause?",
+            "options": [
+              "To show a relationship such as cause, time, or contrast between two ideas",
+              "To remove all meaning from a sentence",
+              "To ensure a sentence has no independent clause at all",
+              "To avoid using any conjunction whatsoever"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: The Second Derivative and Concavity",
+        "summary": "Grade 10 Math strand: the second derivative of a function measures how the rate of change itself is changing, and its sign indicates concavity, with a positive second derivative showing the graph curves upward and a negative second derivative showing the graph curves downward.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the second derivative of a function measure?",
+            "options": [
+              "The exact value of the function at a single point",
+              "How the rate of change of the function is itself changing",
+              "The total area under the graph of the function",
+              "The number of times the function crosses the x-axis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a positive second derivative indicate about a graph?",
+            "options": [
+              "The graph has no defined slope anywhere",
+              "The graph is a perfectly straight line",
+              "The graph is concave up, curving upward",
+              "The graph is concave down, curving downward"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a negative second derivative indicate about a graph?",
+            "options": [
+              "The graph is concave down, curving downward",
+              "The function has no first derivative",
+              "The function is undefined at every point",
+              "The graph is concave up, curving upward"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an inflection point?",
+            "options": [
+              "A point that only exists on a straight line",
+              "A point where a graph reaches its highest possible value forever",
+              "A point where the concavity of a graph changes from up to down or down to up",
+              "A point where a function is never continuous"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is the second derivative typically calculated?",
+            "options": [
+              "By multiplying the function by zero",
+              "By evaluating the function at x equals zero only",
+              "By taking the derivative of the first derivative",
+              "By taking the square root of the original function"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Population Genetics and the Hardy-Weinberg Principle",
+        "summary": "Grade 10 Science strand: population genetics studies how allele and genotype frequencies change within a population, and the Hardy-Weinberg principle describes the condition under which those frequencies remain stable across generations in the absence of evolutionary forces such as mutation, migration, or selection.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does population genetics study?",
+            "options": [
+              "The individual behaviour of a single organism only",
+              "The chemical composition of nonliving rocks",
+              "The formation of new mountain ranges over time",
+              "How allele and genotype frequencies change within a population"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Hardy-Weinberg principle describe?",
+            "options": [
+              "A rule that applies only to nonliving matter",
+              "A process that always causes rapid genetic change in every population",
+              "The condition under which allele frequencies remain stable across generations",
+              "A method for building a family tree of a single organism"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which factor would disrupt the stable condition described by the Hardy-Weinberg principle?",
+            "options": [
+              "A population existing in a vacuum with no organisms",
+              "Natural selection acting on a population",
+              "A population with no reproduction occurring",
+              "A population remaining perfectly isolated with no change at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What term describes the proportion of a particular allele within a population gene pool?",
+            "options": [
+              "Photosynthetic yield",
+              "Allele frequency",
+              "Atomic mass",
+              "Cellular respiration rate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Hardy-Weinberg principle useful to biologists even though real populations rarely meet its exact conditions?",
+            "options": [
+              "It provides a baseline for detecting when evolutionary forces are actually acting on a population",
+              "It applies only to nonliving chemical systems",
+              "It proves that evolution never occurs in any population",
+              "It eliminates the need to study genetics entirely"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Dieppe Raid of 1942",
+        "summary": "Grade 10 History strand: the Dieppe Raid was a largely Canadian amphibious assault on the German-occupied French port of Dieppe on August 19, 1942, that resulted in heavy Canadian casualties within a single day and provided costly lessons later applied to the planning of the Normandy landings.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year did the Dieppe Raid take place?",
+            "options": [
+              "1942",
+              "1938",
+              "1949",
+              "1917"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which nations troops made up the majority of the attacking force at Dieppe?",
+            "options": [
+              "American troops",
+              "Soviet troops",
+              "Australian troops",
+              "Canadian troops"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the outcome of the Dieppe Raid for the attacking force?",
+            "options": [
+              "A complete and lasting capture of the port with no losses",
+              "An immediate German surrender",
+              "A peaceful withdrawal with no combat at all",
+              "Heavy casualties within a single day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What later operation is often said to have benefited from lessons learned at Dieppe?",
+            "options": [
+              "The Battle of Vimy Ridge",
+              "The Normandy landings",
+              "The Klondike Gold Rush",
+              "The Suez Crisis"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of military operation was the Dieppe Raid?",
+            "options": [
+              "A naval blockade with no landing force",
+              "An amphibious assault launched from the sea",
+              "A diplomatic negotiation with no combat",
+              "A purely aerial bombing campaign with no ground troops"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "label": "Day 152 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Tone Shifts in Poetry",
+        "summary": "Grade 10 English strand: tone is the attitude a speaker or writer conveys toward a subject, and a tone shift occurs when that attitude changes within a poem, often signalled by changes in diction, imagery, punctuation, or line structure.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is tone in a poem?",
+            "options": [
+              "The physical size of the printed page",
+              "The publication date of a poem",
+              "The attitude a speaker or writer conveys toward a subject",
+              "The exact number of lines contained in a poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a tone shift?",
+            "options": [
+              "A change in the title of an unrelated poem",
+              "A change in the font used to print a poem",
+              "A change in the authors legal name",
+              "A change in the attitude conveyed within a poem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which element might signal a tone shift in a poem?",
+            "options": [
+              "The total page count of the book containing the poem",
+              "The price listed on the back of the book",
+              "The colour of the book cover",
+              "A noticeable change in diction, imagery, or punctuation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a poet include a tone shift?",
+            "options": [
+              "To remove all imagery from the poem entirely",
+              "To reflect a change in emotion, perspective, or realization within the poem",
+              "To ensure the poem has no emotional content at all",
+              "To make the poem impossible to read aloud"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where in a poem might a tone shift most often be noticed?",
+            "options": [
+              "Only in the name of the publisher",
+              "Only in a footnote unrelated to the poem",
+              "Only in the title of the poem",
+              "At a stanza break or turning point in the poems argument or narrative"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Perfect Numbers and Mersenne Primes",
+        "summary": "Grade 10 Math strand: a perfect number is a positive integer that equals the sum of its proper divisors, such as 6, which equals 1 plus 2 plus 3, and every known even perfect number is closely linked to a Mersenne prime through the Euclid-Euler theorem.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is a perfect number?",
+            "options": [
+              "A number that is always negative",
+              "A positive integer that equals the sum of its proper divisors",
+              "A number that has no divisors other than itself",
+              "Any integer that is divisible by exactly two numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is an example of a perfect number?",
+            "options": [
+              "15, since its divisors do not sum to 15",
+              "7, since it has only two divisors",
+              "6, since 1 plus 2 plus 3 equals 6",
+              "10, since its divisors do not sum to 10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What theorem links even perfect numbers to Mersenne primes?",
+            "options": [
+              "The Pythagorean Theorem",
+              "The Fundamental Theorem of Algebra",
+              "The Chinese Remainder Theorem",
+              "The Euclid-Euler theorem"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a Mersenne prime?",
+            "options": [
+              "A number with no divisors of any kind",
+              "A number equal to the sum of its multiples",
+              "A prime number that is one less than a power of two",
+              "A number that is always even and never prime"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are perfect numbers still of interest to mathematicians today?",
+            "options": [
+              "Perfect numbers have no connection to any other area of number theory",
+              "It remains unknown whether any odd perfect number exists",
+              "Every property of perfect numbers has been completely solved with no open questions",
+              "Perfect numbers are no longer studied in modern mathematics"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Thermochemistry and Enthalpy of Reaction",
+        "summary": "Grade 10 Science strand: thermochemistry studies the heat energy absorbed or released during a chemical reaction, measured as the enthalpy of reaction, with exothermic reactions releasing heat to the surroundings and endothermic reactions absorbing heat from the surroundings.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does thermochemistry study?",
+            "options": [
+              "The speed at which a solid dissolves in water",
+              "The colour changes that occur in a solution",
+              "The heat energy absorbed or released during a chemical reaction",
+              "The electrical conductivity of a metal wire"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What term describes the heat energy change during a reaction?",
+            "options": [
+              "The molar mass",
+              "The atomic number",
+              "The pH value",
+              "The enthalpy of reaction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens during an exothermic reaction?",
+            "options": [
+              "Light is absorbed but no heat is involved",
+              "Heat is absorbed from the surroundings",
+              "Heat is released to the surroundings",
+              "No energy change occurs at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens during an endothermic reaction?",
+            "options": [
+              "The temperature of the surroundings always rises",
+              "Heat is absorbed from the surroundings",
+              "Heat is released to the surroundings",
+              "The reaction produces no chemical change"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which everyday example illustrates an exothermic reaction?",
+            "options": [
+              "Melting an ice cube at room temperature",
+              "Evaporating water on a cool day",
+              "Dissolving a cold pack that draws in heat",
+              "Burning wood in a campfire"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Battle of the Atlantic",
+        "summary": "Grade 10 History strand: the Battle of the Atlantic was the longest continuous military campaign of the Second World War, lasting from 1939 to 1945, in which the Royal Canadian Navy played a major role escorting merchant convoys across the ocean while defending them from German submarine attacks.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Battle of the Atlantic?",
+            "options": [
+              "A single one-day naval battle fought near Halifax",
+              "The longest continuous military campaign of the Second World War, fought largely over merchant shipping",
+              "A diplomatic conference held in a neutral country",
+              "A land battle fought entirely within continental Europe"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "From what years did the Battle of the Atlantic last?",
+            "options": [
+              "1950 to 1953",
+              "1939 to 1945",
+              "1929 to 1933",
+              "1914 to 1918"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role did the Royal Canadian Navy play in the Battle of the Atlantic?",
+            "options": [
+              "Serving only as a training fleet with no combat role",
+              "Operating exclusively in the Pacific Ocean",
+              "Escorting merchant convoys across the ocean and defending them from attack",
+              "Refusing to participate in any naval operations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the main threat to Allied convoys during the Battle of the Atlantic?",
+            "options": [
+              "German submarine attacks",
+              "Severe drought affecting ocean levels",
+              "Piracy from unrelated nations",
+              "Volcanic eruptions along shipping routes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was the Battle of the Atlantic strategically important to the Allied war effort?",
+            "options": [
+              "It protected the supply lines of food, fuel, and troops needed to sustain the war in Europe",
+              "It was fought entirely for symbolic reasons with no material stakes",
+              "It focused only on capturing uninhabited islands",
+              "It had no connection to any other theatre of the war"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "label": "Day 153 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Character Sketch",
+        "summary": "Grade 10 English strand: a character sketch is a short piece of writing that vividly portrays a characters physical appearance, personality traits, and motivations without necessarily including a complete plot, allowing a writer to practise close observation and descriptive detail.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a character sketch?",
+            "options": [
+              "A full-length novel with multiple complete subplots",
+              "A short piece of writing that vividly portrays a characters appearance, personality, and motivations",
+              "A formal legal document describing a real person",
+              "A diagram showing the setting of a story with no characters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does a character sketch typically require a complete plot?",
+            "options": [
+              "No, it can focus purely on describing a character without a full plot",
+              "Yes, it must include several unrelated subplots",
+              "No, it must contain no descriptive detail whatsoever",
+              "Yes, it must always contain a beginning, middle, and end"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What skill does writing a character sketch help a writer practise?",
+            "options": [
+              "Close observation and descriptive detail",
+              "Memorizing historical dates",
+              "Designing a scientific experiment",
+              "Solving mathematical equations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which detail would most likely appear in a character sketch?",
+            "options": [
+              "A list of unrelated chemical formulas",
+              "A table of stock market prices",
+              "A description of the characters habitual gestures and manner of speaking",
+              "A schedule of upcoming sporting events"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a character sketch be useful before writing a longer story?",
+            "options": [
+              "It replaces the need for any dialogue in the final story",
+              "It helps a writer develop a clear, consistent sense of a character before placing them in a plot",
+              "It guarantees the story will have no conflict",
+              "It removes any need to ever think about character again"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to the t-Distribution",
+        "summary": "Grade 10 Math strand: the t-distribution is a probability distribution used when working with small sample sizes and an unknown population standard deviation, resembling the normal distribution but with heavier tails that account for the added uncertainty of a smaller sample.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "When is the t-distribution typically used instead of the normal distribution?",
+            "options": [
+              "When working with a small sample size and an unknown population standard deviation",
+              "When the entire population has already been measured exactly",
+              "When no data has been collected at all",
+              "When a distribution has no variability whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the shape of the t-distribution compare to the normal distribution?",
+            "options": [
+              "It has heavier tails to account for added uncertainty from a smaller sample",
+              "It has a shape that cannot be graphed",
+              "It has no tails at all",
+              "It is always identical to the normal distribution in every case"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the t-distribution as sample size increases?",
+            "options": [
+              "It becomes increasingly different from the normal distribution",
+              "It disappears entirely once a sample is collected",
+              "It becomes increasingly similar to the normal distribution",
+              "It always becomes perfectly flat with no peak"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is degrees of freedom most closely related to when using the t-distribution?",
+            "options": [
+              "The sample size used in the calculation",
+              "The name of the researcher conducting the study",
+              "The location where data was collected",
+              "The colour of the graph produced"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what type of study might a researcher rely on the t-distribution?",
+            "options": [
+              "A study with a small sample where the population standard deviation is not known",
+              "A purely qualitative interview with no statistics involved",
+              "A study involving no numerical data at all",
+              "A census that measures every member of an entire population"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Diffraction and Interference of Light",
+        "summary": "Grade 10 Science strand: diffraction is the bending of light waves as they pass around an obstacle or through a narrow opening, and interference occurs when two or more light waves overlap, combining constructively to increase brightness or destructively to reduce it.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is diffraction?",
+            "options": [
+              "The complete absorption of light by a solid object",
+              "The conversion of light into sound energy",
+              "The bending of light waves as they pass around an obstacle or through a narrow opening",
+              "The reflection of light directly back toward its source"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is interference in the context of light waves?",
+            "options": [
+              "The conversion of light into heat with no wave behaviour involved",
+              "A single light wave travelling in a straight line with no other waves present",
+              "The combination of two or more overlapping light waves",
+              "The complete disappearance of a light wave with no cause"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is constructive interference?",
+            "options": [
+              "When overlapping waves combine to increase brightness",
+              "When a single wave splits into two unrelated colours",
+              "When light waves refuse to interact with one another",
+              "When overlapping waves combine to eliminate all light entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is destructive interference?",
+            "options": [
+              "When overlapping waves combine to reduce brightness",
+              "When two waves always produce identical results to constructive interference",
+              "When overlapping waves combine to increase brightness beyond any limit",
+              "When a wave travels through a vacuum with no medium"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What everyday phenomenon demonstrates diffraction and interference of light?",
+            "options": [
+              "The heating of a metal surface left in direct sunlight",
+              "The straight shadow cast by a solid wall on a sunny day",
+              "The steady glow of a light bulb filament",
+              "The pattern of colours seen on the surface of a soap bubble"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1942 National Plebiscite on Conscription",
+        "summary": "Grade 10 History strand: in 1942, Prime Minister Mackenzie King held a national plebiscite asking Canadians to release his government from its earlier promise not to introduce overseas conscription, resulting in a majority yes vote nationally but strong opposition in Quebec, deepening tensions over wartime policy.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the national plebiscite on conscription held?",
+            "options": [
+              "1938",
+              "1917",
+              "1942",
+              "1949"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the plebiscite asking Canadians to release the government from?",
+            "options": [
+              "A promise to lower income taxes",
+              "A promise to join a new international alliance",
+              "An earlier promise not to introduce overseas conscription",
+              "A promise to build a new national railway"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which prime minister held the 1942 plebiscite?",
+            "options": [
+              "Robert Borden",
+              "Wilfrid Laurier",
+              "Lester Pearson",
+              "Mackenzie King"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the overall national result of the plebiscite?",
+            "options": [
+              "The vote ended in an exact national tie",
+              "A majority voted yes to releasing the government from its promise",
+              "The plebiscite was cancelled before any votes were counted",
+              "A majority voted no across every region of the country"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How did voters in Quebec generally respond to the plebiscite?",
+            "options": [
+              "A strong majority voted no, opposing the release from the promise",
+              "A strong majority voted yes, matching the national result exactly",
+              "Quebec recorded the highest yes vote of any province",
+              "Quebec was excluded entirely from voting"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "label": "Day 154 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Picaresque Novel",
+        "summary": "Grade 10 English strand: a picaresque novel is an episodic narrative that follows a resourceful, low-born hero known as a picaro through a loosely connected series of adventures, often using humour and social observation to satirize the customs of the society the picaro travels through.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What type of hero does a picaresque novel typically follow?",
+            "options": [
+              "A powerful monarch ruling over a vast empire",
+              "A retired scientist working alone in a laboratory",
+              "A committee of unnamed government officials",
+              "A resourceful, low-born hero known as a picaro"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is the plot of a picaresque novel typically structured?",
+            "options": [
+              "As a single tightly plotted event with no digressions",
+              "As a strict step-by-step scientific procedure",
+              "As a loosely connected series of episodic adventures",
+              "As a formal legal argument with numbered clauses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What literary purpose does a picaresque novel often serve?",
+            "options": [
+              "Recording precise historical statistics with no characters",
+              "Providing a technical manual with no narrative content",
+              "Avoiding any commentary on society whatsoever",
+              "Satirizing the customs and social classes of the society the picaro travels through"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tone does a picaresque novel often adopt?",
+            "options": [
+              "A humorous and observational tone",
+              "A tone limited entirely to scientific terminology",
+              "A strictly formal legal tone",
+              "A tone with no emotional or descriptive content"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a picaresque novel use a low-born protagonist rather than a noble one?",
+            "options": [
+              "A low-born character cannot appear in any story according to literary convention",
+              "A low-born protagonist prevents any social commentary from appearing",
+              "A low-born wanderer can move freely across social classes, offering a wide view of society",
+              "A low-born protagonist eliminates the possibility of humour"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Discrete Math: Graph Colouring and Chromatic Number",
+        "summary": "Grade 10 Math strand: graph colouring assigns a colour to each vertex of a graph so that no two adjacent vertices share the same colour, and the chromatic number of a graph is the smallest number of colours needed to achieve this, with applications such as scheduling and map colouring.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does graph colouring assign to each vertex of a graph?",
+            "options": [
+              "A random number with no rule attached",
+              "A name matching an unrelated historical figure",
+              "A fixed weight equal to the number of edges",
+              "A colour, so that no two adjacent vertices share the same colour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the chromatic number of a graph?",
+            "options": [
+              "The total number of vertices in the graph",
+              "The smallest number of colours needed so no two adjacent vertices share a colour",
+              "The largest possible number of colours that could ever be used",
+              "The total number of edges in the graph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must adjacent vertices receive different colours in a proper graph colouring?",
+            "options": [
+              "To ensure that connected vertices can be distinguished from one another",
+              "Because adjacent vertices are not allowed to exist in a graph",
+              "Because graph colouring requires every vertex to be identical",
+              "Because colour has no meaningful role in graph theory"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which real-world problem can be modelled using graph colouring?",
+            "options": [
+              "Measuring the exact temperature of a room",
+              "Finding the derivative of a polynomial function",
+              "Calculating the volume of a three-dimensional solid",
+              "Scheduling exams so that no student has two exams at the same time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is graph colouring connected to map colouring problems?",
+            "options": [
+              "Map colouring requires an infinite number of colours for any map",
+              "Regions on a map can be represented as vertices, with shared borders as edges requiring different colours",
+              "Graph colouring can only apply to perfectly straight lines",
+              "Maps have no connection to graph theory of any kind"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: The Aurora Borealis and Space Weather",
+        "summary": "Grade 10 Science strand: the aurora borealis, or northern lights, occurs when charged particles from the sun interact with gases in Earths upper atmosphere near the magnetic poles, a visible effect of space weather driven by solar activity such as solar flares and coronal mass ejections.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What causes the aurora borealis?",
+            "options": [
+              "A permanent feature unrelated to solar activity",
+              "Charged particles from the sun interacting with gases in Earths upper atmosphere",
+              "A chemical reaction occurring entirely within the ocean",
+              "Reflections of city lights bouncing off low clouds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Near what part of Earth is the aurora borealis most commonly visible?",
+            "options": [
+              "Near the magnetic poles",
+              "Only in desert regions",
+              "Only over large bodies of fresh water",
+              "Near the equator only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What term describes the broader field of solar-driven effects on Earths space environment?",
+            "options": [
+              "The rock cycle",
+              "Plate tectonics",
+              "Ocean acidification",
+              "Space weather"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which solar event is closely linked to increased auroral activity?",
+            "options": [
+              "A change in ocean tides",
+              "A meteor shower unrelated to the sun",
+              "A coronal mass ejection or solar flare",
+              "A lunar eclipse"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can strong space weather events pose risks to modern technology?",
+            "options": [
+              "They can disrupt satellites, power grids, and radio communication",
+              "They have no measurable effect on any technology",
+              "They only affect technology located underground",
+              "They exclusively affect handwritten paper records"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Italian Campaign and the Battle of Ortona",
+        "summary": "Grade 10 History strand: Canadian troops fought in the Italian Campaign from 1943 to 1945, including the brutal house-to-house fighting of the Battle of Ortona in December 1943, an intense urban battle that became one of the wars most difficult engagements for Canadian forces.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "From what years did Canadian troops fight in the Italian Campaign?",
+            "options": [
+              "1943 to 1945",
+              "1929 to 1933",
+              "1914 to 1918",
+              "1950 to 1953"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What made the Battle of Ortona especially difficult for Canadian troops?",
+            "options": [
+              "Brutal house-to-house urban fighting",
+              "A battle fought entirely at sea with no ground troops",
+              "An uncontested advance with no enemy resistance",
+              "A negotiation conducted with no combat at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what month and year did the Battle of Ortona take place?",
+            "options": [
+              "December 1943",
+              "August 1942",
+              "May 1945",
+              "June 1944"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of combat characterized the fighting at Ortona?",
+            "options": [
+              "Close-quarters combat within a densely built town",
+              "Diplomatic negotiations between generals",
+              "Aerial dogfights with no ground engagement",
+              "Long-range naval artillery exchanges only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Italian Campaign significant to the study of Canadian military history?",
+            "options": [
+              "It involved no Canadian participation of any kind",
+              "It ended before any fighting actually occurred",
+              "It had no connection to the broader Second World War",
+              "It demonstrated the endurance of Canadian forces in prolonged and difficult combat conditions"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "label": "Day 155 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Reality Television",
+        "summary": "Grade 10 English strand: reality television presents seemingly unscripted footage of real people in constructed situations, edited and structured by producers to build narrative tension, conflict, and character arcs for entertainment rather than to provide an unfiltered record of events.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does reality television present to viewers?",
+            "options": [
+              "A purely animated program with no real participants",
+              "Seemingly unscripted footage of real people in constructed situations",
+              "Fully scripted dialogue performed by professional actors only",
+              "A live unedited broadcast with no post-production of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role do producers typically play in shaping reality television?",
+            "options": [
+              "They eliminate all editing from the final program",
+              "They appear on screen as the only visible participants",
+              "They edit and structure footage to build narrative tension and conflict",
+              "They have no involvement in the final broadcast whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might reality television not provide an unfiltered record of events?",
+            "options": [
+              "Because reality television contains no editing decisions at all",
+              "Because editing choices shape which moments are shown and how they are framed",
+              "Because reality television is always broadcast completely live with no editing",
+              "Because participants are never aware they are being filmed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common narrative technique used in reality television editing?",
+            "options": [
+              "Presenting footage in a random order with no structure",
+              "Building a character arc or storyline through selective editing across episodes",
+              "Removing every participant from the final broadcast",
+              "Avoiding any depiction of conflict whatsoever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is media literacy useful when watching reality television?",
+            "options": [
+              "It guarantees that reality television contains no editing of any kind",
+              "It removes any need to think critically about televised content",
+              "It proves that reality television is always a fully accurate record",
+              "It helps viewers recognize the constructed and edited nature of what appears to be unscripted content"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Vectors: Vector Equations of Lines and Planes",
+        "summary": "Grade 10 Math strand: a line in space can be described using a vector equation built from a known point and a direction vector, while a plane can be described using a known point and a normal vector, extending vector concepts to represent geometric objects algebraically.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What two pieces of information define the vector equation of a line?",
+            "options": [
+              "The colour used to draw the line on a graph",
+              "The name of the mathematician who first drew the line",
+              "Only the length of the line with no other information",
+              "A known point on the line and a direction vector"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two pieces of information define the vector equation of a plane?",
+            "options": [
+              "A single unrelated scalar with no direction",
+              "A known point on the plane and a normal vector",
+              "The temperature of the room where the plane is drawn",
+              "Only the area of the plane with no other information"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a normal vector to a plane represent?",
+            "options": [
+              "A vector that lies flat within the plane itself",
+              "A vector that changes length depending on where it is measured",
+              "A vector that is perpendicular to every line lying within the plane",
+              "A vector with no defined direction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a direction vector for a line indicate?",
+            "options": [
+              "The total number of points on the line",
+              "The exact colour of the line",
+              "The name of the plane containing the line",
+              "The direction in which the line extends through space"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are vector equations useful for describing lines and planes?",
+            "options": [
+              "They can only describe objects in exactly two dimensions",
+              "They have no connection to points or directions at all",
+              "They eliminate the need to ever graph a line or plane",
+              "They allow geometric objects in space to be represented and manipulated algebraically"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Sleep and Circadian Rhythms",
+        "summary": "Grade 10 Science strand: circadian rhythms are roughly twenty-four-hour internal cycles that regulate sleep and wakefulness, influenced by external cues such as light and darkness, and coordinated by a region of the brain that helps synchronize bodily processes with the day-night cycle.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is a circadian rhythm?",
+            "options": [
+              "A cycle that repeats exactly once per year",
+              "A random pattern of behaviour with no regular timing",
+              "A roughly twenty-four-hour internal cycle that regulates sleep and wakefulness",
+              "A pattern found only in plants, never in animals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What external cue most strongly influences the circadian rhythm?",
+            "options": [
+              "Ocean tide patterns",
+              "Background noise levels",
+              "Light and darkness",
+              "Air pressure changes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What role does the brain play in circadian rhythms?",
+            "options": [
+              "The brain prevents any internal cycle from forming",
+              "A specific brain region helps synchronize bodily processes with the day-night cycle",
+              "The brain only regulates digestion, not sleep patterns",
+              "The brain has no role in regulating sleep at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might happen if a persons circadian rhythm is disrupted, such as by shift work or long-distance travel?",
+            "options": [
+              "The persons height will permanently change",
+              "The persons eye colour will change over time",
+              "Sleep quality and alertness can be negatively affected",
+              "Circadian disruption has no effect on the body whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do circadian rhythms continue even in the absence of external light cues?",
+            "options": [
+              "They only exist in organisms that never sleep",
+              "They stop functioning completely without any light present",
+              "They are driven by an internal biological clock that persists even without external timing signals",
+              "They are entirely created by external light with no internal component"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "D-Day and the Normandy Campaign, 1944",
+        "summary": "Grade 10 History strand: on June 6, 1944, Allied forces launched the D-Day invasion of Normandy, with Canadian troops landing at Juno Beach as part of the assault, beginning a campaign that pushed German forces out of France over the following months.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "On what date did the D-Day invasion of Normandy begin?",
+            "options": [
+              "June 6, 1944",
+              "August 19, 1942",
+              "May 8, 1945",
+              "December 1943"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At which beach did Canadian troops land during the D-Day invasion?",
+            "options": [
+              "Omaha Beach",
+              "Juno Beach",
+              "Utah Beach",
+              "Sword Beach"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What broader military action did D-Day begin?",
+            "options": [
+              "A purely naval blockade with no ground invasion",
+              "A diplomatic conference with no military action",
+              "A withdrawal of all Allied troops from Europe",
+              "The Normandy Campaign to push German forces out of France"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of military operation was the D-Day landing?",
+            "options": [
+              "A single-pilot reconnaissance flight",
+              "A purely underground tunnel assault",
+              "A large-scale amphibious invasion",
+              "A negotiation carried out entirely by letter"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is D-Day considered a major turning point in the Second World War in Europe?",
+            "options": [
+              "It ended the war immediately with no further fighting",
+              "It had no lasting effect on the outcome of the war",
+              "It established a major Allied foothold in western Europe that led to the liberation of France",
+              "It occurred entirely outside of the European theatre"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "label": "Day 156 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Simple, Compound, Complex, and Compound-Complex Sentences",
+        "summary": "Grade 10 English strand: sentences can be classified by structure as simple, containing one independent clause; compound, containing two or more independent clauses; complex, containing an independent clause and at least one subordinate clause; or compound-complex, combining both features.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What defines a simple sentence?",
+            "options": [
+              "It contains no subject or verb at all",
+              "It contains exactly one independent clause",
+              "It always contains at least three independent clauses",
+              "It can never contain any punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What defines a compound sentence?",
+            "options": [
+              "It always ends without any punctuation",
+              "It contains only a single word with no clause",
+              "It contains two or more independent clauses joined together",
+              "It can never be joined by a conjunction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines a complex sentence?",
+            "options": [
+              "It contains an independent clause and at least one subordinate clause",
+              "It contains no independent clause of any kind",
+              "It can never include a subordinating conjunction",
+              "It always contains exactly two subordinate clauses and no independent clause"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What defines a compound-complex sentence?",
+            "options": [
+              "It combines two or more independent clauses with at least one subordinate clause",
+              "It can never contain more than one clause",
+              "It contains exactly one word with no clause structure",
+              "It excludes all independent clauses entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding these four sentence types useful for a writer?",
+            "options": [
+              "It allows a writer to vary sentence structure deliberately for clarity and effect",
+              "It prevents a writer from ever combining two ideas",
+              "It guarantees that a writer will never make a grammatical error",
+              "It eliminates any need to ever use punctuation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: An Introduction to Markov Chains",
+        "summary": "Grade 10 Math strand: a Markov chain models a sequence of events in which the probability of moving to the next state depends only on the current state, not on the sequence of events that preceded it, a property known as memorylessness.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a Markov chain model?",
+            "options": [
+              "A single isolated event with no sequence involved",
+              "A sequence where every future event is completely fixed with no randomness",
+              "A sequence where each event depends on every prior event in full detail",
+              "A sequence of events where the probability of the next state depends only on the current state"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What property describes the defining feature of a Markov chain?",
+            "options": [
+              "A guarantee that no transition between states can ever occur",
+              "Memorylessness, since only the current state matters for predicting the next",
+              "Infinite memory of every past event in the sequence",
+              "Complete independence from any current state"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a state in the context of a Markov chain?",
+            "options": [
+              "The name of the person analyzing the chain",
+              "A possible condition or position the system can occupy at a given step",
+              "A fixed numerical constant with no connection to probability",
+              "The exact time of day an event occurs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What term describes the probability of moving from one state to another in a Markov chain?",
+            "options": [
+              "A transition probability",
+              "A determinant",
+              "A derivative",
+              "An asymptote"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which real-world scenario could be modelled using a Markov chain?",
+            "options": [
+              "Predicting tomorrows weather condition based only on todays weather condition",
+              "Calculating the exact area of a triangle",
+              "Finding the slope of a straight line between two points",
+              "Measuring the length of a fixed physical object"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Corrosion and the Electrochemistry of Rusting",
+        "summary": "Grade 10 Science strand: corrosion is the gradual deterioration of a metal caused by chemical reactions with its environment, and rusting is a common form of corrosion in which iron reacts with oxygen and water through an electrochemical process to form hydrated iron oxide.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is corrosion?",
+            "options": [
+              "A permanent and unchangeable property of every metal",
+              "The instant destruction of a metal with no chemical process involved",
+              "The gradual deterioration of a metal caused by chemical reactions with its environment",
+              "A process that only affects nonmetal materials"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is rusting a common example of?",
+            "options": [
+              "Corrosion",
+              "Distillation",
+              "Combustion",
+              "Sublimation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two substances does iron react with to form rust?",
+            "options": [
+              "Only pure hydrogen gas",
+              "Oxygen and water",
+              "Only solid carbon",
+              "Nitrogen and helium"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of process underlies the formation of rust?",
+            "options": [
+              "A nuclear process involving atomic fission",
+              "An electrochemical process",
+              "A process that occurs only at extremely low temperatures",
+              "A purely mechanical process with no chemical change"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might coating a metal surface with paint or oil help prevent rusting?",
+            "options": [
+              "It blocks direct contact between the metal and oxygen or water",
+              "It permanently changes the metal into a different element",
+              "It increases the rate at which the metal reacts with oxygen",
+              "It has no effect on the rate of corrosion whatsoever"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Battle of the Scheldt, 1944",
+        "summary": "Grade 10 History strand: the Battle of the Scheldt was a series of difficult operations in the fall of 1944 in which the First Canadian Army fought to clear the Scheldt Estuary of German forces, a campaign essential to opening the port of Antwerp for vital Allied supply shipments.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year did the Battle of the Scheldt take place?",
+            "options": [
+              "1949",
+              "1938",
+              "1944",
+              "1917"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which army led the effort to clear the Scheldt Estuary?",
+            "options": [
+              "The United States Marine Corps",
+              "The Royal Australian Navy",
+              "The First Canadian Army",
+              "The Soviet Red Army"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What geographic feature did Allied forces need to clear of German troops during this battle?",
+            "options": [
+              "The Great Lakes",
+              "The Scheldt Estuary",
+              "The Prairie grasslands",
+              "The Rocky Mountains"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What port did clearing the Scheldt Estuary allow the Allies to use?",
+            "options": [
+              "The port of Antwerp",
+              "The port of Halifax",
+              "The port of Liverpool",
+              "The port of Vancouver"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was opening the port important to the Allied war effort in late 1944?",
+            "options": [
+              "It had no strategic value to the Allied campaign",
+              "It provided a vital route for delivering supplies closer to the front lines in western Europe",
+              "It ended all fighting in the region immediately",
+              "It was used exclusively for civilian tourism"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "label": "Day 157 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Pastoral and Nature Imagery",
+        "summary": "Grade 10 English strand: pastoral literature idealizes rural life and the natural world, often using vivid nature imagery to contrast the simplicity of the countryside with the complexity or corruption of urban or courtly life, inviting reflection on humanitys relationship with nature.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does pastoral literature typically idealize?",
+            "options": [
+              "The structure of a modern legal system",
+              "The complexity of urban courtly politics",
+              "The mechanics of industrial factories",
+              "Rural life and the natural world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What contrast does pastoral literature often draw?",
+            "options": [
+              "A contrast between two identical settings with no differences",
+              "A contrast between two unrelated mathematical formulas",
+              "A contrast between silence and complete darkness only",
+              "A contrast between the simplicity of the countryside and the complexity of urban or courtly life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What literary device is central to pastoral writing?",
+            "options": [
+              "Strictly technical scientific vocabulary",
+              "Legal terminology with no descriptive language",
+              "A complete absence of any descriptive detail",
+              "Vivid nature imagery"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What deeper theme might pastoral literature invite readers to reflect on?",
+            "options": [
+              "The precise mechanics of a combustion engine",
+              "The rules of a formal courtroom procedure",
+              "Humanitys relationship with the natural world",
+              "The history of international trade tariffs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which image would most likely appear in a pastoral poem?",
+            "options": [
+              "A server room filled with computer equipment",
+              "A shepherd resting beneath a tree in a quiet meadow",
+              "A busy highway interchange at rush hour",
+              "A crowded stock exchange trading floor"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Functions: Even and Odd Functions and Symmetry",
+        "summary": "Grade 10 Math strand: an even function is symmetric about the y-axis and satisfies f(-x) equals f(x), while an odd function is symmetric about the origin and satisfies f(-x) equals negative f(x), with many functions being neither even nor odd.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What condition defines an even function?",
+            "options": [
+              "f(-x) equals f(x) for every x in the domain",
+              "f(x) is always a negative number",
+              "f(x) has no defined domain at all",
+              "f(-x) always equals zero for every x"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What condition defines an odd function?",
+            "options": [
+              "f(x) must always be a whole number",
+              "f(x) is undefined for all values of x",
+              "f(-x) equals negative f(x) for every x in the domain",
+              "f(-x) always equals f(x) for every x"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of symmetry does an even function display?",
+            "options": [
+              "Symmetry about the x-axis only",
+              "Symmetry about a single fixed point unrelated to the origin",
+              "No symmetry of any kind",
+              "Symmetry about the y-axis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of symmetry does an odd function display?",
+            "options": [
+              "Symmetry about the y-axis only",
+              "No symmetry that can ever be identified",
+              "Symmetry about a horizontal line above the graph",
+              "Symmetry about the origin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is every function either even or odd?",
+            "options": [
+              "No, because even and odd functions cannot exist mathematically",
+              "Yes, but only functions with a single term",
+              "Yes, every possible function must be either even or odd",
+              "No, many functions are neither even nor odd"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Resonance and Standing Waves",
+        "summary": "Grade 10 Science strand: resonance occurs when an object or system is driven at its natural frequency, causing a dramatic increase in the amplitude of vibration, a phenomenon closely related to standing waves, which form when two waves of the same frequency travel in opposite directions and interfere to create fixed points of no displacement.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is resonance?",
+            "options": [
+              "A phenomenon unrelated to frequency of any kind",
+              "A permanent reduction of vibration to exactly zero",
+              "A process that only occurs in complete silence",
+              "A dramatic increase in vibration amplitude that occurs when a system is driven at its natural frequency"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a standing wave?",
+            "options": [
+              "A wave found only in solid objects, never in air or water",
+              "A wave pattern formed when two waves of the same frequency travelling in opposite directions interfere",
+              "A wave that exists without any frequency at all",
+              "A wave that travels only in a single fixed direction with no interference"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the fixed points of no displacement in a standing wave called?",
+            "options": [
+              "Crests",
+              "Wavelengths",
+              "Nodes",
+              "Troughs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to a systems vibration amplitude at resonance?",
+            "options": [
+              "It becomes impossible to measure",
+              "It increases dramatically",
+              "It decreases to exactly zero permanently",
+              "It remains completely unchanged in every case"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which everyday example demonstrates resonance?",
+            "options": [
+              "A stationary rock sitting in a field",
+              "A book resting motionless on a table",
+              "A cold object placed in a warm room",
+              "A singer shattering a glass by matching its natural frequency"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Liberation of the Netherlands, 1945",
+        "summary": "Grade 10 History strand: in the final months of the Second World War in early 1945, Canadian troops played a leading role in liberating the Netherlands from German occupation, an effort that relieved widespread famine and forged a lasting bond of friendship between Canada and the Dutch people.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year did the liberation of the Netherlands largely occur?",
+            "options": [
+              "1917",
+              "1949",
+              "1938",
+              "1945"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which countrys troops played a leading role in liberating the Netherlands?",
+            "options": [
+              "Japan",
+              "Canada",
+              "Australia",
+              "Brazil"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What humanitarian crisis in the Netherlands was relieved by the liberation?",
+            "options": [
+              "A major earthquake",
+              "A severe drought lasting a decade",
+              "Widespread famine",
+              "A large-scale volcanic eruption"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What lasting bond did the liberation help forge between Canada and the Netherlands?",
+            "options": [
+              "A lasting friendship between the two countries",
+              "A trade embargo lasting several decades",
+              "A complete severing of all diplomatic contact",
+              "A permanent military rivalry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During what broader period of the war did the liberation of the Netherlands take place?",
+            "options": [
+              "The final months of the war in Europe",
+              "The opening days of the war in 1939",
+              "A period entirely after the wars conclusion",
+              "The interwar period before the war began"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "label": "Day 158 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The News Report and Objective Style",
+        "summary": "Grade 10 English strand: a news report presents factual information in an objective style, typically structured as an inverted pyramid that answers who, what, when, where, and why in the opening lines, avoiding personal opinion and relying on verified sources.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What style is a news report expected to use?",
+            "options": [
+              "A purely fictional and imaginative style",
+              "A style with no factual content at all",
+              "A style filled entirely with the writers personal feelings",
+              "An objective style that avoids personal opinion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What structure is commonly used to organize a news report?",
+            "options": [
+              "A structure based entirely on rhyme and meter",
+              "A structure that saves the most important information for the very last line",
+              "The inverted pyramid, placing the most important information first",
+              "A structure with no clear order of information"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which questions does the opening of a news report typically answer?",
+            "options": [
+              "Who, what, when, where, and why",
+              "Only the writers personal opinion of the event",
+              "Only unrelated historical background with no current event",
+              "Only a list of unrelated statistics with no context"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a news report rely on verified sources?",
+            "options": [
+              "To ensure the reported information is accurate and trustworthy",
+              "Because verified sources are never necessary in journalism",
+              "To ensure the report contains no factual content",
+              "Because a report with no sources is always more reliable"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should a news report generally avoid including?",
+            "options": [
+              "The reporters personal opinion about the event",
+              "The location where the event occurred",
+              "The approximate time the event took place",
+              "A clear statement of who was involved in the event"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: An Introduction to Taylor and Maclaurin Series",
+        "summary": "Grade 10 Math strand: a Taylor series represents a function as an infinite sum of terms calculated from the values of its derivatives at a single point, and a Maclaurin series is the special case of a Taylor series centred at zero.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does a Taylor series represent a function as?",
+            "options": [
+              "A random sequence with no relationship to the original function",
+              "An infinite sum of terms calculated from the functions derivatives at a single point",
+              "A graph with no algebraic expression attached",
+              "A single finite value with no additional terms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Maclaurin series?",
+            "options": [
+              "A series that only applies to whole numbers",
+              "A series unrelated to derivatives of any kind",
+              "A special case of a Taylor series centred at zero",
+              "A series that can only be centred at a nonzero point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What mathematical objects are used to build the terms of a Taylor series?",
+            "options": [
+              "The area under a completely unrelated curve",
+              "Randomly chosen constants with no connection to the function",
+              "Derivatives of the function evaluated at the chosen centre point",
+              "Only the original function value with no derivatives involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a Taylor series be useful for approximating a function?",
+            "options": [
+              "It can approximate complicated functions using a sum of simpler polynomial terms",
+              "It always produces an answer with no relationship to the original function",
+              "It eliminates the need to ever evaluate a function at any point",
+              "It only works for functions with no derivatives"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the approximation of a Taylor series as more terms are included?",
+            "options": [
+              "It stops being defined after exactly two terms",
+              "It always becomes less accurate no matter how many terms are added",
+              "It becomes completely unrelated to the original function",
+              "It generally becomes a more accurate approximation of the original function near the centre point"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Mining and Mineral Resource Management",
+        "summary": "Grade 10 Science strand: mineral resource management involves extracting valuable minerals from the earth through mining while balancing economic benefits against environmental impacts such as habitat disturbance, water contamination, and land reclamation needs after a mine closes.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does mineral resource management primarily involve?",
+            "options": [
+              "Extracting valuable minerals while balancing economic benefit against environmental impact",
+              "Preventing any mineral extraction from occurring anywhere",
+              "Studying minerals only after they have been fully depleted",
+              "Extracting minerals with no consideration of environmental effects at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is a potential environmental impact of mining?",
+            "options": [
+              "Habitat disturbance and water contamination",
+              "The complete elimination of all environmental risk",
+              "A guaranteed improvement in local water quality",
+              "An automatic increase in biodiversity near the mine site"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What term describes restoring land to a usable or natural state after a mine closes?",
+            "options": [
+              "Crystallization",
+              "Precipitation",
+              "Sedimentation",
+              "Land reclamation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is mineral resource management important to modern economies?",
+            "options": [
+              "Mining has no economic value in any country",
+              "No modern technology requires any mineral resources",
+              "Many technologies and industries depend on minerals extracted through mining",
+              "Mineral resources are considered entirely renewable with no limits"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which practice would be considered part of responsible mineral resource management?",
+            "options": [
+              "Extracting minerals with no regard for long-term supply",
+              "Ignoring all environmental regulations during extraction",
+              "Abandoning a mine site with no plan for land reclamation",
+              "Monitoring and reducing water contamination near a mine site"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "VE Day and the End of the War in Europe",
+        "summary": "Grade 10 History strand: VE Day, or Victory in Europe Day, on May 8, 1945, marked the formal end of fighting in Europe after Germanys surrender, prompting widespread celebrations across Canada and recognition of the enormous contributions and sacrifices made by Canadian forces throughout the war.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What does VE Day stand for?",
+            "options": [
+              "Victory Election Day",
+              "Veterans Enlistment Day",
+              "Victory in Egypt Day",
+              "Victory in Europe Day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On what date did VE Day occur?",
+            "options": [
+              "June 6, 1944",
+              "May 8, 1945",
+              "August 19, 1942",
+              "December 1943"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What event did VE Day mark the formal end of?",
+            "options": [
+              "Fighting in Europe following Germanys surrender",
+              "A single regional battle with no broader significance",
+              "The entire Second World War worldwide with no fighting remaining anywhere",
+              "The First World War in Europe"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did Canadians generally respond to the announcement of VE Day?",
+            "options": [
+              "With widespread public celebrations",
+              "With a nationwide period of complete silence and no public reaction",
+              "With a total halt of all public activity for a full year",
+              "With an immediate declaration of a new war"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did VE Day prompt recognition of regarding Canadian forces?",
+            "options": [
+              "Their responsibility for starting the conflict",
+              "Their enormous contributions and sacrifices throughout the war",
+              "Their refusal to participate in any wartime effort",
+              "Their complete absence from the European theatre of war"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "label": "Day 159 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Verse Novel",
+        "summary": "Grade 10 English strand: a verse novel is a novel-length narrative told primarily through poetry rather than prose, combining the storytelling scope of a novel with the condensed, rhythmic, and imagistic qualities of poetic form.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a verse novel?",
+            "options": [
+              "A novel-length narrative told primarily through poetry rather than prose",
+              "A legal document written entirely in verse",
+              "A textbook chapter formatted as a numbered list",
+              "A short poem with no narrative content at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two literary qualities does a verse novel combine?",
+            "options": [
+              "A phone directory and a weather almanac",
+              "A legal contract and a technical manual",
+              "The storytelling scope of a novel and the rhythmic, imagistic qualities of poetry",
+              "The structure of a scientific report and a grocery list"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does a verse novel typically differ from a traditional prose novel in form?",
+            "options": [
+              "It must always rhyme in every single line with no exception",
+              "It cannot contain any dialogue between characters",
+              "It contains no chapters, characters, or narrative progression of any kind",
+              "It is composed primarily of poems or verse rather than continuous prose paragraphs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What effect might the condensed language of a verse novel create for readers?",
+            "options": [
+              "A complete absence of any emotional content",
+              "An excessively long and repetitive narrative style",
+              "A style that eliminates any character development",
+              "A heightened emotional intensity delivered through fewer, carefully chosen words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author choose the verse novel form to tell a story?",
+            "options": [
+              "Because verse novels are required to have no plot whatsoever",
+              "To use the rhythm, imagery, and white space of poetry to shape how a reader experiences the narrative",
+              "Because verse novels cannot address serious or emotional subject matter",
+              "Because prose is no longer permitted in modern literature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Systems of Nonlinear Equations",
+        "summary": "Grade 10 Math strand: a system of nonlinear equations includes at least one equation that is not linear, such as a quadratic or circle equation, and can be solved using substitution or graphing, often producing more than one solution where the curves intersect.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What makes a system of equations nonlinear?",
+            "options": [
+              "At least one equation in the system is not linear, such as a quadratic or circle equation",
+              "The system contains no equations at all",
+              "The system can only ever have exactly one variable",
+              "Every equation in the system must be a straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which method can be used to solve a system of nonlinear equations?",
+            "options": [
+              "Ignoring one of the equations entirely",
+              "Substitution or graphing",
+              "Randomly guessing values with no verification",
+              "Converting every equation into an unrelated word problem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many solutions can a system involving a line and a circle potentially have?",
+            "options": [
+              "Always exactly one solution in every possible case",
+              "Exactly three solutions with no exceptions",
+              "Zero, one, or two solutions, depending on where the curves intersect",
+              "An infinite number of solutions in every possible case"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a solution to a system of nonlinear equations represent graphically?",
+            "options": [
+              "The exact centre of only one of the two curves",
+              "A point where the graphs of the equations intersect",
+              "A point where neither curve is defined",
+              "A point located far outside both graphed curves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might solving a system of nonlinear equations produce more solutions than a similar linear system?",
+            "options": [
+              "Every nonlinear system always has exactly zero solutions",
+              "Nonlinear equations can never intersect with any other equation",
+              "Curved graphs such as parabolas and circles can intersect a line at more than one point",
+              "Curves are not allowed to intersect straight lines under any circumstance"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Pollinators and Colony Collapse Disorder",
+        "summary": "Grade 10 Science strand: pollinators such as bees transfer pollen between flowers, supporting the reproduction of many food crops and wild plants, and colony collapse disorder is a phenomenon in which worker bees abruptly disappear from a hive, threatening pollination services and agricultural productivity.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What role do pollinators such as bees play in ecosystems?",
+            "options": [
+              "They have no connection to the reproduction of plants",
+              "They exclusively consume plants without any pollination occurring",
+              "They remove pollen entirely from an ecosystem with no benefit",
+              "They transfer pollen between flowers, supporting plant reproduction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is colony collapse disorder?",
+            "options": [
+              "A phenomenon in which worker bees abruptly disappear from a hive",
+              "A disease that affects only plants, never insects",
+              "A steady, planned increase in the size of a bee colony",
+              "A natural and harmless yearly migration of bees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is colony collapse disorder a concern for agriculture?",
+            "options": [
+              "It has no effect on any agricultural crop whatsoever",
+              "It only affects crops that require no pollination at all",
+              "It threatens the pollination services that many food crops depend on",
+              "It guarantees an increase in crop yields every year"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is considered a possible contributing factor to pollinator decline?",
+            "options": [
+              "A complete absence of any environmental stress",
+              "Pesticide exposure and habitat loss",
+              "A guaranteed increase in natural predators with no negative effects",
+              "An overabundance of flowering plants with no other factors involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are pollinators considered important beyond agricultural crops?",
+            "options": [
+              "They exclusively pollinate a single species of plant worldwide",
+              "They prevent all plant reproduction from occurring",
+              "They have no role in any ecosystem outside of farmland",
+              "They also support the reproduction of many wild plant species within natural ecosystems"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Canadian Womens Army Corps and Wartime Service",
+        "summary": "Grade 10 History strand: the Canadian Womens Army Corps was formed in 1941 to allow women to serve in official non-combat roles such as clerical work, communications, and vehicle maintenance, freeing more men for combat duty and marking a significant expansion of womens participation in the Canadian war effort.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the Canadian Womens Army Corps formed?",
+            "options": [
+              "1938",
+              "1941",
+              "1917",
+              "1949"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of roles did members of the Canadian Womens Army Corps typically serve in?",
+            "options": [
+              "Roles limited entirely to elected political office",
+              "Front-line combat roles identical to infantry soldiers",
+              "Roles restricted only to unpaid volunteer work with no military structure",
+              "Non-combat roles such as clerical work, communications, and vehicle maintenance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was one stated purpose of forming the Corps?",
+            "options": [
+              "To prevent women from holding any position within the military",
+              "To completely replace the entire Canadian military with women",
+              "To end Canadian participation in the war effort",
+              "To free more men for combat duty by having women fill support roles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader trend did the formation of the Corps reflect?",
+            "options": [
+              "A policy that excluded women from all forms of paid work",
+              "A complete absence of women from Canadian society during the war",
+              "A reduction in womens participation in any wartime activity",
+              "An expansion of womens participation in the Canadian war effort"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Canadian Womens Army Corps significant to the study of the home front and wartime service?",
+            "options": [
+              "It demonstrates that only men were permitted to support the war effort in any capacity",
+              "It proves that the military structure remained completely unchanged throughout the war",
+              "It illustrates how the demands of total war expanded opportunities for women in official military roles",
+              "It shows that women played no role in Canada during the Second World War"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "label": "Day 160 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Grammar, Reading, and Literary Forms (Days 151-159)",
+        "summary": "Grade 10 English strand review: students revisit subordinate clauses and complex sentences, tone shifts in poetry, the character sketch, the picaresque novel, reality television, sentence types, pastoral imagery, the news report, and the verse novel.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a subordinate clause?",
+            "options": [
+              "A group of words with a subject and a verb that cannot stand alone as a complete sentence",
+              "A complete sentence that can stand alone with no other clause",
+              "A single word with no subject or verb",
+              "A punctuation mark used to separate two independent clauses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a tone shift?",
+            "options": [
+              "A change in the font used to print a poem",
+              "A change in the authors legal name",
+              "A change in the attitude conveyed within a poem",
+              "A change in the title of an unrelated poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of hero does a picaresque novel typically follow?",
+            "options": [
+              "A powerful monarch ruling over a vast empire",
+              "A resourceful, low-born hero known as a picaro",
+              "A retired scientist working alone in a laboratory",
+              "A committee of unnamed government officials"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What structure is commonly used to organize a news report?",
+            "options": [
+              "The inverted pyramid, placing the most important information first",
+              "A structure that saves the most important information for the very last line",
+              "A structure with no clear order of information",
+              "A structure based entirely on rhyme and meter"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a verse novel?",
+            "options": [
+              "A short poem with no narrative content at all",
+              "A textbook chapter formatted as a numbered list",
+              "A legal document written entirely in verse",
+              "A novel-length narrative told primarily through poetry rather than prose"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Calculus, Vectors, Probability, and Number Theory (Days 151-159)",
+        "summary": "Grade 10 Math strand review: students revisit the second derivative and concavity, perfect numbers and Mersenne primes, the t-distribution, graph colouring, vector equations of lines and planes, Markov chains, even and odd functions, Taylor and Maclaurin series, and nonlinear systems.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the second derivative of a function measure?",
+            "options": [
+              "The exact value of the function at a single point",
+              "The total area under the graph of the function",
+              "How the rate of change of the function is itself changing",
+              "The number of times the function crosses the x-axis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a perfect number?",
+            "options": [
+              "A number that has no divisors other than itself",
+              "A number that is always negative",
+              "A positive integer that equals the sum of its proper divisors",
+              "Any integer that is divisible by exactly two numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the chromatic number of a graph?",
+            "options": [
+              "The total number of vertices in the graph",
+              "The largest possible number of colours that could ever be used",
+              "The total number of edges in the graph",
+              "The smallest number of colours needed so no two adjacent vertices share a colour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a Markov chain model?",
+            "options": [
+              "A single isolated event with no sequence involved",
+              "A sequence of events where the probability of the next state depends only on the current state",
+              "A sequence where every future event is completely fixed with no randomness",
+              "A sequence where each event depends on every prior event in full detail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Maclaurin series?",
+            "options": [
+              "A series unrelated to derivatives of any kind",
+              "A series that can only be centred at a nonzero point",
+              "A series that only applies to whole numbers",
+              "A special case of a Taylor series centred at zero"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Genetics, Chemistry, Physics, and Earth Science (Days 151-159)",
+        "summary": "Grade 10 Science strand review: students revisit population genetics and Hardy-Weinberg, thermochemistry, diffraction and interference of light, the aurora borealis, sleep and circadian rhythms, corrosion, resonance and standing waves, mineral resource management, and pollinator decline.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does the Hardy-Weinberg principle describe?",
+            "options": [
+              "A process that always causes rapid genetic change in every population",
+              "The condition under which allele frequencies remain stable across generations",
+              "A rule that applies only to nonliving matter",
+              "A method for building a family tree of a single organism"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Mersenne prime most closely linked to in number theory?",
+            "options": [
+              "Perfect numbers, through the Euclid-Euler theorem",
+              "The pH scale",
+              "The immune system",
+              "The rock cycle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is diffraction?",
+            "options": [
+              "The complete absorption of light by a solid object",
+              "The reflection of light directly back toward its source",
+              "The bending of light waves as they pass around an obstacle or through a narrow opening",
+              "The conversion of light into sound energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is resonance?",
+            "options": [
+              "A phenomenon unrelated to frequency of any kind",
+              "A dramatic increase in vibration amplitude that occurs when a system is driven at its natural frequency",
+              "A process that only occurs in complete silence",
+              "A permanent reduction of vibration to exactly zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is colony collapse disorder?",
+            "options": [
+              "A disease that affects only plants, never insects",
+              "A natural and harmless yearly migration of bees",
+              "A steady, planned increase in the size of a bee colony",
+              "A phenomenon in which worker bees abruptly disappear from a hive"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: Canada in the Second World War, 1942-1945 (Days 151-159)",
+        "summary": "Grade 10 History strand review: students revisit the Dieppe Raid, the Battle of the Atlantic, the 1942 conscription plebiscite, the Italian Campaign and Ortona, D-Day and Normandy, the Battle of the Scheldt, the liberation of the Netherlands, VE Day, and the Canadian Womens Army Corps.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the outcome of the Dieppe Raid for the attacking force?",
+            "options": [
+              "An immediate German surrender",
+              "A complete and lasting capture of the port with no losses",
+              "Heavy casualties within a single day",
+              "A peaceful withdrawal with no combat at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the Battle of the Atlantic?",
+            "options": [
+              "A land battle fought entirely within continental Europe",
+              "The longest continuous military campaign of the Second World War, fought largely over merchant shipping",
+              "A diplomatic conference held in a neutral country",
+              "A single one-day naval battle fought near Halifax"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "At which beach did Canadian troops land during the D-Day invasion?",
+            "options": [
+              "Utah Beach",
+              "Omaha Beach",
+              "Sword Beach",
+              "Juno Beach"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What port did clearing the Scheldt Estuary allow the Allies to use?",
+            "options": [
+              "The port of Vancouver",
+              "The port of Antwerp",
+              "The port of Liverpool",
+              "The port of Halifax"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On what date did VE Day occur?",
+            "options": [
+              "August 19, 1942",
+              "June 6, 1944",
+              "December 1943",
+              "May 8, 1945"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
