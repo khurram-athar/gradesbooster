@@ -36490,5 +36490,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 151,
+    "label": "Day 151 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Using Colons Before Lists",
+        "summary": "Grade 3 Language strand: a colon can introduce a list of items after a complete sentence, signalling to the reader that specific examples or details are about to follow.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What can a colon introduce after a complete sentence?",
+            "options": [
+              "A list of items",
+              "A page number",
+              "A single silent letter",
+              "A brand new paragraph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses a colon before a list?",
+            "options": [
+              "Pack these: items a tent a flashlight and a map.",
+              "Pack these items: a tent, a flashlight, and a map.",
+              "Pack these items, a tent, a flashlight, and a map.",
+              "Pack, these items a tent a flashlight and a map."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A colon before a list should usually follow what kind of clause?",
+            "options": [
+              "A question with no verb",
+              "A single lonely word",
+              "An independent clause that could stand alone as a sentence",
+              "A title with no punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a colon before a list?",
+            "options": [
+              "To end the sentence early with no list",
+              "To signal that specific examples or details will follow",
+              "To hide the list from the reader",
+              "To remove all punctuation from a sentence"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is NOT a common use of a colon in a sentence?",
+            "options": [
+              "Ending a question",
+              "Introducing a list",
+              "Introducing an explanation",
+              "Introducing a quotation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number: Composing and Decomposing Numbers in Different Ways",
+        "summary": "Grade 3 Math strand: a number can be composed and decomposed in more than one way, such as showing 47 as 40 plus 7 or as 30 plus 17, which builds flexible thinking about place value.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which is one way to decompose the number 47?",
+            "options": [
+              "4 + 7",
+              "40 + 7",
+              "470",
+              "47 + 47"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to decompose a number?",
+            "options": [
+              "To turn it into a fraction",
+              "To erase the number completely",
+              "To break it apart into smaller parts that add up to the whole",
+              "To multiply it by ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is another way to show 53 besides 50 + 3?",
+            "options": [
+              "40 + 13",
+              "530",
+              "35 + 35",
+              "5 + 3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to decompose numbers in more than one way?",
+            "options": [
+              "It only works for even numbers",
+              "It makes numbers disappear",
+              "It builds flexible thinking about place value and helps with mental math",
+              "It removes the need for addition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Composing a number means ___.",
+            "options": [
+              "Breaking the number into single digits only",
+              "Turning the number into a letter",
+              "Putting parts together to form the whole number",
+              "Deleting the number entirely"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Order of the Planets from the Sun",
+        "summary": "Grade 3 Science strand: the eight planets of our solar system orbit the Sun in a specific order, starting with Mercury, the closest planet, and ending with Neptune, the farthest planet.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which planet is closest to the Sun?",
+            "options": [
+              "Venus",
+              "Earth",
+              "Mars",
+              "Mercury"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which planet is known as the third planet from the Sun?",
+            "options": [
+              "Mars",
+              "Mercury",
+              "Earth",
+              "Venus"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which planet is the farthest from the Sun?",
+            "options": [
+              "Mars",
+              "Neptune",
+              "Jupiter",
+              "Saturn"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many planets orbit the Sun in our solar system?",
+            "options": [
+              "Ten",
+              "Eight",
+              "Five",
+              "Six"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What keeps the planets orbiting the Sun?",
+            "options": [
+              "The pull of the Suns gravity",
+              "Nothing holds them at all",
+              "Strong winds in space",
+              "Ropes connecting the planets"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas National Historic Sites",
+        "summary": "Grade 3 Social Studies strand: a national historic site is a place recognized for its importance to Canadas history, and these sites help Canadians learn about and remember significant people and events.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a national historic site?",
+            "options": [
+              "A place recognized for its importance to Canadas history",
+              "A type of weather station",
+              "A brand new shopping mall",
+              "A type of grocery store"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a place be designated a national historic site?",
+            "options": [
+              "It has no connection to history at all",
+              "It was built within the last year",
+              "It has no visitors ever",
+              "It is important to understanding Canadas history"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can visitors often do at a national historic site?",
+            "options": [
+              "Buy foreign currency only",
+              "Ignore all the exhibits",
+              "Avoid learning anything new",
+              "Learn about significant people and events from the past"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who helps protect and maintain many of Canadas national historic sites?",
+            "options": [
+              "No one looks after them",
+              "Government agencies and heritage organizations",
+              "Only private individuals with no support",
+              "Only tourists from other countries"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it valuable for students to learn about national historic sites?",
+            "options": [
+              "They replace the need for history books",
+              "They help connect students to important parts of Canadas past",
+              "They only exist in one province",
+              "They have no educational value"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "label": "Day 152 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Loanwords — Words English Has Borrowed",
+        "summary": "Grade 3 Language strand: a loanword is a word that English has borrowed from another language, such as balcony from Italian, kindergarten from German, and canoe from an Indigenous language.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a loanword?",
+            "options": [
+              "A word used only in math",
+              "A punctuation mark",
+              "A word that English has borrowed from another language",
+              "A word with no meaning at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The word kindergarten was borrowed from which language?",
+            "options": [
+              "Latin only",
+              "French only",
+              "A made-up language",
+              "German"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does English contain so many loanwords?",
+            "options": [
+              "English has never changed at all",
+              "English only uses invented words",
+              "Loanwords are always mistakes",
+              "English has borrowed words through contact with many cultures and languages"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a loanword in English?",
+            "options": [
+              "Quick",
+              "Canoe",
+              "Jump",
+              "Happy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Learning about loanwords can help readers understand ___.",
+            "options": [
+              "That English has no history",
+              "That every word was invented in English",
+              "That words never have interesting origins",
+              "How languages influence and borrow from each other"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Prisms and Pyramids — Comparing 3D Shapes",
+        "summary": "Grade 3 Math strand: a prism has two matching parallel bases connected by rectangular faces, while a pyramid has one base and triangular faces that meet at a single point called the apex.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "How many bases does a prism have?",
+            "options": [
+              "No bases at all",
+              "Two matching parallel bases",
+              "Three bases",
+              "One base only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many bases does a pyramid have?",
+            "options": [
+              "No bases at all",
+              "Three bases",
+              "One base",
+              "Two bases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What shape are the side faces of a prism usually?",
+            "options": [
+              "Circles",
+              "Ovals",
+              "Stars",
+              "Rectangles"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do the triangular faces of a pyramid meet at?",
+            "options": [
+              "A flat edge only",
+              "Nothing, they never meet",
+              "A single point called the apex",
+              "Another base"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a prism?",
+            "options": [
+              "A sphere",
+              "A rectangular box",
+              "A cone",
+              "A pyramid"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Octopuses — Intelligent Ocean Creatures",
+        "summary": "Grade 3 Science strand: an octopus is a soft-bodied ocean animal with eight arms, no internal skeleton, and a highly developed brain that allows it to solve problems and change colour to hide from predators.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "How many arms does an octopus have?",
+            "options": [
+              "Four",
+              "Six",
+              "Eight",
+              "Ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is unusual about an octopuses body?",
+            "options": [
+              "It has fur covering its body",
+              "It has a hard shell like a turtle",
+              "It has wings for flying",
+              "It has no internal skeleton"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an octopus change colour?",
+            "options": [
+              "To stop breathing",
+              "To attract airplanes",
+              "To hide from predators by blending into its surroundings",
+              "To become heavier"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is notable about an octopuses brain?",
+            "options": [
+              "It cannot process any information",
+              "It is highly developed, allowing the octopus to solve problems",
+              "It does not exist at all",
+              "It only controls one arm"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do octopuses live?",
+            "options": [
+              "In deserts",
+              "In caves with no water",
+              "In treetops",
+              "In the ocean"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: How Canadas Immigration Points System Works",
+        "summary": "Grade 3 Social Studies strand: Canadas immigration points system evaluates factors such as education, work experience, and language skills to help decide who may be able to immigrate to Canada.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What does Canadas immigration points system evaluate?",
+            "options": [
+              "Only a persons favourite colour",
+              "Factors such as education, work experience, and language skills",
+              "Only a persons birthday",
+              "Only a persons height"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country use a points system for immigration?",
+            "options": [
+              "To remove all rules from immigration",
+              "To help make fair and consistent decisions about applicants",
+              "To choose applicants randomly with no criteria",
+              "To avoid ever welcoming immigrants"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a factor considered in a points system?",
+            "options": [
+              "Favourite type of weather",
+              "Shoe size",
+              "Language ability, such as English or French skills",
+              "Favourite sports team"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is language ability often an important factor for newcomers?",
+            "options": [
+              "It can help newcomers communicate and find work in their new community",
+              "It only matters for tourists",
+              "It is never considered important",
+              "It has no effect on daily life"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about the immigration points system helps students understand ___.",
+            "options": [
+              "How Canada decides who may immigrate to the country",
+              "That Canada does not allow immigration",
+              "That points systems are used only for sports",
+              "That immigration decisions are made without any process"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "label": "Day 153 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Hyperbole",
+        "summary": "Grade 3 Language strand: hyperbole is an extreme exaggeration used for effect, not meant to be taken literally, such as saying I am so hungry I could eat a horse.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "A statement that is always literally true",
+              "An extreme exaggeration used for effect",
+              "A type of punctuation mark",
+              "A silent letter in a word"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of hyperbole?",
+            "options": [
+              "I have told you a million times to clean your room.",
+              "I asked you to clean your room.",
+              "Please clean your room today.",
+              "I have told you three times to clean your room."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is hyperbole meant to be taken literally?",
+            "options": [
+              "No, it is meant to be understood as exaggeration",
+              "It has no meaning at all",
+              "It is always a factual measurement",
+              "Yes, every word is exactly true"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use hyperbole?",
+            "options": [
+              "To confuse the reader with facts",
+              "To make writing perfectly literal",
+              "To create a strong or humorous effect",
+              "To remove all feeling from writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which phrase uses hyperbole?",
+            "options": [
+              "This bag is on the table.",
+              "This bag weighs a ton.",
+              "This bag is blue.",
+              "This bag weighs five kilograms."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Reading Simple Circle Graphs",
+        "summary": "Grade 3 Math strand: a circle graph, also called a pie chart, shows how a whole set of data is divided into parts, with each slice representing a portion of the total.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does a circle graph show?",
+            "options": [
+              "How a whole set of data is divided into parts",
+              "Only a single number with no context",
+              "A list of names in alphabetical order",
+              "A single line moving up and down"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is another name for a circle graph?",
+            "options": [
+              "A pie chart",
+              "A tally chart",
+              "A bar graph",
+              "A line plot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In a circle graph, a larger slice represents ___.",
+            "options": [
+              "A smaller portion of the total data",
+              "No data at all",
+              "A larger portion of the total data",
+              "The exact same amount every time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a circle graph shows favourite fruits and the apple slice is the biggest, what does that mean?",
+            "options": [
+              "Apple was chosen by the most people",
+              "Everyone chose a different fruit",
+              "No one chose apple",
+              "Apple was chosen by the fewest people"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might data be shown in a circle graph instead of a list of numbers?",
+            "options": [
+              "To make it easy to compare parts of a whole visually",
+              "To make the data impossible to read",
+              "To remove all numbers from the data",
+              "To hide the data completely"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Carnivorous Plants — Unusual Ways of Getting Nutrients",
+        "summary": "Grade 3 Science strand: carnivorous plants, such as the Venus flytrap and pitcher plant, capture and digest insects to get nutrients that are often missing from the poor soil where they grow.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do carnivorous plants capture and digest?",
+            "options": [
+              "Only sunlight",
+              "Only rainwater",
+              "Insects",
+              "Only rocks"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a carnivorous plant?",
+            "options": [
+              "A rose bush",
+              "An apple tree",
+              "The Venus flytrap",
+              "A sunflower"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do carnivorous plants often capture insects for nutrients?",
+            "options": [
+              "They often grow in poor soil that lacks certain nutrients",
+              "They cannot grow roots at all",
+              "They never need any nutrients",
+              "They dislike sunlight completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a Venus flytrap capture its prey?",
+            "options": [
+              "Its leaves snap shut when an insect touches trigger hairs",
+              "It waits underground for insects",
+              "It chases insects across the ground",
+              "It sprays water at insects"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do carnivorous plants have in common with other plants?",
+            "options": [
+              "They cannot survive in soil",
+              "They have no leaves or roots",
+              "They never use sunlight at all",
+              "They still use sunlight to make some of their own food"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canada Post and How Mail Is Delivered",
+        "summary": "Grade 3 Social Studies strand: Canada Post is the national postal service that collects, sorts, and delivers letters and packages to homes and businesses across the country.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is Canada Post?",
+            "options": [
+              "A type of grocery store",
+              "A type of national park",
+              "The national postal service that delivers letters and packages",
+              "A private airline"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are some of the main jobs of a postal service?",
+            "options": [
+              "Selling groceries",
+              "Teaching students",
+              "Collecting, sorting, and delivering mail",
+              "Repairing roads"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might someone use the mail to send a letter or package?",
+            "options": [
+              "To avoid all communication",
+              "Because mail is never delivered",
+              "Because mail cannot travel far",
+              "To communicate or send items to people in other places"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a postal worker do to make sure mail reaches the right address?",
+            "options": [
+              "Ignore the address on each item",
+              "Sort mail carefully by postal code and address",
+              "Throw mail away instead of delivering it",
+              "Deliver mail to random locations"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a reliable postal service important to a country?",
+            "options": [
+              "It helps people and businesses stay connected across long distances",
+              "It has no importance to communities",
+              "It replaces the need for phones and computers",
+              "It only matters in one city"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "label": "Day 154 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Fable with a Moral",
+        "summary": "Grade 3 Language strand: a fable is a short story, often featuring animal characters, that ends with a moral, or lesson, meant to teach the reader something about life.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a fable?",
+            "options": [
+              "A long chapter book with no lesson",
+              "A list of facts about animals",
+              "A poem with no characters",
+              "A short story, often with animal characters, that teaches a lesson"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a moral in a fable?",
+            "options": [
+              "The title of the story",
+              "The name of the author",
+              "The lesson the story is meant to teach",
+              "The setting of the story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do fables often use animal characters?",
+            "options": [
+              "Fables never include characters",
+              "Animals cannot be characters in stories",
+              "Animal characters make the story impossible to understand",
+              "Animal characters can represent human behaviours in a simple, memorable way"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a moral from a fable?",
+            "options": [
+              "Slow and steady wins the race.",
+              "The story took place in a forest.",
+              "The weather was sunny today.",
+              "The characters name was Sam."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose to write a fable instead of another kind of story?",
+            "options": [
+              "To avoid teaching anything at all",
+              "To remove any meaning from the story",
+              "To teach an important lesson in a short, engaging way",
+              "To make the story as long as possible"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Fractions That Equal One Whole",
+        "summary": "Grade 3 Math strand: a fraction is equal to one whole when its numerator and denominator are the same number, such as 3/3 or 5/5, since all the equal parts of the whole have been counted.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Which fraction is equal to one whole?",
+            "options": [
+              "1/4",
+              "2/4",
+              "3/4",
+              "4/4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A fraction equals one whole when ___.",
+            "options": [
+              "The numerator is zero",
+              "The numerator and denominator are the same number",
+              "The numerator is greater than the denominator",
+              "The denominator is zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which fraction is equal to one whole?",
+            "options": [
+              "6/6",
+              "1/6",
+              "5/6",
+              "4/6"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a pizza is cut into 8 equal slices and all 8 are eaten, what fraction of the pizza was eaten?",
+            "options": [
+              "1/8",
+              "7/8",
+              "4/8",
+              "8/8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does 3/3 represent one whole?",
+            "options": [
+              "No parts of the whole have been counted",
+              "All three equal parts of the whole have been counted",
+              "It represents more than one whole",
+              "Only one part of the whole has been counted"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: How Mountains Are Formed",
+        "summary": "Grade 3 Science strand: mountains often form when huge sections of Earths crust, called plates, push against each other over millions of years, slowly forcing the land upward.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are the huge sections of Earths crust called?",
+            "options": [
+              "Oceans",
+              "Plates",
+              "Clouds",
+              "Rivers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do many mountains form?",
+            "options": [
+              "Plates in Earths crust push against each other, forcing land upward",
+              "They form only from melting ice",
+              "They are built entirely by animals",
+              "They appear suddenly overnight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About how long can it take for a mountain range to form?",
+            "options": [
+              "A few hours",
+              "One week",
+              "A single day",
+              "Millions of years"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might happen at the edge where two plates push together?",
+            "options": [
+              "The plates instantly disappear",
+              "The land always sinks into the ocean",
+              "The land can slowly be forced upward, forming mountains",
+              "Nothing ever happens there"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study how mountains form?",
+            "options": [
+              "To better understand the forces that shape Earths surface",
+              "Because mountains have no scientific value",
+              "Because mountains never change",
+              "Because it explains ocean tides only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Trade Agreements and Why Countries Sign Them",
+        "summary": "Grade 3 Social Studies strand: a trade agreement is a deal between countries that sets rules for buying and selling goods and services, often making trade easier and less costly between the countries involved.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a trade agreement?",
+            "options": [
+              "A deal between countries that sets rules for buying and selling goods",
+              "A type of weather pattern",
+              "A type of national holiday",
+              "A single countrys law about sports"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might countries sign a trade agreement?",
+            "options": [
+              "To make trade easier and less costly between them",
+              "To stop all trade completely",
+              "To remove all rules about trade",
+              "To avoid working with any other country"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a trade agreement help reduce between countries?",
+            "options": [
+              "Costs or barriers involved in buying and selling goods",
+              "The number of people living in a country",
+              "The length of a countrys coastline",
+              "The size of a countrys mountains"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of something a trade agreement might cover?",
+            "options": [
+              "Rules about which goods can be bought and sold between countries",
+              "Rules about a single persons diet",
+              "Rules about a school playground",
+              "Rules about a familys home decorations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might trade agreements matter to people in Canada?",
+            "options": [
+              "They have no effect on daily life at all",
+              "They only affect people in one city",
+              "They only apply to a single store",
+              "They can affect the price and availability of goods people buy"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "label": "Day 155 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Paraphrasing What a Speaker Said",
+        "summary": "Grade 3 Language strand: paraphrasing means restating what a speaker said in your own words, showing that you listened carefully and understood the main idea.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does it mean to paraphrase what a speaker said?",
+            "options": [
+              "To interrupt the speaker",
+              "To restate it in your own words",
+              "To repeat it word for word",
+              "To ignore what the speaker said"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might paraphrasing show that you were listening?",
+            "options": [
+              "It has nothing to do with listening",
+              "It proves you memorized every single word",
+              "It shows you understood and can express the main idea yourself",
+              "It shows you were not paying attention"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of paraphrasing?",
+            "options": [
+              "Changing the topic entirely",
+              "Restating a friends idea using different words that mean the same thing",
+              "Copying a friends exact words with no changes",
+              "Ignoring a friends idea completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When might paraphrasing be a useful skill during a discussion?",
+            "options": [
+              "When trying to confuse the speaker",
+              "When checking that you understood another persons point correctly",
+              "When trying to avoid listening at all",
+              "When ending a conversation immediately"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Paraphrasing is different from quoting because paraphrasing ___.",
+            "options": [
+              "Uses the exact same words as the speaker",
+              "Removes the meaning of the original statement",
+              "Requires no listening at all",
+              "Uses your own words instead of the speakers exact words"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication: Using an Array Model for 2-Digit by 1-Digit Multiplication",
+        "summary": "Grade 3 Math strand: an array model breaks a 2-digit by 1-digit multiplication problem into smaller, easier parts based on place value, such as splitting 23 x 4 into 20 x 4 and 3 x 4, then adding the results.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "When using an array model for 23 x 4, how might the problem be split by place value?",
+            "options": [
+              "Into 23 x 40",
+              "Into 23 x 2 and 23 x 3",
+              "Into 2 x 4 and 3 x 4 only",
+              "Into 20 x 4 and 3 x 4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 20 x 4?",
+            "options": [
+              "60",
+              "80",
+              "84",
+              "24"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the array model, what is 23 x 4? (20 x 4 = 80, 3 x 4 = 12)",
+            "options": [
+              "82",
+              "88",
+              "92",
+              "96"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an array model help with multiplying larger numbers?",
+            "options": [
+              "It only works for numbers under five",
+              "It removes the need for any calculation",
+              "It makes multiplication impossible to understand",
+              "It breaks a hard problem into smaller, easier parts to add together"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An array model is based on breaking a number apart by ___.",
+            "options": [
+              "Alphabetical order",
+              "Random guessing",
+              "Colour",
+              "Place value"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Rainbows — How Light and Water Create Them",
+        "summary": "Grade 3 Science strand: a rainbow forms when sunlight passes through tiny drops of water in the air, and the water bends and separates the light into the colours of the visible spectrum.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What two things are needed to form a rainbow?",
+            "options": [
+              "Only darkness and snow",
+              "Only clouds and wind",
+              "Sunlight and tiny drops of water in the air",
+              "Only rocks and soil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to sunlight as it passes through a raindrop?",
+            "options": [
+              "It turns into a solid",
+              "It stops moving entirely",
+              "It bends and separates into different colours",
+              "It disappears completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which colour is often seen on the outer edge of a rainbow?",
+            "options": [
+              "Purple",
+              "Red",
+              "Green",
+              "Blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a rainbow appear after a rain shower on a sunny day?",
+            "options": [
+              "Rain always blocks sunlight completely",
+              "Water droplets remove all colour from light",
+              "Sunlight can pass through the remaining water droplets in the air",
+              "Rainbows only appear at night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A rainbow shows the colours of the ___.",
+            "options": [
+              "Underground rock layers",
+              "Ocean floor",
+              "Visible spectrum of light",
+              "Night sky only"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Canadian Coast Guard — Safety on the Water",
+        "summary": "Grade 3 Social Studies strand: the Canadian Coast Guard helps keep people safe on Canadas oceans, lakes, and rivers, responding to emergencies and supporting search and rescue operations.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a main job of the Canadian Coast Guard?",
+            "options": [
+              "Helping keep people safe on the water",
+              "Delivering mail",
+              "Selling groceries",
+              "Building schools"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a Coast Guard responsibility?",
+            "options": [
+              "Teaching math classes",
+              "Responding to emergencies on the water",
+              "Repairing city streets",
+              "Running a restaurant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of operations does the Coast Guard support?",
+            "options": [
+              "Only fashion shows",
+              "Only concerts",
+              "Only farming operations",
+              "Search and rescue operations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where might the Canadian Coast Guard operate?",
+            "options": [
+              "Only on mountain trails",
+              "Only inside office buildings",
+              "Canadas oceans, lakes, and rivers",
+              "Only in deserts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a Coast Guard important to a country with a lot of coastline and waterways?",
+            "options": [
+              "It has no real purpose",
+              "It only matters to one small town",
+              "It helps protect people and respond to emergencies on the water",
+              "It replaces the need for any other safety service"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "label": "Day 156 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Correcting Double Negatives",
+        "summary": "Grade 3 Language strand: a double negative happens when two negative words are used in the same sentence, which can confuse the meaning, so writers use only one negative word to express a negative idea.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a double negative?",
+            "options": [
+              "Using two positive words in a sentence",
+              "Using two negative words in the same sentence",
+              "A sentence with no verb",
+              "A sentence with two subjects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence contains a double negative?",
+            "options": [
+              "I have some pencils.",
+              "I do not have any pencils.",
+              "I do not have no pencils.",
+              "I have no pencils."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can a double negative be corrected?",
+            "options": [
+              "By using only one negative word in the sentence",
+              "By adding a third negative word",
+              "By making the sentence a question",
+              "By removing all punctuation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly avoids a double negative?",
+            "options": [
+              "I do not want anything.",
+              "I want not nothing.",
+              "I do not want nothing.",
+              "I never want nothing at all."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might double negatives confuse a reader?",
+            "options": [
+              "Two negatives can unintentionally cancel each other out or confuse the meaning",
+              "They have no effect on meaning at all",
+              "They always make a sentence clearer",
+              "They are required in every sentence"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Division: Interpreting Remainders in Word Problems",
+        "summary": "Grade 3 Math strand: when solving a division word problem with a remainder, students must decide what to do with the remainder based on the situation, such as rounding up, dropping it, or reporting it separately.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If 22 students are put into groups of 4, and 2 students are left over, what should you do with the leftover students in a real situation?",
+            "options": [
+              "Erase them from the problem",
+              "Ignore them completely",
+              "Send them home",
+              "Consider adding them to an existing group or forming a smaller group"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you need 25 cookies and each box holds 6, how many boxes must you buy to have enough?",
+            "options": [
+              "6 boxes",
+              "5 boxes",
+              "4 boxes",
+              "3 boxes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the cookie box example, why must you round the quotient up instead of down?",
+            "options": [
+              "Because you should always round down",
+              "Because you need enough cookies, so a partial box is not enough",
+              "Because rounding up is always required in every division problem",
+              "Because remainders never matter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 17 apples are shared equally among 5 baskets, how many apples are left over as a remainder?",
+            "options": [
+              "2",
+              "5",
+              "3",
+              "1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it important to think about the situation when interpreting a remainder?",
+            "options": [
+              "Different situations may call for rounding up, rounding down, or reporting the remainder separately",
+              "Remainders always mean the exact same thing in every situation",
+              "Every division problem needs the remainder rounded up",
+              "Remainders should always be ignored"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Teeth and Their Different Jobs",
+        "summary": "Grade 3 Science strand: humans have different types of teeth, including incisors for cutting, canines for tearing, and molars for grinding, each shaped to help break down food.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What job do incisors do?",
+            "options": [
+              "Digesting food",
+              "Grinding food only",
+              "Cutting food",
+              "Tearing food only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What job do molars do?",
+            "options": [
+              "Grinding food",
+              "Tearing food only",
+              "Cutting food only",
+              "Sensing taste"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which teeth are used mainly for tearing food?",
+            "options": [
+              "Molars only",
+              "Canines",
+              "Wisdom teeth only",
+              "Incisors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do humans have different types of teeth?",
+            "options": [
+              "Teeth have no real purpose",
+              "Each type is shaped to help break down food in a different way",
+              "Different teeth only affect how a smile looks",
+              "All teeth do the exact same job"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to take care of your teeth?",
+            "options": [
+              "Healthy teeth help you chew food properly and stay healthy",
+              "Teeth never need any care",
+              "Caring for teeth has no benefit",
+              "Teeth have no connection to eating"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas National Sports — Hockey and Lacrosse",
+        "summary": "Grade 3 Social Studies strand: Canada has two official national sports, ice hockey as the official winter sport and lacrosse as the official summer sport, both recognized in Canadian law.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Which sport is Canadas official winter national sport?",
+            "options": [
+              "Tennis",
+              "Soccer",
+              "Ice hockey",
+              "Basketball"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sport is Canadas official summer national sport?",
+            "options": [
+              "Baseball",
+              "Swimming",
+              "Lacrosse",
+              "Golf"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many official national sports does Canada have?",
+            "options": [
+              "Five",
+              "Two",
+              "Zero",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does lacrosse have deep roots in Canadian history?",
+            "options": [
+              "It has roots in games played by Indigenous peoples long before Confederation",
+              "It was invented in the last ten years",
+              "It began as a European royal sport",
+              "It has no connection to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a country officially recognize national sports?",
+            "options": [
+              "To discourage people from playing sports",
+              "To celebrate sports that are an important part of its culture and history",
+              "To replace all other sports completely",
+              "Because national sports have no cultural meaning"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "label": "Day 157 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Palindromes — Words That Read the Same Backwards",
+        "summary": "Grade 3 Language strand: a palindrome is a word or phrase that reads the same forwards and backwards, such as mom, pop, and level.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a palindrome?",
+            "options": [
+              "A type of punctuation mark",
+              "A word with no vowels",
+              "A word that rhymes with another word",
+              "A word or phrase that reads the same forwards and backwards"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words is a palindrome?",
+            "options": [
+              "Jumping",
+              "Happy",
+              "Yellow",
+              "Level"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words is a palindrome?",
+            "options": [
+              "Dad only backwards spells something else",
+              "Family",
+              "Sister",
+              "Mom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can you check if a word is a palindrome?",
+            "options": [
+              "Count the number of vowels only",
+              "Check if the word has more than five letters",
+              "Read the letters backwards and see if they match the original word",
+              "Check if the word rhymes with another word"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might palindromes be fun to explore in word study?",
+            "options": [
+              "They are never real words",
+              "They reveal interesting patterns in how letters can be arranged",
+              "They always contain silent letters",
+              "They have no patterns at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Comparing Volume and Capacity",
+        "summary": "Grade 3 Math strand: volume is the amount of space an object takes up, while capacity is the amount a container can hold, and both are commonly measured using units such as litres and millilitres.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does volume measure?",
+            "options": [
+              "The amount of space an object takes up",
+              "The temperature of an object",
+              "The colour of an object",
+              "The weight of an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does capacity measure?",
+            "options": [
+              "The speed of an object",
+              "The mass of an object",
+              "The amount a container can hold",
+              "The length of an object"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which unit is commonly used to measure capacity?",
+            "options": [
+              "Metres",
+              "Degrees",
+              "Grams",
+              "Litres"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a jug can hold 2 litres of water, what is being described?",
+            "options": [
+              "Its mass",
+              "Its temperature",
+              "Its length",
+              "Its capacity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are volume and capacity related?",
+            "options": [
+              "Volume only applies to liquids",
+              "Capacity only applies to solids",
+              "They are completely unrelated ideas",
+              "Capacity describes how much volume a container can hold"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Beetles — The Largest Group of Insects",
+        "summary": "Grade 3 Science strand: beetles make up the largest group of insects on Earth, and most beetles have a hard pair of outer wings that protect a second pair of wings used for flying.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What makes beetles unique among insect groups?",
+            "options": [
+              "They only live underwater",
+              "They are the smallest group of insects",
+              "They have no wings at all",
+              "They make up the largest group of insects on Earth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What protects a beetles flying wings?",
+            "options": [
+              "Nothing protects them",
+              "A hard pair of outer wings",
+              "A shell made of ice",
+              "A layer of fur"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many pairs of wings do most beetles have?",
+            "options": [
+              "One pair",
+              "No wings at all",
+              "Two pairs",
+              "Three pairs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a beetle?",
+            "options": [
+              "A butterfly",
+              "A ladybird beetle",
+              "A honeybee",
+              "A dragonfly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists find beetles interesting to study?",
+            "options": [
+              "Beetles have no scientific importance",
+              "Beetles do not actually exist",
+              "Beetles are identical to birds",
+              "There are more known beetle species than almost any other group of animals"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Ensuring Access to Clean Drinking Water",
+        "summary": "Grade 3 Social Studies strand: communities work to ensure everyone has access to clean, safe drinking water through infrastructure such as water treatment systems, pipes, and wells, though some communities still face challenges.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "Why is access to clean drinking water important?",
+            "options": [
+              "Clean water has no importance to communities",
+              "Water quality never affects health",
+              "Only some people need water to survive",
+              "Clean water is essential for health and daily life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of infrastructure that helps provide clean water?",
+            "options": [
+              "Sports stadiums",
+              "Water treatment systems and pipes",
+              "Movie theatres",
+              "Shopping malls"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What challenge do some communities in Canada still face regarding water?",
+            "options": [
+              "Every community has always had perfect water access",
+              "Water access has never been a challenge anywhere",
+              "Some communities do not yet have consistent access to clean drinking water",
+              "Only large cities need clean water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might governments invest in improving water infrastructure?",
+            "options": [
+              "To help ensure all communities have access to safe, clean water",
+              "Because water infrastructure has no benefit",
+              "To remove water access from communities",
+              "To make water more difficult to access"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about access to clean water helps students understand ___.",
+            "options": [
+              "That reliable infrastructure is important for community wellbeing",
+              "That water access is guaranteed everywhere with no effort",
+              "That only wealthy countries need clean water",
+              "That clean water has no connection to health"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "label": "Day 158 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Distinguishing Formal and Informal Language",
+        "summary": "Grade 3 Language strand: formal language is more polished and structured, often used in school work or professional writing, while informal language is casual and relaxed, often used with friends and family.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is formal language often used for?",
+            "options": [
+              "Texting family members only",
+              "Never used in any situation",
+              "Talking casually with close friends",
+              "School work or professional writing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is informal language often used for?",
+            "options": [
+              "A professional email to a stranger",
+              "Official government documents",
+              "Casual conversations with friends and family",
+              "A formal research report"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses more formal language?",
+            "options": [
+              "I would like to request additional information.",
+              "Hey, can you tell me more?",
+              "Whats up, tell me more!",
+              "Gimme more info please."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose formal language for a school report?",
+            "options": [
+              "To sound clear, polished, and appropriate for the audience",
+              "To confuse the reader on purpose",
+              "Because formal language has no purpose",
+              "To avoid being understood at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Recognizing the difference between formal and informal language helps writers ___.",
+            "options": [
+              "Choose language appropriate for their audience and purpose",
+              "Avoid writing to different audiences",
+              "Ignore who will be reading their writing",
+              "Use the exact same style in every situation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterning: Patterns with Two Attributes — Shape and Colour",
+        "summary": "Grade 3 Math strand: a pattern can be based on more than one attribute at the same time, such as shape and colour changing together in a repeating sequence.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean for a pattern to have two attributes?",
+            "options": [
+              "The pattern uses only numbers",
+              "Two features, such as shape and colour, change together in the pattern",
+              "The pattern has no repeating part",
+              "Only one feature ever changes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In the pattern red circle, blue square, red circle, blue square, which two attributes are changing?",
+            "options": [
+              "Neither colour nor shape",
+              "Only shape",
+              "Colour and shape",
+              "Only colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What comes next in this pattern: red circle, blue square, red circle, blue square, ___?",
+            "options": [
+              "Yellow star",
+              "Blue square",
+              "Red circle",
+              "Green triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a pattern with two attributes be more challenging than a pattern with one?",
+            "options": [
+              "You must track more than one changing feature at the same time",
+              "It only uses a single colour",
+              "It never repeats at all",
+              "It has no attributes to track"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Identifying the core of a two-attribute pattern means finding ___.",
+            "options": [
+              "The largest shape in the pattern",
+              "Only the first shape in the pattern",
+              "A part of the pattern that never repeats",
+              "The smallest repeating part that includes both attributes"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Life Cycle of a Sea Turtle",
+        "summary": "Grade 3 Science strand: a sea turtle begins life as an egg buried in sand on a beach, hatches and crawls to the ocean, and grows over many years into an adult that eventually returns to lay its own eggs.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where do sea turtle eggs begin their life cycle?",
+            "options": [
+              "Buried in sand on a beach",
+              "On top of a mountain",
+              "Inside a floating iceberg",
+              "Deep underwater in a cave"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do baby sea turtles do after hatching?",
+            "options": [
+              "Crawl from the sand to the ocean",
+              "Fly to a new location",
+              "Stay buried in the sand forever",
+              "Climb a tree"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About how does a sea turtles life cycle end up completing?",
+            "options": [
+              "A sea turtle never lays eggs",
+              "A sea turtle stays as an egg forever",
+              "A sea turtle never grows into an adult",
+              "An adult sea turtle eventually returns to a beach to lay its own eggs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the journey from the sand to the ocean risky for baby sea turtles?",
+            "options": [
+              "Baby sea turtles cannot move at all",
+              "The journey is always completely safe",
+              "Predators and other dangers can threaten the hatchlings along the way",
+              "The ocean is not connected to the beach"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study sea turtle life cycles?",
+            "options": [
+              "Because sea turtles do not lay eggs",
+              "Because sea turtles have no scientific value",
+              "Because sea turtles never face any threats",
+              "To help protect sea turtles and understand their needs"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Self-Government and Territorial Governments in the North",
+        "summary": "Grade 3 Social Studies strand: Canadas three territories, Yukon, the Northwest Territories, and Nunavut, each have their own territorial governments that make decisions about many local matters, with Nunavut created in part to support Inuit self-government.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "How many territories does Canada have?",
+            "options": [
+              "Ten",
+              "Five",
+              "One",
+              "Three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can a territorial government make decisions about?",
+            "options": [
+              "Only decisions about other provinces",
+              "Many local matters affecting people in the territory",
+              "Only decisions made in another country",
+              "Nothing at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which territory was created in part to support Inuit self-government?",
+            "options": [
+              "Nunavut",
+              "Ontario",
+              "Yukon",
+              "The Northwest Territories"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might self-government be important to a community?",
+            "options": [
+              "It allows a community to make decisions that reflect its own needs and culture",
+              "It removes all decision-making from a community",
+              "It only benefits people outside the community",
+              "It has no connection to a communitys needs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Learning about territorial governments helps students understand ___.",
+            "options": [
+              "That only provinces can make local decisions",
+              "How different regions of Canada are governed",
+              "That territories have no government at all",
+              "That Canada has only one type of government everywhere"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "label": "Day 159 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Acrostic Poem",
+        "summary": "Grade 3 Language strand: an acrostic poem uses the letters of a word, spelled out vertically, as the first letter of each line, with each line often describing or relating to that word.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does an acrostic poem use as the first letter of each line?",
+            "options": [
+              "The letters of a chosen word, spelled out vertically",
+              "Only the letter A",
+              "No letters at all",
+              "A random letter each time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do the lines of an acrostic poem often describe?",
+            "options": [
+              "Nothing at all",
+              "Only numbers",
+              "Something related to the chosen word",
+              "A completely unrelated topic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the word SUN is used for an acrostic poem, how many lines would the poem likely have?",
+            "options": [
+              "Ten",
+              "Zero",
+              "One",
+              "Three"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose to write an acrostic poem?",
+            "options": [
+              "To avoid using any letters",
+              "To write without any structure at all",
+              "To remove all meaning from a poem",
+              "To creatively explore ideas connected to a specific word"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "An acrostic poem is a fun way to practise ___.",
+            "options": [
+              "Long division",
+              "Word choice and creative writing",
+              "Scientific measurement",
+              "Map reading"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Comparing the Cost of Multiple Items to Find the Best Deal",
+        "summary": "Grade 3 Math strand: students compare the total cost and quantity of similar items to determine which option offers the best value, such as comparing the price per item in different sized packages.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If a pack of 4 pencils costs 8 dollars, what is the cost per pencil?",
+            "options": [
+              "2 dollars",
+              "8 dollars",
+              "1 dollar",
+              "4 dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If pack A has 4 pencils for 8 dollars and pack B has 5 pencils for 15 dollars, which pack costs less per pencil?",
+            "options": [
+              "Pack B",
+              "Pack A",
+              "They cost the same per pencil",
+              "Cannot be determined"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to compare the cost per item when shopping?",
+            "options": [
+              "It always makes items more expensive",
+              "It only works for buying one item at a time",
+              "It helps you find the better value between two options",
+              "It has no effect on spending decisions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a large box of 10 markers costs 20 dollars, what is the cost per marker?",
+            "options": [
+              "20 dollars",
+              "2 dollars",
+              "5 dollars",
+              "10 dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to find the best deal?",
+            "options": [
+              "To ignore the price of every item",
+              "To always choose the most expensive item",
+              "To find the option that offers the most value for the price paid",
+              "To buy the largest quantity regardless of cost"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Why Sleep Is Important for a Healthy Body",
+        "summary": "Grade 3 Science strand: sleep gives the body time to rest, repair itself, and support growth, and getting enough sleep helps the brain and body function well during the day.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does sleep give the body time to do?",
+            "options": [
+              "Digest food only",
+              "Nothing important at all",
+              "Stop growing completely",
+              "Rest, repair itself, and support growth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might not getting enough sleep affect how someone feels during the day?",
+            "options": [
+              "The brain and body need enough rest to function well",
+              "Sleep only affects eyesight",
+              "Sleep has no effect on how the body feels",
+              "Sleep only matters for adults"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is a healthy habit that can support good sleep?",
+            "options": [
+              "Staying awake as long as possible every night",
+              "Avoiding sleep completely",
+              "Having a regular bedtime routine",
+              "Sleeping only once a month"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is sleep especially important for growing children?",
+            "options": [
+              "Children do not need any sleep",
+              "Sleep supports healthy growth and development",
+              "Sleep only matters for the heart",
+              "Sleep has no connection to growth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might happen if a person consistently does not get enough sleep?",
+            "options": [
+              "Nothing at all would change",
+              "Their body would need no more rest ever",
+              "They will instantly become taller",
+              "They may feel tired and find it harder to focus"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Settlement Services That Help Newcomers to Canada",
+        "summary": "Grade 3 Social Studies strand: settlement services help newcomers adjust to life in Canada by offering support such as language classes, help finding housing, and information about the community.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is one purpose of settlement services?",
+            "options": [
+              "To remove newcomers from the community",
+              "To help newcomers adjust to life in Canada",
+              "To prevent newcomers from settling anywhere",
+              "To ignore the needs of newcomers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a settlement service?",
+            "options": [
+              "A private club with no public access",
+              "A closed store with no services offered",
+              "A service that only helps long-time residents",
+              "Language classes to help newcomers learn English or French"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might settlement services help a newcomer family find a home?",
+            "options": [
+              "By removing housing options completely",
+              "By refusing to provide any housing information",
+              "By requiring families to find housing with no help",
+              "By offering support and information about finding housing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might communities offer settlement services to newcomers?",
+            "options": [
+              "To discourage immigration completely",
+              "Because newcomers need no support at all",
+              "To make it harder for newcomers to adjust",
+              "To help newcomers feel welcome and successfully join the community"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Learning about settlement services helps students understand ___.",
+            "options": [
+              "That only large cities welcome newcomers",
+              "That settlement services do not exist in Canada",
+              "How communities support newcomers in building a new life",
+              "That newcomers receive no support at all"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "label": "Day 160 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Colons, Fables, and Paraphrasing",
+        "summary": "Grade 3 Language strand review: students revisit using colons before lists, loanwords, hyperbole, writing a fable with a moral, paraphrasing what a speaker said, correcting double negatives, palindromes, formal and informal language, and writing an acrostic poem.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What can a colon introduce after a complete sentence?",
+            "options": [
+              "A list of items",
+              "A brand new paragraph",
+              "A single silent letter",
+              "A page number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a loanword?",
+            "options": [
+              "A word with no meaning at all",
+              "A punctuation mark",
+              "A word that English has borrowed from another language",
+              "A word used only in math"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a moral in a fable?",
+            "options": [
+              "The title of the story",
+              "The lesson the story is meant to teach",
+              "The name of the author",
+              "The setting of the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a double negative?",
+            "options": [
+              "Using two negative words in the same sentence",
+              "Using two positive words in a sentence",
+              "A sentence with no verb",
+              "A sentence with two subjects"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a palindrome?",
+            "options": [
+              "A word with no vowels",
+              "A type of punctuation mark",
+              "A word that rhymes with another word",
+              "A word or phrase that reads the same forwards and backwards"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Composing Numbers, Fractions, and Data",
+        "summary": "Grade 3 Math strand review: students revisit composing and decomposing numbers, prisms and pyramids, reading circle graphs, fractions that equal one whole, the array model for multiplication, interpreting remainders, comparing volume and capacity, patterns with two attributes, and comparing costs to find the best deal.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean to decompose a number?",
+            "options": [
+              "To multiply it by ten",
+              "To erase the number completely",
+              "To break it apart into smaller parts that add up to the whole",
+              "To turn it into a fraction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many bases does a pyramid have?",
+            "options": [
+              "Three bases",
+              "No bases at all",
+              "One base",
+              "Two bases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A fraction equals one whole when ___.",
+            "options": [
+              "The numerator is zero",
+              "The numerator is greater than the denominator",
+              "The denominator is zero",
+              "The numerator and denominator are the same number"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does capacity measure?",
+            "options": [
+              "The speed of an object",
+              "The amount a container can hold",
+              "The length of an object",
+              "The mass of an object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to find the best deal?",
+            "options": [
+              "To ignore the price of every item",
+              "To always choose the most expensive item",
+              "To buy the largest quantity regardless of cost",
+              "To find the option that offers the most value for the price paid"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Space, Ocean Life, and the Human Body",
+        "summary": "Grade 3 Science strand review: students revisit the order of the planets, octopuses, carnivorous plants, how mountains are formed, rainbows, teeth and their jobs, beetles, the life cycle of a sea turtle, and why sleep is important.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which planet is closest to the Sun?",
+            "options": [
+              "Venus",
+              "Mercury",
+              "Mars",
+              "Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is unusual about an octopuses body?",
+            "options": [
+              "It has no internal skeleton",
+              "It has a hard shell like a turtle",
+              "It has wings for flying",
+              "It has fur covering its body"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the huge sections of Earths crust called?",
+            "options": [
+              "Rivers",
+              "Clouds",
+              "Plates",
+              "Oceans"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What job do molars do?",
+            "options": [
+              "Sensing taste",
+              "Grinding food",
+              "Tearing food only",
+              "Cutting food only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does sleep give the body time to do?",
+            "options": [
+              "Digest food only",
+              "Nothing important at all",
+              "Stop growing completely",
+              "Rest, repair itself, and support growth"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Immigration, Trade, and Public Services",
+        "summary": "Grade 3 Social Studies strand review: students revisit national historic sites, the immigration points system, Canada Post, trade agreements, the Canadian Coast Guard, Canadas national sports, access to clean drinking water, self-government in the territories, and settlement services for newcomers.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a national historic site?",
+            "options": [
+              "A type of weather station",
+              "A type of grocery store",
+              "A place recognized for its importance to Canadas history",
+              "A brand new shopping mall"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Canadas immigration points system evaluate?",
+            "options": [
+              "Only a persons height",
+              "Factors such as education, work experience, and language skills",
+              "Only a persons birthday",
+              "Only a persons favourite colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a trade agreement?",
+            "options": [
+              "A type of weather pattern",
+              "A type of national holiday",
+              "A single countrys law about sports",
+              "A deal between countries that sets rules for buying and selling goods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many territories does Canada have?",
+            "options": [
+              "Five",
+              "Three",
+              "Ten",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one purpose of settlement services?",
+            "options": [
+              "To prevent newcomers from settling anywhere",
+              "To ignore the needs of newcomers",
+              "To remove newcomers from the community",
+              "To help newcomers adjust to life in Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
