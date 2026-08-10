@@ -5893,6 +5893,386 @@ const curriculum: DayContent[] = [
      {q:"What rapid population change prompted the passing of the Yukon Act in 1898?", options:["The Klondike Gold Rush","The construction of the Trans-Canada Highway","The formation of the Supreme Court of Canada","The signing of the Manitoba Act"], answer:0}
    ]},
 ]},
+{day:151, label:"Day 151 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Inverted Sentence Structure and Emphasis", summary:"Grade 8 Language strand: inverted sentence structure reverses the usual subject-verb order, placing a verb, adverb, or complement before the subject, and writers use this technique sparingly to create emphasis, formality, or a dramatic effect.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does inverted sentence structure reverse?", options:["The usual subject-verb order","The tense of a verb only","The spelling of a word","The meaning of every word in a sentence"], answer:0},
+     {q:"Which sentence demonstrates inverted structure?", options:["She saw a sight she had never seen.","Never had she seen such a sight.","She had never seen such a sight.","She never saw such a sight before."], answer:1},
+     {q:"Why might a writer choose to use inverted sentence structure?", options:["To avoid using any verbs","To make a sentence completely meaningless","To create emphasis, formality, or a dramatic effect","To remove all punctuation from a sentence"], answer:2},
+     {q:"Which part of a sentence is typically moved to the front in an inverted structure?", options:["Only the final punctuation mark","A verb, adverb, or complement","A silent letter","The entire paragraph"], answer:1},
+     {q:"Why should inverted sentence structure generally be used sparingly?", options:["Overuse can make writing sound awkward or overly formal","It always makes writing clearer the more it is used","Inverted structure has no effect on tone","Readers never notice a change in sentence order"], answer:0}
+   ]},
+  {subject:"Math", title:"Statistics: An Introduction to the Central Limit Theorem", summary:"Grade 8 Math strand: the Central Limit Theorem states that as the sample size grows large, the distribution of sample means drawn from a population tends toward a normal distribution, regardless of the shape of the original population.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does the Central Limit Theorem describe?", options:["How to calculate the area of a triangle","How the distribution of sample means tends toward a normal distribution as sample size grows","A rule for rounding decimals","A method for factoring polynomials"], answer:1},
+     {q:"According to the theorem, what happens as sample size increases?", options:["The population itself changes shape","Sample means always become identical to each other","The distribution of sample means becomes more closely normal","The distribution of sample means becomes more random"], answer:2},
+     {q:"Does the Central Limit Theorem require the original population to already be normally distributed?", options:["No, it applies regardless of the shape of the original population","The theorem cannot be applied unless the population is uniform","The theorem only applies to populations with exactly ten members","Yes, the population must always be normally distributed first"], answer:0},
+     {q:"Why is the Central Limit Theorem considered important in statistics?", options:["It has no practical use in statistical analysis","It proves that all populations are identical","It allows normal-distribution methods to be applied to many real-world sampling situations","It eliminates the need to ever collect a sample"], answer:2},
+     {q:"Which of these best describes a sample mean in this context?", options:["The largest value found in an entire population","The total sum of every value in a population","The average value calculated from a single sample drawn from a larger population","A value chosen at random with no calculation"], answer:2}
+   ]},
+  {subject:"Science", title:"Chemistry: Electrolysis and Electroplating", summary:"Grade 8 Science strand: electrolysis uses an electric current to drive a chemical reaction that would not occur naturally, and electroplating applies this process to coat an object with a thin layer of metal, often to prevent corrosion or improve appearance.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does electrolysis use to drive a chemical reaction?", options:["A magnetic field only","A change in air pressure","Sound waves","An electric current"], answer:3},
+     {q:"What does electroplating apply electrolysis to accomplish?", options:["Cooling an object rapidly","Removing all metal from an object","Coating an object with a thin layer of metal","Turning a liquid into a gas"], answer:2},
+     {q:"Why might an object be electroplated with a metal such as chromium or gold?", options:["To make the object magnetic","To prevent corrosion or improve its appearance","To eliminate its electrical conductivity","To make the object completely dissolve"], answer:1},
+     {q:"What type of reaction does electrolysis typically cause?", options:["A purely physical change with no chemical reaction","A reaction that would not occur naturally without an added electric current","A nuclear reaction involving radioactive decay","A reaction that always occurs spontaneously with no energy input"], answer:1},
+     {q:"Why is electrolysis considered a useful industrial process?", options:["It allows chemical changes such as metal coating and purification to be precisely controlled","It prevents any chemical reaction from occurring","It has no practical applications outside a classroom","It can only be used to destroy metal objects"], answer:0}
+   ]},
+  {subject:"History", title:"Agnes Macphail and Canadas First Woman Member of Parliament", summary:"Grade 8 History strand: in 1921 Agnes Macphail became the first woman elected to the Canadian House of Commons, where she advocated for farmers, workers, prison reform, and continued efforts toward equality for women in Canadian public life.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was Agnes Macphail first elected to the Canadian House of Commons?", options:["1921","1929","1949","1867"], answer:0},
+     {q:"What distinction did Agnes Macphail hold as a member of Parliament?", options:["She was the first prime minister of Canada","She was the first woman appointed to the Senate","She was the first woman to serve as a provincial premier","She was the first woman elected to the Canadian House of Commons"], answer:3},
+     {q:"Which group did Agnes Macphail advocate for as a member of Parliament?", options:["Foreign diplomats only","Only wealthy landowners","Railway executives","Farmers and workers"], answer:3},
+     {q:"What reform issue did Agnes Macphail become known for championing?", options:["The abolition of all provincial governments","Prison reform","The elimination of public schools","A ban on all international trade"], answer:1},
+     {q:"Why is Agnes Macphail considered an important figure in Canadian political history?", options:["Her election had no lasting significance for Canadian politics","Her election opened the door for greater representation of women in Canadian federal politics","She never influenced any policy during her time in office","She opposed all efforts to expand political representation"], answer:1}
+   ]},
+]},
+{day:152, label:"Day 152 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Slang and Informal Language Across Generations", summary:"Grade 8 Language strand: slang is informal vocabulary that develops within a particular group or generation and often changes quickly over time, and recognizing slang helps readers understand a texts tone, audience, and time period.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is slang?", options:["A grammatical rule about verb tense","A punctuation mark used to end a question","Informal vocabulary that develops within a particular group or generation","A formal citation style used in academic writing"], answer:2},
+     {q:"Why does slang often change quickly over time?", options:["Formal vocabulary changes faster than slang","Slang words never change once they are created","Slang is identical across every generation","New words and expressions continually develop as trends and cultures shift"], answer:3},
+     {q:"Which is an example of how slang might be used in writing?", options:["To replace all punctuation in a sentence","To remove any sense of character voice from a text","To make a formal report sound more academic","To reflect the tone of a specific character or time period in dialogue"], answer:3},
+     {q:"Why might slang used in dialogue not be appropriate in formal writing?", options:["Formal writing never uses vocabulary of any kind","Formal writing generally requires standard vocabulary that a broad audience will understand","Formal writing always requires as much slang as possible","Slang and formal vocabulary are exactly the same thing"], answer:1},
+     {q:"Why is recognizing slang a useful reading skill?", options:["Recognizing slang prevents a reader from understanding a text","Slang words are always identical to formal vocabulary","Slang has no connection to a texts tone or setting","It helps a reader understand a texts tone, audience, and time period"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Theory: The Euclidean Algorithm and Greatest Common Divisors", summary:"Grade 8 Math strand: the Euclidean Algorithm finds the greatest common divisor of two integers by repeatedly dividing and replacing the larger number with the remainder until the remainder reaches zero, at which point the last nonzero remainder is the greatest common divisor.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does the Euclidean Algorithm find?", options:["The average of two integers","The greatest common divisor of two integers","The square root of a number","The least common multiple of two integers only"], answer:1},
+     {q:"What operation does the Euclidean Algorithm repeatedly use?", options:["Rounding both numbers to the nearest ten","Addition of the two numbers repeatedly","Division, replacing the larger number with the remainder","Multiplication of both numbers together"], answer:2},
+     {q:"When does the Euclidean Algorithm stop?", options:["When the numbers become negative","After exactly one division, regardless of the result","It never stops and repeats forever","When the remainder reaches zero"], answer:3},
+     {q:"In the Euclidean Algorithm, what is the greatest common divisor once the process ends?", options:["Always the number one","The sum of all remainders produced","The last nonzero remainder produced","The very first number in the original pair"], answer:2},
+     {q:"Why is the Euclidean Algorithm considered an efficient method for finding a greatest common divisor?", options:["It only works for numbers smaller than ten","It reaches the answer in relatively few steps even for large numbers","It requires testing every possible divisor individually","It cannot be used on large integers"], answer:1}
+   ]},
+  {subject:"Science", title:"Physics: Static Electricity and the Triboelectric Effect", summary:"Grade 8 Science strand: static electricity builds up when electrons transfer between two objects through contact, often by rubbing, a process known as the triboelectric effect, leaving one object positively charged and the other negatively charged until the charge is discharged.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"How does static electricity typically build up?", options:["Atoms disappear from an objects surface","Protons are created out of nothing","Electrons transfer between two objects through contact, often by rubbing","Objects lose all of their mass"], answer:2},
+     {q:"What is the transfer of electrons through rubbing known as?", options:["Electromagnetic induction","The photoelectric effect","Nuclear fission","The triboelectric effect"], answer:3},
+     {q:"What happens to the charge of the two objects after electrons transfer between them?", options:["Both objects lose all electrical charge entirely","Both objects always remain completely neutral","One becomes positively charged and the other becomes negatively charged","Both objects become positively charged"], answer:2},
+     {q:"What can happen when a strongly charged object comes near an oppositely charged surface?", options:["The charge is permanently locked in place","The built-up charge can suddenly discharge, sometimes seen as a spark","Nothing happens under any circumstance","The object instantly becomes magnetic"], answer:1},
+     {q:"Why do some materials build up static charge more easily than others?", options:["All materials hold electrons with exactly equal strength","Static electricity has no connection to a materials properties","Static charge only forms in materials that conduct electricity perfectly","Different materials hold onto or give up electrons more readily than others"], answer:3}
+   ]},
+  {subject:"History", title:"The 1918 Spanish Flu Pandemic in Canada", summary:"Grade 8 History strand: the 1918 influenza pandemic, often called the Spanish Flu, spread rapidly across Canada in the final months of World War I, overwhelming hospitals and prompting public health measures such as quarantines and the closure of schools and public gathering places.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What is the 1918 influenza pandemic commonly known as?", options:["The Asian Flu","The Spanish Flu","The Great Fever","The Black Death"], answer:1},
+     {q:"During what broader global event did the Spanish Flu spread across Canada?", options:["World War II","The final months of World War I","The Cold War","The Great Depression"], answer:1},
+     {q:"What public health measures were used to try to slow the spread of the Spanish Flu?", options:["A complete ban on all forms of medicine","Ignoring the outbreak entirely","Quarantines and the closure of schools and public gathering places","Opening more schools and increasing public gatherings"], answer:2},
+     {q:"What effect did the Spanish Flu have on Canadian hospitals?", options:["It overwhelmed hospitals with a surge of patients","It reduced hospital admissions to zero","Hospitals closed permanently with no patients arriving","It had no effect on hospitals at all"], answer:0},
+     {q:"Why is the 1918 pandemic still studied by historians and public health officials today?", options:["It offers important lessons about how societies respond to widespread infectious disease","The pandemic never actually affected Canada","Historians have found no useful information from studying it","It has no relevance to modern public health"], answer:0}
+   ]},
+]},
+{day:153, label:"Day 153 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Static and Dynamic Characters", summary:"Grade 8 Language strand: a static character remains essentially unchanged throughout a story, while a dynamic character undergoes significant internal change, often as a result of a storys central conflict, and recognizing this distinction helps readers understand character development.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What defines a static character?", options:["A character who changes completely every few pages","A character who remains essentially unchanged throughout a story","A character who never appears in the story","A character who only speaks in questions"], answer:1},
+     {q:"What defines a dynamic character?", options:["A character who undergoes significant internal change during a story","A character who appears in only one sentence","A character who is identical to every other character","A character who has no personality traits at all"], answer:0},
+     {q:"What often causes a dynamic characters change?", options:["The storys central conflict or major events","The number of pages in the book","The font used to print the story","A change in the books cover design"], answer:0},
+     {q:"Which is an example of a dynamic character?", options:["A character who behaves identically from the first page to the last","A character with no name in the story","A character who begins selfish but learns compassion by the storys end","A character who is mentioned once and never again"], answer:2},
+     {q:"Why is recognizing static versus dynamic characters a valuable reading skill?", options:["Recognizing character types prevents readers from understanding a plot","It helps readers understand how and why a story develops its characters over time","Every character in every story is exactly the same type","This distinction has no connection to understanding a story"], answer:1}
+   ]},
+  {subject:"Math", title:"Geometry: An Introduction to Topology and the Konigsberg Bridge Problem", summary:"Grade 8 Math strand: topology studies properties of shapes that remain unchanged under stretching or bending, and the historic Konigsberg Bridge Problem, which asked whether a walker could cross seven bridges exactly once, helped establish the foundations of graph theory and topology.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does topology study?", options:["Properties of shapes that remain unchanged under stretching or bending","The exact colour of every geometric shape","Only the area of a circle","The weight of a three-dimensional solid"], answer:0},
+     {q:"What question did the Konigsberg Bridge Problem originally ask?", options:["Whether a walker could cross seven bridges exactly once without repeating any","How many rivers flowed through Konigsberg","How many bridges could be built in a single city","What the shortest possible bridge length was"], answer:0},
+     {q:"What field of mathematics did the Konigsberg Bridge Problem help establish?", options:["Basic addition and subtraction","The study of decimals","Graph theory and topology","Elementary probability"], answer:2},
+     {q:"What did the solution to the Konigsberg Bridge Problem ultimately show?", options:["That such a walk was impossible given the arrangement of the bridges","That the problem had no mathematical solution of any kind","That the bridges did not actually exist","That the walk was easy and could be done in many ways"], answer:0},
+     {q:"Why is the Konigsberg Bridge Problem considered a landmark in the history of mathematics?", options:["It showed how a real-world puzzle could be solved using an entirely new mathematical approach","It has no connection to any branch of mathematics","It was solved using only basic arithmetic with no new ideas","It proved that mathematics could never solve real-world problems"], answer:0}
+   ]},
+  {subject:"Science", title:"Earth Science: Ocean Currents and Thermohaline Circulation", summary:"Grade 8 Science strand: ocean currents move vast amounts of water around the globe, driven partly by wind at the surface and partly by differences in water temperature and salinity that drive a deep, slow-moving global conveyor known as thermohaline circulation.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What are two factors that help drive ocean currents?", options:["Only the colour of the water","The number of ships crossing the ocean","Wind at the surface and differences in temperature and salinity","Only the depth of the seafloor"], answer:2},
+     {q:"What is thermohaline circulation?", options:["A current caused entirely by tides alone","A process that only occurs in freshwater lakes","A deep, slow-moving global conveyor of ocean water driven by temperature and salinity differences","A fast-moving surface current found only near the equator"], answer:2},
+     {q:"What does the word thermohaline refer to?", options:["Temperature and salt content of ocean water","The depth and pressure of the ocean floor","The speed of surface waves","The colour and clarity of ocean water"], answer:0},
+     {q:"Why can ocean currents affect regional climate?", options:["They transport heat from warmer regions of the ocean to cooler regions","Currents remain perfectly still and never move heat","Ocean currents have no connection to climate at all","Currents only move sand, never heat"], answer:0},
+     {q:"Why do scientists study changes in ocean currents when researching climate change?", options:["Studying currents provides no useful climate information","Currents have no influence on weather patterns","Ocean currents never change over time","Shifts in current patterns can significantly affect global weather and temperature distribution"], answer:3}
+   ]},
+  {subject:"History", title:"The Rowell-Sirois Commission and Dominion-Provincial Relations", summary:"Grade 8 History strand: established in 1937, the Rowell-Sirois Commission examined the financial relationship between the federal and provincial governments after the strain of the Great Depression, recommending changes intended to give the federal government a stronger role in economic and social policy.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Rowell-Sirois Commission established?", options:["1905","1867","1937","1949"], answer:2},
+     {q:"What relationship did the Rowell-Sirois Commission examine?", options:["Canadas relationship with the United Nations","The structure of Canadas court system","The financial relationship between the federal and provincial governments","The relationship between Canada and France"], answer:2},
+     {q:"What economic event prompted the creation of the Rowell-Sirois Commission?", options:["The end of World War II","The signing of Confederation in 1867","The Klondike Gold Rush","The strain of the Great Depression"], answer:3},
+     {q:"What did the Rowell-Sirois Commission recommend?", options:["Giving all economic authority exclusively to municipalities","Giving the federal government a stronger role in economic and social policy","Ending all federal funding to the provinces","Eliminating the federal government entirely"], answer:1},
+     {q:"Why was reexamining dominion-provincial financial relations considered urgent in the late 1930s?", options:["Many provinces faced severe financial strain and needed a clearer, more sustainable funding structure","Provinces had unlimited funding and needed no support","Financial relations between governments were never a concern in Canada","The federal government had no role in provincial finances at any time"], answer:0}
+   ]},
+]},
+{day:154, label:"Day 154 — Thu", subjects:[
+  {subject:"Language", title:"Writing: The Problem-Solution Essay", summary:"Grade 8 Language strand: a problem-solution essay identifies a specific issue, explains its causes and effects, and proposes one or more realistic solutions supported by evidence and reasoning.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does a problem-solution essay identify?", options:["A random collection of unrelated topics","A single sentence with no supporting explanation","A list of characters from a novel","A specific issue along with its causes and effects"], answer:3},
+     {q:"What must a proposed solution in this type of essay be supported by?", options:["No supporting explanation whatsoever","A single unsupported opinion","Evidence and reasoning","A completely unrelated topic"], answer:2},
+     {q:"Why might a writer include the effects of a problem before proposing a solution?", options:["Including effects always confuses the reader","Effects are never relevant to a problem-solution essay","A problem-solution essay never discusses effects","To help readers understand why the issue matters and needs to be addressed"], answer:3},
+     {q:"What distinguishes a problem-solution essay from a purely descriptive essay?", options:["It moves beyond description to propose and justify a course of action","A problem-solution essay is always shorter than any other essay type","It never describes the problem in any detail","There is no meaningful difference between the two"], answer:0},
+     {q:"Why is a problem-solution essay considered a persuasive form of writing?", options:["It never tries to convince a reader of anything","Persuasion has no role in this type of essay","It aims to convince readers that a particular solution is reasonable and effective","It only presents facts with no argument at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Algebra: An Introduction to Function Composition", summary:"Grade 8 Math strand: function composition combines two functions by applying one function to the result of another, so that the output of the first function becomes the input of the second, producing a new combined function.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does function composition do?", options:["Deletes one function entirely","Removes all variables from a function","Converts a function into a single number with no variables","Combines two functions by applying one to the result of another"], answer:3},
+     {q:"In a composed function, what becomes the input of the second function?", options:["A randomly chosen number with no connection to either function","The output of the first function","The exponent of the second function","The name of the first function"], answer:1},
+     {q:"If f(x) and g(x) are functions, what does f(g(x)) represent?", options:["Applying g first, then applying f to that result","Adding f and g together","Applying f and g at the exact same time with no order","Multiplying f and g without applying either function"], answer:0},
+     {q:"Why is the order in which functions are composed generally important?", options:["The order of composition never affects the result","Order only matters when composing exactly three functions","Functions cannot be composed in more than one order","Composing functions in a different order can produce a different result"], answer:3},
+     {q:"Why is function composition a useful concept in mathematics?", options:["It only applies to functions with no variables","It allows complex relationships to be built from simpler, more basic functions","Composed functions can never be graphed","It has no practical use in mathematics"], answer:1}
+   ]},
+  {subject:"Science", title:"Biology: Decomposers and Nutrient Cycling in Ecosystems", summary:"Grade 8 Science strand: decomposers such as fungi and bacteria break down dead organisms and waste material, releasing nutrients back into the soil so they can be reused by plants, making decomposers essential to nutrient cycling within an ecosystem.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What do decomposers such as fungi and bacteria break down?", options:["Water molecules exclusively","Dead organisms and waste material","Rocks and minerals only","Only living, healthy plants"], answer:1},
+     {q:"What do decomposers release back into the soil?", options:["Nutrients that can be reused by plants","Pure oxygen with no other elements","Radioactive particles","Only carbon dioxide gas"], answer:0},
+     {q:"Why are decomposers considered essential to nutrient cycling?", options:["Nutrient cycling occurs with no involvement from decomposers","Decomposers have no role in an ecosystems nutrient supply","Decomposers remove all nutrients permanently from an ecosystem","They return nutrients from dead matter to the ecosystem so they can be used again"], answer:3},
+     {q:"What might happen to an ecosystem if decomposers were removed?", options:["Plants would grow more quickly with no decomposers present","Nutrient levels in the soil would increase dramatically","Dead matter would accumulate and nutrients would not be returned to the soil","The ecosystem would function exactly the same with no changes"], answer:2},
+     {q:"Why are decomposers sometimes described as natures recyclers?", options:["They convert waste and dead material into reusable nutrients for other living things","They destroy nutrients permanently with no benefit to an ecosystem","They produce waste rather than breaking it down","They have no connection to recycling of any kind"], answer:0}
+   ]},
+  {subject:"History", title:"The Padlock Law and Civil Liberties in Depression-Era Quebec", summary:"Grade 8 History strand: passed by the Quebec government in 1937, the Padlock Law allowed authorities to close, or padlock, any premises suspected of spreading communist propaganda, raising lasting concerns about civil liberties and freedom of expression in Canada.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Padlock Law passed in Quebec?", options:["1937","1921","1867","1949"], answer:0},
+     {q:"What did the Padlock Law allow authorities to do?", options:["Close, or padlock, premises suspected of spreading communist propaganda","Build new schools across the province","Expand voting rights to more citizens","Lower taxes for all Quebec residents"], answer:0},
+     {q:"What broader concern did the Padlock Law raise?", options:["Concerns about civil liberties and freedom of expression","Concerns about railway construction costs","Concerns about international trade agreements","Concerns about agricultural production"], answer:0},
+     {q:"Which level of government passed the Padlock Law?", options:["The Quebec provincial government","A municipal city council","The government of Ontario","The federal government of Canada"], answer:0},
+     {q:"Why is the Padlock Law still studied as an important moment in Canadian civil liberties history?", options:["It has no lasting significance for Canadian history","It expanded freedom of expression for every Canadian","It was never actually enforced by any authority","It illustrates tension between government authority and individual freedom of expression during a period of political anxiety"], answer:3}
+   ]},
+]},
+{day:155, label:"Day 155 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Photojournalism and Image Manipulation", summary:"Grade 8 Language strand: photojournalism uses photographs to document real events, but choices such as cropping, framing, and digital editing can alter how a viewer interprets an image, making it important for media consumers to consider a photographs context and possible manipulation.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is photojournalism?", options:["A type of illustration used in cartoons","The use of photographs to document real events","A style of writing used only in fiction","A method of editing video footage exclusively"], answer:1},
+     {q:"Which of these can influence how a viewer interprets a news photograph?", options:["The photographers height","The type of camera used with no other factor","Cropping, framing, and digital editing","The photographs file size alone"], answer:2},
+     {q:"Why is it important for media consumers to consider a photographs context?", options:["Context only matters for written articles, never photographs","An image removed from its context can create a misleading impression of an event","Context never affects how an image is understood","Photographs always tell the complete story with no need for context"], answer:1},
+     {q:"What might indicate that a photograph has been digitally manipulated?", options:["A photograph printed on high-quality paper","Inconsistent lighting, shadows, or unnatural edges within the image","A photograph taken in bright daylight","A photograph that includes more than one person"], answer:1},
+     {q:"Why should viewers evaluate news photographs critically rather than accepting them at face value?", options:["All news photographs are always completely accurate with no exceptions","Critical evaluation of photographs serves no useful purpose","Photographs can never be altered or manipulated in any way","Manipulated or selectively framed images can distort a viewers understanding of real events"], answer:3}
+   ]},
+  {subject:"Math", title:"Probability: An Introduction to Markov Chains", summary:"Grade 8 Math strand: a Markov chain models a system that moves between a set of states, where the probability of moving to the next state depends only on the current state and not on the sequence of states that came before it.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does a Markov chain model?", options:["A shape with no defined boundaries","A list of unrelated historical dates","A single fixed number with no possible change","A system that moves between a set of states with defined probabilities"], answer:3},
+     {q:"In a Markov chain, what does the probability of the next state depend on?", options:["Nothing at all, since the process is entirely undefined","Only the current state","A state that has not yet been defined","Every state that has ever occurred in the past"], answer:1},
+     {q:"What is this key property of Markov chains, where the future depends only on the present state, often called?", options:["The Euclidean property","The commutative property","The Markov property","The Pythagorean property"], answer:2},
+     {q:"Which of these could be modeled using a Markov chain?", options:["The alphabetical order of a list of names","The exact colour of a randomly chosen car","The area of a randomly drawn triangle","The probability of tomorrows weather depending only on todays weather"], answer:3},
+     {q:"Why are Markov chains useful for modeling real-world systems?", options:["They require knowing every past state in complete detail","They only apply to systems with a single possible state","They cannot be applied to any real-world situation","They provide a simplified but powerful way to predict how a system evolves over time"], answer:3}
+   ]},
+  {subject:"Science", title:"Space Science: The Structure of the Milky Way Galaxy", summary:"Grade 8 Science strand: the Milky Way is a large spiral galaxy containing billions of stars, including the Sun, arranged in a flattened disc with curved spiral arms surrounding a dense central bulge.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What type of galaxy is the Milky Way?", options:["A galaxy with no defined shape","A small, perfectly spherical galaxy","A large spiral galaxy","A galaxy made entirely of comets"], answer:2},
+     {q:"Roughly how many stars does the Milky Way contain?", options:["Fewer than ten stars","No stars at all, only planets","Billions of stars, including the Sun","Exactly one hundred stars"], answer:2},
+     {q:"What shape does the Milky Way form?", options:["A hollow, empty sphere","A flattened disc with curved spiral arms","A single straight line","A perfect cube"], answer:1},
+     {q:"What lies at the centre of the Milky Way?", options:["An empty region with no matter at all","A frozen ice cap","A dense central bulge","A single small planet"], answer:2},
+     {q:"Why is it difficult for scientists on Earth to directly observe the overall shape of the Milky Way?", options:["Earth is located completely outside the Milky Way","The Milky Way has no shape at all to observe","Earth is located within the galaxys disc, limiting an outside view of its full structure","Telescopes are physically incapable of viewing any part of the galaxy"], answer:2}
+   ]},
+  {subject:"History", title:"The National Housing Act and the Growth of Canadian Suburbs", summary:"Grade 8 History strand: first passed in 1938 and expanded significantly after World War II, the National Housing Act helped make mortgages more accessible to Canadian families, fueling rapid suburban growth around major Canadian cities in the following decades.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the National Housing Act first passed?", options:["1938","1867","1905","1921"], answer:0},
+     {q:"What did the National Housing Act help make more accessible to Canadian families?", options:["International passports","Mortgages","University tuition","Farmland in the north"], answer:1},
+     {q:"What growth did the National Housing Act help fuel in the decades that followed?", options:["A sharp decline in Canadas overall population","The end of all urban development in Canada","A complete halt to residential construction","Rapid suburban growth around major Canadian cities"], answer:3},
+     {q:"When was the National Housing Act significantly expanded?", options:["During the Klondike Gold Rush","Before Confederation in 1867","After World War II","During the 1918 influenza pandemic"], answer:2},
+     {q:"Why might increased access to mortgages lead to rapid suburban development?", options:["Mortgages have no connection to where people choose to live","Increased mortgage access always reduces homeownership rates","More families were able to afford homeownership outside crowded city centres","Suburban development happened entirely independent of housing policy"], answer:2}
+   ]},
+]},
+{day:156, label:"Day 156 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Split Infinitives and Verb Phrase Clarity", summary:"Grade 8 Language strand: a split infinitive occurs when a word, usually an adverb, is placed between the word to and the base verb it introduces, and while some traditional style guides discourage the construction, modern usage often accepts it when it improves clarity.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a split infinitive?", options:["A sentence with no verb at all","A construction where a word is placed between to and the base verb it introduces","A word split into two separate sentences","A punctuation mark placed inside a verb"], answer:1},
+     {q:"Which sentence contains a split infinitive?", options:["Quickly, she decided to finish her homework.","She decided to finish her homework quickly.","She decided to quickly finish her homework.","She quickly decided to finish her homework."], answer:2},
+     {q:"What word is most commonly placed inside a split infinitive?", options:["An adverb","A proper noun","A preposition","A conjunction"], answer:0},
+     {q:"How do many modern style guides view split infinitives?", options:["They often accept the construction when it improves clarity or sounds natural","They require every sentence to contain one","They always forbid the construction under every circumstance","They consider the construction to be grammatically impossible"], answer:0},
+     {q:"Why might a writer choose to avoid a split infinitive in very formal writing?", options:["Some traditional style guides and readers still consider it less formal or correct","Avoiding split infinitives always makes a sentence less clear","Split infinitives are always required in formal writing","Formal writing never contains any infinitives"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Theory: An Introduction to Amicable Numbers", summary:"Grade 8 Math strand: two numbers are called amicable if the sum of the proper divisors of each number equals the other number, forming a pair connected through their divisors rather than through any obvious numerical similarity.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What makes two numbers amicable?", options:["Neither number can have any divisors at all","Both numbers are always exactly equal to each other","Both numbers must be prime","The sum of the proper divisors of each number equals the other number"], answer:3},
+     {q:"What are proper divisors of a number?", options:["A single divisor chosen at random","All the positive divisors of a number except the number itself","Only the number one and the number itself","Every negative number smaller than the number"], answer:1},
+     {q:"How many numbers are typically involved in an amicable relationship?", options:["An undefined and unlimited quantity","Two numbers, forming a pair","Exactly one number","A minimum of ten numbers"], answer:1},
+     {q:"What is the smallest known pair of amicable numbers?", options:["220 and 284","10 and 20","6 and 28","100 and 200"], answer:0},
+     {q:"Why do mathematicians find amicable numbers an interesting area of number theory?", options:["They reveal unexpected numerical relationships that require careful calculation to discover","Amicable numbers have no interesting mathematical properties","Amicable numbers can only be whole numbers less than five","Every pair of numbers is automatically amicable"], answer:0}
+   ]},
+  {subject:"Science", title:"Technology: How GPS Satellites Determine Location", summary:"Grade 8 Science strand: the Global Positioning System uses a network of orbiting satellites that continuously transmit timed signals, allowing a receiver on Earth to calculate its exact location by measuring how long each signal took to arrive from multiple satellites.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does the Global Positioning System rely on?", options:["Radio towers built only along coastlines","A single satellite positioned above the North Pole","A network of orbiting satellites transmitting timed signals","Underground cables connected to every city"], answer:2},
+     {q:"How does a GPS receiver calculate its location?", options:["By measuring how long signals took to arrive from multiple satellites","By measuring the temperature of the surrounding air","By guessing based on the time of day","By counting the number of clouds overhead"], answer:0},
+     {q:"Why must a GPS receiver use signals from several satellites rather than just one?", options:["Using more than one satellite makes the signal weaker","Multiple signals are needed to accurately pinpoint a precise location","GPS receivers are physically unable to detect more than one satellite","A single satellite always provides a perfectly accurate location"], answer:1},
+     {q:"What kind of information do GPS satellites continuously transmit?", options:["Weather forecasts for the entire planet","Timed signals marking exactly when each signal was sent","Text messages intended for individual users","Photographs of the Earths surface"], answer:1},
+     {q:"Why is extremely precise timing important for GPS accuracy?", options:["Even tiny timing errors can translate into significant errors in calculated position","Timing has no effect on the accuracy of a GPS location","Precise timing only matters for satellites, never for receivers","GPS satellites do not use timing information at all"], answer:0}
+   ]},
+  {subject:"History", title:"The Old Age Pensions Act of 1927", summary:"Grade 8 History strand: the Old Age Pensions Act of 1927 established a shared federal-provincial pension for Canadians over the age of seventy who met certain income requirements, marking an early step toward the modern Canadian social welfare system.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Old Age Pensions Act passed?", options:["1949","1911","1927","1867"], answer:2},
+     {q:"What did the Old Age Pensions Act establish?", options:["A new national railway system","A ban on all provincial pensions","A shared federal-provincial pension for eligible older Canadians","A tax exclusively for young workers"], answer:2},
+     {q:"What age did a Canadian generally need to reach to qualify for the original pension?", options:["Forty","Seventy","Fifty-five","Twenty-five"], answer:1},
+     {q:"What kind of requirement did applicants for the pension also need to meet?", options:["An income requirement","A requirement to own a car","A requirement to speak more than one language","A requirement to live in a major city"], answer:0},
+     {q:"Why is the Old Age Pensions Act of 1927 considered an important step in Canadian history?", options:["It eliminated all forms of government support for citizens","It marked an early stage in the development of Canadas modern social welfare system","It only applied to residents of a single city","It had no lasting effect on Canadian social policy"], answer:1}
+   ]},
+]},
+{day:157, label:"Day 157 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Clipped Words and Abbreviated Forms", summary:"Grade 8 Language strand: a clipped word is formed by shortening a longer word while keeping the same basic meaning, such as gym from gymnasium or phone from telephone, and clipping is a common way that informal vocabulary enters everyday language.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is a clipped word?", options:["A word borrowed directly from another language with no change","A word created by combining two unrelated words","A word with no defined meaning at all","A word formed by shortening a longer word while keeping the same basic meaning"], answer:3},
+     {q:"Which of these is an example of a clipped word?", options:["Sandwich, named after a person","Bookshelf, combining book and shelf","Umbrella, borrowed from another language","Gym, shortened from gymnasium"], answer:3},
+     {q:"Where do clipped words most commonly appear?", options:["Only in formal legal documents","Only in ancient historical texts","Clipped words never appear in any form of language","In informal, everyday spoken and written language"], answer:3},
+     {q:"Why might a clipped word eventually become as common as its original full form?", options:["Clipped words are always immediately rejected by speakers","Clipped words never gain acceptance in everyday use","Frequent use in casual speech can make the shorter form widely accepted over time","Shortened words are grammatically forbidden in any context"], answer:2},
+     {q:"Why is studying clipped words useful when analyzing how language changes?", options:["Clipping has no connection to the study of language change","It shows one common way that vocabulary evolves to become more efficient over time","Vocabulary never changes or evolves over time","Clipped words provide no insight into how language evolves"], answer:1}
+   ]},
+  {subject:"Math", title:"Statistics: An Introduction to Simpsons Paradox", summary:"Grade 8 Math strand: Simpsons Paradox occurs when a trend appears in several separate groups of data but disappears or reverses when the groups are combined, showing why data must be examined carefully before drawing broad conclusions.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is Simpsons Paradox?", options:["A trend that appears in separate groups but disappears or reverses when combined","A method for rounding decimal numbers","A law describing how probabilities always increase over time","A rule that always guarantees accurate statistical conclusions"], answer:0},
+     {q:"Why does Simpsons Paradox make data analysis challenging?", options:["It has no effect on how data should be interpreted","It only occurs with data sets containing a single value","Combining groups can produce a misleading overall trend that hides what is happening within each group","It makes every statistical conclusion automatically correct"], answer:2},
+     {q:"What does Simpsons Paradox demonstrate about drawing conclusions from data?", options:["Conclusions can always be drawn instantly with no analysis required","Data should never be separated into groups under any circumstance","Combining groups of data never affects the conclusions drawn","Data must be examined carefully, considering how groups are combined, before drawing broad conclusions"], answer:3},
+     {q:"In which field might Simpsons Paradox commonly arise?", options:["Only in the study of ancient languages","Only in the study of weather on other planets","Only in the design of video games","Comparing outcomes across combined groups, such as in medical studies"], answer:3},
+     {q:"Why is awareness of Simpsons Paradox important for interpreting statistics in the news?", options:["It only matters for statisticians, never for the general public","It has no relevance to how statistics are reported","It guarantees that news reports never contain any errors","It helps prevent readers from being misled by conclusions drawn from improperly combined data"], answer:3}
+   ]},
+  {subject:"Science", title:"Chemistry: Catalysts and Reaction Rates", summary:"Grade 8 Science strand: a catalyst is a substance that increases the rate of a chemical reaction without being permanently consumed in the process, often by providing an alternative pathway that requires less energy to begin the reaction.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does a catalyst do to a chemical reaction?", options:["Has no measurable effect on the reaction","Always stops the reaction from occurring","Permanently disappears after a single use","Increases its rate without being permanently consumed"], answer:3},
+     {q:"What happens to a catalyst after a reaction is complete?", options:["It becomes part of the final product permanently","It remains chemically unchanged and can be used again","It transforms into an entirely different element","It is permanently destroyed and cannot be reused"], answer:1},
+     {q:"How does a catalyst typically speed up a reaction?", options:["By increasing the amount of energy required to begin the reaction","By cooling the reaction to a very low temperature","By providing an alternative pathway that requires less energy to begin","By removing all reactants from the reaction"], answer:2},
+     {q:"Which of these is an example of a catalyst in everyday life?", options:["A sound wave travelling through air","An enzyme that speeds up digestion in the body","A rock sitting motionless on the ground","A shadow cast by a tree"], answer:1},
+     {q:"Why are catalysts important in industrial chemical processes?", options:["They permanently prevent any reaction from occurring","They always make industrial processes slower and less efficient","Catalysts have no role in any industrial process","They can make reactions faster and more energy-efficient on a large scale"], answer:3}
+   ]},
+  {subject:"History", title:"The Formation of Trans-Canada Air Lines in 1937", summary:"Grade 8 History strand: established by the federal government in 1937 as a Crown corporation, Trans-Canada Air Lines became the countrys first major national airline, connecting distant Canadian cities and later evolving into Air Canada.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was Trans-Canada Air Lines established?", options:["1867","1949","1905","1937"], answer:3},
+     {q:"What kind of organization was Trans-Canada Air Lines when it was created?", options:["A charitable, not-for-profit organization","A federal Crown corporation","A privately owned foreign company","A provincial ministry with no airline operations"], answer:1},
+     {q:"What was significant about Trans-Canada Air Lines when it began operating?", options:["It was the first railway company in Canada","It was the last airline ever created in Canada","It became the countrys first major national airline","It operated exclusively outside of Canada"], answer:2},
+     {q:"What did Trans-Canada Air Lines eventually become?", options:["Air Canada","The Royal Canadian Air Force","The Canadian Coast Guard","The Canadian National Railway"], answer:0},
+     {q:"Why might the federal government have wanted to establish a national airline in the 1930s?", options:["To connect distant Canadian cities and support national transportation and communication","To eliminate all forms of transportation across Canada","Air travel had no benefit to a country as large as Canada","To discourage travel between Canadian provinces"], answer:0}
+   ]},
+]},
+{day:158, label:"Day 158 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Parody and Pastiche in Literature", summary:"Grade 8 Language strand: parody imitates the style of a work or genre to mock or comment on it humorously, while pastiche imitates a style out of admiration rather than mockery, and distinguishing between the two helps readers understand an authors purpose.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What is the main purpose of parody?", options:["To translate a text into another language","To remove all humour from a piece of writing","To copy a work exactly with no changes at all","To imitate a work or genre in order to mock or comment on it humorously"], answer:3},
+     {q:"How does pastiche differ from parody?", options:["Pastiche never imitates another authors style","Pastiche always mocks the original work more harshly than parody","Pastiche imitates a style out of admiration rather than mockery","There is no difference between pastiche and parody"], answer:2},
+     {q:"Which is an example of parody?", options:["A humorous piece that exaggerates the style of a famous novel to poke fun at it","A serious biography with no humour","A dictionary definition of a common word","A weather report describing tomorrows forecast"], answer:0},
+     {q:"Why might an author choose to write a pastiche instead of an original work?", options:["To pay tribute to a style or author they admire","To completely destroy the reputation of another author","Pastiche is never used by authors for any reason","To avoid using any recognizable style at all"], answer:0},
+     {q:"Why is distinguishing parody from pastiche useful when analyzing a text?", options:["It helps readers understand whether an author intends to criticize or celebrate the work being imitated","Parody and pastiche always have the exact same purpose","Only professional critics can ever notice this distinction","This distinction has no effect on understanding a text"], answer:0}
+   ]},
+  {subject:"Math", title:"Algebra: An Introduction to Vector Spaces", summary:"Grade 8 Math strand: a vector space is a collection of objects called vectors that can be added together and multiplied by numbers called scalars, following a consistent set of rules that generalize the familiar properties of vectors in two and three dimensions.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What is a vector space?", options:["A list of unrelated numbers with no structure","A collection of vectors that can be added together and multiplied by scalars","A shape that has no defined dimensions","A single fixed point with no other properties"], answer:1},
+     {q:"What is a scalar in the context of a vector space?", options:["A unit used only to measure temperature","A shape with exactly four sides","A number used to multiply a vector","A type of vector with no numerical value"], answer:2},
+     {q:"What must a set of rules in a vector space consistently do?", options:["Ignore all mathematical operations entirely","Contradict the basic properties of vectors","Generalize the familiar properties of vectors in two and three dimensions","Apply only to numbers smaller than ten"], answer:2},
+     {q:"Which of these operations must be defined within a vector space?", options:["Vector addition and scalar multiplication","Only division of vectors by other vectors","Only the square root of a vector","Only rounding a vector to the nearest whole number"], answer:0},
+     {q:"Why do mathematicians study vector spaces beyond two or three dimensions?", options:["Only two- and three-dimensional vectors exist in mathematics","Vector spaces beyond three dimensions have no practical use","Higher-dimensional vector spaces are mathematically impossible","The same structure can describe more abstract systems used across science and engineering"], answer:3}
+   ]},
+  {subject:"Science", title:"Physics: The Electromagnetic Spectrum and Its Applications", summary:"Grade 8 Science strand: the electromagnetic spectrum includes all types of electromagnetic radiation, ranging from long-wavelength radio waves to short-wavelength gamma rays, with visible light forming only a small portion used by the human eye.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does the electromagnetic spectrum include?", options:["All types of electromagnetic radiation","Only sound waves travelling through air","Only radio waves used for broadcasting","Only the light visible to the human eye"], answer:0},
+     {q:"Which type of electromagnetic wave has the longest wavelength?", options:["Radio waves","X-rays","Gamma rays","Ultraviolet light"], answer:0},
+     {q:"Which type of electromagnetic wave has the shortest wavelength?", options:["Microwaves","Infrared light","Radio waves","Gamma rays"], answer:3},
+     {q:"What portion of the electromagnetic spectrum can the human eye detect?", options:["Only radio waves and microwaves","The entire electromagnetic spectrum","Only a small portion, known as visible light","None of the electromagnetic spectrum at all"], answer:2},
+     {q:"Why are different parts of the electromagnetic spectrum used for different technologies?", options:["The electromagnetic spectrum has no connection to modern technology","Every part of the spectrum behaves in exactly the same way","Only visible light has any practical technological use","Each wavelength range has properties suited to specific practical applications, such as communication or medical imaging"], answer:3}
+   ]},
+  {subject:"History", title:"The Dust Bowl and Drought on the Canadian Prairies During the 1930s", summary:"Grade 8 History strand: during the 1930s, prolonged drought and severe soil erosion turned large areas of the Canadian prairies into a dust bowl, devastating farm income and forcing many families to abandon their land during the depths of the Great Depression.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What environmental conditions caused the prairie dust bowl of the 1930s?", options:["A shortage of available farmland","A sudden drop in temperature across the entire country","Excessive rainfall and flooding","Prolonged drought and severe soil erosion"], answer:3},
+     {q:"What effect did the dust bowl have on prairie farm income?", options:["It only affected income in coastal provinces","It devastated farm income","It caused farm income to rise dramatically","It had no effect on farm income at all"], answer:1},
+     {q:"What did many prairie families do as a result of the dust bowl?", options:["Abandon their land","Expand their farms significantly","Purchase additional farmland","Move to the prairies for the first time"], answer:0},
+     {q:"During which broader economic crisis did the prairie dust bowl occur?", options:["The Great Depression","World War II","The 1990s recession","The Cold War"], answer:0},
+     {q:"Why did soil erosion worsen so severely on the prairies during this drought?", options:["Farming practices had no connection to the severity of soil erosion","Years of farming practices combined with drought left topsoil exposed and vulnerable to wind","The prairies received far too much rainfall during this period","Soil erosion never occurs during a drought"], answer:1}
+   ]},
+]},
+{day:159, label:"Day 159 — Thu", subjects:[
+  {subject:"Language", title:"Writing: The Character Sketch and Descriptive Writing", summary:"Grade 8 Language strand: a character sketch is a short piece of descriptive writing that captures a persons physical appearance, personality, and mannerisms through vivid, specific detail rather than a simple list of traits.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does a character sketch capture?", options:["A persons physical appearance, personality, and mannerisms","A list of unrelated historical events","A summary of an entirely different persons life","Only the exact date a person was born"], answer:0},
+     {q:"What kind of detail does effective descriptive writing rely on?", options:["A single one-word description","No descriptive detail of any kind","Vivid, specific detail rather than a simple list of traits","Vague, general statements with no specific detail"], answer:2},
+     {q:"Why might a writer include a characters mannerisms in a sketch?", options:["Including mannerisms always makes a sketch less effective","A character sketch is required to exclude all behavioural detail","Mannerisms have no connection to a characters personality","Small habits and gestures can reveal personality more effectively than direct statements"], answer:3},
+     {q:"What distinguishes a character sketch from a full narrative?", options:["A character sketch always contains a complete plot with a beginning, middle, and end","There is no meaningful difference between the two forms","A character sketch must always be longer than a full narrative","A character sketch focuses on describing a character rather than telling a complete story"], answer:3},
+     {q:"Why is descriptive precision important when writing a character sketch?", options:["Vague descriptions always create a clearer image than specific ones","Specific, concrete details help a reader form a clear and vivid mental image of the character","A character sketch should avoid describing the character entirely","Precision has no effect on how a reader imagines a character"], answer:1}
+   ]},
+  {subject:"Math", title:"Calculus Preview: An Introduction to Related Rates", summary:"Grade 8 Math strand: related rates problems use derivatives to find how quickly one quantity changes in relation to another quantity it depends on, such as finding how fast the radius of a balloon grows as it is filled with air at a known rate.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What do related rates problems find?", options:["How quickly one quantity changes in relation to another quantity it depends on","A rule for rounding decimals to the nearest whole number","The colour of a graphed function","The exact area of a single fixed shape"], answer:0},
+     {q:"What calculus concept is central to solving a related rates problem?", options:["The greatest common divisor","The derivative","A probability distribution","A geometric proof with no calculation"], answer:1},
+     {q:"Which is an example of a related rates problem?", options:["Finding the exact colour of a balloon","Measuring the weight of a balloon at rest","Finding how fast a balloons radius grows as air is added at a known rate","Counting the total number of balloons in a room"], answer:2},
+     {q:"Why must two related quantities in this type of problem be connected by an equation?", options:["The two quantities must always be completely unrelated","The equation allows their rates of change to be linked through differentiation","Equations can only describe quantities that never change","An equation has no role in solving a related rates problem"], answer:1},
+     {q:"Why are related rates problems useful in real-world applications?", options:["They only apply to quantities that remain constant forever","They have no real-world applications of any kind","They model how interconnected quantities change together over time in physical situations","Related rates problems cannot be solved using calculus"], answer:2}
+   ]},
+  {subject:"Science", title:"Biology: Coevolution and Predator-Prey Adaptations", summary:"Grade 8 Science strand: coevolution occurs when two species influence each others evolution over time, often seen in predator-prey relationships where predators evolve better hunting adaptations while prey simultaneously evolve improved defenses.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What is coevolution?", options:["A process that only occurs in plants, never animals","A process where evolution stops entirely for both species","A process where a single species evolves with no outside influence","A process where two species influence each others evolution over time"], answer:3},
+     {q:"In a predator-prey relationship, what might predators evolve?", options:["Better hunting adaptations","Adaptations that make hunting impossible","A complete inability to move","No adaptations of any kind"], answer:0},
+     {q:"In a predator-prey relationship, what might prey evolve in response?", options:["A complete loss of all senses","Adaptations that attract more predators","Improved defenses against predators","No response of any kind"], answer:2},
+     {q:"Why is this evolutionary relationship often described as an ongoing arms race?", options:["The relationship between predator and prey never involves any change","Improvements in one species often drive further adaptations in the other over time","Only predators are capable of evolving new adaptations","Neither species ever changes in response to the other"], answer:1},
+     {q:"Why is coevolution considered an important concept in ecology?", options:["Coevolution only applies to species that never interact","It proves that species never adapt to their environment","It has no connection to how species interact with one another","It helps explain how closely interacting species continue to shape each others survival strategies over time"], answer:3}
+   ]},
+  {subject:"History", title:"The Bank of Canada Act and the Creation of Canadas Central Bank", summary:"Grade 8 History strand: passed in 1934, the Bank of Canada Act created the Bank of Canada, the countrys central bank, giving the federal government a formal tool to manage the national currency and monetary policy for the first time.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"In what year was the Bank of Canada Act passed?", options:["1911","1934","1867","1949"], answer:1},
+     {q:"What institution did the Bank of Canada Act create?", options:["The Royal Canadian Mounted Police","The Supreme Court of Canada","The Canadian National Railway","The Bank of Canada, the countrys central bank"], answer:3},
+     {q:"What new formal tool did the federal government gain as a result of the Bank of Canada Act?", options:["The power to appoint provincial premiers","Control over all provincial school systems","Authority over international shipping routes","A means to manage the national currency and monetary policy"], answer:3},
+     {q:"Why might the Great Depression have encouraged the creation of a central bank?", options:["A central bank was created decades before the Great Depression began","Economic stability during the Depression removed any need for a central bank","The Great Depression had no connection to Canadas banking system","Economic instability highlighted the need for more coordinated national monetary management"], answer:3},
+     {q:"Why is the creation of the Bank of Canada considered a significant milestone in Canadian economic history?", options:["It had no lasting impact on Canadas economy","It transferred control of Canadian currency to another country","It gave Canada its own institution to oversee monetary policy rather than relying on other mechanisms","It ended all banking activity in Canada permanently"], answer:2}
+   ]},
+]},
+{day:160, label:"Day 160 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Vocabulary, and Literary Analysis (Days 151-159)", summary:"Grade 8 Language strand review: students revisit inverted sentence structure, slang and generational language, static and dynamic characters, the problem-solution essay, and parody and pastiche.",
+   resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   quiz:[
+     {q:"What does inverted sentence structure reverse?", options:["The usual subject-verb order","The meaning of every word in a sentence","The spelling of a word","The tense of a verb only"], answer:0},
+     {q:"What is slang?", options:["A formal citation style used in academic writing","A punctuation mark used to end a question","Informal vocabulary that develops within a particular group or generation","A grammatical rule about verb tense"], answer:2},
+     {q:"What defines a dynamic character?", options:["A character who has no personality traits at all","A character who undergoes significant internal change during a story","A character who appears in only one sentence","A character who is identical to every other character"], answer:1},
+     {q:"What does a problem-solution essay identify?", options:["A specific issue along with its causes and effects","A random collection of unrelated topics","A single sentence with no supporting explanation","A list of characters from a novel"], answer:0},
+     {q:"How does pastiche differ from parody?", options:["Pastiche always mocks the original work more harshly than parody","Pastiche never imitates another authors style","There is no difference between pastiche and parody","Pastiche imitates a style out of admiration rather than mockery"], answer:3}
+   ]},
+  {subject:"Math", title:"Math Review: Statistics, Algebra, and Number Theory (Days 151-159)", summary:"Grade 8 Math strand review: students revisit the Central Limit Theorem, the Euclidean Algorithm, function composition, Markov chains, and Simpsons Paradox.",
+   resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   quiz:[
+     {q:"What does the Central Limit Theorem describe?", options:["How to calculate the area of a triangle","A rule for rounding decimals","How the distribution of sample means tends toward a normal distribution as sample size grows","A method for factoring polynomials"], answer:2},
+     {q:"What does the Euclidean Algorithm find?", options:["The square root of a number","The average of two integers","The greatest common divisor of two integers","The least common multiple of two integers only"], answer:2},
+     {q:"What does function composition do?", options:["Deletes one function entirely","Removes all variables from a function","Converts a function into a single number with no variables","Combines two functions by applying one to the result of another"], answer:3},
+     {q:"In a Markov chain, what does the probability of the next state depend on?", options:["Nothing at all, since the process is entirely undefined","Only the current state","Every state that has ever occurred in the past","A state that has not yet been defined"], answer:1},
+     {q:"What is Simpsons Paradox?", options:["A method for rounding decimal numbers","A rule that always guarantees accurate statistical conclusions","A law describing how probabilities always increase over time","A trend that appears in separate groups but disappears or reverses when combined"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Chemistry, Earth Science, and Space Science (Days 151-159)", summary:"Grade 8 Science strand review: students revisit electrolysis and electroplating, static electricity, ocean currents and thermohaline circulation, the structure of the Milky Way, and catalysts and reaction rates.",
+   resourceLabel:"TVO Learn: Grade 8 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   quiz:[
+     {q:"What does electrolysis use to drive a chemical reaction?", options:["A magnetic field only","An electric current","Sound waves","A change in air pressure"], answer:1},
+     {q:"What is the transfer of electrons through rubbing known as?", options:["The triboelectric effect","The photoelectric effect","Nuclear fission","Electromagnetic induction"], answer:0},
+     {q:"What is thermohaline circulation?", options:["A fast-moving surface current found only near the equator","A process that only occurs in freshwater lakes","A deep, slow-moving global conveyor of ocean water driven by temperature and salinity differences","A current caused entirely by tides alone"], answer:2},
+     {q:"What type of galaxy is the Milky Way?", options:["A galaxy made entirely of comets","A large spiral galaxy","A galaxy with no defined shape","A small, perfectly spherical galaxy"], answer:1},
+     {q:"What does a catalyst do to a chemical reaction?", options:["Permanently disappears after a single use","Has no measurable effect on the reaction","Always stops the reaction from occurring","Increases its rate without being permanently consumed"], answer:3}
+   ]},
+  {subject:"History", title:"History Review: Depression-Era Politics and Social Reform (Days 151-159)", summary:"Grade 8 History strand review: students revisit Agnes Macphail, the 1918 Spanish Flu pandemic, the Rowell-Sirois Commission, the Old Age Pensions Act of 1927, and the Bank of Canada Act.",
+   resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-history",
+   quiz:[
+     {q:"What distinction did Agnes Macphail hold as a member of Parliament?", options:["She was the first woman appointed to the Senate","She was the first prime minister of Canada","She was the first woman elected to the Canadian House of Commons","She was the first woman to serve as a provincial premier"], answer:2},
+     {q:"What is the 1918 influenza pandemic commonly known as?", options:["The Black Death","The Spanish Flu","The Great Fever","The Asian Flu"], answer:1},
+     {q:"What relationship did the Rowell-Sirois Commission examine?", options:["The relationship between Canada and France","Canadas relationship with the United Nations","The structure of Canadas court system","The financial relationship between the federal and provincial governments"], answer:3},
+     {q:"What did the Old Age Pensions Act establish?", options:["A tax exclusively for young workers","A shared federal-provincial pension for eligible older Canadians","A ban on all provincial pensions","A new national railway system"], answer:1},
+     {q:"What institution did the Bank of Canada Act create?", options:["The Supreme Court of Canada","The Canadian National Railway","The Royal Canadian Mounted Police","The Bank of Canada, the countrys central bank"], answer:3}
+   ]},
+]},
 ];
 
 export default curriculum;
