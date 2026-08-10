@@ -2050,6 +2050,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Climate Change Policy and International Agreements", summary:"Ontario Grade 7 Social Studies People and Environments strand: countries often work together through international agreements to address climate change, setting shared goals for reducing greenhouse gas emissions and supporting sustainable development.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Z5YvjG4lTpQ",
    quiz:[
      {q:"International agreements on climate change often aim to ___.", options:["Prevent any country from taking environmental action","Set shared goals for reducing greenhouse gas emissions","Ignore the causes of climate change completely","Increase greenhouse gas emissions worldwide"], answer:1},
      {q:"Why might countries choose to cooperate through international climate agreements?", options:["Climate change is a global issue requiring coordinated international action","Countries never need to work together on environmental policy","Climate change only affects a single country","International cooperation provides no benefit for environmental issues"], answer:0},

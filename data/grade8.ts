@@ -2008,6 +2008,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Employment Equity Act and Workplace Rights", summary:"Grade 8 History strand: the Employment Equity Act, passed in 1986, aimed to address workplace discrimination and promote equal opportunity for underrepresented groups, including women, Indigenous peoples, and people with disabilities.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=vBC_AWfK0G0",
    quiz:[
      {q:"The Employment Equity Act was passed in which year?", options:["1919","1986","2000","1945"], answer:1},
      {q:"The Employment Equity Act aimed to address ___.", options:["The elimination of all workplace regulations","Workplace discrimination and promote equal opportunity","No issues related to employment","A topic unrelated to Canadian workplaces"], answer:1},
@@ -2019,6 +2020,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Writing: The Personal Manifesto", summary:"Grade 8 Writing strand: a personal manifesto expresses a writer’s core beliefs and values, often written with a strong, declarative voice to clearly communicate what the writer stands for.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=xOETuf1699Y",
    quiz:[
      {q:"A personal manifesto is meant to express a writer’s ___.", options:["Someone else’s beliefs and values","Core beliefs and values","A completely unrelated topic","A summary of unrelated facts"], answer:1},
      {q:"A manifesto is often written with a ___ voice.", options:["Strong, declarative","A voice with no connection to the writer","Completely neutral with no personal viewpoint","Extremely vague and uncertain"], answer:0},
@@ -2028,6 +2030,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Complex Fractions and Rational Expressions", summary:"Grade 8 Number strand (pre-high-school extension): a complex fraction contains a fraction within its numerator, denominator, or both, and simplifying it often involves rewriting it as a division problem.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=0Gq3uw2p6fA",
    quiz:[
      {q:"A complex fraction is one that contains ___.", options:["A single digit with no fraction involved","A fraction within its numerator, denominator, or both","No numerical values of any kind","Only whole numbers with no fractions at all"], answer:1},
      {q:"Simplifying a complex fraction often involves rewriting it as a ___ problem.", options:["A problem unrelated to fractions","Division","Addition only","Subtraction only"], answer:1},
@@ -2037,6 +2040,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Physics of Sound and Acoustics", summary:"Grade 8 Science Matter and Energy strand: acoustics is the study of how sound behaves in different environments, including how it reflects, absorbs, and travels, which is important for designing spaces like concert halls.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=qV4lR9EWGlY",
    quiz:[
      {q:"Acoustics is the study of ___.", options:["How sound behaves in different environments","The movement of tectonic plates","The structure of rocks","How light travels through space"], answer:0},
      {q:"Sound waves can ___ when they encounter different surfaces.", options:["Reflect or be absorbed","Turn into light waves","Never interact with surfaces at all","Always disappear completely"], answer:0},
@@ -2046,6 +2050,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Same-Sex Marriage Legalization in Canada", summary:"Grade 8 History strand: Canada legalized same-sex marriage nationwide in 2005, becoming one of the first countries in the world to do so, following a series of court decisions and public advocacy.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=6xQS2QYyXxE",
    quiz:[
      {q:"Canada legalized same-sex marriage nationwide in which year?", options:["1982","2005","2000","2015"], answer:1},
      {q:"Canada was among ___ countries in the world to legalize same-sex marriage nationwide.", options:["The last","One with no historical significance regarding this topic","The first","A country with no connection to this issue"], answer:2},

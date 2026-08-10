@@ -2022,6 +2022,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"English", title:"Writing: Satire and Social Critique", summary:"Grade 10 English strand: satire uses humour, irony, or exaggeration to criticize and expose flaws in individuals, institutions, or society, often with the goal of encouraging change or reflection.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=fGWNRqsVSrg",
    quiz:[
      {q:"Satire uses humour, irony, or exaggeration to ___.", options:["Praise institutions with no critical perspective at all","Avoid any critical commentary on society","Focus only on entertainment with no deeper purpose","Criticize and expose flaws in individuals, institutions, or society"], answer:3},
      {q:"Why might a writer choose satire instead of a direct, serious critique?", options:["A direct, serious critique is always more effective than satire","Humour and exaggeration can make a critique more engaging while still delivering a serious message","Satire always removes any meaningful message from a critique","Satire has no connection to social or political commentary"], answer:1},
@@ -2049,6 +2050,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Canada’s Response to Global Refugee Crises", summary:"Grade 10 History strand: Canada has responded to various global refugee crises over recent decades by resettling refugees, reflecting the country’s evolving role in international humanitarian efforts.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=TPpXcv_CFBE",
    quiz:[
      {q:"Canada has responded to global refugee crises largely through ___.", options:["Resettling refugees","Refusing to accept any refugees under any circumstances","A response entirely unrelated to refugees","Ignoring international humanitarian concerns"], answer:0},
      {q:"Canada’s responses to refugee crises reflect its role in ___.", options:["Only domestic policy, with no international connection","A topic entirely unrelated to global cooperation","International humanitarian efforts","An area with no historical significance"], answer:2},

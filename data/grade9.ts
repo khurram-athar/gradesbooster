@@ -2020,6 +2020,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Writing: Writing a Monologue", summary:"Grade 9 Writing strand: a monologue is an extended speech delivered by a single character, often revealing their inner thoughts, motivations, or emotional state to the audience.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=81iEct_pqzM",
    quiz:[
      {q:"A monologue is best described as ___.", options:["A summary of an entire play’s plot","A conversation between multiple characters","A written description of a setting only","An extended speech delivered by a single character"], answer:3},
      {q:"A monologue often reveals a character’s ___.", options:["The setting of the story, with no connection to character","Physical appearance only, with no connection to thoughts or feelings","Inner thoughts, motivations, or emotional state","Name and age only"], answer:2},
@@ -2029,6 +2030,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Precision, Accuracy, and Error in Measurement", summary:"Grade 9 Measurement strand: precision refers to how consistent repeated measurements are, accuracy refers to how close a measurement is to the true value, and error describes the difference between a measured and true value.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=hRAFPdDppzs",
    quiz:[
      {q:"Precision in measurement refers to ___.", options:["How consistent repeated measurements are with each other","A measurement with no connection to consistency","How close a measurement is to the true value","The exact colour of a measured object"], answer:0},
      {q:"Accuracy in measurement refers to ___.", options:["A concept unrelated to true values","How consistent repeated measurements are with each other","How close a measurement is to the true value","Only the units used in a measurement"], answer:2},
@@ -2038,6 +2040,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Population Ecology: Growth Models", summary:"Grade 9 Science Biology strand: population ecology studies how populations change over time, using models such as exponential growth, which assumes unlimited resources, and logistic growth, which accounts for environmental limits.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=XMHa9doUd1c",
    quiz:[
      {q:"Population ecology studies how ___ change over time.", options:["Only individual organisms, with no connection to populations","Only non-living systems","A concept unrelated to biology","Populations of organisms"], answer:3},
      {q:"Exponential growth models assume ___.", options:["Resources are always extremely limited","Unlimited resources are available","No population growth occurs at all","A concept unrelated to population size"], answer:1},
@@ -2047,6 +2050,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Regional Integration: Case Studies", summary:"Grade 9 Social Studies (Geography) strand: regional integration occurs when countries in a geographic area, such as through the European Union or ASEAN, cooperate closely on economic and political matters.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=WAnfj8v5acM",
    quiz:[
      {q:"Regional integration involves countries in a geographic area cooperating closely on ___.", options:["No shared matters of any kind","Only unrelated cultural traditions","A concept unrelated to international relationships","Economic and political matters"], answer:3},
      {q:"Which is an example of a regional integration organization?", options:["An organization unrelated to regional cooperation","The European Union","A single, isolated country with no connections to others","A concept that has never actually existed"], answer:1},
