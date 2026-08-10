@@ -47406,5 +47406,3336 @@
         ]
       }
     ]
+  },
+  {
+    "day": 151,
+    "label": "Day 151 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -ut Words",
+        "summary": "Kindergarten Language strand: the -ut word family shares the same ending sound, as in but, cut, hut, and nut.",
+        "resourceLabel": "YouTube: Word Families: -ut Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-ut%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -ut family?",
+            "options": [
+              "Nut",
+              "Top",
+              "Bed",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word rhymes with hut?",
+            "options": [
+              "Sock",
+              "Nut",
+              "Sit",
+              "Sad"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word does NOT belong to the -ut family?",
+            "options": [
+              "Hut",
+              "Cut",
+              "Net",
+              "Nut"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Complete the rhyme: A squirrel likes to eat a ___.",
+            "options": [
+              "net",
+              "nut",
+              "nod",
+              "nap"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Words in the same word family share the same ___.",
+            "options": [
+              "Ending sound",
+              "Colour",
+              "First letter",
+              "Meaning"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a word that rhymes with cut.",
+            "answers": [
+              "but",
+              "hut",
+              "nut"
+            ]
+          },
+          {
+            "prompt": "What ending sound do hut and nut share?",
+            "answers": [
+              "ut",
+              "the ut sound"
+            ]
+          },
+          {
+            "prompt": "Is shut part of the -ut family?",
+            "answers": [
+              "yes",
+              "yes it is"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Bonds: Ways to Make 12",
+        "summary": "Kindergarten Math strand: students find different pairs of numbers that add together to make 12, such as 7 and 5, or 9 and 3.",
+        "resourceLabel": "YouTube: Number Bonds: Ways to Make 12",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%2012%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which pair of numbers makes 12?",
+            "options": [
+              "5 and 5",
+              "7 and 5",
+              "4 and 4",
+              "3 and 3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 10 + 2?",
+            "options": [
+              "13",
+              "11",
+              "12",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 8 + 4?",
+            "options": [
+              "12",
+              "11",
+              "13",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If one part of 12 is 9, the other part is ___.",
+            "options": [
+              "5",
+              "2",
+              "3",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Number bonds show us different ways to make the same ___.",
+            "options": [
+              "Colour",
+              "Letter",
+              "Total",
+              "Shape"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name two numbers that add up to 12.",
+            "answers": [
+              "7 and 5",
+              "9 and 3"
+            ]
+          },
+          {
+            "prompt": "What is 10 plus 2?",
+            "answers": [
+              "12",
+              "twelve"
+            ]
+          },
+          {
+            "prompt": "How many ways can you make 12 with two numbers?",
+            "answers": [
+              "many ways",
+              "several ways"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Summer Season",
+        "summary": "Kindergarten Science strand: summer is a warm season with long sunny days, when many plants grow, flowers bloom, and children can play outside for a long time.",
+        "resourceLabel": "YouTube: Summer Season",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Summer%20Season%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is summer weather usually like?",
+            "options": [
+              "Cold and snowy",
+              "Very windy only",
+              "Always rainy",
+              "Warm and sunny"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which activity is common in summer?",
+            "options": [
+              "Wearing a heavy winter coat",
+              "Building a snowman",
+              "Swimming outside",
+              "Raking fallen leaves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to many plants during the summer?",
+            "options": [
+              "They disappear",
+              "They grow and bloom",
+              "They turn to ice",
+              "They stop growing completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which season usually comes right before summer?",
+            "options": [
+              "Autumn",
+              "Spring",
+              "There is no season before summer",
+              "Winter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Summer days are often ___ than winter days.",
+            "options": [
+              "Longer and sunnier",
+              "Always rainy",
+              "Shorter and darker",
+              "Exactly the same"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the weather usually like in summer?",
+            "answers": [
+              "warm",
+              "warm and sunny"
+            ]
+          },
+          {
+            "prompt": "Name one thing you might do outside in summer.",
+            "answers": [
+              "swim",
+              "play outside"
+            ]
+          },
+          {
+            "prompt": "What happens to many plants in summer?",
+            "answers": [
+              "they grow",
+              "they grow and bloom"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Paramedics: Helping in an Emergency",
+        "summary": "Kindergarten Social Studies strand: paramedics are trained helpers who quickly come to give medical care when someone is hurt or very sick.",
+        "resourceLabel": "YouTube: Our Paramedics: Helping in an Emergency",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Paramedics%3A%20Helping%20in%20an%20Emergency%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a paramedic?",
+            "options": [
+              "Giving medical help in an emergency",
+              "Cooking food",
+              "Building houses",
+              "Teaching math"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What vehicle do paramedics usually use to reach people quickly?",
+            "options": [
+              "A bicycle",
+              "A sailboat",
+              "A school bus",
+              "An ambulance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do paramedics need to arrive quickly in an emergency?",
+            "options": [
+              "Speed does not matter at all",
+              "To avoid helping anyone",
+              "Because they are always late",
+              "To give medical help as soon as possible"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number can be called to ask for a paramedic in Canada?",
+            "options": [
+              "123",
+              "911",
+              "555",
+              "000"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Paramedics are trained to help people who are ___.",
+            "options": [
+              "Cooking dinner",
+              "Hurt or very sick",
+              "Reading a book",
+              "Playing a game"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do paramedics help with?",
+            "answers": [
+              "medical emergencies",
+              "helping people who are hurt or sick"
+            ]
+          },
+          {
+            "prompt": "What vehicle do paramedics often drive?",
+            "answers": [
+              "an ambulance",
+              "ambulance"
+            ]
+          },
+          {
+            "prompt": "Why is it important to call for help quickly in an emergency?",
+            "answers": [
+              "so paramedics can help fast",
+              "to get help right away"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "label": "Day 152 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Families: -un Words",
+        "summary": "Kindergarten Language strand: the -un word family shares the same ending sound, as in run, fun, sun, and bun.",
+        "resourceLabel": "YouTube: Word Families: -un Words",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-un%20Words%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -un family?",
+            "options": [
+              "Bed",
+              "Top",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word rhymes with fun?",
+            "options": [
+              "Sock",
+              "Sit",
+              "Sad",
+              "Run"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word does NOT belong to the -un family?",
+            "options": [
+              "Run",
+              "Fun",
+              "Sun",
+              "Fin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Complete the rhyme: We like to play out in the ___.",
+            "options": [
+              "set",
+              "sun",
+              "sat",
+              "sit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Recognizing word families helps us read new words that share the same ___.",
+            "options": [
+              "Colour",
+              "Number of letters",
+              "Meaning",
+              "Ending sound"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a word that rhymes with run.",
+            "answers": [
+              "fun",
+              "sun",
+              "bun"
+            ]
+          },
+          {
+            "prompt": "What ending sound do fun and sun share?",
+            "answers": [
+              "un",
+              "the un sound"
+            ]
+          },
+          {
+            "prompt": "Is spun part of the -un family?",
+            "answers": [
+              "yes",
+              "yes it is"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 6s to 60",
+        "summary": "Kindergarten Math strand: students skip count by 6s, saying 6, 12, 18, 24, and continuing on up to 60.",
+        "resourceLabel": "YouTube: Skip Counting by 6s to 60",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%206s%20to%2060%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What comes next: 6, 12, 18, ___?",
+            "options": [
+              "22",
+              "24",
+              "20",
+              "19"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What comes next: 24, 30, 36, ___?",
+            "options": [
+              "48",
+              "40",
+              "42",
+              "37"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When skip counting by 6s, what number comes after 42?",
+            "options": [
+              "43",
+              "44",
+              "46",
+              "48"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip counting by 6s means we add ___ each time.",
+            "options": [
+              "4",
+              "8",
+              "6",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which list correctly skip counts by 6s?",
+            "options": [
+              "6, 12, 20, 24",
+              "6, 12, 18, 24",
+              "6, 8, 10, 12",
+              "6, 10, 16, 24"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes after 6, 12, 18?",
+            "answers": [
+              "24",
+              "twenty four"
+            ]
+          },
+          {
+            "prompt": "Skip count by 6s from 6 to 30.",
+            "answers": [
+              "6,12,18,24,30",
+              "6 12 18 24 30"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 60 when skip counting by 6s?",
+            "answers": [
+              "54",
+              "fifty four"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Life Cycle of a Salmon: Egg to Adult",
+        "summary": "Kindergarten Science strand: a salmon begins life as an egg in a river, hatches and grows in fresh water, swims out to the ocean, and later returns to the river to lay its own eggs.",
+        "resourceLabel": "YouTube: Life Cycle of a Salmon: Egg to Adult",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Salmon%3A%20Egg%20to%20Adult%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Where does a salmon life cycle begin?",
+            "options": [
+              "As an adult in the ocean",
+              "As an egg in the desert",
+              "As an egg in a river",
+              "As an egg on a mountain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does a young salmon swim to as it grows?",
+            "options": [
+              "A cave",
+              "A dry field",
+              "The sky",
+              "The ocean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does an adult salmon return to lay its eggs?",
+            "options": [
+              "Nowhere, it stays in the ocean",
+              "To a desert",
+              "Back to the river where it hatched",
+              "To a forest"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A salmon spends part of its life in fresh water and part in ___.",
+            "options": [
+              "A cave",
+              "Salt water in the ocean",
+              "The sky",
+              "A tree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The salmon life cycle is an example of an animal that ___.",
+            "options": [
+              "Never moves at all",
+              "Lives only on land",
+              "Lives only in the desert",
+              "Travels between two kinds of homes"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where does a salmon begin its life?",
+            "answers": [
+              "as an egg in a river",
+              "in a river"
+            ]
+          },
+          {
+            "prompt": "Where does a salmon travel to grow bigger?",
+            "answers": [
+              "the ocean",
+              "out to the ocean"
+            ]
+          },
+          {
+            "prompt": "Where does an adult salmon return to lay eggs?",
+            "answers": [
+              "the river",
+              "back to the river"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Optometrist: Checking Our Eyes",
+        "summary": "Kindergarten Social Studies strand: an optometrist is a doctor who checks our eyes to make sure we can see clearly and helps us get glasses if we need them.",
+        "resourceLabel": "YouTube: Our Optometrist: Checking Our Eyes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Optometrist%3A%20Checking%20Our%20Eyes%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does an optometrist mainly check?",
+            "options": [
+              "Our teeth",
+              "Our eyes and vision",
+              "Our height",
+              "Our hearing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might an optometrist give a person who has trouble seeing clearly?",
+            "options": [
+              "A toothbrush",
+              "Glasses",
+              "A bandage",
+              "A cast"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to have our eyes checked?",
+            "options": [
+              "It has no benefit at all",
+              "Only adults have eyes",
+              "To make sure we can see clearly and our eyes are healthy",
+              "Eyes never need to be checked"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might you visit to see an optometrist?",
+            "options": [
+              "An eye clinic or office",
+              "A grocery store",
+              "A fire station",
+              "A bakery"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "An optometrist helps people by testing how well they can ___.",
+            "options": [
+              "See",
+              "Taste",
+              "Smell",
+              "Hear"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does an optometrist check?",
+            "answers": [
+              "our eyes",
+              "how well we see"
+            ]
+          },
+          {
+            "prompt": "What might an optometrist give us if we need help seeing?",
+            "answers": [
+              "glasses",
+              "a pair of glasses"
+            ]
+          },
+          {
+            "prompt": "Why is it helpful to visit an optometrist?",
+            "answers": [
+              "to make sure our eyes are healthy",
+              "to check if we see clearly"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "label": "Day 153 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Suffixes: Adding -less to Change Meaning",
+        "summary": "Kindergarten Language strand: adding the suffix -less to the end of a word can mean without something, such as changing care into careless, meaning without care.",
+        "resourceLabel": "YouTube: Suffixes: Adding -less to Change Meaning",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-less%20to%20Change%20Meaning%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does the word careless mean?",
+            "options": [
+              "Full of care",
+              "Without care, not careful",
+              "Very happy",
+              "Very sleepy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the suffix -less usually add to the meaning of a word?",
+            "options": [
+              "Without something",
+              "A number",
+              "A colour",
+              "Full of something"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word means without a home?",
+            "options": [
+              "Homeless",
+              "Homing",
+              "Unhome",
+              "Homeful"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Adding -less to the word hope makes the word ___.",
+            "options": [
+              "Hopeful",
+              "Rehope",
+              "Hopeless, meaning without hope",
+              "Hoping only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A suffix meaning without something is the opposite of a suffix meaning ___.",
+            "options": [
+              "A shape",
+              "Full of something",
+              "A place",
+              "A number"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does careless mean?",
+            "answers": [
+              "without care",
+              "not being careful"
+            ]
+          },
+          {
+            "prompt": "What does the suffix -less usually mean?",
+            "answers": [
+              "without",
+              "without something"
+            ]
+          },
+          {
+            "prompt": "Give an example of a word with the suffix -less.",
+            "answers": [
+              "careless",
+              "colourless"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ten Frames: Filling to Make Ten",
+        "summary": "Kindergarten Math strand: a ten frame is a simple grid of ten boxes that helps students see how many more counters are needed to make a full group of ten.",
+        "resourceLabel": "YouTube: Ten Frames: Filling to Make Ten",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ten%20Frames%3A%20Filling%20to%20Make%20Ten%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "How many boxes make up a full ten frame?",
+            "options": [
+              "10",
+              "5",
+              "8",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a ten frame shows 6 filled boxes, how many empty boxes are left?",
+            "options": [
+              "4",
+              "5",
+              "2",
+              "3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a ten frame shows 9 filled boxes, how many more are needed to make 10?",
+            "options": [
+              "2",
+              "3",
+              "1",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A ten frame helps students see numbers in relation to ___.",
+            "options": [
+              "Ten",
+              "Zero only",
+              "One thousand",
+              "One hundred"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which ten frame shows the number 10?",
+            "options": [
+              "A ten frame with all boxes filled",
+              "An empty page with no frame",
+              "A ten frame with half the boxes filled",
+              "A ten frame with no boxes filled"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many boxes are in a ten frame?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "If a ten frame has 7 counters, how many more are needed to fill it?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "Why is a ten frame a helpful tool?",
+            "answers": [
+              "it helps us see numbers up to ten",
+              "it shows how close a number is to ten"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ants: Small but Strong Workers",
+        "summary": "Kindergarten Science strand: ants are small insects that live and work together in large groups, called colonies, and can carry things much heavier than their own body.",
+        "resourceLabel": "YouTube: Ants: Small but Strong Workers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ants%3A%20Small%20but%20Strong%20Workers%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a large group of ants living together called?",
+            "options": [
+              "A herd",
+              "A pack",
+              "A colony",
+              "A flock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the strength of an ant compare to its own body size?",
+            "options": [
+              "An ant can only carry things smaller than a crumb",
+              "An ant is the weakest insect",
+              "An ant can carry much more than its own weight",
+              "An ant cannot carry anything at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do ants usually work alone or as a group?",
+            "options": [
+              "As a group",
+              "Only in pairs of two",
+              "They never move",
+              "Always alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is true about ants?",
+            "options": [
+              "They are insects that live in colonies",
+              "They only live underwater",
+              "They are mammals that live alone",
+              "They cannot walk on the ground"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ants working together to build a home shows they are good at ___.",
+            "options": [
+              "Singing",
+              "Swimming",
+              "Flying",
+              "Teamwork"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do we call a large group of ants living together?",
+            "answers": [
+              "a colony",
+              "an ant colony"
+            ]
+          },
+          {
+            "prompt": "How strong are ants compared to their size?",
+            "answers": [
+              "very strong",
+              "they can carry things heavier than themselves"
+            ]
+          },
+          {
+            "prompt": "Do ants usually work alone or together?",
+            "answers": [
+              "together",
+              "they work together"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Chefs and Cooks: Making the Food We Eat",
+        "summary": "Kindergarten Social Studies strand: chefs and cooks prepare and cook food for people to eat at restaurants, cafeterias, and other places in our community.",
+        "resourceLabel": "YouTube: Our Chefs and Cooks: Making the Food We Eat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Chefs%20and%20Cooks%3A%20Making%20the%20Food%20We%20Eat%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a chef or cook?",
+            "options": [
+              "Driving a bus",
+              "Teaching school",
+              "Preparing and cooking food",
+              "Fixing wires"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might a chef work?",
+            "options": [
+              "A library only",
+              "An airplane cockpit",
+              "A restaurant or cafeteria",
+              "A fire station"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the work of chefs and cooks important to a community?",
+            "options": [
+              "Food never needs to be cooked",
+              "Only families can make food",
+              "Cooking is not important",
+              "They prepare food that people need to eat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might a chef use to prepare food?",
+            "options": [
+              "A fire hose",
+              "A pot and a stove",
+              "A microscope",
+              "A stethoscope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Chefs and cooks help make sure people in a community have ___.",
+            "options": [
+              "Meals to eat",
+              "Clean water only",
+              "Safe roads",
+              "A place to sleep"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do chefs and cooks make?",
+            "answers": [
+              "food",
+              "meals for people to eat"
+            ]
+          },
+          {
+            "prompt": "Name one place a chef might work.",
+            "answers": [
+              "a restaurant",
+              "a cafeteria"
+            ]
+          },
+          {
+            "prompt": "Why is a chefs job important?",
+            "answers": [
+              "they make food for people to eat",
+              "they help feed our community"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "label": "Day 154 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Prefixes: Adding Pre- to Change Meaning",
+        "summary": "Kindergarten Language strand: adding the prefix pre- to the start of a word can mean before, such as changing view into preview, meaning to see before.",
+        "resourceLabel": "YouTube: Prefixes: Adding Pre- to Change Meaning",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Pre-%20to%20Change%20Meaning%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does the word preview mean?",
+            "options": [
+              "To never see something",
+              "To see something after it happens",
+              "To hear something loudly",
+              "To see something before it happens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the prefix pre- usually add to a word?",
+            "options": [
+              "The meaning of again",
+              "A number",
+              "The meaning of before",
+              "A colour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word means to heat something before cooking?",
+            "options": [
+              "Unheat",
+              "Postheat",
+              "Heating only",
+              "Preheat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Adding pre- to the word school makes the word ___.",
+            "options": [
+              "Preschool, meaning before school",
+              "Unschool",
+              "Postschool",
+              "Schooling only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A prefix is added to the ___ of a word.",
+            "options": [
+              "End",
+              "Nowhere",
+              "Beginning",
+              "Middle"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does preview mean?",
+            "answers": [
+              "to see before",
+              "look at something before"
+            ]
+          },
+          {
+            "prompt": "What does the prefix pre- usually mean?",
+            "answers": [
+              "before",
+              "to come before"
+            ]
+          },
+          {
+            "prompt": "Give an example of a word with the prefix pre-.",
+            "answers": [
+              "preview",
+              "preheat"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Numbers Before and After: What Comes Next",
+        "summary": "Kindergarten Math strand: students identify the number that comes right before or right after a given number, such as knowing that 8 comes right before 9 and 10 comes right after 9.",
+        "resourceLabel": "YouTube: Numbers Before and After: What Comes Next",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20Before%20and%20After%3A%20What%20Comes%20Next%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 9?",
+            "options": [
+              "8",
+              "11",
+              "9",
+              "10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number comes right before 15?",
+            "options": [
+              "13",
+              "14",
+              "17",
+              "16"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right after 19?",
+            "options": [
+              "20",
+              "21",
+              "18",
+              "29"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Knowing what comes before and after a number helps us with ___.",
+            "options": [
+              "Colours",
+              "Letters",
+              "Shapes",
+              "Counting and number order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number comes right before 1?",
+            "options": [
+              "10",
+              "0",
+              "There is none",
+              "2"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 9?",
+            "answers": [
+              "10",
+              "ten"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 9?",
+            "answers": [
+              "8",
+              "eight"
+            ]
+          },
+          {
+            "prompt": "Why is it helpful to know what comes before and after a number?",
+            "answers": [
+              "it helps us count and order numbers",
+              "it helps with counting"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Kangaroos: Animals with Pouches",
+        "summary": "Kindergarten Science strand: a kangaroo is an animal from Australia that carries its baby, called a joey, in a special pouch on its belly.",
+        "resourceLabel": "YouTube: Kangaroos: Animals with Pouches",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Kangaroos%3A%20Animals%20with%20Pouches%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a baby kangaroo called?",
+            "options": [
+              "A kit",
+              "A joey",
+              "A calf",
+              "A cub"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does a mother kangaroo keep her baby?",
+            "options": [
+              "In a pouch on her belly",
+              "Under a rock",
+              "In a nest",
+              "On her back"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where are kangaroos mostly found living in the wild?",
+            "options": [
+              "The ocean",
+              "The Arctic",
+              "Canada",
+              "Australia"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do kangaroos usually move around?",
+            "options": [
+              "By crawling on their bellies",
+              "By swimming only",
+              "By hopping on strong back legs",
+              "By flying"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An animal that carries its baby in a pouch is called a ___.",
+            "options": [
+              "Marsupial",
+              "Reptile",
+              "Amphibian",
+              "Insect"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a baby kangaroo called?",
+            "answers": [
+              "a joey",
+              "joey"
+            ]
+          },
+          {
+            "prompt": "Where does a mother kangaroo carry her baby?",
+            "answers": [
+              "in her pouch",
+              "a pouch on her belly"
+            ]
+          },
+          {
+            "prompt": "What country are kangaroos mostly found in?",
+            "answers": [
+              "Australia",
+              "in Australia"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Saving and Spending: Making Choices with Money",
+        "summary": "Kindergarten Social Studies strand: people make choices about money, deciding whether to spend it on something they want now or save it for something later.",
+        "resourceLabel": "YouTube: Saving and Spending: Making Choices with Money",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Saving%20and%20Spending%3A%20Making%20Choices%20with%20Money%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does it mean to save money?",
+            "options": [
+              "Keep it instead of spending it right away",
+              "Throw it away",
+              "Give it away for free",
+              "Hide it forever with no plan"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean to spend money?",
+            "options": [
+              "Use it to buy something",
+              "Bury it in the ground",
+              "Give it back automatically",
+              "Never use it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a person choose to save money?",
+            "options": [
+              "To buy something bigger later",
+              "Money can never be saved",
+              "To make it disappear",
+              "Saving has no purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of saving money?",
+            "options": [
+              "Putting coins into a piggy bank",
+              "Giving all money away",
+              "Losing money on purpose",
+              "Spending every coin right away"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Making choices about money helps people plan for ___.",
+            "options": [
+              "Nothing at all",
+              "Only today",
+              "Only their friends",
+              "The future"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does it mean to save money?",
+            "answers": [
+              "keep it for later",
+              "not spend it right away"
+            ]
+          },
+          {
+            "prompt": "What does it mean to spend money?",
+            "answers": [
+              "use it to buy something",
+              "trade it for something you want"
+            ]
+          },
+          {
+            "prompt": "Why might someone choose to save money instead of spending it?",
+            "answers": [
+              "to buy something bigger later",
+              "for something they want in the future"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "label": "Day 155 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vowel Teams: oa and ea",
+        "summary": "Kindergarten Language strand: the letters oa and ea can team up to make one vowel sound, as in boat and read.",
+        "resourceLabel": "YouTube: Vowel Teams: oa and ea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20oa%20and%20ea%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the oa vowel team?",
+            "options": [
+              "But",
+              "Boat",
+              "Bat",
+              "Bit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the ea vowel team?",
+            "options": [
+              "Rod",
+              "Rid",
+              "Read",
+              "Red"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What sound do the letters oa usually make together?",
+            "options": [
+              "A long i sound",
+              "A long o sound",
+              "A short a sound",
+              "A silent sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words has the ea vowel team?",
+            "options": [
+              "Tin",
+              "Team",
+              "Ten",
+              "Ton"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When two vowels team up, they often make ___.",
+            "options": [
+              "Two separate sounds",
+              "No sound at all",
+              "A consonant sound",
+              "One vowel sound"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What sound do the letters oa make in the word boat?",
+            "answers": [
+              "long o sound",
+              "the long o sound"
+            ]
+          },
+          {
+            "prompt": "What sound do the letters ea make in the word read?",
+            "answers": [
+              "long e sound",
+              "the long e sound"
+            ]
+          },
+          {
+            "prompt": "Give another word that has the oa vowel team.",
+            "answers": [
+              "coat",
+              "road"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Halving: Splitting a Group into Two Equal Parts",
+        "summary": "Kindergarten Math strand: halving means splitting a group of objects into two equal parts, such as splitting 8 counters into two groups of 4.",
+        "resourceLabel": "YouTube: Halving: Splitting a Group into Two Equal Parts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Halving%3A%20Splitting%20a%20Group%20into%20Two%20Equal%20Parts%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If you halve 8 objects, how many are in each equal group?",
+            "options": [
+              "3",
+              "5",
+              "2",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you halve 6 objects, how many are in each equal group?",
+            "options": [
+              "5",
+              "3",
+              "4",
+              "2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Halving a group means splitting it into ___ equal parts.",
+            "options": [
+              "One",
+              "Four",
+              "Two",
+              "Three"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you halve 12 objects, how many are in each equal group?",
+            "options": [
+              "5",
+              "4",
+              "7",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For halving to be fair, each of the two groups must be ___.",
+            "options": [
+              "Empty",
+              "Twice as big",
+              "Different sizes",
+              "The same size"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If you halve 8 counters, how many are in each group?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          },
+          {
+            "prompt": "If you halve 10 counters, how many are in each group?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "Why must the two groups be equal when halving?",
+            "answers": [
+              "so each part is fair",
+              "both parts should be the same size"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Sharks: Fish of the Deep Ocean",
+        "summary": "Kindergarten Science strand: sharks are a kind of fish with many sharp teeth, and they use their gills to breathe underwater like other fish.",
+        "resourceLabel": "YouTube: Sharks: Fish of the Deep Ocean",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Sharks%3A%20Fish%20of%20the%20Deep%20Ocean%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What kind of animal is a shark?",
+            "options": [
+              "A reptile",
+              "A mammal",
+              "A fish",
+              "An amphibian"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are sharks well known for having many of?",
+            "options": [
+              "Legs",
+              "Fur",
+              "Sharp teeth",
+              "Feathers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do sharks breathe underwater?",
+            "options": [
+              "Using a nose only",
+              "Using gills",
+              "Holding their breath",
+              "Using lungs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do sharks live?",
+            "options": [
+              "In trees",
+              "Underground",
+              "In the ocean",
+              "In the desert"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Sharks help keep the ocean healthy by eating ___.",
+            "options": [
+              "Nothing at all",
+              "Only plants",
+              "Weaker or sick fish",
+              "Rocks"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of animal is a shark?",
+            "answers": [
+              "a fish",
+              "a type of fish"
+            ]
+          },
+          {
+            "prompt": "What do sharks have many of in their mouths?",
+            "answers": [
+              "sharp teeth",
+              "teeth"
+            ]
+          },
+          {
+            "prompt": "What do sharks use to breathe underwater?",
+            "answers": [
+              "gills",
+              "their gills"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Earth Day: Caring for Our Planet",
+        "summary": "Kindergarten Social Studies strand: Earth Day is a special day when people around the world do things like pick up litter and plant trees to help take care of our planet.",
+        "resourceLabel": "YouTube: Earth Day: Caring for Our Planet",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earth%20Day%3A%20Caring%20for%20Our%20Planet%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the main purpose of Earth Day?",
+            "options": [
+              "To help take care of our planet",
+              "To celebrate a sports team",
+              "To stay home from school",
+              "To eat special food only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is something people might do to celebrate Earth Day?",
+            "options": [
+              "Litter more than usual",
+              "Plant a tree or pick up litter",
+              "Cut down every tree",
+              "Waste as much water as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is taking care of the earth important?",
+            "options": [
+              "The earth does not need any care",
+              "Only one country needs to help",
+              "It has no effect on anyone",
+              "So it stays healthy for people, animals, and plants"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Earth Day reminds us to think about how we treat ___.",
+            "options": [
+              "Nothing at all",
+              "Only our own house",
+              "Our planet",
+              "Only toys"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these actions helps the earth?",
+            "options": [
+              "Leaving trash on the ground",
+              "Wasting water",
+              "Recycling bottles and cans",
+              "Cutting down trees for no reason"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is Earth Day about?",
+            "answers": [
+              "taking care of our planet",
+              "helping the earth"
+            ]
+          },
+          {
+            "prompt": "Name one thing people might do on Earth Day.",
+            "answers": [
+              "pick up litter",
+              "plant a tree"
+            ]
+          },
+          {
+            "prompt": "Why is it important to take care of the earth?",
+            "answers": [
+              "so it stays healthy for everyone",
+              "to keep nature clean and safe"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "label": "Day 156 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "R-Controlled Vowels: er and ir",
+        "summary": "Kindergarten Language strand: when the letter r follows a vowel, it changes the vowel sound, as in the er sound in fern and the ir sound in bird.",
+        "resourceLabel": "YouTube: R-Controlled Vowels: er and ir",
+        "resourceUrl": "https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20er%20and%20ir%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word has the er sound?",
+            "options": [
+              "Fan",
+              "Fern",
+              "Fin",
+              "Fun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word has the ir sound?",
+            "options": [
+              "Bed",
+              "Bad",
+              "Bird",
+              "Bud"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to a vowel sound when it is followed by the letter r?",
+            "options": [
+              "The vowel sound changes",
+              "The vowel disappears completely",
+              "The vowel becomes silent",
+              "Nothing changes at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these words has an r-controlled vowel sound?",
+            "options": [
+              "Girl",
+              "Dog",
+              "Cat",
+              "Sun"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The er sound and the ir sound often sound ___ to each other.",
+            "options": [
+              "Very similar",
+              "Backwards",
+              "Completely different",
+              "Silent"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What sound do the letters er make in the word fern?",
+            "answers": [
+              "er sound",
+              "the er sound"
+            ]
+          },
+          {
+            "prompt": "What sound do the letters ir make in the word bird?",
+            "answers": [
+              "er sound",
+              "sounds like er"
+            ]
+          },
+          {
+            "prompt": "Give another word that has the ir sound.",
+            "answers": [
+              "girl",
+              "shirt"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Comparing Temperature with a Thermometer",
+        "summary": "Kindergarten Math strand: a thermometer is a tool that measures how hot or cold something is, and students compare readings to see which is warmer or cooler.",
+        "resourceLabel": "YouTube: Measurement: Comparing Temperature with a Thermometer",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Temperature%20with%20a%20Thermometer%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What tool is used to measure temperature?",
+            "options": [
+              "A clock",
+              "A ruler",
+              "A scale",
+              "A thermometer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If one thermometer reading is higher than another, which is warmer?",
+            "options": [
+              "Neither is warmer",
+              "The higher reading",
+              "The lower reading",
+              "They are always the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these would likely have a higher temperature reading?",
+            "options": [
+              "A freezer",
+              "A cup of hot soup",
+              "A bowl of ice",
+              "A snowbank"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A thermometer helps us compare how ___ different things are.",
+            "options": [
+              "Hot or cold",
+              "Long or short",
+              "Heavy or light",
+              "Loud or quiet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a very cold winter day, a thermometer reading would likely be ___.",
+            "options": [
+              "Low",
+              "High",
+              "Impossible to read",
+              "The same as summer"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What tool measures how hot or cold something is?",
+            "answers": [
+              "a thermometer",
+              "thermometer"
+            ]
+          },
+          {
+            "prompt": "If one reading is higher than another, which is warmer?",
+            "answers": [
+              "the higher reading",
+              "the one with the higher number"
+            ]
+          },
+          {
+            "prompt": "Name one place you might use a thermometer.",
+            "answers": [
+              "outside",
+              "to check if you are sick"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Our Stomach: Digesting the Food We Eat",
+        "summary": "Kindergarten Science strand: our stomach is a body part that mixes and breaks down the food we eat so our body can use it for energy.",
+        "resourceLabel": "YouTube: Our Stomach: Digesting the Food We Eat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Stomach%3A%20Digesting%20the%20Food%20We%20Eat%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of our stomach?",
+            "options": [
+              "Helping us see",
+              "Pumping blood",
+              "Mixing and breaking down food we eat",
+              "Helping us breathe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does our body need to digest food?",
+            "options": [
+              "To get energy and nutrients from it",
+              "To make food disappear with no use",
+              "Digesting food has no purpose",
+              "To make us feel sleepy only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where is the stomach located in the human body?",
+            "options": [
+              "In the foot",
+              "Inside the belly",
+              "In the ear",
+              "In the head"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "After food leaves the stomach, where does it go next in our body?",
+            "options": [
+              "Into the lungs",
+              "Into the intestines",
+              "Into the brain",
+              "Back out of the mouth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Taking care of what we eat helps our stomach and body stay ___.",
+            "options": [
+              "Healthy",
+              "Weak",
+              "Cold",
+              "Confused"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does our stomach do to the food we eat?",
+            "answers": [
+              "mixes and breaks it down",
+              "digests it"
+            ]
+          },
+          {
+            "prompt": "Why does our body need to digest food?",
+            "answers": [
+              "to get energy from it",
+              "so our body can use it"
+            ]
+          },
+          {
+            "prompt": "Where is the stomach located in our body?",
+            "answers": [
+              "inside our belly",
+              "in our belly"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Currency: Symbols on Our Coins and Bills",
+        "summary": "Kindergarten Social Studies strand: Canadian coins and bills have special pictures and symbols on them, like a loon on the dollar coin and a portrait on many bills.",
+        "resourceLabel": "YouTube: Canadian Currency: Symbols on Our Coins and Bills",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Currency%3A%20Symbols%20on%20Our%20Coins%20and%20Bills%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What word describes Canadian money like coins and bills?",
+            "options": [
+              "Symbol only",
+              "Anthem",
+              "Currency",
+              "Language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What bird appears on the Canadian one dollar coin?",
+            "options": [
+              "An eagle",
+              "A penguin",
+              "A loon",
+              "A robin"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do Canadian coins and bills often have special pictures?",
+            "options": [
+              "To confuse people",
+              "To show symbols important to Canada",
+              "Only for decoration with no meaning",
+              "Pictures are never used on money"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is found on Canadian currency?",
+            "options": [
+              "A portrait and national symbols",
+              "Random scribbles with no meaning",
+              "Nothing at all",
+              "Pictures from other countries only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Looking closely at coins and bills can teach us about ___.",
+            "options": [
+              "Nothing important",
+              "Canadian symbols and history",
+              "Only colours",
+              "Only numbers"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is another name for Canadian money?",
+            "answers": [
+              "currency",
+              "Canadian currency"
+            ]
+          },
+          {
+            "prompt": "What animal appears on the Canadian dollar coin?",
+            "answers": [
+              "a loon",
+              "loon"
+            ]
+          },
+          {
+            "prompt": "Why do coins and bills have pictures on them?",
+            "answers": [
+              "to show something important about Canada",
+              "special symbols and pictures"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "label": "Day 157 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Genre: Fairy Tales and Fables",
+        "summary": "Kindergarten Language strand: fairy tales are make-believe stories that often include magic, while fables are short stories with animal characters that teach a lesson.",
+        "resourceLabel": "YouTube: Story Genre: Fairy Tales and Fables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Genre%3A%20Fairy%20Tales%20and%20Fables%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What might a fairy tale often include?",
+            "options": [
+              "No characters at all",
+              "Only true facts",
+              "Only real people from history",
+              "Magic and make-believe events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do fables usually teach the reader?",
+            "options": [
+              "Only weather facts",
+              "Nothing at all",
+              "Only math facts",
+              "A lesson or moral"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of characters are common in fables?",
+            "options": [
+              "Only doctors",
+              "Only robots",
+              "Only weather",
+              "Talking animals"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a fairy tale element?",
+            "options": [
+              "A weather report",
+              "A math equation",
+              "A magic spell",
+              "A recipe"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Knowing a storys genre helps readers understand ___.",
+            "options": [
+              "Only the cover colour",
+              "What kind of story to expect",
+              "Only the page count",
+              "Nothing useful"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What might a fairy tale include?",
+            "answers": [
+              "magic",
+              "make-believe magic"
+            ]
+          },
+          {
+            "prompt": "What do fables usually teach?",
+            "answers": [
+              "a lesson",
+              "a moral or lesson"
+            ]
+          },
+          {
+            "prompt": "What kind of characters are often found in fables?",
+            "answers": [
+              "animals",
+              "talking animals"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Sorting and Counting a Collection",
+        "summary": "Kindergarten Math strand: students sort a collection of objects into groups by a shared attribute, like colour or shape, and count how many are in each group.",
+        "resourceLabel": "YouTube: Data: Sorting and Counting a Collection",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Sorting%20and%20Counting%20a%20Collection%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which of these is a way to sort a collection of objects?",
+            "options": [
+              "By colour",
+              "By randomly mixing them",
+              "By hiding them",
+              "By nothing at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After sorting a collection into groups, what should you do next?",
+            "options": [
+              "Ignore the groups",
+              "Mix them back together with no count",
+              "Count how many are in each group",
+              "Throw the groups away"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you sort a bag of blocks by shape, how many groups might you end up with?",
+            "options": [
+              "Only one group no matter what",
+              "A random unrelated number",
+              "Zero groups",
+              "One group for each different shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Sorting a collection before counting helps make counting ___.",
+            "options": [
+              "Impossible",
+              "Less accurate",
+              "Slower for no reason",
+              "Easier and more organized"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which attribute could you use to sort a pile of toy cars?",
+            "options": [
+              "Their taste",
+              "Their smell",
+              "Sound they make when silent",
+              "Colour"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name one way you could sort a collection of buttons.",
+            "answers": [
+              "by colour",
+              "by shape"
+            ]
+          },
+          {
+            "prompt": "If you sort buttons by colour, what do you do next?",
+            "answers": [
+              "count how many are in each group",
+              "count each group"
+            ]
+          },
+          {
+            "prompt": "Why do we sort a collection before counting it?",
+            "answers": [
+              "it makes counting easier",
+              "to organize it first"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Desert Habitats: Surviving the Heat",
+        "summary": "Kindergarten Science strand: a desert is a very dry habitat that gets little rain, and the plants and animals that live there have special ways to survive the heat and lack of water.",
+        "resourceLabel": "YouTube: Desert Habitats: Surviving the Heat",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Desert%20Habitats%3A%20Surviving%20the%20Heat%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What kind of habitat is a desert?",
+            "options": [
+              "Underwater",
+              "Very wet with lots of rain",
+              "Covered in ice and snow",
+              "Very dry with little rain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals is well suited to live in a desert?",
+            "options": [
+              "A penguin",
+              "A camel",
+              "A whale",
+              "A polar bear"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do many desert plants survive with little water?",
+            "options": [
+              "They need water every hour",
+              "They grow only underwater",
+              "They store water inside themselves",
+              "They cannot survive at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Desert days can be very hot, while desert nights can be quite ___.",
+            "options": [
+              "The exact same temperature",
+              "Cold",
+              "Wet",
+              "Snowy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Animals and plants that survive well in a habitat like the desert are said to be well ___.",
+            "options": [
+              "Unprepared",
+              "Lost",
+              "Confused",
+              "Adapted"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a desert habitat like?",
+            "answers": [
+              "dry",
+              "very dry with little rain"
+            ]
+          },
+          {
+            "prompt": "Name one animal that lives in a desert.",
+            "answers": [
+              "a camel",
+              "a lizard"
+            ]
+          },
+          {
+            "prompt": "How do desert animals survive without much water?",
+            "answers": [
+              "they have special adaptations",
+              "they can go a long time without water"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Local Council: Making Decisions for Our City",
+        "summary": "Kindergarten Social Studies strand: a local council is a group of elected people who work together to make decisions and rules for a city or town.",
+        "resourceLabel": "YouTube: Our Local Council: Making Decisions for Our City",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Council%3A%20Making%20Decisions%20for%20Our%20City%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a local council?",
+            "options": [
+              "A single person who owns the city",
+              "A sports team",
+              "A type of building only",
+              "A group of elected people who make decisions for a city"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do council members work together to do?",
+            "options": [
+              "Ignore what people need",
+              "Make decisions and rules for the community",
+              "Play games all day",
+              "Avoid helping the community"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a city need a council instead of just one leader deciding everything?",
+            "options": [
+              "One person always knows best with no help",
+              "Councils have no purpose",
+              "Many people working together can make better decisions",
+              "Cities do not need any leaders"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might a local council hold its meetings?",
+            "options": [
+              "At the town hall",
+              "In outer space",
+              "Nowhere at all",
+              "On the moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A local council helps make sure a city has fair ___.",
+            "options": [
+              "Decisions and rules",
+              "Weather",
+              "Games",
+              "Food only"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a local council?",
+            "answers": [
+              "a group that makes decisions for a city",
+              "a group of elected leaders"
+            ]
+          },
+          {
+            "prompt": "What do council members do together?",
+            "answers": [
+              "make decisions and rules",
+              "work together to decide things"
+            ]
+          },
+          {
+            "prompt": "Why does a city need a council?",
+            "answers": [
+              "to help make good decisions for everyone",
+              "to lead and organize the city"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "label": "Day 158 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Main Idea: What Is the Story Mostly About",
+        "summary": "Kindergarten Language strand: the main idea of a story is what the story is mostly about, even though the story might include many small details.",
+        "resourceLabel": "YouTube: Main Idea: What Is the Story Mostly About",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Main%20Idea%3A%20What%20Is%20the%20Story%20Mostly%20About%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What does the main idea of a story tell readers?",
+            "options": [
+              "The colour of the cover",
+              "The name of the author only",
+              "The exact number of pages",
+              "What the story is mostly about"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to find the main idea of a story?",
+            "options": [
+              "It only matters for pictures",
+              "It has no use for readers",
+              "It helps readers understand and summarize the story",
+              "It tells us nothing important"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which best shows understanding of a storys main idea?",
+            "options": [
+              "Being able to explain what the story is mostly about",
+              "Counting the number of words",
+              "Naming the printer of the book",
+              "Guessing the cover colour"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A story can have many small details but usually only one ___.",
+            "options": [
+              "Main idea",
+              "Cover",
+              "Title page",
+              "Price"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a story is mostly about a girl planting a garden, the main idea is ___.",
+            "options": [
+              "A girl plants a garden",
+              "The name of the printer",
+              "The page numbers",
+              "The colour of the sky"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does the main idea of a story tell us?",
+            "answers": [
+              "what the story is mostly about",
+              "the big idea of the story"
+            ]
+          },
+          {
+            "prompt": "Why is finding the main idea helpful?",
+            "answers": [
+              "it helps us understand the story",
+              "summarize what happened"
+            ]
+          },
+          {
+            "prompt": "Give an example of a main idea for a story about a dog finding a bone.",
+            "answers": [
+              "a dog finds a bone",
+              "a dog looking for a bone"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Patterns: Counting by Odd Numbers",
+        "summary": "Kindergarten Math strand: odd numbers like 1, 3, 5, 7, and 9 follow a pattern where each number is two more than the last, and cannot be split into two equal groups.",
+        "resourceLabel": "YouTube: Number Patterns: Counting by Odd Numbers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Patterns%3A%20Counting%20by%20Odd%20Numbers%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which set of numbers shows counting by odd numbers?",
+            "options": [
+              "5, 10, 15, 20",
+              "1, 3, 5, 7",
+              "1, 2, 3, 4",
+              "2, 4, 6, 8"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes next: 3, 5, 7, ___?",
+            "options": [
+              "11",
+              "10",
+              "9",
+              "8"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these numbers is odd?",
+            "options": [
+              "8",
+              "6",
+              "7",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "An odd number of objects cannot be split into ___ equal groups.",
+            "options": [
+              "Two",
+              "Three",
+              "One",
+              "Four"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When counting by odd numbers, each number is how much more than the last?",
+            "options": [
+              "5",
+              "1",
+              "3",
+              "2"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name the first three odd numbers.",
+            "answers": [
+              "1, 3, 5",
+              "one three five"
+            ]
+          },
+          {
+            "prompt": "What number comes after 5 when counting by odd numbers?",
+            "answers": [
+              "7",
+              "seven"
+            ]
+          },
+          {
+            "prompt": "Can an odd number be split into two equal groups?",
+            "answers": [
+              "no",
+              "no it cannot"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Hibernation: Sleeping Through Winter",
+        "summary": "Kindergarten Science strand: some animals, like bears, go into a deep sleep called hibernation during winter to save energy when food is hard to find.",
+        "resourceLabel": "YouTube: Hibernation: Sleeping Through Winter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hibernation%3A%20Sleeping%20Through%20Winter%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is hibernation?",
+            "options": [
+              "A deep sleep some animals take during winter",
+              "A type of food",
+              "A kind of nest",
+              "A dance animals do in summer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal is well known for hibernating in winter?",
+            "options": [
+              "A bear",
+              "A parrot",
+              "A shark",
+              "A frog that stays awake all year"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an animal hibernate during winter?",
+            "options": [
+              "To learn new sounds",
+              "To find more sunlight",
+              "To grow taller quickly",
+              "To save energy when food is hard to find"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During hibernation, an animal is usually ___.",
+            "options": [
+              "Swimming in the ocean",
+              "Wide awake and very active",
+              "In a very deep, long sleep",
+              "Flying south"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Hibernation mostly happens during which season?",
+            "options": [
+              "It happens every season equally",
+              "Summer",
+              "Spring only",
+              "Winter"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is hibernation?",
+            "answers": [
+              "a deep winter sleep",
+              "a long sleep animals take in winter"
+            ]
+          },
+          {
+            "prompt": "Name an animal that hibernates.",
+            "answers": [
+              "a bear",
+              "bears"
+            ]
+          },
+          {
+            "prompt": "Why do some animals hibernate in winter?",
+            "answers": [
+              "to save energy",
+              "because food is hard to find"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Ferry Workers: Traveling Across the Water",
+        "summary": "Kindergarten Social Studies strand: ferry workers operate boats called ferries that carry people, cars, and goods safely across rivers, lakes, or the ocean.",
+        "resourceLabel": "YouTube: Our Ferry Workers: Traveling Across the Water",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Ferry%20Workers%3A%20Traveling%20Across%20the%20Water%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is a ferry?",
+            "options": [
+              "A bicycle",
+              "A kind of car",
+              "A type of airplane",
+              "A boat that carries people and vehicles across water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main job of a ferry worker?",
+            "options": [
+              "Growing food",
+              "Operating the ferry and keeping passengers safe",
+              "Teaching school",
+              "Delivering mail on foot"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might a ferry travel across?",
+            "options": [
+              "A river, lake, or the ocean",
+              "A forest with no water",
+              "A desert",
+              "A mountain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone choose to take a ferry instead of driving around a large body of water?",
+            "options": [
+              "It can be a faster and easier way to cross",
+              "Ferries never carry people",
+              "It is against the rules",
+              "Ferries only carry animals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Ferry workers help keep passengers ___ during the trip.",
+            "options": [
+              "In danger",
+              "Safe",
+              "Unaware",
+              "Confused"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a ferry carry across the water?",
+            "answers": [
+              "people and cars",
+              "people, cars, and goods"
+            ]
+          },
+          {
+            "prompt": "What is a ferry?",
+            "answers": [
+              "a boat that carries people and vehicles",
+              "a type of boat"
+            ]
+          },
+          {
+            "prompt": "Why are ferry workers important?",
+            "answers": [
+              "they help people travel safely",
+              "keep everyone safe on the water"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "label": "Day 159 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Alliteration: Words That Start with the Same Sound",
+        "summary": "Kindergarten Language strand: alliteration is when several words in a row start with the same beginning sound, such as in silly snakes slither slowly.",
+        "resourceLabel": "YouTube: Alliteration: Words That Start with the Same Sound",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Alliteration%3A%20Words%20That%20Start%20with%20the%20Same%20Sound%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "Several words in a row starting with the same sound",
+              "A story with no characters",
+              "A silent letter",
+              "Words that rhyme at the end"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an example of alliteration?",
+            "options": [
+              "I like to read books",
+              "The sun is bright today",
+              "Big brown bears bounce",
+              "The cat sat on a mat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What beginning sound is repeated in silly snakes slither?",
+            "options": [
+              "The t sound",
+              "The m sound",
+              "The b sound",
+              "The s sound"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Authors sometimes use alliteration to make writing sound more ___.",
+            "options": [
+              "Boring",
+              "Confusing",
+              "Silent",
+              "Fun and playful"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of words shares the same beginning sound?",
+            "options": [
+              "Cat and dog",
+              "Happy and hopeful",
+              "Sun and moon",
+              "Big and small"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is alliteration?",
+            "answers": [
+              "words that start with the same sound",
+              "repeating a beginning sound"
+            ]
+          },
+          {
+            "prompt": "Give an example of an alliteration sentence.",
+            "answers": [
+              "silly snakes slither slowly",
+              "big brown bears bounce"
+            ]
+          },
+          {
+            "prompt": "What beginning sound is repeated in Peter Piper picked?",
+            "answers": [
+              "the p sound",
+              "p"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Reading a Clock to Five-Minute Intervals",
+        "summary": "Kindergarten Math strand: students learn to read a clock to the nearest five minutes, counting by fives around the clock face starting from the twelve.",
+        "resourceLabel": "YouTube: Time: Reading a Clock to Five-Minute Intervals",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Clock%20to%20Five-Minute%20Intervals%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "If the minute hand points to the 3, how many minutes past the hour is it?",
+            "options": [
+              "15 minutes",
+              "10 minutes",
+              "20 minutes",
+              "5 minutes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the minute hand points to the 6, how many minutes past the hour is it?",
+            "options": [
+              "20 minutes",
+              "30 minutes",
+              "25 minutes",
+              "35 minutes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When reading the minute hand on a clock, each number represents ___ minutes.",
+            "options": [
+              "1",
+              "10",
+              "5",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the minute hand points to the 9, how many minutes past the hour is it?",
+            "options": [
+              "40 minutes",
+              "45 minutes",
+              "50 minutes",
+              "35 minutes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Counting by fives around a clock face helps us read the ___.",
+            "options": [
+              "Day of the week",
+              "Seconds only",
+              "Minutes",
+              "Month"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "If the minute hand points to the 1, how many minutes past the hour is it?",
+            "answers": [
+              "5 minutes",
+              "five minutes"
+            ]
+          },
+          {
+            "prompt": "If the minute hand points to the 2, how many minutes past the hour is it?",
+            "answers": [
+              "10 minutes",
+              "ten minutes"
+            ]
+          },
+          {
+            "prompt": "Why do we count by fives when reading the minute hand?",
+            "answers": [
+              "each number stands for five minutes",
+              "it matches the five minute marks"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Meteors: Shooting Stars in the Sky",
+        "summary": "Kindergarten Science strand: a meteor, sometimes called a shooting star, is a small piece of space rock that burns up in a bright streak as it enters our atmosphere.",
+        "resourceLabel": "YouTube: Meteors: Shooting Stars in the Sky",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Meteors%3A%20Shooting%20Stars%20in%20the%20Sky%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is another common name for a meteor?",
+            "options": [
+              "A cloud",
+              "A rainbow",
+              "A moon rock",
+              "A shooting star"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to a meteor as it enters our atmosphere?",
+            "options": [
+              "It burns up in a bright streak",
+              "It turns into water",
+              "It grows much larger",
+              "It stays completely cold"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When is the best time to try to see a meteor?",
+            "options": [
+              "During a rainstorm",
+              "At noon on a sunny day",
+              "On a clear night",
+              "Only in a classroom"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A meteor is best described as a small piece of ___.",
+            "options": [
+              "Cotton candy",
+              "Space rock",
+              "Paper",
+              "Ocean water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Meteors travel through the sky very ___.",
+            "options": [
+              "Never moving",
+              "Only sideways",
+              "Slowly",
+              "Quickly"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is another name for a meteor?",
+            "answers": [
+              "a shooting star",
+              "shooting star"
+            ]
+          },
+          {
+            "prompt": "What happens to a meteor as it enters our atmosphere?",
+            "answers": [
+              "it burns up",
+              "it burns and makes a bright streak"
+            ]
+          },
+          {
+            "prompt": "When are meteors easiest to see?",
+            "answers": [
+              "at night",
+              "on a clear night"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Pilots: Flying Us to New Places",
+        "summary": "Kindergarten Social Studies strand: pilots are trained to safely fly airplanes, taking passengers and goods to cities and countries around the world.",
+        "resourceLabel": "YouTube: Our Pilots: Flying Us to New Places",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Pilots%3A%20Flying%20Us%20to%20New%20Places%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a pilot?",
+            "options": [
+              "Teaching school",
+              "Flying an airplane safely",
+              "Cooking meals",
+              "Fixing wires"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a pilot carry on a flight?",
+            "options": [
+              "Nothing at all",
+              "Only empty seats",
+              "Only animals",
+              "Passengers and goods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do pilots need a lot of special training?",
+            "options": [
+              "Anyone can fly without learning",
+              "Flying needs no training at all",
+              "Training is not important",
+              "To fly safely and handle the airplane well"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where might a pilot fly passengers to?",
+            "options": [
+              "Only underwater",
+              "Nowhere at all",
+              "Only next door",
+              "Cities and countries around the world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Pilots work together with other airport workers to keep flights ___.",
+            "options": [
+              "Dangerous",
+              "Unplanned",
+              "Safe",
+              "Confusing"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a pilot do?",
+            "answers": [
+              "flies an airplane",
+              "flies planes safely"
+            ]
+          },
+          {
+            "prompt": "What might a pilot carry on an airplane?",
+            "answers": [
+              "passengers",
+              "passengers and goods"
+            ]
+          },
+          {
+            "prompt": "Why do pilots need special training?",
+            "answers": [
+              "to fly safely",
+              "to keep everyone on the plane safe"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "label": "Day 160 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Word Families, Prefixes and Suffixes, and Story Genres",
+        "summary": "Kindergarten Language strand review: students revisit the -ut and -un word families, the suffix -less, the prefix pre-, vowel teams, r-controlled vowels, fairy tales and fables, main idea, and alliteration.",
+        "resourceLabel": "YouTube: Language Review: Word Families, Prefixes and Suffixes, and Story Genres",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Families%2C%20Prefixes%20and%20Suffixes%2C%20and%20Story%20Genres%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which word belongs to the -ut family?",
+            "options": [
+              "Nut",
+              "Sun",
+              "Bed",
+              "Top"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the word careless mean?",
+            "options": [
+              "Full of care",
+              "Very sleepy",
+              "Without care, not careful",
+              "Very happy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word has the oa vowel team?",
+            "options": [
+              "Bat",
+              "Boat",
+              "Bit",
+              "But"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a fairy tale often include?",
+            "options": [
+              "Magic and make-believe events",
+              "Only true facts",
+              "Only real people from history",
+              "No characters at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "Words that rhyme at the end",
+              "A silent letter",
+              "A story with no characters",
+              "Several words in a row starting with the same sound"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Name a word from the -ut or -un family.",
+            "answers": [
+              "nut",
+              "sun"
+            ]
+          },
+          {
+            "prompt": "What does the prefix pre- usually mean?",
+            "answers": [
+              "before"
+            ]
+          },
+          {
+            "prompt": "What is alliteration?",
+            "answers": [
+              "words that start with the same sound"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Number Bonds, Skip Counting, and Time",
+        "summary": "Kindergarten Math strand review: students revisit number bonds to 12, skip counting by 6s, ten frames, numbers before and after, halving, comparing temperature, sorting data, odd numbers, and reading a clock to five-minute intervals.",
+        "resourceLabel": "YouTube: Math Review: Number Bonds, Skip Counting, and Time",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Number%20Bonds%2C%20Skip%20Counting%2C%20and%20Time%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "Which pair of numbers makes 12?",
+            "options": [
+              "5 and 5",
+              "4 and 4",
+              "7 and 5",
+              "3 and 3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What comes next: 6, 12, 18, ___?",
+            "options": [
+              "20",
+              "22",
+              "24",
+              "19"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a ten frame shows 9 filled boxes, how many more are needed to make 10?",
+            "options": [
+              "2",
+              "4",
+              "3",
+              "1"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which set of numbers shows counting by odd numbers?",
+            "options": [
+              "5, 10, 15, 20",
+              "1, 3, 5, 7",
+              "2, 4, 6, 8",
+              "1, 2, 3, 4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the minute hand points to the 6, how many minutes past the hour is it?",
+            "options": [
+              "25 minutes",
+              "20 minutes",
+              "35 minutes",
+              "30 minutes"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 10 plus 2?",
+            "answers": [
+              "12"
+            ]
+          },
+          {
+            "prompt": "How many boxes make up a full ten frame?",
+            "answers": [
+              "10"
+            ]
+          },
+          {
+            "prompt": "If the minute hand points to the 1, how many minutes past the hour is it?",
+            "answers": [
+              "5 minutes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Seasons, Life Cycles, and Habitats",
+        "summary": "Kindergarten Science strand review: students revisit the summer season, the life cycle of a salmon, ants, kangaroos, sharks, our stomach, desert habitats, hibernation, and meteors.",
+        "resourceLabel": "YouTube: Science Review: Seasons, Life Cycles, and Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Seasons%2C%20Life%20Cycles%2C%20and%20Habitats%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is summer weather usually like?",
+            "options": [
+              "Cold and snowy",
+              "Warm and sunny",
+              "Always rainy",
+              "Very windy only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does a salmon life cycle begin?",
+            "options": [
+              "As an egg in a river",
+              "As an egg in the desert",
+              "As an egg on a mountain",
+              "As an adult in the ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a large group of ants living together called?",
+            "options": [
+              "A herd",
+              "A flock",
+              "A colony",
+              "A pack"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of animal is a shark?",
+            "options": [
+              "An amphibian",
+              "A fish",
+              "A reptile",
+              "A mammal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is hibernation?",
+            "options": [
+              "A type of food",
+              "A kind of nest",
+              "A dance animals do in summer",
+              "A deep sleep some animals take during winter"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is summer weather usually like?",
+            "answers": [
+              "warm and sunny"
+            ]
+          },
+          {
+            "prompt": "What is a baby kangaroo called?",
+            "answers": [
+              "a joey"
+            ]
+          },
+          {
+            "prompt": "What is hibernation?",
+            "answers": [
+              "a deep winter sleep"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: New Helpers, Money, and Celebrations",
+        "summary": "Kindergarten Social Studies strand review: students revisit paramedics, optometrists, chefs and cooks, saving and spending, Earth Day, Canadian currency, our local council, ferry workers, and pilots.",
+        "resourceLabel": "YouTube: Social Studies Review: New Helpers, Money, and Celebrations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20New%20Helpers%2C%20Money%2C%20and%20Celebrations%20kindergarten%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a paramedic?",
+            "options": [
+              "Cooking food",
+              "Teaching math",
+              "Giving medical help in an emergency",
+              "Building houses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does an optometrist mainly check?",
+            "options": [
+              "Our hearing",
+              "Our eyes and vision",
+              "Our height",
+              "Our teeth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean to save money?",
+            "options": [
+              "Throw it away",
+              "Give it away for free",
+              "Hide it forever with no plan",
+              "Keep it instead of spending it right away"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a local council?",
+            "options": [
+              "A type of building only",
+              "A group of elected people who make decisions for a city",
+              "A sports team",
+              "A single person who owns the city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main job of a pilot?",
+            "options": [
+              "Cooking meals",
+              "Fixing wires",
+              "Teaching school",
+              "Flying an airplane safely"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the main job of a paramedic?",
+            "answers": [
+              "giving medical help in an emergency"
+            ]
+          },
+          {
+            "prompt": "What does it mean to save money?",
+            "answers": [
+              "keep it instead of spending it right away"
+            ]
+          },
+          {
+            "prompt": "What is the main job of a pilot?",
+            "answers": [
+              "flying an airplane safely"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
