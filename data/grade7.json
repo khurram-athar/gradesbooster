@@ -36496,5 +36496,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 151,
+    "label": "Day 151 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Compound-Complex Sentences",
+        "summary": "Grade 7 Language strand: a compound-complex sentence combines at least two independent clauses with at least one dependent clause, allowing a writer to link multiple related ideas of differing importance within a single sentence.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a compound-complex sentence?",
+            "options": [
+              "A sentence with at least two independent clauses and one dependent clause",
+              "A sentence that never contains a verb",
+              "A concept unrelated to grammar",
+              "A sentence with only one clause and no punctuation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which part of a compound-complex sentence expresses a complete thought on its own?",
+            "options": [
+              "A concept unrelated to compound-complex sentences",
+              "An independent clause",
+              "A dependent clause",
+              "A single noun with no verb"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of a compound-complex sentence?",
+            "options": [
+              "Raining fun outside we went.",
+              "It was raining outside.",
+              "Although it was raining, we went outside, and we still had fun.",
+              "Fun we had outside, raining."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a compound-complex sentence rather than several short sentences?",
+            "options": [
+              "Compound-complex sentences always make writing harder to understand",
+              "To show how multiple related ideas connect and depend on one another",
+              "Short sentences can never be combined into a longer one",
+              "A concept unrelated to grammar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one risk of overusing compound-complex sentences in a piece of writing?",
+            "options": [
+              "The writing can become difficult to follow if clauses are not organized clearly",
+              "Compound-complex sentences are always the clearest possible option",
+              "This concept has no relevance to grammar",
+              "Overusing them always makes writing shorter"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Calculating Speed, Distance, and Time",
+        "summary": "Grade 7 Math strand: speed can be calculated by dividing the distance travelled by the time taken, and rearranging this relationship allows a person to solve for distance or time when the other two values are known.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What formula is used to calculate speed?",
+            "options": [
+              "Time divided by distance",
+              "Distance divided by time",
+              "A concept unrelated to measurement",
+              "Distance multiplied by time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a car travels 150 kilometres in 3 hours, what is its average speed?",
+            "options": [
+              "147 km/h",
+              "3 km/h",
+              "50 km/h",
+              "450 km/h"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If speed equals distance divided by time, how would you rearrange the formula to solve for distance?",
+            "options": [
+              "Distance equals speed multiplied by time",
+              "A concept unrelated to speed and distance",
+              "Distance equals time divided by speed",
+              "Distance equals speed divided by time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a cyclist travels at 20 km/h for 2 hours, how far do they travel?",
+            "options": [
+              "18 km",
+              "10 km",
+              "40 km",
+              "22 km"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is average speed sometimes different from an objects speed at any single moment during a trip?",
+            "options": [
+              "Average speed is always identical to the speed at every single moment",
+              "Speed can never change once a trip has begun",
+              "Speed can vary throughout a trip, and average speed represents the overall rate",
+              "A concept unrelated to measurement"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Factors That Affect the Rate of a Chemical Reaction",
+        "summary": "Grade 7 Science strand: the rate of a chemical reaction can be increased by raising the temperature, increasing the concentration of reactants, increasing surface area, or adding a catalyst, each of which increases how often and how effectively particles collide.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What generally happens to a reaction rate when temperature is increased?",
+            "options": [
+              "It always stays exactly the same",
+              "A concept unrelated to chemistry",
+              "It always decreases sharply",
+              "It generally increases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a catalyst?",
+            "options": [
+              "A substance that can never be involved in a reaction",
+              "A substance that always slows down every reaction",
+              "A substance that speeds up a reaction without being permanently used up",
+              "A concept unrelated to chemical reactions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does increasing surface area often speed up a reaction?",
+            "options": [
+              "Surface area has no effect on how particles collide",
+              "More particles are exposed and available to collide and react",
+              "A concept unrelated to reaction rates",
+              "Increasing surface area always slows every reaction down"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does increasing the concentration of reactants generally affect reaction rate?",
+            "options": [
+              "This concept has no connection to chemistry",
+              "It generally increases the rate because particles collide more often",
+              "Concentration has no effect on collision frequency",
+              "It always decreases the rate of a reaction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do refrigerators slow down the rate at which food spoils?",
+            "options": [
+              "Lower temperatures slow the chemical reactions that cause spoilage",
+              "Temperature has no effect on the rate of any reaction",
+              "Refrigerators speed up every reaction that causes spoilage",
+              "This concept has no relevance to science"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Battle of Vimy Ridge and Its Legacy",
+        "summary": "Grade 7 Social Studies strand: in April 1917 Canadian troops fought together as a unified force for the first time to capture Vimy Ridge during the First World War, and the victory is remembered as a defining moment in the development of Canadian national identity.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did the Battle of Vimy Ridge take place?",
+            "options": [
+              "1917",
+              "1949",
+              "1885",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What made the Canadian effort at Vimy Ridge significant militarily?",
+            "options": [
+              "No Canadian troops were involved in the battle at all",
+              "A concept unrelated to Canadian history",
+              "The battle involved no coordinated planning of any kind",
+              "Canadian troops fought together as a unified force for the first time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Vimy Ridge often described as a defining moment for Canadian identity?",
+            "options": [
+              "The battle had no lasting significance for Canada",
+              "A concept unrelated to the Battle of Vimy Ridge",
+              "It caused Canada to permanently withdraw from world affairs",
+              "The victory became a symbol of national pride and unity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "During which larger conflict did the Battle of Vimy Ridge take place?",
+            "options": [
+              "The Second World War",
+              "The First World War",
+              "The Korean War",
+              "The Boer War"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one way Canada continues to commemorate the Battle of Vimy Ridge today?",
+            "options": [
+              "By ignoring the event entirely in official history",
+              "Through memorials and annual remembrance ceremonies",
+              "This concept has no relevance to social studies",
+              "The battle is never mentioned or commemorated in any way"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "label": "Day 152 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Clipped Words and Word Shortening",
+        "summary": "Grade 7 Language strand: a clipped word is a shortened form of a longer word that keeps the same meaning, such as gym from gymnasium or phone from telephone, and clipping is a common way English vocabulary evolves over time.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a clipped word?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A word with no connection to any other word",
+              "A shortened form of a longer word that keeps the same meaning",
+              "A word that is always longer than its original form"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a clipped word?",
+            "options": [
+              "A concept unrelated to clipping",
+              "Elephant",
+              "Umbrella",
+              "Gym"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What longer word does the clipped word phone come from?",
+            "options": [
+              "Photograph",
+              "Microphone",
+              "A concept unrelated to word shortening",
+              "Telephone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might speakers use a clipped word instead of the full original word?",
+            "options": [
+              "Clipped words always confuse listeners completely",
+              "It is quicker and more convenient to say in everyday conversation",
+              "Clipped words are always more difficult to pronounce",
+              "This concept has no connection to vocabulary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does clipping differ from creating an entirely new word?",
+            "options": [
+              "This concept has no relevance to vocabulary",
+              "Clipping always adds extra letters to a word",
+              "Clipping and inventing a new word are always exactly the same process",
+              "Clipping shortens an existing word rather than inventing a brand-new one"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: The Triangle Inequality Theorem",
+        "summary": "Grade 7 Math strand: the triangle inequality theorem states that the sum of the lengths of any two sides of a triangle must be greater than the length of the third side, which determines whether three given lengths can actually form a triangle.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does the triangle inequality theorem state?",
+            "options": [
+              "All three sides of a triangle must always be equal",
+              "The sum of any two sides must be greater than the third side",
+              "A concept unrelated to geometry",
+              "The sum of any two sides must always be less than the third side"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can side lengths of 2, 3, and 10 form a triangle?",
+            "options": [
+              "It is impossible to determine without more information",
+              "A concept unrelated to the triangle inequality theorem",
+              "No, because 2 plus 3 is not greater than 10",
+              "Yes, any three lengths can always form a triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can side lengths of 5, 6, and 7 form a triangle?",
+            "options": [
+              "No, because these lengths could never form a triangle",
+              "A concept unrelated to triangles",
+              "It is impossible to determine without more information",
+              "Yes, because each pair of sides sums to more than the third side"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the triangle inequality theorem useful when checking measurements before building a triangular structure?",
+            "options": [
+              "A concept unrelated to geometry",
+              "It only applies to shapes that are not triangles",
+              "It confirms whether the given lengths can actually form a closed triangle",
+              "It has no practical use in construction or design"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If two sides of a triangle measure 4 and 9, which of these could NOT be the length of the third side?",
+            "options": [
+              "10",
+              "3",
+              "6",
+              "12"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Transverse and Longitudinal Waves",
+        "summary": "Grade 7 Science strand: a transverse wave moves particles up and down at right angles to the direction the wave travels, as in a wave on a rope, while a longitudinal wave moves particles back and forth in the same direction as the wave, as in a sound wave.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "In a transverse wave, how do particles move relative to the direction of the wave?",
+            "options": [
+              "A concept unrelated to waves",
+              "In exactly the same direction as the wave travels",
+              "At right angles, or perpendicular, to the direction of the wave",
+              "Particles never move at all in a transverse wave"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a longitudinal wave, how do particles move relative to the direction of the wave?",
+            "options": [
+              "A concept unrelated to longitudinal waves",
+              "At right angles to the direction the wave travels",
+              "Particles never move at all in a longitudinal wave",
+              "Back and forth in the same direction as the wave"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a longitudinal wave?",
+            "options": [
+              "Light reflecting off a still pond",
+              "A wave travelling along a shaken rope",
+              "A sound wave travelling through air",
+              "A concept unrelated to physics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a transverse wave?",
+            "options": [
+              "A wave that has no particles involved at all",
+              "A wave travelling along a shaken rope",
+              "A sound wave travelling through air",
+              "A concept unrelated to transverse waves"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can sound waves travel through air but not through a vacuum?",
+            "options": [
+              "Sound waves travel equally well with or without any particles present",
+              "A vacuum always transmits sound better than air does",
+              "This concept has no relevance to science",
+              "Sound waves need particles of matter to compress and transmit the vibration"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Creation of the Canadian National Railway",
+        "summary": "Grade 7 Social Studies strand: the Canadian National Railway was formed in 1919 when the federal government combined several financially struggling private railways into a single publicly owned company, helping stabilize rail service across the country.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year was the Canadian National Railway formed?",
+            "options": [
+              "1867",
+              "1919",
+              "1949",
+              "1885"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did the federal government create the Canadian National Railway?",
+            "options": [
+              "To sell Canadian rail lines to a foreign government",
+              "To combine struggling private railways into one stable, publicly owned company",
+              "A concept unrelated to Canadian history",
+              "To eliminate all rail service across the country permanently"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How did the Canadian National Railway differ from the earlier Canadian Pacific Railway?",
+            "options": [
+              "A concept unrelated to Canadian railways",
+              "It never connected any regions of the country",
+              "It was publicly owned rather than a private company",
+              "It was built entirely by a foreign government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What problem among private railway companies led to the creation of CNR?",
+            "options": [
+              "Several private railways were financially struggling and at risk of failing",
+              "There were no private railway companies operating in Canada at the time",
+              "A concept unrelated to the Canadian National Railway",
+              "Private railways were far too profitable and needed government limits"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was reliable national rail service considered important for Canada in the early twentieth century?",
+            "options": [
+              "It helped connect distant regions for trade, transportation, and communication",
+              "This concept has no relevance to social studies",
+              "Canada relied entirely on other countries for all transportation",
+              "Rail service had no impact on trade or communication"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "label": "Day 153 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Static and Dynamic Characters",
+        "summary": "Grade 7 Language strand: a static character remains essentially the same throughout a story, while a dynamic character undergoes a significant, lasting change in personality, beliefs, or outlook as a result of the events in the plot.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a static character?",
+            "options": [
+              "A character who is never mentioned again after the introduction",
+              "A character who remains essentially the same throughout a story",
+              "A concept unrelated to reading",
+              "A character who changes completely every single page"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a dynamic character?",
+            "options": [
+              "A character who undergoes a significant, lasting change during the story",
+              "A concept unrelated to dynamic characters",
+              "A character who remains identical from beginning to end",
+              "A character who never appears in more than one scene"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might cause a dynamic character to change?",
+            "options": [
+              "Events or challenges faced during the plot of the story",
+              "A concept unrelated to reading",
+              "A change in the font used to print the story",
+              "Dynamic characters never change for any reason"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which best describes a story featuring a dynamic protagonist?",
+            "options": [
+              "A character who behaves identically in the first and final scenes",
+              "A character who never interacts with anyone else in the story",
+              "A character who starts selfish but learns to care about others by the end",
+              "A concept unrelated to character analysis"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author include both static and dynamic characters in the same story?",
+            "options": [
+              "Static and dynamic characters can never appear in the same story",
+              "Static characters can highlight, by contrast, how much the dynamic character has changed",
+              "This concept has no relevance to reading",
+              "Including both types of characters is always considered a writing mistake"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Graphing Linear Inequalities in Two Variables on the Cartesian Plane",
+        "summary": "Grade 7 Math strand: graphing a linear inequality in two variables involves drawing the boundary line for the related equation, then shading the region of the Cartesian plane that contains all the points satisfying the inequality.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first step in graphing a linear inequality in two variables?",
+            "options": [
+              "Draw the boundary line for the related linear equation",
+              "Immediately shade the entire coordinate plane",
+              "A concept unrelated to algebra",
+              "Erase the x-axis and y-axis completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does shading a region of the graph represent?",
+            "options": [
+              "All the points that satisfy the inequality",
+              "The boundary line itself and nothing else",
+              "A single point that satisfies the inequality",
+              "A concept unrelated to graphing inequalities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When graphing y is greater than 2x plus 1, would the boundary line typically be solid or dashed?",
+            "options": [
+              "Solid, because points on the line are always included",
+              "A concept unrelated to linear inequalities",
+              "Dashed, because points on the line itself are not included",
+              "Neither, because no boundary line is ever drawn"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When graphing y is greater than or equal to 2x plus 1, would the boundary line be solid or dashed?",
+            "options": [
+              "Solid, because points on the line are included",
+              "Neither, because the inequality has no boundary line",
+              "A concept unrelated to graphing inequalities",
+              "Dashed, because points on the line are never included"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a business use a graphed linear inequality to represent a budget constraint?",
+            "options": [
+              "It shows every possible combination of purchases that stays within the budget",
+              "It shows only a single, fixed combination of purchases",
+              "A concept unrelated to algebra",
+              "Graphed inequalities have no practical business application"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Element Families and Trends in the Periodic Table",
+        "summary": "Grade 7 Science strand: elements in the periodic table are organized into families, or groups, that share similar chemical properties, such as the highly reactive alkali metals in the first column and the unreactive noble gases in the final column.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do elements within the same family, or group, of the periodic table generally share?",
+            "options": [
+              "Completely unrelated chemical properties",
+              "Identical physical appearances with no exceptions",
+              "Similar chemical properties",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which family of elements is known for being highly reactive metals found in the first column?",
+            "options": [
+              "Halogens",
+              "A concept unrelated to the periodic table",
+              "Alkali metals",
+              "Noble gases"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which family of elements is known for being largely unreactive gases?",
+            "options": [
+              "Noble gases",
+              "A concept unrelated to element families",
+              "Transition metals",
+              "Alkali metals"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How are elements typically arranged in the periodic table?",
+            "options": [
+              "By increasing atomic number, in rows and columns based on properties",
+              "Randomly, with no organizing pattern at all",
+              "In alphabetical order with no other pattern",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the periodic table considered a useful tool for predicting how an element will behave?",
+            "options": [
+              "Every element behaves identically regardless of its position",
+              "This concept has no relevance to science",
+              "The periodic table has no connection to how elements behave",
+              "Its position reveals patterns in properties shared with other elements in the same family"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The 1950 Winnipeg Flood and Disaster Response in Canada",
+        "summary": "Grade 7 Social Studies strand: the 1950 Winnipeg Flood was one of the most severe floods in Manitoba history, forcing tens of thousands of residents to evacuate and prompting the later construction of the Red River Floodway to help protect the city from future flooding.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did the major Winnipeg Flood take place?",
+            "options": [
+              "1867",
+              "1917",
+              "1950",
+              "1985"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which province did the 1950 flood occur?",
+            "options": [
+              "Ontario",
+              "Quebec",
+              "Manitoba",
+              "Alberta"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What large infrastructure project was later built to help protect Winnipeg from future floods?",
+            "options": [
+              "The Rideau Canal",
+              "The St. Lawrence Seaway",
+              "A concept unrelated to the Winnipeg Flood",
+              "The Red River Floodway"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was one immediate effect of the 1950 Winnipeg Flood on residents?",
+            "options": [
+              "A concept unrelated to the Winnipeg Flood",
+              "Tens of thousands of residents were forced to evacuate their homes",
+              "Residents were required to relocate permanently to another province",
+              "The flood had no effect on any residents of the city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do governments often invest in infrastructure like floodways after a major natural disaster?",
+            "options": [
+              "To reduce the damage and risk caused by similar disasters in the future",
+              "Infrastructure investment never reduces the risk of future disasters",
+              "Governments are legally forbidden from responding to natural disasters",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "label": "Day 154 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Autobiographical Narrative (Memoir Writing)",
+        "summary": "Grade 7 Language strand: an autobiographical narrative, or memoir, tells a true story from the writers own life, focusing on a meaningful event or period and reflecting on what the experience taught them.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an autobiographical narrative, or memoir?",
+            "options": [
+              "A completely fictional story with invented characters",
+              "A concept unrelated to writing",
+              "A story written entirely by someone else about a stranger",
+              "A true story told from the writers own life experience"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a memoir typically focus on?",
+            "options": [
+              "A random collection of unrelated facts",
+              "A concept unrelated to memoir writing",
+              "A meaningful event or period from the writers life",
+              "Events that never actually happened"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a memoir include the writers reflections on an experience?",
+            "options": [
+              "A concept unrelated to writing",
+              "Reflections are never included in a memoir",
+              "To completely avoid discussing the writers own feelings",
+              "To share what the experience taught them or how it changed their perspective"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a memoir generally differ from a purely fictional short story?",
+            "options": [
+              "A memoir is based on true events from the writers own life",
+              "A memoir must always be written by someone other than the author",
+              "A memoir and a fictional short story are always identical",
+              "This concept has no connection to writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which opening sounds most like the start of a memoir?",
+            "options": [
+              "Add 15 and 20 to get 35.",
+              "Please find attached the quarterly financial report.",
+              "The summer I turned eleven, my grandmother taught me a lesson I have never forgotten.",
+              "The chemical symbol for gold is Au."
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Percentiles and Quartiles in Data Analysis",
+        "summary": "Grade 7 Math strand: percentiles and quartiles divide a data set into equal parts to show how one value compares to the rest of the set, with quartiles splitting data into four equal parts and the median forming the boundary between the second and third quartiles.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What do quartiles do to a data set?",
+            "options": [
+              "Divide it into exactly two equal parts",
+              "Combine every value into a single number with no divisions",
+              "A concept unrelated to data management",
+              "Divide it into four equal parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does it mean if a students test score is in the 90th percentile?",
+            "options": [
+              "The score is exactly 90 out of 100 on the test",
+              "The score is higher than about 90 percent of the other scores in the set",
+              "The score is lower than every other score in the set",
+              "A concept unrelated to percentiles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which quartile does the median of a data set correspond to?",
+            "options": [
+              "The boundary between the second and third quartiles",
+              "A concept unrelated to quartiles",
+              "The boundary between the first and second quartiles only",
+              "The median has no connection to quartiles at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might percentiles be useful when comparing an individual value to a large data set?",
+            "options": [
+              "Percentiles never provide any useful comparison information",
+              "Percentiles can only be calculated for very small data sets",
+              "A concept unrelated to data management",
+              "They show how that value ranks relative to the rest of the data"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the interquartile range generally based on?",
+            "options": [
+              "A concept unrelated to interquartile range",
+              "The difference between the first and third quartiles",
+              "The single largest value in the entire data set",
+              "The difference between the highest and lowest values only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Plant Adaptations to Extreme Climates",
+        "summary": "Grade 7 Science strand: plants living in extreme climates develop specialized adaptations, such as thick waxy leaves and deep roots in desert plants to conserve water, or low, cushion-like growth in arctic plants to survive wind and cold.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why do many desert plants have thick, waxy leaves?",
+            "options": [
+              "Thick waxy leaves have no connection to water conservation",
+              "To reduce water loss in a dry climate",
+              "A concept unrelated to biology",
+              "To attract as many insects as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a desert plant develop very deep roots?",
+            "options": [
+              "To reach water stored far below the surface",
+              "To avoid absorbing any water from the soil at all",
+              "A concept unrelated to plant adaptations",
+              "Deep roots have no effect on a plants access to water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do many arctic plants grow low to the ground?",
+            "options": [
+              "To reach sunlight that only exists deep underground",
+              "A concept unrelated to plant adaptations",
+              "Growing low to the ground has no survival benefit in the arctic",
+              "To avoid damage from strong winds and stay insulated near the warmer ground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which adaptation would most likely help a plant survive in a desert environment?",
+            "options": [
+              "Having no roots of any kind",
+              "A concept unrelated to desert adaptations",
+              "Storing water in thick stems or leaves",
+              "Growing extremely large, thin leaves that lose water quickly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do plants in extreme climates generally need different adaptations than plants in a mild, temperate climate?",
+            "options": [
+              "Extreme climates present unique survival challenges like extreme heat, cold, or lack of water",
+              "All climates present the exact same survival challenges for plants",
+              "This concept has no relevance to science",
+              "Plants never need to adapt to their surrounding climate"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The History of Canadian Currency and the Royal Canadian Mint",
+        "summary": "Grade 7 Social Studies strand: the Royal Canadian Mint, established in 1908, produces Canadas coins and has issued circulating currency featuring evolving designs and security features, reflecting the countrys changing economy and identity over time.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year was the Royal Canadian Mint established?",
+            "options": [
+              "1908",
+              "1949",
+              "1867",
+              "1982"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main role of the Royal Canadian Mint?",
+            "options": [
+              "Producing Canadas coins",
+              "Printing newspapers for the federal government",
+              "Regulating interprovincial trade agreements",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might currency designs change over time?",
+            "options": [
+              "To reflect the countrys changing identity, history, or security needs",
+              "Currency designs are legally required to remain identical forever",
+              "Currency designs have no connection to a countrys history",
+              "A concept unrelated to Canadian currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one reason governments add security features to currency?",
+            "options": [
+              "To make currency more difficult to counterfeit",
+              "To make currency easier for anyone to copy",
+              "A concept unrelated to the Royal Canadian Mint",
+              "Security features have no practical purpose on currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a reliable national currency important for a countrys economy?",
+            "options": [
+              "A reliable currency has no effect on a countrys economy",
+              "This concept has no relevance to social studies",
+              "Currency is never used in everyday economic exchanges",
+              "It gives people a trusted, standard way to exchange goods and services"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "label": "Day 155 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Product Placement in Media",
+        "summary": "Grade 7 Language strand: product placement is the practice of featuring a brand or product within a movie, show, or video in a way that appears natural, allowing companies to advertise without a traditional, clearly labeled commercial.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is product placement?",
+            "options": [
+              "A product that is never shown in any media of any kind",
+              "Featuring a brand or product within media content in a way that appears natural",
+              "A commercial that clearly interrupts a show to advertise a product",
+              "A concept unrelated to media literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a company prefer product placement over a traditional commercial?",
+            "options": [
+              "Traditional commercials are always more effective than product placement",
+              "A concept unrelated to product placement",
+              "It can advertise without a clearly labeled break, making the promotion feel less obvious",
+              "Product placement is always far more expensive with no added benefit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which situation is an example of product placement?",
+            "options": [
+              "A billboard advertisement seen along a highway",
+              "A character in a movie visibly drinks from a branded soda can during a scene",
+              "A thirty-second commercial break shown between two television programs",
+              "A concept unrelated to media literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might product placement be harder for viewers to recognize than a traditional advertisement?",
+            "options": [
+              "This concept has no connection to media literacy",
+              "It is woven into the story or content rather than clearly separated as an ad",
+              "Product placement is always labeled clearly with the word advertisement",
+              "Viewers are always told in advance exactly when product placement occurs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for media-literate viewers to notice product placement?",
+            "options": [
+              "Noticing product placement serves no useful purpose for viewers",
+              "This concept has no relevance to media literacy",
+              "Product placement has no influence on viewer behaviour or opinions",
+              "It helps them recognize when they are being advertised to, even subtly"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Understanding GST, PST, and HST",
+        "summary": "Grade 7 Math strand: GST is a federal sales tax applied across Canada, PST is a separate provincial sales tax charged in some provinces, and HST combines the federal and provincial portions into a single blended tax rate in provinces that use it.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does GST stand for?",
+            "options": [
+              "A concept unrelated to financial literacy",
+              "Government Savings Trust",
+              "General Spending Tariff",
+              "Goods and Services Tax"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main difference between GST and PST?",
+            "options": [
+              "PST is charged only outside of Canada",
+              "GST is a federal tax while PST is a separate provincial tax",
+              "A concept unrelated to sales tax",
+              "GST and PST are always exactly the same tax under different names"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does HST combine into a single rate?",
+            "options": [
+              "Two completely unrelated types of income tax",
+              "Property tax and income tax combined",
+              "The federal and provincial sales tax portions",
+              "A concept unrelated to HST"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an item costs 100 dollars before tax and the HST rate is 13 percent, what is the total cost including tax?",
+            "options": [
+              "130 dollars",
+              "100 dollars",
+              "87 dollars",
+              "113 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might sales tax rates differ from one province to another?",
+            "options": [
+              "A concept unrelated to financial literacy",
+              "Sales tax rates are decided entirely by individual retail stores",
+              "Every province in Canada is legally required to charge an identical tax rate",
+              "Each province sets its own provincial tax rate or chooses whether to use HST"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Technology: How Encryption Protects Digital Information",
+        "summary": "Grade 7 Science strand: encryption converts readable data into a coded format using a mathematical algorithm, so that only someone with the correct key can convert it back into its original, readable form, helping protect private information sent online.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does encryption do to readable data?",
+            "options": [
+              "A concept unrelated to technology",
+              "Deletes the data permanently so nobody can ever read it",
+              "Converts it into a coded format that is difficult to read without a key",
+              "Makes the data easier for anyone to read instantly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is needed to convert encrypted data back into its original, readable form?",
+            "options": [
+              "A concept unrelated to encryption",
+              "Nothing at all is needed to reverse encryption",
+              "The correct decryption key",
+              "A completely different, unrelated set of data"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is encryption important when sending private information over the internet?",
+            "options": [
+              "Encryption has no effect on the privacy of transmitted data",
+              "It helps prevent unauthorized people from reading the information if it is intercepted",
+              "A concept unrelated to digital security",
+              "Encryption makes private information easier for anyone to access"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a situation where encryption is commonly used?",
+            "options": [
+              "Reading a printed newspaper at home",
+              "Watching a movie with no internet connection involved",
+              "Sending a password during a secure online banking login",
+              "A concept unrelated to encryption"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a hacker have a very difficult time reading properly encrypted data without the key?",
+            "options": [
+              "Hackers automatically receive the decryption key for any encrypted data",
+              "Encrypted data is always left completely unprotected and easy to read",
+              "The coded data is scrambled using complex mathematical operations that are hard to reverse without it",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Metis Nation and Modern Recognition of Rights",
+        "summary": "Grade 7 Social Studies strand: the Metis Nation, formed from historic unions between First Nations and European peoples, gained formal recognition as one of Canadas Aboriginal peoples under the 1982 Constitution, with later court decisions clarifying and strengthening Metis rights.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What historical unions led to the formation of the Metis Nation?",
+            "options": [
+              "Unions between First Nations and European peoples",
+              "Unions between two entirely European nations",
+              "Unions that took place outside of North America",
+              "A concept unrelated to Canadian history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Under which document did the Metis gain formal recognition as one of Canadas Aboriginal peoples?",
+            "options": [
+              "The Halibut Treaty of 1923",
+              "The 1982 Constitution",
+              "A concept unrelated to the Metis Nation",
+              "The Statute of Westminster"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role have court decisions played in Metis rights since 1982?",
+            "options": [
+              "Court decisions have completely eliminated all Metis rights",
+              "A concept unrelated to social studies",
+              "No court decisions have ever addressed Metis rights",
+              "They have clarified and strengthened the legal recognition of Metis rights"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is formal recognition in the Constitution significant for the Metis Nation?",
+            "options": [
+              "A concept unrelated to the Metis Nation",
+              "It removes any legal recognition of the Metis Nation entirely",
+              "It establishes legal acknowledgment of their status and rights as an Aboriginal people",
+              "It has no connection to the rights of the Metis people"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the history of the Metis Nation connect to earlier events like the Red River Resistance?",
+            "options": [
+              "The Metis Nation has no historical connection to the Red River Resistance",
+              "This concept has no relevance to social studies",
+              "Metis identity and rights have been shaped by a long history including these earlier events",
+              "The Red River Resistance involved a completely unrelated group of people"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "label": "Day 156 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: The Imperative Mood and Giving Clear Instructions",
+        "summary": "Grade 7 Language strand: the imperative mood is used to give commands, instructions, or requests, typically beginning with a verb and often leaving the subject you implied rather than stated directly.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is the imperative mood used for?",
+            "options": [
+              "Describing a series of past events only",
+              "Giving commands, instructions, or requests",
+              "A concept unrelated to grammar",
+              "Asking a question about the future"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In an imperative sentence, which word is typically left unstated but implied?",
+            "options": [
+              "A concept unrelated to the imperative mood",
+              "They",
+              "You",
+              "It"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses the imperative mood?",
+            "options": [
+              "Close the door before you leave.",
+              "She closed the door before she left.",
+              "The door was closed before anyone left.",
+              "Did you close the door before you left?"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a recipe use imperative sentences?",
+            "options": [
+              "To give clear, direct instructions for each step",
+              "A concept unrelated to grammar",
+              "Recipes never use imperative sentences of any kind",
+              "Imperative sentences always confuse the reader of a recipe"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does an imperative sentence generally begin?",
+            "options": [
+              "With a verb",
+              "With the word therefore",
+              "With a question mark",
+              "A concept unrelated to imperative sentences"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Proportions Using Cross-Multiplication",
+        "summary": "Grade 7 Math strand: cross-multiplication is a method for solving a proportion by multiplying the numerator of one ratio by the denominator of the other, setting the two products equal to each other, and solving for the unknown value.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does cross-multiplication involve?",
+            "options": [
+              "Dividing both ratios by the same unrelated number",
+              "Adding the numerators of both ratios together",
+              "A concept unrelated to algebra",
+              "Multiplying the numerator of one ratio by the denominator of the other and setting the products equal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If 3/4 equals x/12, what is the value of x?",
+            "options": [
+              "4",
+              "9",
+              "16",
+              "3"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is cross-multiplication a useful method for solving proportions?",
+            "options": [
+              "It only works for proportions with no unknown values",
+              "It turns the proportion into a simple equation that can be solved directly",
+              "Cross-multiplication never produces a solvable equation",
+              "A concept unrelated to proportions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 5/x equals 15/9, what is the value of x?",
+            "options": [
+              "3",
+              "15",
+              "5",
+              "9"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must both ratios in a proportion represent the same relationship for cross-multiplication to give a meaningful answer?",
+            "options": [
+              "The method assumes the two ratios are equal to begin with",
+              "Cross-multiplication works correctly even when the ratios are unrelated",
+              "Proportions never require the two ratios to be equal",
+              "This concept has no relevance to algebra"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Understanding Pressure — Atmospheric and Fluid",
+        "summary": "Grade 7 Science strand: pressure is the amount of force applied over a given area, and it can be exerted by the atmosphere pressing down on Earths surface or by a fluid such as water pressing on an object submerged within it.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is pressure?",
+            "options": [
+              "The speed at which an object moves through air",
+              "The total weight of an object regardless of area",
+              "The amount of force applied over a given area",
+              "A concept unrelated to physics"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is atmospheric pressure?",
+            "options": [
+              "The force exerted by the weight of air pressing down on Earths surface",
+              "A concept unrelated to atmospheric pressure",
+              "The force exerted only by water on a submerged object",
+              "A force that exists only in outer space"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does water pressure generally change as depth increases?",
+            "options": [
+              "A concept unrelated to fluid pressure",
+              "It increases as depth increases",
+              "It always stays exactly the same at every depth",
+              "It decreases as depth increases"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might your ears feel pressure changes when diving deep underwater?",
+            "options": [
+              "This concept has no connection to science",
+              "Increasing water pressure pushes against your eardrums as you go deeper",
+              "Ears only respond to changes in atmospheric pressure, never water pressure",
+              "Water pressure has no effect on the human body at any depth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is pressure calculated using both force and area rather than force alone?",
+            "options": [
+              "The same force spread over a smaller area produces greater pressure",
+              "Area has no effect on the amount of pressure produced",
+              "Force alone always produces the exact same pressure regardless of area",
+              "This concept has no relevance to physics"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The History of Canada Post and Postal Service",
+        "summary": "Grade 7 Social Studies strand: Canada Post traces its roots to colonial mail services established in the 1700s, was formally organized as a federal department after Confederation, and became a Crown corporation in 1981, connecting communities across a vast country.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "When did Canada Post become a Crown corporation?",
+            "options": [
+              "1917",
+              "1949",
+              "1981",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did colonial mail services in Canada trace their roots back to?",
+            "options": [
+              "The 1950s",
+              "The 1980s",
+              "The 1700s",
+              "A concept unrelated to Canadian postal history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happened to the postal service after Confederation?",
+            "options": [
+              "A concept unrelated to Canada Post",
+              "It was formally organized as a federal department",
+              "It was transferred entirely to another country",
+              "It was immediately shut down and never operated again"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why has reliable postal service historically been important in a country as large as Canada?",
+            "options": [
+              "It connects distant and often remote communities across a vast country",
+              "Postal service has never played any role in connecting communities",
+              "Canada has always relied on other countries to deliver its mail",
+              "A concept unrelated to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one way Canada Post has changed the way it operates in the digital age?",
+            "options": [
+              "It has stopped delivering any packages or mail entirely",
+              "It has adapted to handle more package deliveries as online shopping increased",
+              "Canada Post has remained completely unchanged since the 1700s",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "label": "Day 157 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing the Structure of a Persuasive Speech",
+        "summary": "Grade 7 Language strand: a persuasive speech typically opens with an attention-getting introduction, develops supporting arguments organized logically, addresses potential counterarguments, and closes with a strong call to action.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a persuasive speech typically open with?",
+            "options": [
+              "A summary of the opposing viewpoint only",
+              "A detailed list of unrelated statistics",
+              "A concept unrelated to reading",
+              "An attention-getting introduction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a persuasive speech address potential counterarguments?",
+            "options": [
+              "A concept unrelated to persuasive speeches",
+              "Addressing counterarguments always weakens a persuasive speech",
+              "Persuasive speeches are required to ignore any opposing views",
+              "To strengthen the argument by showing the speaker has considered opposing views"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a persuasive speech typically end with?",
+            "options": [
+              "A list of unrelated facts with no clear purpose",
+              "A concept unrelated to reading",
+              "An open-ended question with no clear conclusion",
+              "A strong call to action"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is logical organization of supporting arguments important in a persuasive speech?",
+            "options": [
+              "Logical organization has no effect on how convincing a speech is",
+              "Persuasive speeches are more effective when arguments are randomly ordered",
+              "It helps the audience follow and be convinced by the reasoning",
+              "This concept has no connection to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which ending best fits the structure of a persuasive speech?",
+            "options": [
+              "Please find attached the quarterly financial report.",
+              "So today, I ask each of you to join this effort and make a difference.",
+              "The chemical symbol for gold is Au.",
+              "Add 15 and 20 to get 35."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Calculating Percent Change and Percent Error",
+        "summary": "Grade 7 Math strand: percent change measures how much a value has increased or decreased relative to its original amount, while percent error measures how far a measured or estimated value is from the actual, correct value.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does percent change measure?",
+            "options": [
+              "How much a value has increased or decreased relative to its original amount",
+              "A concept unrelated to data management",
+              "The total number of values in a data set",
+              "The exact difference between two unrelated data sets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a price rises from 40 dollars to 50 dollars, what is the percent increase?",
+            "options": [
+              "20 percent",
+              "50 percent",
+              "25 percent",
+              "10 percent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does percent error measure?",
+            "options": [
+              "The total number of measurements taken during an experiment",
+              "The exact value of a measurement with no comparison involved",
+              "A concept unrelated to percent error",
+              "How far a measured or estimated value is from the actual, correct value"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the actual value is 50 and the measured value is 45, what is the percent error?",
+            "options": [
+              "5 percent",
+              "90 percent",
+              "50 percent",
+              "10 percent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists calculate percent error after an experiment?",
+            "options": [
+              "Percent error can only be calculated before an experiment begins",
+              "A concept unrelated to data management",
+              "Percent error has no useful purpose in scientific experiments",
+              "To evaluate how accurate their measurement was compared to the true value"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Astronomy: How Our Solar System Formed",
+        "summary": "Grade 7 Science strand: scientists believe the solar system formed about 4.6 billion years ago from a giant, collapsing cloud of gas and dust, with most of the material forming the sun at the centre and the remaining material gradually clumping together to form the planets.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "About how long ago do scientists believe the solar system formed?",
+            "options": [
+              "About 100 years ago",
+              "About 4.6 thousand years ago",
+              "A concept unrelated to astronomy",
+              "About 4.6 billion years ago"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the leading scientific explanation for how the solar system formed?",
+            "options": [
+              "A single planet split apart to create the sun and all other planets",
+              "A giant, collapsing cloud of gas and dust gradually formed the sun and planets",
+              "A concept unrelated to how the solar system formed",
+              "The solar system has always existed exactly as it is today"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What formed at the centre of the collapsing cloud of gas and dust?",
+            "options": [
+              "The moon",
+              "A comet",
+              "The sun",
+              "A concept unrelated to solar system formation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did the planets form according to this model?",
+            "options": [
+              "Planets formed entirely separately from the sun in unrelated events",
+              "Remaining material gradually clumped together through repeated collisions",
+              "Planets appeared instantly with no process of formation at all",
+              "A concept unrelated to astronomy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study meteorites when researching how the solar system formed?",
+            "options": [
+              "Meteorites always form long after a solar system has finished developing",
+              "Meteorites have no connection to the history of the solar system",
+              "This concept has no relevance to science",
+              "Some meteorites contain material largely unchanged since the solar systems early formation"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The 2010 Vancouver Winter Olympics and National Identity",
+        "summary": "Grade 7 Social Studies strand: the 2010 Winter Olympics held in Vancouver brought major international attention to Canada, showcased Canadian athletes on home soil, and became a widely remembered moment of shared national pride and identity.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In which Canadian city were the 2010 Winter Olympics held?",
+            "options": [
+              "Toronto",
+              "Calgary",
+              "Montreal",
+              "Vancouver"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might hosting the Olympics bring international attention to a country?",
+            "options": [
+              "Only local residents are ever aware that the Olympics are taking place",
+              "Athletes and audiences from around the world focus on the host country",
+              "Hosting the Olympics has no effect on international attention",
+              "A concept unrelated to the Vancouver Olympics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What effect did the 2010 Olympics have on many Canadians sense of national pride?",
+            "options": [
+              "It had no effect on how Canadians felt about their country",
+              "A concept unrelated to social studies",
+              "It created a widely remembered moment of shared national pride and identity",
+              "It caused most Canadians to lose interest in the Olympics entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one advantage for athletes competing in an Olympics held in their own country?",
+            "options": [
+              "They get to compete in front of a home crowd and familiar conditions",
+              "A concept unrelated to the Olympics",
+              "Athletes are never allowed to compete in their home country",
+              "Competing at home always provides no advantage of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a country invest significant resources into hosting an event like the Olympics?",
+            "options": [
+              "It can boost tourism, infrastructure, and international recognition",
+              "Hosting the Olympics never has any economic or social impact",
+              "Countries are required by international law to host the Olympics",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "label": "Day 158 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Anagrams and Wordplay",
+        "summary": "Grade 7 Language strand: an anagram is a word or phrase formed by rearranging the letters of another word or phrase, and anagrams are one form of wordplay that writers and puzzle creators use to explore language creatively.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an anagram?",
+            "options": [
+              "A concept unrelated to vocabulary",
+              "A word that can never be rearranged in any way",
+              "A word that always means the exact opposite of another word",
+              "A word or phrase formed by rearranging the letters of another word or phrase"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an anagram of the word listen?",
+            "options": [
+              "Quietly",
+              "Loudly",
+              "Silent",
+              "A concept unrelated to anagrams"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a puzzle creator use anagrams?",
+            "options": [
+              "To challenge readers to find hidden words by rearranging letters",
+              "Anagrams are never used in puzzles of any kind",
+              "A concept unrelated to wordplay",
+              "To make a puzzle impossible for anyone to solve"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one reason wordplay like anagrams can be useful for building vocabulary?",
+            "options": [
+              "It encourages close attention to spelling and letter patterns",
+              "Wordplay has no connection to spelling or vocabulary at all",
+              "This concept has no relevance to vocabulary",
+              "Anagrams always ignore the letters of the original word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes wordplay in general?",
+            "options": [
+              "Creative and playful use of language, such as puns, anagrams, or rhymes",
+              "A concept unrelated to vocabulary",
+              "Language that avoids any creativity or playfulness",
+              "A strictly formal style used only in legal documents"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Quadrilaterals by Properties",
+        "summary": "Grade 7 Math strand: quadrilaterals can be classified by properties such as side length, angle measure, and parallel sides, distinguishing shapes like parallelograms, rectangles, rhombuses, squares, and trapezoids from one another.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What property defines a parallelogram?",
+            "options": [
+              "It has no parallel sides at all",
+              "Both pairs of opposite sides are parallel",
+              "A concept unrelated to geometry",
+              "All four sides are always different lengths"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes a rectangle from a general parallelogram?",
+            "options": [
+              "A rectangle always has four unequal angles",
+              "A concept unrelated to quadrilaterals",
+              "A rectangle has four right angles",
+              "A rectangle never has any parallel sides"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What distinguishes a rhombus from a general parallelogram?",
+            "options": [
+              "A rhombus never has any parallel sides",
+              "A concept unrelated to rhombuses",
+              "A rhombus has four sides of equal length",
+              "A rhombus always has four unequal sides"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What property must a trapezoid have?",
+            "options": [
+              "Exactly one pair of parallel sides",
+              "Two pairs of parallel sides",
+              "A concept unrelated to trapezoids",
+              "No parallel sides of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a square considered both a rectangle and a rhombus?",
+            "options": [
+              "A square has neither right angles nor equal sides",
+              "A square shares no properties with either shape",
+              "This concept has no relevance to geometry",
+              "It has four right angles and four equal sides, satisfying both definitions"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Distillation and Separating Mixtures",
+        "summary": "Grade 7 Science strand: distillation separates the components of a mixture based on differences in boiling point, heating the mixture so the substance with the lower boiling point evaporates first and can then be cooled and collected separately.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What property does distillation use to separate a mixture?",
+            "options": [
+              "Differences in boiling point",
+              "A concept unrelated to chemistry",
+              "Differences in the smell of each substance",
+              "Differences in colour only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During distillation, which substance in a mixture typically evaporates first?",
+            "options": [
+              "The substance with the lower boiling point",
+              "A concept unrelated to distillation",
+              "The substance with the higher boiling point",
+              "Both substances always evaporate at exactly the same time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the evaporated substance after it rises during distillation?",
+            "options": [
+              "A concept unrelated to distillation",
+              "It immediately recombines with the original mixture",
+              "It disappears permanently and is never collected",
+              "It is cooled and condensed back into a liquid, then collected separately"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these processes could distillation be used for?",
+            "options": [
+              "A concept unrelated to separating mixtures",
+              "Separating two identical substances that have the exact same boiling point",
+              "Separating salt from water by evaporating and then condensing the water",
+              "Combining two liquids into a single new substance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is distillation considered a physical rather than a chemical process?",
+            "options": [
+              "Physical and chemical processes are always exactly the same thing",
+              "Distillation always creates a brand-new chemical substance",
+              "This concept has no relevance to science",
+              "The substances involved are only separated, not chemically changed into new substances"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Newfoundland Confederation Debate and Joining Canada in 1949",
+        "summary": "Grade 7 Social Studies strand: after years of economic hardship, Newfoundland held referendums in 1948 on whether to join Canada, remain a British colony, or seek independence, ultimately voting narrowly to become Canadas tenth province in 1949.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did Newfoundland officially join Canada as a province?",
+            "options": [
+              "1982",
+              "1917",
+              "1867",
+              "1949"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What method did Newfoundland use to decide its political future before joining Canada?",
+            "options": [
+              "A private vote held only among government officials",
+              "A series of referendums held in 1948",
+              "A decision made entirely by the British monarch",
+              "A concept unrelated to Newfoundlands history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What were some of the options Newfoundlanders voted on in the referendums?",
+            "options": [
+              "Joining Canada, remaining a British colony, or seeking independence",
+              "Only whether to change their official flag",
+              "Joining the United States or joining France",
+              "A concept unrelated to the Newfoundland referendums"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might economic hardship have influenced Newfoundlands decision to join Canada?",
+            "options": [
+              "Joining Canada offered access to greater economic support and stability",
+              "Economic hardship had no influence on the decision at all",
+              "Newfoundland was economically stronger than Canada at the time",
+              "A concept unrelated to Newfoundlands confederation debate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number province did Newfoundland become when it joined Canada?",
+            "options": [
+              "The fourth province",
+              "The tenth province",
+              "A concept unrelated to Canadian confederation",
+              "The first province"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "label": "Day 159 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Restaurant or Product Review",
+        "summary": "Grade 7 Language strand: a restaurant or product review describes a personal experience with specific details, evaluates strengths and weaknesses using clear criteria, and often ends with a recommendation to help other readers decide.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What does a restaurant or product review typically describe?",
+            "options": [
+              "A personal experience with specific supporting details",
+              "A concept unrelated to writing",
+              "A review always avoids describing any specific details",
+              "A completely unrelated topic with no personal experience involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a review evaluate both strengths and weaknesses?",
+            "options": [
+              "A concept unrelated to writing a review",
+              "Balanced evaluation has no value in a review",
+              "To give readers a fair, balanced picture before they decide",
+              "Reviews are required to mention only strengths and no weaknesses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a review often include at the end?",
+            "options": [
+              "A concept unrelated to reviews",
+              "A review never reaches any kind of conclusion",
+              "A list of unrelated topics with no connection to the review",
+              "A recommendation to help readers decide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are specific details, such as exact dishes or features, useful in a review?",
+            "options": [
+              "Specific details always confuse readers of a review",
+              "This concept has no connection to writing",
+              "Reviews are more effective when they avoid all specific details",
+              "They help readers understand exactly what to expect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence sounds most like part of a product review?",
+            "options": [
+              "Add 15 and 20 to get 35.",
+              "The battery lasted almost two full days, which was longer than I expected.",
+              "Please find attached the quarterly financial report.",
+              "The chemical symbol for gold is Au."
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Volume and Capacity — Litres and Cubic Centimetres",
+        "summary": "Grade 7 Math strand: volume measures the amount of space an object occupies, while capacity measures how much a container can hold, and the two are connected by the fact that one litre is equal to exactly one thousand cubic centimetres.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "How many cubic centimetres are in one litre?",
+            "options": [
+              "1000",
+              "A concept unrelated to measurement",
+              "10",
+              "100"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does capacity measure?",
+            "options": [
+              "The total mass of an object",
+              "How much a container can hold",
+              "A concept unrelated to volume and capacity",
+              "The exact temperature of a liquid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a container has a volume of 2000 cubic centimetres, how many litres can it hold?",
+            "options": [
+              "20 litres",
+              "0.2 litres",
+              "2 litres",
+              "200 litres"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are litres a convenient unit for measuring liquids in everyday life?",
+            "options": [
+              "A concept unrelated to measurement",
+              "They directly relate to cubic centimetres, making conversions straightforward",
+              "Litres can never be used to measure any liquid",
+              "Litres have no mathematical connection to cubic centimetres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a box measures 10 cm by 10 cm by 10 cm, what is its volume in cubic centimetres, and how many litres is that?",
+            "options": [
+              "10 cubic centimetres, which equals 1 litre",
+              "100 cubic centimetres, which equals 1 litre",
+              "1000 cubic centimetres, which equals 1 litre",
+              "10000 cubic centimetres, which equals 1 litre"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Renewable vs Nonrenewable Resources",
+        "summary": "Grade 7 Science strand: renewable resources, such as sunlight and wind, can be replenished naturally within a short time, while nonrenewable resources, such as coal and oil, take millions of years to form and are being used far faster than they are replaced.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What makes a resource renewable?",
+            "options": [
+              "A concept unrelated to earth science",
+              "It is always found only underground",
+              "It takes millions of years to form and can never be replaced",
+              "It can be replenished naturally within a relatively short time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What makes a resource nonrenewable?",
+            "options": [
+              "It takes an extremely long time to form and is not easily replaced",
+              "A concept unrelated to renewable and nonrenewable resources",
+              "It can be replenished naturally within a single day",
+              "It is always replenished faster than it is used"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a renewable resource?",
+            "options": [
+              "Coal",
+              "A concept unrelated to earth science",
+              "Wind",
+              "Oil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a nonrenewable resource?",
+            "options": [
+              "A concept unrelated to nonrenewable resources",
+              "Coal",
+              "Sunlight",
+              "Wind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are governments and industries increasingly interested in renewable resources?",
+            "options": [
+              "This concept has no relevance to science",
+              "Nonrenewable resources can be replenished just as quickly as renewable ones",
+              "Renewable resources are always more difficult to access than nonrenewable ones",
+              "Renewable resources can be replenished and produce fewer long-term supply concerns"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Ontario Human Rights Code and Its Historical Development",
+        "summary": "Grade 7 Social Studies strand: the Ontario Human Rights Code, passed in 1962, was the first law of its kind in Canada to combine various anti-discrimination protections into a single code, laying groundwork later reflected in the Canadian Charter of Rights and Freedoms.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year was the Ontario Human Rights Code passed?",
+            "options": [
+              "1982",
+              "1962",
+              "1867",
+              "1949"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What made the Ontario Human Rights Code significant in Canadian history?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "It was the last province to introduce any human rights protections",
+              "It removed all existing anti-discrimination protections in Ontario",
+              "It was the first law of its kind in Canada to combine various anti-discrimination protections into one code"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What later national document reflected similar rights-based principles?",
+            "options": [
+              "The Statute of Westminster",
+              "The Halibut Treaty of 1923",
+              "A concept unrelated to the Ontario Human Rights Code",
+              "The Canadian Charter of Rights and Freedoms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the general purpose of a human rights code?",
+            "options": [
+              "To regulate international trade agreements",
+              "A concept unrelated to social studies",
+              "To eliminate all legal protections for citizens",
+              "To protect people from discrimination based on specific protected grounds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might provinces have developed their own human rights codes before a national charter existed?",
+            "options": [
+              "A national charter existed long before any provincial human rights code",
+              "This concept has no relevance to social studies",
+              "Provinces have jurisdiction over many areas of daily life where discrimination protections were needed",
+              "Provinces have never had any authority over human rights protections"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "label": "Day 160 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Compound-Complex Sentences, Memoir Writing, and Wordplay",
+        "summary": "Grade 7 Language strand review: students revisit compound-complex sentences, static and dynamic characters, memoir writing, the imperative mood, and anagrams and wordplay.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a compound-complex sentence?",
+            "options": [
+              "A sentence with at least two independent clauses and one dependent clause",
+              "A sentence with only one clause and no punctuation",
+              "A concept unrelated to grammar",
+              "A sentence that never contains a verb"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a dynamic character?",
+            "options": [
+              "A character who never appears in more than one scene",
+              "A character who remains identical from beginning to end",
+              "A character who undergoes a significant, lasting change during the story",
+              "A concept unrelated to dynamic characters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an autobiographical narrative, or memoir?",
+            "options": [
+              "A completely fictional story with invented characters",
+              "A true story told from the writers own life experience",
+              "A concept unrelated to writing",
+              "A story written entirely by someone else about a stranger"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the imperative mood used for?",
+            "options": [
+              "Giving commands, instructions, or requests",
+              "Describing a series of past events only",
+              "A concept unrelated to grammar",
+              "Asking a question about the future"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an anagram?",
+            "options": [
+              "A word that always means the exact opposite of another word",
+              "A word that can never be rearranged in any way",
+              "A concept unrelated to vocabulary",
+              "A word or phrase formed by rearranging the letters of another word or phrase"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Speed, Inequalities, Percent Change, and Capacity",
+        "summary": "Grade 7 Math strand review: students revisit speed/distance/time, graphing linear inequalities in two variables, percentiles and quartiles, percent change and percent error, and volume/capacity.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What formula is used to calculate speed?",
+            "options": [
+              "Time divided by distance",
+              "A concept unrelated to measurement",
+              "Distance divided by time",
+              "Distance multiplied by time"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does shading a region of the graph represent when graphing a linear inequality?",
+            "options": [
+              "A concept unrelated to graphing inequalities",
+              "The boundary line itself and nothing else",
+              "All the points that satisfy the inequality",
+              "A single point that satisfies the inequality"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do quartiles do to a data set?",
+            "options": [
+              "Divide it into exactly two equal parts",
+              "Combine every value into a single number with no divisions",
+              "A concept unrelated to data management",
+              "Divide it into four equal parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does percent change measure?",
+            "options": [
+              "The total number of values in a data set",
+              "How much a value has increased or decreased relative to its original amount",
+              "The exact difference between two unrelated data sets",
+              "A concept unrelated to data management"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many cubic centimetres are in one litre?",
+            "options": [
+              "A concept unrelated to measurement",
+              "100",
+              "10",
+              "1000"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Reaction Rates, Waves, Periodic Trends, and Plant Adaptations",
+        "summary": "Grade 7 Science strand review: students revisit factors affecting reaction rate, transverse and longitudinal waves, periodic table families and trends, plant adaptations to extreme climates, and how the solar system formed.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What generally happens to a reaction rate when temperature is increased?",
+            "options": [
+              "It always stays exactly the same",
+              "It generally increases",
+              "It always decreases sharply",
+              "A concept unrelated to chemistry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a transverse wave, how do particles move relative to the direction of the wave?",
+            "options": [
+              "At right angles, or perpendicular, to the direction of the wave",
+              "In exactly the same direction as the wave travels",
+              "Particles never move at all in a transverse wave",
+              "A concept unrelated to waves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do elements within the same family, or group, of the periodic table generally share?",
+            "options": [
+              "Completely unrelated chemical properties",
+              "A concept unrelated to chemistry",
+              "Similar chemical properties",
+              "Identical physical appearances with no exceptions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do many desert plants have thick, waxy leaves?",
+            "options": [
+              "Thick waxy leaves have no connection to water conservation",
+              "To reduce water loss in a dry climate",
+              "A concept unrelated to biology",
+              "To attract as many insects as possible"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the leading scientific explanation for how the solar system formed?",
+            "options": [
+              "A concept unrelated to how the solar system formed",
+              "A single planet split apart to create the sun and all other planets",
+              "The solar system has always existed exactly as it is today",
+              "A giant, collapsing cloud of gas and dust gradually formed the sun and planets"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Vimy Ridge, Railways, Currency, and Indigenous Rights",
+        "summary": "Grade 7 Social Studies strand review: students revisit the Battle of Vimy Ridge, the creation of the Canadian National Railway, Canadian currency and the Royal Canadian Mint, the Metis Nation, and the Ontario Human Rights Code.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In what year did the Battle of Vimy Ridge take place?",
+            "options": [
+              "1949",
+              "1867",
+              "1917",
+              "1885"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did the federal government create the Canadian National Railway?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "To combine struggling private railways into one stable, publicly owned company",
+              "To sell Canadian rail lines to a foreign government",
+              "To eliminate all rail service across the country permanently"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main role of the Royal Canadian Mint?",
+            "options": [
+              "A concept unrelated to Canadian history",
+              "Printing newspapers for the federal government",
+              "Regulating interprovincial trade agreements",
+              "Producing Canadas coins"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Under which document did the Metis gain formal recognition as one of Canadas Aboriginal peoples?",
+            "options": [
+              "A concept unrelated to the Metis Nation",
+              "The 1982 Constitution",
+              "The Statute of Westminster",
+              "The Halibut Treaty of 1923"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What made the Ontario Human Rights Code significant in Canadian history?",
+            "options": [
+              "It was the last province to introduce any human rights protections",
+              "It removed all existing anti-discrimination protections in Ontario",
+              "A concept unrelated to Canadian history",
+              "It was the first law of its kind in Canada to combine various anti-discrimination protections into one code"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
