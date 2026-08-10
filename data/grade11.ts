@@ -2022,6 +2022,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"English", title:"Literature: Unreliable Narrators", summary:"Grade 11 English strand: an unreliable narrator is a storyteller whose credibility is compromised, requiring readers to critically evaluate the accuracy of the account being presented.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=PIlijplYCOI",
    quiz:[
      {q:"An unreliable narrator is a storyteller whose ___ is compromised.", options:["Credibility","Name, with no connection to trustworthiness","Physical appearance","Age, with no connection to the accuracy of their account"], answer:0},
      {q:"Why might readers need to critically evaluate the account presented by an unreliable narrator?", options:["Readers never need to question a narrator’s reliability","The narrator’s version of events may be biased, incomplete, or intentionally misleading","Unreliable narrators always present a completely accurate account of events","This type of narration has no effect on how a story should be read"], answer:1},
@@ -2040,6 +2041,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Conservation: Invasive Species and Ecosystem Disruption", summary:"Grade 11 Biology strand: an invasive species is a non-native organism that spreads rapidly in a new environment, often disrupting local ecosystems by outcompeting native species for resources.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=spTWwqVP_2s",
    quiz:[
      {q:"An invasive species is best described as ___.", options:["A species with no ability to affect its environment","A non-native organism that spreads rapidly in a new environment","A concept entirely unrelated to ecology","A native organism that has always existed in a particular ecosystem"], answer:1},
      {q:"Invasive species often disrupt local ecosystems by ___.", options:["Having no effect on the native species in an ecosystem","A process entirely unrelated to ecological competition","Only benefiting native species with no negative impact","Outcompeting native species for resources"], answer:3},
@@ -2049,6 +2051,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Industrial Chemistry: Minimizing Waste and Environmental Impact", summary:"Grade 11 Chemistry strand: industrial chemistry involves designing processes that minimize waste, energy use, and environmental impact while still efficiently producing needed chemical products.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=X9GHBdyYcyo",
    quiz:[
      {q:"Industrial chemistry involves designing processes that minimize ___.", options:["The overall usefulness of the final chemical product","A factor entirely unrelated to chemical production","The efficiency of a chemical process","Waste, energy use, and environmental impact"], answer:3},
      {q:"Why might a company choose to redesign a chemical process to reduce waste?", options:["This concept has no connection to industrial chemistry","Reducing waste always increases both costs and environmental harm","Waste reduction has no benefit for a company or the environment","It can lower costs and reduce negative effects on the environment"], answer:3},

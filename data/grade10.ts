@@ -2041,6 +2041,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Chemistry: Stoichiometry and Chemical Calculations", summary:"Grade 10 Chemistry strand: stoichiometry uses the balanced equation of a chemical reaction to calculate the amounts of reactants and products involved, based on mole ratios.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=0UNn5LtmVBo",
    quiz:[
      {q:"Stoichiometry uses a balanced chemical equation to calculate ___.", options:["The temperature required for a reaction to occur","The exact colour of a chemical reaction","The amounts of reactants and products involved","A value unrelated to chemical reactions"], answer:2},
      {q:"Stoichiometric calculations are based on ___.", options:["A method unrelated to chemical equations","Random guesses with no mathematical basis","Only the mass of the reactants, with no other consideration","Mole ratios from the balanced equation"], answer:3},

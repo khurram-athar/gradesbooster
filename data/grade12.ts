@@ -2024,6 +2024,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"English", title:"Writing: Synthesizing Multiple Sources in Academic Argument", summary:"Grade 12 English strand: synthesizing multiple sources involves weaving together evidence and ideas from several texts to construct a cohesive, original argument, rather than simply summarizing each source in isolation.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=B-HENBXQlOs",
    quiz:[
      {q:"Synthesizing multiple sources involves weaving together evidence and ideas from several texts to construct ___.", options:["A series of completely separate, disconnected summaries","A cohesive, original argument","A concept unrelated to using multiple sources","An argument based entirely on a single source, with no others considered"], answer:1},
      {q:"Why is synthesis different from simply summarizing each source one at a time?", options:["Synthesis never involves comparing or connecting ideas from multiple sources","Synthesis actively connects and compares ideas across sources to build a new, unified argument","Synthesis and summarizing sources one at a time are always identical processes","This concept has no connection to constructing an academic argument"], answer:1},
@@ -2051,6 +2052,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Renewable Energy Technologies -- Physics Principles", summary:"Grade 12 Physics strand: renewable energy technologies, such as solar panels and wind turbines, apply fundamental physics principles to convert natural sources of energy into usable electrical power.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=xKxrkht7CpY",
    quiz:[
      {q:"Renewable energy technologies apply fundamental physics principles to convert natural sources of energy into ___.", options:["A concept unrelated to energy conversion","Usable electrical power","A form of energy with no practical application","Heat that is immediately released with no further use"], answer:1},
      {q:"Which is an example of a renewable energy technology?", options:["A solar panel","A device entirely unrelated to energy generation","A technology that relies exclusively on non-renewable fuel sources","A tool that generates no usable energy whatsoever"], answer:0},
