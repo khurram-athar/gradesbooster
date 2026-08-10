@@ -8313,6 +8313,586 @@ const curriculum: DayContent[] = [
      {prompt:"What is fair trade?", answers:["buying goods in a way that pays workers fairly"]}
    ]},
 ]},
+{day:151, label:"Day 151 — Mon", subjects:[
+  {subject:"Language", title:"Suffixes: Adding -y to Make Adjectives", summary:"Grade 1 Language strand: adding the suffix -y to a noun can create an adjective describing something, such as changing rain into rainy or sun into sunny.",
+   resourceLabel:"YouTube: Suffixes: Adding -y to Make Adjectives", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-y%20to%20Make%20Adjectives%20grade%201%20educational",
+   quiz:[
+     {q:"Which word is formed by adding -y to rain?", options:["Rainy","Rainer","Raining","Rained"], answer:0},
+     {q:"Which word is formed by adding -y to sun?", options:["Sunning","Sunny","Sunned","Suns"], answer:1},
+     {q:"The suffix -y often turns a noun into a kind of ___.", options:["Pronoun","Verb","Adjective","Preposition"], answer:2},
+     {q:"Which word describes a day with lots of wind?", options:["Wind","Windy","Winds","Winded"], answer:1},
+     {q:"Adding -y to a word can help describe what the ___ is like.", options:["Weather","Alphabet","Punctuation","Grammar"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does adding -y to rain make?", answers:["rainy","rainy weather"]},
+     {prompt:"What does adding -y to sun make?", answers:["sunny","sunny weather"]},
+     {prompt:"Give another example of a word with -y added.", answers:["windy","cloudy"]}
+   ]},
+  {subject:"Math", title:"Numbers to 500: Beyond 400", summary:"Grade 1 Math strand: students read, write, and count numbers beyond 400, up to 500.",
+   resourceLabel:"YouTube: Numbers to 500: Beyond 400", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20500%3A%20Beyond%20400%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 499?", options:["499","500","501","498"], answer:1},
+     {q:"Which number is between 420 and 440?", options:["460","450","430","410"], answer:2},
+     {q:"What number comes right before 500?", options:["499","498","501","500"], answer:0},
+     {q:"Which of these numbers is the largest?", options:["199","399","499","299"], answer:2},
+     {q:"Counting beyond 400 helps us understand numbers up to ___.", options:["50","5000","500","5"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 499?", answers:["500","five hundred"]},
+     {prompt:"What number comes right before 450?", answers:["449","four hundred forty nine"]},
+     {prompt:"Count by tens from 480 to 500.", answers:["480,490,500","480 490 500"]}
+   ]},
+  {subject:"Science", title:"Our Blood: Carrying Oxygen Through Our Body", summary:"Grade 1 Science strand: our blood travels through our body carrying oxygen and nutrients to help keep every part of us working.",
+   resourceLabel:"YouTube: Our Blood: Carrying Oxygen Through Our Body", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Blood%3A%20Carrying%20Oxygen%20Through%20Our%20Body%20grade%201%20educational",
+   quiz:[
+     {q:"What does our blood mainly carry through our body?", options:["Only water","Only air","Nothing important","Oxygen and nutrients"], answer:3},
+     {q:"What organ pumps blood around our body?", options:["The brain","The lungs","The heart","The stomach"], answer:2},
+     {q:"Why do our body parts need blood?", options:["To make us grow taller only","To get oxygen and nutrients to keep working","To make us feel cold","Blood has no real job"], answer:1},
+     {q:"Which of these travels through our blood to our muscles?", options:["Light","Oxygen","Electricity","Sound"], answer:1},
+     {q:"Blood moves through our body inside tube-like pathways called ___.", options:["Blood vessels","Nerves","Bones","Muscles"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does our blood carry to the rest of our body?", answers:["oxygen and nutrients","oxygen"]},
+     {prompt:"What organ pumps blood around our body?", answers:["the heart","heart"]},
+     {prompt:"Why is blood important for our body?", answers:["it keeps our body parts working","carries what we need to live"]}
+   ]},
+  {subject:"SocialStudies", title:"Family Day: A Special Ontario Holiday", summary:"Grade 1 Social Studies strand: Family Day is a holiday in Ontario every February when families and friends can spend time together and rest.",
+   resourceLabel:"YouTube: Family Day: A Special Ontario Holiday", resourceUrl:"https://www.youtube.com/results?search_query=Family%20Day%3A%20A%20Special%20Ontario%20Holiday%20grade%201%20educational",
+   quiz:[
+     {q:"In what month is Family Day celebrated in Ontario?", options:["February","December","April","July"], answer:0},
+     {q:"What is the main purpose of Family Day?", options:["To go to school","To do extra homework","To clean the house only","To spend time with family and friends"], answer:3},
+     {q:"Which of these might a family do together on Family Day?", options:["Work at separate jobs all day","Stay apart from each other","Ignore each other","Go skating together"], answer:3},
+     {q:"Family Day is an example of a ___ in Ontario.", options:["School subject","Statutory holiday","Type of weather","Sports team"], answer:1},
+     {q:"Family Day reminds us that spending time with family is ___.", options:["A waste of time","Important","Boring","Unnecessary"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What month is Family Day celebrated in Ontario?", answers:["February","in February"]},
+     {prompt:"Why do people celebrate Family Day?", answers:["to spend time with family","rest and be with family"]},
+     {prompt:"Name something a family might do together on Family Day.", answers:["go skating","play games together"]}
+   ]},
+]},
+{day:152, label:"Day 152 — Tue", subjects:[
+  {subject:"Language", title:"Prefixes: in- and im-", summary:"Grade 1 Language strand: the prefixes in- and im- can mean not, changing a word like active into inactive or possible into impossible.",
+   resourceLabel:"YouTube: Prefixes: in- and im-", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20in-%20and%20im-%20grade%201%20educational",
+   quiz:[
+     {q:"What does the prefix in- often mean when added to a word?", options:["Again","Before","Not","Very"], answer:2},
+     {q:"Which word means not possible?", options:["Repossible","Possible","Prepossible","Impossible"], answer:3},
+     {q:"Which word means not active?", options:["Reactive","Overactive","Preactive","Inactive"], answer:3},
+     {q:"Adding in- or im- to a word usually changes its meaning to ___.", options:["A number","The opposite meaning","The same meaning","A colour"], answer:1},
+     {q:"Which word means not correct?", options:["Overcorrect","Uncorrect","Precorrect","Incorrect"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does the prefix in- often mean?", answers:["not","the opposite"]},
+     {prompt:"Give an example word using in- or im-.", answers:["inactive","impossible"]},
+     {prompt:"What does impossible mean?", answers:["not possible","cannot be done"]}
+   ]},
+  {subject:"Math", title:"Skip Counting by 50s", summary:"Grade 1 Math strand: students practise skip counting by 50s, counting 50, 100, 150, and so on, to build number sense with larger numbers.",
+   resourceLabel:"YouTube: Skip Counting by 50s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%2050s%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 150 when counting by 50s?", options:["250","200","160","175"], answer:1},
+     {q:"What number comes right after 300 when counting by 50s?", options:["375","400","350","325"], answer:2},
+     {q:"Which of these numbers would you say when counting by 50s?", options:["410","420","430","400"], answer:3},
+     {q:"Skip counting by 50s means adding ___ each time.", options:["15","100","50","5"], answer:2},
+     {q:"Which of these numbers would NOT be said when counting by 50s starting at 50?", options:["150","125","100","200"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Count by 50s from 50 to 250.", answers:["50,100,150,200,250","50 100 150 200 250"]},
+     {prompt:"What number comes after 200 when counting by 50s?", answers:["250","two hundred fifty"]},
+     {prompt:"Is 175 a number you would say when counting by 50s?", answers:["no","no it is not"]}
+   ]},
+  {subject:"Science", title:"Tornadoes: Spinning Storms", summary:"Grade 1 Science strand: a tornado is a spinning column of fast moving air that can form during a strong storm and cause damage.",
+   resourceLabel:"YouTube: Tornadoes: Spinning Storms", resourceUrl:"https://www.youtube.com/results?search_query=Tornadoes%3A%20Spinning%20Storms%20grade%201%20educational",
+   quiz:[
+     {q:"What is a tornado?", options:["A gentle rain shower","A calm sunny breeze","A spinning column of fast moving air","A quiet snowy day"], answer:2},
+     {q:"What can a tornado do when it touches the ground?", options:["Create rainbows","Make flowers grow","Cool the weather gently","Cause damage"], answer:3},
+     {q:"Where is a safe place to go during a tornado?", options:["On a rooftop","Standing outside watching","A basement or interior room away from windows","Near a window for a better view"], answer:2},
+     {q:"Tornadoes often form during what kind of weather?", options:["Foggy mornings","Strong thunderstorms","Calm sunny days","Light snowfall"], answer:1},
+     {q:"Learning about tornadoes helps us know how to stay ___.", options:["Careless","Bored","Unaware","Safe"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is a tornado?", answers:["a spinning column of air","a spinning storm"]},
+     {prompt:"What can happen when a tornado touches the ground?", answers:["it can cause damage","it can knock things down"]},
+     {prompt:"Where should you go to stay safe during a tornado?", answers:["a safe indoor space","a basement or interior room"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Postal Code: A Special Set of Letters and Numbers", summary:"Grade 1 Social Studies strand: a postal code is a special set of letters and numbers that helps mail carriers deliver mail to the right address.",
+   resourceLabel:"YouTube: Our Postal Code: A Special Set of Letters and Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Postal%20Code%3A%20A%20Special%20Set%20of%20Letters%20and%20Numbers%20grade%201%20educational",
+   quiz:[
+     {q:"What is a postal code made up of?", options:["Only pictures","Letters and numbers","Only shapes","Only colours"], answer:1},
+     {q:"What does a postal code help mail carriers do?", options:["Water plants","Deliver mail to the right address","Drive a school bus","Bake bread"], answer:1},
+     {q:"Why might it be useful to know your own postal code?", options:["It changes every day","It is only used for games","It helps mail and packages reach your home","It has no real use"], answer:2},
+     {q:"A postal code is part of what larger piece of information?", options:["Your home address","Your shoe size","Your birthday","Your favourite colour"], answer:0},
+     {q:"Postal codes help make sure mail is delivered ___.", options:["Accurately","Never","Only on weekends","Randomly"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a postal code made of?", answers:["letters and numbers","a mix of letters and numbers"]},
+     {prompt:"What does a postal code help with?", answers:["delivering mail","finding the right address"]},
+     {prompt:"Why is knowing your postal code useful?", answers:["helps mail reach you","helps others find your address"]}
+   ]},
+]},
+{day:153, label:"Day 153 — Wed", subjects:[
+  {subject:"Language", title:"Hyperbole: Exaggerating for Effect", summary:"Grade 1 Language strand: hyperbole is a big exaggeration used in stories to make a feeling or idea seem much bigger than it really is, like saying I could eat a horse.",
+   resourceLabel:"YouTube: Hyperbole: Exaggerating for Effect", resourceUrl:"https://www.youtube.com/results?search_query=Hyperbole%3A%20Exaggerating%20for%20Effect%20grade%201%20educational",
+   quiz:[
+     {q:"What is hyperbole?", options:["A true fact","A big exaggeration used for effect","A type of punctuation","A silent letter"], answer:1},
+     {q:"Which sentence is an example of hyperbole?", options:["I have a million toys","I have some toys","I have one toy","I have three toys"], answer:0},
+     {q:"Why might an author use hyperbole in a story?", options:["To make a feeling or idea seem bigger","To confuse the reader","To remove all feeling from a story","To make the story shorter"], answer:0},
+     {q:"Which of these is an exaggeration?", options:["This bag weighs two kilograms","This bag is small","This bag weighs a ton","This bag is empty"], answer:2},
+     {q:"Hyperbole is a type of ___.", options:["Vowel team","Figurative language","Silent letter","Punctuation mark"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is hyperbole?", answers:["a big exaggeration","saying something is much bigger than true"]},
+     {prompt:"Give an example of hyperbole.", answers:["I could eat a horse","I have a million toys"]},
+     {prompt:"Why do writers use hyperbole?", answers:["to make a feeling seem bigger","for effect"]}
+   ]},
+  {subject:"Math", title:"Time: Understanding AM and PM", summary:"Grade 1 Math strand: AM refers to the time from midnight to noon, while PM refers to the time from noon to midnight, helping us know if it is morning or evening.",
+   resourceLabel:"YouTube: Time: Understanding AM and PM", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Understanding%20AM%20and%20PM%20grade%201%20educational",
+   quiz:[
+     {q:"What part of the day does AM usually refer to?", options:["Midnight to noon","Noon to midnight","Only nighttime","Only lunchtime"], answer:0},
+     {q:"What part of the day does PM usually refer to?", options:["Noon to midnight","Only bedtime","Midnight to noon","Only breakfast time"], answer:0},
+     {q:"Is 7 oclock in the morning AM or PM?", options:["PM","Neither","AM","Both"], answer:2},
+     {q:"Is 7 oclock in the evening AM or PM?", options:["PM","Both","Neither","AM"], answer:0},
+     {q:"Knowing AM and PM helps us understand ___ of the day.", options:["What time","What weather","What season","What colour"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Does AM mean morning or evening time?", answers:["morning","the morning part of the day"]},
+     {prompt:"Does PM mean morning or evening time?", answers:["evening","afternoon and evening"]},
+     {prompt:"Is 8 oclock in the morning AM or PM?", answers:["AM","it is AM"]}
+   ]},
+  {subject:"Science", title:"Polar Bears: Giants of the Arctic", summary:"Grade 1 Science strand: polar bears are large mammals with thick white fur that live in the Arctic and are strong swimmers who hunt seals.",
+   resourceLabel:"YouTube: Polar Bears: Giants of the Arctic", resourceUrl:"https://www.youtube.com/results?search_query=Polar%20Bears%3A%20Giants%20of%20the%20Arctic%20grade%201%20educational",
+   quiz:[
+     {q:"Where do polar bears live?", options:["The desert","The ocean floor","The Arctic","The rainforest"], answer:2},
+     {q:"What colour is polar bear fur?", options:["Orange","Green","White","Black"], answer:2},
+     {q:"What do polar bears often hunt for food?", options:["Seals","Fish only in rivers","Insects","Zebras"], answer:0},
+     {q:"What kind of animal is a polar bear?", options:["A mammal","A bird","A fish","A reptile"], answer:0},
+     {q:"Polar bears are known to be strong ___.", options:["Climbers only","Diggers only","Flyers","Swimmers"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Where do polar bears live?", answers:["the Arctic","in the Arctic"]},
+     {prompt:"What colour is a polar bears fur?", answers:["white","thick white fur"]},
+     {prompt:"What do polar bears often hunt?", answers:["seals","they hunt seals"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadas National Sports: Hockey and Lacrosse", summary:"Grade 1 Social Studies strand: hockey is Canadas official winter sport and lacrosse is Canadas official summer sport, both loved by many Canadians.",
+   resourceLabel:"YouTube: Canadas National Sports: Hockey and Lacrosse", resourceUrl:"https://www.youtube.com/results?search_query=Canadas%20National%20Sports%3A%20Hockey%20and%20Lacrosse%20grade%201%20educational",
+   quiz:[
+     {q:"What is Canadas official winter sport?", options:["Basketball","Soccer","Hockey","Tennis"], answer:2},
+     {q:"What is Canadas official summer sport?", options:["Baseball","Swimming","Lacrosse","Golf"], answer:2},
+     {q:"What season is hockey usually associated with?", options:["Summer","Fall","Spring","Winter"], answer:3},
+     {q:"Lacrosse is a sport that was first played by whom?", options:["Only astronauts","Indigenous peoples","Only sailors","Only recent settlers"], answer:1},
+     {q:"National sports like hockey and lacrosse are an important part of Canadas ___.", options:["Culture","Weather","Geography","Government"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is Canadas official winter sport?", answers:["hockey","ice hockey"]},
+     {prompt:"What is Canadas official summer sport?", answers:["lacrosse"]},
+     {prompt:"Why do many Canadians enjoy hockey?", answers:["it is fun to play and watch","it is a fast exciting sport"]}
+   ]},
+]},
+{day:154, label:"Day 154 — Thu", subjects:[
+  {subject:"Language", title:"Book Genres: Fantasy, Realistic Fiction, and Fairy Tales", summary:"Grade 1 Language strand: books can belong to different genres, such as fantasy with magic, realistic fiction that could really happen, and fairy tales with classic story patterns.",
+   resourceLabel:"YouTube: Book Genres: Fantasy, Realistic Fiction, and Fairy Tales", resourceUrl:"https://www.youtube.com/results?search_query=Book%20Genres%3A%20Fantasy%2C%20Realistic%20Fiction%2C%20and%20Fairy%20Tales%20grade%201%20educational",
+   quiz:[
+     {q:"What might you find in a fantasy story?", options:["Only true facts","Only real people","Only numbers","Magic and made-up creatures"], answer:3},
+     {q:"What makes a story realistic fiction?", options:["It always includes dragons","It is always true","It could really happen even though it is made up","It has no characters"], answer:2},
+     {q:"Which of these is a common feature of fairy tales?", options:["Only real historical dates","Only diagrams and charts","Only recipes","A classic story pattern like a hero and a problem"], answer:3},
+     {q:"Which of these is an example of a fairy tale?", options:["Cinderella","A weather report","A newspaper article","A math textbook"], answer:0},
+     {q:"Knowing about genres helps readers ___.", options:["Avoid reading altogether","Skip every book","Choose books they will enjoy","Ignore the story"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What might you find in a fantasy story?", answers:["magic","dragons or magic"]},
+     {prompt:"What is realistic fiction?", answers:["a story that could really happen","made up but realistic"]},
+     {prompt:"Give an example of a fairy tale you know.", answers:["Cinderella","Snow White"]}
+   ]},
+  {subject:"Math", title:"Money: Counting Up to Five Dollars", summary:"Grade 1 Math strand: students combine coins and bills to make amounts of money up to five dollars.",
+   resourceLabel:"YouTube: Money: Counting Up to Five Dollars", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Counting%20Up%20to%20Five%20Dollars%20grade%201%20educational",
+   quiz:[
+     {q:"How many loonies would you need to make five dollars?", options:["4","2","3","5"], answer:3},
+     {q:"Which combination makes exactly five dollars?", options:["Two loonies","Five loonies","Three quarters","One toonie"], answer:1},
+     {q:"If you have two toonies and one loonie, how much money do you have?", options:["5 dollars","3 dollars","4 dollars","2 dollars"], answer:0},
+     {q:"Which single bill is worth five dollars?", options:["A one dollar bill","A twenty dollar bill","A ten dollar bill","A five dollar bill"], answer:3},
+     {q:"Practising with coins and bills up to five dollars helps us understand ___.", options:["Only colours","Larger amounts of money","Nothing useful","Only shapes"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"How many loonies make five dollars?", answers:["5","five loonies"]},
+     {prompt:"Name a way to make five dollars using bills or coins.", answers:["a five dollar bill","five loonies"]},
+     {prompt:"If you have three loonies and one toonie, how much money do you have?", answers:["5 dollars","five dollars"]}
+   ]},
+  {subject:"Science", title:"The Ocean Floor: Exploring Under the Sea", summary:"Grade 1 Science strand: the ocean floor is the ground under the sea, with features like mountains, valleys, and flat plains, home to many sea creatures.",
+   resourceLabel:"YouTube: The Ocean Floor: Exploring Under the Sea", resourceUrl:"https://www.youtube.com/results?search_query=The%20Ocean%20Floor%3A%20Exploring%20Under%20the%20Sea%20grade%201%20educational",
+   quiz:[
+     {q:"What is the ocean floor?", options:["A kind of fish","The ground under the sea","A type of cloud","The top of the water"], answer:1},
+     {q:"Which of these might be found on the ocean floor?", options:["Underwater mountains","Roads","Buildings","Trees"], answer:0},
+     {q:"Why is the ocean floor important for sea creatures?", options:["It only holds sand","It is always empty","It has no importance","It provides a home and shelter"], answer:3},
+     {q:"Which of these lives on or near the ocean floor?", options:["A butterfly","A rabbit","A crab","An eagle"], answer:2},
+     {q:"The deepest parts of the ocean floor form deep ___.", options:["Valleys","Deserts","Mountains only","Clouds"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is the ocean floor?", answers:["the ground under the sea","the bottom of the ocean"]},
+     {prompt:"Name one feature found on the ocean floor.", answers:["mountains","valleys"]},
+     {prompt:"Why is the ocean floor important to sea creatures?", answers:["it gives them a home","provides shelter and food"]}
+   ]},
+  {subject:"SocialStudies", title:"Our School Nurse: Keeping Us Healthy at School", summary:"Grade 1 Social Studies strand: a school nurse helps take care of students who feel sick or hurt and teaches ways to stay healthy at school.",
+   resourceLabel:"YouTube: Our School Nurse: Keeping Us Healthy at School", resourceUrl:"https://www.youtube.com/results?search_query=Our%20School%20Nurse%3A%20Keeping%20Us%20Healthy%20at%20School%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main job of a school nurse?", options:["Helping students who feel sick or hurt","Driving the school bus","Teaching math class","Cooking school lunches"], answer:0},
+     {q:"Where does a school nurse usually work?", options:["At school","In a grocery store","At an airport","In a factory"], answer:0},
+     {q:"Why is it helpful for a school to have a nurse?", options:["It helps keep students safe and healthy","It has no real purpose","It replaces doctors completely","It only helps teachers"], answer:0},
+     {q:"Which of these might a school nurse help with?", options:["A student with a scraped knee","Painting a mural","Planning a field trip","Fixing a broken window"], answer:0},
+     {q:"A school nurse is an example of a helper who supports our ___.", options:["Homework","Transportation","Lunch menu","Health"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a school nurse help with?", answers:["taking care of sick or hurt students","helping students stay healthy"]},
+     {prompt:"Where does a school nurse usually work?", answers:["at school","in the school health room"]},
+     {prompt:"Why is having a school nurse helpful?", answers:["helps students feel better","keeps students safe and healthy"]}
+   ]},
+]},
+{day:155, label:"Day 155 — Fri", subjects:[
+  {subject:"Language", title:"Plural Nouns: Irregular Plurals", summary:"Grade 1 Language strand: some plural nouns do not simply add -s or -es, but change in special ways, such as mouse becoming mice or foot becoming feet.",
+   resourceLabel:"YouTube: Plural Nouns: Irregular Plurals", resourceUrl:"https://www.youtube.com/results?search_query=Plural%20Nouns%3A%20Irregular%20Plurals%20grade%201%20educational",
+   quiz:[
+     {q:"What is the plural of mouse?", options:["Mousees","Mice","Mouses","Mices"], answer:1},
+     {q:"What is the plural of foot?", options:["Footes","Feets","Feet","Foots"], answer:2},
+     {q:"What is the plural of child?", options:["Childrens","Children","Childs","Childes"], answer:1},
+     {q:"What is the plural of tooth?", options:["Teeths","Teeth","Tooths","Toothes"], answer:1},
+     {q:"Irregular plurals are words that ___ when they become plural.", options:["Always add -s","Never change","Become shorter only","Change in a special way"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the plural of mouse?", answers:["mice"]},
+     {prompt:"What is the plural of foot?", answers:["feet"]},
+     {prompt:"What is the plural of child?", answers:["children"]}
+   ]},
+  {subject:"Math", title:"Measurement: Weight in Kilograms and Grams", summary:"Grade 1 Math strand: kilograms and grams are standard units used to measure how heavy something is, with grams used for lighter objects and kilograms for heavier ones.",
+   resourceLabel:"YouTube: Measurement: Weight in Kilograms and Grams", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Weight%20in%20Kilograms%20and%20Grams%20grade%201%20educational",
+   quiz:[
+     {q:"Which unit would you use to weigh a small paperclip?", options:["Metres","Litres","Kilograms","Grams"], answer:3},
+     {q:"Which unit would you use to weigh a large dog?", options:["Millilitres","Kilograms","Centimetres","Grams"], answer:1},
+     {q:"Which is heavier, one kilogram or one gram?", options:["One gram","Neither has weight","One kilogram","They are the same"], answer:2},
+     {q:"Which tool do we use to measure weight?", options:["A clock","A ruler","A thermometer","A scale"], answer:3},
+     {q:"Grams are usually used to measure things that are ___.", options:["Tall","Long","Very heavy","Light"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Which unit would you use to weigh a feather, grams or kilograms?", answers:["grams"]},
+     {prompt:"Which unit would you use to weigh a dog, grams or kilograms?", answers:["kilograms"]},
+     {prompt:"Why do we use different units for weight?", answers:["some things are lighter or heavier","depends on the size of the object"]}
+   ]},
+  {subject:"Science", title:"Chameleons: Colour-Changing Lizards", summary:"Grade 1 Science strand: chameleons are lizards that can change the colour of their skin to blend in with their surroundings or show their feelings.",
+   resourceLabel:"YouTube: Chameleons: Colour-Changing Lizards", resourceUrl:"https://www.youtube.com/results?search_query=Chameleons%3A%20Colour-Changing%20Lizards%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of animal is a chameleon?", options:["A fish","A bird","A lizard","A mammal"], answer:2},
+     {q:"What special ability do chameleons have?", options:["Breathing underwater only","Growing feathers","Changing the colour of their skin","Flying through the air"], answer:2},
+     {q:"Why might a chameleon change its colour?", options:["To grow bigger","To blend in with its surroundings","To swim better","To fly faster"], answer:1},
+     {q:"Chameleons are an example of an animal with ___.", options:["Wings","Fur","Camouflage abilities","Gills only"], answer:2},
+     {q:"What kind of habitat might a chameleon live in?", options:["Outer space","The deep ocean","A forest or jungle","The Arctic ice"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What kind of animal is a chameleon?", answers:["a lizard"]},
+     {prompt:"What special thing can a chameleon do?", answers:["change colour","change the colour of its skin"]},
+     {prompt:"Why might a chameleon change colour?", answers:["to blend in","to hide or show feelings"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadas Three Oceans: Atlantic, Pacific, and Arctic", summary:"Grade 1 Social Studies strand: Canada is bordered by three oceans, the Atlantic Ocean in the east, the Pacific Ocean in the west, and the Arctic Ocean in the north.",
+   resourceLabel:"YouTube: Canadas Three Oceans: Atlantic, Pacific, and Arctic", resourceUrl:"https://www.youtube.com/results?search_query=Canadas%20Three%20Oceans%3A%20Atlantic%2C%20Pacific%2C%20and%20Arctic%20grade%201%20educational",
+   quiz:[
+     {q:"Which ocean borders the east coast of Canada?", options:["The Atlantic Ocean","The Pacific Ocean","The Southern Ocean","The Indian Ocean"], answer:0},
+     {q:"Which ocean borders the west coast of Canada?", options:["The Atlantic Ocean","The Pacific Ocean","The Arctic Ocean","The Indian Ocean"], answer:1},
+     {q:"Which ocean borders the north of Canada?", options:["The Atlantic Ocean","The Pacific Ocean","The Indian Ocean","The Arctic Ocean"], answer:3},
+     {q:"How many oceans border Canada?", options:["2","1","3","4"], answer:2},
+     {q:"Being bordered by three oceans gives Canada a very long ___.", options:["Border with only one country","Desert region","Coastline","Mountain range only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name one ocean that borders Canada.", answers:["Atlantic Ocean","Pacific Ocean"]},
+     {prompt:"Which ocean borders the west coast of Canada?", answers:["Pacific Ocean","the Pacific"]},
+     {prompt:"Which ocean borders the north of Canada?", answers:["Arctic Ocean","the Arctic"]}
+   ]},
+]},
+{day:156, label:"Day 156 — Mon", subjects:[
+  {subject:"Language", title:"Conjunctions: Joining Ideas with Because", summary:"Grade 1 Language strand: the word because is a conjunction that joins two ideas together to explain why something happens.",
+   resourceLabel:"YouTube: Conjunctions: Joining Ideas with Because", resourceUrl:"https://www.youtube.com/results?search_query=Conjunctions%3A%20Joining%20Ideas%20with%20Because%20grade%201%20educational",
+   quiz:[
+     {q:"What does the word because usually explain?", options:["When something happens","Why something happens","Where something happens","Who did something"], answer:1},
+     {q:"Which sentence uses because correctly?", options:["Raining because it was I stayed inside","Because inside I stayed raining","I stayed inside because it was raining","I stayed raining because inside"], answer:2},
+     {q:"A conjunction is a word that ___.", options:["Joins two ideas together","Ends a sentence","Replaces a noun","Starts every question"], answer:0},
+     {q:"Which of these words is also a conjunction like because?", options:["Since","Quickly","Purple","Running"], answer:0},
+     {q:"Using because in a sentence helps the reader understand a ___.", options:["Reason","Sound","Colour","Shape"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does the word because help explain?", answers:["why something happens","a reason"]},
+     {prompt:"Give a sentence using the word because.", answers:["I was tired because I woke up early","I stayed inside because it was raining"]},
+     {prompt:"What kind of word is because?", answers:["a conjunction","a joining word"]}
+   ]},
+  {subject:"Math", title:"Measurement: Capacity in Litres", summary:"Grade 1 Math strand: a litre is a standard unit used to measure capacity, or how much liquid a container can hold.",
+   resourceLabel:"YouTube: Measurement: Capacity in Litres", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Capacity%20in%20Litres%20grade%201%20educational",
+   quiz:[
+     {q:"What does a litre measure?", options:["Time","Length","Weight","Capacity, or how much liquid something holds"], answer:3},
+     {q:"Which of these might hold about one litre of water?", options:["A raindrop","A large water bottle","A teaspoon","A swimming pool"], answer:1},
+     {q:"Would a bathtub hold more or less than one litre of water?", options:["No water at all","More","Less","Exactly one litre"], answer:1},
+     {q:"Which tool might have litre markings on the side?", options:["A measuring jug","A clock","A ruler","A thermometer"], answer:0},
+     {q:"Litres help us measure the ___ of a container.", options:["Capacity","Length","Temperature","Weight"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does a litre measure?", answers:["capacity","how much liquid a container holds"]},
+     {prompt:"Name something that might hold about one litre of liquid.", answers:["a water bottle","a jug"]},
+     {prompt:"Would a bathtub hold more or less than one litre?", answers:["more","a lot more"]}
+   ]},
+  {subject:"Science", title:"Jellyfish: Ocean Animals Without Bones", summary:"Grade 1 Science strand: jellyfish are soft ocean animals without bones that float in the water and use stinging tentacles to catch food.",
+   resourceLabel:"YouTube: Jellyfish: Ocean Animals Without Bones", resourceUrl:"https://www.youtube.com/results?search_query=Jellyfish%3A%20Ocean%20Animals%20Without%20Bones%20grade%201%20educational",
+   quiz:[
+     {q:"What is special about a jellyfish body?", options:["It has fur","It has many bones","It has no bones","It has a shell"], answer:2},
+     {q:"What do jellyfish use to catch food?", options:["Stinging tentacles","Claws","Sharp teeth","Wings"], answer:0},
+     {q:"Where do jellyfish live?", options:["The forest","The ocean","The Arctic ice only","The desert"], answer:1},
+     {q:"How do jellyfish usually move through the water?", options:["By flying above the water","By floating and gently pulsing","By digging tunnels","By walking on the ocean floor"], answer:1},
+     {q:"Jellyfish are an example of an animal that lives without a ___.", options:["Skeleton of bones","Body","Way to eat","Home"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What kind of animal is a jellyfish?", answers:["an ocean animal without bones"]},
+     {prompt:"What do jellyfish use to catch food?", answers:["tentacles","stinging tentacles"]},
+     {prompt:"Where do jellyfish live?", answers:["the ocean"]}
+   ]},
+  {subject:"SocialStudies", title:"Time Zones: Why Canada Has Different Times", summary:"Grade 1 Social Studies strand: Canada is so wide that it has several time zones, meaning it can be a different time of day in different parts of the country at once.",
+   resourceLabel:"YouTube: Time Zones: Why Canada Has Different Times", resourceUrl:"https://www.youtube.com/results?search_query=Time%20Zones%3A%20Why%20Canada%20Has%20Different%20Times%20grade%201%20educational",
+   quiz:[
+     {q:"Why does Canada have several time zones?", options:["Because time zones are random","Because Canada has no clocks","Because the country is very wide","Because Canada is very small"], answer:2},
+     {q:"If it is noon in one part of Canada, could it be a different time in another part?", options:["No, it is always the same","Only in winter","Yes, it could be different","Only on weekends"], answer:2},
+     {q:"Why is it helpful to understand time zones?", options:["It only matters for math class","It helps us know the time in other places","It changes the weather","It has no real use"], answer:1},
+     {q:"How many time zones does Canada have?", options:["Several","Only one","One hundred","None"], answer:0},
+     {q:"Time zones exist because Earth is ___ shaped and turns as the sun shines on different parts.", options:["Flat","Round","Triangular","Square"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Why does Canada have different time zones?", answers:["it is very wide","the country stretches across many hours"]},
+     {prompt:"If it is noon in one part of Canada, could it be a different time in another part?", answers:["yes","yes it could be different"]},
+     {prompt:"Why is it useful to know about time zones?", answers:["helps us know the time in other places","helps us call or visit at the right time"]}
+   ]},
+]},
+{day:157, label:"Day 157 — Tue", subjects:[
+  {subject:"Language", title:"List Writing: Making a List for a Purpose", summary:"Grade 1 Language strand: a list is a simple way of writing down items or steps in order, such as a grocery list or a list of things to pack.",
+   resourceLabel:"YouTube: List Writing: Making a List for a Purpose", resourceUrl:"https://www.youtube.com/results?search_query=List%20Writing%3A%20Making%20a%20List%20for%20a%20Purpose%20grade%201%20educational",
+   quiz:[
+     {q:"What is a list used for?", options:["Singing a song","Telling a made-up story","Drawing a picture","Writing down items or steps in order"], answer:3},
+     {q:"Which of these is an example of a list?", options:["A poem about the ocean","A fairy tale","A letter to a friend","A grocery list"], answer:3},
+     {q:"Why might someone write a list before going shopping?", options:["To avoid buying anything","To write a story instead","To learn a new song","To remember what they need to buy"], answer:3},
+     {q:"Lists are usually written in what kind of order?", options:["Backwards only","Upside down","One item after another","In a circle"], answer:2},
+     {q:"Making a list can help us stay ___.", options:["Bored","Organized","Forgetful","Confused"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is a list used for?", answers:["writing down items in order","organizing information"]},
+     {prompt:"Give an example of a list you might write.", answers:["a grocery list","a list of toys"]},
+     {prompt:"Why is making a list helpful?", answers:["helps us remember things","keeps us organized"]}
+   ]},
+  {subject:"Math", title:"Data: Sorting Information into a Table", summary:"Grade 1 Math strand: a table organizes information into rows and columns, making it easier to sort, compare, and read data.",
+   resourceLabel:"YouTube: Data: Sorting Information into a Table", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Information%20into%20a%20Table%20grade%201%20educational",
+   quiz:[
+     {q:"What does a table help us do with information?", options:["Sort and organize it","Erase it","Make it confusing","Hide it"], answer:0},
+     {q:"A table is made up of rows and what else?", options:["Lines only","Triangles","Columns","Circles"], answer:2},
+     {q:"Why might a table be easier to read than a plain list?", options:["It has no real benefit","It removes all the numbers","It hides the information","It organizes information clearly for comparing"], answer:3},
+     {q:"Which of these might be shown in a table?", options:["A made-up story","A song","A drawing of a dragon","The number of pets each classmate has"], answer:3},
+     {q:"Reading and making tables is a skill used in ___.", options:["Only music class","Only gym class","Only art class","Data management"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a table help us do with information?", answers:["sort and organize it","compare data easily"]},
+     {prompt:"What are the two parts of a table called?", answers:["rows and columns"]},
+     {prompt:"Why might we use a table instead of just writing a list?", answers:["it is easier to compare","organizes information clearly"]}
+   ]},
+  {subject:"Science", title:"Earthworms: Helpers in the Soil", summary:"Grade 1 Science strand: earthworms live underground and help the soil by digging tunnels that let air and water reach plant roots.",
+   resourceLabel:"YouTube: Earthworms: Helpers in the Soil", resourceUrl:"https://www.youtube.com/results?search_query=Earthworms%3A%20Helpers%20in%20the%20Soil%20grade%201%20educational",
+   quiz:[
+     {q:"Where do earthworms usually live?", options:["In the sky","In trees","In the ocean","Underground in the soil"], answer:3},
+     {q:"What do earthworms create as they move through soil?", options:["Bridges","Tunnels","Roads","Rivers"], answer:1},
+     {q:"How do earthworm tunnels help plants?", options:["They block water from reaching roots","They have no effect on plants","They let air and water reach plant roots","They harm plant roots"], answer:2},
+     {q:"Earthworms do not have which body part?", options:["A mouth","Legs","A body","Skin"], answer:1},
+     {q:"Earthworms are considered helpful because they improve the health of the ___.", options:["Clouds","Sky","Ocean","Soil"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Where do earthworms usually live?", answers:["underground","in the soil"]},
+     {prompt:"What do earthworms dig in the ground?", answers:["tunnels"]},
+     {prompt:"Why are earthworms helpful for plants?", answers:["let air and water reach roots","help the soil"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Astronauts: Exploring Space for Canada", summary:"Grade 1 Social Studies strand: Canadian astronauts travel to space to do research and represent Canada as part of international space missions.",
+   resourceLabel:"YouTube: Canadian Astronauts: Exploring Space for Canada", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Astronauts%3A%20Exploring%20Space%20for%20Canada%20grade%201%20educational",
+   quiz:[
+     {q:"Where do Canadian astronauts travel for their work?", options:["The ocean floor","The rainforest","The desert","Space"], answer:3},
+     {q:"What do astronauts often do while in space?", options:["Watch movies all day","Scientific research","Play sports","Go shopping"], answer:1},
+     {q:"Why is it special when a Canadian becomes an astronaut?", options:["It has no special meaning","Only Canadians can go to space","They represent Canada on international missions","Astronauts never leave Earth"], answer:2},
+     {q:"What might an astronaut wear outside a spacecraft?", options:["A special space suit","A raincoat","Nothing at all","Regular winter clothes"], answer:0},
+     {q:"Canadian astronauts often work as part of ___ space missions.", options:["International","Only Canadian","Underwater","Only American"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do Canadian astronauts travel to?", answers:["space"]},
+     {prompt:"What do astronauts do in space?", answers:["research","scientific research"]},
+     {prompt:"Why is it exciting when a Canadian goes to space?", answers:["represents Canada","shows what Canadians can achieve"]}
+   ]},
+]},
+{day:158, label:"Day 158 — Wed", subjects:[
+  {subject:"Language", title:"Text Features: Text Boxes and Sidebars", summary:"Grade 1 Language strand: text boxes and sidebars are small sections on a page that give extra facts or interesting information related to the main text.",
+   resourceLabel:"YouTube: Text Features: Text Boxes and Sidebars", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Text%20Boxes%20and%20Sidebars%20grade%201%20educational",
+   quiz:[
+     {q:"What is a text box used for on a page?", options:["Ending the book","Replacing all pictures","Hiding the main text","Giving extra facts or information"], answer:3},
+     {q:"Where is a sidebar usually located on a page?", options:["Nowhere on the page","In the middle of a sentence","On the side of the page","On the back cover"], answer:2},
+     {q:"Why might an author include a text box in a nonfiction book?", options:["To share interesting extra facts","To confuse the reader","To make the book shorter","To remove information"], answer:0},
+     {q:"Which of these is an example of using a text feature?", options:["A small box with a fun fact","Erasing a paragraph","Writing in invisible ink","Skipping a whole page"], answer:0},
+     {q:"Text boxes and sidebars are examples of ___.", options:["Text features","Vowel teams","Story characters","Punctuation marks"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a text box used for?", answers:["extra information","giving extra facts"]},
+     {prompt:"Where is a sidebar usually found on a page?", answers:["on the side of the page"]},
+     {prompt:"Why do authors add text boxes?", answers:["to share interesting extra facts"]}
+   ]},
+  {subject:"Math", title:"Patterns: Repeating Patterns with Shape, Colour, and Size", summary:"Grade 1 Math strand: repeating patterns can use more than one attribute at once, such as shape, colour, and size, to make the pattern more complex.",
+   resourceLabel:"YouTube: Patterns: Repeating Patterns with Shape, Colour, and Size", resourceUrl:"https://www.youtube.com/results?search_query=Patterns%3A%20Repeating%20Patterns%20with%20Shape%2C%20Colour%2C%20and%20Size%20grade%201%20educational",
+   quiz:[
+     {q:"Which of these is an attribute a pattern could be based on?", options:["A feeling","Colour","A season","A story"], answer:1},
+     {q:"In the pattern big circle, small circle, big circle, small circle, what is changing?", options:["Nothing","Shape only","Size","Colour only"], answer:2},
+     {q:"A pattern using red square, blue square, red square, blue square is repeating based on ___.", options:["Weight","Sound","Colour","Size"], answer:2},
+     {q:"What comes next in the pattern big star, small star, big star, small star, ___?", options:["Big star","Medium star","No star","A different shape"], answer:0},
+     {q:"Patterns that use more than one attribute, like shape and colour together, are considered ___.", options:["Only used in music","Impossible to make","Always the same","More complex"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name three attributes a pattern could use.", answers:["shape, colour, and size"]},
+     {prompt:"If a pattern goes big circle, small circle, big circle, small circle, what attribute is changing?", answers:["size"]},
+     {prompt:"Why might a pattern use more than one attribute?", answers:["makes the pattern more interesting","adds more detail"]}
+   ]},
+  {subject:"Science", title:"Elephants: The Largest Land Animals", summary:"Grade 1 Science strand: elephants are the largest land animals, known for their long trunks, big ears, and strong memories.",
+   resourceLabel:"YouTube: Elephants: The Largest Land Animals", resourceUrl:"https://www.youtube.com/results?search_query=Elephants%3A%20The%20Largest%20Land%20Animals%20grade%201%20educational",
+   quiz:[
+     {q:"What is special about the size of an elephant?", options:["It is the largest land animal","It is the fastest land animal","It is the tallest tree","It is the smallest land animal"], answer:0},
+     {q:"What body part does an elephant use to grab food and water?", options:["Its trunk","Its ears","Its tail","Its feet"], answer:0},
+     {q:"What are elephants known for having, besides a trunk?", options:["Feathers","Gills","Wings","Big ears"], answer:3},
+     {q:"What kind of animal is an elephant?", options:["A bird","A reptile","A mammal","A fish"], answer:2},
+     {q:"Elephants are often described as having a strong ___.", options:["Ability to swim only","Sense of smell only","Ability to fly","Memory"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is special about an elephants size?", answers:["they are the largest land animals"]},
+     {prompt:"What body part does an elephant use like a hand?", answers:["its trunk"]},
+     {prompt:"Name another feature elephants are known for.", answers:["big ears","strong memory"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Local Conservation Area: Protecting Nature Nearby", summary:"Grade 1 Social Studies strand: a conservation area is a piece of land near our community that is protected to keep plants, animals, and natural spaces safe.",
+   resourceLabel:"YouTube: Our Local Conservation Area: Protecting Nature Nearby", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Local%20Conservation%20Area%3A%20Protecting%20Nature%20Nearby%20grade%201%20educational",
+   quiz:[
+     {q:"What is a conservation area?", options:["A factory","A parking lot","A shopping mall","A protected piece of land that keeps nature safe"], answer:3},
+     {q:"Why are conservation areas protected?", options:["To store garbage","To keep plants, animals, and natural spaces safe","To build more houses","To create more roads"], answer:1},
+     {q:"Which of these might you do at a conservation area?", options:["Go for a nature walk","Attend a hockey game","Watch a movie","Go grocery shopping"], answer:0},
+     {q:"Conservation areas help protect which of these?", options:["Wildlife habitats","Shopping centres","Office buildings","Parking lots"], answer:0},
+     {q:"Visiting a conservation area can help us appreciate ___.", options:["Only oceans","Nature close to home","Only cities","Only faraway places"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is a conservation area?", answers:["a protected piece of land"]},
+     {prompt:"Why are conservation areas protected?", answers:["to keep plants and animals safe"]},
+     {prompt:"Name something you might do at a conservation area.", answers:["go for a hike","look at nature"]}
+   ]},
+]},
+{day:159, label:"Day 159 — Thu", subjects:[
+  {subject:"Language", title:"Shape Poems: Poetry You Can See", summary:"Grade 1 Language strand: a shape poem is a poem written so that the words form the outline of the object the poem is about, combining writing and art.",
+   resourceLabel:"YouTube: Shape Poems: Poetry You Can See", resourceUrl:"https://www.youtube.com/results?search_query=Shape%20Poems%3A%20Poetry%20You%20Can%20See%20grade%201%20educational",
+   quiz:[
+     {q:"What makes a shape poem different from a regular poem?", options:["The words are arranged to form a shape","It must rhyme perfectly","It cannot be about anything real","It has no words at all"], answer:0},
+     {q:"Which of these could be the shape of a shape poem?", options:["A blank page","A single letter","A tree","Nothing at all"], answer:2},
+     {q:"What two things does a shape poem combine?", options:["Music and dance","Cooking and gardening","Math and science","Writing and art"], answer:3},
+     {q:"Why might a student enjoy writing a shape poem?", options:["It has strict boring rules","It cannot use any words","It must be written in one colour","It is a fun and creative way to write"], answer:3},
+     {q:"A shape poem is a type of ___.", options:["Nonfiction report","Poetry","Instruction manual","Grocery list"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What makes a shape poem special?", answers:["the words form a shape"]},
+     {prompt:"Give an example of a shape a poem could form.", answers:["a star","a tree"]},
+     {prompt:"Why might someone enjoy writing a shape poem?", answers:["it combines writing and art","it is fun and creative"]}
+   ]},
+  {subject:"Math", title:"Geometry: Sorting 2D Shapes by Number of Sides", summary:"Grade 1 Math strand: 2D shapes can be sorted by how many sides they have, such as triangles with three sides or hexagons with six sides.",
+   resourceLabel:"YouTube: Geometry: Sorting 2D Shapes by Number of Sides", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Sorting%202D%20Shapes%20by%20Number%20of%20Sides%20grade%201%20educational",
+   quiz:[
+     {q:"How many sides does a triangle have?", options:["3","5","6","4"], answer:0},
+     {q:"How many sides does a hexagon have?", options:["3","6","4","5"], answer:1},
+     {q:"Which shape has four sides?", options:["A triangle","A circle","A square","A hexagon"], answer:2},
+     {q:"Sorting shapes by the number of sides is an example of ___.", options:["Telling time","Classifying shapes","Counting money","Measuring length"], answer:1},
+     {q:"Which of these shapes has no straight sides?", options:["A triangle","A square","A circle","A hexagon"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"How many sides does a triangle have?", answers:["3","three"]},
+     {prompt:"How many sides does a hexagon have?", answers:["6","six"]},
+     {prompt:"Name a shape with four sides.", answers:["square","rectangle"]}
+   ]},
+  {subject:"Science", title:"Giraffes: The Tallest Land Animals", summary:"Grade 1 Science strand: giraffes are the tallest land animals, with long necks that help them reach leaves high in trees.",
+   resourceLabel:"YouTube: Giraffes: The Tallest Land Animals", resourceUrl:"https://www.youtube.com/results?search_query=Giraffes%3A%20The%20Tallest%20Land%20Animals%20grade%201%20educational",
+   quiz:[
+     {q:"What is special about the height of a giraffe?", options:["It cannot stand up","It has no height at all","It is the shortest land animal","It is the tallest land animal"], answer:3},
+     {q:"What body part helps a giraffe reach leaves high in trees?", options:["Its long neck","Its small ears","Its short legs","Its tail"], answer:0},
+     {q:"What do giraffes mainly eat?", options:["Meat","Fish","Leaves","Insects only"], answer:2},
+     {q:"What kind of animal is a giraffe?", options:["A bird","A mammal","A fish","A reptile"], answer:1},
+     {q:"Giraffes are often found living in which type of habitat?", options:["The deep ocean","The rainforest floor only","The Arctic","The savanna"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is special about a giraffes height?", answers:["they are the tallest land animals"]},
+     {prompt:"What body part helps a giraffe reach high leaves?", answers:["its long neck"]},
+     {prompt:"What do giraffes mainly eat?", answers:["leaves"]}
+   ]},
+  {subject:"SocialStudies", title:"Grandparents and Elders: Learning from Our Elders", summary:"Grade 1 Social Studies strand: grandparents and elders share wisdom, stories, and traditions with younger generations, helping communities remember their history.",
+   resourceLabel:"YouTube: Grandparents and Elders: Learning from Our Elders", resourceUrl:"https://www.youtube.com/results?search_query=Grandparents%20and%20Elders%3A%20Learning%20from%20Our%20Elders%20grade%201%20educational",
+   quiz:[
+     {q:"What can grandparents and elders often share with younger generations?", options:["Only rules","Stories and wisdom","Only chores","Nothing important"], answer:1},
+     {q:"Why is it valuable to listen to elders in a community?", options:["They have nothing to teach","Their ideas are never useful","They should be ignored","They help us learn from the past"], answer:3},
+     {q:"Which of these might an elder teach a child?", options:["A math formula only","A new video game","A foreign language only","A family story or tradition"], answer:3},
+     {q:"Many communities, including Indigenous communities, show elders great ___.", options:["Fear","Indifference","Disrespect","Respect"], answer:3},
+     {q:"Learning from elders helps younger generations understand their ___.", options:["Weather patterns","Favourite foods only","History and traditions","Homework only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What can grandparents and elders share with younger people?", answers:["stories and wisdom"]},
+     {prompt:"Why is it important to listen to elders?", answers:["they help us learn from the past"]},
+     {prompt:"Name something an elder might teach you.", answers:["a family story","a tradition"]}
+   ]},
+]},
+{day:160, label:"Day 160 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Genres, Figurative Language, and Word Parts", summary:"Grade 1 Language strand review: students revisit the suffix -y, prefixes in- and im-, hyperbole, book genres, irregular plural nouns, conjunctions, list writing, text boxes and sidebars, and shape poems.",
+   resourceLabel:"YouTube: Language Review: Genres, Figurative Language, and Word Parts", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Genres%2C%20Figurative%20Language%2C%20and%20Word%20Parts%20grade%201%20educational",
+   quiz:[
+     {q:"Which word is formed by adding -y to rain?", options:["Rainy","Rained","Raining","Rainer"], answer:0},
+     {q:"Which word means not possible?", options:["Possible","Prepossible","Impossible","Repossible"], answer:2},
+     {q:"What is hyperbole?", options:["A true fact","A big exaggeration used for effect","A type of punctuation","A silent letter"], answer:1},
+     {q:"Which of these is an example of a fairy tale?", options:["Cinderella","A newspaper article","A math textbook","A weather report"], answer:0},
+     {q:"What is the plural of mouse?", options:["Mouses","Mousees","Mices","Mice"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does adding -y to rain make?", answers:["rainy"]},
+     {prompt:"What does hyperbole mean?", answers:["a big exaggeration"]},
+     {prompt:"What is a conjunction?", answers:["a joining word"]}
+   ]},
+  {subject:"Math", title:"Math Review: Numbers, Measurement, and Data", summary:"Grade 1 Math strand review: students revisit numbers to 500, skip counting by 50s, AM and PM, money up to five dollars, kilograms and grams, litres, sorting data into tables, repeating patterns, and sorting 2D shapes.",
+   resourceLabel:"YouTube: Math Review: Numbers, Measurement, and Data", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Measurement%2C%20and%20Data%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 499?", options:["499","501","500","498"], answer:2},
+     {q:"What number comes right after 150 when counting by 50s?", options:["160","250","200","175"], answer:2},
+     {q:"Is 7 oclock in the morning AM or PM?", options:["PM","Both","Neither","AM"], answer:3},
+     {q:"Which unit would you use to weigh a large dog?", options:["Millilitres","Kilograms","Grams","Centimetres"], answer:1},
+     {q:"How many sides does a hexagon have?", options:["4","3","5","6"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 499?", answers:["500"]},
+     {prompt:"Which unit would you use to weigh a small paperclip?", answers:["grams"]},
+     {prompt:"How many sides does a triangle have?", answers:["3"]}
+   ]},
+  {subject:"Science", title:"Science Review: Weather, Animals, and the Human Body", summary:"Grade 1 Science strand review: students revisit our blood, tornadoes, polar bears, the ocean floor, chameleons, jellyfish, earthworms, elephants, and giraffes.",
+   resourceLabel:"YouTube: Science Review: Weather, Animals, and the Human Body", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Weather%2C%20Animals%2C%20and%20the%20Human%20Body%20grade%201%20educational",
+   quiz:[
+     {q:"What does our blood mainly carry through our body?", options:["Only water","Oxygen and nutrients","Nothing important","Only air"], answer:1},
+     {q:"What is a tornado?", options:["A spinning column of fast moving air","A calm sunny breeze","A quiet snowy day","A gentle rain shower"], answer:0},
+     {q:"Where do polar bears live?", options:["The desert","The rainforest","The Arctic","The ocean floor"], answer:2},
+     {q:"What kind of animal is a chameleon?", options:["A mammal","A lizard","A fish","A bird"], answer:1},
+     {q:"What is special about the height of a giraffe?", options:["It cannot stand up","It has no height at all","It is the shortest land animal","It is the tallest land animal"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does our blood mainly carry through our body?", answers:["oxygen and nutrients"]},
+     {prompt:"What is a tornado?", answers:["a spinning column of air"]},
+     {prompt:"What is special about a giraffes height?", answers:["tallest land animal"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Holidays, Helpers, and Geography", summary:"Grade 1 Social Studies strand review: students revisit Family Day, postal codes, Canadas national sports, the school nurse, Canadas three oceans, time zones, Canadian astronauts, conservation areas, and learning from elders.",
+   resourceLabel:"YouTube: Social Studies Review: Holidays, Helpers, and Geography", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Holidays%2C%20Helpers%2C%20and%20Geography%20grade%201%20educational",
+   quiz:[
+     {q:"In what month is Family Day celebrated in Ontario?", options:["December","July","February","April"], answer:2},
+     {q:"What is the main job of a school nurse?", options:["Driving the school bus","Helping students who feel sick or hurt","Cooking school lunches","Teaching math class"], answer:1},
+     {q:"Which ocean borders the west coast of Canada?", options:["The Arctic Ocean","The Atlantic Ocean","The Indian Ocean","The Pacific Ocean"], answer:3},
+     {q:"Where do Canadian astronauts travel for their work?", options:["The desert","Space","The rainforest","The ocean floor"], answer:1},
+     {q:"What is a conservation area?", options:["A shopping mall","A factory","A parking lot","A protected piece of land that keeps nature safe"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"In what month is Family Day celebrated in Ontario?", answers:["February"]},
+     {prompt:"What is Canadas official winter sport?", answers:["hockey"]},
+     {prompt:"Why is it valuable to listen to elders in a community?", answers:["they help us learn from the past"]}
+   ]},
+]},
 ];
 
 export default curriculum;
