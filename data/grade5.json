@@ -36496,5 +36496,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 151,
+    "label": "Day 151 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Euphemisms",
+        "summary": "Grade 5 Language strand: a euphemism is a mild or indirect word or phrase used in place of a harsher or more blunt one, such as passed away instead of died, to soften a difficult idea.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a euphemism?",
+            "options": [
+              "A mild or indirect word or phrase used in place of a harsher one",
+              "A sentence with no verb",
+              "A word borrowed from another language",
+              "A word that rhymes with another word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which phrase is a euphemism for died?",
+            "options": [
+              "Jumped high",
+              "Passed away",
+              "Ran quickly",
+              "Ate lunch"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a speaker choose a euphemism instead of a blunt word?",
+            "options": [
+              "This concept has no connection to figurative language",
+              "Euphemisms always make an idea sound harsher",
+              "To soften a difficult or uncomfortable idea",
+              "A euphemism always confuses the reader with no purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these phrases is most likely a euphemism for being fired from a job?",
+            "options": [
+              "Promoted quickly",
+              "Let go",
+              "Hired again",
+              "Given a raise"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful for a reader to recognize euphemisms in a text?",
+            "options": [
+              "It helps the reader understand the true meaning behind softened language",
+              "Euphemisms never carry any hidden meaning",
+              "This concept has no relevance to reading",
+              "Euphemisms always state ideas in the bluntest way possible"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Tessellations — Tiling a Plane with Shapes",
+        "summary": "Grade 5 Math strand: a tessellation is a pattern of one or more shapes that repeats to cover a flat surface completely, with no gaps or overlaps.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A single shape drawn once on paper",
+              "A pattern of shapes that covers a surface with no gaps or overlaps",
+              "A pattern that always leaves large gaps",
+              "A three-dimensional solid shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which shape is well known for tessellating a flat surface on its own?",
+            "options": [
+              "A cone",
+              "A regular pentagon",
+              "A regular hexagon",
+              "A circle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a circle not tessellate a plane by itself?",
+            "options": [
+              "Circles always leave gaps between them when placed together",
+              "This concept has no connection to geometry",
+              "A circle is not considered a shape",
+              "Circles fit together perfectly with no gaps"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must be true at every point where tessellating shapes meet?",
+            "options": [
+              "The shapes must all be different colours",
+              "The shapes must overlap significantly",
+              "The shapes must fit together with no gaps or overlaps",
+              "The shapes must leave large empty spaces"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might artists and designers use tessellations?",
+            "options": [
+              "Tessellations are never used outside of mathematics",
+              "Tessellations can only be made using circles",
+              "To create repeating patterns that are visually pleasing and mathematically precise",
+              "This concept has no relevance to geometry"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Food Webs: Producers, Consumers, and Decomposers Working Together",
+        "summary": "Grade 5 Science strand: a food web shows how producers, consumers, and decomposers are connected as energy and nutrients move through an ecosystem, with each group playing a distinct role.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What role do producers play in a food web?",
+            "options": [
+              "They break down dead organisms",
+              "They only eat other animals",
+              "They provide no energy to the ecosystem",
+              "They make their own food, usually using sunlight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role do decomposers play in a food web?",
+            "options": [
+              "They remove energy from the ecosystem permanently",
+              "They make food using sunlight",
+              "They break down dead plants and animals, returning nutrients to the soil",
+              "They only eat living plants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How are consumers different from producers in a food web?",
+            "options": [
+              "This concept has no connection to food webs",
+              "Consumers must eat other organisms for energy, while producers make their own food",
+              "Consumers always make their own food using sunlight",
+              "Consumers and producers play the exact same role"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a food web considered more accurate than a single food chain?",
+            "options": [
+              "Food chains and food webs are always identical",
+              "A food web shows the many overlapping feeding connections in an ecosystem, not just one path",
+              "This concept has no relevance to science",
+              "A food web only ever shows one single path of energy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might happen to a food web if decomposers were removed entirely?",
+            "options": [
+              "Dead material would build up and nutrients would not return to the soil",
+              "This concept has no connection to ecosystems",
+              "Nothing would change in the ecosystem",
+              "Producers would immediately disappear"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Auditor Generals Reports — Reviewing Government Spending",
+        "summary": "Grade 5 Social Studies strand: the Auditor General examines how government departments spend public money and publishes reports that highlight waste, inefficiency, or good practices for elected officials and citizens to review.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does the Auditor General examine?",
+            "options": [
+              "How government departments spend public money",
+              "The results of sports competitions",
+              "Private business decisions only",
+              "The weather across Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Auditor General produce after an examination?",
+            "options": [
+              "A list of new laws",
+              "A national holiday calendar",
+              "A private letter seen by no one",
+              "Reports that highlight findings about government spending"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a report from the Auditor General matter to citizens?",
+            "options": [
+              "These reports are never shared with the public",
+              "This concept has no connection to government",
+              "The Auditor General has no connection to public spending",
+              "It helps citizens understand whether public money is being used responsibly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might an Auditor Generals report reveal about a government department?",
+            "options": [
+              "Only positive information with no criticism ever included",
+              "Wasteful spending or inefficient use of public money",
+              "Information unrelated to money or spending",
+              "The department private employee schedules only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is an independent Auditor General considered important in government?",
+            "options": [
+              "An Auditor General is chosen by a single company",
+              "Independence helps ensure spending is reviewed fairly, without political influence",
+              "This concept has no relevance to social studies",
+              "Independence has no effect on how a report is written"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "label": "Day 152 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Formal versus Informal Language Registers",
+        "summary": "Grade 5 Language strand: a register is the level of formality in language, with formal register used in essays and speeches and informal register used in casual conversation with friends.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a language register?",
+            "options": [
+              "A list of vocabulary words in a dictionary",
+              "A grammar rule about verb tenses",
+              "The level of formality used in language",
+              "A type of punctuation mark"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where would formal register most likely be used?",
+            "options": [
+              "In a note passed during recess",
+              "In a casual text to a friend",
+              "In a joke shared with a sibling",
+              "In a business letter or academic essay"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where would informal register most likely be used?",
+            "options": [
+              "In a formal research report",
+              "In a court proceeding",
+              "In an official government document",
+              "In a casual conversation with friends"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer switch between formal and informal register in different situations?",
+            "options": [
+              "Formal register is always required in every situation",
+              "Matching the register to the audience and purpose helps communicate effectively",
+              "Register never needs to change based on audience",
+              "This concept has no connection to vocabulary"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a more formal register?",
+            "options": [
+              "Gimme more info please.",
+              "Whats up with this thing?",
+              "Hey, can you tell me more about this?",
+              "I would like to request additional information regarding this matter."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Dividing Three-Digit Numbers by Two-Digit Numbers",
+        "summary": "Grade 5 Math strand: dividing a three-digit number by a two-digit number can be done using long division, estimating how many times the divisor fits into each part of the dividend.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What strategy is commonly used to divide a three-digit number by a two-digit number?",
+            "options": [
+              "Rounding both numbers to the nearest thousand",
+              "Long division",
+              "Adding the two numbers together",
+              "Skip counting by ones only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 348 divided by 12?",
+            "options": [
+              "27",
+              "30",
+              "29",
+              "28"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 195 divided by 15?",
+            "options": [
+              "12",
+              "14",
+              "15",
+              "13"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is estimating useful before dividing a three-digit number by a two-digit number?",
+            "options": [
+              "Estimation is never useful when dividing larger numbers",
+              "This concept has no connection to number sense",
+              "It provides a reasonable target to check the final quotient against",
+              "Estimating always gives the exact same value as the real quotient"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 432 divided by 16?",
+            "options": [
+              "28",
+              "27",
+              "26",
+              "25"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Greenhouse Gases Behind Climate Change",
+        "summary": "Grade 5 Science strand: greenhouse gases, such as carbon dioxide and methane, trap heat in Earths atmosphere, and human activities like burning fossil fuels have increased their levels, contributing to climate change.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do greenhouse gases do in Earths atmosphere?",
+            "options": [
+              "Block sunlight from ever reaching Earth",
+              "Remove all heat from the atmosphere instantly",
+              "Trap heat, warming the planet",
+              "Have no effect on temperature at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a greenhouse gas?",
+            "options": [
+              "Argon",
+              "Pure oxygen only",
+              "Helium",
+              "Carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What human activity has increased the amount of greenhouse gases in the atmosphere?",
+            "options": [
+              "Wearing warmer clothing",
+              "Planting more trees only",
+              "Burning fossil fuels",
+              "Drinking more water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are scientists concerned about rising levels of greenhouse gases?",
+            "options": [
+              "This concept has no relevance to science",
+              "Higher levels can lead to a warmer climate and related environmental changes",
+              "Greenhouse gases have no connection to climate at all",
+              "Rising levels of greenhouse gases always cool the planet"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one action that could help reduce greenhouse gas emissions?",
+            "options": [
+              "Burning more coal and oil",
+              "This concept has no connection to climate change",
+              "Cutting down more forests",
+              "Using renewable energy sources instead of fossil fuels"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadas Equalization Program — Sharing Wealth in Practice",
+        "summary": "Grade 5 Social Studies strand: equalization is a federal program that transfers money to provinces with less economic capacity so that all provinces can offer comparable public services, such as health care and education, at similar tax rates.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is the goal of Canadas equalization program?",
+            "options": [
+              "To eliminate all provincial governments",
+              "To help provinces offer comparable public services at similar tax rates",
+              "To end all interprovincial trade",
+              "To give every province exactly the same population"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which level of government provides equalization payments?",
+            "options": [
+              "A foreign government",
+              "The federal government",
+              "A private company",
+              "Only municipal governments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which provinces are more likely to receive equalization payments?",
+            "options": [
+              "Only provinces bordering the United States",
+              "Every province receives the exact same amount regardless of need",
+              "Provinces with less economic capacity relative to others",
+              "Only the province with the most oil reserves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might equalization payments matter for services like health care and education?",
+            "options": [
+              "They help ensure residents across provinces can access similar levels of public services",
+              "This concept has no relevance to social studies",
+              "Equalization has no connection to public services",
+              "Equalization payments only fund national parks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might this program be considered part of Canadian federalism?",
+            "options": [
+              "It reflects cooperation between federal and provincial governments to share resources fairly",
+              "Provinces never interact with the federal government",
+              "This concept has no connection to Canadian government",
+              "Federalism has no connection to how money is shared between governments"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "label": "Day 153 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Mystery Story with Clues",
+        "summary": "Grade 5 Language strand: a mystery story presents a puzzle for readers to solve, using carefully placed clues, red herrings, and a satisfying resolution that ties the clues together.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is the main purpose of clues in a mystery story?",
+            "options": [
+              "To confuse the reader with no possible solution",
+              "To help readers piece together the solution to the puzzle",
+              "To end the story immediately",
+              "To describe the weather in detail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a red herring in a mystery story?",
+            "options": [
+              "A misleading clue meant to distract the reader from the real solution",
+              "The setting where the story takes place",
+              "The title of the mystery",
+              "The main character of the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer plan the ending of a mystery before writing the clues?",
+            "options": [
+              "Planning backward helps ensure the clues logically lead to the solution",
+              "This concept has no connection to writing",
+              "A mystery story never needs an ending",
+              "Planning is never useful for mystery writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might happen if a mystery story includes no clues at all?",
+            "options": [
+              "The story would automatically become nonfiction",
+              "The mystery would always be easier to solve",
+              "Readers would have no fair way to solve the puzzle themselves",
+              "The story would need no characters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do readers often enjoy mystery stories?",
+            "options": [
+              "Mystery stories never include a solution",
+              "They can actively try to solve the puzzle alongside the characters",
+              "This concept has no relevance to writing",
+              "Readers never enjoy stories with puzzles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Equations with Variables on Both Sides",
+        "summary": "Grade 5 Math strand: some equations have a variable on both sides, and solving them involves combining like terms and using inverse operations to get the variable alone on one side.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean when an equation has a variable on both sides?",
+            "options": [
+              "The unknown letter appears in terms on both sides of the equals sign",
+              "The equation has no numbers at all",
+              "The equation cannot be solved under any circumstances",
+              "The variable only appears once in the entire equation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If 2n + 3 = n + 7, what is the value of n?",
+            "options": [
+              "4",
+              "10",
+              "3",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a helpful first step when solving an equation with variables on both sides?",
+            "options": [
+              "Multiplying every term by zero",
+              "Ignoring the variable terms completely",
+              "Moving all the variable terms to one side of the equation",
+              "Removing all the numbers from the equation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If 3n + 1 = n + 9, what is the value of n?",
+            "options": [
+              "4",
+              "8",
+              "3",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to check a solution by substituting it back into the original equation?",
+            "options": [
+              "It confirms both sides of the equation are equal with that value",
+              "Substituting a value always makes both sides unequal",
+              "This concept has no connection to algebra",
+              "Checking a solution never actually confirms it is correct"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Pulleys and Mechanical Advantage: Block and Tackle Systems",
+        "summary": "Grade 5 Science strand: a block and tackle system uses multiple pulleys working together to multiply the force applied, making it easier to lift heavy loads, though more rope must be pulled to move the load a given distance.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a block and tackle system?",
+            "options": [
+              "A single wheel with no rope",
+              "A type of lever with no wheel",
+              "A system that uses multiple pulleys working together to lift heavy loads",
+              "A tool used only for cutting wood"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the main benefit of using multiple pulleys instead of just one?",
+            "options": [
+              "This concept has no relevance to simple machines",
+              "Multiple pulleys have no effect on the force needed",
+              "It multiplies the force applied, making heavy loads easier to lift",
+              "It always makes lifting a load harder"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a tradeoff of using a block and tackle system to gain mechanical advantage?",
+            "options": [
+              "More rope must be pulled to move the load the same distance",
+              "No rope is needed at all in this system",
+              "The system always requires less rope than lifting directly",
+              "The load becomes impossible to lift at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where might a block and tackle system be used in real life?",
+            "options": [
+              "On a sailboat or a construction crane to lift heavy loads",
+              "This concept has no real-world application",
+              "Only inside a kitchen refrigerator",
+              "Only in a musical instrument"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do engineers consider mechanical advantage when designing lifting systems?",
+            "options": [
+              "Mechanical advantage always requires more force, never less",
+              "This concept has no relevance to science",
+              "Mechanical advantage has no connection to lifting systems",
+              "It helps them determine how much force is needed to move a given load"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Underground Railroads Ontario Terminus Communities",
+        "summary": "Grade 5 Social Studies strand: many freedom seekers who escaped enslavement in the United States settled in southern Ontario communities such as Windsor, Chatham, and Buxton, which became important terminus points of the Underground Railroad.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What was a terminus community along the Underground Railroad?",
+            "options": [
+              "A city located only in the southern United States",
+              "A place where enslaved people were recaptured",
+              "A settlement where freedom seekers arrived and often settled permanently",
+              "A type of railway station for trains"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an Ontario terminus community for the Underground Railroad?",
+            "options": [
+              "Vancouver",
+              "Halifax",
+              "Chatham",
+              "Winnipeg"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why did many freedom seekers choose to settle in southern Ontario?",
+            "options": [
+              "It was located far from the United States border",
+              "This concept has no relevance to Canadian history",
+              "Ontario had no connection to the Underground Railroad",
+              "It was close to the border and offered freedom under British law"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What did many of these Ontario communities become known for after settlement?",
+            "options": [
+              "Areas that immediately became abandoned",
+              "Vibrant communities that contributed to local economic and cultural life",
+              "This concept has no connection to social studies",
+              "Places where no lasting communities were ever formed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for students to learn about these terminus communities today?",
+            "options": [
+              "They highlight an important part of Canadian and Black history",
+              "These communities have no historical significance",
+              "They only ever existed in the United States",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "label": "Day 154 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Dangling and Misplaced Modifiers",
+        "summary": "Grade 5 Language strand: a misplaced modifier is positioned too far from the word it describes, causing confusion, while a dangling modifier describes a word that is missing entirely from the sentence.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a misplaced modifier?",
+            "options": [
+              "A verb that shows action",
+              "A word that joins two sentences",
+              "A type of punctuation mark",
+              "A descriptive word or phrase positioned too far from the word it describes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a dangling modifier?",
+            "options": [
+              "A modifier placed correctly next to the word it describes",
+              "A modifier that only appears in questions",
+              "A modifier that describes a word missing entirely from the sentence",
+              "A word with no meaning at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence contains a misplaced modifier?",
+            "options": [
+              "The finish line was reached quickly by the tired runner.",
+              "The tired runner reached the finish line quickly.",
+              "Running quickly, the tired runner reached the finish line.",
+              "Running quickly, the finish line was reached by the tired runner."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can a misplaced or dangling modifier confuse a reader?",
+            "options": [
+              "It can make a sentence seem to describe the wrong person or thing",
+              "A misplaced modifier always makes a sentence clearer",
+              "Modifiers never affect the clarity of a sentence",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can a writer fix a dangling modifier?",
+            "options": [
+              "By removing all punctuation from the sentence",
+              "By adding more dangling modifiers to the sentence",
+              "By adding or repositioning words so the modifier clearly describes something in the sentence",
+              "Dangling modifiers can never be fixed"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Capacity and Displacement",
+        "summary": "Grade 5 Math strand: the capacity of a container can be found by measuring how much liquid it holds, and displacement is a method that measures an objects volume by observing how much liquid it pushes aside when submerged.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does capacity measure?",
+            "options": [
+              "The weight of an object",
+              "The temperature of a liquid",
+              "The length of an object",
+              "How much liquid a container can hold"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is displacement used to measure?",
+            "options": [
+              "The exact weight of a solid object",
+              "The volume of an object by observing liquid it pushes aside",
+              "The temperature of an object",
+              "The colour of a liquid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a container holds 250 millilitres of water and an object is submerged causing the water level to rise to 300 millilitres, what is the volume of the object?",
+            "options": [
+              "50 millilitres",
+              "300 millilitres",
+              "250 millilitres",
+              "550 millilitres"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might displacement be a useful way to measure the volume of an irregularly shaped object?",
+            "options": [
+              "Displacement only works for perfectly cubed objects",
+              "This concept has no connection to measurement",
+              "Displacement can never measure irregular objects",
+              "It does not require knowing a specific formula for the objects shape"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What unit might commonly be used to measure capacity?",
+            "options": [
+              "Degrees Celsius",
+              "Millilitres or litres",
+              "Metres only",
+              "Kilograms only"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Bioluminescent Deep-Sea Creatures",
+        "summary": "Grade 5 Science strand: some deep-sea creatures produce their own light through a chemical reaction called bioluminescence, which they use to attract prey, communicate, or avoid predators in the dark ocean depths.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "A method fish use to breathe underwater",
+              "The ability of living things to produce their own light through a chemical reaction",
+              "A type of camouflage using colour changes only",
+              "The ability to see in complete darkness without any light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a deep-sea creature use bioluminescence to attract prey?",
+            "options": [
+              "The light can lure curious prey close enough to catch",
+              "Bioluminescence only works in bright sunlight",
+              "This concept has no connection to bioluminescence",
+              "Light never attracts other sea creatures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the deep ocean an environment where bioluminescence is especially useful?",
+            "options": [
+              "This concept has no relevance to science",
+              "Bioluminescence has no advantage in darkness",
+              "The deep ocean is always brightly lit by the sun",
+              "Little to no sunlight reaches those depths, so producing light offers an advantage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Besides attracting prey, what else might bioluminescence help deep-sea creatures do?",
+            "options": [
+              "Only attract prey and nothing else",
+              "This concept has no other possible use",
+              "Communicate with others of their species or startle predators",
+              "Bioluminescent creatures never interact with predators"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do scientists study bioluminescent organisms?",
+            "options": [
+              "To better understand adaptations to extreme deep-sea environments",
+              "Bioluminescent organisms provide no useful scientific information",
+              "This concept has no connection to life science",
+              "Bioluminescence cannot be observed or studied"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Treaty Rights and Natural Resource Sharing",
+        "summary": "Grade 5 Social Studies strand: treaty rights are the rights held by Indigenous peoples under historic and modern treaties, and they often include agreements about how natural resources such as land, water, and wildlife are used and shared.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What are treaty rights?",
+            "options": [
+              "Rights held by Indigenous peoples under historic and modern treaties",
+              "Rights that were never written down or recorded",
+              "Rights that apply only to non-Indigenous Canadians",
+              "A type of municipal bylaw"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kinds of resources might treaty agreements address?",
+            "options": [
+              "Land, water, and wildlife use",
+              "Only the naming of new cities",
+              "Only decisions about school curriculum",
+              "Only decisions about national sports teams"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might treaty rights be important when discussing natural resource use in Canada today?",
+            "options": [
+              "They can affect decisions about how land and resources are managed and shared",
+              "Treaty rights have no connection to modern resource use",
+              "Treaties were never made regarding natural resources",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do governments and Indigenous communities sometimes need to discuss treaty rights together?",
+            "options": [
+              "To ensure resource decisions respect agreements made in treaties",
+              "Only non-Indigenous communities are affected by treaties",
+              "This concept has no connection to Canadian history",
+              "Treaty rights never require any discussion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding treaty rights considered important for all Canadians?",
+            "options": [
+              "Treaty rights only matter to a small number of people",
+              "This concept has no relevance to social studies",
+              "Treaty rights have no connection to Canadian history",
+              "It helps Canadians understand the historic agreements that shape the country today"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "label": "Day 155 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Tone versus Mood",
+        "summary": "Grade 5 Language strand: tone is the authors attitude toward a subject, shown through word choice, while mood is the feeling or atmosphere a reader experiences while reading the text.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is tone in a piece of writing?",
+            "options": [
+              "The setting where the story takes place",
+              "The authors attitude toward the subject, shown through word choice",
+              "The feeling a reader experiences while reading",
+              "The title of the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is mood in a piece of writing?",
+            "options": [
+              "The exact page count of a book",
+              "A list of characters in the story",
+              "The feeling or atmosphere a reader experiences while reading",
+              "The authors attitude toward the subject"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How are tone and mood related but different?",
+            "options": [
+              "Neither tone nor mood is created through word choice",
+              "Tone comes from the author, while mood is experienced by the reader",
+              "Tone and mood are always exactly the same thing",
+              "Mood comes from the author, while tone is experienced by the reader"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a story uses words like gloomy, silent, and cold, what mood might it create?",
+            "options": [
+              "An exciting and energetic mood",
+              "A dark or eerie mood",
+              "A cheerful and bright mood",
+              "A mood has nothing to do with word choice"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might recognizing tone help a reader understand an authors purpose?",
+            "options": [
+              "Tone never reveals anything about an authors purpose",
+              "This concept has no relevance to reading",
+              "Tone and purpose are always unrelated concepts",
+              "Tone can reveal whether the author is being serious, humorous, critical, or sincere"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Probability Trees for Two Events",
+        "summary": "Grade 5 Math strand: a probability tree diagram shows all possible outcomes of two events happening in sequence, with branches representing each possible choice and its probability.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does a probability tree diagram show?",
+            "options": [
+              "The average of a set of numbers",
+              "A single bar representing one data value",
+              "Only the outcome of a single event",
+              "All possible outcomes of two events happening in sequence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If you flip a coin twice, how many possible outcomes are shown on a probability tree?",
+            "options": [
+              "Eight",
+              "Four",
+              "Six",
+              "Two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does each branch of a probability tree usually represent?",
+            "options": [
+              "The final answer to the whole problem",
+              "The title of the experiment",
+              "A possible choice or outcome of an event",
+              "A single number with no meaning"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a probability tree be useful when finding the probability of two events happening together?",
+            "options": [
+              "This concept has no connection to probability",
+              "It only shows one outcome and ignores the rest",
+              "Probability trees can only be used for a single event",
+              "It helps organize and visualize every possible combination of outcomes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a spinner has two equally likely colours and is spun twice, how many total outcomes are possible?",
+            "options": [
+              "Three",
+              "Eight",
+              "Two",
+              "Four"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Properties of Sound Insulation",
+        "summary": "Grade 5 Science strand: sound insulation involves materials that absorb or block sound waves, reducing how much noise passes through walls, floors, or ceilings, often through soft, dense, or thick construction.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does sound insulation do?",
+            "options": [
+              "Has no effect on how sound travels at all",
+              "Increases how loudly sound travels through a wall",
+              "Absorbs or blocks sound waves, reducing noise transmission",
+              "Only works for blocking light, not sound"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which type of material generally makes better sound insulation?",
+            "options": [
+              "Materials that are see-through",
+              "Materials with no mass at all",
+              "Soft, dense materials",
+              "Thin, hard, hollow materials"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might soft materials, like foam, help absorb sound?",
+            "options": [
+              "This concept has no connection to science",
+              "They can trap sound waves and convert some of their energy into heat",
+              "Soft materials have no effect on sound at all",
+              "Soft materials always reflect all sound perfectly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might sound insulation commonly be used?",
+            "options": [
+              "Only inside a swimming pool",
+              "This concept has no real-world application",
+              "In recording studios or between apartment walls",
+              "Only on the outside of a car tire"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might engineers consider sound insulation when designing a building?",
+            "options": [
+              "Sound insulation always increases noise levels",
+              "Sound insulation has no benefit in building design",
+              "To help reduce unwanted noise between rooms or from outside",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Role of the Chief Electoral Officer",
+        "summary": "Grade 5 Social Studies strand: the Chief Electoral Officer leads Elections Canada, the independent agency responsible for administering federal elections fairly and ensuring the voting process follows Canadian law.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What agency does the Chief Electoral Officer lead?",
+            "options": [
+              "Elections Canada",
+              "The Senate",
+              "The Bank of Canada",
+              "The Supreme Court"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Chief Electoral Officers main responsibility?",
+            "options": [
+              "Writing all federal laws",
+              "Administering federal elections fairly",
+              "Managing the countrys currency",
+              "Leading the Canadian Armed Forces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for the Chief Electoral Officer to be independent from political parties?",
+            "options": [
+              "Independence has no connection to fair elections",
+              "The Chief Electoral Officer is always a member of one political party",
+              "This concept has no relevance to social studies",
+              "Independence helps ensure elections are conducted fairly and without political bias"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might Elections Canada help ensure during a federal election?",
+            "options": [
+              "That elections are cancelled if too many people want to vote",
+              "That only one political party is allowed to participate",
+              "That voting procedures follow Canadian law and are accessible to eligible voters",
+              "This concept has no connection to Canadian government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do Canadians rely on an independent body to oversee elections?",
+            "options": [
+              "An independent body has no effect on public trust",
+              "This concept has no relevance to democracy",
+              "It helps maintain public trust in the fairness of the democratic process",
+              "Elections do not require any oversight at all"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "label": "Day 156 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Using Hyphens Correctly",
+        "summary": "Grade 5 Language strand: a hyphen joins parts of certain compound words and compound modifiers, such as well-known or six-year-old, helping clarify meaning when words work together to describe something.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is one common use of a hyphen?",
+            "options": [
+              "Ending every sentence in a paragraph",
+              "Joining parts of a compound word or compound modifier",
+              "Replacing all commas in a text",
+              "Showing that a word is misspelled"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these correctly uses a hyphen in a compound modifier?",
+            "options": [
+              "A well, known author wrote the book.",
+              "A well known author wrote the book, hyphen missing.",
+              "A well-known author wrote the book.",
+              "A wellknown author wrote the book."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a hyphen be needed in the phrase six-year-old child?",
+            "options": [
+              "It clarifies that the words together describe the childs age as one idea",
+              "A hyphen is never needed in this type of phrase",
+              "Hyphens only appear at the end of a sentence",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses a hyphen correctly?",
+            "options": [
+              "She bought a state-of-the-art computer.",
+              "She bought a state-of the-art computer.",
+              "She bought a state of the art, computer.",
+              "She bought a state of-the-art computer."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might leaving out a needed hyphen sometimes cause confusion?",
+            "options": [
+              "Without the hyphen, a compound modifier might be misread as separate, unrelated words",
+              "Hyphens are only decorative and never affect meaning",
+              "Leaving out a hyphen never changes the meaning of a phrase",
+              "This concept has no connection to grammar"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Converting Units Within the Metric System",
+        "summary": "Grade 5 Math strand: the metric system is based on powers of ten, so converting between units, such as millimetres to centimetres or grams to kilograms, involves multiplying or dividing by 10, 100, or 1000.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is the metric system based on?",
+            "options": [
+              "The imperial system",
+              "Powers of two",
+              "Random conversion factors",
+              "Powers of ten"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many centimetres are in one metre?",
+            "options": [
+              "10000",
+              "100",
+              "10",
+              "1000"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many grams are in one kilogram?",
+            "options": [
+              "10000",
+              "1000",
+              "100",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a ribbon is 250 centimetres long, how many metres is that?",
+            "options": [
+              "2.5 metres",
+              "0.25 metres",
+              "25 metres",
+              "250 metres"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is converting units within the metric system generally simpler than converting within the imperial system?",
+            "options": [
+              "Metric conversions involve multiplying or dividing by powers of ten",
+              "Metric conversions require completely random calculations",
+              "This concept has no connection to measurement",
+              "The metric system uses no consistent pattern between units"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Plate Boundaries and Mountain Formation",
+        "summary": "Grade 5 Science strand: mountains often form at plate boundaries where tectonic plates collide, pushing rock upward over millions of years to create ranges such as the Rocky Mountains.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a plate boundary?",
+            "options": [
+              "A layer of the atmosphere",
+              "The centre of a single tectonic plate",
+              "The edge where two tectonic plates meet",
+              "A type of ocean current"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can colliding tectonic plates lead to mountain formation?",
+            "options": [
+              "The collision pushes rock upward over a very long period of time",
+              "Tectonic plates never interact with each other",
+              "Colliding plates always create flat plains instead of mountains",
+              "This concept has no connection to Earth science"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About how long can it take for a mountain range to form through plate collisions?",
+            "options": [
+              "A few weeks",
+              "Millions of years",
+              "One century",
+              "A single day"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which mountain range is an example of one formed by colliding tectonic plates?",
+            "options": [
+              "A small hill in a backyard",
+              "The Rocky Mountains",
+              "An artificial ski hill",
+              "A sand dune in a desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study plate boundaries?",
+            "options": [
+              "To better understand mountain formation, earthquakes, and other geological processes",
+              "Plate boundaries provide no useful scientific information",
+              "Plate boundaries never move or change over time",
+              "This concept has no connection to Earth science"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadas Supply Management System",
+        "summary": "Grade 5 Social Studies strand: supply management is a Canadian system that controls the production of certain farm products, such as dairy and eggs, to help stabilize prices for farmers and maintain a steady supply for consumers.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does Canadas supply management system control?",
+            "options": [
+              "The number of cars manufactured in Canada",
+              "The amount of snow that falls each winter",
+              "The production of certain farm products, such as dairy and eggs",
+              "The number of students allowed in schools"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one goal of supply management?",
+            "options": [
+              "To make farm products more expensive with no limit",
+              "To increase imports of every product",
+              "To help stabilize prices for farmers",
+              "To eliminate farming in Canada entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these products is commonly associated with Canadas supply management system?",
+            "options": [
+              "Automobiles",
+              "Dairy",
+              "Electronics",
+              "Steel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a steady supply of certain farm products matter to consumers?",
+            "options": [
+              "It can help ensure product availability and more predictable prices",
+              "A steady supply has no effect on consumers at all",
+              "Supply management always leads to product shortages",
+              "This concept has no connection to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might farmers support a supply management system?",
+            "options": [
+              "Supply management always reduces farmer income to zero",
+              "It can provide more predictable income by managing production and pricing",
+              "This concept has no relevance to social studies",
+              "Farmers are never affected by how much they produce"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "label": "Day 157 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Evaluating Online Reviews for Reliability",
+        "summary": "Grade 5 Language strand: online reviews can be helpful, but readers should check for signs of reliability, such as detailed explanations, a mix of ratings, and reviewer patterns, since some reviews may be biased or fake.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is one sign that an online review might be reliable?",
+            "options": [
+              "It always gives a perfect rating",
+              "It only uses very short, vague statements",
+              "It contains no explanation at all",
+              "It includes detailed, specific explanations for its rating"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a reader be cautious of a product with only five-star reviews and no negative feedback?",
+            "options": [
+              "This concept has no connection to media literacy",
+              "Every five-star review is always completely trustworthy",
+              "Products with only positive reviews are always reliable",
+              "A complete lack of criticism can be a sign of fake or filtered reviews"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might multiple reviews using nearly identical wording suggest?",
+            "options": [
+              "The reviews are always written by different real customers",
+              "Identical wording has no connection to reliability",
+              "This concept has no relevance to online reviews",
+              "The reviews may not be genuine and could be fake or copied"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to read a mix of positive and negative reviews before making a decision?",
+            "options": [
+              "Negative reviews are never useful to consider",
+              "Reading only positive reviews always gives the full picture",
+              "It can provide a more balanced and realistic understanding of a product",
+              "This concept has no connection to media literacy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might understanding how to evaluate reviews be an important media literacy skill?",
+            "options": [
+              "All online reviews are equally reliable no matter the source",
+              "It helps consumers make more informed decisions and avoid being misled",
+              "This concept has no relevance to media literacy",
+              "Reviews never influence how people make decisions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Budgeting for a School Fundraiser",
+        "summary": "Grade 5 Math strand: planning a school fundraiser budget involves estimating expected income from sales, subtracting expected costs, and calculating the projected profit to reach a fundraising goal.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does a fundraiser budget typically estimate?",
+            "options": [
+              "Expected income and expected costs",
+              "The names of every student in the school",
+              "The colour of the fundraiser posters",
+              "Only the weather on the day of the event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a bake sale expects to earn 300 dollars in sales and spend 80 dollars on supplies, what is the projected profit?",
+            "options": [
+              "80 dollars",
+              "300 dollars",
+              "220 dollars",
+              "380 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might organizers estimate costs before a fundraiser begins?",
+            "options": [
+              "Estimating costs has no effect on planning a fundraiser",
+              "Costs are always exactly zero for every fundraiser",
+              "This concept has no connection to financial literacy",
+              "It helps them understand how much profit they can realistically expect to raise"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a fundraiser goal is 500 dollars and the projected profit is only 350 dollars, what might organizers need to do?",
+            "options": [
+              "Ignore the goal completely since it can never be reached",
+              "This concept has no connection to budgeting",
+              "Immediately cancel the fundraiser with no adjustments",
+              "Increase sales or reduce costs to reach the goal"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is tracking both income and expenses important when planning a fundraiser?",
+            "options": [
+              "A fundraiser can never lose money regardless of planning",
+              "This concept has no relevance to financial literacy",
+              "Tracking income and expenses is never useful for a fundraiser",
+              "It helps ensure the event actually raises money instead of losing money"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Process of Pasteurization",
+        "summary": "Grade 5 Science strand: pasteurization is a process that heats liquids like milk to a specific temperature for a set time to kill harmful bacteria, making the liquid safer to drink without changing it drastically.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main purpose of pasteurization?",
+            "options": [
+              "To add more bacteria to a liquid",
+              "To freeze a liquid completely solid",
+              "To remove all colour from a liquid",
+              "To kill harmful bacteria in a liquid, making it safer to consume"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is commonly pasteurized to make it safer to drink?",
+            "options": [
+              "Rocks",
+              "Milk",
+              "Air",
+              "Sand"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does pasteurization typically kill harmful bacteria?",
+            "options": [
+              "By freezing the liquid for several days",
+              "By adding large amounts of salt only",
+              "By heating the liquid to a specific temperature for a set amount of time",
+              "By exposing the liquid to bright sunlight only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might pasteurization be considered an important food safety process?",
+            "options": [
+              "Pasteurization always makes a liquid more dangerous to drink",
+              "It helps reduce the risk of illness caused by harmful bacteria in food and drinks",
+              "Pasteurization has no effect on food safety at all",
+              "This concept has no connection to science"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who is credited with developing the process that led to pasteurization?",
+            "options": [
+              "A recent Canadian inventor",
+              "A modern-day chef",
+              "An ancient Roman farmer",
+              "Louis Pasteur"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The History of Canadian Currency Design",
+        "summary": "Grade 5 Social Studies strand: Canadian currency has changed over time, featuring different portraits, symbols, and security features on coins and bank notes that reflect the countrys history and values.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What might Canadian currency feature on its coins and bank notes?",
+            "options": [
+              "Only blank spaces with no images at all",
+              "Random unrelated images chosen by chance",
+              "Foreign leaders exclusively",
+              "Portraits, symbols, and security features reflecting Canadas history"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might security features be added to Canadian bank notes?",
+            "options": [
+              "This concept has no connection to currency",
+              "To help prevent counterfeiting",
+              "Security features have no purpose on currency",
+              "To make bank notes easier to lose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How has the design of Canadian currency changed over time?",
+            "options": [
+              "Canadian currency design has never changed since Confederation",
+              "Only the size of coins has ever changed",
+              "New portraits, images, and security features have been introduced across different eras",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might studying currency design tell us something about a countrys history?",
+            "options": [
+              "The images and symbols chosen often reflect important people, places, or values",
+              "This concept has no relevance to social studies",
+              "Currency images are chosen completely at random",
+              "Currency design has no connection to a countrys history or identity"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What government institution is closely connected to the design and issuing of Canadian bank notes?",
+            "options": [
+              "The Bank of Canada",
+              "A private international company",
+              "A municipal government",
+              "A local school board"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "label": "Day 158 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Comparison Shopping Report",
+        "summary": "Grade 5 Language strand: a comparison shopping report presents information about similar products, comparing features such as price, quality, and value, to help a reader make an informed purchasing decision.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a comparison shopping report?",
+            "options": [
+              "To tell a fictional story about shopping",
+              "To list random facts unrelated to any product",
+              "To describe a single product with no comparison at all",
+              "To help a reader make an informed decision by comparing similar products"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these might a comparison shopping report typically compare?",
+            "options": [
+              "The plot of a favourite novel",
+              "The weather forecast for the week",
+              "Price, quality, and features of similar products",
+              "A list of unrelated historical events"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a table or chart in a comparison shopping report?",
+            "options": [
+              "It can organize information clearly, making it easy to compare items side by side",
+              "Tables and charts are never useful in this kind of writing",
+              "This concept has no connection to writing",
+              "A comparison report must never include any organized information"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a writer include after comparing several products in a report?",
+            "options": [
+              "A recommendation based on the comparison",
+              "A completely unrelated topic with no connection to the report",
+              "No conclusion of any kind",
+              "A description of an unrelated fictional character"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might this type of writing be useful in everyday life?",
+            "options": [
+              "It helps develop the skill of making informed decisions before spending money",
+              "This concept has no relevance to writing",
+              "Comparison reports are never useful for making decisions",
+              "This type of writing serves no real purpose"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Nets of Triangular Prisms",
+        "summary": "Grade 5 Math strand: a net is a two-dimensional pattern that can be folded to form a three-dimensional shape, and the net of a triangular prism includes two triangular faces and three rectangular faces.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is a net in geometry?",
+            "options": [
+              "A tool used only for measuring angles",
+              "A two-dimensional pattern that can be folded into a three-dimensional shape",
+              "A type of graph used for data",
+              "A three-dimensional shape with no flat faces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many triangular faces does the net of a triangular prism include?",
+            "options": [
+              "Four",
+              "Three",
+              "Two",
+              "One"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many rectangular faces does the net of a triangular prism include?",
+            "options": [
+              "One",
+              "Four",
+              "Three",
+              "Two"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might building a net help you understand a three-dimensional shape better?",
+            "options": [
+              "It shows how the flat faces connect and fold together to form the solid",
+              "Building a net never helps with understanding three-dimensional shapes",
+              "This concept has no connection to geometry",
+              "A net always has the exact same number of faces as any other net"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you fold the net of a triangular prism correctly, what shape results?",
+            "options": [
+              "A sphere",
+              "A cube",
+              "A cone",
+              "A triangular prism"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Migratory Bird Corridors",
+        "summary": "Grade 5 Science strand: a migratory bird corridor is a route that birds travel along during seasonal migration, often following coastlines, rivers, or mountain ranges to find food and suitable stopover habitats.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a migratory bird corridor?",
+            "options": [
+              "A route birds travel along during seasonal migration",
+              "A type of birdhouse built for nesting",
+              "A permanent home where birds never move",
+              "A cage used to keep birds indoors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a migratory corridor commonly follow?",
+            "options": [
+              "Coastlines, rivers, or mountain ranges",
+              "Only underground tunnels",
+              "Random paths with no consistent pattern",
+              "Only city streets"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do birds use stopover habitats along a migration corridor?",
+            "options": [
+              "Birds never need to rest during migration",
+              "This concept has no connection to science",
+              "Stopover habitats have no purpose for migrating birds",
+              "To rest and find food during their long journey"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might protecting migratory bird corridors be important for conservation?",
+            "options": [
+              "This concept has no relevance to science",
+              "Protecting these corridors has no effect on bird populations",
+              "Losing habitat along these routes can threaten bird populations that depend on them",
+              "Migratory birds never rely on specific habitats"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might birds migrate seasonally in the first place?",
+            "options": [
+              "Migration only happens during the summer season",
+              "Birds never migrate for any reason",
+              "This concept has no connection to living things",
+              "To find better food sources or breeding conditions as seasons change"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Interprovincial Migration Patterns in Canada",
+        "summary": "Grade 5 Social Studies strand: interprovincial migration refers to Canadians moving from one province or territory to another, often influenced by factors such as job opportunities, cost of living, or climate.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does interprovincial migration mean?",
+            "options": [
+              "A type of government election",
+              "Animals migrating between provinces",
+              "People moving between different countries",
+              "Canadians moving from one province or territory to another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one factor that might influence someones decision to move to a different province?",
+            "options": [
+              "The number of letters in the province name",
+              "Job opportunities",
+              "The colour of the provincial flag",
+              "The name of the provincial capital"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the cost of living affect interprovincial migration?",
+            "options": [
+              "People may move to provinces where housing and daily expenses are more affordable",
+              "The cost of living is always identical in every province",
+              "Cost of living has no connection to where people choose to live",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might governments track interprovincial migration patterns?",
+            "options": [
+              "To understand population changes and plan services like schools and housing",
+              "Tracking migration patterns serves no purpose for governments",
+              "Population data is never useful for planning services",
+              "This concept has no connection to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a province experiencing population growth need to plan carefully?",
+            "options": [
+              "Provinces never experience changes in population",
+              "Growth can increase demand for housing, schools, and other public services",
+              "This concept has no relevance to social studies",
+              "Population growth never affects the need for public services"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "label": "Day 159 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Paraphrasing versus Plagiarizing",
+        "summary": "Grade 5 Language strand: paraphrasing means restating someone elses ideas in your own words while giving credit to the original source, while plagiarizing means using someone elses words or ideas without permission or credit.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What does paraphrasing mean?",
+            "options": [
+              "Restating someone elses ideas in your own words while giving credit",
+              "Making up new ideas with no connection to a source",
+              "Translating a text into a different language only",
+              "Copying text directly without any changes or credit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does plagiarizing mean?",
+            "options": [
+              "Restating an idea using entirely original wording",
+              "Writing an entirely original piece with no outside sources",
+              "Using someone elses words or ideas without permission or credit",
+              "Properly citing every source used in a report"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to give credit to the original source when paraphrasing?",
+            "options": [
+              "This concept has no connection to writing",
+              "Paraphrasing always removes the need to credit a source",
+              "Giving credit is never necessary when paraphrasing",
+              "It shows honesty about where the ideas came from and avoids plagiarism"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of paraphrasing rather than plagiarizing?",
+            "options": [
+              "Copying a paragraph word for word with no citation",
+              "Submitting someone elses report as your own",
+              "Using another persons exact words without any credit",
+              "Restating a sources main idea in your own words with a citation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose to paraphrase instead of directly quoting a source?",
+            "options": [
+              "Paraphrasing is never useful when writing a report",
+              "It can help the writer show understanding of the ideas in their own voice",
+              "Paraphrasing always requires copying text exactly",
+              "This concept has no relevance to writing"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Mean Absolute Deviation",
+        "summary": "Grade 5 Math strand: mean absolute deviation measures how spread out a set of data is from its mean, by finding the average distance of each data point from the mean value.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does mean absolute deviation measure?",
+            "options": [
+              "How spread out a set of data is from its mean",
+              "The exact number of values in a data set",
+              "The mode of a data set",
+              "The single largest value in a data set"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first step in finding the mean absolute deviation of a data set?",
+            "options": [
+              "Finding the largest value in the data set only",
+              "Finding the mean of the data set",
+              "Multiplying every value by ten",
+              "Removing half of the values from the data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a data sets values are very close to the mean, what would you expect about its mean absolute deviation?",
+            "options": [
+              "It would always be extremely large",
+              "This concept has no connection to data management",
+              "It would be relatively small",
+              "Mean absolute deviation cannot be calculated in this case"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a smaller mean absolute deviation suggest more consistent data?",
+            "options": [
+              "Mean absolute deviation never reflects consistency in data",
+              "It shows that data points are generally closer to the mean value",
+              "This concept has no relevance to data management",
+              "A smaller mean absolute deviation always means the data is completely random"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might comparing the mean absolute deviation of two data sets be useful?",
+            "options": [
+              "This concept has no connection to data management",
+              "Comparing mean absolute deviation never provides useful information",
+              "It helps show which data set has values that are more spread out",
+              "Mean absolute deviation is identical for every data set"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy in Focus: Hydrogen Fuel Cells",
+        "summary": "Grade 5 Science strand: a hydrogen fuel cell produces electricity through a chemical reaction between hydrogen and oxygen, releasing mainly water vapour as a byproduct, offering a clean alternative energy source.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does a hydrogen fuel cell produce through a chemical reaction?",
+            "options": [
+              "Solid rock",
+              "Sound waves only",
+              "Only heat with no electricity produced",
+              "Electricity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two substances react inside a hydrogen fuel cell?",
+            "options": [
+              "Hydrogen and oxygen",
+              "Sodium and chlorine",
+              "Carbon and nitrogen",
+              "Iron and sulfur"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main byproduct released by a hydrogen fuel cell?",
+            "options": [
+              "Thick black smoke",
+              "Solid ash",
+              "Water vapour",
+              "Liquid oil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might hydrogen fuel cells be considered a clean energy source?",
+            "options": [
+              "Hydrogen fuel cells have no connection to clean energy",
+              "They produce mainly water vapour rather than harmful pollutants",
+              "This concept has no relevance to renewable energy",
+              "They always release large amounts of harmful pollution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might hydrogen fuel cells be used as a source of power?",
+            "options": [
+              "Only in outer space with no other applications",
+              "This concept has no real-world application",
+              "Only inside a household refrigerator",
+              "In some vehicles or buildings as an alternative to fossil fuels"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Role of Civic Volunteers and Community Associations",
+        "summary": "Grade 5 Social Studies strand: civic volunteers and community associations are residents and groups who contribute time and effort to improve their neighbourhoods, organize events, and advocate for local needs.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What do civic volunteers typically contribute to their community?",
+            "options": [
+              "Nothing, since volunteers have no impact",
+              "Their time and effort to improve their neighbourhood",
+              "Only money with no personal involvement",
+              "Only formal government services"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a community association?",
+            "options": [
+              "A private international corporation",
+              "A branch of the federal government",
+              "A type of national sports league",
+              "A group of residents who work together to organize events and advocate for local needs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a community association organize for local residents?",
+            "options": [
+              "Federal court cases",
+              "National elections",
+              "International trade agreements",
+              "Neighbourhood clean-up days or community events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might civic volunteers be considered an important part of a healthy community?",
+            "options": [
+              "Communities never benefit from volunteer efforts",
+              "This concept has no connection to social studies",
+              "Civic volunteers have no positive effect on a community",
+              "They help address local needs that might otherwise go unmet"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a community association advocate to local government on behalf of residents?",
+            "options": [
+              "Local government never considers input from residents",
+              "This concept has no relevance to social studies",
+              "To help ensure the concerns and needs of the community are heard",
+              "Community associations are never allowed to contact local government"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "label": "Day 160 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Figurative Language, Grammar, Reading, and Media Literacy",
+        "summary": "Grade 5 Language strand review: students revisit euphemisms, formal versus informal register, mystery story writing, dangling and misplaced modifiers, and tone versus mood.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a euphemism?",
+            "options": [
+              "A mild or indirect word or phrase used in place of a harsher one",
+              "A word that rhymes with another word",
+              "A word borrowed from another language",
+              "A sentence with no verb"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a language register?",
+            "options": [
+              "A type of punctuation mark",
+              "A grammar rule about verb tenses",
+              "The level of formality used in language",
+              "A list of vocabulary words in a dictionary"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a red herring in a mystery story?",
+            "options": [
+              "The main character of the story",
+              "A misleading clue meant to distract the reader from the real solution",
+              "The setting where the story takes place",
+              "The title of the mystery"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a misplaced modifier?",
+            "options": [
+              "A descriptive word or phrase positioned too far from the word it describes",
+              "A verb that shows action",
+              "A word that joins two sentences",
+              "A type of punctuation mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is tone in a piece of writing?",
+            "options": [
+              "The feeling a reader experiences while reading",
+              "The setting where the story takes place",
+              "The title of the story",
+              "The authors attitude toward the subject, shown through word choice"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Geometry, Number Sense, Algebra, and Measurement",
+        "summary": "Grade 5 Math strand review: students revisit tessellations, dividing three-digit by two-digit numbers, equations with variables on both sides, capacity and displacement, and probability trees.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A single shape drawn once on paper",
+              "A pattern that always leaves large gaps",
+              "A pattern of shapes that covers a surface with no gaps or overlaps",
+              "A three-dimensional solid shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What strategy is commonly used to divide a three-digit number by a two-digit number?",
+            "options": [
+              "Adding the two numbers together",
+              "Rounding both numbers to the nearest thousand",
+              "Long division",
+              "Skip counting by ones only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If 2n + 3 = n + 7, what is the value of n?",
+            "options": [
+              "3",
+              "10",
+              "5",
+              "4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does displacement measure?",
+            "options": [
+              "The temperature of an object",
+              "The volume of an object by observing liquid it pushes aside",
+              "The exact weight of a solid object",
+              "The colour of a liquid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a probability tree diagram show?",
+            "options": [
+              "The average of a set of numbers",
+              "Only the outcome of a single event",
+              "A single bar representing one data value",
+              "All possible outcomes of two events happening in sequence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Ecosystems, Climate, Simple Machines, and Ocean Life",
+        "summary": "Grade 5 Science strand review: students revisit food webs, greenhouse gases, block and tackle pulley systems, bioluminescent deep-sea creatures, and sound insulation.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What role do producers play in a food web?",
+            "options": [
+              "They break down dead organisms",
+              "They make their own food, usually using sunlight",
+              "They provide no energy to the ecosystem",
+              "They only eat other animals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do greenhouse gases do in Earths atmosphere?",
+            "options": [
+              "Trap heat, warming the planet",
+              "Remove all heat from the atmosphere instantly",
+              "Have no effect on temperature at all",
+              "Block sunlight from ever reaching Earth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main benefit of using multiple pulleys instead of just one?",
+            "options": [
+              "It always makes lifting a load harder",
+              "Multiple pulleys have no effect on the force needed",
+              "It multiplies the force applied, making heavy loads easier to lift",
+              "This concept has no relevance to simple machines"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "A method fish use to breathe underwater",
+              "The ability of living things to produce their own light through a chemical reaction",
+              "A type of camouflage using colour changes only",
+              "The ability to see in complete darkness without any light"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does sound insulation do?",
+            "options": [
+              "Has no effect on how sound travels at all",
+              "Only works for blocking light, not sound",
+              "Increases how loudly sound travels through a wall",
+              "Absorbs or blocks sound waves, reducing noise transmission"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Government Oversight, History, and Community",
+        "summary": "Grade 5 Social Studies strand review: students revisit the Auditor General, equalization payments, Underground Railroad terminus communities, treaty rights, and the Chief Electoral Officer.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does the Auditor General examine?",
+            "options": [
+              "The results of sports competitions",
+              "The weather across Canada",
+              "How government departments spend public money",
+              "Private business decisions only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the goal of Canadas equalization program?",
+            "options": [
+              "To give every province exactly the same population",
+              "To help provinces offer comparable public services at similar tax rates",
+              "To end all interprovincial trade",
+              "To eliminate all provincial governments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was a terminus community along the Underground Railroad?",
+            "options": [
+              "A city located only in the southern United States",
+              "A place where enslaved people were recaptured",
+              "A type of railway station for trains",
+              "A settlement where freedom seekers arrived and often settled permanently"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are treaty rights?",
+            "options": [
+              "Rights that were never written down or recorded",
+              "Rights held by Indigenous peoples under historic and modern treaties",
+              "A type of municipal bylaw",
+              "Rights that apply only to non-Indigenous Canadians"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What agency does the Chief Electoral Officer lead?",
+            "options": [
+              "The Senate",
+              "The Bank of Canada",
+              "The Supreme Court",
+              "Elections Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
