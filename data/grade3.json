@@ -11817,6 +11817,7 @@
         "summary": "Ontario Grade 3 Reading strand: graphic organizers such as webs, charts, and Venn diagrams help readers visually organize information and ideas from a text to better understand and remember it.",
         "resourceLabel": "TVO Learn: Grade 3 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "videoUrl": "https://www.youtube.com/watch?v=U3GF5Lv3Zu8",
         "quiz": [
           {
             "q": "A graphic organizer helps readers ___.",
@@ -11876,6 +11877,7 @@
         "summary": "Ontario Grade 3 Number strand: multi-step word problems require more than one operation (like addition and then subtraction) to solve, so students must carefully identify each step needed.",
         "resourceLabel": "TVO Learn: Grade 3 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=CsQsYsLjAhU",
         "quiz": [
           {
             "q": "Sam has 24 stickers, gives away 6, then gets 10 more. How many does Sam have now?",
@@ -11990,43 +11992,44 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canadian Landmarks and Symbols",
-        "summary": "Ontario Grade 3 Social Studies Heritage and Identity strand: Canada has many recognizable landmarks and symbols, such as the CN Tower, Parliament Hill, the maple leaf, and the beaver, that represent its identity and heritage.",
-        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
-        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "title": "Canadian Symbols: The Maple Leaf and the Flag",
+        "summary": "Ontario Grade 3 Social Studies Heritage and Identity strand: the maple leaf and the national flag are two of Canada's most recognizable symbols, and students learn the stories behind them and why they represent the country's identity.",
+        "resourceLabel": "YouTube: Canadian Symbols: The Maple Leaf and the Flag",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Symbols%20Maple%20Leaf%20Flag%20grade%203%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=38BGXJ572Y8",
         "quiz": [
           {
-            "q": "The CN Tower is a famous landmark located in ___.",
+            "q": "What plant symbol appears on the Canadian flag?",
             "options": [
-              "Vancouver",
-              "Toronto",
-              "Ottawa",
-              "Montreal"
+              "Oak leaf",
+              "Maple leaf",
+              "Palm leaf",
+              "Clover"
             ],
             "answer": 1
           },
           {
-            "q": "Parliament Hill, where Canada's federal government meets, is located in ___.",
+            "q": "What are the colours of the Canadian flag?",
             "options": [
-              "Calgary",
-              "Ottawa",
-              "Toronto",
-              "Halifax"
+              "Blue and white",
+              "Green and gold",
+              "Red and white",
+              "Black and yellow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When did Canada adopt its current national flag?",
+            "options": [
+              "1867",
+              "1965",
+              "2000",
+              "1812"
             ],
             "answer": 1
           },
           {
-            "q": "Which animal is a well-known symbol of Canada?",
-            "options": [
-              "Elephant",
-              "Kangaroo",
-              "Lion",
-              "Beaver"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Landmarks and symbols help represent a country's ___.",
+            "q": "Symbols like the maple leaf help represent a country's ___.",
             "options": [
               "Weather patterns only",
               "Population count",
@@ -12036,14 +12039,14 @@
             "answer": 3
           },
           {
-            "q": "Which of these is a Canadian landmark?",
+            "q": "Which of these is an official Canadian symbol?",
             "options": [
               "The Statue of Liberty",
-              "The Great Wall",
               "The Eiffel Tower",
-              "The CN Tower"
+              "The maple leaf",
+              "The Great Wall"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       }

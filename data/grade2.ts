@@ -2404,6 +2404,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Writing Simple Instructions: How-To Writing", summary:"Students learn to write simple step-by-step instructions, called how-to writing, using order words like first, next, and last to explain how to do something.",
    resourceLabel:"YouTube: Writing Simple Instructions: How-To Writing", resourceUrl:"https://www.youtube.com/results?search_query=Writing%20Simple%20Instructions%3A%20How-To%20Writing%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IsnSBEMsL2k",
    quiz:[
      {q:"What do we call writing that explains the steps to do something?", options:["A song","How-to writing","A poem","A letter"], answer:1},
      {q:"Which of these is an order word used in how-to writing?", options:["Blue","Quickly","Happy","First"], answer:3},
@@ -2418,6 +2419,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ordinal Numbers: First, Second, Third", summary:"Students learn to use ordinal numbers, such as first, second, and third, to describe the position or order of objects and events in a sequence.",
    resourceLabel:"YouTube: Ordinal Numbers: First, Second, Third", resourceUrl:"https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%20First%2C%20Second%2C%20Third%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Z0PEwHQjEvU",
    quiz:[
      {q:"Which ordinal number describes the object at the very start of a line?", options:["Second","Fourth","First","Third"], answer:2},
      {q:"Which ordinal number comes right after first?", options:["Fourth","Fifth","Third","Second"], answer:3},
@@ -2432,6 +2434,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Classifying Animals: Mammals, Birds, Fish, and More", summary:"Students learn to classify animals into groups such as mammals, birds, fish, reptiles, and amphibians, based on shared features like fur, feathers, scales, or how they breathe.",
    resourceLabel:"YouTube: Classifying Animals: Mammals, Birds, Fish, and More", resourceUrl:"https://www.youtube.com/results?search_query=Classifying%20Animals%3A%20Mammals%2C%20Birds%2C%20Fish%2C%20and%20More%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=HQdiSMUZEDA",
    quiz:[
      {q:"Which animal group is covered in fur and feeds its babies milk?", options:["Reptiles","Birds","Fish","Mammals"], answer:3},
      {q:"Which animal group is covered in feathers and can usually fly?", options:["Fish","Birds","Mammals","Amphibians"], answer:1},
@@ -2446,6 +2449,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Communication Long Ago and Today", summary:"Students compare how people communicated long ago, using letters and messengers, with how people communicate today, using telephones, computers, and the internet.",
    resourceLabel:"YouTube: Communication Long Ago and Today", resourceUrl:"https://www.youtube.com/results?search_query=Communication%20Long%20Ago%20and%20Today%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Mevm1T4MsUM",
    quiz:[
      {q:"Which of these was a common way people communicated with each other long ago?", options:["Using the internet","Writing a letter","Sending a text message","Video calling"], answer:1},
      {q:"Which of these tools helps people communicate quickly over long distances today?", options:["A carrier pigeon only","A telephone","A messenger on foot only","A quill pen only"], answer:1},

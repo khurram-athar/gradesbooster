@@ -2020,6 +2020,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Reading: Using Graphic Organizers", summary:"Ontario Grade 3 Reading strand: graphic organizers such as webs, charts, and Venn diagrams help readers visually organize information and ideas from a text to better understand and remember it.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=U3GF5Lv3Zu8",
    quiz:[
      {q:"A graphic organizer helps readers ___.", options:["Skip important details","Visually organize information and ideas","Ignore the text completely","Avoid taking notes"], answer:1},
      {q:"A Venn diagram is especially useful for ___.", options:["Measuring length","Listing events in order only","Comparing similarities and differences between two things","Drawing maps"], answer:2},
@@ -2029,6 +2030,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multi-Step Word Problems", summary:"Ontario Grade 3 Number strand: multi-step word problems require more than one operation (like addition and then subtraction) to solve, so students must carefully identify each step needed.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=CsQsYsLjAhU",
    quiz:[
      {q:"Sam has 24 stickers, gives away 6, then gets 10 more. How many does Sam have now?", options:["18","20","34","28"], answer:3},
      {q:"A shop had 50 apples, sold 20, then received 15 more. How many apples now?", options:["45","30","65","35"], answer:3},
@@ -2045,14 +2047,15 @@ const curriculum: DayContent[] = [
      {q:"A pulley system can make lifting easier by ___.", options:["Making objects heavier","Removing gravity entirely","Changing the direction of the force and sometimes reducing effort","Only working on flat ground"], answer:2},
      {q:"Why do humans use simple machines?", options:["To make physical tasks easier and more efficient","Simple machines make tasks harder on purpose","They have no practical use","They only work in factories"], answer:0}
    ]},
-  {subject:"SocialStudies", title:"Canadian Landmarks and Symbols", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: Canada has many recognizable landmarks and symbols, such as the CN Tower, Parliament Hill, the maple leaf, and the beaver, that represent its identity and heritage.",
-   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+  {subject:"SocialStudies", title:"Canadian Symbols: The Maple Leaf and the Flag", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: the maple leaf and the national flag are two of Canada's most recognizable symbols, and students learn the stories behind them and why they represent the country's identity.",
+   resourceLabel:"YouTube: Canadian Symbols: The Maple Leaf and the Flag", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Symbols%20Maple%20Leaf%20Flag%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=38BGXJ572Y8",
    quiz:[
-     {q:"The CN Tower is a famous landmark located in ___.", options:["Vancouver","Toronto","Ottawa","Montreal"], answer:1},
-     {q:"Parliament Hill, where Canada's federal government meets, is located in ___.", options:["Calgary","Ottawa","Toronto","Halifax"], answer:1},
-     {q:"Which animal is a well-known symbol of Canada?", options:["Elephant","Kangaroo","Lion","Beaver"], answer:3},
-     {q:"Landmarks and symbols help represent a country's ___.", options:["Weather patterns only","Population count","Currency value","Identity and heritage"], answer:3},
-     {q:"Which of these is a Canadian landmark?", options:["The Statue of Liberty","The Great Wall","The Eiffel Tower","The CN Tower"], answer:3}
+     {q:"What plant symbol appears on the Canadian flag?", options:["Oak leaf","Maple leaf","Palm leaf","Clover"], answer:1},
+     {q:"What are the colours of the Canadian flag?", options:["Blue and white","Green and gold","Red and white","Black and yellow"], answer:2},
+     {q:"When did Canada adopt its current national flag?", options:["1867","1965","2000","1812"], answer:1},
+     {q:"Symbols like the maple leaf help represent a country's ___.", options:["Weather patterns only","Population count","Currency value","Identity and heritage"], answer:3},
+     {q:"Which of these is an official Canadian symbol?", options:["The Statue of Liberty","The Eiffel Tower","The maple leaf","The Great Wall"], answer:2}
    ]},
 ]},
 {day:50, label:"Day 50 — Fri", subjects:[

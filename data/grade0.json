@@ -13569,6 +13569,7 @@
         "summary": "Students practise retelling a story they have heard, using their own words to describe the characters, setting, and events in order.",
         "resourceLabel": "YouTube: Retelling a Story in My Own Words",
         "resourceUrl": "https://www.youtube.com/results?search_query=Retelling%20a%20Story%20in%20My%20Own%20Words%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=JNemQATWt2E",
         "quiz": [
           {
             "q": "What does it mean to retell a story?",
@@ -13651,6 +13652,7 @@
         "summary": "Students use a number line to practise counting forward and backward, and to find numbers that come before, after, or between other numbers.",
         "resourceLabel": "YouTube: Number Lines: Counting Forward and Back",
         "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Lines%3A%20Counting%20Forward%20and%20Back%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UynJ1NE-PS0",
         "quiz": [
           {
             "q": "On a number line, counting forward from 3 gives you ___ next.",
@@ -13733,6 +13735,7 @@
         "summary": "Students learn simple habits for keeping their teeth healthy, such as brushing twice a day, flossing, and visiting the dentist.",
         "resourceLabel": "YouTube: Taking Care of Our Teeth",
         "resourceUrl": "https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Teeth%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=UYRO9R6Bw2s",
         "quiz": [
           {
             "q": "How many times a day should you brush your teeth?",
@@ -13812,82 +13815,84 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Our Classroom Jobs: Helping Out",
-        "summary": "Students learn about simple classroom jobs, such as line leader, helper, or paper passer, and how doing a job helps the whole class run smoothly.",
-        "resourceLabel": "YouTube: Our Classroom Jobs: Helping Out",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Classroom%20Jobs%3A%20Helping%20Out%20kindergarten%20educational",
+        "title": "Community Helpers: People Who Help Us",
+        "summary": "Students learn about community helpers — people whose job is to help others, like firefighters, doctors, mail carriers, and crossing guards — and talk about how each helper keeps the community safe and running smoothly.",
+        "resourceLabel": "YouTube: Community Helpers: People Who Help Us",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Community%20Helpers%20kindergarten%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=2lc-aMgEJpQ",
         "quiz": [
           {
-            "q": "Which of these is an example of a classroom job?",
+            "q": "What is a community helper?",
             "options": [
-              "Watching television",
-              "Line leader",
-              "Sleeping",
-              "Nothing"
+              "A toy robot",
+              "Someone whose job is to help people in the community",
+              "A type of animal",
+              "A kind of building"
             ],
             "answer": 1
           },
           {
-            "q": "Why do classrooms often give students jobs to do?",
+            "q": "Who helps put out fires?",
             "options": [
-              "Jobs are not helpful",
-              "To keep students bored",
-              "Only the teacher should do everything",
-              "To help the classroom run smoothly and share responsibility"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "What does a line leader do?",
-            "options": [
-              "Cleans the whole school",
-              "Cooks lunch",
-              "Drives the bus",
-              "Leads the class in a line"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Doing a classroom job well shows that you are being ___.",
-            "options": [
-              "Responsible",
-              "Unkind",
-              "Lazy",
-              "Careless"
+              "A firefighter",
+              "A librarian",
+              "A baker",
+              "A dentist"
             ],
             "answer": 0
           },
           {
-            "q": "Which is a benefit of having classroom jobs?",
+            "q": "Who helps you when you are sick?",
             "options": [
-              "It causes more mess",
-              "It helps everyone contribute and feel part of the class",
-              "It is unfair to have jobs",
-              "Nobody benefits"
+              "A mail carrier",
+              "A doctor",
+              "A painter",
+              "A pilot"
             ],
             "answer": 1
+          },
+          {
+            "q": "What does a mail carrier do?",
+            "options": [
+              "Delivers letters and packages",
+              "Fixes cars",
+              "Teaches music",
+              "Waters plants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are community helpers important?",
+            "options": [
+              "They are not important",
+              "They only work on weekends",
+              "They keep our community safe and help it run smoothly",
+              "They only help grown-ups"
+            ],
+            "answer": 2
           }
         ],
         "worksheet": [
           {
-            "prompt": "Name one classroom job, like line leader or helper.",
+            "prompt": "Name one community helper, like a firefighter or doctor.",
             "answers": [
-              "line leader",
-              "helper",
-              "paper passer"
+              "firefighter",
+              "doctor",
+              "mail carrier",
+              "crossing guard"
             ]
           },
           {
-            "prompt": "Why do classrooms have jobs for students to do?",
+            "prompt": "Why do communities need helpers?",
             "answers": [
-              "to help the class",
-              "to share responsibility"
+              "to keep people safe",
+              "to help the community run smoothly"
             ]
           },
           {
-            "prompt": "Who leads the line when walking to another room?",
+            "prompt": "Who helps you cross the street safely?",
             "answers": [
-              "line leader"
+              "crossing guard"
             ]
           }
         ]

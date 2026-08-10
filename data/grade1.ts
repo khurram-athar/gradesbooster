@@ -2400,6 +2400,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Capital Letters: Names and Sentence Beginnings", summary:"Students learn that capital letters are used at the beginning of a sentence and for the names of people, places, and days of the week.",
    resourceLabel:"YouTube: Capital Letters: Names and Sentence Beginnings", resourceUrl:"https://www.youtube.com/results?search_query=Capital%20Letters%3A%20Names%20and%20Sentence%20Beginnings%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=mrUGNyo2P-w",
    quiz:[
      {q:"What kind of letter should begin the first word of a sentence?", options:["A capital letter","A number","A lowercase letter","No letter at all"], answer:0},
      {q:"Which of these should always begin with a capital letter?", options:["The name of a person","No words at all","Only short words","Every word in a sentence"], answer:0},
@@ -2414,6 +2415,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding Three Numbers Together", summary:"Students learn to add three one-digit numbers together, such as 2 add 3 add 4, by adding two numbers first and then adding the third number to that sum.",
    resourceLabel:"YouTube: Adding Three Numbers Together", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20Three%20Numbers%20Together%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=OIFK_mU6AhI",
    quiz:[
      {q:"What is 3 add 2 add 1?", options:["5","7","8","6"], answer:3},
      {q:"What is 4 add 4 add 1?", options:["8","9","11","10"], answer:1},
@@ -2428,6 +2430,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Temperature: Hot and Cold", summary:"Students learn to compare temperature, how hot or cold something is, and that a thermometer is a tool used to measure temperature.",
    resourceLabel:"YouTube: Temperature: Hot and Cold", resourceUrl:"https://www.youtube.com/results?search_query=Temperature%3A%20Hot%20and%20Cold%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=g-eBDAhB9VI",
    quiz:[
      {q:"What tool do we use to measure temperature?", options:["A scale","A ruler","A clock","A thermometer"], answer:3},
      {q:"Which of these usually feels hot?", options:["Snow","A cold drink","An ice cube","A campfire"], answer:3},
@@ -2442,6 +2445,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Road and Bicycle Safety Rules", summary:"Students learn simple road and bicycle safety rules, such as looking both ways before crossing the street, wearing a helmet, and obeying traffic signals.",
    resourceLabel:"YouTube: Road and Bicycle Safety Rules", resourceUrl:"https://www.youtube.com/results?search_query=Road%20and%20Bicycle%20Safety%20Rules%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=woxpBFozmdQ",
    quiz:[
      {q:"What should you do before crossing the street?", options:["Run across quickly without looking","Close your eyes","Look both ways for traffic","Ignore traffic"], answer:2},
      {q:"What should you wear on your head when riding a bicycle?", options:["Nothing","A helmet","A hat only","Sunglasses only"], answer:1},
