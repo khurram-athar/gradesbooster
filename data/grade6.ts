@@ -2018,17 +2018,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:49, label:"Day 49 — Thu", subjects:[
-  {subject:"Language", title:"Writing: Personal Narrative with Reflection", summary:"Ontario Grade 6 Writing strand: a personal narrative with reflection tells a true story from the writer’s life and includes thoughtful reflection on what the experience meant or taught them.",
-   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+  {subject:"Language", title:"Writing: Personal Narrative Writing", summary:"Ontario Grade 6 Writing strand: a personal narrative tells a true story from the writer's own life, using a clear sequence of events, descriptive details, and a sense of why the experience mattered.",
+   resourceLabel:"YouTube: Personal Narrative Writing", resourceUrl:"https://www.youtube.com/results?search_query=How%20to%20Write%20a%20Personal%20Narrative%20grade%206%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=z0uXjL2IdeU",
    quiz:[
-     {q:"A personal narrative is a story that is ___.", options:["True and based on the writer’s own experience","Written by someone else about a stranger","Always about historical events only","Entirely fictional"], answer:0},
-     {q:"Reflection in a personal narrative involves ___.", options:["Describing what the experience meant or taught the writer","Only listing events with no deeper thought","Ignoring the meaning of the experience entirely","Copying someone else’s story"], answer:0},
-     {q:"Why is reflection an important part of a personal narrative?", options:["Reflection replaces the need for describing events","A narrative should never include the writer’s thoughts","Reflection has no value in personal writing","It helps convey the significance or lesson behind the experience"], answer:3},
-     {q:"Which is an example of reflective writing in a personal narrative?", options:["The story has no connection to real events.","I woke up. I ate breakfast. I went to school.","The weather was cold that day.","That experience taught me the importance of asking for help."], answer:3},
-     {q:"A strong personal narrative often includes both ___.", options:["No storytelling elements at all","Only reflection with no actual story","Only a list of unrelated facts","Descriptive storytelling and meaningful reflection"], answer:3}
+     {q:"A personal narrative is a story that is ___.", options:["True and based on the writer's own experience","Written by someone else about a stranger","Always about historical events only","Entirely fictional"], answer:0},
+     {q:"Which of these belongs at the start of a personal narrative?", options:["The ending of the story","Setting the scene and introducing the experience","A list of unrelated facts","A dictionary definition"], answer:1},
+     {q:"Why do writers include descriptive details in a personal narrative?", options:["To confuse the reader","To help the reader picture and feel the experience","Details are not needed in narratives","To make the story longer with no purpose"], answer:1},
+     {q:"Which is an example of a strong narrative detail?", options:["I woke up. I ate breakfast. I went to school.","The weather was cold that day.","My hands shook as I stepped up to the microphone.","Nothing happened."], answer:2},
+     {q:"A strong personal narrative often ends by ___.", options:["Stopping mid-sentence with no ending","Sharing why the experience mattered to the writer","Listing unrelated facts","Repeating the introduction word for word"], answer:1}
    ]},
   {subject:"Math", title:"Simple and Compound Interest", summary:"Ontario Grade 6 Financial Literacy strand: simple interest is calculated only on the original amount, while compound interest is calculated on the original amount plus any interest already earned, causing savings to grow faster over time.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=htxVlB5ywfc",
    quiz:[
      {q:"Simple interest is calculated based on ___.", options:["A completely random amount","Only the original amount","The original amount plus previously earned interest","Nothing related to the amount saved"], answer:1},
      {q:"Compound interest is calculated based on ___.", options:["An amount unrelated to savings","The original amount plus interest already earned","Only the original amount, never changing","Only amounts borrowed, never saved"], answer:1},

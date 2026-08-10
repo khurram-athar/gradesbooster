@@ -2020,6 +2020,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Possessive Nouns and Apostrophes", summary:"Ontario Grade 4 Writing strand: possessive nouns show ownership using an apostrophe, such as adding ’s for singular nouns (the dog’s bone) or just an apostrophe for plural nouns ending in s (the dogs’ bones).",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=pbpnnvwb5wQ",
    quiz:[
      {q:"Which shows correct singular possession?", options:["The dog’s bone","The dogs bone","The dogs’s bone","The dog bone’s"], answer:0},
      {q:"How do you typically form the possessive of a plural noun ending in s?", options:["Add nothing at all","Add ’s","Add just an apostrophe after the s","Remove the s entirely"], answer:2},
@@ -2029,6 +2030,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Growing and Shrinking Patterns", summary:"Ontario Grade 4 Algebra strand: a growing pattern increases by a consistent rule each step, while a shrinking pattern decreases by a consistent rule each step.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=SC1sQ2PXgeE",
    quiz:[
      {q:"In the pattern 3, 6, 9, 12, what is the next number?", options:["14","13","15","16"], answer:2},
      {q:"In the pattern 50, 45, 40, 35, what is the next number?", options:["25","32","30","38"], answer:2},
@@ -2038,6 +2040,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Scientific Inquiry: Designing a Fair Test", summary:"Ontario Grade 4 Science Inquiry strand: a fair test changes only one variable at a time while keeping all other conditions the same, so results can be reliably compared and attributed to that one change.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=6BIU58ryxjI",
    quiz:[
      {q:"In a fair test, how many variables should typically be changed at a time?", options:["It does not matter","As many as possible","None at all","Only one"], answer:3},
      {q:"Why is it important to keep other conditions the same in a fair test?", options:["Keeping conditions the same makes the test less accurate","So any difference in results can be attributed to the one variable being tested","Fair tests do not need consistent conditions","It is not important at all"], answer:1},
@@ -2047,6 +2050,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Local Government: Municipal Roles", summary:"Ontario Grade 4 Social Studies People and Environments strand: municipal (local) governments are responsible for community services such as roads, parks, garbage collection, and local bylaws, led by a mayor and council.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=bKIGBcAtVfQ",
    quiz:[
      {q:"Which level of government is typically responsible for garbage collection?", options:["Federal government","Municipal (local) government","No government handles this","Only the provincial government"], answer:1},
      {q:"A municipal government is usually led by a ___.", options:["Mayor and council","Premier only","Prime Minister","King or Queen"], answer:0},

@@ -2020,6 +2020,7 @@ const curriculum: DayContent[] = [
 {day:49, label:"Day 49 — Thu", subjects:[
   {subject:"Language", title:"Grammar: Correcting Run-on Sentences and Fragments", summary:"Ontario Grade 5 Writing strand: a run-on sentence incorrectly joins two or more complete sentences without proper punctuation, while a sentence fragment is an incomplete sentence missing a subject, verb, or complete thought.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=yXPJcnKC6nU",
    quiz:[
      {q:"A run-on sentence is one that ___.", options:["Has perfect punctuation throughout","Is always too short","Incorrectly joins two or more complete sentences without proper punctuation","Contains no subject or verb at all"], answer:2},
      {q:"A sentence fragment is ___.", options:["A complete sentence with excess punctuation","A sentence with no possible errors","Always longer than a run-on sentence","An incomplete sentence missing a subject, verb, or complete thought"], answer:3},
@@ -2029,6 +2030,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Costs and Value for Money", summary:"Ontario Grade 5 Financial Literacy strand: comparing costs and value for money involves looking beyond price alone to consider quality, quantity, and unit rates when deciding which option offers the best value.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=kFNEqLWy1P4",
    quiz:[
      {q:"Value for money means considering ___.", options:["Nothing beyond the item’s colour","Only the lowest price, regardless of quality","Only the brand name","Price along with quality and quantity"], answer:3},
      {q:"If a 500 mL bottle costs $2 and a 1 L bottle costs $3.50, which offers better value per litre?", options:["They offer identical value","Value cannot be compared here","The 1 L bottle","The 500 mL bottle"], answer:2},
@@ -2038,6 +2040,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Fossils and What They Tell Us About Earth’s History", summary:"Ontario Grade 5 Science Earth and Space Systems strand: fossils are the preserved remains or traces of ancient organisms, and studying them helps scientists understand how life and environments on Earth have changed over time.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=YUb_d3gxIrQ",
    quiz:[
      {q:"A fossil is best described as ___.", options:["A man-made object","The preserved remains or traces of an ancient organism","A living organism found today","A type of modern rock with no history"], answer:1},
      {q:"Studying fossils helps scientists understand ___.", options:["Only modern technology","Only current weather patterns","How life and environments on Earth have changed over time","Nothing about Earth’s history"], answer:2},
@@ -2047,6 +2050,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Truth and Reconciliation Commission", summary:"Ontario Grade 5 Social Studies Heritage and Identity strand: the Truth and Reconciliation Commission of Canada was established to document the history and impact of the residential school system and to make recommendations toward healing and reconciliation.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=qxBnmZrSZa4",
    quiz:[
      {q:"The Truth and Reconciliation Commission was established to document the history of ___.", options:["The Great Depression","The residential school system","The building of the railway","The War of 1812"], answer:1},
      {q:"One purpose of the Truth and Reconciliation Commission was to ___.", options:["Prevent any future discussion of this history","Ignore the experiences of residential school survivors","Erase historical records completely","Make recommendations toward healing and reconciliation"], answer:3},
