@@ -36518,5 +36518,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 151,
+    "label": "Day 151 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Poetry: The Aubade — the Dawn Song of Parting Lovers",
+        "summary": "Grade 11 English strand: an aubade is a poem set at dawn that mourns the coming separation of lovers as night ends, using the arrival of morning light as a symbol of loss, urgency, and the fragile boundary between private intimacy and the return of the ordinary world.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does an aubade typically mourn?",
+            "options": [
+              "The coming separation of lovers as dawn arrives",
+              "A harvest festival held in autumn",
+              "The death of a monarch decades earlier",
+              "A victory in battle celebrated at noon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What symbol does an aubade often use to represent loss and urgency?",
+            "options": [
+              "A locked door with no key",
+              "The arrival of morning light",
+              "A river flowing backward",
+              "A blank page with no writing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What boundary does an aubade often explore?",
+            "options": [
+              "The boundary between prose and legal writing",
+              "The boundary between two rival nations",
+              "The boundary between private intimacy and the return of the ordinary world",
+              "The boundary between painting and sculpture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poet set an aubade specifically at dawn rather than at night?",
+            "options": [
+              "Dawn has no symbolic meaning in poetry of any kind",
+              "Dawn marks the moment lovers must part, giving the poem its central tension",
+              "Dawn removes all urgency from a poems subject",
+              "Nighttime scenes are forbidden in the aubade form"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What emotional tone is most associated with the aubade form?",
+            "options": [
+              "A bittersweet sense of loss as a shared night comes to an end",
+              "A tone of complete indifference to the passage of time",
+              "A purely comic tone with no emotional weight",
+              "A tone of triumphant celebration with no sense of loss"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus: Related Rates Problems",
+        "summary": "Grade 11 Functions strand: a related rates problem uses the chain rule to connect the rates of change of two or more quantities that are linked by an equation, letting you find how fast one quantity is changing at a given instant from the known rate of change of another.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What technique do related rates problems rely on to connect changing quantities?",
+            "options": [
+              "The quadratic formula",
+              "The chain rule",
+              "The Pythagorean Theorem alone with no calculus",
+              "A method that ignores any equation linking the quantities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must two or more quantities in a related rates problem share?",
+            "options": [
+              "A shared unit of measurement and nothing else",
+              "Identical numerical values at every instant",
+              "An equation that links them together",
+              "No relationship of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can a related rates problem let you find once one rate is known?",
+            "options": [
+              "How fast a linked quantity is changing at a given instant",
+              "The total distance traveled over an entire day",
+              "The colour of the object being measured",
+              "The exact value of a completely unrelated constant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is differentiating both sides of an equation with respect to time useful in a related rates problem?",
+            "options": [
+              "Differentiating with respect to time has no effect on the equation",
+              "It removes all variables from the equation entirely",
+              "It reveals how the rates of change of the linked quantities are related to each other",
+              "It changes the equation into an unrelated geometric formula"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a classic example of a related rates problem?",
+            "options": [
+              "Finding the average of a list of unrelated numbers",
+              "Finding the total surface area of a fixed, unchanging cube",
+              "Finding how fast the radius of a balloon changes as it is inflated at a known rate",
+              "Finding the exact colour of a balloon"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Ecology: Wetland Ecosystems and Ecosystem Services",
+        "summary": "Grade 11 Biology strand: wetlands are ecosystems saturated with water for at least part of the year, and they provide critical ecosystem services such as filtering pollutants, storing floodwater, and supporting high levels of biodiversity, making them among the most productive habitats on Earth.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What defines a wetland ecosystem?",
+            "options": [
+              "An ecosystem that never contains any water at all",
+              "An ecosystem found only at extremely high altitudes",
+              "An ecosystem defined solely by its average temperature",
+              "An ecosystem saturated with water for at least part of the year"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one ecosystem service wetlands provide.",
+            "options": [
+              "Eliminating biodiversity from the surrounding region",
+              "Producing large amounts of desert sand",
+              "Filtering pollutants from water",
+              "Preventing all plant growth in the area"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do wetlands help reduce flood damage?",
+            "options": [
+              "By evaporating all rainfall before it can accumulate",
+              "By storing floodwater and slowing its release",
+              "By having no effect on water flow whatsoever",
+              "By immediately releasing all stored water at once"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are wetlands considered among the most productive habitats on Earth?",
+            "options": [
+              "They are always larger in area than any other habitat type",
+              "They support unusually high levels of biodiversity relative to their area",
+              "Productivity has no relationship to biodiversity in a wetland",
+              "They support no living organisms of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might happen to nearby communities if a wetland is drained or destroyed?",
+            "options": [
+              "Increased flood risk and reduced natural water filtration",
+              "An automatic improvement in local water quality",
+              "Guaranteed protection from all future flooding",
+              "No change of any kind to surrounding water systems"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Electronegativity and Bond Polarity",
+        "summary": "Grade 11 Chemistry strand: electronegativity measures how strongly an atom attracts shared electrons in a covalent bond, and a large difference in electronegativity between two bonded atoms produces a polar bond with partial positive and negative charges, while a small difference produces a nonpolar bond.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does electronegativity measure?",
+            "options": [
+              "How strongly an atom attracts shared electrons in a covalent bond",
+              "The exact number of neutrons in an atom",
+              "The colour an element appears in visible light",
+              "The total mass of an atoms nucleus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What forms when there is a large electronegativity difference between two bonded atoms?",
+            "options": [
+              "A bond with no charge distribution of any kind",
+              "A purely metallic bond with free-flowing electrons",
+              "A bond that instantly breaks apart",
+              "A polar bond with partial positive and negative charges"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of bond forms when two bonded atoms have similar electronegativity?",
+            "options": [
+              "An extremely polar ionic bond",
+              "A bond with no shared electrons at all",
+              "A bond that cannot exist under any conditions",
+              "A nonpolar bond"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do the partial charges in a polar bond represent?",
+            "options": [
+              "A complete transfer of an entire electron from one atom to the other",
+              "An uneven sharing of electron density between the two atoms",
+              "An equal sharing of electron density with no imbalance",
+              "A charge that has no connection to electron distribution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is electronegativity difference useful for predicting a bonds character?",
+            "options": [
+              "It determines the physical colour of a compound exclusively",
+              "It indicates whether electrons are shared evenly or pulled toward one atom",
+              "It only applies to bonds between identical atoms",
+              "It has no relationship to how electrons are shared in a bond"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 152,
+    "label": "Day 152 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Picaresque Novel and the Roguish Protagonist",
+        "summary": "Grade 11 English strand: a picaresque novel follows a resourceful, low-born rogue protagonist through a loosely connected series of episodic adventures, using satire and social observation to expose the corruption or hypocrisy of the society the protagonist travels through.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What kind of protagonist does a picaresque novel typically follow?",
+            "options": [
+              "A narrator who never appears in the story",
+              "A committee of unnamed characters acting as one",
+              "A resourceful, low-born rogue",
+              "A wealthy monarch with no flaws"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How are the events of a picaresque novel typically structured?",
+            "options": [
+              "As a strict legal argument with numbered clauses",
+              "As a single, tightly unified plot with no separate episodes",
+              "As a single unbroken scene with no passage of time",
+              "As a loosely connected series of episodic adventures"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a picaresque novel often use its roguish protagonist to expose?",
+            "options": [
+              "The exact population of the protagonists home village",
+              "The protagonists complete and total innocence in every situation",
+              "A purely private matter with no social relevance",
+              "The corruption or hypocrisy of the surrounding society"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What literary technique does a picaresque novel commonly rely on to critique society?",
+            "options": [
+              "Silence, with no commentary of any kind",
+              "Satire and social observation",
+              "Strict legal citation",
+              "Mathematical proof"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a low-born rogue make an effective narrator for social critique?",
+            "options": [
+              "An outsider status prevents any commentary on society",
+              "Only wealthy narrators are capable of social critique",
+              "Low-born characters are forbidden from narrating any story",
+              "Their outsider status lets them move through and comment on many levels of society"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus: Concavity, Inflection Points, and the Second Derivative",
+        "summary": "Grade 11 Functions strand: the second derivative of a function reveals its concavity, with a positive second derivative indicating the graph curves upward and a negative second derivative indicating it curves downward, and an inflection point marks where concavity switches from one to the other.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the second derivative of a function reveal?",
+            "options": [
+              "The colour of the functions graph",
+              "Its concavity",
+              "The total number of terms in the function",
+              "The exact y-intercept of the function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a positive second derivative indicate about a graph?",
+            "options": [
+              "The graph has no defined shape at all",
+              "The graph is a perfectly straight line",
+              "The graph curves upward",
+              "The graph curves downward"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a negative second derivative indicate about a graph?",
+            "options": [
+              "The graph curves upward",
+              "The graph repeats itself infinitely",
+              "The graph has no second derivative at all",
+              "The graph curves downward"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an inflection point?",
+            "options": [
+              "The single highest point on the entire graph",
+              "A point where the graph crosses the y-axis exclusively",
+              "A point where concavity switches from upward to downward or downward to upward",
+              "A point where the function is undefined in every case"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is concavity useful information beyond just knowing where a function increases or decreases?",
+            "options": [
+              "Concavity only applies to functions with no derivative",
+              "It describes how the rate of change itself is changing, revealing the shape of the curve",
+              "Concavity provides no additional information about a functions shape",
+              "Concavity replaces the need to know where a function increases or decreases"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Restriction Enzymes and Recombinant DNA Technology",
+        "summary": "Grade 11 Biology strand: restriction enzymes cut DNA at specific recognition sequences, allowing scientists to splice a gene of interest into a plasmid vector and insert the resulting recombinant DNA into a host cell, a foundational technique behind much of modern genetic engineering.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What do restriction enzymes do to DNA?",
+            "options": [
+              "Convert DNA directly into a protein with no intermediate steps",
+              "Permanently destroy all DNA they contact",
+              "Cut it at specific recognition sequences",
+              "Have no effect on DNA of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a plasmid vector used for in recombinant DNA technology?",
+            "options": [
+              "Measuring the exact temperature of a reaction",
+              "Destroying a host cells entire genome",
+              "Producing energy for the host cell exclusively",
+              "Carrying a gene of interest into a host cell"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is recombinant DNA?",
+            "options": [
+              "DNA with no genetic information of any kind",
+              "DNA that has never been altered in any way",
+              "DNA formed by combining genetic material from different sources",
+              "A type of DNA found only in viruses"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are restriction enzymes considered a foundational tool of genetic engineering?",
+            "options": [
+              "They function identically to antibodies in the immune system",
+              "They allow precise cutting and splicing of DNA at known sequences",
+              "They have no practical application in genetic engineering",
+              "They can only be used to destroy DNA, never to modify it usefully"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must happen to a gene of interest before it can be inserted into a host cell using this technique?",
+            "options": [
+              "It must first be converted into a completely different gene",
+              "Nothing, since genes can be inserted with no preparation at all",
+              "It must be removed from all cellular contexts permanently",
+              "It must be spliced into a vector such as a plasmid"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Dyes and Pigments — Azo Compounds and Colour Chemistry",
+        "summary": "Grade 11 Chemistry strand: azo compounds contain a nitrogen-nitrogen double bond linking two aromatic rings, and this extended conjugated system absorbs specific wavelengths of visible light, making azo compounds one of the most widely used classes of synthetic dye in textiles and food colouring.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What functional group defines an azo compound?",
+            "options": [
+              "A single carbon-hydrogen bond with no nitrogen present",
+              "A nitrogen-nitrogen double bond linking two aromatic rings",
+              "A bond found only in noble gases",
+              "A pure metal-metal bond"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What structural feature of azo compounds allows them to absorb visible light?",
+            "options": [
+              "Their extremely small overall molecular size",
+              "Their extended conjugated system",
+              "A rigid, non-conjugated single bond structure",
+              "Their complete lack of any bonding electrons"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What common application are azo compounds widely used for?",
+            "options": [
+              "Producing pure oxygen gas",
+              "Insulating electrical wiring",
+              "Synthetic dyes in textiles and food colouring",
+              "Building structural steel beams"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does the conjugated system in an azo dye affect the colour observed?",
+            "options": [
+              "It determines which wavelengths of visible light are absorbed",
+              "It only affects the compounds melting point, never its colour",
+              "It converts the compound into a colourless gas",
+              "Conjugation has no relationship to colour in any compound"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What links the two aromatic rings in a typical azo compound?",
+            "options": [
+              "A nitrogen-nitrogen double bond",
+              "A chain of carbon atoms with no nitrogen at all",
+              "A metallic bridge between the two rings",
+              "A single oxygen atom with no other bonds"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 153,
+    "label": "Day 153 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Correlative Conjunctions and Balanced Sentence Structure",
+        "summary": "Grade 11 English strand: correlative conjunctions such as either-or, neither-nor, and not only-but also work in pairs to link balanced grammatical elements, and keeping the paired elements parallel in structure gives a sentence rhythm and clarity that a single conjunction cannot achieve alone.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is distinctive about correlative conjunctions?",
+            "options": [
+              "They can only be used at the very start of a paragraph",
+              "They work in pairs to link balanced grammatical elements",
+              "They never appear more than once in an entire essay",
+              "They eliminate the need for any punctuation whatsoever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Give an example of a correlative conjunction pair.",
+            "options": [
+              "Either and or",
+              "Red and blue",
+              "Before and after, used only as prepositions",
+              "Quickly and slowly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must the elements joined by a correlative conjunction pair maintain?",
+            "options": [
+              "Parallel grammatical structure",
+              "No grammatical relationship at all",
+              "Identical spelling in every joined word",
+              "Completely different grammatical structures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What effect can correctly balanced correlative conjunctions have on a sentence?",
+            "options": [
+              "They always make a sentence harder to understand",
+              "They are grammatically forbidden in formal writing",
+              "They give the sentence rhythm and clarity",
+              "They remove all meaning from a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen if the two elements joined by a correlative conjunction pair are not grammatically parallel?",
+            "options": [
+              "The sentence becomes impossible to punctuate",
+              "The sentence can sound awkward or unbalanced",
+              "Nothing changes, since parallel structure is never required",
+              "The sentence automatically becomes more sophisticated"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus: Implicit Differentiation",
+        "summary": "Grade 11 Functions strand: implicit differentiation finds the derivative of a relation in which y is not isolated on one side of the equation, by differentiating both sides with respect to x and applying the chain rule whenever a term involving y appears.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "When is implicit differentiation needed?",
+            "options": [
+              "When y is not isolated on one side of an equation",
+              "Only when a function has no variables at all",
+              "Only when an equation contains no y term whatsoever",
+              "When a function is already fully solved for y"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What rule must be applied whenever a term involving y is differentiated with respect to x?",
+            "options": [
+              "The chain rule",
+              "No rule is needed when differentiating a term involving y",
+              "The Pythagorean Theorem",
+              "A rule that applies only to constants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does implicit differentiation ultimately find?",
+            "options": [
+              "The exact numerical value of x only",
+              "The area enclosed by a curve",
+              "The derivative of a relation between x and y",
+              "The colour of a graphed curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why cannot every equation involving x and y be solved for y before differentiating?",
+            "options": [
+              "Some relations cannot be rearranged into a simple function of x alone",
+              "Implicit differentiation is only used when y does not exist",
+              "Solving for y is never possible under any circumstance",
+              "Every equation can always be solved for y with no difficulty"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a classic example of a curve that requires implicit differentiation?",
+            "options": [
+              "A circle defined by x squared plus y squared equals a constant",
+              "A function with no y term present anywhere",
+              "A straight horizontal line with a constant y-value",
+              "A single point plotted with no equation at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology: Gel Electrophoresis and DNA Fingerprinting",
+        "summary": "Grade 11 Biology strand: gel electrophoresis separates DNA fragments by size as an electric current pulls negatively charged DNA through a porous gel, with smaller fragments migrating farther, producing a banding pattern unique enough to individuals to be used in DNA fingerprinting.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What property of DNA fragments does gel electrophoresis separate by?",
+            "options": [
+              "Colour",
+              "Taste",
+              "Size",
+              "Exact age of the sample"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What pulls DNA fragments through the gel during electrophoresis?",
+            "options": [
+              "A stream of pressurized air",
+              "Gravity alone, with no external force applied",
+              "An electric current",
+              "A strong magnetic field with no electric current"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which fragments migrate farther through the gel, smaller or larger ones?",
+            "options": [
+              "Smaller fragments",
+              "Both migrate an identical distance in every case",
+              "Neither size of fragment ever migrates at all",
+              "Larger fragments"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does gel electrophoresis produce that can be used to identify an individual?",
+            "options": [
+              "A unique banding pattern",
+              "A permanent chemical bond between all samples tested",
+              "A single unchanging colour with no pattern",
+              "An audible sound unique to each sample"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is DNA able to migrate through a gel under an electric current?",
+            "options": [
+              "DNA has no ability to move under an electric current",
+              "DNA is positively charged and repelled by both electrodes",
+              "DNA carries no charge and is pushed by air pressure instead",
+              "DNA is negatively charged and moves toward the positive electrode"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Vapor Pressure and Raoults Law",
+        "summary": "Grade 11 Chemistry strand: vapor pressure is the pressure exerted by a substances vapour when it is in equilibrium with its liquid phase, and Raoults law describes how adding a nonvolatile solute lowers a solvents vapor pressure in proportion to the solutes concentration in the mixture.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What is vapor pressure?",
+            "options": [
+              "The pressure exerted only by a solid at absolute zero",
+              "The total pressure of an entire closed room",
+              "The pressure exerted by a substances vapour in equilibrium with its liquid phase",
+              "A pressure that exists only in outer space"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does adding a nonvolatile solute do to a solvents vapor pressure?",
+            "options": [
+              "It raises the vapor pressure dramatically",
+              "It converts the solvent into a solid instantly",
+              "It lowers the vapor pressure",
+              "It has no effect on vapor pressure whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Raoults law relate the drop in vapor pressure to?",
+            "options": [
+              "The colour of the solvent only",
+              "The container material used to hold the solution",
+              "The exact temperature of the room in every case",
+              "The concentration of the dissolved solute"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a nonvolatile solute lower a solvents vapor pressure?",
+            "options": [
+              "Nonvolatile solutes always evaporate faster than the solvent itself",
+              "Solute particles occupy space at the surface, reducing the rate at which solvent molecules escape",
+              "Solute particles have no effect on the solvents surface at all",
+              "Solute particles increase the rate at which solvent molecules escape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What phase equilibrium is vapor pressure defined in terms of?",
+            "options": [
+              "Equilibrium between a substances liquid and vapour phases",
+              "Equilibrium between two completely different elements",
+              "A condition that involves no phase equilibrium at all",
+              "Equilibrium between a solid and a plasma phase"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 154,
+    "label": "Day 154 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Drama: The Soliloquy and Interior Thought on Stage",
+        "summary": "Grade 11 English strand: a soliloquy is a dramatic speech in which a character alone on stage speaks their private thoughts aloud, giving the audience direct access to motives, doubts, or plans that other characters in the play cannot hear.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is a soliloquy?",
+            "options": [
+              "A conversation between two characters with no audience present",
+              "A stage direction printed only in the margins of a script",
+              "A song performed by an entire chorus of characters",
+              "A dramatic speech in which a character alone on stage speaks private thoughts aloud"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who can hear the words of a true soliloquy within the world of the play?",
+            "options": [
+              "Every character on stage at that moment",
+              "Only the playwright, never the audience",
+              "No other character, only the audience",
+              "A single silent character standing offstage"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a soliloquy give the audience direct access to?",
+            "options": [
+              "A list of props used later in the play",
+              "The exact date the play was first performed",
+              "The names of every actor in the cast",
+              "A characters motives, doubts, or plans"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a playwright use a soliloquy rather than dialogue to reveal a characters plan?",
+            "options": [
+              "It lets the audience understand private thoughts no other character could realistically hear",
+              "A soliloquy must always be spoken by more than one character",
+              "Soliloquies are required to contain no meaningful information",
+              "Dialogue is always a more private form of speech than a soliloquy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must be true of a characters position on stage for a speech to count as a soliloquy?",
+            "options": [
+              "The character must be surrounded by the entire cast",
+              "The character must be reading directly from a printed script",
+              "The character must be alone, with no other characters present to hear",
+              "The character must be offstage and unseen by the audience"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: An Introduction to Cryptography and the RSA Algorithm",
+        "summary": "Grade 11 Functions strand: the RSA algorithm encrypts messages using a public key built from two large prime numbers, and decrypting the message requires a private key derived from those same primes, a security scheme whose strength rests on how difficult it is to factor the product of two large primes.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What is a public key in the RSA algorithm built from?",
+            "options": [
+              "A single even number chosen at random",
+              "A fixed constant that never changes between users",
+              "A list of common English words",
+              "Two large prime numbers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is required to decrypt an RSA-encrypted message?",
+            "options": [
+              "Nothing at all, since RSA messages decrypt themselves automatically",
+              "A private key derived from the same two primes",
+              "A key that has no mathematical relationship to the primes used",
+              "Only the public key, with no private key needed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What mathematical difficulty does the security of RSA rest on?",
+            "options": [
+              "The difficulty of factoring the product of two large primes",
+              "The impossibility of multiplying two prime numbers together",
+              "The ease of factoring any number instantly",
+              "A difficulty that has no connection to prime numbers at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can the public key be shared openly while the private key must stay secret?",
+            "options": [
+              "Both keys are always identical, so secrecy makes no difference",
+              "Neither key needs to remain secret under any circumstance",
+              "The public key alone can reverse the encryption just as easily",
+              "Only the private key, derived from the original primes, can reverse the encryption"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What earlier number theory concepts does RSA encryption depend on?",
+            "options": [
+              "Geometric proofs involving triangles",
+              "Prime numbers and modular arithmetic",
+              "Trigonometric identities exclusively",
+              "Only basic addition and subtraction"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Evolution: Phylogenetics and the Construction of Cladograms",
+        "summary": "Grade 11 Biology strand: phylogenetics reconstructs the evolutionary relationships among species based on shared characteristics, and a cladogram is a branching diagram that represents these relationships, with each branch point marking a common ancestor shared by all species descending from it.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does phylogenetics reconstruct?",
+            "options": [
+              "A list of every mutation in a single genome",
+              "The evolutionary relationships among species",
+              "The precise geographic coordinates of a species habitat",
+              "The exact diet of a single individual organism"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a cladogram?",
+            "options": [
+              "A branching diagram representing evolutionary relationships among species",
+              "A map showing only modern political borders",
+              "A photograph of a single fossil specimen",
+              "A table listing the average weight of several species"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does each branch point on a cladogram represent?",
+            "options": [
+              "A point with no biological significance at all",
+              "The exact birth date of an individual organism",
+              "A location where a species went permanently extinct",
+              "A common ancestor shared by all descending species"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of evidence is used to build a cladogram?",
+            "options": [
+              "The alphabetical order of species names",
+              "Random guesses with no supporting evidence",
+              "Shared characteristics among species",
+              "Only the colour of each species fur or scales"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might two species appear close together on a cladogram?",
+            "options": [
+              "They share a more recent common ancestor than species placed farther apart",
+              "They live in the exact same city or town",
+              "They were both discovered in the same calendar year",
+              "Placement on a cladogram is entirely random"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Bleach and Oxidizing Household Cleaners",
+        "summary": "Grade 11 Chemistry strand: household bleach works as an oxidizing agent, breaking apart the conjugated pigment molecules responsible for stains and killing microorganisms by disrupting proteins and cell membranes through the same oxidation reactions that give bleach its cleaning and disinfecting power.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What type of chemical agent is household bleach?",
+            "options": [
+              "An oxidizing agent",
+              "A completely inert substance with no reactivity",
+              "A reducing agent with no oxidizing ability",
+              "A pure acid with no oxidizing properties"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does bleach remove stains at the molecular level?",
+            "options": [
+              "By breaking apart the conjugated pigment molecules responsible for the stain colour",
+              "By adding new pigment molecules to the fabric",
+              "By dissolving the fabric itself completely",
+              "By physically scrubbing the stain away with no chemical reaction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does bleach act as a disinfectant?",
+            "options": [
+              "By disrupting proteins and cell membranes through oxidation",
+              "By providing nutrients that microorganisms need to thrive",
+              "By freezing microorganisms at room temperature",
+              "By having no effect on microorganisms whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What single type of reaction explains both bleachs stain removal and disinfecting action?",
+            "options": [
+              "Oxidation reactions",
+              "Photosynthesis reactions",
+              "Nuclear fission reactions",
+              "Simple physical dissolution with no chemical change"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might mixing bleach with certain other cleaning products be dangerous?",
+            "options": [
+              "Mixing bleach with other cleaners always makes cleaning safer",
+              "Bleach cannot react with any other household chemical",
+              "Mixing chemicals always eliminates any safety risk",
+              "Reactions between bleach and other chemicals can release hazardous gases"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 155,
+    "label": "Day 155 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Satirical News and the Line Between Parody and Misinformation",
+        "summary": "Grade 11 English strand: satirical news outlets use exaggeration and irony to mock real events for comic or critical effect, but when a satirical headline is shared without its original context, readers may mistake parody for genuine reporting, raising questions about how a text signals its own satirical intent.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What technique do satirical news outlets rely on to mock real events?",
+            "options": [
+              "Random, unrelated numerical data",
+              "Exaggeration and irony",
+              "Strict, unembellished factual reporting only",
+              "Complete silence on any current event"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can happen when a satirical headline is shared without its original context?",
+            "options": [
+              "Nothing changes, since context never affects interpretation",
+              "The headline automatically becomes illegal to share",
+              "Readers may mistake the parody for genuine reporting",
+              "Readers always immediately recognize it as satire"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What question does the spread of decontextualized satire raise for media literacy?",
+            "options": [
+              "Whether satire has ever existed as a literary form",
+              "How a text signals its own satirical intent",
+              "Whether satire should be banned from all media entirely",
+              "Whether headlines should always be exactly one word long"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a satirical article be mistaken for real news?",
+            "options": [
+              "Real news and satire are always printed in different fonts",
+              "Its exaggeration may not be obvious once removed from its original satirical source",
+              "Satirical articles always include a disclaimer in every possible context",
+              "Readers can never be confused by any form of media"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What purpose does satirical news typically serve beyond humour?",
+            "options": [
+              "Providing only entertainment with no commentary of any kind",
+              "Replacing the need for factual news entirely",
+              "Avoiding any connection to real-world events",
+              "Offering comic or critical commentary on real events"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: The Traveling Salesman Problem and Computational Complexity",
+        "summary": "Grade 11 Functions strand: the traveling salesman problem asks for the shortest possible route that visits a set of cities exactly once and returns to the start, and the number of possible routes grows so quickly with each added city that finding a guaranteed optimal solution becomes computationally impractical for large sets.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the traveling salesman problem ask for?",
+            "options": [
+              "A route that visits only a single city forever",
+              "The average distance between two randomly chosen cities",
+              "The longest possible route that avoids every city entirely",
+              "The shortest possible route visiting a set of cities exactly once and returning to the start"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to the number of possible routes as cities are added to the problem?",
+            "options": [
+              "It becomes undefined once more than one city is included",
+              "It grows extremely quickly",
+              "It decreases toward zero as cities are added",
+              "It stays exactly the same no matter how many cities are added"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the traveling salesman problem become computationally impractical for large sets of cities?",
+            "options": [
+              "Large sets of cities always have exactly one possible route",
+              "The problem becomes trivially easy once more cities are added",
+              "Finding a guaranteed optimal solution requires checking an enormous number of possible routes",
+              "Computers cannot process any information about cities at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What field of study examines problems like the traveling salesman problem in terms of how quickly they can be solved?",
+            "options": [
+              "Musical theory",
+              "Ancient history",
+              "Botany",
+              "Computational complexity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What must a valid solution route do with respect to each city?",
+            "options": [
+              "Avoid visiting any city at all",
+              "Visit only cities with names starting with the same letter",
+              "Visit each city an unlimited number of times",
+              "Visit each city exactly once before returning to the start"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Plant Biology: C3, C4, and CAM Photosynthetic Pathways",
+        "summary": "Grade 11 Biology strand: C3 plants fix carbon dioxide directly through the standard Calvin cycle, C4 plants first concentrate carbon dioxide in specialized cells to reduce losses in hot dry climates, and CAM plants open their stomata only at night to conserve water, each pathway representing an adaptation to different environmental pressures.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "How do C3 plants fix carbon dioxide?",
+            "options": [
+              "By avoiding the Calvin cycle entirely",
+              "By opening their stomata only at night",
+              "Directly through the standard Calvin cycle",
+              "By absorbing carbon dioxide through their roots only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do C4 plants first concentrate carbon dioxide in specialized cells?",
+            "options": [
+              "To prevent any photosynthesis from occurring",
+              "Concentrating carbon dioxide serves no functional purpose",
+              "To reduce losses in hot, dry climates",
+              "To increase water loss as much as possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When do CAM plants open their stomata?",
+            "options": [
+              "Never, since CAM plants have no stomata",
+              "Only at night",
+              "Continuously, at every hour of the day",
+              "Only at the hottest point of midday"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is opening stomata at night advantageous for a CAM plant?",
+            "options": [
+              "It maximizes water loss during the hottest part of the day",
+              "It prevents the plant from absorbing any carbon dioxide at all",
+              "It conserves water by reducing evaporation during the heat of the day",
+              "Nighttime stomata opening has no effect on water conservation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do the differences between C3, C4, and CAM pathways represent?",
+            "options": [
+              "A single identical pathway described in three different ways",
+              "Random variations with no adaptive significance",
+              "Adaptations to different environmental pressures",
+              "Differences that only affect flower colour"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Thiols and the Chemistry of Skunk Spray",
+        "summary": "Grade 11 Chemistry strand: thiols are organic compounds containing a sulfur-hydrogen functional group, and their sulfur atoms give many thiols an intensely unpleasant odour detectable by the human nose at extremely low concentrations, which is why the thiol-based compounds in skunk spray are so difficult to remove.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What functional group defines a thiol?",
+            "options": [
+              "A sulfur-hydrogen group",
+              "A pure carbon-carbon triple bond",
+              "A group containing only hydrogen and oxygen",
+              "A nitrogen-oxygen double bond"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What property of many thiols makes them so noticeable to the human nose?",
+            "options": [
+              "A complete lack of any odour whatsoever",
+              "An intensely unpleasant odour detectable at extremely low concentrations",
+              "A pleasant, sweet fragrance detectable only at high concentrations",
+              "An odour that only animals, never humans, can detect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What element gives thiols their characteristic strong odour?",
+            "options": [
+              "Sodium",
+              "Helium",
+              "Calcium",
+              "Sulfur"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is skunk spray so difficult to eliminate once it contacts skin or fabric?",
+            "options": [
+              "Skunk spray evaporates completely within a few seconds",
+              "Skunk spray contains no chemical compounds capable of producing an odour",
+              "Its thiol-based compounds are detectable by smell at extremely low concentrations",
+              "Thiols are always odourless once exposed to air"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of compound, based on its functional group, is responsible for skunk spray odour?",
+            "options": [
+              "A noble gas",
+              "A pure metal",
+              "A thiol",
+              "An ionic salt with no organic component"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 156,
+    "label": "Day 156 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: Nonverbal Communication and Body Language in Presentations",
+        "summary": "Grade 11 English strand: nonverbal communication, including posture, gesture, eye contact, and facial expression, shapes how an audience receives a spoken message just as much as the words themselves, and a speaker whose body language contradicts their words can undermine the credibility of an otherwise strong presentation.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "Name one element of nonverbal communication in a presentation.",
+            "options": [
+              "The exact word count of the speech",
+              "Eye contact",
+              "The font used on any accompanying slides",
+              "The publication date of the source material"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How much can nonverbal communication shape an audiences reception of a message?",
+            "options": [
+              "Only slightly less than the colour of the speakers shoes",
+              "Nonverbal communication has no effect on how a message is received",
+              "As much as the words themselves",
+              "Nonverbal communication can only ever weaken a message"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can happen if a speakers body language contradicts their spoken words?",
+            "options": [
+              "It can undermine the credibility of the presentation",
+              "It always makes the presentation more persuasive",
+              "It automatically improves the audiences understanding",
+              "It has no effect on how the audience perceives the speaker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a speaker practice maintaining eye contact during a presentation?",
+            "options": [
+              "To build a stronger connection with and credibility with the audience",
+              "Maintaining eye contact is forbidden in formal presentations",
+              "Eye contact always distracts an audience from the message",
+              "Eye contact has no relationship to audience connection"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of signal does posture send to an audience during a speech?",
+            "options": [
+              "A nonverbal signal about the speakers confidence and engagement",
+              "A signal that only affects the speakers own hearing",
+              "No signal of any kind, since posture is irrelevant to communication",
+              "A signal about the exact temperature of the room"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Statistics: The t-Distribution and Small-Sample Inference",
+        "summary": "Grade 11 Functions strand: the t-distribution is used instead of the normal distribution when estimating a population mean from a small sample with unknown population standard deviation, since its wider, flatter shape accounts for the extra uncertainty that comes with a limited amount of data.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "When is the t-distribution used instead of the normal distribution?",
+            "options": [
+              "Only when no data has been collected at all",
+              "Only when the population standard deviation is known exactly",
+              "Only when the sample size is extremely large",
+              "When estimating a population mean from a small sample with unknown population standard deviation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the shape of the t-distribution compare to the normal distribution?",
+            "options": [
+              "The t-distribution has no defined shape at all",
+              "It is wider and flatter",
+              "It is narrower and taller",
+              "The two distributions are always identical in shape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the wider, flatter shape of the t-distribution account for?",
+            "options": [
+              "A guarantee that the estimate is exactly correct",
+              "The extra uncertainty that comes with a limited amount of data",
+              "A complete absence of any uncertainty in the estimate",
+              "An error in how the sample was originally collected"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must be unknown about the population for the t-distribution to be the appropriate choice?",
+            "options": [
+              "The population standard deviation",
+              "The sample mean exclusively",
+              "The total population size only",
+              "Nothing about the population needs to be unknown"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a small sample size increase the uncertainty in an estimate of the population mean?",
+            "options": [
+              "A small sample provides less information about the true population, widening the margin of error",
+              "A small sample always provides more information than a large sample",
+              "Small samples eliminate all uncertainty from an estimate",
+              "Sample size has no relationship to the uncertainty of an estimate"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Genetics: DNA Repair Mechanisms and Genomic Stability",
+        "summary": "Grade 11 Biology strand: cells rely on a set of DNA repair mechanisms to detect and correct damage such as mismatched bases or broken strands, and failures in these repair pathways allow mutations to accumulate, which is why defective DNA repair genes are linked to a higher risk of cancer.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What do DNA repair mechanisms detect and correct?",
+            "options": [
+              "Damage to bones and muscle tissue exclusively",
+              "Only damage to the cell membrane, never to DNA itself",
+              "Damage such as mismatched bases or broken strands",
+              "Errors in an organisms diet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can happen to a cell when its DNA repair pathways fail?",
+            "options": [
+              "Mutations accumulate",
+              "The cell becomes completely immune to any further change",
+              "All mutations are instantly and permanently prevented",
+              "DNA repair failure has no effect on the cell whatsoever"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are defective DNA repair genes linked to a higher risk of cancer?",
+            "options": [
+              "DNA repair genes have no connection to cancer risk",
+              "Failed repair allows mutations to accumulate unchecked",
+              "Cancer only develops when DNA repair works perfectly",
+              "Defective repair genes always prevent cancer entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of damage might a DNA repair mechanism target?",
+            "options": [
+              "An increase in the cells overall size",
+              "A mismatched base pair",
+              "A shift in the organisms body temperature",
+              "A change in the colour of the cell membrane"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is genomic stability important for a cell?",
+            "options": [
+              "It helps prevent the accumulation of mutations that can disrupt normal cell function",
+              "Genomic stability has no relevance to normal cell function",
+              "Stability only matters for cells that never divide",
+              "Genomic instability always improves a cells performance"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Amphoteric Substances — Acting as Both Acid and Base",
+        "summary": "Grade 11 Chemistry strand: an amphoteric substance can act as either an acid or a base depending on what it reacts with, donating a proton to a stronger base or accepting a proton from a stronger acid, with water and aluminum hydroxide serving as classic examples of this dual behaviour.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What defines an amphoteric substance?",
+            "options": [
+              "It has no acidic or basic properties of any kind",
+              "It can only ever act as a strong base",
+              "It can act as either an acid or a base depending on what it reacts with",
+              "It can only ever act as a strong acid"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does an amphoteric substance do when it reacts with a stronger base?",
+            "options": [
+              "Accepts a proton, acting as a base",
+              "Converts instantly into a noble gas",
+              "Donates a proton, acting as an acid",
+              "Refuses to react under any circumstance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does an amphoteric substance do when it reacts with a stronger acid?",
+            "options": [
+              "Remains completely unreactive",
+              "Accepts a proton, acting as a base",
+              "Converts the acid into a solid precipitate immediately",
+              "Donates a proton, acting as an acid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name a classic example of an amphoteric substance.",
+            "options": [
+              "Water",
+              "A pure noble gas",
+              "A strand of DNA",
+              "A solid metal bar"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is aluminum hydroxide considered amphoteric?",
+            "options": [
+              "It can only ever react as a base, never as an acid",
+              "It can react as either an acid or a base depending on the conditions",
+              "It reacts only with other metals, never with acids or bases",
+              "It is completely unreactive under all conditions"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 157,
+    "label": "Day 157 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Cover Letter and Professional Correspondence",
+        "summary": "Grade 11 English strand: a cover letter introduces a job or program applicant to a reader who has not yet seen their full application, using a concise, tailored argument to connect the applicants specific experience to the specific opportunity rather than repeating a resume in sentence form.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is the purpose of a cover letter?",
+            "options": [
+              "To list every job the applicant has ever held in exhaustive detail",
+              "To replace the need for a resume entirely",
+              "To provide a full transcript of academic grades",
+              "To introduce an applicant to a reader who has not yet seen their full application"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What should a strong cover letter connect?",
+            "options": [
+              "Nothing in particular, since content does not matter",
+              "The applicants unrelated hobbies to a random topic",
+              "The reader to a completely unrelated organization",
+              "The applicants specific experience to the specific opportunity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What mistake does an effective cover letter avoid?",
+            "options": [
+              "Mentioning the applicants relevant experience at all",
+              "Addressing the specific opportunity being applied for",
+              "Using complete sentences throughout the letter",
+              "Simply repeating the resume in sentence form"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why should a cover letter be tailored to a specific opportunity rather than written generically?",
+            "options": [
+              "Generic letters are always more persuasive than tailored ones",
+              "Cover letters are never read by the people who receive them",
+              "A tailored letter shows the reader exactly why the applicant fits that particular role",
+              "Tailoring a letter to a specific role is against professional convention"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tone is generally expected in professional correspondence like a cover letter?",
+            "options": [
+              "Entirely humorous with no serious content",
+              "Concise and professional",
+              "Aggressive and confrontational",
+              "Casual and filled with slang"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Financial Mathematics: Tax Brackets and Marginal versus Average Tax Rate",
+        "summary": "Grade 11 Functions strand: a progressive tax system applies increasing tax rates to successive brackets of income, so the marginal tax rate taxes only the portion of income within the highest bracket reached, while the average tax rate is the total tax paid divided by total income, and the two rates are rarely equal.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does a progressive tax system apply to successive brackets of income?",
+            "options": [
+              "Increasing tax rates",
+              "Decreasing tax rates as income rises",
+              "No tax whatsoever, regardless of income",
+              "A single fixed tax rate with no brackets at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the marginal tax rate apply to?",
+            "options": [
+              "A rate that has no connection to income brackets",
+              "Only income earned before the age of eighteen",
+              "Only the portion of income within the highest bracket reached",
+              "The entire income at a single flat rate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is the average tax rate calculated?",
+            "options": [
+              "Total income divided by the number of tax brackets",
+              "The lowest possible tax bracket rate alone",
+              "The highest marginal rate multiplied by two",
+              "Total tax paid divided by total income"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the marginal and average tax rates rarely equal in a progressive system?",
+            "options": [
+              "All portions of income are always taxed at the exact same rate",
+              "Marginal and average tax rates are mathematically identical by definition",
+              "The average tax rate is always higher than the marginal rate",
+              "Only the top portion of income is taxed at the marginal rate, while lower portions are taxed at lower rates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of tax system increases its rate as income rises?",
+            "options": [
+              "A system that only applies to corporations",
+              "A system with no defined structure at all",
+              "A regressive tax system",
+              "A progressive tax system"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Human Biology: The Menstrual Cycle and Hormonal Regulation",
+        "summary": "Grade 11 Biology strand: the menstrual cycle is regulated by a shifting balance of hormones, including estrogen, progesterone, and pituitary hormones that trigger ovulation, coordinating the buildup and shedding of the uterine lining across a roughly monthly cycle in preparation for a possible pregnancy.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What regulates the menstrual cycle?",
+            "options": [
+              "A process with no hormonal involvement at all",
+              "A fixed, unchanging hormone level with no variation",
+              "The digestive system exclusively",
+              "A shifting balance of hormones"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name one hormone involved in regulating the menstrual cycle.",
+            "options": [
+              "Adrenaline exclusively",
+              "Estrogen",
+              "Melatonin exclusively",
+              "Insulin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What pituitary-triggered event releases an egg during the menstrual cycle?",
+            "options": [
+              "Fertilization, which always occurs automatically",
+              "Implantation, which happens before ovulation",
+              "Ovulation",
+              "Menstruation, occurring at the very start of the cycle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to the uterine lining across the menstrual cycle?",
+            "options": [
+              "It builds up only once in a persons lifetime",
+              "It builds up and then sheds if pregnancy does not occur",
+              "It remains completely unchanged throughout the entire cycle",
+              "It is permanently removed after a single cycle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the overall biological purpose of the hormonal changes across the menstrual cycle?",
+            "options": [
+              "Producing energy for muscular movement exclusively",
+              "Regulating body temperature exclusively, with no reproductive role",
+              "Controlling the digestive system with no reproductive role",
+              "Preparing the body for a possible pregnancy"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Rocket Propellants and Oxidizer Chemistry",
+        "summary": "Grade 11 Chemistry strand: a rocket propellant system pairs a fuel with an oxidizer that supplies the oxygen needed for combustion even in the vacuum of space, and the choice of fuel-oxidizer combination determines the thrust, efficiency, and storage challenges of a given rocket design.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does an oxidizer supply in a rocket propellant system?",
+            "options": [
+              "A source of pure nitrogen gas only",
+              "A coolant with no chemical reactivity",
+              "A structural support for the rocket body",
+              "The oxygen needed for combustion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must a rocket carry its own oxidizer rather than relying on the atmosphere?",
+            "options": [
+              "Oxidizers are only needed while a rocket remains on the ground",
+              "Rockets must be able to combust fuel even in the vacuum of space",
+              "The atmosphere always provides more than enough oxygen for a rocket",
+              "Rockets never require oxygen for combustion at any stage"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What determines the thrust and efficiency of a given rocket design?",
+            "options": [
+              "The colour of the rockets exterior paint",
+              "The exact number of windows on the rocket",
+              "The choice of fuel-oxidizer combination",
+              "The name given to the rocket by its engineers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What two components make up a rocket propellant system?",
+            "options": [
+              "A fuel and an oxidizer",
+              "A single inert gas with no fuel at all",
+              "A solid metal frame and a battery",
+              "Two identical fuels with no oxidizer present"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can fuel-oxidizer combinations present storage challenges for rocket engineers?",
+            "options": [
+              "Some oxidizers and fuels are highly reactive or require extreme storage conditions",
+              "Fuels and oxidizers never react with each other under any conditions",
+              "Oxidizers are always safe to store at any temperature",
+              "Storage of rocket propellants presents no challenges whatsoever"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 158,
+    "label": "Day 158 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Poetry: Sound Devices — Alliteration, Assonance, and Onomatopoeia",
+        "summary": "Grade 11 English strand: poets use sound devices such as alliteration, the repetition of initial consonant sounds, assonance, the repetition of vowel sounds within nearby words, and onomatopoeia, words that imitate the sounds they describe, to shape a poems rhythm and reinforce its meaning through how it sounds aloud.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is alliteration?",
+            "options": [
+              "A rhyme scheme that never repeats any sound",
+              "A poem with no sound devices at all",
+              "The repetition of an entire sentence word for word",
+              "The repetition of initial consonant sounds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is assonance?",
+            "options": [
+              "The complete absence of any vowel sounds in a poem",
+              "The repetition of an identical rhyme at the end of every line",
+              "The repetition of vowel sounds within nearby words",
+              "A device that only applies to punctuation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is onomatopoeia?",
+            "options": [
+              "Words that imitate the sounds they describe",
+              "Words with no sound-based meaning of any kind",
+              "A term for the physical layout of a poem on the page",
+              "A device used only in formal legal writing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet use sound devices like alliteration and assonance?",
+            "options": [
+              "To shape a poems rhythm and reinforce its meaning through sound",
+              "Sound devices always remove all meaning from a poem",
+              "To eliminate the need for any imagery in the poem",
+              "Sound devices are forbidden in poetry written in English"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best defines onomatopoeia?",
+            "options": [
+              "A word whose sound imitates the sound it describes",
+              "A word borrowed directly from a foreign language",
+              "A word used only in scientific writing",
+              "A word that rhymes with the line before it"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus: Solving Optimization Problems with the Derivative",
+        "summary": "Grade 11 Functions strand: solving an optimization problem with calculus involves writing a quantity to be maximized or minimized as a function of a single variable, then finding where its derivative equals zero to locate the critical points that produce the largest or smallest possible value.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does an optimization problem ask you to find?",
+            "options": [
+              "The total number of terms in a polynomial",
+              "The maximum or minimum value of a quantity",
+              "The colour of a graphed function",
+              "The exact midpoint of an unrelated data set"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must a quantity to be optimized be expressed as before calculus can be applied?",
+            "options": [
+              "A geometric shape with no algebraic description",
+              "A fixed number with no variable at all",
+              "A function of a single variable",
+              "A list of unrelated constants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What condition identifies a critical point of a function?",
+            "options": [
+              "The second derivative is always negative",
+              "The function is undefined everywhere",
+              "The derivative equals zero",
+              "The function itself equals zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are critical points important in solving an optimization problem?",
+            "options": [
+              "They locate the points where the function may reach a maximum or minimum value",
+              "Critical points have no relevance to maximum or minimum values",
+              "Critical points always indicate where a function is undefined",
+              "Critical points only exist for functions with no derivative"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first step in setting up a calculus-based optimization problem?",
+            "options": [
+              "Ignoring the relationship between the variables involved",
+              "Immediately setting the second derivative equal to zero",
+              "Graphing the function using only technology, with no algebra",
+              "Writing the quantity to be maximized or minimized as a function of one variable"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Behavioural Genetics: Twin Studies and the Nature-Nurture Debate",
+        "summary": "Grade 11 Biology strand: twin studies compare identical twins, who share nearly all their genes, to fraternal twins, who share about half, allowing researchers to estimate how much of a given trait is explained by genetics versus environment in the ongoing nature-nurture debate.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What do twin studies compare?",
+            "options": [
+              "Identical twins to fraternal twins",
+              "Only children with no siblings at all",
+              "Twins raised on entirely different planets",
+              "Siblings born decades apart"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About what proportion of genes do identical twins share?",
+            "options": [
+              "Nearly all of their genes",
+              "Exactly one quarter of their genes",
+              "None of their genes",
+              "A proportion that changes randomly each year"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "About what proportion of genes do fraternal twins share?",
+            "options": [
+              "None of their genes",
+              "Exactly one tenth of their genes",
+              "All of their genes",
+              "About half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can researchers estimate using twin studies?",
+            "options": [
+              "The precise number of twins born each year worldwide",
+              "The exact birth weight of every twin ever studied",
+              "How much of a trait is explained by genetics versus environment",
+              "Nothing meaningful about genetics or environment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What broader scientific debate do twin studies help inform?",
+            "options": [
+              "A debate with no connection to genetics or environment",
+              "A debate about the shape of the Earth",
+              "A debate about the age of the universe",
+              "The nature-nurture debate"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Solvent Polarity — Like Dissolves Like",
+        "summary": "Grade 11 Chemistry strand: the principle of like dissolves like predicts that polar solvents readily dissolve polar or ionic solutes while nonpolar solvents dissolve nonpolar solutes, because similar intermolecular forces between solvent and solute allow the solute particles to separate and become surrounded by solvent molecules.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does the principle of like dissolves like predict?",
+            "options": [
+              "Only nonpolar solvents are capable of dissolving anything",
+              "Polar solvents can never dissolve any solute at all",
+              "All solvents dissolve all solutes equally well",
+              "Polar solvents dissolve polar solutes, and nonpolar solvents dissolve nonpolar solutes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of solute do polar solvents readily dissolve?",
+            "options": [
+              "Only solutes that are chemically identical to noble gases",
+              "Polar or ionic solutes",
+              "Only solutes with no charge distribution at all",
+              "Only solid metals with no polarity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does similarity in intermolecular forces between solvent and solute matter for dissolving?",
+            "options": [
+              "It allows solute particles to separate and become surrounded by solvent molecules",
+              "Dissolving only occurs when solvent and solute forces are completely opposite",
+              "Similar intermolecular forces always prevent any dissolving from occurring",
+              "Intermolecular forces have no connection to solubility"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Would a nonpolar solvent be expected to dissolve an ionic solute well?",
+            "options": [
+              "No, because their intermolecular forces are too different",
+              "Yes, nonpolar solvents always dissolve ionic solutes easily",
+              "Solubility has no relationship to polarity in any case",
+              "Yes, but only at extremely low temperatures"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of solute would a nonpolar solvent be expected to dissolve effectively?",
+            "options": [
+              "Only solutes that are also solvents themselves",
+              "A nonpolar solute",
+              "A solute with no chemical structure at all",
+              "A strongly ionic solute"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 159,
+    "label": "Day 159 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: Foreshadowing and Dramatic Irony",
+        "summary": "Grade 11 English strand: foreshadowing plants early hints of events that will happen later in a narrative, while dramatic irony occurs when the audience knows something a character does not, and both techniques create suspense by shaping what a reader anticipates and how they interpret a characters choices.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does foreshadowing do?",
+            "options": [
+              "Plants early hints of events that will happen later in a narrative",
+              "Reveals the entire ending in the very first sentence",
+              "Has no connection to later events in a story",
+              "Removes all sense of anticipation from a narrative"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is dramatic irony?",
+            "options": [
+              "When neither the audience nor any character knows anything",
+              "A technique that only appears in comedic writing",
+              "When the audience knows something a character does not",
+              "When a character knows everything the audience does not"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What effect can foreshadowing and dramatic irony both create?",
+            "options": [
+              "An immediate end to the story",
+              "A total absence of reader engagement",
+              "Complete confusion with no narrative purpose",
+              "Suspense"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does dramatic irony shape a readers interpretation of a characters choices?",
+            "options": [
+              "It prevents the reader from forming any judgment at all",
+              "It ensures the reader always agrees completely with the character",
+              "It has no effect on how a reader interprets any choice",
+              "It lets the reader judge those choices with knowledge the character lacks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an author plant a subtle early hint that only makes sense after a later event?",
+            "options": [
+              "Subtle hints always confuse readers with no later payoff",
+              "To reward attentive readers and add coherence to the narrative in hindsight",
+              "Foreshadowing removes the need for any later event to occur",
+              "Early hints are required to reveal the ending immediately"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Geometry: The Scalar Triple Product and Volume of a Parallelepiped",
+        "summary": "Grade 11 Functions strand: the scalar triple product combines three vectors by taking the dot product of one vector with the cross product of the other two, and its absolute value equals the volume of the parallelepiped formed by the three vectors as edges.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "How is the scalar triple product of three vectors formed?",
+            "options": [
+              "By taking the dot product of one vector with the cross product of the other two",
+              "By taking the cross product of all three vectors at once",
+              "By dividing one vector by the sum of the other two",
+              "By adding all three vectors together with no other operation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What geometric quantity does the absolute value of the scalar triple product equal?",
+            "options": [
+              "The surface area of a sphere with the same radius",
+              "The volume of the parallelepiped formed by the three vectors",
+              "The perimeter of a triangle formed by the vectors",
+              "A quantity with no geometric meaning at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many vectors are combined in a scalar triple product?",
+            "options": [
+              "One",
+              "Four",
+              "Three",
+              "Two"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of quantity does a scalar triple product produce, a scalar or a vector?",
+            "options": [
+              "A matrix of numbers",
+              "A scalar",
+              "A vector perpendicular to all three inputs simultaneously",
+              "A vector with the same direction as the first input"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shape is formed when three vectors are used as edges meeting at a common vertex?",
+            "options": [
+              "A single straight line",
+              "A perfect sphere",
+              "A parallelepiped",
+              "A flat, two-dimensional triangle only"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Physiology: Metabolic Rate and Body Size — Allometric Scaling",
+        "summary": "Grade 11 Biology strand: allometric scaling describes how an organisms metabolic rate does not increase in direct proportion to its body mass, since larger animals typically have a lower metabolic rate per unit of body mass than smaller animals, a relationship first described mathematically by Max Kleiber.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does allometric scaling describe?",
+            "options": [
+              "A relationship that applies only to plants, never animals",
+              "The number of offspring an animal produces annually",
+              "The exact colour pattern of an animals fur",
+              "How an organisms metabolic rate relates to its body mass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Does metabolic rate increase in direct proportion to body mass?",
+            "options": [
+              "No, larger animals have a lower metabolic rate per unit of body mass",
+              "Body mass has no relationship to metabolic rate at all",
+              "Yes, metabolic rate always increases in exact direct proportion to body mass",
+              "Metabolic rate decreases to zero as body mass increases"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which tend to have a higher metabolic rate per unit of body mass, larger or smaller animals?",
+            "options": [
+              "Larger animals",
+              "Both have an identical metabolic rate per unit of mass",
+              "Smaller animals",
+              "Neither, since metabolic rate is unrelated to body mass"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who is credited with first describing this metabolic scaling relationship mathematically?",
+            "options": [
+              "Gregor Mendel",
+              "Max Kleiber",
+              "Isaac Newton",
+              "Charles Darwin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a smaller animal need a proportionally higher metabolic rate than a larger animal?",
+            "options": [
+              "Body size has no effect on the rate of heat loss",
+              "Larger animals always lose heat more quickly than smaller ones",
+              "Smaller animals never need to generate any body heat",
+              "Smaller animals lose heat more quickly relative to their body mass and must generate more energy to compensate"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Non-Stick Cookware and Fluoropolymer Chemistry",
+        "summary": "Grade 11 Chemistry strand: nonstick cookware coatings rely on fluoropolymers, long carbon-chain molecules bonded to fluorine atoms whose strong carbon-fluorine bonds resist chemical reaction and create an extremely low-friction surface that food will not readily stick to or react with.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What class of material do nonstick cookware coatings rely on?",
+            "options": [
+              "Uncoated ceramic with no polymer content",
+              "Fluoropolymers",
+              "Pure silver metal",
+              "A layer of table salt crystals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What element is bonded to the carbon chain in a fluoropolymer?",
+            "options": [
+              "Sodium",
+              "Helium",
+              "Argon",
+              "Fluorine"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do fluoropolymers resist chemical reaction?",
+            "options": [
+              "They react instantly with any substance they contact",
+              "They contain no chemical bonds of any kind",
+              "Their bonds break apart at room temperature",
+              "Their carbon-fluorine bonds are very strong"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What surface property makes a fluoropolymer coating useful for cookware?",
+            "options": [
+              "A surface with no measurable properties at all",
+              "A surface that dissolves completely when heated",
+              "An extremely rough, high-friction surface",
+              "An extremely low-friction surface that food will not readily stick to"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of bond gives a fluoropolymer its chemical stability?",
+            "options": [
+              "A bond that exists only in theory",
+              "An unstable, easily broken ionic bond",
+              "The carbon-fluorine bond",
+              "A weak hydrogen bond only"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 160,
+    "label": "Day 160 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Poetic Craft, Narrative Devices, and Professional Writing",
+        "summary": "Grade 11 English strand review: students revisit the aubade, the picaresque novel, correlative conjunctions, the soliloquy, satirical news and misinformation, nonverbal communication, the cover letter, sound devices, and foreshadowing and dramatic irony.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does an aubade typically mourn?",
+            "options": [
+              "The coming separation of lovers as dawn arrives",
+              "A victory in battle celebrated at noon",
+              "The death of a monarch decades earlier",
+              "A harvest festival held in autumn"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is distinctive about correlative conjunctions?",
+            "options": [
+              "They can only be used at the very start of a paragraph",
+              "They eliminate the need for any punctuation whatsoever",
+              "They work in pairs to link balanced grammatical elements",
+              "They never appear more than once in an entire essay"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What technique do satirical news outlets rely on to mock real events?",
+            "options": [
+              "Strict, unembellished factual reporting only",
+              "Exaggeration and irony",
+              "Complete silence on any current event",
+              "Random, unrelated numerical data"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the purpose of a cover letter?",
+            "options": [
+              "To introduce an applicant to a reader who has not yet seen their full application",
+              "To replace the need for a resume entirely",
+              "To provide a full transcript of academic grades",
+              "To list every job the applicant has ever held in exhaustive detail"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does foreshadowing do?",
+            "options": [
+              "Removes all sense of anticipation from a narrative",
+              "Has no connection to later events in a story",
+              "Reveals the entire ending in the very first sentence",
+              "Plants early hints of events that will happen later in a narrative"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Functions Review: Advanced Calculus, Cryptography, and Statistical Inference",
+        "summary": "Grade 11 Functions strand review: students revisit related rates, concavity and inflection points, implicit differentiation, cryptography and the RSA algorithm, the traveling salesman problem, the t-distribution, tax brackets, the scalar triple product, and calculus-based optimization.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What technique do related rates problems rely on to connect changing quantities?",
+            "options": [
+              "The quadratic formula",
+              "The Pythagorean Theorem alone with no calculus",
+              "The chain rule",
+              "A method that ignores any equation linking the quantities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When is implicit differentiation needed?",
+            "options": [
+              "Only when an equation contains no y term whatsoever",
+              "When a function is already fully solved for y",
+              "When y is not isolated on one side of an equation",
+              "Only when a function has no variables at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the traveling salesman problem ask for?",
+            "options": [
+              "The longest possible route that avoids every city entirely",
+              "The average distance between two randomly chosen cities",
+              "A route that visits only a single city forever",
+              "The shortest possible route visiting a set of cities exactly once and returning to the start"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a progressive tax system apply to successive brackets of income?",
+            "options": [
+              "No tax whatsoever, regardless of income",
+              "Increasing tax rates",
+              "A single fixed tax rate with no brackets at all",
+              "Decreasing tax rates as income rises"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the scalar triple product of three vectors formed?",
+            "options": [
+              "By taking the cross product of all three vectors at once",
+              "By adding all three vectors together with no other operation",
+              "By dividing one vector by the sum of the other two",
+              "By taking the dot product of one vector with the cross product of the other two"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology Review: Biotechnology, Physiology, and Ecosystems",
+        "summary": "Grade 11 Biology strand review: students revisit wetland ecosystems, restriction enzymes and recombinant DNA, gel electrophoresis, phylogenetics and cladograms, C3/C4/CAM photosynthesis, DNA repair mechanisms, the menstrual cycle, twin studies, and allometric scaling.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What defines a wetland ecosystem?",
+            "options": [
+              "An ecosystem that never contains any water at all",
+              "An ecosystem saturated with water for at least part of the year",
+              "An ecosystem defined solely by its average temperature",
+              "An ecosystem found only at extremely high altitudes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What property of DNA fragments does gel electrophoresis separate by?",
+            "options": [
+              "Size",
+              "Colour",
+              "Taste",
+              "Exact age of the sample"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do C3 plants fix carbon dioxide?",
+            "options": [
+              "By opening their stomata only at night",
+              "By avoiding the Calvin cycle entirely",
+              "Directly through the standard Calvin cycle",
+              "By absorbing carbon dioxide through their roots only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What regulates the menstrual cycle?",
+            "options": [
+              "A process with no hormonal involvement at all",
+              "A shifting balance of hormones",
+              "The digestive system exclusively",
+              "A fixed, unchanging hormone level with no variation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does allometric scaling describe?",
+            "options": [
+              "A relationship that applies only to plants, never animals",
+              "The number of offspring an animal produces annually",
+              "The exact colour pattern of an animals fur",
+              "How an organisms metabolic rate relates to its body mass"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry Review: Polarity, Household Chemistry, and Acid-Base Extensions",
+        "summary": "Grade 11 Chemistry strand review: students revisit electronegativity and bond polarity, azo dyes, vapor pressure and Raoults law, bleach and oxidizing cleaners, thiols and skunk spray, amphoteric substances, rocket propellants, solvent polarity, and fluoropolymer chemistry.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does electronegativity measure?",
+            "options": [
+              "The exact number of neutrons in an atom",
+              "The total mass of an atoms nucleus",
+              "How strongly an atom attracts shared electrons in a covalent bond",
+              "The colour an element appears in visible light"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is vapor pressure?",
+            "options": [
+              "The pressure exerted only by a solid at absolute zero",
+              "The pressure exerted by a substances vapour in equilibrium with its liquid phase",
+              "A pressure that exists only in outer space",
+              "The total pressure of an entire closed room"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What functional group defines a thiol?",
+            "options": [
+              "A nitrogen-oxygen double bond",
+              "A pure carbon-carbon triple bond",
+              "A group containing only hydrogen and oxygen",
+              "A sulfur-hydrogen group"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does an oxidizer supply in a rocket propellant system?",
+            "options": [
+              "A structural support for the rocket body",
+              "The oxygen needed for combustion",
+              "A coolant with no chemical reactivity",
+              "A source of pure nitrogen gas only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What class of material do nonstick cookware coatings rely on?",
+            "options": [
+              "Pure silver metal",
+              "A layer of table salt crystals",
+              "Uncoated ceramic with no polymer content",
+              "Fluoropolymers"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
   }
 ]
