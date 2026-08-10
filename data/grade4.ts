@@ -5893,6 +5893,386 @@ const curriculum: DayContent[] = [
      {q:"What is the Fertile Crescent known for?", options:["Having no history of early civilizations","Being a completely dry desert with no water","Rich soil and water access that supported early farming","Being located entirely underwater"], answer:2}
    ]},
 ]},
+{day:151, label:"Day 151 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Articles — A, An, and The", summary:"Grade 4 Language strand: articles are small words used before nouns, where a and an are indefinite articles used with nonspecific nouns, while the is a definite article used with a specific noun, and an is used before words that begin with a vowel sound.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the definite article in English?", options:["An","But","The","A"], answer:2},
+     {q:"Which article is indefinite and used before consonant sounds?", options:["A","The","An","So"], answer:0},
+     {q:"Which article is indefinite and used before vowel sounds?", options:["The","An","Or","A"], answer:1},
+     {q:"Which sentence uses the correct article?", options:["She ate a apple for lunch.","She ate an the apple for lunch.","She ate an apple for lunch.","She eat an apple for lunch."], answer:2},
+     {q:"Why do writers use the article the before a noun?", options:["To turn a noun into a verb","To show the noun is one of many unknown things","To show the noun is specific and already known","Articles have no purpose in a sentence"], answer:2}
+   ]},
+  {subject:"Math", title:"Number Sense: Dividing by 10, 100, and 1,000", summary:"Grade 4 Math strand: dividing a whole number by 10, 100, or 1,000 moves the digits to the right, shifting the decimal point left by one, two, or three places.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What happens to a number when it is divided by 10?", options:["The decimal point moves one place to the right","The decimal point moves one place to the left","The number stays exactly the same","The number is multiplied by 10"], answer:1},
+     {q:"What is 4,500 divided by 10?", options:["40500","4500","450","45"], answer:2},
+     {q:"What is 4,500 divided by 100?", options:["45000","4.5","450","45"], answer:3},
+     {q:"What is 6,000 divided by 1,000?", options:["0.6","60","600","6"], answer:3},
+     {q:"Why is it useful to know how to divide by 10, 100, and 1,000 quickly?", options:["It only works with negative numbers","It makes mental math with place value faster and easier","Division rules change for every number","It has no real use in math"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: The Life Cycle of a Butterfly — Complete Metamorphosis in Detail", summary:"Grade 4 Science strand: a butterfly undergoes complete metamorphosis, changing from an egg to a larva called a caterpillar, then to a pupa inside a chrysalis, before emerging as an adult butterfly.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is the first stage of a butterflys life cycle?", options:["Chrysalis","Egg","Adult butterfly","Caterpillar"], answer:1},
+     {q:"What is a caterpillar also known as in the butterfly life cycle?", options:["A pupa","An adult","An egg","A larva"], answer:3},
+     {q:"What is the chrysalis stage also called?", options:["The adult stage","The larva stage","The egg stage","The pupa stage"], answer:3},
+     {q:"What term describes the dramatic change from caterpillar to butterfly?", options:["Complete metamorphosis","Photosynthesis","Pollination","Hibernation"], answer:0},
+     {q:"What emerges from the chrysalis at the end of the life cycle?", options:["A new caterpillar","A moth only","An adult butterfly","A new egg"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Ancient Carthage and the Phoenician Traders", summary:"Grade 4 Social Studies strand: ancient Carthage was a powerful trading city founded by the Phoenicians, known for its skilled sailors, extensive trade routes, and influence across the Mediterranean Sea.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Who founded the ancient city of Carthage?", options:["The Phoenicians","The Romans","The Greeks","The Egyptians"], answer:0},
+     {q:"What were the Phoenicians especially well known for?", options:["Farming rice","Mining coal","Building pyramids","Being skilled sailors and traders"], answer:3},
+     {q:"Where was ancient Carthage located?", options:["On the coast of the Mediterranean Sea","On a small island in the Pacific Ocean","In the mountains far from any coastline","In the middle of a large desert with no water access"], answer:0},
+     {q:"Why was trade important to the city of Carthage?", options:["It helped Carthage grow wealthy and powerful through Mediterranean trade routes","Carthage refused to trade with any other cities","Trade had no effect on Carthages growth","Carthage only relied on farming for its economy"], answer:0},
+     {q:"Why do historians still study ancient Carthage today?", options:["Carthage has no historical importance","Carthage was never involved in trade","It reveals how trade and seafaring shaped ancient Mediterranean societies","Carthage was located far from any trade routes"], answer:2}
+   ]},
+]},
+{day:152, label:"Day 152 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Understanding Plot Structure — Rising Action, Climax, and Falling Action", summary:"Grade 4 Language strand: plot structure includes rising action, where tension builds, the climax, the most exciting turning point, and falling action, where events lead toward the resolution.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What happens during the rising action of a story?", options:["The story ends completely","Tension and events build toward the most exciting moment","Characters are introduced for the first time","Nothing happens in the plot"], answer:1},
+     {q:"What is the climax of a story?", options:["The very first sentence of the story","The list of characters","The title of the book","The most exciting turning point in the plot"], answer:3},
+     {q:"What happens during the falling action?", options:["The main problem is first introduced","The story is just beginning","Characters are named for the first time","Events move toward the resolution after the climax"], answer:3},
+     {q:"Which part of the plot usually contains the biggest conflict?", options:["The title","The climax","The falling action","The resolution"], answer:1},
+     {q:"Why is understanding plot structure useful for readers?", options:["It helps readers see how a story builds and resolves tension","Plot structure has no effect on understanding a story","Plot structure only applies to poems","Every story has the exact same events"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Finding the Circumference of a Circle (Introduction)", summary:"Grade 4 Math strand: the circumference of a circle is the distance around its outer edge, and students explore how it relates to the circles diameter as an introduction to measuring circles.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is the circumference of a circle?", options:["The area inside the circle","The distance around the outer edge of the circle","The number of sides a circle has","The distance across the middle of the circle"], answer:1},
+     {q:"What part of a circle stretches from one side to the other through the centre?", options:["The circumference","The diameter","The radius only","The arc"], answer:1},
+     {q:"If you wrapped a string around a circular plate, what would you be measuring?", options:["The radius","The circumference","The area","The diameter"], answer:1},
+     {q:"Why might someone need to know the circumference of a circle?", options:["To measure the distance around circular objects like wheels or plates","To find how much space is inside a square","To count the number of sides on a shape","Circumference has no real world use"], answer:0},
+     {q:"Which shape has a circumference instead of a perimeter made of straight sides?", options:["A triangle","A circle","A square","A rectangle"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Deciduous and Coniferous Trees — Comparing Two Types of Forests", summary:"Grade 4 Science strand: deciduous trees have broad leaves that change colour and drop in autumn, while coniferous trees have needle-like leaves and cones and generally stay green throughout the year.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What kind of leaves do deciduous trees typically have?", options:["Broad leaves that change colour and drop in autumn","Needle-like leaves that never fall","No leaves at all","Only flowers instead of leaves"], answer:0},
+     {q:"What kind of leaves do coniferous trees typically have?", options:["Only petals","Needle-like leaves","Broad flat leaves","No leaves at all"], answer:1},
+     {q:"What do coniferous trees produce to hold their seeds?", options:["Flowers only","Fruit only","Cones","Bulbs"], answer:2},
+     {q:"Which type of tree usually stays green throughout the year?", options:["Deciduous trees","Neither type of tree","Both types lose all their leaves","Coniferous trees"], answer:3},
+     {q:"Why do deciduous trees drop their leaves in autumn?", options:["To conserve water and energy during colder months","To attract more sunlight in winter","Leaves fall only during summer","Trees never lose their leaves"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Niagara Falls — Geography and Importance to Canada", summary:"Grade 4 Social Studies strand: Niagara Falls is a group of powerful waterfalls on the border between Canada and the United States, important for tourism, hydroelectric power, and Ontarios geography.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Niagara Falls is located on the border between Canada and which country?", options:["Brazil","The United States","France","Mexico"], answer:1},
+     {q:"What is Niagara Falls an example of?", options:["A tall mountain range","A deep underground cave","A powerful group of waterfalls","A large desert"], answer:2},
+     {q:"What is one important use of the water power at Niagara Falls?", options:["Growing desert crops","Mining coal","Producing salt","Generating hydroelectric power"], answer:3},
+     {q:"Why do millions of visitors travel to see Niagara Falls each year?", options:["It is a famous and powerful natural landmark","It has no scenic value","It is located far from any accessible roads","It is a small quiet stream"], answer:0},
+     {q:"Which Canadian province is home to Niagara Falls?", options:["Ontario","Nova Scotia","Manitoba","British Columbia"], answer:0}
+   ]},
+]},
+{day:153, label:"Day 153 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Character Sketch", summary:"Grade 4 Language strand: a character sketch is a short piece of writing that describes a characters appearance, personality, and behaviour to help readers picture and understand them.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the purpose of a character sketch?", options:["To describe a characters appearance, personality, and behaviour","To describe only a setting","To summarize an entire plot with no character details","To list random unrelated facts"], answer:0},
+     {q:"Which detail would likely appear in a character sketch?", options:["A recipe for a meal","The publication date of a magazine","A description of the characters personality traits","A list of unrelated math problems"], answer:2},
+     {q:"Why might a writer include a characters actions in a character sketch?", options:["Actions are only used in poetry","Character sketches never include actions","Actions can reveal personality traits without stating them directly","Actions have no connection to personality"], answer:2},
+     {q:"What might a character sketch describe about physical appearance?", options:["Only the title of the book","Only the weather in the story","Only the characters favourite food","Details like hair colour, height, or clothing"], answer:3},
+     {q:"Why is a strong character sketch useful to readers?", options:["It only describes the setting","It helps readers picture and understand a character more clearly","It confuses readers on purpose","It removes all detail from a story"], answer:1}
+   ]},
+  {subject:"Math", title:"Fractions: Simplifying Fractions to Lowest Terms", summary:"Grade 4 Math strand: simplifying a fraction to lowest terms means dividing the numerator and denominator by their greatest common factor so the fraction cannot be reduced any further.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What does it mean to simplify a fraction to lowest terms?", options:["Adding one to the numerator only","Dividing the numerator and denominator by their greatest common factor","Multiplying the numerator and denominator by two","Changing the fraction into a whole number"], answer:1},
+     {q:"What is 4/8 simplified to lowest terms?", options:["1/4","1/2","2/4","4/8"], answer:1},
+     {q:"What is 6/9 simplified to lowest terms?", options:["3/6","6/9","1/3","2/3"], answer:3},
+     {q:"What is 10/20 simplified to lowest terms?", options:["10/1","5/10","2/10","1/2"], answer:3},
+     {q:"Why might it be useful to simplify a fraction?", options:["Fractions cannot be simplified","Simplifying makes a fraction larger","Simplifying always changes the fractions value","It makes the fraction easier to read, compare, and work with"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Difference Between Weather and Climate", summary:"Grade 4 Science strand: weather describes short-term conditions in the atmosphere on a given day, while climate describes the typical weather patterns of a region over many years.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What does weather describe?", options:["Short-term atmospheric conditions on a given day","Only the phases of the moon","The average conditions of a region over many years","Only the temperature of the ocean"], answer:0},
+     {q:"What does climate describe?", options:["The typical weather patterns of a region over many years","A single days temperature only","The colour of the sky at sunset","The weather happening right now outside"], answer:0},
+     {q:"Which is an example of weather rather than climate?", options:["This area is generally a desert climate","This region usually has cold winters and mild summers","This region typically receives heavy snowfall each year","It is raining outside today"], answer:3},
+     {q:"Which is an example of climate rather than weather?", options:["This region typically has hot, dry summers every year","There was a thunderstorm this afternoon","It is sunny outside right now","Today feels colder than yesterday"], answer:0},
+     {q:"Why is it useful to understand the difference between weather and climate?", options:["It helps us describe short-term conditions versus long-term patterns accurately","Climate changes every single hour","Weather and climate always mean the exact same thing","Weather never changes from day to day"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Trans-Canada Highway — Connecting the Country by Road", summary:"Grade 4 Social Studies strand: the Trans-Canada Highway is a major road system that stretches across the country, connecting communities in every province and supporting travel and trade.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is the Trans-Canada Highway?", options:["A canal used for shipping goods","A major road system connecting communities across the country","A railway line used only for cargo","A walking trail through one city"], answer:1},
+     {q:"How many provinces does the Trans-Canada Highway pass through?", options:["Every province in Canada","Only two provinces","No provinces at all","Only one province"], answer:0},
+     {q:"What is one benefit of the Trans-Canada Highway for communities?", options:["It has no effect on trade","It only connects cities in the same province","It supports travel and trade between distant communities","It prevents any travel between provinces"], answer:2},
+     {q:"Why might the Trans-Canada Highway be considered an important piece of infrastructure?", options:["It replaces the need for any other roads","It only exists in one small town","It helps connect people, goods, and communities across a vast country","It has no importance to Canadian communities"], answer:2},
+     {q:"What might travellers use the Trans-Canada Highway for?", options:["Walking short distances within one neighbourhood","Driving long distances between provinces","Traveling only by boat","Flying between cities"], answer:1}
+   ]},
+]},
+{day:154, label:"Day 154 — Thu", subjects:[
+  {subject:"Language", title:"Grammar: Indirect Objects", summary:"Grade 4 Language strand: an indirect object receives the direct object of a sentence, usually telling to whom or for whom an action is done, such as her in the sentence I gave her a gift.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What does an indirect object usually tell us?", options:["The setting of a story","The subject performing the action","To whom or for whom an action is done","The main verb in a sentence"], answer:2},
+     {q:"In the sentence I gave her a gift, what is the indirect object?", options:["I","Gift","Her","Gave"], answer:2},
+     {q:"In the sentence Mom baked us cookies, what is the indirect object?", options:["Cookies","Us","Baked","Mom"], answer:1},
+     {q:"Which sentence contains an indirect object?", options:["She wrote quickly.","She sent him a letter.","The letter was sent.","She sent a letter."], answer:1},
+     {q:"Why is it useful to recognize indirect objects in a sentence?", options:["Indirect objects replace the subject of a sentence","Indirect objects have no function in a sentence","Every sentence must contain an indirect object","It helps show who receives the action along with the direct object"], answer:3}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Between Units of Time", summary:"Grade 4 Math strand: converting between units of time involves knowing that 60 seconds make a minute, 60 minutes make an hour, and 24 hours make a day, to move between smaller and larger units.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"How many seconds are in one minute?", options:["30","60","24","100"], answer:1},
+     {q:"How many minutes are in one hour?", options:["24","60","12","100"], answer:1},
+     {q:"How many hours are in one day?", options:["12","60","100","24"], answer:3},
+     {q:"How many minutes are in 2 hours?", options:["24","120","100","60"], answer:1},
+     {q:"Why is it useful to convert between units of time?", options:["Converting time has no real-life use","Units of time can never be converted","Time only exists in seconds","It helps compare and calculate durations given in different units"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Layers of the Atmosphere", summary:"Grade 4 Science strand: Earths atmosphere is made up of layers, including the troposphere closest to the ground where weather occurs, and higher layers that protect the planet and thin out into space.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"Which layer of the atmosphere is closest to the ground?", options:["The mesosphere","The exosphere","The thermosphere","The troposphere"], answer:3},
+     {q:"Where does most of Earths weather occur?", options:["Underground","In outer space","In the troposphere","In the deepest ocean"], answer:2},
+     {q:"What generally happens to air as you move through higher layers of the atmosphere?", options:["It becomes thicker and heavier","It becomes thinner and less dense","It turns into solid rock","It disappears completely at ground level"], answer:1},
+     {q:"Why is the atmosphere important for life on Earth?", options:["It provides air to breathe and helps protect the planet","It has no effect on life on Earth","It removes all oxygen from the planet","It blocks all sunlight completely"], answer:0},
+     {q:"What eventually happens to the atmosphere at its outer edge?", options:["It turns into water","It suddenly stops with a solid wall","It becomes part of the ocean","It gradually thins out into space"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Provincial and Territorial Flags of Canada", summary:"Grade 4 Social Studies strand: each Canadian province and territory has its own flag, featuring unique colours, symbols, and designs that represent its history, geography, and identity.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What does each Canadian province and territory have of its own?", options:["A unique flag","The exact same flag as every other province","No flag at all","Only a national flag"], answer:0},
+     {q:"What might a provincial flag represent?", options:["Only the name of the capital city","Nothing meaningful at all","A foreign countrys history","The regions history, geography, and identity"], answer:3},
+     {q:"Why might provincial flags differ from one another?", options:["All provinces share identical histories","Each region has its own unique symbols and history to represent","Provinces are not allowed to have their own flags","Flags are chosen randomly with no meaning"], answer:1},
+     {q:"Where might you see a provincial or territorial flag displayed?", options:["Only inside private homes","At government buildings within that province or territory","Nowhere within Canada","Only in other countries"], answer:1},
+     {q:"Why is it valuable to learn about the symbols on provincial flags?", options:["All flags contain the exact same symbols","Learning about flags has no educational value","Provincial flags have no connection to regional identity","It helps us understand the unique identity of each region"], answer:3}
+   ]},
+]},
+{day:155, label:"Day 155 — Fri", subjects:[
+  {subject:"Language", title:"Vocabulary: Common Suffixes and Their Meanings", summary:"Grade 4 Language strand: suffixes are word parts added to the end of a base word that change its meaning or part of speech, such as -tion, -ment, and -able.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is a suffix?", options:["A word part added to the end of a base word","A word part added to the beginning of a base word","A punctuation mark","A type of sentence"], answer:0},
+     {q:"What does the suffix -able often mean?", options:["Never able to happen","A type of number","Always in the past","Capable of or able to be"], answer:3},
+     {q:"Adding -tion to a verb often changes it into what part of speech?", options:["A preposition","A noun","An adjective","A verb"], answer:1},
+     {q:"What does the word enjoyment mean, based on the suffix -ment?", options:["The state or action of enjoying something","A type of vegetable","The opposite of enjoying something","A verb meaning to run"], answer:0},
+     {q:"Why is it helpful to learn common suffixes?", options:["Suffixes never change a words meaning","Suffixes make words impossible to understand","It helps figure out the meaning of unfamiliar words","Suffixes only appear in math vocabulary"], answer:2}
+   ]},
+  {subject:"Math", title:"Data Management: Introduction to Scatter Plots", summary:"Grade 4 Math strand: a scatter plot uses points on a grid to show the relationship between two sets of data, helping students see patterns or trends between the values.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What does a scatter plot use to display data?", options:["Bars of different heights","Slices of a circle","Points plotted on a grid","Lines connecting single values only"], answer:2},
+     {q:"What can a scatter plot help you see between two sets of data?", options:["Nothing meaningful about the data","The exact colour of each data point","A pattern or trend between the values","The title of the graph only"], answer:2},
+     {q:"If points on a scatter plot generally rise from left to right, what might this suggest?", options:["A positive relationship between the two sets of data","That the data must be incorrect","No relationship at all","A relationship that cannot be shown visually"], answer:0},
+     {q:"What are the two axes of a scatter plot used to represent?", options:["Nothing measurable","Only one type of data repeated twice","Only categories with no numbers","Two different sets of data being compared"], answer:3},
+     {q:"Why might scientists or researchers use scatter plots?", options:["To avoid comparing information","To hide patterns in data","Scatter plots have no practical use","To visually explore relationships between two variables"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Herbivores, Carnivores, and Omnivores — Animal Diets", summary:"Grade 4 Science strand: animals can be classified by diet as herbivores, which eat only plants, carnivores, which eat only other animals, and omnivores, which eat both plants and animals.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What does a herbivore eat?", options:["Both plants and animals","Only other animals","Only plants","Nothing at all"], answer:2},
+     {q:"What does a carnivore eat?", options:["Only insects and nothing else","Both plants and animals","Only other animals","Only plants"], answer:2},
+     {q:"What does an omnivore eat?", options:["Only plants","Neither plants nor animals","Both plants and animals","Only meat"], answer:2},
+     {q:"Which of these animals is typically classified as a herbivore?", options:["A deer","A shark","A lion","A wolf"], answer:0},
+     {q:"Why do scientists classify animals by their diet?", options:["Diet has no connection to an animals role in nature","All animals eat exactly the same food","It helps explain an animals role in its ecosystem","Classification by diet is not useful in science"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of School Boards in Ontario", summary:"Grade 4 Social Studies strand: a school board is a local governing body responsible for managing public schools in a region, making decisions about programs, staffing, and resources for students.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is a school board responsible for?", options:["Building highways across Canada","Managing national parks","Managing public schools in a region","Running a countrys military"], answer:2},
+     {q:"What might a school board make decisions about?", options:["Only decisions about foreign trade","Only decisions about highways","Programs, staffing, and resources for students","Only decisions about provincial parks"], answer:2},
+     {q:"What kind of area does an Ontario school board usually oversee?", options:["Every province in Canada","Only one classroom","The entire country","A local region with several schools"], answer:3},
+     {q:"Why might communities have their own local school boards?", options:["To make decisions suited to the needs of local students and schools","School boards have no real purpose","Local input has no value for schools","Every school board makes identical decisions everywhere"], answer:0},
+     {q:"Who might work with a school board to support students?", options:["Only professional athletes","Teachers, principals, and school staff","Only airline pilots","Only foreign diplomats"], answer:1}
+   ]},
+]},
+{day:156, label:"Day 156 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Identifying the Protagonist and Antagonist", summary:"Grade 4 Language strand: the protagonist is the main character a story follows, while the antagonist is the character or force that creates conflict and opposes the protagonist.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Who is the protagonist of a story?", options:["The title of the book","The main character the story follows","The character who never appears","The setting of the story"], answer:1},
+     {q:"Who or what is the antagonist of a story?", options:["A minor unimportant character","The narrator only","The author of the book","The character or force that opposes the protagonist"], answer:3},
+     {q:"Why might a story include an antagonist?", options:["To create conflict that challenges the protagonist","To confuse readers with no purpose","To remove all tension from the plot","Antagonists are never included in stories"], answer:0},
+     {q:"Can an antagonist be something other than a person?", options:["No, an antagonist must always be a person","Yes, it can be a force like nature or society","No, a story cannot have an antagonist","No, an antagonist must always be an animal"], answer:1},
+     {q:"Why is identifying the protagonist and antagonist useful when reading?", options:["It helps readers understand the central conflict of the story","Protagonists and antagonists are always the same character","It has no effect on understanding a story","Every story has the exact same protagonist"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Reading and Writing Numbers to 100,000", summary:"Grade 4 Math strand: reading and writing numbers to 100,000 involves understanding place value positions including ten thousands and hundred thousands, and expressing numbers in standard and word form.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is the value of the digit 3 in the number 63,000?", options:["3 thousands","3 tens","3 ones","3 hundreds"], answer:0},
+     {q:"How do you write the number 45,290 in words?", options:["Four hundred fifty-two thousand ninety","Four thousand, five hundred twenty-nine","Forty-five hundred and twenty-nine","Forty-five thousand, two hundred ninety"], answer:3},
+     {q:"What is one hundred thousand written as a numeral?", options:["1,000","10,000","100,000","1,000,000"], answer:2},
+     {q:"Which number is greater, 78,450 or 78,045?", options:["78,045","Cannot be compared","78,450","They are equal"], answer:2},
+     {q:"Why is understanding place value important when reading large numbers?", options:["Large numbers cannot be broken down by place value","Place value has no effect on a numbers value","All digits always represent the same value","It helps determine the value of each digit based on its position"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Human Life Cycle — From Infancy to Adulthood", summary:"Grade 4 Science strand: humans go through stages of a life cycle including infancy, childhood, adolescence, and adulthood, each marked by physical growth and development.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is the first stage of the human life cycle?", options:["Adolescence","Infancy","Childhood","Adulthood"], answer:1},
+     {q:"What stage comes after childhood in the human life cycle?", options:["Infancy","Old age only","Adolescence","Birth"], answer:2},
+     {q:"What generally happens to the human body during each stage of the life cycle?", options:["It shrinks continuously from birth","Growth only happens during infancy","It stays exactly the same at every stage","It grows and develops in different ways"], answer:3},
+     {q:"Which stage of life is generally associated with becoming fully grown?", options:["Adulthood","Early childhood","Infancy","Birth"], answer:0},
+     {q:"Why do scientists study the stages of the human life cycle?", options:["To understand how humans grow, develop, and change over time","Life cycle stages have no scientific value","Every stage of life looks exactly the same","Humans do not go through any stages of growth"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The CN Tower — A Canadian Landmark", summary:"Grade 4 Social Studies strand: the CN Tower is a tall communications and observation tower in Toronto, recognized as an important Canadian landmark and a symbol of the citys skyline.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"In which city is the CN Tower located?", options:["Montreal","Vancouver","Ottawa","Toronto"], answer:3},
+     {q:"What was the CN Tower originally built to support?", options:["Communications and broadcasting","Farming operations","Shipping across the ocean","Mining operations"], answer:0},
+     {q:"What is the CN Tower recognized as today?", options:["A small residential building","A type of bridge","An important Canadian landmark and tourist attraction","A structure with no significance"], answer:2},
+     {q:"What can visitors do at the CN Tower?", options:["Visit a working farm","Go swimming in an underground pool","Ride a roller coaster only","View the city from an observation deck"], answer:3},
+     {q:"Why might the CN Tower be considered a symbol of Toronto?", options:["It is a symbol of a completely different city","It is a recognizable and iconic structure on the citys skyline","It is located outside of Canada","It has no connection to Toronto"], answer:1}
+   ]},
+]},
+{day:157, label:"Day 157 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Demonstrative Pronouns — This, That, These, Those", summary:"Grade 4 Language strand: demonstrative pronouns, including this, that, these, and those, point to specific people, places, or things, showing whether they are near or far and singular or plural.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which word is a demonstrative pronoun used for something singular and nearby?", options:["Those","This","These","Who"], answer:1},
+     {q:"Which word is a demonstrative pronoun used for something plural and nearby?", options:["That","These","This","Which"], answer:1},
+     {q:"Which word is a demonstrative pronoun used for something singular and farther away?", options:["These","Those","That","This"], answer:2},
+     {q:"Which word is a demonstrative pronoun used for something plural and farther away?", options:["These","That","This","Those"], answer:3},
+     {q:"What do demonstrative pronouns generally show?", options:["Whether something is near or far and singular or plural","The tense of a verb","The subject of a question","A type of punctuation"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Rounding to the Nearest Hundred Thousand", summary:"Grade 4 Math strand: to round a number to the nearest hundred thousand, students look at the ten thousands digit to decide whether to round up or keep the hundred thousands digit the same.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What digit do you check when rounding to the nearest hundred thousand?", options:["The ones digit","The ten thousands digit","The tenths digit","The hundreds digit"], answer:1},
+     {q:"What is 340,000 rounded to the nearest hundred thousand?", options:["300,000","340,000","350,000","400,000"], answer:0},
+     {q:"What is 762,000 rounded to the nearest hundred thousand?", options:["800,000","762,000","760,000","700,000"], answer:0},
+     {q:"If the ten thousands digit is 5 or greater, what should you do when rounding to the nearest hundred thousand?", options:["Ignore the digit completely","Round down to zero","Round the hundred thousands digit up by one","Keep the hundred thousands digit the same"], answer:2},
+     {q:"Why might someone round a very large number to the nearest hundred thousand?", options:["Rounding removes the need for all math","To make the number less useful","To make the number easier to estimate or compare","Rounding only works with small numbers"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Glaciers — How Ice Shapes the Land", summary:"Grade 4 Science strand: glaciers are massive slow-moving bodies of ice that shape the land over time by carving valleys, moving rocks and soil, and leaving distinct landforms behind as they melt or retreat.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is a glacier?", options:["A massive slow-moving body of ice","A type of ocean current","A fast-moving river of water","A small puddle of melted snow"], answer:0},
+     {q:"How do glaciers generally move?", options:["Instantly, in a single moment","They never move at all","Slowly, over a long period of time","Only sideways in a straight line"], answer:2},
+     {q:"What can a glacier do to the land as it moves?", options:["Have no effect on the land at all","Instantly disappear without changing anything","Carve valleys and move rocks and soil","Only create new oceans"], answer:2},
+     {q:"What might be left behind after a glacier melts or retreats?", options:["Distinct landforms shaped by the ice","Lava flows","Only new glaciers immediately forming","No trace of any kind"], answer:0},
+     {q:"Why do scientists study glaciers today?", options:["Glaciers have no scientific importance","Glaciers never change over time","To understand how they shape landscapes and respond to climate change","Glaciers do not exist anywhere on Earth"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Ancient Babylon and the Code of Hammurabi", summary:"Grade 4 Social Studies strand: ancient Babylon was a powerful city in Mesopotamia, known for the Code of Hammurabi, one of the earliest known sets of written laws that governed behaviour in society.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What ancient region was the city of Babylon located in?", options:["Ancient Egypt","Ancient Greece","Ancient Rome","Mesopotamia"], answer:3},
+     {q:"What is the Code of Hammurabi?", options:["A type of ancient currency","One of the earliest known sets of written laws","A religious ceremony","A famous ancient painting"], answer:1},
+     {q:"Why was the Code of Hammurabi important to Babylonian society?", options:["It banned all forms of trade","It helped establish rules that governed behaviour in society","It only applied to farming activities","It had no effect on daily life"], answer:1},
+     {q:"What material were early written laws like the Code of Hammurabi often carved into?", options:["Stone","Glass","Paper","Plastic"], answer:0},
+     {q:"Why do historians consider the Code of Hammurabi historically significant?", options:["It is one of the earliest examples of a written legal system","It was created in modern times","It has no connection to the history of law","It was never actually used by anyone"], answer:0}
+   ]},
+]},
+{day:158, label:"Day 158 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Travel Brochure", summary:"Grade 4 Language strand: a travel brochure is a persuasive informational text that describes a destination using engaging descriptions, facts, and images to encourage people to visit.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the purpose of a travel brochure?", options:["To describe a fictional dragon","To list unrelated math problems","To share a private diary entry","To describe a destination and encourage people to visit"], answer:3},
+     {q:"What might a travel brochure include to attract visitors?", options:["A single word with no explanation","Only blank pages with no text","Random unrelated numbers","Engaging descriptions and interesting facts about a place"], answer:3},
+     {q:"Why might a travel brochure include images?", options:["Images have no purpose in a brochure","Images always confuse the reader","To visually show visitors what the destination looks like","Brochures are not allowed to include pictures"], answer:2},
+     {q:"What tone would likely be used in a travel brochure?", options:["Negative and discouraging","Completely neutral with no persuasive language","Positive and inviting","Angry and confusing"], answer:2},
+     {q:"Which detail would likely appear in a travel brochure about a national park?", options:["Popular trails and interesting wildlife to see","An unrelated recipe","A list of unrelated math formulas","A private letter to a friend"], answer:0}
+   ]},
+  {subject:"Math", title:"Probability: Comparing Theoretical and Experimental Probability", summary:"Grade 4 Math strand: theoretical probability predicts outcomes based on possible results, while experimental probability is based on the actual results of repeated trials, and the two can be compared.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is theoretical probability based on?", options:["The actual results of trials already conducted","Random guessing with no calculation","Only outcomes that have already occurred","The possible outcomes that could happen"], answer:3},
+     {q:"What is experimental probability based on?", options:["The actual results of trials that have been carried out","Only outcomes that could theoretically happen","A prediction made without any testing","Guessing without any data"], answer:0},
+     {q:"If you flip a coin, what is the theoretical probability of landing on heads?", options:["1","0","1/2","1/4"], answer:2},
+     {q:"If you flip a coin 10 times and get heads 7 times, what is the experimental probability of heads?", options:["10/7","3/10","1/2","7/10"], answer:3},
+     {q:"Why might experimental probability differ from theoretical probability?", options:["Real trials can vary due to chance even when outcomes are equally likely","They are always exactly identical in every situation","Theoretical probability changes with every trial","Experimental probability is always incorrect"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Composting and Decomposition — Natures Recycling System", summary:"Grade 4 Science strand: composting is a natural process where decomposers such as bacteria, fungi, and worms break down organic waste into nutrient-rich soil that can support new plant growth.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is composting?", options:["A process that removes all soil nutrients","A natural process that breaks down organic waste into nutrient-rich soil","A process that creates plastic from waste","A process that only happens underwater"], answer:1},
+     {q:"Which of these might help break down organic material during composting?", options:["Only plastic materials","Only rocks and sand","Only metal and glass","Bacteria, fungi, and worms"], answer:3},
+     {q:"What can composted material be used for?", options:["Supporting new plant growth as nutrient-rich soil","Powering electrical devices","Making glass","Building bridges"], answer:0},
+     {q:"Why is composting considered good for the environment?", options:["It destroys nutrients permanently","It has no environmental benefit","It reduces waste and recycles nutrients back into the soil","It increases the amount of waste sent to landfills"], answer:2},
+     {q:"Which of these items would be appropriate to add to a compost pile?", options:["Glass jars","Metal cans","Plastic bottles","Vegetable scraps and fruit peels"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas National Historic Sites", summary:"Grade 4 Social Studies strand: national historic sites are locations across Canada recognized for their importance to the countrys history, preserving buildings, events, and stories for future generations.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is a national historic site?", options:["A location recognized for its importance to Canadas history","A location with no historical connection","A brand new shopping centre","A private business with no public access"], answer:0},
+     {q:"Why are national historic sites preserved?", options:["To protect important buildings, events, and stories for future generations","They are not preserved at all","They are meant to be destroyed over time","They have no value to Canadian history"], answer:0},
+     {q:"Who might designate a location as a national historic site in Canada?", options:["A private individual with no authority","No one has this authority","The Canadian government, through organizations like Parks Canada","A foreign government"], answer:2},
+     {q:"What might visitors learn by exploring a national historic site?", options:["Important stories and events from Canadas past","Only modern technology","Nothing of educational value","Unrelated foreign history"], answer:0},
+     {q:"Why is it valuable for a country to preserve national historic sites?", options:["It prevents anyone from learning about the past","Preserving history has no value","It helps connect people with their shared history and heritage","It focuses only on the future with no connection to history"], answer:2}
+   ]},
+]},
+{day:159, label:"Day 159 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Riddle or Joke", summary:"Grade 4 Language strand: writing a riddle or joke uses wordplay, clever clues, and often a surprising twist or pun to entertain an audience and challenge them to guess an answer.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is a common feature of a riddle?", options:["A formal letter format","Clever clues that lead to a surprising answer","A long list of unrelated facts","A detailed scientific explanation"], answer:1},
+     {q:"What technique do many jokes use to create humour?", options:["Random unrelated numbers","Wordplay or a surprising twist","Only serious factual statements","Long complicated sentences"], answer:1},
+     {q:"What is a pun?", options:["A play on words that uses multiple meanings for humour","A type of punctuation mark","A formal apology","A scientific measurement"], answer:0},
+     {q:"Why might a riddle challenge its audience?", options:["It gives away the answer immediately","It has no question or challenge at all","It asks them to figure out a clever or tricky answer","It only contains true statements with no puzzle"], answer:2},
+     {q:"What is the main goal of writing a joke?", options:["To describe a scientific process in detail","To entertain an audience and make them laugh","To provide a serious history lesson","To give step by step cooking instructions"], answer:1}
+   ]},
+  {subject:"Math", title:"Geometry: Diameter and Radius of a Circle", summary:"Grade 4 Math strand: the diameter of a circle is the distance across the circle through its centre, while the radius is the distance from the centre to the edge, and the diameter is always twice the radius.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is the radius of a circle?", options:["The distance around the outside of the circle","The distance across the circle through the centre","The distance from the centre to the edge of the circle","The number of sides a circle has"], answer:2},
+     {q:"What is the diameter of a circle?", options:["The area inside the circle","The distance around the outside of the circle","The distance across the circle through the centre","The distance from the centre to the edge"], answer:2},
+     {q:"If the radius of a circle is 5 centimetres, what is the diameter?", options:["5 centimetres","2.5 centimetres","10 centimetres","15 centimetres"], answer:2},
+     {q:"If the diameter of a circle is 18 centimetres, what is the radius?", options:["36 centimetres","9 centimetres","18 centimetres","6 centimetres"], answer:1},
+     {q:"How is the diameter of a circle related to its radius?", options:["The diameter has no relationship to the radius","The diameter is always half the radius","The diameter and radius are always equal","The diameter is always twice the radius"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Echoes — How Sound Waves Reflect", summary:"Grade 4 Science strand: an echo is a reflection of a sound wave that bounces off a hard surface, such as a wall or a canyon, and returns to the listener a short time after the original sound.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is an echo?", options:["A reflection of a sound wave bouncing off a surface","A type of light wave","A change in air pressure","A magnetic force"], answer:0},
+     {q:"What kind of surface is likely to produce a strong echo?", options:["A hard, flat surface like a canyon wall","A soft surface like a pillow","An empty patch of grass","A cloud in the sky"], answer:0},
+     {q:"Why does an echo reach a listener after a short delay?", options:["Echoes happen before the original sound","Sound takes time to travel to a surface and bounce back","Echoes are unrelated to the original sound","Sound travels instantly with no delay"], answer:1},
+     {q:"Where might you be especially likely to hear an echo?", options:["In a completely open field with no surfaces","Inside a large empty canyon or cave","In outer space with no air","Deep underground with no walls"], answer:1},
+     {q:"What does the presence of an echo tell us about sound?", options:["Sound never interacts with surfaces","Sound only exists near water","Sound cannot travel through air","Sound can reflect off surfaces like a wave"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of Canadian Embassies Abroad", summary:"Grade 4 Social Studies strand: a Canadian embassy is an official office located in another country that represents Canadas government, assists Canadian citizens abroad, and supports relationships between countries.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is a Canadian embassy?", options:["A private Canadian business","An official office in another country that represents Canadas government","A Canadian military base only","A type of Canadian national park"], answer:1},
+     {q:"What might a Canadian embassy help with?", options:["Building highways in Canada","Assisting Canadian citizens who are traveling or living abroad","Running Canadian elections","Managing Canadian school boards"], answer:1},
+     {q:"Where is a Canadian embassy typically located?", options:["In outer space","In a Canadian province only","Underground","In another country"], answer:3},
+     {q:"Why are embassies important for relationships between countries?", options:["They have no diplomatic purpose","They only exist to sell goods","They prevent any communication between countries","They help support communication and cooperation between governments"], answer:3},
+     {q:"Who might work at a Canadian embassy?", options:["Only students on vacation","Only private business owners","Diplomats and government representatives","Only foreign tourists"], answer:2}
+   ]},
+]},
+{day:160, label:"Day 160 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar Basics, Story Structure, and Word Parts", summary:"Grade 4 Language strand review: students revisit articles, plot structure, character sketches, indirect objects, and suffixes.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the definite article in English?", options:["A","The","But","An"], answer:1},
+     {q:"What happens during the rising action of a story?", options:["Characters are introduced for the first time","Tension and events build toward the most exciting moment","Nothing happens in the plot","The story ends completely"], answer:1},
+     {q:"What is the purpose of a character sketch?", options:["To summarize an entire plot with no character details","To describe only a setting","To list random unrelated facts","To describe a characters appearance, personality, and behaviour"], answer:3},
+     {q:"What does an indirect object usually tell us?", options:["The setting of a story","To whom or for whom an action is done","The main verb in a sentence","The subject performing the action"], answer:1},
+     {q:"What is a suffix?", options:["A type of sentence","A word part added to the beginning of a base word","A punctuation mark","A word part added to the end of a base word"], answer:3}
+   ]},
+  {subject:"Math", title:"Math Review: Circles, Fractions, and Time", summary:"Grade 4 Math strand review: students revisit dividing by 10, 100, and 1,000, the circumference of a circle, simplifying fractions, converting units of time, and scatter plots.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What happens to a number when it is divided by 10?", options:["The number is multiplied by 10","The decimal point moves one place to the right","The number stays exactly the same","The decimal point moves one place to the left"], answer:3},
+     {q:"What is the circumference of a circle?", options:["The distance across the middle of the circle","The area inside the circle","The distance around the outer edge of the circle","The number of sides a circle has"], answer:2},
+     {q:"What does it mean to simplify a fraction to lowest terms?", options:["Changing the fraction into a whole number","Dividing the numerator and denominator by their greatest common factor","Adding one to the numerator only","Multiplying the numerator and denominator by two"], answer:1},
+     {q:"How many seconds are in one minute?", options:["24","30","60","100"], answer:2},
+     {q:"What does a scatter plot use to display data?", options:["Bars of different heights","Lines connecting single values only","Points plotted on a grid","Slices of a circle"], answer:2}
+   ]},
+  {subject:"Science", title:"Science Review: Life Cycles, Trees, and Weather Systems", summary:"Grade 4 Science strand review: students revisit the butterfly life cycle, deciduous and coniferous trees, weather versus climate, the layers of the atmosphere, and animal diets.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is the first stage of a butterflys life cycle?", options:["Egg","Chrysalis","Adult butterfly","Caterpillar"], answer:0},
+     {q:"What kind of leaves do deciduous trees typically have?", options:["No leaves at all","Broad leaves that change colour and drop in autumn","Only flowers instead of leaves","Needle-like leaves that never fall"], answer:1},
+     {q:"What does weather describe?", options:["The average conditions of a region over many years","Only the phases of the moon","Only the temperature of the ocean","Short-term atmospheric conditions on a given day"], answer:3},
+     {q:"Which layer of the atmosphere is closest to the ground?", options:["The mesosphere","The exosphere","The thermosphere","The troposphere"], answer:3},
+     {q:"What does a herbivore eat?", options:["Only other animals","Nothing at all","Both plants and animals","Only plants"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Ancient Trade, Canadian Landmarks, and Local Government", summary:"Grade 4 Social Studies strand review: students revisit ancient Carthage, Niagara Falls, the Trans-Canada Highway, provincial flags, and school boards.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Who founded the ancient city of Carthage?", options:["The Greeks","The Egyptians","The Romans","The Phoenicians"], answer:3},
+     {q:"Niagara Falls is located on the border between Canada and which country?", options:["Brazil","France","The United States","Mexico"], answer:2},
+     {q:"What is the Trans-Canada Highway?", options:["A major road system connecting communities across the country","A canal used for shipping goods","A walking trail through one city","A railway line used only for cargo"], answer:0},
+     {q:"What does each Canadian province and territory have of its own?", options:["A unique flag","Only a national flag","The exact same flag as every other province","No flag at all"], answer:0},
+     {q:"What is a school board responsible for?", options:["Building highways across Canada","Running a countrys military","Managing public schools in a region","Managing national parks"], answer:2}
+   ]},
+]},
 ];
 
 export default curriculum;
