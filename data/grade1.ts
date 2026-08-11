@@ -2478,6 +2478,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Math Review: Facts, Patterns, and Time", summary:"Students review recent Math skills: fact families, doubles facts, skip counting by 3s, number bonds, odd and even numbers, telling time, comparing money, positional language, and adding three numbers.",
    resourceLabel:"YouTube: Math Review: Facts, Patterns, and Time", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Facts%2C%20Patterns%2C%20and%20Time%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=8cR_1Qi-tP4",
+   videoUrls:[{label:"Math Facts", url:"https://www.youtube.com/watch?v=8cR_1Qi-tP4"},{label:"Patterns", url:"https://www.youtube.com/watch?v=wfAyddSr9_w"},{label:"Telling Time", url:"https://www.youtube.com/watch?v=5xRoBx7iVGI"}],
    quiz:[
      {q:"Which subtraction fact belongs to the same fact family as 3 add 4 equals 7?", options:["7 minus 3 equals 4","8 minus 1 equals 7","9 minus 4 equals 5","5 minus 2 equals 3"], answer:0},
      {q:"Which of these numbers is even?", options:["7","4","5","3"], answer:1},
@@ -2492,6 +2494,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Review: Bodies, Air, and Animals", summary:"Students review recent Science topics: exercise and rest, healthy eating, germs, air and wind, floating and sinking, fish and birds, camouflage, and temperature.",
    resourceLabel:"YouTube: Science Review: Bodies, Air, and Animals", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Bodies%2C%20Air%2C%20and%20Animals%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AHQGNb0zBgg",
+   videoUrls:[{label:"Human Body", url:"https://www.youtube.com/watch?v=AHQGNb0zBgg"},{label:"Air", url:"https://www.youtube.com/watch?v=mIo_sU2oPYw"},{label:"Animals", url:"https://www.youtube.com/watch?v=53VIgf5mtn0"}],
    quiz:[
      {q:"Which of these is a way to exercise your body?", options:["Sleeping all day","Watching only","Sitting still all day","Running"], answer:3},
      {q:"What do we call moving air?", options:["Water","Wind","Soil","Sunlight"], answer:1},
@@ -2506,6 +2510,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Review: Safety, Money, and Community Helpers", summary:"Students review recent Social Studies topics: farms, local government, Canadian currency, saving and spending, emergency workers, fire safety, pet care, toys then and now, and road safety.",
    resourceLabel:"YouTube: Social Studies Review: Safety, Money, and Community Helpers", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Safety%2C%20Money%2C%20and%20Community%20Helpers%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6eRrYWUFY-8",
+   videoUrls:[{label:"Safety", url:"https://www.youtube.com/watch?v=6eRrYWUFY-8"},{label:"Money", url:"https://www.youtube.com/watch?v=GtlL_5Ct5rU"},{label:"Community Helpers", url:"https://www.youtube.com/watch?v=9Wzqrp4iMrg"}],
    quiz:[
      {q:"What is the title of an elected leader of a city or town?", options:["Dentist","Pilot","Mayor","Farmer"], answer:2},
      {q:"What does it mean to save money?", options:["Losing money","Spending all money right away","Keeping money to use later","Throwing money away"], answer:2},

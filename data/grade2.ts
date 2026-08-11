@@ -2466,6 +2466,8 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Final Review: Sentence Combining, Fact and Opinion, Dictionaries and How-To Writing", summary:"Students review recent Language skills: combining sentences with joining words, fact versus opinion, using a dictionary and glossary, and how-to writing.",
    resourceLabel:"YouTube: Final Review: Sentence Combining, Fact and Opinion, Dictionaries and How-To Writing", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Sentence%20Combining%2C%20Fact%20and%20Opinion%2C%20Dictionaries%20and%20How-To%20Writing%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=GkVbD6mKP3w",
+   videoUrls:[{label:"Sentence Combining", url:"https://www.youtube.com/watch?v=GkVbD6mKP3w"},{label:"Fact and Opinion", url:"https://www.youtube.com/watch?v=PE_TPYdCssA"},{label:"Dictionaries", url:"https://www.youtube.com/watch?v=Fo2cSioY6wI"}],
    quiz:[
      {q:"Which joining word shows a contrast or difference between two ideas?", options:["Because","But","Or","And"], answer:1},
      {q:"Which of these sentences is a fact?", options:["Pizza is the tastiest food.","Summer is the best season.","A week has seven days.","Cats are better than dogs."], answer:2},
@@ -2480,6 +2482,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Final Review: Rounding, Area, Perimeter and Ordinal Numbers", summary:"Students review recent Math skills: rounding to the nearest ten, area, perimeter, and ordinal numbers.",
    resourceLabel:"YouTube: Final Review: Rounding, Area, Perimeter and Ordinal Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Rounding%2C%20Area%2C%20Perimeter%20and%20Ordinal%20Numbers%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=641P4gdSDNE",
+   videoUrls:[{label:"Rounding", url:"https://www.youtube.com/watch?v=641P4gdSDNE"},{label:"Area", url:"https://www.youtube.com/watch?v=wW-fcQledCE"},{label:"Perimeter", url:"https://www.youtube.com/watch?v=VSs1zB629g4"}],
    quiz:[
      {q:"What is 47 rounded to the nearest ten?", options:["47","50","40","45"], answer:1},
      {q:"To measure area, we count how many equal ___ fit inside a shape.", options:["Squares","Circles","Lines","Dots"], answer:0},
@@ -2494,6 +2498,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Final Review: Migration, Pollination, Circuits and Animal Classification", summary:"Students review recent Science topics: animal migration and hibernation, pollination, simple circuits and electricity, and classifying animals.",
    resourceLabel:"YouTube: Final Review: Migration, Pollination, Circuits and Animal Classification", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Migration%2C%20Pollination%2C%20Circuits%20and%20Animal%20Classification%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hMAS4SdPj-w",
+   videoUrls:[{label:"Migration", url:"https://www.youtube.com/watch?v=hMAS4SdPj-w"},{label:"Pollination", url:"https://www.youtube.com/watch?v=UkjOeD47sTs"},{label:"Circuits", url:"https://www.youtube.com/watch?v=HOFp8bHTN30"}],
    quiz:[
      {q:"Which of these animals is known for hibernating in winter?", options:["A fish","A butterfly","A bear","A goose"], answer:2},
      {q:"Why is pollination important for plants?", options:["It helps plants make seeds and grow new plants","It stops plants from growing","It has no effect on plants","It helps plants stay small forever"], answer:0},
@@ -2508,6 +2514,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Final Review: Diversity, Schools and Libraries, Wildlife and Communication", summary:"Students review recent Social Studies topics: cultural diversity, the role of schools and libraries, Canadian wildlife, and communication long ago and today.",
    resourceLabel:"YouTube: Final Review: Diversity, Schools and Libraries, Wildlife and Communication", resourceUrl:"https://www.youtube.com/results?search_query=Final%20Review%3A%20Diversity%2C%20Schools%20and%20Libraries%2C%20Wildlife%20and%20Communication%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RwSYrsjTiW4",
+   videoUrls:[{label:"Diversity", url:"https://www.youtube.com/watch?v=RwSYrsjTiW4"}],
    quiz:[
      {q:"Why is it helpful to learn about different cultures in your community?", options:["It has no benefit at all","It makes people forget their own culture","It causes communities to fall apart","It helps people understand and respect each other"], answer:3},
      {q:"Who can usually use the resources at a public library?", options:["People of all ages","Only children","Only adults","Only teachers"], answer:0},
