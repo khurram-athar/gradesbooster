@@ -2068,6 +2068,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"English", title:"Literature: The Anti-Hero in Modern Narrative", summary:"Grade 12 English strand: the anti-hero is a protagonist who lacks traditional heroic qualities, such as clear moral virtue, complicating a reader’s sense of who to root for and challenging conventional narrative expectations.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=MEjgDeSnBMs",
    quiz:[
      {q:"An anti-hero is a protagonist who lacks ___.", options:["Traditional heroic qualities, such as clear moral virtue","Any role or presence within the narrative whatsoever","A concept unrelated to a story’s central character","A name or any other form of identity within the story"], answer:0},
      {q:"The anti-hero complicates a reader’s sense of ___.", options:["A concept unrelated to a reader’s engagement with a character","Who to root for","The physical setting of the story","The story’s exact publication date"], answer:1},

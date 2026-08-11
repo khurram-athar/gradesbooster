@@ -2062,6 +2062,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Reading: Synthesizing Across a Text Set", summary:"Grade 9 Reading strand: a text set is a group of related texts on a common topic, and synthesizing across them involves combining ideas and evidence from each to form a broader, more complete understanding.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=ioJ2axy4N2A",
    quiz:[
      {q:"A text set is best described as ___.", options:["A concept unrelated to reading comprehension","A collection of completely unrelated texts","A group of related texts on a common topic","A single isolated text with no connection to others"], answer:2},
      {q:"Synthesizing across a text set involves ___.", options:["Ignoring all texts in the set completely","Combining ideas and evidence from multiple texts into a broader understanding","Copying one text exactly with no analysis","Reading only one text and ignoring all others in the set"], answer:1},

@@ -2062,6 +2062,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Reading: Evaluating an Author’s Use of Structure", summary:"Grade 8 Reading strand: an author’s structural choices, such as chronological order, flashback, or parallel storylines, shape how a story unfolds and affect the reader’s understanding and engagement.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=D0YUpfLofgQ",
    quiz:[
      {q:"An author’s structural choices can include using ___.", options:["Only random, unrelated events with no structure","No identifiable structure of any kind","A structure unrelated to how a story unfolds","Chronological order, flashback, or parallel storylines"], answer:3},
      {q:"Why might an author use parallel storylines in a text?", options:["Parallel storylines always confuse readers with no purpose","To show connections or contrasts between different characters or events","This structure has no effect on a story’s meaning","Parallel storylines are never used in literature"], answer:1},

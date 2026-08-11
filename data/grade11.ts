@@ -2065,6 +2065,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"English", title:"Writing: Crafting a Personal Philosophy Statement", summary:"Grade 11 English strand: a personal philosophy statement articulates a writer’s core beliefs and guiding principles, often reflecting on experiences that have shaped their outlook on life.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=f5DPddm7eVA",
    quiz:[
      {q:"A personal philosophy statement articulates a writer’s ___.", options:["A completely unrelated topic","Core beliefs and guiding principles","Someone else’s beliefs and values","A summary of unrelated facts"], answer:1},
      {q:"Why might a writer reflect on past experiences when crafting a personal philosophy statement?", options:["A personal philosophy statement should never include any reflection","Experiences often shape and reveal the beliefs and principles a person holds","Past experiences have no connection to a person’s beliefs","This type of writing has no connection to a writer’s own life"], answer:1},

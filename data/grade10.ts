@@ -2065,6 +2065,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"English", title:"Reading: Author’s Craft -- Voice and Style Analysis", summary:"Grade 10 English strand: analyzing an author’s craft involves examining their distinctive voice and stylistic choices, such as word choice, sentence structure, and figurative language, to understand how meaning is created.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=l3yWmXbC36s",
    quiz:[
      {q:"Analyzing an author’s craft involves examining their ___.", options:["The publication date of their work only","Only the physical length of their book","A factor entirely unrelated to writing style","Distinctive voice and stylistic choices"], answer:3},
      {q:"Which is an element of an author’s style that might be analyzed?", options:["A factor unrelated to writing technique","Word choice and sentence structure","Only the price of the book","The font used in the printed edition"], answer:1},
