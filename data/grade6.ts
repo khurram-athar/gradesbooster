@@ -2062,6 +2062,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Reading: Evaluating Theme Across a Novel", summary:"Ontario Grade 6 Reading strand: evaluating theme across an entire novel involves tracing how a central idea develops and is reinforced through multiple events, characters, and details throughout the story.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=MAu3e5GZo4k",
    quiz:[
      {q:"Evaluating theme across a novel involves ___.", options:["Ignoring the plot and characters entirely","Tracing how a central idea develops throughout the story","Looking at a single isolated sentence only","Focusing only on the book’s cover"], answer:1},
      {q:"A theme is often reinforced throughout a novel through ___.", options:["A single unrelated detail with no connection to the rest of the story","The font used in printing","The book’s price","Multiple events, characters, and details"], answer:3},

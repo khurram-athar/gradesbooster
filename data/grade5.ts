@@ -2062,6 +2062,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Reading: Synthesizing Information from Multiple Texts", summary:"Ontario Grade 5 Reading strand: synthesizing means combining information from multiple texts or sources to form a more complete understanding of a topic than any single source could provide alone.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=1nCcFdCmUgs",
    quiz:[
      {q:"Synthesizing information means ___.", options:["Reading only a single source and ignoring all others","Combining information from multiple sources into a fuller understanding","Copying one text exactly","Ignoring all sources completely"], answer:1},
      {q:"Why might a reader consult multiple texts on the same topic?", options:["One source always provides complete information","To build a more complete and well-rounded understanding","Additional sources never add useful information","Consulting multiple texts is a waste of time"], answer:1},

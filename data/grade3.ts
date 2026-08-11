@@ -2063,6 +2063,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Media Literacy: Recognizing Bias", summary:"Ontario Grade 3 Media Literacy strand: bias means a text or media source favours one side or opinion over another, so readers should notice whose viewpoint is being shown and whether other viewpoints are missing.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=ccK9TTA6xiw",
    quiz:[
      {q:"Bias in a text means ___.", options:["The text is completely balanced","The text favours one side or opinion over another","The text is always false","The text contains no opinions at all"], answer:1},
      {q:"A smart reader who notices bias should ask ___.", options:["Nothing, bias does not matter","Whose viewpoint is being shown and what might be missing","How many pages the text has","Only who wrote the title"], answer:1},
@@ -2072,6 +2073,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Problem Solving: Choosing the Right Operation", summary:"Ontario Grade 3 Number strand: solving a word problem well starts with deciding which operation -- addition, subtraction, multiplication, or division -- fits what the problem is asking.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=zdG4lJHqIF8",
    quiz:[
      {q:"A problem asks how many total cookies are in 4 bags of 6. Which operation fits best?", options:["Multiplication","Division","Subtraction","Addition"], answer:0},
      {q:"A problem asks how many are left after giving some away. Which operation fits best?", options:["None of these","Division","Subtraction","Multiplication"], answer:2},
@@ -2081,6 +2083,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Inquiry: The Scientific Method", summary:"Ontario Grade 3 Science strand across all topics: the scientific method is a process scientists use -- asking a question, making a prediction, testing it, and drawing a conclusion -- to investigate the world.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=qQBZbinoOrI",
    quiz:[
      {q:"The first step of the scientific method is usually ___.", options:["Publishing a report","Building a final product","Drawing a conclusion","Asking a question"], answer:3},
      {q:"A prediction made before testing is called a ___.", options:["Random guess with no reasoning","Observation only","Conclusion","Hypothesis"], answer:3},
@@ -2090,6 +2093,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Planning for My Community's Future", summary:"Ontario Grade 3 Social Studies Heritage and Identity strand: thinking about a community's future involves considering how population growth, the environment, and technology might shape decisions communities make together.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=2LyjHAni4mE",
    quiz:[
      {q:"Community planning for the future often considers ___.", options:["Random unrelated topics","Nothing about the environment","Only decisions from the distant past","Population growth, environment, and technology"], answer:3},
      {q:"Why might a growing community need to plan for more schools or services?", options:["Only large cities ever grow","Growth never affects community needs","To meet the needs of a larger population over time","Planning is unnecessary for communities"], answer:2},

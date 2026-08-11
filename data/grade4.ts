@@ -2062,6 +2062,7 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Reading: Reflecting and Responding to Texts", summary:"Ontario Grade 4 Reading strand: reflecting on a text means thinking about how it connects to your own experiences, other texts, or the world, and forming a thoughtful personal response.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=Jg0A06UzAPc",
    quiz:[
      {q:"Reflecting on a text means ___.", options:["Ignoring your own thoughts about the text","Immediately forgetting what you read","Only memorizing the text word for word","Thinking about how the text connects to your experiences or the world"], answer:3},
      {q:"A personal response to a text might include ___.", options:["A list of unrelated topics","Only copying sentences from the text","No opinions or thoughts at all","Your own thoughts, feelings, or connections to the text"], answer:3},
@@ -2071,6 +2072,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Budgeting Basics", summary:"Ontario Grade 4 Financial Literacy strand: a budget is a plan for how to use money, balancing income (money coming in) with expenses (money going out), and setting aside savings when possible.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=cYGiipJOiLg",
    quiz:[
      {q:"A budget is best described as ___.", options:["A list of things you already own","A plan for how to use money","A type of bank account only","A rule that forbids spending money"], answer:1},
      {q:"Income refers to ___.", options:["Money coming in","A type of expense","Money that has been lost","Money going out"], answer:0},
@@ -2087,14 +2089,15 @@ const curriculum: DayContent[] = [
      {q:"Which simple machine converts turning motion into straight-line motion?", options:["Screw","Lever","Wheel and axle","Pulley"], answer:0},
      {q:"Why is it useful to review structures, forces, and simple machines together?", options:["These topics have no connection to each other","Review is never useful in science","Each topic must be learned in complete isolation","They are closely connected ideas that build a fuller understanding of mechanisms"], answer:3}
    ]},
-  {subject:"SocialStudies", title:"Culminating Task: Comparing an Early Society to Canada Today", summary:"Ontario Grade 4 Social Studies culminating task: students compare daily life, government, and technology in an early society, such as Ancient Egypt or Mesopotamia, with life in Canada today.",
+  {subject:"SocialStudies", title:"Innovations and Technology in Early Societies", summary:"Ontario Grade 4 Social Studies strand: early societies such as Ancient Egypt and Mesopotamia developed tools and technologies -- including irrigation, the wheel, and writing systems -- to solve everyday problems and improve daily life.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=RRJkMSBByAA",
    quiz:[
-     {q:"Comparing an early society to Canada today can include looking at ___.", options:["Only the weather","Only the colour of buildings","Nothing meaningful","Daily life, government, and technology"], answer:3},
-     {q:"Which is a valid comparison between Ancient Egypt and Canada today?", options:["Canada today has pyramids as its main structures","Both have systems of government, though very different in structure","Ancient Egypt used smartphones","Neither society ever had any form of government"], answer:1},
-     {q:"Why is comparing past and present societies a valuable learning task?", options:["This kind of comparison is impossible to make","It helps students understand how societies change and what stays similar over time","Comparing societies has no educational value","Past societies have no connection to life today"], answer:1},
-     {q:"A culminating task is typically used to ___.", options:["Bring together and apply learning from throughout a unit or year","Introduce a brand new unit with no prior learning","Test only unrelated content","Replace the need for any learning at all"], answer:0},
-     {q:"Which skill is most useful when completing a comparison task like this?", options:["Copying text without analysis","Identifying similarities and differences with supporting evidence","Guessing randomly with no evidence","Ignoring one of the two things being compared"], answer:1}
+     {q:"Early societies developed technologies mainly to ___.", options:["Copy other societies with no purpose","Solve everyday problems and improve daily life","Avoid solving any problems","Make life more difficult"], answer:1},
+     {q:"Which is an example of a technology developed by an early society?", options:["The internet","Irrigation systems","Smartphones","Electric cars"], answer:1},
+     {q:"Why was the invention of writing systems important for early societies?", options:["It allowed information to be recorded and shared over time","It made communication impossible","It had no effect on daily life","It replaced the need for any government"], answer:0},
+     {q:"How did the wheel change how early societies worked and traveled?", options:["It had no impact on transportation","It made transporting goods and people easier and faster","It made transportation slower","It was only used for decoration"], answer:1},
+     {q:"Studying the technology of early societies helps us understand ___.", options:["Nothing useful about history","How people solved problems with the tools and knowledge available to them","That early societies had no innovations","That technology has never changed over time"], answer:1}
    ]},
 ]},
 {day:51, label:"Day 51 — Mon", subjects:[

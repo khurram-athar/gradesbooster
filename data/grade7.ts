@@ -2060,14 +2060,15 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:50, label:"Day 50 — Fri", subjects:[
-  {subject:"Language", title:"Reading: Synthesizing Multiple Perspectives into a Cohesive Argument", summary:"Ontario Grade 7 Reading strand: synthesizing multiple perspectives means combining ideas and evidence from several sources or viewpoints to form a well-supported, cohesive argument or understanding.",
+  {subject:"Language", title:"Reading: Synthesis vs. Summary -- Combining Information from Sources", summary:"Ontario Grade 7 Reading strand: synthesizing means combining information and ideas from several sources into new understanding, which is different from summarizing, which simply restates what a single source already says.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=-OBeL7PVfJ8",
    quiz:[
-     {q:"Synthesizing multiple perspectives means ___.", options:["Copying one text exactly with no analysis","Combining ideas and evidence from several sources into a cohesive understanding","Ignoring all available sources completely","Reading only one source and ignoring all others"], answer:1},
-     {q:"Why might a reader consult multiple perspectives on the same issue?", options:["One perspective always provides a complete understanding","Additional perspectives never add useful information","To build a more complete and balanced understanding of the topic","Consulting multiple perspectives is unnecessary"], answer:2},
-     {q:"When synthesizing perspectives, a reader should look for ___.", options:["Connections, agreements, and disagreements across sources","Only identical information repeated in every source","Random, unrelated facts with no connections","Nothing related to the sources’ content"], answer:0},
-     {q:"Which is an example of synthesizing multiple perspectives?", options:["Ignoring every source except one","Copying a single paragraph exactly with no analysis","Reading only the title of one article","Combining ideas from several articles to form a well-rounded argument"], answer:3},
-     {q:"Why is synthesizing considered an advanced reading and writing skill?", options:["It has no connection to critical thinking","It only involves reading a single sentence","It requires understanding, comparing, and combining ideas from multiple sources into a new argument","It requires no understanding of any source"], answer:2}
+     {q:"Synthesizing sources is different from summarizing because synthesis ___.", options:["Combines ideas from multiple sources into new understanding","Only restates one source's ideas exactly","Ignores all sources completely","Never involves reading more than one text"], answer:0},
+     {q:"Summarizing a single text typically involves ___.", options:["Restating its main ideas in shorter form","Combining it with several unrelated sources","Ignoring its main ideas entirely","Creating a brand new argument unrelated to the text"], answer:0},
+     {q:"When synthesizing, a reader should look for ___.", options:["Only identical information repeated in every source","Connections, agreements, and disagreements across sources","Random, unrelated facts with no connections","Nothing related to the sources' content"], answer:1},
+     {q:"Which is an example of synthesizing multiple sources?", options:["Reading only the title of one article","Copying a single paragraph exactly with no analysis","Combining ideas from several articles to form a well-rounded understanding","Ignoring every source except one"], answer:2},
+     {q:"Why is synthesizing considered a more advanced skill than summarizing?", options:["It only involves reading a single sentence","It has no connection to critical thinking","It requires no understanding of any source","It requires comparing and combining ideas from multiple sources into something new"], answer:3}
    ]},
   {subject:"Math", title:"Review: Algebra, Exponents, Probability, and Geometry", summary:"Ontario Grade 7 Number and Geometry strands review: this lesson revisits systems of linear relations, exponent laws, expected value, angle relationships in polygons, and equations with variables on both sides.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
