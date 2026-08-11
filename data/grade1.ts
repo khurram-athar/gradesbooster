@@ -2462,6 +2462,8 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Language Review: Blends, Vowel Teams, and Sentences", summary:"Students review recent Language skills: beginning and ending blends, vowel teams, plural nouns, alphabetical order, comparing adjectives, following instructions, and capital letters.",
    resourceLabel:"YouTube: Language Review: Blends, Vowel Teams, and Sentences", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Blends%2C%20Vowel%20Teams%2C%20and%20Sentences%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=6n656GWy6ew",
+   videoUrls:[{label:"Consonant Blends", url:"https://www.youtube.com/watch?v=6n656GWy6ew"},{label:"Vowel Teams", url:"https://www.youtube.com/watch?v=4FGIaXHVKFk"},{label:"Sentences", url:"https://www.youtube.com/watch?v=DuubQG3gFb8"}],
    quiz:[
      {q:"Which word begins with the blend br?", options:["Dog","Brush","Run","Cat"], answer:1},
      {q:"Which word ends with the blend st?", options:["Dog","Sun","Nest","Cat"], answer:2},

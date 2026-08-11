@@ -2032,6 +2032,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Logarithms, Vectors, and Probability", summary:"Grade 10 Functions, Geometry, and Data Management strands review: this lesson revisits logarithms, logarithmic functions, vectors, combining functions, and conditional probability covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Z5myJ8dg_rM",
+   videoUrls:[{label:"Logarithms", url:"https://www.youtube.com/watch?v=Z5myJ8dg_rM"},{label:"Vectors", url:"https://www.youtube.com/watch?v=iXdMpXMuEGI"},{label:"Probability", url:"https://www.youtube.com/watch?v=sqDVrXq_eh0"}],
    quiz:[
      {q:"A logarithm answers the question of ___.", options:["What exponent a base must be raised to in order to produce a given number","What number multiplied by itself equals zero","What the sum of two numbers equals","A question unrelated to exponents"], answer:0},
      {q:"A vector represents a quantity with ___.", options:["Only direction, with no magnitude","Neither magnitude nor direction","Only magnitude, with no direction","Both magnitude and direction"], answer:3},

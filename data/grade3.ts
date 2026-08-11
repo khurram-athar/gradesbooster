@@ -2040,6 +2040,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Machines Review: Mechanical Advantage", summary:"Ontario Grade 3 Science Structures and Mechanisms strand: mechanical advantage means a simple machine makes a task easier by reducing the force needed or changing the direction of the force applied.",
    resourceLabel:"TVO Learn: Grade 3 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=K5vN8jGTU3o",
+   videoUrls:[{label:"Mechanical Advantage", url:"https://www.youtube.com/watch?v=K5vN8jGTU3o"}],
    quiz:[
      {q:"Mechanical advantage means a simple machine ___.", options:["Makes a task easier by reducing needed force or changing its direction","Always requires electricity","Has no effect on force","Makes a task harder to complete"], answer:0},
      {q:"Which simple machine helps lift heavy objects with less effort by using a sloped surface?", options:["Lever","Pulley","Inclined plane","Screw"], answer:2},

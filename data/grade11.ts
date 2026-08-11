@@ -2032,6 +2032,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Review: Radicals, Statistics, and Vectors", summary:"Grade 11 Functions strand review: this lesson revisits radical functions, Pascal’s Triangle and the Binomial Theorem, normal distribution and z-scores, average versus instantaneous rate of change, and vectors.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=SLV600BpHpE",
+   videoUrls:[{label:"Radicals", url:"https://www.youtube.com/watch?v=SLV600BpHpE"},{label:"Statistics", url:"https://www.youtube.com/watch?v=CjF_yQ2N638"},{label:"Vectors", url:"https://www.youtube.com/watch?v=l9ioZA9brtc"}],
    quiz:[
      {q:"A radical function contains a variable inside a ___.", options:["Root, such as a square root","A denominator only, with no connection to roots","An exponent only, with no root involved","A function unrelated to roots"], answer:0},
      {q:"A z-score indicates how many ___ a data value is from the mean.", options:["A measurement unrelated to the mean","Percentiles, with no connection to standard deviation","Standard deviations","Simple units, with no connection to standard deviation"], answer:2},

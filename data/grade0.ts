@@ -2462,6 +2462,8 @@ const curriculum: DayContent[] = [
 {day:50, label:"Day 50 — Fri", subjects:[
   {subject:"Language", title:"Language Review: Nouns, Verbs, and Stories", summary:"Students review recent Language skills: blending sounds, compound words, question words, sequencing words, writing labels, nouns, verbs, predicting, and retelling stories.",
    resourceLabel:"YouTube: Language Review: Nouns, Verbs, and Stories", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Nouns%2C%20Verbs%2C%20and%20Stories%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=n1pQWmMeRqE",
+   videoUrls:[{label:"Nouns", url:"https://www.youtube.com/watch?v=n1pQWmMeRqE"},{label:"Verbs", url:"https://www.youtube.com/watch?v=DzmmSbLwOGo"},{label:"Retelling Stories", url:"https://www.youtube.com/watch?v=bS4bQ0gG8Oo"}],
    quiz:[
      {q:"Sun and flower blend to make which compound word?", options:["Sundial","Sunflower","Sunshine","Sunset"], answer:1},
      {q:"Which question word asks about a person?", options:["Who","What","Where","When"], answer:0},
@@ -2476,6 +2478,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Math Review: Addition, Money, and Shapes", summary:"Students review recent Math skills: addition and subtraction to 20, skip counting by tens, money, growing patterns, weight, fractions, shapes, and number lines.",
    resourceLabel:"YouTube: Math Review: Addition, Money, and Shapes", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Addition%2C%20Money%2C%20and%20Shapes%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=AaxrqDuw1Xk",
+   videoUrls:[{label:"Addition", url:"https://www.youtube.com/watch?v=AaxrqDuw1Xk"},{label:"Money", url:"https://www.youtube.com/watch?v=fdmtmr8G7A8"},{label:"Shapes", url:"https://www.youtube.com/watch?v=Ux_kLd7qAcY"}],
    quiz:[
      {q:"11 + 4 = ?", options:["13","15","16","14"], answer:1},
      {q:"18 - 5 = ?", options:["13","12","14","11"], answer:0},
@@ -2490,6 +2494,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science Review: Life Cycles, Habitats, and Our Bodies", summary:"Students review recent Science topics: plant life cycles, animal habitats, nocturnal animals, bones and muscles, weather tools, solids and liquids, shadows, camouflage, and taking care of our teeth.",
    resourceLabel:"YouTube: Science Review: Life Cycles, Habitats, and Our Bodies", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Life%20Cycles%2C%20Habitats%2C%20and%20Our%20Bodies%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=tkFPyue5X3Q",
+   videoUrls:[{label:"Life Cycles", url:"https://www.youtube.com/watch?v=tkFPyue5X3Q"},{label:"Habitats", url:"https://www.youtube.com/watch?v=aHek9T1UDD4"},{label:"Our Bodies", url:"https://www.youtube.com/watch?v=hltRM9xmXD4"}],
    quiz:[
      {q:"What is the first stage of a plant life cycle?", options:["Sprout","Flower","Root","Seed"], answer:3},
      {q:"What does nocturnal mean?", options:["Always asleep","Living only in water","Awake during the day","Awake at night and asleep during the day"], answer:3},
@@ -2504,6 +2510,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies Review: Jobs, Community, and Our Earth", summary:"Students review recent Social Studies topics: jobs people do, Indigenous Peoples, landmarks, money, sharing, solving problems, safety helpers, land and water, and classroom jobs.",
    resourceLabel:"YouTube: Social Studies Review: Jobs, Community, and Our Earth", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Jobs%2C%20Community%2C%20and%20Our%20Earth%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=jt2q1cHsH6E",
+   videoUrls:[{label:"Jobs People Do", url:"https://www.youtube.com/watch?v=jt2q1cHsH6E"},{label:"Canadian Landmarks", url:"https://www.youtube.com/watch?v=FR_wWCOO_mM"},{label:"Land and Water", url:"https://www.youtube.com/watch?v=piTJcdMdO3g"}],
    quiz:[
      {q:"Who flies an airplane?", options:["Farmer","Teacher","Chef","Pilot"], answer:3},
      {q:"Who were the first people to live in what is now Canada?", options:["European settlers","Pilots","Indigenous Peoples","Astronauts"], answer:2},

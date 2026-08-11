@@ -11937,6 +11937,13 @@
         "summary": "Ontario Grade 3 Science Structures and Mechanisms strand: mechanical advantage means a simple machine makes a task easier by reducing the force needed or changing the direction of the force applied.",
         "resourceLabel": "TVO Learn: Grade 3 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=K5vN8jGTU3o",
+        "videoUrls": [
+          {
+            "label": "Mechanical Advantage",
+            "url": "https://www.youtube.com/watch?v=K5vN8jGTU3o"
+          }
+        ],
         "quiz": [
           {
             "q": "Mechanical advantage means a simple machine ___.",

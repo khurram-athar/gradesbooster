@@ -11901,6 +11901,21 @@
         "summary": "Grade 10 Functions, Geometry, and Data Management strands review: this lesson revisits logarithms, logarithmic functions, vectors, combining functions, and conditional probability covered across recent lessons.",
         "resourceLabel": "TVO Learn: Grade 10 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Z5myJ8dg_rM",
+        "videoUrls": [
+          {
+            "label": "Logarithms",
+            "url": "https://www.youtube.com/watch?v=Z5myJ8dg_rM"
+          },
+          {
+            "label": "Vectors",
+            "url": "https://www.youtube.com/watch?v=iXdMpXMuEGI"
+          },
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=sqDVrXq_eh0"
+          }
+        ],
         "quiz": [
           {
             "q": "A logarithm answers the question of ___.",

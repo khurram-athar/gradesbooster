@@ -2034,6 +2034,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Review: Sequences, Symmetry, and Recursive Applications", summary:"Grade 12 Advanced Functions strand review: this lesson revisits sequence limits and convergence, function symmetry, and advanced recursive sequence applications from Days 41-47.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=zg9N2gAf6a4",
+   videoUrls:[{label:"Sequences", url:"https://www.youtube.com/watch?v=zg9N2gAf6a4"},{label:"Symmetry", url:"https://www.youtube.com/watch?v=FMSsfu8ecjA"},{label:"Recursive Applications", url:"https://www.youtube.com/watch?v=IFHZQ6MaG6w"}],
    quiz:[
      {q:"The limit of a sequence describes the value its terms approach as the sequence ___.", options:["A concept unrelated to how a sequence behaves","Remains completely undefined at every term","Stops after exactly two terms","Continues indefinitely"], answer:3},
      {q:"A function can be classified as even, odd, or ___.", options:["A category unrelated to function symmetry","Only negative, with no other classification possible","Neither","Only positive, with no other classification possible"], answer:2},
@@ -2043,6 +2045,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Review: Curvature, Power Series, and Growth Models", summary:"Grade 12 Calculus strand review: this lesson revisits curvature, power series and radius of convergence, slope fields, logistic growth models, and convergence tests from Days 41-47.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=ugtUGhBSeE0",
+   videoUrls:[{label:"Curvature", url:"https://www.youtube.com/watch?v=ugtUGhBSeE0"},{label:"Power Series", url:"https://www.youtube.com/watch?v=EGni2-m5yxM"},{label:"Growth Models", url:"https://www.youtube.com/watch?v=kDZlMFkKhWA"}],
    quiz:[
      {q:"Curvature measures how sharply a curve ___ at a given point.", options:["Bends","Remains perfectly straight","A concept unrelated to a curve’s shape","Changes colour"], answer:0},
      {q:"The radius of convergence describes the range of values for which a power series ___.", options:["Has no mathematical meaning whatsoever","Always produces an infinite, undefined result","A concept unrelated to convergence","Produces a finite, well-defined sum"], answer:3},

@@ -11921,6 +11921,21 @@
         "summary": "Grade 12 Advanced Functions strand review: this lesson revisits sequence limits and convergence, function symmetry, and advanced recursive sequence applications from Days 41-47.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=zg9N2gAf6a4",
+        "videoUrls": [
+          {
+            "label": "Sequences",
+            "url": "https://www.youtube.com/watch?v=zg9N2gAf6a4"
+          },
+          {
+            "label": "Symmetry",
+            "url": "https://www.youtube.com/watch?v=FMSsfu8ecjA"
+          },
+          {
+            "label": "Recursive Applications",
+            "url": "https://www.youtube.com/watch?v=IFHZQ6MaG6w"
+          }
+        ],
         "quiz": [
           {
             "q": "The limit of a sequence describes the value its terms approach as the sequence ___.",
@@ -11980,6 +11995,21 @@
         "summary": "Grade 12 Calculus strand review: this lesson revisits curvature, power series and radius of convergence, slope fields, logistic growth models, and convergence tests from Days 41-47.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=ugtUGhBSeE0",
+        "videoUrls": [
+          {
+            "label": "Curvature",
+            "url": "https://www.youtube.com/watch?v=ugtUGhBSeE0"
+          },
+          {
+            "label": "Power Series",
+            "url": "https://www.youtube.com/watch?v=EGni2-m5yxM"
+          },
+          {
+            "label": "Growth Models",
+            "url": "https://www.youtube.com/watch?v=kDZlMFkKhWA"
+          }
+        ],
         "quiz": [
           {
             "q": "Curvature measures how sharply a curve ___ at a given point.",
