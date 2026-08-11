@@ -2524,6 +2524,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Regular Past Tense Verbs: Adding -ed", summary:"Students learn that many verbs show something already happened by adding the ending -ed, such as jump becoming jumped, walk becoming walked, and play becoming played.",
    resourceLabel:"YouTube: Regular Past Tense Verbs: Adding -ed", resourceUrl:"https://www.youtube.com/results?search_query=Regular%20Past%20Tense%20Verbs%3A%20Adding%20-ed%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=39mPS4fnJn0",
    quiz:[
      {q:"What ending do we usually add to a verb to show something already happened?", options:["-est","-er","-ed","-ing"], answer:2},
      {q:"What is the past tense of the verb jump?", options:["Jumps","Jumpy","Jumping","Jumped"], answer:3},
@@ -2538,6 +2539,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 3s and 4s", summary:"Students practice skip counting by 3s and by 4s, extending patterns such as 3, 6, 9, 12 and 4, 8, 12, 16 to build number sense.",
    resourceLabel:"YouTube: Skip Counting by 3s and 4s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%203s%20and%204s%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=_D6IPnvX0dY",
    quiz:[
      {q:"Skip count by 3s: 3, 6, 9, ___", options:["15","10","11","12"], answer:3},
      {q:"Skip count by 4s: 4, 8, 12, ___", options:["14","15","16","20"], answer:2},

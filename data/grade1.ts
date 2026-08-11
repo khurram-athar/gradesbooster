@@ -2522,6 +2522,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Consonant Digraphs: ph and ck", summary:"Students learn that two letters can join to make one new sound called a digraph, such as ph making the f sound in phone, and ck making the k sound in duck.",
    resourceLabel:"YouTube: Consonant Digraphs: ph and ck", resourceUrl:"https://www.youtube.com/results?search_query=Consonant%20Digraphs%3A%20ph%20and%20ck%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=d4PKjUFyyoM",
    quiz:[
      {q:"Which word has the ph digraph making the f sound?", options:["Sun","Phone","Dog","Cat"], answer:1},
      {q:"Which word ends with the ck digraph?", options:["Duck","Sun","Bed","Cat"], answer:0},
@@ -2536,6 +2537,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Numbers to 120", summary:"Students extend counting and number recognition beyond 100, learning to count, read, and write numbers up to 120.",
    resourceLabel:"YouTube: Numbers to 120", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20120%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hbfYqz3huyU",
    quiz:[
      {q:"What number comes right after 100?", options:["110","200","99","101"], answer:3},
      {q:"Which number is between 105 and 107?", options:["104","106","110","108"], answer:1},
@@ -2550,6 +2552,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Reptiles and Their Body Parts", summary:"Students learn about the body parts of reptiles, such as dry scaly skin and four legs on many reptiles, and how these parts help reptiles such as turtles and lizards survive.",
    resourceLabel:"YouTube: Reptiles and Their Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Reptiles%20and%20Their%20Body%20Parts%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=l9CsBSPR14c",
    quiz:[
      {q:"What covers the skin of most reptiles?", options:["Fur","Fins","Feathers","Scales"], answer:3},
      {q:"Which of these animals is a reptile?", options:["A robin","A turtle","A fish","A frog"], answer:1},
@@ -2564,6 +2567,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Rural and Urban Communities: City and Country Life", summary:"Students compare rural communities, quiet areas with farms and open land, to urban communities, busy cities with many buildings and people, and learn that Canada has both types.",
    resourceLabel:"YouTube: Rural and Urban Communities: City and Country Life", resourceUrl:"https://www.youtube.com/results?search_query=Rural%20and%20Urban%20Communities%3A%20City%20and%20Country%20Life%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=JAlPmtJm6eA",
    quiz:[
      {q:"What do we call a busy community with many tall buildings and people?", options:["An ocean","An urban community","A rural community","A desert"], answer:1},
      {q:"What do we call a quiet community with farms and open fields?", options:["A rural community","A mountain","A city","An urban community"], answer:0},

@@ -2528,6 +2528,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Adjectives: Describing Words", summary:"Students learn that an adjective is a word that describes a noun, such as big, small, soft, or shiny, and practise picking adjectives to describe objects.",
    resourceLabel:"YouTube: Adjectives: Describing Words", resourceUrl:"https://www.youtube.com/results?search_query=Adjectives%3A%20Describing%20Words%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=-NqnQJjDmB0",
    quiz:[
      {q:"What is an adjective?", options:["A word that describes a noun","A word that names a place","A word that shows action","A number word"], answer:0},
      {q:"Which word is an adjective in the phrase a big red apple?", options:["Big","The","A","Apple"], answer:0},
@@ -2542,6 +2543,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Groups: Which Has More", summary:"Students compare two small groups of objects by counting each group and deciding which group has more, fewer, or the same amount.",
    resourceLabel:"YouTube: Comparing Groups: Which Has More", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Groups%3A%20Which%20Has%20More%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=yDlHjcAb1o0",
    quiz:[
      {q:"A group has 6 balls and another has 3 balls. Which group has more?", options:["Cannot tell","They are equal","The group with 3","The group with 6"], answer:3},
      {q:"A group has 2 fish and another has 8 fish. Which group has fewer?", options:["The group with 8","They are equal","Cannot tell","The group with 2"], answer:3},
@@ -2556,6 +2558,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Our Five Fingers and Toes: Counting Body Parts", summary:"Students count and name parts of their body, such as fingers, toes, ears, and eyes, and learn that most people have matching pairs of many body parts.",
    resourceLabel:"YouTube: Our Five Fingers and Toes: Counting Body Parts", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Five%20Fingers%20and%20Toes%3A%20Counting%20Body%20Parts%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lf_2PetBDjY",
    quiz:[
      {q:"How many fingers are on one hand?", options:["3","4","5","6"], answer:2},
      {q:"How many ears does a person usually have?", options:["4","3","1","2"], answer:3},
@@ -2570,6 +2573,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Body Belongs to Me: Personal Safety", summary:"Students learn that their body belongs to them, that they can say no to touches that feel wrong, and that they should tell a trusted adult if something feels unsafe.",
    resourceLabel:"YouTube: My Body Belongs to Me: Personal Safety", resourceUrl:"https://www.youtube.com/results?search_query=My%20Body%20Belongs%20to%20Me%3A%20Personal%20Safety%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=PJKoGkmtNyI",
    quiz:[
      {q:"Whose body belongs to you?", options:["A stranger","Your own","Your friend","No one"], answer:1},
      {q:"If a touch feels wrong, what can you say?", options:["Maybe","No","Yes","Nothing"], answer:1},
