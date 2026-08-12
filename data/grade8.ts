@@ -2090,6 +2090,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Review: Rights, Reconciliation, and Modern Canadian History", summary:"Grade 8 History review: this lesson revisits the Persons Case, the White Paper of 1969, the Meech Lake and Charlottetown Accords, the Employment Equity Act, and same-sex marriage legalization covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=hQW9os7cY_k",
+   videoUrls:[{label:"White Paper of 1969", url:"https://www.youtube.com/watch?v=hQW9os7cY_k"}],
    quiz:[
      {q:"The Persons Case established that women in Canada were legally considered ___.", options:["Persons eligible to be appointed to the Senate","Excluded from all legal recognition","A group with no connection to Canadian law","Ineligible for any legal rights"], answer:0},
      {q:"The White Paper of 1969 proposed to ___.", options:["Have no effect on existing policy","Expand Indigenous self-government immediately","Eliminate the Indian Act and Indigenous legal status","Strengthen Indigenous rights significantly"], answer:2},

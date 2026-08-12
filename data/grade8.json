@@ -12241,6 +12241,13 @@
         "summary": "Grade 8 History review: this lesson revisits the Persons Case, the White Paper of 1969, the Meech Lake and Charlottetown Accords, the Employment Equity Act, and same-sex marriage legalization covered across recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=hQW9os7cY_k",
+        "videoUrls": [
+          {
+            "label": "White Paper of 1969",
+            "url": "https://www.youtube.com/watch?v=hQW9os7cY_k"
+          }
+        ],
         "quiz": [
           {
             "q": "The Persons Case established that women in Canada were legally considered ___.",
