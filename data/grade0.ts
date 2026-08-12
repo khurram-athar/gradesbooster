@@ -2590,6 +2590,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Alphabetical Order: A Comes Before B", summary:"Students practise putting a small group of letters in alphabetical order, learning that the alphabet always follows the same fixed sequence from A to Z.",
    resourceLabel:"YouTube: Alphabetical Order: A Comes Before B", resourceUrl:"https://www.youtube.com/results?search_query=Alphabetical%20Order%3A%20A%20Comes%20Before%20B%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=z9tqxFdmx5k",
    quiz:[
      {q:"Which letter comes first in the alphabet?", options:["B","A","D","C"], answer:1},
      {q:"Which letter comes right after D in the alphabet?", options:["E","F","C","B"], answer:0},
