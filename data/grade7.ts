@@ -2072,6 +2072,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Algebra, Exponents, Probability, and Geometry", summary:"Ontario Grade 7 Number and Geometry strands review: this lesson revisits systems of linear relations, exponent laws, expected value, angle relationships in polygons, and equations with variables on both sides.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=LkhPRz7Hocg",
+   videoUrls:[{label:"Exponent Laws", url:"https://www.youtube.com/watch?v=LkhPRz7Hocg"},{label:"Probability and Expected Value", url:"https://www.youtube.com/watch?v=KzfWUEJjG18"},{label:"Angle Relationships in Polygons", url:"https://www.youtube.com/watch?v=OEzEo4XqzJQ"}],
    quiz:[
      {q:"Simplify: x squared times x to the fourth power.", options:["x to the eighth power","x to the sixth power","x squared","x to the second power"], answer:1},
      {q:"Solve for x: 2x + 5 = x + 12.", options:["x = 2","x = 17","x = 5","x = 7"], answer:3},
@@ -2081,6 +2083,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Body Systems, Technology, and Earth Processes", summary:"Ontario Grade 7 Science review: this lesson revisits the endocrine, respiratory, circulatory, and immune systems, robotics, WHMIS symbols, space exploration, and erosion and deposition covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=emvHaBiRY8Q",
+   videoUrls:[{label:"Endocrine System", url:"https://www.youtube.com/watch?v=emvHaBiRY8Q"},{label:"WHMIS Symbols", url:"https://www.youtube.com/watch?v=-W8BByS6gLs"},{label:"Erosion and Deposition", url:"https://www.youtube.com/watch?v=uQBRKLSlp08"}],
    quiz:[
      {q:"Which body system regulates the body using hormones released into the bloodstream?", options:["The endocrine system","The respiratory system","The circulatory system","The excretory system"], answer:0},
      {q:"Which body system defends the body against harmful pathogens?", options:["The digestive system","The immune system","The muscular system","The skeletal system"], answer:1},
@@ -2090,6 +2094,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: 20th-Century History and Global Citizenship", summary:"Ontario Grade 7 Social Studies review: this lesson revisits the Vietnam War, the fall of the Berlin Wall, apartheid, peacekeeping, multiculturalism, trade agreements, refugee crises, technology and government, and climate policy.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=IXzODWlTWgk",
+   videoUrls:[{label:"Fall of the Berlin Wall", url:"https://www.youtube.com/watch?v=IXzODWlTWgk"},{label:"Apartheid", url:"https://www.youtube.com/watch?v=ke4kVFycpYY"},{label:"Vietnam War", url:"https://www.youtube.com/watch?v=LwQRfckSANI"}],
    quiz:[
      {q:"The fall of the Berlin Wall in 1989 symbolized the end of ___.", options:["World War I","The Cold War era","Confederation","The founding of the United Nations"], answer:1},
      {q:"Apartheid was a system of racial segregation practiced in ___.", options:["Canada","South Africa","France","Japan"], answer:1},
