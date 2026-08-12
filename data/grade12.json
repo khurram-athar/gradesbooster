@@ -12378,6 +12378,7 @@
         "summary": "Grade 12 English strand: existentialist literature explores themes of individual freedom, absurdity, and the necessity of creating meaning in a universe without inherent purpose, often through protagonists confronting difficult choices.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=MZ_6u7JbvU0",
         "quiz": [
           {
             "q": "Existentialist literature explores themes of individual freedom and the necessity of creating ___ in a universe without inherent purpose.",
@@ -12437,6 +12438,7 @@
         "summary": "Grade 12 Advanced Functions strand: an eigenvector of a matrix is a nonzero vector whose direction remains unchanged when the matrix is applied to it, and the eigenvalue is the scalar factor by which it is stretched or shrunk.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=h1RQw7yaoGM",
         "quiz": [
           {
             "q": "An eigenvector of a matrix is a nonzero vector whose ___ remains unchanged when the matrix is applied to it.",
@@ -12496,6 +12498,7 @@
         "summary": "Grade 12 Calculus strand: elasticity of demand measures how sensitive the quantity demanded of a good is to a change in its price, and calculus can express this sensitivity as a derivative-based ratio.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=ZNsRhKo9BVI",
         "quiz": [
           {
             "q": "Elasticity of demand measures how sensitive the quantity demanded of a good is to a change in its ___.",
@@ -12555,6 +12558,7 @@
         "summary": "Grade 12 Physics strand: the Bohr model describes electrons orbiting the nucleus in fixed energy levels, and atomic emission spectra result from electrons releasing specific amounts of energy as light when they drop to a lower energy level.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=mXxsT1ut35Q",
         "quiz": [
           {
             "q": "The Bohr model describes electrons orbiting the nucleus in ___.",

@@ -2107,6 +2107,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"English", title:"Literature: Existentialist Philosophy in the Modern Novel", summary:"Grade 12 English strand: existentialist literature explores themes of individual freedom, absurdity, and the necessity of creating meaning in a universe without inherent purpose, often through protagonists confronting difficult choices.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=MZ_6u7JbvU0",
    quiz:[
      {q:"Existentialist literature explores themes of individual freedom and the necessity of creating ___ in a universe without inherent purpose.", options:["Meaning","Wealth and material success exclusively","A concept unrelated to existentialist philosophy","A fixed, predetermined destiny with no room for individual choice"], answer:0},
      {q:"A central existentialist concern is that human beings must define themselves through ___.", options:["A destiny fully determined by fate or divine will","Rules imposed entirely by external authorities, with no personal input","A concept unrelated to existentialist thought","Their own choices and actions"], answer:3},
@@ -2116,6 +2117,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Eigenvalues and Eigenvectors: An Introduction", summary:"Grade 12 Advanced Functions strand: an eigenvector of a matrix is a nonzero vector whose direction remains unchanged when the matrix is applied to it, and the eigenvalue is the scalar factor by which it is stretched or shrunk.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=h1RQw7yaoGM",
    quiz:[
      {q:"An eigenvector of a matrix is a nonzero vector whose ___ remains unchanged when the matrix is applied to it.", options:["Direction","A concept unrelated to matrices","Exact numerical length, in every single case","Colour, with no connection to matrix operations"], answer:0},
      {q:"The eigenvalue associated with an eigenvector is the scalar factor by which the vector is ___.", options:["Rotated by exactly ninety degrees in every case","A concept unrelated to how a matrix transforms a vector","Stretched or shrunk","Converted into a completely different, unrelated vector"], answer:2},
@@ -2125,6 +2127,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Optimization in Economics -- Elasticity of Demand", summary:"Grade 12 Calculus strand: elasticity of demand measures how sensitive the quantity demanded of a good is to a change in its price, and calculus can express this sensitivity as a derivative-based ratio.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=ZNsRhKo9BVI",
    quiz:[
      {q:"Elasticity of demand measures how sensitive the quantity demanded of a good is to a change in its ___.", options:["A concept unrelated to consumer demand","Colour or packaging design, with no connection to price","The manufacturer’s total production costs exclusively","Price"], answer:3},
      {q:"Elasticity of demand can be expressed using calculus as a ratio involving the ___ of the demand function.", options:["Constant term only, with no derivative involved","Second antiderivative exclusively, with no first derivative involved","Derivative","A concept unrelated to calculus"], answer:2},
@@ -2134,6 +2137,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: The Bohr Model and Atomic Emission Spectra", summary:"Grade 12 Physics strand: the Bohr model describes electrons orbiting the nucleus in fixed energy levels, and atomic emission spectra result from electrons releasing specific amounts of energy as light when they drop to a lower energy level.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=mXxsT1ut35Q",
    quiz:[
      {q:"The Bohr model describes electrons orbiting the nucleus in ___.", options:["Fixed energy levels","A concept unrelated to atomic structure","Random, unpredictable positions with no defined structure at all","A single continuous, unrestricted path with no defined levels"], answer:0},
      {q:"An atomic emission spectrum results from electrons releasing specific amounts of energy as light when they ___.", options:["Merge directly with the nucleus of the atom","Drop to a lower energy level","Remain permanently fixed at the same energy level with no movement","A concept unrelated to atomic structure"], answer:1},
