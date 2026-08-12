@@ -12353,60 +12353,61 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Reading: Close Reading Strategies for Complex Texts",
-        "summary": "Grade 7 Language strand: close reading involves carefully rereading a text, annotating key details, and analyzing specific word choices to build a deeper understanding of challenging material.",
+        "title": "Reading: Using Context Clues to Understand Difficult Words",
+        "summary": "Grade 7 Language strand: strong readers use context clues -- the surrounding words and sentences -- to figure out the meaning of an unfamiliar or difficult word without stopping to look it up.",
         "resourceLabel": "TVO Learn: Grade 7 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "videoUrl": "https://www.youtube.com/watch?v=CyK01USxdg0",
         "quiz": [
           {
-            "q": "Close reading involves ___.",
+            "q": "Context clues are ___.",
             "options": [
               "A concept unrelated to reading",
-              "Carefully rereading a text and analyzing specific details",
-              "Reading a text only once, as quickly as possible",
-              "Skipping difficult sections of a text entirely"
+              "The surrounding words and sentences that help explain a word's meaning",
+              "Only found in dictionaries",
+              "A type of punctuation mark"
             ],
             "answer": 1
           },
           {
-            "q": "Why might a reader annotate a text while close reading?",
+            "q": "Why might a reader use context clues instead of a dictionary?",
             "options": [
-              "A reason unrelated to close reading",
-              "Annotating never helps a reader understand a text",
-              "To track important details, questions, and reactions as they read",
-              "Annotations always distract from understanding a text"
+              "Dictionaries are always faster to use while reading",
+              "A reason unrelated to reading strategies",
+              "To keep reading smoothly without constantly stopping",
+              "Context clues are never useful for understanding words"
             ],
             "answer": 2
           },
           {
-            "q": "Why is close reading especially useful for complex or challenging texts?",
+            "q": "Which is an example of using a context clue?",
             "options": [
-              "Close reading only works for simple, easy texts",
-              "Complex texts never benefit from careful, repeated reading",
-              "A reason unrelated to close reading",
-              "It helps break down difficult ideas into smaller, more manageable parts"
+              "Skipping the sentence entirely",
+              "Guessing a word's meaning from an example given right after it",
+              "A concept unrelated to context clues",
+              "Ignoring unfamiliar words completely"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Which is an example of a close reading strategy?",
+            "q": "A definition context clue works by ___.",
             "options": [
-              "Rereading a confusing paragraph and noting unfamiliar vocabulary",
-              "Reading only the title of a text and nothing else",
-              "A concept unrelated to close reading",
-              "Ignoring any words that are difficult to understand"
+              "Directly explaining the word's meaning nearby in the text",
+              "A method unrelated to context clues",
+              "Never appearing near the unfamiliar word",
+              "Repeating the exact same word twice"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a reader reread a text multiple times during close reading?",
+            "q": "Why is using context clues considered a valuable reading skill?",
             "options": [
-              "Each rereading can reveal new details or deepen understanding",
-              "A single reading always reveals everything about a text",
-              "Rereading a text is never useful for understanding it",
-              "A reason unrelated to close reading"
+              "It never actually helps readers understand new vocabulary",
+              "It helps readers build vocabulary and keep understanding a text independently",
+              "A reason unrelated to reading comprehension",
+              "It replaces the need to understand a text at all"
             ],
-            "answer": 0
+            "answer": 1
           }
         ]
       },
@@ -12416,6 +12417,7 @@
         "summary": "Grade 7 Math strand: solving an inequality finds the range of values that make it true, and graphing it on a number line uses an open or closed circle and an arrow to show that range.",
         "resourceLabel": "TVO Learn: Grade 7 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=n02r9ZKAi0I",
         "quiz": [
           {
             "q": "Solving an inequality finds ___.",
@@ -12475,6 +12477,7 @@
         "summary": "Grade 7 Science strand: Newton’s three laws of motion describe how objects behave when forces act on them, including inertia, the relationship between force and acceleration, and action-reaction pairs.",
         "resourceLabel": "TVO Learn: Grade 7 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=xMmFTA9AThw",
         "quiz": [
           {
             "q": "Newton’s first law of motion describes ___.",
@@ -12534,6 +12537,7 @@
         "summary": "Grade 7 Social Studies strand: the League of Nations was an international organization formed after World War I to promote peace and cooperation between countries, though it ultimately struggled to prevent future conflict.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=KEzjieGNV0I",
         "quiz": [
           {
             "q": "The League of Nations was formed after ___.",

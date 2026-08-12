@@ -2107,6 +2107,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Reading: Comparing Perspectives Across Genres", summary:"Grade 6 Language strand: comparing perspectives across genres means examining how the same topic or event is presented differently in a news article, a poem, a memoir, or a piece of fiction.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=lwpVGotlvL4",
    quiz:[
      {q:"Comparing perspectives across genres means examining how a topic is presented ___.", options:["Only in fictional stories, never in nonfiction","A concept unrelated to reading","Identically in every genre, with no variation at all","Differently depending on the genre used to present it"], answer:3},
      {q:"How might a news article about a storm differ from a poem about the same storm?", options:["They would always be written in exactly the same style","A poem can never be written about a real event","A concept unrelated to genre comparison","The article focuses on facts, while the poem may focus on emotion and imagery"], answer:3},
@@ -2116,6 +2117,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exponents and Powers", summary:"Grade 6 Math strand: an exponent shows how many times a base number is multiplied by itself, such as 2³ meaning 2 × 2 × 2.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=QMWifyZa4SY",
    quiz:[
      {q:"An exponent shows ___.", options:["How many times a base number is multiplied by itself","The number of digits in a value","How many times a number is added to itself","A concept unrelated to exponents"], answer:0},
      {q:"What is 2³?", options:["9","A value unrelated to the calculation","6","8"], answer:3},
@@ -2125,6 +2127,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Density and Buoyancy", summary:"Grade 6 Science strand: density describes how much mass is packed into a given volume, and buoyancy explains why some objects float while others sink in a fluid.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=M5gWHCE_4x8",
    quiz:[
      {q:"Density describes ___.", options:["A concept unrelated to density","The colour of an object","How much mass is packed into a given volume","How heavy an object feels when held"], answer:2},
      {q:"An object will float in water if its density is ___ the density of water.", options:["Less than","A comparison unrelated to density","Exactly double","Greater than"], answer:0},
@@ -2134,6 +2137,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Industrial Revolution: Causes and Effects", summary:"Grade 6 Social Studies strand: the Industrial Revolution was a period of rapid technological and economic change, beginning in the late 1700s, that transformed how goods were produced and how people lived and worked.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=zjK7PWmRRyg",
    quiz:[
      {q:"The Industrial Revolution brought major changes to how ___.", options:["Ancient civilizations first began, thousands of years earlier","Countries interacted before any trade existed","Goods were produced and how people lived and worked","A concept unrelated to this historical period"], answer:2},
      {q:"Which of these was a major effect of the Industrial Revolution?", options:["The complete disappearance of all cities","A return to purely agricultural societies with no factories","A concept unrelated to the Industrial Revolution","The growth of factories and cities"], answer:3},

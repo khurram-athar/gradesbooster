@@ -2105,17 +2105,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:51, label:"Day 51 — Mon", subjects:[
-  {subject:"Language", title:"Reading: Close Reading Strategies for Complex Texts", summary:"Grade 7 Language strand: close reading involves carefully rereading a text, annotating key details, and analyzing specific word choices to build a deeper understanding of challenging material.",
+  {subject:"Language", title:"Reading: Using Context Clues to Understand Difficult Words", summary:"Grade 7 Language strand: strong readers use context clues -- the surrounding words and sentences -- to figure out the meaning of an unfamiliar or difficult word without stopping to look it up.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=CyK01USxdg0",
    quiz:[
-     {q:"Close reading involves ___.", options:["A concept unrelated to reading","Carefully rereading a text and analyzing specific details","Reading a text only once, as quickly as possible","Skipping difficult sections of a text entirely"], answer:1},
-     {q:"Why might a reader annotate a text while close reading?", options:["A reason unrelated to close reading","Annotating never helps a reader understand a text","To track important details, questions, and reactions as they read","Annotations always distract from understanding a text"], answer:2},
-     {q:"Why is close reading especially useful for complex or challenging texts?", options:["Close reading only works for simple, easy texts","Complex texts never benefit from careful, repeated reading","A reason unrelated to close reading","It helps break down difficult ideas into smaller, more manageable parts"], answer:3},
-     {q:"Which is an example of a close reading strategy?", options:["Rereading a confusing paragraph and noting unfamiliar vocabulary","Reading only the title of a text and nothing else","A concept unrelated to close reading","Ignoring any words that are difficult to understand"], answer:0},
-     {q:"Why might a reader reread a text multiple times during close reading?", options:["Each rereading can reveal new details or deepen understanding","A single reading always reveals everything about a text","Rereading a text is never useful for understanding it","A reason unrelated to close reading"], answer:0}
+     {q:"Context clues are ___.", options:["A concept unrelated to reading","The surrounding words and sentences that help explain a word's meaning","Only found in dictionaries","A type of punctuation mark"], answer:1},
+     {q:"Why might a reader use context clues instead of a dictionary?", options:["Dictionaries are always faster to use while reading","A reason unrelated to reading strategies","To keep reading smoothly without constantly stopping","Context clues are never useful for understanding words"], answer:2},
+     {q:"Which is an example of using a context clue?", options:["Skipping the sentence entirely","Guessing a word's meaning from an example given right after it","A concept unrelated to context clues","Ignoring unfamiliar words completely"], answer:1},
+     {q:"A definition context clue works by ___.", options:["Directly explaining the word's meaning nearby in the text","A method unrelated to context clues","Never appearing near the unfamiliar word","Repeating the exact same word twice"], answer:0},
+     {q:"Why is using context clues considered a valuable reading skill?", options:["It never actually helps readers understand new vocabulary","It helps readers build vocabulary and keep understanding a text independently","A reason unrelated to reading comprehension","It replaces the need to understand a text at all"], answer:1}
    ]},
   {subject:"Math", title:"Solving and Graphing Inequalities on a Number Line", summary:"Grade 7 Math strand: solving an inequality finds the range of values that make it true, and graphing it on a number line uses an open or closed circle and an arrow to show that range.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=n02r9ZKAi0I",
    quiz:[
      {q:"Solving an inequality finds ___.", options:["A concept unrelated to inequalities","No values at all that satisfy the statement","A single exact value that makes the statement true","A range of values that make the statement true"], answer:3},
      {q:"On a number line, an open circle at a point means ___.", options:["A concept unrelated to graphing inequalities","The graph has no solution at all","That value is included in the solution","That value is not included in the solution"], answer:3},
@@ -2125,6 +2127,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Newton’s Laws of Motion (Intro)", summary:"Grade 7 Science strand: Newton’s three laws of motion describe how objects behave when forces act on them, including inertia, the relationship between force and acceleration, and action-reaction pairs.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=xMmFTA9AThw",
    quiz:[
      {q:"Newton’s first law of motion describes ___.", options:["The speed of light in a vacuum","The relationship between force and colour","Inertia -- an object’s tendency to resist changes in motion","A concept unrelated to Newton’s laws"], answer:2},
      {q:"Newton’s second law of motion relates ___.", options:["Only the temperature of an object","A concept unrelated to Newton’s laws","The volume and density of an object","Force, mass, and acceleration"], answer:3},
@@ -2134,6 +2137,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The League of Nations and Its Legacy", summary:"Grade 7 Social Studies strand: the League of Nations was an international organization formed after World War I to promote peace and cooperation between countries, though it ultimately struggled to prevent future conflict.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=KEzjieGNV0I",
    quiz:[
      {q:"The League of Nations was formed after ___.", options:["The Cold War","World War II","A conflict unrelated to the League of Nations","World War I"], answer:3},
      {q:"The main goal of the League of Nations was to ___.", options:["Promote peace and cooperation between countries","End all international trade","Encourage new wars between member countries","A concept unrelated to the League of Nations"], answer:0},
