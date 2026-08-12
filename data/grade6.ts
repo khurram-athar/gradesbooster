@@ -2072,6 +2072,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Algebra, Proportional Reasoning, and Geometry", summary:"Ontario Grade 6 Number and Geometry strands review: this lesson revisits the distributive property, solving equations with fractions, proportional reasoning, multiplying and dividing integers, and classifying triangles.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=TJ2LngtJgXs",
+   videoUrls:[{label:"Distributive Property", url:"https://www.youtube.com/watch?v=TJ2LngtJgXs"},{label:"Proportional Reasoning", url:"https://www.youtube.com/watch?v=VgCvuLYsus8"},{label:"Classifying Triangles", url:"https://www.youtube.com/watch?v=H62faKsyemc"}],
    quiz:[
      {q:"Using the distributive property, what is 2 times (x + 5)?", options:["x + 10","2x + 7","2x + 10","2x + 5"], answer:2},
      {q:"Solve for x: x/4 = 5.", options:["x = 9","x = 1.25","x = 20","x = 4"], answer:2},
@@ -2081,6 +2083,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Photosynthesis, Body Systems, and Physical Science", summary:"Ontario Grade 6 Science review: this lesson revisits photosynthesis, symbiosis, the immune system, Newton’s laws, the periodic table, sound waves, and human impact on climate covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=CMiPYHNNg28",
+   videoUrls:[{label:"Photosynthesis", url:"https://www.youtube.com/watch?v=CMiPYHNNg28"},{label:"Newton's Laws of Motion", url:"https://www.youtube.com/watch?v=g550H4e5FCY"},{label:"Sound Waves", url:"https://www.youtube.com/watch?v=TgJKf3G6LuE"}],
    quiz:[
      {q:"Photosynthesis allows plants to produce their own ___.", options:["Blood","Fur","Bones","Food"], answer:3},
      {q:"Which body system defends against harmful microorganisms?", options:["The muscular system only","The excretory system only","The immune system","The skeletal system"], answer:2},
@@ -2090,6 +2094,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: World Empires and Global Challenges", summary:"Ontario Grade 6 Social Studies review: this lesson revisits the fall of Rome, the Byzantine Empire, the Mongol Empire, the Aztec and Inca civilizations, colonialism, decolonization, and climate change as a global issue.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=Okph9wt8I0A",
+   videoUrls:[{label:"Byzantine Empire", url:"https://www.youtube.com/watch?v=Okph9wt8I0A"},{label:"Mongol Empire", url:"https://www.youtube.com/watch?v=wUVvTqvjUaM"},{label:"Decolonization", url:"https://www.youtube.com/watch?v=T_sGTspaF4Y"}],
    quiz:[
      {q:"Which empire was centred in Constantinople and continued Roman and Greek traditions?", options:["The Byzantine Empire","The Aztec Empire","The Inca Empire","The Mongol Empire"], answer:0},
      {q:"Which empire, founded by Genghis Khan, became the largest contiguous land empire in history?", options:["The Aztec Empire","The Roman Empire","The Mongol Empire","The Byzantine Empire"], answer:2},
