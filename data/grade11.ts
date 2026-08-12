@@ -2104,6 +2104,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"English", title:"Literature: The Anti-Hero in Contemporary Fiction", summary:"Grade 11 English strand: an anti-hero is a central character who lacks traditional heroic qualities such as courage or moral clarity, yet still commands a reader’s attention and sympathy through complexity and flawed humanity.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=MEjgDeSnBMs",
    quiz:[
      {q:"An anti-hero is best described as a central character who ___.", options:["Lacks traditional heroic qualities but still commands the reader’s attention","Never appears as the protagonist of a story","Always displays flawless moral courage","A concept unrelated to characterization"], answer:0},
      {q:"Why might readers still sympathize with an anti-hero despite their flaws?", options:["A reason unrelated to characterization","Readers only sympathize with characters who are entirely virtuous","Anti-heroes never earn any sympathy from readers","Their complexity and flawed humanity can feel more relatable than an idealized hero"], answer:3},
@@ -2113,6 +2114,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Solving Exponential and Logarithmic Equations Together", summary:"Grade 11 Functions strand: exponential and logarithmic equations can be solved together by using the fact that logarithms and exponents are inverse operations, allowing one form to be rewritten as the other to isolate the variable.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=10I_TVuYLkQ",
    quiz:[
      {q:"Logarithms and exponents are considered ___ operations of one another.", options:["Unrelated","Identical","A relationship unrelated to logarithms","Inverse"], answer:3},
      {q:"To solve an equation like 2 to the power of x equals 8 using logarithms, a useful first step is to ___.", options:["Divide both sides by the base immediately with no other steps","Take the logarithm of both sides of the equation","A step unrelated to solving exponential equations","Add 8 to both sides of the equation"], answer:1},
@@ -2122,6 +2124,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: The Lymphatic System — Fluid Balance and Circulation", summary:"Grade 11 Biology strand: the lymphatic system returns excess interstitial fluid to the bloodstream through a network of vessels and lymph nodes, helping maintain fluid balance throughout the body.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=C_Bii6TfwuY",
    quiz:[
      {q:"The lymphatic system’s primary role in fluid balance is to ___.", options:["Remove all fluid from the body permanently","Return excess interstitial fluid to the bloodstream","A role entirely unrelated to fluid balance","Pump blood directly through the heart"], answer:1},
      {q:"Lymph nodes are best described as structures that ___.", options:["Pump lymph fluid throughout the body","A structure entirely unrelated to the lymphatic system","Produce red blood cells exclusively","Filter lymph fluid as it passes through the lymphatic vessels"], answer:3},
@@ -2131,6 +2134,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Nomenclature of Inorganic Compounds", summary:"Grade 11 Chemistry strand: naming inorganic compounds follows systematic IUPAC rules that differ for ionic compounds, compounds with polyatomic ions, and molecular (covalent) compounds using prefixes.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=ljbtbnAh5cc",
    quiz:[
      {q:"The systematic naming of inorganic compounds follows rules established by ___.", options:["A naming convention unrelated to chemistry","A system with no formal naming rules","Random, informal common names only","IUPAC"], answer:3},
      {q:"In naming a binary molecular (covalent) compound, prefixes such as “di-” and “tri-” indicate ___.", options:["The charge of the compound","The number of atoms of each element present","The state of matter of the compound","A concept unrelated to naming compounds"], answer:1},

@@ -2104,6 +2104,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"English", title:"Reading: Analyzing the Bildungsroman (Coming-of-Age Novel)", summary:"Grade 10 English strand: a bildungsroman is a coming-of-age novel that traces a protagonist’s psychological and moral growth from youth into maturity, often through a formative journey or series of challenges.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=QSeqSSqHdpI",
    quiz:[
      {q:"A bildungsroman is best described as a novel that traces ___.", options:["A protagonist who never changes throughout the story","A single event with no connection to a character’s development","A setting description with no focus on character at all","A protagonist’s psychological and moral growth from youth into maturity"], answer:3},
      {q:"Which is a common feature of a bildungsroman?", options:["A formative journey or series of challenges that shapes the protagonist","A protagonist who begins and ends the story completely unchanged","A plot with no connection to growth or maturity","A structure unrelated to character development"], answer:0},
@@ -2113,6 +2114,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Logarithmic Equations", summary:"Grade 10 Functions strand (extension): solving a logarithmic equation often involves using logarithm properties to combine terms, then rewriting the equation in exponential form to isolate the unknown variable.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=fnhFneOz6n8",
    quiz:[
      {q:"Solving a logarithmic equation often involves rewriting it in ___.", options:["Fraction form with no connection to exponents","A form unrelated to exponents","Exponential form","Linear form only, with no other conversion possible"], answer:2},
      {q:"If log base 2 of x equals 5, what is x?", options:["25","A value unrelated to the equation","32","10"], answer:2},
@@ -2122,6 +2124,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Colligative Properties of Solutions", summary:"Grade 10 Chemistry strand: colligative properties, such as boiling point elevation and freezing point depression, depend on the number of dissolved particles in a solution rather than on the specific identity of the solute.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=c8dDLe37ONg",
    quiz:[
      {q:"Colligative properties depend primarily on ___.", options:["The exact identity of the solute alone, with no connection to particle count","The specific colour of the solute","A factor unrelated to dissolved particles","The number of dissolved particles in a solution"], answer:3},
      {q:"Boiling point elevation refers to ___.", options:["A property that never changes when a solute is added","A decrease in a solution’s boiling point caused by a dissolved solute","An increase in a solution’s boiling point caused by a dissolved solute","A concept unrelated to colligative properties"], answer:2},
@@ -2131,6 +2134,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Halifax Explosion and Its Aftermath", summary:"Grade 10 History strand: the 1917 Halifax Explosion, caused by a collision between two ships in Halifax Harbour, was one of the largest artificial explosions in history prior to nuclear weapons and devastated much of the city.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=FucZpJGZe6A",
    quiz:[
      {q:"The Halifax Explosion took place in which year?", options:["1917","1867","1945","1970"], answer:0},
      {q:"The Halifax Explosion was caused by ___.", options:["A collision between two ships in Halifax Harbour","A natural disaster with no connection to ships","A planned military attack on the city","An event unrelated to Halifax"], answer:0},
