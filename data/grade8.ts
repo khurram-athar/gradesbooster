@@ -2101,6 +2101,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Symbolism in Literature", summary:"Grade 8 Reading strand: symbolism is a literary device in which an object, person, or colour represents a deeper idea beyond its literal meaning, adding layers of meaning to a text.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=qNPzq-WW_gI",
    quiz:[
      {q:"Symbolism is a literary device in which ___.", options:["A concept unrelated to literary devices","An object or image represents a deeper idea beyond its literal meaning","Every word in a text is taken only at face value","A story contains no hidden or deeper meaning at all"], answer:1},
      {q:"Which is an example of a common symbol in literature?", options:["A concept unrelated to symbolism","A character’s literal grocery list","A dove representing peace","A footnote citing a source"], answer:2},
@@ -2110,6 +2111,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Graphing Systems of Linear Inequalities", summary:"Grade 8 Math strand (pre-high-school extension): graphing a system of linear inequalities involves shading the solution region for each inequality, where the overlapping shaded area represents all solutions that satisfy every inequality at once.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=FWbcKade3rw",
    quiz:[
      {q:"Graphing a linear inequality involves shading ___.", options:["A concept unrelated to graphing inequalities","The entire graph regardless of the inequality","Only the single line itself, with no shading","The region of the graph that contains all solutions to the inequality"], answer:3},
      {q:"In a system of linear inequalities, the solution region is ___.", options:["A concept unrelated to systems of inequalities","The area with no shading of any kind","Any area shaded by at least one inequality","The area where the shaded regions of all inequalities overlap"], answer:3},
@@ -2119,6 +2121,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Plate Tectonics and Earthquakes", summary:"Grade 8 Science strand: plate tectonics describes how Earth’s crust is divided into large plates that slowly move, and the sudden release of built-up stress along plate boundaries causes earthquakes.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=FbbwaAIMvvs",
    quiz:[
      {q:"Plate tectonics describes how ___.", options:["The atmosphere circulates around the planet","Earth’s crust never moves or changes at all","Earth’s crust is divided into large plates that slowly move","A concept unrelated to plate tectonics"], answer:2},
      {q:"Earthquakes are typically caused by ___.", options:["Changes in ocean temperature alone","A cause unrelated to earthquakes","The rotation of Earth on its axis","The sudden release of built-up stress along plate boundaries"], answer:3},
@@ -2128,6 +2131,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Acadian Expulsion (Le Grand Dérangement)", summary:"Grade 8 History strand: the Acadian Expulsion was the forced removal of thousands of French-speaking Acadians from their homes in the Maritimes by the British in the mid-1700s, causing widespread suffering and displacement.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=zAg-E4-ZvMs",
    quiz:[
      {q:"The Acadian Expulsion refers to the forced removal of ___.", options:["Indigenous peoples from the Prairies","British settlers from Upper Canada","A group unrelated to the Acadian Expulsion","French-speaking Acadians from their homes in the Maritimes"], answer:3},
      {q:"The Acadian Expulsion was carried out by ___.", options:["The British","The government of the United States","The French government","A group unrelated to the Acadian Expulsion"], answer:0},

@@ -2101,6 +2101,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing Foil Characters", summary:"Grade 9 Reading strand: a foil character is a character whose traits contrast sharply with those of another character, often a protagonist, highlighting specific qualities through that contrast.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=9k7pOZNIxZQ",
    quiz:[
      {q:"A foil character is best described as ___.", options:["A concept unrelated to characterization","A character whose contrasting traits highlight qualities in another character","A character who is identical to the protagonist in every way","A minor character who never interacts with the protagonist"], answer:1},
      {q:"Why might an author include a foil character in a story?", options:["To make every character seem exactly the same","Foil characters are never used intentionally by authors","To emphasize specific traits of another character through contrast","This technique has no effect on how readers view a character"], answer:2},
@@ -2110,6 +2111,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Transformations of Functions (Vertical/Horizontal Shifts)", summary:"Grade 9 Algebra strand (non-linear relations): a function can be transformed by shifting its graph vertically or horizontally, such as y equals f(x) plus k for a vertical shift or y equals f(x minus h) for a horizontal shift.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=CESXLJaq6Mk",
    quiz:[
      {q:"A vertical shift of a function’s graph is represented by adding a constant ___.", options:["Inside the function’s input only","By multiplying the entire function by zero","Outside the function, such as f(x) plus k","A change unrelated to the function’s graph"], answer:2},
      {q:"A horizontal shift of a function’s graph is represented by changing the ___.", options:["The function’s domain to an empty set","Output value only, with no change to input","A value unrelated to the function’s graph","Input value, such as f(x minus h)"], answer:3},
@@ -2119,6 +2121,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Density and Buoyancy: Archimedes’ Principle", summary:"Grade 9 Science Physics strand: Archimedes’ principle states that an object submerged in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces, which determines whether it floats or sinks.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=16HDJNoXQII",
    quiz:[
      {q:"Archimedes’ principle states that a submerged object experiences a buoyant force equal to ___.", options:["The weight of the fluid it displaces","The temperature of the fluid","The object’s own weight only, with no connection to fluid","A force unrelated to the surrounding fluid"], answer:0},
      {q:"An object will float in a fluid if its density is ___ the fluid’s density.", options:["Unrelated to","Exactly equal in every case to","Less than","Greater than"], answer:2},
@@ -2128,6 +2131,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Coastal Geography and Sea Level Rise", summary:"Grade 9 Social Studies (Geography) strand: coastal geography examines the physical features and human activity along coastlines, and rising sea levels due to climate change pose growing risks to coastal communities and ecosystems.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=j9d6n_uUfFo",
    quiz:[
      {q:"Coastal geography examines the physical features and human activity found ___.", options:["Only in landlocked, inland regions","Exclusively underwater, with no connection to land","Along coastlines","A concept unrelated to geography"], answer:2},
      {q:"Rising sea levels are primarily linked to ___.", options:["A decrease in the size of the world’s oceans","Climate change, including melting ice and thermal expansion of water","A factor entirely unrelated to climate","A process unrelated to coastal regions"], answer:1},
