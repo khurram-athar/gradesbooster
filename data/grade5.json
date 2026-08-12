@@ -12129,6 +12129,21 @@
         "summary": "Ontario Grade 5 Number and Geometry strands review: this lesson revisits fraction operations, percent, integers, and geometry concepts like circles and volume covered across recent lessons.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Cvy0A0jAWHU",
+        "videoUrls": [
+          {
+            "label": "Fractions",
+            "url": "https://www.youtube.com/watch?v=Cvy0A0jAWHU"
+          },
+          {
+            "label": "Percent",
+            "url": "https://www.youtube.com/watch?v=1rpcVbbdwHI"
+          },
+          {
+            "label": "Integers",
+            "url": "https://www.youtube.com/watch?v=OSfDRqxmXAE"
+          }
+        ],
         "quiz": [
           {
             "q": "What is 1/4 plus 1/4?",
@@ -12188,6 +12203,21 @@
         "summary": "Ontario Grade 5 Science review: this lesson revisits the nervous, circulatory, respiratory, skeletal, muscular, and excretory systems alongside forces like friction, air resistance, and mechanical advantage covered recently.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=_vZ0lefPg_0",
+        "videoUrls": [
+          {
+            "label": "Circulatory System",
+            "url": "https://www.youtube.com/watch?v=_vZ0lefPg_0"
+          },
+          {
+            "label": "Nervous System",
+            "url": "https://www.youtube.com/watch?v=KK0TXLObpkU"
+          },
+          {
+            "label": "Friction",
+            "url": "https://www.youtube.com/watch?v=IkmAnLmXENo"
+          }
+        ],
         "quiz": [
           {
             "q": "Which system is responsible for sending electrical signals throughout the body?",
@@ -12247,6 +12277,21 @@
         "summary": "Ontario Grade 5 Social Studies review: this lesson revisits Canada’s path to independence, the Charter of Rights and Freedoms, the courts, political parties, and reconciliation efforts covered across recent lessons.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=5miQt1dhEjo",
+        "videoUrls": [
+          {
+            "label": "Charter of Rights and Freedoms",
+            "url": "https://www.youtube.com/watch?v=5miQt1dhEjo"
+          },
+          {
+            "label": "The Courts",
+            "url": "https://www.youtube.com/watch?v=ovP_Nm4lHTM"
+          },
+          {
+            "label": "Truth and Reconciliation",
+            "url": "https://www.youtube.com/watch?v=qxBnmZrSZa4"
+          }
+        ],
         "quiz": [
           {
             "q": "Which document, adopted in 1982, includes the Canadian Charter of Rights and Freedoms?",
@@ -12312,6 +12357,7 @@
         "summary": "Grade 5 Language strand: an author’s style is shaped by their word choice, sentence length, and tone, and analyzing it helps readers understand how a writer creates a particular effect.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=tj8vssKsZQI",
         "quiz": [
           {
             "q": "An author’s style is shaped by their ___.",
@@ -12371,6 +12417,7 @@
         "summary": "Grade 5 Math strand: integers include positive and negative whole numbers, and adding or subtracting them can be modelled on a number line.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=GJjbq1C0MaA",
         "quiz": [
           {
             "q": "An integer can be ___.",
@@ -12430,6 +12477,7 @@
         "summary": "Grade 5 Science strand: different bridge designs, such as beam, arch, and suspension bridges, distribute the load (weight and forces) in different ways to stay stable.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=x3BlGFwAzZY",
         "quiz": [
           {
             "q": "Load distribution in a bridge refers to how a structure ___.",
@@ -12489,6 +12537,7 @@
         "summary": "Grade 5 Social Studies strand: residential schools were institutions in Canada that separated Indigenous children from their families and cultures, and their legacy continues to affect Indigenous communities today.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=VFgNI1lfe0A",
         "quiz": [
           {
             "q": "Residential schools were institutions that ___.",

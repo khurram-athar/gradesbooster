@@ -2082,6 +2082,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Structures, Forces, and Simple Machines", summary:"Ontario Grade 4 Science Structures and Mechanisms strand review: this lesson revisits structures, forces like magnetism and friction, and simple machines like levers, inclined planes, wheels and axles, and screws, from across the year.",
    resourceLabel:"TVO Learn: Grade 4 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=sLfUDIRaPGU",
+   videoUrls:[{label:"Structures", url:"https://www.youtube.com/watch?v=sLfUDIRaPGU"},{label:"Forces", url:"https://www.youtube.com/watch?v=3HjKFOVhm_o"},{label:"Simple Machines", url:"https://www.youtube.com/watch?v=1WDfgZvs44A"}],
    quiz:[
      {q:"Which is an example of a simple machine studied this year?", options:["A mountain","A river","A lever","A cloud"], answer:2},
      {q:"A structure’s ability to support weight without collapsing depends on its ___.", options:["Smell","Design and how it distributes load","Price","Colour"], answer:1},
@@ -2103,6 +2105,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Reading: Making Connections (Text-to-Self, Text-to-Text, Text-to-World)", summary:"Grade 4 Language strand: strong readers make connections between a text and their own life, other texts they have read, and events happening in the wider world.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=SHsdQvsN8ag",
    quiz:[
      {q:"A text-to-self connection is when a reader links a text to ___.", options:["Their own life and experiences","A completely different book only","A concept unrelated to reading","The number of chapters in the book"], answer:0},
      {q:"A text-to-text connection compares a story to ___.", options:["Only the cover illustration of the book","Another text the reader has read before","Nothing at all, since texts cannot be compared","A concept unrelated to reading comprehension"], answer:1},
@@ -2112,6 +2115,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Multiplying Fractions by Whole Numbers", summary:"Grade 4 Math strand: multiplying a fraction by a whole number means adding that fraction the given number of times, such as 3 times 1/4 equalling 3/4.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=WWGTeutbW2U",
    quiz:[
      {q:"Multiplying a fraction by a whole number is the same as ___.", options:["Dividing the fraction into smaller unrelated parts","A concept unrelated to fractions","Subtracting the whole number from the fraction","Adding that fraction the given number of times"], answer:3},
      {q:"What is 3 × 1/4?", options:["A value unrelated to the multiplication","3/4","1/12","4/3"], answer:1},
@@ -2121,6 +2125,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Ecosystems: Interdependence of Living Things", summary:"Grade 4 Science strand: living things in an ecosystem depend on each other and their environment in a web of interdependent relationships.",
    resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=4ExsJBcHeVA",
    quiz:[
      {q:"Interdependence in an ecosystem means living things ___.", options:["A concept unrelated to ecosystems","Live completely apart from their environment","Rely on each other and their environment to survive","Never interact with each other in any way"], answer:2},
      {q:"Which is an example of interdependence in an ecosystem?", options:["A concept unrelated to living things","A rock resting on the ground with no living connections","Two organisms that never interact in any way","Bees pollinating flowers while flowers provide bees with nectar"], answer:3},
@@ -2130,6 +2135,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Mapping Skills: Latitude and Longitude", summary:"Grade 4 Social Studies strand: latitude and longitude are imaginary lines that form a grid on maps and globes, helping people locate exact places on Earth.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=RgI2qoF4DEg",
    quiz:[
      {q:"Latitude and longitude lines help people ___.", options:["A concept unrelated to maps","Measure the temperature of a location","Determine the population of a city","Locate exact places on Earth"], answer:3},
      {q:"Lines of latitude run ___.", options:["Diagonally across every map","A direction unrelated to mapping","North to south, connecting the poles","East to west, parallel to the equator"], answer:3},

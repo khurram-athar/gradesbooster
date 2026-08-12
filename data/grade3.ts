@@ -2105,6 +2105,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Reading: Comparing Texts on the Same Topic", summary:"Grade 3 Language strand: comparing two texts on the same topic means noticing how each one presents information differently, such as using different facts, pictures, or points of view.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=kCRrOMlVWdM",
    quiz:[
      {q:"Comparing two texts on the same topic means noticing ___.", options:["A skill unrelated to reading comprehension","How each text presents information differently","Only the number of pages in each text","That every text is always exactly the same"], answer:1},
      {q:"Which is something you might compare between two texts about the same animal?", options:["The price of each book","The facts each text chooses to include","A detail unrelated to the topic itself","The colour of the book cover only"], answer:1},
@@ -2114,6 +2115,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Multiplying 2-Digit Numbers", summary:"Grade 3 Math strand: multiplying a 2-digit number by a 1-digit number can be done by breaking the 2-digit number into tens and ones, multiplying each part, and adding the results together.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=PZjIT9CH6bM",
    quiz:[
      {q:"To multiply a 2-digit number by a 1-digit number, you can break the 2-digit number into ___.", options:["Only hundreds, with no other place value considered","Fractions, with no connection to whole numbers","Tens and ones","A method unrelated to place value"], answer:2},
      {q:"What is 23 × 3?", options:["73","69","66","63"], answer:1},
@@ -2123,6 +2125,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Food Chains and Food Webs", summary:"Grade 3 Science strand: a food web shows how multiple food chains connect and overlap within an ecosystem, illustrating that most animals eat and are eaten by more than one other living thing.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=emV1QqDPgwc",
    quiz:[
      {q:"A food web shows how multiple food chains ___.", options:["Always form a single, straight line","Connect and overlap within an ecosystem","Never have any connection to one another","A concept unrelated to how animals eat"], answer:1},
      {q:"Most animals in an ecosystem eat and are eaten by ___.", options:["A concept unrelated to feeding relationships","More than one other living thing","Only a single other living thing, with no other connections","No other living things at all"], answer:1},
@@ -2132,6 +2135,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies: Local Government -- How Decisions Are Made", summary:"Grade 3 Social Studies strand: local (municipal) governments make decisions about community services like parks, roads, and libraries, often by discussing options and then voting.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=WpJSP2q5-M4",
    quiz:[
      {q:"Local, or municipal, governments make decisions about community services like ___.", options:["Decisions with no connection to daily community life","Only decisions that affect other countries","Parks, roads, and libraries","A topic unrelated to community services"], answer:2},
      {q:"Local government decisions are often made by discussing options and then ___.", options:["Voting","Flipping a coin with no discussion involved","A method entirely unrelated to decision-making","Ignoring all community input completely"], answer:0},

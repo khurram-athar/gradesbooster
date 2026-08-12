@@ -2562,6 +2562,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Animal Camouflage: Hiding in Plain Sight", summary:"Students learn that camouflage happens when the color or pattern of an animal helps it blend into its surroundings, making it harder for predators or prey to see it.",
    resourceLabel:"YouTube: Animal Camouflage: Hiding in Plain Sight", resourceUrl:"https://www.youtube.com/results?search_query=Animal%20Camouflage%3A%20Hiding%20in%20Plain%20Sight%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=YOIRci0CKzg",
    quiz:[
      {q:"What word describes an animal blending into its surroundings using color or pattern?", options:["Pollination","Migration","Hibernation","Camouflage"], answer:3},
      {q:"Why might an animal use camouflage?", options:["To fly faster","To hide from predators or sneak up on prey","To change the weather","To make more noise"], answer:1},
@@ -2574,19 +2575,20 @@ const curriculum: DayContent[] = [
      {prompt:"Name one reason an animal might use camouflage, like hiding from a predator.", answers:["hiding from a predator","to hide from predators","to hide from prey"]},
      {prompt:"Name one animal that uses camouflage, like a frog or a stick insect.", answers:["a frog","frog","a stick insect","stick insect","a chameleon","chameleon"]}
    ]},
-  {subject:"SocialStudies", title:"Notable Canadians and Their Achievements", summary:"Students learn about notable Canadians from the past and present who made important contributions in fields such as science, sports, and the arts.",
-   resourceLabel:"YouTube: Notable Canadians and Their Achievements", resourceUrl:"https://www.youtube.com/results?search_query=Notable%20Canadians%20and%20Their%20Achievements%20grade%202%20educational",
+  {subject:"SocialStudies", title:"Terry Fox and the Marathon of Hope", summary:"Students learn about Terry Fox, a young Canadian who ran partway across Canada on one leg to raise money for cancer research, and why Canadians still honour his courage and determination every year.",
+   resourceLabel:"YouTube: Terry Fox and the Marathon of Hope", resourceUrl:"https://www.youtube.com/results?search_query=Terry%20Fox%20Marathon%20of%20Hope%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KKm4H6LxgnU",
    quiz:[
-     {q:"What word describes a person who is well known for an important contribution?", options:["Invisible","Ordinary","Silent","Notable"], answer:3},
-     {q:"Which of these is a field where a notable Canadian might make a contribution?", options:["Only traveling","Only sleeping","Only eating","Science, sports, or the arts"], answer:3},
-     {q:"Why is it valuable to learn about notable Canadians?", options:["It helps us understand important achievements and history","It teaches nothing about Canada","It has no value at all","It only teaches math"], answer:0},
-     {q:"A notable Canadian scientist might be remembered for ___.", options:["An important discovery or invention","Losing a game","Staying home all day","Forgetting their homework"], answer:0},
-     {q:"Learning about people who made a difference can inspire us to ___.", options:["Avoid learning new things","Ignore our community","Stop trying new things","Work hard and contribute to our community"], answer:3}
+     {q:"What is the name of the run Terry Fox started to raise money for cancer research?", options:["The Marathon of Hope","The Race for Life","The Canada Run","The Hero's Journey"], answer:0},
+     {q:"Why did Terry Fox decide to run across Canada?", options:["To win a race","To raise money for cancer research","To visit his family","To become famous"], answer:1},
+     {q:"What made Terry Fox's run especially difficult?", options:["He ran at night only","He ran on one leg using a prosthetic","He had no shoes","He ran backwards"], answer:1},
+     {q:"Why do Canadians still hold Terry Fox Runs every year?", options:["To honour his courage and keep raising money for cancer research","To celebrate Canada Day","To practice for the Olympics","To remember a hockey game"], answer:0},
+     {q:"Terry Fox's story is often used to show young people the importance of ___.", options:["Winning at all costs","Courage and helping others","Avoiding hard challenges","Staying quiet about problems"], answer:1}
    ],
    worksheet:[
-     {prompt:"What word describes a person who is well known for an important contribution?", answers:["notable","famous"]},
-     {prompt:"Name one field where a notable Canadian might make a contribution, like science or sports.", answers:["science","sports","the arts","music"]},
-     {prompt:"Why do we learn about notable Canadians in social studies?", answers:["to learn about their achievements","to learn about important contributions","to learn about their achievements and history"]}
+     {prompt:"What is the name of the run Terry Fox started?", answers:["the Marathon of Hope","Marathon of Hope"]},
+     {prompt:"Why did Terry Fox run across Canada?", answers:["to raise money for cancer research","for cancer research"]},
+     {prompt:"Why do Canadians still hold Terry Fox Runs today?", answers:["to honour him","to raise money for cancer research","to remember his courage"]}
    ]},
 ]},
 {day:52, label:"Day 52 — Tue", subjects:[

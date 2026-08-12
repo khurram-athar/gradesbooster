@@ -2072,6 +2072,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Fractions, Percent, Integers, and Geometry", summary:"Ontario Grade 5 Number and Geometry strands review: this lesson revisits fraction operations, percent, integers, and geometry concepts like circles and volume covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Cvy0A0jAWHU",
+   videoUrls:[{label:"Fractions", url:"https://www.youtube.com/watch?v=Cvy0A0jAWHU"},{label:"Percent", url:"https://www.youtube.com/watch?v=1rpcVbbdwHI"},{label:"Integers", url:"https://www.youtube.com/watch?v=OSfDRqxmXAE"}],
    quiz:[
      {q:"What is 1/4 plus 1/4?", options:["2/8","1/4","1/2","1"], answer:2},
      {q:"What is 20 percent of 50?", options:["5","20","10","100"], answer:2},
@@ -2081,6 +2083,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Human Body Systems and Forces", summary:"Ontario Grade 5 Science review: this lesson revisits the nervous, circulatory, respiratory, skeletal, muscular, and excretory systems alongside forces like friction, air resistance, and mechanical advantage covered recently.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=_vZ0lefPg_0",
+   videoUrls:[{label:"Circulatory System", url:"https://www.youtube.com/watch?v=_vZ0lefPg_0"},{label:"Nervous System", url:"https://www.youtube.com/watch?v=KK0TXLObpkU"},{label:"Friction", url:"https://www.youtube.com/watch?v=IkmAnLmXENo"}],
    quiz:[
      {q:"Which system is responsible for sending electrical signals throughout the body?", options:["The excretory system","The nervous system","The muscular system","The skeletal system"], answer:1},
      {q:"Which system transports oxygen and nutrients through the body?", options:["The respiratory system","The circulatory system","The skeletal system","The excretory system"], answer:1},
@@ -2090,6 +2094,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Canadian Government, Rights, and Recent History", summary:"Ontario Grade 5 Social Studies review: this lesson revisits Canada’s path to independence, the Charter of Rights and Freedoms, the courts, political parties, and reconciliation efforts covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5miQt1dhEjo",
+   videoUrls:[{label:"Charter of Rights and Freedoms", url:"https://www.youtube.com/watch?v=5miQt1dhEjo"},{label:"The Courts", url:"https://www.youtube.com/watch?v=ovP_Nm4lHTM"},{label:"Truth and Reconciliation", url:"https://www.youtube.com/watch?v=qxBnmZrSZa4"}],
    quiz:[
      {q:"Which document, adopted in 1982, includes the Canadian Charter of Rights and Freedoms?", options:["The Constitution Act","The Treaty of Paris","The British North America Act only","The Statute of Westminster"], answer:0},
      {q:"Which body in Canada is responsible for interpreting and applying the law?", options:["Only the media","The courts","No formal body exists for this","Only municipal councils"], answer:1},
@@ -2101,6 +2107,7 @@ const curriculum: DayContent[] = [
 {day:51, label:"Day 51 — Mon", subjects:[
   {subject:"Language", title:"Reading: Analyzing an Author’s Style and Word Choice", summary:"Grade 5 Language strand: an author’s style is shaped by their word choice, sentence length, and tone, and analyzing it helps readers understand how a writer creates a particular effect.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=tj8vssKsZQI",
    quiz:[
      {q:"An author’s style is shaped by their ___.", options:["The colour of the book cover","Word choice, sentence length, and tone","A concept unrelated to reading","Only the number of pages in the book"], answer:1},
      {q:"Why might an author use short, choppy sentences in a story?", options:["A reason unrelated to author’s style","Short sentences never affect how a story feels","Only to fill space on the page","To create a sense of tension or urgency"], answer:3},
@@ -2110,6 +2117,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding and Subtracting Integers", summary:"Grade 5 Math strand: integers include positive and negative whole numbers, and adding or subtracting them can be modelled on a number line.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=GJjbq1C0MaA",
    quiz:[
      {q:"An integer can be ___.", options:["A positive or negative whole number","Only a fraction or decimal","Only a positive whole number","A concept unrelated to integers"], answer:0},
      {q:"What is -3 + 5?", options:["2","8","A value unrelated to the calculation","-8"], answer:0},
@@ -2119,6 +2127,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Types of Bridges and Load Distribution", summary:"Grade 5 Science strand: different bridge designs, such as beam, arch, and suspension bridges, distribute the load (weight and forces) in different ways to stay stable.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=x3BlGFwAzZY",
    quiz:[
      {q:"Load distribution in a bridge refers to how a structure ___.", options:["Adds unnecessary weight to itself","A concept unrelated to structures","Spreads out weight and forces to remain stable","Ignores all forces acting on it"], answer:2},
      {q:"A beam bridge is best described as ___.", options:["A bridge with no support at all","A concept unrelated to bridge design","A bridge that hangs entirely from cables","A simple, rigid structure supported at both ends"], answer:3},
@@ -2128,6 +2137,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Residential Schools and Their Legacy", summary:"Grade 5 Social Studies strand: residential schools were institutions in Canada that separated Indigenous children from their families and cultures, and their legacy continues to affect Indigenous communities today.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=VFgNI1lfe0A",
    quiz:[
      {q:"Residential schools were institutions that ___.", options:["Separated Indigenous children from their families and cultures","A concept unrelated to Canadian history","Celebrated and protected Indigenous languages and traditions","Had no lasting impact on Indigenous communities"], answer:0},
      {q:"Why is it important for Canadians to learn about residential schools?", options:["Learning about the past never helps understand the present","A reason unrelated to Canadian history","It helps build understanding of this history and supports reconciliation","This history has no relevance to Canada today"], answer:2},
