@@ -2072,6 +2072,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Quadratics, Rational Expressions, and Non-Linear Relations", summary:"Grade 9 Algebra strand review: this lesson revisits the quadratic formula, completing the square, simplifying rational expressions, the equation of a circle, and cubic functions from recent lessons.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=qeByhTF8WEw",
+   videoUrls:[{label:"Quadratics", url:"https://www.youtube.com/watch?v=qeByhTF8WEw"},{label:"Rational Expressions", url:"https://www.youtube.com/watch?v=0Gq3uw2p6fA"},{label:"Non-Linear Relations", url:"https://www.youtube.com/watch?v=B42XdBQ-_BQ"}],
    quiz:[
      {q:"The quadratic formula can be used to solve equations in the form ___.", options:["a plus b equals c","a divided by b equals c","ax plus b equals zero","ax squared plus bx plus c equals zero"], answer:3},
      {q:"Completing the square is a method used to ___.", options:["Simplify a linear equation only","Rewrite a quadratic expression to reveal its vertex","A method unrelated to quadratic expressions","Solve for the perimeter of a shape"], answer:1},
@@ -2081,6 +2083,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Chemistry, Physics, and Biology Concepts", summary:"Grade 9 Science review: this lesson revisits stoichiometry, momentum, cellular respiration, organic chemistry, and population ecology covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=7Cfq0ilw7ps",
+   videoUrls:[{label:"Stoichiometry", url:"https://www.youtube.com/watch?v=7Cfq0ilw7ps"},{label:"Momentum", url:"https://www.youtube.com/watch?v=NIVNfI0RN2k"},{label:"Cellular Respiration", url:"https://www.youtube.com/watch?v=eJ9Zjc-jdys"}],
    quiz:[
      {q:"Stoichiometry uses mole ratios to calculate ___.", options:["The amounts of reactants and products in a reaction","The colour of a chemical reaction","A value unrelated to chemical reactions","The exact temperature of a reaction"], answer:0},
      {q:"Momentum is calculated as ___.", options:["Mass times velocity","Mass plus velocity","Mass divided by velocity","Velocity alone, with no connection to mass"], answer:0},
@@ -2090,6 +2094,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Review: Global Geography, Resources, and Regional Cooperation", summary:"Grade 9 Social Studies (Geography) review: this lesson revisits resource conflict, pandemic geography, the Arctic, food systems, the digital divide, and regional integration covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=NYi4-atpdTI",
+   videoUrls:[{label:"Global Geography", url:"https://www.youtube.com/watch?v=NYi4-atpdTI"},{label:"Regional Cooperation", url:"https://www.youtube.com/watch?v=WAnfj8v5acM"}],
    quiz:[
      {q:"A resource war generally involves conflict over ___.", options:["Only cultural traditions, with no resource connection","Access to or control of limited resources","A topic entirely unrelated to resources","A conflict with no identifiable cause"], answer:1},
      {q:"The Arctic has become an area of increasing geopolitical interest partly due to ___.", options:["No connection to international interest","A complete lack of any valuable resources","Access to resources and shipping routes","A topic unrelated to geopolitics"], answer:2},

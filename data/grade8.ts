@@ -2072,6 +2072,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Systems, Trigonometric Applications, and Advanced Algebra", summary:"Grade 8 Number and Algebra strands review: this lesson revisits solving systems by elimination, applying trigonometric ratios, factoring trinomials, the quadratic formula, and conditional probability from recent lessons.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=oKqtgz2eo-Y",
+   videoUrls:[{label:"Systems", url:"https://www.youtube.com/watch?v=oKqtgz2eo-Y"},{label:"Trigonometric Applications", url:"https://www.youtube.com/watch?v=qXxTu0fg4_8"},{label:"Advanced Algebra", url:"https://www.youtube.com/watch?v=grnP3mduZkM"}],
    quiz:[
      {q:"Solve the system using elimination: x + y = 12 and x minus y = 4.", options:["x = 12, y = 4","x = 6, y = 6","x = 8, y = 4","x = 4, y = 8"], answer:2},
      {q:"Factor: x squared plus 6x plus 8.", options:["(x + 2)(x + 4)","(x + 6)(x + 2)","(x + 1)(x + 8)","(x + 3)(x + 5)"], answer:0},
@@ -2081,6 +2083,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Biotechnology, Environmental Science, and Emerging Technology", summary:"Grade 8 Science review: this lesson revisits CRISPR and gene editing, ocean acidification, forensic science, artificial intelligence, and sustainable agriculture covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=CDw4WPng2iE",
+   videoUrls:[{label:"Biotechnology", url:"https://www.youtube.com/watch?v=CDw4WPng2iE"},{label:"Environmental Science", url:"https://www.youtube.com/watch?v=RoIpCJwX7-M"}],
    quiz:[
      {q:"CRISPR is a technology used to ___.", options:["Study the movement of tectonic plates","Make precise changes to DNA","Predict weather patterns","Measure the size of a cell"], answer:1},
      {q:"Ocean acidification occurs when the ocean absorbs excess ___.", options:["Helium","Nitrogen only","Oxygen only","Carbon dioxide from the atmosphere"], answer:3},

@@ -12123,6 +12123,21 @@
         "summary": "Grade 8 Number and Algebra strands review: this lesson revisits solving systems by elimination, applying trigonometric ratios, factoring trinomials, the quadratic formula, and conditional probability from recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=oKqtgz2eo-Y",
+        "videoUrls": [
+          {
+            "label": "Systems",
+            "url": "https://www.youtube.com/watch?v=oKqtgz2eo-Y"
+          },
+          {
+            "label": "Trigonometric Applications",
+            "url": "https://www.youtube.com/watch?v=qXxTu0fg4_8"
+          },
+          {
+            "label": "Advanced Algebra",
+            "url": "https://www.youtube.com/watch?v=grnP3mduZkM"
+          }
+        ],
         "quiz": [
           {
             "q": "Solve the system using elimination: x + y = 12 and x minus y = 4.",
@@ -12182,6 +12197,17 @@
         "summary": "Grade 8 Science review: this lesson revisits CRISPR and gene editing, ocean acidification, forensic science, artificial intelligence, and sustainable agriculture covered across recent lessons.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=CDw4WPng2iE",
+        "videoUrls": [
+          {
+            "label": "Biotechnology",
+            "url": "https://www.youtube.com/watch?v=CDw4WPng2iE"
+          },
+          {
+            "label": "Environmental Science",
+            "url": "https://www.youtube.com/watch?v=RoIpCJwX7-M"
+          }
+        ],
         "quiz": [
           {
             "q": "CRISPR is a technology used to ___.",
