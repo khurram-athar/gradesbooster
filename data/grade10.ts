@@ -2075,6 +2075,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Review: Grade 10 Functions, Data, and Number Extensions", summary:"Grade 10 comprehensive review: this lesson revisits sine and cosine law combinations, standard deviation, combining functions, complex number operations, and 3D non-right triangle applications from Days 41-49.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=3gaxVHVI4cI",
+   videoUrls:[{label:"Combining Functions", url:"https://www.youtube.com/watch?v=3gaxVHVI4cI"},{label:"Standard Deviation", url:"https://www.youtube.com/watch?v=IaTFpp-uzp0"},{label:"Complex Number Operations", url:"https://www.youtube.com/watch?v=OQz1ydBcQSA"}],
    quiz:[
      {q:"A normal distribution is typically described as having a ___ shape.", options:["Perfectly flat, with no variation","A shape unrelated to data distribution","Symmetric, bell-shaped","Random, with no discernible pattern"], answer:2},
      {q:"What does i squared equal?", options:["Zero","One","Negative one","A value that cannot be determined"], answer:2},
@@ -2084,6 +2086,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Review: Earth Science, Chemistry, and Physics Applications", summary:"Grade 10 Science review: this lesson revisits plate tectonics, organic compounds, radioactivity in medicine, the life cycle of stars, and stoichiometry covered across recent lessons.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=7jbwX1Uvd18",
+   videoUrls:[{label:"Plate Tectonics", url:"https://www.youtube.com/watch?v=7jbwX1Uvd18"},{label:"Radioactivity in Medicine", url:"https://www.youtube.com/watch?v=qlvKhMJibPY"},{label:"Life Cycle of Stars", url:"https://www.youtube.com/watch?v=PM9CQDlQI0A"}],
    quiz:[
      {q:"Plate tectonics describes the movement of ___.", options:["A concept unrelated to Earth’s structure","Large sections of Earth’s crust","Only ocean currents, with no connection to the crust","Only the atmosphere, with no connection to the crust"], answer:1},
      {q:"Organic compounds are best described as ___.", options:["Only inorganic minerals","Molecules that contain no carbon at all","Carbon-based molecules","A category unrelated to chemistry"], answer:2},
@@ -2093,6 +2097,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"Review: Social Movements and Nation-Building in Canada", summary:"Grade 10 History review: this lesson revisits the Winnipeg General Strike, the Persons Case, the October Crisis, the founding of Nunavut, the Oka Crisis, and Canada’s response to global refugee crises.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=PUZc1zbOtf4",
+   videoUrls:[{label:"Winnipeg General Strike", url:"https://www.youtube.com/watch?v=PUZc1zbOtf4"},{label:"October Crisis", url:"https://www.youtube.com/watch?v=JLNEA84AvQ0"},{label:"Oka Crisis", url:"https://www.youtube.com/watch?v=POo2X-6XNGw"}],
    quiz:[
      {q:"The Winnipeg General Strike took place in which year?", options:["1919","1867","1995","1945"], answer:0},
      {q:"The Persons Case established that women were considered ___.", options:["Ineligible for any legal recognition under Canadian law","A group with no connection to Canadian legal history","“Persons” under Canadian law, eligible for Senate appointment","Excluded from all forms of public office"], answer:2},
