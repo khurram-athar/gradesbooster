@@ -2147,6 +2147,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Subject-Verb Agreement", summary:"Grade 4 Language strand: subject-verb agreement means matching a singular subject with a singular verb and a plural subject with a plural verb.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=YqIJnvl9pL0",
    quiz:[
      {q:"Subject-verb agreement means the subject and verb must ___.", options:["A concept unrelated to grammar","Be separated by a comma at all times","Match in number (singular or plural)","Always be written in past tense"], answer:2},
      {q:"Which sentence shows correct subject-verb agreement?", options:["The dogs runs in the park.","The dog run in the park.","The dog runs in the park.","A sentence unrelated to subject-verb agreement"], answer:2},
@@ -2156,6 +2157,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Prime and Composite Numbers", summary:"Grade 4 Math strand: a prime number has exactly two factors (1 and itself), while a composite number has more than two factors.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ydm2cxacPIM",
    quiz:[
      {q:"A prime number has exactly ___ factors.", options:["Two (1 and itself)","Zero factors","Ten factors","A number of factors unrelated to primes"], answer:0},
      {q:"Which of these is a prime number?", options:["8","7","9","A number unrelated to primes"], answer:1},
@@ -2165,6 +2167,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Rock and Mineral Classification: Igneous, Sedimentary, Metamorphic", summary:"Grade 4 Science strand: rocks are classified into three types based on how they form -- igneous (from cooled magma), sedimentary (from compressed layers), and metamorphic (changed by heat and pressure).",
    resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=XvVvfPnrhd0",
    quiz:[
      {q:"Igneous rock forms when ___.", options:["A process unrelated to rock formation","Existing rock is changed by heat and pressure","Melted magma cools and hardens","Layers of sediment are compressed over time"], answer:2},
      {q:"Sedimentary rock forms when ___.", options:["Existing rock is changed by heat and pressure","Melted magma cools and hardens","A process unrelated to rock formation","Layers of sediment are compressed over time"], answer:3},
@@ -2174,6 +2177,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Comparing Government Systems: Federal, Provincial, and Municipal", summary:"Grade 4 Social Studies strand: Canada has three levels of government -- federal, provincial, and municipal -- each responsible for different services and decisions.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=ped-vegY6WA",
    quiz:[
      {q:"The federal government is responsible for issues that affect ___.", options:["The whole country","A concept unrelated to government","Only a single city","Only a single street"], answer:0},
      {q:"The provincial government is responsible for issues such as ___.", options:["Decisions made only by other countries","A concept unrelated to government","Education and healthcare within the province","International trade agreements only"], answer:2},
