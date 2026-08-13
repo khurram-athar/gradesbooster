@@ -2605,6 +2605,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Even and Odd: Sharing into Two Groups", summary:"Students explore even and odd numbers by trying to split a small group of objects into two equal groups, learning that even numbers split evenly and odd numbers leave one extra.",
    resourceLabel:"YouTube: Even and Odd: Sharing into Two Groups", resourceUrl:"https://www.youtube.com/results?search_query=Even%20and%20Odd%3A%20Sharing%20into%20Two%20Groups%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3iQqmmG8wQQ",
    quiz:[
      {q:"If you split 6 counters into two equal groups, does one get left over?", options:["No","Cannot tell","Only sometimes","Yes"], answer:0},
      {q:"If you split 7 counters into two equal groups, does one get left over?", options:["Only sometimes","Cannot tell","Yes","No"], answer:2},
@@ -2619,6 +2620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Where Food Comes From: Farm to Table", summary:"Students learn that much of our food comes from plants and animals on farms, and trace the simple journey of foods such as milk, apples, and bread to our table.",
    resourceLabel:"YouTube: Where Food Comes From: Farm to Table", resourceUrl:"https://www.youtube.com/results?search_query=Where%20Food%20Comes%20From%3A%20Farm%20to%20Table%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fUmp00cSFdY",
    quiz:[
      {q:"Where does milk come from?", options:["A tree","A cow","The ground","A river"], answer:1},
      {q:"Where do apples grow?", options:["On a tree","On a bush","In water","Underground"], answer:0},
@@ -2633,6 +2635,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Waiting and Patience: Taking Our Turn in Line", summary:"Students learn why waiting patiently and standing in line is important for fairness, such as waiting for the slide, the washroom, or a turn to speak.",
    resourceLabel:"YouTube: Waiting and Patience: Taking Our Turn in Line", resourceUrl:"https://www.youtube.com/results?search_query=Waiting%20and%20Patience%3A%20Taking%20Our%20Turn%20in%20Line%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ILbeY104Xp4",
    quiz:[
      {q:"What does it mean to be patient?", options:["Pushing others","Running away","Yelling loudly","Staying calm while waiting"], answer:3},
      {q:"Why do people form a line at a water fountain?", options:["So everyone gets a fair turn","Lines are not needed","To confuse people","To slow everyone down forever"], answer:0},

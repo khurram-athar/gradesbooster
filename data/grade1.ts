@@ -2590,6 +2590,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Silent Letters: kn and wr", summary:"Students learn that some words have silent letters, letters that are not pronounced, such as the silent k in knee and the silent w in write.",
    resourceLabel:"YouTube: Silent Letters: kn and wr", resourceUrl:"https://www.youtube.com/results?search_query=Silent%20Letters%3A%20kn%20and%20wr%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=iYeQtJYFQTA",
    quiz:[
      {q:"In the word knee, which letter makes no sound?", options:["e","all letters are heard","k","n"], answer:2},
      {q:"In the word write, which letter makes no sound?", options:["t","w","i","r"], answer:1},
@@ -2604,6 +2605,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Skip Counting by 4s", summary:"Students practise skip counting by 4s, saying the numbers 4, 8, 12, 16, and so on, to build number sense and prepare for multiplication.",
    resourceLabel:"YouTube: Skip Counting by 4s", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%204s%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=pkcIJn5HrMI",
    quiz:[
      {q:"When skip counting by 4s, what number comes after 8?", options:["12","10","9","11"], answer:0},
      {q:"When skip counting by 4s, what number comes after 16?", options:["18","20","19","17"], answer:1},
@@ -2618,6 +2620,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Amphibians and Their Life Cycle", summary:"Students learn that amphibians, such as frogs, begin life in water as eggs and tadpoles, then change into adults that can live both in water and on land.",
    resourceLabel:"YouTube: Amphibians and Their Life Cycle", resourceUrl:"https://www.youtube.com/results?search_query=Amphibians%20and%20Their%20Life%20Cycle%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=4YfU7dEOt14",
    quiz:[
      {q:"Which of these animals is an amphibian?", options:["A shark","A frog","A robin","A turtle"], answer:1},
      {q:"What is a young frog called before it grows legs?", options:["A cub","A chick","A calf","A tadpole"], answer:3},
@@ -2632,6 +2635,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Inventions and Inventors", summary:"Students learn about a few simple inventions created by people in Canada, such as basketball, and that inventors are people who create new and useful things.",
    resourceLabel:"YouTube: Canadian Inventions and Inventors", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Inventions%20and%20Inventors%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=w2k1Nqwm6Cs",
    quiz:[
      {q:"What do we call a person who creates something new and useful?", options:["An inventor","A farmer","A pilot","A dentist"], answer:0},
      {q:"Which sport was invented by a Canadian named James Naismith?", options:["Soccer","Basketball","Cricket","Tennis"], answer:1},

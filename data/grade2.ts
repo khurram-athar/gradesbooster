@@ -2594,6 +2594,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Capitalization Rules: Names, Places, and Titles", summary:"Students learn that capital letters are used at the beginning of names of people, places, and titles, such as Sarah, Toronto, and the title of a book.",
    resourceLabel:"YouTube: Capitalization Rules: Names, Places, and Titles", resourceUrl:"https://www.youtube.com/results?search_query=Capitalization%20Rules%3A%20Names%2C%20Places%2C%20and%20Titles%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bnRfLdFPHQI",
    quiz:[
      {q:"What kind of letter starts the name of a person, like Sarah?", options:["A lowercase letter","A capital letter","A number","A silent letter"], answer:1},
      {q:"Which of these words should start with a capital letter?", options:["dog","the","and","Toronto"], answer:3},
@@ -2608,6 +2609,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Introduction to Division: Sharing Equally into Groups", summary:"Students learn that division means sharing a group of objects equally into smaller groups, such as sharing 12 apples equally among 3 friends so each friend gets 4.",
    resourceLabel:"YouTube: Introduction to Division: Sharing Equally into Groups", resourceUrl:"https://www.youtube.com/results?search_query=Introduction%20to%20Division%3A%20Sharing%20Equally%20into%20Groups%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=IAIi92Rrn_U",
    quiz:[
      {q:"What do we call splitting a group of objects equally into smaller groups?", options:["Multiplication","Rounding","Addition","Division"], answer:3},
      {q:"If you share 12 apples equally among 3 friends, how many apples does each friend get?", options:["4","3","6","12"], answer:0},
@@ -2622,6 +2624,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycle of a Butterfly: Metamorphosis", summary:"Students learn the life cycle of a butterfly, called metamorphosis, which includes the stages of egg, caterpillar, chrysalis, and adult butterfly.",
    resourceLabel:"YouTube: Life Cycle of a Butterfly: Metamorphosis", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Butterfly%3A%20Metamorphosis%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=BH3SH42a9h4",
    quiz:[
      {q:"What is the first stage of a butterfly life cycle?", options:["Egg","Adult butterfly","Caterpillar","Chrysalis"], answer:0},
      {q:"What do we call a young butterfly that hatches from an egg and eats leaves?", options:["A chick","A caterpillar","A cub","A tadpole"], answer:1},
