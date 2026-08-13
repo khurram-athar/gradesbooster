@@ -2084,6 +2084,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Review: Genetics, Behaviour, and Human Physiology", summary:"Grade 11 Biology strand review: this lesson revisits polygenic inheritance, genetic drift and the founder effect, animal communication, cloning and stem cell research, the respiratory system, and invasive species.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=YJHGfbW55l0",
+   videoUrls:[{label:"Polygenic Inheritance", url:"https://www.youtube.com/watch?v=YJHGfbW55l0"},{label:"Genetic Drift and Founder Effect", url:"https://www.youtube.com/watch?v=IRTn0iNkAHI"},{label:"Cloning and Stem Cell Research", url:"https://www.youtube.com/watch?v=OVf_ASEGuns"}],
    quiz:[
      {q:"Polygenic inheritance occurs when ___.", options:["Only a single gene influences a trait, with no other genes involved","Multiple genes influence a single trait","No genes are involved in determining a trait","A concept unrelated to inheritance patterns"], answer:1},
      {q:"The founder effect occurs when a new population is established by ___.", options:["Individuals with absolutely no genetic differences from the original population","A very large, genetically diverse group of individuals","A small number of individuals with limited genetic variation","A process entirely unrelated to population genetics"], answer:2},
@@ -2093,6 +2095,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Review: Intermolecular Forces, Equilibrium, and Organic Chemistry", summary:"Grade 11 Chemistry strand review: this lesson revisits intermolecular forces, half-life calculations, equilibrium constants, esters and amides, spectroscopy, solubility rules, and reaction mechanisms.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=XSRa9P-xJl0",
+   videoUrls:[{label:"Intermolecular Forces", url:"https://www.youtube.com/watch?v=XSRa9P-xJl0"},{label:"Equilibrium Constants", url:"https://www.youtube.com/watch?v=J4WJCYpTYj8"},{label:"Esters and Amides", url:"https://www.youtube.com/watch?v=SQyV1NQUGQY"}],
    quiz:[
      {q:"Intermolecular forces are attractions that occur ___.", options:["A concept unrelated to molecular interactions","Exclusively within a single molecule’s own bonds","Only within a single atom, with no connection to other molecules","Between molecules"], answer:3},
      {q:"A large equilibrium constant value generally suggests that a reaction ___.", options:["Favours the formation of products","Favours the reactants remaining unchanged","Cannot be analyzed using this method","Has no products formed at all"], answer:0},
