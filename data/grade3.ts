@@ -2147,6 +2147,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Writing: The How-To Guide", summary:"Grade 3 Language strand: a how-to guide gives clear, step-by-step instructions in the correct order, often using numbered steps and precise action words so a reader can successfully complete a task.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=bvUh3FrhFY8",
    quiz:[
      {q:"A how-to guide gives instructions in ___.", options:["A completely random, mixed-up order","Only a single step, with no further detail","A style unrelated to giving instructions","The correct order, step by step"], answer:3},
      {q:"Why might a how-to guide use numbered steps?", options:["A how-to guide should never be organized using numbers","Numbers have no effect on how easy a guide is to follow","Numbers help the reader clearly follow the correct order of actions","This concept has no connection to giving clear instructions"], answer:2},
@@ -2156,6 +2157,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Dividing 2-Digit Numbers by 1-Digit Numbers", summary:"Grade 3 Math strand: dividing a 2-digit number by a 1-digit number can be approached by sharing the tens and ones separately, or by thinking about which multiplication fact matches the division problem.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=7ydIF4UmXnE",
    quiz:[
      {q:"Dividing a 2-digit number by a 1-digit number can be approached by sharing the ___ separately.", options:["Hundreds, with no connection to the given number","Tens and ones","Only the ones digit, with no connection to tens","A concept unrelated to place value"], answer:1},
      {q:"What is 48 ÷ 4?", options:["14","12","10","16"], answer:1},
@@ -2165,6 +2167,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: The Rock Cycle", summary:"Grade 3 Science strand: the rock cycle describes how rocks slowly change from one type to another over long periods of time through processes like heat, pressure, and erosion.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=L9j8N6WKprY",
    quiz:[
      {q:"The rock cycle describes how rocks slowly ___ over long periods of time.", options:["Change from one type to another","A concept unrelated to how rocks form","Disappear completely with no trace remaining","Always remain exactly the same, with no change at all"], answer:0},
      {q:"Which is a process that can cause rocks to change over time?", options:["Only the passage of a single day","A process entirely unrelated to how rocks form","Heat and pressure","A change that has no connection to natural processes"], answer:2},
@@ -2174,6 +2177,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies: Community Helpers and Their Roles", summary:"Grade 3 Social Studies strand: community helpers, such as firefighters, doctors, and teachers, each play a specific role that helps keep a community safe, healthy, and running smoothly.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=EzFnVfLtRE8",
    quiz:[
      {q:"Community helpers each play a specific role that helps keep a community ___.", options:["A concept unrelated to how communities function","Safe, healthy, and running smoothly","Isolated from any outside help or support","Completely disorganized with no structure at all"], answer:1},
      {q:"Which is an example of a community helper?", options:["A role entirely unrelated to helping a community","A person who provides no service to others","A firefighter","A job with no connection to community wellbeing"], answer:2},
