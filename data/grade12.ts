@@ -2078,6 +2078,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Review: Grade 12 Advanced Functions -- Comprehensive Synthesis", summary:"Grade 12 Advanced Functions comprehensive review: this lesson revisits matrices and determinants, complex numbers in polar form, sequence convergence, constrained optimization, and function symmetry across the Days 41-49 batch.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=3ROzG6n4yMc",
+   videoUrls:[{label:"Matrices and Determinants", url:"https://www.youtube.com/watch?v=3ROzG6n4yMc"},{label:"Complex Numbers in Polar Form", url:"https://www.youtube.com/watch?v=J6TnZxUUzqU"},{label:"Constrained Optimization", url:"https://www.youtube.com/watch?v=lx8RcYcYVuU"}],
    quiz:[
      {q:"A matrix has an inverse only if its determinant is ___.", options:["Not equal to zero","Always equal to exactly zero","A negative number in every single case","A factor entirely unrelated to whether an inverse exists"], answer:0},
      {q:"De Moivre’s Theorem provides an efficient method for ___.", options:["A concept unrelated to complex number operations","Only adding two complex numbers together","Raising a complex number to a power","Converting a complex number into a purely real number"], answer:2},
@@ -2087,6 +2089,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Review: Grade 12 Calculus -- Comprehensive Synthesis", summary:"Grade 12 Calculus comprehensive review: this lesson revisits vector-valued functions, slope fields, power series, logistic growth models, and biological population applications across the Days 41-49 batch.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=40r56pX4mqA",
+   videoUrls:[{label:"Vector-Valued Functions", url:"https://www.youtube.com/watch?v=40r56pX4mqA"},{label:"Slope Fields", url:"https://www.youtube.com/watch?v=Wr9VOum9Co0"},{label:"Power Series", url:"https://www.youtube.com/watch?v=EGni2-m5yxM"}],
    quiz:[
      {q:"Vector-valued functions are often used to describe an object’s ___ over time.", options:["A factor entirely unrelated to motion","Temperature exclusively, with no connection to movement","Position, velocity, and acceleration","Colour and physical appearance only"], answer:2},
      {q:"A slope field is constructed using short line segments indicating ___ at various points.", options:["Only the colour of each individual point","The exact numerical value of the function itself, with no connection to slope","A concept unrelated to rate of change","The slope"], answer:3},
@@ -2096,6 +2100,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Review: Grade 12 Physics -- Comprehensive Synthesis", summary:"Grade 12 Physics comprehensive review: this lesson revisits the Doppler effect, blackbody radiation, semiconductors, general relativity, quark confinement, superconductivity, resonance, orbital mechanics, and renewable energy.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=WiTQxNaKAYA",
+   videoUrls:[{label:"Doppler Effect", url:"https://www.youtube.com/watch?v=WiTQxNaKAYA"},{label:"Blackbody Radiation", url:"https://www.youtube.com/watch?v=DHG61XPuWyk"},{label:"General Relativity", url:"https://www.youtube.com/watch?v=tzQC3uYL67U"}],
    quiz:[
      {q:"The Doppler effect describes a change in observed ___ of a wave.", options:["A property entirely unrelated to waves","Colour, with no connection to sound or wave frequency","Mass","Frequency"], answer:3},
      {q:"General relativity describes gravity as ___.", options:["A force that behaves identically to electromagnetism in every way","A completely separate, unrelated force with no connection to mass","The curvature of spacetime caused by mass","A concept entirely unrelated to the structure of the universe"], answer:2},
@@ -2147,17 +2153,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:52, label:"Day 52 — Tue", subjects:[
-  {subject:"English", title:"Writing: The Manifesto as Literary Form", summary:"Grade 12 English strand: a manifesto is a public declaration of beliefs, intentions, or a call to action, often using bold, direct language and repetition to persuade readers toward a specific artistic, political, or social position.",
+  {subject:"English", title:"Persuasive Writing: Repetition and Rhetorical Devices for Impact", summary:"Grade 12 English strand: persuasive writers use rhetorical devices like anaphora (repeating words or phrases at the start of successive clauses) to build emphasis, rhythm, and emotional impact, making a declaration more memorable and forceful.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=mKpXEoeH93I",
    quiz:[
-     {q:"A manifesto is a public declaration of beliefs, intentions, or a call to ___.", options:["A concept unrelated to persuasive writing","Complete inaction, discouraging any response from readers","Action","Silence, with no attempt to influence any reader"], answer:2},
-     {q:"Manifestos often use bold, direct language and ___ to persuade readers.", options:["Repetition","Only passive, hesitant statements with no clear position","A concept unrelated to persuasive technique","Deliberately vague, ambiguous phrasing throughout"], answer:0},
-     {q:"A manifesto is typically written to advocate for a specific ___ position.", options:["Purely mathematical, with no connection to ideas or beliefs","Entirely neutral, taking no position on any issue","Artistic, political, or social","A concept unrelated to persuasive writing"], answer:2},
-     {q:"Why might a writer use short, forceful sentences when composing a manifesto?", options:["Short, forceful sentences can convey urgency and conviction, strengthening the persuasive impact of the declaration","This concept has no connection to the stylistic choices of persuasive writing","Manifestos are never intended to persuade or convince a reader","Short sentences always weaken the persuasive impact of a manifesto"], answer:0},
-     {q:"Why has the manifesto remained a significant literary and political form across different historical movements?", options:["This concept has no connection to how ideas are publicly communicated","Manifestos have never played any significant role in historical or artistic movements","This literary form has no lasting relevance across different time periods","It offers a direct, memorable way for a group or individual to publicly articulate and advocate for change"], answer:3}
+     {q:"A rhetorical device is best described as ___.", options:["A grammar error writers should always avoid","A concept unrelated to persuasive writing","A technique used deliberately to create a specific effect on the reader or listener","A random word choice with no persuasive purpose"], answer:2},
+     {q:"Anaphora specifically refers to ___.", options:["Repeating a word or phrase at the start of successive clauses or sentences","A concept unrelated to rhetorical repetition","Never repeating any word within a passage","Repeating an entire paragraph word for word at random points"], answer:0},
+     {q:"Why might a speaker or writer use repetition in a persuasive piece?", options:["Repetition always weakens a persuasive argument","A reason unrelated to persuasive technique","Repetition builds emphasis, rhythm, and makes key ideas more memorable","Repeating words is only ever accidental, never intentional"], answer:2},
+     {q:"In Martin Luther King Jr.'s speech, the repeated phrase \"I have a dream\" at the start of several sentences is an example of ___.", options:["A concept unrelated to rhetorical devices","Anaphora","A grammar mistake","A phrase used only once, with no repetition"], answer:1},
+     {q:"Why is rhetorical repetition especially effective in persuasive speeches meant to be heard aloud?", options:["Listeners never notice repeated phrases in spoken language","This concept has no connection to spoken persuasive language","A repeated phrase can anchor listeners and build emotional momentum as the speech builds toward its point","Repetition only works in written text, never in speech"], answer:2}
    ]},
   {subject:"AdvancedFunctions", title:"Functions: Solving Systems of Non-Linear Equations", summary:"Grade 12 Advanced Functions strand: solving a system of non-linear equations means finding the values that satisfy two or more equations simultaneously, often using substitution or graphical methods since these systems can have multiple or no solutions.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=hmNxdhA0jkQ",
    quiz:[
      {q:"Solving a system of non-linear equations means finding values that satisfy ___ simultaneously.", options:["No equations whatsoever","Only a single equation, with no other equations involved","A concept unrelated to systems of equations","Two or more equations"], answer:3},
      {q:"A system involving a parabola and a line may have ___ possible number(s) of solutions.", options:["Zero, one, or two, depending on the specific equations","Always exactly one solution, with no other possibility","An infinite number of solutions in every single case","A concept unrelated to solving these systems"], answer:0},
@@ -2167,6 +2175,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: The Squeeze Theorem", summary:"Grade 12 Calculus strand: the Squeeze Theorem determines the limit of a function by trapping it between two other functions with the same known limit at a given point, useful for functions that are difficult to evaluate directly.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=igJdDN-DPgA",
    quiz:[
      {q:"The Squeeze Theorem determines the limit of a function by trapping it between ___.", options:["A single unrelated function with no connection to the original limit","An infinite number of unrelated functions with no shared limit","Two other functions with the same known limit at a given point","A concept unrelated to evaluating limits"], answer:2},
      {q:"The Squeeze Theorem is especially useful for functions that are ___.", options:["A concept unrelated to the Squeeze Theorem","Undefined at every single point in their domain","Difficult to evaluate directly","Already fully simplified, requiring no further evaluation"], answer:2},
@@ -2176,6 +2185,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: The Compton Effect and Photon Momentum", summary:"Grade 12 Physics strand: the Compton effect describes the change in wavelength of a photon after it scatters off a charged particle, providing strong evidence that photons carry momentum in addition to energy.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=D7n9gFdcSno",
    quiz:[
      {q:"The Compton effect describes a change in ___ of a photon after it scatters off a charged particle.", options:["Colour of the particle it scatters from, with no connection to the photon itself","Mass, which photons do not possess","A concept unrelated to photon behaviour","Wavelength"], answer:3},
      {q:"The Compton effect provides strong evidence that photons carry ___ in addition to energy.", options:["Momentum","Mass, in every measurable interaction","Electric charge, which photons do not carry","A property entirely unrelated to photon behaviour"], answer:0},

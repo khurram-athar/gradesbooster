@@ -12195,6 +12195,21 @@
         "summary": "Grade 12 Advanced Functions comprehensive review: this lesson revisits matrices and determinants, complex numbers in polar form, sequence convergence, constrained optimization, and function symmetry across the Days 41-49 batch.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=3ROzG6n4yMc",
+        "videoUrls": [
+          {
+            "label": "Matrices and Determinants",
+            "url": "https://www.youtube.com/watch?v=3ROzG6n4yMc"
+          },
+          {
+            "label": "Complex Numbers in Polar Form",
+            "url": "https://www.youtube.com/watch?v=J6TnZxUUzqU"
+          },
+          {
+            "label": "Constrained Optimization",
+            "url": "https://www.youtube.com/watch?v=lx8RcYcYVuU"
+          }
+        ],
         "quiz": [
           {
             "q": "A matrix has an inverse only if its determinant is ___.",
@@ -12254,6 +12269,21 @@
         "summary": "Grade 12 Calculus comprehensive review: this lesson revisits vector-valued functions, slope fields, power series, logistic growth models, and biological population applications across the Days 41-49 batch.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=40r56pX4mqA",
+        "videoUrls": [
+          {
+            "label": "Vector-Valued Functions",
+            "url": "https://www.youtube.com/watch?v=40r56pX4mqA"
+          },
+          {
+            "label": "Slope Fields",
+            "url": "https://www.youtube.com/watch?v=Wr9VOum9Co0"
+          },
+          {
+            "label": "Power Series",
+            "url": "https://www.youtube.com/watch?v=EGni2-m5yxM"
+          }
+        ],
         "quiz": [
           {
             "q": "Vector-valued functions are often used to describe an object’s ___ over time.",
@@ -12313,6 +12343,21 @@
         "summary": "Grade 12 Physics comprehensive review: this lesson revisits the Doppler effect, blackbody radiation, semiconductors, general relativity, quark confinement, superconductivity, resonance, orbital mechanics, and renewable energy.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=WiTQxNaKAYA",
+        "videoUrls": [
+          {
+            "label": "Doppler Effect",
+            "url": "https://www.youtube.com/watch?v=WiTQxNaKAYA"
+          },
+          {
+            "label": "Blackbody Radiation",
+            "url": "https://www.youtube.com/watch?v=DHG61XPuWyk"
+          },
+          {
+            "label": "General Relativity",
+            "url": "https://www.youtube.com/watch?v=tzQC3uYL67U"
+          }
+        ],
         "quiz": [
           {
             "q": "The Doppler effect describes a change in observed ___ of a wave.",
@@ -12620,60 +12665,61 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Writing: The Manifesto as Literary Form",
-        "summary": "Grade 12 English strand: a manifesto is a public declaration of beliefs, intentions, or a call to action, often using bold, direct language and repetition to persuade readers toward a specific artistic, political, or social position.",
+        "title": "Persuasive Writing: Repetition and Rhetorical Devices for Impact",
+        "summary": "Grade 12 English strand: persuasive writers use rhetorical devices like anaphora (repeating words or phrases at the start of successive clauses) to build emphasis, rhythm, and emotional impact, making a declaration more memorable and forceful.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=mKpXEoeH93I",
         "quiz": [
           {
-            "q": "A manifesto is a public declaration of beliefs, intentions, or a call to ___.",
+            "q": "A rhetorical device is best described as ___.",
             "options": [
+              "A grammar error writers should always avoid",
               "A concept unrelated to persuasive writing",
-              "Complete inaction, discouraging any response from readers",
-              "Action",
-              "Silence, with no attempt to influence any reader"
+              "A technique used deliberately to create a specific effect on the reader or listener",
+              "A random word choice with no persuasive purpose"
             ],
             "answer": 2
           },
           {
-            "q": "Manifestos often use bold, direct language and ___ to persuade readers.",
+            "q": "Anaphora specifically refers to ___.",
             "options": [
-              "Repetition",
-              "Only passive, hesitant statements with no clear position",
-              "A concept unrelated to persuasive technique",
-              "Deliberately vague, ambiguous phrasing throughout"
+              "Repeating a word or phrase at the start of successive clauses or sentences",
+              "A concept unrelated to rhetorical repetition",
+              "Never repeating any word within a passage",
+              "Repeating an entire paragraph word for word at random points"
             ],
             "answer": 0
           },
           {
-            "q": "A manifesto is typically written to advocate for a specific ___ position.",
+            "q": "Why might a speaker or writer use repetition in a persuasive piece?",
             "options": [
-              "Purely mathematical, with no connection to ideas or beliefs",
-              "Entirely neutral, taking no position on any issue",
-              "Artistic, political, or social",
-              "A concept unrelated to persuasive writing"
+              "Repetition always weakens a persuasive argument",
+              "A reason unrelated to persuasive technique",
+              "Repetition builds emphasis, rhythm, and makes key ideas more memorable",
+              "Repeating words is only ever accidental, never intentional"
             ],
             "answer": 2
           },
           {
-            "q": "Why might a writer use short, forceful sentences when composing a manifesto?",
+            "q": "In Martin Luther King Jr.'s speech, the repeated phrase \"I have a dream\" at the start of several sentences is an example of ___.",
             "options": [
-              "Short, forceful sentences can convey urgency and conviction, strengthening the persuasive impact of the declaration",
-              "This concept has no connection to the stylistic choices of persuasive writing",
-              "Manifestos are never intended to persuade or convince a reader",
-              "Short sentences always weaken the persuasive impact of a manifesto"
+              "A concept unrelated to rhetorical devices",
+              "Anaphora",
+              "A grammar mistake",
+              "A phrase used only once, with no repetition"
             ],
-            "answer": 0
+            "answer": 1
           },
           {
-            "q": "Why has the manifesto remained a significant literary and political form across different historical movements?",
+            "q": "Why is rhetorical repetition especially effective in persuasive speeches meant to be heard aloud?",
             "options": [
-              "This concept has no connection to how ideas are publicly communicated",
-              "Manifestos have never played any significant role in historical or artistic movements",
-              "This literary form has no lasting relevance across different time periods",
-              "It offers a direct, memorable way for a group or individual to publicly articulate and advocate for change"
+              "Listeners never notice repeated phrases in spoken language",
+              "This concept has no connection to spoken persuasive language",
+              "A repeated phrase can anchor listeners and build emotional momentum as the speech builds toward its point",
+              "Repetition only works in written text, never in speech"
             ],
-            "answer": 3
+            "answer": 2
           }
         ]
       },
@@ -12683,6 +12729,7 @@
         "summary": "Grade 12 Advanced Functions strand: solving a system of non-linear equations means finding the values that satisfy two or more equations simultaneously, often using substitution or graphical methods since these systems can have multiple or no solutions.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=hmNxdhA0jkQ",
         "quiz": [
           {
             "q": "Solving a system of non-linear equations means finding values that satisfy ___ simultaneously.",
@@ -12742,6 +12789,7 @@
         "summary": "Grade 12 Calculus strand: the Squeeze Theorem determines the limit of a function by trapping it between two other functions with the same known limit at a given point, useful for functions that are difficult to evaluate directly.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=igJdDN-DPgA",
         "quiz": [
           {
             "q": "The Squeeze Theorem determines the limit of a function by trapping it between ___.",
@@ -12801,6 +12849,7 @@
         "summary": "Grade 12 Physics strand: the Compton effect describes the change in wavelength of a photon after it scatters off a charged particle, providing strong evidence that photons carry momentum in addition to energy.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=D7n9gFdcSno",
         "quiz": [
           {
             "q": "The Compton effect describes a change in ___ of a photon after it scatters off a charged particle.",

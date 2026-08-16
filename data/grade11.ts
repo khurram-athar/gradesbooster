@@ -2152,6 +2152,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"English", title:"Writing: The Braided Essay — Weaving Multiple Narrative Threads", summary:"Grade 11 English strand: a braided essay interweaves two or more distinct narrative threads or topics, alternating between them so that their juxtaposition creates new meaning without a single linear structure.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=X8VqVsIFWiI",
    quiz:[
      {q:"A braided essay interweaves ___.", options:["Two or more distinct narrative threads or topics","A concept unrelated to essay structure","Only a single, uninterrupted narrative thread","A strictly chronological retelling of one event only"], answer:0},
      {q:"Why might a braided essay alternate between its separate threads rather than presenting them one after another?", options:["The juxtaposition between threads can create new meaning through their connections","Alternating between threads always confuses the reader with no benefit","This structure removes any possible connection between ideas","A reason unrelated to essay structure"], answer:0},
@@ -2161,6 +2162,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Rational Inequalities", summary:"Grade 11 Functions strand: solving a rational inequality involves finding the values of a variable that make an expression greater than or less than another, while carefully accounting for values that make the denominator zero.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=ZjeMdXV0QMg",
    quiz:[
      {q:"A rational inequality involves an expression with a variable in the ___.", options:["A concept unrelated to rational inequalities","Exponent only, with no connection to a denominator","Numerator only, with no connection to fractions","Denominator"], answer:3},
      {q:"When solving a rational inequality, why must values that make the denominator zero be excluded from the solution?", options:["Denominators never affect the solution to an inequality","This restriction has no connection to solving rational inequalities","Division by zero is undefined, so those values cannot be part of the solution","These values are always automatically included in the solution"], answer:2},
