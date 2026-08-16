@@ -12815,6 +12815,7 @@
         "summary": "Grade 4 Language strand: a root word is the base part of a word that carries its core meaning, and many other words can be built from it by adding prefixes or suffixes.",
         "resourceLabel": "TVO Learn: Grade 4 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "videoUrl": "https://www.youtube.com/watch?v=jWyX8vl6kMs",
         "quiz": [
           {
             "q": "A root word is ___.",
@@ -12874,6 +12875,7 @@
         "summary": "Grade 4 Math strand: a protractor is a tool used to measure the size of an angle in degrees, and angles can be classified as acute, right, obtuse, or straight.",
         "resourceLabel": "TVO Learn: Grade 4 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=_erF7VM5-zI",
         "quiz": [
           {
             "q": "A protractor is used to ___.",
@@ -12933,6 +12935,7 @@
         "summary": "Grade 4 Science strand: sound is produced when an object vibrates, creating waves of energy that travel through air or another medium to our ears.",
         "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=y3uSZeDPBGo",
         "quiz": [
           {
             "q": "Sound is produced when an object ___.",
@@ -12992,6 +12995,7 @@
         "summary": "Grade 4 Social Studies strand: different regions of Canada rely on different industries, such as fishing on the coasts, farming on the Prairies, and manufacturing in central Canada.",
         "resourceLabel": "TVO Learn: Grade 4 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=R7PZwYNb8Ao",
         "quiz": [
           {
             "q": "An industry is ___.",
@@ -38936,6 +38940,2426 @@
               "Managing national parks"
             ],
             "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 161,
+    "label": "Day 161 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Interrogative Pronouns — Who, Whom, Whose, Which, and What",
+        "summary": "Grade 4 Language strand: interrogative pronouns, including who, whom, whose, which, and what, are used to ask questions and stand in for the noun being asked about.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Which interrogative pronoun asks about a person acting as the subject?",
+            "options": [
+              "Whom",
+              "Whose",
+              "Who",
+              "Which"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which interrogative pronoun asks about a person as the object of a verb or preposition?",
+            "options": [
+              "What",
+              "Whom",
+              "Who",
+              "Which"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which interrogative pronoun asks about ownership?",
+            "options": [
+              "Who",
+              "Which",
+              "Whose",
+              "What"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which interrogative pronoun asks someone to choose among specific options?",
+            "options": [
+              "Which",
+              "Whose",
+              "What",
+              "Who"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do writers use interrogative pronouns?",
+            "options": [
+              "To ask questions and identify unknown information",
+              "To state a fact with certainty",
+              "To give a command",
+              "To join two independent sentences"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Points, Lines, Line Segments, and Rays",
+        "summary": "Grade 4 Math strand: a point marks an exact location in space, a line extends infinitely in both directions, a line segment has two fixed endpoints, and a ray starts at one point and extends infinitely in a single direction.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a point in geometry?",
+            "options": [
+              "A line that never ends",
+              "A shape with four sides",
+              "An exact location in space with no size",
+              "A measurement of an angle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How far does a line extend?",
+            "options": [
+              "Only between two endpoints",
+              "Only in one direction",
+              "It does not extend at all",
+              "Infinitely in both directions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What makes a line segment different from a line?",
+            "options": [
+              "A line segment has no length",
+              "A line segment has two fixed endpoints",
+              "A line segment is always curved",
+              "A line segment extends forever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a ray?",
+            "options": [
+              "A shape with three sides",
+              "A line with two endpoints",
+              "A single point with no direction",
+              "A part of a line that starts at one point and extends infinitely in one direction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do mathematicians distinguish between lines, line segments, and rays?",
+            "options": [
+              "Distinguishing between them has no mathematical use",
+              "Each has a different length and direction that affects how it is used",
+              "They are all exactly identical",
+              "Only rays are ever used in geometry"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Introduction to Cells — The Basic Building Blocks of Living Things",
+        "summary": "Grade 4 Science strand: all living things are made up of cells, the basic units of life, and cells can be so small that a microscope is needed to see them clearly.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are cells?",
+            "options": [
+              "A type of rock",
+              "A type of weather pattern",
+              "A form of energy",
+              "The basic building blocks of living things"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What tool is often needed to see individual cells?",
+            "options": [
+              "A thermometer",
+              "A telescope",
+              "A compass",
+              "A microscope"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do all living things have cells?",
+            "options": [
+              "Only humans have cells",
+              "Yes, all living things are made of one or more cells",
+              "No, only animals have cells",
+              "No, only plants have cells"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a single-celled organism have compared to a human?",
+            "options": [
+              "No connection to being a living thing",
+              "Just one cell instead of trillions of cells",
+              "No cells at all",
+              "The exact same number of cells as a human"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists study cells?",
+            "options": [
+              "To understand how living things grow, function, and stay alive",
+              "Cells have no connection to how living things work",
+              "Studying cells has no scientific value",
+              "Cells are not related to life at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Mongol Empire — Conquest and Trade Across Asia",
+        "summary": "Grade 4 Social Studies strand: the Mongol Empire, led by Genghis Khan, became one of the largest empires in history, connecting distant regions of Asia and Europe through conquest and extensive trade routes.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Who founded the Mongol Empire?",
+            "options": [
+              "Julius Caesar",
+              "Alexander the Great",
+              "Hammurabi",
+              "Genghis Khan"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What made the Mongol Empire notable in size?",
+            "options": [
+              "It became one of the largest empires in history",
+              "It only existed for a single day",
+              "It had no connection to trade",
+              "It never expanded beyond one small village"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did the Mongol Empire affect trade between distant regions?",
+            "options": [
+              "It only allowed trade within one city",
+              "It had no effect on trade at all",
+              "It completely blocked all trade",
+              "It helped connect trade routes across Asia and Europe"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What skill were Mongol warriors especially known for?",
+            "options": [
+              "Building pyramids",
+              "Deep sea navigation",
+              "Farming rice paddies",
+              "Skilled horseback riding and archery"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do historians still study the Mongol Empire today?",
+            "options": [
+              "It only affected a small unimportant area",
+              "It never interacted with other civilizations",
+              "It reshaped trade, culture, and borders across a huge part of the world",
+              "It has no historical importance"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "label": "Day 162 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Reflexive Pronouns",
+        "summary": "Grade 4 Language strand: reflexive pronouns, such as myself, yourself, himself, herself, itself, ourselves, yourselves, and themselves, are used when the subject and object of a sentence refer to the same person or thing.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a reflexive pronoun?",
+            "options": [
+              "A pronoun used when the subject and object of a sentence are the same",
+              "A word that joins two sentences",
+              "A type of punctuation mark",
+              "A pronoun that only names an object"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which reflexive pronoun matches the subject I?",
+            "options": [
+              "Yourself",
+              "Themselves",
+              "Myself",
+              "Himself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a reflexive pronoun?",
+            "options": [
+              "She hurt their while running.",
+              "She hurt hers while running.",
+              "She hurt she while running.",
+              "She hurt herself while running."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which reflexive pronoun matches the subject they?",
+            "options": [
+              "Itself",
+              "Myself",
+              "Himself",
+              "Themselves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are reflexive pronouns useful in writing?",
+            "options": [
+              "They are never used in complete sentences",
+              "They remove the need for a verb",
+              "They always change the subject of a sentence",
+              "They show the subject and object of a sentence are the same person or thing"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Multiplying a 3-Digit Number by a 2-Digit Number",
+        "summary": "Grade 4 Math strand: multiplying a 3-digit number by a 2-digit number involves breaking the 2-digit number into tens and ones, multiplying each part separately, and adding the partial products together.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a common first step to multiply a 3-digit number by a 2-digit number?",
+            "options": [
+              "Add the two numbers together",
+              "Round both numbers to zero",
+              "Break the 2-digit number into tens and ones",
+              "Divide the numbers first"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 213 multiplied by 12?",
+            "options": [
+              "2,356",
+              "2,600",
+              "2,486",
+              "2,556"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 145 multiplied by 21?",
+            "options": [
+              "3,145",
+              "2,945",
+              "3,245",
+              "3,045"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After multiplying by the tens digit and the ones digit separately, what should you do next?",
+            "options": [
+              "Divide both products by 10",
+              "Add the two partial products together",
+              "Subtract the smaller product from the larger one",
+              "Multiply the two partial products together"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is breaking numbers into tens and ones helpful when multiplying larger numbers?",
+            "options": [
+              "It only works with 1-digit numbers",
+              "It removes the need for any calculation",
+              "It makes the multiplication easier to manage in smaller steps",
+              "It always produces an incorrect answer"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Elements, Compounds, and Mixtures — Classifying Matter",
+        "summary": "Grade 4 Science strand: matter can be classified as an element, a pure substance made of only one type of atom, a compound, made of two or more elements chemically joined, or a mixture, made of substances that are combined but not chemically joined.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is an element?",
+            "options": [
+              "A type of rock only",
+              "A mixture of many substances",
+              "A liquid that cannot be separated",
+              "A pure substance made of only one type of atom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a compound?",
+            "options": [
+              "A single element with no other substances",
+              "Two or more elements chemically joined together",
+              "A form of energy",
+              "A type of light wave"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a mixture?",
+            "options": [
+              "A type of rock",
+              "A compound with exactly two elements",
+              "A substance made of only one type of atom",
+              "A combination of substances that are not chemically joined"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of a mixture?",
+            "options": [
+              "Pure carbon",
+              "A salad with many separate ingredients",
+              "A single gold atom",
+              "Pure oxygen gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to classify matter as elements, compounds, or mixtures?",
+            "options": [
+              "It helps scientists understand what a substance is made of and how it behaves",
+              "Matter cannot be classified in any way",
+              "Classifying matter has no scientific value",
+              "All matter is exactly identical"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Bay of Fundy — Home to the Worlds Highest Tides",
+        "summary": "Grade 4 Social Studies strand: the Bay of Fundy, located between Nova Scotia and New Brunswick, is famous for having the highest tides in the world, caused by the unique shape of the bay funnelling huge volumes of water.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "In which two provinces is the Bay of Fundy located?",
+            "options": [
+              "Manitoba and Saskatchewan",
+              "Nova Scotia and New Brunswick",
+              "British Columbia and Alberta",
+              "Ontario and Quebec"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Bay of Fundy famous for?",
+            "options": [
+              "Having no tides at all",
+              "Being the largest lake in Canada",
+              "Having the highest tides in the world",
+              "Being located in the Arctic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What causes the Bay of Fundy to have such extreme tides?",
+            "options": [
+              "The bay never experiences changing water levels",
+              "The unique shape of the bay funnels large volumes of water",
+              "The tides are caused by wind alone",
+              "The bay has no connection to the ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How much can water levels change during a tide cycle in the Bay of Fundy?",
+            "options": [
+              "By less than one centimetre",
+              "Only during the winter season",
+              "By many metres between high and low tide",
+              "Water levels never change there"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists and tourists be interested in the Bay of Fundy?",
+            "options": [
+              "It has no scientific or tourism value",
+              "It is identical to every other bay in Canada",
+              "Its dramatic tides make it a unique natural and scientific attraction",
+              "It is located far from any coastline"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "label": "Day 163 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Possessive Pronouns",
+        "summary": "Grade 4 Language strand: possessive pronouns, such as mine, yours, his, hers, its, ours, and theirs, show ownership and replace a noun instead of coming before one.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What do possessive pronouns show?",
+            "options": [
+              "A question being asked",
+              "A location in a sentence",
+              "Ownership of something",
+              "An action taking place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of a possessive pronoun?",
+            "options": [
+              "These",
+              "Them",
+              "Theirs",
+              "They"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a possessive pronoun?",
+            "options": [
+              "That book is I.",
+              "That book is me.",
+              "That book is my.",
+              "That book is mine."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a possessive pronoun different from a possessive noun like Sarahs?",
+            "options": [
+              "A possessive pronoun is always spelled with an apostrophe",
+              "A possessive pronoun is only used in questions",
+              "A possessive pronoun never shows ownership",
+              "A possessive pronoun replaces the noun entirely instead of attaching to it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are possessive pronouns useful in writing?",
+            "options": [
+              "They show ownership without repeating the noun",
+              "They replace verbs in a sentence",
+              "They remove all meaning from a sentence",
+              "They can only be used with plural nouns"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Constructing and Interpreting Line Plots",
+        "summary": "Grade 4 Math strand: a line plot displays data along a number line using symbols such as Xs or dots to show how many times each value occurs, making it easy to see the shape and spread of a data set.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What does a line plot use to show how many times a value occurs?",
+            "options": [
+              "Slices of a circle",
+              "Bars of different colours",
+              "Symbols such as Xs or dots stacked above a number line",
+              "Multiple separate graphs"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a line plot help you quickly see about a data set?",
+            "options": [
+              "Nothing useful about the data",
+              "The shape and spread of the data",
+              "Only the largest value in the set",
+              "The exact title of the survey"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If three Xs are stacked above the number 5 on a line plot, what does that mean?",
+            "options": [
+              "The value 5 occurred only once",
+              "The data set has no values at all",
+              "The value 5 occurred three times in the data",
+              "The number 3 occurred five times"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one advantage of a line plot for a small data set?",
+            "options": [
+              "It hides all individual data points",
+              "It only works with very large data sets",
+              "It shows every individual data point clearly",
+              "It cannot show repeated values"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a class use a line plot to record data like favourite pet or shoe size?",
+            "options": [
+              "It removes the need to collect any data",
+              "It gives a simple visual way to compare how often each value appears",
+              "Line plots cannot be used for that kind of data",
+              "It only works with negative numbers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Spiders and Other Arachnids — Unique Adaptations",
+        "summary": "Grade 4 Science strand: spiders and other arachnids, such as scorpions and ticks, have eight legs and two main body parts, and many spiders have special adaptations like silk-spinning glands used to build webs for catching prey.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "How many legs do spiders and other arachnids typically have?",
+            "options": [
+              "Ten",
+              "Six",
+              "Four",
+              "Eight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many main body parts does a typical spider have?",
+            "options": [
+              "Four",
+              "Two",
+              "Three",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one adaptation many spiders use to catch prey?",
+            "options": [
+              "Growing wings",
+              "Producing bright flowers",
+              "Spinning silk webs",
+              "Breathing underwater only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an arachnid other than a spider?",
+            "options": [
+              "A bee",
+              "A scorpion",
+              "A ladybug",
+              "A butterfly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How are arachnids different from insects?",
+            "options": [
+              "Arachnids have eight legs while insects have six",
+              "Insects always have more body parts than arachnids",
+              "Arachnids have wings while insects never do",
+              "Arachnids have no legs at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: David Thompson — Mapping Western Canada",
+        "summary": "Grade 4 Social Studies strand: David Thompson was an explorer and surveyor who mapped vast areas of western Canada in the early 1800s, creating detailed maps that helped guide later settlement and trade.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What was David Thompson known for?",
+            "options": [
+              "Mapping vast areas of western Canada",
+              "Founding the city of Toronto",
+              "Leading a naval fleet",
+              "Building the CN Tower"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What job did David Thompson do to create his maps?",
+            "options": [
+              "He worked only as a farmer",
+              "He never travelled anywhere",
+              "He worked only as a baker",
+              "He worked as an explorer and surveyor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When did David Thompson complete much of his mapping work?",
+            "options": [
+              "In the early 1800s",
+              "In the twenty-first century",
+              "In ancient times",
+              "During the Ice Age"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How did David Thompsons maps help later Canadians?",
+            "options": [
+              "They only showed oceans with no land",
+              "They guided later settlement and trade routes",
+              "They were immediately lost and never used",
+              "They had no use to anyone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is David Thompson remembered as an important figure in Canadian history?",
+            "options": [
+              "He never explored any part of Canada",
+              "His work was never recorded",
+              "His detailed maps greatly expanded knowledge of western Canadas geography",
+              "He has no connection to Canadian history"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "label": "Day 164 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Motifs in Literature",
+        "summary": "Grade 4 Language strand: a motif is a recurring image, symbol, or idea that appears throughout a text and helps reinforce its theme or deeper meaning.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a motif in literature?",
+            "options": [
+              "The title of a book",
+              "A type of punctuation mark",
+              "A single event that happens only once",
+              "A recurring image, symbol, or idea throughout a text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a motif help reinforce in a story?",
+            "options": [
+              "The font used in printing",
+              "The authors name",
+              "The theme or deeper meaning of the text",
+              "The page numbers of the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If the colour red appears repeatedly around moments of danger in a story, what might this be an example of?",
+            "options": [
+              "A grammar rule",
+              "A motif connected to danger or warning",
+              "A random unrelated detail",
+              "A type of punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is a motif different from a symbol used only once?",
+            "options": [
+              "A motif has no connection to meaning",
+              "A motif repeats throughout the text while a single symbol may appear only once",
+              "A motif never repeats",
+              "A motif and a single symbol are exactly the same thing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might authors use motifs in their writing?",
+            "options": [
+              "To subtly reinforce important ideas throughout a story",
+              "Motifs are never used in literature",
+              "To remove meaning from a text",
+              "To confuse readers with no purpose"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: Using Tree Diagrams to List Possible Outcomes",
+        "summary": "Grade 4 Math strand: a tree diagram is a branching diagram used to list all possible outcomes of an event or combination of events, making it easier to count outcomes and calculate probability.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a tree diagram used for?",
+            "options": [
+              "Listing all possible outcomes of an event",
+              "Comparing prices at a store",
+              "Measuring the length of an object",
+              "Showing the temperature over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you flip a coin and then roll a die, how would a tree diagram help?",
+            "options": [
+              "It would show every possible combination of coin and die results",
+              "It would only show the coin results",
+              "It would show no useful information",
+              "It would only show the die results"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many outcomes are shown by a tree diagram for flipping two coins?",
+            "options": [
+              "Two",
+              "Four",
+              "Six",
+              "Eight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does each branch of a tree diagram usually represent?",
+            "options": [
+              "One possible choice or outcome at that stage",
+              "A type of punctuation mark",
+              "A fixed number that never changes",
+              "An unrelated topic"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are tree diagrams useful in probability?",
+            "options": [
+              "They only work with one outcome at a time",
+              "They have no connection to probability",
+              "They help organize and count all possible outcomes clearly",
+              "They make outcomes impossible to count"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Layers of a Rainforest — Canopy, Understory, and Forest Floor",
+        "summary": "Grade 4 Science strand: a tropical rainforest has distinct layers, including the emergent layer of tallest trees, the canopy that forms a dense leafy roof, the understory of smaller plants, and the forest floor, each supporting different plants and animals.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the canopy of a rainforest?",
+            "options": [
+              "A type of river found only in rainforests",
+              "A dense leafy layer formed by the crowns of tall trees",
+              "The layer of soil beneath the forest",
+              "The tallest single tree in the forest"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is found at the very top of a rainforest, above the canopy?",
+            "options": [
+              "The root layer",
+              "The emergent layer of the tallest trees",
+              "The forest floor",
+              "The understory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the understory of a rainforest?",
+            "options": [
+              "A layer found only underwater",
+              "A layer of smaller plants growing beneath the canopy",
+              "The tallest layer of trees",
+              "A layer made entirely of rock"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does very little sunlight reach the forest floor of a rainforest?",
+            "options": [
+              "The canopy has no effect on sunlight",
+              "Rainforests receive no sunlight at all",
+              "The dense canopy blocks most sunlight from passing through",
+              "The forest floor is located underground"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do rainforest layers support different types of plants and animals?",
+            "options": [
+              "Only the forest floor supports any life",
+              "Each layer offers different amounts of light, temperature, and space",
+              "All layers are exactly identical",
+              "Rainforest layers have no effect on living things"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Bluenose — A Famous Canadian Sailing Ship",
+        "summary": "Grade 4 Social Studies strand: the Bluenose was a famous Canadian racing schooner built in Nova Scotia in the 1920s, celebrated for its speed and skill, and its image now appears on the Canadian dime.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What type of ship was the Bluenose?",
+            "options": [
+              "A submarine",
+              "A cruise ship",
+              "A racing schooner",
+              "A cargo tanker"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which province was the Bluenose built?",
+            "options": [
+              "Nova Scotia",
+              "Manitoba",
+              "British Columbia",
+              "Alberta"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was the Bluenose especially celebrated for?",
+            "options": [
+              "Being the largest ship ever built",
+              "Being used only for fishing trips",
+              "Never winning any races",
+              "Its speed and sailing skill"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does the image of the Bluenose appear today?",
+            "options": [
+              "On the Canadian dime",
+              "On the Canadian flag",
+              "On the back of the twenty dollar bill",
+              "On provincial licence plates"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Bluenose considered an important Canadian symbol?",
+            "options": [
+              "It represents Canadian maritime skill and pride from the early twentieth century",
+              "It never achieved any recognition",
+              "It was built in a different country",
+              "It has no connection to Canadian history"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "label": "Day 165 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying an Unreliable Narrator",
+        "summary": "Grade 4 Language strand: an unreliable narrator is a storyteller whose account of events may be inaccurate, biased, or incomplete, requiring readers to question and look beyond what is being told.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is an unreliable narrator?",
+            "options": [
+              "A character who never speaks in the story",
+              "The author of the book",
+              "A storyteller whose account may be inaccurate or biased",
+              "A narrator who always tells the complete truth"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might readers need to question an unreliable narrators account?",
+            "options": [
+              "Because unreliable narrators are always completely accurate",
+              "Because unreliable narrators cannot tell a story",
+              "Because the narrator never appears in the story",
+              "Because the narrators version of events may be incomplete or biased"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might cause a narrator to be unreliable?",
+            "options": [
+              "Speaking in the first person",
+              "Describing the setting",
+              "Being the main character of the story",
+              "Limited knowledge, strong bias, or a reason to hide the truth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How can readers detect that a narrator might be unreliable?",
+            "options": [
+              "Unreliable narrators cannot be detected",
+              "By ignoring the narrator entirely",
+              "By noticing contradictions or gaps between the narrators claims and other details",
+              "By trusting every statement completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author choose to use an unreliable narrator?",
+            "options": [
+              "Unreliable narrators are never used in literature",
+              "To remove all meaning from a story",
+              "To create suspense or challenge readers to think critically about the story",
+              "To make the story impossible to understand"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Calculating Simple Profit and Loss",
+        "summary": "Grade 4 Math strand: profit occurs when the money earned from selling something is greater than the cost to make or buy it, while a loss occurs when the cost is greater than the money earned.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is profit?",
+            "options": [
+              "The amount lost after a sale",
+              "The price customers pay before tax",
+              "The amount earned that is greater than the cost",
+              "The total cost of making an item"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a loss?",
+            "options": [
+              "When an item is sold for exactly its cost",
+              "When the cost of an item is greater than the money earned from selling it",
+              "When profit is very high",
+              "When no money is spent at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a lemonade stand spends 5 dollars on supplies and earns 12 dollars in sales, what is the profit?",
+            "options": [
+              "12 dollars",
+              "5 dollars",
+              "7 dollars",
+              "17 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a stand spends 10 dollars on supplies and only earns 6 dollars in sales, what happened?",
+            "options": [
+              "The stand broke even exactly",
+              "The stand earned exactly 10 dollars",
+              "The stand had a loss of 4 dollars",
+              "The stand had a profit of 4 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for a business to track profit and loss?",
+            "options": [
+              "It helps determine whether the business is making or losing money",
+              "Tracking profit and loss has no real purpose",
+              "Loss has no effect on a business",
+              "All businesses always make the same amount of profit"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Tsunamis — Powerful Waves Triggered Beneath the Ocean",
+        "summary": "Grade 4 Science strand: a tsunami is a series of powerful ocean waves usually triggered by an underwater earthquake, volcanic eruption, or landslide, capable of causing major flooding when it reaches the shore.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What most commonly triggers a tsunami?",
+            "options": [
+              "A sunny day",
+              "A change in air temperature",
+              "A full moon",
+              "An underwater earthquake"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a tsunami?",
+            "options": [
+              "A type of cloud formation",
+              "A type of underground cave",
+              "A gentle ripple in a pond",
+              "A series of powerful ocean waves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Besides earthquakes, what else can trigger a tsunami?",
+            "options": [
+              "A light breeze",
+              "An underwater volcanic eruption or landslide",
+              "A sunny afternoon",
+              "A change in the tide alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can happen when a tsunami reaches the shore?",
+            "options": [
+              "It has no effect on coastal areas",
+              "It only affects deep ocean water",
+              "It always disappears before reaching land",
+              "It can cause major flooding and damage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists monitor the ocean floor for tsunami warning signs?",
+            "options": [
+              "To warn coastal communities early and help keep people safe",
+              "Warning systems have no effect on safety",
+              "Tsunamis cannot be detected in any way",
+              "Monitoring the ocean floor has no benefit"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Point Pelee National Park and Bird Migration",
+        "summary": "Grade 4 Social Studies strand: Point Pelee National Park, located at the southern tip of mainland Canada, is an important resting point for millions of migrating birds each spring and fall due to its location along a major migration route.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Where is Point Pelee National Park located?",
+            "options": [
+              "In northern Quebec",
+              "On the west coast of British Columbia",
+              "In the Canadian Arctic",
+              "At the southern tip of mainland Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Point Pelee important for birds?",
+            "options": [
+              "It serves as a resting point along a major migration route",
+              "Birds never travel through this area",
+              "It has no connection to bird migration",
+              "It is located far from any migration paths"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During which seasons do large numbers of birds pass through Point Pelee?",
+            "options": [
+              "Only in summer",
+              "Spring and fall",
+              "Birds never pass through in any season",
+              "Only in winter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might birds need resting points like Point Pelee during migration?",
+            "options": [
+              "Migration routes never include stops",
+              "Birds never need to rest during migration",
+              "Resting points make migration impossible",
+              "Long migrations require stops to rest and find food"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do many visitors travel to Point Pelee each year?",
+            "options": [
+              "It is closed to the public",
+              "It has no attractions for visitors",
+              "To observe the large variety of migrating birds",
+              "It has no connection to nature"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "label": "Day 166 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Acrostic Poem",
+        "summary": "Grade 4 Language strand: an acrostic poem uses the letters of a word, spelled vertically down the page, as the starting letter for each line, often describing or relating to that word.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is an acrostic poem?",
+            "options": [
+              "A poem that must rhyme every line",
+              "A poem where each line starts with a letter from a word spelled vertically",
+              "A poem written only about animals",
+              "A poem with no structure at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How are the letters of the key word arranged in an acrostic poem?",
+            "options": [
+              "Scattered randomly",
+              "Vertically down the page",
+              "Hidden inside other words",
+              "Written backwards only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might each line of an acrostic poem describe?",
+            "options": [
+              "Only punctuation marks",
+              "Only numbers",
+              "A completely unrelated topic",
+              "Something related to the meaning of the key word"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If the key word is DOG, how many lines would a basic acrostic poem about DOG likely have?",
+            "options": [
+              "Five",
+              "Three",
+              "Ten",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose to write an acrostic poem?",
+            "options": [
+              "It offers a fun, structured way to explore a word or topic creatively",
+              "It only works for very long words",
+              "Acrostic poems have no creative value",
+              "It removes the need for any words"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Divisibility Rules for 4 and 8",
+        "summary": "Grade 4 Math strand: a number is divisible by 4 if its last two digits form a number divisible by 4, and a number is divisible by 8 if its last three digits form a number divisible by 8.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "How can you tell if a number is divisible by 4?",
+            "options": [
+              "Check only the first digit",
+              "Check if the number is even",
+              "Check if the digits add up to 4",
+              "Check if the last two digits form a number divisible by 4"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is the number 316 divisible by 4?",
+            "options": [
+              "No, 316 cannot be tested",
+              "Yes, because 16 is divisible by 4",
+              "Yes, because 3 is divisible by 4",
+              "No, because 16 is not divisible by 4"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can you tell if a number is divisible by 8?",
+            "options": [
+              "Check if the number is odd",
+              "Check if the digits add up to 8",
+              "Check if the first digit is 8",
+              "Check if the last three digits form a number divisible by 8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is the number 1,240 divisible by 8?",
+            "options": [
+              "No, because 240 is not divisible by 8",
+              "No, only even numbers can be divisible by 8",
+              "Yes, because 1 is divisible by 8",
+              "Yes, because 240 is divisible by 8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are divisibility rules useful in math?",
+            "options": [
+              "They have no practical use",
+              "They make division impossible",
+              "They only work for the number 10",
+              "They help quickly check if a number can be divided evenly without doing long division"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Hurricanes and Tropical Storms",
+        "summary": "Grade 4 Science strand: a hurricane is a powerful rotating storm that forms over warm ocean water, bringing strong winds, heavy rain, and dangerous storm surges when it reaches land.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "Where do hurricanes typically form?",
+            "options": [
+              "Over warm ocean water",
+              "Over frozen tundra",
+              "Underground",
+              "Over mountain peaks"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a key feature of a hurricane?",
+            "options": [
+              "A complete lack of rain",
+              "Freezing temperatures",
+              "No wind at all",
+              "Strong rotating winds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can a hurricane bring when it reaches land?",
+            "options": [
+              "Only cold temperatures",
+              "Only light breezes",
+              "Strong winds, heavy rain, and storm surges",
+              "Only clear skies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a storm surge?",
+            "options": [
+              "A gentle wave with no danger",
+              "A rise in sea level pushed toward the coast by a storm",
+              "A type of desert wind",
+              "A calm ocean current"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do meteorologists closely track hurricanes?",
+            "options": [
+              "Hurricanes never affect people on land",
+              "To warn coastal communities and help people prepare for safety",
+              "Hurricanes cannot be tracked in any way",
+              "Tracking hurricanes has no benefit"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Automotive Industry",
+        "summary": "Grade 4 Social Studies strand: Canadas automotive industry, centred largely in Ontario, manufactures vehicles and parts, providing many jobs and playing a significant role in the countrys economy and trade with other nations.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Which province is most closely associated with Canadas automotive industry?",
+            "options": [
+              "Ontario",
+              "Nova Scotia",
+              "Manitoba",
+              "British Columbia"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Canadas automotive industry primarily manufacture?",
+            "options": [
+              "Only farming equipment",
+              "Only clothing",
+              "Only furniture",
+              "Vehicles and vehicle parts"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the automotive industry provide for many Canadians?",
+            "options": [
+              "Free land",
+              "Unlimited fuel",
+              "Free vehicles for everyone",
+              "Jobs"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the automotive industry connect to Canadas trade with other countries?",
+            "options": [
+              "Vehicles and parts are often exported and imported between countries",
+              "All vehicles are only used within one factory",
+              "The industry has no connection to trade",
+              "Canada never trades vehicles with other countries"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the automotive industry considered important to Canadas economy?",
+            "options": [
+              "It only affects a single small town",
+              "It creates jobs and generates significant economic activity",
+              "It has no impact on the economy",
+              "It provides no products or services"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "label": "Day 167 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Fairy Tale",
+        "summary": "Grade 4 Language strand: a fairy tale is a traditional story that often includes magical elements, a clear conflict between good and evil, and a lesson or happy ending, such as tales featuring castles, enchanted creatures, or brave heroes.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is a common feature of a fairy tale?",
+            "options": [
+              "Only factual scientific information",
+              "Magical elements and a conflict between good and evil",
+              "A list of unrelated statistics",
+              "A formal business letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of ending do many fairy tales have?",
+            "options": [
+              "An ending that is never written",
+              "An ending with no resolution at all",
+              "A happy ending or resolved lesson",
+              "A completely random ending with no connection to the story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might commonly appear as a setting in a fairy tale?",
+            "options": [
+              "An enchanted forest or castle",
+              "A subway station",
+              "A modern office building",
+              "A shopping mall"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role might a fairy tale hero often play in the story?",
+            "options": [
+              "Overcoming a challenge or defeating an evil force",
+              "Ending the story without any actions",
+              "Causing all the problems in the story",
+              "Never appearing in the story"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do many fairy tales include a clear lesson or moral?",
+            "options": [
+              "Morals have no place in fairy tales",
+              "Lessons are only found in nonfiction texts",
+              "Fairy tales never include lessons",
+              "To teach readers something meaningful through the story"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Triangles by Angle Type — Acute, Right, and Obtuse",
+        "summary": "Grade 4 Math strand: triangles can be classified by their angles as acute, where all angles are less than 90 degrees, right, with one angle equal to exactly 90 degrees, or obtuse, with one angle greater than 90 degrees.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What defines an acute triangle?",
+            "options": [
+              "One angle is greater than 90 degrees",
+              "All three angles are less than 90 degrees",
+              "All three angles are equal to 180 degrees",
+              "One angle is exactly 90 degrees"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What defines a right triangle?",
+            "options": [
+              "One angle is exactly 90 degrees",
+              "All angles are less than 45 degrees",
+              "No angles are equal",
+              "All angles are greater than 90 degrees"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What defines an obtuse triangle?",
+            "options": [
+              "All angles are less than 90 degrees",
+              "One angle is exactly 90 degrees",
+              "One angle is greater than 90 degrees",
+              "All angles are exactly equal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Can a triangle have two right angles?",
+            "options": [
+              "No, because the three angles must add up to 180 degrees total",
+              "No triangle can ever have a right angle",
+              "Yes, but only in obtuse triangles",
+              "Yes, every triangle has two right angles"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to classify triangles by their angles?",
+            "options": [
+              "Angles have no connection to triangle shape",
+              "Classifying triangles has no mathematical value",
+              "It helps identify and describe the properties of different triangle shapes",
+              "All triangles have identical angles"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: How Batteries Store and Release Energy",
+        "summary": "Grade 4 Science strand: a battery stores chemical energy and converts it into electrical energy through a chemical reaction inside the battery, allowing it to power devices when connected in a circuit.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of energy does a battery store?",
+            "options": [
+              "Chemical energy",
+              "Wind energy",
+              "Sound energy",
+              "Light energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a battery convert its stored energy into?",
+            "options": [
+              "Electrical energy",
+              "Heat energy only",
+              "Sound energy only",
+              "Nuclear energy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a battery release its stored energy?",
+            "options": [
+              "By freezing",
+              "Through a chemical reaction inside the battery",
+              "By spinning rapidly",
+              "By absorbing sunlight"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is needed for a battery to power a device?",
+            "options": [
+              "The device must have no wires",
+              "The battery must be left disconnected",
+              "The battery must be connected in a complete circuit",
+              "The battery must be exposed to sunlight"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do batteries eventually stop working and need to be replaced or recharged?",
+            "options": [
+              "Their stored chemical energy runs out over time",
+              "Batteries create energy from nothing",
+              "Batteries never run out of energy",
+              "Batteries only work for one second"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Credit Unions and Cooperative Banking in Canada",
+        "summary": "Grade 4 Social Studies strand: a credit union is a cooperative financial institution owned by its members, offering banking services such as savings accounts and loans, with profits often returned to members rather than outside shareholders.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What is a credit union?",
+            "options": [
+              "A national park",
+              "A type of grocery store",
+              "A cooperative financial institution owned by its members",
+              "A government tax office"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who owns a credit union?",
+            "options": [
+              "A foreign government",
+              "Its members",
+              "No one owns a credit union",
+              "A single wealthy owner"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What services might a credit union offer?",
+            "options": [
+              "Only construction services",
+              "Only grocery delivery",
+              "Only postal services",
+              "Savings accounts and loans"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are credit union profits often used?",
+            "options": [
+              "They are often returned to members instead of outside shareholders",
+              "They disappear completely",
+              "They are never distributed to anyone",
+              "They are always given to a foreign government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might someone choose to bank with a credit union?",
+            "options": [
+              "Credit unions are not allowed to offer banking services",
+              "Because it is member-owned and may offer benefits back to its community of members",
+              "Credit unions only serve large businesses",
+              "Credit unions offer no benefits at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "label": "Day 168 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Product Review",
+        "summary": "Grade 4 Language strand: a product review is a piece of writing that describes a product, evaluates its strengths and weaknesses, and offers an opinion to help other readers decide whether to use it.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "What is the purpose of a product review?",
+            "options": [
+              "To tell an imaginary story",
+              "To list unrelated facts",
+              "To evaluate a product and help readers decide whether to use it",
+              "To describe a historical event"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a product review include?",
+            "options": [
+              "The products strengths and weaknesses",
+              "Only the products price with no opinion",
+              "A completely unrelated topic",
+              "A private diary entry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a reviewer include specific examples in a product review?",
+            "options": [
+              "Examples always confuse the reader",
+              "Reviews are not allowed to include examples",
+              "To support their opinion with clear evidence",
+              "Examples have no value in a review"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tone might a balanced product review use?",
+            "options": [
+              "A tone that only criticizes the product",
+              "A fair tone that considers both positives and negatives",
+              "A tone with no opinion expressed at all",
+              "A tone that only praises the product"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do many readers look for product reviews before making a purchase?",
+            "options": [
+              "Reviews help them understand a products quality before buying it",
+              "Product reviews are never read by anyone",
+              "Reviews have no influence on purchases",
+              "Reviews only describe unrelated products"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Multiplying Decimals by 10, 100, and 1,000",
+        "summary": "Grade 4 Math strand: multiplying a decimal by 10, 100, or 1,000 moves the decimal point to the right by one, two, or three places, making the number larger.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What happens to a decimal number when it is multiplied by 10?",
+            "options": [
+              "The decimal point moves one place to the right",
+              "The decimal point moves one place to the left",
+              "The number stays exactly the same",
+              "The number becomes smaller"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 3.45 multiplied by 10?",
+            "options": [
+              "3.45",
+              "0.345",
+              "345",
+              "34.5"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2.6 multiplied by 100?",
+            "options": [
+              "26",
+              "260",
+              "2.6",
+              "0.26"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 0.7 multiplied by 1,000?",
+            "options": [
+              "7",
+              "70",
+              "700",
+              "0.7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to understand how multiplying by 10, 100, and 1,000 affects decimals?",
+            "options": [
+              "It helps with mental math and understanding place value shifts",
+              "Multiplying decimals always produces a smaller number",
+              "Decimals cannot be multiplied by whole numbers",
+              "It has no effect on any calculation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Bioluminescence — Living Things That Glow",
+        "summary": "Grade 4 Science strand: bioluminescence is the ability of certain living things, such as fireflies, jellyfish, and deep-sea fish, to produce their own light through a chemical reaction inside their bodies.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is bioluminescence?",
+            "options": [
+              "The ability of living things to produce their own light",
+              "The ability of living things to change colour",
+              "The ability of living things to fly",
+              "The ability of living things to breathe underwater"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a well-known example of a bioluminescent animal?",
+            "options": [
+              "A robin",
+              "A firefly",
+              "A squirrel",
+              "A deer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do bioluminescent organisms produce light?",
+            "options": [
+              "By using electricity from wires",
+              "By absorbing sunlight during the day",
+              "By reflecting moonlight only",
+              "Through a chemical reaction inside their bodies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where might many bioluminescent creatures be found besides on land?",
+            "options": [
+              "In outer space",
+              "On mountain peaks",
+              "In the desert",
+              "In the deep ocean"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might bioluminescence be useful to an animal?",
+            "options": [
+              "It has no useful purpose for animals",
+              "It always harms the animal that produces it",
+              "It can help attract mates, lure prey, or ward off predators",
+              "It prevents animals from being seen at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of the Ombudsman in Protecting Citizens Rights",
+        "summary": "Grade 4 Social Studies strand: an ombudsman is an independent official who investigates complaints from citizens about unfair treatment by government services, helping ensure fairness and accountability.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What does an ombudsman do?",
+            "options": [
+              "Builds highways across the country",
+              "Investigates complaints from citizens about unfair treatment",
+              "Runs a private business",
+              "Manages a countrys military"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is an ombudsman considered independent?",
+            "options": [
+              "They are controlled entirely by a single business",
+              "They have no connection to government services",
+              "They investigate fairly without taking sides between citizens and government",
+              "They always side with the government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who might contact an ombudsman for help?",
+            "options": [
+              "Only large corporations",
+              "No one is allowed to contact an ombudsman",
+              "A citizen who feels they were treated unfairly by a government service",
+              "Only foreign governments"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one goal of having an ombudsman in government?",
+            "options": [
+              "Preventing citizens from ever complaining",
+              "Ensuring fairness and accountability in public services",
+              "Removing all rules from government",
+              "Making government services less accountable"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the role of an ombudsman valuable to a community?",
+            "options": [
+              "It has no value to citizens",
+              "It removes all citizen rights",
+              "It gives citizens a way to seek fair treatment and hold services accountable",
+              "It only benefits government workers"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "label": "Day 169 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Commonly Confused Words — Their, There, and Theyre",
+        "summary": "Grade 4 Language strand: their, there, and theyre are commonly confused homophones, where their shows possession, there refers to a location, and theyre is a short form of they are.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Which word shows possession, meaning something belongs to a group?",
+            "options": [
+              "Theyre",
+              "Their",
+              "There",
+              "None of these"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word refers to a location or place?",
+            "options": [
+              "Theyre",
+              "Their",
+              "There",
+              "None of these"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is a short form combining they and are?",
+            "options": [
+              "Theyre",
+              "Their",
+              "There",
+              "None of these"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence uses their correctly?",
+            "options": [
+              "The students brought theyre books to class.",
+              "The students brought their books to class.",
+              "The students brought there books to class.",
+              "The students brought books their to class."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important to use their, there, and theyre correctly in writing?",
+            "options": [
+              "These words all mean exactly the same thing",
+              "Spelling never affects meaning",
+              "Using the correct word helps the sentence make clear sense to readers",
+              "These words are never confused by writers"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Ordering Integers on a Number Line",
+        "summary": "Grade 4 Math strand: integers can be ordered from least to greatest by plotting them on a number line, remembering that numbers further to the left are smaller and numbers further to the right are larger, even with negative numbers.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "On a number line, which direction do numbers increase in value?",
+            "options": [
+              "To the right",
+              "To the left",
+              "Upward only",
+              "Downward only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which integer is greater, -2 or 3?",
+            "options": [
+              "-2",
+              "They are equal",
+              "3",
+              "Cannot be determined"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which integer is smaller, -7 or -1?",
+            "options": [
+              "Cannot be determined",
+              "-1",
+              "-7",
+              "They are equal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How would you order -4, 2, and -1 from least to greatest?",
+            "options": [
+              "-4, -1, 2",
+              "-1, -4, 2",
+              "2, -1, -4",
+              "2, -4, -1"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to plot integers on a number line before ordering them?",
+            "options": [
+              "It makes ordering integers impossible",
+              "It has no effect on comparing values",
+              "It gives a clear visual way to compare their positions and values",
+              "Number lines cannot include negative numbers"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Types of Volcanoes — Shield, Cinder Cone, and Composite",
+        "summary": "Grade 4 Science strand: volcanoes can be classified by shape and eruption style, including shield volcanoes with gently sloping sides, cinder cone volcanoes with steep sides built from erupted debris, and composite volcanoes formed from alternating layers of lava and ash.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a shield volcano known for?",
+            "options": [
+              "Having extremely steep sides",
+              "Never erupting at all",
+              "Being made entirely of ice",
+              "Having gently sloping sides formed by runny lava"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a cinder cone volcano built from?",
+            "options": [
+              "Only flowing water",
+              "Erupted debris that piles up into steep sides",
+              "Only solid rock with no eruptions",
+              "Only sand from a desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What forms a composite volcano?",
+            "options": [
+              "A single layer of sand",
+              "A layer of only water",
+              "A single layer of ice",
+              "Alternating layers of lava and ash"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which type of volcano tends to have the steepest, most cone-shaped profile?",
+            "options": [
+              "Shield volcanoes only",
+              "Composite or cinder cone volcanoes",
+              "Volcanoes have no shape",
+              "All volcanoes look identical"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do scientists classify volcanoes into different types?",
+            "options": [
+              "All volcanoes behave in exactly the same way",
+              "Volcanoes cannot be studied or classified",
+              "It helps predict eruption style and potential hazards",
+              "Classifying volcanoes has no scientific use"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Igloos, Longhouses, and Tipis — Traditional Indigenous Housing Across Canada",
+        "summary": "Grade 4 Social Studies strand: Indigenous peoples across Canada developed different types of traditional housing suited to their environment and way of life, including igloos built from snow in the Arctic, longhouses built by Iroquoian peoples, and tipis used by Plains peoples.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "What material were traditional igloos built from?",
+            "options": [
+              "Blocks of snow and ice",
+              "Stone bricks",
+              "Wood logs",
+              "Woven grass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which group of Indigenous peoples traditionally built longhouses?",
+            "options": [
+              "Only peoples living on the Pacific coast",
+              "Iroquoian peoples",
+              "No Indigenous peoples used longhouses",
+              "Only peoples living in the Arctic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What were tipis traditionally used for?",
+            "options": [
+              "Storage buildings for grain",
+              "Structures used only for fishing",
+              "Permanent housing used only in cities",
+              "Portable housing used by Plains peoples"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did traditional Indigenous housing styles vary across Canada?",
+            "options": [
+              "Different environments and ways of life called for different housing designs",
+              "Housing style had no connection to environment",
+              "Indigenous peoples never built any housing",
+              "All Indigenous housing was built exactly the same way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it valuable to learn about traditional Indigenous housing?",
+            "options": [
+              "It has no educational value",
+              "It shows how Indigenous peoples adapted skillfully to their environments",
+              "Traditional housing has no connection to Indigenous cultures",
+              "These housing styles were never actually used"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "label": "Day 170 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Pronouns, Motifs, and Narrators",
+        "summary": "Grade 4 Language strand review: students revisit interrogative pronouns, reflexive pronouns, possessive pronouns, motifs in literature, and unreliable narrators.",
+        "resourceLabel": "TVO Learn: Grade 4 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-language",
+        "quiz": [
+          {
+            "q": "Which interrogative pronoun asks about a person acting as the subject?",
+            "options": [
+              "Whom",
+              "Which",
+              "Whose",
+              "Who"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a reflexive pronoun?",
+            "options": [
+              "A pronoun used when the subject and object of a sentence are the same",
+              "A type of punctuation mark",
+              "A pronoun that only names an object",
+              "A word that joins two sentences"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do possessive pronouns show?",
+            "options": [
+              "A location in a sentence",
+              "An action taking place",
+              "Ownership of something",
+              "A question being asked"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a motif in literature?",
+            "options": [
+              "A single event that happens only once",
+              "A type of punctuation mark",
+              "The title of a book",
+              "A recurring image, symbol, or idea throughout a text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an unreliable narrator?",
+            "options": [
+              "A storyteller whose account may be inaccurate or biased",
+              "A narrator who always tells the complete truth",
+              "A character who never speaks in the story",
+              "The author of the book"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Geometry, Multiplication, and Data",
+        "summary": "Grade 4 Math strand review: students revisit points lines and rays, multiplying a 3-digit number by a 2-digit number, line plots, tree diagrams, and profit and loss.",
+        "resourceLabel": "TVO Learn: Grade 4 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-mathematics",
+        "quiz": [
+          {
+            "q": "What is a point in geometry?",
+            "options": [
+              "A measurement of an angle",
+              "A shape with four sides",
+              "A line that never ends",
+              "An exact location in space with no size"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a common first step to multiply a 3-digit number by a 2-digit number?",
+            "options": [
+              "Divide the numbers first",
+              "Add the two numbers together",
+              "Break the 2-digit number into tens and ones",
+              "Round both numbers to zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a line plot use to show how many times a value occurs?",
+            "options": [
+              "Symbols such as Xs or dots stacked above a number line",
+              "Slices of a circle",
+              "Bars of different colours",
+              "Multiple separate graphs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a tree diagram used for?",
+            "options": [
+              "Listing all possible outcomes of an event",
+              "Measuring the length of an object",
+              "Comparing prices at a store",
+              "Showing the temperature over time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is profit?",
+            "options": [
+              "The total cost of making an item",
+              "The price customers pay before tax",
+              "The amount lost after a sale",
+              "The amount earned that is greater than the cost"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Cells, Ecosystems, and Natural Forces",
+        "summary": "Grade 4 Science strand review: students revisit cells, elements compounds and mixtures, spiders and arachnids, rainforest layers, and tsunamis.",
+        "resourceLabel": "TVO Learn: Grade 4 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are cells?",
+            "options": [
+              "A form of energy",
+              "A type of weather pattern",
+              "A type of rock",
+              "The basic building blocks of living things"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an element?",
+            "options": [
+              "A mixture of many substances",
+              "A liquid that cannot be separated",
+              "A type of rock only",
+              "A pure substance made of only one type of atom"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many legs do spiders and other arachnids typically have?",
+            "options": [
+              "Eight",
+              "Six",
+              "Ten",
+              "Four"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the canopy of a rainforest?",
+            "options": [
+              "The tallest single tree in the forest",
+              "A type of river found only in rainforests",
+              "The layer of soil beneath the forest",
+              "A dense leafy layer formed by the crowns of tall trees"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What most commonly triggers a tsunami?",
+            "options": [
+              "An underwater earthquake",
+              "A change in air temperature",
+              "A sunny day",
+              "A full moon"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: World Empires, Canadian Landmarks, and Explorers",
+        "summary": "Grade 4 Social Studies strand review: students revisit the Mongol Empire, the Bay of Fundy, David Thompson, the Bluenose, and Point Pelee National Park.",
+        "resourceLabel": "TVO Learn: Grade 4 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-4-social-studies",
+        "quiz": [
+          {
+            "q": "Who founded the Mongol Empire?",
+            "options": [
+              "Alexander the Great",
+              "Genghis Khan",
+              "Hammurabi",
+              "Julius Caesar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which two provinces is the Bay of Fundy located?",
+            "options": [
+              "Nova Scotia and New Brunswick",
+              "Manitoba and Saskatchewan",
+              "British Columbia and Alberta",
+              "Ontario and Quebec"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was David Thompson known for?",
+            "options": [
+              "Founding the city of Toronto",
+              "Leading a naval fleet",
+              "Mapping vast areas of western Canada",
+              "Building the CN Tower"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of ship was the Bluenose?",
+            "options": [
+              "A cruise ship",
+              "A racing schooner",
+              "A cargo tanker",
+              "A submarine"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where is Point Pelee National Park located?",
+            "options": [
+              "At the southern tip of mainland Canada",
+              "In the Canadian Arctic",
+              "In northern Quebec",
+              "On the west coast of British Columbia"
+            ],
+            "answer": 0
           }
         ]
       }

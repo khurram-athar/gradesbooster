@@ -14975,10 +14975,11 @@
     "subjects": [
       {
         "subject": "Language",
-        "title": "Word Families: -op and -og",
-        "summary": "Students learn word families -op and -og, groups of words that share the same ending sound and spelling pattern, such as hop and top, or dog and log.",
-        "resourceLabel": "YouTube: Word Families: -op and -og",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-op%20and%20-og%20grade%201%20educational",
+        "title": "Word Families: -op, -et, -en, and -ed",
+        "summary": "Students learn word families -op, -et, -en, and -ed, groups of words that share the same ending sound and spelling pattern, such as hop and top, wet and jet, hen and pen, or bed and red.",
+        "resourceLabel": "YouTube: Word Families: -op, -et, -en, and -ed",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Families%3A%20-op%2C%20-et%2C%20-en%2C%20and%20-ed%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=x4E-jeCP5KY",
         "quiz": [
           {
             "q": "Which word belongs to the -op word family?",
@@ -14991,31 +14992,31 @@
             "answer": 2
           },
           {
-            "q": "Which word belongs to the -og word family?",
+            "q": "Which word belongs to the -et word family?",
             "options": [
               "Bed",
               "Sun",
+              "Wet",
+              "Cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word rhymes with hen?",
+            "options": [
               "Cat",
-              "Dog"
+              "Bed",
+              "Sun",
+              "Pen"
             ],
             "answer": 3
           },
           {
-            "q": "Which word rhymes with top?",
+            "q": "Which word rhymes with bed?",
             "options": [
-              "Cat",
-              "Bed",
+              "Bun",
               "Sun",
-              "Hop"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Which word rhymes with log?",
-            "options": [
-              "Bed",
-              "Sun",
-              "Fog",
+              "Red",
               "Cat"
             ],
             "answer": 2
@@ -15042,18 +15043,21 @@
             ]
           },
           {
-            "prompt": "Name one word in the -og word family, like dog or log.",
+            "prompt": "Name one word in the -et word family, like wet or jet.",
             "answers": [
-              "dog",
-              "log",
-              "fog",
-              "jog"
+              "wet",
+              "jet",
+              "pet",
+              "net"
             ]
           },
           {
-            "prompt": "What ending sound do the words hop and top share?",
+            "prompt": "Name one word in the -en or -ed word family, like hen or bed.",
             "answers": [
-              "op"
+              "hen",
+              "pen",
+              "bed",
+              "red"
             ]
           }
         ]
@@ -15064,6 +15068,7 @@
         "summary": "Students learn that a whole can be split into three equal parts called thirds, and that each part is called one third of the whole.",
         "resourceLabel": "YouTube: Fractions: Thirds",
         "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Thirds%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=16jNp2TwCrE",
         "quiz": [
           {
             "q": "If a shape is split into three equal parts, each part is called ___.",
@@ -15146,6 +15151,7 @@
         "summary": "Students learn about the body parts of mammals, such as fur covering their skin and the way most mammal babies drink milk from their mother, and how these features help mammals survive.",
         "resourceLabel": "YouTube: Mammals and Their Body Parts",
         "resourceUrl": "https://www.youtube.com/results?search_query=Mammals%20and%20Their%20Body%20Parts%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5deGVC4USqk",
         "quiz": [
           {
             "q": "What usually covers the skin of a mammal?",
@@ -15225,28 +15231,39 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Visiting the Library: Borrowing and Sharing Books",
-        "summary": "Students learn that a library is a community place where people can borrow books and other materials for free, and that a library card and returning books on time help everyone share.",
-        "resourceLabel": "YouTube: Visiting the Library: Borrowing and Sharing Books",
-        "resourceUrl": "https://www.youtube.com/results?search_query=Visiting%20the%20Library%3A%20Borrowing%20and%20Sharing%20Books%20grade%201%20educational",
+        "title": "Taking Care of Library Books",
+        "summary": "Students learn that library books belong to the whole community, so taking care of them by keeping them clean, handling pages gently, and returning them on time lets everyone get a turn to enjoy them.",
+        "resourceLabel": "YouTube: Taking Care of Library Books",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Taking%20Care%20of%20Library%20Books%20grade%201%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=GBC8HKSsK78",
         "quiz": [
           {
-            "q": "What is a library?",
+            "q": "Why should we take good care of library books?",
             "options": [
-              "A place that sells only toys",
-              "A place to buy food",
-              "A place where people can borrow books for free",
-              "A place with no books"
+              "So other people can also enjoy them",
+              "Books do not need care",
+              "Only librarians can touch them",
+              "So we never have to return them"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a gentle way to turn the pages of a library book?",
+            "options": [
+              "Rip them out",
+              "Fold the corners",
+              "Carefully, one at a time",
+              "Crumple them up"
             ],
             "answer": 2
           },
           {
-            "q": "What do you usually need to borrow books from a library?",
+            "q": "What should you do if a library book gets wet or dirty?",
             "options": [
-              "A map",
-              "A hammer",
-              "A library card",
-              "A ticket"
+              "Hide it",
+              "Throw it away",
+              "Tell an adult or the librarian",
+              "Ignore it"
             ],
             "answer": 2
           },
@@ -15261,17 +15278,7 @@
             "answer": 0
           },
           {
-            "q": "Who helps people find books at a library?",
-            "options": [
-              "A pilot",
-              "A firefighter",
-              "A farmer",
-              "A librarian"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Sharing library books with the whole community is an example of ___.",
+            "q": "Taking care of shared library books is an example of ___.",
             "options": [
               "Being a good citizen",
               "Wasting resources",
@@ -15283,17 +15290,18 @@
         ],
         "worksheet": [
           {
-            "prompt": "What is a community place where people can borrow books for free?",
+            "prompt": "Name one way to take good care of a library book.",
             "answers": [
-              "library",
-              "the library"
+              "turn pages gently",
+              "keep it clean",
+              "keep it safe"
             ]
           },
           {
-            "prompt": "What card do you need to borrow books from a library?",
+            "prompt": "Why do library books need to be taken care of?",
             "answers": [
-              "a library card",
-              "library card"
+              "so others can enjoy them",
+              "to share with others"
             ]
           },
           {
@@ -50918,6 +50926,3328 @@
             "prompt": "Why is it valuable to listen to elders in a community?",
             "answers": [
               "they help us learn from the past"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 161,
+    "label": "Day 161 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Articles: Using A, An, and The",
+        "summary": "Grade 1 Language strand: articles like a, an, and the come before nouns, with a used before consonant sounds, an before vowel sounds, and the used to point out a specific thing.",
+        "resourceLabel": "YouTube: Articles: Using A, An, and The",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Articles%3A%20Using%20A%2C%20An%2C%20and%20The%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which article goes before a word starting with a vowel sound, such as apple?",
+            "options": [
+              "A",
+              "An",
+              "No article",
+              "The"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which article is used to point out one specific thing?",
+            "options": [
+              "An",
+              "The",
+              "A",
+              "Some"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses an article correctly?",
+            "options": [
+              "I saw cat",
+              "I saw an cat",
+              "I saw a cat",
+              "I saw the a cat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which article would come before the word egg?",
+            "options": [
+              "The only",
+              "A",
+              "No article needed",
+              "An"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Articles are small words that come right before a ___.",
+            "options": [
+              "Noun",
+              "Adjective only",
+              "Punctuation mark",
+              "Verb"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which article goes before a word that starts with a vowel sound, a or an?",
+            "answers": [
+              "an",
+              "the word an"
+            ]
+          },
+          {
+            "prompt": "Give an example of a sentence using the article the.",
+            "answers": [
+              "I see the dog",
+              "The sun is bright"
+            ]
+          },
+          {
+            "prompt": "Why do we use articles before nouns?",
+            "answers": [
+              "to show we mean a noun",
+              "to introduce a noun"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Numbers to 600: Counting Beyond 500",
+        "summary": "Grade 1 Math strand: students read, write, and count numbers beyond 500, up to 600.",
+        "resourceLabel": "YouTube: Numbers to 600: Counting Beyond 500",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Numbers%20to%20600%3A%20Counting%20Beyond%20500%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 599?",
+            "options": [
+              "600",
+              "601",
+              "598",
+              "599"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which number is between 520 and 540?",
+            "options": [
+              "530",
+              "510",
+              "550",
+              "560"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number comes right before 600?",
+            "options": [
+              "601",
+              "598",
+              "599",
+              "600"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these numbers is the largest?",
+            "options": [
+              "599",
+              "399",
+              "299",
+              "499"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Counting beyond 500 helps us understand numbers up to ___.",
+            "options": [
+              "6000",
+              "600",
+              "6",
+              "60"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 599?",
+            "answers": [
+              "600",
+              "six hundred"
+            ]
+          },
+          {
+            "prompt": "What number comes right before 550?",
+            "answers": [
+              "549",
+              "five hundred forty nine"
+            ]
+          },
+          {
+            "prompt": "Count by tens from 580 to 600.",
+            "answers": [
+              "580,590,600",
+              "580 590 600"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Moose: Canadas Large Forest Animal",
+        "summary": "Grade 1 Science strand: the moose is a large mammal with wide antlers that lives in Canadian forests and near lakes, eating leaves, twigs, and water plants.",
+        "resourceLabel": "YouTube: Moose: Canadas Large Forest Animal",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Moose%3A%20Canadas%20Large%20Forest%20Animal%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Where does a moose usually live?",
+            "options": [
+              "The desert",
+              "The ocean",
+              "A city street",
+              "Forests near lakes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a moose have on its head?",
+            "options": [
+              "Wide antlers",
+              "A shell",
+              "Feathers",
+              "A long trunk"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a moose mainly eat?",
+            "options": [
+              "Insects only",
+              "Fish",
+              "Leaves, twigs, and water plants",
+              "Other animals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of animal is a moose?",
+            "options": [
+              "A mammal",
+              "A bird",
+              "A fish",
+              "A reptile"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Moose are known for being one of the ___ animals in the forest.",
+            "options": [
+              "Smallest",
+              "Largest",
+              "Only underwater",
+              "Fastest flying"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where does a moose usually live?",
+            "answers": [
+              "forests near lakes",
+              "in the forest"
+            ]
+          },
+          {
+            "prompt": "What does a moose have on its head?",
+            "answers": [
+              "antlers",
+              "wide antlers"
+            ]
+          },
+          {
+            "prompt": "What does a moose eat?",
+            "answers": [
+              "leaves and twigs",
+              "water plants"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Great Lakes: Canadas Freshwater Giants",
+        "summary": "Grade 1 Social Studies strand: the Great Lakes are a group of huge freshwater lakes on the border between Canada and the United States, important for drinking water, travel, and wildlife.",
+        "resourceLabel": "YouTube: The Great Lakes: Canadas Freshwater Giants",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Great%20Lakes%3A%20Canadas%20Freshwater%20Giants%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are the Great Lakes?",
+            "options": [
+              "A group of huge freshwater lakes",
+              "A desert region",
+              "A chain of mountains",
+              "A set of small ponds"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Great Lakes lie on the border between Canada and which country?",
+            "options": [
+              "Mexico",
+              "Australia",
+              "France",
+              "The United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the Great Lakes important to people?",
+            "options": [
+              "They are always frozen",
+              "They provide drinking water and travel routes",
+              "They are used only for parking",
+              "They have no importance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of water do the Great Lakes contain?",
+            "options": [
+              "Freshwater",
+              "Salt water",
+              "Ice only",
+              "No water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Great Lakes are home to many kinds of ___.",
+            "options": [
+              "Buildings",
+              "Airplanes",
+              "Fish and wildlife",
+              "Cars"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are the Great Lakes?",
+            "answers": [
+              "huge freshwater lakes",
+              "a group of big lakes"
+            ]
+          },
+          {
+            "prompt": "Between which two countries are the Great Lakes located?",
+            "answers": [
+              "Canada and the United States"
+            ]
+          },
+          {
+            "prompt": "Name one reason the Great Lakes are important.",
+            "answers": [
+              "drinking water",
+              "travel and wildlife"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "label": "Day 162 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vowel Teams: ey and eigh (Long A Sound)",
+        "summary": "Grade 1 Language strand: the vowel teams ey and eigh can both make the long a sound, as in the words they and eight.",
+        "resourceLabel": "YouTube: Vowel Teams: ey and eigh (Long A Sound)",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ey%20and%20eigh%20%28Long%20A%20Sound%29%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What sound do the vowel teams ey and eigh often make?",
+            "options": [
+              "Short i",
+              "Short a",
+              "Long a",
+              "Long e"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word uses ey to make the long a sound?",
+            "options": [
+              "They",
+              "Tree",
+              "Toy",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word uses eigh to make the long a sound?",
+            "options": [
+              "Eight",
+              "Ear",
+              "End",
+              "Egg"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these words rhymes with eight?",
+            "options": [
+              "Eat",
+              "Ink",
+              "Weight",
+              "Ant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Vowel teams like ey and eigh are made up of ___ letters working together.",
+            "options": [
+              "Five",
+              "Two or more",
+              "Zero",
+              "Only one"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What sound do ey and eigh often make?",
+            "answers": [
+              "long a",
+              "the long a sound"
+            ]
+          },
+          {
+            "prompt": "Give a word that uses ey to make the long a sound.",
+            "answers": [
+              "they",
+              "grey"
+            ]
+          },
+          {
+            "prompt": "Give a word that uses eigh to make the long a sound.",
+            "answers": [
+              "eight",
+              "weigh"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Skip Counting by 100s",
+        "summary": "Grade 1 Math strand: students practise skip counting by 100s, counting 100, 200, 300, and so on, to build number sense with much larger numbers.",
+        "resourceLabel": "YouTube: Skip Counting by 100s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Skip%20Counting%20by%20100s%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 300 when counting by 100s?",
+            "options": [
+              "310",
+              "500",
+              "350",
+              "400"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number comes right after 500 when counting by 100s?",
+            "options": [
+              "550",
+              "510",
+              "600",
+              "700"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these numbers would you say when counting by 100s starting at 100?",
+            "options": [
+              "150",
+              "450",
+              "250",
+              "500"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Skip counting by 100s means adding ___ each time.",
+            "options": [
+              "50",
+              "100",
+              "1",
+              "10"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these numbers would NOT be said when counting by 100s starting at 100?",
+            "options": [
+              "300",
+              "200",
+              "400",
+              "250"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Count by 100s from 100 to 600.",
+            "answers": [
+              "100,200,300,400,500,600",
+              "100 200 300 400 500 600"
+            ]
+          },
+          {
+            "prompt": "What number comes after 400 when counting by 100s?",
+            "answers": [
+              "500",
+              "five hundred"
+            ]
+          },
+          {
+            "prompt": "Is 350 a number you would say when counting by 100s starting at 100?",
+            "answers": [
+              "no",
+              "no it is not"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Raccoons: Clever Nighttime Visitors",
+        "summary": "Grade 1 Science strand: raccoons are clever nocturnal mammals with masked faces and ringed tails that use their paws to explore and find food at night.",
+        "resourceLabel": "YouTube: Raccoons: Clever Nighttime Visitors",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Raccoons%3A%20Clever%20Nighttime%20Visitors%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "When are raccoons usually active?",
+            "options": [
+              "At night",
+              "Only in the morning",
+              "Only at noon",
+              "Never"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do raccoons use to explore and grab food?",
+            "options": [
+              "Their gills",
+              "Their wings",
+              "Their tails only",
+              "Their clever paws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a raccoons face often look like?",
+            "options": [
+              "It has feathers",
+              "It has a long beak",
+              "It has a dark mask-like pattern",
+              "It has no fur at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of animal is a raccoon?",
+            "options": [
+              "A reptile",
+              "A bird",
+              "A mammal",
+              "A fish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Animals that are mostly active at night are called ___.",
+            "options": [
+              "Migratory",
+              "Aquatic",
+              "Nocturnal",
+              "Diurnal"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "When are raccoons usually active, day or night?",
+            "answers": [
+              "night",
+              "at night"
+            ]
+          },
+          {
+            "prompt": "What does a raccoon use to explore and find food?",
+            "answers": [
+              "its paws",
+              "clever paws"
+            ]
+          },
+          {
+            "prompt": "Describe what a raccoons face looks like.",
+            "answers": [
+              "it has a mask-like pattern",
+              "dark fur around the eyes"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Loon: A Canadian Symbol on Our Coins",
+        "summary": "Grade 1 Social Studies strand: the loon is a Canadian bird known for its call on northern lakes, and its picture appears on the Canadian one dollar coin, often called the loonie.",
+        "resourceLabel": "YouTube: The Loon: A Canadian Symbol on Our Coins",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Loon%3A%20A%20Canadian%20Symbol%20on%20Our%20Coins%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What kind of animal is a loon?",
+            "options": [
+              "A fish",
+              "A bird",
+              "A mammal",
+              "An insect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On which Canadian coin does the loon appear?",
+            "options": [
+              "The twenty five cent coin",
+              "The five cent coin",
+              "The ten cent coin",
+              "The one dollar coin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the one dollar coin often nicknamed because of the loon?",
+            "options": [
+              "The toonie",
+              "The loonie",
+              "The nickel",
+              "The dime"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does a loon usually live?",
+            "options": [
+              "In the mountains",
+              "On northern lakes",
+              "In the ocean only",
+              "In the desert"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The loon is an example of a Canadian animal used as a ___.",
+            "options": [
+              "Vehicle",
+              "Building material",
+              "Symbol",
+              "Tool"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What kind of animal is a loon?",
+            "answers": [
+              "a bird",
+              "a water bird"
+            ]
+          },
+          {
+            "prompt": "On what Canadian coin does the loon appear?",
+            "answers": [
+              "the one dollar coin",
+              "the loonie"
+            ]
+          },
+          {
+            "prompt": "Where does a loon usually live?",
+            "answers": [
+              "on northern lakes",
+              "on lakes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "label": "Day 163 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Three-Letter Blends: str, spr, and scr",
+        "summary": "Grade 1 Language strand: some words begin with three consonants blended together, such as str in string, spr in spring, and scr in scratch.",
+        "resourceLabel": "YouTube: Three-Letter Blends: str, spr, and scr",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Three-Letter%20Blends%3A%20str%2C%20spr%2C%20and%20scr%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which word starts with the str blend?",
+            "options": [
+              "Tring",
+              "String",
+              "Sing",
+              "Ring"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word starts with the spr blend?",
+            "options": [
+              "Sing",
+              "Spring",
+              "Ring",
+              "Ping"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word starts with the scr blend?",
+            "options": [
+              "Match",
+              "Catch",
+              "Latch",
+              "Scratch"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A three-letter blend has how many consonant sounds blended together?",
+            "options": [
+              "3",
+              "1",
+              "4",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these words has a three-letter blend at the start?",
+            "options": [
+              "Play",
+              "Say",
+              "Spray",
+              "Day"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Give a word that starts with the str blend.",
+            "answers": [
+              "string",
+              "street"
+            ]
+          },
+          {
+            "prompt": "Give a word that starts with the spr blend.",
+            "answers": [
+              "spring",
+              "sprout"
+            ]
+          },
+          {
+            "prompt": "Give a word that starts with the scr blend.",
+            "answers": [
+              "scratch",
+              "scream"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Fifths of a Whole",
+        "summary": "Grade 1 Math strand: when a whole is divided into five equal parts, each part is called a fifth, written as one out of five equal pieces.",
+        "resourceLabel": "YouTube: Fractions: Fifths of a Whole",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Fifths%20of%20a%20Whole%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is each equal part called when a whole is divided into five pieces?",
+            "options": [
+              "A third",
+              "A fifth",
+              "A half",
+              "A quarter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many equal parts make up a whole divided into fifths?",
+            "options": [
+              "2",
+              "4",
+              "5",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a pizza is cut into fifths, how many pieces does it have in total?",
+            "options": [
+              "4",
+              "2",
+              "5",
+              "3"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which fraction shows one out of five equal parts?",
+            "options": [
+              "One half",
+              "One quarter",
+              "One fifth",
+              "One third"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "For parts to be called fifths, they must be ___.",
+            "options": [
+              "Equal in size",
+              "Only two pieces",
+              "Not connected",
+              "Different sizes"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is each equal part called when a whole is split into five pieces?",
+            "answers": [
+              "a fifth",
+              "one fifth"
+            ]
+          },
+          {
+            "prompt": "How many equal parts make a whole when it is divided into fifths?",
+            "answers": [
+              "5",
+              "five"
+            ]
+          },
+          {
+            "prompt": "If you eat one fifth of a pizza, how many equal pieces are left?",
+            "answers": [
+              "4",
+              "four"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Snails: Slow Movers with Shells",
+        "summary": "Grade 1 Science strand: snails are small animals with soft bodies and hard shells on their backs that move slowly using a single muscular foot.",
+        "resourceLabel": "YouTube: Snails: Slow Movers with Shells",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Snails%3A%20Slow%20Movers%20with%20Shells%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does a snail carry on its back?",
+            "options": [
+              "A pair of wings",
+              "A hard shell",
+              "A set of feathers",
+              "A long tail"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a snail move from place to place?",
+            "options": [
+              "By running on four legs",
+              "By swimming with fins",
+              "By flying",
+              "By using a single muscular foot"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a snails shell important?",
+            "options": [
+              "It helps it fly",
+              "It protects its soft body",
+              "It helps it breathe underwater only",
+              "It has no real purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of body does a snail have under its shell?",
+            "options": [
+              "A feathered body",
+              "A soft body",
+              "A furry body",
+              "A hard body"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Snails are known for moving very ___.",
+            "options": [
+              "Underground only",
+              "Slowly",
+              "Quickly",
+              "Loudly"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does a snail carry on its back?",
+            "answers": [
+              "a shell",
+              "a hard shell"
+            ]
+          },
+          {
+            "prompt": "How does a snail move?",
+            "answers": [
+              "using its foot",
+              "slowly using a muscular foot"
+            ]
+          },
+          {
+            "prompt": "Why is a snails shell helpful?",
+            "answers": [
+              "it protects its soft body",
+              "keeps it safe"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The House of Commons: Where Our Laws Are Debated",
+        "summary": "Grade 1 Social Studies strand: the House of Commons is a part of the Canadian government where elected members meet in Ottawa to discuss and vote on new laws.",
+        "resourceLabel": "YouTube: The House of Commons: Where Our Laws Are Debated",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20House%20of%20Commons%3A%20Where%20Our%20Laws%20Are%20Debated%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the House of Commons?",
+            "options": [
+              "A school",
+              "A place where elected members discuss and vote on laws",
+              "A shopping mall",
+              "A hospital"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which city is the House of Commons located?",
+            "options": [
+              "Vancouver",
+              "Ottawa",
+              "Montreal",
+              "Toronto"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do members of the House of Commons do?",
+            "options": [
+              "Discuss and vote on new laws",
+              "Teach classes",
+              "Build houses",
+              "Sell groceries"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The House of Commons is part of what larger system?",
+            "options": [
+              "The Canadian government",
+              "A private company",
+              "A sports league",
+              "A school board"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "People who are elected to the House of Commons are called Members of ___.",
+            "options": [
+              "Parliament",
+              "The Community",
+              "The Public",
+              "The Committee"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the House of Commons?",
+            "answers": [
+              "a place where laws are discussed",
+              "part of Canadas government"
+            ]
+          },
+          {
+            "prompt": "In what city is the House of Commons located?",
+            "answers": [
+              "Ottawa"
+            ]
+          },
+          {
+            "prompt": "What do the elected members do in the House of Commons?",
+            "answers": [
+              "discuss and vote on laws",
+              "debate new laws"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "label": "Day 164 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Interjections: Showing Strong Feelings with Wow and Hooray",
+        "summary": "Grade 1 Language strand: an interjection is a short word or phrase, like Wow or Hooray, that shows a burst of strong feeling and is often followed by an exclamation mark.",
+        "resourceLabel": "YouTube: Interjections: Showing Strong Feelings with Wow and Hooray",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Interjections%3A%20Showing%20Strong%20Feelings%20with%20Wow%20and%20Hooray%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does an interjection usually show?",
+            "options": [
+              "A list of items",
+              "A calm fact",
+              "A burst of strong feeling",
+              "A question"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these words is an interjection?",
+            "options": [
+              "Table",
+              "Walking",
+              "Blue",
+              "Hooray"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which punctuation mark often follows an interjection?",
+            "options": [
+              "A comma",
+              "An exclamation mark",
+              "A question mark",
+              "A period only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses an interjection correctly?",
+            "options": [
+              "That wow is amazing",
+              "Is wow that amazing",
+              "Amazing wow that is",
+              "Wow, that is amazing!"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Interjections are usually ___ words placed at the start of a sentence.",
+            "options": [
+              "Long and boring",
+              "Silent",
+              "Numeric",
+              "Short, feeling-filled"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is an interjection used for?",
+            "answers": [
+              "to show strong feeling",
+              "to express excitement"
+            ]
+          },
+          {
+            "prompt": "Give an example of an interjection.",
+            "answers": [
+              "Wow",
+              "Hooray"
+            ]
+          },
+          {
+            "prompt": "What punctuation mark often follows an interjection?",
+            "answers": [
+              "an exclamation mark",
+              "!"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Making Amounts Up to Ten Dollars",
+        "summary": "Grade 1 Math strand: students combine coins and bills to make amounts of money up to ten dollars.",
+        "resourceLabel": "YouTube: Money: Making Amounts Up to Ten Dollars",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Making%20Amounts%20Up%20to%20Ten%20Dollars%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many toonies would you need to make ten dollars?",
+            "options": [
+              "2",
+              "3",
+              "5",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which combination makes exactly ten dollars?",
+            "options": [
+              "Three toonies",
+              "Two five dollar bills",
+              "One five dollar bill",
+              "Two loonies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If you have one five dollar bill and two toonies, how much money do you have?",
+            "options": [
+              "8 dollars",
+              "10 dollars",
+              "9 dollars",
+              "7 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which single bill is worth ten dollars?",
+            "options": [
+              "A twenty dollar bill",
+              "A one dollar bill",
+              "A ten dollar bill",
+              "A five dollar bill"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Practising with coins and bills up to ten dollars helps us understand ___.",
+            "options": [
+              "Nothing useful",
+              "Only shapes",
+              "Even larger amounts of money",
+              "Only colours"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many toonies make ten dollars?",
+            "answers": [
+              "5",
+              "five toonies"
+            ]
+          },
+          {
+            "prompt": "Name a way to make ten dollars using bills.",
+            "answers": [
+              "a ten dollar bill",
+              "two five dollar bills"
+            ]
+          },
+          {
+            "prompt": "If you have one five dollar bill and one toonie and one loonie, how much money do you have?",
+            "answers": [
+              "8 dollars",
+              "eight dollars"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Crabs: Sideways Walkers of the Shore",
+        "summary": "Grade 1 Science strand: crabs are small sea animals with hard shells and pincers that usually walk sideways along beaches and ocean floors.",
+        "resourceLabel": "YouTube: Crabs: Sideways Walkers of the Shore",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Crabs%3A%20Sideways%20Walkers%20of%20the%20Shore%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How do crabs usually walk?",
+            "options": [
+              "Straight forward only",
+              "Backwards only",
+              "They do not walk",
+              "Sideways"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do crabs use to grab food or defend themselves?",
+            "options": [
+              "Pincers",
+              "A trunk",
+              "Wings",
+              "Fins only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where might you commonly find a crab?",
+            "options": [
+              "In a treetop",
+              "In the sky",
+              "In a desert",
+              "On a beach or ocean floor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What covers a crabs body to protect it?",
+            "options": [
+              "Soft fur",
+              "Feathers",
+              "A hard shell",
+              "Scales like a fish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Crabs belong to a group of animals with hard outer shells called ___.",
+            "options": [
+              "Amphibians",
+              "Crustaceans",
+              "Birds",
+              "Mammals"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How do crabs usually walk?",
+            "answers": [
+              "sideways",
+              "they walk sideways"
+            ]
+          },
+          {
+            "prompt": "What do crabs use to grab food or defend themselves?",
+            "answers": [
+              "pincers",
+              "claws"
+            ]
+          },
+          {
+            "prompt": "Where might you find a crab?",
+            "answers": [
+              "on a beach",
+              "the ocean floor"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Citizenship Ceremony: Becoming a Canadian Citizen",
+        "summary": "Grade 1 Social Studies strand: a citizenship ceremony is a special event where newcomers promise to follow Canadian laws and officially become Canadian citizens.",
+        "resourceLabel": "YouTube: Citizenship Ceremony: Becoming a Canadian Citizen",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Citizenship%20Ceremony%3A%20Becoming%20a%20Canadian%20Citizen%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What happens at a citizenship ceremony?",
+            "options": [
+              "Newcomers officially become Canadian citizens",
+              "Workers build a road",
+              "People go grocery shopping",
+              "Students take a math test"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do new citizens promise at a citizenship ceremony?",
+            "options": [
+              "To stop speaking their first language",
+              "To never leave their house",
+              "To move to another country",
+              "To follow Canadian laws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a citizenship ceremony be an important day for a family?",
+            "options": [
+              "It marks officially belonging to Canada",
+              "It only happens to visitors",
+              "It has no meaning at all",
+              "It is the same as a birthday party"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who usually attends a citizenship ceremony to become a citizen?",
+            "options": [
+              "Newcomers to Canada",
+              "Only tourists",
+              "Only government workers",
+              "Only babies born in Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Becoming a citizen is one way people show they are part of the Canadian ___.",
+            "options": [
+              "Community",
+              "Geography",
+              "Alphabet",
+              "Weather"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What happens at a citizenship ceremony?",
+            "answers": [
+              "newcomers become citizens",
+              "people officially become Canadian citizens"
+            ]
+          },
+          {
+            "prompt": "What do new citizens promise to do at the ceremony?",
+            "answers": [
+              "follow Canadian laws",
+              "follow the rules of Canada"
+            ]
+          },
+          {
+            "prompt": "Why might a citizenship ceremony be an exciting day for a family?",
+            "answers": [
+              "it is a special new beginning",
+              "they officially belong to Canada"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "label": "Day 165 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Silent Letters: gn and st",
+        "summary": "Grade 1 Language strand: some words have silent letters that are not pronounced, such as the silent g in sign and the silent t in listen.",
+        "resourceLabel": "YouTube: Silent Letters: gn and st",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Silent%20Letters%3A%20gn%20and%20st%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which letter is silent in the word sign?",
+            "options": [
+              "S",
+              "I",
+              "G",
+              "N"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which letter is silent in the word listen?",
+            "options": [
+              "T",
+              "L",
+              "S",
+              "I"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these words has a silent letter?",
+            "options": [
+              "Gum",
+              "Goat",
+              "Gnome",
+              "Game"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A silent letter is a letter that ___.",
+            "options": [
+              "Is always the first letter",
+              "Is written but not pronounced",
+              "Makes a loud sound",
+              "Is always a vowel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words has a silent t?",
+            "options": [
+              "Table",
+              "Cat",
+              "Tent",
+              "Castle"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What letter is silent in the word sign?",
+            "answers": [
+              "g",
+              "the g"
+            ]
+          },
+          {
+            "prompt": "What letter is silent in the word listen?",
+            "answers": [
+              "t",
+              "the t"
+            ]
+          },
+          {
+            "prompt": "Give another word with a silent letter.",
+            "answers": [
+              "gnome",
+              "castle"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Sorting 3D Shapes by Number of Faces",
+        "summary": "Grade 1 Math strand: 3D shapes can be sorted by how many flat faces they have, such as a cube with six faces or a cone with one flat face.",
+        "resourceLabel": "YouTube: Geometry: Sorting 3D Shapes by Number of Faces",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Sorting%203D%20Shapes%20by%20Number%20of%20Faces%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many faces does a cube have?",
+            "options": [
+              "5",
+              "4",
+              "8",
+              "6"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many flat faces does a cone have?",
+            "options": [
+              "1",
+              "2",
+              "0",
+              "3"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which 3D shape has no flat faces at all?",
+            "options": [
+              "A cone",
+              "A sphere",
+              "A cube",
+              "A cylinder"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Sorting 3D shapes by faces is an example of ___.",
+            "options": [
+              "Classifying shapes",
+              "Telling time",
+              "Measuring length",
+              "Counting money"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these shapes has two flat circular faces?",
+            "options": [
+              "A sphere",
+              "A cylinder",
+              "A cube",
+              "A cone"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many faces does a cube have?",
+            "answers": [
+              "6",
+              "six"
+            ]
+          },
+          {
+            "prompt": "How many flat faces does a cone have?",
+            "answers": [
+              "1",
+              "one"
+            ]
+          },
+          {
+            "prompt": "Name a 3D shape with no flat faces.",
+            "answers": [
+              "sphere",
+              "ball"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Simple Machines: Pulleys and Lifting Loads",
+        "summary": "Grade 1 Science strand: a pulley is a simple machine with a wheel and a rope that helps people lift heavy loads more easily by pulling down instead of straight up.",
+        "resourceLabel": "YouTube: Simple Machines: Pulleys and Lifting Loads",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Pulleys%20and%20Lifting%20Loads%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a pulley?",
+            "options": [
+              "A simple machine with a wheel and rope",
+              "A type of clock",
+              "A musical instrument",
+              "A kind of shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a pulley help people do?",
+            "options": [
+              "Lift heavy loads more easily",
+              "Cook food",
+              "Measure temperature",
+              "Tell time"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these commonly uses a pulley?",
+            "options": [
+              "A thermometer",
+              "A clock",
+              "A calendar",
+              "A flagpole"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A pulley is an example of what kind of machine?",
+            "options": [
+              "A computer",
+              "A simple machine",
+              "A robot",
+              "An engine"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using a pulley can make lifting a heavy object feel ___.",
+            "options": [
+              "Much heavier",
+              "Impossible",
+              "Easier",
+              "Slower and harder"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a pulley?",
+            "answers": [
+              "a simple machine with a wheel and rope",
+              "a machine that helps lift loads"
+            ]
+          },
+          {
+            "prompt": "What does a pulley help people do?",
+            "answers": [
+              "lift heavy loads",
+              "move things up more easily"
+            ]
+          },
+          {
+            "prompt": "Name a place you might see a pulley used.",
+            "answers": [
+              "a flagpole",
+              "a crane"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Translators and Interpreters: Helping People Communicate",
+        "summary": "Grade 1 Social Studies strand: translators and interpreters help people who speak different languages understand each other by changing words from one language into another.",
+        "resourceLabel": "YouTube: Translators and Interpreters: Helping People Communicate",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Translators%20and%20Interpreters%3A%20Helping%20People%20Communicate%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do translators and interpreters help people do?",
+            "options": [
+              "Fix cars",
+              "Deliver mail",
+              "Communicate across different languages",
+              "Cook meals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a translator be helpful for a newcomer family?",
+            "options": [
+              "It only helps with math",
+              "It helps them understand a new language",
+              "It replaces the need for school",
+              "It has no real purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might a translator help people communicate?",
+            "options": [
+              "Nowhere at all",
+              "Only underwater",
+              "Only in outer space",
+              "At a hospital or school"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A translator changes words from one ___ into another.",
+            "options": [
+              "Shape",
+              "Season",
+              "Colour",
+              "Language"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Translators help make communities more ___.",
+            "options": [
+              "Welcoming and connected",
+              "Silent",
+              "Divided",
+              "Confusing"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do translators and interpreters help people do?",
+            "answers": [
+              "understand each other",
+              "communicate across languages"
+            ]
+          },
+          {
+            "prompt": "Why might a translator be helpful for a newcomer family?",
+            "answers": [
+              "helps them understand a new language",
+              "helps them communicate"
+            ]
+          },
+          {
+            "prompt": "Give an example of a place a translator might help.",
+            "answers": [
+              "a hospital",
+              "a school"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "label": "Day 166 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Suffixes: Adding -able to Describe What Can Be Done",
+        "summary": "Grade 1 Language strand: adding the suffix -able to a word can create an adjective meaning able to be done, such as changing wash into washable or read into readable.",
+        "resourceLabel": "YouTube: Suffixes: Adding -able to Describe What Can Be Done",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-able%20to%20Describe%20What%20Can%20Be%20Done%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What does adding -able to wash make?",
+            "options": [
+              "Washer",
+              "Washable",
+              "Washed",
+              "Washing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the suffix -able usually mean?",
+            "options": [
+              "Done many times",
+              "Not able to be done",
+              "Never done",
+              "Able to be done"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word means able to be read?",
+            "options": [
+              "Reading",
+              "Read only",
+              "Readable",
+              "Reader"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is formed by adding -able to enjoy?",
+            "options": [
+              "Enjoyed",
+              "Enjoyable",
+              "Enjoyer",
+              "Enjoying"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Adding -able to a word usually turns it into an ___.",
+            "options": [
+              "Adjective",
+              "Verb",
+              "Pronoun",
+              "Preposition"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What does adding -able to wash make?",
+            "answers": [
+              "washable",
+              "able to be washed"
+            ]
+          },
+          {
+            "prompt": "What does adding -able to read make?",
+            "answers": [
+              "readable",
+              "able to be read"
+            ]
+          },
+          {
+            "prompt": "What does the suffix -able usually mean?",
+            "answers": [
+              "able to be done",
+              "capable of"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Addition: Adding a Two-Digit Number and a One-Digit Number",
+        "summary": "Grade 1 Math strand: students practise adding a two-digit number and a one-digit number by combining the ones first and then adding the tens.",
+        "resourceLabel": "YouTube: Addition: Adding a Two-Digit Number and a One-Digit Number",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Addition%3A%20Adding%20a%20Two-Digit%20Number%20and%20a%20One-Digit%20Number%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 23 plus 4?",
+            "options": [
+              "27",
+              "25",
+              "26",
+              "28"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is 15 plus 3?",
+            "options": [
+              "16",
+              "17",
+              "19",
+              "18"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When adding a two-digit number and a one-digit number, which digits should you add first?",
+            "options": [
+              "Neither digit",
+              "The ones digits",
+              "The tens digits",
+              "Both at random"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 42 plus 6?",
+            "options": [
+              "49",
+              "46",
+              "47",
+              "48"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Adding a two-digit number and a one-digit number usually changes the ___ digit.",
+            "options": [
+              "Ones",
+              "Hundreds",
+              "No digit",
+              "Tens only"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 23 plus 4?",
+            "answers": [
+              "27",
+              "twenty seven"
+            ]
+          },
+          {
+            "prompt": "What is 15 plus 3?",
+            "answers": [
+              "18",
+              "eighteen"
+            ]
+          },
+          {
+            "prompt": "When adding a two-digit and a one-digit number, which digits do you add first?",
+            "answers": [
+              "the ones",
+              "the ones digits"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Comets and Meteors: Visitors From Space",
+        "summary": "Grade 1 Science strand: comets are balls of ice and dust that travel through space, while meteors are small pieces of rock that burn up as bright streaks when they enter Earths atmosphere.",
+        "resourceLabel": "YouTube: Comets and Meteors: Visitors From Space",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comets%20and%20Meteors%3A%20Visitors%20From%20Space%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a comet mostly made of?",
+            "options": [
+              "Only metal",
+              "Ice and dust",
+              "Only water",
+              "Only sand"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a meteor?",
+            "options": [
+              "A kind of moon",
+              "A small piece of rock that burns up in the sky",
+              "A type of planet",
+              "A large star"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does a meteor burn up as a bright streak?",
+            "options": [
+              "Underground",
+              "On the ocean floor",
+              "Inside a volcano",
+              "In Earths atmosphere"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Comets travel through what part of space?",
+            "options": [
+              "Under the ground",
+              "Inside a cloud",
+              "Outer space near the sun",
+              "Inside the ocean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A meteor that we see burning up in the night sky is sometimes called a ___.",
+            "options": [
+              "Shooting star",
+              "Galaxy",
+              "Nebula",
+              "Black hole"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a comet made of?",
+            "answers": [
+              "ice and dust",
+              "ice and dust travelling through space"
+            ]
+          },
+          {
+            "prompt": "What is a meteor?",
+            "answers": [
+              "a small piece of rock burning up",
+              "a streak of light in the sky"
+            ]
+          },
+          {
+            "prompt": "Where do meteors burn up?",
+            "answers": [
+              "Earths atmosphere",
+              "the sky"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "National Flag of Canada Day: Celebrating Our Flag",
+        "summary": "Grade 1 Social Studies strand: National Flag of Canada Day is celebrated every February to honour the day Canada adopted its red and white maple leaf flag.",
+        "resourceLabel": "YouTube: National Flag of Canada Day: Celebrating Our Flag",
+        "resourceUrl": "https://www.youtube.com/results?search_query=National%20Flag%20of%20Canada%20Day%3A%20Celebrating%20Our%20Flag%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "In what month is National Flag of Canada Day celebrated?",
+            "options": [
+              "June",
+              "December",
+              "February",
+              "October"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does National Flag of Canada Day honour?",
+            "options": [
+              "The day Canada adopted its flag",
+              "A famous hockey game",
+              "A new school opening",
+              "A weather event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What symbol is at the centre of the Canadian flag?",
+            "options": [
+              "A maple leaf",
+              "A beaver",
+              "A star",
+              "A loon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What colours are on the Canadian flag?",
+            "options": [
+              "Purple and orange",
+              "Red and white",
+              "Green and black",
+              "Blue and yellow"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Celebrating a flag day helps people feel proud of their ___.",
+            "options": [
+              "School only",
+              "Country",
+              "Family only",
+              "Neighbourhood only"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What month is National Flag of Canada Day celebrated?",
+            "answers": [
+              "February"
+            ]
+          },
+          {
+            "prompt": "What does National Flag of Canada Day honour?",
+            "answers": [
+              "the day Canada adopted its flag",
+              "the Canadian flag"
+            ]
+          },
+          {
+            "prompt": "What is on the Canadian flag?",
+            "answers": [
+              "a maple leaf",
+              "a red maple leaf"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "label": "Day 167 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Note-Taking: Jotting Down Important Ideas",
+        "summary": "Grade 1 Language strand: note-taking means writing down short important words or ideas while listening or reading, to help remember key information later.",
+        "resourceLabel": "YouTube: Note-Taking: Jotting Down Important Ideas",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Note-Taking%3A%20Jotting%20Down%20Important%20Ideas%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is note-taking?",
+            "options": [
+              "Drawing a picture only",
+              "Singing a song",
+              "Erasing information",
+              "Writing down short important ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a student take notes while listening to a story?",
+            "options": [
+              "To remember important ideas later",
+              "To avoid listening",
+              "To make the story longer",
+              "To confuse themselves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Notes are usually written using ___.",
+            "options": [
+              "Long complete paragraphs",
+              "Only numbers",
+              "Short important words",
+              "Only pictures"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a good example of a note?",
+            "options": [
+              "Bear eats fish",
+              "Once upon a time there was a bear who loved to eat many different kinds of fish",
+              "A poem about bears",
+              "A song about fish"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Taking notes can help us stay ___ during a lesson.",
+            "options": [
+              "Confused",
+              "Organized and focused",
+              "Bored",
+              "Distracted"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is note-taking?",
+            "answers": [
+              "writing down important ideas",
+              "jotting down key words"
+            ]
+          },
+          {
+            "prompt": "Why might a student take notes during a lesson?",
+            "answers": [
+              "to remember important ideas",
+              "helps them remember later"
+            ]
+          },
+          {
+            "prompt": "Should notes be written in full long sentences or short important words?",
+            "answers": [
+              "short important words",
+              "short words"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Subtraction: Subtracting a One-Digit Number from a Two-Digit Number",
+        "summary": "Grade 1 Math strand: students practise subtracting a one-digit number from a two-digit number by taking away from the ones place first.",
+        "resourceLabel": "YouTube: Subtraction: Subtracting a One-Digit Number from a Two-Digit Number",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Subtraction%3A%20Subtracting%20a%20One-Digit%20Number%20from%20a%20Two-Digit%20Number%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is 27 minus 4?",
+            "options": [
+              "21",
+              "24",
+              "22",
+              "23"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 18 minus 5?",
+            "options": [
+              "12",
+              "13",
+              "11",
+              "14"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When subtracting a one-digit number from a two-digit number, which digits should you subtract first?",
+            "options": [
+              "Both at random",
+              "The tens digits",
+              "Neither digit",
+              "The ones digits"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 39 minus 6?",
+            "options": [
+              "33",
+              "34",
+              "32",
+              "35"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Subtracting a one-digit number from a two-digit number usually changes the ___ digit.",
+            "options": [
+              "Hundreds",
+              "Ones",
+              "Tens only",
+              "No digit"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is 27 minus 4?",
+            "answers": [
+              "23",
+              "twenty three"
+            ]
+          },
+          {
+            "prompt": "What is 18 minus 5?",
+            "answers": [
+              "13",
+              "thirteen"
+            ]
+          },
+          {
+            "prompt": "When subtracting a one-digit number from a two-digit number, which digits do you subtract first?",
+            "answers": [
+              "the ones",
+              "the ones digits"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Minerals: What Rocks Are Made Of",
+        "summary": "Grade 1 Science strand: minerals are natural solid materials found in the earth that combine together to form rocks, each with its own colour, hardness, and shine.",
+        "resourceLabel": "YouTube: Minerals: What Rocks Are Made Of",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Minerals%3A%20What%20Rocks%20Are%20Made%20Of%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are minerals?",
+            "options": [
+              "A kind of gas",
+              "Natural solid materials found in the earth",
+              "A man-made plastic",
+              "A type of liquid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do minerals combine together to form?",
+            "options": [
+              "Clouds",
+              "Rivers",
+              "Rocks",
+              "Trees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is a way minerals can differ from each other?",
+            "options": [
+              "Their age in years",
+              "Their sound",
+              "Their colour and hardness",
+              "Their favourite food"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where are minerals naturally found?",
+            "options": [
+              "In the clouds",
+              "In outer space only",
+              "In the earth",
+              "In the wind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Studying minerals helps scientists understand what rocks are made of and how they ___.",
+            "options": [
+              "Form",
+              "Swim",
+              "Fly",
+              "Sing"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are minerals?",
+            "answers": [
+              "natural solid materials",
+              "materials that form rocks"
+            ]
+          },
+          {
+            "prompt": "What do minerals combine together to form?",
+            "answers": [
+              "rocks"
+            ]
+          },
+          {
+            "prompt": "Name one way minerals can be different from each other.",
+            "answers": [
+              "colour",
+              "hardness"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Olympians: Representing Canada in Sports",
+        "summary": "Grade 1 Social Studies strand: Canadian Olympians are athletes who train hard and compete for Canada at the Olympic Games, representing their country in sports from around the world.",
+        "resourceLabel": "YouTube: Canadian Olympians: Representing Canada in Sports",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Olympians%3A%20Representing%20Canada%20in%20Sports%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a Canadian Olympian?",
+            "options": [
+              "A school subject",
+              "A government leader",
+              "A type of coin",
+              "An athlete who competes for Canada at the Olympics"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do Olympians usually do before competing?",
+            "options": [
+              "Skip practising",
+              "Train hard for many years",
+              "Avoid exercise",
+              "Only watch television"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might it be exciting when a Canadian wins an Olympic medal?",
+            "options": [
+              "They represent Canada on the world stage",
+              "Only Canadians can watch the Olympics",
+              "The Olympics happen every day",
+              "It has no meaning at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Olympic Games bring together athletes from ___.",
+            "options": [
+              "Only one school",
+              "Only one city",
+              "Around the world",
+              "Only Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Canadian Olympians help make other Canadians feel ___ of their country.",
+            "options": [
+              "Confused",
+              "Bored",
+              "Proud",
+              "Ashamed"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a Canadian Olympian?",
+            "answers": [
+              "an athlete who competes for Canada",
+              "a Canadian athlete at the Olympics"
+            ]
+          },
+          {
+            "prompt": "What do Olympians do before competing?",
+            "answers": [
+              "train hard"
+            ]
+          },
+          {
+            "prompt": "Why is it exciting when a Canadian wins at the Olympics?",
+            "answers": [
+              "represents Canada",
+              "shows what Canadians can achieve"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "label": "Day 168 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Story Climax: The Most Exciting Part of a Story",
+        "summary": "Grade 1 Language strand: the climax of a story is the most exciting or important moment, often where the main problem reaches its highest point before being solved.",
+        "resourceLabel": "YouTube: Story Climax: The Most Exciting Part of a Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Story%20Climax%3A%20The%20Most%20Exciting%20Part%20of%20a%20Story%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is the climax of a story?",
+            "options": [
+              "The name of the author",
+              "The very first sentence",
+              "The most exciting or important moment",
+              "The title of the book"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What often happens right after the climax of a story?",
+            "options": [
+              "Nothing happens at all",
+              "The story just begins",
+              "A new book starts",
+              "The problem begins to be solved"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the climax an important part of a story?",
+            "options": [
+              "It is always the shortest part",
+              "It is the most exciting moment for readers",
+              "It happens before the story starts",
+              "It has no purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might happen at the climax of an adventure story?",
+            "options": [
+              "The author is born",
+              "The library opens",
+              "The hero faces the biggest challenge",
+              "The book cover is designed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The climax usually comes ___ in a story.",
+            "options": [
+              "Near the highest point of excitement",
+              "On the back cover",
+              "At the very beginning only",
+              "Before the story starts"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is the climax of a story?",
+            "answers": [
+              "the most exciting part",
+              "the most important moment"
+            ]
+          },
+          {
+            "prompt": "What often happens right after the climax?",
+            "answers": [
+              "the problem gets solved",
+              "the story starts to end"
+            ]
+          },
+          {
+            "prompt": "Why is the climax an important part of a story?",
+            "answers": [
+              "it is the most exciting moment",
+              "it grabs the readers attention"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Sorting Objects into a Venn Diagram with Three Groups",
+        "summary": "Grade 1 Math strand: a Venn diagram can use three overlapping circles to sort objects that might belong to one, two, or all three groups at once.",
+        "resourceLabel": "YouTube: Data: Sorting Objects into a Venn Diagram with Three Groups",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Objects%20into%20a%20Venn%20Diagram%20with%20Three%20Groups%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "How many circles are used in a three-group Venn diagram?",
+            "options": [
+              "3",
+              "1",
+              "4",
+              "2"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean when an object is placed where two circles overlap?",
+            "options": [
+              "It belongs to no group",
+              "It must be removed",
+              "It is not allowed in the diagram",
+              "It belongs to both groups"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone use a three-circle Venn diagram instead of a two-circle one?",
+            "options": [
+              "To remove information",
+              "To sort objects into more groups at once",
+              "To avoid comparing anything",
+              "To make the diagram harder to read"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An object placed in the very middle of three overlapping circles belongs to ___.",
+            "options": [
+              "All three groups",
+              "A group outside the diagram",
+              "No groups",
+              "Only one group"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Venn diagrams help us visually compare and ___ objects or ideas.",
+            "options": [
+              "Ignore",
+              "Sort",
+              "Hide",
+              "Erase"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "How many circles does a three-group Venn diagram have?",
+            "answers": [
+              "3",
+              "three"
+            ]
+          },
+          {
+            "prompt": "What does it mean if an object is placed where two circles overlap?",
+            "answers": [
+              "it belongs to both groups",
+              "fits both categories"
+            ]
+          },
+          {
+            "prompt": "Why might we use three circles instead of two?",
+            "answers": [
+              "to sort into more groups",
+              "compare more categories at once"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Camels: Animals Built for the Desert",
+        "summary": "Grade 1 Science strand: camels are large mammals with humps that store fat, helping them survive for long periods without food or water in hot, dry desert habitats.",
+        "resourceLabel": "YouTube: Camels: Animals Built for the Desert",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Camels%3A%20Animals%20Built%20for%20the%20Desert%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do camels have on their backs?",
+            "options": [
+              "Fins",
+              "Shells",
+              "Wings",
+              "Humps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is stored inside a camels hump?",
+            "options": [
+              "Water only",
+              "Bones",
+              "Fat",
+              "Sand"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are camels well suited to desert life?",
+            "options": [
+              "They need water every hour",
+              "They live only underwater",
+              "They cannot handle heat at all",
+              "They can survive long periods without food or water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of animal is a camel?",
+            "options": [
+              "A bird",
+              "A mammal",
+              "A reptile",
+              "A fish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Camels are often called ships of the desert because they help people ___ across sandy land.",
+            "options": [
+              "Fly",
+              "Dig tunnels",
+              "Travel",
+              "Swim"
+            ],
+            "answer": 2
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do camels have on their backs?",
+            "answers": [
+              "humps",
+              "one or two humps"
+            ]
+          },
+          {
+            "prompt": "What is stored inside a camels hump?",
+            "answers": [
+              "fat"
+            ]
+          },
+          {
+            "prompt": "Why are camels well suited to desert life?",
+            "answers": [
+              "can survive without food or water for a long time",
+              "store fat for energy"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Our Local Food Bank: Helping Neighbours in Need",
+        "summary": "Grade 1 Social Studies strand: a food bank is a place in our community that collects and gives out food to families who need extra help getting enough to eat.",
+        "resourceLabel": "YouTube: Our Local Food Bank: Helping Neighbours in Need",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Our%20Local%20Food%20Bank%3A%20Helping%20Neighbours%20in%20Need%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a food bank?",
+            "options": [
+              "A place to watch movies",
+              "A place that collects and gives out food to families in need",
+              "A place to keep money safe",
+              "A store that only sells toys"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who does a food bank help?",
+            "options": [
+              "Only pets",
+              "Families who need extra help getting food",
+              "Only wealthy families",
+              "Only tourists"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can community members support a food bank?",
+            "options": [
+              "By ignoring it completely",
+              "By closing it down",
+              "By donating food or volunteering",
+              "By taking food without giving any back"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A food bank is an example of a place that shows ___ in a community.",
+            "options": [
+              "Carelessness",
+              "Competition",
+              "Kindness and caring",
+              "Unfairness"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Food banks help make sure that ___ have enough to eat.",
+            "options": [
+              "More families",
+              "Only animals",
+              "Only one family",
+              "No families"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a food bank?",
+            "answers": [
+              "a place that gives out food",
+              "a place that helps families get food"
+            ]
+          },
+          {
+            "prompt": "Who might a food bank help?",
+            "answers": [
+              "families who need extra help",
+              "neighbours in need"
+            ]
+          },
+          {
+            "prompt": "How can people support a food bank?",
+            "answers": [
+              "donate food",
+              "give food or volunteer"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "label": "Day 169 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Sorts: Grouping Words by Sound or Spelling",
+        "summary": "Grade 1 Language strand: a word sort is an activity where students group words into categories based on shared sounds or spelling patterns, helping them notice patterns in language.",
+        "resourceLabel": "YouTube: Word Sorts: Grouping Words by Sound or Spelling",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Sorts%3A%20Grouping%20Words%20by%20Sound%20or%20Spelling%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What is a word sort?",
+            "options": [
+              "A way to erase words",
+              "A drawing activity",
+              "A type of math problem",
+              "An activity that groups words by sound or spelling"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of words could be sorted into the same rhyming group?",
+            "options": [
+              "Cat and dog",
+              "Cat and pen",
+              "Cat and hat",
+              "Cat and sun"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a teacher use word sorts in class?",
+            "options": [
+              "To make spelling harder",
+              "To replace reading time",
+              "To remove all patterns",
+              "To help students notice spelling patterns"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these words could be grouped with the -ing family?",
+            "options": [
+              "Running",
+              "Blue",
+              "Sun",
+              "Cat"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Word sorts help students become more aware of ___ in words.",
+            "options": [
+              "Colours",
+              "Numbers",
+              "Shapes",
+              "Patterns"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What is a word sort?",
+            "answers": [
+              "grouping words by sound or spelling",
+              "an activity to group words"
+            ]
+          },
+          {
+            "prompt": "Give an example of two words that could be sorted into the same group.",
+            "answers": [
+              "cat and hat",
+              "run and fun"
+            ]
+          },
+          {
+            "prompt": "Why are word sorts a helpful activity?",
+            "answers": [
+              "helps notice spelling patterns",
+              "helps us see patterns in words"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Before, After, and Between to 500",
+        "summary": "Grade 1 Math strand: students practise identifying which numbers come before, after, or between other numbers up to 500.",
+        "resourceLabel": "YouTube: Number Sense: Before, After, and Between to 500",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Before%2C%20After%2C%20and%20Between%20to%20500%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right before 300?",
+            "options": [
+              "301",
+              "310",
+              "298",
+              "299"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What number comes right after 249?",
+            "options": [
+              "250",
+              "260",
+              "248",
+              "251"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number comes between 399 and 401?",
+            "options": [
+              "402",
+              "410",
+              "400",
+              "398"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which number comes right before 500?",
+            "options": [
+              "510",
+              "501",
+              "498",
+              "499"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Knowing which numbers come before and after helps us understand ___.",
+            "options": [
+              "Colours",
+              "Number order",
+              "Weather",
+              "Shapes"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right before 300?",
+            "answers": [
+              "299",
+              "two hundred ninety nine"
+            ]
+          },
+          {
+            "prompt": "What number comes right after 249?",
+            "answers": [
+              "250",
+              "two hundred fifty"
+            ]
+          },
+          {
+            "prompt": "What number comes between 399 and 401?",
+            "answers": [
+              "400",
+              "four hundred"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Fireflies: Insects That Glow in the Dark",
+        "summary": "Grade 1 Science strand: fireflies are small flying insects that make their own light using a special part of their body, glowing on warm summer nights to attract other fireflies.",
+        "resourceLabel": "YouTube: Fireflies: Insects That Glow in the Dark",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fireflies%3A%20Insects%20That%20Glow%20in%20the%20Dark%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What special ability do fireflies have?",
+            "options": [
+              "Breathing underwater",
+              "Making their own light",
+              "Growing very tall",
+              "Changing colour like a chameleon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "When do fireflies usually glow?",
+            "options": [
+              "Only in the desert at noon",
+              "Only during winter mornings",
+              "On warm summer nights",
+              "Only underwater"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do fireflies glow?",
+            "options": [
+              "To breathe better",
+              "To scare away the sun",
+              "To stay warm",
+              "To attract other fireflies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of animal is a firefly?",
+            "options": [
+              "A fish",
+              "A mammal",
+              "An insect",
+              "A reptile"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A fireflies glow is created by a special part of its ___.",
+            "options": [
+              "Body",
+              "Shell",
+              "Wing colour only",
+              "Fur"
+            ],
+            "answer": 0
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What special thing can fireflies do?",
+            "answers": [
+              "make their own light",
+              "glow in the dark"
+            ]
+          },
+          {
+            "prompt": "When do fireflies usually glow?",
+            "answers": [
+              "on warm summer nights",
+              "at night"
+            ]
+          },
+          {
+            "prompt": "Why do fireflies glow?",
+            "answers": [
+              "to attract other fireflies",
+              "to communicate with each other"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Snow Removal and Winter Road Crews: Keeping Us Safe in Winter",
+        "summary": "Grade 1 Social Studies strand: winter road crews use plows and salt to clear snow and ice from roads and sidewalks, helping people travel safely during the cold months.",
+        "resourceLabel": "YouTube: Snow Removal and Winter Road Crews: Keeping Us Safe in Winter",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Snow%20Removal%20and%20Winter%20Road%20Crews%3A%20Keeping%20Us%20Safe%20in%20Winter%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What do winter road crews use to clear roads?",
+            "options": [
+              "Nothing at all",
+              "Shovels only for sidewalks",
+              "Plows and salt",
+              "Paint and brushes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it important to clear snow and ice from roads?",
+            "options": [
+              "To grow more snow",
+              "To block traffic completely",
+              "To help people travel safely",
+              "To make roads more slippery"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When do winter road crews do most of their work?",
+            "options": [
+              "During the cold winter months",
+              "Only in spring",
+              "Only in summer",
+              "Only in autumn"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might happen if roads were never cleared of snow and ice?",
+            "options": [
+              "Roads would become warmer",
+              "Cars would travel faster",
+              "Travel would become unsafe",
+              "Nothing would change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Winter road crews are an example of community workers who help keep us ___.",
+            "options": [
+              "Lost",
+              "Cold",
+              "Confused",
+              "Safe"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What do winter road crews use to clear roads?",
+            "answers": [
+              "plows and salt",
+              "plows"
+            ]
+          },
+          {
+            "prompt": "Why is it important to clear snow and ice from roads?",
+            "answers": [
+              "to keep people safe when travelling",
+              "helps people travel safely"
+            ]
+          },
+          {
+            "prompt": "When do we mostly see winter road crews working?",
+            "answers": [
+              "during the cold months",
+              "in winter"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "label": "Day 170 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Word Parts, Sentence Craft, and Story Elements",
+        "summary": "Grade 1 Language strand review: students revisit articles, the vowel teams ey and eigh, three-letter blends, interjections, silent letters gn and st, the suffix -able, note-taking, story climax, and word sorts.",
+        "resourceLabel": "YouTube: Language Review: Word Parts, Sentence Craft, and Story Elements",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Parts%2C%20Sentence%20Craft%2C%20and%20Story%20Elements%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Which article goes before a word starting with a vowel sound, such as apple?",
+            "options": [
+              "An",
+              "The",
+              "No article",
+              "A"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which word starts with the str blend?",
+            "options": [
+              "String",
+              "Tring",
+              "Ring",
+              "Sing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does an interjection usually show?",
+            "options": [
+              "A question",
+              "A calm fact",
+              "A burst of strong feeling",
+              "A list of items"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which letter is silent in the word sign?",
+            "options": [
+              "I",
+              "N",
+              "S",
+              "G"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is note-taking?",
+            "options": [
+              "Drawing a picture only",
+              "Writing down short important ideas",
+              "Erasing information",
+              "Singing a song"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Which article goes before a word starting with a vowel sound, such as apple?",
+            "answers": [
+              "an"
+            ]
+          },
+          {
+            "prompt": "What sound do ey and eigh often make?",
+            "answers": [
+              "long a"
+            ]
+          },
+          {
+            "prompt": "What is the climax of a story?",
+            "answers": [
+              "the most exciting part"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Larger Numbers, Shapes, and Operations",
+        "summary": "Grade 1 Math strand review: students revisit numbers to 600, skip counting by 100s, fifths, money up to ten dollars, sorting 3D shapes by faces, two-digit plus one-digit addition and subtraction, three-group Venn diagrams, and number order to 500.",
+        "resourceLabel": "YouTube: Math Review: Larger Numbers, Shapes, and Operations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Larger%20Numbers%2C%20Shapes%2C%20and%20Operations%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What number comes right after 599?",
+            "options": [
+              "599",
+              "600",
+              "598",
+              "601"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What number comes right after 300 when counting by 100s?",
+            "options": [
+              "310",
+              "350",
+              "500",
+              "400"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is each equal part called when a whole is divided into five pieces?",
+            "options": [
+              "A half",
+              "A third",
+              "A quarter",
+              "A fifth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many faces does a cube have?",
+            "options": [
+              "8",
+              "5",
+              "6",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 27 minus 4?",
+            "options": [
+              "22",
+              "21",
+              "24",
+              "23"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What number comes right after 599?",
+            "answers": [
+              "600"
+            ]
+          },
+          {
+            "prompt": "How many faces does a cube have?",
+            "answers": [
+              "6"
+            ]
+          },
+          {
+            "prompt": "What is 23 plus 4?",
+            "answers": [
+              "27"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: New Animals, Earth Materials, and Simple Machines",
+        "summary": "Grade 1 Science strand review: students revisit moose, raccoons, snails, crabs, pulleys, comets and meteors, minerals, camels, and fireflies.",
+        "resourceLabel": "YouTube: Science Review: New Animals, Earth Materials, and Simple Machines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20New%20Animals%2C%20Earth%20Materials%2C%20and%20Simple%20Machines%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "Where does a moose usually live?",
+            "options": [
+              "The desert",
+              "The ocean",
+              "A city street",
+              "Forests near lakes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do raccoons use to explore and grab food?",
+            "options": [
+              "Their gills",
+              "Their wings",
+              "Their tails only",
+              "Their clever paws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a pulley?",
+            "options": [
+              "A musical instrument",
+              "A kind of shape",
+              "A type of clock",
+              "A simple machine with a wheel and rope"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a meteor?",
+            "options": [
+              "A type of planet",
+              "A large star",
+              "A small piece of rock that burns up in the sky",
+              "A kind of moon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are camels well suited to desert life?",
+            "options": [
+              "They need water every hour",
+              "They can survive long periods without food or water",
+              "They live only underwater",
+              "They cannot handle heat at all"
+            ],
+            "answer": 1
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "Where does a moose usually live?",
+            "answers": [
+              "forests near lakes"
+            ]
+          },
+          {
+            "prompt": "What is a pulley?",
+            "answers": [
+              "a simple machine with a wheel and rope"
+            ]
+          },
+          {
+            "prompt": "Why do fireflies glow?",
+            "answers": [
+              "to attract other fireflies"
+            ]
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Symbols, Leaders, and Newcomers",
+        "summary": "Grade 1 Social Studies strand review: students revisit the Great Lakes, the loon, the House of Commons, citizenship ceremonies, translators, National Flag of Canada Day, Canadian Olympians, food banks, and winter road crews.",
+        "resourceLabel": "YouTube: Social Studies Review: Symbols, Leaders, and Newcomers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Symbols%2C%20Leaders%2C%20and%20Newcomers%20grade%201%20educational",
+        "quiz": [
+          {
+            "q": "What are the Great Lakes?",
+            "options": [
+              "A set of small ponds",
+              "A chain of mountains",
+              "A desert region",
+              "A group of huge freshwater lakes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "On which Canadian coin does the loon appear?",
+            "options": [
+              "The one dollar coin",
+              "The ten cent coin",
+              "The twenty five cent coin",
+              "The five cent coin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens at a citizenship ceremony?",
+            "options": [
+              "Newcomers officially become Canadian citizens",
+              "Students take a math test",
+              "Workers build a road",
+              "People go grocery shopping"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what month is National Flag of Canada Day celebrated?",
+            "options": [
+              "October",
+              "December",
+              "June",
+              "February"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a food bank?",
+            "options": [
+              "A place to keep money safe",
+              "A place to watch movies",
+              "A store that only sells toys",
+              "A place that collects and gives out food to families in need"
+            ],
+            "answer": 3
+          }
+        ],
+        "worksheet": [
+          {
+            "prompt": "What are the Great Lakes?",
+            "answers": [
+              "huge freshwater lakes"
+            ]
+          },
+          {
+            "prompt": "On which Canadian coin does the loon appear?",
+            "answers": [
+              "the one dollar coin"
+            ]
+          },
+          {
+            "prompt": "What happens at a citizenship ceremony?",
+            "answers": [
+              "newcomers become citizens"
             ]
           }
         ]

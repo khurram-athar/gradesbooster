@@ -2656,6 +2656,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"Language", title:"Multiple-Meaning Words", summary:"Students learn that some words have more than one meaning depending on how they are used in a sentence, such as bat, an animal or something used to hit a ball, and bark, the sound a dog makes or the covering of a tree.",
    resourceLabel:"YouTube: Multiple-Meaning Words", resourceUrl:"https://www.youtube.com/results?search_query=Multiple-Meaning%20Words%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CNMj-4giv6c",
    quiz:[
      {q:"What do we call a word that has more than one meaning?", options:["A multiple-meaning word","A synonym","An antonym","A silent letter"], answer:0},
      {q:"In the sentence, the dog began to bark, what does bark mean?", options:["A type of boat","The covering of a tree","A baseball bat","The sound a dog makes"], answer:3},
@@ -2670,6 +2671,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Likely, Unlikely, Certain, and Impossible", summary:"Students learn to describe the chance of an event happening using the words certain, likely, unlikely, and impossible.",
    resourceLabel:"YouTube: Probability: Likely, Unlikely, Certain, and Impossible", resourceUrl:"https://www.youtube.com/results?search_query=Probability%3A%20Likely%2C%20Unlikely%2C%20Certain%2C%20and%20Impossible%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lYXDQ5-I7Qk",
    quiz:[
      {q:"What word describes an event that will definitely happen?", options:["Certain","Unlikely","Impossible","Random"], answer:0},
      {q:"What word describes an event that can never happen?", options:["Probable","Impossible","Likely","Certain"], answer:1},
@@ -2684,6 +2686,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Bones and Muscles: How Our Body Moves", summary:"Students learn that bones form a skeleton that supports and protects the body, while muscles work with bones to help the body move.",
    resourceLabel:"YouTube: Bones and Muscles: How Our Body Moves", resourceUrl:"https://www.youtube.com/results?search_query=Bones%20and%20Muscles%3A%20How%20Our%20Body%20Moves%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=fbmD0Y8_OWE",
    quiz:[
      {q:"What do we call the frame of bones that supports our body?", options:["A skeleton","A muscle","An organ","A joint"], answer:0},
      {q:"What body part works together with bones to help us move?", options:["Skin","Nails","Muscles","Hair"], answer:2},
@@ -2698,6 +2701,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"How We Get Our Water: From Source to Tap", summary:"Students learn how water travels from lakes and rivers, through a treatment plant that makes it clean, and finally through pipes to homes and schools.",
    resourceLabel:"YouTube: How We Get Our Water: From Source to Tap", resourceUrl:"https://www.youtube.com/results?search_query=How%20We%20Get%20Our%20Water%3A%20From%20Source%20to%20Tap%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5Ssty1ejoek",
    quiz:[
      {q:"Where might the water that reaches our homes first come from?", options:["A grocery store","A cloud only","A lake or river","A library"], answer:2},
      {q:"What do we call a place that cleans water so it is safe to drink?", options:["A fire station","A school","A water treatment plant","A farm"], answer:2},

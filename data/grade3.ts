@@ -2189,6 +2189,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"Language", title:"Grammar: Simple and Compound Sentences", summary:"Grade 3 Language strand: a simple sentence expresses one complete idea, while a compound sentence joins two related simple sentences together using a joining word like “and,” “but,” or “or.”",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=5o1Qg_zTyaw",
    quiz:[
      {q:"A simple sentence expresses ___.", options:["One complete idea","Two or more completely unrelated ideas","A concept unrelated to complete thoughts","No complete idea at all"], answer:0},
      {q:"A compound sentence joins two related simple sentences using a ___.", options:["A method unrelated to connecting sentences","A random collection of unrelated words","A number, with no connection to words","Joining word, like “and,” “but,” or “or”"], answer:3},
@@ -2198,6 +2199,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Geometry: Classifying 2D Shapes by Properties", summary:"Grade 3 Math strand: 2D shapes can be classified by properties such as the number of sides, the number of angles, or whether their sides are equal in length.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Y-AFX5cq4U0",
    quiz:[
      {q:"2D shapes can be classified by properties such as the number of ___.", options:["A property unrelated to a shape’s structure","Colours used to draw the shape","Sides","People who have drawn the shape before"], answer:2},
      {q:"A shape with three sides is called a ___.", options:["Pentagon","Square","Triangle","Hexagon"], answer:2},
@@ -2207,6 +2209,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Simple Circuits and Conductors", summary:"Grade 3 Science strand: a simple circuit is a complete loop that allows electricity to flow, and a conductor is a material, like metal, that allows electricity to pass through it easily.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=1Cq4v1ZXeRs",
    quiz:[
      {q:"A simple circuit is a complete loop that allows ___ to flow.", options:["A concept unrelated to circuits","Electricity","Air, with no connection to a circuit","Water, with no connection to electricity"], answer:1},
      {q:"A conductor is a material that allows electricity to ___.", options:["Change into a completely different form of energy","A property unrelated to electricity","Pass through it easily","Never pass through it at all"], answer:2},
@@ -2214,14 +2217,15 @@ const curriculum: DayContent[] = [
      {q:"Why must a circuit form a complete loop for electricity to flow?", options:["The shape of a circuit has no connection to whether electricity flows","This concept has no relevance to how simple circuits work","A circuit does not need to be complete for electricity to flow through it","A break anywhere in the loop stops the electric current from being able to travel all the way around"], answer:3},
      {q:"Why are materials like rubber and plastic often used to cover electrical wires?", options:["These materials have no connection to electrical safety","These insulating materials do not conduct electricity well, helping keep people safe from electric shock","This concept has no relevance to how circuits are designed","Rubber and plastic are excellent conductors of electricity"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Social Studies: Comparing Life in Rural and Urban Canada Long Ago", summary:"Grade 3 Social Studies strand: comparing rural and urban communities in Canada long ago reveals differences in daily life, work, and available services during that time period.",
-   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+  {subject:"SocialStudies", title:"Social Studies: Comparing Communities Then and Now", summary:"Grade 3 Social Studies strand: comparing communities long ago to communities today reveals differences in daily life, work, transportation, and available services over time.",
+   resourceLabel:"YouTube: Social Studies: Comparing Communities Then and Now", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Communities%20Then%20and%20Now%20grade%203%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RKTYSnllwVY",
    quiz:[
-     {q:"Comparing rural and urban communities long ago reveals differences in daily life, work, and ___.", options:["A concept unrelated to how communities differed","The exact number of residents, with no other differences considered","Only the colour of buildings","Available services"], answer:3},
-     {q:"Why might work in a rural community long ago have often centred around farming?", options:["Rural areas typically had more available land suited to agriculture","Rural communities long ago never engaged in any form of work","This concept has no relevance to understanding communities long ago","Farming had no connection to rural communities in the past"], answer:0},
-     {q:"Why might an urban community long ago have had more access to certain services than a rural one?", options:["Urban and rural communities always had access to identical services","A higher concentration of people and businesses could support more specialized services in one place","This concept has no relevance to comparing communities","The size or density of a community has no connection to available services"], answer:1},
-     {q:"Why is comparing rural and urban life long ago a useful way to understand Canadian history?", options:["This concept has no connection to studying Canadian history","Comparing these two types of communities provides no useful historical understanding","Rural and urban communities long ago were always exactly identical","It highlights how geography and community type shaped different ways of living"], answer:3},
-     {q:"Which is an example of something that might have looked different between a rural and an urban community long ago?", options:["The types of jobs available to residents","A detail entirely unrelated to how communities functioned","A concept unrelated to comparing communities","Something that would be identical in every possible community"], answer:0}
+     {q:"Comparing communities long ago to communities today reveals differences in daily life, work, and ___.", options:["A concept unrelated to how communities differed","The exact number of residents, with no other differences considered","Only the colour of buildings","Available services"], answer:3},
+     {q:"Why might work in a community long ago have often centred around farming?", options:["Communities long ago typically had more available land suited to agriculture","Communities long ago never engaged in any form of work","This concept has no relevance to understanding communities long ago","Farming had no connection to communities in the past"], answer:0},
+     {q:"Why might a community today have more access to certain services than a community long ago?", options:["Communities today and long ago always had access to identical services","New technology and a larger population can support more specialized services today","This concept has no relevance to comparing communities","The passage of time has no connection to available services"], answer:1},
+     {q:"Why is comparing life then and now a useful way to understand Canadian history?", options:["This concept has no connection to studying Canadian history","Comparing these two time periods provides no useful historical understanding","Communities then and now were always exactly identical","It highlights how technology and time shaped different ways of living"], answer:3},
+     {q:"Which is an example of something that might have looked different between a community long ago and a community today?", options:["The types of jobs and transportation available to residents","A detail entirely unrelated to how communities functioned","A concept unrelated to comparing communities","Something that would be identical in every possible community"], answer:0}
    ]},
 ]},
 {day:54, label:"Day 54 — Thu", subjects:[
@@ -6288,6 +6292,386 @@ const curriculum: DayContent[] = [
      {q:"What is a trade agreement?", options:["A type of weather pattern","A type of national holiday","A single countrys law about sports","A deal between countries that sets rules for buying and selling goods"], answer:3},
      {q:"How many territories does Canada have?", options:["Five","Three","Ten","One"], answer:1},
      {q:"What is one purpose of settlement services?", options:["To prevent newcomers from settling anywhere","To ignore the needs of newcomers","To remove newcomers from the community","To help newcomers adjust to life in Canada"], answer:3}
+   ]},
+]},
+{day:161, label:"Day 161 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Using Parentheses for Extra Information", summary:"Grade 3 Language strand: parentheses are used to add extra information or a side comment to a sentence without changing its main meaning.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do parentheses add to a sentence?", options:["A brand new subject","Extra information or a side comment","A silent letter","A completely different sentence"], answer:1},
+     {q:"Which sentence correctly uses parentheses?", options:["My dog, (a small brown terrier loves to run.","My dog (a small brown terrier) loves to run.","My dog a small brown terrier loves to run.","My dog a small brown terrier) loves to run."], answer:1},
+     {q:"Does the information inside parentheses usually change the main meaning of a sentence?", options:["Yes, it always changes the meaning completely","It replaces the subject of the sentence","No, it adds extra detail without changing the main meaning","It removes the meaning entirely"], answer:2},
+     {q:"What kind of punctuation mark are parentheses?", options:["A mark used only in titles","A single mark placed only at the end of a sentence","A mark that replaces a period","A pair of marks that wrap around extra information"], answer:3},
+     {q:"Why might a writer choose to use parentheses instead of writing a whole new sentence?", options:["To add a quick extra detail without interrupting the flow","To make the sentence impossible to read","To end the sentence early","To remove all detail from the writing"], answer:0}
+   ]},
+  {subject:"Math", title:"Number: Rounding to the Nearest 10 000", summary:"Grade 3 Math strand: to round a number to the nearest 10 000, look at the thousands digit; if it is 5 or more, round up, and if it is less than 5, round down.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is 47 000 rounded to the nearest 10 000?", options:["50 000","47 000","45 000","40 000"], answer:0},
+     {q:"What is 32 000 rounded to the nearest 10 000?", options:["30 000","40 000","32 000","35 000"], answer:0},
+     {q:"Which digit do you look at to round a number to the nearest 10 000?", options:["The hundreds digit","The tens digit","The thousands digit","The ones digit"], answer:2},
+     {q:"If the thousands digit is 5 or more, what should you do when rounding to the nearest 10 000?", options:["Round up","Leave the number unchanged","Round to the nearest 100 instead","Round down"], answer:0},
+     {q:"What is 85 400 rounded to the nearest 10 000?", options:["85 400","90 000","85 000","80 000"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Penguins and Their Adaptations for Cold Ocean Habitats", summary:"Grade 3 Science strand: penguins are flightless birds with thick layers of fat and tightly packed feathers that help them stay warm in icy ocean habitats.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What helps penguins stay warm in cold water?", options:["A layer of fur like a bear","Hollow bones filled with air only","A shell covering their whole body","A thick layer of fat and tightly packed feathers"], answer:3},
+     {q:"Can penguins fly?", options:["No, penguins are flightless birds","Yes, penguins fly long distances every day","Only baby penguins can fly","Penguins fly only underwater"], answer:0},
+     {q:"What do penguins use their wings for instead of flying?", options:["Carrying food in their wings","Digging burrows underground","Swimming through water","Building nests in trees"], answer:2},
+     {q:"Where do many penguins live?", options:["Cold ocean habitats, often near Antarctica","Rainforests","Mountain caves","Hot deserts"], answer:0},
+     {q:"Why might penguins huddle together in large groups?", options:["To confuse predators with noise only","To share warmth and stay protected from the cold","To find food faster in the ocean","To build a single giant nest"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Border Services Agency and Keeping Our Borders Safe", summary:"Grade 3 Social Studies strand: the Canadian Border Services Agency helps keep the country safe by checking travellers and goods entering Canada at airports, land crossings, and ports.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does the Canadian Border Services Agency help do?", options:["Keep the country safe by checking travellers and goods entering Canada","Build roads and highways","Deliver mail across the country","Run public libraries"], answer:0},
+     {q:"Where might border services officers work?", options:["Only inside schools","Only inside hospitals","Only inside grocery stores","Airports, land crossings, and ports"], answer:3},
+     {q:"Why might officers check goods entering the country?", options:["To avoid ever checking anything","To make sure items are allowed and safe","To slow down every traveller with no reason","To remove all goods from the country"], answer:1},
+     {q:"What might a traveller be asked to show when entering Canada?", options:["Identification, such as a passport","A grocery list","Nothing at all is ever required","A library card only"], answer:0},
+     {q:"Why is border security important to a country?", options:["It only matters for one city","It prevents any travel from happening","It helps protect the safety and rules of the country","It has no importance at all"], answer:2}
+   ]},
+]},
+{day:162, label:"Day 162 — Tue", subjects:[
+  {subject:"Language", title:"Vocabulary: Jargon — Special Words Used in a Job or Hobby", summary:"Grade 3 Language strand: jargon is special vocabulary used by people in a particular job or hobby, such as words doctors, athletes, or musicians use that may be unfamiliar to others.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is jargon?", options:["A word used only in poetry","A word with no meaning at all","Special vocabulary used by people in a particular job or hobby","A type of punctuation mark"], answer:2},
+     {q:"Which is an example of jargon a doctor might use?", options:["A specific medical term unfamiliar to most people","A common greeting like hello","A simple colour word","A basic counting word"], answer:0},
+     {q:"Why might jargon be confusing to someone outside a particular job or hobby?", options:["The words are specific to that group and not commonly used elsewhere","Jargon words never have any meaning","Jargon is always the same as slang","The words are used by everyone every day"], answer:0},
+     {q:"Why might people in the same job use jargon with each other?", options:["It prevents them from ever communicating","It has no purpose in the workplace","It allows them to communicate quickly and precisely about their work","It is required by law in every job"], answer:2},
+     {q:"Learning about jargon helps readers understand ___.", options:["That vocabulary never changes between groups","That different groups have their own specialized vocabulary","That only writers use special words","That every word means the same thing to everyone"], answer:1}
+   ]},
+  {subject:"Math", title:"Geometry: Parallel and Perpendicular Lines", summary:"Grade 3 Math strand: parallel lines never meet and stay the same distance apart, while perpendicular lines cross each other at a right angle.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is true about parallel lines?", options:["They always meet at one point","They are always curved","They always cross at a right angle","They never meet and stay the same distance apart"], answer:3},
+     {q:"What is true about perpendicular lines?", options:["They never meet at all","They are always the same length","They cross each other at a right angle","They only exist in circles"], answer:2},
+     {q:"Which pair of lines would form the letter T?", options:["Curved lines","Parallel lines","Diagonal lines that never touch","Perpendicular lines"], answer:3},
+     {q:"Do parallel lines ever cross?", options:["They cross only at right angles","No, they never cross","They cross only in 3D shapes","Yes, they always cross"], answer:1},
+     {q:"What angle is formed where two perpendicular lines meet?", options:["No angle at all","A curved angle","An angle that changes size","A right angle"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Kangaroos and Marsupial Adaptations", summary:"Grade 3 Science strand: kangaroos are marsupials, meaning their young are born tiny and undeveloped and continue growing inside a pouch on their mothers body.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What type of animal is a kangaroo?", options:["A marsupial","A fish","A reptile","An insect"], answer:0},
+     {q:"Where do baby kangaroos continue growing after birth?", options:["Underwater in a nest","Inside an egg buried in sand","Inside a burrow with no parent nearby","Inside a pouch on their mothers body"], answer:3},
+     {q:"What is a baby kangaroo called?", options:["A cub","A kit","A joey","A calf"], answer:2},
+     {q:"How do kangaroos usually move around?", options:["By slithering on the ground","By flying short distances","By hopping on their strong back legs","By swimming through rivers"], answer:2},
+     {q:"Why might a pouch be an important adaptation for a marsupial?", options:["It is used only for storing water","It only helps the animal find food","It protects and nourishes the underdeveloped young as they grow","It has no real purpose for the animal"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Indigenous Languages of Canada", summary:"Grade 3 Social Studies strand: Canada is home to many Indigenous languages, and communities and schools work to preserve and revitalize these languages for future generations.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does it mean to revitalize a language?", options:["To remove it from use completely","To help bring it back into more common use and keep it alive","To translate it into a foreign language only","To replace it with a different language entirely"], answer:1},
+     {q:"Why might communities want to preserve Indigenous languages?", options:["Because preserving languages is not valuable","Because languages have no connection to culture","To avoid teaching anything about history","To protect an important part of their culture and identity"], answer:3},
+     {q:"How many Indigenous languages are spoken across Canada?", options:["Only one single language","Many different Indigenous languages","None are spoken today","Exactly two languages only"], answer:1},
+     {q:"Which groups might help teach and preserve Indigenous languages?", options:["Only large corporations","Communities, elders, and schools","No one works to preserve languages","Only foreign governments"], answer:1},
+     {q:"Why is language considered an important part of culture?", options:["It has no connection to traditions or stories","Only written language matters to culture","It carries traditions, stories, and ways of understanding the world","Language and culture are always unrelated"], answer:2}
+   ]},
+]},
+{day:163, label:"Day 163 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Following Multi-Step Instructions", summary:"Grade 3 Language strand: multi-step instructions must be read carefully and followed in order, since skipping or reordering a step can lead to a mistake.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"Why should multi-step instructions be followed in order?", options:["Instructions have no particular order","Skipping or reordering a step can lead to a mistake","The order never matters at all","Steps are always identical to each other"], answer:1},
+     {q:"What should a reader do before starting to follow instructions?", options:["Ignore the instructions completely","Read all the steps carefully first","Guess what to do with no reading","Skip straight to the last step"], answer:1},
+     {q:"If a recipe says to mix ingredients before baking, what happens if you bake first?", options:["The recipe would always turn out perfectly","Nothing would change at all","Baking first is always the correct order","The steps would be out of order and the result may not work"], answer:3},
+     {q:"Why might numbered steps be helpful in instructions?", options:["They show the exact order the steps should be completed","They make the instructions impossible to follow","They are only used in fiction stories","They remove the need to read carefully"], answer:0},
+     {q:"What is a good strategy if you are unsure about a step in the instructions?", options:["Skip the step entirely and move on","Guess randomly what the step means","Reread the step carefully before continuing","Stop reading instructions altogether"], answer:2}
+   ]},
+  {subject:"Math", title:"Data: Reading a Bar Graph with a Scale of More Than One", summary:"Grade 3 Math strand: some bar graphs use a scale where each line represents more than one unit, such as 2 or 5, so students must multiply to find the value a bar represents.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"If each line on a bar graph represents 2 units and a bar reaches 6 lines, what value does the bar show?", options:["8","12","6","10"], answer:1},
+     {q:"Why might a bar graph use a scale of more than one?", options:["Because every bar graph must use a scale of one","To make the graph impossible to read","To represent larger amounts of data in a smaller space","To remove the need for a scale entirely"], answer:2},
+     {q:"If the scale is 5 and a bar reaches 4 lines, what value does the bar show?", options:["9","25","20","15"], answer:2},
+     {q:"What should you check first before reading the value of a bar on a graph?", options:["The colour of the bar","The shape of the bar only","The scale being used","The title of the graph only"], answer:2},
+     {q:"Why is it important to read the scale carefully on a bar graph?", options:["Misreading the scale can lead to the wrong value being reported","Bar graphs never include a scale","The scale only matters for line graphs","The scale never affects the value of a bar"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Aurora Borealis — Northern Lights", summary:"Grade 3 Science strand: the aurora borealis, or northern lights, is a colourful display in the night sky caused by particles from the Sun interacting with Earths atmosphere near the poles.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is another name for the aurora borealis?", options:["The morning star","The northern lights","The evening tide","The falling stars"], answer:1},
+     {q:"What causes the aurora borealis?", options:["Lightning during a storm","Sunlight passing through raindrops","Reflections from the Moon only","Particles from the Sun interacting with Earths atmosphere"], answer:3},
+     {q:"Where is the aurora borealis most often seen?", options:["Near the equator","Near the North Pole, in places with northern latitudes","Only in deserts","Only over the ocean at noon"], answer:1},
+     {q:"What does the aurora borealis look like in the sky?", options:["A solid grey cloud","Colourful, moving lights","A dark empty patch of sky","A single still white dot"], answer:1},
+     {q:"Why might scientists study the aurora borealis?", options:["Because it never actually happens","To better understand how the Sun affects Earths atmosphere","Because it has no scientific value","Because it only appears in stories"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of Ontarios Lieutenant Governor", summary:"Grade 3 Social Studies strand: the Lieutenant Governor represents the Crown in Ontario, performing ceremonial duties such as opening the legislature and giving royal assent to new provincial laws.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Who does the Lieutenant Governor represent in Ontario?", options:["A private business","The Crown","A foreign country","A single city only"], answer:1},
+     {q:"Which is a duty of the Lieutenant Governor?", options:["Coaching a sports team","Giving royal assent to new provincial laws","Driving a school bus","Running a local grocery store"], answer:1},
+     {q:"What kind of role is the Lieutenant Governor mainly considered?", options:["A ceremonial role","A role limited to one school","A role only in the military","A role with no responsibilities at all"], answer:0},
+     {q:"Which event might the Lieutenant Governor take part in?", options:["Opening a new session of the provincial legislature","Repairing a highway","Coaching a hockey game","Running a bakery"], answer:0},
+     {q:"Why does Ontario have a Lieutenant Governor?", options:["To represent the Crown at the provincial level","Because every store needs one","To replace the need for any government","To manage a single school board"], answer:0}
+   ]},
+]},
+{day:164, label:"Day 164 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Limerick", summary:"Grade 3 Language strand: a limerick is a five-line humorous poem with a bouncy rhythm and an AABBA rhyme pattern, often ending with a funny or surprising line.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"How many lines does a limerick have?", options:["Ten","Three","Five","Seven"], answer:2},
+     {q:"What is the rhyme pattern of a limerick?", options:["ABAB","AAAA","ABCD","AABBA"], answer:3},
+     {q:"What tone do limericks often have?", options:["Extremely serious","Humorous","Silent, with no words","Always sad"], answer:1},
+     {q:"Which lines in a limerick usually rhyme with each other?", options:["Lines 1 and 4 only","No lines rhyme at all","Every line rhymes with no pattern","Lines 1, 2, and 5"], answer:3},
+     {q:"Why might a writer choose to write a limerick?", options:["To write a long, serious essay","To remove all rhythm from a poem","To avoid using any rhyme","To create a short, funny poem with a bouncy rhythm"], answer:3}
+   ]},
+  {subject:"Math", title:"Multiplication: Finding Missing Factors", summary:"Grade 3 Math strand: to find a missing factor in a multiplication sentence, such as 6 x ___ = 42, students can use known multiplication facts or division to solve for the unknown number.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What is the missing factor in 6 x ___ = 42?", options:["9","8","7","6"], answer:2},
+     {q:"What operation can help find a missing factor?", options:["Estimating only","Division","Subtraction only","Rounding"], answer:1},
+     {q:"What is the missing factor in ___ x 4 = 28?", options:["6","9","7","8"], answer:2},
+     {q:"In the sentence 5 x ___ = 45, what is the missing number?", options:["10","7","9","8"], answer:2},
+     {q:"Why might finding a missing factor be useful?", options:["It has no real use in math","It removes the need for multiplication entirely","It helps solve problems where only the product and one factor are known","It only works with even numbers"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Spiders and How They Spin Their Webs", summary:"Grade 3 Science strand: spiders produce silk from special glands and use it to spin webs that trap insects for food, with different spiders building different web shapes.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What do spiders use to spin their webs?", options:["Mud and small stones","Leaves glued together","Feathers from birds","Silk produced from special glands"], answer:3},
+     {q:"Why do many spiders build webs?", options:["To trap insects for food","To build a home for fish","To block sunlight completely","To store water for drinking"], answer:0},
+     {q:"Do all spiders build the same shaped web?", options:["Spiders never build webs at all","Only baby spiders build webs","Yes, every spider builds an identical web","No, different spiders build different web shapes"], answer:3},
+     {q:"Where does a spiders silk come from?", options:["The leaves of a tree","Its stomach after eating","Special glands in its body","Another animals fur"], answer:2},
+     {q:"Why might a web help a spider catch food without chasing it?", options:["Spiders never eat insects caught in webs","The web traps insects that fly or crawl into it","The web has no connection to catching food","The web scares insects away from the area"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Armed Forces and National Defence", summary:"Grade 3 Social Studies strand: the Canadian Armed Forces work to defend Canada and support Canadians during emergencies, both within the country and alongside allies abroad.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is a main role of the Canadian Armed Forces?", options:["To defend Canada","To manage grocery stores","To deliver mail across the country","To run public libraries"], answer:0},
+     {q:"Besides defence, what else might the Canadian Armed Forces help with?", options:["Building shopping malls","Selling groceries to families","Running television stations","Supporting Canadians during emergencies"], answer:3},
+     {q:"Might the Canadian Armed Forces work with other countries?", options:["Yes, alongside allies abroad","Only during sporting events","No, they never leave Canada for any reason","Only to sell products overseas"], answer:0},
+     {q:"Why is national defence important to a country?", options:["It helps keep the country and its people safe","It only matters during a holiday","It replaces the need for any government","It has no importance to a country"], answer:0},
+     {q:"Which is an example of a branch within a countrys armed forces?", options:["An army, navy, or air force","A public library system","A postal service","A school board"], answer:0}
+   ]},
+]},
+{day:165, label:"Day 165 — Fri", subjects:[
+  {subject:"Language", title:"Oral Communication: Using Visual Aids During a Presentation", summary:"Grade 3 Language strand: visual aids, such as posters, pictures, or slides, can help a speaker explain ideas more clearly and keep an audience engaged during a presentation.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a visual aid?", options:["A type of punctuation mark","A silent letter in a word","Something like a poster, picture, or slide used to support a presentation","A rule for capitalization"], answer:2},
+     {q:"Why might a speaker use a visual aid?", options:["To help explain ideas more clearly and keep the audience engaged","To confuse the audience on purpose","To make a presentation longer with no purpose","To avoid speaking at all during a presentation"], answer:0},
+     {q:"Which is an example of a visual aid?", options:["A closed book with no pictures","Complete silence","A poster with pictures and labels","A blank sheet of paper"], answer:2},
+     {q:"When should a visual aid be shown during a presentation?", options:["Only after the presentation has completely ended","At the point in the talk where it supports what is being said","Visual aids should never be shown at all","Before the presentation begins and never again"], answer:1},
+     {q:"Why might a visual aid help an audience understand a topic?", options:["It has no effect on audience understanding","It removes all information from the presentation","It replaces the need for the speaker entirely","It gives the audience something to see alongside what they hear"], answer:3}
+   ]},
+  {subject:"Math", title:"Division: Dividing Using Repeated Subtraction", summary:"Grade 3 Math strand: repeated subtraction is a division strategy where the divisor is subtracted from the dividend again and again until reaching zero, and the number of subtractions equals the quotient.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"In repeated subtraction, what number equals the quotient?", options:["The remainder left at the end","The first number in the problem","The sum of all the numbers subtracted","The number of times the divisor was subtracted"], answer:3},
+     {q:"To divide 20 by 5 using repeated subtraction, how many times would you subtract 5?", options:["4 times","5 times","3 times","20 times"], answer:0},
+     {q:"What should the result be after subtracting the divisor the correct number of times?", options:["A negative number always","Zero","The original dividend","The divisor itself"], answer:1},
+     {q:"Why might repeated subtraction help someone understand division?", options:["It shows division as splitting a total into equal groups one at a time","It only works with fractions","It removes the need to ever understand division","It replaces multiplication entirely"], answer:0},
+     {q:"To divide 15 by 3 using repeated subtraction, how many times would you subtract 3?", options:["4 times","5 times","3 times","15 times"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Sonar — How Sound Helps Animals and Submarines See Underwater", summary:"Grade 3 Science strand: sonar uses sound waves that bounce off objects and return as echoes, helping animals such as dolphins and vehicles such as submarines detect objects underwater.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What does sonar use to detect objects underwater?", options:["Sound waves that bounce off objects and return as echoes","Light beams that shine through water","Radio signals sent to outer space","Magnets that attract metal objects"], answer:0},
+     {q:"Which animal is known for using a form of sonar called echolocation?", options:["A dolphin","A chicken","A rabbit","A cow"], answer:0},
+     {q:"Which underwater vehicle might use sonar?", options:["A bicycle","A hot air balloon","A school bus","A submarine"], answer:3},
+     {q:"Why might sonar be useful underwater where it is hard to see?", options:["It removes the need to detect any objects","It allows objects to be detected using sound instead of sight","It replaces the need for water entirely","It works only in complete darkness on land"], answer:1},
+     {q:"What happens to a sound wave when it hits an object underwater?", options:["It turns into a beam of light","It disappears completely with no trace","It bounces back as an echo","It stops moving forever"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canada-US Border — The Longest Undefended Border in the World", summary:"Grade 3 Social Studies strand: the border between Canada and the United States is known as the longest undefended border in the world, and it supports close trade and travel between the two countries.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the border between Canada and the United States often called?", options:["A border that does not actually exist","A border found only on old maps","The longest undefended border in the world","The shortest border in the world"], answer:2},
+     {q:"What does undefended mean in this context?", options:["The border changes location every year","The border has no military forces stationed to guard it","No one is allowed to cross the border ever","The border is guarded by soldiers at every metre"], answer:1},
+     {q:"Why might close trade happen between Canada and the United States?", options:["They are located on different continents","Trade between the two countries is against the law","They have no connection to each other at all","They share a long border and strong economic ties"], answer:3},
+     {q:"What might a traveller need to cross the Canada-US border?", options:["Nothing at all is ever required","A grocery receipt","A library card only","Identification, such as a passport"], answer:3},
+     {q:"Why is the Canada-US border considered unique among world borders?", options:["It is long and peaceful, without military defence along it","It only allows animals to cross","It is completely closed at all times","It is the only border that has ever existed"], answer:0}
+   ]},
+]},
+{day:166, label:"Day 166 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Correlative Conjunctions (Either/Or, Neither/Nor)", summary:"Grade 3 Language strand: correlative conjunctions such as either/or and neither/nor are pairs of words that work together to connect related ideas in a sentence.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What are correlative conjunctions?", options:["A word that has no meaning at all","Pairs of words that work together to connect related ideas","A single silent letter in a word","A type of punctuation mark used only in titles"], answer:1},
+     {q:"Which is an example of a correlative conjunction pair?", options:["Happy/sad","Run/jump","Quick/slow","Either/or"], answer:3},
+     {q:"Which sentence correctly uses a correlative conjunction pair?", options:["Neither you clean your room, or you cannot go outside.","You clean your room, either or not go outside.","Either you clean your room, or you cannot go outside.","Either you clean your room, but you cannot go outside."], answer:2},
+     {q:"What is another correlative conjunction pair besides either/or?", options:["Fast/slow","Neither/nor","Loud/quiet","Big/small"], answer:1},
+     {q:"Why might a writer use correlative conjunctions?", options:["To clearly connect two related choices or ideas in one sentence","To remove all connections between ideas","To make a sentence impossible to understand","To avoid ever using conjunctions"], answer:0}
+   ]},
+  {subject:"Math", title:"Measurement: Choosing the Right Unit to Measure Everyday Objects", summary:"Grade 3 Math strand: choosing an appropriate unit of measurement, such as centimetres for a pencil or metres for a hallway, depends on the size of the object being measured.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which unit would be best to measure the length of a pencil?", options:["Centimetres","Litres","Kilometres","Metres"], answer:0},
+     {q:"Which unit would be best to measure the length of a hallway?", options:["Litres","Millimetres","Grams","Metres"], answer:3},
+     {q:"Why is it important to choose an appropriate unit for measuring an object?", options:["It always makes the number larger","It makes the measurement accurate and easy to understand","It has no effect on the measurement at all","It removes the need for measuring altogether"], answer:1},
+     {q:"Which unit would be best to measure the mass of an apple?", options:["Litres","Metres","Kilometres","Grams"], answer:3},
+     {q:"Which unit would be best to measure the capacity of a bathtub?", options:["Litres","Grams","Kilometres","Centimetres"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Forest Canopy — Layers of a Forest Ecosystem", summary:"Grade 3 Science strand: a forest ecosystem has distinct layers, including the forest floor, understory, canopy, and emergent layer, each providing a different habitat for plants and animals.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What is the canopy of a forest?", options:["The layer of soil deep underground","The layer formed by the leafy tops of tall trees","A single flower found only in spring","A layer made entirely of rocks"], answer:1},
+     {q:"Which layer of a forest is closest to the ground?", options:["The emergent layer","The forest floor","The canopy","The upper atmosphere"], answer:1},
+     {q:"Why might different animals live in different layers of a forest?", options:["Animals never choose where they live","Every layer of a forest is exactly the same","Forests only have a single layer","Each layer offers different food, light, and shelter"], answer:3},
+     {q:"Which forest layer receives the most sunlight?", options:["The layer of soil underground","A layer found only at night","The canopy or emergent layer","The forest floor"], answer:2},
+     {q:"Why do scientists study the layers of a forest ecosystem?", options:["To understand how plants and animals use different parts of the habitat","Because forests never have more than one layer","Because layers only exist in oceans","Because forest layers have no scientific value"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Ferries and Water Transportation Across Canada", summary:"Grade 3 Social Studies strand: ferries carry passengers, vehicles, and goods across lakes, rivers, and coastal waters, connecting communities that are separated by water.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do ferries carry across bodies of water?", options:["Only letters and postcards","Nothing at all","Passengers, vehicles, and goods","Only farm animals"], answer:2},
+     {q:"Why might a community rely on a ferry?", options:["The community is separated from other areas by water","The community has no roads anywhere nearby","Ferries are required by every community","The community is located on a mountain"], answer:0},
+     {q:"Which type of body of water might a ferry cross?", options:["A lake, river, or coastal water","A dry desert","A city sidewalk","A forest with no water"], answer:0},
+     {q:"Why is water transportation important in some parts of Canada?", options:["It only matters in one province","It connects communities that would otherwise be hard to reach by road","It replaces the need for all other transportation everywhere","It has no importance to any community"], answer:1},
+     {q:"What is one benefit of a ferry service for a coastal community?", options:["It prevents any travel between communities","It provides a reliable way to travel and transport goods across the water","It has no connection to the local economy","It only operates once every ten years"], answer:1}
+   ]},
+]},
+{day:167, label:"Day 167 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Identifying an Authors Intended Audience", summary:"Grade 3 Language strand: an authors intended audience is the group of readers a text is written for, and recognizing the audience helps readers understand the authors word choice and tone.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is an authors intended audience?", options:["The title of the text","The setting of the story","A single word in the text","The group of readers a text is written for"], answer:3},
+     {q:"Why might recognizing the audience help a reader understand a text?", options:["It explains the authors word choice and tone","It has no connection to how a text is written","It removes all meaning from the text","It only matters for poetry"], answer:0},
+     {q:"Which audience might a picture book with simple words be written for?", options:["Only university professors","Only engineers","Young children","Only scientists"], answer:2},
+     {q:"Which audience might a technical manual with complex vocabulary be written for?", options:["Adults with specialized knowledge","Toddlers learning to talk","Babies who cannot yet read","Animals"], answer:0},
+     {q:"Why might an author change their writing style depending on the audience?", options:["To make every text confusing on purpose","To make sure the text is clear and appropriate for those readers","Because writing style never needs to change","Authors never consider who will read their writing"], answer:1}
+   ]},
+  {subject:"Math", title:"Fractions: Ordering Three or More Fractions with the Same Denominator", summary:"Grade 3 Math strand: when fractions share the same denominator, they can be ordered from least to greatest by comparing their numerators.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"To order fractions with the same denominator, what should you compare?", options:["The number of fractions given","The colours of the fractions","The denominators only","The numerators"], answer:3},
+     {q:"Which list correctly orders 2/8, 5/8, and 1/8 from least to greatest?", options:["5/8, 2/8, 1/8","1/8, 2/8, 5/8","8/8, 2/8, 1/8","2/8, 1/8, 5/8"], answer:1},
+     {q:"Which fraction is the greatest: 3/6, 5/6, or 1/6?", options:["6/6","3/6","1/6","5/6"], answer:3},
+     {q:"Why can you order fractions with the same denominator just by looking at the numerators?", options:["The parts are the same size, so a larger numerator means a larger fraction","Numerators never affect the size of a fraction","The denominators always change between fractions","Fractions with the same denominator cannot be compared"], answer:0},
+     {q:"Which list correctly orders 4/10, 7/10, and 2/10 from greatest to least?", options:["4/10, 7/10, 2/10","7/10, 4/10, 2/10","2/10, 4/10, 7/10","2/10, 7/10, 4/10"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: How Igloos and Snow Insulate Against Cold", summary:"Grade 3 Science strand: snow contains trapped air that acts as insulation, and an igloo is built from packed snow blocks that use this trapped air to keep the inside warmer than the freezing air outside.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What does snow contain that helps it act as insulation?", options:["Solid rock","Trapped air","Liquid water only","Melted ice only"], answer:1},
+     {q:"What is an igloo built from?", options:["Wooden logs","Bricks and cement","Packed snow blocks","Sheets of glass"], answer:2},
+     {q:"Why can the inside of an igloo be warmer than the freezing air outside?", options:["Snow blocks remove all warmth completely","Igloos are built only in warm climates","The trapped air in the snow blocks helps insulate the inside","Igloos are always heated by fire inside"], answer:2},
+     {q:"What does insulation help do?", options:["Speed up the loss of heat completely","Turn cold air into warm air instantly","Slow down the movement of heat, keeping warmth in or cold out","Remove the need for any shelter"], answer:2},
+     {q:"Why might Arctic peoples have used igloos for shelter?", options:["They provided warmth using materials available in a cold environment","Igloos require materials found only in deserts","Igloos were only ever used for storage","Igloos have no connection to survival in the cold"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Ontario Legislature at Queens Park", summary:"Grade 3 Social Studies strand: the Ontario Legislature, located at Queens Park in Toronto, is where elected members debate and pass provincial laws for Ontario.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"Where is the Ontario Legislature located?", options:["A building outside of Canada","A building in another province","A small town in northern Ontario","Queens Park in Toronto"], answer:3},
+     {q:"What happens at the Ontario Legislature?", options:["Local sports games are played","Elected members debate and pass provincial laws","Mail is sorted and delivered","Groceries are bought and sold"], answer:1},
+     {q:"Who works at the Ontario Legislature to represent their communities?", options:["Elected members of provincial parliament","Only foreign diplomats","Only school principals","Only unelected volunteers"], answer:0},
+     {q:"Why is the Ontario Legislature an important building?", options:["It is closed to all government activity","It is only used for storing furniture","It is where decisions about provincial laws are made","It has no real purpose in Ontario"], answer:2},
+     {q:"What kind of laws are passed at the Ontario Legislature?", options:["No laws are ever passed there","Laws for a single street only","Provincial laws for Ontario","Laws for every country in the world"], answer:2}
+   ]},
+]},
+{day:168, label:"Day 168 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Weather Report", summary:"Grade 3 Language strand: a weather report shares current or upcoming weather conditions using clear, factual language, often including details such as temperature, precipitation, and wind.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What does a weather report share?", options:["A description of a math problem","A list of favourite foods","Current or upcoming weather conditions","A summary of a sports game"], answer:2},
+     {q:"Which detail might a weather report include?", options:["The title of a song","A characters name in a story","A list of math facts","Temperature, precipitation, or wind"], answer:3},
+     {q:"What kind of language does a weather report usually use?", options:["Confusing, made-up language","Clear, factual language","Language written only in rhyme","Language with no real information"], answer:1},
+     {q:"Why is it useful for a weather report to be factual and clear?", options:["Because facts are never useful in a report","So the weather can be kept a secret","So readers or listeners can plan their day based on accurate information","So no one can understand the report at all"], answer:2},
+     {q:"Which is an example of information found in a weather report?", options:["A forecast of rain expected in the afternoon","A recipe for dinner","A list of homework assignments","The rules of a board game"], answer:0}
+   ]},
+  {subject:"Math", title:"Patterning: Creating Your Own Number Pattern Using a Rule", summary:"Grade 3 Math strand: students can create their own number pattern by choosing a starting number and a rule, such as adding 4 each time, then applying the rule repeatedly to generate the pattern.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What two things do you need to create a number pattern?", options:["A starting number and a rule","Only a calculator","A list of random letters","Only a ruler"], answer:0},
+     {q:"If the starting number is 3 and the rule is add 4, what are the first four terms?", options:["3, 4, 5, 6","4, 8, 12, 16","3, 6, 9, 12","3, 7, 11, 15"], answer:3},
+     {q:"If the starting number is 20 and the rule is subtract 5, what is the third term?", options:["5","10","20","15"], answer:1},
+     {q:"Why is it important to apply the same rule every time when creating a pattern?", options:["It keeps the pattern consistent and predictable","Patterns never need a consistent rule","It makes the pattern impossible to predict","Rules should change with every term"], answer:0},
+     {q:"If the rule is multiply by 2 starting at 1, what are the first four terms?", options:["1, 2, 3, 4","1, 2, 4, 8","1, 3, 5, 7","2, 4, 6, 8"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Chameleons and How They Change Colour", summary:"Grade 3 Science strand: chameleons can change the colour of their skin using special cells, which helps them communicate, regulate temperature, and sometimes blend into their surroundings.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What helps a chameleon change the colour of its skin?", options:["A shell around its body","Feathers on its back","A layer of fur","Special cells in its skin"], answer:3},
+     {q:"Which is one reason a chameleon might change colour?", options:["To grow additional legs","To become a different animal entirely","To help regulate its body temperature","To stop breathing completely"], answer:2},
+     {q:"Can changing colour help a chameleon communicate?", options:["No, colour has no connection to communication","Chameleons never interact with each other","Only humans can understand colour changes","Yes, colour changes can send signals to other chameleons"], answer:3},
+     {q:"Does a chameleon only change colour to hide from predators?", options:["Chameleons never change colour at all","No, it changes colour for several reasons, not only hiding","Yes, hiding is the only reason","Colour change only happens once in a lifetime"], answer:1},
+     {q:"What body part do many chameleons have that helps them see in different directions at once?", options:["Their skin, which replaces their eyes","Their feet, which sense colour","Their eyes, which can move independently","Their tail, which can see in the dark"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas National Wildlife Areas and Migratory Bird Sanctuaries", summary:"Grade 3 Social Studies strand: Canada protects important habitats through national wildlife areas and migratory bird sanctuaries, helping conserve species and the places they depend on.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What do national wildlife areas and bird sanctuaries help protect?", options:["Factories and warehouses","Important habitats for wildlife","Shopping malls and parking lots","City streets and sidewalks"], answer:1},
+     {q:"Why might a migratory bird sanctuary be created?", options:["To remove birds from the environment completely","To protect birds that travel long distances between habitats","To prevent birds from ever migrating","Because birds never need protected habitats"], answer:1},
+     {q:"What is one benefit of protecting these areas?", options:["It has no benefit to wildlife at all","It removes the need for any habitat","It helps conserve species and the places they depend on","It only benefits a single business"], answer:2},
+     {q:"Who might help manage a national wildlife area?", options:["Only private shopping companies","Only foreign militaries","Government agencies and conservation organizations","No one manages these areas at all"], answer:2},
+     {q:"Why is habitat protection important for migrating animals?", options:["They need safe places to rest and feed along their journey","Animals that migrate do not need any habitat","Habitat protection has no effect on migration","Migrating animals never need to rest"], answer:0}
+   ]},
+]},
+{day:169, label:"Day 169 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Clipped Words — Shortened Forms of Longer Words", summary:"Grade 3 Language strand: a clipped word is a shortened form of a longer word, such as phone from telephone, gym from gymnasium, and photo from photograph.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What is a clipped word?", options:["A word with no meaning at all","A word borrowed from another language","A type of punctuation mark","A shortened form of a longer word"], answer:3},
+     {q:"The word phone is a clipped form of which longer word?", options:["Photograph","Advertisement","Telephone","Gymnasium"], answer:2},
+     {q:"The word gym is a clipped form of which longer word?", options:["Telephone","Automobile","Photograph","Gymnasium"], answer:3},
+     {q:"Why might people use clipped words in everyday speech?", options:["They are quicker and easier to say than the full word","They are only used in formal writing","They have no connection to the original word","They are always longer than the original word"], answer:0},
+     {q:"Which is an example of a clipped word?", options:["Balcony, from Italian","Canoe, from an Indigenous language","Kindergarten, from German","Photo, from photograph"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Making a Simple Budget for a Class Event", summary:"Grade 3 Math strand: a budget lists expected costs for an event and compares them to the money available, helping planners decide what they can afford and where to adjust spending.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"What does a budget list?", options:["Only the date of an event","Only the weather forecast","Only the guest list for an event","Expected costs and the money available"], answer:3},
+     {q:"Why might a class create a budget before planning an event?", options:["To make sure they do not spend more money than they have","To remove the need for any money at all","To avoid ever planning any event","Because budgets have no real purpose"], answer:0},
+     {q:"If a class has 50 dollars and plans to spend 20 dollars on decorations and 15 dollars on snacks, how much money remains?", options:["35 dollars","5 dollars","15 dollars","20 dollars"], answer:2},
+     {q:"What might a class do if their planned costs are more than their budget allows?", options:["Cancel all future events permanently","Ignore the budget completely","Spend money they do not have","Adjust spending or find ways to reduce costs"], answer:3},
+     {q:"Why is budgeting a useful skill for planning any event?", options:["It has no connection to planning an event","It helps ensure spending stays within the money that is available","It removes the need to plan at all","It only applies to large businesses"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Woodpeckers and Their Special Adaptations", summary:"Grade 3 Science strand: woodpeckers have strong beaks, shock-absorbing skulls, and gripping feet that allow them to peck into tree trunks to find insects and create nesting holes.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What do woodpeckers use their strong beaks for?", options:["Swimming through rivers","Pecking into tree trunks","Digging burrows underground","Catching fish in the ocean"], answer:1},
+     {q:"Why might a woodpecker peck into a tree trunk?", options:["To build a home underwater","To make the tree grow faster","To find insects or create a nesting hole","To remove all the leaves from a tree"], answer:2},
+     {q:"What adaptation helps protect a woodpeckers brain while pecking?", options:["Extra feathers on its wings","A layer of thick fur","A hard outer shell","A shock-absorbing skull"], answer:3},
+     {q:"What helps a woodpecker grip onto a tree trunk?", options:["A long tail that anchors into soil","A sticky substance on its beak","Its strong, gripping feet","Wheels on its feet"], answer:2},
+     {q:"Why are woodpeckers considered well adapted to life in trees?", options:["Their bodies have special features suited to pecking and climbing trees","They never interact with trees","They have no special features at all","They live only underground"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Trans-Canada Trail — Canadas Cross-Country Recreational Trail", summary:"Grade 3 Social Studies strand: the Trans-Canada Trail is a network of recreational trails stretching across the country, connecting communities and offering space for walking, cycling, and other outdoor activities.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What is the Trans-Canada Trail?", options:["A canal used only for shipping","A railway used only for cargo","A network of recreational trails stretching across the country","A single highway for cars only"], answer:2},
+     {q:"Which activities might people do on the Trans-Canada Trail?", options:["Only sailing large ships","Only flying airplanes","Walking, cycling, and other outdoor activities","Only driving large trucks"], answer:2},
+     {q:"How does the Trans-Canada Trail connect Canada?", options:["It links communities across the country with connected trails","It only exists within a single city","It separates communities from each other completely","It has no connection between any communities"], answer:0},
+     {q:"Why might communities value having a section of the Trans-Canada Trail nearby?", options:["It has no benefit to nearby communities","It is closed to the public at all times","It offers recreational space and connects them to other communities","It removes all outdoor space from the community"], answer:2},
+     {q:"What kind of trail is the Trans-Canada Trail, compared to a highway?", options:["A trail meant only for trains","A trail meant only for airplanes","A trail meant only for large trucks","A recreational trail meant for walking, cycling, and similar activities"], answer:3}
+   ]},
+]},
+{day:170, label:"Day 170 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Parentheses, Jargon, and Presentation Skills", summary:"Grade 3 Language strand review: students revisit using parentheses for extra information, jargon, following multi-step instructions, writing a limerick, using visual aids during a presentation, correlative conjunctions, identifying an authors intended audience, writing a weather report, and clipped words.",
+   resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   quiz:[
+     {q:"What do parentheses add to a sentence?", options:["Extra information or a side comment","A completely different sentence","A silent letter","A brand new subject"], answer:0},
+     {q:"What is jargon?", options:["Special vocabulary used by people in a particular job or hobby","A word used only in poetry","A type of punctuation mark","A word with no meaning at all"], answer:0},
+     {q:"How many lines does a limerick have?", options:["Seven","Three","Five","Ten"], answer:2},
+     {q:"What are correlative conjunctions?", options:["A type of punctuation mark used only in titles","A word that has no meaning at all","A single silent letter in a word","Pairs of words that work together to connect related ideas"], answer:3},
+     {q:"What is a clipped word?", options:["A word with no meaning at all","A shortened form of a longer word","A word borrowed from another language","A type of punctuation mark"], answer:1}
+   ]},
+  {subject:"Math", title:"Math Review: Rounding, Parallel Lines, and Budgeting", summary:"Grade 3 Math strand review: students revisit rounding to the nearest 10 000, parallel and perpendicular lines, reading a bar graph with a scale of more than one, finding missing factors, ordering fractions with the same denominator, dividing using repeated subtraction, choosing the right unit of measurement, creating a number pattern using a rule, and making a simple budget.",
+   resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   quiz:[
+     {q:"Which digit do you look at to round a number to the nearest 10 000?", options:["The ones digit","The thousands digit","The hundreds digit","The tens digit"], answer:1},
+     {q:"What is true about parallel lines?", options:["They always meet at one point","They always cross at a right angle","They are always curved","They never meet and stay the same distance apart"], answer:3},
+     {q:"What is the missing factor in 6 x ___ = 42?", options:["6","8","9","7"], answer:3},
+     {q:"To order fractions with the same denominator, what should you compare?", options:["The number of fractions given","The colours of the fractions","The numerators","The denominators only"], answer:2},
+     {q:"What does a budget list?", options:["Only the date of an event","Only the weather forecast","Only the guest list for an event","Expected costs and the money available"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Animal Adaptations, Sound, and the Night Sky", summary:"Grade 3 Science strand review: students revisit penguins, kangaroos, the aurora borealis, spiders, sonar, the forest canopy, igloos and insulation, chameleons, and woodpeckers.",
+   resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   quiz:[
+     {q:"What helps penguins stay warm in cold water?", options:["A layer of fur like a bear","Hollow bones filled with air only","A shell covering their whole body","A thick layer of fat and tightly packed feathers"], answer:3},
+     {q:"What type of animal is a kangaroo?", options:["A fish","A reptile","An insect","A marsupial"], answer:3},
+     {q:"What causes the aurora borealis?", options:["Sunlight passing through raindrops","Lightning during a storm","Reflections from the Moon only","Particles from the Sun interacting with Earths atmosphere"], answer:3},
+     {q:"What does sonar use to detect objects underwater?", options:["Light beams that shine through water","Radio signals sent to outer space","Sound waves that bounce off objects and return as echoes","Magnets that attract metal objects"], answer:2},
+     {q:"What helps a chameleon change the colour of its skin?", options:["A layer of fur","Special cells in its skin","A shell around its body","Feathers on its back"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Borders, Government, and Transportation", summary:"Grade 3 Social Studies strand review: students revisit the Canadian Border Services Agency, Indigenous languages of Canada, the Lieutenant Governor, the Canadian Armed Forces, the Canada-US border, ferries, the Ontario Legislature, national wildlife areas, and the Trans-Canada Trail.",
+   resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   quiz:[
+     {q:"What does the Canadian Border Services Agency help do?", options:["Run public libraries","Deliver mail across the country","Build roads and highways","Keep the country safe by checking travellers and goods entering Canada"], answer:3},
+     {q:"Why might communities want to preserve Indigenous languages?", options:["To protect an important part of their culture and identity","To avoid teaching anything about history","Because preserving languages is not valuable","Because languages have no connection to culture"], answer:0},
+     {q:"Who does the Lieutenant Governor represent in Ontario?", options:["The Crown","A single city only","A private business","A foreign country"], answer:0},
+     {q:"What is a main role of the Canadian Armed Forces?", options:["To run public libraries","To manage grocery stores","To deliver mail across the country","To defend Canada"], answer:3},
+     {q:"What is the Trans-Canada Trail?", options:["A single highway for cars only","A canal used only for shipping","A railway used only for cargo","A network of recreational trails stretching across the country"], answer:3}
    ]},
 ]},
 ];
