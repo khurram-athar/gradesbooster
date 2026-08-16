@@ -12635,6 +12635,7 @@
         "summary": "Grade 10 English strand: a college or scholarship application essay presents a compelling personal narrative that highlights a student’s character, achievements, and goals within a concise, structured format.",
         "resourceLabel": "TVO Learn: Grade 10 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "videoUrl": "https://www.youtube.com/watch?v=ncMnMH5Uovg",
         "quiz": [
           {
             "q": "A college or scholarship application essay is designed to present ___.",
@@ -12812,6 +12813,7 @@
         "summary": "Grade 10 History strand: Canada contributed troops and resources to the United Nations coalition during the 1950-1953 Korean War, marking a significant early Cold War military commitment.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=CuMagO1nJ6o",
         "quiz": [
           {
             "q": "The Korean War took place primarily between which years?",
@@ -38996,6 +38998,2426 @@
               "June 6, 1944",
               "December 1943",
               "May 8, 1945"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 161,
+    "label": "Day 161 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Livestreaming and Influencer Culture",
+        "summary": "Grade 10 English strand: livestreaming and influencer culture involve content creators broadcasting in real time or building a personal brand across social platforms, often blurring the line between authentic personal expression and commercial promotion aimed at a following audience.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is a defining feature of livestreaming?",
+            "options": [
+              "Publishing a printed newspaper once a week",
+              "Broadcasting content to an audience in real time",
+              "Mailing a letter to a single recipient",
+              "Recording a film with no audience of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does influencer culture typically involve?",
+            "options": [
+              "A library cataloguing printed books by subject",
+              "A content creator building a personal brand and audience across social platforms",
+              "A government agency regulating all social media content",
+              "A factory manufacturing television sets"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can influencer content blur the line between authenticity and promotion?",
+            "options": [
+              "Influencers are legally required to avoid any promotional content",
+              "Livestreams cannot include any commercial material by definition",
+              "Creators often promote products or brands while presenting content as personal or unscripted",
+              "Influencer content never includes any personal opinion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What term describes a creators audience of regular followers?",
+            "options": [
+              "A congress",
+              "A jury",
+              "A committee",
+              "A following"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is media literacy useful when viewing livestreamed or influencer content?",
+            "options": [
+              "It helps viewers recognize when personal content is also serving a promotional or commercial purpose",
+              "It removes any need to think critically about online content",
+              "It proves that livestreams are always entirely unscripted",
+              "It guarantees that all influencer content is completely free of promotion"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: Curve Sketching Using the First and Second Derivative Tests",
+        "summary": "Grade 10 Math strand: curve sketching uses the first derivative to locate increasing and decreasing intervals and turning points, and the second derivative to determine concavity and inflection points, combining both tests to produce an accurate graph of a function without plotting every point.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the first derivative test help locate on a graph?",
+            "options": [
+              "Increasing and decreasing intervals and turning points",
+              "The total number of variables in the function",
+              "The name of the mathematician who defined the function",
+              "The exact colour used to draw the graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the second derivative test help determine?",
+            "options": [
+              "Concavity and inflection points",
+              "The domain of a completely unrelated function",
+              "The exact y-intercept only",
+              "The number of times a graph must be redrawn"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a mathematician sketch a curve using derivative tests rather than plotting many points?",
+            "options": [
+              "It guarantees the graph will contain no curves of any kind",
+              "Derivative tests remove the need for a graph to have any shape",
+              "It produces an accurate graph efficiently by identifying key features directly",
+              "Plotting points is always mathematically impossible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What indicates a local maximum when using the first derivative test?",
+            "options": [
+              "The derivative changes from positive to negative at that point",
+              "The function is undefined at every point nearby",
+              "The derivative changes from negative to more negative",
+              "The derivative remains zero across the entire domain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What combined information do the first and second derivative tests provide together?",
+            "options": [
+              "The colour scheme used in a textbook diagram",
+              "A complete picture of a functions shape, including turning points and concavity",
+              "A list of unrelated historical dates",
+              "The exact numeric value of every point on the graph"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Fireworks and Flame Tests",
+        "summary": "Grade 10 Science strand: a flame test identifies certain metal ions by observing the distinct colour their compounds produce when heated in a flame, a principle also used in fireworks, where specific metal salts are chosen to create vivid colours through the same excited-electron process.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does a flame test identify?",
+            "options": [
+              "The exact temperature of a flame in degrees",
+              "The density of a solid object",
+              "The pH of a neutral solution",
+              "Certain metal ions, based on the colour their compounds produce when heated"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What causes the colour produced during a flame test?",
+            "options": [
+              "Electrons absorbing energy and releasing it as light when they return to a lower energy level",
+              "A permanent chemical change that destroys the metal entirely",
+              "The reflection of surrounding room light off the flame",
+              "A change in the mass of the metal sample"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How are flame test principles applied in fireworks?",
+            "options": [
+              "Colour in fireworks is added after the explosion using paint",
+              "Fireworks never use any metal compounds at all",
+              "Specific metal salts are chosen to produce particular colours when they burn",
+              "Fireworks rely only on the colour of the night sky"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which metal is commonly associated with a bright red flame colour in fireworks?",
+            "options": [
+              "Strontium",
+              "Argon",
+              "Neon",
+              "Helium"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can flame tests be a useful first step in identifying an unknown compound?",
+            "options": [
+              "Flame tests reveal the exact molecular formula with no other tests needed",
+              "A distinctive flame colour narrows down which metal ions might be present",
+              "Flame tests eliminate the need for any further chemical analysis",
+              "Flame tests work equally well on any substance regardless of composition"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Baby Boom and Postwar Economic Growth in Canada",
+        "summary": "Grade 10 History strand: the baby boom was a sharp rise in birth rates across Canada following the Second World War, accompanying rapid postwar economic growth, suburban expansion, and increased consumer spending that reshaped Canadian society through the late 1940s and 1950s.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the baby boom?",
+            "options": [
+              "A sharp rise in birth rates across Canada following the Second World War",
+              "A federal law limiting family size",
+              "A sudden decline in the Canadian population after 1945",
+              "A period when no children were born in Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What economic trend accompanied the baby boom in Canada?",
+            "options": [
+              "A prolonged nationwide economic depression",
+              "A total halt in all industrial production",
+              "The complete collapse of the Canadian dollar",
+              "Rapid postwar economic growth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What form of housing development expanded rapidly during this period?",
+            "options": [
+              "Housing built exclusively in remote wilderness areas",
+              "Suburban housing",
+              "Housing construction was banned across Canada",
+              "Underground housing built entirely below ground"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What consumer trend increased alongside the baby boom?",
+            "options": [
+              "Consumer spending on homes, appliances, and automobiles",
+              "A nationwide boycott of all consumer goods",
+              "A total ban on the sale of automobiles",
+              "A strict rationing system that lasted through the 1950s"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "During which decades did the Canadian baby boom mainly occur?",
+            "options": [
+              "The 1960s and 1970s only",
+              "The 1980s and 1990s only",
+              "The late 1940s and 1950s",
+              "The 1920s and 1930s"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "label": "Day 162 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Nominal Clauses and Noun Clauses",
+        "summary": "Grade 10 English strand: a nominal clause, also called a noun clause, functions within a sentence the way a single noun would, serving as a subject, object, or complement, and is often introduced by words such as that, what, whoever, or whether.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What role does a nominal clause play in a sentence?",
+            "options": [
+              "No grammatical role of any kind",
+              "The same role a preposition would play",
+              "The same role a single noun would play, such as subject or object",
+              "The same role a comma would play"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word commonly introduces a nominal clause?",
+            "options": [
+              "That",
+              "And",
+              "But",
+              "Or"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains a nominal clause?",
+            "options": [
+              "What she said surprised everyone.",
+              "Everyone was surprised.",
+              "The surprising statement was hers.",
+              "She said something surprising."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is another common name for a nominal clause?",
+            "options": [
+              "An adjective phrase",
+              "An interjection",
+              "A noun clause",
+              "A prepositional phrase"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer use a nominal clause instead of a simple noun?",
+            "options": [
+              "Because nominal clauses are never allowed in formal writing",
+              "To express a more complex idea that a single word cannot capture",
+              "To avoid ever using a subject in a sentence",
+              "To remove all meaning from a sentence"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: The Twin Prime Conjecture",
+        "summary": "Grade 10 Math strand: the twin prime conjecture proposes that there are infinitely many pairs of prime numbers that differ by exactly two, such as 11 and 13, a statement that remains unproven despite being tested extensively for very large numbers.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the twin prime conjecture propose?",
+            "options": [
+              "That no two prime numbers can ever differ by two",
+              "That prime numbers stop existing after a certain value",
+              "That every prime number is even",
+              "That there are infinitely many pairs of primes differing by exactly two"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pair of numbers is an example of twin primes?",
+            "options": [
+              "10 and 12",
+              "9 and 11",
+              "11 and 13",
+              "14 and 16"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Has the twin prime conjecture been proven?",
+            "options": [
+              "Yes, it was disproven with a single counterexample",
+              "Yes, it was proven in the eighteenth century",
+              "It was proven true only for numbers less than ten",
+              "No, it remains unproven despite extensive testing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What branch of mathematics does the twin prime conjecture belong to?",
+            "options": [
+              "Coordinate geometry",
+              "Number theory",
+              "Statistics",
+              "Trigonometry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do mathematicians continue to study the twin prime conjecture despite its difficulty?",
+            "options": [
+              "Solving it would have no effect on number theory at all",
+              "The conjecture has no connection to any other area of mathematics",
+              "It was already fully solved decades ago with no remaining questions",
+              "Progress on the problem can reveal deeper patterns about how prime numbers are distributed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Black Holes and Gravitational Collapse",
+        "summary": "Grade 10 Science strand: a black hole forms when a massive star collapses under its own gravity after exhausting its nuclear fuel, creating a region of space with gravity so strong that nothing, not even light, can escape once it passes the event horizon.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "How does a black hole typically form?",
+            "options": [
+              "A massive star collapses under its own gravity after exhausting its nuclear fuel",
+              "A planet cools down completely and stops orbiting",
+              "A star suddenly gains a large amount of new mass from nowhere",
+              "Two asteroids collide at low speed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is unable to escape a black hole once it crosses the event horizon?",
+            "options": [
+              "Radio waves broadcast from Earth",
+              "Sound travelling through a vacuum",
+              "Heat generated on a distant planet",
+              "Light"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What term describes the boundary around a black hole beyond which nothing can escape?",
+            "options": [
+              "The photosphere",
+              "The troposphere",
+              "The event horizon",
+              "The magnetosphere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can a black hole not be observed directly with visible light?",
+            "options": [
+              "Black holes reflect all light perfectly",
+              "Black holes produce no gravity at all",
+              "No light escapes from within the event horizon",
+              "Black holes are always located inside the atmosphere of a planet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What must a star typically have in order to eventually collapse into a black hole?",
+            "options": [
+              "A temperature below absolute zero",
+              "A perfectly circular orbit around another star",
+              "Enough mass to overcome the forces that normally support a stars structure",
+              "No mass at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Veterans Charter and Reintegration After the Second World War",
+        "summary": "Grade 10 History strand: the Veterans Charter was a package of federal programs introduced after the Second World War to help returning Canadian soldiers reintegrate into civilian life through education grants, job placement support, and assistance purchasing homes or farms.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Veterans Charter?",
+            "options": [
+              "A treaty ending the Second World War in Europe",
+              "A package of federal programs to help returning soldiers reintegrate into civilian life",
+              "A new branch of the Canadian military",
+              "A federal tax imposed on returning veterans"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following was included in the Veterans Charter?",
+            "options": [
+              "A prohibition on veterans owning property",
+              "A ban on veterans seeking employment",
+              "A requirement that veterans remain in the military for life",
+              "Education grants for returning soldiers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of support did the Veterans Charter provide related to housing?",
+            "options": [
+              "A requirement that veterans live in military barracks permanently",
+              "Assistance purchasing homes or farms",
+              "A ban on veterans owning any land",
+              "Free international travel with no housing support"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did the federal government introduce the Veterans Charter after the war?",
+            "options": [
+              "To keep soldiers enlisted in the military indefinitely",
+              "To help a large number of returning soldiers transition successfully into civilian life",
+              "Because no soldiers were returning to Canada after the war",
+              "To prevent veterans from ever working again"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What broader postwar goal did the Veterans Charter support?",
+            "options": [
+              "A continuation of wartime rationing indefinitely",
+              "A return to a purely agricultural economy with no industry",
+              "A stable and prosperous transition to a peacetime economy",
+              "The permanent closure of Canadian universities"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "label": "Day 163 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Understatement and Litotes",
+        "summary": "Grade 10 English strand: understatement deliberately presents something as less significant than it actually is, often for ironic or humorous effect, and litotes is a specific form of understatement that uses a negative construction to affirm a positive, such as saying not bad to mean very good.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does understatement do?",
+            "options": [
+              "Compares two unlike things using like or as",
+              "Deliberately presents something as less significant than it actually is",
+              "Exaggerates an idea far beyond its actual size",
+              "Repeats the same word at the start of several clauses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is litotes?",
+            "options": [
+              "A device that gives human traits to an animal",
+              "A form of understatement that uses a negative construction to affirm a positive",
+              "A word that imitates the sound it describes",
+              "A form of exaggeration used to inflate an idea"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which phrase is an example of litotes?",
+            "options": [
+              "Saying the exam felt like climbing a mountain of fire",
+              "Saying the exam was the hardest thing in the entire universe",
+              "Saying the exam was as easy as breathing",
+              "Saying the exam was not the easiest to describe a very difficult exam"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use understatement?",
+            "options": [
+              "To create an ironic or humorous effect",
+              "To make an idea seem far larger than it actually is",
+              "To confuse the reader with unrelated information",
+              "To remove all meaning from a sentence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does understatement differ from hyperbole?",
+            "options": [
+              "The two devices are identical in every way",
+              "Understatement always uses negative words, and hyperbole never does",
+              "Understatement minimizes something, while hyperbole exaggerates it",
+              "Hyperbole minimizes something, while understatement exaggerates it"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: Type I and Type II Errors in Hypothesis Testing",
+        "summary": "Grade 10 Math strand: in hypothesis testing, a Type I error occurs when a true null hypothesis is incorrectly rejected, while a Type II error occurs when a false null hypothesis is incorrectly accepted, and understanding both helps researchers weigh the risks of drawing an incorrect conclusion.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is a Type I error?",
+            "options": [
+              "Incorrectly accepting a null hypothesis that is actually false",
+              "Incorrectly rejecting a null hypothesis that is actually true",
+              "Correctly rejecting a null hypothesis that is actually false",
+              "Correctly accepting a null hypothesis that is actually true"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a Type II error?",
+            "options": [
+              "A calculation error unrelated to hypothesis testing",
+              "Incorrectly rejecting a null hypothesis that is actually true",
+              "Incorrectly failing to reject a null hypothesis that is actually false",
+              "Correctly identifying every result in a data set"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for researchers to understand both types of error?",
+            "options": [
+              "It guarantees that no error can ever occur in a study",
+              "It proves that hypothesis testing is never useful",
+              "It helps them weigh the risks of drawing an incorrect conclusion from a test",
+              "It removes the need to ever collect any data"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which term describes rejecting a true null hypothesis?",
+            "options": [
+              "A Type II error",
+              "A confidence interval",
+              "A Type I error",
+              "A sampling frame"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In hypothesis testing, what does the null hypothesis typically represent?",
+            "options": [
+              "A default claim of no effect or no difference",
+              "A random guess with no statistical meaning",
+              "The final conclusion of every study",
+              "A claim that is always assumed to be false from the start"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Permafrost and the Changing Arctic",
+        "summary": "Grade 10 Science strand: permafrost is ground that remains frozen for at least two consecutive years, common across much of the Canadian Arctic, and its thawing due to a warming climate can destabilize infrastructure, release stored greenhouse gases, and alter northern ecosystems.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is permafrost?",
+            "options": [
+              "Ice that forms only on the surface of the ocean",
+              "Ground that remains frozen for at least two consecutive years",
+              "A type of rock found only near volcanoes",
+              "Snow that falls once and never melts anywhere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where is permafrost commonly found in Canada?",
+            "options": [
+              "Only along the Pacific coastline",
+              "Only in the Great Lakes region",
+              "Only in southern Ontario",
+              "Across much of the Canadian Arctic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can happen to infrastructure built on permafrost that begins to thaw?",
+            "options": [
+              "It automatically becomes stronger and more stable",
+              "It can become destabilized as the ground shifts",
+              "It is completely unaffected by any ground movement",
+              "It converts entirely into a different building material"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What greenhouse gas concern is associated with thawing permafrost?",
+            "options": [
+              "Thawing permafrost only releases oxygen into the atmosphere",
+              "Thawing permafrost can release stored greenhouse gases such as methane",
+              "Thawing permafrost has no connection to atmospheric gases",
+              "Thawing permafrost removes all greenhouse gases from the atmosphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is driving the widespread thawing of permafrost in recent decades?",
+            "options": [
+              "A decline in ocean salinity worldwide",
+              "A warming climate",
+              "A sudden decrease in global temperatures",
+              "A reduction in the amount of ice at the poles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Canadian Citizenship Act of 1947",
+        "summary": "Grade 10 History strand: the Canadian Citizenship Act of 1947 created a distinct legal status of Canadian citizen for the first time, separate from British subject status, and took effect on January 1, 1947, with Prime Minister Mackenzie King becoming the first person to be granted Canadian citizenship.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Canadian Citizenship Act of 1947 create for the first time?",
+            "options": [
+              "A new provincial border",
+              "A distinct legal status of Canadian citizen, separate from British subject status",
+              "A new Canadian currency",
+              "A new Canadian flag"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "On what date did the Canadian Citizenship Act take effect?",
+            "options": [
+              "September 1, 1939",
+              "January 1, 1947",
+              "May 8, 1945",
+              "July 1, 1867"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who became the first person granted Canadian citizenship under the new Act?",
+            "options": [
+              "Prime Minister Mackenzie King",
+              "Prime Minister Lester Pearson",
+              "Prime Minister Wilfrid Laurier",
+              "Prime Minister Robert Borden"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Before 1947, what legal status did people born in Canada generally hold?",
+            "options": [
+              "British subject status",
+              "No legal status of any kind",
+              "American citizen status",
+              "French citizen status"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Canadian Citizenship Act of 1947 considered a significant milestone?",
+            "options": [
+              "It formally established a distinct Canadian national identity in law",
+              "It abolished the Canadian Parliament",
+              "It ended all immigration to Canada permanently",
+              "It merged Canada with another country"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "label": "Day 164 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Retrospective Review (Book, Film, or Album)",
+        "summary": "Grade 10 English strand: a retrospective review looks back on a book, film, or album some time after its original release, evaluating how well it has aged, what lasting influence it has had, and how it might be understood differently by a present-day audience.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a retrospective review typically do?",
+            "options": [
+              "Focuses only on the price of the original release",
+              "Reviews a work before it has ever been released to the public",
+              "Looks back on a work some time after its original release to evaluate it anew",
+              "Summarizes a work without offering any evaluation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a retrospective review consider that a review at the time of release could not?",
+            "options": [
+              "The exact date the work was first released",
+              "The name of the original publisher only",
+              "The original cover price of the work",
+              "How well the work has aged and what lasting influence it has had"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a present-day audience interpret an older work differently than its original audience did?",
+            "options": [
+              "Older works never contain any meaning at all",
+              "Cultural context and expectations change over time",
+              "Audiences never change their perspective over time",
+              "Only the original audience is capable of understanding a work"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following could be the subject of a retrospective review?",
+            "options": [
+              "A weather forecast for tomorrow",
+              "A recipe with no connection to any creative work",
+              "A live sports score being updated in real time",
+              "A film released twenty years ago"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What skill does writing a retrospective review help a student practise?",
+            "options": [
+              "Memorizing a work word for word with no analysis",
+              "Avoiding any personal judgment about a work",
+              "Summarizing a work with no reference to its context",
+              "Evaluating a work critically using both historical and present-day context"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Tessellations and Symmetry Groups",
+        "summary": "Grade 10 Math strand: a tessellation is a pattern of shapes that covers a plane with no gaps or overlaps, and the symmetry group of a tessellation describes the full set of rotations, reflections, and translations that map the pattern onto itself.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A graph with no defined shape at all",
+              "A three-dimensional solid with no flat faces",
+              "A pattern of shapes that covers a plane with no gaps or overlaps",
+              "A single isolated point on a coordinate plane"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the symmetry group of a tessellation describe?",
+            "options": [
+              "The name of the artist who created the pattern",
+              "The full set of rotations, reflections, and translations that map the pattern onto itself",
+              "The exact colour used to shade the pattern",
+              "The total number of shapes used in a single tessellation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which regular polygon can tessellate a plane on its own?",
+            "options": [
+              "A regular pentagon",
+              "A regular nonagon",
+              "A square",
+              "A regular heptagon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of transformation slides a shape without rotating or flipping it?",
+            "options": [
+              "A rotation",
+              "A dilation",
+              "A translation",
+              "A reflection"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are tessellations studied in both mathematics and art?",
+            "options": [
+              "They cannot be found in any real architectural design",
+              "They have no connection to visual design of any kind",
+              "They combine geometric structure with visually repeating patterns",
+              "They can only be created using irrational numbers"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Hibernation, Torpor, and Metabolic Adaptation",
+        "summary": "Grade 10 Science strand: hibernation is a prolonged state of reduced metabolic activity that some animals enter to survive periods of cold and food scarcity, while torpor describes a shorter-term, less extreme drop in body temperature and metabolism used by other animals to conserve energy.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is hibernation?",
+            "options": [
+              "A behaviour found only in plants, never in animals",
+              "A permanent state that an animal never leaves once it begins",
+              "A sudden increase in metabolic rate during summer",
+              "A prolonged state of reduced metabolic activity used to survive cold and food scarcity"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does torpor differ from hibernation?",
+            "options": [
+              "Torpor is a shorter-term, less extreme drop in metabolism and body temperature",
+              "Torpor and hibernation are identical in every respect",
+              "Torpor always lasts longer than hibernation",
+              "Torpor involves a permanent increase in body temperature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an animal enter hibernation or torpor?",
+            "options": [
+              "To attract more predators to its location",
+              "To permanently stop all bodily functions",
+              "To increase its body temperature as high as possible",
+              "To conserve energy during periods when food is scarce"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What body process slows significantly during hibernation?",
+            "options": [
+              "The rate of tooth growth",
+              "The rate of fur colour change",
+              "Metabolic rate",
+              "The rate of eye colour change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which environmental condition commonly triggers hibernation in many mammals?",
+            "options": [
+              "A rise in ocean water levels",
+              "Cold temperatures and reduced food availability in winter",
+              "A sudden increase in daylight hours",
+              "Warm temperatures and abundant food in summer"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Gouzenko Affair and Early Cold War Espionage in Canada",
+        "summary": "Grade 10 History strand: the Gouzenko Affair began in 1945 when Soviet embassy clerk Igor Gouzenko defected in Ottawa with documents revealing a Soviet spy network operating in Canada, an event widely seen as an early spark of the Cold War and a wake-up call about espionage among wartime allies.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Who was Igor Gouzenko?",
+            "options": [
+              "A Soviet embassy clerk who defected in Ottawa in 1945",
+              "A British diplomat stationed in Washington",
+              "A Canadian prime minister during the Second World War",
+              "A German general who surrendered in 1945"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did Gouzenko reveal when he defected?",
+            "options": [
+              "A treaty ending the Second World War",
+              "A plan to invade Canada by sea",
+              "A new design for a Canadian warship",
+              "Documents exposing a Soviet spy network operating in Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what city did the Gouzenko Affair take place?",
+            "options": [
+              "Ottawa",
+              "Vancouver",
+              "Halifax",
+              "Winnipeg"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What broader historical period is the Gouzenko Affair often seen as an early spark of?",
+            "options": [
+              "The Cold War",
+              "The Great Depression",
+              "The Confederation era",
+              "The First World War"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was the Gouzenko Affair significant for Canada-Soviet relations among wartime allies?",
+            "options": [
+              "It exposed espionage that undermined trust between former wartime allies",
+              "It had no effect on international relations of any kind",
+              "It led to an immediate military alliance between Canada and the Soviet Union",
+              "It strengthened trust between Canada and the Soviet Union permanently"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "label": "Day 165 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Quest Narrative and the Object of the Quest",
+        "summary": "Grade 10 English strand: a quest narrative follows a protagonist on a journey to obtain a specific object, place, or goal, encountering obstacles and allies along the way, with the pursuit of that object often serving as a vehicle for the protagonists inner growth or transformation.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a quest narrative typically follow?",
+            "options": [
+              "A static character who never leaves a single room",
+              "A list of unrelated historical facts with no protagonist",
+              "A protagonist on a journey to obtain a specific object, place, or goal",
+              "A scientific report with no narrative elements"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a protagonist encounter during a quest narrative?",
+            "options": [
+              "Obstacles and allies along the journey",
+              "No characters or challenges of any kind",
+              "A narrative that never leaves the opening scene",
+              "A story with no setting described at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What deeper purpose can the pursuit of the quest object serve in the story?",
+            "options": [
+              "A method for eliminating conflict from the story entirely",
+              "A way to avoid ever resolving the plot",
+              "A vehicle for the protagonists inner growth or transformation",
+              "A device that prevents any character development"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following is an example of a quest object in a quest narrative?",
+            "options": [
+              "A grocery list with no connection to the plot",
+              "A legendary artifact the protagonist must retrieve",
+              "A footnote citing an unrelated source",
+              "A weather report unrelated to the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the structure of a quest narrative useful for exploring character development?",
+            "options": [
+              "Quest narratives are defined by having no protagonist at all",
+              "Quest narratives never include any character development",
+              "The protagonist remains completely unchanged by the journey in every case",
+              "The challenges faced along the journey reveal and change who the protagonist is"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Vectors: The Scalar Triple Product and Volume",
+        "summary": "Grade 10 Math strand: the scalar triple product combines the dot product and cross product of three vectors to produce a single number equal to the volume of the parallelepiped formed by those vectors, providing a way to test whether three vectors lie in the same plane.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the scalar triple product of three vectors produce?",
+            "options": [
+              "A matrix with no numerical value",
+              "A new vector perpendicular to all three original vectors",
+              "A single point with no coordinates",
+              "A single number equal to the volume of the parallelepiped formed by the vectors"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which two vector operations are combined to compute the scalar triple product?",
+            "options": [
+              "The dot product and the cross product",
+              "Multiplication by a scalar only",
+              "Addition and subtraction only",
+              "Division of two vectors"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a scalar triple product equal to zero indicate about three vectors?",
+            "options": [
+              "The vectors cannot be graphed in three dimensions",
+              "The vectors are coplanar, lying in the same plane",
+              "The vectors form a perfect cube with maximum volume",
+              "The vectors are always perpendicular to one another"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What geometric shape is associated with the scalar triple product?",
+            "options": [
+              "A parallelepiped",
+              "A regular pentagon",
+              "A perfect sphere",
+              "A single straight line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the scalar triple product useful in three-dimensional geometry?",
+            "options": [
+              "It eliminates the need to ever use a cross product",
+              "It provides a way to calculate volume and test whether vectors are coplanar",
+              "It can only be used to measure angles in two dimensions",
+              "It has no connection to volume or coplanarity of any kind"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Sunscreen and Ultraviolet Protection",
+        "summary": "Grade 10 Science strand: sunscreen protects skin from ultraviolet radiation using chemical compounds that absorb UV light or physical mineral particles that reflect and scatter it, reducing the risk of sunburn and long-term skin damage caused by prolonged sun exposure.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does sunscreen protect the skin from?",
+            "options": [
+              "Ultraviolet radiation",
+              "Visible light of any colour",
+              "Airborne pollen only",
+              "Cold temperatures only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do chemical sunscreen compounds typically work?",
+            "options": [
+              "They absorb ultraviolet light before it can damage the skin",
+              "They block all forms of light entirely",
+              "They have no interaction with light of any kind",
+              "They permanently change the colour of the skin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do physical mineral sunscreen ingredients typically work?",
+            "options": [
+              "They dissolve completely into the skin with no protective effect",
+              "They increase the skins sensitivity to sunlight",
+              "They absorb only visible light and ignore ultraviolet light",
+              "They reflect and scatter ultraviolet light away from the skin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What long-term risk can prolonged unprotected sun exposure increase?",
+            "options": [
+              "The risk of developing colour blindness",
+              "The risk of skin damage and skin cancer",
+              "The risk of developing hearing loss",
+              "The risk of losing a sense of taste"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a sunscreen be labelled with a specific protection factor number?",
+            "options": [
+              "To indicate the weight of the bottle",
+              "To indicate the exact price of the product",
+              "To indicate how effectively it filters ultraviolet radiation",
+              "To indicate an unrelated nutritional value"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of NATO and Canadas Cold War Commitment, 1949",
+        "summary": "Grade 10 History strand: Canada was a founding member of the North Atlantic Treaty Organization in 1949, a military alliance formed among Western nations to provide collective defence against the perceived threat of Soviet expansion during the early Cold War.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was NATO formed to provide among its member nations?",
+            "options": [
+              "A single unified national anthem",
+              "A ban on all international trade",
+              "Collective defence against a shared threat",
+              "A shared currency for all member nations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year was NATO founded?",
+            "options": [
+              "1957",
+              "1949",
+              "1939",
+              "1919"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role did Canada play in the founding of NATO?",
+            "options": [
+              "Canada was excluded from NATO membership entirely",
+              "Canada joined NATO only after the year 2000",
+              "Canada refused to join NATO at any point",
+              "Canada was a founding member"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What perceived threat motivated the formation of NATO?",
+            "options": [
+              "A trade dispute with Australia",
+              "A famine affecting Western Europe",
+              "An invasion by a South American nation",
+              "Soviet expansion during the early Cold War"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader global tension was NATO formed in response to?",
+            "options": [
+              "The onset of the Cold War between Western nations and the Soviet Union",
+              "The founding of the League of Nations",
+              "A dispute over Arctic fishing rights",
+              "The conclusion of the First World War"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "label": "Day 166 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Comment Sections and Online Discourse",
+        "summary": "Grade 10 English strand: comment sections and online discourse allow readers to respond publicly to digital content, creating a space for discussion that can range from informative debate to hostility, and requiring critical judgment to separate credible contributions from misinformation or harassment.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What do comment sections allow readers to do?",
+            "options": [
+              "Prevent any other reader from seeing an article",
+              "Respond publicly to digital content",
+              "Print a physical copy of an article",
+              "Delete an article from the internet entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What range of tone can online discourse in comment sections display?",
+            "options": [
+              "It never includes any opinion of any kind",
+              "It is always perfectly calm with no disagreement",
+              "It is limited entirely to a single approved response",
+              "It can range from informative debate to hostility"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does reading a comment section require critical judgment?",
+            "options": [
+              "Because comment sections never contain any opinions",
+              "Because critical judgment is never necessary online",
+              "To separate credible contributions from misinformation or harassment",
+              "Because every comment posted online is always accurate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of the following might appear in an online comment section?",
+            "options": [
+              "A printed newspaper clipping mailed to the editor",
+              "A thoughtful reply that adds relevant context to an article",
+              "A radio broadcast transcript from decades ago",
+              "A handwritten letter delivered by post"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reader be cautious about accepting claims made in an online comment as fact?",
+            "options": [
+              "Anonymous commenters may not provide verified or accurate information",
+              "All online comments are professionally fact-checked before posting",
+              "Comment sections are legally required to contain only true statements",
+              "Every commenter online is a credentialed expert"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Discrete Math: Trees and Spanning Trees in Graph Theory",
+        "summary": "Grade 10 Math strand: in graph theory, a tree is a connected graph with no cycles, and a spanning tree of a larger graph is a subgraph that includes every vertex while using the minimum number of edges needed to keep the graph connected.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What defines a tree in graph theory?",
+            "options": [
+              "A connected graph with no cycles",
+              "A graph with an infinite number of edges",
+              "A graph with no vertices at all",
+              "A graph that must contain at least one cycle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a spanning tree of a graph?",
+            "options": [
+              "A graph that removes every vertex from the original",
+              "A graph with no connection to the original vertices",
+              "A tree that contains no vertices whatsoever",
+              "A subgraph that includes every vertex while using the minimum number of edges to stay connected"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a spanning tree contain no cycles?",
+            "options": [
+              "A spanning tree must contain more edges than the original graph",
+              "Removing a cycle keeps all vertices connected while using fewer edges",
+              "Cycles are required in every spanning tree",
+              "Spanning trees are defined only by their vertices, never their edges"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which real-world problem can be modelled using spanning trees?",
+            "options": [
+              "Calculating the area of a circle",
+              "Finding the derivative of a polynomial function",
+              "Measuring the exact temperature of a room",
+              "Designing a network that connects every location with the least amount of cable"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a spanning tree relate to the original graph it comes from?",
+            "options": [
+              "It uses a subset of the original graphs edges to connect all the same vertices",
+              "It always contains more edges than the original graph",
+              "It has no relationship to the original graph at all",
+              "It contains entirely new vertices unrelated to the original graph"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: The Physics of Musical Instruments and Sound Production",
+        "summary": "Grade 10 Science strand: musical instruments produce sound through vibrating strings, air columns, or membranes, with pitch determined by the frequency of vibration and factors such as length, tension, and material shaping the specific sound each instrument produces.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "How do musical instruments generally produce sound?",
+            "options": [
+              "By absorbing all surrounding light",
+              "Through vibrating strings, air columns, or membranes",
+              "By remaining completely motionless at all times",
+              "By changing colour in response to temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What determines the pitch of a musical sound?",
+            "options": [
+              "The weight of the musician playing it",
+              "The frequency of vibration",
+              "The colour of the instrument",
+              "The time of day the instrument is played"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which factor can affect the pitch produced by a vibrating string?",
+            "options": [
+              "The brand name printed on the instrument",
+              "The colour of the string",
+              "The temperature of the room only",
+              "The length and tension of the string"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a wind instrument such as a flute typically produce sound?",
+            "options": [
+              "By striking a stretched membrane with a mallet",
+              "By absorbing sound waves with no vibration involved",
+              "By vibrating a column of air within the instrument",
+              "By vibrating a metal string stretched across its body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do different instruments playing the same note still sound different from one another?",
+            "options": [
+              "Each instrument produces a distinct combination of overtones alongside the fundamental frequency",
+              "Only the volume of the note changes between instruments",
+              "Pitch has no connection to how an instrument sounds",
+              "All instruments produce identical sound waves with no variation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Louis St. Laurent and the Politics of Uncle Louis",
+        "summary": "Grade 10 History strand: Louis St. Laurent served as prime minister of Canada from 1948 to 1957, presiding over a period of postwar prosperity and expanding federal programs, and earned the affectionate nickname Uncle Louis for his approachable public image during the era of early television politics.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "From what years did Louis St. Laurent serve as prime minister of Canada?",
+            "options": [
+              "1867 to 1873",
+              "1957 to 1963",
+              "1948 to 1957",
+              "1935 to 1948"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What nickname was Louis St. Laurent given?",
+            "options": [
+              "Uncle Louis",
+              "The Little Prince",
+              "The Iron Duke",
+              "The Great Reformer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of period did St. Laurents government preside over?",
+            "options": [
+              "A period of postwar prosperity and expanding federal programs",
+              "A period of severe economic depression",
+              "A period of open military conflict within Canada",
+              "A period with no federal government in operation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why did St. Laurent earn his approachable nickname?",
+            "options": [
+              "He avoided all forms of media entirely",
+              "His public image connected well with voters during the era of early television politics",
+              "He was never seen by the Canadian public",
+              "He refused to ever appear in public"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What broader economic condition characterized much of the St. Laurent era?",
+            "options": [
+              "A prolonged nationwide famine",
+              "Postwar economic prosperity",
+              "A currency collapse across North America",
+              "A complete halt in international trade"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "label": "Day 167 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Semicolons, Colons, and Sentence Control",
+        "summary": "Grade 10 English strand: a semicolon joins two closely related independent clauses without a coordinating conjunction, while a colon introduces a list, explanation, or elaboration that follows a complete independent clause, and both punctuation marks give a writer precise control over sentence structure.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What can a semicolon join?",
+            "options": [
+              "A single word and a period with no clause involved",
+              "Two unrelated paragraphs from different documents",
+              "A title and a page number only",
+              "Two closely related independent clauses without a coordinating conjunction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a colon typically introduce?",
+            "options": [
+              "A list, explanation, or elaboration following a complete independent clause",
+              "A question with no relationship to the preceding sentence",
+              "A brand new unrelated paragraph with no connection to the sentence",
+              "A single unrelated letter of the alphabet"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses a semicolon?",
+            "options": [
+              "The rain stopped; and the sun came out.",
+              "The rain stopped the; sun came out.",
+              "The rain stopped; the sun came out.",
+              "The rain; stopped the sun came out."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What must generally precede a colon for it to be used correctly?",
+            "options": [
+              "A complete independent clause",
+              "A single comma with no other words",
+              "An unrelated exclamation point",
+              "A blank line with no text at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose a semicolon instead of a period between two related sentences?",
+            "options": [
+              "Because a semicolon always ends a sentence permanently",
+              "To show a closer relationship between the two ideas than a period would suggest",
+              "Because a semicolon removes all meaning from a sentence",
+              "To make the two ideas seem completely unrelated"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: The Hypergeometric Distribution",
+        "summary": "Grade 10 Math strand: the hypergeometric distribution models the probability of a specific number of successes when sampling without replacement from a finite population containing a known number of successes and failures, distinguishing it from the binomial distribution, which assumes sampling with replacement.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the hypergeometric distribution model?",
+            "options": [
+              "The slope of a line between two points",
+              "The area under a normal curve only",
+              "The probability of an event that never occurs",
+              "The probability of a specific number of successes when sampling without replacement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the hypergeometric distribution differ from the binomial distribution?",
+            "options": [
+              "It assumes an infinite population with no fixed size",
+              "It assumes sampling without replacement from a finite population, rather than with replacement",
+              "It is mathematically identical to the binomial distribution in every case",
+              "It cannot be used to calculate any probability"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must be known about the population to apply the hypergeometric distribution?",
+            "options": [
+              "The name of the researcher conducting the study",
+              "The exact colour of every item in the population",
+              "The geographic location where the population was measured",
+              "The number of successes and failures in the finite population"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which scenario could be modelled with a hypergeometric distribution?",
+            "options": [
+              "Drawing a hand of cards from a deck without putting any cards back",
+              "Measuring the exact height of a single building",
+              "Flipping a fair coin an infinite number of times",
+              "Calculating the derivative of a polynomial function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does sampling without replacement change the probability calculation compared to sampling with replacement?",
+            "options": [
+              "Sampling without replacement always produces identical results to sampling with replacement",
+              "Each draw changes the composition of the remaining population, affecting later probabilities",
+              "Sampling without replacement has no effect on probability at all",
+              "Sampling without replacement removes the need for any calculation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Hurricanes and Tropical Cyclone Formation",
+        "summary": "Grade 10 Science strand: a hurricane is a powerful tropical cyclone that forms over warm ocean water when converging winds and rising warm, moist air organize into a rotating storm system, drawing energy from ocean heat and releasing it through intense wind and rainfall.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Over what type of environment do hurricanes typically form?",
+            "options": [
+              "A dry desert with no moisture",
+              "Warm ocean water",
+              "A mountain range far from any ocean",
+              "Frozen tundra"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What powers a hurricanes intensity?",
+            "options": [
+              "Energy drawn from cold mountain air",
+              "Energy drawn from underground caves",
+              "Energy drawn from warm ocean water",
+              "Energy drawn from a nearby volcano"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What atmospheric motion characterizes a hurricane?",
+            "options": [
+              "A single straight-line wind with no rotation",
+              "A stationary cloud with no movement at all",
+              "A rotating storm system of converging winds",
+              "A completely still mass of air with no wind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What term describes hurricanes and similar storms occurring in different regions of the world?",
+            "options": [
+              "Cold fronts",
+              "Blizzards",
+              "Tropical cyclones",
+              "Sandstorms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do hurricanes typically weaken after making landfall?",
+            "options": [
+              "They lose their primary energy source once they move away from warm ocean water",
+              "Hurricanes are unaffected by whether they are over land or ocean",
+              "Land always increases the wind speed of a hurricane",
+              "They gain additional energy once they reach land"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Old Age Security Act of 1951",
+        "summary": "Grade 10 History strand: the Old Age Security Act of 1951 established a universal federal pension paid to Canadians aged seventy and older regardless of income, replacing the earlier means-tested Old Age Pensions Act of 1927 and expanding the reach of Canadas social safety net.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the Old Age Security Act of 1951 establish?",
+            "options": [
+              "A provincial tax exclusive to Quebec",
+              "A ban on retirement before the age of seventy",
+              "A new national holiday for seniors",
+              "A universal federal pension paid to Canadians aged seventy and older"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What earlier program did the Old Age Security Act replace?",
+            "options": [
+              "The National Housing Act of 1938",
+              "The means-tested Old Age Pensions Act of 1927",
+              "The Canadian Citizenship Act of 1947",
+              "The National Resources Mobilization Act of 1940"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What made the new pension under the 1951 Act different from the earlier program?",
+            "options": [
+              "It was paid universally regardless of income, rather than being means-tested",
+              "It required recipients to have no prior employment history",
+              "It eliminated all federal pensions entirely",
+              "It was only available to citizens under the age of twenty"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "At what age were Canadians originally eligible for the pension under the 1951 Act?",
+            "options": [
+              "Thirty",
+              "Eighty-five",
+              "Seventy",
+              "Fifty"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What broader trend did the Old Age Security Act reflect in postwar Canada?",
+            "options": [
+              "A reduction in the voting age across Canada",
+              "A shift away from any form of government pension",
+              "The expansion of Canadas social safety net",
+              "The elimination of all federal social programs"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "label": "Day 168 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing Anaphora and Rhetorical Repetition",
+        "summary": "Grade 10 English strand: anaphora is a rhetorical device in which a word or phrase is deliberately repeated at the beginning of successive clauses or sentences, building rhythm and emphasis to reinforce an idea or stir emotion in a speech or piece of writing.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What is anaphora?",
+            "options": [
+              "A statement that contradicts itself for effect",
+              "A comparison between two unlike things using like or as",
+              "The deliberate repetition of a word or phrase at the beginning of successive clauses or sentences",
+              "A brief indirect reference to another text or event"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What effect does anaphora often create?",
+            "options": [
+              "A total absence of any emotional impact",
+              "Complete confusion with no discernible pattern",
+              "A random and unstructured list of unrelated words",
+              "Rhythm and emphasis that reinforce an idea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which type of writing or speech is anaphora commonly used?",
+            "options": [
+              "A grocery list with no rhetorical purpose",
+              "Persuasive speeches",
+              "A set of assembly instructions",
+              "A table of contents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which example demonstrates anaphora?",
+            "options": [
+              "A single fight took place on the beach.",
+              "The fields were empty and silent.",
+              "We will fight on the beaches, we will fight on the landing grounds, we will fight in the fields.",
+              "The beaches, landing grounds, and fields were all quiet that day."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a speaker use anaphora when delivering a speech?",
+            "options": [
+              "To build momentum and stir emotion through deliberate repetition",
+              "To avoid connecting with the audience emotionally",
+              "To ensure the speech contains no repeated words at all",
+              "To make the speech as short as possible with no elaboration"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Simplifying Complex Rational Expressions",
+        "summary": "Grade 10 Math strand: a complex rational expression contains a fraction within its numerator, denominator, or both, and simplifying it typically involves finding a common denominator for the smaller fractions and then rewriting the entire expression as a single simplified fraction.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What defines a complex rational expression?",
+            "options": [
+              "It contains a fraction within its numerator, denominator, or both",
+              "It contains no fractions of any kind",
+              "It cannot contain any variables",
+              "It is always equal to zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a common first step when simplifying a complex rational expression?",
+            "options": [
+              "Immediately setting the entire expression equal to zero",
+              "Multiplying the expression by an unrelated constant",
+              "Removing all variables from the expression",
+              "Finding a common denominator for the smaller fractions within it"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the goal of simplifying a complex rational expression?",
+            "options": [
+              "To remove all numerical values from the expression",
+              "To rewrite it as a single simplified fraction",
+              "To make the expression undefined for every value",
+              "To convert it into a whole number with no fraction at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must any values that make a denominator equal to zero be excluded from the domain?",
+            "options": [
+              "Division by zero is undefined",
+              "Excluding values has no mathematical purpose",
+              "Those values always make the expression equal to one",
+              "Zero denominators are required for a valid expression"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which skill from earlier algebra is essential when simplifying complex rational expressions?",
+            "options": [
+              "Converting a fraction into a percentage only",
+              "Finding a common denominator and combining fractions",
+              "Graphing a single point with no equation",
+              "Measuring an angle with a protractor"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Bioaccumulation and Biomagnification in Food Chains",
+        "summary": "Grade 10 Science strand: bioaccumulation is the gradual buildup of a substance such as a pesticide or heavy metal within an individual organism over time, and biomagnification is the increasing concentration of that substance at each successive level of a food chain as predators consume many contaminated prey.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is bioaccumulation?",
+            "options": [
+              "A sudden decrease in an organisms body mass",
+              "A process that only occurs in nonliving matter",
+              "The instant disappearance of a substance from an ecosystem",
+              "The gradual buildup of a substance within an individual organism over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is biomagnification?",
+            "options": [
+              "A decrease in the concentration of a substance as it moves up a food chain",
+              "A process unrelated to food chains of any kind",
+              "The increasing concentration of a substance at each successive level of a food chain",
+              "A process that only affects the very bottom of a food chain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does biomagnification cause top predators to carry especially high concentrations of a contaminant?",
+            "options": [
+              "Top predators are immune to all forms of contamination",
+              "Contaminants disappear entirely before reaching a top predator",
+              "Top predators never consume any prey containing contaminants",
+              "They consume many contaminated prey, each carrying accumulated amounts of the substance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of the following could undergo bioaccumulation in an organism?",
+            "options": [
+              "A beam of visible light",
+              "A persistent pesticide absorbed from the environment",
+              "A sound wave passing through the air",
+              "A change in air pressure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are bioaccumulation and biomagnification important concerns for environmental science?",
+            "options": [
+              "They have no connection to the health of any ecosystem",
+              "They only apply to organisms that never consume any food",
+              "They show how pollutants can become increasingly dangerous as they move up a food chain",
+              "They prove that pollutants always disappear naturally with no risk"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1956 Pipeline Debate in the Canadian Parliament",
+        "summary": "Grade 10 History strand: the 1956 Pipeline Debate was a heated and prolonged dispute in the Canadian House of Commons over the Liberal governments plan to fund a natural gas pipeline, during which the government used closure to limit debate, contributing to public backlash and the Liberals defeat in the 1957 election.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the central issue of the 1956 Pipeline Debate?",
+            "options": [
+              "The design of a new Canadian flag",
+              "Funding a natural gas pipeline project",
+              "The location of a new national capital",
+              "A dispute over fishing rights in the Atlantic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which body of Parliament did the Pipeline Debate take place?",
+            "options": [
+              "A provincial legislature",
+              "The House of Commons",
+              "The Senate exclusively",
+              "A municipal city council"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What procedural tool did the government use to limit debate on the pipeline issue?",
+            "options": [
+              "A royal proclamation",
+              "An emergency wartime measure",
+              "Closure",
+              "A national referendum"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was one political consequence of the controversy surrounding the Pipeline Debate?",
+            "options": [
+              "The permanent cancellation of all future elections",
+              "A formal alliance between all opposition parties",
+              "Public backlash that contributed to the governments defeat in the following election",
+              "An immediate increase in public support for the governing party"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year did the governing party lose the election following the Pipeline Debate?",
+            "options": [
+              "1957",
+              "1968",
+              "1963",
+              "1949"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "label": "Day 169 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Personal Essay and the Anecdote",
+        "summary": "Grade 10 English strand: a personal essay explores a writers own experience or perspective on a topic, often built around a central anecdote, a brief and vivid story drawn from real life that grounds a larger reflection or insight in specific, concrete detail.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a personal essay typically explore?",
+            "options": [
+              "A purely fictional world with no connection to the writer",
+              "A formal legal argument with no personal voice",
+              "A set of unrelated statistics with no narrative",
+              "A writers own experience or perspective on a topic"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an anecdote?",
+            "options": [
+              "A lengthy legal contract",
+              "A list of bibliographic citations",
+              "A brief and vivid story drawn from real life",
+              "A table of unrelated numerical data"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What role does an anecdote often play within a personal essay?",
+            "options": [
+              "It removes all detail from the essay entirely",
+              "It has no connection to the essays larger meaning",
+              "It replaces the need for any reflection or insight",
+              "It grounds a larger reflection or insight in specific, concrete detail"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a personal essay begin with an anecdote?",
+            "options": [
+              "To draw the reader in with a concrete, relatable moment before moving to reflection",
+              "To ensure the essay contains no specific details",
+              "To avoid ever connecting with the reader",
+              "To confuse the reader before providing any context"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What distinguishes a personal essay from a purely factual report?",
+            "options": [
+              "A personal essay never includes any true information",
+              "A factual report always includes the authors personal opinion",
+              "There is no meaningful difference between the two forms",
+              "A personal essay incorporates the writers own voice, experience, and reflection"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: Newtons Method for Approximating Roots",
+        "summary": "Grade 10 Math strand: Newtons Method is an iterative technique for approximating the roots of a function by repeatedly using the tangent line at a current estimate to produce a closer estimate, converging toward a solution when the initial guess is reasonably close to the actual root.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does Newtons Method approximate?",
+            "options": [
+              "The exact area under a curve",
+              "The angle between two intersecting lines",
+              "The volume of a three-dimensional solid",
+              "The roots of a function"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What geometric feature does Newtons Method use at each step?",
+            "options": [
+              "The tangent line at the current estimate",
+              "A vertical line through the y-intercept",
+              "A circle drawn around the current estimate",
+              "A horizontal line through the origin"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What term describes the process of repeating a calculation to get closer to an answer?",
+            "options": [
+              "Integration",
+              "Factorization",
+              "Iteration",
+              "Differentiation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What condition generally helps Newtons Method converge successfully?",
+            "options": [
+              "Using a function with no roots whatsoever",
+              "Starting with a guess that is infinitely far from the root",
+              "Avoiding the use of any derivative at all",
+              "Starting with an initial guess reasonably close to the actual root"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What earlier calculus concept is required to apply Newtons Method?",
+            "options": [
+              "The exact integral of an unrelated function",
+              "The derivative of the function",
+              "A protractor for measuring angles",
+              "A completed table of logarithms"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Household Chemistry -- Cleaning Products and Chemical Safety",
+        "summary": "Grade 10 Science strand: household cleaning products rely on chemical properties such as acidity, alkalinity, and surfactant action to remove dirt and grease, and understanding these properties helps explain why certain products should never be mixed, since some combinations can produce hazardous gases.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What chemical property helps many cleaning products remove grease and dirt?",
+            "options": [
+              "Radioactivity",
+              "Surfactant action",
+              "Magnetism",
+              "Electrical conductivity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following describes an alkaline household cleaning product?",
+            "options": [
+              "A product that only functions at freezing temperatures",
+              "A product with a pH of exactly seven and no cleaning ability",
+              "A product with a high pH used to cut through grease",
+              "A product made entirely of pure water with no additives"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why should certain household cleaning products never be mixed together?",
+            "options": [
+              "Mixing products always results in a completely inert substance",
+              "Mixing cleaning products always improves their effectiveness with no risk",
+              "Household cleaning products contain no chemical properties at all",
+              "Some combinations can produce hazardous gases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which common combination of household chemicals is known to be dangerous if mixed?",
+            "options": [
+              "Baking soda and flour",
+              "Water and salt",
+              "Bleach and ammonia",
+              "Vinegar and sugar"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding basic chemistry useful for using household cleaning products safely?",
+            "options": [
+              "It helps people recognize which products are unsafe to combine and how to use them properly",
+              "It guarantees that all cleaning products are completely safe under any condition",
+              "It has no practical application to everyday life",
+              "It removes the need to ever read a product label"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of the Canada Council for the Arts, 1957",
+        "summary": "Grade 10 History strand: the Canada Council for the Arts was established in 1957 to provide federal funding and support for artists, writers, and cultural organizations, implementing a key recommendation of the earlier Massey Commission and marking a major expansion of government support for Canadian culture.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "In what year was the Canada Council for the Arts established?",
+            "options": [
+              "1967",
+              "1949",
+              "1957",
+              "1939"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the Canada Council for the Arts created to provide?",
+            "options": [
+              "A federal agency regulating agriculture",
+              "A new national police force",
+              "Federal funding and support for artists, writers, and cultural organizations",
+              "Federal funding exclusively for military research"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which earlier commission had recommended the creation of a body like the Canada Council?",
+            "options": [
+              "The Massey Commission",
+              "The Durham Report",
+              "The Rowell-Sirois Commission",
+              "The Manitoba Schools Question inquiry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What broader shift did the founding of the Canada Council represent?",
+            "options": [
+              "A shift of all cultural funding to private corporations only",
+              "A ban on federal funding for the arts",
+              "A major expansion of government support for Canadian culture",
+              "A complete elimination of federal involvement in culture"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a national government choose to fund artists and cultural organizations directly?",
+            "options": [
+              "To transfer control of all culture to foreign governments",
+              "Because artists never require any form of financial support",
+              "To eliminate all forms of artistic expression",
+              "To support the development and preservation of a distinct national culture"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "label": "Day 170 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Grammar, Reading, Writing, and Media Literacy (Days 161-169)",
+        "summary": "Grade 10 English strand review: students revisit livestreaming and influencer culture, nominal clauses, understatement and litotes, the retrospective review, the quest narrative, comment sections and online discourse, semicolons and colons, anaphora, and the personal essay.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does influencer culture typically involve?",
+            "options": [
+              "A content creator building a personal brand and audience across social platforms",
+              "A library cataloguing printed books by subject",
+              "A factory manufacturing television sets",
+              "A government agency regulating all social media content"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role does a nominal clause play in a sentence?",
+            "options": [
+              "The same role a single noun would play, such as subject or object",
+              "No grammatical role of any kind",
+              "The same role a comma would play",
+              "The same role a preposition would play"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is litotes?",
+            "options": [
+              "A device that gives human traits to an animal",
+              "A form of exaggeration used to inflate an idea",
+              "A form of understatement that uses a negative construction to affirm a positive",
+              "A word that imitates the sound it describes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a retrospective review typically do?",
+            "options": [
+              "Summarizes a work without offering any evaluation",
+              "Focuses only on the price of the original release",
+              "Reviews a work before it has ever been released to the public",
+              "Looks back on a work some time after its original release to evaluate it anew"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is anaphora?",
+            "options": [
+              "A comparison between two unlike things using like or as",
+              "The deliberate repetition of a word or phrase at the beginning of successive clauses or sentences",
+              "A statement that contradicts itself for effect",
+              "A brief indirect reference to another text or event"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Calculus, Number Theory, Statistics, and Geometry (Days 161-169)",
+        "summary": "Grade 10 Math strand review: students revisit curve sketching with derivative tests, the twin prime conjecture, Type I and Type II errors, tessellations, the scalar triple product, spanning trees, the hypergeometric distribution, simplifying complex rational expressions, and Newtons Method.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the first derivative test help locate on a graph?",
+            "options": [
+              "The exact colour used to draw the graph",
+              "Increasing and decreasing intervals and turning points",
+              "The name of the mathematician who defined the function",
+              "The total number of variables in the function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the twin prime conjecture propose?",
+            "options": [
+              "That no two prime numbers can ever differ by two",
+              "That every prime number is even",
+              "That prime numbers stop existing after a certain value",
+              "That there are infinitely many pairs of primes differing by exactly two"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a Type I error?",
+            "options": [
+              "Correctly rejecting a null hypothesis that is actually false",
+              "Incorrectly accepting a null hypothesis that is actually false",
+              "Correctly accepting a null hypothesis that is actually true",
+              "Incorrectly rejecting a null hypothesis that is actually true"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the scalar triple product of three vectors produce?",
+            "options": [
+              "A single point with no coordinates",
+              "A matrix with no numerical value",
+              "A single number equal to the volume of the parallelepiped formed by the vectors",
+              "A new vector perpendicular to all three original vectors"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Newtons Method approximate?",
+            "options": [
+              "The exact area under a curve",
+              "The angle between two intersecting lines",
+              "The volume of a three-dimensional solid",
+              "The roots of a function"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Chemistry, Physics, Earth Science, and Biology (Days 161-169)",
+        "summary": "Grade 10 Science strand review: students revisit flame tests and fireworks chemistry, black holes, permafrost, hibernation and torpor, sunscreen and ultraviolet protection, the physics of musical instruments, hurricanes, bioaccumulation and biomagnification, and household cleaning chemistry.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does a flame test identify?",
+            "options": [
+              "The exact temperature of a flame in degrees",
+              "The density of a solid object",
+              "The pH of a neutral solution",
+              "Certain metal ions, based on the colour their compounds produce when heated"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does a black hole typically form?",
+            "options": [
+              "A planet cools down completely and stops orbiting",
+              "A star suddenly gains a large amount of new mass from nowhere",
+              "Two asteroids collide at low speed",
+              "A massive star collapses under its own gravity after exhausting its nuclear fuel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is permafrost?",
+            "options": [
+              "Snow that falls once and never melts anywhere",
+              "A type of rock found only near volcanoes",
+              "Ice that forms only on the surface of the ocean",
+              "Ground that remains frozen for at least two consecutive years"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is biomagnification?",
+            "options": [
+              "A decrease in the concentration of a substance as it moves up a food chain",
+              "A process unrelated to food chains of any kind",
+              "The increasing concentration of a substance at each successive level of a food chain",
+              "A process that only affects the very bottom of a food chain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Over what type of environment do hurricanes typically form?",
+            "options": [
+              "Frozen tundra",
+              "Warm ocean water",
+              "A mountain range far from any ocean",
+              "A dry desert with no moisture"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: Postwar Canada and the Early Cold War (Days 161-169)",
+        "summary": "Grade 10 History strand review: students revisit the baby boom, the Veterans Charter, the Canadian Citizenship Act of 1947, the Gouzenko Affair, the founding of NATO, Louis St. Laurent, the Old Age Security Act of 1951, the 1956 Pipeline Debate, and the founding of the Canada Council for the Arts.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the baby boom?",
+            "options": [
+              "A period when no children were born in Canada",
+              "A sudden decline in the Canadian population after 1945",
+              "A federal law limiting family size",
+              "A sharp rise in birth rates across Canada following the Second World War"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What did the Canadian Citizenship Act of 1947 create for the first time?",
+            "options": [
+              "A distinct legal status of Canadian citizen, separate from British subject status",
+              "A new Canadian flag",
+              "A new provincial border",
+              "A new Canadian currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did Gouzenko reveal when he defected?",
+            "options": [
+              "Documents exposing a Soviet spy network operating in Canada",
+              "A treaty ending the Second World War",
+              "A new design for a Canadian warship",
+              "A plan to invade Canada by sea"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Old Age Security Act of 1951 establish?",
+            "options": [
+              "A ban on retirement before the age of seventy",
+              "A provincial tax exclusive to Quebec",
+              "A new national holiday for seniors",
+              "A universal federal pension paid to Canadians aged seventy and older"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the central issue of the 1956 Pipeline Debate?",
+            "options": [
+              "The location of a new national capital",
+              "The design of a new Canadian flag",
+              "A dispute over fishing rights in the Atlantic",
+              "Funding a natural gas pipeline project"
             ],
             "answer": 3
           }
