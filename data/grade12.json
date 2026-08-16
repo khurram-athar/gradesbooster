@@ -39042,5 +39042,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 161,
+    "label": "Day 161 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Morality Play: Medieval Allegory on the Stage",
+        "summary": "Grade 12 English strand: a morality play is a form of medieval drama in which characters personify abstract qualities, such as Virtue or Vice, guiding a representative human protagonist through temptation and moral choice toward an explicitly didactic lesson about salvation and conduct.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What kind of characters typically populate a morality play?",
+            "options": [
+              "Animals with no connection to human conduct",
+              "Historical figures with no symbolic meaning at all",
+              "Personifications of abstract qualities, such as Virtue or Vice",
+              "Characters drawn entirely from ancient myth with no allegory involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the central dramatic journey of a typical morality play protagonist?",
+            "options": [
+              "A protagonist who faces no temptation or choice of any kind",
+              "A representative human figure moves through temptation and moral choice toward a lesson about conduct and salvation",
+              "A protagonist who exists only to entertain, with no didactic purpose",
+              "A protagonist whose journey has no moral or religious dimension"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the primary purpose of a morality play, distinct from purely entertaining drama?",
+            "options": [
+              "To remove any protagonist or central character from the plot",
+              "To avoid any instructive or moral content whatsoever",
+              "To teach an explicitly didactic moral or religious lesson",
+              "To document real historical events with no symbolic characters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the morality play compare to commedia dellArte, studied in an earlier batch?",
+            "options": [
+              "Commedia dellArte is always didactic and religious, unlike the morality play",
+              "The two traditions are identical in purpose and character type",
+              "Commedia dellArte relies on improvised stock comic roles, while the morality play uses fixed allegorical figures to deliver an explicit moral lesson",
+              "The morality play is always improvised, exactly like commedia dellArte"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might allegorical characters like Virtue and Vice be an effective device for a medieval audience?",
+            "options": [
+              "Abstract personification makes moral lessons impossible to understand",
+              "Personifying abstract ideas makes moral concepts concrete and easy to follow on stage",
+              "Medieval audiences rejected any use of symbolic or allegorical characters",
+              "Allegory removes any possibility of teaching a moral lesson"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: The Student t-Distribution and Small-Sample Inference",
+        "summary": "Grade 12 Advanced Functions strand: the Student t-distribution is a probability distribution used instead of the normal distribution when estimating a population mean from a small sample with an unknown population standard deviation, having heavier tails that account for the extra uncertainty of a small sample.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "When is the Student t-distribution typically used instead of the normal distribution?",
+            "options": [
+              "Only for samples larger than several thousand observations",
+              "Only when the entire population has already been measured directly",
+              "When estimating a population mean from a small sample with an unknown population standard deviation",
+              "When the population standard deviation is known exactly in advance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do the tails of the t-distribution compare to those of the normal distribution?",
+            "options": [
+              "The t-distribution always has thinner tails than the normal distribution",
+              "The t-distribution has heavier tails, reflecting greater uncertainty",
+              "The t-distribution has no tails at all",
+              "The two distributions have identical tails in every case"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to the t-distribution as the sample size grows very large?",
+            "options": [
+              "It becomes flatter and wider without bound",
+              "It approaches the shape of the normal distribution",
+              "It collapses to a single fixed point regardless of sample size",
+              "It becomes completely unrelated to the normal distribution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which earlier-studied concept does the t-distribution extend to account for small-sample uncertainty?",
+            "options": [
+              "The travelling salesman problem",
+              "The normal distribution and z-scores",
+              "The pigeonhole principle",
+              "The binomial distribution alone, with no connection to the normal distribution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a parameter called degrees of freedom important when using the t-distribution?",
+            "options": [
+              "Degrees of freedom only matter for the normal distribution, not the t-distribution",
+              "The t-distribution ignores sample size entirely",
+              "It reflects the sample size and determines the exact shape of the t-distribution being used",
+              "Degrees of freedom have no effect on the shape of the distribution"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Systems of Linear Differential Equations and the Matrix Exponential Approach",
+        "summary": "Grade 12 Calculus strand: a system of linear differential equations describes several interrelated quantities changing over time at once, and writing the system in matrix form lets its solution be expressed using the matrix exponential, built from the eigenvalues and eigenvectors of the coefficient matrix.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does a system of linear differential equations describe?",
+            "options": [
+              "A single isolated quantity with no relationship to any other variable",
+              "Several interrelated quantities changing over time at once",
+              "A system with no matrix representation possible",
+              "A purely algebraic system with no rates of change involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What mathematical object is used to express the solution of a linear system written in matrix form?",
+            "options": [
+              "A single scalar constant with no matrix involved",
+              "A system with no defined solution of any kind",
+              "The determinant of the coefficient matrix alone",
+              "The matrix exponential"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which earlier-studied concepts are used to construct the matrix exponential for a given system?",
+            "options": [
+              "The mean and standard deviation of a data set",
+              "The eigenvalues and eigenvectors of the coefficient matrix",
+              "The trapezoid rule for numerical integration",
+              "The binomial theorem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does this matrix approach relate to solving a single second-order linear differential equation with constant coefficients, studied earlier?",
+            "options": [
+              "The two techniques share no mathematical connection whatsoever",
+              "The matrix exponential approach only applies to algebraic equations, not differential ones",
+              "Systems of differential equations can never be reduced to a single equation",
+              "A single higher-order equation can be rewritten as a system of first-order equations and solved the same way"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is expressing a coupled system in matrix form useful for analysis and computation?",
+            "options": [
+              "Matrix notation removes all information about how the equations are coupled",
+              "Matrix notation eliminates the need to ever compute eigenvalues",
+              "It organizes multiple interacting equations into a single structured object whose behaviour can be studied using linear algebra tools",
+              "Matrix form can only be used when the equations are completely unrelated to one another"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Gyroscopic Precession and the Physics of a Spinning Top",
+        "summary": "Grade 12 Physics strand: gyroscopic precession occurs when an external torque, such as gravity acting on a tilted spinning top, causes its spin axis to sweep out a cone rather than simply falling over, because the torque changes the direction of angular momentum rather than its magnitude.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What is gyroscopic precession?",
+            "options": [
+              "The slow sweeping of a spinning objects axis in a cone shape under an external torque",
+              "The instant collapse of a spinning object the moment any torque is applied",
+              "The complete absence of any motion in a spinning object",
+              "A spinning objects tendency to speed up indefinitely with no external influence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does a tilted spinning top precess rather than simply fall over under gravity?",
+            "options": [
+              "The torque from gravity changes the direction of its angular momentum rather than its magnitude",
+              "Precession only occurs in objects that are not actually spinning",
+              "Gravity has no effect whatsoever on a spinning object",
+              "The tops angular momentum is destroyed instantly by any applied torque"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which earlier-studied conserved quantity is central to explaining gyroscopic precession?",
+            "options": [
+              "Electric charge",
+              "Linear momentum in a straight line only",
+              "Angular momentum",
+              "Volume of the spinning object"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What shape does the axis of a precessing gyroscope typically trace out over time?",
+            "options": [
+              "A perfectly straight line with no curvature",
+              "A single fixed point with no motion at all",
+              "A random, unpredictable path with no defined shape",
+              "A cone"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is gyroscopic precession useful in devices such as gyrocompasses and stabilizers?",
+            "options": [
+              "Precession makes a gyroscopes orientation completely unpredictable and useless",
+              "A spinning gyroscopes resistance to having its angular momentum direction changed lets it maintain a stable reference orientation",
+              "Gyroscopes provide no stability of any kind once set in motion",
+              "Gyroscopic devices rely entirely on electric charge rather than rotational motion"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "label": "Day 162 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Revenge Tragedy: Blood and Retribution on the Elizabethan Stage",
+        "summary": "Grade 12 English strand: the revenge tragedy is a dramatic genre, prominent on the Elizabethan and Jacobean stage, centred on a protagonist who pursues vengeance for a grievous wrong, typically a murder, and moves through intrigue, madness, and violence toward a climactic and often devastating bloodbath.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What central action drives the plot of a revenge tragedy?",
+            "options": [
+              "A protagonist who forgives every wrong immediately with no conflict",
+              "A plot with no central grievance or wrong of any kind",
+              "A protagonist pursuing vengeance for a grievous wrong, typically a murder",
+              "A protagonist entirely uninterested in justice or retribution"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On which historical stage tradition did the revenge tragedy become especially prominent?",
+            "options": [
+              "Modern absurdist theatre only",
+              "The Elizabethan and Jacobean stage",
+              "Ancient Greek comic theatre exclusively",
+              "A tradition with no connection to English drama"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What dramatic elements commonly appear as a revenge tragedy builds toward its climax?",
+            "options": [
+              "Intrigue, madness, and escalating violence",
+              "Only comic misunderstandings with no serious consequences",
+              "A complete absence of conflict or tension",
+              "A plot that resolves entirely offstage with no dramatic action"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the revenge tragedy differ from the broader category of tragic form studied in an earlier batch?",
+            "options": [
+              "The two concepts describe entirely unrelated dramatic forms",
+              "It is a specific historical subgenre organized around the pursuit of vengeance, rather than tragedy in its most general cross-cultural sense",
+              "The general tragic form always requires a revenge plot specifically",
+              "Revenge tragedy contains no tragic elements whatsoever"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a revenge tragedys protagonist often become a morally compromised figure by the plays end?",
+            "options": [
+              "Pursuing revenge always leaves a protagonist morally untouched",
+              "Moral compromise is impossible within a strictly tragic dramatic structure",
+              "Revenge tragedies never depict any change in their protagonists",
+              "Pursuing vengeance can draw the protagonist into the same violence and corruption that caused the original wrong"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: Analysis of Variance (ANOVA) and Comparing Multiple Means",
+        "summary": "Grade 12 Advanced Functions strand: analysis of variance, or ANOVA, tests whether the means of three or more groups differ significantly by comparing the variance between group means to the variance within each group, extending simpler two-sample comparison methods to studies with multiple groups at once.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What question does an ANOVA test primarily answer?",
+            "options": [
+              "Whether a sample was collected using a random method",
+              "Whether exactly two population parameters are identical",
+              "Whether a single data point is an outlier",
+              "Whether the means of three or more groups differ significantly from one another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two sources of variance does ANOVA compare to draw its conclusion?",
+            "options": [
+              "The variance between group means and the variance within each group",
+              "The mean and the mode of a single group only",
+              "The correlation coefficient and the regression slope",
+              "The sample size and the number of variables measured"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is ANOVA useful when a study involves more than two groups?",
+            "options": [
+              "It allows comparing all groups at once, rather than requiring many separate two-group comparisons",
+              "ANOVA can only ever compare exactly two groups at a time",
+              "It removes the need to ever compare group means",
+              "ANOVA is limited to studies with a single group only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does ANOVA relate to hypothesis testing and the p-value, studied in an earlier batch?",
+            "options": [
+              "ANOVA always produces a p-value of exactly zero",
+              "ANOVA produces a test statistic and an associated p-value used to decide whether observed group differences are statistically significant",
+              "ANOVA has no connection whatsoever to hypothesis testing",
+              "Hypothesis testing cannot be applied to comparisons involving more than one group"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a researcher choose ANOVA over running several separate two-sample tests on the same data?",
+            "options": [
+              "Running many separate tests increases the chance of a false positive, which ANOVA is designed to control for when comparing multiple groups at once",
+              "ANOVA and separate two-sample tests always produce identical, interchangeable results",
+              "ANOVA requires more groups than could ever be tested individually",
+              "Running separate tests always gives more reliable results than ANOVA"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Sturm-Liouville Theory and Eigenfunction Problems",
+        "summary": "Grade 12 Calculus strand: Sturm-Liouville theory studies a class of second-order differential equations whose solutions, under suitable boundary conditions, form an orthogonal family of eigenfunctions with associated eigenvalues, generalizing the framework behind Legendre polynomials and other special functions studied earlier.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What kind of equation does Sturm-Liouville theory study?",
+            "options": [
+              "A first-order equation with no boundary conditions of any kind",
+              "A purely algebraic equation with no derivatives involved",
+              "A class of second-order differential equations with associated boundary conditions",
+              "An equation with no possible eigenfunction solutions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structure do the solutions of a Sturm-Liouville problem form, under suitable boundary conditions?",
+            "options": [
+              "A set of solutions unrelated to any eigenvalue",
+              "A family of solutions with no orthogonality property at all",
+              "An orthogonal family of eigenfunctions with associated eigenvalues",
+              "A single, unique solution with no other related solutions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which earlier-studied special functions fit within the general Sturm-Liouville framework?",
+            "options": [
+              "Legendre polynomials",
+              "The determinant of a matrix",
+              "The Fibonacci sequence",
+              "The binomial coefficients"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can the orthogonal eigenfunctions from a Sturm-Liouville problem be used for, similar to a Fourier series?",
+            "options": [
+              "Making it impossible to represent any other function",
+              "Eliminating the need for any function expansion",
+              "Expanding other functions as a weighted sum of the eigenfunctions",
+              "Converting every function into a single constant"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Sturm-Liouville theory considered a unifying framework for several special functions studied across this course?",
+            "options": [
+              "It only applies to a single special function with no broader generalization",
+              "It removes the need to ever consider boundary conditions",
+              "It shows that many previously separate special functions arise as eigenfunctions of the same general type of boundary value problem",
+              "It proves that special functions such as Legendre polynomials have no relationship to one another"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Rolling Without Slipping: Combining Translation and Rotation",
+        "summary": "Grade 12 Physics strand: rolling without slipping describes motion in which an objects point of contact with the surface has zero relative velocity, linking its rotational and translational motion through a fixed relationship between angular velocity and linear speed, essential to analyzing wheels and rolling spheres.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What condition defines rolling without slipping?",
+            "options": [
+              "The surface and the object never make contact",
+              "The point of contact between the object and the surface has zero relative velocity",
+              "The object spins in place with no translational motion whatsoever",
+              "The object slides freely with no rotation at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What relationship links angular velocity and linear speed for an object rolling without slipping?",
+            "options": [
+              "Linear speed is always zero whenever angular velocity is nonzero",
+              "A fixed relationship in which linear speed equals angular velocity multiplied by the objects radius",
+              "Angular velocity is always exactly zero during rolling motion",
+              "The two quantities are completely unrelated to one another"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which earlier-studied concepts does analyzing rolling without slipping combine?",
+            "options": [
+              "Only thermodynamic quantities, with no motion involved",
+              "Only wave phenomena, with no rotation involved",
+              "Translational motion and rotational motion together",
+              "Only electric circuits, with no mechanics involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is friction generally necessary at the contact point for rolling without slipping to occur?",
+            "options": [
+              "Friction has no role in rotational motion of any kind",
+              "Rolling without slipping requires a completely frictionless surface",
+              "Friction always causes an object to slip rather than roll smoothly",
+              "Friction provides the torque needed to keep the surface velocity at the contact point equal to zero"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the total kinetic energy of a rolling object, such as a ball, differ from that of an object simply sliding at the same speed?",
+            "options": [
+              "Sliding and rolling objects always have identical total kinetic energy at the same speed",
+              "Rolling motion contains no kinetic energy of any kind",
+              "A rolling object always has less total kinetic energy than a sliding object at the same speed",
+              "A rolling object has additional rotational kinetic energy on top of its translational kinetic energy"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "label": "Day 163 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Menippean Satire: Mocking Attitudes Rather Than Persons",
+        "summary": "Grade 12 English strand: Menippean satire is a loose, prose-based satirical form that mocks mental attitudes, such as pedantry or dogmatism, rather than targeting specific individuals, often mixing genres and digressive structure to parody the very form of intellectual seriousness it examines.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does Menippean satire primarily target?",
+            "options": [
+              "Only named, real individuals with no attention to ideas",
+              "Only physical appearance, with no interest in intellectual attitudes",
+              "Mental attitudes, such as pedantry or dogmatism, rather than specific individuals",
+              "A single historical event with no interest in ideas or attitudes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structural quality often characterizes Menippean satire?",
+            "options": [
+              "A structure identical to a strict formal sonnet",
+              "A structure that forbids any prose content whatsoever",
+              "A perfectly rigid, single-genre structure with no digression",
+              "A loose, digressive structure that often mixes genres"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might Menippean satire parody through its own form?",
+            "options": [
+              "The very form of intellectual seriousness or pedantry it examines",
+              "Menippean satire never engages with its own form in any way",
+              "Only visual art, with no connection to written form",
+              "A structure with no relationship to its satirical target"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does Menippean satire differ from the general satire studied earlier in this course, which often targets specific social behaviour through comedy?",
+            "options": [
+              "General satire always uses a loose, digressive, mixed-genre structure",
+              "Menippean satire never engages with comedy of any kind",
+              "Menippean satire specifically emphasizes mocking abstract attitudes and intellectual postures through a loose, mixed-genre structure, rather than social behaviour alone",
+              "The two forms are entirely identical with no meaningful distinction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a writer choose Menippean satires digressive, mixed-genre approach to critique a rigid ideology?",
+            "options": [
+              "A digressive structure makes any critique of ideology completely impossible",
+              "Mixed-genre writing has no capacity to satirize an idea or attitude",
+              "Rigid, single-genre structure is required for any form of satire",
+              "A chaotic, genre-blending structure can itself mimic and undercut the rigid seriousness being mocked"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Hamiltonian Paths and Cycles in Graphs",
+        "summary": "Grade 12 Advanced Functions strand: a Hamiltonian path visits every vertex of a graph exactly once, and a Hamiltonian cycle does so while also returning to its starting vertex, a concept closely related to the travelling salesman problem but focused on the existence of such a route rather than its optimal cost.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What must a Hamiltonian path do, with respect to the vertices of a graph?",
+            "options": [
+              "Visit every vertex exactly once",
+              "Avoid visiting any vertex at all",
+              "Visit every edge exactly once, ignoring the vertices",
+              "Visit only a single vertex, ignoring all others"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What additional requirement distinguishes a Hamiltonian cycle from a Hamiltonian path?",
+            "options": [
+              "A Hamiltonian cycle must visit each vertex more than once",
+              "A Hamiltonian cycle has no relationship to the starting vertex",
+              "A Hamiltonian cycle must also return to its starting vertex",
+              "A Hamiltonian cycle may skip some vertices entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the Hamiltonian path problem relate to the travelling salesman problem, studied in an earlier batch?",
+            "options": [
+              "Both concern visiting every vertex once, but the travelling salesman problem also seeks the lowest-cost such route among weighted edges",
+              "Hamiltonian paths always ignore the structure of the underlying graph",
+              "The travelling salesman problem ignores whether every vertex is visited",
+              "The two problems are entirely unrelated to one another"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Is determining whether a general graph contains a Hamiltonian cycle considered an easy problem to solve exactly for large graphs?",
+            "options": [
+              "Yes, it can always be solved instantly regardless of graph size",
+              "No, it is computationally difficult in general, similar in spirit to other hard combinatorial problems",
+              "It is only meaningful for graphs with a single vertex",
+              "The question has no defined answer for any graph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are Hamiltonian cycles relevant to practical routing and network design problems?",
+            "options": [
+              "Practical routing problems never require visiting every location",
+              "Hamiltonian cycles have no application outside of pure graph theory",
+              "Finding a route that visits every required location exactly once and returns to the start models many real scheduling and logistics tasks",
+              "Hamiltonian cycles are only relevant to graphs with no edges"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Multistep Methods: The Adams-Bashforth Technique for Differential Equations",
+        "summary": "Grade 12 Calculus strand: the Adams-Bashforth method is a multistep numerical technique for solving differential equations that estimates each new value using several previously computed points rather than only the most recent one, often achieving greater accuracy than single-step methods like Eulers method for a comparable step size.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What distinguishes a multistep method like Adams-Bashforth from a single-step method such as Eulers method?",
+            "options": [
+              "It estimates each new value using several previously computed points rather than only the most recent one",
+              "It requires recomputing the entire solution from scratch at every step",
+              "It can only ever be applied to algebraic equations, not differential ones",
+              "It uses no previous data of any kind at every step"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of problem is the Adams-Bashforth method designed to solve numerically?",
+            "options": [
+              "Static geometry problems with no rates of change",
+              "Problems with no numerical component whatsoever",
+              "Differential equations",
+              "Purely algebraic equations with no derivatives"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What advantage can a multistep method like Adams-Bashforth offer compared to Eulers method for a similar step size?",
+            "options": [
+              "Often greater accuracy, by making use of more information from earlier points",
+              "It always produces exactly the same accuracy as Eulers method in every case",
+              "It guarantees an error of exactly zero regardless of step size",
+              "It eliminates the need for any step size at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the Adams-Bashforth method relate to the Runge-Kutta methods studied in an earlier batch?",
+            "options": [
+              "Both are numerical techniques for approximating solutions to differential equations, though Runge-Kutta uses intermediate evaluations within a single step rather than several previous steps",
+              "Adams-Bashforth requires no numerical approximation of any kind",
+              "The two methods have no relationship to one another whatsoever",
+              "Runge-Kutta methods are a type of multistep method identical to Adams-Bashforth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a multistep method require special starting values before it can begin its normal iteration?",
+            "options": [
+              "It needs several previous points to work from, which are not yet available at the very start of the computation",
+              "Multistep methods never require any starting information at all",
+              "A multistep method can begin using only a single arbitrary future point",
+              "Starting values are irrelevant to any numerical differential equation method"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Poynting Vector and the Flow of Electromagnetic Energy",
+        "summary": "Grade 12 Physics strand: the Poynting vector describes the direction and rate of energy flow carried by an electromagnetic wave, calculated from the cross product of the electric and magnetic field vectors, and is used to quantify the intensity of radiation such as sunlight or a radio signal.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the Poynting vector describe about an electromagnetic wave?",
+            "options": [
+              "The temperature of the medium the wave travels through",
+              "The exact colour of the light involved",
+              "The direction and rate of energy flow it carries",
+              "The mass of the particles composing the wave"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "From which two field vectors is the Poynting vector calculated?",
+            "options": [
+              "A single scalar temperature value with no field vectors involved",
+              "Two separate magnetic field vectors with no electric component",
+              "The gravitational field vector and the electric field vector",
+              "The electric field vector and the magnetic field vector"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What mathematical operation combines the electric and magnetic fields to produce the Poynting vector?",
+            "options": [
+              "The dot product, producing a single scalar value",
+              "The cross product",
+              "Division of one field by the other",
+              "Simple scalar addition of their magnitudes only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What practical quantity can the Poynting vector be used to calculate for a beam of light or a radio signal?",
+            "options": [
+              "The electric charge carried by the radiation",
+              "The exact wavelength of the radiation with no reference to energy",
+              "The rest mass of the electromagnetic wave",
+              "The intensity, or rate of energy flow per unit area, of the radiation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Poynting vector a useful tool for connecting electromagnetic theory to energy transport?",
+            "options": [
+              "It has no connection to energy transport of any kind",
+              "It only applies to static electric fields with no wave motion involved",
+              "It translates the abstract electric and magnetic field description of a wave into a concrete measure of energy flow through space",
+              "It measures mass transport rather than energy transport"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "label": "Day 164 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Closet Drama: Plays Written to Be Read, Not Performed",
+        "summary": "Grade 12 English strand: a closet drama is a play written in dramatic form, complete with dialogue and stage directions, that is intended primarily to be read on the page rather than staged in performance, allowing a writer to use theatrical structure for effects that would be difficult or impossible to realize in a live production.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What distinguishes a closet drama from a conventional stage play?",
+            "options": [
+              "It is intended primarily to be read rather than performed on stage",
+              "It cannot be written in dramatic form at all",
+              "It is legally forbidden from ever being performed under any circumstances",
+              "It contains no dialogue or stage directions of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What formal features does a closet drama typically retain, despite not being intended for performance?",
+            "options": [
+              "A complete absence of any character or scene structure",
+              "Only poetic metre, with no dialogue whatsoever",
+              "Dialogue and stage directions",
+              "Only prose narration, with no dramatic form at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a writer gain by using the closet drama form instead of a conventional stageable play?",
+            "options": [
+              "Closet drama can only depict extremely simple, small-scale settings",
+              "The ability to explore theatrical effects, scale, or content that would be difficult or impossible to stage live",
+              "A closet drama is identical in every effect to a normal stage play",
+              "Closet drama removes any creative freedom compared to a stageable play"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the closet drama compare to the verse drama studied in an earlier batch?",
+            "options": [
+              "Verse drama is always intended to be read rather than performed",
+              "Closet drama can never contain any poetic language",
+              "Verse drama emphasizes poetic form for the stage, while closet drama specifically emphasizes dramatic form intended for reading rather than performance",
+              "The two forms are entirely identical in intended audience and purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a closet drama be considered a genuinely distinct literary form, rather than simply an unperformed stage play?",
+            "options": [
+              "Its intended mode of reception as a text shapes choices a writer makes about scale, imagery, and structure from the outset",
+              "The intended audience has no influence on how a dramatic work is written",
+              "A closet drama is identical in every respect to a play that simply has not yet been staged",
+              "Closet dramas are always converted into conventional novels before publication"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Dijkstras Algorithm and Shortest Paths in Weighted Graphs",
+        "summary": "Grade 12 Advanced Functions strand: Dijkstras algorithm finds the shortest path from a starting vertex to every other vertex in a graph with non-negative edge weights, repeatedly selecting the closest unvisited vertex and updating the shortest known distances to its neighbours until every vertex has been finalized.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What problem does Dijkstras algorithm solve?",
+            "options": [
+              "Finding the shortest path from a starting vertex to every other vertex in a weighted graph",
+              "Finding the longest possible path between exactly two vertices",
+              "Determining whether a graph contains any cycles at all",
+              "Counting the total number of vertices in a graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What requirement must the edge weights of a graph satisfy for Dijkstras algorithm to work correctly?",
+            "options": [
+              "They must be non-negative",
+              "They must all be negative numbers",
+              "They must all be exactly equal to one another",
+              "Edge weights are not permitted at all in this algorithm"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does Dijkstras algorithm repeatedly do at each step?",
+            "options": [
+              "Selects a completely random vertex with no regard for distance",
+              "Selects the closest unvisited vertex and updates the shortest known distances to its neighbours",
+              "Ignores every vertexs neighbours entirely",
+              "Removes all edges from the graph one at a time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does Dijkstras algorithm relate to the network flow and max-flow min-cut ideas studied in an earlier batch?",
+            "options": [
+              "Both operate on weighted or capacitated graphs, though Dijkstras algorithm optimizes shortest distance rather than maximum flow",
+              "The two concepts are entirely unrelated to graph theory",
+              "Network flow ignores edge weights entirely, unlike Dijkstras algorithm",
+              "Dijkstras algorithm and max-flow min-cut solve exactly the same problem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Dijkstras algorithm widely used in applications such as GPS navigation and network routing?",
+            "options": [
+              "It has no practical application outside of pure theoretical graph theory",
+              "It always produces the longest possible route between two points",
+              "It efficiently finds the shortest or lowest-cost route through a large network of connected points",
+              "It only works for graphs containing exactly two vertices"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Monte Carlo Integration: Numerical Integration by Random Sampling",
+        "summary": "Grade 12 Calculus strand: Monte Carlo integration estimates the value of a definite integral by randomly sampling points within a region and using the proportion or average of sampled function values to approximate the integral, a technique especially useful for high-dimensional integrals where methods like Simpsons rule become impractical.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does Monte Carlo integration use to estimate the value of a definite integral?",
+            "options": [
+              "A single, exactly computed function value at one fixed point",
+              "Randomly sampled points within a region",
+              "The exact algebraic antiderivative of the function",
+              "An entirely deterministic grid with no randomness involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the integral estimate typically formed from the randomly sampled points?",
+            "options": [
+              "By discarding all sampled points and returning zero automatically",
+              "By selecting only the single largest sampled value",
+              "By ignoring the function values entirely and counting only the number of points",
+              "By using the proportion or average of sampled function values to approximate the integral"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which situation does Monte Carlo integration become especially useful compared to methods like Simpsons rule, studied earlier?",
+            "options": [
+              "For high-dimensional integrals, where grid-based methods become impractical",
+              "Only for one-dimensional integrals with a known closed-form antiderivative",
+              "Monte Carlo integration is never preferred over any other numerical method",
+              "Only for integrals of a single constant function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What generally happens to the accuracy of a Monte Carlo integration estimate as more random samples are used?",
+            "options": [
+              "The number of samples used has no effect on accuracy at all",
+              "The estimate typically becomes more accurate, converging toward the true integral value",
+              "Accuracy always decreases as more samples are added",
+              "A single sample always gives the most accurate possible estimate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does Monte Carlo integration rely fundamentally on the law of large numbers, studied in an earlier batch?",
+            "options": [
+              "Averaging many random samples converges toward the true expected value being estimated, which is the core idea behind the law of large numbers",
+              "The law of large numbers only applies to discrete, non-numerical outcomes",
+              "The law of large numbers has no connection to random sampling of any kind",
+              "Monte Carlo integration produces the same single sample value no matter how many trials are run"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "LC Circuits and Electromagnetic Oscillations",
+        "summary": "Grade 12 Physics strand: an LC circuit consists of an inductor and a capacitor connected together, exchanging energy back and forth between the capacitors electric field and the inductors magnetic field, producing a natural oscillation whose frequency depends on the values of the inductance and capacitance.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What two components make up a basic LC circuit?",
+            "options": [
+              "A battery and a light bulb only",
+              "Two capacitors with no inductor at all",
+              "Only two resistors with no other components",
+              "An inductor and a capacitor"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of energy exchange occurs continuously in an oscillating LC circuit?",
+            "options": [
+              "Energy is transferred only to an external light source",
+              "Energy repeatedly transfers between the capacitors electric field and the inductors magnetic field",
+              "No energy exchange of any kind occurs in this circuit",
+              "All electrical energy is instantly converted into heat and lost"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What determines the natural oscillation frequency of an LC circuit?",
+            "options": [
+              "The ambient room temperature exclusively",
+              "The physical size of the circuit board alone",
+              "The values of the inductance and the capacitance",
+              "The colour of the wires used in the circuit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does an LC circuit compare to the RC circuits studied in an earlier batch?",
+            "options": [
+              "LC circuits contain no capacitor of any kind, unlike RC circuits",
+              "An RC circuit oscillates indefinitely, exactly like an LC circuit",
+              "The two circuit types behave in an identical way in every respect",
+              "An RC circuit charges and discharges exponentially toward equilibrium, while an LC circuit continuously oscillates by exchanging energy between its two fields"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the LC circuits natural oscillation considered a foundational concept for understanding radio-frequency electronics?",
+            "options": [
+              "LC circuits can only ever produce a single, unchanging direct current",
+              "Oscillation in an LC circuit has no connection to frequency of any kind",
+              "LC circuits have no application to radio or communication technology",
+              "Its ability to oscillate at a specific frequency underlies the tuning and signal-generating behaviour used in many radio and communication circuits"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "label": "Day 165 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Ergodic Literature and Hypertext Fiction: Reading as Navigation",
+        "summary": "Grade 12 English strand: ergodic literature requires a reader to perform non-trivial effort to traverse the text, as in hypertext fiction, where clicking or choosing links creates a non-linear reading path, turning the act of reading itself into an act of navigation and making each readers experience of the same work potentially unique.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does ergodic literature require of its reader, beyond ordinary sequential reading?",
+            "options": [
+              "No reading effort of any kind beyond turning pages in a fixed order",
+              "The complete removal of any reader choice or interaction",
+              "Non-trivial effort to traverse the text",
+              "A single, identical reading path for every possible reader"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structural feature defines hypertext fiction as a form of ergodic literature?",
+            "options": [
+              "Clicking or choosing links creates a non-linear reading path through the text",
+              "Hypertext fiction is printed exclusively on paper with no digital component",
+              "Hypertext fiction removes all links and choices from the reading experience",
+              "The text can only ever be read in one single, fixed linear order"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does hypertext fiction turn reading into an act of navigation?",
+            "options": [
+              "Hypertext fiction eliminates the reader entirely from the reading process",
+              "Readers actively choose a path through branching or linked text rather than passively following one fixed sequence",
+              "Navigation in hypertext fiction refers only to a physical, real-world location",
+              "Readers have no ability to make choices while engaging with hypertext fiction"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does ergodic literature compare to the choices explored in video game narrative, studied in an earlier batch?",
+            "options": [
+              "Ergodic literature can never involve any digital medium",
+              "Both can give a reader or player meaningful agency in shaping how a narrative unfolds, though ergodic literature applies this idea broadly across written and digital texts",
+              "Video game narrative always follows a single, fixed linear sequence",
+              "The two concepts describe entirely unrelated forms of storytelling"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might two different readers of the same ergodic, hypertext work have genuinely different reading experiences?",
+            "options": [
+              "Ergodic texts contain no branching points or reader choices whatsoever",
+              "Differences between readers experiences are always due to printing errors alone",
+              "All readers of an ergodic text are forced to follow the exact same sequence regardless of choice",
+              "Their choices at branching points can lead them through different sequences of the same underlying text"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: The Stable Marriage Problem and the Gale-Shapley Algorithm",
+        "summary": "Grade 12 Advanced Functions strand: the stable marriage problem asks how to pair up two equal-sized groups, each with ranked preferences over the other group, so that no two unmatched members would both prefer each other over their assigned partners, a stable pairing that the Gale-Shapley algorithm is guaranteed to construct.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does the stable marriage problem ask for?",
+            "options": [
+              "The single largest possible group with no pairing involved",
+              "A pairing chosen entirely at random with no reference to preferences",
+              "A pairing of two equal-sized groups, based on preferences, with no unmatched pair that would both prefer each other over their assigned partners",
+              "A method for counting the total number of people in two groups"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What information does each member of the two groups provide in this problem?",
+            "options": [
+              "A single random number with no connection to preference",
+              "The exact age of every other member in both groups",
+              "A ranked list of preferences over members of the other group",
+              "No preferences of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What guarantee does the Gale-Shapley algorithm provide about the pairing it produces?",
+            "options": [
+              "It never terminates and produces no pairing at all",
+              "It ignores the preferences of one of the two groups entirely",
+              "It always produces a stable pairing, with no pair that would mutually prefer each other over their assigned partners",
+              "It always produces a pairing that is guaranteed to be unstable"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the stable marriage problem relate to bipartite matching, referenced in earlier discrete math batches?",
+            "options": [
+              "It is a specific type of bipartite matching problem, adding preference rankings and a stability requirement on top of simple matching",
+              "Stable marriage matching requires only one group rather than two",
+              "The two ideas have no mathematical relationship whatsoever",
+              "Bipartite matching always ignores whether the two groups are equal in size"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the stable marriage problem relevant to real-world applications such as matching students to schools?",
+            "options": [
+              "Real-world matching problems never involve any preferences at all",
+              "It has no real-world application beyond a purely abstract mathematical puzzle",
+              "It models how to pair participants with ranked preferences in a way that avoids pairs who would both prefer to swap partners",
+              "The algorithm can only be applied to problems with a single participant"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Gibbs Phenomenon and Convergence of Fourier Series",
+        "summary": "Grade 12 Calculus strand: the Gibbs phenomenon is a persistent overshoot that appears near a jump discontinuity when a Fourier series approximation of a function is truncated to finitely many terms, an overshoot that does not vanish as more terms are added, even though the series still converges to the function elsewhere.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What is the Gibbs phenomenon?",
+            "options": [
+              "A persistent overshoot near a jump discontinuity in a truncated Fourier series approximation",
+              "A phenomenon that only occurs in functions with no discontinuities at all",
+              "A guarantee that a Fourier series always converges perfectly with no error at any point",
+              "A complete failure of the Fourier series to converge anywhere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where does the Gibbs phenomenon specifically appear in a functions Fourier approximation?",
+            "options": [
+              "Only at the single midpoint of the functions domain",
+              "Near a jump discontinuity in the function being approximated",
+              "Uniformly across the entire domain with no special location",
+              "Only at points where the function is perfectly smooth and continuous"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to the size of the Gibbs overshoot as more terms are added to the truncated Fourier series?",
+            "options": [
+              "The overshoot only appears if exactly one term is used",
+              "The overshoot disappears completely once even a few terms are included",
+              "The overshoot grows without bound as more terms are added",
+              "The overshoot persists at roughly the same height, even as more terms are added"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which earlier-studied representation of a function does the Gibbs phenomenon specifically concern?",
+            "options": [
+              "The continued fraction expansion",
+              "The partial fraction decomposition",
+              "The Taylor series",
+              "The Fourier series"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Gibbs phenomenon an important practical consideration when using truncated Fourier series to model signals with sharp discontinuities?",
+            "options": [
+              "It proves that Fourier series can never be used to approximate any function with a discontinuity",
+              "It shows that the Gibbs overshoot always vanishes entirely once the series converges",
+              "It has no practical relevance to any real signal or application",
+              "It shows that truncated approximations can retain a persistent, non-vanishing error near discontinuities, which matters for applications sensitive to overshoot"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Polarization of Light and Malus Law",
+        "summary": "Grade 12 Physics strand: polarization describes the orientation of the oscillations of a light waves electric field, and Malus law gives the intensity of light transmitted through a polarizing filter as proportional to the square of the cosine of the angle between the lights polarization direction and the filters transmission axis.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the polarization of a light wave describe?",
+            "options": [
+              "The exact colour or wavelength of the light",
+              "The speed at which the light wave travels through a vacuum",
+              "The total energy carried by the light wave",
+              "The orientation of the oscillations of the waves electric field"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does Malus law describe?",
+            "options": [
+              "The exact frequency of a light wave with no reference to polarization",
+              "The intensity of light transmitted through a polarizing filter as a function of the angle between polarization and the filters axis",
+              "The total distance light travels before being absorbed completely",
+              "The relationship between light intensity and its source temperature only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to Malus law, what mathematical relationship gives the transmitted intensity through a polarizing filter?",
+            "options": [
+              "Intensity proportional to the square of the cosine of the angle between polarization direction and the filters transmission axis",
+              "Intensity that is always exactly equal to the original, unfiltered intensity",
+              "Intensity proportional to the angle itself, with no trigonometric function involved",
+              "Intensity that is always exactly zero regardless of angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to transmitted light intensity, according to Malus law, when the polarization direction is aligned exactly with the filters transmission axis?",
+            "options": [
+              "The transmitted intensity is at its maximum value",
+              "The transmitted intensity is always exactly zero",
+              "The transmitted intensity becomes negative",
+              "The relationship becomes undefined at this particular angle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are polarizing filters useful in applications such as sunglasses and camera lenses?",
+            "options": [
+              "Polarizing filters only function with light that carries no electric field at all",
+              "Polarizing filters have no effect on the light passing through them",
+              "They can selectively block light oscillating in certain directions, reducing glare from reflected, partially polarized light",
+              "Polarizing filters block all light regardless of its polarization direction"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "label": "Day 166 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Erasure Poetry: Making New Meaning by Removing Text",
+        "summary": "Grade 12 English strand: erasure poetry is created by taking an existing source text and removing, blacking out, or otherwise obscuring most of its words, leaving behind a sparse new poem formed from the remaining fragments, turning the act of subtraction itself into a compositional method.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "How is an erasure poem typically created?",
+            "options": [
+              "By removing, blacking out, or otherwise obscuring most of the words in an existing source text",
+              "By memorizing an existing text and reciting it aloud with no changes",
+              "By translating an existing poem word for word into another language",
+              "By writing an entirely new poem with no source text involved at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What forms the actual content of the finished erasure poem?",
+            "options": [
+              "An entirely separate text with no relationship to the original source",
+              "Only the words that were physically removed from the source",
+              "The sparse fragments of the source text left behind after removal",
+              "A summary written by the poet with no reference to the original wording"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is distinctive about erasure poetrys compositional method compared to most other poetic forms?",
+            "options": [
+              "It treats subtraction, or removing existing words, as the primary creative act, rather than adding new words",
+              "It forbids any use of an existing text as source material",
+              "It requires the poet to add significantly more words than the original source contained",
+              "It is identical in method to writing an entirely original poem from a blank page"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does erasure poetry differ from the found poem, studied in an earlier batch?",
+            "options": [
+              "A found poem typically rearranges or reframes existing text with minimal removal, while erasure poetry is defined specifically by removing most of the source words",
+              "The two forms are identical in every respect, including their exact method",
+              "Erasure poetry never uses any pre-existing source text",
+              "A found poem always adds many new invented words, unlike erasure poetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet choose an existing, well-known text as the basis for an erasure poem?",
+            "options": [
+              "Using a well-known text removes any possibility of creating new meaning",
+              "The identity of the source text has no bearing on the finished poems meaning",
+              "Erasure poems can only ever be created from entirely obscure, unknown texts",
+              "Working against a recognizable original can add an extra layer of meaning through the contrast between what is kept and what is removed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Fermat Primes and Constructible Regular Polygons",
+        "summary": "Grade 12 Advanced Functions strand: a Fermat prime is a prime number of the special form two raised to a power of two plus one, and a classical result connects these primes to geometry, showing that a regular polygon can be constructed using only a compass and straightedge exactly when its number of sides meets a condition built from distinct Fermat primes.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What special algebraic form defines a Fermat prime?",
+            "options": [
+              "A prime number of the form two raised to a power of two, plus one",
+              "Any prime number that is also an even number",
+              "A prime number that is exactly one less than a power of two",
+              "Any number that is the sum of two smaller prime numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What classical geometric question do Fermat primes connect to?",
+            "options": [
+              "How to bisect an arbitrary angle using only a compass",
+              "How to determine the volume of a general polyhedron",
+              "Which regular polygons can be constructed using only a compass and straightedge",
+              "How to compute the exact area of any triangle"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many Fermat primes have been confirmed to exist, based on current mathematical knowledge?",
+            "options": [
+              "None at all; Fermat primes have been proven never to exist",
+              "Infinitely many, with a simple formula generating every one",
+              "Exactly one, and no others are believed to exist",
+              "Only a small, known finite number, with no further ones confirmed despite extensive searching"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the Fermat prime construction result build on ideas from the Euclidean algorithm and modular arithmetic studied earlier?",
+            "options": [
+              "It has no relationship whatsoever to number theory, relying only on geometry",
+              "It draws on deep number-theoretic results about primes to answer a question originally posed in classical geometry",
+              "It shows that geometry and number theory can never be meaningfully connected",
+              "It relies entirely on calculus, with no connection to number theory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the link between Fermat primes and constructible polygons considered a striking result in mathematics?",
+            "options": [
+              "It shows that geometry and number theory are entirely unrelated fields",
+              "It applies only to polygons with an even number of sides",
+              "It connects a purely number-theoretic property of certain primes to a concrete geometric construction question, bridging two very different areas of mathematics",
+              "It proves that no regular polygon can ever be constructed with compass and straightedge"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Cesaro Summation and Assigning Values to Divergent Series",
+        "summary": "Grade 12 Calculus strand: Cesaro summation assigns a value to certain divergent series by taking the limit of the averages of their partial sums rather than the partial sums themselves, allowing a meaningful sum to be defined for series, such as the alternating series of ones and negative ones, that do not converge in the ordinary sense.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does Cesaro summation compute, instead of taking the limit of a series partial sums directly?",
+            "options": [
+              "The limit of the individual terms of the series alone",
+              "The limit of the averages of the partial sums",
+              "The largest single partial sum in the entire sequence",
+              "The product, rather than any kind of average or sum, of the partial sums"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of series can Cesaro summation sometimes assign a meaningful value to?",
+            "options": [
+              "Only series with a single term and no further terms",
+              "Certain divergent series that do not converge in the ordinary sense",
+              "Only series that already converge in the ordinary sense",
+              "A series consisting entirely of zeros"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What value does Cesaro summation classically assign to a simple alternating series of ones and negative ones?",
+            "options": [
+              "The method assigns no value to this series at all",
+              "Exactly zero, with no averaging involved",
+              "One-half, from averaging its oscillating partial sums",
+              "Positive infinity, since the series never settles down"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does Cesaro summation relate to Abel summation, studied in an earlier batch?",
+            "options": [
+              "Abel summation and Cesaro summation have no shared purpose whatsoever",
+              "The two methods are identical in every technical detail",
+              "Cesaro summation can only be applied to convergent series, unlike Abel summation",
+              "Both are methods for assigning values to certain divergent series, though Abel summation and Cesaro summation use different underlying limiting procedures"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must a summation method like Cesaro summation be consistent with ordinary convergence for series that do converge normally?",
+            "options": [
+              "It should reproduce the standard sum whenever a series already converges in the usual sense, so it extends rather than contradicts ordinary summation",
+              "Consistency with ordinary convergence is not a meaningful requirement for any summation method",
+              "Cesaro summation always contradicts the ordinary sum of a convergent series",
+              "A summation method must always disagree with the standard result whenever possible"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Quantum Harmonic Oscillator and Energy Quantization",
+        "summary": "Grade 12 Physics strand: the quantum harmonic oscillator models a particle in a parabolic potential well and shows that, unlike a classical oscillator, it can only possess discrete, evenly spaced energy levels, including a nonzero minimum called the zero-point energy, illustrating a general feature of bound quantum systems.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What kind of potential does the quantum harmonic oscillator model a particle as moving within?",
+            "options": [
+              "A potential defined solely by electric charge with no spatial shape",
+              "A potential that exists only outside of any bound region",
+              "A completely flat potential with no variation at all",
+              "A parabolic potential well"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do the allowed energy levels of the quantum harmonic oscillator differ from those of a classical oscillator?",
+            "options": [
+              "They are identical in every way to the continuous energies allowed classically",
+              "The quantum oscillator allows only a single fixed energy level with no others possible",
+              "Quantum energy levels are always spaced further apart at lower energies than at higher ones",
+              "They are discrete and evenly spaced, rather than forming a smooth continuous range"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the zero-point energy of a quantum harmonic oscillator?",
+            "options": [
+              "An energy value that only applies to classical, non-quantum oscillators",
+              "The maximum possible energy the oscillator can ever reach",
+              "An energy level equal to exactly zero in the lowest possible state",
+              "A nonzero minimum energy the system always retains, even in its lowest possible state"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the quantum harmonic oscillator illustrate a general feature shared with other bound quantum systems, such as the atom studied earlier?",
+            "options": [
+              "Bound quantum systems never display any quantization of energy",
+              "The quantum harmonic oscillator behaves identically to a completely free, unbound particle",
+              "Confinement leads to quantized, discrete energy levels rather than a continuous range of allowed energies",
+              "Energy quantization is a feature unique to the harmonic oscillator alone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the quantum harmonic oscillator considered an especially important model system in quantum mechanics?",
+            "options": [
+              "It has no application to any physical system beyond a single idealized spring",
+              "Many more complicated physical systems can be approximated, near a stable equilibrium, by a harmonic oscillator potential",
+              "It is the only quantum system in which energy levels are ever quantized",
+              "The model applies exclusively to macroscopic, classical-scale objects"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "label": "Day 167 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Jeremiad: The Rhetoric of Lament and Warning",
+        "summary": "Grade 12 English strand: a jeremiad is a rhetorical mode of impassioned lament and moral warning, named for the biblical prophet Jeremiah, that condemns a communitys present corruption while calling for a return to earlier values, a structure that has recurred throughout political and religious oratory.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What two rhetorical elements does a jeremiad typically combine?",
+            "options": [
+              "A neutral, purely factual description with no persuasive intent",
+              "Pure celebration with no criticism of any kind",
+              "Impassioned lament over present corruption and a call to return to earlier values",
+              "Silence and the complete avoidance of any moral judgment"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "After which figure is the jeremiad named?",
+            "options": [
+              "A Roman emperor with no connection to prophecy",
+              "An ancient Greek dramatist unrelated to biblical tradition",
+              "The biblical prophet Jeremiah",
+              "A modern political theorist with no historical prophetic tradition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what kind of discourse has the jeremiad structure often recurred throughout history?",
+            "options": [
+              "Only in strictly factual scientific writing",
+              "Only in purely comic or satirical writing with no serious intent",
+              "Political and religious oratory",
+              "Only in private, unpublished personal letters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the jeremiad compare to the op-ed form studied in an earlier batch?",
+            "options": [
+              "An op-ed can never contain any critical or persuasive content",
+              "Both can argue publicly for change, but the jeremiad specifically follows a lament-and-warning structure rooted in a longstanding rhetorical and prophetic tradition",
+              "The jeremiad has no connection to persuasive or rhetorical purpose at all",
+              "The two forms are identical in structure, audience, and historical origin"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a speaker invoke a jeremiads structure of lament and warning to motivate an audience toward change?",
+            "options": [
+              "This rhetorical structure has never been used to motivate any audience",
+              "Framing present problems as a decline from once-held values can create urgency and a sense of shared moral stakes",
+              "Lament and warning are incompatible with any call for future action",
+              "A jeremiad structure removes any sense of urgency from an argument"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Bertrands Postulate and Prime Gaps",
+        "summary": "Grade 12 Advanced Functions strand: Bertrands postulate states that for every integer greater than one, there is always at least one prime number between it and its double, a guarantee about how far apart consecutive primes can be that complements broader results such as the prime number theorem studied earlier.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does Bertrands postulate guarantee about primes near a given integer greater than one?",
+            "options": [
+              "The integer itself must always be prime",
+              "No prime number can ever exist between the integer and its double",
+              "Exactly one hundred primes always exist in that range",
+              "At least one prime number exists between the integer and its double"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of mathematical statement is Bertrands postulate, despite its name?",
+            "options": [
+              "An unproven conjecture with no known proof",
+              "A proven theorem about the distribution of prime numbers",
+              "A purely geometric statement with no connection to prime numbers",
+              "A statement that has been definitively disproven"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does Bertrands postulate relate to the concept of prime gaps?",
+            "options": [
+              "Bertrands postulate has no connection to the spacing between primes",
+              "It proves that prime gaps must always be exactly one",
+              "It shows that prime gaps grow without any bound whatsoever, even for small integers",
+              "It places an upper bound on how large the gap between certain consecutive primes can be"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does Bertrands postulate complement the prime number theorem, studied in an earlier batch?",
+            "options": [
+              "Bertrands postulate replaces the need for the prime number theorem entirely",
+              "The two results contradict each other directly",
+              "Both describe how primes are distributed among the integers, though the prime number theorem gives an average density while Bertrands postulate gives a guaranteed local bound",
+              "The prime number theorem and Bertrands postulate address entirely unrelated mathematical questions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a guaranteed bound like Bertrands postulate useful, even though it is a relatively coarse statement about prime spacing?",
+            "options": [
+              "It gives the exact location of every prime number with no uncertainty at all",
+              "A coarse guarantee about prime spacing has no mathematical usefulness whatsoever",
+              "It provides a simple, reliable guarantee about locating a prime within a specific range, which can be a useful stepping stone in other proofs",
+              "It applies only to a single specific integer and no others"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Riemann Rearrangement Theorem and Conditionally Convergent Series",
+        "summary": "Grade 12 Calculus strand: the Riemann rearrangement theorem states that the terms of a conditionally convergent series, one that converges only because of cancellation between positive and negative terms rather than absolute convergence, can be reordered to converge to any chosen real number, or even to diverge entirely.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What surprising conclusion does the Riemann rearrangement theorem reach about certain series?",
+            "options": [
+              "Every series becomes divergent the moment its terms are reordered",
+              "Reordering the terms of any series always leaves its sum completely unchanged",
+              "Rearranging terms is never mathematically permitted for any type of series",
+              "Reordering the terms of a conditionally convergent series can change its sum to any chosen real number, or make it diverge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What defines a conditionally convergent series, as distinct from an absolutely convergent one?",
+            "options": [
+              "It never converges under any possible arrangement of its terms",
+              "It converges only because of cancellation between positive and negative terms, not because the series of absolute values converges",
+              "It contains only positive terms with no cancellation of any kind",
+              "It converges regardless of the order in which its terms are summed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Does the Riemann rearrangement theorem apply to absolutely convergent series in the same surprising way?",
+            "options": [
+              "The theorem applies only to series with a single nonzero term",
+              "Absolutely convergent series can never be summed under any rearrangement",
+              "Yes, absolutely convergent series can also be rearranged to sum to any value",
+              "No, absolutely convergent series converge to the same sum regardless of how their terms are rearranged"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which earlier-studied convergence tests help distinguish conditional convergence from absolute convergence for an alternating series?",
+            "options": [
+              "The binomial theorem, with no connection to convergence testing",
+              "The pigeonhole principle, which addresses a different type of problem entirely",
+              "The alternating series test, together with a comparison of the series of absolute values",
+              "The quadratic formula, which has no bearing on infinite series"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Riemann rearrangement theorem considered a cautionary result about infinite series?",
+            "options": [
+              "It proves that conditional convergence is mathematically impossible",
+              "It shows that no infinite series can ever be rearranged under any circumstances",
+              "It confirms that infinite sums always behave exactly like finite sums in every respect",
+              "It shows that some familiar rules of finite arithmetic, such as the order of addition not mattering, can fail dramatically for infinite series"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Exoplanet Detection: The Transit and Radial Velocity Methods",
+        "summary": "Grade 12 Physics strand: exoplanets, planets orbiting stars beyond our solar system, are commonly detected using the transit method, which measures the small periodic dip in a stars brightness as a planet passes in front of it, and the radial velocity method, which measures the tiny wobble a planets gravity induces in its stars motion.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does the transit method use to detect an exoplanet?",
+            "options": [
+              "A sudden, permanent increase in the stars total brightness",
+              "A small, periodic dip in a stars brightness as the planet passes in front of it",
+              "A measurement of the planets surface temperature from Earth",
+              "The exact colour of the planet as seen directly through a telescope"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What physical effect does the radial velocity method rely on to detect an exoplanet?",
+            "options": [
+              "A direct, unobstructed photograph of the planet itself",
+              "A tiny wobble in the stars motion caused by the gravitational pull of the orbiting planet",
+              "A measurable change in the stars chemical composition",
+              "A complete stop in the stars motion caused by the planet"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What periodic pattern in stellar brightness is characteristic of a successful transit detection?",
+            "options": [
+              "A single, permanent, non-repeating loss of all stellar brightness",
+              "A random, irregular pattern with no periodicity at all",
+              "A small dip in brightness that repeats regularly as the planet orbits the star",
+              "A brightness increase rather than any decrease"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which earlier-studied wave phenomenon underlies how the radial velocity method detects a stars wobble?",
+            "options": [
+              "The photoelectric effect, with no connection to Doppler shifts",
+              "The Doppler effect, applied to shifts in the stars observed light spectrum",
+              "Total internal reflection, unrelated to any motion of the star",
+              "Structural colour, which has no connection to stellar spectra"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do astronomers often use both the transit and radial velocity methods together when studying the same exoplanet?",
+            "options": [
+              "Combining both methods can reveal additional properties, such as the planets mass and radius, that neither method alone fully provides",
+              "The transit method alone provides complete information with no need for any other method",
+              "The two methods can never be applied to the same exoplanet system",
+              "Using two different methods together always produces contradictory, unusable results"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "label": "Day 168 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Verse Essay: Discursive Argument in Poetic Form",
+        "summary": "Grade 12 English strand: a verse essay presents a sustained, discursive argument or reflection, much like a prose essay, but does so using the compressed, patterned language of poetry, showing that reasoned argument and poetic form are not mutually exclusive modes of writing.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does a verse essay attempt to do, similar to a prose essay?",
+            "options": [
+              "Present a sustained, discursive argument or reflection",
+              "Record a private, unstructured diary entry with no wider audience",
+              "Tell a purely fictional story with no argumentative content",
+              "Present a list of facts with absolutely no interpretive argument"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What formal quality distinguishes a verse essay from a conventional prose essay?",
+            "options": [
+              "It uses the compressed, patterned language of poetry rather than ordinary prose",
+              "It forbids the use of any structured reasoning whatsoever",
+              "It must always be exactly fourteen lines long, like a sonnet",
+              "It contains no argument or reasoning of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the existence of the verse essay suggest about the relationship between poetry and argument?",
+            "options": [
+              "That prose is the only form capable of sustained argument",
+              "That reasoned argument and poetic form are not mutually exclusive modes of writing",
+              "That verse essays never engage with ideas or reflection of any kind",
+              "That poetry can never contain any form of reasoned argument"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How might a verse essay differ in effect from the extended metaphor as argument, studied in an earlier batch?",
+            "options": [
+              "An extended metaphor always requires an entire poem-length argument",
+              "The two concepts describe exactly the same technique with no distinction",
+              "A verse essay can never include any figurative language such as metaphor",
+              "A verse essay sustains an entire discursive argument in poetic form, while an extended metaphor is a single figurative device that can appear within many kinds of writing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose the compressed, patterned language of verse to develop an extended argument, rather than plain prose?",
+            "options": [
+              "Poetic language is incapable of conveying any reasoned idea",
+              "Verse form always weakens the clarity of any argument being made",
+              "A verse essay is defined by the complete absence of any reasoning",
+              "The rhythm, imagery, and compression of verse can add emotional and aesthetic force to an argument beyond what plain prose alone provides"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: Liouville Numbers and the Existence of Transcendental Numbers",
+        "summary": "Grade 12 Advanced Functions strand: a Liouville number is a real number that can be approximated extremely closely by rational numbers, closely enough to prove it cannot be the root of any polynomial with integer coefficients, making Liouville numbers the first numbers ever explicitly proven to be transcendental.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What special approximation property defines a Liouville number?",
+            "options": [
+              "It can be approximated extremely closely by rational numbers, more closely than typical irrational numbers allow",
+              "It is defined only as the root of a specific integer polynomial",
+              "It cannot be approximated by any rational number whatsoever",
+              "It is always itself a rational number with a simple fraction form"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What broader category of numbers does every Liouville number belong to?",
+            "options": [
+              "Transcendental numbers, meaning it is not the root of any polynomial with integer coefficients",
+              "Algebraic numbers that satisfy some polynomial with integer coefficients",
+              "Prime numbers with no fractional or decimal component",
+              "Rational numbers expressible as a simple fraction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was historically significant about the discovery of Liouville numbers?",
+            "options": [
+              "They were the first numbers shown to be roots of integer polynomials",
+              "They disproved the existence of any transcendental number",
+              "They were the first numbers ever proven to be rational",
+              "They were the first numbers ever explicitly proven to be transcendental"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the concept of a Liouville number relate to continued fractions, studied in an earlier batch?",
+            "options": [
+              "Extremely good rational approximations, similar to those produced by continued fraction truncations, are central to how Liouville numbers are constructed and identified",
+              "Continued fractions have no relationship whatsoever to how well a number can be approximated",
+              "Continued fractions apply only to rational numbers, never to transcendental ones",
+              "Liouville numbers can only ever be represented as a single simple fraction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why was proving the existence of transcendental numbers considered an important mathematical milestone?",
+            "options": [
+              "It had no impact on the broader understanding of the real number system",
+              "It showed that transcendental numbers and rational numbers are exactly the same set",
+              "It proved that every real number must be algebraic, with no exceptions",
+              "It confirmed that not every real number can be described as the root of a polynomial with integer coefficients, revealing a genuinely different class of numbers"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Asymptotic Expansions and Approximating Functions for Large Arguments",
+        "summary": "Grade 12 Calculus strand: an asymptotic expansion approximates a function using a series that may not converge in the usual sense, yet whose early terms give an increasingly accurate approximation as the argument grows large, a technique especially valuable for functions with no simple closed form, such as certain special functions studied earlier.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What is distinctive about an asymptotic expansion compared to a standard convergent series such as a Taylor series?",
+            "options": [
+              "It can only ever be used for functions with a simple closed form",
+              "It requires the argument to remain small rather than large",
+              "It always converges in exactly the same way as a Taylor series",
+              "It may not converge in the usual sense, yet its early terms still give an increasingly accurate approximation as the argument grows large"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what regime, small or large arguments, is an asymptotic expansion typically most useful?",
+            "options": [
+              "Only arguments that are exactly equal to one",
+              "Asymptotic expansions are never tied to any particular size of argument",
+              "Only arguments extremely close to zero",
+              "Large arguments"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "For which kind of functions studied earlier in this course might an asymptotic expansion be especially valuable?",
+            "options": [
+              "Special functions with no simple closed form, such as the Gamma function or Bessel functions",
+              "Only basic polynomial functions with an already simple closed form",
+              "Only constant functions with a single fixed value",
+              "Functions that already have an exact and simple algebraic formula"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the usefulness of an asymptotic expansion despite non-convergence compare to the behaviour of a divergent series studied in this batch, such as under Cesaro summation?",
+            "options": [
+              "An asymptotic expansion must always converge in the ordinary sense to be useful",
+              "Cesaro summation and asymptotic expansions apply exclusively to polynomial functions",
+              "Both situations show that a series need not converge in the ordinary sense to still carry meaningful, useful mathematical information",
+              "Asymptotic expansions and divergent series share no conceptual similarity whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a scientist or engineer prefer an asymptotic expansion over an exact but extremely complicated closed-form expression?",
+            "options": [
+              "A truncated asymptotic expansion can give a simple, sufficiently accurate approximation for large arguments without needing to evaluate an unwieldy exact formula",
+              "Asymptotic expansions can only ever be used for purely theoretical purposes with no practical value",
+              "Asymptotic expansions are always less accurate than any exact closed-form expression",
+              "Exact closed-form expressions are never more complicated than an asymptotic approximation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Olbers Paradox: Why Is the Night Sky Dark",
+        "summary": "Grade 12 Physics strand: Olbers paradox asks why the night sky is dark rather than uniformly bright, given that in an infinite, static universe filled evenly with stars every line of sight should eventually terminate on a stars surface, a puzzle resolved by the universes finite age and the expansion revealed by cosmological redshift.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What observational fact does Olbers paradox attempt to explain?",
+            "options": [
+              "Why the daytime sky appears blue rather than another colour",
+              "Why the Moon appears to change shape over the course of a month",
+              "Why stars appear to twinkle rather than shine steadily",
+              "Why the night sky appears dark rather than uniformly bright"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Under the assumption of an infinite, static, evenly star-filled universe, what would every line of sight from Earth eventually be expected to hit?",
+            "options": [
+              "A single, unique star directly overhead only",
+              "The surface of some star, making the entire sky appear bright",
+              "Nothing at all, since light could never reach Earth in such a universe",
+              "Empty space with absolutely no light reaching Earth at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which two features of the actual universe help resolve Olbers paradox?",
+            "options": [
+              "The complete absence of any stars in the universe",
+              "The universes finite age and its ongoing cosmic expansion",
+              "The fact that all stars are located at exactly the same distance from Earth",
+              "The claim that light from stars never actually reaches Earth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does cosmological redshift, arising from the universes expansion, contribute to explaining the darkness of the night sky?",
+            "options": [
+              "Redshift only affects sound waves, not light from distant stars",
+              "It shifts light from very distant, receding sources toward longer wavelengths, reducing the visible brightness reaching Earth",
+              "Redshift has no connection whatsoever to the observed darkness of the sky",
+              "Redshift makes every distant star appear brighter than it otherwise would"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Olbers paradox considered an important historical puzzle in cosmology?",
+            "options": [
+              "It was resolved without any reference to the age or expansion of the universe",
+              "It was resolved by proving that stars do not actually emit any light",
+              "It has no connection to how modern cosmological models were developed",
+              "Resolving it required insights into the finite age and expansion of the universe, ideas central to modern cosmological models"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "label": "Day 169 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "The Roman-Fleuve: The Multi-Volume Novel Sequence",
+        "summary": "Grade 12 English strand: a roman-fleuve, literally a river novel, is an extended sequence of related novels that follows a set of characters, a family, or a community across multiple volumes and often several decades, allowing a scale and cumulative depth of development no single novel could achieve alone.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What does the term roman-fleuve literally translate to?",
+            "options": [
+              "Broken novel",
+              "Frame novel",
+              "Silent novel",
+              "River novel"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What structural feature defines a roman-fleuve as a literary form?",
+            "options": [
+              "An extended sequence of related novels following characters, a family, or a community across multiple volumes",
+              "A single, self-contained novel with no sequel or related volumes at all",
+              "A collection of entirely unrelated short stories with no shared characters",
+              "A single volume that must be read in a completely non-linear order"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What span of time does a roman-fleuve often cover across its multiple volumes?",
+            "options": [
+              "Often several decades",
+              "Exactly twenty-four hours, mirroring a single day",
+              "A single afternoon, with no passage of time at all",
+              "A period that must always be under one calendar year"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the roman-fleuve differ from the serial novel, studied in an earlier batch, which was published in periodic instalments?",
+            "options": [
+              "The roman-fleuve is defined by its multi-volume novel structure and scale, while the serial novel is defined by its instalment-based method of original publication",
+              "A serial novel can never be published as a sequence of separate volumes",
+              "The two forms are identical in both structure and method of publication",
+              "The roman-fleuve is always published in a single instalment with no volumes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose the roman-fleuve form to portray a family or community over time?",
+            "options": [
+              "Multiple volumes allow gradual, cumulative development of character and social change that a single novel could not fully capture",
+              "The roman-fleuve form forbids depicting more than one central character",
+              "A multi-volume structure makes any long-term character development impossible",
+              "Portraying change over decades is always better achieved within a single short story"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: The Runge Phenomenon and the Limits of Polynomial Interpolation",
+        "summary": "Grade 12 Advanced Functions strand: the Runge phenomenon is the tendency of a high-degree polynomial interpolation through equally spaced points to oscillate wildly near the edges of the interval, showing that simply increasing polynomial degree does not always improve the accuracy of an interpolated approximation.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does the Runge phenomenon describe?",
+            "options": [
+              "A phenomenon that only ever occurs with linear, first-degree interpolation",
+              "A guarantee that higher-degree polynomial interpolation always improves accuracy everywhere",
+              "The complete failure of any polynomial to pass through the given data points",
+              "Wild oscillation near the edges of an interval when interpolating with a high-degree polynomial through equally spaced points"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What spacing of interpolation points is classically associated with triggering the Runge phenomenon?",
+            "options": [
+              "Points spaced according to a special, unevenly clustered pattern near the edges",
+              "Points chosen entirely at random with no fixed spacing rule",
+              "A single repeated point used many times over",
+              "Equally spaced points"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Runge phenomenon reveal about the relationship between polynomial degree and interpolation accuracy?",
+            "options": [
+              "Higher polynomial degree always produces a strictly better approximation with no exceptions",
+              "Simply increasing the polynomial degree does not always improve the accuracy of the interpolated approximation",
+              "Only degree-one polynomials can ever be used for interpolation",
+              "Polynomial degree has no effect whatsoever on interpolation accuracy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the Runge phenomenon relate to polynomial interpolation and Lagranges method, studied in an earlier batch?",
+            "options": [
+              "It reveals a practical limitation of naive high-degree polynomial interpolation using equally spaced points, a method built directly on Lagranges approach",
+              "Lagranges method is entirely immune to the Runge phenomenon under all conditions",
+              "It has no connection whatsoever to polynomial interpolation of any kind",
+              "The Runge phenomenon only applies to trigonometric functions, not polynomials"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Runge phenomenon an important practical consideration for anyone building a numerical approximation from sampled data?",
+            "options": [
+              "It shows that careful choice of interpolation points and method matters, since a naive high-degree fit at equally spaced points can actually worsen accuracy",
+              "It only matters for functions with an already simple, low-degree closed form",
+              "It shows that interpolation should always use the highest possible polynomial degree with no other consideration",
+              "It proves that numerical approximation from data is always perfectly accurate regardless of method"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Total Derivative and Differentiability in Several Variables",
+        "summary": "Grade 12 Calculus strand: the total derivative of a multivariable function captures how the function changes in response to small changes in all of its variables simultaneously, providing the precise formal criterion for differentiability in several variables that goes beyond simply having each individual partial derivative exist.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the total derivative of a multivariable function capture?",
+            "options": [
+              "How the function changes with respect to only a single variable, ignoring all others",
+              "How the function changes in response to small changes in all of its variables simultaneously",
+              "The average value of the function across its entire domain",
+              "The value of the function at a single isolated point, with no reference to change"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What formal mathematical role does the total derivative play for a multivariable function?",
+            "options": [
+              "It only applies to functions of a single variable",
+              "It has no connection to the concept of differentiability at all",
+              "It replaces the need to ever compute a partial derivative",
+              "It provides the precise criterion for differentiability in several variables"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is having each individual partial derivative exist not automatically sufficient for a multivariable function to be considered differentiable?",
+            "options": [
+              "Partial derivatives and differentiability are entirely unrelated concepts",
+              "Existence of partial derivatives is always completely sufficient for differentiability with no exceptions",
+              "The existence of individual partial derivatives alone does not guarantee the more demanding condition of a well-behaved linear approximation in every direction at once",
+              "A function can never have partial derivatives without also being fully differentiable"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the total derivative relate to the gradient vector and directional derivatives, studied in an earlier batch?",
+            "options": [
+              "The total derivative provides the underlying linear approximation from which directional derivatives, computed using the gradient, can be derived in any direction",
+              "The total derivative and the gradient vector describe completely unrelated mathematical objects",
+              "The gradient vector has no mathematical relationship to the total derivative",
+              "Directional derivatives can only be computed for functions of a single variable"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a rigorous notion of the total derivative important for extending single-variable calculus concepts, such as the chain rule, to multivariable functions?",
+            "options": [
+              "Single-variable calculus concepts never need to be extended to multivariable functions",
+              "A rigorous total derivative has no bearing on how other calculus rules generalize",
+              "It gives the proper linear approximation framework needed to correctly generalize rules like the chain rule to functions of several variables",
+              "The total derivative removes any need for a chain rule in multivariable calculus"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Band Theory of Solids: Conductors, Insulators, and Semiconductors",
+        "summary": "Grade 12 Physics strand: band theory explains the electrical behaviour of solids by describing how the allowed energy levels of electrons in a crystal merge into continuous bands, with the size of the gap between a filled valence band and the next available conduction band determining whether a material behaves as a conductor, insulator, or semiconductor.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What structures does band theory describe forming from the allowed energy levels of electrons in a crystal?",
+            "options": [
+              "A single, isolated energy level with no surrounding structure",
+              "A structure identical for every possible material with no variation",
+              "A set of completely random, unrelated energy values",
+              "Continuous energy bands"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What determines whether a material behaves as a conductor, insulator, or semiconductor, according to band theory?",
+            "options": [
+              "The materials temperature at the moment it was first formed",
+              "The size of the energy gap between the filled valence band and the next available conduction band",
+              "The exact physical shape into which the material has been cut",
+              "The colour of the material as seen by the human eye"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a conductor typically differ from an insulator in terms of this energy gap?",
+            "options": [
+              "The energy gap has no influence on whether a material conducts electricity",
+              "A conductor has little or no gap, allowing electrons to move into the conduction band easily, while an insulator has a large gap that strongly resists this",
+              "Conductors and insulators always have exactly the same size of energy gap",
+              "A conductor always has a larger energy gap than an insulator"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does band theory provide a deeper explanation for the behaviour of semiconductors, studied in an earlier batch as a more applied topic?",
+            "options": [
+              "Band theory has no connection whatsoever to how semiconductors behave",
+              "It explains semiconductor behaviour in terms of a moderate energy gap that can be overcome under the right conditions, unlike the gaps in typical conductors or insulators",
+              "Band theory shows that semiconductors and insulators always behave in an identical way",
+              "Semiconductors are explained by band theory as having no energy gap of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is band theory considered a fundamental framework in condensed matter physics?",
+            "options": [
+              "It provides a unified quantum-mechanical explanation for the electrical behaviour of a very wide range of solid materials",
+              "It only applies to a single specific material with no broader application",
+              "It explains electrical behaviour without any reference to quantum mechanics at all",
+              "Band theory is limited exclusively to materials that conduct no electricity whatsoever"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "label": "Day 170 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Dramatic Forms, Satire, Rhetoric, and the Novel Sequence",
+        "summary": "Grade 12 English review: revisiting the morality play, the revenge tragedy, Menippean satire, the closet drama, and ergodic literature and hypertext fiction from Days 161-165.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What kind of characters typically populate a morality play?",
+            "options": [
+              "Characters drawn entirely from ancient myth with no allegory involved",
+              "Historical figures with no symbolic meaning at all",
+              "Animals with no connection to human conduct",
+              "Personifications of abstract qualities, such as Virtue or Vice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What central action drives the plot of a revenge tragedy?",
+            "options": [
+              "A plot with no central grievance or wrong of any kind",
+              "A protagonist entirely uninterested in justice or retribution",
+              "A protagonist pursuing vengeance for a grievous wrong, typically a murder",
+              "A protagonist who forgives every wrong immediately with no conflict"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Menippean satire primarily target?",
+            "options": [
+              "Only physical appearance, with no interest in intellectual attitudes",
+              "Mental attitudes, such as pedantry or dogmatism, rather than specific individuals",
+              "A single historical event with no interest in ideas or attitudes",
+              "Only named, real individuals with no attention to ideas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes a closet drama from a conventional stage play?",
+            "options": [
+              "It cannot be written in dramatic form at all",
+              "It is legally forbidden from ever being performed under any circumstances",
+              "It is intended primarily to be read rather than performed on stage",
+              "It contains no dialogue or stage directions of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does ergodic literature require of its reader, beyond ordinary sequential reading?",
+            "options": [
+              "The complete removal of any reader choice or interaction",
+              "A single, identical reading path for every possible reader",
+              "No reading effort of any kind beyond turning pages in a fixed order",
+              "Non-trivial effort to traverse the text"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "AdvancedFunctions Review: Inference, Graph Algorithms, and Prime Structure",
+        "summary": "Grade 12 Advanced Functions review: revisiting the Student t-distribution, ANOVA, Hamiltonian paths and cycles, Dijkstras algorithm, and the stable marriage problem from Days 161-165.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "When is the Student t-distribution typically used instead of the normal distribution?",
+            "options": [
+              "When estimating a population mean from a small sample with an unknown population standard deviation",
+              "Only when the entire population has already been measured directly",
+              "When the population standard deviation is known exactly in advance",
+              "Only for samples larger than several thousand observations"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What question does an ANOVA test primarily answer?",
+            "options": [
+              "Whether a sample was collected using a random method",
+              "Whether a single data point is an outlier",
+              "Whether exactly two population parameters are identical",
+              "Whether the means of three or more groups differ significantly from one another"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What must a Hamiltonian path do, with respect to the vertices of a graph?",
+            "options": [
+              "Visit every vertex exactly once",
+              "Visit every edge exactly once, ignoring the vertices",
+              "Visit only a single vertex, ignoring all others",
+              "Avoid visiting any vertex at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What problem does Dijkstras algorithm solve?",
+            "options": [
+              "Counting the total number of vertices in a graph",
+              "Finding the shortest path from a starting vertex to every other vertex in a weighted graph",
+              "Finding the longest possible path between exactly two vertices",
+              "Determining whether a graph contains any cycles at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the stable marriage problem ask for?",
+            "options": [
+              "A pairing chosen entirely at random with no reference to preferences",
+              "The single largest possible group with no pairing involved",
+              "A pairing of two equal-sized groups, based on preferences, with no unmatched pair that would both prefer each other over their assigned partners",
+              "A method for counting the total number of people in two groups"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus Review: Systems, Numerical Methods, and Series Behaviour",
+        "summary": "Grade 12 Calculus review: revisiting systems of linear differential equations, Sturm-Liouville theory, the Adams-Bashforth method, Monte Carlo integration, and the Gibbs phenomenon from Days 161-165.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does a system of linear differential equations describe?",
+            "options": [
+              "A single isolated quantity with no relationship to any other variable",
+              "A purely algebraic system with no rates of change involved",
+              "A system with no matrix representation possible",
+              "Several interrelated quantities changing over time at once"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of equation does Sturm-Liouville theory study?",
+            "options": [
+              "A purely algebraic equation with no derivatives involved",
+              "A first-order equation with no boundary conditions of any kind",
+              "An equation with no possible eigenfunction solutions",
+              "A class of second-order differential equations with associated boundary conditions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What distinguishes a multistep method like Adams-Bashforth from a single-step method such as Eulers method?",
+            "options": [
+              "It can only ever be applied to algebraic equations, not differential ones",
+              "It uses no previous data of any kind at every step",
+              "It estimates each new value using several previously computed points rather than only the most recent one",
+              "It requires recomputing the entire solution from scratch at every step"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Monte Carlo integration use to estimate the value of a definite integral?",
+            "options": [
+              "An entirely deterministic grid with no randomness involved",
+              "The exact algebraic antiderivative of the function",
+              "Randomly sampled points within a region",
+              "A single, exactly computed function value at one fixed point"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the Gibbs phenomenon?",
+            "options": [
+              "A guarantee that a Fourier series always converges perfectly with no error at any point",
+              "A persistent overshoot near a jump discontinuity in a truncated Fourier series approximation",
+              "A phenomenon that only occurs in functions with no discontinuities at all",
+              "A complete failure of the Fourier series to converge anywhere"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics Review: Rotation, Fields, Optics, and Quantum Confinement",
+        "summary": "Grade 12 Physics review: revisiting gyroscopic precession, rolling without slipping, the Poynting vector, LC circuits, and polarization and Malus law from Days 161-165.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What is gyroscopic precession?",
+            "options": [
+              "The instant collapse of a spinning object the moment any torque is applied",
+              "A spinning objects tendency to speed up indefinitely with no external influence",
+              "The complete absence of any motion in a spinning object",
+              "The slow sweeping of a spinning objects axis in a cone shape under an external torque"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition defines rolling without slipping?",
+            "options": [
+              "The object slides freely with no rotation at all",
+              "The point of contact between the object and the surface has zero relative velocity",
+              "The object spins in place with no translational motion whatsoever",
+              "The surface and the object never make contact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Poynting vector describe about an electromagnetic wave?",
+            "options": [
+              "The temperature of the medium the wave travels through",
+              "The direction and rate of energy flow it carries",
+              "The mass of the particles composing the wave",
+              "The exact colour of the light involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What two components make up a basic LC circuit?",
+            "options": [
+              "An inductor and a capacitor",
+              "Two capacitors with no inductor at all",
+              "Only two resistors with no other components",
+              "A battery and a light bulb only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the polarization of a light wave describe?",
+            "options": [
+              "The exact colour or wavelength of the light",
+              "The orientation of the oscillations of the waves electric field",
+              "The total energy carried by the light wave",
+              "The speed at which the light wave travels through a vacuum"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
