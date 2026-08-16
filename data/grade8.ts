@@ -2149,6 +2149,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Active and Passive Voice", summary:"Grade 8 Language strand: in active voice, the subject performs the action, while in passive voice, the subject receives the action, often shifting emphasis or omitting who performed it.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=RV8PHPVBlBM",
    quiz:[
      {q:"In active voice, the subject ___.", options:["Never appears in the sentence at all","Receives the action","Performs the action","A concept unrelated to voice"], answer:2},
      {q:"In passive voice, the subject ___.", options:["Receives the action","Always performs multiple actions at once","Performs the action","A concept unrelated to voice"], answer:0},
@@ -2158,6 +2159,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"The Discriminant and the Nature of Roots", summary:"Grade 8 Math strand (pre-high-school extension): the discriminant, b² - 4ac, reveals whether a quadratic equation has two real roots, one real root, or no real roots.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=n4riwmh-9Xw",
    quiz:[
      {q:"The discriminant of a quadratic equation is calculated as ___.", options:["A formula unrelated to the discriminant","a + b + c","b² - 4ac","b² + 4ac"], answer:2},
      {q:"If the discriminant is positive, the quadratic equation has ___.", options:["No real roots","Exactly one real root","Two real roots","A result unrelated to the discriminant"], answer:2},
@@ -2167,6 +2169,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Rock Cycle: Igneous, Sedimentary, Metamorphic", summary:"Grade 8 Science strand: the rock cycle describes how igneous, sedimentary, and metamorphic rocks continuously transform into one another through processes like heat, pressure, weathering, and erosion.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=Vp_S3BDiR-I",
    quiz:[
      {q:"Igneous rock forms when ___.", options:["Layers of sediment are compressed over time","Existing rock is transformed by heat and pressure alone","A process unrelated to igneous rock","Molten rock cools and solidifies"], answer:3},
      {q:"Sedimentary rock forms when ___.", options:["Rock is melted completely into magma","Layers of sediment are compressed and cemented together over time","Molten rock cools and solidifies","A process unrelated to sedimentary rock"], answer:1},
