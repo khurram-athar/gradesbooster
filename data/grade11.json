@@ -12165,6 +12165,21 @@
         "summary": "Grade 11 Functions strand review: this lesson revisits further complex number operations, Pascal’s Triangle, expected value, and connects mathematical reasoning to scientific applications like reaction mechanisms.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=SP-YJe7Vldo",
+        "videoUrls": [
+          {
+            "label": "Complex Numbers",
+            "url": "https://www.youtube.com/watch?v=SP-YJe7Vldo"
+          },
+          {
+            "label": "Probability",
+            "url": "https://www.youtube.com/watch?v=D7B17klZmAU"
+          },
+          {
+            "label": "Reaction Mechanisms",
+            "url": "https://www.youtube.com/watch?v=SIKrNdDPoVk"
+          }
+        ],
         "quiz": [
           {
             "q": "Dividing complex numbers typically involves multiplying by the ___ of the denominator.",
@@ -12742,6 +12757,7 @@
         "summary": "Grade 11 Biology strand: cells regulate the movement of water and solutes across their membranes through mechanisms including osmosis, diffusion, and active transport, each responding differently to concentration gradients.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=aubZU0iWtgI",
         "quiz": [
           {
             "q": "Osmosis specifically describes the movement of ___ across a selectively permeable membrane.",
@@ -12801,6 +12817,7 @@
         "summary": "Grade 11 Chemistry strand: metallic bonding involves a lattice of positive metal ions surrounded by a “sea” of delocalized electrons, and alloys are mixtures of metals (or a metal with another element) engineered to enhance properties like strength or resistance to corrosion.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=tRKkGRBndto",
         "quiz": [
           {
             "q": "Metallic bonding is best described as a lattice of positive metal ions surrounded by ___.",

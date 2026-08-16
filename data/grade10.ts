@@ -2162,6 +2162,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Rational Functions: Graphing and Asymptotes in Depth", summary:"Grade 10 Functions strand (extension): graphing a rational function involves identifying vertical and horizontal asymptotes, which describe values the function approaches but never reaches.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=fy45qX8cUwQ",
    quiz:[
      {q:"A vertical asymptote of a rational function typically occurs where ___.", options:["A location unrelated to the function’s denominator","The denominator equals zero","The numerator equals zero","The function crosses the x-axis"], answer:1},
      {q:"An asymptote describes a value that a function ___.", options:["Always reaches and crosses repeatedly","Approaches but never reaches","A concept unrelated to rational functions","Reaches only at a single specific point and no other"], answer:1},
@@ -2171,6 +2172,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Genetics: Mendelian Inheritance Patterns in Depth", summary:"Grade 10 Biology strand: Mendelian inheritance describes how traits are passed from parents to offspring through dominant and recessive alleles, often illustrated using Punnett squares to predict genetic outcomes.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=Bj30Z4HXL7A",
    quiz:[
      {q:"Mendelian inheritance describes how traits are passed from parents to offspring through ___.", options:["A process unrelated to genetics","Environmental factors alone, with no connection to genes","Random chance with no genetic basis at all","Dominant and recessive alleles"], answer:3},
      {q:"A Punnett square is used to ___.", options:["Predict the possible genetic outcomes of a cross between two parents","A tool unrelated to genetics","Measure the physical size of an organism","Determine the age of an organism"], answer:0},

@@ -2075,6 +2075,8 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Review: Complex Numbers, Probability, and Reaction Mechanisms", summary:"Grade 11 Functions strand review: this lesson revisits further complex number operations, Pascal’s Triangle, expected value, and connects mathematical reasoning to scientific applications like reaction mechanisms.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=SP-YJe7Vldo",
+   videoUrls:[{label:"Complex Numbers", url:"https://www.youtube.com/watch?v=SP-YJe7Vldo"},{label:"Probability", url:"https://www.youtube.com/watch?v=D7B17klZmAU"},{label:"Reaction Mechanisms", url:"https://www.youtube.com/watch?v=SIKrNdDPoVk"}],
    quiz:[
      {q:"Dividing complex numbers typically involves multiplying by the ___ of the denominator.", options:["Square root, with no connection to division","A concept unrelated to complex numbers","Conjugate","Reciprocal, with no connection to the conjugate"], answer:2},
      {q:"Pascal’s Triangle provides the coefficients used in ___.", options:["Only geometry problems, with no algebraic connection","A theorem unrelated to expanding expressions","A concept entirely unrelated to algebra","The Binomial Theorem"], answer:3},
@@ -2168,6 +2170,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Osmosis and Cell Transport Mechanisms", summary:"Grade 11 Biology strand: cells regulate the movement of water and solutes across their membranes through mechanisms including osmosis, diffusion, and active transport, each responding differently to concentration gradients.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=aubZU0iWtgI",
    quiz:[
      {q:"Osmosis specifically describes the movement of ___ across a selectively permeable membrane.", options:["Only large proteins, with no connection to water","A concept unrelated to cell transport","Solid particles exclusively, with no connection to fluid movement","Water"], answer:3},
      {q:"Diffusion describes the movement of particles from an area of ___ concentration to an area of ___ concentration.", options:["A pattern unrelated to concentration gradients","Lower; higher","Higher; lower","Equal; equal, with no net movement ever occurring"], answer:2},
@@ -2177,6 +2180,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Alloys and Metallic Bonding", summary:"Grade 11 Chemistry strand: metallic bonding involves a lattice of positive metal ions surrounded by a “sea” of delocalized electrons, and alloys are mixtures of metals (or a metal with another element) engineered to enhance properties like strength or resistance to corrosion.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=tRKkGRBndto",
    quiz:[
      {q:"Metallic bonding is best described as a lattice of positive metal ions surrounded by ___.", options:["No electrons of any kind","A “sea” of delocalized electrons","A concept unrelated to metallic bonding","A rigid, fixed set of shared electron pairs only"], answer:1},
      {q:"An alloy is best described as ___.", options:["A concept unrelated to metallic materials","A compound formed exclusively through ionic bonding","A mixture of metals, or a metal combined with another element","A single pure metal with no other elements present"], answer:2},
