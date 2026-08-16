@@ -2191,6 +2191,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"Language", title:"Writing: Writing a Personal Essay", summary:"Grade 5 Language strand: a personal essay explores the writer’s own thoughts, experiences, or opinions on a topic, often blending storytelling with reflection.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=z0uXjL2IdeU",
    quiz:[
      {q:"A personal essay explores ___.", options:["A concept unrelated to writing","A topic the writer has no connection to","Only facts with no personal reflection at all","The writer’s own thoughts, experiences, or opinions"], answer:3},
      {q:"A personal essay often blends storytelling with ___.", options:["Reflection on what the experience meant to the writer","Instructions for completing a task","No reflection of any kind","A concept unrelated to personal essays"], answer:0},
@@ -2200,6 +2201,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Surface Area of Rectangular Prisms", summary:"Grade 5 Math strand: the surface area of a rectangular prism is the total area of all six faces, found by calculating and adding the area of each face.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=hwo-aHSbiqg",
    quiz:[
      {q:"The surface area of a rectangular prism is ___.", options:["The total area of all six faces added together","A concept unrelated to surface area","The length of just one edge","The volume of the prism"], answer:0},
      {q:"How many faces does a rectangular prism have?", options:["6","4","8","A number unrelated to rectangular prisms"], answer:0},
@@ -2207,17 +2209,19 @@ const curriculum: DayContent[] = [
      {q:"Surface area is measured in ___.", options:["Linear units","Cubic units","A unit unrelated to surface area","Square units"], answer:3},
      {q:"Why might someone need to calculate surface area in real life?", options:["To measure how much a box can hold inside it","Surface area has no real-world use","To determine how much material is needed to cover or wrap an object","A reason unrelated to surface area"], answer:2}
    ]},
-  {subject:"Science", title:"Pulleys and Gear Ratios", summary:"Grade 5 Science strand: pulleys use a wheel and rope to change the direction or amount of force needed to lift a load, and gear ratios describe how connected gears affect speed and force.",
-   resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+  {subject:"Science", title:"Gears: Gearing Up and Gearing Down", summary:"Grade 5 Science strand: gears are toothed wheels that connect to turn one another, and depending on their relative sizes, a gear system can be set up to gear up for more speed or gear down for more force.",
+   resourceLabel:"YouTube: Gears: Gearing Up and Gearing Down", resourceUrl:"https://www.youtube.com/results?search_query=Gears%3A%20Gearing%20Up%20and%20Gearing%20Down%20grade%205%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=0RGzUQ6LJnw",
    quiz:[
-     {q:"A pulley changes the ___ needed to lift a load.", options:["A concept unrelated to pulleys","Weight of the load itself","Direction or amount of force","Colour of the load"], answer:2},
-     {q:"A gear ratio describes the relationship between ___.", options:["The number of teeth on two connected gears","The colour of two connected gears","A concept unrelated to gears","The temperature of a machine’s parts"], answer:0},
-     {q:"Why might a system use multiple pulleys together?", options:["To reduce the amount of force needed to lift a heavy load","A reason unrelated to pulleys","Multiple pulleys serve no mechanical purpose","Multiple pulleys always make lifting a load harder"], answer:0},
-     {q:"If a small gear turns a much larger gear, the larger gear will generally turn ___.", options:["At exactly the same speed","More quickly","More slowly","A description unrelated to gear ratios"], answer:2},
-     {q:"Why are pulleys and gears useful in everyday machines?", options:["A reason unrelated to simple machines","They make every task more difficult to complete","They have no practical use in real machines","They make lifting, moving, or turning objects easier or more efficient"], answer:3}
+     {q:"What is a gear?", options:["A concept unrelated to machines","A flat piece of wood","A toothed wheel that connects to turn another gear","A type of rope used for lifting"], answer:2},
+     {q:"When a small gear turns a much larger gear, what generally happens to the speed?", options:["A description unrelated to gears","It stays exactly the same","It speeds up","It slows down"], answer:3},
+     {q:"Gearing down a system generally results in ___.", options:["No change in speed or force at all","A description unrelated to gears","More speed but less force","More force but less speed"], answer:3},
+     {q:"Why might a bicycle use different gears when going uphill?", options:["To make it easier to pedal by gearing down for more force","A reason unrelated to gears","Different gears have no effect on pedaling","To make the bicycle go faster with less effort every time"], answer:0},
+     {q:"Why are gear systems useful in everyday machines?", options:["A reason unrelated to simple machines","They make every task more difficult to complete","They have no practical use in real machines","They let a machine trade speed for force, or force for speed, depending on the task"], answer:3}
    ]},
   {subject:"SocialStudies", title:"The Métis Nation and the Red River Resistance", summary:"Grade 5 Social Studies strand: the Métis Nation, formed from Indigenous and European ancestry, played a key role in the Red River Resistance, led by Louis Riel, to defend Métis rights and land.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=YIxJ7I8vRzU",
    quiz:[
      {q:"The Métis Nation formed from a blending of ___.", options:["Only European settlers with no Indigenous connection","Only Indigenous peoples with no European connection","Indigenous and European ancestry and culture","A concept unrelated to the Métis Nation"], answer:2},
      {q:"The Red River Resistance was primarily focused on ___.", options:["Establishing a new international trade agreement","A concept unrelated to the Red River Resistance","Defending Métis rights and land","Building new railways across the country"], answer:2},

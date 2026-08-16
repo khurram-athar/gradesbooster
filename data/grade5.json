@@ -12849,6 +12849,7 @@
         "summary": "Grade 5 Language strand: a personal essay explores the writer’s own thoughts, experiences, or opinions on a topic, often blending storytelling with reflection.",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=z0uXjL2IdeU",
         "quiz": [
           {
             "q": "A personal essay explores ___.",
@@ -12908,6 +12909,7 @@
         "summary": "Grade 5 Math strand: the surface area of a rectangular prism is the total area of all six faces, found by calculating and adding the area of each face.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=hwo-aHSbiqg",
         "quiz": [
           {
             "q": "The surface area of a rectangular prism is ___.",
@@ -12963,58 +12965,59 @@
       },
       {
         "subject": "Science",
-        "title": "Pulleys and Gear Ratios",
-        "summary": "Grade 5 Science strand: pulleys use a wheel and rope to change the direction or amount of force needed to lift a load, and gear ratios describe how connected gears affect speed and force.",
-        "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
-        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "title": "Gears: Gearing Up and Gearing Down",
+        "summary": "Grade 5 Science strand: gears are toothed wheels that connect to turn one another, and depending on their relative sizes, a gear system can be set up to gear up for more speed or gear down for more force.",
+        "resourceLabel": "YouTube: Gears: Gearing Up and Gearing Down",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Gears%3A%20Gearing%20Up%20and%20Gearing%20Down%20grade%205%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=0RGzUQ6LJnw",
         "quiz": [
           {
-            "q": "A pulley changes the ___ needed to lift a load.",
+            "q": "What is a gear?",
             "options": [
-              "A concept unrelated to pulleys",
-              "Weight of the load itself",
-              "Direction or amount of force",
-              "Colour of the load"
+              "A concept unrelated to machines",
+              "A flat piece of wood",
+              "A toothed wheel that connects to turn another gear",
+              "A type of rope used for lifting"
             ],
             "answer": 2
           },
           {
-            "q": "A gear ratio describes the relationship between ___.",
+            "q": "When a small gear turns a much larger gear, what generally happens to the speed?",
             "options": [
-              "The number of teeth on two connected gears",
-              "The colour of two connected gears",
-              "A concept unrelated to gears",
-              "The temperature of a machine’s parts"
+              "A description unrelated to gears",
+              "It stays exactly the same",
+              "It speeds up",
+              "It slows down"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Gearing down a system generally results in ___.",
+            "options": [
+              "No change in speed or force at all",
+              "A description unrelated to gears",
+              "More speed but less force",
+              "More force but less speed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a bicycle use different gears when going uphill?",
+            "options": [
+              "To make it easier to pedal by gearing down for more force",
+              "A reason unrelated to gears",
+              "Different gears have no effect on pedaling",
+              "To make the bicycle go faster with less effort every time"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a system use multiple pulleys together?",
-            "options": [
-              "To reduce the amount of force needed to lift a heavy load",
-              "A reason unrelated to pulleys",
-              "Multiple pulleys serve no mechanical purpose",
-              "Multiple pulleys always make lifting a load harder"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "If a small gear turns a much larger gear, the larger gear will generally turn ___.",
-            "options": [
-              "At exactly the same speed",
-              "More quickly",
-              "More slowly",
-              "A description unrelated to gear ratios"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why are pulleys and gears useful in everyday machines?",
+            "q": "Why are gear systems useful in everyday machines?",
             "options": [
               "A reason unrelated to simple machines",
               "They make every task more difficult to complete",
               "They have no practical use in real machines",
-              "They make lifting, moving, or turning objects easier or more efficient"
+              "They let a machine trade speed for force, or force for speed, depending on the task"
             ],
             "answer": 3
           }
@@ -13026,6 +13029,7 @@
         "summary": "Grade 5 Social Studies strand: the Métis Nation, formed from Indigenous and European ancestry, played a key role in the Red River Resistance, led by Louis Riel, to defend Métis rights and land.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=YIxJ7I8vRzU",
         "quiz": [
           {
             "q": "The Métis Nation formed from a blending of ___.",

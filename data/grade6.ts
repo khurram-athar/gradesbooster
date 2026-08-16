@@ -2191,6 +2191,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"Language", title:"Writing: Writing a Feature Article", summary:"Grade 6 Language strand: a feature article explores a topic in depth, often combining facts, interviews, and storytelling to engage readers beyond a simple news report.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=jh8xu8kYOoM",
    quiz:[
      {q:"A feature article is different from a basic news report because it ___.", options:["A concept unrelated to writing","Only reports the most basic facts with no additional detail","Never includes any factual information at all","Explores a topic in more depth, often blending facts and storytelling"], answer:3},
      {q:"Which is an example of a technique used in a feature article?", options:["Listing only statistics with no context or storytelling","Including a quote from an interview with someone connected to the topic","A concept unrelated to feature articles","Avoiding any research on the topic"], answer:1},
@@ -2200,6 +2201,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Solving Inequalities", summary:"Grade 6 Math strand: an inequality compares two values using symbols like < or >, and solving one shows the range of values that make the statement true.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Odf2TzlZYNI",
    quiz:[
      {q:"An inequality compares two values using symbols such as ___.", options:["= only","< or >","A symbol unrelated to inequalities","+ or -"], answer:1},
      {q:"If x > 3, which of these values could be a solution?", options:["5","3","2","A value unrelated to the inequality"], answer:0},
@@ -2209,6 +2211,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Erosion and Weathering: Shaping the Land", summary:"Grade 6 Science strand: weathering breaks down rock into smaller pieces, while erosion moves those pieces from one place to another, together shaping landforms over time.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=uQBRKLSlp08",
    quiz:[
      {q:"Weathering is the process of ___.", options:["A process unrelated to weathering","Breaking down rock into smaller pieces","Moving broken rock pieces from one place to another","Building up new rock formations from nothing"], answer:1},
      {q:"Erosion is the process of ___.", options:["Breaking rock down into smaller pieces in place","Moving broken-down rock pieces from one place to another","A process unrelated to erosion","Preventing any movement of rock or soil"], answer:1},
@@ -2218,6 +2221,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Rise and Fall of the Ottoman Empire", summary:"Grade 6 Social Studies strand: the Ottoman Empire was a powerful state that lasted for centuries, controlling large parts of the Middle East, North Africa, and southeastern Europe before its eventual decline.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=LNZqwfCT5Zg",
    quiz:[
      {q:"The Ottoman Empire controlled large parts of ___.", options:["Only North America","The Middle East, North Africa, and southeastern Europe","A region unrelated to the Ottoman Empire","Only a single small city with no wider territory"], answer:1},
      {q:"The Ottoman Empire lasted for ___.", options:["A length of time unrelated to the Ottoman Empire","Several centuries","Only a few days","Less than one year"], answer:1},
@@ -6290,6 +6294,386 @@ const curriculum: DayContent[] = [
      {q:"What did the Canadian Multiculturalism Act of 1988 formally recognize?", options:["A ban on cultural celebrations","A single official culture for all of Canada","A requirement to adopt only one language nationwide","The diversity of Canadian society"], answer:3},
      {q:"What was the Winnipeg General Strike of 1919?", options:["A protest against a proposed new Canadian flag","One of the largest labour strikes in Canadian history","A strike that took place outside of Canada","A strike involving only a handful of factory workers"], answer:1},
      {q:"What is the Assembly of First Nations?", options:["A branch of the Canadian military","A private company that manages natural resources","A federal government department","A national advocacy organization representing First Nations governments and communities"], answer:3}
+   ]},
+]},
+{day:161, label:"Day 161 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Conditional Sentences and If-Then Statements", summary:"Grade 6 Language strand: a conditional sentence expresses a condition and its result, often built with an if clause and a result clause, such as If it rains, the game will be cancelled.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What are the two main parts of a conditional sentence?", options:["A prefix and a suffix","A subject and a predicate only","An if clause and a result clause","A quotation and a citation"], answer:2},
+     {q:"Which sentence is a conditional sentence?", options:["You studied for the test.","If you study, you will pass the test.","She passed the test easily.","The test was difficult."], answer:1},
+     {q:"In the sentence If it rains, the game will be cancelled, what is the condition?", options:["The game continues as planned","The game will be cancelled","It rains","The weather is nice"], answer:2},
+     {q:"Why might a writer use a conditional sentence to explain a rule?", options:["A rule can never be expressed using an if clause","Conditional sentences never explain rules","It clearly shows what result follows from a specific situation","Conditional sentences remove all information from a sentence"], answer:2},
+     {q:"Why is word order important in a conditional sentence?", options:["Word order never affects the meaning of a conditional sentence","Swapping the clauses can change which part is the condition and which is the result","Conditional sentences do not need a result clause","The if clause must always come after the result clause"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Dividing Decimals Using the Standard Algorithm", summary:"Grade 6 Math strand: dividing decimals using the standard algorithm often involves shifting the decimal point in the divisor to make it a whole number, shifting the decimal point in the dividend the same number of places, then dividing as usual.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is the first step often used when dividing by a decimal?", options:["Immediately place the decimal point in the answer","Round both numbers to the nearest whole number","Shift the decimal point in the divisor to make it a whole number","Add the two decimal numbers together"], answer:2},
+     {q:"If the divisor is shifted two places to become a whole number, what else must be shifted two places?", options:["Nothing else needs to be shifted","The decimal point in the dividend","The decimal point in the final answer only","The digits of the divisor a second time"], answer:1},
+     {q:"What is 4.8 divided by 0.6?", options:["0.8","8","80","0.08"], answer:1},
+     {q:"Why does shifting both decimal points the same number of places keep the division problem accurate?", options:["Only the divisor can ever be shifted, never the dividend","Multiplying both numbers by the same power of ten does not change the value of the quotient","Decimal division does not require any shifting at all","Shifting decimal points always changes the actual answer"], answer:1},
+     {q:"Why is it useful to estimate before dividing two decimals precisely?", options:["The decimal point never needs to be checked after dividing","Estimation has no connection to checking decimal division","It helps check that the placement of the decimal point in the final answer is reasonable","Estimating always gives the exact same value as the precise answer"], answer:2}
+   ]},
+  {subject:"Science", title:"Simple Machines: Gears and How They Change Speed and Force", summary:"Grade 6 Science strand: a gear is a wheel with teeth that interlocks with other gears to transmit motion, and connecting gears of different sizes can change the speed or force of a rotating system.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a gear?", options:["A straight bar that pivots on a fixed point","A wheel with teeth that interlocks with other gears","A ramp used to lift heavy objects","A rope wrapped around a wheel"], answer:1},
+     {q:"What happens when a small gear turns a much larger gear?", options:["The larger gear always turns faster with less force","The larger gear stops turning completely","Gears of different sizes cannot be connected","The larger gear turns more slowly but with more force"], answer:3},
+     {q:"What can connecting gears of different sizes change?", options:["Only the colour of the gears","The speed or force of a rotating system","The weight of the gears themselves","The temperature of the machine"], answer:1},
+     {q:"Why do bicycles use different sized gears?", options:["Gears on a bicycle have no effect on riding","Different gear sizes only change the appearance of a bicycle","Bicycles never use more than one gear","To let a rider trade speed for force depending on the terrain"], answer:3},
+     {q:"Why might engineers use a system of gears instead of a single wheel in a machine?", options:["A single wheel always transmits force more precisely than a system of gears","Using multiple gears always wastes mechanical advantage","A system of gears can precisely control how speed and force are transmitted between parts","Gears cannot be combined into a larger system"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Bank of Canada and Monetary Policy", summary:"Grade 6 Social Studies strand: the Bank of Canada is the countrys central bank, responsible for issuing currency, setting interest rates, and working to keep inflation low and stable through monetary policy.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Bank of Canada?", options:["The countrys central bank","A private bank that only serves large businesses","A museum dedicated to Canadian history","A branch of a foreign bank operating in Canada"], answer:0},
+     {q:"What is one responsibility of the Bank of Canada?", options:["Setting interest rates","Managing national parks","Collecting property taxes","Issuing drivers licences"], answer:0},
+     {q:"What does monetary policy aim to keep low and stable?", options:["The number of banks in Canada","The size of the population","Inflation","The number of holidays each year"], answer:2},
+     {q:"Why might the Bank of Canada raise interest rates when prices are rising quickly?", options:["Raising interest rates always increases inflation further","Interest rates have no connection to prices in the economy","The Bank of Canada cannot change interest rates","Higher interest rates can slow spending and help control inflation"], answer:3},
+     {q:"Why is having an independent central bank considered important for a countrys economy?", options:["Central banks are only responsible for printing currency","It allows economic decisions to be made based on long-term stability rather than short-term political pressure","An independent central bank has no effect on a countrys economy","Political pressure should always determine interest rates"], answer:1}
+   ]},
+]},
+{day:162, label:"Day 162 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Static and Dynamic Characters in Fiction", summary:"Grade 6 Language strand: a static character remains largely unchanged throughout a story, while a dynamic character undergoes significant internal change, often as a result of the storys events.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a static character?", options:["A character who never appears in the story","A character who narrates the entire story","A character who remains largely unchanged throughout a story","A character who changes significantly by the end of a story"], answer:2},
+     {q:"What is a dynamic character?", options:["A character who appears only in the title","A character who undergoes significant internal change","A character who never speaks in the story","A character who remains exactly the same throughout"], answer:1},
+     {q:"What often causes a dynamic character to change?", options:["The events and challenges of the story","The number of chapters in the story","The title of the book","The setting alone, without any events"], answer:0},
+     {q:"Why might a main character in a novel often be dynamic rather than static?", options:["Dynamic characters are never used as main characters","Character growth driven by the plot tends to make a story more engaging","A story cannot include any character change","Static characters always play the largest role in a plot"], answer:1},
+     {q:"Why might a writer include static characters alongside a dynamic main character?", options:["Static characters always confuse the reader","Static characters remove all meaning from a story","A story is not allowed to include more than one type of character","They can highlight how much the main character has changed by contrast"], answer:3}
+   ]},
+  {subject:"Math", title:"Data Management: Line Plots and Frequency Distributions", summary:"Grade 6 Math strand: a line plot displays data along a number line using marks such as dots or Xs to show how often each value occurs, making it easy to see the frequency distribution of a data set.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a line plot use to display data?", options:["Connected line segments only","Slices of a circle","Bars of varying height","Marks such as dots or Xs placed along a number line"], answer:3},
+     {q:"What does a line plot make easy to see?", options:["How often each value occurs in a data set","The exact average of a data set","The location where data was collected","The colour of each data point"], answer:0},
+     {q:"What is a frequency distribution?", options:["A summary of how often each value occurs in a data set","A list of values with no information about how often they occur","A single number describing an entire data set","A graph that shows only the largest value in a data set"], answer:0},
+     {q:"Why might a line plot be useful for a small data set with repeated values?", options:["Line plots hide all information about repeated values","It quickly shows which values are most and least common","Line plots can only be used with very large data sets","A line plot cannot display more than one data point"], answer:1},
+     {q:"Why is it helpful to look at the shape of a frequency distribution?", options:["It can reveal patterns, such as clusters or gaps, within the data","Frequency distributions are always shaped exactly the same","Patterns in data can only be found using averages","The shape of a distribution never reveals any useful pattern"], answer:0}
+   ]},
+  {subject:"Science", title:"Physical versus Chemical Changes in Matter", summary:"Grade 6 Science strand: a physical change alters the form or appearance of matter without changing its chemical makeup, while a chemical change produces a new substance with different properties.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What happens during a physical change?", options:["Matter disappears entirely with no trace","A completely new substance with different properties is created","The form or appearance of matter changes without changing its chemical makeup","The chemical makeup of matter always changes"], answer:2},
+     {q:"What happens during a chemical change?", options:["The matter always returns to its original form afterward","Nothing about the matter changes at all","A new substance with different properties is produced","Only the shape of the original substance changes"], answer:2},
+     {q:"Which of these is an example of a physical change?", options:["Melting ice into water","Baking a cake","Rusting metal","Burning wood into ash"], answer:0},
+     {q:"Which of these is an example of a chemical change?", options:["Folding paper","Tearing paper","Burning paper","Freezing water into ice"], answer:2},
+     {q:"Why might bubbling, a colour change, or the release of heat suggest a chemical change is occurring?", options:["Bubbling and colour changes never occur during any reaction","These signs show that no change has taken place","These signs often indicate that a new substance with different properties has formed","These signs always indicate a physical change instead"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Charlottetown and Quebec Conferences — Building Confederation", summary:"Grade 6 Social Studies strand: in 1864, representatives from British North American colonies met at the Charlottetown Conference and later the Quebec Conference to discuss uniting into a single country, laying the groundwork for Confederation in 1867.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was discussed at the Charlottetown Conference in 1864?", options:["A plan to separate Ontario from Quebec","Uniting British North American colonies into a single country","The boundaries of the United States","A trade agreement with another country"], answer:1},
+     {q:"In what year did the Charlottetown and Quebec Conferences take place?", options:["1931","1864","1812","1867"], answer:1},
+     {q:"What conference followed the Charlottetown Conference to continue discussions about union?", options:["The Toronto Conference","The Halifax Conference","The Quebec Conference","The Berlin Conference"], answer:2},
+     {q:"Why might representatives from separate colonies have needed multiple conferences to reach an agreement?", options:["Conferences were held only for ceremonial purposes","The colonies had no interest in discussing union at all","A single meeting was always enough to settle every detail instantly","Working out the details of a new political union required extensive negotiation among many parties"], answer:3},
+     {q:"Why are the Charlottetown and Quebec Conferences considered important steps toward Confederation?", options:["The conferences only concerned trade, not political union","Confederation happened immediately with no prior discussion","These conferences had no connection to the eventual formation of Canada","They produced the early proposals and agreements that shaped the eventual union of Canada in 1867"], answer:3}
+   ]},
+]},
+{day:163, label:"Day 163 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Homographs and Multiple-Meaning Words", summary:"Grade 6 Language strand: a homograph is a word that is spelled the same as another word but may have a different meaning and sometimes a different pronunciation, such as the word tear meaning to rip or a drop of water from crying.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a homograph?", options:["A word that sounds the same as another word but is spelled differently","A word used exclusively in formal writing","A word spelled the same as another word but with a different meaning","A word that only has one possible meaning"], answer:2},
+     {q:"Which word is an example of a homograph with two different meanings?", options:["Sun","Dog","Cat","Bat"], answer:3},
+     {q:"In the sentence She will tear the paper, what does tear mean?", options:["To rip","A kind of paper","A drop of water from crying","A type of fabric"], answer:0},
+     {q:"Why is context important when reading a sentence with a homograph?", options:["A sentence with a homograph cannot be understood at all","Homographs always have only one possible meaning","Context helps a reader determine which meaning of the word is intended","Context never changes the meaning of a homograph"], answer:2},
+     {q:"Why might multiple-meaning words sometimes create confusion for readers?", options:["Multiple-meaning words are always immediately clear with no possible confusion","These words are never used in everyday language","Readers never need to consider context when reading","The same spelling can represent very different ideas depending on how it is used"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: The Cartesian Plane and Four Quadrants", summary:"Grade 6 Math strand: the Cartesian plane is divided by a horizontal x-axis and a vertical y-axis into four quadrants, and the signs of the x and y coordinates determine which quadrant a point is located in.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What two axes divide the Cartesian plane?", options:["The x-axis and the y-axis","The north axis and the south axis","Only a single diagonal axis","The p-axis and the q-axis"], answer:0},
+     {q:"How many quadrants does the Cartesian plane have?", options:["Three","Six","Four","Two"], answer:2},
+     {q:"In which quadrant are both the x and y coordinates positive?", options:["Quadrant I","Quadrant IV","Quadrant III","Quadrant II"], answer:0},
+     {q:"In which quadrant would the point negative three, negative five be located?", options:["Quadrant I","Quadrant III","Quadrant IV","Quadrant II"], answer:1},
+     {q:"Why is it useful to know which quadrant a coordinate point falls in before plotting it?", options:["Every point on the Cartesian plane is located in the same quadrant","The quadrant of a point never affects how it should be plotted","It helps quickly estimate the correct location of a point on the plane","Knowing the quadrant makes plotting a point impossible"], answer:2}
+   ]},
+  {subject:"Science", title:"How Solar Panels Convert Sunlight into Electricity", summary:"Grade 6 Science strand: a solar panel is made of photovoltaic cells that absorb sunlight and convert its energy directly into electrical energy, offering a renewable alternative to fossil fuel power sources.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What are solar panels made of?", options:["Photovoltaic cells","Glass with no other materials","Magnets connected by cables","Copper wires only"], answer:0},
+     {q:"What do photovoltaic cells convert sunlight into?", options:["Chemical energy stored in fuel","Wind energy","Electrical energy","Sound energy"], answer:2},
+     {q:"Why are solar panels considered a renewable energy source?", options:["Sunlight is a naturally replenished resource that will not run out","Sunlight is a limited resource that will eventually run out completely","Solar panels create energy without using sunlight at all","Renewable energy sources cannot use sunlight"], answer:0},
+     {q:"Why might solar panels produce less electricity on a cloudy day?", options:["Less sunlight reaches the photovoltaic cells to be converted into electricity","Cloud cover has no effect on how solar panels function","Clouds always increase the amount of electricity solar panels produce","Solar panels do not require sunlight to generate electricity"], answer:0},
+     {q:"Why might a homeowner choose to install solar panels despite the upfront cost?", options:["Solar panels can lower long-term electricity costs and reduce reliance on fossil fuels","Solar panels always increase electricity costs with no benefit","Solar panels cannot be used to power a home","Installing solar panels has no effect on electricity bills"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Statute of Westminster and Canadian Independence", summary:"Grade 6 Social Studies strand: the Statute of Westminster, passed in 1931, granted Canada and other Dominions greater legislative independence from Britain, marking an important step in Canadas growth as an independent country.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did the Statute of Westminster grant to Canada?", options:["Ownership of new overseas territories","Complete separation from the British monarchy","Greater legislative independence from Britain","A new national flag"], answer:2},
+     {q:"In what year was the Statute of Westminster passed?", options:["1982","1812","1867","1931"], answer:3},
+     {q:"Besides Canada, what other kinds of territories did the Statute of Westminster apply to?", options:["No other territories were included","Other Dominions of the British Empire","Only territories in Asia","Only colonies located in Africa"], answer:1},
+     {q:"Why is the Statute of Westminster considered an important step in Canadian history?", options:["It ended all connections between Canada and Britain immediately","It had no effect on how Canada was governed","It only applied to trade agreements, not lawmaking","It expanded Canadas ability to make its own laws separate from Britain"], answer:3},
+     {q:"Why might a countrys move toward greater independence happen gradually over many years rather than all at once?", options:["Independence always happens in a single instant with no earlier steps","Gradual change is never part of how countries gain independence","Political and legal changes often build on earlier agreements and require ongoing negotiation","The Statute of Westminster was the very first step toward Canadian government of any kind"], answer:2}
+   ]},
+]},
+{day:164, label:"Day 164 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing an Opinion Piece for a School Newsletter", summary:"Grade 6 Language strand: an opinion piece states a clear position on a topic and supports it with reasons and evidence, while using a tone appropriate for its intended audience, such as a school newsletter.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does an opinion piece state?", options:["A clear position on a topic","A summary of another persons opinion piece","A list of unrelated events","Only facts with no personal viewpoint"], answer:0},
+     {q:"What should support the position taken in an opinion piece?", options:["Random unrelated details","A list of dictionary definitions","Reasons and evidence","Only the writers feelings with no explanation"], answer:2},
+     {q:"Why is it important to consider the audience when writing for a school newsletter?", options:["A school newsletter has no specific audience","The tone and content should suit the readers who will see the newsletter","Considering the audience makes an opinion piece weaker","The audience of a newsletter never matters when writing"], answer:1},
+     {q:"Why might a writer include a counterargument in an opinion piece?", options:["Including a counterargument removes the writers main position","Opinion pieces are not allowed to mention opposing views","Addressing an opposing view can make the writers own position appear more convincing","Counterarguments always weaken an opinion piece"], answer:2},
+     {q:"Why should an opinion piece for a school newsletter avoid overly formal or technical language?", options:["Clear, accessible language helps the intended readers understand and engage with the writers position","A newsletter is only ever read by expert adults","Formal language always makes an opinion piece easier to understand","Accessible language weakens the strength of an argument"], answer:0}
+   ]},
+  {subject:"Math", title:"Algebra: Representing Real-World Situations with Equations", summary:"Grade 6 Math strand: real-world situations, such as the cost of buying several items, can be represented using algebraic equations that model the relationship between a variable quantity and a known cost or rate.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What can algebraic equations be used to represent?", options:["Real-world situations, such as the cost of buying several items","Only situations with no numbers involved","Only equations found in a textbook with no real application","Situations that have no possible mathematical solution"], answer:0},
+     {q:"If one notebook costs 3 dollars, which equation represents the total cost c for n notebooks?", options:["c equals 3 times n","c equals n divided by 3","c equals 3 plus n","c equals 3 minus n"], answer:0},
+     {q:"In the equation c equals 3n, what does the variable n represent?", options:["The total cost in dollars","The number of notebooks purchased","The name of the store","The price of a single notebook"], answer:1},
+     {q:"Why is it useful to translate a real-world situation into an algebraic equation?", options:["It allows the situation to be solved systematically for different values","Translating a situation into an equation removes all useful information","A real-world situation never needs to be solved mathematically","Equations can never represent real-world situations"], answer:0},
+     {q:"Why might a store use an equation to calculate the total cost of a customers order?", options:["Equations cannot be used to calculate the cost of multiple items","An equation only works for a single specific quantity and no others","An equation can quickly calculate the cost for any quantity of items purchased","Stores never need to calculate the total cost of an order"], answer:2}
+   ]},
+  {subject:"Science", title:"The International Space Station and Living in Microgravity", summary:"Grade 6 Science strand: the International Space Station is a research laboratory orbiting Earth where astronauts live and work in microgravity, conducting experiments that would be difficult or impossible to perform on the ground.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is the International Space Station?", options:["A telescope located on the surface of the Moon","A research laboratory orbiting Earth","A rocket used for a single launch into space","A weather satellite that orbits only over Canada"], answer:1},
+     {q:"What condition do astronauts experience while living on the International Space Station?", options:["Extremely high gravity","No air pressure changes at all","Constant darkness with no daylight","Microgravity"], answer:3},
+     {q:"Why do astronauts conduct experiments aboard the International Space Station?", options:["Some experiments are difficult or impossible to perform on the ground","The station has no scientific purpose","Ground-based laboratories are always better suited for every experiment","Experiments conducted in space always fail"], answer:0},
+     {q:"Why might muscles and bones weaken during long periods in microgravity?", options:["Muscles and bones are not affected by gravity in any way","Without the pull of normal gravity, muscles and bones do not work as hard as they do on Earth","Microgravity always makes muscles and bones stronger than on Earth","Astronauts stop using their muscles entirely while in space"], answer:1},
+     {q:"Why is international cooperation important for maintaining the International Space Station?", options:["Multiple countries share the resources, funding, and expertise needed to operate it","The station requires no ongoing maintenance or support","The station is operated entirely by a single country with no outside help","International cooperation has no role in space exploration"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Lester B. Pearson and the Nobel Peace Prize", summary:"Grade 6 Social Studies strand: Lester B. Pearson, a Canadian diplomat and later prime minister, won the Nobel Peace Prize in 1957 for helping resolve the Suez Crisis through the creation of a United Nations peacekeeping force.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What prize did Lester B. Pearson win in 1957?", options:["An Academy Award","The Victoria Cross","The Order of Canada","The Nobel Peace Prize"], answer:3},
+     {q:"What crisis was Lester B. Pearson recognized for helping resolve?", options:["The Cuban Missile Crisis","The Suez Crisis","The Oka Crisis","The October Crisis"], answer:1},
+     {q:"What did Pearsons plan help create to help resolve the crisis?", options:["A new branch of the Canadian military","A trade agreement between Egypt and Britain","A United Nations peacekeeping force","A new Canadian territory"], answer:2},
+     {q:"What Canadian political role did Lester B. Pearson later hold?", options:["Premier of Ontario","Chief Justice","Governor General","Prime Minister"], answer:3},
+     {q:"Why is Lester B. Pearsons Nobel Peace Prize significant to Canadian history?", options:["Pearson received the award for actions unrelated to diplomacy","Peacekeeping has never been associated with Canada","It had no connection to Canadas role in world affairs","It highlighted Canadas emerging role in international diplomacy and peacekeeping"], answer:3}
+   ]},
+]},
+{day:165, label:"Day 165 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Recognizing Deepfakes and Digital Manipulation", summary:"Grade 6 Language strand: a deepfake is a digitally altered video or image, often created using artificial intelligence, that can make it appear as though someone said or did something they never actually did.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is a deepfake?", options:["A completely unedited video with no digital changes","A handwritten letter sent through the mail","A digitally altered video or image that can misrepresent what someone said or did","A printed newspaper article"], answer:2},
+     {q:"What technology is often used to create deepfakes?", options:["Artificial intelligence","A paper map","A telephone","A typewriter"], answer:0},
+     {q:"Why can deepfakes be dangerous when shared online?", options:["Digitally altered videos can never mislead anyone","They can spread false information that looks convincingly real","Deepfakes have no effect on what people believe","Deepfakes are always immediately obvious to every viewer"], answer:1},
+     {q:"What is one strategy for identifying a possible deepfake video?", options:["Trusting a video simply because it has many views","Checking for unnatural movements or inconsistencies around the face","Ignoring the source of the video entirely","Assuming every video seen online is automatically real"], answer:1},
+     {q:"Why is it important for viewers to verify a video with other trusted sources before believing it?", options:["A single video is always enough evidence on its own","Trusted sources never provide any useful information about a videos accuracy","Verifying a video with other sources is never necessary","Cross-checking helps confirm whether the video accurately represents real events"], answer:3}
+   ]},
+  {subject:"Math", title:"Probability: Making Predictions from Experimental Data", summary:"Grade 6 Math strand: experimental probability is calculated from the actual results of repeated trials, and this data can be used to make predictions about the likely outcomes of future events.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"How is experimental probability calculated?", options:["By guessing without collecting any data","By assuming every outcome is equally likely with no testing","From the actual results of repeated trials","By using only theoretical probability with no experiment"], answer:2},
+     {q:"What can experimental data be used to do?", options:["Remove the need for any further testing","Prove that probability never applies to real situations","Make predictions about the likely outcomes of future events","Guarantee the exact outcome of every future event"], answer:2},
+     {q:"If a coin lands on heads 18 times out of 30 flips, what is the experimental probability of heads?", options:["12 out of 30","18 out of 12","18 out of 30","30 out of 18"], answer:2},
+     {q:"Why might increasing the number of trials improve the accuracy of a probability prediction?", options:["A larger number of trials tends to produce results closer to the true probability","The number of trials has no effect on prediction accuracy","More trials always make predictions less accurate","A single trial always gives the most accurate prediction"], answer:0},
+     {q:"Why might experimental probability differ from theoretical probability?", options:["Experimental probability never involves any randomness","Experimental and theoretical probability are always exactly equal","Random variation in a limited number of trials can cause results to differ from the expected value","Theoretical probability is calculated using real trial results"], answer:2}
+   ]},
+  {subject:"Science", title:"Animal Hibernation and Torpor: Surviving Winter", summary:"Grade 6 Science strand: hibernation is a state of greatly reduced activity, heart rate, and body temperature that some animals enter to conserve energy during winter when food is scarce, while torpor is a shorter, less extreme version of this state.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is hibernation?", options:["A state of greatly reduced activity, heart rate, and body temperature","A process where animals grow new fur every season","A period of increased activity during winter","A migration pattern used only by birds"], answer:0},
+     {q:"Why do some animals hibernate during winter?", options:["Hibernation has no connection to food availability","To conserve energy when food is scarce","To increase their body temperature","To find more food than usual"], answer:1},
+     {q:"What is torpor?", options:["A behaviour found only in fish","A permanent state that never ends","The opposite of hibernation","A shorter, less extreme version of hibernation"], answer:3},
+     {q:"Why might an animals heart rate drop significantly during hibernation?", options:["Heart rate has no connection to how much energy an animal uses","Animals cannot survive with a reduced heart rate","A slower heart rate always uses more energy than normal","A slower heart rate uses less energy, helping the animal survive on stored fat"], answer:3},
+     {q:"Why might scientists study hibernation to better understand energy conservation?", options:["Hibernation has no relevance to understanding energy use","Animals that hibernate never conserve any energy","Studying hibernation provides no scientific insight","Hibernating animals show extreme examples of how a body can reduce its energy use safely"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Alaska Boundary Dispute", summary:"Grade 6 Social Studies strand: the Alaska Boundary Dispute was an early 1900s disagreement between Canada, Britain, and the United States over the exact border between Alaska and British Columbia, settled by a tribunal in a decision many Canadians viewed as unfair.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What was the Alaska Boundary Dispute about?", options:["A trade disagreement over fishing rights in the Atlantic Ocean","A disagreement over railway construction in Ontario","The location of the capital of British Columbia","The exact border between Alaska and British Columbia"], answer:3},
+     {q:"Which three parties were involved in the Alaska Boundary Dispute?", options:["Canada, France, and Mexico","Canada, Britain, and the United States","Britain, Russia, and the United States","Canada, Japan, and the United States"], answer:1},
+     {q:"How was the Alaska Boundary Dispute ultimately settled?", options:["By a decision from a tribunal","By a direct vote of Canadian citizens","By immediate military conflict","The dispute was never resolved"], answer:0},
+     {q:"How did many Canadians view the tribunals decision?", options:["As unfair to Canadian interests","As entirely favourable to Canada","As having no effect on Canada at all","As a decision that ignored Britain completely"], answer:0},
+     {q:"Why might the Alaska Boundary Dispute have influenced how Canadians viewed their relationship with Britain?", options:["Canada had no relationship with Britain at the time of the dispute","The dispute strengthened Canadians trust in Britain completely","It highlighted that Britain sometimes prioritized its own interests over Canadas in international decisions","The dispute had no effect on Canada-Britain relations"], answer:2}
+   ]},
+]},
+{day:166, label:"Day 166 — Mon", subjects:[
+  {subject:"Language", title:"Oral Communication: Techniques for Effective Storytelling", summary:"Grade 6 Language strand: effective oral storytelling uses techniques such as vocal expression, pacing, and gestures to engage an audience and bring a narrative to life.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What is one technique used in effective oral storytelling?", options:["Vocal expression","Avoiding eye contact with the audience","Speaking as quickly as possible at all times","Reading in a flat, unchanging tone"], answer:0},
+     {q:"Why might a storyteller change their pacing during a story?", options:["Pacing has no effect on how a story is received","Changing pacing always confuses the audience","To build suspense or emphasize an important moment","A storyteller should always speak at exactly the same speed"], answer:2},
+     {q:"What is one way gestures can support oral storytelling?", options:["They can help illustrate actions or emotions described in the story","Gestures should never be used while telling a story","Gestures always distract from a story with no benefit","Gestures replace the need for spoken words entirely"], answer:0},
+     {q:"Why might a storyteller vary their volume while speaking?", options:["To create emphasis and reflect changes in the storys mood","Volume has no connection to how a story is understood","Varying volume always confuses an audience","A storyteller should always speak in a whisper"], answer:0},
+     {q:"Why is engaging an audience considered an important goal of oral storytelling?", options:["Audience engagement has no effect on how well a story is received","An engaged audience always misunderstands the story being told","Storytelling does not require any audience at all","A more engaged audience is more likely to understand and remember the story"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding GST and HST in Everyday Purchases", summary:"Grade 6 Math strand: GST is a federal sales tax applied across Canada, while HST combines the federal tax with a provincial sales tax into a single rate, and both are calculated as a percent added to the price of many purchases.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does GST stand for?", options:["Goods and Services Tax","General Spending Total","Government Sales Total","Gross Sales Tariff"], answer:0},
+     {q:"What does HST combine into a single rate?", options:["A tax and a discount","An income tax and a property tax","A federal tax and a provincial sales tax","Two different federal taxes"], answer:2},
+     {q:"How is a sales tax such as GST or HST usually calculated?", options:["Sales tax is never calculated using a percent","As a fixed dollar amount regardless of price","By subtracting a percent from the price","As a percent added to the price of a purchase"], answer:3},
+     {q:"If an item costs 50 dollars and the sales tax rate is 13 percent, approximately how much tax is added?", options:["5.00 dollars","6.50 dollars","50.00 dollars","13.00 dollars"], answer:1},
+     {q:"Why is it useful for shoppers to understand how sales tax is calculated?", options:["Sales tax never affects the total amount paid for an item","The listed price of an item always includes every tax automatically","It helps them estimate the true total cost of a purchase before paying","Understanding sales tax has no practical use for shoppers"], answer:2}
+   ]},
+  {subject:"Science", title:"Lightning and Thunderstorms: How They Form", summary:"Grade 6 Science strand: thunderstorms form when warm, moist air rises rapidly and cools, building tall storm clouds in which electrical charges separate, eventually discharging as lightning, with thunder created by the rapid expansion of air heated by the strike.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What kind of air rises to help form a thunderstorm?", options:["Cold, dry air","Warm, moist air","Air that never changes temperature","Air with no moisture at all"], answer:1},
+     {q:"What builds up inside storm clouds and eventually discharges as lightning?", options:["Falling snow","Electrical charges","Extra oxygen","Sound waves"], answer:1},
+     {q:"What causes the sound of thunder?", options:["The formation of ice crystals in the clouds","Wind blowing through the clouds","The rapid expansion of air heated suddenly by a lightning strike","Rain hitting the ground"], answer:2},
+     {q:"Why does thunder often arrive after the flash of lightning is seen?", options:["Lightning always happens after thunder is heard","Sound travels faster than light in the atmosphere","Thunder and lightning always happen at the exact same moment","Light travels much faster than sound, so the sound reaches an observer later"], answer:3},
+     {q:"Why is it dangerous to be outdoors in an open area during a thunderstorm?", options:["Tall, exposed objects and people can attract a lightning strike","Lightning never strikes open outdoor areas","Thunderstorms have no connection to lightning danger","Standing outdoors during a storm removes all risk of being struck"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The League of Nations and Its Legacy", summary:"Grade 6 Social Studies strand: the League of Nations was an international organization formed after the First World War to help prevent future conflicts through cooperation and diplomacy, though it ultimately failed to stop the outbreak of the Second World War.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"When was the League of Nations formed?", options:["During the Cold War","Before Confederation","After the Second World War","After the First World War"], answer:3},
+     {q:"What was the main goal of the League of Nations?", options:["To create a single global currency","To establish new colonies around the world","To organize international sporting events","To help prevent future conflicts through cooperation and diplomacy"], answer:3},
+     {q:"What eventually happened despite the League of Nations existing?", options:["The League successfully prevented every future conflict","Every country in the world joined immediately","All wars around the world ended permanently","The Second World War broke out"], answer:3},
+     {q:"Why might the League of Nations be considered an important predecessor to the United Nations?", options:["It has no historical connection to the United Nations","The League of Nations and the United Nations were founded in the same year","It represented an early attempt at international cooperation that later organizations built upon","International cooperation began only after the League of Nations was dissolved"], answer:2},
+     {q:"Why might historians study the failures of the League of Nations?", options:["The League of Nations had no weaknesses of any kind","Understanding its weaknesses can help explain why later international organizations were designed differently","Failures of past organizations provide no useful historical lessons","The League of Nations succeeded in every one of its goals"], answer:1}
+   ]},
+]},
+{day:167, label:"Day 167 — Tue", subjects:[
+  {subject:"Language", title:"Reading: Comparing Multiple Accounts of the Same Event", summary:"Grade 6 Language strand: comparing multiple accounts of the same event, such as different news reports or eyewitness descriptions, helps readers notice differences in perspective, detail, and emphasis.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"Why might a reader compare multiple accounts of the same event?", options:["Multiple accounts of an event never differ from one another","Comparing accounts always produces identical information","To notice differences in perspective, detail, and emphasis","Reading only one account always provides a complete picture"], answer:2},
+     {q:"What might cause two eyewitness accounts of the same event to differ?", options:["Eyewitnesses always describe events in exactly the same way","Differences between accounts are always caused by lying","Each witness may have noticed or focused on different details","Eyewitness accounts are never useful for understanding an event"], answer:2},
+     {q:"Why might two news reports about the same event use different emphasis?", options:["Emphasis has no effect on how an event is understood","News reports are not permitted to differ from one another","Different reporters or outlets may choose to highlight different aspects of the story","All news reports about the same event are always identical"], answer:2},
+     {q:"Why is it valuable to read more than one source when researching a historical event?", options:["A single source always provides a complete and unbiased account","It can provide a more complete and balanced understanding of what happened","Comparing sources has no value when researching history","Reading additional sources always adds unnecessary confusion"], answer:1},
+     {q:"Why might a critical reader consider the perspective of the person or organization behind an account?", options:["All accounts are created with the exact same purpose","A creators perspective and purpose can shape which details are included or left out","Considering a sources perspective is unnecessary for understanding it","The identity of a source never affects its content"], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Estimating and Measuring Angles with a Protractor", summary:"Grade 6 Math strand: a protractor is a tool used to measure the size of an angle in degrees, and estimating an angles size before measuring helps check whether a measurement is reasonable.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What tool is used to measure the size of an angle?", options:["A scale for weighing objects","A ruler","A compass for drawing circles","A protractor"], answer:3},
+     {q:"What unit is used to measure the size of an angle?", options:["Centimetres","Degrees","Kilograms","Litres"], answer:1},
+     {q:"Why might someone estimate the size of an angle before measuring it with a protractor?", options:["Estimating an angle has no connection to checking a measurement","Estimating always gives a more accurate value than measuring","A protractor cannot be used unless an estimate is made first","It helps check whether the measured value is reasonable"], answer:3},
+     {q:"About how many degrees is a right angle?", options:["360 degrees","45 degrees","90 degrees","180 degrees"], answer:2},
+     {q:"Why is it important to align a protractors baseline correctly with one side of the angle before reading the measurement?", options:["A protractor gives an accurate reading no matter how it is placed","The baseline of a protractor never needs to be aligned with anything","Misalignment can cause an inaccurate angle measurement to be read","Alignment only matters when measuring angles larger than 180 degrees"], answer:2}
+   ]},
+  {subject:"Science", title:"Glaciers and Their Role in Shaping Landscapes", summary:"Grade 6 Science strand: a glacier is a large, slow-moving mass of ice that can carve valleys, move rocks and sediment, and reshape landscapes over long periods of time as it advances and retreats.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a glacier?", options:["A small pond that freezes every year","A fast-flowing river of warm water","A type of cloud found only in winter","A large, slow-moving mass of ice"], answer:3},
+     {q:"What can a glacier carve into the land as it moves?", options:["Coral reefs","Valleys","Deserts","Volcanoes"], answer:1},
+     {q:"What does a glacier often carry along with it as it moves?", options:["Only ocean water","Nothing at all","Only fallen leaves","Rocks and sediment"], answer:3},
+     {q:"Why might a landscape look very different after a glacier has retreated?", options:["Glaciers never have any effect on the land they move across","A retreating glacier always leaves the landscape completely unchanged","The movement of the glacier can carve, scrape, and deposit material, permanently reshaping the land","Glaciers can only affect landscapes while advancing, never while retreating"], answer:2},
+     {q:"Why might scientists study glaciers to understand past climate conditions?", options:["Studying glaciers only reveals information about current weather","Ice never preserves any historical information","Glaciers contain no information about past climate conditions","Layers within glacial ice can preserve a long-term record of past climate and atmospheric conditions"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Boundary Waters Treaty and Canada-US Relations", summary:"Grade 6 Social Studies strand: the Boundary Waters Treaty of 1909 established rules for sharing waterways along the Canada-United States border and created the International Joint Commission to help resolve disputes over these shared waters.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What did the Boundary Waters Treaty establish rules for?", options:["Sharing farmland between Canada and the United States","Sharing waterways along the Canada-United States border","Trading goods across the Pacific Ocean","Building railways between the two countries"], answer:1},
+     {q:"In what year was the Boundary Waters Treaty signed?", options:["1931","1909","1812","1867"], answer:1},
+     {q:"What organization did the Boundary Waters Treaty help create?", options:["The United Nations","The League of Nations","The International Joint Commission","The World Health Organization"], answer:2},
+     {q:"What is one purpose of the International Joint Commission?", options:["To manage trade agreements with countries outside North America","To help resolve disputes over waters shared between Canada and the United States","To organize elections in both countries","To build new highways along the border"], answer:1},
+     {q:"Why might a treaty about shared waterways be important for two neighbouring countries?", options:["Shared resources can lead to disputes without clear, agreed-upon rules for managing them","Waterways along a border never require any formal agreements","A treaty about water has no effect on relations between two countries","Neighbouring countries never need to share any natural resources"], answer:0}
+   ]},
+]},
+{day:168, label:"Day 168 — Wed", subjects:[
+  {subject:"Language", title:"Grammar: Dangling and Misplaced Modifiers", summary:"Grade 6 Language strand: a modifier describes or gives more information about another word in a sentence, and a dangling or misplaced modifier occurs when it is positioned so that it unclearly or incorrectly describes the wrong word.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does a modifier do in a sentence?", options:["Describes or gives more information about another word","Always ends a sentence","Replaces the subject of a sentence entirely","Joins two unrelated sentences together"], answer:0},
+     {q:"What is a misplaced modifier?", options:["A modifier positioned so it unclearly or incorrectly describes the wrong word","A word that never describes anything in a sentence","A modifier that has been completely removed from a sentence","A modifier that is always placed correctly"], answer:0},
+     {q:"Which sentence contains a misplaced modifier?", options:["Running down the street, Sam missed the bus.","Running down the street, the bus was missed by Sam.","Sam, running down the street, missed the bus.","Sam missed the bus while running down the street."], answer:1},
+     {q:"Why can a dangling modifier confuse a reader?", options:["Modifiers never have any connection to the words around them","Dangling modifiers always make a sentence perfectly clear","A dangling modifier always improves the clarity of a sentence","It can make it unclear which word in the sentence is actually being described"], answer:3},
+     {q:"Why is it important to revise sentences with misplaced or dangling modifiers?", options:["Revising a sentence always makes its meaning less clear","Misplaced modifiers never need to be corrected","Modifiers have no effect on the clarity of a sentence","Correcting them helps ensure the sentence clearly expresses the intended meaning"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Exponent Laws — Multiplying and Dividing Powers", summary:"Grade 6 Math strand: when multiplying powers with the same base, the exponents are added together, and when dividing powers with the same base, the exponents are subtracted.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What rule applies when multiplying two powers with the same base?", options:["The exponents are added together","The exponents are subtracted from each other","The exponents are multiplied together","The bases are added together"], answer:0},
+     {q:"What rule applies when dividing two powers with the same base?", options:["The exponents are subtracted","The exponents are added","The exponents are multiplied together","The bases are divided and the exponents stay the same"], answer:0},
+     {q:"What is the value of 2 to the power of 3 multiplied by 2 to the power of 2, expressed as a single power?", options:["4 to the power of 5","2 to the power of 1","2 to the power of 6","2 to the power of 5"], answer:3},
+     {q:"What is the value of 5 to the power of 6 divided by 5 to the power of 2, expressed as a single power?", options:["5 to the power of 4","5 to the power of 8","5 to the power of 12","5 to the power of 3"], answer:0},
+     {q:"Why must the bases of two powers be the same before adding or subtracting their exponents?", options:["Exponents can always be combined even with completely different bases","Exponent rules apply equally well regardless of the base used","The bases of powers never need to match for these rules to work","The exponent rules for multiplying and dividing powers only apply when the bases match"], answer:3}
+   ]},
+  {subject:"Science", title:"Food Preservation: How Refrigeration, Canning, and Drying Prevent Spoilage", summary:"Grade 6 Science strand: food preservation methods such as refrigeration, canning, and drying slow or stop the growth of the microorganisms that cause food to spoil, helping keep food safe to eat for longer periods of time.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What do food preservation methods such as refrigeration and drying slow or stop?", options:["The colour of the food","The weight of the food","The growth of the plants used to make the food","The growth of microorganisms that cause food to spoil"], answer:3},
+     {q:"How does refrigeration help preserve food?", options:["Refrigeration removes all water from food","Refrigeration has no effect on microorganisms","Cold temperatures speed up the growth of bacteria","Cold temperatures slow the growth of bacteria and other microorganisms"], answer:3},
+     {q:"How does drying help preserve food?", options:["Removing moisture makes it harder for microorganisms to grow","Adding moisture helps preserve food for longer","Drying always destroys the nutrients in food completely","Drying has no connection to microorganism growth"], answer:0},
+     {q:"Why might canning allow food to be stored safely for a long time without refrigeration?", options:["Canning always increases the growth of microorganisms","Heating food before canning has no effect on spoilage","Sealing food in an airtight container after heating can prevent microorganisms from growing inside","Canned food is never sealed in an airtight container"], answer:2},
+     {q:"Why have humans developed multiple methods of food preservation throughout history?", options:["Different methods allow food to be safely stored for longer periods in different situations and climates","Humans have never needed to preserve food for later use","A single method of food preservation works equally well in every situation","Food preservation methods have no connection to safely storing food"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Rideau Canal — A UNESCO World Heritage Site in Canada", summary:"Grade 6 Social Studies strand: the Rideau Canal, built between 1826 and 1832 to connect Kingston and Ottawa, was originally constructed for military defense purposes and is now recognized as a UNESCO World Heritage Site, famous today for winter skating.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What two cities does the Rideau Canal connect?", options:["Toronto and Montreal","Winnipeg and Regina","Halifax and Quebec City","Kingston and Ottawa"], answer:3},
+     {q:"During what years was the Rideau Canal built?", options:["1900 to 1905","1826 to 1832","1931 to 1935","1867 to 1870"], answer:1},
+     {q:"What was the original purpose of building the Rideau Canal?", options:["Tourism and recreation only","Military defense","Transporting oil and gas","Generating hydroelectric power"], answer:1},
+     {q:"What international recognition has the Rideau Canal received?", options:["It was renamed after a foreign country","It is recognized as a UNESCO World Heritage Site","It received an Olympic medal","It has been declared a national capital"], answer:1},
+     {q:"Why might a structure originally built for military purposes become an important recreational site today?", options:["Structures built for military purposes can never be used for anything else","Recreational uses always existed before the canal was built for defense","The Rideau Canal has never been used for any purpose other than defense","Its original design and location can make it well suited for new uses, such as winter skating, once its military role ends"], answer:3}
+   ]},
+]},
+{day:169, label:"Day 169 — Thu", subjects:[
+  {subject:"Language", title:"Writing: Writing a Persuasive Product Review", summary:"Grade 6 Language strand: a persuasive product review states a clear opinion about a product, supports it with specific reasons and examples, and considers the needs of readers who are deciding whether to make a purchase.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What does a persuasive product review state?", options:["Only the price of a product with no opinion","Instructions for manufacturing the product","A list of unrelated products","A clear opinion about a product"], answer:3},
+     {q:"What should support the opinion given in a persuasive product review?", options:["Specific reasons and examples","Vague statements with no explanation","Information about a completely different product","A summary of someone elses opinion with no personal view"], answer:0},
+     {q:"Why might a writer consider the needs of readers when writing a product review?", options:["Readers are often deciding whether to make a purchase and want helpful, relevant information","Product reviews are never read by anyone making a purchase decision","The needs of readers never matter when writing a review","Considering readers needs always weakens a review"], answer:0},
+     {q:"Why might a strong product review mention both strengths and weaknesses of a product?", options:["Acknowledging weaknesses can make the review seem more balanced and trustworthy","A persuasive review must never mention any weaknesses","Mentioning weaknesses always makes a review less convincing","Balanced reviews are never useful to readers"], answer:0},
+     {q:"Why is specific detail, such as measurements or comparisons, valuable in a persuasive product review?", options:["Specific details give readers concrete information to help them evaluate the product","Readers never benefit from concrete information in a review","Specific details always make a review more confusing","Vague descriptions are always more persuasive than specific details"], answer:0}
+   ]},
+  {subject:"Math", title:"Patterning and Algebra: Recursive versus Explicit Pattern Rules", summary:"Grade 6 Math strand: a recursive pattern rule describes how to find the next term using the term before it, while an explicit pattern rule describes how to calculate any term directly using its position in the pattern.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What does a recursive pattern rule describe?", options:["A rule that only applies to the first term of a pattern","How to calculate any term directly from its position","A pattern with no relationship between its terms","How to find the next term using the term before it"], answer:3},
+     {q:"What does an explicit pattern rule describe?", options:["How to find the next term using only the previous term","A pattern that never has a position for its terms","A rule that cannot be used to find any term","How to calculate any term directly using its position in the pattern"], answer:3},
+     {q:"If a pattern rule is start at 4 and add 3 each time, what kind of rule is this?", options:["Explicit","Recursive","Both at the same time with no distinction","Neither recursive nor explicit"], answer:1},
+     {q:"Why might an explicit rule be more useful than a recursive rule for finding a term far along in a pattern?", options:["An explicit rule can calculate the term directly without finding every term before it","Explicit rules can never be used to find distant terms","A recursive rule always finds distant terms more quickly than an explicit rule","Recursive and explicit rules always require the exact same amount of work"], answer:0},
+     {q:"Why is it useful to be able to describe a pattern using both recursive and explicit rules?", options:["Each type of rule offers a different way to understand and apply the pattern","Understanding a pattern in more than one way provides no benefit","Only one type of rule can ever be used to describe a pattern","Recursive and explicit rules always produce different, unrelated patterns"], answer:0}
+   ]},
+  {subject:"Science", title:"Renewable Energy: Tidal and Wave Power", summary:"Grade 6 Science strand: tidal power captures energy from the rise and fall of ocean tides, while wave power captures energy from the motion of waves at the oceans surface, both offering renewable alternatives to fossil fuels.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What does tidal power capture energy from?", options:["The heat of the Sun","The rise and fall of ocean tides","Underground heat from the Earths core","The motion of wind across land"], answer:1},
+     {q:"What does wave power capture energy from?", options:["The heat stored in ocean water","The rise and fall of tides only","The growth of underwater plants","The motion of waves at the oceans surface"], answer:3},
+     {q:"Why are tidal and wave power considered renewable energy sources?", options:["Ocean movements stop permanently once energy is captured","They rely on a limited fuel supply that will eventually run out","They rely on ongoing natural ocean movements that are not used up","Renewable energy sources cannot come from the ocean"], answer:2},
+     {q:"Why might a coastal region be well suited for generating tidal or wave power?", options:["Its direct access to ocean tides and waves provides a consistent source of energy","Access to the ocean has no connection to generating this type of energy","Coastal regions never experience any tides or waves","Tidal and wave power can only be generated far from any coastline"], answer:0},
+     {q:"Why might tidal and wave power be considered more predictable than some other renewable sources, such as wind?", options:["Ocean tides occur completely randomly with no pattern at all","Tidal and wave patterns can never be forecast or understood","Ocean tides follow regular, well-understood cycles that can be forecast in advance","Wind is always more predictable than ocean tides"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: David Thompson and the Mapping of Western Canada", summary:"Grade 6 Social Studies strand: David Thompson was a fur trader and surveyor who mapped vast areas of western North America in the early 1800s, producing detailed maps that were used for decades after his expeditions.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What two roles did David Thompson hold during his expeditions?", options:["Soldier and sailor","Judge and lawyer","Farmer and blacksmith","Fur trader and surveyor"], answer:3},
+     {q:"What part of North America did David Thompson help map?", options:["Territories outside of North America","Western North America","Only present-day Quebec","Only the east coast"], answer:1},
+     {q:"During what general time period did David Thompson complete most of his mapping expeditions?", options:["The 1930s","The early 1800s","The 1600s","The late 1900s"], answer:1},
+     {q:"Why were David Thompsons maps considered valuable for many years after they were created?", options:["His maps were considered inaccurate and were never used by anyone","They provided detailed and accurate geographic information used by later travellers and settlers","His maps only covered a single small town","Maps of western Canada were not needed by anyone after Thompsons expeditions"], answer:1},
+     {q:"Why might exploring and mapping unfamiliar territory have been an important part of the fur trade economy?", options:["Accurate maps helped traders navigate efficiently and locate new areas for trade","Mapping had no connection to the success of the fur trade","Fur traders never needed to travel through unfamiliar territory","The fur trade did not rely on geographic knowledge of any kind"], answer:0}
+   ]},
+]},
+{day:170, label:"Day 170 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Grammar, Storytelling, and Media Literacy", summary:"Grade 6 Language strand review: students revisit conditional sentences, homographs and multiple-meaning words, opinion writing, deepfakes and digital manipulation, and oral storytelling techniques.",
+   resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   quiz:[
+     {q:"What are the two main parts of a conditional sentence?", options:["A quotation and a citation","A subject and a predicate only","A prefix and a suffix","An if clause and a result clause"], answer:3},
+     {q:"What is a homograph?", options:["A word used exclusively in formal writing","A word that sounds the same as another word but is spelled differently","A word spelled the same as another word but with a different meaning","A word that only has one possible meaning"], answer:2},
+     {q:"What does an opinion piece state?", options:["A summary of another persons opinion piece","A clear position on a topic","A list of unrelated events","Only facts with no personal viewpoint"], answer:1},
+     {q:"What is a deepfake?", options:["A handwritten letter sent through the mail","A printed newspaper article","A digitally altered video or image that can misrepresent what someone said or did","A completely unedited video with no digital changes"], answer:2},
+     {q:"What is one technique used in effective oral storytelling?", options:["Avoiding eye contact with the audience","Speaking as quickly as possible at all times","Reading in a flat, unchanging tone","Vocal expression"], answer:3}
+   ]},
+  {subject:"Math", title:"Math Review: Decimals, Data, and Algebraic Reasoning", summary:"Grade 6 Math strand review: students revisit dividing decimals, line plots, the Cartesian plane, representing situations with equations, and experimental probability.",
+   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   quiz:[
+     {q:"What is the first step often used when dividing by a decimal?", options:["Shift the decimal point in the divisor to make it a whole number","Round both numbers to the nearest whole number","Add the two decimal numbers together","Immediately place the decimal point in the answer"], answer:0},
+     {q:"What does a line plot use to display data?", options:["Connected line segments only","Bars of varying height","Slices of a circle","Marks such as dots or Xs placed along a number line"], answer:3},
+     {q:"What two axes divide the Cartesian plane?", options:["The x-axis and the y-axis","Only a single diagonal axis","The p-axis and the q-axis","The north axis and the south axis"], answer:0},
+     {q:"What can algebraic equations be used to represent?", options:["Situations that have no possible mathematical solution","Real-world situations, such as the cost of buying several items","Only situations with no numbers involved","Only equations found in a textbook with no real application"], answer:1},
+     {q:"How is experimental probability calculated?", options:["By assuming every outcome is equally likely with no testing","By guessing without collecting any data","From the actual results of repeated trials","By using only theoretical probability with no experiment"], answer:2}
+   ]},
+  {subject:"Science", title:"Science Review: Machines, Matter, and Space Exploration", summary:"Grade 6 Science strand review: students revisit gears, physical versus chemical changes, solar panels, the International Space Station, and hibernation.",
+   resourceLabel:"TVO Learn: Grade 6 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   quiz:[
+     {q:"What is a gear?", options:["A straight bar that pivots on a fixed point","A rope wrapped around a wheel","A ramp used to lift heavy objects","A wheel with teeth that interlocks with other gears"], answer:3},
+     {q:"What happens during a physical change?", options:["A completely new substance with different properties is created","Matter disappears entirely with no trace","The chemical makeup of matter always changes","The form or appearance of matter changes without changing its chemical makeup"], answer:3},
+     {q:"What are solar panels made of?", options:["Magnets connected by cables","Copper wires only","Photovoltaic cells","Glass with no other materials"], answer:2},
+     {q:"What is the International Space Station?", options:["A weather satellite that orbits only over Canada","A rocket used for a single launch into space","A research laboratory orbiting Earth","A telescope located on the surface of the Moon"], answer:2},
+     {q:"What is hibernation?", options:["A period of increased activity during winter","A state of greatly reduced activity, heart rate, and body temperature","A process where animals grow new fur every season","A migration pattern used only by birds"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Canadian Institutions, History, and Exploration", summary:"Grade 6 Social Studies strand review: students revisit the Bank of Canada, the Charlottetown Conference, the Statute of Westminster, Lester B. Pearson, and the Alaska Boundary Dispute.",
+   resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   quiz:[
+     {q:"What is the Bank of Canada?", options:["A private bank that only serves large businesses","A branch of a foreign bank operating in Canada","A museum dedicated to Canadian history","The countrys central bank"], answer:3},
+     {q:"What was discussed at the Charlottetown Conference in 1864?", options:["A trade agreement with another country","Uniting British North American colonies into a single country","The boundaries of the United States","A plan to separate Ontario from Quebec"], answer:1},
+     {q:"What did the Statute of Westminster grant to Canada?", options:["Ownership of new overseas territories","Greater legislative independence from Britain","A new national flag","Complete separation from the British monarchy"], answer:1},
+     {q:"What prize did Lester B. Pearson win in 1957?", options:["The Nobel Peace Prize","The Victoria Cross","The Order of Canada","An Academy Award"], answer:0},
+     {q:"What was the Alaska Boundary Dispute about?", options:["A trade disagreement over fishing rights in the Atlantic Ocean","The exact border between Alaska and British Columbia","The location of the capital of British Columbia","A disagreement over railway construction in Ontario"], answer:1}
    ]},
 ]},
 ];
