@@ -14932,6 +14932,7 @@
         "summary": "Students learn about inventions created in Canada that changed the way people live, work, and play, such as basketball and insulin.",
         "resourceLabel": "YouTube: Canadian Inventions That Changed the World",
         "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Inventions%20That%20Changed%20the%20World%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=g76h6PE9y70",
         "quiz": [
           {
             "q": "What word describes something new that a person creates for the first time?",
@@ -45501,6 +45502,2426 @@
               "To run grocery stores",
               "To teach in schools",
               "To protect Canada and help during emergencies"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 161,
+    "label": "Day 161 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Riddles: Writing Playful Questions and Answers",
+        "summary": "Grade 2 Language strand: a riddle is a playful question with a clue-filled answer, often using wordplay or hidden meanings to make the reader think and smile.",
+        "resourceLabel": "YouTube: Riddles: Writing Playful Questions and Answers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Riddles%3A%20Writing%20Playful%20Questions%20and%20Answers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a riddle?",
+            "options": [
+              "A true news report",
+              "A playful question with a clue-filled answer",
+              "A silent letter",
+              "A math equation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Riddles often use ___ to make the reader think and guess.",
+            "options": [
+              "Long lists of facts",
+              "Clues and wordplay",
+              "Loud noises only",
+              "Blank pages"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer include a riddle in a story?",
+            "options": [
+              "To end the story with no reason",
+              "To confuse the reader with no clues at all",
+              "To entertain and challenge the reader",
+              "To remove all humour from the text"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A good riddle usually has a clear ___ at the end.",
+            "options": [
+              "New character",
+              "Ending in silence",
+              "No purpose",
+              "Answer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is written like a riddle?",
+            "options": [
+              "What has keys but cannot open a door",
+              "I ran to school today",
+              "Water is a liquid",
+              "The sky is blue"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Recognizing Equal Parts of a Whole",
+        "summary": "Grade 2 Math strand: for a shape to show a true fraction, it must be divided into parts that are all the same size, called equal parts.",
+        "resourceLabel": "YouTube: Fractions: Recognizing Equal Parts of a Whole",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Recognizing%20Equal%20Parts%20of%20a%20Whole%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "For a fraction to be shown correctly, a shape must be divided into ___.",
+            "options": [
+              "Equal parts",
+              "Only two pieces",
+              "Different sized pieces",
+              "Random sized pieces"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a circle is cut into four parts, but they are different sizes, does it correctly show fourths?",
+            "options": [
+              "No",
+              "Yes",
+              "Sometimes",
+              "Only on weekends"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these correctly shows halves?",
+            "options": [
+              "A rectangle split into five parts",
+              "A rectangle with no lines",
+              "A rectangle split into two equal parts",
+              "A rectangle split into two very different sized parts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do fractions require equal parts?",
+            "options": [
+              "So each part represents the same amount of the whole",
+              "Fractions ignore size completely",
+              "Only whole numbers need equal parts",
+              "Equal parts are never needed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A shape split into three equal parts shows ___.",
+            "options": [
+              "Fifths",
+              "Thirds",
+              "Fourths",
+              "Halves"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earthworms: Helpers Beneath the Soil",
+        "summary": "Grade 2 Science strand: earthworms live underground and help the soil by tunnelling through it, letting in air and water, and breaking down dead plant material.",
+        "resourceLabel": "YouTube: Earthworms: Helpers Beneath the Soil",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earthworms%3A%20Helpers%20Beneath%20the%20Soil%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where do earthworms usually live?",
+            "options": [
+              "In the ocean",
+              "In trees",
+              "In the sky",
+              "Underground in soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do earthworms help soil?",
+            "options": [
+              "By tunnelling and letting in air and water",
+              "By removing all air from soil",
+              "By making soil harder",
+              "By covering soil with ice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do earthworms often eat?",
+            "options": [
+              "Nothing at all",
+              "Only rocks",
+              "Dead plant material in the soil",
+              "Only metal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are earthworms sometimes called helpers of the garden?",
+            "options": [
+              "They improve soil health for plants to grow",
+              "They have no effect on gardens",
+              "They only live in water",
+              "They destroy every plant"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Earthworms are an example of an animal that lives ___.",
+            "options": [
+              "Mostly in the clouds",
+              "Mostly underground",
+              "Mostly underwater in the ocean",
+              "Mostly on ice"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Supreme Court of Canada: The Highest Court in the Land",
+        "summary": "Grade 2 Social Studies strand: the Supreme Court of Canada is the highest court in the country, making final decisions on the most important legal cases.",
+        "resourceLabel": "YouTube: The Supreme Court of Canada: The Highest Court in the Land",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Supreme%20Court%20of%20Canada%3A%20The%20Highest%20Court%20in%20the%20Land%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "The highest court in the country",
+              "A type of school",
+              "A local library",
+              "A city council"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Supreme Court do?",
+            "options": [
+              "Delivers mail",
+              "Builds roads",
+              "Teaches students",
+              "Makes final decisions on the most important legal cases"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Supreme Court considered the highest court?",
+            "options": [
+              "It has no real power",
+              "Its decisions are final and cannot be appealed to a higher court",
+              "It only handles minor disagreements",
+              "It is the smallest court"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might the Supreme Court decide on?",
+            "options": [
+              "Important legal questions affecting the whole country",
+              "What food to serve at lunch",
+              "What time recess starts",
+              "Which movie to watch"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The word supreme in Supreme Court means ___.",
+            "options": [
+              "Newest",
+              "Quietest",
+              "Highest or greatest",
+              "Smallest"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "label": "Day 162 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Haiku: Poems Built From Counting Syllables",
+        "summary": "Grade 2 Language strand: a haiku is a short poem, often about nature, made of three lines with a pattern of five, seven, and five syllables.",
+        "resourceLabel": "YouTube: Haiku: Poems Built From Counting Syllables",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Haiku%3A%20Poems%20Built%20From%20Counting%20Syllables%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many lines does a haiku usually have?",
+            "options": [
+              "1",
+              "5",
+              "3",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the usual syllable pattern of a haiku?",
+            "options": [
+              "Five, seven, five",
+              "Four, four, four",
+              "Ten, ten, ten",
+              "Two, two, two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What topic do haiku poems often describe?",
+            "options": [
+              "Nature",
+              "Grocery lists",
+              "Traffic signs",
+              "Math facts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A syllable is ___.",
+            "options": [
+              "A punctuation mark",
+              "A silent letter only",
+              "A beat or chunk of sound in a word",
+              "A whole sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might counting syllables be tricky when writing a haiku?",
+            "options": [
+              "Haiku have no rules at all",
+              "Some words have more beats than they first seem",
+              "Syllables are always exactly one per word",
+              "Words never have syllables"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Unit Fractions and Their Names",
+        "summary": "Grade 2 Math strand: a unit fraction has a numerator of one, like 1/2, 1/3, or 1/4, and represents a single equal part of a whole.",
+        "resourceLabel": "YouTube: Fractions: Unit Fractions and Their Names",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Unit%20Fractions%20and%20Their%20Names%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a unit fraction?",
+            "options": [
+              "A whole number",
+              "A fraction with no parts",
+              "A fraction with a denominator of one",
+              "A fraction with a numerator of one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a unit fraction?",
+            "options": [
+              "2/4",
+              "3/4",
+              "1/4",
+              "4/4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the fraction 1/5, what does the 1 represent?",
+            "options": [
+              "The whole itself",
+              "Five equal parts",
+              "Nothing at all",
+              "One equal part out of the whole"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is NOT a unit fraction?",
+            "options": [
+              "1/3",
+              "3/5",
+              "1/6",
+              "1/2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A unit fraction always has a numerator of ___.",
+            "options": [
+              "Zero",
+              "Two",
+              "Ten",
+              "One"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Octopuses: Clever Creatures of the Sea",
+        "summary": "Grade 2 Science strand: octopuses are intelligent ocean animals with eight arms, soft bodies, and the ability to change colour to blend into their surroundings.",
+        "resourceLabel": "YouTube: Octopuses: Clever Creatures of the Sea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Octopuses%3A%20Clever%20Creatures%20of%20the%20Sea%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many arms does an octopus have?",
+            "options": [
+              "Eight",
+              "Six",
+              "Four",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can an octopus do to blend into its surroundings?",
+            "options": [
+              "Breathe fire",
+              "Grow wings",
+              "Fly",
+              "Change colour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do octopuses live?",
+            "options": [
+              "In deserts",
+              "In the sky",
+              "In the ocean",
+              "In trees"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of body does an octopus have?",
+            "options": [
+              "Hard and covered in scales",
+              "Covered in fur",
+              "Soft, without a bony skeleton",
+              "Made only of bone"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Octopuses are often described as one of the most ___ ocean animals.",
+            "options": [
+              "Largest",
+              "Loudest",
+              "Intelligent",
+              "Least active"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "From Sea to Sea: Canadas National Motto",
+        "summary": "Grade 2 Social Studies strand: Canadas national motto, A Mari Usque Ad Mare, means from sea to sea and reflects the countrys vast size stretching between oceans.",
+        "resourceLabel": "YouTube: From Sea to Sea: Canadas National Motto",
+        "resourceUrl": "https://www.youtube.com/results?search_query=From%20Sea%20to%20Sea%3A%20Canadas%20National%20Motto%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does Canadas national motto mean in English?",
+            "options": [
+              "From coast to mountain",
+              "From sea to sea",
+              "From north to south only",
+              "From city to city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the motto reflect about Canada?",
+            "options": [
+              "That Canada has only one ocean",
+              "That Canada has no coastline",
+              "That Canada is a very small country",
+              "The countrys vast size stretching between oceans"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A national motto is ___.",
+            "options": [
+              "A type of currency",
+              "A short phrase that represents a countrys identity",
+              "A national holiday",
+              "A kind of map"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many oceans touch Canadas coastlines?",
+            "options": [
+              "Zero",
+              "Three",
+              "Ten",
+              "One"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a country choose a motto about its geography?",
+            "options": [
+              "Mottoes never relate to geography",
+              "To confuse citizens",
+              "To capture something important about its identity",
+              "Countries never have mottoes"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "label": "Day 163 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Shape Poems: Writing Poetry in a Picture",
+        "summary": "Grade 2 Language strand: a shape poem, also called a concrete poem, arranges its words so the poem itself forms the outline of its topic, like a poem about a tree shaped like a tree.",
+        "resourceLabel": "YouTube: Shape Poems: Writing Poetry in a Picture",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Shape%20Poems%3A%20Writing%20Poetry%20in%20a%20Picture%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What makes a shape poem special?",
+            "options": [
+              "It has exactly one line",
+              "The words are arranged to form the outline of the topic",
+              "It has no words at all",
+              "It must rhyme perfectly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A shape poem about a snake might be arranged in a ___ pattern.",
+            "options": [
+              "Random scattered dots",
+              "Curvy, winding",
+              "A single straight column of numbers",
+              "Perfectly square"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A shape poem is also known as a ___ poem.",
+            "options": [
+              "Numeric",
+              "Silent",
+              "Blank",
+              "Concrete"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a poet choose to write a shape poem?",
+            "options": [
+              "To connect the look of the poem to its meaning",
+              "To hide the topic completely",
+              "To avoid choosing a topic",
+              "To remove all imagery"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which topic could work well for a shape poem?",
+            "options": [
+              "A poem about nothing",
+              "A poem with no topic",
+              "A poem about a balloon shaped like a circle",
+              "A poem about silence only"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Creating a Pictograph With a Key",
+        "summary": "Grade 2 Math strand: a pictograph uses pictures to represent data, and a key tells the reader how many items each picture stands for, such as one picture equalling two votes.",
+        "resourceLabel": "YouTube: Data: Creating a Pictograph With a Key",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Creating%20a%20Pictograph%20With%20a%20Key%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a key on a pictograph tell the reader?",
+            "options": [
+              "The colour of the picture",
+              "How many items each picture represents",
+              "The title of the graph only",
+              "Nothing important"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the key shows one picture equals two votes, how many votes do three pictures represent?",
+            "options": [
+              "9",
+              "3",
+              "6",
+              "2"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a key important when creating a pictograph?",
+            "options": [
+              "It has no real purpose",
+              "It replaces the need for pictures",
+              "It helps readers correctly interpret the data",
+              "It only decorates the graph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these could be a picture used in a pictograph about favourite fruits?",
+            "options": [
+              "A random letter",
+              "A punctuation mark",
+              "A small apple symbol",
+              "A blank square"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A pictograph is especially useful for showing data in a way that is ___.",
+            "options": [
+              "Visual and easy to compare",
+              "Written only in words",
+              "Always inaccurate",
+              "Impossible to understand"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Turtles: Reptiles With Shells",
+        "summary": "Grade 2 Science strand: turtles are reptiles with a hard shell that protects their soft body, and many species can pull their head and legs inside the shell for safety.",
+        "resourceLabel": "YouTube: Turtles: Reptiles With Shells",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Turtles%3A%20Reptiles%20With%20Shells%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What protects a turtles soft body?",
+            "options": [
+              "Feathers",
+              "A hard shell",
+              "Fur",
+              "Scales alone with no shell"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can many turtles do when they feel threatened?",
+            "options": [
+              "Change colour",
+              "Grow larger instantly",
+              "Fly away",
+              "Pull their head and legs into their shell"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of animal is a turtle classified as?",
+            "options": [
+              "A mammal",
+              "A reptile",
+              "A bird",
+              "An insect"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these describes most turtles?",
+            "options": [
+              "Animals with no legs at all",
+              "Cold-blooded animals with a protective shell",
+              "Animals with wings",
+              "Warm-blooded animals with fur"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is a turtles shell an important adaptation?",
+            "options": [
+              "It makes the turtle heavier for no reason",
+              "It provides protection from predators",
+              "It has no purpose",
+              "It prevents the turtle from moving at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Poppy: A Symbol of Remembrance",
+        "summary": "Grade 2 Social Studies strand: the poppy is a red flower worn as a symbol of remembrance to honour those who served and died in wars, especially around Remembrance Day.",
+        "resourceLabel": "YouTube: The Poppy: A Symbol of Remembrance",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Poppy%3A%20A%20Symbol%20of%20Remembrance%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the poppy symbolize?",
+            "options": [
+              "A kind of weather",
+              "Remembrance of those who served and died in wars",
+              "A type of currency",
+              "A community sport"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What colour is the poppy most associated with remembrance?",
+            "options": [
+              "Yellow",
+              "Red",
+              "Purple",
+              "Blue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Around which day do people often wear a poppy?",
+            "options": [
+              "Remembrance Day",
+              "Victoria Day",
+              "Thanksgiving",
+              "Canada Day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do people choose to wear a poppy?",
+            "options": [
+              "To honour and remember those who served",
+              "To show the weather forecast",
+              "To celebrate a sports victory",
+              "To mark a birthday"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The poppy is an example of a ___.",
+            "options": [
+              "Symbol",
+              "Kind of vehicle",
+              "Type of money",
+              "Musical instrument"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "label": "Day 164 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Possessive Pronouns: Mine, Yours, His, and Hers",
+        "summary": "Grade 2 Language strand: a possessive pronoun shows who something belongs to without using an apostrophe, such as mine, yours, his, hers, its, ours, and theirs.",
+        "resourceLabel": "YouTube: Possessive Pronouns: Mine, Yours, His, and Hers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Possessive%20Pronouns%3A%20Mine%2C%20Yours%2C%20His%2C%20and%20Hers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a possessive pronoun show?",
+            "options": [
+              "A feeling only",
+              "A question",
+              "Who something belongs to",
+              "An action"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word is a possessive pronoun?",
+            "options": [
+              "Run",
+              "Blue",
+              "Quickly",
+              "Mine"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence This book is hers, which word is the possessive pronoun?",
+            "options": [
+              "Book",
+              "Hers",
+              "Is",
+              "This"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Do possessive pronouns use an apostrophe?",
+            "options": [
+              "Yes, always",
+              "Only for names",
+              "Only on Fridays",
+              "No, they do not"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence uses a possessive pronoun correctly?",
+            "options": [
+              "The red bike is I",
+              "The red bike is she",
+              "The red bike is they",
+              "The red bike is mine"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calendars: Days, Weeks, and Months of the Year",
+        "summary": "Grade 2 Math strand: a calendar organizes time into days, weeks, and months, helping us track dates, plan events, and understand how much time has passed.",
+        "resourceLabel": "YouTube: Calendars: Days, Weeks, and Months of the Year",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Calendars%3A%20Days%2C%20Weeks%2C%20and%20Months%20of%20the%20Year%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many days are in one week?",
+            "options": [
+              "30",
+              "10",
+              "7",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many months are in one year?",
+            "options": [
+              "4",
+              "12",
+              "7",
+              "52"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A calendar helps us keep track of ___.",
+            "options": [
+              "Only the weather",
+              "Nothing important",
+              "Dates and events",
+              "Only the temperature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If today is Monday, what day comes next?",
+            "options": [
+              "Wednesday",
+              "Friday",
+              "Tuesday",
+              "Sunday"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "About how many weeks are in one year?",
+            "options": [
+              "365",
+              "12",
+              "52",
+              "7"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Dinosaurs: Learning From Fossils",
+        "summary": "Grade 2 Science strand: dinosaurs were animals that lived millions of years ago, and scientists learn about them today mainly by studying fossils, the preserved remains or traces left in rock.",
+        "resourceLabel": "YouTube: Dinosaurs: Learning From Fossils",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Dinosaurs%3A%20Learning%20From%20Fossils%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How do scientists learn about dinosaurs today?",
+            "options": [
+              "By reading old newspapers",
+              "By watching them in person",
+              "By guessing with no evidence",
+              "By studying fossils"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a fossil?",
+            "options": [
+              "A preserved remain or trace of an ancient living thing",
+              "A modern animal bone",
+              "A living dinosaur",
+              "A type of rock with no history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When did dinosaurs live?",
+            "options": [
+              "One hundred years ago",
+              "Next year",
+              "Last year",
+              "Millions of years ago"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are fossils important to scientists?",
+            "options": [
+              "They have no scientific value",
+              "They only show modern animals",
+              "They provide clues about ancient life",
+              "They are always fake"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might a fossil preserve?",
+            "options": [
+              "A video",
+              "The shape of a dinosaur bone",
+              "A photograph",
+              "A live dinosaur sound recording"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Lacrosse: Canadas National Summer Sport",
+        "summary": "Grade 2 Social Studies strand: lacrosse is recognized as Canadas official national summer sport, a fast game played with a small ball and a long stick with a net at the end.",
+        "resourceLabel": "YouTube: Lacrosse: Canadas National Summer Sport",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Lacrosse%3A%20Canadas%20National%20Summer%20Sport%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is lacrosse recognized as in Canada?",
+            "options": [
+              "The national summer sport",
+              "A type of currency",
+              "The national winter sport",
+              "A type of food"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What equipment is used to play lacrosse?",
+            "options": [
+              "A bat and a glove",
+              "A racket and a shuttlecock",
+              "A puck and skates",
+              "A stick with a net at the end"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Is lacrosse usually played in summer or winter?",
+            "options": [
+              "Summer",
+              "Neither season",
+              "Winter",
+              "Only underwater"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these describes lacrosse?",
+            "options": [
+              "A fast game played with a small ball",
+              "A game played only on ice",
+              "A board game",
+              "A slow game played with no ball"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sport is often called Canadas national winter sport, alongside lacrosse as the summer one?",
+            "options": [
+              "Hockey",
+              "Basketball",
+              "Tennis",
+              "Soccer"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "label": "Day 165 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "News Reports: Writing Just the Facts",
+        "summary": "Grade 2 Language strand: a news report shares real events by answering who, what, where, when, and why, using clear facts instead of opinions.",
+        "resourceLabel": "YouTube: News Reports: Writing Just the Facts",
+        "resourceUrl": "https://www.youtube.com/results?search_query=News%20Reports%3A%20Writing%20Just%20the%20Facts%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a news report?",
+            "options": [
+              "To tell a made-up fairy tale",
+              "To give only opinions",
+              "To share real events using facts",
+              "To write a poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which questions does a good news report usually answer?",
+            "options": [
+              "Who, what, where, when, and why",
+              "Only where",
+              "None of these",
+              "Only why"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A news report should be based on ___.",
+            "options": [
+              "Guesses with no evidence",
+              "Opinions only",
+              "Facts",
+              "Made-up events only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these sounds most like a line from a news report?",
+            "options": [
+              "Once upon a time in a faraway land",
+              "Firefighters arrived at the school at nine in the morning",
+              "Roses are red",
+              "I think pizza is the best food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it important for a news report to stick to facts?",
+            "options": [
+              "News reports should confuse readers",
+              "Facts are never useful",
+              "Opinions are always better",
+              "So readers can trust the information"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Comparing How Long Activities Take",
+        "summary": "Grade 2 Math strand: some activities take more time than others, and students can compare durations to decide which activity takes longer or shorter to complete.",
+        "resourceLabel": "YouTube: Time: Comparing How Long Activities Take",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Comparing%20How%20Long%20Activities%20Take%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Which activity most likely takes longer?",
+            "options": [
+              "Tying your shoe",
+              "Brushing your teeth",
+              "Blinking your eyes",
+              "A full school day"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which activity most likely takes a shorter amount of time?",
+            "options": [
+              "Clapping your hands once",
+              "Sleeping overnight",
+              "Watching a movie",
+              "A full school day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might it be useful to compare how long activities take?",
+            "options": [
+              "It removes the need for clocks",
+              "It helps with planning and understanding time",
+              "It has no real use",
+              "It makes time disappear"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is the better estimate for how long it takes to eat breakfast?",
+            "options": [
+              "A few minutes",
+              "A few days",
+              "A few seconds",
+              "A few months"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Comparing durations means deciding which activity takes ___ time.",
+            "options": [
+              "Only the same",
+              "More or less",
+              "Only more",
+              "No"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Mountain Habitats: Life at High Elevations",
+        "summary": "Grade 2 Science strand: mountain habitats are found at high elevations where the air is thinner and colder, and the plants and animals that live there have special adaptations to survive.",
+        "resourceLabel": "YouTube: Mountain Habitats: Life at High Elevations",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Mountain%20Habitats%3A%20Life%20at%20High%20Elevations%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the air like at high elevations on a mountain?",
+            "options": [
+              "Thinner and colder",
+              "Thicker and hotter",
+              "Full of water",
+              "Exactly the same as at sea level"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do mountain animals need special adaptations?",
+            "options": [
+              "To survive the cold and thin air",
+              "All habitats are identical",
+              "Adaptations are never needed",
+              "Mountains have no unique conditions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these might be found on a mountain habitat?",
+            "options": [
+              "Fins for swimming only",
+              "No adaptations at all",
+              "Gills for breathing underwater",
+              "Thick fur to stay warm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "As elevation increases on a mountain, temperature usually ___.",
+            "options": [
+              "Increases",
+              "Decreases",
+              "Disappears",
+              "Stays exactly the same"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A mountain habitat is an example of a habitat shaped mainly by ___.",
+            "options": [
+              "Underground caves",
+              "Ocean currents",
+              "Elevation and climate",
+              "City streets"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Great Lakes: Canadas Freshwater Giants",
+        "summary": "Grade 2 Social Studies strand: the Great Lakes are a group of five enormous freshwater lakes along the border between Canada and the United States, holding a huge share of the worlds fresh water.",
+        "resourceLabel": "YouTube: The Great Lakes: Canadas Freshwater Giants",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Great%20Lakes%3A%20Canadas%20Freshwater%20Giants%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many Great Lakes are there?",
+            "options": [
+              "Seven",
+              "Two",
+              "Five",
+              "Three"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of water do the Great Lakes hold?",
+            "options": [
+              "Frozen water only",
+              "Fresh water",
+              "No water",
+              "Salt water"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where are the Great Lakes located?",
+            "options": [
+              "In the desert",
+              "In the middle of the ocean",
+              "In northern Europe",
+              "Along the border between Canada and the United States"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the Great Lakes considered important?",
+            "options": [
+              "They are located in the desert",
+              "They are very small ponds",
+              "They have no fresh water at all",
+              "They hold a huge share of the worlds fresh water"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "The Great Lakes are an example of ___.",
+            "options": [
+              "A geographic feature",
+              "A kind of currency",
+              "A national holiday",
+              "A type of government"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "label": "Day 166 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Word Sorts: Grouping Words by Spelling Pattern",
+        "summary": "Grade 2 Language strand: a word sort is an activity where students group words that share a spelling pattern, sound, or meaning to notice patterns in language.",
+        "resourceLabel": "YouTube: Word Sorts: Grouping Words by Spelling Pattern",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Word%20Sorts%3A%20Grouping%20Words%20by%20Spelling%20Pattern%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a word sort?",
+            "options": [
+              "A math activity",
+              "Grouping words that share a pattern",
+              "A type of punctuation",
+              "A silent letter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these could be a spelling pattern used in a word sort?",
+            "options": [
+              "A whole paragraph",
+              "A single random letter",
+              "A picture with no words",
+              "Words ending in -at"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do students practise word sorts?",
+            "options": [
+              "To make reading harder",
+              "To avoid learning new words",
+              "To notice patterns and improve spelling",
+              "To remove all patterns from words"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If sorting by vowel sound, which words might belong together?",
+            "options": [
+              "Cake, dog, and cup",
+              "Cake, rain, and day",
+              "Day, cup, and pen",
+              "Rain, dog, and fish"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A word sort can help readers become better at ___.",
+            "options": [
+              "Recognizing spelling patterns",
+              "Forgetting letters",
+              "Avoiding books",
+              "Ignoring sounds"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Ordinal Numbers: From Eleventh to Twentieth",
+        "summary": "Grade 2 Math strand: ordinal numbers describe position or order, and beyond tenth they continue as eleventh, twelfth, thirteenth, all the way to twentieth.",
+        "resourceLabel": "YouTube: Ordinal Numbers: From Eleventh to Twentieth",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%20From%20Eleventh%20to%20Twentieth%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What comes after tenth?",
+            "options": [
+              "Eleventh",
+              "Twentieth",
+              "Twelfth",
+              "Ninth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the ordinal form of the number 15?",
+            "options": [
+              "Fiftieth",
+              "Fiveteenth",
+              "Fifteen",
+              "Fifteenth"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the ordinal form of the number 20?",
+            "options": [
+              "Twoth",
+              "Twentieth",
+              "Twenty",
+              "Twentyth"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Ordinal numbers describe ___.",
+            "options": [
+              "Only colours",
+              "Only shapes",
+              "Only amounts",
+              "Position or order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a runner finishes right after the twelfth place runner, what place do they finish in?",
+            "options": [
+              "Thirteenth",
+              "Twelfth",
+              "Fourteenth",
+              "Eleventh"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Caves: Dark Underground Habitats",
+        "summary": "Grade 2 Science strand: caves are dark underground spaces where little or no sunlight reaches, and the animals that live there, like bats, are often adapted to darkness.",
+        "resourceLabel": "YouTube: Caves: Dark Underground Habitats",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Caves%3A%20Dark%20Underground%20Habitats%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a cave?",
+            "options": [
+              "A type of cloud",
+              "A dark underground space",
+              "A kind of ocean",
+              "A tall mountain peak"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How much sunlight usually reaches deep inside a cave?",
+            "options": [
+              "The same as outside",
+              "Little or none",
+              "A great deal",
+              "More than outside"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which animal is commonly adapted to living in caves?",
+            "options": [
+              "Camels",
+              "Polar bears",
+              "Penguins",
+              "Bats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might animals in caves rely less on eyesight?",
+            "options": [
+              "Because eyesight is never useful",
+              "Because caves have no walls",
+              "Because there is very little light to see by",
+              "Because caves are extremely bright"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A cave is best described as a ___ habitat.",
+            "options": [
+              "Dark, underground",
+              "Hot, sandy",
+              "Icy, open",
+              "Bright, underwater"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Thanksgiving: A Harvest Celebration",
+        "summary": "Grade 2 Social Studies strand: Canadian Thanksgiving is a holiday celebrated in October where families gather to give thanks and share a meal celebrating the harvest.",
+        "resourceLabel": "YouTube: Canadian Thanksgiving: A Harvest Celebration",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Thanksgiving%3A%20A%20Harvest%20Celebration%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does Canadian Thanksgiving celebrate?",
+            "options": [
+              "A hockey championship",
+              "A new school year",
+              "The harvest and giving thanks",
+              "A type of weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which month is Canadian Thanksgiving celebrated?",
+            "options": [
+              "October",
+              "December",
+              "July",
+              "March"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do families often do together on Thanksgiving?",
+            "options": [
+              "Gather and share a meal",
+              "Avoid seeing each other",
+              "Work all day with no breaks",
+              "Go to school"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The word harvest refers to ___.",
+            "options": [
+              "A musical instrument",
+              "Gathering crops that have grown",
+              "A kind of vehicle",
+              "A type of building"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might people give thanks at a harvest celebration?",
+            "options": [
+              "Giving thanks has no purpose",
+              "To appreciate the food and resources they have",
+              "Only farmers may give thanks",
+              "Harvest celebrations never involve thanks"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "label": "Day 167 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Tongue Twisters: Playing With Repeated Sounds",
+        "summary": "Grade 2 Language strand: a tongue twister is a phrase that repeats similar sounds again and again, making it fun and tricky to say quickly and clearly.",
+        "resourceLabel": "YouTube: Tongue Twisters: Playing With Repeated Sounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Tongue%20Twisters%3A%20Playing%20With%20Repeated%20Sounds%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a tongue twister?",
+            "options": [
+              "A type of punctuation",
+              "A silent letter",
+              "A math equation",
+              "A phrase that repeats similar sounds and is tricky to say"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are tongue twisters tricky to say quickly?",
+            "options": [
+              "They repeat very similar sounds close together",
+              "They are written backwards",
+              "They have no sounds at all",
+              "They contain no words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a tongue twister?",
+            "options": [
+              "The sky is blue today",
+              "We went to the park",
+              "She sells seashells by the seashore",
+              "I like apples"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Tongue twisters are closely related to which sound device?",
+            "options": [
+              "Alliteration",
+              "A silent vowel",
+              "A capital letter",
+              "A question mark"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might people enjoy practising tongue twisters?",
+            "options": [
+              "They have no purpose at all",
+              "They are a fun challenge for speaking clearly",
+              "They remove all sounds from words",
+              "They make speaking impossible forever"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Slides, Flips, and Turns",
+        "summary": "Grade 2 Math strand: a slide moves a shape without turning it, a flip creates a mirror image of a shape, and a turn rotates a shape around a point.",
+        "resourceLabel": "YouTube: Geometry: Slides, Flips, and Turns",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Slides%2C%20Flips%2C%20and%20Turns%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What happens to a shape during a slide?",
+            "options": [
+              "It disappears",
+              "It rotates around a point",
+              "It becomes a mirror image",
+              "It moves without turning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to a shape during a flip?",
+            "options": [
+              "It only moves sideways",
+              "It becomes a mirror image",
+              "It shrinks smaller",
+              "It grows larger"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to a shape during a turn?",
+            "options": [
+              "It disappears completely",
+              "It becomes a mirror image",
+              "It changes colour",
+              "It rotates around a point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these describes a slide?",
+            "options": [
+              "Moving a shape straight across without rotating it",
+              "Spinning a shape in a circle",
+              "Flipping a shape upside down",
+              "Erasing a shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Slides, flips, and turns are all examples of ___.",
+            "options": [
+              "Units of measurement",
+              "Ways to move a shape",
+              "Types of numbers",
+              "Kinds of graphs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Glaciers: Slow-Moving Rivers of Ice",
+        "summary": "Grade 2 Science strand: a glacier is a huge, slow-moving mass of ice that forms over many years from packed snow, and glaciers can carve valleys as they move.",
+        "resourceLabel": "YouTube: Glaciers: Slow-Moving Rivers of Ice",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Glaciers%3A%20Slow-Moving%20Rivers%20of%20Ice%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a glacier?",
+            "options": [
+              "A fast-flowing river of water",
+              "A huge, slow-moving mass of ice",
+              "A warm ocean current",
+              "A type of cloud"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a glacier form?",
+            "options": [
+              "From melted rock",
+              "From ocean waves",
+              "From packed snow building up over many years",
+              "From volcanic ash"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can a moving glacier do to the land beneath it?",
+            "options": [
+              "Create no change at all",
+              "Make the land warmer",
+              "Carve out valleys",
+              "Turn the land into sand instantly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do glaciers move quickly or slowly?",
+            "options": [
+              "Very quickly, like a race car",
+              "Instantly",
+              "Very slowly",
+              "They never move"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Glaciers are made mostly of ___.",
+            "options": [
+              "Packed ice and snow",
+              "Rock",
+              "Sand",
+              "Liquid water only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Public Transit: Getting Around Our Communities",
+        "summary": "Grade 2 Social Studies strand: public transit includes buses, subways, and trains that carry many people at once, helping communities move around without everyone needing a car.",
+        "resourceLabel": "YouTube: Public Transit: Getting Around Our Communities",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Public%20Transit%3A%20Getting%20Around%20Our%20Communities%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is public transit?",
+            "options": [
+              "A walking path",
+              "A kind of bicycle only",
+              "A type of private car",
+              "Buses, subways, and trains that carry many people"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is public transit helpful for communities?",
+            "options": [
+              "It has no benefit at all",
+              "It helps people move around without needing a car",
+              "It replaces the need for roads",
+              "It only helps one person at a time"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of public transit?",
+            "options": [
+              "A city bus",
+              "A private airplane",
+              "A personal bicycle",
+              "A single family car"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many people can public transit typically carry at once?",
+            "options": [
+              "Only two people",
+              "No people at all",
+              "Many people",
+              "Only one person"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using public transit instead of individual cars can help reduce ___.",
+            "options": [
+              "The number of communities",
+              "The size of a city",
+              "Traffic and pollution",
+              "The number of roads needed instantly"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "label": "Day 168 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Comparing Different Versions of the Same Story",
+        "summary": "Grade 2 Language strand: many well-known stories, like fairy tales, have different versions told by different authors or cultures, and comparing them shows how details, characters, or endings can change.",
+        "resourceLabel": "YouTube: Comparing Different Versions of the Same Story",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Comparing%20Different%20Versions%20of%20the%20Same%20Story%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What can be different between two versions of the same story?",
+            "options": [
+              "Only the page numbers",
+              "Nothing, versions are always identical",
+              "Details, characters, or the ending",
+              "The story stops existing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might different cultures tell their own version of a familiar story?",
+            "options": [
+              "Only one version is ever allowed",
+              "Stories can never change",
+              "Cultures never share stories",
+              "To reflect their own traditions and ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "When comparing two story versions, what might a reader look for?",
+            "options": [
+              "Only the cover colour",
+              "Similarities and differences in plot or characters",
+              "Only the price of the book",
+              "Only the number of pages"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Comparing story versions helps readers understand ___.",
+            "options": [
+              "That stories never have characters",
+              "That comparing is not useful",
+              "How the same idea can be told in different ways",
+              "That only one story can ever exist"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is an example of comparing story versions?",
+            "options": [
+              "Noticing how two tellings of the same fairy tale have different endings",
+              "Refusing to read more than one book",
+              "Reading a single book once",
+              "Ignoring every story detail"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Canadian Coin Values — Nickel, Dime, Quarter, Loonie, and Toonie",
+        "summary": "Grade 2 Math strand: Canadian coins have different names and values, including the nickel worth five cents, the dime worth ten cents, the quarter worth twenty-five cents, the loonie worth one dollar, and the toonie worth two dollars.",
+        "resourceLabel": "YouTube: Money: Canadian Coin Values — Nickel, Dime, Quarter, Loonie, and Toonie",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Canadian%20Coin%20Values%20%E2%80%94%20Nickel%2C%20Dime%2C%20Quarter%2C%20Loonie%2C%20and%20Toonie%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How much is a nickel worth?",
+            "options": [
+              "Five cents",
+              "Ten cents",
+              "One dollar",
+              "Twenty-five cents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How much is a dime worth?",
+            "options": [
+              "Five cents",
+              "Two dollars",
+              "One dollar",
+              "Ten cents"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How much is a quarter worth?",
+            "options": [
+              "One dollar",
+              "Twenty-five cents",
+              "Fifty cents",
+              "Ten cents"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the value of a loonie?",
+            "options": [
+              "One dollar",
+              "Twenty-five cents",
+              "Two dollars",
+              "Ten cents"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the value of a toonie?",
+            "options": [
+              "Five cents",
+              "Two dollars",
+              "One dollar",
+              "Twenty-five cents"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earthquakes: When the Earth Shakes",
+        "summary": "Grade 2 Science strand: an earthquake happens when the ground suddenly shakes because of movement deep within the Earths crust, sometimes caused by shifting rock along a fault.",
+        "resourceLabel": "YouTube: Earthquakes: When the Earth Shakes",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Earthquakes%3A%20When%20the%20Earth%20Shakes%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is an earthquake?",
+            "options": [
+              "A change in air temperature",
+              "A kind of ocean wave",
+              "A type of storm",
+              "A sudden shaking of the ground"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can cause an earthquake?",
+            "options": [
+              "Wind blowing over the ocean",
+              "Trees growing tall",
+              "Movement of rock along a fault deep in the Earth",
+              "Rain falling on a mountain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where does the movement that causes an earthquake usually happen?",
+            "options": [
+              "High in the sky",
+              "On the surface of the moon",
+              "In the ocean waves",
+              "Deep within the Earths crust"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scientists study earthquakes?",
+            "options": [
+              "To make earthquakes happen more often",
+              "To understand them and help keep people safe",
+              "Earthquakes are not worth studying",
+              "To stop the Earth from having a crust"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "An earthquake is best described as ___.",
+            "options": [
+              "A slow-moving cloud",
+              "A calm, still day",
+              "A sudden shaking of the ground",
+              "A gentle breeze"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Farmers Markets: Buying Food Grown Close to Home",
+        "summary": "Grade 2 Social Studies strand: a farmers market is a place where local farmers sell fruits, vegetables, and other food directly to shoppers, often close to where the food was grown.",
+        "resourceLabel": "YouTube: Farmers Markets: Buying Food Grown Close to Home",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Farmers%20Markets%3A%20Buying%20Food%20Grown%20Close%20to%20Home%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a farmers market?",
+            "options": [
+              "A kind of factory",
+              "A place where local farmers sell food directly to shoppers",
+              "A type of grocery store chain",
+              "A school event"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might you buy at a farmers market?",
+            "options": [
+              "Only furniture",
+              "Fruits and vegetables",
+              "Only clothing",
+              "Only electronics"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might people choose to shop at a farmers market?",
+            "options": [
+              "Farmers markets never sell food",
+              "Farmers markets only sell toys",
+              "To buy food grown close to home",
+              "It is always more expensive than any option"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Who typically sells food at a farmers market?",
+            "options": [
+              "Only online stores",
+              "Only restaurants",
+              "Local farmers",
+              "Only large international companies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Buying food from a farmers market can support ___.",
+            "options": [
+              "Local farmers and the community",
+              "Farmers in other countries only",
+              "Only large corporations",
+              "No one at all"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "label": "Day 169 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Environmental Print: Reading Signs and Logos Around Us",
+        "summary": "Grade 2 Language strand: environmental print is the words and symbols we see in everyday life, like stop signs, store logos, and food labels, that we often recognize without sounding out every letter.",
+        "resourceLabel": "YouTube: Environmental Print: Reading Signs and Logos Around Us",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Environmental%20Print%3A%20Reading%20Signs%20and%20Logos%20Around%20Us%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is environmental print?",
+            "options": [
+              "A type of punctuation",
+              "A kind of math problem",
+              "A silent letter",
+              "Words and symbols seen in everyday life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is an example of environmental print?",
+            "options": [
+              "A blank page",
+              "An empty box",
+              "A stop sign",
+              "A silent room"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why can young readers often recognize environmental print quickly?",
+            "options": [
+              "It is always written in tiny letters",
+              "It has no meaning",
+              "It never repeats",
+              "They see it often and remember its shape and colour"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Environmental print can be found ___.",
+            "options": [
+              "All around our daily surroundings",
+              "Nowhere at all",
+              "Only in outer space",
+              "Only inside books"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Reading environmental print is a useful first step toward ___.",
+            "options": [
+              "Forgetting the alphabet",
+              "Avoiding all print",
+              "Ignoring signs",
+              "Becoming a confident reader"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Writing Numbers in Word Form",
+        "summary": "Grade 2 Math strand: numbers can be written using digits, like 342, or in word form, like three hundred forty-two, spelling out the value in words.",
+        "resourceLabel": "YouTube: Number Sense: Writing Numbers in Word Form",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Writing%20Numbers%20in%20Word%20Form%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is 342 written in word form?",
+            "options": [
+              "Three forty two hundred",
+              "Thirty-four two",
+              "Three hundred and forty",
+              "Three hundred forty-two"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 25 written in word form?",
+            "options": [
+              "Twenty-five",
+              "Fifty-two",
+              "Two hundred five",
+              "Twenty and five ones"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one hundred six written using digits?",
+            "options": [
+              "160",
+              "16",
+              "106",
+              "116"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Writing numbers in word form means writing them ___.",
+            "options": [
+              "Using only symbols",
+              "Using only digits",
+              "Using only pictures",
+              "Spelled out using words"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 90 written in word form?",
+            "options": [
+              "Nine",
+              "Ninety",
+              "Nine hundred",
+              "Nineteen"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ants: Insect Colonies at Work",
+        "summary": "Grade 2 Science strand: ants are insects that live and work together in large groups called colonies, sharing jobs like gathering food, building tunnels, and caring for young ants.",
+        "resourceLabel": "YouTube: Ants: Insect Colonies at Work",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Ants%3A%20Insect%20Colonies%20at%20Work%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a group of ants living together called?",
+            "options": [
+              "A herd",
+              "A colony",
+              "A flock",
+              "A pod"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of animal is an ant?",
+            "options": [
+              "A reptile",
+              "A mammal",
+              "An insect",
+              "A bird"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which job might ants share in their colony?",
+            "options": [
+              "Swimming in the ocean",
+              "Flying to another planet",
+              "Breathing underwater",
+              "Gathering food"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do ants work together in a colony?",
+            "options": [
+              "To live completely alone",
+              "Ants never work together",
+              "To share jobs and support the whole group",
+              "To avoid finding food"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Ants build underground ___ as part of their colony.",
+            "options": [
+              "Tunnels",
+              "Coral reefs",
+              "Nests made of ice",
+              "Bird nests"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The CN Tower: A Famous Canadian Landmark",
+        "summary": "Grade 2 Social Studies strand: the CN Tower is a very tall tower in Toronto, once the tallest freestanding structure in the world, known for its observation decks and views of the city.",
+        "resourceLabel": "YouTube: The CN Tower: A Famous Canadian Landmark",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20CN%20Tower%3A%20A%20Famous%20Canadian%20Landmark%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In which city is the CN Tower located?",
+            "options": [
+              "Ottawa",
+              "Montreal",
+              "Toronto",
+              "Vancouver"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What was the CN Tower once known as?",
+            "options": [
+              "A kind of park",
+              "A type of bridge",
+              "The tallest freestanding structure in the world",
+              "The smallest tower in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can visitors do at the CN Tower?",
+            "options": [
+              "View the city from its observation decks",
+              "Ski down the tower",
+              "Go swimming in a pool at the top",
+              "Fish for salmon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The CN Tower is an example of a Canadian ___.",
+            "options": [
+              "Prairie",
+              "Ocean",
+              "Landmark",
+              "River"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a tower like the CN Tower attract visitors?",
+            "options": [
+              "It cannot be seen or visited",
+              "It has no notable features",
+              "It is invisible from the ground",
+              "Its height offers impressive views of the city"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "label": "Day 170 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Poetry Forms, Grammar, and New Writing Genres",
+        "summary": "Grade 2 Language strand review: students revisit riddles, haiku, shape poems, possessive pronouns, news reports, word sorts, tongue twisters, comparing story versions, and environmental print.",
+        "resourceLabel": "YouTube: Language Review: Poetry Forms, Grammar, and New Writing Genres",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Poetry%20Forms%2C%20Grammar%2C%20and%20New%20Writing%20Genres%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a riddle?",
+            "options": [
+              "A playful question with a clue-filled answer",
+              "A math equation",
+              "A silent letter",
+              "A true news report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many lines does a haiku usually have?",
+            "options": [
+              "3",
+              "1",
+              "10",
+              "5"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes a shape poem special?",
+            "options": [
+              "It must rhyme perfectly",
+              "It has no words at all",
+              "The words are arranged to form the outline of the topic",
+              "It has exactly one line"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a possessive pronoun show?",
+            "options": [
+              "An action",
+              "A feeling only",
+              "A question",
+              "Who something belongs to"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the main purpose of a news report?",
+            "options": [
+              "To tell a made-up fairy tale",
+              "To share real events using facts",
+              "To write a poem",
+              "To give only opinions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Fractions, Data, Time, and Number Sense",
+        "summary": "Grade 2 Math strand review: students revisit equal parts of a whole, unit fractions, pictographs with a key, calendars, comparing durations, ordinal numbers past ten, slides and flips and turns, Canadian coin values, and writing numbers in word form.",
+        "resourceLabel": "YouTube: Math Review: Fractions, Data, Time, and Number Sense",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Fractions%2C%20Data%2C%20Time%2C%20and%20Number%20Sense%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "For a fraction to be shown correctly, a shape must be divided into ___.",
+            "options": [
+              "Random sized pieces",
+              "Equal parts",
+              "Different sized pieces",
+              "Only two pieces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a unit fraction?",
+            "options": [
+              "A whole number",
+              "A fraction with a denominator of one",
+              "A fraction with no parts",
+              "A fraction with a numerator of one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a key on a pictograph tell the reader?",
+            "options": [
+              "The title of the graph only",
+              "The colour of the picture",
+              "Nothing important",
+              "How many items each picture represents"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many days are in one week?",
+            "options": [
+              "30",
+              "10",
+              "7",
+              "5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to a shape during a slide?",
+            "options": [
+              "It becomes a mirror image",
+              "It disappears",
+              "It rotates around a point",
+              "It moves without turning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Animals, Habitats, and Earth Events",
+        "summary": "Grade 2 Science strand review: students revisit earthworms, octopuses, turtles, dinosaurs and fossils, mountain habitats, caves, glaciers, earthquakes, and ants.",
+        "resourceLabel": "YouTube: Science Review: Animals, Habitats, and Earth Events",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Habitats%2C%20and%20Earth%20Events%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "Where do earthworms usually live?",
+            "options": [
+              "In the ocean",
+              "In trees",
+              "In the sky",
+              "Underground in soil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many arms does an octopus have?",
+            "options": [
+              "Six",
+              "Four",
+              "Two",
+              "Eight"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What protects a turtles soft body?",
+            "options": [
+              "Scales alone with no shell",
+              "Fur",
+              "Feathers",
+              "A hard shell"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do scientists learn about dinosaurs today?",
+            "options": [
+              "By watching them in person",
+              "By guessing with no evidence",
+              "By studying fossils",
+              "By reading old newspapers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an earthquake?",
+            "options": [
+              "A type of storm",
+              "A sudden shaking of the ground",
+              "A change in air temperature",
+              "A kind of ocean wave"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Government, Culture, and Canadian Places",
+        "summary": "Grade 2 Social Studies strand review: students revisit the Supreme Court of Canada, Canadas national motto, the poppy, lacrosse, the Great Lakes, Canadian Thanksgiving, public transit, farmers markets, and the CN Tower.",
+        "resourceLabel": "YouTube: Social Studies Review: Government, Culture, and Canadian Places",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Government%2C%20Culture%2C%20and%20Canadian%20Places%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "A city council",
+              "A local library",
+              "A type of school",
+              "The highest court in the country"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does Canadas national motto mean in English?",
+            "options": [
+              "From sea to sea",
+              "From north to south only",
+              "From city to city",
+              "From coast to mountain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the poppy symbolize?",
+            "options": [
+              "Remembrance of those who served and died in wars",
+              "A community sport",
+              "A kind of weather",
+              "A type of currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is lacrosse recognized as in Canada?",
+            "options": [
+              "A type of food",
+              "A type of currency",
+              "The national winter sport",
+              "The national summer sport"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In which city is the CN Tower located?",
+            "options": [
+              "Vancouver",
+              "Ottawa",
+              "Montreal",
+              "Toronto"
             ],
             "answer": 3
           }

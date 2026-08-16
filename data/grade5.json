@@ -12603,6 +12603,7 @@
         "summary": "Grade 5 Language strand: parallel structure means using the same grammatical pattern for items in a list or comparison, such as “I like reading, writing, and drawing.”",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=2l2FgUrln1A",
         "quiz": [
           {
             "q": "Parallel structure means using ___.",
@@ -12662,6 +12663,7 @@
         "summary": "Grade 5 Math strand: a scale drawing represents a real object at a smaller or larger size, and the scale factor tells how much the drawing has been reduced or enlarged.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Q1F3T_okqbU",
         "quiz": [
           {
             "q": "A scale drawing represents a real object ___.",
@@ -12721,6 +12723,7 @@
         "summary": "Grade 5 Science strand: the immune system is the body’s defence network, using white blood cells and other tools to fight off germs and illness.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=PSRJfaAYkW4",
         "quiz": [
           {
             "q": "The immune system’s main job is to ___.",
@@ -12780,6 +12783,7 @@
         "summary": "Grade 5 Social Studies strand: Canada has historically contributed peacekeeping forces to United Nations missions aimed at maintaining peace and stability in conflict areas around the world.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=M1xHm5FFohU",
         "quiz": [
           {
             "q": "Peacekeeping generally involves ___.",
@@ -38964,6 +38968,2426 @@
               "The Bank of Canada",
               "The Supreme Court",
               "Elections Canada"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 161,
+    "label": "Day 161 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Comparative and Superlative Adjectives",
+        "summary": "Grade 5 Language strand: a comparative adjective compares two things, usually adding -er or the word more, while a superlative adjective compares three or more things, usually adding -est or the word most.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What does a comparative adjective do?",
+            "options": [
+              "Compares three or more things",
+              "Compares two things",
+              "Shows an action",
+              "Names a single object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a superlative adjective do?",
+            "options": [
+              "Replaces a noun",
+              "Compares three or more things",
+              "Compares only two things",
+              "Joins two sentences"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence uses a comparative adjective correctly?",
+            "options": [
+              "This book is longest than that one.",
+              "This book is more longest than that one.",
+              "This book is longer than that one.",
+              "This book is long than that one."
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses a superlative adjective correctly?",
+            "options": [
+              "She is more tall in the class.",
+              "She is the taller student in the class.",
+              "She is tall than the class.",
+              "She is the tallest student in the class."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer choose more beautiful instead of beautifuller?",
+            "options": [
+              "Longer adjectives usually use more rather than an -er ending",
+              "Adjectives never change form when comparing things",
+              "This concept has no connection to grammar",
+              "Every adjective must always add -er"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Classifying Polygons — Regular and Irregular",
+        "summary": "Grade 5 Math strand: a regular polygon has all sides and all angles equal, while an irregular polygon has sides or angles that are not all equal.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is true about every side and angle of a regular polygon?",
+            "options": [
+              "They are all equal",
+              "Only the sides are equal, never the angles",
+              "A regular polygon has no straight sides",
+              "They are always different"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What describes an irregular polygon?",
+            "options": [
+              "Its sides or angles are not all equal",
+              "All of its sides and angles are always equal",
+              "It always has exactly three sides",
+              "It can never be drawn on paper"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which shape is an example of a regular polygon?",
+            "options": [
+              "A shape with sides of different lengths",
+              "A triangle with three different side lengths",
+              "A square",
+              "A rectangle that is not a square"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a rectangle that is not a square be considered irregular?",
+            "options": [
+              "Its four angles are equal but its sides are not all the same length",
+              "A rectangle can never be classified as a polygon",
+              "This concept has no connection to geometry",
+              "All of its sides and angles are exactly equal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is classifying polygons as regular or irregular useful in geometry?",
+            "options": [
+              "This concept has no relevance to math",
+              "It helps describe and compare the properties of different shapes",
+              "Every polygon is automatically regular",
+              "Classifying shapes has no purpose in geometry"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ocean Zones: Sunlight, Twilight, and Midnight Layers of the Sea",
+        "summary": "Grade 5 Science strand: the ocean is divided into layers based on how much sunlight reaches them, from the bright sunlight zone near the surface to the dark midnight zone in the deep sea.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the sunlight zone of the ocean?",
+            "options": [
+              "The deepest, darkest part of the ocean",
+              "A layer found only in freshwater lakes",
+              "The layer with the coldest water temperature always",
+              "The uppermost layer where enough light reaches for photosynthesis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to light as you move deeper into the twilight zone?",
+            "options": [
+              "Light becomes dim and eventually disappears",
+              "Light becomes brighter the deeper you go",
+              "Light stays exactly the same at every depth",
+              "This concept has no connection to the ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the midnight zone of the ocean?",
+            "options": [
+              "This concept has no relevance to ocean science",
+              "The brightest layer near the surface",
+              "The deep, dark layer that receives no sunlight at all",
+              "A shallow layer found only near beaches"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might organisms in the midnight zone rely on bioluminescence?",
+            "options": [
+              "Since no sunlight reaches that depth, producing their own light offers an advantage",
+              "Bioluminescence has no connection to deep-ocean life",
+              "This concept has no relevance to science",
+              "Sunlight is always brightest in the midnight zone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do scientists study the different zones of the ocean?",
+            "options": [
+              "Ocean zones provide no useful scientific information",
+              "To better understand how light, pressure, and temperature affect ocean life",
+              "This concept has no connection to Earth science",
+              "Every ocean zone has the exact same conditions"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Federal Cabinet and the Role of Ministers",
+        "summary": "Grade 5 Social Studies strand: the federal cabinet is a group of ministers, chosen by the prime minister, who each oversee a specific government department and help decide government policy.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Who chooses the members of the federal cabinet?",
+            "options": [
+              "The prime minister",
+              "The Supreme Court",
+              "The Governor General alone",
+              "The Chief Electoral Officer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a cabinet minister typically oversee?",
+            "options": [
+              "A single school in one city",
+              "A professional sports league",
+              "A private business with no government connection",
+              "A specific government department"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one main role of the federal cabinet as a group?",
+            "options": [
+              "Managing the affairs of individual municipalities only",
+              "Helping decide government policy",
+              "Selecting the winners of national sports championships",
+              "Deciding the outcome of court cases"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a prime minister choose ministers with different areas of expertise?",
+            "options": [
+              "Different ministers can focus on different policy areas such as health or finance",
+              "Every minister must focus on the exact same department",
+              "This concept has no relevance to Canadian government",
+              "Expertise has no connection to being a cabinet minister"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the cabinet considered an important part of the federal government?",
+            "options": [
+              "This concept has no connection to social studies",
+              "The cabinet only exists at the municipal level",
+              "It helps develop and carry out government policy across many departments",
+              "The cabinet has no role in Canadian government at all"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "label": "Day 162 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Weather Report",
+        "summary": "Grade 5 Language strand: a weather report presents current conditions and a forecast using clear, precise language and relevant details such as temperature, precipitation, and wind.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a weather report?",
+            "options": [
+              "To list random facts unrelated to weather",
+              "To tell a fictional story with no factual details",
+              "To present current conditions and a forecast clearly",
+              "To describe an imaginary place with no real information"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these details would most likely appear in a weather report?",
+            "options": [
+              "Expected temperature and chance of precipitation",
+              "The plot of a favourite movie",
+              "A list of unrelated historical dates",
+              "A description of a fictional character"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a weather report use precise numbers, such as a temperature in degrees?",
+            "options": [
+              "Precise numbers help readers understand exactly what to expect",
+              "This concept has no connection to writing",
+              "Vague language is always clearer than precise numbers",
+              "Precise numbers are never useful in a weather report"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer organize a weather report from todays conditions to the upcoming forecast?",
+            "options": [
+              "Order never matters when writing a weather report",
+              "A weather report should never be organized in any order",
+              "A clear order helps readers follow the information logically",
+              "This concept has no relevance to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a weather report considered a useful type of nonfiction writing?",
+            "options": [
+              "This concept has no relevance to writing",
+              "It communicates practical, factual information that affects daily plans",
+              "A weather report is always a form of fiction",
+              "It has no connection to peoples daily lives"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Multiplying Decimal Numbers by Two-Digit Whole Numbers",
+        "summary": "Grade 5 Math strand: multiplying a decimal number by a two-digit whole number can be done by multiplying as if both numbers were whole numbers, then placing the decimal point correctly in the product.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is one strategy for multiplying a decimal by a two-digit whole number?",
+            "options": [
+              "Ignore the decimal point completely",
+              "Add the two numbers together instead of multiplying",
+              "Always round both numbers to the nearest ten first",
+              "Multiply as if both numbers were whole numbers, then place the decimal point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is 2.5 multiplied by 12?",
+            "options": [
+              "25",
+              "32",
+              "30",
+              "20"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 3.4 multiplied by 15?",
+            "options": [
+              "54",
+              "45",
+              "48",
+              "51"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to estimate before multiplying a decimal by a two-digit number?",
+            "options": [
+              "Estimation is never useful when multiplying decimals",
+              "It provides a reasonable check for where the decimal point belongs in the answer",
+              "This concept has no connection to number sense",
+              "Estimating always gives the exact same value as the real product"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 1.2 multiplied by 20?",
+            "options": [
+              "26",
+              "22",
+              "20",
+              "24"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Mechanical Efficiency: Why Machines Are Never 100 Percent Efficient",
+        "summary": "Grade 5 Science strand: mechanical efficiency compares the useful work a machine produces to the total energy put into it, and some energy is always lost to friction or heat, so no machine is perfectly efficient.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does mechanical efficiency compare?",
+            "options": [
+              "The useful work a machine produces to the total energy put into it",
+              "The weight of a machine to its price",
+              "The colour of a machine to its size",
+              "This concept has no connection to machines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is no machine perfectly efficient?",
+            "options": [
+              "Efficiency has no connection to energy loss",
+              "Machines always convert all input energy into useful work",
+              "This concept has no relevance to science",
+              "Some energy is always lost, often to friction or heat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What commonly causes energy loss in a moving machine?",
+            "options": [
+              "Machines never lose any energy while running",
+              "This concept has no connection to mechanical efficiency",
+              "Friction between moving parts",
+              "Energy loss only happens in machines with no moving parts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might engineers try to reduce friction in a machines design?",
+            "options": [
+              "Friction always improves the efficiency of a machine",
+              "Reducing friction has no effect on efficiency at all",
+              "Reducing friction can improve efficiency by wasting less energy as heat",
+              "This concept has no relevance to engineering"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding mechanical efficiency useful when designing new machines?",
+            "options": [
+              "Every machine is automatically perfectly efficient by design",
+              "This concept has no relevance to science",
+              "It helps engineers create machines that waste less energy and perform better",
+              "Mechanical efficiency has no connection to designing machines"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Speaker of the House of Commons",
+        "summary": "Grade 5 Social Studies strand: the Speaker of the House of Commons is a Member of Parliament elected by other MPs to preside over debates, maintain order, and ensure the rules of Parliament are followed.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Who elects the Speaker of the House of Commons?",
+            "options": [
+              "The Prime Minister alone",
+              "Other Members of Parliament",
+              "The Governor General alone",
+              "The Supreme Court"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a main responsibility of the Speaker?",
+            "options": [
+              "Leading the Canadian Armed Forces",
+              "Writing every federal law personally",
+              "Managing the countrys currency",
+              "Presiding over debates and maintaining order"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for the Speaker to remain impartial during debates?",
+            "options": [
+              "Impartiality has no connection to how debates are run",
+              "Impartiality helps ensure fair and orderly discussion among all Members of Parliament",
+              "The Speaker is always a member of the governing party alone",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might the Speaker do if Members of Parliament are not following the rules of debate?",
+            "options": [
+              "Cancel the entire session of Parliament immediately",
+              "Call them to order and enforce the rules of Parliament",
+              "This concept has no connection to Canadian government",
+              "Ignore any rule-breaking completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the House of Commons need someone in the role of Speaker?",
+            "options": [
+              "A Speaker has no useful role in Parliament",
+              "Debates could never be organized without complete chaos regardless of a Speaker",
+              "To help debates run fairly, calmly, and according to established rules",
+              "This concept has no relevance to Canadian government"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "label": "Day 163 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Understanding Circular and Frame Narratives",
+        "summary": "Grade 5 Language strand: a circular narrative ends where it began, bringing the story back to its starting point, while a frame narrative places one story inside another, often introduced by a narrator at the beginning and returned to at the end.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What happens in a circular narrative?",
+            "options": [
+              "This concept has no connection to reading",
+              "The story ends where it began",
+              "The story always ends in a completely different place with no connection",
+              "The story never has a beginning or an end"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a frame narrative?",
+            "options": [
+              "A story told only through pictures",
+              "A story placed inside another story",
+              "A story with no beginning or ending",
+              "A story with no characters at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use a frame narrative structure?",
+            "options": [
+              "This concept has no connection to reading",
+              "Frame narratives are never used to add context",
+              "A frame narrative always removes the need for a narrator",
+              "It can provide context for the inner story through an outer narrator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a circular narrative structure feel satisfying to a reader?",
+            "options": [
+              "Returning to the starting point can show how much has changed or been learned",
+              "Circular narratives never provide readers with any sense of closure",
+              "A circular narrative always confuses the reader with no purpose",
+              "This concept has no relevance to reading"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might signal the end of the outer story in a frame narrative?",
+            "options": [
+              "The story simply stopping without any conclusion",
+              "This concept has no connection to narrative structure",
+              "The narrator returning to close out the story after the inner story ends",
+              "A frame narrative never includes an outer story"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Understanding and Using the Distributive Property",
+        "summary": "Grade 5 Math strand: the distributive property states that multiplying a number by a sum is the same as multiplying the number by each addend separately and then adding the products, such as 4 times the quantity 3 plus 5 equals 4 times 3 plus 4 times 5.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does the distributive property allow you to do?",
+            "options": [
+              "Ignore parentheses in an expression completely",
+              "Multiply a number by a sum by multiplying each addend separately, then adding",
+              "Divide a number by zero",
+              "Subtract a number from itself"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Using the distributive property, what is 3 times the quantity 4 plus 2?",
+            "options": [
+              "16",
+              "14",
+              "18",
+              "20"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using the distributive property, what is 5 times the quantity 6 plus 3?",
+            "options": [
+              "40",
+              "50",
+              "45",
+              "35"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the distributive property be useful when multiplying mentally?",
+            "options": [
+              "It always makes multiplication problems more difficult to solve",
+              "The distributive property only works with subtraction, never addition",
+              "It can break a harder multiplication problem into two simpler ones",
+              "This concept has no connection to algebra"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Using the distributive property, what is 6 times the quantity 2 plus 5?",
+            "options": [
+              "42",
+              "36",
+              "40",
+              "35"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemical Changes in Cooking: How Baking Soda Reacts With Acids",
+        "summary": "Grade 5 Science strand: baking soda is a base that reacts with acids, such as vinegar or lemon juice, producing carbon dioxide gas bubbles in a chemical change often used in cooking and baking.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of substance is baking soda?",
+            "options": [
+              "A metal",
+              "A base",
+              "A gas with no other properties",
+              "A type of sugar"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What gas is produced when baking soda reacts with an acid like vinegar?",
+            "options": [
+              "Helium",
+              "Nitrogen",
+              "Pure oxygen",
+              "Carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the reaction between baking soda and vinegar considered a chemical change?",
+            "options": [
+              "No new substance is ever produced in this reaction",
+              "A new substance, carbon dioxide gas, is produced that was not there before",
+              "This concept has no connection to chemical changes",
+              "The reaction only changes the shape of the baking soda"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might bakers add baking soda to a batter along with an acidic ingredient?",
+            "options": [
+              "Baking soda has no effect on batter at all",
+              "The reaction produces gas bubbles that help the batter rise",
+              "This concept has no connection to cooking or baking",
+              "Baking soda always makes a batter denser and heavier"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might you observe if you mix baking soda with vinegar?",
+            "options": [
+              "This concept has no relevance to science",
+              "Fizzing and bubbling as gas is released",
+              "No change of any kind would ever occur",
+              "The mixture would instantly freeze solid"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Municipal Bylaws: Rules That Shape Local Communities",
+        "summary": "Grade 5 Social Studies strand: municipal bylaws are local laws passed by city or town councils that regulate matters such as noise, parking, property standards, and animal control within a community.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Who passes municipal bylaws?",
+            "options": [
+              "A private company",
+              "City or town councils",
+              "The federal Parliament",
+              "The Supreme Court"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might a municipal bylaw regulate?",
+            "options": [
+              "Federal income tax rates",
+              "Noise levels in a neighbourhood",
+              "National immigration policy",
+              "International trade agreements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a community have a bylaw about noise levels at night?",
+            "options": [
+              "To help residents get rest and maintain a peaceful neighbourhood",
+              "Bylaws are never related to noise in a community",
+              "This concept has no relevance to local government",
+              "Noise bylaws have no connection to community life"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might happen if a resident does not follow a municipal bylaw?",
+            "options": [
+              "They could face a fine or other penalty set by the municipality",
+              "Only the federal government can enforce a municipal bylaw",
+              "Nothing would ever happen since bylaws are optional",
+              "This concept has no connection to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are municipal bylaws considered an important part of local government?",
+            "options": [
+              "They help address specific needs and concerns within a community",
+              "This concept has no relevance to social studies",
+              "Bylaws have no real effect on how a community functions",
+              "Bylaws are identical in every municipality across Canada"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "label": "Day 164 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Building Words with Multiple Affixes",
+        "summary": "Grade 5 Language strand: some words combine more than one prefix or suffix, such as unbelievably, which adds the prefix un- and the suffixes -able and -ly to the root word believe.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What does it mean when a word has multiple affixes?",
+            "options": [
+              "It contains no vowels",
+              "It has no root word at all",
+              "It combines more than one prefix or suffix",
+              "It uses only capital letters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which word combines a prefix and two suffixes?",
+            "options": [
+              "Run",
+              "Happy",
+              "Cat",
+              "Unbelievably"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the word unbelievably, what is the root word?",
+            "options": [
+              "Un",
+              "Believe",
+              "Ably",
+              "Unbelieve"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding multiple affixes help a reader figure out a difficult word?",
+            "options": [
+              "Affixes never provide any clues about a words meaning",
+              "A word with multiple affixes always has no meaning at all",
+              "This concept has no connection to vocabulary",
+              "Breaking a word into its root and affixes can reveal its meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which word is built using a prefix and a suffix together?",
+            "options": [
+              "Jump",
+              "Blue",
+              "Tree",
+              "Disagreement"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Estimating and Comparing Mass Using a Balance Scale",
+        "summary": "Grade 5 Math strand: a balance scale compares the mass of two objects by showing which side is heavier, and can be used with standard masses to estimate and measure the mass of an object.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does a balance scale compare?",
+            "options": [
+              "The temperature of two objects",
+              "The length of two objects",
+              "The mass of two objects",
+              "The colour of two objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If one side of a balance scale tips downward, what does that indicate?",
+            "options": [
+              "The scale is broken and cannot be trusted",
+              "That side holds the object with greater mass",
+              "That side holds the object with less mass",
+              "Both sides always have equal mass"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can standard masses be used with a balance scale?",
+            "options": [
+              "Standard masses are never used with a balance scale",
+              "Standard masses can only measure length, not mass",
+              "They can be added to one side until the scale balances, showing the unknown mass",
+              "This concept has no connection to measurement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might estimating mass before measuring it be a useful strategy?",
+            "options": [
+              "This concept has no connection to measurement",
+              "Estimation is never useful when measuring mass",
+              "It gives a reasonable expectation to compare the actual measurement against",
+              "Estimating mass always matches the exact measurement perfectly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What unit might commonly be used when measuring mass with a balance scale?",
+            "options": [
+              "Metres only",
+              "Litres only",
+              "Grams or kilograms",
+              "Degrees Celsius"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Weather: How Barometric Pressure Helps Predict Storms",
+        "summary": "Grade 5 Science strand: barometric pressure is the weight of the air pressing down on Earths surface, and a falling barometric pressure often signals that a storm is approaching.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does barometric pressure measure?",
+            "options": [
+              "The speed of the wind only",
+              "The temperature of the ocean",
+              "The amount of snowfall in a season",
+              "The weight of the air pressing down on Earths surface"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What instrument is used to measure barometric pressure?",
+            "options": [
+              "A barometer",
+              "A compass",
+              "A thermometer",
+              "A rain gauge"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a falling barometric pressure often signal?",
+            "options": [
+              "That barometric pressure has no connection to weather",
+              "That temperatures will remain exactly the same",
+              "That the weather will always stay perfectly clear",
+              "That a storm may be approaching"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might meteorologists track changes in barometric pressure over time?",
+            "options": [
+              "Barometric pressure never changes over time",
+              "This concept has no relevance to weather forecasting",
+              "Changes in pressure can help forecast upcoming weather conditions",
+              "Pressure changes have no connection to storms"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might rising barometric pressure often suggest about upcoming weather?",
+            "options": [
+              "This concept has no connection to weather patterns",
+              "Clearer, more stable weather conditions",
+              "Rising pressure always signals heavy rainfall",
+              "A storm is definitely about to arrive"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Credit Unions and Cooperatives: Banking Owned by Members",
+        "summary": "Grade 5 Social Studies strand: a credit union is a financial cooperative owned and controlled by its members, who share in decision-making and any profits, unlike a bank owned by outside shareholders.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Who owns a credit union?",
+            "options": [
+              "Its members",
+              "A foreign company",
+              "A single wealthy shareholder",
+              "Only the federal government"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a credit union differ from a typical bank?",
+            "options": [
+              "A credit union is always owned by the federal government",
+              "A credit union has no connection to banking services at all",
+              "This concept has no relevance to social studies",
+              "A credit union is owned by its members rather than outside shareholders"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might members of a credit union be able to do that shareholders of a typical bank cannot?",
+            "options": [
+              "Take part more directly in decision-making about the cooperative",
+              "This concept has no connection to cooperatives",
+              "Members of a credit union have no say in how it operates",
+              "Only bank shareholders can ever vote on decisions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might some people choose to use a credit union instead of a large bank?",
+            "options": [
+              "They may value being a member-owner with a voice in the organization",
+              "This concept has no relevance to financial literacy",
+              "Credit unions are identical in every way to large banks",
+              "Credit unions never offer any banking services to their members"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one way that profits might be shared in a credit union?",
+            "options": [
+              "They may be returned to members or reinvested in services",
+              "A credit union never earns any profit",
+              "This concept has no connection to cooperatives",
+              "Profits are always kept by a single owner alone"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "label": "Day 165 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Recognizing Product Placement in Media",
+        "summary": "Grade 5 Language strand: product placement is when a brand or product appears within a movie, show, or video, often blending into the story rather than appearing as a separate advertisement.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is product placement?",
+            "options": [
+              "A separate commercial shown between segments of a program",
+              "A type of poster displayed outside a store",
+              "When a brand or product appears within a movie, show, or video",
+              "A written review of a product in a newspaper"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does product placement usually differ from a traditional advertisement?",
+            "options": [
+              "It blends into the story rather than appearing as a separate ad",
+              "It always appears as a clearly labelled advertisement",
+              "This concept has no connection to media literacy",
+              "It never involves showing a brand or product at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might companies use product placement instead of only traditional ads?",
+            "options": [
+              "Traditional advertisements are always more effective than product placement",
+              "This concept has no relevance to media literacy",
+              "Viewers may be more receptive to a brand shown naturally within a story",
+              "Product placement is never effective at reaching viewers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful for viewers to recognize product placement when watching media?",
+            "options": [
+              "Recognizing product placement has no benefit to viewers",
+              "It helps them understand when they are being marketed to during a story",
+              "Viewers never need to think critically about what they watch",
+              "This concept has no connection to media literacy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of product placement?",
+            "options": [
+              "A flyer mailed directly to someones home",
+              "A commercial that airs during a break in a program",
+              "A billboard advertisement on the side of a road",
+              "A character in a show visibly using a specific branded product"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Calculating Weighted Averages",
+        "summary": "Grade 5 Math strand: a weighted average gives different amounts of importance to different values, such as when a test score counts more toward a final grade than a homework score.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What does a weighted average do differently from a regular average?",
+            "options": [
+              "It ignores some values completely",
+              "It always gives every value the exact same importance",
+              "It can only be calculated using whole numbers",
+              "It gives different amounts of importance to different values"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a test score is worth twice as much as a homework score in a weighted average, what does that mean?",
+            "options": [
+              "The test score counts for more of the final result",
+              "Both scores always count exactly the same amount",
+              "The homework score always counts for more of the final result",
+              "This concept has no connection to data management"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a teacher use a weighted average to calculate final grades?",
+            "options": [
+              "This concept has no relevance to data management",
+              "It allows certain assignments, like tests, to count more than others",
+              "Weighted averages never affect how a final grade is calculated",
+              "Every assignment must always count the same amount"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which situation would a weighted average be more appropriate than a simple average?",
+            "options": [
+              "When some values are more important to the final result than others",
+              "A weighted average is never appropriate to use",
+              "When every value is exactly equally important",
+              "This concept has no connection to math"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding weighted averages a useful real-world skill?",
+            "options": [
+              "This concept has no relevance to everyday life",
+              "Many situations, like grading systems, rely on values counting differently",
+              "Weighted averages are never used outside of math class",
+              "All averages in real life are always simple averages"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Ecosystems: Keystone Species and Their Outsized Role",
+        "summary": "Grade 5 Science strand: a keystone species has an unusually large effect on its ecosystem relative to its numbers, and removing it can cause major changes throughout the food web.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A species with an unusually large effect on its ecosystem relative to its numbers",
+              "A species that has no effect on its ecosystem at all",
+              "A species that lives only in captivity",
+              "The most numerous species in an ecosystem"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might happen to an ecosystem if a keystone species is removed?",
+            "options": [
+              "Major changes could occur throughout the food web",
+              "Removing a keystone species always improves an ecosystem",
+              "This concept has no connection to ecosystems",
+              "The ecosystem would remain exactly the same with no changes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a keystone species effect on an ecosystem often described as outsized?",
+            "options": [
+              "Keystone species always have the largest population in an ecosystem",
+              "This concept has no relevance to science",
+              "A keystone species has no measurable impact on its ecosystem",
+              "Its impact is much larger than its population size might suggest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might scientists pay close attention to keystone species when studying conservation?",
+            "options": [
+              "Keystone species have no connection to conservation efforts",
+              "Protecting a keystone species can help maintain the balance of an entire ecosystem",
+              "Conservation never depends on which species are present",
+              "This concept has no relevance to ecosystems"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these best describes the role of a keystone species in a food web?",
+            "options": [
+              "It only affects species located far outside its ecosystem",
+              "It plays no role in the food web at all",
+              "It helps hold the structure of the food web together",
+              "This concept has no connection to food webs"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Canadian Human Rights Commission and Its Role",
+        "summary": "Grade 5 Social Studies strand: the Canadian Human Rights Commission investigates complaints of discrimination in federally regulated workplaces and services, working to promote equality across Canada.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does the Canadian Human Rights Commission investigate?",
+            "options": [
+              "The design of Canadian currency",
+              "International trade agreements",
+              "Complaints of discrimination in federally regulated workplaces and services",
+              "The results of provincial sports competitions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one goal of the Canadian Human Rights Commission?",
+            "options": [
+              "Managing national parks",
+              "Promoting equality across Canada",
+              "Setting the countrys interest rates",
+              "Eliminating all federal government departments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who might bring a complaint to the Canadian Human Rights Commission?",
+            "options": [
+              "Only foreign governments",
+              "Only large corporations",
+              "Only members of Parliament",
+              "A person who believes they experienced discrimination in a federally regulated setting"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might an independent commission be useful for addressing discrimination complaints?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Complaints are always reviewed unfairly regardless of independence",
+              "Independence has no connection to reviewing complaints fairly",
+              "Independence can help ensure complaints are reviewed fairly"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might learning about the Canadian Human Rights Commission be important for students?",
+            "options": [
+              "It helps students understand how Canada works to protect equality and fairness",
+              "Human rights protections do not apply anywhere in Canada",
+              "This concept has no relevance to social studies",
+              "This organization has no connection to Canadian rights"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "label": "Day 166 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Oral Communication: Delivering an Effective Oral Presentation with Visual Aids",
+        "summary": "Grade 5 Language strand: an effective oral presentation combines clear speaking with visual aids, such as posters or slides, that support and reinforce the spoken information without overwhelming the audience.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is one benefit of using a visual aid during a presentation?",
+            "options": [
+              "This concept has no connection to oral communication",
+              "It can support and reinforce the spoken information",
+              "Visual aids always distract from what a speaker is saying",
+              "A visual aid should always replace the spoken words entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a speaker avoid putting too much text on a single slide?",
+            "options": [
+              "This concept has no connection to oral communication",
+              "More text on a slide always makes a presentation clearer",
+              "Audiences always prefer slides filled entirely with text",
+              "Too much text can overwhelm the audience and distract from the speaking"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one way a speaker can make an oral presentation more effective?",
+            "options": [
+              "Speaking as quietly as possible throughout the presentation",
+              "Avoiding any visual aids under all circumstances",
+              "Speaking clearly and making eye contact with the audience",
+              "Reading directly from notes without ever looking up"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might practising a presentation beforehand improve its delivery?",
+            "options": [
+              "Practising a presentation never improves how it is delivered",
+              "Practice can help a speaker feel more confident and organized",
+              "A speaker should never prepare in advance for a presentation",
+              "This concept has no relevance to oral communication"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a presenter use a chart instead of only spoken numbers to share data?",
+            "options": [
+              "A chart can help the audience visualize the information more easily",
+              "Charts always make data harder to understand",
+              "This concept has no connection to oral communication",
+              "Spoken numbers are always clearer than a visual chart"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Creating a Simple Invoice for a Small Business",
+        "summary": "Grade 5 Math strand: an invoice is a document that lists items or services provided, their prices, and the total amount owed, helping a small business keep track of sales and payments.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is the main purpose of an invoice?",
+            "options": [
+              "To list items or services provided, their prices, and the total owed",
+              "To record the weather on a given day",
+              "To describe a fictional story about a business",
+              "To list random facts unrelated to a sale"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a small business sells 3 items at 8 dollars each, what would the invoice total show before any tax?",
+            "options": [
+              "32 dollars",
+              "11 dollars",
+              "8 dollars",
+              "24 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a small business keep copies of every invoice it creates?",
+            "options": [
+              "This concept has no connection to financial literacy",
+              "It helps track sales and confirm what customers were charged",
+              "Invoices are never useful for keeping business records",
+              "A business never needs to track its sales"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If an invoice lists 2 items at 15 dollars each plus a 5 dollar delivery fee, what is the total?",
+            "options": [
+              "20 dollars",
+              "40 dollars",
+              "30 dollars",
+              "35 dollars"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it important for an invoice to clearly list each item and its price?",
+            "options": [
+              "It helps both the business and the customer understand exactly what was charged",
+              "This concept has no relevance to financial literacy",
+              "An invoice should never include any prices",
+              "Listing individual items and prices is never useful on an invoice"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Technology and Design: How 3D Printers Build Objects Layer by Layer",
+        "summary": "Grade 5 Science strand: a 3D printer builds a solid object by adding material one thin layer at a time, following a digital design, until the full three-dimensional shape is complete.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "How does a 3D printer build an object?",
+            "options": [
+              "By carving material away from a solid block",
+              "By adding material one thin layer at a time",
+              "By melting an entire object all at once",
+              "By printing only flat, two-dimensional images"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a 3D printer follow in order to build an object?",
+            "options": [
+              "Only a sketch drawn by hand with no digital file",
+              "A digital design",
+              "A random pattern with no plan",
+              "This concept has no connection to technology"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might building an object layer by layer allow for complex shapes?",
+            "options": [
+              "This concept has no connection to 3D printing",
+              "Layer by layer building always produces the exact same simple shape",
+              "Complex shapes can never be created using a 3D printer",
+              "Each thin layer can be shaped precisely before the next one is added"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might 3D printing be used for in real life?",
+            "options": [
+              "This concept has no real-world application",
+              "3D printing can only be used to make food",
+              "Creating prototypes, tools, or replacement parts",
+              "Only printing flat photographs on paper"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might engineers use 3D printing to test a new design?",
+            "options": [
+              "It allows them to quickly create and examine a physical model of their design",
+              "This concept has no relevance to technology and design",
+              "Engineers never need to test a design before finishing it",
+              "3D printing has no connection to testing new designs"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The St. Lawrence Seaway: A Waterway for Trade",
+        "summary": "Grade 5 Social Studies strand: the St. Lawrence Seaway is a system of canals and locks that allows large ships to travel between the Atlantic Ocean and the Great Lakes, supporting trade across central Canada.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does the St. Lawrence Seaway allow large ships to do?",
+            "options": [
+              "Travel only within a single small lake",
+              "This concept has no connection to Canadian geography",
+              "Travel between the Atlantic Ocean and the Great Lakes",
+              "Sail directly across the Pacific Ocean"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are locks used for along the St. Lawrence Seaway?",
+            "options": [
+              "Raising or lowering ships to different water levels",
+              "Preventing any ships from ever passing through",
+              "Measuring the temperature of the water",
+              "This concept has no connection to the Seaway"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the St. Lawrence Seaway important for trade in central Canada?",
+            "options": [
+              "It allows goods to be shipped efficiently between the ocean and inland regions",
+              "It has no connection to how goods are transported",
+              "Trade in central Canada never relies on waterways",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which body of water system does the St. Lawrence Seaway connect to the Atlantic Ocean?",
+            "options": [
+              "The Hudson Bay only",
+              "The Great Lakes",
+              "The Pacific Ocean",
+              "The Arctic Ocean"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might building canals and locks have been necessary to create the Seaway?",
+            "options": [
+              "Canals and locks have no purpose along a shipping route",
+              "They help ships navigate around natural obstacles like rapids and changes in water level",
+              "Ships never need help navigating water level changes",
+              "This concept has no connection to Canadian geography"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "label": "Day 167 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Punctuating Titles of Books, Movies, and Songs",
+        "summary": "Grade 5 Language strand: titles of longer works, such as books and movies, are usually italicized or underlined, while titles of shorter works, such as songs, poems, and articles, are placed in quotation marks.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "How are titles of longer works, like books or movies, usually punctuated?",
+            "options": [
+              "Placed in parentheses",
+              "Written entirely in lowercase letters",
+              "Never given any special punctuation",
+              "Italicized or underlined"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are titles of shorter works, like songs or poems, usually punctuated?",
+            "options": [
+              "Placed in quotation marks",
+              "Written in all capital letters",
+              "Italicized only",
+              "Never punctuated in any way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is an example of a longer work that would typically be italicized?",
+            "options": [
+              "A single song",
+              "A magazine article",
+              "A novel",
+              "A short poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a shorter work that would typically use quotation marks?",
+            "options": [
+              "A song title",
+              "A novel title",
+              "A movie title",
+              "A television series title"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might consistent title punctuation matter in formal writing?",
+            "options": [
+              "This concept has no connection to grammar",
+              "It helps readers quickly recognize what kind of work is being referenced",
+              "Titles should never be punctuated differently from regular words",
+              "Title punctuation has no effect on how readers understand a text"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Constructing Circles Using a Compass",
+        "summary": "Grade 5 Math strand: a compass is a tool used to construct an accurate circle by keeping one point fixed at the centre while the pencil point traces a curve at a constant distance, the radius.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What tool is commonly used to construct an accurate circle?",
+            "options": [
+              "A calculator",
+              "A ruler alone",
+              "A protractor",
+              "A compass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What stays fixed when using a compass to draw a circle?",
+            "options": [
+              "The pencil point tracing the curve",
+              "The centre point",
+              "Nothing stays fixed while drawing a circle",
+              "The radius changes constantly while drawing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the distance between the compass point and the pencil represent?",
+            "options": [
+              "The area of the circle",
+              "The diameter of the circle",
+              "The circumference of the circle",
+              "The radius of the circle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a compass useful for constructing a circle instead of drawing freehand?",
+            "options": [
+              "It helps ensure every point on the circle is exactly the same distance from the centre",
+              "This concept has no connection to geometry",
+              "A compass makes it impossible to draw an accurate circle",
+              "Freehand drawing is always more accurate than using a compass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you widen the opening of a compass before drawing, what happens to the circle?",
+            "options": [
+              "The circle stays exactly the same size",
+              "The circle becomes larger, with a bigger radius",
+              "The circle becomes smaller, with a smaller radius",
+              "This concept has no connection to constructing circles"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "The Nitrogen Cycle: How Nitrogen Moves Through Ecosystems",
+        "summary": "Grade 5 Science strand: the nitrogen cycle describes how nitrogen moves between the atmosphere, soil, and living things, with bacteria converting nitrogen gas into forms that plants can use to grow.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does the nitrogen cycle describe?",
+            "options": [
+              "How rocks are formed underground over time",
+              "How nitrogen moves between the atmosphere, soil, and living things",
+              "This concept has no connection to ecosystems",
+              "How water moves between the ocean and the atmosphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What role do certain bacteria play in the nitrogen cycle?",
+            "options": [
+              "They remove all nitrogen permanently from an ecosystem",
+              "Bacteria have no role in the nitrogen cycle at all",
+              "They convert nitrogen gas into forms that plants can use",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do plants need nitrogen in a usable form?",
+            "options": [
+              "This concept has no connection to plant growth",
+              "Nitrogen is harmful to all plants in every form",
+              "Nitrogen helps plants grow and build important compounds",
+              "Plants never require nitrogen in any form"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where is most of the nitrogen on Earth found?",
+            "options": [
+              "Only in ocean water",
+              "Only inside rocks deep underground",
+              "In the atmosphere, as nitrogen gas",
+              "This concept has no connection to Earth science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the nitrogen cycle considered important for ecosystems?",
+            "options": [
+              "It helps ensure nitrogen is available in forms living things can use to grow",
+              "Nitrogen never needs to move through an ecosystem",
+              "This concept has no relevance to science",
+              "The nitrogen cycle has no effect on any ecosystem"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Passports and International Travel",
+        "summary": "Grade 5 Social Studies strand: a Canadian passport is an official government document that confirms a persons identity and citizenship, allowing them to travel internationally and receive consular assistance abroad.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What does a Canadian passport confirm about its holder?",
+            "options": [
+              "Their employment history",
+              "Their school grades",
+              "Their favourite hobbies",
+              "Their identity and citizenship"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone need a passport to travel internationally?",
+            "options": [
+              "Passports are never required to travel between countries",
+              "Many countries require official proof of identity and citizenship to enter",
+              "A passport only allows travel within ones own country",
+              "This concept has no connection to international travel"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which level of government issues Canadian passports?",
+            "options": [
+              "The federal government",
+              "Only provincial governments",
+              "A private international company",
+              "Only municipal governments"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a Canadian embassy help provide to a passport holder travelling abroad?",
+            "options": [
+              "This concept has no connection to international travel",
+              "A new nationality while abroad",
+              "Consular assistance if they encounter an emergency",
+              "A replacement for their home address"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a passport be considered an important form of identification?",
+            "options": [
+              "Passports are only used within a persons home country",
+              "This concept has no relevance to social studies",
+              "It is widely recognized internationally as proof of identity and citizenship",
+              "A passport has no value as identification of any kind"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "label": "Day 168 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Figurative Language: Puns and Wordplay",
+        "summary": "Grade 5 Language strand: a pun is a form of wordplay that uses a words multiple meanings or similar-sounding words to create a humorous or clever effect.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is a pun?",
+            "options": [
+              "A type of punctuation mark",
+              "A word with only one possible meaning",
+              "A form of wordplay using a words multiple meanings or similar sounds for humour",
+              "A rule for capitalizing proper nouns"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a pun?",
+            "options": [
+              "She ran quickly to catch the bus.",
+              "The sun rose over the quiet hills.",
+              "The tall building had many windows.",
+              "I used to be a baker, but I could not make enough dough."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a pun rely on a word having more than one meaning?",
+            "options": [
+              "Puns never depend on a words multiple meanings",
+              "The double meaning creates the surprising or humorous connection",
+              "A pun always uses only one clear meaning of a word",
+              "This concept has no connection to figurative language"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use wordplay like a pun in a piece of writing?",
+            "options": [
+              "This concept has no relevance to figurative language",
+              "Puns are never intended to be humorous",
+              "To add humour or cleverness that engages the reader",
+              "Wordplay always makes writing more confusing and unclear"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What skill helps a reader understand and enjoy a pun?",
+            "options": [
+              "Recognizing multiple meanings or similar sounds in words",
+              "Puns can be understood without any knowledge of word meanings",
+              "Ignoring the meaning of every word in a sentence",
+              "This concept has no connection to reading"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Composite Transformations — Combining Translations, Reflections, and Rotations",
+        "summary": "Grade 5 Math strand: a composite transformation applies more than one transformation, such as a translation followed by a reflection, to move a shape from its original position to a final position.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is a composite transformation?",
+            "options": [
+              "Applying more than one transformation to a shape",
+              "Applying only a single transformation to a shape",
+              "This concept has no connection to geometry",
+              "Removing a shape from a grid entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could be part of a composite transformation?",
+            "options": [
+              "Colouring a shape a different colour",
+              "Naming the vertices of a shape",
+              "Measuring the perimeter of a shape",
+              "A translation followed by a reflection"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What generally stays the same about a shape after a composite transformation of translations, reflections, and rotations?",
+            "options": [
+              "Its colour changes automatically",
+              "Its size and shape",
+              "This concept has no connection to transformations",
+              "Its exact position on the grid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a composite transformation be used instead of a single transformation?",
+            "options": [
+              "It can move a shape through several steps to reach a specific final position",
+              "Using more than one transformation always changes the size of a shape",
+              "A composite transformation can never move a shape anywhere new",
+              "This concept has no relevance to geometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a shape is translated and then reflected, in what order do the transformations occur?",
+            "options": [
+              "This concept has no connection to composite transformations",
+              "The translation happens first, followed by the reflection",
+              "The reflection always happens before the translation",
+              "Both transformations must happen at the exact same instant"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "How Helicopters Fly: Rotors, Lift, and Control",
+        "summary": "Grade 5 Science strand: a helicopter generates lift using spinning rotor blades shaped like airfoils, and pilots control direction and altitude by changing the angle and speed of the rotors.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does a helicopter use to generate lift?",
+            "options": [
+              "This concept has no connection to flight",
+              "A large balloon filled with helium",
+              "Fixed wings like an airplane",
+              "Spinning rotor blades"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What shape are helicopter rotor blades designed with to help create lift?",
+            "options": [
+              "A perfectly flat rectangle",
+              "This concept has no connection to how helicopters fly",
+              "An airfoil shape",
+              "A hollow sphere"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is a helicopter different from an airplane in how it generates lift?",
+            "options": [
+              "A helicopter and an airplane generate lift in exactly the same way",
+              "This concept has no relevance to science",
+              "A helicopter never needs lift to fly",
+              "A helicopter uses spinning rotors, while an airplane relies on fixed wings and forward motion"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How might a pilot control a helicopters direction?",
+            "options": [
+              "By changing the colour of the rotor blades",
+              "By changing the angle and speed of the rotor blades",
+              "Direction can never be controlled once a helicopter is in the air",
+              "This concept has no connection to flight control"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a helicopter hover in place while an airplane generally cannot?",
+            "options": [
+              "This concept has no connection to how each aircraft flies",
+              "Helicopters can never remain still in the air",
+              "A helicopters rotors can generate lift without needing forward motion",
+              "Airplanes are always able to hover exactly like helicopters"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Embassies and Consulates: Representing Canada Abroad",
+        "summary": "Grade 5 Social Studies strand: Canadian embassies and consulates represent Canada in other countries, supporting trade and diplomacy, and providing assistance to Canadian citizens travelling or living abroad.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a Canadian embassy in another country?",
+            "options": [
+              "This concept has no connection to social studies",
+              "To represent Canada and support diplomacy and trade",
+              "To sell Canadian products directly to tourists",
+              "To manage a foreign countrys internal affairs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might a Canadian consulate help provide to a Canadian citizen abroad?",
+            "options": [
+              "Free international transportation home",
+              "Assistance in an emergency, such as a lost passport",
+              "A new passport from a foreign country",
+              "This concept has no connection to Canadian government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might Canada maintain embassies in many different countries?",
+            "options": [
+              "Embassies have no purpose in international relationships",
+              "Canada only maintains an embassy in one country worldwide",
+              "To build diplomatic relationships and support Canadians and Canadian interests abroad",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one way an embassy might support trade between Canada and another country?",
+            "options": [
+              "This concept has no connection to international relationships",
+              "Trade always happens with no government involvement whatsoever",
+              "Helping connect Canadian businesses with opportunities in that country",
+              "Embassies are never involved in supporting trade"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might learning about embassies and consulates help students understand Canadas role internationally?",
+            "options": [
+              "It shows how Canada builds relationships and supports citizens beyond its borders",
+              "Canada has no diplomatic relationships with other countries",
+              "This concept has no relevance to social studies",
+              "Embassies have no connection to Canadas international role"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "label": "Day 169 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Persuasive Poster or Flyer",
+        "summary": "Grade 5 Language strand: a persuasive poster or flyer uses bold visuals, a clear message, and concise, convincing language to encourage the audience to take a specific action.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What is the main purpose of a persuasive poster or flyer?",
+            "options": [
+              "To tell a long, detailed fictional story",
+              "To describe an unrelated historical event",
+              "To present a neutral summary with no opinion",
+              "To encourage the audience to take a specific action"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a persuasive poster use bold visuals?",
+            "options": [
+              "Visuals are never useful on a persuasive poster",
+              "A persuasive poster should never include any images",
+              "Bold visuals can quickly capture attention and support the message",
+              "This concept has no connection to writing"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is concise language important on a persuasive flyer?",
+            "options": [
+              "Longer, more detailed language is always more effective on a flyer",
+              "A flyer should always contain as much text as possible",
+              "This concept has no relevance to writing",
+              "Readers often view a flyer quickly, so the message must be clear and brief"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a persuasive poster include to convince its audience to act?",
+            "options": [
+              "A clear call to action, such as attend or donate",
+              "A list of random, unrelated facts",
+              "A completely unrelated topic with no connection to the message",
+              "A summary with no clear request at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose strong, positive words on a persuasive poster?",
+            "options": [
+              "Word choice never affects how persuasive a message feels",
+              "This concept has no connection to persuasive writing",
+              "Negative language is always more effective than positive language",
+              "Strong, positive language can make the message more convincing and memorable"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Introduction to Bearings and Navigation Angles",
+        "summary": "Grade 5 Math strand: a bearing is a way of describing direction as an angle measured clockwise from north, commonly used in navigation to describe the direction of travel.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is a bearing?",
+            "options": [
+              "A measurement of distance between two places",
+              "A tool used to measure mass",
+              "A unit used to measure temperature",
+              "An angle measured clockwise from north, used to describe direction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "From which direction are bearings typically measured?",
+            "options": [
+              "North",
+              "West",
+              "South",
+              "East"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which direction are bearings typically measured around the compass?",
+            "options": [
+              "Bearings are never measured in a consistent direction",
+              "This concept has no connection to navigation",
+              "Clockwise",
+              "Counterclockwise"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a bearing of 090 degrees represent?",
+            "options": [
+              "A direction pointing due west",
+              "A direction pointing due north",
+              "A direction pointing due south",
+              "A direction pointing due east"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might bearings be useful for someone navigating a ship or aircraft?",
+            "options": [
+              "Bearings provide no useful information for navigation",
+              "They provide a precise way to describe and follow a specific direction",
+              "Bearings can only be used to measure distances, never directions",
+              "This concept has no relevance to measurement"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "States of Matter: Plasma — The Fourth State of Matter",
+        "summary": "Grade 5 Science strand: plasma is a state of matter, along with solid, liquid, and gas, made of charged particles and found in extreme conditions such as lightning, stars, and neon signs.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "Which of these is considered the fourth state of matter, alongside solid, liquid, and gas?",
+            "options": [
+              "Steam",
+              "Plasma",
+              "Ice",
+              "Sand"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are plasma particles generally like compared with those of a regular gas?",
+            "options": [
+              "This concept has no connection to states of matter",
+              "They are identical in every way to particles in a typical gas",
+              "They are charged, unlike the particles in a typical gas",
+              "Plasma has no particles at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of plasma found in nature?",
+            "options": [
+              "A rock",
+              "An ice cube",
+              "A puddle of water",
+              "Lightning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where else, besides lightning, might plasma be found?",
+            "options": [
+              "This concept has no real-world example",
+              "Only inside a household refrigerator",
+              "Inside stars, including the sun",
+              "Only underground in caves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might scientists consider plasma to be different from the other three common states of matter?",
+            "options": [
+              "Its particles are electrically charged, giving it unique properties",
+              "This concept has no relevance to science",
+              "Plasma behaves in exactly the same way as a solid",
+              "Plasma is never found anywhere in nature or technology"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Role of Access to Information Laws in Canadian Government",
+        "summary": "Grade 5 Social Studies strand: access to information laws allow citizens to request records and documents from government institutions, helping keep government actions transparent and accountable to the public.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "What do access to information laws allow citizens to do?",
+            "options": [
+              "Run for a seat in the House of Commons at any age",
+              "Change a law without any government process",
+              "Request records and documents from government institutions",
+              "Vote in a federal election before the age of eighteen"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one goal of access to information laws?",
+            "options": [
+              "This concept has no connection to Canadian government",
+              "Eliminating all forms of government record keeping",
+              "Keeping government actions transparent and accountable",
+              "Preventing citizens from ever learning about government decisions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a journalist use access to information laws?",
+            "options": [
+              "To request government records that help inform public reporting",
+              "This concept has no relevance to social studies",
+              "Journalists are never allowed to request government information",
+              "Access to information laws only apply to elected officials"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might transparency be considered important in a democratic government?",
+            "options": [
+              "This concept has no relevance to Canadian government",
+              "Citizens never need to know about government decisions",
+              "It helps citizens understand and hold their government accountable",
+              "Transparency has no connection to how a democracy functions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen if a government had no access to information laws at all?",
+            "options": [
+              "Government transparency would automatically increase without these laws",
+              "This concept has no connection to social studies",
+              "Nothing would change since these laws have no real purpose",
+              "Citizens might find it harder to learn about or question government actions"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "label": "Day 170 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Comparative Grammar, Media Literacy, and Oral Communication",
+        "summary": "Grade 5 Language strand review: students revisit comparative and superlative adjectives, writing a weather report, circular and frame narratives, building words with multiple affixes, and recognizing product placement.",
+        "resourceLabel": "TVO Learn: Grade 5 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "quiz": [
+          {
+            "q": "What does a comparative adjective do?",
+            "options": [
+              "Compares two things",
+              "Names a single object",
+              "Shows an action",
+              "Compares three or more things"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the main purpose of a weather report?",
+            "options": [
+              "To present current conditions and a forecast clearly",
+              "To list random facts unrelated to weather",
+              "To describe an imaginary place with no real information",
+              "To tell a fictional story with no factual details"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a frame narrative?",
+            "options": [
+              "A story told only through pictures",
+              "A story with no characters at all",
+              "A story placed inside another story",
+              "A story with no beginning or ending"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does it mean when a word has multiple affixes?",
+            "options": [
+              "It uses only capital letters",
+              "It contains no vowels",
+              "It has no root word at all",
+              "It combines more than one prefix or suffix"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is product placement?",
+            "options": [
+              "A separate commercial shown between segments of a program",
+              "When a brand or product appears within a movie, show, or video",
+              "A written review of a product in a newspaper",
+              "A type of poster displayed outside a store"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Geometry, Algebra, Measurement, and Data",
+        "summary": "Grade 5 Math strand review: students revisit classifying regular and irregular polygons, multiplying decimals by two-digit whole numbers, the distributive property, estimating mass with a balance scale, and weighted averages.",
+        "resourceLabel": "TVO Learn: Grade 5 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "quiz": [
+          {
+            "q": "What is true about every side and angle of a regular polygon?",
+            "options": [
+              "They are always different",
+              "They are all equal",
+              "A regular polygon has no straight sides",
+              "Only the sides are equal, never the angles"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is 2.5 multiplied by 12?",
+            "options": [
+              "32",
+              "25",
+              "20",
+              "30"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the distributive property allow you to do?",
+            "options": [
+              "Divide a number by zero",
+              "Ignore parentheses in an expression completely",
+              "Subtract a number from itself",
+              "Multiply a number by a sum by multiplying each addend separately, then adding"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a balance scale compare?",
+            "options": [
+              "The temperature of two objects",
+              "The length of two objects",
+              "The mass of two objects",
+              "The colour of two objects"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a weighted average do differently from a regular average?",
+            "options": [
+              "It always gives every value the exact same importance",
+              "It can only be calculated using whole numbers",
+              "It ignores some values completely",
+              "It gives different amounts of importance to different values"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Ocean Zones, Machines, Weather, and Ecosystems",
+        "summary": "Grade 5 Science strand review: students revisit ocean zones, mechanical efficiency, chemical changes in cooking, barometric pressure, and keystone species.",
+        "resourceLabel": "TVO Learn: Grade 5 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the sunlight zone of the ocean?",
+            "options": [
+              "The deepest, darkest part of the ocean",
+              "A layer found only in freshwater lakes",
+              "The layer with the coldest water temperature always",
+              "The uppermost layer where enough light reaches for photosynthesis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is no machine perfectly efficient?",
+            "options": [
+              "Efficiency has no connection to energy loss",
+              "Machines always convert all input energy into useful work",
+              "This concept has no relevance to science",
+              "Some energy is always lost, often to friction or heat"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What gas is produced when baking soda reacts with an acid like vinegar?",
+            "options": [
+              "Nitrogen",
+              "Helium",
+              "Pure oxygen",
+              "Carbon dioxide"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does barometric pressure measure?",
+            "options": [
+              "The temperature of the ocean",
+              "The amount of snowfall in a season",
+              "The weight of the air pressing down on Earths surface",
+              "The speed of the wind only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A species that has no effect on its ecosystem at all",
+              "A species with an unusually large effect on its ecosystem relative to its numbers",
+              "A species that lives only in captivity",
+              "The most numerous species in an ecosystem"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "SocialStudies Review: Government Institutions, Trade, and Global Connections",
+        "summary": "Grade 5 Social Studies strand review: students revisit the federal cabinet, the Speaker of the House of Commons, municipal bylaws, credit unions and cooperatives, and the Canadian Human Rights Commission.",
+        "resourceLabel": "TVO Learn: Grade 5 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "quiz": [
+          {
+            "q": "Who chooses the members of the federal cabinet?",
+            "options": [
+              "The Chief Electoral Officer",
+              "The Governor General alone",
+              "The Supreme Court",
+              "The prime minister"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who elects the Speaker of the House of Commons?",
+            "options": [
+              "Other Members of Parliament",
+              "The Governor General alone",
+              "The Supreme Court",
+              "The Prime Minister alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who passes municipal bylaws?",
+            "options": [
+              "City or town councils",
+              "The Supreme Court",
+              "A private company",
+              "The federal Parliament"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who owns a credit union?",
+            "options": [
+              "Only the federal government",
+              "A foreign company",
+              "A single wealthy shareholder",
+              "Its members"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Canadian Human Rights Commission investigate?",
+            "options": [
+              "The results of provincial sports competitions",
+              "International trade agreements",
+              "The design of Canadian currency",
+              "Complaints of discrimination in federally regulated workplaces and services"
             ],
             "answer": 3
           }

@@ -2149,6 +2149,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Parallel Structure in Complex Sentences", summary:"Grade 7 Language strand: parallel structure in complex sentences means keeping grammatically similar elements consistent, even across clauses joined by conjunctions like “although” or “because.”",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=2l2FgUrln1A",
    quiz:[
      {q:"Parallel structure means keeping grammatically similar elements ___.", options:["Randomly varied with no consistent pattern","Different from one another throughout a sentence","Consistent throughout a sentence","A concept unrelated to grammar"], answer:2},
      {q:"Which sentence uses correct parallel structure?", options:["She enjoys hiking, biking, and swimming.","She enjoys hiking, biking, and to swim.","She enjoys hiking, to bike, and swimming.","A sentence unrelated to parallel structure"], answer:0},
@@ -2158,6 +2159,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Polynomials: Introduction to Terms and Like Terms", summary:"Grade 7 Math strand: a polynomial is an expression made up of terms combined with addition or subtraction, and like terms have the same variable raised to the same power and can be combined.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ffLLmV4mZwU",
    quiz:[
      {q:"A polynomial is an expression made up of ___.", options:["A concept unrelated to polynomials","Only a single number with no variables","Terms combined using addition or subtraction","Terms that can never be combined in any way"], answer:2},
      {q:"Like terms have ___.", options:["Completely different variables from one another","No connection to variables at all","The same variable raised to the same power","A concept unrelated to like terms"], answer:2},
@@ -2167,6 +2169,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Water Cycle and Its Connection to Climate", summary:"Grade 7 Science strand: the water cycle describes how water moves through evaporation, condensation, and precipitation, and it plays a key role in shaping regional and global climate patterns.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=jFjI6y46QRk",
    quiz:[
      {q:"The water cycle includes the processes of ___.", options:["Only freezing, with no other processes involved","A single process that never repeats","A concept unrelated to the water cycle","Evaporation, condensation, and precipitation"], answer:3},
      {q:"Evaporation occurs when ___.", options:["Water changes directly into a solid","Water changes from a liquid into a gas","Water changes from a gas into a liquid","A process unrelated to evaporation"], answer:1},
@@ -2176,6 +2179,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Immigration Policy: Historical Changes", summary:"Grade 7 Social Studies strand: Canada’s immigration policy has changed significantly over time, shifting from restrictive and discriminatory practices to a points-based system aimed at welcoming diverse newcomers.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=KY4eYH3Uer0",
    quiz:[
      {q:"Canada’s early immigration policies were often ___.", options:["Focused only on welcoming immigrants from every country equally","Restrictive and discriminatory toward certain groups","Completely open to every immigrant with no restrictions at all","A concept unrelated to Canada’s immigration history"], answer:1},
      {q:"Canada’s modern immigration system often uses ___.", options:["A concept unrelated to immigration policy","A system that only accepts immigrants from a single country","A points-based system considering factors like skills and education","A system that considers no criteria at all"], answer:2},
@@ -6286,6 +6290,386 @@ const curriculum: DayContent[] = [
      {q:"What is the main role of the Royal Canadian Mint?", options:["A concept unrelated to Canadian history","Printing newspapers for the federal government","Regulating interprovincial trade agreements","Producing Canadas coins"], answer:3},
      {q:"Under which document did the Metis gain formal recognition as one of Canadas Aboriginal peoples?", options:["A concept unrelated to the Metis Nation","The 1982 Constitution","The Statute of Westminster","The Halibut Treaty of 1923"], answer:1},
      {q:"What made the Ontario Human Rights Code significant in Canadian history?", options:["It was the last province to introduce any human rights protections","It removed all existing anti-discrimination protections in Ontario","A concept unrelated to Canadian history","It was the first law of its kind in Canada to combine various anti-discrimination protections into one code"], answer:3}
+   ]},
+]},
+{day:161, label:"Day 161 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: The Perfect Verb Tenses — Present, Past, and Future Perfect", summary:"Grade 7 Language strand: the present perfect tense (has/have plus a past participle) shows an action begun in the past that still has relevance now, the past perfect tense (had plus a past participle) shows an action completed before another past action, and the future perfect tense (will have plus a past participle) shows an action that will be completed before a specific future time.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does the present perfect tense generally show?", options:["An action that will never happen","An action that started in the past and still has relevance now","An action that can only happen in the future","A concept unrelated to grammar"], answer:1},
+     {q:"Which auxiliary verb is used to form the past perfect tense?", options:["A concept unrelated to verb tenses","Had","Will","Is"], answer:1},
+     {q:"Which sentence correctly uses the future perfect tense?", options:["By next June, I finish my project.","By next June, I am finish my project.","By next June, I will have finished my project.","By next June, I finishing my project."], answer:2},
+     {q:"Why might a writer use the past perfect tense when describing two events that both happened in the past?", options:["A concept unrelated to grammar","The past perfect tense can never describe more than one event","To make both events seem like they happen in the future","To show clearly which of the two events happened first"], answer:3},
+     {q:"Which sentence correctly uses the present perfect tense?", options:["She has visited that museum three times.","She having visited that museum three times.","She will visited that museum three times.","She visit that museum three times."], answer:0}
+   ]},
+  {subject:"Math", title:"Algebra: Point-Slope Form of a Linear Equation", summary:"Grade 7 Math strand: point-slope form, written as y minus y1 equals m times the quantity x minus x1, lets a person write the equation of a line directly from its slope m and the coordinates of a single known point (x1, y1), which is especially useful when the y-intercept is not known.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What two pieces of information does point-slope form require to write the equation of a line?", options:["The slope and the coordinates of one known point on the line","A concept unrelated to algebra","Two unrelated equations with no shared point","Only the y-intercept of the line"], answer:0},
+     {q:"What is the general form of the point-slope equation?", options:["y minus y1 equals m times the quantity x minus x1","y equals x plus m","A concept unrelated to point-slope form","m equals y1 minus x1"], answer:0},
+     {q:"If a line has a slope of 3 and passes through the point (2, 5), what is its point-slope equation?", options:["A concept unrelated to point-slope form","y minus 5 equals 2 times the quantity x minus 3","y minus 5 equals 3 times the quantity x minus 2","y minus 2 equals 3 times the quantity x minus 5"], answer:2},
+     {q:"Why might point-slope form be more convenient than slope-intercept form when only a slope and one non-intercept point are known?", options:["It lets you write the equation immediately without first solving for the y-intercept","A concept unrelated to algebra","Slope-intercept form never requires knowing the y-intercept","Point-slope form can never be converted into slope-intercept form"], answer:0},
+     {q:"How can a point-slope equation be rewritten in slope-intercept form?", options:["By deleting the slope value entirely","By expanding and isolating y on one side of the equation","A concept unrelated to linear equations","Point-slope and slope-intercept forms can never describe the same line"], answer:1}
+   ]},
+  {subject:"Science", title:"Astronomy: Solar and Lunar Eclipses", summary:"Grade 7 Science strand: a solar eclipse occurs when the moon passes directly between the sun and Earth, blocking some or all of the suns light, while a lunar eclipse occurs when Earth passes between the sun and the moon, causing Earths shadow to fall across the moons surface.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What happens during a solar eclipse?", options:["Earth passes between the sun and the moon","A concept unrelated to astronomy","The sun disappears permanently from the sky","The moon passes between the sun and Earth, blocking some or all sunlight"], answer:3},
+     {q:"What happens during a lunar eclipse?", options:["Earth passes between the sun and the moon, casting its shadow on the moon","The moon passes between the sun and Earth","A concept unrelated to eclipses","The moon moves permanently out of orbit"], answer:0},
+     {q:"Why do eclipses not happen every single month, even though the moon orbits Earth monthly?", options:["The moon stops moving during most months","Eclipses actually happen every single day","The moons orbit is tilted slightly relative to Earths orbit around the sun, so perfect alignment is rare","A concept unrelated to astronomy"], answer:2},
+     {q:"During a total solar eclipse, what can typically be seen from within the path of totality?", options:["The suns outer atmosphere, or corona, briefly becomes visible","A concept unrelated to solar eclipses","The sun grows permanently brighter than usual","The moon becomes completely invisible in the sky"], answer:0},
+     {q:"Why is it dangerous to look directly at the sun during a partial solar eclipse without proper eye protection?", options:["Partial eclipses produce no sunlight at all","Harmful sunlight can still damage the eyes even when much of the sun is blocked","Eye protection has no effect during any type of eclipse","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Founding of Halifax in 1749", summary:"Grade 7 Social Studies strand: the British founded Halifax in 1749 as a fortified naval settlement on the Atlantic coast, intended to counterbalance the nearby French fortress of Louisbourg, and the city grew into a major port and naval base central to Atlantic Canadas history.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In what year was Halifax founded?", options:["1749","1917","1867","1608"], answer:0},
+     {q:"Which European power founded Halifax?", options:["France","Spain","A concept unrelated to Halifax","Britain"], answer:3},
+     {q:"Why did the British want a fortified settlement at Halifax?", options:["A concept unrelated to Canadian history","To counterbalance the nearby French fortress of Louisbourg","Halifax was founded with no strategic purpose at all","To eliminate all French presence from Europe entirely"], answer:1},
+     {q:"What role did Halifax grow into over time?", options:["A major Atlantic port and naval base","A landlocked farming settlement with no ocean access","A city with no connection to shipping or the navy","A concept unrelated to the founding of Halifax"], answer:0},
+     {q:"Why was a coastal location strategically important for a settlement like Halifax?", options:["This concept has no relevance to social studies","Halifax was built far from any coastline","It allowed ships and naval forces to be based there for defence and trade","Coastal location has no strategic value of any kind"], answer:2}
+   ]},
+]},
+{day:162, label:"Day 162 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Restrictive and Non-Restrictive Modifiers", summary:"Grade 7 Language strand: a restrictive modifier provides essential information needed to identify the noun it describes and is not set off by commas, while a non-restrictive modifier adds extra, non-essential information and is set off by commas.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does a restrictive modifier do?", options:["Always begins a sentence with a comma","Adds information that could be removed with no change in meaning","Provides essential information needed to identify the noun it describes","A concept unrelated to grammar"], answer:2},
+     {q:"How is a non-restrictive modifier typically punctuated?", options:["It is set off by commas","It is never separated from the rest of the sentence in any way","A concept unrelated to modifiers","It always ends with an exclamation mark"], answer:0},
+     {q:"Which sentence uses a restrictive modifier correctly, without commas?", options:["The book that is on the table belongs to me.","The book that, is on the table belongs, to me.","The, book that is on the table belongs to me.","The book, that is on the table, belongs to me."], answer:0},
+     {q:"Why might removing a non-restrictive modifier from a sentence leave the core meaning unchanged?", options:["Non-restrictive modifiers always change the entire meaning of a sentence","Removing any modifier always makes a sentence meaningless","A non-restrictive modifier adds extra detail rather than identifying which noun is meant","A concept unrelated to grammar"], answer:2},
+     {q:"Which sentence uses a non-restrictive modifier correctly, with commas?", options:["My, sister who lives in Ottawa, is visiting.","My sister, who lives in Ottawa, is visiting this weekend.","My sister who, lives in Ottawa is visiting.","My sister who lives in Ottawa is visiting this weekend and only her."], answer:1}
+   ]},
+  {subject:"Math", title:"Measurement: Elapsed Time and 24-Hour Clock Conversions", summary:"Grade 7 Math strand: elapsed time is found by subtracting a starting time from an ending time, and the 24-hour clock avoids the need for AM and PM by numbering the hours of the day from 0 to 23, a format commonly used in travel schedules and scientific records.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"How is elapsed time generally calculated?", options:["A concept unrelated to measurement","Elapsed time cannot be calculated in any way","By adding the starting time and ending time together","By subtracting the starting time from the ending time"], answer:3},
+     {q:"What is 19:45 in 24-hour time converted to 12-hour time?", options:["7:45 AM","9:45 PM","7:45 PM","5:45 PM"], answer:2},
+     {q:"If a train departs at 2:15 PM and arrives at 5:40 PM, how much time has elapsed?", options:["2 hours and 40 minutes","3 hours and 15 minutes","4 hours and 5 minutes","3 hours and 25 minutes"], answer:3},
+     {q:"Why is the 24-hour clock often used in travel schedules and scientific records?", options:["A concept unrelated to measurement","It avoids confusion between AM and PM times","It removes the need to track time at all","It makes every schedule exactly one hour longer"], answer:1},
+     {q:"What time is 00:30 in 24-hour time when converted to 12-hour time?", options:["1:30 AM","12:30 PM","11:30 PM","12:30 AM"], answer:3}
+   ]},
+  {subject:"Science", title:"Earth Science: The Layers of the Atmosphere", summary:"Grade 7 Science strand: Earths atmosphere is divided into layers based on temperature and altitude, including the troposphere closest to the surface where weather occurs, the stratosphere containing the ozone layer, and the higher mesosphere, thermosphere, and exosphere.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"In which layer of the atmosphere does most weather occur?", options:["The troposphere","A concept unrelated to earth science","The stratosphere","The exosphere"], answer:0},
+     {q:"Which layer of the atmosphere contains most of the ozone layer?", options:["A concept unrelated to atmospheric layers","The troposphere","The mesosphere","The stratosphere"], answer:3},
+     {q:"What is the outermost layer of Earths atmosphere, gradually fading into space?", options:["The troposphere","The stratosphere","The exosphere","A concept unrelated to the atmosphere"], answer:2},
+     {q:"How are the layers of the atmosphere generally distinguished from one another?", options:["By differences in colour visible from the ground","A concept unrelated to earth science","By differences in temperature and altitude","Every layer of the atmosphere is identical"], answer:2},
+     {q:"Why is the ozone layer within the stratosphere considered important for life on Earth?", options:["The ozone layer only exists at ground level","This concept has no relevance to science","It absorbs much of the suns harmful ultraviolet radiation","The ozone layer has no effect on radiation reaching Earth"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Immigration Points System of 1967", summary:"Grade 7 Social Studies strand: introduced in 1967, Canadas immigration points system evaluates prospective immigrants using factors such as education, language ability, and work experience rather than country of origin, replacing earlier, more discriminatory immigration policies.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In what year was Canadas points-based immigration system introduced?", options:["1917","1967","1949","1982"], answer:1},
+     {q:"What kinds of factors does the points system use to evaluate prospective immigrants?", options:["Only the applicants age","Only the applicants country of origin","A concept unrelated to Canadian immigration policy","Education, language ability, and work experience"], answer:3},
+     {q:"What earlier approach to immigration did the points system help move Canada away from?", options:["Canada had no immigration policy at all before 1967","Policies that favoured or excluded applicants based on country of origin","A concept unrelated to social studies","Policies that considered only an applicants savings"], answer:1},
+     {q:"Why might a points system be considered a more equitable approach to selecting immigrants?", options:["A concept unrelated to immigration policy","It evaluates individual qualifications rather than background or origin","It removes all criteria for evaluating applicants","A points system always excludes every applicant automatically"], answer:1},
+     {q:"How might language ability, as a points-system factor, benefit a newcomer settling in Canada?", options:["Language ability has no connection to settling in a new country","Language ability is never considered relevant to immigration","It can help newcomers find work and integrate into their community more easily","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:163, label:"Day 163 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Compound Words and How They Are Formed", summary:"Grade 7 Language strand: a compound word is formed by joining two or more smaller words to create a new word with its own meaning, and compound words can be closed (notebook), hyphenated (well-known), or open with a space between the words (ice cream).",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a compound word?", options:["A word that always has exactly one syllable","A word formed by joining two or more smaller words together","A word that can never be broken into smaller words","A concept unrelated to vocabulary"], answer:1},
+     {q:"Which of these is an example of a closed compound word?", options:["A concept unrelated to compound words","Notebook","Ice cream","Well-known"], answer:1},
+     {q:"Which of these is an example of an open compound word, written with a space?", options:["A concept unrelated to vocabulary","Notebook","Sunflower","Ice cream"], answer:3},
+     {q:"Which of these is an example of a hyphenated compound word?", options:["Well-known","Notebook","Ice cream","A concept unrelated to hyphenation"], answer:0},
+     {q:"Why might the meaning of a compound word differ from the meanings of its two smaller words combined literally?", options:["Compound words always mean exactly what each smaller word means added together","This concept has no relevance to vocabulary","Compound words sometimes take on a new meaning that is not obvious from each part alone","A compound word can never carry any new meaning"], answer:2}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Insurance and Risk Management", summary:"Grade 7 Math strand: insurance is a way of managing financial risk in which a person pays regular premiums to a company that agrees to cover certain losses, helping individuals and families protect themselves against large, unexpected costs.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is insurance designed to help manage?", options:["A concept unrelated to financial literacy","Financial risk from large, unexpected costs","Every single everyday household expense","The exact weather forecast for a given day"], answer:1},
+     {q:"What does a person typically pay regularly to keep an insurance policy active?", options:["Nothing at all is ever paid for insurance","A one-time fee that is never repeated","A premium","A concept unrelated to insurance"], answer:2},
+     {q:"If a family pays 100 dollars a month for insurance, how much do they pay over one year?", options:["100 dollars","1100 dollars","1200 dollars","1000 dollars"], answer:2},
+     {q:"Why might a family choose to purchase insurance even if they never end up needing to make a claim?", options:["Insurance never provides any kind of financial protection","Insurance is only useful after an event has already happened","It provides financial protection in case an unexpected, costly event occurs","A concept unrelated to risk management"], answer:2},
+     {q:"What is one reason insurance premiums might be higher for a higher-risk situation?", options:["Higher risk increases the chance the insurance company will need to pay out a claim","This concept has no relevance to financial literacy","Risk level has no connection to insurance costs at all","Premiums are always identical regardless of risk level"], answer:0}
+   ]},
+  {subject:"Science", title:"Chemistry: The Law of Conservation of Mass", summary:"Grade 7 Science strand: the law of conservation of mass states that matter cannot be created or destroyed during a chemical reaction, meaning the total mass of the reactants must equal the total mass of the products.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does the law of conservation of mass state?", options:["Matter is always created during a chemical reaction","Matter cannot be created or destroyed during a chemical reaction","A concept unrelated to chemistry","Mass always disappears completely during a reaction"], answer:1},
+     {q:"In a chemical reaction, how should the total mass of the reactants compare to the total mass of the products?", options:["A concept unrelated to conservation of mass","The reactants should always weigh nothing at all","The products should always weigh less than the reactants","They should be equal"], answer:3},
+     {q:"If 10 grams of one substance react completely with 5 grams of another, what should the total mass of the products equal?", options:["5 grams","15 grams","10 grams","50 grams"], answer:1},
+     {q:"Why might a chemical reaction that produces a gas appear to lose mass if conducted in an open container?", options:["Mass is always destroyed whenever a gas forms","The gas escapes into the air and its mass is no longer measured in the container","A concept unrelated to chemistry","Gases never have any mass at all"], answer:1},
+     {q:"Why is the law of conservation of mass important when balancing chemical equations?", options:["Chemical equations never need to be balanced","It ensures the same number and type of atoms appear on both sides of the equation","Balancing equations has no connection to conservation of mass","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Royal Canadian Mounted Police and Canadian Policing History", summary:"Grade 7 Social Studies strand: the Royal Canadian Mounted Police traces its origins to the North-West Mounted Police, formed in 1873 to bring law and order to the western territories, and later grew into a national police force closely associated with Canadian identity.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What was the RCMP originally known as when it was formed in 1873?", options:["The Halifax Harbour Guard","The North-West Mounted Police","The Royal Canadian Navy","A concept unrelated to Canadian policing"], answer:1},
+     {q:"What was one original purpose of the North-West Mounted Police?", options:["A concept unrelated to the RCMP","To bring law and order to the western territories","To manage international trade agreements","To patrol the Atlantic coastline exclusively"], answer:1},
+     {q:"How has the RCMPs role changed since its founding in the 1870s?", options:["It grew from a regional force into a national police force","It was eliminated entirely shortly after being founded","A concept unrelated to social studies","It has never changed in any way since 1873"], answer:0},
+     {q:"Why might the RCMP be closely associated with Canadian identity around the world?", options:["Its distinctive uniform and history have become widely recognized national symbols","The RCMP operates only outside of Canada","The RCMP has no recognizable symbols or uniform of any kind","A concept unrelated to policing history"], answer:0},
+     {q:"Why might a country establish a national police force in addition to local or provincial police services?", options:["To provide law enforcement and coordination across larger or more remote areas","This concept has no relevance to social studies","National police forces have no purpose distinct from local police","A country can never have more than one police service"], answer:0}
+   ]},
+]},
+{day:164, label:"Day 164 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Making Inferences from Text Evidence", summary:"Grade 7 Language strand: an inference is a conclusion a reader draws by combining clues and evidence stated directly in a text with their own background knowledge, since authors do not always state every detail explicitly.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is an inference?", options:["A random guess with no connection to the text at all","A fact that is always stated directly and explicitly in the text","A conclusion drawn by combining text evidence with background knowledge","A concept unrelated to reading"], answer:2},
+     {q:"Why might a reader need to make an inference while reading a story?", options:["Every detail in every story is always stated explicitly","A concept unrelated to reading","Inferences are never useful when reading any text","Authors do not always state every detail directly, so readers must fill in gaps"], answer:3},
+     {q:"If a character slams a door and refuses to speak, what might a reader infer about their feelings?", options:["The character is definitely feeling calm and relaxed","The character is likely angry or upset","A concept unrelated to making inferences","No inference can ever be made from this description"], answer:1},
+     {q:"What two things does a reader typically combine to make a strong inference?", options:["Two completely unrelated pieces of information","A reader never needs any evidence to make an inference","A concept unrelated to reading","Evidence from the text and their own background knowledge"], answer:3},
+     {q:"Why is it important for a reader to be able to point to specific text evidence supporting an inference?", options:["Text evidence is never needed to support an inference","This concept has no relevance to reading","Inferences supported by evidence are always incorrect","It shows the inference is reasonably supported rather than just a guess"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Theory: Prime Factorization Using Factor Trees", summary:"Grade 7 Math strand: prime factorization means writing a whole number as a product of its prime factors, and a factor tree is a diagram that breaks a number down step by step into smaller factors until every branch ends in a prime number.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does prime factorization mean?", options:["Dividing a number by zero repeatedly","A concept unrelated to number theory","Writing a whole number as a product of its prime factors","Writing a whole number as a sum of unrelated numbers"], answer:2},
+     {q:"What is the prime factorization of 12?", options:["1 times 12","2 times 2 times 3","2 times 6","3 times 4"], answer:1},
+     {q:"In a factor tree, when does a branch stop being broken down further?", options:["When it reaches any even number","A factor tree never stops branching","When it reaches a prime number","A concept unrelated to factor trees"], answer:2},
+     {q:"What is the prime factorization of 30?", options:["3 times 10","5 times 6","2 times 3 times 5","2 times 15"], answer:2},
+     {q:"Why is prime factorization useful when finding the greatest common factor of two numbers?", options:["The greatest common factor can never be found using prime factors","Prime factorization has no connection to finding common factors","Comparing the prime factors of each number reveals which factors they share","A concept unrelated to number theory"], answer:2}
+   ]},
+  {subject:"Science", title:"Physics: The Law of Conservation of Energy", summary:"Grade 7 Science strand: the law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form into another, such as potential energy converting into kinetic energy, so the total energy in a closed system stays constant.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What does the law of conservation of energy state?", options:["A concept unrelated to physics","Energy is constantly being created out of nothing","Energy always disappears completely over time","Energy cannot be created or destroyed, only transformed from one form to another"], answer:3},
+     {q:"What happens to potential energy as an object falls?", options:["It converts into kinetic energy","It converts directly into mass","It disappears completely with no transformation","A concept unrelated to conservation of energy"], answer:0},
+     {q:"In a closed system with no energy entering or leaving, what happens to the total amount of energy?", options:["A concept unrelated to physics","It constantly decreases to zero","It constantly increases without limit","It stays constant"], answer:3},
+     {q:"Why might a swinging pendulum eventually slow down even though energy is conserved overall?", options:["Energy conservation means the pendulum can never slow down at all","A concept unrelated to conservation of energy","Some of its energy is transformed into heat and sound through friction and air resistance","The pendulum loses energy that simply vanishes from existence"], answer:2},
+     {q:"Why is the law of conservation of energy considered a fundamental principle in physics?", options:["It has been shown to be true only in outer space","It applies to nearly every physical process and helps explain how energy moves and changes form","This concept has no relevance to science","It applies only to a single, very specific type of machine"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Great Lakes — Economic and Ecological Importance", summary:"Grade 7 Social Studies strand: the five Great Lakes, Superior, Michigan, Huron, Erie, and Ontario, form the largest group of freshwater lakes by surface area in the world, supporting major shipping and trade routes, drinking water supplies, and diverse ecosystems, while also facing pollution and invasive species challenges.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"How many Great Lakes are there?", options:["Five","Seven","Three","A concept unrelated to the Great Lakes"], answer:0},
+     {q:"What makes the Great Lakes significant on a global scale?", options:["A concept unrelated to social studies","They contain no freshwater of any kind","They are located entirely outside of North America","They form the largest group of freshwater lakes by surface area in the world"], answer:3},
+     {q:"What is one economic activity supported by the Great Lakes?", options:["Shipping and trade","A concept unrelated to the Great Lakes","The Great Lakes support no economic activity of any kind","Only activities unrelated to water or transportation"], answer:0},
+     {q:"What is one environmental challenge facing the Great Lakes?", options:["Pollution and invasive species","A concept unrelated to ecology","Excessive ice cover every single day of the year","The Great Lakes face no environmental challenges at all"], answer:0},
+     {q:"Why are the Great Lakes important as a source of drinking water for millions of people?", options:["They hold a vast supply of accessible freshwater near many major cities","This concept has no relevance to social studies","Drinking water has no connection to the Great Lakes","The Great Lakes contain no freshwater suitable for drinking"], answer:0}
+   ]},
+]},
+{day:165, label:"Day 165 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Writing a Travel Brochure or Itinerary", summary:"Grade 7 Language strand: a travel brochure or itinerary blends persuasive and descriptive writing to highlight a destinations attractions, using vivid sensory details and a clear structure, such as a day-by-day itinerary or organized thematic sections, to inform and persuade readers.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What two writing styles does a travel brochure typically blend?", options:["Only technical and scientific writing","A concept unrelated to writing","Persuasive and descriptive writing","Only formal legal writing"], answer:2},
+     {q:"Why might a travel brochure use vivid sensory details?", options:["To help readers imagine the sights, sounds, and experiences of a destination","Sensory details are never included in a travel brochure","To make the destination sound as boring as possible","A concept unrelated to travel writing"], answer:0},
+     {q:"What is one common way to organize a travel itinerary?", options:["By listing activities in a completely random order","A concept unrelated to writing an itinerary","Day-by-day, listing planned activities for each day","With no organization or structure at all"], answer:2},
+     {q:"Why might a travel brochure end with a persuasive call to action?", options:["Persuasive writing is never appropriate in a travel brochure","To encourage readers to actually visit the destination","A call to action always discourages readers from visiting","This concept has no connection to writing"], answer:1},
+     {q:"Which sentence sounds most like it belongs in a travel brochure?", options:["Please find attached the quarterly financial report.","Add 15 and 20 to get 35.","The chemical symbol for gold is Au.","Wander the cobblestone streets at sunset and taste fresh pastries from a corner bakery."], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Classifying Triangles by Sides and Angles", summary:"Grade 7 Math strand: triangles can be classified by their side lengths as scalene (no equal sides), isosceles (two equal sides), or equilateral (three equal sides), and separately by their angle measures as acute, right, or obtuse.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is a scalene triangle?", options:["A concept unrelated to geometry","A triangle with exactly two equal sides","A triangle with three equal sides","A triangle with no equal sides"], answer:3},
+     {q:"What is an isosceles triangle?", options:["A triangle with exactly two equal sides","A concept unrelated to classifying triangles","A triangle with no equal sides at all","A triangle with three unequal angles only"], answer:0},
+     {q:"What is an equilateral triangle?", options:["A concept unrelated to triangles","A triangle with three equal sides","A triangle with no equal sides","A triangle that has four sides"], answer:1},
+     {q:"What defines a right triangle?", options:["It has one angle that measures exactly 90 degrees","A concept unrelated to classifying triangles by angle","It has no angles at all","It has three angles that are each greater than 90 degrees"], answer:0},
+     {q:"What defines an obtuse triangle?", options:["A concept unrelated to triangles","It has one angle greater than 90 degrees","It has one angle that measures exactly 90 degrees","It has three angles that are each less than 90 degrees and equal"], answer:1}
+   ]},
+  {subject:"Science", title:"Technology: How GPS and Satellite Navigation Work", summary:"Grade 7 Science strand: GPS satellites orbiting Earth continuously send timed signals to receivers on the ground, and a GPS device calculates its exact position by measuring the time delay of signals received from at least four satellites, a process called trilateration.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What do GPS satellites continuously send to receivers on the ground?", options:["Timed signals","Physical packages","Printed maps","A concept unrelated to technology"], answer:0},
+     {q:"How many satellites does a GPS receiver typically need signals from to determine its position?", options:["At least four","A concept unrelated to GPS","Zero satellites are ever needed","Exactly one"], answer:0},
+     {q:"What is the process of using signal timing from multiple satellites to determine position called?", options:["Evaporation","Photosynthesis","A concept unrelated to satellite navigation","Trilateration"], answer:3},
+     {q:"Why does a GPS device need to measure the time delay of a signal rather than just receiving it?", options:["Time delay has no connection to calculating distance","The time delay reveals the distance between the receiver and each satellite","GPS devices never measure any kind of time delay","A concept unrelated to GPS"], answer:1},
+     {q:"Why might GPS signals be weaker or less accurate inside a building or a dense forest?", options:["This concept has no relevance to science","Buildings and forests always improve GPS signal accuracy","Physical obstacles can block or interfere with the satellite signals","GPS satellites stop transmitting signals near any obstacle"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Supply Management in Canadian Agriculture", summary:"Grade 7 Social Studies strand: Canadas supply management system for dairy, eggs, and poultry uses production quotas, pricing controls, and import tariffs to help stabilize farmer incomes and consumer prices, setting these sectors apart from the more open-market approach used for many other agricultural products.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Which sectors of Canadian agriculture are commonly associated with supply management?", options:["A concept unrelated to Canadian agriculture","Only imported produce","Dairy, eggs, and poultry","Wheat and corn exclusively"], answer:2},
+     {q:"What is one tool used within the supply management system?", options:["Randomly assigned prices with no system behind them","Production quotas","A concept unrelated to social studies","Supply management uses no tools of any kind"], answer:1},
+     {q:"What is one goal of the supply management system?", options:["Eliminating all Canadian dairy and poultry farms","A concept unrelated to agriculture","Supply management has no goals connected to farming","Stabilizing farmer incomes and consumer prices"], answer:3},
+     {q:"How does supply management differ from a fully open agricultural market?", options:["A concept unrelated to supply management","An open market always involves production quotas as well","Supply management and an open market are always identical systems","It uses quotas and controls rather than leaving prices entirely to open competition"], answer:3},
+     {q:"Why might import tariffs be used alongside supply management?", options:["To help protect domestic producers from being undercut by cheaper imported goods","Tariffs are only ever applied to exported goods","This concept has no relevance to social studies","Import tariffs have no connection to domestic agriculture"], answer:0}
+   ]},
+]},
+{day:166, label:"Day 166 — Mon", subjects:[
+  {subject:"Language", title:"Reading: Analyzing Tone Shifts Within a Single Text", summary:"Grade 7 Language strand: tone is the attitude an author conveys toward a subject through word choice and style, and a tone shift occurs when that attitude changes partway through a text, often signaling a turning point, new information, or a change in the narrators perspective.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is tone in a piece of writing?", options:["The font used to print a text","The attitude an author conveys toward a subject","The exact number of words used in a text","A concept unrelated to reading"], answer:1},
+     {q:"What is a tone shift?", options:["A concept unrelated to tone shifts","A text that has no attitude of any kind from beginning to end","A change in the physical size of the book","A change in the authors attitude partway through a text"], answer:3},
+     {q:"What might a sudden tone shift from lighthearted to serious signal in a story?", options:["A concept unrelated to reading","The story has ended and a new, unrelated story has begun","A turning point or significant new development in the plot","Tone shifts never signal anything meaningful in a story"], answer:2},
+     {q:"How can word choice help create a specific tone in a text?", options:["Word choice never has any effect on the tone of a text","Certain words carry emotional associations that shape how a passage feels","Every word in every language carries the exact same tone","This concept has no connection to reading"], answer:1},
+     {q:"Why might a reader pay close attention to tone shifts while reading a novel?", options:["They can reveal important changes in mood, perspective, or plot direction","Tone shifts are always irrelevant to understanding a novel","This concept has no relevance to reading","Tone shifts only occur in poetry and never in novels"], answer:0}
+   ]},
+  {subject:"Math", title:"Data Management: Constructing and Interpreting Pictographs with Scaled Symbols", summary:"Grade 7 Math strand: a pictograph displays data using repeated symbols or icons, where each icon represents a set quantity called the scale, such as one icon equalling ten units, and a key or legend explains what the scale represents.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does a pictograph use to represent data?", options:["Repeated symbols or icons","Colours with no symbols involved","Only numbers with no symbols at all","A concept unrelated to data management"], answer:0},
+     {q:"What is the scale of a pictograph?", options:["The physical size of the paper used","The total number of categories shown in the pictograph","A concept unrelated to pictographs","The quantity that each symbol or icon represents"], answer:3},
+     {q:"If each icon in a pictograph represents 10 books read, and a row shows 3 icons, how many books were read?", options:["13 books","30 books","3 books","10 books"], answer:1},
+     {q:"What part of a pictograph explains what the scale represents?", options:["A concept unrelated to pictographs","Pictographs never include any explanation of scale","The title alone, with no other explanation","The key or legend"], answer:3},
+     {q:"Why might a half or partial icon appear in a pictograph?", options:["To represent a quantity that falls between two full scale increments","A concept unrelated to data management","A partial icon always represents zero","Partial icons are never used in a pictograph"], answer:0}
+   ]},
+  {subject:"Science", title:"Biology: Vestigial Structures and Evidence of Evolution", summary:"Grade 7 Science strand: a vestigial structure is a body part that has lost most or all of its original function over the course of evolutionary history, such as the human appendix or wisdom teeth, and such structures provide evidence of an organisms evolutionary past.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is a vestigial structure?", options:["A body part that has always served its current function perfectly","A body part that has lost most or all of its original function over time","A concept unrelated to biology","A structure that appears only in newly evolved species"], answer:1},
+     {q:"Which of these is often cited as an example of a vestigial structure in humans?", options:["A concept unrelated to vestigial structures","The appendix","The heart","The lungs"], answer:1},
+     {q:"What can vestigial structures provide evidence of?", options:["A concept unrelated to evolution","Nothing at all about an organisms history","Only an organisms current diet","An organisms evolutionary past"], answer:3},
+     {q:"Why might a structure become vestigial over many generations?", options:["A concept unrelated to biology","Structures never change in function across generations","It is no longer needed for survival in a changing environment, so it gradually loses function","Vestigial structures always become more useful over time"], answer:2},
+     {q:"Why do scientists consider vestigial structures useful when studying evolutionary relationships between species?", options:["Similar vestigial structures in different species can suggest a shared evolutionary ancestor","This concept has no relevance to science","Vestigial structures are always unique to a single species with no relation to others","Vestigial structures provide no useful information to scientists"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Senate — Structure, Role, and Reform Debates", summary:"Grade 7 Social Studies strand: the Senate is the upper house of Canadas Parliament, with senators appointed rather than elected, and it is intended to provide sober second thought by reviewing and revising legislation passed by the House of Commons, though its appointment process and role have long been the subject of reform debates.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"How do senators typically join the Canadian Senate?", options:["They are elected directly by voters in a general election","They inherit the position from a family member","They are appointed rather than elected","A concept unrelated to the Canadian Senate"], answer:2},
+     {q:"What is the Senate often described as providing when reviewing legislation?", options:["Sober second thought","No review of legislation at all","A concept unrelated to Canadian government","Final, unchangeable approval with no possibility of revision"], answer:0},
+     {q:"Which body of Parliament typically passes legislation before it goes to the Senate?", options:["The House of Commons","The Supreme Court","A provincial legislature","A concept unrelated to the Senate"], answer:0},
+     {q:"What has long been a subject of debate regarding the Canadian Senate?", options:["Whether Canada should have a House of Commons at all","Its appointment process and overall role","A concept unrelated to social studies","The Senate has never been the subject of any debate"], answer:1},
+     {q:"Why might critics argue that an appointed Senate raises questions about democratic accountability?", options:["Appointed positions are always considered more democratic than elected ones","Senators are not directly chosen by voters the way elected officials are","Senators are never involved in reviewing legislation","This concept has no relevance to social studies"], answer:1}
+   ]},
+]},
+{day:167, label:"Day 167 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Writing a Fable with a Clear Moral", summary:"Grade 7 Language strand: a fable is a short story, often featuring animal characters with human traits, that teaches a specific lesson or moral, which may be stated directly at the end of the story or left for the reader to infer.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is a fable?", options:["A lengthy novel with no clear lesson or purpose","A concept unrelated to writing","A story that must always be based on true events","A short story, often with animal characters, that teaches a lesson or moral"], answer:3},
+     {q:"What kind of characters do fables often feature?", options:["Animal characters with human traits","A concept unrelated to fables","Only human scientists and engineers","Characters that never speak or interact"], answer:0},
+     {q:"Where is the moral of a fable sometimes directly stated?", options:["A fable never includes a stated moral of any kind","Only in the very first sentence","At the end of the story","A concept unrelated to writing a fable"], answer:2},
+     {q:"Why might an author choose animal characters instead of human characters in a fable?", options:["Animal characters can represent human traits in a simple, memorable way","Animal characters can never represent any human traits","This concept has no connection to writing","Fables are required to avoid using any characters at all"], answer:0},
+     {q:"Which ending sounds most like the moral of a fable?", options:["The chemical symbol for gold is Au.","And so the tortoise learned that slow and steady effort can win in the end.","Please find attached the quarterly financial report.","Add 15 and 20 to get 35."], answer:1}
+   ]},
+  {subject:"Math", title:"Algebra: Translating Words into Algebraic Expressions and Equations", summary:"Grade 7 Math strand: translating a word problem into algebra involves identifying key words that signal an operation or an unknown quantity, such as sum, difference, product, or quotient, and then writing an algebraic expression or equation that matches the situation described.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"Which word in a word problem often signals addition?", options:["Product","A concept unrelated to algebra","Quotient","Sum"], answer:3},
+     {q:"Which expression represents 5 more than a number x?", options:["x minus 5","x plus 5","5 minus x","A concept unrelated to translating expressions"], answer:1},
+     {q:"Which expression represents the product of a number n and 7?", options:["n minus 7","n plus 7","A concept unrelated to algebra","7 times n"], answer:3},
+     {q:"Which equation represents the statement, three times a number is equal to 21?", options:["3 times x equals 21","A concept unrelated to translating word problems","x plus 3 equals 21","21 times x equals 3"], answer:0},
+     {q:"Why is identifying key words an important first step when translating a word problem into algebra?", options:["A concept unrelated to algebra","Key words reveal which operation and structure the algebraic expression should use","Key words never provide any useful information about a word problem","Word problems can never be translated into algebraic expressions"], answer:1}
+   ]},
+  {subject:"Science", title:"Earth Science: Measuring Earthquakes — Magnitude and Seismographs", summary:"Grade 7 Science strand: seismographs are instruments that detect and record ground motion during an earthquake, and magnitude scales measure the energy released by an earthquake, with each whole number increase on the scale representing a significantly larger release of energy.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What instrument is used to detect and record ground motion during an earthquake?", options:["A concept unrelated to earth science","A seismograph","A thermometer","A barometer"], answer:1},
+     {q:"What does an earthquakes magnitude measure?", options:["The exact number of buildings affected","A concept unrelated to measuring earthquakes","The energy released by the earthquake","The temperature of the ground during the earthquake"], answer:2},
+     {q:"What generally happens to the energy released as magnitude increases by a whole number on a magnitude scale?", options:["A concept unrelated to seismographs","The energy released always decreases","The energy released becomes significantly larger","The energy released stays exactly the same"], answer:2},
+     {q:"Why might scientists place seismographs in many different locations around the world?", options:["Seismographs are only ever useful in a single fixed location","A concept unrelated to earth science","To detect and compare ground motion from earthquakes across different regions","Seismographs cannot function unless they are all in the same city"], answer:2},
+     {q:"Why is it useful for engineers to understand earthquake magnitude when designing buildings in earthquake-prone areas?", options:["It helps them design structures that can withstand the expected level of ground motion","Buildings never need to account for earthquakes during construction","This concept has no relevance to science","Magnitude has no connection to how buildings are designed"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Hockey and Its Role in Canadian National Identity", summary:"Grade 7 Social Studies strand: ice hockey has long been closely tied to Canadian culture, from community rinks and minor leagues to international competitions such as the Olympics, often serving as a unifying symbol of national pride across different regions of the country.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"What winter sport has long been closely tied to Canadian culture?", options:["Rugby","A concept unrelated to Canadian identity","Cricket","Ice hockey"], answer:3},
+     {q:"Where does hockey in Canada often begin for many young players?", options:["Hockey in Canada has no connection to local communities","Community rinks and minor leagues","Only large professional stadiums are ever used","A concept unrelated to hockey and identity"], answer:1},
+     {q:"At what type of international event has Canadian hockey often been a source of national pride?", options:["The Olympics","A concept unrelated to hockey","World literature conferences","International trade summits"], answer:0},
+     {q:"Why might hockey be described as a unifying symbol across different regions of Canada?", options:["Hockey has no cultural significance anywhere in Canada","A concept unrelated to social studies","It is widely followed and celebrated in communities across the country","Hockey is followed in only one small region of Canada"], answer:2},
+     {q:"Why might a sport become closely connected to a countrys sense of national identity?", options:["National identity can never be expressed through cultural activities","This concept has no relevance to social studies","Shared enthusiasm for the sport can create a sense of common pride and belonging","Sports never have any connection to how people view their national identity"], answer:2}
+   ]},
+]},
+{day:168, label:"Day 168 — Wed", subjects:[
+  {subject:"Language", title:"Media Literacy: Analyzing Reality Television and Its Construction", summary:"Grade 7 Language strand: although reality television appears unscripted, it is often shaped through editing, camera angles, and situations arranged by producers, so media-literate viewers should think critically about how the reality shown on screen has been constructed for entertainment.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What is one way reality television is often shaped by producers?", options:["Only by the unscripted choices of the people appearing on screen","Reality television is never shaped or influenced in any way","Through editing, camera angles, and arranged situations","A concept unrelated to media literacy"], answer:2},
+     {q:"Why might a media-literate viewer question how realistic a reality show truly is?", options:["A concept unrelated to reality television","Reality shows are always filmed with absolutely no editing of any kind","Every moment shown is always exactly as it happened with no changes","Editing and staged situations can shape what appears on screen"], answer:3},
+     {q:"What technique can editing use to shape how a viewer perceives a moment on a reality show?", options:["Editing has no effect on how viewers perceive a scene","Selecting and arranging footage to emphasize a particular story or emotion","Editing can only ever remove sound from a scene","A concept unrelated to media literacy"], answer:1},
+     {q:"Why might producers arrange certain situations on a reality show in advance?", options:["This concept has no connection to media literacy","Arranged situations always make a show less entertaining","To create more dramatic or entertaining moments for viewers","Producers are never involved in planning any part of a reality show"], answer:2},
+     {q:"Why is it useful for viewers to think critically about the construction of reality television?", options:["It helps them understand that what they see has been shaped for entertainment rather than being purely spontaneous","Reality television requires no thought or analysis of any kind","Critical thinking has no value when watching any type of television","This concept has no relevance to media literacy"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Calculating the Area of Composite 2D Shapes", summary:"Grade 7 Math strand: the area of a composite two-dimensional shape can be found by breaking the figure into simpler shapes, such as rectangles, triangles, or circles, calculating the area of each simpler shape separately, and then adding or subtracting these areas as needed.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What is the first general step in finding the area of a composite 2D shape?", options:["Break the figure into simpler shapes, such as rectangles or triangles","Immediately guess the total area with no calculation","Ignore the shape entirely and use a fixed formula","A concept unrelated to geometry"], answer:0},
+     {q:"If a composite shape is made of a rectangle with area 24 square units and a triangle with area 6 square units added onto it, what is the total area?", options:["18 square units","6 square units","24 square units","30 square units"], answer:3},
+     {q:"Why might subtracting an area be necessary when finding the area of some composite shapes?", options:["A concept unrelated to composite 2D shapes","A smaller shape, such as a hole or cutout, may need to be removed from a larger shape","All composite shapes only ever require addition","Subtracting area is never necessary when working with composite shapes"], answer:1},
+     {q:"If a square with area 16 square units has a circular hole with area 4 square units cut out of it, what is the remaining area?", options:["12 square units","4 square units","20 square units","16 square units"], answer:0},
+     {q:"Why is breaking a composite shape into simpler shapes a useful problem-solving strategy?", options:["Area formulas only ever apply to an entire composite shape at once","It allows familiar area formulas to be applied to each simpler part","Composite shapes can never be broken into simpler shapes","A concept unrelated to geometry"], answer:1}
+   ]},
+  {subject:"Science", title:"Biology: Animal Classification — Vertebrates and Invertebrates", summary:"Grade 7 Science strand: animals are broadly classified as vertebrates, which have a backbone, including mammals, birds, fish, reptiles, and amphibians, or invertebrates, which lack a backbone, including insects, worms, and mollusks, and invertebrates make up the vast majority of animal species on Earth.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What defines a vertebrate?", options:["It always lives exclusively underwater","A concept unrelated to animal classification","It has no backbone at all","It has a backbone"], answer:3},
+     {q:"What defines an invertebrate?", options:["It always has a backbone","It is always larger than a vertebrate","It lacks a backbone","A concept unrelated to biology"], answer:2},
+     {q:"Which of these groups is classified as vertebrates?", options:["Insects, worms, and mollusks","Only single-celled organisms","A concept unrelated to vertebrate classification","Mammals, birds, fish, reptiles, and amphibians"], answer:3},
+     {q:"Which of these is an example of an invertebrate?", options:["A concept unrelated to animal classification","An insect","A bird","A mammal"], answer:1},
+     {q:"Why might scientists say invertebrates make up the vast majority of animal species on Earth?", options:["This concept has no relevance to science","Every animal species on Earth is classified as a vertebrate","Groups like insects alone include an enormous number of distinct species","Vertebrates actually outnumber invertebrates by a wide margin"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Massey Commission and Canadian Culture", summary:"Grade 7 Social Studies strand: the Massey Commission, active from 1949 to 1951, studied the state of the arts, letters, and sciences in Canada, and its recommendations led to the creation of the Canada Council for the Arts and helped shape federal support for Canadian culture and broadcasting.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"Roughly when was the Massey Commission active?", options:["1982 to 1984","1949 to 1951","1917 to 1919","A concept unrelated to Canadian history"], answer:1},
+     {q:"What areas did the Massey Commission study in Canada?", options:["A concept unrelated to the Massey Commission","The arts, letters, and sciences","Only military spending","Only foreign trade policy"], answer:1},
+     {q:"What organization was created as a result of the Massey Commissions recommendations?", options:["The Bank of Canada","The Royal Canadian Mint","The Canada Council for the Arts","A concept unrelated to Canadian culture"], answer:2},
+     {q:"What broader area of Canadian life did the Massey Commissions recommendations help shape?", options:["A concept unrelated to social studies","Only Canadas system of provincial taxation","Federal support for Canadian culture and broadcasting","The Massey Commission had no lasting effect on Canada"], answer:2},
+     {q:"Why might a government commission studying the arts lead to long-term support for Canadian culture?", options:["Its recommendations can result in institutions and funding that continue to support culture for years afterward","Studying the arts has no connection to how a government funds culture","This concept has no relevance to social studies","Government commissions never lead to any lasting institutions or funding"], answer:0}
+   ]},
+]},
+{day:169, label:"Day 169 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Synonyms, Antonyms, and Shades of Meaning", summary:"Grade 7 Language strand: synonyms are words with similar meanings and antonyms are words with opposite meanings, and skilled writers choose among near-synonyms based on subtle shades of meaning, such as connotation, intensity, or formality, to communicate precisely.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What are synonyms?", options:["Words with completely opposite meanings","Words that are always spelled identically","A concept unrelated to vocabulary","Words with similar meanings"], answer:3},
+     {q:"What are antonyms?", options:["Words with identical meanings","Words that never appear in the same sentence","Words with opposite meanings","A concept unrelated to antonyms"], answer:2},
+     {q:"Which word could serve as an antonym for the word generous?", options:["Kind","Giving","A concept unrelated to antonyms","Stingy"], answer:3},
+     {q:"Why might a writer choose the word furious instead of the near-synonym annoyed?", options:["Furious conveys a much stronger degree of anger than annoyed","Word choice never affects the intensity conveyed in writing","A concept unrelated to vocabulary","Furious and annoyed always mean exactly the same thing with no difference"], answer:0},
+     {q:"Why is understanding shades of meaning among synonyms useful for precise writing?", options:["Every synonym for a word conveys the exact same tone and degree","This concept has no relevance to vocabulary","Precise writing never depends on which synonym is chosen","It helps a writer select the word that most accurately conveys the intended tone and degree"], answer:3}
+   ]},
+  {subject:"Math", title:"Probability: The Law of Large Numbers", summary:"Grade 7 Math strand: the law of large numbers states that as the number of trials in a probability experiment increases, the experimental probability tends to get closer and closer to the theoretical probability.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What does the law of large numbers describe?", options:["A rule that only applies to numbers greater than one million","A guarantee that any single trial will always match the theoretical probability","A concept unrelated to probability","How experimental probability tends to approach theoretical probability as trials increase"], answer:3},
+     {q:"If you flip a fair coin many, many times, what does the law of large numbers predict about the proportion of heads?", options:["It will get closer to 50 percent as the number of flips increases","It will move further away from 50 percent as flips increase","It will always equal exactly 50 percent after just two flips","A concept unrelated to the law of large numbers"], answer:0},
+     {q:"Why might the experimental probability from only 5 coin flips differ noticeably from the theoretical probability?", options:["A concept unrelated to probability","5 flips is already considered a very large number of trials","A small number of trials is more likely to show random variation from the expected outcome","Small numbers of trials always exactly match theoretical probability"], answer:2},
+     {q:"Why is the law of large numbers useful for insurance companies estimating risk?", options:["Insurance companies never rely on probability of any kind","The law of large numbers has no connection to estimating risk","A concept unrelated to probability","Analyzing a very large number of cases helps produce more reliable probability estimates"], answer:3},
+     {q:"What generally happens to the reliability of an experimental probability as the number of trials increases?", options:["It generally becomes less reliable as trials increase","It generally becomes more reliable and closer to the theoretical probability","The number of trials has no effect on reliability at all","A concept unrelated to the law of large numbers"], answer:1}
+   ]},
+  {subject:"Science", title:"Physics: Gravity and Free Fall", summary:"Grade 7 Science strand: gravity is a force that pulls objects toward each other, and near Earths surface, objects in free fall accelerate toward the ground at a constant rate, regardless of their mass, as long as air resistance is ignored.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What is gravity?", options:["A force that only ever pushes objects apart","A force that pulls objects toward each other","A concept unrelated to physics","A force that exists only in outer space"], answer:1},
+     {q:"If air resistance is ignored, how does the acceleration of a falling object relate to its mass?", options:["Lighter objects always accelerate much faster than heavier objects","Heavier objects always accelerate much faster than lighter objects","Objects accelerate at the same constant rate regardless of their mass","A concept unrelated to gravity"], answer:2},
+     {q:"What term describes an object falling and accelerating due to gravity alone?", options:["Static motion","Terminal stillness","A concept unrelated to gravity and free fall","Free fall"], answer:3},
+     {q:"Why might a feather fall more slowly than a rock when dropped in normal air, even though gravity pulls on both equally?", options:["The feather is not actually affected by gravity at all","Gravity pulls harder on the rock than it does on the feather","Air resistance affects the feather more due to its shape and lower density","A concept unrelated to physics"], answer:2},
+     {q:"Why would a feather and a rock fall at the same rate if dropped together in a vacuum?", options:["With no air resistance present, gravity alone determines the acceleration of both objects equally","This concept has no relevance to science","A vacuum causes gravity to stop acting on objects entirely","Only heavier objects are affected by gravity inside a vacuum"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Canadian Museum for Human Rights", summary:"Grade 7 Social Studies strand: the Canadian Museum for Human Rights, which opened in Winnipeg in 2014, is dedicated to the exploration, education, and reflection on human rights themes, and it was the first Canadian national museum located outside of the Ottawa region.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In what city is the Canadian Museum for Human Rights located?", options:["Halifax","A concept unrelated to Canadian museums","Winnipeg","Ottawa"], answer:2},
+     {q:"In what year did the Canadian Museum for Human Rights open?", options:["1917","1982","2014","1949"], answer:2},
+     {q:"What is the Canadian Museum for Human Rights dedicated to?", options:["Exploration, education, and reflection on human rights themes","A concept unrelated to the museum","Displaying only historical military equipment","Promoting a single, unrelated industry"], answer:0},
+     {q:"What made this museum notable among Canadian national museums when it opened?", options:["A concept unrelated to social studies","It was built with no connection to any national theme","It was the first Canadian national museum located outside of the Ottawa region","It was the very first museum ever built in Canada"], answer:2},
+     {q:"Why might a country choose to build a museum focused specifically on human rights?", options:["Human rights have no connection to museums or public education","This concept has no relevance to social studies","Museums focused on human rights serve no educational purpose","To educate the public and encourage reflection on important human rights issues"], answer:3}
+   ]},
+]},
+{day:170, label:"Day 170 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Verb Tenses, Inferences, and Media Literacy", summary:"Grade 7 Language strand review: students revisit the perfect verb tenses, restrictive and non-restrictive modifiers, making inferences from text evidence, writing a fable with a clear moral, and analyzing reality television.",
+   resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   quiz:[
+     {q:"What does the present perfect tense generally show?", options:["An action that started in the past and still has relevance now","A concept unrelated to grammar","An action that can only happen in the future","An action that will never happen"], answer:0},
+     {q:"What does a restrictive modifier do?", options:["Provides essential information needed to identify the noun it describes","Always begins a sentence with a comma","A concept unrelated to grammar","Adds information that could be removed with no change in meaning"], answer:0},
+     {q:"What is an inference?", options:["A concept unrelated to reading","A fact that is always stated directly and explicitly in the text","A conclusion drawn by combining text evidence with background knowledge","A random guess with no connection to the text at all"], answer:2},
+     {q:"What is a fable?", options:["A concept unrelated to writing","A story that must always be based on true events","A lengthy novel with no clear lesson or purpose","A short story, often with animal characters, that teaches a lesson or moral"], answer:3},
+     {q:"What is one way reality television is often shaped by producers?", options:["Reality television is never shaped or influenced in any way","Through editing, camera angles, and arranged situations","Only by the unscripted choices of the people appearing on screen","A concept unrelated to media literacy"], answer:1}
+   ]},
+  {subject:"Math", title:"Math Review: Point-Slope Form, Probability, and Geometry", summary:"Grade 7 Math strand review: students revisit point-slope form, elapsed time conversions, prime factorization, classifying triangles, and the law of large numbers.",
+   resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   quiz:[
+     {q:"What two pieces of information does point-slope form require to write the equation of a line?", options:["Only the y-intercept of the line","The slope and the coordinates of one known point on the line","Two unrelated equations with no shared point","A concept unrelated to algebra"], answer:1},
+     {q:"What is 19:45 in 24-hour time converted to 12-hour time?", options:["9:45 PM","7:45 AM","5:45 PM","7:45 PM"], answer:3},
+     {q:"What is the prime factorization of 12?", options:["2 times 6","3 times 4","1 times 12","2 times 2 times 3"], answer:3},
+     {q:"What is a scalene triangle?", options:["A triangle with three equal sides","A concept unrelated to geometry","A triangle with no equal sides","A triangle with exactly two equal sides"], answer:2},
+     {q:"What does the law of large numbers describe?", options:["A rule that only applies to numbers greater than one million","A guarantee that any single trial will always match the theoretical probability","A concept unrelated to probability","How experimental probability tends to approach theoretical probability as trials increase"], answer:3}
+   ]},
+  {subject:"Science", title:"Science Review: Eclipses, Atmosphere, and Conservation Laws", summary:"Grade 7 Science strand review: students revisit solar and lunar eclipses, the layers of the atmosphere, the law of conservation of mass, the law of conservation of energy, and gravity and free fall.",
+   resourceLabel:"TVO Learn: Grade 7 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   quiz:[
+     {q:"What happens during a solar eclipse?", options:["Earth passes between the sun and the moon","A concept unrelated to astronomy","The sun disappears permanently from the sky","The moon passes between the sun and Earth, blocking some or all sunlight"], answer:3},
+     {q:"In which layer of the atmosphere does most weather occur?", options:["A concept unrelated to earth science","The stratosphere","The exosphere","The troposphere"], answer:3},
+     {q:"What does the law of conservation of mass state?", options:["Mass always disappears completely during a reaction","A concept unrelated to chemistry","Matter is always created during a chemical reaction","Matter cannot be created or destroyed during a chemical reaction"], answer:3},
+     {q:"What does the law of conservation of energy state?", options:["Energy is constantly being created out of nothing","Energy always disappears completely over time","Energy cannot be created or destroyed, only transformed from one form to another","A concept unrelated to physics"], answer:2},
+     {q:"If air resistance is ignored, how does the acceleration of a falling object relate to its mass?", options:["Heavier objects always accelerate much faster than lighter objects","Objects accelerate at the same constant rate regardless of their mass","Lighter objects always accelerate much faster than heavier objects","A concept unrelated to gravity"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Halifax, Policing, and Canadian Institutions", summary:"Grade 7 Social Studies strand review: students revisit the founding of Halifax, the immigration points system, the RCMP and Canadian policing history, the Canadian Senate, and the Canadian Museum for Human Rights.",
+   resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   quiz:[
+     {q:"In what year was Halifax founded?", options:["1608","1867","1917","1749"], answer:3},
+     {q:"In what year was Canadas points-based immigration system introduced?", options:["1967","1949","1982","1917"], answer:0},
+     {q:"What was the RCMP originally known as when it was formed in 1873?", options:["The North-West Mounted Police","A concept unrelated to Canadian policing","The Halifax Harbour Guard","The Royal Canadian Navy"], answer:0},
+     {q:"How do senators typically join the Canadian Senate?", options:["A concept unrelated to the Canadian Senate","They inherit the position from a family member","They are elected directly by voters in a general election","They are appointed rather than elected"], answer:3},
+     {q:"In what city is the Canadian Museum for Human Rights located?", options:["Ottawa","Halifax","A concept unrelated to Canadian museums","Winnipeg"], answer:3}
    ]},
 ]},
 ];

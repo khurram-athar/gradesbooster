@@ -2149,6 +2149,7 @@ const curriculum: DayContent[] = [
 {day:52, label:"Day 52 — Tue", subjects:[
   {subject:"Language", title:"Grammar: Active Voice vs Passive Voice", summary:"Grade 6 Language strand: in active voice, the subject performs the action (“The dog chased the ball”), while in passive voice, the subject receives the action (“The ball was chased by the dog”).",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=3TlWDZLBHIc",
    quiz:[
      {q:"In active voice, the subject ___.", options:["A concept unrelated to active voice","Performs the action","Is always left out of the sentence","Receives the action"], answer:1},
      {q:"In passive voice, the subject ___.", options:["A concept unrelated to passive voice","Performs the action","Receives the action","Is always the one doing the action"], answer:2},
@@ -2158,6 +2159,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Square Roots and Perfect Squares", summary:"Grade 6 Math strand: a perfect square is the product of a whole number multiplied by itself, and its square root is the number that produces that product.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=PTa9AQ9L3G8",
    quiz:[
      {q:"A perfect square is the result of ___.", options:["Any two different numbers added together","A concept unrelated to perfect squares","A whole number multiplied by itself","A whole number divided by itself"], answer:2},
      {q:"What is the square root of 25?", options:["A value unrelated to the calculation","25","5","10"], answer:2},
@@ -2167,6 +2169,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Acids, Bases, and pH", summary:"Grade 6 Science strand: acids and bases are types of chemical substances measured on the pH scale, where lower numbers indicate acids, higher numbers indicate bases, and 7 is neutral.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=V5Mq_cL9Bck",
    quiz:[
      {q:"On the pH scale, a substance with a pH below 7 is considered ___.", options:["An acid","Neutral","A base","A term unrelated to the pH scale"], answer:0},
      {q:"On the pH scale, a substance with a pH above 7 is considered ___.", options:["A term unrelated to the pH scale","A base","An acid","Neutral"], answer:1},
@@ -2176,6 +2179,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canada’s Role in NATO and International Alliances", summary:"Grade 6 Social Studies strand: Canada is a founding member of NATO, an alliance of countries that agree to support one another for collective defence and international security.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=eBG33GxpkUI",
    quiz:[
      {q:"NATO is an alliance of countries that agree to ___.", options:["Never cooperate with one another on any issue","Compete against each other militarily","Support one another for collective defence and security","A concept unrelated to international alliances"], answer:2},
      {q:"Canada’s role in NATO is best described as ___.", options:["A country with no connection to NATO at all","A founding member that participates in collective defence efforts","A country that has never joined any international alliance","A concept unrelated to Canada’s foreign policy"], answer:1},
