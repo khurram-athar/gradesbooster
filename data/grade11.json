@@ -39010,5 +39010,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 161,
+    "label": "Day 161 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Poetry: The Haiku and Tanka — Compression and Natural Imagery",
+        "summary": "Grade 11 English strand: a haiku is a compressed three-line poetic form built around a fixed syllable pattern and a single vivid image drawn from nature, while a tanka extends the same tradition to five lines and adds a personal or emotional turn after the natural image has been established.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What structural feature defines a haiku?",
+            "options": [
+              "A rhymed couplet describing an urban skyline",
+              "A twelve-line form with no fixed structure at all",
+              "A compressed three-line form built around a single natural image",
+              "A form that forbids any reference to nature"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many lines does a tanka typically have?",
+            "options": [
+              "Two lines",
+              "Five lines",
+              "A tanka has no fixed number of lines at all",
+              "Fourteen lines"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What often follows the natural image in a tanka that a haiku does not usually include?",
+            "options": [
+              "A formal legal argument",
+              "A second, unrelated natural image with no connection to the first",
+              "A personal or emotional turn",
+              "A list of historical dates"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a poet choose the compressed form of a haiku to describe a single moment?",
+            "options": [
+              "Haiku are required to describe multiple unrelated moments at once",
+              "A longer form always captures a moment more effectively than a short one",
+              "The brevity forces the poet to distill the moment to its most essential image",
+              "Compression removes all imagery from a poem"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What poetic tradition do both the haiku and the tanka descend from?",
+            "options": [
+              "A tradition with no connection to nature imagery",
+              "A Japanese poetic tradition centered on natural imagery",
+              "An ancient Roman tradition of epic verse",
+              "A tradition that forbids any fixed syllable pattern"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus: Higher-Order Derivatives and Rates of Change of Rates of Change",
+        "summary": "Grade 11 Functions strand: a higher-order derivative is found by differentiating a function more than once, so the third derivative measures how the rate of change of the rate of change is itself changing, and higher-order derivatives reveal increasingly subtle features of a functions behaviour beyond slope and concavity.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "How is a higher-order derivative found?",
+            "options": [
+              "By graphing the function with no further calculation",
+              "By integrating a function a single time",
+              "By differentiating a function more than once",
+              "By setting the function equal to zero and solving"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the third derivative of a function measure?",
+            "options": [
+              "The total area under the original curve",
+              "How the rate of change of the rate of change is itself changing",
+              "The exact y-intercept of the original function",
+              "A quantity with no relationship to the original function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do higher-order derivatives reveal beyond slope and concavity?",
+            "options": [
+              "Nothing beyond what the first derivative already shows",
+              "Increasingly subtle features of a functions behaviour",
+              "Only the colour of the functions graph",
+              "The exact domain of the original function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is another name for the second derivative of a position function in physics?",
+            "options": [
+              "Displacement",
+              "Acceleration",
+              "Momentum, with no connection to the second derivative",
+              "Velocity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an engineer care about the third derivative of a position function, sometimes called jerk?",
+            "options": [
+              "It replaces the need to know velocity or acceleration entirely",
+              "It measures only the total distance travelled",
+              "It measures how abruptly acceleration itself is changing, which affects comfort and mechanical stress",
+              "The third derivative has no physical meaning of any kind"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Ecology: Grassland and Savanna Ecosystems",
+        "summary": "Grade 11 Biology strand: grassland and savanna ecosystems are dominated by grasses with scattered trees or none at all, shaped by seasonal rainfall, periodic fire, and grazing pressure that together prevent woody plants from overtaking the landscape and maintain the open structure characteristic of these biomes.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What plant type dominates grassland and savanna ecosystems?",
+            "options": [
+              "Coniferous trees exclusively",
+              "Grasses",
+              "Coral and other marine organisms",
+              "Mosses and lichens exclusively"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Name one factor that helps maintain the open structure of a savanna.",
+            "options": [
+              "Total absence of any rainfall year-round",
+              "Complete absence of any grazing animals",
+              "Permanent ice cover",
+              "Periodic fire"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role does grazing pressure play in a grassland ecosystem?",
+            "options": [
+              "It has no effect on the balance between grasses and trees",
+              "It helps prevent woody plants from overtaking the landscape",
+              "It eliminates all grasses from the ecosystem entirely",
+              "It guarantees that trees will always dominate the landscape"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What pattern of rainfall typically shapes a savanna ecosystem?",
+            "options": [
+              "Constant, unvarying rainfall every day of the year",
+              "Rainfall that occurs only as snow",
+              "A complete absence of rainfall in every season",
+              "A seasonal pattern with distinct wet and dry periods"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do scattered trees rather than dense forest typically characterize a savanna?",
+            "options": [
+              "Savannas receive more rainfall than any rainforest",
+              "Grazing animals always promote dense forest growth",
+              "Fire, grazing, and seasonal drought limit the growth of woody plants",
+              "Trees are entirely absent from every savanna on Earth"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Caffeine and Alkaloid Extraction Chemistry",
+        "summary": "Grade 11 Chemistry strand: caffeine is a naturally occurring alkaloid, a nitrogen-containing organic compound, and its extraction from coffee beans or tea leaves typically relies on differences in solubility between polar water and a nonpolar solvent to separate caffeine from the other plant compounds surrounding it.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What class of organic compound is caffeine?",
+            "options": [
+              "An alkaloid",
+              "A noble gas",
+              "An ionic salt with no carbon present",
+              "A pure metal"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What element, in addition to carbon, defines an alkaloid such as caffeine?",
+            "options": [
+              "Nitrogen",
+              "Pure sodium metal",
+              "Helium",
+              "Argon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What property difference is often exploited to extract caffeine from plant material?",
+            "options": [
+              "Differences in colour alone, with no chemical basis",
+              "Differences in electrical conductivity of solid metals",
+              "Differences in solubility between a polar and a nonpolar solvent",
+              "Differences in radioactive decay rate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is a nonpolar solvent often useful in caffeine extraction?",
+            "options": [
+              "It dissolves every compound in the plant material equally",
+              "It reacts explosively with caffeine and destroys it",
+              "It has no ability to dissolve any organic compound",
+              "It can selectively dissolve caffeine while leaving many polar plant compounds behind"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of source is caffeine naturally extracted from?",
+            "options": [
+              "Distilled water with no plant material present",
+              "Coffee beans or tea leaves",
+              "Pure quartz crystal",
+              "A sample of inert noble gas"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 162,
+    "label": "Day 162 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Verbals — Gerunds, Participles, and Infinitives in Complex Sentences",
+        "summary": "Grade 11 English strand: a verbal is a verb form that functions as another part of speech, so a gerund acts as a noun, a participle acts as an adjective, and an infinitive can act as a noun, adjective, or adverb, letting a writer pack additional action into a sentence without adding a full clause.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What is a verbal?",
+            "options": [
+              "A noun that has been converted into a proper adjective",
+              "A punctuation mark used only in dialogue",
+              "A verb form that functions as another part of speech",
+              "A verb that can never appear in a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What part of speech does a gerund function as?",
+            "options": [
+              "A conjunction",
+              "A noun",
+              "A preposition",
+              "An interjection with no grammatical function"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What part of speech does a participle typically function as?",
+            "options": [
+              "An adjective",
+              "A coordinating conjunction",
+              "A pronoun",
+              "A verbal with no descriptive function at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What roles can an infinitive play in a sentence?",
+            "options": [
+              "Only a preposition, never anything else",
+              "A noun, an adjective, or an adverb",
+              "No grammatical role of any kind",
+              "Only a proper noun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use a verbal phrase instead of a full clause?",
+            "options": [
+              "Verbals always make a sentence longer and less clear",
+              "A verbal phrase always changes the tense of the entire sentence",
+              "Verbals are forbidden in formal academic writing",
+              "To pack additional action into a sentence without adding a separate clause"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Calculus: Curve Sketching Using the First and Second Derivative Tests",
+        "summary": "Grade 11 Functions strand: curve sketching combines the first derivative test, which locates local maxima and minima by tracking where a function changes from increasing to decreasing or back, with the second derivative test, which confirms concavity, to build an accurate picture of a functions shape without plotting every point.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the first derivative test locate?",
+            "options": [
+              "The colour of a functions graph",
+              "The total area under a curve",
+              "The exact y-intercept of a function",
+              "Local maxima and minima"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the first derivative test track to identify a local maximum or minimum?",
+            "options": [
+              "Where a function changes from increasing to decreasing or back",
+              "Where a function remains completely constant forever",
+              "Where the y-intercept crosses the x-axis",
+              "Where a function is undefined at every point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the second derivative test confirm about a critical point?",
+            "options": [
+              "Its concavity",
+              "The exact numerical value of the function at that point",
+              "The total number of terms in the function",
+              "The colour of the point on a graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is curve sketching useful compared to plotting every point on a graph?",
+            "options": [
+              "Curve sketching removes the need to know anything about a function",
+              "It builds an accurate picture of a functions shape using key features rather than exhaustive plotting",
+              "Plotting every point is always faster than curve sketching",
+              "Curve sketching only works for functions with no derivative"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What combination of tools does curve sketching typically rely on?",
+            "options": [
+              "The first and second derivative tests together",
+              "A single derivative test used in isolation with no other information",
+              "A test that ignores concavity entirely",
+              "Only a ruler and no calculus at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Physiology: The Liver — Detoxification and Metabolic Functions",
+        "summary": "Grade 11 Biology strand: the liver filters blood arriving from the digestive tract, breaking down or neutralizing toxins and metabolic waste products, storing glucose as glycogen, and producing bile that aids in the digestion and absorption of dietary fats, making it central to both detoxification and metabolism.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does the liver do to blood arriving from the digestive tract?",
+            "options": [
+              "Converts it directly into bone tissue",
+              "Immediately discards it without any filtration",
+              "Filters it, breaking down or neutralizing toxins",
+              "Has no effect on blood arriving from digestion"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What form of stored energy does the liver produce from glucose?",
+            "options": [
+              "A form of stored energy that does not exist",
+              "Bone marrow",
+              "Glycogen",
+              "Pure oxygen gas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What substance does the liver produce to aid in fat digestion?",
+            "options": [
+              "Bile",
+              "A substance with no role in digestion",
+              "Stomach acid exclusively",
+              "Insulin exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the liver considered central to detoxification?",
+            "options": [
+              "It only processes water, with no role in toxin removal",
+              "It has no ability to interact with toxins of any kind",
+              "It breaks down or neutralizes toxins and metabolic waste products",
+              "Detoxification occurs exclusively in the lungs, not the liver"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to bile after the liver produces it?",
+            "options": [
+              "It converts directly into glucose for storage",
+              "It has no connection to the digestive process",
+              "It aids in the digestion and absorption of dietary fats",
+              "It is immediately expelled from the body with no further use"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Chewing Gum — Polymer Base and Flavour Release",
+        "summary": "Grade 11 Chemistry strand: chewing gum consists of an insoluble polymer base that remains chewable because it does not dissolve in saliva, combined with soluble sugars, flavour compounds, and softeners that dissolve and diffuse out during chewing, which is why sweetness and flavour fade well before the gum itself breaks down.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "Why does the base of chewing gum remain chewable rather than dissolving?",
+            "options": [
+              "Saliva has no interaction with the gum base at all",
+              "The polymer base is insoluble in saliva",
+              "Chewing gum contains no polymer of any kind",
+              "The polymer base dissolves instantly in saliva"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens to the soluble sugars and flavour compounds in gum during chewing?",
+            "options": [
+              "They have no interaction with saliva whatsoever",
+              "They dissolve and diffuse out of the gum",
+              "They convert into an insoluble solid",
+              "They become permanently locked inside the polymer base"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why does the flavour of chewing gum fade before the gum itself breaks down?",
+            "options": [
+              "Chewing gum releases no flavour compounds at any point",
+              "Flavour compounds and the polymer base leave the gum at the exact same rate",
+              "The soluble flavour compounds leave the gum well before the insoluble polymer base does",
+              "The polymer base dissolves first, before any flavour is released"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of material forms the base of chewing gum?",
+            "options": [
+              "A sample of liquid mercury",
+              "A block of solid metal",
+              "A pure ionic salt",
+              "An insoluble polymer"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role do softeners play in a chewing gum formulation?",
+            "options": [
+              "They have no functional role in the gum formulation",
+              "They dissolve the polymer base completely within seconds",
+              "They cause the polymer base to become instantly rigid",
+              "They help keep the polymer base pliable and chewable"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 163,
+    "label": "Day 163 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Family Saga Novel Across Generations",
+        "summary": "Grade 11 English strand: a family saga novel traces a family across multiple generations, following how inherited wealth, trauma, tradition, or ambition are passed down and reshaped by each successive generation, using the family itself as a lens for exploring broader historical and social change.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does a family saga novel typically trace?",
+            "options": [
+              "A single character across a single afternoon",
+              "A single generation with no reference to the past or future",
+              "A family across multiple generations",
+              "A nation with no reference to any individual family"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a family saga novel show being passed down across generations?",
+            "options": [
+              "Only the exact same physical house, with no other inheritance",
+              "A single unchanging opinion shared by every character",
+              "Nothing at all, since generations are treated as unconnected",
+              "Inherited wealth, trauma, tradition, or ambition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a family saga novel often use the family as a lens for exploring?",
+            "options": [
+              "Broader historical and social change",
+              "A subject that has no connection to history or society",
+              "A single isolated event with no wider significance",
+              "A topic entirely unrelated to any family member"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a family saga novel shift focus between different generations?",
+            "options": [
+              "Generational shifts always remove any sense of continuity",
+              "A family saga must remain fixed on a single generation only",
+              "To show how patterns, conflicts, or values are reshaped over time",
+              "Shifting between generations is forbidden in this novel form"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structural feature distinguishes a family saga from a novel focused on a single protagonist?",
+            "options": [
+              "A complete absence of any named characters",
+              "A refusal to include any family relationships at all",
+              "A structure limited to a single day of events",
+              "Its broader scope across multiple generations of one family"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: An Introduction to Generating Functions",
+        "summary": "Grade 11 Functions strand: a generating function encodes an entire sequence of numbers as the coefficients of a single power series, turning problems about counting or recurrence relations into problems about algebraic manipulation of that series, a technique that connects discrete sequences to continuous algebraic tools.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does a generating function encode?",
+            "options": [
+              "An entire sequence of numbers as the coefficients of a power series",
+              "A sequence that has no numerical values at all",
+              "The exact colour of a graph",
+              "A single isolated number with no connection to any sequence"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of mathematical object is a generating function built from?",
+            "options": [
+              "A geometric shape with no algebraic description",
+              "A matrix with only zero entries",
+              "A power series",
+              "A single linear equation with no series involved"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kinds of problems can generating functions help turn into algebraic manipulation?",
+            "options": [
+              "Problems about counting or recurrence relations",
+              "Problems that have already been fully solved with no further work needed",
+              "Only problems involving geometric shapes",
+              "Problems with no numerical content of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What broader connection do generating functions illustrate?",
+            "options": [
+              "A connection between two entirely unrelated fields with no mathematical link",
+              "A connection between discrete sequences and continuous algebraic tools",
+              "A connection limited only to geometry, with no algebra involved",
+              "A connection that proves discrete sequences do not exist"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a generating function make a recurrence relation easier to analyze?",
+            "options": [
+              "It makes the recurrence relation impossible to solve",
+              "It removes all information about the original sequence",
+              "It converts the recurrence into an algebraic equation involving the power series",
+              "It has no relationship to recurrence relations at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Genetics: Nondisjunction and Aneuploidy",
+        "summary": "Grade 11 Biology strand: nondisjunction occurs when chromosomes fail to separate properly during meiosis, producing gametes with an abnormal number of chromosomes, and when such a gamete is fertilized, the resulting condition, called aneuploidy, can lead to a chromosome count that differs from the typical number for the species.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is nondisjunction?",
+            "options": [
+              "A failure of chromosomes to separate properly during meiosis",
+              "A process that occurs only during mitosis, never meiosis",
+              "A process with no connection to chromosome number at all",
+              "A perfectly normal separation of chromosomes during meiosis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does nondisjunction produce in the resulting gametes?",
+            "options": [
+              "Gametes with no chromosomes at all",
+              "Gametes that are genetically identical to the parent cell",
+              "An abnormal number of chromosomes",
+              "A perfectly normal, typical chromosome number in every case"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is aneuploidy?",
+            "options": [
+              "A condition in which a chromosome count differs from the typical number for the species",
+              "A condition in which every chromosome count is identical across all species",
+              "A condition that has no relationship to chromosome number",
+              "A condition found only in single-celled organisms"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When does nondisjunction occur in the cell cycle?",
+            "options": [
+              "During meiosis, when chromosomes are meant to separate",
+              "During a process unrelated to cell division",
+              "Only after fertilization has already occurred",
+              "Only in cells that never divide at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can a gamete affected by nondisjunction lead to aneuploidy in offspring?",
+            "options": [
+              "If it is fertilized, the resulting individual inherits an abnormal chromosome number",
+              "Fertilization always corrects any abnormal chromosome number automatically",
+              "Aneuploidy can only occur without any fertilization taking place",
+              "Nondisjunction has no possible effect on offspring"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Water Electrolysis and Hydrogen as a Fuel Source",
+        "summary": "Grade 11 Chemistry strand: electrolysis of water uses an electric current to split water molecules into hydrogen gas at the cathode and oxygen gas at the anode, and the hydrogen produced can later be recombined with oxygen in a fuel cell to release energy, making water electrolysis a route to storing electrical energy as chemical fuel.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does electrolysis of water use to split water molecules?",
+            "options": [
+              "A magnetic field with no current involved",
+              "A stream of pressurized air with no electric current",
+              "An electric current",
+              "Gravity alone, with no external energy input"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What gas is produced at the cathode during water electrolysis?",
+            "options": [
+              "Chlorine gas exclusively",
+              "Nitrogen gas",
+              "Oxygen gas",
+              "Hydrogen gas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What gas is produced at the anode during water electrolysis?",
+            "options": [
+              "Argon gas exclusively",
+              "Oxygen gas",
+              "Helium gas",
+              "Hydrogen gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can hydrogen produced by electrolysis later release energy?",
+            "options": [
+              "By converting directly into a solid metal",
+              "By being permanently stored with no further chemical use",
+              "Hydrogen produced this way cannot release any energy",
+              "By recombining with oxygen in a fuel cell"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is water electrolysis considered a way to store electrical energy?",
+            "options": [
+              "It destroys electrical energy with no useful product remaining",
+              "It converts water directly into electricity with no intermediate step",
+              "It converts electrical energy into chemical energy stored in hydrogen fuel",
+              "Electrolysis has no connection to energy storage of any kind"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 164,
+    "label": "Day 164 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Photo Manipulation and the Ethics of the Digital Image",
+        "summary": "Grade 11 English strand: digital editing tools make it possible to alter a photograph in ways that are difficult for a viewer to detect, from removing an object to reshaping a persons body, raising ethical questions about how much manipulation a viewer should expect and when an altered image crosses from enhancement into deception.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What do digital editing tools make possible with a photograph?",
+            "options": [
+              "Altering it in ways that are difficult for a viewer to detect",
+              "Restoring a photograph to a state that never existed in the original scene, but only by accident",
+              "Only converting a photograph into black and white",
+              "Nothing at all, since digital photographs cannot be altered"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Give an example of a photo manipulation mentioned as a concern.",
+            "options": [
+              "Printing the photograph on paper",
+              "Taking the photograph in the first place",
+              "Reshaping a persons body",
+              "Placing the photograph in a frame"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What ethical question does photo manipulation raise?",
+            "options": [
+              "Whether photographs should always be printed in black and white",
+              "When an altered image crosses from enhancement into deception",
+              "Whether editing software should be entirely free of charge",
+              "Whether cameras should be banned from all public spaces"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might undetectable photo manipulation be more ethically concerning than obvious manipulation?",
+            "options": [
+              "Manipulation that is easy to detect is more deceptive than manipulation that is not",
+              "Viewers can always tell instantly when any image has been edited",
+              "A viewer may accept a misleading image as accurate reality without realizing it was altered",
+              "Undetectable manipulation always makes an image more accurate"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the line between enhancement and deception in photo editing depend on?",
+            "options": [
+              "What the viewer reasonably expects the image to represent",
+              "Nothing at all, since all editing is equally acceptable",
+              "A rule that applies identically to every image with no exceptions",
+              "The physical size of the printed photograph"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Number Theory: Perfect Numbers and Amicable Numbers",
+        "summary": "Grade 11 Functions strand: a perfect number equals the sum of its proper divisors, as with six, which equals one plus two plus three, while a pair of amicable numbers consists of two different numbers, each of which equals the sum of the proper divisors of the other, a relationship known since antiquity.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What defines a perfect number?",
+            "options": [
+              "It equals the sum of its proper divisors",
+              "It has no divisors of any kind other than itself",
+              "It equals the product, not the sum, of its proper divisors",
+              "It is always an odd number with no exceptions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the proper divisors of six that make it a perfect number?",
+            "options": [
+              "One, two, and three",
+              "Only the number six itself",
+              "Six and twelve",
+              "Two and four"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What defines a pair of amicable numbers?",
+            "options": [
+              "Both numbers must be identical to each other",
+              "Each number equals the sum of the proper divisors of the other",
+              "Each number equals its own square root",
+              "Neither number can have any divisors at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How long has the concept of amicable numbers been studied?",
+            "options": [
+              "Since antiquity",
+              "Only since the twenty-first century",
+              "Only within the last decade",
+              "Amicable numbers have never been studied at any point in history"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What operation is used to test whether a number is perfect?",
+            "options": [
+              "Multiplying the number by itself",
+              "Comparing the number to every prime number simultaneously",
+              "Summing its proper divisors and comparing the sum to the number itself",
+              "Dividing the number by zero"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Microbiology: Biofilms and Bacterial Communities",
+        "summary": "Grade 11 Biology strand: a biofilm forms when bacteria attach to a surface and secrete a protective matrix of extracellular material, creating a structured community that is often far more resistant to antibiotics and disinfectants than the same bacteria would be if they were free-floating and isolated.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What happens when bacteria form a biofilm?",
+            "options": [
+              "They immediately die upon contact with any surface",
+              "They attach to a surface and secrete a protective matrix",
+              "They lose the ability to reproduce in any way",
+              "They convert entirely into a different species"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the protective matrix in a biofilm consist of?",
+            "options": [
+              "A layer of pure metal with no biological origin",
+              "A vacuum with no material present at all",
+              "A single bacterial cell wall with nothing surrounding it",
+              "Extracellular material secreted by the bacteria"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does bacterial resistance in a biofilm typically compare to free-floating bacteria?",
+            "options": [
+              "Biofilm bacteria are often far more resistant to antibiotics and disinfectants",
+              "Resistance is identical whether bacteria are in a biofilm or free-floating",
+              "Biofilms eliminate any need for bacteria to resist anything",
+              "Biofilm bacteria are always less resistant than free-floating bacteria"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What structural quality distinguishes a biofilm from a random scattering of bacteria?",
+            "options": [
+              "The fact that a biofilm contains no bacteria at all",
+              "Its organized, structured community held together by a protective matrix",
+              "A complete absence of any organization among the bacteria present",
+              "A structure that dissolves instantly upon formation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might biofilms be a significant concern in medical settings?",
+            "options": [
+              "Their resistance to antibiotics and disinfectants can make bacterial infections harder to treat",
+              "Medical settings are entirely free of any bacterial biofilms",
+              "Biofilms have no relevance to human health in any setting",
+              "Biofilms always make bacteria easier to eliminate with standard antibiotics"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Tattoo Ink and Pigment Permanence in Skin",
+        "summary": "Grade 11 Chemistry strand: tattoo ink consists of insoluble pigment particles suspended in a carrier liquid, and once injected into the dermis these particles are too large for the bodys immune cells to fully remove, allowing the pigment to remain visible beneath the skin for years or decades.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What are the pigment particles in tattoo ink suspended in?",
+            "options": [
+              "A sample of pure gas",
+              "Nothing, since tattoo ink contains no carrier at all",
+              "A block of solid metal",
+              "A carrier liquid"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does tattoo pigment remain visible in skin for years or decades?",
+            "options": [
+              "The pigment particles are smaller than a single atom",
+              "The pigment particles are too large for immune cells to fully remove",
+              "Immune cells have no interaction with tattoo pigment at all",
+              "The pigment particles dissolve completely within a few days"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where in the skin is tattoo ink typically deposited?",
+            "options": [
+              "Muscle tissue beneath the skin, never the skin itself",
+              "A layer entirely outside the body",
+              "The dermis",
+              "The outermost layer of dead skin cells only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What property of tattoo pigment particles makes them resist dissolving in the body?",
+            "options": [
+              "Their tendency to evaporate rapidly at body temperature",
+              "Their complete lack of any physical structure",
+              "Their extremely high solubility in water",
+              "Their insolubility"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What role do the bodys immune cells play in relation to tattoo pigment?",
+            "options": [
+              "They have no interaction whatsoever with foreign particles in the skin",
+              "They convert the pigment into a different colour entirely",
+              "They completely and instantly remove all tattoo pigment",
+              "They attempt to remove the pigment but cannot fully clear particles that are too large"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 165,
+    "label": "Day 165 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: The Panel Discussion and Group Facilitation",
+        "summary": "Grade 11 English strand: a panel discussion brings together several speakers with different perspectives on a shared topic, guided by a moderator who manages turn-taking, keeps the conversation focused, and draws out disagreement or nuance rather than letting a single voice dominate the exchange.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does a panel discussion bring together?",
+            "options": [
+              "A single speaker addressing an empty room",
+              "A group of speakers who all share an identical opinion",
+              "Several speakers with different perspectives on a shared topic",
+              "A written document with no spoken component"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What role does a moderator play in a panel discussion?",
+            "options": [
+              "Managing turn-taking and keeping the conversation focused",
+              "Reading a prepared script with no interaction from panelists",
+              "Preventing every panelist from speaking at any point",
+              "Speaking for the entire length of the discussion with no other speakers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might a skilled moderator draw out of a panel discussion?",
+            "options": [
+              "A discussion with no connection to the original topic",
+              "Disagreement or nuance among the panelists",
+              "A single repeated answer from every speaker",
+              "Complete silence from every panelist present"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is turn-taking important in a panel discussion?",
+            "options": [
+              "Turn-taking has no effect on how a discussion unfolds",
+              "It prevents a single voice from dominating the exchange",
+              "Panel discussions are more effective when only one person ever speaks",
+              "Turn-taking always eliminates any useful discussion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distinguishes a panel discussion from a single formal speech?",
+            "options": [
+              "A formal speech always involves several speakers responding to each other",
+              "There is no meaningful difference between the two formats",
+              "A panel discussion always involves exactly one speaker",
+              "Multiple speakers with differing perspectives interact under a moderators guidance"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Financial Mathematics: Currency Exchange Rates and Arbitrage",
+        "summary": "Grade 11 Functions strand: a currency exchange rate expresses the value of one currency in terms of another, and arbitrage exploits small inconsistencies between exchange rates across different markets to generate a profit by converting currency through a sequence of trades that returns more of the original currency than was started with.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does a currency exchange rate express?",
+            "options": [
+              "The total population of a country",
+              "The exact interest rate charged by a single bank",
+              "The value of one currency in terms of another",
+              "A value with no connection to currency at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does arbitrage exploit?",
+            "options": [
+              "A complete absence of any exchange rate differences",
+              "A rule that forbids converting between currencies",
+              "Small inconsistencies between exchange rates across different markets",
+              "A single exchange rate that never changes in any market"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the goal of a currency arbitrage strategy?",
+            "options": [
+              "To keep a single currency permanently unconverted",
+              "To eliminate all currency exchange rates worldwide",
+              "To generate a profit by converting currency through a sequence of trades",
+              "To lose as much currency value as possible"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What must the final amount of currency exceed for an arbitrage sequence of trades to be profitable?",
+            "options": [
+              "The original amount of currency that was started with",
+              "The total value of every currency in the world combined",
+              "The exact same amount, with no change at all",
+              "A random unrelated numerical value"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do arbitrage opportunities in currency markets tend to be short-lived?",
+            "options": [
+              "Arbitrage opportunities are permanent and never disappear",
+              "Exchange rates never change once an arbitrage opportunity appears",
+              "Traders quickly act on the inconsistency, which causes exchange rates to adjust and close the gap",
+              "Currency markets are entirely closed to any form of trading"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Evolution: Sexual Selection and Mate Choice",
+        "summary": "Grade 11 Biology strand: sexual selection favours traits that increase an individuals success at attracting mates or competing with rivals for access to them, which can produce elaborate features such as bright plumage or large antlers even when those traits provide no direct survival advantage or actively hinder it.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does sexual selection favour?",
+            "options": [
+              "Traits that increase success at attracting mates or competing for access to them",
+              "Only traits that improve an individuals ability to digest food",
+              "Traits that have no connection to mating success at all",
+              "Traits that always reduce an individuals chance of reproducing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Give an example of a trait that sexual selection can produce.",
+            "options": [
+              "A trait with no connection to mate attraction",
+              "Bright plumage",
+              "A trait found equally in every species on Earth",
+              "A complete absence of any colouration"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Can a trait favoured by sexual selection provide no direct survival advantage?",
+            "options": [
+              "Sexual selection only ever removes existing traits, never adds new ones",
+              "No, every trait favoured by sexual selection always improves survival",
+              "Sexual selection never produces any trait of any kind",
+              "Yes, some traits favoured by sexual selection provide no survival advantage or even hinder survival"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might large antlers help an individual do in the context of sexual selection?",
+            "options": [
+              "Regulate body temperature exclusively",
+              "Avoid all forms of predation entirely",
+              "Digest food more efficiently",
+              "Compete with rivals for access to mates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does sexual selection differ from natural selection based purely on survival?",
+            "options": [
+              "Sexual selection and natural selection always produce identical outcomes",
+              "Sexual selection has no connection to reproduction of any kind",
+              "Natural selection only ever concerns mate attraction, not survival",
+              "Sexual selection can favour traits that aid reproduction even at some cost to survival"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Radiopharmaceuticals — Isotopes in Medical Diagnostic Imaging",
+        "summary": "Grade 11 Chemistry strand: a radiopharmaceutical combines a radioactive isotope with a molecule that targets a specific tissue or organ, and the emitted radiation is detected from outside the body to produce a diagnostic image, allowing doctors to observe processes such as blood flow or metabolic activity without invasive surgery.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What does a radiopharmaceutical combine?",
+            "options": [
+              "Two chemically inert gases with no radioactive component",
+              "A compound with no medical application whatsoever",
+              "A solid metal bar with no targeting molecule at all",
+              "A radioactive isotope with a molecule that targets a specific tissue or organ"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How is a diagnostic image produced from a radiopharmaceutical inside the body?",
+            "options": [
+              "The patient must be surgically opened to view the isotope directly",
+              "Emitted radiation is detected from outside the body",
+              "The isotope is removed from the body before any image is taken",
+              "No radiation of any kind is involved in the imaging process"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can radiopharmaceutical imaging allow doctors to observe?",
+            "options": [
+              "Processes such as blood flow or metabolic activity",
+              "Only the exact height of a patient",
+              "A patients complete genetic sequence",
+              "Nothing related to any bodily process"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What advantage does radiopharmaceutical imaging offer over invasive surgery?",
+            "options": [
+              "It allows internal processes to be observed without surgery",
+              "It always requires more invasive surgery than any alternative method",
+              "It provides no diagnostic information of any kind",
+              "It can only be used after surgery has already been performed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is targeting important in the design of a radiopharmaceutical?",
+            "options": [
+              "Targeting removes the need for any radioactive isotope",
+              "Targeting has no effect on where the isotope accumulates in the body",
+              "It directs the radioactive isotope to the specific tissue or organ being studied",
+              "Radiopharmaceuticals spread completely evenly with no targeting at all"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 166,
+    "label": "Day 166 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Proposal Argument — Identifying a Problem and Proposing a Solution",
+        "summary": "Grade 11 English strand: a proposal argument identifies a specific problem, establishes why it matters to the intended audience, and then argues for a concrete, feasible solution, anticipating objections and explaining why the proposed course of action is more workable than the alternatives.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What does a proposal argument begin by identifying?",
+            "options": [
+              "A specific problem",
+              "A list of random statistics with no context",
+              "An unrelated historical event",
+              "A solution with no stated problem behind it"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must a proposal argument establish about the problem it identifies?",
+            "options": [
+              "That the problem does not actually exist",
+              "That the audience should ignore the problem entirely",
+              "Why it matters to the intended audience",
+              "That the problem cannot be solved under any circumstance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a proposal argument ultimately argue for?",
+            "options": [
+              "A concrete, feasible solution",
+              "The permanent continuation of the problem",
+              "A solution with no practical steps of any kind",
+              "A solution deliberately kept vague and undefined"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What should an effective proposal argument anticipate?",
+            "options": [
+              "Objections to the proposed solution",
+              "Nothing at all, since objections are irrelevant",
+              "A total absence of any possible counterargument",
+              "Only objections raised by the writer themselves"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a proposal argument compare its solution to alternatives?",
+            "options": [
+              "Comparing solutions is forbidden in a proposal argument",
+              "A proposal argument must never mention any other possible solution",
+              "Alternatives are always identical to the proposed solution",
+              "To explain why the proposed course of action is more workable than other options"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Geometry: The Equation of a Sphere in Three Dimensions",
+        "summary": "Grade 11 Functions strand: the equation of a sphere in three dimensions extends the equation of a circle by relating the coordinates of every point on the surface to a fixed centre point and a constant radius, so that the sum of the squared differences in each coordinate direction equals the square of the radius.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the equation of a sphere in three dimensions extend?",
+            "options": [
+              "The equation of a circle",
+              "The equation of a straight line",
+              "The equation of a single point with no radius",
+              "An equation with no geometric meaning at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two quantities define a sphere in three-dimensional space?",
+            "options": [
+              "A single coordinate with no radius involved",
+              "A radius with no defined centre point",
+              "A fixed centre point and a constant radius",
+              "Two unrelated points with no centre defined"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the sum of the squared coordinate differences equal in the equation of a sphere?",
+            "options": [
+              "The diameter of an unrelated circle",
+              "The radius itself, with no squaring involved",
+              "Zero, in every possible case",
+              "The square of the radius"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many coordinates does a point on the surface of a sphere in three dimensions require?",
+            "options": [
+              "One",
+              "Three",
+              "Four",
+              "Two"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the equation of a sphere considered a natural extension of the equation of a circle?",
+            "options": [
+              "A sphere and a circle share no mathematical relationship of any kind",
+              "A circle is defined using four dimensions rather than two",
+              "It applies the same distance relationship to points in three dimensions instead of two",
+              "The equation of a sphere ignores distance entirely"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Plant Biology: Mycorrhizal Associations and Nutrient Exchange",
+        "summary": "Grade 11 Biology strand: a mycorrhizal association is a mutualistic partnership between a fungus and a plants roots, in which the fungus extends the roots effective surface area to absorb water and minerals such as phosphorus, while the plant supplies the fungus with sugars produced through photosynthesis.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What kind of relationship is a mycorrhizal association?",
+            "options": [
+              "A purely parasitic relationship that harms the plant",
+              "A mutualistic partnership between a fungus and a plants roots",
+              "A relationship that occurs only between two plants, with no fungus involved",
+              "A relationship in which neither organism benefits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the fungus in a mycorrhizal association help the plant absorb?",
+            "options": [
+              "Only oxygen produced by the plant itself",
+              "Water and minerals such as phosphorus",
+              "Only carbon dioxide from the atmosphere",
+              "Nothing, since the fungus provides no benefit to the plant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the plant supply to the fungus in this partnership?",
+            "options": [
+              "Nothing, since the plant provides no benefit to the fungus",
+              "Water absorbed directly from the fungus",
+              "Sugars produced through photosynthesis",
+              "Minerals extracted from deep bedrock"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the fungus increase the effectiveness of the plants root system?",
+            "options": [
+              "By preventing the roots from absorbing any water at all",
+              "By shrinking the roots surface area to a fraction of its original size",
+              "By replacing the roots entirely with fungal tissue",
+              "By extending the roots effective surface area"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is a mycorrhizal association considered mutualistic rather than one-sided?",
+            "options": [
+              "Both the fungus and the plant receive a benefit from the exchange",
+              "Only the fungus benefits, while the plant receives nothing",
+              "Only the plant benefits, while the fungus receives nothing",
+              "Neither organism benefits in any way from the association"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: The Chemistry of Chocolate — Tempering and Cocoa Butter Crystal Forms",
+        "summary": "Grade 11 Chemistry strand: cocoa butter can solidify into several different crystal forms, and tempering chocolate involves carefully controlling temperature to encourage the formation of a single stable crystal form that gives finished chocolate its glossy surface, firm snap, and resistance to melting at room temperature.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What can cocoa butter solidify into?",
+            "options": [
+              "A gas at room temperature",
+              "A liquid that never solidifies under any conditions",
+              "A single crystal form with no variation possible",
+              "Several different crystal forms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does tempering chocolate involve?",
+            "options": [
+              "Randomly heating and cooling chocolate with no control at all",
+              "Removing all cocoa butter from the chocolate",
+              "Adding water to the chocolate mixture",
+              "Carefully controlling temperature to encourage a stable crystal form"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What visual quality does properly tempered chocolate typically have?",
+            "options": [
+              "A surface that is always opaque white",
+              "No visible surface at all, since it remains a liquid",
+              "A dull, cloudy surface with no shine",
+              "A glossy surface"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What textural quality does the stable crystal form give tempered chocolate?",
+            "options": [
+              "A texture that never solidifies at any temperature",
+              "A texture identical to liquid honey",
+              "A firm snap",
+              "A texture with no measurable firmness"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does poorly tempered chocolate often develop a dull, streaky surface?",
+            "options": [
+              "Poorly tempered chocolate always looks identical to properly tempered chocolate",
+              "Unstable cocoa butter crystal forms create an uneven surface structure",
+              "Cocoa butter crystal form has no effect on chocolates appearance",
+              "A dull surface only occurs when no cocoa butter is present"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 167,
+    "label": "Day 167 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Poetry: Blank Verse and the Rhythm of Iambic Pentameter",
+        "summary": "Grade 11 English strand: blank verse is unrhymed poetry written in iambic pentameter, a rhythm of five unstressed-stressed syllable pairs per line, and its flexible structure, free of a rhyme scheme but still metrically patterned, has made it a favoured form for dramatic and narrative verse in English for centuries.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What defines blank verse?",
+            "options": [
+              "Poetry written entirely in prose with no meter",
+              "Rhymed poetry with no fixed meter at all",
+              "Unrhymed poetry written in iambic pentameter",
+              "A form that forbids any use of rhythm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What rhythmic pattern does iambic pentameter follow?",
+            "options": [
+              "A single stressed syllable repeated infinitely with no variation",
+              "Three stressed-unstressed pairs per line",
+              "Five unstressed-stressed syllable pairs per line",
+              "Ten unrelated syllables with no stress pattern at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does blank verse lack that many other poetic forms include?",
+            "options": [
+              "Any use of syllables at all",
+              "A defined number of lines per stanza",
+              "A rhyme scheme",
+              "Any rhythmic pattern whatsoever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why has blank verse been a favoured form for dramatic and narrative verse in English?",
+            "options": [
+              "Rhyme is required for any dramatic verse, making blank verse unusable",
+              "Its flexible, metrically patterned structure suits extended storytelling without the constraint of rhyme",
+              "Blank verse has no metrical pattern to guide its rhythm",
+              "Blank verse forbids any storytelling of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What remains constant in blank verse even though rhyme is absent?",
+            "options": [
+              "The exact same words repeated in every line",
+              "A consistent metrical pattern",
+              "A strict requirement that every line rhyme with the next",
+              "Nothing at all remains constant"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Complex Numbers: Complex Conjugates and Their Properties",
+        "summary": "Grade 11 Functions strand: the complex conjugate of a number reverses the sign of its imaginary part while leaving the real part unchanged, and multiplying a complex number by its conjugate always produces a real, non-negative result, a property used to simplify expressions and to divide by a complex number.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the complex conjugate of a number do to its imaginary part?",
+            "options": [
+              "Converts it into a real number with no imaginary component remaining defined",
+              "Doubles it in magnitude",
+              "Removes it entirely, leaving only zero",
+              "Reverses its sign"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to the real part of a complex number when its conjugate is taken?",
+            "options": [
+              "It is reversed in sign",
+              "It remains unchanged",
+              "It is removed entirely",
+              "It is doubled"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of result does multiplying a complex number by its conjugate always produce?",
+            "options": [
+              "A result that is always exactly zero",
+              "An imaginary result with no real component",
+              "A negative real number in every case",
+              "A real, non-negative result"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What common use does multiplying by a conjugate serve in working with complex numbers?",
+            "options": [
+              "Eliminating the real part of a complex number entirely",
+              "Multiplying two real numbers together",
+              "Dividing by a complex number",
+              "Converting a real number into an imaginary one"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a complex number is written as a plus bi, what is its conjugate?",
+            "options": [
+              "negative a plus bi",
+              "a plus bi, unchanged",
+              "a minus bi",
+              "negative a minus bi"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Human Biology: Sleep Architecture and the Stages of Sleep",
+        "summary": "Grade 11 Biology strand: sleep architecture refers to the cyclical pattern of distinct sleep stages a person moves through each night, alternating between non-REM stages of progressively deeper sleep and REM sleep, during which the brain is highly active and most vivid dreaming occurs, with each full cycle repeating several times per night.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What does sleep architecture refer to?",
+            "options": [
+              "A pattern that occurs only once in a persons lifetime",
+              "A single unchanging state that lasts the entire night",
+              "The physical structure of the bedroom where a person sleeps",
+              "The cyclical pattern of distinct sleep stages a person moves through each night"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What are the two broad categories of sleep stages mentioned?",
+            "options": [
+              "Deep sleep and daytime wakefulness",
+              "Non-REM and REM sleep",
+              "Only non-REM sleep, with no other category",
+              "Only REM sleep, with no other category"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "During which stage does most vivid dreaming occur?",
+            "options": [
+              "A stage that does not exist in human sleep",
+              "Every stage equally, with no difference between them",
+              "The deepest stage of non-REM sleep",
+              "REM sleep"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What characterizes brain activity during REM sleep?",
+            "options": [
+              "It is completely inactive, with no measurable brain activity",
+              "It matches waking activity exactly with no distinction",
+              "It is highly active",
+              "It ceases entirely until the person wakes up"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How many times does a full sleep cycle typically repeat in one night?",
+            "options": [
+              "A number that has no relationship to a full nights sleep",
+              "Zero times, since sleep is not cyclical",
+              "Exactly once, with no repetition",
+              "Several times"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Triboelectric Charging and the Chemistry of Static Electricity",
+        "summary": "Grade 11 Chemistry strand: triboelectric charging occurs when two different materials are rubbed together and electrons transfer from the surface of one material to the other, leaving one material with a net negative charge and the other with a net positive charge, an imbalance that later discharges as static electricity.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What happens when two different materials are rubbed together in triboelectric charging?",
+            "options": [
+              "Protons transfer freely between the two materials",
+              "Electrons transfer from the surface of one material to the other",
+              "The two materials instantly fuse into a single substance",
+              "No charge transfer of any kind occurs"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What charge does the material that loses electrons end up with?",
+            "options": [
+              "No charge at all",
+              "A net positive charge",
+              "A charge that is always exactly neutral",
+              "A net negative charge"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What charge does the material that gains electrons end up with?",
+            "options": [
+              "A net positive charge",
+              "No charge at all",
+              "A net negative charge",
+              "A charge equal to the positive material"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What eventually happens to the charge imbalance created by triboelectric charging?",
+            "options": [
+              "It remains permanently locked in place with no discharge ever occurring",
+              "It discharges as static electricity",
+              "It converts directly into a different chemical element",
+              "It has no observable effect of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is required for triboelectric charging to occur between two materials?",
+            "options": [
+              "The two different materials must be rubbed together",
+              "The materials must never come into contact with each other",
+              "The materials must be submerged in water before contact",
+              "The two materials must be completely identical to each other"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 168,
+    "label": "Day 168 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Drama: Stage Directions and the Language of the Performance Text",
+        "summary": "Grade 11 English strand: stage directions are the playwrights instructions describing setting, movement, tone, or gesture that accompany the dialogue of a play, guiding how a script should be staged and performed while remaining, unlike the dialogue itself, unspoken by the actors on stage.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What do stage directions describe?",
+            "options": [
+              "Setting, movement, tone, or gesture",
+              "The biography of the playwright",
+              "Only the exact ticket price of a performance",
+              "A summary of the entire plot written after the play ends"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who writes the stage directions in a play?",
+            "options": [
+              "The playwright",
+              "An actor improvising without any script",
+              "A director who never reads the original script",
+              "The audience, after watching a performance"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is true of stage directions in relation to the dialogue actors speak aloud?",
+            "options": [
+              "Stage directions replace all dialogue in a play",
+              "Stage directions are typically unspoken by the actors on stage",
+              "Stage directions and dialogue are identical in every play",
+              "Stage directions are always spoken aloud exactly like dialogue"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do stage directions guide?",
+            "options": [
+              "The seating chart of the audience",
+              "The financial budget of a theatrical production",
+              "The colour of the theatre curtains exclusively",
+              "How a script should be staged and performed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a playwright include detailed stage directions rather than leaving staging entirely open?",
+            "options": [
+              "Stage directions are forbidden in professional playwriting",
+              "Detailed stage directions always prevent a play from ever being performed",
+              "Leaving staging open always produces an identical result to detailed directions",
+              "To communicate a specific vision for how a scene should look and feel when performed"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Discrete Math: Boolean Algebra and Logic Gates",
+        "summary": "Grade 11 Functions strand: Boolean algebra manipulates logical values of true and false using operations such as AND, OR, and NOT, and these operations are physically implemented in computing hardware as logic gates, making Boolean algebra the mathematical foundation underlying how digital circuits process information.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What two values does Boolean algebra manipulate?",
+            "options": [
+              "True and false",
+              "A continuous range of values between zero and one",
+              "Only positive real numbers",
+              "Only negative integers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Name one basic operation used in Boolean algebra.",
+            "options": [
+              "AND",
+              "Square root",
+              "Differentiation",
+              "Integration"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How are Boolean operations physically implemented in computing hardware?",
+            "options": [
+              "As a printed page with no physical circuitry",
+              "As a single unchanging wire with no logic involved",
+              "As mechanical gears with no electronic component",
+              "As logic gates"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does Boolean algebra provide the mathematical foundation for?",
+            "options": [
+              "How digital circuits process information",
+              "How ancient civilizations recorded historical events",
+              "How rivers erode surrounding rock over time",
+              "How biological cells divide during mitosis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Boolean algebra considered fundamental to computing?",
+            "options": [
+              "Digital circuits operate using continuous values rather than true/false logic",
+              "Boolean algebra only applies to paper-based calculations, never circuits",
+              "Computing has no reliance on true/false logic of any kind",
+              "Digital circuits rely on true/false logic operations to process and store information"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biochemistry: Protein Structure — Primary, Secondary, Tertiary, and Quaternary Levels",
+        "summary": "Grade 11 Biology strand: a proteins primary structure is its linear sequence of amino acids, its secondary structure consists of local folding patterns such as alpha helices and beta sheets, its tertiary structure is the overall three-dimensional shape of a single folded chain, and its quaternary structure describes how multiple folded chains assemble together.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is a proteins primary structure?",
+            "options": [
+              "A pattern found only in secondary structure",
+              "A structure that exists only in quaternary proteins",
+              "Its overall three-dimensional shape",
+              "Its linear sequence of amino acids"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name a folding pattern found in a proteins secondary structure.",
+            "options": [
+              "A structure found only at the primary level",
+              "A pattern that never occurs in any protein",
+              "A single straight line with no folding at all",
+              "The alpha helix"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a proteins tertiary structure describe?",
+            "options": [
+              "The overall three-dimensional shape of a single folded chain",
+              "The linear sequence of amino acids only",
+              "The assembly of multiple separate protein chains",
+              "A structure that applies only to DNA, not protein"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a proteins quaternary structure describe?",
+            "options": [
+              "A folding pattern found only within a single amino acid",
+              "A structure that never involves more than one chain",
+              "How multiple folded chains assemble together",
+              "The sequence of amino acids in a single chain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding all four levels of protein structure important for understanding protein function?",
+            "options": [
+              "A proteins final shape at every level determines how it interacts with other molecules",
+              "All four levels of structure are always identical for every protein",
+              "Protein structure has no connection to protein function of any kind",
+              "Only the primary structure has any relevance to how a protein functions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Molecular Gastronomy — Spherification and Gel Chemistry in Cooking",
+        "summary": "Grade 11 Chemistry strand: spherification is a molecular gastronomy technique in which a liquid containing sodium alginate is dropped into a calcium chloride bath, triggering a chemical reaction that forms a thin gel membrane around the droplet and produces a sphere with a liquid centre and a delicate solid outer shell.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What ingredient in the liquid is essential for spherification?",
+            "options": [
+              "Pure table salt with no other chemical role",
+              "Distilled water with no dissolved compound present",
+              "A solid metal shaving",
+              "Sodium alginate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What solution is the sodium alginate liquid dropped into during spherification?",
+            "options": [
+              "A container of liquid nitrogen with no chemical reaction",
+              "A calcium chloride bath",
+              "A bath of vegetable oil with no reactive component",
+              "A bath of pure distilled water with no dissolved ions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What forms around the droplet as a result of the reaction in spherification?",
+            "options": [
+              "A solid metal coating",
+              "A thin gel membrane",
+              "No structural change occurs at all",
+              "A layer of ice regardless of temperature"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the resulting structure of a sphere produced by this technique?",
+            "options": [
+              "A flat, two-dimensional shape with no sphere formed",
+              "A liquid centre surrounded by a delicate solid outer shell",
+              "A sphere that is entirely gas-filled",
+              "A completely solid sphere with no liquid centre at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of chemical process is responsible for forming the gel membrane in spherification?",
+            "options": [
+              "A purely physical process with no chemical reaction involved",
+              "A reaction that requires no calcium of any kind",
+              "A nuclear reaction between two isotopes",
+              "A reaction between sodium alginate and calcium ions"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 169,
+    "label": "Day 169 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Serial Novel and Publication in Instalments",
+        "summary": "Grade 11 English strand: a serial novel is published in regular instalments rather than as a single complete volume, a format that shaped nineteenth-century fiction by encouraging cliffhangers and episodic pacing designed to keep readers subscribing to the next instalment rather than losing interest between releases.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "How is a serial novel published?",
+            "options": [
+              "Only once, as a single complete volume with no instalments",
+              "Exclusively as an audio recording with no written text",
+              "Anonymously, with no authors name ever attached",
+              "In regular instalments rather than as a single complete volume"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What pacing technique did serial publication encourage in nineteenth-century fiction?",
+            "options": [
+              "Cliffhangers and episodic pacing",
+              "A single unbroken scene with no change in pacing at all",
+              "An immediate resolution of every plot point in the first instalment",
+              "A refusal to include any tension or suspense"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a serial novel be structured around cliffhangers?",
+            "options": [
+              "To keep readers subscribing to the next instalment",
+              "To ensure readers stop reading immediately after the first instalment",
+              "Cliffhangers were strictly forbidden in serial fiction",
+              "Cliffhangers have no effect on reader interest of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What risk did a serial novel face between the release of each instalment?",
+            "options": [
+              "Losing reader interest before the next instalment appeared",
+              "Losing the ability to be printed in any format",
+              "Gaining an infinite number of new readers automatically",
+              "Facing no risk at all, since interest was always guaranteed"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the serial format differ from a novel released as a single complete volume?",
+            "options": [
+              "It divides the story into regular instalments spaced out over time",
+              "There is no meaningful difference between the two formats",
+              "A serial novel is always shorter than a single-volume novel",
+              "A single complete volume is always released in instalments as well"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Statistics: The F-Distribution and Comparing Two Variances",
+        "summary": "Grade 11 Functions strand: the F-distribution is used to compare the variances of two independent samples by examining the ratio of their sample variances, and a ratio far from one suggests the two populations being compared do not share the same underlying variance.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "What does the F-distribution help compare?",
+            "options": [
+              "The exact median of an unrelated data set",
+              "The means of a single sample only",
+              "A single data point with no comparison involved",
+              "The variances of two independent samples"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What ratio does the F-distribution examine?",
+            "options": [
+              "The ratio of two unrelated sample sizes only",
+              "A ratio that has no connection to variance",
+              "The ratio of a mean to a median",
+              "The ratio of two sample variances"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a ratio far from one suggest when using the F-distribution?",
+            "options": [
+              "The two populations are guaranteed to be identical",
+              "The two populations being compared do not share the same underlying variance",
+              "No conclusion can ever be drawn from the F-distribution",
+              "The sample sizes must be reported incorrectly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many samples does a typical F-distribution comparison involve?",
+            "options": [
+              "Two independent samples",
+              "An unlimited number of samples with no defined count",
+              "Only a single sample with no comparison",
+              "Zero samples, since no data is required"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a researcher use the F-distribution before applying certain other statistical tests?",
+            "options": [
+              "To check whether an assumption of equal variances between two groups holds",
+              "It only applies to data with no numerical values",
+              "The F-distribution has no relevance to any other statistical test",
+              "It replaces the need to collect any data at all"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Evolution: Genetic Bottlenecks and the Loss of Genetic Diversity",
+        "summary": "Grade 11 Biology strand: a genetic bottleneck occurs when a population is sharply reduced in size by an event such as a natural disaster or disease outbreak, and the surviving individuals carry only a fraction of the original populations genetic diversity, leaving the recovered population more vulnerable to future environmental change.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What is a genetic bottleneck?",
+            "options": [
+              "A steady, gradual increase in population size over centuries",
+              "A sharp reduction in population size that reduces genetic diversity",
+              "A process that has no connection to population size at all",
+              "An event that always increases genetic diversity"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Give an example of an event that can cause a genetic bottleneck.",
+            "options": [
+              "A steady, unchanging environment with no disruption",
+              "A period of unusually abundant food supply",
+              "An increase in the populations total genetic diversity",
+              "A natural disaster"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do surviving individuals after a bottleneck carry, compared to the original population?",
+            "options": [
+              "More genetic diversity than the original population",
+              "The exact same amount of genetic diversity as before",
+              "Only a fraction of the original genetic diversity",
+              "No genetic material at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why does a population that has gone through a bottleneck become more vulnerable to future environmental change?",
+            "options": [
+              "Reduced genetic diversity limits the range of traits available for natural selection to act on",
+              "A bottleneck always increases a populations resilience to change",
+              "Reduced genetic diversity always makes a population immune to environmental change",
+              "Genetic diversity has no connection to a populations ability to adapt"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does a genetic bottleneck differ from ordinary genetic drift in a stable population?",
+            "options": [
+              "A genetic bottleneck and genetic drift are entirely unrelated concepts",
+              "Genetic drift only occurs in populations that never change in size",
+              "A bottleneck involves a sudden, sharp reduction in population size rather than gradual random change",
+              "A bottleneck always increases population size dramatically"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry: Blood Buffering and pH Homeostasis in the Human Body",
+        "summary": "Grade 11 Chemistry strand: blood pH is kept within a narrow range by chemical buffer systems, most notably the bicarbonate buffer, which can absorb excess acid or base by shifting the balance between dissolved carbon dioxide, carbonic acid, and bicarbonate ion, preventing the small pH swings that would otherwise disrupt normal cell function.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What keeps blood pH within a narrow range?",
+            "options": [
+              "A complete absence of any chemical regulation",
+              "A process that has no connection to pH at all",
+              "A single unchanging chemical with no buffering capacity",
+              "Chemical buffer systems"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Name the buffer system most notably responsible for regulating blood pH.",
+            "options": [
+              "A system with no chemical components at all",
+              "The bicarbonate buffer",
+              "A buffer based only on table salt",
+              "A buffer made entirely of pure water with no ions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What three related substances does the bicarbonate buffer shift the balance between?",
+            "options": [
+              "Sodium, potassium, and calcium only",
+              "Dissolved carbon dioxide, carbonic acid, and bicarbonate ion",
+              "Glucose, fructose, and sucrose",
+              "Oxygen, nitrogen, and argon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can the bicarbonate buffer absorb to help maintain stable blood pH?",
+            "options": [
+              "Only excess water, with no acid or base involved",
+              "Excess acid or base",
+              "Nothing, since the buffer has no absorptive capacity",
+              "Only excess oxygen gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is maintaining a stable blood pH important for normal cell function?",
+            "options": [
+              "Small pH swings can disrupt the proteins and enzymes cells depend on to function normally",
+              "Blood pH has no connection to how cells function",
+              "Cells function identically no matter how much blood pH changes",
+              "A stable pH always harms normal cellular processes"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "label": "Day 170 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Haiku, Verbals, Panels, and Proposal Writing",
+        "summary": "Grade 11 English strand review: students revisit the haiku and tanka, verbals, the family saga novel, photo manipulation ethics, the panel discussion, the proposal argument, blank verse, stage directions, and the serial novel.",
+        "resourceLabel": "TVO Learn: Grade 11 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "quiz": [
+          {
+            "q": "What structural feature defines a haiku?",
+            "options": [
+              "A form that forbids any reference to nature",
+              "A twelve-line form with no fixed structure at all",
+              "A rhymed couplet describing an urban skyline",
+              "A compressed three-line form built around a single natural image"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a family saga novel typically trace?",
+            "options": [
+              "A single generation with no reference to the past or future",
+              "A single character across a single afternoon",
+              "A family across multiple generations",
+              "A nation with no reference to any individual family"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a panel discussion bring together?",
+            "options": [
+              "A group of speakers who all share an identical opinion",
+              "Several speakers with different perspectives on a shared topic",
+              "A written document with no spoken component",
+              "A single speaker addressing an empty room"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What defines blank verse?",
+            "options": [
+              "A form that forbids any use of rhythm",
+              "Poetry written entirely in prose with no meter",
+              "Unrhymed poetry written in iambic pentameter",
+              "Rhymed poetry with no fixed meter at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is a serial novel published?",
+            "options": [
+              "Exclusively as an audio recording with no written text",
+              "Anonymously, with no authors name ever attached",
+              "Only once, as a single complete volume with no instalments",
+              "In regular instalments rather than as a single complete volume"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Functions",
+        "title": "Functions Review: Higher-Order Calculus, Discrete Structures, and Complex Numbers",
+        "summary": "Grade 11 Functions strand review: students revisit higher-order derivatives, generating functions, currency exchange and arbitrage, complex conjugates, and the F-distribution.",
+        "resourceLabel": "TVO Learn: Grade 11 Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "quiz": [
+          {
+            "q": "How is a higher-order derivative found?",
+            "options": [
+              "By differentiating a function more than once",
+              "By integrating a function a single time",
+              "By setting the function equal to zero and solving",
+              "By graphing the function with no further calculation"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a generating function encode?",
+            "options": [
+              "A sequence that has no numerical values at all",
+              "A single isolated number with no connection to any sequence",
+              "The exact colour of a graph",
+              "An entire sequence of numbers as the coefficients of a power series"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a currency exchange rate express?",
+            "options": [
+              "The value of one currency in terms of another",
+              "The exact interest rate charged by a single bank",
+              "The total population of a country",
+              "A value with no connection to currency at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the complex conjugate of a number do to its imaginary part?",
+            "options": [
+              "Removes it entirely, leaving only zero",
+              "Reverses its sign",
+              "Doubles it in magnitude",
+              "Converts it into a real number with no imaginary component remaining defined"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the F-distribution help compare?",
+            "options": [
+              "The exact median of an unrelated data set",
+              "The means of a single sample only",
+              "The variances of two independent samples",
+              "A single data point with no comparison involved"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Biology",
+        "title": "Biology Review: Biomes, Genetics, and Molecular Physiology",
+        "summary": "Grade 11 Biology strand review: students revisit grassland and savanna ecosystems, nondisjunction and aneuploidy, sexual selection, sleep architecture, and genetic bottlenecks.",
+        "resourceLabel": "TVO Learn: Grade 11 Biology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "quiz": [
+          {
+            "q": "What plant type dominates grassland and savanna ecosystems?",
+            "options": [
+              "Coniferous trees exclusively",
+              "Mosses and lichens exclusively",
+              "Coral and other marine organisms",
+              "Grasses"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is nondisjunction?",
+            "options": [
+              "A perfectly normal separation of chromosomes during meiosis",
+              "A process that occurs only during mitosis, never meiosis",
+              "A process with no connection to chromosome number at all",
+              "A failure of chromosomes to separate properly during meiosis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does sexual selection favour?",
+            "options": [
+              "Traits that always reduce an individuals chance of reproducing",
+              "Traits that have no connection to mating success at all",
+              "Traits that increase success at attracting mates or competing for access to them",
+              "Only traits that improve an individuals ability to digest food"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does sleep architecture refer to?",
+            "options": [
+              "The physical structure of the bedroom where a person sleeps",
+              "A pattern that occurs only once in a persons lifetime",
+              "The cyclical pattern of distinct sleep stages a person moves through each night",
+              "A single unchanging state that lasts the entire night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a genetic bottleneck?",
+            "options": [
+              "A steady, gradual increase in population size over centuries",
+              "A sharp reduction in population size that reduces genetic diversity",
+              "An event that always increases genetic diversity",
+              "A process that has no connection to population size at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "title": "Chemistry Review: Everyday Chemistry, Energy, and Human Physiology",
+        "summary": "Grade 11 Chemistry strand review: students revisit caffeine extraction, water electrolysis, radiopharmaceuticals, triboelectric charging, and blood buffering and pH homeostasis.",
+        "resourceLabel": "TVO Learn: Grade 11 Chemistry",
+        "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "quiz": [
+          {
+            "q": "What class of organic compound is caffeine?",
+            "options": [
+              "A noble gas",
+              "A pure metal",
+              "An ionic salt with no carbon present",
+              "An alkaloid"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does electrolysis of water use to split water molecules?",
+            "options": [
+              "A stream of pressurized air with no electric current",
+              "An electric current",
+              "Gravity alone, with no external energy input",
+              "A magnetic field with no current involved"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a radiopharmaceutical combine?",
+            "options": [
+              "A compound with no medical application whatsoever",
+              "A radioactive isotope with a molecule that targets a specific tissue or organ",
+              "A solid metal bar with no targeting molecule at all",
+              "Two chemically inert gases with no radioactive component"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens when two different materials are rubbed together in triboelectric charging?",
+            "options": [
+              "Electrons transfer from the surface of one material to the other",
+              "The two materials instantly fuse into a single substance",
+              "Protons transfer freely between the two materials",
+              "No charge transfer of any kind occurs"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What keeps blood pH within a narrow range?",
+            "options": [
+              "A complete absence of any chemical regulation",
+              "Chemical buffer systems",
+              "A single unchanging chemical with no buffering capacity",
+              "A process that has no connection to pH at all"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]
