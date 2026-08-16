@@ -2652,6 +2652,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"Language", title:"Print Concepts: Reading Left to Right", summary:"Students learn basic print concepts, such as reading a page from left to right and top to bottom, and that words are separated by spaces.",
    resourceLabel:"YouTube: Print Concepts: Reading Left to Right", resourceUrl:"https://www.youtube.com/results?search_query=Print%20Concepts%3A%20Reading%20Left%20to%20Right%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=5jrrW8iXcf0",
    quiz:[
      {q:"When reading English, which way do our eyes move across the page?", options:["Left to right","Bottom to top","In circles","Right to left"], answer:0},
      {q:"Which part of the page do we usually read first?", options:["The middle","The very last line","The top","The bottom"], answer:2},
@@ -2666,6 +2667,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Positional Numbers: Counting Objects in a Row", summary:"Students count a row of objects and identify how many objects there are in total, as well as which object is in a certain counted position, reinforcing one-to-one counting.",
    resourceLabel:"YouTube: Positional Numbers: Counting Objects in a Row", resourceUrl:"https://www.youtube.com/results?search_query=Positional%20Numbers%3A%20Counting%20Objects%20in%20a%20Row%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WM8VrBcimes",
    quiz:[
      {q:"If there are 7 birds in a row, how many birds are there in total?", options:["7","5","6","8"], answer:0},
      {q:"Count the row: star, star, star, star. How many stars are there?", options:["6","3","4","5"], answer:2},
@@ -2680,6 +2682,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Hot and Cold: Temperature All Around Us", summary:"Students explore hot and cold temperatures in everyday life, sorting items and places such as ice, soup, snow, and sunshine into hot or cold categories.",
    resourceLabel:"YouTube: Hot and Cold: Temperature All Around Us", resourceUrl:"https://www.youtube.com/results?search_query=Hot%20and%20Cold%3A%20Temperature%20All%20Around%20Us%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=g-eBDAhB9VI",
    quiz:[
      {q:"Is ice hot or cold?", options:["Both","Cold","Neither","Hot"], answer:1},
      {q:"Is a bowl of hot soup hot or cold?", options:["Neither","Hot","Cold","Both"], answer:1},
@@ -2694,6 +2697,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Our Senior Neighbours: Respecting Older People", summary:"Students learn about older people in the community, such as grandparents and senior neighbours, and discuss ways to show them respect and kindness.",
    resourceLabel:"YouTube: Our Senior Neighbours: Respecting Older People", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Senior%20Neighbours%3A%20Respecting%20Older%20People%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=f6Xn33irgb0",
    quiz:[
      {q:"Which of these is an example of an older family member?", options:["A puppy","A toddler","A baby","A grandparent"], answer:3},
      {q:"What is a kind way to treat an older neighbour?", options:["Be rude to them","Ignore them","Run away from them","Help them and speak politely"], answer:3},
@@ -8911,6 +8915,586 @@ const curriculum: DayContent[] = [
      {prompt:"What is the main job of a paramedic?", answers:["giving medical help in an emergency"]},
      {prompt:"What does it mean to save money?", answers:["keep it instead of spending it right away"]},
      {prompt:"What is the main job of a pilot?", answers:["flying an airplane safely"]}
+   ]},
+]},
+{day:161, label:"Day 161 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -ad Words", summary:"Kindergarten Language strand: the -ad word family shares the same ending sound, as in bad, dad, mad, and sad.",
+   resourceLabel:"YouTube: Word Families: -ad Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ad%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ad family?", options:["Sun","Sad","Top","Bed"], answer:1},
+     {q:"Which word rhymes with mad?", options:["Sock","Bad","Sit","Sun"], answer:1},
+     {q:"Which word does NOT belong to the -ad family?", options:["Bad","Sad","Sun","Dad"], answer:2},
+     {q:"Complete the rhyme: My cat is very ___ when it rains.", options:["sit","sat","set","sad"], answer:3},
+     {q:"Words in the same word family share the same ___.", options:["Ending sound","First letter","Meaning","Colour"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with bad.", answers:["dad","mad","sad"]},
+     {prompt:"What ending sound do dad and sad share?", answers:["ad","the ad sound"]},
+     {prompt:"Is glad part of the -ad family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Skip Counting by 7s to 70", summary:"Kindergarten Math strand: students skip count by 7s, saying 7, 14, 21, 28, and continuing on up to 70.",
+   resourceLabel:"YouTube: Skip Counting by 7s to 70", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%207s%20to%2070%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next: 7, 14, 21, ___?", options:["28","27","29","22"], answer:0},
+     {q:"What comes next: 28, 35, 42, ___?", options:["49","43","45","48"], answer:0},
+     {q:"When skip counting by 7s, what number comes after 49?", options:["58","54","56","50"], answer:2},
+     {q:"Skip counting by 7s means we add ___ each time.", options:["7","6","8","5"], answer:0},
+     {q:"Which list correctly skip counts by 7s?", options:["7, 12, 17, 28","7, 14, 21, 28","7, 14, 20, 28","7, 10, 14, 18"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 7, 14, 21?", answers:["28","twenty eight"]},
+     {prompt:"Skip count by 7s from 7 to 35.", answers:["7,14,21,28,35","7 14 21 28 35"]},
+     {prompt:"What number comes right before 70 when skip counting by 7s?", answers:["63","sixty three"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Dragonfly", summary:"Kindergarten Science strand: a dragonfly begins life as an egg laid in water, grows underwater as a nymph, and later becomes a flying adult with two pairs of wings.",
+   resourceLabel:"YouTube: Life Cycle of a Dragonfly", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Dragonfly%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does a dragonfly life cycle begin?", options:["As an egg in the desert","As an adult in the sky","As an egg in a tree","As an egg in water"], answer:3},
+     {q:"What is a young dragonfly called before it grows wings?", options:["A nymph","A caterpillar","A tadpole","A cub"], answer:0},
+     {q:"Where does a young dragonfly nymph live?", options:["In the sky","In a tree","Underwater","In the sand"], answer:2},
+     {q:"How many pairs of wings does an adult dragonfly have?", options:["Two pairs","Three pairs","No wings","One pair"], answer:0},
+     {q:"A dragonfly changing from a nymph into a flying adult is an example of a ___.", options:["Food chain","Life cycle","Season","Habitat"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Where does a dragonfly begin its life?", answers:["as an egg in water","in water"]},
+     {prompt:"What is a young dragonfly called before it can fly?", answers:["a nymph","nymph"]},
+     {prompt:"How many pairs of wings does an adult dragonfly have?", answers:["two pairs","two"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Plumbers: Fixing Pipes and Water Leaks", summary:"Kindergarten Social Studies strand: plumbers are trained workers who fix pipes, taps, and water leaks so that clean water can flow safely into our homes.",
+   resourceLabel:"YouTube: Our Plumbers: Fixing Pipes and Water Leaks", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Plumbers%3A%20Fixing%20Pipes%20and%20Water%20Leaks%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a plumber?", options:["Fixing pipes and water leaks","Flying airplanes","Teaching school","Growing food"], answer:0},
+     {q:"Why do homes need plumbers?", options:["Plumbers are not needed","To deliver mail","To cook food","To keep water flowing safely through pipes"], answer:3},
+     {q:"Which tool might a plumber use to fix a pipe?", options:["A stethoscope","A wrench","A fishing rod","A paintbrush"], answer:1},
+     {q:"What might happen if a leaking pipe is not fixed?", options:["Water could leak and cause damage","Nothing would happen at all","The pipe would fix itself","The house would get warmer"], answer:0},
+     {q:"Plumbers help make sure our homes have clean ___.", options:["Food","Light only","Water","Air only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do plumbers fix?", answers:["pipes and water leaks","pipes"]},
+     {prompt:"Why is a plumbers job important?", answers:["they help keep our water clean and flowing","so water works safely in our homes"]},
+     {prompt:"Name one tool a plumber might use.", answers:["a wrench","wrench"]}
+   ]},
+]},
+{day:162, label:"Day 162 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -ag Words", summary:"Kindergarten Language strand: the -ag word family shares the same ending sound, as in bag, tag, rag, and wag.",
+   resourceLabel:"YouTube: Word Families: -ag Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ag%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ag family?", options:["Top","Sun","Tag","Bed"], answer:2},
+     {q:"Which word rhymes with rag?", options:["Bag","Sit","Sock","Sun"], answer:0},
+     {q:"Which word does NOT belong to the -ag family?", options:["Run","Tag","Rag","Bag"], answer:0},
+     {q:"Complete the rhyme: On Canada Day we wave a red and white ___.", options:["flat","flab","flag","flap"], answer:2},
+     {q:"Words in the same word family share the same ___.", options:["First letter","Ending sound","Meaning","Colour"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with bag.", answers:["tag","rag","wag"]},
+     {prompt:"What ending sound do tag and rag share?", answers:["ag","the ag sound"]},
+     {prompt:"Is flag part of the -ag family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Skip Counting by 8s to 80", summary:"Kindergarten Math strand: students skip count by 8s, saying 8, 16, 24, 32, and continuing on up to 80.",
+   resourceLabel:"YouTube: Skip Counting by 8s to 80", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%208s%20to%2080%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next: 8, 16, 24, ___?", options:["30","34","25","32"], answer:3},
+     {q:"What comes next: 32, 40, 48, ___?", options:["49","52","56","58"], answer:2},
+     {q:"When skip counting by 8s, what number comes after 56?", options:["60","57","66","64"], answer:3},
+     {q:"Skip counting by 8s means we add ___ each time.", options:["7","8","9","6"], answer:1},
+     {q:"Which list correctly skip counts by 8s?", options:["8, 16, 20, 32","8, 10, 18, 24","8, 14, 22, 32","8, 16, 24, 32"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 8, 16, 24?", answers:["32","thirty two"]},
+     {prompt:"Skip count by 8s from 8 to 40.", answers:["8,16,24,32,40","8 16 24 32 40"]},
+     {prompt:"What number comes right before 80 when skip counting by 8s?", answers:["72","seventy two"]}
+   ]},
+  {subject:"Science", title:"Jellyfish: Ocean Animals Without Bones", summary:"Kindergarten Science strand: a jellyfish is a soft ocean animal with no bones and no brain, that uses its tentacles to catch food and can sting to protect itself.",
+   resourceLabel:"YouTube: Jellyfish: Ocean Animals Without Bones", resourceUrl:"https://www.youtube.com/results?search_query=Jellyfish%3A%20Ocean%20Animals%20Without%20Bones%20kindergarten%20educational",
+   quiz:[
+     {q:"Does a jellyfish have bones inside its body?", options:["No","Only in its head","Yes","Only in its tentacles"], answer:0},
+     {q:"What does a jellyfish use to catch food?", options:["Its wings","Its legs","Its fins","Its tentacles"], answer:3},
+     {q:"How can a jellyfish protect itself?", options:["By running away fast","By barking","By stinging","By flying"], answer:2},
+     {q:"Where does a jellyfish live?", options:["In a desert","In a tree","In the ocean","Underground"], answer:2},
+     {q:"A jellyfish moves through water mostly by ___.", options:["Digging","Flying","Floating and drifting with gentle pulses","Walking on legs"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Does a jellyfish have bones?", answers:["no","no it does not"]},
+     {prompt:"What does a jellyfish use to catch food?", answers:["its tentacles","tentacles"]},
+     {prompt:"What can a jellyfish do to protect itself?", answers:["sting","it can sting"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Hairdressers and Barbers: Cutting and Styling Hair", summary:"Kindergarten Social Studies strand: hairdressers and barbers are workers who cut, wash, and style hair to help people look and feel their best.",
+   resourceLabel:"YouTube: Our Hairdressers and Barbers: Cutting and Styling Hair", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Hairdressers%20and%20Barbers%3A%20Cutting%20and%20Styling%20Hair%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a hairdresser or barber?", options:["Fixing pipes","Cutting and styling hair","Flying airplanes","Cooking food"], answer:1},
+     {q:"Which tool might a hairdresser use?", options:["A shovel","A stethoscope","A wrench","Scissors"], answer:3},
+     {q:"Why might a person visit a barber shop?", options:["To buy groceries","To get a haircut","To mail a letter","To see a doctor"], answer:1},
+     {q:"Which of these best describes the work of a hairdresser?", options:["Delivering mail","Helping people look and feel their best with their hair","Building houses","Teaching math"], answer:1},
+     {q:"Hairdressers and barbers work in a place often called a ___.", options:["Fire station","Farm","Salon or barber shop","Library"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do hairdressers and barbers do?", answers:["cut and style hair","cut hair"]},
+     {prompt:"Name one tool a hairdresser might use.", answers:["scissors","a comb"]},
+     {prompt:"Why might someone visit a hairdresser or barber?", answers:["to get a haircut","to have their hair styled"]}
+   ]},
+]},
+{day:163, label:"Day 163 — Wed", subjects:[
+  {subject:"Language", title:"Word Families: -am Words", summary:"Kindergarten Language strand: the -am word family shares the same ending sound, as in ham, jam, ram, and yam.",
+   resourceLabel:"YouTube: Word Families: -am Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-am%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -am family?", options:["Top","Ham","Sun","Bed"], answer:1},
+     {q:"Which word rhymes with jam?", options:["Sock","Ram","Sun","Sit"], answer:1},
+     {q:"Which word does NOT belong to the -am family?", options:["Jam","Ham","Ram","Run"], answer:3},
+     {q:"Complete the rhyme: I like toast with butter and ___.", options:["jam","jog","jet","jug"], answer:0},
+     {q:"Words in the same word family share the same ___.", options:["Colour","First letter","Ending sound","Meaning"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with ham.", answers:["jam","ram","yam"]},
+     {prompt:"What ending sound do jam and ram share?", answers:["am","the am sound"]},
+     {prompt:"Is clam part of the -am family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Number Patterns: Counting by Even Numbers", summary:"Kindergarten Math strand: even numbers like 2, 4, 6, 8, and 10 follow a pattern where each number is two more than the last, and can be split into two equal groups.",
+   resourceLabel:"YouTube: Number Patterns: Counting by Even Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Patterns%3A%20Counting%20by%20Even%20Numbers%20kindergarten%20educational",
+   quiz:[
+     {q:"Which set of numbers shows counting by even numbers?", options:["1, 2, 3, 4","2, 4, 6, 8","1, 3, 5, 7","5, 10, 15, 20"], answer:1},
+     {q:"What number comes next: 4, 6, 8, ___?", options:["12","9","10","11"], answer:2},
+     {q:"Which of these numbers is even?", options:["3","9","6","5"], answer:2},
+     {q:"An even number of objects can be split into ___ equal groups.", options:["Three","Five","Two","One"], answer:2},
+     {q:"When counting by even numbers, each number is how much more than the last?", options:["2","3","5","1"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name the first three even numbers.", answers:["2, 4, 6","two four six"]},
+     {prompt:"What number comes after 6 when counting by even numbers?", answers:["8","eight"]},
+     {prompt:"Can an even number be split into two equal groups?", answers:["yes","yes it can"]}
+   ]},
+  {subject:"Science", title:"Octopus: Eight Arms in the Ocean", summary:"Kindergarten Science strand: an octopus is a soft-bodied ocean animal with eight arms covered in suckers, and it can change colour to hide from other animals.",
+   resourceLabel:"YouTube: Octopus: Eight Arms in the Ocean", resourceUrl:"https://www.youtube.com/results?search_query=Octopus%3A%20Eight%20Arms%20in%20the%20Ocean%20kindergarten%20educational",
+   quiz:[
+     {q:"How many arms does an octopus have?", options:["Four","Eight","Six","Ten"], answer:1},
+     {q:"What covers the arms of an octopus?", options:["Scales","Fur","Feathers","Suckers"], answer:3},
+     {q:"How does an octopus hide from other animals?", options:["By flying away","By changing colour","By barking loudly","By growing wings"], answer:1},
+     {q:"Where does an octopus live?", options:["Underground","In the ocean","In a tree","In a desert"], answer:1},
+     {q:"An octopus has a body that is mostly ___.", options:["Covered in feathers","Soft, with no bones","Covered in a hard shell","Covered in fur"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"How many arms does an octopus have?", answers:["eight","8"]},
+     {prompt:"What covers the arms of an octopus?", answers:["suckers","suckers"]},
+     {prompt:"What can an octopus do to hide from other animals?", answers:["change colour","it can change colour"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Judges and Courts: Making Things Fair", summary:"Kindergarten Social Studies strand: judges work in courts and help make fair decisions when people disagree or when someone needs help understanding if a rule was followed.",
+   resourceLabel:"YouTube: Our Judges and Courts: Making Things Fair", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Judges%20and%20Courts%3A%20Making%20Things%20Fair%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does a judge usually work?", options:["In an airplane","In a court","In a kitchen","On a farm"], answer:1},
+     {q:"What is the main job of a judge?", options:["Flying planes","Helping make fair decisions","Fixing pipes","Cooking food"], answer:1},
+     {q:"Why might people go to a court?", options:["To help solve a disagreement fairly","To mail a letter","To get a haircut","To buy groceries"], answer:0},
+     {q:"A courtroom helps a community by making sure decisions are ___.", options:["Fair","Secret","Random","Unfair"], answer:0},
+     {q:"Judges listen carefully before making a decision because it helps them be ___.", options:["Fair and thoughtful","Loud and rude","Fast and careless","Silent forever"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where does a judge work?", answers:["in a court","a courthouse"]},
+     {prompt:"What does a judge help make?", answers:["fair decisions","fair choices"]},
+     {prompt:"Why are judges and courts important in a community?", answers:["they help keep things fair","to help solve problems fairly"]}
+   ]},
+]},
+{day:164, label:"Day 164 — Thu", subjects:[
+  {subject:"Language", title:"Vowel Teams: igh Words", summary:"Kindergarten Language strand: the letters igh together make the long i sound, as in night, light, and high.",
+   resourceLabel:"YouTube: Vowel Teams: igh Words", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20igh%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the igh vowel team?", options:["Not","Net","Night","Nit"], answer:2},
+     {q:"What sound do the letters igh usually make together?", options:["A short a sound","A silent sound","A long e sound","A long i sound"], answer:3},
+     {q:"Which of these words has the igh vowel team?", options:["Lit","Light","Let","Lot"], answer:1},
+     {q:"Complete the rhyme: The stars twinkle in the sky at ___.", options:["net","not","nut","night"], answer:3},
+     {q:"When three letters team up to make one sound, it is called a ___.", options:["Consonant blend","Suffix","Prefix","Vowel team"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What sound do the letters igh make in the word night?", answers:["long i sound","the long i sound"]},
+     {prompt:"Give another word with the igh vowel team.", answers:["light","high"]},
+     {prompt:"Is bright a word with the igh vowel team?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Time: Comparing Durations - Which Takes Longer", summary:"Kindergarten Math strand: students compare two activities to decide which one takes a longer amount of time, such as brushing your teeth compared to baking a cake.",
+   resourceLabel:"YouTube: Time: Comparing Durations - Which Takes Longer", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Comparing%20Durations%20-%20Which%20Takes%20Longer%20kindergarten%20educational",
+   quiz:[
+     {q:"Which activity usually takes longer?", options:["Sneezing","Blinking your eyes","Baking a cake","Clapping your hands once"], answer:2},
+     {q:"Which activity usually takes a shorter amount of time?", options:["Taking a long trip","Snapping your fingers","Growing a garden","Building a house"], answer:1},
+     {q:"Comparing how long two activities take helps us understand ___.", options:["Colour","Shape","Duration","Weight"], answer:2},
+     {q:"Which would likely take longer, washing one dish or washing a whole sink of dishes?", options:["Neither takes any time","They take the same time","Washing a whole sink of dishes","Washing one dish"], answer:2},
+     {q:"An activity that takes a very short time might be measured in ___.", options:["Decades","Months","Seconds","Years"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which usually takes longer, brushing your teeth or baking a cake?", answers:["baking a cake","baking a cake takes longer"]},
+     {prompt:"Which usually takes a shorter time, blinking your eyes or reading a book?", answers:["blinking your eyes","blinking is shorter"]},
+     {prompt:"Why is it useful to compare how long activities take?", answers:["it helps us plan our day","to know what to expect"]}
+   ]},
+  {subject:"Science", title:"Elephants: The Largest Land Animals", summary:"Kindergarten Science strand: elephants are the largest animals that live on land, using their long trunks to eat, drink, and greet other elephants.",
+   resourceLabel:"YouTube: Elephants: The Largest Land Animals", resourceUrl:"https://www.youtube.com/results?search_query=Elephants%3A%20The%20Largest%20Land%20Animals%20kindergarten%20educational",
+   quiz:[
+     {q:"What are elephants known for being?", options:["The fastest ocean animals","The smallest land animals","The smallest insects","The largest land animals"], answer:3},
+     {q:"What body part do elephants use to eat, drink, and greet each other?", options:["Their trunk","Their feet","Their tail","Their ears"], answer:0},
+     {q:"Where do elephants live?", options:["Only underground","Only in trees","Only in the ocean","On land"], answer:3},
+     {q:"Elephants often live together in a group called a ___.", options:["Flock","Pack","Herd","School"], answer:2},
+     {q:"Large ears help elephants stay cool by ___.", options:["Making them invisible","Fanning away heat","Helping them swim","Making them fly"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do elephants use their trunk for?", answers:["eating and drinking","to eat and drink and greet other elephants"]},
+     {prompt:"Are elephants the largest land animals or the largest ocean animals?", answers:["largest land animals","land animals"]},
+     {prompt:"Name one thing an elephant might use its trunk to do.", answers:["drink water","pick up food"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadian Geography: Mountains, Prairies, and Coastlines", summary:"Kindergarten Social Studies strand: Canada has many different kinds of land, including tall mountains, flat prairies, and long coastlines next to the ocean.",
+   resourceLabel:"YouTube: Canadian Geography: Mountains, Prairies, and Coastlines", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Geography%3A%20Mountains%2C%20Prairies%2C%20and%20Coastlines%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these is a kind of land found in Canada?", options:["Mountains","Only ice","Only deserts","Only islands"], answer:0},
+     {q:"What is a prairie?", options:["A deep ocean","A tall mountain","A small pond","A large area of flat land"], answer:3},
+     {q:"What is a coastline?", options:["Land next to the ocean","A type of building","The middle of a mountain","A kind of animal"], answer:0},
+     {q:"Canada has land that includes mountains, prairies, and ___.", options:["Coastlines","Only sand","Only snow","Nothing else"], answer:0},
+     {q:"Learning about different kinds of land helps us understand our ___.", options:["Country geography","Favourite games","School subjects only","Favourite foods"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one kind of land found in Canada.", answers:["mountains","prairies"]},
+     {prompt:"What is a coastline?", answers:["land next to the ocean","where land meets the ocean"]},
+     {prompt:"Are prairies flat or mountainous?", answers:["flat","they are flat"]}
+   ]},
+]},
+{day:165, label:"Day 165 — Fri", subjects:[
+  {subject:"Language", title:"Vowel Teams: ow and ou", summary:"Kindergarten Language strand: the letters ow and ou can team up to make the same sound, as in cow and out.",
+   resourceLabel:"YouTube: Vowel Teams: ow and ou", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ow%20and%20ou%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the ow vowel team?", options:["Cot","Cat","Cow","Cup"], answer:2},
+     {q:"Which word has the ou vowel team?", options:["Out","Oat","Ol","Ot"], answer:0},
+     {q:"What sound do the letters ow often make together?", options:["A long a sound","A long e sound","The ow sound, like in cow","A silent sound"], answer:2},
+     {q:"Which of these words has the ou vowel team?", options:["Shot","Shout","Shirt","Shut"], answer:1},
+     {q:"The ow and ou teams often make the ___ sound.", options:["Opposite","Different","Silent","Same"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What sound do the letters ow make in the word cow?", answers:["ow sound","the ow sound"]},
+     {prompt:"What sound do the letters ou make in the word out?", answers:["ow sound","sounds like ow"]},
+     {prompt:"Give another word that has the ow sound.", answers:["how","now"]}
+   ]},
+  {subject:"Math", title:"Fractions: Introducing Fourths", summary:"Kindergarten Math strand: when a whole shape is cut into four equal parts, each part is called a fourth, or a quarter.",
+   resourceLabel:"YouTube: Fractions: Introducing Fourths", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Introducing%20Fourths%20kindergarten%20educational",
+   quiz:[
+     {q:"If a shape is cut into four equal parts, what is each part called?", options:["A third","A half","A whole","A fourth"], answer:3},
+     {q:"How many fourths make one whole shape?", options:["4","3","2","5"], answer:0},
+     {q:"For a shape to be cut into fourths, the parts must be ___.", options:["Any shape at all","Equal in size","Different sizes","Only two parts"], answer:1},
+     {q:"Which shows a shape divided into fourths?", options:["A circle cut into four equal slices","A circle cut into two pieces","A circle with no cuts","A square cut into three pieces"], answer:0},
+     {q:"A fourth is also sometimes called a ___.", options:["Whole","Quarter","Half","Double"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If a shape is cut into four equal parts, what is each part called?", answers:["a fourth","a quarter"]},
+     {prompt:"How many fourths make one whole?", answers:["4","four"]},
+     {prompt:"Do all fourths need to be equal in size?", answers:["yes","yes they do"]}
+   ]},
+  {subject:"Science", title:"Tornadoes: Powerful Spinning Storms", summary:"Kindergarten Science strand: a tornado is a powerful, spinning column of air that can move quickly across the ground during a strong storm.",
+   resourceLabel:"YouTube: Tornadoes: Powerful Spinning Storms", resourceUrl:"https://www.youtube.com/results?search_query=Tornadoes%3A%20Powerful%20Spinning%20Storms%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a tornado?", options:["A powerful, spinning column of air","A gentle breeze","A calm sunny day","A type of cloud with no wind"], answer:0},
+     {q:"When do tornadoes usually form?", options:["During a strong storm","Only at night","Only in winter","On a calm clear day"], answer:0},
+     {q:"Why should people go somewhere safe during a tornado?", options:["Tornadoes never cause harm","Tornadoes only happen in the ocean","Tornadoes are slow moving","Tornadoes can be very dangerous"], answer:3},
+     {q:"A tornado moving across the ground can pick up and move ___.", options:["Nothing at all","Objects and debris","Only leaves","Only water"], answer:1},
+     {q:"Tornadoes are studied by scientists so people can stay ___.", options:["In danger","Confused","Safe","Unaware"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does a tornado look like?", answers:["a spinning column of air","a spinning funnel"]},
+     {prompt:"When do tornadoes usually happen?", answers:["during a strong storm","during storms"]},
+     {prompt:"Why is it important to stay safe during a tornado?", answers:["tornadoes can be very dangerous","because they are powerful and fast"]}
+   ]},
+  {subject:"SocialStudies", title:"Trading Goods: How Communities Share What They Make", summary:"Kindergarten Social Studies strand: communities trade goods, giving things they make or grow to other communities in exchange for things they need.",
+   resourceLabel:"YouTube: Trading Goods: How Communities Share What They Make", resourceUrl:"https://www.youtube.com/results?search_query=Trading%20Goods%3A%20How%20Communities%20Share%20What%20They%20Make%20kindergarten%20educational",
+   quiz:[
+     {q:"What does it mean to trade goods?", options:["Keeping everything forever","Hiding goods from others","Exchanging things for other things you need","Throwing things away"], answer:2},
+     {q:"Why might communities trade with each other?", options:["To avoid helping anyone","To get things they do not have themselves","To waste resources","Trading has no purpose"], answer:1},
+     {q:"Which is an example of trading goods?", options:["Never sharing anything","Throwing away extra fruit","Burying vegetables in the yard","A farmer trading vegetables for fruit from another town"], answer:3},
+     {q:"Trading goods helps communities get things they ___.", options:["Already have too much of","Refuse to use","Never need at all","Need but cannot make themselves"], answer:3},
+     {q:"Long ago and today, trading goods helps connect ___.", options:["Different communities","Only one person","Only one family","Nothing at all"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does it mean to trade goods?", answers:["giving something for something else you need","exchanging things"]},
+     {prompt:"Why might one community trade with another?", answers:["to get things they do not have","to share what they make"]},
+     {prompt:"Name one good a community might trade.", answers:["food","fruit"]}
+   ]},
+]},
+{day:166, label:"Day 166 — Mon", subjects:[
+  {subject:"Language", title:"R-Controlled Vowels: ur Words", summary:"Kindergarten Language strand: when the letter r follows the letter u, it makes the ur sound, as in fur, turn, and burn.",
+   resourceLabel:"YouTube: R-Controlled Vowels: ur Words", resourceUrl:"https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20ur%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the ur sound?", options:["Fun","Fur","Fan","Fin"], answer:1},
+     {q:"Which of these words has an r-controlled ur sound?", options:["Tan","Ten","Ton","Turn"], answer:3},
+     {q:"The ur sound often sounds similar to which other r-controlled sound?", options:["A silent sound","A long o sound","The er sound","A short a sound"], answer:2},
+     {q:"Complete the rhyme: A cat has soft ___.", options:["fan","fur","fin","fun"], answer:1},
+     {q:"R-controlled vowels change how a vowel ___.", options:["Sounds","Looks on the page","Is spelled only","Is coloured"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What sound do the letters ur make in the word fur?", answers:["ur sound","the ur sound"]},
+     {prompt:"Give another word that has the ur sound.", answers:["turn","burn"]},
+     {prompt:"Does the ur sound in turn sound similar to the er sound in fern?", answers:["yes","yes it does"]}
+   ]},
+  {subject:"Math", title:"Money: Counting Coins to a Dollar", summary:"Kindergarten Math strand: students add up the value of different coins, like quarters, dimes, and nickels, to see how many are needed to make one dollar, or 100 cents.",
+   resourceLabel:"YouTube: Money: Counting Coins to a Dollar", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Counting%20Coins%20to%20a%20Dollar%20kindergarten%20educational",
+   quiz:[
+     {q:"How many cents make one dollar?", options:["100","200","50","75"], answer:0},
+     {q:"How many quarters are needed to make one dollar?", options:["5","2","3","4"], answer:3},
+     {q:"If you have 90 cents, how many more cents do you need to make a dollar?", options:["15","10","5","20"], answer:1},
+     {q:"Which combination of coins could make one dollar?", options:["One nickel","One penny","Two dimes","Four quarters"], answer:3},
+     {q:"Counting coins to reach one dollar helps us practice ___.", options:["Adding money amounts","Telling time","Measuring length","Subtracting shapes"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"How many cents make one dollar?", answers:["100","one hundred"]},
+     {prompt:"How many quarters make one dollar?", answers:["4","four"]},
+     {prompt:"If you have 75 cents, how many more cents do you need to make a dollar?", answers:["25","twenty five"]}
+   ]},
+  {subject:"Science", title:"Our Fingernails and Hair: Growing Parts of Our Body", summary:"Kindergarten Science strand: our fingernails and hair are parts of our body that keep growing throughout our lives and need regular care, like trimming and washing.",
+   resourceLabel:"YouTube: Our Fingernails and Hair: Growing Parts of Our Body", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Fingernails%20and%20Hair%3A%20Growing%20Parts%20of%20Our%20Body%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these body parts keeps growing throughout our lives?", options:["Our eyes","Fingernails and hair","Our ears","Our teeth"], answer:1},
+     {q:"Why is it important to trim our fingernails?", options:["To make them fall out","So they stay neat and do not get too long","Trimming is never needed","To stop them from growing forever"], answer:1},
+     {q:"What helps keep our hair clean and healthy?", options:["Cutting it every day","Never washing it","Ignoring it completely","Washing it with shampoo"], answer:3},
+     {q:"Fingernails help protect the tips of our ___.", options:["Ears","Nose","Fingers","Toes only"], answer:2},
+     {q:"Taking care of our hair and nails is part of staying ___.", options:["Clean and healthy","Cold","Tired","Sick"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one body part that keeps growing throughout our lives.", answers:["fingernails","hair"]},
+     {prompt:"Why do we trim our fingernails?", answers:["so they do not get too long","to keep them neat"]},
+     {prompt:"What can we use to keep our hair clean?", answers:["shampoo","water and shampoo"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Interpreters: Helping People Understand Each Other", summary:"Kindergarten Social Studies strand: interpreters are workers who help people who speak different languages understand each other by translating what is being said.",
+   resourceLabel:"YouTube: Our Interpreters: Helping People Understand Each Other", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Interpreters%3A%20Helping%20People%20Understand%20Each%20Other%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of an interpreter?", options:["Fixing pipes","Cooking food","Helping people who speak different languages understand each other","Flying planes"], answer:2},
+     {q:"When might an interpreter be needed?", options:["When people speak different languages","When everyone speaks the same language","Never","Only during a storm"], answer:0},
+     {q:"Where might an interpreter help someone?", options:["At a hospital or school","Underwater","Nowhere at all","In outer space"], answer:0},
+     {q:"Interpreters help make communities more ___.", options:["Silent","Welcoming and easy to understand","Unfriendly","Confusing"], answer:1},
+     {q:"An interpreter changes spoken words from one language into ___.", options:["A picture","Another language","A colour","A number"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do interpreters help people do?", answers:["understand each other","communicate"]},
+     {prompt:"Why might an interpreter be needed?", answers:["when people speak different languages","to help translate words"]},
+     {prompt:"Name a place where an interpreter might help.", answers:["a hospital","a school"]}
+   ]},
+]},
+{day:167, label:"Day 167 — Tue", subjects:[
+  {subject:"Language", title:"Suffixes: Adding -ly to Change Meaning", summary:"Kindergarten Language strand: adding the suffix -ly to the end of a word can describe how something is done, such as changing quick into quickly, meaning done in a quick way.",
+   resourceLabel:"YouTube: Suffixes: Adding -ly to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-ly%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word quickly mean?", options:["Done very slowly","Not moving at all","Done loudly only","Done in a fast way"], answer:3},
+     {q:"What does the suffix -ly usually add to a word?", options:["A description of how something is done","A colour","A number","A place"], answer:0},
+     {q:"Which word means done in a slow way?", options:["Slowest","Slow only","Slowly","Slower"], answer:2},
+     {q:"Adding -ly to the word soft makes the word ___.", options:["Softly, meaning done in a soft way","Softest","Softness only","Unsoft"], answer:0},
+     {q:"A suffix that tells us how something is done is often added to a describing word to form an ___.", options:["Prefix","Adverb","Number","Noun"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does quickly mean?", answers:["done in a quick way","fast"]},
+     {prompt:"What does the suffix -ly usually do to a word?", answers:["describes how something is done","changes it to describe an action"]},
+     {prompt:"Give an example of a word with the suffix -ly.", answers:["quickly","slowly"]}
+   ]},
+  {subject:"Math", title:"Estimating Capacity: About How Much Does It Hold?", summary:"Kindergarten Math strand: students estimate about how much a container can hold before checking by filling it, comparing containers like a cup, a bowl, and a bucket.",
+   resourceLabel:"YouTube: Estimating Capacity: About How Much Does It Hold?", resourceUrl:"https://www.youtube.com/results?search_query=Estimating%20Capacity%3A%20About%20How%20Much%20Does%20It%20Hold%3F%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these likely holds more?", options:["A thimble","A small cup","A teaspoon","A bucket"], answer:3},
+     {q:"What does it mean to estimate the capacity of a container?", options:["To measure its exact weight","To make a careful guess about how much it holds","To paint it a colour","To count its sides"], answer:1},
+     {q:"Why might we check our estimate after guessing a containers capacity?", options:["To change the container shape","Checking is never useful","To make the container disappear","To see how close our guess was to the real amount"], answer:3},
+     {q:"Which activity helps us estimate capacity?", options:["Guessing then pouring water to check","Counting sides of a shape","Measuring with a ruler","Weighing on a scale"], answer:0},
+     {q:"A large bucket most likely holds ___ water than a small cup.", options:["The same amount of","More","Less","No"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Which usually holds more, a cup or a bucket?", answers:["a bucket","bucket"]},
+     {prompt:"What does it mean to estimate capacity?", answers:["to guess about how much something holds","make a careful guess before checking"]},
+     {prompt:"Why do we check our estimate after guessing?", answers:["to see how close our guess was","to compare our guess to the real amount"]}
+   ]},
+  {subject:"Science", title:"Types of Trees: Evergreen and Deciduous", summary:"Kindergarten Science strand: evergreen trees keep their green needles all year, while deciduous trees lose their leaves in autumn and grow new ones in spring.",
+   resourceLabel:"YouTube: Types of Trees: Evergreen and Deciduous", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Trees%3A%20Evergreen%20and%20Deciduous%20kindergarten%20educational",
+   quiz:[
+     {q:"What is true about an evergreen tree?", options:["It never has any leaves or needles","It keeps its green needles all year","It only grows in the desert","It loses all its leaves every autumn"], answer:1},
+     {q:"What happens to a deciduous tree in autumn?", options:["Its leaves stay green forever","It grows underwater","Its leaves change colour and fall off","It disappears completely"], answer:2},
+     {q:"Which of these is an example of an evergreen tree?", options:["A maple tree that loses its leaves","A tree with no needles or leaves","A pine tree","An oak tree that loses its leaves"], answer:2},
+     {q:"Deciduous trees grow new leaves again in which season?", options:["Only winter","Never again","Spring","Only at night"], answer:2},
+     {q:"Comparing evergreen and deciduous trees helps us understand how trees can be ___.", options:["Different from each other","Always the same colour","Not really trees","Exactly the same"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Does an evergreen tree lose its needles in winter?", answers:["no","no it does not"]},
+     {prompt:"What happens to the leaves of a deciduous tree in autumn?", answers:["they fall off","they fall to the ground"]},
+     {prompt:"Name one example of an evergreen tree.", answers:["a pine tree","a spruce tree"]}
+   ]},
+  {subject:"SocialStudies", title:"The Royal Canadian Mint: Where Our Coins Are Made", summary:"Kindergarten Social Studies strand: the Royal Canadian Mint is a special place where Canadian coins are designed and made before they are used in stores across the country.",
+   resourceLabel:"YouTube: The Royal Canadian Mint: Where Our Coins Are Made", resourceUrl:"https://www.youtube.com/results?search_query=The%20Royal%20Canadian%20Mint%3A%20Where%20Our%20Coins%20Are%20Made%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the Royal Canadian Mint?", options:["A school","A grocery store","A type of coin","A place where Canadian coins are made"], answer:3},
+     {q:"What happens at the Royal Canadian Mint?", options:["Coins are destroyed","Coins are designed and made","Coins are painted only","Coins are grown like plants"], answer:1},
+     {q:"After coins are made, where do they usually go?", options:["Out into stores and banks to be used as money","Nowhere, they stay in one place forever","Into outer space","Back into the ground"], answer:0},
+     {q:"Why is the mint an important part of Canada?", options:["It only makes paper","It only makes toys","It creates the coins Canadians use every day","It has no importance"], answer:2},
+     {q:"The word mint, when talking about money, refers to a place that ___.", options:["Fixes cars","Teaches school","Makes coins","Sells food"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is the Royal Canadian Mint?", answers:["a place where coins are made","where Canadian coins are made"]},
+     {prompt:"What happens to coins after they are made at the mint?", answers:["they are used in stores","sent out to be used as money"]},
+     {prompt:"Why is the mint an important place in Canada?", answers:["it makes the coins we use every day","it creates our money"]}
+   ]},
+]},
+{day:168, label:"Day 168 — Wed", subjects:[
+  {subject:"Language", title:"Prefixes: Adding Dis- to Change Meaning", summary:"Kindergarten Language strand: adding the prefix dis- to the start of a word can mean not or the opposite of, such as changing like into dislike, meaning to not like something.",
+   resourceLabel:"YouTube: Prefixes: Adding Dis- to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Dis-%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word dislike mean?", options:["To forget something","To really enjoy something","To not like something","To agree with something"], answer:2},
+     {q:"What does the prefix dis- usually add to a word?", options:["A number","The meaning of again","A colour","The meaning of not or the opposite"], answer:3},
+     {q:"Which word means to not agree?", options:["Agreeable","Disagree","Reagree","Agreement"], answer:1},
+     {q:"Adding dis- to the word appear makes the word ___.", options:["Appearing only","Unappear","Disappear, meaning to go away","Reappear"], answer:2},
+     {q:"A prefix is added to the ___ of a word.", options:["Beginning","Nowhere","End","Middle"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does dislike mean?", answers:["to not like something","not liking something"]},
+     {prompt:"What does the prefix dis- usually mean?", answers:["not","the opposite of"]},
+     {prompt:"Give an example of a word with the prefix dis-.", answers:["dislike","disagree"]}
+   ]},
+  {subject:"Math", title:"Addition and Subtraction Stories to 20", summary:"Kindergarten Math strand: students solve addition and subtraction word stories using numbers up to 20, such as combining two groups or taking objects away.",
+   resourceLabel:"YouTube: Addition and Subtraction Stories to 20", resourceUrl:"https://www.youtube.com/results?search_query=Addition%20and%20Subtraction%20Stories%20to%2020%20kindergarten%20educational",
+   quiz:[
+     {q:"If you have 12 apples and get 5 more, how many apples do you have in total?", options:["17","15","18","16"], answer:0},
+     {q:"If you have 18 stickers and give away 6, how many stickers are left?", options:["10","13","11","12"], answer:3},
+     {q:"Which operation do we use to find a total when combining two groups?", options:["Multiplication","Addition","Division","Subtraction"], answer:1},
+     {q:"If a story says objects are being taken away, which operation should you use?", options:["Subtraction","Estimating","Addition","Sorting"], answer:0},
+     {q:"If you have 9 crayons and find 8 more, how many crayons do you have?", options:["18","17","15","16"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"If you have 12 apples and get 5 more, how many apples do you have?", answers:["17","seventeen"]},
+     {prompt:"If you have 18 stickers and give away 6, how many are left?", answers:["12","twelve"]},
+     {prompt:"What operation do we use when we combine two groups together?", answers:["addition","adding"]}
+   ]},
+  {subject:"Science", title:"Earthquakes: When the Ground Shakes", summary:"Kindergarten Science strand: an earthquake happens when the ground shakes suddenly because of movement deep under the surface of the earth.",
+   resourceLabel:"YouTube: Earthquakes: When the Ground Shakes", resourceUrl:"https://www.youtube.com/results?search_query=Earthquakes%3A%20When%20the%20Ground%20Shakes%20kindergarten%20educational",
+   quiz:[
+     {q:"What happens to the ground during an earthquake?", options:["It grows taller","It disappears","It turns to water","It shakes suddenly"], answer:3},
+     {q:"Where does the movement that causes an earthquake happen?", options:["In the clouds","In outer space","Deep under the surface of the earth","In the ocean only"], answer:2},
+     {q:"Why do schools sometimes practice earthquake drills?", options:["Drills are never useful","To waste time","To make people scared","To help people know how to stay safe"], answer:3},
+     {q:"During an earthquake, it is often recommended to ___.", options:["Stand near a window","Drop, cover, and hold on","Run outside immediately","Ignore it completely"], answer:1},
+     {q:"An earthquake is an example of a natural event that comes from inside our ___.", options:["Classroom","Backpack","Planet","Refrigerator"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What happens to the ground during an earthquake?", answers:["it shakes","the ground shakes"]},
+     {prompt:"Where does the movement that causes an earthquake happen?", answers:["deep under the ground","under the surface of the earth"]},
+     {prompt:"Why is it important to know what to do during an earthquake?", answers:["to stay safe","so we know how to stay safe"]}
+   ]},
+  {subject:"SocialStudies", title:"Community Events: Fairs and Festivals", summary:"Kindergarten Social Studies strand: communities often hold fairs and festivals where neighbours gather to enjoy music, food, games, and activities together.",
+   resourceLabel:"YouTube: Community Events: Fairs and Festivals", resourceUrl:"https://www.youtube.com/results?search_query=Community%20Events%3A%20Fairs%20and%20Festivals%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a community festival?", options:["A kind of weather","A gathering where neighbours enjoy activities together","A type of school test","A private event for one family"], answer:1},
+     {q:"Which of these might you find at a community fair?", options:["A hospital bed","Music and games","A courtroom","A car repair shop"], answer:1},
+     {q:"Why are community festivals helpful for neighbourhoods?", options:["They keep neighbours apart","They only help one person","They help bring neighbours together","They have no purpose"], answer:2},
+     {q:"Community festivals often celebrate things like ___.", options:["Only sports scores","Only weather reports","Local traditions and culture","Nothing important"], answer:2},
+     {q:"Attending a local fair or festival is one way to feel part of a ___.", options:["Community","Forest","Ocean","Desert"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is a community fair or festival?", answers:["a gathering for neighbours to enjoy together","an event where people gather"]},
+     {prompt:"Name one thing you might find at a community festival.", answers:["music","food"]},
+     {prompt:"Why are community festivals a good way to bring people together?", answers:["everyone can enjoy activities together","they help neighbours get to know each other"]}
+   ]},
+]},
+{day:169, label:"Day 169 — Thu", subjects:[
+  {subject:"Language", title:"Punctuation: Commas in a List", summary:"Kindergarten Language strand: a comma is used to separate items in a list, such as in the sentence I have a cat, a dog, and a bird.",
+   resourceLabel:"YouTube: Punctuation: Commas in a List", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Commas%20in%20a%20List%20kindergarten%20educational",
+   quiz:[
+     {q:"What punctuation mark separates items in a list?", options:["A period","An exclamation mark","A question mark","A comma"], answer:3},
+     {q:"In the sentence I have a cat, a dog, and a bird, how many commas are used?", options:["1","4","2","3"], answer:2},
+     {q:"Which sentence correctly uses commas in a list?", options:["I like red blue and green","I like red; blue; and green","I like red. blue. and green.","I like red, blue, and green"], answer:3},
+     {q:"A comma helps readers know where one item in a list ___.", options:["Ends and the next begins","Is coloured","Is the most important","Is the loudest"], answer:0},
+     {q:"Which of these is an example of a list that needs commas?", options:["One single apple","A short question","A single exclamation","Apples, oranges, and pears"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What punctuation mark is used to separate items in a list?", answers:["a comma","comma"]},
+     {prompt:"Where do we put a comma in a list of three items?", answers:["between each item","after the first two items"]},
+     {prompt:"Give an example of a sentence with a list that uses commas.", answers:["I have a cat, a dog, and a bird","I like apples, bananas, and grapes"]}
+   ]},
+  {subject:"Math", title:"Place Value: Comparing Two-Digit Numbers", summary:"Kindergarten Math strand: students use their understanding of tens and ones to compare two-digit numbers and decide which number is greater or less.",
+   resourceLabel:"YouTube: Place Value: Comparing Two-Digit Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Place%20Value%3A%20Comparing%20Two-Digit%20Numbers%20kindergarten%20educational",
+   quiz:[
+     {q:"Which number is greater, 53 or 35?", options:["35","neither","they are equal","53"], answer:3},
+     {q:"How many tens are in the number 47?", options:["4","7","3","5"], answer:0},
+     {q:"When comparing two two-digit numbers, which digit should you look at first?", options:["Neither digit","Only the colour","The tens digit","The ones digit"], answer:2},
+     {q:"Which number is less, 61 or 16?", options:["neither","61","they are equal","16"], answer:3},
+     {q:"If two numbers have the same tens digit, which digit do you compare next?", options:["The tens digit again","The ones digit","The colour","Neither"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Which number is greater, 42 or 24?", answers:["42","forty two"]},
+     {prompt:"How many tens are in the number 35?", answers:["3","three"]},
+     {prompt:"Why does knowing the tens digit help us compare two numbers?", answers:["the number with more tens is usually greater","it tells us which number is bigger"]}
+   ]},
+  {subject:"Science", title:"Hummingbirds: Tiny Fast-Flying Birds", summary:"Kindergarten Science strand: hummingbirds are tiny birds that flap their wings very fast, letting them hover in the air while they drink nectar from flowers.",
+   resourceLabel:"YouTube: Hummingbirds: Tiny Fast-Flying Birds", resourceUrl:"https://www.youtube.com/results?search_query=Hummingbirds%3A%20Tiny%20Fast-Flying%20Birds%20kindergarten%20educational",
+   quiz:[
+     {q:"What do hummingbirds drink from flowers?", options:["Water only","Nectar","Milk","Juice"], answer:1},
+     {q:"What special thing can hummingbirds do because they flap their wings so fast?", options:["Change colour","Swim underwater","Hover in one spot in the air","Dig tunnels"], answer:2},
+     {q:"Are hummingbirds large or small birds?", options:["The size of an eagle","Very large","The largest birds in the world","Small and tiny"], answer:3},
+     {q:"A hummingbird flaps its wings so fast that they can be hard to ___.", options:["Feed slowly","Hear loudly","See clearly","Find quickly"], answer:2},
+     {q:"Hummingbirds are known for being one of the ___ birds.", options:["Smallest","Loudest","Largest","Slowest"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do hummingbirds drink from flowers?", answers:["nectar","flower nectar"]},
+     {prompt:"What can a hummingbird do while it flaps its wings very fast?", answers:["hover in the air","stay in one spot in the air"]},
+     {prompt:"Are hummingbirds large or small birds?", answers:["small","tiny"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Building Inspectors: Keeping Buildings Safe", summary:"Kindergarten Social Studies strand: building inspectors check that new buildings are built safely and follow the rules before people are allowed to live or work inside them.",
+   resourceLabel:"YouTube: Our Building Inspectors: Keeping Buildings Safe", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Building%20Inspectors%3A%20Keeping%20Buildings%20Safe%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a building inspector?", options:["Cutting hair","Flying planes","Checking that buildings are built safely","Cooking food"], answer:2},
+     {q:"Why do buildings need to be inspected before people move in?", options:["To paint the walls","To make the building louder","To make sure the building is safe","Inspections are never needed"], answer:2},
+     {q:"Which of these might a building inspector check?", options:["The wiring and walls","A grocery list","The weather forecast","A bus schedule"], answer:0},
+     {q:"Building inspectors help protect the safety of people who will ___.", options:["Fly over the building","Avoid the building forever","Live or work in the building","Never enter the building"], answer:2},
+     {q:"A building that passes inspection is considered ___.", options:["Invisible","Incomplete forever","Dangerous","Safe to use"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do building inspectors check?", answers:["that buildings are safe","if buildings follow the rules"]},
+     {prompt:"Why is it important for a building to be inspected before people move in?", answers:["to make sure it is safe","so everyone inside stays safe"]},
+     {prompt:"Name one thing a building inspector might look at.", answers:["the walls","the wiring"]}
+   ]},
+]},
+{day:170, label:"Day 170 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: New Word Families, Vowel Teams, and Punctuation", summary:"Kindergarten Language strand review: students revisit the -ad, -ag, and -am word families, vowel teams igh and ow/ou, r-controlled ur, the suffix -ly, the prefix dis-, and commas in a list.",
+   resourceLabel:"YouTube: Language Review: New Word Families, Vowel Teams, and Punctuation", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20New%20Word%20Families%2C%20Vowel%20Teams%2C%20and%20Punctuation%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ad family?", options:["Sad","Bed","Top","Sun"], answer:0},
+     {q:"Which word has the igh vowel team?", options:["Night","Not","Nit","Net"], answer:0},
+     {q:"What does the word dislike mean?", options:["To agree with something","To really enjoy something","To not like something","To forget something"], answer:2},
+     {q:"What punctuation mark separates items in a list?", options:["A question mark","An exclamation mark","A period","A comma"], answer:3},
+     {q:"What does the word quickly mean?", options:["Done very slowly","Done in a fast way","Done loudly only","Not moving at all"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word from the -ad, -ag, or -am family.", answers:["bad","tag"]},
+     {prompt:"What does the prefix dis- usually mean?", answers:["not"]},
+     {prompt:"What punctuation mark separates items in a list?", answers:["a comma"]}
+   ]},
+  {subject:"Math", title:"Math Review: Skip Counting, Fractions, and Money", summary:"Kindergarten Math strand review: students revisit skip counting by 7s and 8s, even numbers, comparing durations, fourths, counting coins to a dollar, estimating capacity, addition and subtraction stories to 20, and comparing two-digit numbers.",
+   resourceLabel:"YouTube: Math Review: Skip Counting, Fractions, and Money", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Skip%20Counting%2C%20Fractions%2C%20and%20Money%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next: 7, 14, 21, ___?", options:["22","28","29","27"], answer:1},
+     {q:"Which set of numbers shows counting by even numbers?", options:["1, 2, 3, 4","1, 3, 5, 7","5, 10, 15, 20","2, 4, 6, 8"], answer:3},
+     {q:"If a shape is cut into four equal parts, what is each part called?", options:["A half","A third","A whole","A fourth"], answer:3},
+     {q:"How many cents make one dollar?", options:["200","75","100","50"], answer:2},
+     {q:"Which number is greater, 53 or 35?", options:["35","neither","they are equal","53"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What comes next: 7, 14, 21, ___?", answers:["28"]},
+     {prompt:"How many fourths make one whole?", answers:["4"]},
+     {prompt:"How many cents make one dollar?", answers:["100"]}
+   ]},
+  {subject:"Science", title:"Science Review: Life Cycles, Ocean Animals, and Weather", summary:"Kindergarten Science strand review: students revisit the life cycle of a dragonfly, jellyfish, octopus, elephants, tornadoes, fingernails and hair, evergreen and deciduous trees, earthquakes, and hummingbirds.",
+   resourceLabel:"YouTube: Science Review: Life Cycles, Ocean Animals, and Weather", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Life%20Cycles%2C%20Ocean%20Animals%2C%20and%20Weather%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does a dragonfly life cycle begin?", options:["As an egg in the desert","As an adult in the sky","As an egg in a tree","As an egg in water"], answer:3},
+     {q:"Does a jellyfish have bones inside its body?", options:["Only in its head","Yes","Only in its tentacles","No"], answer:3},
+     {q:"What are elephants known for being?", options:["The smallest insects","The fastest ocean animals","The smallest land animals","The largest land animals"], answer:3},
+     {q:"What happens to the ground during an earthquake?", options:["It turns to water","It grows taller","It shakes suddenly","It disappears"], answer:2},
+     {q:"What do hummingbirds drink from flowers?", options:["Water only","Nectar","Juice","Milk"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Where does a dragonfly life cycle begin?", answers:["as an egg in water"]},
+     {prompt:"How many arms does an octopus have?", answers:["eight"]},
+     {prompt:"What do hummingbirds drink from flowers?", answers:["nectar"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Helpers, Geography, and Trade", summary:"Kindergarten Social Studies strand review: students revisit plumbers, hairdressers and barbers, judges and courts, Canadian geography, trading goods, interpreters, the Royal Canadian Mint, community festivals, and building inspectors.",
+   resourceLabel:"YouTube: Social Studies Review: Helpers, Geography, and Trade", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Helpers%2C%20Geography%2C%20and%20Trade%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a plumber?", options:["Growing food","Teaching school","Flying airplanes","Fixing pipes and water leaks"], answer:3},
+     {q:"Where does a judge usually work?", options:["In a court","On a farm","In an airplane","In a kitchen"], answer:0},
+     {q:"What is a prairie?", options:["A large area of flat land","A deep ocean","A small pond","A tall mountain"], answer:0},
+     {q:"What is the Royal Canadian Mint?", options:["A grocery store","A school","A type of coin","A place where Canadian coins are made"], answer:3},
+     {q:"What is the main job of a building inspector?", options:["Cooking food","Cutting hair","Flying planes","Checking that buildings are built safely"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is the main job of a plumber?", answers:["fixing pipes and water leaks"]},
+     {prompt:"What is a prairie?", answers:["a large area of flat land"]},
+     {prompt:"What is the main job of a building inspector?", answers:["checking that buildings are built safely"]}
    ]},
 ]},
 ];
