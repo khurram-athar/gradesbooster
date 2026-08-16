@@ -2191,6 +2191,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"Language", title:"Writing: Writing a Compare and Contrast Essay", summary:"Grade 7 Language strand: a compare and contrast essay examines the similarities and differences between two subjects, often organized point-by-point or subject-by-subject.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=K7Asn_Dg5WA",
    quiz:[
      {q:"A compare and contrast essay examines ___.", options:["A concept unrelated to writing","Only the differences, never any similarities","A single subject with no comparison at all","The similarities and differences between two subjects"], answer:3},
      {q:"In a point-by-point structure, a writer organizes the essay by ___.", options:["Randomly mixing ideas with no clear organization","Discussing one point of comparison at a time for both subjects","A concept unrelated to essay structure","Discussing all of one subject, then all of the other subject"], answer:1},
@@ -2200,6 +2201,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"The Pythagorean Theorem: Applications", summary:"Grade 7 Math strand: the Pythagorean theorem (a² + b² = c²) can be applied to real-world problems, such as finding the shortest distance across a rectangular field or checking whether a corner is a right angle.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=FdnH3GPYOQA",
    quiz:[
      {q:"The Pythagorean theorem states that ___.", options:["A formula unrelated to the Pythagorean theorem","a + b = c for any triangle","a² - b² = c² for any triangle","a² + b² = c², where c is the hypotenuse of a right triangle"], answer:3},
      {q:"If a right triangle has legs of 3 and 4, what is the length of the hypotenuse?", options:["7","12","A value unrelated to the calculation","5"], answer:3},
@@ -2209,6 +2211,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Sound Waves: Pitch, Volume, and Frequency", summary:"Grade 7 Science strand: sound travels as waves, and its pitch is determined by frequency (how many vibrations per second) while its volume is determined by amplitude (the size of the vibration).",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=YQ2JrOL-7fs",
    quiz:[
      {q:"Pitch is determined by ___.", options:["A concept unrelated to pitch","The colour of the sound wave","Frequency, or how many vibrations occur per second","The distance the sound has travelled"], answer:2},
      {q:"Volume is determined by ___.", options:["Frequency, or how many vibrations occur per second","A concept unrelated to volume","The temperature of the surrounding air","Amplitude, or the size of the vibration"], answer:3},
