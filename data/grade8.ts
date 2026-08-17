@@ -2191,6 +2191,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"Language", title:"Writing: The Editorial/Op-Ed", summary:"Grade 8 Writing strand: an editorial or op-ed presents a writer’s opinion on a current issue, supported by evidence and reasoning, and often aims to persuade readers or prompt action.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=3GkN4qul82Y",
    quiz:[
      {q:"An editorial or op-ed is written to ___.", options:["A concept unrelated to this type of writing","Report only neutral facts with no opinion at all","Tell a completely fictional story","Present a writer’s opinion on a current issue"], answer:3},
      {q:"An effective editorial supports its opinion with ___.", options:["Only unsupported personal feelings","Evidence and reasoning","A concept unrelated to editorials","No support of any kind"], answer:1},
@@ -2200,6 +2201,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Exponential Growth and Decay", summary:"Grade 8 Math strand: exponential growth occurs when a quantity increases by a consistent percentage over equal time periods, while exponential decay occurs when a quantity decreases the same way, both modelled with the form y = a(b)^x.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=sn15zjUpx7E",
    quiz:[
      {q:"Exponential growth occurs when a quantity ___.", options:["A concept unrelated to exponential growth","Increases by the same fixed amount every time period","Remains exactly the same over time","Increases by a consistent percentage over equal time periods"], answer:3},
      {q:"Exponential decay occurs when a quantity ___.", options:["Increases by a consistent percentage over equal time periods","Decreases by the same fixed amount every time period","A concept unrelated to exponential decay","Decreases by a consistent percentage over equal time periods"], answer:3},
@@ -2209,6 +2211,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Electromagnetism: Fields and Electromagnets", summary:"Grade 8 Science strand: an electric current moving through a wire creates a magnetic field, and coiling the wire around an iron core strengthens this field, forming an electromagnet.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=f-6FbdpJPTA",
    quiz:[
      {q:"An electric current moving through a wire creates ___.", options:["A concept unrelated to electromagnetism","A permanent change in the wire’s colour","A magnetic field","No effect of any kind on the surrounding space"], answer:2},
      {q:"An electromagnet is created by ___.", options:["Placing two permanent magnets next to each other with no current","A concept unrelated to electromagnets","Removing all metal from a circuit","Coiling a current-carrying wire around an iron core"], answer:3},
@@ -2218,6 +2221,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Chinese Head Tax and Exclusion Act", summary:"Grade 8 History strand: the Chinese Head Tax and later Chinese Exclusion Act were discriminatory Canadian policies that restricted and eventually nearly banned Chinese immigration in the late 1800s and early 1900s.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=_67q992HVPg",
    quiz:[
      {q:"The Chinese Head Tax was a policy that required ___.", options:["Chinese immigrants to pay a fee to enter Canada","A policy unrelated to the Chinese Head Tax","All immigrants entering Canada to pay an equal fee","Chinese immigrants to receive free passage to Canada"], answer:0},
      {q:"The Chinese Exclusion Act of 1923 largely ___.", options:["Encouraged unrestricted immigration from every country","Banned Chinese immigration to Canada","Eliminated all restrictions on Chinese immigration","A policy unrelated to the Chinese Exclusion Act"], answer:1},

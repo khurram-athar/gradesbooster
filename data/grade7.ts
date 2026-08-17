@@ -2221,6 +2221,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Marshall Plan and European Reconstruction", summary:"Grade 7 Social Studies strand: the Marshall Plan was a large-scale American aid program launched after World War II to help rebuild the economies of war-torn European countries.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=yovKiqzAKGs",
    quiz:[
      {q:"The Marshall Plan was launched to help ___.", options:["Rebuild the economies of war-torn European countries after World War II","A concept unrelated to the Marshall Plan","Start a new conflict in Europe","End all trade between European nations"], answer:0},
      {q:"The Marshall Plan primarily provided European countries with ___.", options:["No support of any kind","Economic aid","Military weapons only, with no economic support","A type of support unrelated to the Marshall Plan"], answer:1},

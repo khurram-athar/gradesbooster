@@ -2189,17 +2189,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:53, label:"Day 53 — Wed", subjects:[
-  {subject:"Language", title:"Grammar: Conditional Sentences and Mood Shifts", summary:"Grade 9 Writing strand: conditional sentences express a condition and its result, often shifting verb mood -- for example, using the subjunctive in hypothetical conditions such as “if I were” rather than “if I was.”",
+  {subject:"Language", title:"Grammar: Shifts in Verb Mood", summary:"Grade 9 Writing strand: verb mood (indicative, imperative, or subjunctive) shows a writer's attitude toward an action, and an unnecessary shift in mood within a sentence or passage can confuse readers and weaken clarity.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=iHv9I1rzFiU",
    quiz:[
-     {q:"A conditional sentence expresses ___.", options:["Only a simple command","A condition and its result","A question with no connection to conditions","A concept unrelated to grammar"], answer:1},
-     {q:"Which sentence correctly uses the subjunctive mood in a hypothetical condition?", options:["If I was taller, I would join the team.","If I were taller, I would join the team.","If I be taller, I would join the team.","If I am taller, I would join the team."], answer:1},
-     {q:"A conditional sentence in the present real form typically uses ___.", options:["The subjunctive mood in both clauses","A concept unrelated to conditional sentences","No verb at all in either clause","The present tense in both clauses"], answer:3},
-     {q:"Why might a writer shift to the subjunctive mood in a conditional sentence?", options:["The subjunctive mood is never used in conditional sentences","Mood shifts have no effect on the meaning of a sentence","The subjunctive mood is only used for factual statements","To clearly signal that the condition is hypothetical or contrary to fact"], answer:3},
-     {q:"Which sentence demonstrates a conditional sentence describing a real, possible situation?", options:["If it were raining right now on the moon, we would stay inside.","If it rained yesterday, we would have stayed inside.","A sentence with no condition or result at all.","If it rains tomorrow, we will stay inside."], answer:3}
+     {q:"Verb mood shows a writer's ___.", options:["Vocabulary level","Verb tense only","Attitude toward the action, such as a fact, command, or wish","A concept unrelated to grammar"], answer:2},
+     {q:"Which sentence uses the imperative mood?", options:["She walks to school every day.","Close the door, please.","If she were here, she would help.","She has walked to school."], answer:1},
+     {q:"Which of these is NOT one of the main verb moods in English?", options:["Indicative","Imperative","Subjunctive","Past Tense"], answer:3},
+     {q:"Which sentence correctly uses the subjunctive mood?", options:["If I was rich, I would travel more.","If I were rich, I would travel more.","If I am rich, I would travel more.","If I be rich, I would travel more."], answer:1},
+     {q:"Why should writers avoid unnecessary shifts in verb mood within a passage?", options:["Shifts in mood always improve a sentence's clarity","Mood only matters in spoken English, not in writing","Consistent mood has no effect on how a reader understands a passage","Unnecessary shifts can confuse the reader by breaking a consistent tone"], answer:3}
    ]},
   {subject:"Math", title:"Rational Functions and Asymptotes (Intro)", summary:"Grade 9 Algebra strand (non-linear relations): a rational function is a ratio of two polynomials, and it can have a vertical asymptote where the denominator equals zero and a horizontal asymptote describing its end behaviour.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=fy45qX8cUwQ",
    quiz:[
      {q:"A rational function is best described as ___.", options:["A single polynomial with no denominator","A function that never includes a fraction","A concept unrelated to algebra","A ratio of two polynomials"], answer:3},
      {q:"A vertical asymptote of a rational function occurs where ___.", options:["A concept unrelated to rational functions","The numerator equals zero","The function’s value is always exactly one","The denominator equals zero"], answer:3},
@@ -2207,17 +2209,19 @@ const curriculum: DayContent[] = [
      {q:"For the rational function y equals 1 over (x minus 3), where is the vertical asymptote?", options:["y equals 3","x equals negative 3","x equals 0","x equals 3"], answer:3},
      {q:"Why is identifying asymptotes useful when graphing a rational function?", options:["Asymptotes only apply to linear functions, not rational ones","They reveal values the graph approaches but never actually reaches, shaping its overall behaviour","A rational function’s graph never approaches any particular value","Asymptotes have no connection to graphing rational functions"], answer:1}
    ]},
-  {subject:"Science", title:"The Water Cycle and Watershed Systems", summary:"Grade 9 Science Earth and Space Systems strand: a watershed is an area of land where all surface water drains to a common point, and the water cycle moves water through this system via evaporation, precipitation, and runoff.",
+  {subject:"Science", title:"The Water Cycle: Evaporation, Condensation, and Precipitation", summary:"Grade 9 Science Earth and Space Systems strand: the water cycle continuously moves water through Earth's atmosphere, land, and oceans through evaporation, condensation, precipitation, and runoff, driven by solar energy and gravity.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=r2dnUvP1JgM",
    quiz:[
-     {q:"A watershed is best described as ___.", options:["An area of land where all surface water drains to a common point","An area with no connection to precipitation or runoff","A concept unrelated to the water cycle","A single isolated body of water with no surrounding land"], answer:0},
-     {q:"Runoff refers to water that ___.", options:["Remains frozen permanently with no movement","Flows over the land’s surface toward a common drainage point","Evaporates directly into the atmosphere with no surface flow","A process unrelated to the water cycle"], answer:1},
-     {q:"Why might human development, such as paving surfaces, affect a watershed’s natural water flow?", options:["Impermeable surfaces can increase runoff and reduce natural water absorption into the ground","Paved surfaces always increase water absorption into the ground","Human development never affects how water moves through a watershed","Watersheds are entirely unaffected by human land use"], answer:0},
-     {q:"Why is understanding watershed boundaries important for managing water quality?", options:["Watershed boundaries have no connection to water quality","Water quality management never considers watershed systems","Pollution entering anywhere within a watershed can eventually affect its shared water source","Pollution in one part of a watershed never affects any other part"], answer:2},
-     {q:"Which of these is a component of the water cycle within a watershed?", options:["A process that only occurs in the ocean, never on land","Water cycles that never involve any precipitation","Precipitation feeding into rivers and groundwater","A component unrelated to water movement"], answer:2}
+     {q:"Evaporation in the water cycle occurs when ___.", options:["Water vapour turns directly into ice","Liquid water absorbs energy and changes into water vapour","A process unrelated to the water cycle","Water flows over the land's surface"], answer:1},
+     {q:"Condensation occurs when water vapour ___.", options:["Cools and changes back into liquid water droplets", "Freezes instantly into snow", "Flows underground into an aquifer", "A process unrelated to the water cycle"], answer:0},
+     {q:"Which of these is a form of precipitation?", options:["Runoff", "Evaporation", "Rain", "Condensation"], answer:2},
+     {q:"What is the primary source of energy that drives the water cycle?", options:["Wind", "The Moon's gravity", "The Sun", "A source unrelated to the water cycle"], answer:2},
+     {q:"After precipitation falls, water that flows over the land's surface toward rivers, lakes, or oceans is called ___.", options:["Condensation", "Runoff", "Sublimation", "A term unrelated to the water cycle"], answer:1}
    ]},
   {subject:"SocialStudies", title:"Demographic Transition Model and Population Pyramids", summary:"Grade 9 Social Studies (Geography) strand: the demographic transition model describes how a country’s birth and death rates change as it develops economically, and population pyramids visually represent a population’s age and sex structure.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=FyLHfW2mRaU",
    quiz:[
      {q:"The demographic transition model describes how ___ change as a country develops economically.", options:["Birth and death rates","Only the total land area of a country","The exact temperature of a country’s climate","A factor unrelated to population"], answer:0},
      {q:"A population pyramid is used to visually represent a population’s ___.", options:["Average income level exclusively","Total land area only","A concept unrelated to demographics","Age and sex structure"], answer:3},
