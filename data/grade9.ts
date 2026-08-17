@@ -2233,6 +2233,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Idioms and Figurative Language in Context", summary:"Grade 9 Language strand: an idiom is a phrase whose meaning cannot be understood literally from its individual words, and recognizing idioms and other figurative language in context helps readers grasp a writer’s intended meaning.",
    resourceLabel:"TVO Learn: Grade 9 Language", resourceUrl:"https://tvolearn.com/pages/grade-9-language",
+   videoUrl:"https://www.youtube.com/watch?v=lzKj-bLvrYQ",
    quiz:[
      {q:"An idiom is best described as a phrase whose meaning ___.", options:["Cannot be understood literally from its individual words","Has no connection to how it is used in context","A concept unrelated to figurative language","Is always identical to its literal, word-for-word meaning"], answer:0},
      {q:"What does the idiom “break the ice” typically mean?", options:["To end a conversation abruptly","To literally shatter a piece of ice","A phrase with no figurative meaning","To ease tension or begin a conversation in an awkward situation"], answer:3},
@@ -2242,6 +2243,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"The Law of Sines and Law of Cosines (Intro)", summary:"Grade 9 Measurement/Geometry strand: the Law of Sines and Law of Cosines are used to solve for unknown sides or angles in non-right triangles, extending beyond the basic trigonometric ratios used for right triangles.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=T--nPHdS1Vo",
    quiz:[
      {q:"The Law of Sines and Law of Cosines are primarily used to solve for unknown parts of ___.", options:["Circles exclusively, with no connection to triangles","Non-right triangles","A shape unrelated to triangles","Only right triangles"], answer:1},
      {q:"The Law of Sines relates the ratio of ___.", options:["Only two angles, with no connection to side lengths","A concept unrelated to triangle measurement","A side length to the sine of its opposite angle","The area of a triangle to its perimeter"], answer:2},
@@ -2251,6 +2253,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Kinetic and Potential Energy Transformations", summary:"Grade 9 Science Physics strand: kinetic energy is the energy of motion, potential energy is stored energy based on position or condition, and energy can transform between these forms while total mechanical energy is conserved.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=lnbfPlpAKx0",
    quiz:[
      {q:"Kinetic energy is best described as ___.", options:["Stored energy based on an object’s position","A concept unrelated to physics","Energy that only exists in stationary objects","The energy of motion"], answer:3},
      {q:"Potential energy is best described as ___.", options:["The energy of motion only","Energy that can never be transformed into another form","Stored energy based on an object’s position or condition","A concept unrelated to energy"], answer:2},
@@ -2260,6 +2263,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Geography of Tourism and Its Economic Impact", summary:"Grade 9 Social Studies (Geography) strand: tourism geography examines how natural and cultural attractions draw visitors to a region, and the resulting economic impact can bring both benefits, like jobs, and challenges, like environmental strain.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=g4ls5GCwmK4",
    quiz:[
      {q:"Tourism geography examines how natural and cultural attractions ___.", options:["A concept unrelated to geography","Always discourage visitors from a region","Draw visitors to a specific region","Have no connection to a region’s economy"], answer:2},
      {q:"Which of these is a potential economic benefit of tourism for a region?", options:["The complete elimination of a region’s economy","Job creation in hospitality and related industries","A guaranteed decrease in local employment","A concept unrelated to tourism’s economic impact"], answer:1},
