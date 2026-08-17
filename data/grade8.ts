@@ -2233,6 +2233,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Connotation vs Denotation", summary:"Grade 8 Language strand: denotation is a word’s literal dictionary definition, while connotation is the emotional or cultural association attached to a word, which can be positive, negative, or neutral.",
    resourceLabel:"TVO Learn: Grade 8 Language", resourceUrl:"https://tvolearn.com/pages/grade-8-language",
+   videoUrl:"https://www.youtube.com/watch?v=zoiaCMCqsds",
    quiz:[
      {q:"Denotation refers to ___.", options:["A word’s literal dictionary definition","A word with no meaning at all","A word’s emotional association","A concept unrelated to word meaning"], answer:0},
      {q:"Connotation refers to ___.", options:["A word’s literal dictionary definition only","The emotional or cultural association attached to a word","A concept unrelated to connotation","A word that has no possible associations"], answer:1},
@@ -2242,6 +2243,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Direct and Partial Variation", summary:"Grade 8 Math strand: in direct variation, y = kx and the graph passes through the origin, while in partial variation, y = kx + b and the graph has a y-intercept other than zero.",
    resourceLabel:"TVO Learn: Grade 8 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-8-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=P4vj0CGGeM0",
    quiz:[
      {q:"In direct variation, the relationship between x and y follows the form ___.", options:["A form unrelated to direct variation","y = kx","y = k, a constant with no variable","y = kx + b, where b is not zero"], answer:1},
      {q:"The graph of a direct variation relationship always passes through ___.", options:["A point unrelated to direct variation","The origin (0, 0)","The point (1, 1) only","A point that is never on the y-axis"], answer:1},
@@ -2251,6 +2253,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Circuits: Series and Parallel", summary:"Grade 8 Science strand: in a series circuit, components are connected along a single path so current has only one route, while in a parallel circuit, components are connected along multiple paths, allowing current to flow through more than one route.",
    resourceLabel:"TVO Learn: Grade 8 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-8-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=1SW4l1GC0tE",
    quiz:[
      {q:"In a series circuit, components are connected ___.", options:["Along multiple separate paths at once","With no connection to one another at all","A concept unrelated to series circuits","Along a single path, so current has only one route"], answer:3},
      {q:"In a parallel circuit, components are connected ___.", options:["With no complete path for current at all","Along multiple paths, allowing current to flow through more than one route","Along a single path only","A concept unrelated to parallel circuits"], answer:1},
@@ -2260,6 +2263,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Komagata Maru Incident", summary:"Grade 8 History strand: the Komagata Maru incident of 1914 involved a ship of South Asian passengers who were denied entry to Canada under discriminatory immigration laws and forced to return overseas, resulting in tragedy.",
    resourceLabel:"TVO Learn: Grade 8 History", resourceUrl:"https://tvolearn.com/pages/grade-8-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=eZyvg_87e6o",
    quiz:[
      {q:"The Komagata Maru was a ship carrying passengers primarily from ___.", options:["South Asia","A region unrelated to the Komagata Maru incident","Western Europe","The Caribbean"], answer:0},
      {q:"The passengers of the Komagata Maru were ___ entry into Canada.", options:["Offered citizenship without any restrictions","Immediately and fully granted","Largely denied","A response unrelated to the Komagata Maru incident"], answer:2},
