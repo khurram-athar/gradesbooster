@@ -2235,6 +2235,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"English", title:"Media Literacy: Analyzing Deepfakes and Synthetic Media", summary:"Grade 12 English strand: deepfakes and other forms of synthetic media use artificial intelligence to create convincingly fabricated images, audio, or video, raising urgent questions about trust, authenticity, and critical media evaluation.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=q5_PrTvNypY",
    quiz:[
      {q:"Deepfakes and synthetic media use artificial intelligence to create convincingly fabricated ___.", options:["Images, audio, or video","A concept unrelated to media technology","Content that is always clearly and obviously fake to any viewer","Only printed text, with no visual or audio component"], answer:0},
      {q:"The rise of synthetic media raises urgent questions about trust and ___.", options:["Printing costs exclusively, with no connection to content itself","File size, with no connection to the truthfulness of content","A concept entirely unrelated to how media is evaluated","Authenticity"], answer:3},
@@ -2244,6 +2245,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Rational Root Theorem and Polynomial Root-Finding", summary:"Grade 12 Advanced Functions strand: the Rational Root Theorem lists the possible rational roots of a polynomial with integer coefficients, narrowing the search when factoring or solving higher-degree polynomial equations.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=DFnQcqjNJ5M",
    quiz:[
      {q:"The Rational Root Theorem lists the possible ___ of a polynomial with integer coefficients.", options:["A concept unrelated to polynomial equations","Complex, non-real roots exclusively","Rational roots","Irrational roots exclusively, with no connection to rational values"], answer:2},
      {q:"The Rational Root Theorem is especially useful for narrowing the search when factoring or solving ___ polynomial equations.", options:["Higher-degree","A concept unrelated to solving polynomial equations","Only first-degree, linear equations","Equations with no variable terms whatsoever"], answer:0},
@@ -2253,6 +2255,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Newton’s Method for Root Approximation", summary:"Grade 12 Calculus strand: Newton’s Method uses a function’s tangent lines to iteratively generate closer and closer approximations to a root, starting from an initial guess and refining it using the function’s derivative.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=-5e2cULI3H8",
    quiz:[
      {q:"Newton’s Method uses a function’s tangent lines to iteratively generate closer approximations to a ___.", options:["Root","Constant term, with no connection to solving the equation","Local maximum exclusively, with no connection to roots","A concept unrelated to approximating a function’s behaviour"], answer:0},
      {q:"Newton’s Method begins with an initial guess and refines it using the function’s ___.", options:["A concept unrelated to Newton’s Method","Constant term only, with no derivative involved","Derivative","Second antiderivative exclusively"], answer:2},
@@ -2262,6 +2265,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Neutron Stars and Stellar Remnants", summary:"Grade 12 Physics strand: a neutron star is an extremely dense stellar remnant formed when a massive star’s core collapses after a supernova, packing roughly the mass of the Sun into a sphere only a few kilometres across.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=4xIQGbYur9Q",
    quiz:[
      {q:"A neutron star is an extremely dense stellar remnant formed when a massive star’s core collapses after a ___.", options:["Supernova","A minor, gradual cooling process with no dramatic collapse","A concept unrelated to the life cycle of a star","A completely stable, unchanging period with no collapse involved"], answer:0},
      {q:"A neutron star packs roughly the mass of the Sun into a sphere only a few ___ across.", options:["Millimetres, an enormously smaller distance","Light-years, an enormously larger distance","A unit entirely unrelated to describing a neutron star’s size","Kilometres"], answer:3},
