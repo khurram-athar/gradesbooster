@@ -2232,6 +2232,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"English", title:"Reading: Analyzing Frame Narratives and Metafiction", summary:"Grade 11 English strand: a frame narrative encloses one story within another, while metafiction draws attention to its own status as a constructed work of fiction, and both techniques invite readers to think critically about how stories are told.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=dWFEKZGwicY",
    quiz:[
      {q:"A frame narrative encloses ___.", options:["A concept unrelated to narrative structure","A single story with no additional layers","Only factual, non-fictional accounts","One story within another"], answer:3},
      {q:"Metafiction is best described as fiction that ___.", options:["A concept unrelated to metafiction","Draws attention to its own status as a constructed work of fiction","Always presents itself as a completely factual account","Never acknowledges that it is a work of fiction"], answer:1},
@@ -2241,6 +2242,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Functions: Composite and Inverse Trigonometric Relationships", summary:"Grade 11 Functions strand: a composite function combines two functions so the output of one becomes the input of the other, and this idea extends to trigonometric functions and their inverses, such as evaluating sine of inverse cosine of x.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=NnqhDbZlqNI",
    quiz:[
      {q:"A composite function combines two functions so that ___.", options:["The output of one function becomes the input of the other","Both functions are added together with no other connection","Neither function has any effect on the other","A concept unrelated to composite functions"], answer:0},
      {q:"The inverse trigonometric function, inverse cosine of x, returns ___.", options:["The cosine of the angle x","The reciprocal of x with no connection to angles","A value unrelated to inverse trigonometric functions","The angle whose cosine is x"], answer:3},
@@ -2250,6 +2252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Sensory Systems — Vision and the Eye", summary:"Grade 11 Biology strand: the eye converts light into neural signals through a series of structures, including the cornea, lens, and retina, which then travel along the optic nerve to be interpreted by the brain.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=o0DYP-u1rNM",
    quiz:[
      {q:"The primary function of the eye is to convert ___ into neural signals.", options:["Chemical signals exclusively, with no connection to light","A concept unrelated to the eye’s function","Light","Sound waves, with no connection to vision"], answer:2},
      {q:"Which structure of the eye is primarily responsible for detecting light and converting it into neural signals?", options:["The eyelid","The eyebrow","A structure entirely unrelated to vision","The retina"], answer:3},
@@ -2259,6 +2262,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Crystal Structures and Lattice Types", summary:"Grade 11 Chemistry strand: solids can be classified by their crystal lattice type — ionic, molecular, covalent network, or metallic — and each type’s characteristic bonding gives rise to distinct physical properties like melting point and hardness.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=HCWwRh5CXYU",
    quiz:[
      {q:"A crystal lattice is best described as ___.", options:["A structure found only in liquids","A completely random, disordered arrangement of particles","An orderly, repeating arrangement of particles in a solid","A concept unrelated to solids"], answer:2},
      {q:"Which of these is an example of a covalent network lattice?", options:["Table salt","A structure entirely unrelated to crystal lattices","Diamond","A pure metal such as copper"], answer:2},
