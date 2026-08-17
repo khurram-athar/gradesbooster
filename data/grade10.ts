@@ -2194,6 +2194,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"English", title:"Grammar: Rhetorical Devices in Argumentative Writing", summary:"Grade 10 English strand: rhetorical devices, such as rhetorical questions, repetition, and the rule of three, are language techniques writers use to strengthen persuasion and emphasize key points in argumentative writing.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=CC_7h6jHIzQ",
    quiz:[
      {q:"Rhetorical devices are language techniques used to ___.", options:["A concept unrelated to argumentative writing","Weaken an argument’s overall persuasiveness","Strengthen persuasion and emphasize key points","Remove all emotional appeal from a piece of writing"], answer:2},
      {q:"A rhetorical question is a question that ___.", options:["A concept unrelated to rhetorical devices","Has no persuasive purpose whatsoever","Is asked for effect rather than to receive a direct answer","Always requires a direct, factual answer from the reader"], answer:2},
@@ -2203,6 +2204,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Vectors in Three Dimensions", summary:"Grade 10 Geometry strand (extension): a vector in three dimensions extends the two-dimensional concept by adding a third component, allowing magnitude and direction to be described in space rather than on a flat plane.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=6-on6Ra0Elg",
    quiz:[
      {q:"A vector in three dimensions extends the two-dimensional concept by adding ___.", options:["An entirely new type of number system","A third component","A fourth and fifth component simultaneously","A concept unrelated to vectors"], answer:1},
      {q:"A three-dimensional vector can be described using components along the ___.", options:["Only two axes, identical to a 2D vector","x, y, and z axes","x-axis only, with no other components","A description unrelated to spatial direction"], answer:1},
@@ -2212,6 +2214,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Physics: Projectile Motion in Two Dimensions", summary:"Grade 10 Physics strand: projectile motion describes the curved path of an object launched into the air, combining constant horizontal velocity with the effect of vertical acceleration due to gravity.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=yYjnl_fj6IA",
    quiz:[
      {q:"Projectile motion combines constant horizontal velocity with ___.", options:["No vertical motion at all","A concept unrelated to motion in the air","Vertical acceleration due to gravity","A second, separate horizontal acceleration"], answer:2},
      {q:"The horizontal velocity of a projectile, ignoring air resistance, generally remains ___.", options:["Constant throughout its flight","A value unrelated to projectile motion","Zero throughout its entire flight","Constantly increasing throughout its flight"], answer:0},

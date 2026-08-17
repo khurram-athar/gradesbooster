@@ -2194,6 +2194,7 @@ const curriculum: DayContent[] = [
 {day:53, label:"Day 53 — Wed", subjects:[
   {subject:"English", title:"Grammar: Nominalization and Academic Register", summary:"Grade 11 English strand: nominalization turns a verb or adjective into a noun (such as turning “decide” into “decision”), a technique that can create a more formal academic register but may also make writing feel dense or impersonal if overused.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=32e3QlxHq7k",
    quiz:[
      {q:"Nominalization is the process of turning a verb or adjective into a ___.", options:["Noun","A concept unrelated to grammar","Conjunction","Adverb, with no connection to nouns"], answer:0},
      {q:"Which of these is an example of nominalization?", options:["An example unrelated to nominalization","Turning “decide” into “decision”","Turning “quickly” into “quick”","Turning “decision” into “decide”"], answer:1},
@@ -2203,6 +2204,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Trigonometry: Applications of the Sine and Cosine Laws in 3D", summary:"Grade 11 Functions strand: the sine law and cosine law allow the sides and angles of non-right triangles to be calculated, and these tools can be extended to solve three-dimensional problems by breaking a scenario into multiple connected triangles.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=nA-lGOWJ0g8",
    quiz:[
      {q:"The sine law and cosine law are used to solve triangles that ___.", options:["Do not necessarily contain a right angle","A concept unrelated to solving triangles","Have no defined angles or sides at all","Must always contain a right angle"], answer:0},
      {q:"The cosine law is especially useful for solving a triangle when ___ are known.", options:["A combination of information unrelated to solving triangles","Two sides and the angle between them","No sides or angles at all","Only a single side, with no other information"], answer:1},
@@ -2212,6 +2214,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: Circadian Rhythms and Biological Clocks", summary:"Grade 11 Biology strand: a circadian rhythm is an internal, roughly 24-hour biological cycle that regulates processes such as sleep, hormone release, and body temperature, and is influenced by an internal “biological clock” as well as external cues like light.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=UkkQRtxlEwI",
    quiz:[
      {q:"A circadian rhythm is best described as an internal biological cycle that repeats roughly every ___.", options:["24 minutes","24 hours","A time period unrelated to circadian rhythms","24 days"], answer:1},
      {q:"Which of these is an example of a process regulated by circadian rhythms?", options:["The immediate reflex of pulling a hand away from a hot surface","The sleep-wake cycle","The one-time process of puberty","A process entirely unrelated to biological cycles"], answer:1},
@@ -2221,6 +2224,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Chromatography — Principles and Applications", summary:"Grade 11 Chemistry strand: chromatography separates the components of a mixture based on how differently each component travels through a stationary phase when carried by a moving mobile phase, a technique widely used to identify and purify substances.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=iHrKsfw827c",
    quiz:[
      {q:"Chromatography separates the components of a mixture based on ___.", options:["A concept unrelated to separating mixtures","How differently each component travels through a stationary phase","The colour of the mixture alone, with no other factor considered","The temperature of the mixture exclusively"], answer:1},
      {q:"In paper chromatography, the stationary phase is best described as ___.", options:["A gas with no connection to the paper or the mixture","The paper itself, through which the mobile phase travels","A liquid that moves freely with no fixed surface at all","A concept unrelated to chromatography"], answer:1},

@@ -2206,6 +2206,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Vectors: The Scalar (Dot) Product and Projections", summary:"Grade 12 Advanced Functions strand: the dot product of two vectors produces a single scalar value related to their magnitudes and the angle between them, and it can be used to find the projection of one vector onto another.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=kmfzFAmcZDc",
    quiz:[
      {q:"The dot product of two vectors produces ___.", options:["A single scalar value","Two separate scalar values, with no single result","A completely new vector unrelated to the original two","A concept unrelated to vector operations"], answer:0},
      {q:"The dot product of two vectors is related to their magnitudes and the ___ between them.", options:["Colour, with no connection to either vector","Angle","Total combined length, with no connection to angle","A factor entirely unrelated to their geometric relationship"], answer:1},
@@ -2215,6 +2216,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Linear Approximation and Differentials", summary:"Grade 12 Calculus strand: linear approximation uses a function’s tangent line at a known point to estimate nearby values, and the differential expresses the small resulting change in output for a small change in input.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=FIbpibkywmk",
    quiz:[
      {q:"Linear approximation uses a function’s tangent line at a known point to estimate ___.", options:["Only the exact value at that single known point, with no estimation involved","A concept unrelated to tangent lines","Nearby values of the function","Values infinitely far from the known point"], answer:2},
      {q:"The differential of a function expresses the small resulting change in output for a small change in ___.", options:["Colour, with no connection to the function’s input or output","Input","The function’s name, with no connection to its numerical behaviour","A concept unrelated to differentials"], answer:1},
@@ -2224,6 +2226,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Electromagnetic Waves and the Electromagnetic Spectrum", summary:"Grade 12 Physics strand: electromagnetic waves consist of oscillating electric and magnetic fields that travel through space, and the electromagnetic spectrum organizes these waves by wavelength and frequency, from radio waves to gamma rays.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=DWiZTLtQc3w",
    quiz:[
      {q:"Electromagnetic waves consist of oscillating electric and ___ fields.", options:["Nuclear, with no connection to oscillating fields","A concept unrelated to electromagnetic waves","Gravitational, with no connection to electric fields","Magnetic"], answer:3},
      {q:"The electromagnetic spectrum organizes waves by wavelength and ___.", options:["Mass, which electromagnetic waves do not possess","Colour exclusively, with no connection to any other property","A concept unrelated to the electromagnetic spectrum","Frequency"], answer:3},

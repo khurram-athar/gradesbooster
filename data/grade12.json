@@ -12974,6 +12974,7 @@
         "summary": "Grade 12 Advanced Functions strand: the dot product of two vectors produces a single scalar value related to their magnitudes and the angle between them, and it can be used to find the projection of one vector onto another.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=kmfzFAmcZDc",
         "quiz": [
           {
             "q": "The dot product of two vectors produces ___.",
@@ -13033,6 +13034,7 @@
         "summary": "Grade 12 Calculus strand: linear approximation uses a function’s tangent line at a known point to estimate nearby values, and the differential expresses the small resulting change in output for a small change in input.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=FIbpibkywmk",
         "quiz": [
           {
             "q": "Linear approximation uses a function’s tangent line at a known point to estimate ___.",
@@ -13092,6 +13094,7 @@
         "summary": "Grade 12 Physics strand: electromagnetic waves consist of oscillating electric and magnetic fields that travel through space, and the electromagnetic spectrum organizes these waves by wavelength and frequency, from radio waves to gamma rays.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=DWiZTLtQc3w",
         "quiz": [
           {
             "q": "Electromagnetic waves consist of oscillating electric and ___ fields.",
