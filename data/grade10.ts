@@ -2232,6 +2232,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"English", title:"Literature: Exploring Absurdist Fiction", summary:"Grade 10 English strand: absurdist fiction presents illogical or nonsensical situations to explore themes about the apparent meaninglessness or unpredictability of existence, often provoking reflection through its strangeness.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=p2hmOKbcBYw",
    quiz:[
      {q:"Absurdist fiction typically presents ___.", options:["A concept unrelated to fiction","Only strictly realistic, logical events","Illogical or nonsensical situations","A setting with no unusual or unexpected elements"], answer:2},
      {q:"Absurdist fiction often explores themes related to ___.", options:["The apparent meaninglessness or unpredictability of existence","A topic unrelated to existence or meaning","Only lighthearted, comedic subject matter with no deeper meaning","Strictly logical, orderly systems with no ambiguity"], answer:0},
@@ -2241,6 +2242,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"The Binomial Theorem and Pascal’s Triangle", summary:"Grade 10 Number strand (extension): the binomial theorem provides a method for expanding expressions like (a + b) raised to a power, and Pascal’s triangle offers a visual way to determine the coefficients used in that expansion.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=s19dWIHficY",
    quiz:[
      {q:"The binomial theorem provides a method for expanding expressions like ___.", options:["Only expressions involving subtraction, with no addition","A concept unrelated to algebraic expansion","(a + b) raised to a power","A single variable with no exponent at all"], answer:2},
      {q:"Pascal’s triangle can be used to determine the ___.", options:["Coefficients used in a binomial expansion","Exact roots of any polynomial equation","A concept unrelated to binomial expansion","Only the exponents in an expression, with no connection to coefficients"], answer:0},
@@ -2250,6 +2252,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Chemistry of Polymers and Plastics", summary:"Grade 10 Chemistry strand: polymers are large molecules made of repeating smaller units called monomers, and synthetic polymers like plastics are widely used but raise important questions about environmental sustainability.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=rHxxLYzJ8Sw",
    quiz:[
      {q:"A polymer is best described as a large molecule made of ___.", options:["Only inorganic minerals with no organic connection","A concept unrelated to molecular structure","Repeating smaller units called monomers","A single, non-repeating unit with no smaller components"], answer:2},
      {q:"The smaller repeating units that make up a polymer are called ___.", options:["Monomers","A term unrelated to polymer structure","Electrons","Isotopes"], answer:0},
@@ -2259,6 +2262,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Suez Crisis and the Birth of Peacekeeping (Lester Pearson)", summary:"Grade 10 History strand: the 1956 Suez Crisis was a major international conflict during which Canadian diplomat Lester Pearson helped establish the first large-scale United Nations peacekeeping force, later earning him the Nobel Peace Prize.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=SDm4qX0UGe0",
    quiz:[
      {q:"The Suez Crisis took place in which year?", options:["1919","1970","1956","1995"], answer:2},
      {q:"Lester Pearson is closely associated with helping establish ___.", options:["An organization unrelated to international diplomacy","The first large-scale United Nations peacekeeping force","A conflict with no connection to peacekeeping","A purely domestic Canadian policy initiative"], answer:1},
