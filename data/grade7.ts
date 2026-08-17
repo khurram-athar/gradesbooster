@@ -2233,6 +2233,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Analogies and Word Relationships", summary:"Grade 7 Language strand: an analogy compares two pairs of words that share a similar relationship, such as synonym, antonym, cause-and-effect, or part-to-whole relationships.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=ZrBBylNNf6A",
    quiz:[
      {q:"An analogy compares two pairs of words that share a ___.", options:["Similar relationship","Identical spelling pattern","Completely unrelated meaning","A concept unrelated to analogies"], answer:0},
      {q:"Complete the analogy: Petal is to flower as page is to ___.", options:["Pencil","Book","A word unrelated to the analogy","Sky"], answer:1},
@@ -2242,6 +2243,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Volume and Surface Area of Spheres (Intro)", summary:"Grade 7 Math strand: the volume of a sphere is found using the formula (4/3)πr³, and its surface area is found using the formula 4πr², where r is the radius.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=EbiwNnyDUoM",
    quiz:[
      {q:"The formula for the volume of a sphere is ___.", options:["A formula unrelated to the volume of a sphere","(4/3)πr³","2πr","πr²"], answer:1},
      {q:"The formula for the surface area of a sphere is ___.", options:["(4/3)πr³","4πr²","A formula unrelated to the surface area of a sphere","πr²"], answer:1},
@@ -2251,6 +2253,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Structures: Load, Stress, and Material Strength", summary:"Grade 7 Science strand: a structure must withstand different types of load and stress, and engineers select materials based on their strength, flexibility, and ability to resist these forces.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=PsHmXEsk47k",
    quiz:[
      {q:"Load refers to ___.", options:["The colour of a structure’s materials","The height of a structure alone","A concept unrelated to structures","The weight or force a structure must support"], answer:3},
      {q:"Stress in a structure refers to ___.", options:["A structure with no forces acting on it at all","The internal force experienced by a material under load","The external appearance of a structure","A concept unrelated to structures"], answer:1},
@@ -2260,6 +2263,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Decolonization in Africa: An Overview", summary:"Grade 7 Social Studies strand: decolonization in Africa refers to the process, largely occurring in the mid-20th century, by which African nations gained independence from European colonial powers.",
    resourceLabel:"TVO Learn: Grade 7 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-7-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=T_sGTspaF4Y",
    quiz:[
      {q:"Decolonization in Africa refers to the process by which ___.", options:["African nations gained independence from European colonial powers","A concept unrelated to decolonization","European powers expanded their control over African nations","African nations became colonies for the first time"], answer:0},
      {q:"Decolonization in Africa largely occurred during ___.", options:["Ancient times, thousands of years ago","The 1500s","The mid-20th century","A time period unrelated to decolonization in Africa"], answer:2},
