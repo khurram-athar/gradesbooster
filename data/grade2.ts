@@ -2718,6 +2718,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Using Context Clues to Find Word Meaning", summary:"Students learn to use context clues, the words and sentences around an unfamiliar word, to figure out what that word probably means.",
    resourceLabel:"YouTube: Using Context Clues to Find Word Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Using%20Context%20Clues%20to%20Find%20Word%20Meaning%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=CiNggzdWkIo",
    quiz:[
      {q:"What do we call the words and sentences around an unfamiliar word that help us understand its meaning?", options:["Context clues","Silent letters","Compound words","Rhyming words"], answer:0},
      {q:"If a sentence says, the enormous elephant was huge and heavy, what does enormous most likely mean?", options:["Very small","Very quiet","Very fast","Very big"], answer:3},
@@ -2732,6 +2733,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Using a Number Line to Add and Subtract", summary:"Students learn to use a number line as a tool to add by jumping forward and to subtract by jumping backward.",
    resourceLabel:"YouTube: Using a Number Line to Add and Subtract", resourceUrl:"https://www.youtube.com/results?search_query=Using%20a%20Number%20Line%20to%20Add%20and%20Subtract%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Pjvd7KziiVo",
    quiz:[
      {q:"On a number line, which direction do you jump to add numbers?", options:["Backward","Forward","You do not move","Sideways"], answer:1},
      {q:"On a number line, which direction do you jump to subtract numbers?", options:["Backward","Forward","Upward","Downward"], answer:0},
@@ -2746,6 +2748,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Phases of the Moon", summary:"Students learn that the moon appears to change shape in the sky over about a month, moving through phases such as new moon, crescent, half moon, and full moon.",
    resourceLabel:"YouTube: The Phases of the Moon", resourceUrl:"https://www.youtube.com/results?search_query=The%20Phases%20of%20the%20Moon%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ie2WRraxdPs",
    quiz:[
      {q:"What do we call the changing shapes of the moon that we see in the sky?", options:["Seasons","Phases of the moon","Constellations","Eclipses"], answer:1},
      {q:"Which phase of the moon looks like a complete bright circle?", options:["New moon","Crescent moon","Full moon","Half moon"], answer:2},
@@ -2760,6 +2763,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Types of Homes Around the World", summary:"Students learn that people around the world live in many different types of homes, such as apartments, houses, igloos, and huts, often built to suit the climate and resources of their region.",
    resourceLabel:"YouTube: Types of Homes Around the World", resourceUrl:"https://www.youtube.com/results?search_query=Types%20of%20Homes%20Around%20the%20World%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ngBP_3EowHU",
    quiz:[
      {q:"Which of these is a type of home people might live in?", options:["An apartment","A mountain","A cloud","A river"], answer:0},
      {q:"Why might homes look different in different parts of the world?", options:["Different climates and available resources","All homes are exactly the same everywhere","Weather does not affect homes","Homes never change"], answer:0},

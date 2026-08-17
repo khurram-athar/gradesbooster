@@ -2714,6 +2714,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Vowel Teams: ee and ea", summary:"Students learn that the letters ee and ea can work together as a vowel team to make the long e sound, as in tree and leaf.",
    resourceLabel:"YouTube: Vowel Teams: ee and ea", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20ee%20and%20ea%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Cwpbr-uNCQ4",
    quiz:[
      {q:"Which letters make the long e sound in the word tree?", options:["oa","ea","ai","ee"], answer:3},
      {q:"Which letters make the long e sound in the word leaf?", options:["ay","ea","oo","ee"], answer:1},
@@ -2728,6 +2729,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Adding and Subtracting Tens", summary:"Students learn to add and subtract multiples of ten, such as 30 add 20, by thinking about groups of ten instead of counting one at a time.",
    resourceLabel:"YouTube: Adding and Subtracting Tens", resourceUrl:"https://www.youtube.com/results?search_query=Adding%20and%20Subtracting%20Tens%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=SPo20G_zJd0",
    quiz:[
      {q:"What is 20 add 30?", options:["40","70","50","60"], answer:2},
      {q:"What is 70 minus 30?", options:["60","40","30","50"], answer:1},
@@ -2742,6 +2744,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Water Cycle", summary:"Students learn about the water cycle, the way water moves from Earth into the sky as it evaporates, forms clouds, and falls back down again as rain or snow.",
    resourceLabel:"YouTube: The Water Cycle", resourceUrl:"https://www.youtube.com/results?search_query=The%20Water%20Cycle%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=hlgfZcGfJ9o",
    quiz:[
      {q:"What do we call water turning into vapour and rising into the air?", options:["Evaporation","Sinking","Freezing","Camouflage"], answer:0},
      {q:"What forms in the sky when water vapour cools and gathers together?", options:["Sand","Rocks","Clouds","Soil"], answer:2},
@@ -2756,6 +2759,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"How Mail Gets Delivered: Post Office Helpers", summary:"Students learn that letters and packages travel through a post office and are delivered by mail carriers, who sort and bring mail to homes and businesses.",
    resourceLabel:"YouTube: How Mail Gets Delivered: Post Office Helpers", resourceUrl:"https://www.youtube.com/results?search_query=How%20Mail%20Gets%20Delivered%3A%20Post%20Office%20Helpers%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=k-FrsHPyDK8",
    quiz:[
      {q:"What do we call a person whose job is to deliver mail?", options:["A dentist","A pilot","A mail carrier","A farmer"], answer:2},
      {q:"What building sorts letters and packages before they are delivered?", options:["A post office","A library","A school","A hospital"], answer:0},

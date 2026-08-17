@@ -2231,6 +2231,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Building Word Families", summary:"Grade 3 Language strand: a word family is a group of words that share a common base word or root, such as “play,” “player,” and “playful,” which can help build vocabulary and spelling skills.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=hzHUjXN4EfU",
    quiz:[
      {q:"A word family is a group of words that share a common ___.", options:["Colour, with no connection to spelling or meaning","Font, with no connection to word meaning","Base word or root","Number of letters exclusively, with no other connection"], answer:2},
      {q:"Which is an example of a word family based on the word “play”?", options:["Cat, dog, bird","A random group of unrelated words","Words with no connection to “play”","Player, playful, playground"], answer:3},
@@ -2240,6 +2241,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Interpreting Double Bar Graphs", summary:"Grade 3 Math strand: a double bar graph compares two related sets of data side by side using pairs of bars, making it easier to see differences and similarities between the two groups.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=ca_agvaQVBU",
    quiz:[
      {q:"A double bar graph compares two related sets of data using ___.", options:["Pairs of bars","A concept unrelated to comparing data","A single line with no bars at all","Only one bar per category, with no comparison possible"], answer:0},
      {q:"Why might a double bar graph be more useful than two separate single bar graphs for comparing data?", options:["This concept has no connection to interpreting data","Double bar graphs provide no advantage for comparing related data","A double bar graph is always harder to read than two separate graphs","It allows for an easier, more direct comparison since related bars are shown side by side"], answer:3},
@@ -2249,6 +2251,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Properties of Air", summary:"Grade 3 Science strand: air is a form of matter that takes up space and has mass, even though it cannot usually be seen, and it plays an important role in supporting life and various natural processes.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=R3hi5H9tfSc",
    quiz:[
      {q:"Air is a form of matter that takes up space and has ___.", options:["A concept unrelated to matter","Only colour, with no other physical properties","Mass","No physical properties whatsoever"], answer:2},
      {q:"Although air usually cannot be seen, it can still be described as a form of ___.", options:["Light, with no connection to physical matter","A concept unrelated to physical substances","Energy exclusively, with no connection to matter","Matter"], answer:3},
@@ -2258,6 +2261,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies: Trade Between Communities Today", summary:"Grade 3 Social Studies strand: communities today trade goods and services with one another because no single community can produce everything it needs, allowing everyone to benefit from what each community does well.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=OSKArnFOnZo",
    quiz:[
      {q:"Communities today trade goods and services because no single community can ___.", options:["A concept unrelated to trade","Survive using only its own limited resources, with no exceptions","Produce everything it needs","Ever benefit from working with another community"], answer:2},
      {q:"Trade between communities allows everyone to benefit from ___.", options:["Only the largest, most powerful community involved","Nothing at all, since trade provides no benefit","A concept entirely unrelated to specialization or skill","What each community does well"], answer:3},

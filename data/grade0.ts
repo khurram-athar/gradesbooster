@@ -2714,6 +2714,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Onset and Rime: Word Families", summary:"Students explore word families by changing the first sound, or onset, of a word while keeping the ending, or rime, the same, such as changing cat to hat to mat.",
    resourceLabel:"YouTube: Onset and Rime: Word Families", resourceUrl:"https://www.youtube.com/results?search_query=Onset%20and%20Rime%3A%20Word%20Families%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=VhGTmI8KO5E",
    quiz:[
      {q:"Change the first sound of cat to b. What new word do you make?", options:["Bad","Bat","Ban","Cab"], answer:1},
      {q:"Cat, hat, and mat all end in the same sound. This is called a ___.", options:["Colour","Number","Rime","Prefix"], answer:2},
@@ -2728,6 +2729,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Long and Short: Comparing Lengths of Three", summary:"Students compare three objects by length, placing them in order from shortest to longest, using words such as short, shorter, and shortest.",
    resourceLabel:"YouTube: Long and Short: Comparing Lengths of Three", resourceUrl:"https://www.youtube.com/results?search_query=Long%20and%20Short%3A%20Comparing%20Lengths%20of%20Three%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KvmzCbjopkE",
    quiz:[
      {q:"Between a paperclip and a ruler, which is usually longer?", options:["Cannot tell","They are the same","Ruler","Paperclip"], answer:2},
      {q:"If you order a short pencil, a medium crayon, and a long ruler from shortest to longest, what comes first?", options:["None","Pencil","Crayon","Ruler"], answer:1},
@@ -2742,6 +2744,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Taking Care of Our Skin: Sun Safety", summary:"Students learn simple ways to protect their skin from the sun, such as wearing sunscreen, a hat, and sunglasses, and seeking shade on hot sunny days.",
    resourceLabel:"YouTube: Taking Care of Our Skin: Sun Safety", resourceUrl:"https://www.youtube.com/results?search_query=Taking%20Care%20of%20Our%20Skin%3A%20Sun%20Safety%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=2vDFPje3W8I",
    quiz:[
      {q:"What can protect your skin from the sun?", options:["Sunscreen","Paint","Mud","Ice"], answer:0},
      {q:"What can you wear on your head to block the sun?", options:["A scarf only","Boots","A hat","Mittens"], answer:2},
@@ -2756,6 +2759,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Public Places: Behaving in the Library", summary:"Students learn about behaviour expectations in shared public places such as a library, including using quiet voices and taking care of shared books.",
    resourceLabel:"YouTube: Public Places: Behaving in the Library", resourceUrl:"https://www.youtube.com/results?search_query=Public%20Places%3A%20Behaving%20in%20the%20Library%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=KyNbFrLoBSo",
    quiz:[
      {q:"What kind of voice should you use in the library?", options:["Loud voice","Shouting voice","Quiet voice","No voice needed"], answer:2},
      {q:"Why should we take good care of library books?", options:["Books do not matter","Library books are not shared","Only new books need care","So other people can enjoy them too"], answer:3},
