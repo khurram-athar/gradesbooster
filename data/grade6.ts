@@ -2233,6 +2233,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Connotation and Denotation", summary:"Grade 6 Language strand: denotation is a word’s literal dictionary meaning, while connotation is the emotional or cultural association a word carries beyond its literal definition.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=oChL3QkXIF4",
    quiz:[
      {q:"Denotation refers to ___.", options:["The emotional feeling a word creates","The number of syllables in a word","A concept unrelated to vocabulary","A word’s literal dictionary meaning"], answer:3},
      {q:"Connotation refers to ___.", options:["A word’s exact literal dictionary meaning only","A concept unrelated to vocabulary","The spelling pattern of a word","The emotional or cultural association a word carries"], answer:3},
@@ -2242,6 +2243,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Scale Drawings and Similar Figures", summary:"Grade 6 Math strand: similar figures have the same shape but different sizes, and a scale drawing uses a consistent ratio to represent a real object at a different size.",
    resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=k-dLbrEyPh4",
    quiz:[
      {q:"Similar figures have ___.", options:["No relationship to one another at all","The same size but different shapes","The same shape but different sizes","A concept unrelated to similar figures"], answer:2},
      {q:"In similar figures, corresponding side lengths are ___.", options:["Never related in any way","Always exactly equal","Proportional to one another","A relationship unrelated to similar figures"], answer:2},
@@ -2251,6 +2253,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Skeletal and Muscular Systems", summary:"Grade 6 Science strand: the skeletal system provides structure and protection for the body, while the muscular system works with it to allow movement.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=XtHucs6VDYU",
    quiz:[
      {q:"The skeletal system’s main functions include ___.", options:["Pumping blood throughout the body","A function unrelated to the skeletal system","Digesting food for energy","Providing structure and protecting internal organs"], answer:3},
      {q:"The muscular system works with the skeletal system to ___.", options:["A function unrelated to the muscular system","Allow movement of the body","Produce hormones for the body","Filter waste from the blood"], answer:1},
@@ -2260,6 +2263,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Women’s Suffrage Movements Around the World", summary:"Grade 6 Social Studies strand: women’s suffrage movements were organized efforts, occurring in many countries during the 19th and 20th centuries, to win women the right to vote.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=tzvjHunEmt0",
    quiz:[
      {q:"Women’s suffrage movements worked to secure ___.", options:["The right for women to vote","The right for men to vote for the first time","A ban on all future elections","A concept unrelated to suffrage movements"], answer:0},
      {q:"Suffrage movements were active in ___.", options:["Only a single country, with no movement elsewhere","Only during ancient times, thousands of years ago","Many countries during the 19th and 20th centuries","A time period unrelated to suffrage movements"], answer:2},

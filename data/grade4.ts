@@ -2231,6 +2231,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Writing: Compare and Contrast Paragraphs", summary:"Grade 4 Language strand: a compare and contrast paragraph explains how two subjects are similar and how they are different, often using words like “however” and “similarly.”",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=dcJcTqT8A9U",
    quiz:[
      {q:"A compare and contrast paragraph explains how two subjects are ___.", options:["Only different, never similar","A concept unrelated to writing","Similar and different","Only similar, never different"], answer:2},
      {q:"Which word signals a comparison (similarity) between two ideas?", options:["However","Although","Similarly","A word unrelated to comparison"], answer:2},
@@ -2240,6 +2241,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Volume of Rectangular Prisms", summary:"Grade 4 Math strand: the volume of a rectangular prism is found by multiplying its length, width, and height, and is measured in cubic units.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=By7sVb2IhFs",
    quiz:[
      {q:"The volume of a rectangular prism is found by multiplying ___.", options:["Only the height of the shape","A formula unrelated to volume","Length × width × height","Only length × width"], answer:2},
      {q:"What is the volume of a rectangular prism with length 4, width 3, and height 2?", options:["14 cubic units","A value unrelated to the calculation","9 cubic units","24 cubic units"], answer:3},
@@ -2249,6 +2251,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Simple Circuits: Series vs Parallel", summary:"Grade 4 Science strand: in a series circuit, components are connected in a single loop, while in a parallel circuit, components are connected along multiple paths.",
    resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=3xKK8jSqKNo",
    quiz:[
      {q:"In a series circuit, components are connected ___.", options:["With no connection between them at all","A concept unrelated to circuits","Along a single loop, one after another","Along multiple separate paths"], answer:2},
      {q:"In a parallel circuit, components are connected ___.", options:["Along multiple separate paths","Along a single loop only","With no connection between them at all","A concept unrelated to circuits"], answer:0},
@@ -2258,6 +2261,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Indigenous Governance and Traditional Knowledge", summary:"Grade 4 Social Studies strand: many Indigenous peoples in Canada have long-standing governance systems and traditional knowledge that guide decision-making and care for the land.",
    resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=WDbjZm3RD3E",
    quiz:[
      {q:"Traditional knowledge refers to ___.", options:["Wisdom and practices passed down through generations within a community","Knowledge that has no connection to any community","Information found only in modern textbooks","A concept unrelated to Indigenous peoples"], answer:0},
      {q:"Indigenous governance systems often emphasize ___.", options:["Community decision-making and care for the land","Ignoring the needs of the land and environment","Decisions made entirely without community input","A concept unrelated to governance"], answer:0},

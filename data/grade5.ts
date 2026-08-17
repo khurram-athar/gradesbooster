@@ -2233,6 +2233,7 @@ const curriculum: DayContent[] = [
 {day:54, label:"Day 54 — Thu", subjects:[
   {subject:"Language", title:"Vocabulary: Analogies", summary:"Grade 5 Language strand: an analogy compares two pairs of words that share a similar relationship, such as “hot is to cold as up is to down.”",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=XWCCy5j7xeE",
    quiz:[
      {q:"An analogy compares ___.", options:["Two completely unrelated words with no connection","Only the spelling of two words","A concept unrelated to vocabulary","Two pairs of words that share a similar relationship"], answer:3},
      {q:"Complete the analogy: Bird is to nest as bee is to ___.", options:["A word unrelated to the analogy","Sky","Wing","Hive"], answer:3},
@@ -2242,6 +2243,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Probability: Theoretical vs. Experimental", summary:"Grade 5 Math strand: theoretical probability predicts an outcome based on possible results, while experimental probability is based on the actual results of repeated trials.",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Ay5pnC-0bVI",
    quiz:[
      {q:"Theoretical probability is based on ___.", options:["A random guess with no calculation involved","Only the results of trials that have already happened","A concept unrelated to probability","What is possible, calculated before any trials happen"], answer:3},
      {q:"Experimental probability is based on ___.", options:["The actual results of repeated trials","A concept unrelated to probability","A number with no connection to any trials","What is possible before any trials happen"], answer:0},
@@ -2251,6 +2253,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Climate vs. Weather", summary:"Grade 5 Science strand: weather describes short-term atmospheric conditions like today’s temperature or rain, while climate describes the average weather patterns of a region over a long period of time.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=YafaFLbO3nE",
    quiz:[
      {q:"Weather describes ___.", options:["A concept found only in science fiction","The average conditions of a region over many years","Short-term atmospheric conditions, such as today’s temperature","A concept unrelated to weather"], answer:2},
      {q:"Climate describes ___.", options:["The average weather patterns of a region over a long period of time","A single day’s temperature and rainfall","Only the weather happening right now","A concept unrelated to climate"], answer:0},
@@ -2258,14 +2261,15 @@ const curriculum: DayContent[] = [
      {q:"Which statement is an example of describing climate?", options:["This region typically has hot, dry summers.","It is sunny outside right now.","The temperature today is 22 degrees.","A statement unrelated to weather or climate"], answer:0},
      {q:"Why is it important to understand the difference between weather and climate?", options:["A reason unrelated to science","This distinction has no practical use","Weather and climate are always exactly the same thing","It helps people make sense of both short-term forecasts and long-term environmental patterns"], answer:3}
    ]},
-  {subject:"SocialStudies", title:"Canada’s Supreme Court and Landmark Cases", summary:"Grade 5 Social Studies strand: the Supreme Court of Canada is the highest court in the country, and its landmark cases have shaped Canadian law and rights over time.",
+  {subject:"SocialStudies", title:"The Persons Case: Are Women “Persons” Under Canadian Law?", summary:"Grade 5 Social Studies strand: in 1929, five Canadian women known as the Famous Five fought a legal battle, known as the Persons Case, to have women legally recognized as “persons” eligible to serve in the Senate.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=if_pyx5dm9Y",
    quiz:[
-     {q:"The Supreme Court of Canada is ___.", options:["The highest court in the country","A concept unrelated to Canadian government","A court found only at the municipal level","A court that only handles local disputes"], answer:0},
-     {q:"A landmark case is one that ___.", options:["A concept unrelated to the legal system","Has no lasting effect on Canadian law","Sets an important precedent that shapes future law","Is always immediately forgotten after the ruling"], answer:2},
-     {q:"Why is the Supreme Court considered the highest court in Canada?", options:["Its decisions are final and cannot be appealed to a higher court","Its decisions can always be overturned by any other court","It only handles cases involving traffic violations","A reason unrelated to Canada’s court system"], answer:0},
-     {q:"How can a Supreme Court ruling affect all of Canada?", options:["Supreme Court rulings only apply to a single province","It can set a legal precedent that applies across the whole country","A reason unrelated to how courts function","Rulings from the Supreme Court have no effect on Canadian law"], answer:1},
-     {q:"Why is it useful for students to learn about landmark court cases?", options:["It helps them understand how laws and rights have developed over time","Court cases have no connection to how rights are protected","A reason unrelated to social studies learning","Landmark cases provide no useful information about Canadian history"], answer:0}
+     {q:"The Persons Case was a legal battle over whether women could be legally considered ___.", options:["Citizens for the first time","A concept unrelated to the case","Business owners","\"Persons\" eligible to serve in the Senate"], answer:3},
+     {q:"The group of five Canadian women who launched the Persons Case is known as ___.", options:["A group unrelated to the case","The Famous Five","The Senate Five","The Founding Five"], answer:1},
+     {q:"In what year was the Persons Case decided in favour of women?", options:["1929","1867","1982","1960"], answer:0},
+     {q:"Before the Persons Case, women in Canada were legally excluded from ___.", options:["Serving in the Senate","Attending school","A right unrelated to the case","Owning any property"], answer:0},
+     {q:"Why is the Persons Case still remembered as an important moment in Canadian history?", options:["It had no lasting effect on Canadian law","It marked a major step toward legal equality for women in Canada","A reason unrelated to Canadian rights history","It ended all forms of discrimination immediately"], answer:1}
    ]},
 ]},
 {day:55, label:"Day 55 — Fri", subjects:[

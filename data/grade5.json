@@ -13095,6 +13095,7 @@
         "summary": "Grade 5 Language strand: an analogy compares two pairs of words that share a similar relationship, such as “hot is to cold as up is to down.”",
         "resourceLabel": "TVO Learn: Grade 5 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-language",
+        "videoUrl": "https://www.youtube.com/watch?v=XWCCy5j7xeE",
         "quiz": [
           {
             "q": "An analogy compares ___.",
@@ -13154,6 +13155,7 @@
         "summary": "Grade 5 Math strand: theoretical probability predicts an outcome based on possible results, while experimental probability is based on the actual results of repeated trials.",
         "resourceLabel": "TVO Learn: Grade 5 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=Ay5pnC-0bVI",
         "quiz": [
           {
             "q": "Theoretical probability is based on ___.",
@@ -13213,6 +13215,7 @@
         "summary": "Grade 5 Science strand: weather describes short-term atmospheric conditions like today’s temperature or rain, while climate describes the average weather patterns of a region over a long period of time.",
         "resourceLabel": "TVO Learn: Grade 5 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=YafaFLbO3nE",
         "quiz": [
           {
             "q": "Weather describes ___.",
@@ -13268,60 +13271,61 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Canada’s Supreme Court and Landmark Cases",
-        "summary": "Grade 5 Social Studies strand: the Supreme Court of Canada is the highest court in the country, and its landmark cases have shaped Canadian law and rights over time.",
+        "title": "The Persons Case: Are Women “Persons” Under Canadian Law?",
+        "summary": "Grade 5 Social Studies strand: in 1929, five Canadian women known as the Famous Five fought a legal battle, known as the Persons Case, to have women legally recognized as “persons” eligible to serve in the Senate.",
         "resourceLabel": "TVO Learn: Grade 5 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-5-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=if_pyx5dm9Y",
         "quiz": [
           {
-            "q": "The Supreme Court of Canada is ___.",
+            "q": "The Persons Case was a legal battle over whether women could be legally considered ___.",
             "options": [
-              "The highest court in the country",
-              "A concept unrelated to Canadian government",
-              "A court found only at the municipal level",
-              "A court that only handles local disputes"
+              "Citizens for the first time",
+              "A concept unrelated to the case",
+              "Business owners",
+              "\"Persons\" eligible to serve in the Senate"
             ],
-            "answer": 0
+            "answer": 3
           },
           {
-            "q": "A landmark case is one that ___.",
+            "q": "The group of five Canadian women who launched the Persons Case is known as ___.",
             "options": [
-              "A concept unrelated to the legal system",
-              "Has no lasting effect on Canadian law",
-              "Sets an important precedent that shapes future law",
-              "Is always immediately forgotten after the ruling"
-            ],
-            "answer": 2
-          },
-          {
-            "q": "Why is the Supreme Court considered the highest court in Canada?",
-            "options": [
-              "Its decisions are final and cannot be appealed to a higher court",
-              "Its decisions can always be overturned by any other court",
-              "It only handles cases involving traffic violations",
-              "A reason unrelated to Canada’s court system"
-            ],
-            "answer": 0
-          },
-          {
-            "q": "How can a Supreme Court ruling affect all of Canada?",
-            "options": [
-              "Supreme Court rulings only apply to a single province",
-              "It can set a legal precedent that applies across the whole country",
-              "A reason unrelated to how courts function",
-              "Rulings from the Supreme Court have no effect on Canadian law"
+              "A group unrelated to the case",
+              "The Famous Five",
+              "The Senate Five",
+              "The Founding Five"
             ],
             "answer": 1
           },
           {
-            "q": "Why is it useful for students to learn about landmark court cases?",
+            "q": "In what year was the Persons Case decided in favour of women?",
             "options": [
-              "It helps them understand how laws and rights have developed over time",
-              "Court cases have no connection to how rights are protected",
-              "A reason unrelated to social studies learning",
-              "Landmark cases provide no useful information about Canadian history"
+              "1929",
+              "1867",
+              "1982",
+              "1960"
             ],
             "answer": 0
+          },
+          {
+            "q": "Before the Persons Case, women in Canada were legally excluded from ___.",
+            "options": [
+              "Serving in the Senate",
+              "Attending school",
+              "A right unrelated to the case",
+              "Owning any property"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Persons Case still remembered as an important moment in Canadian history?",
+            "options": [
+              "It had no lasting effect on Canadian law",
+              "It marked a major step toward legal equality for women in Canada",
+              "A reason unrelated to Canadian rights history",
+              "It ended all forms of discrimination immediately"
+            ],
+            "answer": 1
           }
         ]
       }
