@@ -2275,6 +2275,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"Reading: Understanding Foreshadowing", summary:"Grade 5 Language strand: foreshadowing is a writing technique where an author hints at events that will happen later in a story.",
    resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   videoUrl:"https://www.youtube.com/watch?v=FeAnyf6GSfc",
    quiz:[
      {q:"Foreshadowing is a technique where an author ___.", options:["A concept unrelated to reading","Removes all clues about what might happen next","Reveals the entire ending at the very beginning","Hints at events that will happen later in the story"], answer:3},
      {q:"Why might an author use foreshadowing?", options:["Foreshadowing never affects how a reader experiences a story","A reason unrelated to storytelling","To confuse readers with no clear purpose","To build suspense and prepare readers for upcoming events"], answer:3},

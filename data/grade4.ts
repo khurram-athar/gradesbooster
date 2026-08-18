@@ -2273,6 +2273,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"Reading: Distinguishing Fact from Opinion", summary:"Grade 4 Language strand: a fact is a statement that can be proven true, while an opinion is a personal belief or judgment that cannot be proven.",
    resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   videoUrl:"https://www.youtube.com/watch?v=PE_TPYdCssA",
    quiz:[
      {q:"A fact is a statement that ___.", options:["Reflects only one person’s feelings","A concept unrelated to reading","Can be proven true","Can never be proven either way"], answer:2},
      {q:"An opinion is a statement that ___.", options:["Reflects a personal belief or judgment","Can always be proven true with evidence","Is the same for every single reader","A concept unrelated to reading"], answer:0},
@@ -2282,6 +2283,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Temperature and Thermometers (Celsius)", summary:"Grade 4 Math strand: temperature is measured in degrees Celsius in Canada, using a thermometer, with 0°C as the freezing point and 100°C as the boiling point of water.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=3CACG8NeuNY",
    quiz:[
      {q:"In Celsius, water freezes at ___.", options:["32 degrees","100 degrees","A temperature unrelated to freezing","0 degrees"], answer:3},
      {q:"In Celsius, water boils at ___.", options:["100 degrees","32 degrees","A temperature unrelated to boiling","0 degrees"], answer:0},
@@ -2291,6 +2293,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces: Balanced and Unbalanced Forces", summary:"Grade 4 Science strand: balanced forces on an object result in no change in motion, while unbalanced forces cause an object to speed up, slow down, or change direction.",
    resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=rnlHxAYwCbg",
    quiz:[
      {q:"Balanced forces on an object result in ___.", options:["The object always changing direction","The object always speeding up","A concept unrelated to forces","No change in the object’s motion"], answer:3},
      {q:"Unbalanced forces on an object can cause it to ___.", options:["Remain in exactly the same state forever","Speed up, slow down, or change direction","Disappear completely","A concept unrelated to forces"], answer:1},
@@ -2298,14 +2301,15 @@ const curriculum: DayContent[] = [
      {q:"If a soccer ball is kicked and starts rolling, what kind of force acted on it?", options:["An unbalanced force","No force at all","A balanced force","A concept unrelated to forces"], answer:0},
      {q:"Why is it useful to understand balanced and unbalanced forces?", options:["A reason unrelated to forces","It helps explain why objects stay still or change their motion","Forces never affect the motion of objects","This concept has no connection to how objects move"], answer:1}
    ]},
-  {subject:"SocialStudies", title:"Settlement Patterns: Why Communities Grow Where They Do", summary:"Grade 4 Social Studies strand: communities often form and grow near resources such as fresh water, fertile land, and transportation routes.",
-   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+  {subject:"SocialStudies", title:"Urban, Suburban, and Rural Communities", summary:"Grade 4 Social Studies strand: communities can be classified as urban, suburban, or rural based on population density, land use, and how close homes and buildings are to one another.",
+   resourceLabel:"YouTube: Urban, Suburban, and Rural Communities", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=5oFcTglYJc0",
    quiz:[
-     {q:"Communities often settle near fresh water because it provides ___.", options:["Drinking water, transportation, and support for farming","A concept unrelated to settlement","Only recreational swimming opportunities","No useful resources at all"], answer:0},
-     {q:"Fertile land is valuable to a community because it supports ___.", options:["A concept unrelated to settlement patterns","Nothing related to daily life","Farming and food production","Only mining activities"], answer:2},
-     {q:"Why might a community grow near a major transportation route, such as a river or railway?", options:["Transportation routes have no effect on where communities grow","Communities never consider transportation when settling","It makes trade and travel to other places easier","A reason unrelated to settlement patterns"], answer:2},
-     {q:"Which of these would most likely attract early settlers to an area?", options:["Access to fresh water and fertile land","The colour of the soil alone","A concept unrelated to settlement","An area with no resources of any kind"], answer:0},
-     {q:"Why do geographers study settlement patterns?", options:["Communities are located in completely random places","It helps explain why communities are located where they are","Settlement patterns provide no useful information","A reason unrelated to geography"], answer:1}
+     {q:"An urban community is best described as ___.", options:["A city area with a high population density and many buildings close together","A concept unrelated to community types","An area with no people living in it at all","A community found only on farms"], answer:0},
+     {q:"A rural community typically has ___.", options:["The highest population density of any community type","A term unrelated to community types","Lower population density, with more farmland and open space","Only skyscrapers and no open land"], answer:2},
+     {q:"A suburban community is best described as ___.", options:["A concept unrelated to community types","A residential area located on the edge of a city, with a density between urban and rural","Always identical to a rural farming community","The busiest, most crowded part of a city"], answer:1},
+     {q:"Why might a family choose to live in a suburban community instead of an urban one?", options:["Suburbs never offer any benefits over cities","This choice has no connection to lifestyle or space","They might want more space and a quieter setting while staying close to a city","Suburbs and cities are always exactly the same"], answer:2},
+     {q:"Why is it useful to classify communities as urban, suburban, or rural?", options:["It helps describe how people live, work, and use land in different types of places","Community types have no real differences from one another","This classification has no connection to geography","Every community in Canada is exactly the same type"], answer:0}
    ]},
 ]},
 {day:56, label:"Day 56 — Mon", subjects:[
