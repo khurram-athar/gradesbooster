@@ -2273,6 +2273,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"Reading: Story Elements -- Setting and Plot", summary:"Grade 3 Language strand: the setting of a story is the time and place where it happens, and the plot is the sequence of events that make up the story, often including a problem and its solution.",
    resourceLabel:"TVO Learn: Grade 3 Language", resourceUrl:"https://tvolearn.com/pages/grade-3-language",
+   videoUrl:"https://www.youtube.com/watch?v=urA4PNn9w9Y",
    quiz:[
      {q:"The setting of a story is the ___ where it happens.", options:["Time and place","The book’s exact page count","A concept unrelated to a story’s structure","Only the main character’s name"], answer:0},
      {q:"The plot of a story is the sequence of ___ that make up the story.", options:["Colours used in the story’s illustrations","A concept unrelated to how a story unfolds","Only the title and author’s name","Events"], answer:3},
@@ -2282,6 +2283,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Fractions: Mixed Numbers", summary:"Grade 3 Math strand: a mixed number combines a whole number and a fraction together, representing an amount that is more than a whole but not a complete additional whole.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=qk2oP6FZ6HA",
    quiz:[
      {q:"A mixed number combines a whole number and a ___.", options:["Only a decimal, with no connection to fractions","A completely different whole number, with no fractional part","A concept unrelated to numbers","Fraction"], answer:3},
      {q:"A mixed number represents an amount that is ___.", options:["A concept unrelated to whole numbers or fractions","More than a whole but not a complete additional whole","Less than one whole in every case","Always exactly equal to zero"], answer:1},
@@ -2291,6 +2293,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Living Things and Their Basic Needs", summary:"Grade 3 Science strand: all living things share certain basic needs, including food, water, air, and a suitable habitat, which they require in order to survive and grow.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=l7mXl-4TXmQ",
    quiz:[
      {q:"All living things share certain basic needs, including food, water, and ___.", options:["A concept unrelated to survival","Only sunlight, with no other needs required","Money, which is not a basic need of living things","Air"], answer:3},
      {q:"Living things require a suitable ___ in order to survive and grow.", options:["Only a single specific temperature, with no other factors mattering","Habitat","Colour, with no connection to survival","A concept unrelated to where living things live"], answer:1},

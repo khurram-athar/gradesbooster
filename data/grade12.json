@@ -12911,58 +12911,59 @@
     "subjects": [
       {
         "subject": "English",
-        "title": "Literary Analysis: Free Indirect Discourse and Narrative Distance",
-        "summary": "Grade 12 English strand: free indirect discourse blends a character’s inner thoughts and voice with the narrator’s own voice, without direct quotation, allowing a writer to shift narrative distance and intimacy within a single passage.",
-        "resourceLabel": "TVO Learn: Grade 12 English",
+        "title": "Literary Analysis: Point of View and Narrative Distance in Fiction",
+        "summary": "Grade 12 English strand: a writer's choice of point of view (first, second, third-limited, or third-omniscient) sets the narrative distance between reader and character, shaping how much access we have to a character's private thoughts and how intimate or detached a passage feels.",
+        "resourceLabel": "YouTube: Point of View and Narrative Distance in Fiction",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=acURl_KBiRI",
         "quiz": [
           {
-            "q": "Free indirect discourse blends a character’s inner thoughts and voice with ___.",
+            "q": "A writer's choice of point of view sets the ___ between reader and character.",
             "options": [
-              "A completely separate character’s dialogue, quoted directly",
-              "A concept unrelated to narrative technique",
-              "A footnote entirely disconnected from the main narrative",
-              "The narrator’s own voice"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "Free indirect discourse conveys a character’s thoughts without using ___.",
-            "options": [
-              "A concept unrelated to this narrative technique",
-              "Direct quotation",
-              "Any narration whatsoever",
-              "Any grammar or sentence structure at all"
+              "Book's total page count",
+              "Narrative distance",
+              "Font style used in dialogue",
+              "Publication date"
             ],
             "answer": 1
           },
           {
-            "q": "This technique allows a writer to shift ___ within a single passage.",
+            "q": "Which of these is NOT one of the standard points of view discussed in literary analysis?",
             "options": [
-              "Narrative distance and intimacy",
-              "The book’s physical formatting exclusively",
-              "The entire setting of the story, with no connection to a character’s perspective",
-              "A concept unrelated to free indirect discourse"
+              "Third-person omniscient",
+              "Second person",
+              "First person",
+              "Alphabetical person"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A close narrative distance typically gives the reader more access to ___.",
+            "options": [
+              "A character's private thoughts and feelings",
+              "The publisher's marketing plan",
+              "Unrelated background noise only",
+              "Nothing beyond dialogue tags"
             ],
             "answer": 0
           },
           {
-            "q": "Why might free indirect discourse feel more intimate to a reader than a traditional third-person narration?",
+            "q": "Why might a writer choose a third-person omniscient point of view over a first-person point of view?",
             "options": [
-              "This technique has no effect on how close a reader feels to a character",
-              "Free indirect discourse always creates more distance between the reader and a character than traditional narration",
-              "It merges the narrator’s voice with a character’s private thoughts, drawing the reader closer to that character’s perspective",
-              "This concept has no connection to how narrative intimacy is achieved"
+              "Omniscient narration is never used in serious fiction",
+              "Third-person omniscient allows the narrator to reveal the thoughts of multiple characters rather than being limited to one character's perspective",
+              "First-person narration always provides more information than omniscient narration",
+              "Point of view has no effect on what information a reader can access"
             ],
-            "answer": 2
+            "answer": 1
           },
           {
-            "q": "Why is free indirect discourse considered a sophisticated technique for Grade 12-level literary analysis?",
+            "q": "Why is understanding point of view and narrative distance important for Grade 12-level literary analysis?",
             "options": [
-              "This concept has no relevance to advanced literary study",
-              "This technique requires no careful analysis to identify or understand",
-              "Identifying it requires careful attention to subtle shifts in tone and perspective that are not explicitly marked in the text",
-              "Free indirect discourse is never considered a significant literary technique"
+              "These concepts have no relevance to how a story is interpreted",
+              "Point of view never changes how a reader interprets a character's reliability or motives",
+              "Recognizing shifts in distance and perspective helps readers evaluate a narrator's reliability and a story's deeper meaning",
+              "Every narrator is equally reliable regardless of point of view"
             ],
             "answer": 2
           }

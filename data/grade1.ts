@@ -2776,6 +2776,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"R-Controlled Vowels: ar and or", summary:"Students learn that when a vowel is followed by the letter r, its sound changes, such as ar in car and or in corn, forming an r-controlled vowel sound.",
    resourceLabel:"YouTube: R-Controlled Vowels: ar and or", resourceUrl:"https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20ar%20and%20or%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=9ZbqOUtYLXA",
    quiz:[
      {q:"Which letters make the sound in the word car?", options:["ee","ar","or","ai"], answer:1},
      {q:"Which letters make the sound in the word corn?", options:["ar","oo","ay","or"], answer:3},
@@ -2790,6 +2791,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Numbers on a Number Line", summary:"Students use a number line, a line marked with numbers in order, to compare numbers and see which number is greater or less than another.",
    resourceLabel:"YouTube: Comparing Numbers on a Number Line", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Numbers%20on%20a%20Number%20Line%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=bn4cc_-QTs4",
    quiz:[
      {q:"On a number line, numbers get larger as you move ___.", options:["To the right","To the left","Downward only","Upward only"], answer:0},
      {q:"On a number line, which number is farther to the left, 4 or 10?", options:["4","Cannot tell","They are the same","10"], answer:0},
@@ -2804,6 +2806,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Day and Night", summary:"Students learn that Earth slowly spinning causes day and night, with daytime happening when a place faces the sun and nighttime happening when it faces away from the sun.",
    resourceLabel:"YouTube: Day and Night", resourceUrl:"https://www.youtube.com/results?search_query=Day%20and%20Night%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=qtjLFVHDVds",
    quiz:[
      {q:"What causes day and night on Earth?", options:["The moon disappearing","Earth changing colour","Earth slowly spinning around","The sun moving very fast"], answer:2},
      {q:"During the day, a place on Earth is usually facing ___.", options:["Away from the sun","Toward the moon only","Toward the sun","Nowhere at all"], answer:2},
@@ -2818,6 +2821,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"National Parks: Protecting Nature in Canada", summary:"Students learn that national parks are special protected areas of land in Canada set aside to keep nature, plants, and animals safe for everyone to enjoy.",
    resourceLabel:"YouTube: National Parks: Protecting Nature in Canada", resourceUrl:"https://www.youtube.com/results?search_query=National%20Parks%3A%20Protecting%20Nature%20in%20Canada%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Ac6SAje2HR4",
    quiz:[
      {q:"What is a national park?", options:["A shopping mall","A protected area of land set aside to keep nature safe","A tall office building","A parking lot"], answer:1},
      {q:"Why does Canada have national parks?", options:["To sell more toys","National parks have no purpose","To build more houses","To protect plants, animals, and natural land"], answer:3},

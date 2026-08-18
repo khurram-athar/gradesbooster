@@ -2780,6 +2780,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"Onomatopoeia: Sound Words in Stories", summary:"Students learn that onomatopoeia words imitate the sound they describe, such as buzz, crash, splash, and pop, adding excitement to writing.",
    resourceLabel:"YouTube: Onomatopoeia: Sound Words in Stories", resourceUrl:"https://www.youtube.com/results?search_query=Onomatopoeia%3A%20Sound%20Words%20in%20Stories%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=go_ld7lOpGA",
    quiz:[
      {q:"What do we call a word that imitates the sound it describes?", options:["An antonym","Onomatopoeia","A synonym","A compound word"], answer:1},
      {q:"Which of these words is an example of onomatopoeia?", options:["Buzz","Quickly","Elephant","Happy"], answer:0},
@@ -2794,6 +2795,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measuring Mass with Grams and Kilograms", summary:"Students learn that mass, or how heavy an object is, can be measured using grams for lighter objects and kilograms for heavier objects.",
    resourceLabel:"YouTube: Measuring Mass with Grams and Kilograms", resourceUrl:"https://www.youtube.com/results?search_query=Measuring%20Mass%20with%20Grams%20and%20Kilograms%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=ss4TEbiro6s",
    quiz:[
      {q:"What unit would you most likely use to measure the mass of a paperclip?", options:["Litres","Centimetres","Grams","Kilograms"], answer:2},
      {q:"What unit would you most likely use to measure the mass of a large dog?", options:["Kilograms","Metres","Millilitres","Grams"], answer:0},
@@ -2808,6 +2810,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"How Wind and Water Change the Land: Erosion", summary:"Students learn that erosion happens when wind and water slowly wear away rock and soil, changing the shape of the land over time.",
    resourceLabel:"YouTube: How Wind and Water Change the Land: Erosion", resourceUrl:"https://www.youtube.com/results?search_query=How%20Wind%20and%20Water%20Change%20the%20Land%3A%20Erosion%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=WS1Bfef4oik",
    quiz:[
      {q:"What do we call it when wind and water slowly wear away rock and soil?", options:["Hibernation","Erosion","Migration","Pollination"], answer:1},
      {q:"Which of these can cause erosion?", options:["Sunlight only","Silence","Wind and water","Colours"], answer:2},
@@ -2822,6 +2825,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Canadian Sports and Pastimes", summary:"Students learn about sports and pastimes enjoyed across Canada, such as hockey, lacrosse, skating, and camping, and how they reflect Canadian culture and geography.",
    resourceLabel:"YouTube: Canadian Sports and Pastimes", resourceUrl:"https://www.youtube.com/results?search_query=Canadian%20Sports%20and%20Pastimes%20grade%202%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=O7ybR94znNU",
    quiz:[
      {q:"Which sport is widely played and watched across Canada, especially in winter?", options:["Sumo wrestling","Bullfighting","Hockey","Surfing"], answer:2},
      {q:"Which sport, often called the national summer sport of Canada, uses a small rubber ball and a net on a long stick?", options:["Lacrosse","Cricket","Basketball","Golf"], answer:0},

@@ -2776,6 +2776,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"Story Characters: Who Is in the Story", summary:"Students learn that characters are the people or animals a story is about, and practise naming the characters in a story they have read or heard.",
    resourceLabel:"YouTube: Story Characters: Who Is in the Story", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Characters%3A%20Who%20Is%20in%20the%20Story%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=1NFLURr58U8",
    quiz:[
      {q:"What is a character in a story?", options:["The last page","A place in the story","The title of the book","A person or animal the story is about"], answer:3},
      {q:"In a story about a bear and a bird, which of these is a character?", options:["The title","The cover","The forest","The bear"], answer:3},
@@ -2805,6 +2806,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Trees Through the Seasons", summary:"Students observe how many trees change throughout the year, growing leaves in spring, staying green in summer, changing colour and dropping leaves in autumn, and standing bare in winter.",
    resourceLabel:"YouTube: Trees Through the Seasons", resourceUrl:"https://www.youtube.com/results?search_query=Trees%20Through%20the%20Seasons%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=gJ0vXVfZ0L0",
    quiz:[
      {q:"In which season do many trees grow new leaves?", options:["Spring","Winter","Never","Autumn"], answer:0},
      {q:"In which season do many tree leaves change colour and fall?", options:["Summer","Autumn","Spring","Never"], answer:1},
@@ -2819,6 +2821,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"My Culture: Foods, Music, and Clothing", summary:"Students share and celebrate parts of their own culture, such as special foods, music, or clothing, and learn that different families celebrate in different ways.",
    resourceLabel:"YouTube: My Culture: Foods, Music, and Clothing", resourceUrl:"https://www.youtube.com/results?search_query=My%20Culture%3A%20Foods%2C%20Music%2C%20and%20Clothing%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=RwSYrsjTiW4",
    quiz:[
      {q:"What is culture?", options:["The shared customs, foods, and traditions of a group","A single food","A math tool","A type of weather"], answer:0},
      {q:"Which of these could be part of a family culture?", options:["A math problem","A traffic light","A weather report","Special foods"], answer:3},
