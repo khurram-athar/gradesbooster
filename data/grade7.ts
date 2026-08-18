@@ -2275,6 +2275,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing Flashback and Foreshadowing Together", summary:"Grade 7 Language strand: flashback interrupts a story to show a past event, while foreshadowing hints at a future event, and authors often use both techniques together to build a richer narrative.",
    resourceLabel:"TVO Learn: Grade 7 Language", resourceUrl:"https://tvolearn.com/pages/grade-7-language",
+   videoUrl:"https://www.youtube.com/watch?v=IL2_SD3Sc50",
    quiz:[
      {q:"A flashback interrupts a story to show ___.", options:["A concept unrelated to narrative techniques","A past event","A future event","An event happening in the present moment only"], answer:1},
      {q:"Foreshadowing hints at ___.", options:["A future event in the story","A concept unrelated to narrative techniques","An event that has no connection to the plot","A past event in the story"], answer:0},
@@ -2284,6 +2285,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ratio and Rate Problems with Multiple Steps", summary:"Grade 7 Math strand: multi-step ratio and rate problems require combining several calculations, such as finding a unit rate and then using it to solve for a larger or smaller quantity.",
    resourceLabel:"TVO Learn: Grade 7 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-7-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=JOZSFwuyqok",
    quiz:[
      {q:"A multi-step ratio problem often requires ___.", options:["A concept unrelated to ratio problems","Only a single calculation with no additional steps","Ignoring the given ratio entirely","Combining several calculations to reach a final answer"], answer:3},
      {q:"If a car travels 150 km in 3 hours, what is its unit rate in km per hour?", options:["450 km/h","3 km/h","50 km/h","A rate unrelated to the calculation"], answer:2},
@@ -2293,6 +2295,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"The Digestive System in Depth", summary:"Grade 7 Science strand: the digestive system breaks down food into nutrients the body can absorb and use, involving organs such as the stomach, small intestine, and large intestine.",
    resourceLabel:"TVO Learn: Grade 7 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-7-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=1UvuBYUbFk0",
    quiz:[
      {q:"The main function of the digestive system is to ___.", options:["A function unrelated to the digestive system","Pump blood throughout the body","Filter air before it reaches the lungs","Break down food into nutrients the body can absorb and use"], answer:3},
      {q:"Which organ is primarily responsible for breaking down food using acid and enzymes?", options:["An organ unrelated to digestion","The heart","The lungs","The stomach"], answer:3},

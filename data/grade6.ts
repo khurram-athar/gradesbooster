@@ -2295,6 +2295,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Energy Transfer and Conservation of Energy", summary:"Grade 6 Science strand: energy can transfer between objects and change form, but the law of conservation of energy states that the total amount of energy in a closed system stays the same.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=PDJ6ws7NZ-I",
    quiz:[
      {q:"Energy transfer means energy ___.", options:["Moves from one object or place to another","Is destroyed completely with no trace","A concept unrelated to energy","Never moves or changes in any way"], answer:0},
      {q:"The law of conservation of energy states that energy ___.", options:["Cannot be created or destroyed, only transformed or transferred","Is constantly being created out of nothing","A concept unrelated to conservation of energy","Disappears completely once it is used"], answer:0},
@@ -2304,6 +2305,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"The Partition of India and Decolonization in South Asia", summary:"Grade 6 Social Studies strand: the Partition of India in 1947 divided British India into India and Pakistan as both gained independence, a major event in the broader 20th-century decolonization of South Asia.",
    resourceLabel:"TVO Learn: Grade 6 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-6-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=DrcCTgwbsjc",
    quiz:[
      {q:"The Partition of India in 1947 divided British India into ___.", options:["A division unrelated to the Partition of India","India and Pakistan","Two entirely different, unrelated countries","India and China"], answer:1},
      {q:"The Partition of India took place as part of the broader process of ___.", options:["The founding of the Ottoman Empire","A process unrelated to the Partition of India","European colonization beginning for the first time","Decolonization in South Asia"], answer:3},
