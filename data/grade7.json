@@ -13521,6 +13521,7 @@
         "summary": "Grade 7 Social Studies strand: the Non-Aligned Movement was a group of countries during the Cold War that chose not to formally align with either the United States or the Soviet Union.",
         "resourceLabel": "TVO Learn: Grade 7 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=S8uNOerjtSQ",
         "quiz": [
           {
             "q": "The Non-Aligned Movement was made up of countries that chose not to ___.",
@@ -41401,6 +41402,2426 @@
               "Winnipeg"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "label": "Day 171 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Adverb Clauses of Time, Reason, and Condition",
+        "summary": "Grade 7 Language strand: an adverb clause is a group of words with a subject and a verb that functions like an adverb, modifying a verb, adjective, or another adverb, and adverb clauses often begin with subordinating words such as when, because, although, or if to show time, reason, or condition.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an adverb clause?",
+            "options": [
+              "A single word that describes a noun",
+              "A concept unrelated to grammar",
+              "A group of words with a subject and verb that functions like an adverb",
+              "A clause that can never begin a sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which subordinating word could begin an adverb clause of reason?",
+            "options": [
+              "Because",
+              "Or",
+              "And",
+              "A concept unrelated to adverb clauses"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence contains an adverb clause of condition?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Running quickly, she caught the bus.",
+              "The tall red barn stood near the field.",
+              "If it rains tomorrow, the game will be cancelled."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does an adverb clause of time typically tell the reader?",
+            "options": [
+              "What colour an object is",
+              "When an action takes place",
+              "How many nouns are in a sentence",
+              "A concept unrelated to adverb clauses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use an adverb clause instead of two separate short sentences?",
+            "options": [
+              "Two separate sentences always show relationships more clearly than one combined sentence",
+              "A concept unrelated to grammar",
+              "Adverb clauses can never connect two ideas",
+              "To show a clear relationship, such as cause and effect, between two ideas"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Systems of Linear Equations by Graphing",
+        "summary": "Grade 7 Math strand: a system of linear equations can be solved by graphing both lines on the same coordinate plane, since the point where the two lines intersect represents the values of x and y that satisfy both equations at once.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does the solution to a system of two linear equations represent on a graph?",
+            "options": [
+              "The steepness of just one of the lines",
+              "A concept unrelated to algebra",
+              "The point where either line crosses the x-axis",
+              "The point where the two lines intersect"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If two lines in a system are graphed and never cross, what does that mean about the system?",
+            "options": [
+              "The lines must be the exact same line",
+              "The system has no solution because the lines are parallel",
+              "A concept unrelated to systems of equations",
+              "The system always has exactly one solution"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If the graphs of two equations intersect at the point (2, 3), what is the solution to the system?",
+            "options": [
+              "There is no solution at all",
+              "x equals 2 and y equals 3",
+              "A concept unrelated to graphing systems",
+              "x equals 3 and y equals 2"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does it mean if the graphs of two linear equations in a system are the same line?",
+            "options": [
+              "The system can never be solved by graphing",
+              "A concept unrelated to algebra",
+              "The system has infinitely many solutions",
+              "The system has exactly one solution"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might solving a system by graphing be less precise than solving it algebraically?",
+            "options": [
+              "A concept unrelated to systems of equations",
+              "Reading an exact intersection point from a graph can be difficult if the coordinates are not whole numbers",
+              "Graphs can never show the solution to a system",
+              "Graphing always gives a more precise answer than algebra"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Simple Harmonic Motion and Springs",
+        "summary": "Grade 7 Science strand: simple harmonic motion is a repeating back-and-forth motion, such as a spring stretching and compressing or a mass bouncing at the end of a spring, where the restoring force pulling the object back toward its resting position increases the farther the object moves away from that position.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is simple harmonic motion?",
+            "options": [
+              "Motion that always speeds up forever without stopping",
+              "A repeating back-and-forth motion around a resting position",
+              "A concept unrelated to physics",
+              "Motion that only ever happens once and never repeats"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What force pulls a stretched or compressed spring back toward its resting position?",
+            "options": [
+              "The restoring force",
+              "Gravity acting sideways",
+              "Friction alone",
+              "A concept unrelated to simple harmonic motion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What generally happens to the restoring force on a spring as it is stretched farther from its resting position?",
+            "options": [
+              "The restoring force increases",
+              "A concept unrelated to springs",
+              "The restoring force always stays at zero",
+              "The restoring force disappears completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one everyday example of simple harmonic motion?",
+            "options": [
+              "A car driving in a straight line at constant speed",
+              "A ball resting motionless on a flat table",
+              "A concept unrelated to physics",
+              "A mass bouncing at the end of a spring"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a bouncing spring eventually stop moving even though its motion is described as repeating?",
+            "options": [
+              "Springs are physically incapable of ever coming to rest",
+              "Friction and air resistance gradually remove energy from the system",
+              "Simple harmonic motion can never lose any energy over time",
+              "A concept unrelated to physics"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Northwest Passage and Arctic Sovereignty",
+        "summary": "Grade 7 Social Studies strand: the Northwest Passage is a sea route through the Canadian Arctic connecting the Atlantic and Pacific Oceans, and as melting sea ice makes the route more navigable, Canada has worked to assert its sovereignty over these Arctic waters against competing international claims.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Northwest Passage?",
+            "options": [
+              "A mountain pass located in British Columbia",
+              "A sea route through the Canadian Arctic connecting the Atlantic and Pacific Oceans",
+              "A concept unrelated to Canadian geography",
+              "A railway line built across the prairies"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why has the Northwest Passage become more navigable in recent decades?",
+            "options": [
+              "A concept unrelated to Arctic geography",
+              "The passage has always been completely ice-free year round",
+              "Melting sea ice has opened the route for longer periods each year",
+              "The route was recently dug out by construction crews"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What has Canada worked to assert over the waters of the Northwest Passage?",
+            "options": [
+              "A concept unrelated to social studies",
+              "Complete ownership of the entire Atlantic Ocean",
+              "Canada has no interest in the Northwest Passage at all",
+              "Its sovereignty, or legal control, over the Arctic waters"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might increased shipping traffic through the Northwest Passage matter to Canada economically and environmentally?",
+            "options": [
+              "A concept unrelated to Arctic sovereignty",
+              "It could bring new trade opportunities alongside risks to fragile Arctic ecosystems",
+              "Shipping traffic in the Arctic has no economic or environmental effects",
+              "The Northwest Passage is located far from any Canadian territory"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might other countries dispute Canadas claim that the Northwest Passage is internal Canadian waters?",
+            "options": [
+              "No other country has ever expressed any interest in the passage",
+              "The passage is legally recognized by every country as belonging only to Canada",
+              "Some countries argue the passage should be treated as an international strait open to free passage",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "label": "Day 172 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Juxtaposition and Contrast in Literature",
+        "summary": "Grade 7 Language strand: juxtaposition is a literary technique in which an author places two contrasting ideas, characters, or images side by side, and the resulting contrast can highlight differences and deepen a readers understanding of both elements.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "A concept unrelated to reading",
+              "Placing two contrasting ideas, characters, or images side by side",
+              "Repeating the exact same idea multiple times in a row",
+              "Removing all conflict from a story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What effect can juxtaposition have on a reader?",
+            "options": [
+              "It removes any need to think about the text",
+              "It always confuses the reader with no benefit at all",
+              "It can highlight differences and deepen understanding of both contrasted elements",
+              "A concept unrelated to juxtaposition"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If an author describes a wealthy characters mansion right after describing a poor characters shack, what technique is being used?",
+            "options": [
+              "Alliteration",
+              "Juxtaposition",
+              "Onomatopoeia",
+              "A concept unrelated to literary devices"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author juxtapose a peaceful scene with a violent one?",
+            "options": [
+              "Juxtaposing scenes can never create any contrast or emphasis",
+              "To make both scenes feel exactly the same",
+              "To emphasize the shock or contrast between the two moods",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does juxtaposition differ from simply describing one idea after another with no connection?",
+            "options": [
+              "This concept has no relevance to reading",
+              "Juxtaposition only ever involves describing identical ideas",
+              "Juxtaposition never involves any intentional placement of ideas",
+              "Juxtaposition intentionally places contrasting elements together to create meaning"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Multiples, Factors, and the Sieve of Eratosthenes",
+        "summary": "Grade 7 Math strand: the Sieve of Eratosthenes is a method for finding all prime numbers up to a given limit by systematically crossing out the multiples of each prime, starting with 2, leaving only the primes uncrossed.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is the Sieve of Eratosthenes used to find?",
+            "options": [
+              "Only even numbers within a range",
+              "A concept unrelated to number theory",
+              "The sum of every number in a list",
+              "All prime numbers up to a given limit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the Sieve of Eratosthenes, what happens to the multiples of each prime number?",
+            "options": [
+              "A concept unrelated to the sieve method",
+              "They are multiplied together to form a new number",
+              "They are circled and added to a separate list of primes",
+              "They are crossed out, leaving only primes uncrossed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which number is the first one used to begin crossing out multiples in the sieve method?",
+            "options": [
+              "2",
+              "1",
+              "0",
+              "A concept unrelated to the Sieve of Eratosthenes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is 1 not included as a prime number when using the sieve method?",
+            "options": [
+              "The sieve method always begins by crossing out the number 1 as a prime",
+              "A concept unrelated to number theory",
+              "By definition, a prime number must have exactly two factors, and 1 has only one",
+              "1 is actually the largest prime number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might the Sieve of Eratosthenes be a useful strategy for finding primes compared to testing each number individually for divisibility?",
+            "options": [
+              "The sieve method can only ever find a single prime number at a time",
+              "It systematically eliminates composite numbers, which can be faster for finding many primes at once",
+              "Testing each number individually is always faster than any sieve method",
+              "A concept unrelated to number theory"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Metamorphosis in Insects and Amphibians",
+        "summary": "Grade 7 Science strand: metamorphosis is a dramatic change in body form during an organisms development, such as a caterpillar transforming into a butterfly through complete metamorphosis, or a tadpole gradually developing into a frog through a more gradual process.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is metamorphosis?",
+            "options": [
+              "A process in which an organism never changes its body form",
+              "A type of rock formation",
+              "A concept unrelated to biology",
+              "A dramatic change in body form during an organisms development"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a caterpillar transform into through complete metamorphosis?",
+            "options": [
+              "A spider",
+              "A butterfly",
+              "A concept unrelated to metamorphosis",
+              "A beetle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What stage comes between the caterpillar and adult butterfly in complete metamorphosis?",
+            "options": [
+              "A concept unrelated to insect development",
+              "The larval stage occurs after the adult stage",
+              "There is no intermediate stage at all",
+              "The pupa, or chrysalis, stage"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a tadpole gradually develop into?",
+            "options": [
+              "A turtle",
+              "A concept unrelated to amphibian development",
+              "A fish",
+              "A frog"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might undergoing metamorphosis be an evolutionary advantage for some species?",
+            "options": [
+              "Different life stages can occupy different habitats and food sources, reducing competition among the same species",
+              "Metamorphosis always makes survival more difficult for a species",
+              "A concept unrelated to biology",
+              "Every species that undergoes metamorphosis eventually goes extinct"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Canadian Football League and the Grey Cup",
+        "summary": "Grade 7 Social Studies strand: the Canadian Football League, founded in its modern form in 1958, is a professional sports league whose championship game, the Grey Cup, has been awarded since 1909 and remains one of Canadas most watched annual sporting events.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Canadian Football League?",
+            "options": [
+              "A professional sports league in Canada",
+              "An organization that regulates Canadian banking",
+              "A concept unrelated to Canadian sports",
+              "A league that organizes only youth soccer teams"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the name of the CFL championship game?",
+            "options": [
+              "The Grey Cup",
+              "The World Series",
+              "A concept unrelated to the CFL",
+              "The Stanley Cup"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Since roughly what year has the Grey Cup been awarded?",
+            "options": [
+              "1982",
+              "A concept unrelated to Canadian sports history",
+              "1958",
+              "1909"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a national sports championship like the Grey Cup be significant to Canadian communities?",
+            "options": [
+              "National championships have no connection to community identity",
+              "It brings communities together and creates a shared sense of excitement and tradition",
+              "A concept unrelated to social studies",
+              "The Grey Cup is not followed by any Canadian communities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might professional sports leagues like the CFL be considered part of a countrys cultural identity?",
+            "options": [
+              "Widely followed sports and their traditions can become woven into a countrys shared culture",
+              "Professional sports leagues have no connection to cultural identity of any kind",
+              "Sports leagues can only ever exist in isolation from the broader culture",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "label": "Day 173 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Historical Fiction Narrative",
+        "summary": "Grade 7 Language strand: historical fiction blends invented characters and plot with real historical settings, events, or details, requiring a writer to research the time period carefully so the story feels authentic while still telling an original, imaginative tale.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What defines historical fiction?",
+            "options": [
+              "A story that must be entirely true and contain no invented details",
+              "A concept unrelated to writing",
+              "A story that can only take place in the future",
+              "A story that blends invented characters and plot with a real historical setting or events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is research an important step before writing historical fiction?",
+            "options": [
+              "A concept unrelated to historical fiction",
+              "Historical fiction is not allowed to include any real historical details",
+              "Research is never necessary when writing any kind of fiction",
+              "It helps the writer accurately portray the setting, customs, and events of the chosen time period"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these could realistically appear in a piece of historical fiction set during the building of the Canadian Pacific Railway?",
+            "options": [
+              "A concept unrelated to writing historical fiction",
+              "A character using a smartphone to call a friend",
+              "A fictional worker character interacting with real historical events of the railway construction",
+              "A spaceship landing near the railway construction site"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an author choose to tell a historical event through the eyes of a fictional character rather than only stating the facts?",
+            "options": [
+              "A concept unrelated to writing",
+              "Historical fiction is required to remove all emotion from the story",
+              "Fictional characters can never make a historical event feel more relatable",
+              "A personal, invented perspective can make historical events feel more vivid and relatable to readers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one challenge a writer might face when balancing historical accuracy with an engaging invented plot?",
+            "options": [
+              "This concept has no relevance to writing",
+              "Making sure invented events still feel plausible within the real historical context",
+              "Historical accuracy and an engaging plot can never be combined in the same story",
+              "There is no challenge at all in balancing accuracy with an invented plot"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: The Midsegment Theorem for Triangles",
+        "summary": "Grade 7 Math strand: a midsegment of a triangle connects the midpoints of two sides, and the midsegment theorem states that this midsegment is always parallel to the third side and exactly half its length.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does a midsegment of a triangle connect?",
+            "options": [
+              "Two vertices of the triangle directly",
+              "The midpoints of two sides of the triangle",
+              "The midpoint of one side to a vertex",
+              "A concept unrelated to geometry"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the midsegment theorem, how does a midsegment relate to the third side of the triangle?",
+            "options": [
+              "It is parallel to the third side and exactly half its length",
+              "It is perpendicular to the third side and twice its length",
+              "A concept unrelated to the midsegment theorem",
+              "It has no relationship to the third side at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If the third side of a triangle measures 18 centimetres, how long is the midsegment parallel to it?",
+            "options": [
+              "6 centimetres",
+              "9 centimetres",
+              "18 centimetres",
+              "36 centimetres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many midsegments does a single triangle have in total?",
+            "options": [
+              "A triangle has no midsegments at all",
+              "Only one midsegment per triangle",
+              "Three, one connecting the midpoints of each pair of sides",
+              "A concept unrelated to triangles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the midsegment theorem useful when a measurement of a triangles side is difficult to obtain directly?",
+            "options": [
+              "A concept unrelated to geometry",
+              "It allows the length of a side to be found indirectly using half the length of a related midsegment, or vice versa",
+              "Midsegments are always longer than the sides they relate to",
+              "The midsegment theorem can never be used to find any missing length"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Radial and Bilateral Symmetry in Animal Body Plans",
+        "summary": "Grade 7 Science strand: animals with radial symmetry, such as sea stars and jellyfish, have body parts arranged evenly around a central point, while animals with bilateral symmetry, such as most vertebrates and insects, have a left and right side that mirror each other.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is radial symmetry?",
+            "options": [
+              "A body plan with no repeating pattern of any kind",
+              "A body plan found only in plants",
+              "A body plan with parts arranged evenly around a central point",
+              "A concept unrelated to biology"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is bilateral symmetry?",
+            "options": [
+              "A body plan that only applies to single-celled organisms",
+              "A concept unrelated to animal body plans",
+              "A body plan where every part of the body is identical in every direction",
+              "A body plan where the left and right sides mirror each other"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these animals is a common example of radial symmetry?",
+            "options": [
+              "A grasshopper",
+              "A dog",
+              "A sea star",
+              "A concept unrelated to radial symmetry"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these animals is a common example of bilateral symmetry?",
+            "options": [
+              "A human being",
+              "A jellyfish",
+              "A sea anemone",
+              "A concept unrelated to bilateral symmetry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might bilateral symmetry be considered advantageous for animals that move actively in a specific direction?",
+            "options": [
+              "It supports a distinct head end for sensing the environment and a streamlined body for efficient movement",
+              "A concept unrelated to biology",
+              "Bilateral symmetry makes directional movement impossible for an animal",
+              "Radial symmetry is always better suited to fast, directional movement"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Doukhobors and Mennonite Settlement on the Canadian Prairies",
+        "summary": "Grade 7 Social Studies strand: the Doukhobors and Mennonites were religious groups who immigrated to the Canadian prairies in significant numbers in the late 1800s, often seeking freedom from persecution and military conscription in their home countries, and they established distinct farming communities across the region.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "Where did the Doukhobors and Mennonites primarily settle in Canada?",
+            "options": [
+              "Northern Ontario",
+              "The Canadian prairies",
+              "The Atlantic coast",
+              "A concept unrelated to Canadian immigration history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was one common reason the Doukhobors and Mennonites left their home countries?",
+            "options": [
+              "A concept unrelated to social studies",
+              "They were relocated by an international lottery system",
+              "They were forced onto ships against their will with no stated reason",
+              "Seeking freedom from persecution and military conscription"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Roughly when did significant numbers of Doukhobors and Mennonites settle on the prairies?",
+            "options": [
+              "A concept unrelated to prairie settlement history",
+              "The 1990s",
+              "The late 1800s",
+              "The 1600s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of communities did these groups typically establish on the prairies?",
+            "options": [
+              "Communities with no connection to agriculture",
+              "Communities focused entirely on mining",
+              "Distinct farming communities",
+              "A concept unrelated to Doukhobor and Mennonite settlement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a group emigrate specifically to avoid military conscription in their country of origin?",
+            "options": [
+              "Military conscription has no connection to why groups choose to emigrate",
+              "This concept has no relevance to social studies",
+              "Avoiding conscription was never a factor in any historical immigration to Canada",
+              "Their religious or personal beliefs may prevent them from participating in warfare"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "label": "Day 174 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: False Cognates and Words That Trick You",
+        "summary": "Grade 7 Language strand: a false cognate is a word in one language that looks or sounds similar to a word in another language but actually has a different meaning, which can easily mislead someone who assumes the words share the same meaning.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is a false cognate?",
+            "options": [
+              "A word that has no meaning in any language",
+              "A word that is spelled identically in every language in the world",
+              "A concept unrelated to vocabulary",
+              "A word that looks or sounds similar to a word in another language but has a different meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can false cognates be tricky for someone learning a new language?",
+            "options": [
+              "A learner may assume the similar-looking word shares the same meaning, leading to a mistake",
+              "A concept unrelated to false cognates",
+              "False cognates always have the exact same meaning across every language",
+              "False cognates never appear in any real language"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the key difference between a true cognate and a false cognate?",
+            "options": [
+              "False cognates only exist within a single language",
+              "A true cognate shares both a similar form and a related meaning, while a false cognate does not share the meaning",
+              "A concept unrelated to vocabulary",
+              "True cognates and false cognates are always identical concepts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might understanding false cognates be especially useful for a student learning French or Spanish alongside English?",
+            "options": [
+              "It can prevent embarrassing or confusing misunderstandings caused by assuming shared meaning",
+              "Every word that looks similar between two languages always means the same thing",
+              "False cognates have no impact on understanding a new language",
+              "This concept has no relevance to vocabulary"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How might a careful reader confirm whether a similar-looking foreign word is a true cognate or a false cognate?",
+            "options": [
+              "By assuming that appearance alone always determines meaning",
+              "A concept unrelated to false cognates",
+              "By checking the words actual meaning in a dictionary rather than assuming based on appearance",
+              "There is no reliable way to ever confirm a words meaning"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Absolute Value Equations (Intro)",
+        "summary": "Grade 7 Math strand: the absolute value of a number is its distance from zero on a number line, always expressed as a non-negative value, so an equation like the absolute value of x equals 5 has two possible solutions, x equals 5 and x equals negative 5.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does the absolute value of a number represent?",
+            "options": [
+              "Its distance from zero on a number line",
+              "The number multiplied by negative one",
+              "A concept unrelated to algebra",
+              "The number divided by two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Can the absolute value of a number ever be negative?",
+            "options": [
+              "Yes, absolute value is always negative",
+              "Only when the original number is a fraction",
+              "A concept unrelated to absolute value",
+              "No, absolute value is always non-negative"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many solutions does the equation, the absolute value of x equals 5, generally have?",
+            "options": [
+              "Two solutions, x equals 5 and x equals negative 5",
+              "Only one solution, x equals 5",
+              "A concept unrelated to absolute value equations",
+              "No solutions at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the solutions to the equation, the absolute value of x equals 8?",
+            "options": [
+              "There are no solutions",
+              "x equals 8 only",
+              "x equals negative 8 only",
+              "x equals 8 and x equals negative 8"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does an absolute value equation typically produce two possible solutions instead of just one?",
+            "options": [
+              "Negative numbers are never valid solutions to any equation",
+              "A concept unrelated to algebra",
+              "Both a positive and a negative number can be the same distance from zero",
+              "Absolute value equations can never have more than one solution"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Convection Currents in Weather and Plate Tectonics",
+        "summary": "Grade 7 Science strand: a convection current is the circular movement of a fluid, such as air, water, or molten rock, caused by uneven heating, with warmer, less dense material rising and cooler, denser material sinking, driving processes from weather patterns to the slow movement of tectonic plates.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What causes a convection current to form?",
+            "options": [
+              "A fluid that is heated evenly throughout with no temperature difference",
+              "The complete absence of any heat source",
+              "Uneven heating of a fluid, causing warmer material to rise and cooler material to sink",
+              "A concept unrelated to earth science"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In a convection current, what generally happens to warmer, less dense material?",
+            "options": [
+              "It rises",
+              "It sinks to the very bottom",
+              "A concept unrelated to convection currents",
+              "It stays perfectly still"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role do convection currents play in the movement of tectonic plates?",
+            "options": [
+              "Convection currents in the mantle help drive the slow movement of the plates above them",
+              "A concept unrelated to plate tectonics",
+              "Tectonic plates move only because of ocean tides",
+              "Convection currents have no connection to tectonic plate movement"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do convection currents in the atmosphere help create weather patterns?",
+            "options": [
+              "Convection currents never occur in the atmosphere",
+              "Weather patterns are completely unrelated to air temperature",
+              "A concept unrelated to earth science",
+              "Rising warm air and sinking cool air create circulation patterns that influence wind and weather"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a pot of soup heated on a stove be used as an everyday example of convection?",
+            "options": [
+              "A pot of soup only ever demonstrates conduction, never convection",
+              "Boiling soup demonstrates that convection never actually occurs in liquids",
+              "The heated liquid at the bottom rises while cooler liquid sinks, creating a visible circulating current",
+              "This concept has no relevance to science"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Panama Canal and Its Effect on Canadian Trade Routes",
+        "summary": "Grade 7 Social Studies strand: the Panama Canal, completed in 1914, connects the Atlantic and Pacific Oceans through Central America, dramatically shortening shipping routes and giving Canadian ports on both coasts a faster path for trade with countries around the world.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What does the Panama Canal connect?",
+            "options": [
+              "The Atlantic and Pacific Oceans",
+              "Two rivers within Canada",
+              "The Arctic and Indian Oceans",
+              "A concept unrelated to world geography"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In roughly what year was the Panama Canal completed?",
+            "options": [
+              "1982",
+              "A concept unrelated to the Panama Canal",
+              "1914",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did the completion of the Panama Canal affect shipping routes?",
+            "options": [
+              "It made all shipping routes significantly longer",
+              "A concept unrelated to social studies",
+              "It dramatically shortened shipping routes between the Atlantic and Pacific Oceans",
+              "It closed off ocean shipping entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How might the Panama Canal benefit Canadian ports on the Atlantic and Pacific coasts?",
+            "options": [
+              "The canal blocks Canadian ships from using it entirely",
+              "A concept unrelated to Canadian trade",
+              "Canadian ports gain no benefit at all from the Panama Canal",
+              "It gives them a faster path for trade with countries around the world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a shorter shipping route through a canal like Panama reduce costs for international trade?",
+            "options": [
+              "Shorter routes require less fuel and time, lowering the overall cost of shipping goods",
+              "Shipping costs have no connection to the length of a trade route",
+              "This concept has no relevance to social studies",
+              "Shorter shipping routes always increase the total cost of trade"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "label": "Day 175 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Analyzing Video Game Narratives and Design",
+        "summary": "Grade 7 Language strand: video games can tell stories through methods unavailable to books or films, such as branching player choices, environmental storytelling embedded in a games setting, and interactive pacing controlled by the player, making media literacy skills important for analyzing how meaning is constructed in this interactive medium.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is one storytelling method available to video games that is not typically available to books or films?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Printed text on a page",
+              "Branching player choices that affect the story",
+              "A fixed, unchangeable sequence of events with no player input"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is environmental storytelling in a video game?",
+            "options": [
+              "Conveying story or history through details embedded in the games setting",
+              "A story told entirely through spoken narration with no visuals",
+              "A concept unrelated to video game design",
+              "A method that never includes any visual details"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does interactive pacing in a video game differ from the pacing of a film?",
+            "options": [
+              "A concept unrelated to media literacy",
+              "Interactive pacing means the story can never be paused or slowed down",
+              "The player, rather than a fixed timeline, often controls how quickly the story unfolds",
+              "Every video game moves at the exact same fixed pace as a film"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might branching player choices make analyzing a video games narrative more complex than analyzing a novels plot?",
+            "options": [
+              "Video games never include any narrative elements at all",
+              "Different players may experience different versions of the story based on their choices",
+              "Branching choices always produce the exact same story for every player",
+              "A concept unrelated to video game narratives"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is media literacy useful when examining how a video games design shapes a players understanding of its story?",
+            "options": [
+              "It helps players recognize how choices, pacing, and setting are intentionally constructed to convey meaning",
+              "Media literacy has no application to interactive media like video games",
+              "This concept has no relevance to media literacy",
+              "Video game design never involves any intentional storytelling choices"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data Management: Constructing and Interpreting Stacked Bar Graphs",
+        "summary": "Grade 7 Math strand: a stacked bar graph displays data by dividing each bar into segments that represent different categories, allowing a viewer to compare both the total amount for each bar and the relative size of each category within that total.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does a stacked bar graph divide each bar into?",
+            "options": [
+              "Randomly placed dots with no pattern",
+              "Segments representing different categories",
+              "A concept unrelated to data management",
+              "A single unbroken colour with no divisions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can a viewer compare using a stacked bar graph that a simple bar graph does not easily show?",
+            "options": [
+              "The relative size of each category within the total for each bar",
+              "A concept unrelated to stacked bar graphs",
+              "The exact colour used for the background of the graph",
+              "Nothing additional can ever be shown by a stacked bar graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a stacked bar for a class shows 12 students who prefer soccer and 8 who prefer basketball, what is the total height of that bar?",
+            "options": [
+              "20 students",
+              "8 students",
+              "12 students",
+              "4 students"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a stacked bar graph be a useful choice for comparing sales of several product types across multiple months?",
+            "options": [
+              "A concept unrelated to data management",
+              "Stacked bar graphs can only ever show a single category at once",
+              "It shows both the total sales per month and how each product type contributes to that total",
+              "Stacked bar graphs cannot display more than one month of data"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one potential drawback of a stacked bar graph when trying to compare the middle segments of several bars directly?",
+            "options": [
+              "Stacked bar graphs make every segment equally easy to compare with no drawbacks",
+              "Middle segments do not all start at the same baseline, making direct comparison harder",
+              "A stacked bar graph can never contain more than one segment per bar",
+              "A concept unrelated to stacked bar graphs"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: Household Chemical Safety and Common Reactions",
+        "summary": "Grade 7 Science strand: many household products, such as bleach, ammonia-based cleaners, and vinegar, can react with each other in dangerous ways if mixed, so understanding basic chemical safety, reading warning labels, and never combining unknown cleaning products helps prevent harmful reactions in the home.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why can mixing certain household cleaning products be dangerous?",
+            "options": [
+              "A concept unrelated to chemistry",
+              "Some combinations can produce harmful gases or other dangerous chemical reactions",
+              "Mixing cleaning products always makes them completely safe",
+              "Household cleaning products can never react with each other in any way"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one practical way to reduce the risk of a dangerous reaction when using household chemicals?",
+            "options": [
+              "Reading warning labels and avoiding combining unknown products",
+              "A concept unrelated to chemical safety",
+              "Combining as many different cleaning products as possible",
+              "Ignoring all labels printed on cleaning product containers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which two types of household products are commonly warned against mixing due to the risk of producing a harmful gas?",
+            "options": [
+              "A concept unrelated to household chemical safety",
+              "Bleach and ammonia-based cleaners",
+              "Two different brands of the exact same product",
+              "Water and dish soap"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might warning labels on household chemical products list specific substances not to mix with the product?",
+            "options": [
+              "Certain combinations can trigger dangerous chemical reactions that manufacturers want to prevent",
+              "A concept unrelated to chemistry",
+              "Warning labels are printed with no useful safety information at all",
+              "Chemical products never require any warning labels of any kind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is proper ventilation recommended when using strong household cleaning chemicals?",
+            "options": [
+              "Ventilation has no effect on the safety of using chemical products",
+              "This concept has no relevance to science",
+              "Strong chemical products never release any fumes at all",
+              "It helps disperse potentially harmful fumes and reduces the concentration a person breathes in"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Springhill Mining Disaster and Workplace Safety Reform",
+        "summary": "Grade 7 Social Studies strand: the Springhill mining disasters in Nova Scotia, including a major explosion in 1958, killed many coal miners and drew national attention to dangerous underground working conditions, contributing to stronger workplace safety regulations in Canadian mining and industry.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "In which province did the Springhill mining disasters occur?",
+            "options": [
+              "Alberta",
+              "Nova Scotia",
+              "British Columbia",
+              "A concept unrelated to Canadian labour history"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What industry were the Springhill disasters connected to?",
+            "options": [
+              "Coal mining",
+              "Automobile manufacturing",
+              "A concept unrelated to the Springhill disasters",
+              "Commercial fishing"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the Springhill disasters draw national attention to?",
+            "options": [
+              "The condition of Canadian highways",
+              "Dangerous underground working conditions for miners",
+              "A concept unrelated to social studies",
+              "The safety of office buildings in major cities"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What long-term effect did events like the Springhill disasters have on Canadian industry?",
+            "options": [
+              "They led to the complete shutdown of the mining industry nationwide",
+              "They contributed to stronger workplace safety regulations",
+              "They had no lasting effect on workplace safety at all",
+              "A concept unrelated to the Springhill mining disasters"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a major workplace disaster lead governments to strengthen safety regulations afterward?",
+            "options": [
+              "Workplace disasters never influence any government policy decisions",
+              "Safety regulations are always written before any disaster ever occurs",
+              "Public attention and loss of life can create pressure to prevent similar tragedies in the future",
+              "This concept has no relevance to social studies"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "label": "Day 176 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Direct and Indirect Objects in a Sentence",
+        "summary": "Grade 7 Language strand: a direct object receives the action of a verb directly, answering the question what or whom, while an indirect object identifies to whom or for whom the action of the verb is done, typically appearing between the verb and the direct object.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What question does a direct object typically answer?",
+            "options": [
+              "How or why",
+              "What or whom",
+              "A concept unrelated to grammar",
+              "Where or when"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does an indirect object typically identify?",
+            "options": [
+              "A concept unrelated to direct and indirect objects",
+              "The location where an action takes place",
+              "The subject performing the action",
+              "To whom or for whom an action is done"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the sentence, She gave her friend a gift, what is the direct object?",
+            "options": [
+              "Gift",
+              "She",
+              "Friend",
+              "Gave"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the sentence, She gave her friend a gift, what is the indirect object?",
+            "options": [
+              "A concept unrelated to grammar",
+              "She",
+              "Gift",
+              "Friend"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might identifying the direct and indirect objects in a sentence help a writer understand sentence structure more clearly?",
+            "options": [
+              "A concept unrelated to grammar",
+              "Every sentence must contain exactly one indirect object",
+              "It clarifies which parts of the sentence receive the action and who benefits from it",
+              "Direct and indirect objects never provide any useful information about a sentence"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Budgeting for a Class Trip (Cost-Benefit Analysis)",
+        "summary": "Grade 7 Math strand: budgeting for a group trip involves listing all expected costs, such as transportation, admission, and food, comparing total costs against available funds, and weighing the benefits of a purchase or activity against its cost, a process known as cost-benefit analysis.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is the first general step when creating a budget for a class trip?",
+            "options": [
+              "Spending money first and figuring out the cost afterward",
+              "Listing all expected costs, such as transportation, admission, and food",
+              "A concept unrelated to financial literacy",
+              "Ignoring all costs entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does cost-benefit analysis involve?",
+            "options": [
+              "A concept unrelated to budgeting",
+              "Weighing the benefits of a purchase or activity against its cost",
+              "Only ever considering the cost and ignoring any benefits",
+              "Only ever considering the benefits and ignoring the cost completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If a class trip costs 45 dollars per student for transportation and 15 dollars per student for admission, what is the total cost per student?",
+            "options": [
+              "15 dollars",
+              "30 dollars",
+              "60 dollars",
+              "45 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a class of 25 students each pays 60 dollars for a trip, what is the total amount collected?",
+            "options": [
+              "1500 dollars",
+              "85 dollars",
+              "600 dollars",
+              "1250 dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a class use cost-benefit analysis when deciding between two possible trip destinations?",
+            "options": [
+              "A concept unrelated to financial literacy",
+              "Cost-benefit analysis can never help compare two different options",
+              "It helps compare which option offers the most value relative to its cost",
+              "The cheapest option is always guaranteed to be the best choice regardless of benefits"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Renewable Energy: Wave Energy Converters and Ocean Power",
+        "summary": "Grade 7 Science strand: wave energy converters are devices that capture the kinetic energy of ocean waves and convert it into electricity, offering a renewable power source for coastal communities, though the technology still faces challenges related to cost, durability in harsh ocean conditions, and environmental impact.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do wave energy converters capture and convert into electricity?",
+            "options": [
+              "The kinetic energy of ocean waves",
+              "A concept unrelated to renewable energy",
+              "The chemical energy found in seawater salt",
+              "The heat energy stored in ocean sediment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of communities might particularly benefit from wave energy technology?",
+            "options": [
+              "Communities located deep inland with no ocean access",
+              "Coastal communities",
+              "A concept unrelated to wave energy",
+              "Communities located in deserts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one challenge that wave energy converters face related to their ocean environment?",
+            "options": [
+              "Wave energy converters never face any challenges of any kind",
+              "Ocean waves never provide enough energy to be worth capturing",
+              "A concept unrelated to renewable energy",
+              "Durability, since harsh ocean conditions can damage equipment over time"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is wave energy considered a renewable source of power?",
+            "options": [
+              "Ocean waves are a limited resource that will eventually run out completely",
+              "Ocean waves are continuously generated and do not get used up like fossil fuels",
+              "A concept unrelated to renewable energy",
+              "Wave energy converters create waves rather than capturing existing ones"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might researchers study the environmental impact of wave energy converters before widespread use?",
+            "options": [
+              "Environmental impact is never a consideration for any renewable energy technology",
+              "Wave energy converters have no possible effect on ocean ecosystems",
+              "This concept has no relevance to science",
+              "Large numbers of underwater devices could potentially affect marine ecosystems and wildlife"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Trans-Canada Highway and National Infrastructure",
+        "summary": "Grade 7 Social Studies strand: the Trans-Canada Highway, officially opened in 1962, is one of the longest national highways in the world, stretching from coast to coast, and it was built to improve transportation, trade, and connection between Canadas provinces.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Trans-Canada Highway?",
+            "options": [
+              "A concept unrelated to Canadian infrastructure",
+              "A railway line built in the 1800s",
+              "One of the longest national highways in the world, stretching coast to coast across Canada",
+              "A short highway connecting only two Canadian cities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In roughly what year was the Trans-Canada Highway officially opened?",
+            "options": [
+              "1867",
+              "1917",
+              "A concept unrelated to Canadian infrastructure history",
+              "1962"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was one main purpose of building the Trans-Canada Highway?",
+            "options": [
+              "To completely replace all forms of rail travel in Canada",
+              "A concept unrelated to social studies",
+              "To improve transportation, trade, and connection between provinces",
+              "To connect Canada with countries outside North America by road"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a coast-to-coast highway be especially significant for a country as geographically large as Canada?",
+            "options": [
+              "Highways only matter in countries with very small land areas",
+              "A concept unrelated to national infrastructure",
+              "It helps link distant regions and communities that might otherwise be difficult to connect by road",
+              "A large highway system has no particular significance for a large country"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might major infrastructure projects like the Trans-Canada Highway require cooperation between the federal government and the provinces?",
+            "options": [
+              "This concept has no relevance to social studies",
+              "Infrastructure projects never require any cooperation between different levels of government",
+              "The highway passes through multiple provinces, each with its own jurisdiction over local roads and land",
+              "Provinces have no involvement whatsoever in highways that cross their territory"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "label": "Day 177 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Personification and Anthropomorphism in Literature",
+        "summary": "Grade 7 Language strand: personification gives human qualities to a non-human object or idea, such as saying the wind whispered, while anthropomorphism goes further by giving an animal or object human behaviours and consciousness, such as a talking, thinking animal character in a story.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is personification?",
+            "options": [
+              "Removing all descriptive language from a sentence",
+              "A concept unrelated to reading",
+              "Giving human qualities to a non-human object or idea",
+              "Giving an object no qualities of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence is an example of personification?",
+            "options": [
+              "The trees measured ten metres tall.",
+              "The wind whispered through the trees.",
+              "The wind blew at 20 kilometres per hour.",
+              "A concept unrelated to personification"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is anthropomorphism?",
+            "options": [
+              "Removing all human characteristics from a character",
+              "A concept unrelated to literary devices",
+              "A technique used only in scientific writing",
+              "Giving an animal or object human behaviours and consciousness"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a strong example of anthropomorphism?",
+            "options": [
+              "A talking mouse character who worries about paying rent",
+              "A chart showing average mouse populations",
+              "A factual description of a mouses diet",
+              "A concept unrelated to anthropomorphism"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author use personification or anthropomorphism when writing a story for younger readers?",
+            "options": [
+              "It can make non-human characters or objects feel relatable and easier to connect with emotionally",
+              "These techniques always make a story harder for readers to understand",
+              "A concept unrelated to reading",
+              "Personification and anthropomorphism are never used in stories written for any audience"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Tangent Lines and Basic Circle Theorems (Intro)",
+        "summary": "Grade 7 Math strand: a tangent line touches a circle at exactly one point, called the point of tangency, and one key circle theorem states that a tangent line is always perpendicular to the radius drawn to that point of tangency.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "How many points does a tangent line touch on a circle?",
+            "options": [
+              "Every point along the circles edge",
+              "Exactly two points",
+              "A concept unrelated to geometry",
+              "Exactly one point"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the point where a tangent line touches a circle called?",
+            "options": [
+              "The point of tangency",
+              "The diameter point",
+              "The centre of the circle",
+              "A concept unrelated to tangent lines"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "According to a key circle theorem, what is the relationship between a tangent line and the radius drawn to the point of tangency?",
+            "options": [
+              "They are always parallel to each other",
+              "A concept unrelated to circle theorems",
+              "They are perpendicular to each other",
+              "They always overlap completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a radius drawn to a point of tangency forms a 90 degree angle with the tangent line, what does this confirm?",
+            "options": [
+              "The tangent line is perpendicular to that radius, as the theorem predicts",
+              "The circle does not actually have a defined radius",
+              "A concept unrelated to tangent lines",
+              "The tangent line must actually pass through the centre of the circle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might understanding tangent lines be useful in real-world applications, such as designing gears or pulley systems?",
+            "options": [
+              "Tangent lines have no real-world applications of any kind",
+              "Gears and pulleys never involve any circular shapes",
+              "A concept unrelated to geometry",
+              "Tangent lines describe how a straight edge or belt can touch a circular object at a single contact point"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Noise Pollution and Sound Insulation",
+        "summary": "Grade 7 Science strand: noise pollution is excessive or disruptive sound in an environment that can negatively affect human health and wildlife, and sound insulation materials work by absorbing or blocking sound waves, reducing how much noise passes from one space into another.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is noise pollution?",
+            "options": [
+              "A pleasant, quiet sound with no negative effects",
+              "A type of pollution that only affects water",
+              "A concept unrelated to physics",
+              "Excessive or disruptive sound in an environment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can noise pollution negatively affect?",
+            "options": [
+              "A concept unrelated to noise pollution",
+              "Human health and wildlife",
+              "Nothing at all, since sound has no physical effects",
+              "Only the temperature of the surrounding air"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do sound insulation materials generally work?",
+            "options": [
+              "By amplifying sound waves as loudly as possible",
+              "A concept unrelated to sound insulation",
+              "By converting sound waves directly into light",
+              "By absorbing or blocking sound waves"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a busy highway near a residential neighbourhood use sound barriers?",
+            "options": [
+              "Sound barriers have no effect on the amount of noise reaching an area",
+              "A concept unrelated to physics",
+              "Sound barriers are designed to increase noise levels for residents",
+              "To reduce the amount of traffic noise that reaches nearby homes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might soft, textured materials such as foam panels reduce noise more effectively than hard, smooth surfaces?",
+            "options": [
+              "Hard, smooth surfaces always absorb more sound than soft materials",
+              "Soft, textured materials absorb sound energy rather than reflecting it back into the room",
+              "Sound waves are not affected by the texture of a surface",
+              "This concept has no relevance to science"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Supreme Court and Judicial Review",
+        "summary": "Grade 7 Social Studies strand: the Supreme Court of Canada is the countrys highest court, with the final word on legal disputes, and through judicial review it has the power to determine whether laws passed by governments comply with the Canadian Charter of Rights and Freedoms and the Constitution.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "A court that exists only at the municipal level",
+              "The countrys highest court, with the final word on legal disputes",
+              "A court that only handles minor traffic violations",
+              "A concept unrelated to Canadian government"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is judicial review?",
+            "options": [
+              "The power of a court to determine whether a law complies with the Constitution",
+              "A process in which judges are elected directly by the public",
+              "A concept unrelated to the Supreme Court",
+              "A review of a judges personal finances"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which document does the Supreme Court often reference when reviewing whether a law is constitutional?",
+            "options": [
+              "The Canadian Charter of Rights and Freedoms",
+              "A concept unrelated to judicial review",
+              "A private companys internal policy manual",
+              "A foreign countrys constitution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can happen if the Supreme Court finds that a law violates the Charter of Rights and Freedoms?",
+            "options": [
+              "The law can be struck down or modified",
+              "A concept unrelated to social studies",
+              "The law automatically becomes part of the Constitution permanently",
+              "The Supreme Court has no power to affect any law in any way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is an independent judiciary, such as the Supreme Court, considered important in a democracy?",
+            "options": [
+              "It can check the power of governments by ensuring their laws respect constitutional rights",
+              "This concept has no relevance to social studies",
+              "Courts are only ever used to resolve disputes between private individuals",
+              "An independent judiciary has no meaningful role in a democratic system"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "label": "Day 178 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Radio Drama Script",
+        "summary": "Grade 7 Language strand: a radio drama script tells a story using only dialogue, sound effects, and music, since there is no visual element, so writers must rely on descriptive dialogue and carefully chosen sound cues to help listeners imagine the setting and action.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What three elements does a radio drama primarily rely on to tell its story?",
+            "options": [
+              "A concept unrelated to writing",
+              "Dialogue, sound effects, and music",
+              "Only camera angles and lighting",
+              "Only printed captions displayed on a screen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why must a radio drama rely heavily on descriptive dialogue?",
+            "options": [
+              "A concept unrelated to radio drama scripts",
+              "Radio dramas always include a visual component alongside the audio",
+              "Descriptive dialogue is never necessary in any audio format",
+              "There is no visual element, so listeners must imagine the setting and action through sound and speech"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is one purpose of sound effects in a radio drama?",
+            "options": [
+              "To replace the need for any dialogue at all",
+              "To help listeners imagine the setting and action without seeing it",
+              "A concept unrelated to writing a radio script",
+              "Sound effects serve no purpose in a radio drama"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a radio drama script include a stage direction describing a door creaking open?",
+            "options": [
+              "It cues the sound effects team to create that specific sound at the right moment in the story",
+              "A concept unrelated to radio drama writing",
+              "Stage directions are never included in a radio drama script",
+              "Creaking doors are always represented using dialogue instead of sound effects"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does writing for radio drama differ from writing a script meant to be filmed?",
+            "options": [
+              "This concept has no relevance to writing",
+              "A radio drama script always includes detailed camera angle instructions",
+              "Radio scripts and film scripts require exactly the same techniques with no differences",
+              "A radio script cannot rely on visuals, so it must convey everything through sound alone"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: Modular Arithmetic and Clock Math",
+        "summary": "Grade 7 Math strand: modular arithmetic involves counting in a cycle that wraps back to zero after reaching a fixed number called the modulus, much like a 12-hour clock wraps back to 1 after reaching 12, and this wrap-around pattern is written using the phrase mod, as in 15 mod 12 equals 3.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What is modular arithmetic based on?",
+            "options": [
+              "A concept unrelated to number theory",
+              "Counting only with negative numbers",
+              "Counting in a cycle that wraps back to zero after reaching a fixed modulus",
+              "Counting that continues forever without ever repeating"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What everyday device is often used to explain modular arithmetic?",
+            "options": [
+              "A calculator with no display",
+              "A ruler measuring centimetres",
+              "A 12-hour clock",
+              "A concept unrelated to modular arithmetic"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is 15 mod 12?",
+            "options": [
+              "3",
+              "27",
+              "15",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If it is currently 10 oclock and 5 hours pass, what time will it be on a 12-hour clock?",
+            "options": [
+              "3 oclock",
+              "10 oclock",
+              "5 oclock",
+              "15 oclock"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might modular arithmetic be useful for describing repeating patterns, such as days of the week?",
+            "options": [
+              "Modular arithmetic can never be used to describe any repeating pattern",
+              "Days of the week never repeat in any predictable pattern",
+              "A concept unrelated to number theory",
+              "It naturally models cycles that return to a starting point after a fixed number of steps"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Keystone Species and Ecosystem Stability",
+        "summary": "Grade 7 Science strand: a keystone species is a species that has a disproportionately large effect on its ecosystem relative to its population size, such that removing it can cause dramatic changes or even collapse in the structure of the entire ecosystem.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A species with a disproportionately large effect on its ecosystem relative to its population size",
+              "A concept unrelated to biology",
+              "A species that has absolutely no effect on its surrounding ecosystem",
+              "A species that only exists in laboratory settings"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can happen to an ecosystem if a keystone species is removed?",
+            "options": [
+              "The ecosystem can experience dramatic changes or even collapse",
+              "The ecosystem always remains completely unchanged",
+              "Removing any species always improves ecosystem stability",
+              "A concept unrelated to keystone species"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a keystone species effect described as disproportionate to its population size?",
+            "options": [
+              "Population size has no connection to a species influence on an ecosystem",
+              "Keystone species always have the largest population in their ecosystem",
+              "A relatively small population can still have an outsized influence on the rest of the ecosystem",
+              "A concept unrelated to ecosystem stability"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might sea otters be described as a keystone species in kelp forest ecosystems?",
+            "options": [
+              "By preying on sea urchins, they help prevent urchins from destroying the kelp that many other species depend on",
+              "Sea otters are the most numerous species in every kelp forest",
+              "A concept unrelated to biology",
+              "Sea otters have no measurable effect on kelp forest ecosystems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is identifying keystone species useful for conservation efforts?",
+            "options": [
+              "Protecting a keystone species can help preserve the stability of an entire ecosystem",
+              "This concept has no relevance to science",
+              "Keystone species have no connection to conservation planning at all",
+              "Conservation efforts never focus on any particular species within an ecosystem"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The 1919 Paris Peace Conference and Canadas Independent Voice",
+        "summary": "Grade 7 Social Studies strand: at the Paris Peace Conference following the First World War, Canada, though still legally part of the British Empire, signed the resulting treaty separately and gained its own seat at the League of Nations, marking an early step toward Canadian independence in foreign affairs.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What major international event followed the First World War, where Canada took part in negotiations?",
+            "options": [
+              "The Quebec Conference",
+              "A concept unrelated to Canadian history",
+              "The Paris Peace Conference",
+              "The Confederation Conference"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Roughly when did the Paris Peace Conference take place?",
+            "options": [
+              "A concept unrelated to the Paris Peace Conference",
+              "1945",
+              "1867",
+              "1919"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What significant step did Canada take at the Paris Peace Conference regarding international recognition?",
+            "options": [
+              "It merged its foreign policy completely with the United States",
+              "It refused to participate in the conference at all",
+              "A concept unrelated to social studies",
+              "It signed the resulting treaty separately from Britain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What international organization did Canada gain its own seat in following the conference?",
+            "options": [
+              "A concept unrelated to the Paris Peace Conference",
+              "The League of Nations",
+              "The United Nations",
+              "The Commonwealth Games Federation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is Canadas separate participation at the Paris Peace Conference considered an early step toward independence in foreign affairs?",
+            "options": [
+              "Independence in foreign affairs has no connection to international conferences",
+              "Canada had no distinct role of any kind at the conference",
+              "This concept has no relevance to social studies",
+              "It showed Canada acting with its own voice in international matters, distinct from Britain"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "label": "Day 179 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Understatement and Hyperbole as Literary Devices",
+        "summary": "Grade 7 Language strand: understatement deliberately makes something seem less important or smaller than it really is, often for ironic or humorous effect, while hyperbole is an extreme exaggeration used for emphasis, and skilled writers use both devices to shape how a reader reacts to an idea.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is understatement?",
+            "options": [
+              "Making something seem far more extreme than it really is",
+              "Stating a fact with no emotional effect at all",
+              "Deliberately making something seem less important or smaller than it really is",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is hyperbole?",
+            "options": [
+              "A statement that downplays the importance of an event",
+              "A factual statement with no exaggeration of any kind",
+              "A concept unrelated to literary devices",
+              "An extreme exaggeration used for emphasis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence is an example of hyperbole?",
+            "options": [
+              "Please clean your room today.",
+              "I have told you a million times to clean your room.",
+              "A concept unrelated to hyperbole",
+              "I have reminded you a few times to clean your room."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which sentence is an example of understatement, describing a huge storm as only mildly inconvenient?",
+            "options": [
+              "A concept unrelated to understatement",
+              "It was a bit windy outside during the hurricane.",
+              "The hurricane was the most destructive storm in a century.",
+              "The storm caused no damage of any kind whatsoever."
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use understatement to describe a serious or dramatic event?",
+            "options": [
+              "A concept unrelated to reading",
+              "It can create an ironic or darkly humorous effect by downplaying something significant",
+              "Understatement always makes an event sound more dramatic than it really is",
+              "Understatement can never be used to create any particular effect"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Quadratic Equations by Factoring (Intro)",
+        "summary": "Grade 7 Math strand: some quadratic equations, written in the form x squared plus bx plus c equals zero, can be solved by factoring the expression into two binomials and then setting each factor equal to zero to find the possible values of x.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What general form does a basic quadratic equation take?",
+            "options": [
+              "x squared plus bx plus c equals zero",
+              "x plus b equals zero",
+              "A concept unrelated to algebra",
+              "x squared equals negative one always"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first general step in solving a quadratic equation by factoring?",
+            "options": [
+              "Immediately guessing a random value for x with no calculation",
+              "Dividing every term by zero",
+              "Factoring the expression into two binomials",
+              "A concept unrelated to quadratic equations"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "After factoring a quadratic equation into two binomials, what is the next step to find the solutions?",
+            "options": [
+              "Setting each factor equal to zero and solving for x",
+              "Adding the two binomials together",
+              "Multiplying the two binomials back together and stopping",
+              "A concept unrelated to factoring"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the solutions to the equation, the quantity x minus 2 times the quantity x minus 3 equals zero?",
+            "options": [
+              "x equals 0 only",
+              "x equals 6 only",
+              "x equals negative 2 and x equals negative 3",
+              "x equals 2 and x equals 3"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why can a basic quadratic equation have up to two different solutions?",
+            "options": [
+              "Quadratic equations always have exactly zero solutions",
+              "A quadratic equation can never have more than one solution",
+              "Setting each of the two factors equal to zero can produce two distinct values of x",
+              "A concept unrelated to algebra"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Sinkholes, Caves, and Karst Landscapes",
+        "summary": "Grade 7 Science strand: karst landscapes form when slightly acidic water gradually dissolves soluble bedrock such as limestone, creating underground caves, and when a cave roof becomes too weak to support the ground above, the surface can suddenly collapse, forming a sinkhole.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of bedrock is commonly associated with the formation of karst landscapes?",
+            "options": [
+              "A concept unrelated to earth science",
+              "Limestone",
+              "Granite",
+              "Basalt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What causes soluble bedrock to gradually dissolve and form caves?",
+            "options": [
+              "A concept unrelated to karst landscapes",
+              "Sudden volcanic eruptions melting the bedrock instantly",
+              "Slightly acidic water dissolving the rock over time",
+              "Strong winds eroding solid rock from above"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What can happen when a cave roof becomes too weak to support the ground above it?",
+            "options": [
+              "The ground above becomes permanently more stable",
+              "The cave automatically refills with solid rock",
+              "The surface can suddenly collapse, forming a sinkhole",
+              "A concept unrelated to sinkholes"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a sinkhole?",
+            "options": [
+              "A concept unrelated to karst landscapes",
+              "A sudden collapse of the surface into an underground cavity",
+              "A type of above-ground mountain formation",
+              "A small pond formed entirely by rainfall"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might regions with karst landscapes be more prone to sudden ground collapses than regions with more insoluble bedrock?",
+            "options": [
+              "Soluble rock like limestone can be slowly eroded from below, leaving unstable underground cavities",
+              "Insoluble bedrock is always more likely to dissolve and collapse than soluble bedrock",
+              "This concept has no relevance to science",
+              "Karst landscapes are always more geologically stable than any other landscape type"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The CRTC and Canadian Media Regulation",
+        "summary": "Grade 7 Social Studies strand: the Canadian Radio-television and Telecommunications Commission, established in 1968, regulates and supervises Canadas broadcasting and telecommunications systems, including setting rules for Canadian content requirements intended to support domestic media and cultural production.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What does the CRTC stand for?",
+            "options": [
+              "The Central Revenue and Tax Collection Council",
+              "The Canadian Radio-television and Telecommunications Commission",
+              "The Canadian Rail Transportation Committee",
+              "A concept unrelated to Canadian institutions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In roughly what year was the CRTC established?",
+            "options": [
+              "1968",
+              "1867",
+              "A concept unrelated to the CRTC",
+              "1917"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two systems does the CRTC regulate and supervise?",
+            "options": [
+              "Only agriculture and fisheries",
+              "Only interprovincial highways",
+              "Broadcasting and telecommunications",
+              "A concept unrelated to social studies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one purpose of Canadian content requirements set by the CRTC?",
+            "options": [
+              "A concept unrelated to the CRTC",
+              "To eliminate all foreign media from being broadcast in Canada",
+              "To support domestic media and cultural production",
+              "Canadian content rules serve no cultural purpose at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a government create a regulatory body like the CRTC to oversee broadcasting?",
+            "options": [
+              "Regulatory bodies have no role in supporting cultural production of any kind",
+              "Broadcasting and telecommunications never require any government oversight",
+              "This concept has no relevance to social studies",
+              "To help ensure fair access, national standards, and support for domestic content across media systems"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "label": "Day 180 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Reading, and Media Literacy (Days 171-179)",
+        "summary": "Grade 7 Language strand review: students revisit adverb clauses, juxtaposition and contrast, historical fiction narrative writing, personification and anthropomorphism, and understatement and hyperbole.",
+        "resourceLabel": "TVO Learn: Grade 7 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-language",
+        "quiz": [
+          {
+            "q": "What is an adverb clause?",
+            "options": [
+              "A single word that describes a noun",
+              "A clause that can never begin a sentence",
+              "A concept unrelated to grammar",
+              "A group of words with a subject and verb that functions like an adverb"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is juxtaposition?",
+            "options": [
+              "Repeating the exact same idea multiple times in a row",
+              "Removing all conflict from a story",
+              "Placing two contrasting ideas, characters, or images side by side",
+              "A concept unrelated to reading"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defines historical fiction?",
+            "options": [
+              "A story that can only take place in the future",
+              "A concept unrelated to writing",
+              "A story that must be entirely true and contain no invented details",
+              "A story that blends invented characters and plot with a real historical setting or events"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is personification?",
+            "options": [
+              "Giving an object no qualities of any kind",
+              "A concept unrelated to reading",
+              "Removing all descriptive language from a sentence",
+              "Giving human qualities to a non-human object or idea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is understatement?",
+            "options": [
+              "A concept unrelated to reading",
+              "Making something seem far more extreme than it really is",
+              "Deliberately making something seem less important or smaller than it really is",
+              "Stating a fact with no emotional effect at all"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Systems, Number Theory, and Geometry (Days 171-179)",
+        "summary": "Grade 7 Math strand review: students revisit solving systems of linear equations by graphing, the Sieve of Eratosthenes, solving absolute value equations, tangent lines and circle theorems, and solving quadratic equations by factoring.",
+        "resourceLabel": "TVO Learn: Grade 7 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-mathematics",
+        "quiz": [
+          {
+            "q": "What does the solution to a system of two linear equations represent on a graph?",
+            "options": [
+              "The point where the two lines intersect",
+              "A concept unrelated to algebra",
+              "The steepness of just one of the lines",
+              "The point where either line crosses the x-axis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the Sieve of Eratosthenes used to find?",
+            "options": [
+              "The sum of every number in a list",
+              "A concept unrelated to number theory",
+              "Only even numbers within a range",
+              "All prime numbers up to a given limit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many solutions does the equation, the absolute value of x equals 5, generally have?",
+            "options": [
+              "No solutions at all",
+              "A concept unrelated to absolute value equations",
+              "Two solutions, x equals 5 and x equals negative 5",
+              "Only one solution, x equals 5"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the point where a tangent line touches a circle called?",
+            "options": [
+              "The point of tangency",
+              "The centre of the circle",
+              "A concept unrelated to tangent lines",
+              "The diameter point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the first general step in solving a quadratic equation by factoring?",
+            "options": [
+              "Dividing every term by zero",
+              "Factoring the expression into two binomials",
+              "Immediately guessing a random value for x with no calculation",
+              "A concept unrelated to quadratic equations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Physics, Biology, and Earth Science (Days 171-179)",
+        "summary": "Grade 7 Science strand review: students revisit simple harmonic motion, radial and bilateral symmetry, convection currents, keystone species, and sinkholes and karst landscapes.",
+        "resourceLabel": "TVO Learn: Grade 7 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is simple harmonic motion?",
+            "options": [
+              "Motion that always speeds up forever without stopping",
+              "A concept unrelated to physics",
+              "A repeating back-and-forth motion around a resting position",
+              "Motion that only ever happens once and never repeats"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is bilateral symmetry?",
+            "options": [
+              "A concept unrelated to animal body plans",
+              "A body plan that only applies to single-celled organisms",
+              "A body plan where the left and right sides mirror each other",
+              "A body plan where every part of the body is identical in every direction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What causes a convection current to form?",
+            "options": [
+              "The complete absence of any heat source",
+              "Uneven heating of a fluid, causing warmer material to rise and cooler material to sink",
+              "A concept unrelated to earth science",
+              "A fluid that is heated evenly throughout with no temperature difference"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a keystone species?",
+            "options": [
+              "A concept unrelated to biology",
+              "A species with a disproportionately large effect on its ecosystem relative to its population size",
+              "A species that has absolutely no effect on its surrounding ecosystem",
+              "A species that only exists in laboratory settings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a sinkhole?",
+            "options": [
+              "A type of above-ground mountain formation",
+              "A concept unrelated to karst landscapes",
+              "A small pond formed entirely by rainfall",
+              "A sudden collapse of the surface into an underground cavity"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Geography, History, and Canadian Institutions (Days 171-179)",
+        "summary": "Grade 7 Social Studies strand review: students revisit the Northwest Passage and Arctic sovereignty, the Doukhobors and Mennonite prairie settlement, the Trans-Canada Highway, the Supreme Court of Canada, and the CRTC.",
+        "resourceLabel": "TVO Learn: Grade 7 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-7-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Northwest Passage?",
+            "options": [
+              "A railway line built across the prairies",
+              "A concept unrelated to Canadian geography",
+              "A sea route through the Canadian Arctic connecting the Atlantic and Pacific Oceans",
+              "A mountain pass located in British Columbia"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where did the Doukhobors and Mennonites primarily settle in Canada?",
+            "options": [
+              "Northern Ontario",
+              "A concept unrelated to Canadian immigration history",
+              "The Canadian prairies",
+              "The Atlantic coast"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the Trans-Canada Highway?",
+            "options": [
+              "A railway line built in the 1800s",
+              "One of the longest national highways in the world, stretching coast to coast across Canada",
+              "A short highway connecting only two Canadian cities",
+              "A concept unrelated to Canadian infrastructure"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the Supreme Court of Canada?",
+            "options": [
+              "A concept unrelated to Canadian government",
+              "A court that exists only at the municipal level",
+              "A court that only handles minor traffic violations",
+              "The countrys highest court, with the final word on legal disputes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the CRTC stand for?",
+            "options": [
+              "A concept unrelated to Canadian institutions",
+              "The Canadian Radio-television and Telecommunications Commission",
+              "The Canadian Rail Transportation Committee",
+              "The Central Revenue and Tax Collection Council"
+            ],
+            "answer": 1
           }
         ]
       }

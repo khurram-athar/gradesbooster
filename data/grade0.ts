@@ -2838,6 +2838,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"Language", title:"Story Setting: Where and When", summary:"Students learn that the setting of a story is the place and time where the story happens, such as a forest in the daytime or a house at night.",
    resourceLabel:"YouTube: Story Setting: Where and When", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Setting%3A%20Where%20and%20When%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Cb6L1Cg755c",
    quiz:[
      {q:"What is the setting of a story?", options:["The characters in the story","The last page","The place and time where the story happens","The title of the book"], answer:2},
      {q:"If a story happens on a farm during the day, what is the setting?", options:["A farm during the day","The moon","A classroom","A city at night"], answer:0},
@@ -2852,6 +2853,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Comparing Numbers with Symbols: Greater and Less", summary:"Students compare two numbers and describe which is greater and which is less, beginning to connect the ideas of more and fewer to number comparisons within 20.",
    resourceLabel:"YouTube: Comparing Numbers with Symbols: Greater and Less", resourceUrl:"https://www.youtube.com/results?search_query=Comparing%20Numbers%20with%20Symbols%3A%20Greater%20and%20Less%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=E34PAOGYRNk",
    quiz:[
      {q:"Between 12 and 7, which number is greater?", options:["7","Cannot tell","12","They are equal"], answer:2},
      {q:"Between 15 and 19, which number is less?", options:["Cannot tell","15","They are equal","19"], answer:1},
@@ -2866,6 +2868,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Baby Animals: Growing Up", summary:"Students learn the special names for baby animals, such as puppy, kitten, calf, and chick, and observe how baby animals grow and change over time.",
    resourceLabel:"YouTube: Baby Animals: Growing Up", resourceUrl:"https://www.youtube.com/results?search_query=Baby%20Animals%3A%20Growing%20Up%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=3U0efIdE940",
    quiz:[
      {q:"What is a baby dog called?", options:["Puppy","Kitten","Calf","Chick"], answer:0},
      {q:"What is a baby cat called?", options:["Puppy","Cub","Kitten","Chick"], answer:2},
@@ -2880,6 +2883,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Home Safety: Staying Safe Indoors", summary:"Students learn simple home safety rules, such as staying away from hot stoves, not touching sharp objects, and asking an adult for help with dangerous items.",
    resourceLabel:"YouTube: Home Safety: Staying Safe Indoors", resourceUrl:"https://www.youtube.com/results?search_query=Home%20Safety%3A%20Staying%20Safe%20Indoors%20kindergarten%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=Urq9bUJRXgs",
    quiz:[
      {q:"Should young children touch a hot stove by themselves?", options:["No","Yes","Only sometimes","It does not matter"], answer:0},
      {q:"Who should help with sharp or dangerous items at home?", options:["No one","A pet","A trusted adult","A stranger"], answer:2},
@@ -9503,6 +9507,586 @@ const curriculum: DayContent[] = [
      {prompt:"What is the main job of a plumber?", answers:["fixing pipes and water leaks"]},
      {prompt:"What is a prairie?", answers:["a large area of flat land"]},
      {prompt:"What is the main job of a building inspector?", answers:["checking that buildings are built safely"]}
+   ]},
+]},
+{day:171, label:"Day 171 — Mon", subjects:[
+  {subject:"Language", title:"Word Families: -ay Words", summary:"Kindergarten Language strand: the -ay word family shares the same ending sound, as in day, play, way, and say.",
+   resourceLabel:"YouTube: Word Families: -ay Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ay%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ay family?", options:["Sun","Bed","Play","Top"], answer:2},
+     {q:"Which word rhymes with way?", options:["Day","Sun","Sit","Sock"], answer:0},
+     {q:"Which word does NOT belong to the -ay family?", options:["Play","Say","Day","Sun"], answer:3},
+     {q:"Complete the rhyme: We go outside every ___ to play.", options:["dot","day","den","dip"], answer:1},
+     {q:"Words in the same word family share the same ___.", options:["Meaning","First letter","Colour","Ending sound"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with day.", answers:["play","way","say"]},
+     {prompt:"What ending sound do play and way share?", answers:["ay","the ay sound"]},
+     {prompt:"Is stay part of the -ay family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Skip Counting by 9s to 90", summary:"Kindergarten Math strand: students skip count by 9s, saying 9, 18, 27, 36, and continuing on up to 90.",
+   resourceLabel:"YouTube: Skip Counting by 9s to 90", resourceUrl:"https://www.youtube.com/results?search_query=Skip%20Counting%20by%209s%20to%2090%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next: 9, 18, 27, ___?", options:["37","35","28","36"], answer:3},
+     {q:"What comes next: 36, 45, 54, ___?", options:["64","63","60","55"], answer:1},
+     {q:"When skip counting by 9s, what number comes after 63?", options:["74","72","68","64"], answer:1},
+     {q:"Skip counting by 9s means we add ___ each time.", options:["10","8","9","7"], answer:2},
+     {q:"Which list correctly skip counts by 9s?", options:["9, 18, 24, 36","9, 18, 27, 36","9, 19, 27, 36","9, 16, 27, 36"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 9, 18, 27?", answers:["36","thirty six"]},
+     {prompt:"Skip count by 9s from 9 to 45.", answers:["9,18,27,36,45","9 18 27 36 45"]},
+     {prompt:"What number comes right before 90 when skip counting by 9s?", answers:["81","eighty one"]}
+   ]},
+  {subject:"Science", title:"Life Cycle of a Sea Turtle", summary:"Kindergarten Science strand: a sea turtle hatches from an egg buried in warm sand, crawls to the ocean as a hatchling, and grows into a large swimming adult over many years.",
+   resourceLabel:"YouTube: Life Cycle of a Sea Turtle", resourceUrl:"https://www.youtube.com/results?search_query=Life%20Cycle%20of%20a%20Sea%20Turtle%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does a sea turtle begin its life?", options:["As an egg in the snow","As an egg buried in warm sand","As an adult in the ocean","As an egg in a tree"], answer:1},
+     {q:"What is a newly hatched sea turtle called?", options:["A hatchling","A nymph","A tadpole","A cub"], answer:0},
+     {q:"Where does a hatchling sea turtle crawl toward after hatching?", options:["The ocean","A forest","A desert","A mountain"], answer:0},
+     {q:"How long does it take a sea turtle to grow into a large adult?", options:["One day","One week","One hour","Many years"], answer:3},
+     {q:"A sea turtle growing from an egg into a swimming adult is an example of a ___.", options:["Season","Life cycle","Food chain","Habitat"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Where does a sea turtle egg hatch?", answers:["in warm sand","buried sand on a beach"]},
+     {prompt:"What is a newly hatched sea turtle called?", answers:["a hatchling","hatchling"]},
+     {prompt:"Where does a sea turtle swim once it reaches the ocean?", answers:["in the ocean","the sea"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Water Treatment Workers: Making Water Safe to Drink", summary:"Kindergarten Social Studies strand: water treatment workers clean and test water so that it is safe for our community to drink, cook with, and use every day.",
+   resourceLabel:"YouTube: Our Water Treatment Workers: Making Water Safe to Drink", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Water%20Treatment%20Workers%3A%20Making%20Water%20Safe%20to%20Drink%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a water treatment worker?", options:["Cutting hair","Cleaning and testing water","Flying planes","Teaching school"], answer:1},
+     {q:"Why do communities need clean water?", options:["To paint houses","Clean water is not needed","To drink, cook, and stay healthy","To fly airplanes"], answer:2},
+     {q:"What might happen if water is not tested and cleaned?", options:["It would turn into ice","It would disappear","Nothing would happen","It could make people sick"], answer:3},
+     {q:"Water treatment workers help keep our water ___.", options:["Frozen","Safe and clean","Dirty","Invisible"], answer:1},
+     {q:"Which of these is a job done by a water treatment worker?", options:["Delivering mail","Selling food","Testing water for safety","Building roads"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do water treatment workers do to water?", answers:["clean and test it","make it safe to drink"]},
+     {prompt:"Why is testing water important?", answers:["so it is safe to drink","to make sure it is clean"]},
+     {prompt:"Name one thing we use clean water for.", answers:["drinking","cooking"]}
+   ]},
+]},
+{day:172, label:"Day 172 — Tue", subjects:[
+  {subject:"Language", title:"Word Families: -oy Words", summary:"Kindergarten Language strand: the -oy word family shares the same ending sound, as in boy, toy, joy, and Roy.",
+   resourceLabel:"YouTube: Word Families: -oy Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-oy%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -oy family?", options:["Bed","Toy","Sun","Top"], answer:1},
+     {q:"Which word rhymes with boy?", options:["Sun","Sit","Toy","Sock"], answer:2},
+     {q:"Which word does NOT belong to the -oy family?", options:["Joy","Sun","Toy","Boy"], answer:1},
+     {q:"Complete the rhyme: My favourite thing to play with is a ___.", options:["top","tap","toy","tip"], answer:2},
+     {q:"Words in the same word family share the same ___.", options:["First letter","Meaning","Colour","Ending sound"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with toy.", answers:["boy","joy"]},
+     {prompt:"What ending sound do boy and joy share?", answers:["oy","the oy sound"]},
+     {prompt:"Is enjoy part of the -oy family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Number Bonds: Ways to Make 13", summary:"Kindergarten Math strand: students explore the different pairs of numbers that add together to make 13, such as 6 and 7, or 9 and 4.",
+   resourceLabel:"YouTube: Number Bonds: Ways to Make 13", resourceUrl:"https://www.youtube.com/results?search_query=Number%20Bonds%3A%20Ways%20to%20Make%2013%20kindergarten%20educational",
+   quiz:[
+     {q:"Which pair of numbers makes 13?", options:["3 and 8","4 and 10","5 and 9","6 and 7"], answer:3},
+     {q:"If one part of 13 is 8, what is the other part?", options:["4","6","3","5"], answer:3},
+     {q:"Which pair does NOT make 13?", options:["8 and 8","9 and 4","10 and 3","7 and 6"], answer:0},
+     {q:"13 is one more than which number?", options:["15","14","12","11"], answer:2},
+     {q:"Finding different ways to make the same number is called ___.", options:["Sorting","Number bonds","Skip counting","Estimating"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name two numbers that add together to make 13.", answers:["6 and 7","9 and 4"]},
+     {prompt:"If one part of 13 is 8, what is the other part?", answers:["5","five"]},
+     {prompt:"Is 13 an even or odd number?", answers:["odd","odd number"]}
+   ]},
+  {subject:"Science", title:"Crabs: Ocean Animals with Claws", summary:"Kindergarten Science strand: a crab is an ocean animal with a hard shell, ten legs, and two strong claws that it uses to grab food and defend itself.",
+   resourceLabel:"YouTube: Crabs: Ocean Animals with Claws", resourceUrl:"https://www.youtube.com/results?search_query=Crabs%3A%20Ocean%20Animals%20with%20Claws%20kindergarten%20educational",
+   quiz:[
+     {q:"How many legs does a crab have?", options:["Six","Twelve","Eight","Ten"], answer:3},
+     {q:"What does a crab use its claws for?", options:["Singing","Grabbing food and defending itself","Digging tunnels only","Flying"], answer:1},
+     {q:"What protects the soft body of a crab?", options:["Fur","Feathers","Scales like a fish","A hard shell"], answer:3},
+     {q:"Where does a crab usually live?", options:["In the sky","In the desert","In a tree","Near the ocean or on the beach"], answer:3},
+     {q:"A crab moving sideways along the sand shows how it likes to ___.", options:["Move","Fly","Swim upward","Hide in trees"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"How many legs does a crab have?", answers:["ten","10"]},
+     {prompt:"What does a crab use its claws for?", answers:["to grab food","to defend itself"]},
+     {prompt:"What covers and protects a crabs body?", answers:["a hard shell","shell"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Meteorologists: Forecasting the Weather", summary:"Kindergarten Social Studies strand: meteorologists study clouds, wind, and temperature to forecast the weather so that our community knows what to expect each day.",
+   resourceLabel:"YouTube: Our Meteorologists: Forecasting the Weather", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Meteorologists%3A%20Forecasting%20the%20Weather%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a meteorologist?", options:["Forecasting the weather","Flying planes","Fixing pipes","Cutting hair"], answer:0},
+     {q:"Why do people find weather forecasts helpful?", options:["They help us plan what to wear and do","They tell us where to shop","They tell us what to eat","Forecasts are never useful"], answer:0},
+     {q:"Which of these might a meteorologist study?", options:["Only music","Only books","Only paintings","Clouds, wind, and temperature"], answer:3},
+     {q:"A meteorologist might warn a community about an approaching ___.", options:["Birthday party","Storm","Parade","Bake sale"], answer:1},
+     {q:"Meteorologists help communities stay ___.", options:["Prepared and safe","Confused","Lost","Hungry"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do meteorologists study?", answers:["the weather","clouds and wind and temperature"]},
+     {prompt:"Why is a weather forecast helpful?", answers:["it tells us what to expect","so we can plan our day"]},
+     {prompt:"Name one tool a meteorologist might use.", answers:["a thermometer","a weather map"]}
+   ]},
+]},
+{day:173, label:"Day 173 — Wed", subjects:[
+  {subject:"Language", title:"Word Families: -ink Words", summary:"Kindergarten Language strand: the -ink word family shares the same ending sound, as in pink, sink, think, and wink.",
+   resourceLabel:"YouTube: Word Families: -ink Words", resourceUrl:"https://www.youtube.com/results?search_query=Word%20Families%3A%20-ink%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ink family?", options:["Sun","Bed","Top","Pink"], answer:3},
+     {q:"Which word rhymes with sink?", options:["Sock","Sun","Sit","Pink"], answer:3},
+     {q:"Which word does NOT belong to the -ink family?", options:["Sink","Pink","Sun","Wink"], answer:2},
+     {q:"Complete the rhyme: Take a moment to stop and ___.", options:["than","then","that","think"], answer:3},
+     {q:"Words in the same word family share the same ___.", options:["First letter","Ending sound","Meaning","Colour"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"Name a word that rhymes with pink.", answers:["sink","wink"]},
+     {prompt:"What ending sound do sink and think share?", answers:["ink","the ink sound"]},
+     {prompt:"Is drink part of the -ink family?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Numbers to 150: Counting Beyond 120", summary:"Kindergarten Math strand: students continue counting past 120, saying number names in order all the way up to 150.",
+   resourceLabel:"YouTube: Numbers to 150: Counting Beyond 120", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20150%3A%20Counting%20Beyond%20120%20kindergarten%20educational",
+   quiz:[
+     {q:"What number comes right after 129?", options:["128","130","140","131"], answer:1},
+     {q:"Which number comes between 135 and 137?", options:["136","134","138","139"], answer:0},
+     {q:"What number comes right before 150?", options:["152","149","148","151"], answer:1},
+     {q:"Counting past 120 all the way to 150 means we say numbers in ___.", options:["Groups of five only","Reverse only","Order","Random order"], answer:2},
+     {q:"Which of these numbers is greater than 130?", options:["118","142","99","125"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes after 120?", answers:["121","one hundred twenty one"]},
+     {prompt:"Count from 128 to 132.", answers:["128,129,130,131,132","128 129 130 131 132"]},
+     {prompt:"What number comes right before 150?", answers:["149","one hundred forty nine"]}
+   ]},
+  {subject:"Science", title:"Polar Bears: Giants of the Arctic Ice", summary:"Kindergarten Science strand: a polar bear is a huge white-furred mammal that lives on Arctic ice and hunts seals to survive in the cold.",
+   resourceLabel:"YouTube: Polar Bears: Giants of the Arctic Ice", resourceUrl:"https://www.youtube.com/results?search_query=Polar%20Bears%3A%20Giants%20of%20the%20Arctic%20Ice%20kindergarten%20educational",
+   quiz:[
+     {q:"What colour is a polar bears thick fur?", options:["Black","Orange","White","Green"], answer:2},
+     {q:"Where does a polar bear mostly live?", options:["In the ocean depths","In a desert","In a rainforest","On Arctic ice"], answer:3},
+     {q:"What does a polar bear often hunt for food?", options:["Grass","Insects","Seals","Fruit"], answer:2},
+     {q:"A polar bears thick fur and fat help it stay ___ in cold weather.", options:["Warm","Cool","Dry","Wet"], answer:0},
+     {q:"Polar bears are one of the largest ___ on Earth.", options:["Land mammals","Fish","Insects","Birds"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What colour is a polar bears fur?", answers:["white","white fur"]},
+     {prompt:"Where does a polar bear live?", answers:["on Arctic ice","the Arctic"]},
+     {prompt:"What does a polar bear hunt to survive?", answers:["seals","it hunts seals"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Beekeepers: Caring for Bees and Making Honey", summary:"Kindergarten Social Studies strand: beekeepers care for hives of bees, helping them stay healthy so the bees can make honey and help pollinate flowers and crops.",
+   resourceLabel:"YouTube: Our Beekeepers: Caring for Bees and Making Honey", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Beekeepers%3A%20Caring%20for%20Bees%20and%20Making%20Honey%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a beekeeper?", options:["Flying planes","Caring for bees and hives","Fixing pipes","Cutting hair"], answer:1},
+     {q:"What do bees make that beekeepers collect?", options:["Bread","Juice","Milk","Honey"], answer:3},
+     {q:"Why are bees important to farms and gardens?", options:["They only make noise","They eat all the plants","They help pollinate flowers and crops","Bees are not helpful"], answer:2},
+     {q:"A beekeeper wears special clothing mainly to ___.", options:["Fly faster","Stay warm in winter","Stay safe from stings","Look fancy"], answer:2},
+     {q:"Beekeepers help their community by providing ___.", options:["Nothing useful","Only wax candles","Loud noise","Honey and healthy pollinated crops"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do beekeepers care for?", answers:["bees","hives of bees"]},
+     {prompt:"What do bees make that beekeepers collect?", answers:["honey","they collect honey"]},
+     {prompt:"Why are bees important to farms and gardens?", answers:["they pollinate flowers and crops","pollination"]}
+   ]},
+]},
+{day:174, label:"Day 174 — Thu", subjects:[
+  {subject:"Language", title:"Vowel Teams: oo Words", summary:"Kindergarten Language strand: the letters oo together can make a long sound, as in moon and food, or a short sound, as in book and look.",
+   resourceLabel:"YouTube: Vowel Teams: oo Words", resourceUrl:"https://www.youtube.com/results?search_query=Vowel%20Teams%3A%20oo%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the oo vowel team?", options:["Mud","Man","Mat","Moon"], answer:3},
+     {q:"What sound do the letters oo make in the word food?", options:["A long oo sound","A silent sound","A short a sound","A long e sound"], answer:0},
+     {q:"Which of these words has the oo vowel team?", options:["Back","Book","Bike","Bake"], answer:1},
+     {q:"Complete the rhyme: At night we can see a bright round ___.", options:["moon","mud","man","map"], answer:0},
+     {q:"When two letters team up to make one sound, it is called a ___.", options:["Consonant blend","Suffix","Vowel team","Prefix"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What sound do the letters oo make in the word moon?", answers:["a long oo sound","long oo"]},
+     {prompt:"Give another word with the oo vowel team.", answers:["food","look"]},
+     {prompt:"Is book a word with the oo vowel team?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Math", title:"Addition: Adding Two-Digit Numbers Without Regrouping", summary:"Kindergarten Math strand: students add two two-digit numbers by adding the ones together and the tens together, without needing to regroup.",
+   resourceLabel:"YouTube: Addition: Adding Two-Digit Numbers Without Regrouping", resourceUrl:"https://www.youtube.com/results?search_query=Addition%3A%20Adding%20Two-Digit%20Numbers%20Without%20Regrouping%20kindergarten%20educational",
+   quiz:[
+     {q:"What is 23 plus 15?", options:["38","35","36","37"], answer:0},
+     {q:"What is 41 plus 26?", options:["65","68","66","67"], answer:3},
+     {q:"When adding two two-digit numbers, which digits do we usually add first?", options:["The ones digits","The tens digits","Neither digit","Only the first number"], answer:0},
+     {q:"What is 32 plus 44?", options:["77","74","75","76"], answer:3},
+     {q:"What is 50 plus 27?", options:["79","78","77","76"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is 23 plus 15?", answers:["38","thirty eight"]},
+     {prompt:"When adding 34 and 22, what do you add first?", answers:["the ones","ones digits"]},
+     {prompt:"What is 41 plus 26?", answers:["67","sixty seven"]}
+   ]},
+  {subject:"Science", title:"Snakes: Legless Reptiles That Slither", summary:"Kindergarten Science strand: a snake is a reptile with no legs that moves by slithering along the ground and uses its tongue to smell the air around it.",
+   resourceLabel:"YouTube: Snakes: Legless Reptiles That Slither", resourceUrl:"https://www.youtube.com/results?search_query=Snakes%3A%20Legless%20Reptiles%20That%20Slither%20kindergarten%20educational",
+   quiz:[
+     {q:"How many legs does a snake have?", options:["Two","Six","Zero","Four"], answer:2},
+     {q:"How does a snake move along the ground?", options:["By slithering","By hopping","By flying","By rolling"], answer:0},
+     {q:"What does a snake use its tongue to do?", options:["Smell the air around it","Fly","Dig tunnels","Taste colours"], answer:0},
+     {q:"A snake is what type of animal?", options:["A mammal","A bird","An insect","A reptile"], answer:3},
+     {q:"Some snakes shed their old ___ as they grow.", options:["Fur","Legs","Skin","Wings"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"How many legs does a snake have?", answers:["none","zero"]},
+     {prompt:"How does a snake move?", answers:["it slithers","slithering"]},
+     {prompt:"What does a snake use its tongue for?", answers:["to smell the air","smelling"]}
+   ]},
+  {subject:"SocialStudies", title:"The Great Lakes: Freshwater Seas of Canada", summary:"Kindergarten Social Studies strand: the Great Lakes are five enormous freshwater lakes along part of Canadas border, so large that they are sometimes called freshwater seas.",
+   resourceLabel:"YouTube: The Great Lakes: Freshwater Seas of Canada", resourceUrl:"https://www.youtube.com/results?search_query=The%20Great%20Lakes%3A%20Freshwater%20Seas%20of%20Canada%20kindergarten%20educational",
+   quiz:[
+     {q:"How many Great Lakes are there?", options:["Five","Six","Three","Four"], answer:0},
+     {q:"What kind of water fills the Great Lakes?", options:["Ice only","Rain only","Freshwater","Salt water"], answer:2},
+     {q:"Why are the Great Lakes sometimes called freshwater seas?", options:["Because they taste salty","Because they are very small","Because they are so large","Because they are frozen year round"], answer:2},
+     {q:"The Great Lakes are located along part of Canadas border with which country?", options:["Brazil","France","Mexico","The United States"], answer:3},
+     {q:"Learning about the Great Lakes helps us understand Canadian ___.", options:["Geography","Cooking","Music","Sports"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"How many Great Lakes are there?", answers:["five","5"]},
+     {prompt:"What kind of water is in the Great Lakes?", answers:["freshwater","fresh water"]},
+     {prompt:"Why are the Great Lakes sometimes called freshwater seas?", answers:["because they are so large","they are very big"]}
+   ]},
+]},
+{day:175, label:"Day 175 — Fri", subjects:[
+  {subject:"Language", title:"R-Controlled Vowels: are Words", summary:"Kindergarten Language strand: when the letters are appear together, they often make one sound, as in care, share, and bare.",
+   resourceLabel:"YouTube: R-Controlled Vowels: are Words", resourceUrl:"https://www.youtube.com/results?search_query=R-Controlled%20Vowels%3A%20are%20Words%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word has the are sound?", options:["Cup","Cat","Care","Cot"], answer:2},
+     {q:"Which of these words has the r-controlled are sound?", options:["Share","Ship","Shop","Shut"], answer:0},
+     {q:"Complete the rhyme: It is kind to ___ your toys with a friend.", options:["ship","shut","share","shop"], answer:2},
+     {q:"Which word rhymes with bare?", options:["But","Care","Bat","Bit"], answer:1},
+     {q:"R-controlled vowels change how a vowel ___.", options:["Sounds","Looks on the page","Is spelled only","Is coloured"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What sound do the letters are make in the word care?", answers:["the are sound","air sound"]},
+     {prompt:"Give another word that has the are sound.", answers:["share","bare"]},
+     {prompt:"Does the are sound in share rhyme with care?", answers:["yes","yes it does"]}
+   ]},
+  {subject:"Math", title:"Time: Elapsed Time - What Happens Next", summary:"Kindergarten Math strand: students think about the order of events and how much time passes between one activity and the next, such as what happens after breakfast and before school.",
+   resourceLabel:"YouTube: Time: Elapsed Time - What Happens Next", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Elapsed%20Time%20-%20What%20Happens%20Next%20kindergarten%20educational",
+   quiz:[
+     {q:"What usually happens right after waking up in the morning?", options:["Watching the sunset","Getting dressed","Eating dinner","Going to sleep"], answer:1},
+     {q:"Which meal usually happens first in the day?", options:["Breakfast","A midnight snack","Dinner","Dessert"], answer:0},
+     {q:"Thinking about what happens between two events is called thinking about ___.", options:["Elapsed time","Colour","Weight","Shape"], answer:0},
+     {q:"Which of these happens last in a typical school day?", options:["Eating breakfast","Waking up","Going home","Getting dressed"], answer:2},
+     {q:"Understanding the order of events helps us know what to do ___.", options:["Never","Next","Backwards only","Randomly"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What usually happens right after breakfast?", answers:["getting ready for school","brushing teeth"]},
+     {prompt:"Which happens first, lunch or dinner?", answers:["lunch","lunch happens first"]},
+     {prompt:"Why is it helpful to think about the order of our day?", answers:["it helps us know what comes next","it helps us plan"]}
+   ]},
+  {subject:"Science", title:"Glaciers: Rivers of Ice", summary:"Kindergarten Science strand: a glacier is a giant, slow-moving river of ice formed from packed snow over many years in very cold places.",
+   resourceLabel:"YouTube: Glaciers: Rivers of Ice", resourceUrl:"https://www.youtube.com/results?search_query=Glaciers%3A%20Rivers%20of%20Ice%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a glacier?", options:["A type of cloud","A giant, slow-moving river of ice","A desert sand dune","A warm ocean current"], answer:1},
+     {q:"What is a glacier made of?", options:["Packed snow and ice","Sand","Melted rock","Wood"], answer:0},
+     {q:"Where are glaciers usually found?", options:["In rainforests","In very cold places","In grasslands","In hot deserts"], answer:1},
+     {q:"How fast does a glacier usually move?", options:["Very slowly","Instantly","Very quickly","Never"], answer:0},
+     {q:"Glaciers form over many ___ from packed snow.", options:["Minutes","Seconds","Hours","Years"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What is a glacier made of?", answers:["packed snow and ice","ice"]},
+     {prompt:"How does a glacier move?", answers:["slowly","very slowly"]},
+     {prompt:"Where are glaciers usually found?", answers:["in very cold places","cold places"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Tailors and Seamstresses: Making and Fixing Clothes", summary:"Kindergarten Social Studies strand: tailors and seamstresses are workers who sew, make, and repair clothing so that people have clothes that fit well and last a long time.",
+   resourceLabel:"YouTube: Our Tailors and Seamstresses: Making and Fixing Clothes", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Tailors%20and%20Seamstresses%3A%20Making%20and%20Fixing%20Clothes%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a tailor or seamstress?", options:["Fixing pipes","Making and fixing clothes","Cooking food","Flying planes"], answer:1},
+     {q:"Which tool might a tailor use?", options:["A needle and thread","A stethoscope","A wrench","A shovel"], answer:0},
+     {q:"Why might a person visit a tailor?", options:["To see a doctor","To have clothing fixed or made to fit","To mail a letter","To buy groceries"], answer:1},
+     {q:"Tailors help make sure our clothes ___.", options:["Change colour","Fit well and last a long time","Fall apart quickly","Disappear"], answer:1},
+     {q:"A seamstress uses a sewing machine mainly to ___.", options:["Cook food","Fly planes","Sew pieces of fabric together","Deliver mail"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do tailors and seamstresses do?", answers:["sew and repair clothing","make and fix clothes"]},
+     {prompt:"Name one tool a tailor might use.", answers:["a needle","scissors"]},
+     {prompt:"Why might someone visit a tailor?", answers:["to fix or make clothing fit","to get clothes fixed"]}
+   ]},
+]},
+{day:176, label:"Day 176 — Mon", subjects:[
+  {subject:"Language", title:"Suffixes: Adding -ness to Change Meaning", summary:"Kindergarten Language strand: adding the suffix -ness to the end of a word can turn it into a naming word, such as changing happy into happiness, meaning the state of being happy.",
+   resourceLabel:"YouTube: Suffixes: Adding -ness to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Suffixes%3A%20Adding%20-ness%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word happiness mean?", options:["A colour","The state of being happy","A type of food","The state of being sad"], answer:1},
+     {q:"What does the suffix -ness usually add to a word?", options:["A place","An action","A number","The meaning of a state or quality"], answer:3},
+     {q:"Which word means the quality of being kind?", options:["Kindness","Kindly","Kinder","Unkind"], answer:0},
+     {q:"Adding -ness to the word soft makes the word ___.", options:["Softer","Unsoft","Softly","Softness, meaning the quality of being soft"], answer:3},
+     {q:"A suffix that turns a describing word into a naming word is often added to the ___ of a word.", options:["Middle","Nowhere","End","Beginning"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does happiness mean?", answers:["the state of being happy","being happy"]},
+     {prompt:"What does the suffix -ness usually do to a word?", answers:["turns it into a naming word","changes it to describe a state"]},
+     {prompt:"Give an example of a word with the suffix -ness.", answers:["happiness","kindness"]}
+   ]},
+  {subject:"Math", title:"Fractions: Comparing Halves, Thirds, and Fourths", summary:"Kindergarten Math strand: students compare halves, thirds, and fourths to notice that as a whole is cut into more equal parts, each part becomes smaller.",
+   resourceLabel:"YouTube: Fractions: Comparing Halves, Thirds, and Fourths", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Comparing%20Halves%2C%20Thirds%2C%20and%20Fourths%20kindergarten%20educational",
+   quiz:[
+     {q:"Which is larger, one half or one fourth of the same whole?", options:["One fourth","One half","They are equal","Neither"], answer:1},
+     {q:"How many equal parts are in a whole cut into thirds?", options:["Four","Three","Five","Two"], answer:1},
+     {q:"As a whole is cut into more equal parts, each part becomes ___.", options:["The same size","Invisible","Smaller","Larger"], answer:2},
+     {q:"Which fraction shows a whole cut into two equal parts?", options:["A half","A third","A whole","A fourth"], answer:0},
+     {q:"Comparing halves, thirds, and fourths helps us understand that fractions name ___.", options:["Only large numbers","Only whole numbers","Equal parts of a whole","Colours"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Which is bigger, a half or a fourth of the same shape?", answers:["a half","half is bigger"]},
+     {prompt:"How many parts are in a whole cut into thirds?", answers:["3","three"]},
+     {prompt:"As a shape is cut into more equal parts, what happens to each part?", answers:["it gets smaller","each part becomes smaller"]}
+   ]},
+  {subject:"Science", title:"Dolphins: Smart Swimmers of the Sea", summary:"Kindergarten Science strand: a dolphin is a smart ocean mammal that breathes air through a blowhole and uses clicking sounds to find food and talk to other dolphins.",
+   resourceLabel:"YouTube: Dolphins: Smart Swimmers of the Sea", resourceUrl:"https://www.youtube.com/results?search_query=Dolphins%3A%20Smart%20Swimmers%20of%20the%20Sea%20kindergarten%20educational",
+   quiz:[
+     {q:"How does a dolphin breathe?", options:["Through a blowhole","Through its skin","It does not breathe","Through gills"], answer:0},
+     {q:"What does a dolphin use clicking sounds for?", options:["Seeing in the dark only","Finding food and communicating","Swimming faster","Changing colour"], answer:1},
+     {q:"Is a dolphin a fish or a mammal?", options:["A fish","A reptile","An insect","A mammal"], answer:3},
+     {q:"Dolphins often swim together in a group called a ___.", options:["Herd","Pod","Flock","Pack"], answer:1},
+     {q:"Dolphins are known for being very ___ animals.", options:["Sleepy","Slow","Silent","Smart"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"How does a dolphin breathe?", answers:["through a blowhole","it breathes air"]},
+     {prompt:"What does a dolphin use clicking sounds for?", answers:["to find food","to talk to other dolphins"]},
+     {prompt:"Is a dolphin a fish or a mammal?", answers:["a mammal","mammal"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Border Officers: Keeping Our Country Safe", summary:"Kindergarten Social Studies strand: border officers check people and goods entering the country to help keep our communities safe and make sure rules are followed.",
+   resourceLabel:"YouTube: Our Border Officers: Keeping Our Country Safe", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Border%20Officers%3A%20Keeping%20Our%20Country%20Safe%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a border officer?", options:["Fixing pipes","Flying planes","Checking people and goods entering the country","Cutting hair"], answer:2},
+     {q:"Why is the work of a border officer important?", options:["It is not important","It teaches school","It only sells tickets","It helps keep our country safe"], answer:3},
+     {q:"Where might a border officer work?", options:["Underwater","In outer space","At an airport or border crossing","In a kitchen"], answer:2},
+     {q:"Border officers help make sure travellers follow the ___.", options:["Songs","Recipes","Rules","Weather"], answer:2},
+     {q:"Which of these might a border officer check?", options:["Bus schedules","Grocery lists","Passports and bags","Library books"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do border officers check?", answers:["people and goods entering the country","travellers and goods"]},
+     {prompt:"Why is the work of border officers important?", answers:["it helps keep our country safe","to help follow the rules"]},
+     {prompt:"Name one place where a border officer might work.", answers:["an airport","a border crossing"]}
+   ]},
+]},
+{day:177, label:"Day 177 — Tue", subjects:[
+  {subject:"Language", title:"Prefixes: Adding Non- to Change Meaning", summary:"Kindergarten Language strand: adding the prefix non- to the start of a word can mean not, such as changing fiction into nonfiction, meaning writing that is not made up.",
+   resourceLabel:"YouTube: Prefixes: Adding Non- to Change Meaning", resourceUrl:"https://www.youtube.com/results?search_query=Prefixes%3A%20Adding%20Non-%20to%20Change%20Meaning%20kindergarten%20educational",
+   quiz:[
+     {q:"What does the word nonfiction mean?", options:["A silent word","A type of poem","Writing that is true and not made up","A made-up story"], answer:2},
+     {q:"What does the prefix non- usually add to a word?", options:["A colour","The meaning of not","The meaning of again","A number"], answer:1},
+     {q:"Which word means without stopping?", options:["Stopping","Stopped","Restop","Nonstop"], answer:3},
+     {q:"Adding non- to the word sense makes the word ___.", options:["Nonsense, meaning without sense","Resense","Sensible","Sensing only"], answer:0},
+     {q:"A prefix is added to the ___ of a word.", options:["Beginning","End","Middle","Nowhere"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does nonfiction mean?", answers:["writing that is not made up","true writing"]},
+     {prompt:"What does the prefix non- usually mean?", answers:["not","the opposite of"]},
+     {prompt:"Give an example of a word with the prefix non-.", answers:["nonfiction","nonstop"]}
+   ]},
+  {subject:"Math", title:"Money: Making Change from a Dollar", summary:"Kindergarten Math strand: students figure out how much change should be given back when something costing less than a dollar is paid for with a dollar.",
+   resourceLabel:"YouTube: Money: Making Change from a Dollar", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20Change%20from%20a%20Dollar%20kindergarten%20educational",
+   quiz:[
+     {q:"If something costs 60 cents and you pay with a dollar, how much change should you get back?", options:["45 cents","30 cents","35 cents","40 cents"], answer:3},
+     {q:"If something costs 25 cents and you pay with a dollar, how much change should you get back?", options:["75 cents","80 cents","65 cents","70 cents"], answer:0},
+     {q:"How many cents are in one dollar?", options:["50","75","100","150"], answer:2},
+     {q:"If something costs 90 cents and you pay with a dollar, how much change should you get back?", options:["10 cents","20 cents","15 cents","5 cents"], answer:0},
+     {q:"Making change means figuring out how much money should be ___.", options:["Kept forever","Hidden","Thrown away","Given back"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"If something costs 60 cents and you pay with a dollar, how much change do you get back?", answers:["40 cents","40"]},
+     {prompt:"How many cents are in one dollar?", answers:["100","one hundred"]},
+     {prompt:"If something costs 25 cents and you pay with a dollar, how much change do you get back?", answers:["75 cents","75"]}
+   ]},
+  {subject:"Science", title:"Sea Otters: Ocean Animals That Use Tools", summary:"Kindergarten Science strand: a sea otter is a furry ocean mammal that floats on its back and uses rocks as tools to crack open shellfish for food.",
+   resourceLabel:"YouTube: Sea Otters: Ocean Animals That Use Tools", resourceUrl:"https://www.youtube.com/results?search_query=Sea%20Otters%3A%20Ocean%20Animals%20That%20Use%20Tools%20kindergarten%20educational",
+   quiz:[
+     {q:"What does a sea otter often use as a tool?", options:["A stick","A leaf","A shell only","A rock"], answer:3},
+     {q:"How does a sea otter often float and eat?", options:["Buried in sand","On its back","Upside down underwater","Standing on land"], answer:1},
+     {q:"What keeps a sea otter warm in cold ocean water?", options:["A shell","Blubber only","Feathers","Its thick fur"], answer:3},
+     {q:"Sea otters mainly eat ___.", options:["Leaves","Grass","Fruit","Shellfish"], answer:3},
+     {q:"Using a rock to crack open a shell shows that sea otters can use ___.", options:["Fire","Tools","Machines","Wheels"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does a sea otter use to crack open shellfish?", answers:["a rock","rocks as tools"]},
+     {prompt:"How does a sea otter often rest or eat?", answers:["floating on its back","it floats"]},
+     {prompt:"What keeps a sea otter warm in cold water?", answers:["its thick fur","thick fur"]}
+   ]},
+  {subject:"SocialStudies", title:"Provincial Symbols: Flowers, Birds, and Trees of Our Province", summary:"Kindergarten Social Studies strand: each Canadian province and territory has its own special symbols, such as an official flower, bird, or tree, that represent its identity.",
+   resourceLabel:"YouTube: Provincial Symbols: Flowers, Birds, and Trees of Our Province", resourceUrl:"https://www.youtube.com/results?search_query=Provincial%20Symbols%3A%20Flowers%2C%20Birds%2C%20and%20Trees%20of%20Our%20Province%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these can be an official symbol of a province?", options:["Only a colour","A flower, bird, or tree","Only a number","Only a food"], answer:1},
+     {q:"What does a provincial symbol usually represent?", options:["The identity of the province","Nothing important","A type of weather","A single family"], answer:0},
+     {q:"Why might a province choose an official flower or bird?", options:["To represent what makes it special","To confuse people","Flowers have no meaning","To copy another province"], answer:0},
+     {q:"Learning about provincial symbols helps us understand Canadian ___.", options:["Diversity","Cooking","Sports scores","Math"], answer:0},
+     {q:"Every Canadian province and territory has its own set of official ___.", options:["Symbols","Foods only","Songs only","Languages only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Name one kind of symbol a province might have.", answers:["a flower","a bird"]},
+     {prompt:"What does an official provincial symbol represent?", answers:["the identity of the province","the province"]},
+     {prompt:"Why do provinces choose special symbols?", answers:["to represent their identity","to show what makes them special"]}
+   ]},
+]},
+{day:178, label:"Day 178 — Wed", subjects:[
+  {subject:"Language", title:"Punctuation: Quotation Marks for Speech", summary:"Kindergarten Language strand: quotation marks are used to show the exact words a character says out loud in a story.",
+   resourceLabel:"YouTube: Punctuation: Quotation Marks for Speech", resourceUrl:"https://www.youtube.com/results?search_query=Punctuation%3A%20Quotation%20Marks%20for%20Speech%20kindergarten%20educational",
+   quiz:[
+     {q:"What punctuation mark shows the exact words a character says?", options:["A comma","Quotation marks","A period","A question mark"], answer:1},
+     {q:"Where are quotation marks placed around spoken words?", options:["Only at the start of the sentence","Only at the end of the sentence","Nowhere near the words","Before and after the spoken words"], answer:3},
+     {q:"Which sentence correctly uses quotation marks?", options:["She said; I am happy","She said, I am happy","She said. I am happy.","She said I am happy"], answer:1},
+     {q:"Quotation marks help readers know that someone is ___.", options:["Speaking","Running","Sleeping","Painting"], answer:0},
+     {q:"Which of these would most likely use quotation marks?", options:["A math equation","A single letter","A list of numbers","A characters spoken words in a story"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What punctuation mark shows the exact words someone says?", answers:["quotation marks","quote marks"]},
+     {prompt:"Where do quotation marks go in a sentence with speech?", answers:["around the spoken words","before and after the words"]},
+     {prompt:"Give an example of a sentence that uses quotation marks.", answers:["She said, I am happy","He said, Look at that"]}
+   ]},
+  {subject:"Math", title:"Measurement: Estimating and Measuring with Non-Standard Units", summary:"Kindergarten Math strand: students estimate then measure the length of objects using non-standard units like paper clips or cubes, then check how close their estimate was.",
+   resourceLabel:"YouTube: Measurement: Estimating and Measuring with Non-Standard Units", resourceUrl:"https://www.youtube.com/results?search_query=Measurement%3A%20Estimating%20and%20Measuring%20with%20Non-Standard%20Units%20kindergarten%20educational",
+   quiz:[
+     {q:"Which of these could be used as a non-standard measuring unit?", options:["A thermometer","A clock","A paper clip","A ruler with numbers"], answer:2},
+     {q:"What does it mean to estimate a length?", options:["To measure with a ruler exactly","To count its sides","To make a careful guess before measuring","To weigh an object"], answer:2},
+     {q:"Why do we check our estimate after measuring an object?", options:["To see how close our guess was","To change its colour","To make the object longer","Checking is never useful"], answer:0},
+     {q:"If a pencil is about 8 paper clips long, this tells us its ___ using a non-standard unit.", options:["Length","Colour","Temperature","Weight"], answer:0},
+     {q:"Using non-standard units like cubes to measure helps us practice ___.", options:["Telling time","Sorting shapes","Counting money","Measuring length"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name a non-standard unit that could be used to measure length.", answers:["a paper clip","a cube"]},
+     {prompt:"What does it mean to estimate a length before measuring?", answers:["to guess about how long it is","to make a careful guess"]},
+     {prompt:"Why do we check our estimate after measuring?", answers:["to see how close our guess was","to compare it to the real length"]}
+   ]},
+  {subject:"Science", title:"Caves: Underground Homes for Bats and Bugs", summary:"Kindergarten Science strand: a cave is a large, dark, hollow space underground or inside a mountain that provides shelter for animals like bats and insects.",
+   resourceLabel:"YouTube: Caves: Underground Homes for Bats and Bugs", resourceUrl:"https://www.youtube.com/results?search_query=Caves%3A%20Underground%20Homes%20for%20Bats%20and%20Bugs%20kindergarten%20educational",
+   quiz:[
+     {q:"Where are caves usually found?", options:["Underground or inside a mountain","On top of the ocean","Floating in the sky","Inside a cloud"], answer:0},
+     {q:"Which animal often makes its home inside a cave?", options:["A bat","A polar bear","A hummingbird","A dolphin"], answer:0},
+     {q:"What is the inside of a cave usually like?", options:["Covered in snow","Bright and sunny","Dark and hollow","Full of water only"], answer:2},
+     {q:"Caves provide animals like bats with ___.", options:["Shelter","Nothing useful","Sunlight","Food only"], answer:0},
+     {q:"A cave habitat is mostly known for being ___.", options:["Dark and sheltered","Underwater always","Covered in sand","Bright and open"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where are caves usually found?", answers:["underground or inside a mountain","underground"]},
+     {prompt:"Name one animal that might live in a cave.", answers:["a bat","a bug"]},
+     {prompt:"What is a cave usually like inside?", answers:["dark","large and dark"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Photographers: Capturing Special Moments", summary:"Kindergarten Social Studies strand: photographers use cameras to capture special moments, such as celebrations and events, so that communities can remember them.",
+   resourceLabel:"YouTube: Our Photographers: Capturing Special Moments", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Photographers%3A%20Capturing%20Special%20Moments%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a photographer?", options:["Flying planes","Cutting hair","Capturing special moments with a camera","Fixing pipes"], answer:2},
+     {q:"What tool does a photographer mainly use?", options:["A wrench","A shovel","A stethoscope","A camera"], answer:3},
+     {q:"Why might a community hire a photographer for an event?", options:["To clean the venue","Photographs are never useful","To make the event louder","To remember the special moment"], answer:3},
+     {q:"Photographs help people look back on ___.", options:["Only the weather","Special memories","Nothing important","Only math problems"], answer:1},
+     {q:"Which of these might a photographer take pictures of?", options:["A bus schedule","A math test","A grocery list","A community festival"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What tool does a photographer use?", answers:["a camera","camera"]},
+     {prompt:"What do photographers capture?", answers:["special moments","pictures of events"]},
+     {prompt:"Why might a community want photographs of an event?", answers:["to remember it","to look back on it later"]}
+   ]},
+]},
+{day:179, label:"Day 179 — Thu", subjects:[
+  {subject:"Language", title:"Text Connections: Relating Stories to Our Own Lives", summary:"Kindergarten Language strand: readers make text connections by thinking about how a story relates to something that has happened in their own lives.",
+   resourceLabel:"YouTube: Text Connections: Relating Stories to Our Own Lives", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Connections%3A%20Relating%20Stories%20to%20Our%20Own%20Lives%20kindergarten%20educational",
+   quiz:[
+     {q:"What is a text connection?", options:["Reading the title only","Looking at the cover only","Relating a story to your own life","Counting the pages"], answer:2},
+     {q:"Why might a reader make a text connection while reading?", options:["Connections are never helpful","It changes the ending","It makes the book longer","It helps them understand the story better"], answer:3},
+     {q:"Which is an example of making a text connection?", options:["Closing the book immediately","Thinking about your own pet while reading about a pet","Skipping every page","Ignoring the story completely"], answer:1},
+     {q:"Text connections can help readers feel more ___ to a story.", options:["Bored","Connected","Confused","Distant"], answer:1},
+     {q:"Making connections between a story and our own lives is a skill used by good ___.", options:["Builders","Readers","Painters","Drivers"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is a text connection?", answers:["relating a story to your own life","connecting a story to something you know"]},
+     {prompt:"Why do readers make text connections?", answers:["to understand the story better","it helps understanding"]},
+     {prompt:"Give an example of a text connection you could make with a story about pets.", answers:["thinking about your own pet","remembering a pet you have"]}
+   ]},
+  {subject:"Math", title:"Ordinal Numbers: 6th to 10th", summary:"Kindergarten Math strand: students extend their understanding of ordinal numbers, naming positions from sixth to tenth in a line or sequence.",
+   resourceLabel:"YouTube: Ordinal Numbers: 6th to 10th", resourceUrl:"https://www.youtube.com/results?search_query=Ordinal%20Numbers%3A%206th%20to%2010th%20kindergarten%20educational",
+   quiz:[
+     {q:"What ordinal number comes right after fifth?", options:["Sixth","Seventh","Fourth","Eighth"], answer:0},
+     {q:"Which ordinal number describes the last position in a line of ten?", options:["Ninth","First","Tenth","Fifth"], answer:2},
+     {q:"What ordinal number comes between eighth and tenth?", options:["Ninth","Seventh","Fifth","Sixth"], answer:0},
+     {q:"If a child is seventh in line, how many children are in front of them?", options:["8","7","5","6"], answer:3},
+     {q:"Ordinal numbers are used to describe ___ in a sequence.", options:["Temperature","Weight","Position","Colour"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What ordinal number comes after fifth?", answers:["sixth","6th"]},
+     {prompt:"What position is tenth in a line of ten people?", answers:["last","the last position"]},
+     {prompt:"What ordinal number comes between eighth and tenth?", answers:["ninth","9th"]}
+   ]},
+  {subject:"Science", title:"Fireflies: Bugs That Glow in the Dark", summary:"Kindergarten Science strand: a firefly is a small flying insect that makes its own light using a special part of its body, glowing to attract other fireflies at night.",
+   resourceLabel:"YouTube: Fireflies: Bugs That Glow in the Dark", resourceUrl:"https://www.youtube.com/results?search_query=Fireflies%3A%20Bugs%20That%20Glow%20in%20the%20Dark%20kindergarten%20educational",
+   quiz:[
+     {q:"What is special about a firefly?", options:["It has no wings","It can make its own light","It can breathe underwater","It cannot fly"], answer:1},
+     {q:"When do fireflies usually glow?", options:["Only underwater","Only at noon","At night","Never"], answer:2},
+     {q:"Why do fireflies glow?", options:["To dig tunnels","To scare away the sun","To attract other fireflies","To stay cool"], answer:2},
+     {q:"A firefly is what type of animal?", options:["A reptile","An insect","A fish","A mammal"], answer:1},
+     {q:"Fireflies making their own light is an example of something called ___.", options:["Bioluminescence","Migration","Hibernation","Camouflage"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does a firefly do at night?", answers:["it glows","makes light"]},
+     {prompt:"What part of a firefly makes light?", answers:["a special part of its body","its lower body"]},
+     {prompt:"Why does a firefly glow?", answers:["to attract other fireflies","to signal to other fireflies"]}
+   ]},
+  {subject:"SocialStudies", title:"Canadas National Parks: Protecting Special Places", summary:"Kindergarten Social Studies strand: Canada has many national parks that protect forests, mountains, and wildlife so that special natural places can be enjoyed for years to come.",
+   resourceLabel:"YouTube: Canadas National Parks: Protecting Special Places", resourceUrl:"https://www.youtube.com/results?search_query=Canadas%20National%20Parks%3A%20Protecting%20Special%20Places%20kindergarten%20educational",
+   quiz:[
+     {q:"What do national parks help protect?", options:["Only stores","Forests, mountains, and wildlife","Only buildings","Only roads"], answer:1},
+     {q:"Why are national parks important to Canada?", options:["They protect special natural places","They stop all animals from living there","They are only for one family","They have no purpose"], answer:0},
+     {q:"Which of these might you see while visiting a national park?", options:["A shopping mall","A factory","Wildlife and mountains","A hospital"], answer:2},
+     {q:"National parks help make sure natural places can be enjoyed ___.", options:["Never again","Only once","For years to come","Only by rangers"], answer:2},
+     {q:"Protecting national parks is an example of caring for our ___.", options:["Furniture","Homework","Toys","Environment"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What do national parks protect?", answers:["forests, mountains, and wildlife","nature"]},
+     {prompt:"Why are national parks important?", answers:["they protect special places","so nature can be enjoyed for years to come"]},
+     {prompt:"Name one thing you might see in a national park.", answers:["wildlife","mountains"]}
+   ]},
+]},
+{day:180, label:"Day 180 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: New Sounds, Word Endings, and Punctuation", summary:"Kindergarten Language strand review: students revisit the -ay, -oy, and -ink word families, vowel team oo, r-controlled are, the suffix -ness, the prefix non-, quotation marks, and making text connections.",
+   resourceLabel:"YouTube: Language Review: New Sounds, Word Endings, and Punctuation", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20New%20Sounds%2C%20Word%20Endings%2C%20and%20Punctuation%20kindergarten%20educational",
+   quiz:[
+     {q:"Which word belongs to the -ay family?", options:["Sun","Top","Bed","Play"], answer:3},
+     {q:"Which word has the oo vowel team?", options:["Man","Mud","Moon","Mat"], answer:2},
+     {q:"What does the word nonfiction mean?", options:["A silent word","A type of poem","A made-up story","Writing that is true and not made up"], answer:3},
+     {q:"What punctuation mark shows the exact words a character says?", options:["A period","A comma","A question mark","Quotation marks"], answer:3},
+     {q:"What is a text connection?", options:["Counting the pages","Reading the title only","Relating a story to your own life","Looking at the cover only"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Name a word from the -ay, -oy, or -ink family.", answers:["day","toy"]},
+     {prompt:"What does the prefix non- usually mean?", answers:["not"]},
+     {prompt:"What punctuation mark shows the exact words someone says?", answers:["quotation marks"]}
+   ]},
+  {subject:"Math", title:"Math Review: Number Bonds, Big Numbers, and Elapsed Time", summary:"Kindergarten Math strand review: students revisit skip counting by 9s, number bonds to 13, counting to 150, adding two-digit numbers, elapsed time, comparing fractions, making change, non-standard measurement, and ordinal numbers to tenth.",
+   resourceLabel:"YouTube: Math Review: Number Bonds, Big Numbers, and Elapsed Time", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Number%20Bonds%2C%20Big%20Numbers%2C%20and%20Elapsed%20Time%20kindergarten%20educational",
+   quiz:[
+     {q:"What comes next: 9, 18, 27, ___?", options:["36","35","37","28"], answer:0},
+     {q:"Which pair of numbers makes 13?", options:["5 and 9","4 and 10","3 and 8","6 and 7"], answer:3},
+     {q:"What is 23 plus 15?", options:["37","36","38","35"], answer:2},
+     {q:"If something costs 60 cents and you pay with a dollar, how much change should you get back?", options:["40 cents","30 cents","35 cents","45 cents"], answer:0},
+     {q:"Which ordinal number describes the last position in a line of ten?", options:["First","Tenth","Ninth","Fifth"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What comes next: 9, 18, 27, ___?", answers:["36"]},
+     {prompt:"Which pair of numbers makes 13?", answers:["6 and 7"]},
+     {prompt:"What number comes right before 150?", answers:["149"]}
+   ]},
+  {subject:"Science", title:"Science Review: New Animals, Ice, and Underground Life", summary:"Kindergarten Science strand review: students revisit the life cycle of a sea turtle, crabs, polar bears, snakes, glaciers, dolphins, sea otters, caves, and fireflies.",
+   resourceLabel:"YouTube: Science Review: New Animals, Ice, and Underground Life", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20New%20Animals%2C%20Ice%2C%20and%20Underground%20Life%20kindergarten%20educational",
+   quiz:[
+     {q:"Where does a sea turtle begin its life?", options:["As an egg in the snow","As an adult in the ocean","As an egg buried in warm sand","As an egg in a tree"], answer:2},
+     {q:"How many legs does a crab have?", options:["Eight","Twelve","Ten","Six"], answer:2},
+     {q:"What colour is a polar bears thick fur?", options:["Orange","White","Green","Black"], answer:1},
+     {q:"What is a glacier?", options:["A type of cloud","A giant, slow-moving river of ice","A warm ocean current","A desert sand dune"], answer:1},
+     {q:"Why do fireflies glow?", options:["To dig tunnels","To stay cool","To scare away the sun","To attract other fireflies"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Where does a sea turtle begin its life?", answers:["as an egg buried in warm sand"]},
+     {prompt:"What colour is a polar bears fur?", answers:["white"]},
+     {prompt:"Why do fireflies glow?", answers:["to attract other fireflies"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Workers, Lakes, and Canadian Symbols", summary:"Kindergarten Social Studies strand review: students revisit water treatment workers, meteorologists, beekeepers, the Great Lakes, tailors and seamstresses, border officers, provincial symbols, photographers, and Canadas national parks.",
+   resourceLabel:"YouTube: Social Studies Review: Workers, Lakes, and Canadian Symbols", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Workers%2C%20Lakes%2C%20and%20Canadian%20Symbols%20kindergarten%20educational",
+   quiz:[
+     {q:"What is the main job of a water treatment worker?", options:["Teaching school","Flying planes","Cleaning and testing water","Cutting hair"], answer:2},
+     {q:"What is the main job of a meteorologist?", options:["Flying planes","Fixing pipes","Forecasting the weather","Cutting hair"], answer:2},
+     {q:"How many Great Lakes are there?", options:["Six","Five","Three","Four"], answer:1},
+     {q:"What is the main job of a border officer?", options:["Fixing pipes","Flying planes","Cutting hair","Checking people and goods entering the country"], answer:3},
+     {q:"What is the main job of a photographer?", options:["Cutting hair","Capturing special moments with a camera","Fixing pipes","Flying planes"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is the main job of a water treatment worker?", answers:["cleaning and testing water"]},
+     {prompt:"How many Great Lakes are there?", answers:["five"]},
+     {prompt:"What is the main job of a photographer?", answers:["capturing special moments with a camera"]}
    ]},
 ]},
 ];

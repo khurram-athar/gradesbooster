@@ -13323,6 +13323,7 @@
         "summary": "Grade 8 Reading strand: verbal irony occurs when a speaker means the opposite of what they say, situational irony occurs when an outcome contradicts expectations, and dramatic irony occurs when the audience knows something a character does not.",
         "resourceLabel": "TVO Learn: Grade 8 Language",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "videoUrl": "https://www.youtube.com/watch?v=TJJ8Kf79Ax0",
         "quiz": [
           {
             "q": "Verbal irony occurs when ___.",
@@ -13382,6 +13383,7 @@
         "summary": "Grade 8 Math strand: a Venn diagram visually represents overlapping and non-overlapping sets, and set notation, such as union (∪) and intersection (∩), can be used to calculate probabilities involving multiple events.",
         "resourceLabel": "TVO Learn: Grade 8 Mathematics",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "videoUrl": "https://www.youtube.com/watch?v=nSyTD8GgfKk",
         "quiz": [
           {
             "q": "A Venn diagram is used to visually represent ___.",
@@ -13441,6 +13443,7 @@
         "summary": "Grade 8 Science strand: a chemical reaction rearranges atoms into new substances, and a balanced chemical equation shows equal numbers of each type of atom on both sides, reflecting the law of conservation of mass.",
         "resourceLabel": "TVO Learn: Grade 8 Science & Technology",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "videoUrl": "https://www.youtube.com/watch?v=X7ckfeRjjvI",
         "quiz": [
           {
             "q": "A chemical reaction occurs when ___.",
@@ -13500,6 +13503,7 @@
         "summary": "Grade 8 History strand: the Regina Manifesto of 1933 outlined the founding principles of the Co-operative Commonwealth Federation (CCF), a political party advocating for social welfare programs and economic reform during the Great Depression.",
         "resourceLabel": "TVO Learn: Grade 8 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-8-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=ViudZSUKek8",
         "quiz": [
           {
             "q": "The Regina Manifesto outlined the founding principles of ___.",
@@ -41381,6 +41385,2426 @@
               "Justice Thomas Berger"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "label": "Day 171 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Prepositional Phrases and Their Function in a Sentence",
+        "summary": "Grade 8 Language strand: a prepositional phrase begins with a preposition, such as in, on, or under, and ends with a noun or pronoun called the object of the preposition, functioning as an adjective or an adverb within a sentence.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a prepositional phrase begin with?",
+            "options": [
+              "A verb",
+              "A conjunction",
+              "A preposition",
+              "A comma"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the noun or pronoun at the end of a prepositional phrase called?",
+            "options": [
+              "The object of the preposition",
+              "The antecedent",
+              "The subject of the sentence",
+              "The main verb"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a prepositional phrase?",
+            "options": [
+              "The tall boy",
+              "Sang very loudly",
+              "Quickly ran away",
+              "Under the old bridge"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two roles can a prepositional phrase play in a sentence?",
+            "options": [
+              "Acting only as a subject",
+              "Acting as an adjective or an adverb",
+              "Acting only as a conjunction",
+              "Acting only as a main verb"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it useful to recognize prepositional phrases when finding the subject of a sentence?",
+            "options": [
+              "Every sentence must begin with a prepositional phrase",
+              "Prepositional phrases replace the need for a subject entirely",
+              "Prepositional phrases always contain the subject of a sentence",
+              "The true subject of a sentence is never located inside a prepositional phrase"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to Skewness and Distribution Shape",
+        "summary": "Grade 8 Math strand: skewness describes the asymmetry of a data distribution, with a right-skewed, or positively skewed, distribution having a longer tail toward higher values and a left-skewed distribution having a longer tail toward lower values.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does skewness describe about a data distribution?",
+            "options": [
+              "The units used to measure the data",
+              "The colour used to display a graph",
+              "The exact number of data points collected",
+              "Its asymmetry, or how unevenly the data is spread"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a right-skewed, or positively skewed, distribution look like?",
+            "options": [
+              "A shape with no tail on either side",
+              "A longer tail stretching toward higher values",
+              "A perfectly symmetrical shape",
+              "A longer tail stretching toward lower values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a left-skewed distribution look like?",
+            "options": [
+              "A distribution with only one possible value",
+              "A longer tail stretching toward lower values",
+              "An identical shape to a right-skewed distribution",
+              "A longer tail stretching toward higher values"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In a distribution with no skew, how do the mean and median typically compare?",
+            "options": [
+              "They can never be calculated for the same data set",
+              "The median is always much larger than the mean",
+              "They are approximately equal",
+              "The mean is always much larger than the median"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to check the skewness of a data set before choosing the mean or median to describe it?",
+            "options": [
+              "The mean is always the best choice regardless of skewness",
+              "A skewed distribution can make the mean a misleading measure of a typical value",
+              "Skewed data sets cannot have a mean or a median calculated",
+              "Skewness has no effect on which measure best describes a data set"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Sunscreen and UV Protection",
+        "summary": "Grade 8 Science strand: sunscreen protects skin using chemical compounds that either absorb ultraviolet radiation and convert it into harmless heat or physically reflect and scatter UV rays away from the skin.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does sunscreen protect the skin from?",
+            "options": [
+              "Loud noise",
+              "Ultraviolet radiation from the sun",
+              "Extreme cold temperatures",
+              "Visible light only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do chemical sunscreen compounds do to ultraviolet radiation?",
+            "options": [
+              "Absorb it and convert it into harmless heat",
+              "Amplify its strength before it reaches the skin",
+              "Freeze it instantly",
+              "Turn it into visible light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do physical, or mineral, sunscreens protect the skin?",
+            "options": [
+              "By reflecting and scattering UV rays away from the skin",
+              "By cooling the skin directly",
+              "By blocking oxygen from reaching the skin",
+              "By absorbing all visible light"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the SPF number on a sunscreen bottle generally indicate?",
+            "options": [
+              "The exact temperature the sunscreen can withstand",
+              "The number of ingredients used in the product",
+              "The weight of the sunscreen bottle",
+              "A measure of how well the product protects skin from UV-related burning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding the chemistry of sunscreen useful for protecting long-term skin health?",
+            "options": [
+              "Sunscreen works by removing oxygen from the skin",
+              "It helps explain how repeated UV exposure can be reduced through absorption or reflection of harmful rays",
+              "Sunscreen has no proven effect on skin health",
+              "UV radiation cannot damage skin cells in any way"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Introduction of the Metric System in Canada",
+        "summary": "Grade 8 History strand: beginning in the early 1970s, the federal government led a gradual conversion from imperial to metric measurement, changing how Canadians reported weather, fuel prices, and product weights over the following decade.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what decade did Canada begin its transition to the metric system?",
+            "options": [
+              "The 1860s",
+              "The 1970s",
+              "The 1920s",
+              "The 1990s"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of measurement system did Canada convert away from during metrication?",
+            "options": [
+              "The binary numbering system",
+              "The decimal currency system",
+              "The imperial system",
+              "The Roman numeral system"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which everyday measurement was among the first to be reported in metric units in Canada?",
+            "options": [
+              "The length of a school year",
+              "The number of provinces",
+              "The price of a house",
+              "Weather temperature"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who led the process of converting Canada to the metric system?",
+            "options": [
+              "A foreign government",
+              "The federal government",
+              "A single private company",
+              "An individual citizen acting alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why did some Canadians resist the switch to the metric system at the time?",
+            "options": [
+              "Nobody in Canada ever used the imperial system before this change",
+              "The change had no effect on daily life at all",
+              "Many people were accustomed to imperial units and found the change inconvenient",
+              "The metric system was completely unknown anywhere else in the world"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "label": "Day 172 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Acronyms and Initialisms",
+        "summary": "Grade 8 Language strand: an acronym forms a new pronounceable word from the first letters of a phrase, such as laser, while an initialism is read letter by letter, such as FBI, and both are common shortcuts in everyday and technical language.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an acronym?",
+            "options": [
+              "A word borrowed unchanged from another language",
+              "A word formed from the first letters of a phrase that is pronounced as a word",
+              "A word that means the opposite of another word",
+              "A word with no vowels at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is an initialism different from an acronym?",
+            "options": [
+              "An initialism and an acronym are always identical",
+              "An initialism is always longer than an acronym",
+              "An initialism is read letter by letter rather than pronounced as a word",
+              "An initialism never uses capital letters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of an acronym?",
+            "options": [
+              "USA",
+              "Laser",
+              "FBI",
+              "CBC"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of an initialism?",
+            "options": [
+              "Laser",
+              "Radar",
+              "FBI",
+              "Scuba"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why have acronyms and initialisms become common in technical and scientific writing?",
+            "options": [
+              "They are required by law in all formal documents",
+              "They replace the need for punctuation in a sentence",
+              "They make technical writing more difficult to understand on purpose",
+              "They provide a short, efficient way to refer to a long, repeated term"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: An Introduction to Triangular Numbers",
+        "summary": "Grade 8 Math strand: a triangular number is the sum of consecutive whole numbers starting from one, such as 1, 3, 6, and 10, and can be visualized as dots arranged in the shape of an equilateral triangle.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is a triangular number?",
+            "options": [
+              "A number with exactly three digits",
+              "A number that can only be an even number",
+              "A number that is always divisible by three",
+              "A number formed by summing consecutive whole numbers starting from one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a triangular number?",
+            "options": [
+              "8",
+              "11",
+              "9",
+              "10"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What shape can triangular numbers be arranged into using dots?",
+            "options": [
+              "An equilateral triangle",
+              "A perfect square",
+              "A circle",
+              "A straight line only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the fourth triangular number, found by adding 1 + 2 + 3 + 4?",
+            "options": [
+              "8",
+              "12",
+              "10",
+              "9"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are triangular numbers considered a useful introduction to figurate numbers in mathematics?",
+            "options": [
+              "They only apply to numbers greater than one hundred",
+              "They show how a simple sum of consecutive numbers can correspond to a geometric pattern",
+              "They have no connection to any geometric shape",
+              "They can never be represented visually"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: The Physics of Roller Coasters and Energy Conservation",
+        "summary": "Grade 8 Science strand: a roller coaster relies on the conversion between gravitational potential energy at the top of a hill and kinetic energy as it descends, with the total mechanical energy remaining approximately constant throughout the ride.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What type of energy does a roller coaster car have at the top of a tall hill?",
+            "options": [
+              "Only sound energy",
+              "Only thermal energy",
+              "Only chemical energy",
+              "Gravitational potential energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to potential energy as a roller coaster car descends a hill?",
+            "options": [
+              "It increases without any corresponding change in speed",
+              "It converts into kinetic energy, increasing the cars speed",
+              "It converts entirely into sound with no motion produced",
+              "It disappears completely with no conversion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the law of conservation of energy, what happens to the total mechanical energy of an ideal roller coaster?",
+            "options": [
+              "It disappears entirely at the first hill",
+              "It constantly increases with no limit",
+              "It only exists at the very end of the ride",
+              "It remains approximately constant throughout the ride"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the first hill of a roller coaster typically the tallest hill on the ride?",
+            "options": [
+              "The first hill produces no potential energy at all",
+              "The height of hills has no effect on a roller coasters speed",
+              "Later hills always need to be taller than the first",
+              "It must provide enough initial potential energy for the rest of the ride, since energy is gradually lost to friction and air resistance"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do roller coasters eventually slow down and require a motor to be lifted again?",
+            "options": [
+              "Friction and air resistance gradually convert mechanical energy into heat and sound",
+              "Roller coasters never lose any energy during a ride",
+              "Motors are used only for decoration, not for lifting cars",
+              "Potential energy always increases as a coaster runs"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Founding of the National Film Board of Canada in 1939",
+        "summary": "Grade 8 History strand: established in 1939 under founding commissioner John Grierson, the National Film Board of Canada was created to produce and distribute documentary and animated films that would help interpret Canada to Canadians and to the world.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the National Film Board of Canada established?",
+            "options": [
+              "1939",
+              "1921",
+              "1949",
+              "1867"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who served as the founding commissioner of the National Film Board?",
+            "options": [
+              "John Grierson",
+              "William Lyon Mackenzie King",
+              "Lester Pearson",
+              "Tommy Douglas"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What type of films did the National Film Board primarily produce?",
+            "options": [
+              "Only silent films with no sound",
+              "Only films made outside of Canada",
+              "Only feature-length action films",
+              "Documentary and animated films"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was one goal of creating the National Film Board?",
+            "options": [
+              "To replace all Canadian newspapers",
+              "To help interpret Canada to Canadians and to the world through film",
+              "To end all forms of Canadian broadcasting",
+              "To prevent Canadian films from being shown internationally"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the National Film Board considered an important Canadian cultural institution?",
+            "options": [
+              "It has produced influential documentary and animated works that reflect Canadian stories and perspectives",
+              "It has never produced any films of lasting significance",
+              "It focuses exclusively on foreign stories with no connection to Canada",
+              "It only operated for a single year before closing"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "label": "Day 173 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Red Herrings in Mystery and Detective Fiction",
+        "summary": "Grade 8 Language strand: a red herring is a false clue or misleading detail that an author deliberately places in a mystery or detective story to distract readers from the true solution and build suspense.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a red herring in a mystery story?",
+            "options": [
+              "A character who solves the crime",
+              "The final piece of evidence that solves the case",
+              "A summary of the story at its beginning",
+              "A false clue deliberately placed to mislead the reader"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do authors of detective fiction use red herrings?",
+            "options": [
+              "To remove all mystery from the plot",
+              "To reveal the solution as early as possible",
+              "To make the ending completely predictable",
+              "To distract readers from the true solution and build suspense"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a red herring in a story?",
+            "options": [
+              "The narrator explaining the setting",
+              "The detective who solves the case",
+              "A suspicious character who turns out to be innocent",
+              "A chapter title"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What skill does identifying red herrings help readers develop?",
+            "options": [
+              "The ability to memorize a story word for word",
+              "The ability to ignore all clues in a story",
+              "The ability to skip chapters without missing anything",
+              "Careful, critical reading and evaluation of evidence within a text"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a reader feel satisfied upon realizing a detail was a red herring?",
+            "options": [
+              "Red herrings guarantee the ending will be disappointing",
+              "Recognizing the misdirection shows a close, active reading of the text",
+              "A red herring means the mystery has no real solution",
+              "Red herrings are always revealed on the first page"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: An Introduction to the Isoperimetric Problem",
+        "summary": "Grade 8 Math strand: the isoperimetric problem asks which shape encloses the greatest area for a given perimeter, and among all shapes with the same perimeter, a circle always encloses the largest possible area.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does the isoperimetric problem ask?",
+            "options": [
+              "Which shape has the smallest possible perimeter for any area",
+              "Which shape encloses the greatest area for a given perimeter",
+              "How to convert a shape into a straight line",
+              "How to calculate the volume of a sphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Among all shapes with the same perimeter, which shape encloses the largest area?",
+            "options": [
+              "A circle",
+              "A square",
+              "A triangle",
+              "A rectangle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a rectangle and a circle have the same perimeter, which generally has the greater area?",
+            "options": [
+              "Neither shape can have an area",
+              "The circle",
+              "The rectangle",
+              "They are always exactly equal"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the isoperimetric problem be relevant to designing a fence around a garden?",
+            "options": [
+              "The shape of a garden never affects how much area it can enclose",
+              "Fencing has no relationship to the shape of a garden",
+              "Using the shape that encloses the most area can make the most efficient use of a fixed length of fencing",
+              "A square always uses less fencing than any other shape"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the isoperimetric problem considered a classic question in geometry?",
+            "options": [
+              "It has no known solution of any kind",
+              "It connects perimeter and area in a way that has interested mathematicians since ancient times",
+              "It only applies to three-dimensional solids, never flat shapes",
+              "It was only discovered within the past decade"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Types of Clouds and Weather Prediction",
+        "summary": "Grade 8 Science strand: clouds are classified by their shape and altitude into families such as cirrus, cumulus, and stratus, and recognizing these cloud types helps meteorologists predict upcoming changes in weather.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are clouds classified by?",
+            "options": [
+              "Their exact colour only",
+              "Their distance from the ocean",
+              "Their shape and altitude",
+              "The number of birds flying near them"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do cumulus clouds typically look like?",
+            "options": [
+              "A ring shape surrounding the sun",
+              "A flat, featureless grey layer covering the whole sky",
+              "Thin, wispy streaks high in the sky",
+              "Puffy, cotton-like clouds with flat bottoms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do cirrus clouds typically indicate about their altitude?",
+            "options": [
+              "They form exclusively over oceans",
+              "They always form at ground level",
+              "They form high in the atmosphere and appear thin and wispy",
+              "They only appear during a thunderstorm"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might the sudden appearance of tall, dark cumulonimbus clouds signal to a meteorologist?",
+            "options": [
+              "An approaching thunderstorm",
+              "A guarantee of clear skies all day",
+              "The end of the current season",
+              "No change in weather at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is learning to identify cloud types useful for predicting weather?",
+            "options": [
+              "Different cloud types are associated with different atmospheric conditions and upcoming weather changes",
+              "All clouds indicate exactly the same type of weather",
+              "Cloud shape has no connection to weather conditions",
+              "Cloud identification can only be done using satellite imagery"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Creation of the Canadian Radio-television and Telecommunications Commission",
+        "summary": "Grade 8 History strand: established in 1968 to regulate Canadian broadcasting, the Canadian Radio-television and Telecommunications Commission, known as the CRTC, later gained authority over telecommunications in 1976, shaping Canadian media and content rules.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "What does the abbreviation CRTC stand for?",
+            "options": [
+              "Central Regional Telecommunications Control Centre",
+              "Canadian Radio-television and Telecommunications Commission",
+              "Canadian Rural Transportation and Trade Council",
+              "Canadian Research and Technology Coordination Committee"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year was the CRTC established to regulate broadcasting?",
+            "options": [
+              "1949",
+              "1988",
+              "1939",
+              "1968"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year did the CRTC gain authority over telecommunications?",
+            "options": [
+              "1939",
+              "1867",
+              "1976",
+              "1968"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one area the CRTC regulates in Canada?",
+            "options": [
+              "The training of teachers",
+              "The construction of highways",
+              "Canadian content rules for broadcasting",
+              "The operation of national parks"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why was a national regulator such as the CRTC considered important for Canadian broadcasting?",
+            "options": [
+              "It had no effect on what Canadians could watch or hear",
+              "It only applied to broadcasters outside of Canada",
+              "It eliminated all radio and television broadcasting in Canada",
+              "It helped ensure Canadian content and standards were maintained across radio, television, and telecommunications"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "label": "Day 174 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: The Process Essay: Explaining How Something Works",
+        "summary": "Grade 8 Language strand: a process essay explains how something works or how to complete a task by breaking it into clear, sequential steps, often using transitional words such as first, next, and finally to guide the reader.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a process essay explain?",
+            "options": [
+              "The authors opinion with no supporting explanation",
+              "A single characters physical appearance",
+              "An unrelated series of historical events",
+              "How something works or how to complete a task, in clear steps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of order does a process essay typically follow?",
+            "options": [
+              "A clear, sequential, step-by-step order",
+              "Only the final step, with no earlier steps described",
+              "A completely random order",
+              "Alphabetical order of unrelated words"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which transitional words are commonly used in a process essay?",
+            "options": [
+              "Never and always only",
+              "First, next, and finally",
+              "Meanwhile and elsewhere only",
+              "Once upon a time and the end"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is precise, clear language especially important in a process essay?",
+            "options": [
+              "A reader must be able to follow and repeat the steps accurately",
+              "Vague language makes a process easier to follow",
+              "Precision does not matter in this type of essay",
+              "A process essay is never meant to be understood by readers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a diagram or illustration be a useful addition to a process essay?",
+            "options": [
+              "Diagrams always replace the need for written steps",
+              "A process essay is not allowed to include any images",
+              "It can help clarify a step that is difficult to describe using words alone",
+              "Diagrams make a process essay less clear"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: An Introduction to Synthetic Division",
+        "summary": "Grade 8 Math strand: synthetic division is a shortcut method for dividing a polynomial by a linear expression of the form x minus a number, using only the coefficients of the polynomial to quickly find the quotient and remainder.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does synthetic division provide a shortcut for?",
+            "options": [
+              "Dividing a polynomial by a linear expression",
+              "Multiplying two polynomials together",
+              "Finding the square root of a number",
+              "Graphing a quadratic function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does synthetic division use to perform the division?",
+            "options": [
+              "The exact graph of the polynomial",
+              "The polynomials degree measured in radians",
+              "A calculator with a square root function",
+              "Only the coefficients of the polynomial"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What form must the divisor take for synthetic division to be used?",
+            "options": [
+              "A linear expression such as x minus a number",
+              "Any polynomial of any degree",
+              "A fraction with no variable at all",
+              "A quadratic expression only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two results does synthetic division produce?",
+            "options": [
+              "A list of prime factors",
+              "Only a single sum",
+              "Two unrelated polynomials",
+              "A quotient and a remainder"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do students often prefer synthetic division over long division for polynomials in this specific form?",
+            "options": [
+              "It requires graphing the polynomial first",
+              "It can only be used on numbers, never polynomials",
+              "It is generally faster and involves fewer written steps",
+              "It always produces a different, incorrect answer"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: The Process of Osmosis and Diffusion in Cells",
+        "summary": "Grade 8 Science strand: diffusion is the movement of particles from an area of higher concentration to lower concentration, while osmosis is the diffusion of water specifically across a selectively permeable cell membrane.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "The movement of particles from low to high concentration only",
+              "A process that requires no concentration difference at all",
+              "The movement of particles from an area of higher concentration to lower concentration",
+              "A process that only occurs in solid materials"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is osmosis?",
+            "options": [
+              "The diffusion of water across a selectively permeable membrane",
+              "The diffusion of solid particles through a rigid wall",
+              "A process unrelated to concentration differences",
+              "The movement of energy through a cell"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of membrane allows osmosis to occur?",
+            "options": [
+              "A selectively permeable membrane",
+              "A membrane that blocks all substances equally",
+              "A membrane found only in plant roots",
+              "A completely solid, impermeable membrane"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might happen to a plant cell placed in a very salty solution due to osmosis?",
+            "options": [
+              "The cell would immediately burst",
+              "The cell would double in size instantly",
+              "The cell would remain completely unaffected",
+              "Water may leave the cell, causing it to shrink"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are diffusion and osmosis essential processes for living cells?",
+            "options": [
+              "These processes prevent cells from ever receiving nutrients",
+              "Cells can survive without ever exchanging any materials",
+              "They allow nutrients, water, and waste to move into and out of cells to maintain proper function",
+              "Diffusion and osmosis only occur in dead cells"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Order of Canada and Its Founding in 1967",
+        "summary": "Grade 8 History strand: created in 1967 as part of the centennial celebrations, the Order of Canada is a national honour that recognizes outstanding achievement and service, awarded at three levels: Companion, Officer, and Member.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Order of Canada created?",
+            "options": [
+              "1967",
+              "1921",
+              "1949",
+              "1988"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What event coincided with the creation of the Order of Canada?",
+            "options": [
+              "The Klondike Gold Rush",
+              "Confederation in 1867",
+              "Canadas centennial celebrations",
+              "The end of the Second World War"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Order of Canada recognize?",
+            "options": [
+              "Only military service",
+              "Only political office held",
+              "Outstanding achievement and service",
+              "Only athletic achievement"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are the three levels of the Order of Canada?",
+            "options": [
+              "Senior, Junior, and Honorary",
+              "First, Second, and Third Class",
+              "Gold, Silver, and Bronze",
+              "Companion, Officer, and Member"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the Order of Canada considered an important national symbol?",
+            "options": [
+              "It publicly honours individuals whose contributions have benefited Canadian society",
+              "It was cancelled shortly after being created",
+              "It has no connection to Canadian identity or achievement",
+              "It is awarded automatically to every Canadian citizen"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "label": "Day 175 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Media Literacy: Understanding Paywalls and the Business of Online News",
+        "summary": "Grade 8 Language strand: many online news organizations use a paywall, which limits free access to articles, to generate subscription revenue that funds professional journalism, raising questions about who can access reliable information.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a paywall?",
+            "options": [
+              "A tool that blocks all access to the internet",
+              "A type of advertisement shown before a video",
+              "A barrier that limits free access to online content until a reader pays or subscribes",
+              "A method for translating an article into another language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do many news organizations use paywalls?",
+            "options": [
+              "To generate subscription revenue that funds professional journalism",
+              "To prevent anyone from ever reading their articles",
+              "To give away all content for free permanently",
+              "To replace the need for journalists entirely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What concern do some media critics raise about paywalls?",
+            "options": [
+              "Paywalls have no effect on who can access the news",
+              "Paywalls only exist for entertainment websites",
+              "They may limit access to reliable information for readers who cannot pay",
+              "Paywalls guarantee that all information becomes completely free"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one alternative way some online news outlets fund their reporting?",
+            "options": [
+              "Requiring readers to write their own articles",
+              "Displaying advertisements alongside free articles",
+              "Refusing to publish any articles at all",
+              "Charging readers for using a search engine"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding how news outlets are funded useful for a media-literate reader?",
+            "options": [
+              "It helps a reader consider what influences might shape the coverage they read",
+              "Funding sources never influence how a story is reported",
+              "All news organizations are funded in exactly the same way",
+              "Media literacy has no connection to how journalism is funded"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: An Introduction to the Birthday Paradox",
+        "summary": "Grade 8 Math strand: the Birthday Paradox shows that in a group of just twenty-three people, there is a greater than fifty percent probability that at least two people share the same birthday, a result that surprises most people at first.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Birthday Paradox describe?",
+            "options": [
+              "A proof that no two people can share a birthday",
+              "A surprisingly high probability that two people in a group share a birthday",
+              "A method for predicting future birthdays",
+              "A rule for calculating everyones exact birthday"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "According to the Birthday Paradox, how many people are needed for a greater than fifty percent chance that two share a birthday?",
+            "options": [
+              "Twenty-three",
+              "Three hundred sixty-five",
+              "One hundred eighty-three",
+              "Two"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the Birthday Paradox result often surprise people at first?",
+            "options": [
+              "It seems like far more than twenty-three people should be needed, but the number of possible pairs grows quickly",
+              "The result has been proven mathematically false",
+              "The correct answer is always exactly 365 people",
+              "The paradox only applies to leap years"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What grows quickly as more people are added to a group, explaining the surprising result?",
+            "options": [
+              "The number of months in a year",
+              "The number of days in a year",
+              "The number of possible pairs of people who could share a birthday",
+              "The number of leap years in a century"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Birthday Paradox a popular example in the study of probability?",
+            "options": [
+              "It proves that probability calculations are always intuitive",
+              "It illustrates how intuition can underestimate the likelihood of a shared outcome in a group",
+              "It has no real mathematical basis",
+              "It shows that larger groups always have fewer shared birthdays"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Space Science: Space Debris and Satellite Collisions",
+        "summary": "Grade 8 Science strand: space debris consists of defunct satellites, spent rocket stages, and fragments from past collisions that orbit Earth at high speed, posing a growing collision risk to active satellites and spacecraft.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is space debris?",
+            "options": [
+              "A cloud of gas found only near the Moon",
+              "Defunct satellites, spent rocket stages, and fragments orbiting Earth",
+              "A term for stars that have burned out",
+              "A type of natural asteroid belt"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is space debris considered dangerous to active satellites?",
+            "options": [
+              "It orbits Earth at extremely high speed and can cause serious collision damage",
+              "Space debris cannot physically collide with anything",
+              "It moves too slowly to ever cause damage",
+              "It only exists inside Earths atmosphere"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can cause an increase in the amount of space debris in orbit?",
+            "options": [
+              "Debris naturally disappearing within a few seconds",
+              "Collisions between existing objects that create many smaller fragments",
+              "The absence of any rockets ever being launched",
+              "A decrease in the number of satellites ever launched"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What strategy do space agencies use to reduce collision risk from debris?",
+            "options": [
+              "Tracking known debris and adjusting satellite orbits to avoid it",
+              "Launching more debris deliberately into orbit",
+              "Ignoring all debris regardless of its location",
+              "Removing all satellites from orbit permanently"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why has space debris become a growing concern as more satellites are launched?",
+            "options": [
+              "More satellites in orbit always reduces the total amount of debris",
+              "Space debris has no connection to the number of active satellites",
+              "Satellites launched today can never contribute to space debris",
+              "A greater number of objects in orbit increases the chances of future collisions and further debris"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Canadian Human Rights Act of 1977",
+        "summary": "Grade 8 History strand: passed in 1977, the Canadian Human Rights Act prohibited discrimination based on grounds such as race, sex, and disability within federally regulated sectors and established the Canadian Human Rights Commission to investigate complaints.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Canadian Human Rights Act passed?",
+            "options": [
+              "1867",
+              "1977",
+              "1988",
+              "1949"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What did the Canadian Human Rights Act prohibit?",
+            "options": [
+              "Discrimination based on grounds such as race, sex, and disability",
+              "All forms of federal taxation",
+              "Immigration to Canada from any country",
+              "The formation of new political parties"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What body did the Canadian Human Rights Act establish?",
+            "options": [
+              "The Canadian Radio-television and Telecommunications Commission",
+              "The Canadian Human Rights Commission",
+              "The Bank of Canada",
+              "The Supreme Court of Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What sectors did the Canadian Human Rights Act apply to?",
+            "options": [
+              "Only privately owned small businesses",
+              "Federally regulated sectors",
+              "Only provincial school boards",
+              "Only municipal governments"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Canadian Human Rights Act considered a significant step in Canadian legal history?",
+            "options": [
+              "It eliminated all provincial human rights laws",
+              "It only applied for a single year before being repealed",
+              "It created a formal, national framework for identifying and addressing discrimination",
+              "It had no effect on federal workplaces or services"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "label": "Day 176 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Commonly Confused Verbs: Lie, Lay, Sit, and Set",
+        "summary": "Grade 8 Language strand: lie means to recline and never takes a direct object, while lay means to place something and requires a direct object; similarly, sit means to be seated, while set means to place an item somewhere.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does the verb lie mean?",
+            "options": [
+              "To speak loudly",
+              "To recline or rest in a position",
+              "To stand up quickly",
+              "To place an object somewhere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the verb lay require that the verb lie does not?",
+            "options": [
+              "A verb tense",
+              "A capital letter",
+              "A subject",
+              "A direct object"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence correctly uses the verb lay?",
+            "options": [
+              "She will lay the book on the table.",
+              "She will lay down for a nap.",
+              "The dog lay the bone.",
+              "He lay the keys on the counter, then lie down."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence correctly uses the verb set?",
+            "options": [
+              "The cat set on the windowsill.",
+              "She will set for an hour.",
+              "He set down for dinner.",
+              "He set the plate on the table."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do writers often confuse lie and lay, or sit and set?",
+            "options": [
+              "These verbs are spelled identically in every sentence",
+              "Only one of the four verbs exists in standard English",
+              "The verbs have similar meanings and overlapping forms, making them easy to mix up",
+              "The four verbs are always used interchangeably with no rules"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: An Introduction to Palindromic Numbers",
+        "summary": "Grade 8 Math strand: a palindromic number reads the same forward and backward, such as 121 or 3553, and mathematicians study patterns in how palindromic numbers are distributed and how they behave under operations such as addition.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is a palindromic number?",
+            "options": [
+              "A number that is always a multiple of ten",
+              "A number that reads the same forward and backward",
+              "A number with exactly two digits",
+              "A number that can never repeat a digit"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is a palindromic number?",
+            "options": [
+              "3535",
+              "3553",
+              "3545",
+              "3554"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens if you reverse the digits of the palindromic number 121?",
+            "options": [
+              "It becomes 112",
+              "It becomes a negative number",
+              "It stays exactly the same",
+              "It becomes 211"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Is every single-digit number, such as 7, considered a palindromic number?",
+            "options": [
+              "Yes, because it reads the same forward and backward by default",
+              "No, single-digit numbers can never be palindromes",
+              "Yes, but only if the digit is zero",
+              "No, only numbers with an even number of digits can be palindromes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do palindromic numbers interest mathematicians studying number patterns?",
+            "options": [
+              "They only exist in bases other than base ten",
+              "They have no mathematical properties worth studying",
+              "They reveal symmetry within the number system that can be explored through operations like addition",
+              "They cannot be added to any other number"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Technology: How Noise-Cancelling Headphones Work",
+        "summary": "Grade 8 Science strand: noise-cancelling headphones use a microphone to detect incoming sound waves and generate an inverted sound wave that combines with the original through destructive interference, reducing the noise a listener hears.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do noise-cancelling headphones use to detect incoming sound?",
+            "options": [
+              "A built-in microphone",
+              "A magnet attached to the ear",
+              "A radio antenna",
+              "A camera lens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of sound wave do noise-cancelling headphones generate to reduce noise?",
+            "options": [
+              "An identical copy of the incoming sound wave",
+              "An inverted sound wave that opposes the incoming sound",
+              "A completely silent wave with no properties",
+              "A wave with a much higher pitch than the original"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the name of the process that occurs when two opposite sound waves combine and cancel each other out?",
+            "options": [
+              "Constructive interference",
+              "Reflection",
+              "Refraction",
+              "Destructive interference"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are noise-cancelling headphones generally more effective at reducing low, steady sounds, such as an airplane engine, than sudden sharp sounds?",
+            "options": [
+              "Sudden sharp sounds are always easier for the technology to detect",
+              "Steady, repetitive sound waves are easier to predict and generate an opposing wave for",
+              "Low sounds cannot be detected by any microphone",
+              "Noise-cancelling technology only affects high-pitched sounds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding destructive interference useful for engineers designing noise-reducing technology?",
+            "options": [
+              "Noise-cancelling technology does not rely on any physics principle",
+              "Destructive interference always makes sound louder",
+              "Sound waves can never interact with each other",
+              "It provides the physical principle that allows an opposing wave to actively cancel unwanted sound"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Expo 86: The World Exposition in Vancouver",
+        "summary": "Grade 8 History strand: held in Vancouver in 1986 under the theme of transportation and communication, Expo 86 attracted millions of visitors, showcased new technology, and helped spur major infrastructure development in British Columbia.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was Expo 86 held?",
+            "options": [
+              "1996",
+              "1976",
+              "1986",
+              "1967"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which Canadian city was Expo 86 held?",
+            "options": [
+              "Montreal",
+              "Calgary",
+              "Toronto",
+              "Vancouver"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the theme of Expo 86?",
+            "options": [
+              "Agriculture and farming",
+              "Space exploration only",
+              "Transportation and communication",
+              "Ancient history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What effect did Expo 86 have on the host city?",
+            "options": [
+              "It resulted in the citys population permanently decreasing",
+              "It had no lasting impact on the city whatsoever",
+              "It helped spur major infrastructure development in the region",
+              "It caused the city to lose all of its existing infrastructure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is Expo 86 often compared to Expo 67 in Canadian history?",
+            "options": [
+              "Neither event attracted any visitors at all",
+              "Both events took place in exactly the same city",
+              "Both were major world expositions hosted in Canada that attracted large numbers of international visitors",
+              "Expo 86 took place before Expo 67"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "label": "Day 177 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Collective Nouns for Groups of Animals",
+        "summary": "Grade 8 Language strand: a collective noun names a group of people, animals, or things as a single unit, and English contains many specific, sometimes unusual, collective nouns for groups of animals, such as a murder of crows or a pod of whales.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a collective noun?",
+            "options": [
+              "A noun used exclusively for describing colours",
+              "A noun that only names a single object",
+              "A noun that names a group of people, animals, or things as a single unit",
+              "A noun that can never be made plural"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which is the correct collective noun for a group of crows?",
+            "options": [
+              "A herd",
+              "A murder",
+              "A pod",
+              "A pack"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is the correct collective noun for a group of whales?",
+            "options": [
+              "A murder",
+              "A flock",
+              "A gaggle",
+              "A pod"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is the correct collective noun for a group of lions?",
+            "options": [
+              "A pride",
+              "A troop",
+              "A litter",
+              "A colony"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer choose a specific, unusual collective noun rather than simply writing a group of?",
+            "options": [
+              "It can add precision and vivid imagery to descriptive writing",
+              "It always makes a sentence grammatically incorrect",
+              "Specific collective nouns are never used in English",
+              "It removes all meaning from a sentence"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to Sampling Methods and Bias",
+        "summary": "Grade 8 Math strand: a sample is a smaller group selected to represent a larger population, and the method used to choose that sample, such as random sampling or convenience sampling, can introduce bias that affects how well the results represent the whole population.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What is a sample in statistics?",
+            "options": [
+              "A graph showing every possible outcome",
+              "The entire population being studied",
+              "A single data point with no other information",
+              "A smaller group selected to represent a larger population"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is random sampling designed to do?",
+            "options": [
+              "Give every member of a population an equal chance of being selected",
+              "Remove the need for any sample at all",
+              "Guarantee that only one type of person is selected",
+              "Select only the easiest people to reach"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is convenience sampling?",
+            "options": [
+              "Selecting a sample using a computer-generated random number list",
+              "Surveying every single member of a population",
+              "Selecting whichever individuals are easiest to reach rather than a truly random group",
+              "A method that always produces a perfectly unbiased sample"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can sampling bias affect the results of a survey?",
+            "options": [
+              "It can make the results fail to accurately represent the larger population",
+              "Bias can only occur when sampling animals, not people",
+              "It has no effect on the reliability of survey results",
+              "It always makes results more accurate than a full survey"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do statisticians carefully consider their sampling method before conducting a survey?",
+            "options": [
+              "Sampling methods never influence the outcome of a survey",
+              "Sampling is only relevant when studying very large populations",
+              "Every sampling method always produces identical results",
+              "A poorly chosen sample can lead to conclusions that do not reflect the true population"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Science of Food Preservation",
+        "summary": "Grade 8 Science strand: food preservation methods such as refrigeration, drying, and canning slow or prevent the chemical and microbial processes that cause food to spoil, extending how long food remains safe to eat.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the main goal of food preservation methods?",
+            "options": [
+              "To make food taste completely different",
+              "To increase the speed of spoilage",
+              "To remove all nutrients from food",
+              "To slow or prevent processes that cause food to spoil"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does refrigeration help preserve food?",
+            "options": [
+              "It removes all water from the food instantly",
+              "It slows the growth of microorganisms that cause spoilage",
+              "It speeds up chemical reactions that cause spoilage",
+              "It has no effect on microorganisms at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does drying food help preserve it?",
+            "options": [
+              "It adds extra moisture to prevent spoilage",
+              "It increases the temperature of the food indefinitely",
+              "It has no connection to microbial growth",
+              "It removes moisture that microorganisms need to grow"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to food during the canning process that helps preserve it?",
+            "options": [
+              "It is left open to the air to absorb oxygen",
+              "It is frozen solid before being left unsealed",
+              "It is exposed to sunlight for several days",
+              "It is heated to destroy microorganisms and then sealed in an airtight container"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is understanding food preservation important for reducing food waste and foodborne illness?",
+            "options": [
+              "Food preservation has no effect on food safety",
+              "Proper preservation methods can extend how long food remains safe, reducing spoilage and health risks",
+              "Preservation methods always make food unsafe to eat",
+              "All food spoils at exactly the same rate regardless of preservation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Air India Bombing of 1985",
+        "summary": "Grade 8 History strand: on June 23, 1985, a bomb planted by extremists based in Canada destroyed Air India Flight 182 over the Atlantic Ocean, killing 329 people, an event that remains the deadliest terrorist attack connected to Canada and led to major reforms in aviation security.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "On what date did the Air India bombing occur?",
+            "options": [
+              "December 6, 1985",
+              "June 23, 1985",
+              "July 1, 1967",
+              "September 11, 1985"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the flight number of the aircraft destroyed in the bombing?",
+            "options": [
+              "Air India Flight 182",
+              "Air Canada Flight 143",
+              "Air India Flight 101",
+              "Air Canada Flight 182"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Approximately how many people died in the Air India bombing?",
+            "options": [
+              "329",
+              "29",
+              "100",
+              "929"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What did the bombing lead to changes in?",
+            "options": [
+              "Aviation security procedures",
+              "The structure of the Canadian Senate",
+              "The boundaries of Canadian provinces",
+              "The design of Canadian currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the Air India bombing considered a significant and tragic event in Canadian history?",
+            "options": [
+              "It remains the deadliest terrorist attack connected to Canada and prompted major reforms in security and later investigations",
+              "It involved no Canadian citizens or connections whatsoever",
+              "It occurred entirely outside of any historical record",
+              "It had no lasting impact on Canadian policy of any kind"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "label": "Day 178 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Analyzing Epigraphs and Their Function in a Text",
+        "summary": "Grade 8 Language strand: an epigraph is a short quotation or phrase placed at the beginning of a text, chapter, or section that can hint at a central theme, set a tone, or offer a lens through which to interpret what follows.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is an epigraph?",
+            "options": [
+              "A footnote at the bottom of a page",
+              "A short quotation or phrase placed at the start of a text or chapter",
+              "The final sentence of a novel",
+              "A summary printed on the back cover of a book"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can an epigraph hint at before a reader begins a chapter or text?",
+            "options": [
+              "The authors home address",
+              "The exact page count of the book",
+              "The price of the book",
+              "A central theme or idea explored in the text that follows"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where is an epigraph typically located in a text?",
+            "options": [
+              "On the spine of a book",
+              "At the very beginning of a text, chapter, or section",
+              "Inside the table of contents",
+              "Only in the final paragraph of a story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author choose someone elses words as an epigraph rather than writing an original line?",
+            "options": [
+              "A well-chosen quotation can connect the text to a larger idea, tradition, or conversation",
+              "An epigraph must always be written by the author of the text",
+              "Authors are required by law to include a quotation from another writer",
+              "Epigraphs are never allowed to quote another source"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why should a careful reader pause to consider an epigraph before reading further?",
+            "options": [
+              "Skipping an epigraph never affects understanding of a text",
+              "An epigraph always reveals the complete ending of a story",
+              "Epigraphs are always unrelated to the rest of the text",
+              "It may offer a useful lens for interpreting the theme or tone of what follows"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: An Introduction to Geometric Probability",
+        "summary": "Grade 8 Math strand: geometric probability calculates the likelihood of an outcome using the ratio of a favourable area, length, or region to the total possible area, length, or region, rather than counting individual discrete outcomes.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does geometric probability compare?",
+            "options": [
+              "The exact number of coins flipped in an experiment",
+              "The colour of a randomly chosen shape",
+              "The ratio of a favourable area, length, or region to the total possible area, length, or region",
+              "The number of dice rolled in a single game"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does geometric probability differ from counting discrete outcomes, such as rolling a die?",
+            "options": [
+              "It can only be used with a standard six-sided die",
+              "It always produces a probability greater than one",
+              "It uses continuous measurements like area or length instead of counting separate outcomes",
+              "It never involves any kind of ratio"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which situation could be modeled using geometric probability?",
+            "options": [
+              "The chance that a randomly thrown dart lands within a specific region of a target",
+              "The chance of drawing a specific card from a deck",
+              "The chance of flipping heads on a single coin",
+              "The chance of rolling a six on a single die"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In geometric probability, what happens to the calculated probability if the favourable region takes up half of the total region?",
+            "options": [
+              "The probability is one half",
+              "The probability cannot be calculated",
+              "The probability is always zero",
+              "The probability is always one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is geometric probability useful in situations that counting alone cannot easily solve?",
+            "options": [
+              "It removes the need to ever calculate a ratio",
+              "It cannot be applied to any real-world situation",
+              "It only applies to situations involving whole numbers",
+              "It allows probability to be calculated for continuous outcomes, such as a location within an area, rather than only separate, countable outcomes"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: The Human Skin Microbiome",
+        "summary": "Grade 8 Science strand: the skin microbiome is the community of bacteria, fungi, and other microorganisms that naturally live on human skin, many of which help protect against harmful pathogens and support healthy skin function.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is the skin microbiome?",
+            "options": [
+              "The community of microorganisms that naturally live on human skin",
+              "A type of sunscreen ingredient",
+              "A layer of dead skin cells only",
+              "A disease that affects only the hands"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What types of organisms can be part of the skin microbiome?",
+            "options": [
+              "Bacteria and fungi",
+              "Only viruses",
+              "Only plant cells",
+              "Only insects"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one beneficial role that some skin microorganisms play?",
+            "options": [
+              "Removing all moisture from the skin permanently",
+              "Causing every type of skin infection",
+              "Helping protect the skin against harmful pathogens",
+              "Destroying the skins ability to heal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might happen to the skin microbiome after excessive use of harsh antibacterial products?",
+            "options": [
+              "Beneficial microorganisms could be disrupted along with harmful ones",
+              "The skin microbiome would immediately double in size",
+              "All harmful bacteria would be destroyed with no other effect",
+              "The skin microbiome would become permanently unaffected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why do scientists study the skin microbiome as part of understanding human health?",
+            "options": [
+              "It may influence skin conditions and overall immune protection, making it relevant to health research",
+              "Skin microorganisms are identical in every single person",
+              "Studying microorganisms provides no useful scientific information",
+              "The skin microbiome has no connection to human health"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Development of the Canadarm and Canadas Space Program",
+        "summary": "Grade 8 History strand: first used on a NASA Space Shuttle mission in 1981, the Canadarm was a robotic arm designed and built by Canadian engineers, becoming a celebrated symbol of Canadian achievement in space technology and engineering.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year was the Canadarm first used on a Space Shuttle mission?",
+            "options": [
+              "1999",
+              "1949",
+              "1981",
+              "1967"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of device is the Canadarm?",
+            "options": [
+              "A weather satellite",
+              "A space telescope",
+              "A type of rocket engine",
+              "A robotic arm"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Who designed and built the Canadarm?",
+            "options": [
+              "The Soviet space program",
+              "American astronauts only",
+              "A French aerospace company",
+              "Canadian engineers"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What space program did the Canadarm operate as part of?",
+            "options": [
+              "A purely Canadian solo space mission",
+              "The NASA Space Shuttle program",
+              "The Apollo Moon landing program",
+              "The International Space Station alone, before any shuttle existed"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the Canadarm considered an important symbol of Canadian achievement?",
+            "options": [
+              "It had no connection to any space mission",
+              "It was never actually used in space",
+              "It was designed entirely by a country other than Canada",
+              "It demonstrated advanced Canadian engineering on the international stage of space exploration"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "label": "Day 179 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Letter to the Editor",
+        "summary": "Grade 8 Language strand: a letter to the editor is a brief, persuasive piece of writing sent to a newspaper or publication that responds to a current issue or article, stating a clear opinion and supporting it with reasons or evidence.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What is a letter to the editor?",
+            "options": [
+              "A private letter never intended to be published",
+              "A summary of a novel written for a class assignment",
+              "A brief, persuasive letter sent to a newspaper responding to a current issue",
+              "A formal legal document"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What should a letter to the editor clearly state?",
+            "options": [
+              "A list of unrelated facts with no opinion",
+              "A complete biography of the writer",
+              "Only a greeting with no further content",
+              "A clear opinion supported by reasons or evidence"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why do letters to the editor typically stay brief and focused?",
+            "options": [
+              "Editors refuse to read any letter longer than one word",
+              "Newspapers have limited space and readers expect a concise argument",
+              "Brevity makes an argument automatically weaker",
+              "Newspapers never place any limit on how long a letter can be"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What often prompts someone to write a letter to the editor?",
+            "options": [
+              "A desire to submit a piece of fiction",
+              "A response to a recent article or a current community issue",
+              "A requirement to summarize an unrelated novel",
+              "A request from a friend to write about the weather"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why can a well-written letter to the editor be an effective form of civic participation?",
+            "options": [
+              "This form of writing has no connection to real community issues",
+              "It allows a member of the public to share an opinion and potentially influence public discussion",
+              "Letters to the editor are never read by anyone",
+              "Only elected officials are permitted to write to a newspaper"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: An Introduction to Percentiles and Quartiles",
+        "summary": "Grade 8 Math strand: a percentile indicates the percentage of data values in a set that fall below a given value, and quartiles divide an ordered data set into four equal parts, with the second quartile equal to the median.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does a percentile indicate?",
+            "options": [
+              "The percentage of data values in a set that fall below a given value",
+              "The exact number of data points in a set",
+              "The largest value in a data set",
+              "The colour used in a graph of the data"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many equal parts do quartiles divide an ordered data set into?",
+            "options": [
+              "Two",
+              "One hundred",
+              "Four",
+              "Ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which quartile is equal to the median of a data set?",
+            "options": [
+              "The second quartile",
+              "The first quartile",
+              "The fourth quartile",
+              "The third quartile"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a students test score is at the 90th percentile, what does that mean?",
+            "options": [
+              "The student is ninety years old",
+              "The student scored in the bottom ten percent of the class",
+              "The student answered exactly ninety percent of the questions correctly",
+              "The students score is higher than about ninety percent of other scores in the set"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are percentiles and quartiles useful for interpreting a large data set?",
+            "options": [
+              "They can only be used with data sets smaller than ten values",
+              "They eliminate the need to ever collect data",
+              "They summarize how a specific value compares to the overall spread of the data",
+              "They always describe exactly the same information as the mean"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Genetics: Genetic Testing and Personalized Medicine",
+        "summary": "Grade 8 Science strand: genetic testing analyzes a persons DNA to identify markers linked to inherited conditions or drug responses, allowing personalized medicine to tailor treatments based on an individuals unique genetic profile.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does genetic testing analyze?",
+            "options": [
+              "Only a persons height and weight",
+              "A persons DNA to identify markers linked to inherited conditions",
+              "Only a persons blood pressure",
+              "A persons handwriting"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is personalized medicine designed to do?",
+            "options": [
+              "Eliminate the need for any medical treatment",
+              "Provide the exact same treatment to every patient regardless of genetics",
+              "Tailor medical treatment based on an individuals unique genetic profile",
+              "Replace doctors with computers entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might genetic testing reveal about how a person responds to certain medications?",
+            "options": [
+              "Nothing useful about medication at all",
+              "The exact price of every medication available",
+              "Whether a specific drug is likely to be effective or cause side effects for that person",
+              "A persons favourite type of medication"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one ethical consideration raised by widespread genetic testing?",
+            "options": [
+              "Genetic testing is always required by law for every citizen",
+              "Concerns about privacy and how genetic information might be used or shared",
+              "Genetic information can never be kept private under any system",
+              "Genetic testing raises no ethical questions of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is personalized medicine considered a significant shift in how healthcare can be delivered?",
+            "options": [
+              "It moves away from a one-size-fits-all approach toward treatment based on an individuals biology",
+              "It requires removing genetics from medical decisions entirely",
+              "It has no impact on how treatments are chosen",
+              "It guarantees that no patient will ever experience an illness again"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Gouzenko Affair and the Start of the Cold War in Canada",
+        "summary": "Grade 8 History strand: in 1945, Soviet cipher clerk Igor Gouzenko defected in Ottawa with documents revealing a Soviet spy network operating in Canada, an event that heightened Cold War tensions and shaped Canadian and Western attitudes toward the Soviet Union.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what year did the Gouzenko Affair take place?",
+            "options": [
+              "1929",
+              "1945",
+              "1917",
+              "1968"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was Igor Gouzenkos role before he defected?",
+            "options": [
+              "A Soviet cipher clerk",
+              "A British spy",
+              "A Canadian diplomat",
+              "The Prime Minister of Canada"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which Canadian city did Gouzenko defect?",
+            "options": [
+              "Toronto",
+              "Halifax",
+              "Ottawa",
+              "Montreal"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the documents Gouzenko revealed expose?",
+            "options": [
+              "A Canadian plan to spy on the United States",
+              "A plan to invade Canada militarily",
+              "A Soviet spy network operating in Canada",
+              "A trade agreement between Canada and Britain"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Gouzenko Affair considered an important early moment in the Cold War?",
+            "options": [
+              "It took place many decades after the Cold War had already ended",
+              "It had no connection to relations between Canada and the Soviet Union",
+              "It ended all tension between Western countries and the Soviet Union",
+              "It was one of the first public events to expose Soviet espionage in the West, heightening tensions between the Soviet Union and Western countries"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "label": "Day 180 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Grammar, Vocabulary, and Media Literacy (Days 171-179)",
+        "summary": "Grade 8 Language strand review: students revisit prepositional phrases, acronyms and initialisms, red herrings in mystery fiction, the process essay, and paywalls and the business of online news.",
+        "resourceLabel": "TVO Learn: Grade 8 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-language",
+        "quiz": [
+          {
+            "q": "What does a prepositional phrase begin with?",
+            "options": [
+              "A verb",
+              "A comma",
+              "A conjunction",
+              "A preposition"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is an acronym?",
+            "options": [
+              "A word that means the opposite of another word",
+              "A word with no vowels at all",
+              "A word formed from the first letters of a phrase that is pronounced as a word",
+              "A word borrowed unchanged from another language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a red herring in a mystery story?",
+            "options": [
+              "A summary of the story at its beginning",
+              "The final piece of evidence that solves the case",
+              "A character who solves the crime",
+              "A false clue deliberately placed to mislead the reader"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a process essay explain?",
+            "options": [
+              "A single characters physical appearance",
+              "An unrelated series of historical events",
+              "The authors opinion with no supporting explanation",
+              "How something works or how to complete a task, in clear steps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a paywall?",
+            "options": [
+              "A tool that blocks all access to the internet",
+              "A type of advertisement shown before a video",
+              "A barrier that limits free access to online content until a reader pays or subscribes",
+              "A method for translating an article into another language"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Probability, Number Theory, and Statistics (Days 171-179)",
+        "summary": "Grade 8 Math strand review: students revisit skewness and distribution shape, triangular numbers, the isoperimetric problem, synthetic division, and the Birthday Paradox.",
+        "resourceLabel": "TVO Learn: Grade 8 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-mathematics",
+        "quiz": [
+          {
+            "q": "What does skewness describe about a data distribution?",
+            "options": [
+              "Its asymmetry, or how unevenly the data is spread",
+              "The colour used to display a graph",
+              "The units used to measure the data",
+              "The exact number of data points collected"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a triangular number?",
+            "options": [
+              "A number that is always divisible by three",
+              "A number that can only be an even number",
+              "A number with exactly three digits",
+              "A number formed by summing consecutive whole numbers starting from one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the isoperimetric problem ask?",
+            "options": [
+              "How to convert a shape into a straight line",
+              "How to calculate the volume of a sphere",
+              "Which shape encloses the greatest area for a given perimeter",
+              "Which shape has the smallest possible perimeter for any area"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does synthetic division provide a shortcut for?",
+            "options": [
+              "Dividing a polynomial by a linear expression",
+              "Multiplying two polynomials together",
+              "Finding the square root of a number",
+              "Graphing a quadratic function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Birthday Paradox describe?",
+            "options": [
+              "A proof that no two people can share a birthday",
+              "A surprisingly high probability that two people in a group share a birthday",
+              "A rule for calculating everyones exact birthday",
+              "A method for predicting future birthdays"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Chemistry, Physics, and Space Science (Days 171-179)",
+        "summary": "Grade 8 Science strand review: students revisit the chemistry of sunscreen, the physics of roller coasters, cloud types and weather prediction, osmosis and diffusion, and space debris.",
+        "resourceLabel": "TVO Learn: Grade 8 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-science-and-technology",
+        "quiz": [
+          {
+            "q": "What does sunscreen protect the skin from?",
+            "options": [
+              "Loud noise",
+              "Extreme cold temperatures",
+              "Ultraviolet radiation from the sun",
+              "Visible light only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of energy does a roller coaster car have at the top of a tall hill?",
+            "options": [
+              "Only chemical energy",
+              "Only thermal energy",
+              "Gravitational potential energy",
+              "Only sound energy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What are clouds classified by?",
+            "options": [
+              "Their distance from the ocean",
+              "Their shape and altitude",
+              "The number of birds flying near them",
+              "Their exact colour only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is diffusion?",
+            "options": [
+              "A process that only occurs in solid materials",
+              "The movement of particles from an area of higher concentration to lower concentration",
+              "The movement of particles from low to high concentration only",
+              "A process that requires no concentration difference at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is space debris?",
+            "options": [
+              "A term for stars that have burned out",
+              "A cloud of gas found only near the Moon",
+              "A type of natural asteroid belt",
+              "Defunct satellites, spent rocket stages, and fragments orbiting Earth"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: Canadian Institutions and Modern Milestones (Days 171-179)",
+        "summary": "Grade 8 History strand review: students revisit the introduction of the metric system, the founding of the National Film Board, the creation of the CRTC, the Order of Canada, and the Canadian Human Rights Act.",
+        "resourceLabel": "TVO Learn: Grade 8 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-8-history",
+        "quiz": [
+          {
+            "q": "In what decade did Canada begin its transition to the metric system?",
+            "options": [
+              "The 1990s",
+              "The 1920s",
+              "The 1970s",
+              "The 1860s"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year was the National Film Board of Canada established?",
+            "options": [
+              "1921",
+              "1949",
+              "1939",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the abbreviation CRTC stand for?",
+            "options": [
+              "Central Regional Telecommunications Control Centre",
+              "Canadian Radio-television and Telecommunications Commission",
+              "Canadian Rural Transportation and Trade Council",
+              "Canadian Research and Technology Coordination Committee"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In what year was the Order of Canada created?",
+            "options": [
+              "1988",
+              "1921",
+              "1949",
+              "1967"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what year was the Canadian Human Rights Act passed?",
+            "options": [
+              "1949",
+              "1977",
+              "1867",
+              "1988"
+            ],
+            "answer": 1
           }
         ]
       }

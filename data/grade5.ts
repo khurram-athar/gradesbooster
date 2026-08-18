@@ -6684,6 +6684,386 @@ const curriculum: DayContent[] = [
      {q:"What does the Canadian Human Rights Commission investigate?", options:["The results of provincial sports competitions","International trade agreements","The design of Canadian currency","Complaints of discrimination in federally regulated workplaces and services"], answer:3}
    ]},
 ]},
+{day:171, label:"Day 171 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Reflexive and Indefinite Pronouns", summary:"Grade 5 Language strand: a reflexive pronoun refers back to the subject of a sentence, such as himself or themselves, while an indefinite pronoun refers to an unspecified person or thing, such as everyone or nothing.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does a reflexive pronoun do?", options:["Names a location","Joins two independent clauses","Refers back to the subject of a sentence","Shows possession only"], answer:2},
+     {q:"Which of these is a reflexive pronoun?", options:["Herself","Hers","She","Her"], answer:0},
+     {q:"What does an indefinite pronoun refer to?", options:["A single fixed location","A verb tense","A specific, named person only","An unspecified person or thing"], answer:3},
+     {q:"Which of these is an indefinite pronoun?", options:["He","Everyone","They","It"], answer:1},
+     {q:"Why might a writer use the reflexive pronoun herself in the sentence She hurt herself while running?", options:["A reflexive pronoun always names a different person entirely","This concept has no connection to grammar","Reflexive pronouns never refer back to the subject","To show the action refers back to the same person performing it"], answer:3}
+   ]},
+  {subject:"Math", title:"Geometry: Line Symmetry and Mirror Images", summary:"Grade 5 Math strand: a shape has line symmetry when a line can divide it into two matching mirror-image halves, and that line is called a line of symmetry.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a line of symmetry?", options:["A line that shows how a shape was rotated","A line that measures the perimeter of a shape","A line that always passes through only one corner of a shape","A line that divides a shape into two matching mirror-image halves"], answer:3},
+     {q:"How many lines of symmetry does a square have?", options:["0","4","2","1"], answer:1},
+     {q:"Which shape always has at least one line of symmetry?", options:["A shape with no matching sides at all","A rectangle","An irregular pentagon with no equal sides","A scalene triangle"], answer:1},
+     {q:"Why might folding a paper shape in half help someone check for a line of symmetry?", options:["A folded shape always looks completely different on each side","This concept has no connection to geometry","Folding shows whether both halves match exactly when placed on top of each other","Folding paper never shows anything about a shapes symmetry"], answer:2},
+     {q:"Why does a scalene triangle usually have no lines of symmetry?", options:["This concept has no relevance to geometry","Its three sides and three angles are all different lengths and measures","Every triangle automatically has at least one line of symmetry","All of its sides and angles are always exactly equal"], answer:1}
+   ]},
+  {subject:"Science", title:"Tsunamis: Causes and Warning Systems", summary:"Grade 5 Science strand: a tsunami is a series of powerful ocean waves usually triggered by an underwater earthquake, volcanic eruption, or landslide, and warning systems help coastal communities evacuate before the waves arrive.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What most commonly triggers a tsunami?", options:["A cloud passing over the ocean","An underwater earthquake","A change in the tide alone","A gentle ocean breeze"], answer:1},
+     {q:"What is the purpose of a tsunami warning system?", options:["To alert coastal communities so they can evacuate before waves arrive","This concept has no connection to natural disasters","To prevent earthquakes from ever happening","To measure the temperature of the ocean"], answer:0},
+     {q:"Besides an earthquake, what else might trigger a tsunami?", options:["A volcanic eruption or underwater landslide","A change in wind direction alone","This concept has no relevance to tsunamis","A light rain shower"], answer:0},
+     {q:"Why do tsunami waves often grow taller as they approach shallow coastal water?", options:["The waves always become smaller near the shore","Shallow water has no effect on wave height at all","This concept has no connection to science","The waves slow down and the water is pushed upward as the ocean floor rises"], answer:3},
+     {q:"Why is an early warning system important for coastal communities?", options:["Tsunamis always arrive with no possible warning at all","It gives people more time to move to higher ground before the waves arrive","Warning systems have no effect on how people respond to tsunamis","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"The Privy Council and Its Role in Canadian Government", summary:"Grade 5 Social Studies strand: the Privy Council is a formal body that advises the Governor General, though in practice most of its authority is exercised by the Cabinet on behalf of the prime minister.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Who does the Privy Council formally advise?", options:["The Supreme Court","The Governor General","A foreign government","A municipal council"], answer:1},
+     {q:"In practice, who exercises most of the authority connected to the Privy Council?", options:["A single unelected official","The Speaker of the House of Commons alone","The Cabinet, on behalf of the prime minister","This concept has no connection to Canadian government"], answer:2},
+     {q:"What government office supports the daily work connected to the Privy Council?", options:["The Supreme Court Registry","This concept has no relevance to Canadian government","The Bank of Canada","The Privy Council Office"], answer:3},
+     {q:"Why might Canada keep a formal body like the Privy Council even though the Cabinet carries out most of its work?", options:["This concept has no connection to social studies","It preserves a long-standing constitutional structure for advising the Crown","The Privy Council has no purpose in Canadian government at all","The Privy Council replaced the Cabinet entirely long ago"], answer:1},
+     {q:"Why is understanding the Privy Council useful when learning about Canadian government?", options:["The Privy Council has no connection to how Canada is governed","Every part of Canadian government works in exactly the same way","It shows how formal and practical roles in government can differ from each other","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:172, label:"Day 172 — Tue", subjects:[
+  {subject:"Language", title:"Poetry: Writing a Haiku", summary:"Grade 5 Language strand: a haiku is a short, unrhymed poem with three lines that traditionally follow a five, seven, five syllable pattern and often focuses on nature or a single vivid moment.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"How many lines does a traditional haiku have?", options:["4","3","5","2"], answer:1},
+     {q:"What syllable pattern does a traditional haiku follow?", options:["Two, four, two","Four, four, four","Five, seven, five","Six, six, six"], answer:2},
+     {q:"What subject does a haiku traditionally focus on?", options:["A persuasive argument","Nature or a single vivid moment","A long, complicated adventure story","A detailed historical timeline"], answer:1},
+     {q:"Why might counting syllables carefully matter when writing a haiku?", options:["Syllable count never matters when writing a haiku","A haiku can have any number of lines and syllables","The traditional five, seven, five pattern gives the poem its structure","This concept has no connection to poetry"], answer:2},
+     {q:"Why might a poet choose the haiku form to describe a falling leaf?", options:["This concept has no relevance to poetry","Haiku poems are never used to describe nature","A haiku is always too long to describe a single moment","Its short, focused structure can capture a single vivid image or moment"], answer:3}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Understanding Pay Stubs and Wages", summary:"Grade 5 Math strand: a pay stub shows how much money a worker earned, along with any amounts subtracted for taxes or other deductions, resulting in the net pay actually received.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does a pay stub show?", options:["A summary of a persons grades in school","A record of a persons daily schedule","A list of items purchased at a store","How much money a worker earned and what was deducted"], answer:3},
+     {q:"What is net pay?", options:["The amount of tax owed only","A fee charged for using a bank account","The total amount earned before any deductions","The amount of money actually received after deductions"], answer:3},
+     {q:"If a worker earns 500 dollars and has 100 dollars deducted for taxes, what is the net pay?", options:["400 dollars","500 dollars","100 dollars","600 dollars"], answer:0},
+     {q:"Why might understanding a pay stub be an important financial literacy skill?", options:["Deductions never appear on a real pay stub","This concept has no connection to financial literacy","It helps a person understand exactly how their earnings and deductions are calculated","Pay stubs never provide any useful financial information"], answer:2},
+     {q:"If a worker earns 20 dollars per hour and works 10 hours, what is the total pay before deductions?", options:["20 dollars","200 dollars","180 dollars","220 dollars"], answer:1}
+   ]},
+  {subject:"Science", title:"Desert Ecosystems and Adaptations for Extreme Heat", summary:"Grade 5 Science strand: a desert ecosystem receives very little rainfall, and the plants and animals that live there have special adaptations, such as water storage or nocturnal behaviour, that help them survive extreme heat and dryness.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is a defining feature of a desert ecosystem?", options:["Constant heavy rainfall","This concept has no connection to ecosystems","Extremely cold temperatures year-round","Very little rainfall"], answer:3},
+     {q:"How do many desert plants, such as cacti, adapt to store water?", options:["This concept has no relevance to desert ecosystems","They store water in thick stems or leaves","They never need water to survive","They rely entirely on rainfall every single day"], answer:1},
+     {q:"Why do many desert animals become active mainly at night, a behaviour called being nocturnal?", options:["Desert animals are always active only during the hottest part of the day","Nighttime activity has no connection to surviving in a desert","This concept has no relevance to science","It helps them avoid the extreme heat of the daytime sun"], answer:3},
+     {q:"Why might a desert animal have large ears, such as a fennec fox?", options:["Large ears always make an animal colder in every environment","This concept has no relevance to desert adaptations","Large ears have no connection to surviving in a hot climate","Large ears can help release body heat and keep the animal cool"], answer:3},
+     {q:"Why are adaptations especially important for organisms living in a desert ecosystem?", options:["They help organisms survive extreme heat and very limited water","Adaptations have no effect on survival in a desert","This concept has no relevance to science","Desert organisms never need any special adaptations to survive"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The Supreme Court of Canada and Its Role", summary:"Grade 5 Social Studies strand: the Supreme Court of Canada is the highest court in the country, making final decisions on legal disputes and interpreting how the Constitution and the Charter of Rights and Freedoms apply.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is the Supreme Court of Canada?", options:["The highest court in the country","A court found only in one province","A committee that writes new federal laws","A court that only handles municipal bylaws"], answer:0},
+     {q:"What is one role of the Supreme Court of Canada?", options:["Interpreting how the Constitution and the Charter of Rights and Freedoms apply","Managing the Canadian Armed Forces","Running national elections","Collecting federal taxes"], answer:0},
+     {q:"Whose decisions can be appealed all the way up to the Supreme Court of Canada?", options:["This concept has no connection to social studies","Decisions made only by foreign governments","Decisions made only by municipal councils","Decisions made by lower courts across the country"], answer:3},
+     {q:"Why might having a single highest court be important for the country?", options:["A highest court has no effect on how laws are applied","It provides a final, consistent interpretation of the law for all of Canada","This concept has no relevance to Canadian government","Every province could otherwise interpret national laws in a completely different way with no resolution"], answer:1},
+     {q:"Why might the Supreme Court of Canada be considered especially important when a case involves the Charter of Rights and Freedoms?", options:["Its rulings can determine how rights and freedoms are protected across the country","The Supreme Court has no connection to the Charter of Rights and Freedoms","Charter cases are never reviewed by the Supreme Court","This concept has no relevance to social studies"], answer:0}
+   ]},
+]},
+{day:173, label:"Day 173 — Wed", subjects:[
+  {subject:"Language", title:"Vocabulary: Acronyms and Abbreviations", summary:"Grade 5 Language strand: an acronym is a word formed from the first letters of a phrase and pronounced as a word, such as scuba, while an abbreviation is a shortened form of a word or phrase, such as Dr for doctor.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an acronym?", options:["A word that rhymes with another word","A word with an opposite meaning to another word","A word borrowed directly from another language","A word formed from the first letters of a phrase, pronounced as a word"], answer:3},
+     {q:"What is an abbreviation?", options:["A word that sounds like the sound it describes","A comparison between two unlike things","A word with more than one meaning","A shortened form of a word or phrase"], answer:3},
+     {q:"Which of these is an example of an acronym?", options:["St","Dr","Scuba","Mr"], answer:2},
+     {q:"Why might scuba be considered an acronym rather than just an abbreviation?", options:["This concept has no connection to vocabulary","Acronyms are always written with periods between every letter","It is never formed from the first letters of a phrase","It is formed from initial letters and pronounced as a single word"], answer:3},
+     {q:"Why might writers use abbreviations like Dr or St in everyday writing?", options:["This concept has no relevance to vocabulary","They save space and time while still being clearly understood","Abbreviations are never used in real writing","Abbreviations always make writing more difficult to understand"], answer:1}
+   ]},
+  {subject:"Math", title:"Number Sense: Palindromic Numbers", summary:"Grade 5 Math strand: a palindromic number reads the same forward and backward, such as 121 or 3553, and exploring these numbers helps build number sense and pattern recognition.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a palindromic number?", options:["A number that is always divisible by 10","A number that reads the same forward and backward","A number that can never be added to another number","A number with only one digit"], answer:1},
+     {q:"Which of these is a palindromic number?", options:["1221","1234","1023","2001"], answer:0},
+     {q:"Is the number 505 a palindromic number?", options:["This concept has no relevance to numbers","Yes, it reads the same forward and backward","No, it reads differently forward and backward","It cannot be determined without a calculator"], answer:1},
+     {q:"Why might exploring palindromic numbers help build number sense?", options:["Palindromic numbers only exist in decimals, never whole numbers","Palindromic numbers have no connection to number sense","It encourages noticing patterns and structure within numbers","This concept has no relevance to math"], answer:2},
+     {q:"What is the next palindromic number after 131?", options:["140","141","135","132"], answer:1}
+   ]},
+  {subject:"Science", title:"Nuclear Energy: An Introduction", summary:"Grade 5 Science strand: nuclear energy is produced by splitting atoms in a process called fission, releasing a large amount of heat that can be used to generate electricity without burning fossil fuels.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"How is nuclear energy typically produced?", options:["By burning coal in a large furnace","By spinning turbines using only wind","By splitting atoms in a process called fission","By capturing energy directly from sunlight"], answer:2},
+     {q:"What does nuclear energy release that can be used to generate electricity?", options:["This concept has no connection to energy","A large amount of rainfall","A large amount of sunlight","A large amount of heat"], answer:3},
+     {q:"Why is nuclear energy sometimes described as a low-emission energy source?", options:["Nuclear energy always produces more smoke than any other energy source","It always requires burning large amounts of coal","It generates electricity without burning fossil fuels","This concept has no connection to nuclear energy"], answer:2},
+     {q:"Why might handling nuclear waste carefully be an important part of using nuclear energy?", options:["Nuclear waste can remain radioactive and potentially harmful for a long time","Nuclear waste is never a concern connected to nuclear energy","Nuclear waste disappears completely as soon as it is produced","This concept has no relevance to science"], answer:0},
+     {q:"Why might a country choose to include nuclear energy as part of its energy supply?", options:["It can generate large amounts of electricity while producing very few emissions","This concept has no relevance to science","Nuclear energy has no connection to generating electricity","Nuclear energy is always the least efficient way to generate power"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Statistics Canada and the Importance of Reliable Data", summary:"Grade 5 Social Studies strand: Statistics Canada is the federal agency responsible for collecting and publishing data about the countrys population, economy, and society, helping governments and citizens make informed decisions.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What is Statistics Canada responsible for?", options:["Printing Canadian currency","Collecting and publishing data about the countrys population, economy, and society","Enforcing municipal bylaws","Running the Canadian Armed Forces"], answer:1},
+     {q:"Who might use the data collected by Statistics Canada?", options:["Only large international corporations","This concept has no connection to social studies","Only foreign governments","Governments and citizens making informed decisions"], answer:3},
+     {q:"Which large national survey does Statistics Canada conduct every five years?", options:["A national art contest","This concept has no relevance to Statistics Canada","The Census","A national spelling competition"], answer:2},
+     {q:"Why is reliable data important for governments planning public services?", options:["Governments never use data when planning public services","Reliable data has no effect on how governments plan services","Accurate information helps governments plan services that match peoples actual needs","This concept has no relevance to social studies"], answer:2},
+     {q:"Why might Statistics Canada be considered an important part of a well-informed democracy?", options:["Statistics Canada has no connection to how decisions are made in Canada","This concept has no relevance to social studies","Reliable data is never useful in a democratic society","It provides trustworthy information that helps citizens and leaders make informed choices"], answer:3}
+   ]},
+]},
+{day:174, label:"Day 174 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Understanding Subplot in a Story", summary:"Grade 5 Language strand: a subplot is a secondary storyline that runs alongside the main plot of a story, often involving a supporting character and adding depth to the overall narrative.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a subplot?", options:["The setting where a story takes place","The very first event in a story","A summary of the entire story","A secondary storyline that runs alongside the main plot"], answer:3},
+     {q:"Who is a subplot often centred around?", options:["A supporting character","No characters at all","Only the main character","This concept has no connection to reading"], answer:0},
+     {q:"What can a subplot add to a story?", options:["This concept has no relevance to reading","Additional depth to the overall narrative","Confusion with no clear purpose","Nothing of any value to the story"], answer:1},
+     {q:"Why might an author connect a subplot to the main plot by the end of a story?", options:["Connecting the storylines can create a more satisfying and unified narrative","A subplot always replaces the main plot entirely","Subplots are never meant to connect to the main plot","This concept has no connection to reading"], answer:0},
+     {q:"Why might identifying a subplot help a reader better understand a story?", options:["Subplots never provide any useful information about a story","This concept has no relevance to reading","It shows how secondary events and characters support the larger story","A story can never contain more than one storyline"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Nets of Pyramids", summary:"Grade 5 Math strand: a net is a two-dimensional pattern that can be folded to form a three-dimensional shape, and the net of a pyramid includes a polygon base along with triangular faces that meet at a single point.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a net in geometry?", options:["A two-dimensional pattern that can be folded into a three-dimensional shape","A tool used to measure angles","A type of graph used to display data","A line that divides a shape into equal halves"], answer:0},
+     {q:"What shapes make up the net of a square-based pyramid?", options:["Six identical squares","One circle and one triangle","Two triangular bases and three rectangles","One square base and four triangular faces"], answer:3},
+     {q:"Where do the triangular faces of a pyramids net meet when folded?", options:["At a single point, called the apex","They never meet at any point","Along the base only","This concept has no connection to geometry"], answer:0},
+     {q:"Why might building a physical net of a pyramid help with understanding its shape?", options:["A net always looks identical to the folded 3D shape","Building a net never helps with understanding a 3D shape","This concept has no relevance to geometry","Folding the net shows exactly how the flat faces come together to form the 3D shape"], answer:3},
+     {q:"How many triangular faces does the net of a triangular-based pyramid have, not counting its base?", options:["6","2","3","4"], answer:2}
+   ]},
+  {subject:"Science", title:"Refraction and How Lenses Bend Light", summary:"Grade 5 Science strand: refraction is the bending of light as it passes from one material into another, such as from air into water or glass, and curved lenses use refraction to focus light and form clear images.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is refraction?", options:["The bouncing of light off a mirror","This concept has no connection to light","The bending of light as it passes from one material into another","The complete blocking of light by an object"], answer:2},
+     {q:"When does light typically refract?", options:["When it passes from one material into another, such as air into water","Only when it is completely dark","Only when it passes through a solid, opaque wall","This concept has no relevance to science"], answer:0},
+     {q:"What do curved lenses use to help focus light and form an image?", options:["Refraction","Absorption of all light","This concept has no connection to lenses","Reflection off a flat mirror"], answer:0},
+     {q:"Why might a straw appear bent when placed in a glass of water?", options:["Light never changes direction when passing through water","The straw actually becomes bent while inside the water","This concept has no relevance to science","Light refracts as it passes from the water into the air, changing how the straw appears"], answer:3},
+     {q:"Why are curved lenses useful in tools like eyeglasses and magnifying glasses?", options:["Lenses are never used to help people see more clearly","Curved lenses have no effect on how light travels","They can bend light in controlled ways to focus images clearly","This concept has no relevance to science"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"The Sixties Scoop and Its Impact on Indigenous Families", summary:"Grade 5 Social Studies strand: the Sixties Scoop refers to a period when many Indigenous children in Canada were removed from their families and placed in non-Indigenous homes, disrupting their connection to their culture and communities.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does the term Sixties Scoop refer to?", options:["A period when many Indigenous children were removed from their families and placed in non-Indigenous homes","This concept has no connection to Canadian history","A national sports competition held in the 1960s","A program that built new highways across Canada"], answer:0},
+     {q:"What was one major effect of the Sixties Scoop on Indigenous children?", options:["This concept has no relevance to social studies","No effect on their lives at all","A disrupted connection to their culture and communities","An improved connection to their culture and communities"], answer:2},
+     {q:"Around which decade did the Sixties Scoop primarily take place?", options:["The 1600s","The 1990s only","The 1960s and into later decades","This concept has no connection to Canadian history"], answer:2},
+     {q:"Why is learning about the Sixties Scoop considered important for understanding Canadian history?", options:["The Sixties Scoop had no lasting impact on anyone","This concept has no relevance to social studies","This event has no connection to Canadian history","It helps students understand the lasting impact of past policies on Indigenous families and communities"], answer:3},
+     {q:"Why might learning about the Sixties Scoop connect to broader lessons about reconciliation in Canada?", options:["Understanding past harms can help support present-day efforts toward reconciliation","The Sixties Scoop has no relationship to reconciliation efforts","This concept has no relevance to social studies","Reconciliation has no connection to past events like the Sixties Scoop"], answer:0}
+   ]},
+]},
+{day:175, label:"Day 175 — Fri", subjects:[
+  {subject:"Language", title:"Media Literacy: Understanding Infographics and Data Visuals", summary:"Grade 5 Language strand: an infographic combines images, charts, and brief text to present information in a way that is quick to read and easy to understand at a glance.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an infographic?", options:["A single photograph with no accompanying text","A long, detailed essay with no visuals","A combination of images, charts, and brief text used to present information","A list of unrelated random facts"], answer:2},
+     {q:"Why might an infographic be considered quick to read?", options:["It presents information visually, so it can be understood at a glance","Infographics always contain more text than a full essay","This concept has no connection to media literacy","Infographics never include any images or charts"], answer:0},
+     {q:"What might a chart within an infographic help a reader do?", options:["This concept has no relevance to media literacy","Charts are never included within an infographic","Compare data or see a trend quickly","Understand a topic that has no data connected to it at all"], answer:2},
+     {q:"Why might a company or organization choose to present information as an infographic instead of a plain paragraph?", options:["Plain paragraphs are always more engaging than any visual format","A visual format can make complex information easier and faster to understand","Infographics always make information harder to understand","This concept has no connection to media literacy"], answer:1},
+     {q:"Why is it useful for readers to think critically about the data shown in an infographic?", options:["Even visual data can be presented in a misleading or biased way","Data shown visually is always completely accurate and unbiased","This concept has no relevance to media literacy","Infographics never involve any interpretation of information"], answer:0}
+   ]},
+  {subject:"Math", title:"Measurement: Converting Between Square Units of Area", summary:"Grade 5 Math strand: converting between square units of area, such as square centimetres and square metres, requires accounting for the fact that area is measured in two dimensions, so the conversion factor must be squared.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What makes converting square units different from converting linear units?", options:["This concept has no connection to measurement","Area is measured in two dimensions, so the conversion factor must be squared","Converting square units always uses the exact same factor as linear units","Square units never need to be converted at all"], answer:1},
+     {q:"How many square centimetres are in a square metre, given that 1 metre equals 100 centimetres?", options:["10000","1000","100","10"], answer:0},
+     {q:"If a rectangle has an area of 2 square metres, how many square centimetres is that?", options:["20000","2000","200","20"], answer:0},
+     {q:"Why might a builder need to convert between square units of area when planning a project?", options:["This concept has no relevance to measurement","Builders never need to compare measurements in different units","Materials or measurements may be listed in different units that need to match","Area measurements are never useful in construction"], answer:2},
+     {q:"Why is it important to square the conversion factor when converting units of area rather than length?", options:["Area only ever involves a single dimension","Area covers two dimensions, so both the length and width conversions apply","Squaring the conversion factor is never necessary for area","This concept has no connection to measurement"], answer:1}
+   ]},
+  {subject:"Science", title:"Fermentation: How Yeast and Bacteria Transform Food", summary:"Grade 5 Science strand: fermentation is a chemical process in which yeast or bacteria break down sugars in food, producing gases or acids that create new flavours and textures, as seen in bread, yogurt, and pickles.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What organisms are commonly involved in fermentation?", options:["Only fish","Yeast or bacteria","This concept has no connection to fermentation","Only large mammals"], answer:1},
+     {q:"What do yeast or bacteria break down during fermentation?", options:["Sugars in food","Rocks and minerals","Metal objects","This concept has no relevance to fermentation"], answer:0},
+     {q:"Which of these foods is commonly made using fermentation?", options:["Plain water","Yogurt","A raw carrot","A fresh apple straight from a tree"], answer:1},
+     {q:"Why does bread dough rise during fermentation?", options:["Yeast produces gas bubbles as it breaks down sugars in the dough","This concept has no connection to science","Bread dough never changes during fermentation","Fermentation always makes dough flatter rather than causing it to rise"], answer:0},
+     {q:"Why might fermentation be considered a chemical change rather than a physical change?", options:["Fermentation never produces any new substances","This concept has no relevance to science","Fermentation only changes the shape of the food involved","New substances, such as gases or acids, are produced that were not there before"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Voter Turnout and Civic Engagement in Canada", summary:"Grade 5 Social Studies strand: voter turnout refers to the percentage of eligible voters who actually cast a ballot in an election, and civic engagement includes the many ways citizens participate in their communities and government beyond voting.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does voter turnout measure?", options:["The total population of a country","The percentage of eligible voters who actually cast a ballot","This concept has no connection to elections","The number of political parties in an election"], answer:1},
+     {q:"What is civic engagement?", options:["The many ways citizens participate in their communities and government","A rule that only applies to elected officials","A type of tax collected by the government","This concept has no relevance to social studies"], answer:0},
+     {q:"Besides voting, which of these is an example of civic engagement?", options:["This concept has no connection to civic engagement","Volunteering for a local community organization","Refusing to learn about local issues","Ignoring all local community events"], answer:1},
+     {q:"Why might low voter turnout be a concern in a democracy?", options:["Every eligible voter always votes in every election","Election results may not fully reflect the views of the entire eligible population","Voter turnout never affects how election results are viewed","This concept has no relevance to social studies"], answer:1},
+     {q:"Why might schools encourage students to learn about civic engagement at a young age?", options:["Civic engagement has no connection to how communities function","Learning about civic engagement has no value until adulthood","Early understanding can help build habits of active, informed participation later in life","This concept has no relevance to social studies"], answer:2}
+   ]},
+]},
+{day:176, label:"Day 176 — Mon", subjects:[
+  {subject:"Language", title:"Writing: Writing an Acrostic Poem", summary:"Grade 5 Language strand: an acrostic poem uses the letters of a word or name, arranged vertically, so that the first letter of each line spells out that word when read from top to bottom.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"How is an acrostic poem arranged?", options:["This concept has no connection to poetry","The letters of a word are arranged vertically, spelling it out down the page","The poem must always rhyme at the end of every line","The letters of a word are hidden randomly throughout the poem"], answer:1},
+     {q:"What does the first letter of each line in an acrostic poem do?", options:["Must always be a vowel","This concept has no relevance to poetry","Has no connection to the poems overall topic","Spells out a word or name when read from top to bottom"], answer:3},
+     {q:"Why might a poet choose a topic word before writing an acrostic poem?", options:["The chosen word determines the structure and starting letters of each line","The topic word has no effect on how the poem is written","This concept has no connection to writing","An acrostic poem never needs a chosen word at all"], answer:0},
+     {q:"Why might writing an acrostic poem be a creative way to describe a topic, such as a season?", options:["This concept has no relevance to writing","The starting letters of an acrostic poem are always randomly chosen","Acrostic poems never require any creativity","It challenges the writer to connect descriptive words to specific starting letters"], answer:3},
+     {q:"What skill might a student practise while brainstorming words for each line of an acrostic poem?", options:["This concept has no connection to vocabulary","Acrostic poems never involve any vocabulary practice","Thinking of descriptive vocabulary that starts with a specific letter","Ignoring the topic of the poem completely"], answer:2}
+   ]},
+  {subject:"Math", title:"Geometry: Diagonals of Polygons", summary:"Grade 5 Math strand: a diagonal is a line segment that connects two non-adjacent vertices of a polygon, and the number of diagonals a polygon has depends on how many sides it has.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a diagonal in a polygon?", options:["A line segment connecting two adjacent vertices","A line segment connecting two non-adjacent vertices","A line that measures the perimeter of a shape","A curved line inside a shape"], answer:1},
+     {q:"How many diagonals does a square have?", options:["1","2","0","4"], answer:1},
+     {q:"Does a triangle have any diagonals?", options:["Yes, it always has exactly one diagonal","This concept has no connection to geometry","No, because every pair of vertices in a triangle is adjacent","Yes, it always has exactly three diagonals"], answer:2},
+     {q:"Why does a pentagon have more diagonals than a square?", options:["A pentagon has more vertices, creating more possible non-adjacent connections","A pentagon always has fewer vertices than a square","The number of diagonals has no connection to the number of sides","This concept has no relevance to geometry"], answer:0},
+     {q:"Why might drawing the diagonals of a polygon be useful when studying its properties?", options:["This concept has no relevance to math","Diagonals never provide any useful information about a shape","Diagonals can help divide a shape into smaller, more familiar shapes like triangles","Diagonals can only be drawn on a circle, never a polygon"], answer:2}
+   ]},
+  {subject:"Science", title:"Invasive Species and Their Impact on Ecosystems", summary:"Grade 5 Science strand: an invasive species is a plant or animal introduced to a new environment where it has no natural predators, often allowing it to spread quickly and harm native species and ecosystems.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is an invasive species?", options:["A plant or animal introduced to a new environment where it has no natural predators","A species that never reproduces in a new environment","This concept has no connection to ecosystems","A species that has always lived in a particular ecosystem"], answer:0},
+     {q:"Why might an invasive species spread quickly in a new environment?", options:["Invasive species are always kept in check immediately","It often has no natural predators to keep its population in check","This concept has no relevance to invasive species","New environments always prevent any species from spreading"], answer:1},
+     {q:"What impact can an invasive species have on native species?", options:["It always helps native species thrive with no negative effects","Invasive species never interact with native species in any way","This concept has no connection to ecosystems","It can outcompete native species for food and resources"], answer:3},
+     {q:"Why might people be asked not to release aquarium fish into local lakes or rivers?", options:["Releasing aquarium fish never has any effect on a local ecosystem","Released fish could become an invasive species that harms the local ecosystem","This concept has no relevance to science","Local ecosystems are never affected by species introduced by people"], answer:1},
+     {q:"Why do scientists closely monitor and try to control invasive species?", options:["Invasive species always have a positive effect on every ecosystem","Invasive species never need to be monitored or controlled","This concept has no relevance to science","Uncontrolled invasive species can seriously disrupt the balance of an ecosystem"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Canadas Manufacturing Industry and Its Regions", summary:"Grade 5 Social Studies strand: manufacturing involves turning raw materials into finished products, and in Canada it is concentrated in certain regions, particularly parts of Ontario and Quebec, that produce goods such as automobiles and machinery.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does manufacturing involve?", options:["Collecting taxes for the government","This concept has no connection to industry","Turning raw materials into finished products","Growing crops on a farm"], answer:2},
+     {q:"In which regions of Canada is manufacturing particularly concentrated?", options:["Only in the northern territories","This concept has no relevance to Canadian geography","Only along the Pacific coast","Parts of Ontario and Quebec"], answer:3},
+     {q:"Which of these is an example of a product commonly made in Canadas manufacturing industry?", options:["Wild-caught fish straight from the ocean","Uncut forest timber","Automobiles","This concept has no connection to manufacturing"], answer:2},
+     {q:"Why might a region with strong transportation links, such as highways and railways, attract manufacturing industries?", options:["Manufacturing never depends on transportation of any kind","This concept has no relevance to social studies","Good transportation makes it easier to move raw materials in and finished products out","Transportation links have no effect on where manufacturing takes place"], answer:2},
+     {q:"Why is manufacturing considered an important part of the Canadian economy?", options:["This concept has no relevance to social studies","Manufacturing has no connection to the Canadian economy","It creates jobs and produces goods that can be sold within Canada and abroad","Manufacturing goods are never sold outside of Canada"], answer:2}
+   ]},
+]},
+{day:177, label:"Day 177 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: Using Articles Correctly — A, An, and The", summary:"Grade 5 Language strand: articles are small words that come before a noun, with a used before consonant sounds, an used before vowel sounds, and the used when referring to a specific, already known noun.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is an article in grammar?", options:["A word that joins two sentences together","A word that describes a verb","A small word that comes before a noun","A word that shows an action"], answer:2},
+     {q:"When is the article an typically used?", options:["Only at the end of a sentence","Before a word that begins with a vowel sound","Before every single noun, with no exceptions","Only before proper nouns"], answer:1},
+     {q:"Which article would correctly complete the sentence: I saw ___ elephant at the zoo?", options:["a","the only","no article is needed","an"], answer:3},
+     {q:"Why might a writer use the instead of a or an in a sentence?", options:["The is used when referring to a specific, already known noun","A and an are always used for specific, known nouns","The is always used before every noun in a sentence","This concept has no connection to grammar"], answer:0},
+     {q:"Why is it important to choose the correct article based on sound rather than just the first letter of a word, as in an hour?", options:["Article choice depends on the actual sound a word begins with, not always its spelling","Article choice never depends on how a word sounds","This concept has no relevance to grammar","The word hour always requires the article a"], answer:0}
+   ]},
+  {subject:"Math", title:"Financial Literacy: An Introduction to Stocks and Investing", summary:"Grade 5 Math strand: a stock represents a small share of ownership in a company, and investing means putting money into something, such as stocks, with the goal of growing that money over time.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does owning a stock represent?", options:["A coupon for a discount at a store","A loan given directly to a bank","A type of tax paid to the government","A small share of ownership in a company"], answer:3},
+     {q:"What is the main goal of investing?", options:["Growing money over time","This concept has no connection to financial literacy","Spending money immediately on entertainment","Avoiding the use of money entirely"], answer:0},
+     {q:"If the value of a stock increases after it is purchased, what generally happens to its worth to the owner?", options:["The stocks value to the owner always decreases","The stocks value never changes for any reason","The stocks value to the owner increases","This concept has no relevance to investing"], answer:2},
+     {q:"Why might investing be considered riskier than simply saving money in a bank account?", options:["The value of an investment like a stock can go up or down over time","Stocks can never lose value under any circumstances","This concept has no connection to financial literacy","Investing always guarantees the exact same result as saving money"], answer:0},
+     {q:"Why might understanding the basics of investing be a useful financial literacy skill?", options:["Investing has no connection to financial literacy at all","Money can never grow through any form of investing","This concept has no relevance to math","It helps people understand one way that money can potentially grow over time"], answer:3}
+   ]},
+  {subject:"Science", title:"Composting: Turning Waste Into Useful Soil", summary:"Grade 5 Science strand: composting is a natural process in which decomposers break down food scraps and plant material into nutrient-rich soil, reducing waste while creating a useful resource for growing plants.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is composting?", options:["A process that turns soil into plastic","This concept has no connection to science","A method for freezing food to preserve it","A natural process that breaks down food scraps and plant material into nutrient-rich soil"], answer:3},
+     {q:"What role do decomposers play in composting?", options:["They have no role in the composting process","They break down food scraps and plant material","They prevent any breakdown of organic material","This concept has no relevance to composting"], answer:1},
+     {q:"What is one benefit of composting food scraps instead of throwing them away?", options:["It always increases the amount of waste sent to a landfill","This concept has no connection to science","Composting has no effect on the amount of waste produced","It reduces waste while creating a useful resource for growing plants"], answer:3},
+     {q:"Why might gardeners add compost to their soil?", options:["Compost always harms the plants it is added to","This concept has no relevance to composting","Compost has no effect on soil quality at all","Compost adds nutrients that can help plants grow more healthily"], answer:3},
+     {q:"Why is composting considered an environmentally friendly practice?", options:["Composting has no connection to environmental practices","It reduces the amount of organic waste sent to landfills and recycles nutrients naturally","Composting always increases pollution in the environment","This concept has no relevance to science"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"VIA Rail and Passenger Transportation in Canada", summary:"Grade 5 Social Studies strand: VIA Rail is a Crown corporation that operates passenger train service across much of Canada, connecting cities and communities and playing a role in the countrys transportation history.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What type of organization is VIA Rail?", options:["This concept has no connection to transportation","A Crown corporation","A private airline","A municipal bus service"], answer:1},
+     {q:"What service does VIA Rail primarily provide?", options:["Passenger train service across much of Canada","International air travel","Local city bus routes only","This concept has no relevance to social studies"], answer:0},
+     {q:"What does VIA Rail help connect across the country?", options:["Cities and communities","Only ocean ports","Only major international airports","This concept has no connection to Canadian transportation"], answer:0},
+     {q:"Why might passenger train service be especially useful for connecting communities across a large country like Canada?", options:["It can provide an affordable and reliable way to travel between distant places","This concept has no relevance to social studies","Passenger trains only ever travel very short distances","Train service has no advantages for a large country"], answer:0},
+     {q:"Why might VIA Rail, as a Crown corporation, be considered part of Canadas transportation history?", options:["It reflects how rail travel has long played a role in connecting Canadians across the country","This concept has no relevance to social studies","Rail travel has never been an important part of Canadian history","Crown corporations have no connection to transportation history"], answer:0}
+   ]},
+]},
+{day:178, label:"Day 178 — Wed", subjects:[
+  {subject:"Language", title:"Oral Communication: Oral Storytelling Traditions", summary:"Grade 5 Language strand: oral storytelling traditions pass down stories, history, and values through spoken word rather than writing, often using repetition, rhythm, and voice to help engage listeners and preserve memory.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What defines an oral storytelling tradition?", options:["A tradition that has no connection to spoken language","Stories, history, and values passed down through spoken word rather than writing","Stories that can only ever be written down","A story told only through pictures with no words"], answer:1},
+     {q:"Which technique might a storyteller use to help listeners remember a story?", options:["Avoiding any changes in voice or tone","Speaking as quietly and quickly as possible","This concept has no connection to oral communication","Repetition and rhythm"], answer:3},
+     {q:"Why might voice and tone be especially important in oral storytelling?", options:["A storyteller should always speak in exactly the same tone throughout","They can help bring characters and events to life for listeners","This concept has no relevance to oral communication","Voice and tone have no effect on how a story is understood"], answer:1},
+     {q:"Why have oral storytelling traditions been important for passing down history and values across generations?", options:["They allow knowledge to be shared and remembered even without written records","This concept has no relevance to social studies","Oral traditions have no connection to preserving history or values","Oral traditions were never used before writing existed"], answer:0},
+     {q:"Why might listening carefully be an especially important skill for someone experiencing oral storytelling?", options:["This concept has no relevance to oral communication","Oral stories are always also available in written form at the same time","Listening has no importance in oral storytelling","The story exists only in the spoken words, without a written text to revisit"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Perfect Numbers", summary:"Grade 5 Math strand: a perfect number is a whole number that equals the sum of its proper divisors, meaning all the numbers that divide it evenly except itself, such as 6, whose divisors 1, 2, and 3 add up to 6.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a perfect number?", options:["A number that is always divisible by 2","A number with exactly two digits","A whole number that equals the sum of its proper divisors","A number that has no divisors at all"], answer:2},
+     {q:"What are the proper divisors of 6?", options:["1, 2, 3, and 6","1 and 6 only","1, 2, and 3","2 and 3 only"], answer:2},
+     {q:"Why is 6 considered a perfect number?", options:["Its proper divisors 1, 2, and 3 add up to exactly 6","6 cannot be divided evenly by any other number","This concept has no connection to perfect numbers","It has no proper divisors at all"], answer:0},
+     {q:"What are the proper divisors of 28, the next perfect number after 6?", options:["1, 2, 4, 7, and 14","This concept has no relevance to math","1 and 28 only","1, 2, and 4 only"], answer:0},
+     {q:"Why might exploring perfect numbers be a good way to practise finding factors of a number?", options:["Perfect numbers have no connection to finding factors","Finding factors is never useful when exploring numbers","This concept has no relevance to number sense","Identifying all the proper divisors of a number requires careful factor exploration"], answer:3}
+   ]},
+  {subject:"Science", title:"Water Treatment: How Water Is Purified for Drinking", summary:"Grade 5 Science strand: water treatment removes harmful substances and organisms from water through steps such as filtration and disinfection, making it safe for people to drink.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What is the main purpose of water treatment?", options:["Removing harmful substances and organisms to make water safe to drink","Freezing water for long-term storage","Adding colour to water for decoration","This concept has no connection to science"], answer:0},
+     {q:"What is filtration used for during water treatment?", options:["Removing solid particles and impurities from water","Adding more particles into the water","This concept has no relevance to water treatment","Changing the temperature of the water"], answer:0},
+     {q:"What is disinfection used for during water treatment?", options:["This concept has no connection to science","Making water taste sweeter","Killing harmful organisms that could make people sick","Changing the colour of the water"], answer:2},
+     {q:"Why is water treatment an important process for a community?", options:["It helps ensure that drinking water is safe and does not spread disease","Untreated water is always exactly as safe as treated water","This concept has no relevance to science","Water treatment has no effect on whether water is safe to drink"], answer:0},
+     {q:"Why might engineers design water treatment systems with multiple steps rather than just one?", options:["Different steps can target different types of impurities and organisms","This concept has no relevance to science","Multiple steps make water treatment systems completely unnecessary","A single step always removes every possible impurity from water"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"Canadas Role in International Development and Foreign Aid", summary:"Grade 5 Social Studies strand: international development and foreign aid involve Canada providing money, resources, or expertise to help other countries address challenges such as poverty, education, and health care.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does foreign aid generally involve?", options:["This concept has no connection to social studies","Building highways only within Canada","Providing money, resources, or expertise to help other countries","Collecting taxes from other countries"], answer:2},
+     {q:"Which of these challenges might Canadian foreign aid help address in another country?", options:["The scheduling of a countrys sports events","This concept has no relevance to foreign aid","The design of a countrys national flag","Poverty and access to health care"], answer:3},
+     {q:"Which types of organizations might help carry out Canadas international development work?", options:["This concept has no connection to international development","Only professional sports leagues","Only private individual citizens acting alone","Government agencies and non-governmental organizations"], answer:3},
+     {q:"Why might a country like Canada choose to provide foreign aid to other nations?", options:["This concept has no relevance to social studies","To help address global challenges and support international cooperation","Foreign aid has no connection to international cooperation","Countries never provide assistance to other nations"], answer:1},
+     {q:"Why might learning about international development help students understand Canadas global role?", options:["Canada has no involvement in supporting other countries","International development has no connection to Canadas global role","This concept has no relevance to social studies","It shows how Canada engages with and supports other countries beyond its own borders"], answer:3}
+   ]},
+]},
+{day:179, label:"Day 179 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Recognizing a Red Herring in a Mystery", summary:"Grade 5 Language strand: a red herring is a clue or detail placed in a mystery story to mislead readers and distract them from the real solution, adding suspense and challenge to the plot.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What is a red herring in a mystery story?", options:["The correct clue that solves the mystery","This concept has no connection to reading","A clue or detail placed to mislead readers away from the real solution","A description of the setting only"], answer:2},
+     {q:"What effect might a red herring have on a reader?", options:["It always reveals the solution to the mystery immediately","This concept has no relevance to reading","It has no effect on how a reader experiences a story","It can distract the reader and add suspense to the plot"], answer:3},
+     {q:"Why might an author include a red herring in a mystery story?", options:["A red herring always makes a mystery easier to solve","To keep readers guessing and increase the challenge of solving the mystery","This concept has no connection to reading","Red herrings are never included in mystery stories"], answer:1},
+     {q:"Why might a careful reader try to separate red herrings from real clues while reading a mystery?", options:["This concept has no relevance to reading","Identifying which details actually matter helps in solving the mystery accurately","Separating clues has no effect on understanding a mystery","Every clue in a mystery is always equally important to the solution"], answer:1},
+     {q:"Why can red herrings make a mystery story more engaging for readers?", options:["This concept has no relevance to reading","They add suspense by keeping the real solution uncertain for longer","Red herrings always make a mystery boring and predictable","Mysteries are never more engaging when they include misleading details"], answer:1}
+   ]},
+  {subject:"Math", title:"Algebra: Evaluating Algebraic Expressions by Substitution", summary:"Grade 5 Math strand: evaluating an algebraic expression means substituting a given value for the variable and then calculating the result, such as finding that 3x plus 2 equals 11 when x equals 3.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What does it mean to evaluate an algebraic expression?", options:["Substituting a given value for the variable and calculating the result","Removing the variable from the expression entirely","Rewriting the expression without ever solving it","This concept has no connection to algebra"], answer:0},
+     {q:"What is the value of 3x plus 2 when x equals 3?", options:["9","14","11","8"], answer:2},
+     {q:"What is the value of 5x minus 4 when x equals 2?", options:["6","10","14","2"], answer:0},
+     {q:"Why is substitution a useful strategy when evaluating an algebraic expression?", options:["An algebraic expression can never be evaluated using substitution","This concept has no relevance to algebra","Substitution never helps when evaluating an expression","It replaces the unknown variable with a specific number so the expression can be calculated"], answer:3},
+     {q:"What is the value of 4x plus 3x when x equals 2?", options:["16","10","14","9"], answer:2}
+   ]},
+  {subject:"Science", title:"Wildfires and Forest Ecosystem Renewal", summary:"Grade 5 Science strand: wildfires can be sparked by lightning or human activity, and while they can be destructive, some forest ecosystems depend on periodic fires to clear old growth, recycle nutrients, and trigger new plant growth.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What can spark a wildfire?", options:["Only cold temperatures","Lightning or human activity","Only heavy rainfall","This concept has no connection to wildfires"], answer:1},
+     {q:"What is one way some forest ecosystems benefit from periodic wildfires?", options:["This concept has no relevance to science","Wildfires always destroy an ecosystem with no possible benefit","Old growth is cleared and nutrients are recycled into the soil","Wildfires never have any effect on soil nutrients"], answer:2},
+     {q:"What might happen to certain seeds after a wildfire passes through a forest?", options:["Seeds are never affected in any way by fire","All seeds are permanently destroyed with no chance of new growth","Some seeds are triggered by heat to open and begin new growth","This concept has no connection to wildfires"], answer:2},
+     {q:"Why might forest managers sometimes use controlled, carefully planned burns?", options:["This concept has no relevance to science","Controlled burns can reduce the buildup of materials that fuel larger, more dangerous wildfires","Forest managers never use fire as a management tool","Controlled burns always increase the risk of uncontrollable wildfires"], answer:1},
+     {q:"Why is it important for scientists to understand the role of wildfires in forest ecosystems?", options:["It helps them balance the destructive risks of fire with its natural ecological benefits","Understanding wildfires has no connection to managing forests","This concept has no relevance to science","Wildfires have no ecological role in any forest ecosystem"], answer:0}
+   ]},
+  {subject:"SocialStudies", title:"The World Trade Organization and Canadas Trade Policy", summary:"Grade 5 Social Studies strand: the World Trade Organization is an international organization that sets rules for trade between countries, and Canada is a member that follows these rules while also negotiating its own trade agreements.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"What does the World Trade Organization do?", options:["This concept has no connection to trade","Sets rules for trade between countries","Manages the currency of every country","Organizes international sports competitions"], answer:1},
+     {q:"What is Canadas relationship to the World Trade Organization?", options:["Canada is a member that follows its rules for international trade","This concept has no relevance to social studies","Canada leads the organization on its own","Canada has no connection to the World Trade Organization"], answer:0},
+     {q:"What might the World Trade Organization help resolve between countries?", options:["Disputes about national sports team rankings","This concept has no connection to trade policy","Trade disputes between member countries","Disagreements about weather forecasting"], answer:2},
+     {q:"Why might having shared international trade rules benefit countries like Canada?", options:["This concept has no relevance to social studies","Shared trade rules have no benefit to any country","Shared rules can make trade between countries fairer and more predictable","Trade between countries never requires any agreed-upon rules"], answer:2},
+     {q:"Why might Canada also negotiate its own separate trade agreements in addition to following World Trade Organization rules?", options:["World Trade Organization rules always replace the need for any other trade agreements","Canada never negotiates any trade agreements of its own","This concept has no relevance to social studies","Separate agreements can address specific trading relationships with particular countries or regions"], answer:3}
+   ]},
+]},
+{day:180, label:"Day 180 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Pronouns, Poetry Forms, and Media Literacy", summary:"Grade 5 Language strand review: students revisit reflexive and indefinite pronouns, writing a haiku, acronyms and abbreviations, understanding subplot, and infographics and data visuals.",
+   resourceLabel:"TVO Learn: Grade 5 Language", resourceUrl:"https://tvolearn.com/pages/grade-5-language",
+   quiz:[
+     {q:"What does a reflexive pronoun do?", options:["Names a location","Shows possession only","Joins two independent clauses","Refers back to the subject of a sentence"], answer:3},
+     {q:"What syllable pattern does a traditional haiku follow?", options:["Four, four, four","Two, four, two","Five, seven, five","Six, six, six"], answer:2},
+     {q:"What is an acronym?", options:["A word borrowed directly from another language","A word with an opposite meaning to another word","A word that rhymes with another word","A word formed from the first letters of a phrase, pronounced as a word"], answer:3},
+     {q:"What is a subplot?", options:["The very first event in a story","A summary of the entire story","The setting where a story takes place","A secondary storyline that runs alongside the main plot"], answer:3},
+     {q:"What is an infographic?", options:["A single photograph with no accompanying text","A long, detailed essay with no visuals","A combination of images, charts, and brief text used to present information","A list of unrelated random facts"], answer:2}
+   ]},
+  {subject:"Math", title:"Math Review: Symmetry, Financial Literacy, and Number Sense", summary:"Grade 5 Math strand review: students revisit line symmetry, understanding pay stubs and wages, palindromic numbers, nets of pyramids, and converting between square units of area.",
+   resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   quiz:[
+     {q:"What is a line of symmetry?", options:["A line that divides a shape into two matching mirror-image halves","A line that measures the perimeter of a shape","A line that shows how a shape was rotated","A line that always passes through only one corner of a shape"], answer:0},
+     {q:"What does a pay stub show?", options:["A list of items purchased at a store","A record of a persons daily schedule","A summary of a persons grades in school","How much money a worker earned and what was deducted"], answer:3},
+     {q:"What is a palindromic number?", options:["A number that can never be added to another number","A number with only one digit","A number that reads the same forward and backward","A number that is always divisible by 10"], answer:2},
+     {q:"What is a net in geometry?", options:["A two-dimensional pattern that can be folded into a three-dimensional shape","A tool used to measure angles","A type of graph used to display data","A line that divides a shape into equal halves"], answer:0},
+     {q:"What makes converting square units different from converting linear units?", options:["This concept has no connection to measurement","Area is measured in two dimensions, so the conversion factor must be squared","Square units never need to be converted at all","Converting square units always uses the exact same factor as linear units"], answer:1}
+   ]},
+  {subject:"Science", title:"Science Review: Natural Disasters, Ecosystems, and Energy", summary:"Grade 5 Science strand review: students revisit tsunamis, desert ecosystems, nuclear energy, refraction and lenses, and fermentation.",
+   resourceLabel:"TVO Learn: Grade 5 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   quiz:[
+     {q:"What most commonly triggers a tsunami?", options:["A cloud passing over the ocean","A change in the tide alone","An underwater earthquake","A gentle ocean breeze"], answer:2},
+     {q:"What is a defining feature of a desert ecosystem?", options:["Extremely cold temperatures year-round","This concept has no connection to ecosystems","Very little rainfall","Constant heavy rainfall"], answer:2},
+     {q:"How is nuclear energy typically produced?", options:["By spinning turbines using only wind","By splitting atoms in a process called fission","By capturing energy directly from sunlight","By burning coal in a large furnace"], answer:1},
+     {q:"What is refraction?", options:["The complete blocking of light by an object","The bending of light as it passes from one material into another","The bouncing of light off a mirror","This concept has no connection to light"], answer:1},
+     {q:"What organisms are commonly involved in fermentation?", options:["This concept has no connection to fermentation","Only fish","Only large mammals","Yeast or bacteria"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"SocialStudies Review: Government Institutions, Data, and Trade", summary:"Grade 5 Social Studies strand review: students revisit the Privy Council, the Supreme Court of Canada, Statistics Canada, the Sixties Scoop, and voter turnout and civic engagement.",
+   resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   quiz:[
+     {q:"Who does the Privy Council formally advise?", options:["A municipal council","A foreign government","The Governor General","The Supreme Court"], answer:2},
+     {q:"What is the Supreme Court of Canada?", options:["A court found only in one province","A committee that writes new federal laws","The highest court in the country","A court that only handles municipal bylaws"], answer:2},
+     {q:"What is Statistics Canada responsible for?", options:["Printing Canadian currency","Collecting and publishing data about the countrys population, economy, and society","Enforcing municipal bylaws","Running the Canadian Armed Forces"], answer:1},
+     {q:"What does the term Sixties Scoop refer to?", options:["A program that built new highways across Canada","This concept has no connection to Canadian history","A national sports competition held in the 1960s","A period when many Indigenous children were removed from their families and placed in non-Indigenous homes"], answer:3},
+     {q:"What does voter turnout measure?", options:["The number of political parties in an election","The percentage of eligible voters who actually cast a ballot","The total population of a country","This concept has no connection to elections"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;

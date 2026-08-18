@@ -41470,5 +41470,2425 @@
         ]
       }
     ]
+  },
+  {
+    "day": 171,
+    "label": "Day 171 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Saga Tradition and Icelandic Prose Narrative",
+        "summary": "Grade 12 English strand: the saga is a medieval Icelandic prose narrative form that recounts the lives, feuds, and voyages of legendary or historical families and heroes in a spare, matter-of-fact style, blending genealogy, law, and dramatic incident into a distinctive narrative tradition that predates the modern novel by centuries.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What kind of subject matter does a typical Icelandic saga recount?",
+            "options": [
+              "A single characters private, interior thoughts with no external action",
+              "Purely comic misunderstandings with no serious consequences",
+              "The lives, feuds, and voyages of legendary or historical families and heroes",
+              "An entirely fictional world with no connection to genealogy or history"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What stylistic quality is characteristic of saga prose?",
+            "options": [
+              "A spare, matter-of-fact narrative style",
+              "A style limited entirely to rhymed verse",
+              "Highly ornamented, meandering sentences with constant digression",
+              "A style that avoids describing any action or event"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kinds of material does a saga often blend together within a single narrative?",
+            "options": [
+              "Only recipes and technical instructions",
+              "Only philosophical argument with no characters or events",
+              "Only musical notation with no prose narrative",
+              "Genealogy, law, and dramatic incident"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the saga compare to the epic tradition studied in an earlier batch?",
+            "options": [
+              "The two forms are identical in every respect",
+              "Both recount heroic deeds, but the saga is a prose form rooted in specific Icelandic family and historical material rather than the oral, often mythic verse composition of epic",
+              "The epic tradition has no connection to heroic material of any kind",
+              "Sagas are always composed in verse exactly like epic"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might the saga be considered an important precursor to later prose fiction?",
+            "options": [
+              "Sagas were written centuries after the novel had already been established",
+              "The saga tradition has no relationship whatsoever to the development of prose fiction",
+              "Sagas contain no narrative structure that later fiction could draw upon",
+              "Its sustained, structured prose narratives of character, conflict, and consequence anticipate techniques later developed in the novel"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: Simpsons Paradox and the Reversal of Trends in Aggregated Data",
+        "summary": "Grade 12 Advanced Functions strand: Simpsons paradox occurs when a trend that appears in several separate groups of data reverses or disappears when the groups are combined into a single aggregated data set, showing that conclusions drawn from aggregated data can be misleading without examining the underlying subgroups.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What happens in Simpsons paradox to a trend observed within separate groups of data?",
+            "options": [
+              "The paradox only occurs when there is exactly one group of data",
+              "The trend remains completely unchanged regardless of how the data is grouped",
+              "The trend always becomes stronger and more obvious once the groups are combined",
+              "The trend can reverse or disappear when the groups are combined into a single aggregated data set"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does Simpsons paradox reveal about drawing conclusions from aggregated data?",
+            "options": [
+              "Aggregating data removes any possibility of a misleading conclusion",
+              "Conclusions drawn from aggregated data can be misleading without examining the underlying subgroups",
+              "Subgroups within a data set never affect the overall aggregated trend",
+              "Aggregated data always gives the single most reliable possible conclusion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of data structure is required for Simpsons paradox to potentially arise?",
+            "options": [
+              "A data set consisting of exactly one observation",
+              "Data divided into separate groups that can also be combined into one aggregate set",
+              "Data that cannot be organized into any groups whatsoever",
+              "A single, ungrouped data point with no possibility of subdivision"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does Simpsons paradox relate to correlation and the Pearson correlation coefficient, studied in an earlier batch?",
+            "options": [
+              "Simpsons paradox always produces the same correlation coefficient regardless of grouping",
+              "Correlation analysis is immune to any influence from underlying subgroups",
+              "Both concern how relationships in data can be interpreted or misinterpreted, though Simpsons paradox specifically shows how grouping structure can reverse an apparent trend",
+              "The two concepts are entirely unrelated to interpreting data"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is awareness of Simpsons paradox important for anyone analyzing real-world statistical data?",
+            "options": [
+              "Simpsons paradox proves that aggregated data can never be analyzed meaningfully",
+              "It highlights the importance of examining subgroup structure before drawing conclusions from combined data",
+              "It has no relevance to interpreting real-world data sets",
+              "It shows that subgroup structure never needs to be considered in any statistical analysis"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Homogeneous Differential Equations and the Substitution Method",
+        "summary": "Grade 12 Calculus strand: a homogeneous differential equation, in the sense of a first-order equation whose right-hand side depends only on the ratio of its variables, can be solved by substituting v equals y over x, transforming the equation into a separable one in the new variable v.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What defining property does this type of homogeneous differential equation have?",
+            "options": [
+              "It can never be written as a first-order equation",
+              "Its right-hand side depends only on the ratio of its variables",
+              "It contains no derivative of any kind",
+              "Its right-hand side is always equal to zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What substitution is used to solve this kind of homogeneous differential equation?",
+            "options": [
+              "Substituting v equals y over x",
+              "Substituting v equals the product of x and y",
+              "Substituting v equals the derivative of x",
+              "Substituting v equals a constant with no relation to x or y"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of equation does the substitution transform the original homogeneous equation into?",
+            "options": [
+              "A separable equation in the new variable v",
+              "An algebraic equation with no derivatives remaining at all",
+              "An equation with no defined variable v",
+              "A non-differentiable equation with no solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does this substitution technique compare to the technique used for Bernoulli differential equations, studied in an earlier batch?",
+            "options": [
+              "The two techniques use exactly the same substitution in every case",
+              "Homogeneous equations can never be transformed into any other solvable form",
+              "Bernoulli equations require no substitution of any kind",
+              "Both use a strategic substitution to convert a nonstandard first-order equation into a more easily solved form, though the specific substitution and target form differ"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is recognizing a differential equation as homogeneous, in this ratio-based sense, a useful first step in solving it?",
+            "options": [
+              "The substitution only works for equations with no ratio-based structure at all",
+              "It signals that the substitution v equals y over x will reduce the equation to a separable form solvable with standard integration",
+              "Recognizing this property has no effect on how the equation should be approached",
+              "Every differential equation is automatically homogeneous in this sense"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Non-Inertial Reference Frames and Pseudo-Forces",
+        "summary": "Grade 12 Physics strand: a non-inertial reference frame is one that is accelerating or rotating, and within such a frame an observer must introduce fictitious pseudo-forces, forces with no physical source, to correctly account for motion that appears to violate Newtons laws when analyzed in that accelerating frame.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What defines a non-inertial reference frame?",
+            "options": [
+              "It is a reference frame moving at a constant velocity with no acceleration",
+              "It is a reference frame that is accelerating or rotating",
+              "It is a reference frame that is always perfectly stationary",
+              "It is a reference frame with no relationship to acceleration of any kind"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What must an observer introduce to correctly describe motion within a non-inertial frame?",
+            "options": [
+              "No forces of any kind, regardless of the frames motion",
+              "Only forces with a clearly identifiable physical source",
+              "Fictitious pseudo-forces, with no physical source",
+              "A force that always exactly cancels gravity"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do pseudo-forces appear necessary when analyzing motion from within an accelerating frame?",
+            "options": [
+              "Pseudo-forces are required in every reference frame, whether inertial or not",
+              "Pseudo-forces eliminate the need to ever apply Newtons laws",
+              "Newtons laws hold identically in every frame with no adjustment required",
+              "Motion that appears to violate Newtons laws in that frame can be correctly accounted for by including these extra terms"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the concept of a non-inertial frame relate to the Coriolis effect, studied in an earlier batch?",
+            "options": [
+              "The Coriolis effect only occurs in a perfectly inertial frame with no rotation",
+              "The Coriolis effect is a specific pseudo-force that arises for an observer within a rotating non-inertial frame, such as the rotating Earth",
+              "The Coriolis effect has no connection to non-inertial reference frames",
+              "Non-inertial frames never give rise to any observable pseudo-force effects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding non-inertial frames and pseudo-forces important for analyzing motion observed from a rotating platform, such as Earth?",
+            "options": [
+              "Motion observed from a rotating platform never requires any special analysis",
+              "Non-inertial frames only matter for objects that are not actually moving at all",
+              "Without accounting for these fictitious forces, motion observed from such a platform would appear to violate Newtons laws in ways otherwise unexplained",
+              "Pseudo-forces have no practical relevance to analyzing motion on Earth"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "label": "Day 172 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Drama: The Problem Play and Social Commentary on the Stage",
+        "summary": "Grade 12 English strand: a problem play, closely associated with dramatists such as Henrik Ibsen, uses a realistic domestic or social setting to stage a specific contemporary social issue, often leaving the conflict unresolved so that the audience is left to confront the problem rather than receive a tidy conclusion.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What kind of issue does a problem play typically stage?",
+            "options": [
+              "A historical event from many centuries earlier with no contemporary relevance",
+              "A specific contemporary social issue, often within a realistic domestic setting",
+              "A purely fantastical conflict with no connection to real social life",
+              "A conflict resolved entirely offstage before the play begins"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "With which dramatist is the problem play especially associated?",
+            "options": [
+              "A purely comic playwright with no interest in social issues",
+              "A dramatist with no connection to realistic social drama",
+              "Henrik Ibsen",
+              "A writer exclusively of ancient Greek tragedy"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is distinctive about how a problem play often ends?",
+            "options": [
+              "The ending always ignores the social issue raised earlier",
+              "The conflict is often left unresolved, confronting the audience with the problem rather than a tidy conclusion",
+              "Every problem play ends with the issue fully and neatly resolved",
+              "Problem plays never reach any kind of ending"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the problem play compare to the revenge tragedy studied in an earlier batch?",
+            "options": [
+              "The two forms are identical in setting, subject, and purpose",
+              "The revenge tragedy is set in a realistic contemporary domestic household",
+              "Both use dramatic conflict to engage an audience, but the problem play stages a realistic contemporary social issue while the revenge tragedy centres on vengeance for a specific grievous wrong",
+              "The problem play always involves supernatural revenge"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might leaving a problem plays central conflict unresolved be an effective dramatic choice?",
+            "options": [
+              "Unresolved endings make a play impossible to stage",
+              "A problem play with an unresolved ending cannot address any social issue at all",
+              "An unresolved ending removes any possibility of audience engagement",
+              "It can provoke the audience into continued reflection and debate about the issue rather than allowing easy dismissal"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: Type I and Type II Errors in Hypothesis Testing",
+        "summary": "Grade 12 Advanced Functions strand: a Type I error occurs when a true null hypothesis is incorrectly rejected, while a Type II error occurs when a false null hypothesis is incorrectly retained, and understanding the tradeoff between these two kinds of mistakes is central to designing and interpreting a hypothesis test.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What happens during a Type I error?",
+            "options": [
+              "No hypothesis of any kind is being tested",
+              "A true null hypothesis is correctly retained",
+              "A false null hypothesis is correctly rejected",
+              "A true null hypothesis is incorrectly rejected"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens during a Type II error?",
+            "options": [
+              "A false null hypothesis is correctly rejected",
+              "The sample size becomes undefined",
+              "A true null hypothesis is incorrectly rejected",
+              "A false null hypothesis is incorrectly retained"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is there generally a tradeoff between the risks of Type I and Type II errors?",
+            "options": [
+              "Reducing the chance of one type of error, given a fixed sample size, tends to increase the chance of the other",
+              "The two types of error are always completely independent of sample design choices",
+              "Type I and Type II errors always occur together in every single test",
+              "Both types of error can always be reduced to exactly zero simultaneously"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the concept of Type I and Type II errors relate to the p-value studied in an earlier batch?",
+            "options": [
+              "Type I and Type II errors can only be defined without any reference to a significance threshold",
+              "A p-value always guarantees that no Type II error can occur",
+              "The chosen significance threshold for the p-value directly determines the risk of making a Type I error",
+              "The p-value has no connection whatsoever to Type I or Type II errors"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding both types of error important when designing a hypothesis test, such as an ANOVA studied in an earlier batch?",
+            "options": [
+              "ANOVA and other hypothesis tests are immune to both types of error",
+              "It helps researchers balance the risk of falsely finding an effect against the risk of missing a real one, shaping design choices such as sample size",
+              "Understanding these errors has no bearing on how a hypothesis test is designed",
+              "A well-designed test can always guarantee zero risk of either type of error"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Adams-Moulton Method and Implicit Multistep Techniques",
+        "summary": "Grade 12 Calculus strand: the Adams-Moulton method is an implicit multistep numerical technique for solving differential equations that uses the yet-unknown new point along with several previous points, typically paired with an explicit method such as Adams-Bashforth in a predictor-corrector scheme to improve accuracy.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What distinguishes the Adams-Moulton method as an implicit multistep method?",
+            "options": [
+              "It uses only the single most recent known point with no other information",
+              "It avoids using any information about the point currently being solved for",
+              "It never requires any previous computed points at all",
+              "It uses the yet-unknown new point, along with several previous points, in its formula"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of explicit method is the Adams-Moulton method often paired with?",
+            "options": [
+              "A method that requires no starting values whatsoever",
+              "A method such as Adams-Bashforth",
+              "A purely graphical method with no numerical computation",
+              "A method with no connection to multistep techniques at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the overall scheme called when an explicit and an implicit method are paired together in this way?",
+            "options": [
+              "A purely algebraic scheme with no numerical iteration",
+              "A single-step elimination scheme",
+              "A scheme that ignores previously computed points entirely",
+              "A predictor-corrector scheme"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the Adams-Moulton method relate to the Adams-Bashforth technique studied in an earlier batch?",
+            "options": [
+              "Neither method makes use of previously computed points",
+              "Adams-Bashforth is implicit while Adams-Moulton is explicit",
+              "The two methods are identical in every technical respect",
+              "Both are multistep methods using several previous points, but Adams-Bashforth is explicit while Adams-Moulton is implicit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might combining an implicit method like Adams-Moulton with an explicit predictor improve accuracy?",
+            "options": [
+              "The explicit method provides an initial estimate that the implicit correction step can refine, often producing a more accurate result",
+              "Combining the two methods always produces a less accurate result than using either alone",
+              "An implicit correction step can never improve upon an initial explicit estimate",
+              "Predictor-corrector schemes eliminate the need for any numerical approximation"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Variable Mass Systems and the Rocket Equation",
+        "summary": "Grade 12 Physics strand: a variable mass system, such as a rocket expelling burned fuel, requires an extended form of Newtons second law that accounts for mass leaving or joining the system, leading to the rocket equation, which relates a rockets change in velocity to the exhaust speed and the ratio of its initial to final mass.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What kind of physical system does the rocket equation describe?",
+            "options": [
+              "A variable mass system, such as a rocket expelling burned fuel",
+              "A system consisting of a single point mass with no fuel or propulsion",
+              "A system with no motion of any kind",
+              "A system with a perfectly constant, unchanging total mass"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is an extended form of Newtons second law needed for a system like a rocket?",
+            "options": [
+              "Because it accounts for mass leaving or joining the system over time",
+              "Because rockets experience no external or internal forces at all",
+              "Because the systems total mass never changes in any rocket problem",
+              "Because Newtons second law cannot be applied to any physical system involving motion"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two quantities does the rocket equation relate to a rockets change in velocity?",
+            "options": [
+              "The rockets electric charge and magnetic field strength",
+              "The temperature of the surrounding atmosphere alone",
+              "The colour of the rocket and its total surface area",
+              "The exhaust speed and the ratio of its initial to final mass"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the rocket equation relate to the conservation of momentum studied in an earlier batch?",
+            "options": [
+              "The rocket equation has no connection to momentum conservation of any kind",
+              "The rocket equation is derived by applying conservation of momentum to the combined system of the rocket and the fuel it expels",
+              "Conservation of momentum only applies to systems with constant mass and can never be extended to a rocket",
+              "The rocket equation replaces the need for momentum conservation entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the rocket equation an important result for space travel and propulsion engineering?",
+            "options": [
+              "It quantifies how much velocity change a rocket can achieve based on its fuel mass ratio and exhaust speed",
+              "It has no practical application to designing or analyzing real spacecraft",
+              "Exhaust speed has no influence on a rockets achievable change in velocity",
+              "The rocket equation applies only to objects that never lose any mass"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "label": "Day 173 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literary Theory: Post-Structuralism and the Play of the Signifier",
+        "summary": "Grade 12 English strand: post-structuralism challenges structuralisms assumption that language rests on stable, fixed relationships between signifier and signified, arguing instead that meaning is unstable and endlessly deferred as each signifier points to further signifiers rather than settling on a single fixed meaning.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What structuralist assumption does post-structuralism challenge?",
+            "options": [
+              "That language has any structure whatsoever",
+              "That texts can ever be analyzed using critical theory",
+              "That meaning is always entirely stable and fixed in every text",
+              "That language rests on stable, fixed relationships between signifier and signified"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "According to post-structuralist thought, what happens to meaning as one signifier is examined?",
+            "options": [
+              "It disappears entirely, leaving no meaning of any kind",
+              "It becomes identical to the physical object it names",
+              "It settles instantly and permanently on one single meaning",
+              "It points toward further signifiers rather than settling on a single fixed meaning"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What term is often used to describe this endless deferral of settled meaning?",
+            "options": [
+              "Meaning is described as identical across every possible reader",
+              "Meaning is described as completely fixed and unchanging",
+              "Meaning is described as unstable and endlessly deferred",
+              "Meaning is described as irrelevant to any interpretation of a text"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does post-structuralism relate to structuralism and semiotics, studied in an earlier batch?",
+            "options": [
+              "Structuralism and post-structuralism are simply two names for the identical theory",
+              "Post-structuralism predates structuralism by several centuries",
+              "The two theories have no relationship to one another whatsoever",
+              "Post-structuralism builds directly on structuralist ideas about signs while critiquing and destabilizing structuralisms assumption of fixed structure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might post-structuralist theory be considered a significant challenge to earlier, more stable models of textual meaning?",
+            "options": [
+              "It removes the reader entirely from the process of constructing meaning",
+              "It reframes interpretation as an open-ended process rather than a search for one single, fixed, recoverable meaning",
+              "It has no impact on how texts are read or interpreted",
+              "It confirms that every text has exactly one correct, fixed interpretation"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: The Chinese Postman Problem and Eulerian Circuits",
+        "summary": "Grade 12 Advanced Functions strand: the Chinese postman problem asks for the shortest possible route that traverses every edge of a graph at least once and returns to the starting point, a question closely tied to Eulerian circuits, which exist only in graphs where every vertex has an even degree.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does the Chinese postman problem ask for?",
+            "options": [
+              "The shortest route that visits every vertex exactly once with no reference to edges",
+              "The shortest possible route that traverses every edge of a graph at least once and returns to the starting point",
+              "A route that avoids traversing any edge of the graph",
+              "The single longest possible route through a graph with no return requirement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an Eulerian circuit?",
+            "options": [
+              "A closed route that traverses every edge of a graph exactly once",
+              "A route that visits every vertex exactly once and ignores edges entirely",
+              "A route that never returns to its starting point",
+              "A route that avoids using any edge more than zero times"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Under what condition on vertex degree does a graph contain an Eulerian circuit?",
+            "options": [
+              "Vertex degree has no bearing on the existence of an Eulerian circuit",
+              "Every vertex in the graph must have an even degree",
+              "Every vertex must have an odd degree",
+              "The graph must contain no vertices with any defined degree"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the Chinese postman problem compare to Hamiltonian paths and cycles, studied in an earlier batch?",
+            "options": [
+              "The Chinese postman problem ignores the structure of the graph entirely",
+              "The two problems are defined in exactly the same way with no distinction",
+              "Both concern finding an efficient route through a graph, but the Chinese postman problem covers every edge at least once, while a Hamiltonian path or cycle visits every vertex exactly once",
+              "Hamiltonian cycles require covering every edge rather than every vertex"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Chinese postman problem relevant to real-world logistics, such as mail delivery or street sweeping routes?",
+            "options": [
+              "Real-world delivery routes never require covering every street segment",
+              "It models the practical need to efficiently cover every street or route segment in an area and return to a starting depot",
+              "The problem only applies to graphs with no edges at all",
+              "It has no application to any real-world routing or logistics scenario"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Stiff Differential Equations and Numerical Stability",
+        "summary": "Grade 12 Calculus strand: a stiff differential equation is one in which certain solution components change extremely rapidly compared to others, forcing standard explicit numerical methods to use impractically small step sizes for stability, a challenge that motivates specialized implicit numerical techniques.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What characterizes a stiff differential equation?",
+            "options": [
+              "All solution components change at exactly the same, constant rate",
+              "The equation contains no derivative terms at all",
+              "Certain solution components change extremely rapidly compared to others",
+              "The equation has no numerical solution of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What practical difficulty does stiffness create for standard explicit numerical methods?",
+            "options": [
+              "It has no effect whatsoever on the choice of step size",
+              "It removes the need for any step size to be chosen at all",
+              "It allows the use of arbitrarily large step sizes with no loss of stability",
+              "It forces the use of impractically small step sizes for numerical stability"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of numerical technique is often better suited to handling stiff differential equations?",
+            "options": [
+              "A purely graphical, non-numerical technique",
+              "Only the simplest explicit Eulers method",
+              "Specialized implicit numerical techniques",
+              "A technique that ignores the differential equation entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the challenge of stiffness relate to the Runge-Kutta methods studied in an earlier batch?",
+            "options": [
+              "Standard explicit Runge-Kutta methods can also require very small step sizes on stiff problems, motivating implicit variants designed for stability",
+              "Runge-Kutta methods are entirely unaffected by stiffness under all circumstances",
+              "Explicit Runge-Kutta methods always outperform implicit methods on stiff problems",
+              "Stiffness only affects methods unrelated to Runge-Kutta in any way"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is understanding stiffness important for choosing an appropriate numerical method in practice?",
+            "options": [
+              "Applying an unsuitable explicit method to a stiff problem can require an impractically small step size or produce an unstable solution",
+              "Every numerical method performs identically well regardless of a problems stiffness",
+              "Stiffness has no bearing on which numerical method should be selected in practice",
+              "Stiff differential equations can never be solved by any numerical method"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "RLC Circuits and the Physics of Damped Oscillation",
+        "summary": "Grade 12 Physics strand: an RLC circuit combines a resistor, inductor, and capacitor, so that the natural oscillation of energy between the inductors magnetic field and the capacitors electric field is gradually damped by resistive energy loss, producing behaviour that ranges from underdamped ringing to overdamped decay depending on the component values.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What three components make up an RLC circuit?",
+            "options": [
+              "Two capacitors and a single wire with no resistor or inductor",
+              "A resistor, an inductor, and a capacitor",
+              "Only two resistors and no other component",
+              "A battery and a light bulb with no resistor, inductor, or capacitor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What effect does the resistor have on the natural oscillation of an RLC circuit compared to a pure LC circuit?",
+            "options": [
+              "It causes the oscillation to grow without bound over time",
+              "It instantly stops all current flow in the circuit",
+              "It has no effect whatsoever on the oscillation",
+              "It gradually damps the oscillation through resistive energy loss"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What range of behaviour can an RLC circuit exhibit depending on its component values?",
+            "options": [
+              "Behaviour with no dependence on the circuits component values at all",
+              "A behaviour in which current always increases without any limit",
+              "Behaviour ranging from underdamped ringing to overdamped decay",
+              "Only a single fixed behaviour regardless of component values"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the RLC circuit relate to the LC circuit studied in an earlier batch?",
+            "options": [
+              "Adding a resistor to an LC circuit has no effect on its oscillatory behaviour",
+              "The RLC circuit and the LC circuit are identical, with no distinguishing components",
+              "The RLC circuit builds on the LC circuits energy-exchanging oscillation by adding a resistor, which introduces damping that a pure LC circuit does not have",
+              "The LC circuit always includes more damping than the RLC circuit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is understanding damping in an RLC circuit important for designing practical electronic devices?",
+            "options": [
+              "Damping has no relevance to the design of any practical electronic device",
+              "RLC circuits are never used in any real electronic application",
+              "The degree of damping cannot be influenced by any of the circuits component values",
+              "Controlling the degree of damping allows engineers to shape how a circuit responds over time, which matters for applications such as filters"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "label": "Day 174 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Georgic and the Poetry of Agricultural Labour",
+        "summary": "Grade 12 English strand: the georgic is a classical poetic form, exemplified by Virgils Georgics, that treats the practical labour of farming, land, and rural life with dignity and technical detail, offering a companion and counterpoint to the pastorals idealized vision of leisurely rural ease.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What subject matter does a georgic poem typically treat?",
+            "options": [
+              "Warfare and heroic combat exclusively",
+              "Purely urban settings with no connection to land or agriculture",
+              "Abstract philosophical argument with no reference to physical labour",
+              "The practical labour of farming, land, and rural life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "With which classical poet is the georgic form especially associated?",
+            "options": [
+              "Virgil",
+              "A purely modern poet writing after the twentieth century",
+              "A poet with no connection to classical Rome",
+              "A dramatist rather than a poet of rural life"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What quality does georgic poetry typically bring to its depiction of agricultural work?",
+            "options": [
+              "An exclusive focus on urban industry rather than land",
+              "Dignity and technical detail",
+              "A total absence of any practical detail about farming",
+              "Complete disdain and mockery of any rural labour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the georgic compare to the pastoral tradition studied in an earlier batch?",
+            "options": [
+              "Both concern rural life, but the pastoral idealizes leisurely ease while the georgic focuses on the dignity and practical detail of agricultural labour",
+              "The georgic and the pastoral have no thematic relationship to rural life at all",
+              "The two traditions describe exactly the same idealized, leisurely vision of rural life",
+              "The pastoral tradition focuses on technical farming labour rather than ease"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet choose the georgic mode to depict labour rather than the idealized ease of the pastoral?",
+            "options": [
+              "Georgic poetry is incapable of conveying any meaningful relationship to land",
+              "The georgic mode always avoids any depiction of the natural world",
+              "Focusing on the dignity and detail of real agricultural work can convey a more grounded relationship between people and the land",
+              "Choosing the georgic mode removes any possibility of poetic craft"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Sophie Germain Primes and Safe Primes",
+        "summary": "Grade 12 Advanced Functions strand: a Sophie Germain prime is a prime number p for which two p plus one is also prime, and the resulting prime two p plus one is called a safe prime, a pairing named for the mathematician Sophie Germain that plays a role in both number theory and cryptography.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What defining property must a Sophie Germain prime p satisfy?",
+            "options": [
+              "Two p plus one must also be a prime number",
+              "p must be an even number greater than two",
+              "p must be exactly one less than a power of two",
+              "p must equal the sum of two smaller primes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the resulting prime, two p plus one, called when p is a Sophie Germain prime?",
+            "options": [
+              "A twin prime",
+              "A Mersenne prime",
+              "A Fermat prime",
+              "A safe prime"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "After which mathematician is the Sophie Germain prime named?",
+            "options": [
+              "Sophie Germain",
+              "A mathematician with no historical connection to number theory",
+              "A mathematician who worked exclusively in geometry with no interest in primes",
+              "A twentieth-century computer scientist with no connection to classical number theory"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the concept of a Sophie Germain prime compare to a Fermat prime, studied in an earlier batch?",
+            "options": [
+              "A Sophie Germain prime is always also a Fermat prime",
+              "The two concepts describe identical sets of prime numbers",
+              "Fermat primes and Sophie Germain primes have no defining algebraic relationship at all",
+              "Both describe primes defined by a special algebraic relationship, though a Fermat prime has the form two to a power of two plus one, while a Sophie Germain prime is defined by the primality of two p plus one"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are Sophie Germain and safe primes of particular interest beyond pure number theory?",
+            "options": [
+              "Sophie Germain primes are used exclusively in geometry with no connection to encryption",
+              "Cryptography never makes use of any special class of prime numbers",
+              "They play a practical role in cryptography, including constructing secure keys for encryption systems",
+              "They have no application whatsoever outside of pure number theory"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Shooting Method for Boundary Value Problems",
+        "summary": "Grade 12 Calculus strand: the shooting method solves a boundary value problem by converting it into a sequence of initial value problems, repeatedly guessing an unknown initial condition and adjusting the guess until the resulting solution satisfies the required condition at the far boundary.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What kind of problem does the shooting method aim to solve?",
+            "options": [
+              "A problem with no boundary conditions of any kind",
+              "A problem defined only at a single isolated point",
+              "A boundary value problem",
+              "A purely algebraic equation with no differential component"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the shooting method convert a boundary value problem into?",
+            "options": [
+              "A sequence of initial value problems",
+              "A single unsolvable algebraic equation",
+              "A problem with no numerical component whatsoever",
+              "A purely geometric construction with no differential equation involved"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What iterative process does the shooting method use to find the correct solution?",
+            "options": [
+              "Repeatedly guessing an unknown initial condition and adjusting it until the far boundary condition is satisfied",
+              "Ignoring the boundary condition at the far end entirely",
+              "Solving the equation algebraically with no need for any guess",
+              "Selecting a single fixed guess with no further adjustment"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the shooting method relate to Sturm-Liouville theory, studied in an earlier batch?",
+            "options": [
+              "The two concepts have no connection to boundary conditions at all",
+              "The shooting method never involves any boundary conditions",
+              "Sturm-Liouville theory is itself a numerical method identical to the shooting method",
+              "Both concern differential equations with boundary conditions, though Sturm-Liouville theory analyzes eigenfunction structure while the shooting method is a numerical strategy for finding a solution"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the shooting method a practical strategy for solving boundary value problems numerically?",
+            "options": [
+              "Boundary value problems can never be approached using initial value problem techniques",
+              "It has no practical use for solving boundary value problems",
+              "It reduces an unfamiliar boundary value problem to repeated application of well-understood initial value problem solvers, such as Runge-Kutta methods",
+              "The method requires solving an infinite number of unrelated equations simultaneously"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Maxwells Equations and the Unification of Electricity and Magnetism",
+        "summary": "Grade 12 Physics strand: Maxwells equations are a set of four fundamental equations that together describe how electric and magnetic fields are generated and how they interact, unifying electricity, magnetism, and optics by showing that light itself is an electromagnetic wave predicted directly by the equations.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "How many fundamental equations make up the set known as Maxwells equations?",
+            "options": [
+              "Four",
+              "A number that changes depending on the material being studied",
+              "One",
+              "Ten"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do Maxwells equations together describe?",
+            "options": [
+              "Only the properties of solid crystal lattices",
+              "Only the behaviour of gases at constant temperature",
+              "How electric and magnetic fields are generated and how they interact",
+              "Only the motion of point masses under gravity, with no reference to fields"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What historically significant unification did Maxwells equations achieve?",
+            "options": [
+              "They unified only mechanics and thermodynamics, with no reference to electricity or magnetism",
+              "They showed that electricity and magnetism are entirely unrelated phenomena",
+              "They unified electricity, magnetism, and optics by showing that light is an electromagnetic wave",
+              "They eliminated the need to consider optics as a branch of physics at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How do Maxwells equations relate to the Poynting vector studied in an earlier batch?",
+            "options": [
+              "The Poynting vector predates and is entirely independent of Maxwells equations",
+              "Maxwells equations describe only static fields with no wave behaviour of any kind",
+              "The Poynting vector has no mathematical connection to Maxwells equations",
+              "The Poynting vector, which describes electromagnetic energy flow, is derived directly from the field relationships described by Maxwells equations"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are Maxwells equations considered one of the foundational achievements of classical physics?",
+            "options": [
+              "They provide a complete, unified mathematical description of electromagnetism and directly predict the existence of electromagnetic waves, including light",
+              "Maxwells equations were developed after and independently of any understanding of electric or magnetic fields",
+              "They have been shown to have no connection to the behaviour of light",
+              "They apply only to a single isolated electrical device with no broader significance"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "label": "Day 175 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Manifesto and the Rhetoric of Collective Declaration",
+        "summary": "Grade 12 English strand: a manifesto is a public declaration that boldly asserts a groups beliefs, grievances, and intentions, using confident, often urgent rhetoric and a clear enumerated structure to rally support and announce a program for change.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What is the basic purpose of a manifesto?",
+            "options": [
+              "To present a neutral, uncommitted summary with no clear position",
+              "To privately record a single individuals unpublished thoughts",
+              "To publicly declare a groups beliefs, grievances, and intentions",
+              "To document historical events with no persuasive or declarative purpose"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What tone does manifesto rhetoric typically adopt?",
+            "options": [
+              "Confident, often urgent rhetoric",
+              "A hesitant, apologetic tone throughout",
+              "A tone of complete indifference to its subject",
+              "A purely comic, non-serious tone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What structural feature often helps a manifesto organize its claims?",
+            "options": [
+              "A structure identical to a private diary entry",
+              "A structure that must always take the form of a single unbroken sentence",
+              "A clear enumerated structure",
+              "A structure that forbids any organization or listing of ideas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the manifesto compare to the jeremiad studied in an earlier batch?",
+            "options": [
+              "The jeremiad always presents a numbered list of demands",
+              "Both use forceful public rhetoric to call for change, but the manifesto asserts a forward-looking program while the jeremiad laments a decline from past values",
+              "The two forms are identical in structure, tone, and historical origin",
+              "A manifesto only ever laments the past with no forward-looking program"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a group choose the manifesto form to announce a new movement or cause?",
+            "options": [
+              "Its bold, declarative rhetoric can rally support and clearly define a shared identity and program for an audience",
+              "A manifesto is incapable of rallying any audience support",
+              "The manifesto form always weakens a groups stated cause",
+              "Declarative public rhetoric has no role in announcing a new movement"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: The Error Function and Its Link to the Normal Distribution",
+        "summary": "Grade 12 Advanced Functions strand: the error function is a special function defined by an integral that has no elementary closed form, used to express the cumulative probability of the normal distribution and to describe diffusion and heat-conduction processes that follow a similar bell-shaped pattern.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "How is the error function defined?",
+            "options": [
+              "By a purely geometric construction with no reference to integration",
+              "By an integral that has no elementary closed form",
+              "By a ratio of two integers with no integral involved",
+              "By a simple polynomial expression with a finite number of terms"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What probability concept is the error function closely used to express?",
+            "options": [
+              "The cumulative probability of the normal distribution",
+              "The exact value of a discrete binomial probability",
+              "The probability of a single coin flip landing heads",
+              "A probability that is always exactly equal to one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Besides probability, what kind of physical process can the error function help describe?",
+            "options": [
+              "Diffusion and heat-conduction processes",
+              "The vibration of a plucked string",
+              "The orbital motion of planets around a star",
+              "The refraction of light through a lens"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the error function relate to the normal distribution studied in an earlier batch?",
+            "options": [
+              "The error function replaces the need for the normal distribution entirely",
+              "The two concepts have no mathematical relationship whatsoever",
+              "The error function provides the mathematical tool used to compute cumulative probabilities under the normal distributions bell-shaped curve",
+              "The normal distribution is defined without any reference to integration of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it useful to have a named special function like the error function, even though it lacks an elementary closed form?",
+            "options": [
+              "Naming a function with no elementary closed form provides no practical benefit",
+              "It provides a standard, well-studied way to work with and compute an integral that otherwise cannot be expressed using elementary functions",
+              "The error function is identical to an elementary polynomial function",
+              "Special functions without elementary closed forms can never be computed or tabulated"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Perturbation Methods and Approximate Solutions to Differential Equations",
+        "summary": "Grade 12 Calculus strand: perturbation methods approximate the solution to a differential equation that is close to a simpler, exactly solvable equation by expressing the solution as a series in a small parameter, using the exactly solvable case as a starting point and successively correcting it.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What kind of differential equation do perturbation methods aim to approximate?",
+            "options": [
+              "An equation containing no parameters of any kind",
+              "One that is close to a simpler, exactly solvable equation",
+              "An equation that already has a simple, exact closed-form solution",
+              "An equation with no relationship to any simpler solvable case"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is the solution typically expressed in a perturbation method?",
+            "options": [
+              "As a series in a small parameter",
+              "As a finite polynomial of a fixed, predetermined degree",
+              "As a single constant with no dependence on any parameter",
+              "As a set of unrelated numerical values with no series structure"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What serves as the starting point for a perturbation method?",
+            "options": [
+              "An arbitrary random guess with no mathematical basis",
+              "The exactly solvable simpler case",
+              "A numerical simulation with no analytic starting point",
+              "A completely unrelated equation with no connection to the original problem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How do perturbation methods relate to asymptotic expansions, studied in an earlier batch?",
+            "options": [
+              "Both approximate a function or solution using a series that may not converge in the ordinary sense, with perturbation methods applying this to solutions near a solvable case",
+              "Asymptotic expansions can only be applied to purely algebraic equations",
+              "The two techniques have no conceptual relationship to one another",
+              "Perturbation methods always produce an exact, non-approximate solution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are perturbation methods valuable for problems that cannot be solved exactly?",
+            "options": [
+              "They provide no useful information about problems lacking an exact solution",
+              "Perturbation methods require the original problem to already have a known exact solution",
+              "The technique can only ever be applied to a single specific equation",
+              "They provide a systematic way to build an increasingly accurate approximate solution by correcting a known, exactly solvable starting case"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Lens Aberrations: Chromatic and Spherical Distortion",
+        "summary": "Grade 12 Physics strand: a lens aberration is a deviation from perfect image formation, with chromatic aberration arising because a lens refracts different wavelengths of light by different amounts, and spherical aberration arising because rays passing through the edges of a spherically shaped lens focus at a different point than rays near its centre.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What is a lens aberration, in general terms?",
+            "options": [
+              "A deviation that only affects the colour of the lens itself, with no effect on any image",
+              "A deviation from perfect image formation by a lens",
+              "A property that only appears in lenses with no curvature whatsoever",
+              "A term describing a lens that has no optical properties at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What causes chromatic aberration in a lens?",
+            "options": [
+              "The lens refracts different wavelengths of light by different amounts",
+              "The lens absorbs all wavelengths of light equally, producing no image",
+              "The lens has no interaction with light of any wavelength",
+              "Chromatic aberration is caused entirely by the lenses temperature"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What causes spherical aberration in a lens?",
+            "options": [
+              "Spherical aberration is caused by a lens absorbing all incoming light",
+              "Rays passing through the edges of a spherically shaped lens focus at a different point than rays near its centre",
+              "Spherical aberration only occurs in lenses with no curvature",
+              "All rays passing through a spherical lens always focus at exactly the same point with no exception"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does chromatic aberration relate to the refraction studied earlier in this course?",
+            "options": [
+              "Chromatic aberration only occurs in the complete absence of any refraction",
+              "Chromatic aberration arises directly from the wavelength-dependent refraction, or dispersion, of light as it passes through a lens",
+              "Chromatic aberration has no connection to the refraction of light at all",
+              "Refraction affects every wavelength of light in exactly the same way, with no dependence on colour"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is understanding lens aberrations important for designing optical instruments, such as telescopes and microscopes studied in an earlier batch?",
+            "options": [
+              "Aberrations have no impact on the image quality produced by an optical instrument",
+              "Lens aberrations can only occur in instruments with no lenses at all",
+              "Correcting for aberrations, often using combinations of different lens shapes and materials, is necessary to produce sharp images in precision instruments",
+              "High-quality optical instruments never need to account for any lens aberration"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "label": "Day 176 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Analysis: Meme Culture and Compressed Visual Rhetoric",
+        "summary": "Grade 12 English strand: an internet meme compresses a cultural reference, image, and short text into a highly shareable, rapidly mutating unit of communication, relying on shared context and irony to convey meaning far beyond what its brief surface content states directly.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What elements does an internet meme typically compress into a single unit?",
+            "options": [
+              "A lengthy, uncompressed academic essay",
+              "A cultural reference, image, and short text",
+              "A single word with no image or reference",
+              "An entire feature-length film with no compression at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What quality allows memes to spread and change rapidly across audiences?",
+            "options": [
+              "Their requirement of lengthy, formal publication before sharing",
+              "Their total lack of any visual or textual content",
+              "Their complete resistance to being copied or altered",
+              "Their highly shareable, rapidly mutating format"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do memes often rely on to convey meaning beyond their literal surface content?",
+            "options": [
+              "Shared context and irony",
+              "A complete absence of any shared cultural reference",
+              "Strictly literal, unambiguous statements with no irony",
+              "Formal academic citation of sources"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does meme culture compare to the political speechwriting studied in an earlier batch?",
+            "options": [
+              "Political speechwriting relies entirely on irony and rapid mutation",
+              "Memes are always formally delivered as spoken addresses",
+              "The two forms are identical in structure, length, and delivery",
+              "Both use deliberately chosen language and imagery to persuade, though memes rely on rapid visual-textual compression and irony rather than sustained oratory"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might understanding meme rhetoric be considered a relevant media literacy skill?",
+            "options": [
+              "Media literacy has no connection to visual or internet culture",
+              "Memes always convey their full meaning literally with no need for interpretation",
+              "Memes can shape public opinion and cultural conversation rapidly, so recognizing how they compress and mutate meaning helps a reader interpret them critically",
+              "Memes have no influence on public opinion or cultural conversation"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Statistics: The Monty Hall Problem and Conditional Probability Revisited",
+        "summary": "Grade 12 Advanced Functions strand: the Monty Hall problem is a classic probability puzzle in which a contestant chooses one of three doors, one door is revealed to be empty, and switching to the remaining unopened door counterintuitively doubles the contestants probability of winning, illustrating how new information changes conditional probability.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "In the classic setup of the Monty Hall problem, how many doors does a contestant initially choose from?",
+            "options": [
+              "Two doors",
+              "Three doors",
+              "Five doors",
+              "A number of doors that changes randomly each round"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What counterintuitive result does the Monty Hall problem demonstrate about switching doors after one is revealed to be empty?",
+            "options": [
+              "Switching has no effect at all on the contestants probability of winning",
+              "Switching doubles the contestants probability of winning compared to staying with the original choice",
+              "Staying with the original door always doubles the winning probability instead",
+              "Switching always guarantees a loss for the contestant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What general probability concept does the Monty Hall problem illustrate?",
+            "options": [
+              "That all doors always retain exactly equal probability regardless of new information",
+              "That conditional probability never changes once an initial choice is made",
+              "How new information changes conditional probability",
+              "That probability calculations are impossible once any information is revealed"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the Monty Hall problem relate to conditional probability and independence, studied in an earlier batch?",
+            "options": [
+              "It provides a concrete, famous example of how revealing new information changes a conditional probability",
+              "The Monty Hall problem has no connection to conditional probability of any kind",
+              "The Monty Hall problem shows that new information can never affect any probability",
+              "Conditional probability, once studied, can never apply to a game-based scenario"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why has the Monty Hall problem remained a popular teaching example in probability courses?",
+            "options": [
+              "The problem is entirely intuitive with no surprising or counterintuitive result",
+              "It has no pedagogical value for teaching probability concepts",
+              "Its counterintuitive result challenges common misconceptions about probability, making it a memorable teaching illustration",
+              "It cannot be verified through repeated simulation or trials"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Fixed-Point Iteration Method for Root Approximation",
+        "summary": "Grade 12 Calculus strand: fixed-point iteration approximates a root of an equation by rewriting it in the form x equals g of x and repeatedly applying the function g to an initial guess, converging toward a fixed point of g that corresponds to the desired root under suitable conditions.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "How is an equation rewritten before applying fixed-point iteration?",
+            "options": [
+              "In the form x equals g of x",
+              "As a system of several unrelated equations",
+              "As a definite integral with fixed limits",
+              "In a form with no variable x present at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What repeated operation does fixed-point iteration perform on an initial guess?",
+            "options": [
+              "Repeatedly differentiating the original equation with no further evaluation",
+              "Repeatedly applying the function g to the guess",
+              "Repeatedly multiplying the guess by a fixed constant with no reference to g",
+              "Repeatedly discarding the guess and choosing a new random starting value"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the iteration converge toward, under suitable conditions?",
+            "options": [
+              "A value that grows without bound in every case",
+              "A value that oscillates forever with no defined limit",
+              "A single incorrect value unrelated to any root",
+              "A fixed point of g that corresponds to the desired root"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does fixed-point iteration compare to Newtons method for root approximation, studied in an earlier batch?",
+            "options": [
+              "The two methods are identical in every computational step",
+              "Both are iterative numerical techniques for approximating a root, though Newtons method uses the functions derivative while fixed-point iteration relies on a rewritten function g",
+              "Fixed-point iteration always requires computing a derivative at each step",
+              "Newtons method never involves any iterative repetition"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is the choice of how to rewrite an equation as x equals g of x important for fixed-point iteration to succeed?",
+            "options": [
+              "Fixed-point iteration always converges regardless of the properties of g",
+              "Any rearrangement of the equation is guaranteed to converge to the correct root",
+              "The choice of g has no effect on whether the iteration converges",
+              "Not every rearrangement leads to convergence, so the properties of g near the root determine whether the iteration converges"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Spin-Orbit Coupling and Fine Structure in Atomic Spectra",
+        "summary": "Grade 12 Physics strand: spin-orbit coupling is the interaction between an electrons intrinsic spin and its orbital motion around the nucleus, producing a small splitting of atomic energy levels known as fine structure that appears as closely spaced lines in a high-resolution atomic spectrum.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What two properties of an electron interact in spin-orbit coupling?",
+            "options": [
+              "Its temperature and its colour",
+              "Its position and its exact chemical identity",
+              "Its intrinsic spin and its orbital motion around the nucleus",
+              "Its mass and its electric charge, with no reference to spin or orbit"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What effect does spin-orbit coupling produce in an atoms energy levels?",
+            "options": [
+              "A complete elimination of every atomic energy level",
+              "An effect that only appears in atoms with no electrons at all",
+              "A single, unified energy level with no splitting of any kind",
+              "A small splitting of atomic energy levels known as fine structure"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does fine structure typically appear in a high-resolution atomic spectrum?",
+            "options": [
+              "As a single, perfectly uniform line with no splitting visible",
+              "As a complete absence of any spectral lines",
+              "As closely spaced lines",
+              "As lines that appear only in the infrared range with no other structure"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does spin-orbit coupling relate to the Zeeman effect, studied in an earlier batch?",
+            "options": [
+              "The Zeeman effect has no connection to atomic energy level splitting",
+              "Spin-orbit coupling requires an external magnetic field to occur, exactly like the Zeeman effect",
+              "Both involve subtle splitting of atomic energy levels, though the Zeeman effect arises from an externally applied magnetic field while spin-orbit coupling is an internal interaction",
+              "The two effects are identical, with no distinction between an external field and an internal interaction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is fine structure an important consideration in precision atomic spectroscopy?",
+            "options": [
+              "Precision spectroscopy never reveals any splitting of atomic energy levels",
+              "Fine structure has no relevance to understanding atomic structure",
+              "It reveals subtle internal interactions within the atom that a simpler energy-level model would miss",
+              "Fine structure only appears in atoms with no internal interactions of any kind"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "label": "Day 177 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Drama: Kitchen Sink Realism and the Angry Young Men",
+        "summary": "Grade 12 English strand: kitchen sink realism is a mid-twentieth-century British dramatic movement that staged the everyday domestic lives of working-class characters in gritty, unglamorous detail, closely associated with a group of writers dubbed the angry young men for their frustration with established social convention.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What kind of setting and characters does kitchen sink realism typically depict?",
+            "options": [
+              "Abstract, plotless scenes with no characters at all",
+              "A purely fantastical setting with no connection to everyday life",
+              "The everyday domestic lives of working-class characters in gritty, unglamorous detail",
+              "The lavish lives of royalty in a distant historical era"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what era and national context did kitchen sink realism emerge?",
+            "options": [
+              "Twenty-first-century global streaming platforms",
+              "Mid-twentieth-century Britain",
+              "Ancient Greece",
+              "Renaissance Italy"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What label was given to a group of writers associated with this movement?",
+            "options": [
+              "The gentle old men",
+              "The silent generation",
+              "The court poets",
+              "The angry young men"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does kitchen sink realism compare to the problem play studied earlier in this batch?",
+            "options": [
+              "Both stage social reality for critical effect, but kitchen sink realism foregrounds gritty, everyday working-class domestic detail rather than a single pointed social issue",
+              "Kitchen sink realism avoids any depiction of everyday domestic detail",
+              "The two movements are identical in setting, class focus, and historical period",
+              "The problem play always depicts working-class domestic life exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might frustration with established social convention have driven writers toward gritty, realistic domestic drama?",
+            "options": [
+              "Depicting ordinary working-class life honestly could challenge idealized or sanitized depictions of society found in earlier, more conventional drama",
+              "Frustration with convention has no connection to the choice of dramatic subject matter",
+              "Realistic domestic drama is incapable of expressing any social frustration",
+              "Kitchen sink realism was created to celebrate established social convention"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Discrete Math: Turans Theorem and Extremal Graph Theory",
+        "summary": "Grade 12 Advanced Functions strand: Turans theorem gives the maximum number of edges a graph can have while still avoiding a complete subgraph of a specified size, a foundational result in extremal graph theory that studies how large or dense a graph can become before a particular structure becomes unavoidable.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What does Turans theorem determine about a graph?",
+            "options": [
+              "The shortest path between any two vertices in a graph",
+              "The minimum number of vertices required for any graph to exist",
+              "The exact number of Hamiltonian cycles contained in a graph",
+              "The maximum number of edges a graph can have while still avoiding a complete subgraph of a specified size"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader area of mathematics does Turans theorem belong to?",
+            "options": [
+              "Extremal graph theory",
+              "Differential calculus",
+              "Basic arithmetic with no connection to graphs",
+              "Trigonometry"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What general question does extremal graph theory investigate?",
+            "options": [
+              "How to compute the derivative of a graphs defining function",
+              "How to convert a graph into a system of linear equations only",
+              "How large or dense a graph can become before a particular structure becomes unavoidable",
+              "How to measure the physical distance between vertices on a printed page"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does Turans theorem relate to Ramsey theory, studied in an earlier batch?",
+            "options": [
+              "Both are foundational results in extremal graph theory concerned with when patterns must appear, though Ramsey theory guarantees a substructure appears given enough size while Turans theorem bounds edge count to avoid one",
+              "Turans theorem has no connection to when patterns must appear in a graph",
+              "Ramsey theory and Turans theorem prove exactly the same statement",
+              "The two theories are entirely unrelated fields of mathematics"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is Turans theorem considered a foundational result in graph theory?",
+            "options": [
+              "It has had no influence on the later development of graph theory",
+              "It shows that graph density has no relationship to substructure avoidance",
+              "The theorem applies only to graphs with a single vertex",
+              "It gives one of the first precise answers to how dense a graph can be while still avoiding a specific forbidden substructure"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Clairauts Equation and Singular Solutions",
+        "summary": "Grade 12 Calculus strand: Clairauts equation is a first-order differential equation of a special form involving the derivative both linearly and inside another function, whose general solution is a family of straight lines and which also possesses a singular solution, an additional solution not captured by that family, forming the envelope of the lines.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "How does the derivative appear in Clairauts equation?",
+            "options": [
+              "It does not appear in the equation at all",
+              "Only inside a trigonometric function with no linear term",
+              "Only as a squared term with no other appearance",
+              "Linearly, and also inside another function"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What form does the general solution of Clairauts equation take?",
+            "options": [
+              "A family of circles centred at the origin",
+              "A family of straight lines",
+              "A single fixed curve with no family of solutions",
+              "A solution that cannot be expressed as any geometric curve"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a singular solution of Clairauts equation?",
+            "options": [
+              "A solution identical to every line in the general family",
+              "A solution that only exists when no derivative is present",
+              "A term used to describe an equation with no solution at all",
+              "An additional solution not captured by the general family of straight lines"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the singular solution of Clairauts equation relate to the envelope of a family of curves, studied in an earlier batch?",
+            "options": [
+              "The singular solution has no relationship whatsoever to the envelope of a family of curves",
+              "The envelope of a family of curves can never correspond to any solution of a differential equation",
+              "Clairauts equation has no general family of solutions to form an envelope from",
+              "The singular solution is precisely the envelope traced out by the general familys straight-line solutions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is Clairauts equation considered a notable example in the study of differential equations?",
+            "options": [
+              "It shows that every differential equation has exactly one solution with no exceptions",
+              "It shows that a differential equation can have solutions beyond its general family, illustrating a richer solution structure",
+              "It proves that singular solutions never occur in the study of differential equations",
+              "Clairauts equation has no distinguishing features compared to other first-order equations"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Stellar Nucleosynthesis and the Origin of the Elements",
+        "summary": "Grade 12 Physics strand: stellar nucleosynthesis is the process by which stars fuse lighter atomic nuclei into heavier ones in their cores, building up elements from hydrogen through iron during a stars normal lifetime, while still heavier elements form during the extreme conditions of a supernova.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What process does stellar nucleosynthesis describe?",
+            "options": [
+              "A process with no connection to atomic nuclei of any kind",
+              "Stars fusing lighter atomic nuclei into heavier ones in their cores",
+              "Stars breaking heavier nuclei apart into lighter ones with no fusion involved",
+              "A process that occurs only outside of any star"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Up to which element can normal stellar fusion during a stars typical lifetime build?",
+            "options": [
+              "Iron",
+              "Hydrogen alone, with no heavier elements produced",
+              "Uranium",
+              "A single fixed element that never varies between different stars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Under what extreme conditions do elements heavier than iron typically form?",
+            "options": [
+              "During the extreme conditions of a supernova",
+              "Only in a laboratory setting on Earth, with no connection to stars",
+              "During the quiet, stable early formation of any star",
+              "Elements heavier than iron never form under any known process"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does stellar nucleosynthesis relate to nuclear fusion and nuclear reactions studied in an earlier batch?",
+            "options": [
+              "It applies the general principles of nuclear fusion to the astrophysical setting of a stars core, explaining how fusion reactions build up heavier elements over time",
+              "Nuclear fusion can only occur in a laboratory and never within a star",
+              "Nuclear reactions studied earlier apply only to radioactive decay and never to fusion",
+              "Stellar nucleosynthesis has no connection to nuclear fusion or nuclear reactions"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is stellar nucleosynthesis considered a fundamental process for understanding the origin of matter in the universe?",
+            "options": [
+              "It explains how chemical elements beyond the simplest ones formed and were eventually dispersed to form planets and living organisms",
+              "Stellar nucleosynthesis shows that all elements existed unchanged since the very beginning of the universe",
+              "The process only explains the origin of hydrogen, with no other elements involved",
+              "It has no connection to the origin or distribution of chemical elements in the universe"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "label": "Day 178 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar and Style: The Rhetorical Question and Its Persuasive Force",
+        "summary": "Grade 12 English strand: a rhetorical question is posed not to elicit a genuine answer but to make a point emphatically, drawing the audience into apparent agreement by implying that the answer is obvious, a device widely used across persuasive writing and oratory.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What is the primary purpose of a rhetorical question?",
+            "options": [
+              "To avoid making any point or argument whatsoever",
+              "To make a point emphatically rather than to elicit a genuine answer",
+              "To gather a wide range of genuinely uncertain responses from an audience",
+              "To test a listeners factual recall with no persuasive intent"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a rhetorical question typically draw an audience toward a writers position?",
+            "options": [
+              "By requiring the audience to conduct independent research before responding",
+              "By presenting several equally plausible answers with no implied preference",
+              "By avoiding any implication about the correct answer",
+              "By implying that the answer is obvious, drawing the audience into apparent agreement"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In what kinds of writing is the rhetorical question widely used?",
+            "options": [
+              "Only in mathematical proofs with no persuasive purpose",
+              "Persuasive writing and oratory",
+              "Only in private, unpublished notes",
+              "Only in strictly factual technical manuals"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the rhetorical question compare to repetition as a rhetorical device, studied in an earlier batch?",
+            "options": [
+              "Both are rhetorical devices used to create persuasive emphasis, though repetition relies on recurring words or phrases while the rhetorical question relies on an implied, obvious answer",
+              "Repetition can never be combined with any other persuasive device",
+              "The two devices are identical in their exact technique",
+              "A rhetorical question always requires a genuinely uncertain answer"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can the rhetorical question be an especially effective device in a persuasive speech or essay?",
+            "options": [
+              "A rhetorical question removes any persuasive force from an argument",
+              "The device has no effect on how an audience perceives a writers conclusion",
+              "It always confuses an audience about the writers actual position",
+              "It can make an audience feel they have arrived at the writers conclusion themselves, strengthening their sense of agreement"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Number Theory: Practical Numbers and Egyptian Fraction Representations",
+        "summary": "Grade 12 Advanced Functions strand: a practical number is a positive integer whose smaller positive divisors can be combined by addition to represent every smaller positive integer, a property closely connected to Egyptian fractions, which express a rational number as a sum of distinct unit fractions.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What defining property must a practical number have?",
+            "options": [
+              "It must be a perfect square with no odd divisors",
+              "It must have exactly two positive divisors in total",
+              "Its smaller positive divisors can be combined by addition to represent every smaller positive integer",
+              "It must be prime with no divisors other than one and itself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is an Egyptian fraction?",
+            "options": [
+              "A fraction with a denominator that must always equal zero",
+              "A fraction that cannot be expressed using any unit fractions",
+              "A representation of a rational number as a sum of distinct unit fractions",
+              "A representation using only negative numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a unit fraction refer to in the context of Egyptian fractions?",
+            "options": [
+              "A fraction with a numerator of one",
+              "A fraction that is always negative",
+              "A fraction where numerator and denominator are equal",
+              "A fraction with a denominator of one"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does the concept of a practical number relate to perfect numbers, studied in an earlier batch?",
+            "options": [
+              "Both are special classes of integers defined by properties of their divisors, though a perfect number requires its divisors to sum to the number itself, while a practical number requires its divisors to be combinable to represent every smaller integer",
+              "A practical number must always also be a perfect number",
+              "Perfect numbers and practical numbers have no relationship to divisors at all",
+              "The two concepts describe exactly the same set of integers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might practical numbers be useful for constructing Egyptian fraction representations?",
+            "options": [
+              "Practical numbers have no connection to constructing fraction representations",
+              "Practical numbers make it impossible to represent any rational number as a sum of unit fractions",
+              "Egyptian fractions can only ever be built from prime numbers",
+              "Their divisor structure makes it possible to build sums of unit fractions that represent a wide range of target values systematically"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Curl Test and the Role of Simply Connected Domains",
+        "summary": "Grade 12 Calculus strand: the curl test checks whether a vector field is conservative by verifying that its curl is zero, a condition that guarantees a well-defined potential function only when the fields domain is simply connected, meaning it contains no holes that could trap a closed loop.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the curl test check to determine whether a vector field might be conservative?",
+            "options": [
+              "Whether the curl of the vector field is zero",
+              "Whether the vector field is defined at exactly one point",
+              "Whether the vector field has a nonzero divergence everywhere",
+              "Whether the vector fields magnitude is constant throughout its domain"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What additional condition on the domain is required for a zero curl to guarantee a well-defined potential function?",
+            "options": [
+              "The domain must be simply connected",
+              "The domain must contain at least one hole",
+              "The domain must have an undefined boundary",
+              "The domain must be entirely one-dimensional"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does it mean for a domain to be simply connected, in this context?",
+            "options": [
+              "It consists of a single isolated point with no surrounding region",
+              "It contains infinitely many disconnected holes",
+              "It contains no holes that could trap a closed loop",
+              "It has no boundary of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the curl test relate to conservative vector fields, studied in an earlier batch?",
+            "options": [
+              "The curl test provides a practical computational check for the same conservative property studied earlier, though its guarantee depends on the domain being simply connected",
+              "Conservative vector fields always have a nonzero curl",
+              "A vector field with zero curl is automatically conservative on every possible domain with no exception",
+              "The curl test and conservative vector fields are entirely unrelated concepts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why does the shape of a vector fields domain matter when applying the curl test?",
+            "options": [
+              "A domain with a hole can allow a zero-curl field to still fail to have a well-defined potential function around a loop enclosing that hole",
+              "Every domain, regardless of holes, guarantees a well-defined potential function",
+              "A hole in the domain always increases the curl of a vector field",
+              "The shape of the domain never affects whether a zero-curl field is conservative"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Phonons and the Quantization of Lattice Vibrations",
+        "summary": "Grade 12 Physics strand: a phonon is a quantum of vibrational energy in a crystal lattice, representing the quantized collective motion of atoms much as a photon represents a quantum of electromagnetic energy, and phonons play a central role in explaining how solids conduct heat and sound.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does a phonon represent in a crystal lattice?",
+            "options": [
+              "A quantum of electric charge stored in the lattice",
+              "A particle of light travelling through the crystal",
+              "A quantum of vibrational energy, representing quantized collective motion of atoms",
+              "A single, isolated atom with no connection to vibration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "To which other quantized particle is the phonon often compared?",
+            "options": [
+              "The electron, considered purely as a charge carrier",
+              "A particle with no analogous role in any other area of physics",
+              "The neutron, a particle found in the atomic nucleus",
+              "The photon, a quantum of electromagnetic energy"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of motion does a phonon specifically quantize?",
+            "options": [
+              "The motion of electrons alone, with no reference to atomic vibration",
+              "The motion of a single free particle in empty space",
+              "The rotational motion of an entire crystal as a rigid body",
+              "The collective vibrational motion of atoms in a lattice"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the concept of the phonon relate to band theory of solids, studied in an earlier batch?",
+            "options": [
+              "Band theory has no connection to any process occurring within a solid material",
+              "Both are quantum-mechanical frameworks used to explain solids, with band theory describing electron energy levels and phonons describing quantized lattice vibration",
+              "Phonons and band theory describe exactly the same physical phenomenon with no distinction",
+              "Phonons apply only to gases and have no relevance to solids"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why are phonons important for explaining how solids conduct heat and sound?",
+            "options": [
+              "Phonons only apply to describing the optical properties of a crystal",
+              "Phonons have no role in explaining heat or sound conduction in solids",
+              "Heat and sound can only travel through a solid via the motion of free electrons, with no vibrational component",
+              "Heat and sound propagate through a solid largely via the quantized vibrations of its lattice, which phonons describe"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "label": "Day 179 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Carnivalesque and Bakhtins Theory of Inversion",
+        "summary": "Grade 12 English strand: the carnivalesque, a concept developed by theorist Mikhail Bakhtin, describes moments in literature when the usual social order is temporarily inverted, with hierarchy, decorum, and authority mocked or suspended in a spirit of festive, communal disruption.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What happens to the usual social order during a carnivalesque moment in literature?",
+            "options": [
+              "It becomes permanently and irreversibly fixed with no possibility of change",
+              "It disappears from the narrative entirely with no depiction of society at all",
+              "It is temporarily inverted, with hierarchy and authority mocked or suspended",
+              "It is reinforced and celebrated with no disruption of any kind"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which theorist developed the concept of the carnivalesque?",
+            "options": [
+              "A theorist with no connection to literary criticism",
+              "A theorist working exclusively in ancient Greece",
+              "A dramatist rather than a literary theorist",
+              "Mikhail Bakhtin"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What spirit typically characterizes carnivalesque disruption?",
+            "options": [
+              "A spirit with no connection to community or festivity",
+              "A festive, communal spirit of disruption",
+              "A spirit of strict, unquestioning obedience to authority",
+              "A solemn, entirely joyless atmosphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the carnivalesque compare to Menippean satire, studied in an earlier batch?",
+            "options": [
+              "Menippean satire always depicts a festive communal celebration",
+              "Both can destabilize serious authority through disruption, though the carnivalesque centres on festive, communal reversal of hierarchy rather than Menippean satires mockery of intellectual attitudes",
+              "The two concepts describe exactly the same literary device with no distinction",
+              "The carnivalesque has no connection to mocking or suspending authority"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author use carnivalesque inversion to critique authority or social hierarchy?",
+            "options": [
+              "Festive disruption is incapable of exposing anything about social hierarchy",
+              "Temporarily upending the normal order in a festive context can expose its arbitrariness and open space for critique",
+              "Carnivalesque inversion always reinforces existing authority with no critical effect",
+              "The carnivalesque removes any possibility of social commentary from a text"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "Functions: Newtons Identities and Power Sums of Polynomial Roots",
+        "summary": "Grade 12 Advanced Functions strand: Newtons identities relate the power sums of a polynomials roots, meaning the sums of each root raised to a fixed power, to the polynomials coefficients, providing a systematic way to compute these power sums without ever finding the individual roots directly.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What do Newtons identities relate to a polynomials coefficients?",
+            "options": [
+              "The power sums of the polynomials roots",
+              "The exact numerical value of each individual root",
+              "The derivative of the polynomial at each root",
+              "The graph of the polynomial at a single fixed point"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is meant by a power sum of a polynomials roots?",
+            "options": [
+              "The product of all the roots multiplied together",
+              "The average of the coefficients of the polynomial",
+              "The sum of each root raised to a fixed power",
+              "The difference between the largest and smallest root"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What practical advantage do Newtons identities offer when working with a polynomials roots?",
+            "options": [
+              "They allow power sums of the roots to be computed without ever finding the individual roots directly",
+              "They require every individual root to be computed first before anything else can be found",
+              "They only apply to polynomials with exactly one root",
+              "They eliminate the need to know the polynomials coefficients"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do Newtons identities relate to Vietas formulas, studied in an earlier batch?",
+            "options": [
+              "Newtons identities require the roots to be irrational in every case",
+              "Vietas formulas and Newtons identities are simply two different names for an identical statement",
+              "The two results describe entirely unrelated relationships between roots and coefficients",
+              "Both connect a polynomials roots to its coefficients, though Vietas formulas give elementary symmetric functions directly while Newtons identities give a recursive way to compute power sums"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are Newtons identities a useful tool in algebra and beyond?",
+            "options": [
+              "They make it impossible to relate a polynomials roots to its coefficients",
+              "They have no practical use outside of a single narrow theoretical context",
+              "They give a systematic, coefficient-based method for computing quantities related to a polynomials roots, useful from algebra to numerical analysis",
+              "Newtons identities can only be applied to polynomials of degree one"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "The Weierstrass M-Test and Uniform Convergence of Series",
+        "summary": "Grade 12 Calculus strand: the Weierstrass M-test provides a sufficient condition for a series of functions to converge uniformly, by comparing each term to a constant bound whose corresponding numerical series converges, a tool essential for justifying operations such as differentiating or integrating a series term by term.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What does the Weierstrass M-test provide a sufficient condition for?",
+            "options": [
+              "The divergence of every series to which it is applied",
+              "Uniform convergence of a series of functions",
+              "The existence of a single root of a polynomial",
+              "The exact numerical value of a convergent series"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does the Weierstrass M-test compare each term of a series to?",
+            "options": [
+              "The derivative of the original function at a single point",
+              "A term from a completely unrelated, divergent series",
+              "A constant bound whose corresponding numerical series converges",
+              "A bound that grows without limit as more terms are added"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of series does the Weierstrass M-test require to converge, alongside the original series of functions?",
+            "options": [
+              "A series with infinitely many negative terms and no defined bound",
+              "A series involving no numbers of any kind",
+              "A numerical series formed from the constant bounds",
+              "A series identical to the original series of functions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is establishing uniform convergence, as the Weierstrass M-test helps do, important for term-by-term differentiation or integration of a series?",
+            "options": [
+              "Term-by-term differentiation is always valid regardless of any convergence property",
+              "Uniform convergence justifies swapping the order of an infinite sum with a limiting operation like differentiation or integration",
+              "The Weierstrass M-test eliminates the need to ever differentiate or integrate a series",
+              "Uniform convergence has no bearing on whether term-by-term differentiation or integration is valid"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does the Weierstrass M-test relate to the ratio test and comparison test for series convergence, studied in an earlier batch?",
+            "options": [
+              "All three compare a series to a simpler, better-understood series or bound, though the M-test specifically targets uniform convergence of a series of functions",
+              "The Weierstrass M-test can only be applied to divergent series",
+              "The ratio test and comparison test both establish uniform convergence identically to the M-test",
+              "The tests are entirely unrelated in method and purpose"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "The Electric Dipole and Dipole Moment",
+        "summary": "Grade 12 Physics strand: an electric dipole consists of two equal and opposite charges separated by a small distance, characterized by a dipole moment whose magnitude and direction determine the strength and orientation of the electric field the pair produces and how the pair responds to an external field.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What does an electric dipole consist of?",
+            "options": [
+              "A charge with no defined position in space",
+              "Two equal and opposite charges separated by a small distance",
+              "A single isolated charge with no partner charge",
+              "Two identical charges of the same sign placed close together"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What quantity characterizes an electric dipole and determines the field it produces?",
+            "options": [
+              "The dipole moment",
+              "The colour of the material containing the charges",
+              "The temperature of the surrounding medium",
+              "The total mass of the two charges"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two properties does the dipole moment specify?",
+            "options": [
+              "Only a single numerical magnitude with no direction",
+              "Only a temperature value with no other property",
+              "Magnitude and direction",
+              "Only a colour with no magnitude or direction"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How does the electric dipole relate to electric fields and potential, studied in an earlier batch?",
+            "options": [
+              "A dipoles field is completely unrelated to the fields produced by its individual charges",
+              "The electric dipole has no connection to electric fields or potential",
+              "An electric dipoles field can be understood as the combined field produced by its two point charges, extending the basic principles of electric fields and potential to a pair of charges",
+              "Electric fields and potential apply only to a single isolated charge and never to a pair"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the concept of the electric dipole moment useful for describing how a dipole responds to an external electric field?",
+            "options": [
+              "The dipole moment only describes a dipoles behaviour in the complete absence of any external field",
+              "The dipole moment has no bearing on how a dipole behaves in an external electric field",
+              "A dipole never experiences any torque or force in an external electric field",
+              "The dipole moment determines the torque and potential energy experienced by the dipole when placed in an external field, describing how it tends to align"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "label": "Day 180 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Narrative Tradition, Theory, and Public Rhetoric",
+        "summary": "Grade 12 English review: revisiting the saga tradition, the problem play, post-structuralism, the georgic, and the manifesto from Days 171-175.",
+        "resourceLabel": "TVO Learn: Grade 12 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "quiz": [
+          {
+            "q": "What kind of subject matter does a typical Icelandic saga recount?",
+            "options": [
+              "A single characters private, interior thoughts with no external action",
+              "An entirely fictional world with no connection to genealogy or history",
+              "Purely comic misunderstandings with no serious consequences",
+              "The lives, feuds, and voyages of legendary or historical families and heroes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of issue does a problem play typically stage?",
+            "options": [
+              "A purely fantastical conflict with no connection to real social life",
+              "A conflict resolved entirely offstage before the play begins",
+              "A specific contemporary social issue, often within a realistic domestic setting",
+              "A historical event from many centuries earlier with no contemporary relevance"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What structuralist assumption does post-structuralism challenge?",
+            "options": [
+              "That meaning is always entirely stable and fixed in every text",
+              "That texts can ever be analyzed using critical theory",
+              "That language has any structure whatsoever",
+              "That language rests on stable, fixed relationships between signifier and signified"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What subject matter does a georgic poem typically treat?",
+            "options": [
+              "Purely urban settings with no connection to land or agriculture",
+              "Abstract philosophical argument with no reference to physical labour",
+              "Warfare and heroic combat exclusively",
+              "The practical labour of farming, land, and rural life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the basic purpose of a manifesto?",
+            "options": [
+              "To present a neutral, uncommitted summary with no clear position",
+              "To privately record a single individuals unpublished thoughts",
+              "To publicly declare a groups beliefs, grievances, and intentions",
+              "To document historical events with no persuasive or declarative purpose"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "AdvancedFunctions",
+        "title": "AdvancedFunctions Review: Probability Pitfalls, Graph Circuits, and Prime Variants",
+        "summary": "Grade 12 Advanced Functions review: revisiting Simpsons paradox, Type I and Type II errors, the Chinese postman problem, Sophie Germain primes, and the error function from Days 171-175.",
+        "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "quiz": [
+          {
+            "q": "What happens in Simpsons paradox to a trend observed within separate groups of data?",
+            "options": [
+              "The trend can reverse or disappear when the groups are combined into a single aggregated data set",
+              "The trend remains completely unchanged regardless of how the data is grouped",
+              "The paradox only occurs when there is exactly one group of data",
+              "The trend always becomes stronger and more obvious once the groups are combined"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens during a Type I error?",
+            "options": [
+              "A false null hypothesis is correctly rejected",
+              "A true null hypothesis is correctly retained",
+              "No hypothesis of any kind is being tested",
+              "A true null hypothesis is incorrectly rejected"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Chinese postman problem ask for?",
+            "options": [
+              "A route that avoids traversing any edge of the graph",
+              "The single longest possible route through a graph with no return requirement",
+              "The shortest possible route that traverses every edge of a graph at least once and returns to the starting point",
+              "The shortest route that visits every vertex exactly once with no reference to edges"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What defining property must a Sophie Germain prime p satisfy?",
+            "options": [
+              "Two p plus one must also be a prime number",
+              "p must be an even number greater than two",
+              "p must be exactly one less than a power of two",
+              "p must equal the sum of two smaller primes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is the error function defined?",
+            "options": [
+              "By a purely geometric construction with no reference to integration",
+              "By an integral that has no elementary closed form",
+              "By a simple polynomial expression with a finite number of terms",
+              "By a ratio of two integers with no integral involved"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Calculus",
+        "title": "Calculus Review: Substitution, Multistep, and Boundary Techniques",
+        "summary": "Grade 12 Calculus review: revisiting homogeneous differential equations, the Adams-Moulton method, stiff differential equations, the shooting method, and perturbation methods from Days 171-175.",
+        "resourceLabel": "TVO Learn: Grade 12 Calculus and Vectors",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus-and-vectors",
+        "quiz": [
+          {
+            "q": "What defining property does this type of homogeneous differential equation have?",
+            "options": [
+              "It can never be written as a first-order equation",
+              "It contains no derivative of any kind",
+              "Its right-hand side depends only on the ratio of its variables",
+              "Its right-hand side is always equal to zero"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What distinguishes the Adams-Moulton method as an implicit multistep method?",
+            "options": [
+              "It never requires any previous computed points at all",
+              "It avoids using any information about the point currently being solved for",
+              "It uses the yet-unknown new point, along with several previous points, in its formula",
+              "It uses only the single most recent known point with no other information"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What characterizes a stiff differential equation?",
+            "options": [
+              "The equation contains no derivative terms at all",
+              "Certain solution components change extremely rapidly compared to others",
+              "The equation has no numerical solution of any kind",
+              "All solution components change at exactly the same, constant rate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of problem does the shooting method aim to solve?",
+            "options": [
+              "A purely algebraic equation with no differential component",
+              "A boundary value problem",
+              "A problem with no boundary conditions of any kind",
+              "A problem defined only at a single isolated point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of differential equation do perturbation methods aim to approximate?",
+            "options": [
+              "An equation that already has a simple, exact closed-form solution",
+              "An equation containing no parameters of any kind",
+              "An equation with no relationship to any simpler solvable case",
+              "One that is close to a simpler, exactly solvable equation"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Physics",
+        "title": "Physics Review: Reference Frames, Circuits, and Optical Systems",
+        "summary": "Grade 12 Physics review: revisiting non-inertial reference frames, variable mass systems and the rocket equation, RLC circuits, Maxwells equations, and lens aberrations from Days 171-175.",
+        "resourceLabel": "TVO Learn: Grade 12 Physics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "quiz": [
+          {
+            "q": "What defines a non-inertial reference frame?",
+            "options": [
+              "It is a reference frame with no relationship to acceleration of any kind",
+              "It is a reference frame that is always perfectly stationary",
+              "It is a reference frame that is accelerating or rotating",
+              "It is a reference frame moving at a constant velocity with no acceleration"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of physical system does the rocket equation describe?",
+            "options": [
+              "A system consisting of a single point mass with no fuel or propulsion",
+              "A system with no motion of any kind",
+              "A variable mass system, such as a rocket expelling burned fuel",
+              "A system with a perfectly constant, unchanging total mass"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What three components make up an RLC circuit?",
+            "options": [
+              "Two capacitors and a single wire with no resistor or inductor",
+              "A resistor, an inductor, and a capacitor",
+              "Only two resistors and no other component",
+              "A battery and a light bulb with no resistor, inductor, or capacitor"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many fundamental equations make up the set known as Maxwells equations?",
+            "options": [
+              "Ten",
+              "A number that changes depending on the material being studied",
+              "One",
+              "Four"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a lens aberration, in general terms?",
+            "options": [
+              "A term describing a lens that has no optical properties at all",
+              "A deviation from perfect image formation by a lens",
+              "A deviation that only affects the colour of the lens itself, with no effect on any image",
+              "A property that only appears in lenses with no curvature whatsoever"
+            ],
+            "answer": 1
+          }
+        ]
+      }
+    ]
   }
 ]

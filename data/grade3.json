@@ -13475,58 +13475,59 @@
       },
       {
         "subject": "SocialStudies",
-        "title": "Social Studies: Canada’s National Parks and Protected Spaces",
-        "summary": "Grade 3 Social Studies strand: Canada has many national parks and protected spaces set aside to preserve natural environments, wildlife habitats, and important cultural or historical sites for future generations.",
+        "title": "Niagara Falls: One of Canada’s Natural Wonders",
+        "summary": "Grade 3 Social Studies strand: Niagara Falls, on the border between Ontario and the United States, is one of Canada’s most famous natural landmarks, drawing millions of visitors each year to see its powerful waterfalls up close.",
         "resourceLabel": "TVO Learn: Grade 3 Social Studies",
         "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "videoUrl": "https://www.youtube.com/watch?v=1Lnw6tsDg3w",
         "quiz": [
           {
-            "q": "Canada’s national parks and protected spaces are set aside to preserve natural environments and ___.",
+            "q": "Niagara Falls is located on the border between Ontario and ___.",
             "options": [
-              "A concept unrelated to conservation",
-              "Areas with no environmental or cultural significance",
-              "Only urban buildings, with no connection to nature",
-              "Wildlife habitats"
-            ],
-            "answer": 3
-          },
-          {
-            "q": "These protected spaces help preserve important cultural or historical sites for ___.",
-            "options": [
-              "Future generations",
-              "No one at all, since these spaces serve no purpose",
-              "A concept unrelated to preservation",
-              "Only the current generation, with no consideration of the future"
+              "The United States",
+              "British Columbia",
+              "A country unrelated to Niagara Falls",
+              "Quebec"
             ],
             "answer": 0
           },
           {
-            "q": "Why might a national park be created to protect a specific area of land?",
+            "q": "Why do millions of people visit Niagara Falls each year?",
             "options": [
-              "Protecting land has no connection to preserving wildlife or nature",
-              "National parks are never created for any particular reason",
-              "To preserve its natural environment and wildlife from being permanently changed or destroyed",
-              "This concept has no relevance to understanding conservation"
+              "This concept has no relevance to why people visit",
+              "To see its powerful waterfalls up close",
+              "Visitors have no particular reason for coming",
+              "Niagara Falls is not actually open to visitors"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What makes Niagara Falls such a well-known natural landmark?",
+            "options": [
+              "It has no notable natural features at all",
+              "A reason unrelated to its natural features",
+              "Its size and the powerful force of its rushing water",
+              "Niagara Falls is not considered a landmark"
             ],
             "answer": 2
           },
           {
-            "q": "Which is an example of something a national park might help protect?",
+            "q": "Which best describes Niagara Falls?",
             "options": [
-              "A concept entirely unrelated to conservation",
-              "Something with no environmental value",
-              "A structure unrelated to natural or cultural preservation",
-              "A habitat for endangered animals"
+              "A structure unrelated to nature",
+              "A famous waterfall on the Ontario-U.S. border",
+              "A concept entirely unrelated to Canadian geography",
+              "A landmark located far from any border"
             ],
-            "answer": 3
+            "answer": 1
           },
           {
-            "q": "Why is it valuable for Canadians to learn about the country’s national parks and protected spaces?",
+            "q": "Why is it valuable for Canadians to learn about landmarks like Niagara Falls?",
             "options": [
-              "National parks have no relevance to understanding Canadian identity",
-              "Learning about protected spaces provides no educational value",
+              "Learning about landmarks provides no educational value",
               "This concept has no connection to social studies learning",
-              "It builds appreciation for the importance of conservation and Canada’s natural and cultural heritage"
+              "Niagara Falls has no relevance to understanding Canadian geography",
+              "It builds appreciation for Canada’s natural landscape and geography"
             ],
             "answer": 3
           }
@@ -41359,6 +41360,2426 @@
               "A network of recreational trails stretching across the country"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "label": "Day 171 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Common and Proper Nouns",
+        "summary": "Grade 3 Language strand: a common noun names a general person, place, or thing, while a proper noun names a specific person, place, or thing and begins with a capital letter.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a common noun?",
+            "options": [
+              "A word that is always capitalized",
+              "A word that describes an action",
+              "A general person, place, or thing",
+              "A word used only in questions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a proper noun?",
+            "options": [
+              "A specific person, place, or thing that begins with a capital letter",
+              "A type of punctuation mark",
+              "A word with no capital letter ever",
+              "A word that only appears in math"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these is a proper noun?",
+            "options": [
+              "river",
+              "school",
+              "city",
+              "Toronto"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is a common noun?",
+            "options": [
+              "Canada",
+              "school",
+              "Ontario",
+              "Toronto"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do proper nouns begin with a capital letter?",
+            "options": [
+              "Because proper nouns are always plural",
+              "To make the sentence longer",
+              "Because all words begin with capital letters",
+              "To show that they name something specific"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number: Comparing Numbers Using Greater Than, Less Than, and Equal To Symbols",
+        "summary": "Grade 3 Math strand: the symbols greater than, less than, and equal to are used to compare two numbers and show their relationship.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does the greater than symbol mean?",
+            "options": [
+              "Not equal to",
+              "Equal to",
+              "Less than",
+              "Greater than"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the less than symbol mean?",
+            "options": [
+              "Plus",
+              "Less than",
+              "Equal to",
+              "Greater than"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which comparison correctly compares 45 and 54?",
+            "options": [
+              "45 plus 54",
+              "45 is less than 54",
+              "45 is equal to 54",
+              "45 is greater than 54"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which symbol would you use to compare 100 and 100?",
+            "options": [
+              "Plus",
+              "Less than",
+              "Equal to",
+              "Greater than"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are comparison symbols useful in math?",
+            "options": [
+              "They only work with fractions",
+              "They quickly show how two numbers relate to each other",
+              "They are used only in geometry",
+              "They replace the need for numbers entirely"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Beavers and How They Build Dams",
+        "summary": "Grade 3 Science strand: beavers are large rodents that use their strong teeth to cut down trees and branches, building dams and lodges that change the flow of water in a habitat.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do beavers use to cut down trees?",
+            "options": [
+              "Tools they build",
+              "Their strong teeth",
+              "Their claws only",
+              "Their tail only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do beavers build using trees and branches?",
+            "options": [
+              "Dams and lodges",
+              "Sandcastles",
+              "Nests high in trees",
+              "Underground tunnels only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can a beaver dam change a habitat?",
+            "options": [
+              "It can change the flow of water and create a pond",
+              "It stops all water from moving forever",
+              "It removes water from the habitat completely",
+              "It has no effect on the habitat at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of animal is a beaver?",
+            "options": [
+              "A reptile",
+              "An insect",
+              "A bird",
+              "A large rodent"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a beaver build a lodge?",
+            "options": [
+              "To attract predators",
+              "To create a safe shelter to live in",
+              "To store food for other animals only",
+              "To block sunlight from the forest"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Order of Canada and Honouring Citizens Who Make a Difference",
+        "summary": "Grade 3 Social Studies strand: the Order of Canada is one of the countrys highest honours, given to citizens who have made an outstanding difference in their community or country.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Order of Canada?",
+            "options": [
+              "A type of Canadian currency",
+              "One of the countrys highest honours for citizens",
+              "A law passed by Parliament",
+              "A holiday celebrated every year"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who might receive the Order of Canada?",
+            "options": [
+              "Only professional athletes",
+              "Only people who work in government",
+              "A citizen who has made an outstanding difference in their community or country",
+              "Only people born outside Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country create an honour like the Order of Canada?",
+            "options": [
+              "To replace the need for elections",
+              "Because honours have no purpose",
+              "To punish citizens for breaking rules",
+              "To recognize and celebrate the achievements of its citizens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of contributions might be honoured by the Order of Canada?",
+            "options": [
+              "Only contributions made by children",
+              "Contributions to science, the arts, or community service",
+              "Only contributions to a single sport",
+              "Only contributions made in one city"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is it meaningful for a community when one of its members receives a national honour?",
+            "options": [
+              "It has no meaning to the community at all",
+              "It replaces the need for local government",
+              "It celebrates the positive impact that person has had on others",
+              "It means the community must move away"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "label": "Day 172 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Using Hyphens in Compound Adjectives",
+        "summary": "Grade 3 Language strand: a hyphen can join two or more words to form a compound adjective that describes a noun, such as a well-known author or a five-year-old child.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does a hyphen do in a compound adjective?",
+            "options": [
+              "Separates a paragraph into two parts",
+              "Joins two or more words together to describe a noun",
+              "Ends a sentence",
+              "Replaces a comma in a list"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which is an example of a compound adjective using a hyphen?",
+            "options": [
+              "A famous library",
+              "A book that is known",
+              "A well-known author",
+              "An author who writes books"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the phrase a five-year-old child, what does the hyphenated phrase describe?",
+            "options": [
+              "The name of the child",
+              "The age of the child",
+              "The colour of the child",
+              "The location of the child"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer use a hyphen to join words before a noun?",
+            "options": [
+              "To make the sentence impossible to read",
+              "Hyphens are never used before nouns",
+              "To show that the words work together as a single description",
+              "To remove the noun from the sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence correctly uses a hyphenated compound adjective?",
+            "options": [
+              "She read a, well known story.",
+              "She read a wellknown story",
+              "She read a well written story that.",
+              "She read a well-written story."
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Multiplication: Using a Number Line to Multiply",
+        "summary": "Grade 3 Math strand: a number line can be used to multiply by drawing equal jumps, where the size and number of jumps represent the factors being multiplied.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "On a number line, what does each equal jump represent when multiplying?",
+            "options": [
+              "The remainder of the problem",
+              "A fraction of the whole",
+              "A subtraction step",
+              "One group being counted"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To show 4 times 3 on a number line, how many jumps of 3 would you make?",
+            "options": [
+              "7 jumps",
+              "12 jumps",
+              "3 jumps",
+              "4 jumps"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where does a multiplication number line usually start?",
+            "options": [
+              "At zero",
+              "At the largest factor",
+              "At the smallest possible number",
+              "At the product"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What number does the number line land on after showing 5 times 2?",
+            "options": [
+              "2",
+              "5",
+              "10",
+              "7"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a number line help a student understand multiplication?",
+            "options": [
+              "It replaces the need for numbers",
+              "It shows multiplication as repeated equal jumps",
+              "It removes the need to know multiplication facts",
+              "It only works for division problems"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Moose and Canadas Largest Deer Species",
+        "summary": "Grade 3 Science strand: the moose is the largest member of the deer family, with long legs, a large body, and antlers on males that help it survive in Canadian forests and wetlands.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What family of animals does the moose belong to?",
+            "options": [
+              "The bear family",
+              "The bird family",
+              "The cat family",
+              "The deer family"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which body part do male moose grow to help them survive?",
+            "options": [
+              "A shell",
+              "Antlers",
+              "Gills",
+              "Wings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where might a moose commonly be found in Canada?",
+            "options": [
+              "Ocean coral reefs",
+              "Deserts",
+              "City sidewalks",
+              "Forests and wetlands"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the moose compare in size to other deer species?",
+            "options": [
+              "It is exactly the same size as all deer",
+              "It is not related to other deer at all",
+              "It is the smallest member of the deer family",
+              "It is the largest member of the deer family"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might long legs help a moose in its wetland habitat?",
+            "options": [
+              "They help it wade through deep water and mud",
+              "They prevent it from ever entering water",
+              "They make it unable to walk on land",
+              "They have no purpose for the moose"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Parliament Buildings and the Peace Tower in Ottawa",
+        "summary": "Grade 3 Social Studies strand: the Parliament Buildings in Ottawa, topped by the Peace Tower, are where Canadas federal government meets and are one of the countrys most recognized landmarks.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "In which city are the Parliament Buildings located?",
+            "options": [
+              "Ottawa",
+              "Montreal",
+              "Vancouver",
+              "Toronto"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What tower is part of the Parliament Buildings?",
+            "options": [
+              "The Peace Tower",
+              "The Clock Tower of Toronto",
+              "The Water Tower",
+              "The CN Tower"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens inside the Parliament Buildings?",
+            "options": [
+              "Mail is sorted for the whole country",
+              "Provincial sports games are played",
+              "Local groceries are sold",
+              "Canadas federal government meets and makes decisions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are the Parliament Buildings considered an important landmark?",
+            "options": [
+              "They have no connection to government at all",
+              "They are a recognized symbol of Canadas federal government",
+              "They are used only for storage",
+              "They are located outside of Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might visitors see when they visit the Parliament Buildings?",
+            "options": [
+              "Historic architecture and the Peace Tower",
+              "A large shopping mall",
+              "An empty field with no buildings",
+              "A private farm"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "label": "Day 173 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Idioms About Weather",
+        "summary": "Grade 3 Language strand: idioms about weather, such as it is raining cats and dogs or under the weather, use weather words to express an idea that is different from their literal meaning.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does the idiom it is raining cats and dogs mean?",
+            "options": [
+              "Animals are falling from the sky",
+              "The weather is sunny and clear",
+              "It is snowing lightly",
+              "It is raining very heavily"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the idiom under the weather usually mean?",
+            "options": [
+              "Feeling extremely happy",
+              "Wearing a raincoat",
+              "Standing outside in the rain",
+              "Feeling sick or unwell"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Do weather idioms usually mean exactly what their words say?",
+            "options": [
+              "Weather idioms have no meaning at all",
+              "Yes, they always describe real weather",
+              "No, they mean something different from their literal words",
+              "They are only used in science reports"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a reader need to think carefully about a weather idiom?",
+            "options": [
+              "Because idioms only appear in poetry",
+              "Because idioms are always confusing with no meaning",
+              "Because idioms are always about the weather forecast",
+              "Because its meaning is different from what the words literally say"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is an example of a weather idiom?",
+            "options": [
+              "Read a book",
+              "Steal someones thunder",
+              "Walk to school",
+              "Open the door"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Division: Dividing with Arrays",
+        "summary": "Grade 3 Math strand: an array of rows and columns can be used to model division by showing how a total number of objects can be split evenly into equal groups.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does an array show when used to model division?",
+            "options": [
+              "A single random number",
+              "How a total can be split evenly into equal groups",
+              "A list of fractions",
+              "Only multiplication facts"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 12 objects are arranged into an array with 3 rows, how many objects are in each row?",
+            "options": [
+              "4",
+              "3",
+              "6",
+              "12"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do the rows in a division array usually represent?",
+            "options": [
+              "A random arrangement with no meaning",
+              "The equal groups being made",
+              "The remainder of the problem",
+              "The total number of objects only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If 20 objects are divided into an array with 4 equal rows, how many objects are in each row?",
+            "options": [
+              "20",
+              "4",
+              "5",
+              "10"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an array help someone understand a division problem?",
+            "options": [
+              "It only works with multiplication, never division",
+              "It visually shows equal groups being formed from a total",
+              "It hides the total number of objects",
+              "It removes the need to divide at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Polar Bears and Life on Arctic Sea Ice",
+        "summary": "Grade 3 Science strand: polar bears have thick fur, a layer of fat, and large paws that help them survive and hunt on the cold sea ice of the Arctic.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What helps keep a polar bear warm in the Arctic?",
+            "options": [
+              "A thin coat of feathers",
+              "Scales like a fish",
+              "Thick fur and a layer of fat",
+              "A shell covering its body"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do polar bears use their large paws for?",
+            "options": [
+              "Climbing tall trees",
+              "Digging deep underground tunnels",
+              "Flying short distances",
+              "Walking on ice and swimming"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where do polar bears mainly live and hunt?",
+            "options": [
+              "In deep ocean trenches",
+              "In hot deserts",
+              "On Arctic sea ice",
+              "In tropical rainforests"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is sea ice important to a polar bears way of life?",
+            "options": [
+              "It provides a place to hunt for food, such as seals",
+              "It has no connection to how polar bears find food",
+              "Polar bears never go near sea ice",
+              "Sea ice prevents polar bears from ever hunting"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What colour is a polar bears fur, and why might that help it?",
+            "options": [
+              "White, which helps it blend into the snow and ice",
+              "Green, which helps it hide in forests",
+              "Bright orange, which helps it stand out",
+              "Black, which helps it hide in caves"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: How Ottawa Became Canadas Capital City",
+        "summary": "Grade 3 Social Studies strand: Ottawa was chosen as Canadas capital city partly because of its location between English and French speaking regions, and it is now where the federal government is based.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is Ottawa known as?",
+            "options": [
+              "A neighbouring country",
+              "Canadas capital city",
+              "A small fishing village",
+              "A province of Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why was Ottawas location considered helpful when it was chosen as the capital?",
+            "options": [
+              "It has no connection to any region",
+              "It is the smallest town in Canada",
+              "It is located outside of Canada",
+              "It sits between English and French speaking regions"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is based in Ottawa today?",
+            "options": [
+              "A provincial park only",
+              "A private farm",
+              "The federal government",
+              "A single small business"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do countries usually choose one city to be their capital?",
+            "options": [
+              "Because every city must be a capital",
+              "Because capitals have no real purpose",
+              "To have a central place where the government meets and makes decisions",
+              "To prevent the government from ever meeting"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might visitors find in Canadas capital city?",
+            "options": [
+              "Only farmland with no buildings",
+              "A capital with no government activity",
+              "A city with no visitors allowed",
+              "Government buildings and national landmarks"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "label": "Day 174 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Distinguishing First-Person and Third-Person Narration",
+        "summary": "Grade 3 Language strand: a story told in first person uses words like I and we from a character inside the story, while a story told in third person uses words like he, she, and they to describe characters from outside the story.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Which pronoun signals that a story is told in first person?",
+            "options": [
+              "She",
+              "He",
+              "They",
+              "I"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pronoun signals that a story is told in third person?",
+            "options": [
+              "She",
+              "We",
+              "I",
+              "My"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In first-person narration, who is telling the story?",
+            "options": [
+              "A character who never appears",
+              "A character inside the story",
+              "No one is telling the story",
+              "A narrator with no connection to the story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In third-person narration, how does the narrator usually describe characters?",
+            "options": [
+              "From outside the story, using words like he, she, and they",
+              "The narrator never describes characters",
+              "Only using the word I",
+              "Only using numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might an author choose first-person narration for a story?",
+            "options": [
+              "To remove all characters from the story",
+              "Because first person can never be used in fiction",
+              "To let readers experience the story through one characters thoughts and feelings",
+              "To make the story impossible to understand"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Naming and Writing Fractions in Words",
+        "summary": "Grade 3 Math strand: fractions can be written in words as well as numbers, such as writing three quarters as three-fourths, using the numerator as a number word and the denominator as a fraction word.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "How would you write three quarters using words?",
+            "options": [
+              "Three-fourths",
+              "Three-fours",
+              "Fourth-threes",
+              "Three over four only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How would you write one half using words?",
+            "options": [
+              "One-second",
+              "Two-ones",
+              "Half-one",
+              "One-half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the fraction two fifths, which number is used as a number word and which becomes a fraction word?",
+            "options": [
+              "The numerator (2) is a number word and the denominator (5) becomes fifths",
+              "The denominator is always ignored",
+              "Both numbers are always written the same way",
+              "Neither number is written as a word"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How would you write five sixths using words?",
+            "options": [
+              "Five over six only",
+              "Five-sixes",
+              "Sixth-fives",
+              "Five-sixths"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might writing fractions in words be a useful skill?",
+            "options": [
+              "It has no connection to understanding fractions",
+              "It only works for fractions equal to one",
+              "It helps connect the symbols of a fraction to its meaning in everyday language",
+              "It removes the need to ever use fraction symbols"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Jellyfish and Their Stinging Cells",
+        "summary": "Grade 3 Science strand: jellyfish are simple ocean animals with soft, see-through bodies and tentacles lined with stinging cells that they use to catch food and defend themselves.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do jellyfish use their tentacles for?",
+            "options": [
+              "Digging burrows in the sand",
+              "Flying above the water",
+              "Catching food and defending themselves using stinging cells",
+              "Building nests on the ocean floor"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of body does a jellyfish have?",
+            "options": [
+              "A soft, see-through body",
+              "A hard shell like a crab",
+              "A body covered in fur",
+              "A body covered in feathers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What are the stinging parts of a jellyfish called?",
+            "options": [
+              "Stinging cells on its tentacles",
+              "Claws on its body",
+              "Spikes on its back",
+              "Teeth in its mouth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do jellyfish live?",
+            "options": [
+              "Only in freshwater lakes",
+              "Only underground",
+              "Only in deserts",
+              "In oceans around the world"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a jellyfish see-through body be helpful in the ocean?",
+            "options": [
+              "It prevents the jellyfish from ever moving",
+              "It makes the jellyfish impossible to see for other jellyfish",
+              "It can help the jellyfish blend in and avoid predators",
+              "It has no connection to survival"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Confederation Bridge Connecting Prince Edward Island",
+        "summary": "Grade 3 Social Studies strand: the Confederation Bridge is a long bridge that connects Prince Edward Island to the rest of Canada, allowing cars and trucks to cross the water instead of relying only on a ferry.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What does the Confederation Bridge connect?",
+            "options": [
+              "Prince Edward Island to the rest of Canada",
+              "Two cities within the same province",
+              "Ontario to Quebec",
+              "British Columbia to Alberta"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can cross the Confederation Bridge?",
+            "options": [
+              "Nothing is allowed to cross",
+              "Only pedestrians",
+              "Cars and trucks",
+              "Only bicycles"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What method of travel did people rely on more before the bridge was built?",
+            "options": [
+              "An airplane only",
+              "A train only",
+              "A ferry",
+              "A hot air balloon"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a bridge like this be helpful to Prince Edward Island?",
+            "options": [
+              "It replaces the need for the island to have roads",
+              "It has no benefit to the island",
+              "It prevents anyone from ever leaving the island",
+              "It provides a reliable way to travel to and from the mainland"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of structure is the Confederation Bridge?",
+            "options": [
+              "A long bridge crossing open water",
+              "A dirt path through a forest",
+              "A tunnel under a mountain",
+              "A short bridge crossing a small stream"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "label": "Day 175 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing a Set of Directions for a Treasure Hunt",
+        "summary": "Grade 3 Language strand: directions for a treasure hunt use clear, ordered steps and location words to guide someone from a starting point to a hidden object.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What should directions for a treasure hunt include?",
+            "options": [
+              "A single confusing sentence",
+              "A list of unrelated facts",
+              "Clear, ordered steps and location words",
+              "No information about location at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the order of steps important in treasure hunt directions?",
+            "options": [
+              "Following the wrong order could lead the person to the wrong place",
+              "The order never matters in directions",
+              "Steps are always identical to each other",
+              "Directions never need to be in order"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a location word used in directions?",
+            "options": [
+              "Happily",
+              "Loudly",
+              "Behind",
+              "Quickly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is the purpose of writing a treasure hunt starting point?",
+            "options": [
+              "Starting points are never included in directions",
+              "So the person knows exactly where to begin following the directions",
+              "So the person never begins the hunt",
+              "To confuse the person following the directions"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might numbering the steps of a treasure hunt be helpful?",
+            "options": [
+              "It shows the exact order the steps should be followed",
+              "It makes the directions impossible to follow",
+              "It removes the need for clear steps",
+              "Numbers are never used in directions"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Tessellations and Tiling Patterns",
+        "summary": "Grade 3 Math strand: a tessellation is a pattern made of shapes that fit together perfectly with no gaps or overlaps, covering a surface completely, such as tiles on a floor.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A shape that never repeats",
+              "A pattern of shapes that fit together with no gaps or overlaps",
+              "A pattern with large gaps between shapes",
+              "A single shape drawn alone"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which shape is commonly used to create a simple tessellation?",
+            "options": [
+              "A square",
+              "A shape that changes size every time",
+              "A shape with no straight sides",
+              "A shape that cannot be repeated"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where might you see a tessellation in everyday life?",
+            "options": [
+              "Tiles covering a floor",
+              "A drawing with only one shape",
+              "A single cloud in the sky",
+              "An empty piece of paper"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to the shapes in a tessellation when they are placed together?",
+            "options": [
+              "They overlap on top of each other",
+              "They leave large empty spaces",
+              "They cover a surface completely with no gaps or overlaps",
+              "They disappear when placed together"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might an artist or builder use a tessellation pattern?",
+            "options": [
+              "To leave most of the surface uncovered",
+              "To cover a surface evenly using a repeating design",
+              "Tessellations are never used by artists or builders",
+              "To use only one single shape with no pattern"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Crustaceans — Crabs, Lobsters, and Shrimp",
+        "summary": "Grade 3 Science strand: crustaceans, such as crabs, lobsters, and shrimp, are animals with hard outer shells, jointed legs, and antennae that mostly live in water.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What covers the body of a crustacean?",
+            "options": [
+              "Feathers",
+              "A hard outer shell",
+              "Smooth, wet skin only",
+              "Soft fur"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these is an example of a crustacean?",
+            "options": [
+              "A crab",
+              "A frog",
+              "A robin",
+              "A wolf"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of legs do crustaceans have?",
+            "options": [
+              "Wings instead of legs",
+              "Jointed legs",
+              "A single leg",
+              "No legs at all"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where do most crustaceans live?",
+            "options": [
+              "In water",
+              "In the sky",
+              "In deserts only",
+              "In caves with no water"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What sensory body part helps a crustacean explore its surroundings?",
+            "options": [
+              "Fur on its back",
+              "Feathers on its head",
+              "A trunk like an elephant",
+              "Antennae"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: School Crossing Guards and Traffic Safety Near Schools",
+        "summary": "Grade 3 Social Studies strand: school crossing guards help students safely cross busy streets near schools by signalling to traffic and guiding pedestrians across at the right time.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the main job of a school crossing guard?",
+            "options": [
+              "Teaching math lessons",
+              "Helping students safely cross busy streets near schools",
+              "Selling tickets for school events",
+              "Repairing school buses"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a crossing guard help control traffic?",
+            "options": [
+              "By signalling to drivers and guiding pedestrians",
+              "By driving the school bus",
+              "By painting the road",
+              "By closing the school for the day"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why are crossing guards often placed near schools?",
+            "options": [
+              "Because crossing guards work only at night",
+              "To help keep students safe while crossing busy streets",
+              "To prevent any students from arriving at school",
+              "Because schools have no students walking nearby"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What should a pedestrian do when a crossing guard signals it is safe to cross?",
+            "options": [
+              "Wait for a different signal entirely",
+              "Cross the street following the guards signal",
+              "Ignore the guard completely",
+              "Run across without looking"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is traffic safety near schools especially important?",
+            "options": [
+              "Traffic safety has no connection to schools",
+              "No vehicles are ever near a school",
+              "Many children are walking and may be harder for drivers to see",
+              "Schools are always located far from any roads"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "label": "Day 176 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Grammar: Using Ellipses to Show a Pause or Omission",
+        "summary": "Grade 3 Language strand: an ellipsis, made of three dots, can show a pause in speech, a trailing thought, or that words have been left out of a quoted sentence.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What does an ellipsis look like?",
+            "options": [
+              "A pair of parentheses",
+              "Three dots in a row",
+              "A question mark",
+              "A single dash"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can an ellipsis show in a sentence?",
+            "options": [
+              "A brand new topic",
+              "A loud exclamation",
+              "The end of a paragraph only",
+              "A pause in speech or a trailing thought"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence correctly uses an ellipsis to show a trailing thought?",
+            "options": [
+              "I was going to say something, but... never mind.",
+              "I was going to say something but never mind",
+              "I was going to say something... but, never... mind",
+              "I was, going to say something but never mind..."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can an ellipsis show when used in a quoted sentence?",
+            "options": [
+              "That the sentence is a question",
+              "That the sentence must be read loudly",
+              "That the entire sentence has been added",
+              "That some words have been left out"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use an ellipsis instead of finishing a sentence?",
+            "options": [
+              "Because ellipses are never used in writing",
+              "To replace every period in a story",
+              "To show hesitation or an unfinished thought",
+              "To make the sentence longer than needed"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Introducing the Kilometre for Long Distances",
+        "summary": "Grade 3 Math strand: a kilometre is a unit of length used to measure long distances, such as the distance between two towns, and is made up of 1000 metres.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What is a kilometre used to measure?",
+            "options": [
+              "The mass of a small object",
+              "Long distances",
+              "The capacity of a cup",
+              "The temperature outside"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many metres are in one kilometre?",
+            "options": [
+              "10 metres",
+              "1000 metres",
+              "10 000 metres",
+              "100 metres"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which distance would most likely be measured in kilometres?",
+            "options": [
+              "The height of a book",
+              "The width of a coin",
+              "The distance between two towns",
+              "The length of a pencil"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the kilometre a more useful unit than the metre for very long distances?",
+            "options": [
+              "It allows large distances to be described using smaller numbers",
+              "It makes long distances impossible to measure",
+              "It replaces the need for any measurement",
+              "It is only used for measuring liquids"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which would likely be measured in kilometres rather than centimetres?",
+            "options": [
+              "The width of a book",
+              "The length of a paperclip",
+              "The distance a car travels on a road trip",
+              "The height of a cup"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: The Life Cycle of a Mosquito",
+        "summary": "Grade 3 Science strand: a mosquito goes through complete metamorphosis, changing from egg to larva to pupa to adult, with the early stages taking place in water.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What are the four stages of a mosquitos life cycle?",
+            "options": [
+              "Egg, larva, pupa, adult",
+              "Seed, sprout, plant, flower",
+              "Tadpole, frog, egg, adult",
+              "Egg, caterpillar, cocoon, butterfly"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do the early stages of a mosquitos life cycle take place?",
+            "options": [
+              "In the desert",
+              "In water",
+              "Underground in soil",
+              "High in the mountains"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of metamorphosis does a mosquito go through?",
+            "options": [
+              "No metamorphosis at all",
+              "Metamorphosis only as an adult",
+              "A single unchanging stage",
+              "Complete metamorphosis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which stage comes right after the egg stage for a mosquito?",
+            "options": [
+              "Pupa",
+              "Larva",
+              "Adult",
+              "Cocoon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might mosquitoes often be found near still water?",
+            "options": [
+              "Mosquitoes only live in dry deserts",
+              "Mosquitoes never go near water",
+              "Water prevents mosquitoes from ever hatching",
+              "They lay their eggs in water and the early stages develop there"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Grain Elevators and the Prairie Wheat Economy",
+        "summary": "Grade 3 Social Studies strand: grain elevators are tall storage buildings found across the Canadian Prairies that store wheat and other grains grown by farmers before they are shipped to market.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is a grain elevator used for?",
+            "options": [
+              "Housing farm animals",
+              "Selling clothing to farmers",
+              "Storing wheat and other grains before they are shipped",
+              "Storing cars for a dealership"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which region of Canada are grain elevators commonly found?",
+            "options": [
+              "The Arctic",
+              "Downtown Toronto",
+              "Coastal British Columbia",
+              "The Prairies"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What crop is closely associated with the Prairie economy?",
+            "options": [
+              "Coffee beans",
+              "Rice grown in flooded fields",
+              "Wheat",
+              "Bananas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might grain elevators be built tall?",
+            "options": [
+              "Tall buildings have no connection to grain storage",
+              "To act as a lookout tower only",
+              "To store large amounts of grain in one building",
+              "To block the wind on the Prairies"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What happens to grain after it leaves a grain elevator?",
+            "options": [
+              "It is buried underground permanently",
+              "It is thrown away completely",
+              "It is shipped to market to be sold or processed",
+              "It disappears with no further use"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "label": "Day 177 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reading: Identifying the Climax of a Story",
+        "summary": "Grade 3 Language strand: the climax of a story is the most exciting or important moment, often where a problem reaches its peak before being resolved.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is the climax of a story?",
+            "options": [
+              "The title of the story",
+              "A list of characters at the end",
+              "The most exciting or important moment in the story",
+              "The very first sentence of the story"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "When does the climax usually happen in a story?",
+            "options": [
+              "The climax never happens in a story",
+              "Near the point where a problem reaches its peak",
+              "Before the story has even started",
+              "Only in the very first paragraph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What often happens after the climax of a story?",
+            "options": [
+              "The story restarts from the beginning",
+              "A brand new story begins with no connection",
+              "The climax always ends the story with no resolution",
+              "The problem begins to be resolved"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the climax considered an important part of a story?",
+            "options": [
+              "It is the turning point that leads toward the resolution",
+              "It is unrelated to the main problem",
+              "It has no real importance to the plot",
+              "It always happens at the very beginning"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which is an example of a climax in a story?",
+            "options": [
+              "The moment a character finally faces the biggest challenge",
+              "The moment the book is closed",
+              "The name of the author on the cover",
+              "The list of chapters in the table of contents"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Comparing Two Data Sets Side by Side",
+        "summary": "Grade 3 Math strand: comparing two data sets side by side, such as two double bar graphs or two tables, helps students see similarities and differences between two groups of information.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "Why might two data sets be compared side by side?",
+            "options": [
+              "Because data sets can never be compared",
+              "To make the data impossible to understand",
+              "To remove all information from a graph",
+              "To see similarities and differences between two groups of information"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which tool could help compare two sets of data visually?",
+            "options": [
+              "A double bar graph",
+              "A pencil with no drawing",
+              "A single word",
+              "A blank page"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If Class A collected more data points than Class B, what might that show?",
+            "options": [
+              "Class A collected no data at all",
+              "Class B always has more information",
+              "Class A gathered more information in their data set",
+              "The size of a data set never matters"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What should you check first when comparing two data sets?",
+            "options": [
+              "That both sets are measuring the same kind of information",
+              "Nothing needs to be checked first",
+              "The time the data was written down",
+              "The colour of the paper used"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is comparing data useful in everyday life?",
+            "options": [
+              "It has no real use in everyday decisions",
+              "Comparing data always leads to confusion",
+              "It only matters for scientists",
+              "It helps people make informed decisions based on evidence"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: Monarch Butterflies and Their Long Migration",
+        "summary": "Grade 3 Science strand: monarch butterflies migrate thousands of kilometres each year between Canada and Mexico, using environmental cues to guide their long journey.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What is special about the monarch butterfly yearly journey?",
+            "options": [
+              "It never leaves the same tree its whole life",
+              "It migrates only within one backyard",
+              "It only travels a few metres each year",
+              "It migrates thousands of kilometres between Canada and Mexico"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might help guide monarch butterflies on their long migration?",
+            "options": [
+              "A leader butterfly giving spoken directions",
+              "Environmental cues, such as the position of the sun",
+              "A map they carry with them",
+              "Monarchs never use any cues to migrate"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might monarch butterflies migrate to warmer areas?",
+            "options": [
+              "They migrate for no particular reason",
+              "To find colder temperatures only",
+              "Monarch butterflies never migrate at all",
+              "To survive conditions they could not survive in a cold climate"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which two general regions are connected by monarch migration mentioned here?",
+            "options": [
+              "Africa and Europe",
+              "Australia and Antarctica",
+              "Asia and South America",
+              "Canada and Mexico"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is studying monarch butterfly migration important to scientists?",
+            "options": [
+              "It has no scientific value at all",
+              "It helps them understand and protect the species and its habitat",
+              "It only matters for one single butterfly",
+              "Monarch butterflies are not studied by scientists"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: Canadas Lighthouse Keepers and Coastal Safety History",
+        "summary": "Grade 3 Social Studies strand: lighthouse keepers historically maintained lights along Canadas coastlines to warn ships of dangerous rocks and guide them safely into harbour.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What was a lighthouse keeper job?",
+            "options": [
+              "Delivering mail to nearby towns",
+              "Maintaining the light to warn ships of danger",
+              "Selling tickets to tourists",
+              "Repairing roads near the coast"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why were lighthouses built along Canadas coastlines?",
+            "options": [
+              "To warn ships of dangerous rocks and guide them safely",
+              "To block ships from ever entering the water",
+              "To provide housing for farmers",
+              "To replace the need for any ships"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might happen to a ship without the warning of a lighthouse?",
+            "options": [
+              "It could be in danger of hitting rocks or getting lost",
+              "Lighthouses have no effect on ship safety",
+              "It would always travel faster",
+              "Ships never need any warning at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How has lighthouse technology changed over time?",
+            "options": [
+              "Many lighthouses now use automated lights instead of a keeper",
+              "Lighthouses no longer exist anywhere in Canada",
+              "Every lighthouse still requires a keeper today",
+              "Lighthouses have never changed since they were built"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might coastal safety be especially important for a country with many harbours?",
+            "options": [
+              "It helps protect ships, sailors, and goods travelling by water",
+              "Harbours are never used for travel or trade",
+              "Ships never need protection near the coast",
+              "Coastal safety has no connection to shipping"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "label": "Day 178 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Writing: Writing an Advertisement Script for the Radio",
+        "summary": "Grade 3 Language strand: a radio advertisement script uses spoken words, sound effects, and a catchy message to persuade listeners, since there are no pictures to rely on.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "Why does a radio advertisement rely heavily on spoken words and sound?",
+            "options": [
+              "Because radio listeners can always see a screen",
+              "Because there are no pictures for listeners to see",
+              "Because radio advertisements are always silent",
+              "Because sound is never allowed in advertisements"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the goal of an advertisement script?",
+            "options": [
+              "To remove all information about a product",
+              "To confuse the listener completely",
+              "To read a list of unrelated facts",
+              "To persuade listeners about a product or idea"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a radio advertisement include to grab attention?",
+            "options": [
+              "A single number repeated once",
+              "A catchy message or sound effect",
+              "A blank page with no words",
+              "Complete silence for the entire advertisement"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer repeat a key phrase in a radio advertisement?",
+            "options": [
+              "To help listeners remember the message",
+              "Because repetition is never used in advertising",
+              "To make the advertisement forgettable",
+              "To confuse the listener on purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is one difference between a radio advertisement and a poster advertisement?",
+            "options": [
+              "A radio advertisement always includes a picture",
+              "There is no difference between the two",
+              "A poster advertisement can never use words",
+              "A radio advertisement uses only sound, while a poster uses images"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Financial Literacy: Splitting a Bill Fairly Among Friends",
+        "summary": "Grade 3 Math strand: when a group of friends shares a cost, such as a pizza, the total amount can be divided evenly among everyone to figure out how much each person should pay.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "If a pizza costs 12 dollars and is shared evenly among 4 friends, how much does each friend pay?",
+            "options": [
+              "2 dollars",
+              "6 dollars",
+              "3 dollars",
+              "4 dollars"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What operation is used to split a bill evenly among a group?",
+            "options": [
+              "Multiplication only",
+              "Estimating only",
+              "Division",
+              "Rounding only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a total cost is 20 dollars and it is split evenly among 5 friends, how much does each person owe?",
+            "options": [
+              "4 dollars",
+              "2 dollars",
+              "10 dollars",
+              "5 dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might friends want to split a bill fairly?",
+            "options": [
+              "So everyone pays an equal, fair share of the total cost",
+              "Because splitting a bill is never fair",
+              "To avoid ever sharing a cost",
+              "So one person pays for everything alone"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If a total cost is 18 dollars split evenly among 3 friends, how much does each friend pay?",
+            "options": [
+              "9 dollars",
+              "18 dollars",
+              "3 dollars",
+              "6 dollars"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: How Icicles and Frost Form in Winter",
+        "summary": "Grade 3 Science strand: icicles form when dripping water freezes as it flows downward in cold temperatures, while frost forms when water vapour in the air freezes directly onto a cold surface.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "How does an icicle usually form?",
+            "options": [
+              "Dripping water freezes as it flows downward in cold temperatures",
+              "Snow falls straight down without melting",
+              "Warm air suddenly turns solid",
+              "Ice melts and disappears completely"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How does frost form on a cold surface?",
+            "options": [
+              "Water vapour in the air freezes directly onto the surface",
+              "Rain falls and immediately boils",
+              "Sunlight melts ice completely",
+              "Snow is swept into a pile by wind"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What condition is needed for both icicles and frost to form?",
+            "options": [
+              "Bright sunshine with no clouds",
+              "Very hot temperatures",
+              "Cold temperatures",
+              "No moisture in the air at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Where might you commonly see icicles forming?",
+            "options": [
+              "Hanging from a roof or gutter",
+              "Inside a warm oven",
+              "Growing underground",
+              "Floating in the middle of the ocean"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might frost appear on a car windshield on a cold morning?",
+            "options": [
+              "Water vapour in the air freezes onto the cold glass overnight",
+              "Frost only forms in the summer",
+              "The car engine creates frost on purpose",
+              "The windshield produces its own water"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Role of a Translator in Canadas Multilingual Communities",
+        "summary": "Grade 3 Social Studies strand: translators help people who speak different languages understand one another, supporting communication in Canadas many multilingual communities.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What does a translator do?",
+            "options": [
+              "Repairs vehicles for a living",
+              "Delivers packages across the country",
+              "Helps people who speak different languages understand one another",
+              "Builds roads between communities"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might translators be important in a multilingual country like Canada?",
+            "options": [
+              "They prevent people from ever speaking to each other",
+              "Translators are only needed in one province",
+              "They have no role in communities at all",
+              "They support communication among people who speak different languages"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where might a translator help someone in daily life?",
+            "options": [
+              "Nowhere, translators are never needed",
+              "Only inside a video game",
+              "Only in outer space",
+              "At a hospital, school, or government office"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What skill does a translator need to do their job well?",
+            "options": [
+              "Knowing how to farm crops",
+              "Understanding more than one language",
+              "Knowing how to fix cars",
+              "Knowing how to fly airplanes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a community value having access to translators?",
+            "options": [
+              "Translators only work with one single language",
+              "It has no benefit to a community",
+              "It prevents people from receiving any services",
+              "It helps everyone access services and information, no matter what language they speak"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "label": "Day 179 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Vocabulary: Words with Silent Letters",
+        "summary": "Grade 3 Language strand: some English words contain silent letters that are written but not pronounced, such as the k in knee, the b in comb, and the w in write.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a silent letter?",
+            "options": [
+              "A letter that is always pronounced loudly",
+              "A letter that changes the whole meaning of a word",
+              "A letter that is written but not pronounced",
+              "A letter used only in numbers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which letter is silent in the word knee?",
+            "options": [
+              "N",
+              "The last E",
+              "E",
+              "K"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which letter is silent in the word comb?",
+            "options": [
+              "M",
+              "B",
+              "O",
+              "C"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which letter is silent in the word write?",
+            "options": [
+              "I",
+              "W",
+              "R",
+              "T"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might silent letters make spelling tricky for readers?",
+            "options": [
+              "Silent letters never appear in English words",
+              "The letter appears in the spelling but is not heard when the word is spoken",
+              "Silent letters are always pronounced clearly",
+              "Silent letters only appear in numbers"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Patterning: Identifying Errors in a Pattern",
+        "summary": "Grade 3 Math strand: checking a pattern carefully for errors means comparing each term to the rule to find any place where the pattern was not followed correctly.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does it mean to identify an error in a pattern?",
+            "options": [
+              "Finding a place where the pattern rule was not followed",
+              "Adding random numbers with no rule",
+              "Removing the pattern completely",
+              "Ignoring the rule of the pattern"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the pattern 2, 4, 6, 9, 10, which number breaks the add 2 rule?",
+            "options": [
+              "2",
+              "10",
+              "9",
+              "4"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What should you do first to check a pattern for errors?",
+            "options": [
+              "Identify the rule the pattern is supposed to follow",
+              "Erase the entire pattern",
+              "Guess the answer with no checking",
+              "Ignore the first few numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In the pattern 5, 10, 15, 21, 25, which number does not follow the add 5 rule?",
+            "options": [
+              "25",
+              "15",
+              "5",
+              "21"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is it useful to be able to find errors in a pattern?",
+            "options": [
+              "It has no connection to understanding patterns",
+              "It removes the need to ever check a pattern",
+              "It helps confirm the pattern is correct and consistent",
+              "Patterns never contain errors"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science: How Skyscrapers Are Designed to Withstand Wind",
+        "summary": "Grade 3 Science strand: skyscrapers are tall structures engineered with strong materials, wide bases, and flexible frames that allow them to safely sway slightly in strong winds.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "Why must skyscrapers be designed to handle wind?",
+            "options": [
+              "Skyscrapers are never built in windy places",
+              "Tall buildings can be pushed by strong winds high above the ground",
+              "Wind never affects tall buildings",
+              "Wind only affects short buildings"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What might help a skyscraper stay stable?",
+            "options": [
+              "A frame made only of paper",
+              "No foundation at all",
+              "A wide base and strong materials",
+              "Removing all support from the building"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a skyscraper be designed to sway slightly in the wind?",
+            "options": [
+              "Swaying has no connection to engineering design",
+              "Swaying means the building is about to fall down",
+              "A flexible frame helps the building absorb the force of the wind safely",
+              "Buildings should never move even slightly"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of materials are commonly used to build strong skyscrapers?",
+            "options": [
+              "Ice and snow",
+              "Steel and reinforced concrete",
+              "Sand with no other materials",
+              "Paper and cardboard"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do engineers study wind and structures before building a skyscraper?",
+            "options": [
+              "To design a building that stays safe and stable in different weather conditions",
+              "Engineers never study wind before building",
+              "To make the building collapse on purpose",
+              "Because wind has no effect on any building"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies: The Canadian Snowbirds and Canadas Air Force Aerobatic Team",
+        "summary": "Grade 3 Social Studies strand: the Canadian Snowbirds are an aerobatic flying team from the Royal Canadian Air Force that performs precision air shows across the country to celebrate Canadian identity and skill.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Canadian Snowbirds team known for?",
+            "options": [
+              "Selling airplane tickets to the public",
+              "Performing precision aerobatic air shows",
+              "Delivering mail by airplane",
+              "Building new airports"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which branch of the military are the Snowbirds part of?",
+            "options": [
+              "The Royal Canadian Air Force",
+              "A private airline company",
+              "The Canadian Coast Guard",
+              "The Royal Canadian Navy"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do the Snowbirds typically perform?",
+            "options": [
+              "Only inside a single hangar",
+              "Only underwater",
+              "At air shows across the country",
+              "Only outside of Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might the Snowbirds air shows help celebrate?",
+            "options": [
+              "A foreign countrys holiday",
+              "A single towns local bakery",
+              "Canadian identity and flying skill",
+              "A private business opening"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might precision be important for an aerobatic flying team?",
+            "options": [
+              "Only one plane flies during the show",
+              "Precision has no connection to flying",
+              "Aerobatic teams never need to be accurate",
+              "The pilots must fly closely together with accuracy and safety"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "label": "Day 180 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Nouns, Narration, and Feedback Skills",
+        "summary": "Grade 3 Language strand review: students revisit common and proper nouns, hyphens in compound adjectives, idioms about weather, first-person and third-person narration, identifying the climax of a story, writing directions for a treasure hunt, ellipses, writing an advertisement script, and words with silent letters.",
+        "resourceLabel": "TVO Learn: Grade 3 Language",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-language",
+        "quiz": [
+          {
+            "q": "What is a common noun?",
+            "options": [
+              "A word that is always capitalized",
+              "A word used only in questions",
+              "A word that describes an action",
+              "A general person, place, or thing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a hyphen do in a compound adjective?",
+            "options": [
+              "Ends a sentence",
+              "Replaces a comma in a list",
+              "Joins two or more words together to describe a noun",
+              "Separates a paragraph into two parts"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the idiom under the weather usually mean?",
+            "options": [
+              "Wearing a raincoat",
+              "Feeling extremely happy",
+              "Standing outside in the rain",
+              "Feeling sick or unwell"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which pronoun signals that a story is told in first person?",
+            "options": [
+              "He",
+              "They",
+              "She",
+              "I"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the climax of a story?",
+            "options": [
+              "A list of characters at the end",
+              "The very first sentence of the story",
+              "The most exciting or important moment in the story",
+              "The title of the story"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Number Sense, Multiplication, and Geometry",
+        "summary": "Grade 3 Math strand review: students revisit comparing numbers with greater than, less than, and equal to symbols, using a number line to multiply, dividing with arrays, tessellations, the kilometre, and identifying errors in a pattern.",
+        "resourceLabel": "TVO Learn: Grade 3 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-mathematics",
+        "quiz": [
+          {
+            "q": "What does the greater than symbol mean?",
+            "options": [
+              "Greater than",
+              "Equal to",
+              "Not equal to",
+              "Less than"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "On a number line, what does each equal jump represent when multiplying?",
+            "options": [
+              "A subtraction step",
+              "A fraction of the whole",
+              "The remainder of the problem",
+              "One group being counted"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does an array show when used to model division?",
+            "options": [
+              "A list of fractions",
+              "Only multiplication facts",
+              "How a total can be split evenly into equal groups",
+              "A single random number"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a tessellation?",
+            "options": [
+              "A pattern of shapes that fit together with no gaps or overlaps",
+              "A single shape drawn alone",
+              "A pattern with large gaps between shapes",
+              "A shape that never repeats"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a kilometre used to measure?",
+            "options": [
+              "The temperature outside",
+              "Long distances",
+              "The mass of a small object",
+              "The capacity of a cup"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Canadian Wildlife, Insects, and Winter Weather",
+        "summary": "Grade 3 Science strand review: students revisit beavers, polar bears, jellyfish, the life cycle of a mosquito, and how icicles and frost form in winter.",
+        "resourceLabel": "TVO Learn: Grade 3 Science and Technology",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-science-and-technology",
+        "quiz": [
+          {
+            "q": "What do beavers use to cut down trees?",
+            "options": [
+              "Tools they build",
+              "Their claws only",
+              "Their strong teeth",
+              "Their tail only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What helps keep a polar bear warm in the Arctic?",
+            "options": [
+              "A shell covering its body",
+              "Scales like a fish",
+              "Thick fur and a layer of fat",
+              "A thin coat of feathers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do jellyfish use their tentacles for?",
+            "options": [
+              "Flying above the water",
+              "Catching food and defending themselves using stinging cells",
+              "Building nests on the ocean floor",
+              "Digging burrows in the sand"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the four stages of a mosquitos life cycle?",
+            "options": [
+              "Seed, sprout, plant, flower",
+              "Egg, larva, pupa, adult",
+              "Egg, caterpillar, cocoon, butterfly",
+              "Tadpole, frog, egg, adult"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does an icicle usually form?",
+            "options": [
+              "Ice melts and disappears completely",
+              "Snow falls straight down without melting",
+              "Warm air suddenly turns solid",
+              "Dripping water freezes as it flows downward in cold temperatures"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Landmarks, Honours, and Community Roles",
+        "summary": "Grade 3 Social Studies strand review: students revisit the Order of Canada, the Parliament Buildings, the Confederation Bridge, school crossing guards, and the role of a translator.",
+        "resourceLabel": "TVO Learn: Grade 3 Social Studies",
+        "resourceUrl": "https://tvolearn.com/pages/grade-3-social-studies",
+        "quiz": [
+          {
+            "q": "What is the Order of Canada?",
+            "options": [
+              "A holiday celebrated every year",
+              "A law passed by Parliament",
+              "One of the countrys highest honours for citizens",
+              "A type of Canadian currency"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which city are the Parliament Buildings located?",
+            "options": [
+              "Montreal",
+              "Vancouver",
+              "Ottawa",
+              "Toronto"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the Confederation Bridge connect?",
+            "options": [
+              "Two cities within the same province",
+              "Prince Edward Island to the rest of Canada",
+              "Ontario to Quebec",
+              "British Columbia to Alberta"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the main job of a school crossing guard?",
+            "options": [
+              "Repairing school buses",
+              "Selling tickets for school events",
+              "Teaching math lessons",
+              "Helping students safely cross busy streets near schools"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a translator do?",
+            "options": [
+              "Delivers packages across the country",
+              "Helps people who speak different languages understand one another",
+              "Builds roads between communities",
+              "Repairs vehicles for a living"
+            ],
+            "answer": 1
           }
         ]
       }

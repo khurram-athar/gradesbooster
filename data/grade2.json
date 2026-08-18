@@ -16044,6 +16044,7 @@
         "summary": "Students learn that text features such as titles, headings, and captions help readers find information and understand what a section of text is about.",
         "resourceLabel": "YouTube: Text Features: Titles, Headings, and Captions",
         "resourceUrl": "https://www.youtube.com/results?search_query=Text%20Features%3A%20Titles%2C%20Headings%2C%20and%20Captions%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=PKy5yb7CV4k",
         "quiz": [
           {
             "q": "What do we call the words at the top of a book that tell what it is about?",
@@ -16126,6 +16127,7 @@
         "summary": "Students learn that capacity, or how much liquid a container can hold, can be measured using millilitres for small amounts and litres for larger amounts.",
         "resourceLabel": "YouTube: Measuring Capacity with Litres and Millilitres",
         "resourceUrl": "https://www.youtube.com/results?search_query=Measuring%20Capacity%20with%20Litres%20and%20Millilitres%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=uc4pClcTACM",
         "quiz": [
           {
             "q": "What unit would you most likely use to measure a small spoonful of liquid?",
@@ -16208,6 +16210,7 @@
         "summary": "Students learn that static electricity happens when tiny charges build up on an object, such as a balloon rubbed on hair, causing it to stick to a wall or attract small bits of paper.",
         "resourceLabel": "YouTube: Static Electricity: Why Balloons Stick to Walls",
         "resourceUrl": "https://www.youtube.com/results?search_query=Static%20Electricity%3A%20Why%20Balloons%20Stick%20to%20Walls%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=5TAIUCYMlIQ",
         "quiz": [
           {
             "q": "What kind of electricity builds up when you rub a balloon on your hair?",
@@ -16291,6 +16294,7 @@
         "summary": "Students learn that communities often grow near lakes, rivers, and other resources because water and resources provide food, transportation, and materials people need.",
         "resourceLabel": "YouTube: Why People Settle Near Water and Resources",
         "resourceUrl": "https://www.youtube.com/results?search_query=Why%20People%20Settle%20Near%20Water%20and%20Resources%20grade%202%20educational",
+        "videoUrl": "https://www.youtube.com/watch?v=K5KwEpoIs6c",
         "quiz": [
           {
             "q": "Why do many communities grow near lakes and rivers?",
@@ -47936,6 +47940,2426 @@
               "Toronto"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "label": "Day 171 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Limericks: Silly Rhyming Poems in Five Lines",
+        "summary": "Grade 2 Language strand: a limerick is a short, funny poem with five lines, where lines one, two, and five rhyme with each other, and lines three and four rhyme with each other.",
+        "resourceLabel": "YouTube: Limericks: Silly Rhyming Poems in Five Lines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Limericks%3A%20Silly%20Rhyming%20Poems%20in%20Five%20Lines%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many lines does a limerick have?",
+            "options": [
+              "Three",
+              "Ten",
+              "Five",
+              "One"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which lines in a limerick usually rhyme with each other?",
+            "options": [
+              "Lines one, two, and five",
+              "No lines rhyme",
+              "Only line one",
+              "Every line rhymes with every other line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is the tone of most limericks?",
+            "options": [
+              "Silent",
+              "Angry",
+              "Very serious",
+              "Funny and playful"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Lines three and four of a limerick are usually ___.",
+            "options": [
+              "Longer than every other line",
+              "Shorter and rhyme with each other",
+              "Identical to line one",
+              "Written with no words"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a writer choose to write a limerick?",
+            "options": [
+              "To write without any lines",
+              "To avoid using any rhyme",
+              "To write a serious news report",
+              "To tell a short, humorous rhyme"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Fractions: Subtracting Fractions with the Same Denominator",
+        "summary": "Grade 2 Math strand: when two fractions share the same denominator, you can subtract them by keeping the denominator the same and subtracting only the numerators.",
+        "resourceLabel": "YouTube: Fractions: Subtracting Fractions with the Same Denominator",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fractions%3A%20Subtracting%20Fractions%20with%20the%20Same%20Denominator%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "When subtracting fractions with the same denominator, what stays the same?",
+            "options": [
+              "Nothing stays the same",
+              "Both numbers change",
+              "The numerator",
+              "The denominator"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is three-quarters minus one-quarter?",
+            "options": [
+              "One whole",
+              "One-half",
+              "Three-quarters",
+              "One-quarter"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "To subtract fractions with the same denominator, you subtract the ___.",
+            "options": [
+              "Nothing at all",
+              "Numerators",
+              "Whole numbers only",
+              "Denominators"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is four-fifths minus two-fifths?",
+            "options": [
+              "Four-fifths",
+              "One-fifth",
+              "Two-fifths",
+              "Six-fifths"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is it easier to subtract fractions when the denominators match?",
+            "options": [
+              "The numerators disappear",
+              "The parts are already the same size",
+              "Fractions with the same denominator cannot be compared",
+              "Matching denominators make the problem impossible"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chameleons: Masters of Camouflage",
+        "summary": "Grade 2 Science strand: chameleons are lizards known for changing colour to match their surroundings, communicate, and regulate their body temperature.",
+        "resourceLabel": "YouTube: Chameleons: Masters of Camouflage",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Chameleons%3A%20Masters%20of%20Camouflage%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are chameleons best known for?",
+            "options": [
+              "Building large nests",
+              "Changing colour",
+              "Living underwater only",
+              "Flying through the air"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of animal is a chameleon?",
+            "options": [
+              "A lizard",
+              "An insect",
+              "A bird",
+              "A fish"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Besides blending in, why else might a chameleon change colour?",
+            "options": [
+              "To communicate or regulate its temperature",
+              "Only to sleep",
+              "Only to swim faster",
+              "Colour change has no purpose"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Chameleon colour change is an example of an animal ___.",
+            "options": [
+              "Habitat",
+              "Vehicle",
+              "Instrument",
+              "Adaptation"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which environment might a chameleon commonly be found in?",
+            "options": [
+              "Underground tunnels only",
+              "Trees and shrubs in warm regions",
+              "Deep ocean trenches",
+              "Arctic ice sheets"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The House of Commons: Where Canadas Laws Begin",
+        "summary": "Grade 2 Social Studies strand: the House of Commons is the part of the Canadian Parliament where elected Members of Parliament debate and vote on new laws.",
+        "resourceLabel": "YouTube: The House of Commons: Where Canadas Laws Begin",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20House%20of%20Commons%3A%20Where%20Canadas%20Laws%20Begin%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the House of Commons?",
+            "options": [
+              "A type of school",
+              "The part of Parliament where MPs debate and vote on laws",
+              "A local library",
+              "A sports arena"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who works in the House of Commons?",
+            "options": [
+              "Only mayors",
+              "Only judges",
+              "Elected Members of Parliament",
+              "Only teachers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do Members of Parliament do in the House of Commons?",
+            "options": [
+              "Build roads",
+              "Coach sports teams",
+              "Deliver mail",
+              "Debate and vote on new laws"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do people become Members of Parliament?",
+            "options": [
+              "They inherit the job",
+              "They are elected by voters",
+              "They are chosen at random",
+              "They apply online with no vote"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The House of Commons is part of which larger institution?",
+            "options": [
+              "A city council",
+              "A local business",
+              "The Canadian Parliament",
+              "A school board"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "label": "Day 172 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Reflexive Pronouns: Myself, Yourself, and Themselves",
+        "summary": "Grade 2 Language strand: a reflexive pronoun refers back to the subject of a sentence, such as myself, yourself, himself, herself, itself, ourselves, and themselves.",
+        "resourceLabel": "YouTube: Reflexive Pronouns: Myself, Yourself, and Themselves",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Reflexive%20Pronouns%3A%20Myself%2C%20Yourself%2C%20and%20Themselves%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a reflexive pronoun do?",
+            "options": [
+              "Names a place",
+              "Refers back to the subject of the sentence",
+              "Asks a question",
+              "Shows an action only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word is a reflexive pronoun?",
+            "options": [
+              "Quickly",
+              "Run",
+              "Myself",
+              "Blue"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In the sentence She made the card herself, which word is the reflexive pronoun?",
+            "options": [
+              "She",
+              "Herself",
+              "Made",
+              "Card"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which reflexive pronoun matches with the subject they?",
+            "options": [
+              "Himself",
+              "Itself",
+              "Themselves",
+              "Herself"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which sentence uses a reflexive pronoun correctly?",
+            "options": [
+              "I hurt themselves while running",
+              "I hurt herself while running",
+              "I hurt himself while running",
+              "I hurt myself while running"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Circle Graphs — Showing Parts of a Whole",
+        "summary": "Grade 2 Math strand: a circle graph, also called a pie chart, uses slices of a circle to show how a whole amount is divided into different parts.",
+        "resourceLabel": "YouTube: Data: Circle Graphs — Showing Parts of a Whole",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Circle%20Graphs%20%E2%80%94%20Showing%20Parts%20of%20a%20Whole%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What shape is used in a circle graph?",
+            "options": [
+              "A line",
+              "A triangle",
+              "A rectangle",
+              "A circle"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does each slice of a circle graph represent?",
+            "options": [
+              "The title of the graph",
+              "A single dot of data",
+              "A separate unrelated topic",
+              "A part of the whole amount"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A circle graph is also known as a ___.",
+            "options": [
+              "Pie chart",
+              "Bar graph",
+              "Tally chart",
+              "Line plot"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If one slice of a circle graph is very large, what does that likely mean?",
+            "options": [
+              "The slice represents zero",
+              "The graph is drawn incorrectly",
+              "That category makes up a big part of the whole",
+              "That category has no data at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Circle graphs are especially useful for showing ___.",
+            "options": [
+              "Sounds instead of numbers",
+              "How a whole is divided into parts",
+              "Only numbers with no meaning",
+              "A single moment with no comparison"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Kangaroos: Hopping Marsupials",
+        "summary": "Grade 2 Science strand: kangaroos are marsupials, meaning the mother carries her young in a pouch, and they use their strong back legs to hop instead of walk.",
+        "resourceLabel": "YouTube: Kangaroos: Hopping Marsupials",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Kangaroos%3A%20Hopping%20Marsupials%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a marsupial?",
+            "options": [
+              "An animal that lives only underwater",
+              "An animal that never moves",
+              "An animal with no legs",
+              "An animal that carries its young in a pouch"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do kangaroos usually move?",
+            "options": [
+              "By swimming only",
+              "By hopping on strong back legs",
+              "By flying",
+              "By slithering on their belly"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where does a baby kangaroo often stay after being born?",
+            "options": [
+              "In the ocean",
+              "In a nest in a tree",
+              "In a burrow made of ice",
+              "In its mothers pouch"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What continent are kangaroos most closely associated with?",
+            "options": [
+              "Europe",
+              "North America",
+              "Antarctica",
+              "Australia"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Kangaroos are an example of an animal grouped as a ___.",
+            "options": [
+              "Marsupial",
+              "Reptile",
+              "Amphibian",
+              "Insect"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Canadian Passport: Traveling as a Canadian Citizen",
+        "summary": "Grade 2 Social Studies strand: a Canadian passport is an official document that proves citizenship and identity, allowing citizens to travel to and return from other countries.",
+        "resourceLabel": "YouTube: The Canadian Passport: Traveling as a Canadian Citizen",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Canadian%20Passport%3A%20Traveling%20as%20a%20Canadian%20Citizen%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a Canadian passport?",
+            "options": [
+              "An official document proving citizenship and identity",
+              "A school report card",
+              "A kind of map",
+              "A type of currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can a passport allow a citizen to do?",
+            "options": [
+              "Travel to and return from other countries",
+              "Drive a car",
+              "Attend a local school",
+              "Vote in an election"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who issues Canadian passports?",
+            "options": [
+              "A sports league",
+              "A private company with no rules",
+              "A local school",
+              "The Canadian government"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might border officials ask to see a passport?",
+            "options": [
+              "To collect stamps for fun only",
+              "To confirm a travelers identity and citizenship",
+              "Passports are never checked",
+              "To sell the traveler something"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A passport is an example of an official ___.",
+            "options": [
+              "Document",
+              "Toy",
+              "Building",
+              "Meal"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "label": "Day 173 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Tall Tales: Larger-Than-Life Stories",
+        "summary": "Grade 2 Language strand: a tall tale is a story with a larger-than-life main character who performs impossible or greatly exaggerated feats, often told in a matter-of-fact way.",
+        "resourceLabel": "YouTube: Tall Tales: Larger-Than-Life Stories",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Tall%20Tales%3A%20Larger-Than-Life%20Stories%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What makes a tall tale different from a realistic story?",
+            "options": [
+              "It only describes true daily events",
+              "It has no characters at all",
+              "It is always written as a list",
+              "It features exaggerated, impossible feats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How are the feats in a tall tale usually described?",
+            "options": [
+              "As boring and forgettable",
+              "As things that happen every day",
+              "As very ordinary and small",
+              "As impossible or greatly exaggerated"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What kind of main character often appears in a tall tale?",
+            "options": [
+              "A character who does nothing",
+              "A character with no traits",
+              "A larger-than-life hero",
+              "A silent narrator only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Tall tales are often told in a ___ tone, as if the events were normal.",
+            "options": [
+              "Apologetic",
+              "Silent",
+              "Confused",
+              "Matter-of-fact"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these sounds most like a detail from a tall tale?",
+            "options": [
+              "He ate breakfast at eight",
+              "He could leap over a mountain in one step",
+              "She read a book quietly",
+              "She walked to the store"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Money: Canadian Paper Bills — Five, Ten, Twenty, Fifty, and Hundred Dollars",
+        "summary": "Grade 2 Math strand: Canadian paper bills come in different values, including the five, ten, twenty, fifty, and one hundred dollar bills, each showing a different number and colour.",
+        "resourceLabel": "YouTube: Money: Canadian Paper Bills — Five, Ten, Twenty, Fifty, and Hundred Dollars",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Money%3A%20Canadian%20Paper%20Bills%20%E2%80%94%20Five%2C%20Ten%2C%20Twenty%2C%20Fifty%2C%20and%20Hundred%20Dollars%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the value of a five dollar bill?",
+            "options": [
+              "Ten dollars",
+              "Five dollars",
+              "One dollar",
+              "Twenty dollars"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is the value of a twenty dollar bill?",
+            "options": [
+              "Twenty dollars",
+              "Two dollars",
+              "Two hundred dollars",
+              "Twelve dollars"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which bill has the greatest value: a ten, a twenty, or a fifty?",
+            "options": [
+              "They are all equal",
+              "The fifty dollar bill",
+              "The ten dollar bill",
+              "The twenty dollar bill"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can you quickly tell Canadian bills apart?",
+            "options": [
+              "By their weight only",
+              "All Canadian bills look exactly the same",
+              "By the number and colour printed on each bill",
+              "By their smell"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you have one ten dollar bill and one five dollar bill, how much money do you have in total?",
+            "options": [
+              "Five dollars",
+              "Fifteen dollars",
+              "Fifty dollars",
+              "Ten dollars"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Jellyfish: Simple Creatures of the Sea",
+        "summary": "Grade 2 Science strand: jellyfish are soft-bodied ocean animals made mostly of water, with no brain or bones, that drift with ocean currents and use stinging tentacles to catch food.",
+        "resourceLabel": "YouTube: Jellyfish: Simple Creatures of the Sea",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Jellyfish%3A%20Simple%20Creatures%20of%20the%20Sea%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are jellyfish mostly made of?",
+            "options": [
+              "Bone",
+              "Metal",
+              "Water",
+              "Fur"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Do jellyfish have a brain or bones?",
+            "options": [
+              "Only bones",
+              "Only a brain",
+              "Yes, both",
+              "No"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do jellyfish often move through the ocean?",
+            "options": [
+              "By digging tunnels",
+              "By running on the seafloor",
+              "By drifting with ocean currents",
+              "By flying above the waves"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What do jellyfish use to catch food?",
+            "options": [
+              "Stinging tentacles",
+              "Sharp claws",
+              "Wings",
+              "Large teeth"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Jellyfish are an example of an animal that lives ___.",
+            "options": [
+              "In the ocean",
+              "In mountain caves",
+              "In deserts",
+              "In the sky"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "National Indigenous Peoples Day: June 21",
+        "summary": "Grade 2 Social Studies strand: National Indigenous Peoples Day is celebrated on June 21 each year in Canada to honour the heritage, cultures, and achievements of First Nations, Inuit, and Metis peoples.",
+        "resourceLabel": "YouTube: National Indigenous Peoples Day: June 21",
+        "resourceUrl": "https://www.youtube.com/results?search_query=National%20Indigenous%20Peoples%20Day%3A%20June%2021%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "On what date is National Indigenous Peoples Day celebrated?",
+            "options": [
+              "December 25",
+              "June 21",
+              "January 1",
+              "July 1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does National Indigenous Peoples Day honour?",
+            "options": [
+              "A sports championship",
+              "A new type of currency",
+              "A type of weather pattern",
+              "The heritage, cultures, and achievements of Indigenous peoples"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which groups are recognized on this day?",
+            "options": [
+              "Only students in one province",
+              "Only professional athletes",
+              "First Nations, Inuit, and Metis peoples",
+              "Only visitors from other countries"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might a country set aside a special day to honour a groups heritage?",
+            "options": [
+              "To replace their traditions with new ones",
+              "Special days never have a purpose",
+              "To recognize and celebrate their history and contributions",
+              "To ignore their history completely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "National Indigenous Peoples Day is an example of a ___.",
+            "options": [
+              "Type of election",
+              "Kind of currency",
+              "Sports league",
+              "National day of recognition"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "label": "Day 174 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Onset and Rime: Building Words From Sounds",
+        "summary": "Grade 2 Language strand: in a one-syllable word, the onset is the sound that comes before the vowel, and the rime is the vowel and everything after it, such as c (onset) and at (rime) in cat.",
+        "resourceLabel": "YouTube: Onset and Rime: Building Words From Sounds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Onset%20and%20Rime%3A%20Building%20Words%20From%20Sounds%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In the word cat, what is the onset?",
+            "options": [
+              "A",
+              "At",
+              "Cat",
+              "C"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "In the word cat, what is the rime?",
+            "options": [
+              "At",
+              "Cat",
+              "C",
+              "T"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the rime of a word include?",
+            "options": [
+              "Nothing at all",
+              "The vowel and everything after it",
+              "Only punctuation",
+              "Only the first consonant"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which word shares the same rime as hat?",
+            "options": [
+              "Bat",
+              "Run",
+              "Hop",
+              "Sit"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is learning onset and rime useful for young readers?",
+            "options": [
+              "It removes the need to read at all",
+              "It only applies to silent letters",
+              "It helps readers recognize word families and sound out new words",
+              "It has no connection to reading"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Converting Minutes to Seconds",
+        "summary": "Grade 2 Math strand: there are sixty seconds in one minute, so to convert minutes to seconds, multiply the number of minutes by sixty.",
+        "resourceLabel": "YouTube: Time: Converting Minutes to Seconds",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Converting%20Minutes%20to%20Seconds%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many seconds are in one minute?",
+            "options": [
+              "60",
+              "100",
+              "30",
+              "10"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many seconds are in two minutes?",
+            "options": [
+              "60",
+              "20",
+              "90",
+              "120"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "To convert minutes to seconds, what do you do?",
+            "options": [
+              "Multiply the minutes by sixty",
+              "Divide the minutes by sixty",
+              "Add ten to the minutes",
+              "Subtract sixty from the minutes"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How many seconds are in half a minute?",
+            "options": [
+              "100",
+              "60",
+              "15",
+              "30"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which is longer: 90 seconds or one minute?",
+            "options": [
+              "Neither has a length",
+              "They are exactly the same",
+              "90 seconds",
+              "One minute"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Hummingbirds: The Smallest, Fastest Fliers",
+        "summary": "Grade 2 Science strand: hummingbirds are tiny birds that beat their wings extremely fast, allowing them to hover in place while sipping nectar from flowers.",
+        "resourceLabel": "YouTube: Hummingbirds: The Smallest, Fastest Fliers",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hummingbirds%3A%20The%20Smallest%2C%20Fastest%20Fliers%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is special about how fast hummingbirds beat their wings?",
+            "options": [
+              "They never move their wings",
+              "Their wings are frozen in place",
+              "They beat their wings extremely fast",
+              "They only flap once per hour"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What special flying skill do hummingbirds have?",
+            "options": [
+              "They can hover in place",
+              "They can only fly backwards",
+              "They cannot fly at all",
+              "They can only glide downward"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do hummingbirds often drink from flowers?",
+            "options": [
+              "Nectar",
+              "Motor oil",
+              "Mud",
+              "Saltwater"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Hummingbirds are known for being among the ___ birds.",
+            "options": [
+              "Largest",
+              "Heaviest",
+              "Slowest",
+              "Smallest"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might hovering help a hummingbird while feeding?",
+            "options": [
+              "It stops the bird from flying anywhere else",
+              "Hovering has no benefit to feeding",
+              "It lets the bird stay still at a flower to sip nectar",
+              "It prevents the bird from ever landing"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Search and Rescue: Helping People in Emergencies",
+        "summary": "Grade 2 Social Studies strand: search and rescue teams in Canada help find and assist people who are lost, injured, or in danger, often in remote areas like mountains, forests, or open water.",
+        "resourceLabel": "YouTube: Search and Rescue: Helping People in Emergencies",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Search%20and%20Rescue%3A%20Helping%20People%20in%20Emergencies%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the main job of a search and rescue team?",
+            "options": [
+              "To find and assist people who are lost or in danger",
+              "To sell food at a market",
+              "To deliver mail",
+              "To teach at a school"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what kinds of areas might search and rescue teams often work?",
+            "options": [
+              "Only in an office building",
+              "Only in a grocery store",
+              "Remote areas like mountains, forests, or open water",
+              "Only inside a single classroom"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is search and rescue an important service?",
+            "options": [
+              "It has no real purpose",
+              "It only happens in stories",
+              "It can help save lives in emergencies",
+              "It replaces the need for hospitals"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might a search and rescue team use to find someone?",
+            "options": [
+              "A paintbrush",
+              "A musical instrument",
+              "A cookbook",
+              "Trained dogs and specialized equipment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Search and rescue is an example of a ___ service.",
+            "options": [
+              "Community emergency",
+              "Banking",
+              "Entertainment",
+              "Retail"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "label": "Day 175 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Kennings: Poetic Nicknames for Everyday Things",
+        "summary": "Grade 2 Language strand: a kenning is a short, two-word poetic nickname that describes something in a creative way, like sky-traveller for a bird or web-spinner for a spider.",
+        "resourceLabel": "YouTube: Kennings: Poetic Nicknames for Everyday Things",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Kennings%3A%20Poetic%20Nicknames%20for%20Everyday%20Things%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a kenning?",
+            "options": [
+              "A silent letter",
+              "A type of punctuation",
+              "A short, two-word poetic nickname for something",
+              "A math equation"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these is an example of a kenning for a bird?",
+            "options": [
+              "Sky-traveller",
+              "The blue sky",
+              "A quiet room",
+              "A math fact"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What makes a kenning creative?",
+            "options": [
+              "It has no meaning at all",
+              "It never describes anything",
+              "It describes something in a fresh, imaginative way",
+              "It always uses the exact same word twice"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which kenning might describe a spider?",
+            "options": [
+              "Deep-sleeper",
+              "Web-spinner",
+              "Fast-runner",
+              "Loud-singer"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a poet choose to use kennings in a poem?",
+            "options": [
+              "To add vivid, playful description",
+              "To remove all imagery from the poem",
+              "To make the poem impossible to read",
+              "To avoid describing the subject"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Measurement: Comparing Weight with a Balance Scale",
+        "summary": "Grade 2 Math strand: a balance scale compares the weight of two objects by seeing which side tips lower, showing which object is heavier or if the two objects weigh the same.",
+        "resourceLabel": "YouTube: Measurement: Comparing Weight with a Balance Scale",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Measurement%3A%20Comparing%20Weight%20with%20a%20Balance%20Scale%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a balance scale help you compare?",
+            "options": [
+              "The name of two objects",
+              "The weight of two objects",
+              "The shape of two objects",
+              "The colour of two objects"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "If one side of a balance scale tips lower, what does that side hold?",
+            "options": [
+              "The heavier object",
+              "Nothing at all",
+              "The lighter object",
+              "An object with no weight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If both sides of a balance scale stay level, what does that mean?",
+            "options": [
+              "The objects weigh the same",
+              "The scale is broken",
+              "One object is much heavier",
+              "The objects have no weight"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these could you compare using a balance scale?",
+            "options": [
+              "A loud sound and a quiet sound",
+              "The colour red and the colour blue",
+              "An apple and an orange",
+              "Yesterday and today"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "A balance scale is a tool used to measure ___.",
+            "options": [
+              "Time",
+              "Weight",
+              "Length only",
+              "Temperature"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Savanna Habitats: Grasslands With Scattered Trees",
+        "summary": "Grade 2 Science strand: a savanna is a warm grassland habitat with scattered trees and a wet and dry season, home to animals such as lions, elephants, and giraffes.",
+        "resourceLabel": "YouTube: Savanna Habitats: Grasslands With Scattered Trees",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Savanna%20Habitats%3A%20Grasslands%20With%20Scattered%20Trees%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of habitat is a savanna?",
+            "options": [
+              "A deep ocean trench",
+              "A warm grassland with scattered trees",
+              "An underground cave system",
+              "A cold, icy tundra"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What kind of seasons does a savanna typically have?",
+            "options": [
+              "A wet season and a dry season",
+              "Only rain all year with no dry season",
+              "Only snow all year",
+              "No seasons at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which animal might live in a savanna habitat?",
+            "options": [
+              "A penguin",
+              "A giraffe",
+              "An arctic fox",
+              "A polar bear"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How is a savanna different from a thick rainforest?",
+            "options": [
+              "A savanna has scattered trees instead of a dense canopy",
+              "A savanna is always covered in ice",
+              "A savanna has no plants at all",
+              "A savanna exists only underwater"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A savanna is best described as a ___ habitat.",
+            "options": [
+              "Cold, icy",
+              "Dark, underground",
+              "Deep, underwater",
+              "Warm, grassy"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Northern Lights: A Canadian Natural Wonder",
+        "summary": "Grade 2 Social Studies strand: the northern lights, also called the aurora borealis, are colourful glowing lights sometimes seen in the night sky in northern Canada.",
+        "resourceLabel": "YouTube: The Northern Lights: A Canadian Natural Wonder",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Northern%20Lights%3A%20A%20Canadian%20Natural%20Wonder%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are the northern lights also called?",
+            "options": [
+              "The southern cross",
+              "The aurora borealis",
+              "The polar vortex",
+              "The midnight sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "In which part of Canada are the northern lights most often seen?",
+            "options": [
+              "Northern Canada",
+              "Southern Canada only",
+              "Only over the ocean",
+              "Only in cities"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When are the northern lights typically visible?",
+            "options": [
+              "Only underwater",
+              "At night",
+              "Only during a storm",
+              "Only at noon"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What do the northern lights look like in the sky?",
+            "options": [
+              "A dark empty patch",
+              "Colourful glowing lights",
+              "A single grey cloud",
+              "A bright orange sun"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "The northern lights are an example of a natural ___.",
+            "options": [
+              "Building",
+              "Vehicle",
+              "Wonder",
+              "Currency"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "label": "Day 176 — Mon",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Thank-You Notes: Writing to Show Gratitude",
+        "summary": "Grade 2 Language strand: a thank-you note is a short piece of writing that expresses gratitude to someone for a gift, kindness, or help they provided.",
+        "resourceLabel": "YouTube: Thank-You Notes: Writing to Show Gratitude",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Thank-You%20Notes%3A%20Writing%20to%20Show%20Gratitude%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the purpose of a thank-you note?",
+            "options": [
+              "To share a made-up story",
+              "To express gratitude for a gift, kindness, or help",
+              "To complain about a problem",
+              "To ask a stranger for money"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these might a thank-you note mention?",
+            "options": [
+              "The weather forecast for next month",
+              "A recipe for dinner",
+              "A list of unrelated math facts",
+              "What the gift or kindness was and why it mattered"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might someone choose to write a thank-you note instead of just saying thanks out loud?",
+            "options": [
+              "A written note can be kept and reread later",
+              "Writing a note is never appropriate",
+              "Spoken thanks are always better",
+              "Notes cannot express gratitude"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A thank-you note is usually ___ in tone.",
+            "options": [
+              "Cold and factual only",
+              "Silent with no words",
+              "Angry and rude",
+              "Warm and appreciative"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which sentence sounds like it belongs in a thank-you note?",
+            "options": [
+              "Two plus two equals four",
+              "The weather is cloudy today",
+              "Thank you for the wonderful book you gave me",
+              "The capital of Canada is Ottawa"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Points, Lines, Line Segments, and Rays",
+        "summary": "Grade 2 Math strand: a point is an exact location, a line goes on forever in both directions, a line segment has two endpoints, and a ray starts at one point and goes on forever in one direction.",
+        "resourceLabel": "YouTube: Geometry: Points, Lines, Line Segments, and Rays",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Geometry%3A%20Points%2C%20Lines%2C%20Line%20Segments%2C%20and%20Rays%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a point in geometry?",
+            "options": [
+              "A shape with four sides",
+              "An exact location",
+              "A curved path",
+              "A type of angle"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How far does a line extend?",
+            "options": [
+              "Only one centimetre",
+              "Forever in both directions",
+              "It has no length at all",
+              "It stops after a short distance"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What makes a line segment different from a line?",
+            "options": [
+              "A line segment has no length",
+              "A line segment is always curved",
+              "A line segment has two endpoints",
+              "A line segment goes on forever"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a ray?",
+            "options": [
+              "A path that starts at one point and goes on forever in one direction",
+              "A path with two endpoints",
+              "A closed shape",
+              "A single dot with no direction"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of these best describes a line segment you might draw with a ruler between two dots?",
+            "options": [
+              "A curved circle",
+              "A path that never ends",
+              "A straight path with a clear start and end",
+              "A single point"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Solar Eclipses: When the Moon Blocks the Sun",
+        "summary": "Grade 2 Science strand: a solar eclipse happens when the moon passes between the Earth and the Sun, briefly blocking some or all of the suns light from reaching part of the Earth.",
+        "resourceLabel": "YouTube: Solar Eclipses: When the Moon Blocks the Sun",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Solar%20Eclipses%3A%20When%20the%20Moon%20Blocks%20the%20Sun%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What happens during a solar eclipse?",
+            "options": [
+              "The moon passes between the Earth and the Sun",
+              "The Earth disappears",
+              "The moon turns into a star",
+              "The sun passes between the Earth and the moon"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a solar eclipse briefly block?",
+            "options": [
+              "All sound on Earth",
+              "Some or all of the suns light",
+              "The Earths gravity",
+              "The ocean tides completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why should people never look directly at a solar eclipse without proper eye protection?",
+            "options": [
+              "Solar eclipses are completely harmless to look at",
+              "There is no reason for caution",
+              "Eclipses make everything invisible",
+              "The suns light can seriously harm the eyes"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which three objects line up during a solar eclipse?",
+            "options": [
+              "Two moons and a planet",
+              "The Sun, the moon, and the Earth",
+              "The Earth, a comet, and a star",
+              "Three different planets"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A solar eclipse is an example of an event in ___.",
+            "options": [
+              "Sports history",
+              "Underwater biology",
+              "Local government",
+              "Space and astronomy"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Hudson Bay: A Great Canadian Waterway",
+        "summary": "Grade 2 Social Studies strand: Hudson Bay is a huge body of saltwater in northern Canada, important historically for trade routes and still important today for northern communities and wildlife.",
+        "resourceLabel": "YouTube: Hudson Bay: A Great Canadian Waterway",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Hudson%20Bay%3A%20A%20Great%20Canadian%20Waterway%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What kind of body of water is Hudson Bay?",
+            "options": [
+              "A narrow river",
+              "A man-made canal",
+              "A huge saltwater bay",
+              "A small freshwater pond"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which part of Canada is Hudson Bay located?",
+            "options": [
+              "Southern Ontario only",
+              "Central Africa",
+              "Outside of Canada",
+              "Northern Canada"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why was Hudson Bay historically important?",
+            "options": [
+              "It has never been used for anything",
+              "It was only used for farming",
+              "It was important for trade routes",
+              "It has no history at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which of these might be found living near Hudson Bay?",
+            "options": [
+              "Coral reef fish only",
+              "Tropical rainforest animals",
+              "Northern wildlife and communities",
+              "Desert cactus plants"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Hudson Bay is an example of a Canadian ___.",
+            "options": [
+              "Kind of currency",
+              "Type of government",
+              "Geographic feature",
+              "National holiday"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "label": "Day 177 — Tue",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Fables: Short Stories With a Moral",
+        "summary": "Grade 2 Language strand: a fable is a short story, often with animal characters, that teaches a lesson or moral at the end.",
+        "resourceLabel": "YouTube: Fables: Short Stories With a Moral",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Fables%3A%20Short%20Stories%20With%20a%20Moral%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a fable usually teach?",
+            "options": [
+              "A grocery list",
+              "A weather forecast",
+              "A lesson or moral",
+              "A math formula"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of characters often appear in fables?",
+            "options": [
+              "No characters at all",
+              "Animals that act like people",
+              "Only real historical figures",
+              "Only inanimate objects with no traits"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Where in a fable is the lesson usually found?",
+            "options": [
+              "Only in the title",
+              "Nowhere, fables have no lesson",
+              "In the middle only, never at the end",
+              "At the end of the story"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which of these is most like a fable?",
+            "options": [
+              "A story about a slow turtle who wins a race through persistence",
+              "A recipe for soup",
+              "A weather report for tomorrow",
+              "A list of math problems"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a fable use animal characters instead of people?",
+            "options": [
+              "To make the lesson memorable and easy to picture",
+              "Animal characters remove all meaning from a story",
+              "Fables never use characters",
+              "Animals cannot appear in stories"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Time: Reading a Schedule or Timetable",
+        "summary": "Grade 2 Math strand: a schedule or timetable lists events or departures alongside their times, helping people know when something starts, ends, or arrives.",
+        "resourceLabel": "YouTube: Time: Reading a Schedule or Timetable",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Time%3A%20Reading%20a%20Schedule%20or%20Timetable%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a schedule or timetable show?",
+            "options": [
+              "Only names with no times",
+              "Only colours",
+              "Only shapes",
+              "Events or departures alongside their times"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "If a bus timetable shows a departure at 3:15, what does that tell you?",
+            "options": [
+              "The exact time the bus is expected to leave",
+              "The colour of the bus",
+              "The bus never leaves",
+              "The price of the ticket"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is it useful to read a schedule before an event?",
+            "options": [
+              "Schedules are never useful",
+              "It removes the need for clocks",
+              "It helps you know when to arrive on time",
+              "It only tells you the weather"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If a class schedule shows math starts at 9:00 and ends at 9:45, how would you find how long math class lasts?",
+            "options": [
+              "Find the difference between the start and end times",
+              "Multiply the two times",
+              "Ignore both times",
+              "Add the two times together"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A schedule is especially helpful for ___.",
+            "options": [
+              "Drawing pictures",
+              "Playing a video game",
+              "Cooking a meal",
+              "Planning and staying on time"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Pulleys: Lifting Loads with a Wheel and Rope",
+        "summary": "Grade 2 Science strand: a pulley is a simple machine made of a wheel and a rope or chain that changes the direction of a pulling force, making it easier to lift heavy loads.",
+        "resourceLabel": "YouTube: Pulleys: Lifting Loads with a Wheel and Rope",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Pulleys%3A%20Lifting%20Loads%20with%20a%20Wheel%20and%20Rope%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a pulley made of?",
+            "options": [
+              "Only a flat board",
+              "A screw with no wheel",
+              "Only a wedge-shaped block",
+              "A wheel and a rope or chain"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a pulley help change?",
+            "options": [
+              "The temperature of an object",
+              "The direction of a pulling force",
+              "The colour of an object",
+              "The sound an object makes"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How does a pulley make lifting easier?",
+            "options": [
+              "It removes the need for any force",
+              "It makes objects lighter by magic",
+              "It has no effect on lifting",
+              "It lets you pull down to lift something up"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Where might you see a pulley used in real life?",
+            "options": [
+              "Inside a refrigerator",
+              "On a bicycle seat",
+              "Inside a pencil",
+              "On a flagpole to raise a flag"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "A pulley is an example of a ___.",
+            "options": [
+              "Living thing",
+              "Simple machine",
+              "Kind of food",
+              "Type of weather"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Rocky Mountains: Canadas Mountain Range",
+        "summary": "Grade 2 Social Studies strand: the Rocky Mountains are a large mountain range in western Canada, known for tall snow-capped peaks, national parks, and diverse wildlife.",
+        "resourceLabel": "YouTube: The Rocky Mountains: Canadas Mountain Range",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Rocky%20Mountains%3A%20Canadas%20Mountain%20Range%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "In which part of Canada are the Rocky Mountains located?",
+            "options": [
+              "Outside of Canada",
+              "Western Canada",
+              "Eastern Canada",
+              "Northern Canada only"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the Rocky Mountains known for?",
+            "options": [
+              "Tall, snow-capped peaks",
+              "Flat, sandy deserts",
+              "Deep ocean trenches",
+              "Wide, flat prairies with no hills"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What can often be found within the Rocky Mountains?",
+            "options": [
+              "National parks and diverse wildlife",
+              "Coral reefs",
+              "Large cities with no nature",
+              "Tropical rainforests"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A mountain range is best described as ___.",
+            "options": [
+              "A large connected group of mountains",
+              "A type of ocean current",
+              "A kind of cloud",
+              "A single small hill"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "The Rocky Mountains are an example of a Canadian ___.",
+            "options": [
+              "Geographic landform",
+              "National holiday",
+              "Kind of currency",
+              "Type of government"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "label": "Day 178 — Wed",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Diamante Poems: Poems Shaped Like a Diamond",
+        "summary": "Grade 2 Language strand: a diamante poem is a seven-line poem shaped like a diamond that often contrasts two opposite ideas, using a set pattern of nouns, adjectives, and verbs.",
+        "resourceLabel": "YouTube: Diamante Poems: Poems Shaped Like a Diamond",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Diamante%20Poems%3A%20Poems%20Shaped%20Like%20a%20Diamond%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What shape does a diamante poem form on the page?",
+            "options": [
+              "A straight line",
+              "A diamond",
+              "A circle",
+              "A square"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How many lines does a diamante poem usually have?",
+            "options": [
+              "Twenty",
+              "Two",
+              "One",
+              "Seven"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What do diamante poems often contrast?",
+            "options": [
+              "A list of numbers",
+              "Two opposite ideas",
+              "Nothing at all",
+              "A single unrelated fact"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which types of words are used to build a diamante poem?",
+            "options": [
+              "Nouns, adjectives, and verbs in a set pattern",
+              "Only silent letters",
+              "Only punctuation marks",
+              "Only numbers"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a poet choose the diamante form to write about day and night?",
+            "options": [
+              "The form only works for one single idea",
+              "It removes all meaning from the poem",
+              "Diamante poems cannot compare anything",
+              "The shape and structure suit comparing two opposites"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Sense: Skip Counting by 6s, 7s, 8s, and 9s",
+        "summary": "Grade 2 Math strand: skip counting means counting forward by a number other than one, and skip counting by 6s, 7s, 8s, or 9s helps build a foundation for multiplication facts.",
+        "resourceLabel": "YouTube: Number Sense: Skip Counting by 6s, 7s, 8s, and 9s",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Number%20Sense%3A%20Skip%20Counting%20by%206s%2C%207s%2C%208s%2C%20and%209s%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does skip counting mean?",
+            "options": [
+              "Counting backward only",
+              "Counting with no pattern at all",
+              "Counting forward by a number other than one",
+              "Counting only to ten"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you skip count by 6s starting at 6, what comes next: 6, 12, 18, ___?",
+            "options": [
+              "20",
+              "30",
+              "24",
+              "22"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If you skip count by 7s starting at 7, what comes next: 7, 14, 21, ___?",
+            "options": [
+              "28",
+              "25",
+              "30",
+              "27"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "If you skip count by 9s starting at 9, what comes next: 9, 18, 27, ___?",
+            "options": [
+              "36",
+              "40",
+              "30",
+              "35"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is skip counting by 6s, 7s, 8s, and 9s a useful skill?",
+            "options": [
+              "It has no connection to multiplication",
+              "It replaces the need for addition",
+              "It only works with even numbers",
+              "It helps build a foundation for multiplication facts"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Frogs and Toads: Spotting the Differences",
+        "summary": "Grade 2 Science strand: frogs and toads are both amphibians, but frogs usually have smooth, moist skin and long legs for jumping, while toads usually have dry, bumpy skin and shorter legs for hopping.",
+        "resourceLabel": "YouTube: Frogs and Toads: Spotting the Differences",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Frogs%20and%20Toads%3A%20Spotting%20the%20Differences%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What type of animal are both frogs and toads?",
+            "options": [
+              "Amphibians",
+              "Mammals",
+              "Reptiles",
+              "Birds"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of skin does a frog usually have?",
+            "options": [
+              "Smooth and moist",
+              "Dry and bumpy",
+              "Covered in feathers",
+              "Covered in fur"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What kind of skin does a toad usually have?",
+            "options": [
+              "Covered in feathers",
+              "Smooth and moist",
+              "Dry and bumpy",
+              "Covered in scales like a fish"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why are frogs known for jumping long distances?",
+            "options": [
+              "They usually have longer legs suited for jumping",
+              "Frogs cannot move at all",
+              "They have wings instead of legs",
+              "They have no legs at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Frogs and toads are often found near ___.",
+            "options": [
+              "Water and moist areas",
+              "The tops of tall mountains only",
+              "Frozen glaciers only",
+              "Deep deserts only"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Canadian Border Crossings: Moving Between Countries",
+        "summary": "Grade 2 Social Studies strand: a border crossing is an official place where people and goods travel between two countries, often with officers who check documents like passports.",
+        "resourceLabel": "YouTube: Canadian Border Crossings: Moving Between Countries",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Canadian%20Border%20Crossings%3A%20Moving%20Between%20Countries%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a border crossing?",
+            "options": [
+              "A local park",
+              "A kind of holiday",
+              "An official place where people and goods travel between countries",
+              "A type of school"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might officers check for at a border crossing?",
+            "options": [
+              "Only favourite colour",
+              "Only birthday cake flavour",
+              "Only shoe size",
+              "Documents like passports"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What can travel through a border crossing besides people?",
+            "options": [
+              "Only weather",
+              "Only sound waves",
+              "Nothing else at all",
+              "Goods and products"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are border crossings important for countries?",
+            "options": [
+              "They only exist to slow down traffic for no reason",
+              "They help control and monitor who and what enters a country",
+              "They have no purpose at all",
+              "They prevent all travel completely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "A border crossing is found at the ___ between two countries.",
+            "options": [
+              "Top of a mountain only",
+              "Centre of a city",
+              "Middle of the ocean with no land",
+              "Boundary"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "label": "Day 179 — Thu",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Trigraphs: The Sounds of tch and dge",
+        "summary": "Grade 2 Language strand: a trigraph is three letters that work together to make one sound, such as tch in catch and dge in bridge.",
+        "resourceLabel": "YouTube: Trigraphs: The Sounds of tch and dge",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Trigraphs%3A%20The%20Sounds%20of%20tch%20and%20dge%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is a trigraph?",
+            "options": [
+              "A single silent letter",
+              "A punctuation mark",
+              "Three letters that work together to make one sound",
+              "A whole sentence"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which trigraph is found in the word catch?",
+            "options": [
+              "Dge",
+              "Ch",
+              "Sh",
+              "Tch"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which trigraph is found in the word bridge?",
+            "options": [
+              "Wh",
+              "Dge",
+              "Th",
+              "Tch"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of these words contains the tch trigraph?",
+            "options": [
+              "Ship",
+              "Watch",
+              "Bridge",
+              "Chip"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might tch and dge be tricky for young readers?",
+            "options": [
+              "They only appear in numbers",
+              "Three letters combine to make a single sound",
+              "They are always silent and make no sound",
+              "They never appear in real words"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Data: Sorting Objects with a Carroll Diagram",
+        "summary": "Grade 2 Math strand: a Carroll diagram sorts objects into a grid based on two different attributes, showing whether each object does or does not have each attribute.",
+        "resourceLabel": "YouTube: Data: Sorting Objects with a Carroll Diagram",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Data%3A%20Sorting%20Objects%20with%20a%20Carroll%20Diagram%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does a Carroll diagram help you do?",
+            "options": [
+              "Sort objects by two different attributes",
+              "Measure the weight of an object",
+              "Tell the exact time",
+              "Count money only"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is a Carroll diagram organized?",
+            "options": [
+              "As a single circle",
+              "As a list of random numbers",
+              "As a grid based on attributes",
+              "As a straight line with no sections"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "If sorting shapes by colour and by number of sides, what could a Carroll diagram show?",
+            "options": [
+              "Which shapes are red with four sides and which are not",
+              "Only the shapes names",
+              "Nothing useful at all",
+              "Only the price of each shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "A Carroll diagram is most similar to which other sorting tool?",
+            "options": [
+              "A ruler",
+              "A clock face",
+              "A number line",
+              "A Venn diagram"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a Carroll diagram be useful in math class?",
+            "options": [
+              "It replaces the need for counting",
+              "It has no real use in math",
+              "It helps organize and compare data by attributes",
+              "It only works with letters, never numbers or shapes"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Wedges and Screws: Simple Machines That Cut and Hold",
+        "summary": "Grade 2 Science strand: a wedge is a simple machine shaped like a triangle used to cut or split things apart, and a screw is a simple machine made of an inclined plane wrapped around a pole, used to hold things together.",
+        "resourceLabel": "YouTube: Wedges and Screws: Simple Machines That Cut and Hold",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Wedges%20and%20Screws%3A%20Simple%20Machines%20That%20Cut%20and%20Hold%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What shape is a wedge?",
+            "options": [
+              "A flat rectangle",
+              "A triangle",
+              "A perfect circle",
+              "A wavy line"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a wedge often used for?",
+            "options": [
+              "Telling time",
+              "Measuring temperature",
+              "Cutting or splitting things apart",
+              "Holding water"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What simple machine is wrapped around a pole to make a screw?",
+            "options": [
+              "A wheel and axle",
+              "A lever",
+              "An inclined plane",
+              "A pulley"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a screw often used for?",
+            "options": [
+              "Measuring distance",
+              "Holding things together",
+              "Producing light",
+              "Cutting food"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Wedges and screws are both examples of ___.",
+            "options": [
+              "Simple machines",
+              "Musical instruments",
+              "Weather events",
+              "Living things"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "The Royal Canadian Mint: Where Our Coins Are Made",
+        "summary": "Grade 2 Social Studies strand: the Royal Canadian Mint is the organization responsible for producing all of Canadas coins, using metal, machines, and careful designs.",
+        "resourceLabel": "YouTube: The Royal Canadian Mint: Where Our Coins Are Made",
+        "resourceUrl": "https://www.youtube.com/results?search_query=The%20Royal%20Canadian%20Mint%3A%20Where%20Our%20Coins%20Are%20Made%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What does the Royal Canadian Mint produce?",
+            "options": [
+              "Canadas passports",
+              "Canadas coins",
+              "Canadas paper bills",
+              "Canadas stamps"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What materials are used to make coins at the mint?",
+            "options": [
+              "Metal",
+              "Fabric",
+              "Wood",
+              "Paper"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might careful designs matter when making coins?",
+            "options": [
+              "Designs have no importance for coins",
+              "Only the weight of a coin matters",
+              "To make coins recognizable and hard to copy",
+              "Coins are never designed at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The word mint, in this context, refers to a place that ___.",
+            "options": [
+              "Repairs vehicles",
+              "Grows plants for food",
+              "Manufactures official coins",
+              "Publishes newspapers"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "The Royal Canadian Mint is an example of a national ___.",
+            "options": [
+              "Weather pattern",
+              "Sports team",
+              "Holiday",
+              "Institution"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "label": "Day 180 — Fri",
+    "subjects": [
+      {
+        "subject": "Language",
+        "title": "Language Review: Poetic Forms, Reflexive Pronouns, and Story Genres",
+        "summary": "Grade 2 Language strand review: students revisit limericks, reflexive pronouns, tall tales, onset and rime, kennings, thank-you notes, fables, diamante poems, and the tch/dge trigraphs.",
+        "resourceLabel": "YouTube: Language Review: Poetic Forms, Reflexive Pronouns, and Story Genres",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Language%20Review%3A%20Poetic%20Forms%2C%20Reflexive%20Pronouns%2C%20and%20Story%20Genres%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "How many lines does a limerick have?",
+            "options": [
+              "Three",
+              "One",
+              "Ten",
+              "Five"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a reflexive pronoun do?",
+            "options": [
+              "Asks a question",
+              "Shows an action only",
+              "Refers back to the subject of the sentence",
+              "Names a place"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What makes a tall tale different from a realistic story?",
+            "options": [
+              "It is always written as a list",
+              "It has no characters at all",
+              "It only describes true daily events",
+              "It features exaggerated, impossible feats"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is a kenning?",
+            "options": [
+              "A type of punctuation",
+              "A silent letter",
+              "A math equation",
+              "A short, two-word poetic nickname for something"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does a fable usually teach?",
+            "options": [
+              "A weather forecast",
+              "A math formula",
+              "A lesson or moral",
+              "A grocery list"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Fractions, Money, Time, Geometry, and Data",
+        "summary": "Grade 2 Math strand review: students revisit subtracting fractions with the same denominator, circle graphs, Canadian paper bills, converting minutes to seconds, points and lines, reading a schedule, skip counting by 6s to 9s, and Carroll diagrams.",
+        "resourceLabel": "YouTube: Math Review: Fractions, Money, Time, Geometry, and Data",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Math%20Review%3A%20Fractions%2C%20Money%2C%20Time%2C%20Geometry%2C%20and%20Data%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "When subtracting fractions with the same denominator, what stays the same?",
+            "options": [
+              "The denominator",
+              "Both numbers change",
+              "Nothing stays the same",
+              "The numerator"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does each slice of a circle graph represent?",
+            "options": [
+              "A separate unrelated topic",
+              "The title of the graph",
+              "A single dot of data",
+              "A part of the whole amount"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How many seconds are in one minute?",
+            "options": [
+              "10",
+              "30",
+              "60",
+              "100"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a ray?",
+            "options": [
+              "A path that starts at one point and goes on forever in one direction",
+              "A path with two endpoints",
+              "A single dot with no direction",
+              "A closed shape"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a Carroll diagram help you do?",
+            "options": [
+              "Count money only",
+              "Sort objects by two different attributes",
+              "Measure the weight of an object",
+              "Tell the exact time"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Animals, Habitats, Space, and Simple Machines",
+        "summary": "Grade 2 Science strand review: students revisit chameleons, kangaroos, jellyfish, hummingbirds, savanna habitats, solar eclipses, pulleys, frogs and toads, and wedges and screws.",
+        "resourceLabel": "YouTube: Science Review: Animals, Habitats, Space, and Simple Machines",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Science%20Review%3A%20Animals%2C%20Habitats%2C%20Space%2C%20and%20Simple%20Machines%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What are chameleons best known for?",
+            "options": [
+              "Building large nests",
+              "Living underwater only",
+              "Changing colour",
+              "Flying through the air"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a marsupial?",
+            "options": [
+              "An animal with no legs",
+              "An animal that never moves",
+              "An animal that carries its young in a pouch",
+              "An animal that lives only underwater"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What kind of habitat is a savanna?",
+            "options": [
+              "An underground cave system",
+              "A warm grassland with scattered trees",
+              "A deep ocean trench",
+              "A cold, icy tundra"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What happens during a solar eclipse?",
+            "options": [
+              "The Earth disappears",
+              "The moon passes between the Earth and the Sun",
+              "The sun passes between the Earth and the moon",
+              "The moon turns into a star"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a pulley help change?",
+            "options": [
+              "The sound an object makes",
+              "The temperature of an object",
+              "The colour of an object",
+              "The direction of a pulling force"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "SocialStudies",
+        "title": "Social Studies Review: Parliament, Geography, and National Institutions",
+        "summary": "Grade 2 Social Studies strand review: students revisit the House of Commons, the Canadian passport, National Indigenous Peoples Day, search and rescue, the northern lights, Hudson Bay, the Rocky Mountains, border crossings, and the Royal Canadian Mint.",
+        "resourceLabel": "YouTube: Social Studies Review: Parliament, Geography, and National Institutions",
+        "resourceUrl": "https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Parliament%2C%20Geography%2C%20and%20National%20Institutions%20grade%202%20educational",
+        "quiz": [
+          {
+            "q": "What is the House of Commons?",
+            "options": [
+              "A sports arena",
+              "A local library",
+              "The part of Parliament where MPs debate and vote on laws",
+              "A type of school"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is a Canadian passport?",
+            "options": [
+              "A school report card",
+              "A kind of map",
+              "An official document proving citizenship and identity",
+              "A type of currency"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "On what date is National Indigenous Peoples Day celebrated?",
+            "options": [
+              "December 25",
+              "June 21",
+              "January 1",
+              "July 1"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are the northern lights also called?",
+            "options": [
+              "The midnight sun",
+              "The polar vortex",
+              "The southern cross",
+              "The aurora borealis"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the Royal Canadian Mint produce?",
+            "options": [
+              "Canadas stamps",
+              "Canadas coins",
+              "Canadas paper bills",
+              "Canadas passports"
+            ],
+            "answer": 1
           }
         ]
       }

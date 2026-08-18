@@ -2838,6 +2838,7 @@ const curriculum: DayContent[] = [
 {day:56, label:"Day 56 — Mon", subjects:[
   {subject:"Language", title:"Homophones: to, too, and two", summary:"Students learn about homophones, words that sound the same but have different spellings and meanings, such as to, too, and two.",
    resourceLabel:"YouTube: Homophones: to, too, and two", resourceUrl:"https://www.youtube.com/results?search_query=Homophones%3A%20to%2C%20too%2C%20and%20two%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lsNsjUv17cU",
    quiz:[
      {q:"Which word means the number 2?", options:["Two","Too","To","Threw"], answer:0},
      {q:"Which word means also or as well?", options:["To","Too","Ate","Two"], answer:1},
@@ -2852,6 +2853,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Data: Bar Graphs", summary:"Students learn to read and create simple bar graphs, charts that use bars of different heights to show and compare amounts of data.",
    resourceLabel:"YouTube: Data: Bar Graphs", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Bar%20Graphs%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=lc4r2jOwT7E",
    quiz:[
      {q:"What does a bar graph use to show data?", options:["Only words","Only numbers","Bars of different heights","Only colours"], answer:2},
      {q:"On a bar graph, a taller bar usually shows ___.", options:["The same amount always","A smaller amount","A larger amount","No amount at all"], answer:2},
@@ -2866,6 +2868,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Forces: Gravity Pulls Things Down", summary:"Students learn that gravity is a force that pulls objects down toward the ground, which is why a dropped ball falls instead of floating away.",
    resourceLabel:"YouTube: Forces: Gravity Pulls Things Down", resourceUrl:"https://www.youtube.com/results?search_query=Forces%3A%20Gravity%20Pulls%20Things%20Down%20grade%201%20educational",
+   videoUrl:"https://www.youtube.com/watch?v=H9YMgx5T9Sk",
    quiz:[
      {q:"What is the name of the force that pulls objects down toward the ground?", options:["Sound","Magnetism","Light","Gravity"], answer:3},
      {q:"If you drop an apple, what happens because of gravity?", options:["It disappears","It falls down to the ground","It floats up into the sky","It turns into water"], answer:1},
@@ -9503,6 +9506,586 @@ const curriculum: DayContent[] = [
      {prompt:"What are the Great Lakes?", answers:["huge freshwater lakes"]},
      {prompt:"On which Canadian coin does the loon appear?", answers:["the one dollar coin"]},
      {prompt:"What happens at a citizenship ceremony?", answers:["newcomers become citizens"]}
+   ]},
+]},
+{day:171, label:"Day 171 — Mon", subjects:[
+  {subject:"Language", title:"Silent e: The Magic e Rule", summary:"Grade 1 Language strand: adding a silent e to the end of a short word can change a short vowel sound into a long vowel sound, such as changing cap into cape or kit into kite.",
+   resourceLabel:"YouTube: Silent e: The Magic e Rule", resourceUrl:"https://www.youtube.com/results?search_query=Silent%20e%3A%20The%20Magic%20e%20Rule%20grade%201%20educational",
+   quiz:[
+     {q:"What does adding a silent e to the word cap turn it into?", options:["Capped","Capping","Cape","Cape only in plural"], answer:2},
+     {q:"What does adding a silent e to the word kit turn it into?", options:["Kite","Kitted","Kitten","Kits"], answer:0},
+     {q:"What kind of vowel sound does a silent e usually create in the word before it?", options:["No vowel sound","A silent vowel sound","A short vowel sound","A long vowel sound"], answer:3},
+     {q:"Which word uses the silent e rule to make a long vowel sound?", options:["Cat","Cake","Cap","Can"], answer:1},
+     {q:"A silent e at the end of a word is a letter that is written but ___.", options:["Always a consonant sound","The first letter said","Always pronounced loudly","Not pronounced"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does adding a silent e to cap turn it into?", answers:["cape","the word cape"]},
+     {prompt:"What does adding a silent e to kit turn it into?", answers:["kite","the word kite"]},
+     {prompt:"Does the silent e itself make a sound when we read it?", answers:["no","no it is silent"]}
+   ]},
+  {subject:"Math", title:"Numbers to 700: Beyond 600", summary:"Grade 1 Math strand: students read, write, and count numbers beyond 600, up to 700.",
+   resourceLabel:"YouTube: Numbers to 700: Beyond 600", resourceUrl:"https://www.youtube.com/results?search_query=Numbers%20to%20700%3A%20Beyond%20600%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 699?", options:["698","701","699","700"], answer:3},
+     {q:"Which number is between 620 and 640?", options:["660","630","650","610"], answer:1},
+     {q:"What number comes right before 700?", options:["701","699","698","700"], answer:1},
+     {q:"Which of these numbers is the largest?", options:["399","499","699","599"], answer:2},
+     {q:"Counting beyond 600 helps us understand numbers up to ___.", options:["7","700","7000","70"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 699?", answers:["700","seven hundred"]},
+     {prompt:"What number comes right before 650?", answers:["649","six hundred forty nine"]},
+     {prompt:"Count by tens from 680 to 700.", answers:["680,690,700","680 690 700"]}
+   ]},
+  {subject:"Science", title:"Foxes: Clever Hunters of the Forest", summary:"Grade 1 Science strand: foxes are small, clever mammals with pointed ears and bushy tails that hunt small animals in forests and fields, often at dawn and dusk.",
+   resourceLabel:"YouTube: Foxes: Clever Hunters of the Forest", resourceUrl:"https://www.youtube.com/results?search_query=Foxes%3A%20Clever%20Hunters%20of%20the%20Forest%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of tail does a fox have?", options:["A flat tail","A bushy tail","No tail at all","A shell"], answer:1},
+     {q:"When does a fox often hunt for food?", options:["At dawn and dusk","Only in winter","Only at noon","Only underwater"], answer:0},
+     {q:"What kind of animal is a fox?", options:["A mammal","A bird","A fish","A reptile"], answer:0},
+     {q:"Where do foxes usually hunt?", options:["The ocean floor","Inside caves under the sea","The desert only","Forests and fields"], answer:3},
+     {q:"Foxes are known for being very ___ hunters.", options:["Loud","Clever","Slow","Clumsy"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What kind of tail does a fox have?", answers:["a bushy tail","bushy tail"]},
+     {prompt:"When does a fox often hunt?", answers:["at dawn and dusk","dawn and dusk"]},
+     {prompt:"What kind of animal is a fox?", answers:["a mammal"]}
+   ]},
+  {subject:"SocialStudies", title:"Labour Day: Celebrating Workers", summary:"Grade 1 Social Studies strand: Labour Day is a September holiday that celebrates the hard work of people in all kinds of jobs and marks the end of summer before school begins.",
+   resourceLabel:"YouTube: Labour Day: Celebrating Workers", resourceUrl:"https://www.youtube.com/results?search_query=Labour%20Day%3A%20Celebrating%20Workers%20grade%201%20educational",
+   quiz:[
+     {q:"What does Labour Day celebrate?", options:["A famous hockey game","The hard work of people in many jobs","A new school building","A type of weather"], answer:1},
+     {q:"In which month is Labour Day celebrated?", options:["April","January","September","November"], answer:2},
+     {q:"What does Labour Day mark the start of for most students?", options:["A winter holiday","A sports season","Summer vacation","A new school year"], answer:3},
+     {q:"Labour Day is meant to honour people who do what?", options:["Only go on vacation","Work at many different jobs","Only play sports","Only stay home"], answer:1},
+     {q:"Celebrating workers on Labour Day shows that jobs are ___ to our communities.", options:["Unimportant","Unnecessary","Important","Boring"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does Labour Day celebrate?", answers:["the hard work of people","workers and their jobs"]},
+     {prompt:"In what month is Labour Day celebrated?", answers:["September"]},
+     {prompt:"What does Labour Day mark the end of?", answers:["summer","the end of summer"]}
+   ]},
+]},
+{day:172, label:"Day 172 — Tue", subjects:[
+  {subject:"Language", title:"Three-Letter Blends: thr, squ, and spl", summary:"Grade 1 Language strand: some words begin with three consonants blended together, such as thr in three, squ in square, and spl in splash.",
+   resourceLabel:"YouTube: Three-Letter Blends: thr, squ, and spl", resourceUrl:"https://www.youtube.com/results?search_query=Three-Letter%20Blends%3A%20thr%2C%20squ%2C%20and%20spl%20grade%201%20educational",
+   quiz:[
+     {q:"Which word starts with the thr blend?", options:["Free","Three","Tree","Bee"], answer:1},
+     {q:"Which word starts with the squ blend?", options:["Fair","Care","Square","Bare"], answer:2},
+     {q:"Which word starts with the spl blend?", options:["Cash","Splash","Sash","Flash"], answer:1},
+     {q:"A three-letter blend has how many consonant sounds blended together?", options:["1","4","3","2"], answer:2},
+     {q:"Which of these words has a three-letter blend at the start?", options:["Cash","Dash","Wash","Splash"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Give a word that starts with the thr blend.", answers:["three","throw"]},
+     {prompt:"Give a word that starts with the squ blend.", answers:["square","squirrel"]},
+     {prompt:"Give a word that starts with the spl blend.", answers:["splash","split"]}
+   ]},
+  {subject:"Math", title:"Fractions: Sixths of a Whole", summary:"Grade 1 Math strand: when a whole is divided into six equal parts, each part is called a sixth, written as one out of six equal pieces.",
+   resourceLabel:"YouTube: Fractions: Sixths of a Whole", resourceUrl:"https://www.youtube.com/results?search_query=Fractions%3A%20Sixths%20of%20a%20Whole%20grade%201%20educational",
+   quiz:[
+     {q:"What is each equal part called when a whole is divided into six pieces?", options:["A fifth","A third","A half","A sixth"], answer:3},
+     {q:"How many equal parts make up a whole divided into sixths?", options:["4","3","5","6"], answer:3},
+     {q:"If a pizza is cut into sixths, how many pieces does it have in total?", options:["6","5","3","4"], answer:0},
+     {q:"Which fraction shows one out of six equal parts?", options:["One fifth","One third","One sixth","One half"], answer:2},
+     {q:"For parts to be called sixths, they must be ___.", options:["Not connected","Equal in size","Different sizes","Only two pieces"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is each equal part called when a whole is split into six pieces?", answers:["a sixth","one sixth"]},
+     {prompt:"How many equal parts make a whole when it is divided into sixths?", answers:["6","six"]},
+     {prompt:"If you eat one sixth of a pizza, how many equal pieces are left?", answers:["5","five"]}
+   ]},
+  {subject:"Science", title:"Squirrels: Gathering Food for Winter", summary:"Grade 1 Science strand: squirrels are small mammals with bushy tails that climb trees and gather and bury nuts and seeds in the fall to eat during the winter.",
+   resourceLabel:"YouTube: Squirrels: Gathering Food for Winter", resourceUrl:"https://www.youtube.com/results?search_query=Squirrels%3A%20Gathering%20Food%20for%20Winter%20grade%201%20educational",
+   quiz:[
+     {q:"What do squirrels gather in the fall?", options:["Fish","Ice","Leaves only","Nuts and seeds"], answer:3},
+     {q:"Why do squirrels bury food in the ground?", options:["To share with birds only","To eat it later during winter","To grow new trees only","To hide it forever"], answer:1},
+     {q:"What helps a squirrel balance while climbing trees?", options:["Its fins","Its wings","Its shell","Its bushy tail"], answer:3},
+     {q:"What kind of animal is a squirrel?", options:["A fish","A bird","A reptile","A mammal"], answer:3},
+     {q:"Squirrels are well known for being excellent tree ___.", options:["Climbers","Swimmers","Diggers only","Flyers"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do squirrels gather in the fall?", answers:["nuts and seeds","nuts"]},
+     {prompt:"Why do squirrels bury food?", answers:["to eat it later in winter","to save it for winter"]},
+     {prompt:"What helps a squirrel climb and balance in trees?", answers:["its bushy tail","bushy tail"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Dentist: Caring for Our Teeth", summary:"Grade 1 Social Studies strand: a dentist is a community helper who checks, cleans, and cares for our teeth to help keep our smiles healthy.",
+   resourceLabel:"YouTube: Our Dentist: Caring for Our Teeth", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Dentist%3A%20Caring%20for%20Our%20Teeth%20grade%201%20educational",
+   quiz:[
+     {q:"What does a dentist help take care of?", options:["Our teeth","Our shoes","Our hair","Our eyes"], answer:0},
+     {q:"What might a dentist do during a checkup?", options:["Check and clean our teeth","Deliver mail","Fix a car","Cut our hair"], answer:0},
+     {q:"Why is it important to visit the dentist regularly?", options:["It replaces brushing at home","It only happens once in a lifetime","It has no real purpose","It helps keep our teeth and smile healthy"], answer:3},
+     {q:"A dentist is an example of what kind of community member?", options:["A farmer","A community helper","A pilot","A firefighter"], answer:1},
+     {q:"Taking care of our teeth is part of taking care of our overall ___.", options:["Health","Toys","Weather","Homework"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does a dentist help take care of?", answers:["our teeth","teeth"]},
+     {prompt:"Name one thing a dentist might do during a visit.", answers:["clean our teeth","check our teeth"]},
+     {prompt:"Why is visiting the dentist important?", answers:["helps keep our teeth healthy","keeps our smile healthy"]}
+   ]},
+]},
+{day:173, label:"Day 173 — Wed", subjects:[
+  {subject:"Language", title:"Text Features: Bullet Points and Lists", summary:"Grade 1 Language strand: bullet points and lists organize information into short separate pieces, making facts easier for readers to find and understand.",
+   resourceLabel:"YouTube: Text Features: Bullet Points and Lists", resourceUrl:"https://www.youtube.com/results?search_query=Text%20Features%3A%20Bullet%20Points%20and%20Lists%20grade%201%20educational",
+   quiz:[
+     {q:"What do bullet points and lists help organize?", options:["A story into chapters","A picture into colours","A song into verses","Information into short separate pieces"], answer:3},
+     {q:"Why might an author use a list instead of a paragraph?", options:["To confuse the reader","To hide information","To make the text longer","To make facts easier to find"], answer:3},
+     {q:"Which of these is an example of information written as a list?", options:["A poem about the moon","A long story about a dragon","Steps to make a sandwich","A letter to a friend"], answer:2},
+     {q:"Bullet points usually appear before each ___ in a list.", options:["Author","Title","Chapter","Item"], answer:3},
+     {q:"Lists and bullet points are a kind of ___.", options:["Vowel team","Text feature","Suffix","Punctuation mark"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What do bullet points help organize?", answers:["information","facts into a list"]},
+     {prompt:"Why are lists helpful for readers?", answers:["easier to find information","makes facts easy to find"]},
+     {prompt:"Give an example of something you might write as a list.", answers:["a list of steps","a grocery list"]}
+   ]},
+  {subject:"Math", title:"Area: Covering a Shape with Square Units", summary:"Grade 1 Math strand: area is the amount of space inside a flat shape, and students measure it by counting how many equal square units are needed to cover the shape.",
+   resourceLabel:"YouTube: Area: Covering a Shape with Square Units", resourceUrl:"https://www.youtube.com/results?search_query=Area%3A%20Covering%20a%20Shape%20with%20Square%20Units%20grade%201%20educational",
+   quiz:[
+     {q:"What is area?", options:["The distance around a shape","The amount of space inside a flat shape","The colour of a shape","The number of corners a shape has"], answer:1},
+     {q:"What do we count to find the area of a shape?", options:["Square units that cover the shape","The sides of the shape","The corners of the shape","The colours in the shape"], answer:0},
+     {q:"If a rectangle is covered by eight equal squares, what is its area?", options:["10 square units","8 square units","4 square units","2 square units"], answer:1},
+     {q:"Which tool could help you measure the area of a shape?", options:["A calendar","A thermometer","Small equal squares","A clock"], answer:2},
+     {q:"Area tells us how much ___ is inside a flat shape.", options:["Weight","Space","Sound","Time"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What is area?", answers:["the space inside a shape","amount of space inside a flat shape"]},
+     {prompt:"What do we count to measure area?", answers:["square units","squares that cover the shape"]},
+     {prompt:"If a shape is covered by six squares, what is its area?", answers:["6 square units","six"]}
+   ]},
+  {subject:"Science", title:"Simple Machines: Screws and Wedges", summary:"Grade 1 Science strand: a screw is a simple machine shaped like a spiral ramp that holds things together, and a wedge is a simple machine shaped like a triangle that helps split or lift things.",
+   resourceLabel:"YouTube: Simple Machines: Screws and Wedges", resourceUrl:"https://www.youtube.com/results?search_query=Simple%20Machines%3A%20Screws%20and%20Wedges%20grade%201%20educational",
+   quiz:[
+     {q:"What shape is a screw?", options:["A perfect circle","A straight line","A spiral ramp","A flat square"], answer:2},
+     {q:"What does a wedge help people do?", options:["Measure temperature","Cook food","Tell time","Split or lift objects"], answer:3},
+     {q:"Which of these commonly uses a screw?", options:["A clock","A thermometer","A jar lid","A calendar"], answer:2},
+     {q:"Which tool is shaped like a triangle and used to split things apart?", options:["A wedge","A wheel","A lever","A pulley"], answer:0},
+     {q:"Screws and wedges are both examples of ___.", options:["Simple machines","Weather tools","Living things","Musical instruments"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What shape is a screw?", answers:["a spiral ramp","spiral shape"]},
+     {prompt:"What does a wedge help do?", answers:["split or lift things","splits things apart"]},
+     {prompt:"Name a place you might see a screw used.", answers:["a jar lid","holding wood together"]}
+   ]},
+  {subject:"SocialStudies", title:"The Rocky Mountains: A Famous Canadian Landmark", summary:"Grade 1 Social Studies strand: the Rocky Mountains are a tall, snow-capped mountain range in western Canada, known for their beautiful scenery and home to many animals.",
+   resourceLabel:"YouTube: The Rocky Mountains: A Famous Canadian Landmark", resourceUrl:"https://www.youtube.com/results?search_query=The%20Rocky%20Mountains%3A%20A%20Famous%20Canadian%20Landmark%20grade%201%20educational",
+   quiz:[
+     {q:"What are the Rocky Mountains?", options:["A busy city","A tall, snow-capped mountain range","A large flat desert","A group of small islands"], answer:1},
+     {q:"In which part of Canada are the Rocky Mountains located?", options:["Northern Canada only","Southern Ontario","Eastern Canada","Western Canada"], answer:3},
+     {q:"What are the Rocky Mountains known for?", options:["Having no animals at all","Being under the ocean","Beautiful scenery and wildlife","Being completely flat"], answer:2},
+     {q:"What often covers the tops of the Rocky Mountains?", options:["Water only","Sand","Snow","Grass only"], answer:2},
+     {q:"The Rocky Mountains are an example of a Canadian ___.", options:["Holiday","Government building","Coin","Landmark"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What are the Rocky Mountains?", answers:["a tall mountain range","a mountain range in western Canada"]},
+     {prompt:"In what part of Canada are the Rocky Mountains found?", answers:["western Canada","the west"]},
+     {prompt:"Name one thing the Rocky Mountains are known for.", answers:["beautiful scenery","being home to many animals"]}
+   ]},
+]},
+{day:174, label:"Day 174 — Thu", subjects:[
+  {subject:"Language", title:"Media Literacy: How Commercials Try to Persuade Us", summary:"Grade 1 Language strand: commercials are short messages that try to persuade people to buy something or believe an idea, often using bright colours, music, and exciting words.",
+   resourceLabel:"YouTube: Media Literacy: How Commercials Try to Persuade Us", resourceUrl:"https://www.youtube.com/results?search_query=Media%20Literacy%3A%20How%20Commercials%20Try%20to%20Persuade%20Us%20grade%201%20educational",
+   quiz:[
+     {q:"What is the main purpose of a commercial?", options:["To read a bedtime story","To teach a math lesson","To tell the weather forecast","To persuade people to buy something or believe an idea"], answer:3},
+     {q:"Which of these might a commercial use to grab attention?", options:["Bright colours and music","Only plain black and white text","Only silence","Only whispering"], answer:0},
+     {q:"Why is it important to think carefully about commercials?", options:["They are the same as the news","They are trying to persuade us and may not tell the whole story","They never try to sell anything","They are always completely true"], answer:1},
+     {q:"Which of these is an example of a commercial?", options:["A short ad for a new toy","A weather map","A chapter in a novel","A page in a dictionary"], answer:0},
+     {q:"Being a smart media viewer means asking ___ about what we see.", options:["Nothing at all","Only the price","Questions","Only the colours"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is a commercial trying to do?", answers:["persuade people","get people to buy something"]},
+     {prompt:"Name one way commercials try to grab our attention.", answers:["bright colours","music"]},
+     {prompt:"Should we always believe everything a commercial says?", answers:["no","no we should think about it"]}
+   ]},
+  {subject:"Math", title:"Rounding to the Nearest Hundred", summary:"Grade 1 Math strand: rounding a number to the nearest hundred means deciding which multiple of one hundred it is closest to, such as rounding 340 to 300.",
+   resourceLabel:"YouTube: Rounding to the Nearest Hundred", resourceUrl:"https://www.youtube.com/results?search_query=Rounding%20to%20the%20Nearest%20Hundred%20grade%201%20educational",
+   quiz:[
+     {q:"Round 340 to the nearest hundred.", options:["300","400","350","300 and 400"], answer:0},
+     {q:"Round 470 to the nearest hundred.", options:["400","470","450","500"], answer:3},
+     {q:"Round 620 to the nearest hundred.", options:["600","700","650","620"], answer:0},
+     {q:"When a number ends in 50 or more, we usually round it ___ to the next hundred.", options:["Never","Down","Sideways","Up"], answer:3},
+     {q:"Rounding to the nearest hundred helps us find a ___ number that is easier to work with.", options:["Random","Smaller than zero","Simpler","More complicated"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"Round 340 to the nearest hundred.", answers:["300","three hundred"]},
+     {prompt:"Round 470 to the nearest hundred.", answers:["500","five hundred"]},
+     {prompt:"Is 250 exactly halfway between 200 and 300?", answers:["yes","yes it is"]}
+   ]},
+  {subject:"Science", title:"Friction: A Force That Slows Things Down", summary:"Grade 1 Science strand: friction is a force created when two surfaces rub together, and it slows down or stops moving objects, such as a ball rolling to a stop on grass.",
+   resourceLabel:"YouTube: Friction: A Force That Slows Things Down", resourceUrl:"https://www.youtube.com/results?search_query=Friction%3A%20A%20Force%20That%20Slows%20Things%20Down%20grade%201%20educational",
+   quiz:[
+     {q:"What is friction?", options:["A force that only exists in space","A kind of sound","A force created when two surfaces rub together","A type of light"], answer:2},
+     {q:"What effect does friction usually have on a moving object?", options:["It slows the object down or stops it","It always speeds the object up","It has no effect at all","It changes the objects colour"], answer:0},
+     {q:"Which surface would likely create more friction for a rolling ball?", options:["Grass","Polished wood","A slide","Smooth ice"], answer:0},
+     {q:"What happens when you rub your hands together quickly?", options:["Your hands turn cold instantly","Your hands disappear","Nothing happens at all","Friction makes your hands feel warm"], answer:3},
+     {q:"Friction is an example of a ___ that affects moving objects.", options:["Smell","Colour","Force","Sound"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is friction?", answers:["a force from surfaces rubbing together","a force that slows things down"]},
+     {prompt:"What can friction do to a moving object?", answers:["slow it down or stop it","slows it down"]},
+     {prompt:"Give an example of friction in everyday life.", answers:["a ball stopping on grass","rubbing your hands together"]}
+   ]},
+  {subject:"SocialStudies", title:"Indigenous Games: Traditional Sports and Play", summary:"Grade 1 Social Studies strand: Indigenous peoples in Canada have long played traditional games that build strength, skill, and teamwork, and many of these games are still played and celebrated today.",
+   resourceLabel:"YouTube: Indigenous Games: Traditional Sports and Play", resourceUrl:"https://www.youtube.com/results?search_query=Indigenous%20Games%3A%20Traditional%20Sports%20and%20Play%20grade%201%20educational",
+   quiz:[
+     {q:"What do traditional Indigenous games help build?", options:["Strength, skill, and teamwork","Only quiet time","Only reading skills","Only counting skills"], answer:0},
+     {q:"Are traditional Indigenous games still played today?", options:["Only by adults","Only in other countries","Yes, many are still played and celebrated","No, they stopped long ago"], answer:2},
+     {q:"Why might a community hold an event to celebrate traditional games?", options:["To replace all other sports","To keep the games secret","To honour and share Indigenous culture","To avoid teamwork"], answer:2},
+     {q:"Traditional Indigenous games are an example of ___ passed down over time.", options:["Government","Currency","Weather","Culture"], answer:3},
+     {q:"Learning about traditional games helps students understand and respect ___.", options:["Indigenous culture","Only video games","Only board games","Only modern sports"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What do traditional Indigenous games help build?", answers:["strength and skill","strength, skill, and teamwork"]},
+     {prompt:"Are Indigenous games still played today?", answers:["yes","yes many still are"]},
+     {prompt:"Why might communities celebrate traditional games?", answers:["they honour Indigenous culture","to share and celebrate culture"]}
+   ]},
+]},
+{day:175, label:"Day 175 — Fri", subjects:[
+  {subject:"Language", title:"Brainstorming: Gathering Ideas Before We Write", summary:"Grade 1 Language strand: brainstorming means thinking of many ideas quickly before writing, often by making a list or web of words, so a writer has plenty of ideas to choose from.",
+   resourceLabel:"YouTube: Brainstorming: Gathering Ideas Before We Write", resourceUrl:"https://www.youtube.com/results?search_query=Brainstorming%3A%20Gathering%20Ideas%20Before%20We%20Write%20grade%201%20educational",
+   quiz:[
+     {q:"What is brainstorming?", options:["Reading a finished book","Writing a final copy neatly","Thinking of many ideas quickly before writing","Erasing all our ideas"], answer:2},
+     {q:"Why do writers brainstorm before they begin writing?", options:["So they have plenty of ideas to choose from","So they can skip writing altogether","So they never have to plan","So their story is shorter"], answer:0},
+     {q:"Which of these is a common way to brainstorm ideas?", options:["Copying another story exactly","Erasing all notes","Making a list or word web","Reading the dictionary silently"], answer:2},
+     {q:"Brainstorming usually happens ___ a writer starts the final draft.", options:["During printing","Before","After","Never"], answer:1},
+     {q:"A good brainstorming session should produce ___ ideas.", options:["Many","Zero","Exactly one","No new"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What is brainstorming?", answers:["thinking of many ideas quickly","gathering ideas before writing"]},
+     {prompt:"Why might a writer brainstorm before starting a story?", answers:["to gather ideas first","so they have ideas to choose from"]},
+     {prompt:"Name one way to brainstorm ideas.", answers:["making a list","making a word web"]}
+   ]},
+  {subject:"Math", title:"Money: Making Amounts Up to Twenty Dollars", summary:"Grade 1 Math strand: students combine coins and bills to make amounts of money up to twenty dollars.",
+   resourceLabel:"YouTube: Money: Making Amounts Up to Twenty Dollars", resourceUrl:"https://www.youtube.com/results?search_query=Money%3A%20Making%20Amounts%20Up%20to%20Twenty%20Dollars%20grade%201%20educational",
+   quiz:[
+     {q:"How many ten dollar bills would you need to make twenty dollars?", options:["4","2","3","1"], answer:1},
+     {q:"Which combination makes exactly twenty dollars?", options:["Two ten dollar bills","Two five dollar bills","One ten dollar bill","Three toonies"], answer:0},
+     {q:"If you have one ten dollar bill and two five dollar bills, how much money do you have?", options:["20 dollars","10 dollars","15 dollars","25 dollars"], answer:0},
+     {q:"Which single bill is worth twenty dollars?", options:["A five dollar bill","A ten dollar bill","A twenty dollar bill","A one dollar bill"], answer:2},
+     {q:"Practising with amounts up to twenty dollars helps us understand ___.", options:["Only shapes","Even larger amounts of money","Nothing useful","Only colours"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"How many ten dollar bills make twenty dollars?", answers:["2","two ten dollar bills"]},
+     {prompt:"Name a way to make twenty dollars using bills.", answers:["a twenty dollar bill","two ten dollar bills"]},
+     {prompt:"If you have one ten dollar bill and one five dollar bill and one toonie, how much money do you have?", answers:["17 dollars","seventeen dollars"]}
+   ]},
+  {subject:"Science", title:"Growing Up: How Our Bodies Change Over Time", summary:"Grade 1 Science strand: our bodies grow and change as we get older, becoming taller and stronger, and we learn new skills at each stage of growing up.",
+   resourceLabel:"YouTube: Growing Up: How Our Bodies Change Over Time", resourceUrl:"https://www.youtube.com/results?search_query=Growing%20Up%3A%20How%20Our%20Bodies%20Change%20Over%20Time%20grade%201%20educational",
+   quiz:[
+     {q:"What is one way our bodies change as we grow older?", options:["We become smaller each year","We get taller and stronger","We stop needing food","We always stay exactly the same"], answer:1},
+     {q:"What do people usually learn as they grow from a baby to a child?", options:["New skills, such as walking and talking","Only how to sleep","Nothing new at all","Only how to sit still"], answer:0},
+     {q:"Which of these shows a stage of growing up?", options:["Seed, sprout, flower","Baby, child, teenager, adult","Caterpillar, cocoon, butterfly","Egg, tadpole, frog"], answer:1},
+     {q:"Growing and changing over time happens to which of these?", options:["All living things, including people","Only water","Only rocks","Only the weather"], answer:0},
+     {q:"Learning about how our bodies grow helps us understand our own ___.", options:["Weather","Money","Government","Growth"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"Name one way our bodies change as we grow older.", answers:["we get taller","we grow taller and stronger"]},
+     {prompt:"What do we learn as we get older?", answers:["new skills","new skills at each stage"]},
+     {prompt:"Do babies, children, and adults look the same?", answers:["no","no they look different"]}
+   ]},
+  {subject:"SocialStudies", title:"Victoria Day: An Ontario Spring Holiday", summary:"Grade 1 Social Studies strand: Victoria Day is a holiday celebrated in May with fireworks and outdoor gatherings, marking the unofficial start of summer for many Canadian families.",
+   resourceLabel:"YouTube: Victoria Day: An Ontario Spring Holiday", resourceUrl:"https://www.youtube.com/results?search_query=Victoria%20Day%3A%20An%20Ontario%20Spring%20Holiday%20grade%201%20educational",
+   quiz:[
+     {q:"In which month is Victoria Day celebrated?", options:["July","May","February","September"], answer:1},
+     {q:"What do many families do to celebrate Victoria Day?", options:["Watch fireworks and gather outdoors","Stay inside all day","Go to school","Rake autumn leaves"], answer:0},
+     {q:"What does Victoria Day mark the unofficial start of for many Canadians?", options:["The new year","Summer","The school year","Winter"], answer:1},
+     {q:"Victoria Day happens during which season in Canada?", options:["Late summer","Spring","Winter","Autumn"], answer:1},
+     {q:"Holidays like Victoria Day give communities a chance to gather and ___.", options:["Avoid each other","Ignore the season","Celebrate together","Stay indoors alone"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"In what month is Victoria Day celebrated?", answers:["May"]},
+     {prompt:"What do many families do to celebrate Victoria Day?", answers:["watch fireworks","have outdoor gatherings"]},
+     {prompt:"What does Victoria Day mark the start of for many families?", answers:["summer","the start of summer"]}
+   ]},
+]},
+{day:176, label:"Day 176 — Mon", subjects:[
+  {subject:"Language", title:"Story Maps: Planning a Story Before Writing", summary:"Grade 1 Language strand: a story map is a graphic organizer that helps writers plan the characters, setting, problem, and solution of a story before they begin writing it.",
+   resourceLabel:"YouTube: Story Maps: Planning a Story Before Writing", resourceUrl:"https://www.youtube.com/results?search_query=Story%20Maps%3A%20Planning%20a%20Story%20Before%20Writing%20grade%201%20educational",
+   quiz:[
+     {q:"What is a story map?", options:["A drawing of a classroom","A graphic organizer for planning a story","A list of spelling words","A map of a real country"], answer:1},
+     {q:"Which of these might a story map help a writer plan?", options:["Only the page numbers","Only the price of the book","Only the title of the book","Characters, setting, problem, and solution"], answer:3},
+     {q:"When should a writer usually fill out a story map?", options:["Before writing the story","After the story is published","Only while reading someone elses story","Never"], answer:0},
+     {q:"A story map is an example of what kind of tool?", options:["A measuring tool","A cooking tool","A musical instrument","A graphic organizer"], answer:3},
+     {q:"Using a story map can help make our writing more ___.", options:["Random","Empty","Organized","Confusing"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is a story map used for?", answers:["planning a story","planning before writing"]},
+     {prompt:"Name one part of a story a story map helps plan.", answers:["characters","the setting"]},
+     {prompt:"Should a story map be made before or after writing a story?", answers:["before","before writing"]}
+   ]},
+  {subject:"Math", title:"Time: Comparing Analog and Digital Clocks", summary:"Grade 1 Math strand: an analog clock shows time with moving hands on a round face, while a digital clock shows time using numbers, and both tell us the same time in different ways.",
+   resourceLabel:"YouTube: Time: Comparing Analog and Digital Clocks", resourceUrl:"https://www.youtube.com/results?search_query=Time%3A%20Comparing%20Analog%20and%20Digital%20Clocks%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of clock uses moving hands to show time?", options:["A digital clock","An analog clock","A calendar","A thermometer"], answer:1},
+     {q:"What kind of clock shows time using only numbers?", options:["A sundial","A digital clock","A calendar","An analog clock"], answer:1},
+     {q:"If an analog clock shows 3:00 and a digital clock shows 3:00, what does this mean?", options:["One of them is broken","Only the digital clock is correct","They are showing the same time","They are showing different times"], answer:2},
+     {q:"Which part of an analog clock points to the hour?", options:["The short hand","The long hand","The battery","The numbers only"], answer:0},
+     {q:"Comparing analog and digital clocks helps us understand that time can be shown in ___ ways.", options:["No","Only one","Different","Random"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What kind of clock uses moving hands on a round face?", answers:["an analog clock","analog clock"]},
+     {prompt:"What kind of clock shows time using numbers only?", answers:["a digital clock","digital clock"]},
+     {prompt:"Do an analog clock and a digital clock showing the same time tell different times?", answers:["no","no they show the same time"]}
+   ]},
+  {subject:"Science", title:"Wolves: Animals That Live and Hunt in Packs", summary:"Grade 1 Science strand: wolves are wild mammals related to dogs that live and hunt together in groups called packs, working as a team to find food.",
+   resourceLabel:"YouTube: Wolves: Animals That Live and Hunt in Packs", resourceUrl:"https://www.youtube.com/results?search_query=Wolves%3A%20Animals%20That%20Live%20and%20Hunt%20in%20Packs%20grade%201%20educational",
+   quiz:[
+     {q:"What is a group of wolves called?", options:["A pack","A flock","A colony","A herd"], answer:0},
+     {q:"What animal are wolves closely related to?", options:["Cats","Dogs","Bears","Foxes only"], answer:1},
+     {q:"Why do wolves hunt together in a pack?", options:["Because they cannot see","Because they live underwater","To avoid running at all","To work as a team to find food"], answer:3},
+     {q:"What kind of animal is a wolf?", options:["A reptile","A mammal","A bird","A fish"], answer:1},
+     {q:"Wolves are known for communicating with each other by ___.", options:["Staying silent","Buzzing","Chirping only","Howling"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What group do wolves live and hunt in?", answers:["a pack","packs"]},
+     {prompt:"What animal are wolves related to?", answers:["dogs"]},
+     {prompt:"Why do wolves work together as a team?", answers:["to find food","to hunt together"]}
+   ]},
+  {subject:"SocialStudies", title:"Sanitation Workers: Keeping Our Community Clean", summary:"Grade 1 Social Studies strand: sanitation workers collect garbage and recycling from homes and businesses, helping keep our streets and neighbourhoods clean and healthy.",
+   resourceLabel:"YouTube: Sanitation Workers: Keeping Our Community Clean", resourceUrl:"https://www.youtube.com/results?search_query=Sanitation%20Workers%3A%20Keeping%20Our%20Community%20Clean%20grade%201%20educational",
+   quiz:[
+     {q:"What do sanitation workers collect?", options:["Books for the library","Money for the bank","Garbage and recycling","Mail and packages"], answer:2},
+     {q:"What does the work of sanitation workers help keep clean?", options:["Only the school playground","Only the ocean","Only farms","Our streets and neighbourhoods"], answer:3},
+     {q:"Why is collecting garbage regularly important for a community?", options:["It makes streets messier","It has no real benefit","It helps keep the community clean and healthy","It only helps one house"], answer:2},
+     {q:"Sanitation workers are an example of what kind of community member?", options:["A farmer","A judge","A community helper","A pilot"], answer:2},
+     {q:"Keeping our neighbourhoods clean is a job that benefits ___.", options:["Only one family","No one","The whole community","Only pets"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What do sanitation workers collect?", answers:["garbage and recycling","garbage"]},
+     {prompt:"What does the work of sanitation workers help keep clean?", answers:["our streets and neighbourhoods","our community"]},
+     {prompt:"Why is the work of sanitation workers important for health?", answers:["keeps the community healthy","stops garbage from piling up"]}
+   ]},
+]},
+{day:177, label:"Day 177 — Tue", subjects:[
+  {subject:"Language", title:"Listening Actively: Being a Good Listener", summary:"Grade 1 Language strand: active listening means paying close attention to a speaker, looking at them, and thinking about what they are saying instead of interrupting.",
+   resourceLabel:"YouTube: Listening Actively: Being a Good Listener", resourceUrl:"https://www.youtube.com/results?search_query=Listening%20Actively%3A%20Being%20a%20Good%20Listener%20grade%201%20educational",
+   quiz:[
+     {q:"What does active listening mean?", options:["Interrupting often","Looking away from the speaker","Paying close attention to a speaker","Talking the whole time"], answer:2},
+     {q:"Which of these is a sign of a good listener?", options:["Walking away mid-sentence","Looking at the speaker and staying quiet","Talking over the speaker","Playing with toys instead"], answer:1},
+     {q:"Why is active listening important during a class discussion?", options:["It stops us from learning anything","It makes conversations impossible","It has no real purpose","It helps us understand what others are saying"], answer:3},
+     {q:"What should a good listener do before speaking after someone else?", options:["Wait until the speaker is finished","Leave the room","Interrupt right away","Ignore what was said"], answer:0},
+     {q:"Active listening helps us show ___ for the person speaking.", options:["Respect","Confusion","Boredom","Impatience"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does active listening mean?", answers:["paying close attention","paying close attention to a speaker"]},
+     {prompt:"Name one thing a good listener does while someone is talking.", answers:["looks at the speaker","thinks about what they are saying"]},
+     {prompt:"Should a good listener interrupt while someone else is talking?", answers:["no","no they should wait"]}
+   ]},
+  {subject:"Math", title:"Data: Reading a Picture Graph with a Key", summary:"Grade 1 Math strand: a picture graph uses small pictures to show data, and a key tells us how many items each picture represents, helping us read the graph correctly.",
+   resourceLabel:"YouTube: Data: Reading a Picture Graph with a Key", resourceUrl:"https://www.youtube.com/results?search_query=Data%3A%20Reading%20a%20Picture%20Graph%20with%20a%20Key%20grade%201%20educational",
+   quiz:[
+     {q:"What does a picture graph use to display data?", options:["Only colours with no pictures","Only numbers","Only words","Small pictures"], answer:3},
+     {q:"What does the key on a picture graph explain?", options:["How many items each picture represents","The colour of the paper","The title of the graph only","The name of the teacher"], answer:0},
+     {q:"If the key shows one picture equals two items, and there are four pictures, how many items are shown in total?", options:["4","6","8","2"], answer:2},
+     {q:"Why is a key important on a picture graph?", options:["It helps us read the graph correctly","It has no real purpose","It replaces the need for pictures","It makes the graph harder to understand"], answer:0},
+     {q:"Picture graphs help us compare data in a way that is easy to ___.", options:["Hear","Taste","Smell","See"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a picture graph use to show data?", answers:["pictures","small pictures"]},
+     {prompt:"What does the key on a picture graph tell us?", answers:["how many items each picture stands for","what each picture means"]},
+     {prompt:"If the key shows one picture equals two items, and there are three pictures, how many items are there in total?", answers:["6","six"]}
+   ]},
+  {subject:"Science", title:"Skunks: Animals with a Stinky Defence", summary:"Grade 1 Science strand: skunks are small black and white mammals that spray a strong smelling liquid to defend themselves when they feel scared or threatened.",
+   resourceLabel:"YouTube: Skunks: Animals with a Stinky Defence", resourceUrl:"https://www.youtube.com/results?search_query=Skunks%3A%20Animals%20with%20a%20Stinky%20Defence%20grade%201%20educational",
+   quiz:[
+     {q:"What colours is a skunks fur usually?", options:["Orange and green","All brown","All grey","Black and white"], answer:3},
+     {q:"What does a skunk spray when it feels threatened?", options:["Ink","A strong smelling liquid","Water only","Nothing at all"], answer:1},
+     {q:"Why does a skunk spray its strong smelling liquid?", options:["To attract other skunks only","To clean its fur","To find food","To defend itself from danger"], answer:3},
+     {q:"What kind of animal is a skunk?", options:["A reptile","A bird","A fish","A mammal"], answer:3},
+     {q:"A skunks spray is an example of an animal ___.", options:["Song","Defence","Shell","Nest"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What colours is a skunks fur usually?", answers:["black and white"]},
+     {prompt:"What does a skunk spray to defend itself?", answers:["a strong smelling liquid","smelly spray"]},
+     {prompt:"When does a skunk usually spray its smelly liquid?", answers:["when it feels scared or threatened","when threatened"]}
+   ]},
+  {subject:"SocialStudies", title:"Our Pharmacist: Helping Us Stay Healthy", summary:"Grade 1 Social Studies strand: a pharmacist is a community helper who prepares medicine and explains to people how to take it safely to help them feel better.",
+   resourceLabel:"YouTube: Our Pharmacist: Helping Us Stay Healthy", resourceUrl:"https://www.youtube.com/results?search_query=Our%20Pharmacist%3A%20Helping%20Us%20Stay%20Healthy%20grade%201%20educational",
+   quiz:[
+     {q:"What does a pharmacist prepare for people?", options:["Books","Medicine","Meals","Mail"], answer:1},
+     {q:"What does a pharmacist explain to help keep people safe?", options:["How to take medicine safely","How to fix a car","How to bake bread","How to fly a plane"], answer:0},
+     {q:"Where would you go to visit a pharmacist?", options:["A pharmacy","A library","A fire station","An airport"], answer:0},
+     {q:"A pharmacist is an example of what kind of community member?", options:["A community helper","A pilot","A judge","A farmer"], answer:0},
+     {q:"Pharmacists work closely with doctors to help people stay ___.", options:["Healthy","Hungry","Cold","Confused"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"What does a pharmacist prepare?", answers:["medicine"]},
+     {prompt:"What does a pharmacist explain to people?", answers:["how to take medicine safely","how to take their medicine"]},
+     {prompt:"Where might you visit to see a pharmacist?", answers:["a pharmacy","a drugstore"]}
+   ]},
+]},
+{day:178, label:"Day 178 — Wed", subjects:[
+  {subject:"Language", title:"Chunking: Breaking Big Words into Smaller Parts", summary:"Grade 1 Language strand: chunking means breaking a long word into smaller parts, or syllables, to make it easier to read and sound out.",
+   resourceLabel:"YouTube: Chunking: Breaking Big Words into Smaller Parts", resourceUrl:"https://www.youtube.com/results?search_query=Chunking%3A%20Breaking%20Big%20Words%20into%20Smaller%20Parts%20grade%201%20educational",
+   quiz:[
+     {q:"What does chunking a word mean?", options:["Making the word longer","Breaking it into smaller parts","Erasing part of the word","Changing the word into a picture"], answer:1},
+     {q:"Why is chunking a helpful reading strategy?", options:["It removes all vowels","It makes words impossible to read","It only works with short words","It makes long words easier to sound out"], answer:3},
+     {q:"Which of these words could be broken into two chunks, rab and bit?", options:["Sun","Rabbit","Dog","Cat"], answer:1},
+     {q:"The smaller parts we break words into while chunking are called ___.", options:["Syllables","Prefixes only","Suffixes only","Punctuation marks"], answer:0},
+     {q:"Chunking is most helpful when reading words that are ___.", options:["Already familiar","Silent","Very short","Long"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does chunking a word mean?", answers:["breaking it into smaller parts","breaking a word into parts"]},
+     {prompt:"Why might chunking help a reader?", answers:["makes long words easier to read","easier to sound out"]},
+     {prompt:"Give an example of a long word you could break into chunks.", answers:["rabbit","basketball"]}
+   ]},
+  {subject:"Math", title:"Geometry: Finding Lines of Symmetry", summary:"Grade 1 Math strand: a line of symmetry divides a shape into two matching halves, and some shapes have more than one line of symmetry.",
+   resourceLabel:"YouTube: Geometry: Finding Lines of Symmetry", resourceUrl:"https://www.youtube.com/results?search_query=Geometry%3A%20Finding%20Lines%20of%20Symmetry%20grade%201%20educational",
+   quiz:[
+     {q:"What does a line of symmetry do to a shape?", options:["Removes one side","Changes the shapes colour","Divides it into two matching halves","Makes the shape bigger"], answer:2},
+     {q:"Can a shape have more than one line of symmetry?", options:["No, every shape has exactly one","Only circles have symmetry","Yes, some shapes have several","No shape ever has symmetry"], answer:2},
+     {q:"Which of these shapes clearly has at least one line of symmetry?", options:["A square","A random squiggle","An uneven blob","A scribble"], answer:0},
+     {q:"If you fold a shape along its line of symmetry, the two halves should ___.", options:["Match exactly","Change colour","Disappear","Look completely different"], answer:0},
+     {q:"Finding lines of symmetry helps us understand how shapes can be ___.", options:["Heavier","Colder","Louder","Balanced"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What does a line of symmetry do to a shape?", answers:["divides it into two matching halves","splits a shape into equal halves"]},
+     {prompt:"Can a shape have more than one line of symmetry?", answers:["yes","yes some shapes do"]},
+     {prompt:"Name a shape that has a line of symmetry.", answers:["a square","a circle"]}
+   ]},
+  {subject:"Science", title:"Black Bears: Foragers of the Forest", summary:"Grade 1 Science strand: black bears are large forest mammals with a strong sense of smell that forage for berries, plants, and insects, and sleep through much of the winter.",
+   resourceLabel:"YouTube: Black Bears: Foragers of the Forest", resourceUrl:"https://www.youtube.com/results?search_query=Black%20Bears%3A%20Foragers%20of%20the%20Forest%20grade%201%20educational",
+   quiz:[
+     {q:"Where do black bears mostly live?", options:["Forests","The ocean","The desert","A city street"], answer:0},
+     {q:"What do black bears often forage for?", options:["Berries, plants, and insects","Only rocks","Only ice","Only sand"], answer:0},
+     {q:"What do black bears do for much of the winter?", options:["Fly south","Migrate to the ocean","Sleep through much of the winter","Stay awake and swim all season"], answer:2},
+     {q:"What kind of animal is a black bear?", options:["A mammal","A fish","A bird","A reptile"], answer:0},
+     {q:"Black bears are known for having a very strong sense of ___.", options:["Smell","Hearing only","Taste only","Sight only"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where do black bears mostly live?", answers:["forests","the forest"]},
+     {prompt:"What do black bears forage for?", answers:["berries, plants, and insects","berries and plants"]},
+     {prompt:"What do black bears do for much of the winter?", answers:["sleep","they sleep through winter"]}
+   ]},
+  {subject:"SocialStudies", title:"The Prairies: Canadas Flat Farming Land", summary:"Grade 1 Social Studies strand: the Prairies are a large, mostly flat region in western Canada known for its wide fields, big skies, and important role in growing wheat and other crops.",
+   resourceLabel:"YouTube: The Prairies: Canadas Flat Farming Land", resourceUrl:"https://www.youtube.com/results?search_query=The%20Prairies%3A%20Canadas%20Flat%20Farming%20Land%20grade%201%20educational",
+   quiz:[
+     {q:"What kind of land do the Prairies mostly have?", options:["Icy glaciers","Deep ocean","Flat land","Steep mountains"], answer:2},
+     {q:"In which part of Canada are the Prairies located?", options:["Northern Canada only","The Atlantic coast","Eastern Canada","Western Canada"], answer:3},
+     {q:"What crop is strongly associated with the Prairies?", options:["Rice","Bananas","Coconuts","Wheat"], answer:3},
+     {q:"What is the Prairies known for having above the flat land?", options:["Thick jungle canopy","Big open skies","Tall skyscrapers only","No sky at all"], answer:1},
+     {q:"The Prairies play an important role in Canadas ___.", options:["Shipping only","Fishing only","Mining only","Farming"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What kind of land do the Prairies have?", answers:["flat land","mostly flat land"]},
+     {prompt:"In what part of Canada are the Prairies found?", answers:["western Canada"]},
+     {prompt:"What crop are the Prairies well known for growing?", answers:["wheat","wheat and other crops"]}
+   ]},
+]},
+{day:179, label:"Day 179 — Thu", subjects:[
+  {subject:"Language", title:"Revising: Making Our Writing Even Better", summary:"Grade 1 Language strand: revising means rereading our writing and making changes to add details, fix confusing parts, or use stronger words, so our writing is clearer for readers.",
+   resourceLabel:"YouTube: Revising: Making Our Writing Even Better", resourceUrl:"https://www.youtube.com/results?search_query=Revising%3A%20Making%20Our%20Writing%20Even%20Better%20grade%201%20educational",
+   quiz:[
+     {q:"What does revising mean?", options:["Throwing away the writing completely","Copying a story word for word","Rereading writing and making changes to improve it","Reading someone elses story instead"], answer:2},
+     {q:"Which of these is a reason a writer might revise their work?", options:["To make the writing shorter for no reason","To avoid reading it again","To remove all the words","To add details or fix confusing parts"], answer:3},
+     {q:"When does revising usually happen in the writing process?", options:["Never","After writing a first draft","Before brainstorming","Before choosing a topic"], answer:1},
+     {q:"Which change would be part of revising a story?", options:["Changing the paper colour","Using a stronger, more exciting word","Erasing the whole page blank","Ignoring the story completely"], answer:1},
+     {q:"Revising helps make our writing more ___ for readers.", options:["Empty","Clear","Confusing","Shorter without reason"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What does revising mean?", answers:["making changes to writing","rereading and improving writing"]},
+     {prompt:"Name one reason a writer might revise their work.", answers:["to add details","to fix confusing parts"]},
+     {prompt:"Should revising happen before or after we write a first draft?", answers:["after","after the first draft"]}
+   ]},
+  {subject:"Math", title:"Addition: Adding Three Two-Digit Numbers", summary:"Grade 1 Math strand: students practise adding three two-digit numbers together by adding the ones first, then the tens, to find the total.",
+   resourceLabel:"YouTube: Addition: Adding Three Two-Digit Numbers", resourceUrl:"https://www.youtube.com/results?search_query=Addition%3A%20Adding%20Three%20Two-Digit%20Numbers%20grade%201%20educational",
+   quiz:[
+     {q:"What is 12 plus 13 plus 10?", options:["35","34","36","33"], answer:0},
+     {q:"What is 20 plus 20 plus 20?", options:["50","40","60","70"], answer:2},
+     {q:"When adding three two-digit numbers, which digits should you add first?", options:["The ones digits","The tens digits","Both at random","Neither digit"], answer:0},
+     {q:"What is 11 plus 22 plus 15?", options:["46","49","47","48"], answer:3},
+     {q:"Adding three two-digit numbers together gives us a ___.", options:["Product only","Difference","Total sum","Fraction"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What is 12 plus 13 plus 10?", answers:["35","thirty five"]},
+     {prompt:"What is 20 plus 20 plus 20?", answers:["60","sixty"]},
+     {prompt:"When adding three two-digit numbers, which digits do you add first?", answers:["the ones","the ones digits"]}
+   ]},
+  {subject:"Science", title:"Deer: Graceful Animals of the Forest", summary:"Grade 1 Science strand: deer are graceful mammals with slender legs that live in forests and fields, eating plants and grasses, and some males grow antlers each year.",
+   resourceLabel:"YouTube: Deer: Graceful Animals of the Forest", resourceUrl:"https://www.youtube.com/results?search_query=Deer%3A%20Graceful%20Animals%20of%20the%20Forest%20grade%201%20educational",
+   quiz:[
+     {q:"Where do deer usually live?", options:["The desert only","Forests and fields","The ocean floor","Under the ice"], answer:1},
+     {q:"What do deer mainly eat?", options:["Other animals","Fish","Plants and grasses","Insects only"], answer:2},
+     {q:"What do some male deer grow each year?", options:["Feathers","Wings","Antlers","A shell"], answer:2},
+     {q:"What kind of animal is a deer?", options:["A bird","A mammal","A fish","A reptile"], answer:1},
+     {q:"Deer are often described as having very ___ legs, which help them run quickly.", options:["Slender","Made of stone","Missing entirely","Short and stubby"], answer:0}
+   ],
+   worksheet:[
+     {prompt:"Where do deer usually live?", answers:["forests and fields","forests"]},
+     {prompt:"What do deer mainly eat?", answers:["plants and grasses","plants"]},
+     {prompt:"What do some male deer grow each year?", answers:["antlers"]}
+   ]},
+  {subject:"SocialStudies", title:"Halloween: Community Safety and Fun", summary:"Grade 1 Social Studies strand: Halloween is an October holiday when many families dress in costumes and visit neighbours for treats, while also following safety rules like staying with an adult and using flashlights.",
+   resourceLabel:"YouTube: Halloween: Community Safety and Fun", resourceUrl:"https://www.youtube.com/results?search_query=Halloween%3A%20Community%20Safety%20and%20Fun%20grade%201%20educational",
+   quiz:[
+     {q:"In which month is Halloween celebrated?", options:["January","October","March","June"], answer:1},
+     {q:"What do many people wear to celebrate Halloween?", options:["Costumes","School uniforms","Swimsuits","Winter coats only"], answer:0},
+     {q:"Which of these is a Halloween safety rule?", options:["Walking alone in the dark streets","Entering strangers homes alone","Staying with a trusted adult","Ignoring traffic lights"], answer:2},
+     {q:"Why might people use flashlights or reflective gear on Halloween?", options:["To scare away neighbours","To make it harder to be seen","To be seen more easily in the dark","To avoid walking at all"], answer:2},
+     {q:"Following safety rules on Halloween helps keep our community ___.", options:["Unfriendly","Confused","Dark","Safe"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"In what month is Halloween celebrated?", answers:["October"]},
+     {prompt:"What do many families wear on Halloween?", answers:["costumes"]},
+     {prompt:"Name one safety rule people follow on Halloween.", answers:["stay with an adult","use flashlights"]}
+   ]},
+]},
+{day:180, label:"Day 180 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Word Study, Media Literacy, and Writing Process", summary:"Grade 1 Language strand review: students revisit silent e, three-letter blends thr, squ, and spl, bullet point text features, media literacy with commercials, brainstorming, story maps, active listening, chunking, and revising.",
+   resourceLabel:"YouTube: Language Review: Word Study, Media Literacy, and Writing Process", resourceUrl:"https://www.youtube.com/results?search_query=Language%20Review%3A%20Word%20Study%2C%20Media%20Literacy%2C%20and%20Writing%20Process%20grade%201%20educational",
+   quiz:[
+     {q:"What does adding a silent e to the word kit turn it into?", options:["Kitten","Kitted","Kits","Kite"], answer:3},
+     {q:"Which word starts with the squ blend?", options:["Care","Fair","Square","Bare"], answer:2},
+     {q:"What do bullet points and lists help organize?", options:["A song into verses","A picture into colours","A story into chapters","Information into short separate pieces"], answer:3},
+     {q:"What is a story map?", options:["A map of a real country","A list of spelling words","A drawing of a classroom","A graphic organizer for planning a story"], answer:3},
+     {q:"What does chunking a word mean?", options:["Making the word longer","Erasing part of the word","Breaking it into smaller parts","Changing the word into a picture"], answer:2}
+   ],
+   worksheet:[
+     {prompt:"What does adding a silent e to the word cap turn it into?", answers:["cape"]},
+     {prompt:"What is the main purpose of a commercial?", answers:["to persuade people"]},
+     {prompt:"What does revising mean?", answers:["rereading and improving writing"]}
+   ]},
+  {subject:"Math", title:"Math Review: Numbers, Area, and Money", summary:"Grade 1 Math strand review: students revisit numbers to 700, fractions as sixths, area with square units, rounding to the nearest hundred, money up to twenty dollars, comparing analog and digital clocks, picture graphs with a key, lines of symmetry, and adding three two-digit numbers.",
+   resourceLabel:"YouTube: Math Review: Numbers, Area, and Money", resourceUrl:"https://www.youtube.com/results?search_query=Math%20Review%3A%20Numbers%2C%20Area%2C%20and%20Money%20grade%201%20educational",
+   quiz:[
+     {q:"What number comes right after 699?", options:["700","701","698","699"], answer:0},
+     {q:"What is each equal part called when a whole is divided into six pieces?", options:["A half","A third","A fifth","A sixth"], answer:3},
+     {q:"Round 340 to the nearest hundred.", options:["300 and 400","350","300","400"], answer:2},
+     {q:"What kind of clock shows time using only numbers?", options:["A digital clock","An analog clock","A sundial","A calendar"], answer:0},
+     {q:"What is 12 plus 13 plus 10?", options:["33","35","34","36"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"What number comes right after 699?", answers:["700"]},
+     {prompt:"What is each equal part called when a whole is divided into six pieces?", answers:["a sixth"]},
+     {prompt:"What does a line of symmetry do to a shape?", answers:["divides it into two matching halves"]}
+   ]},
+  {subject:"Science", title:"Science Review: Forest Animals, Forces, and Growth", summary:"Grade 1 Science strand review: students revisit foxes, squirrels, screws and wedges, friction, growing up and how our bodies change, wolves, skunks, black bears, and deer.",
+   resourceLabel:"YouTube: Science Review: Forest Animals, Forces, and Growth", resourceUrl:"https://www.youtube.com/results?search_query=Science%20Review%3A%20Forest%20Animals%2C%20Forces%2C%20and%20Growth%20grade%201%20educational",
+   quiz:[
+     {q:"When does a fox often hunt for food?", options:["Only in winter","Only underwater","At dawn and dusk","Only at noon"], answer:2},
+     {q:"What shape is a screw?", options:["A flat square","A straight line","A spiral ramp","A perfect circle"], answer:2},
+     {q:"What effect does friction usually have on a moving object?", options:["It changes the objects colour","It slows the object down or stops it","It has no effect at all","It always speeds the object up"], answer:1},
+     {q:"What do black bears do for much of the winter?", options:["Stay awake and swim all season","Sleep through much of the winter","Migrate to the ocean","Fly south"], answer:1},
+     {q:"What do some male deer grow each year?", options:["Feathers","A shell","Wings","Antlers"], answer:3}
+   ],
+   worksheet:[
+     {prompt:"What kind of animal is a fox?", answers:["a mammal"]},
+     {prompt:"What is friction?", answers:["a force from surfaces rubbing together"]},
+     {prompt:"What is a group of wolves called?", answers:["a pack"]}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Holidays, Community Helpers, and Landmarks", summary:"Grade 1 Social Studies strand review: students revisit Labour Day, our dentist, the Rocky Mountains, Indigenous games, Victoria Day, sanitation workers, our pharmacist, the Prairies, and Halloween.",
+   resourceLabel:"YouTube: Social Studies Review: Holidays, Community Helpers, and Landmarks", resourceUrl:"https://www.youtube.com/results?search_query=Social%20Studies%20Review%3A%20Holidays%2C%20Community%20Helpers%2C%20and%20Landmarks%20grade%201%20educational",
+   quiz:[
+     {q:"What does Labour Day celebrate?", options:["A type of weather","A new school building","The hard work of people in many jobs","A famous hockey game"], answer:2},
+     {q:"What are the Rocky Mountains known for?", options:["Being under the ocean","Having no animals at all","Beautiful scenery and wildlife","Being completely flat"], answer:2},
+     {q:"In which month is Victoria Day celebrated?", options:["February","May","July","September"], answer:1},
+     {q:"What do sanitation workers collect?", options:["Books for the library","Money for the bank","Mail and packages","Garbage and recycling"], answer:3},
+     {q:"What crop is strongly associated with the Prairies?", options:["Coconuts","Wheat","Bananas","Rice"], answer:1}
+   ],
+   worksheet:[
+     {prompt:"In what month is Labour Day celebrated?", answers:["September"]},
+     {prompt:"What does a dentist help take care of?", answers:["our teeth"]},
+     {prompt:"In what month is Halloween celebrated?", answers:["October"]}
    ]},
 ]},
 ];

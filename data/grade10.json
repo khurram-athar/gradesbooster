@@ -13061,6 +13061,7 @@
         "summary": "Grade 10 History strand: the 1959 cancellation of the Avro Arrow, an advanced Canadian-designed fighter jet, remains a controversial decision often discussed in relation to Canada’s aerospace industry and sovereignty.",
         "resourceLabel": "TVO Learn: Grade 10 History",
         "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "videoUrl": "https://www.youtube.com/watch?v=F4z5-l7u2Uo",
         "quiz": [
           {
             "q": "The Avro Arrow was cancelled in which year?",
@@ -41429,6 +41430,2426 @@
               "Funding a natural gas pipeline project"
             ],
             "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "label": "Day 171 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Reported Speech and Indirect Quotation",
+        "summary": "Grade 10 English strand: reported speech, also called indirect quotation, restates what someone said without using their exact words or quotation marks, typically shifting verb tense and pronouns to fit the perspective of the person reporting the statement.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does reported speech do?",
+            "options": [
+              "Repeats a statement word for word inside quotation marks",
+              "Removes all verbs from a sentence",
+              "Restates what someone said without using their exact words or quotation marks",
+              "Converts a sentence into a question with no other change"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What commonly shifts when a direct quotation is converted into reported speech?",
+            "options": [
+              "Verb tense and pronouns",
+              "The font used to print the text",
+              "The alphabet used to write the sentence",
+              "The language of the entire document"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which sentence is an example of reported speech?",
+            "options": [
+              "Is she tired.",
+              "Tired, she said, I am.",
+              "She said, I am tired.",
+              "She said that she was tired."
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a writer use reported speech instead of a direct quotation?",
+            "options": [
+              "Because reported speech always requires quotation marks",
+              "To summarize what was said more smoothly within a larger narrative",
+              "Because direct quotations are grammatically incorrect",
+              "Because reported speech cannot include any pronouns"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What punctuation mark is typically absent from reported speech but present in a direct quotation?",
+            "options": [
+              "A space between words",
+              "A capital letter at the start of the sentence",
+              "A period at the end of the sentence",
+              "Quotation marks"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Number Theory: The Sieve of Eratosthenes",
+        "summary": "Grade 10 Math strand: the Sieve of Eratosthenes is an ancient algorithm for finding all prime numbers up to a given limit by systematically marking the multiples of each prime as composite, leaving only the primes unmarked once the process is complete.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Sieve of Eratosthenes find?",
+            "options": [
+              "The area of a triangle",
+              "The sum of an arithmetic series",
+              "The exact square root of a number",
+              "All prime numbers up to a given limit"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the sieve identify composite numbers?",
+            "options": [
+              "By randomly selecting numbers to remove",
+              "By systematically marking the multiples of each prime",
+              "By listing only even numbers",
+              "By dividing every number by zero"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What remains unmarked once the Sieve of Eratosthenes process is complete?",
+            "options": [
+              "No numbers at all",
+              "The prime numbers",
+              "Only the even numbers",
+              "Only the composite numbers"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Roughly how old is the method attributed to Eratosthenes?",
+            "options": [
+              "It has no known origin at all",
+              "It was invented within the last decade",
+              "It dates back to ancient Greek mathematics",
+              "It was invented in the twentieth century"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Sieve of Eratosthenes considered an efficient method for small to moderate limits?",
+            "options": [
+              "It only works for a single specific number",
+              "It eliminates many composite numbers at once through systematic marking rather than testing each number individually",
+              "It cannot be performed without a computer",
+              "It requires checking every possible divisor of every number one at a time"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: The Physics of Rainbows and Light Dispersion",
+        "summary": "Grade 10 Science strand: a rainbow forms when sunlight enters raindrops and is refracted, internally reflected, and dispersed into its component colours, with each colour bending at a slightly different angle due to its distinct wavelength.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What natural event causes light to disperse into a rainbow?",
+            "options": [
+              "Sunlight being absorbed entirely by the atmosphere",
+              "Sunlight entering raindrops and being refracted and internally reflected",
+              "Moonlight reflecting off a still lake with no droplets present",
+              "Sunlight passing through a completely opaque object"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why do different colours appear at different positions in a rainbow?",
+            "options": [
+              "Each colour bends at a slightly different angle due to its distinct wavelength",
+              "Raindrops only allow one colour of light to pass through at a time",
+              "Each colour has an identical wavelength and bends the same amount",
+              "Colour has no effect on how light refracts"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What optical process occurs inside a raindrop to produce a rainbow?",
+            "options": [
+              "Refraction, internal reflection, and dispersion of light",
+              "A chemical reaction between water and air",
+              "The raindrop generating its own light source",
+              "Complete absorption of all light with no colour produced"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which colour is typically found on the outer edge of a primary rainbow?",
+            "options": [
+              "Violet",
+              "Indigo",
+              "Green",
+              "Red"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must an observer face away from the sun to see a rainbow?",
+            "options": [
+              "Facing the sun blocks all light from entering the eye",
+              "Sunlight must be refracted and reflected back toward the observer by raindrops located opposite the sun",
+              "Rainbows only form when an observer faces directly toward the sun",
+              "Rainbows form independently of the position of the sun"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1957 Federal Election and the End of Liberal Dominance",
+        "summary": "Grade 10 History strand: the 1957 federal election ended twenty-two years of unbroken Liberal government when John Diefenbakers Progressive Conservatives won a minority government, a surprise result that reflected voter fatigue with long Liberal rule and controversies such as the Pipeline Debate.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What did the 1957 federal election end?",
+            "options": [
+              "The existence of the Canadian House of Commons",
+              "Twenty-two years of unbroken Liberal government",
+              "The Canadian monarchy",
+              "All federal elections in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which party won the 1957 federal election?",
+            "options": [
+              "The Co-operative Commonwealth Federation",
+              "The Liberals, led by Louis St. Laurent",
+              "The Progressive Conservatives, led by John Diefenbaker",
+              "The Social Credit Party"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of government did the Progressive Conservatives form after the 1957 election?",
+            "options": [
+              "A coalition with a foreign government",
+              "No government was formed at all",
+              "A government with every seat in the House of Commons",
+              "A minority government"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What earlier controversy contributed to voter dissatisfaction with the Liberal government?",
+            "options": [
+              "The Statute of Westminster",
+              "The 1956 Pipeline Debate",
+              "The Confederation debates of the 1860s",
+              "The Halifax Explosion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why was the 1957 election result considered a surprise by many observers?",
+            "options": [
+              "No party had ever won an election in Canadian history before 1957",
+              "Voting had been suspended for the previous twenty years",
+              "The Liberals had governed for over two decades and were widely expected to win again",
+              "The Progressive Conservatives had never existed before 1957"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "label": "Day 172 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Reading: Analyzing the Epilogue and Denouement",
+        "summary": "Grade 10 English strand: the denouement is the section of a narrative that resolves remaining plot threads after the climax, while an epilogue is a short concluding section, sometimes set after a time jump, that shows readers what became of the characters once the main story has ended.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does the denouement of a narrative do?",
+            "options": [
+              "Occurs before any characters are introduced",
+              "Resolves remaining plot threads after the climax",
+              "Introduces the main conflict for the first time",
+              "Replaces the need for a climax entirely"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is an epilogue?",
+            "options": [
+              "A summary printed on the back cover of a book",
+              "The opening paragraph of a narrative",
+              "A short concluding section that shows what became of the characters after the main story ends",
+              "A list of characters printed before the story begins"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What often distinguishes an epilogue from the rest of a narrative?",
+            "options": [
+              "It always introduces a brand new unrelated plot",
+              "It is sometimes set after a time jump beyond the main events of the story",
+              "It always occurs at the exact midpoint of the story",
+              "It cannot mention any character from the main story"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might an author include a denouement after the climax?",
+            "options": [
+              "To introduce the main conflict for the first time",
+              "To remove all sense of resolution from the narrative",
+              "To give readers closure by tying up loose plot threads",
+              "To prevent the story from ever reaching a climax"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How can analyzing a denouement or epilogue deepen a readers understanding of a text?",
+            "options": [
+              "It only repeats information already given in the introduction",
+              "It removes the need to read the rest of the narrative",
+              "It has no effect on how a reader interprets the story",
+              "It reveals how the author chooses to resolve conflict and shape a final impression"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: The Mean Value Theorem",
+        "summary": "Grade 10 Math strand: the Mean Value Theorem states that for a smooth, continuous function over a closed interval, there exists at least one point where the instantaneous rate of change equals the average rate of change across the entire interval.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Mean Value Theorem guarantee for a smooth, continuous function over an interval?",
+            "options": [
+              "That the interval must contain only whole numbers",
+              "That the function has no derivative anywhere",
+              "That the function must be equal to zero somewhere in the interval",
+              "At least one point where the instantaneous rate of change equals the average rate of change"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What condition must a function generally satisfy for the Mean Value Theorem to apply?",
+            "options": [
+              "It must have no defined interval at all",
+              "It must be a straight horizontal line only",
+              "It must be undefined at every point in the interval",
+              "It must be continuous and differentiable over the interval"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the average rate of change over an interval represent graphically?",
+            "options": [
+              "The slope of the secant line connecting the endpoints of the interval",
+              "The slope of a line tangent to the y-axis",
+              "The exact value of the function at its midpoint",
+              "The area under the curve across the interval"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the instantaneous rate of change at a specific point represent graphically?",
+            "options": [
+              "The domain of the function",
+              "The y-intercept of the function",
+              "The slope of the tangent line at that point",
+              "The total area beneath the entire curve"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Mean Value Theorem useful in calculus?",
+            "options": [
+              "It only applies to functions with no real-world meaning",
+              "It connects a functions overall behaviour on an interval to its behaviour at a specific point",
+              "It proves that every function has exactly one root",
+              "It eliminates the need to ever compute a derivative"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Photography and Light-Sensitive Compounds",
+        "summary": "Grade 10 Science strand: traditional film photography relies on light-sensitive silver halide compounds that undergo a chemical change when exposed to light, forming a latent image that is then made visible and permanent through a sequence of chemical development and fixing steps.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What type of compound makes traditional photographic film light-sensitive?",
+            "options": [
+              "Table salt",
+              "Distilled water",
+              "Pure carbon",
+              "Silver halide compounds"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What happens to a light-sensitive compound when it is exposed to light during photography?",
+            "options": [
+              "It changes into an entirely different element",
+              "It undergoes a chemical change that forms a latent image",
+              "It becomes completely transparent with no image formed",
+              "It instantly evaporates with no chemical change"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a latent image?",
+            "options": [
+              "A digital file stored on a memory card",
+              "A fully visible printed photograph with no further processing needed",
+              "An image that can never be developed under any condition",
+              "An invisible image formed on film that has not yet been chemically developed"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What chemical process makes a latent image visible and permanent?",
+            "options": [
+              "Filtration and distillation",
+              "Boiling and evaporation",
+              "Freezing and melting",
+              "Development and fixing"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why must photographic film traditionally be handled in a darkroom before development?",
+            "options": [
+              "Exposure to additional light would alter or destroy the latent image",
+              "Darkrooms have no effect on light-sensitive compounds",
+              "Film is only light-sensitive after development is complete",
+              "Light exposure has no chemical effect on silver halide compounds"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Canadian Bill of Rights of 1960",
+        "summary": "Grade 10 History strand: the Canadian Bill of Rights, introduced by Prime Minister John Diefenbaker in 1960, was the first federal statute to set out fundamental rights and freedoms for Canadians, though as an ordinary act of Parliament it carried less legal force than the Charter of Rights and Freedoms that followed decades later.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Who introduced the Canadian Bill of Rights?",
+            "options": [
+              "Prime Minister John Diefenbaker",
+              "Prime Minister Mackenzie King",
+              "Prime Minister Lester Pearson",
+              "Prime Minister Louis St. Laurent"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year was the Canadian Bill of Rights introduced?",
+            "options": [
+              "1960",
+              "1982",
+              "1867",
+              "1940"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What was significant about the Canadian Bill of Rights at the federal level?",
+            "options": [
+              "It abolished the Canadian Senate",
+              "It ended all federal elections in Canada",
+              "It was the first Canadian law of any kind ever passed",
+              "It was the first federal statute to set out fundamental rights and freedoms for Canadians"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why did the Canadian Bill of Rights carry less legal force than a constitutional document?",
+            "options": [
+              "It applied only to citizens outside of Canada",
+              "It was an ordinary act of Parliament rather than an entrenched constitutional provision",
+              "It could never be cited in any court case",
+              "It was written entirely in a language with no legal standing"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What later Canadian document expanded on the idea of protecting fundamental rights with stronger legal force?",
+            "options": [
+              "The Charter of Rights and Freedoms",
+              "The Statute of Westminster",
+              "The Quebec Act",
+              "The British North America Act of 1867"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "label": "Day 173 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Travel Narrative and Sense of Place",
+        "summary": "Grade 10 English strand: a travel narrative recounts a journey to an unfamiliar location, using vivid sensory detail to create a strong sense of place and often reflecting on how the experience of travel changed the writers perspective or understanding of the world.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a travel narrative typically recount?",
+            "options": [
+              "A single event that occurs entirely at home",
+              "A purely fictional world with no real setting",
+              "A scientific report with no narrative elements",
+              "A journey to an unfamiliar location"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What technique helps a travel narrative create a strong sense of place?",
+            "options": [
+              "A list of unrelated statistics",
+              "A formal legal argument",
+              "A complete absence of any description",
+              "Vivid sensory detail"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What might a travel narrative reflect on beyond simply describing a location?",
+            "options": [
+              "A weather report with no personal reflection",
+              "The exact price of every meal purchased during the trip",
+              "How the experience of travel changed the writers perspective or understanding",
+              "A set of directions with no descriptive language"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why might sensory detail such as sound and smell be especially important in a travel narrative?",
+            "options": [
+              "Sensory detail is never included in travel writing",
+              "It replaces the need for any narrative structure at all",
+              "It has no effect on how a reader imagines a setting",
+              "It helps immerse the reader in an unfamiliar setting they have not personally experienced"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What distinguishes a travel narrative from a simple itinerary?",
+            "options": [
+              "An itinerary always includes personal reflection",
+              "A travel narrative includes reflection and descriptive storytelling, not just a list of locations and times",
+              "There is no meaningful difference between the two forms",
+              "A travel narrative never mentions any specific location"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: Solving Rational Inequalities",
+        "summary": "Grade 10 Math strand: solving a rational inequality involves finding the values of the variable that make a fraction containing that variable positive, negative, zero, or undefined, typically by identifying critical values and testing the sign of the expression across the intervals they create.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does solving a rational inequality involve finding?",
+            "options": [
+              "The exact single value that makes the fraction equal to one",
+              "The values of the variable that satisfy a given inequality involving a fraction",
+              "The colour used to graph the inequality",
+              "The name of the variable used in the expression"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What are critical values in the context of a rational inequality?",
+            "options": [
+              "Values where the numerator or denominator equals zero",
+              "Values that make every rational inequality false",
+              "Any value chosen at random with no mathematical basis",
+              "Values that cannot be graphed on a number line"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why must values that make the denominator of a rational inequality equal to zero be excluded?",
+            "options": [
+              "Zero denominators always produce a true inequality",
+              "Division by zero is undefined",
+              "Those values always satisfy the inequality",
+              "Excluding values has no mathematical purpose"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a common method for testing the sign of a rational expression across an interval?",
+            "options": [
+              "Only testing the endpoints of the entire number line",
+              "Assuming every interval has the same sign with no testing",
+              "Substituting a test value from each interval into the expression",
+              "Ignoring the denominator entirely"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How is the solution to a rational inequality typically expressed?",
+            "options": [
+              "As a single word with no numerical value",
+              "As a set of intervals on a number line",
+              "As an equation set equal to zero only",
+              "As a single fixed number with no range"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Sand Dunes and Aeolian Landforms",
+        "summary": "Grade 10 Science strand: sand dunes are aeolian landforms shaped by wind erosion and deposition, forming when wind transports and accumulates loose sand grains around an obstacle or over time, with dune shape influenced by wind direction, sand supply, and vegetation cover.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What are sand dunes an example of?",
+            "options": [
+              "Landforms shaped entirely by ocean currents",
+              "Landforms created by glacial ice alone",
+              "Aeolian landforms shaped by wind",
+              "Landforms formed only by volcanic eruptions"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What process causes sand to accumulate into a dune?",
+            "options": [
+              "Sand grains being magnetically attracted to one another",
+              "A sudden drop in air temperature",
+              "Sand grains chemically bonding together instantly",
+              "Wind transporting and depositing loose sand grains"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What factor can influence the shape of a sand dune?",
+            "options": [
+              "The number of animals living nearby",
+              "The exact colour of the surrounding rock",
+              "Wind direction, sand supply, and vegetation cover",
+              "The phase of the moon on a given night"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What term describes processes shaped primarily by wind?",
+            "options": [
+              "Aeolian",
+              "Fluvial",
+              "Volcanic",
+              "Glacial"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why can vegetation help stabilize a sand dune?",
+            "options": [
+              "Plant roots can anchor sand grains and reduce further wind erosion",
+              "Plants prevent wind from blowing across a dune entirely",
+              "Vegetation always increases the rate of wind erosion",
+              "Vegetation has no physical effect on loose sand"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Indigenous Peoples and the Extension of the Federal Vote in 1960",
+        "summary": "Grade 10 History strand: in 1960, the Diefenbaker government extended the federal vote to First Nations peoples living on reserves without requiring them to give up their status or treaty rights, ending a long-standing restriction and marking a step toward greater political inclusion, though many barriers to full equality remained.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What change did the federal government make in 1960 regarding First Nations peoples?",
+            "options": [
+              "It ended all federal elections in Canada",
+              "It extended the federal vote to First Nations peoples living on reserves",
+              "It removed the right to vote from all Canadian citizens",
+              "It created an entirely new federal electoral system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What did First Nations voters not have to give up in order to vote after 1960?",
+            "options": [
+              "Their right to live in Canada",
+              "Their right to own property",
+              "Their citizenship in Canada",
+              "Their status or treaty rights"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which government extended the federal vote to First Nations peoples in 1960?",
+            "options": [
+              "The Mackenzie King government",
+              "The Trudeau government",
+              "The Diefenbaker government",
+              "The Laurier government"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What long-standing restriction did the 1960 change end?",
+            "options": [
+              "A restriction on attending public school",
+              "A restriction on international travel for all Canadians",
+              "A restriction that had prevented many First Nations peoples from voting in federal elections",
+              "A restriction on owning a business in Canada"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What remained true even after the 1960 change was made?",
+            "options": [
+              "All inequality faced by Indigenous peoples in Canada ended immediately",
+              "No further historical change affecting Indigenous rights ever occurred",
+              "Indigenous peoples gained full political equality with no further issues",
+              "Many barriers to full equality for Indigenous peoples remained"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "label": "Day 174 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Media Literacy: Analyzing Sports Broadcasting and Commentary",
+        "summary": "Grade 10 English strand: sports broadcasting combines live play-by-play description with colour commentary that adds context, opinion, and analysis, shaping how an audience interprets a game through word choice, tone, and the narratives commentators choose to emphasize.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does play-by-play description provide during a sports broadcast?",
+            "options": [
+              "A prerecorded segment unrelated to the live game",
+              "A written summary published only after the event ends",
+              "A silent broadcast with no spoken description",
+              "A live account of the action as it happens"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does colour commentary typically add to a sports broadcast?",
+            "options": [
+              "Context, opinion, and analysis",
+              "An unrelated news segment about world events",
+              "A completely silent broadcast",
+              "A recipe segment with no connection to sports"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How can commentators shape audience interpretation of a game?",
+            "options": [
+              "By reading directly from an unrelated script with no analysis",
+              "Through word choice, tone, and the narratives they choose to emphasize",
+              "By remaining completely silent throughout the broadcast",
+              "Commentary has no influence on how an audience understands a game"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might media literacy be useful when watching a sports broadcast?",
+            "options": [
+              "It helps viewers recognize bias or a particular narrative within the commentary",
+              "It proves that sports broadcasts contain no spoken language",
+              "It guarantees that all commentary is entirely free of opinion",
+              "It removes the need to think critically about broadcast content"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which of the following is an example of colour commentary rather than play-by-play?",
+            "options": [
+              "A direct description of a ball crossing the goal line",
+              "A statement of the current score with no further comment",
+              "An analysis of why a team changed strategy at halftime",
+              "The time remaining on the game clock"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Discrete Math: Eulerian and Hamiltonian Paths",
+        "summary": "Grade 10 Math strand: an Eulerian path visits every edge of a graph exactly once, while a Hamiltonian path visits every vertex of a graph exactly once, two related but distinct concepts used to model routing problems such as delivery routes and circuit design.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What must an Eulerian path visit exactly once?",
+            "options": [
+              "Every edge of a graph",
+              "Every colour used to draw a graph",
+              "Every possible graph that could ever exist",
+              "The exact midpoint of a graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must a Hamiltonian path visit exactly once?",
+            "options": [
+              "Every edge of a graph",
+              "Only the starting vertex of a graph",
+              "No vertices or edges at all",
+              "Every vertex of a graph"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How do Eulerian and Hamiltonian paths differ from one another?",
+            "options": [
+              "An Eulerian path focuses on edges, while a Hamiltonian path focuses on vertices",
+              "They are identical concepts with different names",
+              "An Eulerian path can never be drawn on any graph",
+              "A Hamiltonian path must always repeat every edge twice"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which real-world problem could be modelled using a Hamiltonian path?",
+            "options": [
+              "Finding the area under a curve",
+              "Measuring the exact temperature of a room",
+              "Calculating the derivative of a polynomial function",
+              "Planning a delivery route that visits every location exactly once"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are Eulerian and Hamiltonian paths useful in fields such as logistics and circuit design?",
+            "options": [
+              "They eliminate the need for any planning in routing problems",
+              "They only apply to graphs with a single vertex",
+              "They provide mathematical models for efficiently visiting locations or connections without unnecessary repetition",
+              "They have no practical application outside of pure mathematics"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: The Human Liver and Detoxification",
+        "summary": "Grade 10 Science strand: the liver is a vital organ that filters blood from the digestive tract, breaking down toxins, metabolizing nutrients, and producing bile to aid digestion, making it central to maintaining chemical balance within the body.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is one of the main functions of the liver?",
+            "options": [
+              "Pumping blood throughout the entire body",
+              "Regulating body temperature directly through the skin",
+              "Filtering blood and breaking down toxins",
+              "Producing sound for the vocal cords"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What substance does the liver produce to aid digestion?",
+            "options": [
+              "Bile",
+              "Insulin",
+              "Saliva",
+              "Mucus"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "From where does the liver receive blood rich in absorbed nutrients?",
+            "options": [
+              "The digestive tract",
+              "The skin exclusively",
+              "The bones exclusively",
+              "The lungs exclusively"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What role does the liver play in metabolizing nutrients?",
+            "options": [
+              "It destroys all nutrients before they can be used",
+              "It only processes nutrients that enter through the skin",
+              "It has no involvement in nutrient processing at all",
+              "It processes nutrients absorbed from digestion so they can be used or stored by the body"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the liver considered central to maintaining chemical balance in the body?",
+            "options": [
+              "It exclusively controls eye colour",
+              "It has no connection to any chemical process in the body",
+              "It filters toxins and regulates many substances circulating in the blood",
+              "It only affects the colour of a persons hair"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Diefenbaker Government and the Nuclear Weapons Controversy",
+        "summary": "Grade 10 History strand: the Diefenbaker government faced a bitter controversy in the early 1960s over whether Canada should accept nuclear warheads for the Bomarc missiles and other weapons systems already stationed on Canadian soil, a dispute that divided the cabinet and contributed to the governments defeat in 1963.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What controversy did the Diefenbaker government face in the early 1960s?",
+            "options": [
+              "Whether Canada should accept nuclear warheads for weapons systems already on Canadian soil",
+              "Whether Canada should abolish the Senate",
+              "Whether Canada should join the United Nations",
+              "Whether Canada should adopt a new currency"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which missile system was at the centre of the nuclear weapons controversy?",
+            "options": [
+              "The Sputnik satellite",
+              "The V-2 rocket",
+              "The Bomarc missile",
+              "The Avro Arrow"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "How did the nuclear weapons controversy affect the Diefenbaker cabinet?",
+            "options": [
+              "It had no effect on the cabinet at all",
+              "It caused the cabinet to unanimously support the warheads immediately",
+              "It divided the cabinet over whether to accept the warheads",
+              "It led to the permanent cancellation of the cabinet"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What political outcome did the controversy contribute to?",
+            "options": [
+              "A formal merger of Canada with another country",
+              "The permanent end of federal elections in Canada",
+              "An immediate landslide re-election for Diefenbaker",
+              "The defeat of the Diefenbaker government in 1963"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader Cold War tension formed the backdrop of this controversy?",
+            "options": [
+              "Debates over nuclear weapons and defence alliances between Western nations",
+              "A disagreement over provincial highway funding",
+              "A trade agreement with a South American country",
+              "A dispute over Arctic fishing rights"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "label": "Day 175 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Literature: The Detective and Mystery Genre",
+        "summary": "Grade 10 English strand: the detective and mystery genre centres on solving a crime or puzzle through the careful gathering of clues and logical deduction, typically following an investigator who must interpret evidence more skillfully than the reader to reach the correct solution.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does the detective and mystery genre typically centre on?",
+            "options": [
+              "A purely descriptive account of a setting with no plot",
+              "A story with no conflict or problem to solve",
+              "Solving a crime or puzzle through the gathering of clues and logical deduction",
+              "A collection of unrelated poems with no narrative"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What skill does a detective typically use to reach a solution?",
+            "options": [
+              "Logical deduction based on interpreting evidence",
+              "Random guessing with no basis in evidence",
+              "Ignoring all clues presented in the story",
+              "Refusing to investigate any aspect of the crime"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is a defining feature of many detective narratives?",
+            "options": [
+              "No evidence is ever presented to the reader",
+              "The identity of the culprit is revealed in the first sentence",
+              "The investigator interprets evidence more skillfully than the reader",
+              "The crime is solved before the story begins"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do readers often enjoy the mystery genre?",
+            "options": [
+              "It never reveals a solution of any kind",
+              "It invites them to piece together clues alongside the investigator",
+              "It removes any sense of curiosity from the reading experience",
+              "It provides no puzzle or problem to engage with"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following is a common element found in detective fiction?",
+            "options": [
+              "A red herring intended to mislead the investigator and reader",
+              "A recipe with no connection to any crime",
+              "A weather report with no narrative purpose",
+              "A bibliography with no story elements"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Statistics: The F-Distribution and Analysis of Variance (ANOVA)",
+        "summary": "Grade 10 Math strand: analysis of variance, or ANOVA, uses the F-distribution to test whether the means of three or more groups differ significantly, comparing the variation between group means to the variation within each group to determine whether the differences are likely due to chance.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does analysis of variance, or ANOVA, test?",
+            "options": [
+              "The area under a single point on a graph",
+              "Whether the means of three or more groups differ significantly",
+              "The exact slope of a straight line",
+              "Whether a single number is prime"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What distribution does ANOVA rely on to determine significance?",
+            "options": [
+              "The F-distribution",
+              "The Poisson distribution",
+              "The binomial distribution",
+              "The geometric distribution"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two types of variation does ANOVA compare?",
+            "options": [
+              "Variation between group means and variation within each group",
+              "The alphabetical order of group names",
+              "The colour of each group and its exact size",
+              "The physical location where each group was measured"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is ANOVA useful when comparing more than two groups at once?",
+            "options": [
+              "It eliminates the need for any data collection",
+              "It can only be used to compare exactly two groups",
+              "It tests all group means simultaneously rather than requiring many separate pairwise tests",
+              "It guarantees that all group means are always identical"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What might a large F-value in an ANOVA test suggest?",
+            "options": [
+              "That no data was collected for the study",
+              "That the differences between group means are unlikely to be due to chance alone",
+              "That the study contains no groups at all",
+              "That every group mean is exactly equal"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Physics: Lenses and Image Formation",
+        "summary": "Grade 10 Science strand: a lens is a transparent optical device that refracts light to form an image, with a converging lens bending light rays toward a focal point and a diverging lens spreading light rays apart, producing images that vary in size, orientation, and position depending on the lens type and object distance.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What does a lens do to light passing through it?",
+            "options": [
+              "Reflects all light back toward its source",
+              "Refracts the light to form an image",
+              "Converts light into sound waves",
+              "Absorbs all light with no image produced"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What does a converging lens do to light rays?",
+            "options": [
+              "Bends them toward a focal point",
+              "Blocks them from passing through entirely",
+              "Spreads them apart in every direction",
+              "Has no effect on light rays at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does a diverging lens do to light rays?",
+            "options": [
+              "Absorbs them completely",
+              "Spreads them apart",
+              "Converts them into a different colour",
+              "Bends them toward a single focal point"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What factors can affect the size, orientation, and position of an image formed by a lens?",
+            "options": [
+              "The type of lens and the distance of the object from the lens",
+              "The brand name of the lens",
+              "The colour of the lens frame",
+              "The time of day the lens is used"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which everyday device relies on lenses to form an image?",
+            "options": [
+              "A thermometer",
+              "A battery",
+              "A speaker",
+              "A camera"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The 1963 Federal Election and the Return of the Liberals Under Pearson",
+        "summary": "Grade 10 History strand: the 1963 federal election returned the Liberal Party to power under Lester Pearson, forming a minority government after the Diefenbaker Progressive Conservatives were weakened by internal divisions and the fallout from the nuclear weapons controversy.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Which party returned to power in the 1963 federal election?",
+            "options": [
+              "The Progressive Conservatives, under John Diefenbaker",
+              "The Liberal Party, under Lester Pearson",
+              "The Reform Party",
+              "The Co-operative Commonwealth Federation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What type of government did Pearson form after the 1963 election?",
+            "options": [
+              "A minority government",
+              "A government with every seat in the House of Commons",
+              "A government formed entirely of independent members",
+              "No government was formed at all"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What weakened the Progressive Conservatives heading into the 1963 election?",
+            "options": [
+              "An agreement to cancel all future elections",
+              "Internal divisions and fallout from the nuclear weapons controversy",
+              "A sudden and total collapse of the federal government structure",
+              "A complete absence of any political party in Canada"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Who led the Liberal Party to victory in the 1963 election?",
+            "options": [
+              "John Diefenbaker",
+              "Lester Pearson",
+              "Louis St. Laurent",
+              "Pierre Trudeau"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What broader period of Canadian politics did the 1963 election help usher in?",
+            "options": [
+              "A period with no elected government of any kind",
+              "The end of the Canadian parliamentary system",
+              "The Pearson era of minority Liberal governments",
+              "The permanent dominance of a single political party with no opposition"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 176,
+    "label": "Day 176 — Mon",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Oral Communication: Nonverbal Communication and Body Language",
+        "summary": "Grade 10 English strand: nonverbal communication includes body language such as posture, gestures, facial expression, and eye contact, all of which can reinforce, contradict, or add nuance to the words a speaker uses during a presentation or conversation.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does nonverbal communication include?",
+            "options": [
+              "A single printed document with no live speaker",
+              "Body language such as posture, gestures, facial expression, and eye contact",
+              "A written transcript with no spoken element",
+              "Only the exact words spoken during a conversation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How can body language relate to spoken words during a presentation?",
+            "options": [
+              "It has no relationship to spoken words whatsoever",
+              "It completely replaces the need for any spoken words",
+              "It always contradicts spoken words with no exception",
+              "It can reinforce, contradict, or add nuance to what is being said"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why might a speaker maintain eye contact during a conversation?",
+            "options": [
+              "To convey confidence and engagement with the listener",
+              "To avoid communicating with the listener entirely",
+              "Because eye contact has no effect on communication",
+              "To signal that the conversation has ended"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What might crossed arms and a lack of eye contact suggest about a speaker during a conversation?",
+            "options": [
+              "Nothing at all, since body language carries no meaning",
+              "That the speaker is about to give a formal toast",
+              "Complete enthusiasm and total engagement in every case",
+              "Discomfort or disengagement, depending on the context"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is awareness of nonverbal communication useful in oral communication skills?",
+            "options": [
+              "It guarantees that spoken words alone will always be understood correctly",
+              "It has no connection to effective communication of any kind",
+              "It helps a speaker align their body language with their intended message",
+              "It removes the need to ever consider an audience"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Geometry: Spherical Geometry and Great Circles",
+        "summary": "Grade 10 Math strand: spherical geometry studies shapes and angles on the surface of a sphere rather than a flat plane, where the shortest path between two points is an arc of a great circle, a concept used in real-world applications such as long-distance air and sea navigation.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What surface does spherical geometry study?",
+            "options": [
+              "A completely flat plane only",
+              "The surface of a sphere",
+              "A single straight line",
+              "A three-dimensional cube"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What represents the shortest path between two points on a sphere?",
+            "options": [
+              "A perfectly horizontal line at the equator only",
+              "An arc of a great circle",
+              "A path that ignores the curvature of the sphere",
+              "A straight line drawn through the centre of the sphere"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is a great circle?",
+            "options": [
+              "A circle with no defined radius",
+              "A shape that is not actually circular at all",
+              "A circle on a sphere whose plane passes through the spheres centre",
+              "A circle drawn on a completely flat sheet of paper"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In which real-world field is spherical geometry commonly applied?",
+            "options": [
+              "Long-distance air and sea navigation",
+              "Balancing a chemical equation",
+              "Filing a legal document",
+              "Simplifying a rational expression"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How do the angles of a triangle drawn on a sphere differ from those of a triangle on a flat plane?",
+            "options": [
+              "Spherical triangles cannot have angles at all",
+              "The angles of a spherical triangle always sum to exactly 90 degrees",
+              "The angles of a spherical triangle can sum to more than 180 degrees",
+              "The angles always sum to exactly 180 degrees, identical to a flat triangle"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Soap and Saponification",
+        "summary": "Grade 10 Science strand: soap is produced through saponification, a chemical reaction in which a fat or oil reacts with a strong base to form soap molecules and glycerol, with each soap molecule having a water-attracting head and a grease-attracting tail that allows it to lift oils away from a surface.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What chemical process produces soap?",
+            "options": [
+              "Saponification",
+              "Distillation",
+              "Combustion",
+              "Electrolysis"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What two substances react during saponification?",
+            "options": [
+              "Water and table salt",
+              "A fat or oil and a strong base",
+              "Two different metals",
+              "Oxygen and hydrogen gas"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What byproduct is formed alongside soap during saponification?",
+            "options": [
+              "Carbon dioxide gas",
+              "Table sugar",
+              "Pure oxygen",
+              "Glycerol"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What structural feature allows a soap molecule to lift grease away from a surface?",
+            "options": [
+              "A single uniform charge across the entire molecule",
+              "A water-attracting head and a grease-attracting tail",
+              "An identical structure to a water molecule",
+              "A complete absence of any chemical bonds"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why is soaps dual structure useful for cleaning?",
+            "options": [
+              "It has no effect on removing dirt or grease from a surface",
+              "It prevents soap from ever coming into contact with water",
+              "It causes soap to repel all substances equally",
+              "It allows soap to bind to both grease and water, letting grease be rinsed away"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Royal Commission on Bilingualism and Biculturalism",
+        "summary": "Grade 10 History strand: the Royal Commission on Bilingualism and Biculturalism was established in 1963 by the Pearson government to examine the state of bilingualism in Canada and recommend measures to better reflect the countrys English and French linguistic duality, laying groundwork for the Official Languages Act.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "When was the Royal Commission on Bilingualism and Biculturalism established?",
+            "options": [
+              "1931",
+              "1982",
+              "1963",
+              "1867"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Which government established the Royal Commission on Bilingualism and Biculturalism?",
+            "options": [
+              "The Diefenbaker government",
+              "The Trudeau government",
+              "The Mackenzie King government",
+              "The Pearson government"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What was the Royal Commission asked to examine?",
+            "options": [
+              "The state of Canadian agriculture",
+              "The design of a new Canadian flag",
+              "The state of bilingualism in Canada",
+              "The condition of Canadian railways"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What later federal legislation did the Royal Commissions work help lay the groundwork for?",
+            "options": [
+              "The National Housing Act",
+              "The Canadian Bill of Rights",
+              "The Official Languages Act",
+              "The Old Age Pensions Act"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What broader aspect of Canadian identity did the Royal Commission focus on reflecting?",
+            "options": [
+              "An exclusively agricultural national economy",
+              "A single unified provincial identity with no federal role",
+              "The countrys English and French linguistic duality",
+              "A purely military national identity"
+            ],
+            "answer": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 177,
+    "label": "Day 177 — Tue",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Film Study: Analyzing Editing Techniques and Montage",
+        "summary": "Grade 10 English strand: film editing shapes how a story is told by determining the order, pacing, and juxtaposition of shots, and montage is a specific editing technique that assembles a rapid sequence of images to condense time, build emotion, or suggest a relationship between ideas.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does film editing shape?",
+            "options": [
+              "The physical location where a film is screened",
+              "The exact colour of the actors costumes",
+              "How a story is told through the order, pacing, and juxtaposition of shots",
+              "Only the volume of the films soundtrack"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is montage?",
+            "options": [
+              "A method of removing all sound from a film entirely",
+              "An editing technique that assembles a rapid sequence of images",
+              "A single unedited continuous shot with no cuts",
+              "A technique used only in silent films with no sound"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What can montage help a filmmaker accomplish?",
+            "options": [
+              "Remove any sense of narrative from a film",
+              "Eliminate the need for any images in a scene",
+              "Prevent the audience from experiencing any emotion",
+              "Condense time, build emotion, or suggest a relationship between ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "How does the pacing of edited shots affect a viewers experience?",
+            "options": [
+              "Faster cuts can create tension or excitement, while slower cuts can create calm or reflection",
+              "Pacing only affects the films runtime and nothing else",
+              "Pacing has no effect on how a viewer experiences a film",
+              "Every film uses identical pacing regardless of its content"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a filmmaker juxtapose two contrasting shots next to each other?",
+            "options": [
+              "To suggest a meaningful relationship or contrast between the two images",
+              "To ensure the two shots have no connection to one another",
+              "Because juxtaposition is never used in film editing",
+              "To remove all meaning from the sequence of shots"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Algebra: The Rational Root Theorem",
+        "summary": "Grade 10 Math strand: the Rational Root Theorem provides a method for identifying possible rational roots of a polynomial equation with integer coefficients by comparing the factors of the constant term to the factors of the leading coefficient, narrowing down candidates before testing them directly.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Rational Root Theorem help identify?",
+            "options": [
+              "The number of dimensions in a graph",
+              "The exact derivative of a polynomial function",
+              "The area under a polynomial curve",
+              "Possible rational roots of a polynomial equation with integer coefficients"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What two values does the Rational Root Theorem compare?",
+            "options": [
+              "The factors of the constant term and the factors of the leading coefficient",
+              "The degree of the polynomial and its y-intercept only",
+              "The exact colour and size of the graph",
+              "The number of variables and the number of constants"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What must be true about the coefficients of a polynomial for the Rational Root Theorem to apply directly?",
+            "options": [
+              "They must all be equal to zero",
+              "They must all be irrational numbers",
+              "They must be integers",
+              "They must be expressed only as percentages"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why is the Rational Root Theorem useful before testing candidate roots directly?",
+            "options": [
+              "It narrows down a large set of possible roots to a smaller, manageable list",
+              "It proves that no polynomial can have any rational roots",
+              "It eliminates the need to ever solve a polynomial equation",
+              "It guarantees every real number is automatically a root"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "After identifying possible rational roots, what is typically done next?",
+            "options": [
+              "The candidates are immediately discarded without any testing",
+              "The equation is declared unsolvable with no further steps",
+              "The polynomial is redefined to remove all of its terms",
+              "Each candidate is tested, often using substitution or synthetic division, to confirm whether it is an actual root"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Earth Science: Deltas and River Systems",
+        "summary": "Grade 10 Science strand: a river delta forms where a river slows and deposits sediment as it enters a larger body of water such as a lake or ocean, building a fan-shaped or branching landform over time and creating fertile, biologically productive habitats at the rivers mouth.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Where does a river delta typically form?",
+            "options": [
+              "At the exact source of a river high in the mountains",
+              "Only at the bottom of a deep ocean trench",
+              "In the middle of a desert with no water present",
+              "Where a river enters a larger body of water and deposits sediment"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why does a river deposit sediment as it approaches a larger body of water?",
+            "options": [
+              "The water instantly freezes at the rivers mouth",
+              "The river slows down, reducing its ability to carry sediment",
+              "The river suddenly speeds up and carries no sediment at all",
+              "Sediment is created only at the source of the river"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What shape do many river deltas form over time?",
+            "options": [
+              "A perfectly circular landform with no variation",
+              "A single straight line with no branching",
+              "A shape identical to a mountain peak",
+              "A fan-shaped or branching landform"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why are deltas often biologically productive habitats?",
+            "options": [
+              "Deltas contain no nutrients of any kind",
+              "Deltas are always too dry to support any living organisms",
+              "Delta sediment actively repels all forms of life",
+              "The fertile sediment and nutrient-rich water support a wide range of plant and animal life"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Which factor can affect how quickly a delta forms and grows?",
+            "options": [
+              "The exact number of animals living nearby",
+              "The amount of sediment carried by the river",
+              "The name given to the river by local residents",
+              "The colour of the surrounding rock"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Great Flag Debate and the Adoption of the Maple Leaf in 1964",
+        "summary": "Grade 10 History strand: the Great Flag Debate was a lengthy and often contentious parliamentary dispute in 1964 over adopting a new, distinctly Canadian national flag to replace the Red Ensign, resolved when the maple leaf design proposed by Lester Pearson was adopted, with the new flag raised for the first time in February 1965.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Great Flag Debate about?",
+            "options": [
+              "Selecting a new national capital city",
+              "Adopting a new, distinctly Canadian national flag",
+              "Adopting a new national currency",
+              "Choosing a new national anthem"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What flag did the new Canadian flag replace?",
+            "options": [
+              "The Red Ensign",
+              "The Union Jack of the United Kingdom",
+              "The flag of the United States",
+              "The flag of France"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In what year did the Great Flag Debate take place in Parliament?",
+            "options": [
+              "1964",
+              "1949",
+              "1867",
+              "1982"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Who proposed the maple leaf design ultimately adopted as the new flag?",
+            "options": [
+              "Prime Minister Lester Pearson",
+              "Prime Minister Louis St. Laurent",
+              "Prime Minister Pierre Trudeau",
+              "Prime Minister John Diefenbaker"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "When was the new Canadian flag first raised?",
+            "options": [
+              "February 1965",
+              "January 1947",
+              "September 1939",
+              "July 1867"
+            ],
+            "answer": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 178,
+    "label": "Day 178 — Wed",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Grammar: Sentence Combining and Coordination Strategies",
+        "summary": "Grade 10 English strand: sentence combining joins two or more short, related sentences into a single, more sophisticated sentence using coordination strategies such as coordinating conjunctions, semicolons, or subordinating structures, improving flow and reducing choppy, repetitive writing.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does sentence combining do?",
+            "options": [
+              "Splits one long sentence into many unrelated sentences",
+              "Joins two or more short, related sentences into a single, more sophisticated sentence",
+              "Removes all punctuation from a paragraph",
+              "Deletes the subject of every sentence in a paragraph"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What is one strategy used in sentence combining?",
+            "options": [
+              "Writing every sentence in a completely different language",
+              "Removing every verb from a sentence",
+              "Ending every sentence with a question mark regardless of content",
+              "Using a coordinating conjunction to join related ideas"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What problem in writing can sentence combining help reduce?",
+            "options": [
+              "A total lack of subjects and verbs",
+              "Choppy, repetitive writing made up of many short sentences",
+              "Overly long paragraphs with no sentences at all",
+              "A complete absence of any punctuation"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which example demonstrates effective sentence combining?",
+            "options": [
+              "The rain stopped, and the sun came out.",
+              "Rain the stopped sun the out came.",
+              "The rain stopped. The sun came out.",
+              "Stopped rain sun came out."
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why might a writer use varied sentence combining strategies throughout a piece of writing?",
+            "options": [
+              "To eliminate all coordinating conjunctions from the text",
+              "Because sentence combining always makes writing less clear",
+              "To make every sentence identical in length and structure",
+              "To create more natural flow and avoid a repetitive, monotonous rhythm"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Calculus: Antiderivatives and the Indefinite Integral",
+        "summary": "Grade 10 Math strand: an antiderivative of a function is a new function whose derivative equals the original function, and the indefinite integral represents the entire family of antiderivatives of a function, differing from one another only by a constant of integration.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What is an antiderivative of a function?",
+            "options": [
+              "The exact same function written in a different colour",
+              "A function that has no derivative at all",
+              "A new function whose derivative equals the original function",
+              "A function with no relationship to the original function"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does the indefinite integral of a function represent?",
+            "options": [
+              "A single specific numerical value only",
+              "A function with no connection to derivatives",
+              "The entire family of antiderivatives of that function",
+              "The area under a curve between two fixed points only"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What distinguishes different antiderivatives of the same function from one another?",
+            "options": [
+              "A constant of integration",
+              "The colour used to graph the function",
+              "The degree of the original polynomial",
+              "The variable used in the original function"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is a constant of integration included when writing an indefinite integral?",
+            "options": [
+              "Because the derivative of any constant is zero, so many antiderivatives are possible",
+              "Because indefinite integrals cannot include any constant",
+              "Because integration always produces a negative number",
+              "Because every antiderivative must equal exactly zero"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "How is antidifferentiation related to differentiation?",
+            "options": [
+              "It is completely unrelated to differentiation",
+              "It can only be applied to constant functions",
+              "It always produces the same result as differentiation",
+              "It is the reverse process of differentiation"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Biology: Fish Migration and Life Cycles: The Salmon Run",
+        "summary": "Grade 10 Science strand: many salmon species hatch in freshwater streams, migrate to the ocean to mature, and then return to the same freshwater stream where they hatched to spawn, a demanding life cycle known as the salmon run that plays a vital ecological role in many Canadian watersheds.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "Where do many salmon species hatch?",
+            "options": [
+              "In freshwater streams",
+              "In freshwater lakes located in deserts",
+              "In the deep open ocean",
+              "On dry land with no water present"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Where do salmon typically migrate to mature after hatching?",
+            "options": [
+              "The ocean",
+              "A landlocked desert with no water",
+              "An underground cave system",
+              "A mountain summit with no water source"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What do adult salmon typically do when they are ready to spawn?",
+            "options": [
+              "Stop reproducing entirely once they reach adulthood",
+              "Remain permanently in the ocean with no further migration",
+              "Return to the same freshwater stream where they hatched",
+              "Migrate to a completely unrelated species habitat"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What term describes this demanding migratory life cycle of salmon?",
+            "options": [
+              "The salmon run",
+              "The hibernation cycle",
+              "The photosynthetic cycle",
+              "The predator cycle"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Why is the salmon run considered ecologically important in many Canadian watersheds?",
+            "options": [
+              "It transports nutrients between ocean and freshwater ecosystems and supports many other species",
+              "It removes all nutrients permanently from the watershed",
+              "It only affects a single unrelated species with no broader impact",
+              "It has no effect on any other species in the ecosystem"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "The Company of Young Canadians and Youth Activism in the 1960s",
+        "summary": "Grade 10 History strand: the Company of Young Canadians was a federally funded volunteer organization created in 1966 to engage young Canadians in community development and social change projects, reflecting a broader wave of youth activism and social movements that characterized Canada and much of the world during the 1960s.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was the Company of Young Canadians?",
+            "options": [
+              "A federal department overseeing international trade",
+              "A private corporation focused entirely on manufacturing",
+              "A federally funded volunteer organization created to engage young Canadians in community development",
+              "A branch of the Canadian military created for youth recruits"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year was the Company of Young Canadians created?",
+            "options": [
+              "1939",
+              "1982",
+              "1919",
+              "1966"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What type of projects did the Company of Young Canadians focus on?",
+            "options": [
+              "Railway construction projects only",
+              "Military training exercises only",
+              "International banking regulations",
+              "Community development and social change projects"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What broader trend did the Company of Young Canadians reflect during the 1960s?",
+            "options": [
+              "A decline in community organizations across Canada",
+              "A wave of youth activism and social movements",
+              "A complete absence of youth involvement in public life",
+              "A nationwide ban on volunteer work"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "How did youth activism in 1960s Canada relate to trends elsewhere in the world?",
+            "options": [
+              "It had no connection whatsoever to international events",
+              "It occurred in complete isolation from any global trend",
+              "It was the only example of youth activism in world history",
+              "It reflected a broader wave of youth activism occurring in many countries during the decade"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 179,
+    "label": "Day 179 — Thu",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "Writing: The Product Review and Consumer Persuasion",
+        "summary": "Grade 10 English strand: a product review evaluates the features, quality, and value of a product for potential consumers, combining descriptive detail with persuasive language to help readers decide whether the product is worth purchasing.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does a product review evaluate?",
+            "options": [
+              "A completely fictional story with no real product involved",
+              "A scientific theory unrelated to consumer goods",
+              "The features, quality, and value of a product for potential consumers",
+              "A historical event with no connection to any product"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What two elements does a product review typically combine?",
+            "options": [
+              "A recipe and a musical score",
+              "A map and a set of driving directions",
+              "A legal contract and a weather report",
+              "Descriptive detail and persuasive language"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is the purpose of persuasive language within a product review?",
+            "options": [
+              "To ensure the review contains no descriptive detail",
+              "To help readers decide whether the product is worth purchasing",
+              "To remove any opinion from the review entirely",
+              "To confuse the reader about the products features"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which of the following would likely appear in a well-written product review?",
+            "options": [
+              "A list of random numbers with no context",
+              "A specific comparison of the products strengths and weaknesses",
+              "A description of an unrelated historical event",
+              "A summary of a different, unrelated product category"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Why might a reader consult a product review before making a purchase?",
+            "options": [
+              "Because product reviews never contain any useful information",
+              "To gain insight into the products quality and value from someone who has used it",
+              "Because product reviews are legally required reading before any purchase",
+              "To avoid learning anything about the product at all"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Probability: The Law of Large Numbers",
+        "summary": "Grade 10 Math strand: the law of large numbers states that as the number of trials in a random experiment increases, the experimental probability of an outcome tends to converge toward its theoretical probability, explaining why large samples tend to produce more reliable estimates than small ones.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the law of large numbers describe?",
+            "options": [
+              "How experimental probability converges toward theoretical probability as trials increase",
+              "A method for calculating the exact area of a triangle",
+              "A rule stating that every event has an equal chance of occurring",
+              "A law that applies only to numbers greater than one million"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What happens to experimental probability as the number of trials in an experiment increases?",
+            "options": [
+              "It always becomes completely random with no pattern",
+              "It becomes impossible to calculate at all",
+              "It tends to converge toward the theoretical probability",
+              "It moves further away from the theoretical probability with every trial"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Why do large samples tend to produce more reliable estimates than small samples?",
+            "options": [
+              "Random fluctuations tend to average out over a greater number of trials",
+              "Small samples always produce more accurate results than large samples",
+              "Large samples always eliminate the need for any probability calculation",
+              "Sample size has no effect on the reliability of an estimate"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "Which scenario illustrates the law of large numbers?",
+            "options": [
+              "Calculating the area of a circle with a given radius",
+              "Rolling a die without recording any outcome at all",
+              "Flipping a coin exactly one time and recording the result",
+              "Flipping a coin many times and observing the proportion of heads approach one half"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "Why is the law of large numbers relevant to fields such as insurance and gambling?",
+            "options": [
+              "It only applies to a single trial and no more",
+              "It guarantees an individual outcome with complete certainty every time",
+              "It helps explain why outcomes become more predictable in aggregate over many repeated trials",
+              "It has no relevance to any real-world application"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Chemistry: The Chemistry of Fermentation and Brewing",
+        "summary": "Grade 10 Science strand: fermentation is a chemical process in which microorganisms such as yeast convert sugars into other compounds, such as alcohol and carbon dioxide, in the absence of oxygen, a reaction that underlies brewing, baking, and other food production processes.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What is fermentation?",
+            "options": [
+              "A physical process with no chemical change of any kind",
+              "A chemical process in which microorganisms convert sugars into other compounds",
+              "A process that only occurs at extremely high temperatures with no microorganisms involved",
+              "A process that requires large amounts of oxygen to occur"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which organism commonly drives the fermentation process in brewing?",
+            "options": [
+              "A type of coral",
+              "A species of large mammal",
+              "Yeast",
+              "A species of bird"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What two compounds are commonly produced when yeast ferments sugar?",
+            "options": [
+              "Iron and copper",
+              "Table salt and pure water",
+              "Alcohol and carbon dioxide",
+              "Oxygen gas and nitrogen gas"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Under what condition does fermentation typically occur?",
+            "options": [
+              "Only at freezing temperatures",
+              "In the absence of oxygen",
+              "Only inside a sealed metal container with no biological activity",
+              "Only in the presence of large amounts of oxygen"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "Which food production process relies on fermentation besides brewing?",
+            "options": [
+              "Baking bread, which relies on carbon dioxide produced by yeast",
+              "Cutting fruit into smaller pieces",
+              "Freezing vegetables with no chemical change",
+              "Boiling water with no other ingredients"
+            ],
+            "answer": 0
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "Expo 67 and the Centennial Celebrations of Canadian Confederation",
+        "summary": "Grade 10 History strand: Expo 67 was a world exposition held in Montreal in 1967 as the centrepiece of Canadas centennial celebrations marking one hundred years since Confederation, drawing tens of millions of visitors and becoming a widely remembered symbol of Canadian confidence and international engagement during the era.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "What was Expo 67?",
+            "options": [
+              "A new branch of the Canadian military",
+              "A world exposition held in Montreal in 1967",
+              "A federal election held across Canada",
+              "A treaty signed between Canada and France"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What milestone did Expo 67 help celebrate?",
+            "options": [
+              "One hundred years since Canadian Confederation",
+              "The signing of the Statute of Westminster",
+              "The founding of the United Nations",
+              "The end of the Second World War"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "In which Canadian city was Expo 67 held?",
+            "options": [
+              "Toronto",
+              "Ottawa",
+              "Montreal",
+              "Vancouver"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "Approximately how many visitors did Expo 67 draw?",
+            "options": [
+              "Exactly one thousand",
+              "Fewer than one hundred",
+              "Tens of millions",
+              "No visitors attended at all"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does Expo 67 often symbolize in accounts of Canadian history?",
+            "options": [
+              "A time when Canada had no relations with other countries",
+              "A period of complete international isolation for Canada",
+              "The end of all international exhibitions in Canada",
+              "Canadian confidence and international engagement during the centennial era"
+            ],
+            "answer": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": 180,
+    "label": "Day 180 — Fri",
+    "subjects": [
+      {
+        "subject": "English",
+        "title": "English Review: Grammar, Reading, Writing, and Oral Communication (Days 171-179)",
+        "summary": "Grade 10 English strand review: students revisit reported speech, the epilogue and denouement, the travel narrative, sports broadcasting commentary, the detective and mystery genre, nonverbal communication, film editing and montage, sentence combining, and the product review.",
+        "resourceLabel": "TVO Learn: Grade 10 English",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-english",
+        "quiz": [
+          {
+            "q": "What does reported speech do?",
+            "options": [
+              "Repeats a statement word for word inside quotation marks",
+              "Converts a sentence into a question with no other change",
+              "Removes all verbs from a sentence",
+              "Restates what someone said without using their exact words or quotation marks"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the denouement of a narrative do?",
+            "options": [
+              "Introduces the main conflict for the first time",
+              "Replaces the need for a climax entirely",
+              "Resolves remaining plot threads after the climax",
+              "Occurs before any characters are introduced"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does a travel narrative typically recount?",
+            "options": [
+              "A scientific report with no narrative elements",
+              "A purely fictional world with no real setting",
+              "A single event that occurs entirely at home",
+              "A journey to an unfamiliar location"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What does the detective and mystery genre typically centre on?",
+            "options": [
+              "A story with no conflict or problem to solve",
+              "A purely descriptive account of a setting with no plot",
+              "A collection of unrelated poems with no narrative",
+              "Solving a crime or puzzle through the gathering of clues and logical deduction"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What is montage?",
+            "options": [
+              "A technique used only in silent films with no sound",
+              "A single unedited continuous shot with no cuts",
+              "An editing technique that assembles a rapid sequence of images",
+              "A method of removing all sound from a film entirely"
+            ],
+            "answer": 2
+          }
+        ]
+      },
+      {
+        "subject": "Math",
+        "title": "Math Review: Number Theory, Calculus, Algebra, and Statistics (Days 171-179)",
+        "summary": "Grade 10 Math strand review: students revisit the Sieve of Eratosthenes, the Mean Value Theorem, rational inequalities, Eulerian and Hamiltonian paths, the F-distribution and ANOVA, spherical geometry, the Rational Root Theorem, antiderivatives, and the law of large numbers.",
+        "resourceLabel": "TVO Learn: Grade 10 Mathematics",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-mathematics",
+        "quiz": [
+          {
+            "q": "What does the Sieve of Eratosthenes find?",
+            "options": [
+              "All prime numbers up to a given limit",
+              "The sum of an arithmetic series",
+              "The area of a triangle",
+              "The exact square root of a number"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What does the Mean Value Theorem guarantee for a smooth, continuous function over an interval?",
+            "options": [
+              "That the function must be equal to zero somewhere in the interval",
+              "That the function has no derivative anywhere",
+              "That the interval must contain only whole numbers",
+              "At least one point where the instantaneous rate of change equals the average rate of change"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What must an Eulerian path visit exactly once?",
+            "options": [
+              "The exact midpoint of a graph",
+              "Every possible graph that could ever exist",
+              "Every edge of a graph",
+              "Every colour used to draw a graph"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What does analysis of variance, or ANOVA, test?",
+            "options": [
+              "Whether the means of three or more groups differ significantly",
+              "Whether a single number is prime",
+              "The exact slope of a straight line",
+              "The area under a single point on a graph"
+            ],
+            "answer": 0
+          },
+          {
+            "q": "What is an antiderivative of a function?",
+            "options": [
+              "A function that has no derivative at all",
+              "A new function whose derivative equals the original function",
+              "A function with no relationship to the original function",
+              "The exact same function written in a different colour"
+            ],
+            "answer": 1
+          }
+        ]
+      },
+      {
+        "subject": "Science",
+        "title": "Science Review: Physics, Chemistry, Earth Science, and Biology (Days 171-179)",
+        "summary": "Grade 10 Science strand review: students revisit light dispersion in rainbows, the chemistry of photography, sand dunes, the human liver, lenses and image formation, soap and saponification, deltas and river systems, the salmon run, and the chemistry of fermentation.",
+        "resourceLabel": "TVO Learn: Grade 10 Science",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-science",
+        "quiz": [
+          {
+            "q": "What natural event causes light to disperse into a rainbow?",
+            "options": [
+              "Sunlight being absorbed entirely by the atmosphere",
+              "Moonlight reflecting off a still lake with no droplets present",
+              "Sunlight entering raindrops and being refracted and internally reflected",
+              "Sunlight passing through a completely opaque object"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What type of compound makes traditional photographic film light-sensitive?",
+            "options": [
+              "Pure carbon",
+              "Distilled water",
+              "Silver halide compounds",
+              "Table salt"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What is one of the main functions of the liver?",
+            "options": [
+              "Regulating body temperature directly through the skin",
+              "Filtering blood and breaking down toxins",
+              "Producing sound for the vocal cords",
+              "Pumping blood throughout the entire body"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What chemical process produces soap?",
+            "options": [
+              "Distillation",
+              "Saponification",
+              "Electrolysis",
+              "Combustion"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What term describes the demanding migratory life cycle of salmon?",
+            "options": [
+              "The hibernation cycle",
+              "The photosynthetic cycle",
+              "The predator cycle",
+              "The salmon run"
+            ],
+            "answer": 3
+          }
+        ]
+      },
+      {
+        "subject": "History",
+        "title": "History Review: The Diefenbaker-Pearson Era in Canada (Days 171-179)",
+        "summary": "Grade 10 History strand review: students revisit the 1957 federal election, the Canadian Bill of Rights of 1960, the extension of the federal vote to Indigenous peoples, the nuclear weapons controversy, the 1963 election, the Royal Commission on Bilingualism and Biculturalism, the flag debate, youth activism, and Expo 67.",
+        "resourceLabel": "TVO Learn: Grade 10 History",
+        "resourceUrl": "https://tvolearn.com/pages/grade-10-history",
+        "quiz": [
+          {
+            "q": "Which party won the 1957 federal election?",
+            "options": [
+              "The Social Credit Party",
+              "The Co-operative Commonwealth Federation",
+              "The Progressive Conservatives, led by John Diefenbaker",
+              "The Liberals, led by Louis St. Laurent"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "In what year was the Canadian Bill of Rights introduced?",
+            "options": [
+              "1982",
+              "1867",
+              "1960",
+              "1940"
+            ],
+            "answer": 2
+          },
+          {
+            "q": "What did the federal government do in 1960 regarding First Nations peoples?",
+            "options": [
+              "It ended all federal elections in Canada",
+              "It extended the federal vote to First Nations peoples living on reserves",
+              "It removed the right to vote from all Canadian citizens",
+              "It created an entirely new federal electoral system"
+            ],
+            "answer": 1
+          },
+          {
+            "q": "What was the Great Flag Debate about?",
+            "options": [
+              "Choosing a new national anthem",
+              "Selecting a new national capital city",
+              "Adopting a new national currency",
+              "Adopting a new, distinctly Canadian national flag"
+            ],
+            "answer": 3
+          },
+          {
+            "q": "What milestone did Expo 67 help celebrate?",
+            "options": [
+              "The founding of the United Nations",
+              "One hundred years since Canadian Confederation",
+              "The end of the Second World War",
+              "The signing of the Statute of Westminster"
+            ],
+            "answer": 1
           }
         ]
       }

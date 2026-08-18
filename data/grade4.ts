@@ -6682,6 +6682,386 @@ const curriculum: DayContent[] = [
      {q:"Where is Point Pelee National Park located?", options:["At the southern tip of mainland Canada","In the Canadian Arctic","In northern Quebec","On the west coast of British Columbia"], answer:0}
    ]},
 ]},
+{day:171, label:"Day 171 — Mon", subjects:[
+  {subject:"Language", title:"Grammar: Relative Adverbs — Where, When, and Why", summary:"Grade 4 Language strand: relative adverbs, including where, when, and why, introduce a clause that describes a noun by giving information about a place, time, or reason.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which relative adverb describes a place?", options:["Who","Why","Where","When"], answer:2},
+     {q:"Which relative adverb describes a time?", options:["Where","When","Which","Why"], answer:1},
+     {q:"Which relative adverb describes a reason?", options:["When","Why","Where","What"], answer:1},
+     {q:"Which sentence correctly uses a relative adverb?", options:["This is the park which we played soccer.","This is the park whom we played soccer.","This is the park who we played soccer.","This is the park where we played soccer."], answer:3},
+     {q:"Why are relative adverbs useful in writing?", options:["They add detail about place, time, or reason to a noun being described","They remove the need for a verb","They only appear at the very start of a sentence","They always change a sentence into a question"], answer:0}
+   ]},
+  {subject:"Math", title:"Geometry: Classifying Quadrilaterals by Parallel Sides", summary:"Grade 4 Math strand: quadrilaterals can be classified by their parallel sides, including parallelograms with two pairs of parallel sides, trapezoids with exactly one pair of parallel sides, and quadrilaterals with no parallel sides at all.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What defines a parallelogram?", options:["It has exactly one pair of parallel sides","It has five sides","It has no parallel sides","It has two pairs of parallel sides"], answer:3},
+     {q:"What defines a trapezoid?", options:["It has no straight sides","It has exactly one pair of parallel sides","It has two pairs of parallel sides","It always has four equal angles"], answer:1},
+     {q:"Can a quadrilateral have zero pairs of parallel sides?", options:["No, all four-sided shapes are parallelograms","No, every quadrilateral must have parallel sides","Yes, some quadrilaterals have no parallel sides at all","Yes, but only if it has five sides"], answer:2},
+     {q:"Is a square considered a type of parallelogram?", options:["Yes, because it has two pairs of parallel sides","No, squares never have parallel sides","No, squares are a completely separate category","Yes, but only when rotated"], answer:0},
+     {q:"Why is it useful to classify quadrilaterals by their parallel sides?", options:["Parallel sides have no connection to shape properties","Classifying quadrilaterals has no mathematical value","All quadrilaterals are exactly identical","It helps identify and compare the properties of different four-sided shapes"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: The Water Table and Aquifer Recharge", summary:"Grade 4 Science strand: the water table is the upper level of groundwater stored underground in an aquifer, and it rises or falls as rain and melting snow soak into the ground to recharge the supply.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is the water table?", options:["The upper level of groundwater stored underground","A machine used to pump ocean water","A table used to measure rainfall","A type of river on the surface"], answer:0},
+     {q:"What is an aquifer?", options:["A machine that purifies water","A type of cloud formation","An underground layer of rock or soil that stores groundwater","A surface lake found only in deserts"], answer:2},
+     {q:"What can cause the water table to rise?", options:["Paving over natural land with concrete","A long period with no precipitation at all","Removing water without any replacement","Rain and melting snow soaking into the ground"], answer:3},
+     {q:"What does it mean for an aquifer to be recharged?", options:["The aquifer is permanently emptied","Water is added back into it from rain or snowmelt seeping down","The aquifer stops storing water forever","The aquifer turns into solid rock"], answer:1},
+     {q:"Why is it important for communities to manage groundwater use carefully?", options:["Groundwater can never be used up","Groundwater has no connection to drinking water supplies","Overusing groundwater faster than it recharges can lower the water table","Aquifers refill instantly no matter how much is used"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Conductors of the Underground Railroad", summary:"Grade 4 Social Studies strand: conductors of the Underground Railroad were brave individuals, such as Harriet Tubman, who guided freedom seekers along secret routes and through safe houses toward freedom in Canada.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What was the role of a conductor on the Underground Railroad?", options:["Guiding freedom seekers along secret routes toward freedom","Building railway tracks across Canada","Repairing roads between towns","Collecting taxes from travellers"], answer:0},
+     {q:"Who is one of the most famous conductors of the Underground Railroad?", options:["John A. Macdonald","Terry Fox","Laura Secord","Harriet Tubman"], answer:3},
+     {q:"What made the work of a conductor dangerous?", options:["Helping freedom seekers escape was illegal and risked severe punishment","Conductors only worked during safe, sunny weather","Conductors were paid too much money","There was no risk involved at all"], answer:0},
+     {q:"What were the hidden stopping points along the Underground Railroad often called?", options:["Marketplaces","Safe houses","Town halls","Train stations"], answer:1},
+     {q:"Why are Underground Railroad conductors remembered as important historical figures?", options:["They risked their own safety to help others reach freedom","They worked only to build literal railroads","They discouraged people from seeking freedom","They have no connection to Canadian history"], answer:0}
+   ]},
+]},
+{day:172, label:"Day 172 — Tue", subjects:[
+  {subject:"Language", title:"Grammar: The Subjunctive Mood", summary:"Grade 4 Language strand: the subjunctive mood is used to express a wish, a suggestion, or a situation that is not currently true, often appearing after words like if or wish and pairing with were instead of was.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What does the subjunctive mood often express?", options:["A question about a location","A simple fact that is happening right now","A wish or a situation that is not currently true","A direct command"], answer:2},
+     {q:"Which sentence correctly uses the subjunctive mood?", options:["If I was taller, I could reach the shelf.","If I were taller, I could reach the shelf.","If I be taller, I could reach the shelf.","If I am taller, I could reach the shelf."], answer:1},
+     {q:"Which word often introduces a subjunctive statement?", options:["So","And","If","But"], answer:2},
+     {q:"In the subjunctive mood, which verb form is often used instead of was?", options:["Is","Been","Being","Were"], answer:3},
+     {q:"Why might a writer use the subjunctive mood?", options:["To ask a direct question","To give a simple command","To describe a wish or hypothetical situation that is not real","To describe something that is definitely true right now"], answer:2}
+   ]},
+  {subject:"Math", title:"Number Sense: Dividing a 4-Digit Number by a 1-Digit Divisor", summary:"Grade 4 Math strand: dividing a 4-digit number by a 1-digit divisor involves working through the digits from left to right, dividing, multiplying, subtracting, and bringing down the next digit at each step.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is a common first step when dividing a 4-digit number by a 1-digit divisor?", options:["Start by dividing the leftmost digit or digits by the divisor","Multiply the two numbers together","Add the divisor to the 4-digit number","Start by dividing the rightmost digit by the divisor"], answer:0},
+     {q:"What is 4,236 divided by 2?", options:["2,128","2,108","2,118","2,218"], answer:2},
+     {q:"What is 5,145 divided by 5?", options:["1,030","1,019","1,029","1,039"], answer:2},
+     {q:"After dividing and multiplying at each step, what should you do next?", options:["Subtract, then bring down the next digit","Multiply again by the same digit","Skip the next digit entirely","Add the divisor to the quotient"], answer:0},
+     {q:"Why is it helpful to work through long division one digit at a time?", options:["It removes the need for any subtraction","It always produces an incorrect answer","It breaks a large problem into smaller, more manageable steps","It only works with 1-digit dividends"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: Predator-Prey Cycles in Ecosystems", summary:"Grade 4 Science strand: predator and prey populations rise and fall in connected cycles, since more prey allows predator populations to grow, while more predators can then cause prey populations to shrink.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What happens to a predator population when prey becomes more plentiful?", options:["The predator population has no reaction at all","The predator population disappears completely","The predator population tends to grow","The predator population instantly doubles overnight"], answer:2},
+     {q:"What can happen to a prey population when predators become too numerous?", options:["The prey population tends to shrink","The prey population is unaffected","The prey population becomes extinct instantly","The prey population always grows larger"], answer:0},
+     {q:"Why are predator and prey populations described as being in a cycle?", options:["Their population sizes rise and fall in a connected, repeating pattern","Only prey populations ever change in an ecosystem","Predators and prey have no effect on each other","Their populations never change over time"], answer:0},
+     {q:"What might happen if a predator species were removed from an ecosystem entirely?", options:["The prey population would disappear immediately","The prey population could grow rapidly without natural control","Nothing in the ecosystem would change at all","Other predators would automatically disappear too"], answer:1},
+     {q:"Why do scientists study predator-prey cycles?", options:["Studying these cycles has no real-world use","Predator-prey cycles have no scientific importance","To understand how ecosystems stay balanced over time","Ecosystems never change based on predators or prey"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Hudson Strait and Arctic Shipping Routes", summary:"Grade 4 Social Studies strand: the Hudson Strait is a waterway connecting Hudson Bay to the Atlantic Ocean, forming part of an important Arctic shipping route used to transport goods to and from northern communities.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What does the Hudson Strait connect?", options:["Lake Ontario to Lake Erie","Hudson Bay to the Atlantic Ocean","The Pacific Ocean to the Great Lakes","The Rocky Mountains to the prairies"], answer:1},
+     {q:"Why is the Hudson Strait considered important for shipping?", options:["It only connects two small lakes","It is located entirely on dry land","It has never been used for transportation","It forms part of a route used to transport goods to northern communities"], answer:3},
+     {q:"What challenge do ships often face when using Arctic shipping routes?", options:["Arctic routes are always completely open year-round","The water is always too warm to sail through","Sea ice can block or limit travel during parts of the year","There is never any ice in the Arctic"], answer:2},
+     {q:"Why might goods need to be shipped to northern communities by water?", options:["Northern communities do not need any supplies delivered","Ships are the only form of transportation ever used in Canada","Many northern communities are not connected by road","All northern communities have major highways"], answer:2},
+     {q:"Why is understanding Arctic geography important for Canada?", options:["Arctic geography has no connection to Canada","Shipping routes never affect daily life","It helps Canada manage transportation, trade, and northern communities","The Arctic has no communities living there"], answer:2}
+   ]},
+]},
+{day:173, label:"Day 173 — Wed", subjects:[
+  {subject:"Language", title:"Writing: Writing a Folk Tale", summary:"Grade 4 Language strand: a folk tale is a traditional story passed down through generations, often explaining customs or beliefs of a culture and featuring ordinary characters who face a challenge.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is a folk tale?", options:["A formal business letter","A traditional story passed down through generations","A scientific report on nature","A list of historical dates"], answer:1},
+     {q:"What might a folk tale often explain?", options:["Customs or beliefs of a culture","A mathematical formula","The exact temperature of a region","A companys yearly budget"], answer:0},
+     {q:"What kind of characters commonly appear in folk tales?", options:["Only government officials","Only fictional robots","Only scientists conducting experiments","Ordinary characters who face a challenge"], answer:3},
+     {q:"How are folk tales traditionally shared between generations?", options:["Only through scientific journals","Often through spoken storytelling before being written down","They are never shared at all","Only through official government documents"], answer:1},
+     {q:"Why might folk tales be valuable to a culture?", options:["Folk tales are always factually accurate reports","Folk tales have no cultural value","They preserve traditions, values, and history through storytelling","Folk tales are never passed down to others"], answer:2}
+   ]},
+  {subject:"Math", title:"Data Management: Calculating the Mean of a Data Set", summary:"Grade 4 Math strand: the mean, or average, of a data set is found by adding all the values together and dividing the sum by the number of values in the set.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"How do you calculate the mean of a data set?", options:["Find the largest value only","Find the smallest value only","Multiply all the values together","Add all the values and divide by the number of values"], answer:3},
+     {q:"What is the mean of the data set 4, 6, 8?", options:["8","4","6","18"], answer:2},
+     {q:"What is the mean of the data set 10, 20, 30, 40?", options:["25","100","20","30"], answer:0},
+     {q:"If a data set has five values summing to 50, what is the mean?", options:["5","25","50","10"], answer:3},
+     {q:"Why is the mean a useful way to describe a data set?", options:["It always equals the smallest value in the set","It gives a single value representing the typical or central amount","It only shows the largest value in the set","It has no connection to the data set at all"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Ruminant Animals — How Cows and Other Grazers Digest Grass", summary:"Grade 4 Science strand: ruminant animals, such as cows, sheep, and deer, have a specialized four-chambered stomach that allows them to break down tough plant fibres by chewing their food more than once.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is a ruminant animal?", options:["An animal with a specialized four-chambered stomach for digesting plants","An animal that never eats at all","An animal that lives only underwater","An animal that only eats meat"], answer:0},
+     {q:"Which of these is an example of a ruminant animal?", options:["A cow","An eagle","A shark","A lion"], answer:0},
+     {q:"What is unique about how ruminant animals digest their food?", options:["They only eat food that has already been digested by another animal","They swallow food whole and never digest it","They never chew their food at all","They chew their food more than once to help break down tough fibres"], answer:3},
+     {q:"What term describes food that a ruminant animal brings back up to chew again?", options:["Pollen","Compost","Cud","Sap"], answer:2},
+     {q:"Why is a multi-chambered stomach helpful for animals that eat grass?", options:["It prevents the animal from digesting any food at all","It only works for animals that eat meat","It allows tough plant fibres to be broken down more completely for energy","It has no effect on digestion"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of the Auditor General of Canada", summary:"Grade 4 Social Studies strand: the Auditor General is an independent official who examines how the federal government spends public money, reporting to Parliament on whether spending was managed responsibly.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What does the Auditor General of Canada examine?", options:["The weather across Canada","The design of new highways","How the federal government spends public money","The scores of national sports teams"], answer:2},
+     {q:"Who does the Auditor General report to?", options:["A foreign government","No one at all","Parliament","A private company"], answer:2},
+     {q:"Why is the Auditor General considered independent?", options:["They examine government spending without taking political sides","They have no connection to government spending","They are controlled by a single business","They always agree with whatever the government wants"], answer:0},
+     {q:"What is one goal of having an Auditor General?", options:["Removing accountability from government spending","Hiding government spending from the public","Ensuring public money is spent responsibly and transparently","Preventing the government from ever spending any money"], answer:2},
+     {q:"Why is the role of the Auditor General valuable to Canadian citizens?", options:["It helps hold government spending accountable to the public","It has no value to citizens","It gives citizens no information about government spending","It only benefits government workers"], answer:0}
+   ]},
+]},
+{day:174, label:"Day 174 — Thu", subjects:[
+  {subject:"Language", title:"Reading: Analyzing a Plays Structure — Acts and Scenes", summary:"Grade 4 Language strand: a play is organized into acts and scenes, with acts marking major divisions of the story and scenes marking smaller sections within an act, often set in a single time and place.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is an act in a play?", options:["A type of stage prop","The name of a character","A single line of dialogue","A major division of the story"], answer:3},
+     {q:"What is a scene in a play?", options:["The entire play from start to finish","A list of actors names","A type of costume","A smaller section within an act, often in one time and place"], answer:3},
+     {q:"How are acts and scenes usually organized in relation to each other?", options:["A play can only have one scene total","Acts and scenes are exactly the same thing","Scenes are divided into acts","A play is divided into acts, and acts are divided into scenes"], answer:3},
+     {q:"What might change between one scene and the next?", options:["The title of the play","The time or place of the action","The name of the playwright","The type of paper the play is printed on"], answer:1},
+     {q:"Why is understanding a plays structure of acts and scenes helpful to readers?", options:["It helps track how the story is organized and how it progresses","It makes a play impossible to follow","Acts and scenes only exist in novels, not plays","Structure has no connection to understanding a play"], answer:0}
+   ]},
+  {subject:"Math", title:"Number Sense: Using Venn Diagrams for Factors and Multiples", summary:"Grade 4 Math strand: a Venn diagram can be used to compare the factors or multiples of two numbers, showing shared values in the overlapping section and unique values in the separate sections.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What can a Venn diagram show when comparing two numbers?", options:["Their shared and unique factors or multiples","Only their difference","Only their product","Only their sum"], answer:0},
+     {q:"In a Venn diagram comparing factors, where do shared factors appear?", options:["Only in the left circle","In the overlapping section of the circles","Outside both circles","Only in the right circle"], answer:1},
+     {q:"What are the common factors of 12 and 18 shown in the overlap?", options:["1, 2, 3, and 6","12 and 18 only","1 and 2 only","4 and 9 only"], answer:0},
+     {q:"If comparing multiples of 4 and 6, which number would appear in the overlapping section?", options:["4","6","10","12"], answer:3},
+     {q:"Why is a Venn diagram a useful tool for comparing factors or multiples?", options:["It visually organizes shared and unique values for easy comparison","It removes the need to know any factors or multiples","It cannot show any shared values","It only works with a single number"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: The Northern Lights — Aurora Borealis", summary:"Grade 4 Science strand: the aurora borealis, or northern lights, is a natural light display caused by charged particles from the sun interacting with gases in Earths atmosphere, most visible near the North Pole.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What causes the aurora borealis?", options:["Reflections of city lights bouncing off clouds","Charged particles from the sun interacting with Earths atmosphere","Sunlight passing through raindrops","A type of volcanic eruption"], answer:1},
+     {q:"Where is the aurora borealis most commonly visible?", options:["Near the North Pole","Underwater","In deserts only","Near the equator"], answer:0},
+     {q:"What is another common name for the aurora borealis?", options:["The northern lights","The southern cross","The midnight sun","The polar vortex"], answer:0},
+     {q:"What gives the aurora borealis its glowing colours?", options:["Light bouncing off mountain snow","Fireworks launched from the ground","Reflections from the ocean surface","Charged particles interacting with different gases in the atmosphere"], answer:3},
+     {q:"Why do scientists study the aurora borealis?", options:["It has no connection to the sun","The aurora borealis has no scientific value","It never changes and cannot be studied","To better understand solar activity and its effects on Earths atmosphere"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Residential Schools and the Path to Reconciliation", summary:"Grade 4 Social Studies strand: residential schools were institutions that separated Indigenous children from their families and cultures for over a century, and Canada is now working toward reconciliation by acknowledging this history and rebuilding trust with Indigenous peoples.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What were residential schools designed to do?", options:["Provide extra holidays for students","Teach all students about Indigenous traditions","Separate Indigenous children from their families and cultures","Build new roads across Canada"], answer:2},
+     {q:"Roughly how long did the residential school system operate in Canada?", options:["Over a century","Less than a month","Only a single year","It never actually operated"], answer:0},
+     {q:"What does reconciliation mean in this context?", options:["Preventing any further learning about the past","Erasing all records of what happened","Acknowledging past harms and working to rebuild trust with Indigenous peoples","Ignoring history completely"], answer:2},
+     {q:"Why is learning about residential schools considered important today?", options:["It should never be discussed","It helps Canadians understand history and support reconciliation efforts","This history has no relevance today","It is not connected to reconciliation at all"], answer:1},
+     {q:"What is one way Canada has worked toward reconciliation?", options:["Formal acknowledgements, apologies, and commemorative actions","Removing the history from all records","Ignoring requests from Indigenous communities","Refusing to discuss the topic at all"], answer:0}
+   ]},
+]},
+{day:175, label:"Day 175 — Fri", subjects:[
+  {subject:"Language", title:"Writing: Writing a Limerick", summary:"Grade 4 Language strand: a limerick is a humorous five-line poem with a distinct AABBA rhyme scheme, where the first, second, and fifth lines rhyme with each other and the third and fourth lines rhyme with each other.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"How many lines does a limerick typically have?", options:["Five","Ten","Seven","Three"], answer:0},
+     {q:"What rhyme scheme does a limerick usually follow?", options:["ABAB","AABBA","ABCD","AAAA"], answer:1},
+     {q:"Which lines of a limerick rhyme with each other in the AABBA pattern?", options:["Lines one, two, and five","All five lines rhyme differently","Lines one and three","Lines two and four"], answer:0},
+     {q:"What tone do limericks usually have?", options:["Purely scientific","Formal and businesslike","Humorous or playful","Extremely serious"], answer:2},
+     {q:"Why might a writer enjoy writing a limerick?", options:["Limericks are always exactly one line long","It removes any creative choices from writing","It offers a fun, playful way to experiment with rhyme and rhythm","Limericks have no rhyme or structure at all"], answer:2}
+   ]},
+  {subject:"Math", title:"Number Sense: Converting Between Fractions and Decimals", summary:"Grade 4 Math strand: a fraction can be converted to a decimal by dividing the numerator by the denominator, and a decimal can be converted to a fraction using its place value, such as tenths or hundredths.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"How can you convert a fraction to a decimal?", options:["Divide the numerator by the denominator","Subtract the denominator from the numerator","Add the numerator and denominator","Multiply the numerator by the denominator"], answer:0},
+     {q:"What is the decimal form of 1/4?", options:["0.14","0.25","0.4","4.0"], answer:1},
+     {q:"What is the decimal form of 3/10?", options:["3.10","0.31","0.03","0.3"], answer:3},
+     {q:"What is the fraction form of 0.75?", options:["7/5","75/10","0.75/1","75/100"], answer:3},
+     {q:"Why is it useful to be able to convert between fractions and decimals?", options:["It only works with whole numbers","It allows numbers to be compared and used more flexibly in different situations","Fractions and decimals can never represent the same value","Converting between them is never useful in math"], answer:1}
+   ]},
+  {subject:"Science", title:"Science: Wetlands and Marshes as Ecosystems", summary:"Grade 4 Science strand: wetlands, including marshes, are ecosystems where land is regularly covered or saturated with water, supporting unique plants and animals while also filtering pollutants and reducing flooding.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What defines a wetland?", options:["A frozen area with no plant life","A dry desert region","Land that is regularly covered or saturated with water","Land that never has any water at all"], answer:2},
+     {q:"What is a marsh?", options:["A type of desert","A type of wetland ecosystem","A type of mountain","A type of glacier"], answer:1},
+     {q:"What is one important function wetlands provide for the environment?", options:["Filtering pollutants and reducing flooding","Removing all water from the surrounding land","Preventing any plants from growing","Increasing air pollution"], answer:0},
+     {q:"Why do wetlands support such a wide variety of plants and animals?", options:["Wetlands are identical to deserts","No living things can survive in wetlands","Wetlands have no water and cannot support life","The combination of water and land creates diverse habitats"], answer:3},
+     {q:"Why is protecting wetlands considered important?", options:["Wetlands have no connection to flooding","Wetlands provide no benefits to the environment","They provide valuable ecological benefits like flood control and habitat","Protecting wetlands has no effect on wildlife"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Canadas Peacekeeping Role in the Suez Crisis", summary:"Grade 4 Social Studies strand: during the Suez Crisis of 1956, Canadian diplomat Lester B. Pearson proposed the creation of a United Nations peacekeeping force, an idea that helped resolve the conflict and later earned him the Nobel Peace Prize.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What was the Suez Crisis?", options:["A natural disaster in northern Canada","A 1956 international conflict involving Egypt and other nations","A Canadian provincial election","A trade agreement between Canada and the United States"], answer:1},
+     {q:"Who proposed the idea of a United Nations peacekeeping force during the Suez Crisis?", options:["David Thompson","John A. Macdonald","Lester B. Pearson","Terry Fox"], answer:2},
+     {q:"What recognition did Lester B. Pearson later receive for his role in the crisis?", options:["The Nobel Peace Prize","The Governor General Award for literature","An Olympic gold medal","The Stanley Cup"], answer:0},
+     {q:"What is the purpose of a United Nations peacekeeping force?", options:["To replace the governments of other countries","To start new wars between countries","To help maintain peace and stability during or after conflicts","To prevent all countries from communicating"], answer:2},
+     {q:"Why is the Suez Crisis significant in Canadian history?", options:["It has no connection to Canadian history","It highlighted Canadas role in developing international peacekeeping","Canada played no part in resolving the crisis","It only involved countries outside of the United Nations"], answer:1}
+   ]},
+]},
+{day:176, label:"Day 176 — Mon", subjects:[
+  {subject:"Language", title:"Vocabulary: Denotation and Connotation in Poetry", summary:"Grade 4 Language strand: denotation is the literal dictionary meaning of a word, while connotation is the feeling or association a word carries, and poets often choose words carefully for their connotations.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is denotation?", options:["The feeling a word suggests","The literal dictionary meaning of a word","The sound a word makes when spoken","A type of punctuation mark"], answer:1},
+     {q:"What is connotation?", options:["A rule about capitalization","The feeling or association a word carries beyond its literal meaning","The exact number of letters in a word","The literal dictionary definition of a word"], answer:1},
+     {q:"Why might a poet choose the word slender instead of skinny?", options:["Connotation has no effect on word choice","Skinny is always considered a formal word","Slender often carries a more positive connotation than skinny","The two words have completely different denotations"], answer:2},
+     {q:"Which of these words has a generally negative connotation, even though it can share a denotation with a neutral word?", options:["Firm","Steady","Stubborn","Determined"], answer:2},
+     {q:"Why is understanding connotation important when reading poetry?", options:["It helps readers notice the deeper feelings and tone behind word choices","Connotation has no effect on how a poem feels","All words have identical connotations","Poets never consider connotation when choosing words"], answer:0}
+   ]},
+  {subject:"Math", title:"Measurement: Calculating Perimeter Using Algebraic Expressions", summary:"Grade 4 Math strand: the perimeter of a shape with unknown side lengths can be represented using an algebraic expression, where each side is written as a variable or expression and then combined.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"If a square has a side length of s, what algebraic expression represents its perimeter?", options:["s squared","2s","4s","s plus 4"], answer:2},
+     {q:"If a rectangle has length L and width W, what expression represents its perimeter?", options:["L minus W","2L plus 2W","L plus W","L times W"], answer:1},
+     {q:"If a triangle has sides represented by a, b, and c, what expression represents its perimeter?", options:["a minus b minus c","a times b times c","a divided by b","a plus b plus c"], answer:3},
+     {q:"If a square has a side length of x equal to 6, what is its perimeter using the expression 4x?", options:["18","20","24","30"], answer:2},
+     {q:"Why is it useful to write perimeter as an algebraic expression?", options:["Algebraic expressions can never represent a real measurement","It removes the need to know the shape of the figure","It only works for shapes with exactly one side","It allows the perimeter to be calculated for any value of the unknown side length"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: How Vaccines Help the Body Fight Disease", summary:"Grade 4 Science strand: a vaccine trains the bodys immune system to recognize and fight a specific germ by introducing a safe, weakened, or inactive version of it, helping prevent future illness.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What does a vaccine help the body do?", options:["See in the dark","Digest food more efficiently","Grow taller more quickly","Recognize and fight a specific germ"], answer:3},
+     {q:"What might a vaccine contain to train the immune system?", options:["Pure water only","A type of metal","A safe, weakened, or inactive version of a germ","A large amount of sugar"], answer:2},
+     {q:"What part of the body responds to a vaccine?", options:["The immune system","The skeletal system","The respiratory system alone","The digestive system"], answer:0},
+     {q:"Why might a person who is vaccinated be less likely to get seriously ill from a disease?", options:["Vaccines remove the immune system entirely","Their immune system already learned how to recognize and fight the germ","Vaccines have no effect on the immune system","Vaccinated people can no longer get sick from anything"], answer:1},
+     {q:"Why are vaccines considered an important tool in public health?", options:["Vaccines have no effect on disease prevention","Vaccines have never been used to prevent illness","They help prevent the spread of serious diseases in communities","Vaccines only affect a single person and no one else"], answer:2}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Rideau Canal — A Historic Waterway", summary:"Grade 4 Social Studies strand: the Rideau Canal, connecting Ottawa to Kingston, was built in the early 1800s for military and transportation purposes and is now a UNESCO World Heritage Site known for boating in summer and skating in winter.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Which two cities does the Rideau Canal connect?", options:["Vancouver and Calgary","Halifax and Quebec City","Toronto and Montreal","Ottawa and Kingston"], answer:3},
+     {q:"Why was the Rideau Canal originally built?", options:["As a site for an airport","For military and transportation purposes","As a place for growing crops","As a location for a shopping mall"], answer:1},
+     {q:"In approximately what era was the Rideau Canal built?", options:["The late 1900s","The far future","The early 1800s","Ancient times"], answer:2},
+     {q:"What international recognition has the Rideau Canal received?", options:["It was renamed a national park","It was declared a natural wonder of the world","It has never received any recognition","It is a UNESCO World Heritage Site"], answer:3},
+     {q:"What activities is the Rideau Canal known for today?", options:["Only air travel year-round","Only underground mining","Only agriculture and farming","Boating in summer and skating in winter"], answer:3}
+   ]},
+]},
+{day:177, label:"Day 177 — Tue", subjects:[
+  {subject:"Language", title:"Writing: Writing a Persuasive Speech", summary:"Grade 4 Language strand: a persuasive speech presents a clear opinion supported by reasons and evidence, uses persuasive language, and is organized to convince an audience through spoken delivery.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is the main purpose of a persuasive speech?", options:["To convince an audience to agree with an opinion","To retell a fictional story","To simply describe a place in detail","To list unrelated facts with no argument"], answer:0},
+     {q:"What should support the opinion in a persuasive speech?", options:["A single unrelated fact","Clear reasons and evidence","Random unrelated details","A list of characters"], answer:1},
+     {q:"Why might a speaker use persuasive language such as strong or urgent words?", options:["To make the argument feel more convincing and impactful","Persuasive language has no effect on an audience","It removes the speakers opinion from the speech","It makes the speech confusing on purpose"], answer:0},
+     {q:"What is one difference between a persuasive speech and a persuasive essay?", options:["A speech and an essay are always identical","A speech is never allowed to state an opinion","A speech cannot use evidence to support claims","A speech is delivered aloud to a live audience"], answer:3},
+     {q:"Why might a strong conclusion be important in a persuasive speech?", options:["It leaves the audience with a clear, memorable final impression","The conclusion has no effect on the audience","A weak conclusion always makes a speech more persuasive","Conclusions are never included in speeches"], answer:0}
+   ]},
+  {subject:"Math", title:"Probability: Probability of Independent Events", summary:"Grade 4 Math strand: two events are independent when the outcome of one does not affect the outcome of the other, and the probability of both independent events occurring is found by multiplying their individual probabilities.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What does it mean for two events to be independent?", options:["Independent events can never both occur","One event always causes the other to happen","The two events always happen at the exact same time","The outcome of one event does not affect the other"], answer:3},
+     {q:"How do you find the probability of two independent events both occurring?", options:["Multiply their individual probabilities together","Subtract one probability from the other","Divide one probability by the other","Add their individual probabilities together"], answer:0},
+     {q:"If the probability of flipping heads is 1/2 and rolling a 6 is 1/6, what is the probability of both happening?", options:["7/12","1/6","1/12","1/2"], answer:2},
+     {q:"Is drawing a card and then flipping a coin an example of independent events?", options:["Yes, because the card drawn does not affect the coin flip","Yes, but only if the same object is used twice","No, because the two events are always connected","No, because a coin flip always affects a card draw"], answer:0},
+     {q:"Why is it useful to understand independent events in probability?", options:["Independent events can never be calculated","It has no real use in probability","It helps accurately calculate the chances of multiple events happening together","It only applies to events that always happen"], answer:2}
+   ]},
+  {subject:"Science", title:"Science: The Structure of the Human Eye", summary:"Grade 4 Science strand: the human eye contains structures such as the cornea, pupil, lens, and retina that work together to focus light and allow the brain to interpret images.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is the cornea of the eye?", options:["A clear, curved outer layer that helps focus light entering the eye","A muscle that controls breathing","A type of blood vessel","A bone that protects the skull"], answer:0},
+     {q:"What is the pupil?", options:["A bone in the inner ear","A part of the digestive system","A muscle used for walking","The opening that allows light to enter the eye"], answer:3},
+     {q:"What does the lens of the eye do?", options:["Pumps blood through the body","Focuses light onto the retina","Filters air before breathing","Produces sound waves"], answer:1},
+     {q:"What is the retina?", options:["A muscle that moves the arms","A bone connected to the spine","A gland that produces saliva","The layer at the back of the eye that senses light and sends signals to the brain"], answer:3},
+     {q:"Why do the different parts of the eye need to work together?", options:["The eye has no role in how we see","Each part plays a role in focusing light and forming a clear image for the brain","Only one part of the eye is ever used at a time","The parts of the eye have no connection to each other"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Municipal Bylaws — Local Rules for Communities", summary:"Grade 4 Social Studies strand: a municipal bylaw is a local law made by a city or town council that regulates matters such as noise, parking, property standards, and animal control within that community.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What is a municipal bylaw?", options:["An international treaty between countries","A rule that only applies inside a single school","A national law passed by Parliament","A local law made by a city or town council"], answer:3},
+     {q:"Who creates municipal bylaws?", options:["A foreign government","A city or town council","The Supreme Court of Canada","The Prime Minister"], answer:1},
+     {q:"Which of these might be regulated by a municipal bylaw?", options:["Federal income tax rates","International trade agreements","Noise levels and parking rules","National defence policy"], answer:2},
+     {q:"Why might a community need bylaws about noise or property standards?", options:["Bylaws have no effect on a community","To help maintain order, safety, and quality of life locally","Bylaws only apply to other countries","Local rules are never needed in communities"], answer:1},
+     {q:"Why do bylaws vary from one municipality to another?", options:["All municipalities are required to have identical rules","Bylaws are set only by the federal government","Each community may have different needs and local priorities","Municipalities are not allowed to make their own rules"], answer:2}
+   ]},
+]},
+{day:178, label:"Day 178 — Wed", subjects:[
+  {subject:"Language", title:"Reading: Understanding Allegory", summary:"Grade 4 Language strand: an allegory is a story in which characters, events, or settings represent a deeper meaning or message beyond the literal plot, often related to a moral, political, or spiritual idea.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"What is an allegory?", options:["A story where characters or events represent a deeper meaning","A list of unrelated facts","A type of punctuation mark","A story that has no meaning beyond the literal plot"], answer:0},
+     {q:"What might the characters in an allegory represent?", options:["Ideas, values, or real-world concepts beyond themselves","Only the authors personal diary entries","Nothing beyond their literal actions","Only random unrelated objects"], answer:0},
+     {q:"Why might an author choose to write an allegory instead of stating an idea directly?", options:["To explore a deeper message in an engaging, indirect way","Direct statements are always more effective than allegories","Allegories cannot convey any meaning at all","Allegories always confuse readers on purpose"], answer:0},
+     {q:"What kind of message might an allegory often explore?", options:["Only a recipe for cooking","A moral, political, or spiritual idea","Only a list of numbers","Only the weather forecast"], answer:1},
+     {q:"How can readers identify that a story might be an allegory?", options:["By checking the total number of pages","Allegories cannot be identified in any way","By ignoring the plot entirely","By noticing that characters or events seem to symbolize larger ideas"], answer:3}
+   ]},
+  {subject:"Math", title:"Number Sense: Estimating Square Roots", summary:"Grade 4 Math strand: the square root of a number that is not a perfect square can be estimated by identifying the two perfect squares it falls between and judging which one it is closer to.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What are the two perfect squares that 20 falls between?", options:["25 and 36","9 and 16","16 and 25","1 and 9"], answer:2},
+     {q:"Since 20 falls between 16 and 25, is the square root of 20 closer to 4 or 5?", options:["Closer to 6","Closer to 4","Exactly halfway","Closer to 5"], answer:3},
+     {q:"What are the two perfect squares that 40 falls between?", options:["25 and 36","49 and 64","16 and 25","36 and 49"], answer:3},
+     {q:"What is a reasonable estimate for the square root of 40?", options:["About 10","About 20","About 6.3","About 4"], answer:2},
+     {q:"Why is estimating square roots a useful skill?", options:["Estimating has no mathematical value","Square roots never need to be estimated","Square roots can only be calculated for perfect squares","It helps approximate values for numbers that are not perfect squares"], answer:3}
+   ]},
+  {subject:"Science", title:"Science: Fermentation — How Microorganisms Transform Food", summary:"Grade 4 Science strand: fermentation is a process in which microorganisms such as yeast or bacteria break down sugars, producing gases or acids that change food, as seen in bread rising or yogurt forming.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is fermentation?", options:["A process where food is frozen solid","A process where microorganisms break down sugars in food","A process where food is boiled at high heat","A process that removes all microorganisms from food"], answer:1},
+     {q:"Which microorganism is commonly used to help bread rise?", options:["Yeast","A type of bird","A type of insect","A type of fish"], answer:0},
+     {q:"What does fermentation produce that can cause bread dough to rise?", options:["Pure water only","Solid metal","Gases, such as carbon dioxide","Sunlight"], answer:2},
+     {q:"Which food is commonly made using fermentation?", options:["Yogurt","Ice cubes","Plain uncooked rice","Fresh raw carrots"], answer:0},
+     {q:"Why is fermentation useful in food preparation?", options:["Fermentation has no effect on food at all","It can change food texture, flavour, and help with preservation","Fermentation destroys all nutrients instantly","Fermentation only works on liquids, never solids"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: The Role of the CRTC — Regulating Broadcasting and Telecommunications", summary:"Grade 4 Social Studies strand: the Canadian Radio-television and Telecommunications Commission, or CRTC, is a federal agency that regulates radio, television, and telecommunications services to serve the public interest across Canada.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What does the CRTC stand for?", options:["Central Recreation and Tourism Commission","Canadian Retail and Trade Corporation","Canadian Road Transportation and Trade Council","Canadian Radio-television and Telecommunications Commission"], answer:3},
+     {q:"What kinds of services does the CRTC regulate?", options:["National parks and forests","Postal delivery services","Farming and agriculture","Radio, television, and telecommunications services"], answer:3},
+     {q:"Is the CRTC a federal or municipal agency?", options:["Provincial only","International only","Municipal","Federal"], answer:3},
+     {q:"Why might the CRTC set rules for Canadian broadcasting content?", options:["To help ensure Canadian content and public interest are represented","To give complete control to foreign broadcasters only","To prevent any radio or television broadcasting from existing","Broadcasting has no connection to public interest"], answer:0},
+     {q:"Why is it useful for a country to regulate broadcasting and telecommunications?", options:["Broadcasting never needs any oversight","It helps ensure fair access, quality standards, and public interest protections","Regulation has no benefit to the public","Telecommunications services require no rules at all"], answer:1}
+   ]},
+]},
+{day:179, label:"Day 179 — Thu", subjects:[
+  {subject:"Language", title:"Vocabulary: Commonly Confused Words — Its and Its", summary:"Grade 4 Language strand: its and its are commonly confused homophones, where its shows possession and its is a short form of it is or it has.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which word shows possession, meaning belonging to it?", options:["Its","Both words equally","Its with an apostrophe","Neither word"], answer:0},
+     {q:"Which word is a short form combining it and is?", options:["Its with an apostrophe","Neither word","Both words equally","Its without an apostrophe"], answer:0},
+     {q:"Which sentence correctly uses the possessive form?", options:["The dog wagged it is tail.","The dog wagged the tail of it is.","The dog wagged its tail.","The dog wagged its is tail."], answer:2},
+     {q:"Which sentence correctly uses the short form for it is?", options:["Its is raining outside today.","The cat licked its raining paw.","The dog chased raining its tail.","Its raining outside today, meaning it is raining."], answer:3},
+     {q:"Why is it important to use the possessive and short forms correctly in writing?", options:["These forms are never confused by writers","Using the correct form helps the sentence make clear sense to readers","The two forms always mean exactly the same thing","Spelling never affects meaning in a sentence"], answer:1}
+   ]},
+  {subject:"Math", title:"Financial Literacy: Reading and Interpreting a Budget", summary:"Grade 4 Math strand: a budget is a plan that organizes expected income and expenses over a period of time, helping individuals or families track money coming in and money going out.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What is a budget?", options:["A type of bank building","A list of favourite foods","A schedule of sports games","A plan that organizes expected income and expenses"], answer:3},
+     {q:"What does income refer to in a budget?", options:["Money spent on groceries","Money coming in, such as from a job or allowance","A type of tax only","Money that has been lost"], answer:1},
+     {q:"What does an expense refer to in a budget?", options:["A type of income only","Money saved in a bank account","Money earned from a job","Money going out, such as for bills or purchases"], answer:3},
+     {q:"If a family budget shows 500 dollars in income and 350 dollars in expenses, how much money is left over?", options:["850 dollars","350 dollars","150 dollars","500 dollars"], answer:2},
+     {q:"Why is creating a budget a helpful financial habit?", options:["It helps track and plan how money is earned and spent","Tracking income and expenses has no real purpose","Budgets only apply to large businesses","Budgets have no effect on managing money"], answer:0}
+   ]},
+  {subject:"Science", title:"Science: Wetlands and Marshes as Ecosystems — Case Study of a Local Marsh", summary:"Grade 4 Science strand: examining a specific local marsh in detail builds on the general concept of wetlands, showing how plants such as cattails and animals such as herons rely on the shallow water and rich soil found there.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What kind of plant commonly grows in a marsh?", options:["Pine trees","Cactus","Desert shrubs","Cattails"], answer:3},
+     {q:"What kind of animal is often seen wading in a marsh looking for fish?", options:["A camel","A kangaroo","A polar bear","A heron"], answer:3},
+     {q:"Why do marshes typically have shallow water rather than deep water?", options:["Shallow water prevents any life from surviving there","Marshes never contain any water at all","Deep water always forms in every marsh","Shallow water allows sunlight to reach plants and supports diverse life"], answer:3},
+     {q:"What role does rich soil play in a marsh ecosystem?", options:["It only supports growth in deserts","It prevents any plants from growing","It has no connection to plant growth","It supports the growth of many types of marsh plants"], answer:3},
+     {q:"Why might scientists study a specific local marsh closely?", options:["Marshes cannot support any wildlife","Local marshes have no scientific value","Studying one marsh applies to no other location","To understand how local plants and animals interact within that ecosystem"], answer:3}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies: Comparing Federal, Provincial, and Municipal Bylaws and Laws", summary:"Grade 4 Social Studies strand: laws in Canada exist at the federal, provincial, and municipal levels, with each level of government responsible for different areas, from national laws down to local community bylaws.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"Which level of government creates laws for the entire country?", options:["Municipal","Only provincial","Federal","None of these levels"], answer:2},
+     {q:"Which level of government creates local bylaws, such as parking rules?", options:["Only provincial","Municipal","Federal","None of these levels"], answer:1},
+     {q:"Which level of government is responsible for areas such as healthcare and education in a province?", options:["Only municipal","Only federal","None of these levels","Provincial"], answer:3},
+     {q:"Why does Canada have laws made at three different levels of government?", options:["Having multiple levels of government serves no purpose","Different levels handle national, regional, and local responsibilities effectively","Only one level of government is allowed to make laws","All laws in Canada are made by cities only"], answer:1},
+     {q:"Why is it useful for students to understand how laws are made at different levels?", options:["It helps them understand how decisions that affect their daily lives are made","Understanding government levels has no value","Laws have no connection to daily life","Only adults are affected by any laws"], answer:0}
+   ]},
+]},
+{day:180, label:"Day 180 — Fri", subjects:[
+  {subject:"Language", title:"Language Review: Adverbs, Mood, and Storytelling Forms", summary:"Grade 4 Language strand review: students revisit relative adverbs, the subjunctive mood, writing a folk tale, a plays structure, and writing a limerick.",
+   resourceLabel:"TVO Learn: Grade 4 Language", resourceUrl:"https://tvolearn.com/pages/grade-4-language",
+   quiz:[
+     {q:"Which relative adverb describes a place?", options:["Why","Where","Who","When"], answer:1},
+     {q:"What does the subjunctive mood often express?", options:["A direct command","A question about a location","A wish or a situation that is not currently true","A simple fact that is happening right now"], answer:2},
+     {q:"What is a folk tale?", options:["A traditional story passed down through generations","A list of historical dates","A scientific report on nature","A formal business letter"], answer:0},
+     {q:"What is an act in a play?", options:["The name of a character","A major division of the story","A type of stage prop","A single line of dialogue"], answer:1},
+     {q:"How many lines does a limerick typically have?", options:["Three","Five","Ten","Seven"], answer:1}
+   ]},
+  {subject:"Math", title:"Math Review: Quadrilaterals, Division, and Data", summary:"Grade 4 Math strand review: students revisit classifying quadrilaterals by parallel sides, dividing a 4-digit number by a 1-digit divisor, calculating the mean, Venn diagrams for factors, and converting fractions to decimals.",
+   resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   quiz:[
+     {q:"What defines a parallelogram?", options:["It has two pairs of parallel sides","It has exactly one pair of parallel sides","It has five sides","It has no parallel sides"], answer:0},
+     {q:"What is a common first step when dividing a 4-digit number by a 1-digit divisor?", options:["Multiply the two numbers together","Start by dividing the leftmost digit or digits by the divisor","Add the divisor to the 4-digit number","Start by dividing the rightmost digit by the divisor"], answer:1},
+     {q:"How do you calculate the mean of a data set?", options:["Add all the values and divide by the number of values","Multiply all the values together","Find the smallest value only","Find the largest value only"], answer:0},
+     {q:"What can a Venn diagram show when comparing two numbers?", options:["Only their difference","Their shared and unique factors or multiples","Only their product","Only their sum"], answer:1},
+     {q:"How can you convert a fraction to a decimal?", options:["Add the numerator and denominator","Divide the numerator by the denominator","Subtract the denominator from the numerator","Multiply the numerator by the denominator"], answer:1}
+   ]},
+  {subject:"Science", title:"Science Review: Water, Ecosystems, and the Human Body", summary:"Grade 4 Science strand review: students revisit the water table, predator-prey cycles, ruminant digestion, the northern lights, and how vaccines work.",
+   resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   quiz:[
+     {q:"What is the water table?", options:["A table used to measure rainfall","A type of river on the surface","A machine used to pump ocean water","The upper level of groundwater stored underground"], answer:3},
+     {q:"What happens to a predator population when prey becomes more plentiful?", options:["The predator population disappears completely","The predator population tends to grow","The predator population has no reaction at all","The predator population instantly doubles overnight"], answer:1},
+     {q:"What is a ruminant animal?", options:["An animal that lives only underwater","An animal with a specialized four-chambered stomach for digesting plants","An animal that only eats meat","An animal that never eats at all"], answer:1},
+     {q:"What causes the aurora borealis?", options:["A type of volcanic eruption","Sunlight passing through raindrops","Reflections of city lights bouncing off clouds","Charged particles from the sun interacting with Earths atmosphere"], answer:3},
+     {q:"What does a vaccine help the body do?", options:["Grow taller more quickly","Recognize and fight a specific germ","See in the dark","Digest food more efficiently"], answer:1}
+   ]},
+  {subject:"SocialStudies", title:"Social Studies Review: Freedom Seekers, Arctic Geography, and Government Oversight", summary:"Grade 4 Social Studies strand review: students revisit Underground Railroad conductors, the Hudson Strait, the Auditor General, residential schools and reconciliation, and the Suez Crisis.",
+   resourceLabel:"TVO Learn: Grade 4 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-4-social-studies",
+   quiz:[
+     {q:"What was the role of a conductor on the Underground Railroad?", options:["Collecting taxes from travellers","Repairing roads between towns","Guiding freedom seekers along secret routes toward freedom","Building railway tracks across Canada"], answer:2},
+     {q:"What does the Hudson Strait connect?", options:["The Rocky Mountains to the prairies","The Pacific Ocean to the Great Lakes","Hudson Bay to the Atlantic Ocean","Lake Ontario to Lake Erie"], answer:2},
+     {q:"What does the Auditor General of Canada examine?", options:["The scores of national sports teams","The design of new highways","The weather across Canada","How the federal government spends public money"], answer:3},
+     {q:"What were residential schools designed to do?", options:["Teach all students about Indigenous traditions","Separate Indigenous children from their families and cultures","Build new roads across Canada","Provide extra holidays for students"], answer:1},
+     {q:"Who proposed the idea of a United Nations peacekeeping force during the Suez Crisis?", options:["John A. Macdonald","Lester B. Pearson","David Thompson","Terry Fox"], answer:1}
+   ]},
+]},
 ];
 
 export default curriculum;
