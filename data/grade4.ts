@@ -2324,6 +2324,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Ratios and Simple Proportional Reasoning (Intro)", summary:"Grade 4 Math strand: a ratio compares two quantities, such as 2 red marbles for every 3 blue marbles, and can be used to solve simple proportional problems.",
    resourceLabel:"TVO Learn: Grade 4 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-4-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=RQ2nYUBVvqI",
    quiz:[
      {q:"A ratio is used to ___.", options:["Compare two quantities","Add two quantities together","Measure the length of an object","A concept unrelated to ratios"], answer:0},
      {q:"If a recipe uses a ratio of 2 cups of flour for every 1 cup of sugar, how much flour is needed for 2 cups of sugar?", options:["2 cups","An amount unrelated to the ratio","1 cup","4 cups"], answer:3},
@@ -2333,6 +2334,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"States of Matter and the Particle Model", summary:"Grade 4 Science strand: matter exists in solid, liquid, and gas states, and the particle model explains that particles in a solid are tightly packed, in a liquid can move past each other, and in a gas move freely.",
    resourceLabel:"TVO Learn: Grade 4 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-4-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=oMbB-TTIFU4",
    quiz:[
      {q:"In a solid, particles are ___.", options:["Spread far apart and moving freely","Not present at all","A description unrelated to particles","Tightly packed and vibrate in place"], answer:3},
      {q:"In a liquid, particles ___.", options:["Are completely fixed in place","A description unrelated to particles","Spread out infinitely in all directions","Can move and slide past one another"], answer:3},

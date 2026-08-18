@@ -2324,6 +2324,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Measurement: Converting Units of Length", summary:"Grade 3 Math strand: converting units of length involves changing a measurement from one unit, like centimetres, to another, like metres, using the relationship between the two units.",
    resourceLabel:"TVO Learn: Grade 3 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-3-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=kOJFSH_Bn9U",
    quiz:[
      {q:"Converting units of length involves changing a measurement from one unit to ___.", options:["Another","Only the exact same unit, with no actual change","A completely unrelated type of measurement, like time","A concept unrelated to measurement"], answer:0},
      {q:"How many centimetres are in 1 metre?", options:["50","1000","10","100"], answer:3},
@@ -2333,6 +2334,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Science: Camouflage and Survival", summary:"Grade 3 Science strand: camouflage is an adaptation that helps an animal blend into its surroundings, making it harder for predators to see them or for prey to notice them approaching.",
    resourceLabel:"TVO Learn: Grade 3 Science and Technology", resourceUrl:"https://tvolearn.com/pages/grade-3-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=XznDguyYmps",
    quiz:[
      {q:"Camouflage is an adaptation that helps an animal ___.", options:["Change its entire body shape permanently","A concept unrelated to survival","Blend into its surroundings","Always stand out brightly against its surroundings"], answer:2},
      {q:"Camouflage can make it harder for predators to ___.", options:["See their prey","Find any food source whatsoever","Always immediately catch their prey with no effort","A concept unrelated to hunting or survival"], answer:0},
@@ -2342,6 +2344,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Social Studies: Indigenous Peoples’ Contributions to Canada", summary:"Grade 3 Social Studies strand: Indigenous Peoples have made significant and lasting contributions to Canada, including knowledge of the land, agricultural practices, and cultural traditions that continue to be valued today.",
    resourceLabel:"TVO Learn: Grade 3 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-3-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=glSIDAyyPJA",
    quiz:[
      {q:"Indigenous Peoples have made significant contributions to Canada, including knowledge of ___.", options:["The land","Nothing of lasting value","A concept entirely unrelated to Canadian history or culture","Only recent technology, with no historical significance"], answer:0},
      {q:"These contributions include agricultural practices and ___ traditions.", options:["Only foreign, with no connection to Indigenous communities","A concept unrelated to Indigenous knowledge or heritage","Nonexistent, since no traditions have been passed down","Cultural"], answer:3},
