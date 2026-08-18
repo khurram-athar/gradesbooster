@@ -13377,6 +13377,7 @@
         "summary": "Grade 11 English strand: algorithmic bias occurs when the automated systems that curate content on media platforms systematically favour certain viewpoints or information over others, often shaping what audiences see without their awareness.",
         "resourceLabel": "TVO Learn: Grade 11 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-english",
+        "videoUrl": "https://www.youtube.com/watch?v=69Dpr-Hu1Xc",
         "quiz": [
           {
             "q": "Algorithmic bias occurs when automated systems that curate content ___.",
@@ -13436,6 +13437,7 @@
         "summary": "Grade 11 Functions strand (Discrete Mathematics): mathematical induction is a method of proof that establishes a statement is true for all natural numbers by proving it holds for a base case and then showing that if it holds for one case, it must hold for the next.",
         "resourceLabel": "TVO Learn: Grade 11 Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=Tm2PJPvAULs",
         "quiz": [
           {
             "q": "Mathematical induction is a method used to prove a statement is true for ___.",
@@ -13495,6 +13497,7 @@
         "summary": "Grade 11 Biology strand: the integumentary system, primarily the skin, functions as the body’s largest organ, providing protection, regulating temperature, and enabling sensation through specialized layers and structures.",
         "resourceLabel": "TVO Learn: Grade 11 Biology",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-biology",
+        "videoUrl": "https://www.youtube.com/watch?v=t1iQHHJ0YyE",
         "quiz": [
           {
             "q": "The integumentary system is primarily made up of the ___.",
@@ -13554,6 +13557,7 @@
         "summary": "Grade 11 Chemistry strand: amines are organic compounds containing a nitrogen atom bonded to carbon, and their properties, including basicity and distinctive odour, make them important in biological molecules and industrial applications.",
         "resourceLabel": "TVO Learn: Grade 11 Chemistry",
         "resourceUrl": "https://tvolearn.com/pages/grade-11-chemistry",
+        "videoUrl": "https://www.youtube.com/watch?v=Kzm61ubVQmE",
         "quiz": [
           {
             "q": "An amine is an organic compound containing a nitrogen atom bonded to ___.",

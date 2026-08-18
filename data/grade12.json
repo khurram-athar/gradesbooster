@@ -13407,6 +13407,7 @@
         "summary": "Grade 12 English strand: diasporic literature explores the experiences of individuals and communities living away from an ancestral homeland, often examining themes of displacement, hybrid identity, and the tension between memory and belonging.",
         "resourceLabel": "TVO Learn: Grade 12 English",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-english",
+        "videoUrl": "https://www.youtube.com/watch?v=tCVN2-KrI0w",
         "quiz": [
           {
             "q": "Diasporic literature explores the experiences of individuals and communities living away from an ___.",
@@ -13466,6 +13467,7 @@
         "summary": "Grade 12 Advanced Functions strand: the normal distribution is a symmetric, bell-shaped probability distribution describing many real-world data sets, and a z-score expresses how many standard deviations a value lies from the mean.",
         "resourceLabel": "TVO Learn: Grade 12 Advanced Functions",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-advanced-functions",
+        "videoUrl": "https://www.youtube.com/watch?v=Pn03dfOz-Cs",
         "quiz": [
           {
             "q": "The normal distribution is a symmetric, ___ probability distribution.",
@@ -13525,6 +13527,7 @@
         "summary": "Grade 12 Calculus strand: hyperbolic functions, such as sinh(x) and cosh(x), are defined using combinations of exponential functions and share structural similarities with trigonometric functions, including distinct derivative rules.",
         "resourceLabel": "TVO Learn: Grade 12 Calculus",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-calculus",
+        "videoUrl": "https://www.youtube.com/watch?v=Q6-QZxUDfE0",
         "quiz": [
           {
             "q": "Hyperbolic functions, such as sinh(x) and cosh(x), are defined using combinations of ___ functions.",
@@ -13584,6 +13587,7 @@
         "summary": "Grade 12 Physics strand: the mass defect of a nucleus is the difference between the total mass of its separate protons and neutrons and the actual mass of the bound nucleus, and this missing mass corresponds to the nucleus’s binding energy.",
         "resourceLabel": "TVO Learn: Grade 12 Physics",
         "resourceUrl": "https://tvolearn.com/pages/grade-12-physics",
+        "videoUrl": "https://www.youtube.com/watch?v=eLwraf_A80U",
         "quiz": [
           {
             "q": "The mass defect of a nucleus is the difference between the total mass of its separate protons and neutrons and the actual mass of the ___.",

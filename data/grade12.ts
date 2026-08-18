@@ -2281,6 +2281,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"English", title:"Literature: Diasporic Identity and Migration Narratives", summary:"Grade 12 English strand: diasporic literature explores the experiences of individuals and communities living away from an ancestral homeland, often examining themes of displacement, hybrid identity, and the tension between memory and belonging.",
    resourceLabel:"TVO Learn: Grade 12 English", resourceUrl:"https://tvolearn.com/pages/grade-12-english",
+   videoUrl:"https://www.youtube.com/watch?v=tCVN2-KrI0w",
    quiz:[
      {q:"Diasporic literature explores the experiences of individuals and communities living away from an ___.", options:["Ancestral homeland","Empty, unpopulated location with no cultural history","Entirely fictional setting with no connection to any real place","A concept unrelated to migration or identity"], answer:0},
      {q:"Diasporic literature often examines themes of displacement and ___ identity.", options:["A concept unrelated to diasporic experience","Hybrid","Completely erased, with no cultural connection remaining","Entirely singular, with no blending of cultural influences"], answer:1},
@@ -2290,6 +2291,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"AdvancedFunctions", title:"Statistics: The Normal Distribution and Z-Scores", summary:"Grade 12 Advanced Functions strand: the normal distribution is a symmetric, bell-shaped probability distribution describing many real-world data sets, and a z-score expresses how many standard deviations a value lies from the mean.",
    resourceLabel:"TVO Learn: Grade 12 Advanced Functions", resourceUrl:"https://tvolearn.com/pages/grade-12-advanced-functions",
+   videoUrl:"https://www.youtube.com/watch?v=Pn03dfOz-Cs",
    quiz:[
      {q:"The normal distribution is a symmetric, ___ probability distribution.", options:["A concept unrelated to probability distributions","Bell-shaped","Rectangular, with equal probability across the entire range","Sharply spiked at only a single possible value"], answer:1},
      {q:"A z-score expresses how many standard deviations a value lies from the ___.", options:["Total number of data points collected","Minimum possible value in the entire data set","Mean","A concept unrelated to standard deviation"], answer:2},
@@ -2299,6 +2301,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Calculus", title:"Calculus: Hyperbolic Functions and Their Derivatives", summary:"Grade 12 Calculus strand: hyperbolic functions, such as sinh(x) and cosh(x), are defined using combinations of exponential functions and share structural similarities with trigonometric functions, including distinct derivative rules.",
    resourceLabel:"TVO Learn: Grade 12 Calculus", resourceUrl:"https://tvolearn.com/pages/grade-12-calculus",
+   videoUrl:"https://www.youtube.com/watch?v=Q6-QZxUDfE0",
    quiz:[
      {q:"Hyperbolic functions, such as sinh(x) and cosh(x), are defined using combinations of ___ functions.", options:["Purely constant functions, with no variable component","Exponential","Logarithmic functions exclusively, with no connection to exponentials","A concept unrelated to how hyperbolic functions are defined"], answer:1},
      {q:"Hyperbolic functions share structural similarities with ___ functions, including distinct derivative rules.", options:["Rational functions exclusively, with no other similarity","Only linear functions, with no other connection","A category of functions entirely unrelated to hyperbolic functions","Trigonometric"], answer:3},
@@ -2308,6 +2311,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Physics", title:"Physics: Nuclear Binding Energy and Mass Defect", summary:"Grade 12 Physics strand: the mass defect of a nucleus is the difference between the total mass of its separate protons and neutrons and the actual mass of the bound nucleus, and this missing mass corresponds to the nucleus’s binding energy.",
    resourceLabel:"TVO Learn: Grade 12 Physics", resourceUrl:"https://tvolearn.com/pages/grade-12-physics",
+   videoUrl:"https://www.youtube.com/watch?v=eLwraf_A80U",
    quiz:[
      {q:"The mass defect of a nucleus is the difference between the total mass of its separate protons and neutrons and the actual mass of the ___.", options:["Bound nucleus","Surrounding electron cloud exclusively, with no connection to the nucleus","A concept unrelated to nuclear structure","Entire atom’s outermost electron shell only"], answer:0},
      {q:"The missing mass in a nucleus corresponds to its ___.", options:["Binding energy","A concept unrelated to nuclear stability","Electric charge exclusively, with no connection to energy","Total number of protons, with no connection to energy"], answer:0},

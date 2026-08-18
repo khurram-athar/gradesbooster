@@ -2278,6 +2278,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"English", title:"Media Literacy: Analyzing Algorithmic Bias in Media Platforms", summary:"Grade 11 English strand: algorithmic bias occurs when the automated systems that curate content on media platforms systematically favour certain viewpoints or information over others, often shaping what audiences see without their awareness.",
    resourceLabel:"TVO Learn: Grade 11 English", resourceUrl:"https://tvolearn.com/pages/grade-11-english",
+   videoUrl:"https://www.youtube.com/watch?v=69Dpr-Hu1Xc",
    quiz:[
      {q:"Algorithmic bias occurs when automated systems that curate content ___.", options:["Have no influence at all on what content audiences see","A concept unrelated to media platforms","Present every viewpoint with exactly equal, unbiased frequency","Systematically favour certain viewpoints or information over others"], answer:3},
      {q:"Why might users be largely unaware that an algorithm is shaping the content they see?", options:["Curation often happens automatically in the background, without an obvious explanation to the user","Algorithms have no actual influence on the content displayed to users","Every media platform clearly explains its curation process to every user","A reason unrelated to how media platforms function"], answer:0},
@@ -2287,6 +2288,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Functions", title:"Discrete Math: Mathematical Induction (Introduction)", summary:"Grade 11 Functions strand (Discrete Mathematics): mathematical induction is a method of proof that establishes a statement is true for all natural numbers by proving it holds for a base case and then showing that if it holds for one case, it must hold for the next.",
    resourceLabel:"TVO Learn: Grade 11 Functions", resourceUrl:"https://tvolearn.com/pages/grade-11-functions",
+   videoUrl:"https://www.youtube.com/watch?v=Tm2PJPvAULs",
    quiz:[
      {q:"Mathematical induction is a method used to prove a statement is true for ___.", options:["No numbers at all","A concept unrelated to proof techniques","Only a single specific number","All natural numbers"], answer:3},
      {q:"The first step of a proof by mathematical induction is called the ___.", options:["A step unrelated to mathematical induction","Final case, with no earlier steps required","Base case","Conclusion"], answer:2},
@@ -2296,6 +2298,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Biology", title:"Biology: The Integumentary System — Skin as an Organ", summary:"Grade 11 Biology strand: the integumentary system, primarily the skin, functions as the body’s largest organ, providing protection, regulating temperature, and enabling sensation through specialized layers and structures.",
    resourceLabel:"TVO Learn: Grade 11 Biology", resourceUrl:"https://tvolearn.com/pages/grade-11-biology",
+   videoUrl:"https://www.youtube.com/watch?v=t1iQHHJ0YyE",
    quiz:[
      {q:"The integumentary system is primarily made up of the ___.", options:["A structure entirely unrelated to the integumentary system","Lungs and airways","Skin","Heart and blood vessels"], answer:2},
      {q:"The skin is often described as the body’s largest ___.", options:["A structure unrelated to this classification","Organ","Bone","Muscle, with no connection to organs"], answer:1},
@@ -2305,6 +2308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Chemistry", title:"Chemistry: Organic Chemistry — Amines and Nitrogen-Containing Compounds", summary:"Grade 11 Chemistry strand: amines are organic compounds containing a nitrogen atom bonded to carbon, and their properties, including basicity and distinctive odour, make them important in biological molecules and industrial applications.",
    resourceLabel:"TVO Learn: Grade 11 Chemistry", resourceUrl:"https://tvolearn.com/pages/grade-11-chemistry",
+   videoUrl:"https://www.youtube.com/watch?v=Kzm61ubVQmE",
    quiz:[
      {q:"An amine is an organic compound containing a nitrogen atom bonded to ___.", options:["Only hydrogen, with no connection to carbon","Only oxygen, with no connection to carbon","A concept unrelated to organic chemistry","Carbon"], answer:3},
      {q:"Amines are generally classified based on ___.", options:["Their exact colour, with no connection to structure","A concept unrelated to classifying amines","The total number of oxygen atoms present","How many carbon groups are bonded to the nitrogen atom"], answer:3},

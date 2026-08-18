@@ -2276,17 +2276,19 @@ const curriculum: DayContent[] = [
    ]},
 ]},
 {day:55, label:"Day 55 — Fri", subjects:[
-  {subject:"English", title:"Media Literacy: Analyzing Documentary Filmmaking Techniques", summary:"Grade 10 English strand: documentary filmmakers use techniques such as interviews, archival footage, narration, and editing choices to shape a persuasive or informative perspective on real events.",
+  {subject:"English", title:"Media Literacy: Recognizing Propaganda Techniques", summary:"Grade 10 English strand: propaganda techniques — such as bandwagon appeals, name-calling, glittering generalities, and fear appeals — are persuasive strategies used across advertising, politics, and media to shape opinion, often by appealing to emotion rather than evidence.",
    resourceLabel:"TVO Learn: Grade 10 English", resourceUrl:"https://tvolearn.com/pages/grade-10-english",
+   videoUrl:"https://www.youtube.com/watch?v=Gr4g1dqQL5g",
    quiz:[
-     {q:"Documentary filmmakers often use techniques such as ___.", options:["Purely fictional scenes with no connection to real events","Interviews, archival footage, narration, and editing choices","A concept unrelated to documentary filmmaking","Only completely unscripted, unedited footage with no other elements"], answer:1},
-     {q:"Why might the specific editing choices in a documentary influence how a viewer interprets an event?", options:["The order and selection of footage can shape which details and perspectives are emphasized","This factor is irrelevant to understanding documentary film","All documentaries present information in an identical, unedited way","Editing has no effect on how a documentary is perceived"], answer:0},
-     {q:"Why is narration often an important element to analyze in a documentary?", options:["The narrator’s tone and word choice can guide the audience toward a particular interpretation","Narration has no influence on how a documentary is understood","This element has no connection to persuasive or informative filmmaking","Documentaries never include any narration"], answer:0},
-     {q:"Which is an example of a technique used to build credibility in a documentary?", options:["Including interviews with relevant experts or eyewitnesses","Presenting only unsupported personal opinions with no evidence","A technique unrelated to building credibility","Avoiding any interviews or outside perspectives entirely"], answer:0},
-     {q:"Why is it valuable to critically analyze documentary filmmaking techniques as a media literacy skill?", options:["This skill has no connection to understanding media today","It helps viewers recognize how factual content can still be shaped by creative and persuasive choices","Critical analysis of documentaries has no value for media literacy","Documentaries always present information in a completely neutral way"], answer:1}
+     {q:"Propaganda techniques are best described as ___.", options:["A concept unrelated to persuasion or media","Purely factual, unbiased statements with no persuasive intent","Persuasive strategies used to shape opinion, often by appealing to emotion rather than evidence","A technique used only in historical contexts, never in modern media"], answer:2},
+     {q:"The \"bandwagon\" technique works by ___.", options:["Presenting only statistical evidence with no emotional appeal","This technique has no real persuasive effect","Suggesting that because many people believe or do something, the audience should too","Avoiding any reference to popularity or group behavior"], answer:2},
+     {q:"Why might \"name-calling\" be considered a weak or unfair argumentative technique?", options:["It attacks a person or idea with a negative label instead of addressing the actual argument","Name-calling always relies on strong, well-supported evidence","This technique has no connection to propaganda or persuasion","It is impossible to identify name-calling in real media"], answer:0},
+     {q:"\"Glittering generalities\" typically involve ___.", options:["A technique unrelated to emotional appeal","Detailed statistics with no emotional language at all","Vague, emotionally appealing words used to create a positive impression without real substance","Only precise, specific claims that can be fact-checked"], answer:2},
+     {q:"Why is it valuable to be able to recognize propaganda techniques as a media literacy skill?", options:["Propaganda techniques have no real impact on how people think","This skill has no connection to understanding media today","It helps a person evaluate persuasive messages critically rather than accepting them at face value","Recognizing these techniques only matters in historical or political contexts"], answer:2}
    ]},
   {subject:"Math", title:"Piecewise and Step Functions", summary:"Grade 10 Functions strand (extension): a piecewise function is defined by different expressions over different intervals of its domain, and a step function is a specific type of piecewise function whose graph looks like a series of horizontal steps.",
    resourceLabel:"TVO Learn: Grade 10 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-10-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=Uzw9tsGq2Pw",
    quiz:[
      {q:"A piecewise function is defined by ___.", options:["Different expressions over different intervals of its domain","No defined expression at all","A concept unrelated to functions","A single expression that applies across its entire domain"], answer:0},
      {q:"A step function’s graph typically looks like a series of ___.", options:["A concept unrelated to step functions","A single smooth, continuous curve","Horizontal steps","Diagonal lines with no flat sections"], answer:2},
@@ -2296,6 +2298,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Biology: The Nervous System and Neurotransmission", summary:"Grade 10 Biology strand: the nervous system coordinates the body’s responses using neurons that communicate through electrical and chemical signals, including neurotransmitters that cross the synapse between cells.",
    resourceLabel:"TVO Learn: Grade 10 Science", resourceUrl:"https://tvolearn.com/pages/grade-10-science",
+   videoUrl:"https://www.youtube.com/watch?v=VitFvNvRIIY",
    quiz:[
      {q:"The nervous system coordinates the body’s responses using ___.", options:["A process unrelated to communication between cells","Only mechanical movement, with no signalling involved","A single organ with no connection to other body systems","Neurons that communicate through electrical and chemical signals"], answer:3},
      {q:"Neurotransmitters are chemical messengers that ___.", options:["Cross the synapse between neurons to transmit a signal","Have no role in communication between neurons","Only function within a single neuron, with no connection to other cells","A concept unrelated to the nervous system"], answer:0},
@@ -2305,6 +2308,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"History", title:"The Employment Equity Act and Workplace Diversity", summary:"Grade 10 History strand: the 1986 Employment Equity Act aimed to address workplace discrimination in Canada by promoting equal opportunity for groups historically underrepresented in the workforce, including women, Indigenous peoples, persons with disabilities, and visible minorities.",
    resourceLabel:"TVO Learn: Grade 10 History", resourceUrl:"https://tvolearn.com/pages/grade-10-history",
+   videoUrl:"https://www.youtube.com/watch?v=vBC_AWfK0G0",
    quiz:[
      {q:"The Employment Equity Act was introduced in which year?", options:["1945","1986","1970","1919"], answer:1},
      {q:"The Employment Equity Act aimed to address ___.", options:["A reduction in workplace protections for underrepresented groups","Workplace discrimination and promote equal opportunity for underrepresented groups","A topic entirely unrelated to workplace conditions","Only issues affecting a single industry, with no broader application"], answer:1},

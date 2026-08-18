@@ -2285,6 +2285,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Systems of Linear and Quadratic Equations", summary:"Grade 9 Algebra strand: a system of a linear and a quadratic equation can be solved algebraically by substitution or graphically by finding the points where a line and a parabola intersect.",
    resourceLabel:"TVO Learn: Grade 9 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-9-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=NGPRtXxrinI",
    quiz:[
      {q:"A system of a linear and a quadratic equation can be solved graphically by finding ___.", options:["The single point where the parabola crosses the x-axis","A concept unrelated to systems of equations","The points where a line and a parabola intersect","Only the vertex of the parabola, with no connection to the line"], answer:2},
      {q:"A common algebraic method for solving a system of a linear and quadratic equation is ___.", options:["Substitution","A method unrelated to solving equations","Assuming there is always exactly one solution with no calculation","Ignoring one of the two equations entirely"], answer:0},
@@ -2294,6 +2295,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Genetic Engineering and Biotechnology Applications", summary:"Grade 9 Science Biology strand: genetic engineering involves directly modifying an organism’s DNA, and biotechnology applies these techniques in fields such as agriculture, medicine, and environmental science.",
    resourceLabel:"TVO Learn: Grade 9 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-9-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=YNrGLjVuCso",
    quiz:[
      {q:"Genetic engineering involves directly modifying an organism’s ___.", options:["A concept unrelated to biology","DNA","Physical appearance only, with no connection to DNA","Skeletal structure exclusively"], answer:1},
      {q:"Which is an example of a biotechnology application in agriculture?", options:["Developing crops that are genetically modified for pest resistance","A technique with no connection to genetics or crops","A process unrelated to biotechnology","Removing all genetic modification techniques from farming entirely"], answer:0},
@@ -2303,6 +2305,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Deforestation and Land Degradation", summary:"Grade 9 Social Studies (Geography) strand: deforestation is the large-scale removal of forests, often for agriculture or development, and it can contribute to land degradation, biodiversity loss, and changes in local and global climate patterns.",
    resourceLabel:"TVO Learn: Grade 9 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-9-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=YFfxd3eUUP4",
    quiz:[
      {q:"Deforestation is best described as ___.", options:["A process that only occurs underwater","The planting of new forests with no removal involved","The large-scale removal of forests","A concept unrelated to geography"], answer:2},
      {q:"Deforestation is often driven by the need for ___.", options:["Agricultural land or development","Increased forest protection with no land use change","A factor unrelated to land use","A decrease in human population"], answer:0},
