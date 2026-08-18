@@ -2275,6 +2275,7 @@ const curriculum: DayContent[] = [
 {day:55, label:"Day 55 — Fri", subjects:[
   {subject:"Language", title:"Reading: Analyzing Symbolism in Literature", summary:"Grade 6 Language strand: symbolism is when an author uses an object, character, or image to represent a deeper idea or meaning beyond its literal sense.",
    resourceLabel:"TVO Learn: Grade 6 Language", resourceUrl:"https://tvolearn.com/pages/grade-6-language",
+   videoUrl:"https://www.youtube.com/watch?v=GR9VbSXxouM",
    quiz:[
      {q:"Symbolism is when an author uses something to ___.", options:["A concept unrelated to literature","Describe only its literal, surface-level meaning","Confuse the reader with no real purpose","Represent a deeper idea or meaning"], answer:3},
      {q:"In many stories, a dove is often used to symbolize ___.", options:["A concept unrelated to common symbols","Confusion","Peace","Conflict"], answer:2},
@@ -2282,14 +2283,15 @@ const curriculum: DayContent[] = [
      {q:"Which is an example of symbolism in a story?", options:["A list of ingredients in a recipe","A concept unrelated to symbolism","A character simply describing the weather","A wilting flower representing a character’s fading hope"], answer:3},
      {q:"Why might different readers interpret a symbol differently?", options:["A reason unrelated to symbolism","Every reader is required to interpret a symbol in exactly the same way","Symbols can carry different meanings depending on a reader’s own experiences and perspective","Symbols always have only one possible meaning"], answer:2}
    ]},
-  {subject:"Math", title:"Volume and Surface Area of Composite Shapes", summary:"Grade 6 Math strand: a composite shape is made up of two or more simple shapes combined, and finding its volume or surface area involves calculating each part separately and combining the results.",
-   resourceLabel:"TVO Learn: Grade 6 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+  {subject:"Math", title:"Surface Area of Composite Solids", summary:"Grade 6 Math strand: a composite solid is made up of two or more simple 3D shapes combined, and finding its total surface area means calculating the exposed area of each part while excluding any faces that are joined together.",
+   resourceLabel:"YouTube: Surface Area of Composite Solids", resourceUrl:"https://tvolearn.com/pages/grade-6-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=lbSg8FtC3E8",
    quiz:[
-     {q:"A composite shape is made up of ___.", options:["A concept unrelated to composite shapes","Only a single, simple shape","Two or more simple shapes combined","A shape with no measurable dimensions"], answer:2},
-     {q:"To find the volume of a composite shape, you generally ___.", options:["Calculate the volume of each part separately and add them together","Multiply only the largest dimension by itself","Ignore all but one part of the shape","A method unrelated to composite shapes"], answer:0},
-     {q:"If a composite shape is made of a rectangular prism with volume 20 and a cube with volume 8, what is its total volume?", options:["A value unrelated to the calculation","28","12","160"], answer:1},
-     {q:"Why might a real object, like a house, be modelled as a composite shape?", options:["Real objects can never be broken into simple shapes","A reason unrelated to composite shapes","Composite shapes have no real-world application","Combining simple shapes helps estimate the volume or surface area of complex objects"], answer:3},
-     {q:"When finding the surface area of a composite shape, why is it important to check for shared faces?", options:["Faces that are joined together are not part of the outer surface and should not be counted","A reason unrelated to surface area","Shared faces always double the total surface area","Every face should always be counted, whether shared or not"], answer:0}
+     {q:"A composite solid is made up of ___.", options:["A concept unrelated to composite solids","Only a single, simple shape","Two or more simple 3D shapes combined","A shape with no measurable dimensions"], answer:2},
+     {q:"To find the surface area of a composite solid, you generally ___.", options:["Multiply only the largest dimension by itself","Calculate the exposed surface area of each part and add them together","Ignore all but one part of the solid","A method unrelated to composite solids"], answer:1},
+     {q:"When finding the surface area of a composite solid, why is it important to check for shared faces?", options:["Faces that are joined together are not part of the outer surface and should not be counted","A reason unrelated to surface area","Shared faces always double the total surface area","Every face should always be counted, whether shared or not"], answer:0},
+     {q:"If a composite solid is made of a rectangular prism with surface area 94 and it has a 4-unit-square face fully covered by an attached cube, what should you do with that shared face when finding total surface area?", options:["Count it twice, once for each solid","Subtract the area of that shared face from the total, since it is no longer exposed","Add extra area for it, since two solids are touching","This situation is unrelated to surface area"], answer:1},
+     {q:"Why might a real object, like a house, be modelled as a composite solid?", options:["Real objects can never be broken into simple shapes","A reason unrelated to composite solids","Composite solids have no real-world application","Combining simple shapes helps estimate the surface area of complex objects"], answer:3}
    ]},
   {subject:"Science", title:"Energy Transfer and Conservation of Energy", summary:"Grade 6 Science strand: energy can transfer between objects and change form, but the law of conservation of energy states that the total amount of energy in a closed system stays the same.",
    resourceLabel:"TVO Learn: Grade 6 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-6-science-and-technology",

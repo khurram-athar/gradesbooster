@@ -2285,6 +2285,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Math", title:"Algebraic Expressions: Variables and Terms", summary:"Grade 5 Math strand: an algebraic expression uses variables (letters representing unknown numbers) and terms to represent a mathematical relationship, such as “3x + 5.”",
    resourceLabel:"TVO Learn: Grade 5 Mathematics", resourceUrl:"https://tvolearn.com/pages/grade-5-mathematics",
+   videoUrl:"https://www.youtube.com/watch?v=OF2GtIinL_s",
    quiz:[
      {q:"A variable in an algebraic expression is ___.", options:["A concept unrelated to algebra","A letter that represents an unknown number","A symbol with no mathematical meaning","Always a fixed number that never changes"], answer:1},
      {q:"In the expression “3x + 5,” what is the variable?", options:["5","x","A part of the expression unrelated to variables","3"], answer:1},
@@ -2294,6 +2295,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"Science", title:"Life Cycles of Plants and Pollination", summary:"Grade 5 Science strand: plants go through a life cycle from seed to mature plant, and pollination -- often carried out by insects or wind -- is a key step that allows plants to reproduce.",
    resourceLabel:"TVO Learn: Grade 5 Science & Technology", resourceUrl:"https://tvolearn.com/pages/grade-5-science-and-technology",
+   videoUrl:"https://www.youtube.com/watch?v=SblJhOf8paw",
    quiz:[
      {q:"Pollination is the process by which ___.", options:["A seed is planted in the soil","Pollen is transferred to allow a plant to reproduce","A plant absorbs water through its roots","A concept unrelated to plant life cycles"], answer:1},
      {q:"Which of these commonly helps carry out pollination?", options:["Only artificial machines","Bees and other insects","Rocks and soil alone","A concept unrelated to pollination"], answer:1},
@@ -2303,6 +2305,7 @@ const curriculum: DayContent[] = [
    ]},
   {subject:"SocialStudies", title:"Globalization and Its Effects on Canada", summary:"Grade 5 Social Studies strand: globalization is the increasing connection between countries through trade, technology, and culture, and it has significant effects on Canada’s economy and society.",
    resourceLabel:"TVO Learn: Grade 5 Social Studies", resourceUrl:"https://tvolearn.com/pages/grade-5-social-studies",
+   videoUrl:"https://www.youtube.com/watch?v=IoN71vnK-ZM",
    quiz:[
      {q:"Globalization refers to ___.", options:["The increasing connection between countries through trade, technology, and culture","A process that only affects a single country","A concept unrelated to international relations","Countries becoming completely isolated from one another"], answer:0},
      {q:"Which is an example of globalization affecting Canada?", options:["A concept unrelated to globalization","Canada having no trade relationships with any other country","Canada being completely self-sufficient with no imports","Canadians buying products manufactured in other countries"], answer:3},
